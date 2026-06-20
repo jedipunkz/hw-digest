@@ -21,14 +21,14 @@ import (
 )
 
 const (
-	window    = 3 * time.Hour
 	seenFor   = 30 * 24 * time.Hour
 	userAgent = "hw-digest/1.0 (+https://github.com/jedipunkz/hw-digest)"
 )
 
 type source struct {
-	Name string `json:"name"`
-	URL  string `json:"url"`
+	Name       string   `json:"name"`
+	URL        string   `json:"url"`
+	Categories []string `json:"categories"`
 }
 
 type feedSet struct {
@@ -47,6 +47,7 @@ type item struct {
 	Link      string
 	Published time.Time
 	Source    string
+	Category  string
 }
 
 type sourceResult struct {
@@ -82,13 +83,18 @@ func (l *feedLink) UnmarshalXML(d *xml.Decoder, start xml.StartElement) error {
 type seen map[string]time.Time
 
 func main() {
-	if err := run(context.Background(), time.Now().UTC(), "sources.json", "data/seen.json", "docs"); err != nil {
+	lookback, err := parseLookback(os.Getenv("LOOKBACK"))
+	if err != nil {
+		fmt.Fprintln(os.Stderr, "hw-digest:", err)
+		os.Exit(2)
+	}
+	if err := run(context.Background(), time.Now().UTC(), lookback, "sources.json", "data/seen.json", "docs"); err != nil {
 		fmt.Fprintln(os.Stderr, "hw-digest:", err)
 		os.Exit(1)
 	}
 }
 
-func run(ctx context.Context, now time.Time, configPath, seenPath, outputDir string) error {
+func run(ctx context.Context, now time.Time, lookback time.Duration, configPath, seenPath, outputDir string) error {
 	cfg, err := readConfig(configPath)
 	if err != nil {
 		return err
@@ -100,7 +106,7 @@ func run(ctx context.Context, now time.Time, configPath, seenPath, outputDir str
 	pruneSeen(known, now)
 	client := &http.Client{Timeout: 30 * time.Second}
 	for _, set := range cfg.Feeds {
-		collected, err := collect(ctx, client, set.Sources, now)
+		collected, err := collect(ctx, client, set.Sources, now, lookback)
 		if err != nil {
 			return fmt.Errorf("collect %s: %w", set.Title, err)
 		}
@@ -114,12 +120,28 @@ func run(ctx context.Context, now time.Time, configPath, seenPath, outputDir str
 			fresh = append(fresh, article)
 		}
 		sort.Slice(fresh, func(i, j int) bool { return fresh[i].Published.After(fresh[j].Published) })
-		if err := writeFeed(filepath.Join(outputDir, set.Path), set, fresh, now); err != nil {
+		if err := writeFeed(filepath.Join(outputDir, set.Path), set, fresh, now, lookback); err != nil {
 			return err
 		}
 		writeSummary(set, collected.Sources, len(fresh))
 	}
 	return writeSeen(seenPath, known)
+}
+
+func parseLookback(value string) (time.Duration, error) {
+	if value == "" {
+		return 3 * time.Hour, nil
+	}
+	lookback, err := time.ParseDuration(value)
+	if err != nil {
+		return 0, fmt.Errorf("invalid LOOKBACK %q: %w", value, err)
+	}
+	for _, allowed := range []time.Duration{3 * time.Hour, 24 * time.Hour, 7 * 24 * time.Hour} {
+		if lookback == allowed {
+			return lookback, nil
+		}
+	}
+	return 0, fmt.Errorf("LOOKBACK must be one of 3h, 24h, or 168h; got %q", value)
 }
 
 func readConfig(path string) (config, error) {
@@ -137,7 +159,7 @@ func readConfig(path string) (config, error) {
 	return cfg, nil
 }
 
-func collect(ctx context.Context, client *http.Client, sources []source, now time.Time) (collection, error) {
+func collect(ctx context.Context, client *http.Client, sources []source, now time.Time, lookback time.Duration) (collection, error) {
 	var result collection
 	succeeded := 0
 	for _, src := range sources {
@@ -150,7 +172,7 @@ func collect(ctx context.Context, client *http.Client, sources []source, now tim
 		succeeded++
 		recent := 0
 		for _, article := range articles {
-			if article.Published.IsZero() || article.Published.After(now.Add(10*time.Minute)) || article.Published.Before(now.Add(-window)) {
+			if !matchesCategories(article, src.Categories) || article.Published.IsZero() || article.Published.After(now.Add(10*time.Minute)) || article.Published.Before(now.Add(-lookback)) {
 				continue
 			}
 			recent++
@@ -162,6 +184,18 @@ func collect(ctx context.Context, client *http.Client, sources []source, now tim
 		return collection{}, errors.New("all source requests failed; existing feed was left unchanged")
 	}
 	return result, nil
+}
+
+func matchesCategories(article item, categories []string) bool {
+	if len(categories) == 0 {
+		return true
+	}
+	for _, category := range categories {
+		if strings.EqualFold(strings.TrimSpace(article.Category), strings.TrimSpace(category)) {
+			return true
+		}
+	}
+	return false
 }
 
 func fetch(ctx context.Context, client *http.Client, src source) ([]item, error) {
@@ -205,6 +239,7 @@ func parseFeed(r io.Reader, sourceName string) ([]item, error) {
 			Updated   string   `xml:"updated"`
 			Issued    string   `xml:"issued"`
 			DateDC    string   `xml:"date"`
+			Category  string   `xml:"category"`
 		}
 		if err := decoder.DecodeElement(&raw, &start); err != nil {
 			return nil, err
@@ -221,7 +256,7 @@ func parseFeed(r io.Reader, sourceName string) ([]item, error) {
 		if err != nil {
 			continue
 		}
-		articles = append(articles, item{Title: strings.TrimSpace(raw.Title), Link: normalizeURL(link), Published: published, Source: sourceName})
+		articles = append(articles, item{Title: strings.TrimSpace(raw.Title), Link: normalizeURL(link), Published: published, Source: sourceName, Category: strings.TrimSpace(raw.Category)})
 	}
 	return articles, nil
 }
@@ -310,7 +345,7 @@ func writeSeen(path string, values seen) error {
 	return os.WriteFile(path, append(b, '\n'), 0o644)
 }
 
-func writeFeed(dir string, set feedSet, articles []item, now time.Time) error {
+func writeFeed(dir string, set feedSet, articles []item, now time.Time, lookback time.Duration) error {
 	if err := os.MkdirAll(dir, 0o755); err != nil {
 		return err
 	}
@@ -325,9 +360,9 @@ func writeFeed(dir string, set feedSet, articles []item, now time.Time) error {
 		return err
 	}
 	var page strings.Builder
-	fmt.Fprintf(&page, "<!doctype html><html lang=\"ja\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><title>%s</title><link rel=\"alternate\" type=\"application/rss+xml\" title=\"%s\" href=\"index.xml\"></head><body><h1>%s</h1><p>%s</p><p><a href=\"index.xml\">RSSを購読する</a></p>", escape(set.Title), escape(set.Title), escape(set.Title), escape(set.Description))
+	fmt.Fprintf(&page, "<!doctype html><html lang=\"ja\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><title>%s</title><link rel=\"alternate\" type=\"application/rss+xml\" title=\"%s\" href=\"index.xml\"></head><body><h1>%s</h1><p>%s</p><p>対象期間: 直近%s</p><p><a href=\"index.xml\">RSSを購読する</a></p>", escape(set.Title), escape(set.Title), escape(set.Title), escape(set.Description), formatLookback(lookback))
 	if len(articles) == 0 {
-		page.WriteString("<p>直近3時間の新着記事はありません。</p>")
+		fmt.Fprintf(&page, "<p>直近%sの新着記事はありません。</p>", formatLookback(lookback))
 	} else {
 		page.WriteString("<ul>")
 		for _, article := range articles {
@@ -337,6 +372,13 @@ func writeFeed(dir string, set feedSet, articles []item, now time.Time) error {
 	}
 	page.WriteString("</body></html>\n")
 	return os.WriteFile(filepath.Join(dir, "index.html"), []byte(page.String()), 0o644)
+}
+
+func formatLookback(lookback time.Duration) string {
+	if lookback%(24*time.Hour) == 0 {
+		return fmt.Sprintf("%d日", int(lookback/(24*time.Hour)))
+	}
+	return fmt.Sprintf("%d時間", int(lookback/time.Hour))
 }
 
 func escape(s string) string { return html.EscapeString(s) }

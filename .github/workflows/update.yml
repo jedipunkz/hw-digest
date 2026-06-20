@@ -2,6 +2,16 @@ name: Update hardware feeds
 
 on:
   workflow_dispatch:
+    inputs:
+      lookback:
+        description: '収集対象期間'
+        required: true
+        default: '3h'
+        type: choice
+        options:
+          - '3h'
+          - '24h'
+          - '168h'
   schedule:
     - cron: '17 */3 * * *'
 
@@ -20,6 +30,8 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+    env:
+      LOOKBACK: ${{ inputs.lookback || '3h' }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-go@v5

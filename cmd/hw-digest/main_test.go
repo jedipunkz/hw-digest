@@ -33,12 +33,32 @@ func TestParseFeedSupportsRSSAndAtomDates(t *testing.T) {
 func TestWriteFeedRendersArticleList(t *testing.T) {
 	dir := t.TempDir()
 	article := item{Title: "A & B", Link: "https://example.com/a?x=1&y=2", Source: "Example", Published: time.Date(2026, 6, 20, 12, 0, 0, 0, time.UTC)}
-	if err := writeFeed(dir, feedSet{Title: "Test", Description: "Description"}, []item{article}, article.Published); err != nil {
+	if err := writeFeed(dir, feedSet{Title: "Test", Description: "Description"}, []item{article}, article.Published, 3*time.Hour); err != nil {
 		t.Fatal(err)
 	}
 	page, err := os.ReadFile(filepath.Join(dir, "index.html"))
 	if err != nil || !strings.Contains(string(page), "A &amp; B") || !strings.Contains(string(page), "Example") {
 		t.Fatalf("page = %s, err = %v", page, err)
+	}
+}
+
+func TestParseLookback(t *testing.T) {
+	for _, value := range []string{"", "3h", "24h", "168h"} {
+		if _, err := parseLookback(value); err != nil {
+			t.Fatalf("parseLookback(%q): %v", value, err)
+		}
+	}
+	if _, err := parseLookback("6h"); err == nil {
+		t.Fatal("parseLookback accepted an unsupported duration")
+	}
+}
+
+func TestMatchesCategories(t *testing.T) {
+	if !matchesCategories(item{Category: "HARDWARE"}, []string{"hardware"}) {
+		t.Fatal("matching category was rejected")
+	}
+	if matchesCategories(item{Category: "GAME"}, []string{"HARDWARE"}) {
+		t.Fatal("non-matching category was accepted")
 	}
 }
 
