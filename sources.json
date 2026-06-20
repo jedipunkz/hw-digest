@@ -1,0 +1,31 @@
+{
+  "feeds": [
+    {
+      "title": "日本のハードウェア情報",
+      "description": "日本のPC自作、モバイル、周辺機器ニュース（直近3時間）",
+      "path": "akiba",
+      "sources": [
+        {"name": "エルミタージュ秋葉原", "url": "https://www.gdm.or.jp/feed/"},
+        {"name": "4Gamer.net Hardware", "url": "https://www.4gamer.net/rss/hardware.xml"},
+        {"name": "北森瓦版", "url": "https://northwood.blog.fc2.com/?xml"},
+        {"name": "PC Watch", "url": "https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf"},
+        {"name": "AKIBA PC Hotline!", "url": "https://akiba-pc.watch.impress.co.jp/data/rss/1.0/akb/feed.rdf"},
+        {"name": "iPhone Mania", "url": "https://iphone-mania.jp/feed/"},
+        {"name": "gori.me", "url": "https://gori.me/feed"}
+      ]
+    },
+    {
+      "title": "世界のハードウェア情報",
+      "description": "PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）",
+      "path": "world",
+      "sources": [
+        {"name": "TechPowerUp", "url": "https://www.techpowerup.com/rss/news"},
+        {"name": "Tom's Hardware", "url": "https://www.tomshardware.com/feeds/all"},
+        {"name": "Notebookcheck", "url": "https://www.notebookcheck.net/RSS-Feed.815.0.html"},
+        {"name": "Android Authority", "url": "https://www.androidauthority.com/feed/"},
+        {"name": "XDA", "url": "https://www.xda-developers.com/feed/"},
+        {"name": "Ars Technica Gear & Gadgets", "url": "https://feeds.arstechnica.com/arstechnica/gadgets"}
+      ]
+    }
+  ]
+}
