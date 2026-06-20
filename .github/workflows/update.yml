@@ -11,7 +11,7 @@ on:
         options:
           - '3h'
           - '24h'
-          - '168h'
+          - '7days'
   schedule:
     - cron: '17 */3 * * *'
 

@@ -132,6 +132,9 @@ func parseLookback(value string) (time.Duration, error) {
 	if value == "" {
 		return 3 * time.Hour, nil
 	}
+	if value == "7days" {
+		return 7 * 24 * time.Hour, nil
+	}
 	lookback, err := time.ParseDuration(value)
 	if err != nil {
 		return 0, fmt.Errorf("invalid LOOKBACK %q: %w", value, err)
@@ -141,7 +144,7 @@ func parseLookback(value string) (time.Duration, error) {
 			return lookback, nil
 		}
 	}
-	return 0, fmt.Errorf("LOOKBACK must be one of 3h, 24h, or 168h; got %q", value)
+	return 0, fmt.Errorf("LOOKBACK must be one of 3h, 24h, or 7days; got %q", value)
 }
 
 func readConfig(path string) (config, error) {
