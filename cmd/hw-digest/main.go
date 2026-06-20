@@ -93,13 +93,13 @@ func main() {
 		fmt.Fprintln(os.Stderr, "hw-digest:", err)
 		os.Exit(2)
 	}
-	if err := run(context.Background(), time.Now().UTC(), lookback, "sources.json", "data/seen.json", "docs"); err != nil {
+	if err := run(context.Background(), time.Now().UTC(), lookback, "sources.json", "data/seen.json", "data/articles.json", "docs"); err != nil {
 		fmt.Fprintln(os.Stderr, "hw-digest:", err)
 		os.Exit(1)
 	}
 }
 
-func run(ctx context.Context, now time.Time, lookback time.Duration, configPath, seenPath, outputDir string) error {
+func run(ctx context.Context, now time.Time, lookback time.Duration, configPath, seenPath, archivePath, outputDir string) error {
 	cfg, err := readConfig(configPath)
 	if err != nil {
 		return err
@@ -109,6 +109,10 @@ func run(ctx context.Context, now time.Time, lookback time.Duration, configPath,
 		return err
 	}
 	pruneSeen(known, now)
+	archive, err := readArchive(archivePath)
+	if err != nil {
+		return err
+	}
 	client := &http.Client{Timeout: 30 * time.Second}
 	summarizer := newSummarizer(client, os.Getenv("GITHUB_TOKEN"))
 	refreshSeen := os.Getenv("REFRESH_SEEN") == "true"
@@ -131,12 +135,16 @@ func run(ctx context.Context, now time.Time, lookback time.Duration, configPath,
 			fresh = append(fresh, article)
 		}
 		enrichItems(ctx, client, summarizer, fresh)
-		if err := writeFeed(filepath.Join(outputDir, set.Path), set, fresh, now, lookback); err != nil {
+		archive[set.Path] = mergeArticles(archive[set.Path], fresh)
+		if err := writeFeed(filepath.Join(outputDir, set.Path), set, archive[set.Path], now); err != nil {
 			return err
 		}
 		writeSummary(set, collected.Sources, len(fresh))
 	}
-	return writeSeen(seenPath, known)
+	if err := writeSeen(seenPath, known); err != nil {
+		return err
+	}
+	return writeArchive(archivePath, archive)
 }
 
 func min(a, b int) int {
@@ -569,7 +577,7 @@ func writeSeen(path string, values seen) error {
 	return os.WriteFile(path, append(b, '\n'), 0o644)
 }
 
-func writeFeed(dir string, set feedSet, articles []item, now time.Time, lookback time.Duration) error {
+func writeFeed(dir string, set feedSet, articles []item, now time.Time) error {
 	if err := os.MkdirAll(dir, 0o755); err != nil {
 		return err
 	}
@@ -596,12 +604,12 @@ func writeFeed(dir string, set feedSet, articles []item, now time.Time, lookback
 		return err
 	}
 	var page strings.Builder
-	fmt.Fprintf(&page, "<!doctype html><html lang=\"ja\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><title>%s</title><link rel=\"alternate\" type=\"application/rss+xml\" title=\"%s\" href=\"index.xml\"><style>body{font-family:system-ui,sans-serif;max-width:780px;margin:2rem auto;padding:0 1rem;line-height:1.65;color:#1f2937}a{color:#075985}article{border-top:1px solid #d1d5db;padding:1.5rem 0}h2{font-size:1.2rem;margin:0 0 .35rem}time,.source{color:#6b7280;font-size:.9rem}img{display:block;max-width:100%%;max-height:420px;margin:.75rem 0;border-radius:.35rem}.summary{white-space:pre-line}</style></head><body><h1>%s</h1><p>%s</p><p>対象期間: 直近%s</p><p><a href=\"index.xml\">RSSを購読する</a></p>", escape(set.Title), escape(set.Title), escape(set.Title), escape(set.Description), formatLookback(lookback))
+	fmt.Fprintf(&page, "<!doctype html><html lang=\"ja\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><title>%s</title><link rel=\"alternate\" type=\"application/rss+xml\" title=\"%s\" href=\"index.xml\"><style>:root{color-scheme:light}body{font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;max-width:860px;margin:0 auto;padding:3rem 1.25rem 5rem;line-height:1.7;color:#172033;background:#f6f8fb}header{margin-bottom:2rem}h1{letter-spacing:-.04em;margin:0;font-size:clamp(2rem,5vw,3.2rem)}header p{color:#627083;margin:.45rem 0}a{color:#075985;text-decoration-thickness:1px;text-underline-offset:3px}.hint{font-size:.85rem;color:#627083}.feed{display:grid;gap:1rem}article{background:#fff;border:1px solid #e0e6ef;border-radius:16px;padding:1.25rem;box-shadow:0 1px 2px #1720330a;outline:none;transition:border-color .15s,box-shadow .15s,transform .15s}article:focus,article.active{border-color:#38bdf8;box-shadow:0 0 0 4px #38bdf833,0 10px 25px #17203312;transform:translateY(-1px)}h2{font-size:1.2rem;line-height:1.4;margin:0 0 .5rem}.meta{color:#627083;font-size:.86rem;margin:0 0 .75rem}img{display:block;width:100%%;max-height:440px;object-fit:cover;margin:.75rem 0;border-radius:10px;background:#e8edf4}.summary{white-space:pre-line;margin:1rem 0 0;color:#364152}</style></head><body><header><h1>%s</h1><p>%s</p><p><a href=\"index.xml\">RSSを購読する</a></p><p class=\"hint\">j / k キーで記事を移動</p></header><main class=\"feed\">", escape(set.Title), escape(set.Title), escape(set.Title), escape(set.Description))
 	if len(articles) == 0 {
-		fmt.Fprintf(&page, "<p>直近%sの新着記事はありません。</p>", formatLookback(lookback))
+		page.WriteString("<p>記事はまだありません。</p>")
 	} else {
 		for _, article := range articles {
-			fmt.Fprintf(&page, "<article><h2><a href=\"%s\">%s</a></h2><p class=\"source\">%s · <time datetime=\"%s\">%s</time></p>", escape(article.Link), escape(article.Title), escape(article.Source), article.Published.Format(time.RFC3339), article.Published.In(time.Local).Format("2006-01-02 15:04 MST"))
+			fmt.Fprintf(&page, "<article tabindex=\"-1\"><h2><a href=\"%s\">%s</a></h2><p class=\"meta\">%s · <time datetime=\"%s\">%s</time></p>", escape(article.Link), escape(article.Title), escape(article.Source), article.Published.Format(time.RFC3339), article.Published.In(time.Local).Format("2006-01-02 15:04 MST"))
 			if article.ImageURL != "" {
 				fmt.Fprintf(&page, "<img src=\"%s\" alt=\"%s\" loading=\"lazy\">", escape(article.ImageURL), escape(article.Title))
 			}
@@ -611,8 +619,49 @@ func writeFeed(dir string, set feedSet, articles []item, now time.Time, lookback
 			page.WriteString("</article>")
 		}
 	}
-	page.WriteString("</body></html>\n")
+	page.WriteString("</main><script>const cards=[...document.querySelectorAll('article')];let current=0;function select(i){if(!cards.length)return;cards[current]?.classList.remove('active');current=(i+cards.length)%%cards.length;cards[current].classList.add('active');cards[current].focus({preventScroll:false})}if(cards.length)cards[0].classList.add('active');document.addEventListener('keydown',e=>{if(/input|textarea|select/i.test(e.target.tagName))return;if(e.key==='j'){e.preventDefault();select(current+1)}if(e.key==='k'){e.preventDefault();select(current-1)}});</script></body></html>\n")
 	return os.WriteFile(filepath.Join(dir, "index.html"), []byte(page.String()), 0o644)
+}
+
+type articleArchive map[string][]item
+
+func readArchive(path string) (articleArchive, error) {
+	b, err := os.ReadFile(path)
+	if errors.Is(err, os.ErrNotExist) {
+		return articleArchive{}, nil
+	}
+	if err != nil {
+		return nil, err
+	}
+	var archive articleArchive
+	if err := json.Unmarshal(b, &archive); err != nil {
+		return nil, err
+	}
+	return archive, nil
+}
+
+func writeArchive(path string, archive articleArchive) error {
+	b, err := json.MarshalIndent(archive, "", "  ")
+	if err != nil {
+		return err
+	}
+	return os.WriteFile(path, append(b, '\n'), 0o644)
+}
+
+func mergeArticles(existing, fresh []item) []item {
+	byLink := map[string]item{}
+	for _, article := range existing {
+		byLink[article.Link] = article
+	}
+	for _, article := range fresh {
+		byLink[article.Link] = article
+	}
+	merged := make([]item, 0, len(byLink))
+	for _, article := range byLink {
+		merged = append(merged, article)
+	}
+	sort.Slice(merged, func(i, j int) bool { return merged[i].Published.After(merged[j].Published) })
+	return merged
 }
 
 func firstMeta(body, name string) string {

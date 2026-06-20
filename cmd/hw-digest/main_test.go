@@ -33,7 +33,7 @@ func TestParseFeedSupportsRSSAndAtomDates(t *testing.T) {
 func TestWriteFeedRendersArticleList(t *testing.T) {
 	dir := t.TempDir()
 	article := item{Title: "A & B", Link: "https://example.com/a?x=1&y=2", Source: "Example", Summary: "要約", ImageURL: "https://example.com/image.jpg", Published: time.Date(2026, 6, 20, 12, 0, 0, 0, time.UTC)}
-	if err := writeFeed(dir, feedSet{Title: "Test", Description: "Description"}, []item{article}, article.Published, 3*time.Hour); err != nil {
+	if err := writeFeed(dir, feedSet{Title: "Test", Description: "Description"}, []item{article}, article.Published); err != nil {
 		t.Fatal(err)
 	}
 	page, err := os.ReadFile(filepath.Join(dir, "index.html"))
@@ -43,6 +43,16 @@ func TestWriteFeedRendersArticleList(t *testing.T) {
 	rss, err := os.ReadFile(filepath.Join(dir, "index.xml"))
 	if err != nil || !strings.Contains(string(rss), "<description><![CDATA[") || !strings.Contains(string(rss), "media:content") {
 		t.Fatalf("rss = %s, err = %v", rss, err)
+	}
+}
+
+func TestMergeArticlesPreservesArchiveAndReplacesSameLink(t *testing.T) {
+	old := item{Title: "old", Link: "https://example.com/old", Published: time.Unix(1, 0)}
+	updated := item{Title: "updated", Link: old.Link, Published: time.Unix(2, 0)}
+	newer := item{Title: "new", Link: "https://example.com/new", Published: time.Unix(3, 0)}
+	merged := mergeArticles([]item{old}, []item{updated, newer})
+	if len(merged) != 2 || merged[0].Title != "new" || merged[1].Title != "updated" {
+		t.Fatalf("merged = %#v", merged)
 	}
 }
 
