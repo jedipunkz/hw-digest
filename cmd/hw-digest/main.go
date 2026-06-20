@@ -31,6 +31,7 @@ type source struct {
 	Name       string   `json:"name"`
 	URL        string   `json:"url"`
 	Categories []string `json:"categories"`
+	Kind       string   `json:"kind"`
 }
 
 type feedSet struct {
@@ -218,6 +219,9 @@ func matchesCategories(article item, categories []string) bool {
 }
 
 func fetch(ctx context.Context, client *http.Client, src source) ([]item, error) {
+	if src.Kind == "4gamer-html" {
+		return fetch4Gamer(ctx, client, src)
+	}
 	req, err := http.NewRequestWithContext(ctx, http.MethodGet, src.URL, nil)
 	if err != nil {
 		return nil, err
@@ -234,7 +238,59 @@ func fetch(ctx context.Context, client *http.Client, src source) ([]item, error)
 	return parseFeed(io.LimitReader(resp.Body, 8<<20), src.Name)
 }
 
-type articleMetadata struct{ Description, ImageURL, Text string }
+type articleMetadata struct {
+	Description string
+	ImageURL    string
+	Text        string
+	Published   time.Time
+}
+
+func fetch4Gamer(ctx context.Context, client *http.Client, src source) ([]item, error) {
+	req, err := http.NewRequestWithContext(ctx, http.MethodGet, src.URL, nil)
+	if err != nil {
+		return nil, err
+	}
+	req.Header.Set("User-Agent", userAgent)
+	resp, err := client.Do(req)
+	if err != nil {
+		return nil, err
+	}
+	defer resp.Body.Close()
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("GET %s: %s", src.URL, resp.Status)
+	}
+	body, err := io.ReadAll(io.LimitReader(resp.Body, 2<<20))
+	if err != nil {
+		return nil, err
+	}
+	base, _ := url.Parse(src.URL)
+	linkRE := regexp.MustCompile(`(?is)<a[^>]+href=["']([^"']+/games/[^"']+/[0-9]{11,}/?)["'][^>]*>(.*?)</a>`)
+	seen := map[string]bool{}
+	var articles []item
+	for _, match := range linkRE.FindAllStringSubmatch(string(body), -1) {
+		if len(articles) >= 50 {
+			break
+		}
+		link, err := base.Parse(html.UnescapeString(match[1]))
+		if err != nil || seen[link.String()] {
+			continue
+		}
+		seen[link.String()] = true
+		metadata, err := fetchArticleMetadata(ctx, client, link.String())
+		if err != nil || metadata.Published.IsZero() {
+			continue
+		}
+		title := htmlToText(match[2])
+		if title == "" {
+			title = metadata.Description
+		}
+		if title == "" {
+			continue
+		}
+		articles = append(articles, item{Title: title, Link: link.String(), Published: metadata.Published, Source: src.Name, Category: "HARDWARE", ImageURL: metadata.ImageURL})
+	}
+	return articles, nil
+}
 
 type textTranslator struct{ client *http.Client }
 type articleSummarizer struct {
@@ -293,7 +349,11 @@ func fetchArticleMetadata(ctx context.Context, client *http.Client, rawURL strin
 		return articleMetadata{}, err
 	}
 	text := string(body)
-	return articleMetadata{Description: firstMeta(text, "description"), ImageURL: firstMeta(text, "image"), Text: extractReadableText(text, 5000)}, nil
+	metadata := articleMetadata{Description: firstMeta(text, "description"), ImageURL: firstMeta(text, "image"), Text: extractReadableText(text, 5000)}
+	if matched := regexp.MustCompile(`［(20[0-9]{2})/([0-9]{2})/([0-9]{2})\s+([0-9]{2}):([0-9]{2})］`).FindStringSubmatch(text); len(matched) == 6 {
+		metadata.Published, _ = time.ParseInLocation("2006/01/02 15:04", strings.Join([]string{matched[1], matched[2], matched[3]}, "/")+" "+matched[4]+":"+matched[5], time.FixedZone("JST", 9*60*60))
+	}
+	return metadata, nil
 }
 
 func (t *textTranslator) translate(ctx context.Context, text string) (string, error) {
