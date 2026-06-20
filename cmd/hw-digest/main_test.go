@@ -1,6 +1,8 @@
 package main
 
 import (
+	"os"
+	"path/filepath"
 	"strings"
 	"testing"
 	"time"
@@ -21,10 +23,22 @@ func TestParseFeedSupportsRSSAndAtomDates(t *testing.T) {
 	if _, err := parseTime("2006-01-02T15:04:05Z"); err != nil {
 		t.Fatal(err)
 	}
-	atom := `<feed><entry><title>Atom</title><link href="https://example.com/atom"/><updated>2006-01-02T15:04:05Z</updated></entry></feed>`
+	atom := `<feed><entry><title>Atom</title><link href="https://example.com/atom"/><published>2006-01-02T15:04:05Z</published></entry></feed>`
 	items, err = parseFeed(strings.NewReader(atom), "test")
 	if err != nil || len(items) != 1 || items[0].Link != "https://example.com/atom" {
 		t.Fatalf("atom items = %#v, err = %v", items, err)
+	}
+}
+
+func TestWriteFeedRendersArticleList(t *testing.T) {
+	dir := t.TempDir()
+	article := item{Title: "A & B", Link: "https://example.com/a?x=1&y=2", Source: "Example", Published: time.Date(2026, 6, 20, 12, 0, 0, 0, time.UTC)}
+	if err := writeFeed(dir, feedSet{Title: "Test", Description: "Description"}, []item{article}, article.Published); err != nil {
+		t.Fatal(err)
+	}
+	page, err := os.ReadFile(filepath.Join(dir, "index.html"))
+	if err != nil || !strings.Contains(string(page), "A &amp; B") || !strings.Contains(string(page), "Example") {
+		t.Fatalf("page = %s, err = %v", page, err)
 	}
 }
 
