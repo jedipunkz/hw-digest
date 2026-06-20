@@ -15,14 +15,16 @@ import (
 	"net/url"
 	"os"
 	"path/filepath"
+	"regexp"
 	"sort"
 	"strings"
 	"time"
 )
 
 const (
-	seenFor   = 30 * 24 * time.Hour
-	userAgent = "hw-digest/1.0 (+https://github.com/jedipunkz/hw-digest)"
+	seenFor         = 30 * 24 * time.Hour
+	userAgent       = "hw-digest/1.0 (+https://github.com/jedipunkz/hw-digest)"
+	maxItemsPerFeed = 15
 )
 
 type source struct {
@@ -48,6 +50,8 @@ type item struct {
 	Published time.Time
 	Source    string
 	Category  string
+	Summary   string
+	ImageURL  string
 }
 
 type sourceResult struct {
@@ -105,13 +109,18 @@ func run(ctx context.Context, now time.Time, lookback time.Duration, configPath,
 	}
 	pruneSeen(known, now)
 	client := &http.Client{Timeout: 30 * time.Second}
+	summarizer := newSummarizer(client, os.Getenv("GITHUB_TOKEN"))
 	for _, set := range cfg.Feeds {
 		collected, err := collect(ctx, client, set.Sources, now, lookback)
 		if err != nil {
 			return fmt.Errorf("collect %s: %w", set.Title, err)
 		}
-		fresh := make([]item, 0, len(collected.Items))
+		sort.Slice(collected.Items, func(i, j int) bool { return collected.Items[i].Published.After(collected.Items[j].Published) })
+		fresh := make([]item, 0, min(len(collected.Items), maxItemsPerFeed))
 		for _, article := range collected.Items {
+			if len(fresh) >= maxItemsPerFeed {
+				break
+			}
 			key := itemKey(article.Link)
 			if _, exists := known[key]; exists {
 				continue
@@ -119,13 +128,20 @@ func run(ctx context.Context, now time.Time, lookback time.Duration, configPath,
 			known[key] = now
 			fresh = append(fresh, article)
 		}
-		sort.Slice(fresh, func(i, j int) bool { return fresh[i].Published.After(fresh[j].Published) })
+		enrichItems(ctx, client, summarizer, fresh)
 		if err := writeFeed(filepath.Join(outputDir, set.Path), set, fresh, now, lookback); err != nil {
 			return err
 		}
 		writeSummary(set, collected.Sources, len(fresh))
 	}
 	return writeSeen(seenPath, known)
+}
+
+func min(a, b int) int {
+	if a < b {
+		return a
+	}
+	return b
 }
 
 func parseLookback(value string) (time.Duration, error) {
@@ -216,6 +232,150 @@ func fetch(ctx context.Context, client *http.Client, src source) ([]item, error)
 		return nil, fmt.Errorf("GET %s: %s", src.URL, resp.Status)
 	}
 	return parseFeed(io.LimitReader(resp.Body, 8<<20), src.Name)
+}
+
+type articleMetadata struct{ Description, ImageURL, Text string }
+
+type textTranslator struct{ client *http.Client }
+type articleSummarizer struct {
+	client *http.Client
+	token  string
+}
+
+func newSummarizer(client *http.Client, token string) *articleSummarizer {
+	return &articleSummarizer{client: client, token: token}
+}
+
+func enrichItems(ctx context.Context, client *http.Client, summarizer *articleSummarizer, items []item) {
+	translator := &textTranslator{client: client}
+	for i := range items {
+		metadata, err := fetchArticleMetadata(ctx, client, items[i].Link)
+		if err != nil {
+			fmt.Fprintf(os.Stderr, "warning: read %s: %v\n", items[i].Link, err)
+			continue
+		}
+		items[i].ImageURL = metadata.ImageURL
+		input := strings.TrimSpace(strings.Join([]string{items[i].Title, metadata.Description, metadata.Text}, "\n\n"))
+		if input == "" {
+			continue
+		}
+		translated, err := translator.translate(ctx, trimRunes(input, 5000))
+		if err != nil {
+			fmt.Fprintf(os.Stderr, "warning: translate %s: %v\n", items[i].Link, err)
+			translated = trimRunes(input, 800)
+		}
+		summary, err := summarizer.summarize(ctx, items[i].Title, translated)
+		if err != nil {
+			fmt.Fprintf(os.Stderr, "warning: summarize %s: %v\n", items[i].Link, err)
+			summary = trimRunes(translated, 900)
+		}
+		items[i].Summary = summary
+	}
+}
+
+func fetchArticleMetadata(ctx context.Context, client *http.Client, rawURL string) (articleMetadata, error) {
+	req, err := http.NewRequestWithContext(ctx, http.MethodGet, rawURL, nil)
+	if err != nil {
+		return articleMetadata{}, err
+	}
+	req.Header.Set("User-Agent", userAgent)
+	req.Header.Set("Accept", "text/html,application/xhtml+xml;q=0.9,*/*;q=0.1")
+	resp, err := client.Do(req)
+	if err != nil {
+		return articleMetadata{}, err
+	}
+	defer resp.Body.Close()
+	if resp.StatusCode < 200 || resp.StatusCode >= 300 {
+		return articleMetadata{}, fmt.Errorf("GET %s: %s", rawURL, resp.Status)
+	}
+	body, err := io.ReadAll(io.LimitReader(resp.Body, 2<<20))
+	if err != nil {
+		return articleMetadata{}, err
+	}
+	text := string(body)
+	return articleMetadata{Description: firstMeta(text, "description"), ImageURL: firstMeta(text, "image"), Text: extractReadableText(text, 5000)}, nil
+}
+
+func (t *textTranslator) translate(ctx context.Context, text string) (string, error) {
+	params := url.Values{"client": {"gtx"}, "sl": {"auto"}, "tl": {"ja"}, "dt": {"t"}, "q": {text}}
+	req, err := http.NewRequestWithContext(ctx, http.MethodGet, "https://translate.googleapis.com/translate_a/single?"+params.Encode(), nil)
+	if err != nil {
+		return "", err
+	}
+	req.Header.Set("User-Agent", userAgent)
+	resp, err := t.client.Do(req)
+	if err != nil {
+		return "", err
+	}
+	defer resp.Body.Close()
+	data, err := io.ReadAll(io.LimitReader(resp.Body, 1<<20))
+	if err != nil {
+		return "", err
+	}
+	if resp.StatusCode < 200 || resp.StatusCode >= 300 {
+		return "", fmt.Errorf("google translate: %s", resp.Status)
+	}
+	var parsed []any
+	if err := json.Unmarshal(data, &parsed); err != nil || len(parsed) == 0 {
+		return "", errors.New("invalid Google Translate response")
+	}
+	sentences, ok := parsed[0].([]any)
+	if !ok {
+		return "", errors.New("Google Translate returned no sentences")
+	}
+	var out strings.Builder
+	for _, raw := range sentences {
+		if sentence, ok := raw.([]any); ok && len(sentence) > 0 {
+			if part, ok := sentence[0].(string); ok {
+				out.WriteString(part)
+			}
+		}
+	}
+	if out.Len() == 0 {
+		return "", errors.New("Google Translate returned an empty translation")
+	}
+	return html.UnescapeString(out.String()), nil
+}
+
+func (s *articleSummarizer) summarize(ctx context.Context, title, translated string) (string, error) {
+	if s.token == "" {
+		return "", errors.New("GITHUB_TOKEN is not set")
+	}
+	prompt := fmt.Sprintf("次の記事を日本語で250〜400文字に要約してください。製品・技術・数値など重要な事実を優先し、推測は書かないでください。\n\nタイトル: %s\n\n本文:\n%s", title, trimRunes(translated, 5000))
+	payload := map[string]any{"model": "openai/gpt-4.1-mini", "messages": []map[string]string{{"role": "user", "content": prompt}}, "max_tokens": 600, "temperature": 0.2}
+	body, err := json.Marshal(payload)
+	if err != nil {
+		return "", err
+	}
+	req, err := http.NewRequestWithContext(ctx, http.MethodPost, "https://models.github.ai/inference/chat/completions", strings.NewReader(string(body)))
+	if err != nil {
+		return "", err
+	}
+	req.Header.Set("Authorization", "Bearer "+s.token)
+	req.Header.Set("Content-Type", "application/json")
+	resp, err := s.client.Do(req)
+	if err != nil {
+		return "", err
+	}
+	defer resp.Body.Close()
+	data, err := io.ReadAll(io.LimitReader(resp.Body, 1<<20))
+	if err != nil {
+		return "", err
+	}
+	if resp.StatusCode < 200 || resp.StatusCode >= 300 {
+		return "", fmt.Errorf("GitHub Models: %s", resp.Status)
+	}
+	var result struct {
+		Choices []struct {
+			Message struct {
+				Content string `json:"content"`
+			} `json:"message"`
+		} `json:"choices"`
+	}
+	if err := json.Unmarshal(data, &result); err != nil || len(result.Choices) == 0 {
+		return "", errors.New("invalid GitHub Models response")
+	}
+	return strings.TrimSpace(result.Choices[0].Message.Content), nil
 }
 
 func parseFeed(r io.Reader, sourceName string) ([]item, error) {
@@ -353,10 +513,22 @@ func writeFeed(dir string, set feedSet, articles []item, now time.Time, lookback
 		return err
 	}
 	var feed strings.Builder
-	feed.WriteString("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<rss version=\"2.0\"><channel>\n")
+	feed.WriteString("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<rss version=\"2.0\" xmlns:media=\"http://search.yahoo.com/mrss/\"><channel>\n")
 	fmt.Fprintf(&feed, "<title>%s</title><description>%s</description><link>./</link><lastBuildDate>%s</lastBuildDate>\n", escape(set.Title), escape(set.Description), now.Format(time.RFC1123Z))
 	for _, article := range articles {
-		fmt.Fprintf(&feed, "<item><title>%s</title><link>%s</link><guid isPermaLink=\"true\">%s</guid><pubDate>%s</pubDate><source url=\"%s\">%s</source></item>\n", escape(article.Title), escape(article.Link), escape(article.Link), article.Published.Format(time.RFC1123Z), escape(article.Link), escape(article.Source))
+		description := article.Summary
+		if description == "" {
+			description = article.Title
+		}
+		htmlDescription := "<p>" + html.EscapeString(description) + "</p>"
+		if article.ImageURL != "" {
+			htmlDescription += "<p><img src=\"" + html.EscapeString(article.ImageURL) + "\" alt=\"" + html.EscapeString(article.Title) + "\"></p>"
+		}
+		fmt.Fprintf(&feed, "<item><title>%s</title><link>%s</link><guid isPermaLink=\"true\">%s</guid><pubDate>%s</pubDate><description><![CDATA[%s]]></description><source url=\"%s\">%s</source>", escape(article.Title), escape(article.Link), escape(article.Link), article.Published.Format(time.RFC1123Z), htmlDescription, escape(article.Link), escape(article.Source))
+		if article.ImageURL != "" {
+			fmt.Fprintf(&feed, "<media:content url=\"%s\" medium=\"image\"/><media:thumbnail url=\"%s\"/>", escape(article.ImageURL), escape(article.ImageURL))
+		}
+		feed.WriteString("</item>\n")
 	}
 	feed.WriteString("</channel></rss>\n")
 	if err := os.WriteFile(filepath.Join(dir, "index.xml"), []byte(feed.String()), 0o644); err != nil {
@@ -375,6 +547,52 @@ func writeFeed(dir string, set feedSet, articles []item, now time.Time, lookback
 	}
 	page.WriteString("</body></html>\n")
 	return os.WriteFile(filepath.Join(dir, "index.html"), []byte(page.String()), 0o644)
+}
+
+func firstMeta(body, name string) string {
+	patterns := []string{
+		`<meta[^>]+name=["']` + regexp.QuoteMeta(name) + `["'][^>]+content=["']([^"']+)["'][^>]*>`,
+		`<meta[^>]+content=["']([^"']+)["'][^>]+name=["']` + regexp.QuoteMeta(name) + `["'][^>]*>`,
+		`<meta[^>]+property=["']og:` + regexp.QuoteMeta(name) + `["'][^>]+content=["']([^"']+)["'][^>]*>`,
+		`<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:` + regexp.QuoteMeta(name) + `["'][^>]*>`,
+	}
+	for _, pattern := range patterns {
+		if match := regexp.MustCompile("(?is)" + pattern).FindStringSubmatch(body); len(match) > 1 {
+			return html.UnescapeString(strings.TrimSpace(match[1]))
+		}
+	}
+	return ""
+}
+
+func extractReadableText(body string, maxChars int) string {
+	for _, tag := range []string{"script", "style", "noscript"} {
+		body = regexp.MustCompile(`(?is)<`+tag+`[^>]*>.*?</`+tag+`\s*>`).ReplaceAllString(body, " ")
+	}
+	var chunks []string
+	for _, match := range regexp.MustCompile(`(?is)<(p|h1|h2|h3|li|blockquote)[^>]*>(.*?)</\s*(p|h1|h2|h3|li|blockquote)\s*>`).FindAllStringSubmatch(body, -1) {
+		text := htmlToText(match[2])
+		if len([]rune(text)) >= 30 {
+			chunks = append(chunks, text)
+		}
+	}
+	if len(chunks) == 0 {
+		chunks = append(chunks, htmlToText(body))
+	}
+	return trimRunes(strings.Join(chunks, "\n\n"), maxChars)
+}
+
+func htmlToText(input string) string {
+	input = strings.NewReplacer("<br>", "\n", "<br/>", "\n", "<br />", "\n", "</p>", "\n\n", "</li>", "\n").Replace(input)
+	input = regexp.MustCompile(`(?is)<[^>]+>`).ReplaceAllString(input, " ")
+	return strings.TrimSpace(strings.Join(strings.Fields(html.UnescapeString(input)), " "))
+}
+
+func trimRunes(input string, max int) string {
+	runes := []rune(strings.TrimSpace(input))
+	if len(runes) <= max {
+		return string(runes)
+	}
+	return string(runes[:max]) + "…"
 }
 
 func formatLookback(lookback time.Duration) string {
