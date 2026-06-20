@@ -37,7 +37,7 @@ func TestWriteFeedRendersArticleList(t *testing.T) {
 		t.Fatal(err)
 	}
 	page, err := os.ReadFile(filepath.Join(dir, "index.html"))
-	if err != nil || !strings.Contains(string(page), "A &amp; B") || !strings.Contains(string(page), "Example") {
+	if err != nil || !strings.Contains(string(page), "A &amp; B") || !strings.Contains(string(page), "Example") || !strings.Contains(string(page), "summary") || !strings.Contains(string(page), "image.jpg") {
 		t.Fatalf("page = %s, err = %v", page, err)
 	}
 	rss, err := os.ReadFile(filepath.Join(dir, "index.xml"))

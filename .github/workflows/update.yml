@@ -33,6 +33,7 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     env:
       LOOKBACK: ${{ inputs.lookback || '3h' }}
+      REFRESH_SEEN: ${{ inputs.lookback == '7days' }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-go@v5

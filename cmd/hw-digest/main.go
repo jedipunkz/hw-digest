@@ -111,6 +111,7 @@ func run(ctx context.Context, now time.Time, lookback time.Duration, configPath,
 	pruneSeen(known, now)
 	client := &http.Client{Timeout: 30 * time.Second}
 	summarizer := newSummarizer(client, os.Getenv("GITHUB_TOKEN"))
+	refreshSeen := os.Getenv("REFRESH_SEEN") == "true"
 	for _, set := range cfg.Feeds {
 		collected, err := collect(ctx, client, set.Sources, now, lookback)
 		if err != nil {
@@ -123,7 +124,7 @@ func run(ctx context.Context, now time.Time, lookback time.Duration, configPath,
 				break
 			}
 			key := itemKey(article.Link)
-			if _, exists := known[key]; exists {
+			if _, exists := known[key]; exists && !refreshSeen {
 				continue
 			}
 			known[key] = now
@@ -595,15 +596,20 @@ func writeFeed(dir string, set feedSet, articles []item, now time.Time, lookback
 		return err
 	}
 	var page strings.Builder
-	fmt.Fprintf(&page, "<!doctype html><html lang=\"ja\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><title>%s</title><link rel=\"alternate\" type=\"application/rss+xml\" title=\"%s\" href=\"index.xml\"></head><body><h1>%s</h1><p>%s</p><p>対象期間: 直近%s</p><p><a href=\"index.xml\">RSSを購読する</a></p>", escape(set.Title), escape(set.Title), escape(set.Title), escape(set.Description), formatLookback(lookback))
+	fmt.Fprintf(&page, "<!doctype html><html lang=\"ja\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><title>%s</title><link rel=\"alternate\" type=\"application/rss+xml\" title=\"%s\" href=\"index.xml\"><style>body{font-family:system-ui,sans-serif;max-width:780px;margin:2rem auto;padding:0 1rem;line-height:1.65;color:#1f2937}a{color:#075985}article{border-top:1px solid #d1d5db;padding:1.5rem 0}h2{font-size:1.2rem;margin:0 0 .35rem}time,.source{color:#6b7280;font-size:.9rem}img{display:block;max-width:100%%;max-height:420px;margin:.75rem 0;border-radius:.35rem}.summary{white-space:pre-line}</style></head><body><h1>%s</h1><p>%s</p><p>対象期間: 直近%s</p><p><a href=\"index.xml\">RSSを購読する</a></p>", escape(set.Title), escape(set.Title), escape(set.Title), escape(set.Description), formatLookback(lookback))
 	if len(articles) == 0 {
 		fmt.Fprintf(&page, "<p>直近%sの新着記事はありません。</p>", formatLookback(lookback))
 	} else {
-		page.WriteString("<ul>")
 		for _, article := range articles {
-			fmt.Fprintf(&page, "<li><a href=\"%s\">%s</a> — %s（%s）</li>", escape(article.Link), escape(article.Title), escape(article.Source), article.Published.In(time.Local).Format("2006-01-02 15:04 MST"))
+			fmt.Fprintf(&page, "<article><h2><a href=\"%s\">%s</a></h2><p class=\"source\">%s · <time datetime=\"%s\">%s</time></p>", escape(article.Link), escape(article.Title), escape(article.Source), article.Published.Format(time.RFC3339), article.Published.In(time.Local).Format("2006-01-02 15:04 MST"))
+			if article.ImageURL != "" {
+				fmt.Fprintf(&page, "<img src=\"%s\" alt=\"%s\" loading=\"lazy\">", escape(article.ImageURL), escape(article.Title))
+			}
+			if article.Summary != "" {
+				fmt.Fprintf(&page, "<p class=\"summary\">%s</p>", escape(article.Summary))
+			}
+			page.WriteString("</article>")
 		}
-		page.WriteString("</ul>")
 	}
 	page.WriteString("</body></html>\n")
 	return os.WriteFile(filepath.Join(dir, "index.html"), []byte(page.String()), 0o644)
