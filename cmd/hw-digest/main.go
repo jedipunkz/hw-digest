@@ -3,7 +3,13 @@ package main
 
 import (
 	"context"
+	"crypto/aes"
+	"crypto/cipher"
+	"crypto/hmac"
+	"crypto/rand"
 	"crypto/sha256"
+	"encoding/base64"
+	"encoding/binary"
 	"encoding/hex"
 	"encoding/json"
 	"encoding/xml"
@@ -116,6 +122,10 @@ func run(ctx context.Context, now time.Time, lookback time.Duration, configPath,
 	client := &http.Client{Timeout: 30 * time.Second}
 	summarizer := newSummarizer(client, os.Getenv("GITHUB_TOKEN"))
 	refreshSeen := os.Getenv("REFRESH_SEEN") == "true"
+	accessToken := os.Getenv("DIGEST_TOKEN")
+	if accessToken == "" {
+		fmt.Fprintln(os.Stderr, "warning: DIGEST_TOKEN is empty; pages will be rendered without encryption")
+	}
 	for _, set := range cfg.Feeds {
 		collected, err := collect(ctx, client, set.Sources, now, lookback)
 		if err != nil {
@@ -136,7 +146,7 @@ func run(ctx context.Context, now time.Time, lookback time.Duration, configPath,
 		}
 		enrichItems(ctx, client, summarizer, fresh)
 		archive[set.Path] = mergeArticles(archive[set.Path], fresh)
-		if err := writeFeed(filepath.Join(outputDir, set.Path), set, archive[set.Path], now); err != nil {
+		if err := writeFeed(filepath.Join(outputDir, set.Path), set, archive[set.Path], accessToken); err != nil {
 			return err
 		}
 		writeSummary(set, collected.Sources, len(fresh))
@@ -577,50 +587,128 @@ func writeSeen(path string, values seen) error {
 	return os.WriteFile(path, append(b, '\n'), 0o644)
 }
 
-func writeFeed(dir string, set feedSet, articles []item, now time.Time) error {
+func writeFeed(dir string, set feedSet, articles []item, token string) error {
 	if err := os.MkdirAll(dir, 0o755); err != nil {
 		return err
 	}
-	var feed strings.Builder
-	feed.WriteString("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<rss version=\"2.0\" xmlns:media=\"http://search.yahoo.com/mrss/\"><channel>\n")
-	fmt.Fprintf(&feed, "<title>%s</title><description>%s</description><link>./</link><lastBuildDate>%s</lastBuildDate>\n", escape(set.Title), escape(set.Description), now.Format(time.RFC1123Z))
-	for _, article := range articles {
-		description := article.Summary
-		if description == "" {
-			description = article.Title
-		}
-		htmlDescription := "<p>" + html.EscapeString(description) + "</p>"
-		if article.ImageURL != "" {
-			htmlDescription += "<p><img src=\"" + html.EscapeString(article.ImageURL) + "\" alt=\"" + html.EscapeString(article.Title) + "\"></p>"
-		}
-		fmt.Fprintf(&feed, "<item><title>%s</title><link>%s</link><guid isPermaLink=\"true\">%s</guid><pubDate>%s</pubDate><description><![CDATA[%s]]></description><source url=\"%s\">%s</source>", escape(article.Title), escape(article.Link), escape(article.Link), article.Published.Format(time.RFC1123Z), htmlDescription, escape(article.Link), escape(article.Source))
-		if article.ImageURL != "" {
-			fmt.Fprintf(&feed, "<media:content url=\"%s\" medium=\"image\"/><media:thumbnail url=\"%s\"/>", escape(article.ImageURL), escape(article.ImageURL))
-		}
-		feed.WriteString("</item>\n")
-	}
-	feed.WriteString("</channel></rss>\n")
-	if err := os.WriteFile(filepath.Join(dir, "index.xml"), []byte(feed.String()), 0o644); err != nil {
-		return err
-	}
-	var page strings.Builder
-	fmt.Fprintf(&page, "<!doctype html><html lang=\"ja\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><title>%s</title><link rel=\"alternate\" type=\"application/rss+xml\" title=\"%s\" href=\"index.xml\"><style>:root{color-scheme:light}body{font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;max-width:860px;margin:0 auto;padding:3rem 1.25rem 5rem;line-height:1.7;color:#172033;background:#f6f8fb}header{margin-bottom:2rem}h1{letter-spacing:-.04em;margin:0;font-size:clamp(2rem,5vw,3.2rem)}header p{color:#627083;margin:.45rem 0}a{color:#075985;text-decoration-thickness:1px;text-underline-offset:3px}.hint{font-size:.85rem;color:#627083}.feed{display:grid;gap:1rem}article{background:#fff;border:1px solid #e0e6ef;border-radius:16px;padding:1.25rem;box-shadow:0 1px 2px #1720330a;outline:none;transition:border-color .15s,box-shadow .15s,transform .15s}article:focus,article.active{border-color:#38bdf8;box-shadow:0 0 0 4px #38bdf833,0 10px 25px #17203312;transform:translateY(-1px)}h2{font-size:1.2rem;line-height:1.4;margin:0 0 .5rem}.meta{color:#627083;font-size:.86rem;margin:0 0 .75rem}img{display:block;width:100%%;max-height:440px;object-fit:cover;margin:.75rem 0;border-radius:10px;background:#e8edf4}.summary{white-space:pre-line;margin:1rem 0 0;color:#364152}</style></head><body><header><h1>%s</h1><p>%s</p><p><a href=\"index.xml\">RSSを購読する</a></p><p class=\"hint\">j / k キーで記事を移動</p></header><main class=\"feed\">", escape(set.Title), escape(set.Title), escape(set.Title), escape(set.Description))
+	var body strings.Builder
 	if len(articles) == 0 {
-		page.WriteString("<p>記事はまだありません。</p>")
+		body.WriteString("<p>記事はまだありません。</p>")
 	} else {
 		for _, article := range articles {
-			fmt.Fprintf(&page, "<article tabindex=\"-1\"><h2><a href=\"%s\">%s</a></h2><p class=\"meta\">%s · <time datetime=\"%s\">%s</time></p>", escape(article.Link), escape(article.Title), escape(article.Source), article.Published.Format(time.RFC3339), article.Published.In(time.Local).Format("2006-01-02 15:04 MST"))
+			fmt.Fprintf(&body, "<article tabindex=\"-1\"><h2><a href=\"%s\">%s</a></h2><p class=\"meta\">%s · <time datetime=\"%s\">%s</time></p>", escape(article.Link), escape(article.Title), escape(article.Source), article.Published.Format(time.RFC3339), article.Published.In(time.Local).Format("2006-01-02 15:04 MST"))
 			if article.ImageURL != "" {
-				fmt.Fprintf(&page, "<img src=\"%s\" alt=\"%s\" loading=\"lazy\">", escape(article.ImageURL), escape(article.Title))
+				fmt.Fprintf(&body, "<img src=\"%s\" alt=\"%s\" loading=\"lazy\">", escape(article.ImageURL), escape(article.Title))
 			}
 			if article.Summary != "" {
-				fmt.Fprintf(&page, "<p class=\"summary\">%s</p>", escape(article.Summary))
+				fmt.Fprintf(&body, "<p class=\"summary\">%s</p>", escape(article.Summary))
 			}
-			page.WriteString("</article>")
+			body.WriteString("</article>")
 		}
 	}
-	page.WriteString("</main><script>const cards=[...document.querySelectorAll('article')];let current=0;function select(i){if(!cards.length)return;cards[current]?.classList.remove('active');current=(i+cards.length)%%cards.length;cards[current].classList.add('active');cards[current].focus({preventScroll:false})}if(cards.length)cards[0].classList.add('active');document.addEventListener('keydown',e=>{if(/input|textarea|select/i.test(e.target.tagName))return;if(e.key==='j'){e.preventDefault();select(current+1)}if(e.key==='k'){e.preventDefault();select(current-1)}});</script></body></html>\n")
+	var page strings.Builder
+	fmt.Fprintf(&page, "<!doctype html><html lang=\"ja\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><title>%s</title><style>:root{color-scheme:light}body{font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;max-width:860px;margin:0 auto;padding:3rem 1.25rem 5rem;line-height:1.7;color:#172033;background:#f6f8fb}header{margin-bottom:2rem}h1{letter-spacing:-.04em;margin:0;font-size:clamp(2rem,5vw,3.2rem)}header p{color:#627083;margin:.45rem 0}a{color:#075985;text-decoration-thickness:1px;text-underline-offset:3px}.hint{font-size:.85rem;color:#627083}.gate{background:#fff;border:1px solid #e0e6ef;border-radius:16px;padding:1.25rem;color:#627083}.feed{display:grid;gap:1rem}article{background:#fff;border:1px solid #e0e6ef;border-radius:16px;padding:1.25rem;box-shadow:0 1px 2px #1720330a;outline:none;transition:border-color .15s,box-shadow .15s,transform .15s}article:focus,article.active{border-color:#38bdf8;box-shadow:0 0 0 4px #38bdf833,0 10px 25px #17203312;transform:translateY(-1px)}h2{font-size:1.2rem;line-height:1.4;margin:0 0 .5rem}.meta{color:#627083;font-size:.86rem;margin:0 0 .75rem}img{display:block;width:100%%;max-height:440px;object-fit:cover;margin:.75rem 0;border-radius:10px;background:#e8edf4}.summary{white-space:pre-line;margin:1rem 0 0;color:#364152}</style></head><body><header><h1>%s</h1><p>%s</p><p class=\"hint\">j / k キーで記事を移動</p></header><div class=\"gate\" id=\"gate\" hidden></div><main class=\"feed\" id=\"feed\">", escape(set.Title), escape(set.Title), escape(set.Description))
+
+	if token == "" {
+		page.WriteString(body.String())
+		page.WriteString("</main><script>")
+		page.WriteString(feedNavScript)
+		page.WriteString("initNav();</script></body></html>\n")
+	} else {
+		payload, err := encryptContent(token, body.String())
+		if err != nil {
+			return err
+		}
+		page.WriteString("</main><script type=\"application/json\" id=\"payload\">")
+		page.WriteString(payload)
+		page.WriteString("</script><script>")
+		page.WriteString(feedNavScript)
+		page.WriteString(feedUnlockScript)
+		page.WriteString("</script></body></html>\n")
+	}
 	return os.WriteFile(filepath.Join(dir, "index.html"), []byte(page.String()), 0o644)
+}
+
+// feedNavScript wires j / k keyboard navigation over the rendered article cards.
+const feedNavScript = "function initNav(){const feed=document.getElementById('feed');const cards=[...feed.querySelectorAll('article')];let cur=0;function sel(i){if(!cards.length)return;cards[cur]&&cards[cur].classList.remove('active');cur=(i+cards.length)%cards.length;cards[cur].classList.add('active');cards[cur].focus({preventScroll:false})}if(cards.length)cards[0].classList.add('active');document.addEventListener('keydown',function(e){if(/input|textarea|select/i.test(e.target.tagName))return;if(e.key==='j'){e.preventDefault();sel(cur+1)}if(e.key==='k'){e.preventDefault();sel(cur-1)}})}"
+
+// feedUnlockScript reads ?token= from the URL, derives an AES-GCM key via PBKDF2
+// and decrypts the embedded payload entirely in the browser.
+const feedUnlockScript = "(async function(){const gate=document.getElementById('gate');const feed=document.getElementById('feed');function fail(m){gate.hidden=false;gate.textContent=m}const token=new URLSearchParams(location.search).get('token');if(!token){return fail('アクセスには token が必要です。URL に ?token=… を付けてください。')}try{const p=JSON.parse(document.getElementById('payload').textContent);const b64d=function(s){return Uint8Array.from(atob(s),function(c){return c.charCodeAt(0)})};const enc=new TextEncoder();const base=await crypto.subtle.importKey('raw',enc.encode(token),'PBKDF2',false,['deriveKey']);const key=await crypto.subtle.deriveKey({name:'PBKDF2',salt:b64d(p.salt),iterations:p.iter,hash:'SHA-256'},base,{name:'AES-GCM',length:256},false,['decrypt']);const pt=await crypto.subtle.decrypt({name:'AES-GCM',iv:b64d(p.iv)},key,b64d(p.ct));feed.innerHTML=new TextDecoder().decode(pt);initNav()}catch(e){fail('token が正しくありません。')}})();"
+
+// encPayload is the JSON envelope embedded into encrypted pages.
+type encPayload struct {
+	V    int    `json:"v"`
+	Iter int    `json:"iter"`
+	Salt string `json:"salt"`
+	IV   string `json:"iv"`
+	CT   string `json:"ct"`
+}
+
+const pbkdf2Iterations = 200000
+
+// encryptContent encrypts plaintext with AES-256-GCM under a key derived from
+// token via PBKDF2-HMAC-SHA256, returning a JSON envelope decryptable by the
+// browser Web Crypto API.
+func encryptContent(token, plaintext string) (string, error) {
+	salt := make([]byte, 16)
+	if _, err := rand.Read(salt); err != nil {
+		return "", err
+	}
+	key := pbkdf2SHA256([]byte(token), salt, pbkdf2Iterations, 32)
+	block, err := aes.NewCipher(key)
+	if err != nil {
+		return "", err
+	}
+	gcm, err := cipher.NewGCM(block)
+	if err != nil {
+		return "", err
+	}
+	iv := make([]byte, gcm.NonceSize())
+	if _, err := rand.Read(iv); err != nil {
+		return "", err
+	}
+	ct := gcm.Seal(nil, iv, []byte(plaintext), nil)
+	b, err := json.Marshal(encPayload{
+		V:    1,
+		Iter: pbkdf2Iterations,
+		Salt: base64.StdEncoding.EncodeToString(salt),
+		IV:   base64.StdEncoding.EncodeToString(iv),
+		CT:   base64.StdEncoding.EncodeToString(ct),
+	})
+	if err != nil {
+		return "", err
+	}
+	return string(b), nil
+}
+
+// pbkdf2SHA256 implements PBKDF2-HMAC-SHA256 (RFC 2898) using only the standard
+// library, matching the Web Crypto PBKDF2 parameters used during decryption.
+func pbkdf2SHA256(password, salt []byte, iter, keyLen int) []byte {
+	prf := hmac.New(sha256.New, password)
+	hLen := prf.Size()
+	blocks := (keyLen + hLen - 1) / hLen
+	dk := make([]byte, 0, blocks*hLen)
+	buf := make([]byte, 4)
+	for block := 1; block <= blocks; block++ {
+		prf.Reset()
+		prf.Write(salt)
+		binary.BigEndian.PutUint32(buf, uint32(block))
+		prf.Write(buf)
+		u := prf.Sum(nil)
+		t := make([]byte, len(u))
+		copy(t, u)
+		for n := 2; n <= iter; n++ {
+			prf.Reset()
+			prf.Write(u)
+			u = prf.Sum(nil)
+			for x := range t {
+				t[x] ^= u[x]
+			}
+		}
+		dk = append(dk, t...)
+	}
+	return dk[:keyLen]
 }
 
 type articleArchive map[string][]item
