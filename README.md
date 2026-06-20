@@ -1,32 +1,44 @@
 # hw-digest
 
-GitHub Pages で配信するハードウェアニュースダイジェストです。
+Vercel で配信するハードウェアニュースダイジェストです。
 
-- `/akiba/` — 日本のハードウェア情報
-- `/world/` — PC自作・コンポーネント・モバイル中心の海外情報
+- `/akiba/` — 日本のハードウェア情報（RSS は `/akiba/index.xml`）
+- `/world/` — PC自作・コンポーネント・モバイル中心の海外情報（RSS は `/world/index.xml`）
 
-`sources.json` に収集元を定義しています。GitHub Actions が3時間ごとに実行され、公開日時が直近3時間以内の記事のみを収集します。`data/seen.json` はURLのSHA-256を30日保持するため、同じ記事を再配信しません。
+`sources.json` に収集元を定義しています。GitHub Actions が3時間ごとに実行され、公開日時が直近3時間以内の記事のみを収集して `docs/` を生成・コミットします。push をトリガーに Vercel が再デプロイします。`data/seen.json` はURLのSHA-256を30日保持するため、同じ記事を再配信しません。
 
 海外側は、PCパーツ／自作PCを主題にする TechPowerUp・Tom's Hardware、ノートPC／スマートフォンを主題にする Notebookcheck・Android Authority・XDA、ハードウェア製品記事を持つ Ars Technica Gear & Gadgets を選定しています。
 
-## 初回設定
+## トークン保護された配信
 
-リポジトリの **Settings → Pages → Build and deployment** で **GitHub Actions** を選び、`Update hardware feeds` を手動実行してください。公開URLは `https://jedipunkz.github.io/hw-digest/akiba/` と `https://jedipunkz.github.io/hw-digest/world/` になります。
+すべてのページと RSS は `middleware.js`（Vercel Edge Middleware）で保護され、リクエストが正しい `?token=` クエリを持たない限り `403` を返します。トークンは `RSS_TOKEN` 環境変数と照合されます。静的ファイルではなくサーバ（エッジ）側で検証するため、RSS リーダー（Inoreader 等）でも購読できます。
 
-## アクセストークン
+セットアップ:
 
-各ページの記事本文は AES-256-GCM で暗号化して埋め込まれ、正しいトークンを渡したときだけブラウザ側（Web Crypto API）で復号・表示されます。トークンは URL クエリで渡します。
+1. Vercel にプロジェクトを接続（このリポジトリを import）。`vercel.json` により `docs/` を静的配信します。
 
-```
-https://jedipunkz.github.io/hw-digest/akiba/?token=<TOKEN>
-https://jedipunkz.github.io/hw-digest/world/?token=<TOKEN>
-```
+2. Vercel に環境変数を登録（最低でも Production スコープ）:
 
-トークンは GitHub Actions の **Settings → Secrets and variables → Actions** に `DIGEST_TOKEN` という名前で登録します。鍵は実行時に `PBKDF2-HMAC-SHA256`（20万回）で導出されます。`DIGEST_TOKEN` が未設定の場合、ページは暗号化されず平文で生成されます。
+   ```sh
+   vercel env add RSS_TOKEN production
+   ```
+
+   長いランダム値を使ってください。例: `openssl rand -hex 32`
+
+3. RSS リーダーにトークン付き URL を登録:
+
+   ```
+   https://<your-app>.vercel.app/akiba/index.xml?token=<RSS_TOKEN>
+   https://<your-app>.vercel.app/world/index.xml?token=<RSS_TOKEN>
+   ```
+
+   ブラウザで読む場合は `https://<your-app>.vercel.app/world/?token=<RSS_TOKEN>` のようにアクセスします。ページ内のリンクは現在の `?token=` を引き継ぎます。
+
+トークンのローテーション: Vercel の `RSS_TOKEN` を更新して再デプロイし、新しい URL で購読し直します。古い URL は即座に無効になります。
 
 ## ローカル実行
 
 ```sh
 go test ./...
-DIGEST_TOKEN=<TOKEN> go run ./cmd/hw-digest
+go run ./cmd/hw-digest
 ```

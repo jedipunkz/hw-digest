@@ -11,5 +11,15 @@
       <li><a href="akiba/">日本のハードウェア情報</a></li>
       <li><a href="world/">世界のハードウェア情報</a></li>
     </ul>
+    <script>
+      if (location.search) {
+        for (const a of document.querySelectorAll('a[href]')) {
+          const h = a.getAttribute('href');
+          if (h && !/^[a-z]+:|^\/\//i.test(h) && h.indexOf('?') < 0) {
+            a.setAttribute('href', h + location.search);
+          }
+        }
+      }
+    </script>
   </body>
 </html>
