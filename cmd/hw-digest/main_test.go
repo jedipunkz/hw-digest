@@ -46,6 +46,36 @@ func TestWriteFeedRendersArticleList(t *testing.T) {
 	}
 }
 
+func TestExtractReadableTextScopesToMainAndDedups(t *testing.T) {
+	page := `<html><body>
+	<nav><ul><li>ナビゲーションのリンクでも十分に長い無関係なテキストが入りますよここに</li></ul></nav>
+	<article>
+	<h1>本物の記事タイトルがここに入りますこれは十分に長い見出しのテキストです</h1>
+	<p>これは記事の本文であり重要な数値や事実を含む十分に長い段落のテキストです。</p>
+	<p>これは記事の本文であり重要な数値や事実を含む十分に長い段落のテキストです。</p>
+	<p>二つめの段落も十分に長くて記事の内容を補足する重要な情報を持っています。</p>
+	</article>
+	<aside><ul><li>関連記事へのリンクで十分に長いテキストが並んでいますがこれは無関係です</li></ul></aside>
+	</body></html>`
+	out := extractReadableText(page, 5000)
+	if got := strings.Count(out, "重要な数値や事実を含む十分に長い段落"); got != 1 {
+		t.Fatalf("duplicate paragraph not deduplicated (count=%d): %q", got, out)
+	}
+	if strings.Contains(out, "ナビゲーションのリンク") || strings.Contains(out, "関連記事へのリンク") {
+		t.Fatalf("navigation/related boilerplate leaked: %q", out)
+	}
+	if !strings.Contains(out, "本物の記事タイトル") || !strings.Contains(out, "二つめの段落") {
+		t.Fatalf("main content missing: %q", out)
+	}
+}
+
+func TestExtractReadableTextFallsBackWithoutMainContainer(t *testing.T) {
+	page := `<html><body><div><p>article 要素が無いページでも本文の段落はしっかり抽出されるべきです。</p></div></body></html>`
+	if out := extractReadableText(page, 5000); !strings.Contains(out, "本文の段落はしっかり抽出される") {
+		t.Fatalf("fallback extraction failed: %q", out)
+	}
+}
+
 func TestMergeArticlesPreservesArchiveAndReplacesSameLink(t *testing.T) {
 	old := item{Title: "old", Link: "https://example.com/old", Published: time.Unix(1, 0)}
 	updated := item{Title: "updated", Link: old.Link, Published: time.Unix(2, 0)}

@@ -692,21 +692,60 @@ func firstMeta(body, name string) string {
 	return ""
 }
 
+var (
+	boilerplateTags  = regexp.MustCompile(`(?is)<(script|style|noscript|nav|aside|footer|header|form)[^>]*>.*?</\s*(script|style|noscript|nav|aside|footer|header|form)\s*>`)
+	readableBlockTag = regexp.MustCompile(`(?is)<(p|h1|h2|h3|li|blockquote)[^>]*>(.*?)</\s*(p|h1|h2|h3|li|blockquote)\s*>`)
+	mainContentTag   = regexp.MustCompile(`(?is)<(article|main)[^>]*>(.*?)</\s*(article|main)\s*>`)
+)
+
 func extractReadableText(body string, maxChars int) string {
-	for _, tag := range []string{"script", "style", "noscript"} {
-		body = regexp.MustCompile(`(?is)<`+tag+`[^>]*>.*?</`+tag+`\s*>`).ReplaceAllString(body, " ")
-	}
-	var chunks []string
-	for _, match := range regexp.MustCompile(`(?is)<(p|h1|h2|h3|li|blockquote)[^>]*>(.*?)</\s*(p|h1|h2|h3|li|blockquote)\s*>`).FindAllStringSubmatch(body, -1) {
-		text := htmlToText(match[2])
-		if len([]rune(text)) >= 30 {
-			chunks = append(chunks, text)
+	body = boilerplateTags.ReplaceAllString(body, " ")
+	chunks := readableChunks(mainContent(body))
+	// Fall back to the whole document when the main-content heuristic finds
+	// too little (e.g. the page does not use <article>/<main>).
+	if runeLen(chunks) < 200 {
+		if whole := readableChunks(body); runeLen(whole) > runeLen(chunks) {
+			chunks = whole
 		}
 	}
 	if len(chunks) == 0 {
-		chunks = append(chunks, htmlToText(body))
+		chunks = []string{htmlToText(body)}
 	}
 	return trimRunes(strings.Join(chunks, "\n\n"), maxChars)
+}
+
+// mainContent narrows the document to its primary content region when an
+// <article> or <main> element is present, dropping site chrome and the
+// related-article lists that otherwise pollute summaries.
+func mainContent(body string) string {
+	if m := mainContentTag.FindStringSubmatch(body); len(m) > 2 {
+		return m[2]
+	}
+	return body
+}
+
+// readableChunks collects prose blocks, skipping duplicates so repeated titles
+// and descriptions are not concatenated multiple times.
+func readableChunks(body string) []string {
+	var chunks []string
+	seen := map[string]bool{}
+	for _, match := range readableBlockTag.FindAllStringSubmatch(body, -1) {
+		text := htmlToText(match[2])
+		if len([]rune(text)) < 30 || seen[text] {
+			continue
+		}
+		seen[text] = true
+		chunks = append(chunks, text)
+	}
+	return chunks
+}
+
+func runeLen(chunks []string) int {
+	n := 0
+	for _, c := range chunks {
+		n += len([]rune(c))
+	}
+	return n
 }
 
 func htmlToText(input string) string {
