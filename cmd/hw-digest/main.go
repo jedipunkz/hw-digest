@@ -232,6 +232,9 @@ func fetch(ctx context.Context, client *http.Client, src source) ([]item, error)
 	if src.Kind == "4gamer-html" {
 		return fetch4Gamer(ctx, client, src)
 	}
+	if src.Kind == "wp-json" {
+		return fetchWPJSON(ctx, client, src)
+	}
 	req, err := http.NewRequestWithContext(ctx, http.MethodGet, src.URL, nil)
 	if err != nil {
 		return nil, err
@@ -298,6 +301,49 @@ func fetch4Gamer(ctx context.Context, client *http.Client, src source) ([]item, 
 			continue
 		}
 		articles = append(articles, item{Title: title, Link: link.String(), Published: metadata.Published, Source: src.Name, Category: "HARDWARE", ImageURL: metadata.ImageURL})
+	}
+	return articles, nil
+}
+
+// fetchWPJSON reads recent posts from a WordPress REST API endpoint
+// (wp/v2/posts), used for sites that disable their RSS/Atom feeds.
+func fetchWPJSON(ctx context.Context, client *http.Client, src source) ([]item, error) {
+	req, err := http.NewRequestWithContext(ctx, http.MethodGet, src.URL, nil)
+	if err != nil {
+		return nil, err
+	}
+	req.Header.Set("User-Agent", userAgent)
+	req.Header.Set("Accept", "application/json")
+	resp, err := client.Do(req)
+	if err != nil {
+		return nil, err
+	}
+	defer resp.Body.Close()
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("GET %s: %s", src.URL, resp.Status)
+	}
+	var posts []struct {
+		Link    string `json:"link"`
+		DateGMT string `json:"date_gmt"`
+		Title   struct {
+			Rendered string `json:"rendered"`
+		} `json:"title"`
+	}
+	if err := json.NewDecoder(io.LimitReader(resp.Body, 8<<20)).Decode(&posts); err != nil {
+		return nil, err
+	}
+	var articles []item
+	for _, post := range posts {
+		title := htmlToText(post.Title.Rendered)
+		link := strings.TrimSpace(post.Link)
+		if title == "" || link == "" {
+			continue
+		}
+		published, err := time.ParseInLocation("2006-01-02T15:04:05", strings.TrimSpace(post.DateGMT), time.UTC)
+		if err != nil {
+			continue
+		}
+		articles = append(articles, item{Title: title, Link: normalizeURL(link), Published: published, Source: src.Name})
 	}
 	return articles, nil
 }
