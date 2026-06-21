@@ -6,14 +6,15 @@ on:
       lookback:
         description: '収集対象期間'
         required: true
-        default: '3h'
+        default: '1h'
         type: choice
         options:
+          - '1h'
           - '3h'
           - '24h'
           - '7days'
   schedule:
-    - cron: '17 */3 * * *'
+    - cron: '17 * * * *'
 
 permissions:
   contents: write
@@ -27,7 +28,7 @@ jobs:
   collect-and-deploy:
     runs-on: ubuntu-latest
     env:
-      LOOKBACK: ${{ inputs.lookback || '3h' }}
+      LOOKBACK: ${{ inputs.lookback || '1h' }}
       REFRESH_SEEN: ${{ inputs.lookback == '7days' }}
     steps:
       - uses: actions/checkout@v4

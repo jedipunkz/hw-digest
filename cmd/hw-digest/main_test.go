@@ -87,7 +87,7 @@ func TestMergeArticlesPreservesArchiveAndReplacesSameLink(t *testing.T) {
 }
 
 func TestParseLookback(t *testing.T) {
-	for _, value := range []string{"", "3h", "24h", "7days"} {
+	for _, value := range []string{"", "1h", "3h", "24h", "7days"} {
 		if _, err := parseLookback(value); err != nil {
 			t.Fatalf("parseLookback(%q): %v", value, err)
 		}
