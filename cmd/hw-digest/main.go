@@ -140,7 +140,7 @@ func run(ctx context.Context, now time.Time, lookback time.Duration, configPath,
 		if err := writeFeed(filepath.Join(outputDir, set.Path), set, archive[set.Path], now); err != nil {
 			return err
 		}
-		writeSummary(set, collected.Sources, len(fresh))
+		writeSummary(set, collected.Sources, len(fresh), lookback)
 	}
 	if err := writeSeen(seenPath, known); err != nil {
 		return err
@@ -157,7 +157,7 @@ func min(a, b int) int {
 
 func parseLookback(value string) (time.Duration, error) {
 	if value == "" {
-		return 3 * time.Hour, nil
+		return time.Hour, nil
 	}
 	if value == "7days" {
 		return 7 * 24 * time.Hour, nil
@@ -166,12 +166,12 @@ func parseLookback(value string) (time.Duration, error) {
 	if err != nil {
 		return 0, fmt.Errorf("invalid LOOKBACK %q: %w", value, err)
 	}
-	for _, allowed := range []time.Duration{3 * time.Hour, 24 * time.Hour, 7 * 24 * time.Hour} {
+	for _, allowed := range []time.Duration{time.Hour, 3 * time.Hour, 24 * time.Hour, 7 * 24 * time.Hour} {
 		if lookback == allowed {
 			return lookback, nil
 		}
 	}
-	return 0, fmt.Errorf("LOOKBACK must be one of 3h, 24h, or 7days; got %q", value)
+	return 0, fmt.Errorf("LOOKBACK must be one of 1h, 3h, 24h, or 7days; got %q", value)
 }
 
 func readConfig(path string) (config, error) {
@@ -817,9 +817,9 @@ func formatLookback(lookback time.Duration) string {
 
 func escape(s string) string { return html.EscapeString(s) }
 
-func writeSummary(set feedSet, results []sourceResult, published int) {
+func writeSummary(set feedSet, results []sourceResult, published int, lookback time.Duration) {
 	var report strings.Builder
-	fmt.Fprintf(&report, "## %s\n\n公開記事: **%d件**\n\n|収集元|取得|直近3時間|状態|\n|---|---:|---:|---|\n", set.Title, published)
+	fmt.Fprintf(&report, "## %s\n\n公開記事: **%d件**\n\n|収集元|取得|直近%s|状態|\n|---|---:|---:|---|\n", set.Title, published, formatLookback(lookback))
 	for _, result := range results {
 		state := "ok"
 		if result.Err != nil {
