@@ -1,6 +1,24 @@
 {
   "akiba": [
     {
+      "Title": "ソロでも優秀だが、外付けGPUで覚醒！ミニPCを最強化してみた ～ゲーミングPCにも変身できるACEMAGIC「F5A AMD Ryzen 7 H255」[Sponsored]",
+      "Link": "https://pc.watch.impress.co.jp/docs/topic/special/2118052.html",
+      "Published": "2026-06-21T21:30:39Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "ソロでも優秀だが、外付けGPUで覚醒！ミニPCを最強化してみた ～ゲーミングPCにも変身できるACEMAGIC「F5A AMD Ryzen 7 H255」[Sponsored]\n\nPC本体の価格上昇が続く中、ミニPCはコストを抑え、置き場所も取らずにPC環境を整えたいユーザーにとって有力な選択肢になっている。ただ、CPU性能は十分でも、内蔵GPUだけで最新ゲームを快適に遊ぶのは難しく、物理的な理由で購入後にビデオカードを追加する余地もあまり多くない。しかし、今回取り上げるACEMAGICの「F5A AMD Ryzen 7 H255」(直販価格9万8,800円)は、外付けGPU接続用ポート「OCuLink」を搭載することでその弱点を克服している。\n\nソロでも優秀だが、外付けGPUで覚醒！ミニPCを最強化してみた\n\n～ゲーミングPCにも変身できるACEMAGIC「F5A AMD Ryzen 7 H255」\n\nPC本体の価格上昇が続く中、ミニPCはコストを抑え、置き場所も取らずにPC環境を整えたいユーザーにとって有力な選択肢になっている。ただ、CPU性能は十分でも、内蔵GPUだけで最新ゲームを快適に遊ぶのは難しく、物理的な理由で購入後にビデオカードを追加する余地もあまり多くない。しかし、今回取り上げるACEMAGICの「 F5A AMD Ryzen 7 H255 」(直販価格9万8,800円)は、外付けGPU接続用ポート「OCuLink」を搭載することでその弱点を克服している。\n\n本稿では、本機単体での性能に加え、外付けGPUとどのように接続するのか、そしてどこまで性能が向上するのかもあわせて紹介していく。\n\n8コア/16スレッドの「Ryzen 7 H 255」搭載で基本性能は十分\n\nOCuLinkでRTX 5060 Tiを接続！4Kゲームプレイも可能に\n\nF5A AMD Ryz…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2118/052/01.jpg"
+    },
+    {
+      "Title": "【大原雄介の半導体業界こぼれ話】高性能メモリHBM、冷却用“煙突”が必要になる時代に突入",
+      "Link": "https://pc.watch.impress.co.jp/docs/column/tidbit/2118676.html",
+      "Published": "2026-06-21T21:06:00Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "【大原雄介の半導体業界こぼれ話】高性能メモリHBM、冷却用“煙突”が必要になる時代に突入\n\nSK hynixが5月27日、「iHBM」を発表したことはニュースで取り上げている通り。D2D PHYをDRAMからオフセットして配し、このD2D PHYの上に専用の冷却経路(ICE: Integrated Cooling Elements)を置くことで、D2D PHYの発熱を直接冷却できるようにする、というものだ。\n\nSK hynixが5月27日、「iHBM」を発表したことはニュースで取り上げている通り。D2D PHYをDRAMからオフセットして配し、このD2D PHYの上に専用の冷却経路(ICE: Integrated Cooling Elements)を置くことで、D2D PHYの発熱を直接冷却できるようにする、というものだ。\n\n実はこの発想そのものはSK hynixが初めてというわけではない。Samsung Electronicsは今年(2026年)のCOMPUTEXで、HPB(Heat Path Block)を利用したHBM5の構造を公開したことがTrendForceなどで 報じられている 。\n\nこのHPBは、元々同社のプロセッサ「Exynos 2600」用に提供されたものであり、今年1月に同社の Tech Blogのエントリ で紹介されている。直接的な理由は、HBMのD2D PHYの発熱をどうにかしないといけないという話であるが、話はもう少し根が深い。\n\n今年のISSCCにおけるフォーラム(Forum 3.7)でSamsung Semiconductorがちょうど「Packaging-Aware Design and Optimization of HBM Power Delivery in AI Platforms」という講演を行なっているので、まずはここからいくつかス…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2118/676/1.jpg"
+    },
+    {
       "Title": "MSIの歴代PCパーツやゲーミングPCを展示、COMPUTEXに合わせ開催された40周年記念イベントに行ってきた！[Sponsored]",
       "Link": "https://akiba-pc.watch.impress.co.jp/docs/topic/special/2118042.html",
       "Published": "2026-06-21T15:00:00Z",
@@ -191,6 +209,24 @@
     }
   ],
   "world": [
+    {
+      "Title": "FreeBSD 15 は、退屈なオペレーティング システムこそが重要な点であることを思い出させてくれました",
+      "Link": "https://www.xda-developers.com/freebsd-15-boring-operating-systems-whole-point/",
+      "Published": "2026-06-21T21:30:22Z",
+      "Source": "XDA",
+      "Category": "Home Lab",
+      "Summary": "FreeBSD 15 は、退屈なオペレーティング システムこそが重要な点であることを思い出させてくれました\n\nFreeBSD 15 isn’t flashy, but that is exactly why it works. Its stability, structure, and predictability make boring feel valuable.\n\nFreeBSD 15 reminded me that boring operating systems are sometimes the whole point\n\nBy Jeff Butts Published Jun 21, 2026, 5:30 PM EDT Jeff's been involved in the IT industry since before the Internet and spent more than 20 years working in technical support, system administration, network administration, and consulting roles. He holds an undergraduate degree in English, a Master's degree in English with a focus on professional writing and editing, and another Master's degree in Computing \u0026 Information Systems. After teaching university English and computer science for a few years, Jeff launched his writing career . He's written for Macworld , Tom's Hardware , groovyPost , The Mac Observer , and more befo…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/freebsd-15-reminded-me-that-boring-operating-systems-are-sometimes-the-whole-point-featured.jpeg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "一部のゲームではフレーム生成により HDR が壊れますが、Nvidia のドライバーレベルの修正は実際にはうまく機能します",
+      "Link": "https://www.xda-developers.com/frame-generation-breaks-hdr-but-nvidia-driver-level-fix-better/",
+      "Published": "2026-06-21T21:00:22Z",
+      "Source": "XDA",
+      "Category": "HDR",
+      "Summary": "一部のゲームではフレーム生成により HDR が壊れますが、Nvidia のドライバーレベルの修正は実際にはうまく機能します\n\nJust let Nvidia handle HDR instead of the game.\n\nFrame generation breaks HDR in some games, but Nvidia's driver-level fix actually works better\n\nBy Hamlin Rozario Published Jun 21, 2026, 5:00 PM EDT Hamlin has been in the tech field for over seven years. Since 2017, his work has appeared on MakeUseOf , OSXDaily, Beebom, MashTips, and more. He served as the Senior Editor for MUO for two years before joining XDA. He uses a Windows PC for desktop use and a MacBook for traveling, but dislikes some of the quirks of macOS. You're more likely to catch him at the gym or on a flight than anywhere else. Sign in to your XDA account HDR on Windows has never really been consistent. It tends to vary a lot depending on your monitor, the game you're playing, and sometimes even your GPU drivers. Even when everything is on point, Windows itsel…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/dlss-frame-generation-battlefield-6.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
     {
       "Title": "私は開発者ワークフロー全体をこれらの Docker コンテナーを中心に構築しましたが、後戻りすることはありません",
       "Link": "https://www.xda-developers.com/built-developer-workflow-around-these-docker-containers/",
