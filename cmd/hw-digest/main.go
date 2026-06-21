@@ -22,9 +22,11 @@ import (
 )
 
 const (
-	seenFor         = 30 * 24 * time.Hour
-	userAgent       = "hw-digest/1.0 (+https://github.com/jedipunkz/hw-digest)"
-	maxItemsPerFeed = 15
+	seenFor           = 30 * 24 * time.Hour
+	userAgent         = "hw-digest/1.0 (+https://github.com/jedipunkz/hw-digest)"
+	maxItemsPerFeed   = 15
+	archiveRetention  = 90 * 24 * time.Hour
+	maxArchivePerFeed = 500
 )
 
 type source struct {
@@ -136,7 +138,7 @@ func run(ctx context.Context, now time.Time, lookback time.Duration, configPath,
 			fresh = append(fresh, article)
 		}
 		enrichItems(ctx, client, summarizer, set.TranslateTitles, fresh)
-		archive[set.Path] = mergeArticles(archive[set.Path], fresh)
+		archive[set.Path] = mergeArticles(archive[set.Path], fresh, now)
 		if err := writeFeed(filepath.Join(outputDir, set.Path), set, archive[set.Path], now); err != nil {
 			return err
 		}
@@ -707,7 +709,11 @@ func writeArchive(path string, archive articleArchive) error {
 	return os.WriteFile(path, append(b, '\n'), 0o644)
 }
 
-func mergeArticles(existing, fresh []item) []item {
+// mergeArticles combines the existing archive with freshly collected items,
+// then prunes it so articles.json (and the rendered feed/page) cannot grow
+// unbounded: entries older than archiveRetention are dropped, and the result is
+// capped at maxArchivePerFeed as a safety valve against traffic bursts.
+func mergeArticles(existing, fresh []item, now time.Time) []item {
 	byLink := map[string]item{}
 	for _, article := range existing {
 		byLink[article.Link] = article
@@ -715,11 +721,18 @@ func mergeArticles(existing, fresh []item) []item {
 	for _, article := range fresh {
 		byLink[article.Link] = article
 	}
+	cutoff := now.Add(-archiveRetention)
 	merged := make([]item, 0, len(byLink))
 	for _, article := range byLink {
+		if article.Published.Before(cutoff) {
+			continue
+		}
 		merged = append(merged, article)
 	}
 	sort.Slice(merged, func(i, j int) bool { return merged[i].Published.After(merged[j].Published) })
+	if len(merged) > maxArchivePerFeed {
+		merged = merged[:maxArchivePerFeed]
+	}
 	return merged
 }
 
