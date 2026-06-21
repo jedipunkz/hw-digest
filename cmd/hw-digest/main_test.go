@@ -3,6 +3,7 @@ package main
 import (
 	"os"
 	"path/filepath"
+	"strconv"
 	"strings"
 	"testing"
 	"time"
@@ -77,12 +78,31 @@ func TestExtractReadableTextFallsBackWithoutMainContainer(t *testing.T) {
 }
 
 func TestMergeArticlesPreservesArchiveAndReplacesSameLink(t *testing.T) {
-	old := item{Title: "old", Link: "https://example.com/old", Published: time.Unix(1, 0)}
-	updated := item{Title: "updated", Link: old.Link, Published: time.Unix(2, 0)}
-	newer := item{Title: "new", Link: "https://example.com/new", Published: time.Unix(3, 0)}
-	merged := mergeArticles([]item{old}, []item{updated, newer})
+	now := time.Date(2026, 6, 20, 12, 0, 0, 0, time.UTC)
+	old := item{Title: "old", Link: "https://example.com/old", Published: now.Add(-2 * time.Hour)}
+	updated := item{Title: "updated", Link: old.Link, Published: now.Add(-time.Hour)}
+	newer := item{Title: "new", Link: "https://example.com/new", Published: now}
+	merged := mergeArticles([]item{old}, []item{updated, newer}, now)
 	if len(merged) != 2 || merged[0].Title != "new" || merged[1].Title != "updated" {
 		t.Fatalf("merged = %#v", merged)
+	}
+}
+
+func TestMergeArticlesPrunesOldAndCapsCount(t *testing.T) {
+	now := time.Date(2026, 6, 20, 12, 0, 0, 0, time.UTC)
+	stale := item{Title: "stale", Link: "https://example.com/stale", Published: now.Add(-archiveRetention - time.Hour)}
+	recent := item{Title: "recent", Link: "https://example.com/recent", Published: now.Add(-time.Hour)}
+	merged := mergeArticles([]item{stale, recent}, nil, now)
+	if len(merged) != 1 || merged[0].Title != "recent" {
+		t.Fatalf("stale article not pruned: %#v", merged)
+	}
+
+	many := make([]item, maxArchivePerFeed+50)
+	for i := range many {
+		many[i] = item{Title: "a", Link: "https://example.com/" + strconv.Itoa(i), Published: now.Add(-time.Duration(i) * time.Minute)}
+	}
+	if got := len(mergeArticles(many, nil, now)); got != maxArchivePerFeed {
+		t.Fatalf("archive not capped: got %d, want %d", got, maxArchivePerFeed)
 	}
 }
 
