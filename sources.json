@@ -18,6 +18,7 @@
       "title": "世界のハードウェア情報",
       "description": "PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）",
       "path": "world",
+      "translate_titles": true,
       "sources": [
         {"name": "TechPowerUp", "url": "https://www.techpowerup.com/rss/news"},
         {"name": "Tom's Hardware", "url": "https://www.tomshardware.com/feeds/all"},

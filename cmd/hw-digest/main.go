@@ -35,10 +35,11 @@ type source struct {
 }
 
 type feedSet struct {
-	Title       string   `json:"title"`
-	Description string   `json:"description"`
-	Path        string   `json:"path"`
-	Sources     []source `json:"sources"`
+	Title           string   `json:"title"`
+	Description     string   `json:"description"`
+	Path            string   `json:"path"`
+	Sources         []source `json:"sources"`
+	TranslateTitles bool     `json:"translate_titles"`
 }
 
 type config struct {
@@ -134,7 +135,7 @@ func run(ctx context.Context, now time.Time, lookback time.Duration, configPath,
 			known[key] = now
 			fresh = append(fresh, article)
 		}
-		enrichItems(ctx, client, summarizer, fresh)
+		enrichItems(ctx, client, summarizer, set.TranslateTitles, fresh)
 		archive[set.Path] = mergeArticles(archive[set.Path], fresh)
 		if err := writeFeed(filepath.Join(outputDir, set.Path), set, archive[set.Path], now); err != nil {
 			return err
@@ -311,7 +312,7 @@ func newSummarizer(client *http.Client, token string) *articleSummarizer {
 	return &articleSummarizer{client: client, token: token}
 }
 
-func enrichItems(ctx context.Context, client *http.Client, summarizer *articleSummarizer, items []item) {
+func enrichItems(ctx context.Context, client *http.Client, summarizer *articleSummarizer, translateTitles bool, items []item) {
 	translator := &textTranslator{client: client}
 	for i := range items {
 		metadata, err := fetchArticleMetadata(ctx, client, items[i].Link)
@@ -320,6 +321,14 @@ func enrichItems(ctx context.Context, client *http.Client, summarizer *articleSu
 			continue
 		}
 		items[i].ImageURL = metadata.ImageURL
+		if translateTitles {
+			translatedTitle, err := translator.translate(ctx, items[i].Title)
+			if err != nil {
+				fmt.Fprintf(os.Stderr, "warning: translate title %s: %v\n", items[i].Link, err)
+			} else {
+				items[i].Title = translatedTitle
+			}
+		}
 		input := strings.TrimSpace(strings.Join([]string{items[i].Title, metadata.Description, metadata.Text}, "\n\n"))
 		if input == "" {
 			continue
