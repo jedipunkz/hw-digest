@@ -292,7 +292,17 @@ func fetch4Gamer(ctx context.Context, client *http.Client, src source) ([]item, 
 		}
 		seen[link.String()] = true
 		metadata, err := fetchArticleMetadata(ctx, client, link.String())
-		if err != nil || metadata.Published.IsZero() {
+		if err != nil {
+			continue
+		}
+		// Fall back to date embedded in the URL path (YYYYMMDDNNN → YYYY-MM-DD 00:00 JST).
+		// Sufficient for 24h/7d lookbacks; for 1h, the OG tag path above is preferred.
+		if metadata.Published.IsZero() {
+			if m := regexp.MustCompile(`/(\d{4})(\d{2})(\d{2})\d{3,}/`).FindStringSubmatch(link.Path); len(m) == 4 {
+				metadata.Published, _ = time.ParseInLocation("2006/01/02", m[1]+"/"+m[2]+"/"+m[3], time.FixedZone("JST", 9*60*60))
+			}
+		}
+		if metadata.Published.IsZero() {
 			continue
 		}
 		title := htmlToText(match[2])
@@ -416,8 +426,20 @@ func fetchArticleMetadata(ctx context.Context, client *http.Client, rawURL strin
 	}
 	text := string(body)
 	metadata := articleMetadata{Description: firstMeta(text, "description"), ImageURL: firstMeta(text, "image"), Text: extractReadableText(text, 5000)}
-	if matched := regexp.MustCompile(`［(20[0-9]{2})/([0-9]{2})/([0-9]{2})\s+([0-9]{2}):([0-9]{2})］`).FindStringSubmatch(text); len(matched) == 6 {
-		metadata.Published, _ = time.ParseInLocation("2006/01/02 15:04", strings.Join([]string{matched[1], matched[2], matched[3]}, "/")+" "+matched[4]+":"+matched[5], time.FixedZone("JST", 9*60*60))
+	// article:published_time (standard OG property used by many sites including 4gamer)
+	if pt := firstMetaProperty(text, "article:published_time"); pt != "" {
+		for _, layout := range []string{time.RFC3339, "2006-01-02T15:04:05-07:00", "2006-01-02T15:04:05Z"} {
+			if t, err := time.Parse(layout, strings.TrimSpace(pt)); err == nil {
+				metadata.Published = t.UTC()
+				break
+			}
+		}
+	}
+	// 4gamer full-width bracket format: ［2006/01/02 15:04］
+	if metadata.Published.IsZero() {
+		if m := regexp.MustCompile(`［(20[0-9]{2})/([0-9]{2})/([0-9]{2})\s+([0-9]{2}):([0-9]{2})］`).FindStringSubmatch(text); len(m) == 6 {
+			metadata.Published, _ = time.ParseInLocation("2006/01/02 15:04", strings.Join([]string{m[1], m[2], m[3]}, "/")+" "+m[4]+":"+m[5], time.FixedZone("JST", 9*60*60))
+		}
 	}
 	return metadata, nil
 }
@@ -734,6 +756,19 @@ func mergeArticles(existing, fresh []item, now time.Time) []item {
 		merged = merged[:maxArchivePerFeed]
 	}
 	return merged
+}
+
+func firstMetaProperty(body, property string) string {
+	patterns := []string{
+		`<meta[^>]+property=["']` + regexp.QuoteMeta(property) + `["'][^>]+content=["']([^"']+)["'][^>]*>`,
+		`<meta[^>]+content=["']([^"']+)["'][^>]+property=["']` + regexp.QuoteMeta(property) + `["'][^>]*>`,
+	}
+	for _, pattern := range patterns {
+		if match := regexp.MustCompile("(?is)"+pattern).FindStringSubmatch(body); len(match) > 1 {
+			return html.UnescapeString(strings.TrimSpace(match[1]))
+		}
+	}
+	return ""
 }
 
 func firstMeta(body, name string) string {
