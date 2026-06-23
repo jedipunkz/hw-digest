@@ -279,7 +279,8 @@ func fetch4Gamer(ctx context.Context, client *http.Client, src source) ([]item, 
 		return nil, err
 	}
 	base, _ := url.Parse(src.URL)
-	linkRE := regexp.MustCompile(`(?is)<a[^>]+href=["']([^"']+/games/[^"']+/[0-9]{11,}/?)["'][^>]*>(.*?)</a>`)
+	// Allow relative URLs (starting with /games/) as well as absolute ones.
+	linkRE := regexp.MustCompile(`(?is)<a[^>]+href=["']([^"']*/games/[^"']+/[0-9]{11,}/?)["'][^>]*>(.*?)</a>`)
 	seen := map[string]bool{}
 	var articles []item
 	for _, match := range linkRE.FindAllStringSubmatch(string(body), -1) {
@@ -426,7 +427,7 @@ func fetchArticleMetadata(ctx context.Context, client *http.Client, rawURL strin
 	}
 	text := string(body)
 	metadata := articleMetadata{Description: firstMeta(text, "description"), ImageURL: firstMeta(text, "image"), Text: extractReadableText(text, 5000)}
-	// article:published_time (standard OG property used by many sites including 4gamer)
+	// article:published_time meta property (standard OG extension)
 	if pt := firstMetaProperty(text, "article:published_time"); pt != "" {
 		for _, layout := range []string{time.RFC3339, "2006-01-02T15:04:05-07:00", "2006-01-02T15:04:05Z"} {
 			if t, err := time.Parse(layout, strings.TrimSpace(pt)); err == nil {
@@ -435,7 +436,19 @@ func fetchArticleMetadata(ctx context.Context, client *http.Client, rawURL strin
 			}
 		}
 	}
-	// 4gamer full-width bracket format: ［2006/01/02 15:04］
+	// JSON-LD datePublished (used by 4gamer; more accurate than the bracket timestamp
+	// which reflects the game's DB registration date, not the article date)
+	if metadata.Published.IsZero() {
+		if m := regexp.MustCompile(`"datePublished"\s*:\s*"([^"]+)"`).FindStringSubmatch(text); len(m) == 2 {
+			for _, layout := range []string{time.RFC3339, "2006-01-02T15:04:05-07:00", "2006-01-02T15:04:05Z"} {
+				if t, err := time.Parse(layout, strings.TrimSpace(m[1])); err == nil {
+					metadata.Published = t.UTC()
+					break
+				}
+			}
+		}
+	}
+	// 4gamer full-width bracket format: ［2006/01/02 15:04］ (fallback only)
 	if metadata.Published.IsZero() {
 		if m := regexp.MustCompile(`［(20[0-9]{2})/([0-9]{2})/([0-9]{2})\s+([0-9]{2}):([0-9]{2})］`).FindStringSubmatch(text); len(m) == 6 {
 			metadata.Published, _ = time.ParseInLocation("2006/01/02 15:04", strings.Join([]string{m[1], m[2], m[3]}, "/")+" "+m[4]+":"+m[5], time.FixedZone("JST", 9*60*60))
