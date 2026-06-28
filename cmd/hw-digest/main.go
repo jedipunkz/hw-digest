@@ -380,6 +380,10 @@ func enrichItems(ctx context.Context, client *http.Client, summarizer *articleSu
 			continue
 		}
 		items[i].ImageURL = metadata.ImageURL
+		// Preserve the original title so the body translation input is in a
+		// uniform language. Using the already-translated Japanese title would
+		// produce mixed-language input that confuses Google Translate.
+		originalTitle := items[i].Title
 		if translateTitles {
 			translatedTitle, err := translator.translate(ctx, items[i].Title)
 			if err != nil {
@@ -388,7 +392,7 @@ func enrichItems(ctx context.Context, client *http.Client, summarizer *articleSu
 				items[i].Title = translatedTitle
 			}
 		}
-		input := strings.TrimSpace(strings.Join([]string{items[i].Title, metadata.Description, metadata.Text}, "\n\n"))
+		input := strings.TrimSpace(strings.Join([]string{originalTitle, metadata.Description, metadata.Text}, "\n\n"))
 		if input == "" {
 			continue
 		}
@@ -502,7 +506,7 @@ func (s *articleSummarizer) summarize(ctx context.Context, title, translated str
 	if s.token == "" {
 		return "", errors.New("GITHUB_TOKEN is not set")
 	}
-	prompt := fmt.Sprintf("次の記事を日本語で250〜400文字に要約してください。製品・技術・数値など重要な事実を優先し、推測は書かないでください。\n\nタイトル: %s\n\n本文:\n%s", title, trimRunes(translated, 5000))
+	prompt := fmt.Sprintf("次の記事を日本語で250〜400文字に要約してください。英語のテキストが含まれていても必ず日本語で要約してください。製品・技術・数値など重要な事実を優先し、推測は書かないでください。\n\nタイトル: %s\n\n本文:\n%s", title, trimRunes(translated, 5000))
 	payload := map[string]any{"model": "openai/gpt-4.1-mini", "messages": []map[string]string{{"role": "user", "content": prompt}}, "max_tokens": 600, "temperature": 0.2}
 	body, err := json.Marshal(payload)
 	if err != nil {
