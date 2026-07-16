@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Wed, 15 Jul 2026 23:12:59 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Thu, 16 Jul 2026 00:09:56 +0000</lastBuildDate>
+<item><title>不変の Linux ディストリビューションが、壊れないシステムを構築する唯一の方法ではない</title><link>https://www.xda-developers.com/btrfs-snapshots-do-almost-everything-immutable-distros-promise-without-the-friction/</link><guid isPermaLink="true">https://www.xda-developers.com/btrfs-snapshots-do-almost-everything-immutable-distros-promise-without-the-friction/</guid><pubDate>Thu, 16 Jul 2026 00:00:20 +0000</pubDate><description><![CDATA[<p>不変の Linux ディストリビューションが、壊れないシステムを構築する唯一の方法ではない
+
+不変性は優れていますが、スナップショットは初心者が探しているもののほとんどを実行し、残りは放っておいてください。
+
+不変の Linux ディストリビューションが、壊れないシステムを構築する唯一の方法ではない
+
+By Ty Sherback 公開 2026 年 7 月 15 日、午後 8:00 EDT 彼の PC とそのコンポーネントに対する愛情は、ファミリー コンピュータのパフォーマンスをすべて絞り出そうとすることから生まれました。 10 歳のときに自分のビルドをいじっていたことが、友人や家族のために PC を作ることに変わり、最終的にキャリア パスとして形になる情熱を育みました。 Ty は、身近な人々への技術サポートの最初の電話であることに加えて、クラウド コンピューティングとネットワーキングに重点を置いているコンピューター サイエンスの学生でもあります。彼はセミプロの Counter-Strike にも 8 年間出場しており、周辺機器に関するあらゆることに精通しています。 XDA アカウントにサインインする Immutable Linux ディストリビューションは、あらゆる注目を集める価値があります。これは読み取り専用ベースであり、完全に適用されるかまったく適用されないアトミックな更新であり、アプリケーションはシステムから隔離されているため、実際に破壊するのが難しい OS になります。新しい Linux ユーザーとしての目標が、それについて考えなくて済むようになることであれば、これは簡単な推奨事項ですが、不変性が Linux を強固なものにするわけではありません。安定性と回復の問題に関しては、通常の非不変ディストリビューションはこれらの要件を簡単に満たすことができます。
+
+スナップショットは通常のディストリビューションに存在する「元に戻す」ボタンです
+
+不変ディストリビューションが対処する恐怖は非常に限定的かつ具体的です。何かを変更すると、システムは機能しなくなり、手段はあ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/img_5017.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="不変の Linux ディストリビューションが、壊れないシステムを構築する唯一の方法ではない"></p>]]></description><source url="https://www.xda-developers.com/btrfs-snapshots-do-almost-everything-immutable-distros-promise-without-the-friction/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/img_5017.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/img_5017.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>ランダムスロットリングについて説明するために、Claude Fable 5 に CPU センサーのログを渡しましたが、チェックしていない設定を指摘していました。</title><link>https://www.xda-developers.com/i-gave-claude-fable-5-my-cpu-sensor-logs-to-explain-random-throttling-and-it-pointed-at-a-setting-i-hadnt-checked/</link><guid isPermaLink="true">https://www.xda-developers.com/i-gave-claude-fable-5-my-cpu-sensor-logs-to-explain-random-throttling-and-it-pointed-at-a-setting-i-hadnt-checked/</guid><pubDate>Wed, 15 Jul 2026 23:01:21 +0000</pubDate><description><![CDATA[<p>ランダムスロットリングについて説明するために、Claude Fable 5 に CPU センサーのログを渡しましたが、チェックしていない設定を指摘していました。
 
 それほど高価でなければ、トラブルシューティングに Fable 5 をもっと頻繁に使用するでしょう
@@ -7380,19 +7391,4 @@ Hannah Montana Linux が約 20 年ぶりに最新のリマスター化 — 「Sw
 0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読するハンナ・モンタナ Linux が戻ってきました。このディストリビューションは、同名の秘密のポップスターをフィーチャーした 1990 年代のディズニー チャンネルの 10 代と 10 代向けホームコメディへのオマージュとして作られましたが、2009 年に基本的に放棄されました。開発者 Noah Cagle による Hannah Montana Linux v26.0 リマスターのリリースにより、最新のカーネルと約 18 年間のパッチを備えて復活しました。
 
 Watch On Little は、オリジナルの Hannah Montana Linux が開発、リリースされ、すぐに放棄された理由について知られています。 Archive.org 経由で入手できるバージョンは、Hannah Montana Linux x86 Basic Edition 202201 として識別される唯一の既知のリリースです。 Kubuntu の時間凍結された HM をテーマにしたバージョンをテストしたい場合は、引き…</p><p><img src="https://cdn.mos.cms.futurecdn.net/AXLJKMiDYjcAXHGRqptntT-1920-80.jpg" alt="Hannah Montana Linux が約 20 年ぶりに最新のリマスター化 — 「Sweet niblets」、新しい v26 は KDE Plasma のリスキンを備えた Debian 上に構築されています"></p>]]></description><source url="https://www.tomshardware.com/software/linux/hannah-montana-linux-gets-modern-remaster-after-nearly-two-decades-sweet-niblets-new-v26-is-built-on-debian-with-a-re-skin-of-kde-plasma">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/AXLJKMiDYjcAXHGRqptntT-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/AXLJKMiDYjcAXHGRqptntT-1920-80.jpg"/></item>
-<item><title>米海軍は、修理時間を半分に短縮する3Dプリントされた戦闘機部品の飛行試験を行っている — 前方配備された3Dプリンタが複合部品を生成し、運用中のF/A-18スーパーホーネットで飛行試験が開始される</title><link>https://www.tomshardware.com/3d-printing/us-navy-testing-3d-printed-fighter-jet-parts-for-quick-repairs-composite-parts-printed-at-forward-deployed-3d-printers-to-be-flight-tested-on-operational-f-a-18-super-hornets</link><guid isPermaLink="true">https://www.tomshardware.com/3d-printing/us-navy-testing-3d-printed-fighter-jet-parts-for-quick-repairs-composite-parts-printed-at-forward-deployed-3d-printers-to-be-flight-tested-on-operational-f-a-18-super-hornets</guid><pubDate>Sun, 05 Jul 2026 14:11:16 +0000</pubDate><description><![CDATA[<p>米海軍は、修理時間を半分に短縮する3Dプリントされた戦闘機部品の飛行試験を行っている — 前方配備された3Dプリンタが複合部品を生成し、運用中のF/A-18スーパーホーネットで飛行試験が開始される
-
-3D プリントされた戦闘機部品は空母の過酷な運用に耐えられるでしょうか?
-
-米海軍は、修理時間を半分に短縮する3Dプリントされた戦闘機部品の飛行試験を行っている — 前方配備された3Dプリンタが複合部品を生成し、運用中のF/A-18スーパーホーネットで飛行試験が開始される
-
-3D プリントされた戦闘機部品は空母の過酷な運用に耐えられるでしょうか?
-
-(画像クレジット: Getty Images ) リンクをコピー
-
-0 会話に参加してください フォローしてください Google ニュースレターの優先ソースとして追加してください ニュースレターを購読してください F/A-18 スーパーホーネットや高度な複合部品を必要とするその他のジェット機は、入手可能な部品が不足しているため、長期間飛行しないことがあります。米海軍は現在、拡張された物流チェーンを通じて数千マイル離れた場所から配送されるのを待つ代わりに、世界中の整備現場にこれらの部品を現場で3Dプリントできる機能を提供することで、この問題を解決したいと考えている。国防総省の情報配信サービスによると、この 3D プリント修理方法により、アメリカ海軍は前線作戦基地で高度な複合部品の修理と交換が可能になり、修理時間を約 50% 短縮できます。
-
-「我々の目標は、能力を直接艦隊の手に委ねることだ」と海軍航空戦センター航空機部門(NAWCAD)司令官トッド・エバンス少将は語った。 「複雑な修理を簡素化して前に進められるようにすることで、当社のエンジニアは航空機をより早く戦闘に復帰させることができます。これは当社の飛行隊の自給自足性を高め、運用即応性を直接的に向上させる賢明なソリューションです。」
-
-複合部品は従来のアルミニウム部品よりも修理が難しく、専門的な経験が必要です。この新しい技術により、部隊は損傷したパネルの完全な交換を注文して…</p><p><img src="https://cdn.mos.cms.futurecdn.net/e4zwm9WyyGGyfxxyR9owYY-1920-80.jpg" alt="米海軍は、修理時間を半分に短縮する3Dプリントされた戦闘機部品の飛行試験を行っている — 前方配備された3Dプリンタが複合部品を生成し、運用中のF/A-18スーパーホーネットで飛行試験が開始される"></p>]]></description><source url="https://www.tomshardware.com/3d-printing/us-navy-testing-3d-printed-fighter-jet-parts-for-quick-repairs-composite-parts-printed-at-forward-deployed-3d-printers-to-be-flight-tested-on-operational-f-a-18-super-hornets">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/e4zwm9WyyGGyfxxyR9owYY-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/e4zwm9WyyGGyfxxyR9owYY-1920-80.jpg"/></item>
 </channel></rss>
