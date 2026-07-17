@@ -1,6 +1,138 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Fri, 17 Jul 2026 09:21:00 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Fri, 17 Jul 2026 11:40:24 +0000</lastBuildDate>
+<item><title>中国の2.8兆パラメータのKimi K3がフロントエンドコードアリーナベンチマークでClaude Fable 5を破る—中国が米国のコンピューティング制限を回避する中、ムーンショットAIが史上最大のオープンウェイトAIモデルを提供</title><link>https://www.tomshardware.com/tech-industry/artificial-intelligence/moonshot-releases-2-8-trillion-parameter-kimi-k3</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/artificial-intelligence/moonshot-releases-2-8-trillion-parameter-kimi-k3</guid><pubDate>Fri, 17 Jul 2026 11:32:01 +0000</pubDate><description><![CDATA[<p>中国の2.8兆パラメータのKimi K3がフロントエンドコードアリーナベンチマークでClaude Fable 5を破る—中国が米国のコンピューティング制限を回避する中、ムーンショットAIが史上最大のオープンウェイトAIモデルを提供
+
+ムーンショット
+
+中国の2.8兆パラメータのKimi K3がフロントエンドコードアリーナベンチマークでClaude Fable 5を破る—中国が米国のコンピューティング制限を回避する中、ムーンショットAIが史上最大のオープンウェイトAIモデルを提供
+
+Moonshot 自身の開示では、輸出グレードの Nvidia シリコンと名前のない代替 GPU ベンダーが指摘されています。
+
+(画像クレジット: Moonshot AI) リンクをコピー
+
+0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 北京に本拠を置く Moonshot AI は、同社の技術ブログで世界初のオープン 3T クラス システムであり、これまでで最大のオープンウェイト AI モデルであると説明している 2 兆 8000 億のパラメータ モデルである Kimi K3 をリリースしました。 Moonshot 氏によると、K3 は全体的なパフォーマンスでは依然として Anthropic の Claude Fable 5 や OpenAI の GPT 5.6 Sol に及ばないものの、コーディングとエージェントのベンチマーク全体では、Claude Opus 4.8 や GPT 5.5 を含む同社の評価スイートの他のすべてのモデルを上回っていました。このモデルには 100 万トークンのコンテキスト ウィンドウとネイティブ ビジョンがあり、トークンごとに 896 人のエキスパートのうち 16 人 (プールの約 1.8%) のみをアクティブにします。全重量の提出期限は 7 月 27 日までです。
+
+フォトニクスと高速データ移動が AI の次の大きなボトルネックとなる
+
+データセンターの冷却の現状
+
+AI データセンターの大規…</p><p><img src="https://cdn.mos.cms.futurecdn.net/Bf3cosvjPduc22JVWXLHJE-1920-80.png" alt="中国の2.8兆パラメータのKimi K3がフロントエンドコードアリーナベンチマークでClaude Fable 5を破る—中国が米国のコンピューティング制限を回避する中、ムーンショットAIが史上最大のオープンウェイトAIモデルを提供"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/artificial-intelligence/moonshot-releases-2-8-trillion-parameter-kimi-k3">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/Bf3cosvjPduc22JVWXLHJE-1920-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/Bf3cosvjPduc22JVWXLHJE-1920-80.png"/></item>
+<item><title>ローカルの Qwen3.6-35B-A3B LLM を使用してコーディング ハーネスの機能を拡張しました</title><link>https://www.xda-developers.com/i-used-a-local-llm-to-extend-my-coding-harness-capabilities/</link><guid isPermaLink="true">https://www.xda-developers.com/i-used-a-local-llm-to-extend-my-coding-harness-capabilities/</guid><pubDate>Fri, 17 Jul 2026 11:30:10 +0000</pubDate><description><![CDATA[<p>ローカルの Qwen3.6-35B-A3B LLM を使用してコーディング ハーネスの機能を拡張しました
+
+地元の LLM に Pi 拡張機能の構築を依頼したところ、コーディング ハーネスが独自に進化するようになりました
+
+ローカルの Qwen3.6-35B-A3B LLM を使用してコーディング ハーネスの機能を拡張しました
+
+By Ayush Pande 公開 2026 年 7 月 17 日、午前 7:30 EDT Ayush Pande は、PC ハードウェアおよびゲームのライターです。彼が新しい記事に取り組んでいないときは、頭を PC の中に閉じ込めたり、サーバーのオペレーティング システムをいじったりしているのを見かけることがあります。コンピューティングのほかに、彼の興味には、長い RPG に何時間も費やすこと、協力ゲームで友達に怒鳴りつけること、ギターを練習することなどがあります。 XDA アカウントにサインインする 自律型プログラミング エージェントを実行できるコーディング ハーネスに関しては、選択肢がたくさんあります。 Claude Code と OpenCode は最も人気のあるオプションの 1 つであり、前者は Anthropic の強力な大規模言語モデルと非常によく連携します。同様に、Google の Antigravity と Cursor には、単純な会話プロンプトから複雑なワークフローを調整する独自のエージェント ハーネスが含まれています。
+
+そうは言っても、私はクラウド LLM エコシステムから遠く離れています。その理由の 1 つは、クラウドのプライバシー問題やサブスクリプション料金に対処したくないことと、私のローカル AI モデルが私のコーディング ニーズに十分対応しているためです。実際、私はしばらくの間、ローカル LLM で Pi を使用してきました。Pi には、セルフホスト設定を支援するいくつかの特典がありますが、MCP サーバーをスクランブルする代わりに、LLM で生成された拡張機能を使用して機能を拡張できる方法に感心しています。
+…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/pi-11.jpg?w=1600&amp;h=900&amp;fit=crop" alt="ローカルの Qwen3.6-35B-A3B LLM を使用してコーディング ハーネスの機能を拡張しました"></p>]]></description><source url="https://www.xda-developers.com/i-used-a-local-llm-to-extend-my-coding-harness-capabilities/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/pi-11.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/pi-11.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>新学期向けの究極のパワーハウス、RTX 5070 Ti を搭載したこの OLED ゲーミング ラップトップが 1,100 ドル割引になります。24 コア Ultra 9 290HX、32 GB の RAM、1 TB SSD も搭載しています</title><link>https://www.tomshardware.com/laptops/gaming-laptops/score-usd1-100-off-this-oled-gaming-laptop-with-rtx-5070-ti-the-ultimate-back-to-school-powerhouse-also-features-a-24-core-ultra-9-290hx-32gb-of-ram-and-a-1tb-ssd</link><guid isPermaLink="true">https://www.tomshardware.com/laptops/gaming-laptops/score-usd1-100-off-this-oled-gaming-laptop-with-rtx-5070-ti-the-ultimate-back-to-school-powerhouse-also-features-a-24-core-ultra-9-290hx-32gb-of-ram-and-a-1tb-ssd</guid><pubDate>Fri, 17 Jul 2026 11:24:25 +0000</pubDate><description><![CDATA[<p>新学期向けの究極のパワーハウス、RTX 5070 Ti を搭載したこの OLED ゲーミング ラップトップが 1,100 ドル割引になります。24 コア Ultra 9 290HX、32 GB の RAM、1 TB SSD も搭載しています
+
+スタイリッシュに学校に戻りましょう！
+
+新学期向けの究極のパワーハウス、RTX 5070 Ti を搭載したこの OLED ゲーミング ラップトップが 1,100 ドル割引になります。24 コア Ultra 9 290HX、32 GB の RAM、1 TB SSD も搭載しています
+
+0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する この夏の後半に学校や大学に戻る予定がある場合、または初めて新しい学習に取り組む場合は、仕事や遊びに簡単に取り組むことができる強力なラップトップを市場に出すことになるかもしれません。この優れた HP Omen Max ラップトップは現在 Best Buy で 1,100 ドルオフで、RTX 5070 Ti GPU、24 コア Intel Core Ultra 9 290HX CPU、32 GB の RAM、1 TB SSD がすべて滑らかな OLED ディスプレイの下に収納されています。
+
+● Best Buy でこのセールをチェックしてください
+
+このラップトップはゲームに最適なだけでなく、強力な Core Ultra 9 290HX は、8 つのパフォーマンス コアと 16 の効率コアを含む、膨大な 24 コアを備えたインテルの主力ラップトップ プロセッサです。そのため、勉強する内容に関係なく、あらゆる種類の生産性タスクに最適です。
+
+2K OLED ディスプレイ、Intel Core Ultra 9 290HX、32GB RAM、RTX 5070 Ti、1TB SSD を搭載した 16 インチ ノートパソコンを入手しましょう。
+
+HP Omen Max 16 ラップトップは、私たちがレビューしたモデルであり、アルミニウム製の筐体、優れ…</p><p><img src="https://cdn.mos.cms.futurecdn.net/3vt9n7GaGnju8qdD8RgES7-1920-80.jpg" alt="新学期向けの究極のパワーハウス、RTX 5070 Ti を搭載したこの OLED ゲーミング ラップトップが 1,100 ドル割引になります。24 コア Ultra 9 290HX、32 GB の RAM、1 TB SSD も搭載しています"></p>]]></description><source url="https://www.tomshardware.com/laptops/gaming-laptops/score-usd1-100-off-this-oled-gaming-laptop-with-rtx-5070-ti-the-ultimate-back-to-school-powerhouse-also-features-a-24-core-ultra-9-290hx-32gb-of-ram-and-a-1tb-ssd">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/3vt9n7GaGnju8qdD8RgES7-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/3vt9n7GaGnju8qdD8RgES7-1920-80.jpg"/></item>
+<item><title>16 GB の RAM とマザーボードを搭載した AMD の新しい Ryzen 7 7700X3D をわずか 450 ドルで入手できます。壮大な小型ビルド向けの B650M Micro ATX および G.Skill DDR5 が 31% オフです</title><link>https://www.tomshardware.com/laptops/get-amds-new-ryzen-7-7700x3d-with-16gb-of-ram-and-a-motherboard-for-just-usd450-save-31-percent-on-a-b650m-micro-atx-and-g-skill-ddr5-for-an-epic-small-build</link><guid isPermaLink="true">https://www.tomshardware.com/laptops/get-amds-new-ryzen-7-7700x3d-with-16gb-of-ram-and-a-motherboard-for-just-usd450-save-31-percent-on-a-b650m-micro-atx-and-g-skill-ddr5-for-an-epic-small-build</guid><pubDate>Fri, 17 Jul 2026 11:22:31 +0000</pubDate><description><![CDATA[<p>16 GB の RAM とマザーボードを搭載した AMD の新しい Ryzen 7 7700X3D をわずか 450 ドルで入手できます。壮大な小型ビルド向けの B650M Micro ATX および G.Skill DDR5 が 31% オフです
+
+自分だけの小さなスチームマシンを組み立てよう
+
+16 GB の RAM とマザーボードを搭載した AMD の新しい Ryzen 7 7700X3D をわずか 450 ドルで入手できます。壮大な小型ビルド向けの B650M Micro ATX および G.Skill DDR5 が 31% オフです
+
+自分だけの小さなスチームマシンを組み立てよう
+
+(画像クレジット: Future) リンクをコピー
+
+0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する AMD の最新の CPU リリースは公開されており、現在 Newegg との独占権を持っています。したがって、入手したい場合は、少なくとも今のところはエッグから入手することになります。 AMD Ryzen 7 7700X3D は、Computex 2026 で最近発表されたばかりで、製品スタックの 7600X3D と 7800X3D の間に位置します。しかし、希望小売価格が 329 ドルであるため、既存の 7600X3D および 7800X3D プロセッサの価格と比較すると、つまり 7700X3D が Newegg のコンボ バンドルに登場し始めるまでは、それほどお買い得ではないことがわかりました。現在、この Newegg コンボ バンドルでは、AMD Ryzen 7 7700X3D と ASRock B650M Pro RS WiFi Micro ATX マザーボードおよび 16GB の G.SKILL Flare X5 DDR5-6000 RAM をわずか 450 ドルで購入できます。
+
+● Newegg でこのセールをチェックしてください
+
+7700X3D は、兄貴分の 7800X3D よりもブースト クロッ…</p><p><img src="https://cdn.mos.cms.futurecdn.net/tsYAsagoUnEXtTC6qZ5eXc-1920-80.jpg" alt="16 GB の RAM とマザーボードを搭載した AMD の新しい Ryzen 7 7700X3D をわずか 450 ドルで入手できます。壮大な小型ビルド向けの B650M Micro ATX および G.Skill DDR5 が 31% オフです"></p>]]></description><source url="https://www.tomshardware.com/laptops/get-amds-new-ryzen-7-7700x3d-with-16gb-of-ram-and-a-motherboard-for-just-usd450-save-31-percent-on-a-b650m-micro-atx-and-g-skill-ddr5-for-an-epic-small-build">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/tsYAsagoUnEXtTC6qZ5eXc-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/tsYAsagoUnEXtTC6qZ5eXc-1920-80.jpg"/></item>
+<item><title>(PR) iBUYPOWER、RDYxYOU クリエイターコラボ PC をリニューアル発売</title><link>https://www.techpowerup.com/350843/ibuypower-relaunches-rdyxyou-creator-collab-pcs</link><guid isPermaLink="true">https://www.techpowerup.com/350843/ibuypower-relaunches-rdyxyou-creator-collab-pcs</guid><pubDate>Fri, 17 Jul 2026 11:12:02 +0000</pubDate><description><![CDATA[<p>(PR) iBUYPOWER、RDYxYOU クリエイターコラボ PC をリニューアル発売
+
+本日、大手システムインテグレーターである iBUYPOWER は、「コージーテック」クリエーターの momodokii および kaileune とのこれまでの単発プロジェクトに続き、RDYxYOU プログラムを再起動することを発表できることを嬉しく思います。同社はコンテンツクリエーターと協力して、ファンに再現の機会を提供しています...
+
+iBUYPOWER、RDYxYOU クリエイター コラボ PC を再発売
+
+シャーシ: HYTE Y70 Strawberry Milk (統合型 Touch Infinite LCD ディスプレイを搭載)
+
+GPU: MSI GeForce RTX 5080 16G Ventus 3x OC (16 GB VRAM)
+
+冷却: Corsair iCUE Link RGB TITAN 360 (360 mm 液体クーラー、ブラック) + 3x Fractal Design ブラック ファン (2x 140 mm、1x 120 mm)
+
+o ファン上部に iBUYPOWER が独自に設計したカスタム桜ファン シュラウド (ブラック/ピンク)
+
+メモリ: 32 GB DDR5-6000 MHz RGB RAM
+
+ストレージ: 2 TB M.2 NVMe Gen 4 SSD
+
+マザーボード: MSI Pro Z790-P WIFI
+
+電源: 1000 W Corsair RM1000e (ATX 3.1 準拠)
+
+iBUYPOWERがRDYxYOUクリエイターコラボPCを再発売 への1件のコメント</p><p><img src="https://www.techpowerup.com/img/izLDd5Eh5QyTCxRb.jpg" alt="(PR) iBUYPOWER、RDYxYOU クリエイターコラボ PC をリニューアル発売"></p>]]></description><source url="https://www.techpowerup.com/350843/ibuypower-relaunches-rdyxyou-creator-collab-pcs">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/izLDd5Eh5QyTCxRb.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/izLDd5Eh5QyTCxRb.jpg"/></item>
+<item><title>MSI MAG Z890 Tomahawk Wifi II マザーボードのレビュー: オリジナルの機能は失われていますが、価格は数ドル削減されています</title><link>https://www.tomshardware.com/pc-components/motherboards/msi-mag-z890-tomahawk-wifi-ii-motherboard-review</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/motherboards/msi-mag-z890-tomahawk-wifi-ii-motherboard-review</guid><pubDate>Fri, 17 Jul 2026 11:10:00 +0000</pubDate><description><![CDATA[<p>MSI MAG Z890 Tomahawk Wifi II マザーボードのレビュー: オリジナルの機能は失われていますが、価格は数ドル削減されています
+
+オリジナルと比較するとわずかな後退ですが、（販売中）より安価で、より競争力があります。
+
+オリジナルからいくつかの機能が削除されていますが、全体としてはトマホーク II が気に入っています。価格は適正であり、Z890 マザーボードとしては全体的に優れた価値があります。
+
++ ネイティブ Core Ultra 200S Plus のサポート
+
+- オリジナルのトマホークよりも TB4 ポートが少ない
+
+- Wi-Fi 7 の速度低下 (160 MHz/2.9 Gbps)
+
+Tom&#39;s Hardware を信頼できる理由 当社の専門レビュー担当者は、お客様が最適なものを選択できるよう、何時間もかけて製品とサービスをテストおよび比較します。テスト方法について詳しくは、こちらをご覧ください。
+
+MSI MAG Z890 Tomahawk Wifi II の機能と仕様
+
+ページ 1: MSI MAG Z890 Tomahawk Wifi II の機能と仕様
+
+ページ 2: ファームウェア、ソフトウェア、およびテスト システム
+
+ページ 3: ベンチマーク結果と最終分析
+
+Z890 ラインナップの低価格帯でテストベンチに投入された最新のボードは、MSI MAG Z890 Tomahawk Wi-Fi II です。この更新されたインテル ボードは、オリジナルの合理化されたリビジョンであり、インテルの Core Ultra 200S Plus プロセッサー向けに最適化されています。同じ美観、コア電源供給、DIY フレンドリーな機能を維持していますが、接続性が 2 つダウングレードされています。1 つの TB4 ポート (2 つからのダウン) と、Wi-Fi 7 の速度の低下です。これは手頃な価格のマザーボードです。ただ、機能削減の刷新が私にとって少し興味があるだけです。
+
+現在、Tomahawk Wi-Fi II の価格は $229.…</p><p><img src="https://cdn.mos.cms.futurecdn.net/5UWmqYgXvtxCh6pXE2U7GV-1920-80.jpg" alt="MSI MAG Z890 Tomahawk Wifi II マザーボードのレビュー: オリジナルの機能は失われていますが、価格は数ドル削減されています"></p>]]></description><source url="https://www.tomshardware.com/pc-components/motherboards/msi-mag-z890-tomahawk-wifi-ii-motherboard-review">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/5UWmqYgXvtxCh6pXE2U7GV-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/5UWmqYgXvtxCh6pXE2U7GV-1920-80.jpg"/></item>
+<item><title>実写『ゴッド・オブ・ウォー』クレイトス俳優が負傷のため製作中止</title><link>https://www.kitguru.net/tech-news/mustafa-mahmoud/live-action-god-of-war-production-halted-as-kratos-actor-suffers-from-injury/</link><guid isPermaLink="true">https://www.kitguru.net/tech-news/mustafa-mahmoud/live-action-god-of-war-production-halted-as-kratos-actor-suffers-from-injury/</guid><pubDate>Fri, 17 Jul 2026 11:00:57 +0000</pubDate><description><![CDATA[<p>実写『ゴッド・オブ・ウォー』クレイトス俳優が負傷のため製作中止
+
+クレイトス役のライアン・ハーストが撮影中に負傷したことを受け、アマゾンの実写『ゴッド・オブ・ウォー』シリーズの製作が中止された。
+
+実写『ゴッド・オブ・ウォー』クレイトス俳優が負傷のため製作中止
+
+Mustafa Mahmoud 40 分前 注目のテクノロジー ニュース , ソフトウェア &amp; ゲーム , テクノロジー ニュース
+
+2022 年に遡って、ソニーがプレイステーションの主力作品『ゴッド・オブ・ウォー』シリーズの実写化を制作するためにアマゾンと交渉しているという噂を私たちは聞いていました。何度かの遅れを経て、ようやく今年初めにプロジェクトの撮影が始まりました。残念ながら、クレイトス自身とは異なり、俳優のライアン・ハーストは実際には戦争の神ではないため、撮影中の負傷により製作を中止せざるを得なくなりました。出版物TMZが報じたように、実写『ゴッド・オブ・ウォー』シリーズの撮影は、番組のスター「ライアン・ハースト」が撮影現場で負傷したため、一時的に中断された。今のところ詳細は明らかになっていないが、TMZによると、ハーストは「スタント撮影中に上腕二頭筋を断裂し…その怪我には手術が必要だ」という。撮影されているシーンの性質は共有されませんでしたが、God of War ゲームでは、クレイトスがあらゆる種類の激しいアクション シーンを瞬間ごとに実行しています。一般的な戦闘のような基本的な動作中であっても、クレイトスとしてリヴァイアサンの斧を振ると、潜在的な怪我につながる可能性があります。いずれにせよ、手術がそれほど深刻なものではなく、ハーストが早く100％の状態に戻ることを祈るばかりです。 KitGuru はこう言います: 実写版『God of War』に興奮していますか?ハーストのキャスティングについてどう思いますか？以下でお知らせください。パトロンになりましょう！ Facebookをシェアする</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/07/god-of-war-732x330.jpg" alt="実写『ゴッド・オブ・ウォー』クレイトス俳優が負傷のため製作中止"></p>]]></description><source url="https://www.kitguru.net/tech-news/mustafa-mahmoud/live-action-god-of-war-production-halted-as-kratos-actor-suffers-from-injury/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/07/god-of-war-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/07/god-of-war-732x330.jpg"/></item>
+<item><title>低価格の SSD は、警告なしに自動的に壊れる可能性があります。プレミアム ドライブがそれだけの価値がある理由がここにあります</title><link>https://www.xda-developers.com/one-pc-component-i-would-never-cheap-out-on-is-an-ssd/</link><guid isPermaLink="true">https://www.xda-developers.com/one-pc-component-i-would-never-cheap-out-on-is-an-ssd/</guid><pubDate>Fri, 17 Jul 2026 11:00:10 +0000</pubDate><description><![CDATA[<p>低価格の SSD は、警告なしに自動的に壊れる可能性があります。プレミアム ドライブがそれだけの価値がある理由がここにあります
+
+私が絶対に安く買える PC コンポーネントの 1 つは SSD です。
+
+低価格の SSD は、警告なしに自動的に壊れる可能性があります。プレミアム ドライブがそれだけの価値がある理由がここにあります
+
+By Jasmine Mannan 公開 2026 年 7 月 17 日、午前 7:00 EDT Jasmine は XDA のソフトウェアおよび PC ハードウェアの著者であり、AI チャットボットからゲーム ハードウェアに至るまで、長年にわたる技術レポートの経験があり、ほぼすべてをカバーしています。最新の AMD NPU に関する速報ニュースであれ、ソーシャル メディア プラットフォームでのビデオ チュートリアルの作成であれ、Jasmine は、Razer の CEO、AMD の製品マーケティング ディレクター、Lenovo の副社長へのインタビューなど、さまざまな方法で AI とテクノロジーの世界に貢献してきました。ゲームと PC テクノロジーに情熱を持っている彼女は、数え切れないほどのコンピューター、キーボード、その他の周辺機器を構築し、それらを隅々まで知り尽くしています。 XDA アカウントにサインインする PC を構築するとき、CPU とグラフィックス カードの選択に悩むのはよくあることですが、ストレージ ドライブは後回しにされることがよくあります。多くの愛好家でも通常、SSD を「価格: 低いものから高いもの」で並べ替え、リストの一番上にある安価なノーブランドの M.2 ドライブをクリックします。
+
+このコスト削減アプローチを採用したことで、ブート ドライブの停止コードにアクセスできないという、胸が張り裂けるような個人的な現実に遭遇しました。トラブルシューティング後、診断の真実性が低下しました。安物のフラッシュメモリは単に壊れただけではありません。実際、ハードウェア自体は静かに消滅しました。このことから、ソリッド ステート ドラ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/whatsapp-image-2026-07-09-at-15-06-34-2.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="低価格の SSD は、警告なしに自動的に壊れる可能性があります。プレミアム ドライブがそれだけの価値がある理由がここにあります"></p>]]></description><source url="https://www.xda-developers.com/one-pc-component-i-would-never-cheap-out-on-is-an-ssd/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/whatsapp-image-2026-07-09-at-15-06-34-2.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/whatsapp-image-2026-07-09-at-15-06-34-2.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>やりすぎですか、それともインスピレーションですか？ Asus TUF Gaming A18 レビュー</title><link>https://www.notebookcheck.net/Overkill-or-inspired-Asus-TUF-Gaming-A18-review.1341611.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/Overkill-or-inspired-Asus-TUF-Gaming-A18-review.1341611.0.html</guid><pubDate>Fri, 17 Jul 2026 10:57:00 +0000</pubDate><description><![CDATA[<p>やりすぎですか、それともインスピレーションですか？ Asus TUF Gaming A18 レビュー
+
+Ryzen 7 260 と GeForce RTX 5060 を搭載した構成で Asus TUF Gaming A18 をテストしています。この 18 インチ ゲーム ラップトップは競合他社とどう比較されますか?
+
+やりすぎですか、それともインスピレーションですか？ Asus TUF Gaming A18 レビュー - Notebookcheck レビュー ▼
+
+以前に GeForce RTX 5070 構成をレビューしたことがありますが、TUF Gaming A18 の RTX 5060 バージョンは、比較的公正な価格で、もう 1 つのバランスの取れた 18 インチ ラップトップであることがわかりました。当社の FA808UM-S8060W テスト構成には、デュアルチャネル 2 × 8 GB セットアップの 16 GB DDR5 RAM と 1 TB NVMe SSD が付属しています。繰り返しになりますが、ディスプレイの解像度は 1,920 × 1,200 ピクセルに制限されており、このような大型パネルとしてはかなり控えめに感じられます。利点は、ほぼすべてのゲームがネイティブ解像度で最大限の詳細を表示してスムーズに動作することです。画質は、特にコントラストと色空間範囲の点で、価格に見合ったものです。非常に騒々しいターボ モードを除けば、負荷時の排出は適度に制御されたままです。スピーカー、入力デバイス、ポートの選択にも批判の余地はほとんどありません。最も印象に残ったのはバッテリー寿命で、TUF Gaming A18 は比較したどの競合他社よりも長持ちしました。
+
+良い (82%) Asus TUF Gaming A18 FA808UM AMD Ryzen 7 260 NVIDIA GeForce RTX 5060 ラップトップ ゲーム - 07/10/2026 - v8 テスト デバイス提供 Asus Deutschland ライセンス付き評価画像を PNG / S…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/Asus/TUF_Gaming_A18_FA808UM/TUF-Gaming-A18-1.jpg" alt="やりすぎですか、それともインスピレーションですか？ Asus TUF Gaming A18 レビュー"></p>]]></description><source url="https://www.notebookcheck.net/Overkill-or-inspired-Asus-TUF-Gaming-A18-review.1341611.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/Asus/TUF_Gaming_A18_FA808UM/TUF-Gaming-A18-1.jpg" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/Asus/TUF_Gaming_A18_FA808UM/TUF-Gaming-A18-1.jpg"/></item>
 <item><title>サムスンはOne UI 9で新しい「My FanCam」機能に取り組んでいる可能性がある</title><link>https://www.androidauthority.com/samsung-one-ui-9-my-fancam-3688588/</link><guid isPermaLink="true">https://www.androidauthority.com/samsung-one-ui-9-my-fancam-3688588/</guid><pubDate>Fri, 17 Jul 2026 09:12:46 +0000</pubDate><description><![CDATA[<p>サムスンはOne UI 9で新しい「My FanCam」機能に取り組んでいる可能性がある
 
 Galaxy S25デバイス用のOne UI 9ベータ版のスクリーンショットによると、SamsungはOne UI 9用の新しい「My FanCam」機能に取り組んでいます。
@@ -7437,106 +7569,4 @@ Apple Studio Display (Amazon で 1,449 ユーロから) と比較すると、大
 画質 – 写真編集に最適ですか?
 
 消費電力 - 90%の明るさで40…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/innocn-title-0.jpg" alt="INNOCN CB32U1 レビュー: Apple Studio Display に代わる手頃な価格の代替品?"></p>]]></description><source url="https://www.notebookcheck.net/INNOCN-CB32U1-review-An-affordable-alternative-to-the-Apple-Studio-Display.1336695.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/innocn-title-0.jpg" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/innocn-title-0.jpg"/></item>
-<item><title>ASUS ROG Zephyrus Duo 2026 レビュー</title><link>https://www.xda-developers.com/video/dual-screens-rtx-5090-the-asus-rog-zephyrus-duo-is-an-insane-laptop/</link><guid isPermaLink="true">https://www.xda-developers.com/video/dual-screens-rtx-5090-the-asus-rog-zephyrus-duo-is-an-insane-laptop/</guid><pubDate>Tue, 07 Jul 2026 16:49:11 +0000</pubDate><description><![CDATA[<p>ASUS ROG Zephyrus Duo 2026 レビュー
-
-デュアル スクリーンと RTX 5090 GPU を備えたこのラップトップは、本当に素晴らしいです。
-
-デュアルスクリーン + RTX 5090: ASUS ROG Zephyrus Duo は非常識なノートパソコンです
-
-By Alex Dobie 公開日 2026 年 7 月 7 日、午後 12:49 EDT XDA アカウントにサインイン デュアル スクリーンと RTX 5090 GPU を備えたこのラップトップは、本当にクレイジーです。</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/tn2e.jpg?w=1600&amp;h=900&amp;fit=crop" alt="ASUS ROG Zephyrus Duo 2026 レビュー"></p>]]></description><source url="https://www.xda-developers.com/video/dual-screens-rtx-5090-the-asus-rog-zephyrus-duo-is-an-insane-laptop/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/tn2e.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/tn2e.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>CachyOS は一般人向けの Arch Linux です。それが私が切り替えた理由です</title><link>https://www.xda-developers.com/i-stopped-using-arch-and-switched-to-the-distro-that-beat-it-at-its-own-game/</link><guid isPermaLink="true">https://www.xda-developers.com/i-stopped-using-arch-and-switched-to-the-distro-that-beat-it-at-its-own-game/</guid><pubDate>Tue, 07 Jul 2026 16:31:22 +0000</pubDate><description><![CDATA[<p>CachyOS は一般人向けの Arch Linux です。それが私が切り替えた理由です
-
-Arch は、あらゆる選択を自分で行いたい人にとっては優れたディストリビューションですが、私はすぐに決断に疲れてしまいました。
-
-CachyOS は一般人向けの Arch Linux です。それが私が切り替えた理由です
-
-By Ty Sherback 公開日 2026 年 7 月 7 日、午後 12:31 EDT 彼の PC とそのコンポーネントに対する愛情は、ファミリー コンピューターのパフォーマンスをすべて絞り出そうとすることから生まれました。 10 歳のときに自分のビルドをいじっていたことが、友人や家族のために PC を作ることに変わり、最終的にキャリア パスとして形になる情熱を育みました。 Ty は、身近な人々への技術サポートの最初の電話であることに加えて、クラウド コンピューティングとネットワーキングに重点を置いているコンピューター サイエンスの学生でもあります。彼はセミプロの Counter-Strike にも 8 年間出場しており、周辺機器に関するあらゆることに精通しています。 XDA アカウントにサインインします Arch Linux を使用する最初の実際の作業では、他の多くの人と同様に、私もそれが苦痛のない作業になるとは幻想を抱いていませんでした。何かが壊れるのは覚悟しており、メンテナンスは絶え間ない戦いになるだろうと覚悟していました。私はそれでほとんど問題ありませんでしたが、Arch のインストールに対して憤りを感じ始めました。使えなくなるまでには至らなかったが、絶え間ない格闘でついに限界点に達した。私は、コンビニエンス ボックスにチェックを入れながらも最先端の速度を省いた、よりフレンドリーなディストリビューションを求める代わりに、 CachyOS の別の Arch 派生版を選びました。これは現在も私のワークステーションで動作しています。毎日、私に課せられる雑務ははるかに減り、意思決定疲れの壁に常にぶつかることはなく、同じくらい速いです。
-
-威圧的ですか？たぶ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/img_5095.png?w=1600&amp;h=900&amp;fit=crop" alt="CachyOS は一般人向けの Arch Linux です。それが私が切り替えた理由です"></p>]]></description><source url="https://www.xda-developers.com/i-stopped-using-arch-and-switched-to-the-distro-that-beat-it-at-its-own-game/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/img_5095.png?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/img_5095.png?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>BenQ が 27 インチ 4K Creative Pro モニター PD2732U を発表</title><link>https://www.kitguru.net/peripherals/monitors/joao-silva/benq-announces-pd2732u-27-inch-4k-creative-pro-monitor/</link><guid isPermaLink="true">https://www.kitguru.net/peripherals/monitors/joao-silva/benq-announces-pd2732u-27-inch-4k-creative-pro-monitor/</guid><pubDate>Tue, 07 Jul 2026 15:00:55 +0000</pubDate><description><![CDATA[<p>BenQ が 27 インチ 4K Creative Pro モニター PD2732U を発表
-
-BenQ は、クリエイティブプロフェッショナル向けに設計された 27 インチ 4K ディスプレイ PD2732U の導入により、Creative Pro モニターのポートフォリオを拡大しています。色精度の高いモニターは、Adobe RGB 99% および DCI-P3 99% をカバーしており、グラフィック デザイン、写真、ビデオ編集、印刷ワークフローをターゲットとしています。 PD2732U は、他の広色域と同様に 100% sRGB をカバーします。特集
-
-BenQ が 27 インチ 4K Creative Pro モニター PD2732U を発表
-
-João Silva 14 分前 注目の技術ニュース , モニター
-
-BenQ は、クリエイティブプロフェッショナル向けに設計された 27 インチ 4K ディスプレイ PD2732U の導入により、Creative Pro モニターのポートフォリオを拡大しています。色精度の高いモニターは、Adobe RGB 99% および DCI-P3 99% をカバーしており、グラフィック デザイン、写真、ビデオ編集、印刷ワークフローをターゲットとしています。 PD2732U は、他の広色域と同様に 100% sRGB をカバーします。 Nano Matte コーティングを特徴とするこのパネルは、4K 解像度、400 nits の標準輝度、60Hz のリフレッシュ レート、10 ビットの色深度、および 5ms GTG 応答時間を提供します。各ユニットは付属のレポートとともに工場で校正された状態で出荷され、平均デルタ E &lt; 2 を達成し、箱から出してすぐの精度を保証します。 BenQ は AQColor テクノロジーを使用して、画面の均一性、一貫性、隅々までの明るさを保証します。このモニターは、Pantone SkinTone 検証を含む、独立して Calman 検証および Pantone 検証を受けています。ワークフロー管理は、8 月初…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/07/PD2732U_banner_1280x720_2604-732x330.jpg" alt="BenQ が 27 インチ 4K Creative Pro モニター PD2732U を発表"></p>]]></description><source url="https://www.kitguru.net/peripherals/monitors/joao-silva/benq-announces-pd2732u-27-inch-4k-creative-pro-monitor/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/07/PD2732U_banner_1280x720_2604-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/07/PD2732U_banner_1280x720_2604-732x330.jpg"/></item>
-<item><title>この設定を変更することで、Pixel の Bluetooth の問題を解決しました</title><link>https://www.xda-developers.com/i-fixed-my-google-pixels-bluetooth-issues-by-changing-this-one-setting/</link><guid isPermaLink="true">https://www.xda-developers.com/i-fixed-my-google-pixels-bluetooth-issues-by-changing-this-one-setting/</guid><pubDate>Tue, 07 Jul 2026 15:00:22 +0000</pubDate><description><![CDATA[<p>この設定を変更することで、Pixel の Bluetooth の問題を解決しました
-
-アクセサリへの無制限の Bluetooth アクセスについて、何年も前に知っていればよかったと思います。
-
-この設定を変更することで、Pixel の Bluetooth の問題を解決しました
-
-By Patrick O&#39;Rourke 公開 2026 年 7 月 7 日、午前 11:00 EDT Patrick O&#39;Rourke は、XDA のニュース編集者およびエンターテイメント セグメントのリーダーです。以前は、Pocket-lint の編集長、カナダのテクノロジー出版物 MobileSyrup の編集長を務め、キャリアの初期には Financial Post および Postmedia でテクノロジー編集者として働いていました。彼はトロントに拠点を置いています。過去 15 年間にわたり、彼は何千もの記事を書いてきました。パトリック氏はまた、何十人ものテクノロジー業界の幹部にインタビューし、GDC、E3、Gamescom、WWDC、Apple の基調講演、Samsung Unpacked イベントなどを取材しました。パトリックはトロント・メトロポリタン大学でジャーナリズムの学士号を取得しています。 XDA アカウントにサインインする 私は、iOS と Android を頻繁に切り替える、奇妙なスマートフォン ユーザーの 1 人です。テクノロジー記者という仕事のせいもありますが、私はスマートフォンやテクノロジーをいじるのが大好きなので、たとえこれが私のキャリアではなかったとしても、おそらく今でも Pixel 10 Pro 、Pixel 10 Pro Fold 、iPhone 17 Pro の間を頻繁に行き来していたと思います。
-
-私はどちらのプラットフォームもさまざまな理由で気に入っていますが、Android の場合、特に Apple の iPhone や AirPods シリーズを使っていたときと比べて、ほぼ常に遭遇する問題の 1 つは Bluetooth の信頼性です。 Pixel…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/pixel-10-pro-bluetooth-settings-header.jpg?w=1600&amp;h=900&amp;fit=crop" alt="この設定を変更することで、Pixel の Bluetooth の問題を解決しました"></p>]]></description><source url="https://www.xda-developers.com/i-fixed-my-google-pixels-bluetooth-issues-by-changing-this-one-setting/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/pixel-10-pro-bluetooth-settings-header.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/pixel-10-pro-bluetooth-settings-header.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>XboxはCEOアシャ・シャルマの下で毎日「10億人以上」のユーザーを獲得したいと考えている</title><link>https://www.kitguru.net/tech-news/mustafa-mahmoud/xbox-hopes-to-have-more-than-a-billion-daily-users-under-ceo-asha-sharma/</link><guid isPermaLink="true">https://www.kitguru.net/tech-news/mustafa-mahmoud/xbox-hopes-to-have-more-than-a-billion-daily-users-under-ceo-asha-sharma/</guid><pubDate>Tue, 07 Jul 2026 15:00:18 +0000</pubDate><description><![CDATA[<p>XboxはCEOアシャ・シャルマの下で毎日「10億人以上」のユーザーを獲得したいと考えている
-
-たくさんの悪いニュースの中で、Xbox CEO のアシャ・シャルマ氏は、いつか毎日 10 億人ものアクティブ ユーザーを獲得したいと述べました。
-
-XboxはCEOアシャ・シャルマの下で毎日「10億人以上」のユーザーを獲得したいと考えている
-
-Mustafa Mahmoud 14 分前 コンソール , 注目の技術ニュース , ソフトウェアとゲーム , 技術ニュース
-
-ここ数週間は、Xbox の将来が流動的であるように見え、Microsoft がゲーム機メーカーのスタジオ全体にわたる広範な変更の数々を正式に発表するのを待つ間、かなりストレスの多い時期でした。ついに、5 もの異なるチームが Xbox と袂を分かつことになり、袋から猫が飛び出しました。それにもかかわらず、最高経営責任者（CEO）のアシャ・シャルマ氏は依然として自信と野心的であり、Xboxがいつか「毎日10億人以上」にサービスを提供できるようになることを期待していると主張している。出版物 The Verge ( paywalled ) が入手したところによると、Xbox CEO の Asha Sharma 氏は最近従業員にメモを送り、絶え間ないリーク/噂を受けてついに会社の将来について言及しました。このメモはかなり長く、Arkane スタジオがどうなるかについての詳細が含まれています。強制ゲーム;ダブル罰金; Ninja Theory と Undead Labs (一部は売却され、一部は独立)。もちろん、シャーマ氏によれば、これはすべて Xbox の長期的な健全性を守るためであり、コンソール メーカーに対してかなり野心的な計画を持っているようです。メモの終わり近くでシャルマ氏は、Xbox がいつか他のすべてのゲーム機メーカーを合わせて超えることを望んでいることを明らかにし、「私は XBOX が、毎日 10 億人以上の人々を楽しませ、すべての人に創作とつながりの機会を与える数少ない企業の 1 つになりたいと思っています…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/07/billion-732x330.jpg" alt="XboxはCEOアシャ・シャルマの下で毎日「10億人以上」のユーザーを獲得したいと考えている"></p>]]></description><source url="https://www.kitguru.net/tech-news/mustafa-mahmoud/xbox-hopes-to-have-more-than-a-billion-daily-users-under-ceo-asha-sharma/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/07/billion-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/07/billion-732x330.jpg"/></item>
-<item><title>この RTX 5090 OLED ゲーミング ラップトップが今すぐ $2,000 近く節約できます。リフレッシュ レート 240Hz、32GB DDR5 RAM、2TB SSD、24 コア Intel CPU を搭載した強力な 16 インチ Lenovo リグが大幅に割引され、すべて $3,199 です。</title><link>https://www.tomshardware.com/pc-components/save-nearly-usd2-000-on-this-rtx-5090-oled-gaming-laptop-right-now-massive-discount-on-powerhouse-16-inch-lenovo-rig-with-240hz-refresh-rate-32gb-ddr5-ram-2tb-ssd-and-a-24-core-intel-cpu-all-for-usd3-199</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/save-nearly-usd2-000-on-this-rtx-5090-oled-gaming-laptop-right-now-massive-discount-on-powerhouse-16-inch-lenovo-rig-with-240hz-refresh-rate-32gb-ddr5-ram-2tb-ssd-and-a-24-core-intel-cpu-all-for-usd3-199</guid><pubDate>Tue, 07 Jul 2026 14:52:28 +0000</pubDate><description><![CDATA[<p>この RTX 5090 OLED ゲーミング ラップトップが今すぐ $2,000 近く節約できます。リフレッシュ レート 240Hz、32GB DDR5 RAM、2TB SSD、24 コア Intel CPU を搭載した強力な 16 インチ Lenovo リグが大幅に割引され、すべて $3,199 です。
-
-この RTX 5090 ゲーミング ノートパソコンを手頃な価格で確保しましょう
-
-この RTX 5090 OLED ゲーミング ラップトップが今すぐ $2,000 近く節約できます。リフレッシュ レート 240Hz、32GB DDR5 RAM、2TB SSD、24 コア Intel CPU を搭載した強力な 16 インチ Lenovo リグが大幅に割引され、すべて $3,199 です。
-
-この RTX 5090 ゲーミング ノートパソコンを手頃な価格で手に入れましょう
-
-(画像クレジット: Future / Lenovo) リンクをコピー
-
-0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する この Lenovo OLED ゲーミング ラップトップは、最速のラップトップ GPU を搭載しており、再販売されています。 Lenovo Legion Pro 7i ゲーミング ラップトップは現在、B&amp;H Photo で 3,199 ドルで購入でき、現在の定価と比較して 1,800 ドル節約できます。
-
-● B&amp;H Photo で RTX 5090 ゲーミング ラップトップのセールをチェックしてください
-
-AI 導入のブームにより、ここ数カ月で PC やラップトップのハードウェアの価格が高騰しています。そのため、ゲーマーが現在入手できる最高の GPU を搭載したこの Lenovo OLED ゲーミング ラップトップは、たとえ前回発売されたときはもう少し安かったとしても、現在の価格では絶対にお買い得です。
-
-RTX 5090 ラップトップ、特にハイスペック OLED ディスプレイを搭載したラップトップを、このラップト…</p><p><img src="https://cdn.mos.cms.futurecdn.net/vgxrstjEdsZ7ijRAVMA2ZC-1920-80.png" alt="この RTX 5090 OLED ゲーミング ラップトップが今すぐ $2,000 近く節約できます。リフレッシュ レート 240Hz、32GB DDR5 RAM、2TB SSD、24 コア Intel CPU を搭載した強力な 16 インチ Lenovo リグが大幅に割引され、すべて $3,199 です。"></p>]]></description><source url="https://www.tomshardware.com/pc-components/save-nearly-usd2-000-on-this-rtx-5090-oled-gaming-laptop-right-now-massive-discount-on-powerhouse-16-inch-lenovo-rig-with-240hz-refresh-rate-32gb-ddr5-ram-2tb-ssd-and-a-24-core-intel-cpu-all-for-usd3-199">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/vgxrstjEdsZ7ijRAVMA2ZC-1920-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/vgxrstjEdsZ7ijRAVMA2ZC-1920-80.png"/></item>
-<item><title>Intel の次世代 Nova Lake CPU で AVX-512 サポートが戻ってくると伝えられています — 最新の Linux カーネル パッチにより、P コアと E コアがネイティブ 512 ビット実行になることが明らかになりました</title><link>https://www.tomshardware.com/pc-components/cpus/avx-512-support-is-reportedly-returning-with-intels-next-gen-nova-lake-cpus-latest-linux-kernel-patches-reveal-p-cores-and-e-cores-will-gain-native-512-bit-execution</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/cpus/avx-512-support-is-reportedly-returning-with-intels-next-gen-nova-lake-cpus-latest-linux-kernel-patches-reveal-p-cores-and-e-cores-will-gain-native-512-bit-execution</guid><pubDate>Tue, 07 Jul 2026 14:47:47 +0000</pubDate><description><![CDATA[<p>Intel の次世代 Nova Lake CPU で AVX-512 サポートが戻ってくると伝えられています — 最新の Linux カーネル パッチにより、P コアと E コアがネイティブ 512 ビット実行になることが明らかになりました
-
-最新の Intel CPU の大きなハードルを解決します。
-
-Intel の次世代 Nova Lake CPU で AVX-512 サポートが戻ってくると伝えられています — 最新の Linux カーネル パッチにより、P コアと E コアがネイティブ 512 ビット実行になることが明らかになりました
-
-最新の Intel CPU の大きなハードルを解決します。
-
-(画像クレジット: Intel) リンクをコピー
-
-1 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する インテルが第 12 世代 Alder Lake PU のハイブリッド アーキテクチャに切り替えたとき、E コアが AVX-512 をサポートしていなかったため、ラインナップから AVX-512 サポートを完全に削除しました。それ以来、以降の世代はすべて、これなしで出荷されてきました...現在に至るまで。ちょうど今日、RAID 最適化パスにプッシュされた新しい Linux パッチにより、AVX-512 が P コアと E コアの両方に存在する Nova Lake を搭載した Intel CPU についに戻ってくることが明らかになりました。
-
-Intel は、Alder Lake とのハイブリッドのハードルに突き当たる前は、もともと SMID 拡張機能の擁護者であったため、過去数年間、統合 AVX ソリューションに向けて取り組んできました。このハードルを乗り越えるのが AVX10 です。これは、インテルが数年前に初めて詳細を説明したものです。 AVX10.2 では、512 ビット命令は P コアで実行されますが、どちらのコア タイプでも統合された 256 ビット命令を処理できます。
-
-そのため、E コアの処理…</p><p><img src="https://cdn.mos.cms.futurecdn.net/6dhScSyVh9hBM75rUoJ4qN-2560-80.jpg" alt="Intel の次世代 Nova Lake CPU で AVX-512 サポートが戻ってくると伝えられています — 最新の Linux カーネル パッチにより、P コアと E コアがネイティブ 512 ビット実行になることが明らかになりました"></p>]]></description><source url="https://www.tomshardware.com/pc-components/cpus/avx-512-support-is-reportedly-returning-with-intels-next-gen-nova-lake-cpus-latest-linux-kernel-patches-reveal-p-cores-and-e-cores-will-gain-native-512-bit-execution">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/6dhScSyVh9hBM75rUoJ4qN-2560-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/6dhScSyVh9hBM75rUoJ4qN-2560-80.jpg"/></item>
-<item><title>企業は現在、新しいハードウェアをインストールするときに、自動 Windows インストーラーを使用して Microsoft Store を通じてアドウェアを表示しています。顧客は、新しい LG モニターを接続するとすぐに PC にマカフィーの広告を表示します。新しい広告をブロックする方法は次のとおりです</title><link>https://www.tomshardware.com/software/windows/companies-are-now-using-automatic-windows-installers-to-display-adware-through-the-microsoft-store-when-you-install-new-hardware-customer-immediately-gets-mcafee-ads-on-their-pc-after-connecting-new-lg-monitor-heres-how-to-block-the-new-ads</link><guid isPermaLink="true">https://www.tomshardware.com/software/windows/companies-are-now-using-automatic-windows-installers-to-display-adware-through-the-microsoft-store-when-you-install-new-hardware-customer-immediately-gets-mcafee-ads-on-their-pc-after-connecting-new-lg-monitor-heres-how-to-block-the-new-ads</guid><pubDate>Tue, 07 Jul 2026 14:46:20 +0000</pubDate><description><![CDATA[<p>企業は現在、新しいハードウェアをインストールするときに、自動 Windows インストーラーを使用して Microsoft Store を通じてアドウェアを表示しています。顧客は、新しい LG モニターを接続するとすぐに PC にマカフィーの広告を表示します。新しい広告をブロックする方法は次のとおりです
-
-LGに忠実
-
-企業は現在、新しいハードウェアをインストールするときに、自動 Windows インストーラーを使用して Microsoft Store を通じてアドウェアを表示しています。顧客は、新しい LG モニターを接続するとすぐに PC にマカフィーの広告を表示します。新しい広告をブロックする方法は次のとおりです
-
-1 会話に参加してください フォローしてください Google ニュースレターの優先ソースとして追加してください ニュースレターを購読してください 不要な広告は、現代のテクノロジー体験の中で最も腹立たしい部分の 1 つである可能性があり、すでに支払ったハードウェアがさらに高額な広告をしつこく要求してくる場合があります。 LG はこの点で少し評判があり、同社は現在、さらに侵略的なプロモーションにレパートリーを拡大しているようです。 r/pcmasterrace サブレディットのユーザーは、最新の LG モニターに McAfee の広告が表示されていると共有しました。
-
-モニターがマカフィーの有料広告を送ってくるようになりました?! r/pcmasterrace から
-
-私たちのほとんどは、マカフィーを顔に押しつけられたときの多幸感をすでに知っています。ただし、通常、それはブロートウェア、フリーミアム ソフトウェア、または何らかの方法で無料で入手した完全なプレミアム ソフトウェアが付属するラップトップや構築済み PC に限定されます。 GPU の出力を表示する以外の役割を持たない新しいモニターがこれらのアクティビティに参加し始めたら、それは賢明にも人を狂わせるでしょう。
-
-この場合、u/t40r はこのモニターを購入し、初めてコンピューターに接続しました。…</p><p><img src="https://cdn.mos.cms.futurecdn.net/AJQPsR5faaTZVpDFpvDNVY-856-80.jpg" alt="企業は現在、新しいハードウェアをインストールするときに、自動 Windows インストーラーを使用して Microsoft Store を通じてアドウェアを表示しています。顧客は、新しい LG モニターを接続するとすぐに PC にマカフィーの広告を表示します。新しい広告をブロックする方法は次のとおりです"></p>]]></description><source url="https://www.tomshardware.com/software/windows/companies-are-now-using-automatic-windows-installers-to-display-adware-through-the-microsoft-store-when-you-install-new-hardware-customer-immediately-gets-mcafee-ads-on-their-pc-after-connecting-new-lg-monitor-heres-how-to-block-the-new-ads">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/AJQPsR5faaTZVpDFpvDNVY-856-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/AJQPsR5faaTZVpDFpvDNVY-856-80.jpg"/></item>
-<item><title>新しい物理メディアの生産を中止するというソニーの決定に対する反発が高まる中、PlayStation ディスク請願の署名が 20 万に近づく - 同社は依然として既存のタイトル用の光メディアを生産する予定だが、新作ゲームはデジタルのみとなる</title><link>https://www.tomshardware.com/video-games/playstation/playstation-disc-petition-approaches-200000-signatures</link><guid isPermaLink="true">https://www.tomshardware.com/video-games/playstation/playstation-disc-petition-approaches-200000-signatures</guid><pubDate>Tue, 07 Jul 2026 14:38:31 +0000</pubDate><description><![CDATA[<p>新しい物理メディアの生産を中止するというソニーの決定に対する反発が高まる中、PlayStation ディスク請願の署名が 20 万に近づく - 同社は依然として既存のタイトル用の光メディアを生産する予定だが、新作ゲームはデジタルのみとなる
-
-Change.org キャンペーンは増え続けています。
-
-新しい物理メディアの生産を中止するというソニーの決定に対する反発が高まる中、PlayStation ディスク請願の署名が 20 万に近づく - 同社は依然として既存のタイトル用の光メディアを生産する予定だが、新作ゲームはデジタルのみとなる
-
-Change.org キャンペーンは増え続けています。
-
-(画像クレジット: Zak Killian/Future) リンクをコピーする
-
-0 会話に参加してください フォローしてください Google ニュースレターの優先ソースとして追加してください ニュースレターを購読してください ソニーに物理的な PlayStation ゲームの製造を継続するよう求める Change.org の署名が、同社が 2028 年 1 月に新作ゲームのディスク生産を停止する意向であると発表してから 6 日後に 172,000 件の署名を超えました。カナダの小売業者 PNP Games の CEO、ジェイド ピアースによって始められたこの署名は、初日の約 12,000 件の署名からさらに増加しました。ソニーはこれに応じておらず、ディスクを印刷する工場はすでにスタッフと設備の一部を別の製品に配置し始めている。
-
-ピアース氏はソニーの発表と同日にキャンペーンを開始し、48時間以内に4万人の名前を集めた。請願書は、ボックス入りのダウンロードコードは所有物ではなく取り消し可能なライセンスであると主張し、最近ソニーが購入した映画を顧客アカウントから削除したことに言及し、危険にさらされている雇用の中に中古ゲームの取引を挙げている。 「私たちはデジタルに反対しているわけではありません」とピアース氏は書いている。 「私たちはデジタルが唯一の選択肢であることに反対します。」
-…</p><p><img src="https://cdn.mos.cms.futurecdn.net/XjcgsYTLxWGb9B88CKrTVc-1920-80.jpg" alt="新しい物理メディアの生産を中止するというソニーの決定に対する反発が高まる中、PlayStation ディスク請願の署名が 20 万に近づく - 同社は依然として既存のタイトル用の光メディアを生産する予定だが、新作ゲームはデジタルのみとなる"></p>]]></description><source url="https://www.tomshardware.com/video-games/playstation/playstation-disc-petition-approaches-200000-signatures">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/XjcgsYTLxWGb9B88CKrTVc-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/XjcgsYTLxWGb9B88CKrTVc-1920-80.jpg"/></item>
 </channel></rss>
