@@ -29,6 +29,11 @@ func TestParseFeedSupportsRSSAndAtomDates(t *testing.T) {
 	if err != nil || len(items) != 1 || items[0].Link != "https://example.com/atom" {
 		t.Fatalf("atom items = %#v, err = %v", items, err)
 	}
+	multiLink := `<feed><entry><title>Multi</title><link rel="alternate" href="https://example.com/article"/><link href="https://example.com/image.jpg"/><published>2006-01-02T15:04:05Z</published></entry></feed>`
+	items, err = parseFeed(strings.NewReader(multiLink), "test")
+	if err != nil || len(items) != 1 || items[0].Link != "https://example.com/article" {
+		t.Fatalf("multi-link items = %#v, err = %v", items, err)
+	}
 }
 
 func TestWriteFeedRendersArticleList(t *testing.T) {

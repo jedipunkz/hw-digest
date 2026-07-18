@@ -73,6 +73,12 @@ type collection struct {
 type feedLink string
 
 func (l *feedLink) UnmarshalXML(d *xml.Decoder, start xml.StartElement) error {
+	// Atom entries may carry several <link> elements (article, enclosure,
+	// image, ...). Keep the first non-empty link: feeds list the article
+	// (rel="alternate") first, and later occurrences must not overwrite it.
+	if *l != "" {
+		return d.Skip()
+	}
 	for _, attr := range start.Attr {
 		if attr.Name.Local == "href" && strings.TrimSpace(attr.Value) != "" {
 			*l = feedLink(attr.Value)
