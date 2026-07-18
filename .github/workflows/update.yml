@@ -28,7 +28,11 @@ jobs:
   collect-and-deploy:
     runs-on: ubuntu-latest
     env:
-      LOOKBACK: ${{ inputs.lookback || '1h' }}
+      # Scheduled runs default to 24h: GitHub Actions cron is often delayed or
+      # skipped (observed gaps up to ~3.5h), and a 1h lookback permanently drops
+      # articles published inside those gaps. seen.json dedup (30 days) keeps a
+      # wide lookback from republishing anything.
+      LOOKBACK: ${{ inputs.lookback || '24h' }}
       REFRESH_SEEN: ${{ inputs.lookback == '7days' }}
     steps:
       - uses: actions/checkout@v4
