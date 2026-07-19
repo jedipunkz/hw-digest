@@ -1,6 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sun, 19 Jul 2026 03:53:16 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sun, 19 Jul 2026 06:44:13 +0000</lastBuildDate>
+<item><title>この素晴らしい ESP32 プロジェクトは、ハードウェア上のエコシステム全体を 60FPS でシミュレートします。</title><link>https://www.xda-developers.com/this-awesome-esp32-project-simulates-an-entire-ecosystem-on-your-hardware-at-60fps/</link><guid isPermaLink="true">https://www.xda-developers.com/this-awesome-esp32-project-simulates-an-entire-ecosystem-on-your-hardware-at-60fps/</guid><pubDate>Sun, 19 Jul 2026 06:02:32 +0000</pubDate><description><![CDATA[<p>この素晴らしい ESP32 プロジェクトは、ハードウェア上のエコシステム全体を 60FPS でシミュレートします。
+
+見るのもとても催眠的です。
+
+この素晴らしい ESP32 プロジェクトは、ハードウェア上のエコシステム全体を 60FPS でシミュレートします。
+
+クレジット: Master_Molasses1783 By Simon Batt 公開 2026 年 7 月 19 日、午前 2:02 EDT Simon はコンピューター サイエンスの学士号を取得しており、2014 年からテクノロジについて執筆しており、3.1 から Windows マシンを使用しています。インディーズ ゲーム スタジオで働き、コンピューターの問題全般に対応する家族の頼りになる技術者として活動した後、彼は文章を書くことへの情熱に気づき、自分のスキルセットをテクノロジー全般について書くことに決めました。ライターとしてのキャリアを始めて以来、彼は WorldStart 、 Listverse 、 MakeTechEasier などのさまざまな出版物に執筆してきました。しかし、2019 年 2 月に MakeUseOf に居場所を見つけた後、最終的にはその姉妹サイトである XDA に移り、最新かつ最高の Windows、Linux、DIY 電子機器を提供することになりました。 XDA アカウントにサインインする
+
+このプロジェクトは、ESP32 を食物連鎖と進化を伴う 60FPS マイクロ エコシステムに変えます。
+
+植物、草食動物、肉食動物、頂点捕食者、胞子、死体、分解者という 7 つの実体が登場します。
+
+ESP32 と IdeaSpark 1.9 インチ ST7789 TFT (170x320) が必要で、すべてのコードは GitHub にあります。
+
+ESP32 マイクロコントローラーを何もせずに放置している場合は、それを使ってクールなセットピースを作成してみてはいかがでしょうか? ASCII Aquarium など、実行したままにできるクールな小さなシミュレーターがいくつか作成されていま…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/esp32-ecosystem-featured.jpg?w=1600&amp;h=900&amp;fit=crop" alt="この素晴らしい ESP32 プロジェクトは、ハードウェア上のエコシステム全体を 60FPS でシミュレートします。"></p>]]></description><source url="https://www.xda-developers.com/this-awesome-esp32-project-simulates-an-entire-ecosystem-on-your-hardware-at-60fps/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/esp32-ecosystem-featured.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/esp32-ecosystem-featured.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>LeakWatch KW 29/2026: Microsoft の大量の脆弱性がゲーム、BIOS、ハードウェア ファームウェアに到達</title><link>https://www.igorslab.de/en/leakwatch-kw-29-2026-microsoft-vulnerabilities-gaming-bios-hardware-firmware/</link><guid isPermaLink="true">https://www.igorslab.de/en/leakwatch-kw-29-2026-microsoft-vulnerabilities-gaming-bios-hardware-firmware/</guid><pubDate>Sun, 19 Jul 2026 05:24:53 +0000</pubDate><description><![CDATA[<p>LeakWatch KW 29/2026: Microsoft の大量の脆弱性がゲーム、BIOS、ハードウェア ファームウェアに到達
+
+Microsoft は、積極的に悪用された 2 つのゼロデイを含む 570 件の脆弱性を解決しました。影響を受けるシステムには、Minecraft、Age of Empires II、BIOS、BMC ファームウェアも含まれます。
+
+2026 年暦週 29 の治安状況は、単一の壮大な事件によって定義されるのではなく、異常に広い攻撃対象領域によって定義されます。 570 件の脆弱性を抱え、Microsoft は、すでに実際に悪用されている 2 つのゼロデイを含む、近年最大規模のパッチ デイの 1 つを終了しようとしています。ゲーム システムの場合、この脆弱性が従来の Windows コンポーネントだけでなく、Minecraft Bedrock D dedicated Server、Age of Empires II、および DirectX にも影響を与えることが重要です。
+
+Lenovo と Supermicro は、オペレーティング システムの下に焦点を移しています。 Lenovo は Legion および LOQ システムの BIOS の脆弱性に対処しており、Supermicro はサーバーおよびワークステーション プラットフォームの BMC ファームウェアの欠陥に対処しています。どちらの場合も、ファームウェアと管理層が Windows 自体と同様にセキュリティ クリティカルであることを示しています。
+
+Kudankulam と Fairlife が関係するサプライチェーンの事件は、その状況をサービスプロバイダー、ホストされたシステム、実稼働環境にまで拡大しました。これは、現代のセキュリティ リスクがソフトウェア、ファームウェア、インフラストラクチャ、外部サポートの間の交差点で発生することが多いことを明らかにしています。
+
+公開された Microsoft の脆弱性の数は、カウント方法によって異なります。他の分析ではさらに高い数値が報告…</p><p><img src="https://www.igorslab.de/wp-content/uploads/2026/01/Leakwatch-Teaser.jpg" alt="LeakWatch KW 29/2026: Microsoft の大量の脆弱性がゲーム、BIOS、ハードウェア ファームウェアに到達"></p>]]></description><source url="https://www.igorslab.de/en/leakwatch-kw-29-2026-microsoft-vulnerabilities-gaming-bios-hardware-firmware/">igor&#39;sLAB</source><media:content url="https://www.igorslab.de/wp-content/uploads/2026/01/Leakwatch-Teaser.jpg" medium="image"/><media:thumbnail url="https://www.igorslab.de/wp-content/uploads/2026/01/Leakwatch-Teaser.jpg"/></item>
+<item><title>オープンソースのミッドドライブ e-Bike モーターには多くの期待とハイフンがある</title><link>https://hackaday.com/2026/07/18/open-source-mid-drive-e-bike-motor-has-lots-of-promise-and-hyphens/</link><guid isPermaLink="true">https://hackaday.com/2026/07/18/open-source-mid-drive-e-bike-motor-has-lots-of-promise-and-hyphens/</guid><pubDate>Sun, 19 Jul 2026 05:00:44 +0000</pubDate><description><![CDATA[<p>オープンソースのミッドドライブ e-Bike モーターには多くの期待とハイフンがある
+
+[ペドロ・ネベス] はミッドドライブの電動自転車を持っていますが、実際には所有していません。モーター ユニットを修理できないためです。ハッカーがその立場に立つには、選択肢は 2 つだけです。
+
+[ペドロ・ネベス] はミッドドライブの電動自転車を持っていますが、実際には所有していません。モーター ユニットを修理できないためです。ハッカーがそのような立場に立つには、古いものをクラックして自分のものにするか、自分でゼロから構築するかの 2 つの選択肢しかありません。 [Pedro] は自分で構築し、誰もが遊べるようにウェブサイトでオープンソース化しています。現時点では、それは .step ファイルと BOM なので、全体像を把握するには、以下の YouTube で設計/構築ビデオを視聴する必要があります。
+
+古いバッテリー駆動のアングル グラインダーからモーターを選択した彼の選択は、倹約的かつ環境に優しいものであるため、私たちは承認します。彼の目標である時速 25 km は妥当な制限速度のように思えますが、それでも一部の国の規制には速すぎる可能性があります。そのため、これを構築する場合は現地の規則を確認してください。 3D プリントされたコンポーネントを最大限に活用することは、プロジェクトをよりアクセスしやすくするための選択でもありますが、心配しないでください。座面はすべて金属です。これには、バッテリーが切れたりモーターが故障したりした場合に、ペダルをこいで家に帰ることができるクラッチベアリングが含まれています。まあ、印刷されたプラスチックの車軸がゴーストを放棄しない限り、しかしそれはCNCバージョンに置き換えられたので、すべて大丈夫です。ヘラクレスのような脚を持っていない限り、耐えられるはずです。
+
+DIY で十分でない場合は、いつでも自分でモーターを組み立てることができます。このミッドドライブは、ビデオで詳しく説明しているように、[ペドロ] がカーゴバイク全体に取り組んでいる大規模なプ…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/07/middrive-DIY-feat.jpg" alt="オープンソースのミッドドライブ e-Bike モーターには多くの期待とハイフンがある"></p>]]></description><source url="https://hackaday.com/2026/07/18/open-source-mid-drive-e-bike-motor-has-lots-of-promise-and-hyphens/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/07/middrive-DIY-feat.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/07/middrive-DIY-feat.jpg"/></item>
+<item><title>伝えられるところによると、Intel は中国への古い Core CPU の供給量を再び増やす予定である: 低価格 PC はレガシー プラットフォーム ロジックに依存し続ける</title><link>https://www.igorslab.de/en/intel-older-core-cpus-china-budget-pc-platform-logic/</link><guid isPermaLink="true">https://www.igorslab.de/en/intel-older-core-cpus-china-budget-pc-platform-logic/</guid><pubDate>Sun, 19 Jul 2026 04:00:25 +0000</pubDate><description><![CDATA[<p>伝えられるところによると、Intel は中国への古い Core CPU の供給量を再び増やす予定である: 低価格 PC はレガシー プラットフォーム ロジックに依存し続ける
+
+報道によると、Intelは低コストのプラットフォームを提供するために、Comet LakeからRaptor Lakeまでの古いCore CPUを中国のDIY市場でより強力に提供したいと考えているという。
+
+場合によっては、最も興味深いハードウェア ニュースが最新のアーキテクチャではなく、その逆であることもあります。最新の報道によると、Intel は Comet Lake から Raptor Lake まで、中国の DIY 市場向けに再び古い Core CPU をより多く供給していると言われています。一見すると、これは古い在庫を一掃するように聞こえますが、これはかなり冷静な市場シグナルです。新しいプラットフォームが高価で、DDR5 の圧力がかかり続けると、古いソケットが突然再び魅力的になるということです。 PC Gamer は、中国の情報源とチャネルのヒントを引用して、Intel が中国向けの古いデスクトップ CPU の供給を再び拡大する可能性があると報じています。第 10、第 12、第 13、および第 14 コア世代のモデルについて説明します。 VideoCardz は、現在のハードウェアの報道でもこのトピックを取り上げています。公式には、インテルはこれらの古いプラットフォーム向けの新しいグローバル製品イニシアチブを発表していません。したがって、これは報告された市場とサプライチェーンの状況であり、従来の発表ではありません。
+
+その理由はロマンチックというよりも現実的なものです。多くの市場で、メモリとコンポーネントの価格が上昇しています。 DDR5 は高価で、新しいプラットフォーム用のマザーボードは安くはありません。単純なゲームやオフィス システムには古いハードウェアでも十分です。これは特に、DIY 市場が大きく、価格に敏感で、チャネル主導型である中国に当てはまります。小売業者やシステム インテグレ…</p><p><img src="https://www.igorslab.de/wp-content/uploads/2026/07/Screenshot-2026-07-18-220616.jpeg" alt="伝えられるところによると、Intel は中国への古い Core CPU の供給量を再び増やす予定である: 低価格 PC はレガシー プラットフォーム ロジックに依存し続ける"></p>]]></description><source url="https://www.igorslab.de/en/intel-older-core-cpus-china-budget-pc-platform-logic/">igor&#39;sLAB</source><media:content url="https://www.igorslab.de/wp-content/uploads/2026/07/Screenshot-2026-07-18-220616.jpeg" medium="image"/><media:thumbnail url="https://www.igorslab.de/wp-content/uploads/2026/07/Screenshot-2026-07-18-220616.jpeg"/></item>
+<item><title>RPCS3 は、PS3 ライブラリの 75% がプレイ可能であると報告: 2,681 タイトルが完全に実行されると言われています</title><link>https://www.igorslab.de/en/rpcs3-75-percent-playable-ps3-library-2681-titles-complete/</link><guid isPermaLink="true">https://www.igorslab.de/en/rpcs3-75-percent-playable-ps3-library-2681-titles-complete/</guid><pubDate>Sun, 19 Jul 2026 04:00:24 +0000</pubDate><description><![CDATA[<p>RPCS3 は、PS3 ライブラリの 75% がプレイ可能であると報告: 2,681 タイトルが完全に実行されると言われています
+
+RPCS3 は、3,559 の PS3 タイトルのうち 2,681 を「プレイ可能」と報告します。したがって、エミュレータは完全に完了できるエントリの 75% に達します。
+
+PlayStation 3 は、Cell プロセッサを搭載しているため、理論的にはエミュレーションが可能だが、実際には永久に問題が残るコンソールの 1 つであると長い間考えられていました。 RPCS3 プロジェクトは、この予測を可能な限り徹底的に否定するために 15 年以上取り組んできました。 2026 年 7 月 14 日、開発者は新たなマイルストーンを報告しました。データベースに記録されているすべての PlayStation 3 ゲームの 75 パーセントが PC 上で「プレイ可能」として分類されるようになりました。発表時点では全収録タイトル3,559タイトル中2,681タイトルに相当。
+
+「プレイアブル」とは、単にスタートが成功したというだけではありません
+
+RPCS3 は、互換性評価においていくつかのステータス クラスを区別します。 「プレイ可能」として分類されたゲームは、十分なパフォーマンスで最後まで完了できる必要があり、完全なプレイスルーを妨げるエラーが含まれていてはなりません。これは、すべてのタイトルがすべてのハードウェアで完璧に動作することを自動的に保証するものではありません。軽微なグラフィックの不具合、オーディオの問題、システム依存のパフォーマンスの変動が依然として発生する可能性があります。ただし、この分類は、進歩を妨げる基本的なエミュレーション エラーを除外することを目的としています。発表とともに公開された数字によると、さらに 816 タイトルが「インゲーム」ステータスにありました。これらのゲームは開始され、実際のゲームプレイに到達しますが、重大なエラーまたは不十分なパフォーマンスのため、確実に完了することができません。 60 タイトルはイントロま…</p><p><img src="https://www.igorslab.de/wp-content/uploads/2026/07/ed2e886b-d9d0-4850-8fb7-d47e68ac8930.jpg" alt="RPCS3 は、PS3 ライブラリの 75% がプレイ可能であると報告: 2,681 タイトルが完全に実行されると言われています"></p>]]></description><source url="https://www.igorslab.de/en/rpcs3-75-percent-playable-ps3-library-2681-titles-complete/">igor&#39;sLAB</source><media:content url="https://www.igorslab.de/wp-content/uploads/2026/07/ed2e886b-d9d0-4850-8fb7-d47e68ac8930.jpg" medium="image"/><media:thumbnail url="https://www.igorslab.de/wp-content/uploads/2026/07/ed2e886b-d9d0-4850-8fb7-d47e68ac8930.jpg"/></item>
+<item><title>マリオカート Wii が PC 用に静的に再コンパイル中: パブリックベータは 8 月に開始</title><link>https://www.igorslab.de/en/mario-kart-wii-static-recompiled-pc-public-beta-august/</link><guid isPermaLink="true">https://www.igorslab.de/en/mario-kart-wii-static-recompiled-pc-public-beta-august/</guid><pubDate>Sun, 19 Jul 2026 04:00:22 +0000</pubDate><description><![CDATA[<p>マリオカート Wii が PC 用に静的に再コンパイル中: パブリックベータは 8 月に開始
+
+Patchzy は、Wii ゲームの最初の静的再コンパイルとしてマリオカート Wii をコンパイルしたことを発表しました。
+
+マリオカート Wii は、すでに何年も前から Dolphin 経由で最新の PC 上で実行されています。それにもかかわらず、開発者は非常に複雑なルートを選択しました。ゲームプレイ中に Wii ハードウェアをエミュレートする代わりに、元のプログラム コードが PC 用に事前に変換されることです。 Patchzy という名前で活動している開発者は、2026 年 7 月 15 日にプロジェクト「マリオカート Wii コンパイル」を発表しました。彼の声明によれば、これは Wii ゲームの静的再コンパイルとしては初めてです。パブリック ベータ版は 2026 年 8 月にリリースされる予定で、すでにオンライン レースとレトロ リワインド修正のオプション サポートを提供する予定です。これにより、200 以上のトラックを利用できるようになります。
+
+古典的なエミュレーションの代わりに静的再コンパイル
+
+古典的なエミュレーションでは、ソフトウェアは元のコンソールの重要なコンポーネントを再現します。特に、Dolphin は PowerPC プロセッサ、グラフィックス チップ、メモリ アクセス、システム機能、および Wii のさまざまな入力デバイスをエミュレートします。マシンコードは通常、実行時にホスト システムのアーキテクチャに変換されます。対照的に、静的再コンパイルでは、既存のマシン コードを事前に分析し、ターゲット プラットフォームで実行可能なコードに変換します。 Wii 固有のシステム コール、メモリ アクセス、およびハードウェア機能は、適合したランタイム ライブラリまたは新しく実装されたインターフェイスを介してインターセプトする必要があります。したがって、このプロセスでは、コンソール ゲームが完全に書き直された PC 移植版に自動的に変換されるわけではありません。…</p><p><img src="https://www.igorslab.de/wp-content/uploads/2026/07/tdoenmqedzdfrfpcpsdh.jpg" alt="マリオカート Wii が PC 用に静的に再コンパイル中: パブリックベータは 8 月に開始"></p>]]></description><source url="https://www.igorslab.de/en/mario-kart-wii-static-recompiled-pc-public-beta-august/">igor&#39;sLAB</source><media:content url="https://www.igorslab.de/wp-content/uploads/2026/07/tdoenmqedzdfrfpcpsdh.jpg" medium="image"/><media:thumbnail url="https://www.igorslab.de/wp-content/uploads/2026/07/tdoenmqedzdfrfpcpsdh.jpg"/></item>
+<item><title>クアルコム、Snapdragon コントロール パネルを改訂: Arm 上の Windows でゲームとドライバーのメンテナンスが強化</title><link>https://www.igorslab.de/en/qualcomm-snapdragon-control-panel-windows-arm-gaming-driver/</link><guid isPermaLink="true">https://www.igorslab.de/en/qualcomm-snapdragon-control-panel-windows-arm-gaming-driver/</guid><pubDate>Sun, 19 Jul 2026 04:00:22 +0000</pubDate><description><![CDATA[<p>クアルコム、Snapdragon コントロール パネルを改訂: Arm 上の Windows でゲームとドライバーのメンテナンスが強化
+
+クアルコムは、Windows-on-Arm 用に Snapdragon コントロール パネルを改訂しています。ゲーム ライブラリ、Adreno GPU ドライバー、および Hexagon NPU ドライバーがより直接的に統合されています。
+
+Arm 上の Windows は、純粋なパフォーマンスの問題ではなく、信頼性の問題に直面しています。ユーザーは、ゲームが起動するかどうか、ドライバーが最新であるかどうか、ソフトウェアのメンテナンスが半分だけでシステムが洗練された特別なケースのように感じられないかどうかを知りたいと考えています。クアルコムはまさにそれに対処しており、Snapdragon コントロール パネルを改訂しました。それは小さなソフトウェアの通知のように聞こえますが、Snapdragon X ノートブックにとっては、一見したように見えるよりも重要です。VideoCardz は、Qualcomm が当初 Reddit または Snapdragon コミュニティを通じて発表した Snapdragon コントロール パネルのアップデートについて報告しています。新しいバージョンでは、ゲーム ライブラリが改訂され、ソフトウェア アップデート ページが統合され、Hexagon NPU ドライバーが Adreno GPU ドライバーとより直接的に統合されるようになりました。 Windows Central と GamesRadar は同じ変更をカバーしており、ゲームや AI ワークロード向けに Snapdragon X システムをより適切に準備するためのステップとして解釈しています。
+
+重要なポイントは統合です。 Snapdragon コントロール パネルは、インストールされているゲームを検出し、プロファイルを管理し、ワンクリックでゲームを最適化することを目的としています。アップデートにより、ゲームライブラリのナビゲーションが見直され、お気…</p><p><img src="https://www.igorslab.de/wp-content/uploads/2026/07/Screenshot-2026-07-18-220545.jpeg" alt="クアルコム、Snapdragon コントロール パネルを改訂: Arm 上の Windows でゲームとドライバーのメンテナンスが強化"></p>]]></description><source url="https://www.igorslab.de/en/qualcomm-snapdragon-control-panel-windows-arm-gaming-driver/">igor&#39;sLAB</source><media:content url="https://www.igorslab.de/wp-content/uploads/2026/07/Screenshot-2026-07-18-220545.jpeg" medium="image"/><media:thumbnail url="https://www.igorslab.de/wp-content/uploads/2026/07/Screenshot-2026-07-18-220545.jpeg"/></item>
+<item><title>TSMC A14、SRAM歩留まり90パーセント近くを達成：リスク生産は2027年に開始</title><link>https://www.igorslab.de/en/tsmc-a14-90-percent-sram-yield-risk-production-2027/</link><guid isPermaLink="true">https://www.igorslab.de/en/tsmc-a14-90-percent-sram-yield-risk-production-2027/</guid><pubDate>Sun, 19 Jul 2026 04:00:03 +0000</pubDate><description><![CDATA[<p>TSMC A14、SRAM歩留まり90パーセント近くを達成：リスク生産は2027年に開始
+
+TSMC は、A14 について、256 M ビット SRAM テスト構造のデバイス パフォーマンスが 90 パーセント近く、歩留まりが 90 パーセント近くであると報告しています。リスク生産は 2027 年に開始されます。
+
+新しい製造プロセスの場合、テスト チップをほぼ完成したプロセッサにするには 2 パーセントの数字で十分です。 TSMC の現在の A14 数値は確かに注目に値します。しかし、それでも、大型 CPU や AI アクセラレータがすでに 90% の歩留まりでウェハから出荷されているという意味ではありません。 2026 年 7 月 16 日の四半期カンファレンス中に、TSMC は次期 A14 プロセスの新しい開発データを公開しました。これによると、社内の製品に似たテスト車両は、目標のデバイス性能の 90% 弱に達しました。同時に、256M ビット SRAM テスト構造の歩留まりも 90% 近くになりました。
+
+SRAM の歩留まりはプロセッサの歩留まりと同じではありません
+
+2 つの図は、プロセスの成熟度のさまざまな側面を示しています。 TSMC は、「デバイス パフォーマンス」で、製造されたトランジスタが意図された電気的目標値にどの程度近づいているかを評価します。対照的に、SRAM の歩留まりは、通常のメモリ テスト構造のどの割合が定義された機能基準と品質基準を満たしているかを示します。 SRAM セルは、チップ上でほぼ同一の形状で何百万回も発生するため、欠陥密度とプロセスの均一性を評価するのに適しています。ただし、高い SRAM 歩留まりをそのまま大型の商用プロセッサに移すことはできません。 CPU、GPU、AI アクセラレータは、非常に広い領域にわたってさまざまなロジック ブロック、キャッシュ構造、相互接続、アナログ コンポーネントを組み合わせます。チップ面積が増加すると、欠陥がダイ全体に影響を与える可能性も高くなります。したがって、「A14 で利回り 90%…</p><p><img src="https://www.igorslab.de/wp-content/uploads/2026/07/e8390053-6a9b-4a1a-adf3-50436908653d.jpg" alt="TSMC A14、SRAM歩留まり90パーセント近くを達成：リスク生産は2027年に開始"></p>]]></description><source url="https://www.igorslab.de/en/tsmc-a14-90-percent-sram-yield-risk-production-2027/">igor&#39;sLAB</source><media:content url="https://www.igorslab.de/wp-content/uploads/2026/07/e8390053-6a9b-4a1a-adf3-50436908653d.jpg" medium="image"/><media:thumbnail url="https://www.igorslab.de/wp-content/uploads/2026/07/e8390053-6a9b-4a1a-adf3-50436908653d.jpg"/></item>
 <item><title>Modern MoonBASIC で 2D および 3D ゲームを作成する</title><link>https://hackaday.com/2026/07/18/write-2d-and-3d-games-in-modern-moonbasic/</link><guid isPermaLink="true">https://hackaday.com/2026/07/18/write-2d-and-3d-games-in-modern-moonbasic/</guid><pubDate>Sun, 19 Jul 2026 02:00:23 +0000</pubDate><description><![CDATA[<p>Modern MoonBASIC で 2D および 3D ゲームを作成する
 
 BASIC プログラミング言語の主な強みの 1 つは、簡単なセットアップと、必要最小限の言語ではかなり多くの作業が必要となる操作のための豊富なコマンド セットです。
@@ -6679,132 +6755,4 @@ Jsaux が 3 Steam Machine ディスプレイのフェイスプレートをプレ
 2025 年 12 月 17 日 Half-Life 3 は 2026 年初頭に Steam Machine と並行して発売される可能性があります (78)
 
 2026 年 4 月 21 日 Valve が Steam…</p><p><img src="https://www.techpowerup.com/img/NflghZJBDlgVfX3d.jpg" alt="Jsaux が 3 Steam Machine ディスプレイのフェイスプレートをプレビュー"></p>]]></description><source url="https://www.techpowerup.com/350673/jsaux-previews-3-steam-machine-display-faceplates">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/NflghZJBDlgVfX3d.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/NflghZJBDlgVfX3d.jpg"/></item>
-<item><title>Gemma 4 を 2 年前のコーディング LLM に置き換えたところ、ローカル AI セットアップがこれまでよりもうまく機能しました</title><link>https://www.xda-developers.com/replaced-gemma-4-with-two-year-old-coding-llm-for-non-coding-work/</link><guid isPermaLink="true">https://www.xda-developers.com/replaced-gemma-4-with-two-year-old-coding-llm-for-non-coding-work/</guid><pubDate>Fri, 10 Jul 2026 20:30:22 +0000</pubDate><description><![CDATA[<p>Gemma 4 を 2 年前のコーディング LLM に置き換えたところ、ローカル AI セットアップがこれまでよりもうまく機能しました
-
-コーディング LLM は、コーディングするかどうかを気にせず、入力にルールがあるかどうかだけを考慮します。
-
-Gemma 4 を 2 年前のコーディング LLM に置き換えたところ、ローカル AI セットアップがこれまでよりもうまく機能しました
-
-By Nolen Jonker 公開 2026 年 7 月 10 日、午後 4 時 30 分 EDT Nolen は 2019 年に執筆活動を開始し、3 年間 MakeUseOf のクリエイティブ セクションの編集に専念しました。彼らの専門知識はテクノロジーと創造性の交差点にあり、写真、ビデオ編集、グラフィック デザインなどの分野をカバーしています。仕事以外では、ノーレンが良い本を読んだり、自分の物語を書いたり、ビデオ ゲームをしたりしているのをよく見かけます。 XDA アカウントにサインインする 汎用ローカル モデルは、ほとんどの人が手に入れるものであり、私もそれに含まれます。彼らはコード以外のすべてを処理します。開発者でない場合は、基本的に丸一日かかります。ほとんどの場合、私に必要なのは、チャット、簡単なリサーチ、声に出してアイデアを検討すること、ドキュメントの合成などだけです。
-
-しかし、同じ 2 つまたは 3 つのモデルを数か月間ローテーションして実行すると、毎日同じランチを食べるのと同じように、少し時代遅れに感じ始めます。そして、それは単なる日常的なことではなく、特定の場所で彼らが不十分であることに気づき始めました。実際、これが現れ始めたのはバイブ デザインでした。私の一般的なモデルは設計について問題なく話すことができましたが、それらをローカルの設計ツールに接続して実際の出力を要求すると、結果は粗雑でした。コーディングを調整したモデルは、これを著しくうまく処理できました。それが私がフルタイムで経営することに興味を持ったのです。
-
-AI の最新情報を常に把握したいですか? XDA A…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/qwen-coder-2-5-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="Gemma 4 を 2 年前のコーディング LLM に置き換えたところ、ローカル AI セットアップがこれまでよりもうまく機能しました"></p>]]></description><source url="https://www.xda-developers.com/replaced-gemma-4-with-two-year-old-coding-llm-for-non-coding-work/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/qwen-coder-2-5-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/qwen-coder-2-5-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>ディズニープラスは無料枠を追加するというアイデアを検討中</title><link>https://www.androidauthority.com/disney-plus-considers-free-tier-3686530/</link><guid isPermaLink="true">https://www.androidauthority.com/disney-plus-considers-free-tier-3686530/</guid><pubDate>Fri, 10 Jul 2026 20:05:49 +0000</pubDate><description><![CDATA[<p>ディズニープラスは無料枠を追加するというアイデアを検討中
-
-伝えられるところによると、ディズニープラスは、コンテンツの一部に無料でアクセスできるようにする大きな変更を検討しているとのこと。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-ディズニープラスは無料枠を追加するというアイデアを検討中
-
-0 • Edgar Cervantes / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR ウォルト・ディズニー・カンパニーは、ストリーミングコンテンツの一部を無料にすることを検討していると伝えられています。
-
-最高製品技術責任者のアダム・スミス氏がタウンホールでディズニープラスへの無料枠の追加について語ったと言われている。
-
-関係者によると、これらの会談は視聴者により良いサービスを提供する方法についての進行中の議論の一環だという。
-
-最近の報道によると、Netflixは視聴者のエンゲージメントを高めるために、プラットフォームにライブチャンネルを追加することを検討しているとのこと。ただし、エンゲージメントを目的として変更を加えようとしているストリーミング サービスは Netflix だけではない可能性があります。ディズニープラスは、視聴者をそのサービスに引き付けるために、何か新しいもの、つまり無料コンテンツを導入する可能性もある。
-
-Business Insider の報道によると、ウォルト・ディズニー・カンパニーの上層部はストリーミングサービスの大幅な変更について議論しているという。同メディアの情報筋によると、この交渉にはディズニープラスの一部のコンテンツをペイウォールなしでアクセスできるようにすることが含まれているという。最高製品技術責任者のアダム・スミス氏が木曜日のタウンホールでそのような問題について話したと報じられている。スミス氏は、この動きのスケジュールや範囲については言及しなかった。
-
-ディズニーは現在…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2024/05/Disney-Plus-logo-on-smartphone-laying-on-side-table-stock-photo-4.jpg" alt="ディズニープラスは無料枠を追加するというアイデアを検討中"></p>]]></description><source url="https://www.androidauthority.com/disney-plus-considers-free-tier-3686530/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2024/05/Disney-Plus-logo-on-smartphone-laying-on-side-table-stock-photo-4.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2024/05/Disney-Plus-logo-on-smartphone-laying-on-side-table-stock-photo-4.jpg"/></item>
-<item><title>ソニーはユーザーのライブラリから 551 本の映画を削除しましたが、これは私が物理メディアをまだ購入している理由を証明しています</title><link>https://www.xda-developers.com/sony-just-erased-551-movies-from-users-libraries-it-proves-why-i-still-buy-physical-media/</link><guid isPermaLink="true">https://www.xda-developers.com/sony-just-erased-551-movies-from-users-libraries-it-proves-why-i-still-buy-physical-media/</guid><pubDate>Fri, 10 Jul 2026 20:00:22 +0000</pubDate><description><![CDATA[<p>ソニーはユーザーのライブラリから 551 本の映画を削除しましたが、これは私が物理メディアをまだ購入している理由を証明しています
-
-これからも円盤買います、よろしくお願いします
-
-ソニーはユーザーのライブラリから 551 本の映画を削除しましたが、これは私が物理メディアをまだ購入している理由を証明しています
-
-By Jasmine Mannan 公開 2026 年 7 月 10 日、午後 4:00 EDT Jasmine は XDA のソフトウェアおよび PC ハードウェアの著者で、AI チャットボットからゲーム ハードウェアに至るまで、長年にわたる技術レポートの経験があり、ほぼすべてをカバーしています。最新の AMD NPU に関する速報ニュースであれ、ソーシャル メディア プラットフォームでのビデオ チュートリアルの作成であれ、Jasmine は、Razer の CEO、AMD の製品マーケティング ディレクター、Lenovo の副社長へのインタビューなど、さまざまな方法で AI とテクノロジーの世界に貢献してきました。ゲームと PC テクノロジーに情熱を持っている彼女は、数え切れないほどのコンピューター、キーボード、その他の周辺機器を構築し、それらを隅々まで知り尽くしています。 XDA アカウントにサインインする 最近、ソニーは、2026 年 9 月 1 日以降、「ターミネーター 2」、「地獄の黙示録」、「パディントン」などの映画を含む 551 のデジタル タイトルが、金銭的補償や払い戻しが一切なく、英国およびヨーロッパに拠点を置く PlayStation Store ユーザーの個人ライブラリから消えると発表しました。私たちの下から引き抜かれたこの敷物は、デジタル所有権の背後にある本当の神話を暴露します。
-
-現実的には、インターフェイスに購入ボタンがある場合、実際には一時的な条件付きリースが実行されます。デジタル所有権が真の所有権であると 100% 確信する方法はありません。ソニーは、レガシーな個人ライブラリを解体しながらオールデジタルの未来を強制することで、物理…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/whatsapp-image-2026-07-06-at-11-43-19-6.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="ソニーはユーザーのライブラリから 551 本の映画を削除しましたが、これは私が物理メディアをまだ購入している理由を証明しています"></p>]]></description><source url="https://www.xda-developers.com/sony-just-erased-551-movies-from-users-libraries-it-proves-why-i-still-buy-physical-media/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/whatsapp-image-2026-07-06-at-11-43-19-6.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/whatsapp-image-2026-07-06-at-11-43-19-6.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>サムスンの次世代 SmartTag トラッカーは数か月先に登場する可能性があります</title><link>https://www.androidauthority.com/smarttag-3-rumors-3686524/</link><guid isPermaLink="true">https://www.androidauthority.com/smarttag-3-rumors-3686524/</guid><pubDate>Fri, 10 Jul 2026 19:42:44 +0000</pubDate><description><![CDATA[<p>サムスンの次世代 SmartTag トラッカーは数か月先に登場する可能性があります
-
-新しい噂によると、サムスンの次世代SmartTagトラッカーがGalaxy S26 FEスマートフォンと一緒にデビューする可能性があるという。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-サムスンの次世代スマートタグトラッカーは数か月先に登場する可能性がある
-
-0 • Rita El Khoury / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Samsung は 2023 年 10 月に SmartTag 2 トラッカーを導入しました。
-
-現在、SmartTag 3がGalaxy S26 FEと一緒にデビューする可能性があるという新しい噂があります。
-
-それが本当であれば、この製品は今年 9 月に導入される可能性があります。
-
-いつも持ち物を置き忘れていませんか？現在、優れたワイヤレス トラッカーのオプションが数多く存在するため、すべてのギアを注意深く監視しない理由はありません。しかし、どれが自分に適しているのでしょうか? Samsung の Galaxy SmartTag2 は、豊富な機能セットを提供し、SmartThings Find を通じて適切な規模の追跡ネットワークをサポートするため、私たちのお気に入りの 1 つです。しかし、今となっては少し先の話でもあり、今となっては古くなった Bluetooth 5.3 接続を搭載した製品が 2023 年に発売されることになります。 Samsung のトラッカーのファンにとって幸運なことに、新しいエントリーがすぐそこまで来ているようです。
-
-Bluesky について、有名なリーカー Roland Quandt が短いながらも非常に的を絞ったティーザーを公開しました。
-
-Samsung SmartTag 3 は間もなく登場し、S26 FE と同時に発売される可能性があ…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2023/10/samsung-smarttag-2-in-hand-keys-2.jpg" alt="サムスンの次世代 SmartTag トラッカーは数か月先に登場する可能性があります"></p>]]></description><source url="https://www.androidauthority.com/smarttag-3-rumors-3686524/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2023/10/samsung-smarttag-2-in-hand-keys-2.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2023/10/samsung-smarttag-2-in-hand-keys-2.jpg"/></item>
-<item><title>Palworld が早期アクセスを終了し、72 人の新しい Pal とアップデート ノートのページが追加される</title><link>https://www.techpowerup.com/350672/palworld-exits-early-access-with-72-new-pals-and-pages-of-update-notes</link><guid isPermaLink="true">https://www.techpowerup.com/350672/palworld-exits-early-access-with-72-new-pals-and-pages-of-update-notes</guid><pubDate>Fri, 10 Jul 2026 18:36:14 +0000</pubDate><description><![CDATA[<p>Palworld が早期アクセスを終了し、72 人の新しい Pal とアップデート ノートのページが追加される
-
-以前に約束したように、Palworld 1.0 が Steam で正式にリリースされ、アップデート、機能、修正の膨大なリストが提供されました。このアップデートにより、ゲームが早期アクセスから正式に開始され、72 人の新しい仲間がゲームに追加され、合計は 287 人になり、以前よりも 50 人以上増えています。
-
-Palworld が早期アクセスを終了し、72 人の新しい Pal とアップデート ノートのページが追加される
-
-新しい、より柔軟なグライダー、ウィング パックは、仲間なしで飛行を可能にします。
-
-新しいリソースと製作設計図
-
-新しい家具、装飾、建築コンポーネントの長いリスト
-
-ワイルドバトルをより面白くする新しいワイルド仲間戦闘機能
-
-特性をランダムに変更して仲間の繁殖に出現させる突然変異メカニズム
-
-より多様で挑戦的なタワーボスの戦い
-
-新規および既存の仲間向けの多くの新しいアクティブなスキル
-
-アクティブスキルのバランス変更
-
-戦闘をより速いペースで流動的なものにするためにプレイヤーのモーションを再加工しました (回避、ローリング、リロード、および回避中の攻撃の許可への変更)
-
-仲間の仕事の適性はレベルが上がるにつれて変化し、プレイヤーが仲間の仕事スキルの開発に投資することを奨励するためのバランスが調整されます。
-
-100 を超える新しい仲間のモーションと 47 の新しいアニメーションにより、仲間とのやり取りがよりリアルになります
-
-2025 年 8 月 18 日 Microsoft Windows 11 24H2 アップデートにより SSD 障害が発生する可能性がある (278)
-
-2026 年 4 月 13 日 Epic Games ストアの従業員: 無料ゲームのためだけに来て、その後 Steam に戻ってきた人々 (91)
-
-2026 年 5 月 26 日 NVIDIA GeForce グラフィックス ドライバー 610.47 WHQL …</p><p><img src="https://www.techpowerup.com/img/ziIjeXgHmOI40cDb.jpg" alt="Palworld が早期アクセスを終了し、72 人の新しい Pal とアップデート ノートのページが追加される"></p>]]></description><source url="https://www.techpowerup.com/350672/palworld-exits-early-access-with-72-new-pals-and-pages-of-update-notes">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/ziIjeXgHmOI40cDb.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/ziIjeXgHmOI40cDb.jpg"/></item>
-<item><title>ようやくエミュレータのコレクションを整理しました。この無料のフロントエンドのおかげで、実際のコンソールよりも快適に感じることができました</title><link>https://www.xda-developers.com/organized-emulator-collection-free-frontend-better-than-real-console/</link><guid isPermaLink="true">https://www.xda-developers.com/organized-emulator-collection-free-frontend-better-than-real-console/</guid><pubDate>Fri, 10 Jul 2026 18:30:22 +0000</pubDate><description><![CDATA[<p>ようやくエミュレータのコレクションを整理しました。この無料のフロントエンドのおかげで、実際のコンソールよりも快適に感じることができました
-
-すべてが自然な感じになります
-
-ようやくエミュレータのコレクションを整理しました。この無料のフロントエンドのおかげで、実際のコンソールよりも快適に感じることができました
-
-By João Carrasqueira 公開 2026 年 7 月 10 日、午後 2 時 30 分 EDT João は 7 年以上にわたり、ラップトップと Windows エコシステムに重点を置いてテクノロジーの世界を取材してきました。私はテクノロジーやビデオゲーム全般が大好きで、特に任天堂のことについて彼はいつも喜んで話します。 2021 年に XDA に入社する前は、Neowin で働いていました: https://www.neowin.net/news/poster/jo%C3%A3o-carrasqueira/ XDA アカウントにサインインします 現代のゲーム市場は消費者に対してますます敵対的になってきており、多くの人が古典的なタイトルに喜びを見出し始めています。これらのゲームは長い間保存されており、最新のハードウェアで簡単にプレイでき、無料でプレイできる実質的に無限のライブラリを提供します。しかし、エミュレーションは常に理解しやすいわけではなく、物事を整理して実行するだけでも困難な場合があります。
-
-ありがたいことに、古いコンソールをエミュレートする技術的側面が基本的に完成した今、コミュニティはユーザー エクスペリエンスそのものに注目するようになりました。 EmulationStation (ES-DE) は、古いゲームをまるで正規のコンソールであるかのように驚くほど簡単にプレイできるようにするエミュレーションのフロントエンドで、私はこれがとても気に入っています。
-
-EmulationStation がすべてを変える方法
-
-閉じる EmulationStation を何度かセットアップしましたが、これが非常にうまく機能する理由は、すべてのプラット…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/es-de-on-handheld-final.jpg?w=1600&amp;h=900&amp;fit=crop" alt="ようやくエミュレータのコレクションを整理しました。この無料のフロントエンドのおかげで、実際のコンソールよりも快適に感じることができました"></p>]]></description><source url="https://www.xda-developers.com/organized-emulator-collection-free-frontend-better-than-real-console/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/es-de-on-handheld-final.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/es-de-on-handheld-final.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>Google Pixel 11 Pro Foldが8月の発売に先立ってFCCに登場</title><link>https://www.androidauthority.com/pixel-11-pro-fold-fcc-listing-3686494/</link><guid isPermaLink="true">https://www.androidauthority.com/pixel-11-pro-fold-fcc-listing-3686494/</guid><pubDate>Fri, 10 Jul 2026 18:19:26 +0000</pubDate><description><![CDATA[<p>Google Pixel 11 Pro Foldが8月の発売に先立ってFCCに登場
-
-Pixel 11 Pro Fold と思われるモデルが FCC に立ち寄り、接続性と補聴器のサポートが明らかになりました。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Google Pixel 11 Pro Foldが8月の発売に先立ってFCCに登場
-
-0 • Android Headlines / OnLeaks Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google Pixel スマートフォンが FCC によって停止されました。
-
-モデル番号は GZDQ6 で、これが Pixel 11 Pro Fold であることを示唆しています。
-
-文書では、この折りたたみ式デバイスが補聴器と互換性があり、Bluetooth、LTE、ウルトラワイドバンド、NFC、およびスレッドをサポートすることが確認されています。
-
-最近、Googleは8月中旬に予定されているPixel 11発表イベントへの招待状の発送を開始した。そのイベントでは、Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL、Pixel 11 Pro Fold が紹介される予定です。発売が非常に近づいていることから、携帯電話の 1 つが連邦通信委員会 (FCC) の窓口を通過したことは驚くべきことではありません。
-
-Android 当局は、FCC のデータベースに Google Pixel スマートフォンのリストがあることを発見しました。最近提出された申請書には、モデル番号 GZDQ6 を持つデバイスの詳細が記載されています。以前のリークからわかったように、モデル番号GZDQ6はPixel 11 Pro Foldに関連付けられていると考えられています。これが Pixel 11 Pro Fold であることのさらなる証拠として、折りたたみ可能なデバイスのように見える以下の画像が…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/03/google-pixel-11-pro-fold-onleaks-render-close-up-scaled.jpg" alt="Google Pixel 11 Pro Foldが8月の発売に先立ってFCCに登場"></p>]]></description><source url="https://www.androidauthority.com/pixel-11-pro-fold-fcc-listing-3686494/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/03/google-pixel-11-pro-fold-onleaks-render-close-up-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/03/google-pixel-11-pro-fold-onleaks-render-close-up-scaled.jpg"/></item>
-<item><title>1,500 ドルのゲーミング PC の実際のパフォーマンスを無駄にする CPU と GPU の組み合わせの間違い</title><link>https://www.xda-developers.com/cpu-gpu-pairing-mistake-that-wastes-gaming-performance/</link><guid isPermaLink="true">https://www.xda-developers.com/cpu-gpu-pairing-mistake-that-wastes-gaming-performance/</guid><pubDate>Fri, 10 Jul 2026 18:00:22 +0000</pubDate><description><![CDATA[<p>1,500 ドルのゲーミング PC の実際のパフォーマンスを無駄にする CPU と GPU の組み合わせの間違い
-
-高価なゲーム用 CPU を過剰に使用すると、GPU のパフォーマンスと全体的な FPS が犠牲になります。
-
-1,500 ドルのゲーミング PC の実際のパフォーマンスを無駄にする CPU と GPU の組み合わせの間違い
-
-By Tanveer Singh 公開 2026 年 7 月 10 日、午後 2:00 EDT 7 年間の企業勤務を経て、Tanveer は執筆とテクノロジーへの愛が抑えきれないことに気づきました。マーケティングの MBA を取得し、PC 構築ビジネスのオーナーでもある彼は、PC ハードウェア、テクノロジ、および Windows について執筆しています。 Web でアイデアを探していないときは、PC を構築したり、アニメを見たり、RTX 3080 でスマッシュ カートをプレイしたりしています (ため息)。 XDA アカウントにサインインする 1,500 ドルの予算は、合理的なハイエンド ゲーム PC にとって常に最適な価格であり、ビルドの他の側面を犠牲にすることなく 700 ～ 800 ドルの GPU を選択することが可能です。しかし、過去 8 か月で、1,500 ドルのゲーム ビルドの計算式は劇的に変化しました。これは単に、RAM と SSD の価格が史上最高値を記録したためです。ゲーマーがようやく最新の GPU を手頃な価格で購入できるようになったとき、メモリとストレージの価格高騰により、アップグレードの夢はすべて消え去ったようです。ただし、待つのにうんざりしていて、今すぐ新しいゲーミング PC を構築したい場合は、偏った構築にならないように二重に確認する必要があります。ここで私が話しているのは CPU についてであり、グラフィック カードを犠牲にして CPU の重要性を過度に強調しているゲーマーがいかに多いかについて話しています。彼らは「最高のゲームパフォーマンス」を求めて Ryzen X3D プロセッサを興奮して購入するでしょ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/04/nvidia-rtx-5060-ti-review-16.jpg?w=1600&amp;h=900&amp;fit=crop" alt="1,500 ドルのゲーミング PC の実際のパフォーマンスを無駄にする CPU と GPU の組み合わせの間違い"></p>]]></description><source url="https://www.xda-developers.com/cpu-gpu-pairing-mistake-that-wastes-gaming-performance/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/04/nvidia-rtx-5060-ti-review-16.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/04/nvidia-rtx-5060-ti-review-16.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 </channel></rss>
