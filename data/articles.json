@@ -1,6 +1,24 @@
 {
   "akiba": [
     {
+      "Title": "HWiNFO、グラボのVRAMチップごとの温度表示に暫定対応。v8.51 Build 6034 Betaにて",
+      "Link": "https://www.nichepcgamer.com/archives/hwinfo-v8-51-build6034-beta.html",
+      "Published": "2026-07-20T10:46:52Z",
+      "Source": "ニッチなPCゲーマーの環境構築Z",
+      "Category": "アプリケーション",
+      "Summary": "HWiNFO、グラボのVRAMチップごとの温度表示に暫定対応。v8.51 Build 6034 Betaにて\n\nHWiNFOが、グラボのVRAMチップごとの温度表示に暫定対応しました。 VRAMの温度表示自体は以前から対応していましたが、HWiNFO v8.51 Build 6034 BetaではGDDR7メ...\n\nHWiNFOが、 グラボのVRAMチップごとの温度表示に暫定対応しました。\n\nVRAMの温度表示自体は以前から対応していましたが、HWiNFO v8.51 Build 6034 BetaではGDDR7メモリやGDDR6メモリなど、基板上の各VRAMチップごとの温度が表示されます。\n\n上記スクリーンショットの例だと、『GPU メモリ 0 温度』(GPU Memory 0 Temperature)から『GPU メモリ 7 温度』が各VRAMチップの温度です。『GPU メモリ Chip 温度』(GPU Memory Chip Temperature)はVRAMの平均温度です。『GPUメモリジャンクション温度』(GPU Memory Junction Temperature)は、各VRAMチップの中で最も高い温度です。\n\n(余談ですが、HWiNFOの過去のバージョンや、GPU-Zなどその他のモニタリングアプリで表示されているVRAM温度は、基本的に各VRAMチップの中で最も温度が高い『GPUメモリジャンクション温度』が表示されています。VRAM平均温度ではありません)\n\n今回、HWiNFOが各VRAMチップごとの温度表示に対応したことにより、VRAM温度が異常に高いなどの問題が発生した場合に、問題の切り分けがしやすくなりそうです。\n\nなお、HWiNFO v8.51 Build 6034 Betaは、2026年7月20日時点ではまだ HWiNFO公式ページ には載っておらず、 Overclock.netフォーラム でHWiNFO開発者であるMumak氏により公開されています。\n\n現状、ベータ版となっており、それでも使ってみたい方は以下のURLよりダウンロードをどうぞ…",
+      "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2025/04/hwinfo-top.jpg"
+    },
+    {
+      "Title": "液冷機構内蔵の9.06型OLEDタブ！「REDMAGIC Astra 2」グローバル発表",
+      "Link": "https://smhn.info/202607-redmagic-astra-2-liquid-cooling-global-launch-august",
+      "Published": "2026-07-20T08:13:45Z",
+      "Source": "すまほん!!",
+      "Category": "タブレット",
+      "Summary": "液冷機構内蔵の9.06型OLEDタブ！「REDMAGIC Astra 2」グローバル発表\n\n可視液冷タブレットがついに世界へ。nubia傘下のゲーミングブランドREDMAGICは7月17日、液体を循環させる冷却機構を内蔵したAndroidタブレット「REDMAGIC Astra 2 Gaming Tablet」のグローバル展開を発表しました。発売日は8月26日以降。画面...\n\n液冷機構内蔵の9.06型OLEDタブ！「REDMAGIC Astra 2」グローバル発表\n\nnubia傘下のゲーミングブランド REDMAGIC は7月17日、液体を循環させる冷却機構を内蔵した Androidタブレット 「 REDMAGIC Astra 2 Gaming Tablet」のグローバル展開を発表しました。発売日は8月26日以降。\n\n画面は9.06型のOLEDで、解像度は2400×1504、 リフレッシュレート は最大185Hzです。タッチサンプリングレートは平均300Hz、瞬時最大2000Hzに達します。中国で6月30日に発売された「 REDMAGIC Gaming Tablet 5 Pro」をベースとするグローバルモデルですね。\n\nSoCは Snapdragon 8 Elite Gen 5 で、独自のゲーミングチップ「RedCore R4」を組み合わせます。実行メモリとストレージは12GB／256GB、16GB／512GBの2構成で、規格はLPDDR5XとUFS 4.1です。\n\nバッテリーは2セル構成の8300mAhで、グローバル版は最大75Wの有線急速充電とバイパス充電に対応します。\n\n目玉のひとつが、透明な背面パーツとRGBライトで冷却機構を見せる12層の「AquaCore Cooling System 2.0」です。流動式液冷、 Liquid Metal 3.0、大型 ベイパーチャンバー などを組み合わせ、長時間の高負荷時にも性能を維持しやすくするとしています。\n\n米国価格は12GB／256GB版が749ドル（約12万2000円）、16GB／512GB版が849ドル（約13…",
+      "ImageURL": "https://smhn.info/wp-content/uploads/2026/07/20260720_171034.webp"
+    },
+    {
       "Title": "Apple Watch SE 3がAmazonアウトレットで複数販売〜旧価格より安価",
       "Link": "https://iphone-mania.jp/sale-603708/",
       "Published": "2026-07-20T06:57:01Z",
@@ -2143,15 +2161,6 @@
       "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/07/14/VGA-EXHDPOCL4_01.jpg"
     },
     {
-      "Title": "HP製ミニPC「EliteDesk 800 G5 DM」が30,800円、第9世代 Core搭載の中古Cランク品がQualitでセール",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2124418.html",
-      "Published": "2026-07-14T03:00:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "HP製ミニPC「EliteDesk 800 G5 DM」が30,800円、第9世代 Core搭載の中古Cランク品がQualitでセール\n\nCore i5-9500T(6コア/6スレッド)を搭載したHP製ミニPC「EliteDesk 800 G5 DM」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で特価販売中。\n\nHP製ミニPC「EliteDesk 800 G5 DM」が30,800円、第9世代 Core搭載の中古Cランク品がQualitでセール\n\nCore i5-9500T(6コア/6スレッド)を搭載したHP製ミニPC「EliteDesk 800 G5 DM」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で特価販売中 。\n\n今回販売されているのは、「傷や使用感が見られる」(同店)というCランク中古品で、販売価格は30,800円。保証期間は12か月となっています。\n\n主な仕様は、メモリが8GB(空きスロット×1)、ストレージが256GB SSD、OSがWindows 11 Pro。インターフェイスには、DisplayPort×2やVGA、USB Type-Cなどを備えています。",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2124/418/a1.jpg"
-    },
-    {
       "Title": "ガチくんに! 第424回切り抜き「格ゲー女性プレイヤー座談会！プロへの印象や裏話を聞いてみた」",
       "Link": "https://pc.watch.impress.co.jp/docs/news/2124815.html",
       "Published": "2026-07-14T03:00:00Z",
@@ -2159,6 +2168,15 @@
       "Category": "",
       "Summary": "ガチくんに! 第424回切り抜き「格ゲー女性プレイヤー座談会！プロへの印象や裏話を聞いてみた」\n\n※毎週木曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイター6攻略企画「ガチくんに!」をTwitchとYouTubeで配信しています。レギュラー出演者はぷげら、奥村茉実。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードした切り抜きとアーカイブの動画を掲載しています。\n\nガチくんに! 第424回切り抜き「格ゲー女性プレイヤー座談会！プロへの印象や裏話を聞いてみた」\n\n※毎週木曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイター6攻略企画「ガチくんに!」を Twitch と YouTube で配信しています。レギュラー出演者はぷげら、奥村茉実。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードした切り抜きとアーカイブの動画を掲載しています。\n\n7月9日の配信では、レギュラーの奥村さんに加えて、ゲストにitsukaさん、芦澤佳純さんをお迎えして、格ゲー女性プレイヤーによる座談会を実施。さまざまな質問を通じてガールズトークしていただきました。",
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2124/815/01.jpg"
+    },
+    {
+      "Title": "HP製ミニPC「EliteDesk 800 G5 DM」が30,800円、第9世代 Core搭載の中古Cランク品がQualitでセール",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2124418.html",
+      "Published": "2026-07-14T03:00:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "HP製ミニPC「EliteDesk 800 G5 DM」が30,800円、第9世代 Core搭載の中古Cランク品がQualitでセール\n\nCore i5-9500T(6コア/6スレッド)を搭載したHP製ミニPC「EliteDesk 800 G5 DM」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で特価販売中。\n\nHP製ミニPC「EliteDesk 800 G5 DM」が30,800円、第9世代 Core搭載の中古Cランク品がQualitでセール\n\nCore i5-9500T(6コア/6スレッド)を搭載したHP製ミニPC「EliteDesk 800 G5 DM」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で特価販売中 。\n\n今回販売されているのは、「傷や使用感が見られる」(同店)というCランク中古品で、販売価格は30,800円。保証期間は12か月となっています。\n\n主な仕様は、メモリが8GB(空きスロット×1)、ストレージが256GB SSD、OSがWindows 11 Pro。インターフェイスには、DisplayPort×2やVGA、USB Type-Cなどを備えています。",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2124/418/a1.jpg"
     },
     {
       "Title": "【本日みつけたお買い得品】アイリスオーヤマの15.6型モバイルモニターが約4千円引き",
@@ -3169,15 +3187,6 @@
       "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2123/620/s1.jpg"
     },
     {
-      "Title": "ゼブラのインク開発ラボに潜入してきた。130年続く現場が面白すぎた",
-      "Link": "https://gori.me/ipad-accessories/ipad-prepherial/167911",
-      "Published": "2026-07-09T04:00:56Z",
-      "Source": "gori.me",
-      "Category": "取材",
-      "Summary": "ゼブラのインク開発ラボに潜入してきた。130年続く現場が面白すぎた\n\nゼブラの新製品発表会で、130年続くインク開発ラボに潜入できた。何百種類もの原料から数十種類を選び、撹拌機で丸2日混ぜ続ける。機械が合格を出しても最後は人が手書きで確かめる。ボールペン1本の裏に積み上がった試行錯誤を、現場で見てきたレポートとしてまとめた。\n\nゼブラのインク開発ラボに潜入してきた。130年続く現場が面白すぎた\n\n撹拌機で丸2日混ぜ続け、最後は人が手書きで確認。ボールペンの裏側を見てきた\n\nゼブラのインク開発ラボは創業家の実家があった場所に130年建ち続ける現場。狭い通路に機材が並び、少量のインクを何種類も作っては評価している\n\n独自の配合はあえて特許を取らないことも多い。出願するとレシピが公開され真似されるため、社内ノウハウとして秘匿する戦い方をとっている\n\n小さな瓶で完璧でも大量生産で崩れることは「しょっちゅうある」。機械測定に加え右利き・左利きなど人の手書きでも必ず検証する\n\nボールペンのインクは、いったいどこで、どうやって生まれているのだろう。 ゼブラの新製品「 スタイラス2WAY 」 の発表会に参加した僕は、その答えを見せてもらう幸運に恵まれた。130年ものあいだインクを作り続けてきた、社内の研究施設（ラボ）に潜入できたのだ。\n\nこのラボは、紙にも iPad にも1本で書ける新製品「スタイラス2WAY」を生んだ現場でもある。製品そのもののレビューは 別記事で詳しくまとめた ので、ここでは「インクがどう作られているのか」という裏側にどっぷり浸かってほしい。\n\nこのラボは、創業家の実家があった場所に130年建ち続ける、インク作りの心臓部だという。見せるための場所ではないぶん、通路も部屋も狭く、機材が所狭しと並んでいて、逆にたまらなくかっこいい。ちっちゃな瓶の中で少量のインクを何種類も何…",
-      "ImageURL": "https://gori.me/uploads/2026/07/nside-the-Zeba-Lab-03-800x600.jpg"
-    },
-    {
       "Title": "紙とiPad両方に書ける画期的なペン。ゼブラ「スタイラス2WAY」を触ってきた",
       "Link": "https://gori.me/ipad-accessories/ipad-prepherial/167903",
       "Published": "2026-07-09T04:00:56Z",
@@ -3185,6 +3194,15 @@
       "Category": "取材",
       "Summary": "紙とiPad両方に書ける画期的なペン。ゼブラ「スタイラス2WAY」を触ってきた\n\n1本で紙にもiPadにもそのまま書ける画期的なペンが誕生した。ゼブラの新製品「スタイラス2WAY」の発表会で実機に触れてきた。「つる抜け」という現象を逆手に取った仕組みや、開発者に聞いた狙いを詳しく紹介する。7月31日発売、市場想定価格は15,000円だ。\n\n紙とiPad両方に書ける画期的なペン。ゼブラ「スタイラス2WAY」を触ってきた\n\nApple Pencilの代わりになるのに、そのまま紙にも書ける。7月31日発売・約15,000円\n\nゼブラとエレコムが共同開発した「スタイラス2WAY」は、紙とiPadの両方に1本で書ける画期的なスタイラスボールペン。7月31日発売、市場想定価格15,000円\n\n印刷面などでインクが出なくなる「つる抜け」現象をあえて活かし、iPadでは出ず紙では出る書き分けを実現。インクは400種類以上を試作した\n\n筆圧・傾き検知はないが、Apple Pencil Pro（21,800円）より安い。紙とデジタルを頻繁に持ち替える学生や看護師に刺さる1本\n\nその瞬間、部屋のあちこちから「マジ」「おお」と声が漏れた。高価な iPad の画面に、ボールペンのペン先をそのまま走らせているのだ。\n\n「 ちょっと悪いことしてるような感覚になると思うんですけど、そのまま書いてください 」。スタッフに促され、参加者が恐る恐るペン先を下ろす。金属のペン先が画面を傷つけることもなく、ぬるりと文字を描いていく。僕も含め、その場にいた全員が思わず声をあげてしまった。\n\n正直に言うと、僕はこの瞬間、 めちゃくちゃ感動した 。まず普通に紙のNotesに書いて、その同じペンをそのまま iPad に走らせて書けたとき、あまりにも自然すぎて、一瞬何が起きたのか理解できなかったほどだ。ただのボールペンにしか…",
       "ImageURL": "https://gori.me/uploads/2026/07/Stylus-two-way-by-zebra-01-800x534.jpg"
+    },
+    {
+      "Title": "ゼブラのインク開発ラボに潜入してきた。130年続く現場が面白すぎた",
+      "Link": "https://gori.me/ipad-accessories/ipad-prepherial/167911",
+      "Published": "2026-07-09T04:00:56Z",
+      "Source": "gori.me",
+      "Category": "取材",
+      "Summary": "ゼブラのインク開発ラボに潜入してきた。130年続く現場が面白すぎた\n\nゼブラの新製品発表会で、130年続くインク開発ラボに潜入できた。何百種類もの原料から数十種類を選び、撹拌機で丸2日混ぜ続ける。機械が合格を出しても最後は人が手書きで確かめる。ボールペン1本の裏に積み上がった試行錯誤を、現場で見てきたレポートとしてまとめた。\n\nゼブラのインク開発ラボに潜入してきた。130年続く現場が面白すぎた\n\n撹拌機で丸2日混ぜ続け、最後は人が手書きで確認。ボールペンの裏側を見てきた\n\nゼブラのインク開発ラボは創業家の実家があった場所に130年建ち続ける現場。狭い通路に機材が並び、少量のインクを何種類も作っては評価している\n\n独自の配合はあえて特許を取らないことも多い。出願するとレシピが公開され真似されるため、社内ノウハウとして秘匿する戦い方をとっている\n\n小さな瓶で完璧でも大量生産で崩れることは「しょっちゅうある」。機械測定に加え右利き・左利きなど人の手書きでも必ず検証する\n\nボールペンのインクは、いったいどこで、どうやって生まれているのだろう。 ゼブラの新製品「 スタイラス2WAY 」 の発表会に参加した僕は、その答えを見せてもらう幸運に恵まれた。130年ものあいだインクを作り続けてきた、社内の研究施設（ラボ）に潜入できたのだ。\n\nこのラボは、紙にも iPad にも1本で書ける新製品「スタイラス2WAY」を生んだ現場でもある。製品そのもののレビューは 別記事で詳しくまとめた ので、ここでは「インクがどう作られているのか」という裏側にどっぷり浸かってほしい。\n\nこのラボは、創業家の実家があった場所に130年建ち続ける、インク作りの心臓部だという。見せるための場所ではないぶん、通路も部屋も狭く、機材が所狭しと並んでいて、逆にたまらなくかっこいい。ちっちゃな瓶の中で少量のインクを何種類も何…",
+      "ImageURL": "https://gori.me/uploads/2026/07/nside-the-Zeba-Lab-03-800x600.jpg"
     },
     {
       "Title": "ロジクール、ハプティクス機能搭載の新型プレゼンター「Spotlight 2」発売",
@@ -4267,15 +4285,6 @@
       "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2122/227/s1.jpg"
     },
     {
-      "Title": "GALLERIAとイラストレーター「しぐれうい」のコラボPCが登場",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2122402.html",
-      "Published": "2026-07-03T15:05:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "GALLERIAとイラストレーター「しぐれうい」のコラボPCが登場\n\nドスパラは、イラストレーター しぐれういさんとコラボレーションしたPC「GALLERIA しぐれういコラボモデル」の販売を開始した。\n\nGALLERIAとイラストレーター「しぐれうい」のコラボPCが登場\n\nドスパラは、イラストレーター しぐれういさんとコラボレーションしたPC「GALLERIA しぐれういコラボモデル」の販売を開始した。\n\n搭載CPU（Core Ultra 5 225F/Ryzen 7 7700/Core Ultra 7 270K Plus）やビデオカード（GeForce RTX 5070/5060）などの違いで計3モデルが用意されている。価格は329,980円～534,980円で、 GALLERIA esports Lounge ではしぐれういさんのサイン入り実機の展示が行われている。\n\nこのほか、発売を記念して、ドスパラ秋葉原本店、ドスパラ名古屋・大須店、ドスパラなんば店、ドスパラ津ラッツ店では、コラボパネルが期間限定で設置される。\n\n人気イラストレーターとコラボしたGALLERIAブランドのPC\n\nGALLERIA しぐれういコラボモデルは、イラストレーターのななさんによる描き下ろしイラストを採用するコラボレーションPC。監修はしぐれういさん。\n\n“雨宿り”をテーマにしており、フロントパネルには傘を持ったしぐれういさんが、サイドパネルにはアップで写るしぐれういさんが描かれている。\n\n購入特典として、専用壁紙やマウスカーソル、システムボイス、ステッカー、クリアポスターが同梱される。\n\n[取材協力: GALLERIA esports Lounge ]",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2122/402/a1.jpg"
-    },
-    {
       "Title": "新型iPad miniと折りたたみiPhone向けか〜サプライヤーがOLEDを増産へ",
       "Link": "https://iphone-mania.jp/iphone18-603141/",
       "Published": "2026-07-03T15:05:00Z",
@@ -4283,6 +4292,15 @@
       "Category": "製造",
       "Summary": "新型iPad miniと折りたたみiPhone向けか〜サプライヤーがOLEDを増産へ\n\n今秋に発表されると噂されている新型iPad miniと折りたたみiPhone向けに、OLEDディスプレイを独占供給するとみられるSamsung Displayが、増産を計画していることが明らかになりました。\n\n新型iPad miniと折りたたみiPhone向けか〜サプライヤーがOLEDを増産へ\n\n今秋に発表されると噂されている 新型iPad mini と 折りたたみiPhone 向けに、 OLEDディスプレイを独占供給するとみられるSamsung Display が、 増産を計画 していることが明らかになりました。\n\n増産対象はスマートフォンや小型タブレット向けの 第6世代OLEDディスプレイ 製造ラインとされており、 新型iPad mini や 折りたたみiPhone の量産準備と関連している可能性があります。\n\nSamsung Displayが増産を計画しているのは、 第6世代OLEDディスプレイ です。\n\n第6世代OLED（ガラス基板サイズ：1,500mm × 1,850mm） は、スマートフォンや小型タブレット向けのOLEDディスプレイ製造に適した世代で、iPhone17シリーズにも採用されているとされています。\n\nSamsung Displayは、ラップトップや10インチ以上のタブレット向けOLEDを効率的に製造できる 第8.6世代OLED（ガラス基板サイズ：2,290mm × 2,620mm）製造ライン も整備済みです。\n\nただし、 第8.6世代OLEDラインで製造されるApple向けパネル は、現時点ではMacBook Pro向けOLEDが中心になるとみられています。\n\nそのため、第6世代OLED製造ラインの生産規模拡大は、 新型iPad mini および 折りたたみiPhone 向けOLEDディスプレイの量産開始に備えた動きと考えられます。\n\n報道によれば、新設される第6世代OLED製造ラインには、ニコン製の露光装置が14台、キヤノントッキ製の蒸着装置が1台設置される…",
       "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/07/03/iPhone-Ultra-AH-0703.jpeg"
+    },
+    {
+      "Title": "GALLERIAとイラストレーター「しぐれうい」のコラボPCが登場",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2122402.html",
+      "Published": "2026-07-03T15:05:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "GALLERIAとイラストレーター「しぐれうい」のコラボPCが登場\n\nドスパラは、イラストレーター しぐれういさんとコラボレーションしたPC「GALLERIA しぐれういコラボモデル」の販売を開始した。\n\nGALLERIAとイラストレーター「しぐれうい」のコラボPCが登場\n\nドスパラは、イラストレーター しぐれういさんとコラボレーションしたPC「GALLERIA しぐれういコラボモデル」の販売を開始した。\n\n搭載CPU（Core Ultra 5 225F/Ryzen 7 7700/Core Ultra 7 270K Plus）やビデオカード（GeForce RTX 5070/5060）などの違いで計3モデルが用意されている。価格は329,980円～534,980円で、 GALLERIA esports Lounge ではしぐれういさんのサイン入り実機の展示が行われている。\n\nこのほか、発売を記念して、ドスパラ秋葉原本店、ドスパラ名古屋・大須店、ドスパラなんば店、ドスパラ津ラッツ店では、コラボパネルが期間限定で設置される。\n\n人気イラストレーターとコラボしたGALLERIAブランドのPC\n\nGALLERIA しぐれういコラボモデルは、イラストレーターのななさんによる描き下ろしイラストを採用するコラボレーションPC。監修はしぐれういさん。\n\n“雨宿り”をテーマにしており、フロントパネルには傘を持ったしぐれういさんが、サイドパネルにはアップで写るしぐれういさんが描かれている。\n\n購入特典として、専用壁紙やマウスカーソル、システムボイス、ステッカー、クリアポスターが同梱される。\n\n[取材協力: GALLERIA esports Lounge ]",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2122/402/a1.jpg"
     },
     {
       "Title": "Core 3搭載の7インチ2in1 PC「GPD MicroPC 2 天空オリジナルパッケージ」が発売",
@@ -4481,27 +4499,144 @@
       "Category": "プライムデー2026",
       "Summary": "Amazon Music Unlimitedが4カ月無料。音質より「Audible込み」がすごい理由\n\nAmazon Music Unlimitedが最初の4カ月無料に。最大4,320円分が0円だ。実は今の注目点は音質より、Audibleが毎月1冊付く点。単体1,500円のAudibleより安く、音楽もオーディオブックも1アプリで完結する。7月13日まで、解約方法や注意点も解説する。\n\nAmazon Music Unlimitedが4カ月無料。音質より「Audible込み」がすごい理由\n\n月1,080円で1億曲聴き放題＋オーディオブック毎月1冊。単体Audible（1,500円）より安い\"耳のサブスク一本化\"を4カ月0円で体験できる（7月13日まで）\n\n最初の4カ月無料で最大4,320円分が0円、期限は2026年7月13日まで\n\n月1,080円でAudible毎月1冊付き。単体1,500円のAudibleより安い\n\nHD・Ultra HD（24bit/192kHz）ハイレゾと空間オーディオも追加料金ゼロ\n\nAmazon Music Unlimited が 2026年7月13日まで の期間限定で、新規登録者向けに 最初の4カ月無料キャンペーン を実施している。通常月額1,080円（ プライム会員 価格）のサービスが、まるまる4カ月間0円。単純計算で 最大4,320円分がタダ になる、年に一度あるかないかの太っ腹なキャンペーンだ。\n\n「Spotifyも Apple Music も使ってるし、今さら乗り換える気はない」——そう思った人ほど、この記事を最後まで読んでほしい。 Amazon Music Unlimited は2025年以降、単なる音楽サブスクから 「耳で楽しむものが全部入ったプラットフォーム」 へと静かに、しかし決定的に進化した。4カ月あれば、その正体を見極めるには十…",
       "ImageURL": "https://gori.me/uploads/2026/07/PrimeDay-Logo-Top-01-800x534.jpg"
-    },
-    {
-      "Title": "Steam Machineを凌駕！DeskMeetとSteamOSでゲーミングPCを自作してみた",
-      "Link": "https://pc.watch.impress.co.jp/docs/topic/feature/2121983.html",
-      "Published": "2026-07-02T21:03:00Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "Steam Machineを凌駕！DeskMeetとSteamOSでゲーミングPCを自作してみた\n\n先日、Steam Machineの発売が開始された。\n\nSteam Machineを凌駕！DeskMeetとSteamOSでゲーミングPCを自作してみた\n\nスペックを見る限り、性能を確保しつつ可能な限り低価格に抑えるような努力を最大限払ったのであろうことが推測できる。しかし昨今のDRAMやNANDなどの価格上昇で、不本意な価格になってしまったであろう。ましてや日本では円安もあり、SSDが512GBのモデルでも19万円ほどになってしまった。それ以前に、数が少なかったようで、速攻売り切れになったのだが……。\n\nまた翌々日には、SteamOSの最新版(3.8)で、 AMD GPU搭載デスクトップとの互換性向上 が図られたことがアナウンスされた。\n\nこの流れはもう、AMD CPUとGPU(Radeon)でそれっぽい自作PCを1台組んでみるしかなくなってしまったのではないか。そう考えた筆者は、形が似ているベアボーン、 ASRockの「DeskMeet」 で組んでみることにした。\n\n果たして、自ら制限を課したこの自作PCは、どのぐらいSteam Machineのスペックや価格に迫れるのであろうか？\n\nDeskMeetは現在4種類発売されているが、Intel版の「B660」と「B760」に関しては入手困難なので、今後購入するとしたら「 X300 」か「 X600 」になる。X300はSocketAM4なのでメモリがDDR4となり安いが、PCIeの速度が3.0に制限される。一方X600はSocketAM5なのでメモリがDDR5となり高いが、PCIeが4.0または5.0で高速だ\n\n一方ビデオカードだが、DeskMeetに搭載できるGPUは200mmまでのものとなり、かなり制限されている。しかし…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2121/983/1.png"
-    },
-    {
-      "Title": "アキバお買い得価格情報（速報版） 【 調査日：2026年7月2日 】",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/sale/2122036.html",
-      "Published": "2026-07-02T15:20:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "アキバお買い得価格情報（速報版） 【 調査日：2026年7月2日 】\n\nツクモパソコン本店でも実施。\n\nCore i5-1145G7搭載のLIFEBOOK U9311/Fが39,800円など、中古品PCのセールを実施\n\n「夏得SALE」を実施、Western Digital 4TB HDDが22,980円など\n\nLexar製SSDの購入者にサッカーアルゼンチン代表ノベルティグッズをプレゼント\n\nCore i5-1145G7搭載のCF-FV1REAKSが52,800円など、中古品PCのセールを実施\n\nCore i5-8365U搭載のCF-SV8RDCVS 中古品が24,800円\n\n「ボーナスセール」を実施、CF-SV1中古品が42,800円など\n\nHPE OfficeConnect1920Sが1,500円など、ジャンク品セールを実施\n\nファミリーコンピュータMagazine 創刊号 古本が15,800円など\n\nゲーミングデバイスなどのセールを実施、SoundBLASTER GH7が5,980円など\n\nMSI製マザーボードとIntel製CPUの同時購入で最大16,500円引き\n\nCPUとマザーボードを含むPCパーツ一式またはG-GEARシリーズ購入で最大20,000ポイントプレゼント",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2122/036/0299hj2_s.jpg"
     }
   ],
   "world": [
+    {
+      "Title": "32 GB の RAM、マザーボード、リキッド AIO を備えた AMD Ryzen 7 9800X3D バンドルで 148 ドル節約 — わずか 1,039 ドルで AM5 ゲーム ビルドを始めましょう",
+      "Link": "https://www.tomshardware.com/pc-components/save-usd148-on-an-amd-ryzen-7-9800x3d-bundle-with-32gb-of-ram-motherboard-and-liquid-aio-start-your-am5-gaming-build-for-just-usd1-039",
+      "Published": "2026-07-20T11:06:38Z",
+      "Source": "Tom's Hardware",
+      "Category": "PC Components",
+      "Summary": "32 GB の RAM、マザーボード、リキッド AIO を備えた AMD Ryzen 7 9800X3D バンドルで 148 ドル節約 — わずか 1,039 ドルで AM5 ゲーム ビルドを始めましょう\n\nAM5 ゲームはありません\n\n32 GB の RAM、マザーボード、リキッド AIO を備えた AMD Ryzen 7 9800X3D バンドルで 148 ドル節約 — わずか 1,039 ドルで AM5 ゲーム ビルドを始めましょう\n\nAM5 ゲームは 2026 年に手の届かないものではない\n\n(画像クレジット: Newegg) 共有 リンクをコピー\n\nフォローしてください Google ニュースレターの優先ソースとして追加してください ニュースレターを購読してください RAM と SSD の価格設定の状況を考慮すると、2026 年にゲーミング PC を構築するのは困難ですが、不可能ではありません。市場で最高のゲーム CPU を搭載した AM5 ゲーミング PC が必要な場合は、Newegg でわずか 1,039 ドルで販売されている、32 GB の RAM、B850 マザーボード、240 mm AIO CPU クーラーを備えたこの AMD Ryzen 7 9800X3D バンドル以外に探す必要はありません。\n\nこれは、Newegg でのこれらのコンポーネントの定価から 148 ドルの節約になりますが、重要なのは、これらの部品をさまざまな小売店で全体の最安価格で個別に購入するよりも 100 ドル以上安いことです。したがって、これらのコンポーネントをバンドルすると、ゲーミング PC で 100 ドル以上節約できます。\n\nAMD Ryzen 7 9800X3D、Gigabyte B850 マザーボード、32GB Corsair Vengeance DDR5、CPU クーラーを 1,039 ドルで手に入れましょう。\n\nこのバンドルの主役は間違いなく AMD Ryzen 7 9800X3D です。市場で最速のゲーム用 CPU とは言えませんが、この巨大企業は、9850X3…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/6Uns6ECLCbULNMX949P3PU-1920-80.jpg"
+    },
+    {
+      "Title": "Logitech の G Pro X2 Superstrike ゲーミング マウスは、54 ドルの大幅割引を受けて 125.99 ドルです。ホール効果のハプティック スイッチ、8K ポーリング、最高のゲーム パフォーマンスを実現する 30 ミリ秒の高速クリックを備えています",
+      "Link": "https://www.tomshardware.com/peripherals/gaming-mice/logitechs-g-pro-x2-superstrike-gaming-mouse-is-usd125-99-after-getting-a-massive-usd54-discount-hall-effect-haptic-switches-8k-polling-and-30-ms-faster-clicks-for-peak-gaming-performance",
+      "Published": "2026-07-20T11:06:02Z",
+      "Source": "Tom's Hardware",
+      "Category": "Mice",
+      "Summary": "Logitech の G Pro X2 Superstrike ゲーミング マウスは、54 ドルの大幅割引を受けて 125.99 ドルです。ホール効果のハプティック スイッチ、8K ポーリング、最高のゲーム パフォーマンスを実現する 30 ミリ秒の高速クリックを備えています\n\n触覚クリックによる反応時間の短縮\n\nLogitech の G Pro X2 Superstrike ゲーミング マウスは、54 ドルの大幅割引を受けて 125.99 ドルです。ホール効果のハプティック スイッチ、8K ポーリング、最高のゲーム パフォーマンスを実現する 30 ミリ秒の高速クリックを備えています\n\n触覚クリックによる反応時間の短縮\n\n(画像クレジット: Future) リンクをコピーする\n\nフォローしてください Google ニュースレターの優先ソースとして追加してください ニュースレターを購読してください Logitech の最新ゲーミング マウスの割引を見た記憶があるのはこれが初めてです。これは、発売価格が非常に安定しているだけでなく、ゲーミングマウスとしては非常に高価であり、大多数のゲーマーにとって非常に不快なものであるため、私が注目しているマウスです。ただし、これらのハイテク ゲーム マウスが欲しい場合は、今日 Amazon で Logitech G Pro X2 Superstrike を 54 ドル引きで 125.99 ドルにすることができます。クリックしてチェックアウトに進むと、54 ドルの割引が自動的に適用されます。これは、Amazon でのマウスのこれまでの最安値です。\n\n● Amazon でこのセールをチェックしてください\n\nSuperstrike の際立った特徴は、ゲーミング キーボードとゲーミング マウスの世界の間の境界線を曖昧にすることです。従来のアナログ マウス スイッチが廃止され、副作用としてマウス クリックもなくなりました。マウスの左右ボタンの下にある最新のホール効果技術により、ロジクールが H.I.T.S. と呼ぶ触覚エンジンによってクリック フィー…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/tMjVZSj8NDFKmQC4EcFNiY-1920-80.jpg"
+    },
+    {
+      "Title": "China just had another DeepSeek moment, and its new AI model is rattling global markets",
+      "Link": "https://www.tweaktown.com/news/112697/china-just-had-another-deepseek-moment-and-its-new-ai-model-is-rattling-global-markets/index.html",
+      "Published": "2026-07-20T11:02:07Z",
+      "Source": "TweakTown",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "マラソンゲームディレクターのJoseph Ziegler氏がBungieを退社",
+      "Link": "https://www.kitguru.net/tech-news/mustafa-mahmoud/marathon-game-director-joseph-ziegler-has-left-bungie/",
+      "Published": "2026-07-20T11:00:39Z",
+      "Source": "KitGuru",
+      "Category": "Valorant",
+      "Summary": "マラソンゲームディレクターのJoseph Ziegler氏がBungieを退社\n\n2022 年に入社した後、マラソン ゲーム ディレクターの「Joseph Ziegler」がスタジオ Bungie からの退社を発表しました。\n\nマラソンゲームディレクターのJoseph Ziegler氏がBungieを退社\n\nMustafa Mahmoud 13 分前 コンソール , 注目の技術ニュース , ソフトウェアとゲーム , 技術ニュース\n\n2026 年は Bungie にとってひどい年でした。 『マラソン』は大きな視聴者層を獲得できず、『Destiny 2』はほぼ閉鎖に追い込まれているため、かつては象徴的だったこのスタジオの将来は依然として流動的です。混乱にさらに拍車をかけたのが、『Marathon』のゲームディレクターであるJoseph Ziegler氏がスタジオを離れることを発表したことだ。ジョゼフ・ジーグラー氏はツイッターで発表し、「7月17日金曜日が私にとってBungieでの最後の日となる。私はゲームディレクターの職を非常に有能で素晴らしいデル・チェーフェ3世に引き継ぐことになる。デル・チェーフェ三世はクリエイティブ・ディレクターのジュリア・ナルディンとともにゲームを前進させることになる。両名ともチームのために強力なリーダーシップを発揮しており、マラソンをより良く、より明るく次の章に導く準備ができている」と述べた。未来。」業界のベテランであるグレン・スコフィールド氏が最近引退したのとは異なり、ジーグラー氏は今のところゲーム業界に留まるようで、「私に関して言えば、どこか別の新しいことに向かう予定で、どこで何をするかについてはすぐにお知らせします。暗く恐ろしい宇宙サバイバルのフロンティアをスクリーンにもたらすという風の強いミッションで私とマラソンをサポートしてくれた皆さんに心から感謝したいと思います。」と付け加えた。投稿全文は こちら にあり、Ziegler 氏の仲間の Bungie 開発者に対する好意的な言葉がたくさん含まれています。初心者のために説明すると、ジョセフ・ジ…",
+      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/07/marathon-732x330.jpg"
+    },
+    {
+      "Title": "Microsoft PowerToys が静かにドックを追加し、アプリのワークフロー全体が 1 キーストロークで完了しました",
+      "Link": "https://www.xda-developers.com/microsoft-powertoys-dock-keeps-my-app-workflow-one-keystroke-away/",
+      "Published": "2026-07-20T11:00:10Z",
+      "Source": "XDA",
+      "Category": "Microsoft PowerToys",
+      "Summary": "Microsoft PowerToys が静かにドックを追加し、アプリのワークフロー全体が 1 キーストロークで完了しました\n\nPowerToys のコマンド パレット ドックは、豊富なカスタマイズを備えた、Windows タスクバーに代わる完全な機能を提供します。\n\nMicrosoft PowerToys が静かにドックを追加し、アプリのワークフロー全体が 1 キーストロークで完了しました\n\nBy Abhishek Kumar Mishra 公開 2026 年 7 月 20 日、午前 7:00 EDT アビシェクは、コンピューティングをカバーする XDA の著者です。 2012 年に Lenovo G570 を購入して以来、彼はコンピューターが大好きです。アビシェクはコンピューター アプリケーションの修士号を取得し、2018 年に執筆活動を始めました。人気のあるオペレーティング システムや Web サービスに関するハウツー記事、リスト、情報投稿を書くのが大好きです。彼は Windows Insider プログラムを注意深くフォローし、新しい Insider ビルドをテストして、今後の実験的な機能やアップグレードを発見します。彼のこれまでの仕事には、「Tom's Hardware」や「Windows Most」などの評判の高い出版物との長期にわたるコラボレーションが含まれます。何も書いていないときは、ワンピースの新しいエピソードを見たり、夢中になれる何かを探したりして忙しいです。 XDA アカウントにサインインする PowerToys には、現在コマンド パレットと呼ばれる改良版の Run ランチャーを含む 30 以上の便利なツールがあります。私はかなり長い間、スタート メニューの代わりにコマンド パレットを使用してきましたが、思ったよりもうまく機能します。コマンド パレットからアプリの起動、コマンドの実行、ファイルの検索、PowerToys ツールの管理を行うことができます。\n\nこれはすでに Windows ランチャーにふさわしいものですが、PowerToys は最近…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/powertoys-command-palette-windows-11-pc.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "Globalscale Case8 – ゲーム、ホーム オートメーション、教育向け MediaTek Genio 520/720 サイバーデッキ (クラウドファンディング)",
+      "Link": "https://www.cnx-software.com/2026/07/20/globalscale-case8-mediatek-genio-520-720-cyberdeck-for-gaming-home-automation-and-education/",
+      "Published": "2026-07-20T10:59:35Z",
+      "Source": "CNX Software",
+      "Category": "zigbee",
+      "Summary": "Globalscale Case8 – ゲーム、ホーム オートメーション、教育向け MediaTek Genio 520/720 サイバーデッキ (クラウドファンディング)\n\nGlobalscale Technologies は、MediaTek Genio 520 および Genio 720 をベースにしたオープンソースのサイバーデッキ スタイルのコンピューティング プラットフォームの Case8 シリーズを発売しました。\n\nGlobalscale Technologies は、MediaTek Genio 520 および Genio 720 プロセッサーをベースとしたオープンソースのサイバーデッキ スタイルのコンピューティング プラットフォームの Case8 シリーズを発売しました。このプラットフォームは、ハッカー (PCBA のみ)、ゲーム、ホーム オートメーション、および教育のバリエーションで提供されます。\n\nCase8 は、最大 8 コアの MediaTek Genio 520 または Genio 720 SoC、Mali-G67 GPU、および 10 TOPS NPU を備えた OSM-L コンピューティング モジュールを中心に構築されています。構成に応じて、4GB、8GB、または 16GB LPDDR5 メモリと 64GB または 128GB UFS ストレージが付属し、ギガビット イーサネット、Wi-Fi 6、Bluetooth 5.4、ステレオ スピーカー、マイク、およびオプションの 4G/5G 接続が付属します。ディスプレイ オプションには、ゲーム モデル用の 5 インチ パネルと、ホーム オートメーションおよび教育向けモデル用の 7 インチのタッチまたは非タッチ ディスプレイが含まれており、カメラ構成はモデルによって異なります。\n\nCase8 サイバーデッキ プラットフォームの仕様:\n\nOSM-L コンピューティング モジュール (いずれか) MediaTek Genio 520 CPU – 2x Cortex-A78 (最大 2.2 GHz)、6…",
+      "ImageURL": "https://www.cnx-software.com/wp-content/uploads/2026/07/Case8-Platfrom-with-gaming-home-automation-and-education-variants.jpg"
+    },
+    {
+      "Title": "新しい Android Developer Verifier アプリを見つけましたか?アンインストールする前にこれをお読みください",
+      "Link": "https://www.androidauthority.com/android-developer-verifier-app-rollout-3689106/",
+      "Published": "2026-07-20T10:55:13Z",
+      "Source": "Android Authority",
+      "Category": "Google Play Store",
+      "Summary": "新しい Android Developer Verifier アプリを見つけましたか?アンインストールする前にこれをお読みください\n\nあなたの携帯電話に新しい Android Developer Verifier アプリを見つけましたか?このシステム サービスをまだアンインストールすべきではない理由は次のとおりです。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\n新しい Android Developer Verifier アプリを見つけましたか?アンインストールする前にこれをお読みください\n\n0 • Aamir Siddiqui / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR ユーザーは、今後のサイドローディング制限に備えるために、新しい「Android Developer Verifier」アプリ (com.google.android.verifier) が Android スマートフォンにサイレント インストールされていることに気づいています。\n\nアプリは、サイドロードされたアプリが法的に検証された開発者プロファイルに属しているかどうかを確認します。これは、高圧的なソーシャル エンジニアリング詐欺を阻止するための 24 時間の待機と電話の再起動を含む、Google の今後のサイドローディング制限の一部です。\n\n9 月 30 日に一部の地域でロールアウトが開始されるため、アプリは現在ほとんどのユーザーにとって休止状態です。パワー ユーザーは、ADB 経由でアプリをインストールすることで、24 時間の待機期間を完全に回避できます。\n\n最近 Android スマートフォンにインストールされているアプリをチェックした場合は、新しい「Android Developer Verifier」アプリがスマートフォンにサイレント インストールされているのを見つけてびっくりしたかもしれません。過去 1 週間にわた…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Android-Developer-Verifier-app-on-Google-Play-Store.jpg"
+    },
+    {
+      "Title": "北朝鮮製のこの奇妙な Pixel 8 Pro クローンは、驚くべき方法で Google のフラッグシップを打ち破る",
+      "Link": "https://www.androidauthority.com/google-pixel-8-pro-north-korean-clone-3689117/",
+      "Published": "2026-07-20T10:47:37Z",
+      "Source": "Android Authority",
+      "Category": "Google Pixel 8",
+      "Summary": "北朝鮮製のこの奇妙な Pixel 8 Pro クローンは、驚くべき方法で Google のフラッグシップを打ち破る\n\n北朝鮮のPixel 8 Proクローンには、16GB RAM、ロック解除されたブートローダー、そしてGoogleのフラッグシップ製品と比べていくつかの驚くべき利点が詰め込まれています。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\n北朝鮮製のこの奇妙な Pixel 8 Pro クローンは、驚くべき方法で Google の主力製品を破る\n\n0 • Stephen Radochia / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR 北朝鮮の Pixel 8 Pro クローンは、16 GB RAM、256 GB ストレージ、120 Hz ディスプレイ、ロック解除されたブートローダーを搭載しながら、Google のフラッグシップを模倣しています。\n\nこの携帯電話は性能の低い MediaTek Dimensity 7050 チップを使用していますが、継続的なワークロードの下では Pixel 8 Pro よりも著しく動作温度が低くなります。\n\nこのクローンは、望遠マクロ撮影など、いくつかのニッチな領域では本物の Pixel よりも優れています。\n\nクローン携帯電話には通常、電源を入れるまでは本物のように見えるという利点があります。しかし、この北朝鮮のPixel 8 Proコピーは非常に珍しいものです。 Google のデザインを借用していますが、16 GB の RAM と、本物の Pixel 8 Pro ですら太刀打ちできない予期せぬトリックもいくつか搭載されています。\n\nこの携帯電話は最近、YouTuber fenibook (NotebookCheck 経由) の実践ビデオに登場し、「People's Pixel」という愛称が付けられました。評論家はまた、この端末にはもともと背面に北朝鮮のロゴが…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Pixel-8-Pro-on-rock-scaled.jpg"
+    },
+    {
+      "Title": "Man sues JPMorgan for approving mortgage on $5.5m mansion headed for the sea",
+      "Link": "https://www.tweaktown.com/news/112708/man-sues-jpmorgan-for-approving-mortgage-on-dollars5-5m-mansion-headed-for-the-sea/index.html",
+      "Published": "2026-07-20T10:46:07Z",
+      "Source": "TweakTown",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "Amazon confirms some customers are waking up to billion-dollar bills for cloud services they didn't use",
+      "Link": "https://www.tweaktown.com/news/112699/amazon-confirms-some-customers-are-waking-up-to-billion-dollar-bills-for-cloud-services-they-didnt-use/index.html",
+      "Published": "2026-07-20T10:31:08Z",
+      "Source": "TweakTown",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "サムスンは、自社が依然として最もエキサイティングな Android ブランドの 1 つであることを証明しようとしている",
+      "Link": "https://www.androidauthority.com/samsung-unpacked-most-exciting-android-brand-fold-8-3688522/",
+      "Published": "2026-07-20T10:30:58Z",
+      "Source": "Android Authority",
+      "Category": "Samsung One UI",
+      "Summary": "サムスンは、自社が依然として最もエキサイティングな Android ブランドの 1 つであることを証明しようとしている\n\n最近の携帯電話の発売は退屈なものだったが、7 月 22 日からの Samsung Unpacked が心地よい違いをもたらす可能性がある 4 つの理由を以下に挙げる。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nサムスンは、自社が依然として最もエキサイティングな Android ブランドの 1 つであることを証明しようとしている\n\n0 • Evan Blass Google Discover でフォローしてください 優先ソースとして追加してください 携帯電話の発売は、かつてほど特別で、爽快で、夢中になれるようなものではなくなりました。スラブ電話は長い間退屈であり、さらに悪いことに、Apple、Google、Samsung などの大手ブランドは、「新」製品の発売を最小限のハードウェアまたはソフトウェアの変更に制限することがよくあります。 Samsung の最新の Unpacked はその典型的な例で、Galaxy S26 Ultra のプライバシー ディスプレイの糸が緩んでいたため、私たちの興味は失われていました。確かに、他の 2 つの S26 携帯電話にも有益な改良点はありましたが、魅力的なものには程遠いものでした。\n\nこの Unpacked は、Galaxy Z Fold 7 と Flip 7 のルートアップグレードに加えて、Samsung がまったく新しい製品を投入しているため、これまでとは違うように感じられます。それは、できれば製品ラインに拡張できる可能性がある製品です。ショーの主役は、サムスンの幅広の新しい Fold 8 です。その栄光に加えて、いくつかの小さいながらも意味のある機能強化が行われ、これが長年で最もエキサイティングな Samsung Unpacked イベントの 1 つとなっています。\n\n7 月 22 日にロンドンで開催される Unpacked で …",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/fold-8-blass-leak.jpg"
+    },
+    {
+      "Title": "LG モニターが Windows PC にアドウェアをサイレントにインストールしている",
+      "Link": "https://www.androidauthority.com/lg-monitors-adware-app-install-windows-pc-3689115/",
+      "Published": "2026-07-20T10:30:54Z",
+      "Source": "Android Authority",
+      "Category": "PC",
+      "Summary": "LG モニターが Windows PC にアドウェアをサイレントにインストールしている\n\nLG モニターを接続した後、Windows PC にアドウェアが表示されますか?多くの人がこの問題に気づいているので、あなたは一人ではありません。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nLG モニターが Windows PC にアドウェアをサイレントにインストールしている\n\n0 • Edgar Cervantes / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR LG は、モニターを Windows PC に接続したときに実質的にアドウェアであるものをインストールしたとして非難を浴びています。\n\n会社は、McAfee ウイルス対策保護のポップアップ広告を配信するアプリをインストールしています。\n\n影響を受けるモニターの 1 つは推奨価格が 1,000 ドルを超えているため、これは特にひどいことです。\n\nWindows に関する最も永続的な問題の 1 つは、Microsoft とパートナーが PC に大量のソフトウェアをインストールするため、ブロートウェアです。残念ながら、LG のモニターの一部を Windows マシンに接続すると、同じことをしているようです。\n\nGamers Nexus (H/T: Videocardz ) は、LG が Windows PC のポップアップに McAfee ウイルス対策サブスクリプションを表示するソフトウェアを自動的かつサイレントにインストールしていると主張するビデオを投稿しました。 LG Monitor App Installer と呼ばれるこのソフトウェアは、LG UltraGear 34GX900A-B モニターに接続するとダウンロードしてインストールされます。ただし、このソフトウェアと関連するポップアップは、3 年前の LG UltraFine 32UN880-B…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/02/LG-logo-stock-photo.jpg"
+    },
+    {
+      "Title": "新しい Humble 2K MegaHits バンドルには 15 の素晴らしいゲームが含まれており、価格は 12 ポンドです",
+      "Link": "https://www.kitguru.net/desktop-pc/mustafa-mahmoud/new-humble-2k-megahits-bundle-includes-15-great-games-for-12/",
+      "Published": "2026-07-20T10:15:38Z",
+      "Source": "KitGuru",
+      "Category": "Xcom",
+      "Summary": "新しい Humble 2K MegaHits バンドルには 15 の素晴らしいゲームが含まれており、価格は 12 ポンドです\n\nHumble は、Borderlands 3、XCOM、Risk of Rain 2 などを含む 15 のゲームを収録した充実した 2K MegaHits バンドルを提供しています。\n\n新しい Humble 2K MegaHits バンドルには 15 の素晴らしいゲームが含まれており、価格は 12 ポンドです\n\nMustafa Mahmoud 58 分前 注目のテクノロジー ニュース , PC , ソフトウェア \u0026 ゲーム , テクノロジー ニュース\n\nHumble Bundle は、PC プレーヤーが幅広いゲームを比較的低価格で入手できる優れた方法です。パブリッシャー 2K の歴史を記念して、Humble は現在、Risk of Rain 2 などを含む MegaHits バンドルを提供しています。ボーダーランズ3;マフィア2; XCOM など。大多数の Humble Bundle とは異なり、2K MegaHits バンドルは 1 つの形式でのみ購入できます。£13.44 を支払うと合計 15 タイトルが得られます: XCOM Enemy Unknown\n\nDuke Nukem 3D: 20 周年記念ワールド ツアー\n\nブレットストーム: フルクリップ エディション\n\nホームワールド リマスター コレクション\n\nトライブ オブ ミッドガルド デラックス エディション\n\nもちろん、すべてのゲームがすべての人に適しているわけではありません。それでも、このバンドルには、ローグライク (Risk of Rain 2) であろうと、多種多様なコンテンツが含まれています。略奪者射手 (ボーダーランズ);アクション FPS ゲーム (The Darkness II、Bulletstorm、Bioshock);選択ベースの物語のタイトル (The Quarry)。または戦略ゲーム (XCOM)。見逃した方のために、ネオン ホワイト、チュニック、シー オブ …",
+      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/07/2k_waifu2x_art_noise1_scale-732x330.png"
+    },
+    {
+      "Title": "Mexican government put PlayStation in its crosshairs over physical disk phase out",
+      "Link": "https://www.tweaktown.com/news/112649/mexican-government-put-playstation-in-its-crosshairs-over-physical-disk-phase-out/index.html",
+      "Published": "2026-07-20T10:15:04Z",
+      "Source": "TweakTown",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "Pixel 11 Pro の LED ライトは素晴らしい Android の先祖返りです",
+      "Link": "https://www.androidauthority.com/pixel-11-pro-pixel-glow-throwback-3688717/",
+      "Published": "2026-07-20T10:00:20Z",
+      "Source": "Android Authority",
+      "Category": "Google Pixel 11",
+      "Summary": "Pixel 11 Pro の LED ライトは素晴らしい Android の先祖返りです\n\nGoogleはついにPixel 11 Proの新しいPixel Glow機能をからかいました。良い意味で、昔ながらの通知 LED を思い出させます。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nAndroid スマートフォン Pixel 11 Pro の LED ライトは、素晴らしい Android の先祖返りです\n\n0 • Google Google Discover でフォローしてください 優先ソースとして追加してください 先週、Pixel 11 Pro の新機能の 1 つである Pixel Glow を初めて実際に見ていきました。私たちはここ数か月間、Pixel 11 Pro のカメラバーに埋め込まれた色が変化するライトの配列である Pixel Glow に関する舞台裏の開発を追ってきました。\n\n先週の水曜日に Google がそれを披露するアニメーションを公開するまで、それが実際にどのようなものになるのか、私たちは知りませんでした。ありがたいことに、それは上品に実行された思慮深い追加のようです。しかし、それは明らかに Android の先祖返りである控えめな通知 LED を現代化したようにも感じられます。\n\n常時表示のディスプレイが標準になる前、多くの Android スマートフォンには色が変化する LED ライトが搭載されており、スマートフォンの画面がオフのときにも基本的な情報を伝達できました。 LG、HTC、Samsung などのデバイスには、さまざまなアプリや連絡先からの通知を示すために、さまざまな色や順序で点灯する LED が搭載されていました。これまでに見てきたことから、Pixel Glow も同様に機能します。\n\n文句を言っているわけではありませんが、Pixel 11 Pro の特徴の 1 つが 2010 年代初頭に一般的だった機能を再考したものであるということは、現代のスマートフ…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/pixel-11-google-store-teaser.jpg"
+    },
     {
       "Title": "その価格にもかかわらず、Valve は毎週最大 15,000 台の Steam Machine を販売していると報告されています",
       "Link": "https://www.xda-developers.com/despite-its-price-valve-reportedly-sells-around-15000-steam-machines-a-week/",
@@ -5403,15 +5538,6 @@
       "ImageURL": "https://www.igorslab.de/wp-content/uploads/2026/07/ed2e886b-d9d0-4850-8fb7-d47e68ac8930.jpg"
     },
     {
-      "Title": "マリオカート Wii が PC 用に静的に再コンパイル中: パブリックベータは 8 月に開始",
-      "Link": "https://www.igorslab.de/en/mario-kart-wii-static-recompiled-pc-public-beta-august/",
-      "Published": "2026-07-19T04:00:22Z",
-      "Source": "igor'sLAB",
-      "Category": "Latest news",
-      "Summary": "マリオカート Wii が PC 用に静的に再コンパイル中: パブリックベータは 8 月に開始\n\nPatchzy は、Wii ゲームの最初の静的再コンパイルとしてマリオカート Wii をコンパイルしたことを発表しました。\n\nマリオカート Wii は、すでに何年も前から Dolphin 経由で最新の PC 上で実行されています。それにもかかわらず、開発者は非常に複雑なルートを選択しました。ゲームプレイ中に Wii ハードウェアをエミュレートする代わりに、元のプログラム コードが PC 用に事前に変換されることです。 Patchzy という名前で活動している開発者は、2026 年 7 月 15 日にプロジェクト「マリオカート Wii コンパイル」を発表しました。彼の声明によれば、これは Wii ゲームの静的再コンパイルとしては初めてです。パブリック ベータ版は 2026 年 8 月にリリースされる予定で、すでにオンライン レースとレトロ リワインド修正のオプション サポートを提供する予定です。これにより、200 以上のトラックを利用できるようになります。\n\n古典的なエミュレーションの代わりに静的再コンパイル\n\n古典的なエミュレーションでは、ソフトウェアは元のコンソールの重要なコンポーネントを再現します。特に、Dolphin は PowerPC プロセッサ、グラフィックス チップ、メモリ アクセス、システム機能、および Wii のさまざまな入力デバイスをエミュレートします。マシンコードは通常、実行時にホスト システムのアーキテクチャに変換されます。対照的に、静的再コンパイルでは、既存のマシン コードを事前に分析し、ターゲット プラットフォームで実行可能なコードに変換します。 Wii 固有のシステム コール、メモリ アクセス、およびハードウェア機能は、適合したランタイム ライブラリまたは新しく実装されたインターフェイスを介してインターセプトする必要があります。したがって、このプロセスでは、コンソール ゲームが完全に書き直された PC 移植版に自動的に変換されるわけではありません。…",
-      "ImageURL": "https://www.igorslab.de/wp-content/uploads/2026/07/tdoenmqedzdfrfpcpsdh.jpg"
-    },
-    {
       "Title": "クアルコム、Snapdragon コントロール パネルを改訂: Arm 上の Windows でゲームとドライバーのメンテナンスが強化",
       "Link": "https://www.igorslab.de/en/qualcomm-snapdragon-control-panel-windows-arm-gaming-driver/",
       "Published": "2026-07-19T04:00:22Z",
@@ -5419,6 +5545,15 @@
       "Category": "Snapdragon Control Panel",
       "Summary": "クアルコム、Snapdragon コントロール パネルを改訂: Arm 上の Windows でゲームとドライバーのメンテナンスが強化\n\nクアルコムは、Windows-on-Arm 用に Snapdragon コントロール パネルを改訂しています。ゲーム ライブラリ、Adreno GPU ドライバー、および Hexagon NPU ドライバーがより直接的に統合されています。\n\nArm 上の Windows は、純粋なパフォーマンスの問題ではなく、信頼性の問題に直面しています。ユーザーは、ゲームが起動するかどうか、ドライバーが最新であるかどうか、ソフトウェアのメンテナンスが半分だけでシステムが洗練された特別なケースのように感じられないかどうかを知りたいと考えています。クアルコムはまさにそれに対処しており、Snapdragon コントロール パネルを改訂しました。それは小さなソフトウェアの通知のように聞こえますが、Snapdragon X ノートブックにとっては、一見したように見えるよりも重要です。VideoCardz は、Qualcomm が当初 Reddit または Snapdragon コミュニティを通じて発表した Snapdragon コントロール パネルのアップデートについて報告しています。新しいバージョンでは、ゲーム ライブラリが改訂され、ソフトウェア アップデート ページが統合され、Hexagon NPU ドライバーが Adreno GPU ドライバーとより直接的に統合されるようになりました。 Windows Central と GamesRadar は同じ変更をカバーしており、ゲームや AI ワークロード向けに Snapdragon X システムをより適切に準備するためのステップとして解釈しています。\n\n重要なポイントは統合です。 Snapdragon コントロール パネルは、インストールされているゲームを検出し、プロファイルを管理し、ワンクリックでゲームを最適化することを目的としています。アップデートにより、ゲームライブラリのナビゲーションが見直され、お気…",
       "ImageURL": "https://www.igorslab.de/wp-content/uploads/2026/07/Screenshot-2026-07-18-220545.jpeg"
+    },
+    {
+      "Title": "マリオカート Wii が PC 用に静的に再コンパイル中: パブリックベータは 8 月に開始",
+      "Link": "https://www.igorslab.de/en/mario-kart-wii-static-recompiled-pc-public-beta-august/",
+      "Published": "2026-07-19T04:00:22Z",
+      "Source": "igor'sLAB",
+      "Category": "Latest news",
+      "Summary": "マリオカート Wii が PC 用に静的に再コンパイル中: パブリックベータは 8 月に開始\n\nPatchzy は、Wii ゲームの最初の静的再コンパイルとしてマリオカート Wii をコンパイルしたことを発表しました。\n\nマリオカート Wii は、すでに何年も前から Dolphin 経由で最新の PC 上で実行されています。それにもかかわらず、開発者は非常に複雑なルートを選択しました。ゲームプレイ中に Wii ハードウェアをエミュレートする代わりに、元のプログラム コードが PC 用に事前に変換されることです。 Patchzy という名前で活動している開発者は、2026 年 7 月 15 日にプロジェクト「マリオカート Wii コンパイル」を発表しました。彼の声明によれば、これは Wii ゲームの静的再コンパイルとしては初めてです。パブリック ベータ版は 2026 年 8 月にリリースされる予定で、すでにオンライン レースとレトロ リワインド修正のオプション サポートを提供する予定です。これにより、200 以上のトラックを利用できるようになります。\n\n古典的なエミュレーションの代わりに静的再コンパイル\n\n古典的なエミュレーションでは、ソフトウェアは元のコンソールの重要なコンポーネントを再現します。特に、Dolphin は PowerPC プロセッサ、グラフィックス チップ、メモリ アクセス、システム機能、および Wii のさまざまな入力デバイスをエミュレートします。マシンコードは通常、実行時にホスト システムのアーキテクチャに変換されます。対照的に、静的再コンパイルでは、既存のマシン コードを事前に分析し、ターゲット プラットフォームで実行可能なコードに変換します。 Wii 固有のシステム コール、メモリ アクセス、およびハードウェア機能は、適合したランタイム ライブラリまたは新しく実装されたインターフェイスを介してインターセプトする必要があります。したがって、このプロセスでは、コンソール ゲームが完全に書き直された PC 移植版に自動的に変換されるわけではありません。…",
+      "ImageURL": "https://www.igorslab.de/wp-content/uploads/2026/07/tdoenmqedzdfrfpcpsdh.jpg"
     },
     {
       "Title": "TSMC A14、SRAM歩留まり90パーセント近くを達成：リスク生産は2027年に開始",
@@ -6177,15 +6312,6 @@
       "ImageURL": "https://www.techpowerup.com/img/7GhpWGPbhzwlKHv3.jpg"
     },
     {
-      "Title": "ZA/UM、『ゼロ・パレード:フォー・デッド・スパイ』の発売が中途半端でスタッフを解雇",
-      "Link": "https://www.techpowerup.com/350858/za-um-lays-off-staff-after-middling-zero-parades-for-dead-spies-launch",
-      "Published": "2026-07-18T00:12:44Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "ZA/UM、『ゼロ・パレード:フォー・デッド・スパイ』の発売が中途半端でスタッフを解雇\n\n『Disco Elysium』の中程度の成功を受けて、ZA/UM は 5 月 21 日に『Zero Parades: For Dead Spies』をリリースし、新しいスパイ スリラー RPG にスタジオの野望を乗せました。残念ながら、スタジオの X アカウントでの 7 月 17 日の発表で確認されたように、それはうまくいかなかったようです。で...\n\nZA/UM、『ゼロ・パレード:フォー・デッド・スパイ』の発売が中途半端でスタッフを解雇\n\nX の ZA/UM Studio 今日は難しいニュースをお伝えします。 『Zero Parades: For Dead Spies』は批評家から高い評価を得てリリースされましたが、商業的なパフォーマンスでは現在の規模のスタジオを維持することはできませんでした。私たちは、ZA/UM Studio の全部門の最大 32 人の同僚に影響を与える人員削減または危険性の通知を提供しました。彼らの仕事は永続的な変化をもたらし、Zero Parades: For Dead Spies、そしてスタジオ全体にその痕跡を残しました。この困難なプロセスを通じて、私たちはZA/UM労働者同盟の代表者と協議し、協力し続けてきました。これにより ZA/UM の形状は変わりますが、その目的は変わりません。私たちの芸術的基準は変わりません: 私たちは粘り強く取り組みます 現在雇用している皆さん、同僚が ZA/UM を辞めることを考慮してください。\n\n2026 年 6 月 10 日 ユービーアイソフト、複数のスタジオで数百人のスタッフを解雇 (57)\n\n2026 年 7 月 6 日 Xbox、「年間リセット」で 3,200 人の従業員を解雇へ (33)\n\n2026 年 6 月 30 日 Xbox がプロジェクト資金を撤退した後、IO インタラクティブは人員削減を余儀なくされる (16)\n\n2026年6月27日 ユービーアイソフト・バルセロナ、レイオフを巡るストライキへ (33)…",
-      "ImageURL": "https://www.techpowerup.com/img/nz36Vujum1POWIWt.jpg"
-    },
-    {
       "Title": "Disco Elysium Studio Fires Workers After Failed Game Launch",
       "Link": "https://www.techpowerup.com/350858/disco-elysium-studio-fires-workers-after-failed-game-launch",
       "Published": "2026-07-18T00:12:44Z",
@@ -6193,6 +6319,15 @@
       "Category": "",
       "Summary": "",
       "ImageURL": ""
+    },
+    {
+      "Title": "ZA/UM、『ゼロ・パレード:フォー・デッド・スパイ』の発売が中途半端でスタッフを解雇",
+      "Link": "https://www.techpowerup.com/350858/za-um-lays-off-staff-after-middling-zero-parades-for-dead-spies-launch",
+      "Published": "2026-07-18T00:12:44Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "ZA/UM、『ゼロ・パレード:フォー・デッド・スパイ』の発売が中途半端でスタッフを解雇\n\n『Disco Elysium』の中程度の成功を受けて、ZA/UM は 5 月 21 日に『Zero Parades: For Dead Spies』をリリースし、新しいスパイ スリラー RPG にスタジオの野望を乗せました。残念ながら、スタジオの X アカウントでの 7 月 17 日の発表で確認されたように、それはうまくいかなかったようです。で...\n\nZA/UM、『ゼロ・パレード:フォー・デッド・スパイ』の発売が中途半端でスタッフを解雇\n\nX の ZA/UM Studio 今日は難しいニュースをお伝えします。 『Zero Parades: For Dead Spies』は批評家から高い評価を得てリリースされましたが、商業的なパフォーマンスでは現在の規模のスタジオを維持することはできませんでした。私たちは、ZA/UM Studio の全部門の最大 32 人の同僚に影響を与える人員削減または危険性の通知を提供しました。彼らの仕事は永続的な変化をもたらし、Zero Parades: For Dead Spies、そしてスタジオ全体にその痕跡を残しました。この困難なプロセスを通じて、私たちはZA/UM労働者同盟の代表者と協議し、協力し続けてきました。これにより ZA/UM の形状は変わりますが、その目的は変わりません。私たちの芸術的基準は変わりません: 私たちは粘り強く取り組みます 現在雇用している皆さん、同僚が ZA/UM を辞めることを考慮してください。\n\n2026 年 6 月 10 日 ユービーアイソフト、複数のスタジオで数百人のスタッフを解雇 (57)\n\n2026 年 7 月 6 日 Xbox、「年間リセット」で 3,200 人の従業員を解雇へ (33)\n\n2026 年 6 月 30 日 Xbox がプロジェクト資金を撤退した後、IO インタラクティブは人員削減を余儀なくされる (16)\n\n2026年6月27日 ユービーアイソフト・バルセロナ、レイオフを巡るストライキへ (33)…",
+      "ImageURL": "https://www.techpowerup.com/img/nz36Vujum1POWIWt.jpg"
     },
     {
       "Title": "Asus ZenBook S14 2026 ラップトップ レビュー - より明るい OLED、しかし遅い Panther Lake iGPU",
@@ -8866,141 +9001,6 @@
       "Category": "Smartwatches",
       "Summary": "Pebble Time 2 ユーザーは、毎日の使用で画面にひび割れが発生していると述べています\n\nPebble Time 2 の所有者は、毎日の使用後にディスプレイにひびが入ったと報告しており、スマートウォッチの耐久性について新たな懸念が生じています。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nPebble Time 2 ユーザーは、毎日の使用で画面にひび割れが発生していると述べています\n\n0 • Stephen Radochia / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Pebble Time 2 の所有者は、ポケットに手を入れたり、足を引っ掻いたりするなどの日常的な行為の後に、ディスプレイにひびが入ったと報告しています。\n\niFixit の初期の分解調査では、品質管理上の懸念の可能性も指摘されており、交換が難しいバッテリーが明らかになりました。\n\nPebble はこの増大する報道について公には取り上げておらず、購入者は時計の 30 日間の保証を超えた疑問を抱えています。\n\nPebble の復活は、スマートウォッチ ファンにとっては歓迎すべきノスタルジーです。 Pebble Time 2 は、軽量設計や長いバッテリー寿命など、オリジナルで人々が愛した多くの点を取り戻しています。しかし、最近のユーザーレポートによると、時計の一部はそれほど古くなっていない可能性があります。それは画面です。\n\n過去数日間、Reddit には、Pebble Time 2 ディスプレイが予想よりはるかに簡単に割れると主張する所有者からの投稿が殺到しました。そして驚くべきことは、これらは時計をコンクリートの上に落としたり、壁にぶつけたりする話ではないということです。いくつかのケースでは、まったく普通の日常的な動作中に被害が発生したと報告されています。\n\nFlufflyMumbles / Reddit ある所有者は、T…",
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/06/Pebble-Time-2-in-rain-scaled.jpg"
-    },
-    {
-      "Title": "マイクロン、米国の支出額を2,500億ドルに引き上げるため、グローバルウェーファーズのテキサスウェーハ工場に5億ドルを投入 — メモリメーカーは2035年までに米国でDRAMの40％を製造することを目指す",
-      "Link": "https://www.tomshardware.com/tech-industry/semiconductors/micron-commits-500-million-to-globalwafers-texas-wafer-plant-as-it-raises-us-spending-to-250-billion",
-      "Published": "2026-07-13T17:09:27Z",
-      "Source": "Tom's Hardware",
-      "Category": "Manufacturing",
-      "Summary": "マイクロン、米国の支出額を2,500億ドルに引き上げるため、グローバルウェーファーズのテキサスウェーハ工場に5億ドルを投入 — メモリメーカーは2035年までに米国でDRAMの40％を製造することを目指す\n\nグローバルウエハース\n\nマイクロン、米国の支出額を2,500億ドルに引き上げるため、グローバルウェーファーズのテキサスウェーハ工場に5億ドルを投入 — メモリメーカーは2035年までに米国でDRAMの40％を製造することを目指す\n\nGlobalWafers のテキサス州シャーマン工場は、先進的な 300mm ウェーハの米国唯一の供給源です。マイクロンの工場はそれらなしでは稼働できません。\n\n(画像クレジット: クレジット: Micron Technology) リンクをコピーする\n\nフォローしてください Google ニュースレターの優先ソースとして追加してください ニュースレターを購読してください マイクロンは先週、米国の半導体サプライチェーンに最大 30 億ドルを約束しました。このうち5億ドルはグローバルウェーファーズ社がテキサス州シャーマンにある300mm生シリコンウェーハ工場への戦略的融資として（最終的な合意と閉鎖条件を条件として）提供され、両社は同工場の生産物へのアクセスについて10年間の契約を結ぶ予定だ。マイクロンの上級副社長兼最高調達責任者であるベン・テッソーネ氏は、この動きを「重要な投入材料」の確保と結び付けた。同日ボイシからの2度目の発表で、マイクロンは米国支出計画を2035年までの2000億ドルから2500億ドル以上に引き上げ、予定より4分の1早くニューヨーク州クレイのメガファブに最初のコンクリートを注入した。\n\n2035年までの2,500億ドルの支出目標には、2030年代半ばまでにマイクロンのDRAMの40％を米国で製造するという目標が掲げられている。その2,500億ドルのうち、300mmウェーハを生産できる唯一の米国のサプライヤーであるGlobalFoundriesからウェーハ供給を購入するために割り当てられたのは、比較的わずかな5億ドルだけ…",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/MKPAJtT8MT8FuEjoJ2s7Ko-1920-80.jpg"
-    },
-    {
-      "Title": "携帯電話のクラウド AI をローカル モデルに 1 週​​間置き換えてみましたが、諦めた結果は次のとおりです",
-      "Link": "https://www.xda-developers.com/tried-replacing-cloud-ai-with-local-model-what-i-gave-up/",
-      "Published": "2026-07-13T17:00:19Z",
-      "Source": "XDA",
-      "Category": "Claude",
-      "Summary": "携帯電話のクラウド AI をローカル モデルに 1 週間置き換えてみましたが、諦めた結果は次のとおりです\n\n太陽や虹だけがすべてではない\n\n携帯電話のクラウド AI をローカル モデルに 1 週間置き換えてみましたが、諦めた結果は次のとおりです\n\nBy Mahnoor Faisal 公開 2026 年 7 月 13 日、午後 1:00 EDT Mahnoor Faisal は、XDA 、 SlashGear 、 MakeUseOf 、 Laptop Mag 、 Android Police で署名記事を掲載し、AI と生産性向上ツールをカバーするテクノロジー ジャーナリストです。彼女は 16 歳の頃からプロとして執筆活動を行っており、それ以来何百もの記事を執筆してきました。これには、NotebookLM などの AI ツールから AI 分野全体の最新ニュースまでの詳細なカバレッジが含まれます。彼女のテクノロジーに対する情熱は、8 歳の誕生日に最初の iPod Touch (第 4 世代) を受け取ったときに始まり、それ以来テクノロジーの世界に深く関わってきました。現在、コンピューター サイエンスの学位取得を目指しているマフノール氏は、ジャーナリストの目と技術的基礎の両方を、AI が私たちの働き方と学習方法をどのように再構築しているのかについての取材にもたらしています。 XDA アカウントにサインインする ChatGPT が有名になる前から AI ゲームに参加してきたにもかかわらず、確かにローカル LLM の世界はかつて私を恐怖に陥れました。ここで興味深いのは、私を怖がらせたのはその品質ではなかったということです。代わりに、それは周りのすべてでした。セットアップは複雑に見え、技術的にかなりの工夫が必要で、私が所有していたものよりもはるかに頑丈なハードウェアが必要なようでした。さらに、XDA の同僚があらゆることについてセルフホスティングについて延々と話したり、Docker、コンテナ、ホーム サーバーなどの用語を何気なく使ったりするのを見て、私はそれが自分には向いていないと…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/05/pocketpal-models-in-iphone.jpeg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
-      "Title": "AMD Radeon RX 9070 GREがNeweggで499ドルに値下げ",
-      "Link": "https://www.techpowerup.com/350727/amd-radeon-rx-9070-gre-drops-to-usd-499-on-newegg",
-      "Published": "2026-07-13T16:50:24Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "AMD Radeon RX 9070 GREがNeweggで499ドルに値下げ\n\nAMD のミッドレンジ Radeon RX 9070 GRE エディション グラフィックス カードが Newegg で 499 ドルで入手できるようになり、1440p ゲーマーにとって魅力的な取引が提供されます。 Newegg はメール アドレスを入力すると特別割引を提供し、表示価格が 549 ドルから 9% 値下げの 499 ドルに下がります。これはお得ですね...\n\nAMD Radeon RX 9070 GREがNeweggで499ドルに値下げ\n\n2025 年 8 月 21 日 12VHPWR コネクタの溶融により、最初の AMD RX 9070 XT 被害者が主張 (109)\n\n2026 年 5 月 14 日 AMD FSR アップスケーリング 4.1 が Radeon RX 7000/6000 GPU (252) に正式に登場\n\n2025 年 7 月 21 日 AMD の今後の UDNA / RDNA 5 GPU は 96 CU と 384 ビット メモリ バス (200) を搭載する可能性があります\n\n2026 年 5 月 27 日 リーカーが天文学的な蒸気機械の価格を示唆 (74)\n\n2025 年 8 月 27 日 AMD の次世代 UDNA: 4 つのダイ サイズ、1 つの潜在的な 96-CU フラッグシップ (87)\n\n2025 年 9 月 3 日 NVIDIA ディスクリート GPU 市場シェアの優位性が 94% に拡大、ノート レポート (237)\n\n2025 年 11 月 3 日 AMD が Radeon RX 5000/6000 シリーズの「メンテナンス モード」を明確に、初日のゲーム サポートは継続 (160)\n\n2026 年 6 月 12 日、4000 ドルの AMD Ryzen AI Halo Mini PC 開発キットの予約注文が開始 (47)\n\n2025 年 11 月 16 日 Valve は、Steam Machine が現在のゲーミング PC の 70…",
-      "ImageURL": "https://www.techpowerup.com/img/n5maFFcwxwDjQUYp.jpg"
-    },
-    {
-      "Title": "Appleの訴訟はOpenAIのハードウェアへの野望を妨げるものではないと予想される",
-      "Link": "https://www.androidauthority.com/openai-ai-hardware-apple-lawsuit-3686938/",
-      "Published": "2026-07-13T16:46:38Z",
-      "Source": "Android Authority",
-      "Category": "OpenAI",
-      "Summary": "Appleの訴訟はOpenAIのハードウェアへの野望を妨げるものではないと予想される\n\nブルームバーグのマーク・ガーマン氏は、たとえアップルから法的異議申し立てがあったとしても、OpenAIは初のAIデバイスのリリースに注力すると主張している。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nAppleの訴訟はOpenAIのハードウェアへの野望を阻止するものではないと予想される\n\n0 • Edgar Cervantes / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR OpenAI は、Apple からの法的異議申し立てにもかかわらず、来年も AI ハードウェアの発売を推進し続ける可能性があります。\n\niPhoneメーカーは、OpenAIと同社の元従業員2名を企業秘密を盗んだとして告発した。\n\nこの法廷闘争は、OpenAIによる噂のAI製品の開発を大きく妨げる可能性がある。\n\n独自のハードウェアを発売するというOpenAIの計画は、Appleが知的財産窃盗の疑いでAIの巨人を訴訟しているというニュースを受けて頓挫した。しかし、信頼できる情報源を信じるのであれば、少なくとも現時点では、このことが OpenAI の AI ベースのハードウェア計画を妨げるものではありません。\n\nXに関するブルームバーグのマーク・ガーマン氏によると、同社はこの謎のデバイスを今年までに発表し、2027年に市場投入する可能性があると「まだ信じている」という。しかし、ガーマン氏は、OpenAIが長期にわたる可能性のあるAppleとの法廷闘争に対処しているため、これは変わる可能性があると指摘している。\n\nAppleの訴訟の中心となっているのは、デザイン界のレジェンドであるジョニー・アイブ氏のハードウェアスタートアップ企業であるio Productsであり、同社は昨年OpenAIに買収された。機密の企業秘密を盗んでOpenAIに持ち込んだ…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/05/Open-AI-ChatGPT-logo-on-phone-stock-photo-2.jpg"
-    },
-    {
-      "Title": "Razer は Blade 18 Linux RGB サポートを決して提供しないので、私はそれを自分で openrazer にパッチしました",
-      "Link": "https://www.xda-developers.com/razer-blade-18-review-openrazer-linux-rgb/",
-      "Published": "2026-07-13T16:30:18Z",
-      "Source": "XDA",
-      "Category": "Razer",
-      "Summary": "Razer は Blade 18 Linux RGB サポートを決して提供しないので、私はそれを自分で openrazer にパッチしました\n\n\n\nRazer は Blade 18 Linux RGB サポートを決して提供しないので、私はそれを自分で openrazer にパッチしました\n\n正直に言うと、Linux を実行するために 5,400 ドルのゲーム用ラップトップを購入する人はいません。明らかに私を除いては、2026 Razer Blade 18 が私の机の上に置かれた瞬間から、Windows は箱から出すのと同じくらい長持ちしたからです。私は何年もの間、Linux デスクトップに代わる適切なラップトップを望んでいました。RTX 5090、デュアルモード 440Hz OLED に匹敵するパネル、そして静かに Ubuntu 認定を目指している Razer を搭載したマシンが、試してみるチャンスだと感じました。\n\n前もっての評決は次のとおりです。Blade 18 は真に優れた Linux マシンであり、そのほとんどは Razer のおかげではありません。ハードウェアが見事に連携しています。ソフトウェア サポートは単純に存在しません。Synapse も RGB コントロールもファン カーブもありません。また、修正するまでフレーム レートの半分のコストがかかる隠れたパフォーマンス ペナルティが発生します。\n\nそれで修正しました。全部。このレビューが終わるまでに、私はこのラップトップに 2 つのコミュニティ プロジェクトにパッチを適用し、変更をアップストリームに送信し、その過程でベンチマーク スコアを 2 倍にしました。私と同じ間違いをしないでください。あるいはそうするか、とても楽しかったです。\n\nこのレビューについて: Razer はレビューのために Blade 18 (2026) を貸し出しましたが、公開前にこの記事の内容については何の意見もありませんでした。\n\nRazer Blade 18 (2026) 9 /10 CPU Intel Core Ultra 9 29…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/razer-blade-18-2026-cachyos.jpg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
-      "Title": "Google Pixel Watch 4 LTE が Amazon 史上最高のセールで 349.99 ドルに値下げ",
-      "Link": "https://www.androidauthority.com/google-pixel-watch-4-lte-deal-3686984/",
-      "Published": "2026-07-13T16:24:52Z",
-      "Source": "Android Authority",
-      "Category": "Smartwatches",
-      "Summary": "Google Pixel Watch 4 LTE が Amazon 史上最高のセールで 349.99 ドルに値下げ\n\nAmazon は、Wear OS 6、3000 nit ディスプレイ、最大 30 時間の実行時間を備えた 41mm、LTE Google Pixel Watch 4 を 100 ドル値下げします。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nGoogle Pixel Watch 4 LTE が Amazon 史上最高のセールで 349.99 ドルに値下げ\n\n0 • Rita El Khoury / Android Authority Google Discover でフォローしてください 優先ソースとして追加 Amazon は、Google Pixel Watch 4 (41mm、LTE) を小売価格 449.99 ドルから 349.99 ドルに値下げしました。これで 100 ドル節約でき、希望小売価格から 22% 割引になります。また、最近のプライムデー セールで見た史上最低価格よりもわずか 5 ドル高いだけです。このセールを除けば、このスマートウォッチはかつてないほど安くなっているため、今が購入する絶好のチャンスです。\n\nPixel Watch 4 は小型の LTE バージョンであり、携帯電話が近くにない場合でも、通話、テキスト メッセージ、音楽ストリーミング、支払い、その他の機能を処理できます。 Wear OS 6 を実行し、Android 11 以降を実行するほとんどの Android スマートフォンで動作するため、多くの Android セットアップにうまく適合するはずです。\n\nハードウェア面では、41mm モデルはコンパクトなアルミニウムケースと常時オンをサポートする AMOLED LTPO ディスプレイを備えています。ピーク輝度は 3000 nit に達し、屋外で画面を表示するときに役立ちます。バッテリー寿命は、常時表示ディスプレイを有効にした場合の 41mm …",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2025/08/google-pixel-watch-4-new-modular-watch-face.jpg"
-    },
-    {
-      "Title": "Nothing Phone 3 の契約により、この傑出した携帯電話は過去最低の 599 ドルに戻ります",
-      "Link": "https://www.androidauthority.com/nothing-phone-3-deal-2026-3686942/",
-      "Published": "2026-07-13T15:09:36Z",
-      "Source": "Android Authority",
-      "Category": "Nothing Phone 3",
-      "Summary": "Nothing Phone 3 の契約により、この傑出した携帯電話は過去最低の 599 ドルに戻ります\n\nAmazon で Nothing Phone 3 を 200 ドル節約し、フラッグシップ仕様、トリプル 50MP カメラ、傑出したデザインを備えた 599 ドルに値下げします。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nNothing Phone 3 の契約により、この傑出した携帯電話は過去最低の 599 ドルに戻ります\n\n0 • Ryan Haines / Android Authority Google Discover でフォローしてください 優先ソースとして追加 Nothing Phone 3 は Amazon で $599 に戻り、希望小売価格 $799 から $200 引きです。これは希望小売価格から 25% 割引され、この携帯電話はプライムデーの価格に戻ります。これは私たちがこれまでに追跡した最低価格とも一致するため、取引が行われている間にそれを手に入れる良い機会です。\n\n真のフラッグシップ携帯電話に向けて何も構築されていませんが、Nothing Phone 3 はそのステップアップです。ブランドの明確でデザイン重視の外観を維持しながら、以前のモデルよりもはるかに強力なハードウェアが追加されています。 6.67 インチの OLED ディスプレイ、Snapdragon 8s Gen 4 チップ、最大 16 GB の RAM と 512 GB のストレージのメモリとストレージのオプションを利用できます。\n\nカメラもパッケージの大きな部分を占めています。この携帯電話は、ペリスコープ望遠レンズを含むトリプル 50MP 背面カメラに加え、自撮りやビデオ通話用の 50MP 前面カメラを使用しています。バッテリー容量は世界的に約 5,150 mAh と報告されており、有線と無線の両方の高速充電をサポートしています。\n\nAmazon の買い物客も 5 点満点中 4.4 点の評価を付けてお…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2025/07/Nothing-Phone-3-rear-hero.jpg"
-    },
-    {
-      "Title": "実際にお金を節約できた 3D プリントは、ほとんど作る気にならなかった退屈なプリントでした",
-      "Link": "https://www.xda-developers.com/the-3d-prints-that-actually-saved-me-money-were-the-boring-ones/",
-      "Published": "2026-07-13T15:00:19Z",
-      "Source": "XDA",
-      "Category": "3d printing",
-      "Summary": "実際にお金を節約できた 3D プリントは、ほとんど作る気にならなかった退屈なプリントでした\n\n最初の熱意が冷めた後も 3D プリンターを使い続けてよかった\n\n実際にお金を節約できた 3D プリントは、ほとんど作る気にならなかった退屈なプリントでした\n\nBy Ayush Pande 公開 2026 年 7 月 13 日、午前 11:00 EDT Ayush Pande は、PC ハードウェアおよびゲームのライターです。彼が新しい記事に取り組んでいないときは、頭を PC の中に閉じ込めたり、サーバーのオペレーティング システムをいじったりしているのを見かけることがあります。コンピューティングのほかに、彼の興味には、長い RPG に何時間も費やすこと、協力ゲームで友達に怒鳴りつけること、ギターを練習することなどがあります。 XDA アカウントにサインインする 最初の 3D プリンターを手に入れたとき、私はそこから最もひどいモデルを設計するために次の 2 週間 (および複数のフィラメント ロール) を費やしました。しかし、最初の熱意が冷めると、私のクールに見えるプリントは、生活空間にスパイスを加える以外には何の役にも立たないことに気づきました。そのため、単なるノベルティプリントではなく、何らかの機能的価値のある STL および 3MF ファイルを検討し始めました。\n\n興味深いことに、私が出会ったのは、これまで退屈だと片付けていたモデルであり、駆け出しの 3D プリンター所有者として私が作成したすべてのモデルよりもはるかに役立つことが判明しました。\n\nスタンド、ケース、オーガナイザーのおかげで、これまでに数百ドルを節約できました\n\n既製のアクセサリは高価です（カスタマイズ性が低い）\n\n私の自宅ラボ中心のモデルから始めましょう。これらは私の武器庫のクールなアクセサリーのほとんどを占めているからです。ケーブル バインダーやクリップは、お気に入りのビデオ ゲームや漫画のキャラクターの光沢のあるモデルと比較すると、それほど楽しいものではないように思えるかもしれませんが、これらの安価なプリ…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/04/elegoo-centauri-carbon-2-5.jpg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
-      "Title": "Cooler Master HAF II 500 ケースレビュー: 新しい HAF はその名の通り、印象的なエアフローと広々としたシャーシを備えています",
-      "Link": "https://www.tomshardware.com/pc-components/pc-cases/cooler-master-haf-ii-500-case-review",
-      "Published": "2026-07-13T15:00:00Z",
-      "Source": "Tom's Hardware",
-      "Category": "PC Components",
-      "Summary": "Cooler Master HAF II 500 ケースレビュー: 新しい HAF はその名の通り、印象的なエアフローと広々としたシャーシを備えています\n\n最新の HAF ケースは、大規模なプレインストールファンと優れたノイズ正規化パフォーマンスをすべて 200 ドル未満で実現します。\n\nCooler Master の HAF II 500 は、大規模な 220mm ファン、優れたエアフロー、確かな熱性能を備えた HAF の伝統を復活させます。その冷却能力、広々とした内部、柔軟な構築オプション、静かな動作により、この 200 ドル未満のケースには価格の価値があります。\n\n+ 優れたノイズ正規化パフォーマンス\n\n+ ファンが 100% の場合でも比較的静か\n\n+ 2 つの 3.5 スロット ビデオ カードを処理可能\n\n- 背面接続マザーボードはサポートしていません\n\n- より多くの脱落防止つまみネジを使用できる\n\nTom's Hardware を信頼できる理由 当社の専門レビュー担当者は、お客様が最適なものを選択できるよう、何時間もかけて製品とサービスをテストおよび比較します。テスト方法について詳しくは、こちらをご覧ください。\n\nHAVN BF360 の機能と仕様\n\nページ 1: HAVN BF360 の機能と仕様\n\nページ 2: 熱と音響のベンチマーク、結論\n\nCooler Master の HAF シリーズ ケースは、2008 年に HAF 932 で登場し、その高いエアフロー (High A ir F low) と巨大な 200 mm ファンによりすぐに愛好家の間で人気になりました。そこから、HAF X (2010)、立方体型のデュアルチャンバー HAF-XB (私が所有していた)、そしてその精神的な後継者である 2017 年の MasterCase H 500 シリーズ (他にもバージョンはありますが、これらが主なリリースです) を見てきました。 HAF の名前は 2022 年に HAF 500 で復活し、再び大型 200mm ファンを搭載し、純粋な熱性能に重点が…",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/FFDJpgHpLYU5SU5zCmx56Y-1920-80.jpg"
-    },
-    {
-      "Title": "スマートフォン市場が13年ぶりの低水準に沈む中、サムスンがアップルを追い抜く",
-      "Link": "https://www.androidauthority.com/counterpoint-research-q2-2026-smartphone-shipment-report-3686931/",
-      "Published": "2026-07-13T14:53:10Z",
-      "Source": "Android Authority",
-      "Category": "Smartphones",
-      "Summary": "スマートフォン市場が13年ぶりの低水準に沈む中、サムスンがアップルを追い抜く\n\nAIメモリ不足により、世界の携帯電話販売台数は13年ぶりの低水準に落ち込んだばかりだが、大手企業のサムスンとアップルは依然として販売台数を完全に押しつぶしている。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nスマートフォン市場が13年ぶりの低水準に沈む中、サムスンがアップルを追い抜く\n\n0 • Robert Triggs / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR AI を活用した DRAM および NAND チップの需要が部品不足、生産コストの上昇、広範な価格高騰を加速させたため、世界のスマートフォン出荷台数は前年比 11% 減少しました。\n\nサムスンは、スマートフォン市場が2013年以来最低の第2四半期を記録したにもかかわらず、アップルを上回り、24％の世界市場シェアでトップの座を奪還した。\n\nXiaomi、OPPO、vivoが最大の打撃を受け、メモリコストの上昇により予算とミッドレンジのセグメントが圧迫されたため、2桁の出荷台数減少を記録した。\n\nSamsung は、業界が縮小する中、スマートフォンの王座を取り戻しました。第2四半期の世界のスマートフォン出荷台数は13年ぶりの最悪の結果となったが、サムスンはアップルを追い抜き最大の勝者に浮上した。このことは、2つのライバルが最近の記憶に残る最も厳しい市場の1つを全く異なる方法でどのように乗り切ったのかを示している。\n\nCounterpoint Research によると、2026 年第 2 四半期の世界のスマートフォン出荷台数は前年同期比 11% 減少し、2013 年以来最低の第 2 四半期となりました。最大の要因は、DRAM および NAND メモリチップの持続的な不足であり、サプライヤーは家電製品よりも AI データセンターの需要を優先し続けています。そして…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2024/12/Best-smartphones-2024-on-desk.jpg"
-    },
-    {
-      "Title": "Steam は 6 か月で 110 億ドルを稼ぎ、そのほとんどが古いゲーム タイトルからのものでした",
-      "Link": "https://www.techpowerup.com/350720/steam-made-usd-11-billion-in-six-months-mostly-from-older-game-titles",
-      "Published": "2026-07-13T14:50:06Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "Steam は 6 か月で 110 億ドルを稼ぎ、そのほとんどが古いゲーム タイトルからのものでした\n\nAlinea Analytics の最新データで確認されたように、Valve は巨万の富を築いており、Steam は今年上半期に 111 億ドルという驚異的な収益を上げたと推定されています。これらの数字は Valve にとって記録的な数字であるだけでなく、Steam が持つ大きな影響力を浮き彫りにしています...\n\nSteam は 6 か月で 110 億ドルを稼ぎ、そのほとんどが古いゲーム タイトルからのものでした\n\n2026 年 4 月 13 日 Epic Games ストアの従業員: 無料ゲームのためだけに来て、その後 Steam に戻ってきた人々 (91)\n\n2026 年 5 月 27 日 リーカーが天文学的な蒸気機械の価格を示唆 (74)\n\n2026 年 6 月 22 日 Valve が Steam Machine の価格をついに明らかにし、予約注文の受付を開始 (517)\n\n2026 年 4 月 21 日 Valve が Steam コントローラーの開封ビデオをアップロード、発売間近 (16)\n\n2025 年 11 月 28 日 バルブスチームマシンのコストが予想よりも低くなる可能性 (118)\n\n2026 年 3 月 19 日 NVIDIA DLSS 5、反発が高まる中 YouTube で 84% が嫌悪感を抱く (132)\n\n2026 年 4 月 2 日 Steam Deck 2 溝、既製 AMD シリコン用セミカスタム APU、Eyes 2028 発表 (45)\n\n2025 年 11 月 12 日 Valve が Steam Machine、Steam Frame、Steam コントローラーを発表 (204)\n\n2025 年 11 月 17 日 Valve は、Steam Machine が現在のゲーミング PC の 70% を上回るパフォーマンスを発揮すると主張 (133)\n\n2026 年 4 月 17 日 Pragmata のローンチ: 輝かしいレ…",
-      "ImageURL": "https://www.techpowerup.com/img/mytmfGSoR4DRDGrW.jpg"
-    },
-    {
-      "Title": "携帯電話と 0 ドルのローカル モデルは、Claude Pro を購入するよりも優れています。私が実際にそれを使って何をしているかは次のとおりです。",
-      "Link": "https://www.xda-developers.com/your-phone-plus-a-home-hosted-local-llm-beats-claude-pro/",
-      "Published": "2026-07-13T14:31:19Z",
-      "Source": "XDA",
-      "Category": "Claude",
-      "Summary": "携帯電話と 0 ドルのローカル モデルは、Claude Pro を購入するよりも優れています。私が実際にそれを使って何をしているかは次のとおりです。\n\nAI との最良の取引は、ずっとポケットに入れていた携帯電話だったことが判明\n\n携帯電話と 0 ドルのローカル モデルは、Claude Pro を購入するよりも優れています。私が実際にそれを使って何をしているかは次のとおりです。\n\nBy Mahnoor Faisal 公開 2026 年 7 月 13 日、午前 10:31 EDT Mahnoor Faisal は、XDA 、 SlashGear 、 MakeUseOf 、 Laptop Mag 、 Android Police で署名記事を掲載し、AI と生産性向上ツールをカバーするテクノロジー ジャーナリストです。彼女は 16 歳の頃からプロとして執筆活動を行っており、それ以来何百もの記事を執筆してきました。これには、NotebookLM などの AI ツールから AI 分野全体の最新ニュースまでの詳細なカバレッジが含まれます。彼女のテクノロジーに対する情熱は、8 歳の誕生日に最初の iPod Touch (第 4 世代) を受け取ったときに始まり、それ以来テクノロジーの世界に深く関わってきました。現在、コンピューター サイエンスの学位取得を目指しているマフノール氏は、ジャーナリストの目と技術的基礎の両方を、AI が私たちの働き方と学習方法をどのように再構築しているのかについての取材にもたらしています。 XDA アカウントにサインインする まだピンと来ていないのであれば、AI ツールの使用料はますます高くなる一方です。かつて無料枠で得られた使用量は、現在の 20 ドル プランの半分であり、20 ドル プランは、18 か月前には存在すらしなかった 100 ドルまたは 200 ドルの枠への入り口であるようにますます感じられています。使用するツールが高価になることに加えて、面白いのは、ツールを使用するうちに制限がさらに厳しくなることです。より多くの料金を支払えば、壁が増えるので…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/main-claude-and-gemma-4.jpg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
-      "Title": "(PR) GameSir、Xbox および PC 用の T7 Pro W レトロ グリーン ワイヤード コントローラーを発売",
-      "Link": "https://www.techpowerup.com/350721/gamesir-launches-t7-pro-w-retro-green-wired-controller-for-xbox-and-pc",
-      "Published": "2026-07-13T14:25:09Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "(PR) GameSir、Xbox および PC 用の T7 Pro W レトロ グリーン ワイヤード コントローラーを発売\n\n高性能エンジニアリングと独特のデザインを組み合わせることで知られる世界的なゲーム周辺機器ブランドである GameSir は、本日 GameSir T7 Pro W レトロ グリーン ワイヤード コントローラーの発売を発表します。信頼できる有線パフォーマンスとノスタルジックな半透明の美学を組み合わせた T7 Pro W...\n\nGameSir、Xbox および PC 用の T7 Pro W レトロ グリーン有線コントローラーを発売\n\n2段階トリガーストップを備えたホール効果アナログトリガー\n\nGameSir Nexus ソフトウェアをサポート\n\n2026 年 7 月 8 日 GameSir が G7 Pro Aimlabs Edition ゲーム コントローラーを発売 (9)\n\n2026 年 4 月 11 日 Microsoft、バッテリーレスの Xbox コントローラーを謝罪、修正のために充電式キットを送付 (35)\n\n2026 年 5 月 18 日 Xbox 用 GameSir T7 Pro Sugar Whirl ワイヤレス コントローラーが登場 (2)\n\n2026 年 2 月 23 日 GameSir が G7 Pro 8K PC Aimlabs Edition ゲーム コントローラーを発売 (5)\n\n2026 年 5 月 22 日 Steam コントローラーがサードパーティ互換性のための HID リマッパー サポートを取得 (7)\n\n2026 年 5 月 15 日 GameSir が G7 Pro 8K PC Royal2 Edition コントローラーの予約注文を開始 (2)\n\n2026 年 5 月 14 日 高度にカスタマイズ可能なデザインと新しいコントロールを備えた Xbox Elite シリーズ 3 コントローラーがリーク (25)\n\n2026 年 5 月 19 日 8BitDo、特別版「Lavender Dusk」Ultima…",
-      "ImageURL": "https://www.techpowerup.com/img/EuF1VKBXGT3toOuQ.jpg"
-    },
-    {
-      "Title": "Switch 2 OLED は開発中かもしれないが、落とし穴がある",
-      "Link": "https://www.androidauthority.com/nintendo-switch-2-oled-leak-3686908/",
-      "Published": "2026-07-13T14:19:27Z",
-      "Source": "Android Authority",
-      "Category": "OLED",
-      "Summary": "Switch 2 OLED は開発中かもしれないが、落とし穴がある\n\n任天堂はFHDディスプレイを搭載したSwitch 2 OLEDバージョンを評価していると伝えられているが、半導体コストの高騰によりアップグレードが遅れる可能性がある。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nSwitch 2 OLEDは開発中かもしれないが、落とし穴がある\n\n0 • Oliver Cragg / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR 任天堂は、Samsung Display が提供する 1,920 x 1080 FHD リジッド OLED パネルを搭載した将来の Switch 2 モデルを評価していると伝えられています。\n\nゴーサインが点灯した場合、開発は今年末に開始され、コンソールのライフサイクルを延長するために、2027 年末か 2028 年初頭の量産を目標としています。\n\nLCD パネルと OLED パネルの間には大きな価格差があり、さらに半導体とメモリのコストが高騰しているため、アップグレードは保証されていません。\n\n任天堂は最近、交換可能なバッテリーを備えたSwitch 2が今秋に登場すると発表したが、同社は将来的には他のバリエーションも念頭に置いているようだ。任天堂はまた、Switch 2用の新しいOLEDバリエーションの発売を検討していると伝えられており、これにより画面解像度が第1世代のSwitch OLEDのHDからFHD（1,920 x 1,080）に向上します。\n\nZDNet Korea の新しいレポート (X の Jukan05 経由) は、任天堂がこの次期 Switch 2 バージョンにリジッド OLED パネルの使用を検討していることを示しています。第1世代スイッチOLEDのパネルを供給したサムスンディスプレイは、新モデルの契約も獲得しようとしていると伝えられている。\n\nただし、…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2025/06/Nintendo-Switch-2-next-to-box-hades-scaled.jpeg"
-    },
-    {
-      "Title": "RTX 5080 を搭載した新しい Cyber​​power ゲーム PC を 544 ドル節約 — AMD の 9800X3D、32GB DDR5 RAM、2TB SSD も搭載し 2,744 ドル",
-      "Link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd544-on-a-new-rtx-5080-packed-cyberpower-gaming-pc-also-features-amds-9800x3d-32gb-of-ddr5-ram-and-a-2tb-ssd-for-usd2-744",
-      "Published": "2026-07-13T11:18:31Z",
-      "Source": "Tom's Hardware",
-      "Category": "Desktops",
-      "Summary": "RTX 5080 を搭載した新しい Cyberpower ゲーム PC を 544 ドル節約 — AMD の 9800X3D、32GB DDR5 RAM、2TB SSD も搭載し 2,744 ドル\n\nダブルスタックの取引により、合計金額が 544 ドル割引されます\n\nRTX 5080 を搭載した新しい Cyberpower ゲーム PC を 544 ドル節約 — AMD の 9800X3D、32GB DDR5 RAM、2TB SSD も搭載し 2,744 ドル\n\nダブルスタックの取引により、合計金額が 544 ドル割引されます\n\n(画像クレジット: Future) リンクをコピー\n\n0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する あらゆるものの、特に RAM やストレージを使用するものの価格が上昇していることは、誰もが十分に認識しています。大衆向けのホーム コンピューティングの悲劇的な近未来の代表的な例として、最近リリースされた Steam Machine のコストを見てみましょう。それはすべて少し絶望的で憂鬱であり、数年後には物価が安くなるかもしれないことを期待してそれを待つことを選択しようとする人もいるかもしれませんが、それが起こるという保証はありません。現在では、自分で PC を構築するよりも、構築済みのゲーム機器を購入する方が安くなり、現在の経済状況では依然として割引を提供している企業もあります。この Cyber​​power GML 99653 ゲーミング PC は、544 ドルの割引を受けて、わずか 2744.55 ドルです。内部には、純粋なゲーム用に現在入手可能な最も強力な PC ハードウェア コンポーネントの一部が詰め込まれています。\n\n● Cyberpower のこのセールをチェックしてください\n\nCyberpower は 2 つの取引を重ね合わせており、最初は 2,500 ドル以上の PC に 400 ドルの割引が適用されるため、総額 3,289 ドルから 400 ドルが割引され、次…",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/ogGoZYHGd6v8dDStGz6ubU-1920-80.jpg"
     }
   ]
 }
