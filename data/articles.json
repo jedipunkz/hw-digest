@@ -1,6 +1,33 @@
 {
   "akiba": [
     {
+      "Title": "政府・提携先に限定提供、脆弱性対策特化のGemini 3.5 Flash Cyber",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2126734.html",
+      "Published": "2026-07-21T17:48:37Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "政府・提携先に限定提供、脆弱性対策特化のGemini 3.5 Flash Cyber\n\nソフトの弱点を、AIが人より速く見つけて直す。Googleは7月22日(日本時間)、セキュリティに特化した新AIモデル「Gemini 3.5 Flash Cyber」を発表した。脆弱性(ソフトの安全上の欠陥)を探して修正する用途に絞ったモデルで、すでにChromeやAndroid、YouTubeなど自社製品の防御に使われている。ただし悪用の懸念から、当面は誰でも使えるわけではない。\n\n政府・提携先に限定提供、脆弱性対策特化のGemini 3.5 Flash Cyber\n\nソフトの弱点を、AIが人より速く見つけて直す。Googleは7月22日(日本時間)、セキュリティに特化した新AIモデル「Gemini 3.5 Flash Cyber」を発表した。脆弱性(ソフトの安全上の欠陥)を探して修正する用途に絞ったモデルで、すでにChromeやAndroid、YouTubeなど自社製品の防御に使われている。ただし悪用の懸念から、当面は誰でも使えるわけではない。\n\nGemini 3.5 Flash Cyberは、汎用モデルの「Gemini 3.5 Flash」を土台に、脆弱性の発見・検証・修正へ特化させた専用モデルである。単体で使うのではなく、Googleの防御用AIエージェント(自律的に作業を進めるAI)「CodeMender」に組み込んで動く。CodeMenderは、3.5 Flash Cyberを1件の報告につき最大5回呼び出し、膨大なコードの経路を手分けして調べる。安く速いモデルほど何度も走らせられるため、大きなコード群でも見落としが減るという仕組みだ。\n\n実力はベンチマークにも表れている。複雑なJavaScript処理エンジン「V8」で試したところ、確認できた固有の脆弱性は55件で、土台の3.5 Flashの47件を上回った。脆弱性検証のベンチマーク「CyberGym」でも、CodeMenderと組み合わせることで、より大型のモデルに匹敵する結果を示したとする。ChromeやSafari…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2126/734/01.png"
+    },
+    {
+      "Title": "Gemini 3.6 Flash登場！17%効率化+値下げ。3.5 Flash-Liteも",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2126733.html",
+      "Published": "2026-07-21T17:16:12Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "Gemini 3.6 Flash登場！17%効率化+値下げ。3.5 Flash-Liteも\n\n新しいAIモデルなのに、前の世代より安い。Googleは7月22日(日本時間)、大規模言語モデル「Gemini」に、高速・低コスト帯の新モデル2種を追加した。「Gemini 3.6 Flash」は前世代の「Gemini 3.5 Flash」より出力の無駄を17%減らしつつ料金はむしろ下がり、軽量版の「Gemini 3.5 Flash-Lite」とともに同日から使用可能となった。もっとも、Googleが本命と位置づける最上位モデルは、この日のラインアップには含まれていない。\n\nGemini 3.6 Flash登場！17%効率化+値下げ。3.5 Flash-Liteも\n\n新しいAIモデルなのに、前の世代より安い。Googleは7月22日(日本時間)、大規模言語モデル「Gemini」に、高速・低コスト帯の新モデル2種を追加した。「Gemini 3.6 Flash」は前世代の「Gemini 3.5 Flash」より出力の無駄を17%減らしつつ料金はむしろ下がり、軽量版の「Gemini 3.5 Flash-Lite」とともに同日から使用可能となった。もっとも、Googleが本命と位置づける最上位モデルは、この日のラインアップには含まれていない。\n\nGemini 3.6 Flashは、Googleが「Flash」と呼ぶ主力モデルである。文章に加えて画像なども扱え、コーディングや知識労働、マルチモーダル処理で前世代を上回る。料金は100万トークン(AIが文章を扱う際の処理単位)あたり入力が1.5ドル(約245円)、出力が7.5ドル(約1,223円)で、出力側は3.5 Flashの9ドル(約1,467円)から下がった。知識のカットオフ(学習データの締め日)は2026年3月。性能評価テストのベンチマーク「Artificial Analysis Index」では、同じ作業でも出力トークンを17%少なく済ませたという。\n\n効率だけでなく、精度も上がっている。コード修正の正確さを見る「DeepSWE」…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2126/733/01.png"
+    },
+    {
+      "Title": "シャットダウンや再起動ができない不具合。KB5101650 / KB5121767インストール後、一部PCで発生",
+      "Link": "https://www.nichepcgamer.com/archives/kb5101650-shutdown-issue.html",
+      "Published": "2026-07-21T16:53:33Z",
+      "Source": "ニッチなPCゲーマーの環境構築Z",
+      "Category": "WindowsUpdate-2026-07",
+      "Summary": "シャットダウンや再起動ができない不具合。KB5101650 / KB5121767インストール後、一部PCで発生\n\n一部のWindows11 PC環境において、KB5101650 / KB5121767をインストールしてからシャットダウンや再起動ができなくなったとの不具合報告が出ています。 不具合概要 日本時間で...\n\n一部のWindows11 PC環境において、 KB5101650 / KB5121767をインストールしてからシャットダウンや再起動ができなくなったとの不具合報告が出ています。\n\n日本時間で2026年7月15日にWindows11 25H2およびWindows11 24H2のWindows Updateに配信されたセキュリティ更新プログラム(セキュリティパッチ)KB5101650をインストールした一部のPC環境において、Windows上からシャットダウンや再起動ができなくなったとの不具合報告が出ています。\n\nこの不具合が発生した環境でPCの電源を切ったり再起動をするには、PCの電源ボタンを長押しするなどして強制的に電源を落とすしかありません。\n\nこの不具合はASUS TUF Dash F15ノートPC (GeForce RTX 3060 Laptop GPU)や、Ryzen 7 7800X3D搭載自作PCで報告されています。また、日本時間で2026年7月19日に緊急リリースされた KB5121767 をインストールした場合でも本不具合が発生すると報告されています。\n\nWindows11 25H2 / Windows11 24H2 KB5121767 (2026年7月19日 緊急リリース 一部Dell製PCでの不具合修正) KB5101650 (2026年7月15日 セキュリティ更新プログラム)\n\nなお、この不具合はあくまで一部のPC環境で発生しているものであり、すべてのPC環境で発生するものではありません。また、不具合が発生する具体的な原因も判明していません。少なくともKB5101650をインストールした筆者の物理PCおよび仮想PC環境では発生しません…",
+      "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2025/08/windows-p-orange.jpg"
+    },
+    {
       "Title": "iPhone20が採用する可能性も〜スマホ向け低消費電力タンデムOLEDを開発",
       "Link": "https://iphone-mania.jp/iphone18-603798/",
       "Published": "2026-07-21T16:30:12Z",
@@ -1486,15 +1513,6 @@
       "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2126/111/s1.jpg"
     },
     {
-      "Title": "��Warframe�פȡ�Soulframe�פΥե��󥤥٥��ȡ�TennoCon 2026�ɤ˥ƥ��ΤȻȼԤ����롣��ȯɽ�˴ؤ��Ƥγ�ȯ�ԥ��󥿥ӥ塼�⤪�Ϥ�����",
-      "Link": "https://www.4gamer.net/games/172/G017216/20260716024/",
-      "Published": "2026-07-18T00:00:00Z",
-      "Source": "4Gamer.net Hardware",
-      "Category": "HARDWARE",
-      "Summary": "��Warframe�פȡ�Soulframe�פΥե��󥤥٥��ȡ�TennoCon 2026�ɤ˥ƥ��ΤȻȼԤ����롣��ȯɽ�˴ؤ��Ƥγ�ȯ�ԥ��󥿥ӥ塼�⤪�Ϥ�����\n\nDigital Extremesは7月10日，11日の2日間，開発・運営するオンラインアクションRPG「Warframe」と，現在開発中でクローズドαテストが実施されている新作「Soulframe」…\n\n「Warframe」と「Soulframe」のファンイベント“TennoCon 2026”にテンノと使者が集結。新発表に関しての開発者インタビューもお届けする ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ 私の新品Switch2の記録は，6:50:31でした ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「プロスピ2026」は，歴代日本代表で挑めるWBCモード搭載！ “最強の侍”はどのチームなのか，時代を超えた夢の対戦を目撃した ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「スプラトゥーン レイダース」は，Directでたくさん情報が出たからこそこれからに注目！ 発売日までの“お祭り感”を楽しもう ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 本日発売「DEAD OR ALIVE 6 Last Round」の初心者向けガイド。基本無料版で，奥深い3D格闘ゲームをまず浅瀬から体験しよう！ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「SteamNEXTフェス 6月エディション」オススメタイトルまとめ。片っ端から遊…",
-      "ImageURL": "https://www.4gamer.net/games/172/G017216/20260716024/SS/005.jpg"
-    },
-    {
       "Title": "�Υ��󥿥ӥ塼�ϡ�EWC 2026�פ�����΢����������Esports Foundation�δ���4�ͤ�ʹ�������Ļ��⤫�饿���ȥ����ꡤ���ܻԾ���ɾ���ޤ�",
       "Link": "https://www.4gamer.net/games/991/G999107/20260710035/",
       "Published": "2026-07-18T00:00:00Z",
@@ -1502,6 +1520,15 @@
       "Category": "HARDWARE",
       "Summary": "�Υ��󥿥ӥ塼�ϡ�EWC 2026�פ�����΢����������Esports Foundation�δ���4�ͤ�ʹ�������Ļ��⤫�饿���ȥ����ꡤ���ܻԾ���ɾ���ޤ�\n\nEsports Foundationは，世界最大級のeスポーツイベント「Esports World Cup 2026」を，フランス・パリで7月6日から8月23日まで開催している。本稿では，同団体の幹…\n\n［インタビュー］「EWC 2026」の舞台裏を主催団体Esports Foundationの幹部4人に聞く。運営資金からタイトル選定，日本市場の評価まで ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ 私の新品Switch2の記録は，6:50:31でした ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「プロスピ2026」は，歴代日本代表で挑めるWBCモード搭載！ “最強の侍”はどのチームなのか，時代を超えた夢の対戦を目撃した ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「スプラトゥーン レイダース」は，Directでたくさん情報が出たからこそこれからに注目！ 発売日までの“お祭り感”を楽しもう ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 本日発売「DEAD OR ALIVE 6 Last Round」の初心者向けガイド。基本無料版で，奥深い3D格闘ゲームをまず浅瀬から体験しよう！ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「SteamNEXTフェス 6月エディション」オススメタイトルまとめ。片…",
       "ImageURL": "https://www.4gamer.net/games/991/G999107/20260710035/SS/007.jpg"
+    },
+    {
+      "Title": "��Warframe�פȡ�Soulframe�פΥե��󥤥٥��ȡ�TennoCon 2026�ɤ˥ƥ��ΤȻȼԤ����롣��ȯɽ�˴ؤ��Ƥγ�ȯ�ԥ��󥿥ӥ塼�⤪�Ϥ�����",
+      "Link": "https://www.4gamer.net/games/172/G017216/20260716024/",
+      "Published": "2026-07-18T00:00:00Z",
+      "Source": "4Gamer.net Hardware",
+      "Category": "HARDWARE",
+      "Summary": "��Warframe�פȡ�Soulframe�פΥե��󥤥٥��ȡ�TennoCon 2026�ɤ˥ƥ��ΤȻȼԤ����롣��ȯɽ�˴ؤ��Ƥγ�ȯ�ԥ��󥿥ӥ塼�⤪�Ϥ�����\n\nDigital Extremesは7月10日，11日の2日間，開発・運営するオンラインアクションRPG「Warframe」と，現在開発中でクローズドαテストが実施されている新作「Soulframe」…\n\n「Warframe」と「Soulframe」のファンイベント“TennoCon 2026”にテンノと使者が集結。新発表に関しての開発者インタビューもお届けする ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ 私の新品Switch2の記録は，6:50:31でした ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「プロスピ2026」は，歴代日本代表で挑めるWBCモード搭載！ “最強の侍”はどのチームなのか，時代を超えた夢の対戦を目撃した ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「スプラトゥーン レイダース」は，Directでたくさん情報が出たからこそこれからに注目！ 発売日までの“お祭り感”を楽しもう ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 本日発売「DEAD OR ALIVE 6 Last Round」の初心者向けガイド。基本無料版で，奥深い3D格闘ゲームをまず浅瀬から体験しよう！ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「SteamNEXTフェス 6月エディション」オススメタイトルまとめ。片っ端から遊…",
+      "ImageURL": "https://www.4gamer.net/games/172/G017216/20260716024/SS/005.jpg"
     },
     {
       "Title": "(アキバ取材班) GIGABYTE 40周年記念展スタート、歴代マザーボードが秋葉原に集結",
@@ -2899,15 +2926,6 @@
       "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/07/14/VGA-EXHDPOCL4_01.jpg"
     },
     {
-      "Title": "ガチくんに! 第424回切り抜き「格ゲー女性プレイヤー座談会！プロへの印象や裏話を聞いてみた」",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/2124815.html",
-      "Published": "2026-07-14T03:00:00Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "ガチくんに! 第424回切り抜き「格ゲー女性プレイヤー座談会！プロへの印象や裏話を聞いてみた」\n\n※毎週木曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイター6攻略企画「ガチくんに!」をTwitchとYouTubeで配信しています。レギュラー出演者はぷげら、奥村茉実。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードした切り抜きとアーカイブの動画を掲載しています。\n\nガチくんに! 第424回切り抜き「格ゲー女性プレイヤー座談会！プロへの印象や裏話を聞いてみた」\n\n※毎週木曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイター6攻略企画「ガチくんに!」を Twitch と YouTube で配信しています。レギュラー出演者はぷげら、奥村茉実。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードした切り抜きとアーカイブの動画を掲載しています。\n\n7月9日の配信では、レギュラーの奥村さんに加えて、ゲストにitsukaさん、芦澤佳純さんをお迎えして、格ゲー女性プレイヤーによる座談会を実施。さまざまな質問を通じてガールズトークしていただきました。",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2124/815/01.jpg"
-    },
-    {
       "Title": "HP製ミニPC「EliteDesk 800 G5 DM」が30,800円、第9世代 Core搭載の中古Cランク品がQualitでセール",
       "Link": "https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2124418.html",
       "Published": "2026-07-14T03:00:00Z",
@@ -2915,6 +2933,15 @@
       "Category": "",
       "Summary": "HP製ミニPC「EliteDesk 800 G5 DM」が30,800円、第9世代 Core搭載の中古Cランク品がQualitでセール\n\nCore i5-9500T(6コア/6スレッド)を搭載したHP製ミニPC「EliteDesk 800 G5 DM」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で特価販売中。\n\nHP製ミニPC「EliteDesk 800 G5 DM」が30,800円、第9世代 Core搭載の中古Cランク品がQualitでセール\n\nCore i5-9500T(6コア/6スレッド)を搭載したHP製ミニPC「EliteDesk 800 G5 DM」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で特価販売中 。\n\n今回販売されているのは、「傷や使用感が見られる」(同店)というCランク中古品で、販売価格は30,800円。保証期間は12か月となっています。\n\n主な仕様は、メモリが8GB(空きスロット×1)、ストレージが256GB SSD、OSがWindows 11 Pro。インターフェイスには、DisplayPort×2やVGA、USB Type-Cなどを備えています。",
       "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2124/418/a1.jpg"
+    },
+    {
+      "Title": "ガチくんに! 第424回切り抜き「格ゲー女性プレイヤー座談会！プロへの印象や裏話を聞いてみた」",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2124815.html",
+      "Published": "2026-07-14T03:00:00Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "ガチくんに! 第424回切り抜き「格ゲー女性プレイヤー座談会！プロへの印象や裏話を聞いてみた」\n\n※毎週木曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイター6攻略企画「ガチくんに!」をTwitchとYouTubeで配信しています。レギュラー出演者はぷげら、奥村茉実。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードした切り抜きとアーカイブの動画を掲載しています。\n\nガチくんに! 第424回切り抜き「格ゲー女性プレイヤー座談会！プロへの印象や裏話を聞いてみた」\n\n※毎週木曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイター6攻略企画「ガチくんに!」を Twitch と YouTube で配信しています。レギュラー出演者はぷげら、奥村茉実。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードした切り抜きとアーカイブの動画を掲載しています。\n\n7月9日の配信では、レギュラーの奥村さんに加えて、ゲストにitsukaさん、芦澤佳純さんをお迎えして、格ゲー女性プレイヤーによる座談会を実施。さまざまな質問を通じてガールズトークしていただきました。",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2124/815/01.jpg"
     },
     {
       "Title": "【本日みつけたお買い得品】アイリスオーヤマの15.6型モバイルモニターが約4千円引き",
@@ -4472,36 +4499,144 @@
       "Category": "プライムデー2026",
       "Summary": "ダイソンがプライムデー2026で1年の底値に｜V12もSupersonicも最安一致\n\n普段めったに値引きされないダイソンが、プライムデー2026で1年の底値まで下がる。主役のV12 Detect Slim Fluffyは39%オフの最安一致、Digital Slim Originは46%オフ。Supersonicドライヤーやairstrait、空気清浄ファンまで、狙い目10モデルの予定価格と割引率を正直に整理した。\n\nダイソンがプライムデー2026で1年の底値に｜V12もSupersonicも最安一致\n\nコードレス掃除機からドライヤー、空気清浄ファンまで。多くが年始来の最安値に一致する底値だ\n\nダイソン10モデルがプライムデー2026で底値、多くが年始来最安値に一致\n\n主役はV12 Detect Slim Fluffy（39%オフ）とDigital Slim Origin（46%オフ）\n\nロボット掃除機は27%下げも★3.0と評価低め、レビュー確認を推奨\n\n現在、 プライムデー 2026でとんでもなく値引かれている 。しかも今回は割引率の大きさだけでなく、多くのモデルが「年始来の最安値に一致する」＝1年で一番の底値というのが効くポイントだ。\n\n高額なダイソンは、ちょっとした値引きでも実額のインパクトが大きい。狙っていた掃除機やドライヤーがあるなら、この機会を逃す手はないと僕は思う。\n\nまずはセール会場をチェックしておこう。ダイソンのセール対象商品は こちらのページ から確認できる。\n\nダイソンの本丸、コードレス掃除機が軒並み底値だ。とくにフラッグシップ系の値引きは見逃せない。\n\n今回の主役。予定価格は 45,000円 で、 50%オフ ・★4.5という好条件だ。年始来最安値に一致する底値で、レーザーでゴミを可視化する上位機を狙うなら今が買い時だと思う。\n\n軽さ重視ならこち…",
       "ImageURL": "https://gori.me/uploads/2026/07/Amazon-Prime-Day-2026-Japan-36-800x534.jpg"
-    },
-    {
-      "Title": "Core Ultra Series 3���ܤΥߥ�PC��GPD BOX�פȳ��դ�GPU�ܥå�����GPD G2�פι���ͽ�󤬥�������",
-      "Link": "https://www.4gamer.net/games/409/G040961/20260707044/",
-      "Published": "2026-07-07T11:18:59Z",
-      "Source": "4Gamer.net Hardware",
-      "Category": "HARDWARE",
-      "Summary": "Core Ultra Series 3���ܤΥߥ�PC��GPD BOX�פȳ��դ�GPU�ܥå�����GPD G2�פι���ͽ�󤬥�������\n\n2026年7月7日，天空は，GPDの小型デスクトップPC「GPD BOX」と，外付けGPUボックス「GPD G2」の取り扱い開始を発表した。小型筐体に電源ユニットを内蔵するほか，高速インタフェース規…\n\nCore Ultra Series 3搭載のミニPC「GPD BOX」と外付けGPUボックス「GPD G2」の国内予約がスタート ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ 「スプラトゥーン レイダース」は，Directでたくさん情報が出たからこそこれからに注目！ 発売日までの“お祭り感”を楽しもう ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 本日発売「DEAD OR ALIVE 6 Last Round」の初心者向けガイド。基本無料版で，奥深い3D格闘ゲームをまず浅瀬から体験しよう！ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「SteamNEXTフェス 6月エディション」オススメタイトルまとめ。片っ端から遊んで見つけた，注目してほしいゲームを集めました ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 【島国大和】デベロッパとパブリッシャの理想的な関係とは？ 相手の仕事領域と寝袋の中には，あまり踏み込まないで……！ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ eスポーツを学ぶ高校のリアルな1日。通信制高校「ルネサンス高等学校」池袋キャン…",
-      "ImageURL": "https://www.4gamer.net/games/409/G040961/20260707044/SS/001.jpg"
-    },
-    {
-      "Title": "【Amazonプライムデー】Western Digital「WD Blue 8TB」内蔵HDDが14％オフのセール価格で販売中",
-      "Link": "https://www.gdm.or.jp/pressrelease/2026/0707/642601",
-      "Published": "2026-07-07T08:35:49Z",
-      "Source": "エルミタージュ秋葉原",
-      "Category": "",
-      "Summary": "【Amazonプライムデー】Western Digital「WD Blue 8TB」内蔵HDDが14％オフのセール価格で販売中\n\nAmazonでWestern Digital「WD Blue 8TB」内蔵HDDがタイムセール。CMR方式を採用した8TBの3.5インチSATA HDDで、バックアップやストレージ増設向けの大容量モデルを期間限定価格で購入できる。\n\n【Amazonプライムデー】Western Digital「WD Blue 8TB」内蔵HDDが14％オフのセール価格で販売中\n\nCMR方式を採用した8TBの3.5インチ内蔵HDDが期間限定でお買い得\n\n「Amazonプライムデー先行セール」にて、 Western Digital「WD Blue 8TB」（WD80EAAZ-AJP） がお買い得価格で販売されている。通常価格税込41,800円のところ、税込36,100円（14％オフ）で購入可能だ。\n\nデスクトップPC向けの3.5インチSATA内蔵HDD。容量8TBの大容量モデルで、写真や動画、ゲームデータなどの保存先として余裕のあるストレージ環境を構築できる。記録方式にはCMRを採用するほか、256MBキャッシュを搭載。PCのストレージ増設やバックアップ用途など、幅広い用途で活躍する定番モデルとなっている。\n\n文： 編集部 松枝 清顕 Western Digital： http://www.wdc.com/\n\n【Amazonプライムデー】SteelSeriesのゲーミングキーボードやヘッド…\n\n【Amazonプライムデー】「寝ながらゲームシステム」などBauhutteのゲー…\n\n【Amazonプライムデー】人気デバイスが最大58％オフ。「Razer SUMM…\n\n【Amazonプライムデー】Apple AirPods 4＋AppleCare+…\n\n【Amazonプライムデー】ASUSのROGゲーミングデバイスが最大約29％オフ…\n\n【Amazonプライムデー】MSIの人気ノートPC計8機種が最大18％の特別価格…\n\n2026年7月7日 【Amazonプライムデー】…",
-      "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/07/07/wd_blue_8tb_001.jpg"
-    },
-    {
-      "Title": "【本日みつけたお買い得品】CIOの小型GaN充電器が31%オフでセール中。Amazonでセール",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2123154.html",
-      "Published": "2026-07-07T08:27:08Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "【本日みつけたお買い得品】CIOの小型GaN充電器が31%オフでセール中。Amazonでセール\n\nAmazonでプライムデー先行セールが開催中。CIOのUSB充電器「NovaPort DUOⅡ 67W」が1,700円引き(31%)となる3,780円で購入できる。\n\nCIOの小型GaN充電器が31%オフでセール中。Amazonでセール\n\nAmazonでプライムデー先行セールが開催中。CIOのUSB充電器「NovaPort DUOⅡ 67W」が1,700円引き(31%)となる3,780円で購入できる。\n\nNovaPort DUOⅡ 67Wは、USB Type-C 2基を備えるUSB PD充電器。単ポートで最大65W出力が可能。2ポート利用の場合、1ポートが45W、もう一方は20Wで出力可能。GaN素材のチップを搭載し、変換効率の向上でエネルギーのロスを減らしたことで、極限まで小型化しつつ発熱を抑えたとうたう。本体サイズは約50×40×29mm、重量は約104g。\n\nCIO「NovaPort SOLOⅡ 65W」は、900円引きにより、3,480円で購入可能。USB Type-Cの単ポートの充電器で最大65WのUSB PD出力を行なえる。本体サイズは約52.5×30×26.5mm、重量は約74g。\n\nCIO「NovaPort SOLO II 100W」は、1,200円引きにより、4,780円で購入可能。USB Type-Cの単ポートの充電器で最大100WのUSB PD出力を行なえる。本体サイズは約57×40×29mm、重量は約121g。",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2123/154/01.jpg"
     }
   ],
   "world": [
+    {
+      "Title": "Google、Gemini 3.5 ラインを 3 つの新モデルで拡張 - Gemini 3.5 Pro の最新情報を共有",
+      "Link": "https://www.androidauthority.com/google-launches-gemini-36-flash-3689795/",
+      "Published": "2026-07-21T18:32:00Z",
+      "Source": "Android Authority",
+      "Category": "Google Gemini",
+      "Summary": "Google、Gemini 3.5 ラインを 3 つの新モデルで拡張 - Gemini 3.5 Pro の最新情報を共有\n\nGoogle は、Gemini 3.6 Flash と 3.5 Flash シリーズの 2 つの新しいモデルを展開すると発表しました。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nGoogle、Gemini 3.5 ラインを 3 つの新モデルで拡張 - Gemini 3.5 Pro の最新情報を共有\n\n0 • Joe Maring / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google は、CodeMender で Gemini 3.6 Flash、3.5 Flash-Lite、および 3.5 Flash Cyber のリリースを発表しました。\n\n3.6 Flash では、3.5 Flash と比較して出力トークンの使用量が 17% 削減されると言われています。\n\nGoogleは、Gemini 3.5 Proを間もなく広く利用できるようにする予定であり、チームはGemini 4の事前トレーニングを開始したと述べている。\n\n5 月に遡ると、Google は当時最もスマートな速度モデルである Gemini 3.5 Flash をリリースしました。それからわずか 2 か月ほどしか経っていませんが、新しい輝かしい AI モデルがそれに代わる準備ができています。 Google は Gemini 3.6 Flash の発売を発表しました。同社は 3.6 Flash に加えて、CodeMender で 3.5 Flash-Lite と 3.5 Flash Cyber​​ もリリースします。\n\nGemini 3.6 Flash: 機能とハイライト\n\nGemini 3.6 Flash は、Google の主力 Flash モデルとして宣伝されており、以前よりも優れたコーディング、ナレッジ …",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg"
+    },
+    {
+      "Title": "RTX 3080 はもう古いはずだったが、RTX 60 の遅れによりさらに 2 年延びた",
+      "Link": "https://www.xda-developers.com/rtx-60-delay-gave-rtx-3080-two-more-years/",
+      "Published": "2026-07-21T18:30:10Z",
+      "Source": "XDA",
+      "Category": "NVIDIA GeForce RTX 3080",
+      "Summary": "RTX 3080 はもう古いはずだったが、RTX 60 の遅れによりさらに 2 年延びた\n\nあと数年間は RTX 3080 をアップグレードする必要がありません\n\nRTX 3080 はもう古いはずだったが、RTX 60 の遅れによりさらに 2 年延びた\n\nBy Tanveer Singh 公開 2026 年 7 月 21 日、午後 2 時 30 分 EDT 7 年間の企業勤務を経て、Tanveer は執筆とテクノロジーへの愛が抑えられないことに気づきました。マーケティングの MBA を取得し、PC 構築ビジネスのオーナーでもある彼は、PC ハードウェア、テクノロジ、および Windows について執筆しています。 Web でアイデアを探していないときは、PC を構築したり、アニメを見たり、RTX 3080 でスマッシュ カートをプレイしたりしています (ため息)。 XDA アカウントにサインインする 以前に計画していた RTX 3060 Ti の代わりに RTX 3080 を手に入れたとき、どれほど有頂天になったかを今でも覚えています。 80 クラスのアンペア カードは新鮮な空気の息吹のように感じられ、より高価になることなく、前世代に比べて大きな世代の向上をもたらしました。 Nvidia の優れたアップスケーリング サポートと RTX 3080 の生のパワーにより、誰もが期待していたよりもはるかに長い間、RTX 3080 の関連性が維持されてきました。\n\nメモリ不足により次世代 RTX 60 シリーズの発売が 2028 年に延期される中、Nvidia は間接的に RTX 3080 の寿命を延長しました。既存の所有者は、RTX 50 シリーズが世代間のパフォーマンスの飛躍的な時代をすでに終えたことを認識しています。 RTX 60 シリーズもゲーマーを失望させる可能性がありますが、たとえそうでなかったとしても、遅延により、RTX 3080 はさらに 2 年近く「十分に優れた」ものになりました。\n\nRTX 3080 は素晴らしい GPU でしたが、その寿命は常に限られていまし…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/wtrmrk-evga-rtx-3080-ftw3-gpu-graphics-card-nvidia-12.png?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "Raspberry Pi を古い携帯電話に置き換えたところ、すべてを処理してくれました",
+      "Link": "https://www.xda-developers.com/replaced-raspberry-pi-old-phone-handled-everything-threw/",
+      "Published": "2026-07-21T18:00:10Z",
+      "Source": "XDA",
+      "Category": "phone",
+      "Summary": "Raspberry Pi を古い携帯電話に置き換えたところ、すべてを処理してくれました\n\nRaspberry Pi は、もはや改造好きにとって最高のハードウェアではありません。\n\nRaspberry Pi を古い携帯電話に置き換えたところ、すべてを処理してくれました\n\nBy Anurag Singh 公開 2026 年 7 月 21 日、午後 2:00 EDT Anurag は、過去 5 年間、Windows、Android、Apple を中心にテクノロジーをカバーしてきた経験豊富なジャーナリスト兼著者です。彼は Android Police、Neowin、Dexerto、MakeTechEasier などのサイトに執筆しています。アヌラグは常にテクノロジーに興味があり、最新のガジェットを手に入れるのが大好きです。先延ばしにしていないときは、おそらく彼が映画館で最新映画を鑑賞したり、ベッドから Twitter をスクロールしたりしているのを見かけるでしょう。 XDA アカウントにサインインする 電力をあまり消費せずにオンライン状態を維持できる小型コンピューターが必要なときは、Raspberry Pi が長い間私のデフォルトの選択肢でした。私はこれを、オートメーションの実行、軽量サービスのホスト、デバイス間でのファイルの移動、ラップトップの電源を入れたままにしておくことが正当化されないその他のバックグラウンド ジョブの処理に使用してきました。ただし、Pi には最も強力なハードウェアが搭載されていないため、Pi 上で実行できるサービスは限られています。\n\n私はそれを Android スマートフォンに置き換えました。これは 5 年近く前のものですが、より強力な ARM プロセッサ、内蔵ストレージ、Wi-Fi、停電時に UPS として機能するバッテリーがまだ搭載されています。 Raspberry Pi で実行していた基本サービスを携帯電話に移行してみましたが、予想よりもはるかにうまく処理されました。実際、Pi 自体よりも優れています。\n\nRaspberry Pi のセットアップ…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/1782750341030.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "The Prusa Nextruder’s Built-In Sensor Can Handle Pressure Advance Calibration",
+      "Link": "https://www.hackster.io/news/the-prusa-nextruder-s-built-in-sensor-can-handle-pressure-advance-calibration-7d90796e2bc2",
+      "Published": "2026-07-21T17:54:21Z",
+      "Source": "Hackster.io",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "Forza Horizo​​n 5 クリエイティブ ディレクターが Xbox Game Pass を擁護:「それは良いアイデアだ」",
+      "Link": "https://www.techpowerup.com/350942/forza-horizon-5-creative-director-defends-xbox-game-pass-its-a-good-idea",
+      "Published": "2026-07-21T17:50:27Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "Forza Horizon 5 クリエイティブ ディレクターが Xbox Game Pass を擁護:「それは良いアイデアだ」\n\nMinnMax ポッドキャストの最近のエピソードで、Forza Horizon 5 のクリエイティブ ディレクターであり、Playground Games を辞めて Maverick Games で Clutch に取り組んで以来 Maverick Games の共同創設者である Mike Brown 氏が、Xbox の最近の大幅な変更と Xbox Game Pass の状態についてコメントしました。彼はとても賞賛しています...\n\nForza Horizon 5 クリエイティブ ディレクターが Xbox Game Pass を擁護:「それは良いアイデアだ」\n\n2026 年 4 月 13 日 Epic Games ストアの従業員: 無料ゲームのためだけに来て、その後 Steam に戻ってきた人々 (91)\n\n2026 年 5 月 18 日 インサイダーは、ソニーが PC ポートを廃止することを認めています: 「PC に登場するシングル プレイヤー ゲームは少なくなるでしょう。」 (135)\n\n2026 年 3 月 6 日 PlayStation 6 のリークヒント 4K 120 FPS は「ほとんどのゲームで」PS5 の 6 ～ 12 倍の RT パフォーマンスを実現 (116)\n\n2026 年 6 月 12 日 Xbox ゲーム CSO がゲーム内の広告を「手頃な価格の代替案」として売り込む (54)\n\n2026 年 7 月 8 日 Xbox が PlayStation に続く: シングルプレイヤー専用ゲームとクロスプラットフォーム マルチプレイヤー ゲーム (24)\n\n2026 年 4 月 17 日 Pragmata のローンチ: 輝かしいレビューとチャートトップの売上を誇るが、プレイヤー数は平凡 (62)\n\n2026 年 6 月 29 日 Xbox の再編: サードパーティ スタジオのゲーム パスはもう不要? (4)\n\n2026 年 5…",
+      "ImageURL": "https://www.techpowerup.com/img/YQmfON2AaWR2mqof.jpg"
+    },
+    {
+      "Title": "Nvidia は、さまざまな詳細レベルに対応する 3 つの AI モードを備えた DLSS 5 を披露 — アップスケーラーはリアルタイムでモデルを切り替えることができます",
+      "Link": "https://www.tomshardware.com/pc-components/gpus/nvidia-shows-off-dlss-5-with-three-ai-modes-for-different-levels-of-detail-upscaler-can-switch-between-models-in-real-time",
+      "Published": "2026-07-21T17:46:05Z",
+      "Source": "Tom's Hardware",
+      "Category": "PC Components",
+      "Summary": "Nvidia は、さまざまな詳細レベルに対応する 3 つの AI モードを備えた DLSS 5 を披露 — アップスケーラーはリアルタイムでモデルを切り替えることができます\n\nDLSS 5 はこの秋に登場します。\n\nNvidia は、さまざまな詳細レベルに対応する 3 つの AI モードを備えた DLSS 5 を披露 — アップスケーラーはリアルタイムでモデルを切り替えることができます\n\n(画像クレジット: Nvidia) リンクをコピー\n\n0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する Nvidia は、強力で批判的な反響を受けて、今年初めに DLSS 5 を初めてデビューさせました。このアップスケーリング技術は、限界を超え、AI を使いすぎているとして、一部の報道機関や愛好家から非難されそうになりました。\n\nThe Stout Owl: 究極の Noctua G2 PC\n\n当時、Nvidia は DLSS 5 が芸術的意図を維持するとコミュニティを安心させ、CEO のジェンスン フアンはゲーマーはそれを理解していないとさえ主張しました。さて、同社は SIGGRAPH で再び DLSS 5 を展示しましたが、今回は明らかに異なっています。\n\nWatch On 主なポイントは、さまざまな詳細レベルとパフォーマンスへの影響を備えた 3 つの異なるモデルの導入です。ゲームは常に 1 つのモデルに限定される必要はありません。代わりに、開発者はさまざまなシーンにさまざまなモデルを採用することを選択できます。キャラクターと世界など、シーンの個々の要素を、DLSS がどの程度修正するか (またはまったく修正しないか) に関して微調整することもできます。\n\n(画像クレジット: Nvidia) (画像クレジット: Nvidia) 画像 1/2 オリジナルを表示\n\nそうすれば、遅延を発生させることなく、モデルをリアルタイムで自由に切り替えることができます。 DLSS 5 では、画像をアップスケーリングするだけでなく、さま…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/ZLpm6CmyMocnQe5NqqyVTM-2284-80.jpg"
+    },
+    {
+      "Title": "技術価格の高騰に対するAppleの答えは、次のiPhoneをリースすることかもしれない",
+      "Link": "https://www.androidauthority.com/apple-upgrade-program-3689806/",
+      "Published": "2026-07-21T17:44:23Z",
+      "Source": "Android Authority",
+      "Category": "Apple",
+      "Summary": "技術価格の高騰に対するAppleの答えは、次のiPhoneをリースすることかもしれない\n\nAppleは新しいApple Upgradeプログラムを開始し、顧客にiPhone、iPad、Mac、Apple Watchハードウェアのリースを奨励すると報じられている。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\niPhoneとiPad 技術価格高騰に対するAppleの答えは、次のiPhoneをリースすることかもしれない\n\n0 • Aamir Siddiqui / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Apple は、既存の資金調達オプションに代わる新しいデバイス リース プランで Klarna と提携していると伝えられています。\n\n顧客はハードウェアを 24 か月間または 36 か月間リースすることができ、各リース終了時にハードウェアを返却、維持、またはアップグレードすることができます。\n\nApple Upgrade プログラムは来週開始される予定です。\n\nインフレによって電子機器の価格が上昇するのは、消費者にとってはもちろん悪いことですが、メーカーにとっても問題です。スマートフォンなどの商品の定価を引き上げて、1台あたりの利益を増やすことはできますが、価格が高くなりすぎると、買い物客が値下がりして顧客ベースが縮小し始めます。 AppleはどうやらiPhoneやその他の製品の融資オプションを変更することで厳しい経済状況に対応しているようで、来週には新しいデバイスのリースオプションが開始されると伝えられている。\n\nブルームバーグのMark Gurman氏が報じたように、AppleはApple Upgradeと呼ばれる新しいプログラムの立ち上げに向けて準備を進めている。 Apple の既存のデバイス融資オプションとは異なり、Apple Upgrade は複数年契約のリース契約となり、その後、顧客はリース…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/02/Apple-iPhone-17-series-iPhone-17-iPhone-Air-iPhone-17-Pro-iPhone-17-Pro-Max.jpg"
+    },
+    {
+      "Title": "(PR) TobenOne、プログラム可能なショートカット キーとボリューム ノブを備えた UDS060 ドッキング ステーションを紹介",
+      "Link": "https://www.techpowerup.com/350945/tobenone-intros-uds060-docking-station-with-programmable-shortcut-keys-and-volume-knob",
+      "Published": "2026-07-21T17:39:14Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "(PR) TobenOne、プログラム可能なショートカット キーとボリューム ノブを備えた UDS060 ドッキング ステーションを紹介\n\nオフィス接続ソリューションに特化したプロのドッキング ステーション ブランドである TobenONE は、完全にプログラム可能なショートカット キーとカスタマイズ可能なボリューム ノブを備えた革新的なドッキング ステーションである UDS060 を発売しました。ユーザーがワークフローをより詳細に制御できるように設計された UDS060...\n\nTobenOne Intros UDS060 ドッキング ステーション (プログラム可能なショートカット キーとボリューム ノブ付き)\n\n2026 年 4 月 28 日 EU では、新しいラップトップには最大 100 W の USB-C 充電が必須になりました (73)\n\n2026 年 3 月 6 日 Ugreen が次世代 Thunderbolt 5 ドッキング ステーションをリリース (2)\n\n2026 年 4 月 30 日 StarTech.com、Mac、Windows、Linux 用ドライバーレス デュアル ディスプレイを備えた業界初の USB4 ドックを発売 (5)\n\n2026 年 6 月 15 日 Baseus が Spacemate RD1 Pro 15-in-1 ドッキング ステーションを発表 (1)\n\n2026 年 5 月 26 日 Kensington が 80 Gbps の速度とトリプル 4K サポートを備えたエントリーレベルの Thunderbolt 5 ドッキング ステーションを発売 (6)\n\n2026 年 6 月 3 日 AVerMedia が Computex 2026 で新しいストリーミング デバイスとキャプチャ デバイスを展示 (0)\n\n2026 年 4 月 7 日 StarTech が Windows ラップトップ用の新しい MST ドッキング ステーションをリリース (8)\n\n2026 年 4 月 23 日 タートルビーチ、PC ゲーミング キーボードと…",
+      "ImageURL": "https://www.techpowerup.com/img/KMf4hCGkATdkmYp5.jpg"
+    },
+    {
+      "Title": "サムスンの 49 インチ Odyssey OLED が 700 ドルオフになりました。これはあなたが待ち望んでいたウルトラワイド ゲーム モニターです",
+      "Link": "https://www.xda-developers.com/samsung-49-inch-odyssey-g93sd-oled-best-price/",
+      "Published": "2026-07-21T17:31:10Z",
+      "Source": "XDA",
+      "Category": "Over $300",
+      "Summary": "サムスンの 49 インチ Odyssey OLED が 700 ドルオフになりました。これはあなたが待ち望んでいたウルトラワイド ゲーム モニターです\n\nあなたが望むすべてのもの\n\nサムスンの 49 インチ Odyssey OLED が 700 ドルオフになりました。これはあなたが待ち望んでいたウルトラワイド ゲーム モニターです\n\nBy Timi Cantisano 公開 2026 年 7 月 21 日、午後 1 時 31 分 EDT Timi は 10 年以上にわたり、スマートフォン、コンピューター、およびテクノロジー分野で興味があるものすべてに焦点を当ててテクノロジーについて執筆してきました。彼は XDA に執筆を開始し、モバイルに関するあらゆることをカバーしていましたが、インターネット上で最高のハイテク製品の最高の割引を明らかにすることを使命として、取引をカバーすることに移行しました。 XDA アカウントにサインインする 映画やゲームに最適な広大なディスプレイ体験を夢見ていたなら、このモニターが最適です。巨大な 49 インチの曲面 OLED スクリーンと、240 Hz のリフレッシュ レートと 0.03 ミリ秒の応答時間による優れたパフォーマンスが得られます。\n\nこれは、この業界で最も優れたメーカーの 1 つである Samsung 製で、メーカー希望小売価格は 1,700 ドルとかなり高価ですが、現在は Best Buy の 700 ドル割引のおかげで、さらに安く購入できます。\n\nOLED モニターは以前ほど高価ではないため、新しいものを購入する場合には良いことです。しかし、良いものでも1,000ドル以上の価格がかかる場合があります。そうは言っても、支払った対価は得られます。この場合、優れたパフォーマンスを備えた巨大な画面が得られます。\n\n上記の仕様に加えて、このモニターは AMD FreeSync Premium および Nvidia の G-Sync テクノロジーをサポートしています。これらは両方とも、特に状況が少し激しくなった場合に、途切れのないゲームを実…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2025/11/untitled-design-2-1.png?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "自分のスマートホーム デバイスを意図的に調整したところ、ネットワーク全体が高速化しました",
+      "Link": "https://www.xda-developers.com/throttled-smart-home-devices-on-purpose-network-got-faster/",
+      "Published": "2026-07-21T17:30:10Z",
+      "Source": "XDA",
+      "Category": "Router",
+      "Summary": "自分のスマートホーム デバイスを意図的に調整したところ、ネットワーク全体が高速化しました\n\nローカルデバイスは最上位です。\n\n自分のスマートホーム デバイスを意図的に調整したところ、ネットワーク全体が高速化しました\n\nBy Jasmine Mannan 公開 2026 年 7 月 21 日、午後 1 時 30 分 EDT Jasmine は、XDA のソフトウェアおよび PC ハードウェアの著者であり、AI チャットボットからゲーム ハードウェアに至るまで、長年にわたる技術レポートの経験があり、ほぼすべてをカバーしています。最新の AMD NPU に関する速報ニュースであれ、ソーシャル メディア プラットフォームでのビデオ チュートリアルの作成であれ、Jasmine は、Razer の CEO、AMD の製品マーケティング ディレクター、Lenovo の副社長へのインタビューなど、さまざまな方法で AI とテクノロジーの世界に貢献してきました。ゲームと PC テクノロジーに情熱を持っている彼女は、数え切れないほどのコンピューター、キーボード、その他の周辺機器を構築し、それらを隅々まで知り尽くしています。 XDA アカウントにサインインする 超高速ギガビット層インターネットの料金を支払ったとしても、Web ページがまだバッファリングされている、スマート スピーカーが応答しない、スイッチを入れてからスマート電球が点灯するまでに数秒かかる場合があります。場合によっては、より高速なローカル ネットワークには、ハードウェアのアップグレードやより高価な ISP 層が必要ありません。\n\n最適化が必要なのは、スマート ホーム デバイスの通信パターンかもしれません。クラウド ポーリングからローカル プッシュ構成に戦略的に移行し、高周波センサーを分離し、マルチキャスト レートを制限することで、ローカル ネットワークの混雑を大幅に軽減し、ホーム ネットワーク全体の応答性を驚くほど高めることができます。\n\nスマート ホームがネットワークを制限しています\n\nSwitchBot Hub 3 (R)…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/02/smart-home-devices-on-a-table-including-a-camera-and-tv-box.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "データと健全性を守る Android データ復元ツールを節約しましょう",
+      "Link": "https://www.androidauthority.com/dr-fone-android-data-recovery-3676898/",
+      "Published": "2026-07-21T17:20:06Z",
+      "Source": "Android Authority",
+      "Category": "Android",
+      "Summary": "データと健全性を守る Android データ復元ツールを節約しましょう\n\nDr.Fone – Android Data Recovery は、削除またはデバイスの損傷後でも、Android スマートフォンから失われたファイルを復元するのに役立ちます。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nデータと健全性を守る Android データ復元ツールを節約しましょう\n\nWondershare Google Discover でフォローしてください 優先ソースとして追加してください 重要なデータが永久に失われる可能性があることを認識すること以上に即座にストレスとなる電話の問題はほとんどありません。もしかしたら、あなたの Android スマートフォンが泳いだ、画面が割れた、工場出荷時設定へのリセットが失敗した、または長年の WhatsApp メッセージが突然消えてしまったかもしれません。原因が何であれ、その静かな小さなパニックは同じです。これらのファイルを戻す必要があり、状況をさらに複雑にしない回復オプションが必要です。\n\nそこでDr.Fone — Android Data Recoveryの出番です。これは、写真、メッセージ、連絡先、ビデオ、通話記録、ドキュメント、WhatsAppデータなどを含む、Androidデバイスから紛失または削除されたデータを回復できるように設計された強力なAndroidデータ回復ソフトウェアです。 Dr.Fone は Android デバイスをスキャンして回復可能なファイルを探し、完全な回復を開始する前に結果をプレビューできます。これは、特定のフォト アルバムや連絡先リストを救出しようとしていて、推測に頼る必要がない場合に便利です。最初に何が復元できるかを確認してから、実際に戻したいものを選択したい場合に便利です。\n\n最も明白な使用例は、誤って削除することです。簡単な片づけが小さな個人的な災難に変わってしまう瞬間は、誰しも経験があるはずです。 Dr.Fone を使用…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Wondershare-Dr-Fone-Data-Recovery-For-Android-Feature.jpg"
+    },
+    {
+      "Title": "NVIDIA、88 コア、176 スレッド、最大 1.5 TB の LPDDR5X メモリを搭載した「Vera」CPU の詳細を発表",
+      "Link": "https://www.techpowerup.com/350943/nvidia-details-vera-cpu-with-88-cores-176-threads-and-up-to-1-5-tb-of-lpddr5x-memory",
+      "Published": "2026-07-21T17:18:34Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "NVIDIA、88 コア、176 スレッド、最大 1.5 TB の LPDDR5X メモリを搭載した「Vera」CPU の詳細を発表\n\nNVIDIA は本日、最新のカスタム Armv9.2「Vera」CPU について詳細を発表しました。同社はこれを CPU エンジニアリングの頂点と称しています。 NVL ラックスケール システム内で共存するか、独立して動作するように設計されている NVIDIA は、顧客からの導入に大きな関心を持っています。\n\nNVIDIA、88 コア、176 スレッド、最大 1.5 TB の LPDDR5X メモリを搭載した「Vera」CPU の詳細を発表\n\n2025 年 7 月 23 日 8,800 ～ 17,600 MT/s の DDR6 メモリが 2027 年に登場 (196)\n\n2025 年 9 月 18 日 NVIDIA がインテルを 50 億ドル相当で買収、RTX iGPU が x86 に登場、株価は 25% 上昇 (256)\n\n2026 年 3 月 30 日 NVIDIA が、RT パフォーマンスを大幅に向上させた Rubin ベースの GeForce RTX 60 シリーズをリリース (162)\n\n2026 年 1 月 16 日 NVIDIA が GeForce RTX 5070 Ti の生産を終了、RTX 5060 Ti 16 GB Next (210) と伝えられる\n\n2025 年 9 月 10 日 NVIDIA GeForce RTX 50 シリーズ SUPER GPU が CES 2026 に登場する可能性 (69)\n\n2026 年 7 月 10 日 NVIDIA が GeForce RTX 5090 SE グラフィックス カードを準備 (161)\n\n2025 年 9 月 8 日 AMD は、Arm ISA は x86 (97) を超える効率上の利点を提供していないと主張\n\n2025 年 12 月 31 日 AI 業界の需要のおかげで、2026 年に 5000 ドルの RTX 5090 GPU が登場するとリークが予測 (124…",
+      "ImageURL": "https://www.techpowerup.com/img/No5BYahwTAC0T7Tc.jpg"
+    },
+    {
+      "Title": "レイバンの幹部だけが「変態」スマートグラス広告のユーモアを理解できる",
+      "Link": "https://www.androidauthority.com/ray-ban-meta-ad-pervert-glasses-3689738/",
+      "Published": "2026-07-21T17:00:47Z",
+      "Source": "Android Authority",
+      "Category": "Smart Glasses",
+      "Summary": "レイバンの幹部だけが「変態」スマートグラス広告のユーモアを理解できる\n\nRay-Ban と EssilorLuxottica の幹部は、スマートグラスをプライバシーの悪夢として描いた活動家の広告に対して笑いの絵文字で反応した。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nレイバンの幹部だけが「変態」スマートグラス広告のユーモアを理解できる\n\n0 • Joanna Stern / YouTube Google Discover でフォローしてください 優先ソースとして追加してください TL;DR レイバンの幹部は、Meta のスマート グラスの潜在的なプライバシー問題を強調するロンドンのパロディ広告にユーモアを交えて反応しました。\n\n活動家らはロンドン中の複数のメタスマートグラス広告を最新の表現に置き換えた。\n\n最近の報道では、メタ社の次世代スマートグラスに対するプライバシーへの懸念がさらに高まる可能性があることが示唆されています。\n\nMeta と Ray-Ban は新しい AI スマート グラスを量産し続けていますが、これらのグラスに関してプライバシー関連の懸念の声が相次いでいるのを私たちは目にしています。最近のアップデートで明らかなように、Meta はこれらの問題の少なくとも一部を確実に認識しています。レイバンの幹部は現在、反応を示しているが、それは多くの人が期待するものではない。\n\n背景として、ロンドンの活動家らは、特定の公共スペースでメタのスマートグラス広告をメタの公式グラフィックスに似た広告に置き換えたが、人々が抱くプライバシーへの懸念の一部を反映して表現を更新した。\n\n今週のインスタグラムのストーリーで、レイバンの社長兼EssilorLuxotticaの最高戦略責任者であるレオナルド・デル・ヴェッキオ氏が、そのような活動家に置き換えられた広告の画像を使って笑いの絵文字で同調した（The Vergeより）。\n\nこれに続いて、この幹部は別の記事を投稿し、「このことを笑えないなら、なぜ誰…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/06/How-People-Secretly-Record-You-With-Ray-Ban-Meta-Glasses.jpg"
+    },
+    {
+      "Title": "郵便 IRC はほぼ過去のものになりました",
+      "Link": "https://hackaday.com/2026/07/21/postal-ircs-are-almost-a-thing-of-the-past/",
+      "Published": "2026-07-21T17:00:35Z",
+      "Source": "Hackaday",
+      "Category": "shortwave radio",
+      "Summary": "郵便 IRC はほぼ過去のものになりました\n\n若い頃の思い出のものが、今では失われていることに気づいたことがありますか?あなたがある程度の年齢の人なら、私がこのニュースを伝えるときにそう感じるかもしれません。「あなたは…」\n\n若い頃の思い出のものが、今では失われていることに気づいたことがありますか?ある程度の年齢の方なら、私がこのニュースを伝えたときにそう感じるかもしれません。2013 年初頭以来、米国の郵便局で国際返信クーポン (IRC) を購入できなくなりました。2026 年末までに、どこでも購入できなくなります。 IRC の時代は終わりました。\n\nもしそれがあなたにとって何の意味もなかったとしたら、あなたはまだ幼すぎて覚えていないかもしれません。あるいは単に短波のリスニングやアマチュア無線に興味がなかっただけかもしれません。 IRC を購入する理由は他にもありましたが、Hackday 読者が IRC を購入した最も可能性の高い理由は、ラジオの趣味です。\n\nラジオの場合、ここに問題があります。あなたは何か月間もステーションの開発に取り組み、ある冬の夜、ついにその珍しいステーションをルクセンブルクから引き込みました。あなたの声が聞こえたことを確認するために、QSL カードが送られてきます。メッセージを聞いた時間、頻度、および聞いた番組の詳細を伝える手紙を送るだけです。しかし、おそらく彼らは、何百枚、何千枚ものカードを海外に送るのに必要な郵便料金を払いたくないでしょう。\n\nこれは無線特有の問題ですが、文通相手や海外の企業から商品を購入しようとする場合にも同じ問題が発生する可能性があります。\n\n全員が同じ国にいたら、解決は簡単でしょう。切手を取り、住所を書いた封筒に貼り、手紙を詰めます。または、送信した手紙に切手を 1 つか 2 つ貼り付けることもできます。\n\n問題は、米国の郵便料金がラジオ・ルクセンブルクの助けにならないことです。一方で、ルクセンブルクで使える郵便料金を購入するのに必要な労力は悪夢だったでしょう。\n\n万国郵便連合は実質的に 192 か国の郵便局の連合体で…",
+      "ImageURL": "https://hackaday.com/wp-content/uploads/2026/07/PostalIRC.jpg"
+    },
+    {
+      "Title": "私のお気に入りの LM Studio の代替品は Ollama ではありません。より高速で軽量なものです。",
+      "Link": "https://www.xda-developers.com/favorite-lm-studio-alternative-isnt-ollama-its-something-faster-more-lightweight/",
+      "Published": "2026-07-21T17:00:10Z",
+      "Source": "XDA",
+      "Category": "Artificial Intelligence",
+      "Summary": "私のお気に入りの LM Studio の代替品は Ollama ではありません。より高速で軽量なものです。\n\n自分の試合で両方に勝つ軽量ランナー\n\n私のお気に入りの LM Studio の代替品は Ollama ではありません。より高速で軽量なものです。\n\nBy Nolen Jonker 公開 2026 年 7 月 21 日、午後 1:00 EDT Nolen は 2019 年に執筆活動を開始し、3 年間 MakeUseOf のクリエイティブ セクションの編集に専念しました。彼らの専門知識はテクノロジーと創造性の交差点にあり、写真、ビデオ編集、グラフィック デザインなどの分野をカバーしています。仕事以外では、ノーレンが良い本を読んだり、自分の物語を書いたり、ビデオ ゲームをしたりしているのをよく見かけます。 XDA アカウントにサインインする ローカル LLM は多くのワークフローの実際の日常的な部分になっており、それに伴ってランナー スペースも急速に成長しています。私の意見では、ローカル AI に入門する人にとって、LM Studio は依然として最も簡単な最初のランナーであり、Ollama が僅差で 2 番目です。しかし、検討する価値のあるオプションはこれらだけではありません。また、それらには確かに独自の欠点があり、それを掘り下げる価値があります。\n\nKoboldCpp は、私が実際に試してみるまで、しばらくの間セルフホスティング界隈で話題になり続けたものです。これは、LM Studio と Ollama がラッパーである同じ llama.cpp コア上に構築されていますが、すべてをパッケージ化する方法が異なり、同じハードウェア上でのパフォーマンスの違いもかなり顕著です。\n\nAI の最新情報を常に把握したいですか? XDA AI Insider ニュースレターは、サイトの他の場所では見られない詳細な調査、ツールの推奨事項、実践的な報道を毎週配信します。ニュースレターの設定を変更して購読してください。\n\nすべてを 1 つのファイルに詰め込むランナー\n\n少量のダウンロー…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/koboldcpp-on-desktop-pc-lamp-in-view.jpeg?w=1600\u0026h=900\u0026fit=crop"
+    },
     {
       "Title": "KB5121767 out-of-band Windows Update fixes shutdown bug on affected Dell PCs",
       "Link": "https://www.tweaktown.com/news/112723/kb5121767-out-of-band-windows-update-fixes-shutdown-bug-on-affected-dell-pcs/index.html",
@@ -5565,21 +5700,21 @@
       "ImageURL": "https://cdn.mos.cms.futurecdn.net/p2QqhVFP7dTRWfeVBCYBYV-1920-80.jpg"
     },
     {
-      "Title": "OneXPlayer が X2 Mini Pro の予約注文を開始: AMD Ryzen AI Max+ 388 ハンドヘルドを 2,499 ドルで",
-      "Link": "https://www.techpowerup.com/350900/onexplayer-opens-x2-mini-pro-pre-orders-amd-ryzen-ai-max-388-handheld-for-usd-2-499",
-      "Published": "2026-07-20T18:04:07Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "OneXPlayer が X2 Mini Pro の予約注文を開始: AMD Ryzen AI Max+ 388 ハンドヘルドを 2,499 ドルで\n\nOneXPlayer は、デバイスが Indiegogo で発売される直前の 2026 年 4 月に、Ryzen AI Max+ 388 を搭載した X2 Mini Pro を発表しました。 Indiegogo の発売に続き、X2 Mini Pro が OneXPlayer ストアの在庫製品として正式に発売されました。現在の開始価格の一部は...\n\nOneXPlayer が X2 Mini Pro の予約注文を開始: AMD Ryzen AI Max+ 388 ハンドヘルドを 2,499 ドルで\n\n2025 年 7 月 23 日 8,800 ～ 17,600 MT/s の DDR6 メモリが 2027 年に登場 (196)\n\n2025 年 8 月 4 日 AMD が 192 MB L3 キャッシュと 200 W TDP を搭載した 16 コア Ryzen 9000X3D CPU をリリース (355)\n\n2025 年 8 月 21 日 12VHPWR コネクタの溶融により、最初の AMD RX 9070 XT 被害者が主張 (109)\n\n2026 年 6 月 12 日、4000 ドルの AMD Ryzen AI Halo Mini PC 開発キットの予約注文が開始 (47)\n\n2025 年 9 月 18 日 NVIDIA がインテルを 50 億ドル相当で買収、RTX iGPU が x86 に登場、株価は 25% 上昇 (256)\n\n2026 年 5 月 31 日 AMD が Ryzen 7 5800X3D 10th Anniversary Edition と Ryzen 7 7700X3D を正式発表 (164)\n\n2026 年 5 月 27 日 リーカーが天文学的な蒸気機械の価格を示唆 (74)\n\n2026 年 4 月 16 日 AMD、Ryzen 7 5800X3D を「AM4 10th Anniversary Ed…",
-      "ImageURL": "https://www.techpowerup.com/img/aq1ssPLkacpnALTx.jpg"
-    },
-    {
       "Title": "OneXPlayer X2 Mini Pro が登場: AMD Ryzen AI Max+ 388 ハンドヘルドが 2,499 ドルで登場",
       "Link": "https://www.techpowerup.com/350900/onexplayer-x2-mini-pro-now-available-amd-ryzen-ai-max-388-handheld-for-usd-2-499",
       "Published": "2026-07-20T18:04:07Z",
       "Source": "TechPowerUp",
       "Category": "",
       "Summary": "OneXPlayer X2 Mini Pro が登場: AMD Ryzen AI Max+ 388 ハンドヘルドが 2,499 ドルで登場\n\nOneXPlayer は、デバイスが Indiegogo で発売される直前の 2026 年 4 月に、Ryzen AI Max+ 388 を搭載した X2 Mini Pro を発表しました。 Indiegogo の発売に続き、X2 Mini Pro が OneXPlayer ストアの在庫製品として正式に発売されました。現在の開始価格の一部は...\n\nOneXPlayer X2 Mini Pro が登場: AMD Ryzen AI Max+ 388 ハンドヘルドが 2,499 ドルで登場\n\n2025 年 7 月 23 日 8,800 ～ 17,600 MT/s の DDR6 メモリが 2027 年に登場 (196)\n\n2025 年 8 月 4 日 AMD が 192 MB L3 キャッシュと 200 W TDP を搭載した 16 コア Ryzen 9000X3D CPU をリリース (355)\n\n2025 年 8 月 21 日 12VHPWR コネクタの溶融により、最初の AMD RX 9070 XT 被害者が主張 (109)\n\n2026 年 6 月 12 日、4000 ドルの AMD Ryzen AI Halo Mini PC 開発キットの予約注文が開始 (47)\n\n2025 年 9 月 18 日 NVIDIA がインテルを 50 億ドル相当で買収、RTX iGPU が x86 に登場、株価は 25% 上昇 (256)\n\n2026 年 5 月 31 日 AMD が Ryzen 7 5800X3D 10th Anniversary Edition と Ryzen 7 7700X3D を正式発表 (164)\n\n2026 年 5 月 27 日 リーカーが天文学的な蒸気機械の価格を示唆 (74)\n\n2026 年 4 月 16 日 AMD、Ryzen 7 5800X3D を「AM4 10th Anniversary Edition」として再…",
+      "ImageURL": "https://www.techpowerup.com/img/aq1ssPLkacpnALTx.jpg"
+    },
+    {
+      "Title": "OneXPlayer が X2 Mini Pro の予約注文を開始: AMD Ryzen AI Max+ 388 ハンドヘルドを 2,499 ドルで",
+      "Link": "https://www.techpowerup.com/350900/onexplayer-opens-x2-mini-pro-pre-orders-amd-ryzen-ai-max-388-handheld-for-usd-2-499",
+      "Published": "2026-07-20T18:04:07Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "OneXPlayer が X2 Mini Pro の予約注文を開始: AMD Ryzen AI Max+ 388 ハンドヘルドを 2,499 ドルで\n\nOneXPlayer は、デバイスが Indiegogo で発売される直前の 2026 年 4 月に、Ryzen AI Max+ 388 を搭載した X2 Mini Pro を発表しました。 Indiegogo の発売に続き、X2 Mini Pro が OneXPlayer ストアの在庫製品として正式に発売されました。現在の開始価格の一部は...\n\nOneXPlayer が X2 Mini Pro の予約注文を開始: AMD Ryzen AI Max+ 388 ハンドヘルドを 2,499 ドルで\n\n2025 年 7 月 23 日 8,800 ～ 17,600 MT/s の DDR6 メモリが 2027 年に登場 (196)\n\n2025 年 8 月 4 日 AMD が 192 MB L3 キャッシュと 200 W TDP を搭載した 16 コア Ryzen 9000X3D CPU をリリース (355)\n\n2025 年 8 月 21 日 12VHPWR コネクタの溶融により、最初の AMD RX 9070 XT 被害者が主張 (109)\n\n2026 年 6 月 12 日、4000 ドルの AMD Ryzen AI Halo Mini PC 開発キットの予約注文が開始 (47)\n\n2025 年 9 月 18 日 NVIDIA がインテルを 50 億ドル相当で買収、RTX iGPU が x86 に登場、株価は 25% 上昇 (256)\n\n2026 年 5 月 31 日 AMD が Ryzen 7 5800X3D 10th Anniversary Edition と Ryzen 7 7700X3D を正式発表 (164)\n\n2026 年 5 月 27 日 リーカーが天文学的な蒸気機械の価格を示唆 (74)\n\n2026 年 4 月 16 日 AMD、Ryzen 7 5800X3D を「AM4 10th Anniversary Ed…",
       "ImageURL": "https://www.techpowerup.com/img/aq1ssPLkacpnALTx.jpg"
     },
     {
@@ -6186,15 +6321,6 @@
       "ImageURL": ""
     },
     {
-      "Title": "地球に似た LHS 1140b は、系外惑星で発見された最初の大気を特徴づけている可能性がある",
-      "Link": "https://hackaday.com/2026/07/20/earth-like-lhs-1140b-may-feature-the-first-atmosphere-found-on-exoplanet/",
-      "Published": "2026-07-20T11:00:39Z",
-      "Source": "Hackaday",
-      "Category": "exoplanets",
-      "Summary": "地球に似た LHS 1140b は、系外惑星で発見された最初の大気を特徴づけている可能性がある\n\n私たちの太陽系の外に、「地球に似ている」と安心して呼べる別の惑星を見つけることは、もし確認されれば大きな出来事となる発見の一つです。 …\n\n私たちの太陽系の外に、「地球に似ている」と安心して呼べる別の惑星を見つけることは、もし確認されれば大きな出来事となる発見の一つです。ここでややこしいのは、観測によって発見される系外惑星はどれも、惑星の種類を特定するのが非常に難しく、それに大気があるかどうか、ましてやその大気の中に何があるかを把握することすら難しいことです。これは、この超地球が地球に似た大気に近いものを持っている可能性を強く示唆しているため、LHS 1140 b に関する最近の報告をかなり興味深いものにしています。\n\nScience 誌に掲載された [Collin Cherubim] らによる論文では、ヘリウムが大気中から時折漏出するという発見がかなりの興奮をもたらしました。なぜなら、この時間変化する大気中からのヘリウムの漏出は、ヘリウムが豊富で水素がさらに減少している上層大気を示唆しているからです。\n\nもちろん、これらの仮定は約 49 光年離れた場所からの観測に基づいているため、後で調整する余地が常にあることに注意する必要があります。確認されたとしても、LHS 1140b が周回する星は赤色矮星であり、公転周期はほぼ 25 日で、光レベルは地球が太陽から受ける光の半分以下です。これにより、たとえその温度が私たち地球上の哺乳類の快適な範囲内であるとしても、その海洋が提案されている LHS 1140b の表面はかなり薄暗くなります。\n\n距離は 49 光年で、FTL ドライブを使用しない限り、直接観測や訪問ができるほど近いわけではありませんが、これらの結果が正しいとすると、最初のワープドライブを動力とする宇宙船を建造したら、他の居住可能と思われる系外惑星とともにチェックすべき候補リストに入るでしょう。",
-      "ImageURL": "https://hackaday.com/wp-content/uploads/2026/07/Artists_impression_of_the_super-Earth_exoplanet_LHS_1140b.jpg"
-    },
-    {
       "Title": "マラソンゲームディレクターのJoseph Ziegler氏がBungieを退社",
       "Link": "https://www.kitguru.net/tech-news/mustafa-mahmoud/marathon-game-director-joseph-ziegler-has-left-bungie/",
       "Published": "2026-07-20T11:00:39Z",
@@ -6202,6 +6328,15 @@
       "Category": "Valorant",
       "Summary": "マラソンゲームディレクターのJoseph Ziegler氏がBungieを退社\n\n2022 年に入社した後、マラソン ゲーム ディレクターの「Joseph Ziegler」がスタジオ Bungie からの退社を発表しました。\n\nマラソンゲームディレクターのJoseph Ziegler氏がBungieを退社\n\nMustafa Mahmoud 13 分前 コンソール , 注目の技術ニュース , ソフトウェアとゲーム , 技術ニュース\n\n2026 年は Bungie にとってひどい年でした。 『マラソン』は大きな視聴者層を獲得できず、『Destiny 2』はほぼ閉鎖に追い込まれているため、かつては象徴的だったこのスタジオの将来は依然として流動的です。混乱にさらに拍車をかけたのが、『Marathon』のゲームディレクターであるJoseph Ziegler氏がスタジオを離れることを発表したことだ。ジョゼフ・ジーグラー氏はツイッターで発表し、「7月17日金曜日が私にとってBungieでの最後の日となる。私はゲームディレクターの職を非常に有能で素晴らしいデル・チェーフェ3世に引き継ぐことになる。デル・チェーフェ三世はクリエイティブ・ディレクターのジュリア・ナルディンとともにゲームを前進させることになる。両名ともチームのために強力なリーダーシップを発揮しており、マラソンをより良く、より明るく次の章に導く準備ができている」と述べた。未来。」業界のベテランであるグレン・スコフィールド氏が最近引退したのとは異なり、ジーグラー氏は今のところゲーム業界に留まるようで、「私に関して言えば、どこか別の新しいことに向かう予定で、どこで何をするかについてはすぐにお知らせします。暗く恐ろしい宇宙サバイバルのフロンティアをスクリーンにもたらすという風の強いミッションで私とマラソンをサポートしてくれた皆さんに心から感謝したいと思います。」と付け加えた。投稿全文は こちら にあり、Ziegler 氏の仲間の Bungie 開発者に対する好意的な言葉がたくさん含まれています。初心者のために説明すると、ジョセフ・ジ…",
       "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/07/marathon-732x330.jpg"
+    },
+    {
+      "Title": "地球に似た LHS 1140b は、系外惑星で発見された最初の大気を特徴づけている可能性がある",
+      "Link": "https://hackaday.com/2026/07/20/earth-like-lhs-1140b-may-feature-the-first-atmosphere-found-on-exoplanet/",
+      "Published": "2026-07-20T11:00:39Z",
+      "Source": "Hackaday",
+      "Category": "exoplanets",
+      "Summary": "地球に似た LHS 1140b は、系外惑星で発見された最初の大気を特徴づけている可能性がある\n\n私たちの太陽系の外に、「地球に似ている」と安心して呼べる別の惑星を見つけることは、もし確認されれば大きな出来事となる発見の一つです。 …\n\n私たちの太陽系の外に、「地球に似ている」と安心して呼べる別の惑星を見つけることは、もし確認されれば大きな出来事となる発見の一つです。ここでややこしいのは、観測によって発見される系外惑星はどれも、惑星の種類を特定するのが非常に難しく、それに大気があるかどうか、ましてやその大気の中に何があるかを把握することすら難しいことです。これは、この超地球が地球に似た大気に近いものを持っている可能性を強く示唆しているため、LHS 1140 b に関する最近の報告をかなり興味深いものにしています。\n\nScience 誌に掲載された [Collin Cherubim] らによる論文では、ヘリウムが大気中から時折漏出するという発見がかなりの興奮をもたらしました。なぜなら、この時間変化する大気中からのヘリウムの漏出は、ヘリウムが豊富で水素がさらに減少している上層大気を示唆しているからです。\n\nもちろん、これらの仮定は約 49 光年離れた場所からの観測に基づいているため、後で調整する余地が常にあることに注意する必要があります。確認されたとしても、LHS 1140b が周回する星は赤色矮星であり、公転周期はほぼ 25 日で、光レベルは地球が太陽から受ける光の半分以下です。これにより、たとえその温度が私たち地球上の哺乳類の快適な範囲内であるとしても、その海洋が提案されている LHS 1140b の表面はかなり薄暗くなります。\n\n距離は 49 光年で、FTL ドライブを使用しない限り、直接観測や訪問ができるほど近いわけではありませんが、これらの結果が正しいとすると、最初のワープドライブを動力とする宇宙船を建造したら、他の居住可能と思われる系外惑星とともにチェックすべき候補リストに入るでしょう。",
+      "ImageURL": "https://hackaday.com/wp-content/uploads/2026/07/Artists_impression_of_the_super-Earth_exoplanet_LHS_1140b.jpg"
     },
     {
       "Title": "Microsoft PowerToys が静かにドックを追加し、アプリのワークフロー全体が 1 キーストロークで完了しました",
@@ -8067,15 +8202,6 @@
       "ImageURL": "https://www.techpowerup.com/img/7GhpWGPbhzwlKHv3.jpg"
     },
     {
-      "Title": "Disco Elysium Studio Fires Workers After Failed Game Launch",
-      "Link": "https://www.techpowerup.com/350858/disco-elysium-studio-fires-workers-after-failed-game-launch",
-      "Published": "2026-07-18T00:12:44Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
       "Title": "ZA/UM、『ゼロ・パレード:フォー・デッド・スパイ』の発売が中途半端でスタッフを解雇",
       "Link": "https://www.techpowerup.com/350858/za-um-lays-off-staff-after-middling-zero-parades-for-dead-spies-launch",
       "Published": "2026-07-18T00:12:44Z",
@@ -8083,6 +8209,15 @@
       "Category": "",
       "Summary": "ZA/UM、『ゼロ・パレード:フォー・デッド・スパイ』の発売が中途半端でスタッフを解雇\n\n『Disco Elysium』の中程度の成功を受けて、ZA/UM は 5 月 21 日に『Zero Parades: For Dead Spies』をリリースし、新しいスパイ スリラー RPG にスタジオの野望を乗せました。残念ながら、スタジオの X アカウントでの 7 月 17 日の発表で確認されたように、それはうまくいかなかったようです。で...\n\nZA/UM、『ゼロ・パレード:フォー・デッド・スパイ』の発売が中途半端でスタッフを解雇\n\nX の ZA/UM Studio 今日は難しいニュースをお伝えします。 『Zero Parades: For Dead Spies』は批評家から高い評価を得てリリースされましたが、商業的なパフォーマンスでは現在の規模のスタジオを維持することはできませんでした。私たちは、ZA/UM Studio の全部門の最大 32 人の同僚に影響を与える人員削減または危険性の通知を提供しました。彼らの仕事は永続的な変化をもたらし、Zero Parades: For Dead Spies、そしてスタジオ全体にその痕跡を残しました。この困難なプロセスを通じて、私たちはZA/UM労働者同盟の代表者と協議し、協力し続けてきました。これにより ZA/UM の形状は変わりますが、その目的は変わりません。私たちの芸術的基準は変わりません: 私たちは粘り強く取り組みます 現在雇用している皆さん、同僚が ZA/UM を辞めることを考慮してください。\n\n2026 年 6 月 10 日 ユービーアイソフト、複数のスタジオで数百人のスタッフを解雇 (57)\n\n2026 年 7 月 6 日 Xbox、「年間リセット」で 3,200 人の従業員を解雇へ (33)\n\n2026 年 6 月 30 日 Xbox がプロジェクト資金を撤退した後、IO インタラクティブは人員削減を余儀なくされる (16)\n\n2026年6月27日 ユービーアイソフト・バルセロナ、レイオフを巡るストライキへ (33)…",
       "ImageURL": "https://www.techpowerup.com/img/nz36Vujum1POWIWt.jpg"
+    },
+    {
+      "Title": "Disco Elysium Studio Fires Workers After Failed Game Launch",
+      "Link": "https://www.techpowerup.com/350858/disco-elysium-studio-fires-workers-after-failed-game-launch",
+      "Published": "2026-07-18T00:12:44Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
     },
     {
       "Title": "Asus ZenBook S14 2026 ラップトップ レビュー - より明るい OLED、しかし遅い Panther Lake iGPU",
@@ -8866,141 +9001,6 @@
       "Category": "Samsung 9100 Pro SSD",
       "Summary": "低価格の SSD は、警告なしに自動的に壊れる可能性があります。プレミアム ドライブがそれだけの価値がある理由がここにあります\n\n私が絶対に安く買える PC コンポーネントの 1 つは SSD です。\n\n低価格の SSD は、警告なしに自動的に壊れる可能性があります。プレミアム ドライブがそれだけの価値がある理由がここにあります\n\nBy Jasmine Mannan 公開 2026 年 7 月 17 日、午前 7:00 EDT Jasmine は XDA のソフトウェアおよび PC ハードウェアの著者であり、AI チャットボットからゲーム ハードウェアに至るまで、長年にわたる技術レポートの経験があり、ほぼすべてをカバーしています。最新の AMD NPU に関する速報ニュースであれ、ソーシャル メディア プラットフォームでのビデオ チュートリアルの作成であれ、Jasmine は、Razer の CEO、AMD の製品マーケティング ディレクター、Lenovo の副社長へのインタビューなど、さまざまな方法で AI とテクノロジーの世界に貢献してきました。ゲームと PC テクノロジーに情熱を持っている彼女は、数え切れないほどのコンピューター、キーボード、その他の周辺機器を構築し、それらを隅々まで知り尽くしています。 XDA アカウントにサインインする PC を構築するとき、CPU とグラフィックス カードの選択に悩むのはよくあることですが、ストレージ ドライブは後回しにされることがよくあります。多くの愛好家でも通常、SSD を「価格: 低いものから高いもの」で並べ替え、リストの一番上にある安価なノーブランドの M.2 ドライブをクリックします。\n\nこのコスト削減アプローチを採用したことで、ブート ドライブの停止コードにアクセスできないという、胸が張り裂けるような個人的な現実に遭遇しました。トラブルシューティング後、診断の真実性が低下しました。安物のフラッシュメモリは単に壊れただけではありません。実際、ハードウェア自体は静かに消滅しました。このことから、ソリッド ステート ドラ…",
       "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/whatsapp-image-2026-07-09-at-15-06-34-2.jpeg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
-      "Title": "やりすぎですか、それともインスピレーションですか？ Asus TUF Gaming A18 レビュー",
-      "Link": "https://www.notebookcheck.net/Overkill-or-inspired-Asus-TUF-Gaming-A18-review.1341611.0.html",
-      "Published": "2026-07-17T10:57:00Z",
-      "Source": "Notebookcheck",
-      "Category": "reviews",
-      "Summary": "やりすぎですか、それともインスピレーションですか？ Asus TUF Gaming A18 レビュー\n\nRyzen 7 260 と GeForce RTX 5060 を搭載した構成で Asus TUF Gaming A18 をテストしています。この 18 インチ ゲーム ラップトップは競合他社とどう比較されますか?\n\nやりすぎですか、それともインスピレーションですか？ Asus TUF Gaming A18 レビュー - Notebookcheck レビュー ▼\n\n以前に GeForce RTX 5070 構成をレビューしたことがありますが、TUF Gaming A18 の RTX 5060 バージョンは、比較的公正な価格で、もう 1 つのバランスの取れた 18 インチ ラップトップであることがわかりました。当社の FA808UM-S8060W テスト構成には、デュアルチャネル 2 × 8 GB セットアップの 16 GB DDR5 RAM と 1 TB NVMe SSD が付属しています。繰り返しになりますが、ディスプレイの解像度は 1,920 × 1,200 ピクセルに制限されており、このような大型パネルとしてはかなり控えめに感じられます。利点は、ほぼすべてのゲームがネイティブ解像度で最大限の詳細を表示してスムーズに動作することです。画質は、特にコントラストと色空間範囲の点で、価格に見合ったものです。非常に騒々しいターボ モードを除けば、負荷時の排出は適度に制御されたままです。スピーカー、入力デバイス、ポートの選択にも批判の余地はほとんどありません。最も印象に残ったのはバッテリー寿命で、TUF Gaming A18 は比較したどの競合他社よりも長持ちしました。\n\n良い (82%) Asus TUF Gaming A18 FA808UM AMD Ryzen 7 260 NVIDIA GeForce RTX 5060 ラップトップ ゲーム - 07/10/2026 - v8 テスト デバイス提供 Asus Deutschland ライセンス付き評価画像を PNG / S…",
-      "ImageURL": "https://www.notebookcheck.net/fileadmin/Notebooks/Asus/TUF_Gaming_A18_FA808UM/TUF-Gaming-A18-1.jpg"
-    },
-    {
-      "Title": "Steam made a record $11 billion in just six months, analyst firm estimates",
-      "Link": "https://www.tweaktown.com/news/112618/steam-made-a-record-dollars11-billion-in-just-six-months-analyst-firm-estimates/index.html",
-      "Published": "2026-07-17T10:42:04Z",
-      "Source": "TweakTown",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "サムスンはOne UI 9で新しい「My FanCam」機能に取り組んでいる可能性がある",
-      "Link": "https://www.androidauthority.com/samsung-one-ui-9-my-fancam-3688588/",
-      "Published": "2026-07-17T09:12:46Z",
-      "Source": "Android Authority",
-      "Category": "Samsung One UI",
-      "Summary": "サムスンはOne UI 9で新しい「My FanCam」機能に取り組んでいる可能性がある\n\nGalaxy S25デバイス用のOne UI 9ベータ版のスクリーンショットによると、SamsungはOne UI 9用の新しい「My FanCam」機能に取り組んでいます。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nサムスンはOne UI 9で新しい「My FanCam」機能に取り組んでいる可能性がある\n\n0 • Paul Jones / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Galaxy S25 シリーズ用の One UI 9 ベータ版の内部ビルドのスクリーンショットがリークされました。\n\nこれには、Samsung の「Auto Track」機能に似た「My FanCam」と呼ばれる新機能が含まれています。\n\n新しい「My FanCam」機能は、今後発売されるGalaxy Z Fold 8 Ultra、Z Fold 8、Z Flip 8でも利用できる可能性があります。\n\nSamsung は、生活の質を大幅に改善した Galaxy S26 シリーズ向けの新しい One UI 9 ベータ版を公開していますが、Android 17 のいくつかの機能はまだ欠けています。ただし、One UI 9 が S25 ユーザーに展開されるのを待っていたのであれば、遅かれ早かれそれが実現する可能性があるようです。\n\nユーザー Fahad Ali Javed は、X 上の Galaxy S25 Plus の One UI 9 内部テスト ビルドのスクリーンショットと、S25 Plus の One UI 9 変更ログ (SamMobile 経由) を共有しました。 X の投稿で興味深い情報の 1 つは、新しい「My FanCam」機能です。これは、Galaxy AIを使用してビデオ内の被写体を追跡し、ショットを自動的にリフ…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/05/OneUI-9-splash-screen-S26-Ultra.jpg"
-    },
-    {
-      "Title": "Marvel Tokon: Fighting Souls オープンベータは来週公開されます",
-      "Link": "https://www.kitguru.net/tech-news/mustafa-mahmoud/marvel-tokon-fighting-souls-open-beta-goes-live-next-week/",
-      "Published": "2026-07-17T09:00:54Z",
-      "Source": "KitGuru",
-      "Category": "Tokon",
-      "Summary": "Marvel Tokon: Fighting Souls オープンベータは来週公開されます\n\nMarvel Tokon: Fighting Souls は来週オープンベータで公開され、発売に先立ってファンに 4v4 タッグチームファイターに何を期待できるかを体験してもらいます。\n\nMarvel Tokon: Fighting Souls オープンベータは来週公開されます\n\nMustafa Mahmoud 20 分前 コンソール , 注目の技術ニュース , ソフトウェアとゲーム , 技術ニュース\n\nMarvel Tokon: Fighting Souls は、PlayStation の今後のリリースで最も興味深いものの 1 つです。 Arc System Works が PlayStation と直接協力して開発したこのコンソール専用格闘ゲームは、1 か月以内に 8 月 6 日に発売される予定です。ただし、これに先立ち、ゲームをチェックしたい人は全員無料でチェックできるようになり、来週にはオープンベータ版が公開される予定です。 PlayStation Blog で、ソニーは Marvel Tokon: Fighting Souls の今後のオープンベータについて詳しく説明し、「待ちはもうすぐ終わりです。MARVEL Tokon: Fighting Souls オープンベータはもうすぐです。プレイヤーがアクションに飛び込むのが待ちきれません。」と書いています。 PlayStation 5、Steam、Epic Games Store で利用できるオープンベータは、英国時間で 7 月 24 日の午前 8 時に正式に公開される予定で、27 日までプレイ可能で、同じく午前 8 時に終了します。興味のある人は全員、公開開始の 2 時間前にゲームを事前ダウンロードして、できるだけ多くの時間をプレイできるようにします。ベータ版であるため、Tokon のすべてのコンテンツは当然ロックされています。とはいえ、ユーザーは以下のすべてにアクセスできるため、チェックして楽しむことがまだたくさんあ…",
-      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/07/tokon2-732x330.jpg"
-    },
-    {
-      "Title": "OnePlus スマートフォンの OxygenOS が ColorOS に置き換わったときに失うもの (そして恐れるもの)",
-      "Link": "https://www.androidauthority.com/coloros-replace-oxygenos-oneplus-phones-us-changes-3687227/",
-      "Published": "2026-07-17T09:00:08Z",
-      "Source": "Android Authority",
-      "Category": "Oppo",
-      "Summary": "OnePlus スマートフォンの OxygenOS が ColorOS に置き換わったときに失うもの (そして恐れるもの)\n\nOnePlus は米国とヨーロッパから撤退し、ColorOS が OxygenOS に取って代わります。 OnePlus 所有者が失うものと得るものは次のとおりです。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nOnePlus スマートフォンの OxygenOS が ColorOS に置き換わったときに失うもの (そして恐れるもの)\n\n0 • Tushar Mehta / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください ご存知のとおり、OnePlus は大規模な変化を遂げています。何ヶ月にもわたる噂と、OnePlus の絶え間ない否定の試み、そして形式的な兆候さえあった後、OnePlus は米国とヨーロッパでの事業を終了することを正式に認めました。中国やインドなどの大量生産市場では今後も事業を継続し、おそらく親会社OPPOのサブブランドとして存続するだろう（おそらく明確なアイデンティティは持たない）。ただし、ビジネスの他のいくつかの側面は OPPO に移管されます。\n\nこの移行中の最も影響力のある変更の 1 つは、OxygenOS が OPPO の ColorOS に戻る最終的かつ決定的な統合です。インドなどの市場で発売される新しいデバイスに加えて、既存の OnePlus 携帯電話の将来のソフトウェア アップデートでは、OxygenOS が ColorOS に置き換えられます。\n\n2 つのインターフェイスはコードベースを共有しており、かなりの部分で同一ですが、いくつかの OxygenOS 独自の機能が削除されることが予想されます。一方、OnePlus スマートフォンが ColorOS アップデートの受信を開始すると、あまり望ましくない新しい追加機能がいくつか追加されることが予想されます。\n\n…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/OnePlus-15-Never-Settle-e1784217658676.jpg"
-    },
-    {
-      "Title": "サムスンの最新アイデアは、両方向に折りたためるGalaxy Z Flipです",
-      "Link": "https://www.androidauthority.com/samsung-patent-inward-outward-foldable-phone-3688554/",
-      "Published": "2026-07-17T08:47:31Z",
-      "Source": "Android Authority",
-      "Category": "Samsung Galaxy",
-      "Summary": "サムスンの最新アイデアは、両方向に折りたためるGalaxy Z Flipです\n\nサムスンは、内側と外側の両方に折りたたむことができるGalaxy Z Flipのようなスマートフォンを示す新しい特許を申請しました。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nサムスンの最新アイデアは両方向に折りたためる「Galaxy Z Flip」\n\n0 • C. Scott Brown / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR サムスンは、内側と外側に折りたたむことができる折りたたみ式携帯電話の新しい特許を申請しました。\n\n内側に折りたたむと、デバイスは曲面スクリーンを使用して情報を表示できます。\n\nこのデバイスを外側に折りたたむと、ベゼルが見えない没入型スクリーンがユーザーに提供されます。\n\nサムスンは、折りたたみ式や巻き取り式の携帯電話のワイルドなアイデアやコンセプトに精通しています。同社は以前、レンガのように見え、展開するとタブレットになる携帯電話の特許を申請している。また、いくつかのクレイジーな巻き取り式携帯電話のアイデアも実験しました。今回同社は、両方向に折りたためる折りたたみ式携帯電話に関する特許をさらに申請した。\n\n特許出願には、Galaxy Z Flipにかなり似た携帯電話が示されています(FixyFlow経由)。しかし、特許図面の電話機はヒンジ付近に曲線があり、おそらく内側または外側に折り畳んだときにディスプレイが衝突するのを防ぐためと思われます。\n\nUSPTO この特許には、このデバイスには両側が湾曲した曲面ディスプレイが装備されているとも記載されています。電話機を内側に折りたたむと、ディスプレイは「閉じた」位置になります。ただし、この特許は、ユーザーに画像を表示するために湾曲したエッジを引き続き使用できることを明らかにしています。 「Edge UX」を備えた Galaxy S7 Edge…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2025/07/Samsung-Galaxy-Z-Flip-7-FE-in-both-Black-and-White-colorways-unfolded-partially-on-table.jpg"
-    },
-    {
-      "Title": "Noctua AiOsレビュー：空冷クーラーの王様は水冷にも対応",
-      "Link": "https://www.notebookcheck.net/Noctua-AiOs-Review-The-King-of-Air-Coolers-Can-Also-Handle-Water-Cooling.1343699.0.html",
-      "Published": "2026-07-17T08:47:00Z",
-      "Source": "Notebookcheck",
-      "Category": "reviews",
-      "Summary": "Noctua AiOsレビュー：空冷クーラーの王様は水冷にも対応\n\nNoctua は、NH-LC1 シリーズで、オールインワン (AiO) 水冷クーラーの最初の製品ラインを発売します。このレビューでは、NH-LC1-24、NH-LC1-36、および NH-LC1-42 モデルを比較し、冷却効率の点でどのようなパフォーマンスが発揮されるかを示します。\n\n評決 - Noctua AiO の 3 つのサイズ - 強力な冷却性能と通常の高品質\n\n新しい AiO シリーズにより、Noctua はオールインワン水冷市場に強力な参入を果たしました。このメーカーは、高い製造品質と、考え抜かれた設計および簡単な取り付けを組み合わせた、そのよく知られた哲学に忠実であり続けています。ポンプユニットが同一であるため、3 つのモデルの違いはラジエーターのサイズのみであるため、選択は主にケース内の利用可能なスペースと特定のパフォーマンス要件によって決まります。\n\n実際のテストでは、3 つのバリエーションすべてが優れた冷却性能を発揮します。最小の 240 mm モデルでも嬉しい驚きであり、Intel Core Ultra 9 285K では、全負荷が継続した場合でも深刻な問題は発生しません。 Noctua の高性能空冷クーラーと比較して、新しい AiO は小さいながらも測定可能な温度上の利点を提供します。ただし、高性能 CPU を最大限に活用したい場合や、可能な限り低い温度を実現したい場合は、テストで最高の結果が得られた 420 mm モデルを選択する必要があります。\n\n批判的な点はほとんどありません。ラジエーターはAsetekによって製造されているため、実績のあるプラットフォームに依存していますが、Noctuaは独自のファン、高品質の職人技、優れたドキュメントでそれを補完しています。全体として、このメーカーは、愛好家と要求の厳しいユーザーの両方を感動させる、バランスのとれたパッケージを提供しています。静かで高性能、そしてしっかりとした構造の AiO を探している人には、Noctua の最初の水冷シ…",
-      "ImageURL": "https://www.notebookcheck.net/fileadmin/Notebooks/Noctua/AiOs/AIOs_4.jpg"
-    },
-    {
-      "Title": "Intel to Launch 28-Core \"Nova Lake-S\" Before 52-Core Version",
-      "Link": "https://www.techpowerup.com/350842/intel-to-launch-28-core-nova-lake-s-before-52-core-version",
-      "Published": "2026-07-17T08:46:20Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "サムスンは、Galaxy S26の大規模なビデオ機能をGalaxy S25に導入する可能性があります",
-      "Link": "https://www.androidauthority.com/samsung-galaxy-s25-horizontal-lock-one-ui-9-leak-3688568/",
-      "Published": "2026-07-17T08:33:24Z",
-      "Source": "Android Authority",
-      "Category": "Samsung One UI",
-      "Summary": "サムスンは、Galaxy S26の大規模なビデオ機能をGalaxy S25に導入する可能性があります\n\nリークされたOne UI 9テストビルドは、SamsungがGalaxy S26のジンバルのような水平ロック機能をGalaxy S25に導入する可能性があることを示唆しています。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nサムスンは、Galaxy S26の大規模なビデオ機能をGalaxy S25に導入する可能性があります\n\n0 • Ryan Haines / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Galaxy S26 は、スーパー ステディ モードで水平ロック機能を導入しました。\n\nこの機能はGalaxy S26シリーズ専用のままだが、SamsungはOne UI 9アップグレードでこの機能をGalaxy S25シリーズにも導入する可能性がある。\n\nSamsung はバックポートを確認していませんが、この機能は S25 用の One UI 9 内部テスト ビルドで発見されています。\n\n水平ロックは、Galaxy S26 シリーズで最も話題になっている機能の 1 つです。カメラ アプリ内でスーパー ステディ モードとも呼ばれる水平ロックは、まるでジンバルのようにカメラを地平線に固定し、携帯電話がどれほど揺れたり、ぐらついたり、逆さまになったりしても、安定したビデオを保証します。水平ロックは今のところGalaxy S26シリーズに限定されているが、SamsungはすぐにGalaxy S25シリーズにも導入する可能性があるようだ。\n\nGalaxy S25 Plus ユーザーの Fahad Ali Javed は、X 上でビルド番号 DZG4 の One UI 9 内部テスト ビルドにアクセスできると主張しています。この新しいアップデート内で、ユーザーは Galaxy S26 の水平ロック機能を発…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/03/Galaxy-S26-tips-horizon-lock.jpg"
-    },
-    {
-      "Title": "Aulumu M10 パワーバンクの実践レビュー: デュアル磁気充電パッドと内蔵ケーブルを備えた未来的なスタイル",
-      "Link": "https://www.notebookcheck.net/Aulumu-M10-power-bank-hands-on-review-Futuristic-style-with-dual-magnetic-charging-pads-and-a-built-in-cable.1345222.0.html",
-      "Published": "2026-07-17T05:59:00Z",
-      "Source": "Notebookcheck",
-      "Category": "reviews",
-      "Summary": "Aulumu M10 パワーバンクの実践レビュー: デュアル磁気充電パッドと内蔵ケーブルを備えた未来的なスタイル\n\nAulumu M10 パワーバンクは、デュアル磁気ワイヤレス充電パッドとデュアル USB‑C 出力を通じて、最大 4 台のデバイスを同時に充電します。内蔵の充電ケーブルはキャリーループとしても機能します。\n\n評決 – ユニークなスタイルのパワーバンク\n\nAulumu M10 パワーバンクは、最大 2 台の有線デバイスと 2 台の無線デバイスを同時に急速充電します。未来的なデザインには、電源ボタン、5 LED バッテリー レベル インジケーター、マルチカラー充電ライトが含まれています。また、前面と背面にマグネットマウントを備えており、MagSafe対応iPhoneや財布などのアクセサリーに取り付け可能です。\n\n短所としては、ポートごとの詳細な充電ステータスが欠如しており、複数の出力が使用されると最大電力供給が低下します。前面と背面を平らに置くことはできますが、充電器の側面が丸みを帯びているため、直立することができません。非常に重いため、磁気充電パッドではモバイル バッテリーをすべての携帯電話の背面にしっかりと固定できません。\n\nそれにもかかわらず、アルミニウム製のボディのパワーバンクは非常に頑丈で、座っていても簡単に耐えられ、永久的に取り付けられた充電ケーブルにより、充電ケーブルを探す必要がなくなります。\n\nAulumu M10 パワーバンクは、Aulumu または Amazon の Aulumu ストアから $89.98 で購入できます。\n\nスタイリッシュな Aulumu M10 は、デュアル磁気マウントと内蔵充電ケーブルの便利さを備え、最大 2 台の有線デバイスと 2 台の無線デバイスを同時に充電できるパワーバンクを求めるユーザー向けです。\n\nポータブル充電器には、クイックスタート ガイドと布製ポーチが付属しています。\n\nⓘ ノートチェックボックスの正面。 ⓘ ノートチェックボックスの背面。 ⓘ ノートブックの内容を確認します。デザイン\n\nAulumu …",
-      "ImageURL": ""
-    },
-    {
-      "Title": "Google Vids は、Gemini Omni によってはるかに有能なビデオ メーカーになりました",
-      "Link": "https://www.androidauthority.com/google-vids-gets-gemini-omni-3688502/",
-      "Published": "2026-07-17T02:49:24Z",
-      "Source": "Android Authority",
-      "Category": "Google Vids",
-      "Summary": "Google Vids は、Gemini Omni によってはるかに有能なビデオ メーカーになりました\n\nGoogle Vids は Gemini Omni で AI を大幅にアップグレードし、プロンプトベースのビデオ編集とパーソナル AI アバターを提供します。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nGoogle Vids は、Gemini Omni によってはるかに有能なビデオ メーカーになりました\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google Vids では、Gemini Omni による AI の大幅な見直しが行われ、ビデオの作成と編集が、平易な言葉で説明するのと同じくらい簡単になります。\n\n1 枚の自撮り写真と短い音声録音をアップロードすることで、個人の AI アバターを作成できます。\n\n悪用を防ぐため、個人のアバターはアカウント所有者の肖像に限定されています。\n\nビデオの編集には通常、照明を修正したり、背景を変更したり、完璧なショットを撮るために何度も撮り直したりする長いプロセスが必要です。現在、Google は、AI の作業を行う Google Vids の大規模なアップデートで戦略を書き直しています。\n\nVids への最大の新機能は、I/O 2026 で初めて披露された Google のマルチモーダル ビデオ生成モデルである Gemini Omni です。 Google のブログ投稿によると、Vids を使用すると、テキストや画像を使って最初から始める場合でも、既存のクリップを編集する場合でも、自然言語プロンプトからビデオを作成または編集できるようになります。タイムラインをスキップして、Gemini に背景の変更、照明の改善、会話プロンプトによる視覚効果の追加を指示するだけです。\n\nGoogle はまた、個人のアバターを Vid に追加し、カメラの前に立つことなくビデオに出演できるようにしま…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/06/gemini-avatar-hero-3-scaled.jpg"
-    },
-    {
-      "Title": "Windows 11 には初めて、回避策を講じても突破できない壁があり、危険な前例となる",
-      "Link": "https://www.xda-developers.com/first-ttime-windows-11-has-wall-workarounds-cant-break-precedent/",
-      "Published": "2026-07-17T00:00:10Z",
-      "Source": "XDA",
-      "Category": "Windows 11",
-      "Summary": "Windows 11 には初めて、回避策を講じても突破できない壁があり、危険な前例となる\n\nWindows 11 のシステム要件は以前は簡単に回避できましたが、Microsoft は古い PC を永久に締め出す方法を見つけました。\n\nWindows 11 には初めて、回避策を講じても突破できない壁があり、危険な前例となる\n\nBy João Carrasqueira 公開 2026 年 7 月 16 日、午後 8:00 EDT João は 7 年以上にわたり、ラップトップと Windows エコシステムに重点を置いてテクノロジーの世界を取材してきました。私はテクノロジーやビデオゲーム全般が大好きで、特に任天堂のことについて彼はいつも喜んで話します。 2021 年に XDA に入社する前は、Neowin で働いていました: https://www.neowin.net/news/poster/jo%C3%A3o-carrasqueira/ XDA アカウントにサインイン 5 年前に初めて導入されたとき、Windows 11 には多くの新しいシステム要件が導入され、多くの古いシステムが残されました。しかし、Microsoft の公式姿勢によって引き起こされた怒りにもかかわらず、Rufus のようなツールを使用してこれらの「サポートされていない」マシンに Windows 11 をインストールすることが実際に可能であることがすぐに明らかになりました。これは長い間真実でした。\n\nしかしつい最近、Microsoft は古いシステム用に新しいブロックを導入し始めたため、今回はそれを回避することができません。 Windows 11 は特定の命令をサポートしない CPU では動作しないため、将来のアップデートで悪い前例となる可能性があります。\n\n以前はシステム要件が緩かった\n\nWindows 11 を実行するための初期要件は不必要に厳格であるように見え、当時わずか数年前のプロセッサのサポートが終了し、比較的最近のものであっても多くのデスクトップ PC には TPM 2.0 モジュールが必…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/windows-11-laptop-rufus.jpg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
-      "Title": "Marvel Tokon: Fighting Souls オープンベータの詳細: 15 キャラクター、PS Plus 要件なし",
-      "Link": "https://www.techpowerup.com/350835/marvel-tokon-fighting-souls-open-beta-detailed-15-characters-and-no-ps-plus-requirement",
-      "Published": "2026-07-16T23:50:57Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "Marvel Tokon: Fighting Souls オープンベータの詳細: 15 キャラクター、PS Plus 要件なし\n\nアークシステムワークスとプレイステーション・パブリッシングによる新しい 4 対 4 のタッグチーム格闘ゲーム、Marvel Tokon: Fighting Souls は、8 月 6 日のリリースに先立ち、7 月 24 日から 26 日にかけてオープン ベータ版が予定されています。これまでのクローズドベータテスト以外でプレイヤーがゲームを体験できるのは今回が初めてとなります。\n\nMarvel Tokon: Fighting Souls オープンベータの詳細: 15 キャラクター、PS Plus 要件なし\n\n2026 年 4 月 13 日 Epic Games ストアの従業員: 無料ゲームのためだけに来て、その後 Steam に戻ってきた人々 (91)\n\n2026 年 4 月 28 日 Linux が PlayStation 5 で正式に利用可能になりました (19)\n\n2026 年 5 月 18 日 インサイダーは、ソニーが PC ポートを廃止することを認めています: 「PC に登場するシングル プレイヤー ゲームは少なくなるでしょう。」 (135)\n\n2026 年 3 月 6 日 PlayStation 6 のリークヒント 4K 120 FPS は「ほとんどのゲームで」PS5 の 6 ～ 12 倍の RT パフォーマンスを実現 (116)\n\n2026 年 4 月 17 日 Pragmata のローンチ: 輝かしいレビューとチャートトップの売上を誇るが、プレイヤー数は平凡 (62)\n\n2026 年 4 月 21 日 Valve が Steam コントローラーの開封ビデオをアップロード、発売間近 (16)\n\n2026 年 6 月 29 日 PS6 ハードウェアのコストは 900 ドル以上と推定 (55)\n\n2026 年 6 月 30 日 シングルチャネル RAM により Steam マシンが機能不全に陥る (108)\n\n2026 年 7 月 1…",
-      "ImageURL": "https://www.techpowerup.com/img/tYxkDCYzO4mbWpyc.jpg"
-    },
-    {
-      "Title": "Steam で最も人気のあるゲーム GPU はもはやデスクトップ カードではなく、2026 年のすべてを物語っています。",
-      "Link": "https://www.xda-developers.com/the-most-popular-gaming-gpu-on-steam-isnt-a-desktop-card-anymore-and-it-tells-you-everything-about-2026/",
-      "Published": "2026-07-16T23:00:10Z",
-      "Source": "XDA",
-      "Category": "PC",
-      "Summary": "Steam で最も人気のあるゲーム GPU はもはやデスクトップ カードではなく、2026 年のすべてを物語っています。\n\nオー・レヴォワール、ゲーミングPC。あなたのレビューは PC ゲームです。\n\nSteam で最も人気のあるゲーム GPU はもはやデスクトップ カードではなく、2026 年のすべてを物語っています。\n\nBy Abhinav Raj 公開 2026 年 7 月 16 日、午後 7 時 EDT アビナブは、銀行業界でのキャリアから方向転換して、初恋を作家として追求しました。フルタイムで働きながらも、編集長として貢献を続け、その役割を 7 年以上務めました。 2018 年以来、ゲームと生産性に優れた PC を 3 台構築してきた生涯のテクノロジー愛好家である彼は、テクノロジーに対する情熱により、NVIDIA や AMD から ARM に至るまで、半導体業界を常に追い続けています。彼の修士論文は、人工知能が仕事の未来をどのように再形成するかを探求し、新興テクノロジーのより広範な社会的影響に対する彼の好奇心を反映しています。 XDA アカウントにサインインする ここ数か月間 PC ハードウェアの価格をざっと見たことがある人なら、消費者市場にとって厳しい時代であることがすでにわかるでしょう。 DRAM の価格はすでに 3 倍に上昇しており、上昇の兆しはほとんど見られません。コンシューマー向け DDR5 メモリはミッドレンジや予算層には手が届かなくなり、NAND の価格も同様の軌道をたどっており、GPU は独自のシュリンクフレーションを経験しています。\n\nしかし、これまで私たちが見たことがなかったのは、これらすべてが PC 自体に何をもたらしたかを証明するデータであり、Valve の最新の Steam ハードウェア調査は、それについていくつかの驚くべき洞察を提供しました。おそらく歴史上初めて、世界で最も人気のあるゲーム用 GPU がデスクトップ グラフィックス カードではありません。これはラップトップの内部に搭載されているチップであり、私たちがどのようにしてここ…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/main-pc-steam-hardware-survey.jpg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
-      "Title": "RPCS3 エミュレータは PC 上で PS3 ゲーム ライブラリの 75% をプレイできるようになりました",
-      "Link": "https://www.techpowerup.com/350834/rpcs3-emulator-now-plays-75-of-ps3-game-library-on-pc",
-      "Published": "2026-07-16T22:23:32Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "RPCS3 エミュレータは PC 上で PS3 ゲーム ライブラリの 75% をプレイできるようになりました\n\nLinux、macOS、および Windows 用のオープンソース PS3 エミュレータである RPCS3 の開発チームは、X への投稿で、このエミュレータが PlayStation 3 のゲーム ライブラリの 75% をプレイできるようになったと発表しました。公式によれば、このエミュレータは PlayStation 3 で公開されている 3,559 ゲームのうち 2,681 ゲームを占めています...\n\nRPCS3 エミュレータは PC 上で PS3 ゲーム ライブラリの 75% をプレイできるようになりました\n\n2025 年 8 月 18 日 Microsoft Windows 11 24H2 アップデートにより SSD 障害が発生する可能性がある (278)\n\n2025 年 10 月 17 日 Microsoft が Windows 11 October Update で Localhost を破壊し、ユーザーは強制的に元に戻される (105)\n\n2026 年 4 月 28 日 Linux が PlayStation 5 で正式に利用可能になりました (19)\n\n2026 年 5 月 18 日 インサイダーは、ソニーが PC ポートを廃止することを認めています: 「PC に登場するシングル プレイヤー ゲームは少なくなるでしょう。」 (135)\n\n2026 年 5 月 1 日 Microsoft は、Windows 11 の「心配しない」アップグレードとして 32 GB RAM を推奨するようになりました (147)\n\n2026 年 3 月 6 日 PlayStation 6 のリークヒント 4K 120 FPS は「ほとんどのゲームで」PS5 の 6 ～ 12 倍の RT パフォーマンスを実現 (116)\n\n2026 年 3 月 21 日 Microsoft、「Microslop」批判に応えて Windows 11 の多数の変更を約束 (208)\n\n2…",
-      "ImageURL": "https://www.techpowerup.com/img/6Sbqktl9TYGDi9Tw.jpg"
     }
   ]
 }
