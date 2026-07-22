@@ -1,6 +1,141 @@
 {
   "akiba": [
     {
+      "Title": "32bit DSPを内蔵したゲーミングUSBマイク「Razer Seiren V3 Chroma 32-Bit DSP」",
+      "Link": "https://www.gdm.or.jp/pressrelease/2026/0722/644924",
+      "Published": "2026-07-22T03:43:37Z",
+      "Source": "エルミタージュ秋葉原",
+      "Category": "",
+      "Summary": "32bit DSPを内蔵したゲーミングUSBマイク「Razer Seiren V3 Chroma 32-Bit DSP」\n\nRazer（本社：アメリカ カリフォルニア州およびシンガポール）は2026年7月21日（現地時間）、32bit/96kHzに対応するDSPを内蔵したUSBマイク「Razer Seiren V3 Chroma 32-Bit DSP」を発表した。カラーはブラック、ホワイト、クォーツの3色がラインナップする。\n\n32bit DSPを内蔵したゲーミングUSBマイク「Razer Seiren V3 Chroma 32-Bit DSP」\n\nRazer（本社：アメリカ カリフォルニア州およびシンガポール）は2026年7月21日（現地時間）、ゲーミングUSBマイクの新モデル 「Razer Seiren V3 Chroma 32-Bit DSP」 を発表した。カラーはブラック、ホワイト、クォーツの3色がラインナップする。\n\n2024年3月に登場した 「Razer Seiren V3 Chroma」 をベースに、フラッグシップモデル「Razer Seiren V3 Pro」と同等の32bit DSP処理機能を搭載。クリアで安定した高品質な音声で配信やゲーム内のチャットができるようになる。\n\nマイクカプセルは16mmのスーパーカーディオイド・コンデンサーを採用し、正面以外の環境ノイズを低減。本体にはAIノイズリダクション、自動EQ、コンプレッション、リミッターなどの高度な音声処理機能を備える。\n\nさらに多機能タップ式ミュートセンサーを搭載し、シングルタップによるミュートのほか、Razer Synapse経由でダブル / トリプルタップ操作にライティング切り替えなどの機能を割り当てることができる。\n\n対応サンプルレートは48/96kHz、ビット深度は24/32bit、周波数応答20Hz～20kHz、感度-34dB（1V/Pa,1kHz）、最大音圧レベル120dB、S/N比112dB。インターフェイスはUSB Type-Cで、Razer Chroma RGBライティング機能…",
+      "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/07/22/Razer_Seiren_V3_Chroma_32Bit_DSP_01.jpg"
+    },
+    {
+      "Title": "OpenAIのAIモデルがゼロデイ悪用、Hugging Faceに侵入する異例の事態",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2126816.html",
+      "Published": "2026-07-22T03:40:30Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "OpenAIのAIモデルがゼロデイ悪用、Hugging Faceに侵入する異例の事態\n\nOpenAIは7月21日、同社製AIモデルのサイバーセキュリティ性能評価テスト中に、AIエージェントがHugging Faceのサーバーへ侵入してしまう事案が発生したと明らかにした。\n\nOpenAIのAIモデルがゼロデイ悪用、Hugging Faceに侵入する異例の事態\n\nOpenAIは7月21日、同社製AIモデルのサイバーセキュリティ性能評価テスト中に、AIエージェントがHugging Faceのサーバーへ侵入してしまう事案が発生したと明らかにした。\n\nこの事案に関しては、Hugging Faceが7月16日、本番環境インフラの一部で外部からの侵入を検知したと報告。自律型AIエージェントシステムによるものだとして、自社インフラ上に構築したオープンウェイトモデル(GLM 5.2)を使ったフォレンジック分析を行なうなど対応を実施したと明かしていた。ただし、使用されたLLMなどについては同日時点で不明としていた。\n\nOpenAIでは7月21日、このHugging Faceの報告した事案が、GPT-5.6 Solおよび未公表の高性能モデルの組み合わせによって引き起こされたものだったと公表。サイバー攻撃性能の最大値を測定するため、AIモデルのセキュリティ制限を下げた状態でベンチマークテスト「ExploitGym」を実行している中で発生したという。\n\nAIモデルはインターネットから隔離したサンドボックス環境に置かれていたが、パッケージレジストリ用のプロキシおよびキャッシュをホストしていたサードパーティアプリのゼロデイ脆弱性を自ら特定して悪用することで、インターネットへのアクセスを獲得。Hugging Face上にExploitGym用モデルやデータセットなどが存在する可能性が高いと推測し、テストで高いスコアを獲得するために、Hugging Faceサーバーへ侵入した。侵入には窃取された認証情報やゼロデイ脆弱性が併用されたという。\n\nOpenAIはHugging Faceと協力し、今回の事案の調…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2126/816/01.jpg"
+    },
+    {
+      "Title": "日本HPがサマーセールを7/29まで開催｜エントリー機のCPU性能を解説",
+      "Link": "https://komameblog.jp/news/news20260722-hp-summer/",
+      "Published": "2026-07-22T03:39:49Z",
+      "Source": "こまめブログ",
+      "Category": "広告なし",
+      "Summary": "日本HPがサマーセールを7/29まで開催｜エントリー機のCPU性能を解説\n\n日本HPの公式サイトにて、7/20から期間限定のキャンペーン「サマーセール！」が始まりました。キャンペーン期間は7/29の12:59まで。PCや周辺機器が、最大60%オフで販売されるとのことです。その最大割引率の製品は、エントリー（入門）向...\n\n日本HPの公式サイトにて、7/20から期間限定のキャンペーン「サマーセール！」が始まりました。キャンペーン期間は7/29の12:59まで。PCや周辺機器が、最大60%オフで販売されるとのことです。\n\nその最大割引率の製品は、エントリー（入門）向けのノートPC『HP OmniBook 3 16』および『HP OmniBook 3 14』。価格は60%オフモデルが10万4900円ですが、14インチタイプにはさらに安い9万9900円のモデルも用意されています。\n\n最安モデルで使われている「Athlon Gold」は「Athlon Gold 20」で、これは2023年にリリースされた「Athlon Gold 7220U」のリネームCPUです。また60%オフモデルで使われている「Ryzen 5 40」も「Ryzen 5 7520U」のリネーム版にあたります。\n\n3種類のCPUが使われたモデルが9万9900円～11万4990円の約1.5万円のレンジ内に存在するわけですが、それぞれのCPU性能を考えると、この価格差はバランスが悪いように思えます。CPUベンチマークスコアの統計データを確認すると、Athlon Gold 7220U（Athlon Gold 20のリネーム元）のスコア平均値は「4903」。総合スコアで見ると、格安ミニPCでよく使われたIntel N150より下です（シングルスレッドはやや上）。N150ミニPCで「まあなんとか使える」くらいの評価が多かったので、Athlon Gold 20だとけっこう厳しいと考えざるを得ません。\n\n『PassMark CPU Marks』によるCPUベンチマークスコアの統計データ\n\n60%オフモデルで使われているRyze…",
+      "ImageURL": "https://komameblog.jp/wp-content/uploads/2026/07/News20260722-HP-Summer.jpg"
+    },
+    {
+      "Title": "高耐久なドラレコ用256GB microSDカード「GTMS256DPSAD」が入荷",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2126118.html",
+      "Published": "2026-07-22T03:30:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "高耐久なドラレコ用256GB microSDカード「GTMS256DPSAD」が入荷\n\n「ドライブレコーダーに最適」（製品パッケージ）という高耐久仕様の256GB microSDカード「GTMS256DPSAD」が、あきばお～弐號店に入荷。\n\n高耐久なドラレコ用256GB microSDカード「GTMS256DPSAD」が入荷\n\n「ドライブレコーダーに最適」（製品パッケージ）という高耐久仕様の256GB microSDカード「GTMS256DPSAD」が、 あきばお～弐號店 に入荷。\n\nUHS-I対応のmicroSDカードで、複数のメーカーで採用実績があるというドライブレコーダー向けの製品。転送速度はリード最大80MB/s。\n\n繰り返し録画に強いという高耐久モデルで、高低温耐久仕様をうたう（製品ページの特徴欄には-25～85℃、製品仕様には-20～85℃と記載）。\n\nまた、電圧負荷に耐える電断対策設計も特徴で、電気信号の遮断時（エンジンON/OFF）にデータを保護する対策機能を搭載しているという。\n\n録画時間目安は約48時間（フルHD時）。SDカードアダプターやケースも付属する。",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2126/118/s1.jpg"
+    },
+    {
+      "Title": "CPS、5型ディスプレイ搭載のツインタワー型CPUクーラー「RZ820-DISPLAY-BK」",
+      "Link": "https://www.gdm.or.jp/pressrelease/2026/0722/644911",
+      "Published": "2026-07-22T03:27:07Z",
+      "Source": "エルミタージュ秋葉原",
+      "Category": "",
+      "Summary": "CPS、5型ディスプレイ搭載のツインタワー型CPUクーラー「RZ820-DISPLAY-BK」\n\n株式会社サイズ（本社：千葉県松戸市）は2026年7月22日、Shenzhen Fluence Technology（本社：中国）が展開するCPSブランドのハイエンドCPUクーラー「RZ820-DISPLAY-BK」について、新規取り扱い開始を発表した。市場想定売価は税込26,980円で、8月10日に発売予定。\n\nCPS、5型ディスプレイ搭載のツインタワー型CPUクーラー「RZ820-DISPLAY-BK」\n\n株式会社サイズ（本社：千葉県松戸市）は2026年7月22日、Shenzhen Fluence Technology（本社：中国）が展開するCPSブランドのハイエンドCPUクーラー 「RZ820-DISPLAY-BK」 について、新規取り扱い開始を発表した。市場想定売価は税込26,980円で、8月10日に発売予定。\n\n「RZ820」シリーズのディスプレイ搭載モデルにあたり、5インチの高精細液晶ディスプレイ（1,280×720/60Hz）をトップに搭載。システムのリアルタイムモニタリングのほか、画像やGIFアニメーション、壁紙などをアップロードして表示できる。\n\n8mm径×4本と6mm径×4本のハイブリッド構成を採用する、合計8本のリバースド グラビティ・ヒートパイプを実装。ヒートシンクはニッケルメッキ銅ベースで熱を吸い上げ、流線型フィンスタックのツインタワーで効率よく放熱する設計になっている。\n\nまた冷却ファンは、140×140×25mmのフロントファンと150×120×30mmで構成された、サイズの異なる2つのカスタムファンを備える。\n\n主な仕様は、フロントファンが回転数400～15,000rpm±10％、最大風量71.9CFM、最大静圧2.12mmH2O、騒音値15～27.1dBA。ミドルファンは回転数500～2,200rpm±10％、最大風量78.7CFM、最大静圧5.2mmH2O、騒音値15~35.8dBAなど。\n\n対応プラットフォームは、Intel LGA 18…",
+      "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/07/22/RZ820_DISPLAY_BK_01.jpg"
+    },
+    {
+      "Title": "中古iPhoneの修理履歴はどこを見る？表示別の確認ポイント",
+      "Link": "https://iphone-mania.jp/used-603794/",
+      "Published": "2026-07-22T03:20:42Z",
+      "Source": "iPhone Mania",
+      "Category": "修理",
+      "Summary": "中古iPhoneの修理履歴はどこを見る？表示別の確認ポイント\n\n中古iPhoneの「部品と修理の履歴」には、「純正」「中古」「不明」「未確認」などが表示されます。しかし、表示の意味が分かっても、それだけでは購入できる端末か判断できません。表示を確認した後に何を調べるか、販売店へどう質問するか、届いた日に何を試すかまで順番に整理します。\n\n中古iPhoneの修理履歴はどこを見る？表示別の確認ポイント\n\n中古iPhoneの「部品と修理の履歴」には、「純正」「中古」「不明」「未確認」などが表示されます。しかし、表示の意味が分かっても、それだけでは購入できる端末か判断できません。表示を確認した後に何を調べるか、販売店へどう質問するか、届いた日に何を試すかまで順番に整理します。\n\n「部品と修理の履歴」は、iOS15.2以降のiPhoneで「設定」アプリを開き、「一般」から「情報」へ進むと確認できます。修理履歴がある端末では、交換された部品と修理に関する表示が出ます。\n\n購入前に実機を操作できる場合は、販売員と一緒に画面を開きます。オンライン購入では、商品ページに履歴画面が掲載されているかを確認し、見当たらなければ販売店へ画像の提供を依頼します。中古端末全体の点検項目は、 中古iPhone購入時の確認リスト も参考になります。\n\n履歴欄の表示は、部品の出所だけを示すものではありません。修理後の検証や部品の関連付け、現在の動作状態も関係します。\n\n「中古」は、別のiPhoneで使われていたApple純正部品を示します。「不明」は非純正部品だけを指す言葉ではなく、機能不良や修理後の検証が終わっていない場合なども含まれます。表示だけで部品の状態を決めつけず、理由と動作を分けて確認する必要があります。\n\n「未確認」は、以前、別のiPhoneで使われていたロジックボードが使用されている場合に表示…",
+      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/07/22/7966bae78213db11914ad7af893f8431.jpg"
+    },
+    {
+      "Title": "Arc G3 Extreme搭載8型ポータブルゲーミングPC、MSI「Claw 8 EX AI+ CG3EM」29日発売",
+      "Link": "https://www.gdm.or.jp/pressrelease/2026/0722/644913",
+      "Published": "2026-07-22T03:17:33Z",
+      "Source": "エルミタージュ秋葉原",
+      "Category": "",
+      "Summary": "Arc G3 Extreme搭載8型ポータブルゲーミングPC、MSI「Claw 8 EX AI+ CG3EM」29日発売\n\nエムエスアイコンピュータージャパン株式会社（本社：東京都千代田区）は2026年7月22日、Intel Arc G3 Extremeを搭載する8型ポータブルゲーミングPC「Claw 8 EX AI+ CG3EM」（型番：Claw-8-EX-AI+CG3EM-406JP）の国内モデルを発表した。価格はオープンプライスで、7月29日（水）より販売を開始する。\n\nArc G3 Extreme搭載8型ポータブルゲーミングPC、MSI「Claw 8 EX AI+ CG3EM」29日発売\n\nエムエスアイコンピュータージャパン株式会社（本社：東京都千代田区）は2026年7月22日、Intel Arc G3 Extremeを搭載する8型ポータブルゲーミングPC 「Claw 8 EX AI+ CG3EM」 （型番：Claw-8-EX-AI+CG3EM-406JP）の国内モデルを発表した。価格はオープンプライスで、7月29日（水）より販売を開始する。\n\n14コアのCPUコアと高性能GPU「Intel Arc B390」を内蔵したポータブルゲーミングPC向けCPU 「Intel Arc G3 Extreme」 を採用し、FPS・バトルロイヤルゲーム・格闘ゲームなどジャンルを問わず多くのゲームタイトルで快適な動作が可能。さらにAIアップスケーリングや、マルチフレーム生成機能を備えたIntel XeSSに対応し、高画質を維持しながらフレームレートを向上できる。\n\nまた、帯域幅40GbpsのThunderbolt 4も2ポート搭載し、外部ディスプレイやドッキングステーション、高速ストレージを接続可能。Windowsデスクトップモードを選択すれば、Officeソフトウェアや各種ビジネスアプリケーション、生成AIサービスなどのソフトウェアも快適に動作する。\n\nディスプレイはリフレッシュレート120HzのWUXGA（1,920×1,200ドット）グレアパネルで、メモリはLPDDR5X…",
+      "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/07/22/Claw_8_EX_AI_CG3EM_01.jpg"
+    },
+    {
+      "Title": "Intel\ufffdΡ\ufffdArc G3 Extreme\ufffdפ\ufffd\ufffd\ufffd\ufffdܤ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdǽ\ufffdʷ\ufffd\ufffdӷ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdPC\ufffd\ufffdClaw 8 Ex AI\ufffdܡפ\ufffd7\ufffd\ufffd29\ufffd\ufffd\ufffd˹\ufffd\ufffd\ufffdȯ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
+      "Link": "https://www.4gamer.net/games/118/G011863/20260722011/",
+      "Published": "2026-07-22T03:10:22Z",
+      "Source": "4Gamer.net Hardware",
+      "Category": "HARDWARE",
+      "Summary": "Intel�Ρ�Arc G3 Extreme�פ����ܤ�������ǽ�ʷ��ӷ�������PC��Claw 8 Ex AI�ܡפ�7��29���˹���ȯ������\n\n2026年7月22日，MSIは，Intelのモバイル機器向けSoC「Arc G3 Extreme」を搭載する携帯型ゲームPC「Claw 8 Ex AI＋」を7月29日に国内発売すると発表した。価格は…\n\nIntelの「Arc G3 Extreme」を搭載する高性能な携帯型ゲームPC「Claw 8 Ex AI＋」が7月29日に国内発売決定 ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ 過去は「消された」わけじゃない。「龍が如く 極3 / 龍が如く3外伝 Dark Ties」の“再演”の先に見えたもの ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 私の新品Switch2の記録は，6:50:31でした ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「プロスピ2026」は，歴代日本代表で挑めるWBCモード搭載！ “最強の侍”はどのチームなのか，時代を超えた夢の対戦を目撃した ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「スプラトゥーン レイダース」は，Directでたくさん情報が出たからこそこれからに注目！ 発売日までの“お祭り感”を楽しもう ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 本日発売「DEAD OR ALIVE 6 Last Round」の初心者向けガイド。基本無料版で，奥深い3D格闘ゲームをまず浅瀬から体験しよう…",
+      "ImageURL": "https://www.4gamer.net/games/118/G011863/20260722011/SS/002.jpg"
+    },
+    {
+      "Title": "XASTRAの120mm PWMファン「FB120」が発売、リバースブレードモデルもあり",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2126317.html",
+      "Published": "2026-07-22T03:05:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "XASTRAの120mm PWMファン「FB120」が発売、リバースブレードモデルもあり\n\nXASTRAブランドの120mm PWMファン「FB120」シリーズが発売された。ノーマルブレード採用の「FB120」と、リバースブレードモデルの「FB120-REVERSE」が販売されている。\n\nXASTRAの120mm PWMファン「FB120」が発売、リバースブレードモデルもあり\n\nXASTRAブランドの120mm PWMファン「FB120」シリーズが発売された。ノーマルブレード採用の「FB120」と、リバースブレードモデルの「FB120-REVERSE」が販売されている。\n\n9枚ブレードを採用しPWMデイジーチェーンにも対応する120mmファン\n\nこれらは、9枚ブレードを採用した120mmファン。ファンフレームとブレードは効率的な気流経路を作り出すよう設計されているという。\n\n4ピンPWMのデイジーチェーンコネクタを備えるほか、フレーム四隅の両面に防振ゴムパッドを装備し、シャーシやラジエーターへの振動伝達を抑えるとしている。\n\n主な仕様は共通で、サイズが120×120×25mm、回転数が800～2,000RPM±10%、風量が76CFM、静圧が2.4mmH2O、騒音値が26dBA。",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2126/317/a1.jpg"
+    },
+    {
+      "Title": "Elgato、PCやStream Deckから調整できるデスク向けLEDライト「Key Light Air MK.2」発売",
+      "Link": "https://www.gdm.or.jp/pressrelease/2026/0722/644887",
+      "Published": "2026-07-22T02:45:42Z",
+      "Source": "エルミタージュ秋葉原",
+      "Category": "",
+      "Summary": "Elgato、PCやStream Deckから調整できるデスク向けLEDライト「Key Light Air MK.2」発売\n\nSB C\u0026S株式会社（本社：東京都港区）は2026年7月22日、CORSAIR（本社：アメリカ カリフォルニア州）が展開するElgatoブランドのLEDライト「Key Light Air MK.2」について、新規取り扱い開始を発表した。市場想定売価は税込25,800円で、7月24日に発売予定。\n\nElgato、PCやStream Deckから調整できるデスク向けLEDライト「Key Light Air MK.2」発売\n\nSB C\u0026S株式会社（本社：東京都港区）は2026年7月22日、CORSAIR（本社：アメリカ カリフォルニア州）が展開するElgatoブランドのLEDライト 「Key Light Air MK.2」 について、新規取り扱い開始を発表した。市場想定売価は税込25,800円で、7月24日に発売予定。\n\nスリムな15インチパネルを採用した、USB Type-C接続のデスク向けLEDライト。明るさ最大2,100ルーメンの柔らかなエッジライト照明により、ビデオ会議や配信、撮影時のカメラ写りを自然に整えてくれる。\n\nタッチ操作により、明るさや色温度の調整、プリセットの切り替えが可能。PCやスマートフォンのアプリ、Stream Deckからの操作にも対応しており、作業や配信の流れを妨げずに照明を調整できる。\n\nそのほか色温度は2,900～7,000Kに調整可能で、ネットワークは2.4GHz/5GHzのデュアルバンドWi-Fiに対応。電源はUSB Type-Cポートからの給電やUSB PD対応充電アダプタ、モバイルバッテリーなどが利用できる。\n\n外形寸法は幅319mm、奥行き33mm、高さ207mm、重量約735g。製品にはクランプ式デスクスタンドが付属し、省スペースに設置できる。また、別売りのFocus Gridを装着することで、光の広がりを抑えた演出にも対応する。\n\n文： 編集部 絵踏 一 SB C\u0026S株式会社： https://shop.…",
+      "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/07/22/Key_Light_Air_MK2_01.jpg"
+    },
+    {
+      "Title": "単一のDGX Sparkで動く！コーディング特化AI「Laguna S 2.1」が無償公開",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2126796.html",
+      "Published": "2026-07-22T02:44:59Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "単一のDGX Sparkで動く！コーディング特化AI「Laguna S 2.1」が無償公開\n\nAIスタートアップのPoolsideは7月21日(米国時間)、コーディングおよびエージェントタスクに特化した最新の言語モデル「Laguna S 2.1」を発表した。総パラメータ数1,180億(118B)、アクティブパラメータ数80億(8B)のMixture-of-Experts(MoE)構成を採用しており、最大100万トークンのコンテキストウィンドウに対応する。モデルはHugging Faceなどから無料でダウンロードでき、ライセンスはOpenMDW-1.1。\n\n単一のDGX Sparkで動く！コーディング特化AI「Laguna S 2.1」が無償公開\n\nAIスタートアップのPoolsideは7月21日(米国時間)、コーディングおよびエージェントタスクに特化した最新の言語モデル「Laguna S 2.1」を発表した。総パラメータ数1,180億(118B)、アクティブパラメータ数80億(8B)のMixture-of-Experts(MoE)構成を採用しており、最大100万トークンのコンテキストウィンドウに対応する。モデルはHugging Faceなどから無料でダウンロードでき、ライセンスはOpenMDW-1.1。\n\nLaguna S 2.1は118B-A8Bと総パラメータ数/アクティブパラメータ数ともに小規模であり、ローカル環境での実行や効率的なエージェント運用に適した設計でありながら、自身の何倍もの規模を持つ超大型モデルと遜色ない長期的タスク能力とコード生成性能を実現。6カ月前の最先端モデルを、単一のDGX Sparkで実行できるほど小さなサイズに収めた。\n\n実際のベンチマークでは、端末を介した長時間の複雑なタスク処理能力を評価する「Terminal-Bench 2.1」において、思考モード時に70.2%(非思考時は60.4%)のスコアを達成。1.6兆パラメータ(1.6T)規模の「DeepSeek-V4-Pro-Max」や975B規模の「Inkling」といった巨大モデルを上回…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2126/796/1.jpg"
+    },
+    {
+      "Title": "全高118.5mmのツインタワー型CPUクーラー、CPS「RZ620M X BK」8月10日発売",
+      "Link": "https://www.gdm.or.jp/pressrelease/2026/0722/644899",
+      "Published": "2026-07-22T02:41:49Z",
+      "Source": "エルミタージュ秋葉原",
+      "Category": "",
+      "Summary": "全高118.5mmのツインタワー型CPUクーラー、CPS「RZ620M X BK」8月10日発売\n\n株式会社サイズ（本社：千葉県松戸市）は2026年7月22日、Shenzhen Fluence Technology（本社：中国）が展開するCPSブランドのツインタワーサイドフローCPUクーラー「RZ620M X BK」について、新規取り扱い開始を発表した。市場想定売価は税込5,980円で、8月10日（月）より販売を開始する。\n\n全高118.5mmのツインタワー型CPUクーラー、CPS「RZ620M X BK」8月10日発売\n\n株式会社サイズ（本社：千葉県松戸市）は2026年7月22日、Shenzhen Fluence Technology（本社：中国）が展開するCPSブランドのツインタワーサイドフローCPUクーラー 「RZ620M X BK」 について、新規取り扱い開始を発表した。市場想定売価は税込5,980円で、8月10日（月）より販売を開始する。\n\n全高を118.5mmに抑えたツインタワー型サイドフローCPUクーラー。ミニタワーPCケースなど、幅が狭いコンパクトなPCケースにも対応する。\n\nヒートシンクは空気抵抗を最小限に抑えた「トライアングル・ウェービーフィンスタック設計」で、銅製のベースプレートには水平設置・垂直設置のいずれでも優れた熱移動ができるφ6mmの「アンチグラビティ・ヒートパイプ」を6本搭載。さらにファンクリップを使用せずにファンをヒートシンク中央に搭載する「ミッドシップマウント構造」を採用する。\n\n冷却ファンは厚さ25mmの100mmデュアルボールベアリングファンで、回転数は1,000～3,000rpm±10％、風量最大54.2CFM、静圧最大2.92mmH2O、ノイズレベル最大32.5dBA。また、天板にはコーナーにARGB LEDを備えたトップカバーを備える。\n\n外形寸法は幅104mm、奥行き94mm、高さ118.5mm、重量730g。対応ソケットはIntel LGA1851 / 1700 / 1200 / 115x、AMD Socket AM5 …",
+      "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/07/22/RZ620M_X_BK_01.jpg"
+    },
+    {
+      "Title": "8000mAh電池を厚さ8.8mmに凝縮、realme「NARZO 100x 5G」発表",
+      "Link": "https://smhn.info/202607-realme-narzo-100x-5g-8000mah-battery-88mm-announced",
+      "Published": "2026-07-22T02:30:41Z",
+      "Source": "すまほん!!",
+      "Category": "realme NARZO 100x 5G",
+      "Summary": "8000mAh電池を厚さ8.8mmに凝縮、realme「NARZO 100x 5G」発表\n\n8000mAhの巨大電池を、厚さ約8.8mmのボディに押し込んできました。realmeは7月15日、インド市場向けスマートフォン「realme NARZO 100x 5G」を発表しました。価格は2万999ルピー(3万5000円)からで、7月22日正午（現地時間）に販売を始めます。...\n\n8000mAh電池を厚さ8.8mmに凝縮、realme「NARZO 100x 5G」発表\n\n8000mAhの巨大電池を、厚さ約8.8mmのボディに押し込んできました。\n\nrealmeは7月15日、インド市場向けスマートフォン「 realme NARZO 100x 5G 」を発表しました。価格は2万999ルピー(3万5000円)からで、7月22日正午（現地時間）に販売を始めます。\n\n最大の売りは電池です。容量は典型値8000mAh、定格値7780mAhで、45W SUPERVOOC急速充電に対応します。ゲーム中に電池を介さず本体へ直接給電するバイパス充電や、リバース充電にも対応しました。realmeは「3日間のDOU（1日の標準的な利用を何日続けられるかの指標）」や7年間のバッテリー健全性もうたいますが、この手の数字は同社の試験条件での話なので、話半分に聞いておくのが吉かもしれません。\n\n画面は6.8型の 144Hz 駆動液晶で、HBM時の輝度は1200ニトです。ただし解像度は1570 × 720のHD+止まりで、精細さより電池持ちと価格を優先した割り切りが見えます。SoCは MediaTek Dimensity 6300 、実行メモリは4GB／6GB（LPDDR4X）、ストレージは128GB／256GB（UFS 2.2）で、 microSDカード も使えます。同社がセグメント最大とうたう5300mm²のVC（ ベイパーチャンバー ）冷却を積み、長時間ゲームの発熱対策にも気を配りました。\n\nカメラは5000万画素メインと800万画素フロントのシンプルな構成です。IP65防塵防水に加え、MIL-ST…",
+      "ImageURL": "https://smhn.info/wp-content/uploads/2026/07/260720_112927.png"
+    },
+    {
+      "Title": "【本日みつけたお買い得品】最大24時間駆動可能なハンディファンが千円引きで販売中",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2126798.html",
+      "Published": "2026-07-22T02:21:24Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "【本日みつけたお買い得品】最大24時間駆動可能なハンディファンが千円引きで販売中\n\nAmazonにて、内蔵バッテリが10,000mAhのハンディファン「Tomoro ウェアラブルファン H28」が、直近価格の1,000円引きとなる3,299円で販売されている。\n\nAmazonにて、内蔵バッテリが10,000mAhのハンディファン「Tomoro ウェアラブルファン H28」が、直近価格の1,000円引きとなる3,299円で販売されている。\n\nTomoro ウェアラブルファンは10,000mAhのバッテリを内蔵するハンディファンで、連続使用時間は送風モード使用時で最大24時間、冷却モードも合わせた場合は最大11時間。100段階の風量調整が可能で、LEDによるバッテリ残量表示も行なえる。\n\nストラップを使用して首掛けで利用できるほか、手持ちでの利用やフックスタンドによる卓上設置にも対応する。ファンの吹き出し口には冷却プレートを搭載し、ファンの最大回転数は18,000rpm。\n\nTORRASのハンディファン「COOLiFY iva GO(FS1)」が、直近価格から1,600円引きの5,699円で販売中だ。\n\nCOOLiFY iva GO(FS1)は、5,000mAhのバッテリを内蔵するハンディファン。吹き出し口には冷却プレートを備え、100段階の風量調節も行なえる。連続使用時間は最大21時間で、ファンの最大回転数は17,000rpm。風量やバッテリ残量が確認できるLEDディスプレイも備える。本体底部にはカバンなどに取り付けやすいカラビナが収納されている。\n\nKarcusinyのミスト機能付きハンディファン「SS-058」が、7月13日頃の価格より1,600円安い3,280円で購入できる。\n\nKarcusiny 「SS-058」は風の吹き出し口下部にミスト噴霧口を備えるハンディファン。ミストモードには連続噴霧モードと間欠噴霧モードの2種類を用意する。ミストモードの利用には本体に備えるタンクに給水する必要がある。\n\nバッテリ容量は6,000mAhで、連続使用時間はファンのみで最大1…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2126/798/04.jpg"
+    },
+    {
+      "Title": "【本日みつけたお買い得品】Razerのゲーミングマウス「Viper V4 Pro」が2,000円オトク！",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2126793.html",
+      "Published": "2026-07-22T02:09:33Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "【本日みつけたお買い得品】Razerのゲーミングマウス「Viper V4 Pro」が2,000円オトク！\n\nAmazonにて、Razerのゲーミングマウス「Viper V4 Pro」が、直近価格から2,000円安い2万4,980円で購入できる。\n\nRazerのゲーミングマウス「Viper V4 Pro」が2,000円オトク！\n\nAmazonにて、Razerのゲーミングマウス「Viper V4 Pro」が、直近価格から2,000円安い2万4,980円で購入できる。\n\nViper V4 Proは、専用のUSBドングルで接続して利用するワイヤレスゲーミングマウス。ポーリングレートは8,000Hzで低遅延を実現し、最大解像度は50,000DPI、最大加速度は90G。ホイールには「Razerオプティカルスクロールホイール」を搭載し、メカニカル設計よりも3.3倍高い信頼性を実現するとしている。本体重量は49gで、バッテリ駆動時間は最大180時間。\n\nPhilipsのゲーミングブランド「EVNIA」のゲーミングマウス「Philips Evnia Gaming Mouse SPK9418」が、7月14日頃の価格から1,095円引きとなる4,485円で販売されている。\n\nPhilips Evnia Gaming Mouse SPK9418は、重量52gのワイヤレスゲーミングマウス。PAW3311光学センサーを採用し、最大解像度は12,000DPI。接続は付属の2.4GHz無線レシーバのほか、Bluetoothや有線接続でも利用が可能で、ポーリングレートは有線/無線どちらも1,000Hz。バッテリ駆動時間は最大60時間。\n\nPhilips Evnia Gaming Mouse SPK9418\n\nロジクール製の無線ゲーミングマウス「PRO X SUPERLIGHT 2c」とゲーミングマウスパッド「G240」のセットが、直近価格より2,422円引きとなる2万3,500円で購入できる。\n\nPRO X SUPERLIGHT 2c(G-PPD-004WLCO-BKd)は、重量51gのゲーミングマウス…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2126/793/03.jpg"
+    },
+    {
       "Title": "海外旅行の充電器問題、MOMAX変換プラグが19％オフの6,459円で解決",
       "Link": "https://gori.me/sale/peripheral-sale/168339",
       "Published": "2026-07-21T23:35:09Z",
@@ -4033,15 +4168,6 @@
       "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/07/09/7731971e43b1f1740283e41897ddecdb.jpg"
     },
     {
-      "Title": "新型ポンプ搭載の水冷クーラー「DE360MAX」がCPSから、ブラックとホワイトの2色",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2123638.html",
-      "Published": "2026-07-09T04:05:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "新型ポンプ搭載の水冷クーラー「DE360MAX」がCPSから、ブラックとホワイトの2色\n\nCPSブランドの簡易水冷CPUクーラー「DE360MAX」が10日（金）に発売される。ラインアップは、本体色がブラックの「DE360MAX-BK」とホワイトの「DE360MAX-WH」の2モデル。\n\n新型ポンプ搭載の水冷クーラー「DE360MAX」がCPSから、ブラックとホワイトの2色\n\nCPSブランドの簡易水冷CPUクーラー「DE360MAX」が10日（金）に発売される。ラインアップは、本体色がブラックの「DE360MAX-BK」とホワイトの「DE360MAX-WH」の2モデル。\n\n店頭価格はブラックモデルが17,980円、ホワイトモデルが18,980円。\n\nフルセラミックベアリングを採用した次世代ポンプや高静圧ファンを搭載する簡易水冷クーラー\n\nこれらは、ポンプやラジエーターが一体になったオールインワンタイプの水冷CPUクーラー。360mmサイズのラジエーターを採用している。\n\nフルセラミックベアリングを採用した次世代ポンプを備えているのが特長で、より強力なパワーと低動作音を実現し、優れた耐久性と冷却性能を発揮すると謳う。\n\n水冷ヘッドにはCNC加工が施されたアルミニウム合金製シェルとARGB対応フレームが採用されているほか、ファンフレームはネジ穴が見えないデザインとなっている。\n\n冷却ファンには、デュアルボールベアリングを採用した120mm PWMファンを3基搭載する。ファンの主な仕様は、回転数が500～2,200RPM±10%、最大風量が66CFM、最大静圧が4.04mmH2O、最大ノイズレベルが34.3dB(A)。ファンはラジエーターに装着済みで、マザーボードとはケーブル1本で接続できる。\n\n対応CPUソケットはIntel LGA 115X/1200/1700/1851、AMD Socket AM4/AM5。ラジエーターサイズは394×120×27mm。チューブ長は400mm。付属品はリテンションキット、グリス、ラジエーター取り付けネジ、図解マニュアル。保証期間は3年。\n…",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2123/638/a1.jpg"
-    },
-    {
       "Title": "「Microsoft Office 2024」永続版が10%ポイント還元、Microsoft 365も！楽天お買い物マラソン",
       "Link": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2123620.html",
       "Published": "2026-07-09T04:05:00Z",
@@ -4049,6 +4175,15 @@
       "Category": "",
       "Summary": "「Microsoft Office 2024」永続版が10%ポイント還元、Microsoft 365も！楽天お買い物マラソン\n\n楽天市場では、11日(土)1:59までの期間限定で「お買い物マラソン」が開催中。\n\n「Microsoft Office 2024」永続版が10%ポイント還元、Microsoft 365も！楽天お買い物マラソン\n\n楽天市場では、11日(土)1:59までの期間限定で「お買い物マラソン」が開催中。\n\n楽天スーパーDEALSHOPでは、2台までのPCで使えるMicrosoft「Office Home \u0026 Business 2024」永続版が、11日(土)9:59までポイント還元対象となっています。価格は43,980円で、10%ポイント還元の対象。\n\nOffice Home 2024永続版（41,360円）もポイント還元対象。\n\nサブスクリプションプランのMicrosoft 365 Personal（21,300円）、Family（27,400円）もポイント還元の対象となっています。",
       "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2123/620/s1.jpg"
+    },
+    {
+      "Title": "新型ポンプ搭載の水冷クーラー「DE360MAX」がCPSから、ブラックとホワイトの2色",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2123638.html",
+      "Published": "2026-07-09T04:05:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "新型ポンプ搭載の水冷クーラー「DE360MAX」がCPSから、ブラックとホワイトの2色\n\nCPSブランドの簡易水冷CPUクーラー「DE360MAX」が10日（金）に発売される。ラインアップは、本体色がブラックの「DE360MAX-BK」とホワイトの「DE360MAX-WH」の2モデル。\n\n新型ポンプ搭載の水冷クーラー「DE360MAX」がCPSから、ブラックとホワイトの2色\n\nCPSブランドの簡易水冷CPUクーラー「DE360MAX」が10日（金）に発売される。ラインアップは、本体色がブラックの「DE360MAX-BK」とホワイトの「DE360MAX-WH」の2モデル。\n\n店頭価格はブラックモデルが17,980円、ホワイトモデルが18,980円。\n\nフルセラミックベアリングを採用した次世代ポンプや高静圧ファンを搭載する簡易水冷クーラー\n\nこれらは、ポンプやラジエーターが一体になったオールインワンタイプの水冷CPUクーラー。360mmサイズのラジエーターを採用している。\n\nフルセラミックベアリングを採用した次世代ポンプを備えているのが特長で、より強力なパワーと低動作音を実現し、優れた耐久性と冷却性能を発揮すると謳う。\n\n水冷ヘッドにはCNC加工が施されたアルミニウム合金製シェルとARGB対応フレームが採用されているほか、ファンフレームはネジ穴が見えないデザインとなっている。\n\n冷却ファンには、デュアルボールベアリングを採用した120mm PWMファンを3基搭載する。ファンの主な仕様は、回転数が500～2,200RPM±10%、最大風量が66CFM、最大静圧が4.04mmH2O、最大ノイズレベルが34.3dB(A)。ファンはラジエーターに装着済みで、マザーボードとはケーブル1本で接続できる。\n\n対応CPUソケットはIntel LGA 115X/1200/1700/1851、AMD Socket AM4/AM5。ラジエーターサイズは394×120×27mm。チューブ長は400mm。付属品はリテンションキット、グリス、ラジエーター取り付けネジ、図解マニュアル。保証期間は3年。\n…",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2123/638/a1.jpg"
     },
     {
       "Title": "紙とiPad両方に書ける画期的なペン。ゼブラ「スタイラス2WAY」を触ってきた",
@@ -4364,144 +4499,99 @@
       "Category": "",
       "Summary": "ラピトリ対応65％日本語キーボード「ROG Falchion Ace HFX」が22,857円など！Amazonプライムデー先行セール\n\nAmazon.co.jpにて、「プライムデー」セールが7月10日（金）～13日（月）まで開催。\n\nラピトリ対応65％日本語キーボード「ROG Falchion Ace HFX」が22,857円など！Amazonプライムデー先行セール\n\nAmazon.co.jpにて、「プライムデー」セールが7月10日（金）～13日（月）まで開催。\n\n7月7日（火）から始まっている先行セールでは、ASUSのゲーミングデバイス製品がセール対象となっています。\n\nROG Falchion Ace HFXは、最大8,000Hzのポーリングレートに対応したラピッドトリガー対応の65％ゲーミングキーボード。セール価格は日本語配列モデルが22,857円、英語配列モデルが23,791円。\n\nROG Raikiri II Xbox Wireless Controllerは、Xbox Series X|SおよびPC、ROG Xbox Allyに対応したワイヤレスコントローラー。セール価格は25,822円。\n\nROG Raikiri II Xbox Wireless Controller\n\nROG Harpe II Ace Gaming Mouseは、最大8,000Hzのポーリングレートに対応した重量48gのワイヤレスゲーミングマウス。セール価格はブラックモデルが17,091円、ホワイトモデルが17,121円、レッドモデルが21,698円。\n\nROG Harpe II Ace Gaming Mouse ブラック\n\nROG Harpe II Ace Gaming Mouse ホワイト\n\nROG Harpe II Ace Gaming Mouse レッド\n\nROG Harpe Ace Miniは、最大8,000Hzのポーリングレートに対応した重量49gの小型ワイヤレスゲーミングマウス。セール価格はブラックモデルが13,515円、ホワイトモデルが14,991円。\n\nROG Pel…",
       "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2123/252/a1.jpg"
-    },
-    {
-      "Title": "��DOOM: The Dark Ages�פ��緿DLC���б�������GeForce 610.74 Driver�ץ��꡼��",
-      "Link": "https://www.4gamer.net/games/022/G002210/20260708020/",
-      "Published": "2026-07-08T06:02:56Z",
-      "Source": "4Gamer.net Hardware",
-      "Category": "HARDWARE",
-      "Summary": "��DOOM: The Dark Ages�פ��緿DLC���б�������GeForce 610.74 Driver�ץ��꡼��\n\n米国時間2026年7月7日，NVIDIAは，公式最新版グラフィックスドライバ「GeForce 610.74 Driver」をリリースした。 　WHQL（Windows Hardware Qualit…\n\n「DOOM: The Dark Ages」の大型DLCに対応する「GeForce 610.74 Driver」リリース ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ 「スプラトゥーン レイダース」は，Directでたくさん情報が出たからこそこれからに注目！ 発売日までの“お祭り感”を楽しもう ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 本日発売「DEAD OR ALIVE 6 Last Round」の初心者向けガイド。基本無料版で，奥深い3D格闘ゲームをまず浅瀬から体験しよう！ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「SteamNEXTフェス 6月エディション」オススメタイトルまとめ。片っ端から遊んで見つけた，注目してほしいゲームを集めました ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 【島国大和】デベロッパとパブリッシャの理想的な関係とは？ 相手の仕事領域と寝袋の中には，あまり踏み込まないで……！ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ eスポーツを学ぶ高校のリアルな1日。通信制高校「ルネサンス高等学校」池袋キャンパスを密着取材したら，まぶし…",
-      "ImageURL": "https://www.4gamer.net/games/022/G002210/20260708020/SS/001.jpg"
-    },
-    {
-      "Title": "ClaudeやGeminiがSiriに？Appleが伏せたiOS27拡張機能",
-      "Link": "https://iphone-mania.jp/ios-603351/",
-      "Published": "2026-07-08T05:56:21Z",
-      "Source": "iPhone Mania",
-      "Category": "Siri AI",
-      "Summary": "ClaudeやGeminiがSiriに？Appleが伏せたiOS27拡張機能\n\nWWDC\n\nClaudeやGeminiがSiriに？Appleが伏せたiOS27拡張機能\n\nWWDC 2026でAppleは SiriのAI機能 を大きく刷新しましたが、「他社のAIをSiriから使えるのか」と気になる方も多いのではないでしょうか。海外メディアの報道によると、Appleはその答えとなる機能をiOS27の内部にすでに用意しながら、発表を見送ったと言われています。結論から言えば、ChatGPT以外のAIをSiriに組み込む基盤はベータに存在するものの、 有効化はまだ行われておらず、提供時期も判明していません 。本記事では、その中身と伏せた理由、日本のユーザーへの意味を読み解きます。\n\nSiri拡張機能 とは、ChatGPT以外のサードパーティー製AIを、Siriや Apple Intelligence と連携させる仕組みです。まず、現時点で判明している要点を整理します。\n\nChatGPT以外のAIをSiriに連携させる基盤が、iOS27の最初の開発者向けベータにすでに存在する\n\nAppleはOpenAI・Anthropic・Googleと協議しており、各社は所定の権限を申請する必要があるとされる\n\nWWDCでは未発表だが社内では数カ月前から使われており、いずれ提供されるとみられている\n\n海外メディアの報道によると、この拡張機能は作文ツール（文章作成支援機能）や画像生成機能「Image Playground」とも連携し、専用の設定パネルとApp Store上の区画まで用意済みで、あとは有効化を待つだけの状態にあるとされています。現在のベータでは、SiriとChatGPTを切り替える選択画面を確認できます。対応するAIの選択肢は、今後この仕組みを通じて増えていく見通しです。\n\n見逃せないのは、各社が権限を「申請する」必要がある点でしょう。外部AIをやみくもに開放するのではなく、App Storeの審査と同じように、Appleが承認した相手だけを連携先として認める形になります。専用の区…",
-      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/07/08/cc9c9f806681a4a1e927f4db54dfbfde.jpg"
-    },
-    {
-      "Title": "240Hz/WQHD/QD-OLEDパネル採用のMSI製26.5型ゲーミングモニターが55,800円など！Amazonプライムデー先行セール",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2123264.html",
-      "Published": "2026-07-08T05:52:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "240Hz/WQHD/QD-OLEDパネル採用のMSI製26.5型ゲーミングモニターが55,800円など！Amazonプライムデー先行セール\n\nAmazon.co.jpにて、「プライムデー」セールが7月10日（金）～13日（月）まで開催。\n\n240Hz/WQHD/QD-OLEDパネル採用のMSI製26.5型ゲーミングモニターが55,800円など！Amazonプライムデー先行セール\n\nAmazon.co.jpにて、「プライムデー」セールが7月10日（金）～13日（月）まで開催。\n\n7月7日（火）から始まっている先行セールでは、MSIのモニター製品がセール対象となっています。\n\nMAG 272QP QD-OLED X24は、240Hz駆動QD-OLEDパネル採用の26.5インチWQHDゲーミングモニター。セール価格は55,800円。\n\nMAG 322UP QD-OLED E16は、165Hz駆動QD-OLEDパネル採用の31.5インチ4Kゲーミングモニター。セール価格は104,800円。\n\nMAG 272UP QD-OLED X24は、QD-OLEDパネルを採用した240Hz表示対応の26.5インチ4Kゲーミングモニター。セール価格は109,800円。\n\nMAG 342CQR E2は、180Hz VAパネル採用の34インチUWQHDウルトラワイドゲーミングモニター。セール価格は39,800円。\n\nMAG 322URDF E16は、160Hz/4Kと320Hz/フルHDのデュアルモード表示が可能なRAPID IPSパネル採用の31.5インチゲーミングモニター。セール価格は69,800円。\n\nG274QPF E20は、200Hz駆動のRAPID IPSパネルを搭載した27インチWQHDゲーミングモニター。セール価格は28,800円。\n\nMAG 276CXFは、280Hz表示対応の曲面型RAPID VAパネルを搭載した27型フルHDゲーミングモニター。セール価格は19,800円。\n\nMAG 255F E20は、200Hz駆動のRAPID IPSパネルを搭載した24.5型フルHDゲ…",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2123/264/a1.jpg"
-    },
-    {
-      "Title": "Lexar、最大1,800MB/s転送の「Professional GOLD CFexpress 4.0 Type A」など2製品",
-      "Link": "https://www.gdm.or.jp/pressrelease/2026/0708/642695",
-      "Published": "2026-07-08T05:43:39Z",
-      "Source": "エルミタージュ秋葉原",
-      "Category": "",
-      "Summary": "Lexar、最大1,800MB/s転送の「Professional GOLD CFexpress 4.0 Type A」など2製品\n\n株式会社旭東エレクトロニクス（本社：東京都港区）は2026年7月8日、Lexar（本社：アメリカ カリフォルニア州）のCFexpress 4.0 Type Aカード「Lexar Professional GOLD CFexpress 4.0 Type A カード」および「Lexar Professional SILVER CFexpress 4.0 Type A カード」について、新規取り扱い開始を発表した。容量はいずれも256GB～2TBの4モデルをラインナップする。\n\nLexar、最大1,800MB/s転送の「Professional GOLD CFexpress 4.0 Type A」など2製品\n\n株式会社旭東エレクトロニクス（本社：東京都港区）は2026年7月8日、Lexar（本社：アメリカ カリフォルニア州）のCFexpress 4.0 Type Aカード 「Lexar Professional GOLD CFexpress 4.0 Type A カード」 および 「Lexar Professional SILVER CFexpress 4.0 Type A カード」 について、新規取り扱い開始を発表した。容量はいずれも256GB～2TBの4モデルをラインナップする。\n\n「Lexar Professional GOLD CFexpress 4.0 Type A カード」は、高負荷なプロフェッショナル撮影向けを想定したCFexpress 4.0 Type Aカードのハイエンドモデル。転送速度は最大読込1,800MB/s、最大書込1,650MB/sに対応。持続書込速度は最大1,400MB/sで、動画記録向け最低持続書込性能のVPGはVPG400に準拠している。\n\nまた、IP68の防水・防塵のほか耐温度性、耐振動性を備える堅牢設計も特徴。商業撮影やドキュメンタリー制作、スポーツ撮影、長時間の映像収録などの撮影シーンにおける安定した記録…",
-      "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/07/08/Professional_GOLD_CF_TypeA_01.jpg"
-    },
-    {
-      "Title": "iPhone Air 1TBが169,800円、13インチiPad Air(M3)セルラー版が119,150円など、Apple製品がお得！",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2123452.html",
-      "Published": "2026-07-08T05:43:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "iPhone Air 1TBが169,800円、13インチiPad Air(M3)セルラー版が119,150円など、Apple製品がお得！\n\nAmazon.co.jpにて、「プライムデー」セールが7月10日（金）～13日（月）まで開催。\n\niPhone Air 1TBが169,800円、13インチiPad Air(M3)セルラー版が119,150円など、Apple製品がお得！\n\nAmazon.co.jpにて、「プライムデー」セールが7月10日（金）～13日（月）まで開催。\n\n7月7日（火）から始まっている先行セールでは、Apple製品がセール対象となっています。\n\niPhone Airは、厚さ5.6mmの超薄型軽量チタニウムフレームに、A19 Proチップや48MP Fusionカメラ、Apple Intelligenceを搭載した6.5インチのSIMフリースマートフォン。ストレージ容量256GB/512GB/1TBモデルが対象で、セール価格は139,800～169,800円。\n\n13インチiPad Air(M3)は、Apple Intelligenceや美しいLiquid Retinaディスプレイ、Touch ID、先進的なカメラ、USB-Cコネクタ、Wi-Fi 6E + 5Gを搭載した128GBのタブレット。128GBモデルのセール価格は119,150円。\n\nApple Watch SE 3(GPSモデル) 40mmは、皮膚温センサーや常時表示ディスプレイ、睡眠時無呼吸の通知機能を備えたスマートウォッチ。セール価格は33,580円。\n\nApple Watch Series 11(GPSモデル) 46mmは、高血圧パターンや睡眠時無呼吸の兆候の通知機能、最大24時間駆動のバッテリー、IP6X防塵および50m耐水性能を備えたスマートウォッチ。セール価格は62,820円。\n\nApple Watch Series 11(GPSモデル) 46mm\n\nAirPods 4（アクティブノイズキャンセリング搭載）は、再設計による快適な装着感やH2チップによる適応型オーディオ、ワイヤレ…",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2123/452/s1.jpg"
-    },
-    {
-      "Title": "GIGABYTEのリアルイベント「GIGABYTE 40周年記念展」が17日～20日に開催",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2123446.html",
-      "Published": "2026-07-08T05:40:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "GIGABYTEのリアルイベント「GIGABYTE 40周年記念展」が17日～20日に開催\n\nGIGABYTE Technologyは、eSports Studio AKIBA（ソフマップAKIBA パソコン・デジタル館8F）にて、入場無料イベント「GIGABYTE 40周年記念展」を開催する。\n\nGIGABYTEのリアルイベント「GIGABYTE 40周年記念展」が17日～20日に開催\n\nGIGABYTE Technologyは、eSports Studio AKIBA（ ソフマップAKIBA パソコン・デジタル館 8F）にて、入場無料イベント「GIGABYTE 40周年記念展」を開催する。\n\n開催期間は7月17日（金）〜20日（月・祝）で、時間は13:00～18:00（入場開始は12:40）。\n\n同社の創業40周年を記念したイベントで、これまで同社が送り出してきたマザーボード、ビデオカード、ノートPCなどの歴代レガシー製品の展示などが行われる。来場者には「GIGABYTEオリジナルパッケージハイチュウ」（毎日配布）および「40周年記念クリアファイル」（18日と20日限定配布）がプレゼントされる。\n\n18日（土）13:00には、テクニカルライターの加藤勝明（KTU）氏と高橋敏也氏、コスプレイヤー 火将ロシエルさんによる「スペシャルトークショー」も開催。\n\n20日（月）13:00にはGIGABYTE渡辺技師による「AIで変わるPC体験！」セッションも予定されている。\n\nまた ソフマップAKIBA パソコン・デジタル館 では、7月8日（水） ～20日の期間で同社PCパーツを対象とした限定セールも開催中。",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2123/446/s1.jpg"
-    },
-    {
-      "Title": "【本日みつけたお買い得品】味の素が手掛けるプロテイン唐揚げがセール価格で販売中",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2123399.html",
-      "Published": "2026-07-08T03:34:08Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "【本日みつけたお買い得品】味の素が手掛けるプロテイン唐揚げがセール価格で販売中\n\nAmazonでは、7月10日から13日にかけてプライムデーセールが開催予定で、現在はその先行セールが行なわれている。セールにおいて、Amazonと味の素が共同で企画したプロテイン入り唐揚げの冷凍食品「by Amazon 味の素 PROTEIN プロテイン唐揚げ 1kg」が直近価格の568円引きとなる2,273円で販売されている。\n\nAmazonでは、7月10日から13日にかけてプライムデーセールが開催予定で、現在はその先行セールが行なわれている。セールにおいて、Amazonと味の素が共同で企画したプロテイン入り唐揚げの冷凍食品「by Amazon 味の素 PROTEIN プロテイン唐揚げ 1kg」が直近価格の568円引きとなる2,273円で販売されている。\n\n[冷凍] by Amazon 味の素 PROTEIN プロテイン唐揚げ 1kgは、Amazonと味の素冷凍食品が共同で企画したAmazonブランドの冷凍食品。レンジ調理で手間なく食べられる唐揚げで、100g(3～4個)あたり、17.6gのたんぱく質を含むという。生姜醤油に漬け込まれ、胡椒によってスパイシーな味付けが施されている。\n\nby Amazon 味の素 PROTEIN プロテイン唐揚げ 1kg\n\n明治のザバスブランドの大豆プロテイン「ザバス(SAVAS) ウェイトダウン チョコレート風味 820g」が直近価格の631円引きとなる3,479円で販売中だ。\n\nザバス(SAVAS) ウェイトダウン チョコレート風味 820gは、水または牛乳250mlに付属のスプーンで4杯(約28g)を溶かして飲めるプロテイン。大豆プロテインに加えて、カラダづくりに必要なビタミンやミネラル、HMB-Ca(カルシウム)を独自配合した粉末プロテインとなっている。\n\nザバス(SAVAS) ウェイトダウン チョコレート風味 820g\n\n明治のザバスブランドによるバナナ風味のミルクプロテイン飲料「明治 ザバス(SAVAS) ミルクプロテイン 脂肪ゼロ バナナ風味…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2123/399/05.jpg"
-    },
-    {
-      "Title": "Claude Coworkのタブが消えた？Chatに統合され、Webやモバイルでも利用可能に",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/2123377.html",
-      "Published": "2026-07-08T03:30:58Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "Claude Coworkのタブが消えた？Chatに統合され、Webやモバイルでも利用可能に\n\nAnthropicは7月7日(米国時間)、「Claude Cowork」を「Chat」と同じ1つのホーム画面に統合したことを発表。合わせて、CoworkをWebおよびモバイルアプリからでも利用可能とし、そのベータ版をMaxプランから開始し、今後数週間にわたってほかのプランにも順次展開すると発表した。なお、8月5日までCoworkの使用制限を2倍に延長するため、より大きな作業を依頼できる。\n\nClaude Coworkのタブが消えた？Chatに統合され、Webやモバイルでも利用可能に\n\nAnthropicは7月7日(米国時間)、「Claude Cowork」を「Chat」と同じ1つのホーム画面に統合したことを発表。合わせて、CoworkをWebおよびモバイルアプリからでも利用可能とし、そのベータ版をMaxプランから開始し、今後数週間にわたってほかのプランにも順次展開すると発表した。なお、8月5日までCoworkの使用制限を2倍に延長するため、より大きな作業を依頼できる。\n\nCoworkのWebおよびモバイルアプリへの統合により、PCでClaudeにタスクを渡した後、PCの電源をオフにしてもクラウド上で作業が継続される。完了した作業の通知はスマートフォンから受け取ることが可能だ。たとえば朝6時に仕事の事前準備をするよう頼むと、スレッドや議事録を処理してまとめ資料を自動で作成し、顧客へ送るためのメールの下書きを準備してくれる、といった具合だ。\n\nClaude Cowork is coming to mobile and web. Hand Claude a task at your desk and pick up the finished work from your phone. Close the laptop and Claude keeps going. Beta is rolling out over the next several weeks starting wi…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2123/377/1.jpg"
-    },
-    {
-      "Title": "【本日みつけたお買い得品】エルゴトロンのモニターアームが2,730円引きでセール中！",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2123385.html",
-      "Published": "2026-07-08T03:13:17Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "【本日みつけたお買い得品】エルゴトロンのモニターアームが2,730円引きでセール中！\n\nAmazonは7月7日から7月10日にかけて、プライムデー先行セールを開催中だ。セールではエルゴトロンの「LX デスクマウントアーム(ホワイト)」が7月6日の価格から2,730円引きの1万5,470円で販売されている。7月7日以降は価格が乱高下しており、2万円以上になっている時間帯もあるようだ。\n\nAmazonは7月7日から7月10日にかけて、プライムデー先行セールを開催中だ。セールではエルゴトロンの「LX デスクマウントアーム(ホワイト)」が7月6日の価格から2,730円引きの1万5,470円で販売されている。7月7日以降は価格が乱高下しており、2万円以上になっている時間帯もあるようだ。\n\nLX デスクマウントアーム(ホワイト)は最大34型、重量11.3kgまでのモニターが取り付けられるモニターアーム。同社独自の「コンスタント・フォース」技術により、一般的なガススプリング式と比較して経年劣化がないとしている。保証期間は10年で、本体カラーはホワイト。\n\nデスクへの取り付けは最大60mmまでの厚みのデスクに対応可能なクランプ式で、最大57mmまでの厚みに対応可能なグロメット式についても別売の「グロメットマウント」を購入することで利用できる。\n\nPixioのモニターアーム「PS1S Wave White シングル」が直近価格より1,380円安い7,600円で購入できる。\n\nPS1S Wave White シングルは、最大32型、重量9kgまでのモニターが取り付けられるモニターアーム。アーム下部にはケーブルガイドを備え、モニターのケーブルが収納できる。ガススプリング式を採用し、上下左右角度、昇降まで無段階で調節が可能だ。デスクへの固定方法はクランプとグロメットの2種類が利用できる。本体カラーはホワイト。\n\nゲーミングデバイスなどを手掛けるGRAPHTのゲーミングモニターアーム「GRAPHT Aero M9C」が、直近価格より1,510円引きとなる8,470円で販売中だ。\n\nGRAPHT …",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2123/385/04.jpg"
-    },
-    {
-      "Title": "【#eイヤ大阪日本橋本店】2026年7月18日(土) インプレッション採取会を開催します！",
-      "Link": "https://e-earphone.blog/?p=1549785",
-      "Published": "2026-07-08T03:13:05Z",
-      "Source": "e☆イヤホン",
-      "Category": "",
-      "Summary": "【#eイヤ大阪日本橋本店】2026年7月18日(土) インプレッション採取会を開催します！\n\n#eイヤ大阪日本橋本店 で耳型を取ろう！\r\r\r\r\r\r \r \r\rFollow @eear_kanchan\rども！e☆イヤホン大阪日本橋本店のかんちゃんです。\r\r\r \r \r\u0026\n\n今年の夏はオーダーメイドイヤホンを作りませんか👂✨ 大阪日本橋本店では7月にインプレッション採取会を開催します！\n\n【開催日時】 2026年6月13 日( 土 ) 11:00～13:00 14:00～18:00 ※最終受付は終了の 20分前 とさせていただきます。\n\n※ qdc のカスタムIEM製品を製作される場合は\\6,000-(税込み)\n\nqdcのカスタムIEM製品 を製作される場合は、 耳型採取時に バイトブロック を使用するため、 インプレッションの採取料金\\5,500- に加え、バイトブロック使用料金として\\500-が必要となります。\n\nqdc製品を製作予定のお客様につきましては予めご了承くださいませ。\n\n【予約方法】 店頭・WEB・お電話 にてご予約を承っております。\n\n大阪日本橋本店電話番号: 0570-07-1118（ナビダイヤル）\n\nインプレッションの採取は1枠20分です。 予約時に空いている枠からお好きな時間をお選びいただけます。\n\n↓ こちらからご希望の時間を選択いただき、お支払いをお願いします ↓\n\ne☆イヤホン ＜大阪日本橋本店＞インプレッション採取会 【7/18(土)】 事前予約 – e☆イヤホン\n\n・予約枠は 先着順 となります。 ご予約をいただいていない場合は、予約状況によってはご来店後すぐに採取のご案内ができない場合がございますので、予めご了承くださいませ。 ・Just earは受付不可\n\nQ1: 耳型採取は痛くないですか？ A1: 痛みはありません。安心してご参加ください。\n\n※耳型採取が行えない場合があります。受付注意事項をご確認ください。\n\nQ2: 予約なしでも可能ですか？ A2: 事前予約が必要です。お早めにお申し込みください。\n\n※当日の枠に空きがある場合は受付可…",
-      "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/07/664364258eb5a67bec5bd587ccdad810.webp"
-    },
-    {
-      "Title": "モジュラー設計を採用した4面メッシュのPCケース「MONTECH TEN」が入荷、カラーは2色",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2123237.html",
-      "Published": "2026-07-08T03:05:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "モジュラー設計を採用した4面メッシュのPCケース「MONTECH TEN」が入荷、カラーは2色\n\n4面メッシュパネルを採用したmicroATXケース「MONTECH TEN」がドスパラ秋葉原本店に入荷。本体カラーはブラックとホワイトが用意されている。\n\nモジュラー設計を採用した4面メッシュのPCケース「MONTECH TEN」が入荷、カラーは2色\n\n4面メッシュパネルを採用したmicroATXケース「MONTECH TEN」が ドスパラ秋葉原本店 に入荷。本体カラーはブラックとホワイトが用意されている。\n\n価格は9,980円。同店ではブラックモデルの実機サンプルが用意されている。\n\nこれは、本体サイズが456×327.65×196.5mmのPCケース。フロント・サイド・トップにメッシュパネルを採用しており、通気性に優れている。\n\n用途によって内部レイアウトを組み替えられるモジュラー設計を採用しており、エアフロー重視のM1モード、水冷向けM2モード、主要パーツの互換性を重視したI3モードの3パターンで組み替えが可能となっている。\n\nM1モード時の搭載可能なPCパーツのサイズは、マザーボードがmicroATX、Mini-ITX。ドライブが3.5インチHDD×2、2.5インチSSD×4。ラジエーターはサイドとボトムに120/140/240/280/360mm。CPUクーラーが高さ156mm。ビデオカードが水平設置時が最大420mm、垂直設置時が最大410mm。電源ユニットがATX、SFX-L、SFX。\n\nM2モード時の搭載可能なPCパーツのサイズは、マザーボードがmicroATX、Mini-ITX。ドライブが3.5インチHDD×2、2.5インチSSD×4。ラジエーターはトップとサイドに120/140/240/280/360mm。CPUクーラーが高さ156mm。ビデオカードが水平・垂直設置時共に最大410mm。電源ユニットがATX、SFX-L、SFX。\n\nI3モード時の搭載可能なPCパーツのサイズは、マザーボードがMini-ITX。ドライブが2.5インチSSD×3。ラジエーター…",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2123/237/a1.jpg"
-    },
-    {
-      "Title": "【本日みつけたお買い得品】ソニーのハイエンドワイヤレスイヤフォンが8,500円引きでセール中",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2123366.html",
-      "Published": "2026-07-08T02:58:52Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "【本日みつけたお買い得品】ソニーのハイエンドワイヤレスイヤフォンが8,500円引きでセール中\n\nAmazonでは7月7日から7月10日までプライムデー先行セールを開催している。セールにおいて、ソニーのワイヤレスイヤフォン「WF-1000XM5」が、直近価格から8,500円引きとなる2万4,000円で販売されている。\n\nソニーのハイエンドワイヤレスイヤフォンが8,500円引きでセール中\n\nAmazonでは7月7日から7月10日までプライムデー先行セールを開催している。セールにおいて、ソニーのワイヤレスイヤフォン「WF-1000XM5」が、直近価格から8,500円引きとなる2万4,000円で販売されている。\n\nWF-1000XM5は、ソニー製ワイヤレスイヤフォンのハイエンドモデル。アクティブノイズリダクション機能は、統合プロセッサ「V2」と高音質のノイズキャンセリングプロセッサ「QN2e」の搭載により、ハイレベルな処理を実現したという。PCやスマートフォンなどとはBluetooth接続で利用する。\n\n独自開発の8.4mm径ドライバユニット「ダイナミックドライバーX」を搭載。重量は5.9gで、バッテリ駆動時間はノイズキャンセリングOFF時で最大12時間、ON時は最大8時間となる。\n\nNothing Japanのワイヤレスイヤフォン「CMF by Nothing Buds Pro 2」が、直近価格から2,320円引きの7,480円で販売されている。\n\nCMF by Nothing Buds Pro 2は、スマートフォンなどを手掛けるNothingのサブブランド、CMF by Nothingによるワイヤレスイヤフォン。ケースには回転式ダイヤルを搭載し、音量調整や音楽の再生や停止、ノイズキャンセリング機能の切り替えなどの操作が行なえる。\n\n11mm径のチタンコーティングドライバユニットと6mm径のツイータによるデュアルドライバを搭載する。アクティブノイズキャンセリング機能は最大騒音レベル50dB、5,000Hzの超広帯域に対応する。重量は4.9gで、イヤフォン単体のバッテリ駆動時間…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2123/366/03.jpg"
-    },
-    {
-      "Title": "MAXBYのPCIe 4.0 SSD「MAX7200」512GBが店頭入荷、価格は14,800円",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2123086.html",
-      "Published": "2026-07-08T00:05:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "MAXBYのPCIe 4.0 SSD「MAX7200」512GBが店頭入荷、価格は14,800円\n\nMAXBYのPCIe 4.0 SSD「MAX7200」の512GBモデル（型番:MAX7200-512GB）が、浜田電機に入荷。価格は14,800円。\n\nMAXBYのPCIe 4.0 SSD「MAX7200」512GBが店頭入荷、価格は14,800円\n\nMAXBYのPCIe 4.0 SSD「MAX7200」の512GBモデル（型番:MAX7200-512GB）が、 浜田電機 に入荷。価格は14,800円。\n\n同店によると、3D TLC NANDフラッシュ採用で、PlayStation 5シリーズで動作確認済みというM.2 2280 SSD。最大リード速度は6,800MB/s、同ライトは4,600MB/s。保証期間は5年。\n\nPCIe 4.0 SSD関連製品 Amazonで購入 楽天で購入",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2123/086/a1.jpg"
-    },
-    {
-      "Title": "【Amazonプライムデー】GoPro HERO12 Blackが51％オフ、5.3K対応アクションカメラがお買い得価格に",
-      "Link": "https://www.gdm.or.jp/pressrelease/2026/0708/642634",
-      "Published": "2026-07-07T23:33:45Z",
-      "Source": "エルミタージュ秋葉原",
-      "Category": "",
-      "Summary": "【Amazonプライムデー】GoPro HERO12 Blackが51％オフ、5.3K対応アクションカメラがお買い得価格に\n\nAmazonプライムデーでGoPro HERO12 Blackが51％オフ。5.3K動画やHyperSmooth 6.0対応のアクションカメラが認定SDカード付きセットで税込29,800円のお買い得価格となっている。\n\n【Amazonプライムデー】GoPro HERO12 Blackが51％オフ、5.3K対応アクションカメラがお買い得価格に\n\nただいま開催中の「Amazonプライムデー先行セール」では、 「GoPro HERO12 Black」 がお買い得価格で販売中。通常価格税込60,800円のところ、税込29,800円（51％オフ）で購入できる。\n\nGoPro HERO12 Blackは、5.3K/60fpsや4K/120fpsの高画質動画撮影に対応したアクションカメラ。強力な電子式手ブレ補正「HyperSmooth 6.0」により、ランニングやサイクリング、旅行、アウトドアなど動きの多いシーンでも滑らかな映像を撮影できる。\n\nHDR動画や10bitカラーにも対応し、美しい風景や夕景も豊かな階調で記録可能。また、防水性能やコンパクトなボディを備え、普段使いからレジャーまで幅広いシーンで活躍する。GoProを初めて使う人はもちろん、旧モデルからの買い替えを検討している人にも見逃せないセールだろう。\n\n【Amazonプライムデー】ロジクールの定番ワイヤレストラックボールが33%オフ\n\n【Amazonプライムデー】MINISFORUMのミニPCが最大25％オフ。RT…\n\n【Amazonプライムデー】GRAPHT、280Hz対応のQD-OLED採用ディ…\n\n【Amazonプライムデー】玄人志向「Radeon RX 9060 XT 16G…\n\n【Amazonプライムデー】Western Digital「WD Blue 8T…\n\n【Amazonプライムデー】SteelSeriesのゲーミングキーボードやヘッド…\n\n2026年7月8日 (次に来るモノ) 9…",
-      "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/07/08/GoPro_HERO12_001.jpg"
-    },
-    {
-      "Title": "Seagate「BarraCuda」の8TB HDDが25,980円で特売、一方で特価終了や品薄による上昇も[7月前半のHDD価格]",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/price/monthly_repo/2123265.html",
-      "Published": "2026-07-07T23:05:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "Seagate「BarraCuda」の8TB HDDが25,980円で特売、一方で特価終了や品薄による上昇も[7月前半のHDD価格]\n\nサハロフ佐藤(佐藤 純一)とAKIBA PC Hotline!編集部が、秋葉原各ショップのHDD、SSD、メモリ、CPUの店頭価格を独自に調査し、価格動向をお伝えするコーナーです。PCパーツ購入時などに参考としてご活用下さい。\n\nSeagate「BarraCuda」の8TB HDDが25,980円で特売、一方で特価終了や品薄による上昇も[7月前半のHDD価格]\n\nサハロフ佐藤(佐藤 純一)とAKIBA PC Hotline!編集部が、秋葉原各ショップのHDD、SSD、メモリ、CPUの店頭価格を独自に調査し、価格動向をお伝えするコーナーです。PCパーツ購入時などに参考としてご活用下さい。\n\nなお、掲載価格は調査時のものであり、この価格で販売されることを保証するものではありませんので、その点はご了承ください。\n\nSeagate「BarraCuda」8TBが25,980円で特売、一方で特価の終了や品薄による上昇が目立つ\n\nデスクトップ向けは、6月27日の調査でSeagate「BarraCuda」ST8000DM004(8TB)が8,000円安の25,980円(1GB単価3.25円)、ST6000DM003(6TB)が9,000円安の20,980円(3.50円)で特売。ST4000DM004(4TB)も3,820円安の19,980円に下落した。\n\nなお、7月4日時点ではSeagate「BarraCuda」の特価が終了。ST4000DM004(4TB)は引き続き19,980円だったが、ST8000DM004(8TB)は33,980円、ST6000DM003(6TB)は29,980円と前回と同じ価格に戻った。また、ST24000DM001(24TB)は14,820円高の91,800円に上昇した。\n\nWestern Digital「WD Blue」は、WD100EAGZ(10TB)が3,000円高の62,980円、WD60EZAX(6TB)が特価の終…",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2123/265/2026-0627-132105.jpg"
     }
   ],
   "world": [
+    {
+      "Title": "Noctua NH-D15 G2 chromax.black CPU タワークーラー レビュー – 黒の王の帰還",
+      "Link": "https://www.igorslab.de/en/noctua-nh-d15-g2-chromax-black-review-return-of-the-king-in-black/",
+      "Published": "2026-07-22T03:30:43Z",
+      "Source": "igor'sLAB",
+      "Category": "tsb-zn",
+      "Summary": "Noctua NH-D15 G2 chromax.black CPU タワークーラー レビュー – 黒の王の帰還\n\nテストでは、Noctua NH-D15 G2 chromax.black は非常に安定した冷却性能、強力な効率、そして最大速度での追加ゲインがわずかであることが印象的でした。\n\nNoctua NH-D15 G2 chromax.black のテストでは、よく知られた NH-D15 プラットフォームをブラック仕上げで継承し、一貫して洗練されたデュアルタワー空冷クーラーが示されており、テストベンチでは、中程度の騒音レベルですでにほぼ最大のパフォーマンスに達しています。測定により、非常に安定した冷却性能、最大ファン速度による追加効果がわずかであること、思慮深い取り付けとそのサイズクラス内での優れた互換性を備えた高品質の構造が確認されました。\n\nテストは、ケースの影響を受けずに、オープン テストベンチで AMD Ryzen 9 7900X で実行されました。プラットフォームには、ASUS ROG CROSSHAIR X670E HERO、16 GB Kingston Fury Beast DDR5-6000 CL36-38-38、ゼロファン モードの Sapphire Radeon RX 7600 Pulse 8GB、および FSP Hydro Ti PRO 1000 Watt が使用されました。システムは Windows 11 Pro、ビルド 26100.4061 で実行されました。温度の取得は、HWInfo64 v8.04-5470 を使用して 5000 ミリ秒間隔で実行されました。温度は周囲温度に対するデルタとして記載されています。音圧レベルは、Voltcraft SL-10 を使用して 40 cm の距離で、125 ms サイクルの Lo モードで測定されました。すべてのクーラーには、再現可能な同じサーマル ペーストが使用されました。\n\nNH-D15 G2 chromax.black は、空冷のプレミアム セグメントに明確に位置付けられており、ノイズ レベ…",
+      "ImageURL": "https://www.igorslab.de/wp-content/uploads/2026/12/15-3.jpg"
+    },
+    {
+      "Title": "Old School RuneScape players just reminded everyone why MMO games are unmatched",
+      "Link": "https://www.tweaktown.com/news/112752/old-school-runescape-players-just-reminded-everyone-why-mmo-games-are-unmatched/index.html",
+      "Published": "2026-07-22T03:27:10Z",
+      "Source": "TweakTown",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "NVIDIA、Jetson モジュールと開発キットの価格を最大 101% 値上げ",
+      "Link": "https://www.cnx-software.com/2026/07/22/nvidia-increases-the-price-of-jetson-modules-and-devkits-by-up-to-101/",
+      "Published": "2026-07-22T03:07:20Z",
+      "Source": "CNX Software",
+      "Category": "som",
+      "Summary": "NVIDIA、Jetson モジュールと開発キットの価格を最大 101% 値上げ\n\n数か月前、NVIDIA は LPDDR4 の価格が高騰したため、いくつかの Jetson モジュールを段階的に廃止しましたが、現在、同社はすべての Jetson モジュールの価格を値上げすることを決定しました。\n\n数か月前、NVIDIA は LPDDR4 価格の高騰を理由にいくつかの Jetson モジュールを段階的に廃止しましたが、現在同社はすべての Jetson モジュールと開発者キットの価格を最大 101% 値上げすることを決定しました。\n\n価格については具体的な発表はありませんでしたが、最新の価格は NVIDIA 開発者 Web サイトの FAQ で確認できます。これは最初に VideoCardz の読者によって発見され、以下の表に新旧の価格、および増加率が示されています。\n\n製品 以前の価格 新価格 値上げ Jetson AGX Thor 開発者キット $3,499 $5,499 57% Jetson T5000 モジュール、1KU+ $2,999 $4,999 67% Jetson T4000 モジュール、1KU+ $1,999 $2,999 50% Jetson AGX Orin 開発者キット $1,999 $3,499 75% Jetson AGX Orin 64GB モジュール、1KU+ $1,599 $2,999 88% Jetson AGX Orin Industrial、1KU+ $2,149 $3,199 49% Jetson AGX Orin 32GB モジュール、1KU+ $899 $1,799 100% Jetson Orin NX 16GB モジュール、1KU+ $599 $999 67% Jetson Orin NX 8GB モジュール、1KU+ $399 $649 63% Jetson Orin Nano スーパー開発者キット $249 $399 60% Jetson Orin Nano 8GB モジュール、1KU+ $299 $399 33% Je…",
+      "ImageURL": "https://www.cnx-software.com/wp-content/uploads/2026/07/NVIDIA-Jetson-price-increase.jpg"
+    },
+    {
+      "Title": "プロンプトを忘れる: クロードは画面を見ながらワークフローを学習できるようになりました",
+      "Link": "https://www.androidauthority.com/claude-cowork-record-skills-feature-3689919/",
+      "Published": "2026-07-22T02:58:21Z",
+      "Source": "Android Authority",
+      "Category": "Claude",
+      "Summary": "プロンプトを忘れる: クロードは画面を見ながらワークフローを学習できるようになりました\n\nClaude の新しいスキルの記録機能を使用すると、ワークフローを一度記録できるため、Cowork はいつでも必要なときにそれを繰り返すことができます。仕組みは次のとおりです。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nプロンプトを忘れる: クロードは画面を見ながらワークフローを学習できるようになりました\n\n0 • Megan Ellis / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Anthropic の新しい「クロードにスキルを教える」機能を使用すると、画面を録画してタスクのナレーションを行うことができ、クロードが後でそのワークフローを学習して再利用できるようになります。\n\nこの更新プログラムは、繰り返しのプロンプトを減らすように設計されており、クロードはレポート、スプレッドシート、ファイル整理などの繰り返しのタスクをより適切に処理できるようになります。\n\nこの機能は現在、Claude デスクトップ アプリの Cowork インターフェイスを通じて、Claude Pro、Max、および Team のサブスクライバーに展開されています。\n\nAI に自分の好みのやり方を教えるのは、思っているほど簡単ではありません。同じタスクを何度も説明したり、詳細なプロンプトを保存したり、指示が満載の文書をアップロードしたりすることはできますが、次回質問したときに AI が手順を見逃したり、別のことを実行したりする可能性は依然として十分にあります。これは、ワークフローを忘れがちな新しい同僚をトレーニングするのと少し似ています。\n\nAnthropic が、Teach Claude a skill と呼ばれる新しい Claude Cowork 機能を使用して解決しようとしている問題は、まさにこの問題です。長い指示を入力する代わ…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/05/the-claude-app-on-a-smartphone-scaled.jpg"
+    },
+    {
+      "Title": "サムスンは、Unpacked がこの大きな Galaxy Watch アップグレードをリリースするのを待ちきれませんでした",
+      "Link": "https://www.androidauthority.com/samsung-galaxy-wearable-app-redesign-3689931/",
+      "Published": "2026-07-22T02:53:21Z",
+      "Source": "Android Authority",
+      "Category": "Wearables",
+      "Summary": "サムスンは、Unpacked がこの大きな Galaxy Watch アップグレードをリリースするのを待ちきれませんでした\n\nサムスンは、Galaxy Unpackedと新しいスマートウォッチの発売のわずか数時間前に、再設計されたGalaxy Wearableアプリの展開を開始した。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nサムスンは、Unpacked がこの大きな Galaxy Watch アップグレードをリリースするのを待ちきれませんでした\n\n0 • Ryan Haines / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR サムスンは、Galaxy Unpacked の数時間前に、再設計された Galaxy ウェアラブル アプリの展開を開始しました。\n\nこのアップデートでは、よりクリーンなインターフェイス、刷新されたホーム画面、改善されたナビゲーション、および再設計されたウォッチフェイスブラウザが導入されています。\n\nSamsung は、今後の One UI 9 Watch の変更点の 1 つをユーザーに提供することに時間を無駄にしませんでした。 Galaxy Unpacked が開始されるわずか数時間前に、同社は Galaxy Wearable アプリの再設計バージョンの展開を開始し、Galaxy Watch の所有者に Galaxy Watch 9 と Galaxy Watch Ultra 2 の機能をいち早く体験できるようにしました。\n\nこのアップデートは、今月初めに流出したスクリーンショットで発見されていましたが、現在はユーザーに届き始めています。\n\n更新されたアプリでは、Samsung の新しい One UI デザイン言語を使用したクリーンなインターフェイスが導入され、古いオールブラックの外観が微妙なグラデーション、フローティング カード、より整理されたレイアウトに置き換えられていま…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2025/07/Samsung-Galaxy-Watch-7-wearables-app.jpg"
+    },
+    {
+      "Title": "Sales data indicates bleak future for physical games in US",
+      "Link": "https://www.tweaktown.com/news/112736/sales-data-indicates-bleak-future-for-physical-games-in-us/index.html",
+      "Published": "2026-07-22T02:09:07Z",
+      "Source": "TweakTown",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "オープンソースのバキュームによりクラウドを回避",
+      "Link": "https://hackaday.com/2026/07/21/open-source-vacuum-avoids-cloud/",
+      "Published": "2026-07-22T02:00:40Z",
+      "Source": "Hackaday",
+      "Category": "vacuum",
+      "Summary": "オープンソースのバキュームによりクラウドを回避\n\n代償として支払ったテクノロジーの多くがサブスクリプション化されるにつれ、オープンソースの世界では、これらの侵入的なソフトウェアの代替を構築するという勢いがゆっくりと変化してきました。\n\n私たちがターン制で支払ったテクノロジーの多くがサブスクリプション化されるにつれ、こうした押しつけがましい家賃を求める人々に代わって建物を建てるオープンソースの世界では、徐々に勢いが変化してきました。これは自己ホスト型のメディアや通信サーバーで常に見られますが、現在はハードウェアでも同様に見られ始めています。 OOMWOO ロボット掃除機は、ハードウェアからソフトウェアに至るまで完全にオープンソースであり、クラウド サービスを一切必要としません。\n\nオープンソースではありますが、すべてのコンポーネントが既製のものを購入できるわけではありません。ほとんどの部品には 3D プリンターが必要ですが、その要件が満たされていれば、残りのビルドのほとんどは簡単に組み立てられます。コンピューティングに関しては、ROS 2 ソフトウェアを実行する Raspberry Pi に依存しており、ホーム アシスタントなどの他の既存のオープン ツールやプロジェクトと簡単に統合できるようにセットアップされています。独自のプラットフォームと同様に、設置されている部屋を感知してマッピングすることができますが、このプラットフォームはコストを抑えるために安価な 2D LIDAR システムを使用しています。\n\n現時点ではプロジェクトは完全に完了していないため、チームの構築が進むにつれて、私たち全員がこのプロジェクトに注目する必要があります。しかし、ソフトウェア開発の大部分は完了しており、部品表の作成が進行中です。オープン プロジェクトとして、多くのボランティアによって開発されており、貢献できる領域も数多くあります。現在、そのすべてがプロジェクトの GitHub ページに設定されています。現在、これらの取り組み分野の多くは、3D プリンタ ファイルを既製の部品に適応させています。…",
+      "ImageURL": "https://hackaday.com/wp-content/uploads/2026/07/omwoo-main.jpg"
+    },
+    {
+      "Title": "Game Pass starter edition now bundled with Meta Horizon+, Xbox gamepad emulation coming to Meta Quest Touch controllers",
+      "Link": "https://www.tweaktown.com/news/112743/game-pass-starter-edition-now-bundled-with-meta-horizon-plus-xbox-gamepad-emulation-coming-to-meta-quest-touch-controllers/index.html",
+      "Published": "2026-07-22T01:08:04Z",
+      "Source": "TweakTown",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "Valveの値上げによりSteam Deckの売上の82%が消滅、「ほぼ完全崩壊」に陥ると報じられている",
+      "Link": "https://www.xda-developers.com/valves-price-hike-reportedly-wiped-out-80-of-steam-deck-sales/",
+      "Published": "2026-07-22T01:02:09Z",
+      "Source": "XDA",
+      "Category": "Steam Deck",
+      "Summary": "Valveの値上げによりSteam Deckの売上の82%が消滅、「ほぼ完全崩壊」に陥ると報じられている\n\nハンドヘルド機にとってはあまり良くありません。\n\nValveの値上げによりSteam Deckの売上の82%が消滅、「ほぼ完全崩壊」に陥ると報じられている\n\nSimon Batt 公開 2026 年 7 月 21 日、午後 9 時 02 分 EDT Simon はコンピューター サイエンスの学士号を取得しており、2014 年からテクノロジーについて執筆しており、3.1 から Windows マシンを使用しています。インディーズ ゲーム スタジオで働き、コンピューターの問題全般に対応する家族の頼りになる技術者として活動した後、彼は文章を書くことへの情熱に気づき、自分のスキルセットをテクノロジー全般について書くことに決めました。執筆活動を始めて以来、 WorldStart 、 Listverse 、 MakeTechEasier などのさまざまな出版物に執筆してきました。しかし、2019 年 2 月に MakeUseOf に居場所を見つけた後、最終的にはその姉妹サイトである XDA に移り、最新かつ最高の Windows、Linux、DIY 電子機器を提供することになりました。 XDA アカウントにサインインする\n\nSteam Deck の売上は値上げ後に最大 82% 減少し、週間販売数が最大 18,000 から最大 3,000 に減少したと報告されています。\n\n週間総収益は最大 72% 減少し、引き上げ前の 600 万～1,000 万ドルに対し、現在は 120 万～250 万ドル程度にとどまっています。\n\n「トップセラー」ランクは4位から5位から10位から15位に下がり、消費者の態度に大きな変化が生じていることを示しています。\n\nハードウェア危機が深刻化し始めると、ゲーム機メーカーは価格を引き上げざるを得なくなり、Steam Deckも例外ではありませんでした。エントリーレベルのモデルが 549 ドルから 789 ドルに値上がりしたため、潜在的な購入者が値切れしてい…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/steam-deck-emulator-in-use.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "Xbox Game Pass was a good idea, but not enough people subscribed, says former Forza Horizon 5 director",
+      "Link": "https://www.tweaktown.com/news/112747/xbox-game-pass-was-a-good-idea-but-not-enough-people-subscribed-says-former-forza-horizon-5-director/index.html",
+      "Published": "2026-07-22T00:10:07Z",
+      "Source": "TweakTown",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
+    },
     {
       "Title": "CachyOS はすべてのパッケージを「間違った」方法で再構築し、Steam ライブラリはそのために高速に実行されます",
       "Link": "https://www.xda-developers.com/every-linux-gaming-distro-joined-collective-except-cachyos-its-beating-all-of-them/",
@@ -5115,6 +5205,15 @@
       "ImageURL": "https://www.servethehome.com/wp-content/uploads/2026/07/NVIDIA-Vera-CPU.jpg"
     },
     {
+      "Title": "Nvidia が推論用の R​​ubin アーキテクチャの最適化について詳しく説明 – 改善は GPU からラックまでのパフォーマンスと効率の向上を目指しています",
+      "Link": "https://www.tomshardware.com/pc-components/gpus/nvidia-details-rubin-architectural-optimizations-for-inference-improvements-target-better-performance-and-efficiency-from-the-gpu-to-the-rack",
+      "Published": "2026-07-21T15:00:00Z",
+      "Source": "Tom's Hardware",
+      "Category": "PC Components",
+      "Summary": "Nvidia が推論用の Rubin アーキテクチャの最適化について詳しく説明 – 改善は GPU からラックまでのパフォーマンスと効率の向上を目指しています\n\nフロップスは始まりにすぎません\n\nNvidia が推論用の Rubin アーキテクチャの最適化について詳しく説明 – 改善は GPU からラックまでのパフォーマンスと効率の向上を目指しています\n\n(画像クレジット: Future) リンクをコピー\n\n0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 今年後半に登場予定の Nvidia の次期 Vera Rubin プラットフォームは、AI の世界がフロンティア トレーニングの実行ではなく、大規模なエージェント AI 推論の要求によって支配される時代に移行する中で舞台に立つことになります。エージェントのワークフローで生成されたトークンに対する渇望と、それらを迅速、効率的、低単価で配信するという要求が、現在議論の中心となっています。\n\nVera CPU に関する新しいパフォーマンス データと、それがエージェント AI ワークロードの高速化にどのように役立つかについてはすでに詳しく説明しましたが、Nvidia が今日共有するのはそれだけではありません。また、Rubin アーキテクチャのいくつかの新機能と、それらの機能が GPU レベルからラックスケールおよびデータセンタースケールのこのアクセラレータ プラットフォームの実装まで推論効率を向上させることを目的としているかについても詳しく説明します。\n\nVera Rubin NVL72 ラックスケール システム全体は、36 個の Vera CPU と 72 個の Rubin GPU で構築されていますが、今日の焦点は GPU そのものです。 Rubin は、Nvidia 高帯域幅インターフェイスを使用して、2 つのコンピューティング ダイを 1 つのパッケージに結合します。結果として得られるチップは、合計 896 個の Tensor コアを含む 224 個の…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/T4kXDWEu4dHUaorbH82C2Z-1431-80.jpg"
+    },
+    {
       "Title": "Nvidia が AI データセンター向け Vera CPU を詳しく調査 — SPEC CPU 2026 ベンチマークの公開、オリンパスのアーキテクチャ詳細など",
       "Link": "https://www.tomshardware.com/pc-components/cpus/nvidia-spills-the-beans-on-vera-cpu-spec-benchmarks-revealed-olympus-architecture-detailed-and-more",
       "Published": "2026-07-21T15:00:00Z",
@@ -5131,15 +5230,6 @@
       "Category": "PC Components",
       "Summary": "Nvidia、「数十万台の Grace スタンドアロン サーバー」を出荷 — CPU がエージェント データ センターの中心となる中、GPU 企業はメッセージングを軸に\n\nNvidia は、CPU 会社でもあることを知っていただきたいと思っています。\n\nNvidia、「数十万台の Grace スタンドアロン サーバー」を出荷 — CPU がエージェント データ センターの中心となる中、GPU 企業はメッセージングを軸に\n\nNvidia は、CPU 会社でもあることを知っていただきたいと思っています。\n\n(画像クレジット: Tom's Hardware) リンクをコピー\n\n0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する ハイパースケールおよびハイパフォーマンス コンピューティング担当バイスプレジデントであり、CUDA の発明者でもある Nvidia のイアン バック氏は、同社は「出荷した...何十万台もの Grace スタンドアロン サーバーに入れましょう」と述べています。 Nvidia は 5 月に、合計 250 万個以上の Grace CPU を出荷したことを明らかにし、2 月にはスタンドアロンの Grace サーバーを展開するために Meta と提携すると発表しました。ただし、バック氏のコメントは、Nvidia が他のプレーヤーが支配する市場で競争しようとしているため、導入の規模はさらに大きくなる可能性があることを示唆しています。\n\nRyzen がトップへ: AMD がゲーム CPU 市場でどのように革新したか\n\nARM はどのように PC に導入されているのか\n\nAMD CES 2026 ゲーム トレンドのプレス Q\u0026A ラウンドテーブルの記録\n\n興味深いコメントではありますが、驚くべきことではありません。 Nvidia は、AI 推論のための前例のないデータセンターの構築中に GPU の需要が急増し、シリコンバレーの支配力になりました。しかし、今年初めのピーク以来、投資家がインテルなどの CPU…",
       "ImageURL": "https://cdn.mos.cms.futurecdn.net/64zg6rxBUaGx8y7ooex4WA-2560-80.jpg"
-    },
-    {
-      "Title": "Nvidia が推論用の R​​ubin アーキテクチャの最適化について詳しく説明 – 改善は GPU からラックまでのパフォーマンスと効率の向上を目指しています",
-      "Link": "https://www.tomshardware.com/pc-components/gpus/nvidia-details-rubin-architectural-optimizations-for-inference-improvements-target-better-performance-and-efficiency-from-the-gpu-to-the-rack",
-      "Published": "2026-07-21T15:00:00Z",
-      "Source": "Tom's Hardware",
-      "Category": "PC Components",
-      "Summary": "Nvidia が推論用の Rubin アーキテクチャの最適化について詳しく説明 – 改善は GPU からラックまでのパフォーマンスと効率の向上を目指しています\n\nフロップスは始まりにすぎません\n\nNvidia が推論用の Rubin アーキテクチャの最適化について詳しく説明 – 改善は GPU からラックまでのパフォーマンスと効率の向上を目指しています\n\n(画像クレジット: Future) リンクをコピー\n\n0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 今年後半に登場予定の Nvidia の次期 Vera Rubin プラットフォームは、AI の世界がフロンティア トレーニングの実行ではなく、大規模なエージェント AI 推論の要求によって支配される時代に移行する中で舞台に立つことになります。エージェントのワークフローで生成されたトークンに対する渇望と、それらを迅速、効率的、低単価で配信するという要求が、現在議論の中心となっています。\n\nVera CPU に関する新しいパフォーマンス データと、それがエージェント AI ワークロードの高速化にどのように役立つかについてはすでに詳しく説明しましたが、Nvidia が今日共有するのはそれだけではありません。また、Rubin アーキテクチャのいくつかの新機能と、それらの機能が GPU レベルからラックスケールおよびデータセンタースケールのこのアクセラレータ プラットフォームの実装まで推論効率を向上させることを目的としているかについても詳しく説明します。\n\nVera Rubin NVL72 ラックスケール システム全体は、36 個の Vera CPU と 72 個の Rubin GPU で構築されていますが、今日の焦点は GPU そのものです。 Rubin は、Nvidia 高帯域幅インターフェイスを使用して、2 つのコンピューティング ダイを 1 つのパッケージに結合します。結果として得られるチップは、合計 896 個の Tensor コアを含む 224 個の…",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/T4kXDWEu4dHUaorbH82C2Z-1431-80.jpg"
     },
     {
       "Title": "Moonshot AI が米国のクローズドソース競合他社を価格で下回り、Kimi K3 が AI 業界を揺るがす - しかし、巨大な 2.8T オープンウェイト モデルを大規模に導入するには依然として本格的なハードウェアが必要",
@@ -5448,6 +5538,15 @@
       "ImageURL": "https://media.goodereader.com/blog/uploads/images/2026/07/21081155/my-video-game-history-books-looking-for-good-recommendations-v0-h2y5hvh7wbe91.webp"
     },
     {
+      "Title": "Call of Duty Modern Warfare 4 が Switch 2 に登場",
+      "Link": "https://www.kitguru.net/gaming/matthew-wilson/call-of-duty-modern-warfare-4-is-coming-to-switch-2/",
+      "Published": "2026-07-21T12:00:22Z",
+      "Source": "KitGuru",
+      "Category": "Switch 2",
+      "Summary": "Call of Duty Modern Warfare 4 が Switch 2 に登場\n\n公式によれば、『コール オブ デューティ モダン・ウォーフェア 4』は、Nintendo Switch 2 で発売されるシリーズ初のタイトルになります。今週の投稿で、Activision はゲームの Switch 2 バージョンのベータ計画を確認し、他のプラットフォームと同等であることを確認しました。多くの AAA ゲームが Switch に登場しましたが、\n\nCall of Duty Modern Warfare 4 が Switch 2 に登場\n\nMatthew Wilson 16 時間前 注目の技術ニュース , ソフトウェア \u0026 ゲーム\n\n公式によれば、『コール オブ デューティ モダン・ウォーフェア 4』は、Nintendo Switch 2 で発売されるシリーズ初のタイトルになります。今週の投稿で、Activision はゲームの Switch 2 バージョンのベータ計画を確認し、他のプラットフォームと同等であることを確認しました。過去 1 年間で多くの AAA ゲームが Switch 2 に登場しましたが、多くの場合、PS5 や Xbox Series X/S コンソールと比較してハードウェアが弱いため、スタジオはこれらのバージョンで追加の開発時間を必要とします。どうやら、モダン・ウォーフェア 4 には当てはまらないようです。モダン・ウォーフェア 4 の Nintendo Switch 2 バージョンは 8 月 26 日から予約注文できるようになりますが、2 日後の 8 月 28 日にオープン ベータ版が開催されるため、発売前にゲームを試すためにゲームを予約注文する必要はありません。 『コール オブ デューティ』は 10 年以上にわたって任天堂のプラットフォームを無視してきました。しかし、Microsoftが数年前にActivisionを買収したとき、PC、PS5、Xboxなどの他のプラットフォームと同等のコンテンツを備えて、シリーズを任天堂のコンソールに戻す計画を開…",
+      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/05/HD-wallpaper-cod-mw-2022-call-of-duty-modern-warfare-2022_waifu2x_art_noise1_scale-732x330.png"
+    },
+    {
       "Title": "週末をDNSに費やしたところ、自宅の研究室全体が修正されました",
       "Link": "https://www.xda-developers.com/weekend-dns-fixed-entire-home-lab/",
       "Published": "2026-07-21T12:00:10Z",
@@ -5461,6 +5560,15 @@
       "Link": "https://www.tweaktown.com/news/112734/nvidia-showcases-updated-dlss-5-with-developer-tools-that-help-preserve-artistic-intent/index.html",
       "Published": "2026-07-21T11:55:06Z",
       "Source": "TweakTown",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "Ruhrbot Labs' 2K-Buddy Takes the Guesswork Out of Two-Part Polymer Mixing, Dispensing",
+      "Link": "https://www.hackster.io/news/ruhrbot-labs-2k-buddy-takes-the-guesswork-out-of-two-part-polymer-mixing-dispensing-521b00713b11",
+      "Published": "2026-07-21T11:45:07Z",
+      "Source": "Hackster.io",
       "Category": "",
       "Summary": "",
       "ImageURL": ""
@@ -5500,6 +5608,15 @@
       "Category": "Windows 11",
       "Summary": "クロードに Windows インストールをクリーンアップしてもらったところ、存在すら知らなかった肥大化が見つかりました\n\n大きな起動ディスクを持つことは呪いでもあり、祝福でもあります\n\nクロードに Windows インストールをクリーンアップしてもらったところ、存在すら知らなかった肥大化が見つかりました\n\nBy Joe Rice-Jones 公開 2026 年 7 月 21 日、午前 7 時 30 分 EDT メイカー、ミーム、そして恥ずかしがり屋のオタクであるジョーは、2018 年に KnowTechie でキャリアをスタートして以来、テクノロジーについて執筆してきました。彼は Apple からアプリ、クラウドファンディングまであらゆるものをカバーしており、複雑なトピックの本質に迫るのが大好きです。その間、彼は、2023 年の春に XDA に本拠地を置くまで、SlashGear や多数の法人顧客向けにも記事を書いていました。彼は、たとえ後で完全に元に戻らなかったとしても、すべてのおもちゃを分解して、どのように機能するかを確認する子供でした。これにより、複雑なシステムがどのように連携して機能するかを説明するための確かな背景が得られ、それ以来、物事を元に戻す段階でうまくなったと彼は約束します。 XDA アカウントにサインインする 私のメイン Windows ボックスには 7 TB のブート ドライブがあり、5.3 TB の空き容量があるため、ディスク容量を気にする理由はありませんでした。それがまさに問題であることがわかります。ストレージに空きがあれば、ユーザーは探すのをやめます。Windows 11 は、ユーザーが注目していない隙間を喜んで埋めてくれます。ブロートウェアの多くは 1 つの PowerShell コマンドで削除できますが、それらのスクリプトは [設定] に表示されるアプリをクリーンアップします。それらはいずれにせよ、決して気にならなかったものです。\n\nそこで私はクロード コードをマシン全体に向けて、すべてを検索し、すべてを説明し、何も尋ねずに何も削除しないよ…",
       "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/windows-11-bloat-removal-claude-3.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "Pulsar の最新マウスには、ボンネットの下に Noctua ファンが搭載されています",
+      "Link": "https://www.kitguru.net/peripherals/mouse/joao-silva/pulsars-latest-mouse-has-a-noctua-fan-under-the-hood/",
+      "Published": "2026-07-21T11:30:01Z",
+      "Source": "KitGuru",
+      "Category": "Pulsar",
+      "Summary": "Pulsar の最新マウスには、ボンネットの下に Noctua ファンが搭載されています\n\nPulsar Gaming Gears は、Feinmann F01 Noctua Edition ゲーミング マウスを正式に発売しました。これは、Noctua の通常のブラウンとベージュの配色に倣ったスタイルの軽量 73g ゲーミング マウスと、手のひらにアクティブな冷却を提供する統合 40mm ファンを組み合わせたものです。穴あき外骨格を使用して構築されたファインマン F01 Noctua Edition には、統合された Noctua が内蔵されています。\n\nPulsar の最新マウスには、ボンネットの下に Noctua ファンが搭載されています\n\nPulsar Gaming Gears は、Feinmann F01 Noctua Edition ゲーミング マウスを正式に発売しました。これは、Noctua の通常のブラウンとベージュの配色に倣ったスタイルの軽量 73g ゲーミング マウスと、手のひらにアクティブな冷却を提供する統合 40mm ファンを組み合わせたものです。穴あき外骨格を使用して構築された Feinmann F01 Noctua Edition には、SSO2 ベアリング設計の統合 Noctua NF-A4x10 40mm PWM ファンが搭載されています。このアクティブ換気システムは使用中の手の汗をターゲットにしており、プレーヤーはボタンの組み合わせまたはウェブベースのドライバーを介して切り替えることができる 4 つの調整可能な速度レベルを提供します。アクティブな冷却が必要ない場合は、ファンを完全にオフにすることもできます。パルサーは、シェルの下に XS-2 光学センサーをマウスに装備しています。 8000Hzのポーリングレート、最大42000DPIの解像度、70Gアクセラレーション、800IPSのトラッキング速度をサポートします。センサーと組み合わせた Feinmann F01 Noctua Edition は、100M クリック定格の独自の光学スイッチ…",
+      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/07/Pulsar_Feinmann_x_Noctua_F01_Gaming_Mouse_Gallery01_9e5a1040-ef6d-4858-9e59-923c016879cc-732x330.jpg"
     },
     {
       "Title": "新しい 14 インチ MacBook Pro M5 を 400 ドル節約 — 48 GB の RAM、1 TB SSD、16 コア プロセッサーを搭載し、2,699 ドル",
@@ -5581,6 +5698,24 @@
       "Category": "Tech Industry",
       "Summary": "Googleは、シリコンにGeminiのアーキテクチャをエッチングした「Frozen v2」チップを開発していると伝えられている - エンジニアは、最新のTPUよりもワット当たりのトークンが6〜10倍多いと予測している\n\nプロジェクトの以前のバージョンでは、Gemini がベイクされていました。\n\nGoogleは、シリコンにGeminiのアーキテクチャをエッチングした「Frozen v2」チップを開発していると伝えられている - エンジニアは、最新のTPUよりもワット当たりのトークンが6〜10倍多いと予測している\n\nプロジェクトの以前のバージョンでは、Gemini の重みがチップに組み込まれていました。\n\n(画像提供: Google) リンクをコピー\n\n1 会話に参加してください フォローしてください Google ニュースレターの優先ソースとして追加してください ニュースレターを購読してください The Information が月曜日に公開したレポートによると、この件に直接詳しい 2 人の関係者の話として、Google は非公式に「Frozen v2」と呼ばれるサーバー チップを開発しています。これは、ジェミニ モデルのアーキテクチャの一部をシリコンに直接エッチングするものです。このプロジェクトのエンジニアらは、このチップはGoogleの最新世代のTPUよりも単位電力当たり6倍から10倍多くのトークンを供給できると予測しており、早ければ2028年の導入を目標としている。2人の関係者によると、このプロジェクトは、Google Cloudが外部顧客との取引を断るほど深刻なAIコンピューティング不足への対応の一環であるという。\n\nフォトニクスと高速データ移動が AI の次の大きなボトルネックとなる\n\nデータセンターの冷却の現状\n\nAI データセンターの大規模増設によりエネルギー供給が圧迫されている\n\nウルトラ イーサネット: 明日のデータセンター相互接続\n\nTPU は、GPU と同様に、ロードされたモデルをすべて実行します。つまり、ハードウェアは各モデルと対話する際に、時…",
       "ImageURL": "https://cdn.mos.cms.futurecdn.net/8GWUesFx3NRtYMAVTkBmZD-1920-80.jpg"
+    },
+    {
+      "Title": "Snapseed は、カメラ インターフェイスに長年待望されていた機能をついに獲得しました",
+      "Link": "https://www.androidauthority.com/snapseed-android-geotag-update-3689557/",
+      "Published": "2026-07-21T10:30:50Z",
+      "Source": "Android Authority",
+      "Category": "Snapseed",
+      "Summary": "Snapseed は、カメラ インターフェイスに長年待望されていた機能をついに獲得しました\n\nAndroid 上の Snapseed アプリのアップデートにより、ユーザーは画像に位置情報タグを付け、再編集するために元の写真を保存できるようになりました。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nSnapseed は、カメラ インターフェイスに長年待望されていた機能をついに獲得しました\n\n0 • Stephen Radochia / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Snapseed は、カメラ設定にジオタグ付けと元の写真の保存のための 2 つの新しいトグルを展開しています。\n\nトグルは現在、アプリのバージョン 4.1.1.948762742 で有効です。\n\nこのアップデートは、Snapseed が今月、新しいカメラ ツールと追加の RAW フォーマットのサポートを獲得したことに続いて行われます。\n\n5 月の Snapseed 4.0 アップデートでは、Android アプリに多数の新しい機能が追加されました。それ以来、アプリが新しいカメラ ツールを獲得し、先週より多くの RAW フォーマットをサポートするようになりました。このリストにさらにいくつかの機能を追加できるようになりました。\n\nSnapseed のアップデートにより、画像にジオタグを付けて元の写真を保存するための新しいトグルが導入されました。これらの機能は、Snapseed の控えめなカメラ設定ページが少し混雑していることも意味します。 「位置メタデータ」トグルはデフォルトでは無効になっており、これを有効にするには、ユーザーが必要な位置情報のアクセス許可を付与する必要があります (9to5Google 経由)。\n\n一方、「再編集のためにオリジナルをキャプチャ」トグルはデフォルトでオンになります。これにより、Snapseed の複…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/05/snapseed-40-google-pixel-10-pro-xl-scaled.jpg"
+    },
+    {
+      "Title": "Avalue RIVAR-1539 は、Intel N150 Twin Lake プロセッサを搭載した 15.6 インチのファンレス産業用パネル PC です。",
+      "Link": "https://www.cnx-software.com/2026/07/21/avalue-rivar-1539-is-a-15-6-inch-fanless-industrial-panel-pc-powered-by-an-intel-n150-twin-lake-processor/",
+      "Published": "2026-07-21T10:25:50Z",
+      "Source": "CNX Software",
+      "Category": "windows 11",
+      "Summary": "Avalue RIVAR-1539 は、Intel N150 Twin Lake プロセッサを搭載した 15.6 インチのファンレス産業用パネル PC です。\n\nAvalue Technology は、Intel N150 クアッドコア Twin Lake プロセッサを搭載した 15.6 インチ産業用ファンレス パネル PC、RIVAR-1539 を発表しました。の\n\nAvalue Technology は、Intel N150 クアッドコア Twin Lake プロセッサを搭載した 15.6 インチ産業用ファンレス パネル PC、RIVAR-1539 を発表しました。このシステムは、フル HD 投影型静電容量式タッチ ディスプレイ、デュアル ギガビット イーサネット、4 つの USB 3.0 ポート、および IP65 定格のフロント パネルを備えています。\n\nオールインワン POS ターミナルは、小売、医療、公共サービス環境におけるセルフオーダー キオスク、スマート カウンター、デジタル サイネージ、キュー管理システムなどのエッジ コンピューティングおよび HMI アプリケーション向けに設計されています。\n\nアバリュー RIVAR-1539 仕様:\n\nSoC – Intel プロセッサ N150 クアッドコア プロセッサ @ 800 MHz / 3.6 GHz (ターボ)、6 MB キャッシュ、24EU Intel UHD グラフィックス @ 1.0 GHz。 TDP: 6W\n\nディスプレイ – 15.6 インチ フル HD (1920 x 1080) LED ディスプレイ 輝度 – 350 cd/m²\n\n応答時間 – 25ms 10 ポイント投影型静電容量式マルチタッチ (USB インターフェイス コントローラー付き)\n\nオーディオ – Realtek ALC897 オーディオ コーデック経由のライン出力 1 台、2W スピーカー 2 台\n\nRealtek RTL8125BG コントローラー経由のネットワーキング 2x ギガビット RJ45 ジャック\n\nオプションの…",
+      "ImageURL": "https://www.cnx-software.com/wp-content/uploads/2026/07/Intel-N150-Industrial-Panel-PC.jpg"
     },
     {
       "Title": "Google マップは間もなく Gemini と Ask Maps をすぐに利用できるようになるでしょう",
@@ -6070,20 +6205,20 @@
     },
     {
       "Title": "このアプリは私の古い Android 携帯電話を PlayStation Portable に変えました",
-      "Link": "https://www.xda-developers.com/this-app-transformed-my-old-android-phone-into-playstationportable/",
-      "Published": "2026-07-20T20:30:10Z",
-      "Source": "XDA",
-      "Category": "PlayStation",
-      "Summary": "このアプリは私の古い Android 携帯電話を PlayStation Portable に変えました\n\nPlay Field Portal は、私のレトロ ゲーム コレクションに、PSP からインスピレーションを得た携帯型ゲームのような家を与えてくれます。\n\nこのアプリは私の古い Android 携帯電話を PlayStation Portable に変えました\n\nBy Dhruv Bhutani 公開 2026 年 7 月 20 日、午後 4 時 30 分 EDT Dhruv Bhutani は 2008 年以来消費者向けテクノロジーについて執筆しており、特集記事や意見記事を通じて個人向けテクノロジーの状況について深い洞察を提供しています。彼は XDA-Developers に執筆しており、生産性、ネットワーキング、セルフホスティングなどのトピックに重点を置いています。長年にわたり、彼の作品は Android Police、Android Authority、CNET、PCMag などの主要出版物にも掲載されてきました。専門的な仕事以外では、ドゥルヴは映画や文学などのホラー メディアの熱心なファンであり、フィットネス アクティビティを楽しんだり、レコードを収集したり、ギターを弾いたりしています。\n\nノスタルジックと言われても仕方がありませんが、レトロ ゲームは、長時間のフライト中でも、長い一日の終わりのダウンタイム中でも、私が楽しむためのお気に入りの方法の 1 つです。古き良き JRPG のように、リラックスできるものがいくつかあります。市場にはさまざまなレトロエミュレーションハンドヘルド機が存在することを考えると、私は明らかに一人ではありません。私は古い Android スマートフォンを使用する傾向があります。なぜなら、それらは十分に強力でバッテリーが長持ちするからです。すでに 1 台か数台を手元に置いている傾向があります。\n\n問題は、これらの Android スマートフォンのいずれも、横向きまたはゲーム向けのインターフェイスを備えていないことです。私はすでにエ…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/play-field-portal-interface.jpg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
-      "Title": "このアプリは私の古い Android 携帯電話を PlayStation Portable に変えました",
       "Link": "https://www.xda-developers.com/this-app-transformed-my-old-android-phone-into-playstation-portable/",
       "Published": "2026-07-20T20:30:10Z",
       "Source": "XDA",
       "Category": "PlayStation",
       "Summary": "このアプリは私の古い Android 携帯電話を PlayStation Portable に変えました\n\nPlay Field Portal は、私のレトロ ゲーム コレクションに、PSP からインスピレーションを得た携帯型ゲームのような家を与えてくれます。\n\nこのアプリは私の古い Android 携帯電話を PlayStation Portable に変えました\n\nBy Dhruv Bhutani 公開 2026 年 7 月 20 日、午後 4 時 30 分 EDT Dhruv Bhutani は 2008 年以来消費者向けテクノロジーについて執筆しており、特集記事や意見記事を通じて個人向けテクノロジーの状況について深い洞察を提供しています。彼は XDA-Developers に執筆しており、生産性、ネットワーキング、セルフホスティングなどのトピックに重点を置いています。長年にわたり、彼の作品は Android Police、Android Authority、CNET、PCMag などの主要出版物にも掲載されてきました。専門的な仕事以外では、ドゥルヴは映画や文学などのホラー メディアの熱心なファンであり、フィットネス アクティビティを楽しんだり、レコードを収集したり、ギターを弾いたりしています。\n\nノスタルジックと言われても仕方がありませんが、レトロ ゲームは、長時間のフライト中でも、長い一日の終わりのダウンタイム中でも、私が楽しむためのお気に入りの方法の 1 つです。古き良き JRPG のように、リラックスできるものがいくつかあります。市場にはさまざまなレトロエミュレーションハンドヘルド機が存在することを考えると、私は明らかに一人ではありません。私は古い Android スマートフォンを使用する傾向があります。なぜなら、それらは十分に強力でバッテリーが長持ちするからです。すでに 1 台か数台を手元に置いている傾向があります。\n\n問題は、これらの Android スマートフォンのどれも、横向きまたはゲーム向けのインターフェイスを備えていないことです。私はすでにエミ…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/play-field-portal-interface.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "このアプリは私の古い Android 携帯電話を PlayStation Portable に変えました",
+      "Link": "https://www.xda-developers.com/this-app-transformed-my-old-android-phone-into-playstationportable/",
+      "Published": "2026-07-20T20:30:10Z",
+      "Source": "XDA",
+      "Category": "PlayStation",
+      "Summary": "このアプリは私の古い Android 携帯電話を PlayStation Portable に変えました\n\nPlay Field Portal は、私のレトロ ゲーム コレクションに、PSP からインスピレーションを得た携帯型ゲームのような家を与えてくれます。\n\nこのアプリは私の古い Android 携帯電話を PlayStation Portable に変えました\n\nBy Dhruv Bhutani 公開 2026 年 7 月 20 日、午後 4 時 30 分 EDT Dhruv Bhutani は 2008 年以来消費者向けテクノロジーについて執筆しており、特集記事や意見記事を通じて個人向けテクノロジーの状況について深い洞察を提供しています。彼は XDA-Developers に執筆しており、生産性、ネットワーキング、セルフホスティングなどのトピックに重点を置いています。長年にわたり、彼の作品は Android Police、Android Authority、CNET、PCMag などの主要出版物にも掲載されてきました。専門的な仕事以外では、ドゥルヴは映画や文学などのホラー メディアの熱心なファンであり、フィットネス アクティビティを楽しんだり、レコードを収集したり、ギターを弾いたりしています。\n\nノスタルジックと言われても仕方がありませんが、レトロ ゲームは、長時間のフライト中でも、長い一日の終わりのダウンタイム中でも、私が楽しむためのお気に入りの方法の 1 つです。古き良き JRPG のように、リラックスできるものがいくつかあります。市場にはさまざまなレトロエミュレーションハンドヘルド機が存在することを考えると、私は明らかに一人ではありません。私は古い Android スマートフォンを使用する傾向があります。なぜなら、それらは十分に強力でバッテリーが長持ちするからです。すでに 1 台か数台を手元に置いている傾向があります。\n\n問題は、これらの Android スマートフォンのいずれも、横向きまたはゲーム向けのインターフェイスを備えていないことです。私はすでにエ…",
       "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/play-field-portal-interface.jpg?w=1600\u0026h=900\u0026fit=crop"
     },
     {
@@ -7968,15 +8103,6 @@
       "ImageURL": "https://www.igorslab.de/wp-content/uploads/2026/07/ed2e886b-d9d0-4850-8fb7-d47e68ac8930.jpg"
     },
     {
-      "Title": "マリオカート Wii が PC 用に静的に再コンパイル中: パブリックベータは 8 月に開始",
-      "Link": "https://www.igorslab.de/en/mario-kart-wii-static-recompiled-pc-public-beta-august/",
-      "Published": "2026-07-19T04:00:22Z",
-      "Source": "igor'sLAB",
-      "Category": "Latest news",
-      "Summary": "マリオカート Wii が PC 用に静的に再コンパイル中: パブリックベータは 8 月に開始\n\nPatchzy は、Wii ゲームの最初の静的再コンパイルとしてマリオカート Wii をコンパイルしたことを発表しました。\n\nマリオカート Wii は、すでに何年も前から Dolphin 経由で最新の PC 上で実行されています。それにもかかわらず、開発者は非常に複雑なルートを選択しました。ゲームプレイ中に Wii ハードウェアをエミュレートする代わりに、元のプログラム コードが PC 用に事前に変換されることです。 Patchzy という名前で活動している開発者は、2026 年 7 月 15 日にプロジェクト「マリオカート Wii コンパイル」を発表しました。彼の声明によれば、これは Wii ゲームの静的再コンパイルとしては初めてです。パブリック ベータ版は 2026 年 8 月にリリースされる予定で、すでにオンライン レースとレトロ リワインド修正のオプション サポートを提供する予定です。これにより、200 以上のトラックを利用できるようになります。\n\n古典的なエミュレーションの代わりに静的再コンパイル\n\n古典的なエミュレーションでは、ソフトウェアは元のコンソールの重要なコンポーネントを再現します。特に、Dolphin は PowerPC プロセッサ、グラフィックス チップ、メモリ アクセス、システム機能、および Wii のさまざまな入力デバイスをエミュレートします。マシンコードは通常、実行時にホスト システムのアーキテクチャに変換されます。対照的に、静的再コンパイルでは、既存のマシン コードを事前に分析し、ターゲット プラットフォームで実行可能なコードに変換します。 Wii 固有のシステム コール、メモリ アクセス、およびハードウェア機能は、適合したランタイム ライブラリまたは新しく実装されたインターフェイスを介してインターセプトする必要があります。したがって、このプロセスでは、コンソール ゲームが完全に書き直された PC 移植版に自動的に変換されるわけではありません。…",
-      "ImageURL": "https://www.igorslab.de/wp-content/uploads/2026/07/tdoenmqedzdfrfpcpsdh.jpg"
-    },
-    {
       "Title": "クアルコム、Snapdragon コントロール パネルを改訂: Arm 上の Windows でゲームとドライバーのメンテナンスが強化",
       "Link": "https://www.igorslab.de/en/qualcomm-snapdragon-control-panel-windows-arm-gaming-driver/",
       "Published": "2026-07-19T04:00:22Z",
@@ -7984,6 +8110,15 @@
       "Category": "Snapdragon Control Panel",
       "Summary": "クアルコム、Snapdragon コントロール パネルを改訂: Arm 上の Windows でゲームとドライバーのメンテナンスが強化\n\nクアルコムは、Windows-on-Arm 用に Snapdragon コントロール パネルを改訂しています。ゲーム ライブラリ、Adreno GPU ドライバー、および Hexagon NPU ドライバーがより直接的に統合されています。\n\nArm 上の Windows は、純粋なパフォーマンスの問題ではなく、信頼性の問題に直面しています。ユーザーは、ゲームが起動するかどうか、ドライバーが最新であるかどうか、ソフトウェアのメンテナンスが半分だけでシステムが洗練された特別なケースのように感じられないかどうかを知りたいと考えています。クアルコムはまさにそれに対処しており、Snapdragon コントロール パネルを改訂しました。それは小さなソフトウェアの通知のように聞こえますが、Snapdragon X ノートブックにとっては、一見したように見えるよりも重要です。VideoCardz は、Qualcomm が当初 Reddit または Snapdragon コミュニティを通じて発表した Snapdragon コントロール パネルのアップデートについて報告しています。新しいバージョンでは、ゲーム ライブラリが改訂され、ソフトウェア アップデート ページが統合され、Hexagon NPU ドライバーが Adreno GPU ドライバーとより直接的に統合されるようになりました。 Windows Central と GamesRadar は同じ変更をカバーしており、ゲームや AI ワークロード向けに Snapdragon X システムをより適切に準備するためのステップとして解釈しています。\n\n重要なポイントは統合です。 Snapdragon コントロール パネルは、インストールされているゲームを検出し、プロファイルを管理し、ワンクリックでゲームを最適化することを目的としています。アップデートにより、ゲームライブラリのナビゲーションが見直され、お気…",
       "ImageURL": "https://www.igorslab.de/wp-content/uploads/2026/07/Screenshot-2026-07-18-220545.jpeg"
+    },
+    {
+      "Title": "マリオカート Wii が PC 用に静的に再コンパイル中: パブリックベータは 8 月に開始",
+      "Link": "https://www.igorslab.de/en/mario-kart-wii-static-recompiled-pc-public-beta-august/",
+      "Published": "2026-07-19T04:00:22Z",
+      "Source": "igor'sLAB",
+      "Category": "Latest news",
+      "Summary": "マリオカート Wii が PC 用に静的に再コンパイル中: パブリックベータは 8 月に開始\n\nPatchzy は、Wii ゲームの最初の静的再コンパイルとしてマリオカート Wii をコンパイルしたことを発表しました。\n\nマリオカート Wii は、すでに何年も前から Dolphin 経由で最新の PC 上で実行されています。それにもかかわらず、開発者は非常に複雑なルートを選択しました。ゲームプレイ中に Wii ハードウェアをエミュレートする代わりに、元のプログラム コードが PC 用に事前に変換されることです。 Patchzy という名前で活動している開発者は、2026 年 7 月 15 日にプロジェクト「マリオカート Wii コンパイル」を発表しました。彼の声明によれば、これは Wii ゲームの静的再コンパイルとしては初めてです。パブリック ベータ版は 2026 年 8 月にリリースされる予定で、すでにオンライン レースとレトロ リワインド修正のオプション サポートを提供する予定です。これにより、200 以上のトラックを利用できるようになります。\n\n古典的なエミュレーションの代わりに静的再コンパイル\n\n古典的なエミュレーションでは、ソフトウェアは元のコンソールの重要なコンポーネントを再現します。特に、Dolphin は PowerPC プロセッサ、グラフィックス チップ、メモリ アクセス、システム機能、および Wii のさまざまな入力デバイスをエミュレートします。マシンコードは通常、実行時にホスト システムのアーキテクチャに変換されます。対照的に、静的再コンパイルでは、既存のマシン コードを事前に分析し、ターゲット プラットフォームで実行可能なコードに変換します。 Wii 固有のシステム コール、メモリ アクセス、およびハードウェア機能は、適合したランタイム ライブラリまたは新しく実装されたインターフェイスを介してインターセプトする必要があります。したがって、このプロセスでは、コンソール ゲームが完全に書き直された PC 移植版に自動的に変換されるわけではありません。…",
+      "ImageURL": "https://www.igorslab.de/wp-content/uploads/2026/07/tdoenmqedzdfrfpcpsdh.jpg"
     },
     {
       "Title": "TSMC A14、SRAM歩留まり90パーセント近くを達成：リスク生産は2027年に開始",
@@ -8866,141 +9001,6 @@
       "Category": "Keyboards",
       "Summary": "Gboard は間もなく、不要なスペースの追加を停止する可能性があります\n\nAPK の分解調査では、候補の単語をタップした後にキーボードでスペースが追加されるのを停止できる新しい Gboard 設定が明らかになりました。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nGboard は間もなく、不要なスペースの追加を停止する可能性があります\n\n0 • Edgar Cervantes / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google は、提案後の自動スペースを無効にできる Gboard 設定を準備しています。\n\n現在、Gboard では、提案されたオートコレクトの単語をタップすると、スペースが自動的に追加されます。\n\nAPK の分解中にこのオプションを有効にしましたが、テストでは期待どおりに機能しました。\n\n本日、Google が携帯電話のカメラで捉えた手話を文字テキストに翻訳できる、潜在的に主要な Gboard アクセシビリティ機能に取り組んでいることを明らかにしました。これは手話に依存している人々に大きな変化をもたらす可能性を秘めていますが、私たちが発見した変化はそれだけではありませんでした。 Googleはまた、影響という点では小さいものの、キーボードでスペースを追加するタイミングをより細かく制御できるようにすることで、はるかに幅広いGboardユーザーにとって役立つ可能性がある入力オプションを準備しているようだ。\n\nあなたは Authority Insights の記事を読んでいます。 Authority Insights は、他では見られない Android Authority チームからの最新の独占レポート、アプリの分解、リーク、詳細な技術報道をすべて提供します。\n\n現時点では、Gboard は自動修正候補ストリップ内の単語の 1 つをタップすると、自動的にスペースを挿入します。こ…",
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2022/07/Gboard-stock-photo-5.jpg"
-    },
-    {
-      "Title": "ローカル LLM を Tailscale に配置した後、ChatGPT への支払いをやめました",
-      "Link": "https://www.xda-developers.com/local-llm-home-server-tailscale-replace-chatgpt/",
-      "Published": "2026-07-17T21:30:10Z",
-      "Source": "XDA",
-      "Category": "Tailscale",
-      "Summary": "ローカル LLM を Tailscale に配置した後、ChatGPT への支払いをやめました\n\n私の電話は、ChatGPT に到達するのと同じ方法で、最終的にホーム サーバーに到達します。\n\nローカル LLM を Tailscale に配置した後、ChatGPT への支払いをやめました\n\nBy Korbin Brown 公開 2026 年 7 月 17 日、午後 5 時 30 分 EDT Korbin は、物事が実際にどのように機能するかを理解するために、ほとんどの時間を端末で費やしている Linux システム管理者です。過去 10 年間にわたり、彼は Linux の構成、奇妙な問題のトラブルシューティング、現実世界でのオープンソース ツールの使用について何百もの記事を書いてきました。彼はまた、Windows システムやネットワーク、特にドキュメントに記載されているとおりに動作しないことがある混合環境での作業にもよく取り組んでいます。物事を書き留めることで彼はすべてを理解することができ、できれば他の誰かが数時間を節約できるようになります。 XDA アカウントにサインインする 私はしばらくローカル LLM を実行してきました。 Ollama のようなツールを使用すると、モデルを取得してすぐにチャットを開始することが簡単になります。また、Qwen2.5-Coder のような優れたモデルの一部は、日常のタスクにおいてクラウド モデルとのギャップを埋めています。 ChatGPT Plus サブスクリプションを維持し続けた主な理由は、デスクから離れているときに AI にアクセスできる利便性のためでした。私は携帯電話にアプリを入れており、外出先でラップトップを使用しているときは常にウェブサイトを使用していました。\n\nTailscale を使用することで、最終的にその矛盾に対処することができました。これは WireGuard 上に構築されたメッシュ VPN で、ポート転送や公共のインターネットへの公開を必要とせずに、すべてのデバイス間にプライベート ネットワークを作成します。私のデ…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/05/tailscale-home-lab-hero.jpg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
-      "Title": "5 つの自動化スクリプトを 1 つのローカル AI エージェントに置き換えたところ、予期せぬ問題が発生しました",
-      "Link": "https://www.xda-developers.com/replaced-five-automation-scripts-local-ai-agent-broke-unexpected-things/",
-      "Published": "2026-07-17T21:00:10Z",
-      "Source": "XDA",
-      "Category": "automation",
-      "Summary": "5 つの自動化スクリプトを 1 つのローカル AI エージェントに置き換えたところ、予期せぬ問題が発生しました\n\nそれは悪い考えでした。\n\n5 つの自動化スクリプトを 1 つのローカル AI エージェントに置き換えたところ、予期せぬ問題が発生しました\n\nBy Anurag Singh 公開 2026 年 7 月 17 日、午後 5:00 EDT Anurag は、過去 5 年間、Windows、Android、Apple を中心にテクノロジーをカバーしてきた経験豊富なジャーナリスト兼著者です。彼は Android Police、Neowin、Dexerto、MakeTechEasier などのサイトに執筆しています。アヌラグは常にテクノロジーに興味があり、最新のガジェットを手に入れるのが大好きです。先延ばしにしていないときは、おそらく彼が映画館で最新映画を鑑賞したり、ベッドから Twitter をスクロールしたりしているのを見かけるでしょう。 XDA アカウントにサインインします。私は地元のエージェントが真剣に取り組むほどの成功を見てきました。これらは、プロジェクトを検査し、ファイルを編集し、テストを実行し、自分自身の間違いを修正できるため、コーディングに特に適しています。その経験から、私のラップトップで発生する日常的な作業の多くは 1 人のローカル エージェントで処理できると確信しました。\n\n私はすでに、私の注意をほとんど必要としないジョブを処理する 5 つの小さな Python スクリプトを持っていました。 1 つは写真をバックアップし、もう 1 つはファイル拡張子に従ってダウンロード フォルダーを整理しました。他のスクリプトは、ダウンロードしたファイルの名前を変更し、アプリケーションのキャッシュをクリアし、ディスク使用量が固定のしきい値を超えるたびに警告を出しました。各スクリプトは 1 つの小さなジョブを処理し、スケジューラーを通じて明示的なルールに従いました。私は彼らの代わりに、システムを検査して何をする必要があるかを判断できる地元のエージェントを 1 人指名し…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/agent-command-hero.jpg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
-      "Title": "燃やすお金はありますか？メッシをテーマにした Galaxy Z Fold 8 Ultra をチェックしてください",
-      "Link": "https://www.androidauthority.com/messi-themed-galaxy-z-fold-8-ultra-3688966/",
-      "Published": "2026-07-17T20:56:59Z",
-      "Source": "Android Authority",
-      "Category": "Samsung Galaxy Z Fold 8",
-      "Summary": "燃やすお金はありますか？メッシをテーマにした Galaxy Z Fold 8 Ultra をチェックしてください\n\n高級ブランドのCaviarは、リオネル・メッシのポートレートをあしらったGalaxy Z Fold 8 Ultraのカスタムエディションを発表した。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\n燃やすお金はありますか？メッシをテーマにした Galaxy Z Fold 8 Ultra をチェックしてください\n\n0 • Caviar Google Discover でフォローしてください 優先ソースとして追加してください TL;DR 高級ブランド Caviar は、Galaxy Z Fold 8 Ultra のリオネル メッシをテーマにしたカスタム エディションを提供しています。\n\n七宝焼きエナメル技術を使用して、フットボールのアイコンの手作りの肖像画が特徴です。\n\n価格は13,000ドル以上で、在庫は19個のみです。\n\nサッカー界のレジェンド、リオネル・メッシはワールドカップで素晴らしい成績を収め、現在彼のチームはチャンピオンシップをかけてスペインと対戦する立場にある。チャンピオンシップゲームは日曜日に行われる予定で、そのわずか数日後にサムスンは Galaxy Z Fold 8 Ultra を発売します。あなたがメッシの大ファンで、Galaxy Z Fold 8 Ultraの発売を楽しみにしているなら、完璧なマッシュアップを目指してスターたちが揃っています。ただし、財布に大きな傷が残ります。\n\n高級ブランドのCaviarは、Galaxy Z Fold 8 Ultraのリオネル・メッシをテーマにしたカスタムエディションを公開した。同社の「レジェンド」コレクションの一部として、この携帯電話にはアルゼンチンサッカーのアイコンの肖像画が描かれています。この Fold 8 Ultra の特別版バージョンに興味がある場合、価格は 13,000 ドル以上になります。具体的には、256GBのスト…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-Lionel-Messi-edition.jpg"
-    },
-    {
-      "Title": "iFixit が ASUS ROG Flow Z13 の修理可能性スコアを 10/10 と酷評",
-      "Link": "https://www.techpowerup.com/350852/ifixit-slams-asus-rog-flow-z13s-10-10-repairability-score",
-      "Published": "2026-07-17T20:55:58Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "iFixit が ASUS ROG Flow Z13 の修理可能性スコアを 10/10 と酷評\n\nASUS が 2025 年に ROG Flow Z13 ゲーミング 2-in-1 を発売したとき、同社はコンバーチブルの 10/10 修理可能性スコアを誇らしげに自慢していました。これは、部品の入手可能性、ドキュメント、修理コスト、およびアクセスのしやすさに基づいて製品の修理可能性を評価する自己申告スコアです。\n\niFixit が ASUS ROG Flow Z13 の修理可能性スコアを 10/10 と酷評\n\n2025 年 9 月 19 日 ASUS、マザーボードから 250 W の電力を供給する強化された PCIe スロットを提案 (95)\n\n2026 年 2 月 21 日 AMD が Ryzen Z1 Extreme プロセッサのドライバー更新を停止したようです (119)\n\n2026 年 7 月 14 日 Valve が iFixit で Steam Deck LCD スペアを黙って製造中止 (23)\n\n2025 年 7 月 29 日 ASUS ROG Xbox Ally の予約注文日と価格が明らかに Gamescom の開始に先立ってリーク (8)\n\n2026 年 5 月 31 日 新しい ASUS ROG Xbox Ally Gaming Handheld の可能性に関するリークヒント (5)\n\n2026 年 6 月 1 日 ASUS ROG Edition 20 ハードウェアを詳しく見る: グラフィックス カード、NUC、PSU、周辺機器、クーラー、ルーター (21)\n\n2026 年 5 月 15 日 ASUS が ROG ブランドの DDR5 キットでマニア向けメモリ市場に参入 (16)\n\n2026 年 6 月 24 日 合計システム電力 320W と新しい ROG Nebula Extreme Low Motion Blur (ELMB) ディスプレイを備えた ASUS ROG Strix SCAR 18 が発売 (9)\n\n2026 年 3 月 25 日 A…",
-      "ImageURL": "https://www.techpowerup.com/img/WF9GkG4lUzPRvZm7.jpg"
-    },
-    {
-      "Title": "この 80 ドルのマザーボードは、次の低価格ゲーミング PC の中心となります。",
-      "Link": "https://www.xda-developers.com/build-yourself-a-powerful-budget-gaming-rig-with-this-asus-motherboard/",
-      "Published": "2026-07-17T20:38:34Z",
-      "Source": "XDA",
-      "Category": "Under $100",
-      "Summary": "この 80 ドルのマザーボードは、次の低価格ゲーミング PC の中心となります。\n\n夏用の新築を安価で建てる時期が来ました\n\nこの 80 ドルのマザーボードは、次の低価格ゲーミング PC の中心となります。\n\nBy Timi Cantisano 公開 2026 年 7 月 17 日、午後 4 時 38 分 EDT Timi は 10 年以上にわたり、スマートフォン、コンピューター、およびテクノロジー分野で興味があるものすべてに焦点を当ててテクノロジーについて執筆してきました。彼は XDA に執筆を開始し、モバイルに関するあらゆることをカバーしていましたが、インターネット上で最高のハイテク製品の最高の割引を明らかにすることを使命として、取引をカバーすることに移行しました。 XDA アカウントにサインインする 新しい PC を構築しようとしている場合は大変な時期ですが、このマザーボードは仕様と価格の点で完璧な組み合わせを提供します。 80 ドルという価格なので手に取りやすく、AM4 マザーボードであるため、必要なその他のコンポーネントもはるかに手頃な価格になります。\n\nこの MSI B550M PRO-VDH マザーボードの優れている点は何ですか?\n\nそれでは、ここで詳細を見ていきましょう。前に述べたように、このマザーボードは、DDR4 RAM および PCIe 4.0 ストレージとともに、AMD の AM4 CPU のサポートを提供します。マザーボードは最大 128 GB の RAM と 16 TB の M.2 SSD ストレージを処理できます。 SATA III ポートも 4 つあり、SATA SSD および HDD に接続できます。\n\n多くの人が AM4 は廃止されると考えていましたが、AMD は別の計画を持っているようです。現在の状況を考慮すると、これは良いことです。このボードを AMD Ryzen 7 5800X3D と組み合わせると、1440p ゲーム用の非常に強力なマシンになります。もちろん、好みの AM4 チップを使用することができます。ここでの良いニュース…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/copy-of-169-1-3.jpg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
-      "Title": "Gboard はまもなく携帯電話のカメラで手話を理解できるようになるかもしれません",
-      "Link": "https://www.androidauthority.com/gboard-sign-to-text-3688910/",
-      "Published": "2026-07-17T20:33:21Z",
-      "Source": "Android Authority",
-      "Category": "Google",
-      "Summary": "Gboard はまもなく携帯電話のカメラで手話を理解できるようになるかもしれません\n\nGoogle は、Android 上の Gboard ユーザー向けに、主要な新しい Sign-to-Text 入力モードを開発しているようです。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nGboardはまもなく携帯電話のカメラで手話を理解できるようになるかもしれない\n\n0 • Edgar Cervantes / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google Deep Mind の研究者は、AI を使用して手話を解釈するツールを開発してきました。\n\nGoogle の最新の Gboard アップデートでは、キーボードが Sign-to-Text 入力を受け入れる準備をしていることがわかります。\n\nプライバシー保護により、ビデオはデバイス上に保持され、生のジェスチャー データのみが Google のクラウド AI と共有されます。\n\nGoogle の Gboard キーボードは、頭の中にある考えをできるだけ簡単に画面上の言葉に変換できるようにすることだけを目的としています。私たちはそれを実現するための、古き良き時代の文字をタップする方法から、非常に滑らかな「グライド」スワイプ入力、現代の便利な音声入力まで、さまざまな方法をすでに持っています。しかし今、Gboard が手話を理解する準備ができていることから、Google はアクセシビリティ ゲームを本格的にレベルアップしようとしているかもしれない。\n\nあなたは Authority Insights の記事を読んでいます。 Authority Insights は、他では見られない Android Authority チームからの最新の独占レポート、アプリの分解、リーク、詳細な技術報道をすべて提供します。\n\n手話のジェスチャーを文字テキストに自動的に変換できる…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2022/07/Gboard-stock-photo-4.jpg"
-    },
-    {
-      "Title": "このランチャーを見つけるまで、レトロ ゲームの再コンパイルを見つけるのは悪夢のようなものでした",
-      "Link": "https://www.xda-developers.com/retro-game-recompilations-nightmare-until-discovered-launcher/",
-      "Published": "2026-07-17T20:30:10Z",
-      "Source": "XDA",
-      "Category": "Ship of Harkinian",
-      "Summary": "このランチャーを見つけるまで、レトロ ゲームの再コンパイルを見つけるのは悪夢のようなものでした\n\n古典的なゲームをプレイする決定的な方法がさらに簡単になりました\n\nこのランチャーを見つけるまで、レトロ ゲームの再コンパイルを見つけるのは悪夢のようなものでした\n\nBy João Carrasqueira 公開 2026 年 7 月 17 日、午後 4 時 30 分 EDT João は、ラップトップと Windows エコシステムに重点を置いて、7 年以上テクノロジーの世界を取材してきました。私はテクノロジーやビデオゲーム全般が大好きで、特に任天堂のことについて彼はいつも喜んで話します。 2021 年に XDA に入社する前は、Neowin で働いていました: https://www.neowin.net/news/poster/jo%C3%A3o-carrasqueira/ XDA アカウントにサインインする 近年、レトロゲームの再コンパイルが急増しています。これらのプロジェクトは、クラシック コンソール ゲームのオリジナル ファイルを取得し、PC 上でネイティブに実行できるようにコンパイルし、そのプラットフォームで利用できるすべてのパフォーマンスと生活の質の向上を実現します。\n\n再コンパイルについてはよく聞いていましたが、最近まで試したことはなかったと認めます。主な理由は、私が PC よりもコンソールでゲームをプレイするほうが好きだからです。しかし、その後、 GithubLauncher というプロジェクトについて聞きました。これは、これらのレトロな再コンパイルを直接、コンソールのような方法で体験するのに最適です。\n\nGithubLauncher は単なるマネージャーではありません\n\nコンソール ゲーマーにとって、再コンパイルのアイデアは楽しいというよりも恐ろしいように聞こえることがよくあります。再コンパイルを見つけて設定するのは悪夢のように思えるからです。 PC ゲーム自体は煩雑になる傾向がありますが、このような「ハックな」ものとなると、事態はさらに悪化します。さら…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/github-launcher.jpg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
-      "Title": "Apple Musicがひっそりと値上げした",
-      "Link": "https://www.androidauthority.com/apple-music-price-increases-3688951/",
-      "Published": "2026-07-17T20:28:25Z",
-      "Source": "Android Authority",
-      "Category": "Apple Music",
-      "Summary": "Apple Musicがひっそりと値上げした\n\n2022年以降、同プラットフォーム初の値上げで、Apple Musicはサブスクリプション料金を月額最大3ドル値上げした。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nストリーミングサービスのApple Musicがひっそりと値上げした\n\n0 • Dhruv Bhutani / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Apple Music の価格が値上げされました。\n\n個人プランの料金は月額 11.99 ドルになり、サービスのファミリー プランは月額 19.99 ドルになりました\n\nこうした価格調整は、Apple Musicにとって2022年以降初めてとなる。\n\n最近はあらゆるものが高くなっており、ストリーミング サービスも例外ではありません。その好例は、Apple Music がひっそりと価格を引き上げたところです。ウェブサイトに記載されているように、Apple Music の加入者はプランに応じて月額 1 ドルから 3 ドル多く支払うことになります。\n\nApple Insider は今日この変更を発見しました。 Appleは価格調整について正式な発表を行っていないが、サービスの個人プラン、ファミリープラン、学生プランの表示価格はすべて値上げされた。\n\n個人プランと学生プランはどちらも月額 1 ドル値上がりしてそれぞれ 11.99 ドルと 6.99 ドルとなり、ファミリー プランは月額 3 ドル値上がりして新料金の 19.99 ドルになりました。\n\nApple Music の新しい価格は、一般的に Spotify よりも一般的に安く、1 回のサブスクリプションで 12.99 ドル、ファミリー プランで 21.99 ドルを請求しており、この 2 つは学生向けの価格で一致しています。 4 月の時点で、YouTube Music の単一サブスクリプシ…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2023/04/Info-tab-in-Apple-Music-Classical-.jpg"
-    },
-    {
-      "Title": "Spotifyは長年にわたるセキュリティ上の不備を修正しようとしている可能性がある",
-      "Link": "https://www.androidauthority.com/spotify-passkey-login-apk-teardown-3688948/",
-      "Published": "2026-07-17T20:27:17Z",
-      "Source": "Android Authority",
-      "Category": "Spotify",
-      "Summary": "Spotifyは長年にわたるセキュリティ上の不備を修正しようとしている可能性がある\n\nSpotify APK の分解調査では、パスキー認証が開発中である兆候が明らかになり、アカウント ログインがよりシンプルかつ安全になる可能性があります。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nSpotifyは長年にわたるセキュリティ上の不備を修正しようとしている可能性がある\n\n0 • Tushar Mehta / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Spotify アプリの APK 分解には、パスキー ログインのサポートが開発中の兆候が含まれています。\n\nアプリには、パスキー認証の内部設定とパスキーを登録するためのコードが含まれています。\n\nSpotify は現在、いくつかのログイン方法をサポートしていますが、パスキーはまだ利用できません。\n\nパスキーはパスワードの一般的な代替手段になりつつあり、代わりに指紋、顔スキャン、またはデバイス画面ロックを使用してサインインできるようになります。他のログイン方法よりも簡単で安全であると多くの人が考えているため、非常に広く採用されています。 Spotify の規模を考えると、ストリーミング サービスがまだ Spotify をサポートしていないのは少し驚くべきことですが、それはついに変わろうとしているのかもしれません。\n\nあなたは Authority Insights の記事を読んでいます。 Authority Insights は、他では見られない Android Authority チームからの最新の独占レポート、アプリの分解、リーク、詳細な技術報道をすべて提供します。\n\nSpotify では現在、電子メール アドレス、電話番号、Apple ID、Google アカウント、または Facebook アカウントを使用してログインできます。これらのオプションはいず…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2025/09/spotify-default-local-recommendations.jpg"
-    },
-    {
-      "Title": "NAS スナップショットはおそらく無効になっています。1 つの間違いで、それがなぜ重要なのかがわかります。",
-      "Link": "https://www.xda-developers.com/zfs-snapshots-truenas-setup-offsite-backup/",
-      "Published": "2026-07-17T20:00:10Z",
-      "Source": "XDA",
-      "Category": "TrueNAS SCALE",
-      "Summary": "NAS スナップショットはおそらく無効になっています。1 つの間違いで、それがなぜ重要なのかがわかります。\n\n冗長性は、「元に戻す」ボタンとは異なります。\n\nNAS スナップショットはおそらく無効になっています。1 つの間違いで、それがなぜ重要なのかがわかります。\n\nクレジット: Korbin Brown 著 公開日 2026 年 7 月 17 日、午後 4:00 EDT Korbin は、物事が実際にどのように機能するかを理解するために、ほとんどの時間を端末で費やしている Linux システム管理者です。過去 10 年間にわたり、彼は Linux の構成、奇妙な問題のトラブルシューティング、現実世界でのオープンソース ツールの使用について何百もの記事を書いてきました。彼はまた、Windows システムやネットワーク、特にドキュメントに記載されているとおりに動作しないことがある混合環境での作業にもよく取り組んでいます。物事を書き留めることで彼はすべてを理解することができ、できれば他の誰かが数時間を節約できるようになります。 XDA アカウントにサインインする NAS を使い始めたとき、最初の数年間は、冗長ドライブによってデータが安全であると信じて、誤ったセキュリティ意識の中で過ごしました。問題は、RAID (または私のように ZFS を実行している場合は RAIDZ) がドライブの障害から保護してくれることですが、それだけです。間違ったファイルを上書きしたり、保持するつもりだったファイルを削除したりすると役に立ちません。冗長性は、プール内のすべてのハード ドライブ間でミスが同期されることを意味します。\n\n私は、自宅ラボのセットアップに関するすべての情報が含まれている重要なテキスト ファイルを上書きしたときに、その教訓を苦労して学びました。瞬く間に、カスタマイズしたオプションと構成手順はすべてなくなり、RAIDZ2 プールはまったく気にならなくなりました。その瞬間、TrueNAS の GUI にある ZFS スナップショット ボタンが何のためにあるのかが分かりました。これ…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/05/synology-ds925-plus-synology-hard-drive.jpg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
-      "Title": "BornHack 2026 Cyber​​ Ægg はその後の人生を持つバッジです",
-      "Link": "https://hackaday.com/2026/07/17/the-bornhack-2026-cyber-aegg-is-a-badge-with-a-life-afterwards/",
-      "Published": "2026-07-17T20:00:00Z",
-      "Source": "Hackaday",
-      "Category": "meshcore",
-      "Summary": "BornHack 2026 Cyber Ægg はその後の人生を持つバッジです\n\nイベントバッジのデザイナーが直面している問題は、イベント後にバッジはどうなるのかということです。これはデザイナーがさまざまな方法で解決しようとしており、さまざまなレベルの成功を収めてきましたが、…\n\nイベントバッジのデザイナーが直面している問題は、イベント後にバッジはどうなるのかということです。これは、開発ボード、ゲーム コンソール、メッシュ ネットワーク コミュニケータにすることによって、または電磁フィールドの場合のように、将来のイベントの継続的なバッジにすることによって、設計者がさまざまなレベルの成功を収めてさまざまな方法で解決しようとしてきた問題です。 Ar BornHack 2026 では、これを便利なデスクトップ アプライアンスにするという、斬新なアプローチを採用しました。 BornHack Cyber​​ Ægg は、3D プリントされたケースが付いた半分の卵の形をしたバッジで、キャンプでのアプリケーションとは別に、デスクトップの時計/カレンダーと MeshCore ノードの両方として機能します。\n\nヨーロッパのバッジメーカーである Badge.team の協力を得て製造されたこの製品は、心臓部に Nordic nRF52840、Semtech LoRa モジュール、および電子ペーパー ディスプレイを備えた卵型 PCB です。サイトには、たまごっちスタイルの仮想ペット ゲーム、イベント カレンダー、RFID トークン ゲームがありますが、キャンプ後に活気を与えるのは他の 2 つの機能です。時計とメッシュコアは、机の上に置くための平らな場所で設計されたケースと相まって、このバッジをバッジであると同時にアプライアンスとしても機能させます。これはハッカデイ オフィスに設置される場所であり、ほとんどの BornHack 参加者もこのように使用すると確信しています。\n\n私たちはイベント後にバッジに命を吹き込むこのアプローチが気に入っており、それが将来のバッジにどのような影響を与えるかを楽…",
-      "ImageURL": "https://hackaday.com/wp-content/uploads/2026/07/bh2026-featured.jpg"
-    },
-    {
-      "Title": "MSI、新しい 320 Hz および 180 Hz WQHD ゲーミング モニターを MAG ラインナップに追加",
-      "Link": "https://www.techpowerup.com/350854/msi-adds-new-320-hz-and-180-hz-wqhd-gaming-monitors-to-its-mag-lineup",
-      "Published": "2026-07-17T19:56:25Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "MSI、新しい 320 Hz および 180 Hz WQHD ゲーミング モニターを MAG ラインナップに追加\n\nMSI は、ゲーム市場のさまざまな分野をターゲットとした MAG ラインナップに 2 つの新しい WQHD モニターを追加しました。 MAG 274QPF X32 は、2 つのモニターの中で最速となる 320 Hz のリフレッシュ レートを誇るクラシックな 27 インチ フラット モニターです。このモニターには、2560 x 1440 の Rapid IPS、アンチグレア パネルが搭載されています。\n\nMSI、新しい 320 Hz および 180 Hz WQHD ゲーミング モニターを MAG ラインナップに追加\n\n2026 年 5 月 31 日 NVIDIA が、エージェントティック ユーザー インターフェイスを備えた Windows PC 用のスーパーコンピューター グレードのプロセッサーである RTX Spark を発表 (63)\n\n2026 年 5 月 29 日 Acer が新しい Predator モニターと Nitro モニターを発表 (3)\n\n2026 年 7 月 14 日 MSI が PRO MAX OLED 271UPJW12 を発表: 世界初の 27 インチ 4K IJP OLED モニター (17)\n\n2026 年 5 月 15 日 MSI が 5 層 QD-OLED ペンタ タンデム パネルを搭載した MAG OLED 271QPX32 ゲーミング モニターを発表 (6)\n\n2026 年 5 月 29 日 MSI、Computex で世界初のトリプルモード QD-OLED ゲーミング モニターをデビュー (26)\n\n2026 年 4 月 20 日 MSI が MPG 322UR QD-OLED X24 および MAG 321UP QD-OLED X24 ゲーミング モニターの発売を発表 (18)\n\n2026 年 5 月 22 日 ギガバイトは、競技プレイ用の 27 インチ QHD 240Hz WOLED ゲーミング モニターの発売を…",
-      "ImageURL": "https://www.techpowerup.com/img/to8GMqq1eOH5klNU.jpg"
-    },
-    {
-      "Title": "グーグルが支援する山火事探知衛星が打ち上げ、煙が詰まる米国、カナダ",
-      "Link": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
-      "Published": "2026-07-17T19:50:18Z",
-      "Source": "Ars Technica Gear \u0026 Gadgets",
-      "Category": "wildfires",
-      "Summary": "グーグルが支援する山火事探知衛星が打ち上げ、煙が詰まる米国、カナダ\n\nFireSat プログラムは、他の衛星が見逃す山火事も発見できます。\n\nテキスト設定 ストーリーテキスト サイズ 小 標準 大 幅 * 標準 ワイドリンク 標準 オレンジ * 購読者限定 詳細はこちら ナビゲーションを最小化 何百もの燃え盛る山火事の煙がカナダと米国に広がる中、Google が支援する FireSat プログラムの最初の 3 つの運用衛星が軌道上に打ち上げられました。これらの衛星は、年末までに米国、オーストラリア、ヨーロッパで小規模な火災も発見できる山火事探知の提供を開始する予定だ。\n\n2026 年 7 月 7 日にカリフォルニアのヴァンデンバーグ宇宙軍基地から SpaceX ファルコン 9 ロケットに搭載された超小型衛星の打ち上げは、非営利団体 Earth Fire Alliance が管理する FireSat 衛星群の「初期運用能力」への移行を示します。 3 か月のテスト期間の後、3 つの衛星は、地球上のすべての火災が発生しやすい地域を少なくとも 1 日 2 回カバーしながら、消防機関へのデータの積極的な提供を開始します。\n\nFireSat は、他の衛星が見逃す可能性のある小規模な火災の発見など、山火事の検出を目的として構築された初の衛星群です。これらの衛星は、カリフォルニアに本拠を置く衛星メーカー Muon Space によって設計され、初期配備のサポートとして Google から 1,500 万ドル以上を受け取りました。その他の著名な財政支援者には、2,600万ドルを寄付したベゾス地球基金が含まれます。\n\n各衛星には、煙や雲を通して覗いて、5 × 5 メートル (約 16 × 16 フィート) の小さな火災を検出できるマルチスペクトル画像処理が装備されています。その能力は、2025年3月に打ち上げられたFireSat Protoflight衛星によって証明され、100万枚以上の画像を収集し、既存の衛星では見えない低強度のブレを検出できることを示しました。\n\n今年 FireSat…",
-      "ImageURL": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Operational-FireSat-satellites-1152x648.png"
-    },
-    {
-      "Title": "BTSがサムスンの誇大広告に参加すると、Galaxy Z Fold 8がビデオに登場",
-      "Link": "https://www.androidauthority.com/bts-member-holding-galaxy-z-fold-8-3688932/",
-      "Published": "2026-07-17T19:42:39Z",
-      "Source": "Android Authority",
-      "Category": "Samsung Galaxy Z Fold 8",
-      "Summary": "BTSがサムスンの誇大広告に参加すると、Galaxy Z Fold 8がビデオに登場\n\n人気ボーイズバンドグループBTSのメンバーが、未発売のSamsung Galaxy Z Fold 8を手に持った自分の動画を共有した。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nBTSがサムスンの誇大広告に参加すると、Galaxy Z Fold 8がビデオに登場\n\n0 • Ice Universe Google Discover でフォローしてください 優先ソースとして追加してください TL;DR 人気のボーイズ バンド グループ BTS のメンバーが最近、サムスンの今後の折りたたみ式デバイスの 1 つをからかうビデオを共有しました。\n\n問題のフォルダブル端末はGalaxy Z Fold 8と思われる。\n\nGalaxy Z Fold 8は予想外の場所に現れました\n\nGalaxy Z Fold 8シリーズとFlip 8を紹介するSamsungの待望のイベント「Galaxy Unpacked」まであと数日となった。ご想像のとおり、今後の折りたたみ式デバイスの広告が増えてきている。最近、サムスンとスパイダーマンがティーザーでタッグを組みました。今度は、世界で最も人気のあるバンドの 1 つをもう一度味わいましょう。\n\nBTS のファンなら、この韓国のボーイズ バンドが現在世界中でツアー中であることをご存知でしょう。パリで開催されるショーに先立ち、メンバーの一人が多忙なスケジュールの合間を縫って、サムスンの今後発売予定の折りたたみ式製品の 1 つを紹介しました。問題のバンドメンバーはJ-Hopeで、彼が持っている折りたたみ式のデバイスはGalaxy Z Fold 8であるようです。\n\n詳細な実践ビデオを期待していたとしたら、まったく運が悪かったです。ピースサインと Galaxy Z Fold 8 の実際の外観以外には、ここには多くの情報はありません。それにもかかわらず、私たちは、数か月にわたる多くのリークに基づい…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-dummy.jpg"
-    },
-    {
-      "Title": "Google Play ストアの代わりに私がいつも使っている Android アプリ ストア 4 つ",
-      "Link": "https://www.xda-developers.com/4-android-app-stores-use-instead-google-play-store/",
-      "Published": "2026-07-17T19:30:10Z",
-      "Source": "XDA",
-      "Category": "os",
-      "Summary": "Google Play ストアの代わりに私がいつも使っている Android アプリ ストア 4 つ\n\nPlay ストアの先をご覧ください。\n\nGoogle Play ストアの代わりに私がいつも使っている Android アプリ ストア 4 つ\n\nBy Anurag Singh 公開 2026 年 7 月 17 日、午後 3 時 30 分 EDT Anurag は、過去 5 年間、Windows、Android、Apple を中心にテクノロジーをカバーしてきた経験豊富なジャーナリスト兼著者です。彼は Android Police、Neowin、Dexerto、MakeTechEasier などのサイトに執筆しています。アヌラグは常にテクノロジーに興味があり、最新のガジェットを手に入れるのが大好きです。先延ばしにしていないときは、おそらく彼が映画館で最新映画を鑑賞したり、ベッドから Twitter をスクロールしたりしているのを見かけるでしょう。 XDA アカウントにサインインする Android スマートフォンを Google から除外しようとしている場合 (うまくいきますように)、Play ストアを置き換えることから始めるのが妥当です。 Google は、アプリ市場に関して不当な独占を行っています。その主な理由は、Play ストアが、ほとんどすべての主流の Android スマートフォンでデフォルトで利用できるためです。 Android スマートフォンを使用している人の大多数、おそらく 99% は、便利なため、アプリをインストールするために Play ストア以外に目を向けたくありません。\n\n私たちのほとんどは、特定のアプリが Play ストアで利用できない場合にのみサイドローディングに注目します。すべてのアプリが Play ストアに掲載されているわけではなく、Google の商業要件とポリシー要件により、最適なアプリが選択できることはほとんどありません。たとえば、私は Play ストアをできる限り避け、代替のアプリ ストアに依存するようにしています。私が日常的に使用し…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/1783875003340.jpg?w=1600\u0026h=900\u0026fit=crop"
     }
   ]
 }
