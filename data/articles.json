@@ -10,6 +10,15 @@
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2127/459/001.jpg"
     },
     {
+      "Title": "AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2127479.html",
+      "Published": "2026-07-23T18:30:00Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」\n\nAMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、フィジカルAI向けの「Ryzen AI Embedded Processors」の最新製品となる「Ryzen AI Embedded X100 Series processors」を発表した。\n\nAMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」\n\nAMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、フィジカルAI向けの「Ryzen AI Embedded Processors」の最新製品となる「Ryzen AI Embedded X100 Series processors」を発表した。\n\nStrix Halo/Golden HaloベースのRyzen AI Embedded X100\n\nAMDが発表したRyzen AI Embedded X100は、1月のCESでAMDが発表した「Ryzen AI Embedded P100 Series processors」の上位版製品となる。Ryzen AI Embedded P100は、Strix PointないしはGolden PointベースのSoCで、最大12コアのZen 5/Zen 5cコア、最大16CUのRDNA 3.5 GPU、最大50TOPSのNPUという構成になっていた。\n\nそれに対して、Ryzen AI Embedded X100はStrix HaloないしはGolden Haloがベースになっており、CPUは最大16コア(8コアのダイが2つ)のZen 5、GPUは最大40CUのRDNA 3.5、そして50TOPSのXDNA2 NPUというスペックになっている。\n\n最大128GBのメモリを搭載可能で、CPU、GPU、NPUが大容量のメモリをシェアしてAIのローカル処理を行…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2127/479/001.jpg"
+    },
+    {
       "Title": "AMD、打倒NVIDIAのAI向けGPU「Instinct MI455X」と新ラック投入",
       "Link": "https://pc.watch.impress.co.jp/docs/news/2127474.html",
       "Published": "2026-07-23T18:30:00Z",
@@ -26,15 +35,6 @@
       "Category": "",
       "Summary": "バイブコーディングでAMD GPU最適化を実現する魔法のツール「ROCm.AI」\n\nAMDは、年次イベントとなる「AMD Advancing AI 2026」を7月22日と23日に米国カリフォルニア州サンフランシスコ市で開催している。2日目となった7月23日には、同社CEOのリサ・スー氏による基調講演が行なわれ、同社のAI向けソリューションなどが多数発表された。\n\nバイブコーディングでAMD GPU最適化を実現する魔法のツール「ROCm.AI」\n\nAMDは、年次イベントとなる「AMD Advancing AI 2026」を7月22日と23日に米国カリフォルニア州サンフランシスコ市で開催している。2日目となった7月23日には、同社CEOのリサ・スー氏による基調講演が行なわれ、同社のAI向けソリューションなどが多数発表された。\n\nこの中でAMDは同社のGPU最適化ツール「ROCm」の新しいツールとなる「ROCm.AI」を発表。ROCm.AIはいわゆるバイブコーディングやAIコーディングなどと呼ばれる、エージェント型AIにコードを書かせる新しいプログラミング方法に対応したROCmとなる。\n\n新しく「ROCm CLI」と呼ばれるコマンドラインベースのユーザーインターフェイスをサポートし、エージェント型AIやバイブコーディングツールに対応し、GPUへの最適化をエージェント型AIと協調しながら行なえるようになる。\n\nエージェント型のコーディングツールと連携してGPU最適化を自動で行なうROCm.AI\n\n今、ソフトウェアのプログラミング環境は大きく転換している。LLMから構築されているエージェント型AIは高度なプログラミングが可能になっているため、人間はソフトウェアの仕様書を作り、エージェント型AIに渡せば、AIがその仕様書を元にプログラムのコードを書いて、プログラムをコンパイルして実行形式にし、動作検証(デバッグ)まで行なうというプロセスが当たり前になりつつある。\n\nそうした現状の中で、AMDはこれまで人間のプログラマー向けだけをターゲットにしてきたGPU最適化ツール「ROCm」の…",
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2127/476/001.jpg"
-    },
-    {
-      "Title": "AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/2127479.html",
-      "Published": "2026-07-23T18:30:00Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」\n\nAMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、フィジカルAI向けの「Ryzen AI Embedded Processors」の最新製品となる「Ryzen AI Embedded X100 Series processors」を発表した。\n\nAMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」\n\nAMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、フィジカルAI向けの「Ryzen AI Embedded Processors」の最新製品となる「Ryzen AI Embedded X100 Series processors」を発表した。\n\nStrix Halo/Golden HaloベースのRyzen AI Embedded X100\n\nAMDが発表したRyzen AI Embedded X100は、1月のCESでAMDが発表した「Ryzen AI Embedded P100 Series processors」の上位版製品となる。Ryzen AI Embedded P100は、Strix PointないしはGolden PointベースのSoCで、最大12コアのZen 5/Zen 5cコア、最大16CUのRDNA 3.5 GPU、最大50TOPSのNPUという構成になっていた。\n\nそれに対して、Ryzen AI Embedded X100はStrix HaloないしはGolden Haloがベースになっており、CPUは最大16コア(8コアのダイが2つ)のZen 5、GPUは最大40CUのRDNA 3.5、そして50TOPSのXDNA2 NPUというスペックになっている。\n\n最大128GBのメモリを搭載可能で、CPU、GPU、NPUが大容量のメモリをシェアしてAIのローカル処理を行…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2127/479/001.jpg"
     },
     {
       "Title": "GeForce RTX 5000シリーズ出荷量、2026年7月下旬はさらに減少へ",
@@ -4503,6 +4503,141 @@
   ],
   "world": [
     {
+      "Title": "The PS6 controller could eliminate stick drift by using magnetic joysticks",
+      "Link": "https://www.tweaktown.com/news/112805/the-ps6-controller-could-eliminate-stick-drift-by-using-magnetic-joysticks/index.html",
+      "Published": "2026-07-23T20:20:11Z",
+      "Source": "TweakTown",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "Google、Gemini Live を同社の最も古いスマート スピーカーとディスプレイの一部に拡張",
+      "Link": "https://www.androidauthority.com/gemini-live-expands-to-first-gen-google-speakers-3690874/",
+      "Published": "2026-07-23T20:19:36Z",
+      "Source": "Android Authority",
+      "Category": "Smart Speakers",
+      "Summary": "Google、Gemini Live を同社の最も古いスマート スピーカーとディスプレイの一部に拡張\n\nGoogle は、Gemini Live が同社の最も古いスマート スピーカーとディスプレイの一部に展開され始めたと発表しました。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nGoogle、Gemini Live を同社の最も古いスマート スピーカーとディスプレイの一部に拡張\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google は、Gemini Live をより多くのスマート スピーカーとディスプレイに拡張しています。\n\nこのアシスタントは、第 1 世代の Google Home Mini と Google Nest Hub で利用できるようになりました。\n\nGoogleは昨年10月にスマートスピーカーへのGemini Liveの展開を開始した。 AI アシスタントは、Nest Mini、Nest Audio、Nest Hub、Nest Hub Max などのさまざまなデバイスで利用できるようになりました。最近発売された Google Home スピーカーにも搭載されました。現在、Gemini Live はついに、追加の第 1 世代のスピーカーとディスプレイに拡張されています。\n\nGoogle は、Gemini Live を第 1 世代の Google Home Mini と Google Nest Hub に展開すると発表しました。 Google Home Premium の加入者で、これらのデバイスのいずれかを所有している場合は、チャットボットと双方向の会話ができるようになります。\n\nGemini Live を初めて使用する人は、「OK Google、チャットしましょう」と言って会話を始めることができます。チャイムが鳴ると、会話モードが開始されたことがわかります。夕食に何を作るか、地球外生命体についての質問まで、…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2019/01/google-home-mini-colors-ces-2019.jpg"
+    },
+    {
+      "Title": "Xbox confirms free game streaming with ads, clarifies how it'll work and ethos around monetization",
+      "Link": "https://www.tweaktown.com/news/112803/xbox-confirms-free-game-streaming-with-ads-clarifies-how-itll-work-and-ethos-around-monetization/index.html",
+      "Published": "2026-07-23T20:08:08Z",
+      "Source": "TweakTown",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "Spotify の次のトリックは、Pixel の Now Playing からページを奪う可能性があります",
+      "Link": "https://www.androidauthority.com/spotify-song-identification-3690854/",
+      "Published": "2026-07-23T20:02:29Z",
+      "Source": "Android Authority",
+      "Category": "Spotify",
+      "Summary": "Spotify の次のトリックは、Pixel の Now Playing からページを奪う可能性があります\n\n近いうちに Spotify があなたの近くで再生されている曲を認識し、トラック全体をストリーミングできるようになるかもしれません。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nAndroidアプリSpotifyの次のトリックはPixelのNow Playingから1ページを奪う可能性がある\n\n0 • Edgar Cervantes / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Spotify は曲を識別するための新しいツールに取り組んでいるようです。\n\nまだ機能していませんが、アプリ内のテキスト文字列はマイクへのアクセス要求などの機能を明らかに示唆しています。\n\nこれまでのところ、この証拠は Android でのみ確認されていますが、Spotify iOS アプリでも同様のものが提供される可能性があります。\n\n非常に多くの人にとって、Spotify はオーディオに関するあらゆることを知るための頼りになる場所です。つまり、音楽ストリーミングだけでなく、体験を実際にカスタマイズするためのプレイリスト ツールは言うまでもなく、ポッドキャストやオーディオブックへのアクセスも意味します。 Spotify は新しいアーティストを見つけるための優れた検索機能をいくつか提供していますが、特定のものを探しているとき、つまりそれが何と呼ばれるかわからないときはどうしますか?実は、Spotify もその解決策に取り組んでいることがわかりました。\n\nあなたは Authority Insights の記事を読んでいます。 Authority Insights は、他では見られない Android Authority チームからの最新の独占レポート、アプリの分解、リーク、詳細な技術報道をすべて提供します。\n\nスマート…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2021/12/Spotify-stock-photo-2.jpg"
+    },
+    {
+      "Title": "2 年間サービスをため込み続けた後、ついにホームラボを片づけました - 信じられないほどの気分です",
+      "Link": "https://www.xda-developers.com/cleaned-up-my-homelab-after-two-years-hoarding-feels-incredible/",
+      "Published": "2026-07-23T20:00:11Z",
+      "Source": "XDA",
+      "Category": "Home Lab",
+      "Summary": "2 年間サービスをため込み続けた後、ついにホームラボを片づけました - 信じられないほどの気分です\n\n春の大掃除のようなもの、7月にやっただけ\n\n2 年間サービスをため込み続けた後、ついにホームラボを片づけました - 信じられないほどの気分です\n\nBy Joe Rice-Jones Published Jul 23, 2026, 4:00 PM EDT Maker、meme-r、そして恥ずかしがり屋のオタクである Joe は、2018 年に KnowTechie でキャリアをスタートして以来、テクノロジーについて執筆してきました。彼は Apple からアプリ、クラウドファンディングまであらゆるものをカバーしており、複雑なトピックの本質に迫るのが大好きです。その間、彼は、2023 年の春に XDA に本拠地を置くまで、SlashGear や多数の法人顧客向けにも記事を書いていました。彼は、たとえ後で完全に元に戻らなかったとしても、すべてのおもちゃを分解して、どのように機能するかを確認する子供でした。これにより、複雑なシステムがどのように連携して機能するかを説明するための確かな背景が得られ、それ以来、物事を元に戻す段階でうまくなったと彼は約束します。 XDA アカウントにサインインする 2 年前、私の自宅ラボは完全拡張モードでした。毎週、Proxmox クラスターに新しい LXC、Synology NAS に別の Docker コンテナ、Technitium DNS に別のサブドメインが導入されました。セルフホスト型プロジェクトが r/selfhosted のトップページに掲載されると、週末までにそれをスピンアップしていました。進歩している気がして、正直楽しかったです。\n\n今年は削除することが多かったです。サービスが失敗したからではなく、適用するアップデート、検証するバックアップ、罪悪感を持ってちらっと見るダッシュボードなど、それらのすべてが自分に割り当てられた小さな仕事であったことを最終的に認めたからです。私が実際に依存している研究所は、私が運営していたもののおそらく 3…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/04/minisforum-ai-x1-pro-470-lan-ports.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "調査によると、Duolingo の最新のコース見直しには大多数のユーザーが不満を感じている",
+      "Link": "https://www.androidauthority.com/duolingo-course-updates-poll-results-3690803/",
+      "Published": "2026-07-23T19:43:21Z",
+      "Source": "Android Authority",
+      "Category": "Survey Results",
+      "Summary": "調査によると、Duolingo の最新のコース見直しには大多数のユーザーが不満を感じている\n\n私たちの世論調査では、Duolingo ユーザーの半数以上が最近のコース変更に不満を抱いているものの、ほとんどがやめることを拒否していることがわかりました。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\n調査によると、Duolingo の最新のコース見直しには大多数のユーザーが不満を感じている\n\n0 • Matt Horne / Android Authority Google Discover でフォローしてください 優先情報源として追加してください 私は、おそらくアプリに値する以上に Duolingo を擁護してきました。ほぼ 1,200 日連続でミドリフクロウと過ごした後、たとえそれが多くの点で煩わしく、それ自体で言語を教える能力には程遠いとしても、その利便性とシンプルさにより、私はそれが有益な学習ツールであると今でも思っています。しかし、Duolingo コースのアップデートが学習者を悩ませるだけでなく、実際に何を学習しているのか、何を学習していないのかが分からなくなると、その防御はさらに難しくなります。私自身は特に気づきませんでしたが、最近一部のユーザーでそのようなことが起こっているようです。私たちは、最近のコースのアップグレードによって悪影響を受けた人が何人いるのかを知りたいと思い、調査を開始しました。\n\nそれが私たちの最近の世論調査の背後にあるテーマでした。 Duolingo コースの拡張により、一部のユーザーが学習パスに沿ってシャッフルされ、完了したセクションに突然なじみのない内容が含まれたり、他の学習者が以前のレベルをはるかに下回るレッスンに戻されたりしたようであるという事実について報告しました。その記事では、これらの変更が世論調査の進行状況に悪影響を及ぼしたかどうかを尋ねたところ、何千人もの人が回答しました。結果を見てみましょう。\n\nその結果、Duolingo コースの更新に関する…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2025/04/Duolingo-Daily-Quests-e1780077474567.jpg"
+    },
+    {
+      "Title": "ロックスター・ゲーム労働組合、スタジオとの初会合の成功を祝う",
+      "Link": "https://www.techpowerup.com/351033/rockstar-game-workers-union-celebrates-successful-first-meeting-with-studio",
+      "Published": "2026-07-23T19:42:51Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "ロックスター・ゲーム労働組合、スタジオとの初会合の成功を祝う\n\nロックスター・ゲーム労働者組合は、労働条件の改善を求めて闘い、最近のロックスター従業員31人の解雇と闘う英国で新たに設立された労働組合で、最近、ローンチ前にロックスター・ゲームスとテイクツー・インタラクティブによる公認に向けて取り組んでいることを発表した。\n\nロックスター・ゲーム労働組合、スタジオとの初会合の成功を祝う\n\n窮地に陥らない: 残業を軽減できます。それが起こった場合、それは常に支払われるべきです。危機を回避するために、より強力なプロセスの実現に取り組んでいきます。\n\n給与の透明性: 昇給、ボーナス、権利確定ストック オプションが得られる理由を知りたいですか?私たちもそうです。私たちはこのことをすべての人に明確にできるよう取り組んでいきます。\n\n柔軟な働き方: 在宅勤務のオプションは、他の人に知られていない困難に対処している人を含む、多くの人を助けます。以前はそれができましたが、またできるようになります。\n\nAI の禁止: 同僚の仕事や仕事が AI に置き換えられるべきではありません。\n\n解雇をしないという約束: 私たちは解雇は不可能だと言われてきました。しかし、クランチについても同じことが言えました。私たちは解雇が起こらないようにしたいと考えています。\n\n2026 年 5 月 18 日 インサイダーは、ソニーが PC ポートを廃止することを認めています: 「PC に登場するシングル プレイヤー ゲームは少なくなるでしょう。」 (135)\n\n2026 年 6 月 30 日 ロックスター労働者が「GTA VI」発売に先立って組合の承認を求める (5)\n\n2026 年 6 月 19 日、GTA VI の発売日が開発者 Web サイトから消える (34)\n\n2026 年 5 月 28 日 ロックスター労働者、労働者 31 人の解雇を受けて「GTA VI」発売に先立って労働組合を結成 (22)\n\n2026 年 6 月 24 日 Rockstar Games が Grand Theft Auto VI (4…",
+      "ImageURL": "https://www.techpowerup.com/img/Kh8CLNIyEhgqpDHR.jpg"
+    },
+    {
+      "Title": "GoogleはPixel Watchの迷惑なタップ・トゥ・ペイのバグを修正した",
+      "Link": "https://www.androidauthority.com/pixel-watch-tap-to-pay-bug-3690858/",
+      "Published": "2026-07-23T19:42:37Z",
+      "Source": "Android Authority",
+      "Category": "Google Pixel Watch",
+      "Summary": "GoogleはPixel Watchの迷惑なタップ・トゥ・ペイのバグを修正した\n\nGoogleによると、Pixel WatchユーザーがExpress Payオプションにアクセスできない原因となっていたバグは解消されたという。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nGoogle が Pixel Watch の迷惑なタップして支払いのバグを修正した\n\n0 • Kaitlyn Cimino / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Express Pay は比較的新しい Pixel Watch 機能で、ユーザーは Google ウォレット アプリを開かずにタップして支払うことができます。\n\n今月初めに何人かのユーザーが、Express Pay が意図したとおりに機能していないと報告しました。\n\nGoogleは現在、この問題は解決したと発表している。\n\n3 月に遡ると、Google は、Express Pay と呼ばれる、Pixel Watch の生活の質を少しだけ向上させる優れたサービスを展開しました。エクスプレス ペイを使用すると、最初に Google ウォレット アプリを開かなくても、タップツーペイや交通機関のオプションにオプションでアクセスできるため、これらの機能を片手で簡単に使用できるようになります。この機能は今月初めに一部のユーザーで利用できなくなったが、現在 Google は修正版を発行したと発表した。\n\nユーザー goo_mason は、7 月初旬に Pixel Watch サブレディットに投稿し、エクスプレス ペイが機能せず、Pixel Watch 4 ではタップツーペイ機能にアクセスするために Google ウォレット アプリがフォアグラウンドにある必要があると述べました。少数のユーザーが同じ問題を経験しているとコメントしました。 PixelCommunityアカウントは今…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/02/Pixel-Watch-4-Workout-Face-scaled.jpg"
+    },
+    {
+      "Title": "AMD Advancing AI 2026: Ryzen AI Embedded X100、Kria AI ロボティクス プラットフォーム、ロボティクス パートナー ネットワーク",
+      "Link": "https://www.techpowerup.com/351008/amd-advancing-ai-2026-ryzen-ai-embedded-x100-kria-ai-robotics-platform-and-robotics-partner-network",
+      "Published": "2026-07-23T19:30:58Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "AMD Advancing AI 2026: Ryzen AI Embedded X100、Kria AI ロボティクス プラットフォーム、ロボティクス パートナー ネットワーク\n\nAdvancing AI 2026 イベントで、AMD は、ロボット工学、産業オートメーション、およびその他のリアルタイム組み込みシステムをカバーするカテゴリである「フィジカル AI」への初の参入を発表しました。同社は、新しい組み込みシリコン、ターンキーロボットプラットフォーム、オープンパートナーエコシステムを発表した。これらは...\n\nAMD Advancing AI 2026: Ryzen AI Embedded X100、Kria AI ロボティクス プラットフォーム、ロボティクス パートナー ネットワーク\n\n2025 年 8 月 4 日 AMD が 192 MB L3 キャッシュと 200 W TDP を搭載した 16 コア Ryzen 9000X3D CPU をリリース (355)\n\n2025 年 8 月 21 日 12VHPWR コネクタの溶融により、最初の AMD RX 9070 XT 被害者が主張 (109)\n\n2026 年 5 月 31 日 AMD が Ryzen 7 5800X3D 10th Anniversary Edition と Ryzen 7 7700X3D を正式発表 (164)\n\n2026 年 4 月 16 日 AMD、Ryzen 7 5800X3D を「AM4 10th Anniversary Edition」として再発売 (198)\n\n2025 年 9 月 8 日 AMD は、Arm ISA は x86 (97) を超える効率上の利点を提供していないと主張\n\n2025 年 9 月 3 日 NVIDIA ディスクリート GPU 市場シェアの優位性が 94% に拡大、ノート レポート (237)\n\n2025 年 9 月 3 日 AMD「Zen 6」プロセッサは、CCD に TSMC 2 nm ノード、IOD に 3 nm ノードを使用 (66)\n\n2026 年…",
+      "ImageURL": "https://www.techpowerup.com/img/huFyOEgbufRzE0fR.jpg"
+    },
+    {
+      "Title": "AMD Advancing AI 2026: Pensando「Salina」DPU と「Vulcano」AI NIC Power Helios Networking",
+      "Link": "https://www.techpowerup.com/351007/amd-advancing-ai-2026-pensando-salina-dpu-and-vulcano-ai-nic-power-helios-networking",
+      "Published": "2026-07-23T19:30:44Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "AMD Advancing AI 2026: Pensando「Salina」DPU と「Vulcano」AI NIC Power Helios Networking\n\nネットワーキングはAMDのAdvancing AI 2026ラックスケール戦略の3番目の柱であり、同社は本日、Heliosラックを接続するAMD Pensandoシリコンおよびファブリックテクノロジーについて詳しく説明しました。 Helios は AMD にとって初のラックスケール設計であるため、同社は多くの GPU を相互接続する際に課題に直面しました。\n\nAMD Advancing AI 2026: Pensando「Salina」DPU と「Vulcano」AI NIC Power Helios Networking\n\n2025 年 8 月 4 日 AMD が 192 MB L3 キャッシュと 200 W TDP を搭載した 16 コア Ryzen 9000X3D CPU をリリース (355)\n\n2025 年 8 月 21 日 12VHPWR コネクタの溶融により、最初の AMD RX 9070 XT 被害者が主張 (109)\n\n2025 年 9 月 3 日 AMD「Zen 6」プロセッサは、CCD に TSMC 2 nm ノード、IOD に 3 nm ノードを使用 (66)\n\n2026 年 5 月 31 日 AMD が Ryzen 7 5800X3D 10th Anniversary Edition と Ryzen 7 7700X3D を正式発表 (164)\n\n2026 年 4 月 16 日 AMD、Ryzen 7 5800X3D を「AM4 10th Anniversary Edition」として再発売 (198)\n\n2025 年 9 月 8 日 AMD は、Arm ISA は x86 (97) を超える効率上の利点を提供していないと主張\n\n2026 年 4 月 21 日 TechPowerUp、Gamers Nexus、または ComputerBase には Ryzen 9950X3D2 …",
+      "ImageURL": "https://www.techpowerup.com/img/oYmCFhKSp6UtFVyQ.jpg"
+    },
+    {
+      "Title": "T-Mobile の値上げにより、ユーザーはライバルの通信事業者に追いやられています。あなたもその一人ですか?",
+      "Link": "https://www.androidauthority.com/t-mobile-price-hike-open-thread-3690843/",
+      "Published": "2026-07-23T19:30:42Z",
+      "Source": "Android Authority",
+      "Category": "T-Mobile",
+      "Summary": "T-Mobile の値上げにより、ユーザーはライバルの通信事業者に追いやられています。あなたもその一人ですか?\n\nT-Mobileのプラン移行と価格引き上げにより、長年のユーザーは代替案を探すことになった。影響を受けましたか？お知らせください。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\n通信事業者とプラン T-Mobile の値上げにより、ユーザーは競合通信事業者に追いやられています。あなたもその一人ですか?\n\n0 • Joe Maring / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください 🗣️ これはオープンスレッドです。\n\nぜひご意見をお聞かせください。コメントであなたの考えを共有し、以下のアンケートに投票してください。あなたの意見は将来のまとめで紹介されるかもしれません。\n\n何も変わらないことはありません。それは特に通信事業者の世界に当てはまります。 T-Mobile は長年にわたってレガシー プランの長期顧客をサポートしてきましたが、今月、多くの顧客にとってそれが突然終了します。\n\n6月末、同社は間もなく廃止されるプランの加入者に対する強制移行と料金値上げを発表した。さらに、これらの廃止されたプランで無料回線を享受していた一部のユーザーは、それらの特典を受ける資格がなくなったことに気づき、月々の請求額がさらに膨らみます。 Tモバイルは後に声明で、これらのメリットを見落としたのは処理上のミスだったと述べたが、全体としてプランの解約は確かにあまり自信を呼び起こしていない。\n\nこうしたプランのアップグレードや廃止は、T-Mobile の顧客に多くの検討材料を与えています。彼らはT-Mobileに留まり、これらの変化を受け入れるのか、それとも芝生が青く見えるかどうか、他の場所に目を向けるでしょうか?\n\nT-Mobile は、新しいプランによる価格とプロモーションの変更について顧客に警告するためにもっと努力すべき…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2025/10/t-mobile-logo-pixel-hero-5-scaled.jpg"
+    },
+    {
+      "Title": "AMD Instinct MI400 シリーズと Helios ラックのデビュー: CDNA 5 が 2 nm に、ROCm.ai と「Gorgon Halo」を追加",
+      "Link": "https://www.techpowerup.com/351006/amd-instinct-mi400-series-and-helios-rack-debut-cdna-5-goes-2-nm-plus-rocm-ai-and-gorgon-halo",
+      "Published": "2026-07-23T19:30:30Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "AMD Instinct MI400 シリーズと Helios ラックのデビュー: CDNA 5 が 2 nm に、ROCm.ai と「Gorgon Halo」を追加\n\nAMDは本日、Advancing AI 2026基調講演を利用して、次世代データセンターGPUファミリーであるInstinct MI400シリーズと、Heliosラックスケールソリューションおよびその両方を支えるCDNA 5アーキテクチャを発表しました。 CDNA 5 は、2 nm ノードに到達した AMD の最初の GPU アーキテクチャであり、主力...\n\nAMD Instinct MI400 シリーズと Helios ラックのデビュー: CDNA 5 が 2 nm に、ROCm.ai と「Gorgon Halo」を追加\n\nメモリ: 432 GB HBM4 (帯域幅 23.3 TB/秒)\n\n計算: 20 PF ピーク MXFP8、40 PF ピーク MXFP4。 FP4、FP6、FP8 データ型をサポート\n\nホスト インターフェイス: ペアの EPYC \"Venice\" CPU に 256 GB/秒の双方向、ハードウェア コヒーレントな帯域幅を提供する 16 レーン AMD Infinity ファブリック\n\n2.9 ExaFLOPS ピーク FP4 および 1.4 ExaFLOPS ピーク FP8\n\n31 TB の HBM4 容量と 1.7 PB/秒のメモリ帯域幅\n\n260 TB/秒のスケールアップ帯域幅 (UALink over Ethernet、「UALoE」経由) および 43 TB/秒のスケールアウト帯域幅\n\nROCm CLI ：エアギャップ展開を含む AI ワークロードのインストール、検証、提供、トラブルシューティングを行うための統合されたコマンドライン エクスペリエンス。\n\nAMD スキル — AMD が作成した専門知識が、主要な AI コーディング アシスタント、特に Claude、Cursor、Codex、Gemini に直接組み込まれているため、開発者は一般的な回答ではなく AMD…",
+      "ImageURL": "https://www.techpowerup.com/img/CeQKaK3Z3EQkT1vN.jpg"
+    },
+    {
+      "Title": "AMD EPYC 9006 LP は、NVIDIA Vera CPU に対する同社の答えです",
+      "Link": "https://www.techpowerup.com/351002/amd-epyc-9006-lp-is-the-companys-answer-to-nvidia-vera-cpu",
+      "Published": "2026-07-23T19:30:16Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "AMD EPYC 9006 LP は、NVIDIA Vera CPU に対する同社の答えです\n\nAMD EPYC 9006「Venice-LP」は、ラックスケール AI ソリューション専用のエンタープライズ プロセッサです。これは、NVIDIA の Grace および Vera CPU とまったく同じシステム哲学に基づいて設計されており、帯域幅の多いネットワーク スタックを備えた AI GPU サーバーのシリアル処理負荷と OS スタックを処理します。その間...\n\nAMD EPYC 9006 LP は、NVIDIA Vera CPU に対する同社の答えです\n\n2025 年 8 月 4 日 AMD が 192 MB L3 キャッシュと 200 W TDP を搭載した 16 コア Ryzen 9000X3D CPU をリリース (355)\n\n2025 年 8 月 21 日 12VHPWR コネクタの溶融により、最初の AMD RX 9070 XT 被害者が主張 (109)\n\n2026 年 5 月 31 日 AMD が Ryzen 7 5800X3D 10th Anniversary Edition と Ryzen 7 7700X3D を正式発表 (164)\n\n2026 年 4 月 16 日 AMD、Ryzen 7 5800X3D を「AM4 10th Anniversary Edition」として再発売 (198)\n\n2025 年 9 月 8 日 AMD は、Arm ISA は x86 (97) を超える効率上の利点を提供していないと主張\n\n2025 年 9 月 3 日 AMD「Zen 6」プロセッサは、CCD に TSMC 2 nm ノード、IOD に 3 nm ノードを使用 (66)\n\n2026 年 6 月 12 日、4000 ドルの AMD Ryzen AI Halo Mini PC 開発キットの予約注文が開始 (47)\n\n2026 年 2 月 19 日 AMD Ryzen 10000「Olympic Ridge」が 6/8/10/12/16/20/24 コアの「Z…",
+      "ImageURL": "https://www.techpowerup.com/img/ulaKfzlM0dBbf4Fa.jpg"
+    },
+    {
+      "Title": "これらの隠し設定を変更することで、Samsung Galaxy 携帯電話のバッテリーが数時間で消耗するのを防ぎました",
+      "Link": "https://www.xda-developers.com/stopped-samsung-galaxy-phone-draining-battery-changing-hidden-settings/",
+      "Published": "2026-07-23T19:30:10Z",
+      "Source": "XDA",
+      "Category": "Samsung",
+      "Summary": "これらの隠し設定を変更することで、Samsung Galaxy 携帯電話のバッテリーが数時間で消耗するのを防ぎました\n\n簡単な変更で一日中バッテリーが持続します。\n\nこれらの隠し設定を変更することで、Samsung Galaxy 携帯電話のバッテリーが数時間で消耗するのを防ぎました\n\nBy Parth Shah 公開 2026 年 7 月 23 日、午後 3 時 30 分 EDT 経験豊富なテック ライターである Parth は、キーボード (またはペン) を巧みに操り、Windows と Mac の両方のオペレーティング システムの複雑さを解明します。彼は過去 6 年間にわたり、複数の出版物でモバイル デバイスやコンピュータ上の常緑のコンテンツを取り上げてきました。彼の作品は AndroidPolice、GuidingTech、TechWiser で見つけることができます。システム アップデートの謎を解き明かすこと、エラー コードを解読すること、または隠された機能を探索することなど、Parth の散文は読者を二進迷路に導きます。技術用語に浸っていないときは、チャイを飲みながら、次のソフトウェアのレビューについて思案し、時にはメカニカル キーボードについての友好的な議論に耽っているのが見受けられます。 XDA アカウントにサインインする 私の Galaxy S25 Ultra には、フラッグシップ携帯電話に求めていたすべてが備わっていましたが、そのバッテリー寿命は無視できなくなっていました。適度に使用していても、パーセンテージがあまりにも早く低下するのを見て、その日が終わる前に充電器に手が伸びていることに気づきました。\n\n私は当初、要求の厳しいアプリのせいだと考えていましたが、本当の問題はバックグラウンドで静かに実行されている一連の設定でした。それらを追跡すると、バッテリー寿命が著しく予測しやすくなりました。\n\n常時表示の動作を調整する\n\n閉じる Samsung の常時表示ディスプレイは便利ですが、継続的に光って時刻、日付、バッテリー残量を 1 分ごとに表示する必要はあ…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/fix-samsung-battery-drain-2.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "(PR) ASRock Rack Unveils Next-Generation Server Portfolio Powered by 6th Gen AMD EPYC Processors",
+      "Link": "https://www.techpowerup.com/351036/asrock-rack-unveils-next-generation-server-portfolio-powered-by-6th-gen-amd-epyc-processors",
+      "Published": "2026-07-23T19:30:02Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
       "Title": "AMD announces 6th Gen AMD EPYC 'Venice' CPUs, up to 256 cores and 512 threads and built for AI",
       "Link": "https://www.tweaktown.com/news/112793/amd-announces-6th-gen-amd-epyc-venice-cpus-up-to-256-cores-and-512-threads-and-built-for-ai/index.html",
       "Published": "2026-07-23T18:31:09Z",
@@ -6249,15 +6384,6 @@
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra-home-decor-scaled.jpg"
     },
     {
-      "Title": "Samsung Galaxy Z Fold 8の壁紙をここからダウンロードしてください",
-      "Link": "https://www.androidauthority.com/download-samsung-galaxy-z-fold-8-wallpapers-3689526/",
-      "Published": "2026-07-22T13:00:58Z",
-      "Source": "Android Authority",
-      "Category": "Wallpapers",
-      "Summary": "Samsung Galaxy Z Fold 8の壁紙をここからダウンロードしてください\n\nSamsung Galaxy Z Fold 8 が正式版となり、たくさんの新しい壁紙が付属します。ここからダウンロードして、どのデバイスでもお楽しみください。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nSamsung Galaxy Z Fold 8の壁紙をここからダウンロードしてください\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください Samsung Galaxy Z Fold 8 が正式版になりました。それは、愛好家が扱える新しくエキサイティングなハードウェアが利用可能になったことを意味すると同時に、新しい壁紙のバッチが到着したことも意味します。壁紙の優れた点は、新しいデバイスを購入することなく、携帯電話に新しいペイントを施すことができる簡単な方法であることです。\n\nSamsung Galaxy Z Fold 8 新しいフォームファクター • より手頃な価格 • 高速充電 • 主力仕様 メーカー希望小売価格: $1,899.99 Samsung のブックスタイルの折りたたみ式を新たに取り入れた Samsung の Galaxy Z Fold 8 は、快適さと携帯性を優先した幅広の折りたたみ式デザインを導入しています。より軽量なボディ、45W の充電、Snapdragon 8 Elite Gen 5 のパワー、Galaxy AI 機能、および有能なデュアル 50MP カメラを備えており、Samsung の折りたたみ式ラインナップに簡単に参入できます。 Amazonで価格を確認 ここからSamsung Galaxy Z Fold 8の壁紙をダウンロードしてください\n\n基本から始めましょう。以下に示す画像プレビューを単純に保存しないことをお勧めします。これらの壁紙のプレビューは、Web サイトのパフォーマンスを向上させるために圧縮および最適化されています…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galazy-Z-Fold-8-display-on-straight-on.jpg"
-    },
-    {
       "Title": "新しい Galaxy フォルダブルは 1 つだけ Linux ターミナルをサポートしており、どこでもサポートされているわけではありません",
       "Link": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-flip-8-linux-terminal-support-3688560/",
       "Published": "2026-07-22T13:00:58Z",
@@ -6265,6 +6391,15 @@
       "Category": "Samsung Galaxy Z Flip 8",
       "Summary": "新しい Galaxy フォルダブルは 1 つだけ Linux ターミナルをサポートしており、どこでもサポートされているわけではありません\n\nSamsung Galaxy Z Fold 8、Z Flip 8、および Z Fold 8 Ultra は公式です。ただし、本格的な Linux アプリを実行できるのは 1 つだけです。運が良ければ。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\n新しい Galaxy フォルダブルは 1 つだけ Linux ターミナルをサポートしており、どこでもサポートされているわけではありません\n\n0 • Hadlee Simons / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Exynos を搭載した Samsung Galaxy Z Flip 8 は、Linux ターミナル機能をサポートしています。\n\nこの機能を使用すると、Linux 環境と本格的な Linux デスクトップ アプリを携帯電話で実行できます。\n\n残念ながら、この機能は Galaxy Z Fold 8 または Fold 8 Ultra では利用できず、一部の Flip 8 モデルでのみ利用可能です。\n\nSamsung は、Unpacked イベントで Galaxy Z Flip 8 、Galaxy Z Fold 8 、および Galaxy Z Fold 8 Ultra を発表しました。あらゆるニーズに応えられる折りたたみ式スマートフォンがあるように見えますが、デバイス上で Linux を実行したい場合はどうすればよいでしょうか?運が良ければ、折りたたみ式のものは 1 つしかないことがわかります。\n\nAndroid Authorityは、Exynosを搭載したGalaxy Z Flip 8がLinuxターミナル機能をサポートしていることを確認しました。この機能は開発者向けオプションから表示され、Linux 開…",
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra-Z-Fold-8-and-Z-Flip-8-family-on-table.jpg"
+    },
+    {
+      "Title": "Samsung Galaxy Z Fold 8の壁紙をここからダウンロードしてください",
+      "Link": "https://www.androidauthority.com/download-samsung-galaxy-z-fold-8-wallpapers-3689526/",
+      "Published": "2026-07-22T13:00:58Z",
+      "Source": "Android Authority",
+      "Category": "Wallpapers",
+      "Summary": "Samsung Galaxy Z Fold 8の壁紙をここからダウンロードしてください\n\nSamsung Galaxy Z Fold 8 が正式版となり、たくさんの新しい壁紙が付属します。ここからダウンロードして、どのデバイスでもお楽しみください。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nSamsung Galaxy Z Fold 8の壁紙をここからダウンロードしてください\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください Samsung Galaxy Z Fold 8 が正式版になりました。それは、愛好家が扱える新しくエキサイティングなハードウェアが利用可能になったことを意味すると同時に、新しい壁紙のバッチが到着したことも意味します。壁紙の優れた点は、新しいデバイスを購入することなく、携帯電話に新しいペイントを施すことができる簡単な方法であることです。\n\nSamsung Galaxy Z Fold 8 新しいフォームファクター • より手頃な価格 • 高速充電 • 主力仕様 メーカー希望小売価格: $1,899.99 Samsung のブックスタイルの折りたたみ式を新たに取り入れた Samsung の Galaxy Z Fold 8 は、快適さと携帯性を優先した幅広の折りたたみ式デザインを導入しています。より軽量なボディ、45W の充電、Snapdragon 8 Elite Gen 5 のパワー、Galaxy AI 機能、および有能なデュアル 50MP カメラを備えており、Samsung の折りたたみ式ラインナップに簡単に参入できます。 Amazonで価格を確認 ここからSamsung Galaxy Z Fold 8の壁紙をダウンロードしてください\n\n基本から始めましょう。以下に示す画像プレビューを単純に保存しないことをお勧めします。これらの壁紙のプレビューは、Web サイトのパフォーマンスを向上させるために圧縮および最適化されています…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galazy-Z-Fold-8-display-on-straight-on.jpg"
     },
     {
       "Title": "Audible、ドラキュラの新たなフルキャスト版を発表",
@@ -6294,15 +6429,6 @@
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Flip-8-showing-crease-screen-on.jpg"
     },
     {
-      "Title": "S Pen ファンにとって悪いニュース: Galaxy Z Fold 8 シリーズは Samsung のスタイラスをサポートしていません",
-      "Link": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-series-s-pen-support-3687201/",
-      "Published": "2026-07-22T13:00:40Z",
-      "Source": "Android Authority",
-      "Category": "Samsung S Pen",
-      "Summary": "S Pen ファンにとって悪いニュース: Galaxy Z Fold 8 シリーズは Samsung のスタイラスをサポートしていません\n\nGalaxy Z Fold 8シリーズは、印象的なスペックを備えた公式製品です。ただし、SamsungのSペンのサポートは復活しません。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nSペンファンにとって悪いニュース: Galaxy Z Fold 8シリーズはSamsungのスタイラスをサポートしていません\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Galaxy Z Fold 8 シリーズは公式であり、携帯電話は印象的なスペックを備えています。\n\nただし、Z Fold 8 Ultra も Z Fold 8 も Samsung の S ペンをサポートしていません。\n\n同社は当初、昨年のGalaxy Z Fold 7でSペンのサポートを削除した。\n\nSamsung は本日、ロンドンで開催された Galaxy Unpacked イベントで Galaxy Z Fold 8 Ultra、Z Fold 8、および Z Flip 8 を発表しました。これらの携帯電話には強力なスペックと便利な機能が満載されていますが、またしても欠けているものが 1 つあります。それは S ペンです。\n\nGalaxy Z Fold 8 も Z Fold 8 Ultra も S ペンをサポートしていません。 Samsung は Galaxy Z Fold 7 でスタイラスのサポートを廃止したため、これはまったく驚くべきことではありません。ただし、幅広の Z Fold 8 で S ペンのサポートが復活することを期待していたとしたら、残念ながら運はありません。\n\n折りたたみ式 Galaxy Z Fold で S ペンを使用しましたか?\n\nサムスンが携帯電話を薄くするために Z Fold 7 からデジタイザー層を削除したため、S…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8.-Z-Fold-8-Ultra-stood-up.jpg"
-    },
-    {
       "Title": "Galaxy Z Fold 8 Ultraは、2026年のSamsungの真の折りたたみフラッグシップとして登場",
       "Link": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-ultra-launch-specs-features-price-availability-3688533/",
       "Published": "2026-07-22T13:00:40Z",
@@ -6310,6 +6436,15 @@
       "Category": "Samsung Galaxy Z Fold 8",
       "Summary": "Galaxy Z Fold 8 Ultraは、2026年のSamsungの真の折りたたみフラッグシップとして登場\n\nサムスンは、Galaxy Z Fold 8、Galaxy Z Flip 8、Galaxy Watch 9、Galaxy Watch Ultra 2とともにGalaxy Z Fold 8 Ultraを発売しました。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nGalaxy Z Fold 8 Ultraは、2026年のSamsungの真の折り畳み式フラッグシップとして登場します\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Samsung は、Galaxy Z Fold 8、Galaxy Z Flip 8、Galaxy Watch 9、Galaxy Watch Ultra 2 とともに Galaxy Z Fold 8 Ultra を発表しました。\n\nGalaxy Z Fold 8 Ultraは、昨年のZ Fold 7をベースに、より大きなバッテリー、45Wの充電、ウルトラグレードのカメラ、そして開けやすいデザインを備えています。\n\n幅が広くなった新しい Galaxy Z Fold 8 とは異なり、Fold 8 Ultra はプレミアム ハードウェアと AI 機能を備えた Samsung の主力ブックスタイル折りたたみ式製品であり続けます。\n\n絶え間なく続くリークと噂の後、サムスンはついに次世代の折りたたみ式製品を正式に発表した。同社は本日の Unpacked イベントを利用して、Galaxy Z Fold 8 Ultra、Galaxy Z Fold 8、および Galaxy Z Flip 8 を発表し、同時に Galaxy Watch 9 と Galaxy Watch Ultra 2 も発表しました。\n\nしかし、本当に興味深いのは折りたたみ式のラインナップです。サムスンは初めてブック型の折りたたみ式端末を 2 種類販…",
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8.-Ultra-all-4-colors.jpg"
+    },
+    {
+      "Title": "S Pen ファンにとって悪いニュース: Galaxy Z Fold 8 シリーズは Samsung のスタイラスをサポートしていません",
+      "Link": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-series-s-pen-support-3687201/",
+      "Published": "2026-07-22T13:00:40Z",
+      "Source": "Android Authority",
+      "Category": "Samsung S Pen",
+      "Summary": "S Pen ファンにとって悪いニュース: Galaxy Z Fold 8 シリーズは Samsung のスタイラスをサポートしていません\n\nGalaxy Z Fold 8シリーズは、印象的なスペックを備えた公式製品です。ただし、SamsungのSペンのサポートは復活しません。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nSペンファンにとって悪いニュース: Galaxy Z Fold 8シリーズはSamsungのスタイラスをサポートしていません\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Galaxy Z Fold 8 シリーズは公式であり、携帯電話は印象的なスペックを備えています。\n\nただし、Z Fold 8 Ultra も Z Fold 8 も Samsung の S ペンをサポートしていません。\n\n同社は当初、昨年のGalaxy Z Fold 7でSペンのサポートを削除した。\n\nSamsung は本日、ロンドンで開催された Galaxy Unpacked イベントで Galaxy Z Fold 8 Ultra、Z Fold 8、および Z Flip 8 を発表しました。これらの携帯電話には強力なスペックと便利な機能が満載されていますが、またしても欠けているものが 1 つあります。それは S ペンです。\n\nGalaxy Z Fold 8 も Z Fold 8 Ultra も S ペンをサポートしていません。 Samsung は Galaxy Z Fold 7 でスタイラスのサポートを廃止したため、これはまったく驚くべきことではありません。ただし、幅広の Z Fold 8 で S ペンのサポートが復活することを期待していたとしたら、残念ながら運はありません。\n\n折りたたみ式 Galaxy Z Fold で S ペンを使用しましたか?\n\nサムスンが携帯電話を薄くするために Z Fold 7 からデジタイザー層を削除したため、S…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8.-Z-Fold-8-Ultra-stood-up.jpg"
     },
     {
       "Title": "サムスンはついにGalaxy Z Fold 8シリーズにそれに値する充電アップグレードを提供します",
@@ -6321,13 +6456,13 @@
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-and-Z-Fold-8-Ultra-on-table-scaled.jpg"
     },
     {
-      "Title": "Galaxy Watch 9 と Ultra 2 を 30 分間使用しました - 1 つの新機能に驚かされました",
-      "Link": "https://www.androidauthority.com/samsung-galaxy-watch-9-ultra-2-hands-on-3689712/",
+      "Title": "サムスンの新しい折りたたみ式携帯電話はシリコンカーボンバッテリーを搭載した初のGalaxy携帯電話となる",
+      "Link": "https://www.androidauthority.com/samsung-first-phones-silicon-carbon-batteries-3689630/",
       "Published": "2026-07-22T13:00:36Z",
       "Source": "Android Authority",
-      "Category": "Samsung Galaxy Watch Ultra 2",
-      "Summary": "Galaxy Watch 9 と Ultra 2 を 30 分間使用しました - 1 つの新機能に驚かされました\n\nGalaxy Watch 9 と Ultra 2 は Samsung の最新かつ最高のスマートウォッチで、それらを使用した後、1 つの新機能に驚かされました。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nスマートウォッチ Galaxy Watch 9 と Ultra 2 を 30 分間使用しました — 1 つの新機能に驚かされました\n\n0 • Paul Jones / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください Galaxy Watch 8 と Galaxy Watch Ultra は、好き嫌いが別れる Samsung ウォッチに新しいデザインを導入しました。私は前者の陣営にいたので、新しい Galaxy Watch 9 と Ultra 2 を試すことができたとき、Samsung がどのような改良を加えたのかを見ることに興奮しました。\n\n実際のところ、あまり変わっていません。私が最も感銘を受けたのは、Google のソフトウェア機能です。\n\nどのGalaxy Watchを購入しますか?\n\nRaise to Talk はまるで魔法のようです\n\nZac Kew-Denniss / Android Authority Raise to Talk は、Pixel Watch 4 でデビューした機能です。名前が示すとおり、時計を口に近づけると、Gemini はウェイク ワードを必要とせずに聞き始めます。 Raise to Talk を初めて体験したのは Galaxy Watch 9 と Ultra 2 でしたが、とても気に入って使っていることに驚きました。\n\nサムスンによれば、この時計は時間を確認するために手首を上げることと、ジェミニを起動することの違いを区別できるという。半信半疑だったので、ごまかそうと1…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Watch-Ultra-2-titanium-grey.jpg"
+      "Category": "Samsung Galaxy Z Fold 8",
+      "Summary": "サムスンの新しい折りたたみ式携帯電話はシリコンカーボンバッテリーを搭載した初のGalaxy携帯電話となる\n\nサムスンは、同社の新しい折りたたみ式携帯電話がシリコンカーボン電池を搭載した初のギャラクシー携帯電話であることを認めた。これが重要な理由です。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nサムスンの新しい折りたたみ式携帯電話はシリコンカーボン電池を搭載した初のGalaxy携帯電話となる\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Samsung は、Galaxy Z Flip 8、Galaxy Z Fold 8、および Galaxy Z Fold 8 Ultra がすべてシリコンカーボンバッテリーを搭載していることを確認しました。\n\nしたがって、これらはシリコンカーボンバッテリー技術を搭載した最初のGalaxy携帯電話となります。\n\nサムスンはこの技術の詳細については明らかにしなかったが、バッテリーの状態は以前の製品と「一致している」と期待できると述べた。\n\nシリコンカーボンバッテリーを搭載したスマートフォンは、HONOR がこの技術をデビューさせた 2024 年から登場しています。それ以来、OnePlus、OPPO、Xiaomi などがこのバッテリー技術を採用しているのを目にしてきました。サムスンはこれまで注目を集めた数少ない抵抗勢力の一つだったが、今日では状況が変わった。\n\nサムスンはメディアブリーフィングとメディアラウンドテーブルで、「Galaxy Z Flip 8」、「Galaxy Z Fold 8」、「Galaxy Z Fold 8 Ultra」がすべてシリコンカーボンバッテリーを搭載していることを認めた。これは、このテクノロジーを搭載した最初の Galaxy スマートフォンであることを意味します。さらに、Galaxy Watch Ultra 2 はシリコンカーボンバッテリーの恩恵も受けており、おそらくこの技…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z8-family-Z-Fold-8-Z-Fold-8-Ultra-Z-Flip-8-on-table.jpg"
     },
     {
       "Title": "Samsung は One UI 9 安定版を発売しますが、Galaxy S26 は待たなければなりません",
@@ -6339,13 +6474,13 @@
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra-One-UI-9_1.jpg"
     },
     {
-      "Title": "サムスンの新しい折りたたみ式携帯電話はシリコンカーボンバッテリーを搭載した初のGalaxy携帯電話となる",
-      "Link": "https://www.androidauthority.com/samsung-first-phones-silicon-carbon-batteries-3689630/",
+      "Title": "Galaxy Watch 9 と Ultra 2 を 30 分間使用しました - 1 つの新機能に驚かされました",
+      "Link": "https://www.androidauthority.com/samsung-galaxy-watch-9-ultra-2-hands-on-3689712/",
       "Published": "2026-07-22T13:00:36Z",
       "Source": "Android Authority",
-      "Category": "Samsung Galaxy Z Fold 8",
-      "Summary": "サムスンの新しい折りたたみ式携帯電話はシリコンカーボンバッテリーを搭載した初のGalaxy携帯電話となる\n\nサムスンは、同社の新しい折りたたみ式携帯電話がシリコンカーボン電池を搭載した初のギャラクシー携帯電話であることを認めた。これが重要な理由です。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nサムスンの新しい折りたたみ式携帯電話はシリコンカーボン電池を搭載した初のGalaxy携帯電話となる\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Samsung は、Galaxy Z Flip 8、Galaxy Z Fold 8、および Galaxy Z Fold 8 Ultra がすべてシリコンカーボンバッテリーを搭載していることを確認しました。\n\nしたがって、これらはシリコンカーボンバッテリー技術を搭載した最初のGalaxy携帯電話となります。\n\nサムスンはこの技術の詳細については明らかにしなかったが、バッテリーの状態は以前の製品と「一致している」と期待できると述べた。\n\nシリコンカーボンバッテリーを搭載したスマートフォンは、HONOR がこの技術をデビューさせた 2024 年から登場しています。それ以来、OnePlus、OPPO、Xiaomi などがこのバッテリー技術を採用しているのを目にしてきました。サムスンはこれまで注目を集めた数少ない抵抗勢力の一つだったが、今日では状況が変わった。\n\nサムスンはメディアブリーフィングとメディアラウンドテーブルで、「Galaxy Z Flip 8」、「Galaxy Z Fold 8」、「Galaxy Z Fold 8 Ultra」がすべてシリコンカーボンバッテリーを搭載していることを認めた。これは、このテクノロジーを搭載した最初の Galaxy スマートフォンであることを意味します。さらに、Galaxy Watch Ultra 2 はシリコンカーボンバッテリーの恩恵も受けており、おそらくこの技…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z8-family-Z-Fold-8-Z-Fold-8-Ultra-Z-Flip-8-on-table.jpg"
+      "Category": "Samsung Galaxy Watch Ultra 2",
+      "Summary": "Galaxy Watch 9 と Ultra 2 を 30 分間使用しました - 1 つの新機能に驚かされました\n\nGalaxy Watch 9 と Ultra 2 は Samsung の最新かつ最高のスマートウォッチで、それらを使用した後、1 つの新機能に驚かされました。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nスマートウォッチ Galaxy Watch 9 と Ultra 2 を 30 分間使用しました — 1 つの新機能に驚かされました\n\n0 • Paul Jones / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください Galaxy Watch 8 と Galaxy Watch Ultra は、好き嫌いが別れる Samsung ウォッチに新しいデザインを導入しました。私は前者の陣営にいたので、新しい Galaxy Watch 9 と Ultra 2 を試すことができたとき、Samsung がどのような改良を加えたのかを見ることに興奮しました。\n\n実際のところ、あまり変わっていません。私が最も感銘を受けたのは、Google のソフトウェア機能です。\n\nどのGalaxy Watchを購入しますか?\n\nRaise to Talk はまるで魔法のようです\n\nZac Kew-Denniss / Android Authority Raise to Talk は、Pixel Watch 4 でデビューした機能です。名前が示すとおり、時計を口に近づけると、Gemini はウェイク ワードを必要とせずに聞き始めます。 Raise to Talk を初めて体験したのは Galaxy Watch 9 と Ultra 2 でしたが、とても気に入って使っていることに驚きました。\n\nサムスンによれば、この時計は時間を確認するために手首を上げることと、ジェミニを起動することの違いを区別できるという。半信半疑だったので、ごまかそうと1…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Watch-Ultra-2-titanium-grey.jpg"
     },
     {
       "Title": "Galaxy Z Flip 8を試してみたところ、一つ明らかなことは、サムスンは諦めたということだ",
@@ -7500,13 +7635,13 @@
       "ImageURL": "https://www.servethehome.com/wp-content/uploads/2026/07/NVIDIA-Vera-CPU.jpg"
     },
     {
-      "Title": "Nvidia が推論用の R​​ubin アーキテクチャの最適化について詳しく説明 – 改善は GPU からラックまでのパフォーマンスと効率の向上を目指しています",
-      "Link": "https://www.tomshardware.com/pc-components/gpus/nvidia-details-rubin-architectural-optimizations-for-inference-improvements-target-better-performance-and-efficiency-from-the-gpu-to-the-rack",
+      "Title": "Nvidia が AI データセンター向け Vera CPU を詳しく調査 — SPEC CPU 2026 ベンチマークの公開、オリンパスのアーキテクチャ詳細など",
+      "Link": "https://www.tomshardware.com/pc-components/cpus/nvidia-spills-the-beans-on-vera-cpu-spec-benchmarks-revealed-olympus-architecture-detailed-and-more",
       "Published": "2026-07-21T15:00:00Z",
       "Source": "Tom's Hardware",
       "Category": "PC Components",
-      "Summary": "Nvidia が推論用の Rubin アーキテクチャの最適化について詳しく説明 – 改善は GPU からラックまでのパフォーマンスと効率の向上を目指しています\n\nフロップスは始まりにすぎません\n\nNvidia が推論用の Rubin アーキテクチャの最適化について詳しく説明 – 改善は GPU からラックまでのパフォーマンスと効率の向上を目指しています\n\n(画像クレジット: Future) リンクをコピー\n\n0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 今年後半に登場予定の Nvidia の次期 Vera Rubin プラットフォームは、AI の世界がフロンティア トレーニングの実行ではなく、大規模なエージェント AI 推論の要求によって支配される時代に移行する中で舞台に立つことになります。エージェントのワークフローで生成されたトークンに対する渇望と、それらを迅速、効率的、低単価で配信するという要求が、現在議論の中心となっています。\n\nVera CPU に関する新しいパフォーマンス データと、それがエージェント AI ワークロードの高速化にどのように役立つかについてはすでに詳しく説明しましたが、Nvidia が今日共有するのはそれだけではありません。また、Rubin アーキテクチャのいくつかの新機能と、それらの機能が GPU レベルからラックスケールおよびデータセンタースケールのこのアクセラレータ プラットフォームの実装まで推論効率を向上させることを目的としているかについても詳しく説明します。\n\nVera Rubin NVL72 ラックスケール システム全体は、36 個の Vera CPU と 72 個の Rubin GPU で構築されていますが、今日の焦点は GPU そのものです。 Rubin は、Nvidia 高帯域幅インターフェイスを使用して、2 つのコンピューティング ダイを 1 つのパッケージに結合します。結果として得られるチップは、合計 896 個の Tensor コアを含む 224 個の…",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/T4kXDWEu4dHUaorbH82C2Z-1431-80.jpg"
+      "Summary": "Nvidia が AI データセンター向け Vera CPU を詳しく調査 — SPEC CPU 2026 ベンチマークの公開、オリンパスのアーキテクチャ詳細など\n\nヴェラとヴェネツィアの対決の舞台を整える。\n\nNvidia が AI データセンター向け Vera CPU を詳しく調査 — SPEC CPU 2026 ベンチマークの公開、オリンパスのアーキテクチャ詳細など\n\nヴェラとヴェネツィアの対決の舞台を整える。\n\n(画像クレジット: Nvidia) ページ 1/3: Nvidia Vera CPU\n\nページ 2: Nvidia Vera CPU アーキテクチャ -- Olympus コアの詳細\n\nページ 3: Vera Rubin NVL72、Bluefield、および NVLink\n\n3 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する Nvidia の Vera CPU は、データセンター CPU 市場の主要プレーヤーになるための最初の入札です。 Grace はある程度の成功を収めていますが (特に Meta での Grace スタンドアロン展開で)、Vera はカスタム コア設計を備えた Nvidia の最初の CPU です。また、エージェント AI の需要を背景にサーバー CPU 市場がここ数か月で爆発的に成長したこともあり、理想的な時期に到来しています。\n\nVera は、クラウドにおける AMD や Intel の市場シェアを少しずつ奪うために構築されたチップではありません。ハイパースケーラーが従来のクラウドを超えて AI インフラストラクチャを拡大しようとしているため、拡大する市場で市場シェアを獲得するために構築されています。そのため、Nvidia の x86 競合他社とは大きく異なる方法で設計されており、一連の Arm ベースの設計と比較して、いくつかのユニークなアーキテクチャ設計ポイントも保持しています。\n\nNvidia は、今年下半期に予定されている一般提供開始に向けて、Vera につ…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/tAXNckhbwBFZknaHqvpJe7-1920-80.jpg"
     },
     {
       "Title": "Nvidia、「数十万台の Grace スタンドアロン サーバー」を出荷 — CPU がエージェント データ センターの中心となる中、GPU 企業はメッセージングを軸に",
@@ -7518,13 +7653,13 @@
       "ImageURL": "https://cdn.mos.cms.futurecdn.net/64zg6rxBUaGx8y7ooex4WA-2560-80.jpg"
     },
     {
-      "Title": "Nvidia が AI データセンター向け Vera CPU を詳しく調査 — SPEC CPU 2026 ベンチマークの公開、オリンパスのアーキテクチャ詳細など",
-      "Link": "https://www.tomshardware.com/pc-components/cpus/nvidia-spills-the-beans-on-vera-cpu-spec-benchmarks-revealed-olympus-architecture-detailed-and-more",
+      "Title": "Nvidia が推論用の R​​ubin アーキテクチャの最適化について詳しく説明 – 改善は GPU からラックまでのパフォーマンスと効率の向上を目指しています",
+      "Link": "https://www.tomshardware.com/pc-components/gpus/nvidia-details-rubin-architectural-optimizations-for-inference-improvements-target-better-performance-and-efficiency-from-the-gpu-to-the-rack",
       "Published": "2026-07-21T15:00:00Z",
       "Source": "Tom's Hardware",
       "Category": "PC Components",
-      "Summary": "Nvidia が AI データセンター向け Vera CPU を詳しく調査 — SPEC CPU 2026 ベンチマークの公開、オリンパスのアーキテクチャ詳細など\n\nヴェラとヴェネツィアの対決の舞台を整える。\n\nNvidia が AI データセンター向け Vera CPU を詳しく調査 — SPEC CPU 2026 ベンチマークの公開、オリンパスのアーキテクチャ詳細など\n\nヴェラとヴェネツィアの対決の舞台を整える。\n\n(画像クレジット: Nvidia) ページ 1/3: Nvidia Vera CPU\n\nページ 2: Nvidia Vera CPU アーキテクチャ -- Olympus コアの詳細\n\nページ 3: Vera Rubin NVL72、Bluefield、および NVLink\n\n3 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する Nvidia の Vera CPU は、データセンター CPU 市場の主要プレーヤーになるための最初の入札です。 Grace はある程度の成功を収めていますが (特に Meta での Grace スタンドアロン展開で)、Vera はカスタム コア設計を備えた Nvidia の最初の CPU です。また、エージェント AI の需要を背景にサーバー CPU 市場がここ数か月で爆発的に成長したこともあり、理想的な時期に到来しています。\n\nVera は、クラウドにおける AMD や Intel の市場シェアを少しずつ奪うために構築されたチップではありません。ハイパースケーラーが従来のクラウドを超えて AI インフラストラクチャを拡大しようとしているため、拡大する市場で市場シェアを獲得するために構築されています。そのため、Nvidia の x86 競合他社とは大きく異なる方法で設計されており、一連の Arm ベースの設計と比較して、いくつかのユニークなアーキテクチャ設計ポイントも保持しています。\n\nNvidia は、今年下半期に予定されている一般提供開始に向けて、Vera につ…",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/tAXNckhbwBFZknaHqvpJe7-1920-80.jpg"
+      "Summary": "Nvidia が推論用の Rubin アーキテクチャの最適化について詳しく説明 – 改善は GPU からラックまでのパフォーマンスと効率の向上を目指しています\n\nフロップスは始まりにすぎません\n\nNvidia が推論用の Rubin アーキテクチャの最適化について詳しく説明 – 改善は GPU からラックまでのパフォーマンスと効率の向上を目指しています\n\n(画像クレジット: Future) リンクをコピー\n\n0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 今年後半に登場予定の Nvidia の次期 Vera Rubin プラットフォームは、AI の世界がフロンティア トレーニングの実行ではなく、大規模なエージェント AI 推論の要求によって支配される時代に移行する中で舞台に立つことになります。エージェントのワークフローで生成されたトークンに対する渇望と、それらを迅速、効率的、低単価で配信するという要求が、現在議論の中心となっています。\n\nVera CPU に関する新しいパフォーマンス データと、それがエージェント AI ワークロードの高速化にどのように役立つかについてはすでに詳しく説明しましたが、Nvidia が今日共有するのはそれだけではありません。また、Rubin アーキテクチャのいくつかの新機能と、それらの機能が GPU レベルからラックスケールおよびデータセンタースケールのこのアクセラレータ プラットフォームの実装まで推論効率を向上させることを目的としているかについても詳しく説明します。\n\nVera Rubin NVL72 ラックスケール システム全体は、36 個の Vera CPU と 72 個の Rubin GPU で構築されていますが、今日の焦点は GPU そのものです。 Rubin は、Nvidia 高帯域幅インターフェイスを使用して、2 つのコンピューティング ダイを 1 つのパッケージに結合します。結果として得られるチップは、合計 896 個の Tensor コアを含む 224 個の…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/T4kXDWEu4dHUaorbH82C2Z-1431-80.jpg"
     },
     {
       "Title": "Moonshot AI が米国のクローズドソース競合他社を価格で下回り、Kimi K3 が AI 業界を揺るがす - しかし、巨大な 2.8T オープンウェイト モデルを大規模に導入するには依然として本格的なハードウェアが必要",
@@ -7734,15 +7869,6 @@
       "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/01/how-to-use-steam-link-feature-image.jpeg?w=1600\u0026h=900\u0026fit=crop"
     },
     {
-      "Title": "インテル、インテル 4 でフォーティネットの次世代ファイアウォール ASIC を共同開発および製造へ — ノードが最初の外部顧客を獲得",
-      "Link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-to-co-develop-and-manufacture-fortinets-next-gen-firewall-asic",
-      "Published": "2026-07-21T13:00:00Z",
-      "Source": "Tom's Hardware",
-      "Category": "Manufacturing",
-      "Summary": "インテル、インテル 4 でフォーティネットの次世代ファイアウォール ASIC を共同開発および製造へ — ノードが最初の外部顧客を獲得\n\nこの契約により、フォーティネットはインテル初のサイバーセキュリティベンダーとなる\n\nインテル、インテル 4 でフォーティネットの次世代ファイアウォール ASIC を共同開発および製造へ — ノードが最初の外部顧客を獲得\n\nこの契約により、フォーティネットはインテルの製造顧客リストに載った最初のサイバーセキュリティベンダーとなった。\n\n(画像クレジット: Getty / Justin Sullivan) リンクをコピー\n\n0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する インテルとフォーティネットは、フォーティネットの FortiGate ファイアウォールの背後にある次世代のカスタム シリコンであるフォーティネット セキュリティ プロセッサ 6 (SP6) を開発するための戦略的提携を発表しました。インテルはチップ設計、高度なパッケージング、製造を SP6 プログラムに貢献し、フォーティネットはインテル シリコンの顧客として指名された初のサイバーセキュリティ ベンダーとなります。\n\nIntelはTom's Hardwareに対し、SP6は同社がこれまで自社製品のみに使用してきたEUVプロセスであるIntel 4に基づいて構築されると述べ、フォーティネットはインテルのシリコン顧客として指名された初のサイバーセキュリティベンダーであり、ノードの外部顧客としても初めて指名されたことになると語った。しかし、この発表には生産スケジュールは明記されておらず、CEOのLip-Bu Tan氏が複数のファウンドリ顧客からのコミットメントを期待していると述べたのと同じ2026年第3四半期から第4四半期にかけて発表される。\n\nRyzen がトップへ: AMD がゲーム CPU 市場でどのように革新したか\n\nARM はどのように PC に導入されているのか\n\nAMD CES 2026 ゲーム ト…",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/He5JDZcjWSgZSkKuALnXBf-2000-80.jpg"
-    },
-    {
       "Title": "Halo: Campaign Evolved、Hell is Us などが Xbox Game Pass に加わりました",
       "Link": "https://www.kitguru.net/gaming/matthew-wilson/halo-campaign-evolved-hell-is-us-and-more-join-xbox-game-pass/",
       "Published": "2026-07-21T13:00:00Z",
@@ -7750,6 +7876,15 @@
       "Category": "xbox",
       "Summary": "Halo: Campaign Evolved、Hell is Us などが Xbox Game Pass に加わりました\n\nマイクロソフトは、Xbox Game Pass の次のタイトルの波を明らかにしました。まず、Hell is Us が市場投入から 1 年を経て今週サービスに加わり、あなたの機知と戦闘スキルを試す非常に非直線的な黙示録的な冒険を提供します。ただし、最大のヘッドライナーはもちろん Halo: Campaign Evolved です。\n\nHalo: Campaign Evolved、Hell is Us などが Xbox Game Pass に加わりました\n\nMatthew Wilson 1 時間前 注目のテクノロジー ニュース , ソフトウェア \u0026 ゲーム\n\nマイクロソフトは、Xbox Game Pass の次のタイトルの波を明らかにしました。まず、Hell is Us が市場投入から 1 年を経て今週サービスに加わり、あなたの機知と戦闘スキルを試す非常に非直線的な黙示録的な冒険を提供します。ただし、大きなヘッドライナーはもちろん Halo: Campaign Evolved です。これは、オリジナルの Halo キャンペーンを完全にリメイクし、いくつかのコンテンツを追加したものです。 Halo: Campaign Evolved は、シリーズにとって大きな変更点であり、初めて完全に Unreal Engine 5 で実行されます。ゲームのグラフィックは素晴らしく見えますが、Halo シューターのクラシックな雰囲気が新しいエンジンでうまく反映されるかどうかを確認するには、自分でプレイする必要があります。以下は、今後数週間で Game Pass に参加するタイトルの完全なリストと、サポートされているプラットフォームと日付です: Shift at Midnight (クラウド、XBOX シリーズ X|S、PC) – 7 月 22 日\n\nHell is Us (クラウド、XBOX シリーズ X|S、PC) – 7 月 23 日\n\nHalo: Campaign…",
       "ImageURL": "https://www.kitguru.net/wp-content/uploads/2024/10/Halo-UE5-732x330.jpg"
+    },
+    {
+      "Title": "インテル、インテル 4 でフォーティネットの次世代ファイアウォール ASIC を共同開発および製造へ — ノードが最初の外部顧客を獲得",
+      "Link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-to-co-develop-and-manufacture-fortinets-next-gen-firewall-asic",
+      "Published": "2026-07-21T13:00:00Z",
+      "Source": "Tom's Hardware",
+      "Category": "Manufacturing",
+      "Summary": "インテル、インテル 4 でフォーティネットの次世代ファイアウォール ASIC を共同開発および製造へ — ノードが最初の外部顧客を獲得\n\nこの契約により、フォーティネットはインテル初のサイバーセキュリティベンダーとなる\n\nインテル、インテル 4 でフォーティネットの次世代ファイアウォール ASIC を共同開発および製造へ — ノードが最初の外部顧客を獲得\n\nこの契約により、フォーティネットはインテルの製造顧客リストに載った最初のサイバーセキュリティベンダーとなった。\n\n(画像クレジット: Getty / Justin Sullivan) リンクをコピー\n\n0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する インテルとフォーティネットは、フォーティネットの FortiGate ファイアウォールの背後にある次世代のカスタム シリコンであるフォーティネット セキュリティ プロセッサ 6 (SP6) を開発するための戦略的提携を発表しました。インテルはチップ設計、高度なパッケージング、製造を SP6 プログラムに貢献し、フォーティネットはインテル シリコンの顧客として指名された初のサイバーセキュリティ ベンダーとなります。\n\nIntelはTom's Hardwareに対し、SP6は同社がこれまで自社製品のみに使用してきたEUVプロセスであるIntel 4に基づいて構築されると述べ、フォーティネットはインテルのシリコン顧客として指名された初のサイバーセキュリティベンダーであり、ノードの外部顧客としても初めて指名されたことになると語った。しかし、この発表には生産スケジュールは明記されておらず、CEOのLip-Bu Tan氏が複数のファウンドリ顧客からのコミットメントを期待していると述べたのと同じ2026年第3四半期から第4四半期にかけて発表される。\n\nRyzen がトップへ: AMD がゲーム CPU 市場でどのように革新したか\n\nARM はどのように PC に導入されているのか\n\nAMD CES 2026 ゲーム ト…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/He5JDZcjWSgZSkKuALnXBf-2000-80.jpg"
     },
     {
       "Title": "(PR) ASRock Industrial が Axelera Metis AIPU カードをエッジ AI プラットフォームに統合",
@@ -8500,20 +8635,20 @@
     },
     {
       "Title": "このアプリは私の古い Android 携帯電話を PlayStation Portable に変えました",
-      "Link": "https://www.xda-developers.com/this-app-transformed-my-old-android-phone-into-playstation-portable/",
-      "Published": "2026-07-20T20:30:10Z",
-      "Source": "XDA",
-      "Category": "PlayStation",
-      "Summary": "このアプリは私の古い Android 携帯電話を PlayStation Portable に変えました\n\nPlay Field Portal は、私のレトロ ゲーム コレクションに、PSP からインスピレーションを得た携帯型ゲームのような家を与えてくれます。\n\nこのアプリは私の古い Android 携帯電話を PlayStation Portable に変えました\n\nBy Dhruv Bhutani 公開 2026 年 7 月 20 日、午後 4 時 30 分 EDT Dhruv Bhutani は 2008 年以来消費者向けテクノロジーについて執筆しており、特集記事や意見記事を通じて個人向けテクノロジーの状況について深い洞察を提供しています。彼は XDA-Developers に執筆しており、生産性、ネットワーキング、セルフホスティングなどのトピックに重点を置いています。長年にわたり、彼の作品は Android Police、Android Authority、CNET、PCMag などの主要出版物にも掲載されてきました。専門的な仕事以外では、ドゥルヴは映画や文学などのホラー メディアの熱心なファンであり、フィットネス アクティビティを楽しんだり、レコードを収集したり、ギターを弾いたりしています。\n\nノスタルジックと言われても仕方がありませんが、レトロ ゲームは、長時間のフライト中でも、長い一日の終わりのダウンタイム中でも、私が楽しむためのお気に入りの方法の 1 つです。古き良き JRPG のように、リラックスできるものがいくつかあります。市場にはさまざまなレトロエミュレーションハンドヘルド機が存在することを考えると、私は明らかに一人ではありません。私は古い Android スマートフォンを使用する傾向があります。なぜなら、それらは十分に強力でバッテリーが長持ちするからです。すでに 1 台か数台を手元に置いている傾向があります。\n\n問題は、これらの Android スマートフォンのどれも、横向きまたはゲーム向けのインターフェイスを備えていないことです。私はすでにエミ…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/play-field-portal-interface.jpg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
-      "Title": "このアプリは私の古い Android 携帯電話を PlayStation Portable に変えました",
       "Link": "https://www.xda-developers.com/this-app-transformed-my-old-android-phone-into-playstationportable/",
       "Published": "2026-07-20T20:30:10Z",
       "Source": "XDA",
       "Category": "PlayStation",
       "Summary": "このアプリは私の古い Android 携帯電話を PlayStation Portable に変えました\n\nPlay Field Portal は、私のレトロ ゲーム コレクションに、PSP からインスピレーションを得た携帯型ゲームのような家を与えてくれます。\n\nこのアプリは私の古い Android 携帯電話を PlayStation Portable に変えました\n\nBy Dhruv Bhutani 公開 2026 年 7 月 20 日、午後 4 時 30 分 EDT Dhruv Bhutani は 2008 年以来消費者向けテクノロジーについて執筆しており、特集記事や意見記事を通じて個人向けテクノロジーの状況について深い洞察を提供しています。彼は XDA-Developers に執筆しており、生産性、ネットワーキング、セルフホスティングなどのトピックに重点を置いています。長年にわたり、彼の作品は Android Police、Android Authority、CNET、PCMag などの主要出版物にも掲載されてきました。専門的な仕事以外では、ドゥルヴは映画や文学などのホラー メディアの熱心なファンであり、フィットネス アクティビティを楽しんだり、レコードを収集したり、ギターを弾いたりしています。\n\nノスタルジックと言われても仕方がありませんが、レトロ ゲームは、長時間のフライト中でも、長い一日の終わりのダウンタイム中でも、私が楽しむためのお気に入りの方法の 1 つです。古き良き JRPG のように、リラックスできるものがいくつかあります。市場にはさまざまなレトロエミュレーションハンドヘルド機が存在することを考えると、私は明らかに一人ではありません。私は古い Android スマートフォンを使用する傾向があります。なぜなら、それらは十分に強力でバッテリーが長持ちするからです。すでに 1 台か数台を手元に置いている傾向があります。\n\n問題は、これらの Android スマートフォンのいずれも、横向きまたはゲーム向けのインターフェイスを備えていないことです。私はすでにエ…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/play-field-portal-interface.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "このアプリは私の古い Android 携帯電話を PlayStation Portable に変えました",
+      "Link": "https://www.xda-developers.com/this-app-transformed-my-old-android-phone-into-playstation-portable/",
+      "Published": "2026-07-20T20:30:10Z",
+      "Source": "XDA",
+      "Category": "PlayStation",
+      "Summary": "このアプリは私の古い Android 携帯電話を PlayStation Portable に変えました\n\nPlay Field Portal は、私のレトロ ゲーム コレクションに、PSP からインスピレーションを得た携帯型ゲームのような家を与えてくれます。\n\nこのアプリは私の古い Android 携帯電話を PlayStation Portable に変えました\n\nBy Dhruv Bhutani 公開 2026 年 7 月 20 日、午後 4 時 30 分 EDT Dhruv Bhutani は 2008 年以来消費者向けテクノロジーについて執筆しており、特集記事や意見記事を通じて個人向けテクノロジーの状況について深い洞察を提供しています。彼は XDA-Developers に執筆しており、生産性、ネットワーキング、セルフホスティングなどのトピックに重点を置いています。長年にわたり、彼の作品は Android Police、Android Authority、CNET、PCMag などの主要出版物にも掲載されてきました。専門的な仕事以外では、ドゥルヴは映画や文学などのホラー メディアの熱心なファンであり、フィットネス アクティビティを楽しんだり、レコードを収集したり、ギターを弾いたりしています。\n\nノスタルジックと言われても仕方がありませんが、レトロ ゲームは、長時間のフライト中でも、長い一日の終わりのダウンタイム中でも、私が楽しむためのお気に入りの方法の 1 つです。古き良き JRPG のように、リラックスできるものがいくつかあります。市場にはさまざまなレトロエミュレーションハンドヘルド機が存在することを考えると、私は明らかに一人ではありません。私は古い Android スマートフォンを使用する傾向があります。なぜなら、それらは十分に強力でバッテリーが長持ちするからです。すでに 1 台か数台を手元に置いている傾向があります。\n\n問題は、これらの Android スマートフォンのどれも、横向きまたはゲーム向けのインターフェイスを備えていないことです。私はすでにエミ…",
       "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/play-field-portal-interface.jpg?w=1600\u0026h=900\u0026fit=crop"
     },
     {
@@ -8866,141 +9001,6 @@
       "Category": "ssd",
       "Summary": "古いSSDがゲームカートリッジとして生まれ変わる\n\nゲーム会社は物理メディアをあまり好まないかもしれませんが、ゲーマーは確かに好んでいます。再生するものを見つけるためにコレクションを調べて、満足のいくカートリッジを挿入することほど楽しいことはありません。\n\nゲーム会社は物理メディアをあまり好まないかもしれませんが、ゲーマーは確かに好んでいます。プレイするものを見つけるためにコレクションを調べ、満足のいくクリック音とともにカートリッジを挿入してから、たとえば「サイバーパンク 2077」のような昔ながらのゲームをプレイすることほど楽しいことはありません。ええ、それはカートリッジでリリースされませんでしたが、それでも[ジブリール様]がReddit上で止まることはありませんでした。カートリッジは 3D プリントされており (この記事の執筆時点では makeworld の stls のみ)、[Jabril] が大量に入手できた古い 2.5 インチ SSD が含まれています。\n\nベースユニットの内部には、[Jabril] のゲーミング PC に接続するシンプルな USB3-SATA アダプターがあります。ベースユニットはシンプルな縦型と、バネを効かせた握り心地の良い横型の2種類があります。\n\n各ディスクには起動スクリプトがあり、PC 上のプログラムによって精査され、信頼できると指定されたカートリッジのみを自動起動します。これは、私たちが評価できるレベルのセキュリティです。 [Jabril 様] のご厚意により、MIT ライセンスの下で GitHub で利用できるようにしていただきました。\n\nこれらの安価なドライブにどれだけの寿命が残っているかはわかりませんが、書き込みが奇妙な保存ファイルだけであれば、しばらくは持つはずです。 [Jabril 様] がかなり頻繁にゲームを循環していることを願っています。SSD は、期間が十分に短い場合にのみ不揮発性のストレージであるためです。\n\nヒントを提供してくれた [iliis] に感謝します!ヒントラインを使用して見つけたものを共有する場合、あ…",
       "ImageURL": "https://hackaday.com/wp-content/uploads/2026/07/ssd-game-cartridge-feat.webp"
-    },
-    {
-      "Title": "Garmin の CIRQA スマート バンドが驚くほど競争力のある価格でリークされました",
-      "Link": "https://www.androidauthority.com/garmin-cirqa-smart-band-price-revealed-3689259/",
-      "Published": "2026-07-20T15:20:14Z",
-      "Source": "Android Authority",
-      "Category": "Garmin",
-      "Summary": "Garmin の CIRQA スマート バンドが驚くほど競争力のある価格でリークされました\n\nGarmin はまだ CIRQA Smart Band を正式に発表していませんが、同社のバックエンドが価格を明らかにしている可能性があります。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nGarmin の CIRQA スマート バンドが驚くほど競争力のある価格でリークされました\n\n0 • Ryan Haines / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR リークにより、CIRQA スマート バンドの価格が明らかになったようです。\n\nGarmin 独自の価格設定システムでは、デバイスの価格は 199.99 米ドル、279.99 カナダドル、4,099 メキシコペソとなっています。\n\nGarmin は現在、CIRQA スマート バンドと呼ばれるスクリーンレスのフィットネス トラッカーを開発中です。同社はまだこのデバイスを発表していないが、今年初めにウェブサイト上で誤ってトラッカーの存在を明らかにした。それ以来、数多くのリークにより、さまざまな機能や特徴が明らかになりました。さて、CIRQAスマートバンドが発売されたら、その価格がいくらになるかわかるかもしれません。\n\nGarmin 独自の価格設定システムが CIRQA トラッカーの価格設定に影響を与えた可能性があります。 Redditor によって発見された同社のバックエンドは、1 月に最初のリークで明らかになった CIRQA 部品番号 010-04675-00 を認識しているようです。公的にアクセス可能な Garmin エンドポイントに部品番号を入力すると、システムは米国価格の 199.99 ドルを返します。\n\nバックエンドでは米国だけでなく他の地域の価格も明らかになっているようです。カナダでは、279.99 カナダドルを支払うことが予想されるようです。…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2023/01/ces-2023-garmin-logo.jpg"
-    },
-    {
-      "Title": "(PR) サムスンディスプレイ、VESA DisplayHDR True Black 1400を搭載したタンデムOLEDノートパソコンパネルを供給",
-      "Link": "https://www.techpowerup.com/350897/samsung-display-supplies-tandem-oled-laptop-panels-with-vesa-displayhdr-true-black-1400",
-      "Published": "2026-07-20T15:06:01Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "(PR) サムスンディスプレイ、VESA DisplayHDR True Black 1400を搭載したタンデムOLEDノートパソコンパネルを供給\n\nSamsung Displayは本日、高輝度OLEDディスプレイに対するVESAの新しい認証段階であるVESA DisplayHDR True Black 1400を満たすラップトップ用タンデムOLEDパネルの本格供給を開始したと発表しました。 Samsung Display は、世界の PC メーカーと協力してプレミアム...\n\nSamsung ディスプレイ、VESA DisplayHDR True Black 1400 を搭載したタンデム OLED ノートパソコン パネルを供給\n\n2026 年 5 月 31 日 NVIDIA が、エージェントティック ユーザー インターフェイスを備えた Windows PC 用のスーパーコンピューター グレードのプロセッサーである RTX Spark を発表 (63)\n\n2026 年 2 月 21 日 AMD が Ryzen Z1 Extreme プロセッサのドライバー更新を停止したようです (119)\n\n2026 年 7 月 3 日 Samsung が SSD 990 Value Gen 4 NVMe SSD を準備 (67)\n\n2026 年 7 月 8 日 VESA が次世代 OLED ディスプレイを認定する DisplayHDR True Black 1400 を発表 (14)\n\n2026 年 7 月 14 日 MSI が PRO MAX OLED 271UPJW12 を発表: 世界初の 27 インチ 4K IJP OLED モニター (17)\n\n2026 年 6 月 1 日 Samsung ディスプレイ、Computex 2026 でゲーミング ディスプレイの全製品ラインナップを発表 (1)\n\n2026 年 5 月 1 日 NVIDIA GeForce RTX 3060 12 GB が AIC パートナーの ASUS、MSI、Colorful、GALAX とともに 6 月に復活…",
-      "ImageURL": "https://www.techpowerup.com/img/Xzi0X2cxTe7VEe5a.jpg"
-    },
-    {
-      "Title": "Valve replaces stolen Steam Machine after Royal Mail left \u0026pound;1,000 package on a doorstep",
-      "Link": "https://www.tweaktown.com/news/112712/valve-replaces-stolen-steam-machine-after-royal-mail-left-pounds1000-package-on-a-doorstep/index.html",
-      "Published": "2026-07-20T15:05:06Z",
-      "Source": "TweakTown",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "オランダの半導体セクターは中国の介入のリスクが非常に高い、政府資金による研究が警告 - ASMLのようなサイトでのより厳格な審査を求める",
-      "Link": "https://www.tomshardware.com/tech-industry/government-funded-dutch-report-rates-chip-sector-at-very-high-risk-of-chinese-interference",
-      "Published": "2026-07-20T15:04:14Z",
-      "Source": "Tom's Hardware",
-      "Category": "Tech Industry",
-      "Summary": "オランダの半導体セクターは中国の介入のリスクが非常に高い、政府資金による研究が警告 - ASMLのようなサイトでのより厳格な審査を求める\n\n政府資金によるリスク評価では、半導体は海事や航空宇宙よりも上位にランクされている。\n\nオランダの半導体セクターは中国の介入のリスクが非常に高い、政府資金による研究が警告 - ASMLのようなサイトでのより厳格な審査を求める\n\n政府資金によるリスク評価では、半導体は海事や航空宇宙よりも上位にランクされている。\n\n(画像クレジット: ASML) リンクをコピー\n\n0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する ハーグ戦略研究センターは、最近の報告書でオランダの半導体産業を中国外国干渉のリスクが非常に高いと評価し、海事・航空宇宙分野より上位に位置づけ、ASMLとNXPに対する長年のスパイ行為を挙げた。オランダ外務省の資金提供を受けているチャイナ・ナレッジ・ネットワークのためにベネデッタ・ジラルディ氏とハンス・ホーラン氏が執筆したこの調査では、機密性の高いチップサイトの人員の厳格な検査と、サーバーのマザーボードやベースボード管理コントローラーなどのリスクの高い外国製ハードウェアを交換するための官民基金の設立が求められている。両著者は先週の日経アジアとのインタビューで調査結果をさらに詳しく述べた。\n\nチップ製造のサプライチェーンを詳しく見る\n\nTSMCの1,650億ドルの米国投資を調査\n\n中国がEUVツールをリバースエンジニアリングしていると報じられている\n\nEUV封鎖でチップ製造の形が変わる中、中国はDUVに賭ける\n\n報告書は中国政府の手法を経済国家戦略、デジタル・情報作戦、物理的干渉、法的圧力、人材を利用した技術スパイの５つのカテゴリーに分類している。 ASMLは2023年に、中国を拠点とする元従業員が社内の製品ライフサイクル管理システムからリソグラフィーツールに関するデータを盗んだと発表したが、これは2015年に遡る同社の内部関係者による窃盗事件の1つであり、オランダの…",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/EGXamcWxVuFiTc6pCbeE25-1920-80.jpg"
-    },
-    {
-      "Title": "Gears of War 2 に非公式の PC 移植が追加されました",
-      "Link": "https://www.kitguru.net/gaming/matthew-wilson/gears-of-war-2-now-has-an-unofficial-pc-port/",
-      "Published": "2026-07-20T15:00:24Z",
-      "Source": "KitGuru",
-      "Category": "xbox",
-      "Summary": "Gears of War 2 に非公式の PC 移植が追加されました\n\n近年、非公式の PC 移植が流入しており、マリオカートのような長いコンソール専用タイトルが、エミュレーションなしで初めて PC プラットフォームに導入されています。 Gears of War 2 は、この扱いを受ける最新のゲームです。 Microsoft は過去に遡り、Gears of War 1 を PC 上で 2 回再リリースしましたが、\n\nGears of War 2 に非公式の PC 移植が追加されました\n\nMatthew Wilson 23 分前 注目のテクノロジー ニュース , ソフトウェア \u0026 ゲーム\n\n近年、非公式の PC 移植が流入しており、マリオカートのような長いコンソール専用タイトルが、エミュレーションなしで初めて PC プラットフォームに導入されています。 Gears of War 2 は、この扱いを受ける最新のゲームです。 Microsoft は過去に遡り、Gears of War 1 を PC で 2 回再リリースしましたが、オリジナルの Xbox 360 三部作の他のタイトルはコンソール独占のままです。それが Gears of War 2 では変わりつつあり、ある開発者がリークされた 2008 年の Windows ビルドのゲームを入手し、リリースに向けて磨きをかけています。開発者 xHeliosx は、Gears of War 2: Hollow として知られる非公式の Gears of War 2 PC 移植用のランチャーを作成しました。ただし、マルチプレイヤー モードなどの特定の機能は動作が保証されていません。ゲームを動作させるには、ModDB で利用できるランチャーには著作権のためゲーム ファイルが含まれていないため、他の場所からゲーム ファイルを入手する必要もあります。幸いなことに、ModDB 投稿のコメント セクションにアクセスするだけで、正しい方向に進むことができます。 KitGuru 氏のコメント: 2015 年に Gears of War 1 を PC…",
-      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/07/Gears-of-War-2-732x330.jpg"
-    },
-    {
-      "Title": "他のものをインストールする前に、新しい Pixel スマートフォンから必ず削除する 4 つのアプリ",
-      "Link": "https://www.xda-developers.com/apps-i-always-remove-from-every-new-pixel-phone/",
-      "Published": "2026-07-20T15:00:10Z",
-      "Source": "XDA",
-      "Category": "Productivity",
-      "Summary": "他のものをインストールする前に、新しい Pixel スマートフォンから必ず削除する 4 つのアプリ\n\n私は Google のクリーンな Pixel エクスペリエンスが大好きですが、携帯電話の使い心地を良くするために、私がいつも最初に削除するのはこれら 4 つのプリインストール アプリです。\n\n他のものをインストールする前に、新しい Pixel スマートフォンから必ず削除する 4 つのアプリ\n\nBy Yash Patel 公開 2026 年 7 月 20 日、午前 11:00 EDT 2018 年にテクノロジー業界でのキャリアを開始し、Yash はソフトウェア エンジニアとして 3 年以上を過ごしました。その後、彼はテクノロジー ブログ DiGiTAL BiRYANi の有益で魅力的なコンテンツを通じて読者に力を与えることに重点を移しました。彼は MakeTechEasier の技術記事も出版しています。彼は新しいテクノロジー ガジェットやプラットフォームを探索するのが大好きです。彼が執筆していないときは、食べ物について調べていることがわかります。彼はテクノロジーと食べ物への愛情から、読者の間ではデジタル シェフ ヤシュとして知られています。 XDA アカウントにサインインする 新しい Pixel スマートフォンを手に入れたら、最初に行うことの 1 つは、壁紙をカスタマイズしたり、お気に入りのアプリをインストールしたりすることではなく、プリインストールされているソフトウェアをクリーンアップすることです。 Android に対する Google のアプローチは、他のほとんどのメーカーのバージョンよりもはるかにクリーンに感じられるため、私は心から気に入っていますが、私の携帯電話の使い方に合わないアプリもまだいくつかあります。新しいPixelユーザーを対象としたものもあれば、私がすでにより良い代替手段を持っているサービスと重複するものもあります。\n\n長年にわたって、私はこれをセットアップ ルーチンの一部にしてきました。決して開かないとわかっているアプリを数分かけて削除すると、G…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/03/pixel-10-pro-fold-1.jpg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
-      "Title": "Earn Your Junk Food with This Step-Counting Lock Box",
-      "Link": "https://www.hackster.io/news/earn-your-junk-food-with-this-step-counting-lock-box-8f7f5eb48ea0",
-      "Published": "2026-07-20T14:56:17Z",
-      "Source": "Hackster.io",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "Microsoft Office 2024 Professional Plus が新たな低価格になりました: 生涯 55 ドル",
-      "Link": "https://www.techpowerup.com/350898/microsoft-office-2024-professional-plus-just-hit-a-new-low-price-usd-55-for-life",
-      "Published": "2026-07-20T14:56:00Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "Microsoft Office 2024 Professional Plus が新たな低価格になりました: 生涯 55 ドル\n\nMicrosoft のサブスクリプション モデルはすべての人に適しているわけではありません。自動更新や突然の請求、「プランが変更になりました」というメールも不要で、一度だけ支払ってそのまま生活を続けたいと考えている人もいます。この永久ライセンスは、249.99 ドルから、これまでの最低価格である 54.99 ドルに値下げされました。 \r\n\r\n計算を実行してください...\n\n2026 年 7 月 20 日月曜日、Microsoft Office 2024 Professional Plus が新たな低価格になりました: 生涯 55 ドル\n\nIntel Arc および iGPU 101.8861 ベータ版\n\n15:53 by Space Lynx 危機一髪... 5090 ケーブル焼け ( 549 )\n\n15:44 by TheKingGamerBr TPU のノスタルジック ハードウェア クラブ ( 21836 )\n\n14:43 by AusWolf AI に関する意見 ( 887 )\n\n14:40 FireFox ブラウザの Tesselator AI: はい、いいえ?? ( 197 )\n\n14:36 by Lare111 Ryzen オーナーズ ゼン ガーデン ( 8188 )\n\n14:29 by Space Lynx CachyOS は、コスモス全体の歴史の中で作られた最高の OS です。 ( 91 )\n\n14:28 スペース リンクス スチーム デッキ オーナーズ クラブハウス ( 609 )\n\n14:21 by Pasi123 世界中でまだ asus p6t マザーボードを使っているのは私だけでしょうか? ( 109 )\n\n14:17 by ジェスダル バトルフィールド 6 ( 919 )\n\n14:14 by GeoffreyA Windows 11 の一般的なディスカッション ( 7256 )\n\n2026 年 7 月 16 日 AM…",
-      "ImageURL": "https://www.techpowerup.com/img/PRZATAV1XGrGJMWj.jpg"
-    },
-    {
-      "Title": "(PR) ARCTIC が MX-4 サーマルペーストのパッケージとシリンジの設計を更新",
-      "Link": "https://www.techpowerup.com/350896/arctic-updates-mx-4-thermal-paste-packaging-and-syringe-design",
-      "Published": "2026-07-20T14:45:58Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "(PR) ARCTIC が MX-4 サーマルペーストのパッケージとシリンジの設計を更新\n\nARCTIC は、MX-4 サーマル ペーストのパッケージを更新し、その視覚的アイデンティティを現在の MX-7 シリーズのデザインと一致させました。再設計では、ARCTIC が開発したカスタムシリンジとともに新しいパッケージが導入されました。外観は変わりましたが、MX-4 のフォーミュラはまったく同じままです。\n\nARCTIC が MX-4 サーマルペーストのパッケージングとシリンジの設計を更新\n\n2026 年 6 月 30 日 Arctic が、Ampere Altra LGA4926 サーバーおよびワークステーション用の Freezer 4U-Altra CPU クーラーを発表 (2)\n\n2025 年 12 月 16 日 Arctic が MX-7 サーマル インターフェイス マテリアルを発表 (20)\n\n2026 年 6 月 4 日 Arctic ショーケース Freezer 61 ハイエンド エア クーラー、BioniX モジュラー ファン、および Xtender Mini ケース (3)\n\n2026 年 6 月 4 日 Arctic が大型 CPU ソケット用液体冷凍庫シリーズ AIO CLC を展示 (6)\n\n2026 年 5 月 28 日 ZALMAN が ZM-STC11 シリコーンベースのサーマルペーストを紹介 (9)\n\n2026 年 5 月 19 日 Arctic が TP-4 プレミアム パフォーマンス サーマル パッドを発表 (7)\n\n2026 年 5 月 7 日 Arctic が速度範囲を最適化した P12 Pro LN ファン シリーズをリリース (4)\n\n2026 年 5 月 26 日 Arctic が Freezer 36-S タワー型空冷 CPU クーラーを発表 (2)\n\n2026 年 3 月 19 日 Arctic が、Ryzen AI 9 HX 370 と 32 GB の RAM を搭載した Senza AI 370 ファンレス PC を発…",
-      "ImageURL": "https://www.techpowerup.com/img/cDxFo9s0BQTojzzd.jpg"
-    },
-    {
-      "Title": "セール: ChatGPT、Gemini、Claude などを 80 ドルで永久入手",
-      "Link": "https://www.techpowerup.com/350899/sale-get-chatgpt-gemini-claude-and-more-for-life-for-usd-80",
-      "Published": "2026-07-20T14:43:35Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "セール: ChatGPT、Gemini、Claude などを 80 ドルで永久入手\n\nChatGPT の料金は月額 20 ドルですが、ほとんどの専門家は 1 つのモデルだけですべてを行うことはできません。これに Claude と Gemini の有料サブスクリプションを組み合わせると、AI のためだけに月額 60 ドルを支払うことになります。毎年数百ドルを費やすよりも、より賢明な運用方法は、次のシステムに切り替えることです。\n\n2026 年 7 月 20 日月曜日セール: ChatGPT、Gemini、Claude などを 80 ドルで生涯入手可能\n\nIntel Arc および iGPU 101.8861 ベータ版\n\n19:30 by 錆びたキャタピラ 危機一髪... 5090 ケーブル焼け ( 550 )\n\n18:44 by TheKingGamerBr TPU のノスタルジック ハードウェア クラブ ( 21836 )\n\n17:43 by AusWolf AI に関する意見 ( 887 )\n\n17:40 FireFox ブラウザの Tesselator AI: はい、いいえ?? ( 197 )\n\n17:36 by Lare111 Ryzen オーナーズ ゼン ガーデン ( 8188 )\n\n17:29 by Space Lynx CachyOS は、コスモス全体の歴史の中で作られた最高の OS です。 ( 91 )\n\n17:28 スペース リンクス スチーム デッキ オーナーズ クラブハウス ( 609 )\n\n17:21 by Pasi123 世界中でまだ asus p6t マザーボードを使っているのは私だけでしょうか? ( 109 )\n\n17:17 by ジェスダル バトルフィールド 6 ( 919 )\n\n17:14 by GeoffreyA Windows 11 の一般的なディスカッション ( 7256 )\n\n2026 年 7 月 16 日 AMD Ryzen 7 7700X3D レビュー\n\n2026 年 7 月 20 日 G.SKILL Trident Z5 N…",
-      "ImageURL": "https://www.techpowerup.com/img/ZEABhhEC19WyoOQG.jpg"
-    },
-    {
-      "Title": "SKハイニックス、メモリ価格を抑えるために米国の製造オプションを検討",
-      "Link": "https://www.techpowerup.com/350893/sk-hynix-explores-us-fab-options-to-keep-memory-prices-under-control",
-      "Published": "2026-07-20T14:41:12Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "SKハイニックス、メモリ価格を抑えるために米国の製造オプションを検討\n\nSKグループのチェ・テウォン会長は、メモリの価格設定に関して異例に率直なコメントを出し、現在の半導体価格を「異常に高い」と呼び、この状況はチップのコスト上昇により消費者向けの完成品価格を押し上げる、同氏の呼ぶところの「チップフレーション」を引き起こす危険性があると警告した。\n\nSKハイニックス、メモリ価格を抑えるために米国の製造オプションを検討\n\n2025 年 7 月 23 日 8,800 ～ 17,600 MT/s の DDR6 メモリが 2027 年に登場 (196)\n\n2025 年 7 月 21 日 AMD の今後の UDNA / RDNA 5 GPU は 96 CU と 384 ビット メモリ バスを搭載する可能性があります (201)\n\n2025 年 12 月 13 日 SK ハイニックス、メモリ供給の逼迫は 2028 年まで続くと予測 (118)\n\n2026 年 7 月 13 日 中国の CXMT、今年マイクロンの DRAM 製造能力に匹敵 (28)\n\n2026 年 2 月 6 日 NVIDIA、Micron なしの「Vera Rubin」に SK hynix と Samsung HBM4 を使用 (7)\n\n2026 年 7 月 6 日 マイクロン、93 億ドルをかけて広島工場拡張工事に着工 (19)\n\n2026 年 6 月 28 日 Apple、制裁対象の中国製メモリメーカー CXMT の使用について米国の承認を求める (15)\n\n2026 年 5 月 11 日 中国の POWEV が最大 64 GB の UDIMM、SODIMM、および RDIMM モジュールで DDR5 市場に参入 (22)\n\n2025 年 12 月 1 日 メモリ不足が始まったばかり、今後大幅な価格高騰が起こる、チーム グループに警告 (19)\n\n2026 年 5 月 11 日 SK hynix が HBM メモリ向け Intel EMIB 2.5D パッケージングに注目 (0)\n\nSKハイニックス、メモリ価格を…",
-      "ImageURL": "https://www.techpowerup.com/img/O3Srhl2zlSaWZ3bW.jpg"
-    },
-    {
-      "Title": "(PR) Microsoft、次世代 AMD Instinct および AMD EPYC プロセッサを導入",
-      "Link": "https://www.techpowerup.com/350895/microsoft-to-deploy-next-gen-amd-instinct-and-amd-epyc-processors",
-      "Published": "2026-07-20T14:41:07Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "(PR) Microsoft、次世代 AMD Instinct および AMD EPYC プロセッサを導入\n\nAMDは本日、AMDのGPU、CPU、ネットワーキング、Microsoft Azure上のソフトウェアにわたる戦略的パートナーシップの拡大を発表しました。この拡張の中心として、Microsoft は AMD Helios Rackscale ソリューションを展開し、Microsoft、その AI 顧客、およびサポート向けのフロンティア モデル AI 推論を強化します。\n\nMicrosoft、次世代 AMD Instinct および AMD EPYC プロセッサを展開\n\n2025 年 8 月 4 日 AMD が 192 MB L3 キャッシュと 200 W TDP を搭載した 16 コア Ryzen 9000X3D CPU をリリース (355)\n\n2025 年 8 月 21 日 12VHPWR コネクタの溶融により、最初の AMD RX 9070 XT 被害者が主張 (109)\n\n2026 年 5 月 31 日 AMD が Ryzen 7 5800X3D 10th Anniversary Edition と Ryzen 7 7700X3D を正式発表 (164)\n\n2026 年 4 月 16 日 AMD、Ryzen 7 5800X3D を「AM4 10th Anniversary Edition」として再発売 (198)\n\n2025 年 9 月 3 日 AMD「Zen 6」プロセッサは、CCD に TSMC 2 nm ノード、IOD に 3 nm ノードを使用 (66)\n\n2025 年 9 月 8 日 AMD は、Arm ISA は x86 (97) を超える効率上の利点を提供していないと主張\n\n2026 年 6 月 12 日、4000 ドルの AMD Ryzen AI Halo Mini PC 開発キットの予約注文が開始 (47)\n\n2026 年 2 月 19 日 AMD Ryzen 10000「Olympic Ridge」が 6/8/10/12/16/20/…",
-      "ImageURL": "https://www.techpowerup.com/img/Me7WYR8mk1wrUccx.jpg"
-    },
-    {
-      "Title": "(PR) IEEE の研究は、マイクロ転写印刷が高度なシリコン フォトニクスにどのようにつながるかを明らかにしています",
-      "Link": "https://www.techpowerup.com/350894/ieee-study-highlights-how-micro-transfer-printing-can-lead-to-advanced-silicon-photonics",
-      "Published": "2026-07-20T14:38:56Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "(PR) IEEE の研究は、マイクロ転写印刷が高度なシリコン フォトニクスにどのようにつながるかを明らかにしています\n\nシリコンフォトニクスは、従来の電気相互接続の帯域幅と遅延のボトルネックに対処するための有望な技術として浮上しており、将来の人工知能インフラストラクチャとして研究されています。ただし、複数の材料システムの異種統合...\n\n2026 年 7 月 20 日月曜日、IEEE の研究は、マイクロ転写印刷が高度なシリコン フォトニクスにどのようにつながるかを強調しています\n\nIEEE 研究へのコメントは、マイクロ転写印刷が高度なシリコンフォトニクスにどのようにつながるかを強調しています\n\nIntel Arc および iGPU 101.8861 ベータ版\n\n08:22 by bedouinbro 10年前の120mmファンを交換して、新しい140mmファンを追加する価値はありますか？ ( 20 )\n\n08:21 by Stan215 AAF Optimus Modded Driver For Windows 10 \u0026 11 - Realtek HDAUDIO チップのみ [Windows 11 推奨] ( 1051 )\n\n08:16 by Rulumi RTX 5xxx シリーズのホットスポット温度を投稿してください。 ( 155 )\n\n08:16 by Solaris17 32TB M.2 NVMe 2280 SSD ( 46 )\n\n08:16 by raybob 世界中でまだ asus p6t マザーボードを使っているのは私だけでしょうか? ( 102 )\n\n08:01 by rfmac Aorus 15p xd 3070 i7 11800h EDP スロットリング ( 20 )\n\n07:34 by Frizz 270k plus は一度調整すると最も印象的です ( 92 )\n\n07:15 by KrazyT TPU UK クラブハウス ( 27135 )\n\n07:13 by TheKingGamerBr TPU のノスタルジック ハードウェア クラブ ( 2…",
-      "ImageURL": "https://www.techpowerup.com/img/dJJeD2YUMOPptQrZ.jpg"
-    },
-    {
-      "Title": "iPhone Ultra が実際には不良品だった場合はどうなるでしょうか?",
-      "Link": "https://www.xda-developers.com/video/why-the-foldable-iphone-ultra-could-be-a-disaster/",
-      "Published": "2026-07-20T14:36:28Z",
-      "Source": "XDA",
-      "Category": "Apple",
-      "Summary": "iPhone Ultra が実際には不良品だった場合はどうなるでしょうか?\n\nこれは、間違ったタイミングで間違った価格で間違った電話が使用される可能性があります。\n\niPhone Ultra が実際には不良品だった場合はどうなるでしょうか?トレンドのサブメニューを閉じる クロード\n\n折りたたみ式iPhone Ultraが大惨事になる理由\n\nBy Alex Dobie 公開日 2026 年 7 月 20 日、午前 10:36 EDT XDA アカウントにサインイン これは、間違った時期に間違った価格で間違った携帯電話を使用した可能性があります。\n\n添付ファイル コミュニティ ガイドラインを遵守してください。リンク、不適切な言葉遣い、スパムはありません。コメントは保存されていません\n\nこのスペースは議論のために開かれています。\n\nあなたの考えを最初に共有してください。",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/tn1-emaki.jpg?w=1200\u0026h=675\u0026fit=crop"
-    },
-    {
-      "Title": "ベンチマークのリークは、Zen 6 の大幅なパフォーマンス向上を示しています",
-      "Link": "https://www.kitguru.net/components/cpu/joao-silva/benchmark-leak-points-to-massive-zen-6-performance-gains/",
-      "Published": "2026-07-20T14:30:15Z",
-      "Source": "KitGuru",
-      "Category": "Zen 6",
-      "Summary": "ベンチマークのリークは、Zen 6 の大幅なパフォーマンス向上を示しています\n\nAMD の次期 10 コア Medusa Point モバイル プロセッサのエンジニアリング サンプルが Geekbench に公開され、これまでで最高のベンチマーク スコアを達成しました。このチップはシングルコア テストで 3,329 ポイント、マルチコア テストで 16,555 ポイントに達し、前世代のチップと比べて顕著なパフォーマンスの向上を示しました。このプロセッサは、Geekbench (Tom's Hardware 経由) に登場しました。\n\nベンチマークのリークは、Zen 6 の大幅なパフォーマンス向上を示しています\n\nAMD の次期 10 コア Medusa Point モバイル プロセッサのエンジニアリング サンプルが Geekbench に公開され、これまでで最高のベンチマーク スコアを達成しました。このチップはシングルコア テストで 3,329 ポイント、マルチコア テストで 16,555 ポイントに達し、前世代のチップと比べて顕著なパフォーマンスの向上を示しました。このプロセッサは、AMD Plum-MDS1 プラットフォーム上の Geekbench (Tom's Hardware 経由) にエンジニアリング サンプル ID 100-000001713-33_N で登場しました。 Geekbench のログでは、10 コアと 20 スレッドの構成が 4 コアと 6 コアの 2 つのクラスターに分割されていることがわかります。テレメトリ データは、テスト中にチップが 5.37 GHz のピーク周波数に達したことを示しています。このリストには、10MB の L2 キャッシュと 32MB の L3 キャッシュの詳細も記載されています。この最新の実行は、以前の提出よりもシングルコアで 5%、マルチコアで 10% 優れています。現在の小売モデルと比較すると、この Zen 6 チップはパフォーマンスを大幅に向上させます。 12 コア Ryzen AI 9 HX 370 よりも、シ…",
-      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/03/amd-ryzen-ai-processor-chip-orange-glow-732x330.jpg"
     }
   ]
 }

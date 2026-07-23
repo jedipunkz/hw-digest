@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Thu, 23 Jul 2026 18:37:26 +0000</lastBuildDate>
+<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Thu, 23 Jul 2026 20:20:00 +0000</lastBuildDate>
 <item><title>AMD、最大256コア・L3キャッシュ1GB超の第6世代「EPYC 9006」</title><link>https://pc.watch.impress.co.jp/docs/news/2127459.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2127459.html</guid><pubDate>Thu, 23 Jul 2026 18:30:00 +0000</pubDate><description><![CDATA[<p>AMD、最大256コア・L3キャッシュ1GB超の第6世代「EPYC 9006」
 
 AMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、この中で第6世代EPYCを正式に発表した。
@@ -20,6 +20,21 @@ CPUコアはZen 6cとZen 6の2種類が採用されており、前者が最大25
 また、AMDの3D V-Cache(TSMCの3Dダイスタッキング技術となるSoICを利用してキャッシュを3D方向に積層する技術)を利用。L3キャッシュが最大1,152MB(1.125GB)と、遂に1GBを超えるL3キャッシュを実装した。TDPは最大600Wだ。
 
 第5世代EPYCでは最大12チャンネルのメモリコントローラ構成になっていたが、第6世代EPYCでは最大で16チャンネルに強化。通常のDDR5利用時には8,000MT/s(いわゆるDDR5-8000)に対応し、MRDIMMのDDR5の場合には12,800MT/s(DDR5-12…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2127/459/001.jpg" alt="AMD、最大256コア・L3キャッシュ1GB超の第6世代「EPYC 9006」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2127459.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2127/459/001.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2127/459/001.jpg"/></item>
+<item><title>AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」</title><link>https://pc.watch.impress.co.jp/docs/news/2127479.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2127479.html</guid><pubDate>Thu, 23 Jul 2026 18:30:00 +0000</pubDate><description><![CDATA[<p>AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」
+
+AMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、フィジカルAI向けの「Ryzen AI Embedded Processors」の最新製品となる「Ryzen AI Embedded X100 Series processors」を発表した。
+
+AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」
+
+AMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、フィジカルAI向けの「Ryzen AI Embedded Processors」の最新製品となる「Ryzen AI Embedded X100 Series processors」を発表した。
+
+Strix Halo/Golden HaloベースのRyzen AI Embedded X100
+
+AMDが発表したRyzen AI Embedded X100は、1月のCESでAMDが発表した「Ryzen AI Embedded P100 Series processors」の上位版製品となる。Ryzen AI Embedded P100は、Strix PointないしはGolden PointベースのSoCで、最大12コアのZen 5/Zen 5cコア、最大16CUのRDNA 3.5 GPU、最大50TOPSのNPUという構成になっていた。
+
+それに対して、Ryzen AI Embedded X100はStrix HaloないしはGolden Haloがベースになっており、CPUは最大16コア(8コアのダイが2つ)のZen 5、GPUは最大40CUのRDNA 3.5、そして50TOPSのXDNA2 NPUというスペックになっている。
+
+最大128GBのメモリを搭載可能で、CPU、GPU、NPUが大容量のメモリをシェアしてAIのローカル処理を行…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2127/479/001.jpg" alt="AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2127479.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2127/479/001.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2127/479/001.jpg"/></item>
 <item><title>AMD、打倒NVIDIAのAI向けGPU「Instinct MI455X」と新ラック投入</title><link>https://pc.watch.impress.co.jp/docs/news/2127474.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2127474.html</guid><pubDate>Thu, 23 Jul 2026 18:30:00 +0000</pubDate><description><![CDATA[<p>AMD、打倒NVIDIAのAI向けGPU「Instinct MI455X」と新ラック投入
 
 AMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、AIデータセンター向けGPU「Instinct MI400 Series GPU」を発表した。
@@ -52,21 +67,6 @@ AMDは、年次イベントとなる「AMD Advancing AI 2026」を7月22日と23
 今、ソフトウェアのプログラミング環境は大きく転換している。LLMから構築されているエージェント型AIは高度なプログラミングが可能になっているため、人間はソフトウェアの仕様書を作り、エージェント型AIに渡せば、AIがその仕様書を元にプログラムのコードを書いて、プログラムをコンパイルして実行形式にし、動作検証(デバッグ)まで行なうというプロセスが当たり前になりつつある。
 
 そうした現状の中で、AMDはこれまで人間のプログラマー向けだけをターゲットにしてきたGPU最適化ツール「ROCm」の…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2127/476/001.jpg" alt="バイブコーディングでAMD GPU最適化を実現する魔法のツール「ROCm.AI」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2127476.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2127/476/001.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2127/476/001.jpg"/></item>
-<item><title>AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」</title><link>https://pc.watch.impress.co.jp/docs/news/2127479.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2127479.html</guid><pubDate>Thu, 23 Jul 2026 18:30:00 +0000</pubDate><description><![CDATA[<p>AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」
-
-AMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、フィジカルAI向けの「Ryzen AI Embedded Processors」の最新製品となる「Ryzen AI Embedded X100 Series processors」を発表した。
-
-AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」
-
-AMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、フィジカルAI向けの「Ryzen AI Embedded Processors」の最新製品となる「Ryzen AI Embedded X100 Series processors」を発表した。
-
-Strix Halo/Golden HaloベースのRyzen AI Embedded X100
-
-AMDが発表したRyzen AI Embedded X100は、1月のCESでAMDが発表した「Ryzen AI Embedded P100 Series processors」の上位版製品となる。Ryzen AI Embedded P100は、Strix PointないしはGolden PointベースのSoCで、最大12コアのZen 5/Zen 5cコア、最大16CUのRDNA 3.5 GPU、最大50TOPSのNPUという構成になっていた。
-
-それに対して、Ryzen AI Embedded X100はStrix HaloないしはGolden Haloがベースになっており、CPUは最大16コア(8コアのダイが2つ)のZen 5、GPUは最大40CUのRDNA 3.5、そして50TOPSのXDNA2 NPUというスペックになっている。
-
-最大128GBのメモリを搭載可能で、CPU、GPU、NPUが大容量のメモリをシェアしてAIのローカル処理を行…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2127/479/001.jpg" alt="AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2127479.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2127/479/001.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2127/479/001.jpg"/></item>
 <item><title>GeForce RTX 5000シリーズ出荷量、2026年7月下旬はさらに減少へ</title><link>https://www.nichepcgamer.com/archives/post-131113.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/post-131113.html</guid><pubDate>Thu, 23 Jul 2026 17:11:24 +0000</pubDate><description><![CDATA[<p>GeForce RTX 5000シリーズ出荷量、2026年7月下旬はさらに減少へ
 
 2026年7月下旬は、GeForce RTX 5000シリーズの出荷量がさらに減少するとの情報が出てきました。 中国語圏フォーラム博板堂のリーカー、低手一号氏は以下のようの述べています。 2026年...
