@@ -1,6 +1,51 @@
 {
   "akiba": [
     {
+      "Title": "AMD、最大256コア・L3キャッシュ1GB超の第6世代「EPYC 9006」",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2127459.html",
+      "Published": "2026-07-23T18:30:00Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "AMD、最大256コア・L3キャッシュ1GB超の第6世代「EPYC 9006」\n\nAMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、この中で第6世代EPYCを正式に発表した。\n\nAMD、最大256コア・L3キャッシュ1GB超の第6世代「EPYC 9006」\n\nAMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、この中で第6世代EPYCを正式に発表した。\n\nZen 6c/Zen 6コアでメモコンは最大16チャンネル構成\n\n今回AMDが発表したのは、2024年10月に「5th Gen AMD EPYC processors」(第5世代AMD EPYCプロセッサ)として発表した「Turin」に次ぐ、新世代サーバー向けCPUとなる。\n\n開発コードネームは「Venice」で、正式な製品名は「6th Gen AMD EPYC Server CPUs」(第6世代EPYCサーバーCPU)だ。シリーズ名は「AMD EPYC 9006 Series server CPU」(AMD EPYC 9006シリーズ・サーバーCPU、以下EPYC 9006シリーズ)となる。\n\nCPUコアはZen 6cとZen 6の2種類が採用されており、前者が最大256コア/512スレッド、後者が最大96コア/192スレッドという構成になっている。\n\nまた、AMDの3D V-Cache(TSMCの3Dダイスタッキング技術となるSoICを利用してキャッシュを3D方向に積層する技術)を利用。L3キャッシュが最大1,152MB(1.125GB)と、遂に1GBを超えるL3キャッシュを実装した。TDPは最大600Wだ。\n\n第5世代EPYCでは最大12チャンネルのメモリコントローラ構成になっていたが、第6世代EPYCでは最大で16チャンネルに強化。通常のDDR5利用時には8,000MT/s(いわゆるDDR5-8000)に対応し、MRDIMMのDDR5の場合には12,800MT/s(DDR5-12…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2127/459/001.jpg"
+    },
+    {
+      "Title": "AMD、打倒NVIDIAのAI向けGPU「Instinct MI455X」と新ラック投入",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2127474.html",
+      "Published": "2026-07-23T18:30:00Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "AMD、打倒NVIDIAのAI向けGPU「Instinct MI455X」と新ラック投入\n\nAMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、AIデータセンター向けGPU「Instinct MI400 Series GPU」を発表した。\n\nAMD、打倒NVIDIAのAI向けGPU「Instinct MI455X」と新ラック投入\n\nAMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、AIデータセンター向けGPU「Instinct MI400 Series GPU」を発表した。\n\nNVIDIA Rubinの288GBに比べて1.5倍のHBM4を搭載\n\nInstinct MI455Xは、去年(2025年)のAdvancing AI 2025で概要が発表され、これまで開発が続けられてきたAIデータセンター向けのGPUとなる。メインのXCDダイがTSMCの2nmプロセスノード(N2)で製造され、3,200億個のトランジスタから構成されている。GPUのアーキテクチャは同社のAI/HPC向けのアーキテクチャとしては第5世代となるCDNA 5へと進化している。\n\n従来型製品となるInstinct MI355Xと同じように、チップレットの構造になっており複数のダイを3D方向と2D方向に積層することで構成されている。\n\n具体的にはインターコネクト(Infinity Fabric)とL2キャッシュを搭載するFCD(TSMC N3P)が2チップ、PCI Express/UALinkやチップ間通信のインターコネクト(Infinity Fabric)用のI/Oダイ(IOD、TSMC N3P)が2チップ、コンピュートエンジンを搭載したXCD(TSMC N2)が8チップ、そ…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2127/474/001.jpg"
+    },
+    {
+      "Title": "バイブコーディングでAMD GPU最適化を実現する魔法のツール「ROCm.AI」",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2127476.html",
+      "Published": "2026-07-23T18:30:00Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "バイブコーディングでAMD GPU最適化を実現する魔法のツール「ROCm.AI」\n\nAMDは、年次イベントとなる「AMD Advancing AI 2026」を7月22日と23日に米国カリフォルニア州サンフランシスコ市で開催している。2日目となった7月23日には、同社CEOのリサ・スー氏による基調講演が行なわれ、同社のAI向けソリューションなどが多数発表された。\n\nバイブコーディングでAMD GPU最適化を実現する魔法のツール「ROCm.AI」\n\nAMDは、年次イベントとなる「AMD Advancing AI 2026」を7月22日と23日に米国カリフォルニア州サンフランシスコ市で開催している。2日目となった7月23日には、同社CEOのリサ・スー氏による基調講演が行なわれ、同社のAI向けソリューションなどが多数発表された。\n\nこの中でAMDは同社のGPU最適化ツール「ROCm」の新しいツールとなる「ROCm.AI」を発表。ROCm.AIはいわゆるバイブコーディングやAIコーディングなどと呼ばれる、エージェント型AIにコードを書かせる新しいプログラミング方法に対応したROCmとなる。\n\n新しく「ROCm CLI」と呼ばれるコマンドラインベースのユーザーインターフェイスをサポートし、エージェント型AIやバイブコーディングツールに対応し、GPUへの最適化をエージェント型AIと協調しながら行なえるようになる。\n\nエージェント型のコーディングツールと連携してGPU最適化を自動で行なうROCm.AI\n\n今、ソフトウェアのプログラミング環境は大きく転換している。LLMから構築されているエージェント型AIは高度なプログラミングが可能になっているため、人間はソフトウェアの仕様書を作り、エージェント型AIに渡せば、AIがその仕様書を元にプログラムのコードを書いて、プログラムをコンパイルして実行形式にし、動作検証(デバッグ)まで行なうというプロセスが当たり前になりつつある。\n\nそうした現状の中で、AMDはこれまで人間のプログラマー向けだけをターゲットにしてきたGPU最適化ツール「ROCm」の…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2127/476/001.jpg"
+    },
+    {
+      "Title": "AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2127479.html",
+      "Published": "2026-07-23T18:30:00Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」\n\nAMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、フィジカルAI向けの「Ryzen AI Embedded Processors」の最新製品となる「Ryzen AI Embedded X100 Series processors」を発表した。\n\nAMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」\n\nAMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、フィジカルAI向けの「Ryzen AI Embedded Processors」の最新製品となる「Ryzen AI Embedded X100 Series processors」を発表した。\n\nStrix Halo/Golden HaloベースのRyzen AI Embedded X100\n\nAMDが発表したRyzen AI Embedded X100は、1月のCESでAMDが発表した「Ryzen AI Embedded P100 Series processors」の上位版製品となる。Ryzen AI Embedded P100は、Strix PointないしはGolden PointベースのSoCで、最大12コアのZen 5/Zen 5cコア、最大16CUのRDNA 3.5 GPU、最大50TOPSのNPUという構成になっていた。\n\nそれに対して、Ryzen AI Embedded X100はStrix HaloないしはGolden Haloがベースになっており、CPUは最大16コア(8コアのダイが2つ)のZen 5、GPUは最大40CUのRDNA 3.5、そして50TOPSのXDNA2 NPUというスペックになっている。\n\n最大128GBのメモリを搭載可能で、CPU、GPU、NPUが大容量のメモリをシェアしてAIのローカル処理を行…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2127/479/001.jpg"
+    },
+    {
+      "Title": "GeForce RTX 5000シリーズ出荷量、2026年7月下旬はさらに減少へ",
+      "Link": "https://www.nichepcgamer.com/archives/post-131113.html",
+      "Published": "2026-07-23T17:11:24Z",
+      "Source": "ニッチなPCゲーマーの環境構築Z",
+      "Category": "Blackwell",
+      "Summary": "GeForce RTX 5000シリーズ出荷量、2026年7月下旬はさらに減少へ\n\n2026年7月下旬は、GeForce RTX 5000シリーズの出荷量がさらに減少するとの情報が出てきました。 中国語圏フォーラム博板堂のリーカー、低手一号氏は以下のようの述べています。 2026年...\n\n2026年7月下旬は、GeForce RTX 5000シリーズの出荷量がさらに減少するとの情報が出てきました。\n\n中国語圏フォーラム博板堂のリーカー、低手一号氏は以下のようの述べています。\n\n2026年7月下旬以降、主要グラボメーカーのGeForce RTX 5000シリーズ出荷量は、2026年7月上旬～中旬よりもさらに減少する見込みだ。\n\n各モデルごとに見ていくと、GeForce RTX 5070およびそれ以上のハイエンドモデルが特に影響を受けており顕著な品薄となっている。GeForce RTX 5060 TiおよびGeForce RTX 5060の在庫も非常に少なくなっている。\n\nGeForce RTX 5050、GeForce RTX 3060、GeForce RTX 3050といったローエンドモデルも在庫は少なめだ。\n\n以前より2026年7月は、6月比で 3割以上出荷量が減少する といわれていましたが、低手一号氏によると2026年7月下旬は特に出荷量が少なくなる模様です。\n\n日本国内での在庫状況を見てみると、一部ショップではGeForce RTX 5070 TiやGeForce RTX 5080といったハイエンド製品の取り扱いモデルが少なくなっているところがみられます。\n\n日本国内においては今のところ小売価格に大きな影響は見られませんが、 GPU + VRAM価格の値上げ もあるため、今後、値上がりしていくことが懸念されます。\n\n筆者は自作PC歴20年以上の経験を持ち、Windows OSの細部にわたるカスタマイズや高度な設定、PCゲームの最適化、PCハードウェアとソフトウェアに関する専門知識をもとに、PC環境を快適にするための情報、不具合に遭わないようにするための情報、そし…",
+      "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2025/07/geforce-rtx-5000-series-top-g.jpg"
+    },
+    {
       "Title": "Apple Music・Apple Oneが値上げ｜今すぐできる節約術",
       "Link": "https://iphone-mania.jp/apple-603668/",
       "Published": "2026-07-23T16:27:02Z",
@@ -17,6 +62,15 @@
       "Category": "液晶モニタ",
       "Summary": "MSI、お手頃価格12,800円の120Hzモニター『PRO MP225 E12L』\n\nMSIは、お手頃価格の120Hzモニター『PRO MP225 E12L』を発表しました。 『PRO MP225 E12L』は21.45インチFHD解像度(1920 x 1080)のIPSパネルを採用...\n\nMSIは、 お手頃価格の120Hzモニター『PRO MP225 E12L』を発表しました。\n\n『PRO MP225 E12L』は21.45インチFHD解像度(1920 x 1080)のIPSパネルを採用したビジネス向けモニター。ビジネス向けでありながら、120Hzの高リフレッシュレートと1ms (MPRT)の高速応答速度により、滑らかな映像表示を実現。\n\n『PRO MP225 E12L』の主なスペックは、液晶パネルがIPSパネル、21.45インチ、解像度1920 x 1080 (FHD)、リフレッシュレート120Hz、応答速度: 1ms (MPRT)、ノングレア仕様、アンチフリッカー、ブルーライトカット機能搭載。VESAマウント対応(100 x 100mm)。\n\nインターフェイスはHDMI 1.4b x1、D-Sub x1。HDMIケーブルが付属。\n\n『PRO MP225 E12L』の希望小売価格はお手頃価格の税込12,800円。2026年7月30日発売。現在、 Amazonにて予約受付中 です。\n\n筆者は自作PC歴20年以上の経験を持ち、Windows OSの細部にわたるカスタマイズや高度な設定、PCゲームの最適化、PCハードウェアとソフトウェアに関する専門知識をもとに、PC環境を快適にするための情報、不具合に遭わないようにするための情報、そして、ちょっとニッチよりなPCユーザー向け記事の執筆を2015年4月から11年にわたって行っています。\n\n長年の経験により得たノウハウを活かし、初心者から上級者まで幅広く対応できる情報を提供し、読者様のPCライフをより快適で充実したものにすることを目指しています。",
       "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2026/07/msi-moni-top-a.jpg"
+    },
+    {
+      "Title": "50％ポイント還元！Kindle本 夏のスリル満点 マンガ特集",
+      "Link": "https://www.nichepcgamer.com/archives/kindle-sale-2026-7p-c.html",
+      "Published": "2026-07-23T15:59:10Z",
+      "Source": "ニッチなPCゲーマーの環境構築Z",
+      "Category": "雑記",
+      "Summary": "50％ポイント還元！Kindle本 夏のスリル満点 マンガ特集\n\nAmazonにて、Kindle本を購入すると50％がポイント還元される『Amazonマンガ週末セール 夏のスリル満点 マンガ特集』が開催されています。 例えば、873円の対象Kindle本を購入する...\n\nAmazonにて、Kindle本を購入すると 50％がポイント還元 される『 Amazonマンガ週末セール 夏のスリル満点 マンガ特集 』が開催されています。\n\n例えば、873円の対象Kindle本を購入すると、50％となる437ポイントが還元されるという非常にお得なキャンペーンとなっています。\n\nKindle本は Kindleデバイス だけでなく、 無料の専用アプリ を使えばWindowsやMac、AndroidにiPhone ＆ iPadでもお楽しみいただけます。読みたい本が還元対象になっていないか、この機会にチェックしてみてはいかがでしょうか！\n\nキャンペーン期限は 2026年7月26日(日)PM23:59まで。 キャンペーンページへは以下リンクよりどうぞ！\n\nAmazon.co.jp Amazonマンガ週末セール 夏のスリル満点 マンガ特集 50％ポイント還元\n\n筆者は自作PC歴20年以上の経験を持ち、Windows OSの細部にわたるカスタマイズや高度な設定、PCゲームの最適化、PCハードウェアとソフトウェアに関する専門知識をもとに、PC環境を快適にするための情報、不具合に遭わないようにするための情報、そして、ちょっとニッチよりなPCユーザー向け記事の執筆を2015年4月から11年にわたって行っています。\n\n長年の経験により得たノウハウを活かし、初心者から上級者まで幅広く対応できる情報を提供し、読者様のPCライフをより快適で充実したものにすることを目指しています。",
+      "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2026/07/kindle-sale-202607-50-new-c.png"
     },
     {
       "Title": "Galaxy S26 UltraやGalaxy TabなどSamsungデバイスが最大20%オフ！楽天お買い物マラソン",
@@ -3070,15 +3124,6 @@
       "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2126/111/s1.jpg"
     },
     {
-      "Title": "��Warframe�פȡ�Soulframe�פΥե��󥤥٥��ȡ�TennoCon 2026�ɤ˥ƥ��ΤȻȼԤ����롣��ȯɽ�˴ؤ��Ƥγ�ȯ�ԥ��󥿥ӥ塼�⤪�Ϥ�����",
-      "Link": "https://www.4gamer.net/games/172/G017216/20260716024/",
-      "Published": "2026-07-18T00:00:00Z",
-      "Source": "4Gamer.net Hardware",
-      "Category": "HARDWARE",
-      "Summary": "��Warframe�פȡ�Soulframe�פΥե��󥤥٥��ȡ�TennoCon 2026�ɤ˥ƥ��ΤȻȼԤ����롣��ȯɽ�˴ؤ��Ƥγ�ȯ�ԥ��󥿥ӥ塼�⤪�Ϥ�����\n\nDigital Extremesは7月10日，11日の2日間，開発・運営するオンラインアクションRPG「Warframe」と，現在開発中でクローズドαテストが実施されている新作「Soulframe」…\n\n「Warframe」と「Soulframe」のファンイベント“TennoCon 2026”にテンノと使者が集結。新発表に関しての開発者インタビューもお届けする ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ 私の新品Switch2の記録は，6:50:31でした ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「プロスピ2026」は，歴代日本代表で挑めるWBCモード搭載！ “最強の侍”はどのチームなのか，時代を超えた夢の対戦を目撃した ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「スプラトゥーン レイダース」は，Directでたくさん情報が出たからこそこれからに注目！ 発売日までの“お祭り感”を楽しもう ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 本日発売「DEAD OR ALIVE 6 Last Round」の初心者向けガイド。基本無料版で，奥深い3D格闘ゲームをまず浅瀬から体験しよう！ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「SteamNEXTフェス 6月エディション」オススメタイトルまとめ。片っ端から遊…",
-      "ImageURL": "https://www.4gamer.net/games/172/G017216/20260716024/SS/005.jpg"
-    },
-    {
       "Title": "�Υ��󥿥ӥ塼�ϡ�EWC 2026�פ�����΢����������Esports Foundation�δ���4�ͤ�ʹ�������Ļ��⤫�饿���ȥ����ꡤ���ܻԾ���ɾ���ޤ�",
       "Link": "https://www.4gamer.net/games/991/G999107/20260710035/",
       "Published": "2026-07-18T00:00:00Z",
@@ -3086,6 +3131,15 @@
       "Category": "HARDWARE",
       "Summary": "�Υ��󥿥ӥ塼�ϡ�EWC 2026�פ�����΢����������Esports Foundation�δ���4�ͤ�ʹ�������Ļ��⤫�饿���ȥ����ꡤ���ܻԾ���ɾ���ޤ�\n\nEsports Foundationは，世界最大級のeスポーツイベント「Esports World Cup 2026」を，フランス・パリで7月6日から8月23日まで開催している。本稿では，同団体の幹…\n\n［インタビュー］「EWC 2026」の舞台裏を主催団体Esports Foundationの幹部4人に聞く。運営資金からタイトル選定，日本市場の評価まで ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ 私の新品Switch2の記録は，6:50:31でした ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「プロスピ2026」は，歴代日本代表で挑めるWBCモード搭載！ “最強の侍”はどのチームなのか，時代を超えた夢の対戦を目撃した ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「スプラトゥーン レイダース」は，Directでたくさん情報が出たからこそこれからに注目！ 発売日までの“お祭り感”を楽しもう ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 本日発売「DEAD OR ALIVE 6 Last Round」の初心者向けガイド。基本無料版で，奥深い3D格闘ゲームをまず浅瀬から体験しよう！ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「SteamNEXTフェス 6月エディション」オススメタイトルまとめ。片…",
       "ImageURL": "https://www.4gamer.net/games/991/G999107/20260710035/SS/007.jpg"
+    },
+    {
+      "Title": "��Warframe�פȡ�Soulframe�פΥե��󥤥٥��ȡ�TennoCon 2026�ɤ˥ƥ��ΤȻȼԤ����롣��ȯɽ�˴ؤ��Ƥγ�ȯ�ԥ��󥿥ӥ塼�⤪�Ϥ�����",
+      "Link": "https://www.4gamer.net/games/172/G017216/20260716024/",
+      "Published": "2026-07-18T00:00:00Z",
+      "Source": "4Gamer.net Hardware",
+      "Category": "HARDWARE",
+      "Summary": "��Warframe�פȡ�Soulframe�פΥե��󥤥٥��ȡ�TennoCon 2026�ɤ˥ƥ��ΤȻȼԤ����롣��ȯɽ�˴ؤ��Ƥγ�ȯ�ԥ��󥿥ӥ塼�⤪�Ϥ�����\n\nDigital Extremesは7月10日，11日の2日間，開発・運営するオンラインアクションRPG「Warframe」と，現在開発中でクローズドαテストが実施されている新作「Soulframe」…\n\n「Warframe」と「Soulframe」のファンイベント“TennoCon 2026”にテンノと使者が集結。新発表に関しての開発者インタビューもお届けする ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ 私の新品Switch2の記録は，6:50:31でした ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「プロスピ2026」は，歴代日本代表で挑めるWBCモード搭載！ “最強の侍”はどのチームなのか，時代を超えた夢の対戦を目撃した ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「スプラトゥーン レイダース」は，Directでたくさん情報が出たからこそこれからに注目！ 発売日までの“お祭り感”を楽しもう ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 本日発売「DEAD OR ALIVE 6 Last Round」の初心者向けガイド。基本無料版で，奥深い3D格闘ゲームをまず浅瀬から体験しよう！ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「SteamNEXTフェス 6月エディション」オススメタイトルまとめ。片っ端から遊…",
+      "ImageURL": "https://www.4gamer.net/games/172/G017216/20260716024/SS/005.jpg"
     },
     {
       "Title": "(アキバ取材班) GIGABYTE 40周年記念展スタート、歴代マザーボードが秋葉原に集結",
@@ -4445,63 +4499,144 @@
       "Category": "",
       "Summary": "Intel、Xeon増産のためアイルランド製造拠点に約9,245億円を投資\n\nIntel Corporation（本社：アメリカ カリフォルニア州）は2026年7月13日（アイルランド時間）、欧州における製造拡大のためアイルランドにて50億ユーロ（約9,245億円）の設備投資を行うことを発表した。\n\nIntel、Xeon増産のためアイルランド製造拠点に約9,245億円を投資\n\nIntel Corporation（本社：アメリカ カリフォルニア州）は2026年7月13日（アイルランド時間）、欧州における製造拡大のためアイルランドにて50億ユーロ（約9,245億円）の設備投資を行うことを発表した。\n\n今回の拡張計画では、首都ダブリンに近いレイクスリップ・キャンパスの製造施設をアップグレードするとともに、最先端の製造設備を導入。自動化されたトラックシステムを拡張し、キャンパス内の様々なモジュールを単一の高速生産環境に統合するなど、主要インフラが強化される。\n\nIntel内で最も先進的な製造施設の一つとして機能している同キャンパスの強化により、Xeon 6およびIntel 3を採用する次世代Xeonの供給能力を向上させる狙いがある。また、建設や設備設置などの専門職に加え、Intelにおけるハイテク分野の正社員雇用の創出も見込まれている。\n\n文： 編集部 絵踏 一 Intel Corporation： https://www.intc.com/\n\nShuttle、容量14LのCore Ultra 200S対応Cube型ベアボー…\n\n(アキバ取材班) 「Ryzen 7 5800X3D」が復活、AM4 10周年記念…\n\n(アキバ取材班) 32GBメモリ搭載のプロ向けGPU、ASRock「Arc Pr…\n\n(プレス向けセミナー) 携帯ゲーム機向けCPU「Intel Arc G3」を解説…\n\nASRock、ビデオメモリ32GBのIntel Arc Pro B70採用プロ向…\n\nMSI、特別デザインのRTX 5090搭載プレミアムノート「Titan 18 H…\n\n2026年7月14日 扇風…",
       "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/07/14/intel_ireland_campus_01.jpg"
-    },
-    {
-      "Title": "PlayStation 5公式ライセンス取得のゲームパッド「Omega Wireless」がTSUKUMOで展示スタート",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2124420.html",
-      "Published": "2026-07-14T03:30:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "PlayStation 5公式ライセンス取得のゲームパッド「Omega Wireless」がTSUKUMOで展示スタート\n\nSCUFのゲームパッド「Omega Wireless」がTSUKUMO eX.で展示中だ。本体カラーはスチールグレイ。\n\nPlayStation 5公式ライセンス取得のゲームパッド「Omega Wireless」がTSUKUMOで展示スタート\n\nSCUFのゲームパッド「Omega Wireless」が TSUKUMO eX. で展示中だ。本体カラーはスチールグレイ。\n\nOmega WirelessはPlayStation 5オフィシャルライセンス取得のゲームパッド。接続方式はUSB Type-C、2.4GHzワイヤレス、Bluetooth。\n\n4つの背面パドル、5つのGキー、2つのサイドアクションボタン、高耐久TMRサムスティックなどを搭載。SCUF独自の特許取得済みパドルコントロールにより、親指をスティックに置いたまま鋭い反応を維持できるという。\n\nSCUFモバイルアプリを使い、iOS/Androidスマートフォンでカスタマイズが可能。また、1KポーリングレートでPCでの有線・無線接続どちらでも超低遅延を実現するとしている。\n\n主な仕様はポーリングレートがPC：1,000Hz / PS5：250Hz、バッテリー駆動時間が最大30時間、搭載プロファイルが3、寸法がL164×W115×H64mm、重量（本体のみ）が254g。\n\n同梱物は編組USB Type-Cケーブル（2m）、ワイヤレスドングル、ショート凸型サムスティック、ロング凸型サムスティック、左インナーパドル用ブランキングプレート、右インナーパドル用ブランキングプレート、左サイドボタン用ブランキングプレート、右サイドボタン用ブランキングプレート、トーナメントロックなど。",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2124/420/a1.jpg"
-    },
-    {
-      "Title": "ベルキン、「スパイダーマン」デザインのMagSafeモバイルバッテリー発売",
-      "Link": "https://www.gdm.or.jp/pressrelease/2026/0714/643728",
-      "Published": "2026-07-14T03:22:48Z",
-      "Source": "エルミタージュ秋葉原",
-      "Category": "",
-      "Summary": "ベルキン、「スパイダーマン」デザインのMagSafeモバイルバッテリー発売\n\nベルキン株式会社（本社：東京都中央区）は2026年7月14日、マーベル・スタジオの「スパイダーマン：ブランド・ニュー・デイ」デザインを採用したMagSafe対応モバイルバッテリー「BoostCharge ワイヤレスモバイルバッテリー 5000 mAh スパイダーマン限定モデル」を発表した。市場想定売価は税込6,990円で、すでに販売が開始されている。\n\nベルキン、「スパイダーマン」デザインのMagSafeモバイルバッテリー発売\n\nベルキン株式会社（本社：東京都中央区）は2026年7月14日、マーベル・スタジオの「スパイダーマン：ブランド・ニュー・デイ」デザインを採用したMagSafe対応モバイルバッテリー 「BoostCharge ワイヤレスモバイルバッテリー 5000 mAh スパイダーマン限定モデル」 を発表した。市場想定売価は税込6,990円で、すでに販売が開始されている。\n\n今月に公開されるマーベルのスーパーヒーロー映画「スパイダーマン：ブランド・ニュー・デイ」をモチーフとした、薄型・軽量の5,000mAhモバイルバッテリー。MagSafeに対応しており、10Nの強力マグネットでiPhoneに吸着する。MagSafe対応ケースおよび厚さ3mm以下のケースであれば、装着したまま吸着・充電が可能。\n\nMagSafeのワイヤレス充電とUSB Type-Cの同時出力に対応。同時使用時はワイヤレス最大5Wと有線最大7.5W出力が可能で、スマートフォンとイヤホンなどのデバイスを一緒に充電できる。またUSB Type-Cの有線出力は、単ポート使用時に最大15Wの急速充電が可能。\n\nそのほか、過充電・過電流・過電力・短絡・高温/低温入出力・過電圧・信号干渉など、ベルキンの厳格な安全基準に基づく保護機能を搭載。安全性の高さも特徴とする。\n\n外形寸法は幅71.6mm、奥行き102mm、厚み10.3mm、重量約119g。製品には3,500回の折り曲げテストをクリアしたUSB Type-Cケーブル（60cm）…",
-      "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/07/14/BPD010BRqc_DY_01.jpg"
-    },
-    {
-      "Title": "【本日みつけたお買い得品】東芝のリビング扇風機が2,277円引き。DCモーター搭載",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2124891.html",
-      "Published": "2026-07-14T03:14:59Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "【本日みつけたお買い得品】東芝のリビング扇風機が2,277円引き。DCモーター搭載\n\nAmazonにおいて、東芝のリビング扇風機「TF-30DL28A」が7月6日の価格から2,277円引きで、1万2,903円にて購入可能だ。\n\nAmazonにおいて、東芝のリビング扇風機「TF-30DL28A」が7月6日の価格から2,277円引きで、1万2,903円にて購入可能だ。\n\nTF-30DL28Aは、キメ細やかな風を送り出すという、7枚羽根のリビング扇風機。DCモーターの採用により、省エネ性や静音性を向上。4段階の風量調節に対応する。風量1～3の間で穏やかに変化する「ふわり風」、1～4の間でダイナミックに変化する「ゆらぎ風」の2種類のランダム風モードを搭載。切/入タイマー機能、チャイルドロック機能を備える。リモコンが付属する。\n\n東芝「TF-30AL28A」は、7月6日の価格から1,474円引きにより、8,396円で購入できる。ACモーターのリビング扇風機。3段階の風量調節に対応する。切タイマー機能、チャイルドロック機能を搭載。リモコンが付属する。\n\n山善「YLXP-AJD301(W)」は、7月13日の価格から1,762円引きで、7,980円にて購入可能。DCモーターのリビング扇風機だ。最大20WのUSB PDに対応し、付属のUSB充電器のほか、市販のモバイルバッテリでも使用できる。10段階の風量調節に対応。切/入タイマー機能を備える。リモコン付属。",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2124/891/01.jpg"
-    },
-    {
-      "Title": "LANケーブル1本で4K映像を最大120m延長できる分配対応HDMIエクステンダー",
-      "Link": "https://www.gdm.or.jp/pressrelease/2026/0714/643734",
-      "Published": "2026-07-14T03:14:22Z",
-      "Source": "エルミタージュ秋葉原",
-      "Category": "",
-      "Summary": "LANケーブル1本で4K映像を最大120m延長できる分配対応HDMIエクステンダー\n\nサンワサプライ株式会社（本社：岡山市北区）は2026年7月14日、HDMI信号を最大120m延長できるHDMIエクステンダーを発表。即日販売を開始した。\n\nLANケーブル1本で4K映像を最大120m延長できる分配対応HDMIエクステンダー\n\nPoC機能に対応し、受信機への電源供給もLANケーブル経由で行える\n\nサンワサプライ株式会社（本社：岡山市北区）は2026年7月14日、HDMI信号を最大120m延長できるHDMIエクステンダーを発表。即日販売を開始した。\n\n送信機と専用の受信機 「VGA-EXHDPOCR」 の組み合わせで使用し、送信機はHDMI映像を最大4台のディスプレイに分配・延長できる 「VGA-EXHDPOCL4」 と、2台のディスプレイ分配・延長できる 「VGA-EXHDPOCL2」 の2種類がラインナップする。\n\nいずれも送信機と受信機はLANケーブル1本で接続でき、4K/60Hz映像なら最大120m、フルHD映像なら最大150mまで高画質のまま長距離伝送が可能。さらにLANケーブル経由で電源を供給するPoC（Power over Cable）に対応するため、受信機側にACアダプタを接続する必要はない。\n\n送信機は最大3段階のカスケード接続をサポートしており、最大12台のディスプレイに映像を表示可能。また、送信機側にHDMI出力を備え、手元で映像を確認しながら同時に延長先へ出力できる。\n\n「VGA-EXHDPOCL2」の外形寸法は幅170mm、奥行き130mm、高さ40mm、重量685g。「VGA-EXHDPOCL4」の外形寸法は幅220mm、奥行き130mm、高さ40mm、重量850g。「VGA-EXHDPOCR」の外形寸法は幅140mm、奥行き65mm、高さ18mm、重量248g。\n\n文： 編集部 池西 樹 サンワサプライ株式会社： https://www.sanwa.co.jp/\n\nサンワダイレクト、最大14,000Paの強力吸引が可能なUSB充電式ハンディクリ…",
-      "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/07/14/VGA-EXHDPOCL4_01.jpg"
-    },
-    {
-      "Title": "ガチくんに! 第424回切り抜き「格ゲー女性プレイヤー座談会！プロへの印象や裏話を聞いてみた」",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/2124815.html",
-      "Published": "2026-07-14T03:00:00Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "ガチくんに! 第424回切り抜き「格ゲー女性プレイヤー座談会！プロへの印象や裏話を聞いてみた」\n\n※毎週木曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイター6攻略企画「ガチくんに!」をTwitchとYouTubeで配信しています。レギュラー出演者はぷげら、奥村茉実。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードした切り抜きとアーカイブの動画を掲載しています。\n\nガチくんに! 第424回切り抜き「格ゲー女性プレイヤー座談会！プロへの印象や裏話を聞いてみた」\n\n※毎週木曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイター6攻略企画「ガチくんに!」を Twitch と YouTube で配信しています。レギュラー出演者はぷげら、奥村茉実。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードした切り抜きとアーカイブの動画を掲載しています。\n\n7月9日の配信では、レギュラーの奥村さんに加えて、ゲストにitsukaさん、芦澤佳純さんをお迎えして、格ゲー女性プレイヤーによる座談会を実施。さまざまな質問を通じてガールズトークしていただきました。",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2124/815/01.jpg"
-    },
-    {
-      "Title": "HP製ミニPC「EliteDesk 800 G5 DM」が30,800円、第9世代 Core搭載の中古Cランク品がQualitでセール",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2124418.html",
-      "Published": "2026-07-14T03:00:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "HP製ミニPC「EliteDesk 800 G5 DM」が30,800円、第9世代 Core搭載の中古Cランク品がQualitでセール\n\nCore i5-9500T(6コア/6スレッド)を搭載したHP製ミニPC「EliteDesk 800 G5 DM」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で特価販売中。\n\nHP製ミニPC「EliteDesk 800 G5 DM」が30,800円、第9世代 Core搭載の中古Cランク品がQualitでセール\n\nCore i5-9500T(6コア/6スレッド)を搭載したHP製ミニPC「EliteDesk 800 G5 DM」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で特価販売中 。\n\n今回販売されているのは、「傷や使用感が見られる」(同店)というCランク中古品で、販売価格は30,800円。保証期間は12か月となっています。\n\n主な仕様は、メモリが8GB(空きスロット×1)、ストレージが256GB SSD、OSがWindows 11 Pro。インターフェイスには、DisplayPort×2やVGA、USB Type-Cなどを備えています。",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2124/418/a1.jpg"
     }
   ],
   "world": [
+    {
+      "Title": "AMD announces 6th Gen AMD EPYC 'Venice' CPUs, up to 256 cores and 512 threads and built for AI",
+      "Link": "https://www.tweaktown.com/news/112793/amd-announces-6th-gen-amd-epyc-venice-cpus-up-to-256-cores-and-512-threads-and-built-for-ai/index.html",
+      "Published": "2026-07-23T18:31:09Z",
+      "Source": "TweakTown",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "AMD、EPYC 9006、Instinct MI400、新しい物理 AI ハードウェアで AI ポートフォリオを拡張",
+      "Link": "https://www.kitguru.net/channel/generaltech/matthew-wilson/amd-expands-ai-portfolio-with-epyc-9006-instinct-mi400-and-new-physical%e2%80%91ai-hardware/",
+      "Published": "2026-07-23T18:30:27Z",
+      "Source": "KitGuru",
+      "Category": "Zen",
+      "Summary": "AMD、EPYC 9006、Instinct MI400、新しい物理 AI ハードウェアで AI ポートフォリオを拡張\n\nAMD は、Advancing AI 2026 でデータセンター ポートフォリオへの新たな追加を発表し、次世代 AI インフラストラクチャを目的とした第 6 世代 EPYC 9006 シリーズ サーバー CPU と Instinct MI400 シリーズ GPU の両方を導入しました。\n\nAMD、EPYC 9006、Instinct MI400、新しい物理 AI ハードウェアで AI ポートフォリオを拡張\n\nMatthew Wilson 8 分前 注目の技術ニュース , 一般技術\n\nAMD は、Advancing AI 2026 でデータセンター ポートフォリオへの新たな追加を発表し、次世代 AI インフラストラクチャを目的とした第 6 世代 EPYC 9006 シリーズ サーバー CPU と Instinct MI400 シリーズ GPU の両方を導入しました。 EPYC 9006 シリーズは、AMD によって、エージェントの実行、タスクの調整、およびデータ フローの管理によって CPU がより大きな割合の作業を引き受ける、エージェント AI をサポートするために構築されたワークロードに最適化された CPU ラインナップであると説明されています。 AMD は、新世代はコア数の増加、メモリ帯域幅の拡大、PCIe Gen 6 や MRDIMM などの次世代 I/O 規格のサポートを通じて、この負荷の増加に対処できるように設計されていると主張しています。 EPYC 9006 シリーズは 4 つの CPU ファミリで構成されています。 SP7 層は最大密度のオプションで、コア数は最大 256 コア、スレッド数は 512 で、高周波バージョンは最大 5 GHz に達します。 SP8 モデルは効率を重視しており、エンタープライズ、エッジ、電力に制約のある展開向けに設計された最大 128 コア構成を提供します。 HPC やメモリに敏感なワークロードの場合、AMD…",
+      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2025/05/amd-epyc-732x330.jpg"
+    },
+    {
+      "Title": "PC ハードウェア メーカーは BIOS を通じて無料のパフォーマンスを提供し続けていますが、ほとんどのビルダーはそれを主張しません",
+      "Link": "https://www.xda-developers.com/the-cheapest-way-to-make-an-old-pc-feel-new-isnt-a-new-cpu-its-a-bios-update/",
+      "Published": "2026-07-23T18:30:10Z",
+      "Source": "XDA",
+      "Category": "PC",
+      "Summary": "PC ハードウェア メーカーは BIOS を通じて無料のパフォーマンスを提供し続けていますが、ほとんどのビルダーはそれを主張しません\n\nBIOS をフラッシュするだけでアップグレードできる場合があります\n\nPC ハードウェア メーカーは BIOS を通じて無料のパフォーマンスを提供し続けていますが、ほとんどのビルダーはそれを主張しません\n\nBy Abhinav Raj 公開 2026 年 7 月 23 日、午後 2 時 30 分 EDT アビナブは、銀行業界でのキャリアから方向転換して、初恋を作家として追求しました。フルタイムで働きながらも、編集長として貢献を続け、その役割を 7 年以上務めました。 2018 年以来、ゲームと生産性に優れた PC を 3 台構築してきた生涯のテクノロジー愛好家である彼は、テクノロジーに対する情熱により、NVIDIA や AMD から ARM に至るまで、半導体業界を常に追い続けています。彼の修士論文は、人工知能が仕事の未来をどのように再形成するかを探求し、新興テクノロジーのより広範な社会的影響に対する彼の好奇心を反映しています。 XDA アカウントにサインインする ほとんどの人は、新しい CPU を古いソケットに差し込み、電源ボタンを押し、空白の黒い画面が表示されるまで、マザーボードがアップグレード可能なソフトウェアを実行していることを知りません。これは、Ryzen 5 3600 から Ryzen 5 5600X に初めてアップグレードした後でのみ BIOS アップデートの存在を発見した人間である私にとって、イライラと入り混じった恐怖の感情です。しかし、そのような瞬間はしばしば間違った教訓を教えてくれます。\n\n新しいチップが起動すると、ほとんどのユーザーは BIOS アップデートを 1 つの目的のタスクとしてファイルに保存し、新しいプロセッサが要求したとき (通常は 5 ～ 6 年に 1 回) にのみ実行します。この前提により、多くの場合、一部の無料機能とそれに伴う追加パフォーマンスが犠牲になる可能性があり、ビルドの古さによっては、その…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/pc-bios.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "AMD の新しい X100 チップ ラインナップは Strix Halo をロボットに搭載 – 物理 AI 用の APU は Zen 5 CPU、RDNA 3.5 GPU コアを搭載し、Intel の Panther Lake と競合します",
+      "Link": "https://www.tomshardware.com/pc-components/cpus/amds-new-x100-chip-lineup-puts-strix-halo-into-robots-apus-for-physical-ai-bring-zen-5-cpu-rdna-3-5-gpu-cores-to-compete-with-intels-panther-lake",
+      "Published": "2026-07-23T18:30:00Z",
+      "Source": "Tom's Hardware",
+      "Category": "PC Components",
+      "Summary": "AMD の新しい X100 チップ ラインナップは Strix Halo をロボットに搭載 – 物理 AI 用の APU は Zen 5 CPU、RDNA 3.5 GPU コアを搭載し、Intel の Panther Lake と競合します\n\nAMDはロボット戦争でIntel（そしてNvidia）と対戦する。\n\nAMD の新しい X100 チップ ラインナップは Strix Halo をロボットに搭載 – 物理 AI 用の APU は Zen 5 CPU、RDNA 3.5 GPU コアを搭載し、Intel の Panther Lake と競合します\n\nAMDはロボット戦争でIntel（そしてNvidia）と対戦する。\n\n(画像クレジット: Tom's Hardware) リンクをコピー\n\n0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する AMD は、Strix Halo APU を物理 AI の世界に導入します。新しい X100 シリーズのプロセッサーは、クライアント デバイスで流通しているさまざまな Ryzen AI Max モデルと同様の仕様を備えていますが、ロボット工学などの組み込みアプリケーションでの 10 年のライフサイクルを備え、24 時間年中無休の動作に合わせて調整されています。\n\n3 つのオリジナル Strix Halo モデルと一致する 3 つの SKU があります (40 CU の更新バージョンではありません)。最上位の X199 には、16 個の Zen 5 コアと 40 個の RDNA 3.5 CU が搭載されています。 X188 は 12 コアと 32 CU にステップダウンしますが、X168 には 8 コアと同じ 32 CU が付属します。 AMDは各モデルの詳細な仕様を明らかにしていないが、同社によれば、その範囲は最大5.1 GHzのブーストクロックと128 GBのユニファイドメモリに達するという。また、最大 50 TOPS の XDNA 2 NPU、45W ～ 120W の…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/pXkThAfC4PkTjFgvWAPXYF-2560-80.jpg"
+    },
+    {
+      "Title": "Galaxy S27のメインカメラはサムスンの状況を一変させるかもしれない",
+      "Link": "https://www.androidauthority.com/samsung-galaxy-s27-camera-rumors-3690787/",
+      "Published": "2026-07-23T18:10:51Z",
+      "Source": "Android Authority",
+      "Category": "Samsung Galaxy S27",
+      "Summary": "Galaxy S27のメインカメラはサムスンの状況を一変させるかもしれない\n\n新しい噂によると、サムスンのギャラクシーS27とS27プラスはプライマリカメラに50メガピクセルのソニーセンサーを利用するという。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nAndroidフォン Galaxy S27のメインカメラはSamsungにとって事態を一変させる可能性がある\n\n0 • Joe Maring / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR 新しい噂によると、Galaxy S27 および S27 Plus のプライマリ カメラは Sony センサーを使用する可能性があります。\n\nSamsung の S シリーズ携帯電話では、数年間にわたってプライマリ カメラに Samsung ISOCELL センサーが使用されてきました。\n\nS27 Pro および S27 Ultra には、アップグレードされた 50 メガピクセルのウルトラワイド カメラも搭載される可能性があります。\n\n2024年からSamsung Galaxy S27シリーズに関する噂を聞いてきましたが、今週のGalaxy UnpackedイベントでZ Flip 8、Z Fold 8、Z Fold 8 Ultraについて知るべきことがすべて明らかになった今、Samsungの次の注目の携帯電話に関するリークが確実に取り上げられるでしょう。たとえば、今日の新しいレポートでは、S27 のカメラに期待できることについて少し光を当てています。\n\nオランダ語の出版物Galaxy Clubは、Samsung Galaxy S27およびS27 Plusには、ソニーが供給する50メガピクセルのプライマリカメラセンサーが搭載される可能性があると報じています。ハードウェア自体は2027年のハイエンド携帯電話としては珍しいものではないようですが、SamsungがGalax…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/03/samsung-galaxy-s26-base-review-camera-sensors-scaled.jpg"
+    },
+    {
+      "Title": "(PR) Bosgame、Intel「Wildcat Lake」CPUを搭載したE6 ECO Mini PCを発表",
+      "Link": "https://www.techpowerup.com/351027/bosgame-introduces-e6-eco-mini-pc-powered-by-intel-wildcat-lake-cpu",
+      "Published": "2026-07-23T18:08:58Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "(PR) Bosgame、Intel「Wildcat Lake」CPUを搭載したE6 ECO Mini PCを発表\n\nテクノロジーベースの電子製品ブランドである BOSGAME は本日、Ecolite シリーズのミニ PC の最新製品である E6 ECO の近々の発売を発表しました。 2026 年 8 月 15 日に世界的にリリースされる予定の E6 ECO は、信頼性の高い日常のコンピューティング、エネルギー効率、および...\n\nBosgame がインテル「Wildcat Lake」CPU を搭載した E6 ECO ミニ PC を発表\n\n2026 年 6 月 12 日、4000 ドルの AMD Ryzen AI Halo Mini PC 開発キットの予約注文が開始 (47)\n\n2026 年 5 月 31 日 NVIDIA が、エージェントティック ユーザー インターフェイスを備えた Windows PC 用のスーパーコンピューター グレードのプロセッサーである RTX Spark を発表 (63)\n\n2026 年 6 月 29 日 GIGABYTE が X870 AORUS Infinity マザーボードを正式に発売 (15)\n\n2026 年 4 月 16 日 Intel「Wildcat Lake」が正式発表: 最大 6 つの CPU コアと 2 つの Xe3 コア (20)\n\n2026 年 6 月 1 日 MSI、ミニ PC に「Wildcat Lake」と「Panther Lake」を搭載 (7)\n\n2026 年 6 月 16 日 Cable Matters が、4 ウェイ スイッチングとデュアル ラップトップ同時充電を備えた高度な USB-C KVM スイッチを発表 (2)\n\n2026 年 7 月 6 日 新しい Lenovo Yoga AI ミニ PC パック Intel Core Ultra X7 358H CPU および Arc B390 (4)\n\n2026 年 4 月 10 日 ONEXStation がゲーム、AI、リモート サーバー ワークロード向け…",
+      "ImageURL": "https://www.techpowerup.com/img/UXvMZ8qdQIMVj7z0.jpg"
+    },
+    {
+      "Title": "AMD が Instinct MI455X AI アクセラレータを公開 — CDNA 5 と Helios ラックスケール アーキテクチャを組み合わせてデータセンターで Nvidia と戦います",
+      "Link": "https://www.tomshardware.com/pc-components/gpus/amd-takes-the-wraps-off-its-instinct-mi455x-ai-accelerator-cdna-5-and-helios-rack-scale-architecture-combine-to-take-the-fight-to-nvidia-in-the-data-center",
+      "Published": "2026-07-23T18:05:44Z",
+      "Source": "Tom's Hardware",
+      "Category": "PC Components",
+      "Summary": "AMD が Instinct MI455X AI アクセラレータを公開 — CDNA 5 と Helios ラックスケール アーキテクチャを組み合わせてデータセンターで Nvidia と戦います\n\n大幅なパフォーマンスの向上、メモリ容量の増加、大規模なスケールアップ領域により、AMD 史上最強の AI チップが実現\n\nAMD が Instinct MI455X AI アクセラレータを公開 — CDNA 5 と Helios ラックスケール アーキテクチャを組み合わせてデータセンターで Nvidia と戦います\n\n大幅なパフォーマンスの向上、メモリ容量の増加、大規模なスケールアップ領域により、AMD 史上最強の AI チップが実現\n\n0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 今週の AMD の Advancing AI イベントで、同社は、次期 MI455X GPU と、それらの GPU のうち 72 個をコヒーレント アクセラレータに結合する Helios ラックスケール アーキテクチャの詳細を明らかにしました。これは、AMD がこれまでに構築したこのようなシステムとしては最大であり、Blackwell で使用されている Nvidia の NVL72 ラックスケール設計と真に競合するのは初めてです。そしてルービンの世代。\n\nAMD は MI455X を「当社がこれまでに構築した中で最も先進的な AI アクセラレータ」と呼んでおり、これまで見てきた限りでは、AI コンピューティング レースにおける Nvidia の徹底した優位性に対して AMD がこれまでに投入した製品の中で、チップ レベルとラック スケールの両方で最も競争力のある製品です。\n\n完全な MI455X GPU は、3,200 億個のトランジスタを含む巨大なチップであり、高度なパッケージング技術を使用して構築されています。 4 つの Accelerator Complex Die (XCD) が、ハイブリッド ボンディングを使用して各 …",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/3BFHbcRr5aki3FZCTBPAG5-1920-80.png"
+    },
+    {
+      "Title": "Amazon Prime Videoがゲームストリーミングを機能リストに追加",
+      "Link": "https://www.androidauthority.com/amazon-prime-video-integrates-luna-3690775/",
+      "Published": "2026-07-23T18:01:24Z",
+      "Source": "Android Authority",
+      "Category": "Streaming",
+      "Summary": "Amazon Prime Videoがゲームストリーミングを機能リストに追加\n\nAmazon は Luna を Prime Video に統合し、アプリ内でクラウドから直接ゲームをストリーミングできるようにします。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nAmazon Prime Videoがゲームストリーミングを機能リストに追加\n\n0 • Amazon Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Amazon は、クラウド ゲーム プラットフォームである Luna を Prime Video に統合しています。\n\nプライム会員は追加料金なしでゲームをプレイできます。\n\nLuna は、Fire TV を使用する米国と英国のユーザー向けに、本日より Prime Video で視聴可能になります。\n\nAmazonの創設者ジェフ・ベゾス氏は、同社のAI能力を強調するプライム・ビデオの再設計を推進している。伝えられるところによると、その再設計のバージョンはすでにテスト中ですが、そのオーバーホールはしばらくの間行われない可能性があります。ただし、今日リリースされるアプリには変更が 1 つあります。おそらく、より多くの AI を顔に押しつけられるよりも、その点の方がありがたいでしょう。\n\nAmazon が Luna というクラウド ゲーム プラットフォームを運営していることを忘れたとしても、誰もあなたを責めることはありません。しかし、AmazonがこのサービスをPrime Videoに直接統合した今、このサービスを忘れることはずっと難しくなるだろう。そうです、この電子商取引の巨人は、Prime Video アプリ内でゲームをプレイできるようになると発表しました。\n\nこの展開により、ゲームは番組や映画と一緒に登場します。アプリの上部に新しい「ゲーム」タブも表示されます。同社によれば、この統合により「メンバーはお気に入りのフランチャイズをさらに深…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Amazon-Prime-Luna.jpg"
+    },
+    {
+      "Title": "すべての 3D プリンターが同じフィラメント言語を話すようになりつつあり、Prusa はちょうどそれを開始したばかりです",
+      "Link": "https://www.xda-developers.com/every-3d-printer-speak-same-filament-language-prusa/",
+      "Published": "2026-07-23T18:00:10Z",
+      "Source": "XDA",
+      "Category": "OpenPrintTag",
+      "Summary": "すべての 3D プリンターが同じフィラメント言語を話すようになりつつあり、Prusa はちょうどそれを開始したばかりです\n\nPrusa の OpenPrintTag は、ついに 3D プリンター、フィラメント スプール、および在庫ツールに、スマート フィラメント データの 1 つの共通標準を提供できるようになりました。\n\nすべての 3D プリンターが同じフィラメント言語を話すようになりつつあり、Prusa はちょうどそれを開始したばかりです\n\n文：Jeff Butts 公開 2026 年 7 月 23 日、午後 2:00 EDT Jeff は、インターネット以前から IT 業界に携わっており、20 年以上、テクニカル サポート、システム管理、ネットワーク管理、およびコンサルティングの役割に従事してきました。彼は英語で学士号を取得し、専門的な執筆と編集に重点を置いた英語で修士号を取得し、さらにコンピューティングおよび情報システムで修士号を取得しています。大学で英語とコンピューター サイエンスを数年間教えた後、ジェフは執筆活動を開始しました。彼は XDA で仕事を始める前に、 Macworld 、 Tom's Hardware 、 groovyPost 、 The Mac Observer などで執筆を行ってきました。 XDA アカウントにサインインする スマート フィラメント スプールはしばらく前から存在していましたが、通常、「スマート」部分は会社のエコシステムを離れた瞬間に消えてしまいます。タグ付きスプールは、あるプリンタにその内容を正確に伝えることができ、それを別の場所にロードすると、まったく普通のプラスチックのロールに変わります。 Prusa の OpenPrintTag は、プリンター メーカー、フィラメント会社、ソフトウェア開発者がすべて使用できる、オープンで書き換え可能な NFC 標準でこの問題を解決することを目的としています。すべてのスプールがすべての機械で完璧に動作するようになるわけではありませんが、基本的なフィラメント情報を 1 つのブランドのハードウェ…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/every-3d-printer-is-about-to-speak-the-same-filament-language-and-prusa-just-kicked-it-off-featured.jpeg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "AMD と Cerebras は、低遅延、高スループットの AI 推論で提携します。Helios ラックスケール インフラストラクチャの EPYC プロセッサと Cerebras の Wafer-Scale Engine (WSE) ソリューションの組み合わせ",
+      "Link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-and-cerebras-partner-on-low-latency-high-throughput-ai-inference-epyc-processors-in-helios-rack-scale-infrastructure-paired-with-cerebras-wafer-scale-engine-wse-solutions",
+      "Published": "2026-07-23T17:45:00Z",
+      "Source": "Tom's Hardware",
+      "Category": "Tech Industry",
+      "Summary": "AMD と Cerebras は、低遅延、高スループットの AI 推論で提携します。Helios ラックスケール インフラストラクチャの EPYC プロセッサと Cerebras の Wafer-Scale Engine (WSE) ソリューションの組み合わせ\n\nGroq に似ていますが、異なります。\n\nAMD と Cerebras は、低遅延、高スループットの AI 推論で提携します。Helios ラックスケール インフラストラクチャの EPYC プロセッサと Cerebras の Wafer-Scale Engine (WSE) ソリューションの組み合わせ\n\n(画像クレジット: Cerebras) リンクをコピー\n\n0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する AMD と Cerebras Systems は木曜日、Helios ラックスケール インフラストラクチャ内の AMD の EPYC プロセッサと Cerebras の Wafer-Scale Engine (WSE) ソリューションを組み合わせるプラットフォームを開発する計画を発表しました。これらの新しいシステムは、AMD の CPU と Instinct GPU の低遅延と、Cerebras の Wafer Scale Engine (WSE) プロセッサの高スループットを組み合わせることが約束されています。\n\nAMDとCerebrasは、EPYC CPUとInstinct MI400シリーズアクセラレータを内蔵したAMD Heliosラックをベースにした新しいラック間スケールプラットフォームが迅速な処理と大きなコンテキストウィンドウを担当するのに対し、CerebrasのWSEはメモリ帯域幅を大量に消費するトークン生成段階を担当すると期待している。\n\nAMD と Cerebras は、自社向けに最適化されたアーキテクチャに推論ワークロードのさまざまな部分を割り当てることで、分散推論プラットフォームが最大 5 倍のトークン/秒/ワット (…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/QDGHobTS56GF94GsXHu2PV-2500-80.jpg"
+    },
+    {
+      "Title": "Nvidia RTX 3090 と RTX 3050 が連携して 4K で 144 FPS を達成 — ロスレス スケーリングが古い Ampere GPU をゲームのパワーハウスに変える",
+      "Link": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-3090-and-rtx-3050-team-up-to-hit-144-fps-at-4k-lossless-scaling-turns-old-ampere-gpus-into-a-gaming-powerhouse",
+      "Published": "2026-07-23T17:39:03Z",
+      "Source": "Tom's Hardware",
+      "Category": "PC Components",
+      "Summary": "Nvidia RTX 3090 と RTX 3050 が連携して 4K で 144 FPS を達成 — ロスレス スケーリングが古い Ampere GPU をゲームのパワーハウスに変える\n\nGPU も 2 倍、フレームも 2 倍に\n\nNvidia RTX 3090 と RTX 3050 が連携して 4K で 144 FPS を達成 — ロスレス スケーリングが古い Ampere GPU をゲームのパワーハウスに変える\n\nGPU も 2 倍、フレームも 2 倍に\n\n(画像クレジット: Gainward) リンクをコピー\n\n1 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する GeForce RTX 3090 は、もはや最高のグラフィックス カードの 1 つではないかもしれません。ただし、弟の GeForce RTX 3050 の助けを借りれば、今日でもトップパフォーマーと競争できます。最近、quziwuzzi という名前で知られる機知に富んだゲーム愛好家が Reddit で、これら 2 つのアンペアベースのグラフィックス カードを組み合わせ、ロスレス スケーリング テクノロジーを使用して組み合わせたパフォーマンスを劇的に向上させ、4K (3840x2160) 解像度で最大 144 FPS を達成したと説明しました。\n\nThe Stout Owl: 究極の Noctua G2 PC\n\nLossless Scaling は、Steam で提供されている非常に強力でありながら手頃な価格のツールで、価格はわずか 7 ドルで、AI のアップスケーリングとフレーム生成を大衆に提供します。ロスレス スケーリングが Nvidia DLSS 、AMD FSR 、または Intel XeSS などの独自のソリューションと異なるのは、あらゆるゲーム ソフトウェアやビデオ ソフトウェアとの幅広い互換性です。タイトルやアプリケーションにこれらの独自ソリューションの公式サポートが付属しているかどうかに関係なく、シームレスに動作します。\n\n…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/gMGk8KAXZAmuTxcrbamdqe-1920-80.jpg"
+    },
+    {
+      "Title": "新しい半導体会社、初期段階の資金調達で4,300万ドルを裏付け、カバーを破る - TYLsemiは大金をかけずに顧客にカスタムシリコンを提供することを目指す",
+      "Link": "https://www.tomshardware.com/tech-industry/semiconductors/new-semiconductor-firm-breaks-cover-backed-by-usd43-million-in-early-stage-funding-tylsemi-aims-to-deliver-custom-silicon-to-customers-without-breaking-the-bank",
+      "Published": "2026-07-23T17:34:06Z",
+      "Source": "Tom's Hardware",
+      "Category": "Manufacturing",
+      "Summary": "新しい半導体会社、初期段階の資金調達で4,300万ドルを裏付け、カバーを破る - TYLsemiは大金をかけずに顧客にカスタムシリコンを提供することを目指す\n\n小規模企業でも、数十億ドルを投資することなくカスタム プロセッサを構築できるようになりました。\n\n新しい半導体会社、初期段階の資金調達で4,300万ドルを裏付け、カバーを破る - TYLsemiは大金をかけずに顧客にカスタムシリコンを提供することを目指す\n\n小規模企業でも、数十億ドルを投資することなくカスタム プロセッサを構築できるようになりました。\n\n(画像クレジット: TYLsemi) リンクをコピーして共有\n\nフォローしてください Google ニュースレターの優先ソースとして追加してください ニュースレターを購読してください 新興半導体企業 TYLsemi (タイルセミと発音します) は、初期段階の資金調達として 4,300 万ドルと、AI インフラストラクチャ用のカスタム プロセッサの開発を簡素化する野心的な計画とともに、今月その姿を公表しました。\n\n数十の契約チップ設計者が、さまざまな複雑さのカスタム プロセッサを開発できます。ただし、開発サイクルを高速化してリスクを回避するために、標準チップレットを使用したカスタム シリコン設計サービスを提供できる企業はわずかです。 TYLsemiも彼らの仲間入りを目指しています。この初期のビジネスがどのように成功するのかを知るために、私たちは創業者に話を聞きました。\n\nTYLsemi は、別のカスタム ASIC 設計会社として単独で競合するのではなく、再利用可能な標準ベースの接続性、電力供給、そして最終的には顧客が独自の差別化コンピューティング シリコンと組み合わせて独自のシステム イン パッケージを構築できるメモリ チップレットを提供するつもりです。 TYLsemiは、自社で半導体開発を行う予定のない企業向けに、差別化チップレットの設計と実装、パッケージング、認定、大量生産を含むエンドツーエンドのサービスも提供し、本質的にシリコン開発スキルを持たない企業でも独自…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/av3WKeoDEApxC8jkMzG6VT-1920-80.jpg"
+    },
+    {
+      "Title": "トラベル ルーターを 2 週間使いましたが、予想以上に多くの問題が解決されました",
+      "Link": "https://www.xda-developers.com/spent-two-weeks-with-travel-router-solved-more-problems-than-expected/",
+      "Published": "2026-07-23T17:30:10Z",
+      "Source": "XDA",
+      "Category": "travel",
+      "Summary": "トラベル ルーターを 2 週間使いましたが、予想以上に多くの問題が解決されました\n\nシームレスな接続の確保からデバイスの制限の回避まで、トラベル ルーターは想像以上の機能を備えています。\n\nトラベル ルーターを 2 週間使いましたが、予想以上に多くの問題が解決されました\n\nBy Kazim Alvi Published Jul 23, 2026, 1:30 PM EDT テクノロジー業界で 5 年以上の経験を持つ Kazim は、複雑なトピックを単純化し、テクノロジー愛好家や一般読者が同様にアクセスできるようにすることに優れています。彼は、Windows 7 から Windows 11 まで、Windows エコシステムを幅広くカバーしています。執筆以外の時間には、週末の旅行を計画したり、専門知識を超えた技術分野に飛び込んだりしていることがわかります。 XDA アカウントにサインインする 過去数か月間、私はトラベル ルーターの購入を検討していました。いくつかの調査の後、私の地域で利用可能なオプションに基づいて、最終的に TP-Link AX1500 Wi-Fi 6 トラベル ルーターを購入しました。インターネットが多少不安定な場所に行く予定だったので、2 週間の休暇でそれを使用する予定でした。 Wi-Fiはありましたが、仕事関連の作業では信頼性が疑問でした。\n\nさらに重要なのは、この休暇には他のいくつかの場所への旅行が伴い、その中には Wi-Fi が利用できない場所も含まれていました。だからこそ、トラベルルーターの導入が理にかなっていたのです。 TP-Link AX1500 は、ほとんどのトラベル ルーターと同様に持ち運びが簡単で、他のデバイスと一緒に梱包しました。次の 2 週間で、特にシームレスなインターネット接続を必要とするデバイスが少数ある場合に、トラベル ルーターがいかに便利であるかを実感しました。\n\n時間と労力を大幅に節約\n\nトラベル ルーターを使用する最も良い点の 1 つは、デバイスの接続が簡単なことです。すべてのデバイスを手動でネットワークに接続する必要は…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/travel-router-featured-image.png?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "Keychron、手頃な価格のサイレント ワイヤレス エルゴノミクス マウス BM27 を発売",
+      "Link": "https://www.techpowerup.com/351022/keychron-launches-bm27-affordable-silent-wireless-ergonomic-mouse",
+      "Published": "2026-07-23T17:27:27Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "Keychron、手頃な価格のサイレント ワイヤレス エルゴノミクス マウス BM27 を発売\n\nKeychron の最新マウスは、ブランドが最近注力しているゲーム周辺機器から逸脱しており、快適さを求めるオフィスワーカーに衝撃を与えています。 BM27 は、55 度の角度が付いたグリップとすべてのボタンにサイレント マイクロ スイッチを備えたワイヤレス人間工学マウスです。 BM27 にはプログラム可能なボタンが 6 つあります。\n\nKeychron、手頃な価格のサイレント ワイヤレス エルゴノミクス マウス BM27 を発売\n\n2026 年 6 月 12 日、4000 ドルの AMD Ryzen AI Halo Mini PC 開発キットの予約注文が開始 (47)\n\n2026 年 7 月 10 日 Keychron、木製アクセントを備えた K5 Ultra 8K ロープロファイル メカニカル キーボードを発売 (15)\n\n2026 年 7 月 7 日 Keychron が K4 Ultra および K10 Ultra ワイヤレス メカニカル キーボードを発表 (10)\n\n2026 年 4 月 17 日 Pragmata のローンチ: 輝かしいレビューとチャートトップの売上を誇るが、プレイヤー数は平凡 (62)\n\n2025 年 8 月 26 日 Logitech MX Master 4 の価格と発売日のリーク (17)\n\n2026 年 6 月 26 日 QwertyKeys が機能的なレトロなタッチを備えた QK100 Mk2 メカニカル キーボードをデビュー (4)\n\n2026 年 7 月 7 日 レトロな「KeyBoy Advance」ワイヤレス メカニカル キーボードが 275 ドルで発売 (17)\n\n2026 年 7 月 3 日 Epomaker が NEX Pro ゲーミング マウスと HE65 V2 TMR キーボードを発売 (0)\n\n2026 年 4 月 23 日 タートルビーチ、PC ゲーミング キーボードとマウスの全く新しいエコシステムであるコマンド シ…",
+      "ImageURL": "https://www.techpowerup.com/img/x9gYLpMPeTvW0z26.jpg"
+    },
+    {
+      "Title": "AMD の第 6 世代 EPYC ラインナップは 4 つの方法に分割され、電源仕様も変更されました",
+      "Link": "https://www.xda-developers.com/amds-6th-gen-epyc-lineup-splits-four-ways-and-the-power-spec-changed-too/",
+      "Published": "2026-07-23T17:25:40Z",
+      "Source": "XDA",
+      "Category": "Epyc",
+      "Summary": "AMD の第 6 世代 EPYC ラインナップは 4 つの方法に分割され、電源仕様も変更されました\n\n1 つのアーキテクチャ、4 つのまったく異なるサーバー プロセッサ\n\nAMD の第 6 世代 EPYC ラインナップは 4 つの方法に分割され、電源仕様も変更されました\n\nBy Ty Sherback 公開 2026 年 7 月 23 日、午後 1 時 25 分 EDT 彼の PC とそのコンポーネントに対する愛情は、ファミリー コンピューターのパフォーマンスをすべて絞り出そうとすることから生まれました。 10 歳のときに自分のビルドをいじっていたことが、友人や家族のために PC を作ることに変わり、最終的にキャリア パスとして形になる情熱を育みました。 Ty は、身近な人々への技術サポートの最初の電話であることに加えて、クラウド コンピューティングとネットワーキングに重点を置いているコンピューター サイエンスの学生でもあります。彼はセミプロの Counter-Strike にも 8 年間出場しており、周辺機器に関するあらゆることに精通しています。 XDA アカウントにサインインする\n\nAMD は、第 6 世代 EPYC を 9006 SP7、9006X SP7、9006 SP8、9006 LP の 4 つのファミリーに分割しました。\n\nフラッグシップ SP7: 最大 256 コア/512 スレッド、5GHz、PCIe Gen6。 9006X は、コアごとに 3 つの L3 キャッシュを追加します。\n\n新しいデフォルトの CPU 電力メトリクスは、総ダイ電力の TDP を置き換えます。 9956 は 400W でリストされていますが、9965 は 500W です。\n\nサンフランシスコで開催されたAdvancing AI 2026イベントで、AMDは第6世代EPYCサーバープロセッサを正式に発表し、発売前の報道を独占してきた単一の256コアのフラッグシップではなく、4つの異なるファミリーとして位置づけた。\n\nEPYC 9006 シリーズは 9006 SP7、9006 SP…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/img_5564.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
     {
       "Title": "Wallhack がレトロなデザインの K-001 HE ゲーミング キーボードを発表",
       "Link": "https://www.techpowerup.com/351019/wallhack-debuts-k-001-he-gaming-keyboard-with-retro-design",
@@ -6114,15 +6249,6 @@
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra-home-decor-scaled.jpg"
     },
     {
-      "Title": "新しい Galaxy フォルダブルは 1 つだけ Linux ターミナルをサポートしており、どこでもサポートされているわけではありません",
-      "Link": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-flip-8-linux-terminal-support-3688560/",
-      "Published": "2026-07-22T13:00:58Z",
-      "Source": "Android Authority",
-      "Category": "Samsung Galaxy Z Flip 8",
-      "Summary": "新しい Galaxy フォルダブルは 1 つだけ Linux ターミナルをサポートしており、どこでもサポートされているわけではありません\n\nSamsung Galaxy Z Fold 8、Z Flip 8、および Z Fold 8 Ultra は公式です。ただし、本格的な Linux アプリを実行できるのは 1 つだけです。運が良ければ。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\n新しい Galaxy フォルダブルは 1 つだけ Linux ターミナルをサポートしており、どこでもサポートされているわけではありません\n\n0 • Hadlee Simons / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Exynos を搭載した Samsung Galaxy Z Flip 8 は、Linux ターミナル機能をサポートしています。\n\nこの機能を使用すると、Linux 環境と本格的な Linux デスクトップ アプリを携帯電話で実行できます。\n\n残念ながら、この機能は Galaxy Z Fold 8 または Fold 8 Ultra では利用できず、一部の Flip 8 モデルでのみ利用可能です。\n\nSamsung は、Unpacked イベントで Galaxy Z Flip 8 、Galaxy Z Fold 8 、および Galaxy Z Fold 8 Ultra を発表しました。あらゆるニーズに応えられる折りたたみ式スマートフォンがあるように見えますが、デバイス上で Linux を実行したい場合はどうすればよいでしょうか?運が良ければ、折りたたみ式のものは 1 つしかないことがわかります。\n\nAndroid Authorityは、Exynosを搭載したGalaxy Z Flip 8がLinuxターミナル機能をサポートしていることを確認しました。この機能は開発者向けオプションから表示され、Linux 開…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra-Z-Fold-8-and-Z-Flip-8-family-on-table.jpg"
-    },
-    {
       "Title": "Samsung Galaxy Z Fold 8の壁紙をここからダウンロードしてください",
       "Link": "https://www.androidauthority.com/download-samsung-galaxy-z-fold-8-wallpapers-3689526/",
       "Published": "2026-07-22T13:00:58Z",
@@ -6130,6 +6256,15 @@
       "Category": "Wallpapers",
       "Summary": "Samsung Galaxy Z Fold 8の壁紙をここからダウンロードしてください\n\nSamsung Galaxy Z Fold 8 が正式版となり、たくさんの新しい壁紙が付属します。ここからダウンロードして、どのデバイスでもお楽しみください。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nSamsung Galaxy Z Fold 8の壁紙をここからダウンロードしてください\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください Samsung Galaxy Z Fold 8 が正式版になりました。それは、愛好家が扱える新しくエキサイティングなハードウェアが利用可能になったことを意味すると同時に、新しい壁紙のバッチが到着したことも意味します。壁紙の優れた点は、新しいデバイスを購入することなく、携帯電話に新しいペイントを施すことができる簡単な方法であることです。\n\nSamsung Galaxy Z Fold 8 新しいフォームファクター • より手頃な価格 • 高速充電 • 主力仕様 メーカー希望小売価格: $1,899.99 Samsung のブックスタイルの折りたたみ式を新たに取り入れた Samsung の Galaxy Z Fold 8 は、快適さと携帯性を優先した幅広の折りたたみ式デザインを導入しています。より軽量なボディ、45W の充電、Snapdragon 8 Elite Gen 5 のパワー、Galaxy AI 機能、および有能なデュアル 50MP カメラを備えており、Samsung の折りたたみ式ラインナップに簡単に参入できます。 Amazonで価格を確認 ここからSamsung Galaxy Z Fold 8の壁紙をダウンロードしてください\n\n基本から始めましょう。以下に示す画像プレビューを単純に保存しないことをお勧めします。これらの壁紙のプレビューは、Web サイトのパフォーマンスを向上させるために圧縮および最適化されています…",
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galazy-Z-Fold-8-display-on-straight-on.jpg"
+    },
+    {
+      "Title": "新しい Galaxy フォルダブルは 1 つだけ Linux ターミナルをサポートしており、どこでもサポートされているわけではありません",
+      "Link": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-flip-8-linux-terminal-support-3688560/",
+      "Published": "2026-07-22T13:00:58Z",
+      "Source": "Android Authority",
+      "Category": "Samsung Galaxy Z Flip 8",
+      "Summary": "新しい Galaxy フォルダブルは 1 つだけ Linux ターミナルをサポートしており、どこでもサポートされているわけではありません\n\nSamsung Galaxy Z Fold 8、Z Flip 8、および Z Fold 8 Ultra は公式です。ただし、本格的な Linux アプリを実行できるのは 1 つだけです。運が良ければ。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\n新しい Galaxy フォルダブルは 1 つだけ Linux ターミナルをサポートしており、どこでもサポートされているわけではありません\n\n0 • Hadlee Simons / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Exynos を搭載した Samsung Galaxy Z Flip 8 は、Linux ターミナル機能をサポートしています。\n\nこの機能を使用すると、Linux 環境と本格的な Linux デスクトップ アプリを携帯電話で実行できます。\n\n残念ながら、この機能は Galaxy Z Fold 8 または Fold 8 Ultra では利用できず、一部の Flip 8 モデルでのみ利用可能です。\n\nSamsung は、Unpacked イベントで Galaxy Z Flip 8 、Galaxy Z Fold 8 、および Galaxy Z Fold 8 Ultra を発表しました。あらゆるニーズに応えられる折りたたみ式スマートフォンがあるように見えますが、デバイス上で Linux を実行したい場合はどうすればよいでしょうか?運が良ければ、折りたたみ式のものは 1 つしかないことがわかります。\n\nAndroid Authorityは、Exynosを搭載したGalaxy Z Flip 8がLinuxターミナル機能をサポートしていることを確認しました。この機能は開発者向けオプションから表示され、Linux 開…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra-Z-Fold-8-and-Z-Flip-8-family-on-table.jpg"
     },
     {
       "Title": "Audible、ドラキュラの新たなフルキャスト版を発表",
@@ -6141,15 +6276,6 @@
       "ImageURL": "https://media.goodereader.com/blog/uploads/images/2026/07/21211835/ALW06.jpg"
     },
     {
-      "Title": "最も強力な Galaxy Z Flip 8 はあなたの市場では入手できない可能性があります",
-      "Link": "https://www.androidauthority.com/samsung-galaxy-z-flip-8-variants-chipset-3689704/",
-      "Published": "2026-07-22T13:00:45Z",
-      "Source": "Android Authority",
-      "Category": "Samsung Galaxy Z Flip 8",
-      "Summary": "最も強力な Galaxy Z Flip 8 はあなたの市場では入手できない可能性があります\n\nSamsung Galaxy Z Flip 8 は正式版ですが、最高のパフォーマンスを発揮するバージョンは一部の市場に限定されていることが判明しました。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\n最も強力な Galaxy Z Flip 8 はあなたの市場では入手できない可能性があります\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Samsung Galaxy Z Flip 8 は、Exynos と Snapdragon の両方のバージョンで利用できます。\n\nこの携帯電話には、カナダと米国向けの Galaxy プロセッサ用の Snapdragon 8 Elite Gen 5 が搭載されています。\n\nただし、南アフリカと英国では自社製 Exynos 2600 チップセットを搭載しています。\n\nサムスンは、Unpacked イベントで Galaxy Z Flip 8、Z Fold 8、Z Fold 8 Ultra という 3 つの折りたたみ式スマートフォンを発表しました。後者の 2 つのデバイスは Snapdragon シリコンのみを搭載していますが、Galaxy メーカーは Flip 8 で別の道を歩んでいます。\n\nGalaxy Z Flip 8 は、お住まいの地域に応じて、Galaxy 用 Snapdragon 8 Elite Gen 5 または自社製 Exynos 2600 チップのいずれかを搭載しています。具体的には、Snapdragon バージョンは米国とカナダで利用可能であるのに対し、Exynos バージョンは南アフリカと英国で利用可能であることが確認できます。\n\n歴史によれば、Snapdragon モデルは中国でも入手可能ですが、Exynos モデルはインドとヨーロッパに上陸すると考えられています。いずれにせよ、サムスンが…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Flip-8-showing-crease-screen-on.jpg"
-    },
-    {
       "Title": "Spigen の新しい Galaxy Z Fold 8 ケースは、保護に対して 2 つの異なるアプローチを採用しています",
       "Link": "https://www.androidauthority.com/samsung-galazy-z-8-spigen-cases-3689772/",
       "Published": "2026-07-22T13:00:45Z",
@@ -6159,13 +6285,13 @@
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Spigen-Galaxy-Z-Fold-8-Cases-scaled.jpg"
     },
     {
-      "Title": "Galaxy Z Fold 8 Ultraは、2026年のSamsungの真の折りたたみフラッグシップとして登場",
-      "Link": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-ultra-launch-specs-features-price-availability-3688533/",
-      "Published": "2026-07-22T13:00:40Z",
+      "Title": "最も強力な Galaxy Z Flip 8 はあなたの市場では入手できない可能性があります",
+      "Link": "https://www.androidauthority.com/samsung-galaxy-z-flip-8-variants-chipset-3689704/",
+      "Published": "2026-07-22T13:00:45Z",
       "Source": "Android Authority",
-      "Category": "Samsung Galaxy Z Fold 8",
-      "Summary": "Galaxy Z Fold 8 Ultraは、2026年のSamsungの真の折りたたみフラッグシップとして登場\n\nサムスンは、Galaxy Z Fold 8、Galaxy Z Flip 8、Galaxy Watch 9、Galaxy Watch Ultra 2とともにGalaxy Z Fold 8 Ultraを発売しました。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nGalaxy Z Fold 8 Ultraは、2026年のSamsungの真の折り畳み式フラッグシップとして登場します\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Samsung は、Galaxy Z Fold 8、Galaxy Z Flip 8、Galaxy Watch 9、Galaxy Watch Ultra 2 とともに Galaxy Z Fold 8 Ultra を発表しました。\n\nGalaxy Z Fold 8 Ultraは、昨年のZ Fold 7をベースに、より大きなバッテリー、45Wの充電、ウルトラグレードのカメラ、そして開けやすいデザインを備えています。\n\n幅が広くなった新しい Galaxy Z Fold 8 とは異なり、Fold 8 Ultra はプレミアム ハードウェアと AI 機能を備えた Samsung の主力ブックスタイル折りたたみ式製品であり続けます。\n\n絶え間なく続くリークと噂の後、サムスンはついに次世代の折りたたみ式製品を正式に発表した。同社は本日の Unpacked イベントを利用して、Galaxy Z Fold 8 Ultra、Galaxy Z Fold 8、および Galaxy Z Flip 8 を発表し、同時に Galaxy Watch 9 と Galaxy Watch Ultra 2 も発表しました。\n\nしかし、本当に興味深いのは折りたたみ式のラインナップです。サムスンは初めてブック型の折りたたみ式端末を 2 種類販…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8.-Ultra-all-4-colors.jpg"
+      "Category": "Samsung Galaxy Z Flip 8",
+      "Summary": "最も強力な Galaxy Z Flip 8 はあなたの市場では入手できない可能性があります\n\nSamsung Galaxy Z Flip 8 は正式版ですが、最高のパフォーマンスを発揮するバージョンは一部の市場に限定されていることが判明しました。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\n最も強力な Galaxy Z Flip 8 はあなたの市場では入手できない可能性があります\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Samsung Galaxy Z Flip 8 は、Exynos と Snapdragon の両方のバージョンで利用できます。\n\nこの携帯電話には、カナダと米国向けの Galaxy プロセッサ用の Snapdragon 8 Elite Gen 5 が搭載されています。\n\nただし、南アフリカと英国では自社製 Exynos 2600 チップセットを搭載しています。\n\nサムスンは、Unpacked イベントで Galaxy Z Flip 8、Z Fold 8、Z Fold 8 Ultra という 3 つの折りたたみ式スマートフォンを発表しました。後者の 2 つのデバイスは Snapdragon シリコンのみを搭載していますが、Galaxy メーカーは Flip 8 で別の道を歩んでいます。\n\nGalaxy Z Flip 8 は、お住まいの地域に応じて、Galaxy 用 Snapdragon 8 Elite Gen 5 または自社製 Exynos 2600 チップのいずれかを搭載しています。具体的には、Snapdragon バージョンは米国とカナダで利用可能であるのに対し、Exynos バージョンは南アフリカと英国で利用可能であることが確認できます。\n\n歴史によれば、Snapdragon モデルは中国でも入手可能ですが、Exynos モデルはインドとヨーロッパに上陸すると考えられています。いずれにせよ、サムスンが…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Flip-8-showing-crease-screen-on.jpg"
     },
     {
       "Title": "S Pen ファンにとって悪いニュース: Galaxy Z Fold 8 シリーズは Samsung のスタイラスをサポートしていません",
@@ -6177,6 +6303,15 @@
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8.-Z-Fold-8-Ultra-stood-up.jpg"
     },
     {
+      "Title": "Galaxy Z Fold 8 Ultraは、2026年のSamsungの真の折りたたみフラッグシップとして登場",
+      "Link": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-ultra-launch-specs-features-price-availability-3688533/",
+      "Published": "2026-07-22T13:00:40Z",
+      "Source": "Android Authority",
+      "Category": "Samsung Galaxy Z Fold 8",
+      "Summary": "Galaxy Z Fold 8 Ultraは、2026年のSamsungの真の折りたたみフラッグシップとして登場\n\nサムスンは、Galaxy Z Fold 8、Galaxy Z Flip 8、Galaxy Watch 9、Galaxy Watch Ultra 2とともにGalaxy Z Fold 8 Ultraを発売しました。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nGalaxy Z Fold 8 Ultraは、2026年のSamsungの真の折り畳み式フラッグシップとして登場します\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Samsung は、Galaxy Z Fold 8、Galaxy Z Flip 8、Galaxy Watch 9、Galaxy Watch Ultra 2 とともに Galaxy Z Fold 8 Ultra を発表しました。\n\nGalaxy Z Fold 8 Ultraは、昨年のZ Fold 7をベースに、より大きなバッテリー、45Wの充電、ウルトラグレードのカメラ、そして開けやすいデザインを備えています。\n\n幅が広くなった新しい Galaxy Z Fold 8 とは異なり、Fold 8 Ultra はプレミアム ハードウェアと AI 機能を備えた Samsung の主力ブックスタイル折りたたみ式製品であり続けます。\n\n絶え間なく続くリークと噂の後、サムスンはついに次世代の折りたたみ式製品を正式に発表した。同社は本日の Unpacked イベントを利用して、Galaxy Z Fold 8 Ultra、Galaxy Z Fold 8、および Galaxy Z Flip 8 を発表し、同時に Galaxy Watch 9 と Galaxy Watch Ultra 2 も発表しました。\n\nしかし、本当に興味深いのは折りたたみ式のラインナップです。サムスンは初めてブック型の折りたたみ式端末を 2 種類販…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8.-Ultra-all-4-colors.jpg"
+    },
+    {
       "Title": "サムスンはついにGalaxy Z Fold 8シリーズにそれに値する充電アップグレードを提供します",
       "Link": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-charging-3689221/",
       "Published": "2026-07-22T13:00:39Z",
@@ -6186,15 +6321,6 @@
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-and-Z-Fold-8-Ultra-on-table-scaled.jpg"
     },
     {
-      "Title": "Samsung は One UI 9 安定版を発売しますが、Galaxy S26 は待たなければなりません",
-      "Link": "https://www.androidauthority.com/samsung-one-ui-9-stable-3690019/",
-      "Published": "2026-07-22T13:00:36Z",
-      "Source": "Android Authority",
-      "Category": "Samsung One UI",
-      "Summary": "Samsung は One UI 9 安定版を発売しますが、Galaxy S26 は待たなければなりません\n\nSamsung One UI 9 安定版リリースは、Android 17、AI プライバシー ツール、シームレスな iPhone Smart Switch 転送を搭載した新しい Galaxy 折りたたみ式デバイスでデビューします。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nSamsung は One UI 9 安定版を発売しますが、Galaxy S26 は待たなければなりません\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Samsung は、Galaxy Z Fold 8、Fold 8 Ultra、および Flip 8 向けに One UI 9 安定版 (Android 17 ベース) をリリースしました。ただし、Galaxy S26 ユーザーは、安定版リリースが自分の携帯電話に展開されるまで待つ必要があります。\n\nOne UI 9 の主な機能には、AI アシスタント アクティビティ ダッシュボード、強化されたプライバシー アラート、保証とケア ハブ、スマート スイッチを介したシームレスな iPhone 転送 (パスワード、パスキー、eSIM) が含まれます。\n\nこのアップデートでは、My FanCam 自動リフレーミング、Cine LUT カラー グレーディング (Fold 8 Ultra)、AI ネイティブ FlexWindow (Flip 8)、および Now Brief セキュリティ インサイトも追加されています。\n\nサムスンはしばらくの間、Galaxy S26 シリーズ向けに One UI 9 ベータ版を実行しています。本日、Galaxy Z Fold 8、Fold 8 Ultra、および Flip 8 の発売に伴い、Samsung は Android 17 ベースの One UI 9 安定版も発売します…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra-One-UI-9_1.jpg"
-    },
-    {
       "Title": "Galaxy Watch 9 と Ultra 2 を 30 分間使用しました - 1 つの新機能に驚かされました",
       "Link": "https://www.androidauthority.com/samsung-galaxy-watch-9-ultra-2-hands-on-3689712/",
       "Published": "2026-07-22T13:00:36Z",
@@ -6202,6 +6328,15 @@
       "Category": "Samsung Galaxy Watch Ultra 2",
       "Summary": "Galaxy Watch 9 と Ultra 2 を 30 分間使用しました - 1 つの新機能に驚かされました\n\nGalaxy Watch 9 と Ultra 2 は Samsung の最新かつ最高のスマートウォッチで、それらを使用した後、1 つの新機能に驚かされました。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nスマートウォッチ Galaxy Watch 9 と Ultra 2 を 30 分間使用しました — 1 つの新機能に驚かされました\n\n0 • Paul Jones / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください Galaxy Watch 8 と Galaxy Watch Ultra は、好き嫌いが別れる Samsung ウォッチに新しいデザインを導入しました。私は前者の陣営にいたので、新しい Galaxy Watch 9 と Ultra 2 を試すことができたとき、Samsung がどのような改良を加えたのかを見ることに興奮しました。\n\n実際のところ、あまり変わっていません。私が最も感銘を受けたのは、Google のソフトウェア機能です。\n\nどのGalaxy Watchを購入しますか?\n\nRaise to Talk はまるで魔法のようです\n\nZac Kew-Denniss / Android Authority Raise to Talk は、Pixel Watch 4 でデビューした機能です。名前が示すとおり、時計を口に近づけると、Gemini はウェイク ワードを必要とせずに聞き始めます。 Raise to Talk を初めて体験したのは Galaxy Watch 9 と Ultra 2 でしたが、とても気に入って使っていることに驚きました。\n\nサムスンによれば、この時計は時間を確認するために手首を上げることと、ジェミニを起動することの違いを区別できるという。半信半疑だったので、ごまかそうと1…",
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Watch-Ultra-2-titanium-grey.jpg"
+    },
+    {
+      "Title": "Samsung は One UI 9 安定版を発売しますが、Galaxy S26 は待たなければなりません",
+      "Link": "https://www.androidauthority.com/samsung-one-ui-9-stable-3690019/",
+      "Published": "2026-07-22T13:00:36Z",
+      "Source": "Android Authority",
+      "Category": "Samsung One UI",
+      "Summary": "Samsung は One UI 9 安定版を発売しますが、Galaxy S26 は待たなければなりません\n\nSamsung One UI 9 安定版リリースは、Android 17、AI プライバシー ツール、シームレスな iPhone Smart Switch 転送を搭載した新しい Galaxy 折りたたみ式デバイスでデビューします。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nSamsung は One UI 9 安定版を発売しますが、Galaxy S26 は待たなければなりません\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Samsung は、Galaxy Z Fold 8、Fold 8 Ultra、および Flip 8 向けに One UI 9 安定版 (Android 17 ベース) をリリースしました。ただし、Galaxy S26 ユーザーは、安定版リリースが自分の携帯電話に展開されるまで待つ必要があります。\n\nOne UI 9 の主な機能には、AI アシスタント アクティビティ ダッシュボード、強化されたプライバシー アラート、保証とケア ハブ、スマート スイッチを介したシームレスな iPhone 転送 (パスワード、パスキー、eSIM) が含まれます。\n\nこのアップデートでは、My FanCam 自動リフレーミング、Cine LUT カラー グレーディング (Fold 8 Ultra)、AI ネイティブ FlexWindow (Flip 8)、および Now Brief セキュリティ インサイトも追加されています。\n\nサムスンはしばらくの間、Galaxy S26 シリーズ向けに One UI 9 ベータ版を実行しています。本日、Galaxy Z Fold 8、Fold 8 Ultra、および Flip 8 の発売に伴い、Samsung は Android 17 ベースの One UI 9 安定版も発売します…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra-One-UI-9_1.jpg"
     },
     {
       "Title": "サムスンの新しい折りたたみ式携帯電話はシリコンカーボンバッテリーを搭載した初のGalaxy携帯電話となる",
@@ -7365,15 +7500,6 @@
       "ImageURL": "https://www.servethehome.com/wp-content/uploads/2026/07/NVIDIA-Vera-CPU.jpg"
     },
     {
-      "Title": "Nvidia が AI データセンター向け Vera CPU を詳しく調査 — SPEC CPU 2026 ベンチマークの公開、オリンパスのアーキテクチャ詳細など",
-      "Link": "https://www.tomshardware.com/pc-components/cpus/nvidia-spills-the-beans-on-vera-cpu-spec-benchmarks-revealed-olympus-architecture-detailed-and-more",
-      "Published": "2026-07-21T15:00:00Z",
-      "Source": "Tom's Hardware",
-      "Category": "PC Components",
-      "Summary": "Nvidia が AI データセンター向け Vera CPU を詳しく調査 — SPEC CPU 2026 ベンチマークの公開、オリンパスのアーキテクチャ詳細など\n\nヴェラとヴェネツィアの対決の舞台を整える。\n\nNvidia が AI データセンター向け Vera CPU を詳しく調査 — SPEC CPU 2026 ベンチマークの公開、オリンパスのアーキテクチャ詳細など\n\nヴェラとヴェネツィアの対決の舞台を整える。\n\n(画像クレジット: Nvidia) ページ 1/3: Nvidia Vera CPU\n\nページ 2: Nvidia Vera CPU アーキテクチャ -- Olympus コアの詳細\n\nページ 3: Vera Rubin NVL72、Bluefield、および NVLink\n\n3 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する Nvidia の Vera CPU は、データセンター CPU 市場の主要プレーヤーになるための最初の入札です。 Grace はある程度の成功を収めていますが (特に Meta での Grace スタンドアロン展開で)、Vera はカスタム コア設計を備えた Nvidia の最初の CPU です。また、エージェント AI の需要を背景にサーバー CPU 市場がここ数か月で爆発的に成長したこともあり、理想的な時期に到来しています。\n\nVera は、クラウドにおける AMD や Intel の市場シェアを少しずつ奪うために構築されたチップではありません。ハイパースケーラーが従来のクラウドを超えて AI インフラストラクチャを拡大しようとしているため、拡大する市場で市場シェアを獲得するために構築されています。そのため、Nvidia の x86 競合他社とは大きく異なる方法で設計されており、一連の Arm ベースの設計と比較して、いくつかのユニークなアーキテクチャ設計ポイントも保持しています。\n\nNvidia は、今年下半期に予定されている一般提供開始に向けて、Vera につ…",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/tAXNckhbwBFZknaHqvpJe7-1920-80.jpg"
-    },
-    {
       "Title": "Nvidia が推論用の R​​ubin アーキテクチャの最適化について詳しく説明 – 改善は GPU からラックまでのパフォーマンスと効率の向上を目指しています",
       "Link": "https://www.tomshardware.com/pc-components/gpus/nvidia-details-rubin-architectural-optimizations-for-inference-improvements-target-better-performance-and-efficiency-from-the-gpu-to-the-rack",
       "Published": "2026-07-21T15:00:00Z",
@@ -7390,6 +7516,15 @@
       "Category": "PC Components",
       "Summary": "Nvidia、「数十万台の Grace スタンドアロン サーバー」を出荷 — CPU がエージェント データ センターの中心となる中、GPU 企業はメッセージングを軸に\n\nNvidia は、CPU 会社でもあることを知っていただきたいと思っています。\n\nNvidia、「数十万台の Grace スタンドアロン サーバー」を出荷 — CPU がエージェント データ センターの中心となる中、GPU 企業はメッセージングを軸に\n\nNvidia は、CPU 会社でもあることを知っていただきたいと思っています。\n\n(画像クレジット: Tom's Hardware) リンクをコピー\n\n0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する ハイパースケールおよびハイパフォーマンス コンピューティング担当バイスプレジデントであり、CUDA の発明者でもある Nvidia のイアン バック氏は、同社は「出荷した...何十万台もの Grace スタンドアロン サーバーに入れましょう」と述べています。 Nvidia は 5 月に、合計 250 万個以上の Grace CPU を出荷したことを明らかにし、2 月にはスタンドアロンの Grace サーバーを展開するために Meta と提携すると発表しました。ただし、バック氏のコメントは、Nvidia が他のプレーヤーが支配する市場で競争しようとしているため、導入の規模はさらに大きくなる可能性があることを示唆しています。\n\nRyzen がトップへ: AMD がゲーム CPU 市場でどのように革新したか\n\nARM はどのように PC に導入されているのか\n\nAMD CES 2026 ゲーム トレンドのプレス Q\u0026A ラウンドテーブルの記録\n\n興味深いコメントではありますが、驚くべきことではありません。 Nvidia は、AI 推論のための前例のないデータセンターの構築中に GPU の需要が急増し、シリコンバレーの支配力になりました。しかし、今年初めのピーク以来、投資家がインテルなどの CPU…",
       "ImageURL": "https://cdn.mos.cms.futurecdn.net/64zg6rxBUaGx8y7ooex4WA-2560-80.jpg"
+    },
+    {
+      "Title": "Nvidia が AI データセンター向け Vera CPU を詳しく調査 — SPEC CPU 2026 ベンチマークの公開、オリンパスのアーキテクチャ詳細など",
+      "Link": "https://www.tomshardware.com/pc-components/cpus/nvidia-spills-the-beans-on-vera-cpu-spec-benchmarks-revealed-olympus-architecture-detailed-and-more",
+      "Published": "2026-07-21T15:00:00Z",
+      "Source": "Tom's Hardware",
+      "Category": "PC Components",
+      "Summary": "Nvidia が AI データセンター向け Vera CPU を詳しく調査 — SPEC CPU 2026 ベンチマークの公開、オリンパスのアーキテクチャ詳細など\n\nヴェラとヴェネツィアの対決の舞台を整える。\n\nNvidia が AI データセンター向け Vera CPU を詳しく調査 — SPEC CPU 2026 ベンチマークの公開、オリンパスのアーキテクチャ詳細など\n\nヴェラとヴェネツィアの対決の舞台を整える。\n\n(画像クレジット: Nvidia) ページ 1/3: Nvidia Vera CPU\n\nページ 2: Nvidia Vera CPU アーキテクチャ -- Olympus コアの詳細\n\nページ 3: Vera Rubin NVL72、Bluefield、および NVLink\n\n3 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する Nvidia の Vera CPU は、データセンター CPU 市場の主要プレーヤーになるための最初の入札です。 Grace はある程度の成功を収めていますが (特に Meta での Grace スタンドアロン展開で)、Vera はカスタム コア設計を備えた Nvidia の最初の CPU です。また、エージェント AI の需要を背景にサーバー CPU 市場がここ数か月で爆発的に成長したこともあり、理想的な時期に到来しています。\n\nVera は、クラウドにおける AMD や Intel の市場シェアを少しずつ奪うために構築されたチップではありません。ハイパースケーラーが従来のクラウドを超えて AI インフラストラクチャを拡大しようとしているため、拡大する市場で市場シェアを獲得するために構築されています。そのため、Nvidia の x86 競合他社とは大きく異なる方法で設計されており、一連の Arm ベースの設計と比較して、いくつかのユニークなアーキテクチャ設計ポイントも保持しています。\n\nNvidia は、今年下半期に予定されている一般提供開始に向けて、Vera につ…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/tAXNckhbwBFZknaHqvpJe7-1920-80.jpg"
     },
     {
       "Title": "Moonshot AI が米国のクローズドソース競合他社を価格で下回り、Kimi K3 が AI 業界を揺るがす - しかし、巨大な 2.8T オープンウェイト モデルを大規模に導入するには依然として本格的なハードウェアが必要",
@@ -8535,21 +8670,21 @@
       "ImageURL": "https://cdn.mos.cms.futurecdn.net/p2QqhVFP7dTRWfeVBCYBYV-1920-80.jpg"
     },
     {
-      "Title": "OneXPlayer が X2 Mini Pro の予約注文を開始: AMD Ryzen AI Max+ 388 ハンドヘルドを 2,499 ドルで",
-      "Link": "https://www.techpowerup.com/350900/onexplayer-opens-x2-mini-pro-pre-orders-amd-ryzen-ai-max-388-handheld-for-usd-2-499",
-      "Published": "2026-07-20T18:04:07Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "OneXPlayer が X2 Mini Pro の予約注文を開始: AMD Ryzen AI Max+ 388 ハンドヘルドを 2,499 ドルで\n\nOneXPlayer は、デバイスが Indiegogo で発売される直前の 2026 年 4 月に、Ryzen AI Max+ 388 を搭載した X2 Mini Pro を発表しました。 Indiegogo の発売に続き、X2 Mini Pro が OneXPlayer ストアの在庫製品として正式に発売されました。現在の開始価格の一部は...\n\nOneXPlayer が X2 Mini Pro の予約注文を開始: AMD Ryzen AI Max+ 388 ハンドヘルドを 2,499 ドルで\n\n2025 年 7 月 23 日 8,800 ～ 17,600 MT/s の DDR6 メモリが 2027 年に登場 (196)\n\n2025 年 8 月 4 日 AMD が 192 MB L3 キャッシュと 200 W TDP を搭載した 16 コア Ryzen 9000X3D CPU をリリース (355)\n\n2025 年 8 月 21 日 12VHPWR コネクタの溶融により、最初の AMD RX 9070 XT 被害者が主張 (109)\n\n2026 年 6 月 12 日、4000 ドルの AMD Ryzen AI Halo Mini PC 開発キットの予約注文が開始 (47)\n\n2025 年 9 月 18 日 NVIDIA がインテルを 50 億ドル相当で買収、RTX iGPU が x86 に登場、株価は 25% 上昇 (256)\n\n2026 年 5 月 31 日 AMD が Ryzen 7 5800X3D 10th Anniversary Edition と Ryzen 7 7700X3D を正式発表 (164)\n\n2026 年 5 月 27 日 リーカーが天文学的な蒸気機械の価格を示唆 (74)\n\n2026 年 4 月 16 日 AMD、Ryzen 7 5800X3D を「AM4 10th Anniversary Ed…",
-      "ImageURL": "https://www.techpowerup.com/img/aq1ssPLkacpnALTx.jpg"
-    },
-    {
       "Title": "OneXPlayer X2 Mini Pro が登場: AMD Ryzen AI Max+ 388 ハンドヘルドが 2,499 ドルで登場",
       "Link": "https://www.techpowerup.com/350900/onexplayer-x2-mini-pro-now-available-amd-ryzen-ai-max-388-handheld-for-usd-2-499",
       "Published": "2026-07-20T18:04:07Z",
       "Source": "TechPowerUp",
       "Category": "",
       "Summary": "OneXPlayer X2 Mini Pro が登場: AMD Ryzen AI Max+ 388 ハンドヘルドが 2,499 ドルで登場\n\nOneXPlayer は、デバイスが Indiegogo で発売される直前の 2026 年 4 月に、Ryzen AI Max+ 388 を搭載した X2 Mini Pro を発表しました。 Indiegogo の発売に続き、X2 Mini Pro が OneXPlayer ストアの在庫製品として正式に発売されました。現在の開始価格の一部は...\n\nOneXPlayer X2 Mini Pro が登場: AMD Ryzen AI Max+ 388 ハンドヘルドが 2,499 ドルで登場\n\n2025 年 7 月 23 日 8,800 ～ 17,600 MT/s の DDR6 メモリが 2027 年に登場 (196)\n\n2025 年 8 月 4 日 AMD が 192 MB L3 キャッシュと 200 W TDP を搭載した 16 コア Ryzen 9000X3D CPU をリリース (355)\n\n2025 年 8 月 21 日 12VHPWR コネクタの溶融により、最初の AMD RX 9070 XT 被害者が主張 (109)\n\n2026 年 6 月 12 日、4000 ドルの AMD Ryzen AI Halo Mini PC 開発キットの予約注文が開始 (47)\n\n2025 年 9 月 18 日 NVIDIA がインテルを 50 億ドル相当で買収、RTX iGPU が x86 に登場、株価は 25% 上昇 (256)\n\n2026 年 5 月 31 日 AMD が Ryzen 7 5800X3D 10th Anniversary Edition と Ryzen 7 7700X3D を正式発表 (164)\n\n2026 年 5 月 27 日 リーカーが天文学的な蒸気機械の価格を示唆 (74)\n\n2026 年 4 月 16 日 AMD、Ryzen 7 5800X3D を「AM4 10th Anniversary Edition」として再…",
+      "ImageURL": "https://www.techpowerup.com/img/aq1ssPLkacpnALTx.jpg"
+    },
+    {
+      "Title": "OneXPlayer が X2 Mini Pro の予約注文を開始: AMD Ryzen AI Max+ 388 ハンドヘルドを 2,499 ドルで",
+      "Link": "https://www.techpowerup.com/350900/onexplayer-opens-x2-mini-pro-pre-orders-amd-ryzen-ai-max-388-handheld-for-usd-2-499",
+      "Published": "2026-07-20T18:04:07Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "OneXPlayer が X2 Mini Pro の予約注文を開始: AMD Ryzen AI Max+ 388 ハンドヘルドを 2,499 ドルで\n\nOneXPlayer は、デバイスが Indiegogo で発売される直前の 2026 年 4 月に、Ryzen AI Max+ 388 を搭載した X2 Mini Pro を発表しました。 Indiegogo の発売に続き、X2 Mini Pro が OneXPlayer ストアの在庫製品として正式に発売されました。現在の開始価格の一部は...\n\nOneXPlayer が X2 Mini Pro の予約注文を開始: AMD Ryzen AI Max+ 388 ハンドヘルドを 2,499 ドルで\n\n2025 年 7 月 23 日 8,800 ～ 17,600 MT/s の DDR6 メモリが 2027 年に登場 (196)\n\n2025 年 8 月 4 日 AMD が 192 MB L3 キャッシュと 200 W TDP を搭載した 16 コア Ryzen 9000X3D CPU をリリース (355)\n\n2025 年 8 月 21 日 12VHPWR コネクタの溶融により、最初の AMD RX 9070 XT 被害者が主張 (109)\n\n2026 年 6 月 12 日、4000 ドルの AMD Ryzen AI Halo Mini PC 開発キットの予約注文が開始 (47)\n\n2025 年 9 月 18 日 NVIDIA がインテルを 50 億ドル相当で買収、RTX iGPU が x86 に登場、株価は 25% 上昇 (256)\n\n2026 年 5 月 31 日 AMD が Ryzen 7 5800X3D 10th Anniversary Edition と Ryzen 7 7700X3D を正式発表 (164)\n\n2026 年 5 月 27 日 リーカーが天文学的な蒸気機械の価格を示唆 (74)\n\n2026 年 4 月 16 日 AMD、Ryzen 7 5800X3D を「AM4 10th Anniversary Ed…",
       "ImageURL": "https://www.techpowerup.com/img/aq1ssPLkacpnALTx.jpg"
     },
     {
@@ -8866,141 +9001,6 @@
       "Category": "Zen 6",
       "Summary": "ベンチマークのリークは、Zen 6 の大幅なパフォーマンス向上を示しています\n\nAMD の次期 10 コア Medusa Point モバイル プロセッサのエンジニアリング サンプルが Geekbench に公開され、これまでで最高のベンチマーク スコアを達成しました。このチップはシングルコア テストで 3,329 ポイント、マルチコア テストで 16,555 ポイントに達し、前世代のチップと比べて顕著なパフォーマンスの向上を示しました。このプロセッサは、Geekbench (Tom's Hardware 経由) に登場しました。\n\nベンチマークのリークは、Zen 6 の大幅なパフォーマンス向上を示しています\n\nAMD の次期 10 コア Medusa Point モバイル プロセッサのエンジニアリング サンプルが Geekbench に公開され、これまでで最高のベンチマーク スコアを達成しました。このチップはシングルコア テストで 3,329 ポイント、マルチコア テストで 16,555 ポイントに達し、前世代のチップと比べて顕著なパフォーマンスの向上を示しました。このプロセッサは、AMD Plum-MDS1 プラットフォーム上の Geekbench (Tom's Hardware 経由) にエンジニアリング サンプル ID 100-000001713-33_N で登場しました。 Geekbench のログでは、10 コアと 20 スレッドの構成が 4 コアと 6 コアの 2 つのクラスターに分割されていることがわかります。テレメトリ データは、テスト中にチップが 5.37 GHz のピーク周波数に達したことを示しています。このリストには、10MB の L2 キャッシュと 32MB の L3 キャッシュの詳細も記載されています。この最新の実行は、以前の提出よりもシングルコアで 5%、マルチコアで 10% 優れています。現在の小売モデルと比較すると、この Zen 6 チップはパフォーマンスを大幅に向上させます。 12 コア Ryzen AI 9 HX 370 よりも、シ…",
       "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/03/amd-ryzen-ai-processor-chip-orange-glow-732x330.jpg"
-    },
-    {
-      "Title": "クロードとローカル LLM により AI コストが半分に削減され、クラウドのみには戻れなくなります",
-      "Link": "https://www.xda-developers.com/my-local-llm-doesnt-replace-claude-it-makes-claude-dramatically-better/",
-      "Published": "2026-07-20T14:30:10Z",
-      "Source": "XDA",
-      "Category": "Self-Hosting",
-      "Summary": "クロードとローカル LLM により AI コストが半分に削減され、クラウドのみには戻れなくなります\n\nお金を節約すること以外は、クロードに頼っていいことがたくさんあります\n\nクロードとローカル LLM により AI コストが半分に削減され、クラウドのみには戻れなくなります\n\nBy Abhinav Raj 公開 2026 年 7 月 20 日、午前 10 時 30 分 EDT アビナブは、銀行業界でのキャリアから方向転換し、初恋を作家として追求しました。フルタイムで働きながらも、編集長として貢献を続け、その役割を 7 年以上務めました。 2018 年以来、ゲームと生産性に優れた PC を 3 台構築してきた生涯のテクノロジー愛好家である彼は、テクノロジーに対する情熱により、NVIDIA や AMD から ARM に至るまで、半導体業界を常に追い続けています。彼の修士論文は、人工知能が仕事の未来をどのように再形成するかを探求し、新興テクノロジーのより広範な社会的影響に対する彼の好奇心を反映しています。 XDA アカウントにサインインする 私は年初から Anthropic の使用クレジットに 300 ドル以上を費やしてきましたが、その主な理由は、毎回自分のプロジェクトに最も強力なフラッグシップ モデルが欲しかったからです。そして、おそらくご想像のとおり、毎回、使用量の制限に少しずつ早く到達していきます。クロードに関しては、作品 4.8 はソネット 5 の 1.7 倍、最新の寓話 5 は作品 4.8 の 2 倍の値段なので、デフォルトではしごの頂上に手を伸ばすと、驚くべき速度で私の小遣いを使い果たしてしまいました。この壁にぶつかると、プロジェクトに戻るまでに 4 時間、場合によっては 5 時間待つ必要があり、忍耐力が私にとって最も得意なことはありませんでした。\n\nAnthropic を使用すると、使用量を補充するだけで簡単に利用できるようになり、わずか 5 ドルで利用できます。その瞬間、5 時間分の勢いを失うよりも、5 ドルを費やすほうがずっと簡単でした。その論理が最終的にこの…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/claude-and-local-filesystem-mcp-server-running-on-pc.jpg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
-      "Title": "Former GTA V producer says Rockstar cut fully finished minigames and entire levels that 'just disappeared'",
-      "Link": "https://www.tweaktown.com/news/112711/former-gta-v-producer-says-rockstar-cut-fully-finished-minigames-and-entire-levels-that-just-disappeared/index.html",
-      "Published": "2026-07-20T14:30:06Z",
-      "Source": "TweakTown",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "Elon Musk responds to $52 billion deal between SpaceX and Foxconn for insane NVIDIA compute",
-      "Link": "https://www.tweaktown.com/news/112707/elon-musk-responds-to-dollars52-billion-deal-between-spacex-and-foxconn-for-insane-nvidia-compute/index.html",
-      "Published": "2026-07-20T14:24:08Z",
-      "Source": "TweakTown",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "Lenovo to Power Esports World Cup 2026 as a Founding Partner",
-      "Link": "https://www.techpowerup.com/350786/lenovo-to-power-esports-world-cup-2026-as-a-founding-partner",
-      "Published": "2026-07-20T14:20:36Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "Arduino® UNO™ Q ボードを使ってレトロなホーム アーケードを構築しましょう!",
-      "Link": "https://blog.arduino.cc/2026/07/20/build-a-retro-home-arcade-with-an-arduino-uno-q-board/",
-      "Published": "2026-07-20T14:20:14Z",
-      "Source": "Arduino Blog",
-      "Category": "UNO Q Arcade Bundle",
-      "Summary": "Arduino® UNO™ Q ボードを使ってレトロなホーム アーケードを構築しましょう!\n\nUNO™ Q DIY シンセ バンドルの発売からわずか数週間後、ワンクリックで選択でき、週末に完了できる新しいクラシック プロジェクトを追加します。  UNO™ Q Arcade バンドルをご紹介します: クリアに向けた完全なステップバイステップのチュートリアルに従って、UNO Q で構築を始めるやりがいのある新しい方法です。\n\nArduino® UNO™ Q ボードを使ってレトロなホーム アーケードを構築しましょう! | Arduino ブログ ブログ ホーム \u003e\n\nこの CNC 熱線カッターは飛行機の翼を作るために特別に作られました。\n\nArduino® UNO™ Q ボードを使ってレトロなホーム アーケードを構築しましょう!\n\nUNO™ Q DIY シンセ バンドルの発売からわずか数週間後、ワンクリックで選択でき、週末に完了できる新しいクラシック プロジェクトを追加します。\n\nUNO™ Q Arcade バンドルをご紹介します。UNO Q で構築を開始するためのやりがいのある新しい方法です。明確な目標に向けて完全なステップバイステップのチュートリアルに従い、進めていくうちに実践的な技術体験を得ることができます。\n\nこのバンドルは、お客様のエクスペリエンスをスムーズで価値のあるものにするように設計されているだけでなく、特別セール中に発売され、取引をさらに有利にする 20% 割引が組み込まれています。その上で寝ないでください！ DIY シンセ バンドルが私たちに何かを教えてくれたとしたら、それはすぐに売り切れてしまうということです。\n\nUNO Q Arcade バンドル: 1 つのボードで無限のゲーム\n\n誰でもわずか数時間で、自分だけのアーケード キャビネットを構築できるようになりました。 Arduino ® Project Hub で利用可能な手順に従うと、UNO Q がすぐに RetroArch (定評あるオープンソース マルチシステム エミュレータ) を Debian …",
-      "ImageURL": "https://blog.arduino.cc/wp-content/uploads/2026/07/Arduino.cc-Blogpost-Featured385x289.jpg"
-    },
-    {
-      "Title": "TSMC's factories are draining 9% of Taiwan's grid, triggering drastic new power rules",
-      "Link": "https://www.tweaktown.com/news/112709/tsmcs-factories-are-draining-9-percent-of-taiwans-grid-triggering-drastic-new-power-rules/index.html",
-      "Published": "2026-07-20T14:12:08Z",
-      "Source": "TweakTown",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "Netflix pays $600 million for Ben Affleck's company to supercharge its content with AI",
-      "Link": "https://www.tweaktown.com/news/112706/netflix-pays-dollars600-million-for-ben-afflecks-company-to-supercharge-its-content-with-ai/index.html",
-      "Published": "2026-07-20T14:03:07Z",
-      "Source": "TweakTown",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "ロケットの打ち上げは難しいが、持ち帰るのはさらに難しい",
-      "Link": "https://hackaday.com/2026/07/20/launching-rockets-is-hard-bring-them-back-is-harder/",
-      "Published": "2026-07-20T14:00:14Z",
-      "Source": "Hackaday",
-      "Category": "starship",
-      "Summary": "ロケットの打ち上げは難しいが、持ち帰るのはさらに難しい\n\n1944 年に最初の V2 ロケットがカルマン線の上を航行して以来、現代に至るまで、宇宙に向かうほとんどのロケットの軌道は多かれ少なかれ同じでした。\n\n1944 年に最初の V2 ロケットがカルマン線の上空を航行して以来、現代に至るまで、ほとんどの宇宙行きロケットの軌道はほぼ同じでした。推進剤を使い果たした後は、荒れ果てた草原に衝突するか、海に飛び込みます。いずれにせよ、ロケットは使い捨てでした。重要な先端部分は星々を探索したり、人間の乗組員を任務に送り出したりするかもしれないが、宇宙船を大気圏から引き上げるブースターロケットは常にその目的のために犠牲になることになる。\n\nしかし、1970 年代に NASA は突飛なアイデアを思いつきました。何かを軌道に乗せるたびに、数百万ドル相当の真新しいロケットを海に叩き落さなければどうなるでしょうか?その代わりに、彼らはロケットの垂直離陸と生のパワーと飛行機の能力を融合させたハイブリッド宇宙船を構築し、ロケットとその搭載物が任務の終わりに穏やかに滑走路に着陸できるようにするだろう。こうしてスペースシャトルが誕生したのです。\n\n今にして思えば、シャトルは NASA が期待していたほどの宇宙飛行革命ではなかったことがわかっています。再利用可能なロケットの時代は、SpaceX が Falcon 9 の第 1 段に着陸した 2015 年まで本格的に始まりませんでした。現在まで、同社はこの偉業を 600 回近く繰り返し、その間ずっと運用の信頼性と速度を向上させてきました。現在、ファルコン 9 は史上最も多産な打ち上げロケットであり、現在開発中の他のほぼすべてのロケットは、再利用性の要素を組み込むように設計されています。\n\nつい最近、中国は、長征10Bロケットを巨大な防虫網に相当するものに静かに落とすことで回収できることを実証した。 1950 年代の SF 映画のように尻尾から着地するロケットと比べると少し奇妙に思えるかもしれませんが、このアイデアには大きな期待が寄せられています。\n\n…",
-      "ImageURL": "https://hackaday.com/wp-content/uploads/2026/07/rocketcatch_feat.jpg"
-    },
-    {
-      "Title": "Acer Predator Atlas 8 ゲーム用ハンドヘルドの価格が明らかに",
-      "Link": "https://www.kitguru.net/gaming/matthew-wilson/acer-predator-atlas-8-gaming-handheld-pricing-revealed/",
-      "Published": "2026-07-20T14:00:11Z",
-      "Source": "KitGuru",
-      "Category": "Predator Atlas 8",
-      "Summary": "Acer Predator Atlas 8 ゲーム用ハンドヘルドの価格が明らかに\n\nComputex での発表に続き、Acer は現在、Predator Atlas 8 ハンドヘルドの英国での予約注文の詳細を発表しており、価格は £999.99 からとなっています。早期導入者には、すべてのユニットにプレパックされた Corning Gorilla Glass スクリーン プロテクターと 2 か月分の Xbox Game Pass Ultimate も提供されます。\n\nAcer Predator Atlas 8 ゲーム用ハンドヘルドの価格が明らかに\n\nMatthew Wilson 10 時間前 注目のテクノロジー ニュース , ソフトウェア \u0026 ゲーム\n\nComputex での発表に続き、Acer は現在、Predator Atlas 8 ハンドヘルドの英国での予約注文の詳細を発表しており、価格は £999.99 からとなっています。早期導入者には、すべてのユニットにプレパックされた Corning Gorilla Glass スクリーン プロテクターと 2 か月分の Xbox Game Pass Ultimate も提供されます。 Acer は、Computex ショーケースでこのデバイスを初めて紹介し、Predator Atlas 8 が Intel の新しい Arc G3 プロセッサを中心に構築されていることを確認しました。このハンドヘルドは、8 インチ 120Hz ディスプレイ、ホール効果ジョイスティック、アクティブ冷却、および完全な Windows サポートを備えており、PC ゲーム ライブラリと Intel XeSS アップスケーリングへのアクセスを可能にします。 Acer は、今年 10 月の発売に先立ち、英国での構成と価格の概要を発表しました。現在、Acer の Atlas 8 プレオーダー ページから優先プレオーダー登録が可能であり、4 つの段階が確認されています。基本の Predator Atlas 8 には、Intel Arc G3 プロセッサ、16…",
-      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/07/predator-atlas-8-pa08-i51-wp-shale-black-01-732x330.jpg"
-    },
-    {
-      "Title": "Telling Time Through Literature",
-      "Link": "https://www.hackster.io/news/telling-time-through-literature-20164cff802a",
-      "Published": "2026-07-20T13:49:32Z",
-      "Source": "Hackster.io",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "The Mac Pro nearly got a chip twice as powerful as the M3 Ultra and a new Intel model, until Apple cancelled both",
-      "Link": "https://www.tweaktown.com/news/112710/the-mac-pro-nearly-got-a-chip-twice-as-powerful-as-the-m3-ultra-and-a-new-intel-model-until-apple-cancelled-both/index.html",
-      "Published": "2026-07-20T13:40:08Z",
-      "Source": "TweakTown",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "ハードウェア バスターズがオープン GPU テスト スイートをリリース",
-      "Link": "https://www.igorslab.de/en/hardware-busters-open-gpu-test-suite/",
-      "Published": "2026-07-20T13:30:07Z",
-      "Source": "igor'sLAB",
-      "Category": "Windows-Workflow für GPU-Tests",
-      "Summary": "ハードウェア バスターズがオープン GPU テスト スイートをリリース\n\nHardware Busters は、12 個の検証済みゲーム プロファイル、16 個のボット スクリプト、および再現可能なテスト用の HTML レポートを備えたオープン GPU テスト スイートを提供します。\n\nHardware Busters は、GPU テスト スイートを一般公開しました。その核心は、これは単純なベンチマーク ランチャーではなく、文書化された測定ソース、自動化されたゲーム プロファイル、グラフィックス カード クーラーの検証モード、およびスタンドアロン HTML レポートを備えた再現可能な GPU テストのための Windows ワークフローです。起動時のスイートには、12 個の検証済みゲーム プロファイルと 16 個のボット スクリプトが含まれています。ソース コードは Apache 2.0 で利用できます。\n\nこのスイートは、再現可能で文書化された GPU テスト用に設計されていますが、プロファイルの慎重な検証に代わるものではありません。情報源は、ゲームのアップデート後にルートとシーンを調整する必要があると明示的に指摘しています。言語設定、ランチャーのバージョン、ゲームのアップデート、アカウントのステータス、ドライバー、またはアンチチート システムによってナビゲーションが変更される可能性があるため、すべてのシステムで同一のワークフローが保証されるわけではありません。したがって、コミュニティが投稿したコンテンツには、正式に検証された「ハードウェア バスターズ検証済み」プロファイルとは別にラベルが付けられます。さらに、このプロジェクトには商用ゲーム、ベンチマーク プログラム、アカウント、DLC、ライセンス キーは含まれません。これらはユーザーが合法的にインストールする必要があります。\n\nハードウェア バスターズは、GPU テスト スイートを純粋なベンチマーク ランチャーより明らかに上位に配置します。焦点は、オープンに文書化されたテスト方法、測定値、測定ソース、検証ステータスの…",
-      "ImageURL": "https://www.igorslab.de/wp-content/uploads/2026/07/Unbenannt-4.jpg"
-    },
-    {
-      "Title": "これらの AT\u0026T ホーム インターネット プランは 5 ドル値上げされます",
-      "Link": "https://www.androidauthority.com/att-price-hike-august-2026-3689162/",
-      "Published": "2026-07-20T13:18:59Z",
-      "Source": "Android Authority",
-      "Category": "AT\u0026T",
-      "Summary": "これらの AT\u0026T ホーム インターネット プランは 5 ドル値上げされます\n\n漏洩したAT\u0026T文書により、8月中旬に同社の2つのプランで価格が値上げされ、顧客は5ドルの値上げが見込まれることが明らかになった。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\n通信事業者とプラン これらの AT\u0026T ホーム インターネット プランは 5 ドル値上げされます\n\n0 • Edgar Cervantes / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR 流出した AT\u0026T 従業員トレーニング文書により、2 つの家庭用インターネット プランで月額 5 ドルの値上げが明らかになりました。\n\nAccess from AT\u0026T プログラムを利用している顧客と、特定の期間内に設定された AT\u0026T インターネット ファイバーおよび銅線プランを利用している顧客が影響を受けます。\n\nこれは、最近、管理手数料の一部としてワイヤレス顧客向けに 1 ドルの価格が引き上げられたことに続いて行われます。\n\nAT\u0026T は最近、家庭用インターネット プランを少し見直し、同時に Build-A-Plan の範囲を家庭用インターネット サービスをカバーするように拡大しました。こうした変化の中で、通信事業者が家庭用インターネットプランの価格を値上げする意向であることが明らかになった。\n\nPhoneArena が匿名の情報源を通じて入手した従業員の内部文書によると、通信事業者は 8 月 16 日から次の 2 つのプランに対して月額 5 ドルの追加料金を請求します。\n\n2024 年 6 月から 2025 年 7 月までに確立された光ファイバーおよび銅線プランを利用している AT\u0026T インターネットの顧客。\n\nAT\u0026T の顧客は、月額 15 ドルのカッパー プランで最大 50 Mbps の速度でアクセスできます。\n\nこれは、AT\u0026T が管理および規制コス…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/05/ATT-logo-on-phone-stock-photo-4.jpg"
-    },
-    {
-      "Title": "Palworld V1.0 のリリースで人気が急上昇",
-      "Link": "https://www.kitguru.net/gaming/matthew-wilson/palworld-surges-in-popularity-following-v1-0-launch/",
-      "Published": "2026-07-20T13:17:28Z",
-      "Source": "KitGuru",
-      "Category": "steam",
-      "Summary": "Palworld V1.0 のリリースで人気が急上昇\n\nPalworld は早期アクセスから正式に開始され、膨大な数のプレイヤーが戻ってきました。このゲームは 2024 年初頭に初めて人気が爆発し、ピーク時に 210 万人を超える同時プレイヤーがデビューしましたが、PocketPair が長期的な開発に焦点を移すにつれて、関心は自然に減少しました。バージョン 1.0 がついに利用可能になり、Palworld は急上昇しました\n\nPalworld V1.0 のリリースで人気が急上昇\n\nMatthew Wilson 11 時間前 注目の技術ニュース , ソフトウェア \u0026 ゲーム\n\nPalworld は早期アクセスから正式に開始され、膨大な数のプレイヤーが戻ってきました。このゲームは 2024 年初頭に初めて人気が爆発し、ピーク時に 210 万人を超える同時プレイヤーがデビューしましたが、PocketPair が長期的な開発に焦点を移すにつれて、関心は自然に減少しました。バージョン 1.0 がついに利用可能になり、Palworld は再び記録に近い高さまで急上昇しました。 Steam Charts によると、Palworld はここ 1 か月間で劇的な復活を遂げています。過去 30 日間で、ゲームの同時接続プレイヤー数は 956,613 人のピークに達し、6 月と比較して 733% 増加しました。これは、早期アクセスの開始以降、Palworld の最も強力なパフォーマンスを示しています。メジャー アップデートにより、数値が再び安定するまでゲームの数は定期的に数十万単位に戻りました。 2024 年から 2025 年初頭にかけて、プレイヤー数は大幅に変動し、プレイヤーが完全リリースを待っていたため、当初のピークの 210 万人から数万人まで減少しました。バージョン 1.0 が利用可能になったことにより、Palworld のプレイヤー ベースは、早期アクセス タイトルではほとんど見られない方法で集結しました。この新たな勢いは、ポケットペアが任天堂との法的紛争をうまく乗り切ったように…",
-      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2024/01/Palworld-4k-Wallpaper-732x330.jpg"
-    },
-    {
-      "Title": "Android Auto 上の Google マップがついにこの Waze 機能で高速化されました",
-      "Link": "https://www.androidauthority.com/google-maps-android-auto-live-speedometer-3689236/",
-      "Published": "2026-07-20T13:11:58Z",
-      "Source": "Android Authority",
-      "Category": "Google Maps",
-      "Summary": "Android Auto 上の Google マップがついにこの Waze 機能で高速化されました\n\nGoogle マップはついに、一部の Android Auto ユーザーにライブ スピードメーターを公開し、車の画面に待望のモバイル機能をもたらします。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nAndroid Auto 上の Google マップがついにこの Waze 機能で高速化されました\n\n0 • Andy Walker / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR T\n\nGoogle マップは、Android Auto ユーザー向けにライブ スピード メーターの展開を開始しており、この機能は iOS、Android スマートフォン、CarPlay にはすでに存在していたため、長年にわたる機能のギャップを埋めています。\n\nフローティング アイコンは、掲示された制限速度の横に現在の速度を表示し、ドライバーが制限速度を超えると黄色または赤に変わります。\n\nこの機能は現在、Google マップのベータ版とサーバー側のスイッチを通じて限定的に公開されているようです。\n\nGoogleマップはついにAndroid Autoユーザー向けにライブスピードメーターの展開を開始した。速度制限インジケーターと共存するこの要望の多かった機能は、一部のユーザー向けに表示され始めており、Google の車のダッシュボード エクスペリエンスにおける大規模で紛らわしい省略を橋渡ししています。\n\nライブ速度計は、Google マップの Android、iOS、さらには CarPlay エクスペリエンスの一部となっていますが、Android Auto では利用できませんでした。このプラットフォームは、何年も前にこの機能が Android スマートフォンでリリースされたとき、そして 2024 年に iOS と CarPlay …",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2025/07/google-maps-and-waze-android-auto-1.jpg"
     }
   ]
 }
