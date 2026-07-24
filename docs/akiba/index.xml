@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Fri, 24 Jul 2026 17:51:09 +0000</lastBuildDate>
+<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Fri, 24 Jul 2026 19:46:18 +0000</lastBuildDate>
+<item><title>Xのオープンソース化は「来月」。イーロン・マスク氏は宣言直後に&#34;元・兆万長者&#34;と自虐も</title><link>https://pc.watch.impress.co.jp/docs/news/2127835.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2127835.html</guid><pubDate>Fri, 24 Jul 2026 18:42:29 +0000</pubDate><description><![CDATA[<p>Xのオープンソース化は「来月」。イーロン・マスク氏は宣言直後に&#34;元・兆万長者&#34;と自虐も
+
+今度は期限が切られた。イーロン・マスク氏は7月25日(日本時間)、「来月、Xのシステムに関わるすべてのコードをオープンソース化し、第三者の監査を受ける」とX(旧Twitter)に投稿した。同氏は7月15日(日本時間)に、セキュリティ脆弱性のレビュー完了を条件としてXの全コードベースを例外なく公開する方針を表明していたが、公開時期には触れていなかった。今回の投稿で、時期が2026年8月であることを初めて明言した形だ。
+
+Xのオープンソース化は「来月」。イーロン・マスク氏は宣言直後に&#34;元・兆万長者&#34;と自虐も
+
+今度は期限が切られた。イーロン・マスク氏は7月25日(日本時間)、「来月、Xのシステムに関わるすべてのコードをオープンソース化し、第三者の監査を受ける」とX(旧Twitter)に投稿した。同氏は7月15日(日本時間)に、セキュリティ脆弱性のレビュー完了を条件としてXの全コードベースを例外なく公開する方針を表明していたが、公開時期には触れていなかった。今回の投稿で、時期が2026年8月であることを初めて明言した形だ。
+
+7月15日の表明では、コードの公開に加え、第三者のレビュアーを招いて稼働中のシステムを検証してもらい、公開したコードが実際に動いているコードと同一であることを確認するとしていた。今回の投稿でも「第三者の監査を受ける」と改めて述べており、公開と外部検証をセットで進める姿勢に変わりはない。投稿は今回も、完全な透明性だけが信頼に値するという趣旨の言葉で締めくくられている。
+
+一方で、8月のいつ公開されるのか、前提としていた脆弱性レビューが完了したのか、コードのライセンスや監査を担う第三者が誰なのかといった詳細は、7月25日時点では公表されていない。
+
+ところで、この宣言の7分後、同氏は「(Former) Trillionaire(元・兆万長者)」とだけ記した投稿を放っている。6月のSpaceX上場で世界初の&#34;1兆ドル長者&#34;となったものの、その後の株安で陥落したことへの自虐…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2127/835/01.png" alt="Xのオープンソース化は「来月」。イーロン・マスク氏は宣言直後に&#34;元・兆万長者&#34;と自虐も"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2127835.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2127/835/01.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2127/835/01.png"/></item>
 <item><title>「Fable 5級を半額で」Claude Opus 5登場。Proでも最強モデルに</title><link>https://pc.watch.impress.co.jp/docs/news/2127832.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2127832.html</guid><pubDate>Fri, 24 Jul 2026 17:34:31 +0000</pubDate><description><![CDATA[<p>「Fable 5級を半額で」Claude Opus 5登場。Proでも最強モデルに
 
 「性能はフラグシップ級、値段は半分」──Fable 5を使いたくても使えなかったユーザーへの回答となるモデルが登場した。Anthropicは7月25日(日本時間)、新AIモデル「Claude Opus 5」の提供を開始した。最上位モデル「Claude Fable 5」に迫る知能を半額で提供するのが特徴で、有料プランのMaxでは標準モデルに、Proでは選べる中で最強のモデルとなる。API価格は前世代「Claude Opus 4.8」から据え置きの100万トークン(AIが文章を処理する際の単位)あたり入力5ドル(約815円)、出力25ドル(約4,075円)。ただしサイバーセキュリティ用途には一部制限が残っており、その中身は本稿の後段で触れる。
@@ -1844,6 +1857,23 @@ LineShine LX2の 諸元 を見ると、1CPUあたり304コアで、総コア数1
 MQ問題の解読性能を競うFukuoka MQ Challengeにおいて新記録を達成した(Type VI, m=24)。これは従来と比較して計算困難性が約47,000倍高いと見積もられ、次世代暗号の安全性評価に関わる計算技術を大きく前進させる成果であるという。
 
 今後は提案アルゴリズムの適用範囲をさらに詳しく調べるとともに、新しいCPU命令や並列計算環境を活用した高速化を進め、多変数多項式暗号を含むポスト量子暗号の安全性をより精密に評価し、将来の安全な情報通信基盤の設計に貢献するとしている。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2127/302/1.png" alt="東大が暗号解読の世界記録。従来より約47,000倍難しい問題を突破"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2127302.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2127/302/1.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2127/302/1.png"/></item>
+<item><title>バイブコーディングでAMD GPU最適化を実現する魔法のツール「ROCm.AI」</title><link>https://pc.watch.impress.co.jp/docs/news/2127476.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2127476.html</guid><pubDate>Thu, 23 Jul 2026 18:30:00 +0000</pubDate><description><![CDATA[<p>バイブコーディングでAMD GPU最適化を実現する魔法のツール「ROCm.AI」
+
+AMDは、年次イベントとなる「AMD Advancing AI 2026」を7月22日と23日に米国カリフォルニア州サンフランシスコ市で開催している。2日目となった7月23日には、同社CEOのリサ・スー氏による基調講演が行なわれ、同社のAI向けソリューションなどが多数発表された。
+
+バイブコーディングでAMD GPU最適化を実現する魔法のツール「ROCm.AI」
+
+AMDは、年次イベントとなる「AMD Advancing AI 2026」を7月22日と23日に米国カリフォルニア州サンフランシスコ市で開催している。2日目となった7月23日には、同社CEOのリサ・スー氏による基調講演が行なわれ、同社のAI向けソリューションなどが多数発表された。
+
+この中でAMDは同社のGPU最適化ツール「ROCm」の新しいツールとなる「ROCm.AI」を発表。ROCm.AIはいわゆるバイブコーディングやAIコーディングなどと呼ばれる、エージェント型AIにコードを書かせる新しいプログラミング方法に対応したROCmとなる。
+
+新しく「ROCm CLI」と呼ばれるコマンドラインベースのユーザーインターフェイスをサポートし、エージェント型AIやバイブコーディングツールに対応し、GPUへの最適化をエージェント型AIと協調しながら行なえるようになる。
+
+エージェント型のコーディングツールと連携してGPU最適化を自動で行なうROCm.AI
+
+今、ソフトウェアのプログラミング環境は大きく転換している。LLMから構築されているエージェント型AIは高度なプログラミングが可能になっているため、人間はソフトウェアの仕様書を作り、エージェント型AIに渡せば、AIがその仕様書を元にプログラムのコードを書いて、プログラムをコンパイルして実行形式にし、動作検証(デバッグ)まで行なうというプロセスが当たり前になりつつある。
+
+そうした現状の中で、AMDはこれまで人間のプログラマー向けだけをターゲットにしてきたGPU最適化ツール「ROCm」の…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2127/476/001.jpg" alt="バイブコーディングでAMD GPU最適化を実現する魔法のツール「ROCm.AI」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2127476.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2127/476/001.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2127/476/001.jpg"/></item>
 <item><title>AMD、打倒NVIDIAのAI向けGPU「Instinct MI455X」と新ラック投入</title><link>https://pc.watch.impress.co.jp/docs/news/2127474.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2127474.html</guid><pubDate>Thu, 23 Jul 2026 18:30:00 +0000</pubDate><description><![CDATA[<p>AMD、打倒NVIDIAのAI向けGPU「Instinct MI455X」と新ラック投入
 
 AMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、AIデータセンター向けGPU「Instinct MI400 Series GPU」を発表した。
@@ -1859,6 +1889,21 @@ Instinct MI455Xは、去年(2025年)のAdvancing AI 2025で概要が発表され
 従来型製品となるInstinct MI355Xと同じように、チップレットの構造になっており複数のダイを3D方向と2D方向に積層することで構成されている。
 
 具体的にはインターコネクト(Infinity Fabric)とL2キャッシュを搭載するFCD(TSMC N3P)が2チップ、PCI Express/UALinkやチップ間通信のインターコネクト(Infinity Fabric)用のI/Oダイ(IOD、TSMC N3P)が2チップ、コンピュートエンジンを搭載したXCD(TSMC N2)が8チップ、そ…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2127/474/001.jpg" alt="AMD、打倒NVIDIAのAI向けGPU「Instinct MI455X」と新ラック投入"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2127474.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2127/474/001.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2127/474/001.jpg"/></item>
+<item><title>AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」</title><link>https://pc.watch.impress.co.jp/docs/news/2127479.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2127479.html</guid><pubDate>Thu, 23 Jul 2026 18:30:00 +0000</pubDate><description><![CDATA[<p>AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」
+
+AMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、フィジカルAI向けの「Ryzen AI Embedded Processors」の最新製品となる「Ryzen AI Embedded X100 Series processors」を発表した。
+
+AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」
+
+AMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、フィジカルAI向けの「Ryzen AI Embedded Processors」の最新製品となる「Ryzen AI Embedded X100 Series processors」を発表した。
+
+Strix Halo/Golden HaloベースのRyzen AI Embedded X100
+
+AMDが発表したRyzen AI Embedded X100は、1月のCESでAMDが発表した「Ryzen AI Embedded P100 Series processors」の上位版製品となる。Ryzen AI Embedded P100は、Strix PointないしはGolden PointベースのSoCで、最大12コアのZen 5/Zen 5cコア、最大16CUのRDNA 3.5 GPU、最大50TOPSのNPUという構成になっていた。
+
+それに対して、Ryzen AI Embedded X100はStrix HaloないしはGolden Haloがベースになっており、CPUは最大16コア(8コアのダイが2つ)のZen 5、GPUは最大40CUのRDNA 3.5、そして50TOPSのXDNA2 NPUというスペックになっている。
+
+最大128GBのメモリを搭載可能で、CPU、GPU、NPUが大容量のメモリをシェアしてAIのローカル処理を行…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2127/479/001.jpg" alt="AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2127479.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2127/479/001.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2127/479/001.jpg"/></item>
 <item><title>AMD、最大256コア・L3キャッシュ1GB超の第6世代「EPYC 9006」</title><link>https://pc.watch.impress.co.jp/docs/news/2127459.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2127459.html</guid><pubDate>Thu, 23 Jul 2026 18:30:00 +0000</pubDate><description><![CDATA[<p>AMD、最大256コア・L3キャッシュ1GB超の第6世代「EPYC 9006」
 
 AMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、この中で第6世代EPYCを正式に発表した。
@@ -1878,38 +1923,6 @@ CPUコアはZen 6cとZen 6の2種類が採用されており、前者が最大25
 また、AMDの3D V-Cache(TSMCの3Dダイスタッキング技術となるSoICを利用してキャッシュを3D方向に積層する技術)を利用。L3キャッシュが最大1,152MB(1.125GB)と、遂に1GBを超えるL3キャッシュを実装した。TDPは最大600Wだ。
 
 第5世代EPYCでは最大12チャンネルのメモリコントローラ構成になっていたが、第6世代EPYCでは最大で16チャンネルに強化。通常のDDR5利用時には8,000MT/s(いわゆるDDR5-8000)に対応し、MRDIMMのDDR5の場合には12,800MT/s(DDR5-12…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2127/459/001.jpg" alt="AMD、最大256コア・L3キャッシュ1GB超の第6世代「EPYC 9006」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2127459.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2127/459/001.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2127/459/001.jpg"/></item>
-<item><title>AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」</title><link>https://pc.watch.impress.co.jp/docs/news/2127479.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2127479.html</guid><pubDate>Thu, 23 Jul 2026 18:30:00 +0000</pubDate><description><![CDATA[<p>AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」
-
-AMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、フィジカルAI向けの「Ryzen AI Embedded Processors」の最新製品となる「Ryzen AI Embedded X100 Series processors」を発表した。
-
-AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」
-
-AMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、フィジカルAI向けの「Ryzen AI Embedded Processors」の最新製品となる「Ryzen AI Embedded X100 Series processors」を発表した。
-
-Strix Halo/Golden HaloベースのRyzen AI Embedded X100
-
-AMDが発表したRyzen AI Embedded X100は、1月のCESでAMDが発表した「Ryzen AI Embedded P100 Series processors」の上位版製品となる。Ryzen AI Embedded P100は、Strix PointないしはGolden PointベースのSoCで、最大12コアのZen 5/Zen 5cコア、最大16CUのRDNA 3.5 GPU、最大50TOPSのNPUという構成になっていた。
-
-それに対して、Ryzen AI Embedded X100はStrix HaloないしはGolden Haloがベースになっており、CPUは最大16コア(8コアのダイが2つ)のZen 5、GPUは最大40CUのRDNA 3.5、そして50TOPSのXDNA2 NPUというスペックになっている。
-
-最大128GBのメモリを搭載可能で、CPU、GPU、NPUが大容量のメモリをシェアしてAIのローカル処理を行…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2127/479/001.jpg" alt="AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2127479.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2127/479/001.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2127/479/001.jpg"/></item>
-<item><title>バイブコーディングでAMD GPU最適化を実現する魔法のツール「ROCm.AI」</title><link>https://pc.watch.impress.co.jp/docs/news/2127476.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2127476.html</guid><pubDate>Thu, 23 Jul 2026 18:30:00 +0000</pubDate><description><![CDATA[<p>バイブコーディングでAMD GPU最適化を実現する魔法のツール「ROCm.AI」
-
-AMDは、年次イベントとなる「AMD Advancing AI 2026」を7月22日と23日に米国カリフォルニア州サンフランシスコ市で開催している。2日目となった7月23日には、同社CEOのリサ・スー氏による基調講演が行なわれ、同社のAI向けソリューションなどが多数発表された。
-
-バイブコーディングでAMD GPU最適化を実現する魔法のツール「ROCm.AI」
-
-AMDは、年次イベントとなる「AMD Advancing AI 2026」を7月22日と23日に米国カリフォルニア州サンフランシスコ市で開催している。2日目となった7月23日には、同社CEOのリサ・スー氏による基調講演が行なわれ、同社のAI向けソリューションなどが多数発表された。
-
-この中でAMDは同社のGPU最適化ツール「ROCm」の新しいツールとなる「ROCm.AI」を発表。ROCm.AIはいわゆるバイブコーディングやAIコーディングなどと呼ばれる、エージェント型AIにコードを書かせる新しいプログラミング方法に対応したROCmとなる。
-
-新しく「ROCm CLI」と呼ばれるコマンドラインベースのユーザーインターフェイスをサポートし、エージェント型AIやバイブコーディングツールに対応し、GPUへの最適化をエージェント型AIと協調しながら行なえるようになる。
-
-エージェント型のコーディングツールと連携してGPU最適化を自動で行なうROCm.AI
-
-今、ソフトウェアのプログラミング環境は大きく転換している。LLMから構築されているエージェント型AIは高度なプログラミングが可能になっているため、人間はソフトウェアの仕様書を作り、エージェント型AIに渡せば、AIがその仕様書を元にプログラムのコードを書いて、プログラムをコンパイルして実行形式にし、動作検証(デバッグ)まで行なうというプロセスが当たり前になりつつある。
-
-そうした現状の中で、AMDはこれまで人間のプログラマー向けだけをターゲットにしてきたGPU最適化ツール「ROCm」の…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2127/476/001.jpg" alt="バイブコーディングでAMD GPU最適化を実現する魔法のツール「ROCm.AI」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2127476.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2127/476/001.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2127/476/001.jpg"/></item>
 <item><title>GeForce RTX 5000シリーズ出荷量、2026年7月下旬はさらに減少へ</title><link>https://www.nichepcgamer.com/archives/post-131113.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/post-131113.html</guid><pubDate>Thu, 23 Jul 2026 17:11:24 +0000</pubDate><description><![CDATA[<p>GeForce RTX 5000シリーズ出荷量、2026年7月下旬はさらに減少へ
 
 2026年7月下旬は、GeForce RTX 5000シリーズの出荷量がさらに減少するとの情報が出てきました。 中国語圏フォーラム博板堂のリーカー、低手一号氏は以下のようの述べています。 2026年...
@@ -9210,15 +9223,4 @@ iPhone 16 256GB – ピンク（SIMフリー） （108,800円）
 iPhone 15 Pro Max 1TB – ナチュラルチタニウム（SIMフリー） （196,800円）
 
 新着…</p><p><img src="https://gori.me/uploads/2026/07/iPhone-Refurbished-model-2026-07-16-800x498.jpg" alt="Apple整備済iPhoneに6モデル追加、目玉はiPhone 16ホワイトが96,800円"></p>]]></description><source url="https://gori.me/sale/apple-refurbished/168203">gori.me</source><media:content url="https://gori.me/uploads/2026/07/iPhone-Refurbished-model-2026-07-16-800x498.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/07/iPhone-Refurbished-model-2026-07-16-800x498.jpg"/></item>
-<item><title>Androidバックアップ、Googleアカウントの保存容量にカウントされるように</title><link>https://pc.watch.impress.co.jp/docs/news/2125978.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2125978.html</guid><pubDate>Fri, 17 Jul 2026 03:02:23 +0000</pubDate><description><![CDATA[<p>Androidバックアップ、Googleアカウントの保存容量にカウントされるように
-
-Googleは、Androidデバイスのバックアップデータを、Googleアカウントの保存容量としてカウントするよう仕様変更する予定だとアナウンスした。ユーザーに対し、順次ポリシー変更の案内が行なわれているようだ。
-
-Androidバックアップ、Googleアカウントの保存容量にカウントされるように
-
-Googleは、Androidデバイスのバックアップデータを、Googleアカウントの保存容量としてカウントするよう仕様変更する予定だとアナウンスした。ユーザーに対し、順次ポリシー変更の案内が行なわれているようだ。
-
-編集部内でも案内の届いたアカウントが確認されており、そのメールによれば、SMSメッセージや通話履歴、デバイスの設定、アプリの設定といった、従来はGoogleアカウントの保存容量にカウントされていなかったAndroidデバイスのバックアップデータが、新たなポリシーではカウント対象へと変更されるという。メール内では、新ポリシーは45日後から適用されると記されていた。
-
-なお、今回のポリシー変更にあわせて、アプリごとにバックアップのオン/オフを切り替えられる機能も導入予定で、Android 9以降であれば細かく設定を変えられるという。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2125/978/01.jpg" alt="Androidバックアップ、Googleアカウントの保存容量にカウントされるように"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2125978.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2125/978/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2125/978/01.jpg"/></item>
 </channel></rss>
