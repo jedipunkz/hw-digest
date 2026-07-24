@@ -1,6 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Fri, 24 Jul 2026 15:43:54 +0000</lastBuildDate>
+<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Fri, 24 Jul 2026 17:51:09 +0000</lastBuildDate>
+<item><title>「Fable 5級を半額で」Claude Opus 5登場。Proでも最強モデルに</title><link>https://pc.watch.impress.co.jp/docs/news/2127832.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2127832.html</guid><pubDate>Fri, 24 Jul 2026 17:34:31 +0000</pubDate><description><![CDATA[<p>「Fable 5級を半額で」Claude Opus 5登場。Proでも最強モデルに
+
+「性能はフラグシップ級、値段は半分」──Fable 5を使いたくても使えなかったユーザーへの回答となるモデルが登場した。Anthropicは7月25日(日本時間)、新AIモデル「Claude Opus 5」の提供を開始した。最上位モデル「Claude Fable 5」に迫る知能を半額で提供するのが特徴で、有料プランのMaxでは標準モデルに、Proでは選べる中で最強のモデルとなる。API価格は前世代「Claude Opus 4.8」から据え置きの100万トークン(AIが文章を処理する際の単位)あたり入力5ドル(約815円)、出力25ドル(約4,075円)。ただしサイバーセキュリティ用途には一部制限が残っており、その中身は本稿の後段で触れる。
+
+「Fable 5級を半額で」Claude Opus 5登場。Proでも最強モデルに
+
+「性能はフラグシップ級、値段は半分」──Fable 5を使いたくても使えなかったユーザーへの回答となるモデルが登場した。Anthropicは7月25日(日本時間)、新AIモデル「Claude Opus 5」の提供を開始した。最上位モデル「Claude Fable 5」に迫る知能を半額で提供するのが特徴で、有料プランのMaxでは標準モデルに、Proでは選べる中で最強のモデルとなる。API価格は前世代「Claude Opus 4.8」から据え置きの100万トークン(AIが文章を処理する際の単位)あたり入力5ドル(約815円)、出力25ドル(約4,075円)。ただしサイバーセキュリティ用途には一部制限が残っており、その中身は本稿の後段で触れる。
+
+Opus 5は、AnthropicのラインアップでFable 5の下に位置する「Opus」系列の最新版だが、性能面ではむしろ最高記録を塗り替えた。コーディング評価のFrontier-Bench v0.1では全モデル中トップに立ち、Opus 4.8の2倍超のスコアをタスクあたりより低いコストで達成。コーディング支援のCursor…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2127/832/01.png" alt="「Fable 5級を半額で」Claude Opus 5登場。Proでも最強モデルに"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2127832.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2127/832/01.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2127/832/01.png"/></item>
+<item><title>速報：Claude Opus 5が登場。Fable 5に迫る性能で価格は半分</title><link>https://gori.me/it/168410</link><guid isPermaLink="true">https://gori.me/it/168410</guid><pubDate>Fri, 24 Jul 2026 17:32:55 +0000</pubDate><description><![CDATA[<p>速報：Claude Opus 5が登場。Fable 5に迫る性能で価格は半分
+
+Anthropicが新モデル「Claude Opus 5」を2026年7月24日に公開した。Fable 5に迫るフロンティア級の知能を半額で提供する位置づけで、Claude Maxの新デフォルトにも採用。Frontier-BenchやCursorBenchでの伸びが目立ち、ARC-AGI 3では2位の3倍というスコアを叩き出している。
+
+速報：Claude Opus 5が登場。Fable 5に迫る性能で価格は半分
+
+コーディング評価がごっそり底上げ、Frontier-BenchではOpus 4.8のスコアを倍以上に更新
+
+Anthropicが2026年7月24日にClaude Opus 5を公開。価格はOpus 4.8と同じ入力5ドル/出力25ドル（100万トークンあたり）
+
+Frontier-Bench v0.1でOpus 4.8の倍以上、CursorBench 3.2ではFable 5と0.5%差の性能
+
+ARC-AGI 3では2位のモデルの3倍のスコア。Claude Maxの新しいデフォルトモデルにもなった
+
+Anthropicが「Claude Opus 5」を本日リリースした。半額の価格でフラッグシップの「Claude Fable 5」に迫る知能を持ちながら、思慮深く先回りして動いてくれるのが売りらしい。前モデルのOpus 4.8と同じ価格帯のまま、性能だけが大きく引き上げられた形だ。
+
+On several coding and knowledge work evaluations, Opus 5 is the new state-of-the-art: pic.twitter.com/Cl3fDxM0gP
+
+— Claude (@claudeai) July 24, 2026
+
+On ARC-AGI-3, an evaluation where AI models must solve novel problems, Opus 5’s score is three times a…</p><p><img src="https://gori.me/uploads/2026/07/Claude-Opus-5-release-800x585.jpg" alt="速報：Claude Opus 5が登場。Fable 5に迫る性能で価格は半分"></p>]]></description><source url="https://gori.me/it/168410">gori.me</source><media:content url="https://gori.me/uploads/2026/07/Claude-Opus-5-release-800x585.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/07/Claude-Opus-5-release-800x585.jpg"/></item>
+<item><title>CXMTはメモリ価格低下の救世主にはならない。Samsungよりも高い価格設定</title><link>https://www.nichepcgamer.com/archives/post-131171.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/post-131171.html</guid><pubDate>Fri, 24 Jul 2026 17:21:42 +0000</pubDate><description><![CDATA[<p>CXMTはメモリ価格低下の救世主にはならない。Samsungよりも高い価格設定
+
+CXMT (ChangXin Memory Technologies)は、メモリ価格低下の救世主にはなりそうにありません。非常に強気な価格設定をしている模様です。Reutersが報じました。 中国の...
+
+CXMT (ChangXin Memory Technologies)は、メモリ価格低下の救世主にはなりそうにありません。 非常に強気な価格設定をしている模様です。 Reutersが報じました。
+
+中国のCXMTは、スマートフォン、ノートPC、サーバーなどに使われるDRAMを含むメモリメーカーとして、世界4位の規模にまで成長した。現在では、Huaweiでさえ受け入れがたい価格を提示できるほどの影響力を有している。
+
+中国製メモリチップは長い間、米国や韓国の製品に代わる安価な代替品として見なされてきた。しかし、私たちが取材した関係者たちによると、もはやそうではないという。
+
+Samsungはサーバー向け64GB DDR5メモリモジュールの価格を約1,240ドルに設定しているらしいが、CXMTはそれを上回る価格設定を提示しているという。 具体的な価格については明らかにしなかった。
+
+この件に詳しい2人によると、Huaweiは値下げを求めたものの、CXMTは強硬な姿勢を崩さなかったという。
+
+以前からCXMT製メモリは、MicronやSK hynix、Samsungと ほぼ同水準の価格 という情報が出ていましたが、何ならSamsungよりも高い価格設定で販売している模様です。
+
+この現状を鑑みるに、CXMT製のDDR5メモリがコンシューマー向けに広く採用されるようになったとしても、小売価格の低下は期待できそうにありません。
+
+筆者は自作PC歴20年以上の経験を持ち、Windows OSの細部にわたるカスタマイズや高度な設定、PCゲームの最適化、PCハードウェアとソフトウェアに関する専門知識をもとに、PC環境を快適にするための情報、不具合に遭わないようにするための情報、そして、ちょっとニッチよ…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2025/12/memory-top-k.jpg" alt="CXMTはメモリ価格低下の救世主にはならない。Samsungよりも高い価格設定"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-131171.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2025/12/memory-top-k.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2025/12/memory-top-k.jpg"/></item>
+<item><title>暴走AIは法で止めるべき？米AI規制法案にNVIDIAらが共同書簡で対抗</title><link>https://pc.watch.impress.co.jp/docs/news/2127831.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2127831.html</guid><pubDate>Fri, 24 Jul 2026 17:05:49 +0000</pubDate><description><![CDATA[<p>暴走AIは法で止めるべき？米AI規制法案にNVIDIAらが共同書簡で対抗
+
+AIが暴走したら、政府が強制的に止められるようにする——そんな「AIキルスイッチ法案」が7月23日(米国時間)、米連邦議会に提出された。その翌日、NVIDIAやMicrosoft、Metaなど25の企業・団体が、共同書簡「Open Weights and American AI Leadership」を公開した。規制で縛るのではなく、AIを広く公開することこそが安全につながる——という、AI業界側の反論だ。ただ、この反論がAIキルスイッチ法案の行方を左右できるかどうかは、まだ見えない。
+
+暴走AIは法で止めるべき？米AI規制法案にNVIDIAらが共同書簡で対抗
+
+AIが暴走したら、政府が強制的に止められるようにする——そんな「AIキルスイッチ法案」が7月23日(米国時間)、米連邦議会に提出された。その翌日、NVIDIAやMicrosoft、Metaなど25の企業・団体が、共同書簡「Open Weights and American AI Leadership」を公開した。規制で縛るのではなく、AIを広く公開することこそが安全につながる——という、AI業界側の反論だ。ただ、この反論がAIキルスイッチ法案の行方を左右できるかどうかは、まだ見えない。
+
+書簡が擁護する「オープンウェイトモデル」(以下オープンモデル)とは、AIの頭脳にあたるデータを広く公開し、誰でも入手・改変して自分のコンピュータで動かせるAIモデルである。対するChatGPTのような主流のAIは、開発企業が頭脳部分を非公開のまま貸し出す「クローズドモデル」だ。実は署名者リストには、クローズドモデルを主力とするOpenAIやAnthropic、Googleの名前がない。つまりこの書簡は業界の総意ではなく、AIの公開を推す陣営からの呼びかけである。
+
+AIキルスイッチ法案の背景には、中国Moonshot AIの「Kimi K3」など、最先端級の性能をうたう中国製オープンモデルの台頭への警戒がある。誰でも入手できる形で世界中に広がるAIをど…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2127/831/01.png" alt="暴走AIは法で止めるべき？米AI規制法案にNVIDIAらが共同書簡で対抗"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2127831.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2127/831/01.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2127/831/01.png"/></item>
+<item><title>AMD、Zen 7とZen 8の登場時期を発表</title><link>https://www.nichepcgamer.com/archives/post-131166.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/post-131166.html</guid><pubDate>Fri, 24 Jul 2026 16:24:37 +0000</pubDate><description><![CDATA[<p>AMD、Zen 7とZen 8の登場時期を発表
+
+AMDは、Zen 7およびZen 8の登場時期を発表しました。 AMDが公開したロードマップがこちら。 Zen 6 / Zen 7 / Zen 8 EPYCロードマップ AMDは2026年に2nmプ...
+
+AMDは、Zen 7およびZen 8の登場時期を発表しました。
+
+Zen 6 / Zen 7 / Zen 8 EPYCロードマップ
+
+AMDは2026年に2nmプロセスノード(TSMC N2) / Zen 6アーキテクチャを採用した第6世代EPYC Veniceを投入します。 その2年後となる2028年にはZen 7アーキテクチャを採用した第7世代EPYC Florenceを投入することをAMDは明らかにしました。
+
+Zen 7 / 第7世代EPYC Florenceではプロセスノードが2nmからさらに微細化される予定となっています。ロードマップには「Next Gen Process Node」(次世代プロセスノード)と記されており、具体的に何nmプロセスになるのかまではまだ言及されていませんが、おそらくはTSMCのA16やA14あたりが採用されるのではないかと予想されます。
+
+また、第7世代EPYC Florenceでは次世代のMRDIMM / LPDDRの採用が予定されています。
+
+そして2028年からさらに2年後の2030年にはZen 8アーキテクチャを採用した第8世代EPYC Ravennaの投入が予定されています。
+
+第8世代EPYC Ravennaの情報はまだ「In Development」(開発中)とだけ記されており、詳細な情報は記されていません。
+
+これらはあくまでもEPYCに関するロードマップですが、Ryzenシリーズに関しても近いスケジュールになることが期待されます。
+
+筆者は自作PC歴20年以上の経験を持ち、Windows OSの細部にわたるカスタマイズや高度な設定、PCゲームの最適化、PCハードウェアとソフトウェアに関する専門知識をもとに、PC環境を快適にするための情報、不具合に遭わないように…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2025/11/amd-epyc-a.jpg" alt="AMD、Zen 7とZen 8の登場時期を発表"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-131166.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2025/11/amd-epyc-a.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2025/11/amd-epyc-a.jpg"/></item>
 <item><title>Turtle BeachやVictrixのゲーミングデバイスが最大73%オフ！楽天お買い物マラソン</title><link>https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2127696.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2127696.html</guid><pubDate>Fri, 24 Jul 2026 15:30:00 +0000</pubDate><description><![CDATA[<p>Turtle BeachやVictrixのゲーミングデバイスが最大73%オフ！楽天お買い物マラソン
 
 楽天市場では、26日(日)01:59までの期間限定で「お買い物マラソン」が開催中。
@@ -1512,21 +1593,6 @@ GEEKOM A8は、CPUにRyzen 7 8745HSを搭載するミニPCで、OSはWindows 11 
 インターフェイスはUSB4 Type-C、USB 3.2 Gen 2 Type-C 1基、USB 3.2 Gen 2 Type-A 3基、USB 2.0 1基、2.5Gigabit Ethernet、HDMI 2.0 2基、Wi-Fi 6E、Bluetooth 5.4、専用電源入力、3.5mmオーディオコンボジャックなどを備える。
 
 MINISFORUMのミニPC「M1 Plu…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2127/503/01.jpg" alt="【本日みつけたお買い得品】Core Ultra 5搭載ミニPCが約1万5千円引き"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/todays_sales/2127503.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2127/503/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2127/503/01.jpg"/></item>
-<item><title>�Υ��󥿥ӥ塼�ϡּ������Υ������ϡ�̤����&#34;���֥�&#34;�ˤʤ뤫�⤷���ʤ��ס���20��ǯ��thatgamecompany��Ψ����Jenova Chen�����롤Sky�ȡ����åۤȡ�AI�ȡ����ʤ뿷��</title><link>https://www.4gamer.net/games/394/G039457/20260716051/</link><guid isPermaLink="true">https://www.4gamer.net/games/394/G039457/20260716051/</guid><pubDate>Fri, 24 Jul 2026 00:30:00 +0000</pubDate><description><![CDATA[<p>�Υ��󥿥ӥ塼�ϡּ������Υ������ϡ�̤����&#34;���֥�&#34;�ˤʤ뤫�⤷���ʤ��ס���20��ǯ��thatgamecompany��Ψ����Jenova Chen�����롤Sky�ȡ����åۤȡ�AI�ȡ����ʤ뿷��
-
-世界で知らない人はいない画家であるゴッホの生涯が体験できるという，ゲーム業界でも珍しいタイプのコンテンツを7月17日に追加したのが，「Sky 星を紡ぐ子どもたち」だ。これを機に，久々にJenova …
-
-［インタビュー］「手作りのゲームは，未来の&#34;ジブリ&#34;になるかもしれない」――20周年のthatgamecompanyを率いるJenova Chenが語る，Skyと，ゴッホと，AIと，次なる新作 ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
-
-↓アイコン/タイトル↓ 明日発売の「スプラトゥーン レイダース」はどんなゲーム？ 物語やゲームの進め方，タンクとガジェットなど本作ならではの特徴を紹介 ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 過去は「消された」わけじゃない。「龍が如く 極3 / 龍が如く3外伝 Dark Ties」の“再演”の先に見えたもの ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 私の新品Switch2の記録は，6:50:31でした ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 「プロスピ2026」は，歴代日本代表で挑めるWBCモード搭載！ “最強の侍”はどのチームなのか，時代を超えた夢の対戦を目撃した ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 「スプラトゥ…</p><p><img src="https://www.4gamer.net/games/394/G039457/20260716051/SS/002.jpg" alt="�Υ��󥿥ӥ塼�ϡּ������Υ������ϡ�̤����&#34;���֥�&#34;�ˤʤ뤫�⤷���ʤ��ס���20��ǯ��thatgamecompany��Ψ����Jenova Chen�����롤Sky�ȡ����åۤȡ�AI�ȡ����ʤ뿷��"></p>]]></description><source url="https://www.4gamer.net/games/394/G039457/20260716051/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/394/G039457/20260716051/SS/002.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/394/G039457/20260716051/SS/002.jpg"/></item>
 <item><title>「Adobe Creative Cloud PRO」12か月版が25%ポイント還元、フォトプランも対象！楽天お買い物マラソン</title><link>https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2127430.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2127430.html</guid><pubDate>Fri, 24 Jul 2026 00:30:00 +0000</pubDate><description><![CDATA[<p>「Adobe Creative Cloud PRO」12か月版が25%ポイント還元、フォトプランも対象！楽天お買い物マラソン
 
 楽天市場では、26日(日)1:59までの期間限定で「お買い物マラソン」が開催中。
@@ -1544,6 +1610,21 @@ Adobe Creative Cloud PRO 12か月版
 Adobe Creative Cloud フォトプラン 1TBストレージ付き 12か月版
 
 Adobe Lightroom 1TBストレージ付き12か月版</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2127/430/s1.jpg" alt="「Adobe Creative Cloud PRO」12か月版が25%ポイント還元、フォトプランも対象！楽天お買い物マラソン"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2127430.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2127/430/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2127/430/s1.jpg"/></item>
+<item><title>�Υ��󥿥ӥ塼�ϡּ������Υ������ϡ�̤����&#34;���֥�&#34;�ˤʤ뤫�⤷���ʤ��ס���20��ǯ��thatgamecompany��Ψ����Jenova Chen�����롤Sky�ȡ����åۤȡ�AI�ȡ����ʤ뿷��</title><link>https://www.4gamer.net/games/394/G039457/20260716051/</link><guid isPermaLink="true">https://www.4gamer.net/games/394/G039457/20260716051/</guid><pubDate>Fri, 24 Jul 2026 00:30:00 +0000</pubDate><description><![CDATA[<p>�Υ��󥿥ӥ塼�ϡּ������Υ������ϡ�̤����&#34;���֥�&#34;�ˤʤ뤫�⤷���ʤ��ס���20��ǯ��thatgamecompany��Ψ����Jenova Chen�����롤Sky�ȡ����åۤȡ�AI�ȡ����ʤ뿷��
+
+世界で知らない人はいない画家であるゴッホの生涯が体験できるという，ゲーム業界でも珍しいタイプのコンテンツを7月17日に追加したのが，「Sky 星を紡ぐ子どもたち」だ。これを機に，久々にJenova …
+
+［インタビュー］「手作りのゲームは，未来の&#34;ジブリ&#34;になるかもしれない」――20周年のthatgamecompanyを率いるJenova Chenが語る，Skyと，ゴッホと，AIと，次なる新作 ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
+
+↓アイコン/タイトル↓ 明日発売の「スプラトゥーン レイダース」はどんなゲーム？ 物語やゲームの進め方，タンクとガジェットなど本作ならではの特徴を紹介 ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 過去は「消された」わけじゃない。「龍が如く 極3 / 龍が如く3外伝 Dark Ties」の“再演”の先に見えたもの ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 私の新品Switch2の記録は，6:50:31でした ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 「プロスピ2026」は，歴代日本代表で挑めるWBCモード搭載！ “最強の侍”はどのチームなのか，時代を超えた夢の対戦を目撃した ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 「スプラトゥ…</p><p><img src="https://www.4gamer.net/games/394/G039457/20260716051/SS/002.jpg" alt="�Υ��󥿥ӥ塼�ϡּ������Υ������ϡ�̤����&#34;���֥�&#34;�ˤʤ뤫�⤷���ʤ��ס���20��ǯ��thatgamecompany��Ψ����Jenova Chen�����롤Sky�ȡ����åۤȡ�AI�ȡ����ʤ뿷��"></p>]]></description><source url="https://www.4gamer.net/games/394/G039457/20260716051/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/394/G039457/20260716051/SS/002.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/394/G039457/20260716051/SS/002.jpg"/></item>
 <item><title>卵より軽いというPulsarのワイヤレスゲーミングマウス「CrazyLight」シリーズに新色</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2127453.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2127453.html</guid><pubDate>Fri, 24 Jul 2026 00:05:00 +0000</pubDate><description><![CDATA[<p>卵より軽いというPulsarのワイヤレスゲーミングマウス「CrazyLight」シリーズに新色
 
 Pulsarの軽量ゲーミングマウスに新モデルが登場、「X3 CrazyLight Gaming Mouse Desert」（以下、X3 CrazyLightと表記）、「X2 CrazyLight Gaming Mouse Forest」（以下、X2 CrazyLightと表記）、「Xlite CrazyLight Gaming Mouse Rock」（以下、Xlite CrazyLightと表記）が発売された。各モデルとも本体サイズの違いでMiniとMediumが用意されている。
@@ -1714,19 +1795,6 @@ LiberNovoの新作電動チェアであるOmni Proの最大の特徴は、 座�
 Apple Gift Card 認定店も1,000円以上の購入で「ショップ買いまわり&amp;ラクマ購入」対象となり、最大11倍のポイント還元となっています。
 
 Copyright © 2018 Impress Corporation. All rights reserved.</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2127/429/s1.jpg" alt="買い回りでAppleギフトカードもお得！楽天市場お買い物マラソン"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2127429.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2127/429/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2127/429/s1.jpg"/></item>
-<item><title>【大原雄介の半導体業界こぼれ話】中国の世界最速スパコン「LineShine」を考察する</title><link>https://pc.watch.impress.co.jp/docs/column/tidbit/2127484.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/column/tidbit/2127484.html</guid><pubDate>Thu, 23 Jul 2026 21:04:00 +0000</pubDate><description><![CDATA[<p>【大原雄介の半導体業界こぼれ話】中国の世界最速スパコン「LineShine」を考察する
-
-弊誌でも報じられている通り、2026年6月に発表されたTOP500のランキングでは、中国の「LineShine」がアメリカの「El Capitan」のRmax(実性能) 1.809EFLOPSを打ち破る2.1984EFLOPSを実現して堂々の第1位に輝いた。
-
-弊誌でも報じられている通り、2026年6月に発表されたTOP500のランキングでは、中国の「LineShine」がアメリカの「 El Capitan 」のRmax(実性能) 1.809EFLOPSを打ち破る2.1984EFLOPSを実現して堂々の第1位に輝いた。
-
-Rpeak(理論性能)でいえば2022年6月にORNLに納入された Frontier が2024年11月にバージョンアップによって2EFLOPSを超えているが、実性能で2EFLOPSを超えたのはLineShineが最初である。
-
-NVIDIAもAMDもなし。CPUだけで2.19EFLOPS達成した中国スパコンが首位
-
-LineShine LX2の 諸元 を見ると、1CPUあたり304コアで、総コア数13,789,440個なので45,360 CPUでの構成となる。後述する情報によれば、1ノードは2CPUで構成され、1枚のシャーシに8ノード16CPUが実装され、これで1つのコンピュートブレード(Compute Blade)となる。つまりコンピュートブレードの数は2,835枚の計算だ。
-
-このコンピュートブレードを16枚集めたものがコンピュートフレーム(Compute Frame)と呼ばれ、なのでコンピュートフレームの数は178個(実際には冗長フレームもあるのか、184個)。コンピュートフレームを2つまとめたものがコンピュートキャビネット(Compute Cabinet)と…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2127/484/1.jpg" alt="【大原雄介の半導体業界こぼれ話】中国の世界最速スパコン「LineShine」を考察する"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/column/tidbit/2127484.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2127/484/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2127/484/1.jpg"/></item>
 <item><title>【やじうまミニレビュー】2,750円でケーブル完全収納。3COINSの丸型タップは外出先で重宝する</title><link>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2127481.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2127481.html</guid><pubDate>Thu, 23 Jul 2026 21:04:00 +0000</pubDate><description><![CDATA[<p>【やじうまミニレビュー】2,750円でケーブル完全収納。3COINSの丸型タップは外出先で重宝する
 
 3COINSが販売している丸型電源タップは、リール構造により電源ケーブルを巻き取って収納できる、モバイルユースを前提とした電源タップだ。USBポートも搭載しており、外出先でマルチに使える一品だ。
@@ -1746,6 +1814,19 @@ LineShine LX2の 諸元 を見ると、1CPUあたり304コアで、総コア数1
 またケーブルの巻き取りも、ハンドルのようなギミックこそないものの、本体の下半分を握って上半分を回転させることで、手軽に巻き取ることができる。ボディは厚めだが、実際に試した限りでは引っかかりもなくスムーズで、設計は洗練されているように感じられた。
 
 一方、USB周りはどうだろうか。最近の電源タップ、特にモバイルタイプはUSBポート…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2127/481/01.jpg" alt="【やじうまミニレビュー】2,750円でケーブル完全収納。3COINSの丸型タップは外出先で重宝する"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2127481.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2127/481/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2127/481/01.jpg"/></item>
+<item><title>【大原雄介の半導体業界こぼれ話】中国の世界最速スパコン「LineShine」を考察する</title><link>https://pc.watch.impress.co.jp/docs/column/tidbit/2127484.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/column/tidbit/2127484.html</guid><pubDate>Thu, 23 Jul 2026 21:04:00 +0000</pubDate><description><![CDATA[<p>【大原雄介の半導体業界こぼれ話】中国の世界最速スパコン「LineShine」を考察する
+
+弊誌でも報じられている通り、2026年6月に発表されたTOP500のランキングでは、中国の「LineShine」がアメリカの「El Capitan」のRmax(実性能) 1.809EFLOPSを打ち破る2.1984EFLOPSを実現して堂々の第1位に輝いた。
+
+弊誌でも報じられている通り、2026年6月に発表されたTOP500のランキングでは、中国の「LineShine」がアメリカの「 El Capitan 」のRmax(実性能) 1.809EFLOPSを打ち破る2.1984EFLOPSを実現して堂々の第1位に輝いた。
+
+Rpeak(理論性能)でいえば2022年6月にORNLに納入された Frontier が2024年11月にバージョンアップによって2EFLOPSを超えているが、実性能で2EFLOPSを超えたのはLineShineが最初である。
+
+NVIDIAもAMDもなし。CPUだけで2.19EFLOPS達成した中国スパコンが首位
+
+LineShine LX2の 諸元 を見ると、1CPUあたり304コアで、総コア数13,789,440個なので45,360 CPUでの構成となる。後述する情報によれば、1ノードは2CPUで構成され、1枚のシャーシに8ノード16CPUが実装され、これで1つのコンピュートブレード(Compute Blade)となる。つまりコンピュートブレードの数は2,835枚の計算だ。
+
+このコンピュートブレードを16枚集めたものがコンピュートフレーム(Compute Frame)と呼ばれ、なのでコンピュートフレームの数は178個(実際には冗長フレームもあるのか、184個)。コンピュートフレームを2つまとめたものがコンピュートキャビネット(Compute Cabinet)と…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2127/484/1.jpg" alt="【大原雄介の半導体業界こぼれ話】中国の世界最速スパコン「LineShine」を考察する"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/column/tidbit/2127484.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2127/484/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2127/484/1.jpg"/></item>
 <item><title>東大が暗号解読の世界記録。従来より約47,000倍難しい問題を突破</title><link>https://pc.watch.impress.co.jp/docs/news/2127302.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2127302.html</guid><pubDate>Thu, 23 Jul 2026 21:00:00 +0000</pubDate><description><![CDATA[<p>東大が暗号解読の世界記録。従来より約47,000倍難しい問題を突破
 
 東京大学大学院情報理工学系研究科の坂田康亮特任研究員と高木剛教授は7月22日、次世代暗号の安全性評価に関わる「MQ問題」を高速に解くアルゴリズムで、2023年に取り組んだ問題より約47,000倍難しい問題を解読したと発表した。
@@ -1763,21 +1844,21 @@ LineShine LX2の 諸元 を見ると、1CPUあたり304コアで、総コア数1
 MQ問題の解読性能を競うFukuoka MQ Challengeにおいて新記録を達成した(Type VI, m=24)。これは従来と比較して計算困難性が約47,000倍高いと見積もられ、次世代暗号の安全性評価に関わる計算技術を大きく前進させる成果であるという。
 
 今後は提案アルゴリズムの適用範囲をさらに詳しく調べるとともに、新しいCPU命令や並列計算環境を活用した高速化を進め、多変数多項式暗号を含むポスト量子暗号の安全性をより精密に評価し、将来の安全な情報通信基盤の設計に貢献するとしている。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2127/302/1.png" alt="東大が暗号解読の世界記録。従来より約47,000倍難しい問題を突破"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2127302.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2127/302/1.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2127/302/1.png"/></item>
-<item><title>AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」</title><link>https://pc.watch.impress.co.jp/docs/news/2127479.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2127479.html</guid><pubDate>Thu, 23 Jul 2026 18:30:00 +0000</pubDate><description><![CDATA[<p>AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」
+<item><title>AMD、打倒NVIDIAのAI向けGPU「Instinct MI455X」と新ラック投入</title><link>https://pc.watch.impress.co.jp/docs/news/2127474.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2127474.html</guid><pubDate>Thu, 23 Jul 2026 18:30:00 +0000</pubDate><description><![CDATA[<p>AMD、打倒NVIDIAのAI向けGPU「Instinct MI455X」と新ラック投入
 
-AMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、フィジカルAI向けの「Ryzen AI Embedded Processors」の最新製品となる「Ryzen AI Embedded X100 Series processors」を発表した。
+AMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、AIデータセンター向けGPU「Instinct MI400 Series GPU」を発表した。
 
-AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」
+AMD、打倒NVIDIAのAI向けGPU「Instinct MI455X」と新ラック投入
 
-AMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、フィジカルAI向けの「Ryzen AI Embedded Processors」の最新製品となる「Ryzen AI Embedded X100 Series processors」を発表した。
+AMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、AIデータセンター向けGPU「Instinct MI400 Series GPU」を発表した。
 
-Strix Halo/Golden HaloベースのRyzen AI Embedded X100
+NVIDIA Rubinの288GBに比べて1.5倍のHBM4を搭載
 
-AMDが発表したRyzen AI Embedded X100は、1月のCESでAMDが発表した「Ryzen AI Embedded P100 Series processors」の上位版製品となる。Ryzen AI Embedded P100は、Strix PointないしはGolden PointベースのSoCで、最大12コアのZen 5/Zen 5cコア、最大16CUのRDNA 3.5 GPU、最大50TOPSのNPUという構成になっていた。
+Instinct MI455Xは、去年(2025年)のAdvancing AI 2025で概要が発表され、これまで開発が続けられてきたAIデータセンター向けのGPUとなる。メインのXCDダイがTSMCの2nmプロセスノード(N2)で製造され、3,200億個のトランジスタから構成されている。GPUのアーキテクチャは同社のAI/HPC向けのアーキテクチャとしては第5世代となるCDNA 5へと進化している。
 
-それに対して、Ryzen AI Embedded X100はStrix HaloないしはGolden Haloがベースになっており、CPUは最大16コア(8コアのダイが2つ)のZen 5、GPUは最大40CUのRDNA 3.5、そして50TOPSのXDNA2 NPUというスペックになっている。
+従来型製品となるInstinct MI355Xと同じように、チップレットの構造になっており複数のダイを3D方向と2D方向に積層することで構成されている。
 
-最大128GBのメモリを搭載可能で、CPU、GPU、NPUが大容量のメモリをシェアしてAIのローカル処理を行…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2127/479/001.jpg" alt="AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2127479.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2127/479/001.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2127/479/001.jpg"/></item>
+具体的にはインターコネクト(Infinity Fabric)とL2キャッシュを搭載するFCD(TSMC N3P)が2チップ、PCI Express/UALinkやチップ間通信のインターコネクト(Infinity Fabric)用のI/Oダイ(IOD、TSMC N3P)が2チップ、コンピュートエンジンを搭載したXCD(TSMC N2)が8チップ、そ…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2127/474/001.jpg" alt="AMD、打倒NVIDIAのAI向けGPU「Instinct MI455X」と新ラック投入"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2127474.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2127/474/001.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2127/474/001.jpg"/></item>
 <item><title>AMD、最大256コア・L3キャッシュ1GB超の第6世代「EPYC 9006」</title><link>https://pc.watch.impress.co.jp/docs/news/2127459.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2127459.html</guid><pubDate>Thu, 23 Jul 2026 18:30:00 +0000</pubDate><description><![CDATA[<p>AMD、最大256コア・L3キャッシュ1GB超の第6世代「EPYC 9006」
 
 AMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、この中で第6世代EPYCを正式に発表した。
@@ -1797,6 +1878,21 @@ CPUコアはZen 6cとZen 6の2種類が採用されており、前者が最大25
 また、AMDの3D V-Cache(TSMCの3Dダイスタッキング技術となるSoICを利用してキャッシュを3D方向に積層する技術)を利用。L3キャッシュが最大1,152MB(1.125GB)と、遂に1GBを超えるL3キャッシュを実装した。TDPは最大600Wだ。
 
 第5世代EPYCでは最大12チャンネルのメモリコントローラ構成になっていたが、第6世代EPYCでは最大で16チャンネルに強化。通常のDDR5利用時には8,000MT/s(いわゆるDDR5-8000)に対応し、MRDIMMのDDR5の場合には12,800MT/s(DDR5-12…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2127/459/001.jpg" alt="AMD、最大256コア・L3キャッシュ1GB超の第6世代「EPYC 9006」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2127459.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2127/459/001.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2127/459/001.jpg"/></item>
+<item><title>AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」</title><link>https://pc.watch.impress.co.jp/docs/news/2127479.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2127479.html</guid><pubDate>Thu, 23 Jul 2026 18:30:00 +0000</pubDate><description><![CDATA[<p>AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」
+
+AMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、フィジカルAI向けの「Ryzen AI Embedded Processors」の最新製品となる「Ryzen AI Embedded X100 Series processors」を発表した。
+
+AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」
+
+AMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、フィジカルAI向けの「Ryzen AI Embedded Processors」の最新製品となる「Ryzen AI Embedded X100 Series processors」を発表した。
+
+Strix Halo/Golden HaloベースのRyzen AI Embedded X100
+
+AMDが発表したRyzen AI Embedded X100は、1月のCESでAMDが発表した「Ryzen AI Embedded P100 Series processors」の上位版製品となる。Ryzen AI Embedded P100は、Strix PointないしはGolden PointベースのSoCで、最大12コアのZen 5/Zen 5cコア、最大16CUのRDNA 3.5 GPU、最大50TOPSのNPUという構成になっていた。
+
+それに対して、Ryzen AI Embedded X100はStrix HaloないしはGolden Haloがベースになっており、CPUは最大16コア(8コアのダイが2つ)のZen 5、GPUは最大40CUのRDNA 3.5、そして50TOPSのXDNA2 NPUというスペックになっている。
+
+最大128GBのメモリを搭載可能で、CPU、GPU、NPUが大容量のメモリをシェアしてAIのローカル処理を行…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2127/479/001.jpg" alt="AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2127479.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2127/479/001.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2127/479/001.jpg"/></item>
 <item><title>バイブコーディングでAMD GPU最適化を実現する魔法のツール「ROCm.AI」</title><link>https://pc.watch.impress.co.jp/docs/news/2127476.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2127476.html</guid><pubDate>Thu, 23 Jul 2026 18:30:00 +0000</pubDate><description><![CDATA[<p>バイブコーディングでAMD GPU最適化を実現する魔法のツール「ROCm.AI」
 
 AMDは、年次イベントとなる「AMD Advancing AI 2026」を7月22日と23日に米国カリフォルニア州サンフランシスコ市で開催している。2日目となった7月23日には、同社CEOのリサ・スー氏による基調講演が行なわれ、同社のAI向けソリューションなどが多数発表された。
@@ -1814,21 +1910,6 @@ AMDは、年次イベントとなる「AMD Advancing AI 2026」を7月22日と23
 今、ソフトウェアのプログラミング環境は大きく転換している。LLMから構築されているエージェント型AIは高度なプログラミングが可能になっているため、人間はソフトウェアの仕様書を作り、エージェント型AIに渡せば、AIがその仕様書を元にプログラムのコードを書いて、プログラムをコンパイルして実行形式にし、動作検証(デバッグ)まで行なうというプロセスが当たり前になりつつある。
 
 そうした現状の中で、AMDはこれまで人間のプログラマー向けだけをターゲットにしてきたGPU最適化ツール「ROCm」の…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2127/476/001.jpg" alt="バイブコーディングでAMD GPU最適化を実現する魔法のツール「ROCm.AI」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2127476.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2127/476/001.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2127/476/001.jpg"/></item>
-<item><title>AMD、打倒NVIDIAのAI向けGPU「Instinct MI455X」と新ラック投入</title><link>https://pc.watch.impress.co.jp/docs/news/2127474.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2127474.html</guid><pubDate>Thu, 23 Jul 2026 18:30:00 +0000</pubDate><description><![CDATA[<p>AMD、打倒NVIDIAのAI向けGPU「Instinct MI455X」と新ラック投入
-
-AMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、AIデータセンター向けGPU「Instinct MI400 Series GPU」を発表した。
-
-AMD、打倒NVIDIAのAI向けGPU「Instinct MI455X」と新ラック投入
-
-AMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、AIデータセンター向けGPU「Instinct MI400 Series GPU」を発表した。
-
-NVIDIA Rubinの288GBに比べて1.5倍のHBM4を搭載
-
-Instinct MI455Xは、去年(2025年)のAdvancing AI 2025で概要が発表され、これまで開発が続けられてきたAIデータセンター向けのGPUとなる。メインのXCDダイがTSMCの2nmプロセスノード(N2)で製造され、3,200億個のトランジスタから構成されている。GPUのアーキテクチャは同社のAI/HPC向けのアーキテクチャとしては第5世代となるCDNA 5へと進化している。
-
-従来型製品となるInstinct MI355Xと同じように、チップレットの構造になっており複数のダイを3D方向と2D方向に積層することで構成されている。
-
-具体的にはインターコネクト(Infinity Fabric)とL2キャッシュを搭載するFCD(TSMC N3P)が2チップ、PCI Express/UALinkやチップ間通信のインターコネクト(Infinity Fabric)用のI/Oダイ(IOD、TSMC N3P)が2チップ、コンピュートエンジンを搭載したXCD(TSMC N2)が8チップ、そ…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2127/474/001.jpg" alt="AMD、打倒NVIDIAのAI向けGPU「Instinct MI455X」と新ラック投入"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2127474.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2127/474/001.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2127/474/001.jpg"/></item>
 <item><title>GeForce RTX 5000シリーズ出荷量、2026年7月下旬はさらに減少へ</title><link>https://www.nichepcgamer.com/archives/post-131113.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/post-131113.html</guid><pubDate>Thu, 23 Jul 2026 17:11:24 +0000</pubDate><description><![CDATA[<p>GeForce RTX 5000シリーズ出荷量、2026年7月下旬はさらに減少へ
 
 2026年7月下旬は、GeForce RTX 5000シリーズの出荷量がさらに減少するとの情報が出てきました。 中国語圏フォーラム博板堂のリーカー、低手一号氏は以下のようの述べています。 2026年...
@@ -9140,81 +9221,4 @@ Googleは、Androidデバイスのバックアップデータを、Googleアカ�
 編集部内でも案内の届いたアカウントが確認されており、そのメールによれば、SMSメッセージや通話履歴、デバイスの設定、アプリの設定といった、従来はGoogleアカウントの保存容量にカウントされていなかったAndroidデバイスのバックアップデータが、新たなポリシーではカウント対象へと変更されるという。メール内では、新ポリシーは45日後から適用されると記されていた。
 
 なお、今回のポリシー変更にあわせて、アプリごとにバックアップのオン/オフを切り替えられる機能も導入予定で、Android 9以降であれば細かく設定を変えられるという。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2125/978/01.jpg" alt="Androidバックアップ、Googleアカウントの保存容量にカウントされるように"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2125978.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2125/978/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2125/978/01.jpg"/></item>
-<item><title>FIIO＆iFi audio 夏の新商品試聴会【7/20(月)】</title><link>https://e-earphone.blog/?p=1550472</link><guid isPermaLink="true">https://e-earphone.blog/?p=1550472</guid><pubDate>Fri, 17 Jul 2026 03:00:07 +0000</pubDate><description><![CDATA[<p>FIIO＆iFi audio 夏の新商品試聴会【7/20(月)】
-
-e☆イヤホン名古屋大須店、耳よりなイベント情報のお届け！！ みなさんこんにちは！！おはようございます🏍💨e☆イヤホン 名古屋大須店のしゃじーです！！🥶🥶
-
-e☆イヤホン 名古屋大須店のしゃじーです！！🥶🥶 Follow @eear_shazy
-
-ポタフェスで先行だったものや未発売のものの試聴会を ドドン！！と名古屋大須店にて開催いたします。
-
-・FIIO M25 R2R R2R DACを採用した注目のポータブルプレーヤー。 自然で温かみのあるサウンド表現と、音楽の余韻をじっくり味わえる魅力をぜひご体感ください。
-
-・ FIIO M25（AKM） AKM DAC搭載モデル。 繊細な表現力と豊かな音場感を持ち、M25 R2Rとの音の違いを比較しながら楽しめます。
-
-・iFi audio ZEN Air DAC 2 人気のZEN Airシリーズ最新DAC。 PCオーディオやデスクトップ環境を手軽にグレードアップしたい方や 家の音に対する環境良くしてみたいって方必見
-
-・iFi audio ZEN Air Blue 2 Bluetoothオーディオを高音質で楽しめるワイヤレスDAC。 スマートフォンとの組み合わせで手軽に音質向上を体験できます。
-
-・iFi audio iDSD GR2 ポータブル環境でも本格サウンドを追求するユーザー必見。 パワフルな駆動力と高い音楽再現性をぜひお試しください。
-
-・iFi audio iDSD Valkyrie Black 話題のフラッグシップDACアンプ一体型モデル iFi audioが培ってきた技術を惜しみなく投入した一台
-
-・iFi audio GO link MAX コンパクトながら高音質を実現したUSBのDAC。 スマートフォンやPCとの組み合わせで手軽にワンランク上のサウンドを楽しめます。
-
-今回の試聴会最大の見どころは、 「FIIO M25 R2R」と「FIIO M25（AKM）」の聴き比べ。 同じM25シリーズでありながら異なるDAC構成を採用して…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/07/f090a227daf972acf9a91a69f095edf9.webp" alt="FIIO＆iFi audio 夏の新商品試聴会【7/20(月)】"></p>]]></description><source url="https://e-earphone.blog/?p=1550472">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/07/f090a227daf972acf9a91a69f095edf9.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/07/f090a227daf972acf9a91a69f095edf9.webp"/></item>
-<item><title>Core i5-1130G7やWindows 11 Pro搭載のNEC製12.3インチ2in1 PCが29,800円、中古品がML COMPUTERSでセール</title><link>https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2125896.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2125896.html</guid><pubDate>Fri, 17 Jul 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>Core i5-1130G7やWindows 11 Pro搭載のNEC製12.3インチ2in1 PCが29,800円、中古品がML COMPUTERSでセール
-
-12.3インチ2in1 PC「NEC VKT40S-9」の中古品が、ML COMPUTERSの通販サイトで販売中。
-
-Core i5-1130G7やWindows 11 Pro搭載のNEC製12.3インチ2in1 PCが29,800円、中古品がML COMPUTERSでセール
-
-12.3インチ2in1 PC「NEC VKT40S-9」の中古品が、 ML COMPUTERSの通販サイト で販売中。
-
-「細かな傷や傷みがある」（同店）という中古ランク品で、価格は29,800円。付属品はキーボードカバー、ACアダプター（他メーカーの同等品や互換品の場合あり）。
-
-主な仕様は、ディスプレイ解像度は1,920×1,080（タッチ対応）、搭載CPUがCore i5-1130G7（4コア/8スレッド）、メモリが8GB、ストレージが256GB SSD、OSがWindows 11 Proなど。興味のある方はチェックしてみてください。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2125/896/a1.jpg" alt="Core i5-1130G7やWindows 11 Pro搭載のNEC製12.3インチ2in1 PCが29,800円、中古品がML COMPUTERSでセール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2125896.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2125/896/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2125/896/a1.jpg"/></item>
-<item><title>3万円台の14型モバイルOLEDモニター。Acer新ブランド「ProDesigner」初上陸</title><link>https://pc.watch.impress.co.jp/docs/news/2125972.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2125972.html</guid><pubDate>Fri, 17 Jul 2026 02:57:58 +0000</pubDate><description><![CDATA[<p>3万円台の14型モバイルOLEDモニター。Acer新ブランド「ProDesigner」初上陸
-
-日本エイサーは、クリエイター向けの新ブランド「ProDesigner」に属する第1弾製品として、14型OLEDのモバイルモニター「PE140Wsmiuux」を発売した。Amazonでの価格は3万6,999円。
-
-3万円台の14型モバイルOLEDモニター。Acer新ブランド「ProDesigner」初上陸
-
-日本エイサーは、クリエイター向けの新ブランド「ProDesigner」に属する第1弾製品として、14型OLEDのモバイルモニター「PE140Wsmiuux」を発売した。Amazonでの価格は3万6,999円。
-
-PE140Wsmiuuxは、クリエイター向けにDCI-P3 100%の広色域対応とCalman認証を取得した14型のOLEDパネルを採用したモバイルモニター。専用ソフトウェア「Acer Creator Hub」を利用し、作品やワークフローに合わせてsRGBやAdobe RGBなどの色空間の変更が可能。対応するカラーキャリブレーターを利用し、色温度/輝度/RGBゲイン調整、カラープロファイルの保存もサポートする。
-
-本体はキックスタンドを内蔵し、0～90度の無段階でチルトが可能。焼き付き保護機能として、画面全体の負荷を分散させるイメージリテンションリフレッシュ機能、同じ画面が一定時間表示されると輝度を自動調整する静止画保護機能などを搭載。
-
-このほか、画像のちらつきを抑えるフリッカーレス、ブルーライトを低減するブルーライトシールド、暗い環境で見やすくするローディミング、映り込みを抑えるコンフィビューディスプレイに対応する。
-
-主な仕様は、パネルが光沢OLED、解像度がWUXGA(1,920×1,200ドット)、表示色数が約1,677万色、中間色応答速度が1ms、輝度が300cd/平方m、コントラスト比が10万:1(最大1億:1)、視野角が上下/左右ともに170度。
-
-インターフェイスはUSB 3.2 Gen 1 Type-C 2基、HDMI 1.4、音声出力で、1W+…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2125/972/1.jpg" alt="3万円台の14型モバイルOLEDモニター。Acer新ブランド「ProDesigner」初上陸"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2125972.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2125/972/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2125/972/1.jpg"/></item>
-<item><title>iPhone18 Proの可変絞りとは〜写真がどう変わるのか</title><link>https://iphone-mania.jp/news-603626/</link><guid isPermaLink="true">https://iphone-mania.jp/news-603626/</guid><pubDate>Fri, 17 Jul 2026 02:44:11 +0000</pubDate><description><![CDATA[<p>iPhone18 Proの可変絞りとは〜写真がどう変わるのか
-
-iPhone18 Proの目玉とされる可変絞りとは、レンズが取り込む光の量を物理的に変えられる仕組みです。これまでのiPhoneは絞りが固定でしたが、iPhone18
-
-iPhone18 Proの可変絞りとは〜写真がどう変わるのか
-
-iPhone18 Proの目玉とされる可変絞り とは、 レンズが取り込む光の量を物理的に変えられる仕組み です。これまでのiPhoneは絞りが固定でしたが、iPhone18 Proでは初めて、撮影に合わせて絞りを開いたり閉じたりできるとみられます。海外メディアの報道によると、近年でも大きなカメラ強化になる見通しです。本記事では、可変絞りで写真がどう変わるのかを、日本の撮影シーンやSamsungが一度あきらめた経緯もふまえ、実用と戦略の両面から読み解きます。
-
-一番の変化は、写真の明るさとボケを、撮影の瞬間にレンズ側で調整できる点です。iPhone14 Pro以降のメインカメラは絞りがf/1.78で固定され、明るさやボケの最終調整はソフトウェアが担ってきました。 iPhone18 Proは初めてこれを物理的に動かせる 見通しで、ここが今回の核心になります。
-
-ここで大切なのは、ソフトウェアで作り込んだ結果と、光の入り口で整えた結果とでは、 写真の質そのものが変わってくる という点です。暗い場所なら絞りを開いて光を多く取り込み、明るい屋外なら閉じて白飛びを抑える。絞りの開閉をレンズ側で行えると、後処理に頼る不自然さが減り、明暗のつながりが自然になりやすいと考えられます。
-
-可変絞りの価値は、スペック表よりも日常の撮影シーンに置き換えると見えてきます。たとえば桜や紅葉を背景にした記念撮影なら、絞りを閉じれば手前の人物から奥の景色までくっきり収められる点が魅力です。反対に、カフェで料理を撮…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/07/17/5e9425acad9ed4d63162d47447db2656.jpg" alt="iPhone18 Proの可変絞りとは〜写真がどう変わるのか"></p>]]></description><source url="https://iphone-mania.jp/news-603626/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/07/17/5e9425acad9ed4d63162d47447db2656.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/07/17/5e9425acad9ed4d63162d47447db2656.jpg"/></item>
-<item><title>タブレットスタイルもOKな12型レッツノート「QV1」が約6.3万円！高解像度液晶/16GBメモリ搭載の中古PCセール</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2125882.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2125882.html</guid><pubDate>Thu, 16 Jul 2026 23:05:00 +0000</pubDate><description><![CDATA[<p>タブレットスタイルもOKな12型レッツノート「QV1」が約6.3万円！高解像度液晶/16GBメモリ搭載の中古PCセール
-
-Core i5-1145G7（4コア/8スレッド）を搭載した12インチノートPC「CF-QV1RDAVS」の中古品が、PCコンフル 秋葉原3号店でセール中。
-
-タブレットスタイルもOKな12型レッツノート「QV1」が約6.3万円！高解像度液晶/16GBメモリ搭載の中古PCセール
-
-Core i5-1145G7（4コア/8スレッド）を搭載した12インチノートPC「CF-QV1RDAVS」の中古品が、 PCコンフル 秋葉原3号店 でセール中。
-
-主な仕様は、ディスプレイ解像度が2,880×1,920ドット（タッチ対応）、16GBメモリ（変更不可）、256GB SSD、OSがWindows 11 Pro 64bitなど。液晶部分は360度回転式で、顔認証機能やWebカメラ、有線/無線LAN機能を備えています。
-
-Microsoft Office Home 2024(最新 永続版)|オンラインコード
-
-Microsoft Office Home &amp; Business 2024(最新 永続版)|オンラインコード版</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2125/882/s1.jpg" alt="タブレットスタイルもOKな12型レッツノート「QV1」が約6.3万円！高解像度液晶/16GBメモリ搭載の中古PCセール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2125882.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2125/882/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2125/882/s1.jpg"/></item>
 </channel></rss>
