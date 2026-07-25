@@ -1,6 +1,15 @@
 {
   "akiba": [
     {
+      "Title": "Anthropic、Claude Opus 5を発表。API料金は据え置き",
+      "Link": "https://smhn.info/202607-anthropic-claude-opus-5-api-agent-benchmark",
+      "Published": "2026-07-25T07:08:49Z",
+      "Source": "すまほん!!",
+      "Category": "Claude Opus 5",
+      "Summary": "Anthropic、Claude Opus 5を発表。API料金は据え置き\n\nFable5の利用制限枠をにらめっこしながら、ギリギリ限界まで使っていたユーザーも多いかと思いますが、Fableの下のモデルであるOpusから意外な伏兵が登場しています。Anthropicは2026年7月24日、Claude Opus 5を発表し、同日から提供を始めました。長時間...\n\nAnthropic、Claude Opus 5を発表。API料金は据え置き\n\nFable5の利用制限枠をにらめっこしながら、ギリギリ限界まで使っていたユーザーも多いかと思いますが、Fableの下のモデルであるOpusから意外な伏兵が登場しています。\n\nAnthropicは2026年7月24日、Claude Opus 5を発表し、同日から提供を始めました。\n\n長時間にわたるエージェント作業で、検証や修正を重ねる力を高めたとしています。 Anthropic の社内実行では、 Frontier -Bench v0.1の成績がOpus 4.8の2倍を超えました。さらに Cursor が公開するCursorBench 3.2では、effortをmaxに設定したOpus 5が70.0％を記録。Fable 5の最高得点70.5％とは、わずか0.5ポイント差です。\n\n多くの ベンチマーク でFable5を超えており、ARC-AGI-3で約30％など、凄まじいモデルとなっています。\n\nしかも標準 API 料金は100万入力トークンあたり5ドル、出力25ドル。Opus 4.8から据え置き。Opus 4.8やFable 5に比べて 価格 性能比の高いモデルとも言えます。\n\nコンテキストウィンドウは100万トークン。 Claude Max 、 Claude Proプランで利用可能となっています。",
+      "ImageURL": "https://smhn.info/wp-content/uploads/2026/07/HOBW5T5a4AAKI_n.jpeg"
+    },
+    {
       "Title": "2026年夏の10万円以下PC（オフィスなし）はOmniBook 3 16の限定モデルがいいかもしれない",
       "Link": "https://komameblog.jp/news/hp-omnibook3-limited/",
       "Published": "2026-07-25T06:06:03Z",
@@ -1126,6 +1135,15 @@
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2127/302/1.png"
     },
     {
+      "Title": "AMD、最大256コア・L3キャッシュ1GB超の第6世代「EPYC 9006」",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2127459.html",
+      "Published": "2026-07-23T18:30:00Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "AMD、最大256コア・L3キャッシュ1GB超の第6世代「EPYC 9006」\n\nAMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、この中で第6世代EPYCを正式に発表した。\n\nAMD、最大256コア・L3キャッシュ1GB超の第6世代「EPYC 9006」\n\nAMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、この中で第6世代EPYCを正式に発表した。\n\nZen 6c/Zen 6コアでメモコンは最大16チャンネル構成\n\n今回AMDが発表したのは、2024年10月に「5th Gen AMD EPYC processors」(第5世代AMD EPYCプロセッサ)として発表した「Turin」に次ぐ、新世代サーバー向けCPUとなる。\n\n開発コードネームは「Venice」で、正式な製品名は「6th Gen AMD EPYC Server CPUs」(第6世代EPYCサーバーCPU)だ。シリーズ名は「AMD EPYC 9006 Series server CPU」(AMD EPYC 9006シリーズ・サーバーCPU、以下EPYC 9006シリーズ)となる。\n\nCPUコアはZen 6cとZen 6の2種類が採用されており、前者が最大256コア/512スレッド、後者が最大96コア/192スレッドという構成になっている。\n\nまた、AMDの3D V-Cache(TSMCの3Dダイスタッキング技術となるSoICを利用してキャッシュを3D方向に積層する技術)を利用。L3キャッシュが最大1,152MB(1.125GB)と、遂に1GBを超えるL3キャッシュを実装した。TDPは最大600Wだ。\n\n第5世代EPYCでは最大12チャンネルのメモリコントローラ構成になっていたが、第6世代EPYCでは最大で16チャンネルに強化。通常のDDR5利用時には8,000MT/s(いわゆるDDR5-8000)に対応し、MRDIMMのDDR5の場合には12,800MT/s(DDR5-12…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2127/459/001.jpg"
+    },
+    {
       "Title": "AMD、打倒NVIDIAのAI向けGPU「Instinct MI455X」と新ラック投入",
       "Link": "https://pc.watch.impress.co.jp/docs/news/2127474.html",
       "Published": "2026-07-23T18:30:00Z",
@@ -1133,15 +1151,6 @@
       "Category": "",
       "Summary": "AMD、打倒NVIDIAのAI向けGPU「Instinct MI455X」と新ラック投入\n\nAMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、AIデータセンター向けGPU「Instinct MI400 Series GPU」を発表した。\n\nAMD、打倒NVIDIAのAI向けGPU「Instinct MI455X」と新ラック投入\n\nAMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、AIデータセンター向けGPU「Instinct MI400 Series GPU」を発表した。\n\nNVIDIA Rubinの288GBに比べて1.5倍のHBM4を搭載\n\nInstinct MI455Xは、去年(2025年)のAdvancing AI 2025で概要が発表され、これまで開発が続けられてきたAIデータセンター向けのGPUとなる。メインのXCDダイがTSMCの2nmプロセスノード(N2)で製造され、3,200億個のトランジスタから構成されている。GPUのアーキテクチャは同社のAI/HPC向けのアーキテクチャとしては第5世代となるCDNA 5へと進化している。\n\n従来型製品となるInstinct MI355Xと同じように、チップレットの構造になっており複数のダイを3D方向と2D方向に積層することで構成されている。\n\n具体的にはインターコネクト(Infinity Fabric)とL2キャッシュを搭載するFCD(TSMC N3P)が2チップ、PCI Express/UALinkやチップ間通信のインターコネクト(Infinity Fabric)用のI/Oダイ(IOD、TSMC N3P)が2チップ、コンピュートエンジンを搭載したXCD(TSMC N2)が8チップ、そ…",
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2127/474/001.jpg"
-    },
-    {
-      "Title": "バイブコーディングでAMD GPU最適化を実現する魔法のツール「ROCm.AI」",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/2127476.html",
-      "Published": "2026-07-23T18:30:00Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "バイブコーディングでAMD GPU最適化を実現する魔法のツール「ROCm.AI」\n\nAMDは、年次イベントとなる「AMD Advancing AI 2026」を7月22日と23日に米国カリフォルニア州サンフランシスコ市で開催している。2日目となった7月23日には、同社CEOのリサ・スー氏による基調講演が行なわれ、同社のAI向けソリューションなどが多数発表された。\n\nバイブコーディングでAMD GPU最適化を実現する魔法のツール「ROCm.AI」\n\nAMDは、年次イベントとなる「AMD Advancing AI 2026」を7月22日と23日に米国カリフォルニア州サンフランシスコ市で開催している。2日目となった7月23日には、同社CEOのリサ・スー氏による基調講演が行なわれ、同社のAI向けソリューションなどが多数発表された。\n\nこの中でAMDは同社のGPU最適化ツール「ROCm」の新しいツールとなる「ROCm.AI」を発表。ROCm.AIはいわゆるバイブコーディングやAIコーディングなどと呼ばれる、エージェント型AIにコードを書かせる新しいプログラミング方法に対応したROCmとなる。\n\n新しく「ROCm CLI」と呼ばれるコマンドラインベースのユーザーインターフェイスをサポートし、エージェント型AIやバイブコーディングツールに対応し、GPUへの最適化をエージェント型AIと協調しながら行なえるようになる。\n\nエージェント型のコーディングツールと連携してGPU最適化を自動で行なうROCm.AI\n\n今、ソフトウェアのプログラミング環境は大きく転換している。LLMから構築されているエージェント型AIは高度なプログラミングが可能になっているため、人間はソフトウェアの仕様書を作り、エージェント型AIに渡せば、AIがその仕様書を元にプログラムのコードを書いて、プログラムをコンパイルして実行形式にし、動作検証(デバッグ)まで行なうというプロセスが当たり前になりつつある。\n\nそうした現状の中で、AMDはこれまで人間のプログラマー向けだけをターゲットにしてきたGPU最適化ツール「ROCm」の…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2127/476/001.jpg"
     },
     {
       "Title": "AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」",
@@ -1153,13 +1162,13 @@
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2127/479/001.jpg"
     },
     {
-      "Title": "AMD、最大256コア・L3キャッシュ1GB超の第6世代「EPYC 9006」",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/2127459.html",
+      "Title": "バイブコーディングでAMD GPU最適化を実現する魔法のツール「ROCm.AI」",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2127476.html",
       "Published": "2026-07-23T18:30:00Z",
       "Source": "PC Watch",
       "Category": "",
-      "Summary": "AMD、最大256コア・L3キャッシュ1GB超の第6世代「EPYC 9006」\n\nAMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、この中で第6世代EPYCを正式に発表した。\n\nAMD、最大256コア・L3キャッシュ1GB超の第6世代「EPYC 9006」\n\nAMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、この中で第6世代EPYCを正式に発表した。\n\nZen 6c/Zen 6コアでメモコンは最大16チャンネル構成\n\n今回AMDが発表したのは、2024年10月に「5th Gen AMD EPYC processors」(第5世代AMD EPYCプロセッサ)として発表した「Turin」に次ぐ、新世代サーバー向けCPUとなる。\n\n開発コードネームは「Venice」で、正式な製品名は「6th Gen AMD EPYC Server CPUs」(第6世代EPYCサーバーCPU)だ。シリーズ名は「AMD EPYC 9006 Series server CPU」(AMD EPYC 9006シリーズ・サーバーCPU、以下EPYC 9006シリーズ)となる。\n\nCPUコアはZen 6cとZen 6の2種類が採用されており、前者が最大256コア/512スレッド、後者が最大96コア/192スレッドという構成になっている。\n\nまた、AMDの3D V-Cache(TSMCの3Dダイスタッキング技術となるSoICを利用してキャッシュを3D方向に積層する技術)を利用。L3キャッシュが最大1,152MB(1.125GB)と、遂に1GBを超えるL3キャッシュを実装した。TDPは最大600Wだ。\n\n第5世代EPYCでは最大12チャンネルのメモリコントローラ構成になっていたが、第6世代EPYCでは最大で16チャンネルに強化。通常のDDR5利用時には8,000MT/s(いわゆるDDR5-8000)に対応し、MRDIMMのDDR5の場合には12,800MT/s(DDR5-12…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2127/459/001.jpg"
+      "Summary": "バイブコーディングでAMD GPU最適化を実現する魔法のツール「ROCm.AI」\n\nAMDは、年次イベントとなる「AMD Advancing AI 2026」を7月22日と23日に米国カリフォルニア州サンフランシスコ市で開催している。2日目となった7月23日には、同社CEOのリサ・スー氏による基調講演が行なわれ、同社のAI向けソリューションなどが多数発表された。\n\nバイブコーディングでAMD GPU最適化を実現する魔法のツール「ROCm.AI」\n\nAMDは、年次イベントとなる「AMD Advancing AI 2026」を7月22日と23日に米国カリフォルニア州サンフランシスコ市で開催している。2日目となった7月23日には、同社CEOのリサ・スー氏による基調講演が行なわれ、同社のAI向けソリューションなどが多数発表された。\n\nこの中でAMDは同社のGPU最適化ツール「ROCm」の新しいツールとなる「ROCm.AI」を発表。ROCm.AIはいわゆるバイブコーディングやAIコーディングなどと呼ばれる、エージェント型AIにコードを書かせる新しいプログラミング方法に対応したROCmとなる。\n\n新しく「ROCm CLI」と呼ばれるコマンドラインベースのユーザーインターフェイスをサポートし、エージェント型AIやバイブコーディングツールに対応し、GPUへの最適化をエージェント型AIと協調しながら行なえるようになる。\n\nエージェント型のコーディングツールと連携してGPU最適化を自動で行なうROCm.AI\n\n今、ソフトウェアのプログラミング環境は大きく転換している。LLMから構築されているエージェント型AIは高度なプログラミングが可能になっているため、人間はソフトウェアの仕様書を作り、エージェント型AIに渡せば、AIがその仕様書を元にプログラムのコードを書いて、プログラムをコンパイルして実行形式にし、動作検証(デバッグ)まで行なうというプロセスが当たり前になりつつある。\n\nそうした現状の中で、AMDはこれまで人間のプログラマー向けだけをターゲットにしてきたGPU最適化ツール「ROCm」の…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2127/476/001.jpg"
     },
     {
       "Title": "GeForce RTX 5000シリーズ出荷量、2026年7月下旬はさらに減少へ",
@@ -4249,15 +4258,6 @@
       "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2126/111/s1.jpg"
     },
     {
-      "Title": "��Warframe�פȡ�Soulframe�פΥե��󥤥٥��ȡ�TennoCon 2026�ɤ˥ƥ��ΤȻȼԤ����롣��ȯɽ�˴ؤ��Ƥγ�ȯ�ԥ��󥿥ӥ塼�⤪�Ϥ�����",
-      "Link": "https://www.4gamer.net/games/172/G017216/20260716024/",
-      "Published": "2026-07-18T00:00:00Z",
-      "Source": "4Gamer.net Hardware",
-      "Category": "HARDWARE",
-      "Summary": "��Warframe�פȡ�Soulframe�פΥե��󥤥٥��ȡ�TennoCon 2026�ɤ˥ƥ��ΤȻȼԤ����롣��ȯɽ�˴ؤ��Ƥγ�ȯ�ԥ��󥿥ӥ塼�⤪�Ϥ�����\n\nDigital Extremesは7月10日，11日の2日間，開発・運営するオンラインアクションRPG「Warframe」と，現在開発中でクローズドαテストが実施されている新作「Soulframe」…\n\n「Warframe」と「Soulframe」のファンイベント“TennoCon 2026”にテンノと使者が集結。新発表に関しての開発者インタビューもお届けする ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ 私の新品Switch2の記録は，6:50:31でした ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「プロスピ2026」は，歴代日本代表で挑めるWBCモード搭載！ “最強の侍”はどのチームなのか，時代を超えた夢の対戦を目撃した ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「スプラトゥーン レイダース」は，Directでたくさん情報が出たからこそこれからに注目！ 発売日までの“お祭り感”を楽しもう ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 本日発売「DEAD OR ALIVE 6 Last Round」の初心者向けガイド。基本無料版で，奥深い3D格闘ゲームをまず浅瀬から体験しよう！ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「SteamNEXTフェス 6月エディション」オススメタイトルまとめ。片っ端から遊…",
-      "ImageURL": "https://www.4gamer.net/games/172/G017216/20260716024/SS/005.jpg"
-    },
-    {
       "Title": "�Υ��󥿥ӥ塼�ϡ�EWC 2026�פ�����΢����������Esports Foundation�δ���4�ͤ�ʹ�������Ļ��⤫�饿���ȥ����ꡤ���ܻԾ���ɾ���ޤ�",
       "Link": "https://www.4gamer.net/games/991/G999107/20260710035/",
       "Published": "2026-07-18T00:00:00Z",
@@ -4265,6 +4265,15 @@
       "Category": "HARDWARE",
       "Summary": "�Υ��󥿥ӥ塼�ϡ�EWC 2026�פ�����΢����������Esports Foundation�δ���4�ͤ�ʹ�������Ļ��⤫�饿���ȥ����ꡤ���ܻԾ���ɾ���ޤ�\n\nEsports Foundationは，世界最大級のeスポーツイベント「Esports World Cup 2026」を，フランス・パリで7月6日から8月23日まで開催している。本稿では，同団体の幹…\n\n［インタビュー］「EWC 2026」の舞台裏を主催団体Esports Foundationの幹部4人に聞く。運営資金からタイトル選定，日本市場の評価まで ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ 私の新品Switch2の記録は，6:50:31でした ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「プロスピ2026」は，歴代日本代表で挑めるWBCモード搭載！ “最強の侍”はどのチームなのか，時代を超えた夢の対戦を目撃した ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「スプラトゥーン レイダース」は，Directでたくさん情報が出たからこそこれからに注目！ 発売日までの“お祭り感”を楽しもう ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 本日発売「DEAD OR ALIVE 6 Last Round」の初心者向けガイド。基本無料版で，奥深い3D格闘ゲームをまず浅瀬から体験しよう！ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「SteamNEXTフェス 6月エディション」オススメタイトルまとめ。片…",
       "ImageURL": "https://www.4gamer.net/games/991/G999107/20260710035/SS/007.jpg"
+    },
+    {
+      "Title": "��Warframe�פȡ�Soulframe�פΥե��󥤥٥��ȡ�TennoCon 2026�ɤ˥ƥ��ΤȻȼԤ����롣��ȯɽ�˴ؤ��Ƥγ�ȯ�ԥ��󥿥ӥ塼�⤪�Ϥ�����",
+      "Link": "https://www.4gamer.net/games/172/G017216/20260716024/",
+      "Published": "2026-07-18T00:00:00Z",
+      "Source": "4Gamer.net Hardware",
+      "Category": "HARDWARE",
+      "Summary": "��Warframe�פȡ�Soulframe�פΥե��󥤥٥��ȡ�TennoCon 2026�ɤ˥ƥ��ΤȻȼԤ����롣��ȯɽ�˴ؤ��Ƥγ�ȯ�ԥ��󥿥ӥ塼�⤪�Ϥ�����\n\nDigital Extremesは7月10日，11日の2日間，開発・運営するオンラインアクションRPG「Warframe」と，現在開発中でクローズドαテストが実施されている新作「Soulframe」…\n\n「Warframe」と「Soulframe」のファンイベント“TennoCon 2026”にテンノと使者が集結。新発表に関しての開発者インタビューもお届けする ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ 私の新品Switch2の記録は，6:50:31でした ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「プロスピ2026」は，歴代日本代表で挑めるWBCモード搭載！ “最強の侍”はどのチームなのか，時代を超えた夢の対戦を目撃した ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「スプラトゥーン レイダース」は，Directでたくさん情報が出たからこそこれからに注目！ 発売日までの“お祭り感”を楽しもう ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 本日発売「DEAD OR ALIVE 6 Last Round」の初心者向けガイド。基本無料版で，奥深い3D格闘ゲームをまず浅瀬から体験しよう！ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「SteamNEXTフェス 6月エディション」オススメタイトルまとめ。片っ端から遊…",
+      "ImageURL": "https://www.4gamer.net/games/172/G017216/20260716024/SS/005.jpg"
     },
     {
       "Title": "(アキバ取材班) GIGABYTE 40周年記念展スタート、歴代マザーボードが秋葉原に集結",
@@ -4490,18 +4499,45 @@
       "Category": "販売",
       "Summary": "iPad mini（A17 Pro）の整備済製品が8月下旬に販売開始か〜予想価格は？\n\nAppleが米国のAppleオンラインストアにおいて、iPad mini（A17 Pro）の整備済製品の販売を開始しました。日本のAppleオンラインストアでも、まもなくiPad mini（A17 Pro）の整備済製品が販売開始される可能性があります。\n\niPad mini（A17 Pro）の整備済製品が8月下旬に販売開始か〜予想価格は？\n\nAppleが 米国のAppleオンラインストア において、 iPad mini（A17 Pro）の整備済製品の販売を開始 しました。日本のAppleオンラインストアでも、まもなくiPad mini（A17 Pro）の整備済製品が販売開始される可能性があります。\n\nそこで、 米国での販売価格と割引率をもとに、日本で販売される場合の価格を試算 しました。\n\niPad mini（A17 Pro）の整備済製品の価格と割引率\n\n米国のAppleオンラインストアにおいて販売が開始された、iPad mini（A17 Pro）の整備済製品の価格を新品と比較すると、次のようになります。\n\n米国のAppleオンラインストアにおける、iPad mini（A17 Pro）の整備済製品の価格と割引率から、日本で販売が開始された場合の価格を試算すると、次のようになると予想されます。\n\n整備済製品の予想販売価格は、米国における整備済製品の新品からの割引率が約15%であることを参考に、 日本で既に販売されているiPad mini 6の整備済製品 と同様に、税込XX,800円になるように丸めています。\n\niPad mini 6の整備済製品は、米国のAppleオンラインストアで 2023年2月10日に販売が開始 されました。日本のAppleオンラインストアで販売が開始されたのは2023年3月30日でしたので、 米国からおよそ45日遅れ でした。\n\niPad mini（A17 Pro）の整備済製品の販売も同程度の日程で日本のAppleオンラインストアでの取り扱いが開始されるとすれば、…",
       "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/07/17/ipad-mini-a17-refurb-usa_1200.jpg"
-    },
-    {
-      "Title": "Apple Watch Series 10/11などが入荷〜整備済製品【7/17】",
-      "Link": "https://iphone-mania.jp/sale-603648/",
-      "Published": "2026-07-17T12:06:53Z",
-      "Source": "iPhone Mania",
-      "Category": "整備済製品",
-      "Summary": "Apple Watch Series 10/11などが入荷〜整備済製品【7/17】\n\nApple Watch整備済製品として本日、Apple Watch Series 10とApple Watch Series 11が入荷し、Apple Watch Ultra 2とApple Watch Ultra 3の在庫が増加しました。\n\nApple Watch Series 10/11などが入荷〜整備済製品【7/17】\n\nApple Watch整備済製品 として本日、 Apple Watch Series 10とApple Watch Series 11が入荷 し、 Apple Watch Ultra 2とApple Watch Ultra 3の在庫が増加 しました。\n\nApple Watch SE 2とApple Watch SE 3の整備済製品は、在庫なし（入荷せず）のままです。\n\n2026年7月17日午後9時5分時点で販売されている、 Apple Watch整備済製品 の在庫と販売価格は下記の通りです。\n\nApple品質認定のApple Watch 整備済製品 についてAppleは、下記のように説明しています。\n\nApple Watch整備済製品は、すべてのモデルに1年間の保証が付いています。最短で翌日に無料でお届けし、返品も無料です\n\nほかにも、以下のものが含まれます 完全な動作テストおよび徹底したクリーニング\n\n出荷時のオペレーティングシステム、またはより最新のオペレーティングシステム\n\n整備済製品はすべて、必要なアクセサリやケーブルとともに新品の箱に再梱包されます\n\nお客様のデバイスが出荷時のオペレーティングシステム（原文では、オペレーションシステム）を搭載した状態で出荷された場合も、最新バーション（原文では、最新バーション）をApp Storeから無料でダウンロードできます\n\n数量限定につき、在庫状況は購入代金全額のお支払いが完了した時点で保証されます\n\nSource: Apple Watch整備済製品/Apple\n\n--PR-- [公式] - iPhoneの購入や…",
-      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/07/17/apple-watch-refurb-0717_1200.jpg"
     }
   ],
   "world": [
+    {
+      "Title": "中国のRAM窃盗犯、一連のeスポーツホテル略奪で投獄―「ホテルの部屋の熱狂的な解体」で2,000ドル相当のスティック16本を盗む",
+      "Link": "https://www.tomshardware.com/pc-components/ram/ram-thieves-in-china-jailed-after-looting-a-string-of-esport-hotels-stole-16-sticks-worth-usd2-000-in-frenzied-hotel-room-dismantling",
+      "Published": "2026-07-25T09:00:00Z",
+      "Source": "Tom's Hardware",
+      "Category": "PC Components",
+      "Summary": "中国のRAM窃盗犯、一連のeスポーツホテル略奪で投獄―「ホテルの部屋の熱狂的な解体」で2,000ドル相当のスティック16本を盗む\n\nRAMpocalypse の価格設定が軽微な窃盗に拍車をかけています。\n\n中国のRAM窃盗犯、一連のeスポーツホテル略奪で投獄―「ホテルの部屋の熱狂的な解体」で2,000ドル相当のスティック16本を盗む\n\nRAMpocalypse の価格設定が軽微な窃盗に拍車をかけています。\n\n(画像クレジット: Tom's Hardware) リンクをコピー\n\n0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する リーという名前の男とチェンという名前のパートナーが、ゲーミング PC が標準装備されている中国のさまざまなホテルから RAM スティックを盗んだ一連の容疑で逮捕されました。これはかなり小規模な活動で、盗んだ RAM スティック 16 個を中古品市場で販売することで合計約 13,200 元 (約 1,950 ドル) を集めました。しかし、情報源は、告発された窃盗犯らを「熱狂的なホテルの部屋の解体」の御用達だと説明している（機械翻訳）。\n\n報告書によると、李氏は5月に新疆北部の石河子市でテクノロジー財宝犯罪を始めた。 e スポーツ ホテルにチェックインした後、器用な Li さんは、我慢できずに室内のコンピューターから RAM スティックを 2 つ抜き取りました。ソロの RAM 泥棒は最初の成功でパートナーを募集するようになり、5 月の後半の 2 週間で、リーとチェンのダイナミックな RAM デュオが、前述の「熱狂的な」やり方で複数のホテルを席巻しました。\n\nこの連続犯罪は、私たちがこれまでに読んだ中では初めての犯罪の一つかもしれないが、それによって泥棒たちが大金持ちになるわけではない。情報筋は、2週間にわたる犯罪行為中に、合計16本のRAMスティックがeスポーツホテルから持ち去られたと指摘している。彼らは、巧妙に盗んだシリコンのスティックを、オンライン市場と実店舗を組み合わせて販売し、合…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/2AU9dvpLdK7mFGsEvVmoLf-1999-80.jpg"
+    },
+    {
+      "Title": "Galaxy Z Flip 8の理論上最高のアップグレードは私が最も心配しているものです",
+      "Link": "https://www.androidauthority.com/samsung-galaxy-z-flip-8-snapdragon-concerns-3690470/",
+      "Published": "2026-07-25T09:00:00Z",
+      "Source": "Android Authority",
+      "Category": "Samsung Galaxy Z Flip 8",
+      "Summary": "Galaxy Z Flip 8の理論上最高のアップグレードは私が最も心配しているものです\n\nサムスンの Galaxy Z Flip 8 は、1 年間の Exynos を経て Snapdragon に戻りましたが、それは本当に正しい選択なのでしょうか?\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nAndroid フォン Galaxy Z Flip 8 の理論上最高のアップグレードは、私が最も心配しているものです\n\n0 • Paul Jones / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください Galaxy Z Flip 7 で、サムスンは自社製 Exynos 2500 チップを搭載した折りたたみ式デバイスを世界中に出荷するという物議を醸す選択をしました。多くの人にとって、Snapdragon から Exynos への移行は、特に Qualcomm の Snapdragon 8 Elite が画期的な瞬間を迎えた年には格下げと見なされていました。 Motorola は同年、Razr Ultra 2025 に Snapdragon 8 Elite チップを搭載し、スペックシートとほとんどのベンチマークで Samsung と Galaxy Z Flip 7 に対するリードを広げました。\n\nサムスンは、新しく発表された Galaxy Z Flip 8 で方針を変更しました。これは、北米向けの Galaxy チップ用の Snapdragon 8 Elite Gen 5 で動作します。ディスプレイ、バッテリー容量、カメラが実質的に変わっていないことを考慮すると、これは紙の上で間違いなく最大のGalaxy Z Flip 8アップグレードです。\n\nGalaxy Z Flip 7 を 1 年間オンオフ使用した後、Galaxy チップの Snapdragon 8 Elite Gen 5 がどのような問題を解決するのか疑問に思っています…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galazy-Z-Flip-8-cover-display-in-hand.jpg"
+    },
+    {
+      "Title": "ICCU モニターは E-GMP の EV 障害データをログに記録します",
+      "Link": "https://hackaday.com/2026/07/25/iccu-monitor-logs-data-in-e-gmp-ev-failures/",
+      "Published": "2026-07-25T08:00:53Z",
+      "Source": "Hackaday",
+      "Category": "Kia",
+      "Summary": "ICCU モニターは E-GMP の EV 障害データをログに記録します\n\nEV は燃焼系に比べて機械的に複雑ではありませんが、コンポーネントの故障の影響を受けないわけではありません。統合充電制御ユニット (ICCU) は主な機能です。\n\nEV は燃焼系に比べて機械的に複雑ではありませんが、コンポーネントの故障の影響を受けないわけではありません。統合充電制御ユニット (ICCU) は、最近の現代/起亜自動車の EV の主な障害点となっており、ICCU オブザーバーは、システムからのデータをログに記録して原因を特定する試みです。\n\nICCU は、ヒュンダイ、起亜、ジェネシスの E-GMP プラットフォーム EV で、800 V から 12 V までのすべての充電および電圧変換業務を処理します。主な故障モードは、12 V を充電する回路が故障し、最終的に車両が動作不能になる場合であると考えられます。故障率は比較的低いものの、正確な数字は不明であり、ヒュンダイは原因が何か分かっていても沈黙を続けている。\n\n当然のことながら、失敗を経験した所有者が同じ問題を抱えている他の所有者に類似点と相違点を伝えるという憶測が蔓延しています。実際のデータをプロセスに導入する取り組みとして、[ブロードウォール] は、障害が発生した車両間の類似点を正確に特定するために、車両の OBD II ポート経由で収集された情報のオープン データ セットの開発に取り組み始めました。\n\nヒュンダイは現在、故障したユニットを保証期間内で交換しています (最近、ほとんどの市場で保証期間が 15 年に延長されました) が、道端に座ってレッカー車を待っているときは、それはほとんど快適ではありません。これらの障害は、メンテナンスが簡単なプラットフォームでは目立つため、この取り組みが単に新しいユニットに交換するのではなく、恒久的な修正につながることを願っています。\n\nデータ分析をもう少し詳しく知りたい場合は、天体写真を使用して系外惑星を検出したり、スタンフォード大学からさらに学んだりしてみてはいかがでしょうか。",
+      "ImageURL": "https://hackaday.com/wp-content/uploads/2025/11/hyundai-uk-ioniq-5-n-performance-blue.jpg"
+    },
+    {
+      "Title": "KDE Plasma 6.8 により、リモート デスクトップ サーバーのセキュリティ保護の煩わしさがついに軽減されました",
+      "Link": "https://www.xda-developers.com/kde-plasma-68-finally-makes-securing-a-remote-desktop-server-a-lot-less-annoying/",
+      "Published": "2026-07-25T07:17:01Z",
+      "Source": "XDA",
+      "Category": "KDE Plasma",
+      "Summary": "KDE Plasma 6.8 により、リモート デスクトップ サーバーのセキュリティ保護の煩わしさがついに軽減されました\n\nまた、Discover のダウンロードははるかに優れています。\n\nKDE Plasma 6.8 により、リモート デスクトップ サーバーのセキュリティ保護の煩わしさがついに軽減されました\n\nSimon Batt 公開 2026 年 7 月 25 日、午前 3:17 EDT Simon はコンピューター サイエンスの学士号を取得しており、2014 年からテクノロジーについて執筆しており、3.1 から Windows マシンを使用しています。インディーズ ゲーム スタジオで働き、コンピューターの問題全般に対応する家族の頼りになる技術者として活動した後、彼は文章を書くことへの情熱に気づき、自分のスキルセットをテクノロジーに関するあらゆることについて書くことに決めました。ライターとしてのキャリアを始めて以来、彼は WorldStart 、 Listverse 、 MakeTechEasier などのさまざまな出版物に執筆してきました。しかし、2019 年 2 月に MakeUseOf に居場所を見つけた後、最終的にはその姉妹サイトである XDA に移り、最新かつ最高の Windows、Linux、DIY 電子機器を提供することになりました。 XDA アカウントにサインインする\n\nPlasma 6.8 は、最後のリモート RDP クライアントが切断されたときに PC を自動ロックできます。\n\nまた、各アカウントの最後のセッションを記憶し、共有 PC へのログインを簡素化します。\n\nDiscover は待機/更新ステータスごとにダウンロードをグループ化し、kscreenctl は kscreen-doctor を置き換えます。\n\nプライバシーを重視している場合は、リモートで接続した後、誰かが使用できるようにコンピューターを開いたままにしたくないでしょう。しかし、その場に行かずに PC が安全であることをどうやって確認するのでしょうか? KDE Plasma 6…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/03/kde-plasma-laptop.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
     {
       "Title": "UbuntuがAIを採用する中、DebianはAIが生成したすべてのコードの禁止を議論",
       "Link": "https://www.xda-developers.com/as-ubuntu-embraces-ai-debian-discusses-banning-all-ai-generated-code/",
@@ -5196,21 +5232,21 @@
       "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/07/GLO-A-5PC-BLK_Web_Gallery_1-732x330.jpg"
     },
     {
-      "Title": "Halo: キャンペーンが進化 - 有料プレイヤーが Microsoft アカウントのリンクと格闘し、ローンチ前にクラックされる",
-      "Link": "https://www.techpowerup.com/351060/halo-campaign-evolved-cracked-before-launch-as-paying-players-fight-microsoft-account-linking",
-      "Published": "2026-07-24T15:00:25Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "Halo: キャンペーンが進化 - 有料プレイヤーが Microsoft アカウントのリンクと格闘し、ローンチ前にクラックされる\n\nHalo: Campaign Evolved ゲームは、正式リリースのわずか 4 日前にクラックされました。ハッカーのグループは、自分たちのバージョンは Microsoft や Steam アカウントを必要とせずに Windows 上でスムーズに動作すると主張しています。 Xbox Game Studios 傘下の Halo Studios によって開発されたこのゲームは、Microsoft の DRM によって保護されていました。\n\nHalo: キャンペーンが進化 - 有料プレイヤーが Microsoft アカウントのリンクと格闘し、ローンチ前にクラックされる\n\n2025 年 8 月 18 日 Microsoft Windows 11 24H2 アップデートにより SSD 障害が発生する可能性がある (278)\n\n2025 年 10 月 21 日 Windows 11 25H2 October Update のバグにより回復環境が使用不能になる (170)\n\n2025 年 10 月 17 日 Microsoft が Windows 11 October Update で Localhost を破壊し、ユーザーは強制的に元に戻される (105)\n\n2025 年 9 月 30 日 Microsoft が Windows 11 25H2 をリリース…新機能はゼロ？ (122)\n\n2025 年 12 月 14 日 Microsoft Copilot AI が LG TV に搭載、削除できない (144)\n\n2025 年 10 月 7 日 Microsoft が Windows 11 でのオンライン アカウント バイパスをブロック (162)\n\n2026 年 5 月 1 日 Microsoft は、Windows 11 の「心配しない」アップグレードとして 32 GB RAM を推奨するようになりました (147)\n\n2026 年 4 月 28 日…",
-      "ImageURL": "https://www.techpowerup.com/img/zw0qg3w0DnMe8Dep.jpg"
-    },
-    {
       "Title": "Microsoft アカウントの問題により一部のプレイヤーがロックアウトされ、Halo: Campaign Evolved が発売前にクラックされる",
       "Link": "https://www.techpowerup.com/351060/halo-campaign-evolved-cracked-before-launch-as-microsoft-account-issues-leave-some-players-locked-out",
       "Published": "2026-07-24T15:00:25Z",
       "Source": "TechPowerUp",
       "Category": "",
       "Summary": "Microsoft アカウントの問題により一部のプレイヤーがロックアウトされ、Halo: Campaign Evolved が発売前にクラックされる\n\nHalo: Campaign Evolved ゲームは、正式リリースのわずか 4 日前にクラックされました。ハッカーのグループは、自分たちのバージョンは Microsoft や Steam アカウントを必要とせずに Windows 上でスムーズに動作すると主張しています。 Xbox Game Studios 傘下の Halo Studios によって開発されたこのゲームは、Microsoft の DRM によって保護されていました。\n\nMicrosoft アカウントの問題により一部のプレイヤーがロックアウトされ、Halo: Campaign Evolved が発売前にクラックされる\n\n2025 年 8 月 18 日 Microsoft Windows 11 24H2 アップデートにより SSD 障害が発生する可能性がある (278)\n\n2025 年 10 月 21 日 Windows 11 25H2 October Update のバグにより回復環境が使用不能になる (170)\n\n2025 年 10 月 17 日 Microsoft が Windows 11 October Update で Localhost を破壊し、ユーザーは強制的に元に戻される (105)\n\n2025 年 10 月 1 日 Microsoft が Windows 11 25H2 をリリース…新機能はゼロ？ (122)\n\n2025 年 12 月 14 日 Microsoft Copilot AI が LG TV に搭載、削除できない (144)\n\n2025 年 10 月 7 日 Microsoft が Windows 11 でのオンライン アカウント バイパスをブロック (162)\n\n2026 年 5 月 1 日 Microsoft は、Windows 11 の「心配しない」アップグレードとして 32 GB RAM を推奨するようになりました (1…",
+      "ImageURL": "https://www.techpowerup.com/img/zw0qg3w0DnMe8Dep.jpg"
+    },
+    {
+      "Title": "Halo: キャンペーンが進化 - 有料プレイヤーが Microsoft アカウントのリンクと格闘し、ローンチ前にクラックされる",
+      "Link": "https://www.techpowerup.com/351060/halo-campaign-evolved-cracked-before-launch-as-paying-players-fight-microsoft-account-linking",
+      "Published": "2026-07-24T15:00:25Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "Halo: キャンペーンが進化 - 有料プレイヤーが Microsoft アカウントのリンクと格闘し、ローンチ前にクラックされる\n\nHalo: Campaign Evolved ゲームは、正式リリースのわずか 4 日前にクラックされました。ハッカーのグループは、自分たちのバージョンは Microsoft や Steam アカウントを必要とせずに Windows 上でスムーズに動作すると主張しています。 Xbox Game Studios 傘下の Halo Studios によって開発されたこのゲームは、Microsoft の DRM によって保護されていました。\n\nHalo: キャンペーンが進化 - 有料プレイヤーが Microsoft アカウントのリンクと格闘し、ローンチ前にクラックされる\n\n2025 年 8 月 18 日 Microsoft Windows 11 24H2 アップデートにより SSD 障害が発生する可能性がある (278)\n\n2025 年 10 月 21 日 Windows 11 25H2 October Update のバグにより回復環境が使用不能になる (170)\n\n2025 年 10 月 17 日 Microsoft が Windows 11 October Update で Localhost を破壊し、ユーザーは強制的に元に戻される (105)\n\n2025 年 9 月 30 日 Microsoft が Windows 11 25H2 をリリース…新機能はゼロ？ (122)\n\n2025 年 12 月 14 日 Microsoft Copilot AI が LG TV に搭載、削除できない (144)\n\n2025 年 10 月 7 日 Microsoft が Windows 11 でのオンライン アカウント バイパスをブロック (162)\n\n2026 年 5 月 1 日 Microsoft は、Windows 11 の「心配しない」アップグレードとして 32 GB RAM を推奨するようになりました (147)\n\n2026 年 4 月 28 日…",
       "ImageURL": "https://www.techpowerup.com/img/zw0qg3w0DnMe8Dep.jpg"
     },
     {
@@ -5251,7 +5287,7 @@
     },
     {
       "Title": "Xbox 360 tech powers backwards compatibility on PC, original Xbox games use Xefu emulation",
-      "Link": "https://www.tweaktown.com/news/112799/xbox-360-tech-powers-backwards-compatibility-on-pc-original-xbox-games-use-xefu-emulation/index.html",
+      "Link": "https://www.tweaktown.com/rss/click/news/112799/?c=news-mf",
       "Published": "2026-07-24T14:33:09Z",
       "Source": "TweakTown",
       "Category": "",
@@ -5260,7 +5296,7 @@
     },
     {
       "Title": "Xbox 360 tech powers backwards compatibility on PC, original Xbox games use Xefu emulation",
-      "Link": "https://www.tweaktown.com/rss/click/news/112799/?c=news-mf",
+      "Link": "https://www.tweaktown.com/news/112799/xbox-360-tech-powers-backwards-compatibility-on-pc-original-xbox-games-use-xefu-emulation/index.html",
       "Published": "2026-07-24T14:33:09Z",
       "Source": "TweakTown",
       "Category": "",
@@ -6051,15 +6087,6 @@
       "ImageURL": "https://hackaday.com/wp-content/uploads/2026/07/wiz.png"
     },
     {
-      "Title": "SSD は寿命が近づくと静かに知らせますが、Windows は警告サインを隠します",
-      "Link": "https://www.xda-developers.com/your-ssd-tells-you-when-its-dying-but-windows-hides-the-warning-signs/",
-      "Published": "2026-07-23T23:00:10Z",
-      "Source": "XDA",
-      "Category": "PC",
-      "Summary": "SSD は寿命が近づくと静かに知らせますが、Windows は警告サインを隠します\n\nSSD ヘルスバーは意図的に誤解を招くものです\n\nSSD は寿命が近づくと静かに知らせますが、Windows は警告サインを隠します\n\n文：Samarveer Singh 公開 2026 年 7 月 23 日、午後 7 時 EDT ゲームは、Samarveer の最大の情熱であり、文学部出身の彼は、ゲームのテーマ、メッセージ、影響を分析することに大きな喜びを感じています。 Samarveer はゲームを深く評価しており、このプラットフォームがすべてのメディアの中で最も没入型で影響力のあるプラットフォームであると考えています。彼はオンラインのゲーム コミュニティに積極的に参加しており、レイ トレーシングの細かい点についていつでも議論したり、感情的に影響を与えたゲームに関する 8 ページの大学論文を書きたくてうずうずしたりしていることがわかります。 XDA アカウントにサインインする\n\nCrystalDiskInfo や Smartctl などのツールを使用して SSD SMART データを読み取ります。health% は最も役に立たないメトリクスです。\n\nホストの総書き込み数、電源投入時間、温度、再割り当てされたブロックをチェックして、実際の摩耗の兆候を明らかにします。\n\nこだわりすぎないでください。最新の NVMe ドライブは通常、通常の使用よりも長持ちします。数か月ごとにチェックし、バックアップを保管してください。\n\nソリッド ステート ドライブがハード ドライブと同じように故障しないことは周知の事実です。それは、摩耗する回転するプラッターや可動ヘッドがないからです。ただし、SSD 内のすべてのフラッシュ セルには、最終的に劣化が始まるまでに有限数のプログラムおよび消去サイクルが伴います。\n\n実際、ドライブは実際に問題が発生するずっと前に、使用可能な寿命がどれだけ消耗したかを記録します。ただし、問題は、SSD 自体に巨大なヘルスバーが刻印されていないことです。そこで Windows …",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/xpg-adata-gammix-s70-blade-2tb-ssd-with-crystal-disk-mark-running.jpg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
       "Title": "Nvidia を捨てて AMD に切り替えた後、この切り替えについて実際に驚いた 4 つの点を以下に示します。",
       "Link": "https://www.xda-developers.com/4-differences-between-nvidia-and-amd-gpus-that-i-wasnt-prepared-for/",
       "Published": "2026-07-23T23:00:10Z",
@@ -6067,6 +6094,15 @@
       "Category": "Nvidia",
       "Summary": "Nvidia を捨てて AMD に切り替えた後、この切り替えについて実際に驚いた 4 つの点を以下に示します。\n\n私はレッドチームに切り替えることに完全に同意していましたが、次の 4 つのことに不意を突かれました。\n\nNvidia を捨てて AMD に切り替えた後、この切り替えについて実際に驚いた 4 つの点を以下に示します。\n\nBy Ty Sherback 更新日 2026 年 7 月 23 日、午後 7:00 EDT 彼の PC とそのコンポーネントに対する愛情は、ファミリー コンピューターのパフォーマンスをすべて絞り出そうとすることから生まれました。 10 歳のときに自分のビルドをいじっていたことが、友人や家族のために PC を作ることに変わり、最終的にキャリア パスとして形になる情熱を育みました。 Ty は、身近な人々への技術サポートの最初の電話であることに加えて、クラウド コンピューティングとネットワーキングに重点を置いているコンピューター サイエンスの学生でもあります。彼はセミプロの Counter-Strike にも 8 年間出場しており、周辺機器に関するあらゆることに精通しています。 XDA アカウントにサインインする 私はディスクリート GPU に関して、AMD と Nvidia の間を頻繁に行き来してきました。しかし、私は過去 2 世代にわたって AMD のエコシステムにしっかりと固定されてきました。私の最後の Nvidia GPU は GeForce RTX 4060 Ti で、その後 AMD の Radeon RX 7900 XT に移行し、最終的に RX 9070 XT になりました。これがたまたま私の 4K ゲームにとって絶対的なスイート スポットでした。私 (そして切り替えた多くの人) が予想していなかったのは、グリーン チームとレッド チームの間にいくつかの顕著な違いがあることでした。\n\n4 AMD の Linux サポートはより統合されていると感じます\n\nお気に入りのディストリビューションをインストールしてゲームを始めましょう\n\nNvi…",
       "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/06/radeon_rx_9070_xt_sapphire_nitro_plus_gpu-1-1.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "SSD は寿命が近づくと静かに知らせますが、Windows は警告サインを隠します",
+      "Link": "https://www.xda-developers.com/your-ssd-tells-you-when-its-dying-but-windows-hides-the-warning-signs/",
+      "Published": "2026-07-23T23:00:10Z",
+      "Source": "XDA",
+      "Category": "PC",
+      "Summary": "SSD は寿命が近づくと静かに知らせますが、Windows は警告サインを隠します\n\nSSD ヘルスバーは意図的に誤解を招くものです\n\nSSD は寿命が近づくと静かに知らせますが、Windows は警告サインを隠します\n\n文：Samarveer Singh 公開 2026 年 7 月 23 日、午後 7 時 EDT ゲームは、Samarveer の最大の情熱であり、文学部出身の彼は、ゲームのテーマ、メッセージ、影響を分析することに大きな喜びを感じています。 Samarveer はゲームを深く評価しており、このプラットフォームがすべてのメディアの中で最も没入型で影響力のあるプラットフォームであると考えています。彼はオンラインのゲーム コミュニティに積極的に参加しており、レイ トレーシングの細かい点についていつでも議論したり、感情的に影響を与えたゲームに関する 8 ページの大学論文を書きたくてうずうずしたりしていることがわかります。 XDA アカウントにサインインする\n\nCrystalDiskInfo や Smartctl などのツールを使用して SSD SMART データを読み取ります。health% は最も役に立たないメトリクスです。\n\nホストの総書き込み数、電源投入時間、温度、再割り当てされたブロックをチェックして、実際の摩耗の兆候を明らかにします。\n\nこだわりすぎないでください。最新の NVMe ドライブは通常、通常の使用よりも長持ちします。数か月ごとにチェックし、バックアップを保管してください。\n\nソリッド ステート ドライブがハード ドライブと同じように故障しないことは周知の事実です。それは、摩耗する回転するプラッターや可動ヘッドがないからです。ただし、SSD 内のすべてのフラッシュ セルには、最終的に劣化が始まるまでに有限数のプログラムおよび消去サイクルが伴います。\n\n実際、ドライブは実際に問題が発生するずっと前に、使用可能な寿命がどれだけ消耗したかを記録します。ただし、問題は、SSD 自体に巨大なヘルスバーが刻印されていないことです。そこで Windows …",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/xpg-adata-gammix-s70-blade-2tb-ssd-with-crystal-disk-mark-running.jpg?w=1600\u0026h=900\u0026fit=crop"
     },
     {
       "Title": "Dygma、旅行に便利な Sonsei Monobody 人間工学に基づいたメカニカル キーボードを発売",
@@ -6123,15 +6159,6 @@
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/06/google-home-speaker-review-8-scaled.jpg"
     },
     {
-      "Title": "No amount of backlash will change Sony's mind on disc cancellation, says ex-Santa Monica dev",
-      "Link": "https://www.tweaktown.com/news/112807/no-amount-of-backlash-will-change-sonys-mind-on-disc-cancellation-says-ex-santa-monica-dev/index.html",
-      "Published": "2026-07-23T21:00:10Z",
-      "Source": "TweakTown",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
       "Title": "これらの変更を行うまで Windows 11 は使用できませんでした",
       "Link": "https://www.xda-developers.com/windows-11-was-unusable-until-i-made-these-changes/",
       "Published": "2026-07-23T21:00:10Z",
@@ -6139,6 +6166,15 @@
       "Category": "Windows 10",
       "Summary": "これらの変更を行うまで Windows 11 は使用できませんでした\n\nいくつかの調整により、腹立たしい状態からただの迷惑な状態にまで下がります\n\nこれらの変更を行うまで Windows 11 は使用できませんでした\n\nBy Ian Buckley 公開 2026 年 7 月 23 日、午後 5:00 EDT イアンは、ドイツのベルリンに住む英国出身のジャーナリスト兼クリエイターです。彼は思い出せないほど長い間テクノロジーに熱中しており、キャリアのほとんどを、大好きなテクノロジーに関する執筆、ビデオの作成、または人々へのインタビューに費やしてきました。イアンはターミナル内で見つかるか、明確な理由もなく長距離を走っている可能性が最も高いです。 XDA アカウントにサインインします。私は Windows 11 が大嫌いです。それが革新的とは言えないことはわかっています。残念ながら、クリエイターにとっては、特にハードウェア サポートに関しては Windows が依然として優れています。私の嫌いはそれほど驚くべきことではありません。私は Linux が大好きですが、それには十分な理由があります。しかし、私の長年の Windows 友達ですら Windows 11 を嫌っているのですから、何かが起きているのです。\n\n幸いなことに、Windows 11 に加えることができる簡単な変更がいくつかあり (そのほとんどは Windows 10 でも機能します)、古い時代の Windows に憧れている場合でも、Windows をもう少し macOS や Linux に近づけようとしている場合でも、あなたの経験をそれほど苦痛に感じなくすることができます。\n\n1 つのツールで多くのダメージを元に戻す\n\nWindows 11 を使用すると、システムにショックを感じるかもしれません。ログインすると、すぐに株式市場についての情報が表示されます。ビデオエディタを開こうとすると、スタートメニューがラスベガスのように点灯します。右クリック メニュー、コントロール パネル、およびデフォルト アプリはすべて…",
       "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/windows-11-new-start-menu-25h2.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "No amount of backlash will change Sony's mind on disc cancellation, says ex-Santa Monica dev",
+      "Link": "https://www.tweaktown.com/news/112807/no-amount-of-backlash-will-change-sonys-mind-on-disc-cancellation-says-ex-santa-monica-dev/index.html",
+      "Published": "2026-07-23T21:00:10Z",
+      "Source": "TweakTown",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
     },
     {
       "Title": "Facebook は停止していますか?ここで何が起こっているのか",
@@ -6492,15 +6528,6 @@
       "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/pc-bios.jpg?w=1600\u0026h=900\u0026fit=crop"
     },
     {
-      "Title": "超音波を利用したマイクジャマー",
-      "Link": "https://hackaday.com/2026/07/23/mic-jammer-relies-on-ultrasound/",
-      "Published": "2026-07-23T18:30:00Z",
-      "Source": "Hackaday",
-      "Category": "ultrasound jamming",
-      "Summary": "超音波を利用したマイクジャマー\n\n今日の携帯電話のマイクは、あらゆる種類の状況で音を拾うのに完全に熟達しており、ノイズを除去して音声をキャプチャするためのあらゆる種類の処理技術に支えられています。\n\n今日の携帯電話のマイクは、あらゆる種類の状況で音声を拾うことに完全に熟達しており、ノイズを除去してクリーンな音声をキャプチャするためのあらゆる種類の処理技術に支えられています。 [mcore1976] は、盗聴している可能性のある電話のマイクを妨害するデバイスの開発に取り組んできましたが、今度は高度な処理技術に対抗します。\n\nこのビルドでは、マイクロコントローラーの頭脳を使用して、一連の超音波トランスデューサーを制御します。 [mcore1976] はプロジェクトの多くの改訂版を作成し、そのたびに最新のハードウェアでマイクを妨害する能力を改善しました。最新のリビジョンでは、RP2040 マイクロコントローラーと MOSFET 駆動ステージを使用して、20 ～ 80 個の超音波トランスデューサーを制御します。これらは、RP2040 自体から生成される PWM 信号で駆動されます。信号出力は、最近の多くの電話機で使用されている自動利得制御システムを混乱させ、ジャマーが動作しているときにクリアな音声を録音することを困難にするために特別に変調されています。 [mcore1976] が iPhone 17 で実証しているように、妨害装置がオンになっている間、彼の声は理解できない文字化けノイズの中で完全に失われます。\n\nこれはニッチなアイデアであり、人間の耳にはほとんど聞こえないものの、電話のマイクに影響を与えるという点でおそらく最も興味深いものです。最近、他の興味深い妨害装置も紹介しました。休憩後の動画。",
-      "ImageURL": "https://hackaday.com/wp-content/uploads/2026/07/DIY-Ultrasonic-Microphone-Jammer-final-hardware-update-RP2040-MOSFET-Kicad-8-58-screenshot.png"
-    },
-    {
       "Title": "AMD の新しい X100 チップ ラインナップは Strix Halo をロボットに搭載 – 物理 AI 用の APU は Zen 5 CPU、RDNA 3.5 GPU コアを搭載し、Intel の Panther Lake と競合します",
       "Link": "https://www.tomshardware.com/pc-components/cpus/amds-new-x100-chip-lineup-puts-strix-halo-into-robots-apus-for-physical-ai-bring-zen-5-cpu-rdna-3-5-gpu-cores-to-compete-with-intels-panther-lake",
       "Published": "2026-07-23T18:30:00Z",
@@ -6508,6 +6535,15 @@
       "Category": "PC Components",
       "Summary": "AMD の新しい X100 チップ ラインナップは Strix Halo をロボットに搭載 – 物理 AI 用の APU は Zen 5 CPU、RDNA 3.5 GPU コアを搭載し、Intel の Panther Lake と競合します\n\nAMDはロボット戦争でIntel（そしてNvidia）と対戦する。\n\nAMD の新しい X100 チップ ラインナップは Strix Halo をロボットに搭載 – 物理 AI 用の APU は Zen 5 CPU、RDNA 3.5 GPU コアを搭載し、Intel の Panther Lake と競合します\n\nAMDはロボット戦争でIntel（そしてNvidia）と対戦する。\n\n(画像クレジット: Tom's Hardware) リンクをコピー\n\n0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する AMD は、Strix Halo APU を物理 AI の世界に導入します。新しい X100 シリーズのプロセッサーは、クライアント デバイスで流通しているさまざまな Ryzen AI Max モデルと同様の仕様を備えていますが、ロボット工学などの組み込みアプリケーションでの 10 年のライフサイクルを備え、24 時間年中無休の動作に合わせて調整されています。\n\n3 つのオリジナル Strix Halo モデルと一致する 3 つの SKU があります (40 CU の更新バージョンではありません)。最上位の X199 には、16 個の Zen 5 コアと 40 個の RDNA 3.5 CU が搭載されています。 X188 は 12 コアと 32 CU にステップダウンしますが、X168 には 8 コアと同じ 32 CU が付属します。 AMDは各モデルの詳細な仕様を明らかにしていないが、同社によれば、その範囲は最大5.1 GHzのブーストクロックと128 GBのユニファイドメモリに達するという。また、最大 50 TOPS の XDNA 2 NPU、45W ～ 120W の…",
       "ImageURL": "https://cdn.mos.cms.futurecdn.net/pXkThAfC4PkTjFgvWAPXYF-2560-80.jpg"
+    },
+    {
+      "Title": "超音波を利用したマイクジャマー",
+      "Link": "https://hackaday.com/2026/07/23/mic-jammer-relies-on-ultrasound/",
+      "Published": "2026-07-23T18:30:00Z",
+      "Source": "Hackaday",
+      "Category": "ultrasound jamming",
+      "Summary": "超音波を利用したマイクジャマー\n\n今日の携帯電話のマイクは、あらゆる種類の状況で音を拾うのに完全に熟達しており、ノイズを除去して音声をキャプチャするためのあらゆる種類の処理技術に支えられています。\n\n今日の携帯電話のマイクは、あらゆる種類の状況で音声を拾うことに完全に熟達しており、ノイズを除去してクリーンな音声をキャプチャするためのあらゆる種類の処理技術に支えられています。 [mcore1976] は、盗聴している可能性のある電話のマイクを妨害するデバイスの開発に取り組んできましたが、今度は高度な処理技術に対抗します。\n\nこのビルドでは、マイクロコントローラーの頭脳を使用して、一連の超音波トランスデューサーを制御します。 [mcore1976] はプロジェクトの多くの改訂版を作成し、そのたびに最新のハードウェアでマイクを妨害する能力を改善しました。最新のリビジョンでは、RP2040 マイクロコントローラーと MOSFET 駆動ステージを使用して、20 ～ 80 個の超音波トランスデューサーを制御します。これらは、RP2040 自体から生成される PWM 信号で駆動されます。信号出力は、最近の多くの電話機で使用されている自動利得制御システムを混乱させ、ジャマーが動作しているときにクリアな音声を録音することを困難にするために特別に変調されています。 [mcore1976] が iPhone 17 で実証しているように、妨害装置がオンになっている間、彼の声は理解できない文字化けノイズの中で完全に失われます。\n\nこれはニッチなアイデアであり、人間の耳にはほとんど聞こえないものの、電話のマイクに影響を与えるという点でおそらく最も興味深いものです。最近、他の興味深い妨害装置も紹介しました。休憩後の動画。",
+      "ImageURL": "https://hackaday.com/wp-content/uploads/2026/07/DIY-Ultrasonic-Microphone-Jammer-final-hardware-update-RP2040-MOSFET-Kicad-8-58-screenshot.png"
     },
     {
       "Title": "Galaxy S27のメインカメラはサムスンの状況を一変させるかもしれない",
@@ -7023,15 +7059,6 @@
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2024/08/Google-logo-angled.jpg"
     },
     {
-      "Title": "ブラウザでプレイできる 15 のすばらしい DOS クラシック",
-      "Link": "https://www.xda-developers.com/15-incredible-dos-classics-you-can-play-in-your-browser/",
-      "Published": "2026-07-23T13:30:10Z",
-      "Source": "XDA",
-      "Category": "Gaming",
-      "Summary": "ブラウザでプレイできる 15 のすばらしい DOS クラシック\n\nこれらの最高のクラシックをブラウザでいつでもプレイできるため、DOS ゲームの黄金時代が消えることはありません。\n\nブラウザでプレイできる 15 のすばらしい DOS クラシック\n\n文：Samarveer Singh 公開 2026 年 7 月 23 日、午前 9 時 30分 EDT ゲームは、Samarveer の最大の情熱であり、文学部出身の彼は、ゲームのテーマ、メッセージ、影響を分析することに大きな喜びを感じています。 Samarveer はゲームを深く評価しており、このプラットフォームがすべてのメディアの中で最も没入型で影響力のあるプラットフォームであると考えています。彼はオンラインのゲーム コミュニティに積極的に参加しており、レイ トレーシングの細かい点についていつでも議論したり、感情的に影響を与えたゲームに関する 8 ページの大学論文を書きたくてうずうずしたりしていることがわかります。 XDA アカウントにサインインする 80 年代の大部分から 90 年代にかけて、DOS はゲーマーにとっての手段であり、PC ゲームの根幹でした。確かに、他にもたくさんのゲームを備えたコンソールやプラットフォームはたくさんありましたが、最も革新が起こっていたのは DOS でした。私たちは 2.5D および 3D 空間の実験、PC 上の一人称シューティング ゲーム、大規模な都市建設シム、ポイント アンド クリック アドベンチャーなどについて話しています。開発者は、境界を押し広げ、新しい視点、仕組み、ジャンルを実験しながら DOS 用のゲームを構築し、今日私たちが知っているような現代のゲームの基礎を効果的に築きました。\n\nさて、今日 DOS ゲームを簡単に再訪できる理由は、DOS ゲームが今日の技術と比べてどれほど軽量であるかということです。当時の最上位機種でも、RAM は数 MB、ストレージはせいぜい 2 桁メガバイト程度だったかもしれません。現在の 100 ドルの携帯電話でさえ、内部にはそれよりもはるかに多くの…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2025/05/greatest-dos-games.jpg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
       "Title": "(PR) OWC、OWC Express 4M2 Ultra Thunderbolt 5 NVMe RAID ソリューションを発表",
       "Link": "https://www.techpowerup.com/351012/owc-announces-owc-express-4m2-ultra-thunderbolt-5-nvme-raid-solution",
       "Published": "2026-07-23T13:30:10Z",
@@ -7039,6 +7066,15 @@
       "Category": "",
       "Summary": "(PR) OWC、OWC Express 4M2 Ultra Thunderbolt 5 NVMe RAID ソリューションを発表\n\nOther World Computing (OWC) は、クリエイティブおよびビジネスのプロフェッショナルがパフォーマンスを最大化し、信頼性を高め、ワークフローを合理化できるようにする、高性能ストレージ、メモリ、接続、ソフトウェア、およびアクセサリの信頼できるリーダーであり、本日、OWC Express 4M2 の発売を発表しました。\n\nOWC、OWC Express 4M2 Ultra Thunderbolt 5 NVMe RAID ソリューションを発表\n\n驚異的な速度 - 12K RAW ビデオおよび 8K マルチカム ワークフローで 6622 MB/秒\n\n小型ながら拡張性 - ユニットあたり 32 TB、デイジーチェーン接続により 128 TB まで拡張可能\n\nさらなる接続性 - 2 番目の Thunderbolt 5 ポートはさらに 5 台のデバイスを接続します\n\n将来に備え - いつでもより高速で大容量の NVMe SSD にアップグレードできます\n\n2026 年 6 月 25 日 OWC が 256GB CFExpress 4.0 Type B メモリ カードを搭載した新しい Atlas Core ラインを発売 (1)\n\n2026 年 6 月 2 日 Computex 2026 での OWC: OWC スタック AI および Express 4M2 ウルトラ デイジーチェーン Thunderbolt 5 エンクロージャ (0)\n\n2026 年 5 月 21 日 Other World Computing が OWC Stack AI Thunderbolt 5 アクセラレータおよびストレージ ハブを発表 (4)\n\n2026 年 5 月 14 日 Other World Computing (OWC)、M2M 直接配信パートナーシップにより英国チャネルを拡大 (0)\n\n2026 年 4 月 20 日 OWC が NAB 202…",
       "ImageURL": "https://www.techpowerup.com/img/7TBpRD0xFK3fsVBl.jpg"
+    },
+    {
+      "Title": "ブラウザでプレイできる 15 のすばらしい DOS クラシック",
+      "Link": "https://www.xda-developers.com/15-incredible-dos-classics-you-can-play-in-your-browser/",
+      "Published": "2026-07-23T13:30:10Z",
+      "Source": "XDA",
+      "Category": "Gaming",
+      "Summary": "ブラウザでプレイできる 15 のすばらしい DOS クラシック\n\nこれらの最高のクラシックをブラウザでいつでもプレイできるため、DOS ゲームの黄金時代が消えることはありません。\n\nブラウザでプレイできる 15 のすばらしい DOS クラシック\n\n文：Samarveer Singh 公開 2026 年 7 月 23 日、午前 9 時 30分 EDT ゲームは、Samarveer の最大の情熱であり、文学部出身の彼は、ゲームのテーマ、メッセージ、影響を分析することに大きな喜びを感じています。 Samarveer はゲームを深く評価しており、このプラットフォームがすべてのメディアの中で最も没入型で影響力のあるプラットフォームであると考えています。彼はオンラインのゲーム コミュニティに積極的に参加しており、レイ トレーシングの細かい点についていつでも議論したり、感情的に影響を与えたゲームに関する 8 ページの大学論文を書きたくてうずうずしたりしていることがわかります。 XDA アカウントにサインインする 80 年代の大部分から 90 年代にかけて、DOS はゲーマーにとっての手段であり、PC ゲームの根幹でした。確かに、他にもたくさんのゲームを備えたコンソールやプラットフォームはたくさんありましたが、最も革新が起こっていたのは DOS でした。私たちは 2.5D および 3D 空間の実験、PC 上の一人称シューティング ゲーム、大規模な都市建設シム、ポイント アンド クリック アドベンチャーなどについて話しています。開発者は、境界を押し広げ、新しい視点、仕組み、ジャンルを実験しながら DOS 用のゲームを構築し、今日私たちが知っているような現代のゲームの基礎を効果的に築きました。\n\nさて、今日 DOS ゲームを簡単に再訪できる理由は、DOS ゲームが今日の技術と比べてどれほど軽量であるかということです。当時の最上位機種でも、RAM は数 MB、ストレージはせいぜい 2 桁メガバイト程度だったかもしれません。現在の 100 ドルの携帯電話でさえ、内部にはそれよりもはるかに多くの…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2025/05/greatest-dos-games.jpg?w=1600\u0026h=900\u0026fit=crop"
     },
     {
       "Title": "Build a Privacy-Focused Smart Doorbell with Arduino",
@@ -8454,15 +8490,6 @@
       "ImageURL": "https://media.goodereader.com/blog/uploads/images/2026/07/21211835/ALW06.jpg"
     },
     {
-      "Title": "最も強力な Galaxy Z Flip 8 はあなたの市場では入手できない可能性があります",
-      "Link": "https://www.androidauthority.com/samsung-galaxy-z-flip-8-variants-chipset-3689704/",
-      "Published": "2026-07-22T13:00:45Z",
-      "Source": "Android Authority",
-      "Category": "Samsung Galaxy Z Flip 8",
-      "Summary": "最も強力な Galaxy Z Flip 8 はあなたの市場では入手できない可能性があります\n\nSamsung Galaxy Z Flip 8 は正式版ですが、最高のパフォーマンスを発揮するバージョンは一部の市場に限定されていることが判明しました。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\n最も強力な Galaxy Z Flip 8 はあなたの市場では入手できない可能性があります\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Samsung Galaxy Z Flip 8 は、Exynos と Snapdragon の両方のバージョンで利用できます。\n\nこの携帯電話には、カナダと米国向けの Galaxy プロセッサ用の Snapdragon 8 Elite Gen 5 が搭載されています。\n\nただし、南アフリカと英国では自社製 Exynos 2600 チップセットを搭載しています。\n\nサムスンは、Unpacked イベントで Galaxy Z Flip 8、Z Fold 8、Z Fold 8 Ultra という 3 つの折りたたみ式スマートフォンを発表しました。後者の 2 つのデバイスは Snapdragon シリコンのみを搭載していますが、Galaxy メーカーは Flip 8 で別の道を歩んでいます。\n\nGalaxy Z Flip 8 は、お住まいの地域に応じて、Galaxy 用 Snapdragon 8 Elite Gen 5 または自社製 Exynos 2600 チップのいずれかを搭載しています。具体的には、Snapdragon バージョンは米国とカナダで利用可能であるのに対し、Exynos バージョンは南アフリカと英国で利用可能であることが確認できます。\n\n歴史によれば、Snapdragon モデルは中国でも入手可能ですが、Exynos モデルはインドとヨーロッパに上陸すると考えられています。いずれにせよ、サムスンが…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Flip-8-showing-crease-screen-on.jpg"
-    },
-    {
       "Title": "Spigen の新しい Galaxy Z Fold 8 ケースは、保護に対して 2 つの異なるアプローチを採用しています",
       "Link": "https://www.androidauthority.com/samsung-galazy-z-8-spigen-cases-3689772/",
       "Published": "2026-07-22T13:00:45Z",
@@ -8472,13 +8499,13 @@
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Spigen-Galaxy-Z-Fold-8-Cases-scaled.jpg"
     },
     {
-      "Title": "S Pen ファンにとって悪いニュース: Galaxy Z Fold 8 シリーズは Samsung のスタイラスをサポートしていません",
-      "Link": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-series-s-pen-support-3687201/",
-      "Published": "2026-07-22T13:00:40Z",
+      "Title": "最も強力な Galaxy Z Flip 8 はあなたの市場では入手できない可能性があります",
+      "Link": "https://www.androidauthority.com/samsung-galaxy-z-flip-8-variants-chipset-3689704/",
+      "Published": "2026-07-22T13:00:45Z",
       "Source": "Android Authority",
-      "Category": "Samsung S Pen",
-      "Summary": "S Pen ファンにとって悪いニュース: Galaxy Z Fold 8 シリーズは Samsung のスタイラスをサポートしていません\n\nGalaxy Z Fold 8シリーズは、印象的なスペックを備えた公式製品です。ただし、SamsungのSペンのサポートは復活しません。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nSペンファンにとって悪いニュース: Galaxy Z Fold 8シリーズはSamsungのスタイラスをサポートしていません\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Galaxy Z Fold 8 シリーズは公式であり、携帯電話は印象的なスペックを備えています。\n\nただし、Z Fold 8 Ultra も Z Fold 8 も Samsung の S ペンをサポートしていません。\n\n同社は当初、昨年のGalaxy Z Fold 7でSペンのサポートを削除した。\n\nSamsung は本日、ロンドンで開催された Galaxy Unpacked イベントで Galaxy Z Fold 8 Ultra、Z Fold 8、および Z Flip 8 を発表しました。これらの携帯電話には強力なスペックと便利な機能が満載されていますが、またしても欠けているものが 1 つあります。それは S ペンです。\n\nGalaxy Z Fold 8 も Z Fold 8 Ultra も S ペンをサポートしていません。 Samsung は Galaxy Z Fold 7 でスタイラスのサポートを廃止したため、これはまったく驚くべきことではありません。ただし、幅広の Z Fold 8 で S ペンのサポートが復活することを期待していたとしたら、残念ながら運はありません。\n\n折りたたみ式 Galaxy Z Fold で S ペンを使用しましたか?\n\nサムスンが携帯電話を薄くするために Z Fold 7 からデジタイザー層を削除したため、S…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8.-Z-Fold-8-Ultra-stood-up.jpg"
+      "Category": "Samsung Galaxy Z Flip 8",
+      "Summary": "最も強力な Galaxy Z Flip 8 はあなたの市場では入手できない可能性があります\n\nSamsung Galaxy Z Flip 8 は正式版ですが、最高のパフォーマンスを発揮するバージョンは一部の市場に限定されていることが判明しました。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\n最も強力な Galaxy Z Flip 8 はあなたの市場では入手できない可能性があります\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Samsung Galaxy Z Flip 8 は、Exynos と Snapdragon の両方のバージョンで利用できます。\n\nこの携帯電話には、カナダと米国向けの Galaxy プロセッサ用の Snapdragon 8 Elite Gen 5 が搭載されています。\n\nただし、南アフリカと英国では自社製 Exynos 2600 チップセットを搭載しています。\n\nサムスンは、Unpacked イベントで Galaxy Z Flip 8、Z Fold 8、Z Fold 8 Ultra という 3 つの折りたたみ式スマートフォンを発表しました。後者の 2 つのデバイスは Snapdragon シリコンのみを搭載していますが、Galaxy メーカーは Flip 8 で別の道を歩んでいます。\n\nGalaxy Z Flip 8 は、お住まいの地域に応じて、Galaxy 用 Snapdragon 8 Elite Gen 5 または自社製 Exynos 2600 チップのいずれかを搭載しています。具体的には、Snapdragon バージョンは米国とカナダで利用可能であるのに対し、Exynos バージョンは南アフリカと英国で利用可能であることが確認できます。\n\n歴史によれば、Snapdragon モデルは中国でも入手可能ですが、Exynos モデルはインドとヨーロッパに上陸すると考えられています。いずれにせよ、サムスンが…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Flip-8-showing-crease-screen-on.jpg"
     },
     {
       "Title": "Galaxy Z Fold 8 Ultraは、2026年のSamsungの真の折りたたみフラッグシップとして登場",
@@ -8490,6 +8517,15 @@
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8.-Ultra-all-4-colors.jpg"
     },
     {
+      "Title": "S Pen ファンにとって悪いニュース: Galaxy Z Fold 8 シリーズは Samsung のスタイラスをサポートしていません",
+      "Link": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-series-s-pen-support-3687201/",
+      "Published": "2026-07-22T13:00:40Z",
+      "Source": "Android Authority",
+      "Category": "Samsung S Pen",
+      "Summary": "S Pen ファンにとって悪いニュース: Galaxy Z Fold 8 シリーズは Samsung のスタイラスをサポートしていません\n\nGalaxy Z Fold 8シリーズは、印象的なスペックを備えた公式製品です。ただし、SamsungのSペンのサポートは復活しません。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nSペンファンにとって悪いニュース: Galaxy Z Fold 8シリーズはSamsungのスタイラスをサポートしていません\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Galaxy Z Fold 8 シリーズは公式であり、携帯電話は印象的なスペックを備えています。\n\nただし、Z Fold 8 Ultra も Z Fold 8 も Samsung の S ペンをサポートしていません。\n\n同社は当初、昨年のGalaxy Z Fold 7でSペンのサポートを削除した。\n\nSamsung は本日、ロンドンで開催された Galaxy Unpacked イベントで Galaxy Z Fold 8 Ultra、Z Fold 8、および Z Flip 8 を発表しました。これらの携帯電話には強力なスペックと便利な機能が満載されていますが、またしても欠けているものが 1 つあります。それは S ペンです。\n\nGalaxy Z Fold 8 も Z Fold 8 Ultra も S ペンをサポートしていません。 Samsung は Galaxy Z Fold 7 でスタイラスのサポートを廃止したため、これはまったく驚くべきことではありません。ただし、幅広の Z Fold 8 で S ペンのサポートが復活することを期待していたとしたら、残念ながら運はありません。\n\n折りたたみ式 Galaxy Z Fold で S ペンを使用しましたか?\n\nサムスンが携帯電話を薄くするために Z Fold 7 からデジタイザー層を削除したため、S…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8.-Z-Fold-8-Ultra-stood-up.jpg"
+    },
+    {
       "Title": "サムスンはついにGalaxy Z Fold 8シリーズにそれに値する充電アップグレードを提供します",
       "Link": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-charging-3689221/",
       "Published": "2026-07-22T13:00:39Z",
@@ -8497,15 +8533,6 @@
       "Category": "Samsung Galaxy Z Fold 8",
       "Summary": "サムスンはついにGalaxy Z Fold 8シリーズにそれに値する充電アップグレードを提供します\n\nサムスンはついに、Galaxy Z Fold 8シリーズの充電を45Wの有線充電と20Wの無線充電にアップグレードしました。知っておくべきことはすべてここにあります。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nサムスンはついにGalaxy Z Fold 8シリーズにそれに値する充電アップグレードを提供します\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Galaxy Z Fold 8 および Z Fold 8 Ultra は、45W の有線充電 (25W から最大) と 20W のワイヤレス充電 (15W から最大) をサポートするようになりました。\n\nサムスンは、どちらの携帯電話も 30 分で 65% に達し、Galaxy Z Fold 8 Ultra のテストでは同じ時間枠で 67% に達したと主張しています。\n\nFold 8 Ultra には 5,000mAh のバッテリーが搭載されていますが、Fold 8 には 4,800mAh が搭載されており、これは Fold ラインナップのここ数年で最も有意義なバッテリーと充電のアップグレードの 1 つとなっています。\n\nサムスンがついに折りたたみ式デバイスの充電速度に関して何らかの対応をするのを待っていたなら、今年の発売はあなたが望んでいたものかもしれません。\n\nサムスンの折りたたみ式デバイスは、長年にわたってさまざまな点で改良されてきました。より薄く、より軽く、より耐久性が増しました。しかし、ほとんど変わっていないことが 1 つあります。それは充電速度です。今年はついにそれが変わりました。出かける直前に携帯電話を接続していることに気付いたことがあれば、このアップグレードは Fold 8 ラインナップへの最も便利な追加機能の 1 つになる可能性があります。\n\nGalaxy Z…",
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-and-Z-Fold-8-Ultra-on-table-scaled.jpg"
-    },
-    {
-      "Title": "サムスンの新しい折りたたみ式携帯電話はシリコンカーボンバッテリーを搭載した初のGalaxy携帯電話となる",
-      "Link": "https://www.androidauthority.com/samsung-first-phones-silicon-carbon-batteries-3689630/",
-      "Published": "2026-07-22T13:00:36Z",
-      "Source": "Android Authority",
-      "Category": "Samsung Galaxy Z Fold 8",
-      "Summary": "サムスンの新しい折りたたみ式携帯電話はシリコンカーボンバッテリーを搭載した初のGalaxy携帯電話となる\n\nサムスンは、同社の新しい折りたたみ式携帯電話がシリコンカーボン電池を搭載した初のギャラクシー携帯電話であることを認めた。これが重要な理由です。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nサムスンの新しい折りたたみ式携帯電話はシリコンカーボン電池を搭載した初のGalaxy携帯電話となる\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Samsung は、Galaxy Z Flip 8、Galaxy Z Fold 8、および Galaxy Z Fold 8 Ultra がすべてシリコンカーボンバッテリーを搭載していることを確認しました。\n\nしたがって、これらはシリコンカーボンバッテリー技術を搭載した最初のGalaxy携帯電話となります。\n\nサムスンはこの技術の詳細については明らかにしなかったが、バッテリーの状態は以前の製品と「一致している」と期待できると述べた。\n\nシリコンカーボンバッテリーを搭載したスマートフォンは、HONOR がこの技術をデビューさせた 2024 年から登場しています。それ以来、OnePlus、OPPO、Xiaomi などがこのバッテリー技術を採用しているのを目にしてきました。サムスンはこれまで注目を集めた数少ない抵抗勢力の一つだったが、今日では状況が変わった。\n\nサムスンはメディアブリーフィングとメディアラウンドテーブルで、「Galaxy Z Flip 8」、「Galaxy Z Fold 8」、「Galaxy Z Fold 8 Ultra」がすべてシリコンカーボンバッテリーを搭載していることを認めた。これは、このテクノロジーを搭載した最初の Galaxy スマートフォンであることを意味します。さらに、Galaxy Watch Ultra 2 はシリコンカーボンバッテリーの恩恵も受けており、おそらくこの技…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z8-family-Z-Fold-8-Z-Fold-8-Ultra-Z-Flip-8-on-table.jpg"
     },
     {
       "Title": "Galaxy Watch 9 と Ultra 2 を 30 分間使用しました - 1 つの新機能に驚かされました",
@@ -8524,6 +8551,15 @@
       "Category": "Samsung One UI",
       "Summary": "Samsung は One UI 9 安定版を発売しますが、Galaxy S26 は待たなければなりません\n\nSamsung One UI 9 安定版リリースは、Android 17、AI プライバシー ツール、シームレスな iPhone Smart Switch 転送を搭載した新しい Galaxy 折りたたみ式デバイスでデビューします。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nSamsung は One UI 9 安定版を発売しますが、Galaxy S26 は待たなければなりません\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Samsung は、Galaxy Z Fold 8、Fold 8 Ultra、および Flip 8 向けに One UI 9 安定版 (Android 17 ベース) をリリースしました。ただし、Galaxy S26 ユーザーは、安定版リリースが自分の携帯電話に展開されるまで待つ必要があります。\n\nOne UI 9 の主な機能には、AI アシスタント アクティビティ ダッシュボード、強化されたプライバシー アラート、保証とケア ハブ、スマート スイッチを介したシームレスな iPhone 転送 (パスワード、パスキー、eSIM) が含まれます。\n\nこのアップデートでは、My FanCam 自動リフレーミング、Cine LUT カラー グレーディング (Fold 8 Ultra)、AI ネイティブ FlexWindow (Flip 8)、および Now Brief セキュリティ インサイトも追加されています。\n\nサムスンはしばらくの間、Galaxy S26 シリーズ向けに One UI 9 ベータ版を実行しています。本日、Galaxy Z Fold 8、Fold 8 Ultra、および Flip 8 の発売に伴い、Samsung は Android 17 ベースの One UI 9 安定版も発売します…",
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra-One-UI-9_1.jpg"
+    },
+    {
+      "Title": "サムスンの新しい折りたたみ式携帯電話はシリコンカーボンバッテリーを搭載した初のGalaxy携帯電話となる",
+      "Link": "https://www.androidauthority.com/samsung-first-phones-silicon-carbon-batteries-3689630/",
+      "Published": "2026-07-22T13:00:36Z",
+      "Source": "Android Authority",
+      "Category": "Samsung Galaxy Z Fold 8",
+      "Summary": "サムスンの新しい折りたたみ式携帯電話はシリコンカーボンバッテリーを搭載した初のGalaxy携帯電話となる\n\nサムスンは、同社の新しい折りたたみ式携帯電話がシリコンカーボン電池を搭載した初のギャラクシー携帯電話であることを認めた。これが重要な理由です。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nサムスンの新しい折りたたみ式携帯電話はシリコンカーボン電池を搭載した初のGalaxy携帯電話となる\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Samsung は、Galaxy Z Flip 8、Galaxy Z Fold 8、および Galaxy Z Fold 8 Ultra がすべてシリコンカーボンバッテリーを搭載していることを確認しました。\n\nしたがって、これらはシリコンカーボンバッテリー技術を搭載した最初のGalaxy携帯電話となります。\n\nサムスンはこの技術の詳細については明らかにしなかったが、バッテリーの状態は以前の製品と「一致している」と期待できると述べた。\n\nシリコンカーボンバッテリーを搭載したスマートフォンは、HONOR がこの技術をデビューさせた 2024 年から登場しています。それ以来、OnePlus、OPPO、Xiaomi などがこのバッテリー技術を採用しているのを目にしてきました。サムスンはこれまで注目を集めた数少ない抵抗勢力の一つだったが、今日では状況が変わった。\n\nサムスンはメディアブリーフィングとメディアラウンドテーブルで、「Galaxy Z Flip 8」、「Galaxy Z Fold 8」、「Galaxy Z Fold 8 Ultra」がすべてシリコンカーボンバッテリーを搭載していることを認めた。これは、このテクノロジーを搭載した最初の Galaxy スマートフォンであることを意味します。さらに、Galaxy Watch Ultra 2 はシリコンカーボンバッテリーの恩恵も受けており、おそらくこの技…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z8-family-Z-Fold-8-Z-Fold-8-Ultra-Z-Flip-8-on-table.jpg"
     },
     {
       "Title": "Galaxy Z Flip 8を試してみたところ、一つ明らかなことは、サムスンは諦めたということだ",
@@ -8965,42 +9001,6 @@
       "Category": "",
       "Summary": "5月の値上げを受けてスチームデッキの売上が暴落\n\n最近の RAMpocalypse による価格引き上げの直後、Steam Deck の価格が一晩で 240 ～ 300 ドル急騰した直後には顕著な売上の急落にもかかわらず、価格引き上げ以来、Steam Deck の売上は急減したかのように見えます。 \r\n\r\nBoiling Steam による最近のレポートによると、...\n\n5月の値上げを受けてスチームデッキの売上が暴落\n\n2026 年 5 月 27 日 リーカーが天文学的な蒸気機械の価格を示唆 (74)\n\n2026 年 4 月 13 日 Epic Games ストアの従業員: 無料ゲームのためだけに来て、その後 Steam に戻ってきた人々 (91)\n\n2026 年 6 月 22 日 Valve が Steam Machine の価格をついに明らかにし、予約注文の受付を開始 (522)\n\n2026 年 4 月 2 日 Steam Deck 2 溝、既製 AMD シリコン用セミカスタム APU、Eyes 2028 発表 (45)\n\n2026 年 7 月 18 日 Valve は週に 12-15,000 台のスチームマシンを販売していると報告されています (125)\n\n2025 年 11 月 28 日 バルブスチームマシンのコストが予想よりも低くなる可能性 (118)\n\n2025 年 11 月 17 日 Valve は、Steam Machine が現在のゲーミング PC の 70% を上回るパフォーマンスを発揮すると主張 (133)\n\n2026 年 4 月 21 日 Valve が Steam コントローラーの開封ビデオをアップロード、発売間近 (16)\n\n2025 年 11 月 12 日 Valve が Steam Machine、Steam Frame、Steam コントローラーを発表 (204)\n\n2026 年 4 月 17 日 Pragmata のローンチ: 輝かしいレビューとチャートトップの売上を誇るが、プレイヤー数は平凡 (62)\n\n5 月の価格引き上げ後の S…",
       "ImageURL": "https://www.techpowerup.com/img/lKgrpr38EwD6HQjA.jpg"
-    },
-    {
-      "Title": "ONEXPLAYER X2 Mini Pro: ハンドヘルドの Ryzen AI Max+ 388 の価格は 2,499 米ドル",
-      "Link": "https://www.igorslab.de/en/onexplayer-x2-mini-pro-ryzen-ai-max-388-handheld-2499-us-dollar/",
-      "Published": "2026-07-22T04:00:53Z",
-      "Source": "igor'sLAB",
-      "Category": "strix halo",
-      "Summary": "ONEXPLAYER X2 Mini Pro: ハンドヘルドの Ryzen AI Max+ 388 の価格は 2,499 米ドル\n\nONEXPLAYER X2 Mini Pro は、Ryzen AI Max+ 388、8.8 インチ OLED、最大 64 GB のメモリを搭載し、価格は 2,499 米ドルです。\n\nハンドヘルドもあれば、ノートのヒンジがどこかでこっそり省略されていないかどうかを最初に確認するデバイスもあります。 ONEXPLAYER X2 Mini Pro は明らかに 2 番目のカテゴリーに属します。新しい 8.8 インチ デバイスは、AMD の Strix Halo ファミリの Ryzen AI Max+ 388 を使用しており、直販の場合の価格は最大 2,499 米ドルです。もはや、気軽に「スチームデッキの代替品」と叫べる価格帯ではありません。 VideoCardz は、ONEXPLAYER が X2 Mini Pro の直接注文を受け付けていると報告しています。使用されているプロセッサは、当初噂されていた Ryzen AI Max+ 395 ではなく、Ryzen AI Max+ 388 です。Hardwareluxx は、8.8 インチ OLED、64 GB のメモリ、開始価格が 2,499 米ドルという仕様を確認しています。公式には、これは単なるハンドヘルド版のアップデートではなく、Strix Halo をコンパクトなモバイル デバイスに押し込むための非常に高価な試みです。\n\nAMD の Strix Halo プラットフォームは従来のハンドヘルド APU よりもはるかに優れた位置にあるため、Ryzen AI Max+ 388 はこのセグメントにとって技術的に興味深いものです。このシリーズは、Zen 5 CPU コア、大型 RDNA 3.5 グラフィックス ユニット、および XDNA 2 NPU を組み合わせています。 X2 Mini Pro では、このチップは一般的な Ryzen Z1 または Ryzen 7 ハンドヘルドよりも大幅に高いパフォー…",
-      "ImageURL": "https://www.igorslab.de/wp-content/uploads/2026/07/Screenshot-2026-07-21-183611.jpeg"
-    },
-    {
-      "Title": "Noctua NH-D15 G2 chromax.black CPU タワークーラー レビュー – 黒の王の帰還",
-      "Link": "https://www.igorslab.de/en/noctua-nh-d15-g2-chromax-black-review-return-of-the-king-in-black/",
-      "Published": "2026-07-22T03:30:43Z",
-      "Source": "igor'sLAB",
-      "Category": "tsb-zn",
-      "Summary": "Noctua NH-D15 G2 chromax.black CPU タワークーラー レビュー – 黒の王の帰還\n\nテストでは、Noctua NH-D15 G2 chromax.black は非常に安定した冷却性能、強力な効率、そして最大速度での追加ゲインがわずかであることが印象的でした。\n\nNoctua NH-D15 G2 chromax.black のテストでは、よく知られた NH-D15 プラットフォームをブラック仕上げで継承し、一貫して洗練されたデュアルタワー空冷クーラーが示されており、テストベンチでは、中程度の騒音レベルですでにほぼ最大のパフォーマンスに達しています。測定により、非常に安定した冷却性能、最大ファン速度による追加効果がわずかであること、思慮深い取り付けとそのサイズクラス内での優れた互換性を備えた高品質の構造が確認されました。\n\nテストは、ケースの影響を受けずに、オープン テストベンチで AMD Ryzen 9 7900X で実行されました。プラットフォームには、ASUS ROG CROSSHAIR X670E HERO、16 GB Kingston Fury Beast DDR5-6000 CL36-38-38、ゼロファン モードの Sapphire Radeon RX 7600 Pulse 8GB、および FSP Hydro Ti PRO 1000 Watt が使用されました。システムは Windows 11 Pro、ビルド 26100.4061 で実行されました。温度の取得は、HWInfo64 v8.04-5470 を使用して 5000 ミリ秒間隔で実行されました。温度は周囲温度に対するデルタとして記載されています。音圧レベルは、Voltcraft SL-10 を使用して 40 cm の距離で、125 ms サイクルの Lo モードで測定されました。すべてのクーラーには、再現可能な同じサーマル ペーストが使用されました。\n\nNH-D15 G2 chromax.black は、空冷のプレミアム セグメントに明確に位置付けられており、ノイズ レベ…",
-      "ImageURL": "https://www.igorslab.de/wp-content/uploads/2026/12/15-3.jpg"
-    },
-    {
-      "Title": "Old School RuneScape players just reminded everyone why MMO games are unmatched",
-      "Link": "https://www.tweaktown.com/news/112752/old-school-runescape-players-just-reminded-everyone-why-mmo-games-are-unmatched/index.html",
-      "Published": "2026-07-22T03:27:10Z",
-      "Source": "TweakTown",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "NVIDIA、Jetson モジュールと開発キットの価格を最大 101% 値上げ",
-      "Link": "https://www.cnx-software.com/2026/07/22/nvidia-increases-the-price-of-jetson-modules-and-devkits-by-up-to-101/",
-      "Published": "2026-07-22T03:07:20Z",
-      "Source": "CNX Software",
-      "Category": "som",
-      "Summary": "NVIDIA、Jetson モジュールと開発キットの価格を最大 101% 値上げ\n\n数か月前、NVIDIA は LPDDR4 の価格が高騰したため、いくつかの Jetson モジュールを段階的に廃止しましたが、現在、同社はすべての Jetson モジュールの価格を値上げすることを決定しました。\n\n数か月前、NVIDIA は LPDDR4 価格の高騰を理由にいくつかの Jetson モジュールを段階的に廃止しましたが、現在同社はすべての Jetson モジュールと開発者キットの価格を最大 101% 値上げすることを決定しました。\n\n価格については具体的な発表はありませんでしたが、最新の価格は NVIDIA 開発者 Web サイトの FAQ で確認できます。これは最初に VideoCardz の読者によって発見され、以下の表に新旧の価格、および増加率が示されています。\n\n製品 以前の価格 新価格 値上げ Jetson AGX Thor 開発者キット $3,499 $5,499 57% Jetson T5000 モジュール、1KU+ $2,999 $4,999 67% Jetson T4000 モジュール、1KU+ $1,999 $2,999 50% Jetson AGX Orin 開発者キット $1,999 $3,499 75% Jetson AGX Orin 64GB モジュール、1KU+ $1,599 $2,999 88% Jetson AGX Orin Industrial、1KU+ $2,149 $3,199 49% Jetson AGX Orin 32GB モジュール、1KU+ $899 $1,799 100% Jetson Orin NX 16GB モジュール、1KU+ $599 $999 67% Jetson Orin NX 8GB モジュール、1KU+ $399 $649 63% Jetson Orin Nano スーパー開発者キット $249 $399 60% Jetson Orin Nano 8GB モジュール、1KU+ $299 $399 33% Je…",
-      "ImageURL": "https://www.cnx-software.com/wp-content/uploads/2026/07/NVIDIA-Jetson-price-increase.jpg"
     }
   ]
 }

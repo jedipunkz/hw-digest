@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sat, 25 Jul 2026 06:28:43 +0000</lastBuildDate>
+<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sat, 25 Jul 2026 09:12:17 +0000</lastBuildDate>
+<item><title>Anthropic、Claude Opus 5を発表。API料金は据え置き</title><link>https://smhn.info/202607-anthropic-claude-opus-5-api-agent-benchmark</link><guid isPermaLink="true">https://smhn.info/202607-anthropic-claude-opus-5-api-agent-benchmark</guid><pubDate>Sat, 25 Jul 2026 07:08:49 +0000</pubDate><description><![CDATA[<p>Anthropic、Claude Opus 5を発表。API料金は据え置き
+
+Fable5の利用制限枠をにらめっこしながら、ギリギリ限界まで使っていたユーザーも多いかと思いますが、Fableの下のモデルであるOpusから意外な伏兵が登場しています。Anthropicは2026年7月24日、Claude Opus 5を発表し、同日から提供を始めました。長時間...
+
+Anthropic、Claude Opus 5を発表。API料金は据え置き
+
+Fable5の利用制限枠をにらめっこしながら、ギリギリ限界まで使っていたユーザーも多いかと思いますが、Fableの下のモデルであるOpusから意外な伏兵が登場しています。
+
+Anthropicは2026年7月24日、Claude Opus 5を発表し、同日から提供を始めました。
+
+長時間にわたるエージェント作業で、検証や修正を重ねる力を高めたとしています。 Anthropic の社内実行では、 Frontier -Bench v0.1の成績がOpus 4.8の2倍を超えました。さらに Cursor が公開するCursorBench 3.2では、effortをmaxに設定したOpus 5が70.0％を記録。Fable 5の最高得点70.5％とは、わずか0.5ポイント差です。
+
+多くの ベンチマーク でFable5を超えており、ARC-AGI-3で約30％など、凄まじいモデルとなっています。
+
+しかも標準 API 料金は100万入力トークンあたり5ドル、出力25ドル。Opus 4.8から据え置き。Opus 4.8やFable 5に比べて 価格 性能比の高いモデルとも言えます。
+
+コンテキストウィンドウは100万トークン。 Claude Max 、 Claude Proプランで利用可能となっています。</p><p><img src="https://smhn.info/wp-content/uploads/2026/07/HOBW5T5a4AAKI_n.jpeg" alt="Anthropic、Claude Opus 5を発表。API料金は据え置き"></p>]]></description><source url="https://smhn.info/202607-anthropic-claude-opus-5-api-agent-benchmark">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/07/HOBW5T5a4AAKI_n.jpeg" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/07/HOBW5T5a4AAKI_n.jpeg"/></item>
 <item><title>2026年夏の10万円以下PC（オフィスなし）はOmniBook 3 16の限定モデルがいいかもしれない</title><link>https://komameblog.jp/news/hp-omnibook3-limited/</link><guid isPermaLink="true">https://komameblog.jp/news/hp-omnibook3-limited/</guid><pubDate>Sat, 25 Jul 2026 06:06:03 +0000</pubDate><description><![CDATA[<p>2026年夏の10万円以下PC（オフィスなし）はOmniBook 3 16の限定モデルがいいかもしれない
 
 HPの公式サイトにて、エントリー向けのノートPC『OmniBook 3』の限定モデルが販売中です。通常モデルとスペックは変わらないものの、値段が13～15%程度安く販売されています。ポイントサイトなどの還元は利用できないものの、支払い価格を...
@@ -2322,53 +2339,6 @@ LineShine LX2の 諸元 を見ると、1CPUあたり304コアで、総コア数1
 MQ問題の解読性能を競うFukuoka MQ Challengeにおいて新記録を達成した(Type VI, m=24)。これは従来と比較して計算困難性が約47,000倍高いと見積もられ、次世代暗号の安全性評価に関わる計算技術を大きく前進させる成果であるという。
 
 今後は提案アルゴリズムの適用範囲をさらに詳しく調べるとともに、新しいCPU命令や並列計算環境を活用した高速化を進め、多変数多項式暗号を含むポスト量子暗号の安全性をより精密に評価し、将来の安全な情報通信基盤の設計に貢献するとしている。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2127/302/1.png" alt="東大が暗号解読の世界記録。従来より約47,000倍難しい問題を突破"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2127302.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2127/302/1.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2127/302/1.png"/></item>
-<item><title>AMD、打倒NVIDIAのAI向けGPU「Instinct MI455X」と新ラック投入</title><link>https://pc.watch.impress.co.jp/docs/news/2127474.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2127474.html</guid><pubDate>Thu, 23 Jul 2026 18:30:00 +0000</pubDate><description><![CDATA[<p>AMD、打倒NVIDIAのAI向けGPU「Instinct MI455X」と新ラック投入
-
-AMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、AIデータセンター向けGPU「Instinct MI400 Series GPU」を発表した。
-
-AMD、打倒NVIDIAのAI向けGPU「Instinct MI455X」と新ラック投入
-
-AMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、AIデータセンター向けGPU「Instinct MI400 Series GPU」を発表した。
-
-NVIDIA Rubinの288GBに比べて1.5倍のHBM4を搭載
-
-Instinct MI455Xは、去年(2025年)のAdvancing AI 2025で概要が発表され、これまで開発が続けられてきたAIデータセンター向けのGPUとなる。メインのXCDダイがTSMCの2nmプロセスノード(N2)で製造され、3,200億個のトランジスタから構成されている。GPUのアーキテクチャは同社のAI/HPC向けのアーキテクチャとしては第5世代となるCDNA 5へと進化している。
-
-従来型製品となるInstinct MI355Xと同じように、チップレットの構造になっており複数のダイを3D方向と2D方向に積層することで構成されている。
-
-具体的にはインターコネクト(Infinity Fabric)とL2キャッシュを搭載するFCD(TSMC N3P)が2チップ、PCI Express/UALinkやチップ間通信のインターコネクト(Infinity Fabric)用のI/Oダイ(IOD、TSMC N3P)が2チップ、コンピュートエンジンを搭載したXCD(TSMC N2)が8チップ、そ…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2127/474/001.jpg" alt="AMD、打倒NVIDIAのAI向けGPU「Instinct MI455X」と新ラック投入"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2127474.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2127/474/001.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2127/474/001.jpg"/></item>
-<item><title>バイブコーディングでAMD GPU最適化を実現する魔法のツール「ROCm.AI」</title><link>https://pc.watch.impress.co.jp/docs/news/2127476.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2127476.html</guid><pubDate>Thu, 23 Jul 2026 18:30:00 +0000</pubDate><description><![CDATA[<p>バイブコーディングでAMD GPU最適化を実現する魔法のツール「ROCm.AI」
-
-AMDは、年次イベントとなる「AMD Advancing AI 2026」を7月22日と23日に米国カリフォルニア州サンフランシスコ市で開催している。2日目となった7月23日には、同社CEOのリサ・スー氏による基調講演が行なわれ、同社のAI向けソリューションなどが多数発表された。
-
-バイブコーディングでAMD GPU最適化を実現する魔法のツール「ROCm.AI」
-
-AMDは、年次イベントとなる「AMD Advancing AI 2026」を7月22日と23日に米国カリフォルニア州サンフランシスコ市で開催している。2日目となった7月23日には、同社CEOのリサ・スー氏による基調講演が行なわれ、同社のAI向けソリューションなどが多数発表された。
-
-この中でAMDは同社のGPU最適化ツール「ROCm」の新しいツールとなる「ROCm.AI」を発表。ROCm.AIはいわゆるバイブコーディングやAIコーディングなどと呼ばれる、エージェント型AIにコードを書かせる新しいプログラミング方法に対応したROCmとなる。
-
-新しく「ROCm CLI」と呼ばれるコマンドラインベースのユーザーインターフェイスをサポートし、エージェント型AIやバイブコーディングツールに対応し、GPUへの最適化をエージェント型AIと協調しながら行なえるようになる。
-
-エージェント型のコーディングツールと連携してGPU最適化を自動で行なうROCm.AI
-
-今、ソフトウェアのプログラミング環境は大きく転換している。LLMから構築されているエージェント型AIは高度なプログラミングが可能になっているため、人間はソフトウェアの仕様書を作り、エージェント型AIに渡せば、AIがその仕様書を元にプログラムのコードを書いて、プログラムをコンパイルして実行形式にし、動作検証(デバッグ)まで行なうというプロセスが当たり前になりつつある。
-
-そうした現状の中で、AMDはこれまで人間のプログラマー向けだけをターゲットにしてきたGPU最適化ツール「ROCm」の…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2127/476/001.jpg" alt="バイブコーディングでAMD GPU最適化を実現する魔法のツール「ROCm.AI」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2127476.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2127/476/001.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2127/476/001.jpg"/></item>
-<item><title>AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」</title><link>https://pc.watch.impress.co.jp/docs/news/2127479.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2127479.html</guid><pubDate>Thu, 23 Jul 2026 18:30:00 +0000</pubDate><description><![CDATA[<p>AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」
-
-AMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、フィジカルAI向けの「Ryzen AI Embedded Processors」の最新製品となる「Ryzen AI Embedded X100 Series processors」を発表した。
-
-AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」
-
-AMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、フィジカルAI向けの「Ryzen AI Embedded Processors」の最新製品となる「Ryzen AI Embedded X100 Series processors」を発表した。
-
-Strix Halo/Golden HaloベースのRyzen AI Embedded X100
-
-AMDが発表したRyzen AI Embedded X100は、1月のCESでAMDが発表した「Ryzen AI Embedded P100 Series processors」の上位版製品となる。Ryzen AI Embedded P100は、Strix PointないしはGolden PointベースのSoCで、最大12コアのZen 5/Zen 5cコア、最大16CUのRDNA 3.5 GPU、最大50TOPSのNPUという構成になっていた。
-
-それに対して、Ryzen AI Embedded X100はStrix HaloないしはGolden Haloがベースになっており、CPUは最大16コア(8コアのダイが2つ)のZen 5、GPUは最大40CUのRDNA 3.5、そして50TOPSのXDNA2 NPUというスペックになっている。
-
-最大128GBのメモリを搭載可能で、CPU、GPU、NPUが大容量のメモリをシェアしてAIのローカル処理を行…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2127/479/001.jpg" alt="AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2127479.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2127/479/001.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2127/479/001.jpg"/></item>
 <item><title>AMD、最大256コア・L3キャッシュ1GB超の第6世代「EPYC 9006」</title><link>https://pc.watch.impress.co.jp/docs/news/2127459.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2127459.html</guid><pubDate>Thu, 23 Jul 2026 18:30:00 +0000</pubDate><description><![CDATA[<p>AMD、最大256コア・L3キャッシュ1GB超の第6世代「EPYC 9006」
 
 AMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、この中で第6世代EPYCを正式に発表した。
@@ -2388,6 +2358,53 @@ CPUコアはZen 6cとZen 6の2種類が採用されており、前者が最大25
 また、AMDの3D V-Cache(TSMCの3Dダイスタッキング技術となるSoICを利用してキャッシュを3D方向に積層する技術)を利用。L3キャッシュが最大1,152MB(1.125GB)と、遂に1GBを超えるL3キャッシュを実装した。TDPは最大600Wだ。
 
 第5世代EPYCでは最大12チャンネルのメモリコントローラ構成になっていたが、第6世代EPYCでは最大で16チャンネルに強化。通常のDDR5利用時には8,000MT/s(いわゆるDDR5-8000)に対応し、MRDIMMのDDR5の場合には12,800MT/s(DDR5-12…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2127/459/001.jpg" alt="AMD、最大256コア・L3キャッシュ1GB超の第6世代「EPYC 9006」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2127459.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2127/459/001.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2127/459/001.jpg"/></item>
+<item><title>AMD、打倒NVIDIAのAI向けGPU「Instinct MI455X」と新ラック投入</title><link>https://pc.watch.impress.co.jp/docs/news/2127474.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2127474.html</guid><pubDate>Thu, 23 Jul 2026 18:30:00 +0000</pubDate><description><![CDATA[<p>AMD、打倒NVIDIAのAI向けGPU「Instinct MI455X」と新ラック投入
+
+AMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、AIデータセンター向けGPU「Instinct MI400 Series GPU」を発表した。
+
+AMD、打倒NVIDIAのAI向けGPU「Instinct MI455X」と新ラック投入
+
+AMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、AIデータセンター向けGPU「Instinct MI400 Series GPU」を発表した。
+
+NVIDIA Rubinの288GBに比べて1.5倍のHBM4を搭載
+
+Instinct MI455Xは、去年(2025年)のAdvancing AI 2025で概要が発表され、これまで開発が続けられてきたAIデータセンター向けのGPUとなる。メインのXCDダイがTSMCの2nmプロセスノード(N2)で製造され、3,200億個のトランジスタから構成されている。GPUのアーキテクチャは同社のAI/HPC向けのアーキテクチャとしては第5世代となるCDNA 5へと進化している。
+
+従来型製品となるInstinct MI355Xと同じように、チップレットの構造になっており複数のダイを3D方向と2D方向に積層することで構成されている。
+
+具体的にはインターコネクト(Infinity Fabric)とL2キャッシュを搭載するFCD(TSMC N3P)が2チップ、PCI Express/UALinkやチップ間通信のインターコネクト(Infinity Fabric)用のI/Oダイ(IOD、TSMC N3P)が2チップ、コンピュートエンジンを搭載したXCD(TSMC N2)が8チップ、そ…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2127/474/001.jpg" alt="AMD、打倒NVIDIAのAI向けGPU「Instinct MI455X」と新ラック投入"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2127474.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2127/474/001.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2127/474/001.jpg"/></item>
+<item><title>AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」</title><link>https://pc.watch.impress.co.jp/docs/news/2127479.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2127479.html</guid><pubDate>Thu, 23 Jul 2026 18:30:00 +0000</pubDate><description><![CDATA[<p>AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」
+
+AMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、フィジカルAI向けの「Ryzen AI Embedded Processors」の最新製品となる「Ryzen AI Embedded X100 Series processors」を発表した。
+
+AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」
+
+AMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、フィジカルAI向けの「Ryzen AI Embedded Processors」の最新製品となる「Ryzen AI Embedded X100 Series processors」を発表した。
+
+Strix Halo/Golden HaloベースのRyzen AI Embedded X100
+
+AMDが発表したRyzen AI Embedded X100は、1月のCESでAMDが発表した「Ryzen AI Embedded P100 Series processors」の上位版製品となる。Ryzen AI Embedded P100は、Strix PointないしはGolden PointベースのSoCで、最大12コアのZen 5/Zen 5cコア、最大16CUのRDNA 3.5 GPU、最大50TOPSのNPUという構成になっていた。
+
+それに対して、Ryzen AI Embedded X100はStrix HaloないしはGolden Haloがベースになっており、CPUは最大16コア(8コアのダイが2つ)のZen 5、GPUは最大40CUのRDNA 3.5、そして50TOPSのXDNA2 NPUというスペックになっている。
+
+最大128GBのメモリを搭載可能で、CPU、GPU、NPUが大容量のメモリをシェアしてAIのローカル処理を行…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2127/479/001.jpg" alt="AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2127479.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2127/479/001.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2127/479/001.jpg"/></item>
+<item><title>バイブコーディングでAMD GPU最適化を実現する魔法のツール「ROCm.AI」</title><link>https://pc.watch.impress.co.jp/docs/news/2127476.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2127476.html</guid><pubDate>Thu, 23 Jul 2026 18:30:00 +0000</pubDate><description><![CDATA[<p>バイブコーディングでAMD GPU最適化を実現する魔法のツール「ROCm.AI」
+
+AMDは、年次イベントとなる「AMD Advancing AI 2026」を7月22日と23日に米国カリフォルニア州サンフランシスコ市で開催している。2日目となった7月23日には、同社CEOのリサ・スー氏による基調講演が行なわれ、同社のAI向けソリューションなどが多数発表された。
+
+バイブコーディングでAMD GPU最適化を実現する魔法のツール「ROCm.AI」
+
+AMDは、年次イベントとなる「AMD Advancing AI 2026」を7月22日と23日に米国カリフォルニア州サンフランシスコ市で開催している。2日目となった7月23日には、同社CEOのリサ・スー氏による基調講演が行なわれ、同社のAI向けソリューションなどが多数発表された。
+
+この中でAMDは同社のGPU最適化ツール「ROCm」の新しいツールとなる「ROCm.AI」を発表。ROCm.AIはいわゆるバイブコーディングやAIコーディングなどと呼ばれる、エージェント型AIにコードを書かせる新しいプログラミング方法に対応したROCmとなる。
+
+新しく「ROCm CLI」と呼ばれるコマンドラインベースのユーザーインターフェイスをサポートし、エージェント型AIやバイブコーディングツールに対応し、GPUへの最適化をエージェント型AIと協調しながら行なえるようになる。
+
+エージェント型のコーディングツールと連携してGPU最適化を自動で行なうROCm.AI
+
+今、ソフトウェアのプログラミング環境は大きく転換している。LLMから構築されているエージェント型AIは高度なプログラミングが可能になっているため、人間はソフトウェアの仕様書を作り、エージェント型AIに渡せば、AIがその仕様書を元にプログラムのコードを書いて、プログラムをコンパイルして実行形式にし、動作検証(デバッグ)まで行なうというプロセスが当たり前になりつつある。
+
+そうした現状の中で、AMDはこれまで人間のプログラマー向けだけをターゲットにしてきたGPU最適化ツール「ROCm」の…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2127/476/001.jpg" alt="バイブコーディングでAMD GPU最適化を実現する魔法のツール「ROCm.AI」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2127476.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2127/476/001.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2127/476/001.jpg"/></item>
 <item><title>GeForce RTX 5000シリーズ出荷量、2026年7月下旬はさらに減少へ</title><link>https://www.nichepcgamer.com/archives/post-131113.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/post-131113.html</guid><pubDate>Thu, 23 Jul 2026 17:11:24 +0000</pubDate><description><![CDATA[<p>GeForce RTX 5000シリーズ出荷量、2026年7月下旬はさらに減少へ
 
 2026年7月下旬は、GeForce RTX 5000シリーズの出荷量がさらに減少するとの情報が出てきました。 中国語圏フォーラム博板堂のリーカー、低手一号氏は以下のようの述べています。 2026年...
@@ -8692,21 +8709,6 @@ USB Type-Cオス端子の両脇に押し出し用の突起があり、接続機�
 動作モードは、満充電後も待機電流が流れる機器（スマートフォンなど）向けの「ホワイトLEDモード」、満充電で電流がほぼゼロになる機器（モバイルバッテリーなど）向けの「ブルーLEDモード」の2種から選択できる。
 
 対応電力は最大140W（5V〜28V/最大5A）で、本体サイズは43×42×20mm。重量は約22g。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2126/111/s1.jpg" alt="充電完了で物理的にスマホから外れる「満タンデタッチャブル」がエアリアから"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2126111.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2126/111/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2126/111/s1.jpg"/></item>
-<item><title>��Warframe�פȡ�Soulframe�פΥե��󥤥٥��ȡ�TennoCon 2026�ɤ˥ƥ��ΤȻȼԤ����롣��ȯɽ�˴ؤ��Ƥγ�ȯ�ԥ��󥿥ӥ塼�⤪�Ϥ�����</title><link>https://www.4gamer.net/games/172/G017216/20260716024/</link><guid isPermaLink="true">https://www.4gamer.net/games/172/G017216/20260716024/</guid><pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate><description><![CDATA[<p>��Warframe�פȡ�Soulframe�פΥե��󥤥٥��ȡ�TennoCon 2026�ɤ˥ƥ��ΤȻȼԤ����롣��ȯɽ�˴ؤ��Ƥγ�ȯ�ԥ��󥿥ӥ塼�⤪�Ϥ�����
-
-Digital Extremesは7月10日，11日の2日間，開発・運営するオンラインアクションRPG「Warframe」と，現在開発中でクローズドαテストが実施されている新作「Soulframe」…
-
-「Warframe」と「Soulframe」のファンイベント“TennoCon 2026”にテンノと使者が集結。新発表に関しての開発者インタビューもお届けする ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
-
-↓アイコン/タイトル↓ 私の新品Switch2の記録は，6:50:31でした ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 「プロスピ2026」は，歴代日本代表で挑めるWBCモード搭載！ “最強の侍”はどのチームなのか，時代を超えた夢の対戦を目撃した ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 「スプラトゥーン レイダース」は，Directでたくさん情報が出たからこそこれからに注目！ 発売日までの“お祭り感”を楽しもう ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 本日発売「DEAD OR ALIVE 6 Last Round」の初心者向けガイド。基本無料版で，奥深い3D格闘ゲームをまず浅瀬から体験しよう！ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 「SteamNEXTフェス 6月エディション」オススメタイトルまとめ。片っ端から遊…</p><p><img src="https://www.4gamer.net/games/172/G017216/20260716024/SS/005.jpg" alt="��Warframe�פȡ�Soulframe�פΥե��󥤥٥��ȡ�TennoCon 2026�ɤ˥ƥ��ΤȻȼԤ����롣��ȯɽ�˴ؤ��Ƥγ�ȯ�ԥ��󥿥ӥ塼�⤪�Ϥ�����"></p>]]></description><source url="https://www.4gamer.net/games/172/G017216/20260716024/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/172/G017216/20260716024/SS/005.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/172/G017216/20260716024/SS/005.jpg"/></item>
 <item><title>�Υ��󥿥ӥ塼�ϡ�EWC 2026�פ�����΢����������Esports Foundation�δ���4�ͤ�ʹ�������Ļ��⤫�饿���ȥ����ꡤ���ܻԾ���ɾ���ޤ�</title><link>https://www.4gamer.net/games/991/G999107/20260710035/</link><guid isPermaLink="true">https://www.4gamer.net/games/991/G999107/20260710035/</guid><pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate><description><![CDATA[<p>�Υ��󥿥ӥ塼�ϡ�EWC 2026�פ�����΢����������Esports Foundation�δ���4�ͤ�ʹ�������Ļ��⤫�饿���ȥ����ꡤ���ܻԾ���ɾ���ޤ�
 
 Esports Foundationは，世界最大級のeスポーツイベント「Esports World Cup 2026」を，フランス・パリで7月6日から8月23日まで開催している。本稿では，同団体の幹…
@@ -8722,6 +8724,21 @@ Esports Foundationは，世界最大級のeスポーツイベント「Esports Wo
 ↓アイコン/タイトル↓ 本日発売「DEAD OR ALIVE 6 Last Round」の初心者向けガイド。基本無料版で，奥深い3D格闘ゲームをまず浅瀬から体験しよう！ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
 
 ↓アイコン/タイトル↓ 「SteamNEXTフェス 6月エディション」オススメタイトルまとめ。片…</p><p><img src="https://www.4gamer.net/games/991/G999107/20260710035/SS/007.jpg" alt="�Υ��󥿥ӥ塼�ϡ�EWC 2026�פ�����΢����������Esports Foundation�δ���4�ͤ�ʹ�������Ļ��⤫�饿���ȥ����ꡤ���ܻԾ���ɾ���ޤ�"></p>]]></description><source url="https://www.4gamer.net/games/991/G999107/20260710035/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/991/G999107/20260710035/SS/007.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/991/G999107/20260710035/SS/007.jpg"/></item>
+<item><title>��Warframe�פȡ�Soulframe�פΥե��󥤥٥��ȡ�TennoCon 2026�ɤ˥ƥ��ΤȻȼԤ����롣��ȯɽ�˴ؤ��Ƥγ�ȯ�ԥ��󥿥ӥ塼�⤪�Ϥ�����</title><link>https://www.4gamer.net/games/172/G017216/20260716024/</link><guid isPermaLink="true">https://www.4gamer.net/games/172/G017216/20260716024/</guid><pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate><description><![CDATA[<p>��Warframe�פȡ�Soulframe�פΥե��󥤥٥��ȡ�TennoCon 2026�ɤ˥ƥ��ΤȻȼԤ����롣��ȯɽ�˴ؤ��Ƥγ�ȯ�ԥ��󥿥ӥ塼�⤪�Ϥ�����
+
+Digital Extremesは7月10日，11日の2日間，開発・運営するオンラインアクションRPG「Warframe」と，現在開発中でクローズドαテストが実施されている新作「Soulframe」…
+
+「Warframe」と「Soulframe」のファンイベント“TennoCon 2026”にテンノと使者が集結。新発表に関しての開発者インタビューもお届けする ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
+
+↓アイコン/タイトル↓ 私の新品Switch2の記録は，6:50:31でした ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 「プロスピ2026」は，歴代日本代表で挑めるWBCモード搭載！ “最強の侍”はどのチームなのか，時代を超えた夢の対戦を目撃した ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 「スプラトゥーン レイダース」は，Directでたくさん情報が出たからこそこれからに注目！ 発売日までの“お祭り感”を楽しもう ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 本日発売「DEAD OR ALIVE 6 Last Round」の初心者向けガイド。基本無料版で，奥深い3D格闘ゲームをまず浅瀬から体験しよう！ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 「SteamNEXTフェス 6月エディション」オススメタイトルまとめ。片っ端から遊…</p><p><img src="https://www.4gamer.net/games/172/G017216/20260716024/SS/005.jpg" alt="��Warframe�פȡ�Soulframe�פΥե��󥤥٥��ȡ�TennoCon 2026�ɤ˥ƥ��ΤȻȼԤ����롣��ȯɽ�˴ؤ��Ƥγ�ȯ�ԥ��󥿥ӥ塼�⤪�Ϥ�����"></p>]]></description><source url="https://www.4gamer.net/games/172/G017216/20260716024/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/172/G017216/20260716024/SS/005.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/172/G017216/20260716024/SS/005.jpg"/></item>
 <item><title>(アキバ取材班) GIGABYTE 40周年記念展スタート、歴代マザーボードが秋葉原に集結</title><link>https://www.gdm.or.jp/crew/2026/0718/644424</link><guid isPermaLink="true">https://www.gdm.or.jp/crew/2026/0718/644424</guid><pubDate>Fri, 17 Jul 2026 23:52:24 +0000</pubDate><description><![CDATA[<p>(アキバ取材班) GIGABYTE 40周年記念展スタート、歴代マザーボードが秋葉原に集結
 
 GIGABYTE創業40周年を記念した展示イベントが秋葉原でスタート。青基板時代の歴代マザーボードやグラフィックスカードなど貴重なレガシー製品を写真とともに紹介する。
@@ -9170,33 +9187,4 @@ iPad mini（A17 Pro）の整備済製品の価格と割引率
 iPad mini 6の整備済製品は、米国のAppleオンラインストアで 2023年2月10日に販売が開始 されました。日本のAppleオンラインストアで販売が開始されたのは2023年3月30日でしたので、 米国からおよそ45日遅れ でした。
 
 iPad mini（A17 Pro）の整備済製品の販売も同程度の日程で日本のAppleオンラインストアでの取り扱いが開始されるとすれば、…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/07/17/ipad-mini-a17-refurb-usa_1200.jpg" alt="iPad mini（A17 Pro）の整備済製品が8月下旬に販売開始か〜予想価格は？"></p>]]></description><source url="https://iphone-mania.jp/ipadmini-603652/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/07/17/ipad-mini-a17-refurb-usa_1200.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/07/17/ipad-mini-a17-refurb-usa_1200.jpg"/></item>
-<item><title>Apple Watch Series 10/11などが入荷〜整備済製品【7/17】</title><link>https://iphone-mania.jp/sale-603648/</link><guid isPermaLink="true">https://iphone-mania.jp/sale-603648/</guid><pubDate>Fri, 17 Jul 2026 12:06:53 +0000</pubDate><description><![CDATA[<p>Apple Watch Series 10/11などが入荷〜整備済製品【7/17】
-
-Apple Watch整備済製品として本日、Apple Watch Series 10とApple Watch Series 11が入荷し、Apple Watch Ultra 2とApple Watch Ultra 3の在庫が増加しました。
-
-Apple Watch Series 10/11などが入荷〜整備済製品【7/17】
-
-Apple Watch整備済製品 として本日、 Apple Watch Series 10とApple Watch Series 11が入荷 し、 Apple Watch Ultra 2とApple Watch Ultra 3の在庫が増加 しました。
-
-Apple Watch SE 2とApple Watch SE 3の整備済製品は、在庫なし（入荷せず）のままです。
-
-2026年7月17日午後9時5分時点で販売されている、 Apple Watch整備済製品 の在庫と販売価格は下記の通りです。
-
-Apple品質認定のApple Watch 整備済製品 についてAppleは、下記のように説明しています。
-
-Apple Watch整備済製品は、すべてのモデルに1年間の保証が付いています。最短で翌日に無料でお届けし、返品も無料です
-
-ほかにも、以下のものが含まれます 完全な動作テストおよび徹底したクリーニング
-
-出荷時のオペレーティングシステム、またはより最新のオペレーティングシステム
-
-整備済製品はすべて、必要なアクセサリやケーブルとともに新品の箱に再梱包されます
-
-お客様のデバイスが出荷時のオペレーティングシステム（原文では、オペレーションシステム）を搭載した状態で出荷された場合も、最新バーション（原文では、最新バーション）をApp Storeから無料でダウンロードできます
-
-数量限定につき、在庫状況は購入代金全額のお支払いが完了した時点で保証されます
-
-Source: Apple Watch整備済製品/Apple
-
---PR-- [公式] - iPhoneの購入や…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/07/17/apple-watch-refurb-0717_1200.jpg" alt="Apple Watch Series 10/11などが入荷〜整備済製品【7/17】"></p>]]></description><source url="https://iphone-mania.jp/sale-603648/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/07/17/apple-watch-refurb-0717_1200.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/07/17/apple-watch-refurb-0717_1200.jpg"/></item>
 </channel></rss>
