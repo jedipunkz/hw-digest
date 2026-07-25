@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sat, 25 Jul 2026 22:09:44 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sat, 25 Jul 2026 23:11:57 +0000</lastBuildDate>
+<item><title>ファーウェイは独自のDRAM工場を建設中で、誰にとってもRAMの価格が再形成される可能性がある</title><link>https://www.xda-developers.com/huawei-is-building-its-own-dram-fab-and-it-could-reshape-ram-prices-for-everyone/</link><guid isPermaLink="true">https://www.xda-developers.com/huawei-is-building-its-own-dram-fab-and-it-could-reshape-ram-prices-for-everyone/</guid><pubDate>Sat, 25 Jul 2026 23:00:10 +0000</pubDate><description><![CDATA[<p>ファーウェイは独自のDRAM工場を建設中で、誰にとってもRAMの価格が再形成される可能性がある
+
+市場はこれに熱望しており、それは1年も続いています
+
+ファーウェイは独自のDRAM工場を建設中で、誰にとってもRAMの価格が再形成される可能性がある
+
+By Abhinav Raj 公開 2026 年 7 月 25 日、午後 7:00 EDT アビナフは、銀行業界でのキャリアから方向転換して、初恋を作家として追求しました。フルタイムで働きながらも、編集長として貢献を続け、その役割を 7 年以上務めました。 2018 年以来、ゲームと生産性に優れた PC を 3 台構築してきた生涯のテクノロジー愛好家である彼は、テクノロジーに対する情熱により、NVIDIA や AMD から ARM に至るまで、半導体業界を常に追い続けています。彼の修士論文は、人工知能が仕事の未来をどのように再形成するかを探求し、新興テクノロジーのより広範な社会的影響に対する彼の好奇心を反映しています。 XDA アカウントにサインインする 消費者向けテクノロジー経済には、より多くの DRAM メーカーが必要であり、おそらくその歴史のどの時点よりも緊急に必要とされています。価格動向を追跡している人なら誰でも、AI インフラストラクチャの絶え間ない需要を背景にメモリ価格が成層圏にまで上昇し、RAM に依存するすべての消費者向けデバイスが四半期ごとに高騰から手の届かない状態に移行し、ほとんど救済の目途が立たないことを知っているでしょう。
+
+だからこそ、現在の噂の段階であっても、深センからの話は注目に値するのである。 Xでさまざまな半導体アナリストが流布した詳細によると、中国政府、DRAMメーカーのスウェイシュア、中国のハイテク大手ファーウェイが提携して12インチメモリ生産工場を設立したという。この報告が真実であれば、今後何年にもわたってメモリの経済学が変わる可能性がありますが、必ずしも期待どおりになるとは限りません。
+
+ファーウェイは独自のDRAM工場を建設していると報じられている
+
+そしてそれはファーウェイが何年…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/2015/07/Huawei1.png?w=1200&amp;h=675&amp;fit=crop" alt="ファーウェイは独自のDRAM工場を建設中で、誰にとってもRAMの価格が再形成される可能性がある"></p>]]></description><source url="https://www.xda-developers.com/huawei-is-building-its-own-dram-fab-and-it-could-reshape-ram-prices-for-everyone/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2015/07/Huawei1.png?w=1200&amp;h=675&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2015/07/Huawei1.png?w=1200&amp;h=675&amp;fit=crop"/></item>
+<item><title>3 つのカメラの True Color 赤外線ビデオを撮影する</title><link>https://hackaday.com/2026/07/25/taking-tri-camera-true-color-infrared-videos/</link><guid isPermaLink="true">https://hackaday.com/2026/07/25/taking-tri-camera-true-color-infrared-videos/</guid><pubDate>Sat, 25 Jul 2026 23:00:00 +0000</pubDate><description><![CDATA[<p>3 つのカメラの True Color 赤外線ビデオを撮影する
+
+シリコン ベースの CMOS カメラ センサーは安価で豊富にありますが、その可能性を最大限に活用することはめったにありません。センサーは赤外線スペクトルのより広い範囲の波長を検出できます。
+
+シリコン ベースの CMOS カメラ センサーは安価で豊富にありますが、その潜在能力を最大限に活用することはほとんどありません。センサーは可視スペクトルよりも赤外線スペクトルのより広い範囲の波長を検出できますが、ほとんどのカメラではこれが IR カット フィルターによってブロックされます。 [Project 326] の赤外線カメラ システムはこれを逆転させ、可視光を遮断しながら赤外線画像をカラーで記録します。
+
+このシステムは 3 台の USB Web カメラを使用しており、それぞれの IR カット フィルターが取り外され、別の二色性 IR バンドパス フィルターに置き換えられています。 1 つのフィルターは 750 nm、1 つは 850 nm、もう 1 つは 940 nm を中心にしています。バンドの重複はありません。テストでは、各カメラは、独自のフィルター波長に調整された赤外線フラッシュライトのみを検出しました。オリジナルのカメラはセンサーを一定の位置に保持していなかったので、[Project 326] は新しいハウジングを設計しました。それぞれに異なる収差を持つ 3 つのレンズを使用すると、位置合わせにいくつかの困難が生じました。 [プロジェクト 326] は当初、1 つのレンズのみを備えた 1 対のビーム分割プリズムを使用することを意図していましたが、3D プリントされたフレームを使用して調整するのは非常に困難であることが判明しました。
+
+Raspberry Pi は、各カメラからの個別のモノクロ ストリームを記録し、それを処理してコンポジット カラー ビデオを生成できます。最初のフレームは手動で位置合わせする必要がありますが、その後はスクリプトによってビデオの残りの部分に位置合わせを適用できます。最後に…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/07/infrared_color_photo.png" alt="3 つのカメラの True Color 赤外線ビデオを撮影する"></p>]]></description><source url="https://hackaday.com/2026/07/25/taking-tri-camera-true-color-infrared-videos/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/07/infrared_color_photo.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/07/infrared_color_photo.png"/></item>
+<item><title>God of War Laufey gets a release date and Kratos is making a return</title><link>https://www.tweaktown.com/rss/click/news/112835/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112835/?c=news-mf</guid><pubDate>Sat, 25 Jul 2026 22:25:10 +0000</pubDate><description><![CDATA[<p>God of War Laufey gets a release date and Kratos is making a return</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112835/?c=news-mf">TweakTown</source></item>
 <item><title>1 週間の実際の作業で 3 つのローカル コーディング モデルを使用しましたが、最も小さいモデルが優先されました。</title><link>https://www.xda-developers.com/i-used-three-local-coding-models-for-a-week-of-real-work-and-only-one-earned-a-permanent-spot/</link><guid isPermaLink="true">https://www.xda-developers.com/i-used-three-local-coding-models-for-a-week-of-real-work-and-only-one-earned-a-permanent-spot/</guid><pubDate>Sat, 25 Jul 2026 22:00:10 +0000</pubDate><description><![CDATA[<p>1 週間の実際の作業で 3 つのローカル コーディング モデルを使用しましたが、最も小さいモデルが優先されました。
 
 ダビデはゴリアテと戦い、残りは歴史です
@@ -1399,8 +1422,8 @@ Home Assistant は静かに Matter サーバーを Python から TypeScript に�
 By Joe Rice-Jones Published Jul 24, 2026, 1:30 PM EDT Maker、meme-r、そして恥ずかしがり屋のオタクである Joe は、2018 年に KnowTechie でキャリアをスタートして以来、テクノロジーについて執筆してきました。彼は Apple からアプリ、クラウドファンディングまであらゆるものをカバーしており、複雑なトピックの本質に迫るのが大好きです。その間、彼は、2023 年の春に XDA に本拠地を置くまで、SlashGear や多数の法人顧客向けにも記事を書いていました。彼は、たとえ後で完全に元に戻らなかったとしても、すべてのおもちゃを分解して、どのように機能するかを確認する子供でした。これにより、複雑なシステムがどのように連携して機能するかを説明するための確かな背景が得られ、それ以来、物事を元に戻す段階でうまくなったと彼は約束します。 XDA アカウントにサインインします。最初は気づかなかったことを認めます。 Matter デバイスは動作し続け、Home Assistant ダッシュボードには正しい状態が表示され続け、ログには注意を促すような内容は何もありませんでした。しかし、その内部では、Home Assistant は最も重要なコンポーネントの 1 つを交換しています。スマート ホームとネットワーク上のすべての Matter デバイスの間にある Matter サーバーは、ゼロから書き直され、公式 C++ CHIP SDK を介した Python バインディングから、Matter プロトコル全体の…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/matter-server-home-assistant-on-eink-device-2.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Home Assistant は静かに Matter サーバーを Python から TypeScript に書き換えました - 何が変わったかは次のとおりです"></p>]]></description><source url="https://www.xda-developers.com/home-assistant-quietly-rewrote-its-matter-server-from-python-to-typescript-heres-what-changed/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/matter-server-home-assistant-on-eink-device-2.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/matter-server-home-assistant-on-eink-device-2.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>Blizzard fires World of Warcraft game master for abusing god-like powers</title><link>https://www.tweaktown.com/news/112822/blizzard-fires-world-of-warcraft-game-master-for-abusing-god-like-powers/index.html</link><guid isPermaLink="true">https://www.tweaktown.com/news/112822/blizzard-fires-world-of-warcraft-game-master-for-abusing-god-like-powers/index.html</guid><pubDate>Fri, 24 Jul 2026 17:29:09 +0000</pubDate><description><![CDATA[<p>Blizzard fires World of Warcraft game master for abusing god-like powers</p>]]></description><source url="https://www.tweaktown.com/news/112822/blizzard-fires-world-of-warcraft-game-master-for-abusing-god-like-powers/index.html">TweakTown</source></item>
 <item><title>Blizzard fires World of Warcraft game master for abusing god-like powers</title><link>https://www.tweaktown.com/rss/click/news/112822/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112822/?c=news-mf</guid><pubDate>Fri, 24 Jul 2026 17:29:09 +0000</pubDate><description><![CDATA[<p>Blizzard fires World of Warcraft game master for abusing god-like powers</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112822/?c=news-mf">TweakTown</source></item>
-<item><title>GIGABYTE adds CXMT DDR5 support to AM5 motherboards, supporting speeds up to 8200 MT/s</title><link>https://www.tweaktown.com/news/112825/gigabyte-adds-cxmt-ddr5-support-to-am5-motherboards-supporting-speeds-up-to-8200-mt-s/index.html</link><guid isPermaLink="true">https://www.tweaktown.com/news/112825/gigabyte-adds-cxmt-ddr5-support-to-am5-motherboards-supporting-speeds-up-to-8200-mt-s/index.html</guid><pubDate>Fri, 24 Jul 2026 17:05:10 +0000</pubDate><description><![CDATA[<p>GIGABYTE adds CXMT DDR5 support to AM5 motherboards, supporting speeds up to 8200 MT/s</p>]]></description><source url="https://www.tweaktown.com/news/112825/gigabyte-adds-cxmt-ddr5-support-to-am5-motherboards-supporting-speeds-up-to-8200-mt-s/index.html">TweakTown</source></item>
 <item><title>GIGABYTE adds CXMT DDR5 support to AM5 motherboards, supporting speeds up to 8200 MT/s</title><link>https://www.tweaktown.com/rss/click/news/112825/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112825/?c=news-mf</guid><pubDate>Fri, 24 Jul 2026 17:05:10 +0000</pubDate><description><![CDATA[<p>GIGABYTE adds CXMT DDR5 support to AM5 motherboards, supporting speeds up to 8200 MT/s</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112825/?c=news-mf">TweakTown</source></item>
+<item><title>GIGABYTE adds CXMT DDR5 support to AM5 motherboards, supporting speeds up to 8200 MT/s</title><link>https://www.tweaktown.com/news/112825/gigabyte-adds-cxmt-ddr5-support-to-am5-motherboards-supporting-speeds-up-to-8200-mt-s/index.html</link><guid isPermaLink="true">https://www.tweaktown.com/news/112825/gigabyte-adds-cxmt-ddr5-support-to-am5-motherboards-supporting-speeds-up-to-8200-mt-s/index.html</guid><pubDate>Fri, 24 Jul 2026 17:05:10 +0000</pubDate><description><![CDATA[<p>GIGABYTE adds CXMT DDR5 support to AM5 motherboards, supporting speeds up to 8200 MT/s</p>]]></description><source url="https://www.tweaktown.com/news/112825/gigabyte-adds-cxmt-ddr5-support-to-am5-motherboards-supporting-speeds-up-to-8200-mt-s/index.html">TweakTown</source></item>
 <item><title>この 330 ドルの Acer QD-OLED モニターは、実際に誇大宣伝を正当化するゲーム用アップグレードです</title><link>https://www.xda-developers.com/acer-predator-qd-oled-gaming-monitor-330-deal/</link><guid isPermaLink="true">https://www.xda-developers.com/acer-predator-qd-oled-gaming-monitor-330-deal/</guid><pubDate>Fri, 24 Jul 2026 17:01:47 +0000</pubDate><description><![CDATA[<p>この 330 ドルの Acer QD-OLED モニターは、実際に誇大宣伝を正当化するゲーム用アップグレードです
 
 大幅な後押し
@@ -1762,8 +1785,8 @@ AMD 幹部は Nvidia の Vera のパフォーマンス結果を見て「非常�
 AMDのコンピューティングおよびエンタープライズソリューション担当コーポレートVPであるRavi Kuppuswany氏は、「NvidiaがVeraのパフォーマンス[数値]を公開したことを非常に嬉しく思います」と述べています。 「私たちは実際には少し保守的でした。実際、ここで得ている数字よりも小さな数字で彼らに勝っていると思っていました…少なくとも10％のアドバンテージがあると考えていました。私たちが発見しているのは…私たちは20％のアドバンテージを持っており、完全な調整さえ終わっていません。」
 
 Kuppuswany 氏のコメントは、上のスライドに重ねて表示されており、Vera と比較して Venice のスループット…</p><p><img src="https://cdn.mos.cms.futurecdn.net/GgKtqC6WfyG7GUmJoH4H7o-1999-80.jpg" alt="AMD 幹部は Nvidia の Vera のパフォーマンス結果を見て「非常に満足」 – 「実際には、もっと小さな数字で我々が彼らを上回っていると思っていました」"></p>]]></description><source url="https://www.tomshardware.com/pc-components/cpus/amd-exec-was-very-happy-to-see-nvidias-vera-performance-results-i-actually-thought-we-were-beating-them-by-smaller-numbers">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/GgKtqC6WfyG7GUmJoH4H7o-1999-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/GgKtqC6WfyG7GUmJoH4H7o-1999-80.jpg"/></item>
-<item><title>Xbox 360 tech powers backwards compatibility on PC, original Xbox games use Xefu emulation</title><link>https://www.tweaktown.com/news/112799/xbox-360-tech-powers-backwards-compatibility-on-pc-original-xbox-games-use-xefu-emulation/index.html</link><guid isPermaLink="true">https://www.tweaktown.com/news/112799/xbox-360-tech-powers-backwards-compatibility-on-pc-original-xbox-games-use-xefu-emulation/index.html</guid><pubDate>Fri, 24 Jul 2026 14:33:09 +0000</pubDate><description><![CDATA[<p>Xbox 360 tech powers backwards compatibility on PC, original Xbox games use Xefu emulation</p>]]></description><source url="https://www.tweaktown.com/news/112799/xbox-360-tech-powers-backwards-compatibility-on-pc-original-xbox-games-use-xefu-emulation/index.html">TweakTown</source></item>
 <item><title>Xbox 360 tech powers backwards compatibility on PC, original Xbox games use Xefu emulation</title><link>https://www.tweaktown.com/rss/click/news/112799/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112799/?c=news-mf</guid><pubDate>Fri, 24 Jul 2026 14:33:09 +0000</pubDate><description><![CDATA[<p>Xbox 360 tech powers backwards compatibility on PC, original Xbox games use Xefu emulation</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112799/?c=news-mf">TweakTown</source></item>
+<item><title>Xbox 360 tech powers backwards compatibility on PC, original Xbox games use Xefu emulation</title><link>https://www.tweaktown.com/news/112799/xbox-360-tech-powers-backwards-compatibility-on-pc-original-xbox-games-use-xefu-emulation/index.html</link><guid isPermaLink="true">https://www.tweaktown.com/news/112799/xbox-360-tech-powers-backwards-compatibility-on-pc-original-xbox-games-use-xefu-emulation/index.html</guid><pubDate>Fri, 24 Jul 2026 14:33:09 +0000</pubDate><description><![CDATA[<p>Xbox 360 tech powers backwards compatibility on PC, original Xbox games use Xefu emulation</p>]]></description><source url="https://www.tweaktown.com/news/112799/xbox-360-tech-powers-backwards-compatibility-on-pc-original-xbox-games-use-xefu-emulation/index.html">TweakTown</source></item>
 <item><title>Gemma 4 は軽量で、16 GB のラップトップで動作し、オフラインでも生産性を維持するのに費用は 0 ドルです</title><link>https://www.xda-developers.com/gemma-4-is-lightweight-runs-on-my-16gb-laptop-and-costs-0-to-keep-me-productive-offline/</link><guid isPermaLink="true">https://www.xda-developers.com/gemma-4-is-lightweight-runs-on-my-16gb-laptop-and-costs-0-to-keep-me-productive-offline/</guid><pubDate>Fri, 24 Jul 2026 14:30:10 +0000</pubDate><description><![CDATA[<p>Gemma 4 は軽量で、16 GB のラップトップで動作し、オフラインでも生産性を維持するのに費用は 0 ドルです
 
 私が所有しているラップトップにはこれが搭載されていないものはありません
@@ -2897,35 +2920,6 @@ ESP32-AI は、一貫したストーリーを伝えることができる ESP32-S
 ESP32 の小さなサイズと RAM の制限を考慮すると、オンチップで最大 9 トークン/秒で完全に実行されます。
 
 LLM が世間の注目を集めて以来、人々は見つけられる限りの小さなものに LLM を詰め込もうとしてきました。 Raspberry Pi と ESP32 の両方を使用して AI をローカルで実行し、さまざまな結果が得られる様子を私たちは…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/esp32-ai-featured.jpg?w=1600&amp;h=900&amp;fit=crop" alt="誰かが 2890 万 LLM を ESP32-S3 に押し込んだので、あなたも同じことができます"></p>]]></description><source url="https://www.xda-developers.com/someone-squeezed-a-289m-llm-onto-an-esp32-s3-and-so-can-you/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/esp32-ai-featured.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/esp32-ai-featured.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>Xbox が広告付きの無料ゲーム ストリーミングをテスト</title><link>https://www.techpowerup.com/351042/xbox-tests-ad-supported-free-game-streaming</link><guid isPermaLink="true">https://www.techpowerup.com/351042/xbox-tests-ad-supported-free-game-streaming</guid><pubDate>Fri, 24 Jul 2026 01:18:33 +0000</pubDate><description><![CDATA[<p>Xbox が広告付きの無料ゲーム ストリーミングをテスト
-
-Microsoft が Xbox Cloud ストリーミング サービスの広告サポート バージョンを計画していることを以前に報告しましたが、Xbox Wire による新しい投稿により、この噂がついに実現しつつあることが確認され、Xbox Insider は Xbox アカウント経由で広告サポートの無料ゲーム ストリーミングにアクセスできるようになりました。
-
-Xbox が広告付きの無料ゲーム ストリーミングをテスト
-
-まずはプレーヤーから始めます。広告は価値を生み出す必要があります。
-
-ゲームプレイの流れを中断することはありません。
-
-当社では、広告の品質をコンテンツと同じ基準に保っています。
-
-私たちは何が広告なのかを明確にしています。
-
-私たちは、各プラットフォームでプレーヤーが期待するものに広告が確実に適合するようにします。
-
-2026 年 6 月 7 日 Microsoft、Xbox Series X25 Limited Edition を発表、11 月に発売 (33)
-
-2026 年 4 月 11 日 Microsoft、バッテリーレスの Xbox コントローラーを謝罪、修正のために充電式キットを送付 (35)
-
-2026 年 6 月 12 日 Xbox ゲーム CSO がゲーム内の広告を「手頃な価格の代替案」として売り込む (54)
-
-2025 年 7 月 29 日 ASUS ROG Xbox Ally の予約注文日と価格が明らかに Gamescom の開始に先立ってリーク (8)
-
-2026 年 5 月 22 日 Xbox ゲームが独占アイテムを再評価しているにもかかわらず、クロスプラットフォームの発売は不可能 (12)
-
-2026 年 4 月 20 日 最新のリークにより、Xbox Helix は事実上カスタム APU を持たない単なる PC になることが明らかに (26)
-
-2026 年 3 月 14 日 Microsoft は 2026 年に Xbox シリーズ コンソールにゲーミング コパイ…</p><p><img src="https://www.techpowerup.com/img/eeFzhgbvBdSGKRck.jpg" alt="Xbox が広告付きの無料ゲーム ストリーミングをテスト"></p>]]></description><source url="https://www.techpowerup.com/351042/xbox-tests-ad-supported-free-game-streaming">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/eeFzhgbvBdSGKRck.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/eeFzhgbvBdSGKRck.jpg"/></item>
 <item><title>Xbox が無料の広告付きゲーム ストリーミングをテスト</title><link>https://www.techpowerup.com/351042/xbox-tests-free-ad-supported-game-streaming</link><guid isPermaLink="true">https://www.techpowerup.com/351042/xbox-tests-free-ad-supported-game-streaming</guid><pubDate>Fri, 24 Jul 2026 01:18:33 +0000</pubDate><description><![CDATA[<p>Xbox が無料の広告付きゲーム ストリーミングをテスト
 
 Microsoft が Xbox Cloud ストリーミング サービスの広告サポート バージョンを計画していることを以前に報告しましたが、Xbox Wire による新しい投稿により、この噂がついに実現しつつあることが確認され、Xbox Insider は Xbox アカウント経由で広告サポートの無料ゲーム ストリーミングにアクセスできるようになりました。
@@ -2955,6 +2949,35 @@ Xbox が無料の広告付きゲーム ストリーミングをテスト
 2026 年 4 月 20 日 最新のリークにより、Xbox Helix は事実上カスタム APU を持たない単なる PC になることが明らかに (26)
 
 2026 年 3 月 14 日 Microsoft は 2026 年に Xbox シリーズ コンソールにゲーミング コパイ…</p><p><img src="https://www.techpowerup.com/img/eeFzhgbvBdSGKRck.jpg" alt="Xbox が無料の広告付きゲーム ストリーミングをテスト"></p>]]></description><source url="https://www.techpowerup.com/351042/xbox-tests-free-ad-supported-game-streaming">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/eeFzhgbvBdSGKRck.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/eeFzhgbvBdSGKRck.jpg"/></item>
+<item><title>Xbox が広告付きの無料ゲーム ストリーミングをテスト</title><link>https://www.techpowerup.com/351042/xbox-tests-ad-supported-free-game-streaming</link><guid isPermaLink="true">https://www.techpowerup.com/351042/xbox-tests-ad-supported-free-game-streaming</guid><pubDate>Fri, 24 Jul 2026 01:18:33 +0000</pubDate><description><![CDATA[<p>Xbox が広告付きの無料ゲーム ストリーミングをテスト
+
+Microsoft が Xbox Cloud ストリーミング サービスの広告サポート バージョンを計画していることを以前に報告しましたが、Xbox Wire による新しい投稿により、この噂がついに実現しつつあることが確認され、Xbox Insider は Xbox アカウント経由で広告サポートの無料ゲーム ストリーミングにアクセスできるようになりました。
+
+Xbox が広告付きの無料ゲーム ストリーミングをテスト
+
+まずはプレーヤーから始めます。広告は価値を生み出す必要があります。
+
+ゲームプレイの流れを中断することはありません。
+
+当社では、広告の品質をコンテンツと同じ基準に保っています。
+
+私たちは何が広告なのかを明確にしています。
+
+私たちは、各プラットフォームでプレーヤーが期待するものに広告が確実に適合するようにします。
+
+2026 年 6 月 7 日 Microsoft、Xbox Series X25 Limited Edition を発表、11 月に発売 (33)
+
+2026 年 4 月 11 日 Microsoft、バッテリーレスの Xbox コントローラーを謝罪、修正のために充電式キットを送付 (35)
+
+2026 年 6 月 12 日 Xbox ゲーム CSO がゲーム内の広告を「手頃な価格の代替案」として売り込む (54)
+
+2025 年 7 月 29 日 ASUS ROG Xbox Ally の予約注文日と価格が明らかに Gamescom の開始に先立ってリーク (8)
+
+2026 年 5 月 22 日 Xbox ゲームが独占アイテムを再評価しているにもかかわらず、クロスプラットフォームの発売は不可能 (12)
+
+2026 年 4 月 20 日 最新のリークにより、Xbox Helix は事実上カスタム APU を持たない単なる PC になることが明らかに (26)
+
+2026 年 3 月 14 日 Microsoft は 2026 年に Xbox シリーズ コンソールにゲーミング コパイ…</p><p><img src="https://www.techpowerup.com/img/eeFzhgbvBdSGKRck.jpg" alt="Xbox が広告付きの無料ゲーム ストリーミングをテスト"></p>]]></description><source url="https://www.techpowerup.com/351042/xbox-tests-ad-supported-free-game-streaming">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/eeFzhgbvBdSGKRck.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/eeFzhgbvBdSGKRck.jpg"/></item>
 <item><title>NVIDIA is reportedly increasing the prices of its GeForce RTX GPUs due to rising memory costs</title><link>https://www.tweaktown.com/news/112801/nvidia-is-reportedly-increasing-the-prices-of-its-geforce-rtx-gpus-due-to-rising-memory-costs/index.html</link><guid isPermaLink="true">https://www.tweaktown.com/news/112801/nvidia-is-reportedly-increasing-the-prices-of-its-geforce-rtx-gpus-due-to-rising-memory-costs/index.html</guid><pubDate>Fri, 24 Jul 2026 01:06:09 +0000</pubDate><description><![CDATA[<p>NVIDIA is reportedly increasing the prices of its GeForce RTX GPUs due to rising memory costs</p>]]></description><source url="https://www.tweaktown.com/news/112801/nvidia-is-reportedly-increasing-the-prices-of-its-geforce-rtx-gpus-due-to-rising-memory-costs/index.html">TweakTown</source></item>
 <item><title>Debian が当然の選択であるように見えますが、Ubuntu LTS は最高の Proxmox LXC ベースです</title><link>https://www.xda-developers.com/ubuntu-lts-is-the-best-proxmox-lxc-base-even-though-debian-seems-like-the-obvious-choice/</link><guid isPermaLink="true">https://www.xda-developers.com/ubuntu-lts-is-the-best-proxmox-lxc-base-even-though-debian-seems-like-the-obvious-choice/</guid><pubDate>Fri, 24 Jul 2026 00:00:10 +0000</pubDate><description><![CDATA[<p>Debian が当然の選択であるように見えますが、Ubuntu LTS は最高の Proxmox LXC ベースです
 
@@ -2987,19 +3010,6 @@ Onyx が XTEINK と競合したい場合は、価格を約 99 ドルから最大
 これにより、いくつかの明らかな疑問が生じます。まず、USR はどのようにして電話番号を知るのでしょうか?次に、機械語プログラムはどこにあるのでしょうか?もちろん、詳細はシステムによって異なりますが、この場合、プログラムは、位置 259 に USR が呼び出したジャンプ命令があることを認識しています。したがって、260 と 261 にアドレスを入力すると、USR にアドレスをどこに送信するかを指示することになります。
 
 しかし、その住所には何があるのでしょうか？ Sorcerer のような古いコンピューターには、オペレ…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/07/wiz.png" alt="基本的にはレトロなマシン言語です"></p>]]></description><source url="https://hackaday.com/2026/07/23/basically-its-retro-machine-language/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/07/wiz.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/07/wiz.png"/></item>
-<item><title>Nvidia を捨てて AMD に切り替えた後、この切り替えについて実際に驚いた 4 つの点を以下に示します。</title><link>https://www.xda-developers.com/4-differences-between-nvidia-and-amd-gpus-that-i-wasnt-prepared-for/</link><guid isPermaLink="true">https://www.xda-developers.com/4-differences-between-nvidia-and-amd-gpus-that-i-wasnt-prepared-for/</guid><pubDate>Thu, 23 Jul 2026 23:00:10 +0000</pubDate><description><![CDATA[<p>Nvidia を捨てて AMD に切り替えた後、この切り替えについて実際に驚いた 4 つの点を以下に示します。
-
-私はレッドチームに切り替えることに完全に同意していましたが、次の 4 つのことに不意を突かれました。
-
-Nvidia を捨てて AMD に切り替えた後、この切り替えについて実際に驚いた 4 つの点を以下に示します。
-
-By Ty Sherback 更新日 2026 年 7 月 23 日、午後 7:00 EDT 彼の PC とそのコンポーネントに対する愛情は、ファミリー コンピューターのパフォーマンスをすべて絞り出そうとすることから生まれました。 10 歳のときに自分のビルドをいじっていたことが、友人や家族のために PC を作ることに変わり、最終的にキャリア パスとして形になる情熱を育みました。 Ty は、身近な人々への技術サポートの最初の電話であることに加えて、クラウド コンピューティングとネットワーキングに重点を置いているコンピューター サイエンスの学生でもあります。彼はセミプロの Counter-Strike にも 8 年間出場しており、周辺機器に関するあらゆることに精通しています。 XDA アカウントにサインインする 私はディスクリート GPU に関して、AMD と Nvidia の間を頻繁に行き来してきました。しかし、私は過去 2 世代にわたって AMD のエコシステムにしっかりと固定されてきました。私の最後の Nvidia GPU は GeForce RTX 4060 Ti で、その後 AMD の Radeon RX 7900 XT に移行し、最終的に RX 9070 XT になりました。これがたまたま私の 4K ゲームにとって絶対的なスイート スポットでした。私 (そして切り替えた多くの人) が予想していなかったのは、グリーン チームとレッド チームの間にいくつかの顕著な違いがあることでした。
-
-4 AMD の Linux サポートはより統合されていると感じます
-
-お気に入りのディストリビューションをインストールしてゲームを始めましょう
-
-Nvi…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/06/radeon_rx_9070_xt_sapphire_nitro_plus_gpu-1-1.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Nvidia を捨てて AMD に切り替えた後、この切り替えについて実際に驚いた 4 つの点を以下に示します。"></p>]]></description><source url="https://www.xda-developers.com/4-differences-between-nvidia-and-amd-gpus-that-i-wasnt-prepared-for/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/06/radeon_rx_9070_xt_sapphire_nitro_plus_gpu-1-1.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/06/radeon_rx_9070_xt_sapphire_nitro_plus_gpu-1-1.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>SSD は寿命が近づくと静かに知らせますが、Windows は警告サインを隠します</title><link>https://www.xda-developers.com/your-ssd-tells-you-when-its-dying-but-windows-hides-the-warning-signs/</link><guid isPermaLink="true">https://www.xda-developers.com/your-ssd-tells-you-when-its-dying-but-windows-hides-the-warning-signs/</guid><pubDate>Thu, 23 Jul 2026 23:00:10 +0000</pubDate><description><![CDATA[<p>SSD は寿命が近づくと静かに知らせますが、Windows は警告サインを隠します
 
 SSD ヘルスバーは意図的に誤解を招くものです
@@ -3017,6 +3027,19 @@ CrystalDiskInfo や Smartctl などのツールを使用して SSD SMART デー�
 ソリッド ステート ドライブがハード ドライブと同じように故障しないことは周知の事実です。それは、摩耗する回転するプラッターや可動ヘッドがないからです。ただし、SSD 内のすべてのフラッシュ セルには、最終的に劣化が始まるまでに有限数のプログラムおよび消去サイクルが伴います。
 
 実際、ドライブは実際に問題が発生するずっと前に、使用可能な寿命がどれだけ消耗したかを記録します。ただし、問題は、SSD 自体に巨大なヘルスバーが刻印されていないことです。そこで Windows …</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/xpg-adata-gammix-s70-blade-2tb-ssd-with-crystal-disk-mark-running.jpg?w=1600&amp;h=900&amp;fit=crop" alt="SSD は寿命が近づくと静かに知らせますが、Windows は警告サインを隠します"></p>]]></description><source url="https://www.xda-developers.com/your-ssd-tells-you-when-its-dying-but-windows-hides-the-warning-signs/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/xpg-adata-gammix-s70-blade-2tb-ssd-with-crystal-disk-mark-running.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/xpg-adata-gammix-s70-blade-2tb-ssd-with-crystal-disk-mark-running.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>Nvidia を捨てて AMD に切り替えた後、この切り替えについて実際に驚いた 4 つの点を以下に示します。</title><link>https://www.xda-developers.com/4-differences-between-nvidia-and-amd-gpus-that-i-wasnt-prepared-for/</link><guid isPermaLink="true">https://www.xda-developers.com/4-differences-between-nvidia-and-amd-gpus-that-i-wasnt-prepared-for/</guid><pubDate>Thu, 23 Jul 2026 23:00:10 +0000</pubDate><description><![CDATA[<p>Nvidia を捨てて AMD に切り替えた後、この切り替えについて実際に驚いた 4 つの点を以下に示します。
+
+私はレッドチームに切り替えることに完全に同意していましたが、次の 4 つのことに不意を突かれました。
+
+Nvidia を捨てて AMD に切り替えた後、この切り替えについて実際に驚いた 4 つの点を以下に示します。
+
+By Ty Sherback 更新日 2026 年 7 月 23 日、午後 7:00 EDT 彼の PC とそのコンポーネントに対する愛情は、ファミリー コンピューターのパフォーマンスをすべて絞り出そうとすることから生まれました。 10 歳のときに自分のビルドをいじっていたことが、友人や家族のために PC を作ることに変わり、最終的にキャリア パスとして形になる情熱を育みました。 Ty は、身近な人々への技術サポートの最初の電話であることに加えて、クラウド コンピューティングとネットワーキングに重点を置いているコンピューター サイエンスの学生でもあります。彼はセミプロの Counter-Strike にも 8 年間出場しており、周辺機器に関するあらゆることに精通しています。 XDA アカウントにサインインする 私はディスクリート GPU に関して、AMD と Nvidia の間を頻繁に行き来してきました。しかし、私は過去 2 世代にわたって AMD のエコシステムにしっかりと固定されてきました。私の最後の Nvidia GPU は GeForce RTX 4060 Ti で、その後 AMD の Radeon RX 7900 XT に移行し、最終的に RX 9070 XT になりました。これがたまたま私の 4K ゲームにとって絶対的なスイート スポットでした。私 (そして切り替えた多くの人) が予想していなかったのは、グリーン チームとレッド チームの間にいくつかの顕著な違いがあることでした。
+
+4 AMD の Linux サポートはより統合されていると感じます
+
+お気に入りのディストリビューションをインストールしてゲームを始めましょう
+
+Nvi…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/06/radeon_rx_9070_xt_sapphire_nitro_plus_gpu-1-1.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Nvidia を捨てて AMD に切り替えた後、この切り替えについて実際に驚いた 4 つの点を以下に示します。"></p>]]></description><source url="https://www.xda-developers.com/4-differences-between-nvidia-and-amd-gpus-that-i-wasnt-prepared-for/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/06/radeon_rx_9070_xt_sapphire_nitro_plus_gpu-1-1.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/06/radeon_rx_9070_xt_sapphire_nitro_plus_gpu-1-1.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>Dygma、旅行に便利な Sonsei Monobody 人間工学に基づいたメカニカル キーボードを発売</title><link>https://www.techpowerup.com/351040/dygma-launches-travel-friendly-sonsei-monobody-ergonomic-mechanical-keyboard</link><guid isPermaLink="true">https://www.techpowerup.com/351040/dygma-launches-travel-friendly-sonsei-monobody-ergonomic-mechanical-keyboard</guid><pubDate>Thu, 23 Jul 2026 22:57:42 +0000</pubDate><description><![CDATA[<p>Dygma、旅行に便利な Sonsei Monobody 人間工学に基づいたメカニカル キーボードを発売
 
 Dygma Defy や Raise などの分割型エルゴノミクス キーボードで知られる Dygma Lab は、旅行に適したエルゴノミクス キーボードの最新キーボード、Dygma Sonsei を発売しました。典型的な分割エルゴ デザインの代わりに、Sonsei のアルミニウム ユニボディ デザインは以下からインスピレーションを得ています。
@@ -3635,15 +3658,6 @@ PC ハードウェア メーカーは BIOS を通じて無料のパフォーマ�
 By Abhinav Raj 公開 2026 年 7 月 23 日、午後 2 時 30 分 EDT アビナブは、銀行業界でのキャリアから方向転換して、初恋を作家として追求しました。フルタイムで働きながらも、編集長として貢献を続け、その役割を 7 年以上務めました。 2018 年以来、ゲームと生産性に優れた PC を 3 台構築してきた生涯のテクノロジー愛好家である彼は、テクノロジーに対する情熱により、NVIDIA や AMD から ARM に至るまで、半導体業界を常に追い続けています。彼の修士論文は、人工知能が仕事の未来をどのように再形成するかを探求し、新興テクノロジーのより広範な社会的影響に対する彼の好奇心を反映しています。 XDA アカウントにサインインする ほとんどの人は、新しい CPU を古いソケットに差し込み、電源ボタンを押し、空白の黒い画面が表示されるまで、マザーボードがアップグレード可能なソフトウェアを実行していることを知りません。これは、Ryzen 5 3600 から Ryzen 5 5600X に初めてアップグレードした後でのみ BIOS アップデートの存在を発見した人間である私にとって、イライラと入り混じった恐怖の感情です。しかし、そのような瞬間はしばしば間違った教訓を教えてくれます。
 
 新しいチップが起動すると、ほとんどのユーザーは BIOS アップデートを 1 つの目的のタスクとしてファイルに保存し、新しいプロセッサが要求したとき (通常は 5 ～ 6 年に 1 回) にのみ実行します。この前提により、多くの場合、一部の無料機能とそれに伴う追加パフォーマンスが犠牲になる可能性があり、ビルドの古さによっては、その…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/pc-bios.jpg?w=1600&amp;h=900&amp;fit=crop" alt="PC ハードウェア メーカーは BIOS を通じて無料のパフォーマンスを提供し続けていますが、ほとんどのビルダーはそれを主張しません"></p>]]></description><source url="https://www.xda-developers.com/the-cheapest-way-to-make-an-old-pc-feel-new-isnt-a-new-cpu-its-a-bios-update/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/pc-bios.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/pc-bios.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>超音波を利用したマイクジャマー</title><link>https://hackaday.com/2026/07/23/mic-jammer-relies-on-ultrasound/</link><guid isPermaLink="true">https://hackaday.com/2026/07/23/mic-jammer-relies-on-ultrasound/</guid><pubDate>Thu, 23 Jul 2026 18:30:00 +0000</pubDate><description><![CDATA[<p>超音波を利用したマイクジャマー
-
-今日の携帯電話のマイクは、あらゆる種類の状況で音を拾うのに完全に熟達しており、ノイズを除去して音声をキャプチャするためのあらゆる種類の処理技術に支えられています。
-
-今日の携帯電話のマイクは、あらゆる種類の状況で音声を拾うことに完全に熟達しており、ノイズを除去してクリーンな音声をキャプチャするためのあらゆる種類の処理技術に支えられています。 [mcore1976] は、盗聴している可能性のある電話のマイクを妨害するデバイスの開発に取り組んできましたが、今度は高度な処理技術に対抗します。
-
-このビルドでは、マイクロコントローラーの頭脳を使用して、一連の超音波トランスデューサーを制御します。 [mcore1976] はプロジェクトの多くの改訂版を作成し、そのたびに最新のハードウェアでマイクを妨害する能力を改善しました。最新のリビジョンでは、RP2040 マイクロコントローラーと MOSFET 駆動ステージを使用して、20 ～ 80 個の超音波トランスデューサーを制御します。これらは、RP2040 自体から生成される PWM 信号で駆動されます。信号出力は、最近の多くの電話機で使用されている自動利得制御システムを混乱させ、ジャマーが動作しているときにクリアな音声を録音することを困難にするために特別に変調されています。 [mcore1976] が iPhone 17 で実証しているように、妨害装置がオンになっている間、彼の声は理解できない文字化けノイズの中で完全に失われます。
-
-これはニッチなアイデアであり、人間の耳にはほとんど聞こえないものの、電話のマイクに影響を与えるという点でおそらく最も興味深いものです。最近、他の興味深い妨害装置も紹介しました。休憩後の動画。</p><p><img src="https://hackaday.com/wp-content/uploads/2026/07/DIY-Ultrasonic-Microphone-Jammer-final-hardware-update-RP2040-MOSFET-Kicad-8-58-screenshot.png" alt="超音波を利用したマイクジャマー"></p>]]></description><source url="https://hackaday.com/2026/07/23/mic-jammer-relies-on-ultrasound/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/07/DIY-Ultrasonic-Microphone-Jammer-final-hardware-update-RP2040-MOSFET-Kicad-8-58-screenshot.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/07/DIY-Ultrasonic-Microphone-Jammer-final-hardware-update-RP2040-MOSFET-Kicad-8-58-screenshot.png"/></item>
 <item><title>AMD の新しい X100 チップ ラインナップは Strix Halo をロボットに搭載 – 物理 AI 用の APU は Zen 5 CPU、RDNA 3.5 GPU コアを搭載し、Intel の Panther Lake と競合します</title><link>https://www.tomshardware.com/pc-components/cpus/amds-new-x100-chip-lineup-puts-strix-halo-into-robots-apus-for-physical-ai-bring-zen-5-cpu-rdna-3-5-gpu-cores-to-compete-with-intels-panther-lake</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/cpus/amds-new-x100-chip-lineup-puts-strix-halo-into-robots-apus-for-physical-ai-bring-zen-5-cpu-rdna-3-5-gpu-cores-to-compete-with-intels-panther-lake</guid><pubDate>Thu, 23 Jul 2026 18:30:00 +0000</pubDate><description><![CDATA[<p>AMD の新しい X100 チップ ラインナップは Strix Halo をロボットに搭載 – 物理 AI 用の APU は Zen 5 CPU、RDNA 3.5 GPU コアを搭載し、Intel の Panther Lake と競合します
 
 AMDはロボット戦争でIntel（そしてNvidia）と対戦する。
@@ -3657,6 +3671,15 @@ AMDはロボット戦争でIntel（そしてNvidia）と対戦する。
 0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する AMD は、Strix Halo APU を物理 AI の世界に導入します。新しい X100 シリーズのプロセッサーは、クライアント デバイスで流通しているさまざまな Ryzen AI Max モデルと同様の仕様を備えていますが、ロボット工学などの組み込みアプリケーションでの 10 年のライフサイクルを備え、24 時間年中無休の動作に合わせて調整されています。
 
 3 つのオリジナル Strix Halo モデルと一致する 3 つの SKU があります (40 CU の更新バージョンではありません)。最上位の X199 には、16 個の Zen 5 コアと 40 個の RDNA 3.5 CU が搭載されています。 X188 は 12 コアと 32 CU にステップダウンしますが、X168 には 8 コアと同じ 32 CU が付属します。 AMDは各モデルの詳細な仕様を明らかにしていないが、同社によれば、その範囲は最大5.1 GHzのブーストクロックと128 GBのユニファイドメモリに達するという。また、最大 50 TOPS の XDNA 2 NPU、45W ～ 120W の…</p><p><img src="https://cdn.mos.cms.futurecdn.net/pXkThAfC4PkTjFgvWAPXYF-2560-80.jpg" alt="AMD の新しい X100 チップ ラインナップは Strix Halo をロボットに搭載 – 物理 AI 用の APU は Zen 5 CPU、RDNA 3.5 GPU コアを搭載し、Intel の Panther Lake と競合します"></p>]]></description><source url="https://www.tomshardware.com/pc-components/cpus/amds-new-x100-chip-lineup-puts-strix-halo-into-robots-apus-for-physical-ai-bring-zen-5-cpu-rdna-3-5-gpu-cores-to-compete-with-intels-panther-lake">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/pXkThAfC4PkTjFgvWAPXYF-2560-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/pXkThAfC4PkTjFgvWAPXYF-2560-80.jpg"/></item>
+<item><title>超音波を利用したマイクジャマー</title><link>https://hackaday.com/2026/07/23/mic-jammer-relies-on-ultrasound/</link><guid isPermaLink="true">https://hackaday.com/2026/07/23/mic-jammer-relies-on-ultrasound/</guid><pubDate>Thu, 23 Jul 2026 18:30:00 +0000</pubDate><description><![CDATA[<p>超音波を利用したマイクジャマー
+
+今日の携帯電話のマイクは、あらゆる種類の状況で音を拾うのに完全に熟達しており、ノイズを除去して音声をキャプチャするためのあらゆる種類の処理技術に支えられています。
+
+今日の携帯電話のマイクは、あらゆる種類の状況で音声を拾うことに完全に熟達しており、ノイズを除去してクリーンな音声をキャプチャするためのあらゆる種類の処理技術に支えられています。 [mcore1976] は、盗聴している可能性のある電話のマイクを妨害するデバイスの開発に取り組んできましたが、今度は高度な処理技術に対抗します。
+
+このビルドでは、マイクロコントローラーの頭脳を使用して、一連の超音波トランスデューサーを制御します。 [mcore1976] はプロジェクトの多くの改訂版を作成し、そのたびに最新のハードウェアでマイクを妨害する能力を改善しました。最新のリビジョンでは、RP2040 マイクロコントローラーと MOSFET 駆動ステージを使用して、20 ～ 80 個の超音波トランスデューサーを制御します。これらは、RP2040 自体から生成される PWM 信号で駆動されます。信号出力は、最近の多くの電話機で使用されている自動利得制御システムを混乱させ、ジャマーが動作しているときにクリアな音声を録音することを困難にするために特別に変調されています。 [mcore1976] が iPhone 17 で実証しているように、妨害装置がオンになっている間、彼の声は理解できない文字化けノイズの中で完全に失われます。
+
+これはニッチなアイデアであり、人間の耳にはほとんど聞こえないものの、電話のマイクに影響を与えるという点でおそらく最も興味深いものです。最近、他の興味深い妨害装置も紹介しました。休憩後の動画。</p><p><img src="https://hackaday.com/wp-content/uploads/2026/07/DIY-Ultrasonic-Microphone-Jammer-final-hardware-update-RP2040-MOSFET-Kicad-8-58-screenshot.png" alt="超音波を利用したマイクジャマー"></p>]]></description><source url="https://hackaday.com/2026/07/23/mic-jammer-relies-on-ultrasound/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/07/DIY-Ultrasonic-Microphone-Jammer-final-hardware-update-RP2040-MOSFET-Kicad-8-58-screenshot.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/07/DIY-Ultrasonic-Microphone-Jammer-final-hardware-update-RP2040-MOSFET-Kicad-8-58-screenshot.png"/></item>
 <item><title>Galaxy S27のメインカメラはサムスンの状況を一変させるかもしれない</title><link>https://www.androidauthority.com/samsung-galaxy-s27-camera-rumors-3690787/</link><guid isPermaLink="true">https://www.androidauthority.com/samsung-galaxy-s27-camera-rumors-3690787/</guid><pubDate>Thu, 23 Jul 2026 18:10:51 +0000</pubDate><description><![CDATA[<p>Galaxy S27のメインカメラはサムスンの状況を一変させるかもしれない
 
 新しい噂によると、サムスンのギャラクシーS27とS27プラスはプライマリカメラに50メガピクセルのソニーセンサーを利用するという。
@@ -6574,61 +6597,4 @@ Fold ケースは、機械的なヒンジ保護またはスリムな磁気ファ
 サムスンの最新の折りたたみ式デバイスは、衝動買いされる可能性は低いです。同社の高価な新しい携帯電話を予約注文するのに忙しい場合、それを保護するためにさらに数ドルを費やすのは少し簡単かもしれません。 Spigen は、Galaxy Z Fold 8 Ultra、Galaxy Z Fold 8、Galaxy Z Flip 8 用のケースのラインナップを開始し、興味深いオプションを数多く提供しています。
 
 同社は、Samsung の新しい Fold モデルのヒンジを保護するために 2 つの異なるアプローチを採用しています。より頑丈なケースでは、バネと回転機構を備えた機械式ヒンジ カバーが使用されており、携帯電話のヒンジが自動的に密閉されます。よりスリムなオプションでは、代わりに磁石を内蔵した柔軟な TPU または PU ファブリック コネクタを使用し、かさばりを犠牲にして軽い感触を…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/07/Spigen-Galaxy-Z-Fold-8-Cases-scaled.jpg" alt="Spigen の新しい Galaxy Z Fold 8 ケースは、保護に対して 2 つの異なるアプローチを採用しています"></p>]]></description><source url="https://www.androidauthority.com/samsung-galazy-z-8-spigen-cases-3689772/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/07/Spigen-Galaxy-Z-Fold-8-Cases-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/07/Spigen-Galaxy-Z-Fold-8-Cases-scaled.jpg"/></item>
-<item><title>最も強力な Galaxy Z Flip 8 はあなたの市場では入手できない可能性があります</title><link>https://www.androidauthority.com/samsung-galaxy-z-flip-8-variants-chipset-3689704/</link><guid isPermaLink="true">https://www.androidauthority.com/samsung-galaxy-z-flip-8-variants-chipset-3689704/</guid><pubDate>Wed, 22 Jul 2026 13:00:45 +0000</pubDate><description><![CDATA[<p>最も強力な Galaxy Z Flip 8 はあなたの市場では入手できない可能性があります
-
-Samsung Galaxy Z Flip 8 は正式版ですが、最高のパフォーマンスを発揮するバージョンは一部の市場に限定されていることが判明しました。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-最も強力な Galaxy Z Flip 8 はあなたの市場では入手できない可能性があります
-
-0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Samsung Galaxy Z Flip 8 は、Exynos と Snapdragon の両方のバージョンで利用できます。
-
-この携帯電話には、カナダと米国向けの Galaxy プロセッサ用の Snapdragon 8 Elite Gen 5 が搭載されています。
-
-ただし、南アフリカと英国では自社製 Exynos 2600 チップセットを搭載しています。
-
-サムスンは、Unpacked イベントで Galaxy Z Flip 8、Z Fold 8、Z Fold 8 Ultra という 3 つの折りたたみ式スマートフォンを発表しました。後者の 2 つのデバイスは Snapdragon シリコンのみを搭載していますが、Galaxy メーカーは Flip 8 で別の道を歩んでいます。
-
-Galaxy Z Flip 8 は、お住まいの地域に応じて、Galaxy 用 Snapdragon 8 Elite Gen 5 または自社製 Exynos 2600 チップのいずれかを搭載しています。具体的には、Snapdragon バージョンは米国とカナダで利用可能であるのに対し、Exynos バージョンは南アフリカと英国で利用可能であることが確認できます。
-
-歴史によれば、Snapdragon モデルは中国でも入手可能ですが、Exynos モデルはインドとヨーロッパに上陸すると考えられています。いずれにせよ、サムスンが…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Flip-8-showing-crease-screen-on.jpg" alt="最も強力な Galaxy Z Flip 8 はあなたの市場では入手できない可能性があります"></p>]]></description><source url="https://www.androidauthority.com/samsung-galaxy-z-flip-8-variants-chipset-3689704/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Flip-8-showing-crease-screen-on.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Flip-8-showing-crease-screen-on.jpg"/></item>
-<item><title>Galaxy Z Fold 8 Ultraは、2026年のSamsungの真の折りたたみフラッグシップとして登場</title><link>https://www.androidauthority.com/samsung-galaxy-z-fold-8-ultra-launch-specs-features-price-availability-3688533/</link><guid isPermaLink="true">https://www.androidauthority.com/samsung-galaxy-z-fold-8-ultra-launch-specs-features-price-availability-3688533/</guid><pubDate>Wed, 22 Jul 2026 13:00:40 +0000</pubDate><description><![CDATA[<p>Galaxy Z Fold 8 Ultraは、2026年のSamsungの真の折りたたみフラッグシップとして登場
-
-サムスンは、Galaxy Z Fold 8、Galaxy Z Flip 8、Galaxy Watch 9、Galaxy Watch Ultra 2とともにGalaxy Z Fold 8 Ultraを発売しました。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Galaxy Z Fold 8 Ultraは、2026年のSamsungの真の折り畳み式フラッグシップとして登場します
-
-0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Samsung は、Galaxy Z Fold 8、Galaxy Z Flip 8、Galaxy Watch 9、Galaxy Watch Ultra 2 とともに Galaxy Z Fold 8 Ultra を発表しました。
-
-Galaxy Z Fold 8 Ultraは、昨年のZ Fold 7をベースに、より大きなバッテリー、45Wの充電、ウルトラグレードのカメラ、そして開けやすいデザインを備えています。
-
-幅が広くなった新しい Galaxy Z Fold 8 とは異なり、Fold 8 Ultra はプレミアム ハードウェアと AI 機能を備えた Samsung の主力ブックスタイル折りたたみ式製品であり続けます。
-
-絶え間なく続くリークと噂の後、サムスンはついに次世代の折りたたみ式製品を正式に発表した。同社は本日の Unpacked イベントを利用して、Galaxy Z Fold 8 Ultra、Galaxy Z Fold 8、および Galaxy Z Flip 8 を発表し、同時に Galaxy Watch 9 と Galaxy Watch Ultra 2 も発表しました。
-
-しかし、本当に興味深いのは折りたたみ式のラインナップです。サムスンは初めてブック型の折りたたみ式端末を 2 種類販…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8.-Ultra-all-4-colors.jpg" alt="Galaxy Z Fold 8 Ultraは、2026年のSamsungの真の折りたたみフラッグシップとして登場"></p>]]></description><source url="https://www.androidauthority.com/samsung-galaxy-z-fold-8-ultra-launch-specs-features-price-availability-3688533/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8.-Ultra-all-4-colors.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8.-Ultra-all-4-colors.jpg"/></item>
-<item><title>S Pen ファンにとって悪いニュース: Galaxy Z Fold 8 シリーズは Samsung のスタイラスをサポートしていません</title><link>https://www.androidauthority.com/samsung-galaxy-z-fold-8-series-s-pen-support-3687201/</link><guid isPermaLink="true">https://www.androidauthority.com/samsung-galaxy-z-fold-8-series-s-pen-support-3687201/</guid><pubDate>Wed, 22 Jul 2026 13:00:40 +0000</pubDate><description><![CDATA[<p>S Pen ファンにとって悪いニュース: Galaxy Z Fold 8 シリーズは Samsung のスタイラスをサポートしていません
-
-Galaxy Z Fold 8シリーズは、印象的なスペックを備えた公式製品です。ただし、SamsungのSペンのサポートは復活しません。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Sペンファンにとって悪いニュース: Galaxy Z Fold 8シリーズはSamsungのスタイラスをサポートしていません
-
-0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Galaxy Z Fold 8 シリーズは公式であり、携帯電話は印象的なスペックを備えています。
-
-ただし、Z Fold 8 Ultra も Z Fold 8 も Samsung の S ペンをサポートしていません。
-
-同社は当初、昨年のGalaxy Z Fold 7でSペンのサポートを削除した。
-
-Samsung は本日、ロンドンで開催された Galaxy Unpacked イベントで Galaxy Z Fold 8 Ultra、Z Fold 8、および Z Flip 8 を発表しました。これらの携帯電話には強力なスペックと便利な機能が満載されていますが、またしても欠けているものが 1 つあります。それは S ペンです。
-
-Galaxy Z Fold 8 も Z Fold 8 Ultra も S ペンをサポートしていません。 Samsung は Galaxy Z Fold 7 でスタイラスのサポートを廃止したため、これはまったく驚くべきことではありません。ただし、幅広の Z Fold 8 で S ペンのサポートが復活することを期待していたとしたら、残念ながら運はありません。
-
-折りたたみ式 Galaxy Z Fold で S ペンを使用しましたか?
-
-サムスンが携帯電話を薄くするために Z Fold 7 からデジタイザー層を削除したため、S…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8.-Z-Fold-8-Ultra-stood-up.jpg" alt="S Pen ファンにとって悪いニュース: Galaxy Z Fold 8 シリーズは Samsung のスタイラスをサポートしていません"></p>]]></description><source url="https://www.androidauthority.com/samsung-galaxy-z-fold-8-series-s-pen-support-3687201/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8.-Z-Fold-8-Ultra-stood-up.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8.-Z-Fold-8-Ultra-stood-up.jpg"/></item>
 </channel></rss>
