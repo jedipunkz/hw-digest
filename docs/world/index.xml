@@ -1,6 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Mon, 27 Jul 2026 22:17:31 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Mon, 27 Jul 2026 23:29:25 +0000</lastBuildDate>
+<item><title>グラフィックス カードのないビジネス ラップトップでメディア サーバー全体を実行していますが、それでもトランスコードされます</title><link>https://www.xda-developers.com/run-media-server-on-business-laptop-with-no-graphics-card-it-transcodes/</link><guid isPermaLink="true">https://www.xda-developers.com/run-media-server-on-business-laptop-with-no-graphics-card-it-transcodes/</guid><pubDate>Mon, 27 Jul 2026 23:00:10 +0000</pubDate><description><![CDATA[<p>グラフィックス カードのないビジネス ラップトップでメディア サーバー全体を実行していますが、それでもトランスコードされます
+
+グラフィックカードはオプションだったことが分かりました。
+
+グラフィックス カードのないビジネス ラップトップでメディア サーバー全体を実行していますが、それでもトランスコードされます
+
+By Shekhar Vaidya 公開 2026 年 7 月 27 日、午後 7:00 EDT Shekhar Vaidya は、ベテランのテクノロジー ジャーナリストであり、コンピューター サイエンス エンジニアです。彼は Techlatest の創設者であり、ハードウェアと Windows エコシステムに関する技術分析を提供することに何年も費やしてきました。現在、XDA のコンピューティング ライターである Shekhar は、NAS、ストレージ ソリューション、PC 内部に関する深い背景を活用して、読者がテクノロジーを習得できるように支援します。 XDA アカウントにサインインする メディア サーバーやホームラボ サーバーを構築するとき、ほとんどの人はミニ PC、最近のプロセッサ、さらには専用のグラフィック カードを思い浮かべます。私も同じ状況でした。私は、古い Synology NAS からアップグレードして、Intel の Twin Lake 電力効率の高い CPU をベースにしたミニ PC を構築することを考えていました。しかし、引き金を引く前に、私は寄り道をして、すぐにリサイクルされるはずだった古いラップトップを使用することにしました。
+
+机上では、第 6 世代 i5 と約 12 GB のメモリを搭載した 8 年前のビジネス ラップトップは、メディア サーバーを実行できるものには見えませんでした。しかし 1 年後、これは私の Jellyfin メディア サーバーであるだけでなく、15 を超えるスタックを実行するホームラボでもあり、グラフィックス カードがなくてもビデオをトランスコードしています。
+
+構築するつもりはなかったサーバー
+
+単なる試運…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/03/old-dell-laptop-running-debian-docker.jpg?w=1600&amp;h=900&amp;fit=crop" alt="グラフィックス カードのないビジネス ラップトップでメディア サーバー全体を実行していますが、それでもトランスコードされます"></p>]]></description><source url="https://www.xda-developers.com/run-media-server-on-business-laptop-with-no-graphics-card-it-transcodes/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/03/old-dell-laptop-running-debian-docker.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/03/old-dell-laptop-running-debian-docker.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>認定テストに不合格となった Apollo 誘導コンピュータ モジュールの再テスト</title><link>https://hackaday.com/2026/07/27/re-testing-an-apollo-guidance-computer-module-that-failed-certification-testing/</link><guid isPermaLink="true">https://hackaday.com/2026/07/27/re-testing-an-apollo-guidance-computer-module-that-failed-certification-testing/</guid><pubDate>Mon, 27 Jul 2026 23:00:08 +0000</pubDate><description><![CDATA[<p>認定テストに不合格となった Apollo 誘導コンピュータ モジュールの再テスト
+
+「廃棄されたモジュール」と大きく刻印されたアポロ計画時代のロープドライバーモジュールを手に入れた後、[マイク・スチュワート] は当然、正確には何なのか知りたくなりました…
+
+大きな「廃棄モジュール」と刻印されたアポロ計画時代のロープドライバーモジュールを手に入れた後、[マイク・スチュワート] は当然ながら、このモジュールの正確に何が失敗したのかについて好奇心を抱きました。もともとアポロ誘導コンピューター用に開発されたこれらのレイセオン製モジュールは、非常に高価な宇宙ミッションを危険にさらさないために必須の受け入れテストを経て、1960 年代の宇宙グレードのハイテクの頂点でした。
+
+ここでの素晴らしい点は、問題のモジュール (B16 ～ B17) の承認文書がスキャンされており、Internet Archive で見つけることができることです。部品自体はポットに埋め込まれており、非常にアクセスできないため、このドキュメントには、回路図や機械図面だけでなく、モジュールのピンの予想される測定値もわかりやすくレイアウトされています。残念ながら、不合格の理由は記録されていないため、理由を理解するには不合格のテスト結果を再現する必要があります。
+
+ここで少し複雑になるのは、テスト手順には、電圧と静電容量を測定するためにマルチメーターを接続するだけではないということです。極端な温度や電圧、振動耐性も関係しており、テストはやや複雑になりますが、何よりも歴史的な遺物に損傷を与える危険があります。したがって、実際の障害を明らかにできない可能性がある場合でも、やや保守的なテスト手順が選択されました。
+
+ビデオで説明されているように、誰かが途中で床に落としただけでモジュールが拒否されることもありました。しかし、一般に、モジュールに欠陥があることが判明した場合、モジュールを開いてその欠陥を診断します。このモジュールをよく見ると、明らかに開いて修理されたと思われるポッティングコンパウンドに疑わしい跡が実際に明らかに…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/07/apollo_rope_driver_module_testing_mike_stewart_youtube.jpg" alt="認定テストに不合格となった Apollo 誘導コンピュータ モジュールの再テスト"></p>]]></description><source url="https://hackaday.com/2026/07/27/re-testing-an-apollo-guidance-computer-module-that-failed-certification-testing/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/07/apollo_rope_driver_module_testing_mike_stewart_youtube.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/07/apollo_rope_driver_module_testing_mike_stewart_youtube.jpg"/></item>
+<item><title>Palworld Exec Reassures Gamers About End-of-Life Plans</title><link>https://www.techpowerup.com/351124/palworld-exec-reassures-gamers-about-end-of-life-plans</link><guid isPermaLink="true">https://www.techpowerup.com/351124/palworld-exec-reassures-gamers-about-end-of-life-plans</guid><pubDate>Mon, 27 Jul 2026 22:58:44 +0000</pubDate><description><![CDATA[<p>Palworld Exec Reassures Gamers About End-of-Life Plans</p>]]></description><source url="https://www.techpowerup.com/351124/palworld-exec-reassures-gamers-about-end-of-life-plans">TechPowerUp</source></item>
+<item><title>32 GB RAMを搭載したAMD Strix Haloが1899ドルで登場 - Asus ProArt PX13 2026 Convertible レビュー</title><link>https://www.notebookcheck.net/AMD-Strix-Halo-with-32-GB-RAM-for-1899-Asus-ProArt-PX13-2026-Convertible-Review.1352377.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/AMD-Strix-Halo-with-32-GB-RAM-for-1899-Asus-ProArt-PX13-2026-Convertible-Review.1352377.0.html</guid><pubDate>Mon, 27 Jul 2026 22:30:00 +0000</pubDate><description><![CDATA[<p>32 GB RAMを搭載したAMD Strix Haloが1899ドルで登場 - Asus ProArt PX13 2026 Convertible レビュー
+
+AMD Ryzen AI MAX+ 388、Radeon 8060S GPU、32 GB RAM、512 GB SSD、2.8K OLED タッチスクリーンを搭載した Asus ProArt PX13 コンバーチブルの Notebookcheck レビュー。
+
+評決 - コンパクトで強力なコンバーチブル
+
+Ryzen AI MAX+ 388 を搭載した Asus ProArt PX13 は、パワフルでコンパクトでありながら、大金を掛けずに多用途に使えるコンパニオンです。はい、小型の Strix Halo チップの CPU パフォーマンスはハイエンドの Ryzen AI MAX+ 395 に比べてはるかに低いですが、それでも強力な Radeon 8060S iGPU を搭載しているため、外出先でのゲームだけでなく編集にも対応できる有能なマシンが手に入ります。 512 GB SSD が小さいのは少し残念ですが、これは現在のストレージとメモリの異常な価格の結果です。プレミアム シャーシは使い慣れており、優れた接続性と高速なカード リーダーを提供しますが、Wi-Fi 7 モジュールは 160 MHz に制限されています。 1.7 mm という十分なトラベル量と正確なフィードバックのおかげで、これは入手可能なキーボードの中で最も快適なキーボードの 1 つであるため、もう一度このキーボードを賞賛する必要があります。
+
+ライセンスされた評価画像を SVG / PNG としてダウンロードします 非常に良い (88%) ProArt PX13 HN7306EA Ryzen AI MAX+ 388 AMD Ryzen AI Max+ 388 AMD Radeon 8060S Convertible - 07/27/2026 - v8 テスト デバイス提供 Asus Global ライセンスされた評価画像を PNG / SVG とし…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ProArt_PX13_HN7306EA_Ryzen_AI_MAX_388/proart_px13_388_case_06.JPG" alt="32 GB RAMを搭載したAMD Strix Haloが1899ドルで登場 - Asus ProArt PX13 2026 Convertible レビュー"></p>]]></description><source url="https://www.notebookcheck.net/AMD-Strix-Halo-with-32-GB-RAM-for-1899-Asus-ProArt-PX13-2026-Convertible-Review.1352377.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ProArt_PX13_HN7306EA_Ryzen_AI_MAX_388/proart_px13_388_case_06.JPG" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ProArt_PX13_HN7306EA_Ryzen_AI_MAX_388/proart_px13_388_case_06.JPG"/></item>
 <item><title>道端で見つかった NVIDIA RTX Spark ノートパソコンが正式発売前にレビューされる</title><link>https://www.techpowerup.com/351122/nvidia-rtx-spark-laptop-found-on-roadside-gets-reviewed-before-official-launch</link><guid isPermaLink="true">https://www.techpowerup.com/351122/nvidia-rtx-spark-laptop-found-on-roadside-gets-reviewed-before-official-launch</guid><pubDate>Mon, 27 Jul 2026 22:12:27 +0000</pubDate><description><![CDATA[<p>道端で見つかった NVIDIA RTX Spark ノートパソコンが正式発売前にレビューされる
 
 TechPowerUp フォーラムの長年のユーザー (Fouquin) が、NVIDIA RTX Spark Arm ベースの SoC を搭載した次期 Microsoft Surface Laptop Ultra の驚くほど詳細なレビューを投稿しました。奇妙な幸運に、ユーザーは Microsoft Surface Laptop Ultra を横に見つけたと言いました...
@@ -41,6 +75,7 @@ Reddit の T-Mobile サブチャンネルでは、ユーザーが約 1 時間前
 DownDetector をチェックすると、AT&amp;T と Verizon でも同様の障害レポートが急増していることがわかります。
 
 AT&amp;T については、ネバダ州での障害についてのユーザー報告が確認されていますが、これらのインシデントが 3 つの通信事業…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2024/05/Phones-showing-Verizon-ATT-and-T-Mobile-logos-stock-photo-4.jpg" alt="あなただけではありません: T-Mobile、Verizon、AT&amp;T に影響を与える大規模な障害が発生しています"></p>]]></description><source url="https://www.androidauthority.com/t-mobile-cellular-outage-3691641/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2024/05/Phones-showing-Verizon-ATT-and-T-Mobile-logos-stock-photo-4.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2024/05/Phones-showing-Verizon-ATT-and-T-Mobile-logos-stock-photo-4.jpg"/></item>
+<item><title>Xbox servers go down just days after PlayStation outage, giving us a glimpse into our digital-only future</title><link>https://www.tweaktown.com/rss/click/news/112873/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112873/?c=news-mf</guid><pubDate>Mon, 27 Jul 2026 21:30:10 +0000</pubDate><description><![CDATA[<p>Xbox servers go down just days after PlayStation outage, giving us a glimpse into our digital-only future</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112873/?c=news-mf">TweakTown</source></item>
 <item><title>これら 5 つの古いデバイスは、Raspberry Pi よりも優れたホーム サーバーを構築できます</title><link>https://www.xda-developers.com/old-devices-make-better-home-servers-than-a-raspberry-pi/</link><guid isPermaLink="true">https://www.xda-developers.com/old-devices-make-better-home-servers-than-a-raspberry-pi/</guid><pubDate>Mon, 27 Jul 2026 21:30:10 +0000</pubDate><description><![CDATA[<p>これら 5 つの古いデバイスは、Raspberry Pi よりも優れたホーム サーバーを構築できます
 
 無駄な費用をかけずにアップグレードしましょう。
@@ -50,7 +85,6 @@ AT&amp;T については、ネバダ州での障害についてのユーザー�
 サミール・マクワナ著 公開 2026 年 7 月 27 日、午後 5 時 30 分 EDT サミール・マクワナは、過去 18 年間インド出身のテクノロジー ジャーナリスト兼編集者であり、彼の作品は MakeUseOf、HowToGeek、GSMArena、BGR、GuidingTech、The Inquisitr、TechInAsia、TechWiser などに掲載されています。全国規模のテクノロジー メディア出版物にニュース、特集、ガジェット レビューを執筆しています。彼の情熱は、人々のテクノロジーの問題やガジェットの購入を支援することです。そのために、彼はニュース、解説、ハウツー ガイド、リスト記事、製品購入ガイドなどをカバーする、いくつかの最大規模の国際テクノロジー出版物で働いてきました。 2015 年から編集者として働き、チームを管理しています。彼の専門知識は、コンピューター、スマートフォン、ゲーム機、ヘッドフォン、スマート ホーム製品、ブラウザー、アプリを幅広くカバーしています。 XDA アカウントにサインインする Raspberry Pi ほどセルフホスティングの普及に貢献したデバイスはほとんどありません。手頃な価格で効率的で、最大規模のコミュニティの支援を受けているため、Pi-hole や Home Assistant などの軽量ホーム サーバー プロジェクトのデフォルトの推奨事項となっています。
 
 しかし 2026 年には、Raspberry Pi はホームサーバーとしての明白な選択肢ではなくなりました。中古 PC 市場には、フルキットの Pi セットアップとほぼ同じ価格の高性能ハードウェアが溢れています。それはもはや不条理には聞こえません。パーティーに遅れて到着する場合でも、値下げを待っている場合で…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/mini-pc-with-raspberry-pi-4.JPG?w=1600&amp;h=900&amp;fit=crop" alt="これら 5 つの古いデバイスは、Raspberry Pi よりも優れたホーム サーバーを構築できます"></p>]]></description><source url="https://www.xda-developers.com/old-devices-make-better-home-servers-than-a-raspberry-pi/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/mini-pc-with-raspberry-pi-4.JPG?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/mini-pc-with-raspberry-pi-4.JPG?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>Xbox servers go down just days after PlayStation outage, giving us a glimpse into our digital-only future</title><link>https://www.tweaktown.com/rss/click/news/112873/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112873/?c=news-mf</guid><pubDate>Mon, 27 Jul 2026 21:30:10 +0000</pubDate><description><![CDATA[<p>Xbox servers go down just days after PlayStation outage, giving us a glimpse into our digital-only future</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112873/?c=news-mf">TweakTown</source></item>
 <item><title>Google Meet の「メモを取る」ツールが最大の見落としを修正しようとしている</title><link>https://www.androidauthority.com/google-meet-notes-screenshots-3691613/</link><guid isPermaLink="true">https://www.androidauthority.com/google-meet-notes-screenshots-3691613/</guid><pubDate>Mon, 27 Jul 2026 21:27:32 +0000</pubDate><description><![CDATA[<p>Google Meet の「メモを取る」ツールが最大の見落としを修正しようとしている
 
 Google はついに、Gemini が Google Meet ノート用の図、チャート、グラフのスクリーンショットを取得できるようにしました。
@@ -1002,6 +1036,129 @@ The Information に近い関係者によると、上海に拠点を置く中国�
 2026 年 5 月 11 日 中国の POWEV が最大 64 GB の UDIMM、SODIMM、および RDIMM モジュールで DDR5 市場に参入 (22)
 
 2026 年 7 月 21 日のレポート: NAND フラッシュ不足は 2027 年に最終的に解消される (…</p><p><img src="https://www.techpowerup.com/img/9kjhDfcDQmXa93x1.jpg" alt="中国、国産液浸DUV装置の限定生産を開始"></p>]]></description><source url="https://www.techpowerup.com/351105/china-begins-limited-production-of-domestic-immersion-duv-machines">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/9kjhDfcDQmXa93x1.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/9kjhDfcDQmXa93x1.jpg"/></item>
+<item><title>OpenAIがSoftBankの10ギガワットのオハイオキャンパスを賃貸できるよう、NVIDIAは2,500億ドルの保証を検討していると報道 ― NVIDIAはまた、サイト用のチップに資金を提供する3,500億ドルの契約についても話し合っていると述べた</title><link>https://www.tomshardware.com/tech-industry/data-centers/nvidia-weighs-250-billion-guarantee-so-openai-can-lease-softbanks-10-gigawatt-ohio-campus</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/data-centers/nvidia-weighs-250-billion-guarantee-so-openai-can-lease-softbanks-10-gigawatt-ohio-campus</guid><pubDate>Mon, 27 Jul 2026 13:34:28 +0000</pubDate><description><![CDATA[<p>OpenAIがSoftBankの10ギガワットのオハイオキャンパスを賃貸できるよう、NVIDIAは2,500億ドルの保証を検討していると報道 ― NVIDIAはまた、サイト用のチップに資金を提供する3,500億ドルの契約についても話し合っていると述べた
+
+Nvidia が開示した各パートナーのリース保証は合計で 35 億ドルになります。
+
+OpenAIがSoftBankの10ギガワットのオハイオキャンパスを賃貸できるよう、NVIDIAは2,500億ドルの保証を検討していると報道 ― NVIDIAはまた、サイト用のチップに資金を提供する3,500億ドルの契約についても話し合っていると述べた
+
+Nvidia が開示した各パートナーのリース保証は合計で 35 億ドルになります。
+
+(画像クレジット: Nvidia) リンクをコピー
+
+4 会話に参加してください フォローしてください Google ニュースレターの優先ソースとして追加してください ニュースレターを購読してください OpenAI は、オハイオ州パイクトンにある SB エナジーの 10 GW データセンター キャンパスをリースする交渉を進めており、その背後にある資金の約 2,500 億ドルを保証するために Nvidia と協議していると、ウォール ストリート ジャーナルが日曜日にこの問題に詳しい匿名の関係者の話として報じました。このサイトは、Microsoft、Amazon、Oracleの顧客ではなくテナントとしてOpenAIにとって初めてのサイトとなるが、Nvidiaは内部に設置するアクセラレータへの資金調達について別途協議しており、さらに3,500億ドルに達する可能性がある。条件はまだ解決されておらず、協定は依然として崩壊する可能性がある。
+
+OpenAIには投資適格の信用格付けはなく、NVIDIAが関与すれば、SBエナジーはテナントではなくNVIDIAの貸借対照表に対して負債を増やすことになる。同誌によると、NVIDIAはすでにOpenAIに300億ドルを投資しており、OpenAIは2030年までのコンピュー…</p><p><img src="https://cdn.mos.cms.futurecdn.net/ibEpXbFzhNegj42rkqPzgZ-1920-80.jpg" alt="OpenAIがSoftBankの10ギガワットのオハイオキャンパスを賃貸できるよう、NVIDIAは2,500億ドルの保証を検討していると報道 ― NVIDIAはまた、サイト用のチップに資金を提供する3,500億ドルの契約についても話し合っていると述べた"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/data-centers/nvidia-weighs-250-billion-guarantee-so-openai-can-lease-softbanks-10-gigawatt-ohio-campus">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/ibEpXbFzhNegj42rkqPzgZ-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/ibEpXbFzhNegj42rkqPzgZ-1920-80.jpg"/></item>
+<item><title>ビバリウム、ドローン ショー、テレビ キットはすべて Raspberry Pi を利用しています</title><link>https://www.raspberrypi.com/news/vivariums-drone-shows-and-tv-kits-all-powered-by-raspberry-pi/</link><guid isPermaLink="true">https://www.raspberrypi.com/news/vivariums-drone-shows-and-tv-kits-all-powered-by-raspberry-pi/</guid><pubDate>Mon, 27 Jul 2026 13:33:43 +0000</pubDate><description><![CDATA[<p>ビバリウム、ドローン ショー、テレビ キットはすべて Raspberry Pi を利用しています
+
+ここでは、Powered by Raspberry Pi のラインナップに加わるサードパーティ製品の最新バッチからハイライトをいくつか紹介します。
+
+空中ディスプレイからプロトタイピング ツールまで、Raspberry Pi 認定ハードウェアがすべてを可能にします。ここでは、Powered by Raspberry Pi の名簿に加わるサードパーティ製品の最新バッチのハイライトをいくつか紹介します。
+
+ここヨーロッパでは夏が続いており、週末の空は鳥、凧、そして熱心なパイロットによって空高く飛び回る飛行機でいっぱいです。かつてのドローンは重くて不格好で、バッテリーが数分で消耗してしまうものでしたが、現代の UAV (無人航空機) はエレガントで機敏で、長時間空中に留まることができます。現在では、水中調査から空撮に至るまで、あらゆる用途に使用できるドローンが存在し、古典的なリモコン飛行機を現代風にアレンジしたものもあります。軽量のカメラモジュールと組み合わせることで、素晴らしい写真やビデオ映像を撮影できます。 Powered by Raspberry Pi 製品のこのリストで取り上げている HighGreat 社は、特に 2022 年の北京冬季オリンピックで、コーディネートされたライト ショーでこれらの製品を使用しています。世界中の聴衆がそのエンジニアリング能力を称賛していることから、顧客が自分で組み立てることができる無人航空機の提供と並行して、同社が教育およびエンジニアリング プログラムを成功させているのも不思議ではありません。
+
+エレクトロニクスの入門は、ピモロニのような専門店の本質です。ピモロニは、お小遣い価格で HAT、アクセサリー、オーダーメイドのボードなどを提供し、私たちを楽しませ続けています。 Raspberry Pi と Python/MicroPython の基本をマスターしたら、センサー、コネクタ、ライト、LCD を試して、新しく習得したコーディング スキ…</p><p><img src="https://www.raspberrypi.com/app/uploads/2026/07/Hula-drone-Large-1024x514.jpeg" alt="ビバリウム、ドローン ショー、テレビ キットはすべて Raspberry Pi を利用しています"></p>]]></description><source url="https://www.raspberrypi.com/news/vivariums-drone-shows-and-tv-kits-all-powered-by-raspberry-pi/">Raspberry Pi News</source><media:content url="https://www.raspberrypi.com/app/uploads/2026/07/Hula-drone-Large-1024x514.jpeg" medium="image"/><media:thumbnail url="https://www.raspberrypi.com/app/uploads/2026/07/Hula-drone-Large-1024x514.jpeg"/></item>
+<item><title>PIN を忘れた場合、Galaxy スマートフォンはまもなく工場出荷時の設定に強制的にリセットされます</title><link>https://www.androidauthority.com/samsung-galaxy-one-ui-9-pin-lockout-3691420/</link><guid isPermaLink="true">https://www.androidauthority.com/samsung-galaxy-one-ui-9-pin-lockout-3691420/</guid><pubDate>Mon, 27 Jul 2026 13:31:57 +0000</pubDate><description><![CDATA[<p>PIN を忘れた場合、Galaxy スマートフォンはまもなく工場出荷時の設定に強制的にリセットされます
+
+Samsung の文書では、One UI 9 で PIN を十数回間違えて入力すると、ユーザーがデバイスからロックアウトされることが確認されています。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+PIN を忘れた場合、Galaxy スマートフォンはまもなく工場出荷時の設定に強制的にリセットされます
+
+0 • Paul Jones / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Samsung の文書によると、One UI 9 では、間違った PIN、パスワード、またはパターンの試行回数が 13 回に制限されることが確認されています。
+
+これは Android 17 に対する最近の変更の一部ですが、Samsung の実装はより厳格です。
+
+Samsung は、同じパスワードまたは PIN による繰り返しの試行を無視し、そのような試行は全体の失敗数の集計にはカウントされません。
+
+Android スマートフォンのロック画面の PIN を間違って入力した経験は誰しもあるはずです。 Android プラットフォームは、ロック画面で許可される間違った PIN の試行回数についてかなり寛容でした。最近わかったように、Google は Android 17 でネジを少し締めました。これらの変更は One UI 9 にも徐々に波及すると予想されますが、Samsung はより積極的なアプローチをとっています。
+
+週末に公開されたサポート文書によると、One UI 9 は、ロック画面パターン、PIN、またはパスワードの連続した誤った試行に対して「より厳格なロック画面セキュリティ対策」を採用しています。 Android 17 では試行回数が 5 年間で 1,800 回からわずか 20 回に減りましたが、One UI …</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/05/OneUI-9-update-screen-on-S26-Ultra-straight-on.jpg" alt="PIN を忘れた場合、Galaxy スマートフォンはまもなく工場出荷時の設定に強制的にリセットされます"></p>]]></description><source url="https://www.androidauthority.com/samsung-galaxy-one-ui-9-pin-lockout-3691420/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/05/OneUI-9-update-screen-on-S26-Ultra-straight-on.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/05/OneUI-9-update-screen-on-S26-Ultra-straight-on.jpg"/></item>
+<item><title>クアルコムはチップ価格の値上げが差し迫っていることをハードウェアパートナーに通知したと伝えられている</title><link>https://www.androidauthority.com/qualcomm-chip-price-increase-3691444/</link><guid isPermaLink="true">https://www.androidauthority.com/qualcomm-chip-price-increase-3691444/</guid><pubDate>Mon, 27 Jul 2026 13:20:14 +0000</pubDate><description><![CDATA[<p>クアルコムはチップ価格の値上げが差し迫っていることをハードウェアパートナーに通知したと伝えられている
+
+クアルコムは2026年9月1日にSnapdragonチップの価格を2桁引き上げるといわれており、これにより主要ハイテクブランドのハードウェアコストが上昇する。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+クアルコムはチップ価格の値上げが差し迫っていることをハードウェアパートナーに通知したと伝えられている
+
+0 • Qualcomm Google Discover でフォローしてください 優先ソースとして追加してください TL;DR クアルコムは、チップの価格が 2026 年 9 月 1 日から 2 桁の割合で値上げされることをハードウェア パートナーに通知したと言われています。
+
+半導体とメモリの供給制約が厳しいため、TSMCなどの主要製造パートナーは、より高い製造コストをクアルコムに転嫁することを余儀なくされている。
+
+これらのコストは現在ハードウェア ブランドに転嫁されており、その後ハードウェア ブランドが消費者に転嫁することになります。 2026 年末から 2027 年にかけて、携帯電話の価格はさらに上昇すると予想されます。
+
+クアルコムは、チップの価格が2026年9月1日から2桁の割合で値上げされるとハードウェアパートナーに通知したと伝えられています。コンポーネントコストの高騰により、すでにPixel 11シリーズなどの次期フラッグシップ製品が脅かされており、クアルコムはより安価なSnapdragon 8 Elite Gen 5バリアントの検討を迫られているようですが、この体系的な調整は、モバイルエコシステム全体が価格ショックにさらされていることを裏付けています。
+
+ブルームバーグの報道によると、クアルコムはハードウェアパートナーに今後の移行を確認する書簡を送り、サプライヤーとコンポーネントのボトルネックにより運用コストの上昇をもはや吸収できないと述べた。
+
+この値上げの波及効果は…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2025/09/Qualcomm-Snapdragon-8-Elite-Gen-5-Official-4.jpg" alt="クアルコムはチップ価格の値上げが差し迫っていることをハードウェアパートナーに通知したと伝えられている"></p>]]></description><source url="https://www.androidauthority.com/qualcomm-chip-price-increase-3691444/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2025/09/Qualcomm-Snapdragon-8-Elite-Gen-5-Official-4.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2025/09/Qualcomm-Snapdragon-8-Elite-Gen-5-Official-4.jpg"/></item>
+<item><title>サムスンのスマートグラスは携帯電話に取って代わろうとしているわけではありません、それが最大の利点かもしれません</title><link>https://www.androidauthority.com/samsung-smart-glasses-privacy-durability-3691448/</link><guid isPermaLink="true">https://www.androidauthority.com/samsung-smart-glasses-privacy-durability-3691448/</guid><pubDate>Mon, 27 Jul 2026 13:15:16 +0000</pubDate><description><![CDATA[<p>サムスンのスマートグラスは携帯電話に取って代わろうとしているわけではありません、それが最大の利点かもしれません
+
+サムスンは、同社のスマートグラスはスマートフォンに代わるものではなく、スマートフォンを補完するように設計されており、安全に機能すると述べている。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+サムスンのスマートグラスは携帯電話に取って代わろうとしているわけではない、それが最大の利点かもしれない
+
+0 • Paul Jones / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR サムスンは、自社のスマートグラスはスマートフォンに代わるものではなく、スマートフォンを補完するように設計されていると述べています。
+
+同社は、携帯電話グレードの耐久性と強力なプライバシー保護を約束しながら、AI 処理において Galaxy スマートフォンに大きく依存しています。
+
+サムスンのアプローチは、AI メガネに対するメタのビジョンとは対照的であり、最大の競争力の 1 つを発揮します。
+
+サムスンが最近の Galaxy Unpacked でスマート グラスを展示したとき、注目のほとんどはハードウェア自体に集中していました。同社は、Gentle Monster および Warby Parker との提携、Qualcomm Snapdragon AR1 プラットフォーム、音声ファースト エクスペリエンス、および最大 9 時間のバッテリー寿命を確認しました。しかし、製品の背後にある哲学についてはほとんど語られていませんでした。
+
+さて、サムスン幹部の新たなコメントは、より明確な状況を描いている。
+
+ロンドンでのGalaxy Unpacked後の記者会見で、サムスン電子のXR研究開発責任者チェ・ジェイン氏は、同社はスマートグラスをスマートフォンに代わるデバイスとは考えていない、と述べた。
+
+「スマートグラスはポストスマート…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Intelligent-Eyewear-4.jpg" alt="サムスンのスマートグラスは携帯電話に取って代わろうとしているわけではありません、それが最大の利点かもしれません"></p>]]></description><source url="https://www.androidauthority.com/samsung-smart-glasses-privacy-durability-3691448/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Intelligent-Eyewear-4.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Intelligent-Eyewear-4.jpg"/></item>
+<item><title>Minecraft now recommends 16GB of RAM and a much newer CPU</title><link>https://www.tweaktown.com/rss/click/news/112862/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112862/?c=news-mf</guid><pubDate>Mon, 27 Jul 2026 13:10:10 +0000</pubDate><description><![CDATA[<p>Minecraft now recommends 16GB of RAM and a much newer CPU</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112862/?c=news-mf">TweakTown</source></item>
+<item><title>AI 開発者は、10 ドルの ESP32-S3 マイクロコントローラーで 2,890 万パラメータのモデルを実行 — Google のレイヤーごとの埋め込み技術を使用し、テーブルを 16MB のフラッシュ メモリに保存</title><link>https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-developer-runs-28-9-million-parameter-model-on-usd10-esp32-s3-microcontroller-uses-googles-per-layer-embeddings-technique-stores-table-on-16mb-flash-memory</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-developer-runs-28-9-million-parameter-model-on-usd10-esp32-s3-microcontroller-uses-googles-per-layer-embeddings-technique-stores-table-on-16mb-flash-memory</guid><pubDate>Mon, 27 Jul 2026 13:07:53 +0000</pubDate><description><![CDATA[<p>AI 開発者は、10 ドルの ESP32-S3 マイクロコントローラーで 2,890 万パラメータのモデルを実行 — Google のレイヤーごとの埋め込み技術を使用し、テーブルを 16MB のフラッシュ メモリに保存
+
+明らかな制限があるにもかかわらず、10 ドル未満のマイクロコントローラーで実行されるローカル モデルは印象的です。
+
+AI 開発者は、10 ドルの ESP32-S3 マイクロコントローラーで 2,890 万パラメータのモデルを実行 — Google のレイヤーごとの埋め込み技術を使用し、テーブルを 16MB のフラッシュ メモリに保存
+
+明らかな制限があるにもかかわらず、10 ドル未満のマイクロコントローラーで実行されるローカル モデルは印象的です。
+
+(画像クレジット: Slava S./X) リンクをコピー
+
+1 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 最近、ローカル AI の実行について話すとき、会話は通常、RTX Spark のようなミニ PC を中心に展開するか、ホーム サーバーやばかげた高価なプロフェッショナル用 GPU についての物思いにふけるかのどちらかになります。さて、ここしばらくで最も印象的な AI ハードウェアのトリックが、まともなハンバーガーよりも安いシリコンで起こったと思います。先週、GitHub 上では単に「slvDev」と呼ばれる Slava S という名前のウクライナの開発者が、 ESP32-AI というプロジェクトをドロップしました。それはまさにあなたが考えているとおりです。彼は、ESP32-S3 マイクロコントローラー上で、完全にデバイス上でローカルに実行される 2,890 万のパラメーターの言語モデルを手に入れました。
+
+この小さなチップに関するこれまでの記事をまだ読んでいない方のために説明します。ESP32-S3 ボードは、コンピューティングの世界全体でほぼ最高のコストパフォーマンスを提供します。ここアメリカでは、保護ケース付きのボードが 2…</p><p><img src="https://cdn.mos.cms.futurecdn.net/rJLKQc9rokgCtsp5sxcjs-1920-80.jpg" alt="AI 開発者は、10 ドルの ESP32-S3 マイクロコントローラーで 2,890 万パラメータのモデルを実行 — Google のレイヤーごとの埋め込み技術を使用し、テーブルを 16MB のフラッシュ メモリに保存"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-developer-runs-28-9-million-parameter-model-on-usd10-esp32-s3-microcontroller-uses-googles-per-layer-embeddings-technique-stores-table-on-16mb-flash-memory">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/rJLKQc9rokgCtsp5sxcjs-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/rJLKQc9rokgCtsp5sxcjs-1920-80.jpg"/></item>
+<item><title>Chinese Memory Giant CXMT Goes Public, Stock Already Up 466%</title><link>https://www.techpowerup.com/351100/chinese-memory-giant-cxmt-goes-public-stock-already-up-466</link><guid isPermaLink="true">https://www.techpowerup.com/351100/chinese-memory-giant-cxmt-goes-public-stock-already-up-466</guid><pubDate>Mon, 27 Jul 2026 13:03:31 +0000</pubDate><description><![CDATA[<p>Chinese Memory Giant CXMT Goes Public, Stock Already Up 466%</p>]]></description><source url="https://www.techpowerup.com/351100/chinese-memory-giant-cxmt-goes-public-stock-already-up-466">TechPowerUp</source></item>
+<item><title>Stalker 2 は 8 月にメジャー 2.0 アップデートと新しい拡張を取得します</title><link>https://www.kitguru.net/gaming/matthew-wilson/stalker-2-gets-major-2-0-update-and-new-expansion-in-august/</link><guid isPermaLink="true">https://www.kitguru.net/gaming/matthew-wilson/stalker-2-gets-major-2-0-update-and-new-expansion-in-august/</guid><pubDate>Mon, 27 Jul 2026 13:00:01 +0000</pubDate><description><![CDATA[<p>Stalker 2 は 8 月にメジャー 2.0 アップデートと新しい拡張を取得します
+
+GSC Game World は、Stalker 2 の今後のメジャー拡張である Cost of Hope のリリース日を正式に発表しました。新しい拡張は、ベース ゲームのメジャー無料 2.0 アップデートとともに 8 月に配信されます。
+
+Stalker 2 は 8 月にメジャー 2.0 アップデートと新しい拡張を取得します
+
+Matthew Wilson 11 時間前 注目の技術ニュース , ソフトウェア &amp; ゲーム
+
+GSC Game World は、Stalker 2 の今後のメジャー拡張である Cost of Hope のリリース日を正式に発表しました。新しい拡張は、ベース ゲームのメジャー無料 2.0 アップデートとともに 8 月に配信されます。新しいトレーラーで明らかになったように、Stalker 2: Cost of Hope は 8 月 20 日に発売されます。新しい拡張では、プレイヤーは新しいクエストラインに送られ、新しい武器を発見し、新しい敵に遭遇し、これまで知られていなかった場所を探索します。 Cost of Hope は有料拡張ですが、基本ゲームのみを所有している人にとっても楽しみなものがあります。 8 月 20 日には、安定性とパフォーマンスがさらに向上した新しいバージョンの Unreal Engine 5 にゲームをアップグレードするメジャー無料アップデートである Stalker 2 V2.0 もリリースされます。アップデート 2.0 とコスト オブ ホープ拡張についてはまだわかっていないことがたくさんありますが、どちらもわずか数週間先なので、詳細を知るために長く待つ必要はありません。 KitGuru のコメント: 新しい拡張のために Stalker 2 に戻りますか?パトロンになりましょう！ Facebookをシェアする</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/03/stalker-2-expansion-616x330.jpg" alt="Stalker 2 は 8 月にメジャー 2.0 アップデートと新しい拡張を取得します"></p>]]></description><source url="https://www.kitguru.net/gaming/matthew-wilson/stalker-2-gets-major-2-0-update-and-new-expansion-in-august/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/03/stalker-2-expansion-616x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/03/stalker-2-expansion-616x330.jpg"/></item>
+<item><title>007 First Light ditches Denuvo DRM just as first patch arrives packing a ton of bug fixes and some new content</title><link>https://www.tweaktown.com/rss/click/news/112861/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112861/?c=news-mf</guid><pubDate>Mon, 27 Jul 2026 12:30:03 +0000</pubDate><description><![CDATA[<p>007 First Light ditches Denuvo DRM just as first patch arrives packing a ton of bug fixes and some new content</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112861/?c=news-mf">TweakTown</source></item>
+<item><title>Android 上で最高の PS2 エミュレータが LAN プレイのサポートを獲得しました</title><link>https://www.androidauthority.com/armsx2-ps2-emulator-android-system-link-3691396/</link><guid isPermaLink="true">https://www.androidauthority.com/armsx2-ps2-emulator-android-system-link-3691396/</guid><pubDate>Mon, 27 Jul 2026 12:13:46 +0000</pubDate><description><![CDATA[<p>Android 上で最高の PS2 エミュレータが LAN プレイのサポートを獲得しました
+
+近くの友達と一緒にPS2のゲームをプレイしたいと思ったことはありませんか？ ARMSX2 は、バックアップおよび復元機能に加えて、システム リンクのサポートをサポートするようになりました。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+Android 上で最高の PS2 エミュレータが LAN プレイのサポートを獲得しました
+
+0 • Hadlee Simons / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Android 上の ARMSX2 エミュレータは、システム リンクを介した PS2 ゲームのプレイをサポートするようになりました。
+
+参加する Android デバイスは通常、同じインターネット接続に接続する必要があります。
+
+最近のアップデートでは、保存状態、メモリ カード、スクリーンショット、その他のデータを簡単にバックアップおよび復元する方法も提供されています。
+
+ARMSX2 は、継続的な追加、改善、修正のおかげで、すぐに Android で最高の PS2 エミュレータになりました。チームはここで終わるわけではなく、ここ数日間でさらにいくつかのアップデートをリリースしたばかりです。そして、あるアップデートにより、素晴らしいマルチプレイヤー機能がもたらされます。
+
+ARMSX2 v2.6.5.1 は 2 日前に GitHub と Play ストアでリリースされ、システム リンク ゲームプレイのサポートが追加されました。初心者のために説明すると、システム リンクまたは LAN 機能により、PS2 の所有者は自分のコンソールを物理的に接続して、サポートされているゲームをプレイすることができました。この機能は、ブロードバンド インターネット接続が広く普及する前に特に人気がありました。
+
+チームによると…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/07/ARMSX2-PS2-emulator-on-Retroid-handheld.jpg" alt="Android 上で最高の PS2 エミュレータが LAN プレイのサポートを獲得しました"></p>]]></description><source url="https://www.androidauthority.com/armsx2-ps2-emulator-android-system-link-3691396/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/07/ARMSX2-PS2-emulator-on-Retroid-handheld.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/07/ARMSX2-PS2-emulator-on-Retroid-handheld.jpg"/></item>
 <item><title>この自己ホスト型アプリにより、記事の保存方法と読み方が完全に変わりました。</title><link>https://www.xda-developers.com/self-hosted-app-changed-how-i-save-and-read-articles/</link><guid isPermaLink="true">https://www.xda-developers.com/self-hosted-app-changed-how-i-save-and-read-articles/</guid><pubDate>Mon, 27 Jul 2026 11:30:10 +0000</pubDate><description><![CDATA[<p>この自己ホスト型アプリにより、記事の保存方法と読み方が完全に変わりました。
 
 ブックマークが決して読まない記事でいっぱいの場合は、この自己ホスト型アプリが必要なアップグレードになる可能性があります。
@@ -1921,21 +2078,6 @@ Windows 7、macOS 10.14.5 Mojave以降
 Windows 10 64 ビット、ARM 上の Windows、macOS 12 以降、または Linux 64 ビット
 
 Wi…</p><p><img src="https://cdn.mos.cms.futurecdn.net/XYHm7U5bXvPvzNzHYVvuxY-1920-80.jpg" alt="Minecraft のシステム要件が 17 年ぶりに引き上げられる - Microsoft は現在、Java Edition を実行するために 16GB の RAM と 2020 年代以降の CPU を推奨しています"></p>]]></description><source url="https://www.tomshardware.com/video-games/pc-gaming/minecraft-system-requirements-raised-for-the-first-time-in-17-years-microsoft-now-recommends-16gb-of-ram-and-a-2020s-or-newer-cpu-to-run-the-java-edition">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/XYHm7U5bXvPvzNzHYVvuxY-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/XYHm7U5bXvPvzNzHYVvuxY-1920-80.jpg"/></item>
-<item><title>3D プリントされた F-14 Tomcat は、「世界初のマイクロプロセッサ」を FPGA で再現したものを使用しています。CADC の MP944 チップは、戦闘機の旋回翼システムなどを制御しています</title><link>https://www.tomshardware.com/pc-components/cpus/3d-printed-f-14-tomcat-uses-an-fpga-recreation-of-the-worlds-first-microprocessor-cadcs-mp944-chip-controls-the-fighters-swing-wing-system-among-other-things</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/cpus/3d-printed-f-14-tomcat-uses-an-fpga-recreation-of-the-worlds-first-microprocessor-cadcs-mp944-chip-controls-the-fighters-swing-wing-system-among-other-things</guid><pubDate>Sun, 26 Jul 2026 12:05:00 +0000</pubDate><description><![CDATA[<p>3D プリントされた F-14 Tomcat は、「世界初のマイクロプロセッサ」を FPGA で再現したものを使用しています。CADC の MP944 チップは、戦闘機の旋回翼システムなどを制御しています
-
-オープン ソース リソースには、6 つのオリジナル CADC チップすべてのコード、ドキュメント、テストベンチが含まれています。
-
-3D プリントされた F-14 Tomcat は、「世界初のマイクロプロセッサ」を FPGA で再現したものを使用しています。CADC の MP944 チップは、戦闘機の旋回翼システムなどを制御しています
-
-オープン ソース リソースには、6 つのオリジナル CADC チップすべてのコード、ドキュメント、テストベンチが含まれています。
-
-(画像クレジット: Public Domain ) リンクをコピーして共有
-
-フォローしてください Google ニュースレターの優先ソースとして追加してください ニュースレターを購読してください FPGA と組み込みシステムの専門家であるアラン テイラーは、アメリカ海軍の F-14 トムキャットのセントラル エア データ コンピューター (CADC) を FPGA で再現しました。 CADC は、F14 の特徴的な多関節掃引翼システムの制御を含む、F14 の高度な戦闘機機能を支える頭脳であることで有名です。それでは、新しい FPGA をテストするには、F-14 Tomcat の 3D プリント スケール モデルよりも良い方法があるでしょうか?以下に埋め込まれたビデオをご覧ください。
-
-金曜日はデモの日です。私たちは F14 CADC を再作成しましたが、実際のスイング翼機能を使用してテストできることが正しいと考えました。そこで、最初のテストとして 3D プリントされた F14 を作成しました。 https://t.co/UUvebMIXei pic.twitter.com/3Mfcvo7Pnq 2026年7月24日
-
-私たちは昨年、このフライトコンピュータが実際に「世界初のマイクロプロセッサ」を搭載し…</p><p><img src="https://cdn.mos.cms.futurecdn.net/QUbvFrNvCfj7j5zK8joBGS-1920-80.jpg" alt="3D プリントされた F-14 Tomcat は、「世界初のマイクロプロセッサ」を FPGA で再現したものを使用しています。CADC の MP944 チップは、戦闘機の旋回翼システムなどを制御しています"></p>]]></description><source url="https://www.tomshardware.com/pc-components/cpus/3d-printed-f-14-tomcat-uses-an-fpga-recreation-of-the-worlds-first-microprocessor-cadcs-mp944-chip-controls-the-fighters-swing-wing-system-among-other-things">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/QUbvFrNvCfj7j5zK8joBGS-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/QUbvFrNvCfj7j5zK8joBGS-1920-80.jpg"/></item>
 <item><title>HP OmniBook X Flip 14 レビュー: プレミアムなデザイン、中程度のパフォーマンス</title><link>https://www.tomshardware.com/laptops/hp-omnibook-x-flip-14-review</link><guid isPermaLink="true">https://www.tomshardware.com/laptops/hp-omnibook-x-flip-14-review</guid><pubDate>Sun, 26 Jul 2026 12:05:00 +0000</pubDate><description><![CDATA[<p>HP OmniBook X Flip 14 レビュー: プレミアムなデザイン、中程度のパフォーマンス
 
 洗練されたハードウェアを備えたプレミアム コンバーチブルですが、その価格とパフォーマンスを正当化するのは困難です。
@@ -1953,6 +2095,21 @@ Tom&#39;s Hardware を信頼できる理由 当社の専門レビュー担当者
 HP OmniBook X Flip 14 のデザイン
 
 OmniBook X Flip 14 は、HP の最高の設計です。深みのあるエスプレッソ仕上げにより、ラップトップに豊かな、ほとんどエグゼクティブな雰囲気が与えられます。 (もう 1 色はアトモスフィア …</p><p><img src="https://cdn.mos.cms.futurecdn.net/Bs27aHWhxptKJiUxA3UfKX-1920-80.jpg" alt="HP OmniBook X Flip 14 レビュー: プレミアムなデザイン、中程度のパフォーマンス"></p>]]></description><source url="https://www.tomshardware.com/laptops/hp-omnibook-x-flip-14-review">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/Bs27aHWhxptKJiUxA3UfKX-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/Bs27aHWhxptKJiUxA3UfKX-1920-80.jpg"/></item>
+<item><title>3D プリントされた F-14 Tomcat は、「世界初のマイクロプロセッサ」を FPGA で再現したものを使用しています。CADC の MP944 チップは、戦闘機の旋回翼システムなどを制御しています</title><link>https://www.tomshardware.com/pc-components/cpus/3d-printed-f-14-tomcat-uses-an-fpga-recreation-of-the-worlds-first-microprocessor-cadcs-mp944-chip-controls-the-fighters-swing-wing-system-among-other-things</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/cpus/3d-printed-f-14-tomcat-uses-an-fpga-recreation-of-the-worlds-first-microprocessor-cadcs-mp944-chip-controls-the-fighters-swing-wing-system-among-other-things</guid><pubDate>Sun, 26 Jul 2026 12:05:00 +0000</pubDate><description><![CDATA[<p>3D プリントされた F-14 Tomcat は、「世界初のマイクロプロセッサ」を FPGA で再現したものを使用しています。CADC の MP944 チップは、戦闘機の旋回翼システムなどを制御しています
+
+オープン ソース リソースには、6 つのオリジナル CADC チップすべてのコード、ドキュメント、テストベンチが含まれています。
+
+3D プリントされた F-14 Tomcat は、「世界初のマイクロプロセッサ」を FPGA で再現したものを使用しています。CADC の MP944 チップは、戦闘機の旋回翼システムなどを制御しています
+
+オープン ソース リソースには、6 つのオリジナル CADC チップすべてのコード、ドキュメント、テストベンチが含まれています。
+
+(画像クレジット: Public Domain ) リンクをコピーして共有
+
+フォローしてください Google ニュースレターの優先ソースとして追加してください ニュースレターを購読してください FPGA と組み込みシステムの専門家であるアラン テイラーは、アメリカ海軍の F-14 トムキャットのセントラル エア データ コンピューター (CADC) を FPGA で再現しました。 CADC は、F14 の特徴的な多関節掃引翼システムの制御を含む、F14 の高度な戦闘機機能を支える頭脳であることで有名です。それでは、新しい FPGA をテストするには、F-14 Tomcat の 3D プリント スケール モデルよりも良い方法があるでしょうか?以下に埋め込まれたビデオをご覧ください。
+
+金曜日はデモの日です。私たちは F14 CADC を再作成しましたが、実際のスイング翼機能を使用してテストできることが正しいと考えました。そこで、最初のテストとして 3D プリントされた F14 を作成しました。 https://t.co/UUvebMIXei pic.twitter.com/3Mfcvo7Pnq 2026年7月24日
+
+私たちは昨年、このフライトコンピュータが実際に「世界初のマイクロプロセッサ」を搭載し…</p><p><img src="https://cdn.mos.cms.futurecdn.net/QUbvFrNvCfj7j5zK8joBGS-1920-80.jpg" alt="3D プリントされた F-14 Tomcat は、「世界初のマイクロプロセッサ」を FPGA で再現したものを使用しています。CADC の MP944 チップは、戦闘機の旋回翼システムなどを制御しています"></p>]]></description><source url="https://www.tomshardware.com/pc-components/cpus/3d-printed-f-14-tomcat-uses-an-fpga-recreation-of-the-worlds-first-microprocessor-cadcs-mp944-chip-controls-the-fighters-swing-wing-system-among-other-things">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/QUbvFrNvCfj7j5zK8joBGS-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/QUbvFrNvCfj7j5zK8joBGS-1920-80.jpg"/></item>
 <item><title>Warhorse Studios の商標が Kingdom Come マルチプレイヤー ゲームを示唆</title><link>https://www.kitguru.net/gaming/matthew-wilson/warhorse-studios-trademark-hints-at-kingdom-come-multiplayer-game/</link><guid isPermaLink="true">https://www.kitguru.net/gaming/matthew-wilson/warhorse-studios-trademark-hints-at-kingdom-come-multiplayer-game/</guid><pubDate>Sun, 26 Jul 2026 12:00:25 +0000</pubDate><description><![CDATA[<p>Warhorse Studios の商標が Kingdom Come マルチプレイヤー ゲームを示唆
 
 数か月前、Warhorse Studios は、新しいキングダムカム ゲームとロード オブ ザ リングのタイトルという 2 つの新しいプロジェクトに取り組んでいることを発表しました。ここで、Kingdom Come Salvation と呼ばれる次の Kingdom Come プロジェクトについて、もう少し詳しくわかりました。
@@ -4070,25 +4227,6 @@ Glorious がデュアルバッテリーシステムを搭載した GHS Wireless 
 João Silva 45分前 ゼネラルテック
 
 Glorious は、新しく発表された GHS Wireless InfinitePlay でヘッドセット市場での存在感を拡大しています。これは、2 つのホットスワップ可能な 85 時間以上のバッテリー パックと内蔵バックアップ バッテリーを介して連続使用できるように設計されたワイヤレス ゲーミング ヘッドセットです。 GHS Wireless InfinitePlay が交換中に切断されるのを防ぐために、同社は内部に Guardian Battery System を組み込んでいます。この内蔵バッテリーは、メイン パックを交換する場合でも、ヘッドセットのみで 3 時間以上電力を供給し続けます。オーディオのパフォーマンスは、カスタム調整された 40mm 角度ドライバーによって駆動され、Glorious はこれを人間の耳の位置に合わせて空間認識と音の分離を向上させると主張しています。通信用に、ヘッドセットには環境ノイズキャンセリング機能を備えた取り外し可能なブームマイクと、携帯電話通話用の統合型イヤーカップマイクが搭載されています。接続は PC、PS5、PS4、Nintendo Switch の 2.4GHz ワイヤレスをカバーし、Bluetooth はモバイル オーディオを処理します。ユーザーは、専用のオンイヤー コントロールを使用してワイヤレ…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/07/GLO-A-5PC-BLK_Web_Gallery_1-732x330.jpg" alt="Glorious がデュアルバッテリーシステムを搭載した GHS Wireless InfinitePlay ヘッドセットを発表"></p>]]></description><source url="https://www.kitguru.net/channel/generaltech/joao-silva/glorious-unveils-ghs-wireless-infiniteplay-headset-with-dual-battery-system/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/07/GLO-A-5PC-BLK_Web_Gallery_1-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/07/GLO-A-5PC-BLK_Web_Gallery_1-732x330.jpg"/></item>
-<item><title>Microsoft アカウントの問題により一部のプレイヤーがロックアウトされ、Halo: Campaign Evolved が発売前にクラックされる</title><link>https://www.techpowerup.com/351060/halo-campaign-evolved-cracked-before-launch-as-microsoft-account-issues-leave-some-players-locked-out</link><guid isPermaLink="true">https://www.techpowerup.com/351060/halo-campaign-evolved-cracked-before-launch-as-microsoft-account-issues-leave-some-players-locked-out</guid><pubDate>Fri, 24 Jul 2026 15:00:25 +0000</pubDate><description><![CDATA[<p>Microsoft アカウントの問題により一部のプレイヤーがロックアウトされ、Halo: Campaign Evolved が発売前にクラックされる
-
-Halo: Campaign Evolved ゲームは、正式リリースのわずか 4 日前にクラックされました。ハッカーのグループは、自分たちのバージョンは Microsoft や Steam アカウントを必要とせずに Windows 上でスムーズに動作すると主張しています。 Xbox Game Studios 傘下の Halo Studios によって開発されたこのゲームは、Microsoft の DRM によって保護されていました。
-
-Microsoft アカウントの問題により一部のプレイヤーがロックアウトされ、Halo: Campaign Evolved が発売前にクラックされる
-
-2025 年 8 月 18 日 Microsoft Windows 11 24H2 アップデートにより SSD 障害が発生する可能性がある (278)
-
-2025 年 10 月 21 日 Windows 11 25H2 October Update のバグにより回復環境が使用不能になる (170)
-
-2025 年 10 月 17 日 Microsoft が Windows 11 October Update で Localhost を破壊し、ユーザーは強制的に元に戻される (105)
-
-2025 年 10 月 1 日 Microsoft が Windows 11 25H2 をリリース…新機能はゼロ？ (122)
-
-2025 年 12 月 14 日 Microsoft Copilot AI が LG TV に搭載、削除できない (144)
-
-2025 年 10 月 7 日 Microsoft が Windows 11 でのオンライン アカウント バイパスをブロック (162)
-
-2026 年 5 月 1 日 Microsoft は、Windows 11 の「心配しない」アップグレードとして 32 GB RAM を推奨するようになりました (1…</p><p><img src="https://www.techpowerup.com/img/zw0qg3w0DnMe8Dep.jpg" alt="Microsoft アカウントの問題により一部のプレイヤーがロックアウトされ、Halo: Campaign Evolved が発売前にクラックされる"></p>]]></description><source url="https://www.techpowerup.com/351060/halo-campaign-evolved-cracked-before-launch-as-microsoft-account-issues-leave-some-players-locked-out">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/zw0qg3w0DnMe8Dep.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/zw0qg3w0DnMe8Dep.jpg"/></item>
 <item><title>Halo: キャンペーンが進化 - 有料プレイヤーが Microsoft アカウントのリンクと格闘し、ローンチ前にクラックされる</title><link>https://www.techpowerup.com/351060/halo-campaign-evolved-cracked-before-launch-as-paying-players-fight-microsoft-account-linking</link><guid isPermaLink="true">https://www.techpowerup.com/351060/halo-campaign-evolved-cracked-before-launch-as-paying-players-fight-microsoft-account-linking</guid><pubDate>Fri, 24 Jul 2026 15:00:25 +0000</pubDate><description><![CDATA[<p>Halo: キャンペーンが進化 - 有料プレイヤーが Microsoft アカウントのリンクと格闘し、ローンチ前にクラックされる
 
 Halo: Campaign Evolved ゲームは、正式リリースのわずか 4 日前にクラックされました。ハッカーのグループは、自分たちのバージョンは Microsoft や Steam アカウントを必要とせずに Windows 上でスムーズに動作すると主張しています。 Xbox Game Studios 傘下の Halo Studios によって開発されたこのゲームは、Microsoft の DRM によって保護されていました。
@@ -4110,6 +4248,25 @@ Halo: キャンペーンが進化 - 有料プレイヤーが Microsoft アカウ
 2026 年 5 月 1 日 Microsoft は、Windows 11 の「心配しない」アップグレードとして 32 GB RAM を推奨するようになりました (147)
 
 2026 年 4 月 28 日…</p><p><img src="https://www.techpowerup.com/img/zw0qg3w0DnMe8Dep.jpg" alt="Halo: キャンペーンが進化 - 有料プレイヤーが Microsoft アカウントのリンクと格闘し、ローンチ前にクラックされる"></p>]]></description><source url="https://www.techpowerup.com/351060/halo-campaign-evolved-cracked-before-launch-as-paying-players-fight-microsoft-account-linking">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/zw0qg3w0DnMe8Dep.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/zw0qg3w0DnMe8Dep.jpg"/></item>
+<item><title>Microsoft アカウントの問題により一部のプレイヤーがロックアウトされ、Halo: Campaign Evolved が発売前にクラックされる</title><link>https://www.techpowerup.com/351060/halo-campaign-evolved-cracked-before-launch-as-microsoft-account-issues-leave-some-players-locked-out</link><guid isPermaLink="true">https://www.techpowerup.com/351060/halo-campaign-evolved-cracked-before-launch-as-microsoft-account-issues-leave-some-players-locked-out</guid><pubDate>Fri, 24 Jul 2026 15:00:25 +0000</pubDate><description><![CDATA[<p>Microsoft アカウントの問題により一部のプレイヤーがロックアウトされ、Halo: Campaign Evolved が発売前にクラックされる
+
+Halo: Campaign Evolved ゲームは、正式リリースのわずか 4 日前にクラックされました。ハッカーのグループは、自分たちのバージョンは Microsoft や Steam アカウントを必要とせずに Windows 上でスムーズに動作すると主張しています。 Xbox Game Studios 傘下の Halo Studios によって開発されたこのゲームは、Microsoft の DRM によって保護されていました。
+
+Microsoft アカウントの問題により一部のプレイヤーがロックアウトされ、Halo: Campaign Evolved が発売前にクラックされる
+
+2025 年 8 月 18 日 Microsoft Windows 11 24H2 アップデートにより SSD 障害が発生する可能性がある (278)
+
+2025 年 10 月 21 日 Windows 11 25H2 October Update のバグにより回復環境が使用不能になる (170)
+
+2025 年 10 月 17 日 Microsoft が Windows 11 October Update で Localhost を破壊し、ユーザーは強制的に元に戻される (105)
+
+2025 年 10 月 1 日 Microsoft が Windows 11 25H2 をリリース…新機能はゼロ？ (122)
+
+2025 年 12 月 14 日 Microsoft Copilot AI が LG TV に搭載、削除できない (144)
+
+2025 年 10 月 7 日 Microsoft が Windows 11 でのオンライン アカウント バイパスをブロック (162)
+
+2026 年 5 月 1 日 Microsoft は、Windows 11 の「心配しない」アップグレードとして 32 GB RAM を推奨するようになりました (1…</p><p><img src="https://www.techpowerup.com/img/zw0qg3w0DnMe8Dep.jpg" alt="Microsoft アカウントの問題により一部のプレイヤーがロックアウトされ、Halo: Campaign Evolved が発売前にクラックされる"></p>]]></description><source url="https://www.techpowerup.com/351060/halo-campaign-evolved-cracked-before-launch-as-microsoft-account-issues-leave-some-players-locked-out">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/zw0qg3w0DnMe8Dep.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/zw0qg3w0DnMe8Dep.jpg"/></item>
 <item><title>私の 3D プリンターは、D&amp;D テーブルを静的なマップから機能的なゲーム メカニクスに変換しました。</title><link>https://www.xda-developers.com/my-3d-printer-turned-my-dd-table-into-functional-game-mechanics/</link><guid isPermaLink="true">https://www.xda-developers.com/my-3d-printer-turned-my-dd-table-into-functional-game-mechanics/</guid><pubDate>Fri, 24 Jul 2026 15:00:10 +0000</pubDate><description><![CDATA[<p>私の 3D プリンターは、D&amp;D テーブルを静的なマップから機能的なゲーム メカニクスに変換しました。
 
 それは私の D&amp;D キャンペーンの最も重要な部分になりました
@@ -4176,8 +4333,8 @@ AMD 幹部は Nvidia の Vera のパフォーマンス結果を見て「非常�
 AMDのコンピューティングおよびエンタープライズソリューション担当コーポレートVPであるRavi Kuppuswany氏は、「NvidiaがVeraのパフォーマンス[数値]を公開したことを非常に嬉しく思います」と述べています。 「私たちは実際には少し保守的でした。実際、ここで得ている数字よりも小さな数字で彼らに勝っていると思っていました…少なくとも10％のアドバンテージがあると考えていました。私たちが発見しているのは…私たちは20％のアドバンテージを持っており、完全な調整さえ終わっていません。」
 
 Kuppuswany 氏のコメントは、上のスライドに重ねて表示されており、Vera と比較して Venice のスループット…</p><p><img src="https://cdn.mos.cms.futurecdn.net/GgKtqC6WfyG7GUmJoH4H7o-1999-80.jpg" alt="AMD 幹部は Nvidia の Vera のパフォーマンス結果を見て「非常に満足」 – 「実際には、もっと小さな数字で我々が彼らを上回っていると思っていました」"></p>]]></description><source url="https://www.tomshardware.com/pc-components/cpus/amd-exec-was-very-happy-to-see-nvidias-vera-performance-results-i-actually-thought-we-were-beating-them-by-smaller-numbers">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/GgKtqC6WfyG7GUmJoH4H7o-1999-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/GgKtqC6WfyG7GUmJoH4H7o-1999-80.jpg"/></item>
-<item><title>Xbox 360 tech powers backwards compatibility on PC, original Xbox games use Xefu emulation</title><link>https://www.tweaktown.com/rss/click/news/112799/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112799/?c=news-mf</guid><pubDate>Fri, 24 Jul 2026 14:33:09 +0000</pubDate><description><![CDATA[<p>Xbox 360 tech powers backwards compatibility on PC, original Xbox games use Xefu emulation</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112799/?c=news-mf">TweakTown</source></item>
 <item><title>Xbox 360 tech powers backwards compatibility on PC, original Xbox games use Xefu emulation</title><link>https://www.tweaktown.com/news/112799/xbox-360-tech-powers-backwards-compatibility-on-pc-original-xbox-games-use-xefu-emulation/index.html</link><guid isPermaLink="true">https://www.tweaktown.com/news/112799/xbox-360-tech-powers-backwards-compatibility-on-pc-original-xbox-games-use-xefu-emulation/index.html</guid><pubDate>Fri, 24 Jul 2026 14:33:09 +0000</pubDate><description><![CDATA[<p>Xbox 360 tech powers backwards compatibility on PC, original Xbox games use Xefu emulation</p>]]></description><source url="https://www.tweaktown.com/news/112799/xbox-360-tech-powers-backwards-compatibility-on-pc-original-xbox-games-use-xefu-emulation/index.html">TweakTown</source></item>
+<item><title>Xbox 360 tech powers backwards compatibility on PC, original Xbox games use Xefu emulation</title><link>https://www.tweaktown.com/rss/click/news/112799/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112799/?c=news-mf</guid><pubDate>Fri, 24 Jul 2026 14:33:09 +0000</pubDate><description><![CDATA[<p>Xbox 360 tech powers backwards compatibility on PC, original Xbox games use Xefu emulation</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112799/?c=news-mf">TweakTown</source></item>
 <item><title>Gemma 4 は軽量で、16 GB のラップトップで動作し、オフラインでも生産性を維持するのに費用は 0 ドルです</title><link>https://www.xda-developers.com/gemma-4-is-lightweight-runs-on-my-16gb-laptop-and-costs-0-to-keep-me-productive-offline/</link><guid isPermaLink="true">https://www.xda-developers.com/gemma-4-is-lightweight-runs-on-my-16gb-laptop-and-costs-0-to-keep-me-productive-offline/</guid><pubDate>Fri, 24 Jul 2026 14:30:10 +0000</pubDate><description><![CDATA[<p>Gemma 4 は軽量で、16 GB のラップトップで動作し、オフラインでも生産性を維持するのに費用は 0 ドルです
 
 私が所有しているラップトップにはこれが搭載されていないものはありません
@@ -5311,35 +5468,6 @@ ESP32-AI は、一貫したストーリーを伝えることができる ESP32-S
 ESP32 の小さなサイズと RAM の制限を考慮すると、オンチップで最大 9 トークン/秒で完全に実行されます。
 
 LLM が世間の注目を集めて以来、人々は見つけられる限りの小さなものに LLM を詰め込もうとしてきました。 Raspberry Pi と ESP32 の両方を使用して AI をローカルで実行し、さまざまな結果が得られる様子を私たちは…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/esp32-ai-featured.jpg?w=1600&amp;h=900&amp;fit=crop" alt="誰かが 2890 万 LLM を ESP32-S3 に押し込んだので、あなたも同じことができます"></p>]]></description><source url="https://www.xda-developers.com/someone-squeezed-a-289m-llm-onto-an-esp32-s3-and-so-can-you/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/esp32-ai-featured.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/esp32-ai-featured.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>Xbox が広告付きの無料ゲーム ストリーミングをテスト</title><link>https://www.techpowerup.com/351042/xbox-tests-ad-supported-free-game-streaming</link><guid isPermaLink="true">https://www.techpowerup.com/351042/xbox-tests-ad-supported-free-game-streaming</guid><pubDate>Fri, 24 Jul 2026 01:18:33 +0000</pubDate><description><![CDATA[<p>Xbox が広告付きの無料ゲーム ストリーミングをテスト
-
-Microsoft が Xbox Cloud ストリーミング サービスの広告サポート バージョンを計画していることを以前に報告しましたが、Xbox Wire による新しい投稿により、この噂がついに実現しつつあることが確認され、Xbox Insider は Xbox アカウント経由で広告サポートの無料ゲーム ストリーミングにアクセスできるようになりました。
-
-Xbox が広告付きの無料ゲーム ストリーミングをテスト
-
-まずはプレーヤーから始めます。広告は価値を生み出す必要があります。
-
-ゲームプレイの流れを中断することはありません。
-
-当社では、広告の品質をコンテンツと同じ基準に保っています。
-
-私たちは何が広告なのかを明確にしています。
-
-私たちは、各プラットフォームでプレーヤーが期待するものに広告が確実に適合するようにします。
-
-2026 年 6 月 7 日 Microsoft、Xbox Series X25 Limited Edition を発表、11 月に発売 (33)
-
-2026 年 4 月 11 日 Microsoft、バッテリーレスの Xbox コントローラーを謝罪、修正のために充電式キットを送付 (35)
-
-2026 年 6 月 12 日 Xbox ゲーム CSO がゲーム内の広告を「手頃な価格の代替案」として売り込む (54)
-
-2025 年 7 月 29 日 ASUS ROG Xbox Ally の予約注文日と価格が明らかに Gamescom の開始に先立ってリーク (8)
-
-2026 年 5 月 22 日 Xbox ゲームが独占アイテムを再評価しているにもかかわらず、クロスプラットフォームの発売は不可能 (12)
-
-2026 年 4 月 20 日 最新のリークにより、Xbox Helix は事実上カスタム APU を持たない単なる PC になることが明らかに (26)
-
-2026 年 3 月 14 日 Microsoft は 2026 年に Xbox シリーズ コンソールにゲーミング コパイ…</p><p><img src="https://www.techpowerup.com/img/eeFzhgbvBdSGKRck.jpg" alt="Xbox が広告付きの無料ゲーム ストリーミングをテスト"></p>]]></description><source url="https://www.techpowerup.com/351042/xbox-tests-ad-supported-free-game-streaming">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/eeFzhgbvBdSGKRck.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/eeFzhgbvBdSGKRck.jpg"/></item>
 <item><title>Xbox が無料の広告付きゲーム ストリーミングをテスト</title><link>https://www.techpowerup.com/351042/xbox-tests-free-ad-supported-game-streaming</link><guid isPermaLink="true">https://www.techpowerup.com/351042/xbox-tests-free-ad-supported-game-streaming</guid><pubDate>Fri, 24 Jul 2026 01:18:33 +0000</pubDate><description><![CDATA[<p>Xbox が無料の広告付きゲーム ストリーミングをテスト
 
 Microsoft が Xbox Cloud ストリーミング サービスの広告サポート バージョンを計画していることを以前に報告しましたが、Xbox Wire による新しい投稿により、この噂がついに実現しつつあることが確認され、Xbox Insider は Xbox アカウント経由で広告サポートの無料ゲーム ストリーミングにアクセスできるようになりました。
@@ -5369,6 +5497,35 @@ Xbox が無料の広告付きゲーム ストリーミングをテスト
 2026 年 4 月 20 日 最新のリークにより、Xbox Helix は事実上カスタム APU を持たない単なる PC になることが明らかに (26)
 
 2026 年 3 月 14 日 Microsoft は 2026 年に Xbox シリーズ コンソールにゲーミング コパイ…</p><p><img src="https://www.techpowerup.com/img/eeFzhgbvBdSGKRck.jpg" alt="Xbox が無料の広告付きゲーム ストリーミングをテスト"></p>]]></description><source url="https://www.techpowerup.com/351042/xbox-tests-free-ad-supported-game-streaming">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/eeFzhgbvBdSGKRck.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/eeFzhgbvBdSGKRck.jpg"/></item>
+<item><title>Xbox が広告付きの無料ゲーム ストリーミングをテスト</title><link>https://www.techpowerup.com/351042/xbox-tests-ad-supported-free-game-streaming</link><guid isPermaLink="true">https://www.techpowerup.com/351042/xbox-tests-ad-supported-free-game-streaming</guid><pubDate>Fri, 24 Jul 2026 01:18:33 +0000</pubDate><description><![CDATA[<p>Xbox が広告付きの無料ゲーム ストリーミングをテスト
+
+Microsoft が Xbox Cloud ストリーミング サービスの広告サポート バージョンを計画していることを以前に報告しましたが、Xbox Wire による新しい投稿により、この噂がついに実現しつつあることが確認され、Xbox Insider は Xbox アカウント経由で広告サポートの無料ゲーム ストリーミングにアクセスできるようになりました。
+
+Xbox が広告付きの無料ゲーム ストリーミングをテスト
+
+まずはプレーヤーから始めます。広告は価値を生み出す必要があります。
+
+ゲームプレイの流れを中断することはありません。
+
+当社では、広告の品質をコンテンツと同じ基準に保っています。
+
+私たちは何が広告なのかを明確にしています。
+
+私たちは、各プラットフォームでプレーヤーが期待するものに広告が確実に適合するようにします。
+
+2026 年 6 月 7 日 Microsoft、Xbox Series X25 Limited Edition を発表、11 月に発売 (33)
+
+2026 年 4 月 11 日 Microsoft、バッテリーレスの Xbox コントローラーを謝罪、修正のために充電式キットを送付 (35)
+
+2026 年 6 月 12 日 Xbox ゲーム CSO がゲーム内の広告を「手頃な価格の代替案」として売り込む (54)
+
+2025 年 7 月 29 日 ASUS ROG Xbox Ally の予約注文日と価格が明らかに Gamescom の開始に先立ってリーク (8)
+
+2026 年 5 月 22 日 Xbox ゲームが独占アイテムを再評価しているにもかかわらず、クロスプラットフォームの発売は不可能 (12)
+
+2026 年 4 月 20 日 最新のリークにより、Xbox Helix は事実上カスタム APU を持たない単なる PC になることが明らかに (26)
+
+2026 年 3 月 14 日 Microsoft は 2026 年に Xbox シリーズ コンソールにゲーミング コパイ…</p><p><img src="https://www.techpowerup.com/img/eeFzhgbvBdSGKRck.jpg" alt="Xbox が広告付きの無料ゲーム ストリーミングをテスト"></p>]]></description><source url="https://www.techpowerup.com/351042/xbox-tests-ad-supported-free-game-streaming">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/eeFzhgbvBdSGKRck.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/eeFzhgbvBdSGKRck.jpg"/></item>
 <item><title>NVIDIA is reportedly increasing the prices of its GeForce RTX GPUs due to rising memory costs</title><link>https://www.tweaktown.com/news/112801/nvidia-is-reportedly-increasing-the-prices-of-its-geforce-rtx-gpus-due-to-rising-memory-costs/index.html</link><guid isPermaLink="true">https://www.tweaktown.com/news/112801/nvidia-is-reportedly-increasing-the-prices-of-its-geforce-rtx-gpus-due-to-rising-memory-costs/index.html</guid><pubDate>Fri, 24 Jul 2026 01:06:09 +0000</pubDate><description><![CDATA[<p>NVIDIA is reportedly increasing the prices of its GeForce RTX GPUs due to rising memory costs</p>]]></description><source url="https://www.tweaktown.com/news/112801/nvidia-is-reportedly-increasing-the-prices-of-its-geforce-rtx-gpus-due-to-rising-memory-costs/index.html">TweakTown</source></item>
 <item><title>Debian が当然の選択であるように見えますが、Ubuntu LTS は最高の Proxmox LXC ベースです</title><link>https://www.xda-developers.com/ubuntu-lts-is-the-best-proxmox-lxc-base-even-though-debian-seems-like-the-obvious-choice/</link><guid isPermaLink="true">https://www.xda-developers.com/ubuntu-lts-is-the-best-proxmox-lxc-base-even-though-debian-seems-like-the-obvious-choice/</guid><pubDate>Fri, 24 Jul 2026 00:00:10 +0000</pubDate><description><![CDATA[<p>Debian が当然の選択であるように見えますが、Ubuntu LTS は最高の Proxmox LXC ベースです
 
@@ -6049,6 +6206,15 @@ PC ハードウェア メーカーは BIOS を通じて無料のパフォーマ�
 By Abhinav Raj 公開 2026 年 7 月 23 日、午後 2 時 30 分 EDT アビナブは、銀行業界でのキャリアから方向転換して、初恋を作家として追求しました。フルタイムで働きながらも、編集長として貢献を続け、その役割を 7 年以上務めました。 2018 年以来、ゲームと生産性に優れた PC を 3 台構築してきた生涯のテクノロジー愛好家である彼は、テクノロジーに対する情熱により、NVIDIA や AMD から ARM に至るまで、半導体業界を常に追い続けています。彼の修士論文は、人工知能が仕事の未来をどのように再形成するかを探求し、新興テクノロジーのより広範な社会的影響に対する彼の好奇心を反映しています。 XDA アカウントにサインインする ほとんどの人は、新しい CPU を古いソケットに差し込み、電源ボタンを押し、空白の黒い画面が表示されるまで、マザーボードがアップグレード可能なソフトウェアを実行していることを知りません。これは、Ryzen 5 3600 から Ryzen 5 5600X に初めてアップグレードした後でのみ BIOS アップデートの存在を発見した人間である私にとって、イライラと入り混じった恐怖の感情です。しかし、そのような瞬間はしばしば間違った教訓を教えてくれます。
 
 新しいチップが起動すると、ほとんどのユーザーは BIOS アップデートを 1 つの目的のタスクとしてファイルに保存し、新しいプロセッサが要求したとき (通常は 5 ～ 6 年に 1 回) にのみ実行します。この前提により、多くの場合、一部の無料機能とそれに伴う追加パフォーマンスが犠牲になる可能性があり、ビルドの古さによっては、その…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/pc-bios.jpg?w=1600&amp;h=900&amp;fit=crop" alt="PC ハードウェア メーカーは BIOS を通じて無料のパフォーマンスを提供し続けていますが、ほとんどのビルダーはそれを主張しません"></p>]]></description><source url="https://www.xda-developers.com/the-cheapest-way-to-make-an-old-pc-feel-new-isnt-a-new-cpu-its-a-bios-update/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/pc-bios.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/pc-bios.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>超音波を利用したマイクジャマー</title><link>https://hackaday.com/2026/07/23/mic-jammer-relies-on-ultrasound/</link><guid isPermaLink="true">https://hackaday.com/2026/07/23/mic-jammer-relies-on-ultrasound/</guid><pubDate>Thu, 23 Jul 2026 18:30:00 +0000</pubDate><description><![CDATA[<p>超音波を利用したマイクジャマー
+
+今日の携帯電話のマイクは、あらゆる種類の状況で音を拾うのに完全に熟達しており、ノイズを除去して音声をキャプチャするためのあらゆる種類の処理技術に支えられています。
+
+今日の携帯電話のマイクは、あらゆる種類の状況で音声を拾うことに完全に熟達しており、ノイズを除去してクリーンな音声をキャプチャするためのあらゆる種類の処理技術に支えられています。 [mcore1976] は、盗聴している可能性のある電話のマイクを妨害するデバイスの開発に取り組んできましたが、今度は高度な処理技術に対抗します。
+
+このビルドでは、マイクロコントローラーの頭脳を使用して、一連の超音波トランスデューサーを制御します。 [mcore1976] はプロジェクトの多くの改訂版を作成し、そのたびに最新のハードウェアでマイクを妨害する能力を改善しました。最新のリビジョンでは、RP2040 マイクロコントローラーと MOSFET 駆動ステージを使用して、20 ～ 80 個の超音波トランスデューサーを制御します。これらは、RP2040 自体から生成される PWM 信号で駆動されます。信号出力は、最近の多くの電話機で使用されている自動利得制御システムを混乱させ、ジャマーが動作しているときにクリアな音声を録音することを困難にするために特別に変調されています。 [mcore1976] が iPhone 17 で実証しているように、妨害装置がオンになっている間、彼の声は理解できない文字化けノイズの中で完全に失われます。
+
+これはニッチなアイデアであり、人間の耳にはほとんど聞こえないものの、電話のマイクに影響を与えるという点でおそらく最も興味深いものです。最近、他の興味深い妨害装置も紹介しました。休憩後の動画。</p><p><img src="https://hackaday.com/wp-content/uploads/2026/07/DIY-Ultrasonic-Microphone-Jammer-final-hardware-update-RP2040-MOSFET-Kicad-8-58-screenshot.png" alt="超音波を利用したマイクジャマー"></p>]]></description><source url="https://hackaday.com/2026/07/23/mic-jammer-relies-on-ultrasound/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/07/DIY-Ultrasonic-Microphone-Jammer-final-hardware-update-RP2040-MOSFET-Kicad-8-58-screenshot.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/07/DIY-Ultrasonic-Microphone-Jammer-final-hardware-update-RP2040-MOSFET-Kicad-8-58-screenshot.png"/></item>
 <item><title>AMD の新しい X100 チップ ラインナップは Strix Halo をロボットに搭載 – 物理 AI 用の APU は Zen 5 CPU、RDNA 3.5 GPU コアを搭載し、Intel の Panther Lake と競合します</title><link>https://www.tomshardware.com/pc-components/cpus/amds-new-x100-chip-lineup-puts-strix-halo-into-robots-apus-for-physical-ai-bring-zen-5-cpu-rdna-3-5-gpu-cores-to-compete-with-intels-panther-lake</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/cpus/amds-new-x100-chip-lineup-puts-strix-halo-into-robots-apus-for-physical-ai-bring-zen-5-cpu-rdna-3-5-gpu-cores-to-compete-with-intels-panther-lake</guid><pubDate>Thu, 23 Jul 2026 18:30:00 +0000</pubDate><description><![CDATA[<p>AMD の新しい X100 チップ ラインナップは Strix Halo をロボットに搭載 – 物理 AI 用の APU は Zen 5 CPU、RDNA 3.5 GPU コアを搭載し、Intel の Panther Lake と競合します
 
 AMDはロボット戦争でIntel（そしてNvidia）と対戦する。
@@ -6062,15 +6228,6 @@ AMDはロボット戦争でIntel（そしてNvidia）と対戦する。
 0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する AMD は、Strix Halo APU を物理 AI の世界に導入します。新しい X100 シリーズのプロセッサーは、クライアント デバイスで流通しているさまざまな Ryzen AI Max モデルと同様の仕様を備えていますが、ロボット工学などの組み込みアプリケーションでの 10 年のライフサイクルを備え、24 時間年中無休の動作に合わせて調整されています。
 
 3 つのオリジナル Strix Halo モデルと一致する 3 つの SKU があります (40 CU の更新バージョンではありません)。最上位の X199 には、16 個の Zen 5 コアと 40 個の RDNA 3.5 CU が搭載されています。 X188 は 12 コアと 32 CU にステップダウンしますが、X168 には 8 コアと同じ 32 CU が付属します。 AMDは各モデルの詳細な仕様を明らかにしていないが、同社によれば、その範囲は最大5.1 GHzのブーストクロックと128 GBのユニファイドメモリに達するという。また、最大 50 TOPS の XDNA 2 NPU、45W ～ 120W の…</p><p><img src="https://cdn.mos.cms.futurecdn.net/pXkThAfC4PkTjFgvWAPXYF-2560-80.jpg" alt="AMD の新しい X100 チップ ラインナップは Strix Halo をロボットに搭載 – 物理 AI 用の APU は Zen 5 CPU、RDNA 3.5 GPU コアを搭載し、Intel の Panther Lake と競合します"></p>]]></description><source url="https://www.tomshardware.com/pc-components/cpus/amds-new-x100-chip-lineup-puts-strix-halo-into-robots-apus-for-physical-ai-bring-zen-5-cpu-rdna-3-5-gpu-cores-to-compete-with-intels-panther-lake">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/pXkThAfC4PkTjFgvWAPXYF-2560-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/pXkThAfC4PkTjFgvWAPXYF-2560-80.jpg"/></item>
-<item><title>超音波を利用したマイクジャマー</title><link>https://hackaday.com/2026/07/23/mic-jammer-relies-on-ultrasound/</link><guid isPermaLink="true">https://hackaday.com/2026/07/23/mic-jammer-relies-on-ultrasound/</guid><pubDate>Thu, 23 Jul 2026 18:30:00 +0000</pubDate><description><![CDATA[<p>超音波を利用したマイクジャマー
-
-今日の携帯電話のマイクは、あらゆる種類の状況で音を拾うのに完全に熟達しており、ノイズを除去して音声をキャプチャするためのあらゆる種類の処理技術に支えられています。
-
-今日の携帯電話のマイクは、あらゆる種類の状況で音声を拾うことに完全に熟達しており、ノイズを除去してクリーンな音声をキャプチャするためのあらゆる種類の処理技術に支えられています。 [mcore1976] は、盗聴している可能性のある電話のマイクを妨害するデバイスの開発に取り組んできましたが、今度は高度な処理技術に対抗します。
-
-このビルドでは、マイクロコントローラーの頭脳を使用して、一連の超音波トランスデューサーを制御します。 [mcore1976] はプロジェクトの多くの改訂版を作成し、そのたびに最新のハードウェアでマイクを妨害する能力を改善しました。最新のリビジョンでは、RP2040 マイクロコントローラーと MOSFET 駆動ステージを使用して、20 ～ 80 個の超音波トランスデューサーを制御します。これらは、RP2040 自体から生成される PWM 信号で駆動されます。信号出力は、最近の多くの電話機で使用されている自動利得制御システムを混乱させ、ジャマーが動作しているときにクリアな音声を録音することを困難にするために特別に変調されています。 [mcore1976] が iPhone 17 で実証しているように、妨害装置がオンになっている間、彼の声は理解できない文字化けノイズの中で完全に失われます。
-
-これはニッチなアイデアであり、人間の耳にはほとんど聞こえないものの、電話のマイクに影響を与えるという点でおそらく最も興味深いものです。最近、他の興味深い妨害装置も紹介しました。休憩後の動画。</p><p><img src="https://hackaday.com/wp-content/uploads/2026/07/DIY-Ultrasonic-Microphone-Jammer-final-hardware-update-RP2040-MOSFET-Kicad-8-58-screenshot.png" alt="超音波を利用したマイクジャマー"></p>]]></description><source url="https://hackaday.com/2026/07/23/mic-jammer-relies-on-ultrasound/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/07/DIY-Ultrasonic-Microphone-Jammer-final-hardware-update-RP2040-MOSFET-Kicad-8-58-screenshot.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/07/DIY-Ultrasonic-Microphone-Jammer-final-hardware-update-RP2040-MOSFET-Kicad-8-58-screenshot.png"/></item>
 <item><title>Galaxy S27のメインカメラはサムスンの状況を一変させるかもしれない</title><link>https://www.androidauthority.com/samsung-galaxy-s27-camera-rumors-3690787/</link><guid isPermaLink="true">https://www.androidauthority.com/samsung-galaxy-s27-camera-rumors-3690787/</guid><pubDate>Thu, 23 Jul 2026 18:10:51 +0000</pubDate><description><![CDATA[<p>Galaxy S27のメインカメラはサムスンの状況を一変させるかもしれない
 
 新しい噂によると、サムスンのギャラクシーS27とS27プラスはプライマリカメラに50メガピクセルのソニーセンサーを利用するという。
@@ -6122,213 +6279,4 @@ AMD が Instinct MI455X AI アクセラレータを公開 — CDNA 5 と Helios 
 AMD は MI455X を「当社がこれまでに構築した中で最も先進的な AI アクセラレータ」と呼んでおり、これまで見てきた限りでは、AI コンピューティング レースにおける Nvidia の徹底した優位性に対して AMD がこれまでに投入した製品の中で、チップ レベルとラック スケールの両方で最も競争力のある製品です。
 
 完全な MI455X GPU は、3,200 億個のトランジスタを含む巨大なチップであり、高度なパッケージング技術を使用して構築されています。 4 つの Accelerator Complex Die (XCD) が、ハイブリッド ボンディングを使用して各 …</p><p><img src="https://cdn.mos.cms.futurecdn.net/3BFHbcRr5aki3FZCTBPAG5-1920-80.png" alt="AMD が Instinct MI455X AI アクセラレータを公開 — CDNA 5 と Helios ラックスケール アーキテクチャを組み合わせてデータセンターで Nvidia と戦います"></p>]]></description><source url="https://www.tomshardware.com/pc-components/gpus/amd-takes-the-wraps-off-its-instinct-mi455x-ai-accelerator-cdna-5-and-helios-rack-scale-architecture-combine-to-take-the-fight-to-nvidia-in-the-data-center">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/3BFHbcRr5aki3FZCTBPAG5-1920-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/3BFHbcRr5aki3FZCTBPAG5-1920-80.png"/></item>
-<item><title>Amazon Prime Videoがゲームストリーミングを機能リストに追加</title><link>https://www.androidauthority.com/amazon-prime-video-integrates-luna-3690775/</link><guid isPermaLink="true">https://www.androidauthority.com/amazon-prime-video-integrates-luna-3690775/</guid><pubDate>Thu, 23 Jul 2026 18:01:24 +0000</pubDate><description><![CDATA[<p>Amazon Prime Videoがゲームストリーミングを機能リストに追加
-
-Amazon は Luna を Prime Video に統合し、アプリ内でクラウドから直接ゲームをストリーミングできるようにします。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Amazon Prime Videoがゲームストリーミングを機能リストに追加
-
-0 • Amazon Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Amazon は、クラウド ゲーム プラットフォームである Luna を Prime Video に統合しています。
-
-プライム会員は追加料金なしでゲームをプレイできます。
-
-Luna は、Fire TV を使用する米国と英国のユーザー向けに、本日より Prime Video で視聴可能になります。
-
-Amazonの創設者ジェフ・ベゾス氏は、同社のAI能力を強調するプライム・ビデオの再設計を推進している。伝えられるところによると、その再設計のバージョンはすでにテスト中ですが、そのオーバーホールはしばらくの間行われない可能性があります。ただし、今日リリースされるアプリには変更が 1 つあります。おそらく、より多くの AI を顔に押しつけられるよりも、その点の方がありがたいでしょう。
-
-Amazon が Luna というクラウド ゲーム プラットフォームを運営していることを忘れたとしても、誰もあなたを責めることはありません。しかし、AmazonがこのサービスをPrime Videoに直接統合した今、このサービスを忘れることはずっと難しくなるだろう。そうです、この電子商取引の巨人は、Prime Video アプリ内でゲームをプレイできるようになると発表しました。
-
-この展開により、ゲームは番組や映画と一緒に登場します。アプリの上部に新しい「ゲーム」タブも表示されます。同社によれば、この統合により「メンバーはお気に入りのフランチャイズをさらに深…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/07/Amazon-Prime-Luna.jpg" alt="Amazon Prime Videoがゲームストリーミングを機能リストに追加"></p>]]></description><source url="https://www.androidauthority.com/amazon-prime-video-integrates-luna-3690775/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/07/Amazon-Prime-Luna.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/07/Amazon-Prime-Luna.jpg"/></item>
-<item><title>すべての 3D プリンターが同じフィラメント言語を話すようになりつつあり、Prusa はちょうどそれを開始したばかりです</title><link>https://www.xda-developers.com/every-3d-printer-speak-same-filament-language-prusa/</link><guid isPermaLink="true">https://www.xda-developers.com/every-3d-printer-speak-same-filament-language-prusa/</guid><pubDate>Thu, 23 Jul 2026 18:00:10 +0000</pubDate><description><![CDATA[<p>すべての 3D プリンターが同じフィラメント言語を話すようになりつつあり、Prusa はちょうどそれを開始したばかりです
-
-Prusa の OpenPrintTag は、ついに 3D プリンター、フィラメント スプール、および在庫ツールに、スマート フィラメント データの 1 つの共通標準を提供できるようになりました。
-
-すべての 3D プリンターが同じフィラメント言語を話すようになりつつあり、Prusa はちょうどそれを開始したばかりです
-
-文：Jeff Butts 公開 2026 年 7 月 23 日、午後 2:00 EDT Jeff は、インターネット以前から IT 業界に携わっており、20 年以上、テクニカル サポート、システム管理、ネットワーク管理、およびコンサルティングの役割に従事してきました。彼は英語で学士号を取得し、専門的な執筆と編集に重点を置いた英語で修士号を取得し、さらにコンピューティングおよび情報システムで修士号を取得しています。大学で英語とコンピューター サイエンスを数年間教えた後、ジェフは執筆活動を開始しました。彼は XDA で仕事を始める前に、 Macworld 、 Tom&#39;s Hardware 、 groovyPost 、 The Mac Observer などで執筆を行ってきました。 XDA アカウントにサインインする スマート フィラメント スプールはしばらく前から存在していましたが、通常、「スマート」部分は会社のエコシステムを離れた瞬間に消えてしまいます。タグ付きスプールは、あるプリンタにその内容を正確に伝えることができ、それを別の場所にロードすると、まったく普通のプラスチックのロールに変わります。 Prusa の OpenPrintTag は、プリンター メーカー、フィラメント会社、ソフトウェア開発者がすべて使用できる、オープンで書き換え可能な NFC 標準でこの問題を解決することを目的としています。すべてのスプールがすべての機械で完璧に動作するようになるわけではありませんが、基本的なフィラメント情報を 1 つのブランドのハードウェ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/every-3d-printer-is-about-to-speak-the-same-filament-language-and-prusa-just-kicked-it-off-featured.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="すべての 3D プリンターが同じフィラメント言語を話すようになりつつあり、Prusa はちょうどそれを開始したばかりです"></p>]]></description><source url="https://www.xda-developers.com/every-3d-printer-speak-same-filament-language-prusa/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/every-3d-printer-is-about-to-speak-the-same-filament-language-and-prusa-just-kicked-it-off-featured.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/every-3d-printer-is-about-to-speak-the-same-filament-language-and-prusa-just-kicked-it-off-featured.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>AMD と Cerebras は、低遅延、高スループットの AI 推論で提携します。Helios ラックスケール インフラストラクチャの EPYC プロセッサと Cerebras の Wafer-Scale Engine (WSE) ソリューションの組み合わせ</title><link>https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-and-cerebras-partner-on-low-latency-high-throughput-ai-inference-epyc-processors-in-helios-rack-scale-infrastructure-paired-with-cerebras-wafer-scale-engine-wse-solutions</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-and-cerebras-partner-on-low-latency-high-throughput-ai-inference-epyc-processors-in-helios-rack-scale-infrastructure-paired-with-cerebras-wafer-scale-engine-wse-solutions</guid><pubDate>Thu, 23 Jul 2026 17:45:00 +0000</pubDate><description><![CDATA[<p>AMD と Cerebras は、低遅延、高スループットの AI 推論で提携します。Helios ラックスケール インフラストラクチャの EPYC プロセッサと Cerebras の Wafer-Scale Engine (WSE) ソリューションの組み合わせ
-
-Groq に似ていますが、異なります。
-
-AMD と Cerebras は、低遅延、高スループットの AI 推論で提携します。Helios ラックスケール インフラストラクチャの EPYC プロセッサと Cerebras の Wafer-Scale Engine (WSE) ソリューションの組み合わせ
-
-(画像クレジット: Cerebras) リンクをコピー
-
-0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する AMD と Cerebras Systems は木曜日、Helios ラックスケール インフラストラクチャ内の AMD の EPYC プロセッサと Cerebras の Wafer-Scale Engine (WSE) ソリューションを組み合わせるプラットフォームを開発する計画を発表しました。これらの新しいシステムは、AMD の CPU と Instinct GPU の低遅延と、Cerebras の Wafer Scale Engine (WSE) プロセッサの高スループットを組み合わせることが約束されています。
-
-AMDとCerebrasは、EPYC CPUとInstinct MI400シリーズアクセラレータを内蔵したAMD Heliosラックをベースにした新しいラック間スケールプラットフォームが迅速な処理と大きなコンテキストウィンドウを担当するのに対し、CerebrasのWSEはメモリ帯域幅を大量に消費するトークン生成段階を担当すると期待している。
-
-AMD と Cerebras は、自社向けに最適化されたアーキテクチャに推論ワークロードのさまざまな部分を割り当てることで、分散推論プラットフォームが最大 5 倍のトークン/秒/ワット (…</p><p><img src="https://cdn.mos.cms.futurecdn.net/QDGHobTS56GF94GsXHu2PV-2500-80.jpg" alt="AMD と Cerebras は、低遅延、高スループットの AI 推論で提携します。Helios ラックスケール インフラストラクチャの EPYC プロセッサと Cerebras の Wafer-Scale Engine (WSE) ソリューションの組み合わせ"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-and-cerebras-partner-on-low-latency-high-throughput-ai-inference-epyc-processors-in-helios-rack-scale-infrastructure-paired-with-cerebras-wafer-scale-engine-wse-solutions">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/QDGHobTS56GF94GsXHu2PV-2500-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/QDGHobTS56GF94GsXHu2PV-2500-80.jpg"/></item>
-<item><title>Nvidia RTX 3090 と RTX 3050 が連携して 4K で 144 FPS を達成 — ロスレス スケーリングが古い Ampere GPU をゲームのパワーハウスに変える</title><link>https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-3090-and-rtx-3050-team-up-to-hit-144-fps-at-4k-lossless-scaling-turns-old-ampere-gpus-into-a-gaming-powerhouse</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-3090-and-rtx-3050-team-up-to-hit-144-fps-at-4k-lossless-scaling-turns-old-ampere-gpus-into-a-gaming-powerhouse</guid><pubDate>Thu, 23 Jul 2026 17:39:03 +0000</pubDate><description><![CDATA[<p>Nvidia RTX 3090 と RTX 3050 が連携して 4K で 144 FPS を達成 — ロスレス スケーリングが古い Ampere GPU をゲームのパワーハウスに変える
-
-GPU も 2 倍、フレームも 2 倍に
-
-Nvidia RTX 3090 と RTX 3050 が連携して 4K で 144 FPS を達成 — ロスレス スケーリングが古い Ampere GPU をゲームのパワーハウスに変える
-
-GPU も 2 倍、フレームも 2 倍に
-
-(画像クレジット: Gainward) リンクをコピー
-
-1 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する GeForce RTX 3090 は、もはや最高のグラフィックス カードの 1 つではないかもしれません。ただし、弟の GeForce RTX 3050 の助けを借りれば、今日でもトップパフォーマーと競争できます。最近、quziwuzzi という名前で知られる機知に富んだゲーム愛好家が Reddit で、これら 2 つのアンペアベースのグラフィックス カードを組み合わせ、ロスレス スケーリング テクノロジーを使用して組み合わせたパフォーマンスを劇的に向上させ、4K (3840x2160) 解像度で最大 144 FPS を達成したと説明しました。
-
-The Stout Owl: 究極の Noctua G2 PC
-
-Lossless Scaling は、Steam で提供されている非常に強力でありながら手頃な価格のツールで、価格はわずか 7 ドルで、AI のアップスケーリングとフレーム生成を大衆に提供します。ロスレス スケーリングが Nvidia DLSS 、AMD FSR 、または Intel XeSS などの独自のソリューションと異なるのは、あらゆるゲーム ソフトウェアやビデオ ソフトウェアとの幅広い互換性です。タイトルやアプリケーションにこれらの独自ソリューションの公式サポートが付属しているかどうかに関係なく、シームレスに動作します。
-
-…</p><p><img src="https://cdn.mos.cms.futurecdn.net/gMGk8KAXZAmuTxcrbamdqe-1920-80.jpg" alt="Nvidia RTX 3090 と RTX 3050 が連携して 4K で 144 FPS を達成 — ロスレス スケーリングが古い Ampere GPU をゲームのパワーハウスに変える"></p>]]></description><source url="https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-3090-and-rtx-3050-team-up-to-hit-144-fps-at-4k-lossless-scaling-turns-old-ampere-gpus-into-a-gaming-powerhouse">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/gMGk8KAXZAmuTxcrbamdqe-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/gMGk8KAXZAmuTxcrbamdqe-1920-80.jpg"/></item>
-<item><title>新しい半導体会社、初期段階の資金調達で4,300万ドルを裏付け、カバーを破る - TYLsemiは大金をかけずに顧客にカスタムシリコンを提供することを目指す</title><link>https://www.tomshardware.com/tech-industry/semiconductors/new-semiconductor-firm-breaks-cover-backed-by-usd43-million-in-early-stage-funding-tylsemi-aims-to-deliver-custom-silicon-to-customers-without-breaking-the-bank</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/semiconductors/new-semiconductor-firm-breaks-cover-backed-by-usd43-million-in-early-stage-funding-tylsemi-aims-to-deliver-custom-silicon-to-customers-without-breaking-the-bank</guid><pubDate>Thu, 23 Jul 2026 17:34:06 +0000</pubDate><description><![CDATA[<p>新しい半導体会社、初期段階の資金調達で4,300万ドルを裏付け、カバーを破る - TYLsemiは大金をかけずに顧客にカスタムシリコンを提供することを目指す
-
-小規模企業でも、数十億ドルを投資することなくカスタム プロセッサを構築できるようになりました。
-
-新しい半導体会社、初期段階の資金調達で4,300万ドルを裏付け、カバーを破る - TYLsemiは大金をかけずに顧客にカスタムシリコンを提供することを目指す
-
-小規模企業でも、数十億ドルを投資することなくカスタム プロセッサを構築できるようになりました。
-
-(画像クレジット: TYLsemi) リンクをコピーして共有
-
-フォローしてください Google ニュースレターの優先ソースとして追加してください ニュースレターを購読してください 新興半導体企業 TYLsemi (タイルセミと発音します) は、初期段階の資金調達として 4,300 万ドルと、AI インフラストラクチャ用のカスタム プロセッサの開発を簡素化する野心的な計画とともに、今月その姿を公表しました。
-
-数十の契約チップ設計者が、さまざまな複雑さのカスタム プロセッサを開発できます。ただし、開発サイクルを高速化してリスクを回避するために、標準チップレットを使用したカスタム シリコン設計サービスを提供できる企業はわずかです。 TYLsemiも彼らの仲間入りを目指しています。この初期のビジネスがどのように成功するのかを知るために、私たちは創業者に話を聞きました。
-
-TYLsemi は、別のカスタム ASIC 設計会社として単独で競合するのではなく、再利用可能な標準ベースの接続性、電力供給、そして最終的には顧客が独自の差別化コンピューティング シリコンと組み合わせて独自のシステム イン パッケージを構築できるメモリ チップレットを提供するつもりです。 TYLsemiは、自社で半導体開発を行う予定のない企業向けに、差別化チップレットの設計と実装、パッケージング、認定、大量生産を含むエンドツーエンドのサービスも提供し、本質的にシリコン開発スキルを持たない企業でも独自…</p><p><img src="https://cdn.mos.cms.futurecdn.net/av3WKeoDEApxC8jkMzG6VT-1920-80.jpg" alt="新しい半導体会社、初期段階の資金調達で4,300万ドルを裏付け、カバーを破る - TYLsemiは大金をかけずに顧客にカスタムシリコンを提供することを目指す"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/semiconductors/new-semiconductor-firm-breaks-cover-backed-by-usd43-million-in-early-stage-funding-tylsemi-aims-to-deliver-custom-silicon-to-customers-without-breaking-the-bank">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/av3WKeoDEApxC8jkMzG6VT-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/av3WKeoDEApxC8jkMzG6VT-1920-80.jpg"/></item>
-<item><title>トラベル ルーターを 2 週間使いましたが、予想以上に多くの問題が解決されました</title><link>https://www.xda-developers.com/spent-two-weeks-with-travel-router-solved-more-problems-than-expected/</link><guid isPermaLink="true">https://www.xda-developers.com/spent-two-weeks-with-travel-router-solved-more-problems-than-expected/</guid><pubDate>Thu, 23 Jul 2026 17:30:10 +0000</pubDate><description><![CDATA[<p>トラベル ルーターを 2 週間使いましたが、予想以上に多くの問題が解決されました
-
-シームレスな接続の確保からデバイスの制限の回避まで、トラベル ルーターは想像以上の機能を備えています。
-
-トラベル ルーターを 2 週間使いましたが、予想以上に多くの問題が解決されました
-
-By Kazim Alvi Published Jul 23, 2026, 1:30 PM EDT テクノロジー業界で 5 年以上の経験を持つ Kazim は、複雑なトピックを単純化し、テクノロジー愛好家や一般読者が同様にアクセスできるようにすることに優れています。彼は、Windows 7 から Windows 11 まで、Windows エコシステムを幅広くカバーしています。執筆以外の時間には、週末の旅行を計画したり、専門知識を超えた技術分野に飛び込んだりしていることがわかります。 XDA アカウントにサインインする 過去数か月間、私はトラベル ルーターの購入を検討していました。いくつかの調査の後、私の地域で利用可能なオプションに基づいて、最終的に TP-Link AX1500 Wi-Fi 6 トラベル ルーターを購入しました。インターネットが多少不安定な場所に行く予定だったので、2 週間の休暇でそれを使用する予定でした。 Wi-Fiはありましたが、仕事関連の作業では信頼性が疑問でした。
-
-さらに重要なのは、この休暇には他のいくつかの場所への旅行が伴い、その中には Wi-Fi が利用できない場所も含まれていました。だからこそ、トラベルルーターの導入が理にかなっていたのです。 TP-Link AX1500 は、ほとんどのトラベル ルーターと同様に持ち運びが簡単で、他のデバイスと一緒に梱包しました。次の 2 週間で、特にシームレスなインターネット接続を必要とするデバイスが少数ある場合に、トラベル ルーターがいかに便利であるかを実感しました。
-
-時間と労力を大幅に節約
-
-トラベル ルーターを使用する最も良い点の 1 つは、デバイスの接続が簡単なことです。すべてのデバイスを手動でネットワークに接続する必要は…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/travel-router-featured-image.png?w=1600&amp;h=900&amp;fit=crop" alt="トラベル ルーターを 2 週間使いましたが、予想以上に多くの問題が解決されました"></p>]]></description><source url="https://www.xda-developers.com/spent-two-weeks-with-travel-router-solved-more-problems-than-expected/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/travel-router-featured-image.png?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/travel-router-featured-image.png?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>Keychron、手頃な価格のサイレント ワイヤレス エルゴノミクス マウス BM27 を発売</title><link>https://www.techpowerup.com/351022/keychron-launches-bm27-affordable-silent-wireless-ergonomic-mouse</link><guid isPermaLink="true">https://www.techpowerup.com/351022/keychron-launches-bm27-affordable-silent-wireless-ergonomic-mouse</guid><pubDate>Thu, 23 Jul 2026 17:27:27 +0000</pubDate><description><![CDATA[<p>Keychron、手頃な価格のサイレント ワイヤレス エルゴノミクス マウス BM27 を発売
-
-Keychron の最新マウスは、ブランドが最近注力しているゲーム周辺機器から逸脱しており、快適さを求めるオフィスワーカーに衝撃を与えています。 BM27 は、55 度の角度が付いたグリップとすべてのボタンにサイレント マイクロ スイッチを備えたワイヤレス人間工学マウスです。 BM27 にはプログラム可能なボタンが 6 つあります。
-
-Keychron、手頃な価格のサイレント ワイヤレス エルゴノミクス マウス BM27 を発売
-
-2026 年 6 月 12 日、4000 ドルの AMD Ryzen AI Halo Mini PC 開発キットの予約注文が開始 (47)
-
-2026 年 7 月 10 日 Keychron、木製アクセントを備えた K5 Ultra 8K ロープロファイル メカニカル キーボードを発売 (15)
-
-2026 年 7 月 7 日 Keychron が K4 Ultra および K10 Ultra ワイヤレス メカニカル キーボードを発表 (10)
-
-2026 年 4 月 17 日 Pragmata のローンチ: 輝かしいレビューとチャートトップの売上を誇るが、プレイヤー数は平凡 (62)
-
-2025 年 8 月 26 日 Logitech MX Master 4 の価格と発売日のリーク (17)
-
-2026 年 6 月 26 日 QwertyKeys が機能的なレトロなタッチを備えた QK100 Mk2 メカニカル キーボードをデビュー (4)
-
-2026 年 7 月 7 日 レトロな「KeyBoy Advance」ワイヤレス メカニカル キーボードが 275 ドルで発売 (17)
-
-2026 年 7 月 3 日 Epomaker が NEX Pro ゲーミング マウスと HE65 V2 TMR キーボードを発売 (0)
-
-2026 年 4 月 23 日 タートルビーチ、PC ゲーミング キーボードとマウスの全く新しいエコシステムであるコマンド シ…</p><p><img src="https://www.techpowerup.com/img/x9gYLpMPeTvW0z26.jpg" alt="Keychron、手頃な価格のサイレント ワイヤレス エルゴノミクス マウス BM27 を発売"></p>]]></description><source url="https://www.techpowerup.com/351022/keychron-launches-bm27-affordable-silent-wireless-ergonomic-mouse">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/x9gYLpMPeTvW0z26.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/x9gYLpMPeTvW0z26.jpg"/></item>
-<item><title>AMD の第 6 世代 EPYC ラインナップは 4 つの方法に分割され、電源仕様も変更されました</title><link>https://www.xda-developers.com/amds-6th-gen-epyc-lineup-splits-four-ways-and-the-power-spec-changed-too/</link><guid isPermaLink="true">https://www.xda-developers.com/amds-6th-gen-epyc-lineup-splits-four-ways-and-the-power-spec-changed-too/</guid><pubDate>Thu, 23 Jul 2026 17:25:40 +0000</pubDate><description><![CDATA[<p>AMD の第 6 世代 EPYC ラインナップは 4 つの方法に分割され、電源仕様も変更されました
-
-1 つのアーキテクチャ、4 つのまったく異なるサーバー プロセッサ
-
-AMD の第 6 世代 EPYC ラインナップは 4 つの方法に分割され、電源仕様も変更されました
-
-By Ty Sherback 公開 2026 年 7 月 23 日、午後 1 時 25 分 EDT 彼の PC とそのコンポーネントに対する愛情は、ファミリー コンピューターのパフォーマンスをすべて絞り出そうとすることから生まれました。 10 歳のときに自分のビルドをいじっていたことが、友人や家族のために PC を作ることに変わり、最終的にキャリア パスとして形になる情熱を育みました。 Ty は、身近な人々への技術サポートの最初の電話であることに加えて、クラウド コンピューティングとネットワーキングに重点を置いているコンピューター サイエンスの学生でもあります。彼はセミプロの Counter-Strike にも 8 年間出場しており、周辺機器に関するあらゆることに精通しています。 XDA アカウントにサインインする
-
-AMD は、第 6 世代 EPYC を 9006 SP7、9006X SP7、9006 SP8、9006 LP の 4 つのファミリーに分割しました。
-
-フラッグシップ SP7: 最大 256 コア/512 スレッド、5GHz、PCIe Gen6。 9006X は、コアごとに 3 つの L3 キャッシュを追加します。
-
-新しいデフォルトの CPU 電力メトリクスは、総ダイ電力の TDP を置き換えます。 9956 は 400W でリストされていますが、9965 は 500W です。
-
-サンフランシスコで開催されたAdvancing AI 2026イベントで、AMDは第6世代EPYCサーバープロセッサを正式に発表し、発売前の報道を独占してきた単一の256コアのフラッグシップではなく、4つの異なるファミリーとして位置づけた。
-
-EPYC 9006 シリーズは 9006 SP7、9006 SP…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/img_5564.jpg?w=1600&amp;h=900&amp;fit=crop" alt="AMD の第 6 世代 EPYC ラインナップは 4 つの方法に分割され、電源仕様も変更されました"></p>]]></description><source url="https://www.xda-developers.com/amds-6th-gen-epyc-lineup-splits-four-ways-and-the-power-spec-changed-too/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/img_5564.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/img_5564.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>AMD の 256 コア Epyc 9996 「Venice」は、Intel Xeon 競合製品よりも最大 3.4 倍、Nvidia Vera よりも 20% 上回ると主張しています – Zen 6 には、最大 1024MB の L3、16 チャネル メモリ、および 5GHz 以上のクロック速度が搭載されています</title><link>https://www.tomshardware.com/pc-components/cpus/amds-256-core-epyc-9996-venice-claims-up-to-a-3-4x-jump-over-intel-xeon-competition-20-percent-over-nvidia-vera-zen-6-comes-with-up-to-1024mb-of-l3-16-channel-memory-and-5ghz-clock-speeds</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/cpus/amds-256-core-epyc-9996-venice-claims-up-to-a-3-4x-jump-over-intel-xeon-competition-20-percent-over-nvidia-vera-zen-6-comes-with-up-to-1024mb-of-l3-16-channel-memory-and-5ghz-clock-speeds</guid><pubDate>Thu, 23 Jul 2026 17:24:50 +0000</pubDate><description><![CDATA[<p>AMD の 256 コア Epyc 9996 「Venice」は、Intel Xeon 競合製品よりも最大 3.4 倍、Nvidia Vera よりも 20% 上回ると主張しています – Zen 6 には、最大 1024MB の L3、16 チャネル メモリ、および 5GHz 以上のクロック速度が搭載されています
-
-それは大きなチップです。
-
-AMD の 256 コア Epyc 9996 「Venice」は、Intel Xeon 競合製品よりも最大 3.4 倍、Nvidia Vera よりも 20% 上回ると主張しています – Zen 6 には、最大 1024MB の L3、16 チャネル メモリ、および 5GHz 以上のクロック速度が搭載されています
-
-(画像クレジット: Tom&#39;s Hardware) リンクをコピー
-
-6 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する AMD は、1 年以上からかい続けてきた初の Zen 6 CPU について、ついに詳細を明らかにしました。 Epyc 9996 は、AMD の新しい Zen 6 アーキテクチャを搭載した 256 コア / 512 スレッドのチップで、AMD がベニス向けの「幅広いポートフォリオ」と呼ぶもので最初に発売されます。 AMDは、間もなく登場するNvidia VeraやIntelのXeon 6よりもパフォーマンスが大幅に向上すると主張することに加えて、今後1年間にわたってオーダーメイドの設計でVeniceシリーズの構築を継続すると述べている。
-
-AMD のコンピューティングおよびエンタープライズ ソリューション担当コーポレート VP である Ravi Kuppuswany 氏は、「これは単なる単一のプロセッサではありません。これはポートフォリオです」と述べています。 AMDは、自社がアプリケーションに応じて製品を分割し、専用のソリューションを用意していると述べている。これは、Intelが過去数世代にわたってXeon製品群を分割した方法（AMDが…</p><p><img src="https://cdn.mos.cms.futurecdn.net/fqE7uiQeMahN3tCxTd8qRV-1999-80.jpg" alt="AMD の 256 コア Epyc 9996 「Venice」は、Intel Xeon 競合製品よりも最大 3.4 倍、Nvidia Vera よりも 20% 上回ると主張しています – Zen 6 には、最大 1024MB の L3、16 チャネル メモリ、および 5GHz 以上のクロック速度が搭載されています"></p>]]></description><source url="https://www.tomshardware.com/pc-components/cpus/amds-256-core-epyc-9996-venice-claims-up-to-a-3-4x-jump-over-intel-xeon-competition-20-percent-over-nvidia-vera-zen-6-comes-with-up-to-1024mb-of-l3-16-channel-memory-and-5ghz-clock-speeds">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/fqE7uiQeMahN3tCxTd8qRV-1999-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/fqE7uiQeMahN3tCxTd8qRV-1999-80.jpg"/></item>
-<item><title>AMDのVenice-X CPUは、1152 MBの3D Vキャッシュ、96コア、5.15 GHzのブーストクロックを搭載し、2027年に発売 – 高性能コンピューティング用のZen 6 CPUには、Veniceの主要な柱が付属</title><link>https://www.tomshardware.com/pc-components/cpus/amds-venice-x-cpu-launches-in-2027-with-1152-mb-of-3d-v-cache-96-cores-and-5-15-ghz-boost-clock-zen-6-cpu-for-high-performance-computing-comes-with-major-pillars-of-venice</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/cpus/amds-venice-x-cpu-launches-in-2027-with-1152-mb-of-3d-v-cache-96-cores-and-5-15-ghz-boost-clock-zen-6-cpu-for-high-performance-computing-comes-with-major-pillars-of-venice</guid><pubDate>Thu, 23 Jul 2026 17:17:54 +0000</pubDate><description><![CDATA[<p>AMDのVenice-X CPUは、1152 MBの3D Vキャッシュ、96コア、5.15 GHzのブーストクロックを搭載し、2027年に発売 – 高性能コンピューティング用のZen 6 CPUには、Veniceの主要な柱が付属
-
-Genoa-X と同じキャッシュ量とコア数ですが、はるかに高速なコアを備えています。
-
-AMDのVenice-X CPUは、1152 MBの3D Vキャッシュ、96コア、5.15 GHzのブーストクロックを搭載し、2027年に発売 – 高性能コンピューティング用のZen 6 CPUには、Veniceの主要な柱が付属
-
-Genoa-X と同じキャッシュ量とコア数ですが、はるかに高速なコアを備えています。
-
-4 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する AMD の Venice-X CPU は 2027 年後半に発売されると、同社は木曜日の Advancing AI イベントで明らかにしました。この CPU は Venice SP7 と同じ Zen 6 マイクロアーキテクチャで構築されており、AMD は現在量産中だとしていますが、コア数は少なく、AMD の 3D V キャッシュを利用してチップ上に 1152 MB という信じられないほどの L3 キャッシュをスタックし、同時に 96 個のコアと最大 5.15 GHz のクロック速度を提供します。
-
-Venice-X についてのからかいは以前にも聞いたことがあり、AMD は過去に Milan-X や Genoa-X など、同様の Epyc チップの亜種をリリースしました。しかし、私たちはTurin-Xを一度も見たことがありませんし、現時点ではVenice-Xについての具体的な詳細も得ていません。ここで、Venice-X が提供するものを覗いてみます。これは、いくつかの点で Genoa-X に似ています。
-
-AMDは、Venice-Xでは96コアと1152MBのスタック型L3キャッシュにこだわっています。ただし、 Genoa-X と…</p><p><img src="https://cdn.mos.cms.futurecdn.net/6DhtHfc7AS79VgktEfzZ4S-1920-80.png" alt="AMDのVenice-X CPUは、1152 MBの3D Vキャッシュ、96コア、5.15 GHzのブーストクロックを搭載し、2027年に発売 – 高性能コンピューティング用のZen 6 CPUには、Veniceの主要な柱が付属"></p>]]></description><source url="https://www.tomshardware.com/pc-components/cpus/amds-venice-x-cpu-launches-in-2027-with-1152-mb-of-3d-v-cache-96-cores-and-5-15-ghz-boost-clock-zen-6-cpu-for-high-performance-computing-comes-with-major-pillars-of-venice">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/6DhtHfc7AS79VgktEfzZ4S-1920-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/6DhtHfc7AS79VgktEfzZ4S-1920-80.png"/></item>
-<item><title>(PR) タートルビーチ、新しい H.O.T.A.S.、Flight Stick II、デュアル スロットル フライト シム周辺機器を発売</title><link>https://www.techpowerup.com/351023/turtle-beach-launches-new-h-o-t-a-s-flight-stick-ii-and-dual-throttle-flight-sim-peripherals</link><guid isPermaLink="true">https://www.techpowerup.com/351023/turtle-beach-launches-new-h-o-t-a-s-flight-stick-ii-and-dual-throttle-flight-sim-peripherals</guid><pubDate>Thu, 23 Jul 2026 17:08:00 +0000</pubDate><description><![CDATA[<p>(PR) タートルビーチ、新しい H.O.T.A.S.、Flight Stick II、デュアル スロットル フライト シム周辺機器を発売
-
-大手ゲーム アクセサリー メーカーのタートル ビーチ コーポレーション (ナスダック: TBCH) は本日、まったく新しい VelocityOne Flightstick II、VelocityOne Dual Throttle、VelocityOne H.O.T.A.S. を発表しました。 XBOX および PC 用、および VelocityOne ユニバーサル Sim マウント。個別に言うと、Flightstick II と Dual Throttle は...
-
-タートルビーチ、新しい H.O.T.A.S.、フライト スティック II、デュアル スロットル フライト シム周辺機器を発売
-
-高精度ホール効果軸 - 16 ビット ホール効果センサーは、軸ごとに 65,000 を超える入力カウントを提供し、あらゆるシミュレーションにおいてスムーズで正確な制御と正確な動きを実現します。
-
-38 個のプログラム可能な入力 - VelocityOne Flightstick 1 と比較して 11 個の新しい入力を含む 38 個のマッピング可能な入力により、没入感を損なうことなく重要なコマンドに素早くアクセスできます。
-
-統合されたコックピット コントロール ダイヤル - トライポジション スイッチを備えたデュアル エンコーダ ダイヤルにより、最大 9 つの入力のロックが解除され、ナビゲーションとオンボード システムを効率的に制御できます。
-
-拡張されたアナログ コントロール - デュアル レバー、高精度サムスティック、多機能ホイールにより、スロットル、カメラ、システム制御のための多用途な入力が可能です。
-
-両手利きの人間工学に基づいたデザイン - 交換可能なインサートを備えた調整可能なリストレストと親指レストにより、長時間のセッションでも左手と右手の快適さをサポートします。
-
-ロック オプション付きラダー ツイスト - ロック オプショ…</p><p><img src="https://www.techpowerup.com/img/ydIIVnBe6RR468Zh.jpg" alt="(PR) タートルビーチ、新しい H.O.T.A.S.、Flight Stick II、デュアル スロットル フライト シム周辺機器を発売"></p>]]></description><source url="https://www.techpowerup.com/351023/turtle-beach-launches-new-h-o-t-a-s-flight-stick-ii-and-dual-throttle-flight-sim-peripherals">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/ydIIVnBe6RR468Zh.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/ydIIVnBe6RR468Zh.jpg"/></item>
-<item><title>Gearbox がボーダーランズ 4 の「殺人と買収」DLC を公開</title><link>https://www.kitguru.net/gaming/matthew-wilson/gearbox-reveals-borderlands-4-murders-acquisitions-dlc/</link><guid isPermaLink="true">https://www.kitguru.net/gaming/matthew-wilson/gearbox-reveals-borderlands-4-murders-acquisitions-dlc/</guid><pubDate>Thu, 23 Jul 2026 17:03:01 +0000</pubDate><description><![CDATA[<p>Gearbox がボーダーランズ 4 の「殺人と買収」DLC を公開
-
-『ボーダーランズ 4』のプレイヤーは、次のプレミアム コンテンツを長く待つ必要はありません。最新の Gearbox DevCast 中に、スタジオは Bounty Pack 4: Murders and Acquisitions を明らかにしました。これは、V1.9 アップデートとともに 7 月 30 日に発売される予定です。 DLC では、新たな戦利品と、プレイヤーが取り組むための新しい Vault カードが導入されています。
-
-Gearbox がボーダーランズ 4 の「殺人と買収」DLC を公開
-
-Matthew Wilson 7 時間前 注目の技術ニュース , ソフトウェア &amp; ゲーム
-
-『ボーダーランズ 4』のプレイヤーは、次のプレミアム コンテンツを長く待つ必要はありません。最新の Gearbox DevCast 中に、スタジオは Bounty Pack 4: Murders and Acquisitions を明らかにしました。これは、V1.9 アップデートとともに 7 月 30 日に発売される予定です。 DLC では、新たな戦利品と、プレイヤーが取り組むための新しい Vault カードが導入されています。バウンティ パック 4 は、核となる物語拡張、殺人と買収、およびボールト カード 4 の 2 つの部分に分かれています。ストーリー コンテンツは、プレイヤーを汚染された砂漠の峡谷であるトキシック スコールに送り込み、エレクティのリーダーであるルヴェインを支援して、2 つのリッパー派閥間の紛争を調停します。このミッションは繰り返し可能であり、対話、戦闘シナリオ、さらには最後のボスとの戦い中に利用できる支援さえも変化させる選択主導型の遭遇を特徴としています。ミッションを完了すると、プレイヤーに新しい Vault Hunter スキン、車両、ECHO-4 ドローン スキンが与えられます。最後のボスと 3 人のミニボスに挑む人には、1 つの真珠光沢のある武器と 6 つの新しいレジェンド アイテ…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/07/Borderlands-4-bounty-4-732x330.jpg" alt="Gearbox がボーダーランズ 4 の「殺人と買収」DLC を公開"></p>]]></description><source url="https://www.kitguru.net/gaming/matthew-wilson/gearbox-reveals-borderlands-4-murders-acquisitions-dlc/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/07/Borderlands-4-bounty-4-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/07/Borderlands-4-bounty-4-732x330.jpg"/></item>
-<item><title>ハッカデイ ヨーロッパ 2026: 半分四輪飛行船、半分飛行船: テスト。飛ぶ。生き残る。</title><link>https://hackaday.com/2026/07/23/hackaday-europe-2026-half-quad-half-blimp-test-fly-survive/</link><guid isPermaLink="true">https://hackaday.com/2026/07/23/hackaday-europe-2026-half-quad-half-blimp-test-fly-survive/</guid><pubDate>Thu, 23 Jul 2026 17:00:49 +0000</pubDate><description><![CDATA[<p>ハッカデイ ヨーロッパ 2026: 半分四輪飛行船、半分飛行船: テスト。飛ぶ。生き残る。
-
-世の中の非常に多くのドローンは、自作か店頭購入かにかかわらず、同じ基本形式に従っています。 4 つのモーター、ある種のコントローラー、そしてあらゆるエネルギーを供給するリチウムポリマー バッテリー…
-
-世の中の非常に多くのドローンは、自作か店頭購入かにかかわらず、同じ基本形式に従っています。 4 つのモーター、ある種のコントローラー、そしてすべてを空中に維持するためのエネルギーを供給するリチウムポリマー バッテリー。これは、高速カメラワークから都市部の捜索救助まであらゆる用途に適した、非常に有能な航空機を生み出す形式です。
-
-そうは言っても、この形式には制限があります。 [Suryansh Sharma] は、半分がクアッドコプターで半分が飛行船である、派手で興味深いドローンの代替設計に取り組んでおり、そのすべてを私たちに話すために Hackaday Europe 2026 に来ました。
-
-[スリャンシュ] の講演では、彼が関わってきた数多くのドローン プロジェクトについて取り上げられました。 1 つ目は、独創的な名前の BEAVIS (IoT およびセンシング用のバルーン対応航空機) でした。これは、一般的なマルチローター ドローンの最大の制限の 1 つに取り組むことを目的としたプロジェクトでした。つまり、[スリャンシュ]が非常にエレガントに表現しているように、彼らは「空中に留まるのが苦手」なのです。その理由は非常に単純です。ヘリコプターと同様に、マルチコプタードローンはプロペラを回転させて揚力を生成するためにエネルギーを継続的に消費する必要があります。従来のマルチコプターには前進運動によって揚力を生成する翼がなく、いかなる種類の滑空や同様の動作も基本的に不可能です。マルチコプターを飛行状態に維持できるのは、継続的なエネルギー消費だけです。
-
-BEAVIS のポイントは、ドローン技術と空気よりも軽い単純な気球を組み合わせることによって、この問題を解決することでした。マルチコプ…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/07/Hackaday-Europe-2026_-Suryansh-Sharma-Test.-Fly.-Survive.-11-51-screenshot.png" alt="ハッカデイ ヨーロッパ 2026: 半分四輪飛行船、半分飛行船: テスト。飛ぶ。生き残る。"></p>]]></description><source url="https://hackaday.com/2026/07/23/hackaday-europe-2026-half-quad-half-blimp-test-fly-survive/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/07/Hackaday-Europe-2026_-Suryansh-Sharma-Test.-Fly.-Survive.-11-51-screenshot.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/07/Hackaday-Europe-2026_-Suryansh-Sharma-Test.-Fly.-Survive.-11-51-screenshot.png"/></item>
-<item><title>Thermalright、ディスプレイ付きエアクーラーを備えた Royal Pretor のラインナップを拡大</title><link>https://www.kitguru.net/components/cooling/joao-silva/thermalright-expands-royal-pretor-lineup-with-display-equipped-air-coolers/</link><guid isPermaLink="true">https://www.kitguru.net/components/cooling/joao-silva/thermalright-expands-royal-pretor-lineup-with-display-equipped-air-coolers/</guid><pubDate>Thu, 23 Jul 2026 17:00:29 +0000</pubDate><description><![CDATA[<p>Thermalright、ディスプレイ付きエアクーラーを備えた Royal Pretor のラインナップを拡大
-
-Thermalright は、Royal Pretor 130 Vision および Royal Pretor 130 Digital デュアルタワー エア クーラーの導入により、CPU 冷却ラインナップを拡張しました。どちらのモデルも、既存の Royal Pretor 130 設計に基づいて、リアルタイムのハードウェア監視とカスタマイズ用に統合されたトップマウント ディスプレイを追加しています。フラッグシップの Royal Pretor 130 Vision は、3.95 インチ、480x480 を備えています。
-
-Thermalright、ディスプレイ付きエアクーラーを備えた Royal Pretor のラインナップを拡大
-
-João Silva 7 時間前
-
-Thermalright は、Royal Pretor 130 Vision および Royal Pretor 130 Digital デュアルタワー エア クーラーの導入により、CPU 冷却ラインナップを拡張しました。どちらのモデルも、既存の Royal Pretor 130 設計に基づいて、リアルタイムのハードウェア監視とカスタマイズ用に統合されたトップマウント ディスプレイを追加しています。主力製品である Royal Pretor 130 Vision は、ヒートシンクの上部に取り付けられた 3.95 インチ、480 × 480 LCD スクリーンを備えています。内部 USB 2.0 ヘッダーを介して接続されたディスプレイは、Thermalright のソフトウェアと連携して、システム メトリクス、カスタム イメージ、壁紙、GIF、アニメーションを表示します。対照的に、Royal Pretor 130 Digital は、CPU 温度、パッケージ消費電力 (W)、クロック周波数 (MHz)、メモリ使用率などのリアルタイム データのみを表示する専用の監視ディスプレイを使用します。どちらのクーラ…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/07/1-11-732x330.jpg" alt="Thermalright、ディスプレイ付きエアクーラーを備えた Royal Pretor のラインナップを拡大"></p>]]></description><source url="https://www.kitguru.net/components/cooling/joao-silva/thermalright-expands-royal-pretor-lineup-with-display-equipped-air-coolers/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/07/1-11-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/07/1-11-732x330.jpg"/></item>
-<item><title>Google が Chrome の最もイライラする Android パフォーマンスの問題をどのように解決したかは次のとおりです</title><link>https://www.androidauthority.com/chrome-for-android-scroll-performance-upgrade-3690669/</link><guid isPermaLink="true">https://www.androidauthority.com/chrome-for-android-scroll-performance-upgrade-3690669/</guid><pubDate>Thu, 23 Jul 2026 17:00:27 +0000</pubDate><description><![CDATA[<p>Google が Chrome の最もイライラする Android パフォーマンスの問題をどのように解決したかは次のとおりです
-
-Google は、新しいタッチ入力の最適化と GPU ルーティングを使用して、よりスムーズなブラウジングを実現し、Android 版 Chrome のスクロール ラグを 48% 削減しました。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Google が Chrome の最もイライラする Android パフォーマンスの問題をどのように解決したかは次のとおりです
-
-0 • Edgar Cervantes / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google は、フレーム配信の一貫性を改善することにより、Android 版 Chrome でのジャンキーなスクロールを 2023 年から 2026 年の間にほぼ半分に削減しました。
-
-「Input Vizard」などの機能は、Chrome の忙しいメイン ブラウザ スレッドをバイパスし、タッチ入力を GPU コンポジタ スレッドに直接送信します。
-
-「入力予測」や「Direct2Thread」などの新機能により、OS によるタッチ データの配信が遅れてもスムーズなレンダリングが保証されます。
-
-Google は、ナビゲーション バーで Gemini を実験したり、構造的なパフォーマンスを大幅に改善したりするなど、Android 版 Chrome を常に調整しています。今日では、パフォーマンスに重点が置かれています。 Google は、Android 上の Chrome でイライラするジャンクスクロールの頻度を 2023 年から 2026 年の間に 48% 大幅に削減することに成功したと発表しました。Chrome の最新のアーキテクチャのアップグレードにより、単なる速度ではなくフレーム配信の一貫性に重点を置くことで、Web…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/05/Chrome-logo-on-phone-stock-photo-2.jpg" alt="Google が Chrome の最もイライラする Android パフォーマンスの問題をどのように解決したかは次のとおりです"></p>]]></description><source url="https://www.androidauthority.com/chrome-for-android-scroll-performance-upgrade-3690669/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/05/Chrome-logo-on-phone-stock-photo-2.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/05/Chrome-logo-on-phone-stock-photo-2.jpg"/></item>
 </channel></rss>
