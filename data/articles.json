@@ -1,6 +1,42 @@
 {
   "akiba": [
     {
+      "Title": "Core i7-8700+16GBメモリ搭載のレノボ製スリムデスクトップPCが49,980円、パソコン工房で中古品が販売中",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2127845.html",
+      "Published": "2026-07-27T22:00:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "Core i7-8700+16GBメモリ搭載のレノボ製スリムデスクトップPCが49,980円、パソコン工房で中古品が販売中\n\nCore i7-8700(6コア/12スレッド)を搭載したデスクトップPC「ThinkCentre M720s」の中古品が、パソコン工房の通販サイトで販売中。販売されているのは3か月保証が付いた中古品で、価格は49,980円となっています。\n\nCore i7-8700+16GBメモリ搭載のレノボ製スリムデスクトップPCが49,980円、パソコン工房で中古品が販売中\n\nCore i7-8700(6コア/12スレッド)を搭載したデスクトップPC「ThinkCentre M720s」の中古品が、 パソコン工房の通販サイト で販売中。販売されているのは3か月保証が付いた中古品で、価格は49,980円となっています。\n\n主な仕様は、メモリが16GB、ストレージが512GB SSD、OSがWindows 11 Pro。このほか、DVD-RAMドライブなどを搭載しています。興味がある方はチェックしてみてください。",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2127/845/a1.jpg"
+    },
+    {
+      "Title": "Appleは落下テスト用のアスファルトを自分で作っていた",
+      "Link": "https://gori.me/iphone/168442",
+      "Published": "2026-07-27T21:45:28Z",
+      "Source": "gori.me",
+      "Category": "取材",
+      "Summary": "Appleは落下テスト用のアスファルトを自分で作っていた\n\nAppleの耐久性試験ラボを取材した。業界標準の落下試験は金属板に落とすが、自宅の床が金属の人はいない。だからAppleは時間をかけてApple規格のアスファルトを自ら作り上げた。何度落としてもiPhone 17 Proは無傷。壊れないことこそが、Apple 2030を支えるいちばん地味な環境対策だった。\n\n壊れないことが、Apple 2030でいちばん地味で効く環境対策だった\n\nAppleの落下試験は金属板ではなく、パーティクルボード、花崗岩、そして自ら配合したApple規格のアスファルトに落とす。摩耗すると条件が変わるため、床はこまめに交換される\n\n試験の順番は熱、振動、落下と決まっている。1台のテスト機から最大限のデータを取るためで、壊すための試験機ですら無駄にしない設計になっていた\n\n前年出荷分の再生素材使用率は30%、バッテリーのコバルトとマグネットのレアアースは100%が再生素材。2015年比で60%の脱炭素を、売上75%増の中で達成した\n\n思わず顔をしかめるような、聞いていて痛い音だ。1メートル以上の高さから、 iPhone 17 Pro が真っ逆さまに落とされた。画面から、床に叩きつけられた。しかも落ちた先は、やわらかいマットでも金属板でもない。 Appleがわざわざ自分たちで配合した、本物のアスファルト である。\n\nそう思った。だが、拾い上げられた iPhone 17 Pro は無傷だった。もう1回見せてほしいと頼んで、2回目も同じ結果だった。\n\nカリフォルニア州サニーベール。Apple本社から車ですぐの場所にある耐久性試験ラボで、僕はこの日、製品が痛めつけられる様子をひたすら見せられていた。ただし、これは頑丈さを自慢するための見学ツアーではない。 「Apple 2030」という環境目標の、いちば…",
+      "ImageURL": "https://gori.me/uploads/2026/07/Durability-Lab-Apple-Apple2030-31-800x534.jpg"
+    },
+    {
+      "Title": "【西川和久の不定期コラム】OpenClawなどに飽き足らず、エージェントアプリを自作してみた！",
+      "Link": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2128302.html",
+      "Published": "2026-07-27T21:07:00Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "【西川和久の不定期コラム】OpenClawなどに飽き足らず、エージェントアプリを自作してみた！\n\n今回、もともとの予定では「OpenClaw」の話Part3的なのを書く予定だったが、プラグイン導入など、使い勝手関連が多くイマイチ面白くない。そこで似たアプリを自分で作ってみた、という話をしたい。\n\nOpenClawなどに飽き足らず、エージェントアプリを自作してみた！\n\n今回、もともとの予定では「OpenClaw」の話Part3的なのを書く予定だったが、プラグイン導入など、使い勝手関連が多くイマイチ面白くない。そこで似たアプリを自分で作ってみた、という話をしたい。\n\n筆者は日頃、AIエージェントとしてOpenClawを使っているのだが、先日、久々にローカル推論エンジンの「 DwarfStar 4(ds4) 」を触った。\n\nds4は、インメモリデータベース「Redis」の作者antirez氏が作ったもの。当初はDeepSeek V4 Flash専用のMetal推論エンジンとして構築され、その後、CUDAやROCm対応、ほかのLLM対応、そしてエージェント機能にも対応……など、いろいろ精力的に開発しているプロダクトだ。DGX Sparkにも対応していることもあり、筆者は時間があるとき、M4 Max 128GBとともに最新版をgit pull/buildして遊んでいた。\n\nds4の中の1つとして「ds4-agent」というのがあり、TUI(Text User Interface)で\n\nread / more — ファイル読み込み(行範囲指定・続き読み)\n\nedit — 文字列の一意マッチによる編集(CRC32ではなく、対象ブロックが1箇所だけに絞れることを要求する方式)\n\nbash / bash_status / bash_stop — 非同期シェルジョブの実行・監視・停止\n\ngoo…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2128/302/C00.jpg"
+    },
+    {
+      "Title": "Apacer、メモリとSSDの供給不足は少なくとも2027年前半まで続くとの見解。2027年後半以降は",
+      "Link": "https://www.nichepcgamer.com/archives/post-131247.html",
+      "Published": "2026-07-27T19:50:17Z",
+      "Source": "ニッチなPCゲーマーの環境構築Z",
+      "Category": "メモリ",
+      "Summary": "Apacer、メモリとSSDの供給不足は少なくとも2027年前半まで続くとの見解。2027年後半以降は\n\nApacer CEOは、メモリ(DRAM)とSSD (NAND)の供給不足は少なくとも2027年前半まで続くとの見解を示しました。台湾メディアの工商時報が報じました。 SSD / メモリモジュールメ...\n\nApacer CEOは、 メモリ(DRAM)とSSD (NAND)の供給不足は少なくとも2027年前半まで続くとの見解を示しました。 台湾メディアの工商時報が報じました。\n\nSSD / メモリモジュールメーカーApacerのCEOであるChang Chia-Kun氏(張家騉)によると、DRAMとエンタープライズSSDの供給不足は少なくとも2027年前半まで続くという。\n\nMicron、SK hynix、Samsungといった世界3大DRAMメーカーの新規生産能力は、その多くがHBM、サーバー向けDDR5メモリ / LPDDR5Xメモリなど、AI製品向けに割り当てられており、コンシューマー向け製品への割り当て量は減少している。\n\nメモリモジュールメーカーが現在直面している最大の課題は価格ではなく、供給不足にあるとChang Chia-Kun氏は指摘。Chang Chia-Kun氏は「高くても買えれば商売はできるが、仕入れることができなければ商売そのものが成り立たない」と述べた。\n\n各DRAMメーカーの供給計画によると、今後、メモリモジュールメーカーに割り当てられるDRAMの供給量はさらに減少し、価格も上昇する見通しだ。Apacerやほかのメモリモジュールメーカーは、販売できる商品がなくなることを避けるため、積極的に在庫確保を進めている。\n\nまた、AI界隈では大容量NANDの需要も高まっており、DRAMとエンタープライズSSDの両方で品薄状態が生じている。\n\nChang Chia-Kun氏は、少なくとも2027年前半までは供給不足が続くとの見解を示した。2027年後半以降は、各DRAMメーカーの増産とAI需要の変化を注視する必要があるとしている。\n\nApacerによ…",
+      "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2026/07/apacer-ddr5.jpg"
+    },
+    {
       "Title": "iOS 26.6／iPadOS 26.6／watchOS 26.6が配信開始",
       "Link": "https://gori.me/ios/ios-news/168477",
       "Published": "2026-07-27T17:44:15Z",
@@ -1972,15 +2008,6 @@
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2127/503/01.jpg"
     },
     {
-      "Title": "「Adobe Creative Cloud PRO」12か月版が25%ポイント還元、フォトプランも対象！楽天お買い物マラソン",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2127430.html",
-      "Published": "2026-07-24T00:30:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "「Adobe Creative Cloud PRO」12か月版が25%ポイント還元、フォトプランも対象！楽天お買い物マラソン\n\n楽天市場では、26日(日)1:59までの期間限定で「お買い物マラソン」が開催中。\n\n「Adobe Creative Cloud PRO」12か月版が25%ポイント還元、フォトプランも対象！楽天お買い物マラソン\n\n楽天市場では、26日(日)1:59までの期間限定で「お買い物マラソン」が開催中。\n\n楽天スーパーDEALSHOPでは、「Adobe Creative Cloud PRO」12か月版が26日(日)9:59までポイント還元対象となっています。価格は102,960円で、25%ポイント還元対象。\n\nAdobe Creative Cloud PRO 12か月版\n\nそのほか、Adobe Creative Cloud フォトプラン 12か月版、Adobe Lightroom 12か月版、Adobe Illustrator 12か月版もポイント還元対象となっています。\n\nAdobe Creative Cloud フォトプラン 1TBストレージ付き 12か月版\n\nAdobe Lightroom 1TBストレージ付き12か月版",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2127/430/s1.jpg"
-    },
-    {
       "Title": "�Υ��󥿥ӥ塼�ϡּ������Υ������ϡ�̤����\"���֥�\"�ˤʤ뤫�⤷���ʤ��ס���20��ǯ��thatgamecompany��Ψ����Jenova Chen�����롤Sky�ȡ����åۤȡ�AI�ȡ����ʤ뿷��",
       "Link": "https://www.4gamer.net/games/394/G039457/20260716051/",
       "Published": "2026-07-24T00:30:00Z",
@@ -1988,6 +2015,15 @@
       "Category": "HARDWARE",
       "Summary": "�Υ��󥿥ӥ塼�ϡּ������Υ������ϡ�̤����\"���֥�\"�ˤʤ뤫�⤷���ʤ��ס���20��ǯ��thatgamecompany��Ψ����Jenova Chen�����롤Sky�ȡ����åۤȡ�AI�ȡ����ʤ뿷��\n\n世界で知らない人はいない画家であるゴッホの生涯が体験できるという，ゲーム業界でも珍しいタイプのコンテンツを7月17日に追加したのが，「Sky 星を紡ぐ子どもたち」だ。これを機に，久々にJenova …\n\n［インタビュー］「手作りのゲームは，未来の\"ジブリ\"になるかもしれない」――20周年のthatgamecompanyを率いるJenova Chenが語る，Skyと，ゴッホと，AIと，次なる新作 ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ 明日発売の「スプラトゥーン レイダース」はどんなゲーム？ 物語やゲームの進め方，タンクとガジェットなど本作ならではの特徴を紹介 ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 過去は「消された」わけじゃない。「龍が如く 極3 / 龍が如く3外伝 Dark Ties」の“再演”の先に見えたもの ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 私の新品Switch2の記録は，6:50:31でした ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「プロスピ2026」は，歴代日本代表で挑めるWBCモード搭載！ “最強の侍”はどのチームなのか，時代を超えた夢の対戦を目撃した ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「スプラトゥ…",
       "ImageURL": "https://www.4gamer.net/games/394/G039457/20260716051/SS/002.jpg"
+    },
+    {
+      "Title": "「Adobe Creative Cloud PRO」12か月版が25%ポイント還元、フォトプランも対象！楽天お買い物マラソン",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2127430.html",
+      "Published": "2026-07-24T00:30:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "「Adobe Creative Cloud PRO」12か月版が25%ポイント還元、フォトプランも対象！楽天お買い物マラソン\n\n楽天市場では、26日(日)1:59までの期間限定で「お買い物マラソン」が開催中。\n\n「Adobe Creative Cloud PRO」12か月版が25%ポイント還元、フォトプランも対象！楽天お買い物マラソン\n\n楽天市場では、26日(日)1:59までの期間限定で「お買い物マラソン」が開催中。\n\n楽天スーパーDEALSHOPでは、「Adobe Creative Cloud PRO」12か月版が26日(日)9:59までポイント還元対象となっています。価格は102,960円で、25%ポイント還元対象。\n\nAdobe Creative Cloud PRO 12か月版\n\nそのほか、Adobe Creative Cloud フォトプラン 12か月版、Adobe Lightroom 12か月版、Adobe Illustrator 12か月版もポイント還元対象となっています。\n\nAdobe Creative Cloud フォトプラン 1TBストレージ付き 12か月版\n\nAdobe Lightroom 1TBストレージ付き12か月版",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2127/430/s1.jpg"
     },
     {
       "Title": "卵より軽いというPulsarのワイヤレスゲーミングマウス「CrazyLight」シリーズに新色",
@@ -2080,15 +2116,6 @@
       "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2127/429/s1.jpg"
     },
     {
-      "Title": "【大原雄介の半導体業界こぼれ話】中国の世界最速スパコン「LineShine」を考察する",
-      "Link": "https://pc.watch.impress.co.jp/docs/column/tidbit/2127484.html",
-      "Published": "2026-07-23T21:04:00Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "【大原雄介の半導体業界こぼれ話】中国の世界最速スパコン「LineShine」を考察する\n\n弊誌でも報じられている通り、2026年6月に発表されたTOP500のランキングでは、中国の「LineShine」がアメリカの「El Capitan」のRmax(実性能) 1.809EFLOPSを打ち破る2.1984EFLOPSを実現して堂々の第1位に輝いた。\n\n弊誌でも報じられている通り、2026年6月に発表されたTOP500のランキングでは、中国の「LineShine」がアメリカの「 El Capitan 」のRmax(実性能) 1.809EFLOPSを打ち破る2.1984EFLOPSを実現して堂々の第1位に輝いた。\n\nRpeak(理論性能)でいえば2022年6月にORNLに納入された Frontier が2024年11月にバージョンアップによって2EFLOPSを超えているが、実性能で2EFLOPSを超えたのはLineShineが最初である。\n\nNVIDIAもAMDもなし。CPUだけで2.19EFLOPS達成した中国スパコンが首位\n\nLineShine LX2の 諸元 を見ると、1CPUあたり304コアで、総コア数13,789,440個なので45,360 CPUでの構成となる。後述する情報によれば、1ノードは2CPUで構成され、1枚のシャーシに8ノード16CPUが実装され、これで1つのコンピュートブレード(Compute Blade)となる。つまりコンピュートブレードの数は2,835枚の計算だ。\n\nこのコンピュートブレードを16枚集めたものがコンピュートフレーム(Compute Frame)と呼ばれ、なのでコンピュートフレームの数は178個(実際には冗長フレームもあるのか、184個)。コンピュートフレームを2つまとめたものがコンピュートキャビネット(Compute Cabinet)と…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2127/484/1.jpg"
-    },
-    {
       "Title": "【やじうまミニレビュー】2,750円でケーブル完全収納。3COINSの丸型タップは外出先で重宝する",
       "Link": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2127481.html",
       "Published": "2026-07-23T21:04:00Z",
@@ -2096,6 +2123,15 @@
       "Category": "",
       "Summary": "【やじうまミニレビュー】2,750円でケーブル完全収納。3COINSの丸型タップは外出先で重宝する\n\n3COINSが販売している丸型電源タップは、リール構造により電源ケーブルを巻き取って収納できる、モバイルユースを前提とした電源タップだ。USBポートも搭載しており、外出先でマルチに使える一品だ。\n\n2,750円でケーブル完全収納。3COINSの丸型タップは外出先で重宝する\n\n3COINSが販売している丸型電源タップは、リール構造により電源ケーブルを巻き取って収納できる、モバイルユースを前提とした電源タップだ。USBポートも搭載しており、外出先でマルチに使える一品だ。\n\nモバイル向けの電源タップは、電源ケーブルを収納するための機構が用意されていることが多いが、内蔵のリールで巻き取るという、ある意味で直球な機構を持った製品は珍しい。実機を購入して使用してみた。\n\n本製品は電源コードを巻き取るリールの天板部に、2基のコンセント口と、複数のUSBポートを搭載した設計になっている。ボディの表面積はCDの直径よりも若干小さいが、そのぶん厚みは約5cmとかなりある。\n\n厚みがある理由は、電源コードの全長が約1mと、この手の製品の中ではかなり長い部類に入るからだ。約1mもの長さがあれば、足元にあるコンセントからデスク上に引き出したあと、デスク上でさらに置き場所を移動させられる程度の余裕がある。\n\nそもそも一般的なモバイル向けの電源タップは、ケーブル長を優先して収納のための機構を省いているか、あるいは収納ギミックありきでケーブルに十分な長さがないか、そのどちらかであることが多い。本製品のように、1mもの長さのケーブルを完全に収納できてしまう製品はかなりレアだ。\n\nまたケーブルの巻き取りも、ハンドルのようなギミックこそないものの、本体の下半分を握って上半分を回転させることで、手軽に巻き取ることができる。ボディは厚めだが、実際に試した限りでは引っかかりもなくスムーズで、設計は洗練されているように感じられた。\n\n一方、USB周りはどうだろうか。最近の電源タップ、特にモバイルタイプはUSBポート…",
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2127/481/01.jpg"
+    },
+    {
+      "Title": "【大原雄介の半導体業界こぼれ話】中国の世界最速スパコン「LineShine」を考察する",
+      "Link": "https://pc.watch.impress.co.jp/docs/column/tidbit/2127484.html",
+      "Published": "2026-07-23T21:04:00Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "【大原雄介の半導体業界こぼれ話】中国の世界最速スパコン「LineShine」を考察する\n\n弊誌でも報じられている通り、2026年6月に発表されたTOP500のランキングでは、中国の「LineShine」がアメリカの「El Capitan」のRmax(実性能) 1.809EFLOPSを打ち破る2.1984EFLOPSを実現して堂々の第1位に輝いた。\n\n弊誌でも報じられている通り、2026年6月に発表されたTOP500のランキングでは、中国の「LineShine」がアメリカの「 El Capitan 」のRmax(実性能) 1.809EFLOPSを打ち破る2.1984EFLOPSを実現して堂々の第1位に輝いた。\n\nRpeak(理論性能)でいえば2022年6月にORNLに納入された Frontier が2024年11月にバージョンアップによって2EFLOPSを超えているが、実性能で2EFLOPSを超えたのはLineShineが最初である。\n\nNVIDIAもAMDもなし。CPUだけで2.19EFLOPS達成した中国スパコンが首位\n\nLineShine LX2の 諸元 を見ると、1CPUあたり304コアで、総コア数13,789,440個なので45,360 CPUでの構成となる。後述する情報によれば、1ノードは2CPUで構成され、1枚のシャーシに8ノード16CPUが実装され、これで1つのコンピュートブレード(Compute Blade)となる。つまりコンピュートブレードの数は2,835枚の計算だ。\n\nこのコンピュートブレードを16枚集めたものがコンピュートフレーム(Compute Frame)と呼ばれ、なのでコンピュートフレームの数は178個(実際には冗長フレームもあるのか、184個)。コンピュートフレームを2つまとめたものがコンピュートキャビネット(Compute Cabinet)と…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2127/484/1.jpg"
     },
     {
       "Title": "東大が暗号解読の世界記録。従来より約47,000倍難しい問題を突破",
@@ -2107,24 +2143,6 @@
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2127/302/1.png"
     },
     {
-      "Title": "AMD、打倒NVIDIAのAI向けGPU「Instinct MI455X」と新ラック投入",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/2127474.html",
-      "Published": "2026-07-23T18:30:00Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "AMD、打倒NVIDIAのAI向けGPU「Instinct MI455X」と新ラック投入\n\nAMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、AIデータセンター向けGPU「Instinct MI400 Series GPU」を発表した。\n\nAMD、打倒NVIDIAのAI向けGPU「Instinct MI455X」と新ラック投入\n\nAMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、AIデータセンター向けGPU「Instinct MI400 Series GPU」を発表した。\n\nNVIDIA Rubinの288GBに比べて1.5倍のHBM4を搭載\n\nInstinct MI455Xは、去年(2025年)のAdvancing AI 2025で概要が発表され、これまで開発が続けられてきたAIデータセンター向けのGPUとなる。メインのXCDダイがTSMCの2nmプロセスノード(N2)で製造され、3,200億個のトランジスタから構成されている。GPUのアーキテクチャは同社のAI/HPC向けのアーキテクチャとしては第5世代となるCDNA 5へと進化している。\n\n従来型製品となるInstinct MI355Xと同じように、チップレットの構造になっており複数のダイを3D方向と2D方向に積層することで構成されている。\n\n具体的にはインターコネクト(Infinity Fabric)とL2キャッシュを搭載するFCD(TSMC N3P)が2チップ、PCI Express/UALinkやチップ間通信のインターコネクト(Infinity Fabric)用のI/Oダイ(IOD、TSMC N3P)が2チップ、コンピュートエンジンを搭載したXCD(TSMC N2)が8チップ、そ…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2127/474/001.jpg"
-    },
-    {
-      "Title": "AMD、最大256コア・L3キャッシュ1GB超の第6世代「EPYC 9006」",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/2127459.html",
-      "Published": "2026-07-23T18:30:00Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "AMD、最大256コア・L3キャッシュ1GB超の第6世代「EPYC 9006」\n\nAMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、この中で第6世代EPYCを正式に発表した。\n\nAMD、最大256コア・L3キャッシュ1GB超の第6世代「EPYC 9006」\n\nAMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、この中で第6世代EPYCを正式に発表した。\n\nZen 6c/Zen 6コアでメモコンは最大16チャンネル構成\n\n今回AMDが発表したのは、2024年10月に「5th Gen AMD EPYC processors」(第5世代AMD EPYCプロセッサ)として発表した「Turin」に次ぐ、新世代サーバー向けCPUとなる。\n\n開発コードネームは「Venice」で、正式な製品名は「6th Gen AMD EPYC Server CPUs」(第6世代EPYCサーバーCPU)だ。シリーズ名は「AMD EPYC 9006 Series server CPU」(AMD EPYC 9006シリーズ・サーバーCPU、以下EPYC 9006シリーズ)となる。\n\nCPUコアはZen 6cとZen 6の2種類が採用されており、前者が最大256コア/512スレッド、後者が最大96コア/192スレッドという構成になっている。\n\nまた、AMDの3D V-Cache(TSMCの3Dダイスタッキング技術となるSoICを利用してキャッシュを3D方向に積層する技術)を利用。L3キャッシュが最大1,152MB(1.125GB)と、遂に1GBを超えるL3キャッシュを実装した。TDPは最大600Wだ。\n\n第5世代EPYCでは最大12チャンネルのメモリコントローラ構成になっていたが、第6世代EPYCでは最大で16チャンネルに強化。通常のDDR5利用時には8,000MT/s(いわゆるDDR5-8000)に対応し、MRDIMMのDDR5の場合には12,800MT/s(DDR5-12…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2127/459/001.jpg"
-    },
-    {
       "Title": "バイブコーディングでAMD GPU最適化を実現する魔法のツール「ROCm.AI」",
       "Link": "https://pc.watch.impress.co.jp/docs/news/2127476.html",
       "Published": "2026-07-23T18:30:00Z",
@@ -2134,6 +2152,15 @@
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2127/476/001.jpg"
     },
     {
+      "Title": "AMD、打倒NVIDIAのAI向けGPU「Instinct MI455X」と新ラック投入",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2127474.html",
+      "Published": "2026-07-23T18:30:00Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "AMD、打倒NVIDIAのAI向けGPU「Instinct MI455X」と新ラック投入\n\nAMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、AIデータセンター向けGPU「Instinct MI400 Series GPU」を発表した。\n\nAMD、打倒NVIDIAのAI向けGPU「Instinct MI455X」と新ラック投入\n\nAMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、AIデータセンター向けGPU「Instinct MI400 Series GPU」を発表した。\n\nNVIDIA Rubinの288GBに比べて1.5倍のHBM4を搭載\n\nInstinct MI455Xは、去年(2025年)のAdvancing AI 2025で概要が発表され、これまで開発が続けられてきたAIデータセンター向けのGPUとなる。メインのXCDダイがTSMCの2nmプロセスノード(N2)で製造され、3,200億個のトランジスタから構成されている。GPUのアーキテクチャは同社のAI/HPC向けのアーキテクチャとしては第5世代となるCDNA 5へと進化している。\n\n従来型製品となるInstinct MI355Xと同じように、チップレットの構造になっており複数のダイを3D方向と2D方向に積層することで構成されている。\n\n具体的にはインターコネクト(Infinity Fabric)とL2キャッシュを搭載するFCD(TSMC N3P)が2チップ、PCI Express/UALinkやチップ間通信のインターコネクト(Infinity Fabric)用のI/Oダイ(IOD、TSMC N3P)が2チップ、コンピュートエンジンを搭載したXCD(TSMC N2)が8チップ、そ…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2127/474/001.jpg"
+    },
+    {
       "Title": "AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」",
       "Link": "https://pc.watch.impress.co.jp/docs/news/2127479.html",
       "Published": "2026-07-23T18:30:00Z",
@@ -2141,6 +2168,15 @@
       "Category": "",
       "Summary": "AMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」\n\nAMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、フィジカルAI向けの「Ryzen AI Embedded Processors」の最新製品となる「Ryzen AI Embedded X100 Series processors」を発表した。\n\nAMD、フィジカルAI用SoC「Ryzen AI Embedded X100」と開発ボード「Kria」\n\nAMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、フィジカルAI向けの「Ryzen AI Embedded Processors」の最新製品となる「Ryzen AI Embedded X100 Series processors」を発表した。\n\nStrix Halo/Golden HaloベースのRyzen AI Embedded X100\n\nAMDが発表したRyzen AI Embedded X100は、1月のCESでAMDが発表した「Ryzen AI Embedded P100 Series processors」の上位版製品となる。Ryzen AI Embedded P100は、Strix PointないしはGolden PointベースのSoCで、最大12コアのZen 5/Zen 5cコア、最大16CUのRDNA 3.5 GPU、最大50TOPSのNPUという構成になっていた。\n\nそれに対して、Ryzen AI Embedded X100はStrix HaloないしはGolden Haloがベースになっており、CPUは最大16コア(8コアのダイが2つ)のZen 5、GPUは最大40CUのRDNA 3.5、そして50TOPSのXDNA2 NPUというスペックになっている。\n\n最大128GBのメモリを搭載可能で、CPU、GPU、NPUが大容量のメモリをシェアしてAIのローカル処理を行…",
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2127/479/001.jpg"
+    },
+    {
+      "Title": "AMD、最大256コア・L3キャッシュ1GB超の第6世代「EPYC 9006」",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2127459.html",
+      "Published": "2026-07-23T18:30:00Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "AMD、最大256コア・L3キャッシュ1GB超の第6世代「EPYC 9006」\n\nAMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、この中で第6世代EPYCを正式に発表した。\n\nAMD、最大256コア・L3キャッシュ1GB超の第6世代「EPYC 9006」\n\nAMDは年次イベント「AMD Advancing AI 2026」を7月22日から23日に米サンフランシスコで開催し、この中で第6世代EPYCを正式に発表した。\n\nZen 6c/Zen 6コアでメモコンは最大16チャンネル構成\n\n今回AMDが発表したのは、2024年10月に「5th Gen AMD EPYC processors」(第5世代AMD EPYCプロセッサ)として発表した「Turin」に次ぐ、新世代サーバー向けCPUとなる。\n\n開発コードネームは「Venice」で、正式な製品名は「6th Gen AMD EPYC Server CPUs」(第6世代EPYCサーバーCPU)だ。シリーズ名は「AMD EPYC 9006 Series server CPU」(AMD EPYC 9006シリーズ・サーバーCPU、以下EPYC 9006シリーズ)となる。\n\nCPUコアはZen 6cとZen 6の2種類が採用されており、前者が最大256コア/512スレッド、後者が最大96コア/192スレッドという構成になっている。\n\nまた、AMDの3D V-Cache(TSMCの3Dダイスタッキング技術となるSoICを利用してキャッシュを3D方向に積層する技術)を利用。L3キャッシュが最大1,152MB(1.125GB)と、遂に1GBを超えるL3キャッシュを実装した。TDPは最大600Wだ。\n\n第5世代EPYCでは最大12チャンネルのメモリコントローラ構成になっていたが、第6世代EPYCでは最大で16チャンネルに強化。通常のDDR5利用時には8,000MT/s(いわゆるDDR5-8000)に対応し、MRDIMMのDDR5の場合には12,800MT/s(DDR5-12…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2127/459/001.jpg"
     },
     {
       "Title": "GeForce RTX 5000シリーズ出荷量、2026年7月下旬はさらに減少へ",
@@ -4463,45 +4499,108 @@
       "Category": "",
       "Summary": "Ryzen Embeddedや16GBメモリ搭載のミニPC「GMKtec NucBox G11」が発売\n\n産業用組込み向けRyzenを搭載したミニPC「GMKtec NucBox G11 (GMK-G11-16/256-W11Pro(R2514))」が発売された。\n\nRyzen Embeddedや16GBメモリ搭載のミニPC「GMKtec NucBox G11」が発売\n\n産業用組込み向けRyzenを搭載したミニPC「GMKtec NucBox G11 (GMK-G11-16/256-W11Pro(R2514))」が発売された。\n\nメモリ 16GBやSSD 256GB、Windows 11 Proを搭載したミニPC\n\nGMKtec NucBox G11は、産業用組込み向けCPUのAMD Ryzen Embedded R2514を搭載したミニPC。本体のサイズはD128.5×W127×H51mm、重量は約480g。省電力・静音設計のため、常時稼働させておく用途にも扱いやすいとしている。\n\n映像出力端子はHDMI 2.0×2、USB Type-C×1で、最大3画面の同時出力に対応。2.5G LAN、USB 3.2 Gen2などの端子やWi-Fi 6E、Bluetooth 5.2も搭載する。\n\nOSはWindows 11 Pro。メモリ搭載容量は16GB（2×8GB）。内蔵ストレージ容量は256GB（M.2 PCIe 3.0 SSD）。\n\n背面ポートはDC-IN×1、USB 3.2 Gen2 Type-A×2、HDMI 2.0×2、2.5G LAN×2。前面ポートは3.5mmオーディオ端子×1、USB 3.2 Gen2 Type-A×2、USB 3.2 Gen2 Type-C（Alt DP対応、給電非対応）×1。VESAマウント（100mm、75mm）にも対応する。\n\n付属品はACアダプター、HDMIケーブル、VESAマウント、ネジセット。",
       "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2126/275/s1.jpg"
-    },
-    {
-      "Title": "GB205搭載のGeForce RTX 5060が登場した模様",
-      "Link": "https://northwood.blog.fc2.com/blog-entry-13152.html",
-      "Published": "2026-07-20T13:42:33Z",
-      "Source": "北森瓦版",
-      "Category": "",
-      "Summary": "GB205搭載のGeForce RTX 5060が登場した模様\n\n北森瓦版 - Northwood Blog (Author : 北森八雲. Since July 10, 2006.)\n\n北森瓦版 - GB205搭載のGeForce RTX 5060が登場した模様 ブログ内検索\n\n○CPU アーク (ark) Tsukumo (Intel) Tsukumo (AMD) ソフマップ ○マザーボード アーク (ark) Tsukumo (Intel) Tsukumo (AMD) ソフマップ ○グラフィックカード アーク (ark) Tsukumo (NVIDIA) Tsukumo (AMD) ソフマップ ○メモリ アーク (ark) Tsukumo ソフマップ ○SSD アーク (ark) Tsukumo ソフマップ ○Amazon売れ筋ランキング CPU メモリ グラフィックカード マザーボード SSD 電源\n\nGB205搭載のGeForce RTX 5060が登場した模様\n\nGB205搭載のGeForce RTX 5060が登場した模様 (2026/07/20)\n\n3GB GDDR7の高騰により、GeForce RTX 50 Superが遅れているらしい (2026/07/18)\n\n【怪情報】GeForce RTX 5090 SEが準備されているらしい？ (2026/07/13)\n\n| 北森瓦版 | Template by おすすめ無料ブログ(blog)比較\n\nGB205搭載のGeForce RTX 5060が登場した模様 (07/20)\n\n3GB GDDR7の高騰により、GeForce RTX 50 Superが遅れているらしい (07/18)\n\n“Nova Lake-S”―Core Ultra 4 seriesのスケジュール (07/18)\n\nJEDEC 有機基板でHBM4並の帯域を実現するSPHBM4を発表 (07/15)\n\n“Nova Lake”の多くはIntelのファウンドリで製造されるかもしれない (07/15)\n\n【怪情報】GeForce RTX 5090…",
-      "ImageURL": ""
-    },
-    {
-      "Title": "2026年上半期買ってよかったもの\u0026合わなかったもの",
-      "Link": "https://komameblog.jp/review/2026fh-bestbuy/",
-      "Published": "2026-07-20T12:28:10Z",
-      "Source": "こまめブログ",
-      "Category": "広告なし",
-      "Summary": "2026年上半期買ってよかったもの\u0026合わなかったもの\n\n2026年の1～6月にかけて筆者が購入したもののなかで、特に良かったものを紹介します。今回取り上げるのは全部で9製品。ガジェットだけではなく、調理器具や日用品なども含めました。合わせて、買ったけど自分にはしっくりこなかったものも取り上げてい...\n\n2026年の1～6月にかけて筆者が購入したもののなかで、特に良かったものを紹介します。今回取り上げるのは全部で9製品。ガジェットだけではなく、調理器具や日用品なども含めました。合わせて、買ったけど自分にはしっくりこなかったものも取り上げています。\n\nジェネシス 3D回転焙煎機 「ジェネカフェ」 CRBR-101A\n\nDyson PencilVac Fluffy (SV50 FF)\n\nアンダーアーマー ステルス フォーム アンクラッシャブル キャップ\n\n静電容量無接点方式でおなじみ『REALFORCE』シリーズのテンキー版です。1月にキーボードを10年ぶりに買い換えまして、その際に同時購入しました。個人的には左手を使った数値入力がしっくりくるので、次にキーボードを買うときは絶対にテンキーを左側にしようと思っていたためです。数値入力は効率的にはなったものの、まだ指が完璧になじんでいないため、誤入力の可能性があるキーは外しています。さらに慣れたらここからキーマップ変更アプリで、「Ctrl+C」や「Ctrl+V」などのショートカットを割り当てようかなと。数値入力の機会が多い人には、けっこういいと思いますよ。\n\nブラックの巨大デスクマット。幅120×奥行き60cmで、デスクにピッタリ合うものを選んでいます。AIとの対話で「いろんなものが眼に入らないほうが作業に集中しやすいタイプ」っぽいということに気付いたため、視界に入る情報を減らす一環として採用しました。使ってみると確かに余計なとこ…",
-      "ImageURL": "https://komameblog.jp/wp-content/uploads/2026/07/2026FH-Bestbuy.jpg"
-    },
-    {
-      "Title": "HWiNFO、グラボのVRAMチップごとの温度表示に暫定対応。v8.51 Build 6034 Betaにて",
-      "Link": "https://www.nichepcgamer.com/archives/hwinfo-v8-51-build6034-beta.html",
-      "Published": "2026-07-20T10:46:52Z",
-      "Source": "ニッチなPCゲーマーの環境構築Z",
-      "Category": "アプリケーション",
-      "Summary": "HWiNFO、グラボのVRAMチップごとの温度表示に暫定対応。v8.51 Build 6034 Betaにて\n\nHWiNFOが、グラボのVRAMチップごとの温度表示に暫定対応しました。 VRAMの温度表示自体は以前から対応していましたが、HWiNFO v8.51 Build 6034 BetaではGDDR7メ...\n\nHWiNFOが、 グラボのVRAMチップごとの温度表示に暫定対応しました。\n\nVRAMの温度表示自体は以前から対応していましたが、HWiNFO v8.51 Build 6034 BetaではGDDR7メモリやGDDR6メモリなど、基板上の各VRAMチップごとの温度が表示されます。\n\n上記スクリーンショットの例だと、『GPU メモリ 0 温度』(GPU Memory 0 Temperature)から『GPU メモリ 7 温度』が各VRAMチップの温度です。『GPU メモリ Chip 温度』(GPU Memory Chip Temperature)はVRAMの平均温度です。『GPUメモリジャンクション温度』(GPU Memory Junction Temperature)は、各VRAMチップの中で最も高い温度です。\n\n(余談ですが、HWiNFOの過去のバージョンや、GPU-Zなどその他のモニタリングアプリで表示されているVRAM温度は、基本的に各VRAMチップの中で最も温度が高い『GPUメモリジャンクション温度』が表示されています。VRAM平均温度ではありません)\n\n今回、HWiNFOが各VRAMチップごとの温度表示に対応したことにより、VRAM温度が異常に高いなどの問題が発生した場合に、問題の切り分けがしやすくなりそうです。\n\nなお、HWiNFO v8.51 Build 6034 Betaは、2026年7月20日時点ではまだ HWiNFO公式ページ には載っておらず、 Overclock.netフォーラム でHWiNFO開発者であるMumak氏により公開されています。\n\n現状、ベータ版となっており、それでも使ってみたい方は以下のURLよりダウンロードをどうぞ…",
-      "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2025/04/hwinfo-top.jpg"
-    },
-    {
-      "Title": "液冷機構内蔵の9.06型OLEDタブ！「REDMAGIC Astra 2」グローバル発表",
-      "Link": "https://smhn.info/202607-redmagic-astra-2-liquid-cooling-global-launch-august",
-      "Published": "2026-07-20T08:13:45Z",
-      "Source": "すまほん!!",
-      "Category": "タブレット",
-      "Summary": "液冷機構内蔵の9.06型OLEDタブ！「REDMAGIC Astra 2」グローバル発表\n\n可視液冷タブレットがついに世界へ。nubia傘下のゲーミングブランドREDMAGICは7月17日、液体を循環させる冷却機構を内蔵したAndroidタブレット「REDMAGIC Astra 2 Gaming Tablet」のグローバル展開を発表しました。発売日は8月26日以降。画面...\n\n液冷機構内蔵の9.06型OLEDタブ！「REDMAGIC Astra 2」グローバル発表\n\nnubia傘下のゲーミングブランド REDMAGIC は7月17日、液体を循環させる冷却機構を内蔵した Androidタブレット 「 REDMAGIC Astra 2 Gaming Tablet」のグローバル展開を発表しました。発売日は8月26日以降。\n\n画面は9.06型のOLEDで、解像度は2400×1504、 リフレッシュレート は最大185Hzです。タッチサンプリングレートは平均300Hz、瞬時最大2000Hzに達します。中国で6月30日に発売された「 REDMAGIC Gaming Tablet 5 Pro」をベースとするグローバルモデルですね。\n\nSoCは Snapdragon 8 Elite Gen 5 で、独自のゲーミングチップ「RedCore R4」を組み合わせます。実行メモリとストレージは12GB／256GB、16GB／512GBの2構成で、規格はLPDDR5XとUFS 4.1です。\n\nバッテリーは2セル構成の8300mAhで、グローバル版は最大75Wの有線急速充電とバイパス充電に対応します。\n\n目玉のひとつが、透明な背面パーツとRGBライトで冷却機構を見せる12層の「AquaCore Cooling System 2.0」です。流動式液冷、 Liquid Metal 3.0、大型 ベイパーチャンバー などを組み合わせ、長時間の高負荷時にも性能を維持しやすくするとしています。\n\n米国価格は12GB／256GB版が749ドル（約12万2000円）、16GB／512GB版が849ドル（約13…",
-      "ImageURL": "https://smhn.info/wp-content/uploads/2026/07/20260720_171034.webp"
     }
   ],
   "world": [
+    {
+      "Title": "道端で見つかった NVIDIA RTX Spark ノートパソコンが正式発売前にレビューされる",
+      "Link": "https://www.techpowerup.com/351122/nvidia-rtx-spark-laptop-found-on-roadside-gets-reviewed-before-official-launch",
+      "Published": "2026-07-27T22:12:27Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "道端で見つかった NVIDIA RTX Spark ノートパソコンが正式発売前にレビューされる\n\nTechPowerUp フォーラムの長年のユーザー (Fouquin) が、NVIDIA RTX Spark Arm ベースの SoC を搭載した次期 Microsoft Surface Laptop Ultra の驚くほど詳細なレビューを投稿しました。奇妙な幸運に、ユーザーは Microsoft Surface Laptop Ultra を横に見つけたと言いました...\n\n道端で見つかった NVIDIA RTX Spark ノートパソコンが正式発売前にレビューされる\n\n電力と熱については何度か言及しているので、最後に熱パフォーマンスについて説明します。「バランス」および「最高の電力効率」設定では、一部の X925 コアが 98 ～ 100 ℃に達するまで、CPU コアは最大約 38 W まで押し上げられ、その後、それに対応するためにファンが増加します。このユニットではファンは調整できません (少なくともファンを調整する設定がどれも調整されていません)。数秒のスロットルが発生するまでファンは作動するのを待ちます。ただし、すべてのコアは 35 ～ 37 W、約 2.6 GHz で動作します。 「最高のパフォーマンス」の電力設定では、ファンはすぐには作動しませんが、コアは 44 ～ 50 W を消費でき、100℃ に達すると約 2.8 GHz で動作し、絶対的な限界を押し上げます。 Blackwell GPU は実際にここで最も低温で動作し、スパイク負荷では 90℃ に達しますが、ファンが動作している状態では 80 ～ 88℃ の範囲で 2 ～ 2.2 GHz のクロック速度に達することができます。この GPU では Max-Q が有効になっているため、デフォルトの「50 W」TGP でサーマル スロットルが発生するずっと前に電力スロットルが行われ、現在の状態では真の動作クロック範囲として約 1550 ～ 1950 MHz が得られます。 50 W が引用符で囲まれているのは、…",
+      "ImageURL": "https://www.techpowerup.com/img/lBae5HxkFKwGqrwB.jpg"
+    },
+    {
+      "Title": "Google Antigravity に Obsidian 保管庫へのアクセスを許可したところ、週末に長年の混乱が解消されました",
+      "Link": "https://www.xda-developers.com/gave-google-antigravity-access-to-obsidian-vault-fixed-years-of-chaos-in-weekend/",
+      "Published": "2026-07-27T22:00:10Z",
+      "Source": "XDA",
+      "Category": "Obsidian",
+      "Summary": "Google Antigravity に Obsidian 保管庫へのアクセスを許可したところ、週末に長年の混乱が解消されました\n\nレーン外で反重力を使用すると、予想以上に便利です\n\nGoogle Antigravity に Obsidian 保管庫へのアクセスを許可したところ、週末に長年の混乱が解消されました\n\nBy Nolen Jonker 公開 2026 年 7 月 27 日、午後 6 時 EDT Nolen は 2019 年に執筆活動を開始し、3 年間 MakeUseOf のクリエイティブ セクションの編集に専念しました。彼らの専門知識はテクノロジーと創造性の交差点にあり、写真、ビデオ編集、グラフィック デザインなどの分野をカバーしています。仕事以外では、ノーレンが良い本を読んだり、自分の物語を書いたり、ビデオ ゲームをしたりしているのをよく見かけます。 XDA アカウントにサインインする Antigravity は、初期の頃はコーディング ツールとして最も注目を集めました。これは、VS Code に基づいて構築された Cursor と Windsurf に対する Google の回答であり、エージェントが自分ですべての行を入力するのではなく、エディターとターミナル全体で面倒な作業を行ってほしいと考えている開発者を対象としています。あなたが開発者であれば、これは非常に簡単な販売です。しかし、ファイル アクセスとターミナル アクセスは開発者専用の機能ではないため、その枠組みを取り除いてみると、このツールが実際に何であるかについてはまったく別の見方ができます。これらは単なるメカニズムであり、コードの出荷とは関係のない多くの状況で役立ちます。\n\n私はすでに、Figma MCP セットアップを使用して、ある種の非開発用途を実行していました。これは、設計作業をコーディング パイプラインに非常にきれいに橋渡しします。それで、反重力を他に何に使用できるかについて興味が湧きました。結局のところ、それは変装した生産性ウィザードであることが判明したため、当然のことながら、私が最も助…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/google-antigravity-on-desktop-pc-lego-and-lamp-in-view-1.jpeg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "Xbox outage turns ugly as players use Xbox App glitch to download and play titles for free",
+      "Link": "https://www.tweaktown.com/rss/click/news/112874/?c=news-mf",
+      "Published": "2026-07-27T21:55:09Z",
+      "Source": "TweakTown",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "あなただけではありません: T-Mobile、Verizon、AT\u0026T に影響を与える大規模な障害が発生しています",
+      "Link": "https://www.androidauthority.com/t-mobile-cellular-outage-3691641/",
+      "Published": "2026-07-27T21:34:47Z",
+      "Source": "Android Authority",
+      "Category": "Verizon",
+      "Summary": "あなただけではありません: T-Mobile、Verizon、AT\u0026T に影響を与える大規模な障害が発生しています\n\n米国中のT-Mobile、Verizon、AT\u0026Tの加入者は今日の午後、サービスの中断を報告している。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nあなただけではありません: T-Mobile、Verizon、AT\u0026T に影響を与える大規模な障害があります\n\n0 • Edgar Cervantes / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR T-Mobile は現在、大規模なサービス中断が発生しています。\n\nニューヨークからカナダまでのユーザーは、T-Mobile の携帯電話ネットワークに接続できないと報告しています。\n\nVerizonとAT\u0026Tも同様に影響を受けるようだ。\n\n今日の午後、T-Mobile、Verizon、または AT\u0026T のスマートフォンが Wi-Fi に接続できなくなった場合は、携帯電話の問題が孤立して起こっているわけではないことを心に留めてください。現在、複数の通信事業者がかなり大規模なサービス中断の最中にあるようです。\n\nReddit の T-Mobile サブチャンネルでは、ユーザーが約 1 時間前に接続の問題を報告し始めました。カリフォルニア、ニューヨーク、ジョージア州の購読者からコメントが殺到しており、米国の広範囲に影響が及ぶ可能性があるようだ。\n\n前回お伝えした T-Mobile の大規模障害からまだ 1 週間も経っていないため、通信事業者のユーザーにとっては特にイライラする時期となっています。\n\nDownDetector をチェックすると、AT\u0026T と Verizon でも同様の障害レポートが急増していることがわかります。\n\nAT\u0026T については、ネバダ州での障害についてのユーザー報告が確認されていますが、これらのインシデントが 3 つの通信事業…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2024/05/Phones-showing-Verizon-ATT-and-T-Mobile-logos-stock-photo-4.jpg"
+    },
+    {
+      "Title": "これら 5 つの古いデバイスは、Raspberry Pi よりも優れたホーム サーバーを構築できます",
+      "Link": "https://www.xda-developers.com/old-devices-make-better-home-servers-than-a-raspberry-pi/",
+      "Published": "2026-07-27T21:30:10Z",
+      "Source": "XDA",
+      "Category": "Home Lab",
+      "Summary": "これら 5 つの古いデバイスは、Raspberry Pi よりも優れたホーム サーバーを構築できます\n\n無駄な費用をかけずにアップグレードしましょう。\n\nこれら 5 つの古いデバイスは、Raspberry Pi よりも優れたホーム サーバーを構築できます\n\nサミール・マクワナ著 公開 2026 年 7 月 27 日、午後 5 時 30 分 EDT サミール・マクワナは、過去 18 年間インド出身のテクノロジー ジャーナリスト兼編集者であり、彼の作品は MakeUseOf、HowToGeek、GSMArena、BGR、GuidingTech、The Inquisitr、TechInAsia、TechWiser などに掲載されています。全国規模のテクノロジー メディア出版物にニュース、特集、ガジェット レビューを執筆しています。彼の情熱は、人々のテクノロジーの問題やガジェットの購入を支援することです。そのために、彼はニュース、解説、ハウツー ガイド、リスト記事、製品購入ガイドなどをカバーする、いくつかの最大規模の国際テクノロジー出版物で働いてきました。 2015 年から編集者として働き、チームを管理しています。彼の専門知識は、コンピューター、スマートフォン、ゲーム機、ヘッドフォン、スマート ホーム製品、ブラウザー、アプリを幅広くカバーしています。 XDA アカウントにサインインする Raspberry Pi ほどセルフホスティングの普及に貢献したデバイスはほとんどありません。手頃な価格で効率的で、最大規模のコミュニティの支援を受けているため、Pi-hole や Home Assistant などの軽量ホーム サーバー プロジェクトのデフォルトの推奨事項となっています。\n\nしかし 2026 年には、Raspberry Pi はホームサーバーとしての明白な選択肢ではなくなりました。中古 PC 市場には、フルキットの Pi セットアップとほぼ同じ価格の高性能ハードウェアが溢れています。それはもはや不条理には聞こえません。パーティーに遅れて到着する場合でも、値下げを待っている場合で…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/mini-pc-with-raspberry-pi-4.JPG?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "Xbox servers go down just days after PlayStation outage, giving us a glimpse into our digital-only future",
+      "Link": "https://www.tweaktown.com/rss/click/news/112873/?c=news-mf",
+      "Published": "2026-07-27T21:30:10Z",
+      "Source": "TweakTown",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "Google Meet の「メモを取る」ツールが最大の見落としを修正しようとしている",
+      "Link": "https://www.androidauthority.com/google-meet-notes-screenshots-3691613/",
+      "Published": "2026-07-27T21:27:32Z",
+      "Source": "Android Authority",
+      "Category": "Google Meet",
+      "Summary": "Google Meet の「メモを取る」ツールが最大の見落としを修正しようとしている\n\nGoogle はついに、Gemini が Google Meet ノート用の図、チャート、グラフのスクリーンショットを取得できるようにしました。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nGoogle Meetの「メモを取る」ツールが最大の見落としを修正しようとしている\n\n0 • Edgar Cervantes / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR 「メモを取ってください」と、Gemini が用意した Google Meet 通話の概要が作成されます。\n\nGoogle は、これらのメモをテキストのみから拡張し、スクリーンショットを組み込む準備を進めています。\n\n現時点で Google が話しているのは、これを Workspace ユーザーに提供することだけであり、個々の Google AI サブスクライバーにはまだ対応していません。\n\nGoogle Meet は、友人、家族、職場の同僚と直接話すのに便利な方法であることは間違いありませんが、それ以外にもさまざまなことができます。その最も優れた機能の 1 つは、通話内容の簡潔な要約を生成するために Gemini に頼れる機能です。長くて退屈な会議では、まさに天の恵みです。つい先月、Meet がこの「メモを取る」ツールを Workspace のみの特典から Google AI Pro および Ultra の登録者が利用できる機能に拡張したことを知りました。そして現在、開発中の新しいアップグレードの早期プレビューを入手できるようになりました。\n\n現時点では、Meet のメモ作成ソリューションはテキストベースです。多くの会議ではそれはまったく問題ないかもしれませんが、多くの会議では好ましくない場合もありますが、同僚がグラフィックを多用したプレゼンテーションを画…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Meet-logo-on-smartphone-stock-photo.jpg"
+    },
+    {
+      "Title": "クロード チャットを共有したことがありますか? Google検索に出てきたかも知れません",
+      "Link": "https://www.androidauthority.com/shared-claude-chats-on-google-search-3691594/",
+      "Published": "2026-07-27T21:26:32Z",
+      "Source": "Android Authority",
+      "Category": "Google Search",
+      "Summary": "クロード チャットを共有したことがありますか? Google検索に出てきたかも知れません\n\n共有されたクロード チャットの一部は Google によってインデックスに登録されていましたが、アンスロピック氏によると、ユーザーが公開共有しない限りリンクは発見できなかったそうです。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nクロード チャットを共有したことがありますか? Google検索に出てきたかも知れません\n\n0 • Calvin Wankhede / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Reddit ユーザーは、リンク経由で共有されたクロードのチャットが Google 検索結果に表示されていることを発見しました。\n\nAnthropic は、チャット ディレクトリやサイトマップを検索エンジンに提供していないと述べ、リンクがユーザーによって公開された可能性があることを示唆しています。\n\nクロードのプライベート チャットは影響を受けず、インデックス付きリンクは削除されたようです。\n\n一部の Meta AI アプリ ユーザーは、昨年の夏、自分たちが共有した会話が公開フィードに投稿されていることを認識していないようでしたが、Meta に公平を期すために言えば、それらのユーザーは機能の仕組みに関する免責事項を無視または誤解していました。 Googleの検索結果に共有チャットが表示されていることが判明したことを受け、クロードさんは現在、別の種類の共有論争に直面している。\n\nクロード ユーザー: チャットボットがより激しく押し返していることに気づきましたか?\n\nこの問題は、ClaudeAI サブレディットの投稿で強調されました (ZDNet 経由)。 Reddit ユーザーは、Google でチャットボットの共有チャット アドレスにあるページを検索すると、ユーザーが以前に特定の人とのみ共有することを選択し…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2023/12/claude-homepage.jpg"
+    },
+    {
+      "Title": "6 か月間毎日使用した後、Claude をキャンセルしました - 問題点は次のとおりです",
+      "Link": "https://www.xda-developers.com/cancelled-claude-6-months-daily-use-what-went-wrong/",
+      "Published": "2026-07-27T21:00:10Z",
+      "Source": "XDA",
+      "Category": "AI \u0026 Machine Learning",
+      "Summary": "6 か月間毎日使用した後、Claude をキャンセルしました - 問題点は次のとおりです\n\nGPT 5.6 の方が優れた値です。\n\n6 か月間毎日使用した後、Claude をキャンセルしました - 問題点は次のとおりです\n\nBy Anurag Singh 公開 2026 年 7 月 27 日、午後 5:00 EDT Anurag は、過去 5 年間、Windows、Android、Apple を中心にテクノロジーをカバーしてきた経験豊富なジャーナリスト兼著者です。彼は Android Police、Neowin、Dexerto、MakeTechEasier などのサイトに執筆しています。アヌラグは常にテクノロジーに興味があり、最新のガジェットを手に入れるのが大好きです。先延ばしにしていないときは、おそらく彼が映画館で最新映画を鑑賞したり、ベッドから Twitter をスクロールしたりしているのを見かけるでしょう。 XDA アカウントにサインインする Anthropic のような企業が自由に行動できるようになれば、躊躇なく消費者を搾取するようになるため、競争はこれまで以上に重要になります。 20 ドルのプランを利用している場合、サブスクリプションはほとんど役に立たないクロードでは、すでにそれが見られます。クロードは 5 時間のセッション制限と週ごとの上限の両方を適用し、長時間の会話や思考の延長によりお小遣いがさらに早く消費されます。サブエージェントはすぐに制限を使い切ってしまうため、定期的にサブエージェントを使用することは忘れてください。\n\n私はクロードにゆっくり時間を与え、これより良い選択肢がなかったため、6 か月以上定期購読料を支払いました。あらゆる問題にもかかわらず、クロードは私が行っていた種類の技術的な仕事にとって最高のモデルであり続けました。しかし、OpenAI が新しい GPT 5.6 Sol モデルをリリースしたので、私はついに Claude サブスクリプションをキャンセルしました。少しも後悔していません。\n\n20 ドルのプランでは十分ではなくなった\n\nそれ…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/img_20260725_000004.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "Xbox Series X survives a devastating house fire and still works!",
+      "Link": "https://www.tweaktown.com/rss/click/news/112872/?c=news-mf",
+      "Published": "2026-07-27T20:50:11Z",
+      "Source": "TweakTown",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "Thermalright A70 ARGB ケース レビュー |熱、音響、ビルド品質",
+      "Link": "http://gamersnexus.net/cases/thermalright-a70-argb-case-review-thermals-acoustics-build-quality",
+      "Published": "2026-07-27T20:50:00Z",
+      "Source": "GamersNexus",
+      "Category": "",
+      "Summary": "Thermalright A70 ARGB ケース レビュー |熱、音響、ビルド品質\n\nケース Thermalright A70 ARGB ケース レビュー |熱、音響、ビルド品質 2026 年 7 月 27 日 最終更新日: 2026 年 7 月 27 日 A70 は特定のカテゴリで革新的ではありません。価格が十分に低ければそれでも問題ありませんが、革新的なケースと同じような価格設定です。\n\nThermalright A70 ARGB ケース レビュー |熱、音響、ビルド品質\n\nA70 は特定のカテゴリーで革新的ではありません。価格が十分に低ければそれでも問題ないかもしれませんが、革新的なケースと同じような価格設定になっています。\n\n私たちがレビューしている最初のThermalrightケースは悪くはないが、良くもない\n\n製造上の欠陥が 1 つあり、角ピラミッドの接着剤の下に気泡があり、ドライブ ケージとマザーボード トレイの設計ミスに気づきました。\n\nこのケースは、Thermalright のいつもの強気な価格設定と高いパフォーマンスを印象づけるには至っていません。\n\n今日はThermalright TR-A70をレビューします。\n\n私たちのオフィスに到着したサーマルライトの最初のケースは、私たちが長年テストしてきた同社の最強の候補者とは残念な結果を残しました。新しいThermalright TR-A70は、ガラスコーナーの三角形のサポートに至るまでLian Li O11 Visionに似ていますが、Thermalrightの最大の魅力である低価格が欠けています。\n\n編集者注: これは元々、2026 年 7 月 19 日にビデオとして公開されました。この内容はこの記事用に文書形式に調整されており、元の出版物から変更されていません。\n\nThermalrightの一番の魅力は低価格です。\n\nマザーボード トレイの設計の見落とし、USB ポートの 1 つの製造上の欠陥、工場からの泡立ちの問題、誰も使用しようとさえしなかったように見えるドライブ ケージ、ケースの周囲に多くの…",
+      "ImageURL": "http://gamersnexus.net/u/styles/crop_thumbnail/public/2026-07/vlcsnap-2026-07-27-14h18m44s006.jpg"
+    },
     {
       "Title": "'PS5 is currently the Call of Duty box,' analyst says after Black Ops II re-release takes over PlayStation",
       "Link": "https://www.tweaktown.com/rss/click/news/112868/?c=news-mf",
@@ -4510,6 +4609,15 @@
       "Category": "",
       "Summary": "",
       "ImageURL": ""
+    },
+    {
+      "Title": "iOS と macOS 26.6 が本日リリースされ、iOS と macOS 27 への道が開かれます",
+      "Link": "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/",
+      "Published": "2026-07-27T20:32:45Z",
+      "Source": "Ars Technica Gear \u0026 Gadgets",
+      "Category": "Tech",
+      "Summary": "iOS と macOS 26.6 が本日リリースされ、iOS と macOS 27 への道が開かれます\n\nこれらはおそらく、Apple のより大きな秋のアップデートの前に注目すべき最後のアップデートとなるでしょう。\n\nテキスト設定 ストーリーのテキスト サイズ 小 標準 大 幅 * 標準 幅広 リンク 標準 オレンジ * 購読者のみ 詳細はこちら ナビゲーション用に最小化 Apple は、iOS、iPadOS、macOS、watchOS、および tvOS 26.6 をリリースしました。潜在的なセキュリティホットフィックスを除けば、これらはおそらく iOS 27 や macOS 27 などが登場する前の最後のアップデートとなります。\n\n本日のリリースにはすべて軽微なバグ修正が含まれており、多数のセキュリティ アップデートが含まれています (macOS 26.6 では 150 以上)。 Apple はまた、古いデバイス向けに macOS 14.8.8 と macOS 15.7.8 をリリースし、これもセキュリティ修正に重点を置いています。\n\n新機能に関しては、これらのリリースでは多くは見つかりません。主に、9 月中にリリースされる可能性が高い次の OS メジャー アップデートへの道を整えるためです。最も注目すべきは、iOS および iPadOS 26.6 のリリース ノートには、このアップデートにより「iOS 27 に備えて Spotlight インデックスが最適化される」と記載されていることです。このアップデートにより、いくつかのインデックス作成作業が開始され、来月 iOS 27 がリリースされるときに、表面上はより堅牢な Spotlight 検索機能で活用されることになります。\n\nさらに、リリースノートには記載されていませんが、ブロックされた連絡先の数が制限に達したときにユーザーに通知する新しいアラートが表示されます。以前は、ユーザーはそれに関して有益なフィードバックを得ることができませんでした。\n\nApple では、OS リリース サイクルの中で、ホットフィックス以外…",
+      "ImageURL": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/macOS-26-6-update-1152x648-1785182231.jpg"
     },
     {
       "Title": "2026 年はゲームを悪い方向に変えました、ゲーマーはまだそれに気づいていないだけです",
@@ -4926,6 +5034,15 @@
       "ImageURL": "https://cdn.mos.cms.futurecdn.net/KfmN2kdM6HUSuC9eM7UAWB-1999-80.jpg"
     },
     {
+      "Title": "Framework Laptop 13 Pro レビュー: バッテリーは大幅に向上、価格は大幅に低下",
+      "Link": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
+      "Published": "2026-07-27T15:02:45Z",
+      "Source": "Ars Technica Gear \u0026 Gadgets",
+      "Category": "panther lake",
+      "Summary": "Framework Laptop 13 Pro レビュー: バッテリーは大幅に向上、価格は大幅に低下\n\nFramework の最新のモジュラー ラップトップは、一連の問題を別の問題と交換します。\n\nテキスト設定 ストーリーテキスト サイズ 小 標準 大 幅 * 標準 ワイドリンク 標準 オレンジ * 購読者限定 詳細はこちら ナビゲーションを最小化 初めて使ったときから Framework Laptop 13 が気に入っています。理由の 1 つは、修理可能でアップグレード可能なラップトップというアイデアがクールだと思っているからであり、もう 1 つは MacBook Air クローンになろうとしているウルトラポータブルではないからです。しかし、この設計には常に本当の欠点があり、最も顕著で深刻なのはバッテリー寿命が平凡であることです。\n\nフレームワーク Laptop 13 Pro を入力します。これまでの Laptop 13 のすべてのリフレッシュはオリジナルのデザインに手​​を加えていましたが (蓋のデザインが微調整され、新しいヒンジや新しいスピーカーが搭載されています)、Laptop 13 Pro はオリジナルのデザインの第 2 世代のリビジョンに限りなく近いものになっています。\n\nこれは、Laptop 13 の一部 (すべてではない) コンポーネント、特にボトムケース、キーボードとトラックパッド、およびオリジナルの 55 WHr および 61 WHr バッテリー設計の下位互換性が失われることを意味します。しかし、Framework はデザインに大きな変更を加えることができるようになったことで、バッテリー寿命と全体的なフィット感と仕上げにおいて大きな進歩を遂げました。\n\nその結果、Framework の最も見栄えがよく、感触が良く、最も洗練されたラップトップ デザインが実現しました。既存の Laptop 13 ユーザーは、ラップトップを新しい部品で改造することで、その利点の一部またはすべてを得ることができます。 Laptop 13 Pro は、2026 年の消費者向け…",
+      "ImageURL": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/IMG_8936-1-1152x648-1785150222.jpeg"
+    },
+    {
       "Title": "Intel は 20 年前に象徴的な Core 2 Duo ファミリを発表しました - 伝説的なチップが AMD Athlon を退け、チップメーカーのパフォーマンスリードを回復しました",
       "Link": "https://www.tomshardware.com/pc-components/cpus/intel-unveiled-its-iconic-core-2-duo-family-20-years-ago-legendary-chip-dethroned-amd-athlon-restoring-the-chipmakers-performance-lead",
       "Published": "2026-07-27T15:01:11Z",
@@ -4933,6 +5050,15 @@
       "Category": "PC Components",
       "Summary": "Intel は 20 年前に象徴的な Core 2 Duo ファミリを発表しました - 伝説的なチップが AMD Athlon を退け、チップメーカーのパフォーマンスリードを回復しました\n\nTeam Blue は、これらの効率的な 65nm CPU が「まさに世界最高のプロセッサー」であると絶賛し、レビュー担当者も同意する傾向がありました。\n\nIntel は 20 年前に象徴的な Core 2 Duo ファミリを発表しました - 伝説的なチップが AMD Athlon を退け、チップメーカーのパフォーマンスリードを回復しました\n\nTeam Blue は、これらの効率的な 65nm CPU が「まさに世界最高のプロセッサー」であると絶賛し、レビュー担当者も同意する傾向がありました。\n\n(画像クレジット: JulianVilla26 ) リンクをコピー\n\n0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 今日は、Intel Core 2 Duo プロセッサの最初のラフト (コードネーム Conroe) が発売されてから 20 年になります。 2006 年 7 月 27 日、10 基のインテル Core 2 Duo およびインテル Core 2 Extreme プロセッサーが、消費者およびビジネス向けのデスクトップおよびラップトップ PC およびワークステーション向けに発表されました。私たちは幸運にも、月初めに今や伝説となっているインテルの新しいデスクトップ プロセッサーをテストすることができ、レビュー担当者は Core 2 Duo を「新しい王様」と評しました。私たちの初期の実践レビューでは、「Core 2 Duo が市場に投入されるとすぐに、AMD が伝統的に非常に得意としていたゲームを含むすべての分野で完全な Athlon 64 ファミリ (X2 および FX) を上回るパフォーマンスを発揮するだろう」ことが強調されました。\n\n2006 年 7 月 27 日に発売された 4 つのメインストリーム プロセッ…",
       "ImageURL": "https://cdn.mos.cms.futurecdn.net/udYjfqJBbM9tmP8R5ncJVe-1920-80.jpg"
+    },
+    {
+      "Title": "クアルコムがチップ価格の値上げを計画していると報じられている",
+      "Link": "https://www.kitguru.net/gaming/matthew-wilson/qualcomm-reportedly-set-to-raise-chip-prices/",
+      "Published": "2026-07-27T15:00:44Z",
+      "Source": "KitGuru",
+      "Category": "valve",
+      "Summary": "クアルコムがチップ価格の値上げを計画していると報じられている\n\nValve は、RAM と SSD の価格が上がり続けるため、Steam Machine の発売にすでに苦労しています。さて、少し異なる理由から、次期 Steam Frame VR ヘッドセットも影響を受ける可能性があるようです。\n\nクアルコムがチップ価格の値上げを計画していると報じられている\n\nMatthew Wilson 7 時間前 注目の技術ニュース , ソフトウェア \u0026 ゲーム\n\nスマートフォンやラップトップからスタンドアロンの VR ヘッドセットなどに至る家電向けチップの最大手サプライヤーの 1 つであるクアルコムは、家電市場にさらなる打撃として、自社のプロセッサの価格を値上げする予定です。ブルームバーグの新しいレポートによると、クアルコムはチップの価格を「二桁」の割合で値上げする予定だという。 Valve にとって残念なことに、Steam Frame スタンドアロン VR デバイスは Qualcomm チップを中心に構築されています。クアルコムチップの価格の大幅な上昇によって影響を受けるのはValveだけではない。クアルコムのチップはARMベースのラップトップからスマートフォン、テレビなどあらゆる種類のデバイスに使用されているため、このような動きはほとんどの大手テクノロジー企業に影響を与えることになる。価格の上昇とは別に、ほとんどの企業がプロセッサの製造をTSMCに依存しており、TSMCはApple、Qualcomm、Nvidiaなどの顧客からの需要の増加に追いつけないため、来年もチップ不足になる可能性が高い。その結果、家庭用電化製品向けのチップ供給が減り、価格も上昇することになる。 Steam Frame の購入者にとって良いニュースは、Valve がすでにユニットを生産し、すぐに使用できる状態にあるため、コンポーネントのコスト上昇の影響を受けないことです。ただし、将来の供給に影響が出る可能性があるため、最初の波で入手できなかった場合、後で追加料金を支払うことになる可能性があります。 RAM …",
+      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2025/11/Steam-Frame-632x330.png"
     },
     {
       "Title": "刻印されたタグとラベルのおかげで、3D プリントのセットアップが組織化された混乱のように感じられるのがやっとなくなりました。",
@@ -4960,6 +5086,15 @@
       "Category": "",
       "Summary": "(PR) SAPPHIRE Technology、EDGE+ Apex Robotics Platformを発表\n\nSAPPHIRE Technology は本日、EDGE+ Apex SOM/Carrier Robotics Platform を発表しました。これは、AMD Ryzen AI 組み込み X100 シリーズ プロセッサを搭載し、自律型ロボティクスにおける物理 AI の開発と展開を加速するように設計された、量産対応のハードウェア プラットフォームです。プラットフォームは...\n\nSAPPHIRE Technology、EDGE+ Apex Robotics プラットフォームを発表\n\nAMDのアダプティブ・アンド・エンベデッド・コンピューティング・グループの製品管理およびマーケティング責任者であるスミット・シャー氏は、「物理AIは、機械が現実世界でどのように認識し、決定し、行動するかを再構築しています」と述べています。 「AMD Ryzen AI Embedded X100 シリーズ プロセッサは、AI、リアルタイム制御、産業用信頼性を統合するスケーラブルなオープン x86 プラットフォームを提供し、開発者を単一のコンピューティング アーキテクチャやソフトウェア スタックに閉じ込めることなく、次世代の自律システムを可能にします。」\n\nSAPPHIRE Embedded Solutions シニア ディレクターの Paul Smith 氏は次のように述べています。「EDGE+ Apex を使用することで、私たちの目標は、ロボティクス ビルダーに、本番環境にすぐに使える完全な基盤を提供し、ロボット ビルダーがハードウェアではなくアプリケーションに集中できるようにすることでした。」 「EDGE+ Apex は、AMD Ryzen AI Embedded X100 シリーズ プロセッサを基盤として構築し、現実世界のセンシング、接続性、制御用に設計されたロボティクス キャリア ボードと組み合わせることで、最も要求の厳しい常時稼働環境全体で物理 AI を拡張しながら、顧…",
       "ImageURL": "https://www.techpowerup.com/img/FQJjNE67G0lhAq31.jpg"
+    },
+    {
+      "Title": "Xbox PC エミュレーターはすでに Xbox 360 タイトルをサポートしています",
+      "Link": "https://www.kitguru.net/gaming/matthew-wilson/the-xbox-pc-emulator-already-supports-xbox-360-titles/",
+      "Published": "2026-07-27T14:30:54Z",
+      "Source": "KitGuru",
+      "Category": "xbox 360",
+      "Summary": "Xbox PC エミュレーターはすでに Xbox 360 タイトルをサポートしています\n\nMicrosoft は先週、PC 向けのコンソールの下位互換性を正式に開始し、いくつかのオリジナル Xbox タイトルを初めて PC プラットフォームに導入しました。現在、Xbox 360 タイトルも間もなくサポートされることが証拠によって示唆されています。\n\nXbox PC エミュレーターはすでに Xbox 360 タイトルをサポートしています\n\nMatthew Wilson 8 時間前 注目の技術ニュース , ソフトウェア \u0026 ゲーム\n\nMicrosoft は先週、PC 向けのコンソールの下位互換性を正式に開始し、いくつかのオリジナル Xbox タイトルを初めて PC プラットフォームに導入しました。現在、Xbox 360 タイトルも間もなくサポートされることが証拠によって示唆されています。 Tom’s Hardware の新しいレポートによると、下位互換性のあるリリースには、Microsoft の Xbox 360 エミュレータのネイティブ x86 バージョンが同梱されていました。改造者たちは、新しくリリースされた OG Xbox タイトルの PC バージョンが Xe03 内で実行されていることをすぐに発見しました。Xe03 は、Xbox One および Xbox シリーズ コンソールの下位互換性のために使用されているのと同じエミュレータです。この発見は、TheLunarixus によって共有されたデータマイナーの調査結果によってさらに裏付けられ、PC パッケージには 360 エミュレーターとその内部にネストされた OG Xbox エミュレーターの両方が含まれていることが確認されました。 Xe03 が PC 上でネイティブに実行されるようになったことで、改造者はすでに Xbox 360 実行可能ファイルをエミュレータに直接ロードし始めており、有望な結果が得られています。初期のテストでは、Plants vs Zombies、Steins Gate、Fuzion Frenzy、M…",
+      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2016/01/977515-xbox360758_.jpg"
     },
     {
       "Title": "この Docker コンテナを使用して自分の所有物すべてを追跡し始め、ついに家が整理整頓されたように感じました。",
@@ -6663,15 +6798,6 @@
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8.-Cream-stood-up.jpg"
     },
     {
-      "Title": "中国のRAM窃盗犯、一連のeスポーツホテル略奪で投獄―「ホテルの部屋の熱狂的な解体」で2,000ドル相当のスティック16本を盗む",
-      "Link": "https://www.tomshardware.com/pc-components/ram/ram-thieves-in-china-jailed-after-looting-a-string-of-esport-hotels-stole-16-sticks-worth-usd2-000-in-frenzied-hotel-room-dismantling",
-      "Published": "2026-07-25T09:00:00Z",
-      "Source": "Tom's Hardware",
-      "Category": "PC Components",
-      "Summary": "中国のRAM窃盗犯、一連のeスポーツホテル略奪で投獄―「ホテルの部屋の熱狂的な解体」で2,000ドル相当のスティック16本を盗む\n\nRAMpocalypse の価格設定が軽微な窃盗に拍車をかけています。\n\n中国のRAM窃盗犯、一連のeスポーツホテル略奪で投獄―「ホテルの部屋の熱狂的な解体」で2,000ドル相当のスティック16本を盗む\n\nRAMpocalypse の価格設定が軽微な窃盗に拍車をかけています。\n\n(画像クレジット: Tom's Hardware) リンクをコピー\n\n0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する リーという名前の男とチェンという名前のパートナーが、ゲーミング PC が標準装備されている中国のさまざまなホテルから RAM スティックを盗んだ一連の容疑で逮捕されました。これはかなり小規模な活動で、盗んだ RAM スティック 16 個を中古品市場で販売することで合計約 13,200 元 (約 1,950 ドル) を集めました。しかし、情報源は、告発された窃盗犯らを「熱狂的なホテルの部屋の解体」の御用達だと説明している（機械翻訳）。\n\n報告書によると、李氏は5月に新疆北部の石河子市でテクノロジー財宝犯罪を始めた。 e スポーツ ホテルにチェックインした後、器用な Li さんは、我慢できずに室内のコンピューターから RAM スティックを 2 つ抜き取りました。ソロの RAM 泥棒は最初の成功でパートナーを募集するようになり、5 月の後半の 2 週間で、リーとチェンのダイナミックな RAM デュオが、前述の「熱狂的な」やり方で複数のホテルを席巻しました。\n\nこの連続犯罪は、私たちがこれまでに読んだ中では初めての犯罪の一つかもしれないが、それによって泥棒たちが大金持ちになるわけではない。情報筋は、2週間にわたる犯罪行為中に、合計16本のRAMスティックがeスポーツホテルから持ち去られたと指摘している。彼らは、巧妙に盗んだシリコンのスティックを、オンライン市場と実店舗を組み合わせて販売し、合…",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/2AU9dvpLdK7mFGsEvVmoLf-1999-80.jpg"
-    },
-    {
       "Title": "Galaxy Z Flip 8の理論上最高のアップグレードは私が最も心配しているものです",
       "Link": "https://www.androidauthority.com/samsung-galaxy-z-flip-8-snapdragon-concerns-3690470/",
       "Published": "2026-07-25T09:00:00Z",
@@ -6679,6 +6805,15 @@
       "Category": "Samsung Galaxy Z Flip 8",
       "Summary": "Galaxy Z Flip 8の理論上最高のアップグレードは私が最も心配しているものです\n\nサムスンの Galaxy Z Flip 8 は、1 年間の Exynos を経て Snapdragon に戻りましたが、それは本当に正しい選択なのでしょうか?\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nAndroid フォン Galaxy Z Flip 8 の理論上最高のアップグレードは、私が最も心配しているものです\n\n0 • Paul Jones / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください Galaxy Z Flip 7 で、サムスンは自社製 Exynos 2500 チップを搭載した折りたたみ式デバイスを世界中に出荷するという物議を醸す選択をしました。多くの人にとって、Snapdragon から Exynos への移行は、特に Qualcomm の Snapdragon 8 Elite が画期的な瞬間を迎えた年には格下げと見なされていました。 Motorola は同年、Razr Ultra 2025 に Snapdragon 8 Elite チップを搭載し、スペックシートとほとんどのベンチマークで Samsung と Galaxy Z Flip 7 に対するリードを広げました。\n\nサムスンは、新しく発表された Galaxy Z Flip 8 で方針を変更しました。これは、北米向けの Galaxy チップ用の Snapdragon 8 Elite Gen 5 で動作します。ディスプレイ、バッテリー容量、カメラが実質的に変わっていないことを考慮すると、これは紙の上で間違いなく最大のGalaxy Z Flip 8アップグレードです。\n\nGalaxy Z Flip 7 を 1 年間オンオフ使用した後、Galaxy チップの Snapdragon 8 Elite Gen 5 がどのような問題を解決するのか疑問に思っています…",
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galazy-Z-Flip-8-cover-display-in-hand.jpg"
+    },
+    {
+      "Title": "中国のRAM窃盗犯、一連のeスポーツホテル略奪で投獄―「ホテルの部屋の熱狂的な解体」で2,000ドル相当のスティック16本を盗む",
+      "Link": "https://www.tomshardware.com/pc-components/ram/ram-thieves-in-china-jailed-after-looting-a-string-of-esport-hotels-stole-16-sticks-worth-usd2-000-in-frenzied-hotel-room-dismantling",
+      "Published": "2026-07-25T09:00:00Z",
+      "Source": "Tom's Hardware",
+      "Category": "PC Components",
+      "Summary": "中国のRAM窃盗犯、一連のeスポーツホテル略奪で投獄―「ホテルの部屋の熱狂的な解体」で2,000ドル相当のスティック16本を盗む\n\nRAMpocalypse の価格設定が軽微な窃盗に拍車をかけています。\n\n中国のRAM窃盗犯、一連のeスポーツホテル略奪で投獄―「ホテルの部屋の熱狂的な解体」で2,000ドル相当のスティック16本を盗む\n\nRAMpocalypse の価格設定が軽微な窃盗に拍車をかけています。\n\n(画像クレジット: Tom's Hardware) リンクをコピー\n\n0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する リーという名前の男とチェンという名前のパートナーが、ゲーミング PC が標準装備されている中国のさまざまなホテルから RAM スティックを盗んだ一連の容疑で逮捕されました。これはかなり小規模な活動で、盗んだ RAM スティック 16 個を中古品市場で販売することで合計約 13,200 元 (約 1,950 ドル) を集めました。しかし、情報源は、告発された窃盗犯らを「熱狂的なホテルの部屋の解体」の御用達だと説明している（機械翻訳）。\n\n報告書によると、李氏は5月に新疆北部の石河子市でテクノロジー財宝犯罪を始めた。 e スポーツ ホテルにチェックインした後、器用な Li さんは、我慢できずに室内のコンピューターから RAM スティックを 2 つ抜き取りました。ソロの RAM 泥棒は最初の成功でパートナーを募集するようになり、5 月の後半の 2 週間で、リーとチェンのダイナミックな RAM デュオが、前述の「熱狂的な」やり方で複数のホテルを席巻しました。\n\nこの連続犯罪は、私たちがこれまでに読んだ中では初めての犯罪の一つかもしれないが、それによって泥棒たちが大金持ちになるわけではない。情報筋は、2週間にわたる犯罪行為中に、合計16本のRAMスティックがeスポーツホテルから持ち去られたと指摘している。彼らは、巧妙に盗んだシリコンのスティックを、オンライン市場と実店舗を組み合わせて販売し、合…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/2AU9dvpLdK7mFGsEvVmoLf-1999-80.jpg"
     },
     {
       "Title": "ICCU モニターは E-GMP の EV 障害データをログに記録します",
@@ -8095,7 +8230,7 @@
     },
     {
       "Title": "Atari and Universal Pictures partner to create a movie based on Pong, Asteroids, Missile Command, and more",
-      "Link": "https://www.tweaktown.com/news/112815/atari-and-universal-pictures-partner-to-create-a-movie-based-on-pong-asteroids-missile-command-and-more/index.html",
+      "Link": "https://www.tweaktown.com/rss/click/news/112815/?c=news-mf",
       "Published": "2026-07-24T04:36:08Z",
       "Source": "TweakTown",
       "Category": "",
@@ -8104,7 +8239,7 @@
     },
     {
       "Title": "Atari and Universal Pictures partner to create a movie based on Pong, Asteroids, Missile Command, and more",
-      "Link": "https://www.tweaktown.com/rss/click/news/112815/?c=news-mf",
+      "Link": "https://www.tweaktown.com/news/112815/atari-and-universal-pictures-partner-to-create-a-movie-based-on-pong-asteroids-missile-command-and-more/index.html",
       "Published": "2026-07-24T04:36:08Z",
       "Source": "TweakTown",
       "Category": "",
@@ -8247,15 +8382,6 @@
       "ImageURL": "https://hackaday.com/wp-content/uploads/2026/07/wiz.png"
     },
     {
-      "Title": "SSD は寿命が近づくと静かに知らせますが、Windows は警告サインを隠します",
-      "Link": "https://www.xda-developers.com/your-ssd-tells-you-when-its-dying-but-windows-hides-the-warning-signs/",
-      "Published": "2026-07-23T23:00:10Z",
-      "Source": "XDA",
-      "Category": "PC",
-      "Summary": "SSD は寿命が近づくと静かに知らせますが、Windows は警告サインを隠します\n\nSSD ヘルスバーは意図的に誤解を招くものです\n\nSSD は寿命が近づくと静かに知らせますが、Windows は警告サインを隠します\n\n文：Samarveer Singh 公開 2026 年 7 月 23 日、午後 7 時 EDT ゲームは、Samarveer の最大の情熱であり、文学部出身の彼は、ゲームのテーマ、メッセージ、影響を分析することに大きな喜びを感じています。 Samarveer はゲームを深く評価しており、このプラットフォームがすべてのメディアの中で最も没入型で影響力のあるプラットフォームであると考えています。彼はオンラインのゲーム コミュニティに積極的に参加しており、レイ トレーシングの細かい点についていつでも議論したり、感情的に影響を与えたゲームに関する 8 ページの大学論文を書きたくてうずうずしたりしていることがわかります。 XDA アカウントにサインインする\n\nCrystalDiskInfo や Smartctl などのツールを使用して SSD SMART データを読み取ります。health% は最も役に立たないメトリクスです。\n\nホストの総書き込み数、電源投入時間、温度、再割り当てされたブロックをチェックして、実際の摩耗の兆候を明らかにします。\n\nこだわりすぎないでください。最新の NVMe ドライブは通常、通常の使用よりも長持ちします。数か月ごとにチェックし、バックアップを保管してください。\n\nソリッド ステート ドライブがハード ドライブと同じように故障しないことは周知の事実です。それは、摩耗する回転するプラッターや可動ヘッドがないからです。ただし、SSD 内のすべてのフラッシュ セルには、最終的に劣化が始まるまでに有限数のプログラムおよび消去サイクルが伴います。\n\n実際、ドライブは実際に問題が発生するずっと前に、使用可能な寿命がどれだけ消耗したかを記録します。ただし、問題は、SSD 自体に巨大なヘルスバーが刻印されていないことです。そこで Windows …",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/xpg-adata-gammix-s70-blade-2tb-ssd-with-crystal-disk-mark-running.jpg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
       "Title": "Nvidia を捨てて AMD に切り替えた後、この切り替えについて実際に驚いた 4 つの点を以下に示します。",
       "Link": "https://www.xda-developers.com/4-differences-between-nvidia-and-amd-gpus-that-i-wasnt-prepared-for/",
       "Published": "2026-07-23T23:00:10Z",
@@ -8263,6 +8389,15 @@
       "Category": "Nvidia",
       "Summary": "Nvidia を捨てて AMD に切り替えた後、この切り替えについて実際に驚いた 4 つの点を以下に示します。\n\n私はレッドチームに切り替えることに完全に同意していましたが、次の 4 つのことに不意を突かれました。\n\nNvidia を捨てて AMD に切り替えた後、この切り替えについて実際に驚いた 4 つの点を以下に示します。\n\nBy Ty Sherback 更新日 2026 年 7 月 23 日、午後 7:00 EDT 彼の PC とそのコンポーネントに対する愛情は、ファミリー コンピューターのパフォーマンスをすべて絞り出そうとすることから生まれました。 10 歳のときに自分のビルドをいじっていたことが、友人や家族のために PC を作ることに変わり、最終的にキャリア パスとして形になる情熱を育みました。 Ty は、身近な人々への技術サポートの最初の電話であることに加えて、クラウド コンピューティングとネットワーキングに重点を置いているコンピューター サイエンスの学生でもあります。彼はセミプロの Counter-Strike にも 8 年間出場しており、周辺機器に関するあらゆることに精通しています。 XDA アカウントにサインインする 私はディスクリート GPU に関して、AMD と Nvidia の間を頻繁に行き来してきました。しかし、私は過去 2 世代にわたって AMD のエコシステムにしっかりと固定されてきました。私の最後の Nvidia GPU は GeForce RTX 4060 Ti で、その後 AMD の Radeon RX 7900 XT に移行し、最終的に RX 9070 XT になりました。これがたまたま私の 4K ゲームにとって絶対的なスイート スポットでした。私 (そして切り替えた多くの人) が予想していなかったのは、グリーン チームとレッド チームの間にいくつかの顕著な違いがあることでした。\n\n4 AMD の Linux サポートはより統合されていると感じます\n\nお気に入りのディストリビューションをインストールしてゲームを始めましょう\n\nNvi…",
       "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/06/radeon_rx_9070_xt_sapphire_nitro_plus_gpu-1-1.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "SSD は寿命が近づくと静かに知らせますが、Windows は警告サインを隠します",
+      "Link": "https://www.xda-developers.com/your-ssd-tells-you-when-its-dying-but-windows-hides-the-warning-signs/",
+      "Published": "2026-07-23T23:00:10Z",
+      "Source": "XDA",
+      "Category": "PC",
+      "Summary": "SSD は寿命が近づくと静かに知らせますが、Windows は警告サインを隠します\n\nSSD ヘルスバーは意図的に誤解を招くものです\n\nSSD は寿命が近づくと静かに知らせますが、Windows は警告サインを隠します\n\n文：Samarveer Singh 公開 2026 年 7 月 23 日、午後 7 時 EDT ゲームは、Samarveer の最大の情熱であり、文学部出身の彼は、ゲームのテーマ、メッセージ、影響を分析することに大きな喜びを感じています。 Samarveer はゲームを深く評価しており、このプラットフォームがすべてのメディアの中で最も没入型で影響力のあるプラットフォームであると考えています。彼はオンラインのゲーム コミュニティに積極的に参加しており、レイ トレーシングの細かい点についていつでも議論したり、感情的に影響を与えたゲームに関する 8 ページの大学論文を書きたくてうずうずしたりしていることがわかります。 XDA アカウントにサインインする\n\nCrystalDiskInfo や Smartctl などのツールを使用して SSD SMART データを読み取ります。health% は最も役に立たないメトリクスです。\n\nホストの総書き込み数、電源投入時間、温度、再割り当てされたブロックをチェックして、実際の摩耗の兆候を明らかにします。\n\nこだわりすぎないでください。最新の NVMe ドライブは通常、通常の使用よりも長持ちします。数か月ごとにチェックし、バックアップを保管してください。\n\nソリッド ステート ドライブがハード ドライブと同じように故障しないことは周知の事実です。それは、摩耗する回転するプラッターや可動ヘッドがないからです。ただし、SSD 内のすべてのフラッシュ セルには、最終的に劣化が始まるまでに有限数のプログラムおよび消去サイクルが伴います。\n\n実際、ドライブは実際に問題が発生するずっと前に、使用可能な寿命がどれだけ消耗したかを記録します。ただし、問題は、SSD 自体に巨大なヘルスバーが刻印されていないことです。そこで Windows …",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/xpg-adata-gammix-s70-blade-2tb-ssd-with-crystal-disk-mark-running.jpg?w=1600\u0026h=900\u0026fit=crop"
     },
     {
       "Title": "Dygma、旅行に便利な Sonsei Monobody 人間工学に基づいたメカニカル キーボードを発売",
@@ -8688,15 +8823,6 @@
       "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/pc-bios.jpg?w=1600\u0026h=900\u0026fit=crop"
     },
     {
-      "Title": "超音波を利用したマイクジャマー",
-      "Link": "https://hackaday.com/2026/07/23/mic-jammer-relies-on-ultrasound/",
-      "Published": "2026-07-23T18:30:00Z",
-      "Source": "Hackaday",
-      "Category": "ultrasound jamming",
-      "Summary": "超音波を利用したマイクジャマー\n\n今日の携帯電話のマイクは、あらゆる種類の状況で音を拾うのに完全に熟達しており、ノイズを除去して音声をキャプチャするためのあらゆる種類の処理技術に支えられています。\n\n今日の携帯電話のマイクは、あらゆる種類の状況で音声を拾うことに完全に熟達しており、ノイズを除去してクリーンな音声をキャプチャするためのあらゆる種類の処理技術に支えられています。 [mcore1976] は、盗聴している可能性のある電話のマイクを妨害するデバイスの開発に取り組んできましたが、今度は高度な処理技術に対抗します。\n\nこのビルドでは、マイクロコントローラーの頭脳を使用して、一連の超音波トランスデューサーを制御します。 [mcore1976] はプロジェクトの多くの改訂版を作成し、そのたびに最新のハードウェアでマイクを妨害する能力を改善しました。最新のリビジョンでは、RP2040 マイクロコントローラーと MOSFET 駆動ステージを使用して、20 ～ 80 個の超音波トランスデューサーを制御します。これらは、RP2040 自体から生成される PWM 信号で駆動されます。信号出力は、最近の多くの電話機で使用されている自動利得制御システムを混乱させ、ジャマーが動作しているときにクリアな音声を録音することを困難にするために特別に変調されています。 [mcore1976] が iPhone 17 で実証しているように、妨害装置がオンになっている間、彼の声は理解できない文字化けノイズの中で完全に失われます。\n\nこれはニッチなアイデアであり、人間の耳にはほとんど聞こえないものの、電話のマイクに影響を与えるという点でおそらく最も興味深いものです。最近、他の興味深い妨害装置も紹介しました。休憩後の動画。",
-      "ImageURL": "https://hackaday.com/wp-content/uploads/2026/07/DIY-Ultrasonic-Microphone-Jammer-final-hardware-update-RP2040-MOSFET-Kicad-8-58-screenshot.png"
-    },
-    {
       "Title": "AMD の新しい X100 チップ ラインナップは Strix Halo をロボットに搭載 – 物理 AI 用の APU は Zen 5 CPU、RDNA 3.5 GPU コアを搭載し、Intel の Panther Lake と競合します",
       "Link": "https://www.tomshardware.com/pc-components/cpus/amds-new-x100-chip-lineup-puts-strix-halo-into-robots-apus-for-physical-ai-bring-zen-5-cpu-rdna-3-5-gpu-cores-to-compete-with-intels-panther-lake",
       "Published": "2026-07-23T18:30:00Z",
@@ -8704,6 +8830,15 @@
       "Category": "PC Components",
       "Summary": "AMD の新しい X100 チップ ラインナップは Strix Halo をロボットに搭載 – 物理 AI 用の APU は Zen 5 CPU、RDNA 3.5 GPU コアを搭載し、Intel の Panther Lake と競合します\n\nAMDはロボット戦争でIntel（そしてNvidia）と対戦する。\n\nAMD の新しい X100 チップ ラインナップは Strix Halo をロボットに搭載 – 物理 AI 用の APU は Zen 5 CPU、RDNA 3.5 GPU コアを搭載し、Intel の Panther Lake と競合します\n\nAMDはロボット戦争でIntel（そしてNvidia）と対戦する。\n\n(画像クレジット: Tom's Hardware) リンクをコピー\n\n0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する AMD は、Strix Halo APU を物理 AI の世界に導入します。新しい X100 シリーズのプロセッサーは、クライアント デバイスで流通しているさまざまな Ryzen AI Max モデルと同様の仕様を備えていますが、ロボット工学などの組み込みアプリケーションでの 10 年のライフサイクルを備え、24 時間年中無休の動作に合わせて調整されています。\n\n3 つのオリジナル Strix Halo モデルと一致する 3 つの SKU があります (40 CU の更新バージョンではありません)。最上位の X199 には、16 個の Zen 5 コアと 40 個の RDNA 3.5 CU が搭載されています。 X188 は 12 コアと 32 CU にステップダウンしますが、X168 には 8 コアと同じ 32 CU が付属します。 AMDは各モデルの詳細な仕様を明らかにしていないが、同社によれば、その範囲は最大5.1 GHzのブーストクロックと128 GBのユニファイドメモリに達するという。また、最大 50 TOPS の XDNA 2 NPU、45W ～ 120W の…",
       "ImageURL": "https://cdn.mos.cms.futurecdn.net/pXkThAfC4PkTjFgvWAPXYF-2560-80.jpg"
+    },
+    {
+      "Title": "超音波を利用したマイクジャマー",
+      "Link": "https://hackaday.com/2026/07/23/mic-jammer-relies-on-ultrasound/",
+      "Published": "2026-07-23T18:30:00Z",
+      "Source": "Hackaday",
+      "Category": "ultrasound jamming",
+      "Summary": "超音波を利用したマイクジャマー\n\n今日の携帯電話のマイクは、あらゆる種類の状況で音を拾うのに完全に熟達しており、ノイズを除去して音声をキャプチャするためのあらゆる種類の処理技術に支えられています。\n\n今日の携帯電話のマイクは、あらゆる種類の状況で音声を拾うことに完全に熟達しており、ノイズを除去してクリーンな音声をキャプチャするためのあらゆる種類の処理技術に支えられています。 [mcore1976] は、盗聴している可能性のある電話のマイクを妨害するデバイスの開発に取り組んできましたが、今度は高度な処理技術に対抗します。\n\nこのビルドでは、マイクロコントローラーの頭脳を使用して、一連の超音波トランスデューサーを制御します。 [mcore1976] はプロジェクトの多くの改訂版を作成し、そのたびに最新のハードウェアでマイクを妨害する能力を改善しました。最新のリビジョンでは、RP2040 マイクロコントローラーと MOSFET 駆動ステージを使用して、20 ～ 80 個の超音波トランスデューサーを制御します。これらは、RP2040 自体から生成される PWM 信号で駆動されます。信号出力は、最近の多くの電話機で使用されている自動利得制御システムを混乱させ、ジャマーが動作しているときにクリアな音声を録音することを困難にするために特別に変調されています。 [mcore1976] が iPhone 17 で実証しているように、妨害装置がオンになっている間、彼の声は理解できない文字化けノイズの中で完全に失われます。\n\nこれはニッチなアイデアであり、人間の耳にはほとんど聞こえないものの、電話のマイクに影響を与えるという点でおそらく最も興味深いものです。最近、他の興味深い妨害装置も紹介しました。休憩後の動画。",
+      "ImageURL": "https://hackaday.com/wp-content/uploads/2026/07/DIY-Ultrasonic-Microphone-Jammer-final-hardware-update-RP2040-MOSFET-Kicad-8-58-screenshot.png"
     },
     {
       "Title": "Galaxy S27のメインカメラはサムスンの状況を一変させるかもしれない",
@@ -8866,141 +9001,6 @@
       "Category": "Google Chrome",
       "Summary": "Google が Chrome の最もイライラする Android パフォーマンスの問題をどのように解決したかは次のとおりです\n\nGoogle は、新しいタッチ入力の最適化と GPU ルーティングを使用して、よりスムーズなブラウジングを実現し、Android 版 Chrome のスクロール ラグを 48% 削減しました。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nGoogle が Chrome の最もイライラする Android パフォーマンスの問題をどのように解決したかは次のとおりです\n\n0 • Edgar Cervantes / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google は、フレーム配信の一貫性を改善することにより、Android 版 Chrome でのジャンキーなスクロールを 2023 年から 2026 年の間にほぼ半分に削減しました。\n\n「Input Vizard」などの機能は、Chrome の忙しいメイン ブラウザ スレッドをバイパスし、タッチ入力を GPU コンポジタ スレッドに直接送信します。\n\n「入力予測」や「Direct2Thread」などの新機能により、OS によるタッチ データの配信が遅れてもスムーズなレンダリングが保証されます。\n\nGoogle は、ナビゲーション バーで Gemini を実験したり、構造的なパフォーマンスを大幅に改善したりするなど、Android 版 Chrome を常に調整しています。今日では、パフォーマンスに重点が置かれています。 Google は、Android 上の Chrome でイライラするジャンクスクロールの頻度を 2023 年から 2026 年の間に 48% 大幅に削減することに成功したと発表しました。Chrome の最新のアーキテクチャのアップグレードにより、単なる速度ではなくフレーム配信の一貫性に重点を置くことで、Web…",
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/05/Chrome-logo-on-phone-stock-photo-2.jpg"
-    },
-    {
-      "Title": "Geekbench 7 は、これまでで最大のオーバーホールを導入 - 現実世界の CPU テスト、新しいメディア ワークロード、AI ベンチマーク、CUDA サポート",
-      "Link": "https://www.tomshardware.com/software/geekbench-7-introduces-biggest-overhaul-yet-real-world-cpu-testing-new-media-workloads-ai-benchmarks-and-cuda-support",
-      "Published": "2026-07-23T17:00:00Z",
-      "Source": "Tom's Hardware",
-      "Category": "Software",
-      "Summary": "Geekbench 7 は、これまでで最大のオーバーホールを導入 - 現実世界の CPU テスト、新しいメディア ワークロード、AI ベンチマーク、CUDA サポート\n\nマルチコアテストではリアリティチェックが行われます。\n\nGeekbench 7 は、これまでで最大のオーバーホールを導入 - 現実世界の CPU テスト、新しいメディア ワークロード、AI ベンチマーク、CUDA サポート\n\nマルチコアテストではリアリティチェックが行われます。\n\n(画像クレジット: Primate Labs) リンクをコピー\n\n1 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する Primate Labs は、人気のクロスプラットフォーム ベンチマークの最新バージョンである Geekbench 7 をリリースしました。このアップデートでは、Android、iOS、Windows、macOS、Linux などの主要なプラットフォームにわたる最新の CPU と GPU のパフォーマンスをより適切に表現および測定するように設計された、新しく改良されたワークロードが導入されています。以前のバージョンと同様、Geekbench 7 は個人使用の場合は無料で利用できます。愛好家や IT プロフェッショナルは、8 月 6 日まで 20% 割引で入手できる Geekbench 7 Pro を選択することもできます。\n\nRyzen がトップへ: AMD がゲーム CPU 市場でどのように革新したか\n\nARM はどのように PC に導入されているのか\n\nAMD CES 2026 ゲーム トレンドのプレス Q\u0026A ラウンドテーブルの記録\n\nGeekbench 7 で導入された最大の変更点の 1 つは、マルチコア ベンチマークの動作方法です。すべてのワークロードに利用可能なすべての CPU コアの使用を強制するのではなく、実際のアプリケーションの動作を反映するようになりました。たとえば、Web ブラウザは一般にシングル スレッドまたは軽量スレッドで…",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/XXjY5VGzwAncU5X6SKtFJP-1920-80.png"
-    },
-    {
-      "Title": "Google、Play ストアと検索の違反で 10 億ドルの罰金に直面している (更新)",
-      "Link": "https://www.androidauthority.com/google-search-play-store-eu-1-billion-fine-3690673/",
-      "Published": "2026-07-23T16:58:09Z",
-      "Source": "Android Authority",
-      "Category": "Google Search",
-      "Summary": "Google、Play ストアと検索の違反で 10 億ドルの罰金に直面している (更新)\n\n欧州委員会は、検索とPlayストアにおけるDMA違反の疑いで、Googleに10億ドルという高額の罰金を課した。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nGoogle、Play ストアと検索の違反で 10 億ドルの罰金に直面している (更新)\n\n0 • Ryan Haines / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR 欧州委員会は、Google Play ストアと検索に関連した違反で Google に合計 10 億ドルの罰金を課しました。\n\nGoogle は 60 日以内に遵守する必要があり、遵守しなければ世界収益の最大 5% を定期的に違約金として支払う危険があります。\n\n同委員会は、Googleがこの判決に対して控訴することができると述べ、同時にこれらの違反の一部を軽減するために同社が講じた措置を認めた。\n\n2026 年 7 月 23 日更新 (東部標準時間午後 4 時 46 分): Google は私たちの問い合わせに対して、これらの DMA 罰金に対する対応についてもう少し詳しく回答しました。検索に関して同社は、中間手数料なしで旅行予約に直接アクセスできるなど、リッチリザルトがユーザーに提供する価値を強調している。このような結果を提供しないことで EC ルールに準拠するために取られた努力は、予約率の大幅な低下に関連しており、影響を受けた国々ではそれに伴う観光収入の損失につながっています。\n\nPlay ストアに関しては、Google は EC 要件がアプリのレビュー プロセスの抜け穴となり、ユーザーがリスク増大にさらされる可能性があると懸念を表明しています。同社は、開発者はエンドユーザーと同じくらいPlayストアのセキュリティに依存しており、関係者全員にとって環境の安全性を低下させると思われる…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2024/08/Google-Campus-logo.jpg"
-    },
-    {
-      "Title": "Wallhack がレトロなデザインの K-001 HE ゲーミング キーボードを発表",
-      "Link": "https://www.techpowerup.com/351019/wallhack-debuts-k-001-he-gaming-keyboard-with-retro-design",
-      "Published": "2026-07-23T16:38:28Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "Wallhack がレトロなデザインの K-001 HE ゲーミング キーボードを発表\n\nニッチなゲーミング アクセサリ ブランドである Wallhack は、最近初のゲーミング マウス M-001 を披露しました。これは、ワイヤレス接続、交換可能なバッテリー、そして少しレトロなひねりが特徴です。しかしつい最近、X への投稿で、このブランドは、これまでのゲーミング キーボードの初公開も行いました。\n\nWallhack がレトロなデザインの K-001 HE ゲーミング キーボードを発表\n\n2026 年 7 月 17 日 Behemoth V2 はマキシマリストの 135% メカニカル ゲーミング キーボード (27)\n\n2026 年 5 月 30 日 Steam Machine ウェルカム ツアーは、発売が差し迫っている可能性を示唆しています (25)\n\n2026 年 3 月 13 日 Keychron が 59.99 ドルの C0 HE 8K 片手ゲーミング キーボードを発売 (24)\n\n2026 年 7 月 3 日 Epomaker が NEX Pro ゲーミング マウスと HE65 V2 TMR キーボードを発売 (0)\n\n2026 年 6 月 15 日 Keychron がフルサイズのメカニカル - マグネティック TMR ハイブリッド ゲーミング キーボードを公開 (2)\n\n2026 年 7 月 10 日 Keychron、木製アクセントを備えた K5 Ultra 8K ロープロファイル メカニカル キーボードを発売 (15)\n\n2026 年 7 月 15 日 Assassin's Creed Hexe リーク: 価格、発売日、DLC の詳細が明らかに (5)\n\n2026 年 4 月 16 日 Steam の Proton が Wine 11 でゲーム パフォーマンスを向上、Valve が Arm64 互換レイヤーを開始 (7)\n\n2026 年 5 月 15 日 Awekeys がメカニカル キーボード用のシャインスルー メタル キーキャップを披露 (6)\n\n…",
-      "ImageURL": "https://www.techpowerup.com/img/2ekBjnPUgnpKH0YT.jpg"
-    },
-    {
-      "Title": "サムスンの最新折りたたみ式デバイスは、発売直後からベンチマーク論争を巻き起こしている",
-      "Link": "https://www.androidauthority.com/samsung-foldables-benchmark-3690733/",
-      "Published": "2026-07-23T16:37:58Z",
-      "Source": "Android Authority",
-      "Category": "Samsung Galaxy Z Fold 8",
-      "Summary": "サムスンの最新折りたたみ式デバイスは、発売直後からベンチマーク論争を巻き起こしている\n\nSamsung は新しい Galaxy Z8 シリーズでベンチマーク アプリへのアクセスをブロックしているようですが、すでに修正されています。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nサムスンの最新折りたたみ式デバイスは、発売直後からベンチマーク論争を巻き起こしている\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Samsung は、最新の折りたたみ式デバイス、Galaxy Z Fold 8、Z Fold 8 Ultra、および Z Flip 8 を発売しました。\n\n現在テスターが所有しているユニットは、人気のあるベンチマーク アプリのインストールを拒否しています。\n\nSamsung は、この動作を認識しており、解決に取り組んでいることを Android Authority に確認しました。\n\nベンチマークの数値はちょっと諸刃の剣です。一方で、携帯電話の機能をいくつかの簡単に比較できる数値の形で要約できることは非常に便利です。しかし、その裏返しとして、誤解を招くテスト、過度の単純化、そしてベンチマーク操作の残る幽霊の泥沼があります。それにもかかわらず、サムスンの最新の折りたたみ式携帯電話のように、魅力的な新しい携帯電話に出会うたびに、私たちは少なくともベンチマークのパフォーマンスがどのようなものになるのかに興味を持ちます。しかし、Galaxy Z8シリーズでは、サムスンはベンチマークアプリをブロックする意図的な措置を講じているようだ。\n\n私たちがアクセスできる Galaxy Z Fold 8 、 Z Fold 8 Ultra 、および Z Flip 8 ユニットはすべて、人気のあるベンチマーク アプリへのアクセスを拒否します。 Samsung は、これらのアプリが Play ストアを通じてインストールされるのを阻止するだけでなく、それら…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/z-fold-8-hands-on-4.jpg"
-    },
-    {
-      "Title": "Windows ハンドヘルドは Steam デッキに勝つハードウェアを備えていますが、ソフトウェア戦争では SteamOS がすでに勝利しています",
-      "Link": "https://www.xda-developers.com/the-rog-ally-and-legion-go-need-more-than-faster-chips-to-beat-steamos/",
-      "Published": "2026-07-23T16:30:10Z",
-      "Source": "XDA",
-      "Category": "Lenovo Legion Go",
-      "Summary": "Windows ハンドヘルドは Steam デッキに勝つハードウェアを備えていますが、ソフトウェア戦争では SteamOS がすでに勝利しています\n\nより高速なチップは、ソフトウェアの最適化ほどゲーム ハンドヘルド エクスペリエンスの基礎ではありません。\n\nWindows ハンドヘルドは Steam デッキに勝つハードウェアを備えていますが、ソフトウェア戦争では SteamOS がすでに勝利しています\n\nBy Jasmine Mannan 公開 2026 年 7 月 23 日、午後 12:30 EDT Jasmine は XDA のソフトウェアおよび PC ハードウェアの著者で、AI チャットボットからゲーム ハードウェアに至るまで、長年にわたる技術レポートの経験があり、ほぼすべてをカバーしています。最新の AMD NPU に関する速報ニュースであれ、ソーシャル メディア プラットフォームでのビデオ チュートリアルの作成であれ、Jasmine は、Razer の CEO、AMD の製品マーケティング ディレクター、Lenovo の副社長へのインタビューなど、さまざまな方法で AI とテクノロジーの世界に貢献してきました。ゲームと PC テクノロジーに情熱を持っている彼女は、数え切れないほどのコンピューター、キーボード、その他の周辺機器を構築し、それらを隅々まで知り尽くしています。 XDA アカウントにサインインする ハンドヘルド PC 市場はスペック追求の段階に入っています。ハードウェアに関しては、メーカーはこれらのデバイスの能力を最大化しようとしています。ただし、ハードウェアは、それを実行するために構築されたオペレーティング システムをすでに上回っています。 ROG Ally X と Legion Go 2 はどちらも優れたコンピューティング パイプラインを備えていますが、Windows ベースの環境は全体的なユーザー エクスペリエンスを低下させます。\n\nSteam Deck のシームレスなピックアップとプレイ体験に真の意味で匹敵するには、代替ハンドヘルドは、生の C…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/whatsapp-image-2026-06-02-at-12-32-57-2-1.jpeg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
-      "Title": "ハスブロはビデオゲーム計画を縮小するが、ウォーロックとエクソダスは計画通りに進む",
-      "Link": "https://www.kitguru.net/gaming/matthew-wilson/hasbro-scales-back-videogame-plans-but-warlock-and-exodus-remain-on-track/",
-      "Published": "2026-07-23T16:29:12Z",
-      "Source": "KitGuru",
-      "Category": "Wizards of the Coast",
-      "Summary": "ハスブロはビデオゲーム計画を縮小するが、ウォーロックとエクソダスは計画通りに進む\n\n数か月前、Giant Skull の新しい D\u0026D プロジェクトがキャンセルされたことを知りました。現在、ウィザーズ・オブ・ザ・コーストの親会社ハスブロ社は、ゲーム開発費に関連した5,600万ドルの損失を理由に、さらに多くのビデオゲームプロジェクトをキャンセルしている。ハスブロ社の最新の財務報告書によると、同社は「ポートフォリオを見直し」、\n\nハスブロはビデオゲーム計画を縮小するが、ウォーロックとエクソダスは計画通りに進む\n\nMatthew Wilson 17 分前 注目の技術ニュース , ソフトウェア \u0026 ゲーム\n\n数か月前、Giant Skull の新しい D\u0026D プロジェクトがキャンセルされたことを知りました。現在、ウィザーズ・オブ・ザ・コーストの親会社ハスブロ社は、ゲーム開発費に関連した5,600万ドルの損失を理由に、さらに多くのビデオゲームプロジェクトをキャンセルしている。ハスブロ社の最新の財務報告書によると、同社は「ポートフォリオを見直し」、開発中であったがリリースまでにはまだ遠いいくつかの未発表ゲームをキャンセルしたとのこと。このリストラの一環として、ハスブロは開発コストに関連した「5,600万ドルの非現金評価損」を計上した。提出書類には、同社が今後焦点を絞り込むつもりであることも記載されている。ハスブロ社は、同社のビデオゲーム戦略は今後「トレーディングカードゲームとロールプレイングゲーム」に重点を置くと述べており、この2つの分野はマジック：ザ・ギャザリングやダンジョンズ＆ドラゴンズのような長年のフランチャイズのおかげで同社がすでに大きな強みを持っている。 GI.biz は、当初 2028 年以降に計画されていた複数のプロジェクトが、この移行の一環として延期されたと報告しています。キャンセルにもかかわらず、ハスブロの今後の最大のタイトル 2 つは依然として影響を受けません。元マスエフェクト開発者による新しい SF RPG である Exodus は、ダンジョンズ \u0026 ドラゴン…",
-      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/07/exodus-732x330.jpg"
-    },
-    {
-      "Title": "Amazon Prime Videoは見直しに取り組んでいるが、おそらくあなたが望むようなものではない",
-      "Link": "https://www.androidauthority.com/amazon-prime-video-ai-3690746/",
-      "Published": "2026-07-23T16:19:21Z",
-      "Source": "Android Authority",
-      "Category": "Amazon Prime Video",
-      "Summary": "Amazon Prime Videoは見直しに取り組んでいるが、おそらくあなたが望むようなものではない\n\nAmazonはPrime VideoのAIの刷新をテストしている可能性があり、執行会長のジェフ・ベゾス氏が個人的に関与していると伝えられている。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nストリーミングサービスのAmazon Prime Videoは見直しに取り組んでいるが、おそらくあなたが望むようなものではない\n\n0 • Edgar Cervantes / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Amazon Prime Video は、社内で Lighthouse と呼ばれる AI を中心としたオーバーホールをテストしています。\n\nこの取り組みには、AI 由来のコンテンツの推奨とアプリの UI の更新が含まれます。\n\nジェフ・ベゾス氏は個人的にライトハウスに関与していると伝えられている。\n\n今年初めに広告なしサービスの価格を引き上げた（そして新たに 4K 再生を制限した）後、Amazon Prime Video は現在、より多くの AI の導入を検討しています。新しいレポートによると、ジェフ・ベゾス氏自身が、AI主導のコンテンツレコメンデーションをより顕著に特徴とするPrime Videoの再設計を推進しているという。\n\nロイター通信によると、ベゾス氏はアマゾンのAI能力を強調するためにプライム・ビデオを利用したいと考えているという。 Lighthouse と呼ばれる取り組みは、AI を使用して加入者の好みを分析し、理論的には視聴する可能性が高いコンテンツを提供することで、よりパーソナライズされたテレビや映画のおすすめを提供することを目的としています。\n\nこれは、舞台裏だけでなく、ユーザーが直面する Amazon Prime Video アプリのインターフェースにも変化をもたらす可能性…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2021/08/Amazon-Prime-Video-stock-image-1.jpg"
-    },
-    {
-      "Title": "Amazon Fire HD 10 キッズ プロが今年の最高価格に下落",
-      "Link": "https://www.androidauthority.com/amazon-fire-hd-10-kids-pro-deal-3690766/",
-      "Published": "2026-07-23T16:16:50Z",
-      "Source": "Android Authority",
-      "Category": "Amazon Fire tablet",
-      "Summary": "Amazon Fire HD 10 キッズ プロが今年の最高価格に下落\n\nまれなセールにより、Fire HD 10 Kids Pro はわずか 134.99 ドルに値下げされます。子供たちはより自由になり、親はスクリーンタイムとウェブコントロールを手に入れることができます。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nAmazon Fire HD 10 キッズ プロが今年の最高価格に下落\n\n0 • Amazon Google Discover でフォローしてください 優先ソースとして追加 Amazon Fire HD 10 キッズ プロは、タブレットをもう少し自由に使う準備ができている 6 歳から 12 歳の子供向けに作られており、現在 Amazon で堅実なセールが行われています。この最新の 10.1 インチ Kids Pro モデルは、保護者によるコントロールを維持しながら、年長のお子様に読書、ゲーム、ビデオ用の大きな画面を提供します。\n\nここでの大きな魅力の 1 つは、Amazon が子供向けの機能と親向けのツールのバランスをどのようにとっているかです。このタブレットには 1 年間の Amazon Kids Plus が付属しており、年齢に応じた書籍、ビデオ、アプリ、ゲームの大きなライブラリが開かれます。また、子供向けのデジタル ストアもあり、子供がアプリや電子書籍をリクエストし、保護者がダウンロードを承認できます。コンテンツ コントロールが組み込まれた Web ブラウザーに加え、使用時間の制限、アクティビティの確認、Web アクセスに関する保護者向けの設定もあります。\n\nAmazon には保護ケースと 2 年間の安心保証も含まれており、お子様が毎日使用するデバイスに安心感を与えます。 Fire HD 10 キッズ プロのレビュー評価が 5 点満点中 4.5 点であるのは当然のことであり、Amazon は依然として、家族のガードレールを失うことなく、より自立したい年長の子供向けの Fi…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2024/12/amazon-fire-hd-10-kids-pro-1.jpg"
-    },
-    {
-      "Title": "サムスンのトップが、Galaxy Z Fold 8シリーズが韓国でかなり安い理由を説明",
-      "Link": "https://www.androidauthority.com/galaxy-z-fold-8-korean-price-explanation-3690710/",
-      "Published": "2026-07-23T16:15:09Z",
-      "Source": "Android Authority",
-      "Category": "Samsung Galaxy Z Fold 8",
-      "Summary": "サムスンのトップが、Galaxy Z Fold 8シリーズが韓国でかなり安い理由を説明\n\nSamsung Electronics CEO TM Roh は、Galaxy Z Fold 8 と Ultra の価格が韓国で大幅に手頃な理由について説明しました。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nサムスンのトップが、Galaxy Z Fold 8シリーズが韓国でかなり安い理由を説明\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR 米国とヨーロッパでの Galaxy Z Fold 8 Ultra と Fold 8 の発売価格は、韓国での発売価格よりもはるかに高くなっています。\n\n発表イベントの傍らで、最高経営責任者（CEO）のTM Roh氏が、同社の本国での価格設定がなぜこれほど安いのかについて説明したと伝えられている。\n\n同幹部は韓国市場を「ギャラクシーブランドの世界競争力強化の基盤」と表現した。\n\n昨日、Samsungは待望の夏のGalaxy Unpackedイベントを開催し、Galaxy Z Fold 8シリーズとGalaxy Z Flip 8を発表しました。業界の現状を考えると価格の値上げは予想されていましたが、今年は Fold 8 Ultra に 100 ドル追加で支払うことになると知ったのは、やはり痛ましいことではありませんでした。一部の人を驚かせたのは、韓国での発売価格が米国や欧州よりもはるかに手頃なことだ。これらの市場間になぜこれほどの価格差があるのか​​疑問に思っているなら、CEO TM Roh が説明を提供しています。\n\n伝えられるところによると、祝賀行事中に盧大統領は、フォールドの価格戦略について脇道にそれて話し合ったという。コリアンタイムズ紙によると、盧大統領はサムスンの国内市場がギャラクシーの世界競争力強化の基盤であると述べた。同幹部は、韓国での低価格が同社の方向性と目標であり続けると付け加えた。\n\n…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra-vs-Z-Fold-8-side-by-side-1.jpg"
-    },
-    {
-      "Title": "Gears of War E-Day マルチプレイヤー モードが来週公開予定",
-      "Link": "https://www.kitguru.net/gaming/matthew-wilson/gears-of-war-e-day-multiplayer-modes-to-be-revealed-next-week/",
-      "Published": "2026-07-23T16:05:51Z",
-      "Source": "KitGuru",
-      "Category": "news",
-      "Summary": "Gears of War E-Day マルチプレイヤー モードが来週公開予定\n\nGears of War E-Day の新しい外観が間もなく登場します。 Coalition は、来週の特別ライブストリームでゲームのマルチプレイヤー モードを公開し、ファンに初めての PvP の適切な詳細と拡張された協力プレイの大群体験を提供すると発表しました。この発表では、両方のモードが詳細に紹介されることが確認されています。歯車\n\nGears of War E-Day マルチプレイヤー モードが来週公開予定\n\nMatthew Wilson 40 分前 注目のテクノロジー ニュース , ソフトウェア \u0026 ゲーム\n\nGears of War E-Day の新しい外観が間もなく登場します。 Coalition は、来週の特別ライブストリームでゲームのマルチプレイヤー モードを公開し、ファンに初めての PvP の適切な詳細と拡張された協力プレイの大群体験を提供すると発表しました。この発表では、両方のモードが詳細に紹介されることが確認されています。 Gears of War E-Day は従来の PvP アリーナをフィーチャーし、シリーズの競争力のある側面をより小規模でタイトなマップに重点を置くように設定されています。協力プレイの面では、新しい Horde モードでは Gears 5 と比較してより大規模な環境と拡張されたメカニズムが導入され、このシリーズがこれまでに提供した最大の Horde エクスペリエンスを提供することを目指しています。 PC では、E-Day が Nvidia DLSS 4.5 のサポートとともに開始され、改善されたアップスケーリングとフレーム生成サポートが提供されます。以前に確認したように、このゲームは Unreal Engine を使用して構築されており、RT グローバル イルミネーションとアンビエント オクルージョン用の Lumen に加えて、よりリアルなレイトレーシング シャドウを実現する MegaLights などの新しいレンダリング テクノロジーが組み込まれて…",
-      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2025/12/Gears-E-Day-732x330.png"
-    },
-    {
-      "Title": "iPhone Air が 160 ドル割引になったばかりですが、タイミングは思っている以上に重要です",
-      "Link": "https://www.xda-developers.com/iphone-air-840-deal/",
-      "Published": "2026-07-23T16:02:10Z",
-      "Source": "XDA",
-      "Category": "Over $300",
-      "Summary": "iPhone Air が 160 ドル割引になったばかりですが、タイミングは思っている以上に重要です\n\n値上げの可能性を前に堅実な価格\n\niPhone Air が 160 ドル割引になったばかりですが、タイミングは思っている以上に重要です\n\nBy Timi Cantisano 公開 2026 年 7 月 23 日、午後 12 時 02 分 EDT Timi は 10 年以上にわたり、スマートフォン、コンピューター、およびテクノロジー分野で興味があるものすべてに焦点を当ててテクノロジーについて執筆してきました。彼は XDA に執筆を開始し、モバイルに関するあらゆることをカバーしていましたが、インターネット上で最高のハイテク製品の最高の割引を明らかにすることを使命として、取引をカバーすることに移行しました。 XDA アカウントにサインインする iPhone Air は、新しい携帯電話を探している人にとって確実な選択肢です。 iPhone 17 や iPhone 17 Pro にあるような追加のカメラはありませんが、見た目と感触を重視した優れたエクスペリエンスを提供します。\n\n誤解しないでください。内部ハードウェアは依然として非常に優れており、問題なくスムーズなソフトウェア エクスペリエンスを提供する Apple の最新チップを搭載しています。また、Apple の次世代携帯電話の価格が高騰する可能性があることを考慮すると、160 ドルの割引は状況を限界を超えています。\n\n価格が高騰する前に今すぐ手に入れましょう\n\nハイテクハードウェアの価格は上昇傾向にあり、RAMやストレージの不足により多くのブランドが値上げを余儀なくされている。ここでは Apple も例外ではなく、最近多くの製品の価格を値上げしました。 iPhone の価格はまだ元の価格のままですが、次のリリースで価格が上がるのではないかと多くの人が推測しています。\n\nそのため、新モデルの発売まであとわずか数か月ですが、今が購入のチャンスです。 iPhone Air は、それを理解するには実際に見て触ってみる必要がある携帯…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/10/iphone-air-rear-flat-2.jpg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
-      "Title": "それでもネイティブ解像度の方が優れていると考えている場合は、GPU のパフォーマンスを無駄にしていることになります。",
-      "Link": "https://www.xda-developers.com/native-resolution-is-overrated-your-gpu-has-been-working-hard-for-nothing/",
-      "Published": "2026-07-23T16:00:10Z",
-      "Source": "XDA",
-      "Category": "Graphics",
-      "Summary": "それでもネイティブ解像度の方が優れていると考えている場合は、GPU のパフォーマンスを無駄にしていることになります。\n\nとにかくネイティブ解像度は過大評価されています\n\nそれでもネイティブ解像度の方が優れていると考えている場合は、GPU のパフォーマンスを無駄にしていることになります。\n\n文：Samarveer Singh 公開 2026 年 7 月 23 日、午後 12:00 EDT ゲームは、Samarveer の最大の情熱であり、文学部出身の彼は、ゲームのテーマ、メッセージ、影響を分析することに大きな喜びを感じています。 Samarveer はゲームを深く評価しており、このプラットフォームがすべてのメディアの中で最も没入型で影響力のあるプラットフォームであると考えています。彼はオンラインのゲーム コミュニティに積極的に参加しており、レイ トレーシングの細かい点についていつでも議論したり、感情的に影響を与えたゲームに関する 8 ページの大学論文を書きたくてうずうずしたりしていることがわかります。 XDA アカウントにサインインする\n\n最新のアップスケーラーは、ネイティブのビジュアルに匹敵するか、それを上回るパフォーマンスを提供しながら、はるかに優れたパフォーマンスを提供できるようになりました。\n\nアップスケーリングにより GPU の電力が削減され、温度が低下し、スタッターが減少し、低域が 1% 改善され、よりスムーズなプレイが可能になります。\n\n「ネイティブが最良」という古い信念は時代遅れです。アップスケーリングが新しい実用的なビジュアル標準です。\n\n2019 年にリアルタイム グラフィックス アップスケーリングが DLSS によって登場したとき、それはぼんやりとした混乱に過ぎませんでした。 7 年後、Nvidia、AMD、Intel GPU にはすべて独自のアップスケーラーが付属しています。 DLSS 4.5、FSR 4.1、XeSS v3.0.1 など、私たちは、アップスケーリングされたグラフィックスが別格であり、パフォーマンスと品質の比率の点で、ネイティブ レ…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/nvidia-geforce-rtx-4070-ti-white.jpg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
-      "Title": "NVIDIA が RTX GPU 用の GDDR6 および GDDR7 メモリ キットの価格を値上げすると報じられている",
-      "Link": "https://www.techpowerup.com/351018/nvidia-reportedly-raises-gddr6-and-gddr7-memory-kit-prices-for-rtx-gpus",
-      "Published": "2026-07-23T16:00:02Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "NVIDIA が RTX GPU 用の GDDR6 および GDDR7 メモリ キットの価格を値上げすると報じられている\n\n伝えられるところによると、NVIDIA はアドイン カード パートナーに、今回は GDDR7 と GDDR6 メモリの両方を対象とする GPU キットの価格引き上げを通知したとのことです。これは、値上げが現行の Blackwell カードに限定されず、GDDR6 をまだ使用している古い GeForce 製品にも影響を与える可能性があることを意味します。レポートは次から来ています...\n\nNVIDIA が RTX GPU 用の GDDR6 および GDDR7 メモリ キットの価格を値上げすると報じられている\n\n2026 年 1 月 16 日 NVIDIA が GeForce RTX 5070 Ti の生産を終了、RTX 5060 Ti 16 GB Next (210) と伝えられる\n\n2026 年 3 月 30 日 NVIDIA が、RT パフォーマンスを大幅に向上させた Rubin ベースの GeForce RTX 60 シリーズをリリース (162)\n\n2025 年 9 月 10 日 NVIDIA GeForce RTX 50 シリーズ SUPER GPU が CES 2026 に登場する可能性 (69)\n\n2026 年 7 月 10 日 NVIDIA が GeForce RTX 5090 SE グラフィックス カードを準備 (161)\n\n2025 年 9 月 18 日 NVIDIA がインテルを 50 億ドル相当で買収、RTX iGPU が x86 に登場、株価は 25% 上昇 (256)\n\n2025 年 12 月 31 日 AI 業界の需要のおかげで、2026 年に 5000 ドルの RTX 5090 GPU が登場するとリークが予測 (124)\n\n2025 年 9 月 3 日 NVIDIA ディスクリート GPU 市場シェアの優位性が 94% に拡大、ノート レポート (237)\n\n2025 年 7 月 28 日 NVIDIA、クリスマスま…",
-      "ImageURL": "https://www.techpowerup.com/img/PBQsfOsgse0MgSFD.jpg"
-    },
-    {
-      "Title": "AIメモリ不足で自動車価格が高騰中 – GMは大幅なコスト上昇を警告、BYDは運転支援価格を20%値上げ",
-      "Link": "https://www.tomshardware.com/pc-components/ram/ai-memory-shortage-is-now-increasing-the-price-of-cars-gm-warns-of-vast-cost-increases-byd-hikes-driver-assistance-prices-20-percent",
-      "Published": "2026-07-23T15:57:19Z",
-      "Source": "Tom's Hardware",
-      "Category": "PC Components",
-      "Summary": "AIメモリ不足で自動車価格が高騰中 – GMは大幅なコスト上昇を警告、BYDは運転支援価格を20%値上げ\n\nメモリチップ不足の影響は、コンピュータや家庭用電化製品だけにとどまらない。\n\nAIメモリ不足で自動車価格が高騰中 – GMは大幅なコスト上昇を警告、BYDは運転支援価格を20%値上げ\n\nメモリチップ不足の影響は、コンピュータや家庭用電化製品だけにとどまらない。\n\n(画像クレジット: Chevrolet ) リンクをコピー\n\n2 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する PC ビルダー、愛好家、ゲーマーは AI 主導のメモリ チップ不足の影響を最も大きく受ける人々ですが、専門家は、これが最終的には自動車セクターにも影響を与えると警告しています。日経アジアは、大手自動車メーカー2社がまさにこの理由で価格を値上げしていると報じており、彼らの懸念は的中したようだ。ゼネラルモーターズは、今年の新車価格は0.3％上昇すると予想し、従来の車両価格予想を変更し、現状維持か若干手頃な価格になるとの見通しを示した。世界の反対側では、中国の自動車大手BYDも、自社モデルとは別に販売している運転支援機能の価格を20％値上げした。韓国の現代自動車も国内のチップメーカーに対し、現地のサプライチェーンを強化するよう求めた。\n\nGMの最高財務責任者ポール・ジェイコブソン氏は、自動車メーカーの決算会見で、GMはコストが15億ドルから20億ドル増加すると予想していると述べ、その主な原因は車両部品、特にDRAMの価格上昇であると述べた。ほとんどの人は自動車にメモリ チップを搭載しているとは考えませんが、購入者が新しいモデルに期待する機能やテクノロジーの数が増えているため、エンジニアや設計者は過去のモデルと比較してより多くのメモリを追加する必要があります。\n\nマイクロンは2023年に、平均的な車両が90GBのDRAMとNANDを使用していると述べ、この合計の要件は2026年までに278GBに跳ね上がり、ハイエンドモデルでは最大2TBが…",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/wNXmwTpd7xy3ifFz8GkSgA-1920-80.png"
-    },
-    {
-      "Title": "Wyze Bulb Cam はプライムデー価格に戻り、38 ドルに下がります",
-      "Link": "https://www.androidauthority.com/wyze-bulb-cam-deal-3690755/",
-      "Published": "2026-07-23T15:41:59Z",
-      "Source": "Android Authority",
-      "Category": "Security Camera",
-      "Summary": "Wyze Bulb Cam はプライムデー価格に戻り、38 ドルに下がります\n\nこの Wyze Bulb Cam のセールは、2K ビデオ、カラー暗視、800 ルーメンの電球を備えた史上最高価格に匹敵します。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nWyze Bulb Cam はプライムデー価格に戻り、38 ドルに下がります\n\n0 • Wyze Google Discover でフォローしてください 優先ソースとして追加してください 玄関ドア、ガレージ、裏庭などは特別な監視が必要な場所ですが、誰もが完全なカメラの設置に対処したいわけではありません。 Wyze Bulb Cam はまさにその仕事のために作られており、現在 Amazon で 37.98 ドルで販売されています。この価格は希望小売価格の 49.98 ドルよりも安く、24% 割引です。また、これは私たちがこれまでに追跡した最低価格と一致し、最近のプライムデーの価格と一致します。\n\nWyze Bulb Cam は、2-in-1 屋外セキュリティ カメラとスマート LED 電球です。標準のライトソケットにネジで固定するため、より複雑な有線カメラのセットアップを必要とせずに、既存の器具を使用できます。 2K HD で録画し、カラーナイトビジョンを備え、電球自体の定格は約 800 ルーメンです。つまり、監視しながらエリアを照らすことができます。\n\nこの種のセットアップは、別の投光照明カメラを追加せずにカバレッジが必要な場所に非常に合理的です。ポーチ、ガレージ近くの私道、脇道などはすべて適しています。\n\n私たちのコミュニティにご参加いただきありがとうございます。投稿する前にコメントポリシーをお読みください。",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2025/06/Wyze-Bulb-Cam.jpg"
     }
   ]
 }
