@@ -1,6 +1,241 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Tue, 28 Jul 2026 14:36:38 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Tue, 28 Jul 2026 16:50:01 +0000</lastBuildDate>
+<item><title>GOG がついにオールインワン Galaxy ランチャーを Linux に導入</title><link>https://www.xda-developers.com/gog-is-finally-bringing-its-all-in-one-galaxy-launcher-to-linux/</link><guid isPermaLink="true">https://www.xda-developers.com/gog-is-finally-bringing-its-all-in-one-galaxy-launcher-to-linux/</guid><pubDate>Tue, 28 Jul 2026 16:37:09 +0000</pubDate><description><![CDATA[<p>GOG がついにオールインワン Galaxy ランチャーを Linux に導入
+
+Gaming on Linux just keeps getting better.
+
+GOG がついにオールインワン Galaxy ランチャーを Linux に導入
+
+クレジット: GOG By Patrick O&#39;Rourke 公開日 2026 年 7 月 28 日、午後 12:37 EDT Patrick O&#39;Rourke は、XDA のニュース編集者およびエンターテイメント セグメントのリーダーです。以前は、Pocket-lint の編集長、カナダのテクノロジー出版物 MobileSyrup の編集長を務め、キャリアの初期には Financial Post および Postmedia でテクノロジー編集者として働いていました。彼はトロントに拠点を置いています。過去 15 年間にわたり、彼は何千もの記事を書いてきました。パトリック氏はまた、何十人ものテクノロジー業界の幹部にインタビューし、GDC、E3、Gamescom、WWDC、Apple の基調講演、Samsung Unpacked イベントなどを取材しました。パトリックはトロント・メトロポリタン大学でジャーナリズムの学士号を取得しています。 Sign in to your XDA account Summary
+
+GOG は GOG Galaxy を Linux に導入するために積極的に取り組んでおり、オペレーティング システムを専門とする専門家がチームに加わりました。
+
+There&#39;s no release timeline yet; GOG says the port is a significant undertaking.
+
+GOG Galaxy は、ライブラリを整理し、Steam などのストアをリンクする、Linux 上の中心的なランチャーになる可能性があります。
+
+数か月前、Good Old Games (GOG) は、オールインワンの Galaxy ランチャーを Linux に導入する計画であると発表しましたが、過…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/gog-galaxy-1.jpg?w=1600&amp;h=900&amp;fit=crop" alt="GOG がついにオールインワン Galaxy ランチャーを Linux に導入"></p>]]></description><source url="https://www.xda-developers.com/gog-is-finally-bringing-its-all-in-one-galaxy-launcher-to-linux/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/gog-galaxy-1.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/gog-galaxy-1.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>Microsoft の新しいサンドボックス化された WSL AI レイヤーは、Windows のエージェントの実行方法をすべて変えます</title><link>https://www.xda-developers.com/microsofts-new-sandboxed-wsl-ai-layer-changes-everything-about-how-windows-runs-agents/</link><guid isPermaLink="true">https://www.xda-developers.com/microsofts-new-sandboxed-wsl-ai-layer-changes-everything-about-how-windows-runs-agents/</guid><pubDate>Tue, 28 Jul 2026 16:30:10 +0000</pubDate><description><![CDATA[<p>Microsoft の新しいサンドボックス化された WSL AI レイヤーは、Windows のエージェントの実行方法をすべて変えます
+
+ソースからビルドして、不正な動作をするエージェントを投げました
+
+Microsoft の新しいサンドボックス化された WSL AI レイヤーは、Windows のエージェントの実行方法をすべて変えます
+
+By Joe Rice-Jones Published Jul 28, 2026, 12:30 PM EDT Maker、meme-r、そして恥ずかしがり屋のオタクである Joe は、2018 年に KnowTechie でキャリアをスタートして以来、テクノロジーについて執筆してきました。彼は Apple からアプリ、クラウドファンディングまであらゆるものをカバーしており、複雑なトピックの本質に迫るのが大好きです。その間、彼は、2023 年の春に XDA に本拠地を置くまで、SlashGear や多数の法人顧客向けにも記事を書いていました。彼は、たとえ後で完全に元に戻らなかったとしても、すべてのおもちゃを分解して、どのように機能するかを確認する子供でした。これにより、複雑なシステムがどのように連携して機能するかを説明するための確かな背景が得られ、それ以来、物事を元に戻す段階でうまくなったと彼は約束します。 XDA アカウントにサインインする 私は毎日 Windows マシンで AI エージェントを実行していますが、間違った権限を承認した場合に AI エージェントが何をする可能性があるかを常に警戒しています。 Claude Code は私の端末内に存在し、エージェントは私なしで WSL で新しいリポジトリを構築します。すべてのセッションには言語モデルが含まれており、コードを作成し、私の税務書類を保持しているのと同じマシン上でコードを実行します。
+
+それは憂慮すべきことであり、Microsoft が Microsoft Execution Containers (MXC) で修正しようとしているのはこの点です。MXC は、Build 20…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/microsoft-wsl-secure-containers-hero-1.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Microsoft の新しいサンドボックス化された WSL AI レイヤーは、Windows のエージェントの実行方法をすべて変えます"></p>]]></description><source url="https://www.xda-developers.com/microsofts-new-sandboxed-wsl-ai-layer-changes-everything-about-how-windows-runs-agents/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/microsoft-wsl-secure-containers-hero-1.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/microsoft-wsl-secure-containers-hero-1.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>ドラゴンエイジのクリエイターは、ヴェールガードがシリーズ最後の万歳になるかもしれないと語る</title><link>https://www.techpowerup.com/351148/dragon-age-creator-says-veilguard-may-be-seriess-last-hurrah</link><guid isPermaLink="true">https://www.techpowerup.com/351148/dragon-age-creator-says-veilguard-may-be-seriess-last-hurrah</guid><pubDate>Tue, 28 Jul 2026 16:21:23 +0000</pubDate><description><![CDATA[<p>ドラゴンエイジのクリエイターは、ヴェールガードがシリーズ最後の万歳になるかもしれないと語る
+
+Dragon Age シリーズには長年にわたって浮き沈みがあり、Dragon Age: Inquisition は現在までに BioWare で最も売れているゲームであり、The Veilguard の評判はさまざまですが、このシリーズには続編であろうとリメイクであろうと、より多くのゲームを求めている忠実なファンがまだいます。しかし、あるところでは...
+
+ドラゴンエイジのクリエイターは、ヴェールガードがシリーズ最後の万歳になるかもしれないと語る
+
+EA とゲームの出荷に関する複雑な関係が原因で、このようなことが起こったのだと思います。かつて誰かが私にEAについて、ビデオゲームを趣味とするヘッジファンドだと評したことがありますが、そこに多額の資金を投じなければよかったのにと思いました。そしてそれは今も真実だと思います。 EA で誰がそれ (Veilguard の続編) を提案できるか、提案する可能性があるか、私にはまったく想像もつきません。 EA は驚くほど多くの休眠 IP を所有しています。
+
+問題は、BioWare の誰が Dragon Age を売り込むかわからないことです。したがって、もう 1 つの選択肢は、EA 組織内の誰かが Dragon Age を売り込むことを決定することです。そして、もし彼らがそれをしようとした場合に私が予想することは、BioWare の誰かが本質的に、その人物を引き裂くために通気口の下に飛び込む人々の一人になることです。さまざまな理由からそれは起こらないと思います。
+
+2026 年 4 月 28 日 Denuvo がデイゼロ DRM ハイパーバイザー クラックに対応: 「すでにセキュリティ バージョンの更新に取り組んでいます」 (62)
+
+2025 年 9 月 29 日 EA の新オーナー計画 AI Pivot は「運用コストの大幅削減を目指す」— レポート (39)
+
+2025 年 12 月 17 日 Half-Life 3 は 2026 …</p><p><img src="https://www.techpowerup.com/img/xM60lfmUP7lPnqDa.jpg" alt="ドラゴンエイジのクリエイターは、ヴェールガードがシリーズ最後の万歳になるかもしれないと語る"></p>]]></description><source url="https://www.techpowerup.com/351148/dragon-age-creator-says-veilguard-may-be-seriess-last-hurrah">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/xM60lfmUP7lPnqDa.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/xM60lfmUP7lPnqDa.jpg"/></item>
+<item><title>NVIDIA が GeForce 610.88 WHQL Game Ready ドライバーをリリース</title><link>https://www.techpowerup.com/351150/nvidia-releases-geforce-610-88-whql-game-ready-drivers</link><guid isPermaLink="true">https://www.techpowerup.com/351150/nvidia-releases-geforce-610-88-whql-game-ready-drivers</guid><pubDate>Tue, 28 Jul 2026 16:16:45 +0000</pubDate><description><![CDATA[<p>NVIDIA が GeForce 610.88 WHQL Game Ready ドライバーをリリース
+
+NVIDIA は、先週の 610.82 ベータ版に続き、GeForce 610.88 WHQL Game Ready ドライバーをリリースしました。これは、この完全な WHQL リリースに先立って、特に Halo: Campaign Evolved と Path of Exile 2 のクラッシュに対処する対象を絞った修正でした。 Halo: Campaign Evolved で解決されたクラッシュに加えて...
+
+NVIDIA が GeForce 610.88 WHQL Game Ready ドライバーをリリース
+
+[Halo: Campaign Evolved]: R610 ドライバーを搭載した RTX 50 シリーズ GPU で観察されるゲーム クラッシュを解決しました。 [6259837]
+
+Path of Exile 2: DX12 モードでの長時間のゲームプレイセッション後に発生する可能性のある断続的な長い一時停止を修正しました [5090018]
+
+サイレントヒル F: ゲームの安定性の向上 [6432954]
+
+[Strange Brigade/Zombie Army 4:Dead War]: NVIDIA アプリのゲーム内オーバーレイが有効になっている場合、終了時にゲームがクラッシュすることがある [6392324]
+
+G-SYNC が有効なときにスムーズ モーションが使用されている場合、特定の DX11 ゲームでフレーム ペーシングが向上します [6300603]
+
+RTX の動的振動が壁紙エンジンに誤って適用される [6244021]
+
+NVIDIA サラウンドが有効になっている場合、Paint.NET が起動中にクラッシュすることがある [5366537]
+
+2026 年 3 月 30 日 NVIDIA が、RT パフォーマンスを大幅に向上させた Rubin ベースの GeForce RTX 60 シリーズをリリース (162)
+
+2026 年…</p><p><img src="https://www.techpowerup.com/img/AjBoo4THKph0BWAH.jpg" alt="NVIDIA が GeForce 610.88 WHQL Game Ready ドライバーをリリース"></p>]]></description><source url="https://www.techpowerup.com/351150/nvidia-releases-geforce-610-88-whql-game-ready-drivers">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/AjBoo4THKph0BWAH.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/AjBoo4THKph0BWAH.jpg"/></item>
+<item><title>(PR) FinalWire が AIDA64 v8.35 をリリース</title><link>https://www.techpowerup.com/351143/finalwire-releases-aida64-v8-35</link><guid isPermaLink="true">https://www.techpowerup.com/351143/finalwire-releases-aida64-v8-35</guid><pubDate>Tue, 28 Jul 2026 16:13:18 +0000</pubDate><description><![CDATA[<p>(PR) FinalWire が AIDA64 v8.35 をリリース
+
+FinalWire Ltd. は本日、ホーム ユーザー向けの合理化された診断およびベンチマーク ツールである AIDA64 Extreme v8.35 の即時提供を発表しました。 AIDA64 Engineer v8.35、企業の IT 技術者およびエンジニア向けのプロフェッショナルな診断およびベンチマーク ソリューション。 AIDA64 ビジネス v8.35、...
+
+FinalWire が AIDA64 v8.35 をリリース
+
+AMD Zen 6 ベースの CPU および APU のサポートの向上
+
+AMD Mustang Peak CPUの暫定サポート
+
+Intel Panther Lake-R CPU の暫定サポート
+
+Thermalright Trofeo Vision 9.16 LCD のサポート
+
+Turing (Turzx) 2.8 インチ LCD サポート
+
+AMD Radeon RX 6300のGPUの詳細
+
+NVIDIA RTX Spark N1X の GPU の詳細
+
+ASUS ROG Strix Aiolos の USB-NVMe パススルーのサポート
+
+修正: OpenCL レイヤーでのクラッシュ
+
+修正: ROG AIO LCD モジュールのハンドル リーク
+
+2026 年 4 月 28 日 FinalWire が AIDA64 v8.30 をリリース (4)
+
+2025 年 10 月 13 日 32 MB および 64 MB BIOS チップを搭載した AM5 マザーボードでの AMD &#34;Zen 6&#34; のサポートが確認されました (53)
+
+2026 年 2 月 24 日 FinalWire がネイティブ NVMe ドライバー サポートを備えた AIDA64 v8.25 をロールアウト (0)
+
+2025 年 12 月 9 日 FinalWire が AIDA64 v8.20 をリリース (0)
+
+2025 年 9 月 15 日 FinalWire が AIDA6…</p><p><img src="https://www.techpowerup.com/img/M4J1KLq5HzMmRjDT.jpg" alt="(PR) FinalWire が AIDA64 v8.35 をリリース"></p>]]></description><source url="https://www.techpowerup.com/351143/finalwire-releases-aida64-v8-35">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/M4J1KLq5HzMmRjDT.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/M4J1KLq5HzMmRjDT.jpg"/></item>
+<item><title>TCL debuts Ultimate Pro 32X3B and 27X3B gaming monitors with LG&#39;s 4th-gen WOLED panel</title><link>https://www.tweaktown.com/rss/click/news/112871/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112871/?c=news-mf</guid><pubDate>Tue, 28 Jul 2026 16:05:11 +0000</pubDate><description><![CDATA[<p>TCL debuts Ultimate Pro 32X3B and 27X3B gaming monitors with LG&#39;s 4th-gen WOLED panel</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112871/?c=news-mf">TweakTown</source></item>
+<item><title>(PR) Halo: Campaign Evolved が NVIDIA DLSS、Mistfall Hunter、Corsair Cove で本日開​​始</title><link>https://www.techpowerup.com/351152/halo-campaign-evolved-launches-today-with-nvidia-dlss-mistfall-hunter-and-corsair-cove-follow</link><guid isPermaLink="true">https://www.techpowerup.com/351152/halo-campaign-evolved-launches-today-with-nvidia-dlss-mistfall-hunter-and-corsair-cove-follow</guid><pubDate>Tue, 28 Jul 2026 16:05:10 +0000</pubDate><description><![CDATA[<p>(PR) Halo: Campaign Evolved が NVIDIA DLSS、Mistfall Hunter、Corsair Cove で本日開始
+
+NVIDIA DLSS、NVIDIA Reflex、高度なレイ トレース エフェクトを統合した新しいゲームやアプリが毎週リリースまたは発表され、GeForce RTX プレーヤーに決定的な PC エクスペリエンスを提供します。本日、Halo: Campaign Evolved が DLSS で正式にリリースされ、続いて水曜日にミストフォール ハンターがリリースされます...
+
+Halo: Campaign Evolved が NVIDIA DLSS、Mistfall Hunter、Corsair Cove で本日開始
+
+2026 年 3 月 30 日 NVIDIA が、RT パフォーマンスを大幅に向上させた Rubin ベースの GeForce RTX 60 シリーズをリリース (162)
+
+2026 年 1 月 16 日 NVIDIA が GeForce RTX 5070 Ti の生産を終了、RTX 5060 Ti 16 GB Next (210) と伝えられる
+
+2025 年 9 月 10 日 NVIDIA GeForce RTX 50 シリーズ SUPER GPU が CES 2026 に登場する可能性 (69)
+
+2025 年 9 月 18 日 NVIDIA がインテルを 50 億ドル相当で買収、RTX iGPU が x86 に登場、株価は 25% 上昇 (256)
+
+2026 年 7 月 10 日 NVIDIA が GeForce RTX 5090 SE グラフィックス カードを準備 (161)
+
+2025 年 12 月 31 日 AI 業界の需要のおかげで、2026 年に 5000 ドルの RTX 5090 GPU が登場するとリークが予測 (124)
+
+2026 年 3 月 16 日 NVIDIA がリアルタイム ニューラル レンダリングを備えた DLSS 5 を発表 (305)
+
+2025 年 9 月…</p><p><img src="https://www.techpowerup.com/img/KiA5MlBmcHZrnU2l.jpg" alt="(PR) Halo: Campaign Evolved が NVIDIA DLSS、Mistfall Hunter、Corsair Cove で本日開​​始"></p>]]></description><source url="https://www.techpowerup.com/351152/halo-campaign-evolved-launches-today-with-nvidia-dlss-mistfall-hunter-and-corsair-cove-follow">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/KiA5MlBmcHZrnU2l.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/KiA5MlBmcHZrnU2l.jpg"/></item>
+<item><title>この Kamrui ミニ PC は、ホームラボのハードウェアに多額の費用を費やす必要がないことを証明します。</title><link>https://www.xda-developers.com/kamrui-p2-mini-pc-300-deal/</link><guid isPermaLink="true">https://www.xda-developers.com/kamrui-p2-mini-pc-300-deal/</guid><pubDate>Tue, 28 Jul 2026 16:03:32 +0000</pubDate><description><![CDATA[<p>この Kamrui ミニ PC は、ホームラボのハードウェアに多額の費用を費やす必要がないことを証明します。
+
+100ドルの割引は確実です
+
+この Kamrui ミニ PC は、ホームラボのハードウェアに多額の費用を費やす必要がないことを証明します。
+
+By Timi Cantisano 公開 2026 年 7 月 28 日、午後 12:03 EDT Timi は 10 年以上にわたり、スマートフォン、コンピューター、およびテクノロジー分野で興味深いと思うあらゆるものに焦点を当ててテクノロジーについて執筆してきました。彼は XDA に執筆を開始し、モバイルに関するあらゆることをカバーしていましたが、インターネット上で最高のハイテク製品の最高の割引を明らかにすることを使命として、取引をカバーすることに移行しました。 XDA アカウントにサインインする この Kamrui ミニ PC は、特に RAM やストレージなどの部品のコストが高騰している中で、コストパフォーマンスに優れています。 AMD Ryzen プロセッサー、16GB RAM、512GB SSD ストレージを搭載しています。ポートがたくさんあるので接続性も抜群です。このミニ PC は、デスクトップの代替品として、またはホーム ラボの一部として最適な多用途のハードウェアです。最良の点は、このミニ PC が期間限定で 100 ドル割引になり、わずか 299 ドルで提供されることです。
+
+コストは上昇しています。これが解決策になるかもしれません
+
+ハイテク製品の価格が高騰しているため、新しいものをアップグレードしたり購入したりすることを正当化することがますます困難になっています。ただし、良いニュースとしては、代替ソリューションがあるということです。ミニ PC は、XDA が長年にわたって支持してきたものの 1 つです。私たちは、非常に効率的で強力な小型マシンを所有することの利点を強調してきました。
+
+このモデルは、ひどいゲーミング PC を意図したものではありませんが、4 つのコアと 8 つのスレッドを備えた AMD…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/copy-of-169-1-5.jpg?w=1600&amp;h=900&amp;fit=crop" alt="この Kamrui ミニ PC は、ホームラボのハードウェアに多額の費用を費やす必要がないことを証明します。"></p>]]></description><source url="https://www.xda-developers.com/kamrui-p2-mini-pc-300-deal/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/copy-of-169-1-5.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/copy-of-169-1-5.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>ミステリー評論家が Nvidia RTX Spark のプロトタイプ ラップトップを「発見」し、そのペースで試してみる — Nvidia N1X チップを搭載した Microsoft Surface Laptop Ultra は有望だが、プロトタイプのイボはまだかなり目立つ</title><link>https://www.tomshardware.com/laptops/mystery-reviewer-finds-nvidia-rtx-spark-prototype-laptop-and-puts-it-through-its-paces-microsoft-surface-laptop-ultra-with-nvidia-n1x-chip-shows-promise-though-prototype-warts-are-still-quite-visible</link><guid isPermaLink="true">https://www.tomshardware.com/laptops/mystery-reviewer-finds-nvidia-rtx-spark-prototype-laptop-and-puts-it-through-its-paces-microsoft-surface-laptop-ultra-with-nvidia-n1x-chip-shows-promise-though-prototype-warts-are-still-quite-visible</guid><pubDate>Tue, 28 Jul 2026 16:03:23 +0000</pubDate><description><![CDATA[<p>ミステリー評論家が Nvidia RTX Spark のプロトタイプ ラップトップを「発見」し、そのペースで試してみる — Nvidia N1X チップを搭載した Microsoft Surface Laptop Ultra は有望だが、プロトタイプのイボはまだかなり目立つ
+
+このマシンは可能性を示していますが、オーブンでしばらく焼く必要があるのは間違いありません。
+
+ミステリー評論家が Nvidia RTX Spark のプロトタイプ ラップトップを「発見」し、そのペースで試してみる — Nvidia N1X チップを搭載した Microsoft Surface Laptop Ultra は有望だが、プロトタイプのイボはまだかなり目立つ
+
+このマシンは可能性を示していますが、オーブンでしばらく焼く必要があるのは間違いありません。
+
+(画像クレジット: Microsoft) リンクをコピー
+
+0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する トラックの荷台からたまたま落ちたリリース前のハードウェアのプレビューは、誰もが大好きです。特にそれがニュースの見出しを飾ったキットの一部である場合はそうです。 TechPowerUp の読者である Fouquin は、Nvidia RTX Spark N1X SoC を搭載した Microsoft Surface Laptop Ultra プロトタイプを「偶然」見つけました。
+
+簡単に要約すると、N1X は「AI ラップトップ」世代の先駆けとなるはずです。これは、RTX Spark デスクトップ、Mac Studio、Ryzen AI Max マシン、Macbook Pro の代替となることを意味します。これは、これらがすべてユニファイド メモリと有能な GPU の大規模なプールを備えた設計であり、データセンター以外の AI 作業に適しているという事実によるものです。 N1X は、合計 20 スレッドのマルチスレッドを備えた 5p5e 構成の 10 個の MediaT…</p><p><img src="https://cdn.mos.cms.futurecdn.net/pFTYguUbejMTf2HZpGAU7a-2148-80.png" alt="ミステリー評論家が Nvidia RTX Spark のプロトタイプ ラップトップを「発見」し、そのペースで試してみる — Nvidia N1X チップを搭載した Microsoft Surface Laptop Ultra は有望だが、プロトタイプのイボはまだかなり目立つ"></p>]]></description><source url="https://www.tomshardware.com/laptops/mystery-reviewer-finds-nvidia-rtx-spark-prototype-laptop-and-puts-it-through-its-paces-microsoft-surface-laptop-ultra-with-nvidia-n1x-chip-shows-promise-though-prototype-warts-are-still-quite-visible">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/pFTYguUbejMTf2HZpGAU7a-2148-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/pFTYguUbejMTf2HZpGAU7a-2148-80.png"/></item>
+<item><title>中古の Tesla V100 が、自宅でローカル LLM を実行する最も安価な方法になっている</title><link>https://www.xda-developers.com/a-used-tesla-v100-has-quietly-become-the-cheapest-way-to-run-local-llms-at-home/</link><guid isPermaLink="true">https://www.xda-developers.com/a-used-tesla-v100-has-quietly-become-the-cheapest-way-to-run-local-llms-at-home/</guid><pubDate>Tue, 28 Jul 2026 16:00:10 +0000</pubDate><description><![CDATA[<p>中古の Tesla V100 が、自宅でローカル LLM を実行する最も安価な方法になっている
+
+使用済みのデータセンター カードがローカルでホストされる LLM の頼りになりつつある
+
+中古の Tesla V100 が、自宅でローカル LLM を実行する最も安価な方法になっている
+
+By Ty Sherback 公開日 2026 年 7 月 28 日、午後 12:00 EDT 彼の PC とそのコンポーネントに対する愛情は、ファミリー コンピューターのパフォーマンスをすべて絞り出そうとすることから生まれました。 10 歳のときに自分のビルドをいじっていたことが、友人や家族のために PC を作ることに変わり、最終的にキャリア パスとして形になる情熱を育みました。 Ty は、身近な人々への技術サポートの最初の電話であることに加えて、クラウド コンピューティングとネットワーキングに重点を置いているコンピューター サイエンスの学生でもあります。彼はセミプロの Counter-Strike にも 8 年間出場しており、周辺機器に関するあらゆることに精通しています。 XDA アカウントにサインインする ローカル LLM の実行という点では、RTX 3090 は、24 GB の巨大な VRAM を備えた予算内でローカル AI を実行するために使用されるコンシューマ GPU の確固たる王者です。それを超えると、RTX 5090 を搭載するか、企業の領域に足を踏み入れることになりますが、それは恐ろしく独占的だと思われるかもしれません。確かに欠点はありますが、思っているよりもずっとフレンドリーです。 Nvidia Tesla V100 はしばらくの間、データ センターで徐々に時代遅れになり、その結果、大量の製品が割引価格で eBay に押し寄せられています。一部のツールでは回避できない方法で徐々に非推奨になっていることを理解している限り、16 GB モデルと 32 GB モデルの両方を購入する価値があります。
+
+中古の RTX 3090 よりも安い 32GB の HBM2
+
+家庭用の大型…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/llama-cpp-web-ui-open-on-desktop-pc-browser.jpg?w=1600&amp;h=900&amp;fit=crop" alt="中古の Tesla V100 が、自宅でローカル LLM を実行する最も安価な方法になっている"></p>]]></description><source url="https://www.xda-developers.com/a-used-tesla-v100-has-quietly-become-the-cheapest-way-to-run-local-llms-at-home/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/llama-cpp-web-ui-open-on-desktop-pc-browser.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/llama-cpp-web-ui-open-on-desktop-pc-browser.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>この TP-Link Wi-Fi 7 ルーターは、Amazon でこれまでの最安値に達しました。</title><link>https://www.androidauthority.com/tp-link-wi-fi-7-router-deal-3692052/</link><guid isPermaLink="true">https://www.androidauthority.com/tp-link-wi-fi-7-router-deal-3692052/</guid><pubDate>Tue, 28 Jul 2026 15:54:33 +0000</pubDate><description><![CDATA[<p>この TP-Link Wi-Fi 7 ルーターは、Amazon でこれまでの最安値に達しました。
+
+自宅の Wi-Fi をより安価にアップグレードできます。Wi-Fi 7 と 6.5Gbps の速度を備えた TP-Link BE6500 ルーターが 36% オフの $114.99 です。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+この TP-Link Wi-Fi 7 ルーターは、Amazon でこれまでの最安値に達しました。
+
+0 • Amazon Google Discover でフォローしてください 優先ソースとして追加 忙しい家庭では、特に複数の人が同時にストリーミング、ゲーム、仕事、ダウンロードをしている場合、古いルーターが弱点のように感じることがあります。良いニュースは、現在 Amazon で TP-Link BE6500 ルーターがお買い得になっており、ISP ルーターや古くなった Wi-Fi 5 または Wi-Fi 6 セットアップから移行する準備ができている人にとっては強力な選択肢となりそうです。
+
+TP-Link BE6500 デュアルバンド Wi-Fi 7 ルーターは、希望小売価格 179.99 ドルから 114.99 ドルに値下げされています。これは希望小売価格と比較して 36% 割引であり、65 ドル節約できます。こちらも史上最安値です。それに加えて、Amazon の買い物客はそれを 4.4 つ星と評価しています。
+
+このルーターは、主力価格を支払わずに新しい Wi-Fi 機能を求める主流のホーム ユーザー向けに構築されています。 2.4 GHz 帯域と 5 GHz 帯域の合計で最大 6.5 Gbps のワイヤレス速度を提供します。 6GHz 帯域は使用しませんが、マルチリンク操作、4K-QAM、マルチ RU などの主要な Wi-Fi 7 機能を提供します。
+
+有線接続も魅力の大きな部分を占めています。デュアル 2.5Gbps ポートと USB 3.0 を備えている…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/07/TP-Link-BE6500-Dual-Band-Wi-Fi-7-Router-BE400-Press-Image.jpg" alt="この TP-Link Wi-Fi 7 ルーターは、Amazon でこれまでの最安値に達しました。"></p>]]></description><source url="https://www.androidauthority.com/tp-link-wi-fi-7-router-deal-3692052/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/07/TP-Link-BE6500-Dual-Band-Wi-Fi-7-Router-BE400-Press-Image.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/07/TP-Link-BE6500-Dual-Band-Wi-Fi-7-Router-BE400-Press-Image.jpg"/></item>
+<item><title>WhatsApp Web がついに音声通話とビデオ通話のサポートを開始</title><link>https://www.androidauthority.com/whatsapp-web-audio-video-calls-3692027/</link><guid isPermaLink="true">https://www.androidauthority.com/whatsapp-web-audio-video-calls-3692027/</guid><pubDate>Tue, 28 Jul 2026 15:52:49 +0000</pubDate><description><![CDATA[<p>WhatsApp Web がついに音声通話とビデオ通話のサポートを開始
+
+WhatsApp は、アプリの Web インターフェイスを使用して電話をかけたり受けたりする待望の機能を含む、多数の新機能を導入しました。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+WhatsApp Web がついに音声通話とビデオ通話のサポートを開始
+
+0 • Edgar Cervantes / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR WhatsApp Web はついに、通話転送や待機室などの機能とともに、エンドツーエンドの暗号化された音声およびビデオ通話のサポートを導入します。
+
+現在、ユーザーは電話をかけたり受けたりするには、WhatsApp デスクトップ アプリをダウンロードする必要があります。
+
+WhatsApp は、ビデオ通話用の QuickHD と、背景のノイズをブロックするノイズ抑制機能も導入しています。
+
+WhatsApp Web は、デスクトップ ブラウザ上で会話を表示したり、会話を継続したりできる便利なツールです。ただし、音声通話やビデオ通話など、WhatsApp で最もよく使用される機能の一部は、このバージョンのチャット アプリには依然として搭載されていません。代わりに、ユーザーは公式の WhatsApp デスクトップ アプリをダウンロードしてアクセスする必要がありました。しかし、大型アップデートの一環としてそれが変わりつつあります。
+
+WhatsApp が好む Web Calling により、最終的にユーザーはブラウザから直接音声通話やビデオ通話を発着信できるようになります、と Meta がブログ投稿で共有しました。このアップデートでは、エンドツーエンドの暗号化を維持しながら、通話履歴全体が [通話] タブを使用してブラウザーに表示されると同時に、反応や画面共有などのロックが解除されます。
+
+W…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2023/05/Holding-smartphone-with-WhatsApp-logo-on-the-screen-Stock-photo.jpg" alt="WhatsApp Web がついに音声通話とビデオ通話のサポートを開始"></p>]]></description><source url="https://www.androidauthority.com/whatsapp-web-audio-video-calls-3692027/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2023/05/Holding-smartphone-with-WhatsApp-logo-on-the-screen-Stock-photo.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2023/05/Holding-smartphone-with-WhatsApp-logo-on-the-screen-Stock-photo.jpg"/></item>
+<item><title>Framework Laptop 13 Pro レビュー: 修理性の王様が帰ってきた</title><link>https://www.notebookcheck.net/Framework-Laptop-13-Pro-review-The-king-of-repairability-is-back.1351246.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/Framework-Laptop-13-Pro-review-The-king-of-repairability-is-back.1351246.0.html</guid><pubDate>Tue, 28 Jul 2026 15:47:00 +0000</pubDate><description><![CDATA[<p>Framework Laptop 13 Pro レビュー: 修理性の王様が帰ってきた
+
+同じラップトップ 13.5 モデルで丸 5 年の歳月を経て、Framework はついに「Pro」の名にふさわしい後継モデルを開発しました。待望のアップデートでは、一般的な懸念事項の多くに対処しながら、オリジナルを特別なものにしたすべての点がさらに強化されています。
+
+Framework Laptop 13 Pro レビュー: 修理性の王様が帰ってきた - Notebookcheck レビュー ▼
+
+評決 — ビッグネームと互角に渡り合う
+
+Laptop 13.5 に関する主な不満の 1 つは、Dell XPS、Lenovo Yoga、HP OmniBook シリーズなどのよく知られたプロシューマー向けラップトップと比較した場合、保守性と実用性を向上させるために剛性と頑丈さが犠牲になっていることでした。 Laptop 13 Pro は、以前のモデルと比較すると、すぐによりしっかりしていて、より頑丈に感じられる、はるかに強力なシャーシ設計でこの問題に正面から取り組みます。素材の品質の飛躍は非常に重要であり、それ以外の点では両モデルはほぼ同じコンポーネントとディスプレイ オプションを共有しているため、標準の Laptop 13.5 ではなく Laptop 13 Pro を選択する最大の理由であることは間違いありません。わずかに重い重量は、高い修理可能性と世代間の大幅な改良を考慮すると、支払うべき小さな代償です。
+
+シャーシ以外でも、主に効率的な Panther Lake CPU のおかげで、バッテリ寿命が同様に印象的なマージンで向上しました。
+
+ライセンスされた評価画像を SVG / PNG としてダウンロードします 非常に良い (88%) Framework Laptop 13 Pro Intel Core Ultra X7 358H Intel Arc B390 12 Xe3 Panther Lake iGPU Subnotebook - 07/28/2026 - v8 テスト デバ…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/Framework/Laptop_13_Pro/frameworkpro_feature_1.jpg" alt="Framework Laptop 13 Pro レビュー: 修理性の王様が帰ってきた"></p>]]></description><source url="https://www.notebookcheck.net/Framework-Laptop-13-Pro-review-The-king-of-repairability-is-back.1351246.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/Framework/Laptop_13_Pro/frameworkpro_feature_1.jpg" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/Framework/Laptop_13_Pro/frameworkpro_feature_1.jpg"/></item>
+<item><title>(PR) Intel Secure Enclave: タクティカル エッジでのハイパフォーマンス コンピューティングの確保</title><link>https://www.techpowerup.com/351149/intel-secure-enclave-securing-high-performance-computing-at-the-tactical-edge</link><guid isPermaLink="true">https://www.techpowerup.com/351149/intel-secure-enclave-securing-high-performance-computing-at-the-tactical-edge</guid><pubDate>Tue, 28 Jul 2026 15:36:15 +0000</pubDate><description><![CDATA[<p>(PR) Intel Secure Enclave: タクティカル エッジでのハイパフォーマンス コンピューティングの確保
+
+何十年もの間、防衛および航空宇宙システムは、今日のデータ強度に合わせて設計されていないアーキテクチャに依存してきました。アナログ負荷の高い信号処理チェーンは、初期世代のレーダーおよびセンシング システムでは効果的ですが、拡張性、柔軟性などに固有の制限をもたらします。
+
+Intel Secure Enclave: 戦術的エッジでのハイパフォーマンス コンピューティングの保護
+
+2026 年 7 月 3 日 インテル、ゲーム向けに 108 MB bLLC キャッシュを備えた 2 つの 22 コア「Nova Lake-S」SKU を準備 (279)
+
+2026 年 6 月 26 日 インテル「Nova Lake-S」52 コア OC SKU が PL2 モードで 474 W を消費 (291)
+
+2026 年 1 月 23 日 インテル Core Ultra シリーズ 4 「Nova Lake」プロセッサーが 2026 年後半に発売 (62)
+
+2026 年 1 月 10 日 Intel Core Ultra X9 388H &#34;Panther Lake&#34; iGPU は、Cyberpunk 2077 で AMD &#34;Strix Point&#34; パフォーマンスを 2 倍に (98)
+
+2026 年 6 月 14 日 Intel が 2027 年向けコア「Raptor Lake Next」ソケット LGA1700 プロセッサーを準備 (184)
+
+2026 年 2 月 23 日 インテルは統合コア設計に戻り、パフォーマンスと効率のコア分割を廃止する計画 (126)
+
+2026 年 4 月 13 日 Intel Core Ultra「Nova Lake-S」デスクトップ コア構成 Surface (111)
+
+2026 年 7 月 2 日 インテル、Core Ultra 7 270K Plus および Core Ultra 5 250K Plus のメーカー希望小…</p><p><img src="https://www.techpowerup.com/img/SdKXkf7JgQakoSOS.jpg" alt="(PR) Intel Secure Enclave: タクティカル エッジでのハイパフォーマンス コンピューティングの確保"></p>]]></description><source url="https://www.techpowerup.com/351149/intel-secure-enclave-securing-high-performance-computing-at-the-tactical-edge">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/SdKXkf7JgQakoSOS.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/SdKXkf7JgQakoSOS.jpg"/></item>
+<item><title>フカヒレがサメを攻撃する</title><link>https://hackaday.com/2026/07/28/sharkfin-bites-attack-shark/</link><guid isPermaLink="true">https://hackaday.com/2026/07/28/sharkfin-bites-attack-shark/</guid><pubDate>Tue, 28 Jul 2026 15:30:39 +0000</pubDate><description><![CDATA[<p>フカヒレがサメを攻撃する
+
+Attack Shark は、派手な磁気キースイッチ、マクロ、設定可能な点滅 LED などを備えた最新のキーボードです。問題は、設定ソフトウェアが Windows でのみ動作するため、[JR Lante…
+
+Attack Shark は、派手な磁気キースイッチ、マクロ、設定可能な点滅 LED などを備えた最新のキーボードです。問題は、設定ソフトウェアが Windows でのみ動作することであるため、[JR Lanteigne] はその問題の解決に着手しました。その過程で、彼はこのキーボードに必要な構成プロトコルを完全に解明し、自分のものもフラッシュできるように快適な Sharkfin Web アプリを作成しました。
+
+アタックシャークをお持ちではありませんか?同じ ROYUAN ハードウェアで作られ、100 の異なる名前で再ブランド化された 522 個の他のボードの 1 つをお持ちかもしれません。あなたのものがサポートされているかどうか知りたいですか?ここのリストで探すか、接続して調べてください。
+
+[RJ] が構成プロトコルをリバース エンジニアリングするまでの道のりは完全に単純ではありませんでしたが、「Windows 専用」アプリケーションの内部は実際には Electron アプリであったため、Linux 上で実行できるようにパッチを適用し、いくつかの構成セッションを記録しました。もちろん、2 つの異なるファームウェア世代や、フラッシュへの書き込みが速すぎるとキーボードがブート ループに陥るなどの問題はありますが、これらの問題を克服した後は、すべてのバイトをマッピングして、それをすべてユーザー フレンドリーなアプリケーションにラップするだけで済みました。
+
+私たちはこのような派手なキーボードを持っていませんが、もし持っているなら、構成プロトコルを文書化していただけると嬉しいです。キーボードを製造した会社が倒産し、バックライトの設定が新しいデスクパッドに合わないものになってしまった、ということを知ることほど最悪なことはありません。あなたがキ…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/07/cw-abyss.webp" alt="フカヒレがサメを攻撃する"></p>]]></description><source url="https://hackaday.com/2026/07/28/sharkfin-bites-attack-shark/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/07/cw-abyss.webp" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/07/cw-abyss.webp"/></item>
 <item><title>Memory supply could plummet 70% as AI&#39;s endless hunger devours global production</title><link>https://www.tweaktown.com/rss/click/news/112882/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112882/?c=news-mf</guid><pubDate>Tue, 28 Jul 2026 14:35:01 +0000</pubDate><description><![CDATA[<p>Memory supply could plummet 70% as AI&#39;s endless hunger devours global production</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112882/?c=news-mf">TweakTown</source></item>
 <item><title>クロード コードを捨ててローカル モデルとクラウド スーパーバイザーを使用したところ、2 倍高速になりました</title><link>https://www.xda-developers.com/ditched-claude-code-local-model-cloud-supervisor-twice-fast/</link><guid isPermaLink="true">https://www.xda-developers.com/ditched-claude-code-local-model-cloud-supervisor-twice-fast/</guid><pubDate>Tue, 28 Jul 2026 14:30:10 +0000</pubDate><description><![CDATA[<p>クロード コードを捨ててローカル モデルとクラウド スーパーバイザーを使用したところ、2 倍高速になりました
 
@@ -116,6 +351,7 @@ Neo Geo はその時代の象徴であり、アーケード ゲームを妥協�
 Neo Geo には、高解像度オーディオ専用の Zilog および Yamah…</p><p><img src="https://cdn.mos.cms.futurecdn.net/ieMvEpJNdDvLtTqSkA6vQg-2560-80.jpg" alt="Neo Geo AES+ レトロ コンソールは現在、249 ドルから予約注文できます。ゲーム カートリッジの価格は 1 つあたり 90 ドルです。すべてのゲームとアクセサリを備えた Ultimate Edition は 1,000 ドルです"></p>]]></description><source url="https://www.tomshardware.com/video-games/console-gaming/the-neo-geo-aes-retro-console-is-now-available-to-pre-order-starting-from-usd249-game-cartridges-cost-usd90-each-the-ultimate-edition-with-all-games-and-accessories-will-run-you-usd1-000">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/ieMvEpJNdDvLtTqSkA6vQg-2560-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/ieMvEpJNdDvLtTqSkA6vQg-2560-80.jpg"/></item>
 <item><title>(PR) Kioxia Announces NX1 Data Center NVMe E1.S SSDs</title><link>https://www.techpowerup.com/351144/kioxia-announces-nx1-data-center-nvme-e1-s-ssds</link><guid isPermaLink="true">https://www.techpowerup.com/351144/kioxia-announces-nx1-data-center-nvme-e1-s-ssds</guid><pubDate>Tue, 28 Jul 2026 13:49:46 +0000</pubDate><description><![CDATA[<p>(PR) Kioxia Announces NX1 Data Center NVMe E1.S SSDs</p>]]></description><source url="https://www.techpowerup.com/351144/kioxia-announces-nx1-data-center-nvme-e1-s-ssds">TechPowerUp</source></item>
 <item><title>(PR) Yunzii Launches C75 MAO Cake Kitten Wireless Mechanical Keyboard</title><link>https://www.techpowerup.com/351142/yunzii-launches-c75-mao-cake-kitten-wireless-mechanical-keyboard</link><guid isPermaLink="true">https://www.techpowerup.com/351142/yunzii-launches-c75-mao-cake-kitten-wireless-mechanical-keyboard</guid><pubDate>Tue, 28 Jul 2026 13:34:23 +0000</pubDate><description><![CDATA[<p>(PR) Yunzii Launches C75 MAO Cake Kitten Wireless Mechanical Keyboard</p>]]></description><source url="https://www.techpowerup.com/351142/yunzii-launches-c75-mao-cake-kitten-wireless-mechanical-keyboard">TechPowerUp</source></item>
+<item><title>World&#39;s first tri-mode 1300Hz gaming monitor and 12K ultrawide confirmed</title><link>https://www.tweaktown.com/rss/click/news/112881/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112881/?c=news-mf</guid><pubDate>Tue, 28 Jul 2026 13:30:10 +0000</pubDate><description><![CDATA[<p>World&#39;s first tri-mode 1300Hz gaming monitor and 12K ultrawide confirmed</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112881/?c=news-mf">TweakTown</source></item>
 <item><title>どのブラウザからでもアクセスできる独自のパーソナルクラウドを開発しました。とても気に入っています</title><link>https://www.xda-developers.com/i-rolled-my-own-personal-cloud-i-can-access-from-any-browser-and-i-love-it/</link><guid isPermaLink="true">https://www.xda-developers.com/i-rolled-my-own-personal-cloud-i-can-access-from-any-browser-and-i-love-it/</guid><pubDate>Tue, 28 Jul 2026 13:30:10 +0000</pubDate><description><![CDATA[<p>どのブラウザからでもアクセスできる独自のパーソナルクラウドを開発しました。とても気に入っています
 
 コンテナ化されたサービスの作業を容易にするクラウド OS
@@ -125,7 +361,6 @@ Neo Geo には、高解像度オーディオ専用の Zilog および Yamah…</
 By Joe Rice-Jones 公開 2026 年 7 月 28 日、午前 9 時 30 分 EDT メイカー、ミーム、そして恥ずかしがり屋のオタクであるジョーは、2018 年に KnowTechie でキャリアをスタートして以来、テクノロジーについて執筆してきました。彼は Apple からアプリ、クラウドファンディングまであらゆるものをカバーしており、複雑なトピックの本質に迫るのが大好きです。その間、彼は、2023 年の春に XDA に本拠地を置くまで、SlashGear や多数の法人顧客向けにも記事を書いていました。彼は、たとえ後で完全に元に戻らなかったとしても、すべてのおもちゃを分解して、どのように機能するかを確認する子供でした。これにより、複雑なシステムがどのように連携して機能するかを説明するための確かな背景が得られ、それ以来、物事を元に戻す段階でうまくなったと彼は約束します。 XDA アカウントにサインインする 誰もがパブリック クラウド サービスに依存したいわけではありません。特に、開発タスクに取り組んでいる場合や暗号化されたファイル転送が必要な場合はそうです。プライベート クラウドの実行は、セキュリティとデータの所有権に対するこのニーズを実現する 1 つの方法ですが、必要なすべての部分をセットアップするのは複雑です。そこでクラウド OS システムが登場します。インフラストラクチャが整備されているため、セットアップにかかる時間が短縮されますが、プロセス全体を通じてデータの所有権を維持できます。
 
 これをクラウド上のホーム ラボと考えれば、それほど遠くありません。 CasaOS は最もよく知られたオプションの 1 つです。しかし、私は別のシステム、HomeDockOS を使用しており、これまでに見たも…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/07/homedockos-laptop-2.JPEG?w=1600&amp;h=900&amp;fit=crop" alt="どのブラウザからでもアクセスできる独自のパーソナルクラウドを開発しました。とても気に入っています"></p>]]></description><source url="https://www.xda-developers.com/i-rolled-my-own-personal-cloud-i-can-access-from-any-browser-and-i-love-it/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/07/homedockos-laptop-2.JPEG?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/07/homedockos-laptop-2.JPEG?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>World&#39;s first tri-mode 1300Hz gaming monitor and 12K ultrawide confirmed</title><link>https://www.tweaktown.com/rss/click/news/112881/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112881/?c=news-mf</guid><pubDate>Tue, 28 Jul 2026 13:30:10 +0000</pubDate><description><![CDATA[<p>World&#39;s first tri-mode 1300Hz gaming monitor and 12K ultrawide confirmed</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112881/?c=news-mf">TweakTown</source></item>
 <item><title>すべてを自分で実行できるようになったら、ホーム ネットワークで Tailscale のサーバーを信頼するのはやめましょう</title><link>https://www.xda-developers.com/stop-trusting-tailscales-servers-with-your-home-network-when-you-can-run-the-whole-thing-yourself/</link><guid isPermaLink="true">https://www.xda-developers.com/stop-trusting-tailscales-servers-with-your-home-network-when-you-can-run-the-whole-thing-yourself/</guid><pubDate>Tue, 28 Jul 2026 12:00:10 +0000</pubDate><description><![CDATA[<p>すべてを自分で実行できるようになったら、ホーム ネットワークで Tailscale のサーバーを信頼するのはやめましょう
 
 ホーム ネットワークへのリモート アクセスを完全に制御することがかつてないほど簡単になりました
@@ -3013,21 +3248,6 @@ Windows 7、macOS 10.14.5 Mojave以降
 Windows 10 64 ビット、ARM 上の Windows、macOS 12 以降、または Linux 64 ビット
 
 Wi…</p><p><img src="https://cdn.mos.cms.futurecdn.net/XYHm7U5bXvPvzNzHYVvuxY-1920-80.jpg" alt="Minecraft のシステム要件が 17 年ぶりに引き上げられる - Microsoft は現在、Java Edition を実行するために 16GB の RAM と 2020 年代以降の CPU を推奨しています"></p>]]></description><source url="https://www.tomshardware.com/video-games/pc-gaming/minecraft-system-requirements-raised-for-the-first-time-in-17-years-microsoft-now-recommends-16gb-of-ram-and-a-2020s-or-newer-cpu-to-run-the-java-edition">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/XYHm7U5bXvPvzNzHYVvuxY-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/XYHm7U5bXvPvzNzHYVvuxY-1920-80.jpg"/></item>
-<item><title>3D プリントされた F-14 Tomcat は、「世界初のマイクロプロセッサ」を FPGA で再現したものを使用しています。CADC の MP944 チップは、戦闘機の旋回翼システムなどを制御しています</title><link>https://www.tomshardware.com/pc-components/cpus/3d-printed-f-14-tomcat-uses-an-fpga-recreation-of-the-worlds-first-microprocessor-cadcs-mp944-chip-controls-the-fighters-swing-wing-system-among-other-things</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/cpus/3d-printed-f-14-tomcat-uses-an-fpga-recreation-of-the-worlds-first-microprocessor-cadcs-mp944-chip-controls-the-fighters-swing-wing-system-among-other-things</guid><pubDate>Sun, 26 Jul 2026 12:05:00 +0000</pubDate><description><![CDATA[<p>3D プリントされた F-14 Tomcat は、「世界初のマイクロプロセッサ」を FPGA で再現したものを使用しています。CADC の MP944 チップは、戦闘機の旋回翼システムなどを制御しています
-
-オープン ソース リソースには、6 つのオリジナル CADC チップすべてのコード、ドキュメント、テストベンチが含まれています。
-
-3D プリントされた F-14 Tomcat は、「世界初のマイクロプロセッサ」を FPGA で再現したものを使用しています。CADC の MP944 チップは、戦闘機の旋回翼システムなどを制御しています
-
-オープン ソース リソースには、6 つのオリジナル CADC チップすべてのコード、ドキュメント、テストベンチが含まれています。
-
-(画像クレジット: Public Domain ) リンクをコピーして共有
-
-フォローしてください Google ニュースレターの優先ソースとして追加してください ニュースレターを購読してください FPGA と組み込みシステムの専門家であるアラン テイラーは、アメリカ海軍の F-14 トムキャットのセントラル エア データ コンピューター (CADC) を FPGA で再現しました。 CADC は、F14 の特徴的な多関節掃引翼システムの制御を含む、F14 の高度な戦闘機機能を支える頭脳であることで有名です。それでは、新しい FPGA をテストするには、F-14 Tomcat の 3D プリント スケール モデルよりも良い方法があるでしょうか?以下に埋め込まれたビデオをご覧ください。
-
-金曜日はデモの日です。私たちは F14 CADC を再作成しましたが、実際のスイング翼機能を使用してテストできることが正しいと考えました。そこで、最初のテストとして 3D プリントされた F14 を作成しました。 https://t.co/UUvebMIXei pic.twitter.com/3Mfcvo7Pnq 2026年7月24日
-
-私たちは昨年、このフライトコンピュータが実際に「世界初のマイクロプロセッサ」を搭載し…</p><p><img src="https://cdn.mos.cms.futurecdn.net/QUbvFrNvCfj7j5zK8joBGS-1920-80.jpg" alt="3D プリントされた F-14 Tomcat は、「世界初のマイクロプロセッサ」を FPGA で再現したものを使用しています。CADC の MP944 チップは、戦闘機の旋回翼システムなどを制御しています"></p>]]></description><source url="https://www.tomshardware.com/pc-components/cpus/3d-printed-f-14-tomcat-uses-an-fpga-recreation-of-the-worlds-first-microprocessor-cadcs-mp944-chip-controls-the-fighters-swing-wing-system-among-other-things">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/QUbvFrNvCfj7j5zK8joBGS-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/QUbvFrNvCfj7j5zK8joBGS-1920-80.jpg"/></item>
 <item><title>HP OmniBook X Flip 14 レビュー: プレミアムなデザイン、中程度のパフォーマンス</title><link>https://www.tomshardware.com/laptops/hp-omnibook-x-flip-14-review</link><guid isPermaLink="true">https://www.tomshardware.com/laptops/hp-omnibook-x-flip-14-review</guid><pubDate>Sun, 26 Jul 2026 12:05:00 +0000</pubDate><description><![CDATA[<p>HP OmniBook X Flip 14 レビュー: プレミアムなデザイン、中程度のパフォーマンス
 
 洗練されたハードウェアを備えたプレミアム コンバーチブルですが、その価格とパフォーマンスを正当化するのは困難です。
@@ -3045,6 +3265,21 @@ Tom&#39;s Hardware を信頼できる理由 当社の専門レビュー担当者
 HP OmniBook X Flip 14 のデザイン
 
 OmniBook X Flip 14 は、HP の最高の設計です。深みのあるエスプレッソ仕上げにより、ラップトップに豊かな、ほとんどエグゼクティブな雰囲気が与えられます。 (もう 1 色はアトモスフィア …</p><p><img src="https://cdn.mos.cms.futurecdn.net/Bs27aHWhxptKJiUxA3UfKX-1920-80.jpg" alt="HP OmniBook X Flip 14 レビュー: プレミアムなデザイン、中程度のパフォーマンス"></p>]]></description><source url="https://www.tomshardware.com/laptops/hp-omnibook-x-flip-14-review">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/Bs27aHWhxptKJiUxA3UfKX-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/Bs27aHWhxptKJiUxA3UfKX-1920-80.jpg"/></item>
+<item><title>3D プリントされた F-14 Tomcat は、「世界初のマイクロプロセッサ」を FPGA で再現したものを使用しています。CADC の MP944 チップは、戦闘機の旋回翼システムなどを制御しています</title><link>https://www.tomshardware.com/pc-components/cpus/3d-printed-f-14-tomcat-uses-an-fpga-recreation-of-the-worlds-first-microprocessor-cadcs-mp944-chip-controls-the-fighters-swing-wing-system-among-other-things</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/cpus/3d-printed-f-14-tomcat-uses-an-fpga-recreation-of-the-worlds-first-microprocessor-cadcs-mp944-chip-controls-the-fighters-swing-wing-system-among-other-things</guid><pubDate>Sun, 26 Jul 2026 12:05:00 +0000</pubDate><description><![CDATA[<p>3D プリントされた F-14 Tomcat は、「世界初のマイクロプロセッサ」を FPGA で再現したものを使用しています。CADC の MP944 チップは、戦闘機の旋回翼システムなどを制御しています
+
+オープン ソース リソースには、6 つのオリジナル CADC チップすべてのコード、ドキュメント、テストベンチが含まれています。
+
+3D プリントされた F-14 Tomcat は、「世界初のマイクロプロセッサ」を FPGA で再現したものを使用しています。CADC の MP944 チップは、戦闘機の旋回翼システムなどを制御しています
+
+オープン ソース リソースには、6 つのオリジナル CADC チップすべてのコード、ドキュメント、テストベンチが含まれています。
+
+(画像クレジット: Public Domain ) リンクをコピーして共有
+
+フォローしてください Google ニュースレターの優先ソースとして追加してください ニュースレターを購読してください FPGA と組み込みシステムの専門家であるアラン テイラーは、アメリカ海軍の F-14 トムキャットのセントラル エア データ コンピューター (CADC) を FPGA で再現しました。 CADC は、F14 の特徴的な多関節掃引翼システムの制御を含む、F14 の高度な戦闘機機能を支える頭脳であることで有名です。それでは、新しい FPGA をテストするには、F-14 Tomcat の 3D プリント スケール モデルよりも良い方法があるでしょうか?以下に埋め込まれたビデオをご覧ください。
+
+金曜日はデモの日です。私たちは F14 CADC を再作成しましたが、実際のスイング翼機能を使用してテストできることが正しいと考えました。そこで、最初のテストとして 3D プリントされた F14 を作成しました。 https://t.co/UUvebMIXei pic.twitter.com/3Mfcvo7Pnq 2026年7月24日
+
+私たちは昨年、このフライトコンピュータが実際に「世界初のマイクロプロセッサ」を搭載し…</p><p><img src="https://cdn.mos.cms.futurecdn.net/QUbvFrNvCfj7j5zK8joBGS-1920-80.jpg" alt="3D プリントされた F-14 Tomcat は、「世界初のマイクロプロセッサ」を FPGA で再現したものを使用しています。CADC の MP944 チップは、戦闘機の旋回翼システムなどを制御しています"></p>]]></description><source url="https://www.tomshardware.com/pc-components/cpus/3d-printed-f-14-tomcat-uses-an-fpga-recreation-of-the-worlds-first-microprocessor-cadcs-mp944-chip-controls-the-fighters-swing-wing-system-among-other-things">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/QUbvFrNvCfj7j5zK8joBGS-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/QUbvFrNvCfj7j5zK8joBGS-1920-80.jpg"/></item>
 <item><title>Warhorse Studios の商標が Kingdom Come マルチプレイヤー ゲームを示唆</title><link>https://www.kitguru.net/gaming/matthew-wilson/warhorse-studios-trademark-hints-at-kingdom-come-multiplayer-game/</link><guid isPermaLink="true">https://www.kitguru.net/gaming/matthew-wilson/warhorse-studios-trademark-hints-at-kingdom-come-multiplayer-game/</guid><pubDate>Sun, 26 Jul 2026 12:00:25 +0000</pubDate><description><![CDATA[<p>Warhorse Studios の商標が Kingdom Come マルチプレイヤー ゲームを示唆
 
 数か月前、Warhorse Studios は、新しいキングダムカム ゲームとロード オブ ザ リングのタイトルという 2 つの新しいプロジェクトに取り組んでいることを発表しました。ここで、Kingdom Come Salvation と呼ばれる次の Kingdom Come プロジェクトについて、もう少し詳しくわかりました。
@@ -4389,15 +4624,6 @@ Windows Sysinternals がすべて無料で行うのであれば、有料の Wind
 2026 年 8 月には、期待の高いフィクション、スリラー、ファンタジーのエキサイティングなラインナップが登場します。主なリリースには、クリス・ボージャリアン監督の法的スリラー『ザ・アマチュア』、身も凍るミステリー『ルビー・クーパーの真実』、カリン・スローター監督のスリラー『ザ・シークレット・ウィ・ハイド』などがある。
 
 Michael Kozlowski は、過去 18 年間、オーディオブック、電子書籍、電子書籍リーダーについて執筆してきました。彼はカナダのブリティッシュコロンビア州バンクーバーに住んでいます。</p><p><img src="https://media.goodereader.com/blog/uploads/images/2026/07/24193401/P1300249.jpg" alt="2026 年 8 月のベスト新刊 Kindle 本"></p>]]></description><source url="https://goodereader.com/blog/book-recommendations/the-best-new-kindle-books-for-august-2026">Good e-Reader</source><media:content url="https://media.goodereader.com/blog/uploads/images/2026/07/24193401/P1300249.jpg" medium="image"/><media:thumbnail url="https://media.goodereader.com/blog/uploads/images/2026/07/24193401/P1300249.jpg"/></item>
-<item><title>Nvidia の新しいミッドレンジ税を支払うよりも、中古の RTX 4080 を購入したいです</title><link>https://www.xda-developers.com/i-would-rather-buy-used-rtx-4080-than-pay-nvidias-new-midrange-tax/</link><guid isPermaLink="true">https://www.xda-developers.com/i-would-rather-buy-used-rtx-4080-than-pay-nvidias-new-midrange-tax/</guid><pubDate>Fri, 24 Jul 2026 23:00:10 +0000</pubDate><description><![CDATA[<p>Nvidia の新しいミッドレンジ税を支払うよりも、中古の RTX 4080 を購入したいです
-
-偽のフレームを超えた生のパフォーマンスをいつでも。
-
-Nvidia の新しいミッドレンジ税を支払うよりも、中古の RTX 4080 を購入したいです
-
-Hamlin Rozario 著 2026 年 7 月 24 日午後 7 時 EDT 公開 ハムリンはテクノロジー分野に 9 年以上携わっています。 2017 年以来、彼の作品は MakeUseOf 、Android Police 、OSXDaily、Beebom などに掲載されています。 XDA に入社する前は、Valnet の MakeUseOf で上級編集者を 2 年以上務めました。彼はデスクトップ用にハイエンドのゲーム機を使用し、旅行用に MacBook を使用していますが、macOS のいくつかの癖が嫌いです。他のどこよりもジムや飛行機の中で彼に出会う可能性が高くなります。 XDA アカウントにサインインする 4 年近く前に RTX 4090 を購入したとき、GPU 市場は現在よりもはるかに良い状況にありました。実際には、メーカー希望小売価格に近いグラフィックス カードを購入することもできます。実際、私は水冷 RTX 4090 を約 2,000 ドルで手に入れることができました。今考えると、3,000 ドル以下で出品されているものが 1 つも見つからなかったことを考えると、これはお買い得に見えます。これは、生産終了したことも理由の 1 つですが、ここ数年 AI 需要が GPU 価格に与えた影響も無視できません。
-
-現在、この記事を書いている時点では、RTX 5070 Ti のようなミッドレンジ GPU に 1,000 ドル以上を支払うことになるでしょう。 RTX 5080 のようなハイエンド モデルの価格は 1,500 ドルにもなり、フラッグシップの RTX 5090 は 4,000 ドルを超える場合があります。私は RTX 4090 からアップグレードするためにそのような価格を支払うつもりはありませんが、まだ G…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/rtx-4090-inside-pc.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Nvidia の新しいミッドレンジ税を支払うよりも、中古の RTX 4080 を購入したいです"></p>]]></description><source url="https://www.xda-developers.com/i-would-rather-buy-used-rtx-4080-than-pay-nvidias-new-midrange-tax/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/rtx-4090-inside-pc.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/rtx-4090-inside-pc.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>ハンズフリーマウスは目と筋肉を代わりに使用します</title><link>https://hackaday.com/2026/07/24/hands-free-mouse-uses-eyes-and-muscles-instead/</link><guid isPermaLink="true">https://hackaday.com/2026/07/24/hands-free-mouse-uses-eyes-and-muscles-instead/</guid><pubDate>Fri, 24 Jul 2026 23:00:10 +0000</pubDate><description><![CDATA[<p>ハンズフリーマウスは目と筋肉を代わりに使用します
 
 標準のコンピュータ マウスは、手が使える場合には非常に便利な周辺機器です。 この分野で問題が発生した場合は、代替の入力ソリューションが役立つかもしれません。そのために、[Var…
@@ -4407,6 +4633,15 @@ Hamlin Rozario 著 2026 年 7 月 24 日午後 7 時 EDT 公開 ハムリンは�
 このビルドは、Feather フォーム ファクターで生理学的信号取得用に構築されたボードである Neuro PlayGround Lite に基づいています。これは、MPU6050 または BMI270 の両方で動作する IMU センサーに接続されており、頭の動きを追跡して、カーソルを画面上でパンできるようにします。次に、他の生物学的シグナルを使用して、他の標準的なマウス機能を活性化します。顎を噛み締めると左クリックが発生し、3 回まばたきすると右クリックが発生します。クリックとドラッグは 2 回点滅することで実行されます。顎の筋肉は、皮膚上のゲル電極で取得されたEMG信号によって感知され、まばたきは同じ接触点を介したEOG信号によって検出されます。
 
 この分野の商用ソリューションは存在しますが、そのようなデバイスを一から構築できる方法を見るのは素晴らしいことです。私たちは以前、ヘッドトラッキングの他の優れたアプリケーションについても検討しました。独自の革新的なアクセシビリティ ツールに取り組んでいる場合は、ヒントラインを通じて遠慮なくお知らせください。</p><p><img src="https://hackaday.com/wp-content/uploads/2026/07/Screenshot-2026-07-24-160442-e1784873243254.png" alt="ハンズフリーマウスは目と筋肉を代わりに使用します"></p>]]></description><source url="https://hackaday.com/2026/07/24/hands-free-mouse-uses-eyes-and-muscles-instead/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/07/Screenshot-2026-07-24-160442-e1784873243254.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/07/Screenshot-2026-07-24-160442-e1784873243254.png"/></item>
+<item><title>Nvidia の新しいミッドレンジ税を支払うよりも、中古の RTX 4080 を購入したいです</title><link>https://www.xda-developers.com/i-would-rather-buy-used-rtx-4080-than-pay-nvidias-new-midrange-tax/</link><guid isPermaLink="true">https://www.xda-developers.com/i-would-rather-buy-used-rtx-4080-than-pay-nvidias-new-midrange-tax/</guid><pubDate>Fri, 24 Jul 2026 23:00:10 +0000</pubDate><description><![CDATA[<p>Nvidia の新しいミッドレンジ税を支払うよりも、中古の RTX 4080 を購入したいです
+
+偽のフレームを超えた生のパフォーマンスをいつでも。
+
+Nvidia の新しいミッドレンジ税を支払うよりも、中古の RTX 4080 を購入したいです
+
+Hamlin Rozario 著 2026 年 7 月 24 日午後 7 時 EDT 公開 ハムリンはテクノロジー分野に 9 年以上携わっています。 2017 年以来、彼の作品は MakeUseOf 、Android Police 、OSXDaily、Beebom などに掲載されています。 XDA に入社する前は、Valnet の MakeUseOf で上級編集者を 2 年以上務めました。彼はデスクトップ用にハイエンドのゲーム機を使用し、旅行用に MacBook を使用していますが、macOS のいくつかの癖が嫌いです。他のどこよりもジムや飛行機の中で彼に出会う可能性が高くなります。 XDA アカウントにサインインする 4 年近く前に RTX 4090 を購入したとき、GPU 市場は現在よりもはるかに良い状況にありました。実際には、メーカー希望小売価格に近いグラフィックス カードを購入することもできます。実際、私は水冷 RTX 4090 を約 2,000 ドルで手に入れることができました。今考えると、3,000 ドル以下で出品されているものが 1 つも見つからなかったことを考えると、これはお買い得に見えます。これは、生産終了したことも理由の 1 つですが、ここ数年 AI 需要が GPU 価格に与えた影響も無視できません。
+
+現在、この記事を書いている時点では、RTX 5070 Ti のようなミッドレンジ GPU に 1,000 ドル以上を支払うことになるでしょう。 RTX 5080 のようなハイエンド モデルの価格は 1,500 ドルにもなり、フラッグシップの RTX 5090 は 4,000 ドルを超える場合があります。私は RTX 4090 からアップグレードするためにそのような価格を支払うつもりはありませんが、まだ G…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/rtx-4090-inside-pc.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Nvidia の新しいミッドレンジ税を支払うよりも、中古の RTX 4080 を購入したいです"></p>]]></description><source url="https://www.xda-developers.com/i-would-rather-buy-used-rtx-4080-than-pay-nvidias-new-midrange-tax/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/rtx-4090-inside-pc.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/rtx-4090-inside-pc.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>OneNote の代替ツールをすべてテストした結果、データを信頼できるのはこの自己ホスト型ツールだけです</title><link>https://www.xda-developers.com/tested-every-onenote-alternative-self-hosted-tool-is-only-one-i-trust-with-my-data/</link><guid isPermaLink="true">https://www.xda-developers.com/tested-every-onenote-alternative-self-hosted-tool-is-only-one-i-trust-with-my-data/</guid><pubDate>Fri, 24 Jul 2026 22:00:10 +0000</pubDate><description><![CDATA[<p>OneNote の代替ツールをすべてテストした結果、データを信頼できるのはこの自己ホスト型ツールだけです
 
 Docker コマンドを 1 つ実行した後、クラウド メモ アプリを諦めました
@@ -4903,10 +5138,10 @@ BOOX の他の電子書籍リーダーは Android ベースで、Play ストア�
 Home Assistant は静かに Matter サーバーを Python から TypeScript に書き換えました - 何が変わったかは次のとおりです
 
 By Joe Rice-Jones Published Jul 24, 2026, 1:30 PM EDT Maker、meme-r、そして恥ずかしがり屋のオタクである Joe は、2018 年に KnowTechie でキャリアをスタートして以来、テクノロジーについて執筆してきました。彼は Apple からアプリ、クラウドファンディングまであらゆるものをカバーしており、複雑なトピックの本質に迫るのが大好きです。その間、彼は、2023 年の春に XDA に本拠地を置くまで、SlashGear や多数の法人顧客向けにも記事を書いていました。彼は、たとえ後で完全に元に戻らなかったとしても、すべてのおもちゃを分解して、どのように機能するかを確認する子供でした。これにより、複雑なシステムがどのように連携して機能するかを説明するための確かな背景が得られ、それ以来、物事を元に戻す段階でうまくなったと彼は約束します。 XDA アカウントにサインインします。最初は気づかなかったことを認めます。 Matter デバイスは動作し続け、Home Assistant ダッシュボードには正しい状態が表示され続け、ログには注意を促すような内容は何もありませんでした。しかし、その内部では、Home Assistant は最も重要なコンポーネントの 1 つを交換しています。スマート ホームとネットワーク上のすべての Matter デバイスの間にある Matter サーバーは、ゼロから書き直され、公式 C++ CHIP SDK を介した Python バインディングから、Matter プロトコル全体の…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/matter-server-home-assistant-on-eink-device-2.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Home Assistant は静かに Matter サーバーを Python から TypeScript に書き換えました - 何が変わったかは次のとおりです"></p>]]></description><source url="https://www.xda-developers.com/home-assistant-quietly-rewrote-its-matter-server-from-python-to-typescript-heres-what-changed/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/matter-server-home-assistant-on-eink-device-2.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/matter-server-home-assistant-on-eink-device-2.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>Blizzard fires World of Warcraft game master for abusing god-like powers</title><link>https://www.tweaktown.com/news/112822/blizzard-fires-world-of-warcraft-game-master-for-abusing-god-like-powers/index.html</link><guid isPermaLink="true">https://www.tweaktown.com/news/112822/blizzard-fires-world-of-warcraft-game-master-for-abusing-god-like-powers/index.html</guid><pubDate>Fri, 24 Jul 2026 17:29:09 +0000</pubDate><description><![CDATA[<p>Blizzard fires World of Warcraft game master for abusing god-like powers</p>]]></description><source url="https://www.tweaktown.com/news/112822/blizzard-fires-world-of-warcraft-game-master-for-abusing-god-like-powers/index.html">TweakTown</source></item>
 <item><title>Blizzard fires World of Warcraft game master for abusing god-like powers</title><link>https://www.tweaktown.com/rss/click/news/112822/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112822/?c=news-mf</guid><pubDate>Fri, 24 Jul 2026 17:29:09 +0000</pubDate><description><![CDATA[<p>Blizzard fires World of Warcraft game master for abusing god-like powers</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112822/?c=news-mf">TweakTown</source></item>
-<item><title>GIGABYTE adds CXMT DDR5 support to AM5 motherboards, supporting speeds up to 8200 MT/s</title><link>https://www.tweaktown.com/rss/click/news/112825/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112825/?c=news-mf</guid><pubDate>Fri, 24 Jul 2026 17:05:10 +0000</pubDate><description><![CDATA[<p>GIGABYTE adds CXMT DDR5 support to AM5 motherboards, supporting speeds up to 8200 MT/s</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112825/?c=news-mf">TweakTown</source></item>
+<item><title>Blizzard fires World of Warcraft game master for abusing god-like powers</title><link>https://www.tweaktown.com/news/112822/blizzard-fires-world-of-warcraft-game-master-for-abusing-god-like-powers/index.html</link><guid isPermaLink="true">https://www.tweaktown.com/news/112822/blizzard-fires-world-of-warcraft-game-master-for-abusing-god-like-powers/index.html</guid><pubDate>Fri, 24 Jul 2026 17:29:09 +0000</pubDate><description><![CDATA[<p>Blizzard fires World of Warcraft game master for abusing god-like powers</p>]]></description><source url="https://www.tweaktown.com/news/112822/blizzard-fires-world-of-warcraft-game-master-for-abusing-god-like-powers/index.html">TweakTown</source></item>
 <item><title>GIGABYTE adds CXMT DDR5 support to AM5 motherboards, supporting speeds up to 8200 MT/s</title><link>https://www.tweaktown.com/news/112825/gigabyte-adds-cxmt-ddr5-support-to-am5-motherboards-supporting-speeds-up-to-8200-mt-s/index.html</link><guid isPermaLink="true">https://www.tweaktown.com/news/112825/gigabyte-adds-cxmt-ddr5-support-to-am5-motherboards-supporting-speeds-up-to-8200-mt-s/index.html</guid><pubDate>Fri, 24 Jul 2026 17:05:10 +0000</pubDate><description><![CDATA[<p>GIGABYTE adds CXMT DDR5 support to AM5 motherboards, supporting speeds up to 8200 MT/s</p>]]></description><source url="https://www.tweaktown.com/news/112825/gigabyte-adds-cxmt-ddr5-support-to-am5-motherboards-supporting-speeds-up-to-8200-mt-s/index.html">TweakTown</source></item>
+<item><title>GIGABYTE adds CXMT DDR5 support to AM5 motherboards, supporting speeds up to 8200 MT/s</title><link>https://www.tweaktown.com/rss/click/news/112825/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112825/?c=news-mf</guid><pubDate>Fri, 24 Jul 2026 17:05:10 +0000</pubDate><description><![CDATA[<p>GIGABYTE adds CXMT DDR5 support to AM5 motherboards, supporting speeds up to 8200 MT/s</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112825/?c=news-mf">TweakTown</source></item>
 <item><title>この 330 ドルの Acer QD-OLED モニターは、実際に誇大宣伝を正当化するゲーム用アップグレードです</title><link>https://www.xda-developers.com/acer-predator-qd-oled-gaming-monitor-330-deal/</link><guid isPermaLink="true">https://www.xda-developers.com/acer-predator-qd-oled-gaming-monitor-330-deal/</guid><pubDate>Fri, 24 Jul 2026 17:01:47 +0000</pubDate><description><![CDATA[<p>この 330 ドルの Acer QD-OLED モニターは、実際に誇大宣伝を正当化するゲーム用アップグレードです
 
 大幅な後押し
@@ -5162,6 +5397,25 @@ Glorious がデュアルバッテリーシステムを搭載した GHS Wireless 
 João Silva 45分前 ゼネラルテック
 
 Glorious は、新しく発表された GHS Wireless InfinitePlay でヘッドセット市場での存在感を拡大しています。これは、2 つのホットスワップ可能な 85 時間以上のバッテリー パックと内蔵バックアップ バッテリーを介して連続使用できるように設計されたワイヤレス ゲーミング ヘッドセットです。 GHS Wireless InfinitePlay が交換中に切断されるのを防ぐために、同社は内部に Guardian Battery System を組み込んでいます。この内蔵バッテリーは、メイン パックを交換する場合でも、ヘッドセットのみで 3 時間以上電力を供給し続けます。オーディオのパフォーマンスは、カスタム調整された 40mm 角度ドライバーによって駆動され、Glorious はこれを人間の耳の位置に合わせて空間認識と音の分離を向上させると主張しています。通信用に、ヘッドセットには環境ノイズキャンセリング機能を備えた取り外し可能なブームマイクと、携帯電話通話用の統合型イヤーカップマイクが搭載されています。接続は PC、PS5、PS4、Nintendo Switch の 2.4GHz ワイヤレスをカバーし、Bluetooth はモバイル オーディオを処理します。ユーザーは、専用のオンイヤー コントロールを使用してワイヤレ…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/07/GLO-A-5PC-BLK_Web_Gallery_1-732x330.jpg" alt="Glorious がデュアルバッテリーシステムを搭載した GHS Wireless InfinitePlay ヘッドセットを発表"></p>]]></description><source url="https://www.kitguru.net/channel/generaltech/joao-silva/glorious-unveils-ghs-wireless-infiniteplay-headset-with-dual-battery-system/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/07/GLO-A-5PC-BLK_Web_Gallery_1-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/07/GLO-A-5PC-BLK_Web_Gallery_1-732x330.jpg"/></item>
+<item><title>Microsoft アカウントの問題により一部のプレイヤーがロックアウトされ、Halo: Campaign Evolved が発売前にクラックされる</title><link>https://www.techpowerup.com/351060/halo-campaign-evolved-cracked-before-launch-as-microsoft-account-issues-leave-some-players-locked-out</link><guid isPermaLink="true">https://www.techpowerup.com/351060/halo-campaign-evolved-cracked-before-launch-as-microsoft-account-issues-leave-some-players-locked-out</guid><pubDate>Fri, 24 Jul 2026 15:00:25 +0000</pubDate><description><![CDATA[<p>Microsoft アカウントの問題により一部のプレイヤーがロックアウトされ、Halo: Campaign Evolved が発売前にクラックされる
+
+Halo: Campaign Evolved ゲームは、正式リリースのわずか 4 日前にクラックされました。ハッカーのグループは、自分たちのバージョンは Microsoft や Steam アカウントを必要とせずに Windows 上でスムーズに動作すると主張しています。 Xbox Game Studios 傘下の Halo Studios によって開発されたこのゲームは、Microsoft の DRM によって保護されていました。
+
+Microsoft アカウントの問題により一部のプレイヤーがロックアウトされ、Halo: Campaign Evolved が発売前にクラックされる
+
+2025 年 8 月 18 日 Microsoft Windows 11 24H2 アップデートにより SSD 障害が発生する可能性がある (278)
+
+2025 年 10 月 21 日 Windows 11 25H2 October Update のバグにより回復環境が使用不能になる (170)
+
+2025 年 10 月 17 日 Microsoft が Windows 11 October Update で Localhost を破壊し、ユーザーは強制的に元に戻される (105)
+
+2025 年 10 月 1 日 Microsoft が Windows 11 25H2 をリリース…新機能はゼロ？ (122)
+
+2025 年 12 月 14 日 Microsoft Copilot AI が LG TV に搭載、削除できない (144)
+
+2025 年 10 月 7 日 Microsoft が Windows 11 でのオンライン アカウント バイパスをブロック (162)
+
+2026 年 5 月 1 日 Microsoft は、Windows 11 の「心配しない」アップグレードとして 32 GB RAM を推奨するようになりました (1…</p><p><img src="https://www.techpowerup.com/img/zw0qg3w0DnMe8Dep.jpg" alt="Microsoft アカウントの問題により一部のプレイヤーがロックアウトされ、Halo: Campaign Evolved が発売前にクラックされる"></p>]]></description><source url="https://www.techpowerup.com/351060/halo-campaign-evolved-cracked-before-launch-as-microsoft-account-issues-leave-some-players-locked-out">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/zw0qg3w0DnMe8Dep.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/zw0qg3w0DnMe8Dep.jpg"/></item>
 <item><title>Halo: キャンペーンが進化 - 有料プレイヤーが Microsoft アカウントのリンクと格闘し、ローンチ前にクラックされる</title><link>https://www.techpowerup.com/351060/halo-campaign-evolved-cracked-before-launch-as-paying-players-fight-microsoft-account-linking</link><guid isPermaLink="true">https://www.techpowerup.com/351060/halo-campaign-evolved-cracked-before-launch-as-paying-players-fight-microsoft-account-linking</guid><pubDate>Fri, 24 Jul 2026 15:00:25 +0000</pubDate><description><![CDATA[<p>Halo: キャンペーンが進化 - 有料プレイヤーが Microsoft アカウントのリンクと格闘し、ローンチ前にクラックされる
 
 Halo: Campaign Evolved ゲームは、正式リリースのわずか 4 日前にクラックされました。ハッカーのグループは、自分たちのバージョンは Microsoft や Steam アカウントを必要とせずに Windows 上でスムーズに動作すると主張しています。 Xbox Game Studios 傘下の Halo Studios によって開発されたこのゲームは、Microsoft の DRM によって保護されていました。
@@ -5183,25 +5437,6 @@ Halo: キャンペーンが進化 - 有料プレイヤーが Microsoft アカウ
 2026 年 5 月 1 日 Microsoft は、Windows 11 の「心配しない」アップグレードとして 32 GB RAM を推奨するようになりました (147)
 
 2026 年 4 月 28 日…</p><p><img src="https://www.techpowerup.com/img/zw0qg3w0DnMe8Dep.jpg" alt="Halo: キャンペーンが進化 - 有料プレイヤーが Microsoft アカウントのリンクと格闘し、ローンチ前にクラックされる"></p>]]></description><source url="https://www.techpowerup.com/351060/halo-campaign-evolved-cracked-before-launch-as-paying-players-fight-microsoft-account-linking">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/zw0qg3w0DnMe8Dep.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/zw0qg3w0DnMe8Dep.jpg"/></item>
-<item><title>Microsoft アカウントの問題により一部のプレイヤーがロックアウトされ、Halo: Campaign Evolved が発売前にクラックされる</title><link>https://www.techpowerup.com/351060/halo-campaign-evolved-cracked-before-launch-as-microsoft-account-issues-leave-some-players-locked-out</link><guid isPermaLink="true">https://www.techpowerup.com/351060/halo-campaign-evolved-cracked-before-launch-as-microsoft-account-issues-leave-some-players-locked-out</guid><pubDate>Fri, 24 Jul 2026 15:00:25 +0000</pubDate><description><![CDATA[<p>Microsoft アカウントの問題により一部のプレイヤーがロックアウトされ、Halo: Campaign Evolved が発売前にクラックされる
-
-Halo: Campaign Evolved ゲームは、正式リリースのわずか 4 日前にクラックされました。ハッカーのグループは、自分たちのバージョンは Microsoft や Steam アカウントを必要とせずに Windows 上でスムーズに動作すると主張しています。 Xbox Game Studios 傘下の Halo Studios によって開発されたこのゲームは、Microsoft の DRM によって保護されていました。
-
-Microsoft アカウントの問題により一部のプレイヤーがロックアウトされ、Halo: Campaign Evolved が発売前にクラックされる
-
-2025 年 8 月 18 日 Microsoft Windows 11 24H2 アップデートにより SSD 障害が発生する可能性がある (278)
-
-2025 年 10 月 21 日 Windows 11 25H2 October Update のバグにより回復環境が使用不能になる (170)
-
-2025 年 10 月 17 日 Microsoft が Windows 11 October Update で Localhost を破壊し、ユーザーは強制的に元に戻される (105)
-
-2025 年 10 月 1 日 Microsoft が Windows 11 25H2 をリリース…新機能はゼロ？ (122)
-
-2025 年 12 月 14 日 Microsoft Copilot AI が LG TV に搭載、削除できない (144)
-
-2025 年 10 月 7 日 Microsoft が Windows 11 でのオンライン アカウント バイパスをブロック (162)
-
-2026 年 5 月 1 日 Microsoft は、Windows 11 の「心配しない」アップグレードとして 32 GB RAM を推奨するようになりました (1…</p><p><img src="https://www.techpowerup.com/img/zw0qg3w0DnMe8Dep.jpg" alt="Microsoft アカウントの問題により一部のプレイヤーがロックアウトされ、Halo: Campaign Evolved が発売前にクラックされる"></p>]]></description><source url="https://www.techpowerup.com/351060/halo-campaign-evolved-cracked-before-launch-as-microsoft-account-issues-leave-some-players-locked-out">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/zw0qg3w0DnMe8Dep.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/zw0qg3w0DnMe8Dep.jpg"/></item>
 <item><title>私の 3D プリンターは、D&amp;D テーブルを静的なマップから機能的なゲーム メカニクスに変換しました。</title><link>https://www.xda-developers.com/my-3d-printer-turned-my-dd-table-into-functional-game-mechanics/</link><guid isPermaLink="true">https://www.xda-developers.com/my-3d-printer-turned-my-dd-table-into-functional-game-mechanics/</guid><pubDate>Fri, 24 Jul 2026 15:00:10 +0000</pubDate><description><![CDATA[<p>私の 3D プリンターは、D&amp;D テーブルを静的なマップから機能的なゲーム メカニクスに変換しました。
 
 それは私の D&amp;D キャンペーンの最も重要な部分になりました
@@ -5991,261 +6226,4 @@ AMD、Zen 6「Venice」の発売に続き、2028年までのCPUアーキテク�
 AMDの最高経営責任者リサ・スー氏は、「2028年にフローレンスを導入する予定だ」と語った。 「フローレンスは、次世代の Zen 7 コアとその最先端のプロセス テクノロジを提供します。これは、すべての AI 機能を確実に提供するための新しい AI コンピューティング拡張機能のセットであり、最新のメモリ テクノロジをサポートしています。」
 
 Su氏は、（Zen 7）フローレンスで計画されているプロセス技術、コア数、メモリサブシステム、AI拡張などの具体的な詳細については明らかにしなかった。ただし、Florence はスタンドアロンのプロセッサ ファミリではなく、さまざまな AI ワークロード用に Ferrara AI ホスト ノードと Faenza Agentic Sandbox が加わることになると彼女は述べました。 AMDは、このアプローチにより、サーバー…</p><p><img src="https://cdn.mos.cms.futurecdn.net/b6AWuqaDHTv9ZS4ZpfqZNV-1280-80.png" alt="AMD、Zen 6「Venice」の発売に続き、2028年までのCPUアーキテクチャのロードマップを明らかに — Zen 7「Florence」は多様な製品ファミリーとともに2028年にデビューし、Zen 8「Ravenna」が開発中であることを確認"></p>]]></description><source url="https://www.tomshardware.com/pc-components/cpus/amd-reveals-cpu-architecture-roadmap-through-2028-following-zen-6-venice-launch-zen-7-florence-to-debut-in-2028-alongside-diversified-product-family-confirms-zen-8-ravenna-in-development">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/b6AWuqaDHTv9ZS4ZpfqZNV-1280-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/b6AWuqaDHTv9ZS4ZpfqZNV-1280-80.png"/></item>
-<item><title>ユービーアイソフトCEO、プレイステーションディスクの印刷を中止するソニーの決定についてコメント</title><link>https://www.kitguru.net/tech-news/mustafa-mahmoud/ubisoft-ceo-comments-on-sonys-decision-to-stop-printing-playstation-discs/</link><guid isPermaLink="true">https://www.kitguru.net/tech-news/mustafa-mahmoud/ubisoft-ceo-comments-on-sonys-decision-to-stop-printing-playstation-discs/</guid><pubDate>Fri, 24 Jul 2026 09:15:53 +0000</pubDate><description><![CDATA[<p>ユービーアイソフトCEO、プレイステーションディスクの印刷を中止するソニーの決定についてコメント
-
-ユービーアイソフトは現在、プレイステーションディスクの印刷を中止するというソニーの決定についてコメントし、「業界をそれほど混乱させることはないと考えている」と主張している。
-
-ユービーアイソフトCEO、プレイステーションディスクの印刷を中止するソニーの決定についてコメント
-
-Mustafa Mahmoud 20 分前 コンソール , 注目の技術ニュース , ソフトウェアとゲーム , 技術ニュース
-
-今年最大のニュースの 1 つは、間違いなく、2028 年以降 PlayStation の物理ディスクの印刷を行わないというソニーの発表です。これはファンや一般消費者からすぐに反発を受けたが、一部のゲームパブリッシャーはかなり異なる状況を描いており、Ubisoft CEOのYves Guillemot氏は「業界をそれほど混乱させることはないと考えている」と主張している。ユービーアイソフトの最近の四半期投資家向け電話会議で、ユービーアイソフトのイブ・ギルモ最高経営責任者（CEO）は、2028年までに物理ディスク印刷を廃止するというソニーの最近の発表についての見解を求められた。この件に関してやや不評な立場を示しながら、ギルモ氏は次のように主張した（PCGamerによる転写）。デジタルのみにできることは、マシンをよりアクセスしやすくするのに役立ちます。プラスもあればマイナスもありますが、業界をそれほど混乱させることはないと考えています。」ユービーアイソフトとデジタル メディアの関係は興味深いものです。多くのパブリッシャーとは異なり、Ubisoft は自社のゲームの多くを定期的に大幅な割引を提供することに積極的であるため、デジタル限定リリースの一面はおそらく少しは心配しないようになっています。同時に、小売店でのこれらの物理的なゲームの割引も、デジタル タイトルでも同様のセールを提供するという決定に寄与している可能性が高く、これは少し鶏が先か卵が先かという状況です。いずれにせよ、Ubiso…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/07/ubi-732x330.jpg" alt="ユービーアイソフトCEO、プレイステーションディスクの印刷を中止するソニーの決定についてコメント"></p>]]></description><source url="https://www.kitguru.net/tech-news/mustafa-mahmoud/ubisoft-ceo-comments-on-sonys-decision-to-stop-printing-playstation-discs/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/07/ubi-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/07/ubi-732x330.jpg"/></item>
-<item><title>インテル、再確認: マルチスレッドが 2028 年に「Coral Rapids」で復活</title><link>https://www.techpowerup.com/351049/intel-reaffirms-multithreading-returns-in-2028-with-coral-rapids</link><guid isPermaLink="true">https://www.techpowerup.com/351049/intel-reaffirms-multithreading-returns-in-2028-with-coral-rapids</guid><pubDate>Fri, 24 Jul 2026 09:03:50 +0000</pubDate><description><![CDATA[<p>インテル、再確認: マルチスレッドが 2028 年に「Coral Rapids」で復活
-
-近年、Intel は CPU コア設計において従来のマルチスレッド化から移行しています。この変更は、Intel がハイパー スレッディングから離れ始めた第 12 世代 Core CPU から始まりました。同時に、同社は非対称 CPU 設計に移行し、当初は SMT のみを可能にしました...
-
-インテル、再確認: マルチスレッドが 2028 年に「Coral Rapids」で復活
-
-Intel CEO Lip-Bu Tan クリアウォーター フォレスト、ダイアモンド ラピッズ、そして SMT が関与するコーラル ラピッズもあります。今後も競合他社に対する競争力の向上に努めていきたいと考えております。シングルスレッドとマルチスレッドの改善を推進することが非常に重要であることは明らかです。 Coral Rapids ではマルチスレッドが導入される予定です。
-
-2025 年 7 月 24 日 Intel「Nova Lake-S」コア Ultra 3、Ultra 5、Ultra 7、および Ultra 9 コア構成 Surface (118)
-
-2025 年 9 月 18 日 NVIDIA がインテルを 50 億ドル相当で買収、RTX iGPU が x86 に登場、株価は 25% 上昇 (256)
-
-2026 年 7 月 3 日 インテル、ゲーム向けに 108 MB bLLC キャッシュを備えた 2 つの 22 コア「Nova Lake-S」SKU を準備 (279)
-
-2026 年 1 月 23 日 インテル Core Ultra シリーズ 4 「Nova Lake」プロセッサーが 2026 年後半に発売 (62)
-
-2026 年 6 月 26 日 インテル「Nova Lake-S」52 コア OC SKU が PL2 モードで 474 W を消費 (291)
-
-2026 年 6 月 16 日 Intel 14A が試作前に目覚ましいマイルストーンを達成 (5)
-
-2025 年 12 月 …</p><p><img src="https://www.techpowerup.com/img/jGL3JHTWPdisrOW8.jpg" alt="インテル、再確認: マルチスレッドが 2028 年に「Coral Rapids」で復活"></p>]]></description><source url="https://www.techpowerup.com/351049/intel-reaffirms-multithreading-returns-in-2028-with-coral-rapids">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/jGL3JHTWPdisrOW8.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/jGL3JHTWPdisrOW8.jpg"/></item>
-<item><title>Qualcomm の新しい Snapdragon Wear Elite チップは、Galaxy Watch Ultra 2 のバッテリーの増加を打ち消しましたか?</title><link>https://www.androidauthority.com/samsung-galaxy-watch-9-ultra-2-battery-life-concerns-3690714/</link><guid isPermaLink="true">https://www.androidauthority.com/samsung-galaxy-watch-9-ultra-2-battery-life-concerns-3690714/</guid><pubDate>Fri, 24 Jul 2026 09:02:01 +0000</pubDate><description><![CDATA[<p>Qualcomm の新しい Snapdragon Wear Elite チップは、Galaxy Watch Ultra 2 のバッテリーの増加を打ち消しましたか?
-
-Samsung の Galaxy Watch Ultra 2 は 800mAh バッテリーと新しい Snapdragon チップを搭載していますが、バッテリー寿命の主張は変わりません。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Qualcomm の新しい Snapdragon Wear Elite チップは、Galaxy Watch Ultra 2 のバッテリーの増加を打ち消しましたか?
-
-0 • Zac Kew-Denniss / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Samsung は、Qualcomm の Snapdragon Wear Elite チップと大容量 800mAh バッテリー (590mAh から 35% 増加) を搭載した Galaxy Watch Ultra 2 を発表しましたが、公式推定では依然としてオリジナルの Watch Ultra モデルと同じ「常時表示で最大 60 時間」とされています。
-
-Galaxy Watch 9モデルもバッテリーサイズを増やし、Exynos W1000からSnapdragon Wear Eliteに切り替えましたが、サムスンは両世代にわたって常時表示なしで最大40時間の実行時間を見積もっています。
-
-Wear OS 7 の効率向上とバッテリーの大型化にもかかわらずランタイムの向上が見られないのは、より明るい 5,000 nit ディスプレイ、プロセッサ効率の低下、または単に時代遅れのマーケティング仕様などの電力消費が原因である可能性があります。
-
-サムスンは最新のUnpackedイベントでGalaxy Watch Ultra 2を正式に発表し、大容量800mAhバッテリー…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/07/galaxy-watch-8-classic-watch-ultra-2-scaled.jpeg" alt="Qualcomm の新しい Snapdragon Wear Elite チップは、Galaxy Watch Ultra 2 のバッテリーの増加を打ち消しましたか?"></p>]]></description><source url="https://www.androidauthority.com/samsung-galaxy-watch-9-ultra-2-battery-life-concerns-3690714/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/07/galaxy-watch-8-classic-watch-ultra-2-scaled.jpeg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/07/galaxy-watch-8-classic-watch-ultra-2-scaled.jpeg"/></item>
-<item><title>1,200 ドルの Z Flip 8 は、300 ドルの Android スマートフォンよりも充電が遅く、それはまったく恥ずかしいことです</title><link>https://www.androidauthority.com/galaxy-z-flip-8-slow-charging-embarrassing-3687765/</link><guid isPermaLink="true">https://www.androidauthority.com/galaxy-z-flip-8-slow-charging-embarrassing-3687765/</guid><pubDate>Fri, 24 Jul 2026 09:00:43 +0000</pubDate><description><![CDATA[<p>1,200 ドルの Z Flip 8 は、300 ドルの Android スマートフォンよりも充電が遅く、それはまったく恥ずかしいことです
-
-新しい Samsung Galaxy Z Flip 8 の充電速度は依然として 25W と遅いのに対し、300 ドルの低価格スマートフォンははるかに高速に電力を供給します。顧客にはもっと良い価値がある。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-1,200 ドルの Z Flip 8 は、300 ドルの Android スマートフォンよりも充電が遅く、それはまったく恥ずかしいことです
-
-0 • Google Discover でフォローしてください 優先ソースとして追加してください サムスンの主力製品は、何らかの形で市場最高のハードウェアに遅れをとっているとして、長年にわたって批判を受けてきました。充電電力は多くの批判の中心であり、歴史的には競合他社に比べてかなり遅れをとっています。それが今年は少し変わりました。まず、Galaxy S26 Ultra が 60W に跳ね上がり、現在 Z Fold 8 と 8 Ultra も同様に 45W まで上昇しています。業界最速というわけではありませんが、数年前よりも速くなっているのは間違いありません。
-
-しかし、これにより、新しいGalaxy Z Flip 8は、最高のフラッグシップモデルや、さらには気の利いたミッドレンジャーと比較すると、かなり鈍く見えるようになりました。サムスンのコンパクトな折りたたみ式デバイスは、わずか 25 W で充電できます。 2026 年製の折りたたみ式モデルの価格が 1,200 ドルとしては、非常識です。特に、300 ドルの携帯電話が電力の点でそれを上回る可能性があることを考えると。
-
-Galaxy Z Flip 8の充電能力にがっかりしていますか？
-
-Moto G (2026) を例に考えてみましょう。 Motorola の 300 ドルの低価格携帯電話は、なんとか携帯電話に 30…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Flip-8-cover-display-3-models.jpg" alt="1,200 ドルの Z Flip 8 は、300 ドルの Android スマートフォンよりも充電が遅く、それはまったく恥ずかしいことです"></p>]]></description><source url="https://www.androidauthority.com/galaxy-z-flip-8-slow-charging-embarrassing-3687765/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Flip-8-cover-display-3-models.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Z-Flip-8-cover-display-3-models.jpg"/></item>
-<item><title>Corsair Frame 5000D Wood RS ケースレビュー</title><link>https://www.kitguru.net/components/cases/james-dawson/corsair-frame-5000d-wood-rs-case-review/</link><guid isPermaLink="true">https://www.kitguru.net/components/cases/james-dawson/corsair-frame-5000d-wood-rs-case-review/</guid><pubDate>Fri, 24 Jul 2026 08:55:04 +0000</pubDate><description><![CDATA[<p>Corsair Frame 5000D Wood RS ケースレビュー
-
-Corsair はフレーム 5000D を木製と巨大なファンでリフレッシュしましたが、機能しますか?
-
-Corsair Frame 5000D Wood RS ケースレビュー
-
-James Dawson 41 分前 ケース , 注目の技術レビュー , レビュー
-
-今日は、新しい Corsair Frame 5000D Wood RS PC ケースを紹介します。一見すると、派手な木製の前面を備えた通常の Frame 5000D のように見えるかもしれませんが、Corsair は実際にボンネットの下にいくつかの興味深い変更を加えています。無垢材のフロント パネルに加えて、2 つの巨大な 200 mm 吸気ファン、フルレングスの強化ガラス製サイド パネル、よりコンパクトな PSU シュラウド、および 3 つの USB Type-C ポートを備えた最新のフロント I/O レイアウトが備わっています。では、これは単なる表面上の刷新なのでしょうか、それとも Corsair は主力ケースの 1 つを実際に改良したのでしょうか?調べてみましょう。タイムスタンプ: 00:00 概要 00:50 価格と情報 03:00 フロント I/O 03:25 機能 / パネルの取り外し 04:35 ハードウェア / 冷却サポート 06:01 ケースの内部 / オプション 07:21 空冷器のサポート 07:38 GPU サポート 08:07 マザーボードのサポート 09:09 ケースの背面 10:17 ケーブル配線 /ドライブ 13:00 ケースのフロア 13:38 アクセサリ 15:10 テスト方法 15:40 熱と騒音のパフォーマンス 17:05 おわりに 特徴: 木材効果ではなく、本物の木 – Frame 5000D Wood RS の際立った特徴は、新しい FSC 認定の無垢材フロント パネルです。これにより、FRAME 5000D にさらに暖かく、より高級な外観が与えられ、同時にシャーシの前面から十分な空気の流れが確…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/07/P1027243-732x330.jpg" alt="Corsair Frame 5000D Wood RS ケースレビュー"></p>]]></description><source url="https://www.kitguru.net/components/cases/james-dawson/corsair-frame-5000d-wood-rs-case-review/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/07/P1027243-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/07/P1027243-732x330.jpg"/></item>
-<item><title>Ultrahuman の新しい「Emerald」アップデートは、アプリの動作方法の大規模な見直しです</title><link>https://www.androidauthority.com/ultrahuman-emerald-update-3691001/</link><guid isPermaLink="true">https://www.androidauthority.com/ultrahuman-emerald-update-3691001/</guid><pubDate>Fri, 24 Jul 2026 08:51:38 +0000</pubDate><description><![CDATA[<p>Ultrahuman の新しい「Emerald」アップデートは、アプリの動作方法の大規模な見直しです
-
-Ultrahuman は本日、新しい「UltraSphere」、健康に関する洞察の改善などを備えたアプリの「Emerald」アップデートをリリースしました。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Ultrahuman の新しい「Emerald」アップデートは、アプリの動作方法の大規模な見直しです
-
-0 • Ultrahuman Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Ultrahuman は、コンパニオン アプリの新しい「Emerald」アップデートを公開しています。
-
-ユーザーに「次善のアクション」を提案する新しい「UltraSphere」意思決定エンジンが導入されています。
-
-また、より優れた健康に関する洞察と、「Sleep Screener」、「Longevity」、「Windows」などの新しいタブも提供します。
-
-Ultrahuman Ring PRO などのフィットネス リングを開発する Ultrahuman は本日、Ultrahuman アプリのメジャー「エメラルド」アップデートを発表し、ユーザーがフィットネス トラッカーを最大限に活用できるようにする新しいデザインと新機能を導入しました。
-
-このアップデートは、健康に関する洞察を理解しやすくし、ユーザーがより適切な健康上の意思決定を行えるようにすることを目的としています。新しいエクスペリエンスの核となるのは「UltraSphere」です。これは、ホーム画面に常駐し、ユーザーに「次の最善のアクション」を提供する意思決定エンジンです。これらのアクションは、ユーザーの位置、現在の天気、概日リズムに基づいて各ユーザーに合わせてカスタマイズされます。
-
-Ultrahuman UltraSphere は、外に出て光を浴びたり、その日のカフェイン摂取を控えたり、リラックス…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/07/ultrahuman-emerald-update-image.jpg" alt="Ultrahuman の新しい「Emerald」アップデートは、アプリの動作方法の大規模な見直しです"></p>]]></description><source url="https://www.androidauthority.com/ultrahuman-emerald-update-3691001/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/07/ultrahuman-emerald-update-image.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/07/ultrahuman-emerald-update-image.jpg"/></item>
-<item><title>アサシン クリード ブラック フラッグ リシンクドは期待を大幅に上回りました</title><link>https://www.kitguru.net/gaming/mustafa-mahmoud/assassins-creed-black-flag-resynced-massively-exceeds-expectations/</link><guid isPermaLink="true">https://www.kitguru.net/gaming/mustafa-mahmoud/assassins-creed-black-flag-resynced-massively-exceeds-expectations/</guid><pubDate>Fri, 24 Jul 2026 08:30:52 +0000</pubDate><description><![CDATA[<p>アサシン クリード ブラック フラッグ リシンクドは期待を大幅に上回りました
-
-今月初めの発売に続き、ユービーアイソフトは『アサシン クリード ブラック フラッグ リシンクド』の売上が予想をはるかに上回ったことを明らかにしました。
-
-アサシン クリード ブラック フラッグ リシンクドは期待を大幅に上回りました
-
-Mustafa Mahmoud 1 時間前 注目の発表 , ソフトウェア &amp; ゲーム
-
-発売前、ユービーアイソフトの『アサシン クリード ブラック フラッグ リシンクド リメイク』に関しては明らかな興奮があり、そのプレリリース資料では、同社の 2013 年の名作を忠実かつ視覚的に徹底的に再解釈したものが紹介されていました。それでも、このゲームの急速な成功は Ubisoft を驚かせたようで、同社は Black Flag Resynced が「最初の 14 日間で年間予想を上回った」と明らかにしました。パブリッシャーの最新の会計収益報告書（2026 年第 1 四半期を対象）の一部として、ユービーアイソフトは、最近リリースされた『アサシン クリード ブラック フラッグ リシンクド』が予想をはるかに上回ったことを明らかにし、次のように書いています。「2026 年 7 月 9 日にリリースされた『アサシン クリード ブラック フラッグ リシンクド』は、現在までに 350 万本が販売され、好調なスタートを切り、最初の 14 日間で年間予想を上回りました。」売上高自体は驚くべきことではありませんが (Ubisoft は最近、このゲームが 300 万本売れたと発表しました)、Resynced がわずか 2 週間で初年度の予想を上回ることができたという事実は印象的であり、Ubisoft がおそらく初めて - 見積もりに対して保守的であったことを示唆しています。これがユービーアイソフトとアサシン クリードの将来にとって何を意味するのか、私たちは見守る必要があります。とはいえ、この時点からリメイクに力を入れるだろうと想定するのは安全です。噂されている AC1 リメイクがどのようなも…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/07/BLACK-FLAG-732x330.jpg" alt="アサシン クリード ブラック フラッグ リシンクドは期待を大幅に上回りました"></p>]]></description><source url="https://www.kitguru.net/gaming/mustafa-mahmoud/assassins-creed-black-flag-resynced-massively-exceeds-expectations/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/07/BLACK-FLAG-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/07/BLACK-FLAG-732x330.jpg"/></item>
-<item><title>Microsoft、LGに対し、モニターからMcAfeeアドウェアを削除するよう交渉</title><link>https://www.androidauthority.com/microsoft-lg-monitor-app-bloatware-adware-3690996/</link><guid isPermaLink="true">https://www.androidauthority.com/microsoft-lg-monitor-app-bloatware-adware-3690996/</guid><pubDate>Fri, 24 Jul 2026 08:30:28 +0000</pubDate><description><![CDATA[<p>Microsoft、LGに対し、モニターからMcAfeeアドウェアを削除するよう交渉
-
-LG のモニターをコンピューターに接続すると、LG が PC にブロートウェアをインストールすることが判明しました。今度はマイクロソフトが参入したところだ。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Microsoft、LGに対し、モニターからMcAfeeアドウェアを削除するよう交渉
-
-0 • Jonathan Feist / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Microsoft 幹部は、LG が自社のモニター アプリで McAfee ポップアップを無効にすることに同意したことを認めました。
-
-これは、LG のモニターを PC に接続すると、LG がブロートウェアを自動的にインストールしていたことが明らかになった後に発生しました。
-
-ただし、これでは、ユーザーの同意なしに PC にインストールされる肥大化の問題は解決されません。
-
-LGは今週初め、モニターをPCに接続するとブロートウェアを自動的にインストールしていたことが明らかになり、批判を浴びた。さらに問題をさらに悪化させたのは、コンピュータを起動するたびに問題のアプリがデスクトップにマカフィーのポップアップを表示することでした。
-
-さて、Microsoft幹部のPavan Davuluri氏は、LGがアプリ内でMcAfeeポップアップを無効にすることに同意したことをX上で発表した。以下のツイートのスクリーンショットをご覧ください。
-
-Hadlee Simons / Android Authority この動きは、Gamers Nexus が問題のブロートウェアについて最初に報告した後に行われました。このアウトレットでは、UltraGear 34GX900A-B (発売価格 1,200 ドル) を含む複数のモニターの 1 つを Windows PC…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2025/01/LG-logo-sign-2-CES-2025.jpg" alt="Microsoft、LGに対し、モニターからMcAfeeアドウェアを削除するよう交渉"></p>]]></description><source url="https://www.androidauthority.com/microsoft-lg-monitor-app-bloatware-adware-3690996/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2025/01/LG-logo-sign-2-CES-2025.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2025/01/LG-logo-sign-2-CES-2025.jpg"/></item>
-<item><title>ハリー・ポッターの電子書籍とオーディオブックが kobo Plus に登場</title><link>https://goodereader.com/blog/kobo-ereader-news/harry-potter-e-books-and-audiobooks-are-now-on-kobo-plus</link><guid isPermaLink="true">https://goodereader.com/blog/kobo-ereader-news/harry-potter-e-books-and-audiobooks-are-now-on-kobo-plus</guid><pubDate>Fri, 24 Jul 2026 08:29:40 +0000</pubDate><description><![CDATA[<p>ハリー・ポッターの電子書籍とオーディオブックが kobo Plus に登場
-
-ハリー・ポッターの本シリーズはすべて、Kobo Plus で無料で入手できます。デジタル ノベルと公式オーディオブックの両方に、サブスクリプション層を通じて直接アクセスできます。
-
-今月、ハリー・ポッター シリーズ全作品が kobo Plus で入手可能になり、加入者は月額メンバーシップの一部として楽しむことができるようになります。読者が何年も経ってホグワーツを再訪する場合でも、このシリーズを初めて知る場合でも、Kobo Plus は、世界で最も愛されている文学シリーズの 1 つに飛び込む簡単な方法と、増え続ける電子ブックとオーディオブックのカタログへのアクセスを提供します。
-
-「ハリー・ポッター・シリーズの影響は前例のないものです。ハリー・ポッターのタイトルは常にkoboで人気がありましたが、私たちはそれらと魔法世界の他の物語をkobo Plus加入者に届けることができてとても興奮しています。デジタル読書分野のパイオニアとして10年以上を経て、『好きなだけ読んでください』という言葉ほど本好きを興奮させるものはないことがわかりました。まさにそれが当社のkobo Plusサービスが提供するものです。」とオーディオブックおよびグローバル・サブスクリプション担当ディレクターのバート・ロバース氏は述べています。楽天kobo。
-
-賢者の石や死の秘宝を含むハリー ポッターの電子書籍シリーズを月額 9.99 ドルで読みましょう。
-
-スティーブン フライまたはジム デールがナレーションを担当するハリー ポッター オーディオブックの全カタログを月額 9.99 ドルでストリーミングできます。
-
-両方のカタログを月額 12.99 ドルのバンドル価格で組み合わせると、読書とリスニングをシームレスに切り替えることができます。
-
-Michael Kozlowski は、過去 18 年間、オーディオブック、電子書籍、電子書籍リーダーについて執筆してきました。彼はカナダのブリティッシュコロンビア州バンクーバーに住んでいます。</p><p><img src="https://media.goodereader.com/blog/uploads/images/2026/07/24042846/harry-potter-sleepcovers-from-aliexpress-v0-d4q4391bcrue1.webp" alt="ハリー・ポッターの電子書籍とオーディオブックが kobo Plus に登場"></p>]]></description><source url="https://goodereader.com/blog/kobo-ereader-news/harry-potter-e-books-and-audiobooks-are-now-on-kobo-plus">Good e-Reader</source><media:content url="https://media.goodereader.com/blog/uploads/images/2026/07/24042846/harry-potter-sleepcovers-from-aliexpress-v0-d4q4391bcrue1.webp" medium="image"/><media:thumbnail url="https://media.goodereader.com/blog/uploads/images/2026/07/24042846/harry-potter-sleepcovers-from-aliexpress-v0-d4q4391bcrue1.webp"/></item>
-<item><title>Intel 14A ノードは 2027 年下半期にリスク生産に入り、2028 年に量産開始</title><link>https://www.techpowerup.com/351048/intel-14a-node-goes-into-risk-production-in-2h-2027-volume-production-in-2028</link><guid isPermaLink="true">https://www.techpowerup.com/351048/intel-14a-node-goes-into-risk-production-in-2h-2027-volume-production-in-2028</guid><pubDate>Fri, 24 Jul 2026 08:25:33 +0000</pubDate><description><![CDATA[<p>Intel 14A ノードは 2027 年下半期にリスク生産に入り、2028 年に量産開始
-
-インテルは昨夜、2026 年第 2 四半期の売上高が 161 億ドルに達し、強力なキャッシュ フローを生み出すという、同社最大の四半期成長決算の 1 つを報告しました。しかし、同社の決算発表での重要なハイライトは、14A ノードとその生産スケジュールに関する議論でした。インテルによると...
-
-Intel 14A ノードは 2027 年下半期にリスク生産に入り、2028 年に量産開始
-
-2025 年 7 月 24 日 Intel「Nova Lake-S」コア Ultra 3、Ultra 5、Ultra 7、および Ultra 9 コア構成 Surface (118)
-
-2025 年 9 月 18 日 NVIDIA がインテルを 50 億ドル相当で買収、RTX iGPU が x86 に登場、株価は 25% 上昇 (256)
-
-2026 年 7 月 3 日 インテル、ゲーム向けに 108 MB bLLC キャッシュを備えた 2 つの 22 コア「Nova Lake-S」SKU を準備 (279)
-
-2026 年 6 月 26 日 インテル「Nova Lake-S」52 コア OC SKU が PL2 モードで 474 W を消費 (291)
-
-2026 年 1 月 23 日 インテル Core Ultra シリーズ 4 「Nova Lake」プロセッサーが 2026 年後半に発売 (62)
-
-2026 年 6 月 16 日 Intel 14A が試作前に目覚ましいマイルストーンを達成 (5)
-
-2025 年 12 月 13 日 SK ハイニックス、メモリ供給の逼迫は 2028 年まで続くと予測 (118)
-
-2026 年 1 月 10 日 Intel Core Ultra X9 388H &#34;Panther Lake&#34; iGPU は、Cyberpunk 2077 で AMD &#34;Strix Point&#34; パフォーマンスを 2 倍に (98)
-
-2026 年 6 月 14 日 Intel…</p><p><img src="https://www.techpowerup.com/img/Gc3Mug4oAN3yYYHx.jpg" alt="Intel 14A ノードは 2027 年下半期にリスク生産に入り、2028 年に量産開始"></p>]]></description><source url="https://www.techpowerup.com/351048/intel-14a-node-goes-into-risk-production-in-2h-2027-volume-production-in-2028">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/Gc3Mug4oAN3yYYHx.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/Gc3Mug4oAN3yYYHx.jpg"/></item>
-<item><title>ジェミニの輝く変身は、フローティング オーバーレイとライブ画面に向かって表示されます</title><link>https://www.androidauthority.com/gemini-overlay-live-neural-design-apk-teardown-3690991/</link><guid isPermaLink="true">https://www.androidauthority.com/gemini-overlay-live-neural-design-apk-teardown-3690991/</guid><pubDate>Fri, 24 Jul 2026 08:12:19 +0000</pubDate><description><![CDATA[<p>ジェミニの輝く変身は、フローティング オーバーレイとライブ画面に向かって表示されます
-
-Googleは、GeminiのフローティングオーバーレイとGemini Liveの新しい外観をテストし、Android上でデザインを統一しているようだ。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-ジェミニの輝く変身がフローティング オーバーレイとライブ画面に向かって表示されます
-
-0 • Adamya Sharma / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google は最近、Android 上の Gemini ランチャーのニューラル デザインを導入し、現在、フローティング オーバーレイを含む他の部分でテスト中です。
-
-これらの要素には、背景にカラフルなドットが散りばめられた、固体形状ではなく流れるようなオーバーレイが含まれます。
-
-再設計では、同様に流れるようなデザインの Live インターフェース用の新しいボタンも追加されました。
-
-約 2 か月前、Google は 3D 視覚効果と空間アニメーションを備えた Gemini の新しいニューラル デザインを導入し、次期 Android XR ビジュアル インターフェイスに向けたその変革をほぼ示しました。影響は主に、Android 上の Gemini のホーム画面と通常の (非ライブ) チャットに限定されていました。しかし現在では、これらの変更が Gemini オーバーレイ (Google アプリの外部から Gemini に呼びかけたときに表示されるフローティング バー) や Gemini Live インターフェースにも波及していることがわかります。
-
-あなたは Authority Insights の記事を読んでいます。 Authority Insights は、他では見られない Android Authority チームからの最新の独占レポート、アプ…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/05/New-Gemini-app-2026-design-refresh-scaled.jpg" alt="ジェミニの輝く変身は、フローティング オーバーレイとライブ画面に向かって表示されます"></p>]]></description><source url="https://www.androidauthority.com/gemini-overlay-live-neural-design-apk-teardown-3690991/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/05/New-Gemini-app-2026-design-refresh-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/05/New-Gemini-app-2026-design-refresh-scaled.jpg"/></item>
-<item><title>CirkitScape Top HAT は、追加の GPIO、RS-485、3 チャンネル ADC、4 つの USB 2.0 ポートを Raspberry Pi SBC に追加します</title><link>https://www.cnx-software.com/2026/07/24/cirkitscape-top-hat-adds-extra-gpios-rs-485-3-channel-adc-four-usb-2-0-ports-to-raspberry-pi-sbcs/</link><guid isPermaLink="true">https://www.cnx-software.com/2026/07/24/cirkitscape-top-hat-adds-extra-gpios-rs-485-3-channel-adc-four-usb-2-0-ports-to-raspberry-pi-sbcs/</guid><pubDate>Fri, 24 Jul 2026 08:07:45 +0000</pubDate><description><![CDATA[<p>CirkitScape Top HAT は、追加の GPIO、RS-485、3 チャンネル ADC、4 つの USB 2.0 ポートを Raspberry Pi SBC に追加します
-
-CirkitScape Top HAT (TopHAT とも表記) は、I2C エクスパンダを通じて 16 個の GPIO を追加する Raspberry Pi 用の多機能拡張ボードです。
-
-CirkitScape Top HAT (TopHAT とも表記) は、I2C エクスパンダを介して 16 個の追加 GPIO、RS-485 ヘッダー、3 チャネル、12 ビット ADC、および USB ハブを介して 4 個の追加 USB 2.0 ポートを追加する Raspberry Pi 用の多機能拡張ボードです。
-
-同社は、「多くの個別のアドオンを積み重ねることなく、プロトタイピング、センシング、自動化、および現実世界の Raspberry Pi ビルドをよりクリーンかつ簡単に行う」ように設計されていると語った。環境監視ビルド用のいくつかのセンサーを備えた Top HAT センサー キットも提供されています。
-
-CirkitScape トップ HAT 仕様:
-
-サポートされている SBC – Raspberry Pi ボードおよび 40 ピン GPIO ヘッダーを備えた互換性のある SBC (Pi 5、4、3B+、および Zero を含む)
-
-USB USB 2.0 (480 Mbps) ポート x 4
-
-ポートごとの電流制限スイッチ (ポートごとに 500mA)
-
-I/O 拡張 MCP23017 I²C エクスパンダ経由の 16x GPIO
-
-アナログ入力 – ADS1015 チップ経由の 3 チャンネル 12 ビット ADC
-
-MAX485半二重トランシーバを介したRS-485インターフェイス
-
-通信インターフェイス – 40 ピン Raspberry Pi GPIO ヘッダー経由の I²C、SPI、UART
-
-電源動作電圧: 5V DC入力
-
-寸法 – 76.2 x 50.8 mm (Ra…</p><p><img src="https://www.cnx-software.com/wp-content/uploads/2026/07/CIRKITSCAPE-TopHAT.jpg" alt="CirkitScape Top HAT は、追加の GPIO、RS-485、3 チャンネル ADC、4 つの USB 2.0 ポートを Raspberry Pi SBC に追加します"></p>]]></description><source url="https://www.cnx-software.com/2026/07/24/cirkitscape-top-hat-adds-extra-gpios-rs-485-3-channel-adc-four-usb-2-0-ports-to-raspberry-pi-sbcs/">CNX Software</source><media:content url="https://www.cnx-software.com/wp-content/uploads/2026/07/CIRKITSCAPE-TopHAT.jpg" medium="image"/><media:thumbnail url="https://www.cnx-software.com/wp-content/uploads/2026/07/CIRKITSCAPE-TopHAT.jpg"/></item>
-<item><title>調査によると、Google Tensor は終焉を迎えたが、一部の Pixel ファンはこれに同意しない</title><link>https://www.androidauthority.com/continue-google-tensor-poll-results-3690972/</link><guid isPermaLink="true">https://www.androidauthority.com/continue-google-tensor-poll-results-3690972/</guid><pubDate>Fri, 24 Jul 2026 08:00:58 +0000</pubDate><description><![CDATA[<p>調査によると、Google Tensor は終焉を迎えたが、一部の Pixel ファンはこれに同意しない
-
-最近の読者アンケートの結果によると、大多数が Google Tensor チップセット プログラムは廃止されるべきだと考えています。同意する？
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Android スマートフォンの調査では、Google Tensor は終わりに達していると報告されていますが、一部の Pixel ファンはこれに同意していません
-
-0 • Google Discover でフォローしてください 優先ソースとして追加してください Google が Pixel スマートフォンで AI と機械学習の優先事項を担当する Tensor SoC 製品ラインを立ち上げてから 5 年近くが経ちました。
-
-特定の側面では、Tensor ラインはこの目標を達成しましたが、他の重要な領域でも失敗しました。バッテリー管理、発熱、パフォーマンスの低下により、多くのユーザーが Google のシリコンに幻滅しています。そして、私の同僚の Stephen Radochia が説明しているように、AI への野望ですら、古いながらも依然として機能を備えた携帯電話のユーザーには及ばないのです。
-
-彼の記事に関する最近のアンケートで、さまざまな欠点を考慮して Google が Tensor プロジェクトを継続すべきかどうかを読者に尋ねました。投票が受け付けられており、結果は以下でご覧いただけます。
-
-Google は Tensor チップセットを使い続けるべきでしょうか?
-
-このアンケートでは 1,700 を超える投票が寄せられ、明らかに圧倒的多数です。回答者の 3 分の 2 以上 (69.2%) が、Google は「プロジェクトを実行できていない」ため、Tensor プロジェクトを中止すべきだと考えています。
-
-Andy Walker / Android Authority 数字を見ると反 Tens…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2025/10/google-pixel-10-pro-fold-tensor-g5-hero-2-scaled.jpg" alt="調査によると、Google Tensor は終焉を迎えたが、一部の Pixel ファンはこれに同意しない"></p>]]></description><source url="https://www.androidauthority.com/continue-google-tensor-poll-results-3690972/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2025/10/google-pixel-10-pro-fold-tensor-g5-hero-2-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2025/10/google-pixel-10-pro-fold-tensor-g5-hero-2-scaled.jpg"/></item>
-<item><title>Galaxy Z Fold 8 シリーズは、折りたたみ式マルチタスクの最高のアイデアの 1 つを採用しています。</title><link>https://www.androidauthority.com/samsung-galaxy-z-fold-8-three-way-split-screen-3690958/</link><guid isPermaLink="true">https://www.androidauthority.com/samsung-galaxy-z-fold-8-three-way-split-screen-3690958/</guid><pubDate>Fri, 24 Jul 2026 07:11:00 +0000</pubDate><description><![CDATA[<p>Galaxy Z Fold 8 シリーズは、折りたたみ式マルチタスクの最高のアイデアの 1 つを採用しています。
-
-One UI 9 では、Galaxy Z Fold 8 シリーズに 90:10 分割の新しい Open Canvas スタイルの 3 アプリ分割画面レイアウトが導入されています。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Galaxy Z Fold 8 シリーズは、折りたたみ式マルチタスクの最高のアイデアの 1 つを採用しています。
-
-0 • Sanuj Bhatia / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR One UI 9 では、Galaxy Z Fold 8 シリーズに新しい Open Canvas スタイルの 90:10 3 アプリ分割画面レイアウトが導入されています。
-
-幅の広い Galaxy Z Fold 8 は 3 つのアプリを縦に並べて配置できますが、Galaxy Z Fold 8 Ultra は 2 つの積み重ねられたアプリと並べて 1 つの大きなアプリに制限されています。
-
-Samsung 自身のドキュメントでは、Galaxy Z Fold 8 Ultra が新しい 2 方向および 3 方向の分割ビューをサポートしていることが確認されていますが、レイアウトについては詳しく記載されていません。
-
-サムスンは最新のGalaxy UnpackedイベントでGalaxy AI、大型バッテリー、薄型ハードウェアについて多くの時間を費やしたが、Galaxy Z Fold 8シリーズの最も興味深い改良点の1つは目立たなかったかもしれない。
-
-One UI 9 では、新しい Open Canvas スタイルのマルチタスク レイアウトが導入されており、3 つのアプリが新しい方法で画面を共有できるようにすることで、折りたたみ式ディスプレイをより有効に活用できます。
-
-この機能は…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-three-way-multitasking.jpg" alt="Galaxy Z Fold 8 シリーズは、折りたたみ式マルチタスクの最高のアイデアの 1 つを採用しています。"></p>]]></description><source url="https://www.androidauthority.com/samsung-galaxy-z-fold-8-three-way-split-screen-3690958/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-three-way-multitasking.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-three-way-multitasking.jpg"/></item>
-<item><title>私たちを3回も騙すのか？ Galaxy Watch の所有者が再び異常なバッテリー消耗を報告</title><link>https://www.androidauthority.com/samsung-galaxy-watch-battery-drain-again-3690962/</link><guid isPermaLink="true">https://www.androidauthority.com/samsung-galaxy-watch-battery-drain-again-3690962/</guid><pubDate>Fri, 24 Jul 2026 06:45:59 +0000</pubDate><description><![CDATA[<p>私たちを3回も騙すのか？ Galaxy Watch の所有者が再び異常なバッテリー消耗を報告
-
-Galaxy Watch の所有者は、スマートウォッチの異常なバッテリー消耗を再び報告しています。しかし、今回は何が原因なのでしょうか？
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-私たちを3回も騙すのか？ Galaxy Watch の所有者が再び異常なバッテリー消耗を報告
-
-0 • Tushar Mehta / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR 一部の Galaxy Watch 所有者が、重大なバッテリー消耗の問題を報告しています。
-
-この問題は、Galaxy Watch 6、7、8 シリーズを含む複数のモデルに影響を与えるようです。
-
-大勢のGalaxy Watch所有者が異常なバッテリー消耗を報告するのは、今年少なくとも3回目だ。
-
-Samsung は Galaxy Watch 9 と Galaxy Watch Ultra 2 を発売したばかりですが、古い Galaxy Watch をお持ちの方にとっては、今年は波瀾万丈の年となりました。これらのユーザーは 2026 年にバッテリー消耗の問題を報告しましたが、問題が再び発生したようです。
-
-複数の Reddit ユーザーが、Samsung スマートウォッチでの重大なバッテリー消耗の問題を報告しています。この問題は、Galaxy Watch 8、Galaxy Watch 7、Galaxy Watch 6世代を含むさまざまなデバイスに影響を与えるようです。
-
-Redditor chunkyfen は、Galaxy Watch 8 40mm の問題について次のように説明しました。
-
-今日の午後 3 時に、アクティブな GPS を使用して 1 時間の散歩で帰宅する際にバッテリーを節約したかったので、電源を切りました。バッテリー残量は40%です。 3…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2025/10/Samsung-Galaxy-Watch-8-Universal-controls.jpg" alt="私たちを3回も騙すのか？ Galaxy Watch の所有者が再び異常なバッテリー消耗を報告"></p>]]></description><source url="https://www.androidauthority.com/samsung-galaxy-watch-battery-drain-again-3690962/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2025/10/Samsung-Galaxy-Watch-8-Universal-controls.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2025/10/Samsung-Galaxy-Watch-8-Universal-controls.jpg"/></item>
 </channel></rss>
