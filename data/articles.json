@@ -1,6 +1,51 @@
 {
   "akiba": [
     {
+      "Title": "【7月31日取材分】CPU価格表更新",
+      "Link": "/price/cpu/",
+      "Published": "2026-07-31T14:00:49Z",
+      "Source": "エルミタージュ秋葉原",
+      "Category": "更新情報",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "iOS27の共有アルバムはiCloudストレージを使用！無制限での保存は終了か",
+      "Link": "https://iphone-mania.jp/ios-604059/",
+      "Published": "2026-07-31T13:48:01Z",
+      "Source": "iPhone Mania",
+      "Category": "写真",
+      "Summary": "iOS27の共有アルバムはiCloudストレージを使用！無制限での保存は終了か\n\niOS27の共有アルバムでは写真アプリの新機能であるフル解像度（無劣化）での共有に対応しましたが、iCloudストレージの容量を消費する仕様に変更されているようです。それに伴い、容量が足りないときに使われていた共有アルバムの使い方ができなくなりました。\n\niOS27の共有アルバムはiCloudストレージを使用！無制限での保存は終了か\n\niOS27 の共有アルバムでは 写真アプリの新機能 であるフル解像度（無劣化）での共有に対応しましたが、iCloudストレージの容量を消費する仕様に変更されているようです。それに伴い、容量が足りないときに使われていた 共有アルバムの使い方 ができなくなりました。\n\niOS26以前は共有アルバムの画像や動画に対して、iCloudやiPhoneのストレージを消費せずに保存・共有が可能でした。\n\n「写真の長辺は2048pxまで、動画は720p・最大15分まで」という制限があるものの、これを利用してiPhoneやiCloudのストレージ容量を節約する裏技的な方法として広く知られています。\n\nしかし、iOS27以降ではこの共有アルバムの裏技的な方法が使えなくなります。\n\niOS27以降では共有アルバムに大幅なアップデートが行われ、その中の一つとしてフル解像度（無劣化）で写真や動画の共有ができるようになります。\n\nフル解像度での共有ができるのであれば劣化なしで無制限に保存できるのでは？と思い、パブリックベータ版をインストールしているデバイスで共有アルバム機能を試していたところ、 共有アルバムがiCloudストレージを消費する仕様へ変更されている ことが確認できました。\n\n参加者が追加した項目は、あなたのiCloudストレージに保管されます。\n\nさらに新機能を使うために必要な…",
+      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/07/31/4671f22e4c6682a0f2bfc42ddb3b71bb.jpg"
+    },
+    {
+      "Title": "GPT-5.6は自分で自分を最適化する。性能とコストで競合を上回ったワケ",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2129786.html",
+      "Published": "2026-07-31T13:08:18Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "GPT-5.6は自分で自分を最適化する。性能とコストで競合を上回ったワケ\n\n「GPT-5.6 Sol」は自身の推論システムを自ら最適化することで、競合の「Claude Fable 5」を上回る性能を実現したという。OpenAIが7月29日、その詳細について解説した。\n\nGPT-5.6は自分で自分を最適化する。性能とコストで競合を上回ったワケ\n\n「GPT-5.6 Sol」は自身の推論システムを自ら最適化することで、競合の「Claude Fable 5」を上回る性能を実現したという。OpenAIが7月29日、その詳細について解説した。\n\nGPT-5.6モデルファミリーは、上位のGPT-5.6 Sol、中位のGPT-5.6 Terra、下位のGPT-5.6 Lunaの3つが用意されているが、いずれも性能とコストのバランスを重視した設計が特徴となっている。たとえばGPT-5.6 Solの場合、最大推論において競合であるAnthropicのClaude Fable 5を上回るコーディング性能を、半分以下のコストで実現。GPT-5.6 TerraはGPT-5.5と同等の性能を半分のコストで、GPT-5.6 Lunaは高速なモデルをSolの20%のコストで、それぞれ提供している。\n\nこの実現に向けては、モデル自体の改善だけでなく、ユーザーが求める性能や低遅延性、信頼性などを維持しつつ、同じハードウェアでより多くのトークンを処理できるシステムが求められる。そこで同社は、GPT-5.6 SolとCodexの能力を使って、システム全体の最適化を図ったという。まず、推論の高速化においては主に4つの改善を行なった。\n\n負荷分散 本番トラフィックの分析に基づき、リクエストの分散処理やルーティングを改良することで、モデルの提供コストを大幅に削減\n\nモデルの順伝播処理の最適化 モデルの数学演算を実行するコアコードの最適化などにより、モデルの順伝播処理(入力を次のトークンの予測に変換する処理)を最適化し、エンドツーエンドのサービスコストを20%削減\n\n投機的デコーディングの改善 投機的デコーディングで…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2129/786/01.jpg"
+    },
+    {
+      "Title": "色良くね？Pixel 11シリーズの公式レンダリング画像が漏洩",
+      "Link": "https://smhn.info/202607-google-pixel-pixel11-pro-proxl-colors-images",
+      "Published": "2026-07-31T12:46:11Z",
+      "Source": "すまほん!!",
+      "Category": "Pixel 11 Pro XL",
+      "Summary": "色良くね？Pixel 11シリーズの公式レンダリング画像が漏洩\n\nこのカラバリ好きかも。Googleの次期スマートフォンとされる「Pixel 11」「Pixel 11 Pro」「Pixel 11 Pro XL」の公式マーケティング画像とみられる70枚超を、リーカーのEvan Blass氏が公開したとAndroid Authorityが伝えていま...\n\n色良くね？Pixel 11シリーズの公式レンダリング画像が漏洩\n\nGoogleの次期スマートフォンとされる「 Pixel 11 」「 Pixel 11 Pro 」「 Pixel 11 Pro XL 」の公式マーケティング画像とみられる70枚超を、リーカーの Evan Blass 氏が公開したと Android Authorityが伝えています。\n\nまず Pixel 11 はLight Sterling, Fuchsia , Midnight Haze, Mossの4色。\n\nPixel 11 Pro はDune, Light Fog, Midnight Haze, Pineの4色。色の組み合わせは過去の噂と概ね一致しているようです。\n\nPixel 11 Pro XL も４色ですが、注目はオブシディアンブラックのフレームカラー。マットブラックになっているように見えます。例年の指紋の目立つ光沢フレームという慣例を覆してきているのかもしれません。\n\n色展開は個人的には好きですが、もっとも中身については、これまでの噂を総合すると、デザインや画面サイズ・解像度は Pixel 10 シリーズから据え置きとみられ、目立った変更は少ない「小幅なアップデート」の年になりそうです。\n\nSoCはTSMCの2nmプロセスで製造されるという新型「 Tensor G6 」に刷新され、モデムも MediaTek 製に切り替わると噂されており、電力効率や発熱、通信品質の改善にも少し期待が持てそうです。このほか顔認証の暗所性能向上や、Proモデルの温度計センサー廃止なども伝えられています。\n\nGoogleは Made by Google をニューヨークで米…",
+      "ImageURL": "https://smhn.info/wp-content/uploads/2026/07/d88785a2fdae9ed6a4d3387ee58603db.png"
+    },
+    {
+      "Title": "黒ベゼル0mm！？圧倒的狭額縁なコンセプトスマホ、TECNOが公開",
+      "Link": "https://smhn.info/202607-tecno-next-gen-bezelless-concept-phone-zero-bezel",
+      "Published": "2026-07-31T12:35:40Z",
+      "Source": "すまほん!!",
+      "Category": "ベゼルレス",
+      "Summary": "黒ベゼル0mm！？圧倒的狭額縁なコンセプトスマホ、TECNOが公開\n\n行き着くとこまで来た！AQUOS CRYSTALやシャオミ MI Mixといったメーカーが果敢に挑戦してきたベゼルレス。そこに新たに現れた挑戦者は、中国のスマートフォンメーカーTECNO（テクノ）でした。アフリカ人のニーズをガッチリ汲み取った、アフリカ市場の王者のメーカーでありな...\n\n黒ベゼル0mm！？圧倒的狭額縁なコンセプトスマホ、TECNOが公開\n\nAQUOS CRYSTAL や シャオミ MI Mixといったメーカーが果敢に挑戦してきた ベゼルレス 。そこに新たに現れた挑戦者は、 中国 のスマートフォンメーカー TECNO （テクノ）でした。\n\nアフリカ 人のニーズをガッチリ汲み取った、アフリカ市場の王者のメーカーでありながら、謎の コンセプトモデル を続々と披露することにも定評があります。\n\n今回、TECNOは ディスプレイ の黒い縁を公称0mmとした「Next-Gen Bezelless Concept Phone」を公開しました。\n\nあくまで市販製品ではなくコンセプト端末。TECNOによると、内部部品の高度な積層、画面部品の新しい実装方法、精密な構造設計によって、公称0mmを実現したとのことです。\n\n表示領域は四辺いっぱいに広がって見えますが、前面カメラの パンチホール は残ります。画面だけが浮いて見える姿は、さすがに不思議な印象ですね。\n\nこのコンセプト機はIFA 2026で展示予定です。現時点で本機の製品化は発表されていませんが、 TECNO は関連 技術 を将来の端末デザインへ生かす考えです。",
+      "ImageURL": "https://smhn.info/wp-content/uploads/2026/07/b0f76adfa249d78e4664096edafcb7d5.png"
+    },
+    {
       "Title": "Apple Pencil（USB-C）と多数のモデル〜iPad整備済製品【7/31】",
       "Link": "https://iphone-mania.jp/sale-604057/",
       "Published": "2026-07-31T12:00:08Z",
@@ -343,7 +388,7 @@
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2129/545/1.jpg"
     },
     {
-      "Title": "Radeon RX 9050\ufffd\ufffd\ufffdܤ\ufffdXFX\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdե\ufffd\ufffdå\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdɤ\ufffd\ufffd\ufffd\ufffd\ufffdȯ\ufffd䡣\ufffdǹ\ufffd5\ufffd\ufffd2980\ufffd\ufffd",
+      "Title": "Radeon RX 9050���ܤ�XFX�������ե��å��������ɤ�����ȯ�䡣�ǹ�5��2980��",
       "Link": "https://www.4gamer.net/games/869/G086962/20260731015/",
       "Published": "2026-07-31T04:41:31Z",
       "Source": "4Gamer.net Hardware",
@@ -539,6 +584,96 @@
       "Category": "",
       "Summary": "【7/31発売】Agasoundから熟練の職人が一つ一つを完全手作業で研磨したイヤホンSublimation Splendid Edition / Sublimation Colorful Woodが登場！\n\n最適化されたドライバーやキャビティ異なるチューニングにより違った雰囲気のサウンド\r\rこんにちは！e☆イヤホンのPRスタッフです！\r今回はAgasoundからの新製品のご紹介です。\r \rAgasound Sublimati\n\n最適化されたドライバーやキャビティ異なるチューニングにより違った雰囲気のサウンド\n\nAgasound Sublimation Splendid Edition / Sublimation Colorful Wood\n\n▼Agasound Sublimation Colorful Wood e☆イヤホン オンラインストア価格￥22,800- (税込)\n\n▼Agasound Sublimation Splendid Edition e☆イヤホン オンラインストア価格￥22,800- (税込)\n\nAgasoundの全ての製品は、自社内にある音響研究所『XYLAB』にて音の開発が行われています。\n\n通常モデルのSublimation同様、N52スーパーリニアデュアル磁気回路を採用したφ10mmシングルダイナミックドライバー構成です。\n\nダイアフラムにはセラミックコートを採用することにより硬度を向上させると同時にハーモニックディストーション(高調波歪み)を低減。\n\nドライバー内部の一部パーツには真鍮が採用されており、これにより超高域の帯域幅と周波数特性を変更可能に、周波数共振を最適化することでより自然で心地よいサウンドを実現します。\n\n通常モデルのSublimationをベースに、ウッドハウジングに合わせより広い音場、極めて高いボーカル再現性、「サ‧シ‧ス‧セ‧ソ」などの「s」の音に含まれる5,000～8,000Hz付近の耳障りなシビランス(歯擦音)の低減などの変更が加えられています。\n\n高音域は豊かな空気感と明瞭さ、中音域は適度な厚みと臨場感、低音域は…",
       "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/07/Agasound-Sublimation-Splendid-Edition-_-Sublimation-Colorful-Wood.webp"
+    },
+    {
+      "Title": "AMDの新エントリーGPU「Radeon RX 9050」が登場、価格は54,800円から",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2128983.html",
+      "Published": "2026-07-31T02:00:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "AMDの新エントリーGPU「Radeon RX 9050」が登場、価格は54,800円から\n\nAMDのメインストリーム向けゲーミングGPU「Radeon RX 9050」を搭載したビデオカードが各社から登場。\n\nAMDの新エントリーGPU「Radeon RX 9050」が登場、価格は54,800円から\n\nAMDのメインストリーム向けゲーミングGPU「Radeon RX 9050」を搭載したビデオカードが各社から登場。\n\n7月31日（金）時点で入荷を確認したのは、ASUS、ASRock、GIGABYTEの各モデル。価格は54,800～54,980円。\n\nRadeon RX 9060シリーズの下位モデル、GDDR6メモリ8GB搭載\n\nRadeon RX 9050は、RDNA 4アーキテクチャを採用した新GPU。\n\n2025年に登場した「Radeon RX 9060 XT」や「Radeon RX 9060」（主に組み込み向け）の下位に位置するモデルで、「eスポーツタイトルや最新のAAAタイトルにおいて、1080pで快適かつ応答性の高いゲームプレイを実現するよう設計されている」（AMD）という。\n\n演算ユニット数は16で、レイアクセラレータ16基、AIアクセラレータ32基を備える。総トランジスタ数は297億。\n\nリファレンス仕様は、ブーストクロックが2,600MHzで、18Gbps動作のGDDR6メモリ8GB（128bit）を備える。補助電源は8ピン×1。\n\n映像インターフェイスはDisplayPort 2.1a、HDMI 2.1b。\n\n7月30日（木）時点で秋葉原のPCパーツショップでは、上位のRadeon RX 9060 XTを搭載した一部モデルが同等の価格でセール中のため、現状はRadeon RX 9050を積極的に選択する理由は無いが、仮にセール品が無くなった場合は、新たなゲーム向けGPUとして注目を集める可能性がありそうだ。\n\n[取材協力: パソコン工房 秋葉原パーツ館 と パソコンショップ アーク と ツクモパソコン本店 と TSUKUMO eX. ]\n\nRadeo…",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2128/983/s1_s.jpg"
+    },
+    {
+      "Title": "【7/31発売】Softearsから独自の11mm高性能ダイナミック搭載のイヤホン EDGE が登場！",
+      "Link": "https://e-earphone.blog/?p=1550898",
+      "Published": "2026-07-31T02:00:00Z",
+      "Source": "e☆イヤホン",
+      "Category": "",
+      "Summary": "【7/31発売】Softearsから独自の11mm高性能ダイナミック搭載のイヤホン EDGE が登場！\n\n大胆な幾何学的造形と高い機能性を融合させたチタン製イヤホン。豊かな音響基盤を構築\r\rこんにちは！e☆イヤホンのPRスタッフです！\r今回はSoftearsからの新製品のご紹介です。\r \rSoftears EDGE\r\r▼\n\n大胆な幾何学的造形と高い機能性を融合させたチタン製イヤホン。豊かな音響基盤を構築\n\n▼Softears EDGE e☆イヤホン オンラインストア価格￥85,140- (税込)\n\nEDGEは、CNC加工されたチタン合金から生み出された、幾何学的で大胆な造形美が特徴です。\n\nインダストリアルデザインの極致を追求し、柔らかな曲線が一般的なイヤホン業界において、あえて角張ったフォルムを採用しました。\n\nそのデザインはモダニズム建築の記念碑を彷彿とさせ、単なる音響機器を超えた洗練をまとっています。「不要なものを削ぎ落とし、音の真髄を明らかにする」という我々のチューニング哲学を体現した一品です。\n\n11mm高性能ダイナミックドライバーを搭載し、理想的な音質を目指しました。\n\n音響工学における「低域の豊かさと中域の明瞭さがトレードオフになる」という課題を、リアチャンバー内の「ラビリンス（迷宮）構造」で克服。\n\nこの複雑な内部構造が不要な共振を精密に吸収し、低音の力強さを保ちつつも、ボーカルの解像度を最大限に引き出すことに成功しました。\n\n筐体素材にはチタンを採用し、その物理的特性を最大限に活かしました。\n\nチタンは優れた剛性で内部共振を自然に抑制し、ドライバーに揺るぎない音響基盤を提供します。\n\n装着時には洗練された冷たさを感じさせつつ、再生される音質は非常に温かく力強いのが魅力です。\n\n美しさと機能性の両立を追求し、CNC加工による精密なシェル設計は、音響再生における物理的な安定性を完璧なレベルまで引き上げています。\n\nEDGEのシェルは、無数の耳型データを分析し、人間工学に基づいて設計されました。\n\nチタンの質感を活かしたデザインでありながら、耳に装着した際に…",
+      "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/07/Softears-EDGE.webp"
+    },
+    {
+      "Title": "【本日みつけたお買い得品】HPのOffice付きノートが約4万円引きでオトク！",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2129469.html",
+      "Published": "2026-07-31T01:55:12Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "【本日みつけたお買い得品】HPのOffice付きノートが約4万円引きでオトク！\n\nAmazonにおいて、HPのOffice搭載15.6型ノートPC「15-fd」(BJ0M5PA-AAAI)が、直近価格から4万1,669円引きとなる13万9,800円で販売されている。なお、Officeなしモデルについても13万6,480円で販売されている。\n\nAmazonにおいて、HPのOffice搭載15.6型ノートPC「15-fd」(BJ0M5PA-AAAI)が、直近価格から4万1,669円引きとなる13万9,800円で販売されている。なお、Officeなしモデルについても13万6,480円で販売されている。\n\n15-fd(BJ0M5PA-AAAI)は、CPUにCore 5 120Uを搭載するノートPC。OSはWindows 11 Homeで、Office 2024も利用できる。ディスプレイは15.6型/1,920×1,080ドットのIPS非光沢パネルを搭載し、メモリは16GB DDR4 SO-DIMMで、ストレージはPCIe NVMe接続の512GB SSDだ。\n\nインターフェイスはUSB 3.2 Gen 1 Type-C、USB 3.2 Gen 1 Type-A 2基、HDMI、専用電源端子、3.5mmオーディオ・コンボジャック、Wi-Fi 6、Bluetoothなどを備える。\n\nマウスコンピューターの「mouse B5」(B5A7A01SR3SIW1106AZ)が、直近価格から3万9,820円引きとなる23万9,980円で販売されている。\n\nmouse B5(B5A7A01SR3SIW1106AZ)は、15.3型/2,560×1,600ドットの非光沢液晶ディスプレイを採用するノートPCで、リフレッシュレートは120Hz。CPUにRyzen AI 7 350を搭載、メモリは32GB DDR5 SO-DIMM、ストレージはM.2接続の500GB SSDで、OSはWindows 11 Home。\n\nインターフェイスは映像出力やUSB PD対応のUSB4 Gen 3x2 Type-C、…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2129/469/03.jpg"
+    },
+    {
+      "Title": "AI価格戦勃発？GPT-5.6が最大80%値下げで中国勢に対抗か",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2129465.html",
+      "Published": "2026-07-31T01:50:07Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "AI価格戦勃発？GPT-5.6が最大80%値下げで中国勢に対抗か\n\nトークンあたりの価格を下げて、低価格で台頭する中国勢に対抗する――。OpenAIは7月30日(米国時間)、最先端AIモデル群「GPT-5.6」シリーズの値下げを発表した。中でも最廉価の「GPT-5.6 Luna」の80%値下げは注目に値し、100万トークン入力あたり0.2ドル(約32円)、100万トークン出力あたり1.2ドル(約193円)と群を抜いて安くなった。このほか、「GPT-5.6 Terra」は20%オフとなった。\n\nAI価格戦勃発？GPT-5.6が最大80%値下げで中国勢に対抗か\n\nトークンあたりの価格を下げて、低価格で台頭する中国勢に対抗する――。OpenAIは7月30日(米国時間)、最先端AIモデル群「GPT-5.6」シリーズの値下げを発表した。中でも最廉価の「GPT-5.6 Luna」の80%値下げは注目に値し、100万トークン入力あたり0.2ドル(約32円)、100万トークン出力あたり1.2ドル(約193円)と群を抜いて安くなった。このほか、「GPT-5.6 Terra」は20%オフとなった。\n\n一方、最上位の「GPT-5.6 Sol」は価格改定を行なわずにAPIへ「Fastモード」を追加。同じ知能のまま、価格は2倍となるが、最大2.5倍の速度で利用できるようになった。\n\nOpenAI最高経営責任者のSam Altman氏は、X(旧Twitter)での投稿で、GPT-5.6 Lunaが「Artificial Analysis Intelligence Index v4.1」において「DeepSeek V4 Pro」や「GLM-5.2 Max」より安価かつ高知能であることを示し、これまで価格で優位に立っていた中国製AIを牽制。「私たちはあらゆるレベルで最良の価格/知能のトレードオフを提供したいと考えている」と述べ、価格改定の意図を表明した。\n\nmajor price cuts today: *80% drop for GPT-5.6 Luna, now $0.20 per million…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2129/465/1.png"
+    },
+    {
+      "Title": "RTX 5090すら15fpsの絶望負荷！超・過酷GPUベンチ「NukeMark」",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2129441.html",
+      "Published": "2026-07-31T01:31:20Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "RTX 5090すら15fpsの絶望負荷！超・過酷GPUベンチ「NukeMark」\n\n70万円するGeForce RTX 5090でも、たった15fpsしか出せない。ノルウェーの企業EzBenchは、そんな過酷な商用GPUベンチマーク/ストレステスト「NukeMark」をSteamで早期アクセス版として提供開始した。価格は2,300円。\n\nRTX 5090すら15fpsの絶望負荷！超・過酷GPUベンチ「NukeMark」\n\n70万円するGeForce RTX 5090でも、たった15fpsしか出せない。ノルウェーの企業EzBenchは、そんな過酷な商用GPUベンチマーク/ストレステスト「NukeMark」をSteamで早期アクセス版として提供開始した。価格は2,300円。\n\nNukeMarkは、Epic Gamesが2025年11月にリリースしたエンジン「Unreal Engine 5.7」をベースに構築したベンチマーク。実際のゲームエンジン内で実行されるストレステストとしては、これまででもっとも要求の厳しいものになるよう設計されている。\n\nこのベンチマークが特徴としているのは、これまで長年レビュー担当者が使ってきた合成的な「パワーウイルス」ループや単一コンポーネントテスターとは異なり、「敵対的な設計」を目指している点だ。つまり、一般的なゲーム開発ではGPUパフォーマンス予算を考慮して画面を滑らかに動かすことを目指しているが、NukeMarkはGPUの限界や隠れた不具合を暴くことを目的として、その予算を一切考慮せず負荷を容赦なくかける仕組み。\n\nそのため、Unreal Engine 5.7が持つあらゆる新技術を山盛り詰め込んでいる。Nanite仮想化ジオメトリをはじめ、MegaLightsマルチライトシステム、ハードウェアレイトレーシングによるLumenグローバルイルミネーションと反射、そして8K仮想テクスチャを同時に処理させることで、高い負荷を生み出すとしている。\n\n特に、GPUをオーバークロックさせたときに失敗しやすいテストも搭載している。Lumenを使ったハードウ…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2129/441/1.jpg"
+    },
+    {
+      "Title": "【本日みつけたお買い得品】マウスのゲーミングデスクトップが約5万円引きで販売中",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2129447.html",
+      "Published": "2026-07-31T01:19:00Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "【本日みつけたお買い得品】マウスのゲーミングデスクトップが約5万円引きで販売中\n\nAmazonにおいて、マウスコンピューターのゲーミングデスクトップ「G TUNE DG」(DGI5A6XB83SJW116AZ)が、直近価格の4万9,820円引きとなる29万9,980円で販売されている。\n\nAmazonにおいて、マウスコンピューターのゲーミングデスクトップ「G TUNE DG」(DGI5A6XB83SJW116AZ)が、直近価格の4万9,820円引きとなる29万9,980円で販売されている。\n\nG TUNE DG(DGI5A6XB83SJW116AZ)は、GPUにRADEON RX 9060 XTを搭載するゲーミングデスクトップ。CPUはCore Ultra 5 225で、メモリは32GB DDR5-5600、ストレージはM.2接続の1TB SSD、OSはWindows 11 Home。\n\nインターフェイスはThunderbolt 4、USB 3.2 Gen 2 Type-C、USB 3.2 Gen 1 Type-A 9基、DisplayPort 2基、HDMI、2.5Gigabit Ethernet、3.5mm音声出力などを備える。Wi-Fi 6EとBluetooth 5.0にも対応し、電源容量は750W。本体側面には開閉式のヘッドフォンホルダーを備えるほか、ケース底面の防塵フィルタは着脱して水洗いも行なえる。\n\nマウスコンピューター G TUNE DG(DGI5A6XB83SJW116AZ)\n\nマウスコンピューターのクリエイター向けデスクトップ「DAIV KM」(KMI5G5AB71SJW106AZ)が、直近価格の2万5,820円引きとなる22万3,980円で販売中だ。\n\nDAIV KM(KMI5G5AB71SJW106AZ)は、CPUにCore i5-14400Fを搭載するクリエイター向けデスクトップ。メモリは16GB DDR5-4800、ストレージはM.2接続の1TB SSD、OSはWindows 11 Homeで、GPUにはGeForce RTX 3050を搭載…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2129/447/02.jpg"
+    },
+    {
+      "Title": "【9月上旬発売】AVIOTから電池切れも気にせず使えるUSB-Cイヤホン CE-V1/CE-G1が登場！",
+      "Link": "https://e-earphone.blog/?p=1550901",
+      "Published": "2026-07-31T01:00:32Z",
+      "Source": "e☆イヤホン",
+      "Category": "",
+      "Summary": "【9月上旬発売】AVIOTから電池切れも気にせず使えるUSB-Cイヤホン CE-V1/CE-G1が登場！\n\nスマホ等で低遅延で電池切れも気にせず使えるUSB-CイヤホンがAVIOTから登場\r\rこんにちは！e☆イヤホンのPRスタッフです！\r今回はAVIOTからの新製品のご紹介です。\r \rAVIOT CE-V1\r\r▼AVIOT\n\nスマホ等で低遅延で電池切れも気にせず使えるUSB-CイヤホンがAVIOTから登場\n\n▼AVIOT CE-V1 e☆イヤホン オンラインストア価格￥5,980- (税込)\n\nハイレゾ再生・ノイズキャンセリングに対応。低遅延で電池切れも気にせず使えるUSB-C イヤホン\n\nハイレゾ音源を鳴らしきる、大口径12mmダイナミック型ドライバー/ハイレゾ対応DAC搭載\n\nつけたまま会話できる外音取込モード搭載/AI技術の活用による高品質通話\n\n周波数特性（Hz）min：20 周波数特性（Hz）max：40000 ｲﾝﾋﾟｰﾀﾞﾝｽ(Ω)：32 感度（dB/mW）：105 最大入力（mW）：5 ノイズキャンセリング：アクティブノイズキャンセリング 外音取込：対応 ドライバー形式：φ12mmダイナミック型 内蔵マイク(通話)：高性能MEMSマイク×1(コントロールボックス) 内蔵マイク(ANC)：高性能ECMマイク×1(イヤホン片側) 防水性能：IPX4相当* 通信方式：USB2.0準拠 (USB Type-C) 対応サンプリング周波数：96kHz 対応ビット数：最大24bit コード長さ：1.2m イヤホン形状：カナル型 その他：通話ミュート対応** *リモコン部除く **使用デバイスやアプリケーションの仕様によっては一部の機能が制限される可能性があります\n\n▼AVIOT CE-G1 e☆イヤホン オンラインストア価格￥3,300- (税込)\n\nこちらの製品は、e☆イヤホンの以下の店舗にてご試聴いただけます。\n\n展示機は9月上旬より先行展示開始予定です。また、各店およびオンラインストアにて在庫をご用意しております。\n\n最後までご覧いただきありがとうございます！ …",
+      "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/07/8048b496385aa0c46c753a7cf43a3c92.webp"
+    },
+    {
+      "Title": "【8/7発売】FIIOから持ち歩きに特化したミニマルデザインのプレイヤーSnowsky ECHO NANOが登場！",
+      "Link": "https://e-earphone.blog/?p=1550841",
+      "Published": "2026-07-31T01:00:21Z",
+      "Source": "e☆イヤホン",
+      "Category": "",
+      "Summary": "【8/7発売】FIIOから持ち歩きに特化したミニマルデザインのプレイヤーSnowsky ECHO NANOが登場！\n\n指先で感じる精度に気付けば触れている。聴くほどに愛着が深まるガジェットプレーヤー\r\rこんにちは！e☆イヤホンのPRスタッフです！\r今回はFIIOからの新製品のご紹介です。\r \rFIIO Snowsky ECHO NANO\n\n指先で感じる精度に気付けば触れている。聴くほどに愛着が深まるガジェットプレーヤー\n\n▼FIIO Snowsky ECHO NANO e☆イヤホン オンラインストア価格￥13,200- (税込)\n\n指先で感じる精度に、気付けば触れている。聴くほどに愛着が深まるガジェットプレーヤー\n\n懐かしいデザインと、人生を共に紡いできた楽曲。親しんだ名曲の記憶が、最新のプレーヤーで新たに塗り替えられていく。\n\n音楽再生を専用プレーヤーに委ねれば、通知やバッテリー残量から解放され、推しのアーティストや作品と2人だけの時間に浸れます。毎日に、そんな贅沢を。\n\n持ち歩きに特化したミニマルデザイン。どこへでも収まり、取り付けられる金属筐体\n\nあの頃夢中になったMP3プレーヤーの外観を再現した、個性的な一台。筐体には6000系アルミマグネシウム合金を採用し、CNC精密加工で上質かつ傷に強い仕上がりに。\n\n付属のクリップ付透明ケースで、どこにでも取り付けてオールシーズン気軽に持ち歩けます。\n\n軽快なダイヤルと物理ボタンで思いのままに。指に馴染むガジェットプレーヤー\n\n本体上部に金属製の多機能ダイヤルを搭載。片手で音量調整、電源オン／オフ、画面の点灯／消灯を操作でき、ポケットに入れたままのブラインド操作も可能です。サイド面の物理ボタンで再生／一時停止、曲送り／曲戻しも思いのままです。\n\n0.91インチの自発光OLEDディスプレイを採用。曲名やアーティスト、フォルダ階層など、操作に必要な基本情報をくっきりと表示します。低消費電力で再生時間の延長にも貢献します。\n\n独立DACチップ「CS43131」と専用オーディオクロック制御による、最新設計のHi-Fiサウンド\n\nこ…",
+      "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/07/FIIO-Snowsky-ECHO-NANO.webp"
+    },
+    {
+      "Title": "【8/7発売】iFi-Audioから精緻な音像と広大な音場のDAC GO link 2 Max が登場！",
+      "Link": "https://e-earphone.blog/?p=1550860",
+      "Published": "2026-07-31T01:00:11Z",
+      "Source": "e☆イヤホン",
+      "Category": "",
+      "Summary": "【8/7発売】iFi-Audioから精緻な音像と広大な音場のDAC GO link 2 Max が登場！\n\n～DAC本来の性能を解き放つ、DRE（ダイナミック・レンジ・エンハンスメント）～\r\rこんにちは！e☆イヤホンのPRスタッフです！\r今回はiFi-Audioからの新製品のご紹介です。\r \riFi-Audio GO link\n\n～DAC本来の性能を解き放つ、DRE（ダイナミック・レンジ・エンハンスメント）～\n\n▼iFi-Audio GO link 2 Max e☆イヤホン オンラインストア価格￥15,950- (税込)\n\n左右独立のデュアルDAC構成が生み出す、精緻な音像と広大な音場\n\nGO link 2 Maxの心臓部には、ポータブルUSB-DACにおける優れた性能と電力効率を両立するESS Sabre DACチップを2基搭載。左右のオーディオチャンネルそれぞれに1基のDACチップを割り当てるバランス構成により、楽器同士のセパレーションと解像度が向上し、広大な音場の中に一人ひとりの演奏者を精緻に定位させます。\n\n4.4mmバランス＋3.5mm S-Balancedの2系統出力。最大241mWのパワフルなドライブ能力\n\n出力端子には4.4mmバランスと3.5mmシングルエンドの2系統を装備。4.4mmバランス出力は最大241mW（32Ω）／4V（300Ω）、3.5mm出力は最大100mW（32Ω）／2V（300Ω）を発揮し、感度の高いイヤホンから鳴らしにくいヘッドホンまで、幅広い組み合わせに対応します。\n\nDAC本来の性能を解き放つ、DRE（ダイナミック・レンジ・エンハンスメント）\n\nDACチップの動作を独自にチューニングすることでDRE（ダイナミック・レンジ・エンハンスメント）を有効化。楽曲の最も大きな瞬間と最も静かな瞬間の間に最大+6dBのダイナミックレンジを追加します。ギターの弦に触れる指先やスネアドラムをなでるブラシの繊細な質感から、オーケストラのクライマックスの高揚感まで、音楽を鮮烈な躍動感とともに描き出します。\n\n高調波歪みを最小限に抑えるTHD補正回路を…",
+      "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/07/iFi-Audio-GO-link-2-Max.webp"
+    },
+    {
+      "Title": "【プロダクトレビュー・ショーケース】【夏のお買い得マザーカタログ】初登場から6年、まだまだ現役ど真ん中！ AMD B550搭載マザーボードロングランの格安モデルからリフレッシュされた最新製品まで text by 芹澤 正芳",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2129309.html",
+      "Published": "2026-07-31T01:00:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "【プロダクトレビュー・ショーケース】【夏のお買い得マザーカタログ】初登場から6年、まだまだ現役ど真ん中！ AMD B550搭載マザーボードロングランの格安モデルからリフレッシュされた最新製品まで text by 芹澤 正芳\n\nIntel、AMDともにCPUの大きな世代更新は落ち着いているが、そのぶん既存CPUは価格がこなれてきており、コストパフォーマンスを重視したPC自作には、“貴重な”追い風となる材料だ。しかしその一方で、最新世代のマザーボードはミドルレンジでも価格は高め。そこで注目したいのが、いまだ現役の大ベテラン選手であるSocket AM4対応のAMD B550チップセットを搭載した製品だ。\n\n【夏のお買い得マザーカタログ】初登場から6年、まだまだ現役ど真ん中！ AMD B550搭載マザーボード\n\nロングランの格安モデルからリフレッシュされた最新製品まで text by 芹澤 正芳\n\nIntel、AMDともにCPUの大きな世代更新は落ち着いているが、そのぶん既存CPUは価格がこなれてきており、コストパフォーマンスを重視したPC自作には、“貴重な”追い風となる材料だ。しかしその一方で、最新世代のマザーボードはミドルレンジでも価格は高め。そこで注目したいのが、いまだ現役の大ベテラン選手であるSocket AM4対応のAMD B550チップセットを搭載した製品だ。\n\nDDR5メモリが高騰する中、B550は、比較的安価(かつ手元にストックがある人も多いだろう)DDR4メモリが利用でき、Ryzen 5000シリーズを中心としたCPUの選択はまだまだ豊富で、新製品まで登場している。そんな状況も手伝ってか、マザーボードは今なお多くのモデルが流通しており、選択肢は幅広い。\n\nただし、設計が古い製品では無線LANが旧世代だったり、USB Type-Cがなかったりする点には注意。その一…",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2129/309/top.jpg"
     },
     {
       "Title": "有線/無線両対応のハイレゾ認証スピーカー「Creative XF1」が発売、カラーは2色",
@@ -4364,144 +4499,144 @@
       "Category": "",
       "Summary": "キーボードと一体化した「Raspberry Pi 400」が10,800円！日本語版の未使用品セール\n\nRaspberry Piとキーボードとを一体化した「Raspberry Pi 400」の未使用品が、イオシス各店でセール中。価格は10,800円で、保証期間は6か月となっています。\n\nキーボードと一体化した「Raspberry Pi 400」が10,800円！日本語版の未使用品セール\n\nRaspberry Piとキーボードとを一体化した「Raspberry Pi 400」の未使用品が、イオシス各店でセール中。価格は10,800円で、保証期間は6か月となっています。\n\nRaspberry Pi 400はシングルボードコンピュータのRaspberry Piの機能を備えたPC。\n\n見た目は普通のパンタグラフキーボードと同様で、本体奥の側面にはmicroSDカードスロット×1、Micro HDMI×2、USB Type-C×1（電源端子）、USB 3.0×2、USB 2.0×1、Gigabit Ethernet×1といったインターフェイスを備えています。\n\nサイズは幅286×奥行き122×高さ23mm。搭載SoCはBroadcom BCM2711（4コアCortex-A72、1.8GHz）。メモリ容量は4GB（LPDDR4-320）。ワイヤレス機能は無線LAN（IEEE 802.11b/g/n/ac準拠）とBluetooth 5.0（BLE対応）。\n\n上記のほか、Raspberry Pi OS書き込み済みのmicroSDカードが付属します。興味がある方はチェックしてみてください。",
       "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2127/800/a1.jpg"
-    },
-    {
-      "Title": "サンコーの暑さ対策アイテムが最大75%オフ！「猛暑に打ち勝て！夏本番セール」が31日まで",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2127701.html",
-      "Published": "2026-07-24T15:05:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "サンコーの暑さ対策アイテムが最大75%オフ！「猛暑に打ち勝て！夏本番セール」が31日まで\n\nサンコー公式オンラインストアで「猛暑に打ち勝て！夏本番セール」が7月31日（金）12:00まで開催中。\n\nサンコーの暑さ対策アイテムが最大75%オフ！「猛暑に打ち勝て！夏本番セール」が31日まで\n\nサンコー公式オンラインストアで「猛暑に打ち勝て！夏本番セール」が7月31日（金）12:00まで開催中。\n\n期間中、暑さ対策に役立つという人気の冷感ガジェットやひんやり家電が最大75％オフにて販売される。\n\nセール対象品の例を挙げると、「雲のねいろマット ふわ」が40%オフの14,880円、「雲のねいろマット りょう」が30%オフの13,860円、「飲み物がずっとキンキン「氷穴クーラー」」が10%オフの8,082円、「作業着感ゼロのファン付きTシャツ「T Shirt \u0026 Fan」」が30%オフの10,360円など。",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2127/701/s1.jpg"
-    },
-    {
-      "Title": "NEC PC-FX本体とソフト62タイトルセットが驚きの110万円！BEEPに中古品が入荷",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2127715.html",
-      "Published": "2026-07-24T15:01:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "NEC PC-FX本体とソフト62タイトルセットが驚きの110万円！BEEPに中古品が入荷\n\n1994年末に登場したNECの家庭用ゲーム機「PC-FX」の本体とソフト計62タイトルの中古品が、BEEP 秋葉原店に入荷。25日（土）から販売予定。\n\nNEC PC-FX本体とソフト62タイトルセットが驚きの110万円！BEEPに中古品が入荷\n\n1994年末に登場したNECの家庭用ゲーム機「PC-FX」の本体とソフト計62タイトルの中古品が、 BEEP 秋葉原店 に入荷。25日（土）から販売予定。\n\n体験版ソフト1点とコントローラー×1個付きで、セット価格は110万円。\n\nなお、ソフトに関しては、「パチ夫くんFXとスーパーパワーリーグFXがディスク割れで起動不可」「一部ソフトはケース痛み、ディスク傷などがある」（同店）とのこと。\n\n状態に難ありのソフトが複数混ざったセットだが、流通量が少ないためか、高額な価格設定になっている。\n\n7/25（土）より『PC-FXソフト62タイトル＋PC-FX本体セット』の販売を開始します！ 体験版ソフト1点・コントローラー1個も付属してます♪ ご来店お待ちしております！ （いっちー☆ほし） ※ソフト62本中2点がディスク割れとなっております。 パチ夫くんFX・スーパーパワーリーグFX pic.twitter.com/EzRCKR3i9r",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2127/715/fx1_Ss.jpg"
-    },
-    {
-      "Title": "ポータブルゲーミングPCやAndroidゲーム機が最大30%オフ！天空「在庫一掃SALE」",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2127679.html",
-      "Published": "2026-07-24T15:00:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "ポータブルゲーミングPCやAndroidゲーム機が最大30%オフ！天空「在庫一掃SALE」\n\n天空は、ポータブルゲーミングPCやAndroidゲーム機、UMPCが最大30%オフとなる「在庫一掃SALE」を開催する。\n\nポータブルゲーミングPCやAndroidゲーム機が最大30%オフ！天空「在庫一掃SALE」\n\n天空は、ポータブルゲーミングPCやAndroidゲーム機、UMPCが最大30%オフとなる「在庫一掃SALE」を開催する。\n\nセール実施店舗は ハイビーム公式オンラインストア とハイビーム店舗、 Amazon.co.jp で、セール期間は7月24日（金）～8月7日（金）。\n\n同セールでは、Androidゲーム機「AYANEO Pocket S」やポータブルゲーミングPC「AYANEO 3 バリューパック」などが対象となっている。\n\nAYANEO Pocket ACE Amazonで購入 楽天で購入\n\nAYANEO Pocket S Mini Amazonで購入 楽天で購入",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2127/679/s1.jpg"
-    },
-    {
-      "Title": "モバ充いらず？OPPO初の「10000mAh」電池搭載「A7 Pro Max」の噂",
-      "Link": "https://smhn.info/202607-oppo-a7-pro-max-10000mah-battery-smartphone-leak",
-      "Published": "2026-07-24T14:26:01Z",
-      "Source": "すまほん!!",
-      "Category": "スマートフォン",
-      "Summary": "モバ充いらず？OPPO初の「10000mAh」電池搭載「A7 Pro Max」の噂\n\nOPPOスマホ、10000mAhの大台か。OPPOが開発中とうわさされる新型スマホ「OPPO A7 Pro Max」について、中国の著名リーカー数码闲聊站（Digital Chat Station）がWeiboに主なスペックを投稿しました。GSMArenaなどが伝えています。リー...\n\nモバ充いらず？OPPO初の「10000mAh」電池搭載「A7 Pro Max」の噂\n\nOPPOが開発中とうわさされる新型スマホ「OPPO A7 Pro Max」について、中国の著名リーカー 数码闲聊站 （Digital Chat Station）がWeiboに主なスペックを投稿しました。GSMArenaなどが伝えています。\n\nリークによると、OPPO A7 Pro Maxは6.78型のフラットな有機EL ディスプレイ を搭載し、解像度は1.5K、 リフレッシュレート は 120Hz 。画面内指紋認証も備えるようです。SoCは Snapdragon 4 Gen 5とのこと。カメラは背面が5000万画素＋200万画素の2眼構成で、前面は5000万画素だそうです。\n\nそして注目のバッテリーは単セル構成の 10000mAh級 で、80W急速充電に対応するといいます。\n\nこれだけの大容量ながら、厚さ8.47mm、重さ226gに収まるとされています。\n\n前世代のOPPO A6 Proは、4G版と5G版のいずれも7000mAhバッテリーと80W急速充電を採用していました。今回の情報が正しければ、A7 Pro Maxでは充電性能を維持しながら、容量を一気に10000mAh級へ引き上げることになります。\n\nなお、6月にも同じリーカーから、OPPOが10000mAh級 バッテリー の機種を開発中との情報が出ており、今回のリークはその内容を具体化したものです。 モバイルバッテリー を持ち歩く機会が減るかもしれませんね。\n\nOPPO端末をオンラインで購入 [AD] 楽天モバイル Y!mobile UQ mobile IIJm…",
-      "ImageURL": "https://smhn.info/wp-content/uploads/2021/08/th_oppo-logo.png"
-    },
-    {
-      "Title": "二眼っぽいけど単眼。赤外線と6500mAh電池搭載の5G機「iQOO Z11i」、中国で約3万円から発売",
-      "Link": "https://smhn.info/202607-iqoo-z11i-6500mah-battery-5g-china-launch-price",
-      "Published": "2026-07-24T13:50:22Z",
-      "Source": "すまほん!!",
-      "Category": "Vivo",
-      "Summary": "二眼っぽいけど単眼。赤外線と6500mAh電池搭載の5G機「iQOO Z11i」、中国で約3万円から発売\n\nvivoのスマートフォンブランドiQOOは2026年7月3日、中国でエントリー向け5Gスマートフォン「iQOO Z11i」を発売しました。推奨小売価格は、6GB+128GB版が1299元（約3万1100円）、8GB+128GB版が1499元（約3万5900円）、8GB+256GB...\n\n二眼っぽいけど単眼。赤外線と6500mAh電池搭載の5G機「iQOO Z11i」、中国で約3万円から発売\n\nvivoのスマートフォン ブランド iQOO は2026年7月3日、中国でエントリー向け5Gスマートフォン「iQOO Z11i」を発売しました。\n\n推奨小売価格は、6GB+128GB版が1299元（約3万1100円）、8GB+128GB版が1499元（約3万5900円）、8GB+256GB版が1699元（約4万700円）です。\n\nSoCは4nmプロセスの Snapdragon 4 Gen 2 です。画面は6.74型で解像度1600×720、最大 120Hz 駆動の液晶を採用し、HBM時の輝度は最大1200ニトに達します。ただし、120Hz表示は一部の対応場面に限られます。アイケアモードを最強にした条件では、TÜV Rheinlandの低ブルーライト認証を取得しています。\n\n実行メモリーは6GBまたは8GBのLPDDR4X、内蔵 ストレージ は128GBまたは256GBのUFS 3.1です。外部ストレージにも対応し、カードと2枚のSIMから2つを選ぶ3選2方式のスロットを採用します。\n\n目玉の電池は6500mAhの単セル式で、定格容量は6355mAhです。\n\nvivoラボでは、常温で1600回の充放電サイクルを終えた後も電池容量が80％以上残ったといいます。1.2日に1回の満充放電を想定すると約5年分に相当する「 バッテリー は5年間長持ち」を謳います。\n\n筐体はIP65の防塵・耐水性能を備え、SGSの5つ星端末落下耐久認証も取得しています。\n\nカメラは背面1300万画素の単…",
-      "ImageURL": "https://smhn.info/wp-content/uploads/2026/07/329af2dca433600ac23f23805bffe803.webp"
-    },
-    {
-      "Title": "噂：あの「Dynamic Island」が縮小へ。iPhone 18 Proに期待",
-      "Link": "https://smhn.info/202607-iphone-18-pro-dynamic-island-35-percent-shrink",
-      "Published": "2026-07-24T12:40:46Z",
-      "Source": "すまほん!!",
-      "Category": "iPhone 18 Pro Max",
-      "Summary": "噂：あの「Dynamic Island」が縮小へ。iPhone 18 Proに期待\n\nあの島が縮小！Appleの次期「iPhone 18」シリーズが量産段階に入り、生産能力を引き上げる局面にあると、中国証券報がサプライチェーン関係者の話として報じ、MacRumorsが伝えました。主力の組立先であるFoxconnは採用のピーク期に入っており、一部拠点では時給を引き上...\n\n噂：あの「Dynamic Island」が縮小へ。iPhone 18 Proに期待\n\nAppleの次期「 iPhone 18 」シリーズが量産段階に入り、生産能力を引き上げる局面にあると、中国証券報がサプライチェーン関係者の話として報じ、 MacRumors が伝えました。\n\n主力の組立先であるFoxconnは採用のピーク期に入っており、一部拠点では時給を引き上げ、採用ボーナスも設けて人員確保を進めていると伝えられています。\n\nちなみに、 iPhone 18 Pro と iPhone 18 Pro Max について、画面サイズは iPhone 17 Pro シリーズと同等のまま、ディスプレイが2つの点で進化すると海外サイト9to5Macは伝えています。\n\n1つ目はパネル技術の刷新です。韓国メディアThe Elecなどによると、現行のLTPOを発展させた「LTPO+」を採用する見通しです。\n\nLTPO+は、酸化物半導体の適用範囲を駆動用TFTまで広げ、OLEDの発光電流をより細かく制御できる技術。そのため電力効率の向上が期待され、9to5Macは低輝度時のちらつき低減につながる可能性もあると指摘しています。\n\nパネルはSamsung Displayと LG Display が供給する見通しです。なお中国のパネルメーカーBOEについて、品質と歩留まりの問題からProモデル向け受注を得られない可能性が高いとThe Elecは伝えています。\n\n2つ目は Dynamic Island （錠剤型ノッチ）の縮小です。リーカーのIce Universeは、 iPhone 17 Pro シリーズ比で幅が約35%狭くなり…",
-      "ImageURL": "https://smhn.info/wp-content/uploads/2022/09/P1033014.jpg"
-    },
-    {
-      "Title": "最大60FPS表示に対応した25.3型カラー電子ペーパーディスプレイ「Bigme B251 Pro」",
-      "Link": "https://www.gdm.or.jp/pressrelease/2026/0724/645293",
-      "Published": "2026-07-24T12:19:13Z",
-      "Source": "エルミタージュ秋葉原",
-      "Category": "",
-      "Summary": "最大60FPS表示に対応した25.3型カラー電子ペーパーディスプレイ「Bigme B251 Pro」\n\n最大60FPS表示に対応した25.3型カラー電子ペーパーディスプレイ「Bigme B251 Pro」が登場。独自技術による残像低減機能や3,200×1,800ドット表示、ワイヤレス表示機能などを備える。\n\n最大60FPS表示に対応した25.3型カラー電子ペーパーディスプレイ「Bigme B251 Pro」\n\n深圳市大我創新科技有限公司（Bigme）は2026年7月24日、25.3型カラー電子ペーパーディスプレイ 「Bigme B251 Pro」 を発表した。従来モデルから表示性能を大幅に向上させ、電子ペーパーディスプレイとしては最大60FPS表示に対応する点が特徴。\n\n「Bigme B251 Pro」は、25.3型のカラー電子ペーパーパネルを採用するディスプレイ。解像度は3,200×1,800ドットで、文字中心の作業から資料閲覧まで高い視認性を実現する。\n\n最大の特徴は、従来モデルの最大21FPSから大幅に向上した最大60FPS表示への対応だ。独自の表示制御技術「xRapid」に加え、自動で残像を低減する「xClear」を組み合わせることで、電子ペーパー特有の残像感を抑えながら滑らかな画面表示を可能としている。\n\n表示モードは、文書閲覧向けやWebブラウジング向け、画像表示向け、動画表示向けなど複数のプリセットを備え、用途に応じて最適な表示品質へ切り替えられる。\n\n映像入力はHDMIとDisplayPortを装備するほか、DLNA、AirPlay、Miracastによるワイヤレス表示にも対応。USB Type-C経由でのデータ転送や周辺機器との接続もサポートする。\n\nまた、30段階で調整可能なフロントライトを搭載し、周囲の明るさに応じた表示環境を構築可能。本体は横置き・縦置きの両レイアウトに対応し、文書作成やプログラミング、電子書籍の閲覧など幅広い用途を想定している。\n\nなお、海外での販売価格は1,279ドル。国内での発売時期や価格については現時点でアナウンスされてい…",
-      "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/07/24/B251_Pro_001.jpg"
-    },
-    {
-      "Title": "【3日間限定】Amazonマンガ毎週末セールでKindleマンガが50%ポイント還元",
-      "Link": "https://komameblog.jp/sale/kindle-20260724-weekend/",
-      "Published": "2026-07-24T11:23:32Z",
-      "Source": "こまめブログ",
-      "Category": "Kindle",
-      "Summary": "【3日間限定】Amazonマンガ毎週末セールでKindleマンガが50%ポイント還元\n\nKindleストアにて7/24から、「Amazonマンガ毎週末セール」が始まりました。対象作品が全巻または既刊全巻ポイント50%還元で、実質半額で入手できます。キャペーン期間は7/26（日）まで。対象作はシリアス・サスペンス系が500作品以...\n\nKindleストアにて7/24から、「Amazonマンガ毎週末セール」が始まりました。対象作品が全巻または既刊全巻ポイント50%還元で、実質半額で入手できます。キャペーン期間は7/26（日）まで。\n\n対象作はシリアス・サスペンス系が500作品以上。そこで今回は特に人気の高い作品をピックアップし、出版社別＆カテゴリー別に分類しました。\n\n今回のキャンペーンで、特に話題性の高い作品です。なかでも「ザ・ファブル」シリーズが全巻まとめて対象となるのは、筆者の把握する限りではじめてのはず。",
-      "ImageURL": "https://komameblog.jp/wp-content/uploads/2026/07/Kindle-20260724-Weekend02.jpg"
-    },
-    {
-      "Title": "【Amazonタイムセール】240Hz対応のMSI製27型ゲーミング液晶が2万円台前半",
-      "Link": "https://www.gdm.or.jp/pressrelease/2026/0724/645289",
-      "Published": "2026-07-24T10:18:10Z",
-      "Source": "エルミタージュ秋葉原",
-      "Category": "",
-      "Summary": "【Amazonタイムセール】240Hz対応のMSI製27型ゲーミング液晶が2万円台前半\n\nAmazonタイムセールにて、MSIの27型フルHDゲーミング液晶ディスプレイ「MAG 272F X24」が特別価格で販売中。通常税込26,800円のところ、タイムセール特価19％オフのタイムセール特価税込20,800円で購入できる。\n\n【Amazonタイムセール】240Hz対応のMSI製27型ゲーミング液晶が2万円台前半\n\nAmazonタイムセールにて、MSIの27型フルHDゲーミング液晶ディスプレイ 「MAG 272F X24」 が特別価格で販売中。通常税込26,800円のところ、タイムセール特価22％オフの税込20,800円で購入できる。\n\nリフレッシュレート240Hz、応答速度0.5msのRAPID IPSパネルを採用し、ディスプレイ同期技術はAMD FreeSync Premiumに対応。さらに表示しているシーンに合わせて輝度や彩度を調整する「AIビジョン」や、暗いシーンの視認性を改善する「ナイトビジョン」などの機能を備える。\n\n文： 編集部 池西 樹 エムエスアイコンピュータージャパン株式会社： https://jp.msi.com/\n\n【Amazonタイムセール】ASUS TUF GamingのRyzen AI M…\n\n【Amazonタイムセール】Ryzen 9 8945HX搭載Mini-ITX、M…\n\nGeometric Future、高流量ポンプ採用の360mm AIO水冷「Es…\n\nCooler Master、ARGBファン4基を標準搭載するMicro-ATXケ…\n\nプラネックス、全ポート10GBASE-T対応の5ポートスイッチ「FXXG-000…\n\nエレコム、士郎正宗氏デザインの復刻マウスに限定カラー「レッド」追加\n\n2026年7月24日 【Amazonタイムセール】ASUS TUF GamingのRyzen AI MAX+ 392搭載ノートPCが4万円引き\n\n2026年7月24日 【Amazonタイムセール】Ryzen 9 8945HX搭載Mini-ITX、…",
-      "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/07/24/MAG_272F_X24_01.jpg"
-    },
-    {
-      "Title": "【Amazonタイムセール】ASUS TUF GamingのRyzen AI MAX+ 392搭載ノートPCが4万円引き",
-      "Link": "https://www.gdm.or.jp/pressrelease/2026/0724/645285",
-      "Published": "2026-07-24T09:58:51Z",
-      "Source": "エルミタージュ秋葉原",
-      "Category": "",
-      "Summary": "【Amazonタイムセール】ASUS TUF GamingのRyzen AI MAX+ 392搭載ノートPCが4万円引き\n\nAmazonタイムセールにて、Ryzen AI MAX+ 392を搭載する14型ゲーミングノートPC「TUF Gaming A14 FA401EA」（型番：FA401EA-AI12C32G）が特別価格で販売中。通常税込399,800円のところ、10％オフのタイムセール特価税込359,800円で購入できる。\n\n【Amazonタイムセール】ASUS TUF GamingのRyzen AI MAX+ 392搭載ノートPCが4万円引き\n\nリフレッシュレート165Hzの14型WQXGA液晶ディスプレイ搭載\n\nAmazonタイムセールにて、Ryzen AI MAX+ 392を搭載する14型ゲーミングノートPC 「TUF Gaming A14 FA401EA」 （型番：FA401EA-AI12C32G）が特別価格で販売中。通常税込399,800円のところ、10％オフのタイムセール特価税込359,800円で購入できる。\n\nディスプレイはリフレッシュレート165HzのWQXGA（2,560×1,600ドット）、メモリはLPDDR5X-8533 32GBで、GPUにはRadeon 8060Sを採用。内蔵GPUながらGeForce RTX 4060 Laptop GPUに匹敵するパフォーマンスを発揮し、AAAゲームも快適に動作する。\n\nその他、ストレージは512GB NVMe M.2 SSD、バッテリ駆動時間は17.2時間で、OSはWindows 11をプリインストールする。\n\n文： 編集部 池西 樹 ASUS JAPAN株式会社： https://www.asus.com/jp/\n\n【Amazonタイムセール】240Hz対応のMSI製27型ゲーミング液晶が2万円…\n\n【Amazonタイムセール】Ryzen 9 8945HX搭載Mini-ITX、M…\n\nGeometric Future、高流量ポンプ採用の360mm AIO水冷「Es…\n\nCooler Master、AR…",
-      "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/07/24/FA401EA-AI12C32G_01.jpg"
-    },
-    {
-      "Title": "【Amazonタイムセール】Ryzen 9 8945HX搭載Mini-ITX、MINISFORUM「BD895i SE」が26％オフ",
-      "Link": "https://www.gdm.or.jp/pressrelease/2026/0724/645280",
-      "Published": "2026-07-24T09:56:57Z",
-      "Source": "エルミタージュ秋葉原",
-      "Category": "",
-      "Summary": "【Amazonタイムセール】Ryzen 9 8945HX搭載Mini-ITX、MINISFORUM「BD895i SE」が26％オフ\n\nAmazonタイムセールにて、MINISFORUMのMini-ITXマザーボード「BD895i SE」が特別価格で販売中。通常税込86,999円のところ、26％オフのタイムセール特価税込63,987円で販売されている。\n\n【Amazonタイムセール】Ryzen 9 8945HX搭載Mini-ITX、MINISFORUM「BD895i SE」が26％オフ\n\nZen 4アーキテクチャの16コア/32スレッドCPUを標準搭載\n\nAmazonタイムセールにて、MINISFORUMのMini-ITXマザーボード 「BD895i SE」 が特別価格で販売中。通常税込86,999円のところ、26％オフのタイムセール特価税込63,987円で販売されている。\n\nCPUはZen 4アーキテクチャの16コア/32スレッドモデル「Ryzen 9 8945HX」で、動作クロックは最大5.4GHzに対応。またRadeon 610MのGPUを内蔵し、HDMI 2.1×1、DisplayPort 1.4×1、USB 3.2 Type-C×1（DP Alt対応）×1による4K解像度の3画面同時出力に対応する。\n\n主なスペックはメモリスロットがDDR5 SO-DIMM×2（最大96GB）、ストレージはM.2 2280（PCI Express 4.0×4）×2、拡張スロットはPCI Express 5.0(x16)×1とワイヤレスカード用のM.2 2230×1を備える。\n\n文： 編集部 池西 樹 MINISFORUM： https://www.minisforum.com/\n\n【Amazonタイムセール】240Hz対応のMSI製27型ゲーミング液晶が2万円…\n\n【Amazonタイムセール】ASUS TUF GamingのRyzen AI M…\n\nGeometric Future、高流量ポンプ採用の360mm AIO水冷「Es…\n\nCooler Master、ARGBファン4…",
-      "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/07/24/BD895i_SE_01.jpg"
-    },
-    {
-      "Title": "Geometric Future、高流量ポンプ採用の360mm AIO水冷「Eskimo Plus 36」",
-      "Link": "https://www.gdm.or.jp/pressrelease/2026/0724/645271",
-      "Published": "2026-07-24T09:52:00Z",
-      "Source": "エルミタージュ秋葉原",
-      "Category": "",
-      "Summary": "Geometric Future、高流量ポンプ採用の360mm AIO水冷「Eskimo Plus 36」\n\nディラックは、Geometric Future製360mmオールインワン型CPU水冷クーラー「Eskimo Plus 36」の取り扱いを開始。高流量K6ポンプや30mm厚ARGBファン、大型純銅製ベースプレートを採用し、7月31日に発売する。\n\nGeometric Future、高流量ポンプ採用の360mm AIO水冷「Eskimo Plus 36」\n\n株式会社ディラック（本社：東京都千代田区）は2026年7月24日、Geometric Future（本社：中国）のオールインワン型水冷ユニット 「Eskimo Plus 36」 について、新規取り扱い開始を発表した。カラーはブラックとホワイトの2色。7月31日（金）より販売が開始され、市場想定売価は各税込14,980円。\n\n毎分最大1.5リットルの高流量「K6」ポンプ（2,600rpm±10％）と360mmサイズラジエーターを採用したオールインワン型水冷ユニット。55.8×55.8mmの大型純銅製ベースプレートを実装し、CPUのヒートスプレッダ全体をカバーし、CPUの熱を効率よく移動する。\n\nまた、ウォーターブロックのトップにはARGBライティング機能を備え、冷却ファンには厚さ30mmの120mm ARGB LEDファン「Squama 3003-12」を3基搭載。回転数は800～2,300rpm、最大風量84CFM、最大静圧2.93mmH2Oに対応し、高密度フィンを採用した360mmラジエーターとの組み合わせにより、高い冷却性能を実現する。\n\nノイズレベルはポンプユニットが24.3dBA、冷却ファンが35.8dBA、ウォーターブロックのサイズは幅71.5mm、長さ71.5mm、高さ54mm、ラジエーターサイズは幅120mm、長さ397mm、高さ27mm、チューブ長は450mm。対応ソケットはIntel LGA 2066 / 2011 / 1851 / 1700 / 1200 / 115x、AMD Socket A…",
-      "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/07/24/Eskimo_Plus_36_01.jpg"
-    },
-    {
-      "Title": "Cooler Master、ARGBファン4基を標準搭載するMicro-ATXケース「elite 350」",
-      "Link": "https://www.gdm.or.jp/pressrelease/2026/0724/645273",
-      "Published": "2026-07-24T09:42:27Z",
-      "Source": "エルミタージュ秋葉原",
-      "Category": "",
-      "Summary": "Cooler Master、ARGBファン4基を標準搭載するMicro-ATXケース「elite 350」\n\nCooler Masterは、120mm ARGBファン4基を標準搭載するMicro-ATX対応PCケース「elite 350」を発表。コンパクト設計ながら240mmラジエーターや最大3基のストレージ搭載に対応する。\n\nCooler Master、ARGBファン4基を標準搭載するMicro-ATXケース「elite 350」\n\nCooler Master Technology（本社：台湾）は2026年7月24日、Micro-ATX対応PCケース 「elite 350」 を発表した。カラーはブラックとホワイトの2色で、市場想定売価はそれぞれ税込6,980円と税込7,480円で、7月31日（金）より販売が開始される。\n\n「elite 350」は、限られた設置スペースでも扱いやすいコンパクト設計を採用したミニタワーPCケース。設置スペースが限られる環境にも導入しやすい。素材はSPCC、プラスチック、強化ガラス。\n\nフロントに120mm ARGBファンを3基、リアに120mm ARGBファンを1基標準搭載し、購入直後から4基の冷却ファンによるエアフローを確保。さらにトップには120mmまたは240mmサイズラジエーターを搭載できるほか、冷却ファンはフロント120mm ×3、トップ120mm ×2または140mm ×2、リア120mm ×1、ボトム120mm ×2まで搭載可能で、コンパクトながら拡張性の高さも特徴のひとつ。\n\nまた、左側面には強化ガラスパネルを採用し、ライティングを活かした魅せるPCの構築にも向く。フロントI/OにはUSB 3.0 Type-A×1、USB Type-C×1、USB 1.0×1、3.5mmオーディオ入出力を備える。\n\n対応マザーボードはMini-ITXおよびMicro-ATX。CPUクーラーは高さ163mmまで、グラフィックスカードは長さ317mmまで、ATX電源は長さ180mmまで搭載できる。ストレージは3.5インチベイ×1基に加え、2.…",
-      "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/07/24/elite_350_001.jpg"
-    },
-    {
-      "Title": "プラネックス、全ポート10GBASE-T対応の5ポートスイッチ「FXXG-0005EM」",
-      "Link": "https://www.gdm.or.jp/pressrelease/2026/0724/645267",
-      "Published": "2026-07-24T09:26:16Z",
-      "Source": "エルミタージュ秋葉原",
-      "Category": "",
-      "Summary": "プラネックス、全ポート10GBASE-T対応の5ポートスイッチ「FXXG-0005EM」\n\nプラネックスは、全5ポートが10GBASE-Tに対応するアンマネージドスイッチ「FXXG-0005EM」を発表。マルチギガビット対応に加え、LANループ検知・防止機能やファンレス設計を採用し、7月下旬より発売する。\n\nプラネックス、全ポート10GBASE-T対応の5ポートスイッチ「FXXG-0005EM」\n\nプラネックスコミュニケーションズ株式会社（本社：東京都渋谷区）は2026年7月24日、全ポートが10GBASE-Tに対応する5ポートアンマネージドスイッチ 「FXXG-0005EM」 を発表した。市場想定売価は税込38,280円で、7月下旬より販売が開始される。\n\n各ポート100M / 1G / 2.5G / 5G / 10Gbpsのマルチギガビットに対応し、カテゴリー5e / 6ケーブルを使用したネットワーク環境でも2.5Gbpsや5Gbpsの高速通信が可能。カテゴリー6A以上のLANケーブルを使用すれば、10Gbps通信も利用できる。\n\nネットワーク障害を防止するLANループ検知・防止機能や最大12KBytesのジャンボフレームに対応。加えて最大14Wの省電力設計によりファンレス動作を実現する。\n\nスイッチングファブリックは100Gbps、パケットバッファは12Mbits、MACアドレス登録数は全ポート合計16,000個。外形寸法は幅180mm、高さ34mm、奥行き145mm、重量約943g。MTBFは621,515時間（25℃） / 328,889時間（40℃）、製品保証は1年間。\n\n文： 編集部 池西 樹 プラネックスコミュニケーションズ株式会社： https://www.planex.co.jp/\n\n(アキバ取材班) オリオスペック、PCIe x1対応の10ギガビットLANカード…\n\n磁力でまとまるUSB Type-C LAN変換ケーブルがバッファローから\n\nプラネックス、Intelチップ採用10GbE対応LANカード「GPE-XGT-I…\n\nエレコム、全ポート10…",
-      "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/07/24/fxxg-0005em_01.jpg"
-    },
-    {
-      "Title": "【中古の日SP】今週末は中古商品5％OFF\u0026ポイント5倍！【7/24(金)20：00～7/27(月)11：00】",
-      "Link": "https://e-earphone.blog/?p=1550745",
-      "Published": "2026-07-24T08:44:27Z",
-      "Source": "e☆イヤホン",
-      "Category": "",
-      "Summary": "【中古の日SP】今週末は中古商品5％OFF\u0026ポイント5倍！【7/24(金)20：00～7/27(月)11：00】\n\n中古商品5%OFF\u0026ポイント5倍！2日間開催の中古製品セールを開催いたします！！\r\r \rイヤホン売るなら買うなら――e☆イヤホン。\r本日よりオンラインストア先行で中古の日 \"SP\"を開催します！\r \n\n中古商品5%OFF\u0026ポイント5倍！2日間開催の中古製品セールを開催いたします！！\n\n本日よりオンラインストア先行で 中古の日 “SP”を開催します！\n\nオンラインストア会場は 7月24日(金) 20:00～ からオープン！\n\n「中古の日」は、毎月5のつく日開催しているe☆イヤホンの中古品セールです。\n\n特定の製品ではなく、中古商品全体がお求めやすくなるセールなので、お目当ての商品が対象になるチャンスが高いですぞ！\n\nまた今回は中古の日”SP”（2日間開催）なので、通常1日間開催のところ 2日間開催! ゆっくりお悩みいただけます。\n\n通常価格から5%引きでご購入いただけます。 憧れのハイエンド機種も、この機会なら手が届きやすい価格に。\n\n通常1%のポイント付与率が、なんと 5倍の5% に。次回のお買い物やアクセサリー購入にご活用いただけます。\n\n店頭販売： 2026年7月25日(土)～26日(日) 各店営業時間内\n\nオンラインストア： 2026年7月24日(金) 20:00～2026年7月27日(月) 11:00 まで\n\n期間中、e☆イヤホン店頭での買取金額が通常より 5%アップ！\n\n使わなくなったイヤホンを売却して、お得に新しいイヤホンへ買い替えるチャンスです。\n\n※ポイントの獲得にはe☆イヤホンの会員登録が必要です。 登録がお済みでない方は、この機会にぜひご登録ください！\n\ne☆イヤホンの中古・買取の情報を発信する、Xアカウントもやってます。お得なキャンペーン情報やフォロー\u0026リポストキャンペーンなども行ってるのでぜひフォローしてみてください！\n\n以上、お得なセール情報でした。e☆イヤホン リユース営業部のかわちゃんがお送りいたしました！\n\ne☆イヤホン リ…",
-      "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/07/banner_260724_used-day-sp_1000570.webp"
     }
   ],
   "world": [
+    {
+      "Title": "ついにプレミアム価格なしで Wi-Fi 7 にアップグレードできるようになりました",
+      "Link": "https://www.xda-developers.com/tp-link-tri-band-be9300-wifi-7-router-150-deal/",
+      "Published": "2026-07-31T14:36:10Z",
+      "Source": "XDA",
+      "Category": "Under $300",
+      "Summary": "ついにプレミアム価格なしで Wi-Fi 7 にアップグレードできるようになりました\n\n40％割引は大きいですね\n\nついにプレミアム価格なしで Wi-Fi 7 にアップグレードできるようになりました\n\nBy Timi Cantisano 公開 2026 年 7 月 31 日、午前 10 時 36 分 EDT Timi は 10 年以上にわたり、スマートフォン、コンピューター、およびテクノロジー分野で興味があるものすべてに焦点を当ててテクノロジーについて執筆してきました。彼は XDA に執筆を開始し、モバイルに関するあらゆることをカバーしていましたが、インターネット上で最高のハイテク製品の最高の割引を明らかにすることを使命として、取引をカバーすることに移行しました。 XDA アカウントにサインインする この TP-Link BE9300 Wi-Fi 7 ルーターは、大金を掛けずに最高の接続性を求めている人向けです。驚異的な速度と最大 2,000 平方フィートの広大なカバー範囲を実現します。有線接続用の 2.5G イーサネット ポートが 4 つと、2.5G WAN ポートも付いています。このルーターは、付属のアプリのおかげでセットアップが簡単で、価格は 40% 割引の 150 ドルのおかげでお得です。\n\nクレジット: TP-Link 現在、ほとんどのルーターは 5GHz および 2.4GHz でブロードキャストできます。これにより 6 GHz 帯域が追加され、利用可能な最高の接続を必要とするトップエンド デバイスの重労働を行うことができます。これが可能になるのは、6GHz 帯域がより多くのデータに対してより広いレーンを提供するためです。\n\nさらに、これは新しいテクノロジーであるため、混雑が少なくなります。 5 GHz と 2.4 GHz 帯域は長年使用されており、周囲の人はワイヤレス データ送信に同じ帯域を利用していることになります。 6GHz 帯域にジャンプすることで、重複を少なくして作業できます。\n\nさらに、ビームフォーミング技術を備えたルーターの複数のアンテナにより、接…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/tp-link-archer-be9300.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "Sony Stocks Up on DRAM for PlayStation 5 Prior to GTA VI Launch",
+      "Link": "https://www.techpowerup.com/351264/sony-stocks-up-on-dram-for-playstation-5-prior-to-gta-vi-launch",
+      "Published": "2026-07-31T14:33:51Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "Claude Code のサブエージェントは 1 つの問題を解決し、他の 3 つの問題を作成します",
+      "Link": "https://www.xda-developers.com/claude-codes-sub-agents-solve-one-problem-and-create-three-others/",
+      "Published": "2026-07-31T14:30:10Z",
+      "Source": "XDA",
+      "Category": "Claude",
+      "Summary": "Claude Code のサブエージェントは 1 つの問題を解決し、他の 3 つの問題を作成します\n\n孤立は与え、孤立は奪います。\n\nClaude Code のサブエージェントは 1 つの問題を解決し、他の 3 つの問題を作成します\n\nBy Mahnoor Faisal 公開 2026 年 7 月 31 日、午前 10:30 EDT Mahnoor Faisal は、XDA 、 SlashGear 、 MakeUseOf 、 Laptop Mag 、 Android Police で署名記事を掲載し、AI と生産性向上ツールをカバーするテクノロジー ジャーナリストです。彼女は 16 歳の頃からプロとして執筆活動を行っており、それ以来何百もの記事を執筆してきました。これには、NotebookLM などの AI ツールから AI 分野全体の最新ニュースまでの詳細なカバレッジが含まれます。彼女のテクノロジーに対する情熱は、8 歳の誕生日に最初の iPod Touch (第 4 世代) を受け取ったときに始まり、それ以来テクノロジーの世界に深く関わってきました。現在、コンピューター サイエンスの学位取得を目指しているマフノール氏は、AI が私たちの働き方や学習方法をどのように再構築しているのかを取材する際に、ジャーナリストの目と技術的基礎の両方をもたらしています。 XDA アカウントにサインインします。AI を使用して、これまで言葉でしか説明できなかったものを初めて構築するときは、本当に魔法のように感じます。あなたのビジョンは数分以内にアイデアからコンセプトに移行し、これまでに行ったものよりも速くなります。 AI を使用して を構築するのが 2 回目、3 回目、4 回目、そして 10 回目であっても、同じスピード (そして興奮) が維持されます。しかし。この段階で何かが微妙に変化します。\n\n最初は見落としていた摩擦に気づき始めます。すべてを一度に一歩ずつ行っているからです。 1 つのことを要求し、待って確認してから、次のことを要求します。ここで、サブエージェントが登場します。タ…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/claude-code-web-on-macbook-with-spotify-in-background.jpeg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "Pixel のデフォルトのランチャーを Niagara Launcher に置き換えたら、元には戻れません",
+      "Link": "https://www.xda-developers.com/replaced-pixels-default-launcher-with-niagara-launcher-cant-go-back/",
+      "Published": "2026-07-31T14:30:10Z",
+      "Source": "XDA",
+      "Category": "Niagara Launcher",
+      "Summary": "Pixel のデフォルトのランチャーを Niagara Launcher に置き換えたら、元には戻れません\n\nこのランチャーは、それ以上ではなく、より少ない操作で、私の Pixel の使い方を変えました。\n\nPixel のデフォルトのランチャーを Niagara Launcher に置き換えたら、元には戻れません\n\nクレジット: Dhruv Bhutani 著 2026 年 7 月 31 日午前 10 時 30 分 EDT に公開 Dhruv Bhutani は 2008 年から消費者向けテクノロジーについて執筆しており、特集記事や意見記事を通じて個人向けテクノロジーの状況について深い洞察を提供しています。彼は XDA-Developers に執筆しており、生産性、ネットワーキング、セルフホスティングなどのトピックに重点を置いています。長年にわたり、彼の作品は Android Police、Android Authority、CNET、PCMag などの主要出版物にも掲載されてきました。専門的な仕事以外では、ドゥルヴは映画や文学などのホラー メディアの熱心なファンであり、フィットネス アクティビティを楽しんだり、レコードを収集したり、ギターを弾いたりしています。\n\n第一世代の発売以来、私は Pixel ユーザーとして、Pixel ランチャーの進化の浮き沈みを経験してきました。クリーンで、高速で、仕事を完了します。通常はそれで十分です。しかしここ1年ほど、私は携帯電話に費やす時間を減らす方法を模索してきました。アプリにすばやくアクセスできるようになり、ホーム画面間を移動したり、フォルダーを調べたり、ウィジェットを眺めたりする時間を短縮できます。変化が必要でした。そこで、ナイアガラランチャーを試してみることにしました。\n\nほとんどのユーザーがランチャーに求めるものと比較して、私はカスタマイズが目立たず、邪魔にならないホーム画面を備えたツールを探していました。 Niagara Launcher を数か月間使用した結果、もう後戻りはできないと断言できます。\n\nシンプルなホーム画…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/dsc08636.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "Galaxy SmartTag 3 のリークは、条件付き (なし) での再設計を示唆しています",
+      "Link": "https://www.androidauthority.com/samsung-galaxy-smarttag-3-leak-3693320/",
+      "Published": "2026-07-31T14:27:00Z",
+      "Source": "Android Authority",
+      "Category": "Samsung SmartThings",
+      "Summary": "Galaxy SmartTag 3 のリークは、条件付き (なし) での再設計を示唆しています\n\nSamsung の Galaxy SmartTag 3 は、新しいデザイン、中央に見えるボタン、そして 1 つの驚くべき妥協を特徴とする可能性があります。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nGalaxy SmartTag 3 のリークは、条件付き (なし) での再設計を示唆しています\n\n0 • Mishaal Rahman / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Galaxy SmartTag 3 はスクワクルのデザインが新しくなるかもしれませんが、内蔵のストラップ穴が失われる可能性があります。\n\n伝えられるところによると、物理ボタンが復活しており、Galaxy スマートフォンを見つけるのに役立つだけでなく、モードとルーティンの自動化をトリガーできる可能性があります。\n\nこのトラッカーは Bluetooth、UWB、Samsung Find、耐水性を維持すると予想されており、Bluetooth 6.0 へのアップグレードの可能性もあります。\n\nサムスンの Galaxy Z Fold 8、Galaxy Z Fold 8 Ultra、Galaxy Watch 9 は発売間近ですが、噂はすでに次の製品に移り始めています。今回はGalaxy SmartTag 3であり、新たにリークされた再設計は、サムスンがトラッカーの一部をより洗練させ、別の部分を少し実用性を低下させる可能性があることを示唆しています。\n\nSamMobile のレポートによると、Galaxy SmartTag 3 は、サムスンのアイテムトラッカーに新鮮な外観を与える、スクワクル型のデザインを採用すると予想されています。一見すると、それは歓迎すべきリフレッシュのように聞こえます。ただし、この再設計には、すぐに気づくことになる 1…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2025/02/Galaxy_SmartTag2_connected_to_OnePlus_13.jpg"
+    },
+    {
+      "Title": "Google Healthはついにその最も迷惑な機能「AI Coach」を修正することができた",
+      "Link": "https://www.androidauthority.com/google-health-ai-coach-mute-toggle-apk-teardown-3693291/",
+      "Published": "2026-07-31T14:24:58Z",
+      "Source": "Android Authority",
+      "Category": "Google Health",
+      "Summary": "Google Healthはついにその最も迷惑な機能「AI Coach」を修正することができた\n\nGoogle Health は間もなく AI コーチをミュートできるようになるかもしれません。コード文字列により、クリーンなメトリクスの AI コメントをオフにする新しい設定が明らかになります。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nGoogle Healthはついにその最も迷惑な機能「AI Coach」を修正することができた\n\n0 • Brady Snyder / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR 多くの Google Health ユーザーは、アプリのダッシュボードを乱雑にする、プロンプトのない長い AI Coach のコメントに不満を表明しています。\n\nGoogle Health v5.04.1 の新しい文字列により、ユーザーが AI Coach の分析情報を無効にできる今後のコーチング設定が明らかになります。\n\n「コーチの洞察なし」オプションを選択すると、基本的なフィットネス指標と追加のコメントを含まないクリーンなレイアウトが復元されます。\n\nGoogle が AI を活用した Health Coach で健康エコシステムを全面的に見直して以来、多くのユーザーは、新しい Google Health アプリの使用にイライラを感じてきました。クリーンで簡単にスキャンできるフィットネス指標の代わりに、ユーザーはアプリを開くたびに、突然、プロンプトのない AI 解説の段落が表示されます。幸いなことに、Googleは反発を認めているようだ。 Google Health アプリ v5.04.1 で発見された新しい文字列は、同社が最終的にユーザーが AI Coach の分析情報をミュートして生データの表示に戻ることができる専用の設定コントロールを準備していることを明らかにしています。\n\nあなた…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Health-Premium-Coach-2-scaled.jpg"
+    },
+    {
+      "Title": "今週のセキュリティ: 名前の正体、AI バグポカリプスが全員を襲う、OpenWRT の欠陥、パスワードの強要",
+      "Link": "https://hackaday.com/2026/07/31/this-week-in-security-whats-in-a-name-the-ai-bugpocalypse-hits-everyone-openwrt-flaws-and-duress-passwords/",
+      "Published": "2026-07-31T14:00:37Z",
+      "Source": "Hackaday",
+      "Category": "Wireguard",
+      "Summary": "今週のセキュリティ: 名前の正体、AI バグポカリプスが全員を襲う、OpenWRT の欠陥、パスワードの強要\n\n標準の素晴らしい点は、選択できるものが非常に多いことです。 (必須の XKCD #927 をここに挿入します。) いくつかの企業は、攻撃のグループを指す命名スキームを開発しています。\n\n標準の素晴らしい点は、選択できるものが非常に多いことです。 (ここに XKCD #927 を挿入してください。) いくつかの企業が攻撃グループを指す命名スキームを開発しており、現在では Google もそれを開発しています。\n\nマルウェア、ランサムウェア、またはエクスプロイト グループが、「Shinyhunters」、「LapSus$」、「Cl0p」、「Lockbit」などの名前を付ける場合があります。存在を宣伝していないグループの場合、識別と命名がより困難になる可能性があります。これらの高度持続的脅威 (APT) グループは、注目を集めたくない国営のものがほとんどで、当初は単に番号が与えられていました。 APT28は民主党の電子メールサーバーをハッキングした疑いのあるロシアGRU情報総局を指し、APT38は金融および暗号通貨の窃盗に関与した北朝鮮の政府機関を指します。\n\n複数の企業や機関が、脅威グループを簡単に参照できるように、通常は地域識別子も含めた命名スキームを開発しました。 CrowdStrike の命名では、ロシア人俳優容疑者には「Bear」グループ、中国には「Panda」、帰属不明の犯罪組織には「Spider」などの名前グループが使用されていますが、Microsoft では「Blizzard」、「Typhoon」、「Tempest」が使用されています。\n\nGoogle は、すでに十分な分類がないと判断し、「RELIC」、「CASTLE」、「COMET」を導入しました。もちろん、各命名団体には他にも多数の分類グループがありますが、次に「Scattered Spider」による攻撃について聞いたときには、それが犯罪グループの CrowdStrike の名前であることがわ…",
+      "ImageURL": "https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg"
+    },
+    {
+      "Title": "自己ホスト型サービスの半分をインターネットに公開するのをやめましたが、何も壊れませんでした",
+      "Link": "https://www.xda-developers.com/stopped-exposing-half-my-self-hosted-services-to-internet-nothing-broke/",
+      "Published": "2026-07-31T14:00:10Z",
+      "Source": "XDA",
+      "Category": "NetBird",
+      "Summary": "自己ホスト型サービスの半分をインターネットに公開するのをやめましたが、何も壊れませんでした\n\n2 つのドア、1 つのルール: 自分自身を正当化する。\n\n自己ホスト型サービスの半分をインターネットに公開するのをやめましたが、何も壊れませんでした\n\nBy Shekhar Vaidya 公開 2026 年 7 月 31 日、午前 10:00 EDT Shekhar Vaidya は、ベテランのテクノロジー ジャーナリストであり、コンピューター サイエンス エンジニアです。彼は Techlatest の創設者であり、ハードウェアと Windows エコシステムに関する技術分析を提供することに何年も費やしてきました。現在、XDA のコンピューティング ライターである Shekhar は、NAS、ストレージ ソリューション、PC 内部に関する深い背景を活用して、読者がテクノロジーを習得できるように支援します。 XDA アカウントにサインインする 私のホームラボ ネットワーキングの旅はジェットコースターのようなものでした。初日から、自己ホスト型サービスをオンラインで公開するには外部ツールが必要でした。私の ISP は、ルーターに穴を開けてサービスを公開するという従来のオプションを提供しませんでした。なぜなら、私は両方のサービスで CGNAT を支持していたからです。私は Tailscale から始めて、それを Cloudflare Tunnel で補完しました。短期間ですが、Tailscale の代替品である Cloudflare Mesh を使用してみました。\n\nしかし、私が依存していたツールはすべて他人の管理下にありました。その後、私のいじくり回し的な自己ホスト的な考え方が芽生え、それらを公開するための自己ホスト型の代替手段を探すことにしました。その過程で、そもそもすべてを公開する必要があるのか​​と疑問を持ち始めました。\n\n間違った問題を解き続けた\n\nすべての修正は混乱を別の場所に移しただけです。\n\n私のネットワークだけではホームラボのニーズを満たすことができないことがすぐに明…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/homelab-pangolin-public-resources-hero.jpeg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "Mac Studio で 25 Gbps Thunderbolt Ethernet を実現する",
+      "Link": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+      "Published": "2026-07-31T14:00:00Z",
+      "Source": "Jeff Geerling",
+      "Category": "",
+      "Summary": "Mac Studio で 25 Gbps Thunderbolt Ethernet を実現する\n\n私は\n\nMac Studio で 25 Gbps Thunderbolt Ethernet を実現する\n\n私は数年間、Mac Studio に内蔵の 10 ギガビット イーサネットを使用してきました。問題なく動作します。4K ビデオをネットワーク経由で NAS から直接編集でき、約 1 GB/秒でバックアップを実行できます。\n\nでも...もっと欲しい。数年前にラックと NAS を 25 GbE にアップグレードし、メイン ワークステーションもアップグレードしたいと考えていました。\n\nMac 用の 25G ネットワーク オプションを調べてみましたが、どれも非常に高価です。\n\nSonnet の Twin25G アダプターは 999 ドル\n\nRaiden Digit の LightOne 25GbE ドッキング ステーションは 399 ドルです (正直言って、これは悪くありません)\n\n問題は、すべての Mac が Thunderbolt アダプタを必要とすることです。安価な（っぽい）PCIe カードを Mac に接続するだけでは済みません（RIP Mac Pro）。\n\nこのブログ投稿を見るまで見るのをやめました。 Christian Kohlschütter さんは、サーバーからプルされた OCP 2 NIC と小さな Thunderbolt 3 アダプター ボードを使用する安価な 25G Thunderbolt アダプターを見つけました。また、Thunderbolt を搭載したあらゆるコンピューターで動作します。\n\n1月当時はわずか160ドルだったので、私にとってはインスタ買いの領域でした。それ以来、Amazon の出品価格は 299 ドルに跳ね上がりましたが、Sonnet に比べればまだ良いほうかもしれません...しかし、現在はマークアップされていないバージョンを見つけるために、いくつかの中国のサイトを調べなければならないかもしれません。\n\nこのブログ投稿は、次の YouTu…",
+      "ImageURL": ""
+    },
+    {
+      "Title": "AMD's RX 9050 GPU comes up short in first review, but there's a good reason why it lags behind NVIDIA's RTX 5050 here",
+      "Link": "https://www.tweaktown.com/rss/click/news/112946/?c=news-mf",
+      "Published": "2026-07-31T13:40:09Z",
+      "Source": "TweakTown",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "ISP とインターネット全体が VPN を使用していることをどのように認識するかは次のとおりです",
+      "Link": "https://www.xda-developers.com/heres-how-your-isp-and-the-entire-internet-know-that-youre-using-a-vpn/",
+      "Published": "2026-07-31T13:30:10Z",
+      "Source": "XDA",
+      "Category": "Networking",
+      "Summary": "ISP とインターネット全体が VPN を使用していることをどのように認識するかは次のとおりです\n\nVPN はプライバシーの保護に役立つかもしれませんが、VPN を使用していることは誰もが知っています。\n\nISP とインターネット全体が VPN を使用していることをどのように認識するかは次のとおりです\n\nBy Adam Conway 公開 2026 年 7 月 31 日、午前 9 時 30分 EDT 私は Adam Conway です。コンピュータ サイエンスの学士号を取得したアイルランドのテクノロジー愛好家で、XDA の主任テクニカル エディターを務めています。私の学士論文は、Android アプリやスマートフォンのパフォーマンスなどの非機能要素のベンチマークの実行可能性について行われました。私は 2017 年から何らかの形でテクノロジー業界で働いています。暇なときは、Counter-Strike や VALORANT をプレイしているのをおそらく見かけます。連絡先は adam@xda-developers.com 、Twitter では @AdamConwayIE 、Instagram では次のとおりです。 AdamConwayIE 、または Reddit の u/AdamConwayIE。 XDA アカウントにサインインする 仮想プライベート ネットワーク (VPN) は、今日のインターネット上で広く普及しているツールです。 VPN は、デバイスとリモート サーバーの間に暗号化されたトンネルを作成し、そのサーバーを介してトラフィックをルーティングして、実際の IP アドレスと場所をマスクします。ある意味、これは ISP をローカルプロバイダーから別の、多くの場合オフショアの代替プロバイダーに移行するようなものです。 VPN テクノロジーは 1990 年代に企業が従業員が企業ネットワークに安全にアクセスできるようにする方法として始まりましたが、その後、一般的なプライバシー、検閲防止、ジオブロッキング回避ツールとして進化しました。実際、最初に広く使用された VPN プ…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2023/09/speedtest-ookla-free-vpn-zenfone.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "アマゾンは米国関税還付の一環として一部のユーザーに返金する",
+      "Link": "https://www.androidauthority.com/amazon-us-tariff-refund-3693229/",
+      "Published": "2026-07-31T13:22:23Z",
+      "Source": "Android Authority",
+      "Category": "Amazon",
+      "Summary": "アマゾンは米国関税還付の一環として一部のユーザーに返金する\n\nアマゾンは、6億ドルの関税還付の一部として受け取った金額の一部を消費者に返還することを認めた。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nアマゾンは米国関税還付の一環として一部のユーザーに返金する\n\n0 • Ryan Haines / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Amazon は関税還付の一部として 6 億ドルを受領したことを認め、一部の消費者は返金されると述べています。\n\n米国最高裁判所は今年初め、トランプ政権の広範な関税を取り消し、企業に返金を要求する資格を与えた。\n\nAmazonはこれらの返金をいつ処理するかを明らかにしていないが、顧客はすぐに小売店からの連絡を期待できるだろう。\n\n最高裁判所は今年、特定の貿易関税を無効にすることで米国政府に打撃を与えた。その結果、企業はそれまで支払った関税の返還を要求することが認められた。電子商取引小売業者のアマゾンは今回、これらの返金をどのように管理するかを発表した。\n\n電話会議でアナリストらと話したアマゾンの最高財務責任者ブライアン・オルサブスキー氏は、同社が関税の払い戻しとして6億ドルを受け取り、その一部が消費者に返還されることを認めた（ブルームバーグ経由）。\n\n同幹部は「特定の輸入料金を顧客に転嫁したことを追跡できる限られた状況を特定しており、それらの返金を受け取った際には、影響を受ける顧客に積極的に連絡し、自動的に返金を行うつもりだ」と述べたという。\n\nオルサブスキー氏は続けて、アマゾンは関税による価格上昇の影響を顧客に転嫁するのではなく、その影響を「大幅に吸収」したと述べた。さらに注目すべきは、この小売大手が関税を見越して在庫を増やしたと伝えられているため、払い戻し額は比較的少額だったということだ。\n\nAmazonが顧客にいつ、どのように返金する予定であるかについての…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2023/01/ces-2023-amazon-logo.jpg"
+    },
+    {
+      "Title": "PC ハードウェアの AI 価格高騰に打ち勝ちましょう — Newegg コンボ取引を活用し、Amazon の価格を追跡し、Woot のようなリサイクル アウトレットを購入します",
+      "Link": "https://www.tomshardware.com/pc-components/beat-the-ai-price-surge-on-pc-hardware-leverage-newegg-combo-deals-track-amazon-prices-and-shop-refurb-outlets-like-woot",
+      "Published": "2026-07-31T13:10:00Z",
+      "Source": "Tom's Hardware",
+      "Category": "PC Components",
+      "Summary": "PC ハードウェアの AI 価格高騰に打ち勝ちましょう — Newegg コンボ取引を活用し、Amazon の価格を追跡し、Woot のようなリサイクル アウトレットを購入します\n\nあらゆる適切な場所で取引を探しています。\n\nPC ハードウェアの AI 価格高騰に打ち勝ちましょう — Newegg コンボ取引を活用し、Amazon の価格を追跡し、Woot のようなリサイクル アウトレットを購入します\n\nあらゆる適切な場所で取引を探しています。\n\n(画像クレジット: Tom's Hardware) リンクをコピー\n\n0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 2 年も経たないうちに、PC ハードウェア市場全体が高価格帯の地獄に突入しました。大惨事というと誇張的に見えるかもしれませんが、PC を構築または購入しようとしている場合、AI ブームが価格に与える影響は計り知れず、コストは一貫して上昇しています。 RAM、SSD、従来のハード ドライブ、グラフィック カード、およびそれらを必要とする PC やラップトップの購入は現在、2024 年や 2025 年に比べて大幅に高価になっており、大量の商品を見つけることがプロセスのほぼ必須の部分となっています。\n\nもちろん、言うは易く行うは難しです。サスカッチやネス湖の怪物のように、PC ハードウェアを本当にお買い得にすることは、ありえない神話のように感じられるかもしれません。しかし、取引を探すことに日々を費やしている私は、そうではないと言えます。どこを見るべきか、何を避けるべきかを知っていれば、毎週お得なセールがたくさんあります。ここでは、より良い価格で必要なギアを見つけるためにチェックすべき場所をいくつか紹介します。\n\nバンドル、バンドル、そしてさらに多くのバンドル\n\nTom's Hardware を信頼できる理由 当社の専門レビュー担当者は、お客様が最適なものを選択できるよう、製品とサービスのテストと比較に時間を費やしています。テスト方法について詳しくは、…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/nB35huSw9Z32UsHeSkreN3-2560-80.jpg"
+    },
+    {
+      "Title": "デュアル Xeon Proxmox ワークステーションを最新のサーバーに置き換えました。利点は効率の向上だけではありませんでした。",
+      "Link": "https://www.xda-developers.com/i-replaced-my-xeon-workstation-with-a-modern-server/",
+      "Published": "2026-07-31T13:00:10Z",
+      "Source": "XDA",
+      "Category": "Home Lab",
+      "Summary": "デュアル Xeon Proxmox ワークステーションを最新のサーバーに置き換えました。利点は効率の向上だけではありませんでした。\n\n私の古いデュアル Xeon リグは、新しいサーバーの動作に対応できず、アイドル時の消費電力はおまけに過ぎません\n\nデュアル Xeon Proxmox ワークステーションを最新のサーバーに置き換えました。利点は効率の向上だけではありませんでした。\n\nBy Ayush Pande 公開 2026 年 7 月 31 日、午前 9:00 EDT Ayush Pande は、PC ハードウェアおよびゲームのライターです。彼が新しい記事に取り組んでいないときは、頭を PC の中に閉じ込めたり、サーバーのオペレーティング システムをいじったりしているのを見かけることがあります。コンピューティングのほかに、彼の興味には、長い RPG に何時間も費やすこと、協力ゲームで友達に怒鳴りつけること、ギターを練習することなどがあります。 XDA アカウントにサインインする ハードコア サーバー プロジェクトに取り組んでいる場合、通常は、すべての仮想ゲストを収容するのに十分な CPU コアと十分なメモリを備えたワークステーションを使用する必要があります。実際、これが私が 3 年近くデュアル Xeon リグを使い続けている主な理由であり、特に Proxmox の実験で数十のコンテナと仮想マシンを実行するのに役立ちます。\n\n残念ながら、エンタープライズ グレードのハードウェアの最大の欠点は、その異常な電力消費です。たとえば、私の古いシステムは、アイドル状態のままで簡単に 130 W を消費しますが、それは、エネルギーを消費する傾向を抑えるためにいくつかの措置を講じた後のことです。非常に高い電力消費量を考慮すると、Xeon ワークステーションのほとんどの電源がオフになっている間、重要な仮想ゲストを実行するためだけに、安価なミニ PC に Proxmox をインストールする必要がありました。\n\nそのため、45HomeLab から X15 ワークステーションについて私に相談が…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/proxmox-x15-13.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "マイクロソフトは来年度にかけてXboxが成長に戻ることを望んでいる",
+      "Link": "https://www.kitguru.net/gaming/matthew-wilson/microsoft-wants-xbox-to-return-to-growth-over-next-fiscal-year/",
+      "Published": "2026-07-31T13:00:07Z",
+      "Source": "KitGuru",
+      "Category": "xbox",
+      "Summary": "マイクロソフトは来年度にかけてXboxが成長に戻ることを望んでいる\n\nマイクロソフトは Xbox の将来に向けて新たな目標を設定しています。同社の最新の収益報告を受けて、Xbox CEO のアシャ・シャルマ氏は、来年度に Xbox の収益とプレーヤーの成長を回復させる計画を概説したメモをスタッフと共有しました。\n\nマイクロソフトは来年度にかけてXboxが成長に戻ることを望んでいる\n\nMatthew Wilson 2 時間前 注目のテクノロジー ニュース , ソフトウェア \u0026 ゲーム\n\nマイクロソフトは Xbox の将来に向けて新たな目標を設定しています。同社の最新の収益報告を受けて、Xbox CEO のアシャ・シャルマ氏は、来年度に Xbox の収益とプレーヤーの成長を回復させる計画を概説したメモをスタッフと共有しました。 The Vergeが入手したメモの中でシャルマ氏は、Xboxは27年度末までにプレーヤーへの還元と収益の増加を目標としており、利益は業界平均と同水準に戻ると述べている。彼女は、あらゆる機能とスタジオがこれらの目標を達成するために役割を果たすだろうと付け加えました。 2 月に就任して以来、シャルマ氏はスタジオの閉鎖や、Xbox の最強のフランチャイズを中心に構築されたより集中的なポートフォリオへの移行など、すでに大きな構造変化を監督してきました。 Xbox が今後 1 年間に重点を置く重要な分野としては、コンソール プラットフォームの強化、最大のシリーズの成長促進、Roblox ビジネス モデルと同様のクリエイター主導のエコシステムに変革するための Minecraft への投資の強化などが挙げられます。 Xbox は、27 年度の収益とプレイヤーの成長の回復から始めて、段階的に進捗状況を測定し、その後、28 年度と 29 年度に有意義な価値と収益の加速をもたらすビジネスにこれらの取り組みを推進します。マイクロソフトは、2030 年までに、長期的なデイリープレイヤー目標の半分に達し、エンゲージメントとマージンが業界トップエンドに匹敵する 2 桁の継続的な…",
+      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/04/New-Xbox-logo-601x330.png"
+    },
     {
       "Title": "ZimaOS と FygoOS は、本当の DIY NAS の戦いがもはや単なる TrueNAS 対 Unraid ではないことを証明します",
       "Link": "https://www.xda-developers.com/zimaos-and-fygoos-prove-the-real-diy-nas-fight-is-no-longer-just-truenas-versus-unraid/",
@@ -8364,15 +8499,6 @@
       "ImageURL": "https://www.notebookcheck.net/fileadmin/Notebooks/Sonstiges/Games/BlackFlagResynced/feature_bfr.jpg"
     },
     {
-      "Title": "ソニー、8月のPlayStation Plusの新しい景品を発表",
-      "Link": "https://www.kitguru.net/gaming/matthew-wilson/sony-reveals-new-playstation-plus-freebies-for-august/",
-      "Published": "2026-07-28T15:00:30Z",
-      "Source": "KitGuru",
-      "Category": "sony",
-      "Summary": "ソニー、8月のPlayStation Plusの新しい景品を発表\n\nソニーは、PlayStation Plus マンスリーゲームの次のバッチを発表しました。 8 月には、加入者は Dying Light 2 を筆頭としたさらに 3 つのゲームを請求できるようになります。また、数か月にわたるプレイテストを経てついにローンチされる Marvel Tokon Fighting Souls 用の追加景品もいくつかあります。\n\nソニー、8月のPlayStation Plusの新しい景品を発表\n\nMatthew Wilson 8 時間前 ソフトウェアとゲーム\n\nソニーは、PlayStation Plus マンスリーゲームの次のバッチを発表しました。 8 月には、加入者は Dying Light 2 を筆頭としたさらに 3 つのゲームを請求できるようになります。また、数か月にわたるプレイテストを経てついにローンチされる Marvel Tokon Fighting Souls 用の追加景品もいくつかあります。今月のラインナップのトップは『Dying Light 2 Stay Human: Reloaded Edition』（PS5/PS4）です。 Reloaded Edition には、基本ゲームに加えて、発売以来追加された多数のアップデートと改善が含まれています。プレイヤーはエイデン コールドウェルの役割を担い、黙示録的な都市を探索し、感染した敵と戦い、派閥間の対立を乗り越え、エイデンの過去の背後にある真実を明らかにします。このゲームは最大 4 人のプレイヤー協力プレイもサポートしています。 Big Walk (PS5) は、コミュニケーションとチームワークに重点を置いた協力型アドベンチャーです。あなたと友達は、ツールやおもちゃを使ってつながりを保ち、一緒に問題を解決しながら、パズルや課題に満ちた広大な世界を探索します。よりリラックスした社交的な体験であり、単に探索したり、実験したり、一緒に過ごす機会がたくさんあります。 Signalis (PS4) がラインナップを締めくくります。…",
-      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2021/10/PlayStation-Plus-732x330.jpg"
-    },
-    {
       "Title": "(PR) Noctua と Prusa Research が Noctua の特徴的なカラーの PETG フィラメントを発売",
       "Link": "https://www.techpowerup.com/351147/noctua-and-prusa-research-release-petg-filaments-in-signature-noctua-colors",
       "Published": "2026-07-28T15:00:30Z",
@@ -8380,6 +8506,15 @@
       "Category": "",
       "Summary": "(PR) Noctua と Prusa Research が Noctua の特徴的なカラーの PETG フィラメントを発売\n\nNoctua と Prusa Research は本日、Noctua の特徴的なカラーの 3D プリンティング フィラメントのラインナップを拡大しました。新しい PETG Prusaments は、以前にリリースされた PLA 材料を補完し、より要求の厳しい用途向けに、より高い靭性と耐熱性を提供します。 「私たちはすでに素晴らしいものを見てきました...\n\nNoctua と Prusa Research が Noctua の特徴的な色の PETG フィラメントを発売\n\n2026 年 6 月 2 日 Noctua が Carbice によって開発された NT-CP1 カーボン ナノチューブ サーマル パッド、プロトタイプ SFF AM5 クーラーを披露 (13)\n\n2026 年 5 月 1 日 Noctua が chromax.black ファンのリリースに時間がかかる理由を説明 (73)\n\n2026 年 5 月 29 日 Noctua がサイレント ビルド向けの相変化 AIO の Computex の発売を予告 (28)\n\n2026 年 7 月 2 日 Noctua が 2027 年に向けて薄型 AM5、ワークステーション エア クーラー、次世代 PSU のコラボレーションを準備 (6)\n\n2026 年 7 月 21 日 Noctua と Pulsar Gaming Gears が提携して Feinmann F01 Noctua Edition を発売 (7)\n\n2026 年 7 月 6 日 Noctua が 2026 年後半までに NL-LC1 CPU クーラーの Chromax.Black バリアントを準備 (20)\n\n2026 年 6 月 2 日 Noctua プロトタイプ相変化 AIO および補助ファン (5)\n\n2026 年 5 月 31 日 Carbice と Noctua が提携し、DIY PC ビルダーに高度なサーマル パッド技…",
       "ImageURL": "https://www.techpowerup.com/img/X9vhrAxNN5btQINl.jpg"
+    },
+    {
+      "Title": "ソニー、8月のPlayStation Plusの新しい景品を発表",
+      "Link": "https://www.kitguru.net/gaming/matthew-wilson/sony-reveals-new-playstation-plus-freebies-for-august/",
+      "Published": "2026-07-28T15:00:30Z",
+      "Source": "KitGuru",
+      "Category": "sony",
+      "Summary": "ソニー、8月のPlayStation Plusの新しい景品を発表\n\nソニーは、PlayStation Plus マンスリーゲームの次のバッチを発表しました。 8 月には、加入者は Dying Light 2 を筆頭としたさらに 3 つのゲームを請求できるようになります。また、数か月にわたるプレイテストを経てついにローンチされる Marvel Tokon Fighting Souls 用の追加景品もいくつかあります。\n\nソニー、8月のPlayStation Plusの新しい景品を発表\n\nMatthew Wilson 8 時間前 ソフトウェアとゲーム\n\nソニーは、PlayStation Plus マンスリーゲームの次のバッチを発表しました。 8 月には、加入者は Dying Light 2 を筆頭としたさらに 3 つのゲームを請求できるようになります。また、数か月にわたるプレイテストを経てついにローンチされる Marvel Tokon Fighting Souls 用の追加景品もいくつかあります。今月のラインナップのトップは『Dying Light 2 Stay Human: Reloaded Edition』（PS5/PS4）です。 Reloaded Edition には、基本ゲームに加えて、発売以来追加された多数のアップデートと改善が含まれています。プレイヤーはエイデン コールドウェルの役割を担い、黙示録的な都市を探索し、感染した敵と戦い、派閥間の対立を乗り越え、エイデンの過去の背後にある真実を明らかにします。このゲームは最大 4 人のプレイヤー協力プレイもサポートしています。 Big Walk (PS5) は、コミュニケーションとチームワークに重点を置いた協力型アドベンチャーです。あなたと友達は、ツールやおもちゃを使ってつながりを保ち、一緒に問題を解決しながら、パズルや課題に満ちた広大な世界を探索します。よりリラックスした社交的な体験であり、単に探索したり、実験したり、一緒に過ごす機会がたくさんあります。 Signalis (PS4) がラインナップを締めくくります。…",
+      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2021/10/PlayStation-Plus-732x330.jpg"
     },
     {
       "Title": "OpenAI CEO サム・アルトマン氏、AI が特異点に入ったと語る - OpenAI モデルが Hugging Face をハッキングしてベンチマークを騙してから 2 週間後",
@@ -8544,15 +8679,6 @@
       "ImageURL": ""
     },
     {
-      "Title": "どのブラウザからでもアクセスできる独自のパーソナルクラウドを開発しました。とても気に入っています",
-      "Link": "https://www.xda-developers.com/i-rolled-my-own-personal-cloud-i-can-access-from-any-browser-and-i-love-it/",
-      "Published": "2026-07-28T13:30:10Z",
-      "Source": "XDA",
-      "Category": "Software and Services",
-      "Summary": "どのブラウザからでもアクセスできる独自のパーソナルクラウドを開発しました。とても気に入っています\n\nコンテナ化されたサービスの作業を容易にするクラウド OS\n\nどのブラウザからでもアクセスできる独自のパーソナルクラウドを開発しました。とても気に入っています\n\nBy Joe Rice-Jones 公開 2026 年 7 月 28 日、午前 9 時 30 分 EDT メイカー、ミーム、そして恥ずかしがり屋のオタクであるジョーは、2018 年に KnowTechie でキャリアをスタートして以来、テクノロジーについて執筆してきました。彼は Apple からアプリ、クラウドファンディングまであらゆるものをカバーしており、複雑なトピックの本質に迫るのが大好きです。その間、彼は、2023 年の春に XDA に本拠地を置くまで、SlashGear や多数の法人顧客向けにも記事を書いていました。彼は、たとえ後で完全に元に戻らなかったとしても、すべてのおもちゃを分解して、どのように機能するかを確認する子供でした。これにより、複雑なシステムがどのように連携して機能するかを説明するための確かな背景が得られ、それ以来、物事を元に戻す段階でうまくなったと彼は約束します。 XDA アカウントにサインインする 誰もがパブリック クラウド サービスに依存したいわけではありません。特に、開発タスクに取り組んでいる場合や暗号化されたファイル転送が必要な場合はそうです。プライベート クラウドの実行は、セキュリティとデータの所有権に対するこのニーズを実現する 1 つの方法ですが、必要なすべての部分をセットアップするのは複雑です。そこでクラウド OS システムが登場します。インフラストラクチャが整備されているため、セットアップにかかる時間が短縮されますが、プロセス全体を通じてデータの所有権を維持できます。\n\nこれをクラウド上のホーム ラボと考えれば、それほど遠くありません。 CasaOS は最もよく知られたオプションの 1 つです。しかし、私は別のシステム、HomeDockOS を使用しており、これまでに見たも…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/07/homedockos-laptop-2.JPEG?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
       "Title": "World's first tri-mode 1300Hz gaming monitor and 12K ultrawide confirmed",
       "Link": "https://www.tweaktown.com/rss/click/news/112881/?c=news-mf",
       "Published": "2026-07-28T13:30:10Z",
@@ -8560,6 +8686,15 @@
       "Category": "",
       "Summary": "",
       "ImageURL": ""
+    },
+    {
+      "Title": "どのブラウザからでもアクセスできる独自のパーソナルクラウドを開発しました。とても気に入っています",
+      "Link": "https://www.xda-developers.com/i-rolled-my-own-personal-cloud-i-can-access-from-any-browser-and-i-love-it/",
+      "Published": "2026-07-28T13:30:10Z",
+      "Source": "XDA",
+      "Category": "Software and Services",
+      "Summary": "どのブラウザからでもアクセスできる独自のパーソナルクラウドを開発しました。とても気に入っています\n\nコンテナ化されたサービスの作業を容易にするクラウド OS\n\nどのブラウザからでもアクセスできる独自のパーソナルクラウドを開発しました。とても気に入っています\n\nBy Joe Rice-Jones 公開 2026 年 7 月 28 日、午前 9 時 30 分 EDT メイカー、ミーム、そして恥ずかしがり屋のオタクであるジョーは、2018 年に KnowTechie でキャリアをスタートして以来、テクノロジーについて執筆してきました。彼は Apple からアプリ、クラウドファンディングまであらゆるものをカバーしており、複雑なトピックの本質に迫るのが大好きです。その間、彼は、2023 年の春に XDA に本拠地を置くまで、SlashGear や多数の法人顧客向けにも記事を書いていました。彼は、たとえ後で完全に元に戻らなかったとしても、すべてのおもちゃを分解して、どのように機能するかを確認する子供でした。これにより、複雑なシステムがどのように連携して機能するかを説明するための確かな背景が得られ、それ以来、物事を元に戻す段階でうまくなったと彼は約束します。 XDA アカウントにサインインする 誰もがパブリック クラウド サービスに依存したいわけではありません。特に、開発タスクに取り組んでいる場合や暗号化されたファイル転送が必要な場合はそうです。プライベート クラウドの実行は、セキュリティとデータの所有権に対するこのニーズを実現する 1 つの方法ですが、必要なすべての部分をセットアップするのは複雑です。そこでクラウド OS システムが登場します。インフラストラクチャが整備されているため、セットアップにかかる時間が短縮されますが、プロセス全体を通じてデータの所有権を維持できます。\n\nこれをクラウド上のホーム ラボと考えれば、それほど遠くありません。 CasaOS は最もよく知られたオプションの 1 つです。しかし、私は別のシステム、HomeDockOS を使用しており、これまでに見たも…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/07/homedockos-laptop-2.JPEG?w=1600\u0026h=900\u0026fit=crop"
     },
     {
       "Title": "Acer ProDesigner PE320QXT プロフェッショナル モニター レビュー: 6K 解像度のタッチスクリーン機能",
@@ -8866,141 +9001,6 @@
       "Category": "wifi 6",
       "Summary": "DFI X6X-ORN – GMSL2 カメラをサポートする IP67 定格の堅牢な Jetson Orin NX/Nano エッジ AI コンピューター\n\nDFI X6X-ORN は、NVIDIA Jetson Orin NX/Nano を搭載したファンレスの IP67 定格エッジ AI コンピューターです。極端なアウトドアや産業向けに設計されています\n\nDFI X6X-ORN は、NVIDIA Jetson Orin NX/Nano を搭載したファンレスの IP67 定格エッジ AI コンピューターです。海洋、農業、建設、インテリジェント輸送アプリケーションなどの過酷な屋外および産業環境向けに設計されています。\n\nこのシステムは、PoE および GMSL2 カメラ インターフェイスを含むすべての I/O に対して、頑丈な M12 および M20 円形防水コネクタに完全に依存しています。 Jetson Orin NX 16GB モジュールを搭載すると最大 157 TOPS の AI パフォーマンスを実現し、MIL-STD-810H 衝撃および振動規格に準拠し、-20°C ～ 60°C の動作温度範囲をサポートします。\n\nSoM – NVIDIA Jetson Orin NX / Nano モジュール Jetson Orin NX 16GB – 最大 157 TOPS、16GB LPDDR5、10W/15W/25W/40W 電力モード\n\nJetson Orin NX 8GB – 最大 117 TOPS、8GB LPDDR5、10W/15W/25W/40W 電力モード\n\nJetson Orin Nano 8GB – 最大 67 TOPS、8GB LPDDR5、7W/10W/25W 電力モード\n\nJetson Orin Nano 4GB – 最大 34 TOPS、4GB LPDDR5、7W/10W / 25W 電力モード\n\nストレージ – NVMe SSD 用 M.2 2242/2280 M キー スロット\n\nディスプレイ – M20 コネクタ経由の HDMI\n\nカメラ –…",
       "ImageURL": "https://www.cnx-software.com/wp-content/uploads/2026/07/DFI-X6X-ORN-Jetson-IP67-fanless-edge-AI-computer.jpg"
-    },
-    {
-      "Title": "2009年の『Wolfenstein』がついにSteamに再出品されるかもしれない",
-      "Link": "https://www.kitguru.net/desktop-pc/mustafa-mahmoud/2009s-wolfenstein-might-finally-be-relisted-on-steam/",
-      "Published": "2026-07-28T10:00:36Z",
-      "Source": "KitGuru",
-      "Category": "Wolfenstein",
-      "Summary": "2009年の『Wolfenstein』がついにSteamに再出品されるかもしれない\n\nSteam での上場廃止から 10 年以上が経過し、2009 年の Wolfenstein が復活する可能性があります。おそらく今年の QuakeCon 中に発表されるでしょう。\n\n2009年の『Wolfenstein』がついにSteamに再出品されるかもしれない\n\nMustafa Mahmoud 18 時間前 注目のテクノロジー ニュース , PC , ソフトウェア \u0026 ゲーム , テクノロジー ニュース\n\n2014 年に The New Order が登場する前、クラシック FPS シリーズの最新作は 2009 年の Wolfenstein でした。 Raven Software (過小評価されている X-Men Origins: Wolverine ゲームで知られ、現在は Call of Duty のサポート スタジオとして機能している) によって開発されたこのシリーズは、Zenimax Media による id Software の買収をきっかけにほぼリブートされることになります。 10 年以上前に Steam から正式に除外されましたが、2009 年にリリースされた Wolfenstein が復活に向けて準備を進めているようです。複数のユーザーによって発見されたように、2009 年の Wolfenstein の公式 SteamDB ページでは最近、大量の内部活動が見られ、ゲームの以前のリリース日 (2009 年 8 月) が削除され、Steam Deck のテストを紹介していると思われる新しい文字列が削除されました。これで何も起こらないかもしれないが、ベセスダの QuakeCon が来月初旬に開始される予定であり、30 周年を祝うというこのタイミングは興味深い。さらに、Wolfenstein シリーズをめぐる議論が増えており、Machine Games (Wolfenstein: The New Order と The New Colossus を開発した) の 3 作目が現…",
-      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/07/wolfenstein-732x330.jpg"
-    },
-    {
-      "Title": "OnePlus が米国で消滅した今、私が心配している Android ブランドがもう 1 つあります",
-      "Link": "https://www.androidauthority.com/oneplus-dead-us-now-worried-about-nothing-3690861/",
-      "Published": "2026-07-28T10:00:19Z",
-      "Source": "Android Authority",
-      "Category": "OnePlus",
-      "Summary": "OnePlus が米国で消滅した今、私が心配している Android ブランドがもう 1 つあります\n\nOnePlusは最近、米国と欧州市場から撤退する計画を発表した。これでは、将来何も起こらないのではないかと心配しています。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nOnePlus が米国でなくなった今、私が心配している Android ブランドがまた 1 つあります\n\n0 • Brady Snyder / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください 10 年以上を経て、OnePlus はもう存在しません。そうですね、少なくとも北米とヨーロッパではそうです。 OnePlus は常に何よりもまず愛好家のためのブランドでしたが、T-Mobile などの通信事業者との初期の取り組みにより、これを超えて拡大するために最善を尽くしたのは確かです。\n\n焦点をアジア市場に絞るというOPPO所有の会社の決定は、最も大きな影響を与えることができる市場にリソースを再配分する、より広範な世界戦略の一環として組み立てられている。このような曖昧な説明は実際にはほとんど何も語っていませんが、要点は、米国 (および欧州) 市場が価値以上に問題を抱えたということです。\n\nOnePlus の撤退はヨーロッパのファンにとっては悲しいニュースかもしれませんが、米国にとっては、すでに非常に限られているスマートフォン市場がさらに縮小することを意味します。最近では、アメリカのバイヤーはほとんどが Apple、Samsung、Google、Motorola に加えて、Blu や TCL などの (比較的) あまり知られていないブランドをいくつか持っています。\n\nこのことを考えると、次は何も起こらないのではないかと心配になります。\n\nNothingがOnePlusに続いて米国市場から撤退することになるのだろうか？\n\nNothing の状況が OnePlu…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/01/Fairphone-6-Nothing-Phone-Comparison-7.jpg"
-    },
-    {
-      "Title": "大胆なプログラマーは、正規表現を使用して Doom を 1 フレームあたり 180 秒で実行します。まるで「ショットガンを使った通信チェス」をプレイしているかのようです。1 秒あたり 80,000 の置換でフレームをレンダリングするのに、約 1,400 万の置換が必要です",
-      "Link": "https://www.tomshardware.com/software/programming/daring-coder-gets-doom-running-with-regular-expressions-at-180-seconds-per-frame-like-playing-correspondence-chess-with-a-shotgun-nearly-14-million-substitutions-to-render-a-frame-at-80-000-substitutions-per-second",
-      "Published": "2026-07-28T10:00:00Z",
-      "Source": "Tom's Hardware",
-      "Category": "Software",
-      "Summary": "大胆なプログラマーは、正規表現を使用して Doom を 1 フレームあたり 180 秒で実行します。まるで「ショットガンを使った通信チェス」をプレイしているかのようです。1 秒あたり 80,000 の置換でフレームをレンダリングするのに、約 1,400 万の置換が必要です\n\n彼は間違いなくできると思っていましたが、そうすべきかどうかは考えていませんでした。\n\n大胆なプログラマーは、正規表現を使用して Doom を 1 フレームあたり 180 秒で実行します。まるで「ショットガンを使った通信チェス」をプレイしているかのようです。1 秒あたり 80,000 の置換でフレームをレンダリングするのに、約 1,400 万の置換が必要です\n\n彼は間違いなくできると思っていましたが、そうすべきかどうかは考えていませんでした。\n\n(画像クレジット: Artem Lytkin) リンクをコピー\n\n4 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 最もランダムなハードウェア上で 1992 Doom を実行することは、おそらく最も一般的な非公式プログラミングの課題となっています。私たちは、トースターから Anker の充電器、さらには妊娠検査薬に至るまで、あらゆるものでゲームが実行されるのを見てきました。進取的なプログラマーは、可能な限り奇妙なソフトウェア上でそれを実行することもできます。つい最近、Artem Lytkin が正規表現でそれを実行できるようにしました。\n\nこの文は間違いなく呪われているため、聴衆の開発者はおそらく恐怖に身をよじっているでしょう。正規表現 (regexes) は、テキストの検索と置換のためにプログラムで使用されるユーティリティ言語です。これらは信じられないほど強力ですが、構文は意味不明に見えるため、書き込み専用であると言われることがよくあります。たとえば、/.*(\\d{4}).*/g は、「Tom's Hardware 2026 の記事」で「2026」を検索します。条件文、複雑な文字ジャンプ、置換…",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/NT3tYSnYPbRPpA4C7RXrxY-1152-80.png"
-    },
-    {
-      "Title": "SK Hynix LPDDR6、2026年後半に量産開始",
-      "Link": "https://www.techpowerup.com/351135/sk-hynix-lpddr6-enters-mass-production-in-second-half-of-2026",
-      "Published": "2026-07-28T09:32:47Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "SK Hynix LPDDR6、2026年後半に量産開始\n\n韓国のヘラルド紙によると、SKハイニックスは次世代LPDDR6メモリの量産準備を進めているという。この情報は驚くべきことではありませんが、タイムラインは現在、7 月に始まった 2026 年後半に設定されています。以前の噂では大量生産が行われることが示唆されていました...\n\nSK Hynix LPDDR6、2026年後半に量産開始\n\n2025 年 12 月 13 日 SK ハイニックス、メモリ供給の逼迫は 2028 年まで続くと予測 (118)\n\n2025 年 11 月 24 日 中国の CXMT が国産の DDR5-8000 および LPDDR5X-10667 メモリを発表 (12)\n\n2026 年 2 月 5 日 今年は NVIDIA GeForce RTX 50 \"SUPER\" GPU は搭載されず、RTX 60 シリーズも延期 (107)\n\n2026 年 7 月 13 日 中国の CXMT、今年マイクロンの DRAM 製造能力に匹敵 (28)\n\n2026 年 2 月 6 日 NVIDIA、Micron なしの「Vera Rubin」に SK hynix と Samsung HBM4 を使用 (7)\n\n2026 年 5 月 11 日 中国の POWEV が最大 64 GB の UDIMM、SODIMM、および RDIMM モジュールで DDR5 市場に参入 (22)\n\n2026 年 3 月 10 日 SK ハイニックス、16 Gb 容量の 1c LPDDR6 メモリを発表 (6)\n\n2026 年 6 月 28 日 Apple、制裁対象の中国製メモリメーカー CXMT の使用について米国の承認を求める (15)\n\n2026 年 5 月 4 日 DDR6 開発は 2028 年の商用出荷を目指す (29)\n\n2026 年 7 月 20 日 SK ハイニックス、メモリ価格を抑えるために米国の製造オプションを検討 (8)\n\nSK Hynix LPDDR6が2026年後半に量産開始に関するコメント",
-      "ImageURL": "https://www.techpowerup.com/img/6CiY8yGUeAx3GdEA.jpg"
-    },
-    {
-      "Title": "Galaxy Z Fold 8は誰も話題にしていない3つのアップグレードで私を魅了しました",
-      "Link": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-upgrades-no-one-talking-about-3690545/",
-      "Published": "2026-07-28T09:30:05Z",
-      "Source": "Android Authority",
-      "Category": "Samsung Galaxy Z Fold 8",
-      "Summary": "Galaxy Z Fold 8は誰も話題にしていない3つのアップグレードで私を魅了しました\n\nGalaxy Z Fold 8を実際に使ってみたところ、新しいワイドディスプレイよりもさらに感銘を受けた、過小評価されているアップグレードが3つ見つかりました。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nGalaxy Z Fold 8は誰も話題にしていない3つのアップグレードで私を魅了しました\n\n0 • Sanuj Bhatia / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください それはついに起こりました。 「ワイド」Samsung Galaxy Z Fold 8が正式に登場し、パスポートスタイルのフォームファクターで同社初の折りたたみ式をマークします。これは、これまで私たちが見てきた標準的な Galaxy Z Fold スマートフォンよりも短く、著しく幅が広いため、広げると本当にタブレットのようなフォーム ファクターになります。\n\n当初、私はサムスンが純粋に今年後半に発売される Apple の折りたたみ式 iPhone Ultra に先んじるためにこれを行っているのではないかと考えていました。そして、表面的には、新しいアスペクト比を見て、それがすべてだと言い、Galaxy Z Fold 8をAppleに徹底的に勝つための怠惰な試みとして片付けるのは簡単です。しかし、実際はそうではありません。\n\n私は現在、Galaxy Z Fold 8 を実際に触ってみました。新しいアスペクト比には間違いなく魅了されましたが、この折りたたみ式には、誰もあまり話題にしていない他にも 3 つのアップグレードがあります。実際、これらは、このデバイスを使用した短い期間で私が最も印象に残った変更点です。\n\nあなたにとって最も重要な Galaxy Z Fold 8 のアップグレードはどれですか?\n\n折り目は最終的に背景に消えます\n\nSanuj Bh…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/z-fold-8-launch-day-1.jpg"
-    },
-    {
-      "Title": "Wuchang: Fallen Feathers が新規プレイヤーのマイルストーンとともに 1 周年を祝う",
-      "Link": "https://www.kitguru.net/tech-news/mustafa-mahmoud/wuchang-fallen-feathers-celebrates-1st-anniversary-with-new-player-milestone/",
-      "Published": "2026-07-28T09:15:37Z",
-      "Source": "KitGuru",
-      "Category": "Wuchang",
-      "Summary": "Wuchang: Fallen Feathers が新規プレイヤーのマイルストーンとともに 1 周年を祝う\n\n最初のリリースから 1 年が経過し、ソウルライクな Wuchang: Fallen Feathers の総プレイヤー数が正式に 500 万人を突破しました。\n\nWuchang: Fallen Feathers が新規プレイヤーのマイルストーンとともに 1 周年を祝う\n\nMustafa Mahmoud 32 分前 注目のテクノロジー ニュース , ソフトウェア \u0026 ゲーム , テクノロジー ニュース\n\nソウルライクは、ビデオ ゲーム分野でますます注目を集めるジャンルとなり、世界中の開発者が、フロム ソフトウェアによって有名になった非常に人気のあるゲームプレイ デザイン フォーマットに独自の解釈を提供しています。このジャンルのピークにはほど遠いものの、2025 年の『Wuchang: Fallen Feathers』は、初リリース時に確かな印象を残しました。開発スタジオの閉鎖が報じられたにもかかわらず、Wuchang は新規プレイヤーを発掘し続けており、現在このゲームの総プレイヤー数は 500 万人を超えています。 「WUCHANG: Fallen Feathers」の 1 周年を祝うためにゲームの Steam ページにアクセスし、パブリッシャー 505 Games はソウルライクが大きなマイルストーンを超えたことを明らかにし、次のように書いています:「この非常に特別な日に、プレイヤー数が 500 万人を超えたことを確認できることを嬉しく思います。WUCHANG: Fallen Feathers をプレイし、サポートし、共有し、信じてくれたすべての人々に感謝します。この信じられないほどのマイルストーンに到達することができたのは、おかげさまであります」この素晴らしいコミュニティに。」特にこのゲームが 5 月に PlayStation Plus に追加されたことを考えると、500 万人のプレイヤーが 500 万本の販売本数に相当するわけではないことは言及する価値があり、…",
-      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/07/WUCHANG-732x330.jpg"
-    },
-    {
-      "Title": "AMD、ASRock の最初の設計を備えた Radeon RX 9050 4/8 GB SKU を発売",
-      "Link": "https://www.techpowerup.com/351134/amd-launches-radeon-rx-9050-4-8-gb-skus-with-first-design-from-asrock",
-      "Published": "2026-07-28T09:10:10Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "AMD、ASRock の最初の設計を備えた Radeon RX 9050 4/8 GB SKU を発売\n\nAMD は、最下層の RDNA 4 グラフィックス カードを OEM およびボード パートナーに出荷し、Radeon RX 9050 4 GB および 8 GB のバリエーションを導入しました。 4 GB モデルは、Radeon RX 9050 8 GB の縮小版であり、メモリ構成のみが変更されています。どちらのカードにも 1,024 個のストリーミング プロセッサーが搭載されています。\n\nAMD、ASRock の最初の設計を備えた Radeon RX 9050 4/8 GB SKU を発売\n\n2025 年 8 月 21 日 12VHPWR コネクタの溶融により、最初の AMD RX 9070 XT 被害者が主張 (109)\n\n2026 年 5 月 14 日 AMD FSR アップスケーリング 4.1 が Radeon RX 7000/6000 GPU (252) に正式に登場\n\n2025 年 9 月 3 日 NVIDIA ディスクリート GPU 市場シェアの優位性が 94% に拡大、ノート レポート (237)\n\n2025 年 11 月 3 日 AMD が Radeon RX 5000/6000 シリーズの「メンテナンス モード」を明確に、初日のゲーム サポートは継続 (160)\n\n2025 年 8 月 27 日 AMD の次世代 UDNA: 4 つのダイ サイズ、1 つの潜在的な 96-CU フラッグシップ (87)\n\n2026 年 7 月 13 日 最大 8x モードを備えた AMD FSR マルチフレーム生成が開発中 (78)\n\n2025 年 11 月 17 日 Valve は、Steam Machine が現在のゲーミング PC の 70% を上回るパフォーマンスを発揮すると主張 (133)\n\n2026 年 6 月 22 日 AMD FSR アップスケーリング 4.1 が Radeon RX 7000 GPU 向けに正式リリース (106)\n\n2026 年…",
-      "ImageURL": "https://www.techpowerup.com/img/lkyDj0pDA2c6F2Zo.jpg"
-    },
-    {
-      "Title": "Google Clock がストップウォッチとタイマーのライブ アップデートをついにサポート",
-      "Link": "https://www.androidauthority.com/google-clock-live-updates-stopwatch-timer-3691860/",
-      "Published": "2026-07-28T09:08:11Z",
-      "Source": "Android Authority",
-      "Category": "Google Clock",
-      "Summary": "Google Clock がストップウォッチとタイマーのライブ アップデートをついにサポート\n\nGoogle Clock v9.0 では、ロック画面や AOD のライブ アップデートを含む、タイマーとストップウォッチのライブ アップデートのサポートが開始されています。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nGoogle Clock がストップウォッチとタイマーのライブ アップデートをついにサポート\n\n0 • Stephen Schenck / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google Clock がついに Android のライブ アップデートをサポートするようになりました。\n\nアプリでは、ステータス バー、ロック画面、常時表示に、実行中のタイマーまたはストップウォッチがライブ アップデートとして表示されるようになりました。\n\nGoogleはこれをサーバー側のアップデートとして展開しているため、すべての人に届くまでにしばらく時間がかかる可能性があります。\n\nGoogle 時計アプリには通常、多くの新機能はありません。最後のメジャーアップデートは3月に行われ、アプリの世界時計画面に新しい天気アイコンが導入されました。しかし、Google もこのアプリのことを忘れていません。 Android のライブ アップデートのサポートという、実際に便利な新機能を備えた新しいアップデートの展開が開始されています。\n\nあなたは Authority Insights の記事を読んでいます。 Authority Insights は、他では見られない Android Authority チームからの最新の独占レポート、アプリの分解、リーク、詳細な技術報道をすべて提供します。\n\nGoogle クロック アプリの最新バージョン (v9.0) では、ユーザーがアプリを終了したときのストップウォッチまたはタ…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2024/08/google-clock-timers-scaled.jpg"
-    },
-    {
-      "Title": "Google Health のせいで Pixel Watch が台無しになりましたが、この 170 ドルの代替品がその場を救ってくれました",
-      "Link": "https://www.androidauthority.com/google-health-ruined-pixel-watch-amazfit-alternative-better-why-3691243/",
-      "Published": "2026-07-28T09:00:52Z",
-      "Source": "Android Authority",
-      "Category": "Google Pixel Watch",
-      "Summary": "Google Health のせいで Pixel Watch が台無しになりましたが、この 170 ドルの代替品がその場を救ってくれました\n\nGoogle Health アプリに飽きたので、Pixel Watch をより安価な代替アプリに交換することにしました。そして私は戻りません。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nGoogle Health のせいで Pixel Watch が台無しになりましたが、この 170 ドルの代替品がその場を救ってくれました\n\n0 • Joe Maring / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください 私は Google の Pixel Watch の大ファンです。最初のモデルはあまりピンと来ませんでしたが、Pixel Watch 2 のおかげで私は Google 製のスマートウォッチを信じるようになりました。Pixel Watch 3 は非常に優れているため、発売から 2 年近く経った今でもまだ使っています。\n\nそのため、現在の Pixel Watch エクスペリエンスがめちゃくちゃだと言われても嬉しくありません。必ずしも時計自体に関係があるわけではありませんが、5 月に導入された Google Health アプリが全面的に刷新されたためです。\n\nGoogle Health の新しいエクスペリエンスは非常にイライラするので、私は Pixel Watch を着用するのを嫌がるようになりました。実際、あまりにもひどい状態になったので、何か着るものを探すためにスマートウォッチの引き出しをあさり始めました。そうしているうちに、持っていることをすっかり忘れていた予算170ドルのAmazfitウォッチを偶然見つけました。数週間使い続けていますが、Pixel Watch を少しも忘れていません。\n\n2026 年の Pixel Watch エクスペリエンスに満足していますか?\n\nG…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/amazfit-active-max-watch-hero-1-scaled.jpg"
-    },
-    {
-      "Title": "MotorolaのAndroid 17ベータ版で発見された新機能は次のとおりです",
-      "Link": "https://www.androidauthority.com/motorola-android-17-beta-features-3691873/",
-      "Published": "2026-07-28T08:37:59Z",
-      "Source": "Android Authority",
-      "Category": "Motorola Edge",
-      "Summary": "MotorolaのAndroid 17ベータ版で発見された新機能は次のとおりです\n\nMotorola は、Android 17 ベータ版を Moto Edge 60 Pro に拡張しました。ここでは、すべての新機能と UI の変更を紹介します。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nMotorolaのAndroid 17ベータ版で発見された新機能は次のとおりです\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Motorola は、最終候補に残ったコミュニティ フォーラム ユーザー向けに、Android 17 ベータ プログラムを Moto Edge 60 Pro まで拡張しました。\n\nユーザーテストにより、カメラカットアウト周りのダイナミックアイランドスタイルのライブアップデート機能、Qiraという名前の新しいMoto AIアシスタント、大幅に改善された触覚などの新機能が明らかになりました。\n\nインターフェースの追加変更には、サイズ変更可能なクイック タイル、ロック画面のカスタマイズ、Pixel UI スタイルのボリューム スライダー、HelloUI アプリ ドロワーの改良などが含まれます。\n\nMotorola は数カ月前に Android 17 ベータ プログラムをいくつかのデバイスに拡張しましたが、同社は現在、さらに多くの携帯電話にそれを拡張しています。最近では、同社はベータ プログラムをインドの Moto Edge 60 Pro に拡大し、ユーザーは Motorola の Android 17 リリースのこれまでの新機能を共有しています。\n\nReddit ユーザーの athulrox47 は、Moto Edge 60 Pro で Android 17 ベータ版を受け取り、次の変化を観察しました。\n\nサイズを変更できる新しいクイック タイル\n\nWi-Fi、セルネットワーク、バッテリーの新しいアイコン\n\n新しい Mot…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Motorola-Edge-60-Pro.jpg"
-    },
-    {
-      "Title": "FFVIIのような他のファイナルファンタジーリメイクプロジェクトを期待しないでください",
-      "Link": "https://www.kitguru.net/gaming/mustafa-mahmoud/dont-expect-any-other-final-fantasy-remake-projects-like-ffvii/",
-      "Published": "2026-07-28T08:30:38Z",
-      "Source": "KitGuru",
-      "Category": "Yoshi-P",
-      "Summary": "FFVIIのような他のファイナルファンタジーリメイクプロジェクトを期待しないでください\n\nスクウェア・エニックスは、『FFVII』の流れで他のファイナルファンタジーゲームをリメイクするのはあまり意味がないと考える理由を説明した。\n\nFFVIIのような他のファイナルファンタジーリメイクプロジェクトを期待しないでください\n\nMustafa Mahmoud 1 時間前 注目の発表 , ソフトウェア \u0026 ゲーム\n\nスクウェア・エニックスのファイナルファンタジー VII リメイク プロジェクトは大規模なプロジェクトであり、1997 年の PSOne クラシック作品が 10 年の歳月をかけて 2 つのコンソール世代と 3 つのゲーム全体にわたってリメイクされました。 FFVII と同様の他のリメイク プロジェクトの可能性について議論する中で、シリーズ プロデューサーの吉田直樹 (吉 P) は、これが素晴らしいアイデアではない可能性が高い理由を明らかにしました。 Genki_JPN が書き起こし/翻訳したように、ファイナルファンタジーシリーズプロデューサーの吉田直樹氏は、FFVIIの作業が終了した後、ファイナルファンタジー6、8、または9などをリメイクする可能性について尋ねられました。これが最良のアイデアではない理由について、吉田氏は「プレイヤーの気持ちはもちろんわかりますが、よく考えてください。『ファイナルファンタジー VI』を見てください。これは信じられないほど巨大なゲームです。スケールが膨大です。そして、同じことが『ファイナルファンタジー VIII』や『ファイナルファンタジー IX』などの他のタイトルにも当てはまります。今は『ファイナルファンタジー VII』シリーズを開発中ですから、当然です。他のタイトルのリメイクを求める人がいるのはわかります。でも、もし他のタイトルをリメイクしたとしたら、タイトルはおそらく 4 回、あるいは 5 回に分けてリリースする必要があるでしょう。」前述したように、ファイナルファンタジー VII のリメイクは多くの人にとって生涯にわたるプロジェクトであ…",
-      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/07/FF-REMAKE-732x330.jpg"
-    },
-    {
-      "Title": "ユーザー名のタイプミスにより、間違った男が1年以上刑務所に送られた",
-      "Link": "https://www.androidauthority.com/username-typo-prison-canada-innocent-man-3691845/",
-      "Published": "2026-07-28T08:28:04Z",
-      "Source": "Android Authority",
-      "Category": "Messaging Apps",
-      "Summary": "ユーザー名のタイプミスにより、間違った男が1年以上刑務所に送られた\n\nカナダ人男性が、警察がユーザー名を打ち間違えたとして不当に有罪判決を受け、18か月の懲役刑となった。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nユーザー名のタイプミスにより、間違った男が1年以上刑務所に送られた\n\n0 • Andy Walker / Android Authority Google Discover でフォローしてください 優先情報源として追加してください TL;DR カナダ人男性が児童性的虐待の罪で不当に有罪判決を受け、18か月の懲役刑を言い渡されました。\n\n米国警察が実際の容疑者のハンドルネームではなく、誤って彼のKikメッセンジャーのユーザー名を入力したことが判明した。\n\nその後、米国警察は無実の男性の情報をカナダ警察に引き渡し、カナダの裁判所は誤ったユーザー名のみで彼に有罪判決を下した。\n\nソーシャル メディア、ゲーム ネットワーク、その他のプラットフォーム上で、誰かのユーザー名を打ち間違えたことは誰しもあるはずです。残念なことに、警察が容疑者のユーザー名を打ち間違えたことが判明し、その後、容疑者は18か月の懲役刑となった。\n\nウィスコンシン州警察が召喚状に実際の容疑者のハンドルネームではなくブランドン・クレイムのユーザー名を誤って入力したことが明らかになった後、ノバスコシア州の裁判所はブランドン・クレイムの児童性的虐待罪に対する有罪判決を覆した（h/t: Ars Technica ）。具体的には、クレイミーの Kik メッセンジャーのユーザー名は fus_roh_dah でしたが、容疑者のハンドル名は fus__roh_dah でした。つまり、容疑者のユーザー名には余分なアンダースコアが付いていました。\n\nその後、（誤って入力された）Kik アカウントがカナダ国民である Klayme のものであることが判明し、米国警察は事件をカナダ当局に引き渡した。警察は彼の家を捜索し、いくつかの機器を押収した…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2023/03/kik-feature.jpg"
-    },
-    {
-      "Title": "(PR) Alphacool、DDCzero XS Reservoir、DDCzero Pumptop、ES Reservoir DDCzero 1Uを発表",
-      "Link": "https://www.techpowerup.com/351132/alphacool-announces-ddczero-xs-reservoir-ddczero-pumptop-and-es-reservoir-ddczero-1u",
-      "Published": "2026-07-28T08:20:11Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "(PR) Alphacool、DDCzero XS Reservoir、DDCzero Pumptop、ES Reservoir DDCzero 1Uを発表\n\nブラウンシュヴァイクの Alphacool International GmbH は、PC 水冷テクノロジーのパイオニアです。業界で最も包括的な製品ポートフォリオの 1 つと 20 年以上の経験を持つ Alphacool は、Core DDCzero XS リザーバー、Core DDCzero ポンプなどの DDCzero シリーズを拡張しています。\n\nAlphacool、DDCzero XS リザーバー、DDCzero ポンプトップ、ES リザーバー DDCzero 1U を発表\n\nSFF および 1U システム向けのコンパクトな設計\n\n最大 220 l/h の DDCzero PWM ポンプ\n\n柔軟な G1/4 インチ接続オプション\n\nポンプ付きコア DDCzero XS リザーバー: UVP/メーカー希望小売価格 189,98 ユーロ\n\nポンプ付きコア DDCzero ポンプトップ: UVP/メーカー希望小売価格 169,98 ユーロ\n\nリザーバー DDCzero 1U ポンプ付き: UVP/メーカー希望小売価格 159,98€\n\n2026 年 6 月 7 日 Alphacool が Computex 2026 で Xbox Series X/S プロトタイプ クーラーを含む新しい冷却製品を展示 (6)\n\n2026 年 7 月 24 日 Alphacool の紹介 DDCzero ポンプ、リザーバー、取り付けキット (17)\n\n2026 年 7 月 16 日 Alphacool が MSI、GIGABYTE、ASUS 用の新しい CPU+VRM モノブロックを発表 (9)\n\n2026 年 7 月 9 日 Alphacool が、Eisblock Arc Pro B60 Creator フルカバー ウォーター ブロックを発表 (0)\n\n2026 年 2 月 12 日 Alphacool イントロ コア ディス…",
-      "ImageURL": "https://www.techpowerup.com/img/KKe4kNGcMEgvXrP0.jpg"
-    },
-    {
-      "Title": "Anthropic gives thoughts on open-weights models, especially those from China",
-      "Link": "https://www.tweaktown.com/rss/click/news/112880/?c=news-mf",
-      "Published": "2026-07-28T08:15:10Z",
-      "Source": "TweakTown",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "Waveshare RP2350-POE-ETH – PoE を備えた Raspberry Pi RP2350 MCU ボード",
-      "Link": "https://www.cnx-software.com/2026/07/28/waveshare-rp2350-poe-eth-a-raspberry-pi-rp2350-mcu-board-with-poe/",
-      "Published": "2026-07-28T08:02:22Z",
-      "Source": "CNX Software",
-      "Category": "waveshare",
-      "Summary": "Waveshare RP2350-POE-ETH – PoE を備えた Raspberry Pi RP2350 MCU ボード\n\nWaveshare RP2350-POE-ETH は、W6300 チップを通じてイーサネットが実装された Raspberry Pi RP2350 ボードで、オプションの PoE (Power-over-Ethernet) をサポートします。\n\nWaveshare RP2350-POE-ETH は、W6300 チップを介して実装されたイーサネット、オプションの PoE (Power-over-Ethernet) のサポート、および 2 つの GPIO ヘッダーを備えた Raspberry Pi RP2350 ボードです。\n\nW5100S-EVB-Pico2、W5500-EVB-Pico2、W6300-EVB-Pico2 など、WIZNet の Ethernet を備えたいくつかの Raspberry Pi RP2350 ボードを取り上げましたが、当時は PoE を備えたボードはどれも宣伝されていませんでした。それ以来、4 ピン WizPOE-P1 モジュールによって状況が変わり、Waveshare RP2350-POE-ETH ボードはより手頃な価格のオプションを提供します。\n\nWaveshare RP2350-POE-ETH 仕様:\n\nマイクロコントローラー – Raspberry Pi RP2350A CPU デュアルコア Arm Cortex-M33 プロセッサー @ 150 MHz\n\nデュアルコア 32 ビット RISC-V Hazard3 @ 150 MHz\n\n同時に最大 2 つのコア (2x Arm、2x RISC-V、または 1x Arm + 1x RISC-V) を使用できます。\n\nストレージ – 16Mbit SPI NOR フラッシュ\n\nイーサネット 10/100Mbps イーサネット RJ45 ポート (WIZnet W6300「iEthernet」チップ経由)\n\nオプションモジュール用の6ピンPoEコネクタ\n\nUSB –…",
-      "ImageURL": "https://www.cnx-software.com/wp-content/uploads/2026/07/Raspberry-Pi-RP2350-power-over-ethernet-PoE-board.jpg"
     }
   ]
 }
