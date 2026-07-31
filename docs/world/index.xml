@@ -1,6 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Fri, 31 Jul 2026 22:15:49 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Fri, 31 Jul 2026 23:16:39 +0000</lastBuildDate>
+<item><title>ボタンを押す複雑な方法</title><link>https://hackaday.com/2026/07/31/a-complex-way-to-push-a-button/</link><guid isPermaLink="true">https://hackaday.com/2026/07/31/a-complex-way-to-push-a-button/</guid><pubDate>Fri, 31 Jul 2026 23:00:58 +0000</pubDate><description><![CDATA[<p>ボタンを押す複雑な方法
+
+おそらく誰もが、人生の中で単純な問題を見て、簡単に解決できるだろうと考えていましたが、プロジェクトが最初に認識していたよりもはるかに複雑であることに気づいたことがあるでしょう。湿った…
+
+おそらく誰もが、人生の中で単純な問題を見て、簡単に解決できるだろうと考えていましたが、プロジェクトが最初に認識していたよりもはるかに複雑であることに気づいたことがあるでしょう。住宅改修プロジェクトを開始する場合でも、自転車や車を簡単に修理する場合でも、Linux マシンに無名なソフトウェアをインストールしようとする場合でも、これらの作業に費やす時間は、ひどく過小評価されてしまうことがよくあります。 [オスカー] の常夜灯は毎晩明るさを設定する必要がありますが、それを自動化するマイクロコントローラーを入手するのは簡単に思えますよね?
+
+さて、この小型デバイスを開けると、最初の問題はどの部品にもラベルが貼られていないことです。そのため、何も損傷せずに既存のマイクロコントローラーのピンにジャンパーを追加するだけでは、簡単に実現できません。セカンダリ マイクロコントローラーを追加するのが次の当然のステップですが、常夜灯の電源が非常に不足しているため、最小の Raspberry Pi や既製の Arduino を使用することも問題外でした。 [Oscar] は代わりに、電力要件の問題を解決する ATtiny85 を選択しましたが、USB デバイスなしでプログラムするのは少し困難です。そこから、実際にボタンを押すために回路に接続されたトランジスタと、いくつかのサポート抵抗が必要になるため、[オスカー] は実際にこれらすべてのコンポーネントを保持するための PCB をカスタム構築しました。
+
+それにもかかわらず、常夜灯の筐体内のスペースにより PCB の取り付けは困難でしたが、最終的には、ホーム オートメーション システムが常夜灯のプラグに電源を入れると、自動的に起動して必要な回数だけスイッチを押し、その後自動的にスリープ状態になるデバイスを完成させました。この安価で小さな…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/07/nightlight-internals-main.jpeg" alt="ボタンを押す複雑な方法"></p>]]></description><source url="https://hackaday.com/2026/07/31/a-complex-way-to-push-a-button/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/07/nightlight-internals-main.jpeg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/07/nightlight-internals-main.jpeg"/></item>
+<item><title>AMDは2029年までAM5のサポートを約束したが、メモリ危機によりそれが止まらなくなる可能性がある</title><link>https://www.xda-developers.com/amd-promised-am5-support-until-2029-and-the-memory-crisis-might-not-let-it-stop-there/</link><guid isPermaLink="true">https://www.xda-developers.com/amd-promised-am5-support-until-2029-and-the-memory-crisis-might-not-let-it-stop-there/</guid><pubDate>Fri, 31 Jul 2026 23:00:10 +0000</pubDate><description><![CDATA[<p>AMDは2029年までAM5のサポートを約束したが、メモリ危機によりそれが止まらなくなる可能性がある
+
+AM5 はコンシューマー PC の過去、現在、そして明らかに未来でもあります。
+
+AMDは2029年までAM5のサポートを約束したが、メモリ危機によりそれが止まらなくなる可能性がある
+
+By Abhinav Raj 公開 2026 年 7 月 31 日、午後 7 時 EDT アビナブは、銀行業界でのキャリアから方向転換して、初恋を作家として追求しました。フルタイムで働きながらも、編集長として貢献を続け、その役割を 7 年以上務めました。生涯テクノロジー愛好家であり、2018 年以来、ゲームと生産性に優れた PC を 3 台開発してきました。テクノロジーへの情熱により、NVIDIA や AMD から ARM に至るまで、半導体業界を常に追い続けています。彼の修士論文では、人工知能が仕事の未来をどのように再構築するかを探求し、新興テクノロジーの広範な社会的影響に対する彼の好奇心を反映しています。 XDA アカウントにサインインする 2 年前、現在使用しているビルドに MSI B650M マザーボードを追加したとき、その 5 年後の関連性を考慮しました。私は、少なくとも 2 CPU 世代分のアップグレードの余裕があると計算しました。AMD が寛大だと感じれば、おそらく 3 世代分のアップグレードの余地があると考えました。プラットフォームの置き換えは 2027 年頃まで検討されず、これらすべての理由が AM5 の販売価格を形成しました。かなり満足でした。
+
+今年初めの Computex で、AMD は日付を 2029 年に変更しました。私は今、この B シリーズ マザーボードには、私が購入した時点では AMD の内部ロードマップにのみ載っていたアーキテクチャを実行する、別のプロセッサ ラインが採用されると予想しています。この理由は、チップメーカーの寛大さとはほとんど関係がなく、消費者市場における前例のない変化のおかげで、Team Red がまだ決定できていないことに関係してい…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/11/amd-ryzen-7-9800x3d-installed.jpg?w=1600&amp;h=900&amp;fit=crop" alt="AMDは2029年までAM5のサポートを約束したが、メモリ危機によりそれが止まらなくなる可能性がある"></p>]]></description><source url="https://www.xda-developers.com/amd-promised-am5-support-until-2029-and-the-memory-crisis-might-not-let-it-stop-there/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/11/amd-ryzen-7-9800x3d-installed.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/11/amd-ryzen-7-9800x3d-installed.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>Epomaker Launches $65 TH65 Wireless Mechanical Keyboard</title><link>https://www.techpowerup.com/351280/epomaker-launches-usd-65-th65-wireless-mechanical-keyboard</link><guid isPermaLink="true">https://www.techpowerup.com/351280/epomaker-launches-usd-65-th65-wireless-mechanical-keyboard</guid><pubDate>Fri, 31 Jul 2026 22:45:31 +0000</pubDate><description><![CDATA[<p>Epomaker Launches $65 TH65 Wireless Mechanical Keyboard</p>]]></description><source url="https://www.techpowerup.com/351280/epomaker-launches-usd-65-th65-wireless-mechanical-keyboard">TechPowerUp</source></item>
+<item><title>仕事の半分を Haiku + Sonnet に移しましたが、ほとんどの違いが分かりませんでした</title><link>https://www.xda-developers.com/moved-half-my-work-to-haiku-sonnet/</link><guid isPermaLink="true">https://www.xda-developers.com/moved-half-my-work-to-haiku-sonnet/</guid><pubDate>Fri, 31 Jul 2026 22:30:10 +0000</pubDate><description><![CDATA[<p>仕事の半分を Haiku + Sonnet に移しましたが、ほとんどの違いが分かりませんでした
+
+それ
+
+仕事の半分を Haiku + Sonnet に移しましたが、ほとんどの違いが分かりませんでした
+
+By Mahnoor Faisal 公開 2026 年 7 月 31 日、午後 6 時 30分 EDT Mahnoor Faisal は、XDA 、 SlashGear 、 MakeUseOf 、 Laptop Mag 、 Android Police で署名記事を掲載し、AI と生産性向上ツールをカバーするテクノロジー ジャーナリストです。彼女は 16 歳の頃からプロとして執筆活動を行っており、それ以来何百もの記事を執筆してきました。これには、NotebookLM などの AI ツールから AI 分野全体の最新ニュースまでの詳細なカバレッジが含まれます。彼女のテクノロジーに対する情熱は、8 歳の誕生日に最初の iPod Touch (第 4 世代) を受け取ったときに始まり、それ以来テクノロジーの世界に深く関わってきました。現在、コンピューター サイエンスの学位取得を目指しているマフノール氏は、AI が私たちの働き方や学習方法をどのように再構築しているのかを取材する際に、ジャーナリストの目と技術的基礎の両方をもたらしています。 XDA アカウントにサインインする AI チャットボットがまだハネムーン段階にあったとき、私たちのほとんどは、実際に質問に答えるモデルについて考えたこともありませんでした。言うほどの使用制限はなく、無駄遣いによる実際のコストも、選択したくても選択できるモデルの広がりもありませんでした。モデルが 1 つあれば、それが答えを与えてくれますが、それを比較検討するものは何もありませんでした。状況が私たちにそれを要求しなかったため、私たちはタスクをモデルに適合させる感覚を養うことができませんでした。
+
+時間が経ち、新しい AI ラボが登場すると、状況は完全に変わりました。突然、1 つのモデルではなく、全ラインナップが登場しました。高速なもの、安価なもの、…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/claude-models-displayed-within-claude-code-cli-window.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="仕事の半分を Haiku + Sonnet に移しましたが、ほとんどの違いが分かりませんでした"></p>]]></description><source url="https://www.xda-developers.com/moved-half-my-work-to-haiku-sonnet/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/claude-models-displayed-within-claude-code-cli-window.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/claude-models-displayed-within-claude-code-cli-window.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>5 年間の作業を経て、リアルタイムでプログラムできるこれらの ESP32 ロボットを構築する準備が整いました。</title><link>https://www.xda-developers.com/esp32-robots-microblocks/</link><guid isPermaLink="true">https://www.xda-developers.com/esp32-robots-microblocks/</guid><pubDate>Fri, 31 Jul 2026 22:23:12 +0000</pubDate><description><![CDATA[<p>5 年間の作業を経て、リアルタイムでプログラムできるこれらの ESP32 ロボットを構築する準備が整いました。
+
+彼らは
+
+5 年間の作業を経て、リアルタイムでプログラムできるこれらの ESP32 ロボットを構築する準備が整いました。
+
+クレジット: ShuaiLiang2035 By Simon Batt 公開 2026 年 7 月 31 日、午後 6 時 23 分 EDT Simon はコンピューター サイエンスの学士号を取得しており、2014 年からテクノロジーについて執筆しており、3.1 から Windows マシンを使用しています。インディーズ ゲーム スタジオで働き、コンピューターの問題全般に対応する家族の頼りになる技術者として活動した後、彼は文章を書くことへの情熱に気づき、自分のスキルセットをテクノロジーに関するあらゆることについて書くことに決めました。ライターとしてのキャリアを始めて以来、彼は WorldStart 、 Listverse 、 MakeTechEasier などのさまざまな出版物に執筆してきました。しかし、2019 年 2 月に MakeUseOf に居場所を見つけた後、最終的にはその姉妹サイトである XDA に移り、最新かつ最高の Windows、Linux、DIY 電子機器を提供することになりました。 XDA アカウントにサインインする
+
+CoCube は、小さくてかわいい ESP32 ロボットを作るレゴ スタイルのコーディング キットです。
+
+MicroBlocks を使用すると、コードをリアルタイムでワイヤレスで送信し、再コンパイルせずに即座に動作を調整できます。
+
+動きから始めてセンサーに至るまで、ロボットに乗り込む方法を人々に教えるように設計されています。
+
+誰かをテクノロジーに興味を持ってもらいたい場合、最善の方法の 1 つは、レゴのセットを作るのと同じくらい簡単になるように、それを細分化することです。それが、この愛らしい小さなロボットの背後にある考え方であり、完成までに 5 年かかりました。パーツを組み合わせるだけで、自分…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/microblocks-robot-featured.jpg?w=1600&amp;h=900&amp;fit=crop" alt="5 年間の作業を経て、リアルタイムでプログラムできるこれらの ESP32 ロボットを構築する準備が整いました。"></p>]]></description><source url="https://www.xda-developers.com/esp32-robots-microblocks/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/microblocks-robot-featured.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/microblocks-robot-featured.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>Sony has secured enough memory to meet PS5 sales targets through March 2027 and says no further price hikes are planned</title><link>https://www.tweaktown.com/rss/click/news/112957/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112957/?c=news-mf</guid><pubDate>Fri, 31 Jul 2026 22:20:10 +0000</pubDate><description><![CDATA[<p>Sony has secured enough memory to meet PS5 sales targets through March 2027 and says no further price hikes are planned</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112957/?c=news-mf">TweakTown</source></item>
 <item><title>Lightroom をオープンソースの代替品に置き換えたところ、Adobe のサブスクリプションが突然無意味に感じられました</title><link>https://www.xda-developers.com/replaced-lightroom-free-open-source-alternative-adobe-subscription-pointless/</link><guid isPermaLink="true">https://www.xda-developers.com/replaced-lightroom-free-open-source-alternative-adobe-subscription-pointless/</guid><pubDate>Fri, 31 Jul 2026 22:00:10 +0000</pubDate><description><![CDATA[<p>Lightroom をオープンソースの代替品に置き換えたところ、Adobe のサブスクリプションが突然無意味に感じられました
 
 オープンソース ソフトウェアが、堅牢な機能セットを提供しながら見た目も使い心地も優れている Lightroom の競合製品である RapidRAW ほど輝けるものはほとんどありません。
@@ -58,6 +102,19 @@ Google は今年の大部分を、さまざまなフィットネス サービス
 
 9to5Google は、Google Home アプリのバージョン 4.23 で「Ne​​st Hub が Google Health とどのように連携するか」を説明する更新されたテキスト文字列を発見しました。この文言は、Google Fit に関する以前の言及を大幅に置き換えており、スマート ディスプレイの睡眠データが最終的には代わりに Google Health によって処理され…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2021/03/google-nest-hub-second-generation-review-sleep-sensing-schedule-scaled.jpg" alt="Google Health が Nest Hub の睡眠追跡を引き継ぐ準備を進めている"></p>]]></description><source url="https://www.androidauthority.com/nest-hub-sleep-tracking-moving-to-google-health-3693527/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2021/03/google-nest-hub-second-generation-review-sleep-sensing-schedule-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2021/03/google-nest-hub-second-generation-review-sleep-sensing-schedule-scaled.jpg"/></item>
 <item><title>Reddit is building a video and audio listening experience for the viral post format it accidentally created for TikTok</title><link>https://www.tweaktown.com/rss/click/news/112956/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112956/?c=news-mf</guid><pubDate>Fri, 31 Jul 2026 21:50:11 +0000</pubDate><description><![CDATA[<p>Reddit is building a video and audio listening experience for the viral post format it accidentally created for TikTok</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112956/?c=news-mf">TweakTown</source></item>
+<item><title>Google、制裁対象国のAndroid開発者認証を免除する計画</title><link>https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/</link><guid isPermaLink="true">https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/</guid><pubDate>Fri, 31 Jul 2026 21:35:56 +0000</pubDate><description><![CDATA[<p>Google、制裁対象国のAndroid開発者認証を免除する計画
+
+キューバやイランにいる人は、新たな制限なしで APK をインストールし続けることができますが、開発者は苦しむことになります。
+
+テキスト設定 ストーリーテキスト サイズ 小 標準 大 幅 * 標準 幅広 リンク 標準 オレンジ * 購読者のみ 詳細はこちら ナビゲーションに最小化 Google の Android 開発者検証システムの最初の公開まであと 1 か月となっており、同社はこのポリシーがプラットフォームのオープンな性質に影響を与えるものではないと主張しています。それでも、この制限は大きな変化となるだろうし、まだ答えのない疑問もいくつかある。検証の準備段階で繰り返し浮上する問題は、住んでいる場所のせいで検証できない開発者はどうなるのかということです。 Google がそれに対する不可解な答えを FAQ に埋め込んでいることが判明しました。
+
+開発者認証は、Google サービスを実行しているすべての Android 端末（機能的にはロシアと中国以外のすべての Android 端末）上で、未認証の開発者からのアプリのインストールをまもなくブロックします。ソフトウェアをリリースし続けたい開発者は、それが Play ストアにない場合でも、Google に ID を提供し、少額の料金を支払う必要があります。
+
+しかし、あなたが制裁国に住んでいる Android 開発者だったらどうでしょうか?現在、米国の制裁リストにはイラン、キューバ、北朝鮮、ウクライナ占領地域が含まれている。米国外交政策の現在の不確実な状況を考慮すると、そのリストは将来変更される可能性があります。 Google がこれらの地域の開発者とビジネスを行うことは厄介な問題であり、同社は開発者をそのまま放置することに決めたようだ。
+
+Google 開発者サイトの数レベルの深さにあるかなり長い FAQ では、開発者検証に関するさまざまな問題が取り上げられています。真ん中のスマックは次のとおりです。
+
+このプログラムは制裁対象国の開発者にどのような影…</p><p><img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/Android-statue-1152x648.jpg" alt="Google、制裁対象国のAndroid開発者認証を免除する計画"></p>]]></description><source url="https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/">Ars Technica Gear &amp; Gadgets</source><media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/07/Android-statue-1152x648.jpg" medium="image"/><media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2025/07/Android-statue-1152x648.jpg"/></item>
 <item><title>New Fallout Game in Early Development at &#34;RPG Specialist&#34; inXile Entertainment</title><link>https://www.techpowerup.com/351275/new-fallout-game-in-early-development-at-rpg-specialist-inxile-entertainment</link><guid isPermaLink="true">https://www.techpowerup.com/351275/new-fallout-game-in-early-development-at-rpg-specialist-inxile-entertainment</guid><pubDate>Fri, 31 Jul 2026 21:27:24 +0000</pubDate><description><![CDATA[<p>New Fallout Game in Early Development at &#34;RPG Specialist&#34; inXile Entertainment</p>]]></description><source url="https://www.techpowerup.com/351275/new-fallout-game-in-early-development-at-rpg-specialist-inxile-entertainment">TechPowerUp</source></item>
 <item><title>Seagate says Mozaic 5 50TB hard drives are on track for 2027, with 100TB already on the roadmap</title><link>https://www.tweaktown.com/rss/click/news/112955/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112955/?c=news-mf</guid><pubDate>Fri, 31 Jul 2026 21:15:08 +0000</pubDate><description><![CDATA[<p>Seagate says Mozaic 5 50TB hard drives are on track for 2027, with 100TB already on the roadmap</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112955/?c=news-mf">TweakTown</source></item>
 <item><title>『ポケットモンスター 赤』で最も残忍な障害物はジムリーダーではありません - それは私の AI を壊した出入り口です</title><link>https://www.xda-developers.com/let-my-local-llm-play-pokemon/</link><guid isPermaLink="true">https://www.xda-developers.com/let-my-local-llm-play-pokemon/</guid><pubDate>Fri, 31 Jul 2026 21:00:10 +0000</pubDate><description><![CDATA[<p>『ポケットモンスター 赤』で最も残忍な障害物はジムリーダーではありません - それは私の AI を壊した出入り口です
@@ -106,6 +163,7 @@ QPR2 Beta 1 とは異なり、このビルドは引き続き Pixel 6 および P
 
 Google が Android 17 QPR1 Beta 7 をリリースしてから 2 週間が経ち、予定どおり、Google は QPR1 Beta 8 のリリース ノートを共有しました。Pixel 6 および Pixel 6 Pro スマートフォンのサポートを終了したばかりの QPR2 Be…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-6-scaled.jpg" alt="Android 17 QPR1 Beta 8 には、Google の最新の修正がすべて含まれています"></p>]]></description><source url="https://www.androidauthority.com/android-17-qpr1-beta-8-3693518/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-6-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-6-scaled.jpg"/></item>
 <item><title>MSI adds a BIOS toggle to tighten standard DDR5 timings closer to EXPO ULL kits</title><link>https://www.tweaktown.com/rss/click/news/112947/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112947/?c=news-mf</guid><pubDate>Fri, 31 Jul 2026 20:40:09 +0000</pubDate><description><![CDATA[<p>MSI adds a BIOS toggle to tighten standard DDR5 timings closer to EXPO ULL kits</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112947/?c=news-mf">TweakTown</source></item>
+<item><title>This 3D Printing Method Might Be the Easiest Way to Get a Functional PCB</title><link>https://www.hackster.io/news/this-3d-printing-method-might-be-the-easiest-way-to-get-a-functional-pcb-1eb8a853a39f</link><guid isPermaLink="true">https://www.hackster.io/news/this-3d-printing-method-might-be-the-easiest-way-to-get-a-functional-pcb-1eb8a853a39f</guid><pubDate>Fri, 31 Jul 2026 20:38:56 +0000</pubDate><description><![CDATA[<p>This 3D Printing Method Might Be the Easiest Way to Get a Functional PCB</p>]]></description><source url="https://www.hackster.io/news/this-3d-printing-method-might-be-the-easiest-way-to-get-a-functional-pcb-1eb8a853a39f">Hackster.io</source></item>
 <item><title>古い携帯電話をベッドサイドのレトロゲーム機に変えました。これが私が見つけた最高の使い方です</title><link>https://www.xda-developers.com/turned-old-phone-into-a-bedside-retro-gaming-console/</link><guid isPermaLink="true">https://www.xda-developers.com/turned-old-phone-into-a-bedside-retro-gaming-console/</guid><pubDate>Fri, 31 Jul 2026 20:30:10 +0000</pubDate><description><![CDATA[<p>古い携帯電話をベッドサイドのレトロゲーム機に変えました。これが私が見つけた最高の使い方です
 
 何十年にもわたって積み残した仕事を取り戻す時が来た
@@ -722,6 +780,15 @@ Elfin Flip Laser は、標準的な家庭用セットアップよりも多くの
 
 際立った機能の1つは、内蔵の150度フリップスタンドです。これにより、テーブル、棚、またはその他の角度が理想的ではない場所にプロジェクターを設置する際に、より自由度が高くなります。 Netflix のサポートも組み込まれているため、追加のハードウェアを必要とせずに直接…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2024/12/XGIMI-Elfin-Flip.jpg" alt="XGIMI Elfin Flip Laser プロジェクターはすでに Amazon で 10% オフになっています"></p>]]></description><source url="https://www.androidauthority.com/xgimi-elfin-flip-laser-projector-deal-3693385/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2024/12/XGIMI-Elfin-Flip.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2024/12/XGIMI-Elfin-Flip.jpg"/></item>
 <item><title>(PR) Pirate-themed City Builder Corsair Cove is Out Now</title><link>https://www.techpowerup.com/351271/pirate-themed-city-builder-corsair-cove-is-out-now</link><guid isPermaLink="true">https://www.techpowerup.com/351271/pirate-themed-city-builder-corsair-cove-is-out-now</guid><pubDate>Fri, 31 Jul 2026 15:33:54 +0000</pubDate><description><![CDATA[<p>(PR) Pirate-themed City Builder Corsair Cove is Out Now</p>]]></description><source url="https://www.techpowerup.com/351271/pirate-themed-city-builder-corsair-cove-is-out-now">TechPowerUp</source></item>
+<item><title>Lian Li は、両面インフィニティミラー照明を備えた新しい UNI FAN FLEX モデルを追加します</title><link>https://www.kitguru.net/components/cooling/matthew-wilson/lian-li-adds-new-uni-fan-flex-models-with-dual%e2%80%91sided-infinity%e2%80%91mirror-lighting/</link><guid isPermaLink="true">https://www.kitguru.net/components/cooling/matthew-wilson/lian-li-adds-new-uni-fan-flex-models-with-dual%e2%80%91sided-infinity%e2%80%91mirror-lighting/</guid><pubDate>Fri, 31 Jul 2026 15:30:32 +0000</pubDate><description><![CDATA[<p>Lian Li は、両面インフィニティミラー照明を備えた新しい UNI FAN FLEX モデルを追加します
+
+Lian Li はすでに市場で最も優れた外観の ARGB ファンをいくつか製造していますが、本日同社は新しい UNI FAN FLEX シリーズをラインナップに加え、更新された SL FLEX および CL FLEX モデルを導入します。
+
+Lian Li は、両面インフィニティミラー照明を備えた新しい UNI FAN FLEX モデルを追加します
+
+マシュー・ウィルソン 8時間前
+
+Lian Li はすでに市場で最も優れた外観の ARGB ファンをいくつか製造していますが、本日同社は新しい UNI FAN FLEX シリーズをラインナップに加え、更新された SL FLEX および CL FLEX モデルを導入します。新しい SL FLEX および CL FLEX ファンは、Lian Li のワイヤレス エコシステムへのエントリー ポイントを形成し、更新された FLEX レシーバーを介して接続します。レシーバーは標準の 4 ピン PWM ヘッダーを介して電力を処理し、L-Connect 3 を介してワイヤレスで通信するため、ユーザーは追加のケーブル配線なしで照明とファンカーブを制御できます。マザーボード制御の照明を好む人のために、5V 3 ピン ARGB モードもサポートしています。各受信機は最大 4 つのファンを実行でき、以前の CL Wireless モデルと下位互換性があります。 UNI FAN SL FLEX は、アルミニウムのサイドプレートを両面インフィニティミラー照明に置き換えて、最大のビジュアルアップデートを受けています。 52 個の LED を備えた 2 つの照明ゾーンを備え、最大 2000 RPM で動作し、66.5CFM の気流、2.5mmH2O の静圧、29dBA を実現します。標準および逆気流バージョンは、黒と白の両方でご利用いただけます。 CL FLEX は確立された設計を維持していますが、拡張された制御オプションを提供する FLEX…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/07/unifan-flex-732x330.jpg" alt="Lian Li は、両面インフィニティミラー照明を備えた新しい UNI FAN FLEX モデルを追加します"></p>]]></description><source url="https://www.kitguru.net/components/cooling/matthew-wilson/lian-li-adds-new-uni-fan-flex-models-with-dual%e2%80%91sided-infinity%e2%80%91mirror-lighting/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/07/unifan-flex-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/07/unifan-flex-732x330.jpg"/></item>
 <item><title>市販の比色計をハッキングして RAL カラーコードのサポートを追加する</title><link>https://hackaday.com/2026/07/31/hacking-a-commercial-colorimeter-to-add-ral-color-code-support/</link><guid isPermaLink="true">https://hackaday.com/2026/07/31/hacking-a-commercial-colorimeter-to-add-ral-color-code-support/</guid><pubDate>Fri, 31 Jul 2026 15:30:14 +0000</pubDate><description><![CDATA[<p>市販の比色計をハッキングして RAL カラーコードのサポートを追加する
 
 ペイントの色を合わせる必要がある場合、参考になるツールの 1 つは基準色のデッキです。もう 1 つは比色計かもしれません。しかし、両方が必要な場合はどうすればよいでしょうか? [halko1234] がまさにそれを作成しました…
@@ -733,6 +800,52 @@ Elfin Flip Laser は、標準的な家庭用セットアップよりも多くの
 それで彼はそうしました。 CR4501 は、デバッグ ポート経由でファームウェア全体を喜んで提供します。その後、Ghidra で分析する時間になりました。いくつかの問題、ブリック、および校正データの誤った消去を経て、彼は最終的に動作するバージョンを完成させました。最終的には、測定するたびに、最も近い RAL カラー コードとそれがどの程度近いかを表示するシンプルな画面が表示されます。
 
 万が一、他の誰かが同じ比色計を持っていると、それをインストールするためのオンライン ツールも作成してくれました。</p><p><img src="https://hackaday.com/wp-content/uploads/2026/07/colors.png" alt="市販の比色計をハッキングして RAL カラーコードのサポートを追加する"></p>]]></description><source url="https://hackaday.com/2026/07/31/hacking-a-commercial-colorimeter-to-add-ral-color-code-support/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/07/colors.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/07/colors.png"/></item>
+<item><title>(PR) Targus Expands EcoSmart Portfolio with Wired Keyboard, Mouse, and Combo</title><link>https://www.techpowerup.com/351270/targus-expands-ecosmart-portfolio-with-wired-keyboard-mouse-and-combo</link><guid isPermaLink="true">https://www.techpowerup.com/351270/targus-expands-ecosmart-portfolio-with-wired-keyboard-mouse-and-combo</guid><pubDate>Fri, 31 Jul 2026 15:18:22 +0000</pubDate><description><![CDATA[<p>(PR) Targus Expands EcoSmart Portfolio with Wired Keyboard, Mouse, and Combo</p>]]></description><source url="https://www.techpowerup.com/351270/targus-expands-ecosmart-portfolio-with-wired-keyboard-mouse-and-combo">TechPowerUp</source></item>
+<item><title>Tom’s Hardware の CPU の 30 年 — Pentium II から Ryzen 9 9950X3D2 までの 30 年間のプロセッサを振り返る</title><link>https://www.tomshardware.com/pc-components/cpus/30-years-of-cpus-at-toms-hardware-looking-back-on-three-decades-of-processors-from-the-pentium-ii-to-ryzen-9-9950x3d2</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/cpus/30-years-of-cpus-at-toms-hardware-looking-back-on-three-decades-of-processors-from-the-pentium-ii-to-ryzen-9-9950x3d2</guid><pubDate>Fri, 31 Jul 2026 15:13:36 +0000</pubDate><description><![CDATA[<p>Tom’s Hardware の CPU の 30 年 — Pentium II から Ryzen 9 9950X3D2 までの 30 年間のプロセッサを振り返る
+
+私たちは長い間 CPU について取り上げてきました。ズームアウトして視点を広げてみましょう。
+
+Tom’s Hardware の CPU の 30 年 — Pentium II から Ryzen 9 9950X3D2 までの 30 年間のプロセッサを振り返る
+
+私たちは長い間 CPU について取り上げてきました。ズームアウトして視点を広げてみましょう。
+
+(画像クレジット: Tom&#39;s Hardware) ジャンプ先: 初日からの羽の逆立ち (1996 - 1998)
+
+Pentium III 事件 (1999 ～ 2001 年)
+
+ギガヘルツへの挑戦 (2001 ～ 2004)
+
+コアが増えればもっと楽しく (2004 ～ 2007)
+
+ネハレムの海岸 (2007 - 2010)
+
+ブルドーザーが世界記録を樹立、サーマル (2010 ～ 2013)
+
+14nmの黎明期（2014年～2016年）
+
+新たな道を切り拓く（2021年～2024年）
+
+現実世界との照らし合わせ（2024年～現在）
+
+3 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 私たちは Tom&#39;s Hardware の 30 周年を祝います。 1996 年の Tom’s Hardware の開始以来、私たちは CPU を取り上げてきました。過去 30 年間にわたり、私たちは各新しいリリースをレビューすることでゲームに最適な CPU の包括的なリストを維持し、CPU ベンチマーク階層を作成するために数年にわたる数千のデータ ポイントを収集してきました。 Pentium II からデュアル データ レート メモリの導入、デュアル 3D V キャッシュ CPU まで、Tom’s Hardware はすべてをサポートしてきました。
+
+過去 30 年間にわたる CPU の世界における T…</p><p><img src="https://cdn.mos.cms.futurecdn.net/BE3Vh87CAywNp3czX6dQ7B-1999-80.jpg" alt="Tom’s Hardware の CPU の 30 年 — Pentium II から Ryzen 9 9950X3D2 までの 30 年間のプロセッサを振り返る"></p>]]></description><source url="https://www.tomshardware.com/pc-components/cpus/30-years-of-cpus-at-toms-hardware-looking-back-on-three-decades-of-processors-from-the-pentium-ii-to-ryzen-9-9950x3d2">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/BE3Vh87CAywNp3czX6dQ7B-1999-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/BE3Vh87CAywNp3czX6dQ7B-1999-80.jpg"/></item>
+<item><title>(PR) Akasa Advances 2U Rackmount Fanless Case Series with Kepler R</title><link>https://www.techpowerup.com/351269/akasa-advances-2u-rackmount-fanless-case-series-with-kepler-r</link><guid isPermaLink="true">https://www.techpowerup.com/351269/akasa-advances-2u-rackmount-fanless-case-series-with-kepler-r</guid><pubDate>Fri, 31 Jul 2026 15:12:03 +0000</pubDate><description><![CDATA[<p>(PR) Akasa Advances 2U Rackmount Fanless Case Series with Kepler R</p>]]></description><source url="https://www.techpowerup.com/351269/akasa-advances-2u-rackmount-fanless-case-series-with-kepler-r">TechPowerUp</source></item>
+<item><title>(PR) Montage Technology Enters Trial Production of CXL 3.2 MXC Chip Supporting 8000 MT/s DDR5</title><link>https://www.techpowerup.com/351268/montage-technology-enters-trial-production-of-cxl-3-2-mxc-chip-supporting-8000-mt-s-ddr5</link><guid isPermaLink="true">https://www.techpowerup.com/351268/montage-technology-enters-trial-production-of-cxl-3-2-mxc-chip-supporting-8000-mt-s-ddr5</guid><pubDate>Fri, 31 Jul 2026 15:07:05 +0000</pubDate><description><![CDATA[<p>(PR) Montage Technology Enters Trial Production of CXL 3.2 MXC Chip Supporting 8000 MT/s DDR5</p>]]></description><source url="https://www.techpowerup.com/351268/montage-technology-enters-trial-production-of-cxl-3-2-mxc-chip-supporting-8000-mt-s-ddr5">TechPowerUp</source></item>
+<item><title>The Pocket-Sized Panel Built to Simplify Your Workbench</title><link>https://www.hackster.io/news/the-pocket-sized-panel-built-to-simplify-your-workbench-1050fb6fe626</link><guid isPermaLink="true">https://www.hackster.io/news/the-pocket-sized-panel-built-to-simplify-your-workbench-1050fb6fe626</guid><pubDate>Fri, 31 Jul 2026 15:06:23 +0000</pubDate><description><![CDATA[<p>The Pocket-Sized Panel Built to Simplify Your Workbench</p>]]></description><source url="https://www.hackster.io/news/the-pocket-sized-panel-built-to-simplify-your-workbench-1050fb6fe626">Hackster.io</source></item>
+<item><title>Tom’s Hardware 30 周年記念 — Intel の確執と DIP スイッチから 30 年間にわたる公平なテストまで</title><link>https://www.tomshardware.com/pc-components/toms-hardwares-30th-anniversary-from-dip-switches-and-intel-feuds-to-30-years-of-unbiased-testing</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/toms-hardwares-30th-anniversary-from-dip-switches-and-intel-feuds-to-30-years-of-unbiased-testing</guid><pubDate>Fri, 31 Jul 2026 15:05:30 +0000</pubDate><description><![CDATA[<p>Tom’s Hardware 30 周年記念 — Intel の確執と DIP スイッチから 30 年間にわたる公平なテストまで
+
+30周年を迎えるにあたり、トムズハードウェアの歴史を振り返ります。
+
+Tom’s Hardware 30 周年記念 — Intel の確執と DIP スイッチから 30 年間にわたる公平なテストまで
+
+30周年を迎えるにあたり、トムズハードウェアの歴史を振り返ります。
+
+(画像クレジット: Tom&#39;s Hardware) リンクをコピー
+
+11 会話に参加してください フォローしてください Google ニュースレターの優先ソースとして追加してください ニュースレターを購読してください 当社の創設者であり同名のトーマス パブスト博士が、包括的なテストに裏付けられた偏りのない事実に基づいたレポートを提供することに重点を置き、Tom’s Hardware を定義する最初の記事を執筆してから 30 年が経過しました。この使命は、当社が今日も継続するよう努めています。 Tom’s Hardware は 30 周年を記念して、過去 30 年間の PC ハードウェアと周辺機器の進化を振り返る一連の記事を開始します。最初の記事は CPU の進化です。 CPU と GPU の歴史に入る前に、Tom’s Hardware の初期の歴史を簡単に振り返ってみましょう。
+
+当時開業医兼外科医だったパブスト氏は、デスクトップ PC 革命の初期にハードウェアのテストを開始し、1996 年に最初に Tom’s Roadrunner Page という名前で出版し、その後、同年後半に Tom’s Hardware Guide に進化してブランドを一気に有名にしました。初期の頃、Pabst はマザーボードと CPU のテストに重点を置いていましたが、Nvidia Riva 128 を最初にグラフィック カードのテストも開始し、続いて 3Dfx Voodoo などの他のテストも開始し、世界初の実世界 3D ベンチマークと称されるカスタム ベンチマークを作成しました。これらの基本…</p><p><img src="https://cdn.mos.cms.futurecdn.net/SgXaUdd7c7vtWjuQSLNQjh-650-80.png" alt="Tom’s Hardware 30 周年記念 — Intel の確執と DIP スイッチから 30 年間にわたる公平なテストまで"></p>]]></description><source url="https://www.tomshardware.com/pc-components/toms-hardwares-30th-anniversary-from-dip-switches-and-intel-feuds-to-30-years-of-unbiased-testing">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/SgXaUdd7c7vtWjuQSLNQjh-650-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/SgXaUdd7c7vtWjuQSLNQjh-650-80.png"/></item>
 <item><title>ついにプレミアム価格なしで Wi-Fi 7 にアップグレードできるようになりました</title><link>https://www.xda-developers.com/tp-link-tri-band-be9300-wifi-7-router-150-deal/</link><guid isPermaLink="true">https://www.xda-developers.com/tp-link-tri-band-be9300-wifi-7-router-150-deal/</guid><pubDate>Fri, 31 Jul 2026 14:36:10 +0000</pubDate><description><![CDATA[<p>ついにプレミアム価格なしで Wi-Fi 7 にアップグレードできるようになりました
 
 40％割引は大きいですね
@@ -920,6 +1033,13 @@ By Ayush Pande 公開 2026 年 7 月 31 日、午前 9:00 EDT Ayush Pande は、
 Matthew Wilson 2 時間前 注目のテクノロジー ニュース , ソフトウェア &amp; ゲーム
 
 マイクロソフトは Xbox の将来に向けて新たな目標を設定しています。同社の最新の収益報告を受けて、Xbox CEO のアシャ・シャルマ氏は、来年度に Xbox の収益とプレーヤーの成長を回復させる計画を概説したメモをスタッフと共有しました。 The Vergeが入手したメモの中でシャルマ氏は、Xboxは27年度末までにプレーヤーへの還元と収益の増加を目標としており、利益は業界平均と同水準に戻ると述べている。彼女は、あらゆる機能とスタジオがこれらの目標を達成するために役割を果たすだろうと付け加えました。 2 月に就任して以来、シャルマ氏はスタジオの閉鎖や、Xbox の最強のフランチャイズを中心に構築されたより集中的なポートフォリオへの移行など、すでに大きな構造変化を監督してきました。 Xbox が今後 1 年間に重点を置く重要な分野としては、コンソール プラットフォームの強化、最大のシリーズの成長促進、Roblox ビジネス モデルと同様のクリエイター主導のエコシステムに変革するための Minecraft への投資の強化などが挙げられます。 Xbox は、27 年度の収益とプレイヤーの成長の回復から始めて、段階的に進捗状況を測定し、その後、28 年度と 29 年度に有意義な価値と収益の加速をもたらすビジネスにこれらの取り組みを推進します。マイクロソフトは、2030 年までに、長期的なデイリープレイヤー目標の半分に達し、エンゲージメントとマージンが業界トップエンドに匹敵する 2 桁の継続的な…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/04/New-Xbox-logo-601x330.png" alt="マイクロソフトは来年度にかけてXboxが成長に戻ることを望んでいる"></p>]]></description><source url="https://www.kitguru.net/gaming/matthew-wilson/microsoft-wants-xbox-to-return-to-growth-over-next-fiscal-year/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/04/New-Xbox-logo-601x330.png" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/04/New-Xbox-logo-601x330.png"/></item>
+<item><title>ChatGPT Work を Claude Cowork と対戦させたところ、勝者は予想していた人物ではありませんでした</title><link>https://www.xda-developers.com/put-chatgpt-work-up-against-claude-cowork-result-caught-me-off-guard/</link><guid isPermaLink="true">https://www.xda-developers.com/put-chatgpt-work-up-against-claude-cowork-result-caught-me-off-guard/</guid><pubDate>Fri, 31 Jul 2026 12:00:10 +0000</pubDate><description><![CDATA[<p>ChatGPT Work を Claude Cowork と対戦させたところ、勝者は予想していた人物ではありませんでした
+
+（エージェント）戦争を始めましょう
+
+ChatGPT Work を Claude Cowork と対戦させたところ、勝者は予想していた人物ではありませんでした
+
+Mahnoor Faisal 著 公開 2026 年 7 月 31 日、午前 8:00 EDT Mahnoor Faisal は、XDA 、 SlashGear 、 MakeUseOf 、 Laptop Mag 、 Android Police で署名記事を掲載し、AI と生産性向上ツールをカバーするテクノロジー ジャーナリストです。彼女は 16 歳の頃からプロとして執筆活動を行っており、それ以来何百もの記事を執筆してきました。これには、NotebookLM などの AI ツールから AI 分野全体の最新ニュースまでの詳細なカバレッジが含まれます。彼女のテクノロジーに対する情熱は、8 歳の誕生日に最初の iPod Touch (第 4 世代) を受け取ったときに始まり、それ以来テクノロジーの世界に深く関わってきました。現在、コンピューター サイエンスの学位取得を目指しているマフノール氏は、AI が私たちの働き方や学習方法をどのように再構築しているのかを取材する際に、ジャーナリストの目と技術的基礎の両方をもたらしています。 XDA アカウントにサインイン 2026 年、Samsung 対 Apple の戦争は、現在 AI のトップ 2 名である ChatGPT と Claude が支配する完全に新しい戦争に正式に置き換えられました。前者は私たちが知っている AI ブームの始まりであり、明らかに長い間最有力候補でしたが、最終的には Claude が ChatGPT を信頼していたまさにユーザーの心を掴むことになりました。この変化には、OpenAI x Anthropic x 陸軍省の厄介な物語や、Anthropic が他の誰にも匹敵できないペースで機能をリリースしていたという事実など、多くの要…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/chatgpt-work-vs-claude-cowork-on-macbook-desktop.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="ChatGPT Work を Claude Cowork と対戦させたところ、勝者は予想していた人物ではありませんでした"></p>]]></description><source url="https://www.xda-developers.com/put-chatgpt-work-up-against-claude-cowork-result-caught-me-off-guard/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/chatgpt-work-vs-claude-cowork-on-macbook-desktop.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/chatgpt-work-vs-claude-cowork-on-macbook-desktop.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>ZimaOS と FygoOS は、本当の DIY NAS の戦いがもはや単なる TrueNAS 対 Unraid ではないことを証明します</title><link>https://www.xda-developers.com/zimaos-and-fygoos-prove-the-real-diy-nas-fight-is-no-longer-just-truenas-versus-unraid/</link><guid isPermaLink="true">https://www.xda-developers.com/zimaos-and-fygoos-prove-the-real-diy-nas-fight-is-no-longer-just-truenas-versus-unraid/</guid><pubDate>Fri, 31 Jul 2026 12:00:10 +0000</pubDate><description><![CDATA[<p>ZimaOS と FygoOS は、本当の DIY NAS の戦いがもはや単なる TrueNAS 対 Unraid ではないことを証明します
 
 ストレージ サーバーにインストールできるクールなディストリビューションは TrueNAS と Unraid だけではありません
@@ -929,13 +1049,6 @@ ZimaOS と FygoOS は、本当の DIY NAS の戦いがもはや単なる TrueNAS
 By Ayush Pande 公開 2026 年 7 月 31 日、午前 8:00 EDT Ayush Pande は、PC ハードウェアおよびゲームのライターです。彼が新しい記事に取り組んでいないときは、頭を PC の中に閉じ込めたり、サーバーのオペレーティング システムをいじったりしているのを見かけることがあります。コンピューティングのほかに、彼の興味には、長い RPG に何時間も費やすこと、協力ゲームで友達に怒鳴りつけること、ギターを練習することなどがあります。 XDA アカウントにサインインする データのアーカイブ、バックアップ、およびファイル共有タスクを強化するための理想的な OS を技術フォーラムで調べてみると、TrueNAS Community Edition (数年前までは Scale と呼ばれていました) と Unraid の間で意見が分かれていることに気づくでしょう。自宅ラボで両方のディストリビューションを使用してみたところ、これらのディストリビューションには、その膨大なファンを正当化するのに十分な機能が詰め込まれていることが確認できました。
 
 しかし、その有用性にもかかわらず、DIY エコシステムにおける唯一の NAS ディストリビューションであるとまでは言えません。過小評価されている王者 OpenMediaVault やコミュニティが作成した XPEnology を脇に置いたとしても、最近、無名だが便利なストレージ サーバー中心のプラットフォームがかなりの数、ホーム ラボ コミュニティで注目を集めていることに気づきました。 ZimaOS…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/fygoos-6.jpg?w=1600&amp;h=900&amp;fit=crop" alt="ZimaOS と FygoOS は、本当の DIY NAS の戦いがもはや単なる TrueNAS 対 Unraid ではないことを証明します"></p>]]></description><source url="https://www.xda-developers.com/zimaos-and-fygoos-prove-the-real-diy-nas-fight-is-no-longer-just-truenas-versus-unraid/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/fygoos-6.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/fygoos-6.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>ChatGPT Work を Claude Cowork と対戦させたところ、勝者は予想していた人物ではありませんでした</title><link>https://www.xda-developers.com/put-chatgpt-work-up-against-claude-cowork-result-caught-me-off-guard/</link><guid isPermaLink="true">https://www.xda-developers.com/put-chatgpt-work-up-against-claude-cowork-result-caught-me-off-guard/</guid><pubDate>Fri, 31 Jul 2026 12:00:10 +0000</pubDate><description><![CDATA[<p>ChatGPT Work を Claude Cowork と対戦させたところ、勝者は予想していた人物ではありませんでした
-
-（エージェント）戦争を始めましょう
-
-ChatGPT Work を Claude Cowork と対戦させたところ、勝者は予想していた人物ではありませんでした
-
-Mahnoor Faisal 著 公開 2026 年 7 月 31 日、午前 8:00 EDT Mahnoor Faisal は、XDA 、 SlashGear 、 MakeUseOf 、 Laptop Mag 、 Android Police で署名記事を掲載し、AI と生産性向上ツールをカバーするテクノロジー ジャーナリストです。彼女は 16 歳の頃からプロとして執筆活動を行っており、それ以来何百もの記事を執筆してきました。これには、NotebookLM などの AI ツールから AI 分野全体の最新ニュースまでの詳細なカバレッジが含まれます。彼女のテクノロジーに対する情熱は、8 歳の誕生日に最初の iPod Touch (第 4 世代) を受け取ったときに始まり、それ以来テクノロジーの世界に深く関わってきました。現在、コンピューター サイエンスの学位取得を目指しているマフノール氏は、AI が私たちの働き方や学習方法をどのように再構築しているのかを取材する際に、ジャーナリストの目と技術的基礎の両方をもたらしています。 XDA アカウントにサインイン 2026 年、Samsung 対 Apple の戦争は、現在 AI のトップ 2 名である ChatGPT と Claude が支配する完全に新しい戦争に正式に置き換えられました。前者は私たちが知っている AI ブームの始まりであり、明らかに長い間最有力候補でしたが、最終的には Claude が ChatGPT を信頼していたまさにユーザーの心を掴むことになりました。この変化には、OpenAI x Anthropic x 陸軍省の厄介な物語や、Anthropic が他の誰にも匹敵できないペースで機能をリリースしていたという事実など、多くの要…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/chatgpt-work-vs-claude-cowork-on-macbook-desktop.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="ChatGPT Work を Claude Cowork と対戦させたところ、勝者は予想していた人物ではありませんでした"></p>]]></description><source url="https://www.xda-developers.com/put-chatgpt-work-up-against-claude-cowork-result-caught-me-off-guard/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/chatgpt-work-vs-claude-cowork-on-macbook-desktop.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/chatgpt-work-vs-claude-cowork-on-macbook-desktop.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>新しいオープンソース プリンタには、5 秒で交換できる 7 つのツールヘッドがあり、高速で無駄のないマルチカラー 3D 印刷が可能です。Sovol M1D 3D プリンタは、ツールチェンジャが統合された初のオープンソース IDEX 設計です。</title><link>https://www.tomshardware.com/3d-printing/sovol-m1d-3d-printer-is-the-first-open-source-idex-design-with-an-integrated-tool-changer-seven-heads-for-quick-swapping-materials-with-two-fully-independent-nozzles</link><guid isPermaLink="true">https://www.tomshardware.com/3d-printing/sovol-m1d-3d-printer-is-the-first-open-source-idex-design-with-an-integrated-tool-changer-seven-heads-for-quick-swapping-materials-with-two-fully-independent-nozzles</guid><pubDate>Fri, 31 Jul 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>新しいオープンソース プリンタには、5 秒で交換できる 7 つのツールヘッドがあり、高速で無駄のないマルチカラー 3D 印刷が可能です。Sovol M1D 3D プリンタは、ツールチェンジャが統合された初のオープンソース IDEX 設計です。
 
 真のデュアルノズル独立動作を競争力のある価格で実現します。
@@ -6322,239 +6435,4 @@ EA とゲームの出荷に関する複雑な関係が原因で、このよう�
 2025 年 9 月 29 日 EA の新オーナー計画 AI Pivot は「運用コストの大幅削減を目指す」— レポート (39)
 
 2025 年 12 月 17 日 Half-Life 3 は 2026 …</p><p><img src="https://www.techpowerup.com/img/xM60lfmUP7lPnqDa.jpg" alt="ドラゴンエイジのクリエイターは、ヴェールガードがシリーズ最後の万歳になるかもしれないと語る"></p>]]></description><source url="https://www.techpowerup.com/351148/dragon-age-creator-says-veilguard-may-be-seriess-last-hurrah">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/xM60lfmUP7lPnqDa.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/xM60lfmUP7lPnqDa.jpg"/></item>
-<item><title>NVIDIA が GeForce 610.88 WHQL Game Ready ドライバーをリリース</title><link>https://www.techpowerup.com/351150/nvidia-releases-geforce-610-88-whql-game-ready-drivers</link><guid isPermaLink="true">https://www.techpowerup.com/351150/nvidia-releases-geforce-610-88-whql-game-ready-drivers</guid><pubDate>Tue, 28 Jul 2026 16:16:45 +0000</pubDate><description><![CDATA[<p>NVIDIA が GeForce 610.88 WHQL Game Ready ドライバーをリリース
-
-NVIDIA は、先週の 610.82 ベータ版に続き、GeForce 610.88 WHQL Game Ready ドライバーをリリースしました。これは、この完全な WHQL リリースに先立って、特に Halo: Campaign Evolved と Path of Exile 2 のクラッシュに対処する対象を絞った修正でした。 Halo: Campaign Evolved で解決されたクラッシュに加えて...
-
-NVIDIA が GeForce 610.88 WHQL Game Ready ドライバーをリリース
-
-[Halo: Campaign Evolved]: R610 ドライバーを搭載した RTX 50 シリーズ GPU で観察されるゲーム クラッシュを解決しました。 [6259837]
-
-Path of Exile 2: DX12 モードでの長時間のゲームプレイセッション後に発生する可能性のある断続的な長い一時停止を修正しました [5090018]
-
-サイレントヒル F: ゲームの安定性の向上 [6432954]
-
-[Strange Brigade/Zombie Army 4:Dead War]: NVIDIA アプリのゲーム内オーバーレイが有効になっている場合、終了時にゲームがクラッシュすることがある [6392324]
-
-G-SYNC が有効なときにスムーズ モーションが使用されている場合、特定の DX11 ゲームでフレーム ペーシングが向上します [6300603]
-
-RTX の動的振動が壁紙エンジンに誤って適用される [6244021]
-
-NVIDIA サラウンドが有効になっている場合、Paint.NET が起動中にクラッシュすることがある [5366537]
-
-2026 年 3 月 30 日 NVIDIA が、RT パフォーマンスを大幅に向上させた Rubin ベースの GeForce RTX 60 シリーズをリリース (162)
-
-2026 年…</p><p><img src="https://www.techpowerup.com/img/AjBoo4THKph0BWAH.jpg" alt="NVIDIA が GeForce 610.88 WHQL Game Ready ドライバーをリリース"></p>]]></description><source url="https://www.techpowerup.com/351150/nvidia-releases-geforce-610-88-whql-game-ready-drivers">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/AjBoo4THKph0BWAH.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/AjBoo4THKph0BWAH.jpg"/></item>
-<item><title>(PR) FinalWire が AIDA64 v8.35 をリリース</title><link>https://www.techpowerup.com/351143/finalwire-releases-aida64-v8-35</link><guid isPermaLink="true">https://www.techpowerup.com/351143/finalwire-releases-aida64-v8-35</guid><pubDate>Tue, 28 Jul 2026 16:13:18 +0000</pubDate><description><![CDATA[<p>(PR) FinalWire が AIDA64 v8.35 をリリース
-
-FinalWire Ltd. は本日、ホーム ユーザー向けの合理化された診断およびベンチマーク ツールである AIDA64 Extreme v8.35 の即時提供を発表しました。 AIDA64 Engineer v8.35、企業の IT 技術者およびエンジニア向けのプロフェッショナルな診断およびベンチマーク ソリューション。 AIDA64 ビジネス v8.35、...
-
-FinalWire が AIDA64 v8.35 をリリース
-
-AMD Zen 6 ベースの CPU および APU のサポートの向上
-
-AMD Mustang Peak CPUの暫定サポート
-
-Intel Panther Lake-R CPU の暫定サポート
-
-Thermalright Trofeo Vision 9.16 LCD のサポート
-
-Turing (Turzx) 2.8 インチ LCD サポート
-
-AMD Radeon RX 6300のGPUの詳細
-
-NVIDIA RTX Spark N1X の GPU の詳細
-
-ASUS ROG Strix Aiolos の USB-NVMe パススルーのサポート
-
-修正: OpenCL レイヤーでのクラッシュ
-
-修正: ROG AIO LCD モジュールのハンドル リーク
-
-2026 年 4 月 28 日 FinalWire が AIDA64 v8.30 をリリース (4)
-
-2025 年 10 月 13 日 32 MB および 64 MB BIOS チップを搭載した AM5 マザーボードでの AMD &#34;Zen 6&#34; のサポートが確認されました (53)
-
-2026 年 2 月 24 日 FinalWire がネイティブ NVMe ドライバー サポートを備えた AIDA64 v8.25 をロールアウト (0)
-
-2025 年 12 月 9 日 FinalWire が AIDA64 v8.20 をリリース (0)
-
-2025 年 9 月 15 日 FinalWire が AIDA6…</p><p><img src="https://www.techpowerup.com/img/M4J1KLq5HzMmRjDT.jpg" alt="(PR) FinalWire が AIDA64 v8.35 をリリース"></p>]]></description><source url="https://www.techpowerup.com/351143/finalwire-releases-aida64-v8-35">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/M4J1KLq5HzMmRjDT.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/M4J1KLq5HzMmRjDT.jpg"/></item>
-<item><title>TCL debuts Ultimate Pro 32X3B and 27X3B gaming monitors with LG&#39;s 4th-gen WOLED panel</title><link>https://www.tweaktown.com/rss/click/news/112871/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112871/?c=news-mf</guid><pubDate>Tue, 28 Jul 2026 16:05:11 +0000</pubDate><description><![CDATA[<p>TCL debuts Ultimate Pro 32X3B and 27X3B gaming monitors with LG&#39;s 4th-gen WOLED panel</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112871/?c=news-mf">TweakTown</source></item>
-<item><title>(PR) Halo: Campaign Evolved が NVIDIA DLSS、Mistfall Hunter、Corsair Cove で本日開​​始</title><link>https://www.techpowerup.com/351152/halo-campaign-evolved-launches-today-with-nvidia-dlss-mistfall-hunter-and-corsair-cove-follow</link><guid isPermaLink="true">https://www.techpowerup.com/351152/halo-campaign-evolved-launches-today-with-nvidia-dlss-mistfall-hunter-and-corsair-cove-follow</guid><pubDate>Tue, 28 Jul 2026 16:05:10 +0000</pubDate><description><![CDATA[<p>(PR) Halo: Campaign Evolved が NVIDIA DLSS、Mistfall Hunter、Corsair Cove で本日開始
-
-NVIDIA DLSS、NVIDIA Reflex、高度なレイ トレース エフェクトを統合した新しいゲームやアプリが毎週リリースまたは発表され、GeForce RTX プレーヤーに決定的な PC エクスペリエンスを提供します。本日、Halo: Campaign Evolved が DLSS で正式にリリースされ、続いて水曜日にミストフォール ハンターがリリースされます...
-
-Halo: Campaign Evolved が NVIDIA DLSS、Mistfall Hunter、Corsair Cove で本日開始
-
-2026 年 3 月 30 日 NVIDIA が、RT パフォーマンスを大幅に向上させた Rubin ベースの GeForce RTX 60 シリーズをリリース (162)
-
-2026 年 1 月 16 日 NVIDIA が GeForce RTX 5070 Ti の生産を終了、RTX 5060 Ti 16 GB Next (210) と伝えられる
-
-2025 年 9 月 10 日 NVIDIA GeForce RTX 50 シリーズ SUPER GPU が CES 2026 に登場する可能性 (69)
-
-2025 年 9 月 18 日 NVIDIA がインテルを 50 億ドル相当で買収、RTX iGPU が x86 に登場、株価は 25% 上昇 (256)
-
-2026 年 7 月 10 日 NVIDIA が GeForce RTX 5090 SE グラフィックス カードを準備 (161)
-
-2025 年 12 月 31 日 AI 業界の需要のおかげで、2026 年に 5000 ドルの RTX 5090 GPU が登場するとリークが予測 (124)
-
-2026 年 3 月 16 日 NVIDIA がリアルタイム ニューラル レンダリングを備えた DLSS 5 を発表 (305)
-
-2025 年 9 月…</p><p><img src="https://www.techpowerup.com/img/KiA5MlBmcHZrnU2l.jpg" alt="(PR) Halo: Campaign Evolved が NVIDIA DLSS、Mistfall Hunter、Corsair Cove で本日開​​始"></p>]]></description><source url="https://www.techpowerup.com/351152/halo-campaign-evolved-launches-today-with-nvidia-dlss-mistfall-hunter-and-corsair-cove-follow">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/KiA5MlBmcHZrnU2l.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/KiA5MlBmcHZrnU2l.jpg"/></item>
-<item><title>この Kamrui ミニ PC は、ホームラボのハードウェアに多額の費用を費やす必要がないことを証明します。</title><link>https://www.xda-developers.com/kamrui-p2-mini-pc-300-deal/</link><guid isPermaLink="true">https://www.xda-developers.com/kamrui-p2-mini-pc-300-deal/</guid><pubDate>Tue, 28 Jul 2026 16:03:32 +0000</pubDate><description><![CDATA[<p>この Kamrui ミニ PC は、ホームラボのハードウェアに多額の費用を費やす必要がないことを証明します。
-
-100ドルの割引は確実です
-
-この Kamrui ミニ PC は、ホームラボのハードウェアに多額の費用を費やす必要がないことを証明します。
-
-By Timi Cantisano 公開 2026 年 7 月 28 日、午後 12:03 EDT Timi は 10 年以上にわたり、スマートフォン、コンピューター、およびテクノロジー分野で興味深いと思うあらゆるものに焦点を当ててテクノロジーについて執筆してきました。彼は XDA に執筆を開始し、モバイルに関するあらゆることをカバーしていましたが、インターネット上で最高のハイテク製品の最高の割引を明らかにすることを使命として、取引をカバーすることに移行しました。 XDA アカウントにサインインする この Kamrui ミニ PC は、特に RAM やストレージなどの部品のコストが高騰している中で、コストパフォーマンスに優れています。 AMD Ryzen プロセッサー、16GB RAM、512GB SSD ストレージを搭載しています。ポートがたくさんあるので接続性も抜群です。このミニ PC は、デスクトップの代替品として、またはホーム ラボの一部として最適な多用途のハードウェアです。最良の点は、このミニ PC が期間限定で 100 ドル割引になり、わずか 299 ドルで提供されることです。
-
-コストは上昇しています。これが解決策になるかもしれません
-
-ハイテク製品の価格が高騰しているため、新しいものをアップグレードしたり購入したりすることを正当化することがますます困難になっています。ただし、良いニュースとしては、代替ソリューションがあるということです。ミニ PC は、XDA が長年にわたって支持してきたものの 1 つです。私たちは、非常に効率的で強力な小型マシンを所有することの利点を強調してきました。
-
-このモデルは、ひどいゲーミング PC を意図したものではありませんが、4 つのコアと 8 つのスレッドを備えた AMD…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/copy-of-169-1-5.jpg?w=1600&amp;h=900&amp;fit=crop" alt="この Kamrui ミニ PC は、ホームラボのハードウェアに多額の費用を費やす必要がないことを証明します。"></p>]]></description><source url="https://www.xda-developers.com/kamrui-p2-mini-pc-300-deal/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/copy-of-169-1-5.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/copy-of-169-1-5.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>ミステリー評論家が Nvidia RTX Spark のプロトタイプ ラップトップを「発見」し、そのペースで試してみる — Nvidia N1X チップを搭載した Microsoft Surface Laptop Ultra は有望だが、プロトタイプのイボはまだかなり目立つ</title><link>https://www.tomshardware.com/laptops/mystery-reviewer-finds-nvidia-rtx-spark-prototype-laptop-and-puts-it-through-its-paces-microsoft-surface-laptop-ultra-with-nvidia-n1x-chip-shows-promise-though-prototype-warts-are-still-quite-visible</link><guid isPermaLink="true">https://www.tomshardware.com/laptops/mystery-reviewer-finds-nvidia-rtx-spark-prototype-laptop-and-puts-it-through-its-paces-microsoft-surface-laptop-ultra-with-nvidia-n1x-chip-shows-promise-though-prototype-warts-are-still-quite-visible</guid><pubDate>Tue, 28 Jul 2026 16:03:23 +0000</pubDate><description><![CDATA[<p>ミステリー評論家が Nvidia RTX Spark のプロトタイプ ラップトップを「発見」し、そのペースで試してみる — Nvidia N1X チップを搭載した Microsoft Surface Laptop Ultra は有望だが、プロトタイプのイボはまだかなり目立つ
-
-このマシンは可能性を示していますが、オーブンでしばらく焼く必要があるのは間違いありません。
-
-ミステリー評論家が Nvidia RTX Spark のプロトタイプ ラップトップを「発見」し、そのペースで試してみる — Nvidia N1X チップを搭載した Microsoft Surface Laptop Ultra は有望だが、プロトタイプのイボはまだかなり目立つ
-
-このマシンは可能性を示していますが、オーブンでしばらく焼く必要があるのは間違いありません。
-
-(画像クレジット: Microsoft) リンクをコピー
-
-0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する トラックの荷台からたまたま落ちたリリース前のハードウェアのプレビューは、誰もが大好きです。特にそれがニュースの見出しを飾ったキットの一部である場合はそうです。 TechPowerUp の読者である Fouquin は、Nvidia RTX Spark N1X SoC を搭載した Microsoft Surface Laptop Ultra プロトタイプを「偶然」見つけました。
-
-簡単に要約すると、N1X は「AI ラップトップ」世代の先駆けとなるはずです。これは、RTX Spark デスクトップ、Mac Studio、Ryzen AI Max マシン、Macbook Pro の代替となることを意味します。これは、これらがすべてユニファイド メモリと有能な GPU の大規模なプールを備えた設計であり、データセンター以外の AI 作業に適しているという事実によるものです。 N1X は、合計 20 スレッドのマルチスレッドを備えた 5p5e 構成の 10 個の MediaT…</p><p><img src="https://cdn.mos.cms.futurecdn.net/pFTYguUbejMTf2HZpGAU7a-2148-80.png" alt="ミステリー評論家が Nvidia RTX Spark のプロトタイプ ラップトップを「発見」し、そのペースで試してみる — Nvidia N1X チップを搭載した Microsoft Surface Laptop Ultra は有望だが、プロトタイプのイボはまだかなり目立つ"></p>]]></description><source url="https://www.tomshardware.com/laptops/mystery-reviewer-finds-nvidia-rtx-spark-prototype-laptop-and-puts-it-through-its-paces-microsoft-surface-laptop-ultra-with-nvidia-n1x-chip-shows-promise-though-prototype-warts-are-still-quite-visible">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/pFTYguUbejMTf2HZpGAU7a-2148-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/pFTYguUbejMTf2HZpGAU7a-2148-80.png"/></item>
-<item><title>007 First Lightがついに9月にNintendo Switch 2に登場する可能性があります</title><link>https://www.kitguru.net/gaming/matthew-wilson/007-first-light-may-finally-be-coming-to-nintendo-switch-2-in-september/</link><guid isPermaLink="true">https://www.kitguru.net/gaming/matthew-wilson/007-first-light-may-finally-be-coming-to-nintendo-switch-2-in-september/</guid><pubDate>Tue, 28 Jul 2026 16:00:22 +0000</pubDate><description><![CDATA[<p>007 First Lightがついに9月にNintendo Switch 2に登場する可能性があります
-
-アマゾン ジャパンは、Switch 2 での 007 First Light の新しいリリース日を明らかにした可能性があります。このゲームは当初、他のプラットフォームで日中発売される予定でしたが、Switch 2 バージョンは遅れており、まだ正式なアップデートを受け取っていません。
-
-007 First Lightがついに9月にNintendo Switch 2に登場する可能性があります
-
-Matthew Wilson 6 時間前 注目のテクノロジー ニュース , ソフトウェア &amp; ゲーム
-
-アマゾン ジャパンは、Switch 2 での 007 First Light の新しいリリース日を明らかにした可能性があります。このゲームは当初、他のプラットフォームで日中発売される予定でしたが、Switch 2 バージョンは遅れており、まだ正式なアップデートを受け取っていません。 Reddit の鋭いファンによって発見されたように、Amazon Japan の新しい商品リストには、9 月に Switch 2 に登場する『007 First Light』が表示されています。小売業者は時々プレースホルダーの日付を掲載しますが、このリストには完全な製品詳細が含まれており、情報が更新された販売業者データに基づいている可能性があることを示唆しています。 IO Interactive は Switch 2 バージョンのステータスについてコメントしていないため、現時点では日付は非公式のままです。 007 First Light は 5 月に PC、Xbox Series X/S、PS5 で発売されました。このゲームはすぐに、今年の傑出したリリースの 1 つとなり、調査作業とパズル解決を優れたアクション セット要素と融合させた質の高いアクション アドベンチャーを提供しました。 IO インタラクティブによるボンドの新しい解釈は好評を博し、続編の制作はまだ決定されていませんが、今後の物語への布…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/07/007-first-light-732x330.png" alt="007 First Lightがついに9月にNintendo Switch 2に登場する可能性があります"></p>]]></description><source url="https://www.kitguru.net/gaming/matthew-wilson/007-first-light-may-finally-be-coming-to-nintendo-switch-2-in-september/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/07/007-first-light-732x330.png" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/07/007-first-light-732x330.png"/></item>
-<item><title>中古の Tesla V100 が、自宅でローカル LLM を実行する最も安価な方法になっている</title><link>https://www.xda-developers.com/a-used-tesla-v100-has-quietly-become-the-cheapest-way-to-run-local-llms-at-home/</link><guid isPermaLink="true">https://www.xda-developers.com/a-used-tesla-v100-has-quietly-become-the-cheapest-way-to-run-local-llms-at-home/</guid><pubDate>Tue, 28 Jul 2026 16:00:10 +0000</pubDate><description><![CDATA[<p>中古の Tesla V100 が、自宅でローカル LLM を実行する最も安価な方法になっている
-
-使用済みのデータセンター カードがローカルでホストされる LLM の頼りになりつつある
-
-中古の Tesla V100 が、自宅でローカル LLM を実行する最も安価な方法になっている
-
-By Ty Sherback 公開日 2026 年 7 月 28 日、午後 12:00 EDT 彼の PC とそのコンポーネントに対する愛情は、ファミリー コンピューターのパフォーマンスをすべて絞り出そうとすることから生まれました。 10 歳のときに自分のビルドをいじっていたことが、友人や家族のために PC を作ることに変わり、最終的にキャリア パスとして形になる情熱を育みました。 Ty は、身近な人々への技術サポートの最初の電話であることに加えて、クラウド コンピューティングとネットワーキングに重点を置いているコンピューター サイエンスの学生でもあります。彼はセミプロの Counter-Strike にも 8 年間出場しており、周辺機器に関するあらゆることに精通しています。 XDA アカウントにサインインする ローカル LLM の実行という点では、RTX 3090 は、24 GB の巨大な VRAM を備えた予算内でローカル AI を実行するために使用されるコンシューマ GPU の確固たる王者です。それを超えると、RTX 5090 を搭載するか、企業の領域に足を踏み入れることになりますが、それは恐ろしく独占的だと思われるかもしれません。確かに欠点はありますが、思っているよりもずっとフレンドリーです。 Nvidia Tesla V100 はしばらくの間、データ センターで徐々に時代遅れになり、その結果、大量の製品が割引価格で eBay に押し寄せられています。一部のツールでは回避できない方法で徐々に非推奨になっていることを理解している限り、16 GB モデルと 32 GB モデルの両方を購入する価値があります。
-
-中古の RTX 3090 よりも安い 32GB の HBM2
-
-家庭用の大型…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/llama-cpp-web-ui-open-on-desktop-pc-browser.jpg?w=1600&amp;h=900&amp;fit=crop" alt="中古の Tesla V100 が、自宅でローカル LLM を実行する最も安価な方法になっている"></p>]]></description><source url="https://www.xda-developers.com/a-used-tesla-v100-has-quietly-become-the-cheapest-way-to-run-local-llms-at-home/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/llama-cpp-web-ui-open-on-desktop-pc-browser.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/llama-cpp-web-ui-open-on-desktop-pc-browser.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>この TP-Link Wi-Fi 7 ルーターは、Amazon でこれまでの最安値に達しました。</title><link>https://www.androidauthority.com/tp-link-wi-fi-7-router-deal-3692052/</link><guid isPermaLink="true">https://www.androidauthority.com/tp-link-wi-fi-7-router-deal-3692052/</guid><pubDate>Tue, 28 Jul 2026 15:54:33 +0000</pubDate><description><![CDATA[<p>この TP-Link Wi-Fi 7 ルーターは、Amazon でこれまでの最安値に達しました。
-
-自宅の Wi-Fi をより安価にアップグレードできます。Wi-Fi 7 と 6.5Gbps の速度を備えた TP-Link BE6500 ルーターが 36% オフの $114.99 です。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-この TP-Link Wi-Fi 7 ルーターは、Amazon でこれまでの最安値に達しました。
-
-0 • Amazon Google Discover でフォローしてください 優先ソースとして追加 忙しい家庭では、特に複数の人が同時にストリーミング、ゲーム、仕事、ダウンロードをしている場合、古いルーターが弱点のように感じることがあります。良いニュースは、現在 Amazon で TP-Link BE6500 ルーターがお買い得になっており、ISP ルーターや古くなった Wi-Fi 5 または Wi-Fi 6 セットアップから移行する準備ができている人にとっては強力な選択肢となりそうです。
-
-TP-Link BE6500 デュアルバンド Wi-Fi 7 ルーターは、希望小売価格 179.99 ドルから 114.99 ドルに値下げされています。これは希望小売価格と比較して 36% 割引であり、65 ドル節約できます。こちらも史上最安値です。それに加えて、Amazon の買い物客はそれを 4.4 つ星と評価しています。
-
-このルーターは、主力価格を支払わずに新しい Wi-Fi 機能を求める主流のホーム ユーザー向けに構築されています。 2.4 GHz 帯域と 5 GHz 帯域の合計で最大 6.5 Gbps のワイヤレス速度を提供します。 6GHz 帯域は使用しませんが、マルチリンク操作、4K-QAM、マルチ RU などの主要な Wi-Fi 7 機能を提供します。
-
-有線接続も魅力の大きな部分を占めています。デュアル 2.5Gbps ポートと USB 3.0 を備えている…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/07/TP-Link-BE6500-Dual-Band-Wi-Fi-7-Router-BE400-Press-Image.jpg" alt="この TP-Link Wi-Fi 7 ルーターは、Amazon でこれまでの最安値に達しました。"></p>]]></description><source url="https://www.androidauthority.com/tp-link-wi-fi-7-router-deal-3692052/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/07/TP-Link-BE6500-Dual-Band-Wi-Fi-7-Router-BE400-Press-Image.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/07/TP-Link-BE6500-Dual-Band-Wi-Fi-7-Router-BE400-Press-Image.jpg"/></item>
-<item><title>WhatsApp Web がついに音声通話とビデオ通話のサポートを開始</title><link>https://www.androidauthority.com/whatsapp-web-audio-video-calls-3692027/</link><guid isPermaLink="true">https://www.androidauthority.com/whatsapp-web-audio-video-calls-3692027/</guid><pubDate>Tue, 28 Jul 2026 15:52:49 +0000</pubDate><description><![CDATA[<p>WhatsApp Web がついに音声通話とビデオ通話のサポートを開始
-
-WhatsApp は、アプリの Web インターフェイスを使用して電話をかけたり受けたりする待望の機能を含む、多数の新機能を導入しました。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-WhatsApp Web がついに音声通話とビデオ通話のサポートを開始
-
-0 • Edgar Cervantes / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR WhatsApp Web はついに、通話転送や待機室などの機能とともに、エンドツーエンドの暗号化された音声およびビデオ通話のサポートを導入します。
-
-現在、ユーザーは電話をかけたり受けたりするには、WhatsApp デスクトップ アプリをダウンロードする必要があります。
-
-WhatsApp は、ビデオ通話用の QuickHD と、背景のノイズをブロックするノイズ抑制機能も導入しています。
-
-WhatsApp Web は、デスクトップ ブラウザ上で会話を表示したり、会話を継続したりできる便利なツールです。ただし、音声通話やビデオ通話など、WhatsApp で最もよく使用される機能の一部は、このバージョンのチャット アプリには依然として搭載されていません。代わりに、ユーザーは公式の WhatsApp デスクトップ アプリをダウンロードしてアクセスする必要がありました。しかし、大型アップデートの一環としてそれが変わりつつあります。
-
-WhatsApp が好む Web Calling により、最終的にユーザーはブラウザから直接音声通話やビデオ通話を発着信できるようになります、と Meta がブログ投稿で共有しました。このアップデートでは、エンドツーエンドの暗号化を維持しながら、通話履歴全体が [通話] タブを使用してブラウザーに表示されると同時に、反応や画面共有などのロックが解除されます。
-
-W…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2023/05/Holding-smartphone-with-WhatsApp-logo-on-the-screen-Stock-photo.jpg" alt="WhatsApp Web がついに音声通話とビデオ通話のサポートを開始"></p>]]></description><source url="https://www.androidauthority.com/whatsapp-web-audio-video-calls-3692027/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2023/05/Holding-smartphone-with-WhatsApp-logo-on-the-screen-Stock-photo.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2023/05/Holding-smartphone-with-WhatsApp-logo-on-the-screen-Stock-photo.jpg"/></item>
-<item><title>Framework Laptop 13 Pro レビュー: 修理性の王様が帰ってきた</title><link>https://www.notebookcheck.net/Framework-Laptop-13-Pro-review-The-king-of-repairability-is-back.1351246.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/Framework-Laptop-13-Pro-review-The-king-of-repairability-is-back.1351246.0.html</guid><pubDate>Tue, 28 Jul 2026 15:47:00 +0000</pubDate><description><![CDATA[<p>Framework Laptop 13 Pro レビュー: 修理性の王様が帰ってきた
-
-同じラップトップ 13.5 モデルで丸 5 年の歳月を経て、Framework はついに「Pro」の名にふさわしい後継モデルを開発しました。待望のアップデートでは、一般的な懸念事項の多くに対処しながら、オリジナルを特別なものにしたすべての点がさらに強化されています。
-
-Framework Laptop 13 Pro レビュー: 修理性の王様が帰ってきた - Notebookcheck レビュー ▼
-
-評決 — ビッグネームと互角に渡り合う
-
-Laptop 13.5 に関する主な不満の 1 つは、Dell XPS、Lenovo Yoga、HP OmniBook シリーズなどのよく知られたプロシューマー向けラップトップと比較した場合、保守性と実用性を向上させるために剛性と頑丈さが犠牲になっていることでした。 Laptop 13 Pro は、以前のモデルと比較すると、すぐによりしっかりしていて、より頑丈に感じられる、はるかに強力なシャーシ設計でこの問題に正面から取り組みます。素材の品質の飛躍は非常に重要であり、それ以外の点では両モデルはほぼ同じコンポーネントとディスプレイ オプションを共有しているため、標準の Laptop 13.5 ではなく Laptop 13 Pro を選択する最大の理由であることは間違いありません。わずかに重い重量は、高い修理可能性と世代間の大幅な改良を考慮すると、支払うべき小さな代償です。
-
-シャーシ以外でも、主に効率的な Panther Lake CPU のおかげで、バッテリ寿命が同様に印象的なマージンで向上しました。
-
-ライセンスされた評価画像を SVG / PNG としてダウンロードします 非常に良い (88%) Framework Laptop 13 Pro Intel Core Ultra X7 358H Intel Arc B390 12 Xe3 Panther Lake iGPU Subnotebook - 07/28/2026 - v8 テスト デバ…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/Framework/Laptop_13_Pro/frameworkpro_feature_1.jpg" alt="Framework Laptop 13 Pro レビュー: 修理性の王様が帰ってきた"></p>]]></description><source url="https://www.notebookcheck.net/Framework-Laptop-13-Pro-review-The-king-of-repairability-is-back.1351246.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/Framework/Laptop_13_Pro/frameworkpro_feature_1.jpg" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/Framework/Laptop_13_Pro/frameworkpro_feature_1.jpg"/></item>
-<item><title>(PR) Intel Secure Enclave: タクティカル エッジでのハイパフォーマンス コンピューティングの確保</title><link>https://www.techpowerup.com/351149/intel-secure-enclave-securing-high-performance-computing-at-the-tactical-edge</link><guid isPermaLink="true">https://www.techpowerup.com/351149/intel-secure-enclave-securing-high-performance-computing-at-the-tactical-edge</guid><pubDate>Tue, 28 Jul 2026 15:36:15 +0000</pubDate><description><![CDATA[<p>(PR) Intel Secure Enclave: タクティカル エッジでのハイパフォーマンス コンピューティングの確保
-
-何十年もの間、防衛および航空宇宙システムは、今日のデータ強度に合わせて設計されていないアーキテクチャに依存してきました。アナログ負荷の高い信号処理チェーンは、初期世代のレーダーおよびセンシング システムでは効果的ですが、拡張性、柔軟性などに固有の制限をもたらします。
-
-Intel Secure Enclave: 戦術的エッジでのハイパフォーマンス コンピューティングの保護
-
-2026 年 7 月 3 日 インテル、ゲーム向けに 108 MB bLLC キャッシュを備えた 2 つの 22 コア「Nova Lake-S」SKU を準備 (279)
-
-2026 年 6 月 26 日 インテル「Nova Lake-S」52 コア OC SKU が PL2 モードで 474 W を消費 (291)
-
-2026 年 1 月 23 日 インテル Core Ultra シリーズ 4 「Nova Lake」プロセッサーが 2026 年後半に発売 (62)
-
-2026 年 1 月 10 日 Intel Core Ultra X9 388H &#34;Panther Lake&#34; iGPU は、Cyberpunk 2077 で AMD &#34;Strix Point&#34; パフォーマンスを 2 倍に (98)
-
-2026 年 6 月 14 日 Intel が 2027 年向けコア「Raptor Lake Next」ソケット LGA1700 プロセッサーを準備 (184)
-
-2026 年 2 月 23 日 インテルは統合コア設計に戻り、パフォーマンスと効率のコア分割を廃止する計画 (126)
-
-2026 年 4 月 13 日 Intel Core Ultra「Nova Lake-S」デスクトップ コア構成 Surface (111)
-
-2026 年 7 月 2 日 インテル、Core Ultra 7 270K Plus および Core Ultra 5 250K Plus のメーカー希望小…</p><p><img src="https://www.techpowerup.com/img/SdKXkf7JgQakoSOS.jpg" alt="(PR) Intel Secure Enclave: タクティカル エッジでのハイパフォーマンス コンピューティングの確保"></p>]]></description><source url="https://www.techpowerup.com/351149/intel-secure-enclave-securing-high-performance-computing-at-the-tactical-edge">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/SdKXkf7JgQakoSOS.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/SdKXkf7JgQakoSOS.jpg"/></item>
-<item><title>フカヒレがサメを攻撃する</title><link>https://hackaday.com/2026/07/28/sharkfin-bites-attack-shark/</link><guid isPermaLink="true">https://hackaday.com/2026/07/28/sharkfin-bites-attack-shark/</guid><pubDate>Tue, 28 Jul 2026 15:30:39 +0000</pubDate><description><![CDATA[<p>フカヒレがサメを攻撃する
-
-Attack Shark は、派手な磁気キースイッチ、マクロ、設定可能な点滅 LED などを備えた最新のキーボードです。問題は、設定ソフトウェアが Windows でのみ動作するため、[JR Lante…
-
-Attack Shark は、派手な磁気キースイッチ、マクロ、設定可能な点滅 LED などを備えた最新のキーボードです。問題は、設定ソフトウェアが Windows でのみ動作することであるため、[JR Lanteigne] はその問題の解決に着手しました。その過程で、彼はこのキーボードに必要な構成プロトコルを完全に解明し、自分のものもフラッシュできるように快適な Sharkfin Web アプリを作成しました。
-
-アタックシャークをお持ちではありませんか?同じ ROYUAN ハードウェアで作られ、100 の異なる名前で再ブランド化された 522 個の他のボードの 1 つをお持ちかもしれません。あなたのものがサポートされているかどうか知りたいですか?ここのリストで探すか、接続して調べてください。
-
-[RJ] が構成プロトコルをリバース エンジニアリングするまでの道のりは完全に単純ではありませんでしたが、「Windows 専用」アプリケーションの内部は実際には Electron アプリであったため、Linux 上で実行できるようにパッチを適用し、いくつかの構成セッションを記録しました。もちろん、2 つの異なるファームウェア世代や、フラッシュへの書き込みが速すぎるとキーボードがブート ループに陥るなどの問題はありますが、これらの問題を克服した後は、すべてのバイトをマッピングして、それをすべてユーザー フレンドリーなアプリケーションにラップするだけで済みました。
-
-私たちはこのような派手なキーボードを持っていませんが、もし持っているなら、構成プロトコルを文書化していただけると嬉しいです。キーボードを製造した会社が倒産し、バックライトの設定が新しいデスクパッドに合わないものになってしまった、ということを知ることほど最悪なことはありません。あなたがキ…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/07/cw-abyss.webp" alt="フカヒレがサメを攻撃する"></p>]]></description><source url="https://hackaday.com/2026/07/28/sharkfin-bites-attack-shark/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/07/cw-abyss.webp" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/07/cw-abyss.webp"/></item>
-<item><title>CD Projekt Redは小規模なCyber​​punk Edgerunnersゲームを開発中であると伝えられている</title><link>https://www.kitguru.net/gaming/matthew-wilson/cd-projekt-red-reportedly-had-a-small-cyberpunk-edgerunners-game-in-development/</link><guid isPermaLink="true">https://www.kitguru.net/gaming/matthew-wilson/cd-projekt-red-reportedly-had-a-small-cyberpunk-edgerunners-game-in-development/</guid><pubDate>Tue, 28 Jul 2026 15:30:12 +0000</pubDate><description><![CDATA[<p>CD Projekt Redは小規模なCyberpunk Edgerunnersゲームを開発中であると伝えられている
-
-新しいレポートによると、CD Projekt Redは、WayForwardと提携して作成されたCyberpunk: Edgerunnersゲームを開発中だったという。ただし、あまり興奮する前に、このゲームは初期のプロトタイピング段階の後に廃棄された可能性もあるようです。
-
-CD Projekt Redは小規模なCyberpunk Edgerunnersゲームを開発中であると伝えられている
-
-Matthew Wilson 7 時間前 ソフトウェアとゲーム
-
-新しいレポートによると、CD Projekt Redは、WayForwardと提携して作成されたCyberpunk: Edgerunnersゲームを開発中だったという。ただし、あまり興奮する前に、このゲームは初期のプロトタイピング段階の後に廃棄された可能性もあるようです。 MP1st のレポートによると、元 WayForward 開発者のポートフォリオは、Cyber​​punk: Edgerunners ゲームとして説明されている「Gemini」というタイトルの未発表の CDPR R&amp;D プロジェクトを参照していました。この作業は 2025 年から 2026 年の間に行われ、プロジェクトが初期のプロトタイピングを超えて進んでいなかったことを示唆しています。リストには、Edgerunners のブランドと Gemini コードネームを組み合わせた内部ロゴが含まれていました。ジェミニは「ロールバック駆動型」の 2.5D 喧嘩屋として構想されており、ウェイフォワードの River City Girls での経験と密接に一致していると言われています。開発者のメモでは、ロールバックセーフなアーキテクチャとオンライン トランスポートの統合について言及しており、オンライン マルチプレイヤーとロールバック ネットコードが計画された機能であることを示しています。ただし、ポートフォリオでは、Gemini がゴーサインが…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2022/08/Cyberpunk-Edgerunners-732x330.png" alt="CD Projekt Redは小規模なCyber​​punk Edgerunnersゲームを開発中であると伝えられている"></p>]]></description><source url="https://www.kitguru.net/gaming/matthew-wilson/cd-projekt-red-reportedly-had-a-small-cyberpunk-edgerunners-game-in-development/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2022/08/Cyberpunk-Edgerunners-732x330.png" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2022/08/Cyberpunk-Edgerunners-732x330.png"/></item>
-<item><title>これら 2 つの Sony ヘッドフォンの後継製品がリークされました</title><link>https://www.androidauthority.com/sony-headphone-import-filings-3692009/</link><guid isPermaLink="true">https://www.androidauthority.com/sony-headphone-import-filings-3692009/</guid><pubDate>Tue, 28 Jul 2026 15:26:36 +0000</pubDate><description><![CDATA[<p>これら 2 つの Sony ヘッドフォンの後継製品がリークされました
-
-ソニー製ヘッドフォン 2 ペアの輸入申請が発見されました。これらはこれらのオーディオデバイスの後継製品になります。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-これら 2 つの Sony ヘッドフォンの後継製品がリークされました
-
-0 • SoundGuys Google Discover でフォローしてください 優先ソースとして追加してください TL;DR 輸入申請により、2 つの新しい Sony ヘッドフォン、WH-CH730N と WH-CH530 が明らかになりました。
-
-2 つのヘッドセットのモデル番号はそれぞれ YY3006 と YY3005 です。
-
-どちらのヘッドフォンも、黒、白、ピンク、ブルーなどを含むいくつかの色でご利用いただけます。
-
-ソニーはまだ発表を行っていませんが、近いうちに新しいグリーンのカラーウェイを備えたWH-1000XM6ラインを拡大すると予想しています。ただし、近い将来にリリースされるソニーのヘッドフォン関連のリリースはこれだけではない可能性があります。最近発見された文書により、他の 2 つのソニー製オーディオ製品の後継製品が明らかになりました。
-
-The Walkman Blog が発見したフィリピンとベトナムからの輸入届出により、モデル番号 YY3006 のデバイスが明らかになりました。申請書によると、この製品はWH-CH720Nと呼ばれ、WH-CH720Nの後継品であることが示されています。このアウトレットでは、モデル番号 YY3005 のデバイス (WH-CH530 と呼ばれる) の輸入書類も見つかりました。それほど驚くべきことではありませんが、このヘッドフォンは非常に手頃な価格の WH-CH520 の後継製品です。
-
-ソニーが既存のヘッドセットに使用しているカラーコードに基づいて、WH-CH730N は次の色で利用可能になります。
-
-一方、WH-CH530にはベージュのオプ…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2025/10/Sony-WH-CH720N-Headphones-SoundGuys.jpg" alt="これら 2 つの Sony ヘッドフォンの後継製品がリークされました"></p>]]></description><source url="https://www.androidauthority.com/sony-headphone-import-filings-3692009/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2025/10/Sony-WH-CH720N-Headphones-SoundGuys.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2025/10/Sony-WH-CH720N-Headphones-SoundGuys.jpg"/></item>
 </channel></rss>
