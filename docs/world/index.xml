@@ -1,6 +1,170 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sun, 02 Aug 2026 09:20:36 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sun, 02 Aug 2026 11:33:52 +0000</lastBuildDate>
+<item><title>NAS 上で AI を毎秒 5 トークンで実行していますが、驚くほど便利です</title><link>https://www.xda-developers.com/running-ai-on-nas-5-tokens-per-second/</link><guid isPermaLink="true">https://www.xda-developers.com/running-ai-on-nas-5-tokens-per-second/</guid><pubDate>Sun, 02 Aug 2026 11:30:10 +0000</pubDate><description><![CDATA[<p>NAS 上で AI を毎秒 5 トークンで実行していますが、驚くほど便利です
+
+GPU を使用しない NAS 上でローカル AI モデルを 1 秒あたり約 5 トークンで実行しました。非常に遅いですが、予想よりはるかに便利です。
+
+NAS 上で AI を毎秒 5 トークンで実行していますが、驚くほど便利です
+
+文：Jeff Butts 公開 2026 年 8 月 2 日、午前 7 時 30 分 EDT Jeff は、インターネット以前から IT 業界に携わっており、20 年以上、テクニカル サポート、システム管理、ネットワーク管理、コンサルティングの職務に従事してきました。彼は英語で学士号を取得し、専門的な執筆と編集に重点を置いた英語で修士号を取得し、さらにコンピューティングおよび情報システムで修士号を取得しています。大学で英語とコンピューター サイエンスを数年間教えた後、ジェフは執筆活動を開始しました。彼は XDA で仕事を始める前に、 Macworld 、 Tom&#39;s Hardware 、 groovyPost 、 The Mac Observer などで執筆を行ってきました。 XDA アカウントにサインインします。始める前から、これはハードウェアの一致が悪いということはわかっていました。私の UGREEN DXP4800 Pro には個別の GPU がありません。すでに NAS として日々を過ごしており、CPU のみの AI 推論が快適であると期待する理由はありませんでした。とにかく Ollama をインストールし、Open WebUI をそれに接続し、小さな 4B モデルをプルダウンして、すべてのことが単に可能なのか、それとも実際に役立つのかを確認しました。結局のところ、両方ともなりましたが、予想よりもはるかに長い待ち時間がかかりました。
+
+私の NAS には、AI 用のハードウェア以外はすべて揃っていました
+
+Ollama を実行するのは、ほとんどの場合、簡単な部分でした
+
+UGOS はインストールするためのきちんとした Ollama アプリを提供していないた…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/i-m-running-ai-on-my-nas-at-5-tokens-per-second-and-it-s-surprisingly-useful-featured.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="NAS 上で AI を毎秒 5 トークンで実行していますが、驚くほど便利です"></p>]]></description><source url="https://www.xda-developers.com/running-ai-on-nas-5-tokens-per-second/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/i-m-running-ai-on-my-nas-at-5-tokens-per-second-and-it-s-surprisingly-useful-featured.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/i-m-running-ai-on-my-nas-at-5-tokens-per-second-and-it-s-surprisingly-useful-featured.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>RTX 5060 Ti は、半分に曲がった後も自動車事故に耐えました — 短い PCB が命を救い、単一のメモリ チップの再はんだにより完全なパフォーマンスが復元されました</title><link>https://www.tomshardware.com/pc-components/gpus/rtx-5060-ti-survives-car-crash-after-being-bent-in-half-short-pcb-saves-the-day-single-memory-chip-resolder-restore-full-performance</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/gpus/rtx-5060-ti-survives-car-crash-after-being-bent-in-half-short-pcb-saves-the-day-single-memory-chip-resolder-restore-full-performance</guid><pubDate>Sun, 02 Aug 2026 11:30:00 +0000</pubDate><description><![CDATA[<p>RTX 5060 Ti は、半分に曲がった後も自動車事故に耐えました — 短い PCB が命を救い、単一のメモリ チップの再はんだにより完全なパフォーマンスが復元されました
+
+かなり短いPCBを持っていたためです。
+
+RTX 5060 Ti は、半分に曲がった後も自動車事故に耐えました — 短い PCB が命を救い、単一のメモリ チップの再はんだにより完全なパフォーマンスが復元されました
+
+かなり短いPCBを持っていたためです。
+
+(画像クレジット: YouTube の張兄弟) リンクをコピー
+
+0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 新しい GPU の購入は常に楽しい機会ですが、中国の不幸な顧客のためにお祝いは短くなってしまいました。 AX Gaming RTX 5060 Ti を購入した直後、重大な自動車事故に遭い、車とカードも全損してしまいました。幸いなことに、ドライバーは無事で、どういうわけか GPU も大きな電子的損傷を受けることなく無事でした。カードは半分に曲がっていましたが、最終的には簡単な修理作業だけで済み、張兄弟によってすぐに復活させられました。
+
+見てください、視覚的には、このカードは回収可能とは思えませんでした。また、このようなミッドレンジ GPU は、人件費が高いため、多くの場合、修復作業が実行可能ではありません。バックプレートとクーラーは完全に破壊されていたため、張兄弟はそれらを実際の PCB から分離しました。幸いなことに、5060 Ti のこのバージョンでは、曲率点にかろうじて触れる非常に短い PCB が使用されていたため、内部はほとんど問題ありませんでした。
+
+技術者はすべての電源レールに短絡がないかチェックしましたが、異常な抵抗は見られず、コアとメモリが故障していないことが確認されました。次に、裸の PCB を使用して GPU を迅速にテストし、正常に起動しました。チャン兄弟は、曲がったフィンスタックを可能な限りまっすぐに戻し、その上に 2 つの 120mm フ…</p><p><img src="https://cdn.mos.cms.futurecdn.net/bKsJKYMfdxvAhpTzPujWbK-1920-80.png" alt="RTX 5060 Ti は、半分に曲がった後も自動車事故に耐えました — 短い PCB が命を救い、単一のメモリ チップの再はんだにより完全なパフォーマンスが復元されました"></p>]]></description><source url="https://www.tomshardware.com/pc-components/gpus/rtx-5060-ti-survives-car-crash-after-being-bent-in-half-short-pcb-saves-the-day-single-memory-chip-resolder-restore-full-performance">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/bKsJKYMfdxvAhpTzPujWbK-1920-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/bKsJKYMfdxvAhpTzPujWbK-1920-80.png"/></item>
+<item><title>建築用 LED インストールがスタイリッシュに行う方法を示します</title><link>https://hackaday.com/2026/08/02/architectural-led-install-shows-how-to-do-it-with-style/</link><guid isPermaLink="true">https://hackaday.com/2026/08/02/architectural-led-install-shows-how-to-do-it-with-style/</guid><pubDate>Sun, 02 Aug 2026 11:00:51 +0000</pubDate><description><![CDATA[<p>建築用 LED インストールがスタイリッシュに行う方法を示します
+
+誰でも、さまざまな結果が得られる空間に LED ストリング ライトをいくつか接続することができます。ただし、上品でスタイリッシュな照明環境を作成したい場合は、もう少し工夫が必要です。 [イプ…
+
+誰でも、さまざまな結果が得られる空間に LED ストリング ライトをいくつか接続することができます。ただし、上品でスタイリッシュな照明環境を作成したい場合は、もう少し工夫が必要です。 [ipad.bendavid] には、かなり整然とした建築上の LED 設置によるこの素晴らしい例があります。
+
+物事の電子的な側面は比較的単純です。 ESP32 がショーを実行し、個別にアドレス指定可能な 928 個の WS2812 RGB LED の色を制御します。 WebSocket API を使用してリアルタイム制御を行い、Home Assistant と統合し、INMP441 I2S オーディオ入力モジュールを使用してオーディオ リアクティブ ライティング モードも提供します。 5 V、60 A の強力な電源により、LED の電力が不足することがなくなります。薄暗いスポットやその他の問題が発生しないように、配電にも細心の注意が払われました。
+
+しかし、本当に素晴らしいのは、インスタレーションの構造に注意が払われていることです。 LED ストリップは同心の正方形のフレームに取り付けられており、特定の領域の光を遮断して美しい正方形のパターンを作成します。LED は見る人に投影されるのではなく、取り付けられている壁に面しています。これにより、ストリップ自体が非表示になり、正しく調整するのが面倒なディフューザーの必要性がなくなりました。
+
+全体として、このビルドは光と闇をうまく組み合わせた楽しいもので、多くの LED インストールでは見られないスタイリッシュな見た目になっています。あなたが独自の素敵な魅力的なプロジェクトを作成しているのであれば、私たちはそれらをヒントラインで見たいと思っていることをご存知でしょう。</p><p><img src="https://hackaday.com/wp-content/uploads/2026/07/IMG_4496-e1785554235185.jpg" alt="建築用 LED インストールがスタイリッシュに行う方法を示します"></p>]]></description><source url="https://hackaday.com/2026/08/02/architectural-led-install-shows-how-to-do-it-with-style/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/07/IMG_4496-e1785554235185.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/07/IMG_4496-e1785554235185.jpg"/></item>
+<item><title>私の検索の 90% はもう Google を使用していません - 代わりに私が使用しているものは次のとおりです</title><link>https://www.androidauthority.com/leaving-google-search-brave-alternative-experience-3691435/</link><guid isPermaLink="true">https://www.androidauthority.com/leaving-google-search-brave-alternative-experience-3691435/</guid><pubDate>Sun, 02 Aug 2026 11:00:48 +0000</pubDate><description><![CDATA[<p>私の検索の 90% はもう Google を使用していません - 代わりに私が使用しているものは次のとおりです
+
+悪化する Google 検索エクスペリエンスにうんざりしていた私は、ついにそれを効果的に置き換える代替手段を見つけました。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+私の検索の 90% はもう Google を使用していません - 代わりに私が使用しているものは次のとおりです
+
+0 • Megan Ellis / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください Google 検索が主要な検索エンジンであるのには理由があります。世界中のサイトの包括的なインデックスが作成され、検索演算子により特定の結果を簡単に見つけることができ、多くのブラウザーやデバイスのデフォルトになっています。ただし、私と同じくらいインターネットに長くアクセスしている人なら、Google 検索が全体的に良くなったと感じたときのことを覚えているでしょう。
+
+私は昨年まで検索エンジンを使い続けていました。今では、ほとんど使っていません。それは、その代替品である Brave Search が私にとって非常にうまく機能しているおかげです。
+
+Google 検索のエクスペリエンスにまだ満足していますか?
+
+Google 検索が使い物にならなくなった
+
+Joe Maring / Android Authority Google 検索のエクスペリエンスは長年にわたって悪化しています。本当に関連性のある検索結果はスポンサー付きの検索結果に取って代わられ、ショッピング タブには無関係な商品が並び、実際に探しているものを見つけるまでに大量の商品をスクロールしなければならないことがよくあります。
+
+私は何年もの間、代替手段には Google のような巨大企業のような包括的なインデックス機能が備わっていないと信じて、歯を食いしばってこの薄っぺらな体験にしぶ…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/07/the-brave-search-widget-on-a-smartphone-screen-with-a-cat-yawning-as-the-wallpaper-scaled.jpg" alt="私の検索の 90% はもう Google を使用していません - 代わりに私が使用しているものは次のとおりです"></p>]]></description><source url="https://www.androidauthority.com/leaving-google-search-brave-alternative-experience-3691435/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/07/the-brave-search-widget-on-a-smartphone-screen-with-a-cat-yawning-as-the-wallpaper-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/07/the-brave-search-widget-on-a-smartphone-screen-with-a-cat-yawning-as-the-wallpaper-scaled.jpg"/></item>
+<item><title>5 年前に使用した CPU の放熱グリスを交換したところ、失われていたとは思わなかったパフォーマンスが回復しました</title><link>https://www.xda-developers.com/replaced-thermal-paste-five-year-old-cpu-got-back-performance-i-lost/</link><guid isPermaLink="true">https://www.xda-developers.com/replaced-thermal-paste-five-year-old-cpu-got-back-performance-i-lost/</guid><pubDate>Sun, 02 Aug 2026 11:00:10 +0000</pubDate><description><![CDATA[<p>5 年前に使用した CPU の放熱グリスを交換したところ、失われていたとは思わなかったパフォーマンスが回復しました
+
+すべてはサーマルヘッドルームとブーストクロックに帰着します。
+
+5 年前に使用した CPU の放熱グリスを交換したところ、失われていたとは思わなかったパフォーマンスが回復しました
+
+Hamlin Rozario 著 2026 年 8 月 2 日午前 7:00 EDT 公開 ハムリンは、テクノロジー分野に 9 年以上携わっています。 2017 年以来、彼の作品は MakeUseOf 、Android Police 、OSXDaily、Beebom などに掲載されています。 XDA に入社する前は、Valnet の MakeUseOf で上級編集者を 2 年以上務めました。彼はデスクトップ用にハイエンドのゲーム機を使用し、旅行用に MacBook を使用していますが、macOS のいくつかの癖が嫌いです。他のどこよりもジムや飛行機の中で彼に出会う可能性が高くなります。 XDA アカウントにサインインする 2020 年に PC を組み立てるために使用していた古い Ryzen 9 5900X を再貼り付けしてから 1 年と少しが経ちました。それまではサーマル ペーストの塗布を 1 回限りのものとして扱っていました。結局のところ、私は 3 ～ 4 年ごとに CPU をアップグレードしていたので、放熱グリスを塗り直したくなるほど温度が心配になることはありませんでした。これまでに使用していた他の CPU とは異なり、5900X は常に高温側で動作しました。 360mm AIO を使用していても、ゲーム中に温度が 80℃ まで上昇することは珍しいことではありませんでした。
+
+しかし、AM4 の使用期間が終わりに近づくにつれて、Call of Duty: Warzone や Cyber​​punk 2077 などの AAA タイトルをプレイしているときに AM4 が時折 90℃ に達することに気づきました。最悪の部分は？ MSI Afterburner で見慣れたものより…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/10/amd-ryzen-5-7600x-thermal-paste-application.jpg?w=1600&amp;h=900&amp;fit=crop" alt="5 年前に使用した CPU の放熱グリスを交換したところ、失われていたとは思わなかったパフォーマンスが回復しました"></p>]]></description><source url="https://www.xda-developers.com/replaced-thermal-paste-five-year-old-cpu-got-back-performance-i-lost/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/10/amd-ryzen-5-7600x-thermal-paste-application.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/10/amd-ryzen-5-7600x-thermal-paste-application.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>ジェムミントが署名した1983年のスティーブ・ジョブズの名刺は7万ドルで初値が付けられる - 18万ドルのレコード販売に次ぐ、当時のサイン入りカード2枚目</title><link>https://www.tomshardware.com/tech-industry/big-tech/gem-mint-signed-1983-steve-jobs-business-card-opens-at-usd70-000-second-signed-card-from-that-era-after-usd180-000-record-sale</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/big-tech/gem-mint-signed-1983-steve-jobs-business-card-opens-at-usd70-000-second-signed-card-from-that-era-after-usd180-000-record-sale</guid><pubDate>Sun, 02 Aug 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>ジェムミントが署名した1983年のスティーブ・ジョブズの名刺は7万ドルで初値が付けられる - 18万ドルのレコード販売に次ぐ、当時のサイン入りカード2枚目
+
+この 1983 年の名刺はコレクターの間では希少品です。
+
+ジェムミントが署名した1983年のスティーブ・ジョブズの名刺は7万ドルで初値が付けられる - 18万ドルのレコード販売に次ぐ、当時のサイン入りカード2枚目
+
+この 1983 年の名刺はコレクターの間では希少品です。
+
+(画像クレジット: RR Auction) リンクをコピー
+
+1 会話に参加してください フォローしてください Google ニュースレターの優先ソースとして追加してください ニュースレターを購読してください テクノロジー愛好家は情熱的な集団であり、その中の裕福な人たちは、自分の口で自分のお金を積極的に出します。これはまさに 1983 年のスティーブ・ジョブズのサイン入り名刺で見られるもので、この名刺は RR オークションに出品されており、本稿執筆時点で 70,741 ドルで落札されています。この遺物を特別なものにしているのは、1983 年のジョブの名刺が希少品であり、コレクターからの需要が依然として高いことです。また、PSA/DNA から最高の評価である Gem Mint 10 グレードも取得しており、本物であることが証明されています。
+
+(画像クレジット: RR Auction) (画像クレジット: RR Auction) 画像 1 / 2 オリジナルを表示
+
+RRオークションは、これまでに15枚のスティーブ・ジョブズの名刺を競売にかけたとしているが、そのうち1983年製の名刺は4枚だけだ。これはまた、2024年に競売にかけられ、18万ドルという驚くべき値段で落札された、アップルの創業者のサインが入った2枚目の名刺でもある。現在オークションに出品されているカードは完全とは言えず、ウェブサイトでは「良好な状態で、上部に軽い汚れとホッチキスの穴があるが、いずれも太字のサインには影響を与えていない」と説明されている。それでも、この商品には少なく…</p><p><img src="https://cdn.mos.cms.futurecdn.net/bQVPDz4M5XSsQSoKEzS7iB-1920-80.png" alt="ジェムミントが署名した1983年のスティーブ・ジョブズの名刺は7万ドルで初値が付けられる - 18万ドルのレコード販売に次ぐ、当時のサイン入りカード2枚目"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/big-tech/gem-mint-signed-1983-steve-jobs-business-card-opens-at-usd70-000-second-signed-card-from-that-era-after-usd180-000-record-sale">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/bQVPDz4M5XSsQSoKEzS7iB-1920-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/bQVPDz4M5XSsQSoKEzS7iB-1920-80.png"/></item>
+<item><title>10年間スマートフォンをレビューしてきました。 2026 年のアップグレードにお金を無駄にしないでください</title><link>https://www.androidauthority.com/dont-waste-money-buying-new-smartphone-2026-3691953/</link><guid isPermaLink="true">https://www.androidauthority.com/dont-waste-money-buying-new-smartphone-2026-3691953/</guid><pubDate>Sun, 02 Aug 2026 10:30:43 +0000</pubDate><description><![CDATA[<p>10年間スマートフォンをレビューしてきました。 2026 年のアップグレードにお金を無駄にしないでください
+
+スマートフォンの発売は年々面白くなくなってきていますが、2026年にはどん底に陥るかもしれません。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+10年間スマートフォンをレビューしてきました。 2026 年のアップグレードにお金を無駄にしないでください
+
+0 • Joe Maring / Android Authority Google Discover でフォローしてください 優先情報源として追加してください 私は 10 年以上スマートフォンについてレビューし、執筆してきました。これを生計のために行うことは夢の実現でしたが、ここ数年はうんざりしてしまいました。それは私がこの宇宙に興味を失ったからではありません。むしろ、スマートフォンメーカーがいわゆる「アップグレード」を私たちに提供し、それがスライスパン以来最高のものであるかのように宣伝していることだと思います。率直に言って、私はうんざりしていますし、多くの人もうんざりしていると思います。
+
+携帯電話メーカーは、毎年新製品を発売することが期待されているこの毎年のサイクルに囚われており、その製品はどういうわけか以前の製品よりもはるかに優れていると考えられています。それは明らかに不可能に近い偉業であり、予想どおり、それが起こることは（あったとしても）めったにありません。代わりに、私たちが最終的に手に入れるのは、価格が高く、ハードウェアのマイナーアップグレードが行われ、革新性がほとんどまたはまったくない「新しい」スマートフォンモデルです。
+
+これまでにもこのような年はあったが、2026年はこれまでのところ最も退屈で面白くないスマートフォンの発売がいくつかあった。
+
+毎年発売されるスマートフォンについてどう思いますか?
+
+Google の Pixel A シリーズは、予算を重視する購入者に最もお勧めできる製品でしたが、今年の Google P…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/03/samsung-galaxy-s26-base-and-s26-plus-review-2-scaled.jpg" alt="10年間スマートフォンをレビューしてきました。 2026 年のアップグレードにお金を無駄にしないでください"></p>]]></description><source url="https://www.androidauthority.com/dont-waste-money-buying-new-smartphone-2026-3691953/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/03/samsung-galaxy-s26-base-and-s26-plus-review-2-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/03/samsung-galaxy-s26-base-and-s26-plus-review-2-scaled.jpg"/></item>
+<item><title>多作の Team Fortress 2 コレクターが、ゲーム内のケース アーセナルを推定 10 万ドルで売却しています。10 年間で収集した 170 万点のアイテムは、住宅購入資金として十分です</title><link>https://www.tomshardware.com/video-games/pc-gaming/prolific-team-fortress-2-collector-is-selling-his-in-game-case-arsenal-for-an-estimated-usd100-000-1-7-million-items-collected-over-10-years-are-enough-to-fund-a-house-purchase</link><guid isPermaLink="true">https://www.tomshardware.com/video-games/pc-gaming/prolific-team-fortress-2-collector-is-selling-his-in-game-case-arsenal-for-an-estimated-usd100-000-1-7-million-items-collected-over-10-years-are-enough-to-fund-a-house-purchase</guid><pubDate>Sun, 02 Aug 2026 10:30:00 +0000</pubDate><description><![CDATA[<p>多作の Team Fortress 2 コレクターが、ゲーム内のケース アーセナルを推定 10 万ドルで売却しています。10 年間で収集した 170 万点のアイテムは、住宅購入資金として十分です
+
+ほとんどの場合、訴訟の価値は数ペニーですが、200 万件近くある場合は…
+
+多作の Team Fortress 2 コレクターが、ゲーム内のケース アーセナルを推定 10 万ドルで売却しています。10 年間で収集した 170 万点のアイテムは、住宅購入資金として十分です
+
+ほとんどの場合、訴訟の価値は数ペニーですが、200 万件近くある場合は…
+
+(画像クレジット: Valve) リンクをコピー
+
+0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する Team Fortress 2 のケースは小銭の価値があります。数ドルに上るケースもいくつかあり、市場価格が 2 桁になるケースはさらに少ないですが、大部分のケースは数ペニーの価値があり、Steam トレーディング カードと同程度です。しかし、あるプレイヤー、Vincent Stech は 10 年近く前からケースを収集し始め、複数の Steam アカウントで 170 万件以上のケースを集めました。そして現在、彼はコレクション全体を売却しており、その価値は推定10万ドルだ。
+
+Stech は、2022 年まで続いた毎年恒例のハロウィーン イベントの外で、2017 年末の Team Fortress 2 の最後のメジャー アップデートを中心にケースを収集し始めました。非常に多くのケースを蓄積するために、Stech はプロセスを大部分自動化し、一見無害に見えるデジタル資産の隠し場所として Valve の糸引きたちを怒らせないように注意したと述べました。
+
+「過去 10 年間、常に私が最も恐れていたことの 1 つは、ある日彼らが目を覚ますと『おい、この男のやっていることは気に入らない』と思われることだ」と Stech 氏は Tom&#39;s Hardware に語った。 「なぜな…</p><p><img src="https://cdn.mos.cms.futurecdn.net/69Y5rvYyGheuRETiWHRokT-602-80.jpg" alt="多作の Team Fortress 2 コレクターが、ゲーム内のケース アーセナルを推定 10 万ドルで売却しています。10 年間で収集した 170 万点のアイテムは、住宅購入資金として十分です"></p>]]></description><source url="https://www.tomshardware.com/video-games/pc-gaming/prolific-team-fortress-2-collector-is-selling-his-in-game-case-arsenal-for-an-estimated-usd100-000-1-7-million-items-collected-over-10-years-are-enough-to-fund-a-house-purchase">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/69Y5rvYyGheuRETiWHRokT-602-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/69Y5rvYyGheuRETiWHRokT-602-80.jpg"/></item>
+<item><title>This Week in Gaming (Week 32)</title><link>https://www.techpowerup.com/351294/this-week-in-gaming-week-32</link><guid isPermaLink="true">https://www.techpowerup.com/351294/this-week-in-gaming-week-32</guid><pubDate>Sun, 02 Aug 2026 10:29:37 +0000</pubDate><description><![CDATA[<p>This Week in Gaming (Week 32)</p>]]></description><source url="https://www.techpowerup.com/351294/this-week-in-gaming-week-32">TechPowerUp</source></item>
+<item><title>あなたの Samsung スマートフォンには、Android 17 App Bubbles よりも優れた機能がすでに搭載されています。その使用方法は次のとおりです。</title><link>https://www.androidauthority.com/samsung-pop-up-view-better-than-app-bubbles-how-use-3692326/</link><guid isPermaLink="true">https://www.androidauthority.com/samsung-pop-up-view-better-than-app-bubbles-how-use-3692326/</guid><pubDate>Sun, 02 Aug 2026 10:00:30 +0000</pubDate><description><![CDATA[<p>あなたの Samsung スマートフォンには、Android 17 App Bubbles よりも優れた機能がすでに搭載されています。その使用方法は次のとおりです。
+
+Samsung のスマートフォンには、Android 17 に似た App Bubbles 機能が長年搭載されてきました。マルチタスクを改善する方法は次のとおりです。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+あなたの Samsung スマートフォンには、Android 17 App Bubbles よりも優れた機能がすでに搭載されています。その使用方法は次のとおりです。
+
+0 • Yash Wate / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください Android 17 は派手なアップデートではありませんが、さまざまな分野で多くの重要な変更が加えられています。そのような注目すべき変更の 1 つは、App Bubbles と呼ばれる新しいマルチタスク機能です。これにより、アプリを画面上に浮かぶバブルに変えることができ、必要に応じて他のアプリにアクセスしてその上で使用できるようになります。
+
+これは Pixel ユーザーにとっては素晴らしいことですが、Samsung スマートフォンを使用している場合は、App Bubble のようなマルチタスク機能を何年も使っていることになります。これは Pop-Up View と呼ばれるもので、アイデアは同じですが、実行方法がいくつか異なるため、App Bubbles よりも大幅に優れています。
+
+Galaxy スマートフォンのポップアップ ビュー マルチタスクについてご存知ですか?または使用していますか?
+
+ポップアップ ビューは基本的にアプリ バブルですが、より多くの機能とより優れたコントロールを備えています。
+
+Yash Wate / Android Authority One UI は、分割画面ビューとポ…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/07/samsung-galaxy-pop-up-view-multitasking-feature-20.jpg" alt="あなたの Samsung スマートフォンには、Android 17 App Bubbles よりも優れた機能がすでに搭載されています。その使用方法は次のとおりです。"></p>]]></description><source url="https://www.androidauthority.com/samsung-pop-up-view-better-than-app-bubbles-how-use-3692326/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/07/samsung-galaxy-pop-up-view-multitasking-feature-20.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/07/samsung-galaxy-pop-up-view-multitasking-feature-20.jpg"/></item>
+<item><title>Adobe Acrobat を Stirling PDF に置き換えましたが、実際の費用は予想していたほどではありませんでした</title><link>https://www.xda-developers.com/replaced-adobe-acrobat-with-stirling-pdf-real-cost-wasnt-what-i-expected/</link><guid isPermaLink="true">https://www.xda-developers.com/replaced-adobe-acrobat-with-stirling-pdf-real-cost-wasnt-what-i-expected/</guid><pubDate>Sun, 02 Aug 2026 10:00:10 +0000</pubDate><description><![CDATA[<p>Adobe Acrobat を Stirling PDF に置き換えましたが、実際の費用は予想していたほどではありませんでした
+
+私が正式に切り替えたことはありません。
+
+Adobe Acrobat を Stirling PDF に置き換えましたが、実際の費用は予想していたほどではありませんでした
+
+By Shekhar Vaidya 公開 2026 年 8 月 2 日、午前 6:00 EDT Shekhar Vaidya は、ベテランのテクノロジー ジャーナリストであり、コンピューター サイエンス エンジニアです。彼は Techlatest の創設者であり、ハードウェアと Windows エコシステムに関する技術分析を提供することに何年も費やしてきました。現在、XDA のコンピューティング ライターである Shekhar は、NAS、ストレージ ソリューション、PC 内部に関する深い背景を活用して、読者がテクノロジーを習得できるように支援します。 XDA アカウントにサインインする ほとんどの人がそうであるように、私もみんなが勧めてくれたので、Acrobat を PDF のデフォルトにしていました。私はその提案に異議を唱えませんでした。なぜなら、何の不満もなかったからです。その理由はありませんでした。 Stirling PDF を使い始めたとき、私は代替品を買うつもりはありませんでした。私は自己ホスティングエネルギーの衝動的な行為として、それを自宅のサーバーにインストールしました。しかし、使い始めると、しばらく Acrobat を開いていなかったことにさえ気づきませんでした。その過程で、私は Acrobat を置き換えただけではなく、それに伴うコストも受け入れたことに気づきました。
+
+コンテナとして始まったので、インストールしたことをほとんど忘れていました
+
+私は後任を探していたのではなく、スターリングが私を見つけてくれたのです。
+
+学校の課題から大学のプロジェクト、そして現在の仕事に至るまで、PDF は私の生活の一部となっています。 Adobe 製品も、有料製品を買…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/stirling-pdf-homepage-macbook-browser.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="Adobe Acrobat を Stirling PDF に置き換えましたが、実際の費用は予想していたほどではありませんでした"></p>]]></description><source url="https://www.xda-developers.com/replaced-adobe-acrobat-with-stirling-pdf-real-cost-wasnt-what-i-expected/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/stirling-pdf-homepage-macbook-browser.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/stirling-pdf-homepage-macbook-browser.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>Pixel 6 は素晴らしい出来でした、Google の方が優れています</title><link>https://www.androidauthority.com/google-pixel-6-revisit-2026-3692192/</link><guid isPermaLink="true">https://www.androidauthority.com/google-pixel-6-revisit-2026-3692192/</guid><pubDate>Sun, 02 Aug 2026 09:30:54 +0000</pubDate><description><![CDATA[<p>Pixel 6 は素晴らしい出来でした、Google の方が優れています
+
+Google Pixel 6 の人生の始まりは大変でしたが、苦労はあったものの、サポートが終了するのを見るのは悲しいでしょう。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+Pixel 6 は素晴らしい出来でした、Google の方が優れています
+
+0 • Stephen Radochia / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください 私は Google Pixel 6 と複雑な関係にありますが、その終了のニュースは依然としてほろ苦いものだと感じています。 Google が当初の有効期限を超えてさらに数年間サポートを延長したことと、老朽化し​​たハードウェアに対する新しいソフトウェア アップデートを最適化するという優れた仕事をしてくれたことに感謝します。
+
+単なる基本を超えて、Pixel 6 は Google のスマートフォンの歴史における地殻変動を表しています。良くも悪くも、これは Tensor 時代の到来をもたらし、Pixel に今日まで続くアイデンティティを与えました。 Pixel 6 は複雑な野獣であり、Google のハードウェアの冒険を完璧にカプセル化したものです。
+
+Google Pixel 6についての思い出は何ですか?
+
+Pixel 6 は未来であるはずだった
+
+Stephen Radochia / Android 権威 Pixel 6 が登場するまで、Google はデバイスとともに森の中で迷っているように見えました。電話事業の始まりよりも終わりに近づいている会社のように感じました。 Nexus 携帯電話はメーカーと Google の緩やかな連合体でしたが、今でも多くの人の心の中で特別な場所を占めており、後の Pixel の基礎を築きました。
+
+初代 Pixel と Pixel 2 は形成的なものでした。 Pixel…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Pixel-6-on-desk-scaled.jpg" alt="Pixel 6 は素晴らしい出来でした、Google の方が優れています"></p>]]></description><source url="https://www.androidauthority.com/google-pixel-6-revisit-2026-3692192/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Pixel-6-on-desk-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Pixel-6-on-desk-scaled.jpg"/></item>
 <item><title>Android スマートフォンのセンサーを使ってできる 5 つの楽しいこと</title><link>https://www.androidauthority.com/use-android-phone-sensors-3687662/</link><guid isPermaLink="true">https://www.androidauthority.com/use-android-phone-sensors-3687662/</guid><pubDate>Sun, 02 Aug 2026 09:00:37 +0000</pubDate><description><![CDATA[<p>Android スマートフォンのセンサーを使ってできる 5 つの楽しいこと
 
 Android スマートフォンは、金属探知機、巻尺、水準器などの役割を果たします。必要なのは適切なアプリだけです。
@@ -288,7 +452,6 @@ Samsung のルーチン テンプレートにより自動化が簡単になり�
 初心者でもすぐに理解できる
 
 誰もが生活の中で自動化からある程度の恩恵を受けることができると思います。大量のスマート ホーム デバイスや複雑なフローを必要とする必要はありません。むしろ、それはスマートフォンに直接組み込まれた自動化されたタスクに関す…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/a-hot-weather-alert-in-samsung-modes-and-routines.jpg?w=1600&amp;h=900&amp;fit=crop" alt="このサムスンのアプリは、Google Home が望んでいる自動化ハブです"></p>]]></description><source url="https://www.xda-developers.com/samsung-modes-routines-better-than-google-home/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/a-hot-weather-alert-in-samsung-modes-and-routines.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/a-hot-weather-alert-in-samsung-modes-and-routines.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>Redditor scores a working GTX 1050 Ti for just $2 at Goodwill</title><link>https://www.tweaktown.com/rss/click/news/112960/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112960/?c=news-mf</guid><pubDate>Sat, 01 Aug 2026 19:00:10 +0000</pubDate><description><![CDATA[<p>Redditor scores a working GTX 1050 Ti for just $2 at Goodwill</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112960/?c=news-mf">TweakTown</source></item>
 <item><title>この無料のオープンソース ツールに Plex ライブラリを最適化させ、8 TB のストレージを再利用しました</title><link>https://www.xda-developers.com/free-open-source-tool-optimize-plex-library-reclaimed-8tb-storage/</link><guid isPermaLink="true">https://www.xda-developers.com/free-open-source-tool-optimize-plex-library-reclaimed-8tb-storage/</guid><pubDate>Sat, 01 Aug 2026 19:00:10 +0000</pubDate><description><![CDATA[<p>この無料のオープンソース ツールに Plex ライブラリを最適化させ、8 TB のストレージを再利用しました
 
 この経済状況ではドライブを買うより良い
@@ -300,6 +463,7 @@ By Anurag Singh 公開 2026 年 8 月 1 日、午後 3 時 EDT アヌラグは�
 そして現在、ストレージの価格がこれほど高騰しているため、別のドライブに投資するのは意味がありません。代わりに、Unmanic をインストールし、ライブラリを通じて動作させました。これは、メディア ファイルをスキャンし、設定したルールに一致しないものを自動的に変換する無料のオープンソース ツールです。これを Plex ライブラリで自由に実行させたところ、ほぼ 8TB のスペースが解放され、事実上、別のハード ドライブが得られました。
 
 Plex ライブ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/unmanic.jpg?w=1600&amp;h=900&amp;fit=crop" alt="この無料のオープンソース ツールに Plex ライブラリを最適化させ、8 TB のストレージを再利用しました"></p>]]></description><source url="https://www.xda-developers.com/free-open-source-tool-optimize-plex-library-reclaimed-8tb-storage/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/unmanic.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/unmanic.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>Redditor scores a working GTX 1050 Ti for just $2 at Goodwill</title><link>https://www.tweaktown.com/rss/click/news/112960/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112960/?c=news-mf</guid><pubDate>Sat, 01 Aug 2026 19:00:10 +0000</pubDate><description><![CDATA[<p>Redditor scores a working GTX 1050 Ti for just $2 at Goodwill</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112960/?c=news-mf">TweakTown</source></item>
 <item><title>マザーボードの設定を何年も無視していたため、静かにパフォーマンスが低下していました</title><link>https://www.xda-developers.com/ignored-motherboards-settings-for-years-it-quietly-cost-performance/</link><guid isPermaLink="true">https://www.xda-developers.com/ignored-motherboards-settings-for-years-it-quietly-cost-performance/</guid><pubDate>Sat, 01 Aug 2026 18:30:10 +0000</pubDate><description><![CDATA[<p>マザーボードの設定を何年も無視していたため、静かにパフォーマンスが低下していました
 
 BIOS 設定が永続的であると想定していた私のせいです。
@@ -682,6 +846,15 @@ PC ゲーマーの半数以上は 2026 年になっても 1080p を使用して�
 By Abhinav Raj 公開 2026年8月1日午前7時00分（東部夏時間） アビナフは、銀行業界でのキャリアから転向し、初恋を作家として追求した。フルタイムで働きながらも、編集長として貢献を続け、その役割を 7 年以上務めました。生涯テクノロジー愛好家であり、2018 年以来、ゲームと生産性に優れた PC を 3 台開発してきました。テクノロジーへの情熱により、NVIDIA や AMD から ARM に至るまで、半導体業界を常に追い続けています。彼の修士論文では、人工知能が仕事の未来をどのように再構築するかを探求し、新興テクノロジーの広範な社会的影響に対する彼の好奇心を反映しています。 XDA アカウントにサインインする Steam ハードウェア調査は、おそらく消費者市場の現実を示す最も具体的なデータ セットの 1 つです。私が長年この調査を行ってきた中で、多くのことが変わりましたが、1 つのカテゴリーの動きが他のカテゴリーよりも遅いようです。入手可能な最新の 2026 年 6 月調査では、プレーヤーの 51.12% が依然としてプライマリ ディスプレイとして 1080p を実行していると報告されています。これを 3 年前と比較すると、2023 年 9 月には約 61.17% だったので、低下していますが、プラットフォームの半分がまだそこにあるほどゆっくりと低下しています。
 
 ざっと見ただけでは、モニターの価格設定がゲーマーの足を引っ張っており、ユーザーは通常、ディスプレイを最後にアップグレードしているように見えます。少なくとも 1440p モニターの価格動向をチェックするまでは、私もそう思っていました。この理論を無視できるほど数値が低かったため、調査の際…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/09/oled-curved-ultrawide-monitor-wallpaper-engine-hero.jpg?w=1600&amp;h=900&amp;fit=crop" alt="PC ゲーマーの半数以上は 2026 年になっても 1080p を使用していますが、その理由はモニターではありません"></p>]]></description><source url="https://www.xda-developers.com/over-half-of-pc-gamers-are-still-on-1080p-in-2026-and-the-reason-isnt-the-monitors/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/09/oled-curved-ultrawide-monitor-wallpaper-engine-hero.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/09/oled-curved-ultrawide-monitor-wallpaper-engine-hero.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>3D プリントされたサイクロイド ギアボックス設計のテスト</title><link>https://hackaday.com/2026/08/01/testing-a-3d-printed-cycloidal-gearbox-design/</link><guid isPermaLink="true">https://hackaday.com/2026/08/01/testing-a-3d-printed-cycloidal-gearbox-design/</guid><pubDate>Sat, 01 Aug 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>3D プリントされたサイクロイド ギアボックス設計のテスト
+
+サイクロイドギアボックスは、コンパクトなパッケージで期待できるパフォーマンスのため、趣味の分野で繰り返し取り上げられるテーマです。高速入力を取り込んで、それをわずかな速度まで削減することができます。
+
+サイクロイドギアボックスは、コンパクトなパッケージで期待できるパフォーマンスのため、趣味の分野で繰り返し取り上げられるテーマです。高速入力を取り込み、非常に低いバックラッシュで設定比率まで下げることができるため、理論的にはサイズと重量が重要となる幅広いプロジェクトに最適です。これに対応して、[Advanced Hobby Lab] は NEMA 17 ステッピング モーターに適合する 3D プリント デザインを改良してきました。
+
+[Advanced Hobby Lab] の主な目標は、サイクロイド ギアボックスの設計が遊星ギアボックスの代替品よりも実際に改善されているかどうかを確認することでした。 3D プリントされたサイクロイド ドライブは十分に機能しましたが、いくつかのテストでは 92% の効率を含む実際の数値が示されました。ギアボックスもステッピング モーターに多少のノイズを加えますが、3D プリントされた遊星ギアボックスほどではありません。
+
+もちろん、これらはすべて FDM 3D プリントの制限内であり、いくつかの金属部品を使用しているため、常に改善の余地がありますが、趣味の 3D プリント ギアボックスの世界では、これは悪くない結果です。印刷ファイルとプロジェクト ファイルは、困っている人なら誰でも利用できます。もちろん、最近紹介した二重入れ子サイクロイド設計を選択することもできます。これにより、さらにコンパクトになり、部品がさらに減り、よりスムーズな動作が期待できます。</p><p><img src="https://hackaday.com/wp-content/uploads/2026/07/nema_17_cycloidal_drive_advanced_hobby_lab_youtube.jpg" alt="3D プリントされたサイクロイド ギアボックス設計のテスト"></p>]]></description><source url="https://hackaday.com/2026/08/01/testing-a-3d-printed-cycloidal-gearbox-design/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/07/nema_17_cycloidal_drive_advanced_hobby_lab_youtube.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/07/nema_17_cycloidal_drive_advanced_hobby_lab_youtube.jpg"/></item>
 <item><title>ソニー、物理ゲームディスクの販売停止に倍増 - CFOは「慎重に進めていく」と繰り返し</title><link>https://www.tomshardware.com/video-games/playstation/sony-doubles-down-on-axing-physical-game-discs-cfo-reiterates-were-going-to-cautiously-move-this-forward</link><guid isPermaLink="true">https://www.tomshardware.com/video-games/playstation/sony-doubles-down-on-axing-physical-game-discs-cfo-reiterates-were-going-to-cautiously-move-this-forward</guid><pubDate>Sat, 01 Aug 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>ソニー、物理ゲームディスクの販売停止に倍増 - CFOは「慎重に進めていく」と繰り返し
 
 プレイステーションのディスク終了までのカウントダウンが始まる
@@ -709,15 +882,6 @@ NexperiaとDRAM危機が悪化する中、チップ不足が自動車業界を�
 タオ氏はさらに、PlayStation ファンや業界の一部から否定的な批判にさらされたデジタル パラダイム シフトの背後にある理論的根拠を説明します。
 
 「一番大きいのは、コンテンツ全体のデジタル化が進んでいるこ…</p><p><img src="https://cdn.mos.cms.futurecdn.net/ehooWGrgPpZW2GDyPXyGp3-2560-80.jpg" alt="ソニー、物理ゲームディスクの販売停止に倍増 - CFOは「慎重に進めていく」と繰り返し"></p>]]></description><source url="https://www.tomshardware.com/video-games/playstation/sony-doubles-down-on-axing-physical-game-discs-cfo-reiterates-were-going-to-cautiously-move-this-forward">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/ehooWGrgPpZW2GDyPXyGp3-2560-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/ehooWGrgPpZW2GDyPXyGp3-2560-80.jpg"/></item>
-<item><title>3D プリントされたサイクロイド ギアボックス設計のテスト</title><link>https://hackaday.com/2026/08/01/testing-a-3d-printed-cycloidal-gearbox-design/</link><guid isPermaLink="true">https://hackaday.com/2026/08/01/testing-a-3d-printed-cycloidal-gearbox-design/</guid><pubDate>Sat, 01 Aug 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>3D プリントされたサイクロイド ギアボックス設計のテスト
-
-サイクロイドギアボックスは、コンパクトなパッケージで期待できるパフォーマンスのため、趣味の分野で繰り返し取り上げられるテーマです。高速入力を取り込んで、それをわずかな速度まで削減することができます。
-
-サイクロイドギアボックスは、コンパクトなパッケージで期待できるパフォーマンスのため、趣味の分野で繰り返し取り上げられるテーマです。高速入力を取り込み、非常に低いバックラッシュで設定比率まで下げることができるため、理論的にはサイズと重量が重要となる幅広いプロジェクトに最適です。これに対応して、[Advanced Hobby Lab] は NEMA 17 ステッピング モーターに適合する 3D プリント デザインを改良してきました。
-
-[Advanced Hobby Lab] の主な目標は、サイクロイド ギアボックスの設計が遊星ギアボックスの代替品よりも実際に改善されているかどうかを確認することでした。 3D プリントされたサイクロイド ドライブは十分に機能しましたが、いくつかのテストでは 92% の効率を含む実際の数値が示されました。ギアボックスもステッピング モーターに多少のノイズを加えますが、3D プリントされた遊星ギアボックスほどではありません。
-
-もちろん、これらはすべて FDM 3D プリントの制限内であり、いくつかの金属部品を使用しているため、常に改善の余地がありますが、趣味の 3D プリント ギアボックスの世界では、これは悪くない結果です。印刷ファイルとプロジェクト ファイルは、困っている人なら誰でも利用できます。もちろん、最近紹介した二重入れ子サイクロイド設計を選択することもできます。これにより、さらにコンパクトになり、部品がさらに減り、よりスムーズな動作が期待できます。</p><p><img src="https://hackaday.com/wp-content/uploads/2026/07/nema_17_cycloidal_drive_advanced_hobby_lab_youtube.jpg" alt="3D プリントされたサイクロイド ギアボックス設計のテスト"></p>]]></description><source url="https://hackaday.com/2026/08/01/testing-a-3d-printed-cycloidal-gearbox-design/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/07/nema_17_cycloidal_drive_advanced_hobby_lab_youtube.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/07/nema_17_cycloidal_drive_advanced_hobby_lab_youtube.jpg"/></item>
 <item><title>Google の新しい自撮りサインイン ツールについて私は間違っていました。今すぐ設定する方法（およびその理由）は次のとおりです</title><link>https://www.androidauthority.com/google-selfie-video-sign-in-how-to-use-3692675/</link><guid isPermaLink="true">https://www.androidauthority.com/google-selfie-video-sign-in-how-to-use-3692675/</guid><pubDate>Sat, 01 Aug 2026 10:30:04 +0000</pubDate><description><![CDATA[<p>Google の新しい自撮りサインイン ツールについて私は間違っていました。今すぐ設定する方法（およびその理由）は次のとおりです
 
 バックアップ コードや回復メールのことは忘れてください。 Google の新しい自撮りサインイン ツールは、アカウントに戻るための最良の方法かもしれません。
@@ -1938,6 +2102,15 @@ Razer、Huntsman V3 HE Magnetic 8KHz で e スポーツ キーボードの範囲
 ジョアン・シルバ 10時間前 キーボード
 
 Razer は、Huntsman V3 HE Magnetic 8KHz ラインを発表し、ホール効果磁気スイッチと真の 8000Hz ポーリングを備えたオプションを増やしてゲーミング キーボードの範囲を拡大しました。テンキーレスおよびミニ 65% フォーム ファクターで利用可能なキーボードには、ブラウザベースのカスタマイズとともに新しい入力コントロールが導入されています。 Razer は、Huntsman V3 HE Magnetic 8KHz シリーズにホール効果磁気スイッチを搭載しており、ユーザーは主要なアクチュエーション ポイントを 0.1 mm ～ 4.0 mm の間で調整できます。このスイッチは、定格 1 億キーストローク寿命に加え、急速な入力中に動的キー リセットを行うラピッド トリガー モードをサポートしています。 Razer は、真の 8,000 Hz ポーリング レートにより、0.1 mm の作動設定で平均レイテンシが 0.60 ミリ秒であると主張しています。ソフトウェア面では、キーボードは、個別のプレスとリリースのコマンドを 1 つのキーに割り当てる Razer Snap Flex などの高度な入力機能をサポートして…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/07/videoframe_2522-732x330.jpg" alt="Razer、Huntsman V3 HE Magnetic 8KHz で e スポーツ キーボードの範囲を拡大"></p>]]></description><source url="https://www.kitguru.net/peripherals/keyboards/joao-silva/razer-expands-esports-keyboard-range-with-huntsman-v3-he-magnetic-8khz/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/07/videoframe_2522-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/07/videoframe_2522-732x330.jpg"/></item>
+<item><title>Claude Code のサブエージェントは 1 つの問題を解決し、他の 3 つの問題を作成します</title><link>https://www.xda-developers.com/claude-codes-sub-agents-solve-one-problem-and-create-three-others/</link><guid isPermaLink="true">https://www.xda-developers.com/claude-codes-sub-agents-solve-one-problem-and-create-three-others/</guid><pubDate>Fri, 31 Jul 2026 14:30:10 +0000</pubDate><description><![CDATA[<p>Claude Code のサブエージェントは 1 つの問題を解決し、他の 3 つの問題を作成します
+
+孤立は与え、孤立は奪います。
+
+Claude Code のサブエージェントは 1 つの問題を解決し、他の 3 つの問題を作成します
+
+By Mahnoor Faisal 公開 2026 年 7 月 31 日、午前 10:30 EDT Mahnoor Faisal は、XDA 、 SlashGear 、 MakeUseOf 、 Laptop Mag 、 Android Police で署名記事を掲載し、AI と生産性向上ツールをカバーするテクノロジー ジャーナリストです。彼女は 16 歳の頃からプロとして執筆活動を行っており、それ以来何百もの記事を執筆してきました。これには、NotebookLM などの AI ツールから AI 分野全体の最新ニュースまでの詳細なカバレッジが含まれます。彼女のテクノロジーに対する情熱は、8 歳の誕生日に最初の iPod Touch (第 4 世代) を受け取ったときに始まり、それ以来テクノロジーの世界に深く関わってきました。現在、コンピューター サイエンスの学位取得を目指しているマフノール氏は、AI が私たちの働き方や学習方法をどのように再構築しているのかを取材する際に、ジャーナリストの目と技術的基礎の両方をもたらしています。 XDA アカウントにサインインします。AI を使用して、これまで言葉でしか説明できなかったものを初めて構築するときは、本当に魔法のように感じます。あなたのビジョンは数分以内にアイデアからコンセプトに移行し、これまでに行ったものよりも速くなります。 AI を使用して を構築するのが 2 回目、3 回目、4 回目、そして 10 回目であっても、同じスピード (そして興奮) が維持されます。しかし。この段階で何かが微妙に変化します。
+
+最初は見落としていた摩擦に気づき始めます。すべてを一度に一歩ずつ行っているからです。 1 つのことを要求し、待って確認してから、次のことを要求します。ここで、サブエージェントが登場します。タ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/claude-code-web-on-macbook-with-spotify-in-background.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="Claude Code のサブエージェントは 1 つの問題を解決し、他の 3 つの問題を作成します"></p>]]></description><source url="https://www.xda-developers.com/claude-codes-sub-agents-solve-one-problem-and-create-three-others/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/claude-code-web-on-macbook-with-spotify-in-background.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/claude-code-web-on-macbook-with-spotify-in-background.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>Pixel のデフォルトのランチャーを Niagara Launcher に置き換えたら、元には戻れません</title><link>https://www.xda-developers.com/replaced-pixels-default-launcher-with-niagara-launcher-cant-go-back/</link><guid isPermaLink="true">https://www.xda-developers.com/replaced-pixels-default-launcher-with-niagara-launcher-cant-go-back/</guid><pubDate>Fri, 31 Jul 2026 14:30:10 +0000</pubDate><description><![CDATA[<p>Pixel のデフォルトのランチャーを Niagara Launcher に置き換えたら、元には戻れません
 
 このランチャーは、それ以上ではなく、より少ない操作で、私の Pixel の使い方を変えました。
@@ -1951,15 +2124,6 @@ Pixel のデフォルトのランチャーを Niagara Launcher に置き換え�
 ほとんどのユーザーがランチャーに求めるものと比較して、私はカスタマイズが目立たず、邪魔にならないホーム画面を備えたツールを探していました。 Niagara Launcher を数か月間使用した結果、もう後戻りはできないと断言できます。
 
 シンプルなホーム画…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/dsc08636.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Pixel のデフォルトのランチャーを Niagara Launcher に置き換えたら、元には戻れません"></p>]]></description><source url="https://www.xda-developers.com/replaced-pixels-default-launcher-with-niagara-launcher-cant-go-back/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/dsc08636.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/dsc08636.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>Claude Code のサブエージェントは 1 つの問題を解決し、他の 3 つの問題を作成します</title><link>https://www.xda-developers.com/claude-codes-sub-agents-solve-one-problem-and-create-three-others/</link><guid isPermaLink="true">https://www.xda-developers.com/claude-codes-sub-agents-solve-one-problem-and-create-three-others/</guid><pubDate>Fri, 31 Jul 2026 14:30:10 +0000</pubDate><description><![CDATA[<p>Claude Code のサブエージェントは 1 つの問題を解決し、他の 3 つの問題を作成します
-
-孤立は与え、孤立は奪います。
-
-Claude Code のサブエージェントは 1 つの問題を解決し、他の 3 つの問題を作成します
-
-By Mahnoor Faisal 公開 2026 年 7 月 31 日、午前 10:30 EDT Mahnoor Faisal は、XDA 、 SlashGear 、 MakeUseOf 、 Laptop Mag 、 Android Police で署名記事を掲載し、AI と生産性向上ツールをカバーするテクノロジー ジャーナリストです。彼女は 16 歳の頃からプロとして執筆活動を行っており、それ以来何百もの記事を執筆してきました。これには、NotebookLM などの AI ツールから AI 分野全体の最新ニュースまでの詳細なカバレッジが含まれます。彼女のテクノロジーに対する情熱は、8 歳の誕生日に最初の iPod Touch (第 4 世代) を受け取ったときに始まり、それ以来テクノロジーの世界に深く関わってきました。現在、コンピューター サイエンスの学位取得を目指しているマフノール氏は、AI が私たちの働き方や学習方法をどのように再構築しているのかを取材する際に、ジャーナリストの目と技術的基礎の両方をもたらしています。 XDA アカウントにサインインします。AI を使用して、これまで言葉でしか説明できなかったものを初めて構築するときは、本当に魔法のように感じます。あなたのビジョンは数分以内にアイデアからコンセプトに移行し、これまでに行ったものよりも速くなります。 AI を使用して を構築するのが 2 回目、3 回目、4 回目、そして 10 回目であっても、同じスピード (そして興奮) が維持されます。しかし。この段階で何かが微妙に変化します。
-
-最初は見落としていた摩擦に気づき始めます。すべてを一度に一歩ずつ行っているからです。 1 つのことを要求し、待って確認してから、次のことを要求します。ここで、サブエージェントが登場します。タ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/claude-code-web-on-macbook-with-spotify-in-background.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="Claude Code のサブエージェントは 1 つの問題を解決し、他の 3 つの問題を作成します"></p>]]></description><source url="https://www.xda-developers.com/claude-codes-sub-agents-solve-one-problem-and-create-three-others/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/claude-code-web-on-macbook-with-spotify-in-background.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/claude-code-web-on-macbook-with-spotify-in-background.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>Galaxy SmartTag 3 のリークは、条件付き (なし) での再設計を示唆しています</title><link>https://www.androidauthority.com/samsung-galaxy-smarttag-3-leak-3693320/</link><guid isPermaLink="true">https://www.androidauthority.com/samsung-galaxy-smarttag-3-leak-3693320/</guid><pubDate>Fri, 31 Jul 2026 14:27:00 +0000</pubDate><description><![CDATA[<p>Galaxy SmartTag 3 のリークは、条件付き (なし) での再設計を示唆しています
 
 Samsung の Galaxy SmartTag 3 は、新しいデザイン、中央に見えるボタン、そして 1 つの驚くべき妥協を特徴とする可能性があります。
@@ -2271,13 +2435,6 @@ EA の長期にわたる買収劇は現在、終結に近づいています。�
 Matthew Wilson 16 時間前 注目の技術ニュース , ソフトウェア &amp; ゲーム
 
 EA の長期にわたる買収劇は現在、終結に近づいています。規制上のハードルをクリアした後、同社は来週には合併が完了し、EAが上場企業としての時代に終止符を打つ見通しであると述べた。今週発表されたSECへの提出文書の中で、EAは、この取引の審査に関与していたすべての規制機関が現在承認済みであることを確認した。 7 月 30 日の時点ですべての承認が得られており、EA は 8 月 4 日の取引終了までに取引を完了する予定です。これは、昨年初めて買収が提案されたときに以前に発表されたスケジュールと一致している。 EAは常に2026年末までに買収をまとめるつもりだったが、英国、EU、米国の規制当局と進行中の交渉により多くの遅れが生じたMicrosoftによるActivision Blizzard買収に比べて、この買収ははるかに精査されておらず、予定より若干早く進んでいる。取引が完了すると、EAはサウジアラビアの公的投資基金を含む民間投資家グループの所有となる。この移行が行われると、EA は上場企業ではなくなり、同社は買収資金として使用されたローンによる負債の返済に活用されることになります。これが EA のゲームの将来にとって正確に何を意味するかはまだ不透明ですが、これまで EA のタイトルが過度に収益化されていたと考えているなら、おそらく次に来るものを気に入らないでしょう。 KitGuru 氏のコメント: 私たちは四半期決算報告を通じて EA の財務内容について聞くことに慣れていますが、EA が再び非公開になった後は、こうした洞察が公になる可能性は低いです。今後、その情報についてはアナリストの推定に頼る必要があります。パトロンに…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2022/05/ealogo800-732x330.jpg" alt="550億ドルのEA買収が来週完了予定"></p>]]></description><source url="https://www.kitguru.net/gaming/matthew-wilson/55b-ea-buyout-to-complete-next-week/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2022/05/ealogo800-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2022/05/ealogo800-732x330.jpg"/></item>
-<item><title>ChatGPT Work を Claude Cowork と対戦させたところ、勝者は予想していた人物ではありませんでした</title><link>https://www.xda-developers.com/put-chatgpt-work-up-against-claude-cowork-result-caught-me-off-guard/</link><guid isPermaLink="true">https://www.xda-developers.com/put-chatgpt-work-up-against-claude-cowork-result-caught-me-off-guard/</guid><pubDate>Fri, 31 Jul 2026 12:00:10 +0000</pubDate><description><![CDATA[<p>ChatGPT Work を Claude Cowork と対戦させたところ、勝者は予想していた人物ではありませんでした
-
-（エージェント）戦争を始めましょう
-
-ChatGPT Work を Claude Cowork と対戦させたところ、勝者は予想していた人物ではありませんでした
-
-Mahnoor Faisal 著 公開 2026 年 7 月 31 日、午前 8:00 EDT Mahnoor Faisal は、XDA 、 SlashGear 、 MakeUseOf 、 Laptop Mag 、 Android Police で署名記事を掲載し、AI と生産性向上ツールをカバーするテクノロジー ジャーナリストです。彼女は 16 歳の頃からプロとして執筆活動を行っており、それ以来何百もの記事を執筆してきました。これには、NotebookLM などの AI ツールから AI 分野全体の最新ニュースまでの詳細なカバレッジが含まれます。彼女のテクノロジーに対する情熱は、8 歳の誕生日に最初の iPod Touch (第 4 世代) を受け取ったときに始まり、それ以来テクノロジーの世界に深く関わってきました。現在、コンピューター サイエンスの学位取得を目指しているマフノール氏は、AI が私たちの働き方や学習方法をどのように再構築しているのかを取材する際に、ジャーナリストの目と技術的基礎の両方をもたらしています。 XDA アカウントにサインイン 2026 年、Samsung 対 Apple の戦争は、現在 AI のトップ 2 名である ChatGPT と Claude が支配する完全に新しい戦争に正式に置き換えられました。前者は私たちが知っている AI ブームの始まりであり、明らかに長い間最有力候補でしたが、最終的には Claude が ChatGPT を信頼していたまさにユーザーの心を掴むことになりました。この変化には、OpenAI x Anthropic x 陸軍省の厄介な物語や、Anthropic が他の誰にも匹敵できないペースで機能をリリースしていたという事実など、多くの要…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/chatgpt-work-vs-claude-cowork-on-macbook-desktop.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="ChatGPT Work を Claude Cowork と対戦させたところ、勝者は予想していた人物ではありませんでした"></p>]]></description><source url="https://www.xda-developers.com/put-chatgpt-work-up-against-claude-cowork-result-caught-me-off-guard/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/chatgpt-work-vs-claude-cowork-on-macbook-desktop.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/chatgpt-work-vs-claude-cowork-on-macbook-desktop.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>ZimaOS と FygoOS は、本当の DIY NAS の戦いがもはや単なる TrueNAS 対 Unraid ではないことを証明します</title><link>https://www.xda-developers.com/zimaos-and-fygoos-prove-the-real-diy-nas-fight-is-no-longer-just-truenas-versus-unraid/</link><guid isPermaLink="true">https://www.xda-developers.com/zimaos-and-fygoos-prove-the-real-diy-nas-fight-is-no-longer-just-truenas-versus-unraid/</guid><pubDate>Fri, 31 Jul 2026 12:00:10 +0000</pubDate><description><![CDATA[<p>ZimaOS と FygoOS は、本当の DIY NAS の戦いがもはや単なる TrueNAS 対 Unraid ではないことを証明します
 
 ストレージ サーバーにインストールできるクールなディストリビューションは TrueNAS と Unraid だけではありません
@@ -2287,6 +2444,13 @@ ZimaOS と FygoOS は、本当の DIY NAS の戦いがもはや単なる TrueNAS
 By Ayush Pande 公開 2026 年 7 月 31 日、午前 8:00 EDT Ayush Pande は、PC ハードウェアおよびゲームのライターです。彼が新しい記事に取り組んでいないときは、頭を PC の中に閉じ込めたり、サーバーのオペレーティング システムをいじったりしているのを見かけることがあります。コンピューティングのほかに、彼の興味には、長い RPG に何時間も費やすこと、協力ゲームで友達に怒鳴りつけること、ギターを練習することなどがあります。 XDA アカウントにサインインする データのアーカイブ、バックアップ、およびファイル共有タスクを強化するための理想的な OS を技術フォーラムで調べてみると、TrueNAS Community Edition (数年前までは Scale と呼ばれていました) と Unraid の間で意見が分かれていることに気づくでしょう。自宅ラボで両方のディストリビューションを使用してみたところ、これらのディストリビューションには、その膨大なファンを正当化するのに十分な機能が詰め込まれていることが確認できました。
 
 しかし、その有用性にもかかわらず、DIY エコシステムにおける唯一の NAS ディストリビューションであるとまでは言えません。過小評価されている王者 OpenMediaVault やコミュニティが作成した XPEnology を脇に置いたとしても、最近、無名だが便利なストレージ サーバー中心のプラットフォームがかなりの数、ホーム ラボ コミュニティで注目を集めていることに気づきました。 ZimaOS…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/fygoos-6.jpg?w=1600&amp;h=900&amp;fit=crop" alt="ZimaOS と FygoOS は、本当の DIY NAS の戦いがもはや単なる TrueNAS 対 Unraid ではないことを証明します"></p>]]></description><source url="https://www.xda-developers.com/zimaos-and-fygoos-prove-the-real-diy-nas-fight-is-no-longer-just-truenas-versus-unraid/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/fygoos-6.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/fygoos-6.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>ChatGPT Work を Claude Cowork と対戦させたところ、勝者は予想していた人物ではありませんでした</title><link>https://www.xda-developers.com/put-chatgpt-work-up-against-claude-cowork-result-caught-me-off-guard/</link><guid isPermaLink="true">https://www.xda-developers.com/put-chatgpt-work-up-against-claude-cowork-result-caught-me-off-guard/</guid><pubDate>Fri, 31 Jul 2026 12:00:10 +0000</pubDate><description><![CDATA[<p>ChatGPT Work を Claude Cowork と対戦させたところ、勝者は予想していた人物ではありませんでした
+
+（エージェント）戦争を始めましょう
+
+ChatGPT Work を Claude Cowork と対戦させたところ、勝者は予想していた人物ではありませんでした
+
+Mahnoor Faisal 著 公開 2026 年 7 月 31 日、午前 8:00 EDT Mahnoor Faisal は、XDA 、 SlashGear 、 MakeUseOf 、 Laptop Mag 、 Android Police で署名記事を掲載し、AI と生産性向上ツールをカバーするテクノロジー ジャーナリストです。彼女は 16 歳の頃からプロとして執筆活動を行っており、それ以来何百もの記事を執筆してきました。これには、NotebookLM などの AI ツールから AI 分野全体の最新ニュースまでの詳細なカバレッジが含まれます。彼女のテクノロジーに対する情熱は、8 歳の誕生日に最初の iPod Touch (第 4 世代) を受け取ったときに始まり、それ以来テクノロジーの世界に深く関わってきました。現在、コンピューター サイエンスの学位取得を目指しているマフノール氏は、AI が私たちの働き方や学習方法をどのように再構築しているのかを取材する際に、ジャーナリストの目と技術的基礎の両方をもたらしています。 XDA アカウントにサインイン 2026 年、Samsung 対 Apple の戦争は、現在 AI のトップ 2 名である ChatGPT と Claude が支配する完全に新しい戦争に正式に置き換えられました。前者は私たちが知っている AI ブームの始まりであり、明らかに長い間最有力候補でしたが、最終的には Claude が ChatGPT を信頼していたまさにユーザーの心を掴むことになりました。この変化には、OpenAI x Anthropic x 陸軍省の厄介な物語や、Anthropic が他の誰にも匹敵できないペースで機能をリリースしていたという事実など、多くの要…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/chatgpt-work-vs-claude-cowork-on-macbook-desktop.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="ChatGPT Work を Claude Cowork と対戦させたところ、勝者は予想していた人物ではありませんでした"></p>]]></description><source url="https://www.xda-developers.com/put-chatgpt-work-up-against-claude-cowork-result-caught-me-off-guard/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/chatgpt-work-vs-claude-cowork-on-macbook-desktop.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/chatgpt-work-vs-claude-cowork-on-macbook-desktop.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>新しいオープンソース プリンタには、5 秒で交換できる 7 つのツールヘッドがあり、高速で無駄のないマルチカラー 3D 印刷が可能です。Sovol M1D 3D プリンタは、ツールチェンジャが統合された初のオープンソース IDEX 設計です。</title><link>https://www.tomshardware.com/3d-printing/sovol-m1d-3d-printer-is-the-first-open-source-idex-design-with-an-integrated-tool-changer-seven-heads-for-quick-swapping-materials-with-two-fully-independent-nozzles</link><guid isPermaLink="true">https://www.tomshardware.com/3d-printing/sovol-m1d-3d-printer-is-the-first-open-source-idex-design-with-an-integrated-tool-changer-seven-heads-for-quick-swapping-materials-with-two-fully-independent-nozzles</guid><pubDate>Fri, 31 Jul 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>新しいオープンソース プリンタには、5 秒で交換できる 7 つのツールヘッドがあり、高速で無駄のないマルチカラー 3D 印刷が可能です。Sovol M1D 3D プリンタは、ツールチェンジャが統合された初のオープンソース IDEX 設計です。
 
 真のデュアルノズル独立動作を競争力のある価格で実現します。
@@ -2604,6 +2768,19 @@ VPU – 4K H265/H264 60fps デコード
 Keychron Nape Pro ワイヤレス トラックボール マウスを Amazon で入手してください。
 
 このキーボードメーカーは、今年初めの CES で風変わりなトラックボールマウスを発表しましたが、ついに興味のある人が入手できるようになりました。ワイヤレスで、6 …</p><p><img src="https://cdn.mos.cms.futurecdn.net/j3dJZp9senxbci67YytFEG-1920-80.png" alt="キーボード大手の Keychron が、Nape Pro ワイヤレス トラックボール マウスを発売 — スペースバーの下に収まるように設計された長方形のフォーム ファクタにより、ユーザーは 6 つのカスタマイズ可能なボタンとコントロール ダイヤルを利用できます"></p>]]></description><source url="https://www.tomshardware.com/peripherals/mice/keyboard-giant-keychron-launches-nape-pro-wireless-trackball-mouse-rectangular-form-factor-designed-to-sit-under-spacebar-gives-users-six-customizable-buttons-and-a-control-dial">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/j3dJZp9senxbci67YytFEG-1920-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/j3dJZp9senxbci67YytFEG-1920-80.png"/></item>
+<item><title>野心的なゲーマーがファンレスの Subway メニュー PC をゲーム機に変える - パッシブ Intel Core i3 ユニットは GTA V でわずか 15 fps、Minecraft で 25 fps を管理します</title><link>https://www.tomshardware.com/video-games/pc-gaming/ambitious-gamer-turns-three-old-subway-menu-signage-pcs-to-gaming-puny-intel-core-i3-machines-can-only-muster-15-fps-running-gta-5-25-fps-on-minecraft</link><guid isPermaLink="true">https://www.tomshardware.com/video-games/pc-gaming/ambitious-gamer-turns-three-old-subway-menu-signage-pcs-to-gaming-puny-intel-core-i3-machines-can-only-muster-15-fps-running-gta-5-25-fps-on-minecraft</guid><pubDate>Fri, 31 Jul 2026 10:20:00 +0000</pubDate><description><![CDATA[<p>野心的なゲーマーがファンレスの Subway メニュー PC をゲーム機に変える - パッシブ Intel Core i3 ユニットは GTA V でわずか 15 fps、Minecraft で 25 fps を管理します
+
+地下鉄
+
+野心的なゲーマーがファンレスの Subway メニュー PC をゲーム機に変える - パッシブ Intel Core i3 ユニットは GTA V でわずか 15 fps、Minecraft で 25 fps を管理します
+
+Subway の「作りたいものを作りましょう」というスローガンは、この例ではサンドイッチの世界から PC の世界まで完全に広がっているわけではありません。
+
+(画像クレジット: Getty / Gerardo Mora) リンクをコピーする
+
+0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 勇敢な TechTuber が、Subway サンドイッチ チェーンの 3 台のパッシブ ミニ PC をテストして、ゲームを楽しむために再利用できるかどうかを確認しました。最近のビデオで Garkus 氏は、10 年間サービング カウンターの上にサンドイッチ メニューを表示していましたが、スクラップ/埋め立て地から救出された 3 台の Intel Skylake 搭載ミニ PC が、対応する LG デジタル サイネージ TV セットと並んでいることを示しています。ネタバレ: 搭載されている RAM を 2 倍にしても、2026 年の主流の AAA ゲームには貧弱すぎます。
+
+Watch On デジタル サイネージからゲームへの変換に着手する前に、Garkus は手持ちのハードウェアを調査しました。ラベルには、3 台のスリム ミニ PC がすべて Advantech DS-081 モデルであることが示されていました (公式 PDF リンク)。そのデータシートをじっくり検討すると、Intel Core i3 6100U を搭載したバージョンには、いわば DS-081G…</p><p><img src="https://cdn.mos.cms.futurecdn.net/nEWLLAdx3CpGwuGSNGeRic-2000-80.jpg" alt="野心的なゲーマーがファンレスの Subway メニュー PC をゲーム機に変える - パッシブ Intel Core i3 ユニットは GTA V でわずか 15 fps、Minecraft で 25 fps を管理します"></p>]]></description><source url="https://www.tomshardware.com/video-games/pc-gaming/ambitious-gamer-turns-three-old-subway-menu-signage-pcs-to-gaming-puny-intel-core-i3-machines-can-only-muster-15-fps-running-gta-5-25-fps-on-minecraft">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/nEWLLAdx3CpGwuGSNGeRic-2000-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/nEWLLAdx3CpGwuGSNGeRic-2000-80.jpg"/></item>
 <item><title>3D プリンターをお持ちなら、ぜひ Hi3D を試してみてください</title><link>https://www.tomshardware.com/3d-printing/if-you-own-a-3d-printer-you-absolutely-need-to-try-hi3d</link><guid isPermaLink="true">https://www.tomshardware.com/3d-printing/if-you-own-a-3d-printer-you-absolutely-need-to-try-hi3d</guid><pubDate>Fri, 31 Jul 2026 10:20:00 +0000</pubDate><description><![CDATA[<p>3D プリンターをお持ちなら、ぜひ Hi3D を試してみてください
 
 面倒なスライスステップをすべて AI にワンクリックで処理させましょう
@@ -2623,19 +2800,6 @@ Hi3D は、AI の作成と物理的な製造の間のギャップを埋めるた
 記念リリースにより、Hi3D は新たな一歩を踏み出しました。自動化されたパーツ分離、マルチカラーの最適化、カラー クリーンアップ、マテリアル節約アルゴリズム、インテリジェントなモデルの向き、印刷パラメーターの生成が、単一の AI 主導のワークフローに統合されました。
 
 結果はシンプルです。かつては複数のソフトウェア ツールと何時間もの手作業が必要…</p><p><img src="https://cdn.mos.cms.futurecdn.net/SXUNdwDjVqpYgFhDksUbn5-1024-80.png" alt="3D プリンターをお持ちなら、ぜひ Hi3D を試してみてください"></p>]]></description><source url="https://www.tomshardware.com/3d-printing/if-you-own-a-3d-printer-you-absolutely-need-to-try-hi3d">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/SXUNdwDjVqpYgFhDksUbn5-1024-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/SXUNdwDjVqpYgFhDksUbn5-1024-80.png"/></item>
-<item><title>野心的なゲーマーがファンレスの Subway メニュー PC をゲーム機に変える - パッシブ Intel Core i3 ユニットは GTA V でわずか 15 fps、Minecraft で 25 fps を管理します</title><link>https://www.tomshardware.com/video-games/pc-gaming/ambitious-gamer-turns-three-old-subway-menu-signage-pcs-to-gaming-puny-intel-core-i3-machines-can-only-muster-15-fps-running-gta-5-25-fps-on-minecraft</link><guid isPermaLink="true">https://www.tomshardware.com/video-games/pc-gaming/ambitious-gamer-turns-three-old-subway-menu-signage-pcs-to-gaming-puny-intel-core-i3-machines-can-only-muster-15-fps-running-gta-5-25-fps-on-minecraft</guid><pubDate>Fri, 31 Jul 2026 10:20:00 +0000</pubDate><description><![CDATA[<p>野心的なゲーマーがファンレスの Subway メニュー PC をゲーム機に変える - パッシブ Intel Core i3 ユニットは GTA V でわずか 15 fps、Minecraft で 25 fps を管理します
-
-地下鉄
-
-野心的なゲーマーがファンレスの Subway メニュー PC をゲーム機に変える - パッシブ Intel Core i3 ユニットは GTA V でわずか 15 fps、Minecraft で 25 fps を管理します
-
-Subway の「作りたいものを作りましょう」というスローガンは、この例ではサンドイッチの世界から PC の世界まで完全に広がっているわけではありません。
-
-(画像クレジット: Getty / Gerardo Mora) リンクをコピーする
-
-0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 勇敢な TechTuber が、Subway サンドイッチ チェーンの 3 台のパッシブ ミニ PC をテストして、ゲームを楽しむために再利用できるかどうかを確認しました。最近のビデオで Garkus 氏は、10 年間サービング カウンターの上にサンドイッチ メニューを表示していましたが、スクラップ/埋め立て地から救出された 3 台の Intel Skylake 搭載ミニ PC が、対応する LG デジタル サイネージ TV セットと並んでいることを示しています。ネタバレ: 搭載されている RAM を 2 倍にしても、2026 年の主流の AAA ゲームには貧弱すぎます。
-
-Watch On デジタル サイネージからゲームへの変換に着手する前に、Garkus は手持ちのハードウェアを調査しました。ラベルには、3 台のスリム ミニ PC がすべて Advantech DS-081 モデルであることが示されていました (公式 PDF リンク)。そのデータシートをじっくり検討すると、Intel Core i3 6100U を搭載したバージョンには、いわば DS-081G…</p><p><img src="https://cdn.mos.cms.futurecdn.net/nEWLLAdx3CpGwuGSNGeRic-2000-80.jpg" alt="野心的なゲーマーがファンレスの Subway メニュー PC をゲーム機に変える - パッシブ Intel Core i3 ユニットは GTA V でわずか 15 fps、Minecraft で 25 fps を管理します"></p>]]></description><source url="https://www.tomshardware.com/video-games/pc-gaming/ambitious-gamer-turns-three-old-subway-menu-signage-pcs-to-gaming-puny-intel-core-i3-machines-can-only-muster-15-fps-running-gta-5-25-fps-on-minecraft">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/nEWLLAdx3CpGwuGSNGeRic-2000-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/nEWLLAdx3CpGwuGSNGeRic-2000-80.jpg"/></item>
 <item><title>(PR) ASUS、PCケース「Prime AP304」を発表</title><link>https://www.techpowerup.com/351256/asus-announces-prime-ap304-pc-case</link><guid isPermaLink="true">https://www.techpowerup.com/351256/asus-announces-prime-ap304-pc-case</guid><pubDate>Fri, 31 Jul 2026 10:07:04 +0000</pubDate><description><![CDATA[<p>(PR) ASUS、PCケース「Prime AP304」を発表
 
 ASUSは本日、システムコンポーネントをスタイリッシュに見せるように設計された多用途パノラマATXケース、ASUS Prime AP304を発表しました。グラフィックス カードに最適な冷却を提供する 3 面通気構造を備えた特許取得済みのスロット ベント、強化されたクランプとブラケット、および統合された...
@@ -6171,148 +6335,4 @@ ArduinoCore-zephyr バージョン 0.90.0 のリリースを発表できるこ�
 拡張されたボードとハードウェアのサポート
 
 ようこそ、Nano RP2040 Connect! Arduino ® Nano ™ RP2040 Connect ボードが正式にラインナップに加わりました。標準の Arduino API 互換性を備えた RP2040 ハードウェア上で、Zephyr の RTOS 機能を…</p><p><img src="https://blog.arduino.cc/wp-content/uploads/2026/07/Arduino.cc-Blogpost-Featured385x289-1.jpg" alt="Zephyr 0.90.0 の Arduino Core は正式に安定し、ベータ版を終了"></p>]]></description><source url="https://blog.arduino.cc/2026/07/29/arduino-core-on-zephyr-0-90-0-is-officially-stable-and-leaving-beta/">Arduino Blog</source><media:content url="https://blog.arduino.cc/wp-content/uploads/2026/07/Arduino.cc-Blogpost-Featured385x289-1.jpg" medium="image"/><media:thumbnail url="https://blog.arduino.cc/wp-content/uploads/2026/07/Arduino.cc-Blogpost-Featured385x289-1.jpg"/></item>
-<item><title>This Haptic Wearable Delivers Hazard Warnings You Can’t Ignore</title><link>https://www.hackster.io/news/this-haptic-wearable-delivers-hazard-warnings-you-can-t-ignore-e1c79888bba2</link><guid isPermaLink="true">https://www.hackster.io/news/this-haptic-wearable-delivers-hazard-warnings-you-can-t-ignore-e1c79888bba2</guid><pubDate>Wed, 29 Jul 2026 14:13:04 +0000</pubDate><description><![CDATA[<p>This Haptic Wearable Delivers Hazard Warnings You Can’t Ignore</p>]]></description><source url="https://www.hackster.io/news/this-haptic-wearable-delivers-hazard-warnings-you-can-t-ignore-e1c79888bba2">Hackster.io</source></item>
-<item><title>Epic Games、ストアの全面見直しのためにBattle.netの元責任者を雇用</title><link>https://www.kitguru.net/gaming/matthew-wilson/epic-games-hires-former-battle-net-lead-to-overhaul-its-store/</link><guid isPermaLink="true">https://www.kitguru.net/gaming/matthew-wilson/epic-games-hires-former-battle-net-lead-to-overhaul-its-store/</guid><pubDate>Wed, 29 Jul 2026 14:00:42 +0000</pubDate><description><![CDATA[<p>Epic Games、ストアの全面見直しのためにBattle.netの元責任者を雇用
-
-Epic Games Store は多額の資金を注ぎ込んでいるにもかかわらず、PC ゲーマーの心を掴むことができず、その多くは依然として Steam を好みます。 Blizzard の Battle.net プラットフォームには同じ問題は一度もなかったので、Epic Games ストアを改善するための新たな取り組みの一環として、Epic Games が元 Battle.net の責任者を雇用したことは重要だと感じています。
-
-Epic Games、ストアの全面見直しのためにBattle.netの元責任者を雇用
-
-Matthew Wilson 9 時間前 注目のテクノロジー ニュース , ソフトウェア &amp; ゲーム
-
-Epic Games Store は多額の資金を注ぎ込んでいるにもかかわらず、PC ゲーマーの心を掴むことができず、その多くは依然として Steam を好みます。 Blizzard の Battle.net プラットフォームには同じ問題は一度もなかったので、Epic Games ストアを改善するための新たな取り組みの一環として、Epic Games が元 Battle.net の責任者を雇用したことは重要だと感じています。 GamesRadar によって最初に発見された Martin Keely は、この夏初めに退社した Steve Allison の後任として、Epic Games ストアの新しい副社長兼ゼネラルマネージャーとして Epic に加わりました。 Keely 氏は Blizzard で 7 年間勤務し、Battle.net を率いました。このランチャーは、規模では決して Steam に匹敵するものではありませんでしたが、World of Warcraft、Diablo、Overwatch などのタイトルで PC プレイヤーの間で高い評判を維持していました。この動きを発表した LinkedIn の投稿の中で、キーリー氏は「プレーヤー、クリエイター、開発者のエクス…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2019/03/Epic_Games_Store-2-732x330.png" alt="Epic Games、ストアの全面見直しのためにBattle.netの元責任者を雇用"></p>]]></description><source url="https://www.kitguru.net/gaming/matthew-wilson/epic-games-hires-former-battle-net-lead-to-overhaul-its-store/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2019/03/Epic_Games_Store-2-732x330.png" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2019/03/Epic_Games_Store-2-732x330.png"/></item>
-<item><title>Thingino が安価な IP カメラに新しいトリックを教える</title><link>https://hackaday.com/2026/07/29/thingino-teaches-cheap-ip-cameras-new-tricks/</link><guid isPermaLink="true">https://hackaday.com/2026/07/29/thingino-teaches-cheap-ip-cameras-new-tricks/</guid><pubDate>Wed, 29 Jul 2026 14:00:15 +0000</pubDate><description><![CDATA[<p>Thingino が安価な IP カメラに新しいトリックを教える
-
-私は最近、Prusa 3D プリンターを監視するためにいくつかの IP カメラを探していましたが、市場にあるオプションがまったく理想的ではないことがすぐにわかりました。 Prusa は提供しています…
-
-私は最近、Prusa 3D プリンターを監視するためにいくつかの IP カメラを探していましたが、市場にあるオプションがまったく理想的ではないことがすぐにわかりました。 Prusa は公式カメラを提供していますが、2 台の価格は私がプロジェクトに費やしたい金額より少し高かったです。逆に、オンラインで入手できるネットワーク接続の安価なカメラには事欠きませんが、それらには別の種類の費用がかかります。つまり、私が望んでいなかった、または必要のなかった独自のソフトウェアやクラウド サービスです。
-
-この特定のウサギの穴の深くて暗いくぼみのどこかで、コミュニティが開発した Thingino ファームウェアを実行するカメラを Prusa のリモート プリンター監視スキームにどのように接続できるかについて言及した Reddit の投稿を見つけました。それは私が以前に聞いたプロジェクトではありませんでした。そして案の定、Hackaday のバックカタログを検索したところ、これまでに出会ったことがないことがわかりました。
-
-私の興味はすでに高まっていましたが、サポートされているカメラをすでに所有していることがわかり、契約が決まりました。私の絶対にお気に入りのプロジェクト カテゴリの 1 つである、安価な消費者向けデバイスをその部品の総和以上のものに変えるオープンソースの代替ファームウェアの新しいエントリを検討する時が来ました。
-
-Thingino は、Ingenic システム オン チップ (SoC) をベースにした Linux ベースのカメラ用ファームウェアであり、この記事の執筆時点で 166 台のカメラをサポートしています。互換性リストには興味深いエントリがいくつかありますが、おそらく最も注目すべきは Wyze の十…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/07/thingino_feat.png" alt="Thingino が安価な IP カメラに新しいトリックを教える"></p>]]></description><source url="https://hackaday.com/2026/07/29/thingino-teaches-cheap-ip-cameras-new-tricks/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/07/thingino_feat.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/07/thingino_feat.png"/></item>
-<item><title>GPU 修理サービスは、RTX 2080 Ti の 11 GB の VRAM を 22 GB にアップグレードします。この改造には、新しい BIOS をサポートするために PCB 上のストラップ抵抗を物理的に調整することが含まれます</title><link>https://www.tomshardware.com/pc-components/gpus/gpu-repair-service-will-upgrade-the-11gb-of-vram-on-your-rtx-2080-ti-to-22gb-mod-involves-physically-adjusting-the-strap-resistors-on-the-pcb-to-support-a-new-bios</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/gpus/gpu-repair-service-will-upgrade-the-11gb-of-vram-on-your-rtx-2080-ti-to-22gb-mod-involves-physically-adjusting-the-strap-resistors-on-the-pcb-to-support-a-new-bios</guid><pubDate>Wed, 29 Jul 2026 14:00:12 +0000</pubDate><description><![CDATA[<p>GPU 修理サービスは、RTX 2080 Ti の 11 GB の VRAM を 22 GB にアップグレードします。この改造には、新しい BIOS をサポートするために PCB 上のストラップ抵抗を物理的に調整することが含まれます
-
-プラグアンドプレイの便利な高度な MOD。
-
-GPU 修理サービスは、RTX 2080 Ti の 11 GB の VRAM を 22 GB にアップグレードします。この改造には、新しい BIOS をサポートするために PCB 上のストラップ抵抗を物理的に調整することが含まれます
-
-プラグアンドプレイの便利な高度な MOD。
-
-(画像クレジット: Nvidia) リンクをコピー
-
-2 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する Nvidia のコンシューマ GPU の VRAM 量の制限により、モッディング コミュニティは問題を自らの手で解決することを余儀なくされました。私たちはさまざまな DIY メモリ アップグレードが実行されているのを何度も見てきました。また、それがアンダーグラウンド マーケットで適切な修理サービスとして提供されていることもありますが、それが公然と行われることはほとんどありません。そのため、RTX 2080 Ti の 11GB の VRAM を 22GB にアップグレードし、BIOS を事前に提供してくれるベンダーを発見しました。怪しい裏取引は必要ありません。
-
-The Stout Owl: 究極の Noctua G2 PC
-
-ショップの名前は GPU Solutions (とてもクリエイティブですね) で、拠点は UAE ですが、世界中の顧客にサービスを提供しているとのことです。 Web サイトでは、RTX 2080 Ti と RTX 3070 の両方で「グラフィックス カード メモリ アップグレード」サービスを選択できますが、前者の方が詳細が記載されています。これらの人たちは YouTube チャンネルも持っており、以前に Asus Strix バ…</p><p><img src="https://cdn.mos.cms.futurecdn.net/MmqRv6C4cxpsk7GWCfvm88-1282-80.jpg" alt="GPU 修理サービスは、RTX 2080 Ti の 11 GB の VRAM を 22 GB にアップグレードします。この改造には、新しい BIOS をサポートするために PCB 上のストラップ抵抗を物理的に調整することが含まれます"></p>]]></description><source url="https://www.tomshardware.com/pc-components/gpus/gpu-repair-service-will-upgrade-the-11gb-of-vram-on-your-rtx-2080-ti-to-22gb-mod-involves-physically-adjusting-the-strap-resistors-on-the-pcb-to-support-a-new-bios">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/MmqRv6C4cxpsk7GWCfvm88-1282-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/MmqRv6C4cxpsk7GWCfvm88-1282-80.jpg"/></item>
-<item><title>GoogleはGoogleフォトの「Me Meme」機能をひっそりと廃止した</title><link>https://www.androidauthority.com/google-photos-me-meme-removed-3692355/</link><guid isPermaLink="true">https://www.androidauthority.com/google-photos-me-meme-removed-3692355/</guid><pubDate>Wed, 29 Jul 2026 13:27:34 +0000</pubDate><description><![CDATA[<p>GoogleはGoogleフォトの「Me Meme」機能をひっそりと廃止した
-
-Googleは、サポートページや当初の発表での言及も含め、「Me Meme」機能をGoogleフォトから完全に削除した。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-GoogleはGoogleフォトの「Me Meme」機能をひっそりと廃止した
-
-0 • Edgar Cervantes / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google は、最近開始された「Me Meme」機能を Google フォトから完全に削除しました。
-
-同社はまた、この機能を発表した投稿と「Me Meme」に関するすべての言及をサポートページから削除した。
-
-Googleには、アプリやサービスを導入直後にシャットダウンし、機能を停止してきた長く有名な歴史がある。機能しなくなったさまざまな Google サービスをリストすることに特化した Web サイトがいくつかあります。これらのリストにさらに別の機能、Me Meme を追加できるようになりました。
-
-あなたは Authority Insights の記事を読んでいます。 Authority Insights は、他では見られない Android Authority チームからの最新の独占レポート、アプリの分解、リーク、詳細な技術報道をすべて提供します。
-
-Googleは今年初めにGoogleフォトの機能としてMe Memeを導入し、ユーザーが生成AIを使って自分の写真をすぐにミームに変えることができるようにした。ただし、同社は現在、この機能の痕跡をすべて削除しています。
-
-この機能を発表した元のサポート ページは削除されました。 Google のサポート ページの「作品」リストも確認しましたが、そこにも Me Meme は記載されていません。ページのアーカイブ版によると、Me Meme …</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2023/04/Gogole-photos-logo-on-smartphone-next-to-other-devices-and-picture-frame-Stock-photo-6.jpg" alt="GoogleはGoogleフォトの「Me Meme」機能をひっそりと廃止した"></p>]]></description><source url="https://www.androidauthority.com/google-photos-me-meme-removed-3692355/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2023/04/Gogole-photos-logo-on-smartphone-next-to-other-devices-and-picture-frame-Stock-photo-6.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2023/04/Gogole-photos-logo-on-smartphone-next-to-other-devices-and-picture-frame-Stock-photo-6.jpg"/></item>
-<item><title>Galaxy S26 FEの申請により、S26やZ Flip 8よりも速い充電速度が明らかになりました</title><link>https://www.androidauthority.com/samsung-galaxy-s26-fe-charging-speed-leak-3692384/</link><guid isPermaLink="true">https://www.androidauthority.com/samsung-galaxy-s26-fe-charging-speed-leak-3692384/</guid><pubDate>Wed, 29 Jul 2026 13:19:15 +0000</pubDate><description><![CDATA[<p>Galaxy S26 FEの申請により、S26やZ Flip 8よりも速い充電速度が明らかになりました
-
-Samsungは今後数週間または数か月以内にGalaxy S26 FEを発売すると予想されており、規制リストで充電情報が明らかになりました。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Galaxy S26 FEの申請により、S26やZ Flip 8よりも速い充電速度が明らかになりました
-
-0 • Hadlee Simons / Android Authority Samsung Galaxy S25 FE Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Samsung Galaxy S26 FE が認証データベースに登場し、充電情報が明らかになりました。
-
-サムスンの次期携帯電話は 45W の有線充電速度でリストされており、これは Galaxy S25 FE に匹敵します。
-
-サムスンは今後数週間または数か月以内にGalaxy S26 FEを発売すると予想されており、すでにいくつかのリークが確認されています。ただし、規制当局への提出書類によって重要な情報の断片が明らかになっただけかもしれません。
-
-91mobiles は、UL Demko 認証データベースに Samsung Galaxy S26 FE が登録されているのを発見しました (モデル番号 SM-S741)。私たちはリストを追跡し、詳細を確認することができました。以下のスクリーンショットをご覧ください。
-
-UL Demko このリストでは、Galaxy S26 FE が 45W の有線充電 (15V/3A または 10V/4.5A) を備えていることが確認されています。これは、数年間の25W充電を経て、FEラインで45Wの速度をデビューさせたGalaxy S25 FEに匹敵します。実際のところ、Galaxy S25 FE をフル充電するには約 1 時間かかることがわかりまし…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2025/09/Samsung-Galaxy-S25-FE-against-wall-showing-back.jpg" alt="Galaxy S26 FEの申請により、S26やZ Flip 8よりも速い充電速度が明らかになりました"></p>]]></description><source url="https://www.androidauthority.com/samsung-galaxy-s26-fe-charging-speed-leak-3692384/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2025/09/Samsung-Galaxy-S25-FE-against-wall-showing-back.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2025/09/Samsung-Galaxy-S25-FE-against-wall-showing-back.jpg"/></item>
-<item><title>Brain-Inspired Chip Cures AI’s Memory Problem</title><link>https://www.hackster.io/news/brain-inspired-chip-cures-ai-s-memory-problem-aba4c58aa8b1</link><guid isPermaLink="true">https://www.hackster.io/news/brain-inspired-chip-cures-ai-s-memory-problem-aba4c58aa8b1</guid><pubDate>Wed, 29 Jul 2026 13:17:48 +0000</pubDate><description><![CDATA[<p>Brain-Inspired Chip Cures AI’s Memory Problem</p>]]></description><source url="https://www.hackster.io/news/brain-inspired-chip-cures-ai-s-memory-problem-aba4c58aa8b1">Hackster.io</source></item>
-<item><title>バッテリーと AC 電源でラップトップをテストする — Intel、Qualcomm、Apple、AMD の比較</title><link>https://www.tomshardware.com/laptops/testing-laptops-on-battery-life-and-ac-power-comparing-intel-qualcomm-apple-and-amd</link><guid isPermaLink="true">https://www.tomshardware.com/laptops/testing-laptops-on-battery-life-and-ac-power-comparing-intel-qualcomm-apple-and-amd</guid><pubDate>Wed, 29 Jul 2026 13:07:18 +0000</pubDate><description><![CDATA[<p>バッテリーと AC 電源でラップトップをテストする — Intel、Qualcomm、Apple、AMD の比較
-
-プラグとバッテリーで同じパフォーマンスが得られますか?時々！
-
-バッテリーと AC 電源でラップトップをテストする — Intel、Qualcomm、Apple、AMD の比較
-
-プラグとバッテリーで同じパフォーマンスが得られますか?時々！
-
-(画像クレジット: Tom&#39;s Hardware) リンクをコピー
-
-2 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する ラップトップを使用するときは、電源に接続していても抜いていても、常に同じように動作すると考えるかもしれません。結局のところ、これらのシステムは外出先で使用するように設計されています。しかし長い間、そうではありませんでした。
-
-最近では、一部のシリコン ベンダーは、プラグに接続した場合と接続していない場合のパフォーマンスがほぼ同等になり、デスクで作業している場合でも、他の場所で作業している場合でも、同様のパワーを提供できると自慢しています。この現状を確認するために、Intel、AMD、Qualcomm、Apple の各主要 CPU メーカーから最新のラップトップのサンプルを採取し、いくつかのテストを実行してそれらがどのように比較されるかを確認しました。
-
-Windows システムの場合は、これらのラップトップの大部分ですでにデフォルトとなっているバランス電源プロファイルを使用しましたが、MacBook Pro にはすぐに使用できる「自動」電源管理プロファイルが備わっています。
-
-可能な限り、Intel Core Ultra X9 388H、Qualcomm Snapdragon X2 Elite Extreme、Apple の M5 Max などのトップエンド プロセッサを採用しました。 AMD の場合、Ryzen AI 9 465 と Ryzen AI 7 445 という 2 つの Gorgon Point プロセッサーを搭載していま…</p><p><img src="https://cdn.mos.cms.futurecdn.net/wvZHxNcB8Q2ZAnt37sL6HA-1920-80.jpg" alt="バッテリーと AC 電源でラップトップをテストする — Intel、Qualcomm、Apple、AMD の比較"></p>]]></description><source url="https://www.tomshardware.com/laptops/testing-laptops-on-battery-life-and-ac-power-comparing-intel-qualcomm-apple-and-amd">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/wvZHxNcB8Q2ZAnt37sL6HA-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/wvZHxNcB8Q2ZAnt37sL6HA-1920-80.jpg"/></item>
-<item><title>AIデータセンターの会議で反対派を支持して拍手したとして教師を逮捕 ― ギガワット規模のプロジェクトはコミュニティの抵抗にもかかわらず承認される</title><link>https://www.tomshardware.com/tech-industry/data-centers/teacher-arrested-for-clapping-in-support-of-opposition-at-an-ai-data-center-meeting-gigawatt-scale-project-gets-approved-anyway-despite-community-resistance</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/data-centers/teacher-arrested-for-clapping-in-support-of-opposition-at-an-ai-data-center-meeting-gigawatt-scale-project-gets-approved-anyway-despite-community-resistance</guid><pubDate>Wed, 29 Jul 2026 13:06:16 +0000</pubDate><description><![CDATA[<p>AIデータセンターの会議で反対派を支持して拍手したとして教師を逮捕 ― ギガワット規模のプロジェクトはコミュニティの抵抗にもかかわらず承認される
-
-礼儀正しく拍手することは逮捕されるほどの妨害行為ですか?
-
-AIデータセンターの会議で反対派を支持して拍手したとして教師を逮捕 ― ギガワット規模のプロジェクトはコミュニティの抵抗にもかかわらず承認される
-
-礼儀正しく拍手することは逮捕されるほどの妨害行為ですか?
-
-(画像クレジット: ワシントン ポスト/ゲッティ イメージズ) リンクをコピー
-
-19 会話に参加してください フォローしてください Google ニュースレターの優先ソースとして追加してください ニュースレターを購読してください カンザス州エンポリアの警察は、地域内に計画されているデータセンターを収容するためのゾーニング変更案に反対する発言をした講師を称賛した教師を逮捕しました。 12 News によると、警察は37歳のラックス・クラリッジさんを地域集会から引きずり出し、治安紊乱行為と法執行機関への妨害の罪で起訴した。報道によると、委員らは誰かが話している間、拍手をしたり、他の反応をしないよう繰り返し警告していたという。
-
-フォトニクスと高速データ移動が AI の次の大きなボトルネックとなる
-
-データセンターの冷却の現状
-
-AI データセンターの大規模増設によりエネルギー供給が圧迫されている
-
-ウルトラ イーサネット: 明日のデータセンター相互接続
-
-インターネット上に出回っているビデオには、講演者が発言を終えた後、クラリッジ氏が5回拍手をしている様子が映っている。下のクリップでは、誰かが「彼に帰ってもらって」と言い、続いて「してもいいですか？」と確認する第二の声が聞こえます。その声はその後警察官に尋ねた、「署長？次に拍手か何かをする人を外に出してもらえますか？ありがとうございます。」
-
-その後、警官はクラリッジに近づき、クラリッジは「私には話す権利がある」と言いました。それでも警察は執拗だったので、彼は「私を引きずり出してください」と言いました。その後、警察…</p><p><img src="https://cdn.mos.cms.futurecdn.net/cAkbprtpxDB6ChwJfP7Thg-1920-80.png" alt="AIデータセンターの会議で反対派を支持して拍手したとして教師を逮捕 ― ギガワット規模のプロジェクトはコミュニティの抵抗にもかかわらず承認される"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/data-centers/teacher-arrested-for-clapping-in-support-of-opposition-at-an-ai-data-center-meeting-gigawatt-scale-project-gets-approved-anyway-despite-community-resistance">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/cAkbprtpxDB6ChwJfP7Thg-1920-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/cAkbprtpxDB6ChwJfP7Thg-1920-80.png"/></item>
-<item><title>Xbox outage exposed how your physical Xbox game discs aren&#39;t completely safe</title><link>https://www.tweaktown.com/rss/click/news/112902/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112902/?c=news-mf</guid><pubDate>Wed, 29 Jul 2026 13:04:10 +0000</pubDate><description><![CDATA[<p>Xbox outage exposed how your physical Xbox game discs aren&#39;t completely safe</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112902/?c=news-mf">TweakTown</source></item>
-<item><title>Subnautica は、継続的な好調な売上のおかげで、クラフトンにとって重要なフランチャイズになりました</title><link>https://www.kitguru.net/gaming/matthew-wilson/subnautica-is-now-a-key-franchise-for-krafton-thanks-to-continued-strong-sales/</link><guid isPermaLink="true">https://www.kitguru.net/gaming/matthew-wilson/subnautica-is-now-a-key-franchise-for-krafton-thanks-to-continued-strong-sales/</guid><pubDate>Wed, 29 Jul 2026 13:00:54 +0000</pubDate><description><![CDATA[<p>Subnautica は、継続的な好調な売上のおかげで、クラフトンにとって重要なフランチャイズになりました
-
-『Subnautica 2』は発売期間が非常に好調で、発売元のクラフトンは、このゲームが発売からわずか数週間で販売本数 500 万本を超えたことを認めています。このゲームの初期の成功は、クラフトンの第 2 四半期決算で記録的な記録を達成するのに役立ちました。クラフト社は現在、この IP にさらに投資し、Subnautica を主要なフランチャイズの 1 つとして位置づけることを計画しています。
-
-Subnautica は、継続的な好調な売上のおかげで、クラフトンにとって重要なフランチャイズになりました
-
-Matthew Wilson 11 時間前 注目の技術ニュース , ソフトウェア &amp; ゲーム
-
-『Subnautica 2』は発売期間が非常に好調で、発売元のクラフトンは、このゲームが発売からわずか数週間で販売本数 500 万本を超えたことを認めています。このゲームの初期の成功は、クラフトンの第 2 四半期決算で記録的な記録を達成するのに役立ちました。クラフト社は現在、この IP にさらに投資し、Subnautica を主要なフランチャイズの 1 つとして位置づけることを計画しています。 Eurogamer が最初に報じたところによると、クラフトン氏は 2026 年第 2 四半期の収益報告書の中で、Subnautica 2 が市場に出てからわずか数週間で 500 万本の販売マイルストーンに達したことを明らかにしました。それに加えて、会計年度上半期には、オリジナル ゲームとその拡張版である Below Zero を含む Subnautica シリーズは約 1 億 2,000 万ポンドの収益を生み出しました。今年の『Subnautica』全体の成功を受けて、クラフトン氏は現在、シリーズを「フランチャイズIP」にするためにさらなる投資を計画していると述べており、将来的にはさらなる拡張や続編が期待できるという。ただし、現時点ではゲームはまだ早期アクセス段階にあるため、S…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/03/subnautica-2-732x330.jpg" alt="Subnautica は、継続的な好調な売上のおかげで、クラフトンにとって重要なフランチャイズになりました"></p>]]></description><source url="https://www.kitguru.net/gaming/matthew-wilson/subnautica-is-now-a-key-franchise-for-krafton-thanks-to-continued-strong-sales/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/03/subnautica-2-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/03/subnautica-2-732x330.jpg"/></item>
-<item><title>MSI Cubi NUC AI+ 3MG レビュー: 控えめなミニ PC の Panther Lake</title><link>https://www.tomshardware.com/desktops/mini-pcs/msi-cubi-nuc-ai-3mg-review</link><guid isPermaLink="true">https://www.tomshardware.com/desktops/mini-pcs/msi-cubi-nuc-ai-3mg-review</guid><pubDate>Wed, 29 Jul 2026 13:00:00 +0000</pubDate><description><![CDATA[<p>MSI Cubi NUC AI+ 3MG レビュー: 控えめなミニ PC の Panther Lake
-
-この小さなヒョウは咆哮することができるでしょうか？
-
-MSI の Cubi NUC AI+3MG は、簡単にアップグレード可能な RAM とストレージを備えた、静かでコンパクトなコンピューティング エクスペリエンスを提供します。ただし、2,000 ドルという価格は非常に高価であり、iGPU ではオフィスでの仕事と並行してゲームを行うことはできません。
-
-+ 低消費電力、強力なパフォーマンス
-
-- 指紋リーダーが不安定です
-
-Tom&#39;s Hardware を信頼できる理由 当社の専門レビュー担当者は、お客様が最適なものを選択できるよう、何時間もかけて製品とサービスをテストおよび比較します。テスト方法について詳しくは、こちらをご覧ください。
-
-Intel のコードネーム「Panther Lake」Core Ultra シリーズ 3 モバイル プロセッサはラップトップ用に設計されましたが、現在ではミニ PC にも徐々に導入され始めています。これには、最近発売された MSI Cubi NUC AI+ 3MG (​​価格は 569 ドルから、テスト済みでは 1,999 ドル) が含まれます。この特別なデザインは、伝統的な NUC のやり方で心地よくコンパクトで控えめですが、このマットブラックパンサーは咆哮することができるでしょうか?
-
-MSI Cubi NUC AI+ 3MG の設計
-
-(画像クレジット: Tom&#39;s Hardware) (画像クレジット: Tom&#39;s Hardware) (画像クレジット: Tom&#39;s Hardware) (画像クレジット: Tom&#39;s Hardware) 画像 1/4 オリジナル表示
-
-簡単に言えば、MSI Cubi NUC AI+ 3MG は、Intel Core Ultra 9 386H チップを内蔵した、約 4.5 x 4.5 x 1.5 インチの非常にコンパクトなデザインです。
-
-Core Ultra 9 386H は、最大 4.9…</p><p><img src="https://cdn.mos.cms.futurecdn.net/VvNgk5sjRbFka2P7GWWTdJ-2560-80.jpg" alt="MSI Cubi NUC AI+ 3MG レビュー: 控えめなミニ PC の Panther Lake"></p>]]></description><source url="https://www.tomshardware.com/desktops/mini-pcs/msi-cubi-nuc-ai-3mg-review">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/VvNgk5sjRbFka2P7GWWTdJ-2560-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/VvNgk5sjRbFka2P7GWWTdJ-2560-80.jpg"/></item>
 </channel></rss>
