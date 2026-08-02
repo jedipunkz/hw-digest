@@ -1,6 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sun, 02 Aug 2026 03:51:44 +0000</lastBuildDate>
+<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sun, 02 Aug 2026 06:44:48 +0000</lastBuildDate>
+<item><title>ベキベキに折れ曲がったGeForce RTX 5060 Tiが復活。見た目とは裏腹に基板は軽症？！</title><link>https://www.nichepcgamer.com/archives/post-131389.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/post-131389.html</guid><pubDate>Sun, 02 Aug 2026 05:22:49 +0000</pubDate><description><![CDATA[<p>ベキベキに折れ曲がったGeForce RTX 5060 Tiが復活。見た目とは裏腹に基板は軽症？！
+
+ある修理業者のもとにベキベキに折れ曲がったGeForce RTX 5060 Tiが届きました。その写真がこちら。 折れ曲がったGeForce RTX 5060 Ti グラボは完全に「くの字」に折れ曲...
+
+ある修理業者のもとにベキベキに折れ曲がったGeForce RTX 5060 Tiが届きました。 その写真がこちら。
+
+グラボは完全に「くの字」に折れ曲がっており、どうあがいても絶望な破損っぷりを見せています。
+
+いったいなぜこんなことになったかというと、車のトランクに入れていたところ、後ろから追突されてその衝撃で折れ曲がったとか。その見た目から相当な衝撃があったものと思われますが、不幸中の幸いにも運転手(修理依頼人)は無事だそうです。
+
+そしてこのグラボですが、一見すると修理不可能な壊れ方に見えますが、なんと修理できました。
+
+見た目は大きいグラボですが、基板は非常に短い設計となっています。
+
+派手に折れ曲がっているのはGPUクーラーだけで、基板は軽く曲がっている程度でした。
+
+そのままPCに取り付けて動作テストしてみたところ、普通に映像が映り、Windows11も起動しました。ただ、操作の途中で画面が真っ黒になってしまいました。
+
+一箇所、基板上のGDDR7メモリチップが怪しかったため、一度取り外して再びはんだ付けしたところ、今度は画面が真っ黒になることもなく、ゲームが動作し、3DMarkも完走し、見事に正常動作するようになりました。
+
+見た目はひどい破損ですが、基板自体は一部のGDDR7メモリチップが接触不良を起こしていただけの軽症だったため、リボールしただけで直りました。
+
+なお、GPUクーラーに関しては修理不可能なため、別途フリマ等で入手するよう修理業者は依頼人に案内しました。
+
+筆者は自作PC歴20年以上の経験を持ち、Windows OSの細部にわたるカスタマイズや高度な設定、PCゲームの最適化、PCハードウェアとソフトウェアに関する専門知識をもとに、PC…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2026/08/5060ti-a-top.jpg" alt="ベキベキに折れ曲がったGeForce RTX 5060 Tiが復活。見た目とは裏腹に基板は軽症？！"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-131389.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2026/08/5060ti-a-top.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2026/08/5060ti-a-top.jpg"/></item>
+<item><title>GMKtec EVO-X1 Pro発売：Ryzen AI 9 HX 470+64GBメモリーで25万円台から</title><link>https://komameblog.jp/news/news202608002-evox1pro/</link><guid isPermaLink="true">https://komameblog.jp/news/news202608002-evox1pro/</guid><pubDate>Sun, 02 Aug 2026 04:58:02 +0000</pubDate><description><![CDATA[<p>GMKtec EVO-X1 Pro発売：Ryzen AI 9 HX 470+64GBメモリーで25万円台から
+
+中国のミニPCメーカーであるGMKtecは、2026年7月下旬にミニPCの新モデル『EVO-X1 Pro』を発売しました。Ryzen AI 9 HX 470 / LPDDR5-6400 64GBメモリー搭載で、価格は25万1999円から（記...
+
+中国のミニPCメーカーであるGMKtecは、2026年7月下旬にミニPCの新モデル『EVO-X1 Pro』を発売しました。Ryzen AI 9 HX 470 / LPDDR5-6400 64GBメモリー搭載で、価格は25万1999円から（記事執筆時）。増設非対応のLPDDR5が使われているとは言え、64GB搭載で25万円ちょっとは、ミニPCとしてはだいぶ安く感じます。ほかの主要メーカーだと、30万円近くまでいくかもしれません。
+
+個人的に気になるのは、筐体サイズです。幅107×奥行き111×高さ63mmは『GMKtec M8』（Ryzen 5 PRO 6650H）と同じ大きさ。M8は手元にあるのですが、これ筐体サイズとしてはかなり小さいんですよね。そこに12コアのRyzen AI 9 HX 470が入ってるわけですから、熱対策としてパフォーマンスが引き下げられていたり、空冷ファンの音が大きく聞こえたりという状況はあり得ると思います。
+
+とは言え、前世代のRyzen AI 9 HX 370を搭載した前モデル『EVO-X1』は十分な性能が出ていたようで、パフォーマンスに対する不安は杞憂かもしれません。ファンの音の大きさは海外の大手レビューサイトで指摘されていたので改善されている可能性もありますが、そのままの継続している可能性もあります。
+
+前モデルと新モデルのCPU比較（PassMarkによる結果）
+
+64GBメモリー搭載機としては十分安いのですが、ミニPCで64GBメモリーが必要かという疑問も残ります。ローカルLLMならメモリー帯域に優れるRyzen AI Max+ 395搭載機のほうが有利ですし、動画編集やゲームで…</p><p><img src="https://komameblog.jp/wp-content/uploads/2026/08/News202608002-EVOX1Pro.jpg" alt="GMKtec EVO-X1 Pro発売：Ryzen AI 9 HX 470+64GBメモリーで25万円台から"></p>]]></description><source url="https://komameblog.jp/news/news202608002-evox1pro/">こまめブログ</source><media:content url="https://komameblog.jp/wp-content/uploads/2026/08/News202608002-EVOX1Pro.jpg" medium="image"/><media:thumbnail url="https://komameblog.jp/wp-content/uploads/2026/08/News202608002-EVOX1Pro.jpg"/></item>
 <item><title>第10世代Core i5や8GBメモリ搭載の「ProBook 450 G7」が27,500円、Qualitの中古Cランク品セール</title><link>https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2129706.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2129706.html</guid><pubDate>Sun, 02 Aug 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>第10世代Core i5や8GBメモリ搭載の「ProBook 450 G7」が27,500円、Qualitの中古Cランク品セール
 
 Core i5-10210U(4コア/8スレッド)を搭載したHP製15.6型ノートPC「ProBook 450 G7」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で特価販売中。
@@ -2520,33 +2558,6 @@ Agasoundの全ての製品は、自社内にある音響研究所『XYLAB』に�
 通常モデルのSublimationをベースに、ウッドハウジングに合わせより広い音場、極めて高いボーカル再現性、「サ‧シ‧ス‧セ‧ソ」などの「s」の音に含まれる5,000～8,000Hz付近の耳障りなシビランス(歯擦音)の低減などの変更が加えられています。
 
 高音域は豊かな空気感と明瞭さ、中音域は適度な厚みと臨場感、低音域は…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/07/Agasound-Sublimation-Splendid-Edition-_-Sublimation-Colorful-Wood.webp" alt="【7/31発売】Agasoundから熟練の職人が一つ一つを完全手作業で研磨したイヤホンSublimation Splendid Edition / Sublimation Colorful Woodが登場！"></p>]]></description><source url="https://e-earphone.blog/?p=1550895">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/07/Agasound-Sublimation-Splendid-Edition-_-Sublimation-Colorful-Wood.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/07/Agasound-Sublimation-Splendid-Edition-_-Sublimation-Colorful-Wood.webp"/></item>
-<item><title>AMDの新エントリーGPU「Radeon RX 9050」が登場、価格は54,800円から</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2128983.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2128983.html</guid><pubDate>Fri, 31 Jul 2026 02:00:00 +0000</pubDate><description><![CDATA[<p>AMDの新エントリーGPU「Radeon RX 9050」が登場、価格は54,800円から
-
-AMDのメインストリーム向けゲーミングGPU「Radeon RX 9050」を搭載したビデオカードが各社から登場。
-
-AMDの新エントリーGPU「Radeon RX 9050」が登場、価格は54,800円から
-
-AMDのメインストリーム向けゲーミングGPU「Radeon RX 9050」を搭載したビデオカードが各社から登場。
-
-7月31日（金）時点で入荷を確認したのは、ASUS、ASRock、GIGABYTEの各モデル。価格は54,800～54,980円。
-
-Radeon RX 9060シリーズの下位モデル、GDDR6メモリ8GB搭載
-
-Radeon RX 9050は、RDNA 4アーキテクチャを採用した新GPU。
-
-2025年に登場した「Radeon RX 9060 XT」や「Radeon RX 9060」（主に組み込み向け）の下位に位置するモデルで、「eスポーツタイトルや最新のAAAタイトルにおいて、1080pで快適かつ応答性の高いゲームプレイを実現するよう設計されている」（AMD）という。
-
-演算ユニット数は16で、レイアクセラレータ16基、AIアクセラレータ32基を備える。総トランジスタ数は297億。
-
-リファレンス仕様は、ブーストクロックが2,600MHzで、18Gbps動作のGDDR6メモリ8GB（128bit）を備える。補助電源は8ピン×1。
-
-映像インターフェイスはDisplayPort 2.1a、HDMI 2.1b。
-
-7月30日（木）時点で秋葉原のPCパーツショップでは、上位のRadeon RX 9060 XTを搭載した一部モデルが同等の価格でセール中のため、現状はRadeon RX 9050を積極的に選択する理由は無いが、仮にセール品が無くなった場合は、新たなゲーム向けGPUとして注目を集める可能性がありそうだ。
-
-[取材協力: パソコン工房 秋葉原パーツ館 と パソコンショップ アーク と ツクモパソコン本店 と TSUKUMO eX. ]
-
-Radeo…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2128/983/s1_s.jpg" alt="AMDの新エントリーGPU「Radeon RX 9050」が登場、価格は54,800円から"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2128983.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2128/983/s1_s.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2128/983/s1_s.jpg"/></item>
 <item><title>【7/31発売】Softearsから独自の11mm高性能ダイナミック搭載のイヤホン EDGE が登場！</title><link>https://e-earphone.blog/?p=1550898</link><guid isPermaLink="true">https://e-earphone.blog/?p=1550898</guid><pubDate>Fri, 31 Jul 2026 02:00:00 +0000</pubDate><description><![CDATA[<p>【7/31発売】Softearsから独自の11mm高性能ダイナミック搭載のイヤホン EDGE が登場！
 
 大胆な幾何学的造形と高い機能性を融合させたチタン製イヤホン。豊かな音響基盤を構築こんにちは！e☆イヤホンのPRスタッフです！今回はSoftearsからの新製品のご紹介です。 Softears EDGE▼
@@ -2578,6 +2589,33 @@ EDGEは、CNC加工されたチタン合金から生み出された、幾何学�
 EDGEのシェルは、無数の耳型データを分析し、人間工学に基づいて設計されました。
 
 チタンの質感を活かしたデザインでありながら、耳に装着した際に…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/07/Softears-EDGE.webp" alt="【7/31発売】Softearsから独自の11mm高性能ダイナミック搭載のイヤホン EDGE が登場！"></p>]]></description><source url="https://e-earphone.blog/?p=1550898">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/07/Softears-EDGE.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/07/Softears-EDGE.webp"/></item>
+<item><title>AMDの新エントリーGPU「Radeon RX 9050」が登場、価格は54,800円から</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2128983.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2128983.html</guid><pubDate>Fri, 31 Jul 2026 02:00:00 +0000</pubDate><description><![CDATA[<p>AMDの新エントリーGPU「Radeon RX 9050」が登場、価格は54,800円から
+
+AMDのメインストリーム向けゲーミングGPU「Radeon RX 9050」を搭載したビデオカードが各社から登場。
+
+AMDの新エントリーGPU「Radeon RX 9050」が登場、価格は54,800円から
+
+AMDのメインストリーム向けゲーミングGPU「Radeon RX 9050」を搭載したビデオカードが各社から登場。
+
+7月31日（金）時点で入荷を確認したのは、ASUS、ASRock、GIGABYTEの各モデル。価格は54,800～54,980円。
+
+Radeon RX 9060シリーズの下位モデル、GDDR6メモリ8GB搭載
+
+Radeon RX 9050は、RDNA 4アーキテクチャを採用した新GPU。
+
+2025年に登場した「Radeon RX 9060 XT」や「Radeon RX 9060」（主に組み込み向け）の下位に位置するモデルで、「eスポーツタイトルや最新のAAAタイトルにおいて、1080pで快適かつ応答性の高いゲームプレイを実現するよう設計されている」（AMD）という。
+
+演算ユニット数は16で、レイアクセラレータ16基、AIアクセラレータ32基を備える。総トランジスタ数は297億。
+
+リファレンス仕様は、ブーストクロックが2,600MHzで、18Gbps動作のGDDR6メモリ8GB（128bit）を備える。補助電源は8ピン×1。
+
+映像インターフェイスはDisplayPort 2.1a、HDMI 2.1b。
+
+7月30日（木）時点で秋葉原のPCパーツショップでは、上位のRadeon RX 9060 XTを搭載した一部モデルが同等の価格でセール中のため、現状はRadeon RX 9050を積極的に選択する理由は無いが、仮にセール品が無くなった場合は、新たなゲーム向けGPUとして注目を集める可能性がありそうだ。
+
+[取材協力: パソコン工房 秋葉原パーツ館 と パソコンショップ アーク と ツクモパソコン本店 と TSUKUMO eX. ]
+
+Radeo…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2128/983/s1_s.jpg" alt="AMDの新エントリーGPU「Radeon RX 9050」が登場、価格は54,800円から"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2128983.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2128/983/s1_s.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2128/983/s1_s.jpg"/></item>
 <item><title>【本日みつけたお買い得品】HPのOffice付きノートが約4万円引きでオトク！</title><link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2129469.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/todays_sales/2129469.html</guid><pubDate>Fri, 31 Jul 2026 01:55:12 +0000</pubDate><description><![CDATA[<p>【本日みつけたお買い得品】HPのOffice付きノートが約4万円引きでオトク！
 
 Amazonにおいて、HPのOffice搭載15.6型ノートPC「15-fd」(BJ0M5PA-AAAI)が、直近価格から4万1,669円引きとなる13万9,800円で販売されている。なお、Officeなしモデルについても13万6,480円で販売されている。
@@ -9230,48 +9268,4 @@ Core i3-10110U(2コア/4スレッド)を搭載した15.6型ノートPC「dynaboo
 Core i3-10110U(2コア/4スレッド)を搭載した15.6型ノートPC「dynabook BJ65/FS」の中古品が、 パソコン工房の通販サイト で販売中。販売されているのは3か月保証が付いた中古品で、価格は39,980円となっています。
 
 主な仕様は、ディスプレイ解像度が1,366×768ドット、メモリが16GB、ストレージが256GB SSD、OSがWindows 11 Home。このほか、Webカメラや無線LAN機能、DVD-ROMドライブなどを搭載しています。興味がある方はチェックしてみてください。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2127/844/a1.jpg" alt="第10世代Core+16GBメモリ搭載の「dynabook BJ65/FS」が39,980円、パソコン工房で中古品が販売中"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2127844.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2127/844/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2127/844/a1.jpg"/></item>
-<item><title>iOS版が存在しないSparrow Walletの偽物で約180万ドルが消え、Appleが提訴される</title><link>https://gori.me/apps/iphone-app-news/168459</link><guid isPermaLink="true">https://gori.me/apps/iphone-app-news/168459</guid><pubDate>Sun, 26 Jul 2026 21:55:33 +0000</pubDate><description><![CDATA[<p>iOS版が存在しないSparrow Walletの偽物で約180万ドルが消え、Appleが提訴される
-
-Sparrow WalletはWindows、macOS、Linux専用でiOS版が存在しない。それでもApp Storeには偽物が並び、3人の利用者が計約180万ドルのビットコインを失ってAppleを提訴した。開発者が注意喚起用アプリを出したところ、逆にアカウント停止を通告された経緯もある。
-
-iOS版が存在しないSparrow Walletの偽物で約180万ドルが消え、Appleが提訴される
-
-本物はデスクトップ専用。開発者の注意喚起アプリは逆に「不正」判定されていた
-
-App Storeに並んでいた「Sparrow Wallet」はすべて偽物で、本物はWindows、macOS、Linux専用のデスクトップアプリだった
-
-3人は2025年5月から8月にかけて、それぞれ約87万5,000ドル、約84万ドル、約12万ドル相当のビットコインを奪われた
-
-開発者のCraig Raw氏は2024年1月時点で「報告しても偽アプリが消えない」と公に指摘し、先月には注意喚起用アプリが「不正な行為」と判定されていた
-
-App Storeで配信されていた偽のビットコイン用ウォレットアプリによって、合計約180万ドルの資産を失った として、3人の利用者がAppleを提訴した。訴状は7月24日、カリフォルニア州の連邦地方裁判所に提出されている。
-
-MacRumors が報じた。原告側は、Appleがアプリの審査や監視を十分に行わず、カリフォルニア州の消費者法などに違反したと主張している。
-
-争点になっているのは、 AppleがApp Storeを「アプリを安心して見つけてダウンロードできる場所」として長年宣伝してきたこと だ。原告は、その言葉を信じたからこそ 偽アプリを本物だと思い込んだ 、と訴えている。
-
-問題のアプリは「Sparrow Wallet」を名乗るものだった。本物のSparrow Walletはビットコイン界隈で評価の高いソフトだが、対応しているのはWindows、mac…</p><p><img src="https://gori.me/uploads/2026/07/ubeyonroad-oLZ2htMNhbA-unsplash-800x534.jpg" alt="iOS版が存在しないSparrow Walletの偽物で約180万ドルが消え、Appleが提訴される"></p>]]></description><source url="https://gori.me/apps/iphone-app-news/168459">gori.me</source><media:content url="https://gori.me/uploads/2026/07/ubeyonroad-oLZ2htMNhbA-unsplash-800x534.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/07/ubeyonroad-oLZ2htMNhbA-unsplash-800x534.jpg"/></item>
-<item><title>防水iPad mini、年内登場の噂。長風呂民に最高の1台になりそう</title><link>https://gori.me/ipad/ipadmini/168443</link><guid isPermaLink="true">https://gori.me/ipad/ipadmini/168443</guid><pubDate>Sun, 26 Jul 2026 21:35:02 +0000</pubDate><description><![CDATA[<p>防水iPad mini、年内登場の噂。長風呂民に最高の1台になりそう
-
-iPadを買っては使いこなせずに終わる僕でも、これは欲しい。年内に出るとみられる新型iPad miniが歴代iPad初の防水設計になる可能性が浮上した。湯船で気兼ねなく動画を見られる8.4インチは、長風呂派にとって初めて明確な購入理由になるかもしれない。
-
-防水iPad mini、年内登場の噂。長風呂民に最高の1台になりそう
-
-8.4インチ有機EL、A19 Pro級のチップ、スピーカー穴なしの密閉設計が濃厚
-
-次期iPad miniは防水設計になる可能性があり、浴室やプールサイドでの利用が現実的になりそうだ
-
-画面は8.4インチの有機ELとされ、コントラストと省電力の面で現行モデルから体感できる進化になりそうだ
-
-秋には約7.8インチの折りたたみiPhoneも噂されており、用途がぶつかる可能性がある
-
-Appleが年内に発売するとみられる 新型 iPad mini は、 歴代 iPad で初めて防水に対応する可能性 がある。
-
-Bloombergの Mark Gurman 記者は昨年、 iPhone並みの耐水設計を準備している と伝えていた。浴室やプールサイドのような濡れた場所でも気兼ねなく使える、というのがそのイメージだ。
-
-現行の iPad には防水等級（IP等級）がひとつも付いていない。つまりAppleは今のところ「 iPad は濡らしても大丈夫な製品」とは考えていない、ということになる。
-
-防水を実現する鍵は、スピーカーだという。Appleは本体を振動させて音を出す仕組みを採用し、従来のスピーカー穴そのものをなくす設計にしたと報じられている。
-
-平らな面を震わせて音を鳴らす、つまり本体の一部がスピーカーの振動板になるイメージだ。水やホコリが入り込む一番の入口を、最初から作らないという発想である。…</p><p><img src="https://gori.me/uploads/2026/04/What-will-iphone-fold-or-ultra-chanage-06-800x534.jpg" alt="防水iPad mini、年内登場の噂。長風呂民に最高の1台になりそう"></p>]]></description><source url="https://gori.me/ipad/ipadmini/168443">gori.me</source><media:content url="https://gori.me/uploads/2026/04/What-will-iphone-fold-or-ultra-chanage-06-800x534.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/04/What-will-iphone-fold-or-ultra-chanage-06-800x534.jpg"/></item>
 </channel></rss>
