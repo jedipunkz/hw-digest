@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sun, 02 Aug 2026 17:14:25 +0000</lastBuildDate>
+<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sun, 02 Aug 2026 18:11:56 +0000</lastBuildDate>
+<item><title>顔認証や指紋認証でサインインできない不具合。KB5101684インストール後、一部PCで発生</title><link>https://www.nichepcgamer.com/archives/kb5101684-windows-hello-issue.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/kb5101684-windows-hello-issue.html</guid><pubDate>Sun, 02 Aug 2026 16:37:42 +0000</pubDate><description><![CDATA[<p>顔認証や指紋認証でサインインできない不具合。KB5101684インストール後、一部PCで発生
+
+KB5101684をインストールした一部のWindows11 PC環境において、顔認証や指紋認証が使用できなくなったとの不具合報告が出ています。 不具合概要 日本時間で2026年7月29日にWind...
+
+KB5101684をインストールした一部のWindows11 PC環境において、 顔認証や指紋認証が使用できなくなったとの不具合報告が出ています。
+
+日本時間で2026年7月29日にWindows Updateに配信されたWindows11 25H2およびWindows11 24H2用プレビューリリース(プレビュー更新プログラム)、KB5101684をインストールした一部のPC環境において、Windows Helloの顔認証や指紋認証が使用できなくなったとの不具合報告が出ています。
+
+KB5101684をインストール後、顔認証や指紋認証がリセットされてしまい、『設定』 → 『アカウント』 → 『サインイン オプション』から再設定しても顔認証・指紋認証でサインインができないと報告されています。
+
+Windows11へのサインインだけでなく、Microsoft EdgeなどのブラウザでWebサイトへのログインにパスキーを使用する際も顔認証・指紋認証が機能しません。
+
+なお、この不具合はあくまでも一部のPC環境で発生しているものであり、すべての環境で発生するものではありません。また、不具合が発生する詳細な原因は判明していません。
+
+本不具合が発生した場合、一時的な対処方法・回避策として、KB5101684をアンインストールすることで再び顔認証・指紋認証が使用できるようになったと報告されています。
+
+本不具合にお困りの方はKB5101684のアンインストールをお試しください。アンインストール手順は以下。
+
+1.) 『スタートボタン』 → 『設定』 → 『Windows Update』 → 『更新の履歴』 → 一番下にある『更新プログラムをアンインストールする』を選択してください。…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2025/07/windows11-issue-dark-1200.jpg" alt="顔認証や指紋認証でサインインできない不具合。KB5101684インストール後、一部PCで発生"></p>]]></description><source url="https://www.nichepcgamer.com/archives/kb5101684-windows-hello-issue.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2025/07/windows11-issue-dark-1200.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2025/07/windows11-issue-dark-1200.jpg"/></item>
 <item><title>カメラ内蔵AirPodsは複数モデルを開発か〜最新の進捗と発売時期</title><link>https://iphone-mania.jp/airpods-604127/</link><guid isPermaLink="true">https://iphone-mania.jp/airpods-604127/</guid><pubDate>Sun, 02 Aug 2026 15:52:27 +0000</pubDate><description><![CDATA[<p>カメラ内蔵AirPodsは複数モデルを開発か〜最新の進捗と発売時期
 
 Appleが開発中と噂のカメラ内蔵AirPodsについて、最新の開発状況がBloombergのマーク・ガーマン記者により報告されました。カメラ内蔵AirPodsは年内に発表されるとの期待もあり、登場時期が注目を集めています。
@@ -24,6 +43,27 @@ Appleが開発中と噂の カメラ内蔵AirPods について、最新の開発
 リーク情報を発信しているKosutami氏（@Kosutami_Ito）が「開発が中止された」と指摘した製品も、B798を指していたのかもしれません。
 
 こうした点についてガーマン記者は、…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/08/03/apple-ai-products-AH.jpeg" alt="カメラ内蔵AirPodsは複数モデルを開発か〜最新の進捗と発売時期"></p>]]></description><source url="https://iphone-mania.jp/airpods-604127/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/08/03/apple-ai-products-AH.jpeg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/08/03/apple-ai-products-AH.jpeg"/></item>
+<item><title>2026年7月のWindowsシェア率公開。Windows11が伸び悩む</title><link>https://www.nichepcgamer.com/archives/post-131409.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/post-131409.html</guid><pubDate>Sun, 02 Aug 2026 15:37:12 +0000</pubDate><description><![CDATA[<p>2026年7月のWindowsシェア率公開。Windows11が伸び悩む
+
+2026年7月のWindowsシェア率が公開されました。StatCounterによる調査結果が以下。 StatCounter 2026年7月 Windowsシェア率 2026年7月のワールドワイドで...
+
+2026年7月のWindowsシェア率が公開されました。 StatCounterによる調査結果が以下。
+
+StatCounter 2026年7月 Windowsシェア率
+
+2026年7月のワールドワイドでのデスクトップPC Windowsシェア率は、Windows11が68.88％でシェア1位、Windows10が29.88％でシェア2位。
+
+Windows11は先月比で-1.01％シェアを落とし、Windows10は先月比で+1.72％シェアを伸ばしました。ここ数か月、Windows11もWindows10も大きく上下せず横ばいな感じですが、言い換えるならWindows11が伸び悩んでいるとも言えます。 まだまだ多くのPCがWindows10に留まっています。
+
+そのほかのシェア率は、Windows7が1.01％、Windows8.1が0.1％、Windows XPが0.09％、Windows8が0.02％となっています。
+
+なお、この調査結果はあくまでもStatCounterによる独自調査であることはご留意ください。
+
+Steam 2026年7月 Windowsシェア率 (Windowsのみ対象)
+
+Windows11が+0.15％シェアを伸ばして75.01％、Windows10は-0.16％シェアを落として24.88％となっています。SteamでもWindows11はほとんど伸びていません。
+
+筆者は自作PC歴20年以上の経験を持ち、Windows OSの細部にわたるカスタマイズや高度な設定、PCゲームの最適化、PCハードウェアとソフトウェアに関する専門知識をもとに、PC環境を快適にするための情報、不具合に遭わないようにするための情報、そして、ちょっとニッチよりなPCユーザー向け記事の…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2026/08/windows-share-top-big202607a.jpg" alt="2026年7月のWindowsシェア率公開。Windows11が伸び悩む"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-131409.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2026/08/windows-share-top-big202607a.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2026/08/windows-share-top-big202607a.jpg"/></item>
 <item><title>iPhone18 Proが税込212,800円〜Ultraは税込299,800円？</title><link>https://iphone-mania.jp/iphone18-604121/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-604121/</guid><pubDate>Sun, 02 Aug 2026 15:05:58 +0000</pubDate><description><![CDATA[<p>iPhone18 Proが税込212,800円〜Ultraは税込299,800円？
 
 Appleが2026年秋に発表する見通しのiPhone18 Proシリーズについて、Bloombergのマーク・ガーマン記者が値上げ額の予想を伝えています。
@@ -85,6 +125,31 @@ Acerは、 260Hzゲーミングモニター『VG240YW5bmiipx』を発売しま�
 『VG240YW5bmiipx』のメーカー希望小売価格は税込19,980円。 Amazonにて販売中 です。
 
 筆者は自作PC歴20年以上の経験を持ち、Windows OSの細部にわたるカスタマイズや高度な設定、PCゲームの最適化、PCハードウェアとソフトウェアに関する専門知識をもとに、PC環境を快適にするための情報、不具合に遭わないようにするため…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2026/08/acer-monitop.jpg" alt="2万円切り！Acerから260HzゲーミングモニターVG240YW5bmiipx"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-131383.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2026/08/acer-monitop.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2026/08/acer-monitop.jpg"/></item>
+<item><title>Kindle本まとめ買いキャンペーン開催中！最大15％ポイント還元</title><link>https://www.nichepcgamer.com/archives/kindle-buy-in-bulk-sale-2026-8a.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/kindle-buy-in-bulk-sale-2026-8a.html</guid><pubDate>Sun, 02 Aug 2026 15:02:06 +0000</pubDate><description><![CDATA[<p>Kindle本まとめ買いキャンペーン開催中！最大15％ポイント還元
+
+Amazonにて、『Kindle本 真夏の涼読まとめ買いキャンペーン』が行われています。Kindle本をまとめて買うと、最大15％の期間限定ポイント(付与された翌月末まで有効)がもらえるお得なキャン...
+
+Amazonにて、『 Kindle本 真夏の涼読まとめ買いキャンペーン 』が行われています。Kindle本をまとめて買うと、 最大15％の期間限定ポイント(付与された翌月末まで有効)がもらえるお得なキャンペーンとなっています。 ポイント還元率は以下。
+
+このキャンペーンが適用されるのは1回だけですが、キャンペーンは5週間にわたって行われ、すべて参加すれば 最大5回 適用されます。
+
+第一週：2026年07月31日(金)00:00～2026年08月06日(木)23:59
+
+第二週：2026年08月07日(金)00:00～2026年08月13日(木)23:59
+
+第三週：2026年08月14日(金)00:00～2026年08月20日(木)23:59
+
+第四週：2026年08月21日(金)00:00～2026年08月27日(木)23:59
+
+第五週：2026年08月28日(金)00:00～2026年09月03日(木)23:59
+
+キャンペーンページでKindle本を検索して『まとめ買いに追加』でカートに追加して、注文を行うことでポイントが付与されます。キャンペーンページへは以下のリンクよりどうぞ。
+
+Amazon.co.jp Kindle本 真夏の涼読まとめ買いキャンペーン
+
+筆者は自作PC歴20年以上の経験を持ち、Windows OSの細部にわたるカスタマイズや高度な設定、PCゲームの最適化、PCハードウェアとソフトウェアに関する専門知識をもとに、PC環境を快適にするための情報、不具合に遭わないようにするための情報、そして、ちょっとニッチよりなPCユーザー向け記事の執筆を2015年4月から11年にわたって行っています。
+
+長年の経験により得たノウハウを活かし、初心者から上級者まで幅広く対応できる情報を…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2026/07/kindle-matome-2026-8a.png" alt="Kindle本まとめ買いキャンペーン開催中！最大15％ポイント還元"></p>]]></description><source url="https://www.nichepcgamer.com/archives/kindle-buy-in-bulk-sale-2026-8a.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2026/07/kindle-matome-2026-8a.png" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2026/07/kindle-matome-2026-8a.png"/></item>
 <item><title>【プロダクトレビュー・ショーケース】希少なサイズ感が目を引く「PNY GeForce RTX 5070 Ti 16GB OC SLIM」。準ハイエンドでも2スロット厚で長さ30cm切り！スリムボディでもパフォーマンスと冷却は万全 text by 内田 泰仁</title><link>https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2129282.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2129282.html</guid><pubDate>Sun, 02 Aug 2026 15:00:00 +0000</pubDate><description><![CDATA[<p>【プロダクトレビュー・ショーケース】希少なサイズ感が目を引く「PNY GeForce RTX 5070 Ti 16GB OC SLIM」。準ハイエンドでも2スロット厚で長さ30cm切り！スリムボディでもパフォーマンスと冷却は万全 text by 内田 泰仁
 
 2025年2月にGeForce RTX 5070 Tiが発売されてからまもなく1年半。そろそろ次の展開が聞こえてきてもよい頃合いだが、今のところ自作PC界隈で聞かれるGPUまわりの話は、次期/次世代の話題よりも下がらない価格や今なお不安のある流通状況のほうが多いようだ。
@@ -8777,6 +8842,25 @@ GEOMETRIC FUTURE、30mm厚フレーム採用のARGBファン「Squama 3003-12」
 ライティング機能では、ファン外周にARGBエッジライトを両面へ配置。ケースの内外どちらから見ても均一なライティングを楽しめるほか、主要マザーボードメーカーのARGBライティングソフトウェアとの同期にも対応する。さらに、高精度2相4極モーターや流体動圧軸受（FDB）、シリコン製防振パッドを採用し、高い耐久性と静音性を実現した。
 
 ラインナップは、通常ブレード仕様の「Sq…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/07/27/Squama_3003-12_001.jpg" alt="GEOMETRIC FUTURE、30mm厚フレーム採用のARGBファン「Squama 3003-12」"></p>]]></description><source url="https://www.gdm.or.jp/pressrelease/2026/0727/645638">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/07/27/Squama_3003-12_001.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/07/27/Squama_3003-12_001.jpg"/></item>
+<item><title>360度覗き見を防止できるMacBook用プライバシーフィルターが店頭入荷、マグネット着脱式</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2127847.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2127847.html</guid><pubDate>Mon, 27 Jul 2026 06:05:00 +0000</pubDate><description><![CDATA[<p>360度覗き見を防止できるMacBook用プライバシーフィルターが店頭入荷、マグネット着脱式
+
+マグネット式で簡単に着脱できるMacBook用プライバシーフィルターが、秋葉館に入荷。
+
+360度覗き見を防止できるMacBook用プライバシーフィルターが店頭入荷、マグネット着脱式
+
+マグネット式で簡単に着脱できるMacBook用プライバシーフィルターが、 秋葉館 に入荷。
+
+ラインアップはMacBook Pro 14インチ用の「MBP14-Mag360」、MacBook Air 13.6インチ用の「MBA13M2-Mag360」、MacBook Pro 13インチ 2016～2022/Air 13インチ2018～2020用の「MBA13-Mag360」で計3モデルが用意されている。価格は5,480円。
+
+これらは正面以外からは画面が真っ黒に見えるプライバシーフィルター。
+
+上下左右すべての角度から覗き見を防ぐことができるほか、反射を抑えたマット（非光沢）仕様により、蛍光灯や日差しの映り込みを軽減するという。
+
+フィルターの固定は上部がマグネット、下部は滑り止めで押さえる仕組み。滑り止め部分は軽く水洗いすることで吸着力が復活する。
+
+なお、「装着したまま画面を閉じると本体破損や隙間の原因になるため、画面を閉じる際は必ずフィルターを取り外す必要がある」（ 秋葉館 ）とのこと。
+
+プライバシーフィルター関連製品 Amazonで購入 楽天で購入</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2127/847/a1.jpg" alt="360度覗き見を防止できるMacBook用プライバシーフィルターが店頭入荷、マグネット着脱式"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2127847.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2127/847/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2127/847/a1.jpg"/></item>
 <item><title>KBDfansの人気キーボードケースに新モデル「Tofu60 Redux V2」が登場</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2126962.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2126962.html</guid><pubDate>Mon, 27 Jul 2026 06:05:00 +0000</pubDate><description><![CDATA[<p>KBDfansの人気キーボードケースに新モデル「Tofu60 Redux V2」が登場
 
 KBDfansの人気シリーズ「TOFU」の60%キーボードケース「Tofu60 Redux V2」が、遊舎工房に入荷。
@@ -8798,25 +8882,6 @@ Tofu60 Redux V2は、60%キーボード用のケースキット。
 なお、RAW（未塗装・未陽極酸化）フィニッシュについては、切削痕などを活かした仕様で、微細な擦り傷などは保証対象外としている。
 
 サイズは294.8×112.26×32.82mm、重量は740g。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2126/962/s1.jpg" alt="KBDfansの人気キーボードケースに新モデル「Tofu60 Redux V2」が登場"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2126962.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2126/962/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2126/962/s1.jpg"/></item>
-<item><title>360度覗き見を防止できるMacBook用プライバシーフィルターが店頭入荷、マグネット着脱式</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2127847.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2127847.html</guid><pubDate>Mon, 27 Jul 2026 06:05:00 +0000</pubDate><description><![CDATA[<p>360度覗き見を防止できるMacBook用プライバシーフィルターが店頭入荷、マグネット着脱式
-
-マグネット式で簡単に着脱できるMacBook用プライバシーフィルターが、秋葉館に入荷。
-
-360度覗き見を防止できるMacBook用プライバシーフィルターが店頭入荷、マグネット着脱式
-
-マグネット式で簡単に着脱できるMacBook用プライバシーフィルターが、 秋葉館 に入荷。
-
-ラインアップはMacBook Pro 14インチ用の「MBP14-Mag360」、MacBook Air 13.6インチ用の「MBA13M2-Mag360」、MacBook Pro 13インチ 2016～2022/Air 13インチ2018～2020用の「MBA13-Mag360」で計3モデルが用意されている。価格は5,480円。
-
-これらは正面以外からは画面が真っ黒に見えるプライバシーフィルター。
-
-上下左右すべての角度から覗き見を防ぐことができるほか、反射を抑えたマット（非光沢）仕様により、蛍光灯や日差しの映り込みを軽減するという。
-
-フィルターの固定は上部がマグネット、下部は滑り止めで押さえる仕組み。滑り止め部分は軽く水洗いすることで吸着力が復活する。
-
-なお、「装着したまま画面を閉じると本体破損や隙間の原因になるため、画面を閉じる際は必ずフィルターを取り外す必要がある」（ 秋葉館 ）とのこと。
-
-プライバシーフィルター関連製品 Amazonで購入 楽天で購入</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2127/847/a1.jpg" alt="360度覗き見を防止できるMacBook用プライバシーフィルターが店頭入荷、マグネット着脱式"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2127847.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2127/847/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2127/847/a1.jpg"/></item>
 <item><title>MSI、Ryzen AI Max+ 395と128GBメモリで4Lサイズの小型AI PC「PRO MAX EDGE AI+」</title><link>https://www.gdm.or.jp/pressrelease/2026/0727/645633</link><guid isPermaLink="true">https://www.gdm.or.jp/pressrelease/2026/0727/645633</guid><pubDate>Mon, 27 Jul 2026 06:01:13 +0000</pubDate><description><![CDATA[<p>MSI、Ryzen AI Max+ 395と128GBメモリで4Lサイズの小型AI PC「PRO MAX EDGE AI+」
 
 MSI（Micro-Star Int’l Co.,Ltd./本社：台湾）は2026年7月24日、Ryzen AI Max+ 395を搭載する小型AIデスクトップPC「PRO MAX EDGE AI+」を発表した。
@@ -9253,53 +9318,4 @@ Grok 4.6は2週間後、4.7は4週間後に登場か。イーロン・マスク�
 現時点での最新版となる「Grok 4.5」は、Fable 5やOpus 4.8、GPT-5.5といった競合モデルに匹敵する性能を持ちつつ、高速かつトークン効率に優れるとされるAIモデルで、7月8日に一般公開された。なお、今回マスク氏はGrok 4.6や4.7の投入時期のみを予告しており、性能などの詳細については明らかにしていない。
 
 Grok 4.6 in 2 weeks and Grok 4.7 in 4 weeks</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2128/021/01.jpg" alt="Grok 4.6は2週間後、4.7は4週間後に登場か。イーロン・マスク氏が予告"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2128021.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2128/021/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2128/021/01.jpg"/></item>
-<item><title>【本日みつけたお買い得品】LGの5K対応27型Mini LEDモニターが3万7,351円オフ</title><link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2128031.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/todays_sales/2128031.html</guid><pubDate>Mon, 27 Jul 2026 02:09:59 +0000</pubDate><description><![CDATA[<p>【本日みつけたお買い得品】LGの5K対応27型Mini LEDモニターが3万7,351円オフ
-
-Amazonにおいて、LGの5Kゲーミングモニター「27GM950B-B」が、タイムセールにて3万7,351円引きとなる15万9,800円で購入できる。
-
-LGの5K対応27型Mini LEDモニターが3万7,351円オフ
-
-Amazonにおいて、LGの5Kゲーミングモニター「27GM950B-B」が、タイムセールにて3万7,351円引きとなる15万9,800円で購入できる。
-
-27GM950B-Bは、27型IPS液晶のゲーミングモニターだ。LGが次世代ディスプレイ技術と呼ぶHyper Mini LEDバックライトの採用により、高次元な明暗表現を実現したとする。VESA Dual Modeに対応しており、5K(5,120×2,880ドット、165Hz)とWQHD(2,560×1,440ドット、330Hz)の切り換えができる。そのほか、応答速度が1ms(中間色)、輝度が750cd/平方m(ピーク時1,250cd/平方m)、コントラスト比が1,000:1。
-
-映像端子として、HDMI 2基、DisplayPort 2.1、USB Type-C(映像入力および最大90WのUSB PDに対応)を装備。また、USB Type-C使用時はUSB 3.2 Gen 1 2基のハブ機能も利用できる。DisplayHDR 1000、VESA Adaptive-Sync、FreeSync Premium、G-SYNC Compatibleに対応する。
-
-INNOCNの「GA27V1M」は、直近価格から3万2,210円引きの6万3,980円で購入可能だ。
-
-GA27V1Mは、27型IPS液晶のゲーミングモニターだ。2,304ゾーンのMini LEDバックライトを採用している。また、デュアルモードに対応しており、4K(3,840×2,160ドット、160Hz)とフルHD(1,920×1,080ドット、320Hz)の切り換えができる。映像端子はHDMI 2.1 2基、DisplayPort 1.4 2基…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2128/031/01.jpg" alt="【本日みつけたお買い得品】LGの5K対応27型Mini LEDモニターが3万7,351円オフ"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/todays_sales/2128031.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2128/031/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2128/031/01.jpg"/></item>
-<item><title>あの最強コーディングAI「Kimi K3」が手元で動く！今夜ウェイト公開へ</title><link>https://pc.watch.impress.co.jp/docs/news/2128001.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2128001.html</guid><pubDate>Mon, 27 Jul 2026 02:01:37 +0000</pubDate><description><![CDATA[<p>あの最強コーディングAI「Kimi K3」が手元で動く！今夜ウェイト公開へ
-
-Moonshot AIの高性能AIモデル「Kimi K3」のオープンウェイト公開まであと14時間を切った。公式のHugging Faceのページでカウントダウンが開始している。総パラメータ数2.8兆、最大100万トークンのコンテキストと画像/動画の入力に対応。同社によると、世界初のオープンな3兆パラメータ級モデルになるという。
-
-あの最強コーディングAI「Kimi K3」が手元で動く！今夜ウェイト公開へ
-
-Moonshot AIの高性能AIモデル「Kimi K3」のオープンウェイト公開まであと14時間を切った。公式のHugging Faceのページでカウントダウンが開始している。総パラメータ数2.8兆、最大100万トークンのコンテキストと画像/動画の入力に対応。同社によると、世界初のオープンな3兆パラメータ級モデルになるという。
-
-Kimi K3は、総合性能ではClaude Fable 5とGPT-5.6 Solには及ばないが、それ以外のテスト対象モデルを一貫して上回るフロンティア級の性能を持つとされる。特にコーディングの「ProgramBench」、およびソフトウェアエンジニアリングの「SWE-Marathon」においてClaude Fable 5とGPT-5.6 Solを凌駕するスコアを叩き出している。
-
-モデルは7月17日に公開され、kimi.com、デスクトップアプリ「Kimi Work」、コーディングエージェント「Kimi Code」、Kimi APIなどから利用できた。ウェイトが公開されることで、(ハードルはかなり高いが)利用環境さえ整えれば手元で実行できるようになる。
-
-Kimi K3の高性能を支えるのが新アーキテクチャの「Kimi Delta Attention(KDA)」と「Attention Residuals」。MoE(Mixture-of-Experts)のスパース性を高めて896のエキスパートのうち実効的に16をアクティブ化している。また、視覚とコーディングの融合も特…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2128/001/1.jpg" alt="あの最強コーディングAI「Kimi K3」が手元で動く！今夜ウェイト公開へ"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2128001.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2128/001/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2128/001/1.jpg"/></item>
-<item><title>ASRock、QD-OLED採用の27型WQHDゲーミングディスプレイ「PGO27QSA」シリーズ</title><link>https://www.gdm.or.jp/pressrelease/2026/0727/645579</link><guid isPermaLink="true">https://www.gdm.or.jp/pressrelease/2026/0727/645579</guid><pubDate>Mon, 27 Jul 2026 01:45:51 +0000</pubDate><description><![CDATA[<p>ASRock、QD-OLED採用の27型WQHDゲーミングディスプレイ「PGO27QSA」シリーズ
-
-ASRock Inc.（本社：台湾）は2026年7月24日（現地時間）、QD-OLEDパネルを採用する27型WQHDゲーミングディスプレイ「PGO27QSA」シリーズを発表した。カラーはブラックとホワイトの2色がラインナップする。
-
-ASRock、QD-OLED採用の27型WQHDゲーミングディスプレイ「PGO27QSA」シリーズ
-
-240Hz/0.03ms駆動とAMD FreeSync Premiumに対応
-
-ASRock Inc.（本社：台湾）は2026年7月24日（現地時間）、QD-OLEDパネルを採用する27型WQHDゲーミングディスプレイ 「PGO27QSA」シリーズ を発表した。カラーはブラックとホワイトの2色がラインナップする。
-
-「Phantom Gaming」シリーズに属する製品で、リフレッシュレート240Hz、応答速度0.03ms（GTG）の高速駆動に対応。さらにティアリングやスタッタリングを解消するディスプレイ同期技術はAMD FreeSync Premiumをサポートする。
-
-主なスペックは輝度200nit（SDR標準） / 400nit（HDRピーク時）、色域はDCI-P3 99％、表示色10億7,000万色、コントラスト比1,500,000:1、色精度はデルタE 2未満、視野角は水平/垂直178°。インターフェイスはHDMI 2.1×2、DisplayPort 1.4×2、ヘッドホン出力×1を備える。
-
-スタンドは-5～20°チルト、-45～45°スイベル、-90～90°ピボット、0～130mm高さ調整に対応。VESAマウントは100×100mm、外形寸法は幅611mm、奥行き239mm、高さ582mm、重量5.0kg。
-
-文： 編集部 池西 樹 ASRock Inc.： https://www.asrock.com/
-
-(今週のコレオシ) 値下げ＆キャンペーンで狙い目のASRock製AIO水冷
-
-(アキバ取材班) ANC＋ENC搭載で税込9…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/07/27/PGO27QSA_02.jpg" alt="ASRock、QD-OLED採用の27型WQHDゲーミングディスプレイ「PGO27QSA」シリーズ"></p>]]></description><source url="https://www.gdm.or.jp/pressrelease/2026/0727/645579">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/07/27/PGO27QSA_02.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/07/27/PGO27QSA_02.jpg"/></item>
 </channel></rss>

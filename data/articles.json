@@ -1,6 +1,15 @@
 {
   "akiba": [
     {
+      "Title": "顔認証や指紋認証でサインインできない不具合。KB5101684インストール後、一部PCで発生",
+      "Link": "https://www.nichepcgamer.com/archives/kb5101684-windows-hello-issue.html",
+      "Published": "2026-08-02T16:37:42Z",
+      "Source": "ニッチなPCゲーマーの環境構築Z",
+      "Category": "WindowsUpdate-2026-07",
+      "Summary": "顔認証や指紋認証でサインインできない不具合。KB5101684インストール後、一部PCで発生\n\nKB5101684をインストールした一部のWindows11 PC環境において、顔認証や指紋認証が使用できなくなったとの不具合報告が出ています。 不具合概要 日本時間で2026年7月29日にWind...\n\nKB5101684をインストールした一部のWindows11 PC環境において、 顔認証や指紋認証が使用できなくなったとの不具合報告が出ています。\n\n日本時間で2026年7月29日にWindows Updateに配信されたWindows11 25H2およびWindows11 24H2用プレビューリリース(プレビュー更新プログラム)、KB5101684をインストールした一部のPC環境において、Windows Helloの顔認証や指紋認証が使用できなくなったとの不具合報告が出ています。\n\nKB5101684をインストール後、顔認証や指紋認証がリセットされてしまい、『設定』 → 『アカウント』 → 『サインイン オプション』から再設定しても顔認証・指紋認証でサインインができないと報告されています。\n\nWindows11へのサインインだけでなく、Microsoft EdgeなどのブラウザでWebサイトへのログインにパスキーを使用する際も顔認証・指紋認証が機能しません。\n\nなお、この不具合はあくまでも一部のPC環境で発生しているものであり、すべての環境で発生するものではありません。また、不具合が発生する詳細な原因は判明していません。\n\n本不具合が発生した場合、一時的な対処方法・回避策として、KB5101684をアンインストールすることで再び顔認証・指紋認証が使用できるようになったと報告されています。\n\n本不具合にお困りの方はKB5101684のアンインストールをお試しください。アンインストール手順は以下。\n\n1.) 『スタートボタン』 → 『設定』 → 『Windows Update』 → 『更新の履歴』 → 一番下にある『更新プログラムをアンインストールする』を選択してください。…",
+      "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2025/07/windows11-issue-dark-1200.jpg"
+    },
+    {
       "Title": "カメラ内蔵AirPodsは複数モデルを開発か〜最新の進捗と発売時期",
       "Link": "https://iphone-mania.jp/airpods-604127/",
       "Published": "2026-08-02T15:52:27Z",
@@ -8,6 +17,15 @@
       "Category": "カメラ",
       "Summary": "カメラ内蔵AirPodsは複数モデルを開発か〜最新の進捗と発売時期\n\nAppleが開発中と噂のカメラ内蔵AirPodsについて、最新の開発状況がBloombergのマーク・ガーマン記者により報告されました。カメラ内蔵AirPodsは年内に発表されるとの期待もあり、登場時期が注目を集めています。\n\nカメラ内蔵AirPodsは複数モデルを開発か〜最新の進捗と発売時期\n\nAppleが開発中と噂の カメラ内蔵AirPods について、最新の開発状況がBloombergのマーク・ガーマン記者により報告されました。 カメラ内蔵AirPods は年内に発表されるとの期待もあり、登場時期が注目を集めています。\n\nカメラ内蔵AirPodsと言っても撮影用カメラを内蔵しているわけではなく、種別は 赤外線カメラで、あくまでも周辺環境の認識のために活用 される見込みです。 カメラ内蔵AirPodsは現在、次の2種類が開発 されている模様です。\n\nこのうち、 B790についてiOS27ベータ版内にその存在を示唆する記述 があり、Appleの新製品発表計画では 2026年中に発売 する製品として扱われている とのことです。\n\nカメラ内蔵AirPodsは、搭載する赤外線カメラで装着者の周辺環境を認識し、その情報をApple Intelligenceの機能に活用する見通しです。\n\n特に、カメラで認識した物体や場所に関する情報を提供するVisual Intelligenceとの連携が想定されています。\n\nユーザーが見ている物体や周辺の状況を認識し、その内容をSiriなどが音声で案内する機能も考えられます。\n\nカメラ内蔵AirPodsについて最初に報じられた際、 製品のコードネームは「B798」 とされていました。その後、B790の存在が浮上したことから、何らかの理由でB798の開発計画が見直された可能性もあります。\n\nリーク情報を発信しているKosutami氏（@Kosutami_Ito）が「開発が中止された」と指摘した製品も、B798を指していたのかもしれません。\n\nこうした点についてガーマン記者は、…",
       "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/08/03/apple-ai-products-AH.jpeg"
+    },
+    {
+      "Title": "2026年7月のWindowsシェア率公開。Windows11が伸び悩む",
+      "Link": "https://www.nichepcgamer.com/archives/post-131409.html",
+      "Published": "2026-08-02T15:37:12Z",
+      "Source": "ニッチなPCゲーマーの環境構築Z",
+      "Category": "Windows",
+      "Summary": "2026年7月のWindowsシェア率公開。Windows11が伸び悩む\n\n2026年7月のWindowsシェア率が公開されました。StatCounterによる調査結果が以下。 StatCounter 2026年7月 Windowsシェア率 2026年7月のワールドワイドで...\n\n2026年7月のWindowsシェア率が公開されました。 StatCounterによる調査結果が以下。\n\nStatCounter 2026年7月 Windowsシェア率\n\n2026年7月のワールドワイドでのデスクトップPC Windowsシェア率は、Windows11が68.88％でシェア1位、Windows10が29.88％でシェア2位。\n\nWindows11は先月比で-1.01％シェアを落とし、Windows10は先月比で+1.72％シェアを伸ばしました。ここ数か月、Windows11もWindows10も大きく上下せず横ばいな感じですが、言い換えるならWindows11が伸び悩んでいるとも言えます。 まだまだ多くのPCがWindows10に留まっています。\n\nそのほかのシェア率は、Windows7が1.01％、Windows8.1が0.1％、Windows XPが0.09％、Windows8が0.02％となっています。\n\nなお、この調査結果はあくまでもStatCounterによる独自調査であることはご留意ください。\n\nSteam 2026年7月 Windowsシェア率 (Windowsのみ対象)\n\nWindows11が+0.15％シェアを伸ばして75.01％、Windows10は-0.16％シェアを落として24.88％となっています。SteamでもWindows11はほとんど伸びていません。\n\n筆者は自作PC歴20年以上の経験を持ち、Windows OSの細部にわたるカスタマイズや高度な設定、PCゲームの最適化、PCハードウェアとソフトウェアに関する専門知識をもとに、PC環境を快適にするための情報、不具合に遭わないようにするための情報、そして、ちょっとニッチよりなPCユーザー向け記事の…",
+      "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2026/08/windows-share-top-big202607a.jpg"
     },
     {
       "Title": "iPhone18 Proが税込212,800円〜Ultraは税込299,800円？",
@@ -35,6 +53,15 @@
       "Category": "液晶モニタ",
       "Summary": "2万円切り！Acerから260HzゲーミングモニターVG240YW5bmiipx\n\nAcerは、260Hzゲーミングモニター『VG240YW5bmiipx』を発売しました。 『VG240YW5bmiipx』は23.8インチFHD解像度(1920 x 1080)のゲーミングモニター。...\n\nAcerは、 260Hzゲーミングモニター『VG240YW5bmiipx』を発売しました。\n\n『VG240YW5bmiipx』は23.8インチFHD解像度(1920 x 1080)のゲーミングモニター。260Hzの高速リフレッシュレートと0.5ms (GtG)の高速応答速度により、一瞬の反応が求められる競技性の高いFPSや動きの速いアクションゲームなどでも快適なプレイが可能。\n\nまた、非光沢IPSパネルによる上下左右178°の広視野角により、見る位置や角度が変わっても鮮明な映像を表示。sRGB 99％の色再現性に対応し、ゲームの世界を自然で豊かな色彩で映し出します。\n\n『VG240YW5bmiipx』の主なスペックは、液晶パネルがIPSパネル、23.8インチ、解像度1920 x 1080 (FHD)、リフレッシュレート260Hz、応答速度:GtG 0.5ms、ノングレア仕様、フリッカーレス、ブルーシールド機能搭載、AMD FreeSync Premium対応、2W + 2Wステレオスピーカー内蔵。VESAマウント対応(100 x 100mm)。\n\nインターフェイスはDisplayPort 1.4 x1 (260Hz)、HDMI 2.1 x2 (240Hz)。DisplayPortケーブル(1.5m)、HDMIケーブル(1.5m)が付属。\n\n『VG240YW5bmiipx』のメーカー希望小売価格は税込19,980円。 Amazonにて販売中 です。\n\n筆者は自作PC歴20年以上の経験を持ち、Windows OSの細部にわたるカスタマイズや高度な設定、PCゲームの最適化、PCハードウェアとソフトウェアに関する専門知識をもとに、PC環境を快適にするための情報、不具合に遭わないようにするため…",
       "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2026/08/acer-monitop.jpg"
+    },
+    {
+      "Title": "Kindle本まとめ買いキャンペーン開催中！最大15％ポイント還元",
+      "Link": "https://www.nichepcgamer.com/archives/kindle-buy-in-bulk-sale-2026-8a.html",
+      "Published": "2026-08-02T15:02:06Z",
+      "Source": "ニッチなPCゲーマーの環境構築Z",
+      "Category": "雑記",
+      "Summary": "Kindle本まとめ買いキャンペーン開催中！最大15％ポイント還元\n\nAmazonにて、『Kindle本 真夏の涼読まとめ買いキャンペーン』が行われています。Kindle本をまとめて買うと、最大15％の期間限定ポイント(付与された翌月末まで有効)がもらえるお得なキャン...\n\nAmazonにて、『 Kindle本 真夏の涼読まとめ買いキャンペーン 』が行われています。Kindle本をまとめて買うと、 最大15％の期間限定ポイント(付与された翌月末まで有効)がもらえるお得なキャンペーンとなっています。 ポイント還元率は以下。\n\nこのキャンペーンが適用されるのは1回だけですが、キャンペーンは5週間にわたって行われ、すべて参加すれば 最大5回 適用されます。\n\n第一週：2026年07月31日(金)00:00～2026年08月06日(木)23:59\n\n第二週：2026年08月07日(金)00:00～2026年08月13日(木)23:59\n\n第三週：2026年08月14日(金)00:00～2026年08月20日(木)23:59\n\n第四週：2026年08月21日(金)00:00～2026年08月27日(木)23:59\n\n第五週：2026年08月28日(金)00:00～2026年09月03日(木)23:59\n\nキャンペーンページでKindle本を検索して『まとめ買いに追加』でカートに追加して、注文を行うことでポイントが付与されます。キャンペーンページへは以下のリンクよりどうぞ。\n\nAmazon.co.jp Kindle本 真夏の涼読まとめ買いキャンペーン\n\n筆者は自作PC歴20年以上の経験を持ち、Windows OSの細部にわたるカスタマイズや高度な設定、PCゲームの最適化、PCハードウェアとソフトウェアに関する専門知識をもとに、PC環境を快適にするための情報、不具合に遭わないようにするための情報、そして、ちょっとニッチよりなPCユーザー向け記事の執筆を2015年4月から11年にわたって行っています。\n\n長年の経験により得たノウハウを活かし、初心者から上級者まで幅広く対応できる情報を…",
+      "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2026/07/kindle-matome-2026-8a.png"
     },
     {
       "Title": "【プロダクトレビュー・ショーケース】希少なサイズ感が目を引く「PNY GeForce RTX 5070 Ti 16GB OC SLIM」。準ハイエンドでも2スロット厚で長さ30cm切り！スリムボディでもパフォーマンスと冷却は万全 text by 内田 泰仁",
@@ -4240,15 +4267,6 @@
       "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/07/27/Squama_3003-12_001.jpg"
     },
     {
-      "Title": "KBDfansの人気キーボードケースに新モデル「Tofu60 Redux V2」が登場",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2126962.html",
-      "Published": "2026-07-27T06:05:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "KBDfansの人気キーボードケースに新モデル「Tofu60 Redux V2」が登場\n\nKBDfansの人気シリーズ「TOFU」の60%キーボードケース「Tofu60 Redux V2」が、遊舎工房に入荷。\n\nKBDfansの人気キーボードケースに新モデル「Tofu60 Redux V2」が登場\n\nKBDfansの人気シリーズ「TOFU」の60%キーボードケース「Tofu60 Redux V2」が、 遊舎工房 に入荷。\n\nカラーはRaw Transparent Anodizedで、店頭価格は15,950円。ケース単体のため、PCB、プレート、キーキャップ、キースイッチ、スタビライザーは別途用意が必要。\n\nTofu60 Redux V2は、60%キーボード用のケースキット。\n\n「Tofu60 Redux」の後継モデルにあたる製品で、TOFUシリーズのミニマルなデザインはそのままに、構造が全面的にアップグレードされているとする。\n\nトレイマウント/OGマウント/Oリングマウントの3つのマウント方式から選択できるカスタマイズ性も特徴。\n\n標準的なGH60レイアウトのPCBのほか、Venom 60 HEやWooting 60HE（V1/V2）、Rakkaなどの磁気スイッチPCBの搭載にも対応。位置調整可能USBポートやドーターボード用のマウントホールも備える。\n\nなお、RAW（未塗装・未陽極酸化）フィニッシュについては、切削痕などを活かした仕様で、微細な擦り傷などは保証対象外としている。\n\nサイズは294.8×112.26×32.82mm、重量は740g。",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2126/962/s1.jpg"
-    },
-    {
       "Title": "360度覗き見を防止できるMacBook用プライバシーフィルターが店頭入荷、マグネット着脱式",
       "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2127847.html",
       "Published": "2026-07-27T06:05:00Z",
@@ -4256,6 +4274,15 @@
       "Category": "",
       "Summary": "360度覗き見を防止できるMacBook用プライバシーフィルターが店頭入荷、マグネット着脱式\n\nマグネット式で簡単に着脱できるMacBook用プライバシーフィルターが、秋葉館に入荷。\n\n360度覗き見を防止できるMacBook用プライバシーフィルターが店頭入荷、マグネット着脱式\n\nマグネット式で簡単に着脱できるMacBook用プライバシーフィルターが、 秋葉館 に入荷。\n\nラインアップはMacBook Pro 14インチ用の「MBP14-Mag360」、MacBook Air 13.6インチ用の「MBA13M2-Mag360」、MacBook Pro 13インチ 2016～2022/Air 13インチ2018～2020用の「MBA13-Mag360」で計3モデルが用意されている。価格は5,480円。\n\nこれらは正面以外からは画面が真っ黒に見えるプライバシーフィルター。\n\n上下左右すべての角度から覗き見を防ぐことができるほか、反射を抑えたマット（非光沢）仕様により、蛍光灯や日差しの映り込みを軽減するという。\n\nフィルターの固定は上部がマグネット、下部は滑り止めで押さえる仕組み。滑り止め部分は軽く水洗いすることで吸着力が復活する。\n\nなお、「装着したまま画面を閉じると本体破損や隙間の原因になるため、画面を閉じる際は必ずフィルターを取り外す必要がある」（ 秋葉館 ）とのこと。\n\nプライバシーフィルター関連製品 Amazonで購入 楽天で購入",
       "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2127/847/a1.jpg"
+    },
+    {
+      "Title": "KBDfansの人気キーボードケースに新モデル「Tofu60 Redux V2」が登場",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2126962.html",
+      "Published": "2026-07-27T06:05:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "KBDfansの人気キーボードケースに新モデル「Tofu60 Redux V2」が登場\n\nKBDfansの人気シリーズ「TOFU」の60%キーボードケース「Tofu60 Redux V2」が、遊舎工房に入荷。\n\nKBDfansの人気キーボードケースに新モデル「Tofu60 Redux V2」が登場\n\nKBDfansの人気シリーズ「TOFU」の60%キーボードケース「Tofu60 Redux V2」が、 遊舎工房 に入荷。\n\nカラーはRaw Transparent Anodizedで、店頭価格は15,950円。ケース単体のため、PCB、プレート、キーキャップ、キースイッチ、スタビライザーは別途用意が必要。\n\nTofu60 Redux V2は、60%キーボード用のケースキット。\n\n「Tofu60 Redux」の後継モデルにあたる製品で、TOFUシリーズのミニマルなデザインはそのままに、構造が全面的にアップグレードされているとする。\n\nトレイマウント/OGマウント/Oリングマウントの3つのマウント方式から選択できるカスタマイズ性も特徴。\n\n標準的なGH60レイアウトのPCBのほか、Venom 60 HEやWooting 60HE（V1/V2）、Rakkaなどの磁気スイッチPCBの搭載にも対応。位置調整可能USBポートやドーターボード用のマウントホールも備える。\n\nなお、RAW（未塗装・未陽極酸化）フィニッシュについては、切削痕などを活かした仕様で、微細な擦り傷などは保証対象外としている。\n\nサイズは294.8×112.26×32.82mm、重量は740g。",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2126/962/s1.jpg"
     },
     {
       "Title": "MSI、Ryzen AI Max+ 395と128GBメモリで4Lサイズの小型AI PC「PRO MAX EDGE AI+」",
@@ -4472,36 +4499,36 @@
       "Category": "",
       "Summary": "Grok 4.6は2週間後、4.7は4週間後に登場か。イーロン・マスク氏が予告\n\nイーロン・マスク氏は7月25日、自身のX(旧Twitter)にて、次期AIモデル「Grok 4.6」が2週間後、さらにその次の「Grok 4.7」が4週間後に登場予定だと明かした。\n\nGrok 4.6は2週間後、4.7は4週間後に登場か。イーロン・マスク氏が予告\n\nイーロン・マスク氏は7月25日、自身のX(旧Twitter)にて、次期AIモデル「Grok 4.6」が2週間後、さらにその次の「Grok 4.7」が4週間後に登場予定だと明かした。\n\n現時点での最新版となる「Grok 4.5」は、Fable 5やOpus 4.8、GPT-5.5といった競合モデルに匹敵する性能を持ちつつ、高速かつトークン効率に優れるとされるAIモデルで、7月8日に一般公開された。なお、今回マスク氏はGrok 4.6や4.7の投入時期のみを予告しており、性能などの詳細については明らかにしていない。\n\nGrok 4.6 in 2 weeks and Grok 4.7 in 4 weeks",
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2128/021/01.jpg"
-    },
-    {
-      "Title": "【本日みつけたお買い得品】LGの5K対応27型Mini LEDモニターが3万7,351円オフ",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2128031.html",
-      "Published": "2026-07-27T02:09:59Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "【本日みつけたお買い得品】LGの5K対応27型Mini LEDモニターが3万7,351円オフ\n\nAmazonにおいて、LGの5Kゲーミングモニター「27GM950B-B」が、タイムセールにて3万7,351円引きとなる15万9,800円で購入できる。\n\nLGの5K対応27型Mini LEDモニターが3万7,351円オフ\n\nAmazonにおいて、LGの5Kゲーミングモニター「27GM950B-B」が、タイムセールにて3万7,351円引きとなる15万9,800円で購入できる。\n\n27GM950B-Bは、27型IPS液晶のゲーミングモニターだ。LGが次世代ディスプレイ技術と呼ぶHyper Mini LEDバックライトの採用により、高次元な明暗表現を実現したとする。VESA Dual Modeに対応しており、5K(5,120×2,880ドット、165Hz)とWQHD(2,560×1,440ドット、330Hz)の切り換えができる。そのほか、応答速度が1ms(中間色)、輝度が750cd/平方m(ピーク時1,250cd/平方m)、コントラスト比が1,000:1。\n\n映像端子として、HDMI 2基、DisplayPort 2.1、USB Type-C(映像入力および最大90WのUSB PDに対応)を装備。また、USB Type-C使用時はUSB 3.2 Gen 1 2基のハブ機能も利用できる。DisplayHDR 1000、VESA Adaptive-Sync、FreeSync Premium、G-SYNC Compatibleに対応する。\n\nINNOCNの「GA27V1M」は、直近価格から3万2,210円引きの6万3,980円で購入可能だ。\n\nGA27V1Mは、27型IPS液晶のゲーミングモニターだ。2,304ゾーンのMini LEDバックライトを採用している。また、デュアルモードに対応しており、4K(3,840×2,160ドット、160Hz)とフルHD(1,920×1,080ドット、320Hz)の切り換えができる。映像端子はHDMI 2.1 2基、DisplayPort 1.4 2基…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2128/031/01.jpg"
-    },
-    {
-      "Title": "あの最強コーディングAI「Kimi K3」が手元で動く！今夜ウェイト公開へ",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/2128001.html",
-      "Published": "2026-07-27T02:01:37Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "あの最強コーディングAI「Kimi K3」が手元で動く！今夜ウェイト公開へ\n\nMoonshot AIの高性能AIモデル「Kimi K3」のオープンウェイト公開まであと14時間を切った。公式のHugging Faceのページでカウントダウンが開始している。総パラメータ数2.8兆、最大100万トークンのコンテキストと画像/動画の入力に対応。同社によると、世界初のオープンな3兆パラメータ級モデルになるという。\n\nあの最強コーディングAI「Kimi K3」が手元で動く！今夜ウェイト公開へ\n\nMoonshot AIの高性能AIモデル「Kimi K3」のオープンウェイト公開まであと14時間を切った。公式のHugging Faceのページでカウントダウンが開始している。総パラメータ数2.8兆、最大100万トークンのコンテキストと画像/動画の入力に対応。同社によると、世界初のオープンな3兆パラメータ級モデルになるという。\n\nKimi K3は、総合性能ではClaude Fable 5とGPT-5.6 Solには及ばないが、それ以外のテスト対象モデルを一貫して上回るフロンティア級の性能を持つとされる。特にコーディングの「ProgramBench」、およびソフトウェアエンジニアリングの「SWE-Marathon」においてClaude Fable 5とGPT-5.6 Solを凌駕するスコアを叩き出している。\n\nモデルは7月17日に公開され、kimi.com、デスクトップアプリ「Kimi Work」、コーディングエージェント「Kimi Code」、Kimi APIなどから利用できた。ウェイトが公開されることで、(ハードルはかなり高いが)利用環境さえ整えれば手元で実行できるようになる。\n\nKimi K3の高性能を支えるのが新アーキテクチャの「Kimi Delta Attention(KDA)」と「Attention Residuals」。MoE(Mixture-of-Experts)のスパース性を高めて896のエキスパートのうち実効的に16をアクティブ化している。また、視覚とコーディングの融合も特…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2128/001/1.jpg"
-    },
-    {
-      "Title": "ASRock、QD-OLED採用の27型WQHDゲーミングディスプレイ「PGO27QSA」シリーズ",
-      "Link": "https://www.gdm.or.jp/pressrelease/2026/0727/645579",
-      "Published": "2026-07-27T01:45:51Z",
-      "Source": "エルミタージュ秋葉原",
-      "Category": "",
-      "Summary": "ASRock、QD-OLED採用の27型WQHDゲーミングディスプレイ「PGO27QSA」シリーズ\n\nASRock Inc.（本社：台湾）は2026年7月24日（現地時間）、QD-OLEDパネルを採用する27型WQHDゲーミングディスプレイ「PGO27QSA」シリーズを発表した。カラーはブラックとホワイトの2色がラインナップする。\n\nASRock、QD-OLED採用の27型WQHDゲーミングディスプレイ「PGO27QSA」シリーズ\n\n240Hz/0.03ms駆動とAMD FreeSync Premiumに対応\n\nASRock Inc.（本社：台湾）は2026年7月24日（現地時間）、QD-OLEDパネルを採用する27型WQHDゲーミングディスプレイ 「PGO27QSA」シリーズ を発表した。カラーはブラックとホワイトの2色がラインナップする。\n\n「Phantom Gaming」シリーズに属する製品で、リフレッシュレート240Hz、応答速度0.03ms（GTG）の高速駆動に対応。さらにティアリングやスタッタリングを解消するディスプレイ同期技術はAMD FreeSync Premiumをサポートする。\n\n主なスペックは輝度200nit（SDR標準） / 400nit（HDRピーク時）、色域はDCI-P3 99％、表示色10億7,000万色、コントラスト比1,500,000:1、色精度はデルタE 2未満、視野角は水平/垂直178°。インターフェイスはHDMI 2.1×2、DisplayPort 1.4×2、ヘッドホン出力×1を備える。\n\nスタンドは-5～20°チルト、-45～45°スイベル、-90～90°ピボット、0～130mm高さ調整に対応。VESAマウントは100×100mm、外形寸法は幅611mm、奥行き239mm、高さ582mm、重量5.0kg。\n\n文： 編集部 池西 樹 ASRock Inc.： https://www.asrock.com/\n\n(今週のコレオシ) 値下げ＆キャンペーンで狙い目のASRock製AIO水冷\n\n(アキバ取材班) ANC＋ENC搭載で税込9…",
-      "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/07/27/PGO27QSA_02.jpg"
     }
   ],
   "world": [
+    {
+      "Title": "Gemma 4 E2B は、Raspberry Pi サイズの LLM がもうひどいものである必要がないことを証明しています",
+      "Link": "https://www.xda-developers.com/gemma-4-e2b-proves-raspberry-pi-llms-dont-have-to-be-terrible/",
+      "Published": "2026-08-02T18:00:10Z",
+      "Source": "XDA",
+      "Category": "Raspberry Pi",
+      "Summary": "Gemma 4 E2B は、Raspberry Pi サイズの LLM がもうひどいものである必要がないことを証明しています\n\nそれ\n\nGemma 4 E2B は、Raspberry Pi サイズの LLM がもうひどいものである必要がないことを証明しています\n\nBy Ayush Pande 公開日 2026 年 8 月 2 日、午後 2:00 EDT Ayush Pande は、PC ハードウェアおよびゲームのライターです。彼が新しい記事に取り組んでいないときは、頭を PC の中に閉じ込めたり、サーバーのオペレーティング システムをいじったりしているのを見かけることがあります。コンピューティングのほかに、彼の興味には、長い RPG に何時間も費やすこと、協力ゲームで友達に怒鳴りつけること、ギターを練習することなどがあります。 XDA アカウントにサインインする 生産性を向上させる大規模な言語モデルを実行する場合、選択できるオプションはたくさんあります。残念ながら、現実のタスクに適切な推論機能を備えた LLM は、通常、クラウド上でのみ実行できます。あなたも私と同じなら、おそらく、プライバシーを侵害し、サブスクリプションの多いクラウド モデルに依存することはあまり好きではなく、費用対効果の高い代替手段としてローカルの LLM ホスティング セットアップを残しているでしょう。\n\n専門家混合モデルは、VRAM に制約のあるグラフィックス カードで数十のパラメータを持つかさばる LLM に対応する優れた方法です。ただし、MoE モデルを実行するには十分な VRAM + システム メモリが必要なため、予算のハードウェアでホストするのは少し難しくなります。小型モデルが強力な 20B 以上のモデルに取って代わることができるとまでは言いませんが、最近、軽い生産性タスクには十分な LLM をいくつか見つけました。より具体的に言うと、Gemma 4 ラインナップの超軽量モデルについて話しています。特に E2B バージョンは、Raspberry Pi に収まるほど小さいにもかかわらず、非常…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/gemma-4-e2b-raspberry-pi-7.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "ルーターの DNS 設定を 1 つ変更したら、スマート ホームが憑依動作を停止しました",
+      "Link": "https://www.xda-developers.com/changed-one-dns-setting-on-router-smart-home-stopped-acting-possessed/",
+      "Published": "2026-08-02T17:30:10Z",
+      "Source": "XDA",
+      "Category": "Wi-Fi 7",
+      "Summary": "ルーターの DNS 設定を 1 つ変更したら、スマート ホームが憑依動作を停止しました\n\nあなたのスマートホームは\n\nルーターの DNS 設定を 1 つ変更したら、スマート ホームが憑依動作を停止しました\n\nBy Jasmine Mannan 公開 2026 年 8 月 2 日、午後 1 時 30 分 EDT Jasmine は XDA のソフトウェアおよび PC ハードウェアの著者で、AI チャットボットからゲーム ハードウェアに至るまで、長年にわたる技術レポートの経験があり、ほぼすべてをカバーしています。最新の AMD NPU に関する速報ニュースであれ、ソーシャル メディア プラットフォームでのビデオ チュートリアルの作成であれ、Jasmine は、Razer の CEO、AMD の製品マーケティング ディレクター、Lenovo の副社長へのインタビューなど、さまざまな方法で AI とテクノロジーの世界に貢献してきました。ゲームと PC テクノロジーに情熱を持っている彼女は、数え切れないほどのコンピューター、キーボード、その他の周辺機器を構築し、それらを隅々まで知り尽くしています。 XDA アカウントにサインインする 肥大化したスマート ホームの背後にある現実には、アプリ内でスマート ライトがランダムにオフラインになったり、ローカル ホーム アシスタントのダッシュボードに黄色の警告アイコンが表示されたり、音声アシスタントがローカル デバイスにアクセスできないと主張したり、スマート スイッチが電球を切り替えるのに 10 秒以上かかったりする可能性があります。一般的なトラブルシューティング ルーチンは、スマート ハブの電源を入れ直したり、Zigbee コーディネーターを交換したり、2.4 GHz Wi-Fi 干渉のせいにしたり、信号強度を修正するためにメッシュ ルーターを購入したりすることもあります。\n\nただし、技術的な原因は DNS 解決の失敗である可能性があり、これは Wi-Fi スマート デバイスやローカル統合ハブに当てはまる可能性があります。ローカル ハブが内…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2023/07/tp-link-archer-be800-review-close-display.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "プレミアム価格なしでも優れたサウンドと快適さ: Akko Verge S9 Ultra ゲーミング ヘッドセットのレビュー",
+      "Link": "https://www.notebookcheck.net/Good-sound-and-comfort-without-the-premium-price-Akko-Verge-S9-Ultra-gaming-headset-review.1358277.0.html",
+      "Published": "2026-08-02T17:15:00Z",
+      "Source": "Notebookcheck",
+      "Category": "reviews",
+      "Summary": "プレミアム価格なしでも優れたサウンドと快適さ: Akko Verge S9 Ultra ゲーミング ヘッドセットのレビュー\n\nAkko Verge S9 Ultra は、基本を少し超えたお手頃価格のワイヤレス ヘッドフォンです。快適性を追求したビルドと優れたサウンドのドライバーを備えていますが、有線モードは利用できません。バンドルされているソフトウェアも機能が満載です。\n\n評決 – 快適でサウンドも良いが、妥協がないわけではない\n\nAkko Verge S9 Ultra は、手頃な価格のワイヤレス ゲーミング ヘッドセットとして重要な要素のほとんどを備えています。有能なドライバーのセットアップ、快適性を重視した構造、そして洗練された全体的なデザインがあります。 2.4GHz モードではオーディオ遅延が短く、ソフトウェアでは追加のオーディオカスタマイズが可能です。取り外し可能なマイクでも、比較的低ノイズで音声を録音できます。\n\nただし、いくつかの妥協点もあります。イヤーパッドはスエード革なので熱くなりますが、遮音性は良好です。 Bluetooth モードにはマルチポイント サポートがなく、3.5 mm 有線モードもありません。\n\nそれでも、3.5mm 有線オーディオが優先事項ではない場合、Verge S9 Ultra は、全体的に洗練された外観を備えた、バランスのとれたワイヤレス ゲーミング ヘッドフォンとして機能します。\n\nAkko Verge S9 Ultra は 4 色のオプションがあり、ワイヤレス ヘッドフォンは Amazon と公式ウェブサイトの両方で購入できます。小売価格は 59.99 ドルですが、時々セールになり、通常は 44.99 ドルに下がります。\n\nAkko の Verge S9 Ultra は手頃な価格ですが、ビルドの品質は別の物語を語ります\n\nヘッドフォンの音質は良く、ゲーム固有のプリセットは便利です\n\nBluetooth モードと 2.4GHz モードはありますが、3.5mm 有線モードは利用できません\n\nバッテリー寿命はまあまあで、マイクはその…",
+      "ImageURL": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Akko-Verge-S9-Ultra-review.jpg"
+    },
     {
       "Title": "果物をエチレンとエタン冷媒に変える",
       "Link": "https://hackaday.com/2026/08/02/turning-fruits-into-ethylene-and-ethane-refrigerant/",
@@ -5061,15 +5088,6 @@
       "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/a-hot-weather-alert-in-samsung-modes-and-routines.jpg?w=1600\u0026h=900\u0026fit=crop"
     },
     {
-      "Title": "Redditor scores a working GTX 1050 Ti for just $2 at Goodwill",
-      "Link": "https://www.tweaktown.com/rss/click/news/112960/?c=news-mf",
-      "Published": "2026-08-01T19:00:10Z",
-      "Source": "TweakTown",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
       "Title": "この無料のオープンソース ツールに Plex ライブラリを最適化させ、8 TB のストレージを再利用しました",
       "Link": "https://www.xda-developers.com/free-open-source-tool-optimize-plex-library-reclaimed-8tb-storage/",
       "Published": "2026-08-01T19:00:10Z",
@@ -5077,6 +5095,15 @@
       "Category": "Open Source",
       "Summary": "この無料のオープンソース ツールに Plex ライブラリを最適化させ、8 TB のストレージを再利用しました\n\nこの経済状況ではドライブを買うより良い\n\nこの無料のオープンソース ツールに Plex ライブラリを最適化させ、8 TB のストレージを再利用しました\n\nBy Anurag Singh 公開 2026 年 8 月 1 日、午後 3 時 EDT アヌラグは、過去 5 年間、Windows、Android、Apple を中心にテクノロジーをカバーしてきた経験豊富なジャーナリスト兼著者です。彼は Android Police、Neowin、Dexerto、MakeTechEasier などのサイトに執筆しています。アヌラグは常にテクノロジーに興味があり、最新のガジェットを手に入れるのが大好きです。先延ばしにしていないときは、おそらく彼が映画館で最新映画を鑑賞したり、ベッドから Twitter をスクロールしたりしているのを見かけるでしょう。 XDA アカウントにサインインします。 ストレージは、大規模な Plex ライブラリを実行する上で最も大きな出費の 1 つです。スペースが足りなくなったときはいつでもハードドライブを追加し続けることができますが、ライブラリにすでにあるファイルの多くが不必要に大きいという事実は解決されません。私のコレクションは長年にわたって増えてきました。つまり、古い H.264 エンコード、高ビットレートのファイル、決して使用しないオーディオ トラックを含む映画が数多く含まれるようになりました。\n\nそして現在、ストレージの価格がこれほど高騰しているため、別のドライブに投資するのは意味がありません。代わりに、Unmanic をインストールし、ライブラリを通じて動作させました。これは、メディア ファイルをスキャンし、設定したルールに一致しないものを自動的に変換する無料のオープンソース ツールです。これを Plex ライブラリで自由に実行させたところ、ほぼ 8TB のスペースが解放され、事実上、別のハード ドライブが得られました。\n\nPlex ライブ…",
       "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/unmanic.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "Redditor scores a working GTX 1050 Ti for just $2 at Goodwill",
+      "Link": "https://www.tweaktown.com/rss/click/news/112960/?c=news-mf",
+      "Published": "2026-08-01T19:00:10Z",
+      "Source": "TweakTown",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
     },
     {
       "Title": "マザーボードの設定を何年も無視していたため、静かにパフォーマンスが低下していました",
@@ -6321,15 +6348,6 @@
       "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/07/videoframe_2522-732x330.jpg"
     },
     {
-      "Title": "Claude Code のサブエージェントは 1 つの問題を解決し、他の 3 つの問題を作成します",
-      "Link": "https://www.xda-developers.com/claude-codes-sub-agents-solve-one-problem-and-create-three-others/",
-      "Published": "2026-07-31T14:30:10Z",
-      "Source": "XDA",
-      "Category": "Claude",
-      "Summary": "Claude Code のサブエージェントは 1 つの問題を解決し、他の 3 つの問題を作成します\n\n孤立は与え、孤立は奪います。\n\nClaude Code のサブエージェントは 1 つの問題を解決し、他の 3 つの問題を作成します\n\nBy Mahnoor Faisal 公開 2026 年 7 月 31 日、午前 10:30 EDT Mahnoor Faisal は、XDA 、 SlashGear 、 MakeUseOf 、 Laptop Mag 、 Android Police で署名記事を掲載し、AI と生産性向上ツールをカバーするテクノロジー ジャーナリストです。彼女は 16 歳の頃からプロとして執筆活動を行っており、それ以来何百もの記事を執筆してきました。これには、NotebookLM などの AI ツールから AI 分野全体の最新ニュースまでの詳細なカバレッジが含まれます。彼女のテクノロジーに対する情熱は、8 歳の誕生日に最初の iPod Touch (第 4 世代) を受け取ったときに始まり、それ以来テクノロジーの世界に深く関わってきました。現在、コンピューター サイエンスの学位取得を目指しているマフノール氏は、AI が私たちの働き方や学習方法をどのように再構築しているのかを取材する際に、ジャーナリストの目と技術的基礎の両方をもたらしています。 XDA アカウントにサインインします。AI を使用して、これまで言葉でしか説明できなかったものを初めて構築するときは、本当に魔法のように感じます。あなたのビジョンは数分以内にアイデアからコンセプトに移行し、これまでに行ったものよりも速くなります。 AI を使用して を構築するのが 2 回目、3 回目、4 回目、そして 10 回目であっても、同じスピード (そして興奮) が維持されます。しかし。この段階で何かが微妙に変化します。\n\n最初は見落としていた摩擦に気づき始めます。すべてを一度に一歩ずつ行っているからです。 1 つのことを要求し、待って確認してから、次のことを要求します。ここで、サブエージェントが登場します。タ…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/claude-code-web-on-macbook-with-spotify-in-background.jpeg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
       "Title": "Pixel のデフォルトのランチャーを Niagara Launcher に置き換えたら、元には戻れません",
       "Link": "https://www.xda-developers.com/replaced-pixels-default-launcher-with-niagara-launcher-cant-go-back/",
       "Published": "2026-07-31T14:30:10Z",
@@ -6337,6 +6355,15 @@
       "Category": "Niagara Launcher",
       "Summary": "Pixel のデフォルトのランチャーを Niagara Launcher に置き換えたら、元には戻れません\n\nこのランチャーは、それ以上ではなく、より少ない操作で、私の Pixel の使い方を変えました。\n\nPixel のデフォルトのランチャーを Niagara Launcher に置き換えたら、元には戻れません\n\nクレジット: Dhruv Bhutani 著 2026 年 7 月 31 日午前 10 時 30 分 EDT に公開 Dhruv Bhutani は 2008 年から消費者向けテクノロジーについて執筆しており、特集記事や意見記事を通じて個人向けテクノロジーの状況について深い洞察を提供しています。彼は XDA-Developers に執筆しており、生産性、ネットワーキング、セルフホスティングなどのトピックに重点を置いています。長年にわたり、彼の作品は Android Police、Android Authority、CNET、PCMag などの主要出版物にも掲載されてきました。専門的な仕事以外では、ドゥルヴは映画や文学などのホラー メディアの熱心なファンであり、フィットネス アクティビティを楽しんだり、レコードを収集したり、ギターを弾いたりしています。\n\n第一世代の発売以来、私は Pixel ユーザーとして、Pixel ランチャーの進化の浮き沈みを経験してきました。クリーンで、高速で、仕事を完了します。通常はそれで十分です。しかしここ1年ほど、私は携帯電話に費やす時間を減らす方法を模索してきました。アプリにすばやくアクセスできるようになり、ホーム画面間を移動したり、フォルダーを調べたり、ウィジェットを眺めたりする時間を短縮できます。変化が必要でした。そこで、ナイアガラランチャーを試してみることにしました。\n\nほとんどのユーザーがランチャーに求めるものと比較して、私はカスタマイズが目立たず、邪魔にならないホーム画面を備えたツールを探していました。 Niagara Launcher を数か月間使用した結果、もう後戻りはできないと断言できます。\n\nシンプルなホーム画…",
       "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/dsc08636.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "Claude Code のサブエージェントは 1 つの問題を解決し、他の 3 つの問題を作成します",
+      "Link": "https://www.xda-developers.com/claude-codes-sub-agents-solve-one-problem-and-create-three-others/",
+      "Published": "2026-07-31T14:30:10Z",
+      "Source": "XDA",
+      "Category": "Claude",
+      "Summary": "Claude Code のサブエージェントは 1 つの問題を解決し、他の 3 つの問題を作成します\n\n孤立は与え、孤立は奪います。\n\nClaude Code のサブエージェントは 1 つの問題を解決し、他の 3 つの問題を作成します\n\nBy Mahnoor Faisal 公開 2026 年 7 月 31 日、午前 10:30 EDT Mahnoor Faisal は、XDA 、 SlashGear 、 MakeUseOf 、 Laptop Mag 、 Android Police で署名記事を掲載し、AI と生産性向上ツールをカバーするテクノロジー ジャーナリストです。彼女は 16 歳の頃からプロとして執筆活動を行っており、それ以来何百もの記事を執筆してきました。これには、NotebookLM などの AI ツールから AI 分野全体の最新ニュースまでの詳細なカバレッジが含まれます。彼女のテクノロジーに対する情熱は、8 歳の誕生日に最初の iPod Touch (第 4 世代) を受け取ったときに始まり、それ以来テクノロジーの世界に深く関わってきました。現在、コンピューター サイエンスの学位取得を目指しているマフノール氏は、AI が私たちの働き方や学習方法をどのように再構築しているのかを取材する際に、ジャーナリストの目と技術的基礎の両方をもたらしています。 XDA アカウントにサインインします。AI を使用して、これまで言葉でしか説明できなかったものを初めて構築するときは、本当に魔法のように感じます。あなたのビジョンは数分以内にアイデアからコンセプトに移行し、これまでに行ったものよりも速くなります。 AI を使用して を構築するのが 2 回目、3 回目、4 回目、そして 10 回目であっても、同じスピード (そして興奮) が維持されます。しかし。この段階で何かが微妙に変化します。\n\n最初は見落としていた摩擦に気づき始めます。すべてを一度に一歩ずつ行っているからです。 1 つのことを要求し、待って確認してから、次のことを要求します。ここで、サブエージェントが登場します。タ…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/claude-code-web-on-macbook-with-spotify-in-background.jpeg?w=1600\u0026h=900\u0026fit=crop"
     },
     {
       "Title": "Galaxy SmartTag 3 のリークは、条件付き (なし) での再設計を示唆しています",
@@ -8974,33 +9001,6 @@
       "Category": "Storage",
       "Summary": "Seagate、記録樹立となる50TB HDDの認定を2027年に開始 - ほとんどのドライブは2028年までに完売\n\nSeagateのハードドライブがスピンアップ中\n\nSeagate、記録樹立となる50TB HDDの認定を2027年に開始 - ほとんどのドライブは2028年までに完売\n\nハードドライブがシーゲイトの収益を押し上げている。\n\nAI主導のストレージ需要により、2028年まで生産の大部分が完売し続けるため、シーゲイトは50TBクラスのHAMRハードドライブの顧客認定を2027年後半に開始し、2028年に出荷する予定です。 (画像クレジット: Getty / Smith Collection/Gado) リンクをコピー\n\n0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する Seagate は、2027 年後半に 50TB クラスの容量を備えたハードディスク ドライブの認定を開始する予定で順調に進んでおり、出荷は 2028 年になると同社が今週発表しました。 AI の台頭とクラウド コンピューティング ビジネスの継続的な好調により、HDD の需要は非常に高まっているため、ほとんどのドライブが 2028 年まで完売し、2029 年の割り当てに関する交渉が進行中です。\n\n高帯域幅メモリ (HBM) ロードマップ\n\nNvidia エンタープライズ GPU および CPU ロードマップ\n\n「当社のディスクあたり5テラバイト以上のプラットフォームであるMozaic 5は、2027年後半の認定出荷に向けて順調に進んでいます」とシーゲイトの最高経営責任者デイブ・モズリー氏は財務アナリストや投資家との決算会見で述べた。\n\nMozaic 5は、Mozaic 3およびMozaic 4の後継となるSeagateの熱アシスト磁気記録（HAMR）技術に基づく同社の商用ハードドライブ用の第3世代プラットフォームです。Mozaic 5プラットフォームにより、同社は5TBを超える容量のプラッタを構築でき、その結果、パフォーマンスと…",
       "ImageURL": "https://cdn.mos.cms.futurecdn.net/fNo57ijZysAmFUoHBgFVHY-2000-80.jpg"
-    },
-    {
-      "Title": "この高評価のトラベル アダプターを今すぐわずか 17 ドルで手に入れましょう",
-      "Link": "https://www.androidauthority.com/tessan-travel-adapter-deal-3692486/",
-      "Published": "2026-07-29T16:39:04Z",
-      "Source": "Android Authority",
-      "Category": "Travel",
-      "Summary": "この高評価のトラベル アダプターを今すぐわずか 17 ドルで手に入れましょう\n\nこのTESSANユニバーサルトラベルアダプターはAmazonで24%オフで、主要地域向けのプラグと海外旅行用のコンパクトなボディを備えています。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nこの高評価のトラベル アダプターを今すぐわずか 17 ドルで手に入れましょう\n\n0 • Amazon Google Discover でフォローしてください 優先ソースとして追加してください TESSAN トラベル アダプターは、海外旅行用に 1 台のコンパクトな充電器が欲しい人のために作られており、現在 Amazon でお買い得品が販売されています。 TESSAN は旅行に適した充電ギアに焦点を当てており、このモデルは複数の充電オプションを 1 つのボディに詰め込んだスリムで軽量なデザインが際立っています。\n\nこれは、米国、日本、ヨーロッパ、英国、オーストラリア、中国を含む主要地域向けのスライドアウト プラグを備えたオールインワンのユニバーサル トラベル アダプターです。これにより、別個のプラグアダプターを梱包することなく、国間での持ち運びが便利になります。携帯電話、タブレット、イヤホンなどのデバイスを充電できるように設計されており、20W クラスの USB-C 高速充電もサポートしています。トラベル アダプター 009 は、電圧コンバーターではなくプラグ アダプターであるため、最新の電話、ラップトップ、カメラの充電器などのデュアル電圧機器での使用に最適です。\n\nAmazonで4.6つ星の評価を得ているため、購入者も満足しているようです。最近の報道では、携帯性、収納性、非常にスリムな形状の複数の充電ポートの利便性など、同様の強みが強調されています。\n\nこの契約に関して、Amazon は TESSAN Travel Adaptor 009 を希望小売価格 22.49 ドルから 17.09 ドルに値下げしました。これは希望小売価…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/TESSAN-Travel-Adapter-Press-Image.jpg"
-    },
-    {
-      "Title": "ゲームの猛獣であるこの LG UltraGear OLED 480Hz モニターを 39% 割引で購入できます",
-      "Link": "https://www.xda-developers.com/lg-27-inch-ultragear-oled-608-deal/",
-      "Published": "2026-07-29T16:35:39Z",
-      "Source": "XDA",
-      "Category": "Over $300",
-      "Summary": "ゲームの猛獣であるこの LG UltraGear OLED 480Hz モニターを 39% 割引で購入できます\n\nゲーム体験をアップグレードする\n\nゲームの猛獣であるこの LG UltraGear OLED 480Hz モニターを 39% 割引で購入できます\n\nクレジット: LG By Timi Cantisano 公開 2026 年 7 月 29 日、午後 12:35 EDT Timi は 10 年以上にわたり、スマートフォン、コンピューター、およびテクノロジー分野で興味深いと思うものすべてに焦点を当ててテクノロジーについて執筆してきました。彼は XDA に執筆を開始し、モバイルに関するあらゆることをカバーしていましたが、インターネット上で最高のハイテク製品の最高の割引を明らかにすることを使命として、取引をカバーすることに移行しました。 XDA アカウントにサインインする この LG UltraGear 1440p モニターでは、鮮やかな 27 インチ OLED パネルが得られるだけでなく、480Hz のリフレッシュ レートと 0.03ms の応答時間という驚異的なパフォーマンス仕様を備えています。最も良い点は、Amazon からの 39% の大幅割引 (608 ドル) のおかげで、このモニターを最安値で購入できることです。\n\n多くの人が PC の内部コンポーネントのアップグレードに注目していますが、モニターは見落とされがちな最も重要なアップグレードの 1 つである可能性があります。また、上位モデルの価格は大幅に下がっているため、検討する価値があります。\n\nLG のこの UltraGear モニターは、ドキュメントの作成、Web サーフィン、ゲームのプレイなど、必要なすべてを提供するエクスペリエンスを提供します。上記に加えて、このモニターは VESA DisplayHDR True Black 400、Nvidia G-Sync、および AMD FreeSync Premium テクノロジーをサポートしています。\n\nそのため、たとえ物事のペースが速くなったとしても、ア…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/copy-of-169-19.jpg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
-      "Title": "AMD、Gears of War E-Day および RX 9050 用の新しい Radeon グラフィックス ドライバーを公開",
-      "Link": "https://www.kitguru.net/gaming/matthew-wilson/amd-rolls-out-new-radeon-graphics-drivers-for-gears-of-war-e-day-and-rx-9050/",
-      "Published": "2026-07-29T16:30:33Z",
-      "Source": "KitGuru",
-      "Category": "RX 9050",
-      "Summary": "AMD、Gears of War E-Day および RX 9050 用の新しい Radeon グラフィックス ドライバーを公開\n\nAMD は、最新のグラフィックス ドライバー Adrenalin Edition 26.7.1 をリリースし、Gears of War: E‑Day の今後のマルチプレイヤー ベータ版に先立って最適化を提供します。新しいドライバーは、FSR 4 のサポートも拡張し、AMD の最新のエントリーレベル RDNA 4 GPU との互換性を導入します。このアップデートにより、AMD は Gears of War に最適化を導入しました。\n\nAMD、Gears of War E-Day および RX 9050 用の新しい Radeon グラフィックス ドライバーを公開\n\nMatthew Wilson 6 時間前 ソフトウェアとゲーム\n\nAMD は、最新のグラフィックス ドライバー Adrenalin Edition 26.7.1 をリリースし、Gears of War: E‑Day の今後のマルチプレイヤー ベータ版に先立って最適化を提供します。新しいドライバーは、FSR 4 のサポートも拡張し、AMD の最新のエントリーレベル RDNA 4 GPU との互換性を導入します。このアップデートにより、AMD は 10 月初旬の完全リリースに先立って、8 月に開催される Gears of War: E‑Day オープン ベータに向けて最適化を実施しました。このドライバーは、Out of Control Evolution を含む追加のタイトルに対する FSR 4 サポートも追加し、最新のアップスケーリング テクノロジの採用拡大を目指す AMD の取り組みを継続します。ソフトウェアの改善に加えて、Adrenalin Edition 26.7.1 では、新しく発表された Radeon RX 9050 グラフィックス カードのサポートが導入されています。 RX 9050 は、APJ およびラテンアメリカ市場向けの手頃な価格の RDNA 4 オプションとして位置…",
-      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2025/04/2648997-amd-radeon-7000s-732x330.jpg"
     }
   ]
 }
