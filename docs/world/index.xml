@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sun, 02 Aug 2026 23:11:01 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Mon, 03 Aug 2026 00:11:52 +0000</lastBuildDate>
+<item><title>Aliensense NXS は、ロボット用のプラグアンドプレイ GMSL 2/3 および CAN-FD センサー ボードです。</title><link>https://www.cnx-software.com/2026/08/03/aliensense-nxs-plug-and-play-gmsl-2-3-and-can-fd-sensor-board-for-robots/</link><guid isPermaLink="true">https://www.cnx-software.com/2026/08/03/aliensense-nxs-plug-and-play-gmsl-2-3-and-can-fd-sensor-board-for-robots/</guid><pubDate>Mon, 03 Aug 2026 00:00:51 +0000</pubDate><description><![CDATA[<p>Aliensense NXS は、ロボット用のプラグアンドプレイ GMSL 2/3 および CAN-FD センサー ボードです。
+
+アブダビに本拠を置く Aliensense は、カスタム配線やカスタム配線を必要とせずに、カメラやセンサーをロボットに簡単に接続できるように設計されたコンパクトなセンサーボードである NXS を導入しました。
+
+アブダビに本拠を置く Aliensense は、カスタム配線やドライバー作業を必要とせずに、カメラやセンサーをロボットに簡単に接続できるように設計されたコンパクトなセンサーボードである NXS を導入しました。このボードは 1 本の GMSL 2/3 ケーブルに依存して、最大 15 メートルの電源、ビデオ、およびセンサー データを伝送します。CAN-FD 経由で 40 メートルまで延長可能 (データのみ、ボーレートは低下)。
+
+STM32G491 ボードは、Shuttle アドオン ボードを介して提供される mikroBUS コネクタのおかげで、MikroElektronika の Click エコシステムの 2,000 以上のボードとも互換性があります。これは、カメラに加えて、またはカメラの代わりに、互換性のあるセンサー (mikroBUS 経由) を使用できることを意味します。
+
+MCU – STMicro STM32G491 Cortex-M4F マイクロコントローラー、112KB SRAM、最大 512KB フラッシュ搭載
+
+カメラインターフェイス – MIPI CSI-2入力、MAX96793 GMSL2/3シリアライザ、Power-over-Coax
+
+接続性 – GMSL2/3、CAN-FD、Cyphon/シリアル、I2C レジスタマップ
+
+拡張 – I2C、SPI、UART、PWM、アナログ、INT、RST を備えた mikroBUS ソケット
+
+リカバリ サポート – 署名付き A/B ファームウェア、ウォッチドッグ ロールバック、シリアル リカバリ
+
+電源 – 12V 入力、4.7 ～ 16V 許容範囲、Powe…</p><p><img src="https://www.cnx-software.com/wp-content/uploads/2026/08/Aliensense-NXS-sensor-board-for-robots.jpg" alt="Aliensense NXS は、ロボット用のプラグアンドプレイ GMSL 2/3 および CAN-FD センサー ボードです。"></p>]]></description><source url="https://www.cnx-software.com/2026/08/03/aliensense-nxs-plug-and-play-gmsl-2-3-and-can-fd-sensor-board-for-robots/">CNX Software</source><media:content url="https://www.cnx-software.com/wp-content/uploads/2026/08/Aliensense-NXS-sensor-board-for-robots.jpg" medium="image"/><media:thumbnail url="https://www.cnx-software.com/wp-content/uploads/2026/08/Aliensense-NXS-sensor-board-for-robots.jpg"/></item>
+<item><title>Valve の新しい Steam コントローラーは私が使った中で最高のゲームパッドですが、Steam を閉じるとコントローラーでなくなります</title><link>https://www.xda-developers.com/valve-steam-controller-best-gamepad-used-stops-being-one-close-steam/</link><guid isPermaLink="true">https://www.xda-developers.com/valve-steam-controller-best-gamepad-used-stops-being-one-close-steam/</guid><pubDate>Mon, 03 Aug 2026 00:00:10 +0000</pubDate><description><![CDATA[<p>Valve の新しい Steam コントローラーは私が使った中で最高のゲームパッドですが、Steam を閉じるとコントローラーでなくなります
+
+私は新しい Steam コントローラーが大好きですが、いくつかの興味深い特徴があります。
+
+Valve の新しい Steam コントローラーは私が使った中で最高のゲームパッドですが、Steam を閉じるとコントローラーでなくなります
+
+By Adam Conway 公開 2026 年 8 月 2 日、午後 8:00 EDT 私はアダム コンウェイです。コンピューター サイエンスの学士号を取得したアイルランドのテクノロジー愛好家で、XDA の主任テクニカル エディターを務めています。私の学士論文は、Android アプリやスマートフォンのパフォーマンスなどの非機能要素のベンチマークの実行可能性について行われました。私は 2017 年から何らかの形でテクノロジー業界で働いています。暇なときは、Counter-Strike や VALORANT をプレイしているのをおそらく見かけます。連絡先は adam@xda-developers.com 、Twitter では @AdamConwayIE 、Instagram では次のとおりです。 AdamConwayIE 、または Reddit の u/AdamConwayIE。 XDA アカウントにサインインする 私はオリジナルの Steam コントローラーを所有したことがありません。 2015年11月に49.99ドルで発売され、4年間で150～160万台ほどが売れ、最終的に2019年11月に生産中止となり、残りの在庫は1台あたり約5ドルで投げ売りされた。当時、その存在は知っていましたが、まったく興味がありませんでした。Steam Deck が登場して実際に手に取るまで、Valve のハードウェアに興味を持つことはありませんでした。
+
+そうは言っても、Steam Deck を所有しており、それを愛している者として、Valve が Steam コントローラーに挑戦した 2 回目の試みは、Stea…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/steam-controller-2-2026.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Valve の新しい Steam コントローラーは私が使った中で最高のゲームパッドですが、Steam を閉じるとコントローラーでなくなります"></p>]]></description><source url="https://www.xda-developers.com/valve-steam-controller-best-gamepad-used-stops-being-one-close-steam/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/steam-controller-2-2026.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/steam-controller-2-2026.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>Memory shortages will get only worse in 2027 and 2028, warns Samsung</title><link>https://www.tweaktown.com/rss/click/news/112966/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112966/?c=news-mf</guid><pubDate>Sun, 02 Aug 2026 23:30:06 +0000</pubDate><description><![CDATA[<p>Memory shortages will get only worse in 2027 and 2028, warns Samsung</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112966/?c=news-mf">TweakTown</source></item>
+<item><title>ハッカデイ リンク: 2026 年 8 月 2 日</title><link>https://hackaday.com/2026/08/02/hackaday-links-august-2-2026/</link><guid isPermaLink="true">https://hackaday.com/2026/08/02/hackaday-links-august-2-2026/</guid><pubDate>Sun, 02 Aug 2026 23:00:22 +0000</pubDate><description><![CDATA[<p>ハッカデイ リンク: 2026 年 8 月 2 日
+
+約 1 か月前、NASA のスウィフト ガンマ線天文台を救うためにカタリスト スペースが設計した商用救助ミッションが軌道に到達し、初期の指標が不十分であるというニュースをお届けしました。
+
+約 1 か月前、NASA のスウィフト ガンマ線天文台を救うためにカタリスト スペースが設計した商用救助ミッションが軌道に到達し、初期の指標は良好であるというニュースをお届けしました。残念ながら、物事が方向転換し始めるのにそれほど時間はかかりませんでした。つい最近まで、状況はかなり悲惨なものに見えました。しかし、Ars Technica が昨日掲載した Katalyst の CEO へのインタビューによると、同社は事態を制御下に戻す上で目覚ましい進歩を遂げたとのことです。
+
+理由は不明だが、ロボット車両は先週、制御不能になって転落し始めた。その直後、ミッション管制官はスウィフトとの連絡を失いました。地上からの連絡が24時間途絶えた後、宇宙船は通信を回復するために一種の「ハードリセット」を自動的に実行しました。これで再び話題になりましたが、途中で宇宙船が過熱し、通常は方向を制御するために使用されるリアクションホイールの制御回路が故障しました。素晴らしくもなく、ひどくもありません。
+
+昨日の更新の時点で、技術者らが宇宙船のキセノン燃料電気スラスター（本来は軌道上昇を目的としたもの）からの推力をジンバルで回転させて回転を阻止する方法を発見したことがわかった。これらのスラスターにはそれほどのキック力がないため、進みは遅いですが、機能しているようです。私たちはこの問題に注目し、詳細が分かり次第お知らせします。
+
+Katalyst は、将来が不確実なロボット救世主を生産している唯一の企業ではありません。作りたての卵で 1 日を始めるのは楽しいが、卵を作るのに必要なスキルを完全に習得したことがない場合は、効率的なガストロノミック オペレーション ロボット (EGOR) が最適かもしれません。この 400 ドルのカウンタートップ ガジェットは、K…</p><p><img src="https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg" alt="ハッカデイ リンク: 2026 年 8 月 2 日"></p>]]></description><source url="https://hackaday.com/2026/08/02/hackaday-links-august-2-2026/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg"/></item>
 <item><title>私は 1 つの簡単なコマンドを実行することで Windows の起動時間を半分に短縮しました。あなたもそれが可能です</title><link>https://www.xda-developers.com/i-slashed-my-pc-boot-times-in-half-with-this-free-5-minute-hack/</link><guid isPermaLink="true">https://www.xda-developers.com/i-slashed-my-pc-boot-times-in-half-with-this-free-5-minute-hack/</guid><pubDate>Sun, 02 Aug 2026 23:00:10 +0000</pubDate><description><![CDATA[<p>私は 1 つの簡単なコマンドを実行することで Windows の起動時間を半分に短縮しました。あなたもそれが可能です
 
 無料だったので、新しい SSD を購入する必要がありませんでした。
@@ -1307,15 +1347,6 @@ PC ゲーマーの半数以上は 2026 年になっても 1080p を使用して�
 By Abhinav Raj 公開 2026年8月1日午前7時00分（東部夏時間） アビナフは、銀行業界でのキャリアから転向し、初恋を作家として追求した。フルタイムで働きながらも、編集長として貢献を続け、その役割を 7 年以上務めました。生涯テクノロジー愛好家であり、2018 年以来、ゲームと生産性に優れた PC を 3 台開発してきました。テクノロジーへの情熱により、NVIDIA や AMD から ARM に至るまで、半導体業界を常に追い続けています。彼の修士論文では、人工知能が仕事の未来をどのように再構築するかを探求し、新興テクノロジーの広範な社会的影響に対する彼の好奇心を反映しています。 XDA アカウントにサインインする Steam ハードウェア調査は、おそらく消費者市場の現実を示す最も具体的なデータ セットの 1 つです。私が長年この調査を行ってきた中で、多くのことが変わりましたが、1 つのカテゴリーの動きが他のカテゴリーよりも遅いようです。入手可能な最新の 2026 年 6 月調査では、プレーヤーの 51.12% が依然としてプライマリ ディスプレイとして 1080p を実行していると報告されています。これを 3 年前と比較すると、2023 年 9 月には約 61.17% だったので、低下していますが、プラットフォームの半分がまだそこにあるほどゆっくりと低下しています。
 
 ざっと見ただけでは、モニターの価格設定がゲーマーの足を引っ張っており、ユーザーは通常、ディスプレイを最後にアップグレードしているように見えます。少なくとも 1440p モニターの価格動向をチェックするまでは、私もそう思っていました。この理論を無視できるほど数値が低かったため、調査の際…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/09/oled-curved-ultrawide-monitor-wallpaper-engine-hero.jpg?w=1600&amp;h=900&amp;fit=crop" alt="PC ゲーマーの半数以上は 2026 年になっても 1080p を使用していますが、その理由はモニターではありません"></p>]]></description><source url="https://www.xda-developers.com/over-half-of-pc-gamers-are-still-on-1080p-in-2026-and-the-reason-isnt-the-monitors/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/09/oled-curved-ultrawide-monitor-wallpaper-engine-hero.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/09/oled-curved-ultrawide-monitor-wallpaper-engine-hero.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>3D プリントされたサイクロイド ギアボックス設計のテスト</title><link>https://hackaday.com/2026/08/01/testing-a-3d-printed-cycloidal-gearbox-design/</link><guid isPermaLink="true">https://hackaday.com/2026/08/01/testing-a-3d-printed-cycloidal-gearbox-design/</guid><pubDate>Sat, 01 Aug 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>3D プリントされたサイクロイド ギアボックス設計のテスト
-
-サイクロイドギアボックスは、コンパクトなパッケージで期待できるパフォーマンスのため、趣味の分野で繰り返し取り上げられるテーマです。高速入力を取り込んで、それをわずかな速度まで削減することができます。
-
-サイクロイドギアボックスは、コンパクトなパッケージで期待できるパフォーマンスのため、趣味の分野で繰り返し取り上げられるテーマです。高速入力を取り込み、非常に低いバックラッシュで設定比率まで下げることができるため、理論的にはサイズと重量が重要となる幅広いプロジェクトに最適です。これに対応して、[Advanced Hobby Lab] は NEMA 17 ステッピング モーターに適合する 3D プリント デザインを改良してきました。
-
-[Advanced Hobby Lab] の主な目標は、サイクロイド ギアボックスの設計が遊星ギアボックスの代替品よりも実際に改善されているかどうかを確認することでした。 3D プリントされたサイクロイド ドライブは十分に機能しましたが、いくつかのテストでは 92% の効率を含む実際の数値が示されました。ギアボックスもステッピング モーターに多少のノイズを加えますが、3D プリントされた遊星ギアボックスほどではありません。
-
-もちろん、これらはすべて FDM 3D プリントの制限内であり、いくつかの金属部品を使用しているため、常に改善の余地がありますが、趣味の 3D プリント ギアボックスの世界では、これは悪くない結果です。印刷ファイルとプロジェクト ファイルは、困っている人なら誰でも利用できます。もちろん、最近紹介した二重入れ子サイクロイド設計を選択することもできます。これにより、さらにコンパクトになり、部品がさらに減り、よりスムーズな動作が期待できます。</p><p><img src="https://hackaday.com/wp-content/uploads/2026/07/nema_17_cycloidal_drive_advanced_hobby_lab_youtube.jpg" alt="3D プリントされたサイクロイド ギアボックス設計のテスト"></p>]]></description><source url="https://hackaday.com/2026/08/01/testing-a-3d-printed-cycloidal-gearbox-design/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/07/nema_17_cycloidal_drive_advanced_hobby_lab_youtube.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/07/nema_17_cycloidal_drive_advanced_hobby_lab_youtube.jpg"/></item>
 <item><title>ソニー、物理ゲームディスクの販売停止に倍増 - CFOは「慎重に進めていく」と繰り返し</title><link>https://www.tomshardware.com/video-games/playstation/sony-doubles-down-on-axing-physical-game-discs-cfo-reiterates-were-going-to-cautiously-move-this-forward</link><guid isPermaLink="true">https://www.tomshardware.com/video-games/playstation/sony-doubles-down-on-axing-physical-game-discs-cfo-reiterates-were-going-to-cautiously-move-this-forward</guid><pubDate>Sat, 01 Aug 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>ソニー、物理ゲームディスクの販売停止に倍増 - CFOは「慎重に進めていく」と繰り返し
 
 プレイステーションのディスク終了までのカウントダウンが始まる
@@ -1343,6 +1374,15 @@ NexperiaとDRAM危機が悪化する中、チップ不足が自動車業界を�
 タオ氏はさらに、PlayStation ファンや業界の一部から否定的な批判にさらされたデジタル パラダイム シフトの背後にある理論的根拠を説明します。
 
 「一番大きいのは、コンテンツ全体のデジタル化が進んでいるこ…</p><p><img src="https://cdn.mos.cms.futurecdn.net/ehooWGrgPpZW2GDyPXyGp3-2560-80.jpg" alt="ソニー、物理ゲームディスクの販売停止に倍増 - CFOは「慎重に進めていく」と繰り返し"></p>]]></description><source url="https://www.tomshardware.com/video-games/playstation/sony-doubles-down-on-axing-physical-game-discs-cfo-reiterates-were-going-to-cautiously-move-this-forward">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/ehooWGrgPpZW2GDyPXyGp3-2560-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/ehooWGrgPpZW2GDyPXyGp3-2560-80.jpg"/></item>
+<item><title>3D プリントされたサイクロイド ギアボックス設計のテスト</title><link>https://hackaday.com/2026/08/01/testing-a-3d-printed-cycloidal-gearbox-design/</link><guid isPermaLink="true">https://hackaday.com/2026/08/01/testing-a-3d-printed-cycloidal-gearbox-design/</guid><pubDate>Sat, 01 Aug 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>3D プリントされたサイクロイド ギアボックス設計のテスト
+
+サイクロイドギアボックスは、コンパクトなパッケージで期待できるパフォーマンスのため、趣味の分野で繰り返し取り上げられるテーマです。高速入力を取り込んで、それをわずかな速度まで削減することができます。
+
+サイクロイドギアボックスは、コンパクトなパッケージで期待できるパフォーマンスのため、趣味の分野で繰り返し取り上げられるテーマです。高速入力を取り込み、非常に低いバックラッシュで設定比率まで下げることができるため、理論的にはサイズと重量が重要となる幅広いプロジェクトに最適です。これに対応して、[Advanced Hobby Lab] は NEMA 17 ステッピング モーターに適合する 3D プリント デザインを改良してきました。
+
+[Advanced Hobby Lab] の主な目標は、サイクロイド ギアボックスの設計が遊星ギアボックスの代替品よりも実際に改善されているかどうかを確認することでした。 3D プリントされたサイクロイド ドライブは十分に機能しましたが、いくつかのテストでは 92% の効率を含む実際の数値が示されました。ギアボックスもステッピング モーターに多少のノイズを加えますが、3D プリントされた遊星ギアボックスほどではありません。
+
+もちろん、これらはすべて FDM 3D プリントの制限内であり、いくつかの金属部品を使用しているため、常に改善の余地がありますが、趣味の 3D プリント ギアボックスの世界では、これは悪くない結果です。印刷ファイルとプロジェクト ファイルは、困っている人なら誰でも利用できます。もちろん、最近紹介した二重入れ子サイクロイド設計を選択することもできます。これにより、さらにコンパクトになり、部品がさらに減り、よりスムーズな動作が期待できます。</p><p><img src="https://hackaday.com/wp-content/uploads/2026/07/nema_17_cycloidal_drive_advanced_hobby_lab_youtube.jpg" alt="3D プリントされたサイクロイド ギアボックス設計のテスト"></p>]]></description><source url="https://hackaday.com/2026/08/01/testing-a-3d-printed-cycloidal-gearbox-design/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/07/nema_17_cycloidal_drive_advanced_hobby_lab_youtube.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/07/nema_17_cycloidal_drive_advanced_hobby_lab_youtube.jpg"/></item>
 <item><title>Google の新しい自撮りサインイン ツールについて私は間違っていました。今すぐ設定する方法（およびその理由）は次のとおりです</title><link>https://www.androidauthority.com/google-selfie-video-sign-in-how-to-use-3692675/</link><guid isPermaLink="true">https://www.androidauthority.com/google-selfie-video-sign-in-how-to-use-3692675/</guid><pubDate>Sat, 01 Aug 2026 10:30:04 +0000</pubDate><description><![CDATA[<p>Google の新しい自撮りサインイン ツールについて私は間違っていました。今すぐ設定する方法（およびその理由）は次のとおりです
 
 バックアップ コードや回復メールのことは忘れてください。 Google の新しい自撮りサインイン ツールは、アカウントに戻るための最良の方法かもしれません。
@@ -1642,19 +1682,6 @@ MicroBlocks を使用すると、コードをリアルタイムでワイヤレ�
 
 誰かをテクノロジーに興味を持ってもらいたい場合、最善の方法の 1 つは、レゴのセットを作るのと同じくらい簡単になるように、それを細分化することです。それが、この愛らしい小さなロボットの背後にある考え方であり、完成までに 5 年かかりました。パーツを組み合わせるだけで、自分…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/microblocks-robot-featured.jpg?w=1600&amp;h=900&amp;fit=crop" alt="5 年間の作業を経て、リアルタイムでプログラムできるこれらの ESP32 ロボットを構築する準備が整いました。"></p>]]></description><source url="https://www.xda-developers.com/esp32-robots-microblocks/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/microblocks-robot-featured.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/microblocks-robot-featured.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>Sony has secured enough memory to meet PS5 sales targets through March 2027 and says no further price hikes are planned</title><link>https://www.tweaktown.com/rss/click/news/112957/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112957/?c=news-mf</guid><pubDate>Fri, 31 Jul 2026 22:20:10 +0000</pubDate><description><![CDATA[<p>Sony has secured enough memory to meet PS5 sales targets through March 2027 and says no further price hikes are planned</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112957/?c=news-mf">TweakTown</source></item>
-<item><title>Lightroom をオープンソースの代替品に置き換えたところ、Adobe のサブスクリプションが突然無意味に感じられました</title><link>https://www.xda-developers.com/replaced-lightroom-free-open-source-alternative-adobe-subscription-pointless/</link><guid isPermaLink="true">https://www.xda-developers.com/replaced-lightroom-free-open-source-alternative-adobe-subscription-pointless/</guid><pubDate>Fri, 31 Jul 2026 22:00:10 +0000</pubDate><description><![CDATA[<p>Lightroom をオープンソースの代替品に置き換えたところ、Adobe のサブスクリプションが突然無意味に感じられました
-
-オープンソース ソフトウェアが、堅牢な機能セットを提供しながら見た目も使い心地も優れている Lightroom の競合製品である RapidRAW ほど輝けるものはほとんどありません。
-
-Lightroom をオープンソースの代替品に置き換えたところ、Adobe のサブスクリプションが突然無意味に感じられました
-
-By João Carrasqueira 公開 2026 年 7 月 31 日、午後 6 時 EDT João は 7 年以上にわたり、ラップトップと Windows エコシステムに重点を置いてテクノロジーの世界を取材してきました。私はテクノロジーやビデオゲーム全般が大好きで、特に任天堂のことについて彼はいつも喜んで話します。 2021 年に XDA に入社する前は、Neowin で働いていました: https://www.neowin.net/news/poster/jo%C3%A3o-carrasqueira/ XDA アカウントにサインイン Adob​​e の Creative Cloud スイートはクリエイティブ業界を支配しているかもしれませんが、それはさまざまな理由で同社のソフトウェアを捨てようとする人が多くないという意味ではありません。 Lightroom に代わるオープンソースの代替手段は以前から存在していましたが、Darktable や RawTherapee などにはまったく興味が持てず、それでも Adob​​e が必要でした。
-
-それはRapidRAWですべて変わりました。このプロジェクトは公開されてから 1 年ちょっと経ちますが、すでに私のお気に入りの Lightroom の競合製品となっています。高速、最新、軽量です。
-
-Darktable と RawTherapee は違います
-
-RapidRAW ですぐに印象に残るのは、ビジュアル面で最新の Lightroom アプリと実際に互角に渡り合えるインターフェース…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/rapidraw-laptop.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Lightroom をオープンソースの代替品に置き換えたところ、Adobe のサブスクリプションが突然無意味に感じられました"></p>]]></description><source url="https://www.xda-developers.com/replaced-lightroom-free-open-source-alternative-adobe-subscription-pointless/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/rapidraw-laptop.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/rapidraw-laptop.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>技術者ではない友人が実際に使用する生産性向上ツールをついに見つけました</title><link>https://www.xda-developers.com/finally-found-productivity-tool-my-non-technical-friends-will-actually-use/</link><guid isPermaLink="true">https://www.xda-developers.com/finally-found-productivity-tool-my-non-technical-friends-will-actually-use/</guid><pubDate>Fri, 31 Jul 2026 22:00:10 +0000</pubDate><description><![CDATA[<p>技術者ではない友人が実際に使用する生産性向上ツールをついに見つけました
 
 生産性スタック全体ではなく、グループ チャットに代わる生産性ツール
@@ -1668,6 +1695,19 @@ By Nolen Jonker 公開 2026 年 7 月 31 日、午後 6 時 EDT Nolen は 2019 �
 ツールを使用しない人のための共有ページ
 
 Plainspace は、オープンソースの ToDo およびタイムボックス アプリである Super Productivity の背後にあるチームによって構築された、タスク、メモ、アンケート、簡単な計画のための小さな共有ワークスペースです。つまり、生産性向上ソフトウェアをよく知っている人々が作成したものですが、Plainspace 自体は、彼…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/plainspace-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="技術者ではない友人が実際に使用する生産性向上ツールをついに見つけました"></p>]]></description><source url="https://www.xda-developers.com/finally-found-productivity-tool-my-non-technical-friends-will-actually-use/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/plainspace-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/plainspace-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>Lightroom をオープンソースの代替品に置き換えたところ、Adobe のサブスクリプションが突然無意味に感じられました</title><link>https://www.xda-developers.com/replaced-lightroom-free-open-source-alternative-adobe-subscription-pointless/</link><guid isPermaLink="true">https://www.xda-developers.com/replaced-lightroom-free-open-source-alternative-adobe-subscription-pointless/</guid><pubDate>Fri, 31 Jul 2026 22:00:10 +0000</pubDate><description><![CDATA[<p>Lightroom をオープンソースの代替品に置き換えたところ、Adobe のサブスクリプションが突然無意味に感じられました
+
+オープンソース ソフトウェアが、堅牢な機能セットを提供しながら見た目も使い心地も優れている Lightroom の競合製品である RapidRAW ほど輝けるものはほとんどありません。
+
+Lightroom をオープンソースの代替品に置き換えたところ、Adobe のサブスクリプションが突然無意味に感じられました
+
+By João Carrasqueira 公開 2026 年 7 月 31 日、午後 6 時 EDT João は 7 年以上にわたり、ラップトップと Windows エコシステムに重点を置いてテクノロジーの世界を取材してきました。私はテクノロジーやビデオゲーム全般が大好きで、特に任天堂のことについて彼はいつも喜んで話します。 2021 年に XDA に入社する前は、Neowin で働いていました: https://www.neowin.net/news/poster/jo%C3%A3o-carrasqueira/ XDA アカウントにサインイン Adob​​e の Creative Cloud スイートはクリエイティブ業界を支配しているかもしれませんが、それはさまざまな理由で同社のソフトウェアを捨てようとする人が多くないという意味ではありません。 Lightroom に代わるオープンソースの代替手段は以前から存在していましたが、Darktable や RawTherapee などにはまったく興味が持てず、それでも Adob​​e が必要でした。
+
+それはRapidRAWですべて変わりました。このプロジェクトは公開されてから 1 年ちょっと経ちますが、すでに私のお気に入りの Lightroom の競合製品となっています。高速、最新、軽量です。
+
+Darktable と RawTherapee は違います
+
+RapidRAW ですぐに印象に残るのは、ビジュアル面で最新の Lightroom アプリと実際に互角に渡り合えるインターフェース…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/rapidraw-laptop.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Lightroom をオープンソースの代替品に置き換えたところ、Adobe のサブスクリプションが突然無意味に感じられました"></p>]]></description><source url="https://www.xda-developers.com/replaced-lightroom-free-open-source-alternative-adobe-subscription-pointless/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/rapidraw-laptop.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/rapidraw-laptop.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>Amazon、全員に新しい書籍ページの使用を強制</title><link>https://goodereader.com/blog/kindle/amazon-forcing-everyone-to-use-their-new-books-page</link><guid isPermaLink="true">https://goodereader.com/blog/kindle/amazon-forcing-everyone-to-use-their-new-books-page</guid><pubDate>Fri, 31 Jul 2026 21:54:31 +0000</pubDate><description><![CDATA[<p>Amazon、全員に新しい書籍ページの使用を強制
 
 すべての書籍を 1 か所で管理します。 Your Books では、Kindle、Audible、印刷書籍向けにさらに多くのコンテンツ管理オプションが提供されるようになりました。借用したものを返却したり、デバイスに配信したり、新しいコンテンツを発見したりできるようになりました。
@@ -2563,6 +2603,15 @@ Razer、Huntsman V3 HE Magnetic 8KHz で e スポーツ キーボードの範囲
 ジョアン・シルバ 10時間前 キーボード
 
 Razer は、Huntsman V3 HE Magnetic 8KHz ラインを発表し、ホール効果磁気スイッチと真の 8000Hz ポーリングを備えたオプションを増やしてゲーミング キーボードの範囲を拡大しました。テンキーレスおよびミニ 65% フォーム ファクターで利用可能なキーボードには、ブラウザベースのカスタマイズとともに新しい入力コントロールが導入されています。 Razer は、Huntsman V3 HE Magnetic 8KHz シリーズにホール効果磁気スイッチを搭載しており、ユーザーは主要なアクチュエーション ポイントを 0.1 mm ～ 4.0 mm の間で調整できます。このスイッチは、定格 1 億キーストローク寿命に加え、急速な入力中に動的キー リセットを行うラピッド トリガー モードをサポートしています。 Razer は、真の 8,000 Hz ポーリング レートにより、0.1 mm の作動設定で平均レイテンシが 0.60 ミリ秒であると主張しています。ソフトウェア面では、キーボードは、個別のプレスとリリースのコマンドを 1 つのキーに割り当てる Razer Snap Flex などの高度な入力機能をサポートして…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/07/videoframe_2522-732x330.jpg" alt="Razer、Huntsman V3 HE Magnetic 8KHz で e スポーツ キーボードの範囲を拡大"></p>]]></description><source url="https://www.kitguru.net/peripherals/keyboards/joao-silva/razer-expands-esports-keyboard-range-with-huntsman-v3-he-magnetic-8khz/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/07/videoframe_2522-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/07/videoframe_2522-732x330.jpg"/></item>
+<item><title>Claude Code のサブエージェントは 1 つの問題を解決し、他の 3 つの問題を作成します</title><link>https://www.xda-developers.com/claude-codes-sub-agents-solve-one-problem-and-create-three-others/</link><guid isPermaLink="true">https://www.xda-developers.com/claude-codes-sub-agents-solve-one-problem-and-create-three-others/</guid><pubDate>Fri, 31 Jul 2026 14:30:10 +0000</pubDate><description><![CDATA[<p>Claude Code のサブエージェントは 1 つの問題を解決し、他の 3 つの問題を作成します
+
+孤立は与え、孤立は奪います。
+
+Claude Code のサブエージェントは 1 つの問題を解決し、他の 3 つの問題を作成します
+
+By Mahnoor Faisal 公開 2026 年 7 月 31 日、午前 10:30 EDT Mahnoor Faisal は、XDA 、 SlashGear 、 MakeUseOf 、 Laptop Mag 、 Android Police で署名記事を掲載し、AI と生産性向上ツールをカバーするテクノロジー ジャーナリストです。彼女は 16 歳の頃からプロとして執筆活動を行っており、それ以来何百もの記事を執筆してきました。これには、NotebookLM などの AI ツールから AI 分野全体の最新ニュースまでの詳細なカバレッジが含まれます。彼女のテクノロジーに対する情熱は、8 歳の誕生日に最初の iPod Touch (第 4 世代) を受け取ったときに始まり、それ以来テクノロジーの世界に深く関わってきました。現在、コンピューター サイエンスの学位取得を目指しているマフノール氏は、AI が私たちの働き方や学習方法をどのように再構築しているのかを取材する際に、ジャーナリストの目と技術的基礎の両方をもたらしています。 XDA アカウントにサインインします。AI を使用して、これまで言葉でしか説明できなかったものを初めて構築するときは、本当に魔法のように感じます。あなたのビジョンは数分以内にアイデアからコンセプトに移行し、これまでに行ったものよりも速くなります。 AI を使用して を構築するのが 2 回目、3 回目、4 回目、そして 10 回目であっても、同じスピード (そして興奮) が維持されます。しかし。この段階で何かが微妙に変化します。
+
+最初は見落としていた摩擦に気づき始めます。すべてを一度に一歩ずつ行っているからです。 1 つのことを要求し、待って確認してから、次のことを要求します。ここで、サブエージェントが登場します。タ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/claude-code-web-on-macbook-with-spotify-in-background.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="Claude Code のサブエージェントは 1 つの問題を解決し、他の 3 つの問題を作成します"></p>]]></description><source url="https://www.xda-developers.com/claude-codes-sub-agents-solve-one-problem-and-create-three-others/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/claude-code-web-on-macbook-with-spotify-in-background.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/claude-code-web-on-macbook-with-spotify-in-background.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>Pixel のデフォルトのランチャーを Niagara Launcher に置き換えたら、元には戻れません</title><link>https://www.xda-developers.com/replaced-pixels-default-launcher-with-niagara-launcher-cant-go-back/</link><guid isPermaLink="true">https://www.xda-developers.com/replaced-pixels-default-launcher-with-niagara-launcher-cant-go-back/</guid><pubDate>Fri, 31 Jul 2026 14:30:10 +0000</pubDate><description><![CDATA[<p>Pixel のデフォルトのランチャーを Niagara Launcher に置き換えたら、元には戻れません
 
 このランチャーは、それ以上ではなく、より少ない操作で、私の Pixel の使い方を変えました。
@@ -2576,15 +2625,6 @@ Pixel のデフォルトのランチャーを Niagara Launcher に置き換え�
 ほとんどのユーザーがランチャーに求めるものと比較して、私はカスタマイズが目立たず、邪魔にならないホーム画面を備えたツールを探していました。 Niagara Launcher を数か月間使用した結果、もう後戻りはできないと断言できます。
 
 シンプルなホーム画…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/dsc08636.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Pixel のデフォルトのランチャーを Niagara Launcher に置き換えたら、元には戻れません"></p>]]></description><source url="https://www.xda-developers.com/replaced-pixels-default-launcher-with-niagara-launcher-cant-go-back/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/dsc08636.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/dsc08636.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>Claude Code のサブエージェントは 1 つの問題を解決し、他の 3 つの問題を作成します</title><link>https://www.xda-developers.com/claude-codes-sub-agents-solve-one-problem-and-create-three-others/</link><guid isPermaLink="true">https://www.xda-developers.com/claude-codes-sub-agents-solve-one-problem-and-create-three-others/</guid><pubDate>Fri, 31 Jul 2026 14:30:10 +0000</pubDate><description><![CDATA[<p>Claude Code のサブエージェントは 1 つの問題を解決し、他の 3 つの問題を作成します
-
-孤立は与え、孤立は奪います。
-
-Claude Code のサブエージェントは 1 つの問題を解決し、他の 3 つの問題を作成します
-
-By Mahnoor Faisal 公開 2026 年 7 月 31 日、午前 10:30 EDT Mahnoor Faisal は、XDA 、 SlashGear 、 MakeUseOf 、 Laptop Mag 、 Android Police で署名記事を掲載し、AI と生産性向上ツールをカバーするテクノロジー ジャーナリストです。彼女は 16 歳の頃からプロとして執筆活動を行っており、それ以来何百もの記事を執筆してきました。これには、NotebookLM などの AI ツールから AI 分野全体の最新ニュースまでの詳細なカバレッジが含まれます。彼女のテクノロジーに対する情熱は、8 歳の誕生日に最初の iPod Touch (第 4 世代) を受け取ったときに始まり、それ以来テクノロジーの世界に深く関わってきました。現在、コンピューター サイエンスの学位取得を目指しているマフノール氏は、AI が私たちの働き方や学習方法をどのように再構築しているのかを取材する際に、ジャーナリストの目と技術的基礎の両方をもたらしています。 XDA アカウントにサインインします。AI を使用して、これまで言葉でしか説明できなかったものを初めて構築するときは、本当に魔法のように感じます。あなたのビジョンは数分以内にアイデアからコンセプトに移行し、これまでに行ったものよりも速くなります。 AI を使用して を構築するのが 2 回目、3 回目、4 回目、そして 10 回目であっても、同じスピード (そして興奮) が維持されます。しかし。この段階で何かが微妙に変化します。
-
-最初は見落としていた摩擦に気づき始めます。すべてを一度に一歩ずつ行っているからです。 1 つのことを要求し、待って確認してから、次のことを要求します。ここで、サブエージェントが登場します。タ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/claude-code-web-on-macbook-with-spotify-in-background.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="Claude Code のサブエージェントは 1 つの問題を解決し、他の 3 つの問題を作成します"></p>]]></description><source url="https://www.xda-developers.com/claude-codes-sub-agents-solve-one-problem-and-create-three-others/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/claude-code-web-on-macbook-with-spotify-in-background.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/claude-code-web-on-macbook-with-spotify-in-background.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>Galaxy SmartTag 3 のリークは、条件付き (なし) での再設計を示唆しています</title><link>https://www.androidauthority.com/samsung-galaxy-smarttag-3-leak-3693320/</link><guid isPermaLink="true">https://www.androidauthority.com/samsung-galaxy-smarttag-3-leak-3693320/</guid><pubDate>Fri, 31 Jul 2026 14:27:00 +0000</pubDate><description><![CDATA[<p>Galaxy SmartTag 3 のリークは、条件付き (なし) での再設計を示唆しています
 
 Samsung の Galaxy SmartTag 3 は、新しいデザイン、中央に見えるボタン、そして 1 つの驚くべき妥協を特徴とする可能性があります。
@@ -2896,13 +2936,6 @@ EA の長期にわたる買収劇は現在、終結に近づいています。�
 Matthew Wilson 16 時間前 注目の技術ニュース , ソフトウェア &amp; ゲーム
 
 EA の長期にわたる買収劇は現在、終結に近づいています。規制上のハードルをクリアした後、同社は来週には合併が完了し、EAが上場企業としての時代に終止符を打つ見通しであると述べた。今週発表されたSECへの提出文書の中で、EAは、この取引の審査に関与していたすべての規制機関が現在承認済みであることを確認した。 7 月 30 日の時点ですべての承認が得られており、EA は 8 月 4 日の取引終了までに取引を完了する予定です。これは、昨年初めて買収が提案されたときに以前に発表されたスケジュールと一致している。 EAは常に2026年末までに買収をまとめるつもりだったが、英国、EU、米国の規制当局と進行中の交渉により多くの遅れが生じたMicrosoftによるActivision Blizzard買収に比べて、この買収ははるかに精査されておらず、予定より若干早く進んでいる。取引が完了すると、EAはサウジアラビアの公的投資基金を含む民間投資家グループの所有となる。この移行が行われると、EA は上場企業ではなくなり、同社は買収資金として使用されたローンによる負債の返済に活用されることになります。これが EA のゲームの将来にとって正確に何を意味するかはまだ不透明ですが、これまで EA のタイトルが過度に収益化されていたと考えているなら、おそらく次に来るものを気に入らないでしょう。 KitGuru 氏のコメント: 私たちは四半期決算報告を通じて EA の財務内容について聞くことに慣れていますが、EA が再び非公開になった後は、こうした洞察が公になる可能性は低いです。今後、その情報についてはアナリストの推定に頼る必要があります。パトロンに…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2022/05/ealogo800-732x330.jpg" alt="550億ドルのEA買収が来週完了予定"></p>]]></description><source url="https://www.kitguru.net/gaming/matthew-wilson/55b-ea-buyout-to-complete-next-week/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2022/05/ealogo800-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2022/05/ealogo800-732x330.jpg"/></item>
-<item><title>ChatGPT Work を Claude Cowork と対戦させたところ、勝者は予想していた人物ではありませんでした</title><link>https://www.xda-developers.com/put-chatgpt-work-up-against-claude-cowork-result-caught-me-off-guard/</link><guid isPermaLink="true">https://www.xda-developers.com/put-chatgpt-work-up-against-claude-cowork-result-caught-me-off-guard/</guid><pubDate>Fri, 31 Jul 2026 12:00:10 +0000</pubDate><description><![CDATA[<p>ChatGPT Work を Claude Cowork と対戦させたところ、勝者は予想していた人物ではありませんでした
-
-（エージェント）戦争を始めましょう
-
-ChatGPT Work を Claude Cowork と対戦させたところ、勝者は予想していた人物ではありませんでした
-
-Mahnoor Faisal 著 公開 2026 年 7 月 31 日、午前 8:00 EDT Mahnoor Faisal は、XDA 、 SlashGear 、 MakeUseOf 、 Laptop Mag 、 Android Police で署名記事を掲載し、AI と生産性向上ツールをカバーするテクノロジー ジャーナリストです。彼女は 16 歳の頃からプロとして執筆活動を行っており、それ以来何百もの記事を執筆してきました。これには、NotebookLM などの AI ツールから AI 分野全体の最新ニュースまでの詳細なカバレッジが含まれます。彼女のテクノロジーに対する情熱は、8 歳の誕生日に最初の iPod Touch (第 4 世代) を受け取ったときに始まり、それ以来テクノロジーの世界に深く関わってきました。現在、コンピューター サイエンスの学位取得を目指しているマフノール氏は、AI が私たちの働き方や学習方法をどのように再構築しているのかを取材する際に、ジャーナリストの目と技術的基礎の両方をもたらしています。 XDA アカウントにサインイン 2026 年、Samsung 対 Apple の戦争は、現在 AI のトップ 2 名である ChatGPT と Claude が支配する完全に新しい戦争に正式に置き換えられました。前者は私たちが知っている AI ブームの始まりであり、明らかに長い間最有力候補でしたが、最終的には Claude が ChatGPT を信頼していたまさにユーザーの心を掴むことになりました。この変化には、OpenAI x Anthropic x 陸軍省の厄介な物語や、Anthropic が他の誰にも匹敵できないペースで機能をリリースしていたという事実など、多くの要…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/chatgpt-work-vs-claude-cowork-on-macbook-desktop.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="ChatGPT Work を Claude Cowork と対戦させたところ、勝者は予想していた人物ではありませんでした"></p>]]></description><source url="https://www.xda-developers.com/put-chatgpt-work-up-against-claude-cowork-result-caught-me-off-guard/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/chatgpt-work-vs-claude-cowork-on-macbook-desktop.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/chatgpt-work-vs-claude-cowork-on-macbook-desktop.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>ZimaOS と FygoOS は、本当の DIY NAS の戦いがもはや単なる TrueNAS 対 Unraid ではないことを証明します</title><link>https://www.xda-developers.com/zimaos-and-fygoos-prove-the-real-diy-nas-fight-is-no-longer-just-truenas-versus-unraid/</link><guid isPermaLink="true">https://www.xda-developers.com/zimaos-and-fygoos-prove-the-real-diy-nas-fight-is-no-longer-just-truenas-versus-unraid/</guid><pubDate>Fri, 31 Jul 2026 12:00:10 +0000</pubDate><description><![CDATA[<p>ZimaOS と FygoOS は、本当の DIY NAS の戦いがもはや単なる TrueNAS 対 Unraid ではないことを証明します
 
 ストレージ サーバーにインストールできるクールなディストリビューションは TrueNAS と Unraid だけではありません
@@ -2912,6 +2945,13 @@ ZimaOS と FygoOS は、本当の DIY NAS の戦いがもはや単なる TrueNAS
 By Ayush Pande 公開 2026 年 7 月 31 日、午前 8:00 EDT Ayush Pande は、PC ハードウェアおよびゲームのライターです。彼が新しい記事に取り組んでいないときは、頭を PC の中に閉じ込めたり、サーバーのオペレーティング システムをいじったりしているのを見かけることがあります。コンピューティングのほかに、彼の興味には、長い RPG に何時間も費やすこと、協力ゲームで友達に怒鳴りつけること、ギターを練習することなどがあります。 XDA アカウントにサインインする データのアーカイブ、バックアップ、およびファイル共有タスクを強化するための理想的な OS を技術フォーラムで調べてみると、TrueNAS Community Edition (数年前までは Scale と呼ばれていました) と Unraid の間で意見が分かれていることに気づくでしょう。自宅ラボで両方のディストリビューションを使用してみたところ、これらのディストリビューションには、その膨大なファンを正当化するのに十分な機能が詰め込まれていることが確認できました。
 
 しかし、その有用性にもかかわらず、DIY エコシステムにおける唯一の NAS ディストリビューションであるとまでは言えません。過小評価されている王者 OpenMediaVault やコミュニティが作成した XPEnology を脇に置いたとしても、最近、無名だが便利なストレージ サーバー中心のプラットフォームがかなりの数、ホーム ラボ コミュニティで注目を集めていることに気づきました。 ZimaOS…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/fygoos-6.jpg?w=1600&amp;h=900&amp;fit=crop" alt="ZimaOS と FygoOS は、本当の DIY NAS の戦いがもはや単なる TrueNAS 対 Unraid ではないことを証明します"></p>]]></description><source url="https://www.xda-developers.com/zimaos-and-fygoos-prove-the-real-diy-nas-fight-is-no-longer-just-truenas-versus-unraid/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/fygoos-6.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/fygoos-6.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>ChatGPT Work を Claude Cowork と対戦させたところ、勝者は予想していた人物ではありませんでした</title><link>https://www.xda-developers.com/put-chatgpt-work-up-against-claude-cowork-result-caught-me-off-guard/</link><guid isPermaLink="true">https://www.xda-developers.com/put-chatgpt-work-up-against-claude-cowork-result-caught-me-off-guard/</guid><pubDate>Fri, 31 Jul 2026 12:00:10 +0000</pubDate><description><![CDATA[<p>ChatGPT Work を Claude Cowork と対戦させたところ、勝者は予想していた人物ではありませんでした
+
+（エージェント）戦争を始めましょう
+
+ChatGPT Work を Claude Cowork と対戦させたところ、勝者は予想していた人物ではありませんでした
+
+Mahnoor Faisal 著 公開 2026 年 7 月 31 日、午前 8:00 EDT Mahnoor Faisal は、XDA 、 SlashGear 、 MakeUseOf 、 Laptop Mag 、 Android Police で署名記事を掲載し、AI と生産性向上ツールをカバーするテクノロジー ジャーナリストです。彼女は 16 歳の頃からプロとして執筆活動を行っており、それ以来何百もの記事を執筆してきました。これには、NotebookLM などの AI ツールから AI 分野全体の最新ニュースまでの詳細なカバレッジが含まれます。彼女のテクノロジーに対する情熱は、8 歳の誕生日に最初の iPod Touch (第 4 世代) を受け取ったときに始まり、それ以来テクノロジーの世界に深く関わってきました。現在、コンピューター サイエンスの学位取得を目指しているマフノール氏は、AI が私たちの働き方や学習方法をどのように再構築しているのかを取材する際に、ジャーナリストの目と技術的基礎の両方をもたらしています。 XDA アカウントにサインイン 2026 年、Samsung 対 Apple の戦争は、現在 AI のトップ 2 名である ChatGPT と Claude が支配する完全に新しい戦争に正式に置き換えられました。前者は私たちが知っている AI ブームの始まりであり、明らかに長い間最有力候補でしたが、最終的には Claude が ChatGPT を信頼していたまさにユーザーの心を掴むことになりました。この変化には、OpenAI x Anthropic x 陸軍省の厄介な物語や、Anthropic が他の誰にも匹敵できないペースで機能をリリースしていたという事実など、多くの要…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/chatgpt-work-vs-claude-cowork-on-macbook-desktop.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="ChatGPT Work を Claude Cowork と対戦させたところ、勝者は予想していた人物ではありませんでした"></p>]]></description><source url="https://www.xda-developers.com/put-chatgpt-work-up-against-claude-cowork-result-caught-me-off-guard/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/chatgpt-work-vs-claude-cowork-on-macbook-desktop.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/chatgpt-work-vs-claude-cowork-on-macbook-desktop.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>新しいオープンソース プリンタには、5 秒で交換できる 7 つのツールヘッドがあり、高速で無駄のないマルチカラー 3D 印刷が可能です。Sovol M1D 3D プリンタは、ツールチェンジャが統合された初のオープンソース IDEX 設計です。</title><link>https://www.tomshardware.com/3d-printing/sovol-m1d-3d-printer-is-the-first-open-source-idex-design-with-an-integrated-tool-changer-seven-heads-for-quick-swapping-materials-with-two-fully-independent-nozzles</link><guid isPermaLink="true">https://www.tomshardware.com/3d-printing/sovol-m1d-3d-printer-is-the-first-open-source-idex-design-with-an-integrated-tool-changer-seven-heads-for-quick-swapping-materials-with-two-fully-independent-nozzles</guid><pubDate>Fri, 31 Jul 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>新しいオープンソース プリンタには、5 秒で交換できる 7 つのツールヘッドがあり、高速で無駄のないマルチカラー 3D 印刷が可能です。Sovol M1D 3D プリンタは、ツールチェンジャが統合された初のオープンソース IDEX 設計です。
 
 真のデュアルノズル独立動作を競争力のある価格で実現します。
@@ -6137,60 +6177,4 @@ Google が新しい Pixel 11 シリーズを発表する 8 月 12 日まで、�
 Google は、新しい Pixel 11 Pro ティーザー ビデオを YouTube とそのソーシャル チャンネルに投稿しました。
 
 このスポットでのメッセージは非常に単純で、他のスマートフォン ブランドから Pixel 11 への移行を考えている買い物客をターゲットにしてい…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/07/pixel-11-pro-glow-teaser.jpg" alt="Google、最新の Pixel 11 Pro ティーザーで Pixel Glow を前面と中央に配置"></p>]]></description><source url="https://www.androidauthority.com/pixel-11-pro-glow-teaser-3692525/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/07/pixel-11-pro-glow-teaser.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/07/pixel-11-pro-glow-teaser.jpg"/></item>
-<item><title>Gamers are more interested in remakes than new games, says analyst</title><link>https://www.tweaktown.com/rss/click/news/112907/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112907/?c=news-mf</guid><pubDate>Wed, 29 Jul 2026 18:10:10 +0000</pubDate><description><![CDATA[<p>Gamers are more interested in remakes than new games, says analyst</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112907/?c=news-mf">TweakTown</source></item>
-<item><title>Googleの「プライバシー保護」年齢確認システムがPlayストアに登場</title><link>https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/</link><guid isPermaLink="true">https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/</guid><pubDate>Wed, 29 Jul 2026 18:08:22 +0000</pubDate><description><![CDATA[<p>Googleの「プライバシー保護」年齢確認システムがPlayストアに登場
-
-Google の新しい API は、ファミリー リンクでの年齢範囲の設定を保護者に依存しています。
-
-テキスト設定 ストーリーテキスト サイズ 小 標準 大 幅 * 標準 幅広 リンク 標準 オレンジ * 購読者のみ 詳細はこちら ナビゲーションを最小限に抑える 世界中の政府が、オンラインでの年齢確認要件に突然非常に熱心になっています。一部の地域では、これはアダルト コンテンツにアクセスするための ID 要件の形をとっていますが、米国のいくつかの州もアプリ ストアに重点を置いています。これらの法律の発効に伴い、Google はベータ版 Play Age Signals API の拡張を発表し、開発者がプライバシーを侵害することなくユーザーの年齢を確認できるようになると主張しています。
-
-Google のシステムは ID や自撮り写真による認証を必要とせず、同社の既存のファミリー リンク アプリに接続されています。親が子供の管理アカウントの年齢範囲を設定するという考えです。たとえば、16 ～ 17 のような範囲を設定すると、アプリがティーンエイジャー向けにエクスペリエンスやコンテンツを調整できるようになります。
-
-Googleは、この範囲は動的であり、若いユーザーが年齢を重ねるにつれて変化する可能性があると述べています。したがって、13 歳の子供は、次のレベルに到達するまでの数年間、同じアプリ コンテンツの枠に留まる可能性があります。保護者は、子供が Google Play でアクセスできる内容をさらに制御したい場合、これらの範囲を設定して共有するオプションがあります。ただし、お子様のアカウントには必須ではありません。完全にオプトインされており、いつでもオフにすることができます。
-
-複数の州がアプリストアに年齢確認の義務を課す予定であることが明らかになったことから、Googleは昨年末にPlay Age Signals APIのテストを開始した。ハイテク企業に代わってロビー活動を行っているコンピュ…</p><p><img src="https://cdn.arstechnica.net/wp-content/uploads/2024/05/google-play-store-1152x648.jpg" alt="Googleの「プライバシー保護」年齢確認システムがPlayストアに登場"></p>]]></description><source url="https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/">Ars Technica Gear &amp; Gadgets</source><media:content url="https://cdn.arstechnica.net/wp-content/uploads/2024/05/google-play-store-1152x648.jpg" medium="image"/><media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2024/05/google-play-store-1152x648.jpg"/></item>
-<item><title>Microsoftは、Xboxの停止中に物理ディスクの動作が停止するはずはなかったと述べている - ライセンスを正しく読み取れなかった権利チェックの問題を明らかにし、途中でアップデートを行う</title><link>https://www.tomshardware.com/video-games/xbox/microsoft-says-physical-discs-should-not-have-stopped-working-during-the-xbox-outage-clarifies-issue-with-entitlement-checks-that-failed-to-read-licenses-correctly-update-on-the-way</link><guid isPermaLink="true">https://www.tomshardware.com/video-games/xbox/microsoft-says-physical-discs-should-not-have-stopped-working-during-the-xbox-outage-clarifies-issue-with-entitlement-checks-that-failed-to-read-licenses-correctly-update-on-the-way</guid><pubDate>Wed, 29 Jul 2026 18:05:17 +0000</pubDate><description><![CDATA[<p>Microsoftは、Xboxの停止中に物理ディスクの動作が停止するはずはなかったと述べている - ライセンスを正しく読み取れなかった権利チェックの問題を明らかにし、途中でアップデートを行う
-
-ディスクをオフラインで再生できるはずです。
-
-Microsoftは、Xboxの停止中に物理ディスクの動作が停止するはずはなかったと述べている - ライセンスを正しく読み取れなかった権利チェックの問題を明らかにし、途中でアップデートを行う
-
-ディスクをオフラインで再生できるはずです。
-
-(画像クレジット: Microsoft) リンクをコピー
-
-0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 最近 Xbox 本体で世界的な障害が発生し、オフラインでプレイできるはずのディスクベースのゲームにもアクセスできなくなりました。サービスは 1 日以内に復旧しましたが、物理メディアの崩壊した状態を巡る緊張が高まっているため、この発見の影響は重大になる可能性があります。しかし、Microsoft はすぐに否定的な PR を抑制し、そもそもディスクが障害の影響を受けるはずがなかったと The Verge に伝えました。
-
-中国の最新のレアアース輸出規制について説明
-
-ワシントンの新しい AI アクセラレータ輸出規則を分析する
-
-米政府、TSMCへの関税免除を計画
-
-Nvidia は、この地域における CUDA の将来を確保するために中国の市場シェアを望んでいます
-
-「ディスクベースの資格チェックによってプレーヤーがゲームにアクセスすることが妨げられるべきではなく、これは仕様によるものです」とマイクロソフトの技術責任者スコット・ヴァン・ブリエット氏は述べた。同氏は続けて、ディスクは権利を確認するという形でライセンスチェックを受けていることを確認した。これらの資格は、コンソールに直接保存されるため、ユーザーがオフラインのときも含めてアクセスできるコンテンツを決定します。 Van Vliet 氏は、ゲーム機が「停止中に保存されている権利…</p><p><img src="https://cdn.mos.cms.futurecdn.net/mFKpufMPUKRTroyPTjZEZA-1920-80.png" alt="Microsoftは、Xboxの停止中に物理ディスクの動作が停止するはずはなかったと述べている - ライセンスを正しく読み取れなかった権利チェックの問題を明らかにし、途中でアップデートを行う"></p>]]></description><source url="https://www.tomshardware.com/video-games/xbox/microsoft-says-physical-discs-should-not-have-stopped-working-during-the-xbox-outage-clarifies-issue-with-entitlement-checks-that-failed-to-read-licenses-correctly-update-on-the-way">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/mFKpufMPUKRTroyPTjZEZA-1920-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/mFKpufMPUKRTroyPTjZEZA-1920-80.png"/></item>
-<item><title>FLOSS Weekly エピソード 877: サービスとしての RCE</title><link>https://hackaday.com/2026/07/29/floss-weekly-episode-877-rce-as-a-service/</link><guid isPermaLink="true">https://hackaday.com/2026/07/29/floss-weekly-episode-877-rce-as-a-service/</guid><pubDate>Wed, 29 Jul 2026 18:00:57 +0000</pubDate><description><![CDATA[<p>FLOSS Weekly エピソード 877: サービスとしての RCE
-
-今週、ジョナサンはフランソワ・プルクスとスモークミートについて話します!これは、Boost Security が提供する 3 つのオープンソース セキュリティ ツールのうちの 3 つ目であり、これはデモを行うためのレッド チーム ツールです。
-
-今週、ジョナサンはフランソワ・プルクスとスモークミートについて話します!これは、Boost Security が提供する 3 つのオープンソース セキュリティ ツールの 3 番目であり、脆弱性を実証するためのレッド チーム ツールです。継続的インテグレーションの脆弱性はなぜこれほど根深い問題なのでしょうか?また、今後何が役立つ可能性があるのでしょうか?見てください！
-
-https://github.com/boostsecurityio/poutine
-
-https://github.com/boostsecurityio/bagel
-
-https://github.com/boostsecurityio/smokedmeat
-
-YouTube チャンネルで番組のライブ録画を視聴できることをご存知ですか?インタビューしてほしい人はいますか？お知らせいただくか、ゲストにご連絡ください。ここでスケジュールをご覧ください。
-
-DRM フリーの MP3 で直接ダウンロード。
-
-一緒に読みたい方は、今週のエピソードの書き起こしをご覧ください。
-
-FLOSS ウィークリー ポッドキャストをフォローできる場所:
-
-テーマ音楽：「Newer Wave」Kevin MacLeod (incompetech.com)
-
-クリエイティブ コモンズに基づいてライセンス: 表示 4.0 ライセンスにより</p><p><img src="https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg" alt="FLOSS Weekly エピソード 877: サービスとしての RCE"></p>]]></description><source url="https://hackaday.com/2026/07/29/floss-weekly-episode-877-rce-as-a-service/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg"/></item>
 </channel></rss>
