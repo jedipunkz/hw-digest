@@ -1,6 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Tue, 04 Aug 2026 21:35:32 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Tue, 04 Aug 2026 23:17:46 +0000</lastBuildDate>
+<item><title>航空機気象レーダーの分解 アビオニクス</title><link>https://hackaday.com/2026/08/04/tearing-down-aircraft-weather-radar-avionics/</link><guid isPermaLink="true">https://hackaday.com/2026/08/04/tearing-down-aircraft-weather-radar-avionics/</guid><pubDate>Tue, 04 Aug 2026 23:00:52 +0000</pubDate><description><![CDATA[<p>航空機気象レーダーの分解 アビオニクス
+
+空高く飛んでいる場合、前途に乱気流、大雨、その他の悪天候が発生するかどうかを知っておくと便利です。搭載気象レーダーは、パイロットが監視に使用する便利なツールです。
+
+空高く飛んでいる場合、前途に乱気流、大雨、その他の悪天候が発生するかどうかを知っておくと便利です。搭載気象レーダーは、パイロットが前方の状況を把握するために使用する便利なツールです。 [トーマス・シェラー] はビンテージ航空機の気象レーダー ディスプレイを入手し、私たちが鑑賞するためにそれを分解することにしました。
+
+問題のユニットは、Bendix PPI-1 平面位置インジケーターです。この特定の 1971 年の例は、McDonnell-Douglas DC9 からスコア付けされました。 [トーマス] にはディスプレイ自体しかなく、ディスプレイに信号を供給するレーダーやディスプレイをオンにする電源はありません。それでも、読み出しユニットだけでも、内部を見るのは非常に興味深いです。すぐにわかるように、前面にはきちんとした調光フィルターがあり、ケース自体は非常に美しくデザインされています。デザインは非常に当時のもので、きちんとしたワイヤー ハーネスと分厚いスルーホール コンポーネントが満載です。中には、三角柱のような形をした興味深い装置など、素敵なサプライズもいくつかあります。その目的についてはここではネタバレしません。
+
+これらのユニットが実際にどのように動作しているか知りたい場合は、そのような例を YouTube で見ることができます。ディスプレイは基本的に、強いレーダー反射があった地域で点灯し、天候を避けるべきであることを示します。
+
+私たちはこれらのパーツ周辺のレーダーが大好きで、常に取り上げています。休憩後の動画。</p><p><img src="https://hackaday.com/wp-content/uploads/2026/07/AE-Radio-DC9-plane-weather-radar-1971-avionics-teardown-0-40-screenshot-1.png" alt="航空機気象レーダーの分解 アビオニクス"></p>]]></description><source url="https://hackaday.com/2026/08/04/tearing-down-aircraft-weather-radar-avionics/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/07/AE-Radio-DC9-plane-weather-radar-1971-avionics-teardown-0-40-screenshot-1.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/07/AE-Radio-DC9-plane-weather-radar-1971-avionics-teardown-0-40-screenshot-1.png"/></item>
+<item><title>トランスコーディングは誰もが間違える部分ですが、通常は思ったよりも安価な GPU で修正できます。</title><link>https://www.xda-developers.com/everyone-gets-transcodingwrong-and-the-fix-is-a-cheap-gpu/</link><guid isPermaLink="true">https://www.xda-developers.com/everyone-gets-transcodingwrong-and-the-fix-is-a-cheap-gpu/</guid><pubDate>Tue, 04 Aug 2026 23:00:10 +0000</pubDate><description><![CDATA[<p>トランスコーディングは誰もが間違える部分ですが、通常は思ったよりも安価な GPU で修正できます。
+
+あなたはだめです
+
+トランスコーディングは誰もが間違える部分ですが、通常は思ったよりも安価な GPU で修正できます。
+
+文：Samarveer Singh 公開 2026 年 8 月 4 日、午後 7 時 EDT ゲームは、Samarveer の最大の情熱であり、文学を卒業した彼は、ゲームのテーマ、メッセージ、影響を分析することに大きな喜びを感じています。 Samarveer はゲームを深く評価しており、このプラットフォームがすべてのメディアの中で最も没入型で影響力のあるプラットフォームであると考えています。彼はオンラインのゲーム コミュニティに積極的に参加しており、レイ トレーシングの細かい点についていつでも議論する用意ができており、感情的に影響を与えたゲームについて 8 ページの大学論文を書きたくてウズウズしていることもあります。 XDA アカウントにサインインする
+
+Jellyfin ライブ トランスコーディングの場合、NVENC を搭載した中古の Nvidia GPU は、高価な CPU/プラットフォームのアップグレードに勝ります。
+
+RTX 2070 Super のような Turing カードは、高速 H.264/H.265 リアルタイム トランスコーディングと空き CPU サイクルを実行します。
+
+プラットフォームを再構築する前に一時停止します。サーバーのボトルネックを特定し、作業を行っている部分をアップグレードします。
+
+Jellyfin サーバーを構築したことのある人は誰でも、最終的には同じ岐路に達します。数人の友人がリモートでストリーミングを開始し、誰かが元のビデオ形式を処理できないデバイスでファイルを再生しようとします。それが「楽な」サーバーに汗をかき始めさせ、より高速な Ryzen プロセッサ、新しいマザーボード、さらにはメモリのアップグレードを接続することを本能的に考えるのです。これらのアップグレードは以前ほど簡単ではありませんが、それでも私が…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/nvidia-gtx-760-and-rtx-2070-super-with-jellyfin-server.jpg?w=1600&amp;h=900&amp;fit=crop" alt="トランスコーディングは誰もが間違える部分ですが、通常は思ったよりも安価な GPU で修正できます。"></p>]]></description><source url="https://www.xda-developers.com/everyone-gets-transcodingwrong-and-the-fix-is-a-cheap-gpu/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/nvidia-gtx-760-and-rtx-2070-super-with-jellyfin-server.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/nvidia-gtx-760-and-rtx-2070-super-with-jellyfin-server.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>Battlefield 6 Season 4 update fixes RTX 50 series crashing without requiring an NVIDIA driver update</title><link>https://www.tweaktown.com/rss/click/news/112995/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112995/?c=news-mf</guid><pubDate>Tue, 04 Aug 2026 22:30:11 +0000</pubDate><description><![CDATA[<p>Battlefield 6 Season 4 update fixes RTX 50 series crashing without requiring an NVIDIA driver update</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112995/?c=news-mf">TweakTown</source></item>
+<item><title>Assassin&#39;s Creed Black Flag Resynced&#39;s new update will let you hide Edward&#39;s blowpipe</title><link>https://www.tweaktown.com/rss/click/news/113000/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113000/?c=news-mf</guid><pubDate>Tue, 04 Aug 2026 22:10:11 +0000</pubDate><description><![CDATA[<p>Assassin&#39;s Creed Black Flag Resynced&#39;s new update will let you hide Edward&#39;s blowpipe</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113000/?c=news-mf">TweakTown</source></item>
+<item><title>AMDはデータセンターの収益を前年比で2倍にしたが、ゲーム収益は31％急落 — CEOのリサ・スー氏は、価格が消費者の需要を「圧迫」しているが、顧客市場については「楽観的」であると述べた</title><link>https://www.tomshardware.com/tech-industry/amd-doubles-data-center-revenue-year-over-year-but-gaming-revenue-plunged-by-31-percent-ceo-lisa-su-says-prices-have-weighed-on-consumer-demand-but-is-optimistic-about-client-market</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/amd-doubles-data-center-revenue-year-over-year-but-gaming-revenue-plunged-by-31-percent-ceo-lisa-su-says-prices-have-weighed-on-consumer-demand-but-is-optimistic-about-client-market</guid><pubDate>Tue, 04 Aug 2026 22:03:07 +0000</pubDate><description><![CDATA[<p>AMDはデータセンターの収益を前年比で2倍にしたが、ゲーム収益は31％急落 — CEOのリサ・スー氏は、価格が消費者の需要を「圧迫」しているが、顧客市場については「楽観的」であると述べた
+
+AMDは、データセンターが成長し続ける一方で、ゲームは減少し続けるだろうと述べています。
+
+AMDはデータセンターの収益を前年比で2倍にしたが、ゲーム収益は31％急落 — CEOのリサ・スー氏は、価格が消費者の需要を「圧迫」しているが、顧客市場については「楽観的」であると述べた
+
+AMDは、データセンターが成長し続ける一方で、ゲームは減少し続けるだろうと述べています。
+
+(画像クレジット: Getty Images) リンクをコピー
+
+2 会話に参加してください フォローしてください Google ニュースレターの優先ソースとして追加してください ニュースレターを購読してください AMD の 2026 年第 2 四半期決算では、ビジネス全体で記録的な収益が示されていますが、ゲームがそのパイ全体に占める貢献はますます少なくなっています。全体として、AMD の第 2 四半期の収益は 115 億ドルで、前年比 50% 増、前四半期比 13% 増でした。しかし、AMDのプレスリリースによると、AMDのゲーム部門では、「セミカスタム収入の減少」により、売上高は7億7,900万ドルとなり、前年比31%減となったという。
+
+Ryzen がトップへ: AMD がゲーム CPU 市場でどのように革新したか
+
+ARM はどのように PC に導入されているのか
+
+AMD CES 2026 ゲーム トレンドのプレス Q&amp;A ラウンドテーブルの記録
+
+これは新しい話ではありません。AMD は、ゲーム収益の減少の原動力としてコンソールのライフサイクルの後期段階を継続的に指摘してきました。しかし、最高経営責任者（CEO）のリサ・スー氏は、部品コストの上昇により収益が減少しているとも述べた。 「業界全体のコンポーネントコストの上昇がグラフィックスカード価格の上昇に寄与し、全体の需要を圧迫したため、ゲーム用グラフィッ…</p><p><img src="https://cdn.mos.cms.futurecdn.net/pAi4uHF9wB3xhB6vcJpS9i-2560-80.jpg" alt="AMDはデータセンターの収益を前年比で2倍にしたが、ゲーム収益は31％急落 — CEOのリサ・スー氏は、価格が消費者の需要を「圧迫」しているが、顧客市場については「楽観的」であると述べた"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/amd-doubles-data-center-revenue-year-over-year-but-gaming-revenue-plunged-by-31-percent-ceo-lisa-su-says-prices-have-weighed-on-consumer-demand-but-is-optimistic-about-client-market">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/pAi4uHF9wB3xhB6vcJpS9i-2560-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/pAi4uHF9wB3xhB6vcJpS9i-2560-80.jpg"/></item>
+<item><title>同じドキュメントに対して 3 つの自己ホスト型クロードの代替案を試しましたが、1 つは他のものを破棄しました</title><link>https://www.xda-developers.com/tried-self-hosted-claude-alternatives-on-same-documents-one-crushed-the-others/</link><guid isPermaLink="true">https://www.xda-developers.com/tried-self-hosted-claude-alternatives-on-same-documents-one-crushed-the-others/</guid><pubDate>Tue, 04 Aug 2026 22:00:10 +0000</pubDate><description><![CDATA[<p>同じドキュメントに対して 3 つの自己ホスト型クロードの代替案を試しましたが、1 つは他のものを破棄しました
+
+作業を行う場合、モデルよりもツール自体が重要です。
+
+同じドキュメントに対して 3 つの自己ホスト型クロードの代替案を試しましたが、1 つは他のものを破棄しました
+
+By Nolen Jonker 公開 2026 年 8 月 4 日、午後 6 時 EDT Nolen は 2019 年に執筆活動を開始し、3 年間 MakeUseOf のクリエイティブ セクションの編集に専念しました。彼らの専門知識はテクノロジーと創造性の交差点にあり、写真、ビデオ編集、グラフィック デザインなどの分野をカバーしています。仕事以外では、ノーレンが良い本を読んだり、自分の物語を書いたり、ビデオ ゲームをしたりしているのをよく見かけます。 XDA アカウントにサインインする 最近の私のワークフローのほとんどにおいて、ドキュメント チャットは交渉の余地のない部分です。はい、NotebookLM は依然としてこの部門で王位を保持していますが、それは私が授業に真剣に取り組んでいる場合に限られます。他のすべてのドキュメントでは、デフォルトで毎日使用する AI、Claude を使用します。ただし、結局のところ、Claude は依然としてクラウド ツールであるため、単に渡すことに抵抗のあるドキュメントがいくつかあることを意味します。
+
+ここで自己ホスト型ツールが活躍します。ローカルのドキュメント作業では、ほとんどの場合、LM Studio ですべてのオープン ウェイトを実行するため、デフォルトで LM Studio を使用します。しかし、他にも何百万もの自己ホスト型オプションが登場しており、それらを素通りして「LM Studio を使えばいい」と言うのはフェアではありません。そこで、同じ密度の高いドキュメントに対して、Cherry Studio、Jan AI、AnythingLLM という 3 つの自己ホスト型 AI ツールを互いに比較させました。彼らがやった方法は次のとおりです…
+
+AI の最新…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/cherry-studio-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="同じドキュメントに対して 3 つの自己ホスト型クロードの代替案を試しましたが、1 つは他のものを破棄しました"></p>]]></description><source url="https://www.xda-developers.com/tried-self-hosted-claude-alternatives-on-same-documents-one-crushed-the-others/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/cherry-studio-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/cherry-studio-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>あなたの古い PC が Bluetooth 5.4 を 7 ドルで手に入れました</title><link>https://www.xda-developers.com/ugreen-bluetooth-54-usb-adapter-7-deal/</link><guid isPermaLink="true">https://www.xda-developers.com/ugreen-bluetooth-54-usb-adapter-7-deal/</guid><pubDate>Tue, 04 Aug 2026 21:40:38 +0000</pubDate><description><![CDATA[<p>あなたの古い PC が Bluetooth 5.4 を 7 ドルで手に入れました
+
+Windows 8.1以降のプラグアンドプレイ
+
+あなたの古い PC が Bluetooth 5.4 を 7 ドルで手に入れました
+
+クレジット: UGREEN By Timi Cantisano 公開 2026 年 8 月 4 日、午後 5 時 40 分 EDT Timi は 10 年以上にわたり、スマートフォン、コンピューター、およびテクノロジー分野で興味深いと思うあらゆるものに焦点を当ててテクノロジーについて執筆してきました。彼は XDA に執筆を開始し、モバイルに関するあらゆることをカバーしていましたが、インターネット上で最高のハイテク製品の最高の割引を明らかにすることを使命として、取引をカバーすることに移行しました。 XDA アカウントにサインインする 煩雑なケーブルから離れたい場合は、Bluetooth が最適な方法の 1 つです。このテクノロジーを使用して、重要なアクセサリを接続したり、ファイルを転送したり、オーディオを聴いたりすることができます。古い PC またはラップトップをお持ちの場合は、Bluetooth のアップグレードが必要になる可能性がかなり高くなります。この Ugreen Bluetooth 5.4 USB ドングルは完璧なソリューションで、Amazon での 33% 割引のおかげで、価格は現在わずか 7 ドルです。
+
+Ugreen Bluetooth 5.4 USB ドングルの優れている点は何ですか?
+
+クレジット: Ugreen Bluetooth 5.4 は以前のテクノロジーからの反復アップデートですが、以前のバージョンと比較して速度の向上、接続性の向上、セキュリティの強化を実現しています。また、電力効率も向上するため、バッテリー残量が不足している場合には大きな問題となる可能性があります。
+
+この Ugreen モデルでは、最大 5 つの異なるデバイスを同時に接続できるため、ケーブルの煩雑さを簡単に整理できます。 Bluetooth を使用するときに人…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/copy-of-169-2.jpg?w=1600&amp;h=900&amp;fit=crop" alt="あなたの古い PC が Bluetooth 5.4 を 7 ドルで手に入れました"></p>]]></description><source url="https://www.xda-developers.com/ugreen-bluetooth-54-usb-adapter-7-deal/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/copy-of-169-2.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/copy-of-169-2.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>これらの Motorola スマートフォンは Android 17 ベータ版の次のラインナップです</title><link>https://www.androidauthority.com/motorola-android-17-beta-expands-razr-moto-g-3694611/</link><guid isPermaLink="true">https://www.androidauthority.com/motorola-android-17-beta-expands-razr-moto-g-3694611/</guid><pubDate>Tue, 04 Aug 2026 21:38:00 +0000</pubDate><description><![CDATA[<p>これらの Motorola スマートフォンは Android 17 ベータ版の次のラインナップです
+
+Motorola は、Android 17 ベータ版をより多くの Razr、Edge、および Moto G スマートフォンに拡張しましたが、利用できるテスト場所は限られています。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+これらの Motorola スマートフォンは Android 17 ベータ版の次のラインナップです
+
+0 • Stephen Radochia / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Motorola は、より多くの Razr、Edge、および Moto G スマートフォンに Android 17 ベータ テストを公開しました。
+
+Motorola の以前のベータ ビルドでは、新しいコントロール、ロック画面の時計、ライブ アップデートなどの UI の変更が提案されていました。
+
+登録は制限されており、コミュニティ フォーラムを通じて Motorola Feedback Network に参加する必要があります。
+
+Android 17 はすでに Pixel スマートフォンで数週間前から利用可能になっていますが、他の Android デバイスの所有者は依然としてメーカーが追いつくのを待っています。 Motorola はこの面で進歩しており、Android 17 ベータ版を Razr、Edge、および Moto G フォンのより幅広い選択に公開しています。
+
+Nokiamob は、Motorola のコミュニティ フォーラムで新しいテストの機会を発見しました。対象となる携帯電話には、Razr 70 Plus、Razr Plus 2026、Edge 70 シリーズ、Moto G Power 2025 および 2026、Moto G 2025 および 2026、および Moto …</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/07/Motorola-Razr-2026-folded-in-hand-scaled.jpg" alt="これらの Motorola スマートフォンは Android 17 ベータ版の次のラインナップです"></p>]]></description><source url="https://www.androidauthority.com/motorola-android-17-beta-expands-razr-moto-g-3694611/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/07/Motorola-Razr-2026-folded-in-hand-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/07/Motorola-Razr-2026-folded-in-hand-scaled.jpg"/></item>
 <item><title>モニターの HDMI 2.1 ポートは何ができるかについて嘘をついていますが、それはすべて完全に合法です</title><link>https://www.xda-developers.com/monitor-hdmi-2-1-lying-to-you-legally/</link><guid isPermaLink="true">https://www.xda-developers.com/monitor-hdmi-2-1-lying-to-you-legally/</guid><pubDate>Tue, 04 Aug 2026 21:30:10 +0000</pubDate><description><![CDATA[<p>モニターの HDMI 2.1 ポートは何ができるかについて嘘をついていますが、それはすべて完全に合法です
 
 HDMI 2.1 ラベルは無意味になり、ボールは
@@ -142,6 +230,16 @@ Lenovo ThinkPad X1 Carbon Gen 14 外付けハードウェアの概要
 
 さまざまな強化方法をテストするために、[MagicLAG] はフックを印刷し、ロードセル上で破損するまで引っ張りました。一本鎖ファイバーを使用した方法ではいずれも改善が見られませんでした。ファイバーが曲がって周囲のプラスチックが壊れるだけです。表皮布パーツのコントロールとして、シェルとコアを印刷し、それらをエポキシで接着しました。これらの制御は標準部品よりも優れたパフォーマンスを発揮しましたが、カーボンファイバークロス複合材ほどではありませんでした。わずか数層の生地で、基本的なフ…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/carbon_fiber_epidermis.png" alt="カーボンファイバー表皮で 3D プリントを強化"></p>]]></description><source url="https://hackaday.com/2026/08/04/strengthening-3d-prints-with-a-carbon-fiber-epidermis/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/carbon_fiber_epidermis.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/carbon_fiber_epidermis.png"/></item>
 <item><title>GIGABYTE, ASUS, and MSI plan to raise motherboard prices by at least 50% in Q3 2026</title><link>https://www.tweaktown.com/rss/click/news/112999/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112999/?c=news-mf</guid><pubDate>Tue, 04 Aug 2026 20:00:11 +0000</pubDate><description><![CDATA[<p>GIGABYTE, ASUS, and MSI plan to raise motherboard prices by at least 50% in Q3 2026</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112999/?c=news-mf">TweakTown</source></item>
+<item><title>私のスマートホームで最も安価なものは、他のすべてを組み合わせたよりも多くの仕事をします</title><link>https://www.xda-developers.com/cheapest-thing-in-smart-home-does-more-work-than-everything-else-combined/</link><guid isPermaLink="true">https://www.xda-developers.com/cheapest-thing-in-smart-home-does-more-work-than-everything-else-combined/</guid><pubDate>Tue, 04 Aug 2026 20:00:10 +0000</pubDate><description><![CDATA[<p>私のスマートホームで最も安価なものは、他のすべてを組み合わせたよりも多くの仕事をします
+
+エネルギー監視スマート プラグは、密かにすべてのスマート ホームのバックボーンです。
+
+私のスマートホームで最も安価なものは、他のすべてを組み合わせたよりも多くの仕事をします
+
+By Jasmine Mannan 公開 2026 年 8 月 4 日、午後 4:00 EDT Jasmine は XDA のソフトウェアおよび PC ハードウェアの著者で、AI チャットボットからゲーム ハードウェアに至るまで、長年にわたる技術レポートの経験があり、ほぼすべてをカバーしています。最新の AMD NPU に関する速報ニュースであれ、ソーシャル メディア プラットフォームでのビデオ チュートリアルの作成であれ、Jasmine は、Razer の CEO、AMD の製品マーケティング ディレクター、Lenovo の副社長へのインタビューなど、さまざまな方法で AI とテクノロジーの世界に貢献してきました。ゲームと PC テクノロジーに情熱を持っている彼女は、数え切れないほどのコンピューター、キーボード、その他の周辺機器を構築し、それらを隅々まで知り尽くしています。 XDA アカウントにサインインする スマート ホーム テクノロジを導入するには、費用がかかる場合があります。愛好家の方に聞いてください。 200 ドルの主力サーモスタット、150 ドルのスマート ドア ロック、80 ドルのマルチプロトコル ハブ、または数え切れないほどの RGB 電球など、積み重なると財布に負担がかかります。しかし、私がこれまでに手に入れたスマート ホーム キットの中で最も優れているのは、実際にはネットワーク上の最も安価で魅力の低いシリコン、つまり汎用の 10 ドルのスマート プラグだと今でも思っています。
+
+派手なデバイスがマーケティングの注目を集めますが、この地味なデバイスは静かに存在し、自動化エコシステム全体のバックボーンとして機能します。エリートスマートホームを構築するのに高価なスマート家電は必要ありません。エ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/05/tp-link-tapo-matter-smart-plug-mini-header.jpg?w=1600&amp;h=900&amp;fit=crop" alt="私のスマートホームで最も安価なものは、他のすべてを組み合わせたよりも多くの仕事をします"></p>]]></description><source url="https://www.xda-developers.com/cheapest-thing-in-smart-home-does-more-work-than-everything-else-combined/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/05/tp-link-tapo-matter-smart-plug-mini-header.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/05/tp-link-tapo-matter-smart-plug-mini-header.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>TinyTouch Gives Mac Users Touch ID Without the Apple Markup</title><link>https://www.hackster.io/news/tinytouch-gives-mac-users-touch-id-without-the-apple-markup-7b65278c8503</link><guid isPermaLink="true">https://www.hackster.io/news/tinytouch-gives-mac-users-touch-id-without-the-apple-markup-7b65278c8503</guid><pubDate>Tue, 04 Aug 2026 19:56:10 +0000</pubDate><description><![CDATA[<p>TinyTouch Gives Mac Users Touch ID Without the Apple Markup</p>]]></description><source url="https://www.hackster.io/news/tinytouch-gives-mac-users-touch-id-without-the-apple-markup-7b65278c8503">Hackster.io</source></item>
 <item><title>この 85 インチ TCL Q5 QLED テレビの価格は現在 600 ドルですが、夏の映画の夜にはお買い得です</title><link>https://www.xda-developers.com/tcl-85-class-q5-series-4k-qled-smart-fire-tv-600-deal/</link><guid isPermaLink="true">https://www.xda-developers.com/tcl-85-class-q5-series-4k-qled-smart-fire-tv-600-deal/</guid><pubDate>Tue, 04 Aug 2026 19:42:22 +0000</pubDate><description><![CDATA[<p>この 85 インチ TCL Q5 QLED テレビの価格は現在 600 ドルですが、夏の映画の夜にはお買い得です
 
 演劇体験を家に持ち帰る
@@ -153,6 +251,7 @@ Lenovo ThinkPad X1 Carbon Gen 14 外付けハードウェアの概要
 Dolby Vision による HDR PRO+ をサポートする美しい 4K QLED パネルを備えており、あらゆる種類のさまざまな種類の番組を視聴する際に、鮮やかな色と見栄えの良い黒レベルを提供します。現在、60 Hz のリフレッシュ レートを備えていますが、最大 120 フレーム/秒の可変リフレッシュ レート (VRR) を備えたゲーム アクセラレータ モードもサポートしています。
 
 テレビにはオート ゲーム モードと呼ばれるものもあり、入力ラグと遅延を最小限に抑えてゲームをプレイするのに最適な環境を作成します。ソフトウェアに関しては、このテレビは Amazon の Fire TV OS を利用しており、操…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/copy-of-169-1-1.jpg?w=1600&amp;h=900&amp;fit=crop" alt="この 85 インチ TCL Q5 QLED テレビの価格は現在 600 ドルですが、夏の映画の夜にはお買い得です"></p>]]></description><source url="https://www.xda-developers.com/tcl-85-class-q5-series-4k-qled-smart-fire-tv-600-deal/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/copy-of-169-1-1.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/copy-of-169-1-1.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>This 7:1 Scale 16x2 Character LCD Is a Thing of Beauty</title><link>https://www.hackster.io/news/this-7-1-scale-16x2-character-lcd-is-a-thing-of-beauty-157aa0a1803f</link><guid isPermaLink="true">https://www.hackster.io/news/this-7-1-scale-16x2-character-lcd-is-a-thing-of-beauty-157aa0a1803f</guid><pubDate>Tue, 04 Aug 2026 19:35:18 +0000</pubDate><description><![CDATA[<p>This 7:1 Scale 16x2 Character LCD Is a Thing of Beauty</p>]]></description><source url="https://www.hackster.io/news/this-7-1-scale-16x2-character-lcd-is-a-thing-of-beauty-157aa0a1803f">Hackster.io</source></item>
 <item><title>VS Code を Zed に置き換えました。最新の更新後は、より高速で軽量になり、ついに AI エージェントも処理できるようになりました。</title><link>https://www.xda-developers.com/replaced-vs-code-zed-latest-update-faster-lighter-handles-ai-agents/</link><guid isPermaLink="true">https://www.xda-developers.com/replaced-vs-code-zed-latest-update-faster-lighter-handles-ai-agents/</guid><pubDate>Tue, 04 Aug 2026 19:30:10 +0000</pubDate><description><![CDATA[<p>VS Code を Zed に置き換えました。最新の更新後は、より高速で軽量になり、ついに AI エージェントも処理できるようになりました。
 
 VS Code を使用しないほうが良いでしょう。
@@ -588,6 +687,22 @@ Android Authority のアフィリエイト リンクにより、手数料が発�
 Samsung Galaxy S26 Ultra は、現在入手できるトップフラッグシップの 1 つです。そのため、画面の中央付近に不快な赤い色合いを発見したとき、一部の所有者は少しショックを受けました。その後、Samsung は、これはハードウェアの問題ではまったくなく、ソフトウェア アップデートで修正できる可能性があると良いニュースを提供しました。同社は現在、Galaxy S26 Ultra の画面変色の影響を受けている顧客にこのメッセージを中心に伝えています。
 
 SamMobile が共有した Samsung Members アプリの韓国ユーザー向けの通知が公開され、レッド スクリーンの問題はソフトウェア アップデートまたは「ソフトウェア キャリブレーション修正」によって修正できることが確認されました。後者は地元の …</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-showing-One-UI-lock-screen.jpg" alt="サムスン、Galaxy S26 Ultraの所有者にレッドスクリーンの修正について通知を開始"></p>]]></description><source url="https://www.androidauthority.com/galaxy-s26-ultra-red-tint-calibration-fix-3694415/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-showing-One-UI-lock-screen.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-showing-One-UI-lock-screen.jpg"/></item>
+<item><title>MIT Moves Beyond Silicon with Molecular Chips</title><link>https://www.hackster.io/news/mit-moves-beyond-silicon-with-molecular-chips-11816688b024</link><guid isPermaLink="true">https://www.hackster.io/news/mit-moves-beyond-silicon-with-molecular-chips-11816688b024</guid><pubDate>Tue, 04 Aug 2026 15:48:31 +0000</pubDate><description><![CDATA[<p>MIT Moves Beyond Silicon with Molecular Chips</p>]]></description><source url="https://www.hackster.io/news/mit-moves-beyond-silicon-with-molecular-chips-11816688b024">Hackster.io</source></item>
+<item><title>頭からつま先までの HD ビデオを備えた最新のリング バッテリー ドアベルが、まれに 30% オフで値下げされます</title><link>https://www.androidauthority.com/new-ring-battery-doorbell-deal-3694480/</link><guid isPermaLink="true">https://www.androidauthority.com/new-ring-battery-doorbell-deal-3694480/</guid><pubDate>Tue, 04 Aug 2026 15:46:12 +0000</pubDate><description><![CDATA[<p>頭からつま先までの HD ビデオを備えた最新のリング バッテリー ドアベルが、まれに 30% オフで値下げされます
+
+最新のリング バッテリー ドアベルは 69.99 ドルで販売されており、より高いポーチ ビュー、双方向トーク、アラート、簡単な取り付けを実現します。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+頭からつま先までの HD ビデオを備えた最新のリング バッテリー ドアベルが、まれに 30% オフで値下げされます
+
+0 • Amazon Google Discover でフォローしてください 優先ソースとして追加 Ring の最新バッテリー ドアベルは、玄関先で何が起こっているかをよりよく把握できるように作られており、現在 Amazon との堅実な取引が行われています。バッテリー ドアベル (第 2 世代) としても知られるこの最新モデルは、Ring の特徴である便利なスマート ドアベル機能を維持しながら、ポーチ エリアをより広く見ることに重点を置いています。
+
+際立ったアップグレードは、150 度 x 150 度の視野を備えた頭からつま先までの HD ビデオです。この高いビューにより、訪問者だけでなく、ドアの近くに残された荷物も確認できます。 Ring 氏はまた、このモデルは一般的な使用状況で前世代よりも最大 23% 長いバッテリー寿命を実現すると述べています。その上、新しいプッシュピン マウント システムを備えた最新のデザインが採用されており、DIY での取り付けと取り外しが簡単になります。
+
+また、カスタマイズ可能なモーション ゾーンによるモーション検出、リアルタイム アラート、ライブ ビュー、双方向トークなど、ほとんどの人がビデオ ドアベルに求める中心的な機能も得られます。 Ring の現在の製品ページには、Retinal 2K ビデオと最大 6 倍の拡張ズームも記載されており、このモデルには古い標準のバッテリー ドアベルよりも強力な機能セットが与えられています。
+
+Ama…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/Ring-Battery-Doorbell-Gen-2-Press-Image.jpg" alt="頭からつま先までの HD ビデオを備えた最新のリング バッテリー ドアベルが、まれに 30% オフで値下げされます"></p>]]></description><source url="https://www.androidauthority.com/new-ring-battery-doorbell-deal-3694480/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/Ring-Battery-Doorbell-Gen-2-Press-Image.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/Ring-Battery-Doorbell-Gen-2-Press-Image.jpg"/></item>
 <item><title>Pixel 11 Pro Fold のリークにより、新しい通知ライトの名前のサポートが追加されました</title><link>https://www.androidauthority.com/pixel-11-pro-hilight-3694423/</link><guid isPermaLink="true">https://www.androidauthority.com/pixel-11-pro-hilight-3694423/</guid><pubDate>Tue, 04 Aug 2026 15:35:19 +0000</pubDate><description><![CDATA[<p>Pixel 11 Pro Fold のリークにより、新しい通知ライトの名前のサポートが追加されました
 
 Pixel Glow の代わりに、Pixel 11 Pro の新しい通知システムが HiLight として登場する可能性が高まっています。
@@ -605,6 +720,18 @@ Pixel 11 Pro Fold のリークにより、新しい通知ライトの名前の�
 Google は、Pixel ハードウェアで何か新しいことを試みることがあり、Active Edge のスクイーズ入力や赤外線温度計など、珍しいものを提供しています。今後登場する Pixel 11 シリーズに向けて、私たちは何か月もの間新しい LED 通知システムの開発を追跡してきましたが、そのシステムは Pixel Glow という名前で開発中であるようです。しかし、Google の 8 月 12 日の発表イベントに近づき始めたとき、突然新しい名前が候補に上がりました。代わりに、これを「HiLight」として発表できるでしょうか?現在、その別名が新たに強力な支持を得ています。
 
 覚えておいてください: 開発中の Google ソフトウェア全体で Pixel Glow への言及を見つけましたが、Pixel のマーケティング資料にこれらの単語が実際に出現したのをまだ見たことがありません。しかし現在、リークには明らかな Google のプロモーシ…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/07/pixel-11-pro-glow-teaser.jpg" alt="Pixel 11 Pro Fold のリークにより、新しい通知ライトの名前のサポートが追加されました"></p>]]></description><source url="https://www.androidauthority.com/pixel-11-pro-hilight-3694423/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/07/pixel-11-pro-glow-teaser.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/07/pixel-11-pro-glow-teaser.jpg"/></item>
+<item><title>(PR) Marvell Introduces Bravera SC6 SSD Controller for PCIe Gen 6 NVMe SSDs</title><link>https://www.techpowerup.com/351356/marvell-introduces-bravera-sc6-ssd-controller-for-pcie-gen-6-nvme-ssds</link><guid isPermaLink="true">https://www.techpowerup.com/351356/marvell-introduces-bravera-sc6-ssd-controller-for-pcie-gen-6-nvme-ssds</guid><pubDate>Tue, 04 Aug 2026 15:33:16 +0000</pubDate><description><![CDATA[<p>(PR) Marvell Introduces Bravera SC6 SSD Controller for PCIe Gen 6 NVMe SSDs</p>]]></description><source url="https://www.techpowerup.com/351356/marvell-introduces-bravera-sc6-ssd-controller-for-pcie-gen-6-nvme-ssds">TechPowerUp</source></item>
+<item><title>Minitel-1 用のコンピューター</title><link>https://hackaday.com/2026/08/04/un-ordinateur-pour-le-minitel-1-a-computer-for-the-minitel-1/</link><guid isPermaLink="true">https://hackaday.com/2026/08/04/un-ordinateur-pour-le-minitel-1-a-computer-for-the-minitel-1/</guid><pubDate>Tue, 04 Aug 2026 15:30:14 +0000</pubDate><description><![CDATA[<p>Un Ordinateur Pour Le Minitel-1 (Minitel-1 用のコンピューター)
+
+1980 年代、フランスは当時最も大胆なパブリック コンピューティング プロジェクトの 1 つが行われました。 Minitel はビューデータをフランスで解釈したもので、それを高価で手の届かない贅沢なものにするのではなく…
+
+1980 年代、フランスは当時最も大胆なパブリック コンピューティング プロジェクトの 1 つが行われました。 Minitel はビューデータをフランスで取り入れたもので、それを高価で手の届かない贅沢品にする代わりに、端末を世界中で利用できるようにしました。 Minitel サービスの多くは使用に追加料金がかかりますが、それにもかかわらず、これは大成功を収め、21 世紀まで残りました。
+
+ユビキタス端末は現在、要件を満たしていないが、役に立たないというわけではない。 [MemoireMorte] は、Minitel-1 端末に接続するように設計された 6502 ベースのコンピュータである Memo-1 でこれを証明しました。 Minitel に必要なアクセサリーはまさにこれです。
+
+ハードウェア的には、通常の RAM、ROM、BASIC を備えた比較的従来型のデバイスです。拡張ポートと、いくつかの Atari ジョイスティック ポートを提供する 6522 があります。シリアル ポートは、より一般的な W65C51 チップと Minitel-1 の間に互換性がないため、6551 ACIA ではなく 6551 ACIA を使用します。
+
+私たちがこのコンピューターを気に入っているのは、目新しさのためではなく、結局のところ、これが私たちが見た最初の 6502 というわけではありませんが、Minitel 端末を使用しているためです。これらのデバイスは素晴らしいので、もっと愛されるに値します。私たちは 1 ～ 2 年前に別の端末を分解しました。</p><p><img src="https://hackaday.com/wp-content/uploads/2026/07/memo-1-featured.jpg" alt="Minitel-1 用のコンピューター"></p>]]></description><source url="https://hackaday.com/2026/08/04/un-ordinateur-pour-le-minitel-1-a-computer-for-the-minitel-1/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/07/memo-1-featured.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/07/memo-1-featured.jpg"/></item>
 <item><title>Jellyfin のコアチームは去ったばかりですが、私はまだ Plex には戻りません</title><link>https://www.xda-developers.com/jellyfin-core-team-left-still-not-going-back-plex/</link><guid isPermaLink="true">https://www.xda-developers.com/jellyfin-core-team-left-still-not-going-back-plex/</guid><pubDate>Tue, 04 Aug 2026 15:30:10 +0000</pubDate><description><![CDATA[<p>Jellyfin のコアチームは去ったばかりですが、私はまだ Plex には戻りません
 
 Jellyfin は主要なチーム メンバー数名を失ったばかりですが、Plex の価格設定とリモート ストリーミングの制限により、元に戻すのは依然として困難です。
@@ -2491,19 +2618,6 @@ PowerToys はついに Windows をレンタルするだけでなく実際に所�
 By Brian Burgess 公開 2026 年 8 月 3 日、午前 7:00 EDT ミネソタ州の田舎に拠点を置くブライアン バージェスは、消費者向けテクノロジーについて執筆することに情熱を感じるまで、IT 業界で 10 年間働いていました。ブライアンは、2000 年にコンピュータおよびネットワーク テクノロジの学位を取得しました。彼は、ヘルプ デスク サポート、IBM のルーターの設置、データベース管理、その他のネットワーク管理関連の役割など、さまざまな IT 職を歴任しました。彼は 18 年間個人のテクノロジー ジャーナリストとして活動しており、Microsoft の製品とサービス、Android、iOS、ストリーミングなどに関する何千もの記事を執筆してきました。彼は、XDA、InformationWeek、How-To Geek、Byte、groovyPost などの著名な技術サイトに寄稿しています。彼がキーボードから離れているときは、ギターを弾いたり、屋外で仕事をしたり、スタートレックを見たりしているのが聞こえます。 XDA アカウントにサインインする Windows は長年にわたって、使用できる機能や実行できる操作を決定するオペレーティング システムのように感じられてきました。新しい PC を入手するたび、またはカスタムではない新規インストールを実行する必要があるたびに、ロックされたタスクバー、Copilot の統合、および望ましくないテレメトリ主導の設定による標準の動作を乗り越えるのに何時間もかかります。
 
 幸いなことに、Microsoft 独自の、皮肉なことにオープンソースのツールキットである PowerToys があり、これには OS の制御をユーザーの手に委ねる 25 以上のユーティリティが含まれて…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/microsoft-powertoys-dual-monitor.jpg?w=1600&amp;h=900&amp;fit=crop" alt="PowerToys はついに Windows をレンタルするだけでなく実際に所有できる OS のように感じさせました"></p>]]></description><source url="https://www.xda-developers.com/powertoys-made-windows-feel-like-os-could-actually-own-not-just-rent/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/microsoft-powertoys-dual-monitor.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/microsoft-powertoys-dual-monitor.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>世界最小の GPU シリコンが実世界のテストに合格 — 240,000 トランジスタの TinyGPU v2.0 は最大 15 FPS で 3D グラフィックスをレンダリングし、v3.0 は 2026 年のリリースに向けて準備中</title><link>https://www.tomshardware.com/pc-components/gpus/worlds-smallest-gpu-silicon-passes-real-world-testing-240-000-transistor-tinygpu-v2-0-renders-3d-graphics-at-up-to-15-fps-while-v3-0-prepares-for-2026-release</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/gpus/worlds-smallest-gpu-silicon-passes-real-world-testing-240-000-transistor-tinygpu-v2-0-renders-3d-graphics-at-up-to-15-fps-while-v3-0-prepares-for-2026-release</guid><pubDate>Mon, 03 Aug 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>世界最小の GPU シリコンが実世界のテストに合格 — 240,000 トランジスタの TinyGPU v2.0 は最大 15 FPS で 3D グラフィックスをレンダリングし、v3.0 は 2026 年のリリースに向けて準備中
-
-TinyGPU v3.0 は、プログラム可能なピクセル シェーダーを備えています。
-
-世界最小の GPU シリコンが実世界のテストに合格 — 240,000 トランジスタの TinyGPU v2.0 は最大 15 FPS で 3D グラフィックスをレンダリングし、v3.0 は 2026 年のリリースに向けて準備中
-
-TinyGPU v3.0 は、プログラム可能なピクセル シェーダーを備えています。
-
-(画像クレジット: Pongsagon Vichit ) リンクをコピーする
-
-0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 昨年 11 月に量産に向かっている世界最小の GPU について記事を書きました。その開発者である Pongsagon Vichit は、完成したシリコンを Tiny Tapeout コミュニティから受け取りました。このコミュニティでは、それは SKY 25b シャトルの一部でした。 「ASIC TinyGPU v2.0 は生きていて動作しています!!!」アマチュア ASIC/FPGA 設計者をソーシャル メディアで応援しました。これは間違いなく祝う価値があり、TinyGPU v3.0 が今年末に登場すると聞いて嬉しく思います。
-
-ASIC TinyGPU v2.0 は生きており、動作しています!!!#TinyTapeout コミュニティのサポートに心から感謝します。完全にオープンソースの設計をここで確認してください:https://t.co/ClhiKS89st TinyGPU v3.0 は今年 12 月にリリースされます。ご期待ください。#OpenHardware #FPGA #ASIC pic.twitter.com/vgfg2ZehAu 2026 …</p><p><img src="https://cdn.mos.cms.futurecdn.net/XGMRs2DoMrY7PMM2eekx3k-1920-80.jpg" alt="世界最小の GPU シリコンが実世界のテストに合格 — 240,000 トランジスタの TinyGPU v2.0 は最大 15 FPS で 3D グラフィックスをレンダリングし、v3.0 は 2026 年のリリースに向けて準備中"></p>]]></description><source url="https://www.tomshardware.com/pc-components/gpus/worlds-smallest-gpu-silicon-passes-real-world-testing-240-000-transistor-tinygpu-v2-0-renders-3d-graphics-at-up-to-15-fps-while-v3-0-prepares-for-2026-release">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/XGMRs2DoMrY7PMM2eekx3k-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/XGMRs2DoMrY7PMM2eekx3k-1920-80.jpg"/></item>
 <item><title>1 つのバイナリ、1 つの URL、および設定なしのリモート ターミナルを取得する</title><link>https://hackaday.com/2026/08/03/get-a-remote-terminal-with-one-binary-one-url-and-zero-config/</link><guid isPermaLink="true">https://hackaday.com/2026/08/03/get-a-remote-terminal-with-one-binary-one-url-and-zero-config/</guid><pubDate>Mon, 03 Aug 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>1 つのバイナリ、1 つの URL、および設定なしのリモート ターミナルを取得する
 
 単一の静的バイナリ実行可能ファイルを起動し、誰かに QR コードまたは URL を送信すると (または、それが失敗した場合は、数値コードをテキスト メッセージで送信するか、部屋中に大声で叫ぶと)、暗号化された端末が目の前に届きます。
@@ -2519,6 +2633,19 @@ ASIC TinyGPU v2.0 は生きており、動作しています!!!#TinyTapeout コ�
 共有するマシン上で、まずバイナリをダウンロードします。これを行う最も簡単な方法は、bitba.ng にアクセスして手動でダウンロードするか、1 行のインストーラーをコピーして貼り付けてシステムを自動検出し、正しいリリースをダウンロードしてチェックサムを確認することです。
 
 バイナリをダウンロードし…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/07/reach-machines-behind-nat-from-a-browser-v0-banner.png" alt="1 つのバイナリ、1 つの URL、および設定なしのリモート ターミナルを取得する"></p>]]></description><source url="https://hackaday.com/2026/08/03/get-a-remote-terminal-with-one-binary-one-url-and-zero-config/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/07/reach-machines-behind-nat-from-a-browser-v0-banner.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/07/reach-machines-behind-nat-from-a-browser-v0-banner.png"/></item>
+<item><title>世界最小の GPU シリコンが実世界のテストに合格 — 240,000 トランジスタの TinyGPU v2.0 は最大 15 FPS で 3D グラフィックスをレンダリングし、v3.0 は 2026 年のリリースに向けて準備中</title><link>https://www.tomshardware.com/pc-components/gpus/worlds-smallest-gpu-silicon-passes-real-world-testing-240-000-transistor-tinygpu-v2-0-renders-3d-graphics-at-up-to-15-fps-while-v3-0-prepares-for-2026-release</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/gpus/worlds-smallest-gpu-silicon-passes-real-world-testing-240-000-transistor-tinygpu-v2-0-renders-3d-graphics-at-up-to-15-fps-while-v3-0-prepares-for-2026-release</guid><pubDate>Mon, 03 Aug 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>世界最小の GPU シリコンが実世界のテストに合格 — 240,000 トランジスタの TinyGPU v2.0 は最大 15 FPS で 3D グラフィックスをレンダリングし、v3.0 は 2026 年のリリースに向けて準備中
+
+TinyGPU v3.0 は、プログラム可能なピクセル シェーダーを備えています。
+
+世界最小の GPU シリコンが実世界のテストに合格 — 240,000 トランジスタの TinyGPU v2.0 は最大 15 FPS で 3D グラフィックスをレンダリングし、v3.0 は 2026 年のリリースに向けて準備中
+
+TinyGPU v3.0 は、プログラム可能なピクセル シェーダーを備えています。
+
+(画像クレジット: Pongsagon Vichit ) リンクをコピーする
+
+0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 昨年 11 月に量産に向かっている世界最小の GPU について記事を書きました。その開発者である Pongsagon Vichit は、完成したシリコンを Tiny Tapeout コミュニティから受け取りました。このコミュニティでは、それは SKY 25b シャトルの一部でした。 「ASIC TinyGPU v2.0 は生きていて動作しています!!!」アマチュア ASIC/FPGA 設計者をソーシャル メディアで応援しました。これは間違いなく祝う価値があり、TinyGPU v3.0 が今年末に登場すると聞いて嬉しく思います。
+
+ASIC TinyGPU v2.0 は生きており、動作しています!!!#TinyTapeout コミュニティのサポートに心から感謝します。完全にオープンソースの設計をここで確認してください:https://t.co/ClhiKS89st TinyGPU v3.0 は今年 12 月にリリースされます。ご期待ください。#OpenHardware #FPGA #ASIC pic.twitter.com/vgfg2ZehAu 2026 …</p><p><img src="https://cdn.mos.cms.futurecdn.net/XGMRs2DoMrY7PMM2eekx3k-1920-80.jpg" alt="世界最小の GPU シリコンが実世界のテストに合格 — 240,000 トランジスタの TinyGPU v2.0 は最大 15 FPS で 3D グラフィックスをレンダリングし、v3.0 は 2026 年のリリースに向けて準備中"></p>]]></description><source url="https://www.tomshardware.com/pc-components/gpus/worlds-smallest-gpu-silicon-passes-real-world-testing-240-000-transistor-tinygpu-v2-0-renders-3d-graphics-at-up-to-15-fps-while-v3-0-prepares-for-2026-release">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/XGMRs2DoMrY7PMM2eekx3k-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/XGMRs2DoMrY7PMM2eekx3k-1920-80.jpg"/></item>
 <item><title>(PR) キオクシア、AIワークロード向けCXL互換メモリ拡張モジュールKIOXIA XL1シリーズを展示</title><link>https://www.techpowerup.com/351310/kioxia-to-showcase-cxl-compatible-memory-expansion-module-kioxia-xl1-series-for-ai-workloads</link><guid isPermaLink="true">https://www.techpowerup.com/351310/kioxia-to-showcase-cxl-compatible-memory-expansion-module-kioxia-xl1-series-for-ai-workloads</guid><pubDate>Mon, 03 Aug 2026 10:48:03 +0000</pubDate><description><![CDATA[<p>(PR) キオクシア、AIワークロード向けCXL互換メモリ拡張モジュールKIOXIA XL1シリーズを展示
 
 メモリソリューションの世界的リーダーであるキオクシア株式会社は本日、8月4日から6日までカリフォルニア州サンタクララで開催されるFMS: the Future of Memory and StorageのキオクシアブースにCompute Express Link (CXL)互換メモリ拡張モジュールであるKIOXIA XL1シリーズを展示すると発表しました。の...
@@ -3879,6 +4006,7 @@ Samsung のルーチン テンプレートにより自動化が簡単になり�
 初心者でもすぐに理解できる
 
 誰もが生活の中で自動化からある程度の恩恵を受けることができると思います。大量のスマート ホーム デバイスや複雑なフローを必要とする必要はありません。むしろ、それはスマートフォンに直接組み込まれた自動化されたタスクに関す…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/a-hot-weather-alert-in-samsung-modes-and-routines.jpg?w=1600&amp;h=900&amp;fit=crop" alt="このサムスンのアプリは、Google Home が望んでいる自動化ハブです"></p>]]></description><source url="https://www.xda-developers.com/samsung-modes-routines-better-than-google-home/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/a-hot-weather-alert-in-samsung-modes-and-routines.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/a-hot-weather-alert-in-samsung-modes-and-routines.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>Redditor scores a working GTX 1050 Ti for just $2 at Goodwill</title><link>https://www.tweaktown.com/rss/click/news/112960/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112960/?c=news-mf</guid><pubDate>Sat, 01 Aug 2026 19:00:10 +0000</pubDate><description><![CDATA[<p>Redditor scores a working GTX 1050 Ti for just $2 at Goodwill</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112960/?c=news-mf">TweakTown</source></item>
 <item><title>この無料のオープンソース ツールに Plex ライブラリを最適化させ、8 TB のストレージを再利用しました</title><link>https://www.xda-developers.com/free-open-source-tool-optimize-plex-library-reclaimed-8tb-storage/</link><guid isPermaLink="true">https://www.xda-developers.com/free-open-source-tool-optimize-plex-library-reclaimed-8tb-storage/</guid><pubDate>Sat, 01 Aug 2026 19:00:10 +0000</pubDate><description><![CDATA[<p>この無料のオープンソース ツールに Plex ライブラリを最適化させ、8 TB のストレージを再利用しました
 
 この経済状況ではドライブを買うより良い
@@ -3890,7 +4018,6 @@ By Anurag Singh 公開 2026 年 8 月 1 日、午後 3 時 EDT アヌラグは�
 そして現在、ストレージの価格がこれほど高騰しているため、別のドライブに投資するのは意味がありません。代わりに、Unmanic をインストールし、ライブラリを通じて動作させました。これは、メディア ファイルをスキャンし、設定したルールに一致しないものを自動的に変換する無料のオープンソース ツールです。これを Plex ライブラリで自由に実行させたところ、ほぼ 8TB のスペースが解放され、事実上、別のハード ドライブが得られました。
 
 Plex ライブ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/unmanic.jpg?w=1600&amp;h=900&amp;fit=crop" alt="この無料のオープンソース ツールに Plex ライブラリを最適化させ、8 TB のストレージを再利用しました"></p>]]></description><source url="https://www.xda-developers.com/free-open-source-tool-optimize-plex-library-reclaimed-8tb-storage/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/unmanic.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/unmanic.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>Redditor scores a working GTX 1050 Ti for just $2 at Goodwill</title><link>https://www.tweaktown.com/rss/click/news/112960/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112960/?c=news-mf</guid><pubDate>Sat, 01 Aug 2026 19:00:10 +0000</pubDate><description><![CDATA[<p>Redditor scores a working GTX 1050 Ti for just $2 at Goodwill</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112960/?c=news-mf">TweakTown</source></item>
 <item><title>マザーボードの設定を何年も無視していたため、静かにパフォーマンスが低下していました</title><link>https://www.xda-developers.com/ignored-motherboards-settings-for-years-it-quietly-cost-performance/</link><guid isPermaLink="true">https://www.xda-developers.com/ignored-motherboards-settings-for-years-it-quietly-cost-performance/</guid><pubDate>Sat, 01 Aug 2026 18:30:10 +0000</pubDate><description><![CDATA[<p>マザーボードの設定を何年も無視していたため、静かにパフォーマンスが低下していました
 
 BIOS 設定が永続的であると想定していた私のせいです。
@@ -5529,6 +5656,15 @@ Razer、Huntsman V3 HE Magnetic 8KHz で e スポーツ キーボードの範囲
 ジョアン・シルバ 10時間前 キーボード
 
 Razer は、Huntsman V3 HE Magnetic 8KHz ラインを発表し、ホール効果磁気スイッチと真の 8000Hz ポーリングを備えたオプションを増やしてゲーミング キーボードの範囲を拡大しました。テンキーレスおよびミニ 65% フォーム ファクターで利用可能なキーボードには、ブラウザベースのカスタマイズとともに新しい入力コントロールが導入されています。 Razer は、Huntsman V3 HE Magnetic 8KHz シリーズにホール効果磁気スイッチを搭載しており、ユーザーは主要なアクチュエーション ポイントを 0.1 mm ～ 4.0 mm の間で調整できます。このスイッチは、定格 1 億キーストローク寿命に加え、急速な入力中に動的キー リセットを行うラピッド トリガー モードをサポートしています。 Razer は、真の 8,000 Hz ポーリング レートにより、0.1 mm の作動設定で平均レイテンシが 0.60 ミリ秒であると主張しています。ソフトウェア面では、キーボードは、個別のプレスとリリースのコマンドを 1 つのキーに割り当てる Razer Snap Flex などの高度な入力機能をサポートして…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/07/videoframe_2522-732x330.jpg" alt="Razer、Huntsman V3 HE Magnetic 8KHz で e スポーツ キーボードの範囲を拡大"></p>]]></description><source url="https://www.kitguru.net/peripherals/keyboards/joao-silva/razer-expands-esports-keyboard-range-with-huntsman-v3-he-magnetic-8khz/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/07/videoframe_2522-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/07/videoframe_2522-732x330.jpg"/></item>
+<item><title>Claude Code のサブエージェントは 1 つの問題を解決し、他の 3 つの問題を作成します</title><link>https://www.xda-developers.com/claude-codes-sub-agents-solve-one-problem-and-create-three-others/</link><guid isPermaLink="true">https://www.xda-developers.com/claude-codes-sub-agents-solve-one-problem-and-create-three-others/</guid><pubDate>Fri, 31 Jul 2026 14:30:10 +0000</pubDate><description><![CDATA[<p>Claude Code のサブエージェントは 1 つの問題を解決し、他の 3 つの問題を作成します
+
+孤立は与え、孤立は奪います。
+
+Claude Code のサブエージェントは 1 つの問題を解決し、他の 3 つの問題を作成します
+
+By Mahnoor Faisal 公開 2026 年 7 月 31 日、午前 10:30 EDT Mahnoor Faisal は、XDA 、 SlashGear 、 MakeUseOf 、 Laptop Mag 、 Android Police で署名記事を掲載し、AI と生産性向上ツールをカバーするテクノロジー ジャーナリストです。彼女は 16 歳の頃からプロとして執筆活動を行っており、それ以来何百もの記事を執筆してきました。これには、NotebookLM などの AI ツールから AI 分野全体の最新ニュースまでの詳細なカバレッジが含まれます。彼女のテクノロジーに対する情熱は、8 歳の誕生日に最初の iPod Touch (第 4 世代) を受け取ったときに始まり、それ以来テクノロジーの世界に深く関わってきました。現在、コンピューター サイエンスの学位取得を目指しているマフノール氏は、AI が私たちの働き方や学習方法をどのように再構築しているのかを取材する際に、ジャーナリストの目と技術的基礎の両方をもたらしています。 XDA アカウントにサインインします。AI を使用して、これまで言葉でしか説明できなかったものを初めて構築するときは、本当に魔法のように感じます。あなたのビジョンは数分以内にアイデアからコンセプトに移行し、これまでに行ったものよりも速くなります。 AI を使用して を構築するのが 2 回目、3 回目、4 回目、そして 10 回目であっても、同じスピード (そして興奮) が維持されます。しかし。この段階で何かが微妙に変化します。
+
+最初は見落としていた摩擦に気づき始めます。すべてを一度に一歩ずつ行っているからです。 1 つのことを要求し、待って確認してから、次のことを要求します。ここで、サブエージェントが登場します。タ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/claude-code-web-on-macbook-with-spotify-in-background.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="Claude Code のサブエージェントは 1 つの問題を解決し、他の 3 つの問題を作成します"></p>]]></description><source url="https://www.xda-developers.com/claude-codes-sub-agents-solve-one-problem-and-create-three-others/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/claude-code-web-on-macbook-with-spotify-in-background.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/claude-code-web-on-macbook-with-spotify-in-background.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>Pixel のデフォルトのランチャーを Niagara Launcher に置き換えたら、元には戻れません</title><link>https://www.xda-developers.com/replaced-pixels-default-launcher-with-niagara-launcher-cant-go-back/</link><guid isPermaLink="true">https://www.xda-developers.com/replaced-pixels-default-launcher-with-niagara-launcher-cant-go-back/</guid><pubDate>Fri, 31 Jul 2026 14:30:10 +0000</pubDate><description><![CDATA[<p>Pixel のデフォルトのランチャーを Niagara Launcher に置き換えたら、元には戻れません
 
 このランチャーは、それ以上ではなく、より少ない操作で、私の Pixel の使い方を変えました。
@@ -5542,15 +5678,6 @@ Pixel のデフォルトのランチャーを Niagara Launcher に置き換え�
 ほとんどのユーザーがランチャーに求めるものと比較して、私はカスタマイズが目立たず、邪魔にならないホーム画面を備えたツールを探していました。 Niagara Launcher を数か月間使用した結果、もう後戻りはできないと断言できます。
 
 シンプルなホーム画…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/dsc08636.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Pixel のデフォルトのランチャーを Niagara Launcher に置き換えたら、元には戻れません"></p>]]></description><source url="https://www.xda-developers.com/replaced-pixels-default-launcher-with-niagara-launcher-cant-go-back/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/dsc08636.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/dsc08636.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>Claude Code のサブエージェントは 1 つの問題を解決し、他の 3 つの問題を作成します</title><link>https://www.xda-developers.com/claude-codes-sub-agents-solve-one-problem-and-create-three-others/</link><guid isPermaLink="true">https://www.xda-developers.com/claude-codes-sub-agents-solve-one-problem-and-create-three-others/</guid><pubDate>Fri, 31 Jul 2026 14:30:10 +0000</pubDate><description><![CDATA[<p>Claude Code のサブエージェントは 1 つの問題を解決し、他の 3 つの問題を作成します
-
-孤立は与え、孤立は奪います。
-
-Claude Code のサブエージェントは 1 つの問題を解決し、他の 3 つの問題を作成します
-
-By Mahnoor Faisal 公開 2026 年 7 月 31 日、午前 10:30 EDT Mahnoor Faisal は、XDA 、 SlashGear 、 MakeUseOf 、 Laptop Mag 、 Android Police で署名記事を掲載し、AI と生産性向上ツールをカバーするテクノロジー ジャーナリストです。彼女は 16 歳の頃からプロとして執筆活動を行っており、それ以来何百もの記事を執筆してきました。これには、NotebookLM などの AI ツールから AI 分野全体の最新ニュースまでの詳細なカバレッジが含まれます。彼女のテクノロジーに対する情熱は、8 歳の誕生日に最初の iPod Touch (第 4 世代) を受け取ったときに始まり、それ以来テクノロジーの世界に深く関わってきました。現在、コンピューター サイエンスの学位取得を目指しているマフノール氏は、AI が私たちの働き方や学習方法をどのように再構築しているのかを取材する際に、ジャーナリストの目と技術的基礎の両方をもたらしています。 XDA アカウントにサインインします。AI を使用して、これまで言葉でしか説明できなかったものを初めて構築するときは、本当に魔法のように感じます。あなたのビジョンは数分以内にアイデアからコンセプトに移行し、これまでに行ったものよりも速くなります。 AI を使用して を構築するのが 2 回目、3 回目、4 回目、そして 10 回目であっても、同じスピード (そして興奮) が維持されます。しかし。この段階で何かが微妙に変化します。
-
-最初は見落としていた摩擦に気づき始めます。すべてを一度に一歩ずつ行っているからです。 1 つのことを要求し、待って確認してから、次のことを要求します。ここで、サブエージェントが登場します。タ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/claude-code-web-on-macbook-with-spotify-in-background.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="Claude Code のサブエージェントは 1 つの問題を解決し、他の 3 つの問題を作成します"></p>]]></description><source url="https://www.xda-developers.com/claude-codes-sub-agents-solve-one-problem-and-create-three-others/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/claude-code-web-on-macbook-with-spotify-in-background.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/claude-code-web-on-macbook-with-spotify-in-background.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>Galaxy SmartTag 3 のリークは、条件付き (なし) での再設計を示唆しています</title><link>https://www.androidauthority.com/samsung-galaxy-smarttag-3-leak-3693320/</link><guid isPermaLink="true">https://www.androidauthority.com/samsung-galaxy-smarttag-3-leak-3693320/</guid><pubDate>Fri, 31 Jul 2026 14:27:00 +0000</pubDate><description><![CDATA[<p>Galaxy SmartTag 3 のリークは、条件付き (なし) での再設計を示唆しています
 
 Samsung の Galaxy SmartTag 3 は、新しいデザイン、中央に見えるボタン、そして 1 つの驚くべき妥協を特徴とする可能性があります。
@@ -5908,225 +6035,4 @@ NexperiaとDRAM危機が悪化する中、チップ不足が自動車業界を�
 従来の通念では、スティックを 1 つ下げると帯域幅が半分になるという、前世代の DDR の考え方に基づいて、かなりのパフォーマンスを放棄していることになります。 DDR5 にも同じことが当てはまりますが、状況は少し複雑になります。これについては後ほど詳しく説明します。
 
 高いレベルで言えば、単一の DDR5 DIMM を使用しても、予想されるほどゲームのパフォーマンスが損なわれることはありません…</p><p><img src="https://cdn.mos.cms.futurecdn.net/AB9Ms6eJKvqs9YfWhb4D4f-1280-80.png" alt="シングル DIMM DDR5 ゲームはおそらくあなたが思っているよりもうまく動作します - AMD の 3D V キャッシュ チップの低下は 3% 未満で、1 枚の DDR5 DIMM がデュアルチャネル DDR4 RAM を上回ります"></p>]]></description><source url="https://www.tomshardware.com/pc-components/ddr5/single-dimm-ddr5-gaming-works-better-than-you-probably-think-amds-3d-v-cache-chips-drop-less-than-3-percent-one-ddr5-dimm-beats-dual-channel-ddr4-ram">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/AB9Ms6eJKvqs9YfWhb4D4f-1280-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/AB9Ms6eJKvqs9YfWhb4D4f-1280-80.png"/></item>
-<item><title>PS5 エミュレーションが記録的な速さで新たなマイルストーンを達成、複数の 3D ゲームが Kyty でプレイ可能に — パフォーマンスとサポートが着実に向上し、現在 30 FPS ゲームプレイが可能</title><link>https://www.tomshardware.com/video-games/playstation/ps5-emulation-hits-new-milestone-in-record-time-multiple-3d-games-now-playable-in-kyty-performance-and-support-steadily-improving-with-30-fps-gameplay-possible-today</link><guid isPermaLink="true">https://www.tomshardware.com/video-games/playstation/ps5-emulation-hits-new-milestone-in-record-time-multiple-3d-games-now-playable-in-kyty-performance-and-support-steadily-improving-with-30-fps-gameplay-possible-today</guid><pubDate>Fri, 31 Jul 2026 11:40:00 +0000</pubDate><description><![CDATA[<p>PS5 エミュレーションが記録的な速さで新たなマイルストーンを達成、複数の 3D ゲームが Kyty でプレイ可能に — パフォーマンスとサポートが着実に向上し、現在 30 FPS ゲームプレイが可能
-
-Insane progress in just two weeks.
-
-PS5 エミュレーションが記録的な速さで新たなマイルストーンを達成、複数の 3D ゲームが Kyty でプレイ可能に — パフォーマンスとサポートが着実に向上し、現在 30 FPS ゲームプレイが可能
-
-Insane progress in just two weeks.
-
-(Image credit: Sony) Copy link
-
-0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する PlayStation 5 エミュレーションの状況は、今年後半の Grand Theft Auto 6 のリリースに一部反応して、急速に進化しています。最新のマイルストーンは、1 秒あたり約 30 フレームという非常に優れたフレームレートでプレイできる最初の 3D ゲームです。
-
-このすべての最前線にある 2 つのエミュレータは KytyPS5 と SharpEmu で、前者は互換性の拡大に重点を置いています。 KytyPS5 はすでに 3D タイトルを起動してロード画面まで実行でき、少なくとも 2 つの小さなゲームが実際にグラフィックスをレンダリングしていました。現在、同じエミュレータで 2 つの 3D ゲームを約 30 FPS で実行できますが、いくつかの問題があります。
-
-最初のゲームは、2003 年の古典的なゲームの 2020 年リメイクである XIII で、プレイヤーの入力を受け入れるリアルタイム ゲームプレイで最大 30 FPS で「プレイ可能」です。正しくレンダリングされない環境では明らかな視覚的な不具合があるため、playable を引用符で囲みます。没入感が完全に損なわれるわけではありませんが、複数のシーンでテクスチャが壊れているよう…</p><p><img src="https://cdn.mos.cms.futurecdn.net/tg95hzQEgMNoJTJZHb5oXU-1920-80.png" alt="PS5 エミュレーションが記録的な速さで新たなマイルストーンを達成、複数の 3D ゲームが Kyty でプレイ可能に — パフォーマンスとサポートが着実に向上し、現在 30 FPS ゲームプレイが可能"></p>]]></description><source url="https://www.tomshardware.com/video-games/playstation/ps5-emulation-hits-new-milestone-in-record-time-multiple-3d-games-now-playable-in-kyty-performance-and-support-steadily-improving-with-30-fps-gameplay-possible-today">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/tg95hzQEgMNoJTJZHb5oXU-1920-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/tg95hzQEgMNoJTJZHb5oXU-1920-80.png"/></item>
-<item><title>Google の新しいストレージ ポリシーにより、ドライブの監査が強制されました。その結果、これら 4 つの隠れたスペースを大量に消費していることがわかりました。</title><link>https://www.xda-developers.com/ways-to-free-google-drive-storage/</link><guid isPermaLink="true">https://www.xda-developers.com/ways-to-free-google-drive-storage/</guid><pubDate>Fri, 31 Jul 2026 11:30:10 +0000</pubDate><description><![CDATA[<p>Google の新しいストレージ ポリシーにより、ドライブの監査が強制されました。その結果、これら 4 つの隠れたスペースを大量に消費していることがわかりました。
-
-Android のバックアップから忘れられたメールまで、貴重な Google ドライブ ストレージを食い荒らす予期せぬアイテムを明らかにします。
-
-Google の新しいストレージ ポリシーにより、ドライブの監査が強制されました。その結果、これら 4 つの隠れたスペースを大量に消費していることがわかりました。
-
-By Abhishek Kumar Mishra 公開 2026 年 7 月 31 日、午前 7:30 EDT アビシェクは、コンピューティングをカバーする XDA の著者です。 2012 年に Lenovo G570 を購入して以来、彼はコンピューターが大好きです。アビシェクはコンピューター アプリケーションの修士号を取得し、2018 年に執筆活動を始めました。人気のあるオペレーティング システムや Web サービスに関するハウツー記事、リスト、情報投稿を書くのが大好きです。彼は Windows Insider プログラムを注意深くフォローし、新しい Insider ビルドをテストして、今後の実験的な機能やアップグレードを発見します。彼のこれまでの仕事には、「Tom&#39;s Hardware」や「Windows Most」などの評判の高い出版物との長期にわたるコラボレーションが含まれます。何も書いていないときは、ワンピースの新しいエピソードを見たり、夢中になれる何かを探したりして忙しいです。 XDA アカウントにサインインします。Google は最近、無料のクラウド ストレージ枠に寄与するアイテムに関するポリシーを更新しました。以前は、Android のバックアップ データには、通常、アプリ データとデバイス データ (SMS、通話履歴、電話設定) が含まれており、Google の無料ストレージ制限にはカウントされませんでした。しかし今後は、これらのアイテムがクラウド ストレージの合計容量にカウントさ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/android-mobile-backup-settings.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Google の新しいストレージ ポリシーにより、ドライブの監査が強制されました。その結果、これら 4 つの隠れたスペースを大量に消費していることがわかりました。"></p>]]></description><source url="https://www.xda-developers.com/ways-to-free-google-drive-storage/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/android-mobile-backup-settings.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/android-mobile-backup-settings.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>AMD の新しい Radeon RX 9050 は、ゲームでは RTX 5050 より約 30% 遅いことが初期のテストで示されています。最も安価な 8GB RDNA 4 GPU は 1080p ゲームを快適に処理しますが、印象には残りません</title><link>https://www.tomshardware.com/pc-components/gpus/amds-new-radeon-rx-9050-is-roughly-30-percent-slower-than-the-rtx-5050-in-games-early-testing-shows-the-cheapest-8gb-rdna-4-gpu-comfortably-handles-1080p-gaming-but-doesnt-impress</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/gpus/amds-new-radeon-rx-9050-is-roughly-30-percent-slower-than-the-rtx-5050-in-games-early-testing-shows-the-cheapest-8gb-rdna-4-gpu-comfortably-handles-1080p-gaming-but-doesnt-impress</guid><pubDate>Fri, 31 Jul 2026 11:28:54 +0000</pubDate><description><![CDATA[<p>AMD の新しい Radeon RX 9050 は、ゲームでは RTX 5050 より約 30% 遅いことが初期のテストで示されています。最も安価な 8GB RDNA 4 GPU は 1080p ゲームを快適に処理しますが、印象には残りません
-
-予想通りの圧倒的な出来栄え。
-
-AMD の新しい Radeon RX 9050 は、ゲームでは RTX 5050 より約 30% 遅いことが初期のテストで示されています。最も安価な 8GB RDNA 4 GPU は 1080p ゲームを快適に処理しますが、印象には残りません
-
-予想通りの圧倒的な出来栄え。
-
-(画像クレジット: ASRock) リンクをコピー
-
-0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する AMD は、数日前に最も安価な RDNA 4 グラフィックス カードである Radeon RX 9050 を正式に発売し、すでにそのパフォーマンス数値をいくつか取得しています。日本の販売店 GDM による予備テストでは、GPU を Nvidia の最も近いライバルである RTX 5050 と対戦させますが、この対戦では AMD が大差で負けます。 RX 9050 は、特に 1080p ゲームに限定されている場合には、それ自体では問題ありませんが、さまざまなタイトルの平均フレームレートが約 30% 遅いことから、対戦では不満の余地がたくさんあります。
-
-テストベンチは、Ryzen 7 9800X3D、特に 9050 の ASRock Challenger バリアントと、RTX 5050 の Gigabyte Windforce OC バリアントで構成されました。合成ベンチマークから始めると、レッド チームの GPU は 3DMark スイートでほぼ 20% 遅くなります。最大の違いはポート ロイヤルにあり、RTX 5050 は 6,181 ポイントを獲得しますが、RX 9050 は 4,531 ポイントしか管理できません。 Time Spy は、両方のカードが…</p><p><img src="https://cdn.mos.cms.futurecdn.net/e3aZ4gaUfwqRCa2fRXdMEC-1920-80.png" alt="AMD の新しい Radeon RX 9050 は、ゲームでは RTX 5050 より約 30% 遅いことが初期のテストで示されています。最も安価な 8GB RDNA 4 GPU は 1080p ゲームを快適に処理しますが、印象には残りません"></p>]]></description><source url="https://www.tomshardware.com/pc-components/gpus/amds-new-radeon-rx-9050-is-roughly-30-percent-slower-than-the-rtx-5050-in-games-early-testing-shows-the-cheapest-8gb-rdna-4-gpu-comfortably-handles-1080p-gaming-but-doesnt-impress">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/e3aZ4gaUfwqRCa2fRXdMEC-1920-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/e3aZ4gaUfwqRCa2fRXdMEC-1920-80.png"/></item>
-<item><title>Android スマートフォンでドキュメントを Google ドライブに自動的にバックアップできるようになりました。その方法は次のとおりです。</title><link>https://www.androidauthority.com/android-documents-backup-google-drive-3693167/</link><guid isPermaLink="true">https://www.androidauthority.com/android-documents-backup-google-drive-3693167/</guid><pubDate>Fri, 31 Jul 2026 11:22:51 +0000</pubDate><description><![CDATA[<p>Android スマートフォンでドキュメントを Google ドライブに自動的にバックアップできるようになりました。その方法は次のとおりです。
-
-Google は、ダウンロードしたファイルを Google ドライブに自動的にバックアップする新しいドキュメント バックアップ オプションを設定に導入します。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Android アプリ Android スマートフォンでドキュメントを Google ドライブに自動的にバックアップできるようになりました。その方法は次のとおりです。
-
-0 • Shimul Sood / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google Play Services の最新バージョンでは、待望のドキュメント バックアップ オプションがついに展開されます。
-
-有効にすると、ドキュメントは Google ドライブの新しい Android バックアップ フォルダーに自動的にアップロードされます。
-
-ただし、このバックアップ オプションを無効にしても、それらのファイルはドライブから削除されません。
-
-Google は、約 1 年にわたってドキュメント (旧ダウンロード) バックアップ オプションの開発に取り組んできました。新しいバックアップ カテゴリは今月初めに Google Play Services のベータ版でユーザーに表示され始め、より広範な展開が差し迫っていることを示唆しています。数週間かかりましたが、ついにその日がやって来ました。
-
-このドキュメントの追加バックアップ オプションは、Google Play Services バージョン 26.26 (安定版) の一部として Android スマートフォンに展開されます。 Pixel スマートフォンでは、[設定] &gt; [アカウントとバックアップ] &gt; [Google バックアップ]…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/07/Backup-other-data-settings-on-Google-Pixel-10-Pro.jpg" alt="Android スマートフォンでドキュメントを Google ドライブに自動的にバックアップできるようになりました。その方法は次のとおりです。"></p>]]></description><source url="https://www.androidauthority.com/android-documents-backup-google-drive-3693167/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/07/Backup-other-data-settings-on-Google-Pixel-10-Pro.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/07/Backup-other-data-settings-on-Google-Pixel-10-Pro.jpg"/></item>
-<item><title>Files by Google はついにより優れたドキュメント スキャナーになる可能性がある</title><link>https://www.androidauthority.com/files-by-google-document-scanner-apk-teardown-3693113/</link><guid isPermaLink="true">https://www.androidauthority.com/files-by-google-document-scanner-apk-teardown-3693113/</guid><pubDate>Fri, 31 Jul 2026 11:22:14 +0000</pubDate><description><![CDATA[<p>Files by Google はついにより優れたドキュメント スキャナーになる可能性がある
-
-Files by Google アプリはドキュメント スキャナーを提供していますが、APK の分解調査により、いくつかの便利な追加機能が提供されることが明らかになりました。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Files by Google はついにより優れたドキュメント スキャナーになる可能性がある
-
-0 • Edgar Cervantes / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Files by Google アプリの分解を実施したところ、ドキュメント スキャナーに便利な改善が加えられていることがわかりました。
-
-このアプリでは、以前は PDF サポートのみを提供していましたが、ドキュメントを JPEG または PDF 形式で保存できるようになります。
-
-このアプリでは、保存されたファイルの名前を変更したり、スキャンを保存する場所を選択したりすることもできます。
-
-Google では、Google ドライブまたは Files by Google アプリを介して携帯電話のカメラでドキュメントをスキャンする便利な機能を提供しています。これは、個人文書、領収書、その他の書類のデジタル コピーを取得する必要がある場合に最適です。ただし、この点に関しては、ファイルマネージャーに小さいながらも役立つ機能が追加されているようです。
-
-あなたは Authority Insights の記事を読んでいます。 Authority Insights は、他では見られない Android Authority チームからの最新の独占レポート、アプリの分解、リーク、詳細な技術報道をすべて提供します。
-
-Files by Google アプリの最新バージョン (バージョン 1.12100.954147356.0 リ…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2023/04/Google-Files-app-logo-on-smartphone-with-manila-folder-and-colorful-background-Stock-photo-6.jpg" alt="Files by Google はついにより優れたドキュメント スキャナーになる可能性がある"></p>]]></description><source url="https://www.androidauthority.com/files-by-google-document-scanner-apk-teardown-3693113/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2023/04/Google-Files-app-logo-on-smartphone-with-manila-folder-and-colorful-background-Stock-photo-6.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2023/04/Google-Files-app-logo-on-smartphone-with-manila-folder-and-colorful-background-Stock-photo-6.jpg"/></item>
-<item><title>MSI は、既存の DDR5 メモリに対して EXPO ULL のようなブーストを約束します — 高効率モードにより古い RAM に低レイテンシのチューニングをもたらします</title><link>https://www.tomshardware.com/pc-components/motherboards/msi-promises-an-expo-ull-like-boost-for-your-existing-ddr5-high-efficiency-mode-brings-low-latency-tuning-to-older-ram</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/motherboards/msi-promises-an-expo-ull-like-boost-for-your-existing-ddr5-high-efficiency-mode-brings-low-latency-tuning-to-older-ram</guid><pubDate>Fri, 31 Jul 2026 11:20:00 +0000</pubDate><description><![CDATA[<p>MSI は、既存の DDR5 メモリに対して EXPO ULL のようなブーストを約束します — 高効率モードにより古い RAM に低レイテンシのチューニングをもたらします
-
-同じ RAM、より低いレイテンシ
-
-MSI は、既存の DDR5 メモリに対して EXPO ULL のようなブーストを約束します — 高効率モードにより古い RAM に低レイテンシのチューニングをもたらします
-
-0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 市場で最高の RAM は、AMD の EXPO ULL テクノロジーの導入により、少なくとも AMD ユーザーにとってはさらに優れたものになりました。すべてのユーザーが EXPO ULL 互換キットにアクセスできるわけではないことを認識し、MSI は高効率モードと呼ばれる新機能を導入することで強化しました。これは、新しい EXPO ULL メモリ キットを所有していないユーザーにも同等の最適化とパフォーマンスの向上を提供します。
-
-AI データセンターが世界のメモリとストレージの供給を飲み込んでいる
-
-DRAM の未来: DDR5 から将来の IC まで
-
-HBM が PC の RAM に登場する理由は次のとおりです
-
-AMD EXPO ULL メモリ キットは、標準の AMD EXPO メモリ キットと似ています。これらを実際に区別しているのは、前者には特別に最適化されたメモリ サブタイミングが備わっており、メモリ レイテンシの顕著な削減につながることです。最適化は工場で行われます。 MSI の高効率モードは、通常のメモリ キットに対して同様の最適化を実行します。
-
-マシンチューニングは長年にわたって改善されてきましたが、それぞれのシステムは固有であるため、すべてのシステムに適用できる魔法の公式ではありません。最適化のレベルはハードウェア構成によって異なり、シリコンの品質も考慮する必要があります。一部のサンプルは他のサンプルよりも優れているだけなので、高効率モードが工場出荷…</p><p><img src="https://cdn.mos.cms.futurecdn.net/oYf3Dku7drE8HbPSz8Ko3F-1920-80.jpg" alt="MSI は、既存の DDR5 メモリに対して EXPO ULL のようなブーストを約束します — 高効率モードにより古い RAM に低レイテンシのチューニングをもたらします"></p>]]></description><source url="https://www.tomshardware.com/pc-components/motherboards/msi-promises-an-expo-ull-like-boost-for-your-existing-ddr5-high-efficiency-mode-brings-low-latency-tuning-to-older-ram">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/oYf3Dku7drE8HbPSz8Ko3F-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/oYf3Dku7drE8HbPSz8Ko3F-1920-80.jpg"/></item>
-<item><title>この Lenovo USB-C トラベル ドックにより、外出先での作業が簡単になります</title><link>https://www.xda-developers.com/lenovo-usb-c-dual-display-travel-dock-60-deal/</link><guid isPermaLink="true">https://www.xda-developers.com/lenovo-usb-c-dual-display-travel-dock-60-deal/</guid><pubDate>Fri, 31 Jul 2026 11:13:10 +0000</pubDate><description><![CDATA[<p>この Lenovo USB-C トラベル ドックにより、外出先での作業が簡単になります
-
-ラップトップの接続性を向上させる
-
-この Lenovo USB-C トラベル ドックにより、外出先での作業が簡単になります
-
-クレジット: Lenovo By Timi Cantisano 公開 2026 年 7 月 31 日、午前 7 時 13 分 EDT Timi は 10 年以上にわたり、スマートフォン、コンピューター、およびテクノロジー分野で興味深いと思うあらゆるものに焦点を当て、テクノロジーについて執筆してきました。彼は XDA に執筆を開始し、モバイルに関するあらゆることをカバーしていましたが、インターネット上で最高のハイテク製品の最高の割引を明らかにすることを使命として、取引をカバーすることに移行しました。 XDA アカウントにサインインする この Lenovo USB-C トラベル ドックは、ラップトップの機能を拡張する簡単かつ便利な方法を提供します。このデバイスはラップトップに電力を供給するだけでなく、接続されている他のデバイスにも電力を供給できます。
-
-ただし、最も重要なのは、DisplayPort、イーサネット、USB-A など、最近のラップトップでは通常見られないポートとの追加接続も提供することです。 USB-C 10Gbps ポートもいくつかあります。
-
-このトラベル ドックには、小売価格の 25% 割引により、必要なものがすべて揃っており、手頃な価格でわずか 60 ドルです。
-
-さて、あなたはこう思っているかもしれませんが、私のラップトップにはこれらのポートのほとんどがすでに搭載されています。確かにそうかもしれませんが、このトラベル ドックが優れている点は、多用途の接続性を提供しながら、物事を整理できることです。
-
-さらに、このドックを使用して複数のモニターに出力することもできます。これは、モニターだけでは実行できません。ここには 2 台の 4K ディスプレイに出力するのに十分な電力があります。
-
-画面の領域を最大化したい場合は、これがその方法です。 L…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/copy-of-169-20.jpg?w=1600&amp;h=900&amp;fit=crop" alt="この Lenovo USB-C トラベル ドックにより、外出先での作業が簡単になります"></p>]]></description><source url="https://www.xda-developers.com/lenovo-usb-c-dual-display-travel-dock-60-deal/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/copy-of-169-20.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/copy-of-169-20.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>この期間限定の Woot セールで MSI の RTX 5070 ゲーム PC が 900 ドル節約され、現在 1,399 ドルです。10 コア Intel CPU、32GB DDR5、1TB SSD を搭載したこの Codex R2 リグで大幅な節約を手に入れましょう</title><link>https://www.tomshardware.com/desktops/gaming-pcs/save-usd900-on-this-rtx-5070-gaming-pc-from-msi-in-this-limited-time-woot-deal-now-usd1-399-grab-a-huge-saving-on-this-codex-r2-rig-with-a-10-core-intel-cpu-32gb-ddr5-and-a-1tb-ssd</link><guid isPermaLink="true">https://www.tomshardware.com/desktops/gaming-pcs/save-usd900-on-this-rtx-5070-gaming-pc-from-msi-in-this-limited-time-woot-deal-now-usd1-399-grab-a-huge-saving-on-this-codex-r2-rig-with-a-10-core-intel-cpu-32gb-ddr5-and-a-1tb-ssd</guid><pubDate>Fri, 31 Jul 2026 11:03:17 +0000</pubDate><description><![CDATA[<p>この期間限定の Woot セールで MSI の RTX 5070 ゲーム PC が 900 ドル節約され、現在 1,399 ドルです。10 コア Intel CPU、32GB DDR5、1TB SSD を搭載したこの Codex R2 リグで大幅な節約を手に入れましょう
-
-この手頃な価格の事前構築済みリグを使用すると、1440p ゲームプレイをセットアップできます
-
-この期間限定の Woot セールで MSI の RTX 5070 ゲーム PC が 900 ドル節約され、現在 1,399 ドルです。10 コア Intel CPU、32GB DDR5、1TB SSD を搭載したこの Codex R2 リグで大幅な節約を手に入れましょう
-
-この手頃な価格の事前構築済みリグを使用すると、1440p ゲームプレイをセットアップできます
-
-(画像クレジット: Future / MSI) リンクをコピー
-
-0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 1440p でのゲームに十分なパフォーマンスを提供する RTX 5070 ゲーミング PC が今、非常にお買い得になっています。この MSI Codex R2 リグには、10 コア Intel CPU、Nvidia GeForce RTX 5070、1TB SSD ストレージ、および 32GB DDR5 RAM が搭載されており、現在の価格はわずか 1,399.99 ドルで、その過程で定価から 900 ドル引きになります。
-
-● Woot で MSI ゲーミング PC セールを手に入れましょう
-
-現時点では、この価格帯で同等のスペックのセットを他の既製品で見つけるのは難しいでしょう。ここでの大きな勝者は RTX 5070 で、1440p でのゲームに必要なパワーを提供し、DLSS 4 などの現行世代の Nvidia 機能によって強化され、アップスケーリングやマルチフレーム生成にアクセスしてゲームをさらにスムーズにプレイできるようになります。
-
-私たちの RTX 50…</p><p><img src="https://cdn.mos.cms.futurecdn.net/bX5euheCUQjX5myM75Lq5B-1920-80.png" alt="この期間限定の Woot セールで MSI の RTX 5070 ゲーム PC が 900 ドル節約され、現在 1,399 ドルです。10 コア Intel CPU、32GB DDR5、1TB SSD を搭載したこの Codex R2 リグで大幅な節約を手に入れましょう"></p>]]></description><source url="https://www.tomshardware.com/desktops/gaming-pcs/save-usd900-on-this-rtx-5070-gaming-pc-from-msi-in-this-limited-time-woot-deal-now-usd1-399-grab-a-huge-saving-on-this-codex-r2-rig-with-a-10-core-intel-cpu-32gb-ddr5-and-a-1tb-ssd">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/bX5euheCUQjX5myM75Lq5B-1920-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/bX5euheCUQjX5myM75Lq5B-1920-80.png"/></item>
-<item><title>Google Health により、間もなく医療検査の結果がはるかにわかりやすくなる可能性があります</title><link>https://www.androidauthority.com/google-health-medical-record-infographic-apk-teardown-3693210/</link><guid isPermaLink="true">https://www.androidauthority.com/google-health-medical-record-infographic-apk-teardown-3693210/</guid><pubDate>Fri, 31 Jul 2026 11:01:38 +0000</pubDate><description><![CDATA[<p>Google Health により、間もなく医療検査の結果がはるかにわかりやすくなる可能性があります
-
-Google Health の今後の「医療記録インフォグラフィック」機能は、複雑な検査レポートをシンプルな視覚的な概要に変換する可能性があります。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Google Health により、間もなく医療検査の結果がはるかにわかりやすくなる可能性があります
-
-0 • Google Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google Health v5.04.1 内の文字列から、Google が「医療記録インフォグラフィック」と呼ばれる実験的機能に取り組んでいることがわかります。
-
-この機能は、潜在的に AI を使用して、複雑な医療検査レポートをダウンロード可能な視覚的な概要に変換するように設計されているようです。
-
-ユーザーは、携帯電話のカメラで物理的な文書をスキャンしたり、最大 10 MB までの JPG、JPEG、PNG、または PDF ファイルをアップロードしたりできるようになります。ただし、このツールは一度に 1 つのレポートのみを処理し、以前のアップロードを上書きします。
-
-医療検査のレポートは、難解な頭字語や複雑な参照範囲が多く、一般の人にとっては読みにくいことで知られています。 Googleはそのギャップを埋めるソリューションに取り組んでいるようだ。 Google Health v5.04.1 内で、「Medical Record Infographic」と呼ばれる今後の実験的機能を明らかにする文字列を発見しました。この機能は、Google Health Labs でのユーザー エクスペリエンス調査研究の一環であるようで、分厚いラボ文書を明確で理解しやすい視覚的な概要に変換することを目的としているようです。
-
-あなたは Authority Insights の記事を読んでいます…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/05/Google-Health-Logo-on-phone-screen.jpg" alt="Google Health により、間もなく医療検査の結果がはるかにわかりやすくなる可能性があります"></p>]]></description><source url="https://www.androidauthority.com/google-health-medical-record-infographic-apk-teardown-3693210/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/05/Google-Health-Logo-on-phone-screen.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/05/Google-Health-Logo-on-phone-screen.jpg"/></item>
-<item><title>再生 PlayStation マザーボードの構築</title><link>https://hackaday.com/2026/07/31/building-a-reproduction-playstation-motherboard/</link><guid isPermaLink="true">https://hackaday.com/2026/07/31/building-a-reproduction-playstation-motherboard/</guid><pubDate>Fri, 31 Jul 2026 11:00:46 +0000</pubDate><description><![CDATA[<p>再生 PlayStation マザーボードの構築
-
-飲み物をこぼしたり、バッテリーが漏れたり、経年劣化などにより、古いゲーム機を使い続けるのは困難になることがあります。特に、マザーボードに過度の損傷が発生すると、修理が困難になる可能性があります。
-
-飲み物をこぼしたり、バッテリーが漏れたり、経年劣化などにより、古いゲーム機を使い続けるのは困難になることがあります。特に、マザーボードに過度の損傷があると、たとえコンソールの他の部分が問題ない状態であっても、修理が困難またはほぼ不可能になる可能性があります。現在、[xyzz] の新しいオープンソース マザーボードのおかげで、最悪の扱いを受けた PlayStation を復活させようとしている人々にとって、より大きな希望が持てるかもしれません。
-
-このボードは CC0-1.0 ライセンスで GitHub にアップされています。これは、必要なすべての独自ハードウェアを既存のドナーボードから移植できる、純正マザーボードのドロップイン交換品となることを目指しています。移植パーツのリストは、ご想像のとおり非常に広範囲にわたり、特に CPU、GPU、RAM、VRAM、BIOS、サウンド チップ、機械制御チップ、クリスタル、およびすべてのポートが含まれます。一部の汎用部品はまだ在庫から入手できますが、必要に応じて移植することもできます。現在の設計にはいくつかの問題点があります。つまり、蓋のスイッチ コネクタに完全に適合せず、一部のフットプリントははんだ付けが困難です。それでも、これは素晴らしいスタートであり、初期のテストでは、すでにかなり機能していることが示されています。
-
-幸いなことに、初代 PlayStation には、あちこちで液漏れして物体を腐食させるようなバッテリーは搭載されていませんでしたが、それでも基板は、その他のさまざまな面白くない方法で損傷します。したがって、ひどく損傷したマシンを生き返らせるために、交換用のマザーボードが提供されるのは素晴らしいことです。
-
-私たちはこれまでにも、数年前の C64 マザーボードを再作成す…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/07/front_71966b-e1785407665563.jpeg" alt="再生 PlayStation マザーボードの構築"></p>]]></description><source url="https://hackaday.com/2026/07/31/building-a-reproduction-playstation-motherboard/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/07/front_71966b-e1785407665563.jpeg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/07/front_71966b-e1785407665563.jpeg"/></item>
-<item><title>Samsung の最速 SSD がプライムデー価格に戻った - はるかに高速な第 5 世代 9100 Pro と第 4 世代 990 の差はわずか 30 ドル</title><link>https://www.tomshardware.com/pc-components/ssds/samsungs-fastest-ssd-is-back-to-prime-day-pricing-only-usd30-difference-between-the-much-faster-gen-5-9100-pro-and-gen-4-990</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/ssds/samsungs-fastest-ssd-is-back-to-prime-day-pricing-only-usd30-difference-between-the-much-faster-gen-5-9100-pro-and-gen-4-990</guid><pubDate>Fri, 31 Jul 2026 11:00:29 +0000</pubDate><description><![CDATA[<p>Samsung の最速 SSD がプライムデー価格に戻った - はるかに高速な第 5 世代 9100 Pro と第 4 世代 990 の差はわずか 30 ドル
-
-SSD の価格は依然として割高
-
-Samsung の最速 SSD がプライムデー価格に戻った - はるかに高速な第 5 世代 9100 Pro と第 4 世代 990 の差はわずか 30 ドル
-
-SSD の価格は依然として割高
-
-(画像クレジット: Future) リンクをコピー
-
-0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する SSD の価格は全般的に 1 年前に比べてかなり高くなっています。それでも、Samsung の 9100 Pro 2TB SSD のこの割引は歓迎すべき光景です。Samsung の最速 PCIe Gen 5.0 ドライブが、先月末の最新の Amazon Prime Day 販売イベント中に目撃した低価格に戻っているためです。現在、Amazon で 2TB Samsung 9100 Pro を 399.99 ドルで購入できます。これは、定価と比較して 41% の割引です。これは、Samsung の優れた 2TB 990 Pro SSD ($389.99) よりわずか 10 ドル高いだけであり、Samsung が最近リリースした 2TB 990 ($369.99) よりも 30 ドル高いだけです。どちらも、利用可能な帯域幅の速度が半分の前世代の PCIe 4.0 SSD です。
-
-● Amazon でこの Samsung 9100 Pro 2TB SSD セールをチェックしてください ● Amazon でこの Samsung 990 Pro 2TB SSD セールをチェックしてください ● Amazon でこの Samsung 990 2TB SSD セールをチェックしてください
-
-Samsung の 9100 Pro SSD は、PCIe 5.0 帯域幅を利用できるため、最大 14,700MB/s のシーケンシャル読み取…</p><p><img src="https://cdn.mos.cms.futurecdn.net/D93EHS9DPUzkTdFysmHPvR-1920-80.jpg" alt="Samsung の最速 SSD がプライムデー価格に戻った - はるかに高速な第 5 世代 9100 Pro と第 4 世代 990 の差はわずか 30 ドル"></p>]]></description><source url="https://www.tomshardware.com/pc-components/ssds/samsungs-fastest-ssd-is-back-to-prime-day-pricing-only-usd30-difference-between-the-much-faster-gen-5-9100-pro-and-gen-4-990">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/D93EHS9DPUzkTdFysmHPvR-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/D93EHS9DPUzkTdFysmHPvR-1920-80.jpg"/></item>
-<item><title>Humble が「Rage Inducing Difficult Games」バンドルを発表</title><link>https://www.kitguru.net/desktop-pc/mustafa-mahmoud/humble-announces-rage-inducing-difficult-games-bundle/</link><guid isPermaLink="true">https://www.kitguru.net/desktop-pc/mustafa-mahmoud/humble-announces-rage-inducing-difficult-games-bundle/</guid><pubDate>Fri, 31 Jul 2026 11:00:22 +0000</pubDate><description><![CDATA[<p>Humble が「Rage Inducing Difficult Games」バンドルを発表
-
-Humble は、GRIME、Getting Over It、Lorn&#39;s Lure などを含む「Rage Inducing Difficult Games」バンドルを提供しています。
-
-Humble が「Rage Inducing Difficult Games」バンドルを発表
-
-Mustafa Mahmoud 17 時間前 注目のテクノロジー ニュース , PC , ソフトウェア &amp; ゲーム , テクノロジー ニュース
-
-課題を克服するとき、特にその課題が厳しい、あるいは不公平であると広くみなされている場合には、特に満足感が得られます。これに着目して、Humble は現在、あらゆるジャンルをカバーする新しい「Rage Inducing Difficult Games」バンドルを提供しています。 Humble の Rage Inducing Difficult Games Bundle は今後 3 週間ほど購入可能で、予想通り、複数の形式で請求できます。少なくとも £5.40 を支払うと、次の特典が得られます: Getting Over It (すべてが始まったゲーム)
-
-Pogostuck: Rage With Your Friends (Getting Over It から直接インスピレーションを得た)
-
-Splodey (ジャンプできない 2D プラットフォーマー)
-
-Never Give Up (ペースの速い 2D プラットフォーマー)
-
-その間、少なくとも 11.70 ポンドを支払うと、上記のタイトルに加えて次のタイトルが追加された 10 タイトルの完全なバンドルが手に入ります: GRIME – Deluxe Edition (ハードコア ソウルのようなメトロイドヴァニア)
-
-Lorn’s Lure (レトロ風の一人称クライミング ゲーム)
-
-Aeterna: Darkness Megapack (2D 手描きメトロイドヴァニア)
-
-Jump King (チャージ…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/07/rage-732x330.jpg" alt="Humble が「Rage Inducing Difficult Games」バンドルを発表"></p>]]></description><source url="https://www.kitguru.net/desktop-pc/mustafa-mahmoud/humble-announces-rage-inducing-difficult-games-bundle/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/07/rage-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/07/rage-732x330.jpg"/></item>
-<item><title>Modder der8auer は、ファンなしで Ryzen 7 9800X3D を受動的に冷却するための 110cm 3D プリント煙突を構築し、温度を 19 ℃削減 — 根本的にシンプルな PC MOD は「スタック効果」を使用</title><link>https://www.tomshardware.com/pc-components/cooling/modder-der8auer-builds-110cm-3d-printed-chimney-to-passively-cool-ryzen-7-9800x3d-without-fans-radically-simple-pc-mod-cuts-down-cpu-temps-by-19-c-using-the-stack-effect</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/cooling/modder-der8auer-builds-110cm-3d-printed-chimney-to-passively-cool-ryzen-7-9800x3d-without-fans-radically-simple-pc-mod-cuts-down-cpu-temps-by-19-c-using-the-stack-effect</guid><pubDate>Fri, 31 Jul 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>Modder der8auer は、ファンなしで Ryzen 7 9800X3D を受動的に冷却するための 110cm 3D プリント煙突を構築し、温度を 19 ℃削減 — 根本的にシンプルな PC MOD は「スタック効果」を使用
-
-自然浮力の強化。
-
-Modder der8auer は、ファンなしで Ryzen 7 9800X3D を受動的に冷却するための 110cm 3D プリント煙突を構築し、温度を 19 ℃削減 — 根本的にシンプルな PC MOD は「スタック効果」を使用
-
-自然浮力の強化。
-
-(画像クレジット: YouTube の der8auer) リンクをコピー
-
-1 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 機械的圧力は、自然浮力よりもコンピューターを設計する優れたシステムとして機能しますが、der8bauer による新しい実験は、その概念に挑戦しようとしています。伝説的な改造者は最近、温度差を利用して自然対流を再び有効になるまで触媒する「スタック効果」を利用する煙突を建設しました。その結果、ファンなしでテストベンチの CPU の温度が 19 ℃ 低下しました。
-
-上のビデオでは、スタック効果の基礎である自然対流に関する概念を詳しく説明しています。煙突効果としても知られるこの現象は、温度と湿度の違いによって決まる屋内と屋外の空気密度の違いに依存しています。煙突の底部は低圧ゾーンとなり、上部の低圧出口から逃げる冷気を吸い込みます。
-
-実験では、der8auer 氏はフォグマシンを使用して、ファンが取り付けられていないとラジエーターが空気を「吸引」できないことを示しました。反対側から放散する熱風は自然対流によって強制的に戻されます。テストベンチは水冷式で、AMD Ryzen 7 9800X3D で構成されていたため、水温も監視するためにフィッティングに温度プローブを追加しました。次に実験は、高さ 10 cm の最初の 3D プリント煙突から始まります。これはかろうじて機能しますが、温度…</p><p><img src="https://cdn.mos.cms.futurecdn.net/dUKq9GurzLsabz4hqftNii-2560-80.png" alt="Modder der8auer は、ファンなしで Ryzen 7 9800X3D を受動的に冷却するための 110cm 3D プリント煙突を構築し、温度を 19 ℃削減 — 根本的にシンプルな PC MOD は「スタック効果」を使用"></p>]]></description><source url="https://www.tomshardware.com/pc-components/cooling/modder-der8auer-builds-110cm-3d-printed-chimney-to-passively-cool-ryzen-7-9800x3d-without-fans-radically-simple-pc-mod-cuts-down-cpu-temps-by-19-c-using-the-stack-effect">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/dUKq9GurzLsabz4hqftNii-2560-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/dUKq9GurzLsabz4hqftNii-2560-80.png"/></item>
-<item><title>クアルコム搭載ロボットが同社の基調講演中にステージ上で見事に崩壊 - 準備を整えた舞台係が急いでマントをまとい、襲われた人型ロボットを運び去った (更新)</title><link>https://www.tomshardware.com/tech-industry/robotics/qualcomm-powered-robot-collapses-spectacularly-on-stage-during-presentation-prepared-stagehands-rush-to-cloak-and-then-carry-off-stricken-humanoid</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/robotics/qualcomm-powered-robot-collapses-spectacularly-on-stage-during-presentation-prepared-stagehands-rush-to-cloak-and-then-carry-off-stricken-humanoid</guid><pubDate>Fri, 31 Jul 2026 10:40:00 +0000</pubDate><description><![CDATA[<p>クアルコム搭載ロボットが同社の基調講演中にステージ上で見事に崩壊 - 準備を整えた舞台係が急いでマントをまとい、襲われた人型ロボットを運び去った (更新)
-
-機械の混乱がクラッシュすると、プレゼンテーションのリングが空洞になります。
-
-クアルコム搭載ロボットが同社の基調講演中にステージ上で見事に崩壊 - 準備を整えた舞台係が急いでマントをまとい、襲われた人型ロボットを運び去った (更新)
-
-機械の混乱がクラッシュすると、プレゼンテーションのリングが空洞になります。
-
-(画像クレジット: Qualcomm ) リンクをコピー
-
-8 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 最近の更新情報 更新 - 7 月 31 日東部時間午前 11 時 30 分: クアルコムの広報担当者は Tom&#39;s Hardware に対して次の声明を発表しました。 「ライブデモにはリスクが伴います。台北のComputexでは、短時間の通信障害によりプロトタイプのヒューマノイドに障害が発生し、制御されたシャットダウンが開始されました。ロボットは設計された『安全崩壊』シーケンスを実行し、周囲の環境を保護するために膝まで下がりました。安全システムは意図したとおりに機能しました。このインシデントは、システムの信頼性をさらに強化し、より安全で回復力のあるロボット工学の開発を加速するのに役立つ貴重な現実世界のデータも提供しました。」
-
-クアルコムの幹部は、この夏の Computex 2026 のステージで、私たちがこれまでライブで見た中で最も悲惨な技術デモの 1 つで被害を受けました。台北で開催されたプレスイベントでは、驚きの瞬間となるはずだった。クアルコムのハードウェア パートナーである NEURA Robotics の 4NE-1 人型ロボットは、技術的な大技から、クラッシュする機械の混乱へと急速にギアを切り替えました。
-
-クアルコムの新しい AI チップを搭載したロボット、r/singularity のプレゼンテーション中に死亡
-
-4N…</p><p><img src="https://cdn.mos.cms.futurecdn.net/UBYBxqTjfVdXNnJGWireRb-1920-80.jpg" alt="クアルコム搭載ロボットが同社の基調講演中にステージ上で見事に崩壊 - 準備を整えた舞台係が急いでマントをまとい、襲われた人型ロボットを運び去った (更新)"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/robotics/qualcomm-powered-robot-collapses-spectacularly-on-stage-during-presentation-prepared-stagehands-rush-to-cloak-and-then-carry-off-stricken-humanoid">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/UBYBxqTjfVdXNnJGWireRb-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/UBYBxqTjfVdXNnJGWireRb-1920-80.jpg"/></item>
-<item><title>Arduino&#39;s Zephyr RTOS-Based Cores Exit Beta, with &#34;Legacy&#34; Mbed Cores to Be Deprecated</title><link>https://www.hackster.io/news/arduino-s-zephyr-rtos-based-cores-exit-beta-with-legacy-mbed-cores-to-be-deprecated-56ec71ef1f7f</link><guid isPermaLink="true">https://www.hackster.io/news/arduino-s-zephyr-rtos-based-cores-exit-beta-with-legacy-mbed-cores-to-be-deprecated-56ec71ef1f7f</guid><pubDate>Fri, 31 Jul 2026 10:31:10 +0000</pubDate><description><![CDATA[<p>Arduino&#39;s Zephyr RTOS-Based Cores Exit Beta, with &#34;Legacy&#34; Mbed Cores to Be Deprecated</p>]]></description><source url="https://www.hackster.io/news/arduino-s-zephyr-rtos-based-cores-exit-beta-with-legacy-mbed-cores-to-be-deprecated-56ec71ef1f7f">Hackster.io</source></item>
 </channel></rss>
