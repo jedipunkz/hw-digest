@@ -1,4 +1,80 @@
-<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>日本のハードウェア情報</title><link rel="alternate" type="application/rss+xml" title="日本のハードウェア情報" href="index.xml"><style>:root{color-scheme:light}body{font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;max-width:860px;margin:0 auto;padding:3rem 1.25rem 5rem;line-height:1.7;color:#172033;background:#f6f8fb}header{margin-bottom:2rem}h1{letter-spacing:-.04em;margin:0;font-size:clamp(2rem,5vw,3.2rem)}header p{color:#627083;margin:.45rem 0}a{color:#075985;text-decoration-thickness:1px;text-underline-offset:3px}.hint{font-size:.85rem;color:#627083}.feed{display:grid;gap:1rem}article{background:#fff;border:1px solid #e0e6ef;border-radius:16px;padding:1.25rem;box-shadow:0 1px 2px #1720330a;outline:none;transition:border-color .15s,box-shadow .15s,transform .15s}article:focus,article.active{border-color:#38bdf8;box-shadow:0 0 0 4px #38bdf833,0 10px 25px #17203312;transform:translateY(-1px)}h2{font-size:1.2rem;line-height:1.4;margin:0 0 .5rem}.meta{color:#627083;font-size:.86rem;margin:0 0 .75rem}img{display:block;width:100%;max-height:440px;object-fit:cover;margin:.75rem 0;border-radius:10px;background:#e8edf4}.summary{white-space:pre-line;margin:1rem 0 0;color:#364152}</style></head><body><header><h1>日本のハードウェア情報</h1><p>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</p><p><a href="index.xml">RSSを購読する</a></p><p class="hint">j / k キーで記事を移動</p></header><main class="feed"><article tabindex="-1"><h2><a href="https://northwood.blog.fc2.com/blog-entry-13169.html">“Diamond Rapids”？ Intelの謎の32-core CPUが出現</a></h2><p class="meta">北森瓦版 · <time datetime="2026-08-05T15:40:28Z">2026-08-05 15:40 UTC</time></p><p class="summary">“Diamond Rapids”？ Intelの謎の32-core CPUが出現
+<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>日本のハードウェア情報</title><link rel="alternate" type="application/rss+xml" title="日本のハードウェア情報" href="index.xml"><style>:root{color-scheme:light}body{font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;max-width:860px;margin:0 auto;padding:3rem 1.25rem 5rem;line-height:1.7;color:#172033;background:#f6f8fb}header{margin-bottom:2rem}h1{letter-spacing:-.04em;margin:0;font-size:clamp(2rem,5vw,3.2rem)}header p{color:#627083;margin:.45rem 0}a{color:#075985;text-decoration-thickness:1px;text-underline-offset:3px}.hint{font-size:.85rem;color:#627083}.feed{display:grid;gap:1rem}article{background:#fff;border:1px solid #e0e6ef;border-radius:16px;padding:1.25rem;box-shadow:0 1px 2px #1720330a;outline:none;transition:border-color .15s,box-shadow .15s,transform .15s}article:focus,article.active{border-color:#38bdf8;box-shadow:0 0 0 4px #38bdf833,0 10px 25px #17203312;transform:translateY(-1px)}h2{font-size:1.2rem;line-height:1.4;margin:0 0 .5rem}.meta{color:#627083;font-size:.86rem;margin:0 0 .75rem}img{display:block;width:100%;max-height:440px;object-fit:cover;margin:.75rem 0;border-radius:10px;background:#e8edf4}.summary{white-space:pre-line;margin:1rem 0 0;color:#364152}</style></head><body><header><h1>日本のハードウェア情報</h1><p>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</p><p><a href="index.xml">RSSを購読する</a></p><p class="hint">j / k キーで記事を移動</p></header><main class="feed"><article tabindex="-1"><h2><a href="https://gori.me/apple/apple-news/168736">iCloudプライベートリレー、IPアドレスが漏れる問題が発覚</a></h2><p class="meta">gori.me · <time datetime="2026-08-05T22:05:34Z">2026-08-05 22:05 UTC</time></p><img src="https://gori.me/uploads/2026/08/daniel-korpai-lTb4gJK_l1Q-unsplash-800x500.jpg" alt="iCloudプライベートリレー、IPアドレスが漏れる問題が発覚" loading="lazy"><p class="summary">iCloudプライベートリレー、IPアドレスが漏れる問題が発覚
+
+有料のiCloud+に含まれるiCloudプライベートリレーで、本来隠されるはずのIPアドレスが漏れる問題が見つかった。パスキー対応サイトを開くだけで、確認画面すら出ないまま端末の本当のIPアドレスがサーバーに渡る。原因はWebKit側にあり、Appleは調査中と回答している。
+
+iCloudプライベートリレー、IPアドレスが漏れる問題が発覚
+
+パスキー対応サイトを開くだけで露出。Appleは調査中と回答、修正時期は未定
+
+研究者のTommy Mysk氏とTalal Haj Bakry氏が、WebKitに3つの抜け道を発見。iCloudプライベートリレーが実際のIPアドレスとDNS情報を漏らす
+
+パスキー（WebAuthn）の処理はSafariではなくOS側が直接通信するため、プライベートリレーの中継経路を通らない。確認ダイアログも出ず気づけない
+
+Appleは404 Mediaに調査中と回答。修正時期は未定で、確実に隠したい人は端末全体を通すVPNが現実的な対策
+
+お金を払って使うプライバシー機能「iCloudプライベートリレー」が、本来隠すはずのIPアドレスをWebサイトに見せてしまう問題が見つかった。
+
+とはいえ、慌ててSafariを閉じる必要はない。日常のネット閲覧が急に危険になったわけではなく、影響が大きいのは 自分の居場所や回線を確実に隠したい人 だ。この記事では、何が起きているのか、自分に関係があるのかを順番に整理していく。
+
+404 Media が報じた。セキュリティ研究者のTommy Mysk氏とTalal Haj Bakry氏が、AppleのブラウザエンジンWebKitに3つの抜け道を見つけ、そのうちのひとつが特に厄介だという内容だ。
+
+プライベートリレーは有料のiCloud+に含まれる機…</p></article><article tabindex="-1"><h2><a href="https://akiba-pc.watch.impress.co.jp/docs/price/monthly_repo/2130945.html">DDR5メモリの16GB×2枚組が今年最安の39,980円、大容量の64GB×2枚組は一部が続騰 [8月前半のメモリ価格]</a></h2><p class="meta">AKIBA PC Hotline! · <time datetime="2026-08-05T22:05:00Z">2026-08-05 22:05 UTC</time></p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2130/945/2026-0725-134915.jpg" alt="DDR5メモリの16GB×2枚組が今年最安の39,980円、大容量の64GB×2枚組は一部が続騰 [8月前半のメモリ価格]" loading="lazy"><p class="summary">DDR5メモリの16GB×2枚組が今年最安の39,980円、大容量の64GB×2枚組は一部が続騰 [8月前半のメモリ価格]
+
+サハロフ佐藤(佐藤 純一)とAKIBA PC Hotline!編集部が、秋葉原各ショップのHDD、SSD、メモリ、CPUの店頭価格を独自に調査し、価格動向をお伝えするコーナーです。PCパーツ購入時などに参考としてご活用下さい。
+
+DDR5メモリの16GB×2枚組が今年最安の39,980円、大容量の64GB×2枚組は一部が続騰 [8月前半のメモリ価格]
+
+サハロフ佐藤(佐藤 純一)とAKIBA PC Hotline!編集部が、秋葉原各ショップのHDD、SSD、メモリ、CPUの店頭価格を独自に調査し、価格動向をお伝えするコーナーです。PCパーツ購入時などに参考としてご活用下さい。
+
+なお、掲載価格は調査時のものであり、この価格で販売されることを保証するものではありませんので、その点はご了承ください。
+
+DDR5 DIMM 16GB×2枚組が今年最安の39,980円、大容量の64GB×2枚組は一部が続騰
+
+7月25日(土)の調査で、「DDR5-5600」16GB×2枚組が20,000円安の39,980円(G.SKILL)に急落。DDR5 DIMM 16GB×2枚組としては、今年に入ってからの最安値だ。8月1日時点の最安は「DDR5-4800」で、前回比8,820円安の特価45,980円(TWSC)となっている。
+
+より高速なモデルでは、「DDR5-6400」16GB×2枚組が3,820円安の57,980円(V-COLOR)に下落。7月25日には「DDR5-8400 CUDIMM」24GB×2枚組が17,000円安の69,980円(G.SKILL)、24GB(1枚)が11,000円安の31,980円(Kingston)、「DDR5-6000」32GB×2枚組が18,000円安の79,980円(同)で特売されていた。
+
+一方、大容量の64GB×2枚組は一部が続騰。「DDR5-6400」が32,820円高の367,620円(Corsair)、「DDR5-60…</p></article><article tabindex="-1"><h2><a href="https://gori.me/sale/peripheral-sale/168733">【最終日】iPhone Airの”在庫処分セール”は本日終了。AirPodsやストラップも</a></h2><p class="meta">gori.me · <time datetime="2026-08-05T21:45:05Z">2026-08-05 21:45 UTC</time></p><img src="https://gori.me/uploads/2025/09/iPhone17-17Pro-Air-Hands-On-Review-13-800x534.jpg" alt="【最終日】iPhone Airの”在庫処分セール”は本日終了。AirPodsやストラップも" loading="lazy"><p class="summary">【最終日】iPhone Airの”在庫処分セール”は本日終了。AirPodsやストラップも
+
+Amazonで実施中のiPhone Airセールが本日で最終日。256GBは177,800円から139,800円、512GBは212,800円から156,800円まで下がった。クロスボディストラップやケース、AirPods Pro 3も同時に値下げ中だ。9月の値上げが濃厚な今、買うなら本日中に動きたい。
+
+【最終日】iPhone Airの”在庫処分セール”は本日終了。AirPodsやストラップも
+
+9月に来るであろう「値上げの大津波」を前に、入手したいものがあれば今のうちに急げ
+
+iPhone Airは256GBが139,800円（21％オフ）、512GBが156,800円（26％オフ）で本日最終日
+
+クロスボディストラップは8,100円（25％オフ）、純正ケースは最大4,940円（44％オフ）まで下落
+
+AirPods Pro 3は36,800円、MagSafe充電器は6,200円。9月の世界的な値上げ前に押さえたい
+
+Amazon で続いていた iPhone Air のセールが、本日で最終日を迎える。 iPhone Air 256GBモデル は177,800円から139,800円へ、 512GBモデル は212,800円から156,800円まで下がっており、数万円単位で安く買えるのは今日までだ。
+
+安くなっているのは本体だけではない。 クロスボディストラップ 、 iPhone Air 専用の MagSafe対応ケース と バンパー 、 AirPods Pro 3 、 MagSafe充電器 まで同時に値下げされている。本体とアクセサリを一気に揃えるなら、これ以上わかりやすいタイミングはない。
+
+そして今回は「安いから」よりも大きな理由がある。9月に控えるApple製品の値上げだ。…</p></article><article tabindex="-1"><h2><a href="https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2130904.html">【やじうまミニレビュー】ポケットにも楽々入るロジクールの2つ折りマウス「Mobi Fold」。その気になるギミックとは？</a></h2><p class="meta">PC Watch · <time datetime="2026-08-05T21:16:00Z">2026-08-05 21:16 UTC</time></p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2130/904/01.jpg" alt="【やじうまミニレビュー】ポケットにも楽々入るロジクールの2つ折りマウス「Mobi Fold」。その気になるギミックとは？" loading="lazy"><p class="summary">【やじうまミニレビュー】ポケットにも楽々入るロジクールの2つ折りマウス「Mobi Fold」。その気になるギミックとは？
+
+ロジクールから、折りたたみ式のマウス「Mobi Fold」が登場した。持ち運びを前提とした薄型マウスは複数のメーカーが手掛けており、本製品の外観もやや既視感のあるデザインだが、先行メーカーのようにボディを伸ばしてフラットにしたり、前後にスライドさせたりするのではなく、中央からボディを折り曲げて内側にたためるのが特徴だ。
+
+ポケットにも楽々入るロジクールの2つ折りマウス「Mobi Fold」。その気になるギミックとは？
+
+ロジクールから、折りたたみ式のマウス「Mobi Fold」が登場した。持ち運びを前提とした薄型マウスは複数のメーカーが手掛けており、本製品の外観もやや既視感のあるデザインだが、先行メーカーのようにボディを伸ばしてフラットにしたり、前後にスライドさせたりするのではなく、中央からボディを折り曲げて内側にたためるのが特徴だ。
+
+つまり、他社との違いは収納時のギミックということになるが、実は本製品には、特に初見で利用するときにリスクになりかねない点が1つある。メーカーから借用した実機をもとに、製品の機能をチェックしつつ、それらの点を見ていく。
+
+実質的な「4ボタンマウス」。割り当てはユーティリティで変更可能
+
+マウスとしての本製品の仕様は一般的で、左右ボタンに加えて、指先でなぞって画面を縦方向にスクロールできるタッチボタン(タッチスクロール)を中央に搭載する。これはホイールの代替機構にあたるが、タッチ面の前方と後方がそれぞれクリック可能になっており、進む/戻るに割り当てられているのが特徴だ。
+
+つまり機能的には5ボタンマウス……と言いたいところだが、純粋なホイールクリックにあたる機能が省かれているので、実質的に4ボタンマウスということになる。ホ…</p></article><article tabindex="-1"><h2><a href="https://pc.watch.impress.co.jp/docs/column/semicon/2130938.html">【福田昭のセミコン業界最前線】液体冷却SSDや量子メモリ、永久ストレージなど話題豊富なFMS 2026</a></h2><p class="meta">PC Watch · <time datetime="2026-08-05T21:14:00Z">2026-08-05 21:14 UTC</time></p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2130/938/photo000.jpg" alt="【福田昭のセミコン業界最前線】液体冷却SSDや量子メモリ、永久ストレージなど話題豊富なFMS 2026" loading="lazy"><p class="summary">【福田昭のセミコン業界最前線】液体冷却SSDや量子メモリ、永久ストレージなど話題豊富なFMS 2026
+
+半導体メモリとストレージに関する世界最大のイベント(講演会兼展示会)「フューチャー(オブ)メモリアンドストレージ(FMS: the Future of Memory and Storage)」が今年(2026年)も、8月4日から6日に米国カリフォルニア州シリコンバレーの会議場「サンタクララコンベンションセンター(SCCC: Santa Clara Convention Center)」で開催される。7月21日付けの本コラムではFMSの基礎知識と基本スケジュール、基調講演などを説明した。続く7月23日付けの本コラムでは8月4日の一般講演セッション、さらに7月28日付けの本コラムでは8月5日午前の一般講演セッションで実施予定の講演やパネル討論会などを紹介してきた。
+
+液体冷却SSDや量子メモリ、永久ストレージなど話題豊富なFMS 2026
+
+半導体メモリとストレージに関する世界最大のイベント(講演会兼展示会)「フューチャー(オブ)メモリアンドストレージ(FMS: the Future of Memory and Storage)」が今年(2026年)も、8月4日から6日に米国カリフォルニア州シリコンバレーの会議場「サンタクララコンベンションセンター(SCCC: Santa Clara Convention Center)」で開催される。7月21日付けの本コラムではFMSの基礎知識と基本スケジュール、基調講演などを説明した。続く7月23日付けの本コラムでは8月4日の一般講演セッション、さらに7月28日付けの本コラムでは8月5日午前の一般講演セッションで実施予定の講演やパネル討論会などを紹介してきた。
+
+【福田昭のセミコン業界最前線】キオクシアらがAI時代のメモリとストレージを…</p></article><article tabindex="-1"><h2><a href="https://northwood.blog.fc2.com/blog-entry-13169.html">“Diamond Rapids”？ Intelの謎の32-core CPUが出現</a></h2><p class="meta">北森瓦版 · <time datetime="2026-08-05T15:40:28Z">2026-08-05 15:40 UTC</time></p><p class="summary">“Diamond Rapids”？ Intelの謎の32-core CPUが出現
 
 北森瓦版 - Northwood Blog (Author : 北森八雲. Since July 10, 2006.)
 
@@ -6971,33 +7047,7 @@ Agasoundの全ての製品は、自社内にある音響研究所『XYLAB』に�
 
 通常モデルのSublimationをベースに、ウッドハウジングに合わせより広い音場、極めて高いボーカル再現性、「サ‧シ‧ス‧セ‧ソ」などの「s」の音に含まれる5,000～8,000Hz付近の耳障りなシビランス(歯擦音)の低減などの変更が加えられています。
 
-高音域は豊かな空気感と明瞭さ、中音域は適度な厚みと臨場感、低音域は…</p></article><article tabindex="-1"><h2><a href="https://akiba-pc.watch.impress.co.jp/docs/news/news/2128983.html">AMDの新エントリーGPU「Radeon RX 9050」が登場、価格は54,800円から</a></h2><p class="meta">AKIBA PC Hotline! · <time datetime="2026-07-31T02:00:00Z">2026-07-31 02:00 UTC</time></p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2128/983/s1_s.jpg" alt="AMDの新エントリーGPU「Radeon RX 9050」が登場、価格は54,800円から" loading="lazy"><p class="summary">AMDの新エントリーGPU「Radeon RX 9050」が登場、価格は54,800円から
-
-AMDのメインストリーム向けゲーミングGPU「Radeon RX 9050」を搭載したビデオカードが各社から登場。
-
-AMDの新エントリーGPU「Radeon RX 9050」が登場、価格は54,800円から
-
-AMDのメインストリーム向けゲーミングGPU「Radeon RX 9050」を搭載したビデオカードが各社から登場。
-
-7月31日（金）時点で入荷を確認したのは、ASUS、ASRock、GIGABYTEの各モデル。価格は54,800～54,980円。
-
-Radeon RX 9060シリーズの下位モデル、GDDR6メモリ8GB搭載
-
-Radeon RX 9050は、RDNA 4アーキテクチャを採用した新GPU。
-
-2025年に登場した「Radeon RX 9060 XT」や「Radeon RX 9060」（主に組み込み向け）の下位に位置するモデルで、「eスポーツタイトルや最新のAAAタイトルにおいて、1080pで快適かつ応答性の高いゲームプレイを実現するよう設計されている」（AMD）という。
-
-演算ユニット数は16で、レイアクセラレータ16基、AIアクセラレータ32基を備える。総トランジスタ数は297億。
-
-リファレンス仕様は、ブーストクロックが2,600MHzで、18Gbps動作のGDDR6メモリ8GB（128bit）を備える。補助電源は8ピン×1。
-
-映像インターフェイスはDisplayPort 2.1a、HDMI 2.1b。
-
-7月30日（木）時点で秋葉原のPCパーツショップでは、上位のRadeon RX 9060 XTを搭載した一部モデルが同等の価格でセール中のため、現状はRadeon RX 9050を積極的に選択する理由は無いが、仮にセール品が無くなった場合は、新たなゲーム向けGPUとして注目を集める可能性がありそうだ。
-
-[取材協力: パソコン工房 秋葉原パーツ館 と パソコンショップ アーク と ツクモパソコン本店 と TSUKUMO eX. ]
-
-Radeo…</p></article><article tabindex="-1"><h2><a href="https://e-earphone.blog/?p=1550898">【7/31発売】Softearsから独自の11mm高性能ダイナミック搭載のイヤホン EDGE が登場！</a></h2><p class="meta">e☆イヤホン · <time datetime="2026-07-31T02:00:00Z">2026-07-31 02:00 UTC</time></p><img src="https://e-earphone.blog/wp-content/uploads/2026/07/Softears-EDGE.webp" alt="【7/31発売】Softearsから独自の11mm高性能ダイナミック搭載のイヤホン EDGE が登場！" loading="lazy"><p class="summary">【7/31発売】Softearsから独自の11mm高性能ダイナミック搭載のイヤホン EDGE が登場！
+高音域は豊かな空気感と明瞭さ、中音域は適度な厚みと臨場感、低音域は…</p></article><article tabindex="-1"><h2><a href="https://e-earphone.blog/?p=1550898">【7/31発売】Softearsから独自の11mm高性能ダイナミック搭載のイヤホン EDGE が登場！</a></h2><p class="meta">e☆イヤホン · <time datetime="2026-07-31T02:00:00Z">2026-07-31 02:00 UTC</time></p><img src="https://e-earphone.blog/wp-content/uploads/2026/07/Softears-EDGE.webp" alt="【7/31発売】Softearsから独自の11mm高性能ダイナミック搭載のイヤホン EDGE が登場！" loading="lazy"><p class="summary">【7/31発売】Softearsから独自の11mm高性能ダイナミック搭載のイヤホン EDGE が登場！
 
 大胆な幾何学的造形と高い機能性を融合させたチタン製イヤホン。豊かな音響基盤を構築こんにちは！e☆イヤホンのPRスタッフです！今回はSoftearsからの新製品のご紹介です。 Softears EDGE▼
 
@@ -7027,7 +7077,33 @@ EDGEは、CNC加工されたチタン合金から生み出された、幾何学�
 
 EDGEのシェルは、無数の耳型データを分析し、人間工学に基づいて設計されました。
 
-チタンの質感を活かしたデザインでありながら、耳に装着した際に…</p></article><article tabindex="-1"><h2><a href="https://pc.watch.impress.co.jp/docs/news/todays_sales/2129469.html">【本日みつけたお買い得品】HPのOffice付きノートが約4万円引きでオトク！</a></h2><p class="meta">PC Watch · <time datetime="2026-07-31T01:55:12Z">2026-07-31 01:55 UTC</time></p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2129/469/03.jpg" alt="【本日みつけたお買い得品】HPのOffice付きノートが約4万円引きでオトク！" loading="lazy"><p class="summary">【本日みつけたお買い得品】HPのOffice付きノートが約4万円引きでオトク！
+チタンの質感を活かしたデザインでありながら、耳に装着した際に…</p></article><article tabindex="-1"><h2><a href="https://akiba-pc.watch.impress.co.jp/docs/news/news/2128983.html">AMDの新エントリーGPU「Radeon RX 9050」が登場、価格は54,800円から</a></h2><p class="meta">AKIBA PC Hotline! · <time datetime="2026-07-31T02:00:00Z">2026-07-31 02:00 UTC</time></p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2128/983/s1_s.jpg" alt="AMDの新エントリーGPU「Radeon RX 9050」が登場、価格は54,800円から" loading="lazy"><p class="summary">AMDの新エントリーGPU「Radeon RX 9050」が登場、価格は54,800円から
+
+AMDのメインストリーム向けゲーミングGPU「Radeon RX 9050」を搭載したビデオカードが各社から登場。
+
+AMDの新エントリーGPU「Radeon RX 9050」が登場、価格は54,800円から
+
+AMDのメインストリーム向けゲーミングGPU「Radeon RX 9050」を搭載したビデオカードが各社から登場。
+
+7月31日（金）時点で入荷を確認したのは、ASUS、ASRock、GIGABYTEの各モデル。価格は54,800～54,980円。
+
+Radeon RX 9060シリーズの下位モデル、GDDR6メモリ8GB搭載
+
+Radeon RX 9050は、RDNA 4アーキテクチャを採用した新GPU。
+
+2025年に登場した「Radeon RX 9060 XT」や「Radeon RX 9060」（主に組み込み向け）の下位に位置するモデルで、「eスポーツタイトルや最新のAAAタイトルにおいて、1080pで快適かつ応答性の高いゲームプレイを実現するよう設計されている」（AMD）という。
+
+演算ユニット数は16で、レイアクセラレータ16基、AIアクセラレータ32基を備える。総トランジスタ数は297億。
+
+リファレンス仕様は、ブーストクロックが2,600MHzで、18Gbps動作のGDDR6メモリ8GB（128bit）を備える。補助電源は8ピン×1。
+
+映像インターフェイスはDisplayPort 2.1a、HDMI 2.1b。
+
+7月30日（木）時点で秋葉原のPCパーツショップでは、上位のRadeon RX 9060 XTを搭載した一部モデルが同等の価格でセール中のため、現状はRadeon RX 9050を積極的に選択する理由は無いが、仮にセール品が無くなった場合は、新たなゲーム向けGPUとして注目を集める可能性がありそうだ。
+
+[取材協力: パソコン工房 秋葉原パーツ館 と パソコンショップ アーク と ツクモパソコン本店 と TSUKUMO eX. ]
+
+Radeo…</p></article><article tabindex="-1"><h2><a href="https://pc.watch.impress.co.jp/docs/news/todays_sales/2129469.html">【本日みつけたお買い得品】HPのOffice付きノートが約4万円引きでオトク！</a></h2><p class="meta">PC Watch · <time datetime="2026-07-31T01:55:12Z">2026-07-31 01:55 UTC</time></p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2129/469/03.jpg" alt="【本日みつけたお買い得品】HPのOffice付きノートが約4万円引きでオトク！" loading="lazy"><p class="summary">【本日みつけたお買い得品】HPのOffice付きノートが約4万円引きでオトク！
 
 Amazonにおいて、HPのOffice搭載15.6型ノートPC「15-fd」(BJ0M5PA-AAAI)が、直近価格から4万1,669円引きとなる13万9,800円で販売されている。なお、Officeなしモデルについても13万6,480円で販売されている。
 
@@ -8654,21 +8730,7 @@ e☆イヤホンの中古・買取の情報を発信する、 Xアカウント �
 
 以上、お得なキャンペーン情報でした。e☆イヤホン リユース営業部のかわちゃんがお送りいたしました！
 
-e☆イヤホン リユース担当です。お買い得な中古商品の情報など沢山発信していければと思…</p></article><article tabindex="-1"><h2><a href="https://pc.watch.impress.co.jp/docs/news/2129106.html">NEC PC、6万4,790円の12.1型大画面Androidタブレット</a></h2><p class="meta">PC Watch · <time datetime="2026-07-30T02:00:00Z">2026-07-30 02:00 UTC</time></p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2129/106/1.jpg" alt="NEC PC、6万4,790円の12.1型大画面Androidタブレット" loading="lazy"><p class="summary">NEC PC、6万4,790円の12.1型大画面Androidタブレット
-
-NECパーソナルコンピュータ(NEC PC)は7月30日、ペン入力に対応した12.1型Androidタブレット「LAVIE Tab T12」をNECダイレクト限定モデルとして発売した。直販価格は6万4,790円。
-
-NEC PC、6万4,790円の12.1型大画面Androidタブレット
-
-NECパーソナルコンピュータ(NEC PC)は7月30日、ペン入力に対応した12.1型Androidタブレット「LAVIE Tab T12」をNECダイレクト限定モデルとして発売した。直販価格は6万4,790円。
-
-LAVIE Tab T12は、別売りのBluetooth対応「デジタルペン3(PC-AC-AD042C)」を利用した4,096段階の筆圧検知をサポートするほか、WQXGA(2,560×1,600ドット)表示対応の12.1型の大画面ディスプレイを備えたAndroidタブレット。同社は動画視聴、Webブラウジング、電子書籍閲覧、学習などに好適としている。
-
-主な仕様は、プロセッサにDimensity 6400、メモリに8GB、ストレージに128GB、OSにAndroid 16などを搭載する。
-
-インターフェイスはUSB 2.0 Type-C、Wi-Fi 5、Bluetooth、約1,300万画素背面/約800万画素前面Webカメラ、microSDカードスロットなどを備える。
-
-バッテリは約10,200mAhで、駆動時間は約13時間。本体サイズは278.8×181.1×6.3mm、重量は約530g。</p></article><article tabindex="-1"><h2><a href="https://pc.watch.impress.co.jp/docs/news/2129117.html">マウス、有線LAN&amp;ハブ内蔵、デイジーチェーンにも対応した27型WQHDモニター</a></h2><p class="meta">PC Watch · <time datetime="2026-07-30T02:00:00Z">2026-07-30 02:00 UTC</time></p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2129/117/1.jpg" alt="マウス、有線LAN&amp;ハブ内蔵、デイジーチェーンにも対応した27型WQHDモニター" loading="lazy"><p class="summary">マウス、有線LAN&amp;ハブ内蔵、デイジーチェーンにも対応した27型WQHDモニター
+e☆イヤホン リユース担当です。お買い得な中古商品の情報など沢山発信していければと思…</p></article><article tabindex="-1"><h2><a href="https://pc.watch.impress.co.jp/docs/news/2129117.html">マウス、有線LAN&amp;ハブ内蔵、デイジーチェーンにも対応した27型WQHDモニター</a></h2><p class="meta">PC Watch · <time datetime="2026-07-30T02:00:00Z">2026-07-30 02:00 UTC</time></p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2129/117/1.jpg" alt="マウス、有線LAN&amp;ハブ内蔵、デイジーチェーンにも対応した27型WQHDモニター" loading="lazy"><p class="summary">マウス、有線LAN&amp;ハブ内蔵、デイジーチェーンにも対応した27型WQHDモニター
 
 マウスコンピューターは7月30日、有線LANやUSBハブ機能を内蔵し、DisplayPortによるデイジーチェーン接続もサポートした27型のWQHD(2,560×1,440ドット)表示対応モニター「iiyama ProLite XB2797QSN-B1J」を発売した。
 
@@ -8684,7 +8746,21 @@ iiyama ProLite XB2797QSN-B1Jは、Gigabit Ethernet対応の有線LANおよびUSB
 
 インターフェイスはUSB Type-C、HDMI、DisplayPort、2W+2Wのステレオスピーカーも内蔵する。スタンドは-5～23度のチルト、左右90度ずつのピボット、左右60度のずつのスイベル、150mmの昇降をサポートする。
 
-本体サイズは613×209.5×403.5～547.5mm、重量は5.8kg。</p></article><article tabindex="-1"><h2><a href="https://iphone-mania.jp/mac-603546/">Appleシリコンとは？Intelとの違いやM1〜M5の進化を解説</a></h2><p class="meta">iPhone Mania · <time datetime="2026-07-30T01:59:27Z">2026-07-30 01:59 UTC</time></p><img src="https://iphone-mania.jp/wp-content/uploads/2026/07/14/boliviainteligente-fN4YeoA14OI-unsplash-1.jpg" alt="Appleシリコンとは？Intelとの違いやM1〜M5の進化を解説" loading="lazy"><p class="summary">Appleシリコンとは？Intelとの違いやM1〜M5の進化を解説
+本体サイズは613×209.5×403.5～547.5mm、重量は5.8kg。</p></article><article tabindex="-1"><h2><a href="https://pc.watch.impress.co.jp/docs/news/2129106.html">NEC PC、6万4,790円の12.1型大画面Androidタブレット</a></h2><p class="meta">PC Watch · <time datetime="2026-07-30T02:00:00Z">2026-07-30 02:00 UTC</time></p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2129/106/1.jpg" alt="NEC PC、6万4,790円の12.1型大画面Androidタブレット" loading="lazy"><p class="summary">NEC PC、6万4,790円の12.1型大画面Androidタブレット
+
+NECパーソナルコンピュータ(NEC PC)は7月30日、ペン入力に対応した12.1型Androidタブレット「LAVIE Tab T12」をNECダイレクト限定モデルとして発売した。直販価格は6万4,790円。
+
+NEC PC、6万4,790円の12.1型大画面Androidタブレット
+
+NECパーソナルコンピュータ(NEC PC)は7月30日、ペン入力に対応した12.1型Androidタブレット「LAVIE Tab T12」をNECダイレクト限定モデルとして発売した。直販価格は6万4,790円。
+
+LAVIE Tab T12は、別売りのBluetooth対応「デジタルペン3(PC-AC-AD042C)」を利用した4,096段階の筆圧検知をサポートするほか、WQXGA(2,560×1,600ドット)表示対応の12.1型の大画面ディスプレイを備えたAndroidタブレット。同社は動画視聴、Webブラウジング、電子書籍閲覧、学習などに好適としている。
+
+主な仕様は、プロセッサにDimensity 6400、メモリに8GB、ストレージに128GB、OSにAndroid 16などを搭載する。
+
+インターフェイスはUSB 2.0 Type-C、Wi-Fi 5、Bluetooth、約1,300万画素背面/約800万画素前面Webカメラ、microSDカードスロットなどを備える。
+
+バッテリは約10,200mAhで、駆動時間は約13時間。本体サイズは278.8×181.1×6.3mm、重量は約530g。</p></article><article tabindex="-1"><h2><a href="https://iphone-mania.jp/mac-603546/">Appleシリコンとは？Intelとの違いやM1〜M5の進化を解説</a></h2><p class="meta">iPhone Mania · <time datetime="2026-07-30T01:59:27Z">2026-07-30 01:59 UTC</time></p><img src="https://iphone-mania.jp/wp-content/uploads/2026/07/14/boliviainteligente-fN4YeoA14OI-unsplash-1.jpg" alt="Appleシリコンとは？Intelとの違いやM1〜M5の進化を解説" loading="lazy"><p class="summary">Appleシリコンとは？Intelとの違いやM1〜M5の進化を解説
 
 スマートフォン向けチップで培った技術を応用したAppleシリコンが、一部のWindowsノートPCに匹敵する処理性能を持っていることを知っていますか。
 
@@ -8868,84 +8944,4 @@ Switchで突如話題の「スイカゲーム」をPCで遊びたいが、どう
 
 (アキバ取材班) 液晶ディスプレイ搭載CPUクーラーが3,980円、高さ134m…
 
-(アキバ取材班) ヘッドホン+マイクを個別に接続できるUSB変換…</p></article><article tabindex="-1"><h2><a href="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2129054.html">富士通10.1型タブレット「ARROWS Tab Q509/VE」が5,500円、キーボードドック付きの中古品がML COMPUTERSでセール</a></h2><p class="meta">AKIBA PC Hotline! · <time datetime="2026-07-29T23:00:00Z">2026-07-29 23:00 UTC</time></p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2129/054/a1.jpg" alt="富士通10.1型タブレット「ARROWS Tab Q509/VE」が5,500円、キーボードドック付きの中古品がML COMPUTERSでセール" loading="lazy"><p class="summary">富士通10.1型タブレット「ARROWS Tab Q509/VE」が5,500円、キーボードドック付きの中古品がML COMPUTERSでセール
-
-富士通の10.1インチWindowsタブレット「ARROWS Tab Q509/VE」が、ML COMPUTERSの通販サイトで販売中。
-
-富士通10.1型タブレット「ARROWS Tab Q509/VE」が5,500円、キーボードドック付きの中古品がML COMPUTERSでセール
-
-富士通の10.1インチWindowsタブレット「ARROWS Tab Q509/VE」が、 ML COMPUTERSの通販サイト で販売中。
-
-「液晶に若干のホワイトスポットやキーボードが接触した痕がついている場合がある」（販売ページ）という中古品で、価格は5,500円。
-
-主な仕様は、ディスプレイ解像度は1,920×1,200（タッチ対応）、搭載CPUがCeleron N4000（2コア/2スレッド）、メモリが4GB、ストレージが64GB、OSがWindows 11 Pro。
-
-付属品はACアダプタとキーボードドックで、ACアダプタに関しては「他メーカーの同等品、互換品となる場合もございます」（販売ページ）とのこと。</p></article><article tabindex="-1"><h2><a href="https://www.nichepcgamer.com/archives/geforce-driver-issue-610-88.html">GeForce Game Readyドライバ 610.88 不具合情報</a></h2><p class="meta">ニッチなPCゲーマーの環境構築Z · <time datetime="2026-07-29T22:46:53Z">2026-07-29 22:46 UTC</time></p><img src="https://www.nichepcgamer.com/wp-content/uploads/2025/12/nvidia-logo-issue-1200.jpg" alt="GeForce Game Readyドライバ 610.88 不具合情報" loading="lazy"><p class="summary">GeForce Game Readyドライバ 610.88 不具合情報
-
-GeForce Game Readyドライバ 610.88 WHQLの不具合情報です。NVIDIA公式の既知の不具合と、海外のGeForceフォーラムで目に付いたユーザー報告を意訳しています。ユーザ...
-
-GeForce Game Readyドライバ 610.88 WHQL の不具合情報です。NVIDIA公式の既知の不具合と、海外のGeForceフォーラムで目に付いたユーザー報告を意訳しています。ユーザー報告は全ての環境で発生するものとは限らず、環境依存の可能性もあります。同様の不具合にお悩みの方の参考になりましたら幸いです。
-
-NVIDIA公式: 既知の不具合 (リリースノート + フォーラム)
-
-『電源管理モード』の『パフォーマンス最大化を優先』が正常に適用されない場合があります
-
-610.47ドライバ以降のインストールに際して、『クリーン インストールの実行』にチェックを入れて、さらにNVIDIA App (NVIDIAアプリ)をインストールしなかった場合、タスクバーのシステムトレイに『NVIDIA 設定』アイコンが表示されるものの、押しても何も起動しません。起動させるべきアプリ(NVIDIA App、NVIDIAコントロールパネル)がないにもかかわらず、アイコンだけが表示されている状況です。右クリックメニューから『終了』させることはできるものの、PC再起動で再び表示されます。非表示にすることもできません
-
-AMD Athlon 64 X2やIntel Core 2 Duo / Core 2 Quad以前のPOPCNT命令に対応していない古いCPU環境だと、一部のドライババージョンでブルースクリーンエラーが発生します。具体的には以下。本件に関する詳細は こちらのページ をご覧ください 552.…</p></article><article tabindex="-1"><h2><a href="https://www.nichepcgamer.com/archives/post-131312.html">Amazon、『ファッションタイムセール祭り』を開催中！</a></h2><p class="meta">ニッチなPCゲーマーの環境構築Z · <time datetime="2026-07-29T22:45:41Z">2026-07-29 22:45 UTC</time></p><img src="https://www.nichepcgamer.com/wp-content/uploads/2026/07/am-f-top-202607a.jpg" alt="Amazon、『ファッションタイムセール祭り』を開催中！" loading="lazy"><p class="summary">Amazon、『ファッションタイムセール祭り』を開催中！
-
-Amazonにて、『ファッションタイムセール祭り』が開催されています。セールでは、夏物衣類やシューズ、バッグにお財布、旅行にぴったりなスーツケースなどが割引価格で多数登場しています。 開催期間は8月...
-
-Amazonにて、『 ファッションタイムセール祭り 』が開催されています。セールでは、夏物衣類やシューズ、バッグにお財布、旅行にぴったりなスーツケースなどが割引価格で多数登場しています。
-
-開催期間は8月2日(日)23時59分まで。キャンペーンページへは以下のリンクよりどうぞ！
-
-Amazonは本日◆月◆日(◆)AM◆時から◆月◆日(◆)23時59分までの間、 『ファッションタイムセール祭り』 を開催します。期間中は衣類やシューズ、財布に時計などがお買得価格で多数登場します。
-
-現在、キャンペーンページでは登場予定の商品がいくつか掲載されています。キャンペーンページへは以下のリンクよりどうぞ！
-
-Amazonにて、『 ファッションタイムセール祭り 』が開催されています。セールでは、衣類やシューズといったファッション製品だけに限らず、日用品などさまざまな商品が割引価格で多数登場しています。
-
-開催期間は6月23日(月)23時59分まで。キャンペーンページへは以下のリンクよりどうぞ！
-
-Amazon.co.jp Amazonファッションタイムセール祭り
-
-筆者は自作PC歴20年以上の経験を持ち、Windows OSの細部にわたるカスタマイズや高度な設定、PCゲームの最適化、PCハードウェアとソフトウェアに関する専門知識をもとに、PC環境を快適にするための情報、不具合に遭わないようにするための情報、そして、ちょっとニッチよりなPCユーザー向け記事の執筆を2015年4月から11年にわたって行っています。
-
-長年の経験により得たノウハウを活かし、初心者から上級者まで幅広く対応できる情報を提供し、読者様のPCライフをより快適で充実したものにすることを目指しています。</p></article><article tabindex="-1"><h2><a href="https://gori.me/sale/peripheral-sale/168514">今ならApple Watch Series 11が9,000円オフで買えます。健康機能全部入りでSE 3よりおすすめ</a></h2><p class="meta">gori.me · <time datetime="2026-07-29T22:29:44Z">2026-07-29 22:29 UTC</time></p><img src="https://gori.me/uploads/2026/07/Apple-Watch-Series-11-sale-800x551.jpg" alt="今ならApple Watch Series 11が9,000円オフで買えます。健康機能全部入りでSE 3よりおすすめ" loading="lazy"><p class="summary">今ならApple Watch Series 11が9,000円オフで買えます。健康機能全部入りでSE 3よりおすすめ
-
-Apple Watch Series 11の46mmジェットブラックアルミニウムケースが、通常価格76,800円から67,800円に値下がり中。12％オフで9,000円安い。睡眠時無呼吸や高血圧パターンの通知、心電図など、現在のApple Watchで使える健康機能をすべて網羅するモデルだ。
-
-今ならApple Watch Series 11が9,000円オフで買えます。健康機能全部入りでSE 3よりおすすめ
-
-睡眠時無呼吸から高血圧パターンまで網羅する46mmモデルが値下がり中
-
-Apple Watch Series 11（46mmジェットブラックアルミニウム）が76,800円から67,800円へ、12％オフの9,000円引き
-
-睡眠時無呼吸・高血圧パターン・心電図・血中酸素・睡眠スコアまで、いまのApple Watchの健康機能を全部使えるのがSeries 11
-
-セール期間は非公表。46mmは画面が大きく見やすく、旅先で手首だけ道案内を確認できるのも強い
-
-Apple Watch Series 11の46mmジェットブラックアルミニウムケース が、 Amazon で通常価格76,800円から67,800円に値下がりしている。 12％オフ 、差額で9,000円安い。 42mmモデルも11％オフ だ。
-
-セール期間は明示されていない。在庫や掲載が消えたらそこで終わり、早い者勝ちの値下げだと考えておいたほうがいい。
-
-Apple Watchの入門としては Apple Watch SE 3 も魅力的だが、僕がすすめたいのは Series 11 だ。理由はシンプルで、 いま提供されているApple Watchの健康機能を、まんべんなく全部使えるモデル だからで…</p></article><article tabindex="-1"><h2><a href="https://gori.me/apple/apple-news/168521">平成を生きた世代に刺さるApple Music『平成フィーリング』が開始</a></h2><p class="meta">gori.me · <time datetime="2026-07-29T22:28:17Z">2026-07-29 22:28 UTC</time></p><img src="https://gori.me/uploads/2026/07/Heisei-Feeling-Apple-Music-02-800x512.jpg" alt="平成を生きた世代に刺さるApple Music『平成フィーリング』が開始" loading="lazy"><p class="summary">平成を生きた世代に刺さるApple Music『平成フィーリング』が開始
-
-平成を生きた世代にこそ刺さるApple Musicの特集『平成フィーリング』が7月29日に始まった。1989〜2005年の音楽を対象に、宇多田ヒカル『First Love』やJUDY AND MARY『THE POWER SOURCE』などの名盤を数分で紹介する。8月19日までは3カ月180円のオファーも実施中だ。
-
-平成を生きた世代に刺さるApple Music『平成フィーリング』が開始
-
-ギャルカルチャーとカラオケの時代、1989〜2005年の音楽を10枚の名盤でたどる
-
-当時を過ごした30〜50代にも、平成を知らない若い世代にも向いた音楽特集
-
-作り手本人の言葉とアルバム単位の紹介を両方用意。1枚の全体像を数分でつかめる構成
-
-7月29日開始、ラジオは8月21日まで順次配信。3カ月180円のオファーは8月19日まで
-
-Appleは7月29日（水）、 Apple Music で平成初期から中期（1989〜2005年）の日本の音楽カルチャーを掘り起こす特集『平成フィーリング』を開始した。ラジオ番組に小室哲哉、加藤ミリヤ、小西康陽、スチャダラパーといった当時のシーンを作った顔ぶれがゲストとして登場する 特集ページ も公開されている。
-
-対象となるのは1989年から2005年、つまり携帯電話が一気に広まり、ギャルカルチャーやカラオケボックスが日常だった時代だ。小室哲哉のようなプロデューサーがミリオンヒットを連発する一方で、渋谷系、ギターロック、J-ヒップホップが若者の文化を作っていた。
-
-そして、これはまさに30代ラストイヤー、40代に向かおうとしている僕にとってドンピシャのコンテンツだった。当時を知らない世代が新鮮なものとして再発見している一方で、僕のような世代には記憶そのものを引っ張り出される企画…</p></article></main><script>if(location.search){for(const a of document.querySelectorAll('a[href]')){const h=a.getAttribute('href');if(h&&!/^[a-z]+:|^\/\//i.test(h)&&h.indexOf('?')<0)a.setAttribute('href',h+location.search)}}const cards=[...document.querySelectorAll('article')];let current=0;function select(i){if(!cards.length)return;cards[current]?.classList.remove('active');current=(i+cards.length)%cards.length;cards[current].classList.add('active');cards[current].focus({preventScroll:false})}if(cards.length)cards[0].classList.add('active');document.addEventListener('keydown',e=>{if(/input|textarea|select/i.test(e.target.tagName))return;if(e.key==='j'){e.preventDefault();select(current+1)}if(e.key==='k'){e.preventDefault();select(current-1)}});</script></body></html>
+(アキバ取材班) ヘッドホン+マイクを個別に接続できるUSB変換…</p></article></main><script>if(location.search){for(const a of document.querySelectorAll('a[href]')){const h=a.getAttribute('href');if(h&&!/^[a-z]+:|^\/\//i.test(h)&&h.indexOf('?')<0)a.setAttribute('href',h+location.search)}}const cards=[...document.querySelectorAll('article')];let current=0;function select(i){if(!cards.length)return;cards[current]?.classList.remove('active');current=(i+cards.length)%cards.length;cards[current].classList.add('active');cards[current].focus({preventScroll:false})}if(cards.length)cards[0].classList.add('active');document.addEventListener('keydown',e=>{if(/input|textarea|select/i.test(e.target.tagName))return;if(e.key==='j'){e.preventDefault();select(current+1)}if(e.key==='k'){e.preventDefault();select(current-1)}});</script></body></html>
