@@ -1,6 +1,233 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Wed, 05 Aug 2026 06:41:20 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Wed, 05 Aug 2026 09:48:37 +0000</lastBuildDate>
+<item><title>Snapdragon 8 Elite Gen 6 Proは、その高価格を正当化するために大幅なGPUアップグレードを受ける可能性があります</title><link>https://www.androidauthority.com/snapdragon-8-gen-6-pro-gpu-upgrade-leak-3694681/</link><guid isPermaLink="true">https://www.androidauthority.com/snapdragon-8-gen-6-pro-gpu-upgrade-leak-3694681/</guid><pubDate>Wed, 05 Aug 2026 09:43:17 +0000</pubDate><description><![CDATA[<p>Snapdragon 8 Elite Gen 6 Proは、その高価格を正当化するために大幅なGPUアップグレードを受ける可能性があります
+
+新しいリークは、Snapdragon 8 Elite Gen 6 Proが大規模なハードウェアアップグレードを受ける可能性があることを示唆しています。知っておくべきことは次のとおりです。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+Snapdragon 8 Elite Gen 6 Proは、その高価格を正当化するために大幅なGPUアップグレードを受ける可能性があります
+
+0 • Nick Fernandez / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR 信頼できるリーカーは、Snapdragon 8 Elite Gen 6 および Gen 6 Pro には 6 スライスの GPU が搭載されると報告しています。
+
+クアルコムの以前の Elite チップには 3 つのスライスを持つ GPU が搭載されていますが、Snapdragon 8 Gen 5 GPU には 2 つのスライスしかありません。
+
+したがって、このリークは、新しいチップがグラフィックスの大幅な向上をもたらす可能性があることを示唆しています。
+
+クアルコムは来月年次Snapdragon Summitを開催し、Snapdragon 8 Elite Gen 6および8 Elite Gen 6 Proを発表すると予想されています。特にProチップは非常に高価であると噂されていますが、新たなリークは、ゲームの大幅なアップグレードが行われる可能性を示唆しています。
+
+リーカーデジタルチャットステーションは、Snapdragon 8 Elite Gen 6シリーズのGPUには6つのスライスがあるとWeiboで主張しました。これは、次世代の Snapdragon チップの大規模な GPU アップグレードを示唆…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2025/11/REDMAGIC-11-Pro-Snapdragon-8-elite-Gen-5-closeup.jpg" alt="Snapdragon 8 Elite Gen 6 Proは、その高価格を正当化するために大幅なGPUアップグレードを受ける可能性があります"></p>]]></description><source url="https://www.androidauthority.com/snapdragon-8-gen-6-pro-gpu-upgrade-leak-3694681/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2025/11/REDMAGIC-11-Pro-Snapdragon-8-elite-Gen-5-closeup.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2025/11/REDMAGIC-11-Pro-Snapdragon-8-elite-Gen-5-closeup.jpg"/></item>
+<item><title>QRコードとリレーにより大規模なLoRaWAN導入が容易になる</title><link>https://www.cnx-software.com/2026/08/05/large-scale-lorawan-deployments-become-easier-through-qr-codes-and-relays/</link><guid isPermaLink="true">https://www.cnx-software.com/2026/08/05/large-scale-lorawan-deployments-become-easier-through-qr-codes-and-relays/</guid><pubDate>Wed, 05 Aug 2026 09:36:28 +0000</pubDate><description><![CDATA[<p>QRコードとリレーにより大規模なLoRaWAN導入が容易になる
+
+LoRa Alliance は、QR コード オンボーディング用の TS014 および TS018 仕様、リレー用の TR016 ガイダンスにより、大規模な LoRaWAN 展開を容易にすることを目的としています。
+
+LoRaWAN デバイスでは通常、ユーザーが DevEUI、JoinEUI (旧 AppEUI)、AppKey などのパラメータを入力する必要があり、アクティブ化モード (ABP と OTAA) に応じて、場合によっては DevAddr とセッション キーを入力する必要があります。これは少数のデバイスでは管理可能ですが、大規模になると時間がかかり、エラーが発生しやすく、コストが高くなります。
+
+オンボーディング プロセスを容易にし、LoRaWAN ネットワークの拡張性を向上させるために、LoRa Alliance は TS014 および TS018 仕様と TR016 技術推奨事項という 3 つの新しい文書を導入しました。これらはすべて、ユーザーが QR コードのスキャンなどの最小限の手動作業で、デバイスを迅速かつ安全にネットワークに接続できるようにする必要があります。
+
+あくまで説明として、CNX Software ブランドの LoRa モジュールはどこにも見つかりません…
+
+3 つのドキュメントすべてのリンクと概要は次のとおりです。
+
+TS014-1.0.0 – LoRaWAN エンドデバイス機能 API 仕様 – TS014 は、LoRaWAN ネットワークがデバイス プロファイルを自動的に取得できるようにすることで、手動データ入力と独自の回避策を排除します。特に、hNS (ホーム ネットワーク サーバー) がデバイス プロファイル サーバー (DPS) と呼ばれるサーバーからデバイス プロファイルをダウンロードできるようにする標準インターフェイスについて説明します。
+
+TS018-1.0.0 – 自動オンボーディング用の LoRaWAN デバイス ID QR コード – TS018 …</p><p><img src="https://www.cnx-software.com/wp-content/uploads/2026/08/LoRaWAN-TS014-TS018-TR016-QR-code.jpg" alt="QRコードとリレーにより大規模なLoRaWAN導入が容易になる"></p>]]></description><source url="https://www.cnx-software.com/2026/08/05/large-scale-lorawan-deployments-become-easier-through-qr-codes-and-relays/">CNX Software</source><media:content url="https://www.cnx-software.com/wp-content/uploads/2026/08/LoRaWAN-TS014-TS018-TR016-QR-code.jpg" medium="image"/><media:thumbnail url="https://www.cnx-software.com/wp-content/uploads/2026/08/LoRaWAN-TS014-TS018-TR016-QR-code.jpg"/></item>
+<item><title>Google メッセージは大好きですが、iMessage の次の 5 つの機能が恋しいです</title><link>https://www.androidauthority.com/ios-messages-features-missing-google-messages-3692925/</link><guid isPermaLink="true">https://www.androidauthority.com/ios-messages-features-missing-google-messages-3692925/</guid><pubDate>Wed, 05 Aug 2026 09:30:27 +0000</pubDate><description><![CDATA[<p>Google メッセージは大好きですが、iMessage の次の 5 つの機能が恋しいです
+
+Google メッセージは大幅に改善されましたが、iOS 27 を使用した後でも、Google が Android に導入してほしいと思う iMessage 機能がいくつかあります。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+Android アプリ Google メッセージは大好きですが、iMessage の次の 5 つの機能が恋しいです
+
+0 • Sanuj Bhatia / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください Google メッセージは、ここ数年で大きな進歩を遂げました。 RCS はついに、ほとんどの Android フラッグシップ端末でデフォルトのメッセージング プロトコルとなり、開封確認や入力インジケーターなどの小さな QOL 機能は期待どおりに動作します。
+
+このアプリはついに iMessage にふさわしいライバルであると感じられ、Android と iPhone 間のテキストメッセージはもはやかつてのようなダウングレードとは感じられません。実際、サムスンは、Google メッセージが非常に良くなったと信じており、Galaxy デバイスに自社のメッセージ アプリをプリロードすることをやめ、Google のメッセージ アプリを優先するようになりました。
+
+ただし、特に両方のエコシステムにわたってデバイスをテストしている場合は、2 つの間の切り替えに十分な時間を費やしてください。そうすれば、ギャップが現れ始めます。私は最近のベータ リリースを通じて iOS 27 を適切にテストする機会がありましたが、新しい iPhone ラインナップとともに 9 月に正式デビューするのを控えた今、Google メッセージはまだその機能に到達していないと自信を持って言えます。
+
+Google メッセージで最も欲しい i…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/07/google-messages-logo-z-fold-8.jpg" alt="Google メッセージは大好きですが、iMessage の次の 5 つの機能が恋しいです"></p>]]></description><source url="https://www.androidauthority.com/ios-messages-features-missing-google-messages-3692925/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/07/google-messages-logo-z-fold-8.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/07/google-messages-logo-z-fold-8.jpg"/></item>
+<item><title>Crazed Modder が NAS を RTX 5060 を横にぶら下げたゲーム PC に変え、フレーム レートを 828% 向上 — Frankenstein リグは専用 PSU をドライブ ベイに隠し、オンボード CPU の Time Spy 世界記録を破る</title><link>https://www.tomshardware.com/desktops/gaming-pcs/humble-nas-gets-transformed-into-a-gaming-pc-with-and-rtx-5060-hanging-from-its-side-frankenstein-rig-hides-dedicated-psu-in-drive-bay-to-achieve-vast-performance-increase-over-igpu</link><guid isPermaLink="true">https://www.tomshardware.com/desktops/gaming-pcs/humble-nas-gets-transformed-into-a-gaming-pc-with-and-rtx-5060-hanging-from-its-side-frankenstein-rig-hides-dedicated-psu-in-drive-bay-to-achieve-vast-performance-increase-over-igpu</guid><pubDate>Wed, 05 Aug 2026 09:21:13 +0000</pubDate><description><![CDATA[<p>Crazed Modder が NAS を RTX 5060 を横にぶら下げたゲーム PC に変え、フレーム レートを 828% 向上 — Frankenstein リグは専用 PSU をドライブ ベイに隠し、オンボード CPU の Time Spy 世界記録を破る
+
+とにかく追加のストレージが必要な人はいるでしょうか?
+
+Crazed Modder が NAS を RTX 5060 を横にぶら下げたゲーム PC に変え、フレーム レートを 828% 向上 — Frankenstein リグは専用 PSU をドライブ ベイに隠し、オンボード CPU の Time Spy 世界記録を破る
+
+とにかく追加のストレージが必要な人はいるでしょうか?
+
+(画像クレジット: YouTube の TrashBench) リンクをコピー
+
+0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 世界的なコンポーネント危機により、ストレージの価格が高騰し、NAS を利用する別の方法がいくつか登場しているようです。 YouTube PC 愛好家の TrashBench は最近、ZimaCube 2 NAS を入手し、RTX 5060 グラフィックス カードを搭載したゲーム PC に改造しました。サーバー内のラップトップ CPU が低電力であるにもかかわらず、その結果は全体的にゲーム パフォーマンスの天文学的な向上を示し、一部のテストではフレーム レートが 828% 向上し、Intel Core i5-1235U CPU の Time Spy 世界記録を破りました。
+
+文脈で説明すると、ZimaCube 2 は Intel Core i5-1235U CPU を搭載しています。これは、Iris Xe 統合グラフィックスと並んで、わずか 2 つの P コアと 8 つの E コアを備えた Alder Lake チップです。 iGPU が弱いのは、サーバーに必要なのは (必要な場合) それだけであるためです。このシステムはゲーム用ではあり…</p><p><img src="https://cdn.mos.cms.futurecdn.net/3NEvmPuLpnMaWGtcqSAa56-2560-80.png" alt="Crazed Modder が NAS を RTX 5060 を横にぶら下げたゲーム PC に変え、フレーム レートを 828% 向上 — Frankenstein リグは専用 PSU をドライブ ベイに隠し、オンボード CPU の Time Spy 世界記録を破る"></p>]]></description><source url="https://www.tomshardware.com/desktops/gaming-pcs/humble-nas-gets-transformed-into-a-gaming-pc-with-and-rtx-5060-hanging-from-its-side-frankenstein-rig-hides-dedicated-psu-in-drive-bay-to-achieve-vast-performance-increase-over-igpu">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/3NEvmPuLpnMaWGtcqSAa56-2560-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/3NEvmPuLpnMaWGtcqSAa56-2560-80.png"/></item>
+<item><title>Baldur’s Gate 3 がついに Xbox Play Anywhere プログラムに参加</title><link>https://www.kitguru.net/desktop-pc/mustafa-mahmoud/baldurs-gate-3-finally-joins-xbox-play-anywhere-program/</link><guid isPermaLink="true">https://www.kitguru.net/desktop-pc/mustafa-mahmoud/baldurs-gate-3-finally-joins-xbox-play-anywhere-program/</guid><pubDate>Wed, 05 Aug 2026 09:15:07 +0000</pubDate><description><![CDATA[<p>Baldur’s Gate 3 がついに Xbox Play Anywhere プログラムに参加
+
+リークからほぼ 1 年が経ち、Baldur’s Gate 3 が Xbox Play Anywhere プログラムに追加されました。これは、Xbox のデジタル ゲームの所有者が Windows 上で無料の PC バージョンを待つことになることを意味し、その逆も同様です。
+
+Baldur’s Gate 3 がついに Xbox Play Anywhere プログラムに参加
+
+Mustafa Mahmoud 34 分前 注目の発表 , PC , ソフトウェア &amp; ゲーム
+
+昨年末、Microsoft の Xbox Play Anywhere プログラムに、Larain Studios の GOTY 受賞作 Baldur’s Gate 3 という大きな追加要素が追加される予定であると私たちは報じましたが、どうやら Microsoft 自身が誤ってこの発表を早めてしまったようです。結局のところ、BG3 は購入したシステムにロックされたままであり、リークからは何も起こらなかったようです。しかし、ついに、前述のリークからほぼ 1 年が経ち、Baldur’s Gate 3 が Xbox Play Anywhere に追加されました。 Xbox Play Anywhere は 10 年以上にわたって存在する長期プログラムであり、Xbox (または Microsoft の PC ストア) でゲームを所有しているプレイヤーは、他のプラットフォームに無料でアクセスできます。昨年の ROG Xbox Ally の発売により、特にこのプログラムの重要性がはるかに高まったため、Baldur’s Gate 3 がついにサービスに加わることは嬉しい驚きです。 ResetEra ユーザー「clippy」が発見したように、Baldur’s Gate 3 の公式ストア ページにアクセスすると、このタイトルが Xbox Play Anywhere を正式にサポートしていることがわかります。これは、Baldur’…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/08/play-anywhere-732x330.jpg" alt="Baldur’s Gate 3 がついに Xbox Play Anywhere プログラムに参加"></p>]]></description><source url="https://www.kitguru.net/desktop-pc/mustafa-mahmoud/baldurs-gate-3-finally-joins-xbox-play-anywhere-program/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/08/play-anywhere-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/08/play-anywhere-732x330.jpg"/></item>
+<item><title>2026 年ですが、私はまだ Google の Pixel スマートフォンを信頼できません</title><link>https://www.androidauthority.com/google-pixel-problems-in-2026-3693614/</link><guid isPermaLink="true">https://www.androidauthority.com/google-pixel-problems-in-2026-3693614/</guid><pubDate>Wed, 05 Aug 2026 09:00:56 +0000</pubDate><description><![CDATA[<p>2026 年ですが、私はまだ Google の Pixel スマートフォンを信頼できません
+
+Pixel は依然として最高のソフトウェア エクスペリエンスを提供しますが、2026 年に私の信頼を得るにはそれだけでは十分ではありません。これが私が次に進む理由です。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+2026 年ですが、私はまだ Google の Pixel スマートフォンを信頼できません
+
+0 • Shimul Sood / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください 私は覚えている限りずっと Pixels を使ってきました。だからこそ、これを認めるのは少し奇妙に感じます。2026 年の Pixels を完全に信頼しているわけではありません。それは、Google が悪い携帯電話を作っているからではありません。多くの点で、Pixel エクスペリエンスはかつてないほど優れています。ソフトウェアは洗練されており、Gemini は日常業務の煩わしさを軽減し、マジックイレイサー、ベストテイク、通話メモなどの機能が私のルーチンに深く浸透しているため、別の電話を取るとすぐにそれらの機能が恋しくなります。ただし、Pixel ではいくつかの重要なボックスがチェックされていないままになっています。
+
+Pixel を唯一のスマートフォンにしようと考えるたびに、何かが私を妨げます。それは、Google の AI への野心や、Android に対するクリーンな取り組みとはほとんど関係がありません。問題はそれよりもはるかに基本的なものです。 2026 年、私はメインのスマートフォンに、妥協できないいくつかの点で信頼できるものを必要としています。Google がこれまでに進歩してきたにもかかわらず、Pixel はまだ私からそのレベルの信頼を獲得していません。
+
+2026 年に、あなたは Pixel を唯一のスマートフォンとして信頼で…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/05/Google-Pixel-10a-back-panel.jpg" alt="2026 年ですが、私はまだ Google の Pixel スマートフォンを信頼できません"></p>]]></description><source url="https://www.androidauthority.com/google-pixel-problems-in-2026-3693614/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/05/Google-Pixel-10a-back-panel.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/05/Google-Pixel-10a-back-panel.jpg"/></item>
+<item><title>SpaceX、Starlink Mobile が AT&amp;T、Verizon、T-Mobile にどのように対抗する計画かを明らかに</title><link>https://www.androidauthority.com/space-x-starlink-mobile-3694694/</link><guid isPermaLink="true">https://www.androidauthority.com/space-x-starlink-mobile-3694694/</guid><pubDate>Wed, 05 Aug 2026 08:49:57 +0000</pubDate><description><![CDATA[<p>SpaceX、Starlink Mobile が AT&amp;T、Verizon、T-Mobile にどのように対抗する計画かを明らかに
+
+SpaceXは、Starlink Mobileが衛星と地上ネットワークをどのように組み合わせて米国の通信事業者に対抗するかを詳しく説明した。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+SpaceX、Starlink Mobile が AT&amp;T、Verizon、T-Mobile にどのように対抗する計画かを明らかに
+
+0 • Tushar Mehta / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR SpaceX は、Starlink 衛星と並行して地上モバイル ネットワークを構築することを確認しました。
+
+同社によると、Starlink Mobileは来年末までに次世代衛星を搭載して発売される予定だという。
+
+SpaceX は、自社のハイブリッド ネットワークがデッドゾーンを排除することで従来の通信事業者を上回るパフォーマンスを発揮できると信じています。
+
+SpaceX が Starlink ブランドの携帯通信会社を検討しているという報道が出たとき、それは野心的な長期目標のように聞こえました。当時、同社は170億ドルでEchoStarの65MHzスペクトルを買収し、Starlinkの衛星を補完する地上ネットワークの可能性を裏付けとして、消費者向け無線サービスについて投資家に売り込みを行っていたと伝えられている。わずか数週間後、スペースXはそれらの計画をほのめかしていたが、公然と確認するようになった。
+
+IPO以来同社の最初の決算会見で、SpaceX社長のグウィン・ショットウェル氏は（Fierce Network経由で）同社が衛星インフラストラクチャと並行して地上モバイルネットワークを構築するつもりであることを確認し、最終的にStarlink Mobileがどうなるかに…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/02/spacex-logo.jpg" alt="SpaceX、Starlink Mobile が AT&amp;T、Verizon、T-Mobile にどのように対抗する計画かを明らかに"></p>]]></description><source url="https://www.androidauthority.com/space-x-starlink-mobile-3694694/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/02/spacex-logo.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/02/spacex-logo.jpg"/></item>
+<item><title>(PR) チーフテック、オールインワン液体 CPU クーラー Iceberg PRO シリーズを発表</title><link>https://www.techpowerup.com/351377/chieftec-announces-iceberg-pro-series-all-in-one-liquid-cpu-coolers</link><guid isPermaLink="true">https://www.techpowerup.com/351377/chieftec-announces-iceberg-pro-series-all-in-one-liquid-cpu-coolers</guid><pubDate>Wed, 05 Aug 2026 08:41:27 +0000</pubDate><description><![CDATA[<p>(PR) チーフテック、オールインワン液体 CPU クーラー Iceberg PRO シリーズを発表
+
+チーフテックは、ARGB エディションとブラック エディションの両方で入手可能な、当社の新しいフラッグシップ 360 mm オールインワン CPU 水冷クーラーである Iceberg PRO シリーズを発表できることを嬉しく思います。従来の AIO クーラーとは異なり、Iceberg PRO は周囲のマザーボードを積極的に冷却する統合型遠心 VRM ファンを備えています。
+
+チーフテック、Iceberg PRO シリーズ オールインワン液体 CPU クーラーを発表
+
+VRM、M.2 SSD、RAM のアクティブ冷却用の遠心 VRM ファン
+
+航空宇宙デザインからインスピレーションを得た、性能が最適化されたポンプヘッド
+
+ARGB バージョンと黒バージョンが利用可能
+
+2026 年 6 月 4 日 チーフテック、Computex 2026 ラインナップでクリーンなデザインと微妙な RGB を維持 (1)
+
+2026 年 4 月 9 日 チーフテック イントロ DT-10B-300 SFF Micro-ATX ケース (10)
+
+2026 年 3 月 4 日、Chieftec が BW-01B-OP ワークステーション シャーシを発表 (7)
+
+2026 年 2 月 10 日 Antec が Vortex View 360 AIO 液体 CPU クーラーを発表 (2)
+
+2026 年 2 月 3 日 Levelplay が Combat Liquid HUD および Combat Liquid SE AIO CPU クーラーを発売 (0)
+
+2026 年 1 月 6 日 Cooler Master が CES 2026 で更新された MasterLiquid AIO CPU 液体クーラーをデビュー (5)
+
+2025 年 11 月 24 日、Chieftec が HTPC ビルド用の Cube mATX ケースを発売 (7)
+
+2025 年 10 月 8 日、Chieft…</p><p><img src="https://www.techpowerup.com/img/ADehuTjfdspDZIRP.jpg" alt="(PR) チーフテック、オールインワン液体 CPU クーラー Iceberg PRO シリーズを発表"></p>]]></description><source url="https://www.techpowerup.com/351377/chieftec-announces-iceberg-pro-series-all-in-one-liquid-cpu-coolers">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/ADehuTjfdspDZIRP.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/ADehuTjfdspDZIRP.jpg"/></item>
+<item><title>(PR) Silicon Motion が FMS 2026 でエージェントティック AI アプリケーション向けの次世代ストレージ ソリューションを展示</title><link>https://www.techpowerup.com/351376/silicon-motion-showcases-next-generation-storage-solutions-for-agentic-ai-applications-at-fms-2026</link><guid isPermaLink="true">https://www.techpowerup.com/351376/silicon-motion-showcases-next-generation-storage-solutions-for-agentic-ai-applications-at-fms-2026</guid><pubDate>Wed, 05 Aug 2026 08:33:27 +0000</pubDate><description><![CDATA[<p>(PR) Silicon Motion が FMS 2026 でエージェントティック AI アプリケーション向けの次世代ストレージ ソリューションを展示
+
+ソリッドステート ストレージ デバイス用の NAND フラッシュ コントローラーの設計およびマーケティングの世界的リーダーである Silicon Motion Technology Corporation (「シリコン モーション」) は本日、Future of Memory... で AI Factory、Edge AI、および Physical AI アプリケーション向けの最新のストレージ イノベーションを展示すると発表しました。
+
+Silicon Motion が FMS 2026 でエージェントティック AI アプリケーション向けの次世代ストレージ ソリューションを展示
+
+KV キャッシュ オフロードおよびエージェントティック AI インフラストラクチャ用 SM8366 MonTitan SSD リファレンス デザイン キット: SM8366 PCIe Gen 5 コントローラー上に構築された MonTitan エンタープライズ SSD 開発プラットフォームは、TLC と QLC NAND の両方を備えた U.2、E3.S、および E3.L フォーム ファクターをサポートします。 TLC NAND の場合は 32 TB および 64 TB、QLC NAND の場合は最大 256 TB までの容量を提供し、幅広い AI インフラストラクチャ アーキテクチャへの導入を可能にします。構成可能な最大 28% のオーバープロビジョニングにより、1 日あたり最大 3 回のドライブ書き込み (DWPD) の耐久性評価がサポートされます。 Silicon Motion の特許取得済みの PerformaShape QoS Engine を搭載したこのプラットフォームは、AI 推論と KV キャッシュ オフロードに超低遅延と予測可能な QoS を提供し、次世代の Agentic AI インフラストラクチャの高速化に役立ちます。…</p><p><img src="https://www.techpowerup.com/img/pEvxeUPdfUrWEjfN.jpg" alt="(PR) Silicon Motion が FMS 2026 でエージェントティック AI アプリケーション向けの次世代ストレージ ソリューションを展示"></p>]]></description><source url="https://www.techpowerup.com/351376/silicon-motion-showcases-next-generation-storage-solutions-for-agentic-ai-applications-at-fms-2026">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/pEvxeUPdfUrWEjfN.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/pEvxeUPdfUrWEjfN.jpg"/></item>
+<item><title>『Halo: Campaign Evolved』は開発中に多くの問題に見舞われたと伝えられている</title><link>https://www.kitguru.net/gaming/mustafa-mahmoud/halo-campaign-evolved-reportedly-suffered-from-many-issues-during-development/</link><guid isPermaLink="true">https://www.kitguru.net/gaming/mustafa-mahmoud/halo-campaign-evolved-reportedly-suffered-from-many-issues-during-development/</guid><pubDate>Wed, 05 Aug 2026 08:30:08 +0000</pubDate><description><![CDATA[<p>『Halo: Campaign Evolved』は開発中に多くの問題に見舞われたと伝えられている
+
+やや中途半端なレビューに始まり、内部関係者は、Campaign Evolved の作成中に Halo スタジオが被った開発上の問題の一部を明らかにしました。
+
+『Halo: Campaign Evolved』は開発中に多くの問題に見舞われたと伝えられている
+
+Mustafa Mahmoud 1 時間前 注目のテクノロジー ニュース、ソフトウェア、ゲーム
+
+2021 年の Halo Infinite が Microsoft が望んでいた 10 年にわたる巨大な存在になれなかった以来、Halo スタジオと IP 全体は、やや行き詰まりの状態にありました。振り出しに戻って、チームは OG Halo: Combat Evolved をリメイクしていると発表しました。先週正式にリリースされたが、若干賛否両論ありましたが、ある関係者が Halo: Campaign Evolved の開発中に遭遇した無数の問題を明らかにしました。業界関係者として知られる Rebs Gaming が報じたように、『Halo: Campaign Evolved』の開発は決してスムーズとは言えず、ゲームに対する最大の批判の一部は前述の問題の結果であるようです。ファンによると、リメイク版で最も顕著なダウングレードの 1 つはカットシーンにあります。これは、全体的に弱い映画撮影、演出、アニメーションとともにプリレンダリングの性質が原因です。 Rebs が主張しているように、これらのカットシーンは当初、本質的にリアルタイムであることを意図していました。しかし、請負業者の使用、厳格なスケジュール、サポート スタジオの変更などの問題により、最終的には事前レンダリングされたルートを採用することになりました。 Halo: Campaign Evolved の開発がさまざまな方法で影響を受けた詳細については、こちらをご覧ください。しかし、Rebs 氏によると、責任の大半は Halo スタジオのリーダーシップとその意思決定に…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/08/campaign-evolved-732x330.jpg" alt="『Halo: Campaign Evolved』は開発中に多くの問題に見舞われたと伝えられている"></p>]]></description><source url="https://www.kitguru.net/gaming/mustafa-mahmoud/halo-campaign-evolved-reportedly-suffered-from-many-issues-during-development/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/08/campaign-evolved-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/08/campaign-evolved-732x330.jpg"/></item>
+<item><title>GoogleはGmailの最も便利なパワーユーザー機能の1つを廃止しようとしている</title><link>https://www.androidauthority.com/gmail-killing-third-party-send-as-feature-3694659/</link><guid isPermaLink="true">https://www.androidauthority.com/gmail-killing-third-party-send-as-feature-3694659/</guid><pubDate>Wed, 05 Aug 2026 08:14:18 +0000</pubDate><description><![CDATA[<p>GoogleはGmailの最も便利なパワーユーザー機能の1つを廃止しようとしている
+
+Gmail は、2027 年 1 月にサードパーティの「送信者」メール アドレスのサポートを終了します。何が変更され、それが受信トレイにどのような影響を与えるかは次のとおりです。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+GoogleはGmailの最も便利なパワーユーザー機能の1つを廃止する
+
+0 • Stephen Headrick / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR 2027 年 1 月以降、Gmail はウェブ アプリやモバイル アプリを介したサードパーティのアドレス (Yahoo、Outlook、カスタム個人ドメインなど) からのメール送信をサポートしなくなります。
+
+この変更により、Gmailify と Web ベースの POP メールの取得も廃止されます。ただし、ネイティブ Gmail モバイル アプリのマルチアカウント サポート、Gmail 間のエイリアス、Google Workspace の「送信者」オプションは影響を受けません。
+
+影響を受けるユーザーは、2027 年までにデスクトップ クライアント (Thunderbird、Outlook など)、専用の電子メール プロバイダー、または有料の Workspace プランに移行する必要があります。
+
+Google は、BCC 受信者警告やカスタムの「Help me write」AI 編集などの機能を備えた Web クライアントの改良を続ける一方で、従来の機能も削減しています。 2027 年 1 月以降、Gmail はサードパーティのメール アドレスに対する「送信者」機能のサポートを正式に終了します。つまり、プライマリ Gmail ウェブ インターフェースを介して Yahoo、Outlook、カスタム ドメインなどの外部サービスからメー…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2025/09/PXL_20250905_173007470.MP_-scaled-e1757093954282.jpg" alt="GoogleはGmailの最も便利なパワーユーザー機能の1つを廃止しようとしている"></p>]]></description><source url="https://www.androidauthority.com/gmail-killing-third-party-send-as-feature-3694659/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2025/09/PXL_20250905_173007470.MP_-scaled-e1757093954282.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2025/09/PXL_20250905_173007470.MP_-scaled-e1757093954282.jpg"/></item>
+<item><title>誰もが話題にする AI ディクテーション アプリに、強力な新しい Notetaker が登場</title><link>https://www.androidauthority.com/wispr-flow-notetaker-3694672/</link><guid isPermaLink="true">https://www.androidauthority.com/wispr-flow-notetaker-3694672/</guid><pubDate>Wed, 05 Aug 2026 08:04:50 +0000</pubDate><description><![CDATA[<p>誰もが話題にする AI ディクテーション アプリに、強力な新しい Notetaker が登場
+
+Wispr Flow の新しい AI Notetaker は、誰が何を言ったかを把握し、会議を要約したり、会議が始まる前に参加者を調査したりすることができます。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+誰もが話題にする AI ディクテーション アプリに、強力な新しい Notetaker が登場
+
+0 • Karandeep Singh / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Wispr Flow は、会議を自動的に記録、文字起こし、要約する新しい AI 搭載の Notetaker を発表しました。
+
+このツールを使用すると、発言者を名前で識別したり、会議やメッセージを検索したり、見逃した会話について質問したりできます。
+
+また、ChatGPT や Claude などの AI アシスタントと統合し、Granola からのワンクリック インポートもサポートします。
+
+Wispr Flow は、さまざまなアプリで音声をテキストに変換することで人気を博した AI を活用したディクテーション アプリで、執筆の枠を超えて拡張されています。
+
+同社は現在、会話を自動的にキャプチャし、発言者を識別し、アクションアイテムを含む整理された要約を生成するように設計された新しい AI 会議アシスタント「Notetaker」を発売しました。
+
+この立ち上げにより、Wispr Flow は増え続ける AI 会議アシスタントのリストと対戦することになるが、同社は単なる文字起こしではなく、正確さとコンテキストを重視している。
+
+Wispr Flow Wispr Flow は、Notetaker は、発言者 1 や発言者 2 のような一般的なラベルではなく名前で参加者を識別しながら、会話を「言われたとおりに」キャプチャできると…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/01/Wispr-Flow-AI-voice-dictation-typing-2-scaled.jpeg" alt="誰もが話題にする AI ディクテーション アプリに、強力な新しい Notetaker が登場"></p>]]></description><source url="https://www.androidauthority.com/wispr-flow-notetaker-3694672/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/01/Wispr-Flow-AI-voice-dictation-typing-2-scaled.jpeg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/01/Wispr-Flow-AI-voice-dictation-typing-2-scaled.jpeg"/></item>
+<item><title>Train Simulator コントローラー: 2026 年 7 月の進捗状況のまとめ</title><link>https://hackaday.com/2026/08/05/train-simulator-controller-july-2026-progress-roundup/</link><guid isPermaLink="true">https://hackaday.com/2026/08/05/train-simulator-controller-july-2026-progress-roundup/</guid><pubDate>Wed, 05 Aug 2026 08:00:09 +0000</pubDate><description><![CDATA[<p>Train Simulator コントローラー: 2026 年 7 月の進捗状況のまとめ
+
+過去 3 年間、[Christopher Mitchell] は実際の列車シミュレータ用に英国国鉄クラス 800 の制御室のレプリカに取り組んできました。7 月のブログ更新では多くのデータが提供されています。
+
+過去 3 年間、[Christopher Mitchell] は実際の列車シミュレーター用に英国国鉄クラス 800 の制御室のレプリカに取り組んできました。7 月のブログ更新では、進捗状況に関する多くの詳細が提供されています。
+
+クラス 800 シリーズの列車は比較的新しく、2017 年に英国で初めてグレート ウェスタン鉄道 (GWR) で運行を開始しました。モジュール式 AT300 製品シリーズの一部として日立によって設計および製造されたこの車両は、非電化鉄道セクションに対応するために、純電気構成とディーゼル電気ハイブリッド構成の両方で提供されます。
+
+電車の運転体験を再現することは、常に、自分が望むものと、実用的または手頃な価格との間のトレードオフになります。アパートの一角でしか作業できないため、[クリストファー] は運転台内の計器とコントロールに焦点を当てることにし、可能な場合は本物のコンポーネントを使用するか、残りの部分はレプリカを構築しました。
+
+このコントロール パネル全体は、 Train Simulator や Train Sim World などのシミュレータで使用され、コントローラ API を使用してゲーム内の列車を制御するだけでなく、実際の計器や外部ライトの状態を示すさまざまな LED に表示されるフィードバックを取得します。これらはすべて、通常どおり CAN バスを介して内部で制御されます。
+
+これらの計器には、ドライバーがトラック上の明確でない信号を認識したことを確認する安全システムの一部である、本物の AWS サンフラワー が含まれています。これは、実際の取引にかなり近づくように形成されているコントロールキャブシミュレーションへのもう一つの素晴ら…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/br_800_cab_metalpanels_20260531a_christopher_mitchell.jpg" alt="Train Simulator コントローラー: 2026 年 7 月の進捗状況のまとめ"></p>]]></description><source url="https://hackaday.com/2026/08/05/train-simulator-controller-july-2026-progress-roundup/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/br_800_cab_metalpanels_20260531a_christopher_mitchell.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/br_800_cab_metalpanels_20260531a_christopher_mitchell.jpg"/></item>
+<item><title>Android Auto がボートに登場します。</title><link>https://www.androidauthority.com/android-auto-boats-savvy-navvy-3694654/</link><guid isPermaLink="true">https://www.androidauthority.com/android-auto-boats-savvy-navvy-3694654/</guid><pubDate>Wed, 05 Aug 2026 07:46:25 +0000</pubDate><description><![CDATA[<p>Android Auto がボートに登場します。
+
+Android Auto は、Crest と Balise の 2027 年モデル「Conquest」および「Caribbean」からボートにも導入されます。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+Android Auto がボートに登場します。
+
+0 • Businesswire Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Crest および Balise ブランドのボートに Android Auto が組み込まれるようになります。
+
+これらのブランドは、湖、内水域、海洋でのナビゲーションのために Savvy Navvy アプリとも提携しています。
+
+2027 Crest または Balise ボートを購入したお客様は、Savvy Navvy プレミアムにも無料でアクセスできます。
+
+Android Auto は運転中に非常に役立ち、設定を調整してさらに改善することができます。ただし、これまでのところ、それは道路車両に限定されています。 MasterCraft Boat Holdings が、今後のポンツーン ボート「Crest」と「Balise」に Android Auto をサポートすると発表したため、状況は変わりつつあります。
+
+同社は、ボート乗り向けに構築されたナビゲーション アプリである Savvy Navvy と提携し、チャート、スマート ルーティング、近くのボート交通状況、ナビゲーションなどの機能を提供します (MacRumors 経由)。このアプリは、Android Auto の通常の地図と同じように、ETA、速度、残り距離などを含むリアルタイムのナビゲーションをボートに乗る人に表示します。
+
+ユーザーは自宅でボート旅行を計画でき、ボートに乗るときにルートやその他の詳細がすぐに確認できます。それ以外の場合、所有者は昼、夜、衛星地図ビューを切り替えることもできま…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/android-auto-coming-to-boats.jpg" alt="Android Auto がボートに登場します。"></p>]]></description><source url="https://www.androidauthority.com/android-auto-boats-savvy-navvy-3694654/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/android-auto-coming-to-boats.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/android-auto-coming-to-boats.jpg"/></item>
+<item><title>2026 年に Amazon で購入できる電子書籍リーダーの大きなリスト</title><link>https://goodereader.com/blog/electronic-readers/the-big-list-of-e-readers-you-can-buy-on-amazon-in-2026</link><guid isPermaLink="true">https://goodereader.com/blog/electronic-readers/the-big-list-of-e-readers-you-can-buy-on-amazon-in-2026</guid><pubDate>Wed, 05 Aug 2026 07:40:57 +0000</pubDate><description><![CDATA[<p>2026 年に Amazon で購入できる電子書籍リーダーの大きなリスト
+
+これは、Amazon で入手可能な、当社が推奨するすべての電子書籍リーダーの包括的なリストです。 Kindle、kobo、BOOX、Viwoods、Remarkable、Pocketbook などの製品を取り揃えています。
+
+Amazon では何百もの電子書籍リーダーが購入できますが、どのモデルが最適かを判断するのが難しい場合があります。 Kindle、Kobo、Pocketbook、Remarkable Meebook、iFlytek などのブランドが数多くあります。これは、Amazon で購入できる最高の電子書籍リーダーの最も包括的なリストです。このリストは、新しいデバイスが発売されると定期的に更新されます。
+
+Amazon Kindle は、電子書籍の閲覧、購入、読書のために Amazon が設計した市場をリードする電子リーダー シリーズです。グレアフリーの E Ink テクノロジーを使用したこれらのデバイスは、本物の紙の外観を模倣し、数週間のバッテリー寿命を提供し、広範な Kindle ストア エコシステムと同期します。
+
+最軽量かつ最もコンパクトな Kindle - 最大設定でより明るいフロント ライト、より高いコントラスト比、より高速なページめくりにより、読書体験が向上しました。
+
+どのような光でも快適に読書 - 6 インチのグレアフリー ディスプレイ、調整可能なフロント ライト (最大設定で 25% 明るくなりました)、およびダーク モードで快適に読書できます。
+
+本の中に逃げましょう - メッセージ、電子メール、ソーシャル メディアを気にせずに、気を散らすことのない読書体験をお楽しみください。
+
+史上最速の Kindle Paperwhite – 次世代の 7 インチ Paperwhite ディスプレイは、コントラスト比が高く、ページめくりが 25% 速くなります。
+
+旅行の準備完了 - 超薄型デザインにグレアフリーの大型スクリーンが搭載されているため、どこにいてもページが鮮明に…</p><p><img src="https://media.goodereader.com/blog/uploads/images/2026/08/05034016/634K3-Verse-Pro-Color-04.jpg" alt="2026 年に Amazon で購入できる電子書籍リーダーの大きなリスト"></p>]]></description><source url="https://goodereader.com/blog/electronic-readers/the-big-list-of-e-readers-you-can-buy-on-amazon-in-2026">Good e-Reader</source><media:content url="https://media.goodereader.com/blog/uploads/images/2026/08/05034016/634K3-Verse-Pro-Color-04.jpg" medium="image"/><media:thumbnail url="https://media.goodereader.com/blog/uploads/images/2026/08/05034016/634K3-Verse-Pro-Color-04.jpg"/></item>
 <item><title>WhatsApp は最も迷惑なグループ チャットの問題のいくつかを解決しました</title><link>https://www.androidauthority.com/whatsapp-group-chat-features-3694631/</link><guid isPermaLink="true">https://www.androidauthority.com/whatsapp-group-chat-features-3694631/</guid><pubDate>Wed, 05 Aug 2026 06:06:49 +0000</pubDate><description><![CDATA[<p>WhatsApp は最も迷惑なグループ チャットの問題のいくつかを解決しました
 
 WhatsApp は、投票締め切り、匿名投票、よりスマートなすべてのメンションなどを含む、いくつかの新しいグループ チャット機能を展開しています。
@@ -2549,6 +2776,13 @@ Anker 100W Max 充電器が 3 ポートとスマート ディスプレイ付き�
 Anker のコンパクトな 100W GaN 壁面充電器には、USB-C 2 つと USB-A 1 つの 3 つのポートが付いています。どちらの USB-C ポートも単独で最大 100 W を供給できるため、より大型の電源ブリックを必要とせずに、多くのラップトップ、タブレット、電話に対応できます。そのため、旅行、デスクでの使用、または自宅の共有コンセントとして便利です。
 
 内蔵のスマートディスプレイは便利な追加機能です。リアルタイムの充電出力、温度、ポートのアクティビティが表示されるため、推測するのではなく、何が起こっているかを確認できます。この充電器には折りたたみ可能なプラグがあり、マルチポート 100W 充電器としては非常に小さい設計となっているため、荷物を軽くするときに役立ちま…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/Anker-100W-Max-3-Port-GaN-Charger-Press-Image.jpg" alt="Anker 100W Max 充電器が 3 ポートとスマート ディスプレイ付きで 49.99 ドルに値下げ"></p>]]></description><source url="https://www.androidauthority.com/anker-100w-max-charger-3693961/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/Anker-100W-Max-3-Port-GaN-Charger-Press-Image.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/Anker-100W-Max-3-Port-GaN-Charger-Press-Image.jpg"/></item>
+<item><title>AMD「Gorgon Halo」APUがベンチマークに登場</title><link>https://www.kitguru.net/components/apu-components/joao-silva/amd-gorgon-halo-apu-appears-in-benchmark/</link><guid isPermaLink="true">https://www.kitguru.net/components/apu-components/joao-silva/amd-gorgon-halo-apu-appears-in-benchmark/</guid><pubDate>Mon, 03 Aug 2026 16:00:40 +0000</pubDate><description><![CDATA[<p>AMD「Gorgon Halo」APUがベンチマークに登場
+
+AMD の Ryzen AI Max+ Pro 495 APU に属するとされるパフォーマンス指標が Geekbench 7 データベースに掲載されました。 Gorgon Halo プロセッサは、96 GB の RAM を搭載した 16 インチのモバイル ワークステーションである HP ZBook Ultra G3a 内でテストされたようです。
+
+AMD「Gorgon Halo」APUがベンチマークに登場
+
+AMD の Ryzen AI Max+ Pro 495 APU に属するとされるパフォーマンス指標が Geekbench 7 データベースに掲載されました。 Gorgon Halo プロセッサは、96 GB の RAM を搭載した 16 インチのモバイル ワークステーションである HP ZBook Ultra G3a 内でテストされたようです。 Gray が発見した Geekbench 7 のリスト (VideoCardz 経由) では、APU はシングルコア テストで 2593 ポイント、マルチコア テストで 26816 ポイントのスコアを達成しました。クロック監視では、チップが 5207MHz のブースト周波数で動作していることを記録しました。これは、5.2GHz のブースト クロックをリストする AMD の公式仕様と一致します。このリストでは、以前の Max+ Pro 395 のコア レイアウトを反映し、3.1 GHz のベース クロックで動作する 16 コアおよび 32 スレッドの構成が明らかになりました。これは、5 月に以前に発表された PassMark に続くもので、192 GB の RAM を搭載した同様の HP マシン内でプロセッサのベンチマークが行われました。統合グラフィックス機能は、RDNA3.5 アーキテクチャに基づく Radeon 8065S に依存しています。 AMD の公式詳細では、Gorgon Halo アーキテクチャが最大 16 コアと 32 スレッド、5.2 GHz ブー…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2025/11/3020400-ryzen-ai-max-product-732x330.jpg" alt="AMD「Gorgon Halo」APUがベンチマークに登場"></p>]]></description><source url="https://www.kitguru.net/components/apu-components/joao-silva/amd-gorgon-halo-apu-appears-in-benchmark/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2025/11/3020400-ryzen-ai-max-product-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2025/11/3020400-ryzen-ai-max-product-732x330.jpg"/></item>
 <item><title>ソニー WH-1000XM6 に豪華な新カラーオプションが追加されました</title><link>https://www.androidauthority.com/sony-wh-1000xm6-new-color-variant-3693875/</link><guid isPermaLink="true">https://www.androidauthority.com/sony-wh-1000xm6-new-color-variant-3693875/</guid><pubDate>Mon, 03 Aug 2026 16:00:40 +0000</pubDate><description><![CDATA[<p>ソニー WH-1000XM6 に豪華な新カラーオプションが追加されました
 
 ソニーの主力ヘッドフォン WH-1000XM6 が、新しいオリーブ グレー仕上げで登場し、新鮮な外観をもたらします。外観は次のとおりです。
@@ -2570,13 +2804,6 @@ Android Authority のアフィリエイト リンクにより、手数料が発�
 Sony 新色は、既存のブラック、シルバー、ミッドナイト ブルー、サンド ピンク、サンドストーンのオプションに加わります。プレーンなグレーではなく、落ち着いたグリーンのアンダートーンを持ち、より控えめで高級な外観を与えます。溶け込むガジェットがお好みなら、これが XM6 の最も魅力的なバージョンになるでしょう。
 
 個人的には、ソニーがこのシリーズでリリースした色のオプションの中で最も見栄えの良いものの 1 …</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/Sony-WH-1000XM6-new-Olive-Gray-color-worn-by-a-person.jpg" alt="ソニー WH-1000XM6 に豪華な新カラーオプションが追加されました"></p>]]></description><source url="https://www.androidauthority.com/sony-wh-1000xm6-new-color-variant-3693875/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/Sony-WH-1000XM6-new-Olive-Gray-color-worn-by-a-person.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/Sony-WH-1000XM6-new-Olive-Gray-color-worn-by-a-person.jpg"/></item>
-<item><title>AMD「Gorgon Halo」APUがベンチマークに登場</title><link>https://www.kitguru.net/components/apu-components/joao-silva/amd-gorgon-halo-apu-appears-in-benchmark/</link><guid isPermaLink="true">https://www.kitguru.net/components/apu-components/joao-silva/amd-gorgon-halo-apu-appears-in-benchmark/</guid><pubDate>Mon, 03 Aug 2026 16:00:40 +0000</pubDate><description><![CDATA[<p>AMD「Gorgon Halo」APUがベンチマークに登場
-
-AMD の Ryzen AI Max+ Pro 495 APU に属するとされるパフォーマンス指標が Geekbench 7 データベースに掲載されました。 Gorgon Halo プロセッサは、96 GB の RAM を搭載した 16 インチのモバイル ワークステーションである HP ZBook Ultra G3a 内でテストされたようです。
-
-AMD「Gorgon Halo」APUがベンチマークに登場
-
-AMD の Ryzen AI Max+ Pro 495 APU に属するとされるパフォーマンス指標が Geekbench 7 データベースに掲載されました。 Gorgon Halo プロセッサは、96 GB の RAM を搭載した 16 インチのモバイル ワークステーションである HP ZBook Ultra G3a 内でテストされたようです。 Gray が発見した Geekbench 7 のリスト (VideoCardz 経由) では、APU はシングルコア テストで 2593 ポイント、マルチコア テストで 26816 ポイントのスコアを達成しました。クロック監視では、チップが 5207MHz のブースト周波数で動作していることを記録しました。これは、5.2GHz のブースト クロックをリストする AMD の公式仕様と一致します。このリストでは、以前の Max+ Pro 395 のコア レイアウトを反映し、3.1 GHz のベース クロックで動作する 16 コアおよび 32 スレッドの構成が明らかになりました。これは、5 月に以前に発表された PassMark に続くもので、192 GB の RAM を搭載した同様の HP マシン内でプロセッサのベンチマークが行われました。統合グラフィックス機能は、RDNA3.5 アーキテクチャに基づく Radeon 8065S に依存しています。 AMD の公式詳細では、Gorgon Halo アーキテクチャが最大 16 コアと 32 スレッド、5.2 GHz ブー…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2025/11/3020400-ryzen-ai-max-product-732x330.jpg" alt="AMD「Gorgon Halo」APUがベンチマークに登場"></p>]]></description><source url="https://www.kitguru.net/components/apu-components/joao-silva/amd-gorgon-halo-apu-appears-in-benchmark/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2025/11/3020400-ryzen-ai-max-product-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2025/11/3020400-ryzen-ai-max-product-732x330.jpg"/></item>
 <item><title>あなたのモニターのピクセル レイアウトはおそらく間違っています - Alienware の新しいモニターが異なる理由はここにあります</title><link>https://www.xda-developers.com/alienware-aw3426dw-review/</link><guid isPermaLink="true">https://www.xda-developers.com/alienware-aw3426dw-review/</guid><pubDate>Mon, 03 Aug 2026 16:00:10 +0000</pubDate><description><![CDATA[<p>あなたのモニターのピクセル レイアウトはおそらく間違っています - Alienware の新しいモニターが異なる理由はここにあります
 
 RGB ストライプは OLED ファンにとって大きな変革をもたらします
@@ -2757,8 +2984,8 @@ Xbox はしばらくの間、ディスクからデジタルへの変換機能に
 私の Raspberry Pi Zero 2 W は実際のサーバーとしては弱すぎますが、サブスクリプションキラーとしては完璧です
 
 By Abhishek Kumar Mishra 公開 2026 年 8 月 3 日、午前 11:00 EDT アビシェクは、コンピューティングをカバーする XDA の著者です。 2012 年に Lenovo G570 を購入して以来、彼はコンピューターが大好きです。アビシェクはコンピューター アプリケーションの修士号を取得し、2018 年に執筆活動を始めました。人気のあるオペレーティング システムや Web サービスに関するハウツー記事、リスト、情報投稿を書くのが大好きです。彼は Windows Insider プログラムを注意深くフォローし、新しい Insider ビルドをテストして、今後の実験的な機能やアップグレードを発見します。彼のこれまでの仕事には、「Tom&#39;s Hardware」や「Windows Most」などの評判の高い出版物との長期にわたるコラボレーションが含まれます。何も書いていないときは、ワンピースの新しいエピソードを見たり、夢中になれる何かを探したりして忙しいです。 XDA アカウントにサインインする ホーム サーバーの構築を考えるとき、Raspberry Pi Zero は決して頭に浮かびません。確かに、これは最も強力なわけではありませんし、一連の中で最高の I/O オプションを備えているわけでもありません。強力なサーバーについて考えるとき、Pi 4B または 5 が最も現実的な選択肢です。 Pi Zero 2 W には 512 MB の DDR2 メモリしか搭載されておらず、SSD スロットや高速世代の USB ポートはありません。しかし、これらの欠点があっ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/09/raspberry-pi-zero.jpg?w=1600&amp;h=900&amp;fit=crop" alt="私の Raspberry Pi Zero 2 W は実際のサーバーとしては弱すぎますが、サブスクリプションキラーとしては完璧です"></p>]]></description><source url="https://www.xda-developers.com/raspberry-pi-zero-2-w-is-a-perfect-subscription-killer/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/09/raspberry-pi-zero.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/09/raspberry-pi-zero.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>(PR) GameSir Launches Tarantula 8K PC Wired Esports Controller with 8000 Hz Polling Rate and Gen-2 TMR Sticks</title><link>https://www.techpowerup.com/351319/gamesir-launches-tarantula-8k-pc-wired-esports-controller-with-8000-hz-polling-rate-and-gen-2-tmr-sticks</link><guid isPermaLink="true">https://www.techpowerup.com/351319/gamesir-launches-tarantula-8k-pc-wired-esports-controller-with-8000-hz-polling-rate-and-gen-2-tmr-sticks</guid><pubDate>Mon, 03 Aug 2026 14:56:46 +0000</pubDate><description><![CDATA[<p>(PR) GameSir Launches Tarantula 8K PC Wired Esports Controller with 8000 Hz Polling Rate and Gen-2 TMR Sticks</p>]]></description><source url="https://www.techpowerup.com/351319/gamesir-launches-tarantula-8k-pc-wired-esports-controller-with-8000-hz-polling-rate-and-gen-2-tmr-sticks">TechPowerUp</source></item>
 <item><title>(PR) GameSir Launches Tarantula 8K PC Wired Esports Controller with 8000Hz Polling Rate and Gen-2 TMR Sticks</title><link>https://www.techpowerup.com/351319/gamesir-launches-tarantula-8k-pc-wired-esports-controller-with-8000hz-polling-rate-and-gen-2-tmr-sticks</link><guid isPermaLink="true">https://www.techpowerup.com/351319/gamesir-launches-tarantula-8k-pc-wired-esports-controller-with-8000hz-polling-rate-and-gen-2-tmr-sticks</guid><pubDate>Mon, 03 Aug 2026 14:56:46 +0000</pubDate><description><![CDATA[<p>(PR) GameSir Launches Tarantula 8K PC Wired Esports Controller with 8000Hz Polling Rate and Gen-2 TMR Sticks</p>]]></description><source url="https://www.techpowerup.com/351319/gamesir-launches-tarantula-8k-pc-wired-esports-controller-with-8000hz-polling-rate-and-gen-2-tmr-sticks">TechPowerUp</source></item>
+<item><title>(PR) GameSir Launches Tarantula 8K PC Wired Esports Controller with 8000 Hz Polling Rate and Gen-2 TMR Sticks</title><link>https://www.techpowerup.com/351319/gamesir-launches-tarantula-8k-pc-wired-esports-controller-with-8000-hz-polling-rate-and-gen-2-tmr-sticks</link><guid isPermaLink="true">https://www.techpowerup.com/351319/gamesir-launches-tarantula-8k-pc-wired-esports-controller-with-8000-hz-polling-rate-and-gen-2-tmr-sticks</guid><pubDate>Mon, 03 Aug 2026 14:56:46 +0000</pubDate><description><![CDATA[<p>(PR) GameSir Launches Tarantula 8K PC Wired Esports Controller with 8000 Hz Polling Rate and Gen-2 TMR Sticks</p>]]></description><source url="https://www.techpowerup.com/351319/gamesir-launches-tarantula-8k-pc-wired-esports-controller-with-8000-hz-polling-rate-and-gen-2-tmr-sticks">TechPowerUp</source></item>
 <item><title>While Everyone&#39;s Chasing AI Coding Agents, This IDE Is $30 for Life</title><link>https://www.techpowerup.com/351313/while-everyones-chasing-ai-coding-agents-this-ide-is-usd-30-for-life</link><guid isPermaLink="true">https://www.techpowerup.com/351313/while-everyones-chasing-ai-coding-agents-this-ide-is-usd-30-for-life</guid><pubDate>Mon, 03 Aug 2026 14:52:01 +0000</pubDate><description><![CDATA[<p>While Everyone&#39;s Chasing AI Coding Agents, This IDE Is $30 for Life</p>]]></description><source url="https://www.techpowerup.com/351313/while-everyones-chasing-ai-coding-agents-this-ide-is-usd-30-for-life">TechPowerUp</source></item>
 <item><title>Lexar、国産の中国製チップを搭載した 32GB DDR5 メモリをリスト - 3,999 元 (592 ドル) の価格は、より安価な CXMT 搭載 RAM への期待を裏切る</title><link>https://www.tomshardware.com/pc-components/ddr5/lexar-lists-32gb-ddr5-memory-with-homegrown-chinese-chips-3-999-yuan-usd592-price-undercuts-hopes-for-cheaper-cxmt-powered-ram</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/ddr5/lexar-lists-32gb-ddr5-memory-with-homegrown-chinese-chips-3-999-yuan-usd592-price-undercuts-hopes-for-cheaper-cxmt-powered-ram</guid><pubDate>Mon, 03 Aug 2026 14:51:09 +0000</pubDate><description><![CDATA[<p>Lexar、国産の中国製チップを搭載した 32GB DDR5 メモリをリスト - 3,999 元 (592 ドル) の価格は、より安価な CXMT 搭載 RAM への期待を裏切る
 
@@ -3004,19 +3231,6 @@ PowerToys はついに Windows をレンタルするだけでなく実際に所�
 By Brian Burgess 公開 2026 年 8 月 3 日、午前 7:00 EDT ミネソタ州の田舎に拠点を置くブライアン バージェスは、消費者向けテクノロジーについて執筆することに情熱を感じるまで、IT 業界で 10 年間働いていました。ブライアンは、2000 年にコンピュータおよびネットワーク テクノロジの学位を取得しました。彼は、ヘルプ デスク サポート、IBM のルーターの設置、データベース管理、その他のネットワーク管理関連の役割など、さまざまな IT 職を歴任しました。彼は 18 年間個人のテクノロジー ジャーナリストとして活動しており、Microsoft の製品とサービス、Android、iOS、ストリーミングなどに関する何千もの記事を執筆してきました。彼は、XDA、InformationWeek、How-To Geek、Byte、groovyPost などの著名な技術サイトに寄稿しています。彼がキーボードから離れているときは、ギターを弾いたり、屋外で仕事をしたり、スタートレックを見たりしているのが聞こえます。 XDA アカウントにサインインする Windows は長年にわたって、使用できる機能や実行できる操作を決定するオペレーティング システムのように感じられてきました。新しい PC を入手するたび、またはカスタムではない新規インストールを実行する必要があるたびに、ロックされたタスクバー、Copilot の統合、および望ましくないテレメトリ主導の設定による標準の動作を乗り越えるのに何時間もかかります。
 
 幸いなことに、Microsoft 独自の、皮肉なことにオープンソースのツールキットである PowerToys があり、これには OS の制御をユーザーの手に委ねる 25 以上のユーティリティが含まれて…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/microsoft-powertoys-dual-monitor.jpg?w=1600&amp;h=900&amp;fit=crop" alt="PowerToys はついに Windows をレンタルするだけでなく実際に所有できる OS のように感じさせました"></p>]]></description><source url="https://www.xda-developers.com/powertoys-made-windows-feel-like-os-could-actually-own-not-just-rent/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/microsoft-powertoys-dual-monitor.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/microsoft-powertoys-dual-monitor.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>世界最小の GPU シリコンが実世界のテストに合格 — 240,000 トランジスタの TinyGPU v2.0 は最大 15 FPS で 3D グラフィックスをレンダリングし、v3.0 は 2026 年のリリースに向けて準備中</title><link>https://www.tomshardware.com/pc-components/gpus/worlds-smallest-gpu-silicon-passes-real-world-testing-240-000-transistor-tinygpu-v2-0-renders-3d-graphics-at-up-to-15-fps-while-v3-0-prepares-for-2026-release</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/gpus/worlds-smallest-gpu-silicon-passes-real-world-testing-240-000-transistor-tinygpu-v2-0-renders-3d-graphics-at-up-to-15-fps-while-v3-0-prepares-for-2026-release</guid><pubDate>Mon, 03 Aug 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>世界最小の GPU シリコンが実世界のテストに合格 — 240,000 トランジスタの TinyGPU v2.0 は最大 15 FPS で 3D グラフィックスをレンダリングし、v3.0 は 2026 年のリリースに向けて準備中
-
-TinyGPU v3.0 は、プログラム可能なピクセル シェーダーを備えています。
-
-世界最小の GPU シリコンが実世界のテストに合格 — 240,000 トランジスタの TinyGPU v2.0 は最大 15 FPS で 3D グラフィックスをレンダリングし、v3.0 は 2026 年のリリースに向けて準備中
-
-TinyGPU v3.0 は、プログラム可能なピクセル シェーダーを備えています。
-
-(画像クレジット: Pongsagon Vichit ) リンクをコピーする
-
-0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 昨年 11 月に量産に向かっている世界最小の GPU について記事を書きました。その開発者である Pongsagon Vichit は、完成したシリコンを Tiny Tapeout コミュニティから受け取りました。このコミュニティでは、それは SKY 25b シャトルの一部でした。 「ASIC TinyGPU v2.0 は生きていて動作しています!!!」アマチュア ASIC/FPGA 設計者をソーシャル メディアで応援しました。これは間違いなく祝う価値があり、TinyGPU v3.0 が今年末に登場すると聞いて嬉しく思います。
-
-ASIC TinyGPU v2.0 は生きており、動作しています!!!#TinyTapeout コミュニティのサポートに心から感謝します。完全にオープンソースの設計をここで確認してください:https://t.co/ClhiKS89st TinyGPU v3.0 は今年 12 月にリリースされます。ご期待ください。#OpenHardware #FPGA #ASIC pic.twitter.com/vgfg2ZehAu 2026 …</p><p><img src="https://cdn.mos.cms.futurecdn.net/XGMRs2DoMrY7PMM2eekx3k-1920-80.jpg" alt="世界最小の GPU シリコンが実世界のテストに合格 — 240,000 トランジスタの TinyGPU v2.0 は最大 15 FPS で 3D グラフィックスをレンダリングし、v3.0 は 2026 年のリリースに向けて準備中"></p>]]></description><source url="https://www.tomshardware.com/pc-components/gpus/worlds-smallest-gpu-silicon-passes-real-world-testing-240-000-transistor-tinygpu-v2-0-renders-3d-graphics-at-up-to-15-fps-while-v3-0-prepares-for-2026-release">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/XGMRs2DoMrY7PMM2eekx3k-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/XGMRs2DoMrY7PMM2eekx3k-1920-80.jpg"/></item>
 <item><title>1 つのバイナリ、1 つの URL、および設定なしのリモート ターミナルを取得する</title><link>https://hackaday.com/2026/08/03/get-a-remote-terminal-with-one-binary-one-url-and-zero-config/</link><guid isPermaLink="true">https://hackaday.com/2026/08/03/get-a-remote-terminal-with-one-binary-one-url-and-zero-config/</guid><pubDate>Mon, 03 Aug 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>1 つのバイナリ、1 つの URL、および設定なしのリモート ターミナルを取得する
 
 単一の静的バイナリ実行可能ファイルを起動し、誰かに QR コードまたは URL を送信すると (または、それが失敗した場合は、数値コードをテキスト メッセージで送信するか、部屋中に大声で叫ぶと)、暗号化された端末が目の前に届きます。
@@ -3032,6 +3246,19 @@ ASIC TinyGPU v2.0 は生きており、動作しています!!!#TinyTapeout コ�
 共有するマシン上で、まずバイナリをダウンロードします。これを行う最も簡単な方法は、bitba.ng にアクセスして手動でダウンロードするか、1 行のインストーラーをコピーして貼り付けてシステムを自動検出し、正しいリリースをダウンロードしてチェックサムを確認することです。
 
 バイナリをダウンロードし…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/07/reach-machines-behind-nat-from-a-browser-v0-banner.png" alt="1 つのバイナリ、1 つの URL、および設定なしのリモート ターミナルを取得する"></p>]]></description><source url="https://hackaday.com/2026/08/03/get-a-remote-terminal-with-one-binary-one-url-and-zero-config/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/07/reach-machines-behind-nat-from-a-browser-v0-banner.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/07/reach-machines-behind-nat-from-a-browser-v0-banner.png"/></item>
+<item><title>世界最小の GPU シリコンが実世界のテストに合格 — 240,000 トランジスタの TinyGPU v2.0 は最大 15 FPS で 3D グラフィックスをレンダリングし、v3.0 は 2026 年のリリースに向けて準備中</title><link>https://www.tomshardware.com/pc-components/gpus/worlds-smallest-gpu-silicon-passes-real-world-testing-240-000-transistor-tinygpu-v2-0-renders-3d-graphics-at-up-to-15-fps-while-v3-0-prepares-for-2026-release</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/gpus/worlds-smallest-gpu-silicon-passes-real-world-testing-240-000-transistor-tinygpu-v2-0-renders-3d-graphics-at-up-to-15-fps-while-v3-0-prepares-for-2026-release</guid><pubDate>Mon, 03 Aug 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>世界最小の GPU シリコンが実世界のテストに合格 — 240,000 トランジスタの TinyGPU v2.0 は最大 15 FPS で 3D グラフィックスをレンダリングし、v3.0 は 2026 年のリリースに向けて準備中
+
+TinyGPU v3.0 は、プログラム可能なピクセル シェーダーを備えています。
+
+世界最小の GPU シリコンが実世界のテストに合格 — 240,000 トランジスタの TinyGPU v2.0 は最大 15 FPS で 3D グラフィックスをレンダリングし、v3.0 は 2026 年のリリースに向けて準備中
+
+TinyGPU v3.0 は、プログラム可能なピクセル シェーダーを備えています。
+
+(画像クレジット: Pongsagon Vichit ) リンクをコピーする
+
+0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 昨年 11 月に量産に向かっている世界最小の GPU について記事を書きました。その開発者である Pongsagon Vichit は、完成したシリコンを Tiny Tapeout コミュニティから受け取りました。このコミュニティでは、それは SKY 25b シャトルの一部でした。 「ASIC TinyGPU v2.0 は生きていて動作しています!!!」アマチュア ASIC/FPGA 設計者をソーシャル メディアで応援しました。これは間違いなく祝う価値があり、TinyGPU v3.0 が今年末に登場すると聞いて嬉しく思います。
+
+ASIC TinyGPU v2.0 は生きており、動作しています!!!#TinyTapeout コミュニティのサポートに心から感謝します。完全にオープンソースの設計をここで確認してください:https://t.co/ClhiKS89st TinyGPU v3.0 は今年 12 月にリリースされます。ご期待ください。#OpenHardware #FPGA #ASIC pic.twitter.com/vgfg2ZehAu 2026 …</p><p><img src="https://cdn.mos.cms.futurecdn.net/XGMRs2DoMrY7PMM2eekx3k-1920-80.jpg" alt="世界最小の GPU シリコンが実世界のテストに合格 — 240,000 トランジスタの TinyGPU v2.0 は最大 15 FPS で 3D グラフィックスをレンダリングし、v3.0 は 2026 年のリリースに向けて準備中"></p>]]></description><source url="https://www.tomshardware.com/pc-components/gpus/worlds-smallest-gpu-silicon-passes-real-world-testing-240-000-transistor-tinygpu-v2-0-renders-3d-graphics-at-up-to-15-fps-while-v3-0-prepares-for-2026-release">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/XGMRs2DoMrY7PMM2eekx3k-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/XGMRs2DoMrY7PMM2eekx3k-1920-80.jpg"/></item>
 <item><title>(PR) キオクシア、AIワークロード向けCXL互換メモリ拡張モジュールKIOXIA XL1シリーズを展示</title><link>https://www.techpowerup.com/351310/kioxia-to-showcase-cxl-compatible-memory-expansion-module-kioxia-xl1-series-for-ai-workloads</link><guid isPermaLink="true">https://www.techpowerup.com/351310/kioxia-to-showcase-cxl-compatible-memory-expansion-module-kioxia-xl1-series-for-ai-workloads</guid><pubDate>Mon, 03 Aug 2026 10:48:03 +0000</pubDate><description><![CDATA[<p>(PR) キオクシア、AIワークロード向けCXL互換メモリ拡張モジュールKIOXIA XL1シリーズを展示
 
 メモリソリューションの世界的リーダーであるキオクシア株式会社は本日、8月4日から6日までカリフォルニア州サンタクララで開催されるFMS: the Future of Memory and StorageのキオクシアブースにCompute Express Link (CXL)互換メモリ拡張モジュールであるKIOXIA XL1シリーズを展示すると発表しました。の...
@@ -4392,7 +4619,6 @@ Samsung のルーチン テンプレートにより自動化が簡単になり�
 初心者でもすぐに理解できる
 
 誰もが生活の中で自動化からある程度の恩恵を受けることができると思います。大量のスマート ホーム デバイスや複雑なフローを必要とする必要はありません。むしろ、それはスマートフォンに直接組み込まれた自動化されたタスクに関す…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/a-hot-weather-alert-in-samsung-modes-and-routines.jpg?w=1600&amp;h=900&amp;fit=crop" alt="このサムスンのアプリは、Google Home が望んでいる自動化ハブです"></p>]]></description><source url="https://www.xda-developers.com/samsung-modes-routines-better-than-google-home/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/a-hot-weather-alert-in-samsung-modes-and-routines.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/a-hot-weather-alert-in-samsung-modes-and-routines.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>Redditor scores a working GTX 1050 Ti for just $2 at Goodwill</title><link>https://www.tweaktown.com/rss/click/news/112960/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112960/?c=news-mf</guid><pubDate>Sat, 01 Aug 2026 19:00:10 +0000</pubDate><description><![CDATA[<p>Redditor scores a working GTX 1050 Ti for just $2 at Goodwill</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112960/?c=news-mf">TweakTown</source></item>
 <item><title>この無料のオープンソース ツールに Plex ライブラリを最適化させ、8 TB のストレージを再利用しました</title><link>https://www.xda-developers.com/free-open-source-tool-optimize-plex-library-reclaimed-8tb-storage/</link><guid isPermaLink="true">https://www.xda-developers.com/free-open-source-tool-optimize-plex-library-reclaimed-8tb-storage/</guid><pubDate>Sat, 01 Aug 2026 19:00:10 +0000</pubDate><description><![CDATA[<p>この無料のオープンソース ツールに Plex ライブラリを最適化させ、8 TB のストレージを再利用しました
 
 この経済状況ではドライブを買うより良い
@@ -4404,6 +4630,7 @@ By Anurag Singh 公開 2026 年 8 月 1 日、午後 3 時 EDT アヌラグは�
 そして現在、ストレージの価格がこれほど高騰しているため、別のドライブに投資するのは意味がありません。代わりに、Unmanic をインストールし、ライブラリを通じて動作させました。これは、メディア ファイルをスキャンし、設定したルールに一致しないものを自動的に変換する無料のオープンソース ツールです。これを Plex ライブラリで自由に実行させたところ、ほぼ 8TB のスペースが解放され、事実上、別のハード ドライブが得られました。
 
 Plex ライブ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/unmanic.jpg?w=1600&amp;h=900&amp;fit=crop" alt="この無料のオープンソース ツールに Plex ライブラリを最適化させ、8 TB のストレージを再利用しました"></p>]]></description><source url="https://www.xda-developers.com/free-open-source-tool-optimize-plex-library-reclaimed-8tb-storage/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/unmanic.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/unmanic.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>Redditor scores a working GTX 1050 Ti for just $2 at Goodwill</title><link>https://www.tweaktown.com/rss/click/news/112960/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112960/?c=news-mf</guid><pubDate>Sat, 01 Aug 2026 19:00:10 +0000</pubDate><description><![CDATA[<p>Redditor scores a working GTX 1050 Ti for just $2 at Goodwill</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112960/?c=news-mf">TweakTown</source></item>
 <item><title>マザーボードの設定を何年も無視していたため、静かにパフォーマンスが低下していました</title><link>https://www.xda-developers.com/ignored-motherboards-settings-for-years-it-quietly-cost-performance/</link><guid isPermaLink="true">https://www.xda-developers.com/ignored-motherboards-settings-for-years-it-quietly-cost-performance/</guid><pubDate>Sat, 01 Aug 2026 18:30:10 +0000</pubDate><description><![CDATA[<p>マザーボードの設定を何年も無視していたため、静かにパフォーマンスが低下していました
 
 BIOS 設定が永続的であると想定していた私のせいです。
@@ -5121,19 +5348,6 @@ MicroBlocks を使用すると、コードをリアルタイムでワイヤレ�
 
 誰かをテクノロジーに興味を持ってもらいたい場合、最善の方法の 1 つは、レゴのセットを作るのと同じくらい簡単になるように、それを細分化することです。それが、この愛らしい小さなロボットの背後にある考え方であり、完成までに 5 年かかりました。パーツを組み合わせるだけで、自分…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/microblocks-robot-featured.jpg?w=1600&amp;h=900&amp;fit=crop" alt="5 年間の作業を経て、リアルタイムでプログラムできるこれらの ESP32 ロボットを構築する準備が整いました。"></p>]]></description><source url="https://www.xda-developers.com/esp32-robots-microblocks/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/microblocks-robot-featured.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/microblocks-robot-featured.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>Sony has secured enough memory to meet PS5 sales targets through March 2027 and says no further price hikes are planned</title><link>https://www.tweaktown.com/rss/click/news/112957/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112957/?c=news-mf</guid><pubDate>Fri, 31 Jul 2026 22:20:10 +0000</pubDate><description><![CDATA[<p>Sony has secured enough memory to meet PS5 sales targets through March 2027 and says no further price hikes are planned</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112957/?c=news-mf">TweakTown</source></item>
-<item><title>技術者ではない友人が実際に使用する生産性向上ツールをついに見つけました</title><link>https://www.xda-developers.com/finally-found-productivity-tool-my-non-technical-friends-will-actually-use/</link><guid isPermaLink="true">https://www.xda-developers.com/finally-found-productivity-tool-my-non-technical-friends-will-actually-use/</guid><pubDate>Fri, 31 Jul 2026 22:00:10 +0000</pubDate><description><![CDATA[<p>技術者ではない友人が実際に使用する生産性向上ツールをついに見つけました
-
-生産性スタック全体ではなく、グループ チャットに代わる生産性ツール
-
-技術者ではない友人が実際に使用する生産性向上ツールをついに見つけました
-
-By Nolen Jonker 公開 2026 年 7 月 31 日、午後 6 時 EDT Nolen は 2019 年に執筆活動を開始し、3 年間 MakeUseOf のクリエイティブ セクションの編集に専念しました。彼らの専門知識はテクノロジーと創造性の交差点にあり、写真、ビデオ編集、グラフィック デザインなどの分野をカバーしています。仕事以外では、ノーレンが良い本を読んだり、自分の物語を書いたり、ビデオ ゲームをしたりしているのをよく見かけます。 XDA アカウントにサインインする ほとんどの生産性ツールは、あるタイプの人、つまり生産性ツールにすでに関心がある人向けに構築されています。あなたが設定したり、タグ付けしたり、システムを保守したりするのであれば、Notion や Todoist、あるいは Asana を使っても問題ありません。しかし、多くの場合、実際に必要なのは、実行中のリストを書き留めたり、内容を整理したりするための場所にすぎません。重いツールはやりすぎで、軽いツール (付箋や電話メモ アプリ) では十分ではありません。
-
-今月はその真ん中に位置するものをセットアップしました。これは共有ページであり、数秒で起動し、任意のブラウザで使用でき、使用を開始する前に何も構築する必要はありません。それは Plainspace と呼ばれており、文字通り無地の空間です。
-
-ツールを使用しない人のための共有ページ
-
-Plainspace は、オープンソースの ToDo およびタイムボックス アプリである Super Productivity の背後にあるチームによって構築された、タスク、メモ、アンケート、簡単な計画のための小さな共有ワークスペースです。つまり、生産性向上ソフトウェアをよく知っている人々が作成したものですが、Plainspace 自体は、彼…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/plainspace-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="技術者ではない友人が実際に使用する生産性向上ツールをついに見つけました"></p>]]></description><source url="https://www.xda-developers.com/finally-found-productivity-tool-my-non-technical-friends-will-actually-use/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/plainspace-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/plainspace-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>Lightroom をオープンソースの代替品に置き換えたところ、Adobe のサブスクリプションが突然無意味に感じられました</title><link>https://www.xda-developers.com/replaced-lightroom-free-open-source-alternative-adobe-subscription-pointless/</link><guid isPermaLink="true">https://www.xda-developers.com/replaced-lightroom-free-open-source-alternative-adobe-subscription-pointless/</guid><pubDate>Fri, 31 Jul 2026 22:00:10 +0000</pubDate><description><![CDATA[<p>Lightroom をオープンソースの代替品に置き換えたところ、Adobe のサブスクリプションが突然無意味に感じられました
 
 オープンソース ソフトウェアが、堅牢な機能セットを提供しながら見た目も使い心地も優れている Lightroom の競合製品である RapidRAW ほど輝けるものはほとんどありません。
@@ -5147,6 +5361,19 @@ By João Carrasqueira 公開 2026 年 7 月 31 日、午後 6 時 EDT João は 
 Darktable と RawTherapee は違います
 
 RapidRAW ですぐに印象に残るのは、ビジュアル面で最新の Lightroom アプリと実際に互角に渡り合えるインターフェース…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/rapidraw-laptop.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Lightroom をオープンソースの代替品に置き換えたところ、Adobe のサブスクリプションが突然無意味に感じられました"></p>]]></description><source url="https://www.xda-developers.com/replaced-lightroom-free-open-source-alternative-adobe-subscription-pointless/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/rapidraw-laptop.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/rapidraw-laptop.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>技術者ではない友人が実際に使用する生産性向上ツールをついに見つけました</title><link>https://www.xda-developers.com/finally-found-productivity-tool-my-non-technical-friends-will-actually-use/</link><guid isPermaLink="true">https://www.xda-developers.com/finally-found-productivity-tool-my-non-technical-friends-will-actually-use/</guid><pubDate>Fri, 31 Jul 2026 22:00:10 +0000</pubDate><description><![CDATA[<p>技術者ではない友人が実際に使用する生産性向上ツールをついに見つけました
+
+生産性スタック全体ではなく、グループ チャットに代わる生産性ツール
+
+技術者ではない友人が実際に使用する生産性向上ツールをついに見つけました
+
+By Nolen Jonker 公開 2026 年 7 月 31 日、午後 6 時 EDT Nolen は 2019 年に執筆活動を開始し、3 年間 MakeUseOf のクリエイティブ セクションの編集に専念しました。彼らの専門知識はテクノロジーと創造性の交差点にあり、写真、ビデオ編集、グラフィック デザインなどの分野をカバーしています。仕事以外では、ノーレンが良い本を読んだり、自分の物語を書いたり、ビデオ ゲームをしたりしているのをよく見かけます。 XDA アカウントにサインインする ほとんどの生産性ツールは、あるタイプの人、つまり生産性ツールにすでに関心がある人向けに構築されています。あなたが設定したり、タグ付けしたり、システムを保守したりするのであれば、Notion や Todoist、あるいは Asana を使っても問題ありません。しかし、多くの場合、実際に必要なのは、実行中のリストを書き留めたり、内容を整理したりするための場所にすぎません。重いツールはやりすぎで、軽いツール (付箋や電話メモ アプリ) では十分ではありません。
+
+今月はその真ん中に位置するものをセットアップしました。これは共有ページであり、数秒で起動し、任意のブラウザで使用でき、使用を開始する前に何も構築する必要はありません。それは Plainspace と呼ばれており、文字通り無地の空間です。
+
+ツールを使用しない人のための共有ページ
+
+Plainspace は、オープンソースの ToDo およびタイムボックス アプリである Super Productivity の背後にあるチームによって構築された、タスク、メモ、アンケート、簡単な計画のための小さな共有ワークスペースです。つまり、生産性向上ソフトウェアをよく知っている人々が作成したものですが、Plainspace 自体は、彼…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/plainspace-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="技術者ではない友人が実際に使用する生産性向上ツールをついに見つけました"></p>]]></description><source url="https://www.xda-developers.com/finally-found-productivity-tool-my-non-technical-friends-will-actually-use/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/plainspace-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/plainspace-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>Amazon、全員に新しい書籍ページの使用を強制</title><link>https://goodereader.com/blog/kindle/amazon-forcing-everyone-to-use-their-new-books-page</link><guid isPermaLink="true">https://goodereader.com/blog/kindle/amazon-forcing-everyone-to-use-their-new-books-page</guid><pubDate>Fri, 31 Jul 2026 21:54:31 +0000</pubDate><description><![CDATA[<p>Amazon、全員に新しい書籍ページの使用を強制
 
 すべての書籍を 1 か所で管理します。 Your Books では、Kindle、Audible、印刷書籍向けにさらに多くのコンテンツ管理オプションが提供されるようになりました。借用したものを返却したり、デバイスに配信したり、新しいコンテンツを発見したりできるようになりました。
@@ -5878,177 +6105,4 @@ Lian Li はすでに市場で最も優れた外観の ARGB ファンをいくつ
 
 万が一、他の誰かが同じ比色計を持っていると、それをインストールするためのオンライン ツールも作成してくれました。</p><p><img src="https://hackaday.com/wp-content/uploads/2026/07/colors.png" alt="市販の比色計をハッキングして RAL カラーコードのサポートを追加する"></p>]]></description><source url="https://hackaday.com/2026/07/31/hacking-a-commercial-colorimeter-to-add-ral-color-code-support/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/07/colors.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/07/colors.png"/></item>
 <item><title>(PR) Targus Expands EcoSmart Portfolio with Wired Keyboard, Mouse, and Combo</title><link>https://www.techpowerup.com/351270/targus-expands-ecosmart-portfolio-with-wired-keyboard-mouse-and-combo</link><guid isPermaLink="true">https://www.techpowerup.com/351270/targus-expands-ecosmart-portfolio-with-wired-keyboard-mouse-and-combo</guid><pubDate>Fri, 31 Jul 2026 15:18:22 +0000</pubDate><description><![CDATA[<p>(PR) Targus Expands EcoSmart Portfolio with Wired Keyboard, Mouse, and Combo</p>]]></description><source url="https://www.techpowerup.com/351270/targus-expands-ecosmart-portfolio-with-wired-keyboard-mouse-and-combo">TechPowerUp</source></item>
-<item><title>Tom’s Hardware の CPU の 30 年 — Pentium II から Ryzen 9 9950X3D2 までの 30 年間のプロセッサを振り返る</title><link>https://www.tomshardware.com/pc-components/cpus/30-years-of-cpus-at-toms-hardware-looking-back-on-three-decades-of-processors-from-the-pentium-ii-to-ryzen-9-9950x3d2</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/cpus/30-years-of-cpus-at-toms-hardware-looking-back-on-three-decades-of-processors-from-the-pentium-ii-to-ryzen-9-9950x3d2</guid><pubDate>Fri, 31 Jul 2026 15:13:36 +0000</pubDate><description><![CDATA[<p>Tom’s Hardware の CPU の 30 年 — Pentium II から Ryzen 9 9950X3D2 までの 30 年間のプロセッサを振り返る
-
-私たちは長い間 CPU について取り上げてきました。ズームアウトして視点を広げてみましょう。
-
-Tom’s Hardware の CPU の 30 年 — Pentium II から Ryzen 9 9950X3D2 までの 30 年間のプロセッサを振り返る
-
-私たちは長い間 CPU について取り上げてきました。ズームアウトして視点を広げてみましょう。
-
-(画像クレジット: Tom&#39;s Hardware) ジャンプ先: 初日からの羽の逆立ち (1996 - 1998)
-
-Pentium III 事件 (1999 ～ 2001 年)
-
-ギガヘルツへの挑戦 (2001 ～ 2004)
-
-コアが増えればもっと楽しく (2004 ～ 2007)
-
-ネハレムの海岸 (2007 - 2010)
-
-ブルドーザーが世界記録を樹立、サーマル (2010 ～ 2013)
-
-14nmの黎明期（2014年～2016年）
-
-新たな道を切り拓く（2021年～2024年）
-
-現実世界との照らし合わせ（2024年～現在）
-
-3 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 私たちは Tom&#39;s Hardware の 30 周年を祝います。 1996 年の Tom’s Hardware の開始以来、私たちは CPU を取り上げてきました。過去 30 年間にわたり、私たちは各新しいリリースをレビューすることでゲームに最適な CPU の包括的なリストを維持し、CPU ベンチマーク階層を作成するために数年にわたる数千のデータ ポイントを収集してきました。 Pentium II からデュアル データ レート メモリの導入、デュアル 3D V キャッシュ CPU まで、Tom’s Hardware はすべてをサポートしてきました。
-
-過去 30 年間にわたる CPU の世界における T…</p><p><img src="https://cdn.mos.cms.futurecdn.net/BE3Vh87CAywNp3czX6dQ7B-1999-80.jpg" alt="Tom’s Hardware の CPU の 30 年 — Pentium II から Ryzen 9 9950X3D2 までの 30 年間のプロセッサを振り返る"></p>]]></description><source url="https://www.tomshardware.com/pc-components/cpus/30-years-of-cpus-at-toms-hardware-looking-back-on-three-decades-of-processors-from-the-pentium-ii-to-ryzen-9-9950x3d2">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/BE3Vh87CAywNp3czX6dQ7B-1999-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/BE3Vh87CAywNp3czX6dQ7B-1999-80.jpg"/></item>
-<item><title>(PR) Akasa Advances 2U Rackmount Fanless Case Series with Kepler R</title><link>https://www.techpowerup.com/351269/akasa-advances-2u-rackmount-fanless-case-series-with-kepler-r</link><guid isPermaLink="true">https://www.techpowerup.com/351269/akasa-advances-2u-rackmount-fanless-case-series-with-kepler-r</guid><pubDate>Fri, 31 Jul 2026 15:12:03 +0000</pubDate><description><![CDATA[<p>(PR) Akasa Advances 2U Rackmount Fanless Case Series with Kepler R</p>]]></description><source url="https://www.techpowerup.com/351269/akasa-advances-2u-rackmount-fanless-case-series-with-kepler-r">TechPowerUp</source></item>
-<item><title>(PR) Montage Technology Enters Trial Production of CXL 3.2 MXC Chip Supporting 8000 MT/s DDR5</title><link>https://www.techpowerup.com/351268/montage-technology-enters-trial-production-of-cxl-3-2-mxc-chip-supporting-8000-mt-s-ddr5</link><guid isPermaLink="true">https://www.techpowerup.com/351268/montage-technology-enters-trial-production-of-cxl-3-2-mxc-chip-supporting-8000-mt-s-ddr5</guid><pubDate>Fri, 31 Jul 2026 15:07:05 +0000</pubDate><description><![CDATA[<p>(PR) Montage Technology Enters Trial Production of CXL 3.2 MXC Chip Supporting 8000 MT/s DDR5</p>]]></description><source url="https://www.techpowerup.com/351268/montage-technology-enters-trial-production-of-cxl-3-2-mxc-chip-supporting-8000-mt-s-ddr5">TechPowerUp</source></item>
-<item><title>The Pocket-Sized Panel Built to Simplify Your Workbench</title><link>https://www.hackster.io/news/the-pocket-sized-panel-built-to-simplify-your-workbench-1050fb6fe626</link><guid isPermaLink="true">https://www.hackster.io/news/the-pocket-sized-panel-built-to-simplify-your-workbench-1050fb6fe626</guid><pubDate>Fri, 31 Jul 2026 15:06:23 +0000</pubDate><description><![CDATA[<p>The Pocket-Sized Panel Built to Simplify Your Workbench</p>]]></description><source url="https://www.hackster.io/news/the-pocket-sized-panel-built-to-simplify-your-workbench-1050fb6fe626">Hackster.io</source></item>
-<item><title>Tom’s Hardware 30 周年記念 — Intel の確執と DIP スイッチから 30 年間にわたる公平なテストまで</title><link>https://www.tomshardware.com/pc-components/toms-hardwares-30th-anniversary-from-dip-switches-and-intel-feuds-to-30-years-of-unbiased-testing</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/toms-hardwares-30th-anniversary-from-dip-switches-and-intel-feuds-to-30-years-of-unbiased-testing</guid><pubDate>Fri, 31 Jul 2026 15:05:30 +0000</pubDate><description><![CDATA[<p>Tom’s Hardware 30 周年記念 — Intel の確執と DIP スイッチから 30 年間にわたる公平なテストまで
-
-30周年を迎えるにあたり、トムズハードウェアの歴史を振り返ります。
-
-Tom’s Hardware 30 周年記念 — Intel の確執と DIP スイッチから 30 年間にわたる公平なテストまで
-
-30周年を迎えるにあたり、トムズハードウェアの歴史を振り返ります。
-
-(画像クレジット: Tom&#39;s Hardware) リンクをコピー
-
-11 会話に参加してください フォローしてください Google ニュースレターの優先ソースとして追加してください ニュースレターを購読してください 当社の創設者であり同名のトーマス パブスト博士が、包括的なテストに裏付けられた偏りのない事実に基づいたレポートを提供することに重点を置き、Tom’s Hardware を定義する最初の記事を執筆してから 30 年が経過しました。この使命は、当社が今日も継続するよう努めています。 Tom’s Hardware は 30 周年を記念して、過去 30 年間の PC ハードウェアと周辺機器の進化を振り返る一連の記事を開始します。最初の記事は CPU の進化です。 CPU と GPU の歴史に入る前に、Tom’s Hardware の初期の歴史を簡単に振り返ってみましょう。
-
-当時開業医兼外科医だったパブスト氏は、デスクトップ PC 革命の初期にハードウェアのテストを開始し、1996 年に最初に Tom’s Roadrunner Page という名前で出版し、その後、同年後半に Tom’s Hardware Guide に進化してブランドを一気に有名にしました。初期の頃、Pabst はマザーボードと CPU のテストに重点を置いていましたが、Nvidia Riva 128 を最初にグラフィック カードのテストも開始し、続いて 3Dfx Voodoo などの他のテストも開始し、世界初の実世界 3D ベンチマークと称されるカスタム ベンチマークを作成しました。これらの基本…</p><p><img src="https://cdn.mos.cms.futurecdn.net/SgXaUdd7c7vtWjuQSLNQjh-650-80.png" alt="Tom’s Hardware 30 周年記念 — Intel の確執と DIP スイッチから 30 年間にわたる公平なテストまで"></p>]]></description><source url="https://www.tomshardware.com/pc-components/toms-hardwares-30th-anniversary-from-dip-switches-and-intel-feuds-to-30-years-of-unbiased-testing">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/SgXaUdd7c7vtWjuQSLNQjh-650-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/SgXaUdd7c7vtWjuQSLNQjh-650-80.png"/></item>
-<item><title>(PR) Lian Li が Uni Fan SL Flex および CL Flex ファンを発表</title><link>https://www.techpowerup.com/351267/lian-li-introduces-the-uni-fan-sl-flex-and-cl-flex-fans</link><guid isPermaLink="true">https://www.techpowerup.com/351267/lian-li-introduces-the-uni-fan-sl-flex-and-cl-flex-fans</guid><pubDate>Fri, 31 Jul 2026 15:04:07 +0000</pubDate><description><![CDATA[<p>(PR) Lian Li が Uni Fan SL Flex および CL Flex ファンを発表
-
-シャーシおよび PC アクセサリの大手メーカーである LIAN LI Industrial Co., Ltd. は、Lian Li のワイヤレス エコシステムへの最も簡単なエントリーとなる Uni Fan SL Flex および Uni Fan CL Flex を発表しました。両方のファンは、PWM 経由で電力供給を処理するコンパクトなコントローラーである新しいフレックス レシーバーに接続されています。
-
-Lian Li が Uni Fan SL Flex および CL Flex ファンを発表
-
-Uni Fan SL Flex: シングル パック $21.99、コントローラー付きトリプル パック $69.99
-
-Uni Fan CL Flex: シングル パック $16.99、コントローラー付きトリプル パック $54.99
-
-2026 年 6 月 5 日 Computex 2026 での Lian Li: 新しい Lancool、O11、およびウッド パネル ケース (8)
-
-2026 年 7 月 10 日 Lian Li が UNI FAN FLEX シリーズを発表 (1)
-
-2026 年 5 月 22 日 Lian Li が HydroShift II OLED Curved 360 AIO と電動 2K OLED Curved Screen を紹介 (6)
-
-2026 年 6 月 9 日 DeepCool が Computex 2026 で静かで整然としたビルドを実現する最新の PC ケース ファンを発表 (6)
-
-2026 年 5 月 29 日 Lian Li がエアフロー、モジュール性、ショーケースのデザインに焦点を当てた広範な 2026 年のポートフォリオを明らかに (5)
-
-2026 年 4 月 30 日 Lian Li が VECTOR V150 INF コンパクト microATX シャーシを発表 (6)
-
-2026 年 5 月 7 日 Lian L…</p><p><img src="https://www.techpowerup.com/img/c6e83Tz0bwFYYFIP.jpg" alt="(PR) Lian Li が Uni Fan SL Flex および CL Flex ファンを発表"></p>]]></description><source url="https://www.techpowerup.com/351267/lian-li-introduces-the-uni-fan-sl-flex-and-cl-flex-fans">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/c6e83Tz0bwFYYFIP.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/c6e83Tz0bwFYYFIP.jpg"/></item>
-<item><title>コントロールの続編では 30 時間以上の長いキャンペーンが提供されます</title><link>https://www.kitguru.net/gaming/matthew-wilson/control-sequel-will-offer-a-longer-30-hour-campaign/</link><guid isPermaLink="true">https://www.kitguru.net/gaming/matthew-wilson/control-sequel-will-offer-a-longer-30-hour-campaign/</guid><pubDate>Fri, 31 Jul 2026 15:00:19 +0000</pubDate><description><![CDATA[<p>コントロールの続編では 30 時間以上の長いキャンペーンが提供されます
-
-Control Resonant は、前作よりも大幅に長いゲームになる予定です。リード ゲームプレイ デザイナーの Sergey Mohov 氏によると、続編のメイン キャンペーンは約 30 時間実行され、完全なプレイスルーは約 50 時間に達すると予想されます。
-
-コントロールの続編では 30 時間以上の長いキャンペーンが提供されます
-
-Matthew Wilson 9 時間前 注目のテクノロジー ニュース , ソフトウェア &amp; ゲーム
-
-Control Resonant は、前作よりも大幅に長いゲームになる予定です。リード ゲームプレイ デザイナーの Sergey Mohov 氏によると、続編のメイン キャンペーンは約 30 時間実行され、完全なプレイスルーは約 50 時間に達すると予想されます。 TechRadarとのインタビューでモホフ氏は、『Resonant』は最初の『Control』よりも拡張的な体験を提供するように設計されており、プレイヤーが超常的に歪んだ世界を探索し、拡張された戦闘システムを実験するためのより多くの時間を与えられると説明した。モホフ氏は、「核となる体験は約 30 時間であるべきだ」と述べていますが、ゲームが提供するものをすべて確認したい人は約 50 時間のプレイ時間を期待できると述べています。これは、通常、ほとんどのプレイヤーで 15 ～ 20 時間の範囲近くで実行された元のゲームに比べて、顕著な増加を示しています。 Resonant の方が範囲は広いですが、Remedy は依然として Control のアイデンティティを維持することを目指しています。モホフ氏は、チームの「すべてにおいて一番のリファレンス」はオリジナルのゲームのままであり、続編が精神的に親しみを感じられるようにしていると語った。ただし、Resonant は近接戦闘に重点を置き、新たな領域にも進出しています。モホフ氏は、目標はコントロールに「精神的にも経験的にも似た」ものを作成すると同時に、主人公とし…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2025/12/Control-2-732x330.jpg" alt="コントロールの続編では 30 時間以上の長いキャンペーンが提供されます"></p>]]></description><source url="https://www.kitguru.net/gaming/matthew-wilson/control-sequel-will-offer-a-longer-30-hour-campaign/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2025/12/Control-2-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2025/12/Control-2-732x330.jpg"/></item>
-<item><title>Google Pixel Watch 4 LTE は、これまでで最高の Amazon セールの 1 つで 349.99 ドルに値下げされています</title><link>https://www.androidauthority.com/google-pixel-watch-4-lte-amazon-deal-3693360/</link><guid isPermaLink="true">https://www.androidauthority.com/google-pixel-watch-4-lte-amazon-deal-3693360/</guid><pubDate>Fri, 31 Jul 2026 14:55:21 +0000</pubDate><description><![CDATA[<p>Google Pixel Watch 4 LTE は、これまでで最高の Amazon セールの 1 つで 349.99 ドルに値下げされています
-
-Google Pixel Watch 4 LTE は、価格が 100 ドル下がり、ほぼ記録的な低価格となり、さらに 4.4 つ星の評価とスタンドアロンの通話、テキスト メッセージ、データが提供されます。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Google Pixel Watch 4 LTE は、これまでで最高の Amazon セールの 1 つで 349.99 ドルに値下げされています
-
-0 • Rita El Khoury / Android Authority Google Discover でフォローしてください 優先ソースとして追加 Amazon は、Google Pixel Watch 4 (41mm、LTE) を 100 ドル値下げし、希望小売価格 449.99 ドルから 349.99 ドルに値下げしました。これは希望小売価格と比較して 22% の割引であり、プライムデー以外で見た中で最も強力な価格の 1 つです。
-
-安くなったのはセール中だけで、そのときでもわずか 5 ドル安かっただけでした。また、この時計が449.99ドルで推移していた過去30日間と比べても際立っている。これがあなたが待ち望んでいたモデルであるなら、今がそれを手に入れる賢い時期のように思えます。
-
-このバージョンは 41mm LTE モデルであるため、携帯電話を近くに置く必要がなく、スタンドアロンでの通話、テキスト メッセージ、およびデータ用に構築されています。 4G LTE、Bluetooth 6.0、デュアルバンド Wi-Fi、NFC、ウルトラワイドバンドが含まれます。最近のリストでは、サポートされている地域での衛星 SOS サポートなど、安全性と通信ツールのアップグレードも指摘されています。
-
-41mmケースは手首周り130～210mmにフィットし、バン…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2025/10/google-pixel-watch-4-granza-watchface-3.jpg" alt="Google Pixel Watch 4 LTE は、これまでで最高の Amazon セールの 1 つで 349.99 ドルに値下げされています"></p>]]></description><source url="https://www.androidauthority.com/google-pixel-watch-4-lte-amazon-deal-3693360/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2025/10/google-pixel-watch-4-granza-watchface-3.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2025/10/google-pixel-watch-4-granza-watchface-3.jpg"/></item>
-<item><title>この Pixel 11 シリーズと Pixel Watch 5 のリークではソフトウェアが主役</title><link>https://www.androidauthority.com/pixel-11-and-pixel-watch-5-software-3693283/</link><guid isPermaLink="true">https://www.androidauthority.com/pixel-11-and-pixel-watch-5-software-3693283/</guid><pubDate>Fri, 31 Jul 2026 14:55:09 +0000</pubDate><description><![CDATA[<p>この Pixel 11 シリーズと Pixel Watch 5 のリークではソフトウェアが主役
-
-Pixel 11 と Pixel Watch 5 の大規模なリークにより、Google の新しいハードウェアでのソフトウェア エクスペリエンスを示す数十枚の画像が配信されました。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-この Pixel 11 シリーズと Pixel Watch 5 のリークではソフトウェアが主役
-
-0 • The Mac Observer Google Discover でフォローしてください 優先ソースとして追加してください TL;DR 新しいリークでは、Pixel 11 Pro、Pixel 11 Pro Fold、Pixel Watch 5 のソフトウェア エクスペリエンスが紹介されています。
-
-スクリーンショットでは同様の UI が示されていますが、視覚的に若干の改良が加えられています。
-
-約 1 週間半後に、Google は次の発表イベントを開催します。その日に近づくにつれて、漏れはますます増えています。実際、今朝早く新しい画像コレクションが公開されたばかりです。最近のリークのほとんどはハードウェア面に焦点を当てていますが、新たなリークではPixel 11シリーズとPixel Watch 5のソフトウェア面を垣間見ることができます。
-
-Mac Observer は、Pixel 11 Pro、Pixel 11 Pro Fold、Pixel Watch 5 でのソフトウェア エクスペリエンスを示す画像を入手しました。以下のギャラリーでわかるように、UI は現在利用可能な Android エクスペリエンスに非常によく似ていますが、視覚的にいくつかの小さな改良が加えられています。
-
-以下のスクリーンショットには、Pixel 11 Pro にあるさまざまなメニューと設定が含まれています。これには、ホーム画面、緊急 SOS セットアップ ページ、TalkBack、ビジュアル ボ…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/07/Exclusive-Closer-look-at-Google-Pixel-11-Pro-Fold-Pixel-11-Pro-and-Pixel-Watch-5-1024x576-1.jpg" alt="この Pixel 11 シリーズと Pixel Watch 5 のリークではソフトウェアが主役"></p>]]></description><source url="https://www.androidauthority.com/pixel-11-and-pixel-watch-5-software-3693283/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/07/Exclusive-Closer-look-at-Google-Pixel-11-Pro-Fold-Pixel-11-Pro-and-Pixel-Watch-5-1024x576-1.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/07/Exclusive-Closer-look-at-Google-Pixel-11-Pro-Fold-Pixel-11-Pro-and-Pixel-Watch-5-1024x576-1.jpg"/></item>
-<item><title>Apple CEOのティム・クック氏、同社はメモリ価格の「100年に一度の洪水」と戦っていると語る - 最近の価格高騰を受けて9月にはさらにメモリの価格が上がると予想</title><link>https://www.tomshardware.com/tech-industry/apple-nearly-doubled-its-inventory-to-11-09-billion-as-memory-costs-ate-its-gross-margin</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/apple-nearly-doubled-its-inventory-to-11-09-billion-as-memory-costs-ate-its-gross-margin</guid><pubDate>Fri, 31 Jul 2026 14:54:55 +0000</pubDate><description><![CDATA[<p>Apple CEOのティム・クック氏、同社はメモリ価格の「100年に一度の洪水」と戦っていると語る - 最近の価格高騰を受けて9月にはさらにメモリの価格が上がると予想
-
-アップル
-
-Apple CEOのティム・クック氏、同社はメモリ価格の「100年に一度の洪水」と戦っていると語る - 最近の価格高騰を受けて9月にはさらにメモリの価格が上がると予想
-
-Apple の提出書類には、DRAM の衝撃を吸収するバッファのサイズが示されています。
-
-(画像クレジット: Getty Images ) リンクをコピー
-
-11 会話に参加してください フォローしてください Google ニュースレターの優先情報源として追加してください ニュースレターを購読してください Apple は 9 月四半期に 6 月四半期よりもさらに多くのメモリ費用を支払うことになると、最高経営責任者 (CEO) のティム クック氏が 7 月 30 日の決算会見でアナリストに語った。これはメモリのコストが Apple の調整後総利益率全体の減少幅を上回ったためである。クック氏は、ジョン・ターナス氏が最高経営責任者（CEO）に就任する前の最後の電話でクパチーノから講演し、市場を「メモリー価格の百年に一度の洪水」と呼んだ。 Appleの6月27日終了四半期の連結財務諸表によると、在庫は前年同期比87％増の110億9000万ドルとなり、9カ月間で54億6000万ドルの現金が消費されてその地位を築いた。 CFOのケバン・パレク氏は、Appleが持ち込み在庫から得られる恩恵は9月以降に縮小すると述べた。
-
-AI データセンターが世界のメモリとストレージの供給を飲み込んでいる
-
-DRAM の未来: DDR5 から将来の IC まで
-
-HBM が PC の RAM に登場する理由は次のとおりです
-
-Appleの在庫は2025年6月末時点で59億3000万ドル、9月会計年度末時点で57億2000万ドルだったので、6月27日に報告された110億9000万ドルは9か月で94％増加したことになる。キャッシュフロー計算書によると、前年…</p><p><img src="https://cdn.mos.cms.futurecdn.net/8XSAZ6pdxjopuA2MrsvENQ-1920-80.jpg" alt="Apple CEOのティム・クック氏、同社はメモリ価格の「100年に一度の洪水」と戦っていると語る - 最近の価格高騰を受けて9月にはさらにメモリの価格が上がると予想"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/apple-nearly-doubled-its-inventory-to-11-09-billion-as-memory-costs-ate-its-gross-margin">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/8XSAZ6pdxjopuA2MrsvENQ-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/8XSAZ6pdxjopuA2MrsvENQ-1920-80.jpg"/></item>
-<item><title>ついにプレミアム価格なしで Wi-Fi 7 にアップグレードできるようになりました</title><link>https://www.xda-developers.com/tp-link-tri-band-be9300-wifi-7-router-150-deal/</link><guid isPermaLink="true">https://www.xda-developers.com/tp-link-tri-band-be9300-wifi-7-router-150-deal/</guid><pubDate>Fri, 31 Jul 2026 14:36:10 +0000</pubDate><description><![CDATA[<p>ついにプレミアム価格なしで Wi-Fi 7 にアップグレードできるようになりました
-
-40％割引は大きいですね
-
-ついにプレミアム価格なしで Wi-Fi 7 にアップグレードできるようになりました
-
-By Timi Cantisano 公開 2026 年 7 月 31 日、午前 10 時 36 分 EDT Timi は 10 年以上にわたり、スマートフォン、コンピューター、およびテクノロジー分野で興味があるものすべてに焦点を当ててテクノロジーについて執筆してきました。彼は XDA に執筆を開始し、モバイルに関するあらゆることをカバーしていましたが、インターネット上で最高のハイテク製品の最高の割引を明らかにすることを使命として、取引をカバーすることに移行しました。 XDA アカウントにサインインする この TP-Link BE9300 Wi-Fi 7 ルーターは、大金を掛けずに最高の接続性を求めている人向けです。驚異的な速度と最大 2,000 平方フィートの広大なカバー範囲を実現します。有線接続用の 2.5G イーサネット ポートが 4 つと、2.5G WAN ポートも付いています。このルーターは、付属のアプリのおかげでセットアップが簡単で、価格は 40% 割引の 150 ドルのおかげでお得です。
-
-クレジット: TP-Link 現在、ほとんどのルーターは 5GHz および 2.4GHz でブロードキャストできます。これにより 6 GHz 帯域が追加され、利用可能な最高の接続を必要とするトップエンド デバイスの重労働を行うことができます。これが可能になるのは、6GHz 帯域がより多くのデータに対してより広いレーンを提供するためです。
-
-さらに、これは新しいテクノロジーであるため、混雑が少なくなります。 5 GHz と 2.4 GHz 帯域は長年使用されており、周囲の人はワイヤレス データ送信に同じ帯域を利用していることになります。 6GHz 帯域にジャンプすることで、重複を少なくして作業できます。
-
-さらに、ビームフォーミング技術を備えたルーターの複数のアンテナにより、接…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/tp-link-archer-be9300.jpg?w=1600&amp;h=900&amp;fit=crop" alt="ついにプレミアム価格なしで Wi-Fi 7 にアップグレードできるようになりました"></p>]]></description><source url="https://www.xda-developers.com/tp-link-tri-band-be9300-wifi-7-router-150-deal/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/tp-link-archer-be9300.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/tp-link-archer-be9300.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>(PR) XCENA、ハイパースケール AI インフラストラクチャへの進出を加速する MX1 生産ラインアップを発表</title><link>https://www.techpowerup.com/351265/xcena-unveils-mx1-production-lineup-to-accelerate-push-into-hyperscale-ai-infrastructure</link><guid isPermaLink="true">https://www.techpowerup.com/351265/xcena-unveils-mx1-production-lineup-to-accelerate-push-into-hyperscale-ai-infrastructure</guid><pubDate>Fri, 31 Jul 2026 14:35:39 +0000</pubDate><description><![CDATA[<p>(PR) XCENA、ハイパースケール AI インフラストラクチャへの進出を加速する MX1 生産ラインアップを発表
-
-AI インフラストラクチャにメモリ中心のコンピューティング ソリューションを提供する XCENA は本日、大規模な AI 推論を制限している容量、使用率、データ移動を打破するために構築されたプロダクション メモリ ラインアップである MX1 を発表しました。同社は、FMS 2026: The Future of Memory and... で MX1 を展示します。
-
-XCENA、ハイパースケール AI インフラストラクチャへの移行を加速する MX1 生産ラインアップを発表
-
-MX1 コンピューティングは、CXL ベースのメモリ拡張と 2,048 RISC-V コアによって可能になるニアデータ処理を組み合わせ、コンピューティングをメモリに直接隣接して配置するため、データが存在する場所でデータ集約型の操作が実行されます。 MX1 Compute は、CPU とメモリ間の不必要なデータ移動を排除することで、AI 推論パフォーマンスとシステム効率を向上させながら、消費電力を削減します。
-
-MX1 Expand は 8 つの DRAM スロットを提供し、DRAM の再利用とサーバーのスケールアップに対するハイパースケーラーのニーズをサポートし、オペレータに AI インフラストラクチャ全体でメモリ リソースを拡張するための柔軟でコスト効率の高いパスを提供します。
-
-最高製品責任者のハリー・キム氏は、「KV キャッシュ共有: コスト効率の高い DRAM-NAND コンバージド CXL メモリによる拡張」を発表し、CXL ベースの KV キャッシュ共有テクノロジと次世代メモリ システムの実装アプローチについて説明します。彼のセッションは8月6日午後3時10分（太平洋時間）にボールルームEで行われる。
-
-シニア マーケティング マネージャーの Jay Yeon は、「XCENA MX1 の検証: 形式化されたすぐに使える評価方法論の事例」を発表し、初期の MX1 検証…</p><p><img src="https://www.techpowerup.com/img/OttKxLOmVSGrGGGy.jpg" alt="(PR) XCENA、ハイパースケール AI インフラストラクチャへの進出を加速する MX1 生産ラインアップを発表"></p>]]></description><source url="https://www.techpowerup.com/351265/xcena-unveils-mx1-production-lineup-to-accelerate-push-into-hyperscale-ai-infrastructure">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/OttKxLOmVSGrGGGy.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/OttKxLOmVSGrGGGy.jpg"/></item>
-<item><title>Sony Stocks Up on DRAM for PlayStation 5 Prior to GTA VI Launch</title><link>https://www.techpowerup.com/351264/sony-stocks-up-on-dram-for-playstation-5-prior-to-gta-vi-launch</link><guid isPermaLink="true">https://www.techpowerup.com/351264/sony-stocks-up-on-dram-for-playstation-5-prior-to-gta-vi-launch</guid><pubDate>Fri, 31 Jul 2026 14:33:51 +0000</pubDate><description><![CDATA[<p>Sony Stocks Up on DRAM for PlayStation 5 Prior to GTA VI Launch</p>]]></description><source url="https://www.techpowerup.com/351264/sony-stocks-up-on-dram-for-playstation-5-prior-to-gta-vi-launch">TechPowerUp</source></item>
-<item><title>Razer、Huntsman V3 HE Magnetic 8KHz で e スポーツ キーボードの範囲を拡大</title><link>https://www.kitguru.net/peripherals/keyboards/joao-silva/razer-expands-esports-keyboard-range-with-huntsman-v3-he-magnetic-8khz/</link><guid isPermaLink="true">https://www.kitguru.net/peripherals/keyboards/joao-silva/razer-expands-esports-keyboard-range-with-huntsman-v3-he-magnetic-8khz/</guid><pubDate>Fri, 31 Jul 2026 14:30:21 +0000</pubDate><description><![CDATA[<p>Razer、Huntsman V3 HE Magnetic 8KHz で e スポーツ キーボードの範囲を拡大
-
-Razer は、Huntsman V3 HE Magnetic 8KHz ラインを発表し、ホール効果磁気スイッチと真の 8000Hz ポーリングを備えたオプションを増やしてゲーミング キーボードの範囲を拡大しました。テンキーレスおよびミニ 65% フォーム ファクターで利用可能なキーボードには、ブラウザベースのカスタマイズとともに新しい入力コントロールが導入されています。 Razer は、Huntsman V3 HE Magnetic 8KHz シリーズにホールを搭載
-
-Razer、Huntsman V3 HE Magnetic 8KHz で e スポーツ キーボードの範囲を拡大
-
-ジョアン・シルバ 10時間前 キーボード
-
-Razer は、Huntsman V3 HE Magnetic 8KHz ラインを発表し、ホール効果磁気スイッチと真の 8000Hz ポーリングを備えたオプションを増やしてゲーミング キーボードの範囲を拡大しました。テンキーレスおよびミニ 65% フォーム ファクターで利用可能なキーボードには、ブラウザベースのカスタマイズとともに新しい入力コントロールが導入されています。 Razer は、Huntsman V3 HE Magnetic 8KHz シリーズにホール効果磁気スイッチを搭載しており、ユーザーは主要なアクチュエーション ポイントを 0.1 mm ～ 4.0 mm の間で調整できます。このスイッチは、定格 1 億キーストローク寿命に加え、急速な入力中に動的キー リセットを行うラピッド トリガー モードをサポートしています。 Razer は、真の 8,000 Hz ポーリング レートにより、0.1 mm の作動設定で平均レイテンシが 0.60 ミリ秒であると主張しています。ソフトウェア面では、キーボードは、個別のプレスとリリースのコマンドを 1 つのキーに割り当てる Razer Snap Flex などの高度な入力機能をサポートして…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/07/videoframe_2522-732x330.jpg" alt="Razer、Huntsman V3 HE Magnetic 8KHz で e スポーツ キーボードの範囲を拡大"></p>]]></description><source url="https://www.kitguru.net/peripherals/keyboards/joao-silva/razer-expands-esports-keyboard-range-with-huntsman-v3-he-magnetic-8khz/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/07/videoframe_2522-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/07/videoframe_2522-732x330.jpg"/></item>
-<item><title>Claude Code のサブエージェントは 1 つの問題を解決し、他の 3 つの問題を作成します</title><link>https://www.xda-developers.com/claude-codes-sub-agents-solve-one-problem-and-create-three-others/</link><guid isPermaLink="true">https://www.xda-developers.com/claude-codes-sub-agents-solve-one-problem-and-create-three-others/</guid><pubDate>Fri, 31 Jul 2026 14:30:10 +0000</pubDate><description><![CDATA[<p>Claude Code のサブエージェントは 1 つの問題を解決し、他の 3 つの問題を作成します
-
-孤立は与え、孤立は奪います。
-
-Claude Code のサブエージェントは 1 つの問題を解決し、他の 3 つの問題を作成します
-
-By Mahnoor Faisal 公開 2026 年 7 月 31 日、午前 10:30 EDT Mahnoor Faisal は、XDA 、 SlashGear 、 MakeUseOf 、 Laptop Mag 、 Android Police で署名記事を掲載し、AI と生産性向上ツールをカバーするテクノロジー ジャーナリストです。彼女は 16 歳の頃からプロとして執筆活動を行っており、それ以来何百もの記事を執筆してきました。これには、NotebookLM などの AI ツールから AI 分野全体の最新ニュースまでの詳細なカバレッジが含まれます。彼女のテクノロジーに対する情熱は、8 歳の誕生日に最初の iPod Touch (第 4 世代) を受け取ったときに始まり、それ以来テクノロジーの世界に深く関わってきました。現在、コンピューター サイエンスの学位取得を目指しているマフノール氏は、AI が私たちの働き方や学習方法をどのように再構築しているのかを取材する際に、ジャーナリストの目と技術的基礎の両方をもたらしています。 XDA アカウントにサインインします。AI を使用して、これまで言葉でしか説明できなかったものを初めて構築するときは、本当に魔法のように感じます。あなたのビジョンは数分以内にアイデアからコンセプトに移行し、これまでに行ったものよりも速くなります。 AI を使用して を構築するのが 2 回目、3 回目、4 回目、そして 10 回目であっても、同じスピード (そして興奮) が維持されます。しかし。この段階で何かが微妙に変化します。
-
-最初は見落としていた摩擦に気づき始めます。すべてを一度に一歩ずつ行っているからです。 1 つのことを要求し、待って確認してから、次のことを要求します。ここで、サブエージェントが登場します。タ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/claude-code-web-on-macbook-with-spotify-in-background.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="Claude Code のサブエージェントは 1 つの問題を解決し、他の 3 つの問題を作成します"></p>]]></description><source url="https://www.xda-developers.com/claude-codes-sub-agents-solve-one-problem-and-create-three-others/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/claude-code-web-on-macbook-with-spotify-in-background.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/claude-code-web-on-macbook-with-spotify-in-background.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
 </channel></rss>
