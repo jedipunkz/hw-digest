@@ -1,6 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Thu, 06 Aug 2026 00:10:04 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Thu, 06 Aug 2026 03:35:43 +0000</lastBuildDate>
+<item><title>NVIDIA Blackwell GPU の内部温度センサー分野: 物理測定、レジスター形式、評価、ファンエンベロープ、およびその理由の問題</title><link>https://www.igorslab.de/en/nvidia-blackwell-gpus-internal-temperature-sensors/</link><guid isPermaLink="true">https://www.igorslab.de/en/nvidia-blackwell-gpus-internal-temperature-sensors/</guid><pubDate>Thu, 06 Aug 2026 03:30:58 +0000</pubDate><description><![CDATA[<p>NVIDIA Blackwell GPU の内部温度センサー分野: 物理測定、レジスター形式、評価、ファンエンベロープ、およびその理由の問題
+
+NVIDIA の Blackwell GPU は、6 つの内部 BJT センサー値の異種フィールドを使用します。この記事では、レジスタの形式、評価、制限事項について説明します。
+
+この記事では、NVIDIA Blackwell GPU GB202 および GB206 の内部温度センサー フィールドについて調べます。中心的な発見は、確認された 6 つのレジスタ値が単一のホットスポット センサーを表すのではなく、少なくとも 4 つの空間的に変化するチャネル、最大アグリゲータ、および参照量で構成される異種フィールドを表すということです。生の値は技術的に読み取ることができますが、メーカーによる校正がなければ、異なるカード間で比較できる信頼できる絶対温度とはみなされません。
+
+検査したダイ: GB202 と GB206、それぞれ GeForce RTX 5090 と GeForce RTX 5060 Ti
+
+確認されたレジスタ値: THERM ブロック内の 6 つの DWORD エントリ、S1 ～ S6
+
+空間センサー: S1 ～ S4、広がりと標準偏差に使用
+
+フォーマット解像度: 1/256 K、約 0.004 K、数値解像度、物理的な測定精度ではありません
+
+有効性チェック: 上位ワード 0x4000、ランダムな温度のようなレジスタ内容の評価を防止
+
+許容温度範囲: 0 °C ～ 130 °C、この範囲外の値は無視されます。
+
+過去のロック値: 0xFF00 = 255.0 °C、ロックされた Blackwell RAW チャネルの署名
+
+測定原理：CMOSプロセスにおける寄生縦型PNPトランジスタ、ベース・エミッタ間電圧の差を使用したPTAT原理に従って評価
+
+レジスタ領域: GPU の THERM ブロック。ベース、妥当性マーカー、センサー フィールドが含まれます。
+
+データ形式: Q8.8 固定小数点、下位 16 ビットが温度…</p><p><img src="https://www.igorslab.de/wp-content/uploads/2026/07/Folder-06.jpg" alt="NVIDIA Blackwell GPU の内部温度センサー分野: 物理測定、レジスター形式、評価、ファンエンベロープ、およびその理由の問題"></p>]]></description><source url="https://www.igorslab.de/en/nvidia-blackwell-gpus-internal-temperature-sensors/">igor&#39;sLAB</source><media:content url="https://www.igorslab.de/wp-content/uploads/2026/07/Folder-06.jpg" medium="image"/><media:thumbnail url="https://www.igorslab.de/wp-content/uploads/2026/07/Folder-06.jpg"/></item>
+<item><title>Google Home は 8 月にアプリの大型アップデートとよりスマートな Gemini for Home を備えてスタートします</title><link>https://www.androidauthority.com/google-home-update-august-5-2026-3695072/</link><guid isPermaLink="true">https://www.androidauthority.com/google-home-update-august-5-2026-3695072/</guid><pubDate>Thu, 06 Aug 2026 03:20:24 +0000</pubDate><description><![CDATA[<p>Google Home は 8 月にアプリの大型アップデートとよりスマートな Gemini for Home を備えてスタートします
+
+Google Home の最初の 8 月アップデートには、AI ストーリーテリング、アラームの改善など、便利な新機能が満載です。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+Google Home は 8 月にアプリの大型アップデートとよりスマートな Gemini for Home を備えてスタートします
+
+0 • Edgar Cervantes / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google は、家族が音声コマンドを使用してストーリーを作成および変更できるインタラクティブ AI ストーリータイム機能を Gemini for Home に追加しました。
+
+このアップデートでは、アラーム、タイマー、その他の日常機能も改善され、いくつかのバグも修正されています。
+
+Google Home アプリは、より多くのスマート カメラ ブランドをサポートするようになり、いくつかの新しいカメラの表示と録画の改善が含まれています。
+
+Google は、Gemini for Home (早期アクセス) と Google Home アプリの最新のアップデートを発表しました。最新の 8 月 5 日のアップデートでは、AI を活用した楽しい新しいストーリータイム機能が Gemini for Home に追加され、アプリでの毎日のスマート ホーム コントロールの信頼性が向上することが約束されています。
+
+最大の追加機能の 1 つは、Gemini 用の新しいインタラクティブ ストーリータイム機能です。これにより、ユーザーは AI アシスタントに音声コマンドを発行することで、ストーリーを作成および変更できるようになります。
+
+ジェミニにオリジナルの物語を考え出したり、子供たちを冒険に…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-4.jpg" alt="Google Home は 8 月にアプリの大型アップデートとよりスマートな Gemini for Home を備えてスタートします"></p>]]></description><source url="https://www.androidauthority.com/google-home-update-august-5-2026-3695072/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-4.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-4.jpg"/></item>
+<item><title>この大手スマートフォンメーカーが、どの企業も入りたくないリストに名を連ねた</title><link>https://www.androidauthority.com/oppo-north-korean-hacking-victim-3695068/</link><guid isPermaLink="true">https://www.androidauthority.com/oppo-north-korean-hacking-victim-3695068/</guid><pubDate>Thu, 06 Aug 2026 02:23:07 +0000</pubDate><description><![CDATA[<p>この大手スマートフォンメーカーが、どの企業も入りたくないリストに名を連ねた
+
+OPPO は、北朝鮮による数年にわたるハッキング活動の影響を受ける 57 か国の 1,600 以上の組織の 1 つです。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+この大手スマートフォンメーカーが、どの企業も入りたくないリストに名を連ねた
+
+0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR あるセキュリティ研究者は、OPPO が長年にわたる北朝鮮のハッキング キャンペーンの影響を受けた 57 か国の 1,600 以上の組織の 1 つであると主張しています。
+
+報告によると、攻撃者は偽のソフトウェア開発者の就職面接を利用して被害者を騙し、企業システムへのアクセスを許可するマルウェアをインストールさせたという。
+
+この攻撃は主に暗号通貨の窃盗に焦点を当てていたが、研究者らはハッカーらが数百の組織への高度な特権アクセスを取得したと警告している。
+
+北朝鮮による数年にわたるハッキング活動により、世界57カ国の1,600以上の組織が侵害されたと報告されており、中国のスマートフォンメーカーOPPOも、この作戦を明らかにした研究者が名を挙げた企業の1つだ。
+
+Wired の報道によると、サイバーセキュリティ研究者のヴァンゲリス・スティカス氏は、北朝鮮のハッカーが使用するインフラ内で2年近くを過ごし、数百の企業が影響を受けたという証拠を発見したと述べた。同氏は、これらの組織のうち 700 ～ 800 が、ハッカーに内部システムへの高レベルのアクセスを許可する「本当に損害を与えた」侵入の被害に遭ったと主張している。
+
+Black Hat セキュリティ カンファレンスでのプレゼンテーションの一環として、Stykas 氏は、OPPO、Coinbase、Uniswap Labs、ボストン小児病院、およびいくつかの政府機関を含む、影響を受けたと主張する約 12 の組織を公的に特定…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/07/oppo-find-n6-holding-back-phone-scaled.jpg" alt="この大手スマートフォンメーカーが、どの企業も入りたくないリストに名を連ねた"></p>]]></description><source url="https://www.androidauthority.com/oppo-north-korean-hacking-victim-3695068/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/07/oppo-find-n6-holding-back-phone-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/07/oppo-find-n6-holding-back-phone-scaled.jpg"/></item>
+<item><title>EA will be considering &#39;mass layoffs&#39; soon after going private</title><link>https://www.tweaktown.com/rss/click/news/113016/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113016/?c=news-mf</guid><pubDate>Thu, 06 Aug 2026 02:20:11 +0000</pubDate><description><![CDATA[<p>EA will be considering &#39;mass layoffs&#39; soon after going private</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113016/?c=news-mf">TweakTown</source></item>
+<item><title>3D プリントで使えるエアレス タイヤ</title><link>https://hackaday.com/2026/08/05/3d-printing-a-usable-airless-tire/</link><guid isPermaLink="true">https://hackaday.com/2026/08/05/3d-printing-a-usable-airless-tire/</guid><pubDate>Thu, 06 Aug 2026 02:00:59 +0000</pubDate><description><![CDATA[<p>3D プリントで使えるエアレス タイヤ
+
+何十年もの間、ミシュランのような企業は、空気を使わない未来的な外観の自動車用タイヤで私たちをからかってきました。代わりに、同じパフォーマンスを維持する一種のポリマーメッシュが使用されています。
+
+何十年もの間、ミシュランのような企業は、空気を使わない未来的な外観の自動車用タイヤで私たちをからかってきました。代わりに、空気入りタイヤと同じ圧力を走行面に維持する一種のポリマーメッシュが使用されており、空気入りタイヤよりもはるかに少ないメンテナンスで済みます。少なくとも理論上は。これらのタイヤが、Half Life 3 や現代の手頃な価格のフォルクスワーゲンと同じ神話の領域に存在するのには理由があり、[Berm Peak] はその理由を自分で発見することにしました。
+
+もちろん、[バーム ピーク] は、彼の以前のビデオで紹介されていた電気ピックアップ トラックを、日々のドライバーのために作っているわけではありません。彼は代わりにこれらをマウンテンバイクに装着していますが、このようなタイヤ自体にとっては厳しい環境です。彼のようなレベルでマウンテン バイクに乗る場合、トレイル上でのパンクやパンクは非常に厄介な問題になる可能性があるため、彼は空気圧技術に匹敵するものを作成できないかどうかを確認するために、3D プリンターを使用してこれらのデザインを実験し始めました。設計を何度か繰り返した後、トレッドとホイールの間に準拠した S 字型の間隔を持つ TPU ベースのバージョンに落ち着きました。タイヤはセクションごとにプリントされ、別個の 3D プリントされたリム インターフェイスを使用してバイクのリムに結合して取り付けられます。
+
+このプロセスの最後に、[Berm Peak] は極端なオフロード テストにほぼ耐えられる驚くほど高性能なタイヤを完成させました。これは彼のショップで 3D プリントされたものとしては素晴らしい偉業です。おそらく、自転車タイヤを専門とする会社は、さらに高性能なものを製造できるでしょうが、エアレスタイヤが解決するすべての…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/airless-tire-main.jpg" alt="3D プリントで使えるエアレス タイヤ"></p>]]></description><source url="https://hackaday.com/2026/08/05/3d-printing-a-usable-airless-tire/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/airless-tire-main.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/airless-tire-main.jpg"/></item>
+<item><title>Redditor manages to buy a working RTX 3050 for just $3 from a thrift store</title><link>https://www.tweaktown.com/rss/click/news/113015/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113015/?c=news-mf</guid><pubDate>Thu, 06 Aug 2026 01:35:09 +0000</pubDate><description><![CDATA[<p>Redditor manages to buy a working RTX 3050 for just $3 from a thrift store</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113015/?c=news-mf">TweakTown</source></item>
+<item><title>ASUS cancels buyer&#39;s RTX 5090 order even after he paid $4607, wants more money</title><link>https://www.tweaktown.com/rss/click/news/113014/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113014/?c=news-mf</guid><pubDate>Thu, 06 Aug 2026 01:00:07 +0000</pubDate><description><![CDATA[<p>ASUS cancels buyer&#39;s RTX 5090 order even after he paid $4607, wants more money</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113014/?c=news-mf">TweakTown</source></item>
+<item><title>新型PS5に物理ディスクに関する警告が表示され、ソニーは決定を覆さないことを証明</title><link>https://www.xda-developers.com/sony-proves-its-not-reversing-its-decision-as-warnings-about-physical-discs-appear-on-new-ps5s/</link><guid isPermaLink="true">https://www.xda-developers.com/sony-proves-its-not-reversing-its-decision-as-warnings-about-physical-discs-appear-on-new-ps5s/</guid><pubDate>Thu, 06 Aug 2026 00:56:59 +0000</pubDate><description><![CDATA[<p>新型PS5に物理ディスクに関する警告が表示され、ソニーは決定を覆さないことを証明
+
+それ
+
+新型PS5に物理ディスクに関する警告が表示され、ソニーは決定を覆さないことを証明
+
+Simon Batt 公開 2026 年 8 月 5 日、午後 8 時 56 分 EDT Simon はコンピューター サイエンスの学士号を取得しており、2014 年からテクノロジーについて執筆しており、3.1 から Windows マシンを使用しています。インディーズ ゲーム スタジオで働き、コンピューターの問題全般に対応する家族の頼りになる技術者として活動した後、彼は文章を書くことへの情熱に気づき、自分のスキルセットをテクノロジーに関するあらゆることについて書くことに決めました。ライターとしてのキャリアを始めて以来、彼は WorldStart 、 Listverse 、 MakeTechEasier などのさまざまな出版物に執筆してきました。しかし、2019 年 2 月に MakeUseOf に居場所を見つけた後、最終的にはその姉妹サイトである XDA に移り、最新かつ最高の Windows、Linux、DIY 電子機器を提供することになりました。 XDA アカウントにサインインする ソニーが 2028 年にディスク生産を縮小することを明らかにした後、ゲーマーたちは声を上げ始めました。彼らが十分な支持を示せば、ソニーは戦略を再考し、決定を撤回するかもしれない、という考えだった。物理的なライブラリのファンにとって残念なことに、新しい PS5 にはデジタル専用になるという警告が表示されているため、ソニーはすでに計画を倍増しているようです。
+
+新しいPS5ボックスはソニーの物理メディア終了計画について消費者に警告
+
+ソニーが手を引かない証拠だ
+
+クレジット: @BehindTGames IGN が発見したように、このニュースは X の @BehindTGames 経由で届きました。 PS5の箱には、新しいディスクを購入することに安易に考えないよう警告する新しいラベルが表示されています。
+
+重要なお知…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/04/ps5-fat.jpg?w=1600&amp;h=900&amp;fit=crop" alt="新型PS5に物理ディスクに関する警告が表示され、ソニーは決定を覆さないことを証明"></p>]]></description><source url="https://www.xda-developers.com/sony-proves-its-not-reversing-its-decision-as-warnings-about-physical-discs-appear-on-new-ps5s/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/04/ps5-fat.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/04/ps5-fat.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>求めてもいない Windows 11 サービスにより、ラップトップの動作が暖かくなり、寿命が早くなります</title><link>https://www.xda-developers.com/a-windows-11-service-you-never-asked-for-is-making-your-laptop-run-warmer-and-die-sooner/</link><guid isPermaLink="true">https://www.xda-developers.com/a-windows-11-service-you-never-asked-for-is-making-your-laptop-run-warmer-and-die-sooner/</guid><pubDate>Thu, 06 Aug 2026 00:00:10 +0000</pubDate><description><![CDATA[<p>求めてもいない Windows 11 サービスにより、ラップトップの動作が暖かくなり、寿命が早くなります
 
 あなたはだめです
@@ -1025,29 +1115,6 @@ Notion がまだ修正できないと思われる点
 
 私の Notion ワークスペースはここ数年で大幅に拡大し、ページの読み込みに以前よりも著しく時間がかかりました。私のメイン ダッシュボードにはリンクされたデータベースがいくつかあり、それを開くたびに少し時間がかかります。これは些細なことのように思…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/appflowy-database-on-desktop-pc-clock-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="AppFlowyはついに本物のNotionのように感じられ、自己ホストすることで私の最大の不満が解決されました"></p>]]></description><source url="https://www.xda-developers.com/appflowy-feels-like-real-notion-and-self-hosting-fixed-my-biggest-complaint/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/appflowy-database-on-desktop-pc-clock-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/appflowy-database-on-desktop-pc-clock-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>Samsung reveals zHBM: future RAM is stacked above AI accelerator, boasts 8x performance of HBM5 and 3x energy efficiency</title><link>https://www.tweaktown.com/rss/click/news/113011/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113011/?c=news-mf</guid><pubDate>Wed, 05 Aug 2026 14:20:11 +0000</pubDate><description><![CDATA[<p>Samsung reveals zHBM: future RAM is stacked above AI accelerator, boasts 8x performance of HBM5 and 3x energy efficiency</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113011/?c=news-mf">TweakTown</source></item>
-<item><title>MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中</title><link>https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-mentions-of-32-gb-ram-recommendation-for-windows-11</link><guid isPermaLink="true">https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-mentions-of-32-gb-ram-recommendation-for-windows-11</guid><pubDate>Wed, 05 Aug 2026 14:19:21 +0000</pubDate><description><![CDATA[<p>MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中
-
-Microsoft は、新しい PC の構築または購入の推奨事項として 32 GB の RAM について言及したドキュメントおよび資料を Web サイトから遡及的に削除します。代わりに、同社は現在、RAM 構成であっても Windows 11 をスムーズに実行できるように最適化された 8 GB デバイスを重視しています。
-
-MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中
-
-2025 年 8 月 18 日 Microsoft Windows 11 24H2 アップデートにより SSD 障害が発生する可能性がある (278)
-
-2025 年 10 月 21 日 Windows 11 25H2 October Update のバグにより回復環境が使用不能になる (170)
-
-2025 年 10 月 17 日 Microsoft が Windows 11 October Update で Localhost を破壊し、ユーザーは強制的に元に戻される (105)
-
-2026 年 1 月 16 日 NVIDIA が GeForce RTX 5070 Ti の生産を終了、RTX 5060 Ti 16 GB Next (210) と伝えられる
-
-2025 年 10 月 1 日 Microsoft が Windows 11 25H2 をリリース…新機能はゼロ？ (122)
-
-2025 年 12 月 14 日 Microsoft Copilot AI が LG TV に搭載、削除できない (144)
-
-2025 年 10 月 7 日 Microsoft が Windows 11 でのオンライン アカウント バイパスをブロック (162)
-
-2026 年 5 月 1 日 Microsoft は、Windows 11 の「心配しない」アップグレードとして 32 GB RAM を推奨するようになりました (147)
-
-2025 年 8 月 19…</p><p><img src="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg" alt="MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中"></p>]]></description><source url="https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-mentions-of-32-gb-ram-recommendation-for-windows-11">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg"/></item>
 <item><title>Microsoft、Windows 11 向けの 32 GB RAM の推奨をひっそりと削除中</title><link>https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-32-gb-ram-recommendation-for-windows-11</link><guid isPermaLink="true">https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-32-gb-ram-recommendation-for-windows-11</guid><pubDate>Wed, 05 Aug 2026 14:19:21 +0000</pubDate><description><![CDATA[<p>Microsoft、Windows 11 向けの 32 GB RAM の推奨をひっそりと削除中
 
 Microsoft は、新しい PC の構築または購入の推奨事項として 32 GB の RAM について言及したドキュメントおよび資料を Web サイトから遡及的に削除します。代わりに、同社は現在、RAM 構成であっても Windows 11 をスムーズに実行できるように最適化された 8 GB デバイスを重視しています。
@@ -1071,6 +1138,29 @@ Microsoft、Windows 11 向けの 32 GB RAM の推奨をひっそりと削除中
 2026 年 5 月 1 日 Microsoft は、Windows 11 の「心配しない」アップグレードとして 32 GB RAM を推奨するようになりました (147)
 
 2025 年 8 月 19 日 P…</p><p><img src="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg" alt="Microsoft、Windows 11 向けの 32 GB RAM の推奨をひっそりと削除中"></p>]]></description><source url="https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-32-gb-ram-recommendation-for-windows-11">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg"/></item>
+<item><title>MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中</title><link>https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-mentions-of-32-gb-ram-recommendation-for-windows-11</link><guid isPermaLink="true">https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-mentions-of-32-gb-ram-recommendation-for-windows-11</guid><pubDate>Wed, 05 Aug 2026 14:19:21 +0000</pubDate><description><![CDATA[<p>MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中
+
+Microsoft は、新しい PC の構築または購入の推奨事項として 32 GB の RAM について言及したドキュメントおよび資料を Web サイトから遡及的に削除します。代わりに、同社は現在、RAM 構成であっても Windows 11 をスムーズに実行できるように最適化された 8 GB デバイスを重視しています。
+
+MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中
+
+2025 年 8 月 18 日 Microsoft Windows 11 24H2 アップデートにより SSD 障害が発生する可能性がある (278)
+
+2025 年 10 月 21 日 Windows 11 25H2 October Update のバグにより回復環境が使用不能になる (170)
+
+2025 年 10 月 17 日 Microsoft が Windows 11 October Update で Localhost を破壊し、ユーザーは強制的に元に戻される (105)
+
+2026 年 1 月 16 日 NVIDIA が GeForce RTX 5070 Ti の生産を終了、RTX 5060 Ti 16 GB Next (210) と伝えられる
+
+2025 年 10 月 1 日 Microsoft が Windows 11 25H2 をリリース…新機能はゼロ？ (122)
+
+2025 年 12 月 14 日 Microsoft Copilot AI が LG TV に搭載、削除できない (144)
+
+2025 年 10 月 7 日 Microsoft が Windows 11 でのオンライン アカウント バイパスをブロック (162)
+
+2026 年 5 月 1 日 Microsoft は、Windows 11 の「心配しない」アップグレードとして 32 GB RAM を推奨するようになりました (147)
+
+2025 年 8 月 19…</p><p><img src="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg" alt="MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中"></p>]]></description><source url="https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-mentions-of-32-gb-ram-recommendation-for-windows-11">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg"/></item>
 <item><title>2026 年 8 月の新しい Audible オーディオブックのベスト 10</title><link>https://goodereader.com/blog/book-recommendations/the-top-10-best-new-audible-audiobooks-for-august-2026</link><guid isPermaLink="true">https://goodereader.com/blog/book-recommendations/the-top-10-best-new-audible-audiobooks-for-august-2026</guid><pubDate>Wed, 05 Aug 2026 14:17:29 +0000</pubDate><description><![CDATA[<p>2026 年 8 月の新しい Audible オーディオブックのベスト 10
 
 Audible.com で最も期待され、高く評価されている新しいオーディオブックには、スター勢揃いのフルキャストのパフォーマンス、大ヒット作の続編、深い文学小説が含まれています。
@@ -1308,6 +1398,16 @@ Counterpoint Research の 2026 年第 2 四半期の Global Memory Tracker ア�
 2026 年 7 月 31 日 Apple、メモリ不足とさらなるサプライヤーの評価について語る (15)
 
 2026 年 7 月 17 日 PC ベンダーは CXMT メモリの供給を「争う」、小…</p><p><img src="https://www.techpowerup.com/img/ouxFnDjVl8XjGOcB.jpg" alt="サムスンが引き続きDRAM市場シェアでリード、マイクロンが追い上げ、ノートレポート"></p>]]></description><source url="https://www.techpowerup.com/351380/samsung-continues-dram-market-share-lead-micron-is-catching-up-notes-report">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/ouxFnDjVl8XjGOcB.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/ouxFnDjVl8XjGOcB.jpg"/></item>
+<item><title>Xbox Switch 2 の展開は、8 月のオブリビオン リマスター、9 月のディアブロ 4 と継続されます。</title><link>https://www.kitguru.net/gaming/matthew-wilson/xbox-switch-2-rollout-continues-with-oblivion-remastered-in-august-and-diablo-4-in-september/</link><guid isPermaLink="true">https://www.kitguru.net/gaming/matthew-wilson/xbox-switch-2-rollout-continues-with-oblivion-remastered-in-august-and-diablo-4-in-september/</guid><pubDate>Wed, 05 Aug 2026 12:30:59 +0000</pubDate><description><![CDATA[<p>Xbox Switch 2 の展開は、8 月のオブリビオン リマスター、9 月のディアブロ 4 と継続されます。
+
+Microsoft は、Switch 2 プラットフォームの初期からの大きな支持者であり、コンソールの市場発売から 1 年以内に、同社の最大のゲームのいくつかを提供してきました。これまでのところ、『オーバーウォッチ』、『フォールアウト 4』、『インディ・ジョーンズ』などのタイトルが持ち込まれてきました。今後数か月以内に、Oblivion Remastered と Diablo 4 の Switch 2 バージョンがリリースされる予定です。
+
+Xbox Switch 2 の展開は、8 月のオブリビオン リマスター、9 月のディアブロ 4 と継続されます。
+
+Matthew Wilson 15 時間前 ソフトウェアとゲーム
+
+Microsoft は、Switch 2 プラットフォームの初期からの大きな支持者であり、コンソールの市場発売から 1 年以内に、同社の最大のゲームのいくつかを提供してきました。これまでのところ、『オーバーウォッチ』、『フォールアウト 4』、『インディ・ジョーンズ』などのタイトルが持ち込まれてきました。今後数か月以内に、Oblivion Remastered と Diablo 4 の Switch 2 バージョンがリリースされる予定です。 『エルダースクロールズ IV: オブリビオン リマスター』は、8 月 11 日に Switch 2 で発売されます。そして9月には、ディアブロ4が初めてスイッチ2で利用可能になり、オリジナルのスイッチコンソールでディアブロ3が多くの視聴者を獲得したように、スイッチ2プラットフォームで大きな売れ筋になるはずです。今年の後半には、Microsoft も Call of Duty: Modern Warfare 4 を Switch 2 プラットフォームに導入し、このシステムの非常に強力で一貫したリリースの年を締めくくる予定です。ただし、任天堂のプラットフォームに対するマイクロソフトのサポートの一部は、将来的…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/04/diablo-4-lord-of-hatred-732x330.jpg" alt="Xbox Switch 2 の展開は、8 月のオブリビオン リマスター、9 月のディアブロ 4 と継続されます。"></p>]]></description><source url="https://www.kitguru.net/gaming/matthew-wilson/xbox-switch-2-rollout-continues-with-oblivion-remastered-in-august-and-diablo-4-in-september/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/04/diablo-4-lord-of-hatred-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/04/diablo-4-lord-of-hatred-732x330.jpg"/></item>
+<item><title>Creality&#39;s Pika Puts a Dual-Mode Laser/NIR 3D Scanner in Your Pocket — With Gaussian Splatting Soon</title><link>https://www.hackster.io/news/creality-s-pika-puts-a-dual-mode-laser-nir-3d-scanner-in-your-pocket-with-gaussian-splatting-soon-f904b18bffd4</link><guid isPermaLink="true">https://www.hackster.io/news/creality-s-pika-puts-a-dual-mode-laser-nir-3d-scanner-in-your-pocket-with-gaussian-splatting-soon-f904b18bffd4</guid><pubDate>Wed, 05 Aug 2026 12:25:46 +0000</pubDate><description><![CDATA[<p>Creality&#39;s Pika Puts a Dual-Mode Laser/NIR 3D Scanner in Your Pocket — With Gaussian Splatting Soon</p>]]></description><source url="https://www.hackster.io/news/creality-s-pika-puts-a-dual-mode-laser-nir-3d-scanner-in-your-pocket-with-gaussian-splatting-soon-f904b18bffd4">Hackster.io</source></item>
 <item><title>Sunbird アプリが灰の中から復活し、Android に iMessage をもたらしました</title><link>https://www.androidauthority.com/sunbird-relaunched-app-imessage-android-3694775/</link><guid isPermaLink="true">https://www.androidauthority.com/sunbird-relaunched-app-imessage-android-3694775/</guid><pubDate>Wed, 05 Aug 2026 12:13:45 +0000</pubDate><description><![CDATA[<p>Sunbird アプリが灰の中から復活し、Android に iMessage をもたらしました
 
 Sunbird アプリは数年前に Android に iMessage を導入しましたが、セキュリティ上の問題により 2023 年に廃止されました。さて、戻ってきました。
@@ -1369,6 +1469,15 @@ By Ethan Meyerowitz 公開 2026 年 8 月 5 日、午前 8:00 EDT イーサン�
 Linux を実行する方法は他にもありますが、なぜこれを使用するのでしょうか?
 
 Linux は使いこなすのが難しい場合があります。一部の人にとっては、特定のターミナル コマンド (ディストリビューションごとに同じものに対して異なるコマンドが存在する) を覚えなければならないことに圧倒される可能性があり…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/img_20260729_133745-1.jpg?w=1600&amp;h=900&amp;fit=crop" alt="仮想マシンは、不要な頭痛の種を引き起こすことなく Linux を試す最も簡単な方法です"></p>]]></description><source url="https://www.xda-developers.com/virtual-machines-best-way-to-try-linux/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/img_20260729_133745-1.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/img_20260729_133745-1.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>OpenMouseは独自のゲーミングマウスソフトウェアの置き換えを目指す</title><link>https://www.kitguru.net/peripherals/mouse/joao-silva/openmouse-aims-to-replace-proprietary-gaming-mouse-software/</link><guid isPermaLink="true">https://www.kitguru.net/peripherals/mouse/joao-silva/openmouse-aims-to-replace-proprietary-gaming-mouse-software/</guid><pubDate>Wed, 05 Aug 2026 12:00:09 +0000</pubDate><description><![CDATA[<p>OpenMouseは独自のゲーミングマウスソフトウェアの置き換えを目指す
+
+OpenMouse は、独自のソフトウェアをインストールせずに、Windows、macOS、Linux でゲーミング マウスを設定できるように設計されたオープンソースのブラウザベースのコントロール パネルです。このツールは、Chromium ベースのブラウザで WebHID を介して動作し、複数のブランドのハードウェア設定をユニバーサルに制御できるようにすることを目的としています。 OpenMouse (TechPowerUP 経由) は早期アクセスのままで、まだ一般公開されていませんが、
+
+OpenMouseは独自のゲーミングマウスソフトウェアの置き換えを目指す
+
+João Silva 16 時間前 マウス、ソフトウェア、ゲーム
+
+OpenMouse は、独自のソフトウェアをインストールせずに、Windows、macOS、Linux でゲーミング マウスを設定できるように設計されたオープンソースのブラウザベースのコントロール パネルです。このツールは、Chromium ベースのブラウザで WebHID を介して動作し、複数のブランドのハードウェア設定をユニバーサルに制御できるようにすることを目的としています。 OpenMouse (TechPowerUP 経由) は早期アクセスのままでまだ一般公開されていませんが、チームは WLMouse (Beast G/X および Huan)、Endgame Gear (OP1we および OP1 8K)、Pulsar (X2 CrazyLight)、Logitech (Superlight 2(C) および Superstrike)、Orbital (Pathfinder) などのブランドの初期サポートを主張しています。具体的なハードウェア サポートには Logitech G Pro X2 Superstrike が含まれており、チームは Logitech の HITS 誘導スイッチとハプティクス テクノロジーの統合が現在開発中であると述べています。 F…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/08/og-preview-dark-732x330.jpg" alt="OpenMouseは独自のゲーミングマウスソフトウェアの置き換えを目指す"></p>]]></description><source url="https://www.kitguru.net/peripherals/mouse/joao-silva/openmouse-aims-to-replace-proprietary-gaming-mouse-software/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/08/og-preview-dark-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/08/og-preview-dark-732x330.jpg"/></item>
 <item><title>イーロン・マスク氏、SpaceXは「最高だから」Nvidia GPUを独占的に使用すると語る - 最適化されたVera Rubin NVL72が来年宇宙に打ち上げられると語る</title><link>https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-spacex-will-exclusively-use-nvidia-gpus-because-they-are-the-best-says-optimized-vera-rubin-nvl72-will-be-launched-into-space-next-year</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-spacex-will-exclusively-use-nvidia-gpus-because-they-are-the-best-says-optimized-vera-rubin-nvl72-will-be-launched-into-space-next-year</guid><pubDate>Wed, 05 Aug 2026 11:50:34 +0000</pubDate><description><![CDATA[<p>イーロン・マスク氏、SpaceXは「最高だから」Nvidia GPUを独占的に使用すると語る - 最適化されたVera Rubin NVL72が来年宇宙に打ち上げられると語る
 
 AMD、Cerebras、D-Matrix、Rebellions、SambaNova、Tenstorrent にはノーですか?
@@ -1412,6 +1521,7 @@ T-Mobile は次回の T-Mobile 火曜日の景品でさらに豪華になりま�
 The Mobile Report によると、次回の T-Mobile Tuesdays の景品は、夏の終わりのバーベキューにちょうど間に合うように届く、丈夫なステンレス製のグリル用トングです。
 
 これは、キッチンの引き出しに忘れられてしまうような販促品とは思えません。リークされた画像によると、このトングは、木製のハンドルのアクセントが付いたステンレススチールのボディ、コンパクトに収納できるロック機構、さりげないT-Mobileロゴで仕上げら…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2025/10/t-mobile-logo-pixel-hero-2-scaled.jpg" alt="T-Mobile は次回の T-Mobile 火曜日の景品でさらに豪華になります"></p>]]></description><source url="https://www.androidauthority.com/t-mobile-tuesdays-grilling-tongs-freebie-3694749/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2025/10/t-mobile-logo-pixel-hero-2-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2025/10/t-mobile-logo-pixel-hero-2-scaled.jpg"/></item>
+<item><title>ShiftLens Turns 3D-Printed Objects Into Smart Displays — No Electronics Required</title><link>https://www.hackster.io/news/shiftlens-turns-3d-printed-objects-into-smart-displays-no-electronics-required-28e6876a9cc5</link><guid isPermaLink="true">https://www.hackster.io/news/shiftlens-turns-3d-printed-objects-into-smart-displays-no-electronics-required-28e6876a9cc5</guid><pubDate>Wed, 05 Aug 2026 11:12:49 +0000</pubDate><description><![CDATA[<p>ShiftLens Turns 3D-Printed Objects Into Smart Displays — No Electronics Required</p>]]></description><source url="https://www.hackster.io/news/shiftlens-turns-3d-printed-objects-into-smart-displays-no-electronics-required-28e6876a9cc5">Hackster.io</source></item>
 <item><title>RTX 5070 Ti を搭載したこのギガバイト OLED ゲーミング ラップトップは、750 ドルの大幅な節約により、今では絶対にお買い得です。32GB DDR5、1TB SSD、24 コア Intel CPU を搭載した 1600p リグがわずか 1,999 ドルです</title><link>https://www.tomshardware.com/laptops/gaming-laptops/huge-usd750-saving-makes-this-gigabyte-oled-gaming-laptop-with-an-rtx-5070-ti-an-absolute-steal-right-now-just-usd1-999-for-1600p-rig-with-32gb-ddr5-1tb-ssd-and-a-24-core-intel-cpu</link><guid isPermaLink="true">https://www.tomshardware.com/laptops/gaming-laptops/huge-usd750-saving-makes-this-gigabyte-oled-gaming-laptop-with-an-rtx-5070-ti-an-absolute-steal-right-now-just-usd1-999-for-1600p-rig-with-32gb-ddr5-1tb-ssd-and-a-24-core-intel-cpu</guid><pubDate>Wed, 05 Aug 2026 11:06:29 +0000</pubDate><description><![CDATA[<p>RTX 5070 Ti を搭載したこのギガバイト OLED ゲーミング ラップトップは、750 ドルの大幅な節約により、今では絶対にお買い得です。32GB DDR5、1TB SSD、24 コア Intel CPU を搭載した 1600p リグがわずか 1,999 ドルです
 
 2,000 ドル未満で買える本格的な 1600p ゲーム機
@@ -1462,19 +1572,6 @@ Beast of Reインカーネーションは現在正式に利用可能であり、
 Mustafa Mahmoud 1 時間前 注目のテクノロジー ニュース , ソフトウェア &amp; ゲーム , テクノロジー ニュース
 
 過去 30 年間、ほぼポケモンのタイトルだけに取り組んできた後、ゲーム フリークは、このスタジオがこれまでに制作したものとは異なる、ペースが速く、視覚的に印象的なアクション RPG である Beast of Renation を発表し、多くの人を驚かせました。正式リリースと並行して、ゲームのレビューも公開されており、その素晴らしい可能性をわずかに及ばないように見えるゲームが紹介されています。 Metacritic スコア 73 、Open Critic 評価 76 の Beast of Reインカーネーションは、最後のメインライン ポケモン ゲーム (Metacritic スコア 78 の Legends Z-A) の高みには到達できませんでしたが、2022 年のポケモン スカーレットとバイオレット (71 を達成) をなんとか打ち負かしました。 「ゲームフリークの驚くほど強力なアクションタイトル」と評される。スタジオにとっての「大胆な新たな一歩」であり、「堅固だが公正な戦闘」を備えた「説得力のある」作品である『Beast of Reインカーネーション』は、かなりの成果を上げているようだ。残念ながら、すべてが完璧というわけではなく、このゲームの主な問題のいくつかは野心的すぎることです。すべての人の共感を呼ぶものではなかった物語。そしてやや味気ないレベルデザイン。 『ポケットモンスター』と『ビースト・オブ・リインカーネーション』の間では、ほぼ全面的に品質が明らかに向上している。ただし、ポケモンとは異なり、B…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/08/beast-732x330.jpg" alt="ゲームフリークの『Beast of Reinationnation』が好評発売中"></p>]]></description><source url="https://www.kitguru.net/tech-news/mustafa-mahmoud/game-freaks-beast-of-reincarnation-launches-to-solid-reviews/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/08/beast-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/08/beast-732x330.jpg"/></item>
-<item><title>カメラのハードウェアは USB-C と物理的に同等になる可能性がありますか?</title><link>https://hackaday.com/2026/08/05/could-camera-hardware-be-the-physical-equivalent-to-usb-c/</link><guid isPermaLink="true">https://hackaday.com/2026/08/05/could-camera-hardware-be-the-physical-equivalent-to-usb-c/</guid><pubDate>Wed, 05 Aug 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>カメラのハードウェアは USB-C と物理的に同等になる可能性がありますか?
-
-[マンスール] はエッセイ「A Common Thread」で興味深いアイデアを提示しています。USB-C がエレクトロニクスの世界で「すべてを支配する 1 つのコネクタ」になったのと同じように、彼の…
-
-[マンスール] はエッセイ「A Common Thread」で興味深いアイデアを提示しています。エレクトロニクスの世界で USB-C が「すべてを支配する 1 つのコネクタ」になったのと同じように、彼のプロジェクトにも統一された物理接続層が必要です。言ってみれば、共通の話題。
-
-具体的には、彼のすべてのカメラ機器にすでに搭載されていた 1/4 インチ-20 UNC コネクタです。そのコネクターを中心に彼のものを統合することは、青い脳波からのボルトではありませんでした。聞いてみると、このアイデアは時間の経過とともに進化し、彼がすでにそれを使い始めてから初めて意図的になったことがわかりました。
-
-ただし、それには言うべきことがあります。 1 つは、さまざまな小物がレゴで作られたかのように組み立てられることがわかって便利なことです。もう 1 つは、設計プロセスでの一連の決定を取り除くことです。1/4 インチ-20 UNC フィッティングを使用することになるため、[マンスール] は、それを材料にねじ込むかどうか、またはインセットまたはキャプティブ ボルトを使用するかどうかを決定するだけで済みます。
-
-1/4 インチのボルトが、私たちが作るほとんどのものに弱点をもたらすわけではありません。優れたハードウェアを使用すると、1 トン以上の時間がかかる場合があります。一方で、トルクに対する耐性は必ずしも高いわけではありませんが、[マンスール] のカメラ バッグにはそれに対する答えもありました。バネ仕掛けのロケーター ピンがメス側の穴に落ちてトルクを受け止めます。写真の世界では、これらは AARI ピンです。私たちにとって、それらは良いアイデアのように思えます。
-
-カスタムマウントとブラケットのために毎回ホ…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/camera-mount-connector.jpeg" alt="カメラのハードウェアは USB-C と物理的に同等になる可能性がありますか?"></p>]]></description><source url="https://hackaday.com/2026/08/05/could-camera-hardware-be-the-physical-equivalent-to-usb-c/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/camera-mount-connector.jpeg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/camera-mount-connector.jpeg"/></item>
 <item><title>Montech TG3 パノラミック ミッドタワー ケース レビュー: 4 つの RGB ファンとパノラマ ビューを備えた素晴らしい価値</title><link>https://www.tomshardware.com/pc-components/pc-cases/montech-tg3-panoramic-mid-tower-case-review</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/pc-cases/montech-tg3-panoramic-mid-tower-case-review</guid><pubDate>Wed, 05 Aug 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>Montech TG3 パノラミック ミッドタワー ケース レビュー: 4 つの RGB ファンとパノラマ ビューを備えた素晴らしい価値
 
 4 つのファンを備え、見た目も感触も安っぽくない、60 ドルのパノラマ ミッドタワー ケースですか?はい、お願いします。
@@ -1496,6 +1593,19 @@ Tom&#39;s Hardware を信頼できる理由 当社の専門レビュー担当者
 私たちは今年初めに Computex で Montech の TG3 ケースを初めて発見しました。このパノラマミッドタワーシャーシは、スモークサイドとフロントパネルガラスを通して内部の全景を眺めることができ、階層型の底部レイアウトと、盛り上がった電源チャンバーの周囲にある ARGB 照明ストリップを備えています。側面の吸気は高エアフローの恩恵にはなりませんが、このケースは電力を大量に消費するコンポーネント、少なくとも CPU を使用したテストでは良好なパフォーマンスを示し、新しいテスト ハードウェアを使用した最高の空冷温度の一部を提供しました。 4 つのファン (1 つはフルフレーム 360mm なので、厳密には 2 つ) を含む価格は 59.90 ドルで、予算のミッドタワー スペースでは非常に価値があります。
 
 TG3 の内部には、工場で提供されるエアフローのために、側面にユニボディ リバース ファン (3x120mm) と背面に 1 つ…</p><p><img src="https://cdn.mos.cms.futurecdn.net/VKjspJqHmJ8jPsMafvb8yZ-1920-80.jpg" alt="Montech TG3 パノラミック ミッドタワー ケース レビュー: 4 つの RGB ファンとパノラマ ビューを備えた素晴らしい価値"></p>]]></description><source url="https://www.tomshardware.com/pc-components/pc-cases/montech-tg3-panoramic-mid-tower-case-review">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/VKjspJqHmJ8jPsMafvb8yZ-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/VKjspJqHmJ8jPsMafvb8yZ-1920-80.jpg"/></item>
+<item><title>カメラのハードウェアは USB-C と物理的に同等になる可能性がありますか?</title><link>https://hackaday.com/2026/08/05/could-camera-hardware-be-the-physical-equivalent-to-usb-c/</link><guid isPermaLink="true">https://hackaday.com/2026/08/05/could-camera-hardware-be-the-physical-equivalent-to-usb-c/</guid><pubDate>Wed, 05 Aug 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>カメラのハードウェアは USB-C と物理的に同等になる可能性がありますか?
+
+[マンスール] はエッセイ「A Common Thread」で興味深いアイデアを提示しています。USB-C がエレクトロニクスの世界で「すべてを支配する 1 つのコネクタ」になったのと同じように、彼の…
+
+[マンスール] はエッセイ「A Common Thread」で興味深いアイデアを提示しています。エレクトロニクスの世界で USB-C が「すべてを支配する 1 つのコネクタ」になったのと同じように、彼のプロジェクトにも統一された物理接続層が必要です。言ってみれば、共通の話題。
+
+具体的には、彼のすべてのカメラ機器にすでに搭載されていた 1/4 インチ-20 UNC コネクタです。そのコネクターを中心に彼のものを統合することは、青い脳波からのボルトではありませんでした。聞いてみると、このアイデアは時間の経過とともに進化し、彼がすでにそれを使い始めてから初めて意図的になったことがわかりました。
+
+ただし、それには言うべきことがあります。 1 つは、さまざまな小物がレゴで作られたかのように組み立てられることがわかって便利なことです。もう 1 つは、設計プロセスでの一連の決定を取り除くことです。1/4 インチ-20 UNC フィッティングを使用することになるため、[マンスール] は、それを材料にねじ込むかどうか、またはインセットまたはキャプティブ ボルトを使用するかどうかを決定するだけで済みます。
+
+1/4 インチのボルトが、私たちが作るほとんどのものに弱点をもたらすわけではありません。優れたハードウェアを使用すると、1 トン以上の時間がかかる場合があります。一方で、トルクに対する耐性は必ずしも高いわけではありませんが、[マンスール] のカメラ バッグにはそれに対する答えもありました。バネ仕掛けのロケーター ピンがメス側の穴に落ちてトルクを受け止めます。写真の世界では、これらは AARI ピンです。私たちにとって、それらは良いアイデアのように思えます。
+
+カスタムマウントとブラケットのために毎回ホ…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/camera-mount-connector.jpeg" alt="カメラのハードウェアは USB-C と物理的に同等になる可能性がありますか?"></p>]]></description><source url="https://hackaday.com/2026/08/05/could-camera-hardware-be-the-physical-equivalent-to-usb-c/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/camera-mount-connector.jpeg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/camera-mount-connector.jpeg"/></item>
 <item><title>Google フォトでは、コレクションを好みに合わせてカスタマイズできるようになる予定です</title><link>https://www.androidauthority.com/google-photos-customize-collections-3694702/</link><guid isPermaLink="true">https://www.androidauthority.com/google-photos-customize-collections-3694702/</guid><pubDate>Wed, 05 Aug 2026 10:52:39 +0000</pubDate><description><![CDATA[<p>Google フォトでは、コレクションを好みに合わせてカスタマイズできるようになる予定です
 
 Google は、ユーザーが [コレクション] タブをカスタマイズできる新機能の開発に取り組んでいます。 Google フォトの UI も調整されています。
@@ -1515,6 +1625,7 @@ Google フォトは常に変化しているようで、Google はほぼ常に複
 あなたは Authority Insights の記事を読んでいます。 Authority Insights は、他では見られない Android Authority チームからの最新の独占レポート、アプリの分解、リーク、詳細な技術報道をすべて提供します。
 
 Android 用 Google フォト アプリの最新バージョン (v7.87.0.957333026) を調べたところ、最近再設計された [コレクション] タブ内でユーザーがアイテムを並べ替えられるように Google が取り組んでいる可能性があるという証拠が見つかりました。この機能は…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2025/10/google-photos-logo-hero-pixel-phone-2-scaled.jpg" alt="Google フォトでは、コレクションを好みに合わせてカスタマイズできるようになる予定です"></p>]]></description><source url="https://www.androidauthority.com/google-photos-customize-collections-3694702/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2025/10/google-photos-logo-hero-pixel-phone-2-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2025/10/google-photos-logo-hero-pixel-phone-2-scaled.jpg"/></item>
+<item><title>Espressif Launches the ESP32-C61-MINI Module Family for Budget-Conscious Wi-Fi 6, BLE, Matter Work</title><link>https://www.hackster.io/news/espressif-launches-the-esp32-c61-mini-module-family-for-budget-conscious-wi-fi-6-ble-matter-work-69b26e768dc5</link><guid isPermaLink="true">https://www.hackster.io/news/espressif-launches-the-esp32-c61-mini-module-family-for-budget-conscious-wi-fi-6-ble-matter-work-69b26e768dc5</guid><pubDate>Wed, 05 Aug 2026 10:50:02 +0000</pubDate><description><![CDATA[<p>Espressif Launches the ESP32-C61-MINI Module Family for Budget-Conscious Wi-Fi 6, BLE, Matter Work</p>]]></description><source url="https://www.hackster.io/news/espressif-launches-the-esp32-c61-mini-module-family-for-budget-conscious-wi-fi-6-ble-matter-work-69b26e768dc5">Hackster.io</source></item>
 <item><title>Pixel Tag の価格リークにより Apple AirTag との直接対決が始まる</title><link>https://www.androidauthority.com/google-pixel-tag-price-launch-leak-3694724/</link><guid isPermaLink="true">https://www.androidauthority.com/google-pixel-tag-price-launch-leak-3694724/</guid><pubDate>Wed, 05 Aug 2026 10:41:56 +0000</pubDate><description><![CDATA[<p>Pixel Tag の価格リークにより Apple AirTag との直接対決が始まる
 
 新たなリークにより、Google Pixel Tagの価格と発売日がMade by Googleのイベントに先立って明らかになり、Apple AirTagと競合することになる。
@@ -1532,6 +1643,22 @@ GoogleがApple AirTagに対して競争力のある価格を維持し続けれ�
 長い間噂されてきた Google の Bluetooth トラッカー市場への参入が、新たに噂になった Pixel Tag によってついに焦点になりつつあります。これは、Android の Find My Device ネットワーク専用に設計された初の公式トラッカーです。リークされたレンダリング画像では、内蔵スピーカー用の下部グリルを備えたコンパクトなパックスタイルのデザインが明らかになりました。 Pixel Tag の価格といつ購入できるのか気になる場合は、Made By Google の公式製品発表イベントに先立って、新たなリークによりこれらの重要な詳細が共有されています。
 
 Dealabs の新しいレポートによると、Pixel Ta…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/Google-Pixel-Tag-leak.jpg" alt="Pixel Tag の価格リークにより Apple AirTag との直接対決が始まる"></p>]]></description><source url="https://www.androidauthority.com/google-pixel-tag-price-launch-leak-3694724/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/Google-Pixel-Tag-leak.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/Google-Pixel-Tag-leak.jpg"/></item>
+<item><title>Best Buy は、メモリを搭載したこの MacBook を 900 ドル値下げしました。48GB のメモリと 2TB のストレージを搭載した 14 インチ M4 Pro が、たったの 2,999 ドルになりました。</title><link>https://www.tomshardware.com/laptops/macbooks/best-buy-has-slashed-usd900-off-this-macbook-laden-with-memory-14-inch-m4-pro-with-48gb-of-memory-and-2tb-of-storage-now-only-usd2-999</link><guid isPermaLink="true">https://www.tomshardware.com/laptops/macbooks/best-buy-has-slashed-usd900-off-this-macbook-laden-with-memory-14-inch-m4-pro-with-48gb-of-memory-and-2tb-of-storage-now-only-usd2-999</guid><pubDate>Wed, 05 Aug 2026 10:39:33 +0000</pubDate><description><![CDATA[<p>Best Buy は、メモリを搭載したこの MacBook を 900 ドル値下げしました。48GB のメモリと 2TB のストレージを搭載した 14 インチ M4 Pro が、たったの 2,999 ドルになりました。
+
+48GBの非常に高価なメモリを詰め込む
+
+Best Buy は、メモリを搭載したこの MacBook を 900 ドル値下げしました。48GB のメモリと 2TB のストレージを搭載した 14 インチ M4 Pro が、たったの 2,999 ドルになりました。
+
+48GBの非常に高価なメモリを詰め込む
+
+(画像クレジット: Future) リンクをコピー
+
+0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する Best Buy での 900 ドル割引のおかげで、M4 Pro チップと 48GB の RAM を搭載した Apple MacBook Pro 14 を 2,999 ドルで購入できます。このトップスペックの MacBook Pro は古い M4 Pro チップを搭載しているかもしれませんが、依然として大量のメモリ、ストレージ、パフォーマンススペックを搭載しています。生産性アプリケーション用に十分な RAM を搭載したラップトップが必要な場合は、この取引に興味があるかもしれません。
+
+● Best Buy でこのセールをチェックしてください
+
+この 14 インチ MacBook Pro は、CPU タスク用に 14 コア、GPU 操作用に 20 コアを備えた Apple M4 Pro チップを使用しています。このモデルには、48 GB のユニファイド メモリと 2 TB SSD がスタックされています。 MacBook Pro の画面には、最大 1600 ニトのピーク輝度を備えた Liquid Retina XDR ナノテクスチャ ディスプレイが搭載されており、テスト時にレビューした中で最も明るく見栄えの良い画面の 1 つであり、この M4 Pro ラップトップがレビューで Edito…</p><p><img src="https://cdn.mos.cms.futurecdn.net/iGtYknQSehoJakSrpbDtQJ-1920-80.jpg" alt="Best Buy は、メモリを搭載したこの MacBook を 900 ドル値下げしました。48GB のメモリと 2TB のストレージを搭載した 14 インチ M4 Pro が、たったの 2,999 ドルになりました。"></p>]]></description><source url="https://www.tomshardware.com/laptops/macbooks/best-buy-has-slashed-usd900-off-this-macbook-laden-with-memory-14-inch-m4-pro-with-48gb-of-memory-and-2tb-of-storage-now-only-usd2-999">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/iGtYknQSehoJakSrpbDtQJ-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/iGtYknQSehoJakSrpbDtQJ-1920-80.jpg"/></item>
+<item><title>SiLabs Unveils the BG2B Bluetooth 6 Low Energy System-on-Chip — Its Lowest-Power Series 2 Part Yet</title><link>https://www.hackster.io/news/silabs-unveils-the-bg2b-bluetooth-6-low-energy-system-on-chip-its-lowest-power-series-2-part-yet-d9e54a84540d</link><guid isPermaLink="true">https://www.hackster.io/news/silabs-unveils-the-bg2b-bluetooth-6-low-energy-system-on-chip-its-lowest-power-series-2-part-yet-d9e54a84540d</guid><pubDate>Wed, 05 Aug 2026 10:27:29 +0000</pubDate><description><![CDATA[<p>SiLabs Unveils the BG2B Bluetooth 6 Low Energy System-on-Chip — Its Lowest-Power Series 2 Part Yet</p>]]></description><source url="https://www.hackster.io/news/silabs-unveils-the-bg2b-bluetooth-6-low-energy-system-on-chip-its-lowest-power-series-2-part-yet-d9e54a84540d">Hackster.io</source></item>
 <item><title>Snapdragon 8 Elite Gen 6 Proは、その高価格を正当化するために大幅なGPUアップグレードを受ける可能性があります</title><link>https://www.androidauthority.com/snapdragon-8-gen-6-pro-gpu-upgrade-leak-3694681/</link><guid isPermaLink="true">https://www.androidauthority.com/snapdragon-8-gen-6-pro-gpu-upgrade-leak-3694681/</guid><pubDate>Wed, 05 Aug 2026 09:43:17 +0000</pubDate><description><![CDATA[<p>Snapdragon 8 Elite Gen 6 Proは、その高価格を正当化するために大幅なGPUアップグレードを受ける可能性があります
 
 新しいリークは、Snapdragon 8 Elite Gen 6 Proが大規模なハードウェアアップグレードを受ける可能性があることを示唆しています。知っておくべきことは次のとおりです。
@@ -4307,6 +4434,13 @@ Anker 100W Max 充電器が 3 ポートとスマート ディスプレイ付き�
 Anker のコンパクトな 100W GaN 壁面充電器には、USB-C 2 つと USB-A 1 つの 3 つのポートが付いています。どちらの USB-C ポートも単独で最大 100 W を供給できるため、より大型の電源ブリックを必要とせずに、多くのラップトップ、タブレット、電話に対応できます。そのため、旅行、デスクでの使用、または自宅の共有コンセントとして便利です。
 
 内蔵のスマートディスプレイは便利な追加機能です。リアルタイムの充電出力、温度、ポートのアクティビティが表示されるため、推測するのではなく、何が起こっているかを確認できます。この充電器には折りたたみ可能なプラグがあり、マルチポート 100W 充電器としては非常に小さい設計となっているため、荷物を軽くするときに役立ちま…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/Anker-100W-Max-3-Port-GaN-Charger-Press-Image.jpg" alt="Anker 100W Max 充電器が 3 ポートとスマート ディスプレイ付きで 49.99 ドルに値下げ"></p>]]></description><source url="https://www.androidauthority.com/anker-100w-max-charger-3693961/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/Anker-100W-Max-3-Port-GaN-Charger-Press-Image.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/Anker-100W-Max-3-Port-GaN-Charger-Press-Image.jpg"/></item>
+<item><title>AMD「Gorgon Halo」APUがベンチマークに登場</title><link>https://www.kitguru.net/components/apu-components/joao-silva/amd-gorgon-halo-apu-appears-in-benchmark/</link><guid isPermaLink="true">https://www.kitguru.net/components/apu-components/joao-silva/amd-gorgon-halo-apu-appears-in-benchmark/</guid><pubDate>Mon, 03 Aug 2026 16:00:40 +0000</pubDate><description><![CDATA[<p>AMD「Gorgon Halo」APUがベンチマークに登場
+
+AMD の Ryzen AI Max+ Pro 495 APU に属するとされるパフォーマンス指標が Geekbench 7 データベースに掲載されました。 Gorgon Halo プロセッサは、96 GB の RAM を搭載した 16 インチのモバイル ワークステーションである HP ZBook Ultra G3a 内でテストされたようです。
+
+AMD「Gorgon Halo」APUがベンチマークに登場
+
+AMD の Ryzen AI Max+ Pro 495 APU に属するとされるパフォーマンス指標が Geekbench 7 データベースに掲載されました。 Gorgon Halo プロセッサは、96 GB の RAM を搭載した 16 インチのモバイル ワークステーションである HP ZBook Ultra G3a 内でテストされたようです。 Gray が発見した Geekbench 7 のリスト (VideoCardz 経由) では、APU はシングルコア テストで 2593 ポイント、マルチコア テストで 26816 ポイントのスコアを達成しました。クロック監視では、チップが 5207MHz のブースト周波数で動作していることを記録しました。これは、5.2GHz のブースト クロックをリストする AMD の公式仕様と一致します。このリストでは、以前の Max+ Pro 395 のコア レイアウトを反映し、3.1 GHz のベース クロックで動作する 16 コアおよび 32 スレッドの構成が明らかになりました。これは、5 月に以前に発表された PassMark に続くもので、192 GB の RAM を搭載した同様の HP マシン内でプロセッサのベンチマークが行われました。統合グラフィックス機能は、RDNA3.5 アーキテクチャに基づく Radeon 8065S に依存しています。 AMD の公式詳細では、Gorgon Halo アーキテクチャが最大 16 コアと 32 スレッド、5.2 GHz ブー…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2025/11/3020400-ryzen-ai-max-product-732x330.jpg" alt="AMD「Gorgon Halo」APUがベンチマークに登場"></p>]]></description><source url="https://www.kitguru.net/components/apu-components/joao-silva/amd-gorgon-halo-apu-appears-in-benchmark/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2025/11/3020400-ryzen-ai-max-product-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2025/11/3020400-ryzen-ai-max-product-732x330.jpg"/></item>
 <item><title>ソニー WH-1000XM6 に豪華な新カラーオプションが追加されました</title><link>https://www.androidauthority.com/sony-wh-1000xm6-new-color-variant-3693875/</link><guid isPermaLink="true">https://www.androidauthority.com/sony-wh-1000xm6-new-color-variant-3693875/</guid><pubDate>Mon, 03 Aug 2026 16:00:40 +0000</pubDate><description><![CDATA[<p>ソニー WH-1000XM6 に豪華な新カラーオプションが追加されました
 
 ソニーの主力ヘッドフォン WH-1000XM6 が、新しいオリーブ グレー仕上げで登場し、新鮮な外観をもたらします。外観は次のとおりです。
@@ -4328,13 +4462,6 @@ Android Authority のアフィリエイト リンクにより、手数料が発�
 Sony 新色は、既存のブラック、シルバー、ミッドナイト ブルー、サンド ピンク、サンドストーンのオプションに加わります。プレーンなグレーではなく、落ち着いたグリーンのアンダートーンを持ち、より控えめで高級な外観を与えます。溶け込むガジェットがお好みなら、これが XM6 の最も魅力的なバージョンになるでしょう。
 
 個人的には、ソニーがこのシリーズでリリースした色のオプションの中で最も見栄えの良いものの 1 …</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/Sony-WH-1000XM6-new-Olive-Gray-color-worn-by-a-person.jpg" alt="ソニー WH-1000XM6 に豪華な新カラーオプションが追加されました"></p>]]></description><source url="https://www.androidauthority.com/sony-wh-1000xm6-new-color-variant-3693875/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/Sony-WH-1000XM6-new-Olive-Gray-color-worn-by-a-person.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/Sony-WH-1000XM6-new-Olive-Gray-color-worn-by-a-person.jpg"/></item>
-<item><title>AMD「Gorgon Halo」APUがベンチマークに登場</title><link>https://www.kitguru.net/components/apu-components/joao-silva/amd-gorgon-halo-apu-appears-in-benchmark/</link><guid isPermaLink="true">https://www.kitguru.net/components/apu-components/joao-silva/amd-gorgon-halo-apu-appears-in-benchmark/</guid><pubDate>Mon, 03 Aug 2026 16:00:40 +0000</pubDate><description><![CDATA[<p>AMD「Gorgon Halo」APUがベンチマークに登場
-
-AMD の Ryzen AI Max+ Pro 495 APU に属するとされるパフォーマンス指標が Geekbench 7 データベースに掲載されました。 Gorgon Halo プロセッサは、96 GB の RAM を搭載した 16 インチのモバイル ワークステーションである HP ZBook Ultra G3a 内でテストされたようです。
-
-AMD「Gorgon Halo」APUがベンチマークに登場
-
-AMD の Ryzen AI Max+ Pro 495 APU に属するとされるパフォーマンス指標が Geekbench 7 データベースに掲載されました。 Gorgon Halo プロセッサは、96 GB の RAM を搭載した 16 インチのモバイル ワークステーションである HP ZBook Ultra G3a 内でテストされたようです。 Gray が発見した Geekbench 7 のリスト (VideoCardz 経由) では、APU はシングルコア テストで 2593 ポイント、マルチコア テストで 26816 ポイントのスコアを達成しました。クロック監視では、チップが 5207MHz のブースト周波数で動作していることを記録しました。これは、5.2GHz のブースト クロックをリストする AMD の公式仕様と一致します。このリストでは、以前の Max+ Pro 395 のコア レイアウトを反映し、3.1 GHz のベース クロックで動作する 16 コアおよび 32 スレッドの構成が明らかになりました。これは、5 月に以前に発表された PassMark に続くもので、192 GB の RAM を搭載した同様の HP マシン内でプロセッサのベンチマークが行われました。統合グラフィックス機能は、RDNA3.5 アーキテクチャに基づく Radeon 8065S に依存しています。 AMD の公式詳細では、Gorgon Halo アーキテクチャが最大 16 コアと 32 スレッド、5.2 GHz ブー…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2025/11/3020400-ryzen-ai-max-product-732x330.jpg" alt="AMD「Gorgon Halo」APUがベンチマークに登場"></p>]]></description><source url="https://www.kitguru.net/components/apu-components/joao-silva/amd-gorgon-halo-apu-appears-in-benchmark/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2025/11/3020400-ryzen-ai-max-product-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2025/11/3020400-ryzen-ai-max-product-732x330.jpg"/></item>
 <item><title>あなたのモニターのピクセル レイアウトはおそらく間違っています - Alienware の新しいモニターが異なる理由はここにあります</title><link>https://www.xda-developers.com/alienware-aw3426dw-review/</link><guid isPermaLink="true">https://www.xda-developers.com/alienware-aw3426dw-review/</guid><pubDate>Mon, 03 Aug 2026 16:00:10 +0000</pubDate><description><![CDATA[<p>あなたのモニターのピクセル レイアウトはおそらく間違っています - Alienware の新しいモニターが異なる理由はここにあります
 
 RGB ストライプは OLED ファンにとって大きな変革をもたらします
@@ -6210,185 +6337,4 @@ AI データセンターの大規模増設によりエネルギー供給が圧�
 ウルトラ イーサネット: 明日のデータセンター相互接続
 
 以下の X 投稿からわかるように、彼のベンチャーは最初から成功しているように見え、デルはほぼ 100 万ドル相当の部品とコンピューターを販売し、その結果、わずか 1 四半期で 134,762.75 ドルの純利益が得られました。これは 2026 ドルに換算すると 433,150.05 ドルに相当します。これは、数百万ドルの支援を受けていないスタートアップにとっては快挙であり、ましてやわずか 1,000 ドルの支援を受けて投資した 19 歳の大学新入生が 1 年足らずで 13,500% の収益を…</p><p><img src="https://cdn.mos.cms.futurecdn.net/SMnsjyKLGsJazyGFTBkuDD-2560-80.jpg" alt="デルの創業者が 42 年前に 1,000 億ドルの帝国がどのように始まったかを示す - CEO は「この 1 ページが私の人生を変えた」と語る"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/dell-founder-shows-how-a-usd100-billion-empire-started-42-years-ago-ceo-says-this-one-page-changed-my-life">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/SMnsjyKLGsJazyGFTBkuDD-2560-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/SMnsjyKLGsJazyGFTBkuDD-2560-80.jpg"/></item>
-<item><title>ブラウザベースの 3D エディターはローカルに留まりながら基本をカバーします</title><link>https://hackaday.com/2026/08/01/browser-based-3d-editor-covers-the-basics-while-staying-local/</link><guid isPermaLink="true">https://hackaday.com/2026/08/01/browser-based-3d-editor-covers-the-basics-while-staying-local/</guid><pubDate>Sat, 01 Aug 2026 17:00:42 +0000</pubDate><description><![CDATA[<p>ブラウザベースの 3D エディターはローカルに留まりながら基本をカバーします
-
-アイデアを思いつき、簡単な 3D モデルを作成したいと考えていますが、本格的な CAD モデリング スイートをインストールして、数時間のチュートリアル ビデオを待ちたくないですか? 3D モデリング ツールである SketchForge をチェックしてください。
-
-アイデアを思いつき、簡単な 3D モデルを作成したいと考えていますが、本格的な CAD モデリング スイートをインストールして、数時間のチュートリアル ビデオを待ちたくないですか? SketchForge をチェックしてください。これは、アカウントや外部サービスを必要とせずに、ブラウザ内でローカルに実行される 3D モデリング プログラムです。
-
-SketchForge は、3D モデリングに対して、より WYSIWYG 的なアプローチを採用しており、オブジェクトをプリミティブな形状と組み合わせることが簡単になり、寸法の指定やパーツ同士の位置合わせが非常に簡単になります。 2D 図面を作成し、それを押し出したり回転させたりしてソリッドにすることで、より複雑な形状を簡単に作成できるスケッチ機能もあります。オプションとして STEP 形式のエクスポートがあり、後で選択した別の CAD プログラムに作成物を簡単にインポートできるのが気に入っています。最近では、ほとんどの 3D プリンター スライサーも STEP 形式をネイティブにサポートしています。
-
-コンセプトとしては Tinkercad を少し思い出させますが、完全にローカルです。これはまだ新しいものですが、試してみたい場合は、その機能をよく理解できるデモがオンラインにあります。
-
-CaDoodle を思い出します。これは、「Tinkercad ですがローカル」アプローチを採用していますが、ブラウザベースではなくスタンドアロンの実行可能ファイルとしての別のプロジェクトです。</p><p><img src="https://hackaday.com/wp-content/uploads/2026/07/Sketchforge-banner.png" alt="ブラウザベースの 3D エディターはローカルに留まりながら基本をカバーします"></p>]]></description><source url="https://hackaday.com/2026/08/01/browser-based-3d-editor-covers-the-basics-while-staying-local/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/07/Sketchforge-banner.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/07/Sketchforge-banner.png"/></item>
-<item><title>Anthropic は静かに Claude を生産性 OS に変えています、それは素晴らしいです</title><link>https://www.xda-developers.com/anthropic-quietly-turning-claude-into-productivity-os-and-its-awesome/</link><guid isPermaLink="true">https://www.xda-developers.com/anthropic-quietly-turning-claude-into-productivity-os-and-its-awesome/</guid><pubDate>Sat, 01 Aug 2026 17:00:10 +0000</pubDate><description><![CDATA[<p>Anthropic は静かに Claude を生産性 OS に変えています、それは素晴らしいです
-
-ほぼすべての作業を 1 つのワークスペースで行えます。
-
-Anthropic は静かに Claude を生産性 OS に変えています、それは素晴らしいです
-
-By Parth Shah 公開 2026 年 8 月 1 日、午後 1:00 EDT 経験豊富なテック ライターである Parth は、キーボード (またはペン) を巧みに操り、Windows と Mac の両方のオペレーティング システムの複雑さを解明します。彼は過去 6 年間にわたり、複数の出版物でモバイル デバイスやコンピューター上の常緑のコンテンツを取り上げてきました。彼の作品は AndroidPolice、GuidingTech、TechWiser で見つけることができます。システム アップデートの謎を解き明かすこと、エラー コードを解読すること、または隠された機能を探索することなど、Parth の散文は読者を二進迷路に導きます。技術用語に浸っていないときは、チャイを飲みながら、次のソフトウェアのレビューについて思案し、時にはメカニカル キーボードについての友好的な議論に耽っているのが見受けられます。 XDA アカウントにサインインする クロードは、私が空白のチャットを開いて質問し、次に進む場所のように感じていました。それはもう私の使い方ではありません。時間が経つにつれて、Anthropic は十分な構造、統合、コラボレーション ツール、およびエージェント機能を静かに追加して、私のワークフローでクロードが果たす役割を変えてきました。
-
-今では、切断されたアプリ間を行き来する時間が減り、文書、プロジェクト、研究、執筆、さらには複雑なタスクを接続する中心的なレイヤーとしてクロードを扱うことに多くの時間を費やしています。
-
-クロードはもうチャットボットではないと感じています
-
-チャットボットが静かに私のワークスペースになりました
-
-Anthropic が最初に Claude を発表したとき、それは私が使ってきた…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/04/using-claude-projects.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Anthropic は静かに Claude を生産性 OS に変えています、それは素晴らしいです"></p>]]></description><source url="https://www.xda-developers.com/anthropic-quietly-turning-claude-into-productivity-os-and-its-awesome/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/04/using-claude-projects.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/04/using-claude-projects.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>Google Keep で Obsidian を使い始めましたが、もっと早く使うべきでした</title><link>https://www.xda-developers.com/i-started-using-obsidian-with-google-keep-and-i-should-have-sooner/</link><guid isPermaLink="true">https://www.xda-developers.com/i-started-using-obsidian-with-google-keep-and-i-should-have-sooner/</guid><pubDate>Sat, 01 Aug 2026 16:45:10 +0000</pubDate><description><![CDATA[<p>Google Keep で Obsidian を使い始めましたが、もっと早く使うべきでした
-
-私の黒曜石保管庫の明らかな相棒
-
-Google Keep で Obsidian を使い始めましたが、もっと早く使うべきでした
-
-By Parth Shah 公開 2026 年 8 月 1 日、午後 12:45 EDT 経験豊富なテック ライターである Parth は、キーボード (またはペン) を巧みに操り、Windows と Mac の両方のオペレーティング システムの複雑さを解明します。彼は過去 6 年間にわたり、複数の出版物でモバイル デバイスやコンピューター上の常緑のコンテンツを取り上げてきました。彼の作品は AndroidPolice、GuidingTech、TechWiser で見つけることができます。システム アップデートの謎を解き明かすこと、エラー コードを解読すること、または隠された機能を探索することなど、Parth の散文は読者を二進迷路に導きます。技術用語に浸っていないときは、チャイを飲みながら、次のソフトウェアのレビューについて思案し、時にはメカニカル キーボードについての友好的な議論に耽っているのが見受けられます。 XDA アカウントにサインインする Obsidian が、私が深く掘り下げて堅牢な個人知識管理 (PKM) システムを構築する際の頼りになっているのは周知の事実です。しかし、その場で考えたことや簡単なメモを記録する場合、私は常に壁にぶつかります。そのとき、欠けているのは新しい PKM ツールではなく、自発的なアイデアを実現するためのアクセス可能なツールであることに気づきました。
-
-Google Keep に入ります。その超高速インターフェイスとネイティブ モバイル アプリは、迅速なキャプチャにとって理想的なソリューションであることが判明し、どこにいても何かを書き留めて、それらの考えを Obsidian にシームレスに転送できるようになりました。
-
-私は Obsidian で数え切れないほどの時間を費やしてきましたが、これが強力なツールである…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/using-obsidian-with-google-keep.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Google Keep で Obsidian を使い始めましたが、もっと早く使うべきでした"></p>]]></description><source url="https://www.xda-developers.com/i-started-using-obsidian-with-google-keep-and-i-should-have-sooner/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/using-obsidian-with-google-keep.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/using-obsidian-with-google-keep.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>COSMIC は GNOME ではまだできないことを実現していますが、リリースされてまだ 1 年しか経っていません</title><link>https://www.xda-developers.com/cosmic-doing-gnome-still-cant/</link><guid isPermaLink="true">https://www.xda-developers.com/cosmic-doing-gnome-still-cant/</guid><pubDate>Sat, 01 Aug 2026 16:30:10 +0000</pubDate><description><![CDATA[<p>COSMIC は GNOME ではまだできないことを実現していますが、リリースされてまだ 1 年しか経っていません
-
-見た目も素晴らしいです。
-
-COSMIC は GNOME ではまだできないことを実現していますが、リリースされてまだ 1 年しか経っていません
-
-Simon Batt 公開 2026 年 8 月 1 日、午後 12 時 30 分 EDT Simon はコンピューター サイエンスの学士号を取得しており、2014 年からテクノロジーについて執筆しており、3.1 から Windows マシンを使用しています。インディーズ ゲーム スタジオで働き、コンピューターの問題全般に対応する家族の頼りになる技術者として活動した後、彼は文章を書くことへの情熱に気づき、自分のスキルセットをテクノロジーに関するあらゆることについて書くことに決めました。ライターとしてのキャリアを始めて以来、彼は WorldStart 、 Listverse 、 MakeTechEasier などのさまざまな出版物に執筆してきました。しかし、2019 年 2 月に MakeUseOf に居場所を見つけた後、最終的にはその姉妹サイトである XDA に移り、最新かつ最高の Windows、Linux、DIY 電子機器を提供することになりました。 XDA アカウントにサインインします COSMIC には本当に驚きました。他の Linux デスクトップ環境と比較すると、COSMIC はまだ赤ちゃんにすぎません。最初の安定版リリースは 2025 年 12 月で、つまりまだ 1 年も経っていません。それにもかかわらず、それは数か月で大きな進歩を遂げ、人々を魅了することに成功しました。
-
-COSMIC が登場して以来、私は COSMIC の進歩をチェックしていましたが、その開発チームである System76 がデスクトップ環境用の光沢のある光沢のあるテーマをリリースしたときに、飛びつくことにしました。そこで、openSUSE Tumbleweed マシンにインストールしました。COSMIC は、GNOME のル…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/cosmic-desktop-is-good.jpg?w=1600&amp;h=900&amp;fit=crop" alt="COSMIC は GNOME ではまだできないことを実現していますが、リリースされてまだ 1 年しか経っていません"></p>]]></description><source url="https://www.xda-developers.com/cosmic-doing-gnome-still-cant/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/cosmic-desktop-is-good.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/cosmic-desktop-is-good.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>今年、RAM の増設に大金を投じる前に、PC に既にメモリが増設されているように感じる無料の調整を試してください。</title><link>https://www.xda-developers.com/before-you-spend-a-fortune-on-more-ram-this-year-try-the-free-tweaks-that-make-your-pc-feel-like-it-already-has-more/</link><guid isPermaLink="true">https://www.xda-developers.com/before-you-spend-a-fortune-on-more-ram-this-year-try-the-free-tweaks-that-make-your-pc-feel-like-it-already-has-more/</guid><pubDate>Sat, 01 Aug 2026 16:00:10 +0000</pubDate><description><![CDATA[<p>今年、RAM の増設に大金を投じる前に、PC に既にメモリが増設されているように感じる無料の調整を試してください。
-
-それかどうか
-
-今年、RAM の増設に大金を投じる前に、PC に既にメモリが増設されているように感じる無料の調整を試してください。
-
-By Abhinav Raj Published Aug 1, 2026, 12:00 PM EDT アビナブは、銀行マンとしてのキャリアから方向転換し、初恋を執筆で追求しました。フルタイムで働きながらも、編集長として貢献を続け、その役割を 7 年以上務めました。生涯テクノロジー愛好家であり、2018 年以来、ゲームと生産性に優れた PC を 3 台開発してきました。テクノロジーへの情熱により、NVIDIA や AMD から ARM に至るまで、半導体業界を常に追い続けています。彼の修士論文では、人工知能が仕事の未来をどのように再構築するかを探求し、新興テクノロジーの広範な社会的影響に対する彼の好奇心を反映しています。 XDA アカウントにサインインする ゲームに PC を使用している人なら誰でも、タイトル画面に到達する前にパフォーマンスを最大限に絞り出すために最適化できるすべてのレバーを最適化するのが、ゲーマーにとってほぼ第二の習慣であることを知っています。 AAA タイトルをたくさんプレイしている私は、何が機能し、何が機能しないのかを知るために、パフォーマンスを向上させる調整にかなりの量を手を出してきました。
-
-現在、RAM は希少かつ高価なリソースであるため、ワークステーションやラップトップを生産性のために使用している場合でも、競争力のある一人称シューティング ゲームを楽しんでいる場合でも、RAM を適切に機能させることが重要です。お使いの PC が最新の DDR5 規格をサポートしている場合は、32GB から 64GB への変更は、おそらく CPU のアップグレードよりも高価であるという事実をご存知でしょう。ただし、容量のアップグレードを検討している場合は、これらの調整がうまく機能しない場合にのみ、それを最後の手段…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/ram-kit-installed-on-pc.jpg?w=1600&amp;h=900&amp;fit=crop" alt="今年、RAM の増設に大金を投じる前に、PC に既にメモリが増設されているように感じる無料の調整を試してください。"></p>]]></description><source url="https://www.xda-developers.com/before-you-spend-a-fortune-on-more-ram-this-year-try-the-free-tweaks-that-make-your-pc-feel-like-it-already-has-more/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/ram-kit-installed-on-pc.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/ram-kit-installed-on-pc.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>Android Auto の最もスマートな機能が目に見えないところに隠れていることに気づき、私のドライブが完全に変わりました</title><link>https://www.xda-developers.com/found-android-auto-smartest-feature-hiding-in-plain-sight-it-changed-my-drives/</link><guid isPermaLink="true">https://www.xda-developers.com/found-android-auto-smartest-feature-hiding-in-plain-sight-it-changed-my-drives/</guid><pubDate>Sat, 01 Aug 2026 15:30:10 +0000</pubDate><description><![CDATA[<p>Android Auto の最もスマートな機能が目に見えないところに隠れていることに気づき、私のドライブが完全に変わりました
-
-Spotify はついに私が何を望んでいるのかを理解しました
-
-Android Auto の最もスマートな機能が目に見えないところに隠れていることに気づき、私のドライブが完全に変わりました
-
-By Parth Shah 公開 2026 年 8 月 1 日、午前 11:30 EDT 経験豊富なテック ライターである Parth は、キーボード (またはペン) を巧みに操り、Windows と Mac の両方のオペレーティング システムの複雑さを解明します。彼は過去 6 年間にわたり、複数の出版物でモバイル デバイスやコンピューター上の常緑のコンテンツを取り上げてきました。彼の作品は AndroidPolice、GuidingTech、TechWiser で見つけることができます。システム アップデートの謎を解き明かすこと、エラー コードを解読すること、または隠された機能を探索することなど、Parth の散文は読者を二進迷路に導きます。技術用語に浸っていないときは、チャイを飲みながら、次のソフトウェアのレビューについて思案し、時にはメカニカル キーボードについての友好的な議論に耽っているのが見受けられます。 XDA アカウントにサインインする Android Auto はすでにナビゲーション、通話、音楽を十分にうまく処理しているため、さらに改善できるかどうかについて考えることはほとんどありません。それでも、運転中に Spotify を制御すると、必要以上に硬く感じられることがよくありました。
-
-基本的なコマンドは機能しましたが、少し具体的なコマンドを実行するには、繰り返したり、プレイリストの正確な名前を覚えたり、画面に手を伸ばしたりする必要があることがよくありました。私はそれらの限界を経験の一部としてほとんど受け入れていました。そこで、私が望んでいることをはるかに少ない労力で理解できる機能を試してみました。
-
-Spotify の音声コントロールは常…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/android-auto-dashboard-1.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Android Auto の最もスマートな機能が目に見えないところに隠れていることに気づき、私のドライブが完全に変わりました"></p>]]></description><source url="https://www.xda-developers.com/found-android-auto-smartest-feature-hiding-in-plain-sight-it-changed-my-drives/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/android-auto-dashboard-1.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/android-auto-dashboard-1.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>6 コア CPU と 16 GB RAM を備えた究極の AMD AM4 スターター パックをわずか 280 ドルで手に入れましょう — 138 ドルの節約で次の PC 構築を始めましょう</title><link>https://www.tomshardware.com/pc-components/score-the-ultimate-amd-am4-starter-pack-with-a-six-core-cpu-and-16gb-ram-for-only-usd280-kickstart-your-next-pc-build-with-usd138-in-savings</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/score-the-ultimate-amd-am4-starter-pack-with-a-six-core-cpu-and-16gb-ram-for-only-usd280-kickstart-your-next-pc-build-with-usd138-in-savings</guid><pubDate>Sat, 01 Aug 2026 15:09:27 +0000</pubDate><description><![CDATA[<p>6 コア CPU と 16 GB RAM を備えた究極の AMD AM4 スターター パックをわずか 280 ドルで手に入れましょう — 138 ドルの節約で次の PC 構築を始めましょう
-
-手抜きをせずにコストを削減。
-
-6 コア CPU と 16 GB RAM を備えた究極の AMD AM4 スターター パックをわずか 280 ドルで手に入れましょう — 138 ドルの節約で次の PC 構築を始めましょう
-
-手抜きをせずにコストを削減。
-
-(画像クレジット: AMD、Gigabyte、TeamGroup / Future) リンクをコピー
-
-0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する PC ハードウェア業界は現在、コンポーネントの危機という前例のない課題に直面しています。このような時期に、自分で PC を構築したりアップグレードしたりしたい場合は、お買い得品を見つけない限り、高価なパーツを手に入れることになります。心配しないでください。私たちはまさにそれを発見しました。16 GB の DDR4 RAM と B550M マザーボードを備えた Ryzen 5 5500 を備えたコンボ バンドルが、現在 Newegg でわずか 280.99 ドルで販売されています。
-
-Ryzen 5 5500 は、現時点で最新または最速のプロセッサーというわけではありませんが、予算が限られているゲームには十分です。 12 スレッドを備えた 6 コア CPU で、最大 4.2 GHz まで高速化できます。 16MBのL3キャッシュと2MBのL2キャッシュ、65WのTDPを備えています。 Zen 3 アーキテクチャに基づいているため、AM4 プラットフォームを使用しています。つまり、マザーボードがより手頃な価格になり、さらに重要なことに、より安価な DDR4 RAM にアクセスできるようになります。
-
-AM4 ソケットは、マザーボードがそれをサポートするのに十分な強度があるため、将来 Ryzen 7 5800X3D への…</p><p><img src="https://cdn.mos.cms.futurecdn.net/2j3y8jz68sFXYe72PAYybj-1920-80.png" alt="6 コア CPU と 16 GB RAM を備えた究極の AMD AM4 スターター パックをわずか 280 ドルで手に入れましょう — 138 ドルの節約で次の PC 構築を始めましょう"></p>]]></description><source url="https://www.tomshardware.com/pc-components/score-the-ultimate-amd-am4-starter-pack-with-a-six-core-cpu-and-16gb-ram-for-only-usd280-kickstart-your-next-pc-build-with-usd138-in-savings">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/2j3y8jz68sFXYe72PAYybj-1920-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/2j3y8jz68sFXYe72PAYybj-1920-80.png"/></item>
-<item><title>PCIe Gen6世代のSSD向けにキオクシアCM10シリーズを発売</title><link>https://www.servethehome.com/kioxia-cm10-series-launched-for-the-pcie-gen6-generation-of-ssds/</link><guid isPermaLink="true">https://www.servethehome.com/kioxia-cm10-series-launched-for-the-pcie-gen6-generation-of-ssds/</guid><pubDate>Sat, 01 Aug 2026 15:00:24 +0000</pubDate><description><![CDATA[<p>PCIe Gen6世代のSSD向けにキオクシアCM10シリーズを発売
-
-新しい Kioxia CM10 シリーズは、2.5 インチおよび EDSFF フォーム ファクタ、PCIe Gen5 および Gen6、空冷式と水冷式、および 2 つの NAND 世代に対応しています。
-
-FMS 2026 に先立ち、キオクシアは新しい CM10 シリーズを発表し、AI インフラストラクチャ導入向けの直接液体冷却機能を備えた PCIe 6.0 エンタープライズ ストレージへの同社の参入を示しました。これらの新しい SSD は、キオクシアの BiCS FLASH 第 10 世代メモリ テクノロジを活用し、NVIDIA CMX コンテキスト メモリ ソリューションとともに高性能 KV キャッシュ ワークロードをターゲットとしています。
-
-キオクシア CM10シリーズの仕様と特長
-
-この新しい CM10 シリーズは、前世代の CM9 に比べて大幅なパフォーマンス向上を実現しており、キオクシアはシーケンシャル読み取りパフォーマンスが最大約 92 パーセント向上し、ランダム読み取りパフォーマンスが最大約 85 パーセント向上していると主張しています。これらの改善により、数兆のパラメーターと数百万のトークンに拡大するコンテキスト ウィンドウに迫る AI モデルのスケーリング要求に対処できます。
-
-キオクシアは、さまざまな導入要件に対応するために、複数のフォームファクターにわたる CM10 シリーズを提供します。その E3.S および E1.S バリアントは、特定の厚さのプロファイルに対する直接コールド プレート液体冷却をサポートしていますが、すべての形式は従来の空冷環境との互換性を維持しています。 EDSFF のラインナップには、厚さ 7.5 mm の E3.S と、9.5 mm と 15 mm の両方のプロファイルの E1.S が含まれます。両方のフォームファクターの 9.5 mm バリエーションは、直接液体冷却環境をサポートします。 E3.S には、従来の HA ストレージ アレイの高可用性…</p><p><img src="https://www.servethehome.com/wp-content/uploads/2026/07/kioxia-cm10-launch-cover.jpg" alt="PCIe Gen6世代のSSD向けにキオクシアCM10シリーズを発売"></p>]]></description><source url="https://www.servethehome.com/kioxia-cm10-series-launched-for-the-pcie-gen6-generation-of-ssds/">ServeTheHome</source><media:content url="https://www.servethehome.com/wp-content/uploads/2026/07/kioxia-cm10-launch-cover.jpg" medium="image"/><media:thumbnail url="https://www.servethehome.com/wp-content/uploads/2026/07/kioxia-cm10-launch-cover.jpg"/></item>
-<item><title>3D プリンターのアップグレードは罠で、これを学ぶのに数か月を無駄にしました</title><link>https://www.xda-developers.com/3d-printer-upgrades-are-a-trap/</link><guid isPermaLink="true">https://www.xda-developers.com/3d-printer-upgrades-are-a-trap/</guid><pubDate>Sat, 01 Aug 2026 15:00:10 +0000</pubDate><description><![CDATA[<p>3D プリンターのアップグレードは罠で、これを学ぶのに数か月を無駄にしました
-
-私は 3D プリンターのアップグレードを印刷するのに何ヶ月も費やしましたが、最も有用な印刷はプリンター自体とはほとんど関係がないことに気づきました。
-
-3D プリンターのアップグレードは罠で、これを学ぶのに数か月を無駄にしました
-
-文：Jeff Butts 公開日 2026 年 8 月 1 日、午前 11:00 EDT Jeff は、インターネット以前から IT 業界に携わっており、20 年以上、テクニカル サポート、システム管理、ネットワーク管理、コンサルティングの職務に従事してきました。彼は英語で学士号を取得し、専門的な執筆と編集に重点を置いた英語で修士号を取得し、さらにコンピューティングおよび情報システムで修士号を取得しています。大学で英語とコンピューター サイエンスを数年間教えた後、ジェフは執筆活動を開始しました。彼は XDA で仕事を始める前に、 Macworld 、 Tom&#39;s Hardware 、 groovyPost 、 The Mac Observer などで執筆を行ってきました。 XDA アカウントにサインインする 3D プリントで陥りやすい習慣の 1 つは、プリンタ自体の部品のプリントにほとんどの時間を費やしてしまうことです。ベッドの上で数時間過ごすのに十分だと思われる別のブラケット、ホルダー、オーガナイザー、ガイド、または生活の質を向上させる小さなアクセサリーが常にあります。私はそれをたくさん行いました、そしてそれらのプリントのいくつかは完全にその場所を獲得しました。しかし最終的に、他のあらゆる用途に役立つものを作ることが本来の目的であるマシンの改良に、印刷物のどれだけの時間が費やされているかを調べてみると、バランスが少し崩れているように感じました。
-
-印刷プリンターのアップグレードは最終的に生産性を感じられなくなりました
-
-次に印刷する価値のあるもう 1 つの改善点が常にありました
-
-出典: Hobby Hoarder/YouTube ノズルが紙の上をどれだけドラッ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/05/bambu-lab-x2d-combo-and-xtool-m2.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="3D プリンターのアップグレードは罠で、これを学ぶのに数か月を無駄にしました"></p>]]></description><source url="https://www.xda-developers.com/3d-printer-upgrades-are-a-trap/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/05/bambu-lab-x2d-combo-and-xtool-m2.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/05/bambu-lab-x2d-combo-and-xtool-m2.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>Microsoft、メモリ不足の中、Windows 11 を 8GB RAM で動作させることを誓う — OS のメモリ使用量を削減するための最適化が開始</title><link>https://www.tomshardware.com/software/windows/microsoft-vows-to-make-windows-11-fly-on-8gb-ram-amid-memory-shortage-optimizations-to-reduce-os-memory-footprint-have-begun</link><guid isPermaLink="true">https://www.tomshardware.com/software/windows/microsoft-vows-to-make-windows-11-fly-on-8gb-ram-amid-memory-shortage-optimizations-to-reduce-os-memory-footprint-have-begun</guid><pubDate>Sat, 01 Aug 2026 14:48:26 +0000</pubDate><description><![CDATA[<p>Microsoft、メモリ不足の中、Windows 11 を 8GB RAM で動作させることを誓う — OS のメモリ使用量を削減するための最適化が開始
-
-Windows 11 はダイエットを始めようとしています
-
-Microsoft、メモリ不足の中、Windows 11 を 8GB RAM で動作させることを誓う — OS のメモリ使用量を削減するための最適化が開始
-
-Windows 11 はダイエットを始めようとしています
-
-(画像クレジット: Getty Images) リンクをコピー
-
-0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する Microsoft は、2026 年 3 月に Windows 11 を改善するという約束の一環として、8GB 以上の RAM を搭載したシステム向けに Windows 11 を最適化する計画であると発表しました。同社は最新のアップデートで、この最適化は、すぐに使用できるエクスペリエンスの高速化、ペアレンタル コントロールの容易化、音声対話の改善など、オペレーティング システムのアップグレードへの注力拡大の一環であると述べました。
-
-Windows 11 の公式の最小仕様は RAM わずか 4 GB ですが、ほとんどの PC ビルダーは、スムーズなエクスペリエンスを実現したい場合は少なくとも 16 GB を搭載することを推奨しています。実際、Microsoft は以前、特に近い将来ゲームを処理できるシステムを必要とするゲーマー向けに、Windows 11 に 32 GB の RAM を推奨しました。残念ながら、RAMpocalypse により、ユーザーとメーカーの両方が、より低速な DDR4 メモリとより低い容量を使い続けることを余儀なくされました。一部の専門家は、エントリーレベルの PC は 2028 年までに消滅すると予測しており、Apple を含む一部のメーカーが、特定の価格帯に到達するためだけに 8GB ラップトップを再導入するのを見てきました。
-
-8GB…</p><p><img src="https://cdn.mos.cms.futurecdn.net/Sa39HGKneYCquLZhRTyh8j-2560-80.jpg" alt="Microsoft、メモリ不足の中、Windows 11 を 8GB RAM で動作させることを誓う — OS のメモリ使用量を削減するための最適化が開始"></p>]]></description><source url="https://www.tomshardware.com/software/windows/microsoft-vows-to-make-windows-11-fly-on-8gb-ram-amid-memory-shortage-optimizations-to-reduce-os-memory-footprint-have-begun">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/Sa39HGKneYCquLZhRTyh8j-2560-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/Sa39HGKneYCquLZhRTyh8j-2560-80.jpg"/></item>
-<item><title>今年最も強力なオープンソース モデルがリリースされましたが、まだ自宅では実行できません</title><link>https://www.xda-developers.com/powerful-open-source-model-year-dropped-cant-run-home/</link><guid isPermaLink="true">https://www.xda-developers.com/powerful-open-source-model-year-dropped-cant-run-home/</guid><pubDate>Sat, 01 Aug 2026 14:30:10 +0000</pubDate><description><![CDATA[<p>今年最も強力なオープンソース モデルがリリースされましたが、まだ自宅では実行できません
-
-Kimi K3 は現時点で最高のモデルの 1 つです。
-
-今年最も強力なオープンソース モデルがリリースされましたが、まだ自宅では実行できません
-
-By Anurag Singh 公開 2026 年 8 月 1 日、午前 10 時 30 分 EDT Anurag は、過去 5 年間、Windows、Android、Apple を中心にテクノロジーをカバーしてきた経験豊富なジャーナリスト兼著者です。彼は Android Police、Neowin、Dexerto、MakeTechEasier などのサイトに執筆しています。アヌラグは常にテクノロジーに興味があり、最新のガジェットを手に入れるのが大好きです。先延ばしにしていないときは、おそらく彼が映画館で最新映画を鑑賞したり、ベッドから Twitter をスクロールしたりしているのを見かけるでしょう。 XDA アカウントにサインインする Moonshot が Kim K3 をリリースして以来、フロンティア AI ラボの間で若干のパニックが起きていることに気づいた方もいるでしょう。これは 2.8 兆のパラメーターを備えたオープンウェイト モデルで、Fable 5 や GPT Sol でできることと同じことを実行できます。これらのフロンティア研究所の幹部でさえ、このモデルが非常に優れていることを認めています。 OpenAIの戦略的未来部門責任者は、企業がそのモデルを購入するのを阻止するために、このモデルの監視を強化するよう米国政府にさえ要求した。
-
-ベンチマークだけが証拠ではありません。私は以前 GPT と Claude で処理したのと同じタスクにこのモデルを使用してきましたが、そのパフォーマンスはまさにそのレベルにあります。 90％あると思います。 GPT Sol と比較すると、ほぼ同じくらい優れていますが、特定のタスクでは Fable 5 がそれを上回っているのを見てきましたが、それが重要ではありません。キミ K3 はおそらく今年見た中…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/img_20260730_195712-1.jpg?w=1600&amp;h=900&amp;fit=crop" alt="今年最も強力なオープンソース モデルがリリースされましたが、まだ自宅では実行できません"></p>]]></description><source url="https://www.xda-developers.com/powerful-open-source-model-year-dropped-cant-run-home/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/img_20260730_195712-1.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/img_20260730_195712-1.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>Running a 28.9M Parameter LLM on an $8 Microcontroller</title><link>https://www.hackster.io/news/running-a-28-9m-parameter-llm-on-an-8-microcontroller-173f1f370708</link><guid isPermaLink="true">https://www.hackster.io/news/running-a-28-9m-parameter-llm-on-an-8-microcontroller-173f1f370708</guid><pubDate>Sat, 01 Aug 2026 14:19:53 +0000</pubDate><description><![CDATA[<p>Running a 28.9M Parameter LLM on an $8 Microcontroller</p>]]></description><source url="https://www.hackster.io/news/running-a-28-9m-parameter-llm-on-an-8-microcontroller-173f1f370708">Hackster.io</source></item>
-<item><title>バイブコード化された薪割りシミュレーターを試してみたら、やめられない</title><link>https://www.androidauthority.com/vibecoded-ai-apps-ai-tool-roundup-3692798/</link><guid isPermaLink="true">https://www.androidauthority.com/vibecoded-ai-apps-ai-tool-roundup-3692798/</guid><pubDate>Sat, 01 Aug 2026 14:15:25 +0000</pubDate><description><![CDATA[<p>バイブコード化された薪割りシミュレーターを試してみたら、やめられない
-
-新しい AI アプリとサービスの最新版では、生産性や楽しみなどを実現する優れたバイブコーディング AI ツールをいくつか紹介します。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-AI バイブコード化された薪割りシミュレーターを試してみましたが、プレイがやめられません
-
-0 • Andy Walker / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください サービスの基礎として使用されるか、アプリの構築に使用されるか、アプリ内の機能を強化するために使用されるかにかかわらず、生成 AI はあらゆる場所に存在します。しかし、非常に多くの新製品が常に登場しているので、どれをチェックする価値があるでしょうか?
-
-私たちは、知っておくべき最高かつ最新の AI アプリとサービスをカバーする新しい定期シリーズを支援するためにここにいます。
-
-新しい AI アプリとサービスの前版をここでご覧ください。
-
-あなたのアプリやサービスをこのシリーズの今後の版で検討してほしい場合、または含める価値のあるアプリを見つけた場合は、メールでご連絡いただくか、下にコメントをドロップしてください。あるいは、あなたのアプリがすべての素晴らしい読者に確実に紹介されるようにするには、パートナーシップ チームにご連絡ください。
-
-なぜ本物の薪割りに戻る必要があるのでしょうか?
-
-バイブコーディングは開発者コミュニティでよく使われる言葉ですが、おそらくそれには十分な理由があるのでしょう。プログラミング言語を学び、それをマスターして便利でユニークなアプリや Web サイトを作成するスキルは、誰もがアクセスしたり、鋭敏に扱えるわけではありません。 AI 支援コーディングの台頭により、ほぼ誰でも使えるものを作成できるようになりました。
-
-今週は、オンラインで偶然見つけ、場合によってはとても気に入った…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/07/wood-splitting-simulator-ai-tool-2.jpg" alt="バイブコード化された薪割りシミュレーターを試してみたら、やめられない"></p>]]></description><source url="https://www.androidauthority.com/vibecoded-ai-apps-ai-tool-roundup-3692798/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/07/wood-splitting-simulator-ai-tool-2.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/07/wood-splitting-simulator-ai-tool-2.jpg"/></item>
-<item><title>この 8 月に試す必要がある最高の新しい Android アプリ 5 つ</title><link>https://www.androidauthority.com/best-new-android-apps-games-august-2026-3693177/</link><guid isPermaLink="true">https://www.androidauthority.com/best-new-android-apps-games-august-2026-3693177/</guid><pubDate>Sat, 01 Aug 2026 14:00:38 +0000</pubDate><description><![CDATA[<p>この 8 月に試す必要がある最高の新しい Android アプリ 5 つ
-
-8 月の最高の新しい Android アプリのリストには、新しい Android ランチャー、PC ゲーム アプリなどが含まれています。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Android アプリ この 8 月に試す必要がある最高の新しい Android アプリ 5 つ
-
-0 • Hadlee Simons / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください 最新かつ最高のアプリやゲームを追い続けるのは難しい仕事ですが、私がお手伝いします。私は毎月、最高の新しい Android アプリとゲームのリストを詳しく紹介しています。今月版には、PC ゲームを Android に導入するアプリなど、便利なアプリが満載です。
-
-早速始めましょう。2026 年 8 月に試してみるべき、最高の新しい Android アプリとゲームをご紹介します。
-
-Samsung Messages を手放せない人もいますが、その必要はありません。
-
-Samsung Messages は最近、Samsung 製携帯電話および Android 世界全体に別れを告げ、現在この韓国企業は RCS 対応のメッセージング ソリューションを必要とするユーザーに Google Messages の使用を強制しています。ただし、Android はまだ比較的オープンであるため、Samsung メッセージの精神を維持するための新しい先駆的なソリューションが開発中です。
-
-Samsung メッセージで最も恋しいのは何ですか?
-
-OzarksMade の Messages と呼ばれるこの新しいアプリは、Samsung Messages のルック アンド フィールをエミュレートし、Google Messages との気の利いたバックグラウンド統合による RCS サポートを組み込むことを目的と…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/07/GameNative-on-Galaxy-S25-Ultra.jpg" alt="この 8 月に試す必要がある最高の新しい Android アプリ 5 つ"></p>]]></description><source url="https://www.androidauthority.com/best-new-android-apps-games-august-2026-3693177/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/07/GameNative-on-Galaxy-S25-Ultra.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/07/GameNative-on-Galaxy-S25-Ultra.jpg"/></item>
-<item><title>商業化とイノベーション</title><link>https://hackaday.com/2026/08/01/commercialization-and-innovation/</link><guid isPermaLink="true">https://hackaday.com/2026/08/01/commercialization-and-innovation/</guid><pubDate>Sat, 01 Aug 2026 14:00:20 +0000</pubDate><description><![CDATA[<p>商業化とイノベーション
-
-ここ 1 ～ 2 年で、比較的手頃な価格のマルチマテリアル プリンターが市場に登場しました。そして、[トム ナルディ] が 2025 年のレビューを作成していたときに私とこの質問が話題になりました…
-
-ここ 1 ～ 2 年で、比較的手頃な価格のマルチマテリアル プリンタが市場に登場しました。[トム ナルディ] が 2025 年を振り返る記事を執筆していたときに私と二人で考えていたのは、それが我々の人々にとって何を意味するのかということでした。彼がそれ自体を間違っていたとは思わないが、そのセクションの見出し「おばあちゃんはカラーで 3D プリントしている」は物語の半分しか伝えていない。
-
-しかし、彼はその部分を正しく理解しました。 (通常は) 4 色の利用可能性を活用したマルチマテリアル デザインが隆盛を極めているのを私たちは確かに目にしてきました。もちろん、カラー印刷機能により、純粋に装飾的なモデルに命が吹き込まれています。たとえば、フルカラーのポケモンのデスクトップ玩具を考えてみましょう。しかし、機能的なプリントであっても、ボックスに直接印刷されたコントラストカラーのラベルの恩恵を受けており、言うまでもなく、これまでよりも簡単かつきれいに剥がせるマルチ素材のサポートさえあります。
-
-これらのマルチフィラメント マシンのほとんどは、ハードウェアの改良に関してはほぼロックダウンされているため、私たちの視線は、エンドユーザーが新しい機能を使って何をするかにしっかりと釘付けでした。しかし、私たちは 3D プリンタの 3 番目の軸であるソフトウェア ハッカーを見落としていました。そして、今年最もクールな開発が見られたのは、まさにスライサーとパス計画のこの分野です。なぜ？なぜなら、人々はアルゴリズムをテストするために必要なハードウェアを手にしているからです。
-
-FullSpectrum と最近の ImageMap は、4 フィラメント プリンタから欠落している中間色を取得するための 2 つの技術であり、特に ImageMap は、より少ないパージでジョブ…</p><p><img src="https://hackaday.com/wp-content/uploads/2018/05/printering.jpg" alt="商業化とイノベーション"></p>]]></description><source url="https://hackaday.com/2026/08/01/commercialization-and-innovation/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2018/05/printering.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2018/05/printering.jpg"/></item>
 </channel></rss>
