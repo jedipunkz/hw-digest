@@ -1,6 +1,169 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Thu, 06 Aug 2026 15:27:56 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Fri, 07 Aug 2026 00:14:47 +0000</lastBuildDate>
+<item><title>10年近く前のラップトップを自宅の研究室で最も便利なマシンに変えました</title><link>https://www.xda-developers.com/i-turned-an-old-laptop-into-the-most-useful-machine-in-my-home-lab/</link><guid isPermaLink="true">https://www.xda-developers.com/i-turned-an-old-laptop-into-the-most-useful-machine-in-my-home-lab/</guid><pubDate>Fri, 07 Aug 2026 00:00:10 +0000</pubDate><description><![CDATA[<p>10年近く前のラップトップを自宅の研究室で最も便利なマシンに変えました
+
+できます
+
+10年近く前のラップトップを自宅の研究室で最も便利なマシンに変えました
+
+By Ayush Pande 公開 2026 年 8 月 6 日、午後 8:00 EDT Ayush Pande は、PC ハードウェアおよびゲームのライターです。彼が新しい記事に取り組んでいないときは、頭を PC の中に閉じ込めたり、サーバーのオペレーティング システムをいじったりしているのを見かけることがあります。コンピューティングのほかに、彼の興味には、長い RPG に何時間も費やすこと、協力ゲームで友達に怒鳴りつけること、ギターを練習することなどがあります。 XDA アカウントにサインインする 10 代をエンタープライズ層のハードウェアに夢中で過ごしてきたにもかかわらず、私の現在の自宅ラボはほとんどがコンシューマー グレードのシステムで構成されており、唯一の外れ値は 2016 年の Xeon ワークステーションです。実際、古いゲーム用 PC で Proxmox の実験をいくつか実行したところ、仮想化機能にアクセスするのに最高級のスペックは必要ないことが証明され、現在ではミニ PC やシン クライアントから x86 シングルボード コンピューターまであらゆるものを手に入れることができました。私のいじくり回しの冒険にある程度の刺激を与えてくれました。
+
+それらの中で最も奇妙なのは、昨年 Proxmox ワークステーションに再利用しようとしたゲーミング ラップトップ (具体的には、Acer Predator Helios 300 G3-571-77QK) でしょう。実を言うと、私はこのシステムにあまり期待していなかったので、仮想化機能のテストが終わったら、別のディストリビューションを追加してやろうとさえ思っていました。しかし、あるプロジェクトが別のプロジェクトにつながり、現在、このほぼ 10 年前のラップトップの遺物が、私のいじくりハブの重要な部分として機能しています。
+
+私のラップトップには、自宅研究室用のす…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/proxmox-gaming-laptop-gpu-passthrough-17.jpg?w=1600&amp;h=900&amp;fit=crop" alt="10年近く前のラップトップを自宅の研究室で最も便利なマシンに変えました"></p>]]></description><source url="https://www.xda-developers.com/i-turned-an-old-laptop-into-the-most-useful-machine-in-my-home-lab/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/proxmox-gaming-laptop-gpu-passthrough-17.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/proxmox-gaming-laptop-gpu-passthrough-17.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>AMD、モデル固有のAI推論チップのTaalasを買収へ</title><link>https://www.servethehome.com/amd-to-acquire-taalas-for-model-specific-ai-inference-chips/</link><guid isPermaLink="true">https://www.servethehome.com/amd-to-acquire-taalas-for-model-specific-ai-inference-chips/</guid><pubDate>Thu, 06 Aug 2026 23:20:01 +0000</pubDate><description><![CDATA[<p>AMD、モデル固有のAI推論チップのTaalasを買収へ
+
+AMDは、単一モデルの高速化を目的とした将来のモデル固有のAI推論チップを構築するためにTaalasを買収すると発表した
+
+本日、AMDは、別の種類のAI推論チップのためにTaalasを買収すると発表しました。多くのモデルを実行できる高度にプログラム可能なチップを搭載し、そのプログラマビリティを利用してモデルを変更するのではなく、Taalas はその逆です。これはモデルごとに 1 つのチップ、またはおそらく 1 セットのチップです。ラック内で実行されているモデルを変更する場合は、チップも変更する必要があります。これらはモデル固有の AI 推論チップであるためです。
+
+AMD、モデル固有のAI推論チップのTaalasを買収へ
+
+Taalas の背後にある基本コンセプトは、HBM のようにメモリからほぼすべてのモデルの重みをロードし、チップのプログラム可能な部分を使用してモデルの特定の行列と計算ニーズを処理するのではなく、モデルを CMOS に書き込むだけであるということです。この利点は、よりプログラムしやすいように設計された他のソリューションと比較して、パフォーマンスが大幅に向上する可能性があることです。
+
+Taalas の現行世代のハードウェアは、HC1 テクノロジーのデモンストレーターです。同社は、HC1 が Llama 3.1 8B を実行し、ユーザーあたり 1 秒あたり最大 17,000 トークンを実行できることを示しました。 Taalas は、このチップを 815 平方ミリメートルのダイと 530 億個のトランジスタを備えた TSMC 6nm としてリストしています。 Taalas は HC1 を Nvidia H200 および B200、Groq、SambaNova、Cerebras と比較していますが、これらの数値は Taalas 独自の測定値です。
+
+しかし、現実的には、多くの大型の最新モデルでは、モデル全体、特に大型モデルを保持するだけでも複数のレチクルサイズのチップが必要になることを意味します…</p><p><img src="https://www.servethehome.com/wp-content/uploads/2026/08/Taalas-HC1-AI-Inference-Card-Large.jpeg" alt="AMD、モデル固有のAI推論チップのTaalasを買収へ"></p>]]></description><source url="https://www.servethehome.com/amd-to-acquire-taalas-for-model-specific-ai-inference-chips/">ServeTheHome</source><media:content url="https://www.servethehome.com/wp-content/uploads/2026/08/Taalas-HC1-AI-Inference-Card-Large.jpeg" medium="image"/><media:thumbnail url="https://www.servethehome.com/wp-content/uploads/2026/08/Taalas-HC1-AI-Inference-Card-Large.jpeg"/></item>
+<item><title>Nintendo&#39;s profits jumped 53.5% despite a revenue decline, thanks to a surprise one-time US tariff refund</title><link>https://www.tweaktown.com/rss/click/news/113030/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113030/?c=news-mf</guid><pubDate>Thu, 06 Aug 2026 23:04:03 +0000</pubDate><description><![CDATA[<p>Nintendo&#39;s profits jumped 53.5% despite a revenue decline, thanks to a surprise one-time US tariff refund</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113030/?c=news-mf">TweakTown</source></item>
+<item><title>ルビジウム周波数標準の説明</title><link>https://hackaday.com/2026/08/06/rubidium-frequency-standard-explained/</link><guid isPermaLink="true">https://hackaday.com/2026/08/06/rubidium-frequency-standard-explained/</guid><pubDate>Thu, 06 Aug 2026 23:00:28 +0000</pubDate><description><![CDATA[<p>ルビジウム周波数標準の説明
+
+おそらく、ルビジウム周波数標準について聞いたことがあるでしょう。これは、非常に正確な時間または周波数の基準が必要な場合に使用されます。 [IMSAI] 男は、何についての優れた説明ビデオを持っています’…
+
+おそらく、ルビジウム周波数標準について聞いたことがあるでしょう。これは、非常に正確な時間または周波数の基準が必要な場合に使用されます。 [IMSAI] の人は、これらの標準の 1 つの内部で実際に何が起こっているかについて、優れた説明ビデオを公開しています。基本的な考え方の多くはセシウム基準にも当てはまります。
+
+説明は周期表から始まります。ルビジウムとセシウムはどちらもアルカリ金属で、最も外側の電子殻に電子が 1 つあります。ルビジウムには 37 個の電子があり、最も外側の電子は比較的緩く結合しています。天然に存在するルビジウムは主に 2 つの同位体、ルビジウム 85 とルビジウム 87 で構成されており、これらは同じ数の陽子と電子を持ちますが、異なる数の中性子を持ちます。
+
+ルビジウム標準には通常、少量のルビジウムを含む 3 つのガス セルがあります。 RF 励起ルビジウム 87 放電ランプは、非常に特定の波長の光を生成します。 RF エネルギーはルビジウム原子をより高い電子状態に励起し、その電子がより低いエネルギー状態に戻ると、原子は光子を放出します。
+
+その光はルビジウム 85 を含むフィルターセルを通過します。フィルターはランプのスペクトルの一部を優先的に吸収し、第 2 共鳴セル内のルビジウム 87 原子を原子の基底状態の 2 つの密に配置された超微細状態の 1 つに光学的にポンピングする光を残します。
+
+これら 2 つの状態は、外側の電子の磁気モーメントとルビジウム 87 原子核の磁気モーメントの間の相互作用により異なります。それらのエネルギー分離は、約 6.835 GHz のマイクロ波周波数に相当します。
+
+共鳴セルは、局部発振器からのマイクロ波エネルギーにもさらされると同時に、フィルターを通した光によって照明されます。マ…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/rube.png" alt="ルビジウム周波数標準の説明"></p>]]></description><source url="https://hackaday.com/2026/08/06/rubidium-frequency-standard-explained/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/rube.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/rube.png"/></item>
+<item><title>自宅研究室用に安価なサーバー ハードウェアを購入しましたが、電気代が高くついたことを学びました</title><link>https://www.xda-developers.com/i-bought-cheap-server-hardware-for-my-home-lab-and-the-electricity-bill-taught-me-an-expensive-lesson/</link><guid isPermaLink="true">https://www.xda-developers.com/i-bought-cheap-server-hardware-for-my-home-lab-and-the-electricity-bill-taught-me-an-expensive-lesson/</guid><pubDate>Thu, 06 Aug 2026 23:00:10 +0000</pubDate><description><![CDATA[<p>自宅研究室用に安価なサーバー ハードウェアを購入しましたが、電気代が高くついたことを学びました
+
+古いサーバーを実際に運用するのにどれくらいのコストがかかるかを知るまでは、古いサーバーはお買い得品のように思えました
+
+自宅研究室用に安価なサーバー ハードウェアを購入しましたが、電気代が高くついたことを学びました
+
+By Ayush Pande 公開 2026 年 8 月 6 日、午後 7:00 EDT Ayush Pande は、PC ハードウェアおよびゲームのライターです。彼が新しい記事に取り組んでいないときは、頭を PC の中に閉じ込めたり、サーバーのオペレーティング システムをいじったりしているのを見かけることがあります。コンピューティングのほかに、彼の興味には、長い RPG に何時間も費やすこと、協力ゲームで友達に怒鳴りつけること、ギターを練習することなどがあります。 XDA アカウントにサインインする 古いビルドから集めたコンポーネントを使用して最初のホーム サーバーを構築した後、仮想化プロジェクトを推進するために実験用ワークステーションに最先端の仕様は必要ないことにすぐに気づきました。時間が経つにつれて、私はフリーマーケットから古いマシンを手に入れるようになり、Proxmox を少し塗るだけで、それらは私の自宅ラボ、セルフホスティング、および DevOps 実験のための信頼できるノードになりました。
+
+私のデュアル Xeon ワークステーションもそのようなシステムの 1 つです。2016 年にサーバーの残骸を 150 ドル未満で入手したため、電源、E-ATX ケース、および (RAM の黙示録以前に) 購入した DDR4 メモリ キットを含めると、投資総額は 350 ドルになります。これは確かなお買い得品だと思いますが、最初の数週間、最小限の電力最適化で 24 時間年中無休でシステムを実行してみた後、このシステムに最終的にどれだけの費用がかかるか理解できませんでした。
+
+机上では、時代遅れのサーバー ハードウェアはホーム ラボ プロジェクトにとって宝の山です…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/08/intel-xeon-3.jpg?w=1600&amp;h=900&amp;fit=crop" alt="自宅研究室用に安価なサーバー ハードウェアを購入しましたが、電気代が高くついたことを学びました"></p>]]></description><source url="https://www.xda-developers.com/i-bought-cheap-server-hardware-for-my-home-lab-and-the-electricity-bill-taught-me-an-expensive-lesson/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/08/intel-xeon-3.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/08/intel-xeon-3.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>Minecraft is getting a native Switch 2 version on October 27, but Switch 1 owners may need to pay to upgrade</title><link>https://www.tweaktown.com/rss/click/news/113029/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113029/?c=news-mf</guid><pubDate>Thu, 06 Aug 2026 22:30:09 +0000</pubDate><description><![CDATA[<p>Minecraft is getting a native Switch 2 version on October 27, but Switch 1 owners may need to pay to upgrade</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113029/?c=news-mf">TweakTown</source></item>
+<item><title>Explosive drone found hovering near Ukrainian cargo aircraft at German airport</title><link>https://arstechnica.com/gadgets/2026/08/germany-disarms-explosive-drone-found-at-airport-hunts-possible-second-drone/</link><guid isPermaLink="true">https://arstechnica.com/gadgets/2026/08/germany-disarms-explosive-drone-found-at-airport-hunts-possible-second-drone/</guid><pubDate>Thu, 06 Aug 2026 22:01:55 +0000</pubDate><description><![CDATA[<p>ドイツの空港でウクライナの貨物機の近くでホバリングしている爆発性ドローンが発見される
+
+Russian attack?ライプツィヒ空港で駐機中の航空機を狙った爆発ドローン。
+
+テキスト設定 ストーリーテキスト サイズ 小 標準 大 幅 * 標準 ワイドリンク 標準 オレンジ * 購読者限定 詳細はこちら ナビゲーションを最小限にする ドイツ警察は、ライプツィヒ空港に駐機していたウクライナの貨物機の近くで爆​​発物を積んだドローンが発見された後、武装解除した。そして当局は、接近してきた航空機が空中で何かに衝突した後、2機目のドローンの可能性を調べている。
+
+ガーディアン紙によると、ドローンは8月4日午前0時少し前、ウクライナのアントノフ航空が所有する駐機中のAn-124貨物機2機の間で地面近くでホバリングしていた空港職員によって初めて発見された。ドイツ連邦内務大臣アレクサンダー・ドブリント氏は記者会見で、空港のドローン防衛センサーによる探知を回避するために改造されたようだと述べた。
+
+ドブリント氏は、ドローンがプラスチック爆発物セムテックスと思われる物質の拳大のパッケージを運んでいたと説明した。同氏によると、起爆装置が故障しただけで、ドローンがウクライナ貨物機の近くで爆​​発するのを防ぐことができたという。
+
+BBCニュースによると、ドイツ警察はドローンの武装解除に爆弾処理ロボットを使用し、その後制御された爆発を実行したという。
+
+ドイチェ・ヴェレによると、一部のメディア報道に反して、ドイツ内務省は、明らかに標的となったウクライナ貨物機がウクライナに配送するための武器やその他の弾薬を積んでいたことを否定した。むしろ政府関係者らは、ドローン事件当時、航空機は空っぽだったと説明している。
+
+この事件により、ヨーロッパ最大の航空貨物ハブの一つであるライプツィヒ/ハレ空港は数時間にわたってすべての航空交通を閉鎖することになった。航空追跡サービスのフライトレーダー24によると、この影響で19便が空港から迂回せざるを得なくなり、その中には海運会社DHLが運航するボーイング757型機が…</p><p><img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Drone-and-Antonov-cargo-plane-1152x648.jpg" alt="Explosive drone found hovering near Ukrainian cargo aircraft at German airport"></p>]]></description><source url="https://arstechnica.com/gadgets/2026/08/germany-disarms-explosive-drone-found-at-airport-hunts-possible-second-drone/">Ars Technica Gear &amp; Gadgets</source><media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Drone-and-Antonov-cargo-plane-1152x648.jpg" medium="image"/><media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Drone-and-Antonov-cargo-plane-1152x648.jpg"/></item>
+<item><title>My favorite Notion alternative isn&#39;t Obsidian, it&#39;s something I can actually self-host</title><link>https://www.xda-developers.com/self-hosted-notion-alternative-affine/</link><guid isPermaLink="true">https://www.xda-developers.com/self-hosted-notion-alternative-affine/</guid><pubDate>Thu, 06 Aug 2026 22:00:10 +0000</pubDate><description><![CDATA[<p>私のお気に入りの Notion 代替品は Obsidian ではありません。実際に自己ホストできるものです
+
+私が行った概念の代替案
+
+私のお気に入りの Notion 代替品は Obsidian ではありません。実際に自己ホストできるものです
+
+By Yash Patel 公開 2026 年 8 月 6 日、午後 6 時 EDT 2018 年にテクノロジー業界でのキャリアをスタートし、Yash はソフトウェア エンジニアとして 3 年以上を過ごしました。その後、彼はテクノロジー ブログ DiGiTAL BiRYANi の有益で魅力的なコンテンツを通じて読者に力を与えることに重点を移しました。彼は MakeTechEasier の技術記事も出版しています。彼は新しいテクノロジー ガジェットやプラットフォームを探索するのが大好きです。彼が執筆していないときは、食べ物について調べていることがわかります。彼はテクノロジーと食べ物への愛情から、読者の間ではデジタル シェフ ヤシュとして知られています。 XDA アカウントにサインインする Notion の置き換えについて話すとき、通常、最初に名前が挙がるアプリは Obsidian です。私も試してみましたが、メモを取るのに優れたアプリではありますが、私が実際に探していた代替品ではありませんでした。データの保存場所を完全に制御しながら、Notion に近いものを求めていました。その検索が最終的に私をAFFiNEに導きました。しばらく使用した後、ワークフローの柔軟性、所有権、日常の使いやすさの間でより良いバランスが得られることに気付きました。 AFFiNE は、ほとんどの人が期待するものではなく、私のお気に入りの Notion 代替品になりました。
+
+Notion にいくつかの欠落部分が追加されたように感じられる自己ホスト型の Notion 代替品
+
+初めて AFFiNE に出会ったとき、すぐに Notion を思い出しました。使い慣れたブロックベースのエディター、クリーンなインターフェイス、同様のワークスペース レイアウトを備えてい…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/affine-on-macbook.png?w=1600&amp;h=900&amp;fit=crop" alt="My favorite Notion alternative isn&#39;t Obsidian, it&#39;s something I can actually self-host"></p>]]></description><source url="https://www.xda-developers.com/self-hosted-notion-alternative-affine/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/affine-on-macbook.png?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/affine-on-macbook.png?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>8 月の Android Canary リリースには、アプリ ハンドルと新しいクイック設定レイアウト エディターが追加されました</title><link>https://www.androidauthority.com/android-canary-2608-3695592/</link><guid isPermaLink="true">https://www.androidauthority.com/android-canary-2608-3695592/</guid><pubDate>Thu, 06 Aug 2026 21:55:37 +0000</pubDate><description><![CDATA[<p>8 月の Android Canary リリースには、アプリ ハンドルと新しいクイック設定レイアウト エディターが追加されました
+
+本日の Android Canary 2608 のリリースは、老朽化した Pixel 6 および 6 Pro で利用できる最後の最新鋭のビルドとなります。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+8 月の Android Canary リリースには、アプリ ハンドルと新しいクイック設定レイアウト エディターが追加されました
+
+0 • C. Scott Brown / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google の最新の Android Canary ビルドがリリースされ、Pixel 6 以降のハードウェアをサポートします。
+
+これは、Pixel 6 および Pixel 6 Pro 向けの最後の Android Canary リリースになります。
+
+本日の 2608 ビルドでは、クイック設定をカスタマイズする新しい方法がいくつか導入されています。
+
+Google は現在、Android の最新の変更を誰よりも早く試したいテスター向けにたくさんのオプションを用意していますが、必ず先頭に立つ必要があります。Android Canary プログラムより優れたオプションはありません。 2607 7 月のビルドが到着してからちょうど 1 か月が経ち、Google は 8 月の Android Canary 2608 をリリースしました。
+
+Reddit の Canary サブチャンネルで、Google が Android Canary 2608 が利用可能になったというニュースを共有しています。悲しいことに、良いことばかりではありません。Google の最も古いハードウェアをもう少し使い続けたいと考えているテスターに​​は悪いニュースがあります。Android 1…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2025/09/Google-Pixel-10-in-Frost-vs-Google-Pixel-10-Pro-in-Moonstone-2-of-5.jpg" alt="8 月の Android Canary リリースには、アプリ ハンドルと新しいクイック設定レイアウト エディターが追加されました"></p>]]></description><source url="https://www.androidauthority.com/android-canary-2608-3695592/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2025/09/Google-Pixel-10-in-Frost-vs-Google-Pixel-10-Pro-in-Moonstone-2-of-5.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2025/09/Google-Pixel-10-in-Frost-vs-Google-Pixel-10-Pro-in-Moonstone-2-of-5.jpg"/></item>
+<item><title>Sony is now putting disc death warning stickers on PS5 boxes, proving it has no plans on reversing its decision</title><link>https://www.tweaktown.com/rss/click/news/113028/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113028/?c=news-mf</guid><pubDate>Thu, 06 Aug 2026 21:50:09 +0000</pubDate><description><![CDATA[<p>Sony is now putting disc death warning stickers on PS5 boxes, proving it has no plans on reversing its decision</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113028/?c=news-mf">TweakTown</source></item>
+<item><title>OpenAI により、ChatGPT の最新モデルが無料ユーザーにとってアクセスしやすくなりました</title><link>https://www.androidauthority.com/gpt-5-6-update-3695577/</link><guid isPermaLink="true">https://www.androidauthority.com/gpt-5-6-update-3695577/</guid><pubDate>Thu, 06 Aug 2026 21:41:53 +0000</pubDate><description><![CDATA[<p>OpenAI により、ChatGPT の最新モデルが無料ユーザーにとってアクセスしやすくなりました
+
+ChatGPT の最新の 5.6 モデルは、より信頼性が高く、正確で、焦点が絞られていると同時に、無料ユーザーにとってもアクセスしやすくなりました。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+OpenAI により、ChatGPT の最新モデルが無料ユーザーにとってアクセスしやすくなりました
+
+0 • Calvin Wankhede / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR OpenAI の最新の ChatGPT アップデートは、GPT-5.6 ラインナップに有意義なアップグレードをもたらします。
+
+最上位の GPT-5.6 Sol モデルは、事実上の誤りを減らし、不必要な情報を制限し、クエリに基づいて推論を調整できるようになりました。
+
+無料ユーザーは、無制限のテキスト チャットとより深い推論のための新しい思考ボタンを備えた GPT-5.5 Instant から GPT-5.6 Luna に移行しています。
+
+ChatGPT の最新 5.6 モデル ラインナップは、7 月初めに正式デビューしました。それから 1 か月も経たないうちに、AI 巨人はすでに最先端のモデルに頭脳とアクセシビリティの向上を与えています。
+
+ご記憶のとおり、5.6 シリーズは Sol、Terra、Luna の 3 つのモデルで構成されています。 Terra にはアップデートはありませんが、GPT-5.6 Sol と GPT-5.6 Luna は有意義なアップグレードを受けています。その内容は、モデルの信頼性、精度、焦点をより高めることから、最上位の AI にお金を払いたくないユーザーのアクセスを拡大することまで多岐にわたります。
+
+最大の変更点は、GPT-5.6 Luna が間もなくすべての無料ユーザーのデフォルトの …</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2023/08/ChatGPT-stock-photo-71.jpg" alt="OpenAI により、ChatGPT の最新モデルが無料ユーザーにとってアクセスしやすくなりました"></p>]]></description><source url="https://www.androidauthority.com/gpt-5-6-update-3695577/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2023/08/ChatGPT-stock-photo-71.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2023/08/ChatGPT-stock-photo-71.jpg"/></item>
+<item><title>Quake gets new free episode and roguelite mode in 30th anniversary update</title><link>https://www.tweaktown.com/rss/click/news/113027/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113027/?c=news-mf</guid><pubDate>Thu, 06 Aug 2026 21:34:11 +0000</pubDate><description><![CDATA[<p>Quake gets new free episode and roguelite mode in 30th anniversary update</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113027/?c=news-mf">TweakTown</source></item>
+<item><title>完全にアップグレード可能な PC の最終世代が現在構築中です</title><link>https://www.xda-developers.com/the-last-generation-of-fully-upgradeable-pcs-is-being-built-right-now/</link><guid isPermaLink="true">https://www.xda-developers.com/the-last-generation-of-fully-upgradeable-pcs-is-being-built-right-now/</guid><pubDate>Thu, 06 Aug 2026 21:30:10 +0000</pubDate><description><![CDATA[<p>完全にアップグレード可能な PC の最終世代が現在構築中です
+
+次世代ではアップグレードできなくなる可能性があります
+
+完全にアップグレード可能な PC の最終世代が現在構築中です
+
+文：Samarveer Singh 公開 2026 年 8 月 6 日、午後 5 時 30 分 EDT ゲームは、Samarveer の最大の情熱であり、文学を卒業した彼は、ゲームのテーマ、メッセージ、影響を分析することに大きな喜びを感じています。 Samarveer はゲームを深く評価しており、このプラットフォームがすべてのメディアの中で最も没入型で影響力のあるプラットフォームであると考えています。彼はオンラインのゲーム コミュニティに積極的に参加しており、レイ トレーシングの細かい点についていつでも議論する用意ができており、感情的に影響を与えたゲームについて 8 ページの大学論文を書きたくてウズウズしていることもあります。 XDA アカウントにサインインする
+
+はんだ付けされた RAM と統合チップにより、より薄く、より高速で、より効率的な PC へのアップグレードが簡単になります。
+
+LPDDR と AI ニーズにより、はんだ付けされたメモリがタワークラスのマシンに押し込まれるため、デスクトップもこれに追随しています。
+
+クラウド ゲームと密閉型デザインにより PC がアプライアンスに変わり、DIY アップグレードの時代が縮小します。
+
+私が所有していた PC の中で最も思い出深いのは、2013 年に購入した PC で、新しい PC を一から構築するまで、2023 年まで持ち続けていました。 10 年にわたって、この PC は 3 つの GPU、2 つの CPU、さらにはマザーボードのアップグレードを経て、時代 (そしてもちろん私の銀行残高) とともに進化しました。この PC は実際には完成していませんでしたが、まるで同じ家で一緒に育った兄弟のような気分でした。
+
+そのような経験の約束は今や失われつつあります。はんだ付け RAM がゆっくりと、しかし確実に業界標準への道を切り開くにつ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/gaming-pc-with-upgradable-components.jpg?w=1600&amp;h=900&amp;fit=crop" alt="完全にアップグレード可能な PC の最終世代が現在構築中です"></p>]]></description><source url="https://www.xda-developers.com/the-last-generation-of-fully-upgradeable-pcs-is-being-built-right-now/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/gaming-pc-with-upgradable-components.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/gaming-pc-with-upgradable-components.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>Docker から Proxmox LXC に切り替え、自宅ラボの管理がついに面倒ではなくなりました</title><link>https://www.xda-developers.com/switched-from-docker-to-proxmox-lxcs-to-manage-my-home-lab/</link><guid isPermaLink="true">https://www.xda-developers.com/switched-from-docker-to-proxmox-lxcs-to-manage-my-home-lab/</guid><pubDate>Thu, 06 Aug 2026 21:00:10 +0000</pubDate><description><![CDATA[<p>Docker から Proxmox LXC に切り替え、自宅ラボの管理がついに面倒ではなくなりました
+
+自己ホスト型サービスを大規模に実行するためのより簡単な方法を見つけました。
+
+Docker から Proxmox LXC に切り替え、自宅ラボの管理がついに面倒ではなくなりました
+
+By Yash Patel 公開 2026 年 8 月 6 日、午後 5:00 EDT 2018 年にテクノロジー業界でのキャリアを開始し、Yash はソフトウェア エンジニアとして 3 年以上を過ごしました。その後、彼はテクノロジー ブログ DiGiTAL BiRYANi の有益で魅力的なコンテンツを通じて読者に力を与えることに重点を移しました。彼は MakeTechEasier の技術記事も出版しています。彼は新しいテクノロジー ガジェットやプラットフォームを探索するのが大好きです。彼が執筆していないときは、食べ物について調べていることがわかります。彼はテクノロジーと食べ物への愛情から、読者の間ではデジタル シェフ ヤシュとして知られています。 XDA アカウントにサインインする Docker は、私がホーム ラボを構築し始めて以来、セルフホスティングに頼りになるツールです。これにより、新しいアプリケーションのデプロイが驚くほど簡単になったので、他のものを使用することをほとんど考えなくなりました。 Proxmox LXC コンテナーを調べ始めてから状況は変わりました。当初、これらは仮想マシンの軽量な代替手段であると期待していましたが、最終的にはほとんどのセルフホスト サービスを実行するための推奨方法になりました。これらは、完全な VM のオーバーヘッドなしで個別のシステムを分離すると同時に、すべての整理と管理を容易にします。私は現在、自宅ラボのほとんどで Docker ではなく Proxmox LXC を選択しています。
+
+Docker の管理が難しくなり始めた
+
+いくつかのコンテナを実行するのは簡単ですが、数十個のコンテナを実行するのは簡単ではありません
+
+私が初めてセルフホスティン…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/10/proxmox-semaphore.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Docker から Proxmox LXC に切り替え、自宅ラボの管理がついに面倒ではなくなりました"></p>]]></description><source url="https://www.xda-developers.com/switched-from-docker-to-proxmox-lxcs-to-manage-my-home-lab/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/10/proxmox-semaphore.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/10/proxmox-semaphore.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>GrapheneOS は Revolut に対して力を入れていない</title><link>https://www.androidauthority.com/revolut-blocking-grapheneos-3695551/</link><guid isPermaLink="true">https://www.androidauthority.com/revolut-blocking-grapheneos-3695551/</guid><pubDate>Thu, 06 Aug 2026 20:35:05 +0000</pubDate><description><![CDATA[<p>GrapheneOS は Revolut に対して力を入れていない
+
+Revolut は GrapheneOS ユーザーの生活を再び困難にしていると伝えられており、このプロジェクトは同社の正当性に対して大声で異議を唱えています。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+GrapheneOS は Revolut に対して力を入れていない
+
+0 • Calvin Wankhede / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR GrapheneOS によると、一部のユーザーが再び Revolut アプリにログインできない問題が発生しています。
+
+このプロジェクトでは、Revolut は古い Android バージョンをサポートしながらも、特に GrapheneOS をターゲットにしていると主張しています。
+
+GrapheneOSは考えられる回避策を示唆しているが、それが長期的には機能し続けない可能性があると警告している。
+
+銀行アプリは、標準の Android エクスペリエンスから逸脱するものには疑念を抱く可能性がありますが、GrapheneOS は、Revolut がその不信感を行き過ぎていると明らかに考えています。プライバシーを重視した Android プロジェクトは、一部のユーザーが再び Revolut アプリへのログインに問題を抱えていると主張し、フィンテック企業が意図的にユーザーを締め出そうとしていると非難している。
+
+X のスレッドで GrapheneOS は、Revolut が制限の原因はセキュリティ上の懸念であると述べたが、本当の問題は彼らが Google Play でライセンスを強制していることだと主張した。また、アプリが2018年に発売されたAndroid 9をまだサポートしているのに、Revolutのセキュリティ基準が実際にどれほど厳格であるのかについても疑問を呈し、さらに踏み…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2023/02/grapheneos-boot-animation.jpg" alt="GrapheneOS は Revolut に対して力を入れていない"></p>]]></description><source url="https://www.androidauthority.com/revolut-blocking-grapheneos-3695551/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2023/02/grapheneos-boot-animation.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2023/02/grapheneos-boot-animation.jpg"/></item>
 <item><title>AOC の最新ゲーム モニターは 250 ポンド未満で 500Hz を提供</title><link>https://www.kitguru.net/peripherals/monitors/matthew-wilson/aocs-latest-gaming-monitor-offers-500hz-for-under-250/</link><guid isPermaLink="true">https://www.kitguru.net/peripherals/monitors/matthew-wilson/aocs-latest-gaming-monitor-offers-500hz-for-under-250/</guid><pubDate>Thu, 06 Aug 2026 15:00:57 +0000</pubDate><description><![CDATA[<p>AOC の最新ゲーム モニターは 250 ポンド未満で 500Hz を提供
 
 AOC は、もう 1 つの優れた外観のゲーム モニターをラインナップに追加します。これは、価格を 250 ポンド未満に抑えながら、500 Hz もの高いフレーム レートをサポートするモニターです。
@@ -1845,29 +2008,6 @@ Notion がまだ修正できないと思われる点
 
 私の Notion ワークスペースはここ数年で大幅に拡大し、ページの読み込みに以前よりも著しく時間がかかりました。私のメイン ダッシュボードにはリンクされたデータベースがいくつかあり、それを開くたびに少し時間がかかります。これは些細なことのように思…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/appflowy-database-on-desktop-pc-clock-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="AppFlowyはついに本物のNotionのように感じられ、自己ホストすることで私の最大の不満が解決されました"></p>]]></description><source url="https://www.xda-developers.com/appflowy-feels-like-real-notion-and-self-hosting-fixed-my-biggest-complaint/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/appflowy-database-on-desktop-pc-clock-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/appflowy-database-on-desktop-pc-clock-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>Samsung reveals zHBM: future RAM is stacked above AI accelerator, boasts 8x performance of HBM5 and 3x energy efficiency</title><link>https://www.tweaktown.com/rss/click/news/113011/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113011/?c=news-mf</guid><pubDate>Wed, 05 Aug 2026 14:20:11 +0000</pubDate><description><![CDATA[<p>Samsung reveals zHBM: future RAM is stacked above AI accelerator, boasts 8x performance of HBM5 and 3x energy efficiency</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113011/?c=news-mf">TweakTown</source></item>
-<item><title>MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中</title><link>https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-mentions-of-32-gb-ram-recommendation-for-windows-11</link><guid isPermaLink="true">https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-mentions-of-32-gb-ram-recommendation-for-windows-11</guid><pubDate>Wed, 05 Aug 2026 14:19:21 +0000</pubDate><description><![CDATA[<p>MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中
-
-Microsoft は、新しい PC の構築または購入の推奨事項として 32 GB の RAM について言及したドキュメントおよび資料を Web サイトから遡及的に削除します。代わりに、同社は現在、RAM 構成であっても Windows 11 をスムーズに実行できるように最適化された 8 GB デバイスを重視しています。
-
-MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中
-
-2025 年 8 月 18 日 Microsoft Windows 11 24H2 アップデートにより SSD 障害が発生する可能性がある (278)
-
-2025 年 10 月 21 日 Windows 11 25H2 October Update のバグにより回復環境が使用不能になる (170)
-
-2025 年 10 月 17 日 Microsoft が Windows 11 October Update で Localhost を破壊し、ユーザーは強制的に元に戻される (105)
-
-2026 年 1 月 16 日 NVIDIA が GeForce RTX 5070 Ti の生産を終了、RTX 5060 Ti 16 GB Next (210) と伝えられる
-
-2025 年 10 月 1 日 Microsoft が Windows 11 25H2 をリリース…新機能はゼロ？ (122)
-
-2025 年 12 月 14 日 Microsoft Copilot AI が LG TV に搭載、削除できない (144)
-
-2025 年 10 月 7 日 Microsoft が Windows 11 でのオンライン アカウント バイパスをブロック (162)
-
-2026 年 5 月 1 日 Microsoft は、Windows 11 の「心配しない」アップグレードとして 32 GB RAM を推奨するようになりました (147)
-
-2025 年 8 月 19…</p><p><img src="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg" alt="MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中"></p>]]></description><source url="https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-mentions-of-32-gb-ram-recommendation-for-windows-11">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg"/></item>
 <item><title>Microsoft、Windows 11 向けの 32 GB RAM の推奨をひっそりと削除中</title><link>https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-32-gb-ram-recommendation-for-windows-11</link><guid isPermaLink="true">https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-32-gb-ram-recommendation-for-windows-11</guid><pubDate>Wed, 05 Aug 2026 14:19:21 +0000</pubDate><description><![CDATA[<p>Microsoft、Windows 11 向けの 32 GB RAM の推奨をひっそりと削除中
 
 Microsoft は、新しい PC の構築または購入の推奨事項として 32 GB の RAM について言及したドキュメントおよび資料を Web サイトから遡及的に削除します。代わりに、同社は現在、RAM 構成であっても Windows 11 をスムーズに実行できるように最適化された 8 GB デバイスを重視しています。
@@ -1891,6 +2031,29 @@ Microsoft、Windows 11 向けの 32 GB RAM の推奨をひっそりと削除中
 2026 年 5 月 1 日 Microsoft は、Windows 11 の「心配しない」アップグレードとして 32 GB RAM を推奨するようになりました (147)
 
 2025 年 8 月 19 日 P…</p><p><img src="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg" alt="Microsoft、Windows 11 向けの 32 GB RAM の推奨をひっそりと削除中"></p>]]></description><source url="https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-32-gb-ram-recommendation-for-windows-11">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg"/></item>
+<item><title>MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中</title><link>https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-mentions-of-32-gb-ram-recommendation-for-windows-11</link><guid isPermaLink="true">https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-mentions-of-32-gb-ram-recommendation-for-windows-11</guid><pubDate>Wed, 05 Aug 2026 14:19:21 +0000</pubDate><description><![CDATA[<p>MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中
+
+Microsoft は、新しい PC の構築または購入の推奨事項として 32 GB の RAM について言及したドキュメントおよび資料を Web サイトから遡及的に削除します。代わりに、同社は現在、RAM 構成であっても Windows 11 をスムーズに実行できるように最適化された 8 GB デバイスを重視しています。
+
+MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中
+
+2025 年 8 月 18 日 Microsoft Windows 11 24H2 アップデートにより SSD 障害が発生する可能性がある (278)
+
+2025 年 10 月 21 日 Windows 11 25H2 October Update のバグにより回復環境が使用不能になる (170)
+
+2025 年 10 月 17 日 Microsoft が Windows 11 October Update で Localhost を破壊し、ユーザーは強制的に元に戻される (105)
+
+2026 年 1 月 16 日 NVIDIA が GeForce RTX 5070 Ti の生産を終了、RTX 5060 Ti 16 GB Next (210) と伝えられる
+
+2025 年 10 月 1 日 Microsoft が Windows 11 25H2 をリリース…新機能はゼロ？ (122)
+
+2025 年 12 月 14 日 Microsoft Copilot AI が LG TV に搭載、削除できない (144)
+
+2025 年 10 月 7 日 Microsoft が Windows 11 でのオンライン アカウント バイパスをブロック (162)
+
+2026 年 5 月 1 日 Microsoft は、Windows 11 の「心配しない」アップグレードとして 32 GB RAM を推奨するようになりました (147)
+
+2025 年 8 月 19…</p><p><img src="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg" alt="MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中"></p>]]></description><source url="https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-mentions-of-32-gb-ram-recommendation-for-windows-11">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg"/></item>
 <item><title>2026 年 8 月の新しい Audible オーディオブックのベスト 10</title><link>https://goodereader.com/blog/book-recommendations/the-top-10-best-new-audible-audiobooks-for-august-2026</link><guid isPermaLink="true">https://goodereader.com/blog/book-recommendations/the-top-10-best-new-audible-audiobooks-for-august-2026</guid><pubDate>Wed, 05 Aug 2026 14:17:29 +0000</pubDate><description><![CDATA[<p>2026 年 8 月の新しい Audible オーディオブックのベスト 10
 
 Audible.com で最も期待され、高く評価されている新しいオーディオブックには、スター勢揃いのフルキャストのパフォーマンス、大ヒット作の続編、深い文学小説が含まれています。
@@ -2302,6 +2465,19 @@ Beast of Reインカーネーションは現在正式に利用可能であり、
 Mustafa Mahmoud 1 時間前 注目のテクノロジー ニュース , ソフトウェア &amp; ゲーム , テクノロジー ニュース
 
 過去 30 年間、ほぼポケモンのタイトルだけに取り組んできた後、ゲーム フリークは、このスタジオがこれまでに制作したものとは異なる、ペースが速く、視覚的に印象的なアクション RPG である Beast of Renation を発表し、多くの人を驚かせました。正式リリースと並行して、ゲームのレビューも公開されており、その素晴らしい可能性をわずかに及ばないように見えるゲームが紹介されています。 Metacritic スコア 73 、Open Critic 評価 76 の Beast of Reインカーネーションは、最後のメインライン ポケモン ゲーム (Metacritic スコア 78 の Legends Z-A) の高みには到達できませんでしたが、2022 年のポケモン スカーレットとバイオレット (71 を達成) をなんとか打ち負かしました。 「ゲームフリークの驚くほど強力なアクションタイトル」と評される。スタジオにとっての「大胆な新たな一歩」であり、「堅固だが公正な戦闘」を備えた「説得力のある」作品である『Beast of Reインカーネーション』は、かなりの成果を上げているようだ。残念ながら、すべてが完璧というわけではなく、このゲームの主な問題のいくつかは野心的すぎることです。すべての人の共感を呼ぶものではなかった物語。そしてやや味気ないレベルデザイン。 『ポケットモンスター』と『ビースト・オブ・リインカーネーション』の間では、ほぼ全面的に品質が明らかに向上している。ただし、ポケモンとは異なり、B…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/08/beast-732x330.jpg" alt="ゲームフリークの『Beast of Reinationnation』が好評発売中"></p>]]></description><source url="https://www.kitguru.net/tech-news/mustafa-mahmoud/game-freaks-beast-of-reincarnation-launches-to-solid-reviews/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/08/beast-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/08/beast-732x330.jpg"/></item>
+<item><title>カメラのハードウェアは USB-C と物理的に同等になる可能性がありますか?</title><link>https://hackaday.com/2026/08/05/could-camera-hardware-be-the-physical-equivalent-to-usb-c/</link><guid isPermaLink="true">https://hackaday.com/2026/08/05/could-camera-hardware-be-the-physical-equivalent-to-usb-c/</guid><pubDate>Wed, 05 Aug 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>カメラのハードウェアは USB-C と物理的に同等になる可能性がありますか?
+
+[マンスール] はエッセイ「A Common Thread」で興味深いアイデアを提示しています。USB-C がエレクトロニクスの世界で「すべてを支配する 1 つのコネクタ」になったのと同じように、彼の…
+
+[マンスール] はエッセイ「A Common Thread」で興味深いアイデアを提示しています。エレクトロニクスの世界で USB-C が「すべてを支配する 1 つのコネクタ」になったのと同じように、彼のプロジェクトにも統一された物理接続層が必要です。言ってみれば、共通の話題。
+
+具体的には、彼のすべてのカメラ機器にすでに搭載されていた 1/4 インチ-20 UNC コネクタです。そのコネクターを中心に彼のものを統合することは、青い脳波からのボルトではありませんでした。聞いてみると、このアイデアは時間の経過とともに進化し、彼がすでにそれを使い始めてから初めて意図的になったことがわかりました。
+
+ただし、それには言うべきことがあります。 1 つは、さまざまな小物がレゴで作られたかのように組み立てられることがわかって便利なことです。もう 1 つは、設計プロセスでの一連の決定を取り除くことです。1/4 インチ-20 UNC フィッティングを使用することになるため、[マンスール] は、それを材料にねじ込むかどうか、またはインセットまたはキャプティブ ボルトを使用するかどうかを決定するだけで済みます。
+
+1/4 インチのボルトが、私たちが作るほとんどのものに弱点をもたらすわけではありません。優れたハードウェアを使用すると、1 トン以上の時間がかかる場合があります。一方で、トルクに対する耐性は必ずしも高いわけではありませんが、[マンスール] のカメラ バッグにはそれに対する答えもありました。バネ仕掛けのロケーター ピンがメス側の穴に落ちてトルクを受け止めます。写真の世界では、これらは AARI ピンです。私たちにとって、それらは良いアイデアのように思えます。
+
+カスタムマウントとブラケットのために毎回ホ…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/camera-mount-connector.jpeg" alt="カメラのハードウェアは USB-C と物理的に同等になる可能性がありますか?"></p>]]></description><source url="https://hackaday.com/2026/08/05/could-camera-hardware-be-the-physical-equivalent-to-usb-c/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/camera-mount-connector.jpeg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/camera-mount-connector.jpeg"/></item>
 <item><title>Montech TG3 パノラミック ミッドタワー ケース レビュー: 4 つの RGB ファンとパノラマ ビューを備えた素晴らしい価値</title><link>https://www.tomshardware.com/pc-components/pc-cases/montech-tg3-panoramic-mid-tower-case-review</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/pc-cases/montech-tg3-panoramic-mid-tower-case-review</guid><pubDate>Wed, 05 Aug 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>Montech TG3 パノラミック ミッドタワー ケース レビュー: 4 つの RGB ファンとパノラマ ビューを備えた素晴らしい価値
 
 4 つのファンを備え、見た目も感触も安っぽくない、60 ドルのパノラマ ミッドタワー ケースですか?はい、お願いします。
@@ -2323,19 +2499,6 @@ Tom&#39;s Hardware を信頼できる理由 当社の専門レビュー担当者
 私たちは今年初めに Computex で Montech の TG3 ケースを初めて発見しました。このパノラマミッドタワーシャーシは、スモークサイドとフロントパネルガラスを通して内部の全景を眺めることができ、階層型の底部レイアウトと、盛り上がった電源チャンバーの周囲にある ARGB 照明ストリップを備えています。側面の吸気は高エアフローの恩恵にはなりませんが、このケースは電力を大量に消費するコンポーネント、少なくとも CPU を使用したテストでは良好なパフォーマンスを示し、新しいテスト ハードウェアを使用した最高の空冷温度の一部を提供しました。 4 つのファン (1 つはフルフレーム 360mm なので、厳密には 2 つ) を含む価格は 59.90 ドルで、予算のミッドタワー スペースでは非常に価値があります。
 
 TG3 の内部には、工場で提供されるエアフローのために、側面にユニボディ リバース ファン (3x120mm) と背面に 1 つ…</p><p><img src="https://cdn.mos.cms.futurecdn.net/VKjspJqHmJ8jPsMafvb8yZ-1920-80.jpg" alt="Montech TG3 パノラミック ミッドタワー ケース レビュー: 4 つの RGB ファンとパノラマ ビューを備えた素晴らしい価値"></p>]]></description><source url="https://www.tomshardware.com/pc-components/pc-cases/montech-tg3-panoramic-mid-tower-case-review">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/VKjspJqHmJ8jPsMafvb8yZ-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/VKjspJqHmJ8jPsMafvb8yZ-1920-80.jpg"/></item>
-<item><title>カメラのハードウェアは USB-C と物理的に同等になる可能性がありますか?</title><link>https://hackaday.com/2026/08/05/could-camera-hardware-be-the-physical-equivalent-to-usb-c/</link><guid isPermaLink="true">https://hackaday.com/2026/08/05/could-camera-hardware-be-the-physical-equivalent-to-usb-c/</guid><pubDate>Wed, 05 Aug 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>カメラのハードウェアは USB-C と物理的に同等になる可能性がありますか?
-
-[マンスール] はエッセイ「A Common Thread」で興味深いアイデアを提示しています。USB-C がエレクトロニクスの世界で「すべてを支配する 1 つのコネクタ」になったのと同じように、彼の…
-
-[マンスール] はエッセイ「A Common Thread」で興味深いアイデアを提示しています。エレクトロニクスの世界で USB-C が「すべてを支配する 1 つのコネクタ」になったのと同じように、彼のプロジェクトにも統一された物理接続層が必要です。言ってみれば、共通の話題。
-
-具体的には、彼のすべてのカメラ機器にすでに搭載されていた 1/4 インチ-20 UNC コネクタです。そのコネクターを中心に彼のものを統合することは、青い脳波からのボルトではありませんでした。聞いてみると、このアイデアは時間の経過とともに進化し、彼がすでにそれを使い始めてから初めて意図的になったことがわかりました。
-
-ただし、それには言うべきことがあります。 1 つは、さまざまな小物がレゴで作られたかのように組み立てられることがわかって便利なことです。もう 1 つは、設計プロセスでの一連の決定を取り除くことです。1/4 インチ-20 UNC フィッティングを使用することになるため、[マンスール] は、それを材料にねじ込むかどうか、またはインセットまたはキャプティブ ボルトを使用するかどうかを決定するだけで済みます。
-
-1/4 インチのボルトが、私たちが作るほとんどのものに弱点をもたらすわけではありません。優れたハードウェアを使用すると、1 トン以上の時間がかかる場合があります。一方で、トルクに対する耐性は必ずしも高いわけではありませんが、[マンスール] のカメラ バッグにはそれに対する答えもありました。バネ仕掛けのロケーター ピンがメス側の穴に落ちてトルクを受け止めます。写真の世界では、これらは AARI ピンです。私たちにとって、それらは良いアイデアのように思えます。
-
-カスタムマウントとブラケットのために毎回ホ…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/camera-mount-connector.jpeg" alt="カメラのハードウェアは USB-C と物理的に同等になる可能性がありますか?"></p>]]></description><source url="https://hackaday.com/2026/08/05/could-camera-hardware-be-the-physical-equivalent-to-usb-c/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/camera-mount-connector.jpeg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/camera-mount-connector.jpeg"/></item>
 <item><title>Google フォトでは、コレクションを好みに合わせてカスタマイズできるようになる予定です</title><link>https://www.androidauthority.com/google-photos-customize-collections-3694702/</link><guid isPermaLink="true">https://www.androidauthority.com/google-photos-customize-collections-3694702/</guid><pubDate>Wed, 05 Aug 2026 10:52:39 +0000</pubDate><description><![CDATA[<p>Google フォトでは、コレクションを好みに合わせてカスタマイズできるようになる予定です
 
 Google は、ユーザーが [コレクション] タブをカスタマイズできる新機能の開発に取り組んでいます。 Google フォトの UI も調整されています。
@@ -5266,13 +5429,6 @@ Anker 100W Max 充電器が 3 ポートとスマート ディスプレイ付き�
 Anker のコンパクトな 100W GaN 壁面充電器には、USB-C 2 つと USB-A 1 つの 3 つのポートが付いています。どちらの USB-C ポートも単独で最大 100 W を供給できるため、より大型の電源ブリックを必要とせずに、多くのラップトップ、タブレット、電話に対応できます。そのため、旅行、デスクでの使用、または自宅の共有コンセントとして便利です。
 
 内蔵のスマートディスプレイは便利な追加機能です。リアルタイムの充電出力、温度、ポートのアクティビティが表示されるため、推測するのではなく、何が起こっているかを確認できます。この充電器には折りたたみ可能なプラグがあり、マルチポート 100W 充電器としては非常に小さい設計となっているため、荷物を軽くするときに役立ちま…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/Anker-100W-Max-3-Port-GaN-Charger-Press-Image.jpg" alt="Anker 100W Max 充電器が 3 ポートとスマート ディスプレイ付きで 49.99 ドルに値下げ"></p>]]></description><source url="https://www.androidauthority.com/anker-100w-max-charger-3693961/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/Anker-100W-Max-3-Port-GaN-Charger-Press-Image.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/Anker-100W-Max-3-Port-GaN-Charger-Press-Image.jpg"/></item>
-<item><title>AMD「Gorgon Halo」APUがベンチマークに登場</title><link>https://www.kitguru.net/components/apu-components/joao-silva/amd-gorgon-halo-apu-appears-in-benchmark/</link><guid isPermaLink="true">https://www.kitguru.net/components/apu-components/joao-silva/amd-gorgon-halo-apu-appears-in-benchmark/</guid><pubDate>Mon, 03 Aug 2026 16:00:40 +0000</pubDate><description><![CDATA[<p>AMD「Gorgon Halo」APUがベンチマークに登場
-
-AMD の Ryzen AI Max+ Pro 495 APU に属するとされるパフォーマンス指標が Geekbench 7 データベースに掲載されました。 Gorgon Halo プロセッサは、96 GB の RAM を搭載した 16 インチのモバイル ワークステーションである HP ZBook Ultra G3a 内でテストされたようです。
-
-AMD「Gorgon Halo」APUがベンチマークに登場
-
-AMD の Ryzen AI Max+ Pro 495 APU に属するとされるパフォーマンス指標が Geekbench 7 データベースに掲載されました。 Gorgon Halo プロセッサは、96 GB の RAM を搭載した 16 インチのモバイル ワークステーションである HP ZBook Ultra G3a 内でテストされたようです。 Gray が発見した Geekbench 7 のリスト (VideoCardz 経由) では、APU はシングルコア テストで 2593 ポイント、マルチコア テストで 26816 ポイントのスコアを達成しました。クロック監視では、チップが 5207MHz のブースト周波数で動作していることを記録しました。これは、5.2GHz のブースト クロックをリストする AMD の公式仕様と一致します。このリストでは、以前の Max+ Pro 395 のコア レイアウトを反映し、3.1 GHz のベース クロックで動作する 16 コアおよび 32 スレッドの構成が明らかになりました。これは、5 月に以前に発表された PassMark に続くもので、192 GB の RAM を搭載した同様の HP マシン内でプロセッサのベンチマークが行われました。統合グラフィックス機能は、RDNA3.5 アーキテクチャに基づく Radeon 8065S に依存しています。 AMD の公式詳細では、Gorgon Halo アーキテクチャが最大 16 コアと 32 スレッド、5.2 GHz ブー…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2025/11/3020400-ryzen-ai-max-product-732x330.jpg" alt="AMD「Gorgon Halo」APUがベンチマークに登場"></p>]]></description><source url="https://www.kitguru.net/components/apu-components/joao-silva/amd-gorgon-halo-apu-appears-in-benchmark/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2025/11/3020400-ryzen-ai-max-product-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2025/11/3020400-ryzen-ai-max-product-732x330.jpg"/></item>
 <item><title>ソニー WH-1000XM6 に豪華な新カラーオプションが追加されました</title><link>https://www.androidauthority.com/sony-wh-1000xm6-new-color-variant-3693875/</link><guid isPermaLink="true">https://www.androidauthority.com/sony-wh-1000xm6-new-color-variant-3693875/</guid><pubDate>Mon, 03 Aug 2026 16:00:40 +0000</pubDate><description><![CDATA[<p>ソニー WH-1000XM6 に豪華な新カラーオプションが追加されました
 
 ソニーの主力ヘッドフォン WH-1000XM6 が、新しいオリーブ グレー仕上げで登場し、新鮮な外観をもたらします。外観は次のとおりです。
@@ -5294,6 +5450,13 @@ Android Authority のアフィリエイト リンクにより、手数料が発�
 Sony 新色は、既存のブラック、シルバー、ミッドナイト ブルー、サンド ピンク、サンドストーンのオプションに加わります。プレーンなグレーではなく、落ち着いたグリーンのアンダートーンを持ち、より控えめで高級な外観を与えます。溶け込むガジェットがお好みなら、これが XM6 の最も魅力的なバージョンになるでしょう。
 
 個人的には、ソニーがこのシリーズでリリースした色のオプションの中で最も見栄えの良いものの 1 …</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/Sony-WH-1000XM6-new-Olive-Gray-color-worn-by-a-person.jpg" alt="ソニー WH-1000XM6 に豪華な新カラーオプションが追加されました"></p>]]></description><source url="https://www.androidauthority.com/sony-wh-1000xm6-new-color-variant-3693875/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/Sony-WH-1000XM6-new-Olive-Gray-color-worn-by-a-person.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/Sony-WH-1000XM6-new-Olive-Gray-color-worn-by-a-person.jpg"/></item>
+<item><title>AMD「Gorgon Halo」APUがベンチマークに登場</title><link>https://www.kitguru.net/components/apu-components/joao-silva/amd-gorgon-halo-apu-appears-in-benchmark/</link><guid isPermaLink="true">https://www.kitguru.net/components/apu-components/joao-silva/amd-gorgon-halo-apu-appears-in-benchmark/</guid><pubDate>Mon, 03 Aug 2026 16:00:40 +0000</pubDate><description><![CDATA[<p>AMD「Gorgon Halo」APUがベンチマークに登場
+
+AMD の Ryzen AI Max+ Pro 495 APU に属するとされるパフォーマンス指標が Geekbench 7 データベースに掲載されました。 Gorgon Halo プロセッサは、96 GB の RAM を搭載した 16 インチのモバイル ワークステーションである HP ZBook Ultra G3a 内でテストされたようです。
+
+AMD「Gorgon Halo」APUがベンチマークに登場
+
+AMD の Ryzen AI Max+ Pro 495 APU に属するとされるパフォーマンス指標が Geekbench 7 データベースに掲載されました。 Gorgon Halo プロセッサは、96 GB の RAM を搭載した 16 インチのモバイル ワークステーションである HP ZBook Ultra G3a 内でテストされたようです。 Gray が発見した Geekbench 7 のリスト (VideoCardz 経由) では、APU はシングルコア テストで 2593 ポイント、マルチコア テストで 26816 ポイントのスコアを達成しました。クロック監視では、チップが 5207MHz のブースト周波数で動作していることを記録しました。これは、5.2GHz のブースト クロックをリストする AMD の公式仕様と一致します。このリストでは、以前の Max+ Pro 395 のコア レイアウトを反映し、3.1 GHz のベース クロックで動作する 16 コアおよび 32 スレッドの構成が明らかになりました。これは、5 月に以前に発表された PassMark に続くもので、192 GB の RAM を搭載した同様の HP マシン内でプロセッサのベンチマークが行われました。統合グラフィックス機能は、RDNA3.5 アーキテクチャに基づく Radeon 8065S に依存しています。 AMD の公式詳細では、Gorgon Halo アーキテクチャが最大 16 コアと 32 スレッド、5.2 GHz ブー…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2025/11/3020400-ryzen-ai-max-product-732x330.jpg" alt="AMD「Gorgon Halo」APUがベンチマークに登場"></p>]]></description><source url="https://www.kitguru.net/components/apu-components/joao-silva/amd-gorgon-halo-apu-appears-in-benchmark/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2025/11/3020400-ryzen-ai-max-product-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2025/11/3020400-ryzen-ai-max-product-732x330.jpg"/></item>
 <item><title>あなたのモニターのピクセル レイアウトはおそらく間違っています - Alienware の新しいモニターが異なる理由はここにあります</title><link>https://www.xda-developers.com/alienware-aw3426dw-review/</link><guid isPermaLink="true">https://www.xda-developers.com/alienware-aw3426dw-review/</guid><pubDate>Mon, 03 Aug 2026 16:00:10 +0000</pubDate><description><![CDATA[<p>あなたのモニターのピクセル レイアウトはおそらく間違っています - Alienware の新しいモニターが異なる理由はここにあります
 
 RGB ストライプは OLED ファンにとって大きな変革をもたらします
@@ -5474,8 +5637,8 @@ Xbox はしばらくの間、ディスクからデジタルへの変換機能に
 私の Raspberry Pi Zero 2 W は実際のサーバーとしては弱すぎますが、サブスクリプションキラーとしては完璧です
 
 By Abhishek Kumar Mishra 公開 2026 年 8 月 3 日、午前 11:00 EDT アビシェクは、コンピューティングをカバーする XDA の著者です。 2012 年に Lenovo G570 を購入して以来、彼はコンピューターが大好きです。アビシェクはコンピューター アプリケーションの修士号を取得し、2018 年に執筆活動を始めました。人気のあるオペレーティング システムや Web サービスに関するハウツー記事、リスト、情報投稿を書くのが大好きです。彼は Windows Insider プログラムを注意深くフォローし、新しい Insider ビルドをテストして、今後の実験的な機能やアップグレードを発見します。彼のこれまでの仕事には、「Tom&#39;s Hardware」や「Windows Most」などの評判の高い出版物との長期にわたるコラボレーションが含まれます。何も書いていないときは、ワンピースの新しいエピソードを見たり、夢中になれる何かを探したりして忙しいです。 XDA アカウントにサインインする ホーム サーバーの構築を考えるとき、Raspberry Pi Zero は決して頭に浮かびません。確かに、これは最も強力なわけではありませんし、一連の中で最高の I/O オプションを備えているわけでもありません。強力なサーバーについて考えるとき、Pi 4B または 5 が最も現実的な選択肢です。 Pi Zero 2 W には 512 MB の DDR2 メモリしか搭載されておらず、SSD スロットや高速世代の USB ポートはありません。しかし、これらの欠点があっ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/09/raspberry-pi-zero.jpg?w=1600&amp;h=900&amp;fit=crop" alt="私の Raspberry Pi Zero 2 W は実際のサーバーとしては弱すぎますが、サブスクリプションキラーとしては完璧です"></p>]]></description><source url="https://www.xda-developers.com/raspberry-pi-zero-2-w-is-a-perfect-subscription-killer/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/09/raspberry-pi-zero.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/09/raspberry-pi-zero.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>(PR) GameSir Launches Tarantula 8K PC Wired Esports Controller with 8000Hz Polling Rate and Gen-2 TMR Sticks</title><link>https://www.techpowerup.com/351319/gamesir-launches-tarantula-8k-pc-wired-esports-controller-with-8000hz-polling-rate-and-gen-2-tmr-sticks</link><guid isPermaLink="true">https://www.techpowerup.com/351319/gamesir-launches-tarantula-8k-pc-wired-esports-controller-with-8000hz-polling-rate-and-gen-2-tmr-sticks</guid><pubDate>Mon, 03 Aug 2026 14:56:46 +0000</pubDate><description><![CDATA[<p>(PR) GameSir Launches Tarantula 8K PC Wired Esports Controller with 8000Hz Polling Rate and Gen-2 TMR Sticks</p>]]></description><source url="https://www.techpowerup.com/351319/gamesir-launches-tarantula-8k-pc-wired-esports-controller-with-8000hz-polling-rate-and-gen-2-tmr-sticks">TechPowerUp</source></item>
 <item><title>(PR) GameSir Launches Tarantula 8K PC Wired Esports Controller with 8000 Hz Polling Rate and Gen-2 TMR Sticks</title><link>https://www.techpowerup.com/351319/gamesir-launches-tarantula-8k-pc-wired-esports-controller-with-8000-hz-polling-rate-and-gen-2-tmr-sticks</link><guid isPermaLink="true">https://www.techpowerup.com/351319/gamesir-launches-tarantula-8k-pc-wired-esports-controller-with-8000-hz-polling-rate-and-gen-2-tmr-sticks</guid><pubDate>Mon, 03 Aug 2026 14:56:46 +0000</pubDate><description><![CDATA[<p>(PR) GameSir Launches Tarantula 8K PC Wired Esports Controller with 8000 Hz Polling Rate and Gen-2 TMR Sticks</p>]]></description><source url="https://www.techpowerup.com/351319/gamesir-launches-tarantula-8k-pc-wired-esports-controller-with-8000-hz-polling-rate-and-gen-2-tmr-sticks">TechPowerUp</source></item>
+<item><title>(PR) GameSir Launches Tarantula 8K PC Wired Esports Controller with 8000Hz Polling Rate and Gen-2 TMR Sticks</title><link>https://www.techpowerup.com/351319/gamesir-launches-tarantula-8k-pc-wired-esports-controller-with-8000hz-polling-rate-and-gen-2-tmr-sticks</link><guid isPermaLink="true">https://www.techpowerup.com/351319/gamesir-launches-tarantula-8k-pc-wired-esports-controller-with-8000hz-polling-rate-and-gen-2-tmr-sticks</guid><pubDate>Mon, 03 Aug 2026 14:56:46 +0000</pubDate><description><![CDATA[<p>(PR) GameSir Launches Tarantula 8K PC Wired Esports Controller with 8000Hz Polling Rate and Gen-2 TMR Sticks</p>]]></description><source url="https://www.techpowerup.com/351319/gamesir-launches-tarantula-8k-pc-wired-esports-controller-with-8000hz-polling-rate-and-gen-2-tmr-sticks">TechPowerUp</source></item>
 <item><title>While Everyone&#39;s Chasing AI Coding Agents, This IDE Is $30 for Life</title><link>https://www.techpowerup.com/351313/while-everyones-chasing-ai-coding-agents-this-ide-is-usd-30-for-life</link><guid isPermaLink="true">https://www.techpowerup.com/351313/while-everyones-chasing-ai-coding-agents-this-ide-is-usd-30-for-life</guid><pubDate>Mon, 03 Aug 2026 14:52:01 +0000</pubDate><description><![CDATA[<p>While Everyone&#39;s Chasing AI Coding Agents, This IDE Is $30 for Life</p>]]></description><source url="https://www.techpowerup.com/351313/while-everyones-chasing-ai-coding-agents-this-ide-is-usd-30-for-life">TechPowerUp</source></item>
 <item><title>Lexar、国産の中国製チップを搭載した 32GB DDR5 メモリをリスト - 3,999 元 (592 ドル) の価格は、より安価な CXMT 搭載 RAM への期待を裏切る</title><link>https://www.tomshardware.com/pc-components/ddr5/lexar-lists-32gb-ddr5-memory-with-homegrown-chinese-chips-3-999-yuan-usd592-price-undercuts-hopes-for-cheaper-cxmt-powered-ram</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/ddr5/lexar-lists-32gb-ddr5-memory-with-homegrown-chinese-chips-3-999-yuan-usd592-price-undercuts-hopes-for-cheaper-cxmt-powered-ram</guid><pubDate>Mon, 03 Aug 2026 14:51:09 +0000</pubDate><description><![CDATA[<p>Lexar、国産の中国製チップを搭載した 32GB DDR5 メモリをリスト - 3,999 元 (592 ドル) の価格は、より安価な CXMT 搭載 RAM への期待を裏切る
 
@@ -6306,179 +6469,4 @@ GPU と CPU の低電圧化により、一銭も費やすことなくノイズ�
 ゲーミング PC は、今にも起動しそうな音で評判になる傾向がありますが、私は長い間、それは単に最新のハードウェアを推し進める代償だと思っていました。ここでの明白な解決策には、より静かなファン、より大きな CPU クーラー、さらにはより多くのエアフローを可能にする新しいケースにお金を費やすことが常に含まれているように思えます。しかし、私の NZXT H9 Flow には、AIO クーラーの 3 つを含む 10 個のファンがすでに搭載されていることを考えると、お金をかけることは検討の対象ではありませんでした。
 
 そのため、私は 1 つの週末を費やして、設定、メンテナンス…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/ryzen-master-utility-next-to-open-pc-case-with-gpu.jpg?w=1600&amp;h=900&amp;fit=crop" alt="1 ペニーも費やすことなく、ゲーミング PC を劇的に静かにするのに 1 週​​間かかりました"></p>]]></description><source url="https://www.xda-developers.com/i-made-my-gaming-pc-dramatically-quieter-without-spending-a-penny/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/ryzen-master-utility-next-to-open-pc-case-with-gpu.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/ryzen-master-utility-next-to-open-pc-case-with-gpu.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>Gemma 4 E2B は、Raspberry Pi サイズの LLM がもうひどいものである必要がないことを証明しています</title><link>https://www.xda-developers.com/gemma-4-e2b-proves-raspberry-pi-llms-dont-have-to-be-terrible/</link><guid isPermaLink="true">https://www.xda-developers.com/gemma-4-e2b-proves-raspberry-pi-llms-dont-have-to-be-terrible/</guid><pubDate>Sun, 02 Aug 2026 18:00:10 +0000</pubDate><description><![CDATA[<p>Gemma 4 E2B は、Raspberry Pi サイズの LLM がもうひどいものである必要がないことを証明しています
-
-それ
-
-Gemma 4 E2B は、Raspberry Pi サイズの LLM がもうひどいものである必要がないことを証明しています
-
-By Ayush Pande 公開日 2026 年 8 月 2 日、午後 2:00 EDT Ayush Pande は、PC ハードウェアおよびゲームのライターです。彼が新しい記事に取り組んでいないときは、頭を PC の中に閉じ込めたり、サーバーのオペレーティング システムをいじったりしているのを見かけることがあります。コンピューティングのほかに、彼の興味には、長い RPG に何時間も費やすこと、協力ゲームで友達に怒鳴りつけること、ギターを練習することなどがあります。 XDA アカウントにサインインする 生産性を向上させる大規模な言語モデルを実行する場合、選択できるオプションはたくさんあります。残念ながら、現実のタスクに適切な推論機能を備えた LLM は、通常、クラウド上でのみ実行できます。あなたも私と同じなら、おそらく、プライバシーを侵害し、サブスクリプションの多いクラウド モデルに依存することはあまり好きではなく、費用対効果の高い代替手段としてローカルの LLM ホスティング セットアップを残しているでしょう。
-
-専門家混合モデルは、VRAM に制約のあるグラフィックス カードで数十のパラメータを持つかさばる LLM に対応する優れた方法です。ただし、MoE モデルを実行するには十分な VRAM + システム メモリが必要なため、予算のハードウェアでホストするのは少し難しくなります。小型モデルが強力な 20B 以上のモデルに取って代わることができるとまでは言いませんが、最近、軽い生産性タスクには十分な LLM をいくつか見つけました。より具体的に言うと、Gemma 4 ラインナップの超軽量モデルについて話しています。特に E2B バージョンは、Raspberry Pi に収まるほど小さいにもかかわらず、非常…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/gemma-4-e2b-raspberry-pi-7.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Gemma 4 E2B は、Raspberry Pi サイズの LLM がもうひどいものである必要がないことを証明しています"></p>]]></description><source url="https://www.xda-developers.com/gemma-4-e2b-proves-raspberry-pi-llms-dont-have-to-be-terrible/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/gemma-4-e2b-raspberry-pi-7.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/gemma-4-e2b-raspberry-pi-7.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>ルーターの DNS 設定を 1 つ変更したら、スマート ホームが憑依動作を停止しました</title><link>https://www.xda-developers.com/changed-one-dns-setting-on-router-smart-home-stopped-acting-possessed/</link><guid isPermaLink="true">https://www.xda-developers.com/changed-one-dns-setting-on-router-smart-home-stopped-acting-possessed/</guid><pubDate>Sun, 02 Aug 2026 17:30:10 +0000</pubDate><description><![CDATA[<p>ルーターの DNS 設定を 1 つ変更したら、スマート ホームが憑依動作を停止しました
-
-あなたのスマートホームは
-
-ルーターの DNS 設定を 1 つ変更したら、スマート ホームが憑依動作を停止しました
-
-By Jasmine Mannan 公開 2026 年 8 月 2 日、午後 1 時 30 分 EDT Jasmine は XDA のソフトウェアおよび PC ハードウェアの著者で、AI チャットボットからゲーム ハードウェアに至るまで、長年にわたる技術レポートの経験があり、ほぼすべてをカバーしています。最新の AMD NPU に関する速報ニュースであれ、ソーシャル メディア プラットフォームでのビデオ チュートリアルの作成であれ、Jasmine は、Razer の CEO、AMD の製品マーケティング ディレクター、Lenovo の副社長へのインタビューなど、さまざまな方法で AI とテクノロジーの世界に貢献してきました。ゲームと PC テクノロジーに情熱を持っている彼女は、数え切れないほどのコンピューター、キーボード、その他の周辺機器を構築し、それらを隅々まで知り尽くしています。 XDA アカウントにサインインする 肥大化したスマート ホームの背後にある現実には、アプリ内でスマート ライトがランダムにオフラインになったり、ローカル ホーム アシスタントのダッシュボードに黄色の警告アイコンが表示されたり、音声アシスタントがローカル デバイスにアクセスできないと主張したり、スマート スイッチが電球を切り替えるのに 10 秒以上かかったりする可能性があります。一般的なトラブルシューティング ルーチンは、スマート ハブの電源を入れ直したり、Zigbee コーディネーターを交換したり、2.4 GHz Wi-Fi 干渉のせいにしたり、信号強度を修正するためにメッシュ ルーターを購入したりすることもあります。
-
-ただし、技術的な原因は DNS 解決の失敗である可能性があり、これは Wi-Fi スマート デバイスやローカル統合ハブに当てはまる可能性があります。ローカル ハブが内…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2023/07/tp-link-archer-be800-review-close-display.jpg?w=1600&amp;h=900&amp;fit=crop" alt="ルーターの DNS 設定を 1 つ変更したら、スマート ホームが憑依動作を停止しました"></p>]]></description><source url="https://www.xda-developers.com/changed-one-dns-setting-on-router-smart-home-stopped-acting-possessed/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2023/07/tp-link-archer-be800-review-close-display.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2023/07/tp-link-archer-be800-review-close-display.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>プレミアム価格なしでも優れたサウンドと快適さ: Akko Verge S9 Ultra ゲーミング ヘッドセットのレビュー</title><link>https://www.notebookcheck.net/Good-sound-and-comfort-without-the-premium-price-Akko-Verge-S9-Ultra-gaming-headset-review.1358277.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/Good-sound-and-comfort-without-the-premium-price-Akko-Verge-S9-Ultra-gaming-headset-review.1358277.0.html</guid><pubDate>Sun, 02 Aug 2026 17:15:00 +0000</pubDate><description><![CDATA[<p>プレミアム価格なしでも優れたサウンドと快適さ: Akko Verge S9 Ultra ゲーミング ヘッドセットのレビュー
-
-Akko Verge S9 Ultra は、基本を少し超えたお手頃価格のワイヤレス ヘッドフォンです。快適性を追求したビルドと優れたサウンドのドライバーを備えていますが、有線モードは利用できません。バンドルされているソフトウェアも機能が満載です。
-
-評決 – 快適でサウンドも良いが、妥協がないわけではない
-
-Akko Verge S9 Ultra は、手頃な価格のワイヤレス ゲーミング ヘッドセットとして重要な要素のほとんどを備えています。有能なドライバーのセットアップ、快適性を重視した構造、そして洗練された全体的なデザインがあります。 2.4GHz モードではオーディオ遅延が短く、ソフトウェアでは追加のオーディオカスタマイズが可能です。取り外し可能なマイクでも、比較的低ノイズで音声を録音できます。
-
-ただし、いくつかの妥協点もあります。イヤーパッドはスエード革なので熱くなりますが、遮音性は良好です。 Bluetooth モードにはマルチポイント サポートがなく、3.5 mm 有線モードもありません。
-
-それでも、3.5mm 有線オーディオが優先事項ではない場合、Verge S9 Ultra は、全体的に洗練された外観を備えた、バランスのとれたワイヤレス ゲーミング ヘッドフォンとして機能します。
-
-Akko Verge S9 Ultra は 4 色のオプションがあり、ワイヤレス ヘッドフォンは Amazon と公式ウェブサイトの両方で購入できます。小売価格は 59.99 ドルですが、時々セールになり、通常は 44.99 ドルに下がります。
-
-Akko の Verge S9 Ultra は手頃な価格ですが、ビルドの品質は別の物語を語ります
-
-ヘッドフォンの音質は良く、ゲーム固有のプリセットは便利です
-
-Bluetooth モードと 2.4GHz モードはありますが、3.5mm 有線モードは利用できません
-
-バッテリー寿命はまあまあで、マイクはその…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Akko-Verge-S9-Ultra-review.jpg" alt="プレミアム価格なしでも優れたサウンドと快適さ: Akko Verge S9 Ultra ゲーミング ヘッドセットのレビュー"></p>]]></description><source url="https://www.notebookcheck.net/Good-sound-and-comfort-without-the-premium-price-Akko-Verge-S9-Ultra-gaming-headset-review.1358277.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Akko-Verge-S9-Ultra-review.jpg" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Akko-Verge-S9-Ultra-review.jpg"/></item>
-<item><title>果物をエチレンとエタン冷媒に変える</title><link>https://hackaday.com/2026/08/02/turning-fruits-into-ethylene-and-ethane-refrigerant/</link><guid isPermaLink="true">https://hackaday.com/2026/08/02/turning-fruits-into-ethylene-and-ethane-refrigerant/</guid><pubDate>Sun, 02 Aug 2026 17:00:23 +0000</pubDate><description><![CDATA[<p>果物をエチレンとエタン冷媒に変える
-
-DIY 化学および物理学プロジェクトの最も良い点の 1 つは、[ハイパースペース パイレーツ] のイーサリアムでの冒険など、サプライ チェーンのどの時点で開始するかを決定できることです。
-
-DIY 化学および物理学プロジェクトの最も良い点の 1 つは、[ハイパースペース パイレーツ] の砂糖発酵からのエタノール生産の冒険など、サプライ チェーンのどの時点で開始するかを決定できることです。確かに、店で砂糖と酵母のパックを買って、世界がマッドマックスの時代を迎えるとこれが役に立つとふりをすることもできますが、果物など、実際に木に生えるものから始めたほうがよいでしょう。
-
-このようにして生成されたエタノールは、燃焼エンジンなどでエタノール燃料として使用できますが、エタノールをエチレンとエタンに変換することもできます。そうすれば、外の世界が非常に疑わしいファッションの選択に傾く中、冷蔵庫、冷凍庫、エアコンを満タンにして、生鮮食品と自分自身を新鮮に保つことができます。
-
-このようなシナリオ以外でも、エタンやエチレンを自前で生成することは、これらの冷媒のコストを考えると理にかなっています。エタノールを入手したら、350℃の酸化アルミニウム触媒でエチレンと水を生成するのに十分です。エタンの生成は確かにもう少し複雑で、酢酸を生成するために酢酸菌を必要とし、重曹、白金陽極、その他いくつかの複雑な作業が必要です。
-
-次のステップとして、エチレンからブテンやさらに長い鎖を生成することも可能ですが、これはエタノールからエタンを生成するよりも困難になるため、簡単な成果がすべて収穫された後の将来のアップデートでこれが登場する可能性があります。</p><p><img src="https://hackaday.com/wp-content/uploads/2026/07/fruit_mix_ethanol_refrigerant_hyperspace_pirate_youtube.jpg" alt="果物をエチレンとエタン冷媒に変える"></p>]]></description><source url="https://hackaday.com/2026/08/02/turning-fruits-into-ethylene-and-ethane-refrigerant/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/07/fruit_mix_ethanol_refrigerant_hyperspace_pirate_youtube.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/07/fruit_mix_ethanol_refrigerant_hyperspace_pirate_youtube.jpg"/></item>
-<item><title>この 1 つの無料オープンソース ツールが、私が何年も使用してきた 3 つの有料アプリを置き換えました</title><link>https://www.xda-developers.com/free-only-office-replaced-three-paid-apps/</link><guid isPermaLink="true">https://www.xda-developers.com/free-only-office-replaced-three-paid-apps/</guid><pubDate>Sun, 02 Aug 2026 17:00:10 +0000</pubDate><description><![CDATA[<p>この 1 つの無料オープンソース ツールが、私が何年も使用してきた 3 つの有料アプリを置き換えました
-
-無料のオフィス スイートには常に妥協が伴うものだと思っていましたが、このオープンソース ツールによって、私が完全に間違っていたことが分かりました。
-
-この 1 つの無料オープンソース ツールが、私が何年も使用してきた 3 つの有料アプリを置き換えました
-
-By Yash Patel 公開 2026 年 8 月 2 日、午後 1:00 EDT 2018 年にテクノロジー業界でプロとしてのキャリアをスタートし、Yash はソフトウェア エンジニアとして 3 年以上を過ごしました。その後、彼はテクノロジー ブログ DiGiTAL BiRYANi の有益で魅力的なコンテンツを通じて読者に力を与えることに重点を移しました。彼は MakeTechEasier の技術記事も出版しています。彼は新しいテクノロジー ガジェットやプラットフォームを探索するのが大好きです。彼が執筆していないときは、食べ物について調べていることがわかります。彼はテクノロジーと食べ物への愛情から、読者の間ではデジタル シェフ ヤシュとして知られています。 XDA アカウントにサインインする Office ソフトウェアは、よく考えずに支払い続けやすいサブスクリプションの 1 つです。ワークフローの一部になると、キャンセルすることはコストを節約する方法というよりもリスクのように感じられます。それがまさに私が Microsoft 365 について感じていたことです。私は何年もそれを更新していました。単に使い慣れていたからであり、まだ必要かどうかを尋ねるために立ち止まったからではありません。
-
-オープンソースの代替手段である OnlyOffice を試してみることにしたとき、状況は変わりました。私はそれがまともな無料の代替品であることを期待していましたが、しばらく使用した後、Microsoft 365 がまったく不足していないことに気づきました。やがて、私は完全にお金を払うのをやめました。
-
-3 つの異なる生産性向…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/12/reasons-to-use-onlyoffice-document-instead-of-word.jpg?w=1600&amp;h=900&amp;fit=crop" alt="この 1 つの無料オープンソース ツールが、私が何年も使用してきた 3 つの有料アプリを置き換えました"></p>]]></description><source url="https://www.xda-developers.com/free-only-office-replaced-three-paid-apps/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/12/reasons-to-use-onlyoffice-document-instead-of-word.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/12/reasons-to-use-onlyoffice-document-instead-of-word.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>ASUS が Panther Lake を搭載した NUC 16 ファミリーを展示</title><link>https://www.servethehome.com/asus-showcases-nuc-16-family-powered-by-intel-panther-lake/</link><guid isPermaLink="true">https://www.servethehome.com/asus-showcases-nuc-16-family-powered-by-intel-panther-lake/</guid><pubDate>Sun, 02 Aug 2026 17:00:02 +0000</pubDate><description><![CDATA[<p>ASUS が Panther Lake を搭載した NUC 16 ファミリーを展示
-
-ASUS は、今年の Computex 見本市で新しいミニ PC ファミリー NUC 16 を披露していました。 Intel の Panther Lake および Wildcat Lake SoC を搭載したこれらのミニ PC は、フルシステムを 0.7L シャーシに詰め込みます。
-
-2013 年にインテルは、超小型 PC 用の Next Unit of Computing (NUC) フォーム ファクターを導入しました。 4 インチ x 4 インチのマザーボード フォーム ファクタは決して大ヒットにはなりませんでしたが、ミニ PC があふれる市場の中でもその独特の小型サイズのおかげで長年にわたって生き残ってきました。
-
-最近では、NUC のバナーは、2023 年に Intel から製品ラインを買収した ASUS によって保持されています。それ以来、ASUS は NUC 設計の更新と反復を続け、Lunar Lake、Arrow Lake、そして最近では Panther Lake など、Intel の最近のモバイル プロセッサをベースにした新しい NUC を生産してきました。今年の Computex 2026 見本市で、同社は最近発売した NUC 16 および NUC 16 Pro ボックスを披露しました。これらのボックスには、インテルの Core シリーズ 3 (Wildcat Lake) プロセッサと Core Ultra シリーズ 3 (Panther Lake) プロセッサのタッグ デュオが組み込まれています。
-
-まず、ASUS のベース モデルであるバニラ NUC 16 があります。このシステムは、数か月前に発売された Intel の Core シリーズ 3 プロセッサをベースにしています。
-
-ASUS は、完全装備のミニ PC として、Intel の最上位 Wildcat Lake チップである Core 7 350 を搭載した単一構成を提供しています。これは、Cougar …</p><p><img src="https://www.servethehome.com/wp-content/uploads/2026/07/ASUS-NUC-16-Hero.jpg" alt="ASUS が Panther Lake を搭載した NUC 16 ファミリーを展示"></p>]]></description><source url="https://www.servethehome.com/asus-showcases-nuc-16-family-powered-by-intel-panther-lake/">ServeTheHome</source><media:content url="https://www.servethehome.com/wp-content/uploads/2026/07/ASUS-NUC-16-Hero.jpg" medium="image"/><media:thumbnail url="https://www.servethehome.com/wp-content/uploads/2026/07/ASUS-NUC-16-Hero.jpg"/></item>
-<item><title>Linux を徹底的に再構築する静かな Rust 移行 — それがセキュリティにとって重要な理由</title><link>https://www.xda-developers.com/quiet-rust-migration-linux-security/</link><guid isPermaLink="true">https://www.xda-developers.com/quiet-rust-migration-linux-security/</guid><pubDate>Sun, 02 Aug 2026 16:30:10 +0000</pubDate><description><![CDATA[<p>Linux を徹底的に再構築する静かな Rust 移行 — それがセキュリティにとって重要な理由
-
-Ubuntu はコア Linux ツールを Rust に置き換えます。ここでは、使い慣れたコマンドやスクリプトを壊すことなく、メモリ セーフティによってセキュリティを強化できる方法を説明します。
-
-Linux を徹底的に再構築する静かな Rust 移行 — それがセキュリティにとって重要な理由
-
-Jeff Butts 著 2026 年 8 月 2 日午後 12 時 30 分 EDT 公開 ジェフは、インターネット以前から IT 業界に携わっており、20 年以上、テクニカル サポート、システム管理、ネットワーク管理、コンサルティングの職務に従事してきました。彼は英語で学士号を取得し、専門的な執筆と編集に重点を置いた英語で修士号を取得し、さらにコンピューティングおよび情報システムで修士号を取得しています。大学で英語とコンピューター サイエンスを数年間教えた後、ジェフは執筆活動を開始しました。彼は XDA で仕事を始める前に、 Macworld 、 Tom&#39;s Hardware 、 groovyPost 、 The Mac Observer などで執筆を行ってきました。 XDA アカウントにサインインする Linux ユーザーは、大きな変化に最初に気づく傾向があります。デスクトップが再設計されたり、パッケージ形式があらゆる場所に現れ始めたり、アップデートによって長年使用してきた設定が移行されたりします。 sudo 、 ls 、または cp の背後にあるコードを置き換えるディストリビューションは、コマンドが依然として見慣れたものであり、理想的には以前とまったく同じように動作するため、見落としやすくなります。しかし、この静かな置き換え作業は、思われているよりも重要です。なぜなら、これにより、ユーザーに構築された習慣を変えるよう要求することなく、Linux で最も信頼できるツールの一部がより安全になる可能性があるからです。
-
-Linux はほとんどのユーザーが気付かないインフラストラ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/01/tuxmate-on-linux-mint-desktop.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="Linux を徹底的に再構築する静かな Rust 移行 — それがセキュリティにとって重要な理由"></p>]]></description><source url="https://www.xda-developers.com/quiet-rust-migration-linux-security/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/01/tuxmate-on-linux-mint-desktop.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/01/tuxmate-on-linux-mint-desktop.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>この 240 Hz QD-OLED ゲーミング モニターをわずか 300 ドルで手に入れましょう — Gigabyte の 27 インチ GO27Q24A が現在 Newegg で 150 ドル引きです</title><link>https://www.tomshardware.com/monitors/gaming-monitors/grab-this-240-hz-qd-oled-gaming-monitor-at-just-usd300-gigabytes-27-inch-go27q24a-is-now-usd150-off-at-newegg</link><guid isPermaLink="true">https://www.tomshardware.com/monitors/gaming-monitors/grab-this-240-hz-qd-oled-gaming-monitor-at-just-usd300-gigabytes-27-inch-go27q24a-is-now-usd150-off-at-newegg</guid><pubDate>Sun, 02 Aug 2026 16:16:41 +0000</pubDate><description><![CDATA[<p>この 240 Hz QD-OLED ゲーミング モニターをわずか 300 ドルで手に入れましょう — Gigabyte の 27 インチ GO27Q24A が現在 Newegg で 150 ドル引きです
-
-予算に優しい QD-OLED。
-
-この 240 Hz QD-OLED ゲーミング モニターをわずか 300 ドルで手に入れましょう — Gigabyte の 27 インチ GO27Q24A が現在 Newegg で 150 ドル引きです
-
-(画像クレジット: Gigabyte) リンクをコピー
-
-0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 現在進行中の世界的なメモリ危機により、既存の PC のアップグレードや新しい PC の構築が大幅に高価になり、RAM、SSD、グラフィックス カードの価格はここ数か月ですべて上昇しています。ただし、特に OLED に関しては、ゲーム モニターは数年前に比べてはるかに手頃な価格になりました。セットアップ用の新しいディスプレイをお探しの場合は、27 インチ QHD 240Hz QD-OLED モニターである Gigabyte GO27Q24A を検討してください。これは現在、Newegg での通常の定価 449.99 ドルからわずか 299.99 ドルまで値下げされています。
-
-このモニターは、ほとんどのゲーム設定にとってスイートスポットと考えられている解像度 2560x1440 の第 3 世代 27 インチ QD-OLED パネルを含む、希望価格としてはかなりまともなスペックを提供します。また、240 Hz の高速リフレッシュ レートとわずか 0.03 ミリ秒 GTG の応答時間を提供するため、視覚的な忠実度を損なうことなくペースの速いゲームに最適です。 e スポーツ愛好家向けに、このモニターには、専用の物理ボタンを使用して 1 回のクリックで表示解像度をすばやく切り替えたり、特定のアスペクト比 (4:3 比や専用の 24 インチのカスタム フォーマット サイズな…</p><p><img src="https://cdn.mos.cms.futurecdn.net/z9zBNVCqGnwnrQLk5W8azX-1920-80.jpg" alt="この 240 Hz QD-OLED ゲーミング モニターをわずか 300 ドルで手に入れましょう — Gigabyte の 27 インチ GO27Q24A が現在 Newegg で 150 ドル引きです"></p>]]></description><source url="https://www.tomshardware.com/monitors/gaming-monitors/grab-this-240-hz-qd-oled-gaming-monitor-at-just-usd300-gigabytes-27-inch-go27q24a-is-now-usd150-off-at-newegg">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/z9zBNVCqGnwnrQLk5W8azX-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/z9zBNVCqGnwnrQLk5W8azX-1920-80.jpg"/></item>
-<item><title>Cougar、シングルタワー FRZ 412 ARGB CPU クーラー シリーズを発表</title><link>https://www.kitguru.net/components/cooling/joao-silva/cougar-unveils-single-tower-frz-412-argb-cpu-cooler-series/</link><guid isPermaLink="true">https://www.kitguru.net/components/cooling/joao-silva/cougar-unveils-single-tower-frz-412-argb-cpu-cooler-series/</guid><pubDate>Sun, 02 Aug 2026 16:00:27 +0000</pubDate><description><![CDATA[<p>Cougar、シングルタワー FRZ 412 ARGB CPU クーラー シリーズを発表
-
-Cougar は、FRZ 412 ARGB および FRZ 412 Elite ARGB シングルタワー クーラーの導入により、CPU 冷却ラインナップを拡張しました。どちらのモデルも 240W TDP 定格を提供し、Intel および AMD ソケットを幅広くサポートします。標準の FRZ 412 ARGB (ITHome 経由) には、リアルタイムの CPU または GPU 温度追跡用の上部に取り付けられたドット ピクセル ディスプレイが組み込まれています。
-
-Cougar、シングルタワー FRZ 412 ARGB CPU クーラー シリーズを発表
-
-João Silva 5 時間前 冷却 , 注目の技術ニュース
-
-Cougar は、FRZ 412 ARGB および FRZ 412 Elite ARGB シングルタワー クーラーの導入により、CPU 冷却ラインナップを拡張しました。どちらのモデルも 240W TDP 定格を提供し、Intel および AMD ソケットを幅広くサポートします。標準の FRZ 412 ARGB (ITHome 経由) には、リアルタイムの CPU または GPU 温度追跡用の上部に取り付けられたドット ピクセル ディスプレイ、統合された RGB ストリップ、および黒色仕上げのアルミニウム フィンが組み込まれています。冷却性能は、最初の RAM スロットのメモリ クリアランスを維持するように設計されたオフセット ベースを備えた高さ 160 mm のヒートシンクを通る 4 本の 6 mm ダイレクト タッチ ヒート パイプに依存します。 Cougar は、リングで囲まれたブレードを備えた FDB ベアリング ファンとヒートシンクを組み合わせ、0 ～ 2500 rpm で動作し、最大 74.52CFM の気流と 3.66mmH2O の静圧を供給します。 FRZ 412 Elite ARGB では、上部ディスプレイ、前面 RGB 照明、黒色フィン コーティ…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/08/FRZ4121-768x768-1-732x330.jpg" alt="Cougar、シングルタワー FRZ 412 ARGB CPU クーラー シリーズを発表"></p>]]></description><source url="https://www.kitguru.net/components/cooling/joao-silva/cougar-unveils-single-tower-frz-412-argb-cpu-cooler-series/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/08/FRZ4121-768x768-1-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/08/FRZ4121-768x768-1-732x330.jpg"/></item>
-<item><title>GDDR7 の価格設定は 50-Super シリーズを人質に取っており、次のアップグレードに費用がかかるだけです</title><link>https://www.xda-developers.com/gddr7-pricing-is-holding-the-50-super-series-hostage-and-it-just-cost-me-my-next-upgrade/</link><guid isPermaLink="true">https://www.xda-developers.com/gddr7-pricing-is-holding-the-50-super-series-hostage-and-it-just-cost-me-my-next-upgrade/</guid><pubDate>Sun, 02 Aug 2026 16:00:10 +0000</pubDate><description><![CDATA[<p>GDDR7 の価格設定は 50-Super シリーズを人質に取っており、次のアップグレードに費用がかかるだけです
-
-GPU アップグレードの夢は、容赦ない AI 需要によって打ち砕かれ続けています。
-
-GDDR7 の価格設定は 50-Super シリーズを人質に取っており、次のアップグレードに費用がかかるだけです
-
-By Abhinav Raj Published Aug 2, 2026, 12:00 PM EDT アビナブは、銀行業界でのキャリアから方向転換して、初恋を執筆で追求しました。フルタイムで働きながらも、編集長として貢献を続け、その役割を 7 年以上務めました。生涯テクノロジー愛好家であり、2018 年以来、ゲームと生産性に優れた PC を 3 台開発してきました。テクノロジーへの情熱により、NVIDIA や AMD から ARM に至るまで、半導体業界を常に追い続けています。彼の修士論文では、人工知能が仕事の未来をどのように再構築するかを探求し、新興テクノロジーの広範な社会的影響に対する彼の好奇心を反映しています。 XDA アカウントにサインイン 2026 年は、PC ハードウェアにとって異例の年となりました。今年も半ばを迎えましたが、これまでのところ、新しいディスクリート GPU アーキテクチャはゼロで、4 年前の Ryzen CPU が店頭に戻り、前例のない NAND 価格の高騰が見られ、おそらく史上最悪の DRAM インフレ サイクルの目撃者となっています。
-
-消費者向けグラフィックス分野に新しいアーキテクチャが登場しないことで市場が平穏になったのと同じように、小売消費者は今年、待望の Nvidia の Blackwell ラインナップのスーパー リフレッシュさえ目にすることはないようです。私のような GeForce RTX ラインナップの真の価値を求めている人にとって、怪我に加えて侮辱もあります。伝えられるところによると、このカードはすでに存在しているが、Nvidia はまだ販売できない。
-
-Titanium Super ティアは、Nvidia の…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/02/nvidia-rtx-5070-review-07.jpg?w=1600&amp;h=900&amp;fit=crop" alt="GDDR7 の価格設定は 50-Super シリーズを人質に取っており、次のアップグレードに費用がかかるだけです"></p>]]></description><source url="https://www.xda-developers.com/gddr7-pricing-is-holding-the-50-super-series-hostage-and-it-just-cost-me-my-next-upgrade/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/02/nvidia-rtx-5070-review-07.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/02/nvidia-rtx-5070-review-07.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>誤ったSpaceXロケットステージは音速の7倍、時速5,400マイルで月に激突する予定 — NASAと韓国の軌道探査機は3トンのTNT衝突追跡の準備をしている</title><link>https://www.tomshardware.com/tech-industry/space/errant-spacex-rocket-stage-set-to-smash-into-the-moon-at-5-400-mph-seven-times-the-speed-of-sound-nasa-and-south-korean-orbiters-prepare-to-track-3-ton-tnt-impact</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/space/errant-spacex-rocket-stage-set-to-smash-into-the-moon-at-5-400-mph-seven-times-the-speed-of-sound-nasa-and-south-korean-orbiters-prepare-to-track-3-ton-tnt-impact</guid><pubDate>Sun, 02 Aug 2026 15:44:51 +0000</pubDate><description><![CDATA[<p>誤ったSpaceXロケットステージは音速の7倍、時速5,400マイルで月に激突する予定 — NASAと韓国の軌道探査機は3トンのTNT衝突追跡の準備をしている
-
-本当にそうすべきです
-
-誤ったSpaceXロケットステージは音速の7倍、時速5,400マイルで月に激突する予定 — NASAと韓国の軌道探査機は3トンのTNT衝突追跡の準備をしている
-
-ゴミを宇宙の軌道上に放置すべきではありません。
-
-(画像クレジット: SpaceX/Unsplash ) リンクをコピー
-
-1 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 2025 年初頭に 2 機の月着陸船を届けた SpaceX ロケットの上段は、ミッション終了から数か月後に月面に墜落する予定です。ジャパン・トゥデイによると、ロケットの大きな破片は推定時速5,400マイルまたは時速8,690キロで月に衝突すると予想されており、これは音速の7倍です。
-
-月に破片が衝突することは、ほとんどの人にとっては取るに足らない出来事のように思えるかもしれないが、これは観測中に物体が月に衝突する数少ない例の一つとなるため、科学者や天文学者は注意深く監視している。 NASAの月偵察機と韓国のダヌリ月周回機は衝突現場の前後の写真を撮影し、後者は最終降下を開始する数分前に、衝撃を受けたスペースXロケットの近くを飛行する予定だ。
-
-NASAはこれまでにも、月面に物体を意図的に衝突させたことがある。70年代のアポロ計画では、サターンVロケットの一部を使ってこれを行い、月着陸船を廃棄して地震実験を行った。 2009年のLCROSSミッションでも実験を繰り返し、氷を求めて月の南極近くに探査機を衝突させた。
-
-今回研究者たちが興味を持っているのは、その衝突が月の表面にどのような影響を与えるかということであり、月の表面はTNT火薬約3トンに相当するエネルギーを供給すると予想されている。これは膨大なエネルギーのように見えるかもしれませんが、実際の衝突を地球から見ることはおそらく不可能です。しかし…</p><p><img src="https://cdn.mos.cms.futurecdn.net/37yXYaJfEmcD2VFuAjKXB5-1920-80.png" alt="誤ったSpaceXロケットステージは音速の7倍、時速5,400マイルで月に激突する予定 — NASAと韓国の軌道探査機は3トンのTNT衝突追跡の準備をしている"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/space/errant-spacex-rocket-stage-set-to-smash-into-the-moon-at-5-400-mph-seven-times-the-speed-of-sound-nasa-and-south-korean-orbiters-prepare-to-track-3-ton-tnt-impact">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/37yXYaJfEmcD2VFuAjKXB5-1920-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/37yXYaJfEmcD2VFuAjKXB5-1920-80.png"/></item>
-<item><title>あなたのスマート TV 上にある一見何の害もないゲームが、あなたの家を介して他人のインターネット トラフィックを静かにルーティングしている可能性があります。</title><link>https://www.xda-developers.com/smart-tv-apps-residential-proxy-traffic/</link><guid isPermaLink="true">https://www.xda-developers.com/smart-tv-apps-residential-proxy-traffic/</guid><pubDate>Sun, 02 Aug 2026 15:30:10 +0000</pubDate><description><![CDATA[<p>あなたのスマート TV 上にある一見何の害もないゲームが、あなたの家を介して他人のインターネット トラフィックを静かにルーティングしている可能性があります。
-
-何千ものスマート TV アプリには、疑いを持たないユーザーの自宅接続を介して見知らぬ人のインターネット トラフィックをルーティングする可能性があるプロキシ ソフトウェアが含まれていました。
-
-あなたのスマート TV 上にある一見何の害もないゲームが、あなたの家を介して他人のインターネット トラフィックを静かにルーティングしている可能性があります。
-
-文：Jeff Butts 公開 2026 年 8 月 2 日、午前 11 時 30 分 EDT Jeff は、インターネット以前から IT 業界に携わっており、20 年以上、テクニカル サポート、システム管理、ネットワーク管理、およびコンサルティングの役割に従事してきました。彼は英語で学士号を取得し、専門的な執筆と編集に重点を置いた英語で修士号を取得し、さらにコンピューティングおよび情報システムで修士号を取得しています。大学で英語とコンピューター サイエンスを数年間教えた後、ジェフは執筆活動を開始しました。彼は XDA で仕事を始める前に、 Macworld 、 Tom&#39;s Hardware 、 groovyPost 、 The Mac Observer などで執筆を行ってきました。 XDA アカウントにサインインする
-
-多くのスマート TV アプリには、サードパーティがホーム IP 経由で Web トラフィックをルーティングできるようにするプロキシ SDK が含まれています。
-
-スマート TV は理想的な隠れホストです。常にオンラインで静的 IP を使用し、バックグラウンド プロキシについて所有者に警告する可能性はほとんどありません。
-
-1 回限りのプロンプトでは実際の同意は得られません。アプリを確認し、未使用のものを削除し、曖昧な「帯域幅共有」オファーを拒否します。
-
-スマート TV は常に、少々ぎこちない妥協を強いられてきました。私たちは画面用にそれらを購入し、…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/smart-tv-on-stand.jpg?w=1600&amp;h=900&amp;fit=crop" alt="あなたのスマート TV 上にある一見何の害もないゲームが、あなたの家を介して他人のインターネット トラフィックを静かにルーティングしている可能性があります。"></p>]]></description><source url="https://www.xda-developers.com/smart-tv-apps-residential-proxy-traffic/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/smart-tv-on-stand.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/smart-tv-on-stand.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>AOC が最大 5K 解像度の 300Hz デュアルモード モニターを発表</title><link>https://www.kitguru.net/peripherals/monitors/joao-silva/aoc-introduces-300hz-dual-mode-monitor-with-up-to-5k-resolution/</link><guid isPermaLink="true">https://www.kitguru.net/peripherals/monitors/joao-silva/aoc-introduces-300hz-dual-mode-monitor-with-up-to-5k-resolution/</guid><pubDate>Sun, 02 Aug 2026 15:00:26 +0000</pubDate><description><![CDATA[<p>AOC が最大 5K 解像度の 300Hz デュアルモード モニターを発表
-
-AOC は、ユーザーが 75Hz の 5K 解像度と最大 300Hz で動作する QHD モードを切り替えることができるデュアルモード設計を特徴とする 27 インチ Fast IPS モニターである K27U3FD を発表しました。 5120x2880 の 5K モードの場合、ディスプレイは 218ppi のピクセル密度を生成します。ディスプレイの仕様によると、K27U3FD の Fast IPS パネルはサポートしています。
-
-AOC が最大 5K 解像度の 300Hz デュアルモード モニターを発表
-
-João Silva 6 時間前 注目の技術ニュース , モニター
-
-AOC は、ユーザーが 75Hz の 5K 解像度と最大 300Hz で動作する QHD モードを切り替えることができるデュアルモード設計を特徴とする 27 インチ Fast IPS モニターである K27U3FD を発表しました。 5120×2880 の 5K モードの場合、ディスプレイは 218ppi のピクセル密度を生成します。 DisplaySpecific によると、K27U3FD の Fast IPS パネルは、100% sRGB カバレッジ、125% sRGB ボリューム、96% DCI-P3 色域の 10 ビット カラーをサポートしており、ΔE&lt;1 と評価された工場出荷時のキャリブレーションによって裏付けられています。 AOC は、HDR 輝度を 450 ニット、SDR 輝度 350 ニット、コントラスト比 1500:1 と評価しています。 QHD モードに切り替えると、解像度が 2560×1440 に低下しますが、1ms の GtG 応答時間と Adaptive-Sync サポートにより、リフレッシュ レートが最大 300Hz に向上します。 Red Dot Design 賞を受賞したシャーシを中心に構築されたこのモニターは、150 mm の高さ調整、双方向ピボット、±30° のスイベル、-6.5° ～ …</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/08/1d7f2cf330c33ffc189da5bc2afb1d32-732x330.jpg" alt="AOC が最大 5K 解像度の 300Hz デュアルモード モニターを発表"></p>]]></description><source url="https://www.kitguru.net/peripherals/monitors/joao-silva/aoc-introduces-300hz-dual-mode-monitor-with-up-to-5k-resolution/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/08/1d7f2cf330c33ffc189da5bc2afb1d32-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/08/1d7f2cf330c33ffc189da5bc2afb1d32-732x330.jpg"/></item>
-<item><title>この 50 ドルの ESP32 冷蔵庫用マグネットは音声メモを取ることができますが、最も優れているのはその下にあるアプリ プラットフォームです</title><link>https://www.xda-developers.com/reterminal-sticky-fridge-magnet-voice-notes-best-part-app-platform/</link><guid isPermaLink="true">https://www.xda-developers.com/reterminal-sticky-fridge-magnet-voice-notes-best-part-app-platform/</guid><pubDate>Sun, 02 Aug 2026 15:00:10 +0000</pubDate><description><![CDATA[<p>この 50 ドルの ESP32 冷蔵庫用マグネットは音声メモを取ることができますが、最も優れているのはその下にあるアプリ プラットフォームです
-
-reterminal Sticky は私の新しいお気に入りの ESP32 ベースのデバイスですが、それには十分な理由があります。
-
-この 50 ドルの ESP32 冷蔵庫用マグネットは音声メモを取ることができますが、最も優れているのはその下にあるアプリ プラットフォームです
-
-By Adam Conway 公開 2026 年 8 月 2 日、午前 11:00 EDT 私は Adam Conway です。コンピュータ サイエンスの学士号を取得したアイルランドのテクノロジー愛好家で、XDA の主任テクニカル エディターを務めています。私の学士論文は、Android アプリやスマートフォンのパフォーマンスなどの非機能要素のベンチマークの実行可能性について行われました。私は 2017 年から何らかの形でテクノロジー業界で働いています。暇なときは、Counter-Strike や VALORANT をプレイしているのをおそらく見かけます。連絡先は adam@xda-developers.com 、Twitter では @AdamConwayIE 、Instagram では次のとおりです。 AdamConwayIE 、または Reddit の u/AdamConwayIE。 XDA アカウントにサインインする Seeed Studio が新しく発売した reterminal Sticky は、基本的に、スマート ホームに設置できる最も威圧感の少ないガジェットとして売り込まれています。これは背面に磁石が付いた 3.97 インチの電子ペーパー パネルで、冷蔵庫に貼り付けることができ、ボタンを押して話しかけると、家族が見ることができるメモを残すことができます。価格は 49.90 ドルで、ESP32 が何であるかを知らない、または気にしていない人への素晴らしい贈り物になります。 ESP32 が何なのかを知っていれば、ESP32 がさらに好きになる…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/reterminal-sticky-home-screen.jpg?w=1600&amp;h=900&amp;fit=crop" alt="この 50 ドルの ESP32 冷蔵庫用マグネットは音声メモを取ることができますが、最も優れているのはその下にあるアプリ プラットフォームです"></p>]]></description><source url="https://www.xda-developers.com/reterminal-sticky-fridge-magnet-voice-notes-best-part-app-platform/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/reterminal-sticky-home-screen.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/reterminal-sticky-home-screen.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>私はついに Google Chrome を捨ててオープンソース ブラウザに乗り換えました。その AI は Chrome ではできないことをやってくれます。</title><link>https://www.xda-developers.com/finally-ditching-google-chrome-for-open-source-ai-browser/</link><guid isPermaLink="true">https://www.xda-developers.com/finally-ditching-google-chrome-for-open-source-ai-browser/</guid><pubDate>Sun, 02 Aug 2026 14:30:10 +0000</pubDate><description><![CDATA[<p>私はついに Google Chrome を捨ててオープンソース ブラウザに乗り換えました。その AI は Chrome ではできないことをやってくれます。
-
-Chrome の機能
-
-私はついに Google Chrome を捨ててオープンソース ブラウザに乗り換えました。その AI は Chrome ではできないことをやってくれます。
-
-By Nolen Jonker 公開 2026 年 8 月 2 日、午前 10:30 EDT Nolen は 2019 年に執筆活動を開始し、3 年間 MakeUseOf のクリエイティブ セクションの編集に専念しました。彼らの専門知識はテクノロジーと創造性の交差点にあり、写真、ビデオ編集、グラフィック デザインなどの分野をカバーしています。仕事以外では、ノーレンが良い本を読んだり、自分の物語を書いたり、ビデオ ゲームをしたりしているのをよく見かけます。 XDA アカウントにサインインします Chrome は、必要なことをほぼ正確に実行します。 Web ページの読み込みが速く、すべての拡張機能が (通常は) 動作し、サインインしていればすべてが同期され、AI モードも追加されました。通常のブラウザーがこれ以上の処理を期待できることはあまりありません。しかし、それが問題であり、通常のブラウザはかなり受動的なツールです。ブラウザはそこにあるだけで、すべてのナビゲーションと調整を自分で処理する必要があります。
-
-BrowserOS はそれを変えます。これは Chromium フォークなので、すべての拡張機能、ブックマーク、パスワードを引き継ぐことができますが、AI 機能は Chrome のどの AI モードよりもそれを実現し、ブラウザーがどうあるべきかについての私の見方を変えました…
-
-私が読んでいるものを実際に読み上げるサイドバー AI
-
-別のタブに移動する必要はもうありません
-
-BrowserOS は Chromium 上に構築されたオープンソース ブラウザなので、すべての拡張機能やその他の便利な機能を Chrome (私のセカンダリ ブ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/browseros-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="私はついに Google Chrome を捨ててオープンソース ブラウザに乗り換えました。その AI は Chrome ではできないことをやってくれます。"></p>]]></description><source url="https://www.xda-developers.com/finally-ditching-google-chrome-for-open-source-ai-browser/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/browseros-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/browseros-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
 </channel></rss>
