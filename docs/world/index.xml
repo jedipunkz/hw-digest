@@ -1,6 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Fri, 07 Aug 2026 22:55:29 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Fri, 07 Aug 2026 23:48:03 +0000</lastBuildDate>
+<item><title>この Ugreen NAS バッテリー バックアップは最低価格に達しました。データは感謝します。</title><link>https://www.xda-developers.com/protect-your-nas-with-this-ugreen-backup/</link><guid isPermaLink="true">https://www.xda-developers.com/protect-your-nas-with-this-ugreen-backup/</guid><pubDate>Fri, 07 Aug 2026 23:32:42 +0000</pubDate><description><![CDATA[<p>この Ugreen NAS バッテリー バックアップは最低価格に達しました。データは感謝します。
+
+健全な投資
+
+この Ugreen NAS バッテリー バックアップは最低価格に達しました。データは感謝します。
+
+クレジット: UGREEN By Timi Cantisano 公開 2026 年 8 月 7 日、午後 7 時 32 分 EDT Timi は 10 年以上にわたり、スマートフォン、コンピューター、およびテクノロジー分野で興味深いと思うあらゆるものに焦点を当ててテクノロジーについて執筆してきました。彼は XDA に執筆を開始し、モバイルに関するあらゆることをカバーしていましたが、インターネット上で最高のハイテク製品の最高の割引を明らかにすることを使命として、取引をカバーすることに移行しました。 XDA アカウントにサインインする 停電によりお気に入りのテクノロジー製品が壊れたり、さらに悪いことにデータが消去されたりすることほど最悪なことはありません。これは一般的ではありませんが、発生する可能性があるため、可能であればバッテリー バックアップで製品を保護する必要があります。
+
+この Ugreen UPS バッテリー バックアップは、人気のある消費者向け NAS デバイスの一部向けに構築されており、現在販売されています。小売価格は 83 ドルですが、現在は 70 ドルで購入できます。これは、このモデルでこれまでに確認された中での最安値です。
+
+UGREEN NAS UPS 72W バッテリー バックアップおよびサージ プロテクター $70 $83 $13 節約 ブランド UGREEN バッテリー 6000mAH Amazon で $70 展開する 折りたたむ 後で感謝します
+
+停電によるデバイスやデータの損失は絶対に避けたいものです。それは最悪の感情の一つです。なぜなら、防げた可能性があるとわかっていながら、何の保護も受けられないという選択をしたからです。この Ugreen UPS バッテリー バックアップは洗練されており、スリムで、重大な問題を防ぐために NA…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/copy-of-169-10.jpg?w=1600&amp;h=900&amp;fit=crop" alt="この Ugreen NAS バッテリー バックアップは最低価格に達しました。データは感謝します。"></p>]]></description><source url="https://www.xda-developers.com/protect-your-nas-with-this-ugreen-backup/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/copy-of-169-10.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/copy-of-169-10.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>このファイルシステムは失敗するために生まれています</title><link>https://hackaday.com/2026/08/07/this-filesystem-is-born-to-fail/</link><guid isPermaLink="true">https://hackaday.com/2026/08/07/this-filesystem-is-born-to-fail/</guid><pubDate>Fri, 07 Aug 2026 23:00:13 +0000</pubDate><description><![CDATA[<p>このファイルシステムは失敗するために生まれています
+
+Linux プロセスをサンドボックス化するとは、通常、何を参照できないかを決定するために多大な労力を費やすことを意味します。これをマウント名前空間に配置したり、いくつかのディレクトリを適切な場所にバインドマウントしたり、ファイルを非表示にしたりすることができます。
+
+Linux プロセスをサンドボックス化するとは、通常、何を参照できないかを決定するために多大な労力を費やすことを意味します。これをマウント名前空間に置き、いくつかのディレクトリを適切な場所にバインドマウントし、他のディレクトリを非表示にし、chroot を追加し、通常は慎重に制限されたバージョンのファイルシステムを構築します。しかし、新しい Linux カーネル機能がそのすべてを変えようとしています。ファイルシステムの大部分を慎重に隠す代わりに、ファイルシステムを削除してはどうでしょうか?
+
+これは本質的に、Linux 7.3 に搭載される予定の小さな疑似ファイルシステムである FailFS の背後にあるアイデアです。名前が示すように、あまり多くのことは行いません。実際、それが重要です。FailFS に到達するすべての操作は、「操作がサポートされていない」ことを意味する EOPNOTSUPP を返します。
+
+興味深いのは、プロセスが FailFS をルートまたは現在の作業ディレクトリとして使用するときに何が起こるかということです。その時点で、通常のパス名検索は基本的に機能しなくなります。絶対パスは失敗します。絶対シンボリック リンクは失敗します。通常のカレントディレクトリメカニズムを使用した相対パスは失敗します。アプリケーションが /etc/passwd を開こうとしても、有用な /etc が見つからないだけです。
+
+代わりに、プロセスは、すでに所有している明示的なファイル記述子からファイルシステム操作を開始する必要があります。たとえば、サンドボックス マネージャーがディレクトリを開き、その記述子をアプリケーションに渡すと、アプリケーションは opena…</p><p><img src="https://hackaday.com/wp-content/uploads/2017/03/tux-on-htop-featured.jpg" alt="このファイルシステムは失敗するために生まれています"></p>]]></description><source url="https://hackaday.com/2026/08/07/this-filesystem-is-born-to-fail/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2017/03/tux-on-htop-featured.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2017/03/tux-on-htop-featured.jpg"/></item>
+<item><title>私はこのオープンソースの代替手段で Obsidian Vault を開いたところ、Obsidian に必要な 3 つのプラグインが機能します。</title><link>https://www.xda-developers.com/opened-obsidian-vault-in-open-source-markdown-alternative-does-what-obsidian-needs-plugins-for/</link><guid isPermaLink="true">https://www.xda-developers.com/opened-obsidian-vault-in-open-source-markdown-alternative-does-what-obsidian-needs-plugins-for/</guid><pubDate>Fri, 07 Aug 2026 23:00:10 +0000</pubDate><description><![CDATA[<p>私はこのオープンソースの代替手段で Obsidian Vault を開いたところ、Obsidian に必要な 3 つのプラグインが機能します。
+
+15MB の Markdown エディターは私の Obsidian セットアップを恥ずかしくさせました
+
+私はこのオープンソースの代替手段で Obsidian Vault を開いたところ、Obsidian に必要な 3 つのプラグインが機能します。
+
+By Nolen Jonker 公開 2026 年 8 月 7 日、午後 7 時 EDT Nolen は 2019 年に執筆活動を開始し、3 年間 MakeUseOf のクリエイティブ セクションの編集に専念しました。彼らの専門知識はテクノロジーと創造性の交差点にあり、写真、ビデオ編集、グラフィック デザインなどの分野をカバーしています。仕事以外では、ノーレンが良い本を読んだり、自分の物語を書いたり、ビデオ ゲームをしたりしているのをよく見かけます。 XDA アカウントにサインインする Obsidian は、おそらく世の中で最高のメモ作成アプリの 1 つですが、オープンソースではありません。それは問題ありません。それには十分な理由があります。しかし、Obsidian ユーザー ベースの一部は常に、中途半端なものや放棄されたものではない、適切なオープンソースの代替品を望んでいます。そのため、SoloMD が MIT ライセンスと組み込み AI パネルを備えた Markdown ネイティブとして登場したとき、一見の価値があるように思えました。
+
+それは、インポート設定なしで Obsidian Vault をそのまま開く Markdown エディターであり、Obsidian でしかできないと思われる多くの機能も処理します。もしあなたがオープンソースの代替品を探していたものの、いつも失望し続けている Obsidian ユーザーの一人なら、これがまさにその製品かもしれません…
+
+SoloMD はインポート手順なしで Obsidian 保管庫全体を開きます
+
+10秒ほどでSoloMDをwin…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/solomd-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="私はこのオープンソースの代替手段で Obsidian Vault を開いたところ、Obsidian に必要な 3 つのプラグインが機能します。"></p>]]></description><source url="https://www.xda-developers.com/opened-obsidian-vault-in-open-source-markdown-alternative-does-what-obsidian-needs-plugins-for/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/solomd-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/solomd-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>GTA Online will continue after GTA 6&#39;s release, Take-Two reiterates</title><link>https://www.tweaktown.com/rss/click/news/113044/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113044/?c=news-mf</guid><pubDate>Fri, 07 Aug 2026 22:35:07 +0000</pubDate><description><![CDATA[<p>GTA Online will continue after GTA 6&#39;s release, Take-Two reiterates</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113044/?c=news-mf">TweakTown</source></item>
 <item><title>最高のGalaxy Z Fold 8セールはまだ募集中です</title><link>https://www.xda-developers.com/you-can-still-get-one-of-the-best-deals-on-the-z-fold-8/</link><guid isPermaLink="true">https://www.xda-developers.com/you-can-still-get-one-of-the-best-deals-on-the-z-fold-8/</guid><pubDate>Fri, 07 Aug 2026 22:28:17 +0000</pubDate><description><![CDATA[<p>最高のGalaxy Z Fold 8セールはまだ募集中です
 
@@ -26,6 +63,17 @@ RikkaHub Agent とローカル LLM のおかげで、Web ブラウザから携�
 By Adam Conway 公開 2026 年 8 月 7 日、午後 6 時 EDT 私は Adam Conway です。コンピュータ サイエンスの学士号を取得したアイルランドのテクノロジー愛好家で、XDA の主任テクニカル エディターを務めています。私の学士論文は、Android アプリやスマートフォンのパフォーマンスなどの非機能要素のベンチマークの実行可能性について行われました。私は 2017 年から何らかの形でテクノロジー業界で働いています。暇なときは、Counter-Strike や VALORANT をプレイしているのをおそらく見かけます。連絡先は adam@xda-developers.com 、Twitter では @AdamConwayIE 、Instagram では次のとおりです。 AdamConwayIE 、または Reddit の u/AdamConwayIE。 XDA アカウントにサインインする 私のポケットの携帯電話は、言語モデルを実行するために私が所有するコンピューターの中で最悪ですが、ハードウェアの能力という点では、間違いなく私たちの所有するコンピューターの中で最高のコンピューターの 1 つです。センサー、通知、メッセージ、ファイル、タッチスクリーンが備わっています。これに欠けているのは、本当に賢いものを実行するためのメモリ帯域幅やサーマルヘッドルームですが、それは決してありません。なぜなら、これは電話だからです。
 
 エージェントにローカル モデルを指定するのは簡単で、ほとんどの人は文句を言わずにこれを行います。これには、Claude Code、Pi、Codex、OpenCode、および Ant…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/rikkahub-agent-1.jpg?w=1600&amp;h=900&amp;fit=crop" alt="携帯電話をローカル LLM を利用した AI エージェントに変えたところ、ソフトウェアが独自にインストールされました"></p>]]></description><source url="https://www.xda-developers.com/turned-phone-ai-agent-powered-local-llm-installed-software/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/rikkahub-agent-1.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/rikkahub-agent-1.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>ヨーロッパの無料衛星サービスにより山火事の追跡が容易になった</title><link>https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/</link><guid isPermaLink="true">https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/</guid><pubDate>Fri, 07 Aug 2026 21:48:21 +0000</pubDate><description><![CDATA[<p>ヨーロッパの無料衛星サービスにより山火事の追跡が容易になった
+
+Copernicus ブラウザは、記録的な山火事の季節の最中に山火事の視覚化を追加します。
+
+テキスト設定 ストーリーテキスト サイズ 小 標準 大 幅 * 標準 ワイドリンク 標準 オレンジ * 購読者のみ 詳細はこちら ナビゲーションを最小化 ヨーロッパの無料でオープンな衛星画像サービスを使用すると、世界中の地域社会を悩ませている山火事を誰でも簡単に追跡できるようになりました。これはすべて、10 年近く前に開発された山火事可視化スクリプトのおかげです。
+
+Copernicus Browser は、欧州連合の地球観測プログラムのために欧州宇宙機関のセンチネル衛星によって撮影された最新の衛星画像への無料アクセスを提供します。 Sentinel-2 ミッションの 3 機の衛星は、可視光線および近赤外線帯域で 10 メートルほどの粒度の解像度でマルチスペクトル イメージングを提供することで、山火事の監視に特に役立つことが証明されています。また、Copernicus Browser は以前、スペクトル帯域の異なる組み合わせを使用して 10 のデフォルトの視覚化レイヤーを提供していました。
+
+Copernicus Browser には、8 月 4 日に公開された Sentinel-2 画像用の簡単な「山火事」視覚化レイヤーも追加されました。山火事の場所を見ているときにこのレイヤーをクリックすると、活動中の火災が白または黄色で、燃えている植生が赤で、焼けた風景が濃い茶色または黒で表示されます。
+
+この役立つ山火事の視覚化機能強化は、リモート センシングの専門家である Pierre Markuse によって JavaScript で書かれたスクリプトから生まれています。 Geovisualization で説明されているように、Markuse のスクリプトは、赤色の可視光バンド、健全な植生と焼けた植生の違いを強調する狭い近赤外線バンド、および土壌中の水分レベルを明らかにすることで焼けた風景を明らかにする短波赤外線 2 …</p><p><img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/2026-08-03-00_00_2026-08-03-23_59_Sentinel-2_L2A_Wildfires-1-2560x1440.jpg" alt="ヨーロッパの無料衛星サービスにより山火事の追跡が容易になった"></p>]]></description><source url="https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/">Ars Technica Gear &amp; Gadgets</source><media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/2026-08-03-00_00_2026-08-03-23_59_Sentinel-2_L2A_Wildfires-1-2560x1440.jpg" medium="image"/><media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/2026-08-03-00_00_2026-08-03-23_59_Sentinel-2_L2A_Wildfires-1-2560x1440.jpg"/></item>
 <item><title>バックコネクトマザーボードを備えた PC を構築しているので、トレイの後ろにケーブルを通す必要はもうありません</title><link>https://www.xda-developers.com/im-building-a-pc-with-a-back-connect-motherboard-so-ill-never-have-to-thread-cables-behind-the-tray-again/</link><guid isPermaLink="true">https://www.xda-developers.com/im-building-a-pc-with-a-back-connect-motherboard-so-ill-never-have-to-thread-cables-behind-the-tray-again/</guid><pubDate>Fri, 07 Aug 2026 21:30:10 +0000</pubDate><description><![CDATA[<p>バックコネクトマザーボードを備えた PC を構築しているので、トレイの後ろにケーブルを通す必要はもうありません
 
 マザーボードもまた安くなってきましたね…
@@ -78,6 +126,7 @@ NAS を 10 ギガビットにアップグレードしたところ、誰も警告
 By Joe Rice-Jones Published Aug 7, 2026, 5:00 PM EDT Maker、meme-r、そして恥ずかしがり屋のオタクである Joe は、2018 年に KnowTechie でキャリアをスタートして以来、テクノロジーについて執筆してきました。彼は Apple からアプリ、クラウドファンディングまであらゆるものをカバーしており、複雑なトピックの本質に迫るのが大好きです。その間、彼は、2023 年の春に XDA に本拠地を置くまで、SlashGear や多数の法人顧客向けにも記事を書いていました。彼は、たとえ後で完全に元に戻らなかったとしても、すべてのおもちゃを分解して、どのように機能するかを確認する子供でした。これにより、複雑なシステムがどのように連携して機能するかを説明するための確かな背景が得られ、それ以来、物事を元に戻す段階でうまくなったと彼は約束します。 XDA アカウントにサインインする 自宅に 10 GbE ネットワークが必要でした。 (おそらく) 必要ありませんでしたが、10 GbE が欲しかったので、購入するつもりでした。この速度を備えた最初のネットワーキング機器はクライアント デバイスではなく、マネージド ネットワーク スイッチでした。次に、同社としては珍しい 10 GbE を標準装備した Synology DS1621xs+ が登場しました。そして私の頭の中には、毎秒フルギガバイトの速度で進む NAS バックアップ戦略のビジョンがあります。
 
 計算によれば、VM とバックアップは 1,250 MB/秒で移動することになります。私のベンチマークでは 230 MB/秒でした。ネットワークは問題ではありませんでした。私は 10 GbE ネットワー…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/11/terramaster-f4-424-max-ethernet.jpg?w=1600&amp;h=900&amp;fit=crop" alt="NAS を 10 ギガビットにアップグレードしたところ、誰も警告しなかったボトルネックがすぐに見つかりました"></p>]]></description><source url="https://www.xda-developers.com/upgraded-my-nas-10-gigabit-discovered-bottleneck-nobody-warns-you-about/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/11/terramaster-f4-424-max-ethernet.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/11/terramaster-f4-424-max-ethernet.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>Stop Whining!</title><link>https://www.hackster.io/news/stop-whining-02f09dc69007</link><guid isPermaLink="true">https://www.hackster.io/news/stop-whining-02f09dc69007</guid><pubDate>Fri, 07 Aug 2026 20:45:46 +0000</pubDate><description><![CDATA[<p>Stop Whining!</p>]]></description><source url="https://www.hackster.io/news/stop-whining-02f09dc69007">Hackster.io</source></item>
 <item><title>この無料の PS Vita 自作アプリは、ソニーの忘れ去られた携帯端末を Xbox クラウド ゲーム デバイスに変えます</title><link>https://www.xda-developers.com/free-ps-vita-homebrew-app-turns-handheld-into-xbox-cloud-gaming-device/</link><guid isPermaLink="true">https://www.xda-developers.com/free-ps-vita-homebrew-app-turns-handheld-into-xbox-cloud-gaming-device/</guid><pubDate>Fri, 07 Aug 2026 20:30:10 +0000</pubDate><description><![CDATA[<p>この無料の PS Vita 自作アプリは、ソニーの忘れ去られた携帯端末を Xbox クラウド ゲーム デバイスに変えます
 
 あなた
@@ -3937,27 +3986,6 @@ By Ty Sherback 公開 2026 年 8 月 5 日、午後 2 時 30 分 EDT 彼の PC �
 それにもかかわらず、AI 需要の時代に NAS を構築することは不可能ではありません。確かに少し高価ですが、AI マークアップの一部を回避する方法はあります。アプローチが異なるだけです。
 
 価格は高いが、全体的に同じ金額で…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/img_4644.png?w=1600&amp;h=900&amp;fit=crop" alt="AI ハード ドライブの不足は深刻な問題であり、次の NAS の構築方法が変わりつつあります。"></p>]]></description><source url="https://www.xda-developers.com/the-ai-hard-drive-shortage-is-a-real-problem-and-its-changing-how-id-build-my-next-nas/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/img_4644.png?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/img_4644.png?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>世界最大のゲームスタジオ、エレクトロニック・アーツが正式に非公開化</title><link>https://www.techpowerup.com/351386/electronic-arts-the-worlds-largest-game-studio-officially-goes-private</link><guid isPermaLink="true">https://www.techpowerup.com/351386/electronic-arts-the-worlds-largest-game-studio-officially-goes-private</guid><pubDate>Wed, 05 Aug 2026 18:18:33 +0000</pubDate><description><![CDATA[<p>世界最大のゲームスタジオ、エレクトロニック・アーツが正式に非公開化
-
-エレクトロニック・アーツは、約 36 年間にわたる公開市場での活動を経て、正式に個人所有に戻りました。読者の皆さんが覚えているのであれば、2025 年 9 月に EA は、PIF、Silver Lake、Affinity Partners が管理するコンソーシアムのもとで再び非公開化すると発表しました。この民間事業には...
-
-世界最大のゲームスタジオ、エレクトロニック・アーツが正式に非公開化
-
-アンドリュー・ウィルソン、エレクトロニック・アーツ会長兼最高経営責任者（CEO） 私たちは、ビジョンと野心を共有するパートナーとともに、強力な立場から次の章に入ります。私たちは力を合わせて大胆に投資し、イノベーションを加速し、毎日私たちにインスピレーションを与えてくれる何億ものプレイヤーやファンのために次世代のゲームとエクスペリエンスを構築していきます。
-
-2026 年 5 月 26 日 NVIDIA GeForce グラフィックス ドライバー 610.47 WHQL がコントロール パネルのサポートを終了 (145)
-
-2025 年 9 月 29 日 EA の新オーナー計画 AI Pivot は「運用コストの大幅削減」を計画 - レポート (39)
-
-2026 年 7 月 13 日 Criterion Axes バトルフィールドに有利なレース ゲーム「ニード フォー スピード」と「バーンアウト」 (30)
-
-2026 年 6 月 23 日 EA 幹部、「AI Everything」が創造性、ワークフロー、パイプラインに役立つと語る (35)
-
-2026 年 7 月 28 日 Dragon Age のクリエイターは、Veilguard がシリーズ最後の万歳になるかもしれないと語る (23)
-
-2026 年 3 月 17 日 NVIDIA CEO、DLSS 5 についてゲーマーは「完全に間違っている」と主張 (179)
-
-2026 年 6 月 15 日 EA 広告、「プレイヤーのエクスペリエンスを尊重した方法で…</p><p><img src="https://www.techpowerup.com/img/67ZkcmIt6M3eajlU.jpg" alt="世界最大のゲームスタジオ、エレクトロニック・アーツが正式に非公開化"></p>]]></description><source url="https://www.techpowerup.com/351386/electronic-arts-the-worlds-largest-game-studio-officially-goes-private">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/67ZkcmIt6M3eajlU.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/67ZkcmIt6M3eajlU.jpg"/></item>
 <item><title>世界最大のゲームスタジオエレクトロニック・アーツが正式に非公開化</title><link>https://www.techpowerup.com/351386/worlds-largest-game-studio-electronic-arts-officially-goes-private</link><guid isPermaLink="true">https://www.techpowerup.com/351386/worlds-largest-game-studio-electronic-arts-officially-goes-private</guid><pubDate>Wed, 05 Aug 2026 18:18:33 +0000</pubDate><description><![CDATA[<p>世界最大のゲームスタジオエレクトロニック・アーツが正式に非公開化
 
 エレクトロニック・アーツは、約 36 年間にわたる公開市場での活動を経て、正式に個人所有に戻りました。読者の皆さんが覚えているのであれば、2025 年 9 月に、EA は PIF、Silver Lake、Affinity Partners が管理するコンソーシアムのもとで再び非公開化すると発表しました。この民間事業には...
@@ -3979,6 +4007,27 @@ By Ty Sherback 公開 2026 年 8 月 5 日、午後 2 時 30 分 EDT 彼の PC �
 2026 年 3 月 17 日 NVIDIA CEO、DLSS 5 についてゲーマーは「完全に間違っている」と主張 (179)
 
 2026 年 6 月 15 日 EA 広告、「プレイヤーのエクスペリエンスを尊重した方法で」ゲ…</p><p><img src="https://www.techpowerup.com/img/67ZkcmIt6M3eajlU.jpg" alt="世界最大のゲームスタジオエレクトロニック・アーツが正式に非公開化"></p>]]></description><source url="https://www.techpowerup.com/351386/worlds-largest-game-studio-electronic-arts-officially-goes-private">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/67ZkcmIt6M3eajlU.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/67ZkcmIt6M3eajlU.jpg"/></item>
+<item><title>世界最大のゲームスタジオ、エレクトロニック・アーツが正式に非公開化</title><link>https://www.techpowerup.com/351386/electronic-arts-the-worlds-largest-game-studio-officially-goes-private</link><guid isPermaLink="true">https://www.techpowerup.com/351386/electronic-arts-the-worlds-largest-game-studio-officially-goes-private</guid><pubDate>Wed, 05 Aug 2026 18:18:33 +0000</pubDate><description><![CDATA[<p>世界最大のゲームスタジオ、エレクトロニック・アーツが正式に非公開化
+
+エレクトロニック・アーツは、約 36 年間にわたる公開市場での活動を経て、正式に個人所有に戻りました。読者の皆さんが覚えているのであれば、2025 年 9 月に EA は、PIF、Silver Lake、Affinity Partners が管理するコンソーシアムのもとで再び非公開化すると発表しました。この民間事業には...
+
+世界最大のゲームスタジオ、エレクトロニック・アーツが正式に非公開化
+
+アンドリュー・ウィルソン、エレクトロニック・アーツ会長兼最高経営責任者（CEO） 私たちは、ビジョンと野心を共有するパートナーとともに、強力な立場から次の章に入ります。私たちは力を合わせて大胆に投資し、イノベーションを加速し、毎日私たちにインスピレーションを与えてくれる何億ものプレイヤーやファンのために次世代のゲームとエクスペリエンスを構築していきます。
+
+2026 年 5 月 26 日 NVIDIA GeForce グラフィックス ドライバー 610.47 WHQL がコントロール パネルのサポートを終了 (145)
+
+2025 年 9 月 29 日 EA の新オーナー計画 AI Pivot は「運用コストの大幅削減」を計画 - レポート (39)
+
+2026 年 7 月 13 日 Criterion Axes バトルフィールドに有利なレース ゲーム「ニード フォー スピード」と「バーンアウト」 (30)
+
+2026 年 6 月 23 日 EA 幹部、「AI Everything」が創造性、ワークフロー、パイプラインに役立つと語る (35)
+
+2026 年 7 月 28 日 Dragon Age のクリエイターは、Veilguard がシリーズ最後の万歳になるかもしれないと語る (23)
+
+2026 年 3 月 17 日 NVIDIA CEO、DLSS 5 についてゲーマーは「完全に間違っている」と主張 (179)
+
+2026 年 6 月 15 日 EA 広告、「プレイヤーのエクスペリエンスを尊重した方法で…</p><p><img src="https://www.techpowerup.com/img/67ZkcmIt6M3eajlU.jpg" alt="世界最大のゲームスタジオ、エレクトロニック・アーツが正式に非公開化"></p>]]></description><source url="https://www.techpowerup.com/351386/electronic-arts-the-worlds-largest-game-studio-officially-goes-private">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/67ZkcmIt6M3eajlU.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/67ZkcmIt6M3eajlU.jpg"/></item>
 <item><title>Samsung Notesは、より多くのスペースを作成するために新しいSペンのトリックを採用する可能性があります</title><link>https://www.androidauthority.com/samsung-notes-working-on-s-pen-feature-3694945/</link><guid isPermaLink="true">https://www.androidauthority.com/samsung-notes-working-on-s-pen-feature-3694945/</guid><pubDate>Wed, 05 Aug 2026 18:10:22 +0000</pubDate><description><![CDATA[<p>Samsung Notesは、より多くのスペースを作成するために新しいSペンのトリックを採用する可能性があります
 
 サムスンは、メモを書き直す手間を省くことができる、メモ アプリ用の新しい S ペン機能の開発に取り組んでいます。
@@ -4468,29 +4517,6 @@ Notion がまだ修正できないと思われる点
 
 私の Notion ワークスペースはここ数年で大幅に拡大し、ページの読み込みに以前よりも著しく時間がかかりました。私のメイン ダッシュボードにはリンクされたデータベースがいくつかあり、それを開くたびに少し時間がかかります。これは些細なことのように思…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/appflowy-database-on-desktop-pc-clock-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="AppFlowyはついに本物のNotionのように感じられ、自己ホストすることで私の最大の不満が解決されました"></p>]]></description><source url="https://www.xda-developers.com/appflowy-feels-like-real-notion-and-self-hosting-fixed-my-biggest-complaint/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/appflowy-database-on-desktop-pc-clock-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/appflowy-database-on-desktop-pc-clock-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>Samsung reveals zHBM: future RAM is stacked above AI accelerator, boasts 8x performance of HBM5 and 3x energy efficiency</title><link>https://www.tweaktown.com/rss/click/news/113011/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113011/?c=news-mf</guid><pubDate>Wed, 05 Aug 2026 14:20:11 +0000</pubDate><description><![CDATA[<p>Samsung reveals zHBM: future RAM is stacked above AI accelerator, boasts 8x performance of HBM5 and 3x energy efficiency</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113011/?c=news-mf">TweakTown</source></item>
-<item><title>MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中</title><link>https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-mentions-of-32-gb-ram-recommendation-for-windows-11</link><guid isPermaLink="true">https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-mentions-of-32-gb-ram-recommendation-for-windows-11</guid><pubDate>Wed, 05 Aug 2026 14:19:21 +0000</pubDate><description><![CDATA[<p>MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中
-
-Microsoft は、新しい PC の構築または購入の推奨事項として 32 GB の RAM について言及したドキュメントおよび資料を Web サイトから遡及的に削除します。代わりに、同社は現在、RAM 構成であっても Windows 11 をスムーズに実行できるように最適化された 8 GB デバイスを重視しています。
-
-MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中
-
-2025 年 8 月 18 日 Microsoft Windows 11 24H2 アップデートにより SSD 障害が発生する可能性がある (278)
-
-2025 年 10 月 21 日 Windows 11 25H2 October Update のバグにより回復環境が使用不能になる (170)
-
-2025 年 10 月 17 日 Microsoft が Windows 11 October Update で Localhost を破壊し、ユーザーは強制的に元に戻される (105)
-
-2026 年 1 月 16 日 NVIDIA が GeForce RTX 5070 Ti の生産を終了、RTX 5060 Ti 16 GB Next (210) と伝えられる
-
-2025 年 10 月 1 日 Microsoft が Windows 11 25H2 をリリース…新機能はゼロ？ (122)
-
-2025 年 12 月 14 日 Microsoft Copilot AI が LG TV に搭載、削除できない (144)
-
-2025 年 10 月 7 日 Microsoft が Windows 11 でのオンライン アカウント バイパスをブロック (162)
-
-2026 年 5 月 1 日 Microsoft は、Windows 11 の「心配しない」アップグレードとして 32 GB RAM を推奨するようになりました (147)
-
-2025 年 8 月 19…</p><p><img src="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg" alt="MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中"></p>]]></description><source url="https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-mentions-of-32-gb-ram-recommendation-for-windows-11">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg"/></item>
 <item><title>Microsoft、Windows 11 向けの 32 GB RAM の推奨をひっそりと削除中</title><link>https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-32-gb-ram-recommendation-for-windows-11</link><guid isPermaLink="true">https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-32-gb-ram-recommendation-for-windows-11</guid><pubDate>Wed, 05 Aug 2026 14:19:21 +0000</pubDate><description><![CDATA[<p>Microsoft、Windows 11 向けの 32 GB RAM の推奨をひっそりと削除中
 
 Microsoft は、新しい PC の構築または購入の推奨事項として 32 GB の RAM について言及したドキュメントおよび資料を Web サイトから遡及的に削除します。代わりに、同社は現在、RAM 構成であっても Windows 11 をスムーズに実行できるように最適化された 8 GB デバイスを重視しています。
@@ -4514,6 +4540,29 @@ Microsoft、Windows 11 向けの 32 GB RAM の推奨をひっそりと削除中
 2026 年 5 月 1 日 Microsoft は、Windows 11 の「心配しない」アップグレードとして 32 GB RAM を推奨するようになりました (147)
 
 2025 年 8 月 19 日 P…</p><p><img src="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg" alt="Microsoft、Windows 11 向けの 32 GB RAM の推奨をひっそりと削除中"></p>]]></description><source url="https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-32-gb-ram-recommendation-for-windows-11">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg"/></item>
+<item><title>MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中</title><link>https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-mentions-of-32-gb-ram-recommendation-for-windows-11</link><guid isPermaLink="true">https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-mentions-of-32-gb-ram-recommendation-for-windows-11</guid><pubDate>Wed, 05 Aug 2026 14:19:21 +0000</pubDate><description><![CDATA[<p>MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中
+
+Microsoft は、新しい PC の構築または購入の推奨事項として 32 GB の RAM について言及したドキュメントおよび資料を Web サイトから遡及的に削除します。代わりに、同社は現在、RAM 構成であっても Windows 11 をスムーズに実行できるように最適化された 8 GB デバイスを重視しています。
+
+MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中
+
+2025 年 8 月 18 日 Microsoft Windows 11 24H2 アップデートにより SSD 障害が発生する可能性がある (278)
+
+2025 年 10 月 21 日 Windows 11 25H2 October Update のバグにより回復環境が使用不能になる (170)
+
+2025 年 10 月 17 日 Microsoft が Windows 11 October Update で Localhost を破壊し、ユーザーは強制的に元に戻される (105)
+
+2026 年 1 月 16 日 NVIDIA が GeForce RTX 5070 Ti の生産を終了、RTX 5060 Ti 16 GB Next (210) と伝えられる
+
+2025 年 10 月 1 日 Microsoft が Windows 11 25H2 をリリース…新機能はゼロ？ (122)
+
+2025 年 12 月 14 日 Microsoft Copilot AI が LG TV に搭載、削除できない (144)
+
+2025 年 10 月 7 日 Microsoft が Windows 11 でのオンライン アカウント バイパスをブロック (162)
+
+2026 年 5 月 1 日 Microsoft は、Windows 11 の「心配しない」アップグレードとして 32 GB RAM を推奨するようになりました (147)
+
+2025 年 8 月 19…</p><p><img src="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg" alt="MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中"></p>]]></description><source url="https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-mentions-of-32-gb-ram-recommendation-for-windows-11">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg"/></item>
 <item><title>2026 年 8 月の新しい Audible オーディオブックのベスト 10</title><link>https://goodereader.com/blog/book-recommendations/the-top-10-best-new-audible-audiobooks-for-august-2026</link><guid isPermaLink="true">https://goodereader.com/blog/book-recommendations/the-top-10-best-new-audible-audiobooks-for-august-2026</guid><pubDate>Wed, 05 Aug 2026 14:17:29 +0000</pubDate><description><![CDATA[<p>2026 年 8 月の新しい Audible オーディオブックのベスト 10
 
 Audible.com で最も期待され、高く評価されている新しいオーディオブックには、スター勢揃いのフルキャストのパフォーマンス、大ヒット作の続編、深い文学小説が含まれています。
@@ -5695,6 +5744,7 @@ By Yash Patel 公開 2026 年 8 月 4 日、午後 5:00 EDT 2018 年にテクノ
 単なるクリップボードマネージャーではありません
 
 OctoClipを初めてインストールしたとき、私はこれがよりクリーンなイ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/octoclip-clipboard-manager.png?w=1600&amp;h=900&amp;fit=crop" alt="このクロスデバイス クリップボード アプリを見つけてから、クリップボード マネージャーを捨てました"></p>]]></description><source url="https://www.xda-developers.com/octoclip-cross-device-clipboard-app/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/octoclip-clipboard-manager.png?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/octoclip-clipboard-manager.png?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>Microsoft plans to make Xbox 360 games playable on PC through the Xbox app, leaked document reveals</title><link>https://www.tweaktown.com/rss/click/news/112997/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112997/?c=news-mf</guid><pubDate>Tue, 04 Aug 2026 20:30:10 +0000</pubDate><description><![CDATA[<p>Microsoft plans to make Xbox 360 games playable on PC through the Xbox app, leaked document reveals</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112997/?c=news-mf">TweakTown</source></item>
 <item><title>セルフホスト型メディア サーバーをどのストリーミング サービスよりも優れたものに変えた 5 つのツール</title><link>https://www.xda-developers.com/self-hosted-media-tools-better-than-streaming/</link><guid isPermaLink="true">https://www.xda-developers.com/self-hosted-media-tools-better-than-streaming/</guid><pubDate>Tue, 04 Aug 2026 20:30:10 +0000</pubDate><description><![CDATA[<p>セルフホスト型メディア サーバーをどのストリーミング サービスよりも優れたものに変えた 5 つのツール
 
 これら 5 つの自己ホスト型ツールは、リビング ルーム全体で再生、リクエスト、編成、字幕、スケジュールされたチャンネルを処理します。
@@ -5706,7 +5756,6 @@ Jeff Butts 著 2026 年 8 月 4 日午後 4 時 30 分 EDT 公開 ジェフは�
 Jellyfin は再生側をほぼすぐに解決しましたが、再生は仕事の一部にすぎないことがすぐにわかりました。リクエスト、名前、字幕、構成、そして次に何を観るべきかという単純な質問が、依然として私の膝の上に戻ってきました。
 
 ここでスタックの残りの部分が重要になり始めました。各ツールは、別の手作業、間違った名前のフォルダー、または特定の映画があるかどうかを尋ねる別のテキストになってしまう特定の煩わしさを処理します。 Sonarr と Radarr は著作権侵害と同列に議…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/jellyfin-tv.jpg?w=1600&amp;h=900&amp;fit=crop" alt="セルフホスト型メディア サーバーをどのストリーミング サービスよりも優れたものに変えた 5 つのツール"></p>]]></description><source url="https://www.xda-developers.com/self-hosted-media-tools-better-than-streaming/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/jellyfin-tv.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/jellyfin-tv.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>Microsoft plans to make Xbox 360 games playable on PC through the Xbox app, leaked document reveals</title><link>https://www.tweaktown.com/rss/click/news/112997/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112997/?c=news-mf</guid><pubDate>Tue, 04 Aug 2026 20:30:10 +0000</pubDate><description><![CDATA[<p>Microsoft plans to make Xbox 360 games playable on PC through the Xbox app, leaked document reveals</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112997/?c=news-mf">TweakTown</source></item>
 <item><title>This ESP32-Based PCIe Card Powers on a PC Remotely</title><link>https://www.hackster.io/news/this-esp32-based-pcie-card-powers-on-a-pc-remotely-b58c0b21bcd5</link><guid isPermaLink="true">https://www.hackster.io/news/this-esp32-based-pcie-card-powers-on-a-pc-remotely-b58c0b21bcd5</guid><pubDate>Tue, 04 Aug 2026 20:29:37 +0000</pubDate><description><![CDATA[<p>This ESP32-Based PCIe Card Powers on a PC Remotely</p>]]></description><source url="https://www.hackster.io/news/this-esp32-based-pcie-card-powers-on-a-pc-remotely-b58c0b21bcd5">Hackster.io</source></item>
 <item><title>(PR) Samsung Unveils Next-Gen 3D-Memory Vision at FMS 2026</title><link>https://www.techpowerup.com/351366/samsung-unveils-next-gen-3d-memory-vision-at-fms-2026</link><guid isPermaLink="true">https://www.techpowerup.com/351366/samsung-unveils-next-gen-3d-memory-vision-at-fms-2026</guid><pubDate>Tue, 04 Aug 2026 20:24:43 +0000</pubDate><description><![CDATA[<p>(PR) Samsung Unveils Next-Gen 3D-Memory Vision at FMS 2026</p>]]></description><source url="https://www.techpowerup.com/351366/samsung-unveils-next-gen-3d-memory-vision-at-fms-2026">TechPowerUp</source></item>
 <item><title>ASUS Googlebook を初めて見ると、Google のラップトップ計画が具体化しつつあることがわかります</title><link>https://www.androidauthority.com/asus-googlebook-leak-3694565/</link><guid isPermaLink="true">https://www.androidauthority.com/asus-googlebook-leak-3694565/</guid><pubDate>Tue, 04 Aug 2026 20:24:11 +0000</pubDate><description><![CDATA[<p>ASUS Googlebook を初めて見ると、Google のラップトップ計画が具体化しつつあることがわかります
@@ -6479,79 +6528,4 @@ Pixel ファンは何よりも優れたバッテリーを望んでいますが�
 
 調査参加者の半数以上が、Pixel 11 シリーズのバッテリー寿命の向…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/pixel-11-pro-ev-1-scaled.jpg" alt="Pixel 11 のウィッシュリストには、1 つの要求が他のすべてよりも優先されます"></p>]]></description><source url="https://www.androidauthority.com/google-pixel-11-wishlist-survey-3694376/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/pixel-11-pro-ev-1-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/pixel-11-pro-ev-1-scaled.jpg"/></item>
 <item><title>An Entire Retro Gaming System Inside an NES Gamepad</title><link>https://www.hackster.io/news/an-entire-retro-gaming-system-inside-an-nes-gamepad-c880af976c37</link><guid isPermaLink="true">https://www.hackster.io/news/an-entire-retro-gaming-system-inside-an-nes-gamepad-c880af976c37</guid><pubDate>Tue, 04 Aug 2026 14:04:36 +0000</pubDate><description><![CDATA[<p>An Entire Retro Gaming System Inside an NES Gamepad</p>]]></description><source url="https://www.hackster.io/news/an-entire-retro-gaming-system-inside-an-nes-gamepad-c880af976c37">Hackster.io</source></item>
-<item><title>アマゾンが『ゴッド・オブ・ウォー』シリーズのクレイトス役にデイブ・バウティスタをキャストと報じられている</title><link>https://www.kitguru.net/gaming/matthew-wilson/amazon-reportedly-casting-dave-bautista-as-kratos-for-god-of-war-series/</link><guid isPermaLink="true">https://www.kitguru.net/gaming/matthew-wilson/amazon-reportedly-casting-dave-bautista-as-kratos-for-god-of-war-series/</guid><pubDate>Tue, 04 Aug 2026 14:00:45 +0000</pubDate><description><![CDATA[<p>アマゾンが『ゴッド・オブ・ウォー』シリーズのクレイトス役にデイブ・バウティスタをキャストと報じられている
-
-しばらくの間、『ゴッド・オブ・ウォー』のキャストは固まったかに見えたが、テレビ版のプロデューサーらは負傷を受け、オリジナルのクレイトス役からの降板をすぐに決定した。現在、デイブ・バウティスタがその役割を担う可能性があるようだ。
-
-アマゾンが『ゴッド・オブ・ウォー』シリーズのクレイトス役にデイブ・バウティスタをキャストと報じられている
-
-Matthew Wilson 14 時間前 注目の技術ニュース , ソフトウェア &amp; ゲーム
-
-しばらくの間、『ゴッド・オブ・ウォー』のキャストは固まったかに見えたが、テレビ版のプロデューサーらは負傷を受け、オリジナルのクレイトス役からの降板をすぐに決定した。現在、デイブ・バウティスタがその役割を担う可能性があるようだ。バウティスタは、『ガーディアンズ・オブ・ギャラクシー』のドラックス役や他のいくつかのマーベル映画で最もよく知られています。バウティスタはまた、将来の『Gears of War』適応作での役割を求めて自身を激しく宣伝してきた。 Netflixの『Gears of War』の適応は当面休止中のようだが、バウティスタ氏は別のGoWシリーズに取り組みを移すかもしれない。 Variety によると、アマゾンとソニーはすでに、デイブ・バウティスタを以前の俳優から退役させてクレイトスの主役に据える計画を立てているという。アマゾンはまた、少なくとも2027年まで休止していた同シリーズの製作を早急に再開したいと考えている。まだ公式には何も発表されていないが、バウティスタは間違いなくクレイトス役にぴったりだろう。 KitGuru のコメント: バウティスタはクレイトス役をうまく演じると思いますか、それとも別の俳優のほうがいいと思いますか?パトロンになりましょう！ Facebookをシェアする</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/03/Kratos-God-of-War-Amazon-732x330.jpg" alt="アマゾンが『ゴッド・オブ・ウォー』シリーズのクレイトス役にデイブ・バウティスタをキャストと報じられている"></p>]]></description><source url="https://www.kitguru.net/gaming/matthew-wilson/amazon-reportedly-casting-dave-bautista-as-kratos-for-god-of-war-series/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/03/Kratos-God-of-War-Amazon-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/03/Kratos-God-of-War-Amazon-732x330.jpg"/></item>
-<item><title>オーストラリアの裏道を走るロードトレイン</title><link>https://hackaday.com/2026/08/04/road-trains-roam-the-backroads-of-australia/</link><guid isPermaLink="true">https://hackaday.com/2026/08/04/road-trains-roam-the-backroads-of-australia/</guid><pubDate>Tue, 04 Aug 2026 14:00:10 +0000</pubDate><description><![CDATA[<p>オーストラリアの裏道を走るロードトレイン
-
-電車とそれが走る鉄道は、たくさんのものやたくさんの人を遠くまで移動させるのに最適な手段です。鋼鉄レール上の鋼鉄車輪は、大きな荷重を良好な速度で移動させることができ、鉄道は依然としてバックバックアップとして機能します。
-
-電車とそれが走る鉄道は、たくさんのものやたくさんの人を遠くまで移動させるのに最適な手段です。鋼鉄レール上の鋼鉄車輪は大きな荷物を高速で移動させることができ、鉄道はまさにこの理由から物流の基幹であり続けています。唯一の問題は、構築に多額の初期投資が必要であり、長期間にわたって機能を維持するには多大なメンテナンスが必要なことです。
-
-これらの懸念により、遠隔地への大量の物品の出入りに関して鉄道は困難な命題になる可能性があります。これはオーストラリアが直面している問題であり、人里離れた開拓地にもかかわらず、高処理量の貨物輸送を必要としている。そして、鉄道に行けないなら、道路に行くことになります…大々的に。
-
-オーストラリアの地理上の単純な事実は、町や都市が互いに何千、何千キロも離れているということです。多くの場合、広大で乾燥した内陸部に埋もれた人里離れた鉱山や農場と同様に、これらの場所との間で商品を移動することが望まれます。しかし、これらすべての異なる地域を常設の鉄道で結ぶことは決して現実的ではありませんでした。距離は常に長すぎ、輸送量は費用に見合うほど多くありませんでした。同時に、トラックのみに依存することは、経済的に有利であることはほとんどありませんでした。
-
-解決策は簡単で、驚くほど単純でした。より大きなトラックでより多くのトレーラーを牽引するというものでした。地元の用語では、ロードトレインは 2 台以上のトレーラーを牽引する原動機 (またはトラクター) で構成されます。
-
-大型車両国内法による公式の定義では、全国で定期的に見られる標準的な B-Double 構成は除外されています。代わりに、ロードトレインは、より長い A-Double 構成にすることも、B-Triple や BAB Quad など、単一の原動…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/RoadTrain.jpg" alt="オーストラリアの裏道を走るロードトレイン"></p>]]></description><source url="https://hackaday.com/2026/08/04/road-trains-roam-the-backroads-of-australia/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/RoadTrain.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/RoadTrain.jpg"/></item>
-<item><title>reComputer Mini J501 Edge AI コンピューターは、NVIDIA Jetson AGX Orin 64GB/32GB モジュール、2 つの FAKRA カメラ コネクタを備えています</title><link>https://www.cnx-software.com/2026/08/04/recomputer-mini-j501-edge-ai-computer-features-nvidia-jetson-agx-orin-64gb-32gb-module-two-fakra-camera-connectors/</link><guid isPermaLink="true">https://www.cnx-software.com/2026/08/04/recomputer-mini-j501-edge-ai-computer-features-nvidia-jetson-agx-orin-64gb-32gb-module-two-fakra-camera-connectors/</guid><pubDate>Tue, 04 Aug 2026 13:59:49 +0000</pubDate><description><![CDATA[<p>reComputer Mini J501 Edge AI コンピューターは、NVIDIA Jetson AGX Orin 64GB/32GB モジュール、2 つの FAKRA カメラ コネクタを備えています
-
-ロボット アプリケーション向けに設計された reComputer Mini J501 は、NVIDIA Jetson AGX Orin 64GB または 32GB モジュールを搭載したエッジ AI コンピューターであり、
-
-ロボット アプリケーション向けに設計された reComputer Mini J501 は、NVIDIA Jetson AGX Orin 64GB または 32GB モジュールを搭載したエッジ AI コンピューターで、最大 275 TOPS の AI パフォーマンスを実現します。
-
-このコンピューターには、10GbE および GbE RJ45 ポート、HDMI 2.1 ビデオ出力、USB 3.2 ポート 2 つ、USB 2.0 Type-C デバッグ/リカバリ ポート 2 つ、128 M.2 NVMe SSD、最大 8 台の GMSL2 カメラ用の 2 つの FAKRA コネクタ、およびその他のさまざまな I/O コネクタが備えられています。
-
-reComputer Mini J501 の仕様:
-
-システムオンモジュール (いずれか) NVIDIA Jetson AGX Orin 32GB ( reComputer Mini J5011 モデル) CPU – 8 コア Arm Cortex-A78AE v8.2 64 ビット プロセッサ @ 2.2 GHz、2MB L2 + 4MB L3 キャッシュ
-
-930 MHz で 1792 個の NVIDIA CUDA コアと 56 個の Tensor コアを備えた GPU および AI NVIDIA Ampere アーキテクチャ
-
-DL アクセラレータ – 2x NVDLA エンジン @ 最大 1.4 GHz
-
-ビデオエンコード – 1x 4K60 | 3x 4K30 | 7x 1080p60 (HEV…</p><p><img src="https://www.cnx-software.com/wp-content/uploads/2026/08/reComputer-mini-J501.jpg" alt="reComputer Mini J501 Edge AI コンピューターは、NVIDIA Jetson AGX Orin 64GB/32GB モジュール、2 つの FAKRA カメラ コネクタを備えています"></p>]]></description><source url="https://www.cnx-software.com/2026/08/04/recomputer-mini-j501-edge-ai-computer-features-nvidia-jetson-agx-orin-64gb-32gb-module-two-fakra-camera-connectors/">CNX Software</source><media:content url="https://www.cnx-software.com/wp-content/uploads/2026/08/reComputer-mini-J501.jpg" medium="image"/><media:thumbnail url="https://www.cnx-software.com/wp-content/uploads/2026/08/reComputer-mini-J501.jpg"/></item>
-<item><title>Lenovo ThinkPad E14 G8 レビュー - 長いバッテリー寿命を備えたクラシックな ThinkPad の AMD アップデート</title><link>https://www.notebookcheck.net/Lenovo-ThinkPad-E14-G8-review-AMD-update-for-the-classic-ThinkPad-with-long-battery-life.1358792.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/Lenovo-ThinkPad-E14-G8-review-AMD-update-for-the-classic-ThinkPad-with-long-battery-life.1358792.0.html</guid><pubDate>Tue, 04 Aug 2026 13:49:00 +0000</pubDate><description><![CDATA[<p>Lenovo ThinkPad E14 G8 レビュー - 長いバッテリー寿命を備えたクラシックな ThinkPad の AMD アップデート
-
-Notebookcheck は、AMD Ryzen AI 7 345、16 GB の RAM、Radeon 840M、およびマットな 14 インチ WUXGA IPS ディスプレイを搭載した Lenovo ThinkPad E14 G8 をレビューしています。
-
-Lenovo ThinkPad E14 G8 レビュー - 長いバッテリー寿命を備えたクラシックな ThinkPad の AMD アップデート - Notebookcheck レビュー ▼
-
-評決 - 長いバッテリー寿命と日常使用の高い実用性を両立
-
-Lenovo は、ThinkPad E14 G8 で、人気の高いビジネス ラップトップのアップデートを成功させました。 AMD Ryzen AI 7 345、安定したシステム パフォーマンス、および長いバッテリー寿命の組み合わせにより、この 14 インチ デバイスは毎日のモバイル作業の信頼できる相棒になります。これに、2 つの SO-DIMM と 2 つの M.2 スロット、2 つの USB4 ポートを含む最新のポート、Wi-Fi 7、そして典型的に優れた ThinkPad キーボードによる優れた保守性が追加されています。
-
-400 cd/m² のマット WUXGA IPS ディスプレイは、輝度が高いため屋外での使用に適していますが、色域が限られているため、色が重要な作業への適性は制限されます。テスト ユニットのシングル チャネル メモリ構成も、特に統合された Radeon 840M のパフォーマンスに顕著な影響を与えます。ただし、この欠点は 2 番目の RAM モジュールを追加することで簡単に解決できます。
-
-良好 (86%) ThinkPad E14 G8-21Y2006XGE AMD Ryzen AI 7 345 AMD Radeon 840M Office - 08/03/2026 - v8 テスト デバイスは …</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/Lenovo/ThinkPad_E14_G8-21Y2006XGE/ThinkPad_G8_11.jpg" alt="Lenovo ThinkPad E14 G8 レビュー - 長いバッテリー寿命を備えたクラシックな ThinkPad の AMD アップデート"></p>]]></description><source url="https://www.notebookcheck.net/Lenovo-ThinkPad-E14-G8-review-AMD-update-for-the-classic-ThinkPad-with-long-battery-life.1358792.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/Lenovo/ThinkPad_E14_G8-21Y2006XGE/ThinkPad_G8_11.jpg" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/Lenovo/ThinkPad_E14_G8-21Y2006XGE/ThinkPad_G8_11.jpg"/></item>
-<item><title>(PR) キオクシアとサンディスク、インターフェース速度4.8 Gb/sの第10世代332層QLC NANDを発表</title><link>https://www.techpowerup.com/351353/kioxia-and-sandisk-unveil-10th-gen-332-layer-qlc-nand-with-4-8-gb-s-interface-speeds</link><guid isPermaLink="true">https://www.techpowerup.com/351353/kioxia-and-sandisk-unveil-10th-gen-332-layer-qlc-nand-with-4-8-gb-s-interface-speeds</guid><pubDate>Tue, 04 Aug 2026 13:38:36 +0000</pubDate><description><![CDATA[<p>(PR) キオクシアとサンディスク、インターフェース速度4.8 Gb/sの第10世代332層QLC NANDを発表
-
-キオクシアホールディングス株式会社 (東京: 285A) とサンディスク株式会社 (ナスダック: SNDK) の子会社であるキオクシア株式会社は本日、次世代クアッドレベルセル (QLC) 3D フラッシュ メモリ テクノロジーを発表しました。これは、第 8 世代と比較してビット密度が最大 60% 増加し、...
-
-キオクシアとサンディスク、インターフェイス速度 4.8 Gb/s の第 10 世代 332 層 QLC NAND を発表
-
-332 層アーキテクチャと最適化されたフロアプラン設計により、ビット密度が最大 60% 増加し、第 8 世代と比較して &gt;37 Gb/mm² を達成します。
-
-Toggle DDR6.0とSeparate Command Address（SCA）プロトコルにより実現された4.8 Gb/s*3 NANDインターフェイスにより、高速インターフェイスの可能性を最大限に引き出します。
-
-CMOS Direct Bonded to Array (CBA) アーキテクチャにより、密度のスケーリング、パフォーマンス、製造効率が向上します。
-
-電源絶縁低タップ終端 (PI-LTT) により、I/O データ出力転送の電力効率が向上します。
-
-2026 年 7 月 14 日 YMTC SSD がドイツの Lenovo ノートパソコンに初めて搭載 (24)
-
-2026 年 7 月 2 日 キオクシア、第 10 世代 BiCS FLASH デバイスのサンプル出荷を開始 (0)
-
-2026 年 7 月 29 日 キオクシア、UFS 5.0 組み込みフラッシュ メモリ デバイスを発表 (2)
-
-2026 年 2 月 7 日 30,000 人の NVIDIA エンジニアが生成 AI を使用して 3 倍のコード出力を実現 (147)
-
-2026 年 7 月 30 日 キオクシア、第 9 世代 BiCS FLASH 1 Tb TLC デバイスのサンプル出荷…</p><p><img src="https://www.techpowerup.com/img/IVBzacXcro81UtAt.jpg" alt="(PR) キオクシアとサンディスク、インターフェース速度4.8 Gb/sの第10世代332層QLC NANDを発表"></p>]]></description><source url="https://www.techpowerup.com/351353/kioxia-and-sandisk-unveil-10th-gen-332-layer-qlc-nand-with-4-8-gb-s-interface-speeds">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/IVBzacXcro81UtAt.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/IVBzacXcro81UtAt.jpg"/></item>
 </channel></rss>
