@@ -130,19 +130,7 @@ func run(ctx context.Context, now time.Time, lookback time.Duration, configPath,
 		if err != nil {
 			return fmt.Errorf("collect %s: %w", set.Title, err)
 		}
-		sort.Slice(collected.Items, func(i, j int) bool { return collected.Items[i].Published.After(collected.Items[j].Published) })
-		fresh := make([]item, 0, min(len(collected.Items), maxItemsPerFeed))
-		for _, article := range collected.Items {
-			if len(fresh) >= maxItemsPerFeed {
-				break
-			}
-			key := itemKey(article.Link)
-			if _, exists := known[key]; exists && !refreshSeen {
-				continue
-			}
-			known[key] = now
-			fresh = append(fresh, article)
-		}
+		fresh := selectFresh(collected.Items, known, now, refreshSeen)
 		enrichItems(ctx, client, summarizer, set.TranslateTitles, fresh)
 		archive[set.Path] = mergeArticles(archive[set.Path], fresh, now)
 		if err := writeFeed(filepath.Join(outputDir, set.Path), set, archive[set.Path], now); err != nil {
@@ -154,6 +142,28 @@ func run(ctx context.Context, now time.Time, lookback time.Duration, configPath,
 		return err
 	}
 	return writeArchive(archivePath, archive)
+}
+
+// selectFresh picks up to maxItemsPerFeed unseen articles, oldest first.
+// Oldest-first matters when a cron gap leaves more backlog than one run can
+// consume: newest-first drains the head and lets the tail age past the
+// LOOKBACK window, dropping those articles permanently. FIFO drains the
+// backlog while every item is still inside the window.
+func selectFresh(items []item, known seen, now time.Time, refreshSeen bool) []item {
+	sort.Slice(items, func(i, j int) bool { return items[i].Published.Before(items[j].Published) })
+	fresh := make([]item, 0, min(len(items), maxItemsPerFeed))
+	for _, article := range items {
+		if len(fresh) >= maxItemsPerFeed {
+			break
+		}
+		key := itemKey(article.Link)
+		if _, exists := known[key]; exists && !refreshSeen {
+			continue
+		}
+		known[key] = now
+		fresh = append(fresh, article)
+	}
+	return fresh
 }
 
 func min(a, b int) int {
