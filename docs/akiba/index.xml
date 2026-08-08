@@ -1,6 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sat, 08 Aug 2026 22:46:15 +0000</lastBuildDate>
+<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sat, 08 Aug 2026 23:43:57 +0000</lastBuildDate>
+<item><title>Claude Code、ターミナル間のコピペ地獄が終わった</title><link>https://gori.me/it/168827</link><guid isPermaLink="true">https://gori.me/it/168827</guid><pubDate>Sat, 08 Aug 2026 23:17:20 +0000</pubDate><description><![CDATA[<p>Claude Code、ターミナル間のコピペ地獄が終わった
+
+Anthropicが、Claude Codeのセッション同士が直接メッセージを送り合えるcross-session messagingを追加した。v2.1.224以降のmacOSとLinuxで利用できる。渡るのはテキストだけで、会話履歴やファイル、権限は共有されない。同じMac上の通信は端末内で完結する。
+
+クイック Claude Code、ターミナル間のコピペ地獄が終わった
+
+Claude Code v2.1.224で、別々に動かしているセッション同士がメッセージを送り合えるようになった
+
+ListAgentsで相手を探し、SendMessageでテキストを届ける。会話履歴・ファイル・権限は渡らない
+
+macOSとLinuxのみ対応でネイティブWindowsは非対応、同一マシン上の通信はサーバーを経由しない
+
+Claude Codeのセッション同士が、直接メッセージを送り合えるようになった 。 Anthropicの公式ドキュメント によると、8月7日に公開されたClaude Code v2.1.224から「cross-session messaging」が利用できる。
+
+New in Claude Code: your sessions can now message each other.
+
+Instead of having to re-explain yourself in another session, you can now tell Claude to do it. It sends a summary (not your history or files), and the other session picks it up mid-task. pic.twitter.com/PtNsfXeQXP
+
+— ClaudeDevs (@ClaudeDevs) August 7, 2026
+
+仕組みを支えるのは2つのツールだ。到達できるセッションを探す ListAgents と、指定した相手にテキス…</p><p><img src="https://gori.me/uploads/2026/08/brecht-corbeel-W56tWqJ0Azo-unsplash-800x540.jpg" alt="Claude Code、ターミナル間のコピペ地獄が終わった"></p>]]></description><source url="https://gori.me/it/168827">gori.me</source><media:content url="https://gori.me/uploads/2026/08/brecht-corbeel-W56tWqJ0Azo-unsplash-800x540.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/08/brecht-corbeel-W56tWqJ0Azo-unsplash-800x540.jpg"/></item>
+<item><title>Xの収益分配が9月7日で終了。新制度は自動移行じゃないし、利用資格も変わる</title><link>https://gori.me/twitter/168824</link><guid isPermaLink="true">https://gori.me/twitter/168824</guid><pubDate>Sat, 08 Aug 2026 23:06:52 +0000</pubDate><description><![CDATA[<p>Xの収益分配が9月7日で終了。新制度は自動移行じゃないし、利用資格も変わる
+
+Xがクリエイター向けの収益分配プログラムを2026年9月7日で終了し、新制度「Original Content Rewards Program」へ移行すると発表した。既存参加者も自動移行ではなく、認証済みフォロワー500人以上などの条件を満たしたうえで9月8日以降に申請が必要になる。
+
+クイック Xの収益分配が9月7日で終了。新制度は自動移行じゃないし、利用資格も変わる
+
+次はオリジナル投稿だけが稼げる、既存の参加者も条件を満たして申請し直す必要がある
+
+Xの収益分配（Revenue Sharing）は2026年9月7日で終了、最後の支払いは9月11日ごろ
+
+後継の「Original Content Rewards Program」は9月8日から申請開始、自動移行はなし
+
+認証済みフォロワー500人以上、90日で50万インプレッション以上などの条件があり、転載・パクツイは報酬対象外
+
+Xがクリエイター向けの収益分配プログラム 「Revenue Sharing」を2026年9月7日で終了 し、 新制度「Original Content Rewards Program」へ移行 すると発表した。新規登録の受付はすでに停止済みで、既存参加者への最後の支払いは9月11日ごろに行われる。
+
+大きいのは、既存の参加者がそのまま新制度に移るわけではないという点だ。9月8日から順次申請できるようになるが、参加するには以下の条件を満たす必要がある。
+
+X Premium、Premium+、Premium Businessのいずれかに加入していること
+
+過去90日間で認証ユーザーからのホームタイムラインインプレッションが 50万回以上 （返信への表示は除く）
+
+報酬の対象になるのは「qualified impressions」と呼ばれる、X Premium加入者がホームタイムラインで投稿の50%以上を表示した重複なしのインプレッションのみ。他人の投稿のコピーや無断転載、動画の再アップ、自動生成された投稿は報酬対象外…</p><p><img src="https://gori.me/uploads/2026/08/Original-Contents-Award-800x320.jpeg" alt="Xの収益分配が9月7日で終了。新制度は自動移行じゃないし、利用資格も変わる"></p>]]></description><source url="https://gori.me/twitter/168824">gori.me</source><media:content url="https://gori.me/uploads/2026/08/Original-Contents-Award-800x320.jpeg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/08/Original-Contents-Award-800x320.jpeg"/></item>
+<item><title>自動追尾にも対応した4Kデュアルレンズ搭載のセキュリティカメラ2製品がTP-Linkから</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2131167.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2131167.html</guid><pubDate>Sat, 08 Aug 2026 23:05:00 +0000</pubDate><description><![CDATA[<p>自動追尾にも対応した4Kデュアルレンズ搭載のセキュリティカメラ2製品がTP-Linkから
+
+ソーラー給電デュアルレンズパンチルトセキュリティカメラキット「Tapo C675D KIT」と、屋外デュアルレンズパンチルトセキュリティWi-Fiカメラ「Tapo C575D」が、TP-Linkから発売。
+
+自動追尾にも対応した4Kデュアルレンズ搭載のセキュリティカメラ2製品がTP-Linkから
+
+ソーラー給電デュアルレンズパンチルトセキュリティカメラキット「Tapo C675D KIT」と、屋外デュアルレンズパンチルトセキュリティWi-Fiカメラ「Tapo C575D」が、TP-Linkから発売。
+
+オンライン販売モデルで、想定販売価格はTapo C675D KITが36,800円、Tapo C575Dが25,800円。
+
+Tapo C675D KITはソーラー給電に対応し4Kデュアルレンズを搭載したIP65準拠のセキュリティカメラキット。付属のソーラーパネルは約90分間の直射日光でカメラ1日分の稼働に必要な電力を供給できる。また、内蔵バッテリーはフル充電時で最長90日間使用できる。
+
+視野角169°の固定レンズ（広角）とパンチルトレンズ（6mm望遠）を搭載。固定レンズが検知した対象を、パンチルトレンズが360°自動追尾する。夜間でもフルカラー撮影が可能となるスポットライトとスターライトセンサーも搭載する。
+
+また、赤と青の警告LEDと内蔵サイレンによるアラート機能を搭載。不審な人物や車両を検知するとライトの点滅とサイレンで警告する。
+
+寸法はカメラが102.2×160.3×132mm、ソーラーパネルが211.2×173.6×16.9mm。無線規格はIEEE 802.11b/g/n（2.4GHz Wi-Fi）、IEEE 802.11a/n（5GHz Wi-Fi）。
+
+製品構成はTapo C675D本体、Tapo A202ソーラーパネル、Tapo A202ソーラーパネル用台座、USB充電ケーブル、延長ケーブル、取り付け用ネジ、取り付け用アンカー、位置決めシール、かんたん設定ガイド…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2131/167/s2.jpg" alt="自動追尾にも対応した4Kデュアルレンズ搭載のセキュリティカメラ2製品がTP-Linkから"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2131167.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2131/167/s2.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2131/167/s2.jpg"/></item>
+<item><title>(今週のコレオシ) 「推し」が動く！液晶搭載のデジタル缶バッジ「Niji Badge Blue」</title><link>https://www.gdm.or.jp/crew/2026/0809/647596</link><guid isPermaLink="true">https://www.gdm.or.jp/crew/2026/0809/647596</guid><pubDate>Sat, 08 Aug 2026 23:00:56 +0000</pubDate><description><![CDATA[<p>(今週のコレオシ) 「推し」が動く！液晶搭載のデジタル缶バッジ「Niji Badge Blue」
+
+好きな画像や動画、GIFアニメを表示できるBeamboxのデジタル缶バッジ「Niji Badge Blue」を秋葉館でチェック。AI画像生成やバッジ同士の写真共有にも対応し、税込3,980円で販売中だ。
+
+(今週のコレオシ) 「推し」が動く！液晶搭載のデジタル缶バッジ「Niji Badge Blue」
+
+初回入荷分が完売し、再入荷分も好調に売れているというBeamboxのデジタル缶バッジ 「Niji Badge Blue」 。一般的な缶バッジとは異なり、本体にIPS液晶ディスプレイを搭載し、好きな画像や動画、GIFアニメなどを表示できる“動く缶バッジ”だ。今回は 秋葉館 で、その特徴や売れ行きを聞いてみた。
+
+「Niji Badge Blue」は、缶バッジ中央に1.53インチのIPSタッチスクリーンを搭載。解像度は360×360ドットで、JPGやPNG、GIFなどの画像表示に対応する。
+
+また、専用アプリを使えば、スマートフォンからコンテンツを転送可能。イベント当日に撮影した写真をその場で表示したり、複数の“推し”を気分に合わせて切り替えたりと、一般的な缶バッジにはない楽しみ方ができる。
+
+同店スタッフによると「複数まとめて購入していくお客さんもチラホラいました。推しのイベントに付けていくという人も多いみたいですよ」とのこと。実際、ガジェットとしての珍しさ以上に、“推し活アイテム”として手に取るユーザーが目立っているようだ。
+
+通信規格はBluetooth 5.4。対応するバッジ同士をワンクリックで接続し、写真を共有できる「インスタント転送機能」も備える。イベント会場で友人と撮影した写真をその場で送り合い、それぞれのバッジに表示するといった使い方もできる。
+
+さらに専用アプリにはAI画像生成機能も用意されており、生成した画像をそのままバッジに表示することも可能。手持ちの写真や画像を表示するだけでなく、その場で新しいビジュアルを作って楽しめる。
+
+本体は直径48.5mmとコ…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/08/08/akiba_kore20260809_01.jpg" alt="(今週のコレオシ) 「推し」が動く！液晶搭載のデジタル缶バッジ「Niji Badge Blue」"></p>]]></description><source url="https://www.gdm.or.jp/crew/2026/0809/647596">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/08/08/akiba_kore20260809_01.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/08/08/akiba_kore20260809_01.jpg"/></item>
 <item><title>海外旅行で”地味に超役立った”ガジェットは「高耐荷重カラビナ型フック」だった</title><link>https://gori.me/gadget/168816</link><guid isPermaLink="true">https://gori.me/gadget/168816</guid><pubDate>Sat, 08 Aug 2026 22:22:20 +0000</pubDate><description><![CDATA[<p>海外旅行で”地味に超役立った”ガジェットは「高耐荷重カラビナ型フック」だった
 
 出発直前まで持っていくか迷ったGEAR AIDのカラビナ型フック「ヒーロークリップ ラージ」が、ハワイ旅行でいちばん出番の多いガジェットになった。海外のトイレでリュックを床に置かずに済む安心感、買い物袋やヘッドホンを掛ける汎用性、そして気になった大きさと価格まで正直にレビューする。
@@ -6742,19 +6824,6 @@ AMD Navi GPUにおいて、VRAMチップごとの温度モニタリング機能�
 バージョン8.51 Build 6045 BetaではGeForce RTX 5000シリーズのホットスポット温度やVRAMチップごとの温度表示に対応しているほか、Radeon RX 9000シリーズなどにおいてもVRAMチップごとの温度表示に対応しています。
 
 (GeForce RTX 5000シリーズのホットスポット温度・VRAMチップごとの温度に関しては以前から 8.51 Build 6025 Beta 、 8.51…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2025/04/hwinfo-top.jpg" alt="HWiNFO v8.51 Build 6045 Beta公開。RadeonのVRAMチップごとの温度表示に対応"></p>]]></description><source url="https://www.nichepcgamer.com/archives/hwinfo-v8-51-build6045-beta.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2025/04/hwinfo-top.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2025/04/hwinfo-top.jpg"/></item>
-<item><title>マウス、オフィスで長期運用向けのIntel N150搭載ミニPC</title><link>https://pc.watch.impress.co.jp/docs/news/2130228.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2130228.html</guid><pubDate>Tue, 04 Aug 2026 02:00:00 +0000</pubDate><description><![CDATA[<p>マウス、オフィスで長期運用向けのIntel N150搭載ミニPC
-
-マウスコンピューターは8月4日、オフィスで一般的な業務や長期運用に向いたIntel N150搭載のミニPC「MousePro CR」シリーズを発売した。
-
-マウス、オフィスで長期運用向けのIntel N150搭載ミニPC
-
-マウスコンピューターは8月4日、オフィスで一般的な業務や長期運用に向いたIntel N150搭載のミニPC「MousePro CR」シリーズを発売した。
-
-MousePro CRシリーズは省スペースでありながら、HDMI、ミニD-Sub15ピン、USB Type-C(DisplayPort Alt Mode対応)の3画面出力に対応し、資料作成、Web会議、受発注業務といった複数モニターを活用するオフィスワーク向けの製品。また教育機関や自治体、店頭POS/バックヤード、コールセンター、会議室、サイネージなども想定している。
-
-上位モデルは、CPUにIntel N150、メモリに8GB、ストレージに256GB NVMe SSD、OSにWindows 11 Proを搭載し、価格は15万3,780円。
-
-下位モデルは、CPUにIntel N150、メモリに8GB、ストレージに128GB NVMe SSD、OSにWindows 11 Proを搭載し、価格は10万9,780円。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2130/228/1.jpg" alt="マウス、オフィスで長期運用向けのIntel N150搭載ミニPC"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2130228.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2130/228/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2130/228/1.jpg"/></item>
 <item><title>Ryzen搭載ミニPCが3万円台と激安！Amazonで期間限定セール中 [Sponsored]</title><link>https://pc.watch.impress.co.jp/docs/topic/special/2129941.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/topic/special/2129941.html</guid><pubDate>Tue, 04 Aug 2026 02:00:00 +0000</pubDate><description><![CDATA[<p>Ryzen搭載ミニPCが3万円台と激安！Amazonで期間限定セール中 [Sponsored]
 
 Amazonで、Ryzen 3 7330Uを搭載するNiPoGiのミニPC「P1」が、直近価格から1万3,000円引きの4万6,998円で販売中。加えて、クーポンコード「WD4YJNG2」を適用することで、7,000円引きの3万9,998円で購入できる。期限は8月9日までで、クーポンコードは決済時に使用可能だ。
@@ -6774,6 +6843,19 @@ NiPoGi P1は、CPUに4コア8スレッド、最大4.3GHz動作のRyzen 3 7330U�
 また、Ryzen 5 7530Uを搭載するミニPC「E3B」が7月28日から3万4,000円引きされていることに加え、クーポンコード「PNGBCTGF」の適用で6万4,998円で購入できる。
 
 NiPoGi E3Bの主な仕…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2129/941/01.jpg" alt="Ryzen搭載ミニPCが3万円台と激安！Amazonで期間限定セール中 [Sponsored]"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/topic/special/2129941.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2129/941/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2129/941/01.jpg"/></item>
+<item><title>マウス、オフィスで長期運用向けのIntel N150搭載ミニPC</title><link>https://pc.watch.impress.co.jp/docs/news/2130228.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2130228.html</guid><pubDate>Tue, 04 Aug 2026 02:00:00 +0000</pubDate><description><![CDATA[<p>マウス、オフィスで長期運用向けのIntel N150搭載ミニPC
+
+マウスコンピューターは8月4日、オフィスで一般的な業務や長期運用に向いたIntel N150搭載のミニPC「MousePro CR」シリーズを発売した。
+
+マウス、オフィスで長期運用向けのIntel N150搭載ミニPC
+
+マウスコンピューターは8月4日、オフィスで一般的な業務や長期運用に向いたIntel N150搭載のミニPC「MousePro CR」シリーズを発売した。
+
+MousePro CRシリーズは省スペースでありながら、HDMI、ミニD-Sub15ピン、USB Type-C(DisplayPort Alt Mode対応)の3画面出力に対応し、資料作成、Web会議、受発注業務といった複数モニターを活用するオフィスワーク向けの製品。また教育機関や自治体、店頭POS/バックヤード、コールセンター、会議室、サイネージなども想定している。
+
+上位モデルは、CPUにIntel N150、メモリに8GB、ストレージに256GB NVMe SSD、OSにWindows 11 Proを搭載し、価格は15万3,780円。
+
+下位モデルは、CPUにIntel N150、メモリに8GB、ストレージに128GB NVMe SSD、OSにWindows 11 Proを搭載し、価格は10万9,780円。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2130/228/1.jpg" alt="マウス、オフィスで長期運用向けのIntel N150搭載ミニPC"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2130228.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2130/228/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2130/228/1.jpg"/></item>
 <item><title>【本日みつけたお買い得品】GARMINのスマートウォッチが約4千円引き</title><link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2130254.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/todays_sales/2130254.html</guid><pubDate>Tue, 04 Aug 2026 01:38:08 +0000</pubDate><description><![CDATA[<p>【本日みつけたお買い得品】GARMINのスマートウォッチが約4千円引き
 
 Amazonにおいて、GARMINブランドのスマートウォッチ「Forerunner 965」が、直近価格の3,655円引きとなる6万4,870円で販売されている。
@@ -8167,17 +8249,6 @@ ASUSTeK Computer Inc.（本社：台湾）は2026年7月31日（現地時間）�
 これで全てが分かる。ASUS「Prime AP202 TG ARGB」徹底解説
 
 (アキバ取…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/08/03/AP304_01.jpg" alt="曲面ガラスとスロットベント採用のPCケース、ASUS「Prime AP304」"></p>]]></description><source url="https://www.gdm.or.jp/pressrelease/2026/0803/646659">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/08/03/AP304_01.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/08/03/AP304_01.jpg"/></item>
-<item><title>Core i5-8500やDVDドライブ搭載のHP製デスクトップPCが28,600円、Qualitの中古Cランク品が300台以上入荷</title><link>https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2129708.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2129708.html</guid><pubDate>Mon, 03 Aug 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>Core i5-8500やDVDドライブ搭載のHP製デスクトップPCが28,600円、Qualitの中古Cランク品が300台以上入荷
-
-Core i5-8500(6コア/6スレッド)を搭載したHP製デスクトップPC「ProDesk 600 G4 SF」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で特価販売中。
-
-Core i5-8500やDVDドライブ搭載のHP製デスクトップPCが28,600円、Qualitの中古Cランク品が300台以上入荷
-
-Core i5-8500(6コア/6スレッド)を搭載したHP製デスクトップPC「ProDesk 600 G4 SF」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で特価販売中 。
-
-今回販売されているのは、「傷や使用感が見られる」(同店)というCランク中古品で、販売価格は28,600円。保証期間は12か月となっています。
-
-主な仕様は、メモリが8GB(空きスロット×3)、ストレージが512GB M.2 SSD、OSがWindows 11 Pro。インターフェイスには、DisplayPort×2やVGA、USB 3.1 Type-Cなどを備えるほか、書き込み対応DVDドライブを搭載しています。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2129/708/a1.jpg" alt="Core i5-8500やDVDドライブ搭載のHP製デスクトップPCが28,600円、Qualitの中古Cランク品が300台以上入荷"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2129708.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2129/708/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2129/708/a1.jpg"/></item>
 <item><title>PHILIPS EVNIA���֤ˤ����󤸹ûұ�2026�׶�����ǰ�Ǻ��� �餵���ȥߥ��󡦥����ȥ��뤵���ˤ���PR�ۿ����»ܡ��������ڡ�����2�ƤⳫ�ϡ�PR��</title><link>https://www.4gamer.net/games/999/G999902/20260727032/</link><guid isPermaLink="true">https://www.4gamer.net/games/999/G999902/20260727032/</guid><pubDate>Mon, 03 Aug 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>PHILIPS EVNIA���֤ˤ����󤸹ûұ�2026�׶�����ǰ�Ǻ��� �餵���ȥߥ��󡦥����ȥ��뤵���ˤ���PR�ۿ����»ܡ��������ڡ�����2�ƤⳫ�ϡ�PR��
 
 ゲーマー向けモニターブランドPHILIPS EVNIAは本日，「にじさんじ甲子園2026」への協賛を記念し，笹木 咲さんとミラン・ケストレルさんによるPR配信を，2026年8月4日と5日に実施すると…
@@ -8193,6 +8264,17 @@ PHILIPS EVNIA，「にじさんじ甲子園2026」協賛記念で笹木 咲さ�
 ↓アイコン/タイトル↓ 過去は「消された」わけじゃない。「龍が如く 極3 / 龍が如く3外伝 Dark Ties」の“再演”の先に見えたもの ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
 
 ↓アイコン/タイトル↓ 私の新品Switch2の記…</p><p><img src="https://www.4gamer.net/games/999/G999902/20260727032/SS/001.jpg" alt="PHILIPS EVNIA���֤ˤ����󤸹ûұ�2026�׶�����ǰ�Ǻ��� �餵���ȥߥ��󡦥����ȥ��뤵���ˤ���PR�ۿ����»ܡ��������ڡ�����2�ƤⳫ�ϡ�PR��"></p>]]></description><source url="https://www.4gamer.net/games/999/G999902/20260727032/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/999/G999902/20260727032/SS/001.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/999/G999902/20260727032/SS/001.jpg"/></item>
+<item><title>Core i5-8500やDVDドライブ搭載のHP製デスクトップPCが28,600円、Qualitの中古Cランク品が300台以上入荷</title><link>https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2129708.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2129708.html</guid><pubDate>Mon, 03 Aug 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>Core i5-8500やDVDドライブ搭載のHP製デスクトップPCが28,600円、Qualitの中古Cランク品が300台以上入荷
+
+Core i5-8500(6コア/6スレッド)を搭載したHP製デスクトップPC「ProDesk 600 G4 SF」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で特価販売中。
+
+Core i5-8500やDVDドライブ搭載のHP製デスクトップPCが28,600円、Qualitの中古Cランク品が300台以上入荷
+
+Core i5-8500(6コア/6スレッド)を搭載したHP製デスクトップPC「ProDesk 600 G4 SF」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で特価販売中 。
+
+今回販売されているのは、「傷や使用感が見られる」(同店)というCランク中古品で、販売価格は28,600円。保証期間は12か月となっています。
+
+主な仕様は、メモリが8GB(空きスロット×3)、ストレージが512GB M.2 SSD、OSがWindows 11 Pro。インターフェイスには、DisplayPort×2やVGA、USB 3.1 Type-Cなどを備えるほか、書き込み対応DVDドライブを搭載しています。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2129/708/a1.jpg" alt="Core i5-8500やDVDドライブ搭載のHP製デスクトップPCが28,600円、Qualitの中古Cランク品が300台以上入荷"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2129708.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2129/708/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2129/708/a1.jpg"/></item>
 <item><title>(アキバ取材班) 生成AIを利用するゲームボーイカラー向けADV「Daydream」の設定資料集が入荷</title><link>https://www.gdm.or.jp/crew/2026/0803/646646</link><guid isPermaLink="true">https://www.gdm.or.jp/crew/2026/0803/646646</guid><pubDate>Mon, 03 Aug 2026 02:43:51 +0000</pubDate><description><![CDATA[<p>(アキバ取材班) 生成AIを利用するゲームボーイカラー向けADV「Daydream」の設定資料集が入荷
 
 ゲームボーイカラー向けアドベンチャーゲーム「Daydream」の設定資料集が家電のケンちゃんに入荷。取り扱いは店頭のみで、税込2,750円で販売されている。
@@ -9406,82 +9488,4 @@ Motorolaの未発表 スマートウォッチ で、社内名称が「Moto Watch
 その後の「 Moto 360 （第3世代）」やMoto Watch 100、Moto Watch 120などは、ブランドライセンスを取得した海外企業（eBuyNow／CE Brands）が展開したライセンス製品だったりします。
 
 その後、 Motorola は2026年1月、Polarの技術…</p><p><img src="https://smhn.info/wp-content/uploads/2026/08/moto-watch-ultra-1-1280w-720h.jpg.webp" alt="円形画面の元祖の新機種。未発表「Moto Watch Ultra」画像流出"></p>]]></description><source url="https://smhn.info/202608-motorola-moto-watch-ultra-smartwatch-leak-46mm-lte">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/08/moto-watch-ultra-1-1280w-720h.jpg.webp" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/08/moto-watch-ultra-1-1280w-720h.jpg.webp"/></item>
-<item><title>シャオミ自社開発スマホチップ「XRING O3」！次期「Xiaomi Pad 8S Pro」が搭載との噂</title><link>https://smhn.info/202608-xiaomi-pad-8s-pro-xring-o3-leak</link><guid isPermaLink="true">https://smhn.info/202608-xiaomi-pad-8s-pro-xring-o3-leak</guid><pubDate>Sat, 01 Aug 2026 09:29:32 +0000</pubDate><description><![CDATA[<p>シャオミ自社開発スマホチップ「XRING O3」！次期「Xiaomi Pad 8S Pro」が搭載との噂
-
-未発表タブレット「Xiaomi Pad 8S Pro」とされる仕様情報が流出しています。情報源は中国のWeiboのリーカー「熊猫很禿然」。リークによると、12.5型の3.2K液晶、Xiaomiの次世代自社開発SoCとされる「XRING O3」、1万2000mAhバッテリー、120...
-
-シャオミ自社開発スマホチップ「XRING O3」！次期「Xiaomi Pad 8S Pro」が搭載との噂
-
-未発表タブレット「 Xiaomi Pad 8S Pro」とされる仕様情報が流出しています。情報源は中国のWeiboのリーカー「熊猫很禿然」。
-
-リークによると、12.5型の3.2K液晶、Xiaomiの次世代自社開発SoCとされる「XRING O3」、1万2000mAhバッテリー、120W有線充電を採用する可能性があるとのことです。
-
-カメラは背面5000万画素＋200万画素、前面3200万画素とされています。数字だけを見れば、かなり欲張りな1台ですね。
-
-XRING O3は、Xiaomiが2025年に投入した初の自社開発ハイエンドSoC「XRING O1」（Xiaomi 15S Proや Xiaomi Pad 7 Ultraに搭載）の後継チップ。なぜか「O2」を飛ばした命名で、TSMCの3nmプロセスで製造されると噂されています。
-
-うわさでは、XRING O3は従来の大コアクラスタを廃した新設計のCPU構成を採用し、最大クロックは4GHz超え、GPUクロックも前世代比で約25%向上するとされ、単なる改良版ではなく大幅な刷新となる見込みです。
-
-なお XRING O3の初搭載機は、8月にも中国で発表されると噂の 折りたたみスマートフォン 「 Xiaomi MIX Fold 5」になると報じられており、Pad 8S Proもそれに続くという形になるかも知れません。
-
-XRING O1 採用が一部機種に限られたのに対し、O3は複数の機種へ幅広く展開されるとの観測があり、本 タブ…</p><p><img src="https://smhn.info/wp-content/uploads/2026/08/90337bb14bbcf2737b3189d68c376ba4.png" alt="シャオミ自社開発スマホチップ「XRING O3」！次期「Xiaomi Pad 8S Pro」が搭載との噂"></p>]]></description><source url="https://smhn.info/202608-xiaomi-pad-8s-pro-xring-o3-leak">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/08/90337bb14bbcf2737b3189d68c376ba4.png" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/08/90337bb14bbcf2737b3189d68c376ba4.png"/></item>
-<item><title>ASRock×インテル、8月8日にソフマップなんば店で店頭イベント開催</title><link>https://www.gdm.or.jp/pressrelease/2026/0801/646577</link><guid isPermaLink="true">https://www.gdm.or.jp/pressrelease/2026/0801/646577</guid><pubDate>Sat, 01 Aug 2026 09:16:54 +0000</pubDate><description><![CDATA[<p>ASRock×インテル、8月8日にソフマップなんば店で店頭イベント開催
-
-ASRockは8月8日、ビックカメラアウトレット×ソフマップなんば店でインテルとの共同イベントを開催。Core Ultra 7 270K PlusとASRock製水冷クーラーを使用したマルチタスク性能検証のほか、プレゼント企画や抽選会も実施する。
-
-ASRock×インテル、8月8日にソフマップなんば店で店頭イベント開催
-
-Core Ultra 7 270K PlusとASRock水冷クーラーで限界マルチタスク性能を検証
-
-ASRock Inc.（本社：台湾・台北）はインテル株式会社の協力のもと、8月8日（土）にビックカメラアウトレット×ソフマップなんば店で店頭イベント 「ASRock×インテル イベント第2弾」 を開催する。
-
-イベントでは、インテル最新CPU「Core Ultra 7 270K Plus」とASRock製オールインワン型水冷クーラーを組み合わせ、「コスパ番長を決める！限界マルチタスク性能検証」をテーマに、冷却性能やパーツ構成によるマルチタスク性能を実演。また、インテル株式会社 技術本部の矢内 洋祐氏も登壇する予定だ。
-
-当日は13時から17時まで開催され、13時からのセッションでは空冷と水冷による冷却性能やパーツ選びのポイントを紹介。15時からはASRock製「200S Plus」シリーズを使用したマルチタスク性能の検証を実施し、その後はフリータイムを設ける。イベントの模様はASRockチャンネル（https://www.youtube.com/@ASRockJapan）およびソフマップ ゲーミングチャンネル（https://www.youtube.com/eSportsAKIBA）でYouTubeライブ配信される。
-
-参加は事前予約制で、 専用申し込みフォーム から受け付ける。定員を超えた場合は参加できない場合があるものの、当日空きがあれば観覧できる場合もあるとしている。セッション参加者にはイベント限定ノベルティをプレゼントするほか、ASRockとインテルの対象製品購入者を対象…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/08/01/asrock20260808_001.jpg" alt="ASRock×インテル、8月8日にソフマップなんば店で店頭イベント開催"></p>]]></description><source url="https://www.gdm.or.jp/pressrelease/2026/0801/646577">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/08/01/asrock20260808_001.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/08/01/asrock20260808_001.jpg"/></item>
-<item><title>Appleの世界スマホ売上高シェアが4月〜6月期で過去最高の49%に</title><link>https://iphone-mania.jp/apple-604087/</link><guid isPermaLink="true">https://iphone-mania.jp/apple-604087/</guid><pubDate>Sat, 01 Aug 2026 09:10:27 +0000</pubDate><description><![CDATA[<p>Appleの世界スマホ売上高シェアが4月〜6月期で過去最高の49%に
-
-調査会社Counterpoint Researchの調査により、2026年第2四半期（4月〜6月）の世界スマートフォン市場に関する興味深い数字が明らかになりました。メーカー別で最大の売上高シェアを獲得したのはAppleで、49%という驚異的な数字に達しています。
-
-Appleの世界スマホ売上高シェアが4月〜6月期で過去最高の49%に
-
-調査会社Counterpoint Researchの調査により、2026年第2四半期（4月〜6月）の世界スマートフォン市場に関する興味深い数字が明らかになりました。 メーカー別で最大の売上高シェアを獲得したのはApple で、 49% という驚異的な数字に達しています。
-
-Counterpoint Researchの調査結果によると、2026年4月〜6月の世界スマートフォン市場における 売上高 のうち、 Appleが49%を占めました 。Appleにとって、 第2四半期としては過去最高の売上高シェア です。
-
-多数の競合メーカーが存在する中、世界のスマートフォン売上高のほぼ半分を1社で占めたことは、驚異的な結果といえるでしょう。
-
-2位のSamsungの売上高シェアは16%でした。これにOPPOが7%、Xiaomiとvivoがそれぞれ5%で続いています。
-
-出荷台数シェアでは、Samsungが23%で首位となり、Appleは21%で2位でした。両社の差はわずか2ポイントで、非常に拮抗しています。
-
-では、 出荷台数でSamsungを下回るAppleが、売上高ではこれほど大きなシェアを獲得できたのはなぜでしょうか。 その理由として、端末の 平均販売価格の高さ が挙げられます。
-
-Samsungの平均販売価格が400ドルだったのに対し、Appleは 946ドル と、2倍以上に達しました。Appleの平均販売価格は前年同期の879ドルからも上昇しています。
-
-メモリ価格や部品コストの上昇を受け、多くのスマートフォンメーカーが端末価格の引き上げを迫られました。
-
-一方、 Ap…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/07/19/06e4853d45cb323eabecb90b75085e33.jpg" alt="Appleの世界スマホ売上高シェアが4月〜6月期で過去最高の49%に"></p>]]></description><source url="https://iphone-mania.jp/apple-604087/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/07/19/06e4853d45cb323eabecb90b75085e33.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/07/19/06e4853d45cb323eabecb90b75085e33.jpg"/></item>
-<item><title>MacBook Ultraの新デザインはなぜ1年で下位機種に降りるのか</title><link>https://iphone-mania.jp/mac-604085/</link><guid isPermaLink="true">https://iphone-mania.jp/mac-604085/</guid><pubDate>Sat, 01 Aug 2026 08:52:21 +0000</pubDate><description><![CDATA[<p>MacBook Ultraの新デザインはなぜ1年で下位機種に降りるのか
-
-海外メディアの報道によると、Appleが開発中とされる高性能ノート（「MacBook
-
-MacBook Ultraの新デザインはなぜ1年で下位機種に降りるのか
-
-海外メディアの報道によると、Appleが開発中とされる高性能ノート（「MacBook Ultra」は現時点での仮称）の新デザインは、 登場からおよそ1年で、はるかに安価なモデルにも広がる見通し です。背景として考えられるのは量産効果で、有機EL（OLED）パネルや新しい筐体部品は、上位機種だけの数量では単価が下がりにくいとみられます。この記事では変わるとされる5つの点を先に整理し、そのうえで日本のユーザーにとっての買い時まで踏み込みます。
-
-MacBook Ultraの新デザインで変わるとされる5つの点
-
-いずれも噂の段階ですが、報じられている変更を並べると、外観と操作の両面に及ぶことが分かります。
-
-ノッチが消え、より小さなピル型の穴あきカメラになりDynamic Islandの下地が整う
-
-MacBook Ultra自体の発売時期と価格については、確定的な発表がありません 。以下で触れる時期は、いずれも下位モデルやチップ側の観測に基づくものです。映像出力やカードスロットが残るのであれば、仕事でMacを持ち歩く人は素直に歓迎できるでしょう。
-
-なぜMacBook Ultraのデザインは1年で下位モデルへ降りるのか
-
-結論から言えば、 同じ設計を下位モデルへ広げなければ新しい部材のコストを吸収できない ためだと考えられます。海外メディアの報道によると、 2027年に登場するとされるエントリー向けの14インチMacBook Proは、上位モデルと似た外観を採用しつつ、標準のM7チップを積むとみられています 。
-
-有機ELパネルも新しい筐体部品も…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/08/01/b3d23b747a6891c018f8903c3764fe95.jpg" alt="MacBook Ultraの新デザインはなぜ1年で下位機種に降りるのか"></p>]]></description><source url="https://iphone-mania.jp/mac-604085/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/08/01/b3d23b747a6891c018f8903c3764fe95.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/08/01/b3d23b747a6891c018f8903c3764fe95.jpg"/></item>
 </channel></rss>

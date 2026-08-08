@@ -1,6 +1,42 @@
 {
   "akiba": [
     {
+      "Title": "Claude Code、ターミナル間のコピペ地獄が終わった",
+      "Link": "https://gori.me/it/168827",
+      "Published": "2026-08-08T23:17:20Z",
+      "Source": "gori.me",
+      "Category": "正式・公式発表",
+      "Summary": "Claude Code、ターミナル間のコピペ地獄が終わった\n\nAnthropicが、Claude Codeのセッション同士が直接メッセージを送り合えるcross-session messagingを追加した。v2.1.224以降のmacOSとLinuxで利用できる。渡るのはテキストだけで、会話履歴やファイル、権限は共有されない。同じMac上の通信は端末内で完結する。\n\nクイック Claude Code、ターミナル間のコピペ地獄が終わった\n\nClaude Code v2.1.224で、別々に動かしているセッション同士がメッセージを送り合えるようになった\n\nListAgentsで相手を探し、SendMessageでテキストを届ける。会話履歴・ファイル・権限は渡らない\n\nmacOSとLinuxのみ対応でネイティブWindowsは非対応、同一マシン上の通信はサーバーを経由しない\n\nClaude Codeのセッション同士が、直接メッセージを送り合えるようになった 。 Anthropicの公式ドキュメント によると、8月7日に公開されたClaude Code v2.1.224から「cross-session messaging」が利用できる。\n\nNew in Claude Code: your sessions can now message each other.\n\nInstead of having to re-explain yourself in another session, you can now tell Claude to do it. It sends a summary (not your history or files), and the other session picks it up mid-task. pic.twitter.com/PtNsfXeQXP\n\n— ClaudeDevs (@ClaudeDevs) August 7, 2026\n\n仕組みを支えるのは2つのツールだ。到達できるセッションを探す ListAgents と、指定した相手にテキス…",
+      "ImageURL": "https://gori.me/uploads/2026/08/brecht-corbeel-W56tWqJ0Azo-unsplash-800x540.jpg"
+    },
+    {
+      "Title": "Xの収益分配が9月7日で終了。新制度は自動移行じゃないし、利用資格も変わる",
+      "Link": "https://gori.me/twitter/168824",
+      "Published": "2026-08-08T23:06:52Z",
+      "Source": "gori.me",
+      "Category": "正式・公式発表",
+      "Summary": "Xの収益分配が9月7日で終了。新制度は自動移行じゃないし、利用資格も変わる\n\nXがクリエイター向けの収益分配プログラムを2026年9月7日で終了し、新制度「Original Content Rewards Program」へ移行すると発表した。既存参加者も自動移行ではなく、認証済みフォロワー500人以上などの条件を満たしたうえで9月8日以降に申請が必要になる。\n\nクイック Xの収益分配が9月7日で終了。新制度は自動移行じゃないし、利用資格も変わる\n\n次はオリジナル投稿だけが稼げる、既存の参加者も条件を満たして申請し直す必要がある\n\nXの収益分配（Revenue Sharing）は2026年9月7日で終了、最後の支払いは9月11日ごろ\n\n後継の「Original Content Rewards Program」は9月8日から申請開始、自動移行はなし\n\n認証済みフォロワー500人以上、90日で50万インプレッション以上などの条件があり、転載・パクツイは報酬対象外\n\nXがクリエイター向けの収益分配プログラム 「Revenue Sharing」を2026年9月7日で終了 し、 新制度「Original Content Rewards Program」へ移行 すると発表した。新規登録の受付はすでに停止済みで、既存参加者への最後の支払いは9月11日ごろに行われる。\n\n大きいのは、既存の参加者がそのまま新制度に移るわけではないという点だ。9月8日から順次申請できるようになるが、参加するには以下の条件を満たす必要がある。\n\nX Premium、Premium+、Premium Businessのいずれかに加入していること\n\n過去90日間で認証ユーザーからのホームタイムラインインプレッションが 50万回以上 （返信への表示は除く）\n\n報酬の対象になるのは「qualified impressions」と呼ばれる、X Premium加入者がホームタイムラインで投稿の50%以上を表示した重複なしのインプレッションのみ。他人の投稿のコピーや無断転載、動画の再アップ、自動生成された投稿は報酬対象外…",
+      "ImageURL": "https://gori.me/uploads/2026/08/Original-Contents-Award-800x320.jpeg"
+    },
+    {
+      "Title": "自動追尾にも対応した4Kデュアルレンズ搭載のセキュリティカメラ2製品がTP-Linkから",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2131167.html",
+      "Published": "2026-08-08T23:05:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "自動追尾にも対応した4Kデュアルレンズ搭載のセキュリティカメラ2製品がTP-Linkから\n\nソーラー給電デュアルレンズパンチルトセキュリティカメラキット「Tapo C675D KIT」と、屋外デュアルレンズパンチルトセキュリティWi-Fiカメラ「Tapo C575D」が、TP-Linkから発売。\n\n自動追尾にも対応した4Kデュアルレンズ搭載のセキュリティカメラ2製品がTP-Linkから\n\nソーラー給電デュアルレンズパンチルトセキュリティカメラキット「Tapo C675D KIT」と、屋外デュアルレンズパンチルトセキュリティWi-Fiカメラ「Tapo C575D」が、TP-Linkから発売。\n\nオンライン販売モデルで、想定販売価格はTapo C675D KITが36,800円、Tapo C575Dが25,800円。\n\nTapo C675D KITはソーラー給電に対応し4Kデュアルレンズを搭載したIP65準拠のセキュリティカメラキット。付属のソーラーパネルは約90分間の直射日光でカメラ1日分の稼働に必要な電力を供給できる。また、内蔵バッテリーはフル充電時で最長90日間使用できる。\n\n視野角169°の固定レンズ（広角）とパンチルトレンズ（6mm望遠）を搭載。固定レンズが検知した対象を、パンチルトレンズが360°自動追尾する。夜間でもフルカラー撮影が可能となるスポットライトとスターライトセンサーも搭載する。\n\nまた、赤と青の警告LEDと内蔵サイレンによるアラート機能を搭載。不審な人物や車両を検知するとライトの点滅とサイレンで警告する。\n\n寸法はカメラが102.2×160.3×132mm、ソーラーパネルが211.2×173.6×16.9mm。無線規格はIEEE 802.11b/g/n（2.4GHz Wi-Fi）、IEEE 802.11a/n（5GHz Wi-Fi）。\n\n製品構成はTapo C675D本体、Tapo A202ソーラーパネル、Tapo A202ソーラーパネル用台座、USB充電ケーブル、延長ケーブル、取り付け用ネジ、取り付け用アンカー、位置決めシール、かんたん設定ガイド…",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2131/167/s2.jpg"
+    },
+    {
+      "Title": "(今週のコレオシ) 「推し」が動く！液晶搭載のデジタル缶バッジ「Niji Badge Blue」",
+      "Link": "https://www.gdm.or.jp/crew/2026/0809/647596",
+      "Published": "2026-08-08T23:00:56Z",
+      "Source": "エルミタージュ秋葉原",
+      "Category": "",
+      "Summary": "(今週のコレオシ) 「推し」が動く！液晶搭載のデジタル缶バッジ「Niji Badge Blue」\n\n好きな画像や動画、GIFアニメを表示できるBeamboxのデジタル缶バッジ「Niji Badge Blue」を秋葉館でチェック。AI画像生成やバッジ同士の写真共有にも対応し、税込3,980円で販売中だ。\n\n(今週のコレオシ) 「推し」が動く！液晶搭載のデジタル缶バッジ「Niji Badge Blue」\n\n初回入荷分が完売し、再入荷分も好調に売れているというBeamboxのデジタル缶バッジ 「Niji Badge Blue」 。一般的な缶バッジとは異なり、本体にIPS液晶ディスプレイを搭載し、好きな画像や動画、GIFアニメなどを表示できる“動く缶バッジ”だ。今回は 秋葉館 で、その特徴や売れ行きを聞いてみた。\n\n「Niji Badge Blue」は、缶バッジ中央に1.53インチのIPSタッチスクリーンを搭載。解像度は360×360ドットで、JPGやPNG、GIFなどの画像表示に対応する。\n\nまた、専用アプリを使えば、スマートフォンからコンテンツを転送可能。イベント当日に撮影した写真をその場で表示したり、複数の“推し”を気分に合わせて切り替えたりと、一般的な缶バッジにはない楽しみ方ができる。\n\n同店スタッフによると「複数まとめて購入していくお客さんもチラホラいました。推しのイベントに付けていくという人も多いみたいですよ」とのこと。実際、ガジェットとしての珍しさ以上に、“推し活アイテム”として手に取るユーザーが目立っているようだ。\n\n通信規格はBluetooth 5.4。対応するバッジ同士をワンクリックで接続し、写真を共有できる「インスタント転送機能」も備える。イベント会場で友人と撮影した写真をその場で送り合い、それぞれのバッジに表示するといった使い方もできる。\n\nさらに専用アプリにはAI画像生成機能も用意されており、生成した画像をそのままバッジに表示することも可能。手持ちの写真や画像を表示するだけでなく、その場で新しいビジュアルを作って楽しめる。\n\n本体は直径48.5mmとコ…",
+      "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/08/08/akiba_kore20260809_01.jpg"
+    },
+    {
       "Title": "海外旅行で”地味に超役立った”ガジェットは「高耐荷重カラビナ型フック」だった",
       "Link": "https://gori.me/gadget/168816",
       "Published": "2026-08-08T22:22:20Z",
@@ -3223,15 +3259,6 @@
       "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2025/04/hwinfo-top.jpg"
     },
     {
-      "Title": "マウス、オフィスで長期運用向けのIntel N150搭載ミニPC",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/2130228.html",
-      "Published": "2026-08-04T02:00:00Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "マウス、オフィスで長期運用向けのIntel N150搭載ミニPC\n\nマウスコンピューターは8月4日、オフィスで一般的な業務や長期運用に向いたIntel N150搭載のミニPC「MousePro CR」シリーズを発売した。\n\nマウス、オフィスで長期運用向けのIntel N150搭載ミニPC\n\nマウスコンピューターは8月4日、オフィスで一般的な業務や長期運用に向いたIntel N150搭載のミニPC「MousePro CR」シリーズを発売した。\n\nMousePro CRシリーズは省スペースでありながら、HDMI、ミニD-Sub15ピン、USB Type-C(DisplayPort Alt Mode対応)の3画面出力に対応し、資料作成、Web会議、受発注業務といった複数モニターを活用するオフィスワーク向けの製品。また教育機関や自治体、店頭POS/バックヤード、コールセンター、会議室、サイネージなども想定している。\n\n上位モデルは、CPUにIntel N150、メモリに8GB、ストレージに256GB NVMe SSD、OSにWindows 11 Proを搭載し、価格は15万3,780円。\n\n下位モデルは、CPUにIntel N150、メモリに8GB、ストレージに128GB NVMe SSD、OSにWindows 11 Proを搭載し、価格は10万9,780円。",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2130/228/1.jpg"
-    },
-    {
       "Title": "Ryzen搭載ミニPCが3万円台と激安！Amazonで期間限定セール中 [Sponsored]",
       "Link": "https://pc.watch.impress.co.jp/docs/topic/special/2129941.html",
       "Published": "2026-08-04T02:00:00Z",
@@ -3239,6 +3266,15 @@
       "Category": "",
       "Summary": "Ryzen搭載ミニPCが3万円台と激安！Amazonで期間限定セール中 [Sponsored]\n\nAmazonで、Ryzen 3 7330Uを搭載するNiPoGiのミニPC「P1」が、直近価格から1万3,000円引きの4万6,998円で販売中。加えて、クーポンコード「WD4YJNG2」を適用することで、7,000円引きの3万9,998円で購入できる。期限は8月9日までで、クーポンコードは決済時に使用可能だ。\n\nRyzen搭載ミニPCが3万円台と激安！Amazonで期間限定セール中\n\nAmazonで、Ryzen 3 7330Uを搭載するNiPoGiのミニPC「P1」が、直近価格から1万3,000円引きの4万6,998円で販売中。加えて、クーポンコード「WD4YJNG2」を適用することで、7,000円引きの3万9,998円で購入できる。期限は8月9日までで、クーポンコードは決済時に使用可能だ。\n\nNiPoGi P1は、CPUに4コア8スレッド、最大4.3GHz動作のRyzen 3 7330Uを搭載するミニPC。内蔵GPUはRadeon Graphicsで、各種映像出力端子を使って4Kで3画面同時出力でき。\n\nメモリ容量は8GBで、ストレージは256GBのSSD(M.2 2280)。ストレージについては最大4TBまで搭載できる。OSはWindows 11 Proを採用している。\n\nインターフェイスは、USB 3.2 Gen 1 Type-C(DisplayPort対応)、USB 3.2 Gen 2 2基、USB 3.2 Gen 1 4基、DisplayPort 1.4、HDMI 2.0、Gigabit Ethernet、Wi-Fi 5、Bluetooth 4.2、音声入出力などを装備。\n\n本体サイズは128.2×128.2×51mm。保証期間は18カ月。\n\nまた、Ryzen 5 7530Uを搭載するミニPC「E3B」が7月28日から3万4,000円引きされていることに加え、クーポンコード「PNGBCTGF」の適用で6万4,998円で購入できる。\n\nNiPoGi E3Bの主な仕…",
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2129/941/01.jpg"
+    },
+    {
+      "Title": "マウス、オフィスで長期運用向けのIntel N150搭載ミニPC",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2130228.html",
+      "Published": "2026-08-04T02:00:00Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "マウス、オフィスで長期運用向けのIntel N150搭載ミニPC\n\nマウスコンピューターは8月4日、オフィスで一般的な業務や長期運用に向いたIntel N150搭載のミニPC「MousePro CR」シリーズを発売した。\n\nマウス、オフィスで長期運用向けのIntel N150搭載ミニPC\n\nマウスコンピューターは8月4日、オフィスで一般的な業務や長期運用に向いたIntel N150搭載のミニPC「MousePro CR」シリーズを発売した。\n\nMousePro CRシリーズは省スペースでありながら、HDMI、ミニD-Sub15ピン、USB Type-C(DisplayPort Alt Mode対応)の3画面出力に対応し、資料作成、Web会議、受発注業務といった複数モニターを活用するオフィスワーク向けの製品。また教育機関や自治体、店頭POS/バックヤード、コールセンター、会議室、サイネージなども想定している。\n\n上位モデルは、CPUにIntel N150、メモリに8GB、ストレージに256GB NVMe SSD、OSにWindows 11 Proを搭載し、価格は15万3,780円。\n\n下位モデルは、CPUにIntel N150、メモリに8GB、ストレージに128GB NVMe SSD、OSにWindows 11 Proを搭載し、価格は10万9,780円。",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2130/228/1.jpg"
     },
     {
       "Title": "【本日みつけたお買い得品】GARMINのスマートウォッチが約4千円引き",
@@ -3871,15 +3907,6 @@
       "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/08/03/AP304_01.jpg"
     },
     {
-      "Title": "Core i5-8500やDVDドライブ搭載のHP製デスクトップPCが28,600円、Qualitの中古Cランク品が300台以上入荷",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2129708.html",
-      "Published": "2026-08-03T03:00:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "Core i5-8500やDVDドライブ搭載のHP製デスクトップPCが28,600円、Qualitの中古Cランク品が300台以上入荷\n\nCore i5-8500(6コア/6スレッド)を搭載したHP製デスクトップPC「ProDesk 600 G4 SF」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で特価販売中。\n\nCore i5-8500やDVDドライブ搭載のHP製デスクトップPCが28,600円、Qualitの中古Cランク品が300台以上入荷\n\nCore i5-8500(6コア/6スレッド)を搭載したHP製デスクトップPC「ProDesk 600 G4 SF」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で特価販売中 。\n\n今回販売されているのは、「傷や使用感が見られる」(同店)というCランク中古品で、販売価格は28,600円。保証期間は12か月となっています。\n\n主な仕様は、メモリが8GB(空きスロット×3)、ストレージが512GB M.2 SSD、OSがWindows 11 Pro。インターフェイスには、DisplayPort×2やVGA、USB 3.1 Type-Cなどを備えるほか、書き込み対応DVDドライブを搭載しています。",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2129/708/a1.jpg"
-    },
-    {
       "Title": "PHILIPS EVNIA���֤ˤ����󤸹ûұ�2026�׶�����ǰ�Ǻ��� �餵���ȥߥ��󡦥����ȥ��뤵���ˤ���PR�ۿ����»ܡ��������ڡ�����2�ƤⳫ�ϡ�PR��",
       "Link": "https://www.4gamer.net/games/999/G999902/20260727032/",
       "Published": "2026-08-03T03:00:00Z",
@@ -3887,6 +3914,15 @@
       "Category": "HARDWARE",
       "Summary": "PHILIPS EVNIA���֤ˤ����󤸹ûұ�2026�׶�����ǰ�Ǻ��� �餵���ȥߥ��󡦥����ȥ��뤵���ˤ���PR�ۿ����»ܡ��������ڡ�����2�ƤⳫ�ϡ�PR��\n\nゲーマー向けモニターブランドPHILIPS EVNIAは本日，「にじさんじ甲子園2026」への協賛を記念し，笹木 咲さんとミラン・ケストレルさんによるPR配信を，2026年8月4日と5日に実施すると…\n\nPHILIPS EVNIA，「にじさんじ甲子園2026」協賛記念で笹木 咲さんとミラン・ケストレルさんによるPR配信を実施。キャンペーン第2弾も開始【PR】 ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ Riot Gamesが明らかにしたアンチチートシステム「Vanguard」の仕組み。Windowsの進化に合わせてチート対策も強力に ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「スプラトゥーン レイダース」初心者ガイド。これで“気がついたら囲まれていた”から卒業！ レイダース10箇条 ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 明日発売の「スプラトゥーン レイダース」はどんなゲーム？ 物語やゲームの進め方，タンクとガジェットなど本作ならではの特徴を紹介 ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 過去は「消された」わけじゃない。「龍が如く 極3 / 龍が如く3外伝 Dark Ties」の“再演”の先に見えたもの ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 私の新品Switch2の記…",
       "ImageURL": "https://www.4gamer.net/games/999/G999902/20260727032/SS/001.jpg"
+    },
+    {
+      "Title": "Core i5-8500やDVDドライブ搭載のHP製デスクトップPCが28,600円、Qualitの中古Cランク品が300台以上入荷",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2129708.html",
+      "Published": "2026-08-03T03:00:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "Core i5-8500やDVDドライブ搭載のHP製デスクトップPCが28,600円、Qualitの中古Cランク品が300台以上入荷\n\nCore i5-8500(6コア/6スレッド)を搭載したHP製デスクトップPC「ProDesk 600 G4 SF」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で特価販売中。\n\nCore i5-8500やDVDドライブ搭載のHP製デスクトップPCが28,600円、Qualitの中古Cランク品が300台以上入荷\n\nCore i5-8500(6コア/6スレッド)を搭載したHP製デスクトップPC「ProDesk 600 G4 SF」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で特価販売中 。\n\n今回販売されているのは、「傷や使用感が見られる」(同店)というCランク中古品で、販売価格は28,600円。保証期間は12か月となっています。\n\n主な仕様は、メモリが8GB(空きスロット×3)、ストレージが512GB M.2 SSD、OSがWindows 11 Pro。インターフェイスには、DisplayPort×2やVGA、USB 3.1 Type-Cなどを備えるほか、書き込み対応DVDドライブを搭載しています。",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2129/708/a1.jpg"
     },
     {
       "Title": "(アキバ取材班) 生成AIを利用するゲームボーイカラー向けADV「Daydream」の設定資料集が入荷",
@@ -4463,45 +4499,18 @@
       "Category": "Samsung",
       "Summary": "円形画面の元祖の新機種。未発表「Moto Watch Ultra」画像流出\n\n46mmで挑むMotoのUltra。Motorolaの未発表スマートウォッチで、社内名称が「Moto Watch Ultra」とされる端末の宣材画像をThe Mac Observerが公開しました。流出画像からは、46mmのステンレス製ケース、円形画面、数字入りのベゼル、回転式と...\n\n円形画面の元祖の新機種。未発表「Moto Watch Ultra」画像流出\n\nMotorolaの未発表 スマートウォッチ で、社内名称が「Moto Watch Ultra」とされる端末の宣材画像をThe Mac Observerが公開しました。\n\n流出画像からは、46mmのステンレス製ケース、円形画面、数字入りのベゼル、回転式とされるリューズ、追加の側面ボタンを確認できます。\n\n背面には「46mm Stainless Steel Case」「WR-50m」「IP68」「GPS」「LTE」とあります。光学式センサー群とみられる部品や、4ピンの充電接点も確認できます。\n\n46mmというサイズは、 Samsung が正式発表した47mmの Galaxy Watch Ultra2 に近いものですね。ただし本機は5ATM相当とみられ、耐水等級の数値は Galaxy Watch Ultra2の10ATMを下回ります。\n\n「 Motorola の スマートウォッチ 」と聞いて懐かしさを覚える読者も多いのではないでしょうか。円形画面のパイオニアだった初代 Moto 360 （2014年）は、 Android Wear 時代を代表する名機でした。しかしMotorola自社製としては2015年のMoto 360第2世代を最後にしています。\n\nその後の「 Moto 360 （第3世代）」やMoto Watch 100、Moto Watch 120などは、ブランドライセンスを取得した海外企業（eBuyNow／CE Brands）が展開したライセンス製品だったりします。\n\nその後、 Motorola は2026年1月、Polarの技術…",
       "ImageURL": "https://smhn.info/wp-content/uploads/2026/08/moto-watch-ultra-1-1280w-720h.jpg.webp"
-    },
-    {
-      "Title": "シャオミ自社開発スマホチップ「XRING O3」！次期「Xiaomi Pad 8S Pro」が搭載との噂",
-      "Link": "https://smhn.info/202608-xiaomi-pad-8s-pro-xring-o3-leak",
-      "Published": "2026-08-01T09:29:32Z",
-      "Source": "すまほん!!",
-      "Category": "Xiaomi Pad 8S Pro",
-      "Summary": "シャオミ自社開発スマホチップ「XRING O3」！次期「Xiaomi Pad 8S Pro」が搭載との噂\n\n未発表タブレット「Xiaomi Pad 8S Pro」とされる仕様情報が流出しています。情報源は中国のWeiboのリーカー「熊猫很禿然」。リークによると、12.5型の3.2K液晶、Xiaomiの次世代自社開発SoCとされる「XRING O3」、1万2000mAhバッテリー、120...\n\nシャオミ自社開発スマホチップ「XRING O3」！次期「Xiaomi Pad 8S Pro」が搭載との噂\n\n未発表タブレット「 Xiaomi Pad 8S Pro」とされる仕様情報が流出しています。情報源は中国のWeiboのリーカー「熊猫很禿然」。\n\nリークによると、12.5型の3.2K液晶、Xiaomiの次世代自社開発SoCとされる「XRING O3」、1万2000mAhバッテリー、120W有線充電を採用する可能性があるとのことです。\n\nカメラは背面5000万画素＋200万画素、前面3200万画素とされています。数字だけを見れば、かなり欲張りな1台ですね。\n\nXRING O3は、Xiaomiが2025年に投入した初の自社開発ハイエンドSoC「XRING O1」（Xiaomi 15S Proや Xiaomi Pad 7 Ultraに搭載）の後継チップ。なぜか「O2」を飛ばした命名で、TSMCの3nmプロセスで製造されると噂されています。\n\nうわさでは、XRING O3は従来の大コアクラスタを廃した新設計のCPU構成を採用し、最大クロックは4GHz超え、GPUクロックも前世代比で約25%向上するとされ、単なる改良版ではなく大幅な刷新となる見込みです。\n\nなお XRING O3の初搭載機は、8月にも中国で発表されると噂の 折りたたみスマートフォン 「 Xiaomi MIX Fold 5」になると報じられており、Pad 8S Proもそれに続くという形になるかも知れません。\n\nXRING O1 採用が一部機種に限られたのに対し、O3は複数の機種へ幅広く展開されるとの観測があり、本 タブ…",
-      "ImageURL": "https://smhn.info/wp-content/uploads/2026/08/90337bb14bbcf2737b3189d68c376ba4.png"
-    },
-    {
-      "Title": "ASRock×インテル、8月8日にソフマップなんば店で店頭イベント開催",
-      "Link": "https://www.gdm.or.jp/pressrelease/2026/0801/646577",
-      "Published": "2026-08-01T09:16:54Z",
-      "Source": "エルミタージュ秋葉原",
-      "Category": "",
-      "Summary": "ASRock×インテル、8月8日にソフマップなんば店で店頭イベント開催\n\nASRockは8月8日、ビックカメラアウトレット×ソフマップなんば店でインテルとの共同イベントを開催。Core Ultra 7 270K PlusとASRock製水冷クーラーを使用したマルチタスク性能検証のほか、プレゼント企画や抽選会も実施する。\n\nASRock×インテル、8月8日にソフマップなんば店で店頭イベント開催\n\nCore Ultra 7 270K PlusとASRock水冷クーラーで限界マルチタスク性能を検証\n\nASRock Inc.（本社：台湾・台北）はインテル株式会社の協力のもと、8月8日（土）にビックカメラアウトレット×ソフマップなんば店で店頭イベント 「ASRock×インテル イベント第2弾」 を開催する。\n\nイベントでは、インテル最新CPU「Core Ultra 7 270K Plus」とASRock製オールインワン型水冷クーラーを組み合わせ、「コスパ番長を決める！限界マルチタスク性能検証」をテーマに、冷却性能やパーツ構成によるマルチタスク性能を実演。また、インテル株式会社 技術本部の矢内 洋祐氏も登壇する予定だ。\n\n当日は13時から17時まで開催され、13時からのセッションでは空冷と水冷による冷却性能やパーツ選びのポイントを紹介。15時からはASRock製「200S Plus」シリーズを使用したマルチタスク性能の検証を実施し、その後はフリータイムを設ける。イベントの模様はASRockチャンネル（https://www.youtube.com/@ASRockJapan）およびソフマップ ゲーミングチャンネル（https://www.youtube.com/eSportsAKIBA）でYouTubeライブ配信される。\n\n参加は事前予約制で、 専用申し込みフォーム から受け付ける。定員を超えた場合は参加できない場合があるものの、当日空きがあれば観覧できる場合もあるとしている。セッション参加者にはイベント限定ノベルティをプレゼントするほか、ASRockとインテルの対象製品購入者を対象…",
-      "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/08/01/asrock20260808_001.jpg"
-    },
-    {
-      "Title": "Appleの世界スマホ売上高シェアが4月〜6月期で過去最高の49%に",
-      "Link": "https://iphone-mania.jp/apple-604087/",
-      "Published": "2026-08-01T09:10:27Z",
-      "Source": "iPhone Mania",
-      "Category": "調査統計",
-      "Summary": "Appleの世界スマホ売上高シェアが4月〜6月期で過去最高の49%に\n\n調査会社Counterpoint Researchの調査により、2026年第2四半期（4月〜6月）の世界スマートフォン市場に関する興味深い数字が明らかになりました。メーカー別で最大の売上高シェアを獲得したのはAppleで、49%という驚異的な数字に達しています。\n\nAppleの世界スマホ売上高シェアが4月〜6月期で過去最高の49%に\n\n調査会社Counterpoint Researchの調査により、2026年第2四半期（4月〜6月）の世界スマートフォン市場に関する興味深い数字が明らかになりました。 メーカー別で最大の売上高シェアを獲得したのはApple で、 49% という驚異的な数字に達しています。\n\nCounterpoint Researchの調査結果によると、2026年4月〜6月の世界スマートフォン市場における 売上高 のうち、 Appleが49%を占めました 。Appleにとって、 第2四半期としては過去最高の売上高シェア です。\n\n多数の競合メーカーが存在する中、世界のスマートフォン売上高のほぼ半分を1社で占めたことは、驚異的な結果といえるでしょう。\n\n2位のSamsungの売上高シェアは16%でした。これにOPPOが7%、Xiaomiとvivoがそれぞれ5%で続いています。\n\n出荷台数シェアでは、Samsungが23%で首位となり、Appleは21%で2位でした。両社の差はわずか2ポイントで、非常に拮抗しています。\n\nでは、 出荷台数でSamsungを下回るAppleが、売上高ではこれほど大きなシェアを獲得できたのはなぜでしょうか。 その理由として、端末の 平均販売価格の高さ が挙げられます。\n\nSamsungの平均販売価格が400ドルだったのに対し、Appleは 946ドル と、2倍以上に達しました。Appleの平均販売価格は前年同期の879ドルからも上昇しています。\n\nメモリ価格や部品コストの上昇を受け、多くのスマートフォンメーカーが端末価格の引き上げを迫られました。\n\n一方、 Ap…",
-      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/07/19/06e4853d45cb323eabecb90b75085e33.jpg"
-    },
-    {
-      "Title": "MacBook Ultraの新デザインはなぜ1年で下位機種に降りるのか",
-      "Link": "https://iphone-mania.jp/mac-604085/",
-      "Published": "2026-08-01T08:52:21Z",
-      "Source": "iPhone Mania",
-      "Category": "OLED",
-      "Summary": "MacBook Ultraの新デザインはなぜ1年で下位機種に降りるのか\n\n海外メディアの報道によると、Appleが開発中とされる高性能ノート（「MacBook\n\nMacBook Ultraの新デザインはなぜ1年で下位機種に降りるのか\n\n海外メディアの報道によると、Appleが開発中とされる高性能ノート（「MacBook Ultra」は現時点での仮称）の新デザインは、 登場からおよそ1年で、はるかに安価なモデルにも広がる見通し です。背景として考えられるのは量産効果で、有機EL（OLED）パネルや新しい筐体部品は、上位機種だけの数量では単価が下がりにくいとみられます。この記事では変わるとされる5つの点を先に整理し、そのうえで日本のユーザーにとっての買い時まで踏み込みます。\n\nMacBook Ultraの新デザインで変わるとされる5つの点\n\nいずれも噂の段階ですが、報じられている変更を並べると、外観と操作の両面に及ぶことが分かります。\n\nノッチが消え、より小さなピル型の穴あきカメラになりDynamic Islandの下地が整う\n\nMacBook Ultra自体の発売時期と価格については、確定的な発表がありません 。以下で触れる時期は、いずれも下位モデルやチップ側の観測に基づくものです。映像出力やカードスロットが残るのであれば、仕事でMacを持ち歩く人は素直に歓迎できるでしょう。\n\nなぜMacBook Ultraのデザインは1年で下位モデルへ降りるのか\n\n結論から言えば、 同じ設計を下位モデルへ広げなければ新しい部材のコストを吸収できない ためだと考えられます。海外メディアの報道によると、 2027年に登場するとされるエントリー向けの14インチMacBook Proは、上位モデルと似た外観を採用しつつ、標準のM7チップを積むとみられています 。\n\n有機ELパネルも新しい筐体部品も…",
-      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/08/01/b3d23b747a6891c018f8903c3764fe95.jpg"
     }
   ],
   "world": [
+    {
+      "Title": "Raspberry Pi と USB マイクを使用して鳥の訪問者を追跡する",
+      "Link": "https://hackaday.com/2026/08/08/track-bird-visitors-with-a-raspberry-pi-and-a-usb-mic/",
+      "Published": "2026-08-08T23:00:53Z",
+      "Source": "Hackaday",
+      "Category": "weekend project",
+      "Summary": "Raspberry Pi と USB マイクを使用して鳥の訪問者を追跡する\n\n「Avian Visitors」は、[Teddy Warner] による素敵なプロジェクトです。Raspberry Pi とマイクを使用して、どの鳥が家を訪れているかを追跡し、最近の鳥のカラフルなイラストを作成します。\n\nAvian Visitors は、[Teddy Warner] による素敵なプロジェクトです。Raspberry Pi とマイクを使用して、どの鳥が家を訪れているかを追跡し、その上に最近の訪問者のカラフルなイラストを作成します。\n\n独自に作成した Web インターフェイスについて報告していますが、本当に新しいレベルに引き上げているのは、過去 24 時間分の訪問者をコラージュで一目で表示する、オプションのスタイリッシュな E-Ink パネルです。\n\n識別の鍵となるのは、コーネル大学の深層学習分類器である BirdNET (ここでは GitHub ) で、音だけで世界中の 11,000 以上の種を確実に識別および分類できます。\n\nその情報に基づいて、システムはその地域の参照セットから鳥の画像を抽出し、単一の画像で訪問者の範囲と頻度を表すコラージュを作成します。鳥のイメージが大きいほど、その鳴き声が頻繁に聞こえます。\n\nこれは素晴らしいプロジェクトですが、[Teddy] はさらに一歩進んで、カラー E-Ink ディスプレイをセットアップして、システムが識別したすべての鳥類の訪問者の最新の概要を表示しました。 [Teddy] は、ジェネレーティブ アート ウォール プロッターで見られたように、プロジェクトを壁掛けアートに活用する才能を持っています。\n\nあなた自身のアイデアはありますか？ Avian Visitors には、最新の検出結果を Home Assistant または MQTT 経由で送信するオプションもあり、特定の鳥種に基づいた自動トリガーが可能です。これを試してみて、独自のスピンを加えることを決めた場合は、必ずチップを送ってお知らせください。\n\nAvian Visitor…",
+      "ImageURL": "https://hackaday.com/wp-content/uploads/2026/08/BirdNET-system-1-banner.png"
+    },
     {
       "Title": "クロードコードの設定を 1 つ変更したところ、トークンの燃焼が 45% 減少しました",
       "Link": "https://www.xda-developers.com/changed-one-setting-in-claude-code-token-burn-dropped/",
@@ -6222,8 +6231,8 @@
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/04/android-17-beta-3-wi-fi-mobile-data-toggles-quick-settings-scaled.jpg"
     },
     {
-      "Title": "(PR) SK hynix Invests 54 Trillion Won in Yongin Y2 and Cheongju M17 to Secure Mid-to-Long-Term Production for AI Memory Demand",
-      "Link": "https://www.techpowerup.com/351422/sk-hynix-invests-54-trillion-won-in-yongin-y2-and-cheongju-m17-to-secure-mid-to-long-term-production-for-ai-memory-demand",
+      "Title": "(PR) SK hynix Invests 54 Trillion Won in Yongin Y2 and Cheongju M17 to Secure Mid-to-Long-Term Production Base for AI Memory Demand",
+      "Link": "https://www.techpowerup.com/351422/sk-hynix-invests-54-trillion-won-in-yongin-y2-and-cheongju-m17-to-secure-mid-to-long-term-production-base-for-ai-memory-demand",
       "Published": "2026-08-07T07:24:01Z",
       "Source": "TechPowerUp",
       "Category": "",
@@ -6231,8 +6240,8 @@
       "ImageURL": ""
     },
     {
-      "Title": "(PR) SK hynix Invests 54 Trillion Won in Yongin Y2 and Cheongju M17 to Secure Mid-to-Long-Term Production Base for AI Memory Demand",
-      "Link": "https://www.techpowerup.com/351422/sk-hynix-invests-54-trillion-won-in-yongin-y2-and-cheongju-m17-to-secure-mid-to-long-term-production-base-for-ai-memory-demand",
+      "Title": "(PR) SK hynix Invests 54 Trillion Won in Yongin Y2 and Cheongju M17 to Secure Mid-to-Long-Term Production for AI Memory Demand",
+      "Link": "https://www.techpowerup.com/351422/sk-hynix-invests-54-trillion-won-in-yongin-y2-and-cheongju-m17-to-secure-mid-to-long-term-production-for-ai-memory-demand",
       "Published": "2026-08-07T07:24:01Z",
       "Source": "TechPowerUp",
       "Category": "",
@@ -7860,21 +7869,21 @@
       "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/img_4644.png?w=1600\u0026h=900\u0026fit=crop"
     },
     {
-      "Title": "世界最大のゲームスタジオ、エレクトロニック・アーツが正式に非公開化",
-      "Link": "https://www.techpowerup.com/351386/electronic-arts-the-worlds-largest-game-studio-officially-goes-private",
-      "Published": "2026-08-05T18:18:33Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "世界最大のゲームスタジオ、エレクトロニック・アーツが正式に非公開化\n\nエレクトロニック・アーツは、約 36 年間にわたる公開市場での活動を経て、正式に個人所有に戻りました。読者の皆さんが覚えているのであれば、2025 年 9 月に EA は、PIF、Silver Lake、Affinity Partners が管理するコンソーシアムのもとで再び非公開化すると発表しました。この民間事業には...\n\n世界最大のゲームスタジオ、エレクトロニック・アーツが正式に非公開化\n\nアンドリュー・ウィルソン、エレクトロニック・アーツ会長兼最高経営責任者（CEO） 私たちは、ビジョンと野心を共有するパートナーとともに、強力な立場から次の章に入ります。私たちは力を合わせて大胆に投資し、イノベーションを加速し、毎日私たちにインスピレーションを与えてくれる何億ものプレイヤーやファンのために次世代のゲームとエクスペリエンスを構築していきます。\n\n2026 年 5 月 26 日 NVIDIA GeForce グラフィックス ドライバー 610.47 WHQL がコントロール パネルのサポートを終了 (145)\n\n2025 年 9 月 29 日 EA の新オーナー計画 AI Pivot は「運用コストの大幅削減」を計画 - レポート (39)\n\n2026 年 7 月 13 日 Criterion Axes バトルフィールドに有利なレース ゲーム「ニード フォー スピード」と「バーンアウト」 (30)\n\n2026 年 6 月 23 日 EA 幹部、「AI Everything」が創造性、ワークフロー、パイプラインに役立つと語る (35)\n\n2026 年 7 月 28 日 Dragon Age のクリエイターは、Veilguard がシリーズ最後の万歳になるかもしれないと語る (23)\n\n2026 年 3 月 17 日 NVIDIA CEO、DLSS 5 についてゲーマーは「完全に間違っている」と主張 (179)\n\n2026 年 6 月 15 日 EA 広告、「プレイヤーのエクスペリエンスを尊重した方法で…",
-      "ImageURL": "https://www.techpowerup.com/img/67ZkcmIt6M3eajlU.jpg"
-    },
-    {
       "Title": "世界最大のゲームスタジオエレクトロニック・アーツが正式に非公開化",
       "Link": "https://www.techpowerup.com/351386/worlds-largest-game-studio-electronic-arts-officially-goes-private",
       "Published": "2026-08-05T18:18:33Z",
       "Source": "TechPowerUp",
       "Category": "",
       "Summary": "世界最大のゲームスタジオエレクトロニック・アーツが正式に非公開化\n\nエレクトロニック・アーツは、約 36 年間にわたる公開市場での活動を経て、正式に個人所有に戻りました。読者の皆さんが覚えているのであれば、2025 年 9 月に、EA は PIF、Silver Lake、Affinity Partners が管理するコンソーシアムのもとで再び非公開化すると発表しました。この民間事業には...\n\n世界最大のゲームスタジオエレクトロニック・アーツが正式に非公開化\n\nアンドリュー・ウィルソン、エレクトロニック・アーツ会長兼最高経営責任者（CEO） 私たちは、ビジョンと野心を共有するパートナーとともに、強力な立場から次の章に入ります。私たちは力を合わせて大胆に投資し、イノベーションを加速し、毎日私たちにインスピレーションを与えてくれる何億ものプレイヤーやファンのために次世代のゲームとエクスペリエンスを構築していきます。\n\n2026 年 5 月 26 日 NVIDIA GeForce グラフィックス ドライバー 610.47 WHQL がコントロール パネルのサポートを終了 (145)\n\n2025 年 9 月 29 日 EA の新オーナー計画 AI Pivot は「運用コストの大幅削減」を計画 - レポート (39)\n\n2026 年 7 月 13 日 Criterion Axes バトルフィールドに有利なレース ゲーム「ニード フォー スピード」と「バーンアウト」 (30)\n\n2026 年 6 月 24 日 EA 幹部、「AI Everything」が創造性、ワークフロー、パイプラインに役立つと語る (35)\n\n2026 年 7 月 28 日 Dragon Age のクリエイターは、Veilguard がシリーズ最後の万歳になるかもしれないと語る (23)\n\n2026 年 3 月 17 日 NVIDIA CEO、DLSS 5 についてゲーマーは「完全に間違っている」と主張 (179)\n\n2026 年 6 月 15 日 EA 広告、「プレイヤーのエクスペリエンスを尊重した方法で」ゲ…",
+      "ImageURL": "https://www.techpowerup.com/img/67ZkcmIt6M3eajlU.jpg"
+    },
+    {
+      "Title": "世界最大のゲームスタジオ、エレクトロニック・アーツが正式に非公開化",
+      "Link": "https://www.techpowerup.com/351386/electronic-arts-the-worlds-largest-game-studio-officially-goes-private",
+      "Published": "2026-08-05T18:18:33Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "世界最大のゲームスタジオ、エレクトロニック・アーツが正式に非公開化\n\nエレクトロニック・アーツは、約 36 年間にわたる公開市場での活動を経て、正式に個人所有に戻りました。読者の皆さんが覚えているのであれば、2025 年 9 月に EA は、PIF、Silver Lake、Affinity Partners が管理するコンソーシアムのもとで再び非公開化すると発表しました。この民間事業には...\n\n世界最大のゲームスタジオ、エレクトロニック・アーツが正式に非公開化\n\nアンドリュー・ウィルソン、エレクトロニック・アーツ会長兼最高経営責任者（CEO） 私たちは、ビジョンと野心を共有するパートナーとともに、強力な立場から次の章に入ります。私たちは力を合わせて大胆に投資し、イノベーションを加速し、毎日私たちにインスピレーションを与えてくれる何億ものプレイヤーやファンのために次世代のゲームとエクスペリエンスを構築していきます。\n\n2026 年 5 月 26 日 NVIDIA GeForce グラフィックス ドライバー 610.47 WHQL がコントロール パネルのサポートを終了 (145)\n\n2025 年 9 月 29 日 EA の新オーナー計画 AI Pivot は「運用コストの大幅削減」を計画 - レポート (39)\n\n2026 年 7 月 13 日 Criterion Axes バトルフィールドに有利なレース ゲーム「ニード フォー スピード」と「バーンアウト」 (30)\n\n2026 年 6 月 23 日 EA 幹部、「AI Everything」が創造性、ワークフロー、パイプラインに役立つと語る (35)\n\n2026 年 7 月 28 日 Dragon Age のクリエイターは、Veilguard がシリーズ最後の万歳になるかもしれないと語る (23)\n\n2026 年 3 月 17 日 NVIDIA CEO、DLSS 5 についてゲーマーは「完全に間違っている」と主張 (179)\n\n2026 年 6 月 15 日 EA 広告、「プレイヤーのエクスペリエンスを尊重した方法で…",
       "ImageURL": "https://www.techpowerup.com/img/67ZkcmIt6M3eajlU.jpg"
     },
     {
@@ -8526,15 +8535,6 @@
       "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/08/beast-732x330.jpg"
     },
     {
-      "Title": "カメラのハードウェアは USB-C と物理的に同等になる可能性がありますか?",
-      "Link": "https://hackaday.com/2026/08/05/could-camera-hardware-be-the-physical-equivalent-to-usb-c/",
-      "Published": "2026-08-05T11:00:00Z",
-      "Source": "Hackaday",
-      "Category": "connector design",
-      "Summary": "カメラのハードウェアは USB-C と物理的に同等になる可能性がありますか?\n\n[マンスール] はエッセイ「A Common Thread」で興味深いアイデアを提示しています。USB-C がエレクトロニクスの世界で「すべてを支配する 1 つのコネクタ」になったのと同じように、彼の…\n\n[マンスール] はエッセイ「A Common Thread」で興味深いアイデアを提示しています。エレクトロニクスの世界で USB-C が「すべてを支配する 1 つのコネクタ」になったのと同じように、彼のプロジェクトにも統一された物理接続層が必要です。言ってみれば、共通の話題。\n\n具体的には、彼のすべてのカメラ機器にすでに搭載されていた 1/4 インチ-20 UNC コネクタです。そのコネクターを中心に彼のものを統合することは、青い脳波からのボルトではありませんでした。聞いてみると、このアイデアは時間の経過とともに進化し、彼がすでにそれを使い始めてから初めて意図的になったことがわかりました。\n\nただし、それには言うべきことがあります。 1 つは、さまざまな小物がレゴで作られたかのように組み立てられることがわかって便利なことです。もう 1 つは、設計プロセスでの一連の決定を取り除くことです。1/4 インチ-20 UNC フィッティングを使用することになるため、[マンスール] は、それを材料にねじ込むかどうか、またはインセットまたはキャプティブ ボルトを使用するかどうかを決定するだけで済みます。\n\n1/4 インチのボルトが、私たちが作るほとんどのものに弱点をもたらすわけではありません。優れたハードウェアを使用すると、1 トン以上の時間がかかる場合があります。一方で、トルクに対する耐性は必ずしも高いわけではありませんが、[マンスール] のカメラ バッグにはそれに対する答えもありました。バネ仕掛けのロケーター ピンがメス側の穴に落ちてトルクを受け止めます。写真の世界では、これらは AARI ピンです。私たちにとって、それらは良いアイデアのように思えます。\n\nカスタムマウントとブラケットのために毎回ホ…",
-      "ImageURL": "https://hackaday.com/wp-content/uploads/2026/08/camera-mount-connector.jpeg"
-    },
-    {
       "Title": "Montech TG3 パノラミック ミッドタワー ケース レビュー: 4 つの RGB ファンとパノラマ ビューを備えた素晴らしい価値",
       "Link": "https://www.tomshardware.com/pc-components/pc-cases/montech-tg3-panoramic-mid-tower-case-review",
       "Published": "2026-08-05T11:00:00Z",
@@ -8542,6 +8542,15 @@
       "Category": "PC Components",
       "Summary": "Montech TG3 パノラミック ミッドタワー ケース レビュー: 4 つの RGB ファンとパノラマ ビューを備えた素晴らしい価値\n\n4 つのファンを備え、見た目も感触も安っぽくない、60 ドルのパノラマ ミッドタワー ケースですか?はい、お願いします。\n\n価格が 59.90 ドルの Montech TG3 ケースは、優れた価値を提供するだけでなく、優れた CPU 冷却性能、静かな動作、統合 ARGB ストリップを備えた 4 つのファン、そして大金を掛けずに見栄えの良いデザインを提供します。\n\n+ CPU の優れた正規化された冷却パフォーマンス\n\n- GPU 温度がわずかに高い\n\n- 色が一致していない PSU シュラウドは偏光しています\n\nTom's Hardware を信頼できる理由 当社の専門レビュー担当者は、お客様が最適なものを選択できるよう、製品とサービスのテストと比較に時間を費やしています。テスト方法について詳しくは、こちらをご覧ください。\n\nページ 1: 機能と仕様\n\nページ 2: 熱と音響のベンチマーク、結論\n\n私たちは今年初めに Computex で Montech の TG3 ケースを初めて発見しました。このパノラマミッドタワーシャーシは、スモークサイドとフロントパネルガラスを通して内部の全景を眺めることができ、階層型の底部レイアウトと、盛り上がった電源チャンバーの周囲にある ARGB 照明ストリップを備えています。側面の吸気は高エアフローの恩恵にはなりませんが、このケースは電力を大量に消費するコンポーネント、少なくとも CPU を使用したテストでは良好なパフォーマンスを示し、新しいテスト ハードウェアを使用した最高の空冷温度の一部を提供しました。 4 つのファン (1 つはフルフレーム 360mm なので、厳密には 2 つ) を含む価格は 59.90 ドルで、予算のミッドタワー スペースでは非常に価値があります。\n\nTG3 の内部には、工場で提供されるエアフローのために、側面にユニボディ リバース ファン (3x120mm) と背面に 1 つ…",
       "ImageURL": "https://cdn.mos.cms.futurecdn.net/VKjspJqHmJ8jPsMafvb8yZ-1920-80.jpg"
+    },
+    {
+      "Title": "カメラのハードウェアは USB-C と物理的に同等になる可能性がありますか?",
+      "Link": "https://hackaday.com/2026/08/05/could-camera-hardware-be-the-physical-equivalent-to-usb-c/",
+      "Published": "2026-08-05T11:00:00Z",
+      "Source": "Hackaday",
+      "Category": "connector design",
+      "Summary": "カメラのハードウェアは USB-C と物理的に同等になる可能性がありますか?\n\n[マンスール] はエッセイ「A Common Thread」で興味深いアイデアを提示しています。USB-C がエレクトロニクスの世界で「すべてを支配する 1 つのコネクタ」になったのと同じように、彼の…\n\n[マンスール] はエッセイ「A Common Thread」で興味深いアイデアを提示しています。エレクトロニクスの世界で USB-C が「すべてを支配する 1 つのコネクタ」になったのと同じように、彼のプロジェクトにも統一された物理接続層が必要です。言ってみれば、共通の話題。\n\n具体的には、彼のすべてのカメラ機器にすでに搭載されていた 1/4 インチ-20 UNC コネクタです。そのコネクターを中心に彼のものを統合することは、青い脳波からのボルトではありませんでした。聞いてみると、このアイデアは時間の経過とともに進化し、彼がすでにそれを使い始めてから初めて意図的になったことがわかりました。\n\nただし、それには言うべきことがあります。 1 つは、さまざまな小物がレゴで作られたかのように組み立てられることがわかって便利なことです。もう 1 つは、設計プロセスでの一連の決定を取り除くことです。1/4 インチ-20 UNC フィッティングを使用することになるため、[マンスール] は、それを材料にねじ込むかどうか、またはインセットまたはキャプティブ ボルトを使用するかどうかを決定するだけで済みます。\n\n1/4 インチのボルトが、私たちが作るほとんどのものに弱点をもたらすわけではありません。優れたハードウェアを使用すると、1 トン以上の時間がかかる場合があります。一方で、トルクに対する耐性は必ずしも高いわけではありませんが、[マンスール] のカメラ バッグにはそれに対する答えもありました。バネ仕掛けのロケーター ピンがメス側の穴に落ちてトルクを受け止めます。写真の世界では、これらは AARI ピンです。私たちにとって、それらは良いアイデアのように思えます。\n\nカスタムマウントとブラケットのために毎回ホ…",
+      "ImageURL": "https://hackaday.com/wp-content/uploads/2026/08/camera-mount-connector.jpeg"
     },
     {
       "Title": "Google フォトでは、コレクションを好みに合わせてカスタマイズできるようになる予定です",
@@ -8992,15 +9001,6 @@
       "Category": "Claude",
       "Summary": "同じドキュメントに対して 3 つの自己ホスト型クロードの代替案を試しましたが、1 つは他のものを破棄しました\n\n作業を行う場合、モデルよりもツール自体が重要です。\n\n同じドキュメントに対して 3 つの自己ホスト型クロードの代替案を試しましたが、1 つは他のものを破棄しました\n\nBy Nolen Jonker 公開 2026 年 8 月 4 日、午後 6 時 EDT Nolen は 2019 年に執筆活動を開始し、3 年間 MakeUseOf のクリエイティブ セクションの編集に専念しました。彼らの専門知識はテクノロジーと創造性の交差点にあり、写真、ビデオ編集、グラフィック デザインなどの分野をカバーしています。仕事以外では、ノーレンが良い本を読んだり、自分の物語を書いたり、ビデオ ゲームをしたりしているのをよく見かけます。 XDA アカウントにサインインする 最近の私のワークフローのほとんどにおいて、ドキュメント チャットは交渉の余地のない部分です。はい、NotebookLM は依然としてこの部門で王位を保持していますが、それは私が授業に真剣に取り組んでいる場合に限られます。他のすべてのドキュメントでは、デフォルトで毎日使用する AI、Claude を使用します。ただし、結局のところ、Claude は依然としてクラウド ツールであるため、単に渡すことに抵抗のあるドキュメントがいくつかあることを意味します。\n\nここで自己ホスト型ツールが活躍します。ローカルのドキュメント作業では、ほとんどの場合、LM Studio ですべてのオープン ウェイトを実行するため、デフォルトで LM Studio を使用します。しかし、他にも何百万もの自己ホスト型オプションが登場しており、それらを素通りして「LM Studio を使えばいい」と言うのはフェアではありません。そこで、同じ密度の高いドキュメントに対して、Cherry Studio、Jan AI、AnythingLLM という 3 つの自己ホスト型 AI ツールを互いに比較させました。彼らがやった方法は次のとおりです…\n\nAI の最新…",
       "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/cherry-studio-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
-      "Title": "あなたの古い PC が Bluetooth 5.4 を 7 ドルで手に入れました",
-      "Link": "https://www.xda-developers.com/ugreen-bluetooth-54-usb-adapter-7-deal/",
-      "Published": "2026-08-04T21:40:38Z",
-      "Source": "XDA",
-      "Category": "Under $100",
-      "Summary": "あなたの古い PC が Bluetooth 5.4 を 7 ドルで手に入れました\n\nWindows 8.1以降のプラグアンドプレイ\n\nあなたの古い PC が Bluetooth 5.4 を 7 ドルで手に入れました\n\nクレジット: UGREEN By Timi Cantisano 公開 2026 年 8 月 4 日、午後 5 時 40 分 EDT Timi は 10 年以上にわたり、スマートフォン、コンピューター、およびテクノロジー分野で興味深いと思うあらゆるものに焦点を当ててテクノロジーについて執筆してきました。彼は XDA に執筆を開始し、モバイルに関するあらゆることをカバーしていましたが、インターネット上で最高のハイテク製品の最高の割引を明らかにすることを使命として、取引をカバーすることに移行しました。 XDA アカウントにサインインする 煩雑なケーブルから離れたい場合は、Bluetooth が最適な方法の 1 つです。このテクノロジーを使用して、重要なアクセサリを接続したり、ファイルを転送したり、オーディオを聴いたりすることができます。古い PC またはラップトップをお持ちの場合は、Bluetooth のアップグレードが必要になる可能性がかなり高くなります。この Ugreen Bluetooth 5.4 USB ドングルは完璧なソリューションで、Amazon での 33% 割引のおかげで、価格は現在わずか 7 ドルです。\n\nUgreen Bluetooth 5.4 USB ドングルの優れている点は何ですか?\n\nクレジット: Ugreen Bluetooth 5.4 は以前のテクノロジーからの反復アップデートですが、以前のバージョンと比較して速度の向上、接続性の向上、セキュリティの強化を実現しています。また、電力効率も向上するため、バッテリー残量が不足している場合には大きな問題となる可能性があります。\n\nこの Ugreen モデルでは、最大 5 つの異なるデバイスを同時に接続できるため、ケーブルの煩雑さを簡単に整理できます。 Bluetooth を使用するときに人…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/copy-of-169-2.jpg?w=1600\u0026h=900\u0026fit=crop"
     }
   ]
 }
