@@ -111,6 +111,28 @@ func TestMergeArticlesPrunesOldAndCapsCount(t *testing.T) {
 	}
 }
 
+func TestSelectFreshDrainsBacklogOldestFirst(t *testing.T) {
+	now := time.Date(2026, 6, 20, 12, 0, 0, 0, time.UTC)
+	items := make([]item, maxItemsPerFeed+5)
+	for i := range items {
+		// items[0] is the oldest, items[len-1] the newest.
+		items[i] = item{Link: "https://example.com/" + strconv.Itoa(i), Published: now.Add(-time.Duration(len(items)-i) * time.Hour)}
+	}
+	known := seen{}
+	fresh := selectFresh(items, known, now, false)
+	if len(fresh) != maxItemsPerFeed {
+		t.Fatalf("len(fresh) = %d, want %d", len(fresh), maxItemsPerFeed)
+	}
+	if fresh[0].Link != "https://example.com/0" {
+		t.Fatalf("backlog not drained oldest first: %q", fresh[0].Link)
+	}
+	// The overflow must survive for the next run, not be marked as seen.
+	rest := selectFresh(items, known, now, false)
+	if len(rest) != 5 || rest[0].Link != "https://example.com/"+strconv.Itoa(maxItemsPerFeed) {
+		t.Fatalf("remaining backlog = %#v", rest)
+	}
+}
+
 func TestParseLookback(t *testing.T) {
 	for _, value := range []string{"", "1h", "3h", "24h", "7days"} {
 		if _, err := parseLookback(value); err != nil {
