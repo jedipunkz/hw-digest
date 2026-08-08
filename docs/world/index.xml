@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sat, 08 Aug 2026 02:20:57 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sat, 08 Aug 2026 04:21:18 +0000</lastBuildDate>
+<item><title>Doom co-creator John Romero reveals id Software turned to Taiwanese pirates to help distribute the game to more people</title><link>https://www.tweaktown.com/rss/click/news/113046/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113046/?c=news-mf</guid><pubDate>Sat, 08 Aug 2026 03:53:08 +0000</pubDate><description><![CDATA[<p>Doom co-creator John Romero reveals id Software turned to Taiwanese pirates to help distribute the game to more people</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113046/?c=news-mf">TweakTown</source></item>
+<item><title>人間、マシン、要件、仕様 – 新しいプログラムを例として使用した、igor’sLAB の 2 人チームの構造</title><link>https://www.igorslab.de/en/human-machine-requirements-specifications-igorslab-two-person-team-new-program/</link><guid isPermaLink="true">https://www.igorslab.de/en/human-machine-requirements-specifications-igorslab-two-person-team-new-program/</guid><pubDate>Sat, 08 Aug 2026 03:30:24 +0000</pubDate><description><![CDATA[<p>人間、マシン、要件、仕様 – 新しいプログラムを例として使用した、igor’sLAB の 2 人チームの構造
+
+AI 支援の SSD/NVMe ツールによって 4 つの Windows インターフェイス エラーが明らかになり、人間による要件、専門家のレビュー、ハードウェアの検証が依然として重要である理由がわかりました。
+
+この記事では、igor&#39;sLAB の 2 人開発モデルについて検証します。つまり、1 人の人間と 1 つの AI システムが、SSD と NVMe テレメトリを読み取る Windows ツール上で連携して作業します。中心的な結論は、AI はコードとドキュメントを高速に作成できるが、要件、アーキテクチャ、承認基準、専門家によるレビュー、および実際のハードウェアでのテストの責任は依然として人間にあるということです。
+
+この証拠は、物理的なハードウェアの分解ではなく、ソフトウェアの構築に関するものです。元のスクリプトでは、手書きの Windows 構造、直接 kernel32.dll バインド、ATA パススルー コマンド、および NVMe ログ ページを使用していました。その後、テレメトリ、ベンチマーク、レポート、構成の個別の機能領域を含む 28 ファイルのアプリケーションに拡張されました。
+
+中心的な障害は NVMe プロトコル クエリ機能内ではありませんでした。 STORAGEPROTOCOLSPECIFIC_DATA は正しくパックされ、ProtocolDataOffset は正しく設定され、NVMe ログ ページ 0x02 が評価され、128 ビット カウンターが処理され、ケルビン変換が実装されました。この障害は、アプリケーションがプロトコル パスを選択したときに以前に発生しました。
+
+info.bustype == BUSTYPE_NVME の場合に使用されるコード。バス タイプ 17 を信頼できる NVMe 識別子として扱います。この想定は、BusTypeRAID、値 8 を報告できる Intel RST または VMD の背後のドライブでは失…</p><p><img src="https://www.igorslab.de/wp-content/uploads/2026/08/Teaser-1.jpg" alt="人間、マシン、要件、仕様 – 新しいプログラムを例として使用した、igor’sLAB の 2 人チームの構造"></p>]]></description><source url="https://www.igorslab.de/en/human-machine-requirements-specifications-igorslab-two-person-team-new-program/">igor&#39;sLAB</source><media:content url="https://www.igorslab.de/wp-content/uploads/2026/08/Teaser-1.jpg" medium="image"/><media:thumbnail url="https://www.igorslab.de/wp-content/uploads/2026/08/Teaser-1.jpg"/></item>
+<item><title>ブロック、シュモック — チップ上に水をポンピングするだけ</title><link>https://hackaday.com/2026/08/07/block-shmock-just-pump-water-over-the-chip/</link><guid isPermaLink="true">https://hackaday.com/2026/08/07/block-shmock-just-pump-water-over-the-chip/</guid><pubDate>Sat, 08 Aug 2026 02:00:38 +0000</pubDate><description><![CDATA[<p>ブロック、シュモック — チップ上に水をポンピングするだけ
+
+PC を水冷する場合、冷却剤とチップの間に何らかのインターフェース、つまり熱を伝える銅またはアルミニウムの水ブロックが必要であることが一般的に受け入れられています。
+
+PC を水冷する場合、冷却剤とチップの間に何らかのインターフェイス (熱を除去する液体を運ぶ銅またはアルミニウムの水ブロック) が必要であると一般に認められています。もしそうしなかったらどうしますか?それが、[TrashBench] が直接水冷実験で問いかけたことです。統合されたポンプや銅製ウォーターブロックの代わりに、彼は 3D プリントしたパイプフィッティングを裸の GPU と CPU にエポキシ接着しただけです。
+
+結果は興味深いものです。直接冷却 GPU はプロフェッショナル システムよりもかなりのマージンで優れていますが、同じ技術を CPU に適用すると失敗します。また、漏れが発生し、彼のハードウェアをほとんど破壊してしまうこともありますが、マッドサイエンスを行う場合にはこれらのリスクが伴います。エポキシで修復できないことはありません。いずれにせよ、チップを液体に直接さらすと冷却される可能性があるという事実は、必ずしも驚くべきことではありません。何年もの間、人々はコンピューターを油に浸してきましたが、彼が CPU と GPU の間にこれほどの違いがあると認識しているという事実は非常に興味深いです。 [TrashBench] はビデオの中で独自の理論を述べていますが、ここで何が起こっていると思いますか?
+
+いずれにせよ、彼が直接冷却の実験を続けるなら、やはりラジエーターが必要になるでしょう。そして、勇気を出して言うなら、巨大な金属製のヘビをお勧めしたいと思います。</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/direct-water-cooling-graph.jpg" alt="ブロック、シュモック — チップ上に水をポンピングするだけ"></p>]]></description><source url="https://hackaday.com/2026/08/07/block-shmock-just-pump-water-over-the-chip/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/direct-water-cooling-graph.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/direct-water-cooling-graph.jpg"/></item>
 <item><title>この忘れ去られたPixel機能こそ、私がGoogleに最も復活させてほしい機能だ</title><link>https://www.xda-developers.com/this-forgotten-pixel-feature-is-the-one-i-want-google-to-bring-back-most/</link><guid isPermaLink="true">https://www.xda-developers.com/this-forgotten-pixel-feature-is-the-one-i-want-google-to-bring-back-most/</guid><pubDate>Sat, 08 Aug 2026 00:00:10 +0000</pubDate><description><![CDATA[<p>この忘れ去られたPixel機能こそ、私がGoogleに最も復活させてほしい機能だ
 
 Active Edge は、本当に復活する必要がある隠れた Pixel 機能の逸品です。
@@ -4528,29 +4549,6 @@ Notion がまだ修正できないと思われる点
 
 私の Notion ワークスペースはここ数年で大幅に拡大し、ページの読み込みに以前よりも著しく時間がかかりました。私のメイン ダッシュボードにはリンクされたデータベースがいくつかあり、それを開くたびに少し時間がかかります。これは些細なことのように思…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/appflowy-database-on-desktop-pc-clock-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="AppFlowyはついに本物のNotionのように感じられ、自己ホストすることで私の最大の不満が解決されました"></p>]]></description><source url="https://www.xda-developers.com/appflowy-feels-like-real-notion-and-self-hosting-fixed-my-biggest-complaint/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/appflowy-database-on-desktop-pc-clock-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/appflowy-database-on-desktop-pc-clock-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>Samsung reveals zHBM: future RAM is stacked above AI accelerator, boasts 8x performance of HBM5 and 3x energy efficiency</title><link>https://www.tweaktown.com/rss/click/news/113011/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113011/?c=news-mf</guid><pubDate>Wed, 05 Aug 2026 14:20:11 +0000</pubDate><description><![CDATA[<p>Samsung reveals zHBM: future RAM is stacked above AI accelerator, boasts 8x performance of HBM5 and 3x energy efficiency</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113011/?c=news-mf">TweakTown</source></item>
-<item><title>MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中</title><link>https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-mentions-of-32-gb-ram-recommendation-for-windows-11</link><guid isPermaLink="true">https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-mentions-of-32-gb-ram-recommendation-for-windows-11</guid><pubDate>Wed, 05 Aug 2026 14:19:21 +0000</pubDate><description><![CDATA[<p>MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中
-
-Microsoft は、新しい PC の構築または購入の推奨事項として 32 GB の RAM について言及したドキュメントおよび資料を Web サイトから遡及的に削除します。代わりに、同社は現在、RAM 構成であっても Windows 11 をスムーズに実行できるように最適化された 8 GB デバイスを重視しています。
-
-MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中
-
-2025 年 8 月 18 日 Microsoft Windows 11 24H2 アップデートにより SSD 障害が発生する可能性がある (278)
-
-2025 年 10 月 21 日 Windows 11 25H2 October Update のバグにより回復環境が使用不能になる (170)
-
-2025 年 10 月 17 日 Microsoft が Windows 11 October Update で Localhost を破壊し、ユーザーは強制的に元に戻される (105)
-
-2026 年 1 月 16 日 NVIDIA が GeForce RTX 5070 Ti の生産を終了、RTX 5060 Ti 16 GB Next (210) と伝えられる
-
-2025 年 10 月 1 日 Microsoft が Windows 11 25H2 をリリース…新機能はゼロ？ (122)
-
-2025 年 12 月 14 日 Microsoft Copilot AI が LG TV に搭載、削除できない (144)
-
-2025 年 10 月 7 日 Microsoft が Windows 11 でのオンライン アカウント バイパスをブロック (162)
-
-2026 年 5 月 1 日 Microsoft は、Windows 11 の「心配しない」アップグレードとして 32 GB RAM を推奨するようになりました (147)
-
-2025 年 8 月 19…</p><p><img src="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg" alt="MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中"></p>]]></description><source url="https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-mentions-of-32-gb-ram-recommendation-for-windows-11">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg"/></item>
 <item><title>Microsoft、Windows 11 向けの 32 GB RAM の推奨をひっそりと削除中</title><link>https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-32-gb-ram-recommendation-for-windows-11</link><guid isPermaLink="true">https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-32-gb-ram-recommendation-for-windows-11</guid><pubDate>Wed, 05 Aug 2026 14:19:21 +0000</pubDate><description><![CDATA[<p>Microsoft、Windows 11 向けの 32 GB RAM の推奨をひっそりと削除中
 
 Microsoft は、新しい PC の構築または購入の推奨事項として 32 GB の RAM について言及したドキュメントおよび資料を Web サイトから遡及的に削除します。代わりに、同社は現在、RAM 構成であっても Windows 11 をスムーズに実行できるように最適化された 8 GB デバイスを重視しています。
@@ -4574,6 +4572,29 @@ Microsoft、Windows 11 向けの 32 GB RAM の推奨をひっそりと削除中
 2026 年 5 月 1 日 Microsoft は、Windows 11 の「心配しない」アップグレードとして 32 GB RAM を推奨するようになりました (147)
 
 2025 年 8 月 19 日 P…</p><p><img src="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg" alt="Microsoft、Windows 11 向けの 32 GB RAM の推奨をひっそりと削除中"></p>]]></description><source url="https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-32-gb-ram-recommendation-for-windows-11">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg"/></item>
+<item><title>MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中</title><link>https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-mentions-of-32-gb-ram-recommendation-for-windows-11</link><guid isPermaLink="true">https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-mentions-of-32-gb-ram-recommendation-for-windows-11</guid><pubDate>Wed, 05 Aug 2026 14:19:21 +0000</pubDate><description><![CDATA[<p>MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中
+
+Microsoft は、新しい PC の構築または購入の推奨事項として 32 GB の RAM について言及したドキュメントおよび資料を Web サイトから遡及的に削除します。代わりに、同社は現在、RAM 構成であっても Windows 11 をスムーズに実行できるように最適化された 8 GB デバイスを重視しています。
+
+MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中
+
+2025 年 8 月 18 日 Microsoft Windows 11 24H2 アップデートにより SSD 障害が発生する可能性がある (278)
+
+2025 年 10 月 21 日 Windows 11 25H2 October Update のバグにより回復環境が使用不能になる (170)
+
+2025 年 10 月 17 日 Microsoft が Windows 11 October Update で Localhost を破壊し、ユーザーは強制的に元に戻される (105)
+
+2026 年 1 月 16 日 NVIDIA が GeForce RTX 5070 Ti の生産を終了、RTX 5060 Ti 16 GB Next (210) と伝えられる
+
+2025 年 10 月 1 日 Microsoft が Windows 11 25H2 をリリース…新機能はゼロ？ (122)
+
+2025 年 12 月 14 日 Microsoft Copilot AI が LG TV に搭載、削除できない (144)
+
+2025 年 10 月 7 日 Microsoft が Windows 11 でのオンライン アカウント バイパスをブロック (162)
+
+2026 年 5 月 1 日 Microsoft は、Windows 11 の「心配しない」アップグレードとして 32 GB RAM を推奨するようになりました (147)
+
+2025 年 8 月 19…</p><p><img src="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg" alt="MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中"></p>]]></description><source url="https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-mentions-of-32-gb-ram-recommendation-for-windows-11">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg"/></item>
 <item><title>2026 年 8 月の新しい Audible オーディオブックのベスト 10</title><link>https://goodereader.com/blog/book-recommendations/the-top-10-best-new-audible-audiobooks-for-august-2026</link><guid isPermaLink="true">https://goodereader.com/blog/book-recommendations/the-top-10-best-new-audible-audiobooks-for-august-2026</guid><pubDate>Wed, 05 Aug 2026 14:17:29 +0000</pubDate><description><![CDATA[<p>2026 年 8 月の新しい Audible オーディオブックのベスト 10
 
 Audible.com で最も期待され、高く評価されている新しいオーディオブックには、スター勢揃いのフルキャストのパフォーマンス、大ヒット作の続編、深い文学小説が含まれています。
@@ -4985,6 +5006,19 @@ Beast of Reインカーネーションは現在正式に利用可能であり、
 Mustafa Mahmoud 1 時間前 注目のテクノロジー ニュース , ソフトウェア &amp; ゲーム , テクノロジー ニュース
 
 過去 30 年間、ほぼポケモンのタイトルだけに取り組んできた後、ゲーム フリークは、このスタジオがこれまでに制作したものとは異なる、ペースが速く、視覚的に印象的なアクション RPG である Beast of Renation を発表し、多くの人を驚かせました。正式リリースと並行して、ゲームのレビューも公開されており、その素晴らしい可能性をわずかに及ばないように見えるゲームが紹介されています。 Metacritic スコア 73 、Open Critic 評価 76 の Beast of Reインカーネーションは、最後のメインライン ポケモン ゲーム (Metacritic スコア 78 の Legends Z-A) の高みには到達できませんでしたが、2022 年のポケモン スカーレットとバイオレット (71 を達成) をなんとか打ち負かしました。 「ゲームフリークの驚くほど強力なアクションタイトル」と評される。スタジオにとっての「大胆な新たな一歩」であり、「堅固だが公正な戦闘」を備えた「説得力のある」作品である『Beast of Reインカーネーション』は、かなりの成果を上げているようだ。残念ながら、すべてが完璧というわけではなく、このゲームの主な問題のいくつかは野心的すぎることです。すべての人の共感を呼ぶものではなかった物語。そしてやや味気ないレベルデザイン。 『ポケットモンスター』と『ビースト・オブ・リインカーネーション』の間では、ほぼ全面的に品質が明らかに向上している。ただし、ポケモンとは異なり、B…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/08/beast-732x330.jpg" alt="ゲームフリークの『Beast of Reinationnation』が好評発売中"></p>]]></description><source url="https://www.kitguru.net/tech-news/mustafa-mahmoud/game-freaks-beast-of-reincarnation-launches-to-solid-reviews/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/08/beast-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/08/beast-732x330.jpg"/></item>
+<item><title>カメラのハードウェアは USB-C と物理的に同等になる可能性がありますか?</title><link>https://hackaday.com/2026/08/05/could-camera-hardware-be-the-physical-equivalent-to-usb-c/</link><guid isPermaLink="true">https://hackaday.com/2026/08/05/could-camera-hardware-be-the-physical-equivalent-to-usb-c/</guid><pubDate>Wed, 05 Aug 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>カメラのハードウェアは USB-C と物理的に同等になる可能性がありますか?
+
+[マンスール] はエッセイ「A Common Thread」で興味深いアイデアを提示しています。USB-C がエレクトロニクスの世界で「すべてを支配する 1 つのコネクタ」になったのと同じように、彼の…
+
+[マンスール] はエッセイ「A Common Thread」で興味深いアイデアを提示しています。エレクトロニクスの世界で USB-C が「すべてを支配する 1 つのコネクタ」になったのと同じように、彼のプロジェクトにも統一された物理接続層が必要です。言ってみれば、共通の話題。
+
+具体的には、彼のすべてのカメラ機器にすでに搭載されていた 1/4 インチ-20 UNC コネクタです。そのコネクターを中心に彼のものを統合することは、青い脳波からのボルトではありませんでした。聞いてみると、このアイデアは時間の経過とともに進化し、彼がすでにそれを使い始めてから初めて意図的になったことがわかりました。
+
+ただし、それには言うべきことがあります。 1 つは、さまざまな小物がレゴで作られたかのように組み立てられることがわかって便利なことです。もう 1 つは、設計プロセスでの一連の決定を取り除くことです。1/4 インチ-20 UNC フィッティングを使用することになるため、[マンスール] は、それを材料にねじ込むかどうか、またはインセットまたはキャプティブ ボルトを使用するかどうかを決定するだけで済みます。
+
+1/4 インチのボルトが、私たちが作るほとんどのものに弱点をもたらすわけではありません。優れたハードウェアを使用すると、1 トン以上の時間がかかる場合があります。一方で、トルクに対する耐性は必ずしも高いわけではありませんが、[マンスール] のカメラ バッグにはそれに対する答えもありました。バネ仕掛けのロケーター ピンがメス側の穴に落ちてトルクを受け止めます。写真の世界では、これらは AARI ピンです。私たちにとって、それらは良いアイデアのように思えます。
+
+カスタムマウントとブラケットのために毎回ホ…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/camera-mount-connector.jpeg" alt="カメラのハードウェアは USB-C と物理的に同等になる可能性がありますか?"></p>]]></description><source url="https://hackaday.com/2026/08/05/could-camera-hardware-be-the-physical-equivalent-to-usb-c/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/camera-mount-connector.jpeg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/camera-mount-connector.jpeg"/></item>
 <item><title>Montech TG3 パノラミック ミッドタワー ケース レビュー: 4 つの RGB ファンとパノラマ ビューを備えた素晴らしい価値</title><link>https://www.tomshardware.com/pc-components/pc-cases/montech-tg3-panoramic-mid-tower-case-review</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/pc-cases/montech-tg3-panoramic-mid-tower-case-review</guid><pubDate>Wed, 05 Aug 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>Montech TG3 パノラミック ミッドタワー ケース レビュー: 4 つの RGB ファンとパノラマ ビューを備えた素晴らしい価値
 
 4 つのファンを備え、見た目も感触も安っぽくない、60 ドルのパノラマ ミッドタワー ケースですか?はい、お願いします。
@@ -5006,19 +5040,6 @@ Tom&#39;s Hardware を信頼できる理由 当社の専門レビュー担当者
 私たちは今年初めに Computex で Montech の TG3 ケースを初めて発見しました。このパノラマミッドタワーシャーシは、スモークサイドとフロントパネルガラスを通して内部の全景を眺めることができ、階層型の底部レイアウトと、盛り上がった電源チャンバーの周囲にある ARGB 照明ストリップを備えています。側面の吸気は高エアフローの恩恵にはなりませんが、このケースは電力を大量に消費するコンポーネント、少なくとも CPU を使用したテストでは良好なパフォーマンスを示し、新しいテスト ハードウェアを使用した最高の空冷温度の一部を提供しました。 4 つのファン (1 つはフルフレーム 360mm なので、厳密には 2 つ) を含む価格は 59.90 ドルで、予算のミッドタワー スペースでは非常に価値があります。
 
 TG3 の内部には、工場で提供されるエアフローのために、側面にユニボディ リバース ファン (3x120mm) と背面に 1 つ…</p><p><img src="https://cdn.mos.cms.futurecdn.net/VKjspJqHmJ8jPsMafvb8yZ-1920-80.jpg" alt="Montech TG3 パノラミック ミッドタワー ケース レビュー: 4 つの RGB ファンとパノラマ ビューを備えた素晴らしい価値"></p>]]></description><source url="https://www.tomshardware.com/pc-components/pc-cases/montech-tg3-panoramic-mid-tower-case-review">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/VKjspJqHmJ8jPsMafvb8yZ-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/VKjspJqHmJ8jPsMafvb8yZ-1920-80.jpg"/></item>
-<item><title>カメラのハードウェアは USB-C と物理的に同等になる可能性がありますか?</title><link>https://hackaday.com/2026/08/05/could-camera-hardware-be-the-physical-equivalent-to-usb-c/</link><guid isPermaLink="true">https://hackaday.com/2026/08/05/could-camera-hardware-be-the-physical-equivalent-to-usb-c/</guid><pubDate>Wed, 05 Aug 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>カメラのハードウェアは USB-C と物理的に同等になる可能性がありますか?
-
-[マンスール] はエッセイ「A Common Thread」で興味深いアイデアを提示しています。USB-C がエレクトロニクスの世界で「すべてを支配する 1 つのコネクタ」になったのと同じように、彼の…
-
-[マンスール] はエッセイ「A Common Thread」で興味深いアイデアを提示しています。エレクトロニクスの世界で USB-C が「すべてを支配する 1 つのコネクタ」になったのと同じように、彼のプロジェクトにも統一された物理接続層が必要です。言ってみれば、共通の話題。
-
-具体的には、彼のすべてのカメラ機器にすでに搭載されていた 1/4 インチ-20 UNC コネクタです。そのコネクターを中心に彼のものを統合することは、青い脳波からのボルトではありませんでした。聞いてみると、このアイデアは時間の経過とともに進化し、彼がすでにそれを使い始めてから初めて意図的になったことがわかりました。
-
-ただし、それには言うべきことがあります。 1 つは、さまざまな小物がレゴで作られたかのように組み立てられることがわかって便利なことです。もう 1 つは、設計プロセスでの一連の決定を取り除くことです。1/4 インチ-20 UNC フィッティングを使用することになるため、[マンスール] は、それを材料にねじ込むかどうか、またはインセットまたはキャプティブ ボルトを使用するかどうかを決定するだけで済みます。
-
-1/4 インチのボルトが、私たちが作るほとんどのものに弱点をもたらすわけではありません。優れたハードウェアを使用すると、1 トン以上の時間がかかる場合があります。一方で、トルクに対する耐性は必ずしも高いわけではありませんが、[マンスール] のカメラ バッグにはそれに対する答えもありました。バネ仕掛けのロケーター ピンがメス側の穴に落ちてトルクを受け止めます。写真の世界では、これらは AARI ピンです。私たちにとって、それらは良いアイデアのように思えます。
-
-カスタムマウントとブラケットのために毎回ホ…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/camera-mount-connector.jpeg" alt="カメラのハードウェアは USB-C と物理的に同等になる可能性がありますか?"></p>]]></description><source url="https://hackaday.com/2026/08/05/could-camera-hardware-be-the-physical-equivalent-to-usb-c/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/camera-mount-connector.jpeg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/camera-mount-connector.jpeg"/></item>
 <item><title>Google フォトでは、コレクションを好みに合わせてカスタマイズできるようになる予定です</title><link>https://www.androidauthority.com/google-photos-customize-collections-3694702/</link><guid isPermaLink="true">https://www.androidauthority.com/google-photos-customize-collections-3694702/</guid><pubDate>Wed, 05 Aug 2026 10:52:39 +0000</pubDate><description><![CDATA[<p>Google フォトでは、コレクションを好みに合わせてカスタマイズできるようになる予定です
 
 Google は、ユーザーが [コレクション] タブをカスタマイズできる新機能の開発に取り組んでいます。 Google フォトの UI も調整されています。
@@ -5755,6 +5776,7 @@ By Yash Patel 公開 2026 年 8 月 4 日、午後 5:00 EDT 2018 年にテクノ
 単なるクリップボードマネージャーではありません
 
 OctoClipを初めてインストールしたとき、私はこれがよりクリーンなイ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/octoclip-clipboard-manager.png?w=1600&amp;h=900&amp;fit=crop" alt="このクロスデバイス クリップボード アプリを見つけてから、クリップボード マネージャーを捨てました"></p>]]></description><source url="https://www.xda-developers.com/octoclip-cross-device-clipboard-app/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/octoclip-clipboard-manager.png?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/octoclip-clipboard-manager.png?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>Microsoft plans to make Xbox 360 games playable on PC through the Xbox app, leaked document reveals</title><link>https://www.tweaktown.com/rss/click/news/112997/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112997/?c=news-mf</guid><pubDate>Tue, 04 Aug 2026 20:30:10 +0000</pubDate><description><![CDATA[<p>Microsoft plans to make Xbox 360 games playable on PC through the Xbox app, leaked document reveals</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112997/?c=news-mf">TweakTown</source></item>
 <item><title>セルフホスト型メディア サーバーをどのストリーミング サービスよりも優れたものに変えた 5 つのツール</title><link>https://www.xda-developers.com/self-hosted-media-tools-better-than-streaming/</link><guid isPermaLink="true">https://www.xda-developers.com/self-hosted-media-tools-better-than-streaming/</guid><pubDate>Tue, 04 Aug 2026 20:30:10 +0000</pubDate><description><![CDATA[<p>セルフホスト型メディア サーバーをどのストリーミング サービスよりも優れたものに変えた 5 つのツール
 
 これら 5 つの自己ホスト型ツールは、リビング ルーム全体で再生、リクエスト、編成、字幕、スケジュールされたチャンネルを処理します。
@@ -5766,7 +5788,6 @@ Jeff Butts 著 2026 年 8 月 4 日午後 4 時 30 分 EDT 公開 ジェフは�
 Jellyfin は再生側をほぼすぐに解決しましたが、再生は仕事の一部にすぎないことがすぐにわかりました。リクエスト、名前、字幕、構成、そして次に何を観るべきかという単純な質問が、依然として私の膝の上に戻ってきました。
 
 ここでスタックの残りの部分が重要になり始めました。各ツールは、別の手作業、間違った名前のフォルダー、または特定の映画があるかどうかを尋ねる別のテキストになってしまう特定の煩わしさを処理します。 Sonarr と Radarr は著作権侵害と同列に議…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/jellyfin-tv.jpg?w=1600&amp;h=900&amp;fit=crop" alt="セルフホスト型メディア サーバーをどのストリーミング サービスよりも優れたものに変えた 5 つのツール"></p>]]></description><source url="https://www.xda-developers.com/self-hosted-media-tools-better-than-streaming/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/jellyfin-tv.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/jellyfin-tv.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>Microsoft plans to make Xbox 360 games playable on PC through the Xbox app, leaked document reveals</title><link>https://www.tweaktown.com/rss/click/news/112997/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112997/?c=news-mf</guid><pubDate>Tue, 04 Aug 2026 20:30:10 +0000</pubDate><description><![CDATA[<p>Microsoft plans to make Xbox 360 games playable on PC through the Xbox app, leaked document reveals</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112997/?c=news-mf">TweakTown</source></item>
 <item><title>This ESP32-Based PCIe Card Powers on a PC Remotely</title><link>https://www.hackster.io/news/this-esp32-based-pcie-card-powers-on-a-pc-remotely-b58c0b21bcd5</link><guid isPermaLink="true">https://www.hackster.io/news/this-esp32-based-pcie-card-powers-on-a-pc-remotely-b58c0b21bcd5</guid><pubDate>Tue, 04 Aug 2026 20:29:37 +0000</pubDate><description><![CDATA[<p>This ESP32-Based PCIe Card Powers on a PC Remotely</p>]]></description><source url="https://www.hackster.io/news/this-esp32-based-pcie-card-powers-on-a-pc-remotely-b58c0b21bcd5">Hackster.io</source></item>
 <item><title>(PR) Samsung Unveils Next-Gen 3D-Memory Vision at FMS 2026</title><link>https://www.techpowerup.com/351366/samsung-unveils-next-gen-3d-memory-vision-at-fms-2026</link><guid isPermaLink="true">https://www.techpowerup.com/351366/samsung-unveils-next-gen-3d-memory-vision-at-fms-2026</guid><pubDate>Tue, 04 Aug 2026 20:24:43 +0000</pubDate><description><![CDATA[<p>(PR) Samsung Unveils Next-Gen 3D-Memory Vision at FMS 2026</p>]]></description><source url="https://www.techpowerup.com/351366/samsung-unveils-next-gen-3d-memory-vision-at-fms-2026">TechPowerUp</source></item>
 <item><title>ASUS Googlebook を初めて見ると、Google のラップトップ計画が具体化しつつあることがわかります</title><link>https://www.androidauthority.com/asus-googlebook-leak-3694565/</link><guid isPermaLink="true">https://www.androidauthority.com/asus-googlebook-leak-3694565/</guid><pubDate>Tue, 04 Aug 2026 20:24:11 +0000</pubDate><description><![CDATA[<p>ASUS Googlebook を初めて見ると、Google のラップトップ計画が具体化しつつあることがわかります
@@ -6491,51 +6512,4 @@ Android Authority のアフィリエイト リンクにより、手数料が発�
 ほとんどの人はパスキーについて聞いたことがあるかもしれませんが、その仕組みをまだ完全には理解していません。しかし、新しい研究によると、パスキーが何を保護しないのかを理解することは、その機能を理解することと同じくらい重要である可能性があります。
 
 Palo Alto Networks の Unit 42 の研究者 (Bleeping Computer 経由) は、侵害された Windows PC 上のマルウェアが…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2025/05/google-passkey-login-prompt-scaled.jpg" alt="パスキーがハッキングやマルウェアから守ってくれると思いますか?もう一度考えてみましょう"></p>]]></description><source url="https://www.androidauthority.com/google-password-manager-synced-passkey-vulnerabilities-3694433/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2025/05/google-passkey-login-prompt-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2025/05/google-passkey-login-prompt-scaled.jpg"/></item>
-<item><title>Chrome、Firefox、Brave を草に触れる必要がある最小限のブラウザに置き換えました</title><link>https://www.xda-developers.com/replaced-chrome-firefox-brave-with-minimalist-browser-opera-air/</link><guid isPermaLink="true">https://www.xda-developers.com/replaced-chrome-firefox-brave-with-minimalist-browser-opera-air/</guid><pubDate>Tue, 04 Aug 2026 14:30:10 +0000</pubDate><description><![CDATA[<p>Chrome、Firefox、Brave を草に触れる必要がある最小限のブラウザに置き換えました
-
-それ
-
-Chrome、Firefox、Brave を草に触れる必要がある最小限のブラウザに置き換えました
-
-By Nolen Jonker 公開 2026 年 8 月 4 日、午前 10 時 30 分 EDT Nolen は 2019 年に執筆活動を開始し、3 年間 MakeUseOf のクリエイティブ セクションの編集に専念しました。彼らの専門知識はテクノロジーと創造性の交差点にあり、写真、ビデオ編集、グラフィック デザインなどの分野をカバーしています。仕事以外では、ノーレンが良い本を読んだり、自分の物語を書いたり、ビデオ ゲームをしたりしているのをよく見かけます。 XDA アカウントにサインインする 私たちのほとんどにとって、1 日を通して複数のブラウザーを開いているのはごく普通のことです。私にとって、Chrome は仕事の場であり、Brave は勉強の場であり、Firefox はそれ以外のものです。それらのどれも特に悪いとは思いませんが、要求していないものを追加し続けています。ここに Gemini のナッジ、そこに Copilot のサイドバー、私に何かの代金を支払わせようとする新しいページなどです。
-
-Opera Air に参入してみましょう。Opera Air は、「初のマインドフル ブラウザ」を宣伝しています。ブラウザを使用することはマインドフルネスの逆なので、最初は少し奇抜だと思いました。しかし、お気に入りの YouTuber がそれを使っているのを見て、試してみることにしました。そして、それがこの哲学に沿っていることがわかりました…
-
-それは最初に本物のブラウザであり、次にマインドフルです
-
-ミニマリズムとは、必要な機能が欠けていることではなく、不要なものが取り除かれていることを意味します。
-
-Opera Air は、Opera One、GX、Neon と並ぶ Opera の 4 番目のデスクトップ ブラウザーとして 2025 年 2 月にリリースされまし…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/opera-air-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="Chrome、Firefox、Brave を草に触れる必要がある最小限のブラウザに置き換えました"></p>]]></description><source url="https://www.xda-developers.com/replaced-chrome-firefox-brave-with-minimalist-browser-opera-air/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/opera-air-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/opera-air-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>日常生活を楽にする最高のスマートホームアップグレード</title><link>https://www.androidauthority.com/smart-home-tech-everyday-3677505/</link><guid isPermaLink="true">https://www.androidauthority.com/smart-home-tech-everyday-3677505/</guid><pubDate>Tue, 04 Aug 2026 14:17:03 +0000</pubDate><description><![CDATA[<p>日常生活を楽にする最高のスマートホームアップグレード
-
-これらの日常的なスマート ホーム テクノロジー デバイスは、日常生活をよりシンプルかつ管理しやすくする優れた方法です。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-日常生活を楽にする最高のスマートホームアップグレード
-
-0 • Narwal Google Discover でフォローしてください 優先ソースとして追加してください よりスマートな家を建てるということは、かつては多くの DIY を行い、継続的に互換性をチェックし、すべてがうまく動作することをただ祈ることを意味していました。最近はプラグアンドプレイがはるかに進んでおり、テクノロジーやガジェットもはるかに進歩しています。
-
-ロボット掃除機が最も注目を集めることなしには、スマート ホームの話題は語れません。ロボット掃除機の機能は年々向上し、より手頃な価格になっています。しかし、優れた住宅環境とは、単に床をきれいにするだけではありません。適切なスピーカー、テレビ、セキュリティ キット、さらにはペット用フィーダーさえあれば、日常生活の負担が軽減され、すべてがずっと楽になります。
-
-オーディオ、エンターテイメント、セキュリティ、プール掃除、そして毛皮で覆われた家族向けのスマート ホーム ガジェットをまとめました。
-
-Edgar Cervantes / Android Authority 床用のロボット掃除機がますます一般的になってきています。しかし、プールを所有している場合は、まだ手で水面の葉や虫を取り除いている可能性が高くなります。それは、実際に水中での時間を楽しむというよりも、雑事に追われる週末の朝です。 Beatbot iSkim は、その面倒な作業を軽減するために構築されています。
-
-表面専用のスキマーなので、床や壁の掃除ロボットと組み合わせたり、表面だけを処理したい場合に最適です。ゴミバスケットは 9 リットルで、市販されているほとんどのスキマーよりも明らかに広いスペースがあ…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/06/narwal-flow-2-2.jpg" alt="日常生活を楽にする最高のスマートホームアップグレード"></p>]]></description><source url="https://www.androidauthority.com/smart-home-tech-everyday-3677505/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/06/narwal-flow-2-2.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/06/narwal-flow-2-2.jpg"/></item>
-<item><title>Pixel 11 のウィッシュリストには、1 つの要求が他のすべてよりも優先されます</title><link>https://www.androidauthority.com/google-pixel-11-wishlist-survey-3694376/</link><guid isPermaLink="true">https://www.androidauthority.com/google-pixel-11-wishlist-survey-3694376/</guid><pubDate>Tue, 04 Aug 2026 14:16:39 +0000</pubDate><description><![CDATA[<p>Pixel 11 のウィッシュリストには、1 つの要求が他のすべてよりも優先されます
-
-最近の Android Authority の調査では、ほとんどのユーザーが Pixel 11 シリーズのスマートフォンに 1 つのメジャー アップグレードを望んでいることが明らかになりました。残りはボーナスになります。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Pixel 11 のウィッシュリストには、1 つの要求が他のすべてよりも優先されます
-
-0 • Evan Blass / Google Google Discover でフォローしてください 優先ソースとして追加してください Pixel 11 シリーズの来週の入荷が確認されました。私たちがこれまでに見たリーク、そしてたくさんのリークは、Googleの新しい携帯電話がもたらす可能性のあるアップグレードのありふれたイメージを描いています。それでも、Pixel ファンが Pixel 11 への静かな、または目に見えないアップグレードを望むのを止めることはできません。そして、他のものよりも明るく輝くものがあります。
-
-私の同僚のロバート・トリッグスは最近、Pixel 11 シリーズがなぜ深刻な心配をしているのかを主張しました。同氏は記事の中で、今後のスマートフォンでGoogleがもたらす可能性のある最も精彩のないアップグレード、あるいは見逃してしまう可能性のあるアップグレードの可能性を強調し、その理由リストのトップに不満の残るバッテリー寿命を挙げた。記事の一部として実施されたアンケートでは Android Authority の読者から 6,300 票を超える投票が寄せられ、ファンがまさにそれが Google に優先的に修正してほしいと望んでいることが確認されました。
-
-Pixel ファンは何よりも優れたバッテリーを望んでいますが、果たしてそれを手に入れることができるでしょうか?
-
-調査参加者の半数以上が、Pixel 11 シリーズのバッテリー寿命の向…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/pixel-11-pro-ev-1-scaled.jpg" alt="Pixel 11 のウィッシュリストには、1 つの要求が他のすべてよりも優先されます"></p>]]></description><source url="https://www.androidauthority.com/google-pixel-11-wishlist-survey-3694376/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/pixel-11-pro-ev-1-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/pixel-11-pro-ev-1-scaled.jpg"/></item>
 </channel></rss>
