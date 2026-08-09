@@ -1,6 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sun, 09 Aug 2026 15:45:49 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sun, 09 Aug 2026 16:53:42 +0000</lastBuildDate>
+<item><title>Linux は、Windows が失ってしまったいじくり回す喜びをついに私に取り戻してくれました。</title><link>https://www.xda-developers.com/linux-joy-windows-killed/</link><guid isPermaLink="true">https://www.xda-developers.com/linux-joy-windows-killed/</guid><pubDate>Sun, 09 Aug 2026 16:30:10 +0000</pubDate><description><![CDATA[<p>Linux は、Windows が失ってしまったいじくり回す喜びをついに私に取り戻してくれました。
+
+そして私はできました
+
+Linux は、Windows が失ってしまったいじくり回す喜びをついに私に取り戻してくれました。
+
+Simon Batt 公開 2026 年 8 月 9 日、午後 12:30 EDT Simon はコンピューター サイエンスの学士号を取得しており、2014 年からテクノロジーについて執筆しており、3.1 から Windows マシンを使用しています。インディーズ ゲーム スタジオで働き、コンピューターの問題全般に対応する家族の頼りになる技術者として活動した後、彼は文章を書くことへの情熱に気づき、自分のスキルセットをテクノロジーに関するあらゆることについて書くことに決めました。ライターとしてのキャリアを始めて以来、彼は WorldStart 、 Listverse 、 MakeTechEasier などのさまざまな出版物に執筆してきました。しかし、2019 年 2 月に MakeUseOf に居場所を見つけた後、最終的にはその姉妹サイトである XDA に移り、最新かつ最高の Windows、Linux、DIY 電子機器を提供することになりました。 XDA アカウントにサインインする Windows を使用することは、新しいフロンティアを進むような気分でした。 Microsoft は新しい機能、ツール、進歩をもたらし、その歩みを追うことは喜びでした。悪いニュースは、Windows 11 が古くなり、探索するのがそれほど楽しくなくなったことです。良いニュースは、Linux がすぐに飽きる気配がないということです。
+
+Windows 11は「万能」OSになった
+
+Windows 95 から 10 日前までは、Windows には本当にアイデンティティがあるように感じられました。それはコンピュータ全体にとって新境地であり、バージョンアップするたびに大きくて刺激的なものに感じられました。確かに、それらの変更が良くないと感じることもありました。Windows…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/googlebook-benefit-linux.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Linux は、Windows が失ってしまったいじくり回す喜びをついに私に取り戻してくれました。"></p>]]></description><source url="https://www.xda-developers.com/linux-joy-windows-killed/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/googlebook-benefit-linux.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/googlebook-benefit-linux.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>PC のファームウェアには隠れたストレージ制限があり、コンピュータの起動が停止します。</title><link>https://www.xda-developers.com/uefi-nvram-storage-chip-full/</link><guid isPermaLink="true">https://www.xda-developers.com/uefi-nvram-storage-chip-full/</guid><pubDate>Sun, 09 Aug 2026 16:00:10 +0000</pubDate><description><![CDATA[<p>PC のファームウェアには隠れたストレージ制限があり、コンピュータの起動が停止します。
+
+PC の最小のドライブは、
+
+PC のファームウェアには隠れたストレージ制限があり、コンピュータの起動が停止します。
+
+By Korbin Brown 公開 2026 年 8 月 9 日、午後 12:00 EDT Korbin は、物事が実際にどのように機能するかを理解するために、ほとんどの時間を端末で費やしている Linux システム管理者です。過去 10 年間にわたり、彼は Linux の構成、奇妙な問題のトラブルシューティング、現実世界でのオープンソース ツールの使用について何百もの記事を書いてきました。彼はまた、Windows システムとネットワーク、特にドキュメントに記載されているとおりに動作しないことがある混合環境での作業も多く行っています。物事を書き留めることで彼はすべてを理解することができ、できれば他の誰かが数時間を節約できるようになります。 XDA アカウントにサインインする すべての PC には、起動順序、セキュア ブート状態、ファン速度、オペレーティング システム内で行う一般的な構成を超えるその他の設定など、電源を入れ直しても存続するいくつかの設定があります。最新の UEFI マシンでは、これらの設定はマザーボードにはんだ付けされたフラッシュ メモリ内に存在します。
+
+そのフラッシュ領域は通常のストレージ デバイスと同様に動作し、スペースが不足することもあります。コンピューターの起動に必要なデータと、セキュリティやその他のその他の設定だけが保持されるため、最初は小さく、場合によっては 64 KB しかありません。通常のストレージと同様に、時間の経過とともに書き込み、削除が行われ、断片化されます。使用可能なスペースがなくなると、コンピューターは新しいブート エントリを保存したり、ファームウェア設定を更新したりできなくなります。最悪の場合、PC が起動をまったく拒否する可能性があります。
+
+実際に問題に遭遇したユーザーの記事を読むまで、私はこれほど深く考えていませ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2023/07/msi-mag-forge-112r-motherboard-installed-2.jpg?w=1600&amp;h=900&amp;fit=crop" alt="PC のファームウェアには隠れたストレージ制限があり、コンピュータの起動が停止します。"></p>]]></description><source url="https://www.xda-developers.com/uefi-nvram-storage-chip-full/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2023/07/msi-mag-forge-112r-motherboard-installed-2.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2023/07/msi-mag-forge-112r-motherboard-installed-2.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>Wolfbox MF60 圧縮空気ダスターが期間限定セールでほぼ 40% オフ - 強力な充電式デバイスの推進ファンは最大 110,000 RPM で動作します</title><link>https://www.tomshardware.com/pc-components/wolfbox-mf60-compressed-air-duster-is-nearly-40-percent-off-in-a-limited-time-deal-powerful-rechargeable-devices-propulsion-fan-runs-at-up-to-110-000-rpm</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/wolfbox-mf60-compressed-air-duster-is-nearly-40-percent-off-in-a-limited-time-deal-powerful-rechargeable-devices-propulsion-fan-runs-at-up-to-110-000-rpm</guid><pubDate>Sun, 09 Aug 2026 15:52:16 +0000</pubDate><description><![CDATA[<p>Wolfbox MF60 圧縮空気ダスターが期間限定セールでほぼ 40% オフ - 強力な充電式デバイスの推進ファンは最大 110,000 RPM で動作します
+
+このような低価格は私たちを驚かせます。
+
+Wolfbox MF60 圧縮空気ダスターが期間限定セールでほぼ 40% オフ - 強力な充電式デバイスの推進ファンは最大 110,000 RPM で動作します
+
+このような低価格は私たちを驚かせます。
+
+(画像クレジット: Amazon ) リンクをコピー
+
+0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する あなたの大切な PC は、メンテナンス スケジュールの一環として定期的にクリーニングする必要があります。季節ごとの掃除を 1 ～ 2 回怠ると、ほこりがたまりやすくなり、システムの外観上のわずかな傷から実際に冷却とパフォーマンスを妨げるものに変化します。ほこりの多い電子機器の掃除作業には、高性能のエアダスターがあれば問題は解決します。強力な Wolfbox MF60 圧縮空気ダスターの期間限定セールを発見しました。 Amazon では期間限定で、史上最高価格の 49.99 ドルから 30.39 ドルに 39% 値下げされています。
+
+どんなに家を清潔に保っていても、電気機器には必ずホコリが付着します。 PC エアフロー ケースはコンポーネントを冷却するために外部から空気を取り込むため、使用するたびに常に新鮮な破片が取り込まれます。ノートパソコンのファンは、定期的にバッグに入れて持ち運んだり、布製の家具の上に置いたりすると、さらにひどい塵埃を引き寄せる可能性があります。この問題は、ポータブル機器の小さなファンや通気口によってさらに悪化します。
+
+ここで、高性能ダストバスターが役立ちます。メンテナンスが楽で便利になります。たとえば、Wolfbox MF60 Compressed Air Duster は、重さわずか 0.5 ポンドのコードレス充電式デバイスです。ユーザーは 3 つのファン速度から 1 …</p><p><img src="https://cdn.mos.cms.futurecdn.net/8xYAeyk8kDX3tPrajNKPGa-1920-80.jpg" alt="Wolfbox MF60 圧縮空気ダスターが期間限定セールでほぼ 40% オフ - 強力な充電式デバイスの推進ファンは最大 110,000 RPM で動作します"></p>]]></description><source url="https://www.tomshardware.com/pc-components/wolfbox-mf60-compressed-air-duster-is-nearly-40-percent-off-in-a-limited-time-deal-powerful-rechargeable-devices-propulsion-fan-runs-at-up-to-110-000-rpm">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/8xYAeyk8kDX3tPrajNKPGa-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/8xYAeyk8kDX3tPrajNKPGa-1920-80.jpg"/></item>
 <item><title>実際にJellyfinまたはKodiを使用する予定がある場合は、新しいFire TV Stickを購入しないでください</title><link>https://www.xda-developers.com/dont-buy-the-new-fire-tv-stick-if-you-actually-plan-to-use-jellyfin-or-kodi/</link><guid isPermaLink="true">https://www.xda-developers.com/dont-buy-the-new-fire-tv-stick-if-you-actually-plan-to-use-jellyfin-or-kodi/</guid><pubDate>Sun, 09 Aug 2026 15:30:10 +0000</pubDate><description><![CDATA[<p>実際にJellyfinまたはKodiを使用する予定がある場合は、新しいFire TV Stickを購入しないでください
 
 Fire TV Select の Vega OS はクールなものから遮断されています。
@@ -331,15 +368,6 @@ By Adam Conway 公開 2026 年 8 月 9 日、午前 7 時 30分 EDT 私はアダ
 Crucial/Micronは消費者向け営業を終了した後、生涯保証を拒否し、市場価値の17%を提供し、r/pcmasterraceから動作するハードウェアを維持します
 
 Tom&#39;s Hardware との電子メールのやり取りを共有した Redditor Key_Tailor6948 は、最近、48GB (2x24GB) DDR5 メモリ キットのメモリ…</p><p><img src="https://cdn.mos.cms.futurecdn.net/Kmba422TadpNgFayHYQVLJ-1920-80.jpg" alt="伝えられるところによると、Micron は Crucial RAM の返品に 1 ドルを提示し、市場価値の 37% に過ぎないにもかかわらず、元のメーカー希望小売価格の払い戻しのみを提案している — チップメーカーはその後、より良いソリューションで方針を転換"></p>]]></description><source url="https://www.tomshardware.com/pc-components/ram/micron-reportedly-offers-pennies-on-the-dollar-for-crucial-ram-return-only-offers-to-reimburse-original-msrp-despite-it-being-only-37-percent-of-market-value-chipmaker-later-reverses-course-with-a-better-solution">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/Kmba422TadpNgFayHYQVLJ-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/Kmba422TadpNgFayHYQVLJ-1920-80.jpg"/></item>
-<item><title>圧縮空気を使用して 3D プリントチューブを連続的に押し出す</title><link>https://hackaday.com/2026/08/09/continously-extruding-3d-printed-tubes-with-compressed-air/</link><guid isPermaLink="true">https://hackaday.com/2026/08/09/continously-extruding-3d-printed-tubes-with-compressed-air/</guid><pubDate>Sun, 09 Aug 2026 11:00:50 +0000</pubDate><description><![CDATA[<p>圧縮空気を使用して 3D プリントチューブを連続的に押し出す
-
-[Roetz 4.0] の [Jan] は、マルチマテリアル 3D プリンティングに対する独自のアプローチを持っています。彼は 2 つの異なる材料を使用し、一方をもう一方の周りのシェルとして押し出す押出機を設計しました。これにより、次のことが開きます…
-
-[Roetz 4.0] の [Jan] は、マルチマテリアル 3D プリンティングに対する独自のアプローチを持っています。彼は 2 つの異なる材料を使用し、一方をもう一方の周りのシェルとして押し出す押出機を設計しました。これにより、絶縁シェルで囲まれた導電性フィラメントなど、いくつかの興味深い可能性が開かれます。しかし、[Jan] はこのプロセスをすぐに使用することができなかったため、圧縮空気コアを使用してプラスチック チューブを押し出す関連技術に移りました。
-
-彼がこれに使用した押出機は、二重材料押出機のバリエーションでした。 2 本のフィラメントを取り込んで溶かし、高精度の圧力調整器によって制御される圧縮空気ラインの出口の周りにシェルとして押し出します。 PLA を使用したテストでは、気密なフィラメントのチューブを押し出すことができるように見えましたが、気泡が発生し、直径が一定でないチューブを形成する傾向がありました。ステンレス鋼押出機の熱伝導率が低いことにも問題があることが判明しました。圧縮空気の冷却効果と相まって、フィラメントが押出機内で固化する場合があります。
-
-[Jan] は、圧力ベースの制御のみを使用して一貫した結果を得るのはほぼ不可能であることに気づきました。空気の周囲の溶融プラスチックの層が薄くなるにつれて、さらなるバルーン化に対する抵抗が小さくなり、バブルが破裂するまで継続的に膨張します。押し出される空気の量を制御すると、より一貫した結果が得られ、2 番目のビデオ で、彼はまさにそれを行うための蠕動ポンプを構築しました。また、TPU フィラメントの使用に切り替え、層の密着性が大幅に向上しました。圧縮空気で膨張させると、完成した TPU …</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/air_co-extrusion.png" alt="圧縮空気を使用して 3D プリントチューブを連続的に押し出す"></p>]]></description><source url="https://hackaday.com/2026/08/09/continously-extruding-3d-printed-tubes-with-compressed-air/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/air_co-extrusion.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/air_co-extrusion.png"/></item>
 <item><title>NotebookLM の定期ユーザーとして、Gemini Notebook に求める 5 つの点を以下に示します。</title><link>https://www.androidauthority.com/gemini-notebook-features-wish-list-3694460/</link><guid isPermaLink="true">https://www.androidauthority.com/gemini-notebook-features-wish-list-3694460/</guid><pubDate>Sun, 09 Aug 2026 11:00:50 +0000</pubDate><description><![CDATA[<p>NotebookLM の定期ユーザーとして、Gemini Notebook に求める 5 つの点を以下に示します。
 
 私は Gemini Notebook (以前は NotebookLM として知られていたアプリ) が好きですが、これら 5 つの機能があればさらに良くなると思います。
@@ -357,6 +385,15 @@ NotebookLM の定期ユーザーとして、Gemini Notebook に求める 5 つ�
 Gemini Notebook のどの機能の可能性が最優先に選択されますか?
 
 Shimul Sood / Android Authority 多くの場合、1 つのノートブックで十分ですが、特定のプロジェクトでは…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/Gemini-Notebook-app-opened-on-Galaxy-Z-Fold-8-Ultra.jpg" alt="NotebookLM の定期ユーザーとして、Gemini Notebook に求める 5 つの点を以下に示します。"></p>]]></description><source url="https://www.androidauthority.com/gemini-notebook-features-wish-list-3694460/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/Gemini-Notebook-app-opened-on-Galaxy-Z-Fold-8-Ultra.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/Gemini-Notebook-app-opened-on-Galaxy-Z-Fold-8-Ultra.jpg"/></item>
+<item><title>圧縮空気を使用して 3D プリントチューブを連続的に押し出す</title><link>https://hackaday.com/2026/08/09/continously-extruding-3d-printed-tubes-with-compressed-air/</link><guid isPermaLink="true">https://hackaday.com/2026/08/09/continously-extruding-3d-printed-tubes-with-compressed-air/</guid><pubDate>Sun, 09 Aug 2026 11:00:50 +0000</pubDate><description><![CDATA[<p>圧縮空気を使用して 3D プリントチューブを連続的に押し出す
+
+[Roetz 4.0] の [Jan] は、マルチマテリアル 3D プリンティングに対する独自のアプローチを持っています。彼は 2 つの異なる材料を使用し、一方をもう一方の周りのシェルとして押し出す押出機を設計しました。これにより、次のことが開きます…
+
+[Roetz 4.0] の [Jan] は、マルチマテリアル 3D プリンティングに対する独自のアプローチを持っています。彼は 2 つの異なる材料を使用し、一方をもう一方の周りのシェルとして押し出す押出機を設計しました。これにより、絶縁シェルで囲まれた導電性フィラメントなど、いくつかの興味深い可能性が開かれます。しかし、[Jan] はこのプロセスをすぐに使用することができなかったため、圧縮空気コアを使用してプラスチック チューブを押し出す関連技術に移りました。
+
+彼がこれに使用した押出機は、二重材料押出機のバリエーションでした。 2 本のフィラメントを取り込んで溶かし、高精度の圧力調整器によって制御される圧縮空気ラインの出口の周りにシェルとして押し出します。 PLA を使用したテストでは、気密なフィラメントのチューブを押し出すことができるように見えましたが、気泡が発生し、直径が一定でないチューブを形成する傾向がありました。ステンレス鋼押出機の熱伝導率が低いことにも問題があることが判明しました。圧縮空気の冷却効果と相まって、フィラメントが押出機内で固化する場合があります。
+
+[Jan] は、圧力ベースの制御のみを使用して一貫した結果を得るのはほぼ不可能であることに気づきました。空気の周囲の溶融プラスチックの層が薄くなるにつれて、さらなるバルーン化に対する抵抗が小さくなり、バブルが破裂するまで継続的に膨張します。押し出される空気の量を制御すると、より一貫した結果が得られ、2 番目のビデオ で、彼はまさにそれを行うための蠕動ポンプを構築しました。また、TPU フィラメントの使用に切り替え、層の密着性が大幅に向上しました。圧縮空気で膨張させると、完成した TPU …</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/air_co-extrusion.png" alt="圧縮空気を使用して 3D プリントチューブを連続的に押し出す"></p>]]></description><source url="https://hackaday.com/2026/08/09/continously-extruding-3d-printed-tubes-with-compressed-air/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/air_co-extrusion.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/air_co-extrusion.png"/></item>
 <item><title>Epomaker が GX1 オープンバック ワイヤレス ヘッドセットでオーディオに参入</title><link>https://www.kitguru.net/peripherals/headphones/joao-silva/epomaker-gets-into-audio-with-the-gx1-open-back-wireless-headset/</link><guid isPermaLink="true">https://www.kitguru.net/peripherals/headphones/joao-silva/epomaker-gets-into-audio-with-the-gx1-open-back-wireless-headset/</guid><pubDate>Sun, 09 Aug 2026 11:00:33 +0000</pubDate><description><![CDATA[<p>Epomaker が GX1 オープンバック ワイヤレス ヘッドセットでオーディオに参入
 
 Epomaker は、同社初のオーディオ製品である GX1 ワイヤレス ゲーミング ヘッドセットを正式に発売しました。現在入手可能なこのオープンバック ヘッドセットは、トライモード接続、50mm ダイナミック ドライバー、7.1 サラウンド サウンドのサポート、および環境ノイズ キャンセリングを備えたデュアル マイク設計を備えています。 GX1 はオープンバック イヤーカップ デザインを採用していますが、これはゲーム ヘッドセットの分野ではあまり一般的ではありません。ただし、これは
@@ -1393,17 +1430,6 @@ Pixel 10 はすでに Pixel 9 に対する大幅なアップグレードだっ�
 以下に完全なビデオを埋め込みました。[Jeff] による 2 台のラップトップの比較レビューが含まれています。 Mac は iGPU とサウンドで勝利し、Windows を搭載していないのに対し、Dell は Linux をロードできることとバックライト付きキーボードを備えていることでポイントを獲得しています。しかし、私たちが期待していた数値は効率です。結局のところ、少ないワット数でギガフロップスを生み出す ARM の能力が、ARM をモバイル市場で勝ち取り、そもそも Apple がそのアーキテクチャに興味を持つようになったのです。インテルが追いついたとしたら、それはニュースだ。
 
 [Jeff] のバージョンの Top500 ベンチマーク (スーパーコンピューターで使用されるのと同じ HPL Linpak テスト) では、MacBook は 10.6W で 57.012 Gflops (5.38 Gflops/W) を記録しましたが、Dell は 20.6W で 127.91 Gflops (6.21 Gflops/W) を記録しました。過去のデータがすべて逆の方向に進んでいることを考えると、これは驚くべきことです。この Dell は、M4 と M3 Mac Studio の両方を上回っていますが、7.57 Gflops/W で M4 Mac Mini に負けただけ…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/XPS-v-Neo-Jeff-feat.jpg" alt="エネルギー効率を高めたいですか?おい、あなたはデルを手に入れたのだ!"></p>]]></description><source url="https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/XPS-v-Neo-Jeff-feat.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/XPS-v-Neo-Jeff-feat.jpg"/></item>
-<item><title>モバパッド M12S: オリジナルの Switch 2 Joy-Con よりも優れている?</title><link>https://www.notebookcheck.net/Mobapad-M12S-Better-than-the-original-Switch-2-Joy-Cons.1362612.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/Mobapad-M12S-Better-than-the-original-Switch-2-Joy-Cons.1362612.0.html</guid><pubDate>Sat, 08 Aug 2026 07:44:00 +0000</pubDate><description><![CDATA[<p>モバパッド M12S: オリジナルの Switch 2 Joy-Con よりも優れている?
-
-ここでテストされた M12HD と M12S により、Mobapad は任天堂のオリジナル Joy-Con の代替品を提供します。何が優れているのか、どこに改善の余地があるのか​​? Mobapad M12S Joy-Con をいくつかのゲームでテストしています。
-
-モバパッドM12S Joy-Conは良いですか？
-
-さまざまなゲームで広範なテストを行った結果、Mobapad の M12S Joy-Con は任天堂のオリジナル Joy-Con の優れた代替品であると言えます。純正品は狭くて小さく感じられ、時間が経つと疲れやすくなることがありますが、これらのサードパーティ製 Joy-Con は、グリップが大幅に向上し、TMR テクノロジーのおかげでドリフトの問題のないジョイスティックを提供し、Switch 2 プロトコルの使用により、純正品と同様の機能 (主な機能: スタンバイ中にドック モードで充電) を提供します。現在では、Nyxi Hyperion 3 など、他の代替製品も利用可能であり、今後さらに多くの製品が登場する可能性があります。より優れたグリップを備えた代替品を探している場合は、通常、M12S を選択すれば間違いありません。唯一の問題は、私の大きな手では右スティックに手が届きにくいことでした。そのため、M12S は完全な Joy-Con の代替品とは言えません。時間の経過とともにグリップには慣れますが、Steam Deck または PS5 でプレイしたことのある人なら、ボタン レイアウトがいかに快適であるかがわかるでしょう。 HD ランブルなしではいられない、または Amiibo を頻繁に使用する場合は、おそらく M12S には満足できないでしょうが、同じメーカーの代替品が M12HD にあります。
-
-Mobapad M12S コントローラーは可用性が良好です
-
-Mobapad は、M12S Joy-Con の代替品を独自の Web サイトで直接提供しています。 J…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/Samsung/Galaxy_S26/Mobapad_M12S_Title.jpg" alt="モバパッド M12S: オリジナルの Switch 2 Joy-Con よりも優れている?"></p>]]></description><source url="https://www.notebookcheck.net/Mobapad-M12S-Better-than-the-original-Switch-2-Joy-Cons.1362612.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/Samsung/Galaxy_S26/Mobapad_M12S_Title.jpg" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/Samsung/Galaxy_S26/Mobapad_M12S_Title.jpg"/></item>
 <item><title>Mobapad M12S: オリジナルの Switch 2 Joy-Con よりも優れている?</title><link>https://www.notebookcheck.net/Mobapad-M12S-Better-than-the-Original-Switch-2-Joy-Cons.1362612.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/Mobapad-M12S-Better-than-the-Original-Switch-2-Joy-Cons.1362612.0.html</guid><pubDate>Sat, 08 Aug 2026 07:44:00 +0000</pubDate><description><![CDATA[<p>Mobapad M12S: オリジナルの Switch 2 Joy-Con よりも優れている?
 
 ここでテストされた M12HD と M12S により、Mobapad は任天堂のオリジナル Joy-Con の代替品を提供します。何が優れているのか、どこに改善の余地があるのか​​? Mobapad M12S Joy-Con をいくつかのゲームでテストしています。
@@ -1415,6 +1441,17 @@ Mobapad は、M12S Joy-Con の代替品を独自の Web サイトで直接提供
 Mobapad M12S コントローラーはここから入手できます
 
 Mobapad は、M12S Joy-Con の代替品を独自の Web サイトで直接提供していま…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/Samsung/Galaxy_S26/Mobapad_M12S_Title.jpg" alt="Mobapad M12S: オリジナルの Switch 2 Joy-Con よりも優れている?"></p>]]></description><source url="https://www.notebookcheck.net/Mobapad-M12S-Better-than-the-Original-Switch-2-Joy-Cons.1362612.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/Samsung/Galaxy_S26/Mobapad_M12S_Title.jpg" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/Samsung/Galaxy_S26/Mobapad_M12S_Title.jpg"/></item>
+<item><title>モバパッド M12S: オリジナルの Switch 2 Joy-Con よりも優れている?</title><link>https://www.notebookcheck.net/Mobapad-M12S-Better-than-the-original-Switch-2-Joy-Cons.1362612.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/Mobapad-M12S-Better-than-the-original-Switch-2-Joy-Cons.1362612.0.html</guid><pubDate>Sat, 08 Aug 2026 07:44:00 +0000</pubDate><description><![CDATA[<p>モバパッド M12S: オリジナルの Switch 2 Joy-Con よりも優れている?
+
+ここでテストされた M12HD と M12S により、Mobapad は任天堂のオリジナル Joy-Con の代替品を提供します。何が優れているのか、どこに改善の余地があるのか​​? Mobapad M12S Joy-Con をいくつかのゲームでテストしています。
+
+モバパッドM12S Joy-Conは良いですか？
+
+さまざまなゲームで広範なテストを行った結果、Mobapad の M12S Joy-Con は任天堂のオリジナル Joy-Con の優れた代替品であると言えます。純正品は狭くて小さく感じられ、時間が経つと疲れやすくなることがありますが、これらのサードパーティ製 Joy-Con は、グリップが大幅に向上し、TMR テクノロジーのおかげでドリフトの問題のないジョイスティックを提供し、Switch 2 プロトコルの使用により、純正品と同様の機能 (主な機能: スタンバイ中にドック モードで充電) を提供します。現在では、Nyxi Hyperion 3 など、他の代替製品も利用可能であり、今後さらに多くの製品が登場する可能性があります。より優れたグリップを備えた代替品を探している場合は、通常、M12S を選択すれば間違いありません。唯一の問題は、私の大きな手では右スティックに手が届きにくいことでした。そのため、M12S は完全な Joy-Con の代替品とは言えません。時間の経過とともにグリップには慣れますが、Steam Deck または PS5 でプレイしたことのある人なら、ボタン レイアウトがいかに快適であるかがわかるでしょう。 HD ランブルなしではいられない、または Amiibo を頻繁に使用する場合は、おそらく M12S には満足できないでしょうが、同じメーカーの代替品が M12HD にあります。
+
+Mobapad M12S コントローラーは可用性が良好です
+
+Mobapad は、M12S Joy-Con の代替品を独自の Web サイトで直接提供しています。 J…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/Samsung/Galaxy_S26/Mobapad_M12S_Title.jpg" alt="モバパッド M12S: オリジナルの Switch 2 Joy-Con よりも優れている?"></p>]]></description><source url="https://www.notebookcheck.net/Mobapad-M12S-Better-than-the-original-Switch-2-Joy-Cons.1362612.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/Samsung/Galaxy_S26/Mobapad_M12S_Title.jpg" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/Samsung/Galaxy_S26/Mobapad_M12S_Title.jpg"/></item>
 <item><title>誰かが独自の e-ink ウォッチを構築しました。20 を超えるカスタム フェイスが搭載されています</title><link>https://www.xda-developers.com/someone-built-their-own-e-ink-watch-and-it-features-20-custom-faces/</link><guid isPermaLink="true">https://www.xda-developers.com/someone-built-their-own-e-ink-watch-and-it-features-20-custom-faces/</guid><pubDate>Sat, 08 Aug 2026 07:17:00 +0000</pubDate><description><![CDATA[<p>誰かが独自の e-ink ウォッチを構築しました。20 を超えるカスタム フェイスが搭載されています
 
 時間を確認するのがこれほど便利なことはありません。
@@ -3124,8 +3161,8 @@ Googleは、ロックされた携帯電話でのクイック設定タイルの�
 この新しい制限は、懐中電灯や自動回転などのリスクの低いユーティリティをロック画面で利用可能なままにしつつ、追跡を無効にするために窃盗犯が使用するタイルをターゲットにしているようです。
 
 Android デバイスでは、クイック設定タイルを使用して、ロックされたデバイスの驚くほど多くの設定を切り替えることができます。 Android 17 QPR 1 Beta 5 で、懐中電灯タイルを除くすべてのクイック設定タイルをロックダウンするという Google の意図を示すコードを発見しました。これはプライバシーとセキュリティにとって非常に理にかなっています。ただし、このアプローチは強引すぎると感じる人もいるかもしれません。 Android Canary 2608 のコードは、Google がほぼすべてのクイック設定タイルではなく一部のロック…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/04/android-17-beta-3-wi-fi-mobile-data-toggles-quick-settings-scaled.jpg" alt="Googleは、ロックされた携帯電話でのクイック設定タイルの動作を再考しています（再び）"></p>]]></description><source url="https://www.androidauthority.com/android-quick-settings-lock-screen-change-apk-teardown-3695702/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/04/android-17-beta-3-wi-fi-mobile-data-toggles-quick-settings-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/04/android-17-beta-3-wi-fi-mobile-data-toggles-quick-settings-scaled.jpg"/></item>
-<item><title>(PR) SK hynix Invests 54 Trillion Won in Yongin Y2 and Cheongju M17 to Secure Mid-to-Long-Term Production Base for AI Memory Demand</title><link>https://www.techpowerup.com/351422/sk-hynix-invests-54-trillion-won-in-yongin-y2-and-cheongju-m17-to-secure-mid-to-long-term-production-base-for-ai-memory-demand</link><guid isPermaLink="true">https://www.techpowerup.com/351422/sk-hynix-invests-54-trillion-won-in-yongin-y2-and-cheongju-m17-to-secure-mid-to-long-term-production-base-for-ai-memory-demand</guid><pubDate>Fri, 07 Aug 2026 07:24:01 +0000</pubDate><description><![CDATA[<p>(PR) SK hynix Invests 54 Trillion Won in Yongin Y2 and Cheongju M17 to Secure Mid-to-Long-Term Production Base for AI Memory Demand</p>]]></description><source url="https://www.techpowerup.com/351422/sk-hynix-invests-54-trillion-won-in-yongin-y2-and-cheongju-m17-to-secure-mid-to-long-term-production-base-for-ai-memory-demand">TechPowerUp</source></item>
 <item><title>(PR) SK hynix Invests 54 Trillion Won in Yongin Y2 and Cheongju M17 to Secure Mid-to-Long-Term Production for AI Memory Demand</title><link>https://www.techpowerup.com/351422/sk-hynix-invests-54-trillion-won-in-yongin-y2-and-cheongju-m17-to-secure-mid-to-long-term-production-for-ai-memory-demand</link><guid isPermaLink="true">https://www.techpowerup.com/351422/sk-hynix-invests-54-trillion-won-in-yongin-y2-and-cheongju-m17-to-secure-mid-to-long-term-production-for-ai-memory-demand</guid><pubDate>Fri, 07 Aug 2026 07:24:01 +0000</pubDate><description><![CDATA[<p>(PR) SK hynix Invests 54 Trillion Won in Yongin Y2 and Cheongju M17 to Secure Mid-to-Long-Term Production for AI Memory Demand</p>]]></description><source url="https://www.techpowerup.com/351422/sk-hynix-invests-54-trillion-won-in-yongin-y2-and-cheongju-m17-to-secure-mid-to-long-term-production-for-ai-memory-demand">TechPowerUp</source></item>
+<item><title>(PR) SK hynix Invests 54 Trillion Won in Yongin Y2 and Cheongju M17 to Secure Mid-to-Long-Term Production Base for AI Memory Demand</title><link>https://www.techpowerup.com/351422/sk-hynix-invests-54-trillion-won-in-yongin-y2-and-cheongju-m17-to-secure-mid-to-long-term-production-base-for-ai-memory-demand</link><guid isPermaLink="true">https://www.techpowerup.com/351422/sk-hynix-invests-54-trillion-won-in-yongin-y2-and-cheongju-m17-to-secure-mid-to-long-term-production-base-for-ai-memory-demand</guid><pubDate>Fri, 07 Aug 2026 07:24:01 +0000</pubDate><description><![CDATA[<p>(PR) SK hynix Invests 54 Trillion Won in Yongin Y2 and Cheongju M17 to Secure Mid-to-Long-Term Production Base for AI Memory Demand</p>]]></description><source url="https://www.techpowerup.com/351422/sk-hynix-invests-54-trillion-won-in-yongin-y2-and-cheongju-m17-to-secure-mid-to-long-term-production-base-for-ai-memory-demand">TechPowerUp</source></item>
 <item><title>(PR) Gadhouse Unveils the Wesley Wired Headphones</title><link>https://www.techpowerup.com/351420/gadhouse-unveils-the-wesley-wired-headphones</link><guid isPermaLink="true">https://www.techpowerup.com/351420/gadhouse-unveils-the-wesley-wired-headphones</guid><pubDate>Fri, 07 Aug 2026 07:20:15 +0000</pubDate><description><![CDATA[<p>(PR) Gadhouse Unveils the Wesley Wired Headphones</p>]]></description><source url="https://www.techpowerup.com/351420/gadhouse-unveils-the-wesley-wired-headphones">TechPowerUp</source></item>
 <item><title>Token Monitor – AI コーディング アシスタントの使用状況を追跡する ESP32-S3 デスクトップ ディスプレイ (クラウドファンディング)</title><link>https://www.cnx-software.com/2026/08/07/token-monitor-an-esp32-s3-desktop-display-that-tracks-ai-coding-assistant-usage/</link><guid isPermaLink="true">https://www.cnx-software.com/2026/08/07/token-monitor-an-esp32-s3-desktop-display-that-tracks-ai-coding-assistant-usage/</guid><pubDate>Fri, 07 Aug 2026 07:15:11 +0000</pubDate><description><![CDATA[<p>Token Monitor – AI コーディング アシスタントの使用状況を追跡する ESP32-S3 デスクトップ ディスプレイ (クラウドファンディング)
 
@@ -6033,29 +6070,6 @@ Notion がまだ修正できないと思われる点
 
 私の Notion ワークスペースはここ数年で大幅に拡大し、ページの読み込みに以前よりも著しく時間がかかりました。私のメイン ダッシュボードにはリンクされたデータベースがいくつかあり、それを開くたびに少し時間がかかります。これは些細なことのように思…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/appflowy-database-on-desktop-pc-clock-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="AppFlowyはついに本物のNotionのように感じられ、自己ホストすることで私の最大の不満が解決されました"></p>]]></description><source url="https://www.xda-developers.com/appflowy-feels-like-real-notion-and-self-hosting-fixed-my-biggest-complaint/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/appflowy-database-on-desktop-pc-clock-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/appflowy-database-on-desktop-pc-clock-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>Samsung reveals zHBM: future RAM is stacked above AI accelerator, boasts 8x performance of HBM5 and 3x energy efficiency</title><link>https://www.tweaktown.com/rss/click/news/113011/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113011/?c=news-mf</guid><pubDate>Wed, 05 Aug 2026 14:20:11 +0000</pubDate><description><![CDATA[<p>Samsung reveals zHBM: future RAM is stacked above AI accelerator, boasts 8x performance of HBM5 and 3x energy efficiency</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113011/?c=news-mf">TweakTown</source></item>
-<item><title>MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中</title><link>https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-mentions-of-32-gb-ram-recommendation-for-windows-11</link><guid isPermaLink="true">https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-mentions-of-32-gb-ram-recommendation-for-windows-11</guid><pubDate>Wed, 05 Aug 2026 14:19:21 +0000</pubDate><description><![CDATA[<p>MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中
-
-Microsoft は、新しい PC の構築または購入の推奨事項として 32 GB の RAM について言及したドキュメントおよび資料を Web サイトから遡及的に削除します。代わりに、同社は現在、RAM 構成であっても Windows 11 をスムーズに実行できるように最適化された 8 GB デバイスを重視しています。
-
-MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中
-
-2025 年 8 月 18 日 Microsoft Windows 11 24H2 アップデートにより SSD 障害が発生する可能性がある (278)
-
-2025 年 10 月 21 日 Windows 11 25H2 October Update のバグにより回復環境が使用不能になる (170)
-
-2025 年 10 月 17 日 Microsoft が Windows 11 October Update で Localhost を破壊し、ユーザーは強制的に元に戻される (105)
-
-2026 年 1 月 16 日 NVIDIA が GeForce RTX 5070 Ti の生産を終了、RTX 5060 Ti 16 GB Next (210) と伝えられる
-
-2025 年 10 月 1 日 Microsoft が Windows 11 25H2 をリリース…新機能はゼロ？ (122)
-
-2025 年 12 月 14 日 Microsoft Copilot AI が LG TV に搭載、削除できない (144)
-
-2025 年 10 月 7 日 Microsoft が Windows 11 でのオンライン アカウント バイパスをブロック (162)
-
-2026 年 5 月 1 日 Microsoft は、Windows 11 の「心配しない」アップグレードとして 32 GB RAM を推奨するようになりました (147)
-
-2025 年 8 月 19…</p><p><img src="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg" alt="MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中"></p>]]></description><source url="https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-mentions-of-32-gb-ram-recommendation-for-windows-11">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg"/></item>
 <item><title>Microsoft、Windows 11 向けの 32 GB RAM の推奨をひっそりと削除中</title><link>https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-32-gb-ram-recommendation-for-windows-11</link><guid isPermaLink="true">https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-32-gb-ram-recommendation-for-windows-11</guid><pubDate>Wed, 05 Aug 2026 14:19:21 +0000</pubDate><description><![CDATA[<p>Microsoft、Windows 11 向けの 32 GB RAM の推奨をひっそりと削除中
 
 Microsoft は、新しい PC の構築または購入の推奨事項として 32 GB の RAM について言及したドキュメントおよび資料を Web サイトから遡及的に削除します。代わりに、同社は現在、RAM 構成であっても Windows 11 をスムーズに実行できるように最適化された 8 GB デバイスを重視しています。
@@ -6079,6 +6093,29 @@ Microsoft、Windows 11 向けの 32 GB RAM の推奨をひっそりと削除中
 2026 年 5 月 1 日 Microsoft は、Windows 11 の「心配しない」アップグレードとして 32 GB RAM を推奨するようになりました (147)
 
 2025 年 8 月 19 日 P…</p><p><img src="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg" alt="Microsoft、Windows 11 向けの 32 GB RAM の推奨をひっそりと削除中"></p>]]></description><source url="https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-32-gb-ram-recommendation-for-windows-11">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg"/></item>
+<item><title>MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中</title><link>https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-mentions-of-32-gb-ram-recommendation-for-windows-11</link><guid isPermaLink="true">https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-mentions-of-32-gb-ram-recommendation-for-windows-11</guid><pubDate>Wed, 05 Aug 2026 14:19:21 +0000</pubDate><description><![CDATA[<p>MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中
+
+Microsoft は、新しい PC の構築または購入の推奨事項として 32 GB の RAM について言及したドキュメントおよび資料を Web サイトから遡及的に削除します。代わりに、同社は現在、RAM 構成であっても Windows 11 をスムーズに実行できるように最適化された 8 GB デバイスを重視しています。
+
+MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中
+
+2025 年 8 月 18 日 Microsoft Windows 11 24H2 アップデートにより SSD 障害が発生する可能性がある (278)
+
+2025 年 10 月 21 日 Windows 11 25H2 October Update のバグにより回復環境が使用不能になる (170)
+
+2025 年 10 月 17 日 Microsoft が Windows 11 October Update で Localhost を破壊し、ユーザーは強制的に元に戻される (105)
+
+2026 年 1 月 16 日 NVIDIA が GeForce RTX 5070 Ti の生産を終了、RTX 5060 Ti 16 GB Next (210) と伝えられる
+
+2025 年 10 月 1 日 Microsoft が Windows 11 25H2 をリリース…新機能はゼロ？ (122)
+
+2025 年 12 月 14 日 Microsoft Copilot AI が LG TV に搭載、削除できない (144)
+
+2025 年 10 月 7 日 Microsoft が Windows 11 でのオンライン アカウント バイパスをブロック (162)
+
+2026 年 5 月 1 日 Microsoft は、Windows 11 の「心配しない」アップグレードとして 32 GB RAM を推奨するようになりました (147)
+
+2025 年 8 月 19…</p><p><img src="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg" alt="MicrosoftはWindows 11向けの32 GB RAM推奨に関する記述をひっそりと削除中"></p>]]></description><source url="https://www.techpowerup.com/351384/microsoft-is-quietly-deleting-mentions-of-32-gb-ram-recommendation-for-windows-11">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/ir3o3JgSBEpITeXd.jpg"/></item>
 <item><title>2026 年 8 月の新しい Audible オーディオブックのベスト 10</title><link>https://goodereader.com/blog/book-recommendations/the-top-10-best-new-audible-audiobooks-for-august-2026</link><guid isPermaLink="true">https://goodereader.com/blog/book-recommendations/the-top-10-best-new-audible-audiobooks-for-august-2026</guid><pubDate>Wed, 05 Aug 2026 14:17:29 +0000</pubDate><description><![CDATA[<p>2026 年 8 月の新しい Audible オーディオブックのベスト 10
 
 Audible.com で最も期待され、高く評価されている新しいオーディオブックには、スター勢揃いのフルキャストのパフォーマンス、大ヒット作の続編、深い文学小説が含まれています。
@@ -6411,33 +6448,4 @@ AMD、Cerebras、D-Matrix、Rebellions、SambaNova、Tenstorrent にはノーで
 SpaceX は、Nvidia GPU が最高であるため、独占的に使用することを約束しました 2026 年 8 月 4 日
 
 「今後は、Vera Rubin アーキテクチャが最良のアーキテクチャであると考えているため、当社は Nvidia のみで構築することにしました」と、SpaceX の決算会見でイーロン マスク氏は述べました。 「私たちは、これが最高の AI コンピューターであると考えており、Nvidia とのさまざまなレベルでの緊密な協力とパートナーシップを非常に高く評価しています。私たちは Nvidia の独占企業です。[……</p><p><img src="https://cdn.mos.cms.futurecdn.net/zjF6jBbLk5mt7oCFCxwy9G-1920-80.jpg" alt="イーロン・マスク氏、SpaceXは「最高だから」Nvidia GPUを独占的に使用すると語る - 最適化されたVera Rubin NVL72が来年宇宙に打ち上げられると語る"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-spacex-will-exclusively-use-nvidia-gpus-because-they-are-the-best-says-optimized-vera-rubin-nvl72-will-be-launched-into-space-next-year">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/zjF6jBbLk5mt7oCFCxwy9G-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/zjF6jBbLk5mt7oCFCxwy9G-1920-80.jpg"/></item>
-<item><title>Samsung のデフォルトのアプリを 1 つずつ置き換えましたが、保持する価値があるのはこれらだけでした</title><link>https://www.xda-developers.com/i-replaced-samsung-default-apps-but-these-were-worth-keeping/</link><guid isPermaLink="true">https://www.xda-developers.com/i-replaced-samsung-default-apps-but-these-were-worth-keeping/</guid><pubDate>Wed, 05 Aug 2026 11:30:10 +0000</pubDate><description><![CDATA[<p>Samsung のデフォルトのアプリを 1 つずつ置き換えましたが、保持する価値があるのはこれらだけでした
-
-彼らは
-
-Samsung のデフォルトのアプリを 1 つずつ置き換えましたが、保持する価値があるのはこれらだけでした
-
-Hamlin Rozario 著 2026 年 8 月 5 日午前 7 時 30 分 EDT 公開 ハムリンはテクノロジー分野に 9 年以上携わっています。 2017 年以来、彼の作品は MakeUseOf 、Android Police 、OSXDaily、Beebom などに掲載されています。 XDA に入社する前は、Valnet の MakeUseOf で上級編集者を 2 年以上務めました。彼はデスクトップ用にハイエンドのゲーム機を使用し、旅行用に MacBook を使用していますが、macOS のいくつかの癖が嫌いです。他のどこよりもジムや飛行機の中で彼に出会う可能性が高くなります。 XDA アカウントにサインインする 過去に Samsung 製の携帯電話に乗り換えたときは、プリインストールされているアプリをあまり利用する機会を与えませんでした。私は最初の数分を Google の代替案に置き換えることに費やしました。なぜなら、私はすでにそれらに慣れており、特に PC や iPhone でそれらの多くを使用しているからです。たとえば、Samsung Browser は、ドックに置かれているのを最初に見たアプリだったので、通常は最初に使用されました。しかし最近、Z Flip 5 で Samsung のネイティブ アプリを試してみたいと思いました。
-
-理由の 1 つは、私が以前ほど Google のエコシステムに結びついていないことです。実際、デスクトップでは Edge 、iPhone では Safari に切り替えてからは、Chrome さえ使用しません。その結果、実際にサムスンのアプリが悪いと思っていたというよりも、習慣としてサムスンのアプリを置き換えていたことに気づきました。確かに、それらの中には依然として不要な重複もあれば、せいぜい許…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/my-files-on-samsung.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Samsung のデフォルトのアプリを 1 つずつ置き換えましたが、保持する価値があるのはこれらだけでした"></p>]]></description><source url="https://www.xda-developers.com/i-replaced-samsung-default-apps-but-these-were-worth-keeping/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/my-files-on-samsung.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/my-files-on-samsung.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>T-Mobile は次回の T-Mobile 火曜日の景品でさらに豪華になります</title><link>https://www.androidauthority.com/t-mobile-tuesdays-grilling-tongs-freebie-3694749/</link><guid isPermaLink="true">https://www.androidauthority.com/t-mobile-tuesdays-grilling-tongs-freebie-3694749/</guid><pubDate>Wed, 05 Aug 2026 11:13:09 +0000</pubDate><description><![CDATA[<p>T-Mobile は次回の T-Mobile 火曜日の景品でさらに豪華になります
-
-T-Mobile の次の T-Mobile Tuesday の景品は、ステンレス製のグリル用トングです。請求方法は次のとおりです。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-T-Mobile は次回の T-Mobile 火曜日の景品でさらに豪華になります
-
-0 • Joe Maring / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR 次回の T-Mobile Tuesdays のプレゼントは、ステンレス製のグリル用トングの無料ペアです。
-
-リークされた画像では、トングには木製のハンドルのアクセント、ロック機構、長いハンドル、さりげなくT-Mobileのロゴが入った波形のグリップヘッドが特徴であることが示されています。
-
-対象となる T-Mobile および Metro by T-Mobile の顧客は、8 月 11 日火曜日から T-Life アプリで特典を請求し、在庫がある限り店舗で引き換えることができます。
-
-従来のプランの変更、学生向けの新しいオプションの導入、および Experience 2.0 プランの展開の間で、T-Mobile は最近、顧客に多くの話題を提供してきました。そして今、この航空会社は、よりおなじみの伝統の 1 つである景品の配布に戻りつつあります。
-
-The Mobile Report によると、次回の T-Mobile Tuesdays の景品は、夏の終わりのバーベキューにちょうど間に合うように届く、丈夫なステンレス製のグリル用トングです。
-
-これは、キッチンの引き出しに忘れられてしまうような販促品とは思えません。リークされた画像によると、このトングは、木製のハンドルのアクセントが付いたステンレススチールのボディ、コンパクトに収納できるロック機構、さりげないT-Mobileロゴで仕上げら…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2025/10/t-mobile-logo-pixel-hero-2-scaled.jpg" alt="T-Mobile は次回の T-Mobile 火曜日の景品でさらに豪華になります"></p>]]></description><source url="https://www.androidauthority.com/t-mobile-tuesdays-grilling-tongs-freebie-3694749/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2025/10/t-mobile-logo-pixel-hero-2-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2025/10/t-mobile-logo-pixel-hero-2-scaled.jpg"/></item>
-<item><title>ShiftLens Turns 3D-Printed Objects Into Smart Displays — No Electronics Required</title><link>https://www.hackster.io/news/shiftlens-turns-3d-printed-objects-into-smart-displays-no-electronics-required-28e6876a9cc5</link><guid isPermaLink="true">https://www.hackster.io/news/shiftlens-turns-3d-printed-objects-into-smart-displays-no-electronics-required-28e6876a9cc5</guid><pubDate>Wed, 05 Aug 2026 11:12:49 +0000</pubDate><description><![CDATA[<p>ShiftLens Turns 3D-Printed Objects Into Smart Displays — No Electronics Required</p>]]></description><source url="https://www.hackster.io/news/shiftlens-turns-3d-printed-objects-into-smart-displays-no-electronics-required-28e6876a9cc5">Hackster.io</source></item>
 </channel></rss>
