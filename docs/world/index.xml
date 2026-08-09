@@ -1,6 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sat, 08 Aug 2026 23:43:57 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sun, 09 Aug 2026 02:27:59 +0000</lastBuildDate>
+<item><title>レーザー彫刻された親水性チャネルを備えた高密度パーチメント紙ペーパートロニクス</title><link>https://hackaday.com/2026/08/08/high-density-parchment-paper-papertronics-with-laser-carved-hydrophilic-channels/</link><guid isPermaLink="true">https://hackaday.com/2026/08/08/high-density-parchment-paper-papertronics-with-laser-carved-hydrophilic-channels/</guid><pubDate>Sun, 09 Aug 2026 02:00:25 +0000</pubDate><description><![CDATA[<p>レーザー彫刻された親水性チャネルを備えた高密度パーチメント紙ペーパートロニクス
+
+電子回路の基板として紙はあまり一般的ではありませんが、低コストでリサイクルが容易なフレキシブル回路としては有望です。とはいえ、紙は扱いやすい素材ではありません…
+
+電子回路の基板として紙はあまり一般的ではありませんが、低コストでリサイクルが容易なフレキシブル回路としては有望です。とはいえ、セルロース素材は吸収性があり不規則であるため、いわゆるペーパートロニクスの解像度と精度が制限されるため、トレースを印刷するときに紙を扱うのは簡単な素材ではありません。ワックスベースのマスクで高品質の紙を使用した場合でも、解像度の問題が発生したため、[Zahra Rafiee] et al.私たちは、疎水性クッキングシートをベースとしてレーザーと組み合わせて使用​​することで、別の方向から問題にアプローチすることを選択しました。
+
+ペーパートロニクスで使用されるインクの良い点は、インクが単なるトレースではなく、抵抗器などの機能要素にもなり得ることです。これは論文でも実証されています。インクのチャネルは 50 ワットの CO 2 レーザーを使用して作成され、クッキングシート上のシリコン コーティングがエッチングで除去されます。この記事で達成された解像度は、線幅が約 250 μm、線間隔が 300 μm であり、ワックスベースの代替品よりもはるかに優れています。
+
+インクに導電性を与えるのは PEDOT:PSS で、これをジメチルスルホキシド (DMSO) と混合すると抵抗器が生成されます。コンデンサは、ポリビニルアルコール (PVA) ベースのゲルを電解質としてオーバーレイし、連動する PEDOT:PSS の「フィンガー」を作成することで印刷できます。これらの組み合わせは、RC ローパス フィルターとハイパス フィルターを作成するために使用されました。
+
+これらのペーパートロニクス回路の劣化も、典型的な条件下で土壌に埋めてテストされました。シリコンコーティングだけが比較的劣化しませんでした。シリコーンは化学的…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/silicone_parchment_paper_papertronics_rafiee_et_al_appl_mater_interfaces_2026.jpg" alt="レーザー彫刻された親水性チャネルを備えた高密度パーチメント紙ペーパートロニクス"></p>]]></description><source url="https://hackaday.com/2026/08/08/high-density-parchment-paper-papertronics-with-laser-carved-hydrophilic-channels/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/silicone_parchment_paper_papertronics_rafiee_et_al_appl_mater_interfaces_2026.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/silicone_parchment_paper_papertronics_rafiee_et_al_appl_mater_interfaces_2026.jpg"/></item>
+<item><title>Raspberry Shake は、お住まいの地域の地震活動を記録して共有できる DIY キットです</title><link>https://www.xda-developers.com/the-raspberry-shake-is-a-diy-kit-that-lets-you-record-and-share-seismic-activity-in-your-area/</link><guid isPermaLink="true">https://www.xda-developers.com/the-raspberry-shake-is-a-diy-kit-that-lets-you-record-and-share-seismic-activity-in-your-area/</guid><pubDate>Sun, 09 Aug 2026 00:02:46 +0000</pubDate><description><![CDATA[<p>Raspberry Shake は、お住まいの地域の地震活動を記録して共有できる DIY キットです
+
+何
+
+Raspberry Shake は、お住まいの地域の地震活動を記録して共有できる DIY キットです
+
+クレジット: Raspberry Shake By Simon Batt Published 2026 年 8 月 8 日、午後 8:02 EDT Simon はコンピューター サイエンスの学士号を取得しており、2014 年からテクノロジーについて執筆しており、3.1 から Windows マシンを使用しています。インディーズ ゲーム スタジオで働き、コンピューターの問題全般に対応する家族の頼りになる技術者として活動した後、彼は文章を書くことへの情熱に気づき、自分のスキルセットをテクノロジーに関するあらゆることについて書くことに決めました。ライターとしてのキャリアを始めて以来、彼は WorldStart 、 Listverse 、 MakeTechEasier などのさまざまな出版物に執筆してきました。しかし、2019 年 2 月に MakeUseOf に居場所を見つけた後、最終的にはその姉妹サイトである XDA に移り、最新かつ最高の Windows、Linux、DIY 電子機器を提供することになりました。 XDA アカウントにサインインする
+
+Raspberry Shake は、Raspberry Pi を家庭用地震探知機に変えます。組み立てて静かな場所に置きます。
+
+利用可能なモデルには、1D (垂直)、3D (3 軸)、4D (高強度垂直)、および爆発を記録する Shake &amp; Boom が含まれます。
+
+携帯電話で録画を確認したり、必要に応じて Pi ネットワークに参加して、科学者が地震を記録できるようにすることができます。
+
+Raspberry Pi は趣味で使用するのには最適ですが、これらは科学的な用途にも適した強力な SBC であることを忘れがちです。地震が発生しやすい場所に住んでいて、科学的な目的と自分自身の興味のために地震活動を記録したい場…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/raspberry-shake-featured.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Raspberry Shake は、お住まいの地域の地震活動を記録して共有できる DIY キットです"></p>]]></description><source url="https://www.xda-developers.com/the-raspberry-shake-is-a-diy-kit-that-lets-you-record-and-share-seismic-activity-in-your-area/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/raspberry-shake-featured.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/raspberry-shake-featured.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>OmniBook Ultra は、HP が独自のゲームで MacBook Air と競争できることをついに証明しました</title><link>https://www.xda-developers.com/hp-omnibook-ultra-14-2026-review/</link><guid isPermaLink="true">https://www.xda-developers.com/hp-omnibook-ultra-14-2026-review/</guid><pubDate>Sun, 09 Aug 2026 00:00:10 +0000</pubDate><description><![CDATA[<p>OmniBook Ultra は、HP が独自のゲームで MacBook Air と競争できることをついに証明しました
+
+これは、HP Spectre の非常に洗練された後継製品の 1 つです。
+
+OmniBook Ultra は、HP が独自のゲームで MacBook Air と競争できることをついに証明しました
+
+XDA が HP のトップ ウルトラポータブル シリーズとの歴史を持っていることは周知の事実です。 HP Spectre のときも気に入りましたし、これまでに見てきた OmniBook のブランド変更のほとんども気に入っています。そして今年、HP は OmniBook を完全に再設計しました。 OmniBook Ultra は、より洗練され、スリムで、素晴らしく、私はこれでほとんどの時間を楽しんできました。
+
+HP はこの変更を行う必要がありました。今年のコンテストでは、Asus ExpertBook Ultra や Dell XPS 14 など、衝撃的な製品がいくつか登場しました。OmniBook Ultra には標準で OLED が搭載されており、Intel X7 と X9、Qualcomm X2 Elite と X2 Plus プロセッサのオプションがあり、ラップトップでは珍しいことですが、64 GB の RAM のオプションもあります。
+
+このレビューについて: HP は、このレビューで使用した OmniBook Ultra 14 を XDA に送りましたが、その内容については何の意見もありませんでした。
+
+HP OmniBook Ultra 14 (2026) 8 /10 CPU Intel Core Ultra X9 388H まで、Snapdragon X2 Elite X2E-90-100 GPU Intel Arc B390 まで、Qualcomm Adreno ディスプレイ タイプ OLED ディスプレイ (サイズ、解像度) 14 インチ 3K (2880x1800) タッチスクリーン、120Hz、500 nit; 14 インチ 2K …</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/omnibook-ultra-14-hero.jpg?w=1600&amp;h=900&amp;fit=crop" alt="OmniBook Ultra は、HP が独自のゲームで MacBook Air と競争できることをついに証明しました"></p>]]></description><source url="https://www.xda-developers.com/hp-omnibook-ultra-14-2026-review/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/omnibook-ultra-14-hero.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/omnibook-ultra-14-hero.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>Raspberry Pi と USB マイクを使用して鳥の訪問者を追跡する</title><link>https://hackaday.com/2026/08/08/track-bird-visitors-with-a-raspberry-pi-and-a-usb-mic/</link><guid isPermaLink="true">https://hackaday.com/2026/08/08/track-bird-visitors-with-a-raspberry-pi-and-a-usb-mic/</guid><pubDate>Sat, 08 Aug 2026 23:00:53 +0000</pubDate><description><![CDATA[<p>Raspberry Pi と USB マイクを使用して鳥の訪問者を追跡する
 
 「Avian Visitors」は、[Teddy Warner] による素敵なプロジェクトです。Raspberry Pi とマイクを使用して、どの鳥が家を訪れているかを追跡し、最近の鳥のカラフルなイラストを作成します。
@@ -18,6 +57,17 @@ Avian Visitors は、[Teddy Warner] による素敵なプロジェクトです�
 あなた自身のアイデアはありますか？ Avian Visitors には、最新の検出結果を Home Assistant または MQTT 経由で送信するオプションもあり、特定の鳥種に基づいた自動トリガーが可能です。これを試してみて、独自のスピンを加えることを決めた場合は、必ずチップを送ってお知らせください。
 
 Avian Visitor…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/BirdNET-system-1-banner.png" alt="Raspberry Pi と USB マイクを使用して鳥の訪問者を追跡する"></p>]]></description><source url="https://hackaday.com/2026/08/08/track-bird-visitors-with-a-raspberry-pi-and-a-usb-mic/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/BirdNET-system-1-banner.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/BirdNET-system-1-banner.png"/></item>
+<item><title>Steam ライブラリを安価な USB スティックに保存したら、ゲーム ストレージについての考え方が変わりました</title><link>https://www.xda-developers.com/i-put-my-steam-library-on-a-cheap-usb-stick-and-it-changed-how-i-think-about-game-storage/</link><guid isPermaLink="true">https://www.xda-developers.com/i-put-my-steam-library-on-a-cheap-usb-stick-and-it-changed-how-i-think-about-game-storage/</guid><pubDate>Sat, 08 Aug 2026 23:00:10 +0000</pubDate><description><![CDATA[<p>Steam ライブラリを安価な USB スティックに保存したら、ゲーム ストレージについての考え方が変わりました
+
+私の図書館はどこへでも私と一緒に移動します
+
+Steam ライブラリを安価な USB スティックに保存したら、ゲーム ストレージについての考え方が変わりました
+
+By Abhinav Raj 公開 2026 年 8 月 8 日、午後 7 時 EDT アビナブは、銀行業界でのキャリアから方向転換し、初恋を作家として追求しました。フルタイムで働きながらも、編集長として貢献を続け、その役割を 7 年以上務めました。生涯テクノロジー愛好家であり、2018 年以来、ゲームと生産性に優れた PC を 3 台開発してきました。テクノロジーへの情熱により、NVIDIA や AMD から ARM に至るまで、半導体業界を常に追い続けています。彼の修士論文では、人工知能が仕事の未来をどのように再構築するかを探求し、新興テクノロジーの広範な社会的影響に対する彼の好奇心を反映しています。 XDA アカウントにサインインする この見出しを読んだ人はおそらく、「そもそも、Steam ライブラリを USB メモリに置く必要があるのはなぜでしょうか?」と疑問に思っているでしょう。そして、私はそれが非常に公平な質問であると考えます。答えは少し長くて曲がりくねったものですが、必ず意味はあると約束します。
+
+私は一人暮らしですが、ほとんどの週末は両親の家にいて、2019 年に作成した RTX 2070 スーパー リグがまだ稼働しています。ただし、SSD は家族のドキュメントと写真のダンプを兼ねています (そうです、NAS を購入するか、PC を NAS に変える必要があります)。ご想像のとおり、ドライブには空きがありません。毎週土曜日に Portal 2 の 11 ギガバイトすべてを再ダウンロードするのに 1 時間も余裕がありません。価格がどうなっているかを考えると、2 台目の NVMe SSD を購入するつもりはありません。
+
+そこで、代わりに Steam ライブラリの一部を 30 ドルの …</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/usb-stick-steam-library.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Steam ライブラリを安価な USB スティックに保存したら、ゲーム ストレージについての考え方が変わりました"></p>]]></description><source url="https://www.xda-developers.com/i-put-my-steam-library-on-a-cheap-usb-stick-and-it-changed-how-i-think-about-game-storage/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/usb-stick-steam-library.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/usb-stick-steam-library.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>クロードコードの設定を 1 つ変更したところ、トークンの燃焼が 45% 減少しました</title><link>https://www.xda-developers.com/changed-one-setting-in-claude-code-token-burn-dropped/</link><guid isPermaLink="true">https://www.xda-developers.com/changed-one-setting-in-claude-code-token-burn-dropped/</guid><pubDate>Sat, 08 Aug 2026 22:17:49 +0000</pubDate><description><![CDATA[<p>クロードコードの設定を 1 つ変更したところ、トークンの燃焼が 45% 減少しました
 
 クロード・コードは任務を考えすぎていた
@@ -2448,8 +2498,8 @@ Googleは、ロックされた携帯電話でのクイック設定タイルの�
 この新しい制限は、懐中電灯や自動回転などのリスクの低いユーティリティをロック画面で利用可能なままにしつつ、追跡を無効にするために窃盗犯が使用するタイルをターゲットにしているようです。
 
 Android デバイスでは、クイック設定タイルを使用して、ロックされたデバイスの驚くほど多くの設定を切り替えることができます。 Android 17 QPR 1 Beta 5 で、懐中電灯タイルを除くすべてのクイック設定タイルをロックダウンするという Google の意図を示すコードを発見しました。これはプライバシーとセキュリティにとって非常に理にかなっています。ただし、このアプローチは強引すぎると感じる人もいるかもしれません。 Android Canary 2608 のコードは、Google がほぼすべてのクイック設定タイルではなく一部のロック…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/04/android-17-beta-3-wi-fi-mobile-data-toggles-quick-settings-scaled.jpg" alt="Googleは、ロックされた携帯電話でのクイック設定タイルの動作を再考しています（再び）"></p>]]></description><source url="https://www.androidauthority.com/android-quick-settings-lock-screen-change-apk-teardown-3695702/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/04/android-17-beta-3-wi-fi-mobile-data-toggles-quick-settings-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/04/android-17-beta-3-wi-fi-mobile-data-toggles-quick-settings-scaled.jpg"/></item>
-<item><title>(PR) SK hynix Invests 54 Trillion Won in Yongin Y2 and Cheongju M17 to Secure Mid-to-Long-Term Production Base for AI Memory Demand</title><link>https://www.techpowerup.com/351422/sk-hynix-invests-54-trillion-won-in-yongin-y2-and-cheongju-m17-to-secure-mid-to-long-term-production-base-for-ai-memory-demand</link><guid isPermaLink="true">https://www.techpowerup.com/351422/sk-hynix-invests-54-trillion-won-in-yongin-y2-and-cheongju-m17-to-secure-mid-to-long-term-production-base-for-ai-memory-demand</guid><pubDate>Fri, 07 Aug 2026 07:24:01 +0000</pubDate><description><![CDATA[<p>(PR) SK hynix Invests 54 Trillion Won in Yongin Y2 and Cheongju M17 to Secure Mid-to-Long-Term Production Base for AI Memory Demand</p>]]></description><source url="https://www.techpowerup.com/351422/sk-hynix-invests-54-trillion-won-in-yongin-y2-and-cheongju-m17-to-secure-mid-to-long-term-production-base-for-ai-memory-demand">TechPowerUp</source></item>
 <item><title>(PR) SK hynix Invests 54 Trillion Won in Yongin Y2 and Cheongju M17 to Secure Mid-to-Long-Term Production for AI Memory Demand</title><link>https://www.techpowerup.com/351422/sk-hynix-invests-54-trillion-won-in-yongin-y2-and-cheongju-m17-to-secure-mid-to-long-term-production-for-ai-memory-demand</link><guid isPermaLink="true">https://www.techpowerup.com/351422/sk-hynix-invests-54-trillion-won-in-yongin-y2-and-cheongju-m17-to-secure-mid-to-long-term-production-for-ai-memory-demand</guid><pubDate>Fri, 07 Aug 2026 07:24:01 +0000</pubDate><description><![CDATA[<p>(PR) SK hynix Invests 54 Trillion Won in Yongin Y2 and Cheongju M17 to Secure Mid-to-Long-Term Production for AI Memory Demand</p>]]></description><source url="https://www.techpowerup.com/351422/sk-hynix-invests-54-trillion-won-in-yongin-y2-and-cheongju-m17-to-secure-mid-to-long-term-production-for-ai-memory-demand">TechPowerUp</source></item>
+<item><title>(PR) SK hynix Invests 54 Trillion Won in Yongin Y2 and Cheongju M17 to Secure Mid-to-Long-Term Production Base for AI Memory Demand</title><link>https://www.techpowerup.com/351422/sk-hynix-invests-54-trillion-won-in-yongin-y2-and-cheongju-m17-to-secure-mid-to-long-term-production-base-for-ai-memory-demand</link><guid isPermaLink="true">https://www.techpowerup.com/351422/sk-hynix-invests-54-trillion-won-in-yongin-y2-and-cheongju-m17-to-secure-mid-to-long-term-production-base-for-ai-memory-demand</guid><pubDate>Fri, 07 Aug 2026 07:24:01 +0000</pubDate><description><![CDATA[<p>(PR) SK hynix Invests 54 Trillion Won in Yongin Y2 and Cheongju M17 to Secure Mid-to-Long-Term Production Base for AI Memory Demand</p>]]></description><source url="https://www.techpowerup.com/351422/sk-hynix-invests-54-trillion-won-in-yongin-y2-and-cheongju-m17-to-secure-mid-to-long-term-production-base-for-ai-memory-demand">TechPowerUp</source></item>
 <item><title>(PR) Gadhouse Unveils the Wesley Wired Headphones</title><link>https://www.techpowerup.com/351420/gadhouse-unveils-the-wesley-wired-headphones</link><guid isPermaLink="true">https://www.techpowerup.com/351420/gadhouse-unveils-the-wesley-wired-headphones</guid><pubDate>Fri, 07 Aug 2026 07:20:15 +0000</pubDate><description><![CDATA[<p>(PR) Gadhouse Unveils the Wesley Wired Headphones</p>]]></description><source url="https://www.techpowerup.com/351420/gadhouse-unveils-the-wesley-wired-headphones">TechPowerUp</source></item>
 <item><title>Token Monitor – AI コーディング アシスタントの使用状況を追跡する ESP32-S3 デスクトップ ディスプレイ (クラウドファンディング)</title><link>https://www.cnx-software.com/2026/08/07/token-monitor-an-esp32-s3-desktop-display-that-tracks-ai-coding-assistant-usage/</link><guid isPermaLink="true">https://www.cnx-software.com/2026/08/07/token-monitor-an-esp32-s3-desktop-display-that-tracks-ai-coding-assistant-usage/</guid><pubDate>Fri, 07 Aug 2026 07:15:11 +0000</pubDate><description><![CDATA[<p>Token Monitor – AI コーディング アシスタントの使用状況を追跡する ESP32-S3 デスクトップ ディスプレイ (クラウドファンディング)
 
@@ -6458,36 +6508,4 @@ RTX 2070 Super のような Turing カードは、高速 H.264/H.265 リアル�
 プラットフォームを再構築する前に一時停止します。サーバーのボトルネックを特定し、作業を行っている部分をアップグレードします。
 
 Jellyfin サーバーを構築したことのある人は誰でも、最終的には同じ岐路に達します。数人の友人がリモートでストリーミングを開始し、誰かが元のビデオ形式を処理できないデバイスでファイルを再生しようとします。それが「楽な」サーバーに汗をかき始めさせ、より高速な Ryzen プロセッサ、新しいマザーボード、さらにはメモリのアップグレードを接続することを本能的に考えるのです。これらのアップグレードは以前ほど簡単ではありませんが、それでも私が…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/nvidia-gtx-760-and-rtx-2070-super-with-jellyfin-server.jpg?w=1600&amp;h=900&amp;fit=crop" alt="トランスコーディングは誰もが間違える部分ですが、通常は思ったよりも安価な GPU で修正できます。"></p>]]></description><source url="https://www.xda-developers.com/everyone-gets-transcodingwrong-and-the-fix-is-a-cheap-gpu/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/nvidia-gtx-760-and-rtx-2070-super-with-jellyfin-server.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/nvidia-gtx-760-and-rtx-2070-super-with-jellyfin-server.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>Battlefield 6 Season 4 update fixes RTX 50 series crashing without requiring an NVIDIA driver update</title><link>https://www.tweaktown.com/rss/click/news/112995/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/112995/?c=news-mf</guid><pubDate>Tue, 04 Aug 2026 22:30:11 +0000</pubDate><description><![CDATA[<p>Battlefield 6 Season 4 update fixes RTX 50 series crashing without requiring an NVIDIA driver update</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/112995/?c=news-mf">TweakTown</source></item>
-<item><title>Assassin&#39;s Creed Black Flag Resynced&#39;s new update will let you hide Edward&#39;s blowpipe</title><link>https://www.tweaktown.com/rss/click/news/113000/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113000/?c=news-mf</guid><pubDate>Tue, 04 Aug 2026 22:10:11 +0000</pubDate><description><![CDATA[<p>Assassin&#39;s Creed Black Flag Resynced&#39;s new update will let you hide Edward&#39;s blowpipe</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113000/?c=news-mf">TweakTown</source></item>
-<item><title>AMDはデータセンターの収益を前年比で2倍にしたが、ゲーム収益は31％急落 — CEOのリサ・スー氏は、価格が消費者の需要を「圧迫」しているが、顧客市場については「楽観的」であると述べた</title><link>https://www.tomshardware.com/tech-industry/amd-doubles-data-center-revenue-year-over-year-but-gaming-revenue-plunged-by-31-percent-ceo-lisa-su-says-prices-have-weighed-on-consumer-demand-but-is-optimistic-about-client-market</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/amd-doubles-data-center-revenue-year-over-year-but-gaming-revenue-plunged-by-31-percent-ceo-lisa-su-says-prices-have-weighed-on-consumer-demand-but-is-optimistic-about-client-market</guid><pubDate>Tue, 04 Aug 2026 22:03:07 +0000</pubDate><description><![CDATA[<p>AMDはデータセンターの収益を前年比で2倍にしたが、ゲーム収益は31％急落 — CEOのリサ・スー氏は、価格が消費者の需要を「圧迫」しているが、顧客市場については「楽観的」であると述べた
-
-AMDは、データセンターが成長し続ける一方で、ゲームは減少し続けるだろうと述べています。
-
-AMDはデータセンターの収益を前年比で2倍にしたが、ゲーム収益は31％急落 — CEOのリサ・スー氏は、価格が消費者の需要を「圧迫」しているが、顧客市場については「楽観的」であると述べた
-
-AMDは、データセンターが成長し続ける一方で、ゲームは減少し続けるだろうと述べています。
-
-(画像クレジット: Getty Images) リンクをコピー
-
-2 会話に参加してください フォローしてください Google ニュースレターの優先ソースとして追加してください ニュースレターを購読してください AMD の 2026 年第 2 四半期決算では、ビジネス全体で記録的な収益が示されていますが、ゲームがそのパイ全体に占める貢献はますます少なくなっています。全体として、AMD の第 2 四半期の収益は 115 億ドルで、前年比 50% 増、前四半期比 13% 増でした。しかし、AMDのプレスリリースによると、AMDのゲーム部門では、「セミカスタム収入の減少」により、売上高は7億7,900万ドルとなり、前年比31%減となったという。
-
-Ryzen がトップへ: AMD がゲーム CPU 市場でどのように革新したか
-
-ARM はどのように PC に導入されているのか
-
-AMD CES 2026 ゲーム トレンドのプレス Q&amp;A ラウンドテーブルの記録
-
-これは新しい話ではありません。AMD は、ゲーム収益の減少の原動力としてコンソールのライフサイクルの後期段階を継続的に指摘してきました。しかし、最高経営責任者（CEO）のリサ・スー氏は、部品コストの上昇により収益が減少しているとも述べた。 「業界全体のコンポーネントコストの上昇がグラフィックスカード価格の上昇に寄与し、全体の需要を圧迫したため、ゲーム用グラフィッ…</p><p><img src="https://cdn.mos.cms.futurecdn.net/pAi4uHF9wB3xhB6vcJpS9i-2560-80.jpg" alt="AMDはデータセンターの収益を前年比で2倍にしたが、ゲーム収益は31％急落 — CEOのリサ・スー氏は、価格が消費者の需要を「圧迫」しているが、顧客市場については「楽観的」であると述べた"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/amd-doubles-data-center-revenue-year-over-year-but-gaming-revenue-plunged-by-31-percent-ceo-lisa-su-says-prices-have-weighed-on-consumer-demand-but-is-optimistic-about-client-market">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/pAi4uHF9wB3xhB6vcJpS9i-2560-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/pAi4uHF9wB3xhB6vcJpS9i-2560-80.jpg"/></item>
-<item><title>同じドキュメントに対して 3 つの自己ホスト型クロードの代替案を試しましたが、1 つは他のものを破棄しました</title><link>https://www.xda-developers.com/tried-self-hosted-claude-alternatives-on-same-documents-one-crushed-the-others/</link><guid isPermaLink="true">https://www.xda-developers.com/tried-self-hosted-claude-alternatives-on-same-documents-one-crushed-the-others/</guid><pubDate>Tue, 04 Aug 2026 22:00:10 +0000</pubDate><description><![CDATA[<p>同じドキュメントに対して 3 つの自己ホスト型クロードの代替案を試しましたが、1 つは他のものを破棄しました
-
-作業を行う場合、モデルよりもツール自体が重要です。
-
-同じドキュメントに対して 3 つの自己ホスト型クロードの代替案を試しましたが、1 つは他のものを破棄しました
-
-By Nolen Jonker 公開 2026 年 8 月 4 日、午後 6 時 EDT Nolen は 2019 年に執筆活動を開始し、3 年間 MakeUseOf のクリエイティブ セクションの編集に専念しました。彼らの専門知識はテクノロジーと創造性の交差点にあり、写真、ビデオ編集、グラフィック デザインなどの分野をカバーしています。仕事以外では、ノーレンが良い本を読んだり、自分の物語を書いたり、ビデオ ゲームをしたりしているのをよく見かけます。 XDA アカウントにサインインする 最近の私のワークフローのほとんどにおいて、ドキュメント チャットは交渉の余地のない部分です。はい、NotebookLM は依然としてこの部門で王位を保持していますが、それは私が授業に真剣に取り組んでいる場合に限られます。他のすべてのドキュメントでは、デフォルトで毎日使用する AI、Claude を使用します。ただし、結局のところ、Claude は依然としてクラウド ツールであるため、単に渡すことに抵抗のあるドキュメントがいくつかあることを意味します。
-
-ここで自己ホスト型ツールが活躍します。ローカルのドキュメント作業では、ほとんどの場合、LM Studio ですべてのオープン ウェイトを実行するため、デフォルトで LM Studio を使用します。しかし、他にも何百万もの自己ホスト型オプションが登場しており、それらを素通りして「LM Studio を使えばいい」と言うのはフェアではありません。そこで、同じ密度の高いドキュメントに対して、Cherry Studio、Jan AI、AnythingLLM という 3 つの自己ホスト型 AI ツールを互いに比較させました。彼らがやった方法は次のとおりです…
-
-AI の最新…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/cherry-studio-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="同じドキュメントに対して 3 つの自己ホスト型クロードの代替案を試しましたが、1 つは他のものを破棄しました"></p>]]></description><source url="https://www.xda-developers.com/tried-self-hosted-claude-alternatives-on-same-documents-one-crushed-the-others/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/cherry-studio-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/cherry-studio-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
 </channel></rss>
