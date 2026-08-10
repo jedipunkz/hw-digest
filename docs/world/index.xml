@@ -1,6 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Mon, 10 Aug 2026 19:15:59 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Mon, 10 Aug 2026 20:03:38 +0000</lastBuildDate>
+<item><title>Meta の最新 AI モデルはあなたの PC 上で稼働したいと考えています</title><link>https://www.androidauthority.com/meta-muse-glimmer-3696698/</link><guid isPermaLink="true">https://www.androidauthority.com/meta-muse-glimmer-3696698/</guid><pubDate>Mon, 10 Aug 2026 20:03:02 +0000</pubDate><description><![CDATA[<p>Meta の最新 AI モデルはあなたの PC 上で稼働したいと考えています
+
+Meta の Muse Glimmer は、PC 上でローカルに実行するように作られた 30B AI モデルです。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+Meta の最新 AI モデルはあなたの PC 上で稼働したいと考えています
+
+0 • Edgar Cervantes / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Meta の Muse Glimmer は、Mac または PC 上でローカルに実行するように設計された 300 億パラメータの AI モデルです。
+
+これは、コーディング、ツールの使用、複数ステップのタスクの処理、およびエラーからの回復の機能を備えたエージェント AI に焦点を当てています。
+
+このモデルは現在 Hugging Face で入手可能で、人気のローカル AI ツールのサポートも近日中に開始されます。
+
+最新の有能な AI モデルのほとんどは、迅速かつ信頼性の高い応答を提供するためにクラウド コンピューティングに依存しています。プロンプトと関連データは、デバイスから出てサーバーに向かい、使用中のモデルによって処理されてから、応答として戻ってくる必要があります。しかし、クラウドベースの AI に関連する懸念を最小限に抑えるオンデバイス アプローチを採用しているモデルも見られましたが、同時に独自の制限も導入されています。 Meta の新しいモデルは後者のアプローチを採用しており、オンデバイス AI の主要な制約の一部に正面から取り組む方法でそれを行っています。
+
+クラウドベースの AI の最大の制限の 1 つは、アクティブなインターネット接続がなければモデルを実行できないことです。 Meta の新しい Muse Glimmer のような、完全にデバイス上で動作するモデルでは、この制限に直面…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2023/09/Meta-logo-on-smartphone-stock-photo-4.jpg" alt="Meta の最新 AI モデルはあなたの PC 上で稼働したいと考えています"></p>]]></description><source url="https://www.androidauthority.com/meta-muse-glimmer-3696698/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2023/09/Meta-logo-on-smartphone-stock-photo-4.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2023/09/Meta-logo-on-smartphone-stock-photo-4.jpg"/></item>
+<item><title>Notion、Evernote、Anki を 1 つの Docker コンテナに置き換えたので、メモに再び料金を支払う必要はありません</title><link>https://www.xda-developers.com/replaced-notion-evernote-anki-with-one-docker-container-siyuan/</link><guid isPermaLink="true">https://www.xda-developers.com/replaced-notion-evernote-anki-with-one-docker-container-siyuan/</guid><pubDate>Mon, 10 Aug 2026 20:00:10 +0000</pubDate><description><![CDATA[<p>Notion、Evernote、Anki を 1 つの Docker コンテナに置き換えたので、メモに再び料金を支払う必要はありません
+
+有料ツールの計算は不可能です
+
+Notion、Evernote、Anki を 1 つの Docker コンテナに置き換えたので、メモに再び料金を支払う必要はありません
+
+By Nolen Jonker 公開 2026 年 8 月 10 日、午後 4 時 EDT Nolen は 2019 年に執筆活動を開始し、3 年間 MakeUseOf のクリエイティブ セクションの編集に専念しました。彼らの専門知識はテクノロジーと創造性の交差点にあり、写真、ビデオ編集、グラフィック デザインなどの分野をカバーしています。仕事以外では、ノーレンが良い本を読んだり、自分の物語を書いたり、ビデオ ゲームをしたりしているのをよく見かけます。 XDA アカウントにサインインする Note アプリは、奇妙な積み重ね方をするカテゴリに属します。 Google エコシステムのドキュメント用に 1 つから始めて、チームと共有できる別のものが必要になり、ジャーナリング用にもう 1 つ必要になり、リストは増え続けます。やがて、膨大なアプリの山ができあがり、サブスクリプションを支払っていると、毎月高額な料金が請求されることになります。
+
+そこで、私はそれらすべてを、同じタスクをすべて 1 つ屋根の下で処理する 1 つの統合ツールに置き換えることにしました。ただし、これにはサブスクリプションや私のデータも必要ありません。そして私は、SiYuan というこの仕事に最適なツールを見つけました。
+
+私のメモが今実際にどこにあるか
+
+1 つの Docker コンテナが、私が推奨していたアプリの仕事を実行しています
+
+SiYuan はオープンソースのセルフホスト型ナレッジ管理アプリで、数年前から存在していますが、必要なほど話題になっていません。これは Docker で実行され、イメージをプルしてからローカルホストのブラウザーに表示されるまでに約 5 分かかりました。コンテナーのステッ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/siyuan-self-hosted-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="Notion、Evernote、Anki を 1 つの Docker コンテナに置き換えたので、メモに再び料金を支払う必要はありません"></p>]]></description><source url="https://www.xda-developers.com/replaced-notion-evernote-anki-with-one-docker-container-siyuan/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/siyuan-self-hosted-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/siyuan-self-hosted-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>サムスンはダークモードに対応するダークテーマのアイコンを提供するかもしれない</title><link>https://www.androidauthority.com/samsung-dark-theme-icons-one-ui-9-5-3696686/</link><guid isPermaLink="true">https://www.androidauthority.com/samsung-dark-theme-icons-one-ui-9-5-3696686/</guid><pubDate>Mon, 10 Aug 2026 19:58:54 +0000</pubDate><description><![CDATA[<p>サムスンはダークモードに対応するダークテーマのアイコンを提供するかもしれない
+
+最近のバージョンのNearby Deviceアプリではダークテーマのアイコンへの言及が発見されており、Samsungが近いうちにこの機能を追加する可能性があることが示唆されている。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+サムスンはダークモードに対応するダークテーマのアイコンを提供するかもしれない
+
+0 • Andy Walker / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Samsung は One UI 9.5 でダーク テーマ アイコンを導入する可能性があります。
+
+ダークテーマアイコンオプションへの参照が、Nearby Device アプリの最新バージョンで発見されました。
+
+サムスンは次のメジャーアップデートに全力で取り組んでいます。先週、One UI 9.5 のビルドが Samsung のテスト サーバーで発見されました。数日経つと、One UI 9.5 の話題が再び浮上しています。今回は、ロールアウトに含まれる可能性のある機能に関するものです。
+
+SammyGuru によると、Nearby Device アプリのバージョン 1.3.07.3791 には、ダークテーマのアイコン オプションへの参照が含まれています。このオプションを選択すると、アイコンの明るい背景が自動的に暗い背景に置き換えられます。結果として、これは、ダーク モードが有効になっているときに、ホーム画面の外観をより一貫したものにするのに役立ちます。
+
+最後にサムスンが One UI 8.5 でダークテーマのアイコンをテストしているのが発見されました。ただし、このオプションは現在 One UI 9 では利用できません。この機能は One UI 9.5 のロールアウトでデビューする可能性があると考えられています。
+
+Samsung が On…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/03/android-dark-mode-settings-screen-samsung-1.jpg" alt="サムスンはダークモードに対応するダークテーマのアイコンを提供するかもしれない"></p>]]></description><source url="https://www.androidauthority.com/samsung-dark-theme-icons-one-ui-9-5-3696686/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/03/android-dark-mode-settings-screen-samsung-1.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/03/android-dark-mode-settings-screen-samsung-1.jpg"/></item>
+<item><title>Jellyfin ライブラリを実際に歩き回れる 1990 年代のビデオ レンタル ストアに変えることができます</title><link>https://www.xda-developers.com/you-can-turn-your-jellyfin-library-into-a-virtual-walkable-1990s-video-rental-store/</link><guid isPermaLink="true">https://www.xda-developers.com/you-can-turn-your-jellyfin-library-into-a-virtual-walkable-1990s-video-rental-store/</guid><pubDate>Mon, 10 Aug 2026 19:46:23 +0000</pubDate><description><![CDATA[<p>Jellyfin ライブラリを実際に歩き回れる 1990 年代のビデオ レンタル ストアに変えることができます
+
+大ヒット作の栄光の日々を追体験しましょう。
+
+Jellyfin ライブラリを実際に歩き回れる 1990 年代のビデオ レンタル ストアに変えることができます
+
+クレジット: GitHub By Patrick O&#39;Rourke 公開日 2026 年 8 月 10 日、午後 3:46 EDT Patrick O&#39;Rourke は、XDA のニュース編集者およびエンターテイメント セグメントのリーダーです。以前は、Pocket-lint の編集長、カナダのテクノロジー出版物 MobileSyrup の編集長を務め、キャリアの初期には Financial Post および Postmedia でテクノロジー編集者として働いていました。彼はトロントに拠点を置いています。過去 15 年間にわたり、彼は何千もの記事を書いてきました。パトリック氏はまた、何十人ものテクノロジー業界の幹部にインタビューし、GDC、E3、Gamescom、WWDC、Apple の基調講演、Samsung Unpacked イベントなどを取材しました。パトリックはトロント・メトロポリタン大学でジャーナリズムの学士号を取得しています。 XDA アカウントにサインインする
+
+Halcyon Video は、Jellyfin ライブラリを歩きやすい 1990 年代スタイルの 3D ビデオ レンタル ストアに変えます。
+
+通路を見て回ったり、ケースをひっくり返したり、店員が選んだ商品を袋に詰める様子を眺めたりすることができます。それは店舗であって、メニュースキンではありません。
+
+時代、照明、レイアウト、さらにはムービー形式までカスタマイズできます。
+
+ほら、私は他の人たちと同じくらい便利なストリーミングのオファーが好きですが、私の心の中にはビデオ ストアのレンタル時代を懐かしく思っているところがまだあります。ありがたいことに、私は一人ではありません。 Reddit ユーザーの halcyon-vide…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/halcyon-video.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Jellyfin ライブラリを実際に歩き回れる 1990 年代のビデオ レンタル ストアに変えることができます"></p>]]></description><source url="https://www.xda-developers.com/you-can-turn-your-jellyfin-library-into-a-virtual-walkable-1990s-video-rental-store/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/halcyon-video.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/halcyon-video.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>Lenovo ThinkCentre Neo 50q Gen 7 は 1.2 L の「Tiny PC」として発売</title><link>https://www.techpowerup.com/351488/lenovo-thinkcentre-neo-50q-gen-7-launches-as-1-2-l-tiny-pc</link><guid isPermaLink="true">https://www.techpowerup.com/351488/lenovo-thinkcentre-neo-50q-gen-7-launches-as-1-2-l-tiny-pc</guid><pubDate>Mon, 10 Aug 2026 19:45:12 +0000</pubDate><description><![CDATA[<p>Lenovo ThinkCentre Neo 50q Gen 7 は 1.2 L の「Tiny PC」として発売
+
+Lenovo は、同社が「Tiny PC」と呼ぶデスクトップ、ThinkCentre Neo50q Gen 7 を正式発表しました。 ThinkCentre 50q は、Intel Core Ultra シリーズ 3 CPU をベースとした多用途 SFF デスクトップ PC として販売されており、個人用 AI からビジネスおよび家庭用まで、マルチタスク機能を備えたあらゆる用途に使用できます。
+
+Lenovo ThinkCentre Neo 50q Gen 7 は 1.2 L の「Tiny PC」として発売
+
+2025 年 12 月 31 日 AI 業界の需要のおかげで、2026 年に 5000 ドルの RTX 5090 GPU が登場するとリークが予測 (124)
+
+2026 年 6 月 12 日、4000 ドルの AMD Ryzen AI Halo Mini PC 開発キットの予約注文が開始 (47)
+
+2026 年 6 月 1 日 NVIDIA が、エージェントティック ユーザー インターフェイスを備えた Windows PC 用のスーパーコンピューター グレードのプロセッサーである RTX Spark を発表 (63)
+
+2026 年 7 月 6 日 新しい Lenovo Yoga AI ミニ PC パック Intel Core Ultra X7 358H CPU および Arc B390 (4)
+
+2026 年 5 月 2 日 AMD が Linux 向けに完全なオープンソース HDMI 2.1 サポートを準備 (47)
+
+2025 年 12 月 8 日 Valve が Steam Machine でのオープンソース HDMI 2.1 サポートのブロックを解除しようとしている (37)
+
+2026 年 6 月 9 日 Maxsun が Computex 2026 で iCraft Z890 ITX Wi-Fi マザーボードを披露 (4)
+
+2026…</p><p><img src="https://www.techpowerup.com/img/vMBzWynzr9KDWt48.jpg" alt="Lenovo ThinkCentre Neo 50q Gen 7 は 1.2 L の「Tiny PC」として発売"></p>]]></description><source url="https://www.techpowerup.com/351488/lenovo-thinkcentre-neo-50q-gen-7-launches-as-1-2-l-tiny-pc">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/vMBzWynzr9KDWt48.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/vMBzWynzr9KDWt48.jpg"/></item>
+<item><title>3D プリンターにカスタム ファームウェアをフラッシュして、出荷時に組み込まれていない便利な機能のロックを解除しました</title><link>https://www.xda-developers.com/i-flashed-custom-firmware-on-my-3d-printer/</link><guid isPermaLink="true">https://www.xda-developers.com/i-flashed-custom-firmware-on-my-3d-printer/</guid><pubDate>Mon, 10 Aug 2026 19:30:10 +0000</pubDate><description><![CDATA[<p>3D プリンターにカスタム ファームウェアをフラッシュして、出荷時に組み込まれていない便利な機能のロックを解除しました
+
+3D プリンターをアップグレードする素敵な方法
+
+3D プリンターにカスタム ファームウェアをフラッシュして、出荷時に組み込まれていない便利な機能のロックを解除しました
+
+By Ayush Pande 公開 2026 年 8 月 10 日、午後 3 時 30 分 EDT Ayush Pande は、PC ハードウェアおよびゲームのライターです。彼が新しい記事に取り組んでいないときは、頭を PC の中に閉じ込めたり、サーバーのオペレーティング システムをいじったりしているのを見かけることがあります。コンピューティングのほかに、彼の興味には、長い RPG に何時間も費やすこと、協力ゲームで友達に怒鳴りつけること、ギターを練習することなどがあります。 XDA アカウントにサインインする 昨年 Centauri Carbon が発売されて以来、私は 3D プリントの悪ふざけのためにそれを広範囲に使用してきました。ほとんどの消費者グレードのフィラメント タイプをサポートしているため、D&amp;D キャンペーンの直前の PLA プロップを印刷する場合と同様に、自宅のラボやマイクロコントローラー プロジェクト向けに機能的な PETG および ABS プリントを作成する場合にも効果的です。個人的には、ファームウェアはカスタム スライサーやホーム アシスタントとうまく連携しているため、あまり問題はありませんでしたが、この 3D プリンターのソフトウェア面をカスタマイズしたいと常々思っていました。
+
+さて、あるランダムな doomscroll セッションが私を OpenCentauri に導きました。このプロジェクトには、CC1 のマイナーな癖を取り除くパッチ適用されたファームウェアが含まれているだけでなく、古き良き Klipper を特徴とする本格的なカスタム ファームウェアもサポートされています。両方を 1 週間テストした結果、コミュニティが作成したファームウェア パッケ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/centauri-carbon-open-centauri-nozzle.jpg?w=1600&amp;h=900&amp;fit=crop" alt="3D プリンターにカスタム ファームウェアをフラッシュして、出荷時に組み込まれていない便利な機能のロックを解除しました"></p>]]></description><source url="https://www.xda-developers.com/i-flashed-custom-firmware-on-my-3d-printer/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/centauri-carbon-open-centauri-nozzle.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/centauri-carbon-open-centauri-nozzle.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>Gemini の Neural Expressive オーバーレイは、ますます多くの時計に表示され始めています</title><link>https://www.androidauthority.com/gemini-neural-expressive-wear-os-3696669/</link><guid isPermaLink="true">https://www.androidauthority.com/gemini-neural-expressive-wear-os-3696669/</guid><pubDate>Mon, 10 Aug 2026 19:28:36 +0000</pubDate><description><![CDATA[<p>Gemini の Neural Expressive オーバーレイは、ますます多くの時計に表示され始めています
+
+Gemini は Wear OS で新しい外観を取得しており、その再設計が一部の Samsung Galaxy Watch に展開されることが確認できました。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+スマートウォッチ Gemini の Neural Expressive オーバーレイは、ますます多くのウォッチに表示され始めています
+
+0 • C. Scott Brown / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Gemini のビジュアル Neural Expressive アップデートが、Pixel Watch ライン以外の少なくとも一部の Wear OS デバイスで利用できるようになりました。
+
+私たちの Tushar Mehta は、Wear OS 6 を実行している Galaxy Watch Ultra で Neural Expressive を確認しています。
+
+Wear OS 向けの Gemini Intelligence 機能は今後も提供予定です。
+
+Google が Wear OS 7 アップデートを発表したとき、同社が Neural Expressive と呼ぶ新しいデザイン言語を導入するウェアラブル Gemini アプリのアップデートを予告しました。特に Wear OS 上の Gemini のコンテキストでは、Neural Expressive には、AI アシスタントと話しているときにウォッチフェイスの上に表示できる新しいグラデーション効果が伴います。このビジュアルアップデートは先週から Pixel Watch モデルに展開され始めたが、現在は Google 以外のウェアラブルにも適用されているようだ。
+
+Android Authority の Tusha…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2025/07/Samsung-Galaxy-Watch-Ultra-2025-Titanium-Blue-closeup-on-case-and-watch-face.jpg" alt="Gemini の Neural Expressive オーバーレイは、ますます多くの時計に表示され始めています"></p>]]></description><source url="https://www.androidauthority.com/gemini-neural-expressive-wear-os-3696669/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2025/07/Samsung-Galaxy-Watch-Ultra-2025-Titanium-Blue-closeup-on-case-and-watch-face.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2025/07/Samsung-Galaxy-Watch-Ultra-2025-Titanium-Blue-closeup-on-case-and-watch-face.jpg"/></item>
 <item><title>Modders figure out how to enable Windows taskbar in GeForce NOW session</title><link>https://www.tweaktown.com/rss/click/news/113061/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113061/?c=news-mf</guid><pubDate>Mon, 10 Aug 2026 19:15:12 +0000</pubDate><description><![CDATA[<p>Modders figure out how to enable Windows taskbar in GeForce NOW session</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113061/?c=news-mf">TweakTown</source></item>
 <item><title>私はハンドヘルド機を買うのをやめて、古いラップトップを究極のレトロゲーム機に変えました</title><link>https://www.xda-developers.com/forget-buying-another-handheld-i-turned-old-laptop-into-perfect-retro-gaming-machine/</link><guid isPermaLink="true">https://www.xda-developers.com/forget-buying-another-handheld-i-turned-old-laptop-into-perfect-retro-gaming-machine/</guid><pubDate>Mon, 10 Aug 2026 19:00:10 +0000</pubDate><description><![CDATA[<p>私はハンドヘルド機を買うのをやめて、古いラップトップを究極のレトロゲーム機に変えました
 
@@ -24,6 +137,7 @@ SQLite を PostgreSQL に置き換えたときに、ホーム アシスタント
 Home Assistant の組み込みデータベースを PostgreSQL に置き換えたところ、スマート ホームがようやく快適になったように感じました
 
 By Jasmine Mannan 公開 2026 年 8 月 10 日、午後 2 時 30 分 EDT Jasmine は、XDA のソフトウェアおよび PC ハードウェアの著者であり、AI チャットボットからゲーム ハードウェアに至るまで、長年にわたる技術レポートの経験があり、ほぼすべてをカバーしています。最新の AMD NPU に関する速報ニュースであれ、ソーシャル メディア プラットフォームでのビデオ チュートリアルの作成であれ、Jasmine は、Razer の CEO、AMD の製品マーケティング ディレクター、Lenovo の副社長へのインタビューなど、さまざまな方法で AI とテクノロジーの世界に貢献してきました。ゲームと PC テクノロジーに情熱を持っている彼女は、数え切れないほどのコンピューター、キーボード、その他の周辺機器を構築し、それらを隅々まで知り尽くしています。 XDA アカウントにサインインする ホーム アシスタントを使用するときに到達する可能性がある簡単なマイルストーンは、大量のスマート スイッチ、エネルギー モニター、モーション センサーを追加することです。実際には、50 台以上のデバイスにアクセスし始めると、エンティティの履歴またはログブックをクリックすると、回転するローディング ホイールが表示され、レンダリングに 5 ～ 10 秒かかります。実際のボトルネックがおそらくルート ディレクトリ (デフォルトの単一ファイル SQLite データベース) にある場合、CPU 制限や Wi-Fi 遅延、フロントエンド ダッシ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/kindle-home-assistant-dashboard.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Home Assistant の組み込みデータベースを PostgreSQL に置き換えたところ、スマート ホームがようやく快適になったように感じました"></p>]]></description><source url="https://www.xda-developers.com/replaced-home-assistants-built-in-database-postgresql-smart-home-snappy/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/kindle-home-assistant-dashboard.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/kindle-home-assistant-dashboard.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>This “Infinite Range” RC Car Explores the World</title><link>https://www.hackster.io/news/this-infinite-range-rc-car-explores-the-world-7ecff29bbcee</link><guid isPermaLink="true">https://www.hackster.io/news/this-infinite-range-rc-car-explores-the-world-7ecff29bbcee</guid><pubDate>Mon, 10 Aug 2026 18:28:53 +0000</pubDate><description><![CDATA[<p>This “Infinite Range” RC Car Explores the World</p>]]></description><source url="https://www.hackster.io/news/this-infinite-range-rc-car-explores-the-world-7ecff29bbcee">Hackster.io</source></item>
 <item><title>Google、最新のPixel 11 Proティーザーで物事を11まで引き上げる</title><link>https://www.androidauthority.com/pixel-11-pro-teaser-3696656/</link><guid isPermaLink="true">https://www.androidauthority.com/pixel-11-pro-teaser-3696656/</guid><pubDate>Mon, 10 Aug 2026 18:12:20 +0000</pubDate><description><![CDATA[<p>Google、最新のPixel 11 Proティーザーで物事を11まで引き上げる
 
 今週水曜日の Made by Google 発売イベントに先立って、同社は Pixel 11 ハードウェアの最新ビデオ ティーザーを公開します。
@@ -99,6 +213,7 @@ NVIDIA がウォール街と 5,000 億ドルの資金提携を計画している
 2025 年 9 月 3 日 NVIDIA ディスクリート GPU 市場シェアの優位性が 94% に拡大、ノート レポート (237)
 
 2025 年 9 月 29 日 NVIDIA GeForce RTX 50 シリーズ SUPER ラインナップの 3 月から 4 月のリリース、CES で公開される…</p><p><img src="https://www.techpowerup.com/img/UK19vvmuF5PQu3xm.jpg" alt="NVIDIA がウォール街と 5,000 億ドルの資金提携を計画していると報じられている"></p>]]></description><source url="https://www.techpowerup.com/351490/nvidia-reportedly-plans-usd-500-billion-funding-partnership-with-wall-street">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/UK19vvmuF5PQu3xm.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/UK19vvmuF5PQu3xm.jpg"/></item>
+<item><title>This Distraction-Free E Ink Journal Is Built for Focused Writing</title><link>https://www.hackster.io/news/this-distraction-free-e-ink-journal-is-built-for-focused-writing-948f6dc92c5c</link><guid isPermaLink="true">https://www.hackster.io/news/this-distraction-free-e-ink-journal-is-built-for-focused-writing-948f6dc92c5c</guid><pubDate>Mon, 10 Aug 2026 17:57:04 +0000</pubDate><description><![CDATA[<p>This Distraction-Free E Ink Journal Is Built for Focused Writing</p>]]></description><source url="https://www.hackster.io/news/this-distraction-free-e-ink-journal-is-built-for-focused-writing-948f6dc92c5c">Hackster.io</source></item>
 <item><title>この GeForce Now エクスプロイトは、Nvidia のクラウド ゲーム プラットフォームを、AI モデルを実行できる完全なデスクトップ コンピューターに変えます。</title><link>https://www.xda-developers.com/geforce-now-exploit-turns-nvidia-cloud-gaming-platform-into-full-desktop-computer-run-ai-models/</link><guid isPermaLink="true">https://www.xda-developers.com/geforce-now-exploit-turns-nvidia-cloud-gaming-platform-into-full-desktop-computer-run-ai-models/</guid><pubDate>Mon, 10 Aug 2026 17:47:06 +0000</pubDate><description><![CDATA[<p>この GeForce Now エクスプロイトは、Nvidia のクラウド ゲーム プラットフォームを、AI モデルを実行できる完全なデスクトップ コンピューターに変えます。
 
 改造者は GeForce を搭載した完全な Windows 11 デスクトップにアクセスできるようになりました。当然、クラウドベースのゲーム プラットフォームを通じて AI モデルを実行しました。
@@ -1011,21 +1126,6 @@ By Kazim Alvi 公開 2026 年 8 月 10 日、午前 8:00 EDT テクノロジー�
 LANポートがあればさらに良い
 
 私が最も驚いたのは、トラベル ルーターの機能の高さです。長い間、私はこれらのデバイスは比較的パワーが弱く、狭いスペースで使用するように設計されていると考えていました。なぜなら、これ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/travel-router-home-uses.png?w=1600&amp;h=900&amp;fit=crop" alt="最近初めてトラベルルーターを自宅で使ってみましたが、トラベルルーターが支持される理由が分かりました"></p>]]></description><source url="https://www.xda-developers.com/used-travel-router-at-home-now-understand-why-people-love-them/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/travel-router-home-uses.png?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/travel-router-home-uses.png?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>GeForce NOW エクスプロイトにより、単純なファイル スワップを通じて完全な Windows デスクトップにアクセスできるようになります — Modder は 48GB の VRAM を備えた Ultimate ティアで制限なしでローカル AI モデルを実行します</title><link>https://www.tomshardware.com/service-providers/streaming/geforce-now-exploit-lets-you-access-the-full-windows-desktop-through-a-simple-file-swap-modder-runs-local-ai-models-on-ultimate-tier-with-48gb-of-vram-and-no-restrictions</link><guid isPermaLink="true">https://www.tomshardware.com/service-providers/streaming/geforce-now-exploit-lets-you-access-the-full-windows-desktop-through-a-simple-file-swap-modder-runs-local-ai-models-on-ultimate-tier-with-48gb-of-vram-and-no-restrictions</guid><pubDate>Mon, 10 Aug 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>GeForce NOW エクスプロイトにより、単純なファイル スワップを通じて完全な Windows デスクトップにアクセスできるようになります — Modder は 48GB の VRAM を備えた Ultimate ティアで制限なしでローカル AI モデルを実行します
-
-GeForce NOW サブスクリプションでゲームをプレイするだけではありません。
-
-GeForce NOW エクスプロイトにより、単純なファイル スワップを通じて完全な Windows デスクトップにアクセスできるようになります — Modder は 48GB の VRAM を備えた Ultimate ティアで制限なしでローカル AI モデルを実行します
-
-GeForce NOW サブスクリプションでゲームをプレイするだけではありません。
-
-(画像クレジット: YouTube の Zortos) リンクをコピー
-
-0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する Nvidia の GeForce NOW クラウド ゲーム サービスは、ハードウェアを気にせずに外出先からゲームにアクセスできる人気の方法です。 Fortnite などのタイトルには無料枠があり、購入する必要さえありませんが、有料サブスクリプションの方がはるかに優れた仕様とレート制限を享受できます。そのため、改造者 Zortos は、「Ultimate」層を使用して、GeForce NOW 内の Windows デスクトップへのフル アクセスを取得することができ、(皮肉なことに) ローカル AI モデルを実行できる通常のコンピューターとして使用できるようになりました。
-
-Ultimate Tier の GeForce NOWGemma 4 31B (41 TPS) 上の LM Studio pic.twitter.com/kspmKmunFl 2026 年 8 月 7 日
-
-ちなみに、GeForce NOW はゲーム専用です。 Nvidia は、たとえば Shadow PC…</p><p><img src="https://cdn.mos.cms.futurecdn.net/o8QHDsy25pZHA59RNRBtra-2560-80.png" alt="GeForce NOW エクスプロイトにより、単純なファイル スワップを通じて完全な Windows デスクトップにアクセスできるようになります — Modder は 48GB の VRAM を備えた Ultimate ティアで制限なしでローカル AI モデルを実行します"></p>]]></description><source url="https://www.tomshardware.com/service-providers/streaming/geforce-now-exploit-lets-you-access-the-full-windows-desktop-through-a-simple-file-swap-modder-runs-local-ai-models-on-ultimate-tier-with-48gb-of-vram-and-no-restrictions">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/o8QHDsy25pZHA59RNRBtra-2560-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/o8QHDsy25pZHA59RNRBtra-2560-80.png"/></item>
 <item><title>ハイパースケーラーは AI ハードウェアとメモリの安全確保に 2 兆ドル近くを投入 — Google が 8,110 億ドルの支出急増をリードする一方、Apple は 570 億ドルで後れをとっている</title><link>https://www.tomshardware.com/tech-industry/semiconductors/hyperscalers-commit-nearly-usd2-trillion-to-secure-ai-hardware-and-memory-google-leads-usd811-billion-spending-surge-while-apple-trails-at-usd57-billion</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/semiconductors/hyperscalers-commit-nearly-usd2-trillion-to-secure-ai-hardware-and-memory-google-leads-usd811-billion-spending-surge-while-apple-trails-at-usd57-billion</guid><pubDate>Mon, 10 Aug 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>ハイパースケーラーは AI ハードウェアとメモリの安全確保に 2 兆ドル近くを投入 — Google が 8,110 億ドルの支出急増をリードする一方、Apple は 570 億ドルで後れをとっている
 
 GoogleとMicrosoftが先頭に立っている。
@@ -1041,6 +1141,21 @@ GoogleとMicrosoftが先頭に立っている。
 グラフに示されている 4 つの主要ハイパースケーラー (Amazon、Alphabet、Meta、Microsoft) からの購入約束を合計すると、2026 年第 2 四半期までに 2 兆ドル近くに達し、Alphabet と Microsoft が総額の圧倒的多数を占めています。
 
 急速な拡大は、いくつかの重要な発見を示唆しています。まず、AI インフラストラクチャの競争は安定するどころか、加速しています。第二に、AI インフラストラクチャへの投資は、一握りのハイパースケール クラウド サービス プロバイダー (C…</p><p><img src="https://cdn.mos.cms.futurecdn.net/gEU6zYwUfEZmF4NMheNezJ-2560-80.jpg" alt="ハイパースケーラーは AI ハードウェアとメモリの安全確保に 2 兆ドル近くを投入 — Google が 8,110 億ドルの支出急増をリードする一方、Apple は 570 億ドルで後れをとっている"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/semiconductors/hyperscalers-commit-nearly-usd2-trillion-to-secure-ai-hardware-and-memory-google-leads-usd811-billion-spending-surge-while-apple-trails-at-usd57-billion">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/gEU6zYwUfEZmF4NMheNezJ-2560-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/gEU6zYwUfEZmF4NMheNezJ-2560-80.jpg"/></item>
+<item><title>GeForce NOW エクスプロイトにより、単純なファイル スワップを通じて完全な Windows デスクトップにアクセスできるようになります — Modder は 48GB の VRAM を備えた Ultimate ティアで制限なしでローカル AI モデルを実行します</title><link>https://www.tomshardware.com/service-providers/streaming/geforce-now-exploit-lets-you-access-the-full-windows-desktop-through-a-simple-file-swap-modder-runs-local-ai-models-on-ultimate-tier-with-48gb-of-vram-and-no-restrictions</link><guid isPermaLink="true">https://www.tomshardware.com/service-providers/streaming/geforce-now-exploit-lets-you-access-the-full-windows-desktop-through-a-simple-file-swap-modder-runs-local-ai-models-on-ultimate-tier-with-48gb-of-vram-and-no-restrictions</guid><pubDate>Mon, 10 Aug 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>GeForce NOW エクスプロイトにより、単純なファイル スワップを通じて完全な Windows デスクトップにアクセスできるようになります — Modder は 48GB の VRAM を備えた Ultimate ティアで制限なしでローカル AI モデルを実行します
+
+GeForce NOW サブスクリプションでゲームをプレイするだけではありません。
+
+GeForce NOW エクスプロイトにより、単純なファイル スワップを通じて完全な Windows デスクトップにアクセスできるようになります — Modder は 48GB の VRAM を備えた Ultimate ティアで制限なしでローカル AI モデルを実行します
+
+GeForce NOW サブスクリプションでゲームをプレイするだけではありません。
+
+(画像クレジット: YouTube の Zortos) リンクをコピー
+
+0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する Nvidia の GeForce NOW クラウド ゲーム サービスは、ハードウェアを気にせずに外出先からゲームにアクセスできる人気の方法です。 Fortnite などのタイトルには無料枠があり、購入する必要さえありませんが、有料サブスクリプションの方がはるかに優れた仕様とレート制限を享受できます。そのため、改造者 Zortos は、「Ultimate」層を使用して、GeForce NOW 内の Windows デスクトップへのフル アクセスを取得することができ、(皮肉なことに) ローカル AI モデルを実行できる通常のコンピューターとして使用できるようになりました。
+
+Ultimate Tier の GeForce NOWGemma 4 31B (41 TPS) 上の LM Studio pic.twitter.com/kspmKmunFl 2026 年 8 月 7 日
+
+ちなみに、GeForce NOW はゲーム専用です。 Nvidia は、たとえば Shadow PC…</p><p><img src="https://cdn.mos.cms.futurecdn.net/o8QHDsy25pZHA59RNRBtra-2560-80.png" alt="GeForce NOW エクスプロイトにより、単純なファイル スワップを通じて完全な Windows デスクトップにアクセスできるようになります — Modder は 48GB の VRAM を備えた Ultimate ティアで制限なしでローカル AI モデルを実行します"></p>]]></description><source url="https://www.tomshardware.com/service-providers/streaming/geforce-now-exploit-lets-you-access-the-full-windows-desktop-through-a-simple-file-swap-modder-runs-local-ai-models-on-ultimate-tier-with-48gb-of-vram-and-no-restrictions">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/o8QHDsy25pZHA59RNRBtra-2560-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/o8QHDsy25pZHA59RNRBtra-2560-80.png"/></item>
 <item><title>Steam ハードウェア販売代理店がサイバー攻撃に見舞われ、「偽メッセージが予想される」と Valve が警告 — ヨーロッパのベンダーが個人情報とハードウェア購入の詳細情報を盗まれる</title><link>https://www.tomshardware.com/tech-industry/cyber-security/steam-hardware-distributor-hit-by-cyberattack-expect-fake-messages-valve-warns-europe-vendor-has-personal-information-and-hardware-purchase-details-stolen</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/cyber-security/steam-hardware-distributor-hit-by-cyberattack-expect-fake-messages-valve-warns-europe-vendor-has-personal-information-and-hardware-purchase-details-stolen</guid><pubDate>Mon, 10 Aug 2026 11:49:06 +0000</pubDate><description><![CDATA[<p>Steam ハードウェア販売代理店がサイバー攻撃に見舞われ、「偽メッセージが予想される」と Valve が警告 — ヨーロッパのベンダーが個人情報とハードウェア購入の詳細情報を盗まれる
 
 過去 100 日ほどの購入者は、標的型フィッシングに特に注意する必要があります。
@@ -2448,15 +2563,6 @@ By Adam Conway 公開 2026 年 8 月 9 日、午前 7 時 30分 EDT 私はアダ
 Crucial/Micronは消費者向け営業を終了した後、生涯保証を拒否し、市場価値の17%を提供し、r/pcmasterraceから動作するハードウェアを維持します
 
 Tom&#39;s Hardware との電子メールのやり取りを共有した Redditor Key_Tailor6948 は、最近、48GB (2x24GB) DDR5 メモリ キットのメモリ…</p><p><img src="https://cdn.mos.cms.futurecdn.net/Kmba422TadpNgFayHYQVLJ-1920-80.jpg" alt="伝えられるところによると、Micron は Crucial RAM の返品に 1 ドルを提示し、市場価値の 37% に過ぎないにもかかわらず、元のメーカー希望小売価格の払い戻しのみを提案している — チップメーカーはその後、より良いソリューションで方針を転換"></p>]]></description><source url="https://www.tomshardware.com/pc-components/ram/micron-reportedly-offers-pennies-on-the-dollar-for-crucial-ram-return-only-offers-to-reimburse-original-msrp-despite-it-being-only-37-percent-of-market-value-chipmaker-later-reverses-course-with-a-better-solution">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/Kmba422TadpNgFayHYQVLJ-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/Kmba422TadpNgFayHYQVLJ-1920-80.jpg"/></item>
-<item><title>圧縮空気を使用して 3D プリントチューブを連続的に押し出す</title><link>https://hackaday.com/2026/08/09/continously-extruding-3d-printed-tubes-with-compressed-air/</link><guid isPermaLink="true">https://hackaday.com/2026/08/09/continously-extruding-3d-printed-tubes-with-compressed-air/</guid><pubDate>Sun, 09 Aug 2026 11:00:50 +0000</pubDate><description><![CDATA[<p>圧縮空気を使用して 3D プリントチューブを連続的に押し出す
-
-[Roetz 4.0] の [Jan] は、マルチマテリアル 3D プリンティングに対する独自のアプローチを持っています。彼は 2 つの異なる材料を使用し、一方をもう一方の周りのシェルとして押し出す押出機を設計しました。これにより、次のことが開きます…
-
-[Roetz 4.0] の [Jan] は、マルチマテリアル 3D プリンティングに対する独自のアプローチを持っています。彼は 2 つの異なる材料を使用し、一方をもう一方の周りのシェルとして押し出す押出機を設計しました。これにより、絶縁シェルで囲まれた導電性フィラメントなど、いくつかの興味深い可能性が開かれます。しかし、[Jan] はこのプロセスをすぐに使用することができなかったため、圧縮空気コアを使用してプラスチック チューブを押し出す関連技術に移りました。
-
-彼がこれに使用した押出機は、二重材料押出機のバリエーションでした。 2 本のフィラメントを取り込んで溶かし、高精度の圧力調整器によって制御される圧縮空気ラインの出口の周りにシェルとして押し出します。 PLA を使用したテストでは、気密なフィラメントのチューブを押し出すことができるように見えましたが、気泡が発生し、直径が一定でないチューブを形成する傾向がありました。ステンレス鋼押出機の熱伝導率が低いことにも問題があることが判明しました。圧縮空気の冷却効果と相まって、フィラメントが押出機内で固化する場合があります。
-
-[Jan] は、圧力ベースの制御のみを使用して一貫した結果を得るのはほぼ不可能であることに気づきました。空気の周囲の溶融プラスチックの層が薄くなるにつれて、さらなるバルーン化に対する抵抗が小さくなり、バブルが破裂するまで継続的に膨張します。押し出される空気の量を制御すると、より一貫した結果が得られ、2 番目のビデオ で、彼はまさにそれを行うための蠕動ポンプを構築しました。また、TPU フィラメントの使用に切り替え、層の密着性が大幅に向上しました。圧縮空気で膨張させると、完成した TPU …</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/air_co-extrusion.png" alt="圧縮空気を使用して 3D プリントチューブを連続的に押し出す"></p>]]></description><source url="https://hackaday.com/2026/08/09/continously-extruding-3d-printed-tubes-with-compressed-air/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/air_co-extrusion.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/air_co-extrusion.png"/></item>
 <item><title>NotebookLM の定期ユーザーとして、Gemini Notebook に求める 5 つの点を以下に示します。</title><link>https://www.androidauthority.com/gemini-notebook-features-wish-list-3694460/</link><guid isPermaLink="true">https://www.androidauthority.com/gemini-notebook-features-wish-list-3694460/</guid><pubDate>Sun, 09 Aug 2026 11:00:50 +0000</pubDate><description><![CDATA[<p>NotebookLM の定期ユーザーとして、Gemini Notebook に求める 5 つの点を以下に示します。
 
 私は Gemini Notebook (以前は NotebookLM として知られていたアプリ) が好きですが、これら 5 つの機能があればさらに良くなると思います。
@@ -2474,6 +2580,15 @@ NotebookLM の定期ユーザーとして、Gemini Notebook に求める 5 つ�
 Gemini Notebook のどの機能の可能性が最優先に選択されますか?
 
 Shimul Sood / Android Authority 多くの場合、1 つのノートブックで十分ですが、特定のプロジェクトでは…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/Gemini-Notebook-app-opened-on-Galaxy-Z-Fold-8-Ultra.jpg" alt="NotebookLM の定期ユーザーとして、Gemini Notebook に求める 5 つの点を以下に示します。"></p>]]></description><source url="https://www.androidauthority.com/gemini-notebook-features-wish-list-3694460/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/Gemini-Notebook-app-opened-on-Galaxy-Z-Fold-8-Ultra.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/Gemini-Notebook-app-opened-on-Galaxy-Z-Fold-8-Ultra.jpg"/></item>
+<item><title>圧縮空気を使用して 3D プリントチューブを連続的に押し出す</title><link>https://hackaday.com/2026/08/09/continously-extruding-3d-printed-tubes-with-compressed-air/</link><guid isPermaLink="true">https://hackaday.com/2026/08/09/continously-extruding-3d-printed-tubes-with-compressed-air/</guid><pubDate>Sun, 09 Aug 2026 11:00:50 +0000</pubDate><description><![CDATA[<p>圧縮空気を使用して 3D プリントチューブを連続的に押し出す
+
+[Roetz 4.0] の [Jan] は、マルチマテリアル 3D プリンティングに対する独自のアプローチを持っています。彼は 2 つの異なる材料を使用し、一方をもう一方の周りのシェルとして押し出す押出機を設計しました。これにより、次のことが開きます…
+
+[Roetz 4.0] の [Jan] は、マルチマテリアル 3D プリンティングに対する独自のアプローチを持っています。彼は 2 つの異なる材料を使用し、一方をもう一方の周りのシェルとして押し出す押出機を設計しました。これにより、絶縁シェルで囲まれた導電性フィラメントなど、いくつかの興味深い可能性が開かれます。しかし、[Jan] はこのプロセスをすぐに使用することができなかったため、圧縮空気コアを使用してプラスチック チューブを押し出す関連技術に移りました。
+
+彼がこれに使用した押出機は、二重材料押出機のバリエーションでした。 2 本のフィラメントを取り込んで溶かし、高精度の圧力調整器によって制御される圧縮空気ラインの出口の周りにシェルとして押し出します。 PLA を使用したテストでは、気密なフィラメントのチューブを押し出すことができるように見えましたが、気泡が発生し、直径が一定でないチューブを形成する傾向がありました。ステンレス鋼押出機の熱伝導率が低いことにも問題があることが判明しました。圧縮空気の冷却効果と相まって、フィラメントが押出機内で固化する場合があります。
+
+[Jan] は、圧力ベースの制御のみを使用して一貫した結果を得るのはほぼ不可能であることに気づきました。空気の周囲の溶融プラスチックの層が薄くなるにつれて、さらなるバルーン化に対する抵抗が小さくなり、バブルが破裂するまで継続的に膨張します。押し出される空気の量を制御すると、より一貫した結果が得られ、2 番目のビデオ で、彼はまさにそれを行うための蠕動ポンプを構築しました。また、TPU フィラメントの使用に切り替え、層の密着性が大幅に向上しました。圧縮空気で膨張させると、完成した TPU …</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/air_co-extrusion.png" alt="圧縮空気を使用して 3D プリントチューブを連続的に押し出す"></p>]]></description><source url="https://hackaday.com/2026/08/09/continously-extruding-3d-printed-tubes-with-compressed-air/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/air_co-extrusion.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/air_co-extrusion.png"/></item>
 <item><title>Epomaker が GX1 オープンバック ワイヤレス ヘッドセットでオーディオに参入</title><link>https://www.kitguru.net/peripherals/headphones/joao-silva/epomaker-gets-into-audio-with-the-gx1-open-back-wireless-headset/</link><guid isPermaLink="true">https://www.kitguru.net/peripherals/headphones/joao-silva/epomaker-gets-into-audio-with-the-gx1-open-back-wireless-headset/</guid><pubDate>Sun, 09 Aug 2026 11:00:33 +0000</pubDate><description><![CDATA[<p>Epomaker が GX1 オープンバック ワイヤレス ヘッドセットでオーディオに参入
 
 Epomaker は、同社初のオーディオ製品である GX1 ワイヤレス ゲーミング ヘッドセットを正式に発売しました。現在入手可能なこのオープンバック ヘッドセットは、トライモード接続、50mm ダイナミック ドライバー、7.1 サラウンド サウンドのサポート、および環境ノイズ キャンセリングを備えたデュアル マイク設計を備えています。 GX1 はオープンバック イヤーカップ デザインを採用していますが、これはゲーム ヘッドセットの分野ではあまり一般的ではありません。ただし、これは
@@ -5241,8 +5356,8 @@ Googleは、ロックされた携帯電話でのクイック設定タイルの�
 この新しい制限は、懐中電灯や自動回転などのリスクの低いユーティリティをロック画面で利用可能なままにしつつ、追跡を無効にするために窃盗犯が使用するタイルをターゲットにしているようです。
 
 Android デバイスでは、クイック設定タイルを使用して、ロックされたデバイスの驚くほど多くの設定を切り替えることができます。 Android 17 QPR 1 Beta 5 で、懐中電灯タイルを除くすべてのクイック設定タイルをロックダウンするという Google の意図を示すコードを発見しました。これはプライバシーとセキュリティにとって非常に理にかなっています。ただし、このアプローチは強引すぎると感じる人もいるかもしれません。 Android Canary 2608 のコードは、Google がほぼすべてのクイック設定タイルではなく一部のロック…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/04/android-17-beta-3-wi-fi-mobile-data-toggles-quick-settings-scaled.jpg" alt="Googleは、ロックされた携帯電話でのクイック設定タイルの動作を再考しています（再び）"></p>]]></description><source url="https://www.androidauthority.com/android-quick-settings-lock-screen-change-apk-teardown-3695702/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/04/android-17-beta-3-wi-fi-mobile-data-toggles-quick-settings-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/04/android-17-beta-3-wi-fi-mobile-data-toggles-quick-settings-scaled.jpg"/></item>
-<item><title>(PR) SK hynix Invests 54 Trillion Won in Yongin Y2 and Cheongju M17 to Secure Mid-to-Long-Term Production Base for AI Memory Demand</title><link>https://www.techpowerup.com/351422/sk-hynix-invests-54-trillion-won-in-yongin-y2-and-cheongju-m17-to-secure-mid-to-long-term-production-base-for-ai-memory-demand</link><guid isPermaLink="true">https://www.techpowerup.com/351422/sk-hynix-invests-54-trillion-won-in-yongin-y2-and-cheongju-m17-to-secure-mid-to-long-term-production-base-for-ai-memory-demand</guid><pubDate>Fri, 07 Aug 2026 07:24:01 +0000</pubDate><description><![CDATA[<p>(PR) SK hynix Invests 54 Trillion Won in Yongin Y2 and Cheongju M17 to Secure Mid-to-Long-Term Production Base for AI Memory Demand</p>]]></description><source url="https://www.techpowerup.com/351422/sk-hynix-invests-54-trillion-won-in-yongin-y2-and-cheongju-m17-to-secure-mid-to-long-term-production-base-for-ai-memory-demand">TechPowerUp</source></item>
 <item><title>(PR) SK hynix Invests 54 Trillion Won in Yongin Y2 and Cheongju M17 to Secure Mid-to-Long-Term Production for AI Memory Demand</title><link>https://www.techpowerup.com/351422/sk-hynix-invests-54-trillion-won-in-yongin-y2-and-cheongju-m17-to-secure-mid-to-long-term-production-for-ai-memory-demand</link><guid isPermaLink="true">https://www.techpowerup.com/351422/sk-hynix-invests-54-trillion-won-in-yongin-y2-and-cheongju-m17-to-secure-mid-to-long-term-production-for-ai-memory-demand</guid><pubDate>Fri, 07 Aug 2026 07:24:01 +0000</pubDate><description><![CDATA[<p>(PR) SK hynix Invests 54 Trillion Won in Yongin Y2 and Cheongju M17 to Secure Mid-to-Long-Term Production for AI Memory Demand</p>]]></description><source url="https://www.techpowerup.com/351422/sk-hynix-invests-54-trillion-won-in-yongin-y2-and-cheongju-m17-to-secure-mid-to-long-term-production-for-ai-memory-demand">TechPowerUp</source></item>
+<item><title>(PR) SK hynix Invests 54 Trillion Won in Yongin Y2 and Cheongju M17 to Secure Mid-to-Long-Term Production Base for AI Memory Demand</title><link>https://www.techpowerup.com/351422/sk-hynix-invests-54-trillion-won-in-yongin-y2-and-cheongju-m17-to-secure-mid-to-long-term-production-base-for-ai-memory-demand</link><guid isPermaLink="true">https://www.techpowerup.com/351422/sk-hynix-invests-54-trillion-won-in-yongin-y2-and-cheongju-m17-to-secure-mid-to-long-term-production-base-for-ai-memory-demand</guid><pubDate>Fri, 07 Aug 2026 07:24:01 +0000</pubDate><description><![CDATA[<p>(PR) SK hynix Invests 54 Trillion Won in Yongin Y2 and Cheongju M17 to Secure Mid-to-Long-Term Production Base for AI Memory Demand</p>]]></description><source url="https://www.techpowerup.com/351422/sk-hynix-invests-54-trillion-won-in-yongin-y2-and-cheongju-m17-to-secure-mid-to-long-term-production-base-for-ai-memory-demand">TechPowerUp</source></item>
 <item><title>(PR) Gadhouse Unveils the Wesley Wired Headphones</title><link>https://www.techpowerup.com/351420/gadhouse-unveils-the-wesley-wired-headphones</link><guid isPermaLink="true">https://www.techpowerup.com/351420/gadhouse-unveils-the-wesley-wired-headphones</guid><pubDate>Fri, 07 Aug 2026 07:20:15 +0000</pubDate><description><![CDATA[<p>(PR) Gadhouse Unveils the Wesley Wired Headphones</p>]]></description><source url="https://www.techpowerup.com/351420/gadhouse-unveils-the-wesley-wired-headphones">TechPowerUp</source></item>
 <item><title>Token Monitor – AI コーディング アシスタントの使用状況を追跡する ESP32-S3 デスクトップ ディスプレイ (クラウドファンディング)</title><link>https://www.cnx-software.com/2026/08/07/token-monitor-an-esp32-s3-desktop-display-that-tracks-ai-coding-assistant-usage/</link><guid isPermaLink="true">https://www.cnx-software.com/2026/08/07/token-monitor-an-esp32-s3-desktop-display-that-tracks-ai-coding-assistant-usage/</guid><pubDate>Fri, 07 Aug 2026 07:15:11 +0000</pubDate><description><![CDATA[<p>Token Monitor – AI コーディング アシスタントの使用状況を追跡する ESP32-S3 デスクトップ ディスプレイ (クラウドファンディング)
 
@@ -6225,111 +6340,4 @@ EUV封鎖でチップ製造の形が変わる中、中国はDUVに賭ける
 
 これは、単なる DRAM チップを超えた、現在のサプライ チェーンの制限の背後を垣間見る興味深いものです。デスクトップとモバイルの両方で完全に統合された SoC を備えた Apple は、DRAM の供給だけでなく、DRAM チップとプロセッサ ウェーハを統合するためのパッケージング能力においても、サプライ チェーンの制限に対して特有の脆弱性を抱えて…</p><p><img src="https://cdn.mos.cms.futurecdn.net/dU4TZjFPZdyjH4VjA22Mkk-2560-80.jpg" alt="DRAM不足のため、10億ドル相当のiPhone 18 Proチップが「パッケージングを待って棚に並んでいる」―メモリ不足によりAppleの発売計画に支障が出ていると伝えられている"></p>]]></description><source url="https://www.tomshardware.com/pc-components/dram/usd1-billion-of-iphone-18-pro-chips-on-the-shelves-awaiting-packaging-due-to-dram-shortages-memory-shortages-reportedly-put-a-wrinkle-in-apples-launch-plans">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/dU4TZjFPZdyjH4VjA22Mkk-2560-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/dU4TZjFPZdyjH4VjA22Mkk-2560-80.jpg"/></item>
 <item><title>Could GTA 6 be pushed back to 2027? Ex-Rockstar animator who worked on GTA 5 &#39;would not be shocked at all&#39; at a further delay</title><link>https://www.tweaktown.com/rss/click/news/113022/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113022/?c=news-mf</guid><pubDate>Thu, 06 Aug 2026 14:45:06 +0000</pubDate><description><![CDATA[<p>Could GTA 6 be pushed back to 2027? Ex-Rockstar animator who worked on GTA 5 &#39;would not be shocked at all&#39; at a further delay</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113022/?c=news-mf">TweakTown</source></item>
-<item><title>Espressif Sets ESP RainMaker Free, Releases Permissively-Licensed ESP RainMaker Neo</title><link>https://www.hackster.io/news/espressif-sets-esp-rainmaker-free-releases-permissively-licensed-esp-rainmaker-neo-d8f796e790e4</link><guid isPermaLink="true">https://www.hackster.io/news/espressif-sets-esp-rainmaker-free-releases-permissively-licensed-esp-rainmaker-neo-d8f796e790e4</guid><pubDate>Thu, 06 Aug 2026 14:34:24 +0000</pubDate><description><![CDATA[<p>Espressif Sets ESP RainMaker Free, Releases Permissively-Licensed ESP RainMaker Neo</p>]]></description><source url="https://www.hackster.io/news/espressif-sets-esp-rainmaker-free-releases-permissively-licensed-esp-rainmaker-neo-d8f796e790e4">Hackster.io</source></item>
-<item><title>Google マップのこの Gemini 機能はとても便利ですが、これについて話さない人が増えていることにショックを受けています</title><link>https://www.xda-developers.com/gemini-feature-in-google-maps-is-so-useful-shocked-more-people-arent-talking-about-it/</link><guid isPermaLink="true">https://www.xda-developers.com/gemini-feature-in-google-maps-is-so-useful-shocked-more-people-arent-talking-about-it/</guid><pubDate>Thu, 06 Aug 2026 14:30:10 +0000</pubDate><description><![CDATA[<p>Google マップのこの Gemini 機能はとても便利ですが、これについて話さない人が増えていることにショックを受けています
-
-Gemini の最高の機能は、
-
-Google マップのこの Gemini 機能はとても便利ですが、これについて話さない人が増えていることにショックを受けています
-
-By Mahnoor Faisal 公開 2026 年 8 月 6 日、午前 10:30 EDT Mahnoor Faisal は、XDA 、 SlashGear 、 MakeUseOf 、 Laptop Mag 、 Android Police で署名記事を掲載し、AI と生産性向上ツールをカバーするテクノロジー ジャーナリストです。彼女は 16 歳の頃からプロとして執筆活動を行っており、それ以来何百もの記事を執筆してきました。これには、NotebookLM などの AI ツールから AI 分野全体の最新ニュースまでの詳細なカバレッジが含まれます。彼女のテクノロジーに対する情熱は、8 歳の誕生日に最初の iPod Touch (第 4 世代) を受け取ったときに始まり、それ以来テクノロジーの世界に深く関わってきました。現在、コンピューター サイエンスの学位取得を目指しているマフノール氏は、AI が私たちの働き方や学習方法をどのように再構築しているのかを取材する際に、ジャーナリストの目と技術的基礎の両方をもたらしています。 XDA アカウントにサインイン 私はこれまでに Google の AI への取り組みを何度も賞賛してきましたが、同社の主力アシスタントがその理由であることはほとんどありませんでした。私の熱意は、ほとんど常に NotebookLM (現在の Gemini Notebook) にまで遡り、Gemini 自体には決して遡りませんでした。
-
-これがまさに、Gemini の機能が私を魅了するとは予想していなかった理由であり、特に Google マップ内に組み込まれた機能とは予想していませんでした。
-
-どこに行くかを決めるだけではまだ戦いは半分にすぎない
-
-場所を選ぶの…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/know-before-you-go-feature-displayed-on-an-ipad.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="Google マップのこの Gemini 機能はとても便利ですが、これについて話さない人が増えていることにショックを受けています"></p>]]></description><source url="https://www.xda-developers.com/gemini-feature-in-google-maps-is-so-useful-shocked-more-people-arent-talking-about-it/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/know-before-you-go-feature-displayed-on-an-ipad.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/know-before-you-go-feature-displayed-on-an-ipad.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>NXP&#39;s FRDM i.MX 95 Pro Brings Plenty of Compute, Memory to Bear on Edge Workloads</title><link>https://www.hackster.io/news/nxp-s-frdm-i-mx-95-pro-brings-plenty-of-compute-memory-to-bear-on-edge-workloads-50325f3504f5</link><guid isPermaLink="true">https://www.hackster.io/news/nxp-s-frdm-i-mx-95-pro-brings-plenty-of-compute-memory-to-bear-on-edge-workloads-50325f3504f5</guid><pubDate>Thu, 06 Aug 2026 14:09:31 +0000</pubDate><description><![CDATA[<p>NXP&#39;s FRDM i.MX 95 Pro Brings Plenty of Compute, Memory to Bear on Edge Workloads</p>]]></description><source url="https://www.hackster.io/news/nxp-s-frdm-i-mx-95-pro-brings-plenty-of-compute-memory-to-bear-on-edge-workloads-50325f3504f5">Hackster.io</source></item>
-<item><title>フィッツロイのグラス: ビクトリア朝の驚異の天気予報、それとも栄光の温度計?</title><link>https://hackaday.com/2026/08/06/fitzroys-glass-victorian-weather-marvel-or-glorified-thermometer/</link><guid isPermaLink="true">https://hackaday.com/2026/08/06/fitzroys-glass-victorian-weather-marvel-or-glorified-thermometer/</guid><pubDate>Thu, 06 Aug 2026 14:00:41 +0000</pubDate><description><![CDATA[<p>フィッツロイのグラス: ビクトリア朝の驚異の天気予報、それとも栄光の温度計?
-
-みんな天気のことを話します。これは船乗りにとっても同様で、悪天候は非常に悪い日を意味する可能性があります。したがって、世界中の海軍がこのことに強い関心を持っていることは驚くべきことではありません…
-
-みんな天気のことを話します。これは船乗りにとっても同様で、悪天候は非常に悪い日を意味する可能性があります。したがって、世界中の海軍が天気予報に強い関心を持っていることは驚くべきことではありません。しかし、現代の機器、レーダー、衛星画像が登場する前は、どうやって天気を予測したのでしょうか?ロバート・フィッツロイ中将は、「ストームグラス」、つまり彼が発明したわけではないが、1860 年代に文書化して大いに宣伝した化学薬品が入ったガラス室を大いに信頼していました。
-
-うまくいきましたか？どうやらそうではありませんが、このデバイスはそれ自体で興味深いものです。フィッツロイは気象学の先駆者であり、民間伝承を実際の観測と科学的厳密さの試みに置き換えました。彼は温度計や気圧計などの従来のものを観測ステーションに装備した一方で、天候ガラスの支持者でもありました。
-
-ガラス自体は密封されたガラス容器で、多くの場合は管であり、その中にはアルコールと水の混合物が入っていました。その混合物には樟脳、硝石、アンモニア塩が含まれていました。
-
-樟脳は溶媒に沈殿または溶解し、驚くべき結晶パターンを形成します。フィッツロイ氏によると、天気が晴れていれば液体は透明になり、外が曇っていれば液体は曇るという。粒子のサイズの違いは、雨、雪、その他の気象現象を示します。フィッツロイ氏は、風には「電気的な張力」があり、それがこの装置の天気予測能力の原因であると考えました。
-
-科学的研究では、ガラスの状態と天候の間にはほとんど相関関係がないことが示されました。しかし、それでも素晴らしい会話のネタです。
-
-レシピには塩が含まれていますが、ストームグラスの中の見事な結晶は主に樟脳です。樟脳はアルコールには容易に溶解しますが、水には溶解しにくいの…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/Barometre_de_FitzRoy_01_featured.png" alt="フィッツロイのグラス: ビクトリア朝の驚異の天気予報、それとも栄光の温度計?"></p>]]></description><source url="https://hackaday.com/2026/08/06/fitzroys-glass-victorian-weather-marvel-or-glorified-thermometer/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/Barometre_de_FitzRoy_01_featured.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/Barometre_de_FitzRoy_01_featured.png"/></item>
-<item><title>私は今でも NAS 用に中古のエンタープライズ HDD を購入していますが、新しいドライブは以前よりも意味がなくなっています。</title><link>https://www.xda-developers.com/im-still-buying-used-enterprise-hdds-for-my-nas-and-new-drives-make-less-sense-to-me-now-than-they-already-did/</link><guid isPermaLink="true">https://www.xda-developers.com/im-still-buying-used-enterprise-hdds-for-my-nas-and-new-drives-make-less-sense-to-me-now-than-they-already-did/</guid><pubDate>Thu, 06 Aug 2026 14:00:10 +0000</pubDate><description><![CDATA[<p>私は今でも NAS 用に中古のエンタープライズ HDD を購入していますが、新しいドライブは以前よりも意味がなくなっています。
-
-値上げの最中でも、
-
-私は今でも NAS 用に中古のエンタープライズ HDD を購入していますが、新しいドライブは以前よりも意味がなくなっています。
-
-By Ty Sherback 公開日 2026 年 8 月 6 日、午前 10:00 EDT 彼の PC とそのコンポーネントに対する愛情は、ファミリー コンピューターのパフォーマンスをすべて絞り出そうとすることから生まれました。 10 歳のときに自分のビルドをいじっていたことが、友人や家族のために PC を作ることに変わり、最終的にキャリア パスとして形になる情熱を育みました。 Ty は、身近な人々への技術サポートの最初の電話であることに加えて、クラウド コンピューティングとネットワーキングに重点を置いているコンピューター サイエンスの学生でもあります。彼はセミプロの Counter-Strike にも 8 年間出場しており、周辺機器に関するあらゆることに精通しています。 XDA アカウントにサインインする 中古ハードウェアの購入に関してほとんどの人が最初に抱くであろう躊躇は、特にエンタープライズ分野では当然のことです。これらのコンポーネントは、より困難な環境で長期間実行されることが容易に想定されるため、中古エンタープライズ市場を信頼することは、新品のコンシューマ ドライブにプレミアムを支払うことよりも大きな賭けとなります。実のところ、その合理化は以前はほとんど意味がありませんでしたが、ストレージのコストが膨れ上がった現在ではさらに意味が薄れています。
-
-現在、プライマリ NAS に電力を供給している Seagate Exos 7E8 8TB SAS ドライブが 2 台あり、どちらも稼働中の Dell エンタープライズ サーバーから取得したものです。ストレージのコストが上昇し始める前は、これらのドライブが工場から出荷される際に満たさなければならない価値と確固たる信頼性の要件を求めて中古エンタ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/06380a92-1ca6-443f-903c-d7433ac6cdff_l0_001_1781507854-393495_o_img_4641.png?w=1600&amp;h=900&amp;fit=crop" alt="私は今でも NAS 用に中古のエンタープライズ HDD を購入していますが、新しいドライブは以前よりも意味がなくなっています。"></p>]]></description><source url="https://www.xda-developers.com/im-still-buying-used-enterprise-hdds-for-my-nas-and-new-drives-make-less-sense-to-me-now-than-they-already-did/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/06380a92-1ca6-443f-903c-d7433ac6cdff_l0_001_1781507854-393495_o_img_4641.png?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/06380a92-1ca6-443f-903c-d7433ac6cdff_l0_001_1781507854-393495_o_img_4641.png?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>GeForce Now は今月 26 の新しいゲームを追加します</title><link>https://www.kitguru.net/gaming/matthew-wilson/geforce-now-adds-26-new-games-this-month/</link><guid isPermaLink="true">https://www.kitguru.net/gaming/matthew-wilson/geforce-now-adds-26-new-games-this-month/</guid><pubDate>Thu, 06 Aug 2026 13:59:57 +0000</pubDate><description><![CDATA[<p>GeForce Now は今月 26 の新しいゲームを追加します
-
-Nvidia は、8 月中に GeForce Now に登場する 26 ゲームすべてを明らかにしました。今週は 8 つのゲームがライブラリに追加され、その後数週間でさらに 18 のゲームが追加されます。その多くは、Mortal Shell 2 や Aliens: Fireteam Elite 2 などの最新リリースです。
-
-GeForce Now は今月 26 の新しいゲームを追加します
-
-Matthew Wilson 1 時間前 注目のテクノロジー ニュース , ソフトウェア &amp; ゲーム
-
-Nvidia は、8 月中に GeForce Now に登場する 26 ゲームすべてを明らかにしました。今週は 8 つのゲームがライブラリに追加され、その後数週間でさらに 18 のゲームがライブラリに追加されます。その多くは、Mortal Shell 2 や Aliens: Fireteam Elite 2 などの最新リリースです。今日 GeForce Now に追加される 8 タイトルは次のとおりです: Big Walk (Steam での新リリースは 8 月 4 日)
-
-Beacon Pines (8 月 6 日 Epic Games ストアで無料)
-
-Sovereign Tower (Steam で 8 月 6 日に新リリース)
-
-Expeditions: Samurai (Steam で 8 月 7 日新リリース)
-
-エリオットの冒険: ミレニアム テイルズ (Xbox、Microsoft Store で入手可能)
-
-ギャレーハウスの事件 (Steam)
-
-World of Warships: Legends (Steam)
-
-そして、これまでに 8 月の残りの期間で確認されたことはすべて次のとおりです: Pax Autocratica (Steam で 8 月 10 日に新リリース)
-
-Car Wash Simulator (Steam で 8 月 10 日に新リリース)
-
-Clawed (Steam で…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2021/06/Aliens-Fireteam-675x330.jpg" alt="GeForce Now は今月 26 の新しいゲームを追加します"></p>]]></description><source url="https://www.kitguru.net/gaming/matthew-wilson/geforce-now-adds-26-new-games-this-month/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2021/06/Aliens-Fireteam-675x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2021/06/Aliens-Fireteam-675x330.jpg"/></item>
-<item><title>Arduino® UNO™ Q ボードを使用して独自のハンドヘルド レトロ コンソールを構築</title><link>https://blog.arduino.cc/2026/08/06/build-your-own-handheld-retro-console-with-the-arduino-uno-q-board/</link><guid isPermaLink="true">https://blog.arduino.cc/2026/08/06/build-your-own-handheld-retro-console-with-the-arduino-uno-q-board/</guid><pubDate>Thu, 06 Aug 2026 13:33:13 +0000</pubDate><description><![CDATA[<p>Arduino® UNO™ Q ボードを使用して独自のハンドヘルド レトロ コンソールを構築
-
-Arduino® Project Hub では、長年にわたってこのブログで多くの DIY ハンドヘルド コンソールを紹介してきました。それらのほとんどは印象的であり、そのほとんどは、目的に合わせて設計された PCB、特殊なコネクタ、1 つのサプライヤーからしか入手できない部品など、少なくともいくつかのカスタム ハードウェアを必要とします。これらは素晴らしいプロジェクトですが、[…]
-
-Arduino® UNO™ Q ボードを使用して独自のハンドヘルド レトロ コンソールを構築 | Arduino ブログ ブログ ホーム &gt;
-
-この DIY ペン プロッターにはデルタ キネマティクスとツール チェンジャーが備わっています。
-
-Arduino® UNO™ Q ボードを使用して独自のハンドヘルド レトロ コンソールを構築
-
-Arduino ® プロジェクト ハブでは、長年にわたってこのブログで多くの DIY ハンドヘルド コンソールを紹介してきました。それらのほとんどは印象的であり、そのほとんどは、目的に合わせて設計された PCB、特殊なコネクタ、1 つのサプライヤーからしか入手できない部品など、少なくともいくつかのカスタム ハードウェアを必要とします。それらは素晴らしいプロジェクトですが、エレクトロニクスに関する深い知識のないメーカーにとっては手が届かないものに感じるかもしれません。
-
-Zalmotek のレトロ ゲーム コンソールは UNO Q をベースにしているため、異なります。すべてのコンポーネントは標準的なオンライン小売業者から購入でき、相互に接続できます。さらに、既成のケーブルとワイヤをほとんど使用しているため、はんだ付けはゼロです。唯一のカスタム パーツは 3D プリントされた筐体とボタンで、ヒートセット インサートで結合されており、クリーンでプロフェッショナルな感触を実現しています。アクセスしやすいと同時に印象的であり、それが私たちのお気に入りの組み合わせです。
-
-…</p><p><img src="https://blog.arduino.cc/wp-content/uploads/2026/08/Arduino.cc-Blogpost-Featured385x289-16.jpg" alt="Arduino® UNO™ Q ボードを使用して独自のハンドヘルド レトロ コンソールを構築"></p>]]></description><source url="https://blog.arduino.cc/2026/08/06/build-your-own-handheld-retro-console-with-the-arduino-uno-q-board/">Arduino Blog</source><media:content url="https://blog.arduino.cc/wp-content/uploads/2026/08/Arduino.cc-Blogpost-Featured385x289-16.jpg" medium="image"/><media:thumbnail url="https://blog.arduino.cc/wp-content/uploads/2026/08/Arduino.cc-Blogpost-Featured385x289-16.jpg"/></item>
-<item><title>DeepSeekはユーザーに大幅な値上げを覚悟させている</title><link>https://www.androidauthority.com/deepseek-ai-models-price-increase-3695266/</link><guid isPermaLink="true">https://www.androidauthority.com/deepseek-ai-models-price-increase-3695266/</guid><pubDate>Thu, 06 Aug 2026 13:32:04 +0000</pubDate><description><![CDATA[<p>DeepSeekはユーザーに大幅な値上げを覚悟させている
-
-DeepSeek が最も費用対効果の高い AI プロバイダーとしての君臨は長くは続かず、同社は価格引き上げを発表する可能性があります。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-DeepSeekはユーザーに大幅な値上げを覚悟させている
-
-0 • Robert Triggs / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR DeepSeek は、今後の価格引き上げについて顧客に通知を送ったと伝えられています。
-
-これは、ビジネス内で最もコスト効率の高い AI サービスとしての DeepSeek の現在の地位が長く続かない可能性があることを意味します。
-
-注目すべきは、これは、サーバーの負荷を軽減するためにピーク時間の使用のために同社が発表した7月中旬の料金値上げとは別のものであるということです。
-
-OpenAI、Google、Anthropic などの AI プロバイダーの中で、中国を拠点とする DeepSeek が、多くの人にとってより経済的な選択肢として浮上しています。同社は、強力な V4 フラッシュ モデルの発売後、最近いくつかの肯定的な見出しを獲得しました。さて、今日は悪いニュースがいくつかあります。DeepSeek が値上げを計画しているようです。
-
-ブルームバーグの報道によると、ディープシークは顧客に「大幅な」価格引き上げを知らせる通知を送っているという。その製品がどれくらい高価になるか、また、更新された価格がいつ有効になるかについては何も語られていません。この通知の背後にある一般的な考え方は、差し迫った変更に備えるための十分な時間をユーザーに与えることでした。
-
-背景として、DeepSeek は現在、V4 フラッシュ モデルに対して出力トークン 100 万あたり 0.28 ドル、入力トークン 100 万あたり 0.14 ドルの料…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2025/01/Ollama-DeepSeek-on-Android.jpg" alt="DeepSeekはユーザーに大幅な値上げを覚悟させている"></p>]]></description><source url="https://www.androidauthority.com/deepseek-ai-models-price-increase-3695266/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2025/01/Ollama-DeepSeek-on-Android.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2025/01/Ollama-DeepSeek-on-Android.jpg"/></item>
-<item><title>実際に役立つ (単なる目新しいだけではない) 4 つの Raspberry Pi プロジェクト</title><link>https://www.xda-developers.com/4-raspberry-pi-projects-that-are-actually-useful-and-not-just-a-novelty/</link><guid isPermaLink="true">https://www.xda-developers.com/4-raspberry-pi-projects-that-are-actually-useful-and-not-just-a-novelty/</guid><pubDate>Thu, 06 Aug 2026 13:30:10 +0000</pubDate><description><![CDATA[<p>実際に役立つ (単なる目新しいだけではない) 4 つの Raspberry Pi プロジェクト
-
-斬新さを超え、特定のニーズに実用的なソリューションを提供する革新的な Raspberry Pi プロジェクトを発見してください
-
-実際に役立つ (単なる目新しいだけではない) 4 つの Raspberry Pi プロジェクト
-
-By Abhishek Kumar Mishra 公開 2026 年 8 月 6 日、午前 9 時 30 分 EDT アビシェクは、コンピューティングをカバーする XDA の著者です。彼は 2012 年に Lenovo G570 を購入して以来、コンピューターが大好きです。アビシェクはコンピューター アプリケーションの修士号を取得し、2018 年に執筆活動を始めました。人気のあるオペレーティング システムや Web サービスに関するハウツー記事、リスト、情報投稿を書くのが大好きです。彼は Windows Insider プログラムを注意深くフォローし、新しい Insider ビルドをテストして、今後の実験的な機能やアップグレードを発見します。彼のこれまでの仕事には、「Tom&#39;s Hardware」や「Windows Most」などの評判の高い出版物との長期にわたるコラボレーションが含まれます。何も書いていないときは、ワンピースの新しいエピソードを見たり、夢中になれる何かを探したりして忙しいです。 XDA アカウントにサインインする Raspberry Pi は、小さなマイクロコントローラーから強力な Pi 5 まで、複数のバリエーションを提供します。この多用途性により、1 つまたは複数の Pi を使用してプロジェクトを構築できるため、DIY プロジェクトに最適です。ただし、DIY プロジェクトの中には、問題の解決に重点を置くのではなく、美しさや斬新さを重視するものもあります。これらのプロジェクトは一見魅力的に見えますが、多くの場合、構築には時間がかかり、複雑です。 Raspberry Pi は、低電力コンピューティング デバイスを必要とするソリューシ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/05/turning-raspberry-pi-in-to-travel-router.JPG?w=1600&amp;h=900&amp;fit=crop" alt="実際に役立つ (単なる目新しいだけではない) 4 つの Raspberry Pi プロジェクト"></p>]]></description><source url="https://www.xda-developers.com/4-raspberry-pi-projects-that-are-actually-useful-and-not-just-a-novelty/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/05/turning-raspberry-pi-in-to-travel-router.JPG?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/05/turning-raspberry-pi-in-to-travel-router.JPG?w=1600&amp;h=900&amp;fit=crop"/></item>
 </channel></rss>
