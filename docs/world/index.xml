@@ -1,6 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Tue, 11 Aug 2026 15:15:41 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Tue, 11 Aug 2026 16:11:52 +0000</lastBuildDate>
+<item><title>Microsoft、OEM向けWindowsライセンス料を最大10%値上げ</title><link>https://www.techpowerup.com/351509/microsoft-hikes-windows-license-fees-for-oems-by-up-to-10</link><guid isPermaLink="true">https://www.techpowerup.com/351509/microsoft-hikes-windows-license-fees-for-oems-by-up-to-10</guid><pubDate>Tue, 11 Aug 2026 15:48:47 +0000</pubDate><description><![CDATA[<p>Microsoft、OEM向けWindowsライセンス料を最大10%値上げ
+
+メモリ、ストレージ、CPU の不足が PC の価格を押し上げているだけでは十分ではないとしても、Microsoft は現在、OEM PC メーカーに対して Windows ライセンスの値上げを課しています。台湾の UDN によると、Microsoft は OEM PC メーカーに対し、Windows のライセンス料金が 7% 値上げされることを通知しました。
+
+Microsoft、OEM向けWindowsライセンス料を最大10%値上げ
+
+2025 年 8 月 18 日 Microsoft Windows 11 24H2 アップデートにより SSD 障害が発生する可能性がある (278)
+
+2025 年 10 月 21 日 Windows 11 25H2 October Update のバグにより回復環境が使用不能になる (170)
+
+2025 年 10 月 17 日 Microsoft が Windows 11 October Update で Localhost を破壊し、ユーザーは強制的に元に戻される (105)
+
+2025 年 10 月 1 日 Microsoft が Windows 11 25H2 をリリース…新機能はゼロ？ (122)
+
+2025 年 12 月 14 日 Microsoft Copilot AI が LG TV に搭載、削除できない (144)
+
+2025 年 10 月 7 日 Microsoft が Windows 11 でのオンライン アカウント バイパスをブロック (162)
+
+2025 年 12 月 23 日 Windows 11 25H2 には、手動インストールが必要な高速 NVMe ドライバーが含まれています (115)
+
+2026 年 8 月 5 日 Microsoft は Windows 11 用の 32 GB RAM の推奨をひっそりと削除しています (55)
+
+2026 年 5 月 1 日 Microsoft は、Windows 11 の「心配しな…</p><p><img src="https://www.techpowerup.com/img/q1CKE972JaBHKOZy.jpg" alt="Microsoft、OEM向けWindowsライセンス料を最大10%値上げ"></p>]]></description><source url="https://www.techpowerup.com/351509/microsoft-hikes-windows-license-fees-for-oems-by-up-to-10">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/q1CKE972JaBHKOZy.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/q1CKE972JaBHKOZy.jpg"/></item>
+<item><title>1984 年当時は衝撃的だった PC OS</title><link>https://hackaday.com/2026/08/11/the-pc-os-that-would-have-blown-your-mind-back-in-1984/</link><guid isPermaLink="true">https://hackaday.com/2026/08/11/the-pc-os-that-would-have-blown-your-mind-back-in-1984/</guid><pubDate>Tue, 11 Aug 2026 15:30:37 +0000</pubDate><description><![CDATA[<p>1984 年当時は衝撃的だった PC OS
+
+1980 年代前半の一般人向けのデスクトップ マイクロコンピューターに関しては、私たちがここでよく目にする多くの 8 ビット マシンなどの家庭用コンピューターとは明確に区別されていました。
+
+1980 年代前半の一般人向けのデスクトップ マイコンに関しては、ここでよく見かける多くの 8 ビット マシンなどの家庭用コンピュータと、CP/M ワード プロセッサや初期の IBM PC などのいわゆるプロ用コンピュータとの間には明確な区別がありました。これらは保守的なマシンで、コマンド ライン インターフェイスとほとんどがテキスト モードのソフトウェアを備えた、退屈ですらありました。
+
+10 年代の半ばに、美しい GUI を備えた Macintosh や Amiga などの大衆向けマシンが登場したとき、DOS を搭載した PC はまだ競争できませんでした。その後、[Jggonz] は 40 年以上遅れて、非常に洗練された Mac スタイルの GUI を備えた、8088 IBM PC およびクローン用の完全に機能する OS である美しい os8088 をリリースしました。
+
+os8088 は、GUI とともにプリエンプティブなマルチタスクと完全にロード可能なソフトウェアを提供するシングルフロッピー OS です。これまでに見てきた他の同様のプロジェクトとは異なり、OS のように見えるだけのオールインワンのコンパイル済みアプリケーションではありません。 2 番目のフロッピーには、ゲーム、グラフィックス、デモなど、当時としては非常に印象的だったであろう一連のソフトウェアが入っています。これが必要性がほとんどない2026年に登場したのは残念です。
+
+実際のハードウェア、独自のエミュレータ、さらにはブラウザ内エミュレータで試してみることもできます。残念ながら、Daily Drivers のテストドライブの要件を満たすには十分な OS ではありませんが、遊んでみると間違いなく楽しいです。 Book8088 で実行するとボーナスです。</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/os8088-featured.jpg" alt="1984 年当時は衝撃的だった PC OS"></p>]]></description><source url="https://hackaday.com/2026/08/11/the-pc-os-that-would-have-blown-your-mind-back-in-1984/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/os8088-featured.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/os8088-featured.jpg"/></item>
+<item><title>ワイヤレス Android Auto は Bluetooth のみで動作すると思っていましたが、それは間違いでした</title><link>https://www.xda-developers.com/i-thought-wireless-android-auto-only-ran-off-bluetooth-but-i-was-wrong/</link><guid isPermaLink="true">https://www.xda-developers.com/i-thought-wireless-android-auto-only-ran-off-bluetooth-but-i-was-wrong/</guid><pubDate>Tue, 11 Aug 2026 15:30:10 +0000</pubDate><description><![CDATA[<p>ワイヤレス Android Auto は Bluetooth のみで動作すると思っていましたが、それは間違いでした
+
+ワイヤレス Android Auto に Bluetooth と Wi-Fi の両方が必要な理由がついにわかりました。
+
+ワイヤレス Android Auto は Bluetooth のみで動作すると思っていましたが、それは間違いでした
+
+By Patrick O&#39;Rourke 公開 2026 年 8 月 11 日、午前 11 時 30分 EDT Patrick O&#39;Rourke は、XDA のニュース編集者およびエンターテイメント セグメントのリーダーです。以前は、Pocket-lint の編集長、カナダのテクノロジー出版物 MobileSyrup の編集長を務め、キャリアの初期には Financial Post および Postmedia でテクノロジー編集者として働いていました。彼はトロントに拠点を置いています。過去 15 年間にわたり、彼は何千もの記事を書いてきました。パトリック氏はまた、何十人ものテクノロジー業界の幹部にインタビューし、GDC、E3、Gamescom、WWDC、Apple の基調講演、Samsung Unpacked イベントなどを取材しました。パトリックはトロント・メトロポリタン大学でジャーナリズムの学士号を取得しています。 XDA アカウントにサインインする 少し最近まで、ワイヤレス Android Auto が機能するには Bluetooth と Wi-Fi の両方が必要であることに気づきませんでした。
+
+ほら、それが私にとっておそらく愚かな仮定であることはわかっています。もちろん、携帯電話を車のピアツーピア 5GHz Wi-Fi 接続に接続しましたが、これは初期セットアップにのみ必要で、その後のワイヤレス接続は Bluetooth 経由で処理されると考えていました (いいえ、なぜ初期セットアップに Bluetooth が必要ないのかについてはあまり考えていませんでした)。
+
+ある日、車に乗ったところ、ワイヤレス Andr…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/wireless-android-auto-waze.jpg?w=1600&amp;h=900&amp;fit=crop" alt="ワイヤレス Android Auto は Bluetooth のみで動作すると思っていましたが、それは間違いでした"></p>]]></description><source url="https://www.xda-developers.com/i-thought-wireless-android-auto-only-ran-off-bluetooth-but-i-was-wrong/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/wireless-android-auto-waze.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/wireless-android-auto-waze.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>Snapdragon X2 Elite Extreme は 48GB RAM と 400 ドルの割引を備えています - Asus Zenbook A16 は 2026 年のラップトップのセールです</title><link>https://www.xda-developers.com/this-laptop-is-a-performance-champ-while-also-costing-400-less/</link><guid isPermaLink="true">https://www.xda-developers.com/this-laptop-is-a-performance-champ-while-also-costing-400-less/</guid><pubDate>Tue, 11 Aug 2026 15:29:36 +0000</pubDate><description><![CDATA[<p>Snapdragon X2 Elite Extreme は 48GB RAM と 400 ドルの割引を備えています - Asus Zenbook A16 は 2026 年のラップトップのセールです
+
+買えるうちに手に入れましょう
+
+Snapdragon X2 Elite Extreme は 48GB RAM と 400 ドルの割引を備えています - Asus Zenbook A16 は 2026 年のラップトップのセールです
+
+By Timi Cantisano 公開 2026 年 8 月 11 日、午前 11 時 29 分 EDT Timi は 10 年以上にわたり、スマートフォン、コンピューター、およびテクノロジー分野で興味があるものすべてに焦点を当ててテクノロジーについて執筆してきました。彼は XDA に執筆を開始し、モバイルに関するあらゆることをカバーしていましたが、インターネット上で最高のハイテク製品の最高の割引を明らかにすることを使命として、取引をカバーすることに移行しました。 XDA アカウントにサインインする Asus Zenbook A16 は、2026 年のお気に入りのラップトップの 1 つです。トップエンドの仕様と無視できない価格が特徴です。期間限定で、Best Buy はメーカー希望小売価格 1,900 ドルから 400 ドル値下げします。これは現在、小売業者にとって最高の取引であり、新しいラップトップを探している人にとっても最適な選択肢です。
+
+Asus Zenbook A16 (2026) $1500 $1900 節約 $400 9.5 /10 CPU Snapdragon X2 Elite Extreme X2E96100 または X2E94100 GPU Qualcomm Adreno GPU ディスプレイ タイプ OLED Asus Zenbook A16 (2026) は、Qualcomm の新しい Snapdragon X2 Elite Extreme チップを搭載した洗練されたラップトップです。それだけでなく、48GBのRAMと5…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/04/asus-zenbook-a16-marathon.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Snapdragon X2 Elite Extreme は 48GB RAM と 400 ドルの割引を備えています - Asus Zenbook A16 は 2026 年のラップトップのセールです"></p>]]></description><source url="https://www.xda-developers.com/this-laptop-is-a-performance-champ-while-also-costing-400-less/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/04/asus-zenbook-a16-marathon.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/04/asus-zenbook-a16-marathon.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>(PR) Totally Accurate コントローラーが Commodore TAC-2 で完全に正確に復活</title><link>https://www.techpowerup.com/351520/totally-accurate-controller-makes-a-totally-accurate-comeback-with-the-commodore-tac-2</link><guid isPermaLink="true">https://www.techpowerup.com/351520/totally-accurate-controller-makes-a-totally-accurate-comeback-with-the-commodore-tac-2</guid><pubDate>Tue, 11 Aug 2026 15:27:51 +0000</pubDate><description><![CDATA[<p>(PR) Totally Accurate コントローラーが Commodore TAC-2 で完全に正確に復活
+
+昨年の Commodore 64 Ultimate の大成功を受けて、Commodore International は、「Totally Accurate Controller」としても知られる TAC-2 ジョイスティックをデビューから 40 年以上経って生産に戻すことを発表しました。本日よりcommodore.netで予約注文が開始されます。
+
+完全に正確なコントローラーが Commodore TAC-2 で完全に正確に復活
+
+2026 年 5 月 11 日 THEC64 および Spectrum レトロ ゲーミング ハンドヘルドが 25 の内蔵ゲームを搭載して 2026 年 10 月に発売 (16)
+
+2025 年 12 月 12 日 レトロゲームズが THEQUICKSHOT II を発表 (8)
+
+Totally Accurate コントローラーが Commodore TAC-2 で完全に正確に復活についてのコメント</p><p><img src="https://www.techpowerup.com/img/IeeB5hLdlxmHAfHg.jpg" alt="(PR) Totally Accurate コントローラーが Commodore TAC-2 で完全に正確に復活"></p>]]></description><source url="https://www.techpowerup.com/351520/totally-accurate-controller-makes-a-totally-accurate-comeback-with-the-commodore-tac-2">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/IeeB5hLdlxmHAfHg.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/IeeB5hLdlxmHAfHg.jpg"/></item>
+<item><title>(PR) Razer が Naga V3 Pro MMO ゲーミング マウスを発表</title><link>https://www.techpowerup.com/351518/razer-unveils-the-naga-v3-pro-mmo-gaming-mouse</link><guid isPermaLink="true">https://www.techpowerup.com/351518/razer-unveils-the-naga-v3-pro-mmo-gaming-mouse</guid><pubDate>Tue, 11 Aug 2026 15:17:36 +0000</pubDate><description><![CDATA[<p>(PR) Razer が Naga V3 Pro MMO ゲーミング マウスを発表
+
+ゲーマー向けの世界的なライフスタイル ブランドをリードする Razer は本日、同社の象徴的な MMO ゲーミング マウスの最新進化版である Razer Naga V3 Pro を発表しました。ゲームのジャンルやプレイスタイル全体に適応するように構築されており、3 つの交換可能な磁気サイド プレート、コントロールをカスタマイズするためのより多くの方法、アップグレードされた機能を備えています。
+
+Razer が Naga V3 Pro MMO ゲーミング マウスを発表
+
+「Naga は 17 年間にわたってマルチボタン ゲームをリードしてきました。V3 Pro は、プレイするあらゆるジャンルに 1 つのマウスで適応できることを望んでいたコミュニティに対する私たちの答えです」と Razer の PC ゲーム部門責任者の Barrie Oi 氏は述べています。 「プレイヤーが求めていたボタンを復活させ、最新の Razer テクノロジーでさらに優れたパフォーマンスを実現し、交換可能なレイアウトからサイクリング能力を正確に感じさせる新しい 48 ステップのスクロール モードまで、これまで以上にコントロールできるようにしました。」
+
+カスタマイズ - 2 つのクイック アクセス エッジ ボタンにモディファイアを割り当て、ロック可能な薬指ボタンを戻し、マクロを使用して複雑なアビリティ チェーンを起動し、それをすべて 5 つのオンボード メモリ プロファイルに保存します。
+
+モジュール性 - 3 つの交換可能な磁気サイド プレートがマウスをゲームに適応させます。MMO では 12 ボタン、MOBA とバトル ロイヤルでは 6 ボタン、FPS と日常プレイでは 2 ボタンで、それぞれ工具を使わずに数秒でスナップオンできます。
+
+精密エンジニアリング - フレーム同期を備えた Razer Focus Pro 50K 光学センサー Gen-3、1 億回以上のクリックに耐える光学式マウス スイッチ Gen-4…</p><p><img src="https://www.techpowerup.com/img/b4RRoZqJB0Dr9G1f.jpg" alt="(PR) Razer が Naga V3 Pro MMO ゲーミング マウスを発表"></p>]]></description><source url="https://www.techpowerup.com/351518/razer-unveils-the-naga-v3-pro-mmo-gaming-mouse">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/b4RRoZqJB0Dr9G1f.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/b4RRoZqJB0Dr9G1f.jpg"/></item>
+<item><title>Acer Chromebook Plus Spin 714 がこの 24 時間セールで 38% 急落</title><link>https://www.androidauthority.com/acer-chromebook-plus-spin-714-deal-3697237/</link><guid isPermaLink="true">https://www.androidauthority.com/acer-chromebook-plus-spin-714-deal-3697237/</guid><pubDate>Tue, 11 Aug 2026 15:12:53 +0000</pubDate><description><![CDATA[<p>Acer Chromebook Plus Spin 714 がこの 24 時間セールで 38% 急落
+
+この 1 日限りの Best Buy セールでは、タッチ ディスプレイ、スタイラス サポート、Core Ultra パワーを備えた Acer Chromebook Plus Spin 714 が 499 ドルに値下げされます。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+Acer Chromebook Plus Spin 714 がこの 24 時間セールで 38% 急落
+
+0 • Eric Zeman / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください 仕事、学校、ストリーミング、カジュアルな描画に 1 台のデバイスが必要な場合、柔軟なラップトップは大きな違いをもたらします。 Acer Chromebook Plus Spin 714 は、そのような日常的な使用に適しており、現在 Best Buy でお買い得品となっています。
+
+Acer Chromebook Plus Spin 714 は、希望小売価格 799 ドルから 300 ドル引きの 499 ドルに値下げされています。これは希望小売価格から 38% 割引ですが、寝ている暇はありません。数時間で終了する 1 日限りの取引です。
+
+これは、1920×1200 タッチ ディスプレイ、コンバーチブル ヒンジ、スタイラス サポートを備えたプレミアム 14 インチ 2-in-1 Chromebook です。この設定により、作業内容に応じてラップトップ、タブレット、テントのモードを切り替えるのが便利になります。ラップトップ モードでメモやメールを入力したり、裏返してビデオを視聴したり、タッチスクリーンとスタイラスのサポートを使用して簡単なクリエイティブな作業を行ったりすることができます。
+
+Acer は、Intel Core Ultra プロセッサを中心に Chrom…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2022/05/Acer-Chromebook-Spin-714-left-profile.jpg" alt="Acer Chromebook Plus Spin 714 がこの 24 時間セールで 38% 急落"></p>]]></description><source url="https://www.androidauthority.com/acer-chromebook-plus-spin-714-deal-3697237/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2022/05/Acer-Chromebook-Spin-714-left-profile.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2022/05/Acer-Chromebook-Spin-714-left-profile.jpg"/></item>
+<item><title>AMD は、Ryzen 5 5500 が 9800X3D を上回り、一時的に Amazon CPU ベストセラーのトップになったことを強調 — 80 ドルの DDR4 CPU は、メモリ不足の中でもトップセラーであり続ける</title><link>https://www.tomshardware.com/pc-components/cpus/amd-highlights-ryzen-5-5500-briefly-topping-amazon-cpu-best-sellers-beating-9800x3d-usd80-ddr4-cpu-remains-a-top-seller-during-memory-crunch</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/cpus/amd-highlights-ryzen-5-5500-briefly-topping-amazon-cpu-best-sellers-beating-9800x3d-usd80-ddr4-cpu-remains-a-top-seller-during-memory-crunch</guid><pubDate>Tue, 11 Aug 2026 15:06:35 +0000</pubDate><description><![CDATA[<p>AMD は、Ryzen 5 5500 が 9800X3D を上回り、一時的に Amazon CPU ベストセラーのトップになったことを強調 — 80 ドルの DDR4 CPU は、メモリ不足の中でもトップセラーであり続ける
+
+それ
+
+AMD は、Ryzen 5 5500 が 9800X3D を上回り、一時的に Amazon CPU ベストセラーのトップになったことを強調 — 80 ドルの DDR4 CPU は、メモリ不足の中でもトップセラーであり続ける
+
+それはあなたが思っているようなフレックスではありません。
+
+(画像クレジット: Tom&#39;s Hardware) リンクをコピー
+
+1 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 過去数年間に Amazon の CPU ベストセラー リストに偶然アクセスしたことがある方は、赤いボックスの壁に遭遇したことがあるでしょう。このリストは、明確な売上高の数字がなく、Amazon でその時点で入手可能なものに大きく偏っているため、優れたデータソースとは言えません。しかし、AMDのシニアマーケティングディレクターであるサシャ・マリンコビッチ氏は最近、AmazonのCPUベストセラーリストのスクリーンショットを共有し、AMDの代表であることを自慢した。興味深いのは、マリンコビッチ氏が共有したスクリーンショットでは、80ドルのDDR4ベースのRyzen 5 5500がチャートのトップにあることだ。
+
+Ryzen がトップへ: AMD がゲーム CPU 市場でどのように革新したか
+
+ARM はどのように PC に導入されているのか
+
+AMD CES 2026 ゲーム トレンドのプレス Q&amp;A ラウンドテーブルの記録
+
+それ以来、Ryzen 7 9800X3D がトップスロットの座を取り戻しました — 結局のところ、これはゲームに最適な CPU です — しかし、スクリーンショットは、Zen 4 の発売と AMD プラットフォームへの DDR5 導入からほぼ 4 年後の D…</p><p><img src="https://cdn.mos.cms.futurecdn.net/KFqm9bvGjLCwaDNADCidee-1999-80.jpg" alt="AMD は、Ryzen 5 5500 が 9800X3D を上回り、一時的に Amazon CPU ベストセラーのトップになったことを強調 — 80 ドルの DDR4 CPU は、メモリ不足の中でもトップセラーであり続ける"></p>]]></description><source url="https://www.tomshardware.com/pc-components/cpus/amd-highlights-ryzen-5-5500-briefly-topping-amazon-cpu-best-sellers-beating-9800x3d-usd80-ddr4-cpu-remains-a-top-seller-during-memory-crunch">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/KFqm9bvGjLCwaDNADCidee-1999-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/KFqm9bvGjLCwaDNADCidee-1999-80.jpg"/></item>
+<item><title>LiteRT と Gemma を使用して Raspberry Pi でエッジ AI をマスターする</title><link>https://www.raspberrypi.com/news/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/</link><guid isPermaLink="true">https://www.raspberrypi.com/news/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/</guid><pubDate>Tue, 11 Aug 2026 15:04:00 +0000</pubDate><description><![CDATA[<p>LiteRT と Gemma を使用して Raspberry Pi でエッジ AI をマスターする
+
+Google の友人たちは、Raspberry Pi プラットフォームでの LiteRT パフォーマンスの向上に熱心に取り組んでいます。
+
+Google の友人たちは、Raspberry Pi プラットフォームでの LiteRT パフォーマンスの向上に熱心に取り組んでいます。私たちは、この取り組みを皆さんと共有できることをうれしく思います。これにより、汎用 AI アプリケーションに堅牢なフレームワークが提供されます。
+
+Google ソフトウェア エンジニアの Lu Wang 氏と Terry Heo 氏、および Igalia グラフィックス ソフトウェア エンジニアの José María Casanova 氏に特別に感謝します。
+
+Raspberry Pi のような単一のコンパクトなデバイス上で、環境をリアルタイムで完全にオフラインで見て、聞いて、反応できる完全自律型ロボットを構築することを想像してみてください。エッジ AI は、まさにこの自律性を解き放ちます。これにより、開発者は、クラウドへの依存関係がゼロ、超低遅延、完全なデータ プライバシーを備えた、インテリジェント ロボットやローカル AI エージェントなど、安全性の高い自己完結型システムを構築できます。
+
+Google は、実稼働環境で実証済みの Google の高性能オンデバイス推論ランタイムである LiteRT を使用して、Raspberry Pi 上での最先端 AI の実行を簡単にしました。 LiteRT を使用すると、古典的な ML モデルから最先端の LLM まで、すべてをすぐにシームレスにデプロイできます。 LiteRT は、CPU と GPU の両方で最適化された実行と非常に効率的なメモリ使用を実現することで、Raspberry Pi のコンピューティングの可能性を最大限に引き出します。
+
+このハードウェアとソフトウェアの相乗効果は、Google の軽量オープン モデル ファミリである Gem…</p><p><img src="https://www.raspberrypi.com/app/uploads/2026/08/image2-Large-1024x570.jpeg" alt="LiteRT と Gemma を使用して Raspberry Pi でエッジ AI をマスターする"></p>]]></description><source url="https://www.raspberrypi.com/news/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/">Raspberry Pi News</source><media:content url="https://www.raspberrypi.com/app/uploads/2026/08/image2-Large-1024x570.jpeg" medium="image"/><media:thumbnail url="https://www.raspberrypi.com/app/uploads/2026/08/image2-Large-1024x570.jpeg"/></item>
 <item><title>(PR) DapuStor が FMS2026 で 512 TB および水冷 SSD を展示</title><link>https://www.techpowerup.com/351517/dapustor-showcases-512-tb-and-liquid-cooled-ssds-at-fms2026</link><guid isPermaLink="true">https://www.techpowerup.com/351517/dapustor-showcases-512-tb-and-liquid-cooled-ssds-at-fms2026</guid><pubDate>Tue, 11 Aug 2026 15:03:20 +0000</pubDate><description><![CDATA[<p>(PR) DapuStor が FMS2026 で 512 TB および水冷 SSD を展示
 
 エンタープライズ SSD 製品の大手メーカーである DapuStor は、FMS2026: メモリとストレージの未来で展示され、最高容量の 512 TB E2 SSD、水冷 EDSFF 設計などを発表しました。同社は、より優れたデータ密度、パフォーマンスをサポートするためにフラッシュ ストレージがどのように進化しているかを実証しました。
@@ -26,6 +151,15 @@ DapuStor が FMS2026 で 512 TB および水冷 SSD を展示
 2026 年 6 月 25 日 Swissbit、A2000 PCIe SSD シリーズを発売 (2)
 
 2026 …</p><p><img src="https://www.techpowerup.com/img/V6qRPGkWml20mfts.jpg" alt="(PR) DapuStor が FMS2026 で 512 TB および水冷 SSD を展示"></p>]]></description><source url="https://www.techpowerup.com/351517/dapustor-showcases-512-tb-and-liquid-cooled-ssds-at-fms2026">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/V6qRPGkWml20mfts.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/V6qRPGkWml20mfts.jpg"/></item>
+<item><title>Razer Naga が新しいモジュール式サイドプレートとともに戻ってきます</title><link>https://www.kitguru.net/gaming/matthew-wilson/the-razer-naga-returns-with-new-modular-side-plates/</link><guid isPermaLink="true">https://www.kitguru.net/gaming/matthew-wilson/the-razer-naga-returns-with-new-modular-side-plates/</guid><pubDate>Tue, 11 Aug 2026 15:00:59 +0000</pubDate><description><![CDATA[<p>Razer Naga が新しいモジュール式サイドプレートとともに戻ってきます
+
+Razer は、MMO、MOBA、または FPS ゲーム用に 3 つの磁気サイドプレートを使用してジャンルを超えて適応するように構築されたマウスの新しいモジュラー バージョンである Naga V3 Pro の発売により、最も長く続いている MMO のお気に入りの 1 つを更新します。
+
+Razer Naga が新しいモジュール式サイドプレートとともに戻ってきます
+
+Matthew Wilson 1 時間前 注目のテクノロジー ニュース , ソフトウェア &amp; ゲーム
+
+Razer は、MMO、MOBA、または FPS ゲーム用に 3 つの磁気サイドプレートを使用してジャンルを超えて適応するように構築されたマウスの新しいモジュラー バージョンである Naga V3 Pro の発売により、最も長く続いている MMO のお気に入りの 1 つを更新します。 Naga ラインは、そのマルチボタン レイアウトのおかげで、長年 MMO プレイヤーに人気の選択肢であり、V3 Pro は、ゲームに応じて 12 ボタン、6 ボタン、および 2 ボタンのサイド プレートを切り替えることができるデザインでそのアプローチを継続しています。各プレートは磁力でスナップするため、プレイヤーは工具を使わずに MMO、MOBA、FPS スタイルのレイアウト間を移動できます。このマウスには、素早い DPI 調整を可能にする左クリックの横に 2 つのエッジ ボタン、最大 5 つのオンボード プロファイルのサポート、長期耐久性を向上させる新しいダブルショット成形サイド ボタンが含まれています。 Razer の更新された HyperScroll Tilt Wheel Gen‑2 では、フリースピン モードに加えて、サイクリング能力やインベントリ アイテムのより細かい 48 ステップ オプションを含む複数のスクロール モードが追加されています。 Razer HyperSpeed テクノロジーもワイヤレス使用のために導入されており、最大 1…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/08/Razer-Naga-3-621x330.png" alt="Razer Naga が新しいモジュール式サイドプレートとともに戻ってきます"></p>]]></description><source url="https://www.kitguru.net/gaming/matthew-wilson/the-razer-naga-returns-with-new-modular-side-plates/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/08/Razer-Naga-3-621x330.png" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/08/Razer-Naga-3-621x330.png"/></item>
 <item><title>ほとんどの 3D プリンターのアップグレードは、これらの重要なものを修理する前にノズルを交換するために失敗します。</title><link>https://www.xda-developers.com/3d-printer-upgrades-fix-before-nozzle/</link><guid isPermaLink="true">https://www.xda-developers.com/3d-printer-upgrades-fix-before-nozzle/</guid><pubDate>Tue, 11 Aug 2026 15:00:10 +0000</pubDate><description><![CDATA[<p>ほとんどの 3D プリンターのアップグレードは、これらの重要なものを修理する前にノズルを交換するために失敗します。
 
 3D プリンターをアップグレードする前に
@@ -54,6 +188,7 @@ Android Authority のアフィリエイト リンクにより、手数料が発�
 AmazonはNothing Phone 3を希望小売価格799ドルから599ドルに値下げした。これは 200 ドルの節約となり、希望小売価格より 25% オフになります。 599ドルという価格は、過去最低価格にも匹敵する。
 
 有名なスペックを諦めることなく、少し変わった感じの携帯電話が…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2025/07/Nothing-Phone-3-in-a-persons-hand-at-an-off-angle.jpg" alt="取引: 200 ドルの値下げは、Nothing Phone 3 がかつてないほど安くなったことを意味します"></p>]]></description><source url="https://www.androidauthority.com/nothing-phone-3-amazon-deal-3697221/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2025/07/Nothing-Phone-3-in-a-persons-hand-at-an-off-angle.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2025/07/Nothing-Phone-3-in-a-persons-hand-at-an-off-angle.jpg"/></item>
+<item><title>Rapid PCB Prototyping Has Arrived on Your Desktop</title><link>https://www.hackster.io/news/rapid-pcb-prototyping-has-arrived-on-your-desktop-13c28f65c642</link><guid isPermaLink="true">https://www.hackster.io/news/rapid-pcb-prototyping-has-arrived-on-your-desktop-13c28f65c642</guid><pubDate>Tue, 11 Aug 2026 14:53:33 +0000</pubDate><description><![CDATA[<p>Rapid PCB Prototyping Has Arrived on Your Desktop</p>]]></description><source url="https://www.hackster.io/news/rapid-pcb-prototyping-has-arrived-on-your-desktop-13c28f65c642">Hackster.io</source></item>
 <item><title>Chromecast with Google TV デバイスの Wi-Fi がオフになるというイライラするバグ</title><link>https://www.androidauthority.com/chromecast-with-google-tv-wi-fi-bug-3697028/</link><guid isPermaLink="true">https://www.androidauthority.com/chromecast-with-google-tv-wi-fi-bug-3697028/</guid><pubDate>Tue, 11 Aug 2026 14:46:31 +0000</pubDate><description><![CDATA[<p>Chromecast with Google TV デバイスの Wi-Fi がオフになるというイライラするバグ
 
 Chromecast with Google TV の所有者の中には、一定期間非アクティブな状態が続くとデバイスの接続が切断されるという Wi-Fi のバグが繰り返し発生していると報告している人もいます。
@@ -188,6 +323,15 @@ Nvidia の Smooth Motion を古いゲームで試してみましたが、必要�
 Hamlin Rozario 著 2026 年 8 月 11 日午前 10:00 EDT 公開 ハムリンはテクノロジー分野に 9 年以上携わっています。 2017 年以来、彼の作品は MakeUseOf 、Android Police 、OSXDaily、Beebom などに掲載されています。 XDA に入社する前は、Valnet の MakeUseOf で上級編集者を 2 年以上務めました。彼はデスクトップ用にハイエンドのゲーム機を使用し、旅行用に MacBook を使用していますが、macOS のいくつかの癖が嫌いです。他のどこよりもジムや飛行機の中で彼に出会う可能性が高くなります。 XDA アカウントにサインインします。フレーム生成については皆さんもすでにご存じかと思います。これは 2022 年に発売された RTX 40 シリーズ以来存在しており、現在では RTX 50 シリーズ GPU を使用したマルチ フレーム生成とダイナミック マルチ フレーム生成が利用可能になりました。好きか嫌いかに関係なく、フレーム生成によって、より多くの生の馬力を必要とせずに、ゲームの見た目が大幅にスムーズになることは否定できません。問題は、この機能を実際にサポートしているゲームでのみこの機能を利用できるため、無数の古いタイトルが対象外になってしまうことです。
 
 そこで Nvidia の Smooth Motion が登場します。ゲーム自体に統合する必要があるフレーム生成とは異なり、完全にドライバー レベルで機能します。したがって、RTX 40 シリーズまたは 50 シリーズ GPU を持っている限り、Nvidia アプリから必要なほぼすべてのゲームでこれを有効にすることができます。このような機能にとっては最悪のシナリオであることはわかっていますが、e …</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/valorant-on-monitor.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Nvidia の Smooth Motion を古いゲームで試してみましたが、必要ないときに最適に機能します。"></p>]]></description><source url="https://www.xda-developers.com/tried-nvidias-smooth-motion-older-games-works-best-when-dont-need-it/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/valorant-on-monitor.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/valorant-on-monitor.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>静かに！ゲーミングキーボードのラインナップにTKLオプションを追加</title><link>https://www.kitguru.net/gaming/matthew-wilson/be-quiet-adds-tkl-option-to-its-gaming-keyboard-line-up/</link><guid isPermaLink="true">https://www.kitguru.net/gaming/matthew-wilson/be-quiet-adds-tkl-option-to-its-gaming-keyboard-line-up/</guid><pubDate>Tue, 11 Aug 2026 14:00:09 +0000</pubDate><description><![CDATA[<p>静かに！ゲーミングキーボードのラインナップにTKLオプションを追加
+
+静かにしてください！は、テンキーがデスクのスペースを占有することなく、小さなレイアウトを好むユーザーを対象としたコンパクトなテンキーレス メカニカル キーボードであるライト マウント TKL で、ゲーム周辺機器のラインナップを拡大しています。
+
+静かに！ゲーミングキーボードのラインナップにTKLオプションを追加
+
+Matthew Wilson 2 時間前 注目のテクノロジー ニュース , ソフトウェア &amp; ゲーム
+
+静かにしてください！は、テンキーがデスクのスペースを占有することなく、小さなレイアウトを好むユーザーを対象としたコンパクトなテンキーレス メカニカル キーボードであるライト マウント TKL で、ゲーム周辺機器のラインナップを拡大しています。ライトマウント TKL は 80% レイアウトを採用し、専用のテンキーを切り取ってデスクスペースを解放します。同社の Silent V2 スイッチは、リニア オレンジまたは触感のある黒のバリエーションで使用されており、騒音と振動を軽減するために 3 層の消音材が使用されています。キーボードには、PBT ダブルショット キーキャップ、5 ピン MX スタイル スイッチのホットスワップ サポート、つや消しアルミニウム トップ プレート、および取り外し可能な編組 USB-C ケーブルが含まれています。ご想像のとおり、取り外し可能なパームレストも付属しています。制御とカスタマイズのために、ライト マウント TKL には、アルミニウム メディア ホイール、3 つのマクロまたはマルチメディア キー、キーごとの ARGB 照明、および照明付きサイド バーが備わっています。他のゲーミング キーボードと同様に、このキーボードには「クイック タップ」と呼ばれる独自のバージョンの「スナップ タップ」があり、最新の方向入力を即座に優先して、プレイヤーがシューティング ゲームで掃射するのを助けます。 be Quiet! の他の周辺機器と同様に、Light Mount TKL も…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/08/01_Light_Mount_TKL_ISO_UK-732x330.jpg" alt="静かに！ゲーミングキーボードのラインナップにTKLオプションを追加"></p>]]></description><source url="https://www.kitguru.net/gaming/matthew-wilson/be-quiet-adds-tkl-option-to-its-gaming-keyboard-line-up/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/08/01_Light_Mount_TKL_ISO_UK-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/08/01_Light_Mount_TKL_ISO_UK-732x330.jpg"/></item>
 <item><title>PC-1: 真空管、リレー、トランジスタのない 1954 年のコンピューター</title><link>https://hackaday.com/2026/08/11/pc-1-the-1954-computer-with-no-tubes-relays-or-transistors/</link><guid isPermaLink="true">https://hackaday.com/2026/08/11/pc-1-the-1954-computer-with-no-tubes-relays-or-transistors/</guid><pubDate>Tue, 11 Aug 2026 14:00:03 +0000</pubDate><description><![CDATA[<p>PC-1: 真空管、リレー、トランジスタのない 1954 年のコンピューター
 
 どのようなデジタル コンピューターを作成する場合でも、2 進数を表すものが必要です。通常、これはリレー、真空管、トランジスタなどの何らかの形式のスイッチですが、他の方法もあり…
@@ -232,6 +376,7 @@ Intelの時価総額は昨年8月の…</p><p><img src="https://cdn.mos.cms.futu
 By Joe Rice-Jones Published Aug 11, 2026, 9:28 AM EDT Maker、meme-r、そして恥ずかしがり屋のオタクである Joe は、2018 年に KnowTechie でキャリアをスタートして以来、テクノロジーについて執筆してきました。彼は Apple からアプリ、クラウドファンディングまであらゆるものをカバーしており、複雑なトピックの本質に迫るのが大好きです。その間、彼は、2023 年の春に XDA に本拠地を置くまで、SlashGear や多数の法人顧客向けにも記事を書いていました。彼は、たとえ後で完全に元に戻らなかったとしても、すべてのおもちゃを分解して、どのように機能するかを確認する子供でした。これにより、複雑なシステムがどのように連携して機能するかを説明するための確かな背景が得られ、それ以来、物事を元に戻す段階でうまくなったと彼は約束します。 XDA アカウントにサインインします。最初の家を探していたとき、私がやりたかったことの 1 つは、プロフェッショナル レベルのネットワーク スタックをインストールすることでした。正直、私の興奮の一部は、何十年もの間初めて住んだ家で、壁に穴を開けたり、以前の賃貸契約では禁止されていたものを自由に開けることができたことから来ていることを認めなければなりません。それでも、私は将来の拡張に備えてすべての部屋に銅線バックホールを導入することを決意しました。
 
 最新のスマート ホーム機器はほとんどがワイヤレスであるのに、なぜそんなに多くのケーブルを配線する必要があるのか​​と疑問に思われるかもしれませんが、それはすべてホーム ネットワークとその内部のデバイスを最大限に活用するためです。 NAS からメイン コンピューターまで、できるだけ多くのものを配線したかった…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/09/network-switches-router-nas.jpg?w=1600&amp;h=900&amp;fit=crop" alt="家のすべての部屋に有線バックホールを実行しましたが、それだけの価値がありました"></p>]]></description><source url="https://www.xda-developers.com/i-ran-wired-backhaul-to-every-room-in-my-house-and-it-was-so-worth-it/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/09/network-switches-router-nas.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/09/network-switches-router-nas.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>Smartwatches Can Now Read Your Hand Gestures</title><link>https://www.hackster.io/news/smartwatches-can-now-read-your-hand-gestures-8dbc8fe5540b</link><guid isPermaLink="true">https://www.hackster.io/news/smartwatches-can-now-read-your-hand-gestures-8dbc8fe5540b</guid><pubDate>Tue, 11 Aug 2026 13:19:07 +0000</pubDate><description><![CDATA[<p>Smartwatches Can Now Read Your Hand Gestures</p>]]></description><source url="https://www.hackster.io/news/smartwatches-can-now-read-your-hand-gestures-8dbc8fe5540b">Hackster.io</source></item>
 <item><title>AMD の BC-250 をベンチマークし、Steam Machine のようなパフォーマンスを半額で提供 — 再利用された PS5 APU で 40 CU、8 つの Zen 2 コアのロックを解除</title><link>https://www.tomshardware.com/pc-components/cpus/benchmarking-amds-bc-250-offering-steam-machine-like-performance-at-half-the-price-unlocking-40-cus-eight-zen-2-cores-on-the-repurposed-ps5-apu</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/cpus/benchmarking-amds-bc-250-offering-steam-machine-like-performance-at-half-the-price-unlocking-40-cus-eight-zen-2-cores-on-the-repurposed-ps5-apu</guid><pubDate>Tue, 11 Aug 2026 13:13:49 +0000</pubDate><description><![CDATA[<p>AMD の BC-250 をベンチマークし、Steam Machine のようなパフォーマンスを半額で提供 — 再利用された PS5 APU で 40 CU、8 つの Zen 2 コアのロックを解除
 
 マイニング用に再利用されたAPUが再び家に戻ってきました。
@@ -760,11 +905,11 @@ Google が I/O 2026 で Googlebook を発表して以来、先月の Googlebook 
 Bluetooth SIG 認証データベースで見つかった情報によると、Acer はモデル番号 GP714-91N50A0、GP714-91N58Y2、GP714-91N596Q、および GP714-91N70CH の少なくとも 4 つの Googlebook の発売を準備しています (GbookHub 経由)。
 
 Bluetooth SIG このアウトレットでは、次期ラップトップの主要な仕様の一部を含む小売店のリストも見つかりました。 Acer の Google…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/05/googlebook-name-on-laptop-official-logo.jpg" alt="Acer初のGooglebookは低価格Chromebookの間違いを回避できる可能性がある"></p>]]></description><source url="https://www.androidauthority.com/acer-googlebook-specs-price-leak-3696858/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/05/googlebook-name-on-laptop-official-logo.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/05/googlebook-name-on-laptop-official-logo.jpg"/></item>
-<item><title>NVIDIA RTX 50 シリーズの中央価格は 8 月に最大 39% に上昇、メーカー希望小売価格は今や遠い夢</title><link>https://www.techpowerup.com/351508/nvidia-rtx-50-series-median-prices-jump-up-to-39-in-august-with-msrp-now-a-distant-dream</link><guid isPermaLink="true">https://www.techpowerup.com/351508/nvidia-rtx-50-series-median-prices-jump-up-to-39-in-august-with-msrp-now-a-distant-dream</guid><pubDate>Tue, 11 Aug 2026 09:42:29 +0000</pubDate><description><![CDATA[<p>NVIDIA RTX 50 シリーズの中央価格は 8 月に最大 39% に上昇、メーカー希望小売価格は今や遠い夢
+<item><title>NVIDIA RTX 50 シリーズの中央価格は 8 月に最大 41% に上昇、メーカー希望小売価格は今や遠い夢</title><link>https://www.techpowerup.com/351508/nvidia-rtx-50-series-median-prices-jump-up-to-41-in-august-with-msrp-now-a-distant-dream</link><guid isPermaLink="true">https://www.techpowerup.com/351508/nvidia-rtx-50-series-median-prices-jump-up-to-41-in-august-with-msrp-now-a-distant-dream</guid><pubDate>Tue, 11 Aug 2026 09:42:29 +0000</pubDate><description><![CDATA[<p>NVIDIA RTX 50 シリーズの中央価格は 8 月に最大 41% に上昇、メーカー希望小売価格は今や遠い夢
 
 NVIDIA の GeForce RTX 50 シリーズの「Blackwell」グラフィックス カードは、過去数か月間で大幅な価格上昇が見られ、特に 7 月から 8 月にかけての値上がりが顕著でした。米国最大のコンピュータ ハードウェア小売店の 1 つである Newegg に、顕著な変化がありました...
 
-NVIDIA RTX 50 シリーズの中央価格は 8 月に最大 39% に上昇、メーカー希望小売価格は今や遠い夢
+NVIDIA RTX 50 シリーズの中央価格は 8 月に最大 41% に上昇、メーカー希望小売価格は今や遠い夢
 
 2026 年 1 月 16 日 NVIDIA が GeForce RTX 5070 Ti の生産を終了、RTX 5060 Ti 16 GB Next (210) と伝えられる
 
@@ -780,9 +925,9 @@ NVIDIA RTX 50 シリーズの中央価格は 8 月に最大 39% に上昇、メ�
 
 2025 年 9 月 3 日 NVIDIA ディスクリート GPU 市場シェアの優位性が 94% に拡大、ノート レポート (237)
 
-2026 年 5 月 27 日 リーカーが天文学的な蒸気機械の価格を示唆 (74)
+2026 年 5 月 28 日 リーカーが天文学的な蒸気機械の価格を示唆 (74)
 
-2025 年 9 月 29 日 NVIDIA GeForce RTX…</p><p><img src="https://www.techpowerup.com/img/is3brPNcZyXfwrhO.jpg" alt="NVIDIA RTX 50 シリーズの中央価格は 8 月に最大 39% に上昇、メーカー希望小売価格は今や遠い夢"></p>]]></description><source url="https://www.techpowerup.com/351508/nvidia-rtx-50-series-median-prices-jump-up-to-39-in-august-with-msrp-now-a-distant-dream">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/is3brPNcZyXfwrhO.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/is3brPNcZyXfwrhO.jpg"/></item>
+2025 年 9 月 29 日 NVIDIA GeForce RTX…</p><p><img src="https://www.techpowerup.com/img/is3brPNcZyXfwrhO.jpg" alt="NVIDIA RTX 50 シリーズの中央価格は 8 月に最大 41% に上昇、メーカー希望小売価格は今や遠い夢"></p>]]></description><source url="https://www.techpowerup.com/351508/nvidia-rtx-50-series-median-prices-jump-up-to-41-in-august-with-msrp-now-a-distant-dream">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/is3brPNcZyXfwrhO.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/is3brPNcZyXfwrhO.jpg"/></item>
 <item><title>NVIDIA RTX 50 シリーズの価格は 8 月に最大 39% に上昇、メーカー希望小売価格は今や遠い夢</title><link>https://www.techpowerup.com/351508/nvidia-rtx-50-series-prices-jump-up-to-39-in-august-with-msrp-now-a-distant-dream</link><guid isPermaLink="true">https://www.techpowerup.com/351508/nvidia-rtx-50-series-prices-jump-up-to-39-in-august-with-msrp-now-a-distant-dream</guid><pubDate>Tue, 11 Aug 2026 09:42:29 +0000</pubDate><description><![CDATA[<p>NVIDIA RTX 50 シリーズの価格は 8 月に最大 39% に上昇、メーカー希望小売価格は今や遠い夢
 
 NVIDIA の GeForce RTX 50 シリーズの「Blackwell」グラフィックス カードは、過去数か月間で大幅な価格上昇が見られ、特に 7 月から 8 月にかけての値上がりが顕著でした。米国最大のコンピュータ ハードウェア小売店の 1 つである Newegg に、顕著な変化がありました...
@@ -806,6 +951,29 @@ NVIDIA RTX 50 シリーズの価格は 8 月に最大 39% に上昇、メーカ�
 2026 年 5 月 27 日 リーカーが天文学的な蒸気機械の価格を示唆 (74)
 
 2025 年 9 月 29 日 NVIDIA GeForce RTX 50 …</p><p><img src="https://www.techpowerup.com/img/is3brPNcZyXfwrhO.jpg" alt="NVIDIA RTX 50 シリーズの価格は 8 月に最大 39% に上昇、メーカー希望小売価格は今や遠い夢"></p>]]></description><source url="https://www.techpowerup.com/351508/nvidia-rtx-50-series-prices-jump-up-to-39-in-august-with-msrp-now-a-distant-dream">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/is3brPNcZyXfwrhO.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/is3brPNcZyXfwrhO.jpg"/></item>
+<item><title>NVIDIA RTX 50 シリーズの中央価格は 8 月に最大 39% に上昇、メーカー希望小売価格は今や遠い夢</title><link>https://www.techpowerup.com/351508/nvidia-rtx-50-series-median-prices-jump-up-to-39-in-august-with-msrp-now-a-distant-dream</link><guid isPermaLink="true">https://www.techpowerup.com/351508/nvidia-rtx-50-series-median-prices-jump-up-to-39-in-august-with-msrp-now-a-distant-dream</guid><pubDate>Tue, 11 Aug 2026 09:42:29 +0000</pubDate><description><![CDATA[<p>NVIDIA RTX 50 シリーズの中央価格は 8 月に最大 39% に上昇、メーカー希望小売価格は今や遠い夢
+
+NVIDIA の GeForce RTX 50 シリーズの「Blackwell」グラフィックス カードは、過去数か月間で大幅な価格上昇が見られ、特に 7 月から 8 月にかけての値上がりが顕著でした。米国最大のコンピュータ ハードウェア小売店の 1 つである Newegg に、顕著な変化がありました...
+
+NVIDIA RTX 50 シリーズの中央価格は 8 月に最大 39% に上昇、メーカー希望小売価格は今や遠い夢
+
+2026 年 1 月 16 日 NVIDIA が GeForce RTX 5070 Ti の生産を終了、RTX 5060 Ti 16 GB Next (210) と伝えられる
+
+2026 年 3 月 30 日 NVIDIA が、RT パフォーマンスを大幅に向上させた Rubin ベースの GeForce RTX 60 シリーズをリリース (162)
+
+2025 年 9 月 10 日 NVIDIA GeForce RTX 50 シリーズ SUPER GPU が CES 2026 に登場する可能性 (69)
+
+2026 年 7 月 10 日 NVIDIA が GeForce RTX 5090 SE グラフィックス カードを準備 (161)
+
+2025 年 12 月 31 日 AI 業界の需要のおかげで、2026 年に 5000 ドルの RTX 5090 GPU が登場するとリークが予測 (124)
+
+2025 年 9 月 18 日 NVIDIA がインテルを 50 億ドル相当で買収、RTX iGPU が x86 に登場、株価は 25% 上昇 (256)
+
+2025 年 9 月 3 日 NVIDIA ディスクリート GPU 市場シェアの優位性が 94% に拡大、ノート レポート (237)
+
+2026 年 5 月 27 日 リーカーが天文学的な蒸気機械の価格を示唆 (74)
+
+2025 年 9 月 29 日 NVIDIA GeForce RTX…</p><p><img src="https://www.techpowerup.com/img/is3brPNcZyXfwrhO.jpg" alt="NVIDIA RTX 50 シリーズの中央価格は 8 月に最大 39% に上昇、メーカー希望小売価格は今や遠い夢"></p>]]></description><source url="https://www.techpowerup.com/351508/nvidia-rtx-50-series-median-prices-jump-up-to-39-in-august-with-msrp-now-a-distant-dream">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/is3brPNcZyXfwrhO.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/is3brPNcZyXfwrhO.jpg"/></item>
 <item><title>iPhone では想像できない、私が Pixel で定期的に行っている 6 つのこと</title><link>https://www.androidauthority.com/regular-pixel-features-not-possible-iphone-3694392/</link><guid isPermaLink="true">https://www.androidauthority.com/regular-pixel-features-not-possible-iphone-3694392/</guid><pubDate>Tue, 11 Aug 2026 09:30:41 +0000</pubDate><description><![CDATA[<p>iPhone では想像できない、私が Pixel で定期的に行っている 6 つのこと
 
 Google の Pixel スマートフォンを当然のことと考えるのは簡単です。しかし、最も単純な機能でさえ iPhone を赤面させるでしょう。
@@ -1043,6 +1211,19 @@ Acemagic Retro X3 は、主にその象徴的なレトロなデザインによ�
 技術的には、Retro X3 は AMD Ryzen 7 255 を搭載した確かなスペックを提供します。CPU は日常的に優れたパフォーマンスを提供し、統合された Radeon 780M はこのパフォーマンス クラスの iGPU としてはまともなグラフィックス パフォーマンスを提供します。このため、ミニ PC は一般的なオフィスやマルチメディアのタスクだけでなく、時折のゲーム、特に古いレトロなタイトルにも適しています。 2 つの M.2 スロットにより、ストレージ容量を柔軟に拡張できます。
 
 良い (77%) Acemagic Retro X3 AMD Ryzen 7 255 AMD Radeon 780M Mini PC - 08/10/2026 - v8 テスト デバイスは Acemagic 提供 ライセンスされた評価画像を PNG / SVG としてダウンロード 保守性に関して言えば、Retro X3 にはさまざまなイメージがあります。 SSD と Wi-Fi モジュールには、上部カ…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/Acemagic/Retro_X3/Retro_X3_1.jpg" alt="レトロなコンソールのようなミニ PC: 現在 639 ドルで販売中 – Acemagic Retro X3 レビュー"></p>]]></description><source url="https://www.notebookcheck.net/A-mini-PC-Like-a-retro-console-Currently-on-sale-for-639-Acemagic-Retro-X3-review.1364934.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/Acemagic/Retro_X3/Retro_X3_1.jpg" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/Acemagic/Retro_X3/Retro_X3_1.jpg"/></item>
+<item><title>レトロなコンソールのようなミニ PC: 現在 639 ドルで販売中 – Acemagic Retro X3 レビュー</title><link>https://www.notebookcheck.net/A-mini-PC-like-a-retro-console-Currently-on-sale-for-639-Acemagic-Retro-X3-review.1364934.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/A-mini-PC-like-a-retro-console-Currently-on-sale-for-639-Acemagic-Retro-X3-review.1364934.0.html</guid><pubDate>Tue, 11 Aug 2026 07:00:00 +0000</pubDate><description><![CDATA[<p>レトロなコンソールのようなミニ PC: 現在 639 ドルで販売中 – Acemagic Retro X3 レビュー
+
+Acemagic Retro X3 は、象徴的なレトロなデザインと AMD Ryzen 7 255 および Radeon 780M を組み合わせています。このレビューでは、この珍しいミニ PC のパフォーマンス、冷却、ノイズ レベル、効率、アップグレード可能性をテストします。
+
+レトロコンソールのようなミニ PC: 639 ドルで販売中 – Acemagic Retro X3 レビュー – Notebookcheck レビュー ▼
+
+評決: レトロな魅力と最新の AMD パワー
+
+Acemagic Retro X3 は、主にその象徴的なレトロなデザインにより、競合製品よりも際立っているミニ PC です。クラシックなゲーム コンソールに似ているため、このコンピュータは高い認知度を獲得し、ミニ PC の典型的で汎用的な外観に代わる興味深い代替品となっています。
+
+技術的には、Retro X3 は AMD Ryzen 7 255 を搭載した確かなスペックを提供します。CPU は日常的に優れたパフォーマンスを提供し、統合された Radeon 780M はこのパフォーマンス クラスの iGPU としてはまともなグラフィックス パフォーマンスを提供します。このため、ミニ PC は一般的なオフィスやマルチメディアのタスクだけでなく、時折のゲーム、特に古いレトロなタイトルにも適しています。 2 つの M.2 スロットにより、ストレージ容量を柔軟に拡張できます。
+
+良い (77%) Acemagic Retro X3 AMD Ryzen 7 255 AMD Radeon 780M Mini PC - 08/10/2026 - v8 テスト デバイスは Acemagic 提供 ライセンスされた評価画像を PNG / SVG としてダウンロード 保守性に関して言えば、Retro X3 にはさまざまなイメージがあります。 SSD と Wi-Fi モジュールには、上部カバーとそ…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/Acemagic/Retro_X3/Retro_X3_1.jpg" alt="レトロなコンソールのようなミニ PC: 現在 639 ドルで販売中 – Acemagic Retro X3 レビュー"></p>]]></description><source url="https://www.notebookcheck.net/A-mini-PC-like-a-retro-console-Currently-on-sale-for-639-Acemagic-Retro-X3-review.1364934.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/Acemagic/Retro_X3/Retro_X3_1.jpg" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/Acemagic/Retro_X3/Retro_X3_1.jpg"/></item>
 <item><title>Wear OS スマートウォッチは間もなくトレーニング ルートをより正確に表示できるようになります</title><link>https://www.androidauthority.com/wear-os-workout-routes-google-play-services-update-3696760/</link><guid isPermaLink="true">https://www.androidauthority.com/wear-os-workout-routes-google-play-services-update-3696760/</guid><pubDate>Tue, 11 Aug 2026 06:32:18 +0000</pubDate><description><![CDATA[<p>Wear OS スマートウォッチは間もなくトレーニング ルートをより正確に表示できるようになります
 
 Google は、Wear OS スマートウォッチで表示されるワークアウト ルートを改善する Play Services の最新バージョンをリリースしました。
@@ -2724,21 +2905,6 @@ By Kazim Alvi 公開 2026 年 8 月 10 日、午前 8:00 EDT テクノロジー�
 LANポートがあればさらに良い
 
 私が最も驚いたのは、トラベル ルーターの機能の高さです。長い間、私はこれらのデバイスは比較的パワーが弱く、狭いスペースで使用するように設計されていると考えていました。なぜなら、これ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/travel-router-home-uses.png?w=1600&amp;h=900&amp;fit=crop" alt="最近初めてトラベルルーターを自宅で使ってみましたが、トラベルルーターが支持される理由が分かりました"></p>]]></description><source url="https://www.xda-developers.com/used-travel-router-at-home-now-understand-why-people-love-them/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/travel-router-home-uses.png?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/travel-router-home-uses.png?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>ハイパースケーラーは AI ハードウェアとメモリの安全確保に 2 兆ドル近くを投入 — Google が 8,110 億ドルの支出急増をリードする一方、Apple は 570 億ドルで後れをとっている</title><link>https://www.tomshardware.com/tech-industry/semiconductors/hyperscalers-commit-nearly-usd2-trillion-to-secure-ai-hardware-and-memory-google-leads-usd811-billion-spending-surge-while-apple-trails-at-usd57-billion</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/semiconductors/hyperscalers-commit-nearly-usd2-trillion-to-secure-ai-hardware-and-memory-google-leads-usd811-billion-spending-surge-while-apple-trails-at-usd57-billion</guid><pubDate>Mon, 10 Aug 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>ハイパースケーラーは AI ハードウェアとメモリの安全確保に 2 兆ドル近くを投入 — Google が 8,110 億ドルの支出急増をリードする一方、Apple は 570 億ドルで後れをとっている
-
-GoogleとMicrosoftが先頭に立っている。
-
-ハイパースケーラーは AI ハードウェアとメモリの安全確保に 2 兆ドル近くを投入 — Google が 8,110 億ドルの支出急増をリードする一方、Apple は 570 億ドルで後れをとっている
-
-GoogleとMicrosoftが先頭に立っている。
-
-(画像クレジット: Micron) リンクをコピーして共有
-
-フォローしてください Google ニュースレターの優先ソースとして追加してください ニュースレターを購読してください Apple はかつて、固定価格での長期供給契約に基づいて数十億ドル相当のメモリやその他のコンポーネントを購入することに前向きな数少ない企業の 1 つでした。しかし、人工知能の時代は、新たな購買支持者による新たな現実を表しており、ハイテク世界の地殻変動を示しています。アナリストのクラウス・アスホルム氏の推定によると、アルファベット、マイクロソフト、メタ、アマゾンは総額約2兆ドルの購入契約を結んでいるが、これらの契約の大部分はメモリ向けだという。これらの約束は概算であり、何年にもわたるため、一般に割り引いて考える必要がありますが、依然として業界の進む方向を反映しています。
-
-グラフに示されている 4 つの主要ハイパースケーラー (Amazon、Alphabet、Meta、Microsoft) からの購入約束を合計すると、2026 年第 2 四半期までに 2 兆ドル近くに達し、Alphabet と Microsoft が総額の圧倒的多数を占めています。
-
-急速な拡大は、いくつかの重要な発見を示唆しています。まず、AI インフラストラクチャの競争は安定するどころか、加速しています。第二に、AI インフラストラクチャへの投資は、一握りのハイパースケール クラウド サービス プロバイダー (C…</p><p><img src="https://cdn.mos.cms.futurecdn.net/gEU6zYwUfEZmF4NMheNezJ-2560-80.jpg" alt="ハイパースケーラーは AI ハードウェアとメモリの安全確保に 2 兆ドル近くを投入 — Google が 8,110 億ドルの支出急増をリードする一方、Apple は 570 億ドルで後れをとっている"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/semiconductors/hyperscalers-commit-nearly-usd2-trillion-to-secure-ai-hardware-and-memory-google-leads-usd811-billion-spending-surge-while-apple-trails-at-usd57-billion">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/gEU6zYwUfEZmF4NMheNezJ-2560-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/gEU6zYwUfEZmF4NMheNezJ-2560-80.jpg"/></item>
 <item><title>GeForce NOW エクスプロイトにより、単純なファイル スワップを通じて完全な Windows デスクトップにアクセスできるようになります — Modder は 48GB の VRAM を備えた Ultimate ティアで制限なしでローカル AI モデルを実行します</title><link>https://www.tomshardware.com/service-providers/streaming/geforce-now-exploit-lets-you-access-the-full-windows-desktop-through-a-simple-file-swap-modder-runs-local-ai-models-on-ultimate-tier-with-48gb-of-vram-and-no-restrictions</link><guid isPermaLink="true">https://www.tomshardware.com/service-providers/streaming/geforce-now-exploit-lets-you-access-the-full-windows-desktop-through-a-simple-file-swap-modder-runs-local-ai-models-on-ultimate-tier-with-48gb-of-vram-and-no-restrictions</guid><pubDate>Mon, 10 Aug 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>GeForce NOW エクスプロイトにより、単純なファイル スワップを通じて完全な Windows デスクトップにアクセスできるようになります — Modder は 48GB の VRAM を備えた Ultimate ティアで制限なしでローカル AI モデルを実行します
 
 GeForce NOW サブスクリプションでゲームをプレイするだけではありません。
@@ -2754,6 +2920,21 @@ GeForce NOW サブスクリプションでゲームをプレイするだけで�
 Ultimate Tier の GeForce NOWGemma 4 31B (41 TPS) 上の LM Studio pic.twitter.com/kspmKmunFl 2026 年 8 月 7 日
 
 ちなみに、GeForce NOW はゲーム専用です。 Nvidia は、たとえば Shadow PC…</p><p><img src="https://cdn.mos.cms.futurecdn.net/o8QHDsy25pZHA59RNRBtra-2560-80.png" alt="GeForce NOW エクスプロイトにより、単純なファイル スワップを通じて完全な Windows デスクトップにアクセスできるようになります — Modder は 48GB の VRAM を備えた Ultimate ティアで制限なしでローカル AI モデルを実行します"></p>]]></description><source url="https://www.tomshardware.com/service-providers/streaming/geforce-now-exploit-lets-you-access-the-full-windows-desktop-through-a-simple-file-swap-modder-runs-local-ai-models-on-ultimate-tier-with-48gb-of-vram-and-no-restrictions">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/o8QHDsy25pZHA59RNRBtra-2560-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/o8QHDsy25pZHA59RNRBtra-2560-80.png"/></item>
+<item><title>ハイパースケーラーは AI ハードウェアとメモリの安全確保に 2 兆ドル近くを投入 — Google が 8,110 億ドルの支出急増をリードする一方、Apple は 570 億ドルで後れをとっている</title><link>https://www.tomshardware.com/tech-industry/semiconductors/hyperscalers-commit-nearly-usd2-trillion-to-secure-ai-hardware-and-memory-google-leads-usd811-billion-spending-surge-while-apple-trails-at-usd57-billion</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/semiconductors/hyperscalers-commit-nearly-usd2-trillion-to-secure-ai-hardware-and-memory-google-leads-usd811-billion-spending-surge-while-apple-trails-at-usd57-billion</guid><pubDate>Mon, 10 Aug 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>ハイパースケーラーは AI ハードウェアとメモリの安全確保に 2 兆ドル近くを投入 — Google が 8,110 億ドルの支出急増をリードする一方、Apple は 570 億ドルで後れをとっている
+
+GoogleとMicrosoftが先頭に立っている。
+
+ハイパースケーラーは AI ハードウェアとメモリの安全確保に 2 兆ドル近くを投入 — Google が 8,110 億ドルの支出急増をリードする一方、Apple は 570 億ドルで後れをとっている
+
+GoogleとMicrosoftが先頭に立っている。
+
+(画像クレジット: Micron) リンクをコピーして共有
+
+フォローしてください Google ニュースレターの優先ソースとして追加してください ニュースレターを購読してください Apple はかつて、固定価格での長期供給契約に基づいて数十億ドル相当のメモリやその他のコンポーネントを購入することに前向きな数少ない企業の 1 つでした。しかし、人工知能の時代は、新たな購買支持者による新たな現実を表しており、ハイテク世界の地殻変動を示しています。アナリストのクラウス・アスホルム氏の推定によると、アルファベット、マイクロソフト、メタ、アマゾンは総額約2兆ドルの購入契約を結んでいるが、これらの契約の大部分はメモリ向けだという。これらの約束は概算であり、何年にもわたるため、一般に割り引いて考える必要がありますが、依然として業界の進む方向を反映しています。
+
+グラフに示されている 4 つの主要ハイパースケーラー (Amazon、Alphabet、Meta、Microsoft) からの購入約束を合計すると、2026 年第 2 四半期までに 2 兆ドル近くに達し、Alphabet と Microsoft が総額の圧倒的多数を占めています。
+
+急速な拡大は、いくつかの重要な発見を示唆しています。まず、AI インフラストラクチャの競争は安定するどころか、加速しています。第二に、AI インフラストラクチャへの投資は、一握りのハイパースケール クラウド サービス プロバイダー (C…</p><p><img src="https://cdn.mos.cms.futurecdn.net/gEU6zYwUfEZmF4NMheNezJ-2560-80.jpg" alt="ハイパースケーラーは AI ハードウェアとメモリの安全確保に 2 兆ドル近くを投入 — Google が 8,110 億ドルの支出急増をリードする一方、Apple は 570 億ドルで後れをとっている"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/semiconductors/hyperscalers-commit-nearly-usd2-trillion-to-secure-ai-hardware-and-memory-google-leads-usd811-billion-spending-surge-while-apple-trails-at-usd57-billion">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/gEU6zYwUfEZmF4NMheNezJ-2560-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/gEU6zYwUfEZmF4NMheNezJ-2560-80.jpg"/></item>
 <item><title>Steam ハードウェア販売代理店がサイバー攻撃に見舞われ、「偽メッセージが予想される」と Valve が警告 — ヨーロッパのベンダーが個人情報とハードウェア購入の詳細情報を盗まれる</title><link>https://www.tomshardware.com/tech-industry/cyber-security/steam-hardware-distributor-hit-by-cyberattack-expect-fake-messages-valve-warns-europe-vendor-has-personal-information-and-hardware-purchase-details-stolen</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/cyber-security/steam-hardware-distributor-hit-by-cyberattack-expect-fake-messages-valve-warns-europe-vendor-has-personal-information-and-hardware-purchase-details-stolen</guid><pubDate>Mon, 10 Aug 2026 11:49:06 +0000</pubDate><description><![CDATA[<p>Steam ハードウェア販売代理店がサイバー攻撃に見舞われ、「偽メッセージが予想される」と Valve が警告 — ヨーロッパのベンダーが個人情報とハードウェア購入の詳細情報を盗まれる
 
 過去 100 日ほどの購入者は、標的型フィッシングに特に注意する必要があります。
@@ -4161,6 +4342,15 @@ By Adam Conway 公開 2026 年 8 月 9 日、午前 7 時 30分 EDT 私はアダ
 Crucial/Micronは消費者向け営業を終了した後、生涯保証を拒否し、市場価値の17%を提供し、r/pcmasterraceから動作するハードウェアを維持します
 
 Tom&#39;s Hardware との電子メールのやり取りを共有した Redditor Key_Tailor6948 は、最近、48GB (2x24GB) DDR5 メモリ キットのメモリ…</p><p><img src="https://cdn.mos.cms.futurecdn.net/Kmba422TadpNgFayHYQVLJ-1920-80.jpg" alt="伝えられるところによると、Micron は Crucial RAM の返品に 1 ドルを提示し、市場価値の 37% に過ぎないにもかかわらず、元のメーカー希望小売価格の払い戻しのみを提案している — チップメーカーはその後、より良いソリューションで方針を転換"></p>]]></description><source url="https://www.tomshardware.com/pc-components/ram/micron-reportedly-offers-pennies-on-the-dollar-for-crucial-ram-return-only-offers-to-reimburse-original-msrp-despite-it-being-only-37-percent-of-market-value-chipmaker-later-reverses-course-with-a-better-solution">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/Kmba422TadpNgFayHYQVLJ-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/Kmba422TadpNgFayHYQVLJ-1920-80.jpg"/></item>
+<item><title>圧縮空気を使用して 3D プリントチューブを連続的に押し出す</title><link>https://hackaday.com/2026/08/09/continously-extruding-3d-printed-tubes-with-compressed-air/</link><guid isPermaLink="true">https://hackaday.com/2026/08/09/continously-extruding-3d-printed-tubes-with-compressed-air/</guid><pubDate>Sun, 09 Aug 2026 11:00:50 +0000</pubDate><description><![CDATA[<p>圧縮空気を使用して 3D プリントチューブを連続的に押し出す
+
+[Roetz 4.0] の [Jan] は、マルチマテリアル 3D プリンティングに対する独自のアプローチを持っています。彼は 2 つの異なる材料を使用し、一方をもう一方の周りのシェルとして押し出す押出機を設計しました。これにより、次のことが開きます…
+
+[Roetz 4.0] の [Jan] は、マルチマテリアル 3D プリンティングに対する独自のアプローチを持っています。彼は 2 つの異なる材料を使用し、一方をもう一方の周りのシェルとして押し出す押出機を設計しました。これにより、絶縁シェルで囲まれた導電性フィラメントなど、いくつかの興味深い可能性が開かれます。しかし、[Jan] はこのプロセスをすぐに使用することができなかったため、圧縮空気コアを使用してプラスチック チューブを押し出す関連技術に移りました。
+
+彼がこれに使用した押出機は、二重材料押出機のバリエーションでした。 2 本のフィラメントを取り込んで溶かし、高精度の圧力調整器によって制御される圧縮空気ラインの出口の周りにシェルとして押し出します。 PLA を使用したテストでは、気密なフィラメントのチューブを押し出すことができるように見えましたが、気泡が発生し、直径が一定でないチューブを形成する傾向がありました。ステンレス鋼押出機の熱伝導率が低いことにも問題があることが判明しました。圧縮空気の冷却効果と相まって、フィラメントが押出機内で固化する場合があります。
+
+[Jan] は、圧力ベースの制御のみを使用して一貫した結果を得るのはほぼ不可能であることに気づきました。空気の周囲の溶融プラスチックの層が薄くなるにつれて、さらなるバルーン化に対する抵抗が小さくなり、バブルが破裂するまで継続的に膨張します。押し出される空気の量を制御すると、より一貫した結果が得られ、2 番目のビデオ で、彼はまさにそれを行うための蠕動ポンプを構築しました。また、TPU フィラメントの使用に切り替え、層の密着性が大幅に向上しました。圧縮空気で膨張させると、完成した TPU …</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/air_co-extrusion.png" alt="圧縮空気を使用して 3D プリントチューブを連続的に押し出す"></p>]]></description><source url="https://hackaday.com/2026/08/09/continously-extruding-3d-printed-tubes-with-compressed-air/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/air_co-extrusion.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/air_co-extrusion.png"/></item>
 <item><title>NotebookLM の定期ユーザーとして、Gemini Notebook に求める 5 つの点を以下に示します。</title><link>https://www.androidauthority.com/gemini-notebook-features-wish-list-3694460/</link><guid isPermaLink="true">https://www.androidauthority.com/gemini-notebook-features-wish-list-3694460/</guid><pubDate>Sun, 09 Aug 2026 11:00:50 +0000</pubDate><description><![CDATA[<p>NotebookLM の定期ユーザーとして、Gemini Notebook に求める 5 つの点を以下に示します。
 
 私は Gemini Notebook (以前は NotebookLM として知られていたアプリ) が好きですが、これら 5 つの機能があればさらに良くなると思います。
@@ -4178,15 +4368,6 @@ NotebookLM の定期ユーザーとして、Gemini Notebook に求める 5 つ�
 Gemini Notebook のどの機能の可能性が最優先に選択されますか?
 
 Shimul Sood / Android Authority 多くの場合、1 つのノートブックで十分ですが、特定のプロジェクトでは…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/Gemini-Notebook-app-opened-on-Galaxy-Z-Fold-8-Ultra.jpg" alt="NotebookLM の定期ユーザーとして、Gemini Notebook に求める 5 つの点を以下に示します。"></p>]]></description><source url="https://www.androidauthority.com/gemini-notebook-features-wish-list-3694460/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/Gemini-Notebook-app-opened-on-Galaxy-Z-Fold-8-Ultra.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/Gemini-Notebook-app-opened-on-Galaxy-Z-Fold-8-Ultra.jpg"/></item>
-<item><title>圧縮空気を使用して 3D プリントチューブを連続的に押し出す</title><link>https://hackaday.com/2026/08/09/continously-extruding-3d-printed-tubes-with-compressed-air/</link><guid isPermaLink="true">https://hackaday.com/2026/08/09/continously-extruding-3d-printed-tubes-with-compressed-air/</guid><pubDate>Sun, 09 Aug 2026 11:00:50 +0000</pubDate><description><![CDATA[<p>圧縮空気を使用して 3D プリントチューブを連続的に押し出す
-
-[Roetz 4.0] の [Jan] は、マルチマテリアル 3D プリンティングに対する独自のアプローチを持っています。彼は 2 つの異なる材料を使用し、一方をもう一方の周りのシェルとして押し出す押出機を設計しました。これにより、次のことが開きます…
-
-[Roetz 4.0] の [Jan] は、マルチマテリアル 3D プリンティングに対する独自のアプローチを持っています。彼は 2 つの異なる材料を使用し、一方をもう一方の周りのシェルとして押し出す押出機を設計しました。これにより、絶縁シェルで囲まれた導電性フィラメントなど、いくつかの興味深い可能性が開かれます。しかし、[Jan] はこのプロセスをすぐに使用することができなかったため、圧縮空気コアを使用してプラスチック チューブを押し出す関連技術に移りました。
-
-彼がこれに使用した押出機は、二重材料押出機のバリエーションでした。 2 本のフィラメントを取り込んで溶かし、高精度の圧力調整器によって制御される圧縮空気ラインの出口の周りにシェルとして押し出します。 PLA を使用したテストでは、気密なフィラメントのチューブを押し出すことができるように見えましたが、気泡が発生し、直径が一定でないチューブを形成する傾向がありました。ステンレス鋼押出機の熱伝導率が低いことにも問題があることが判明しました。圧縮空気の冷却効果と相まって、フィラメントが押出機内で固化する場合があります。
-
-[Jan] は、圧力ベースの制御のみを使用して一貫した結果を得るのはほぼ不可能であることに気づきました。空気の周囲の溶融プラスチックの層が薄くなるにつれて、さらなるバルーン化に対する抵抗が小さくなり、バブルが破裂するまで継続的に膨張します。押し出される空気の量を制御すると、より一貫した結果が得られ、2 番目のビデオ で、彼はまさにそれを行うための蠕動ポンプを構築しました。また、TPU フィラメントの使用に切り替え、層の密着性が大幅に向上しました。圧縮空気で膨張させると、完成した TPU …</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/air_co-extrusion.png" alt="圧縮空気を使用して 3D プリントチューブを連続的に押し出す"></p>]]></description><source url="https://hackaday.com/2026/08/09/continously-extruding-3d-printed-tubes-with-compressed-air/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/air_co-extrusion.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/air_co-extrusion.png"/></item>
 <item><title>Epomaker が GX1 オープンバック ワイヤレス ヘッドセットでオーディオに参入</title><link>https://www.kitguru.net/peripherals/headphones/joao-silva/epomaker-gets-into-audio-with-the-gx1-open-back-wireless-headset/</link><guid isPermaLink="true">https://www.kitguru.net/peripherals/headphones/joao-silva/epomaker-gets-into-audio-with-the-gx1-open-back-wireless-headset/</guid><pubDate>Sun, 09 Aug 2026 11:00:33 +0000</pubDate><description><![CDATA[<p>Epomaker が GX1 オープンバック ワイヤレス ヘッドセットでオーディオに参入
 
 Epomaker は、同社初のオーディオ製品である GX1 ワイヤレス ゲーミング ヘッドセットを正式に発売しました。現在入手可能なこのオープンバック ヘッドセットは、トライモード接続、50mm ダイナミック ドライバー、7.1 サラウンド サウンドのサポート、および環境ノイズ キャンセリングを備えたデュアル マイク設計を備えています。 GX1 はオープンバック イヤーカップ デザインを採用していますが、これはゲーム ヘッドセットの分野ではあまり一般的ではありません。ただし、これは
@@ -5223,17 +5404,6 @@ Pixel 10 はすでに Pixel 9 に対する大幅なアップグレードだっ�
 以下に完全なビデオを埋め込みました。[Jeff] による 2 台のラップトップの比較レビューが含まれています。 Mac は iGPU とサウンドで勝利し、Windows を搭載していないのに対し、Dell は Linux をロードできることとバックライト付きキーボードを備えていることでポイントを獲得しています。しかし、私たちが期待していた数値は効率です。結局のところ、少ないワット数でギガフロップスを生み出す ARM の能力が、ARM をモバイル市場で勝ち取り、そもそも Apple がそのアーキテクチャに興味を持つようになったのです。インテルが追いついたとしたら、それはニュースだ。
 
 [Jeff] のバージョンの Top500 ベンチマーク (スーパーコンピューターで使用されるのと同じ HPL Linpak テスト) では、MacBook は 10.6W で 57.012 Gflops (5.38 Gflops/W) を記録しましたが、Dell は 20.6W で 127.91 Gflops (6.21 Gflops/W) を記録しました。過去のデータがすべて逆の方向に進んでいることを考えると、これは驚くべきことです。この Dell は、M4 と M3 Mac Studio の両方を上回っていますが、7.57 Gflops/W で M4 Mac Mini に負けただけ…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/XPS-v-Neo-Jeff-feat.jpg" alt="エネルギー効率を高めたいですか?おい、あなたはデルを手に入れたのだ!"></p>]]></description><source url="https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/XPS-v-Neo-Jeff-feat.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/XPS-v-Neo-Jeff-feat.jpg"/></item>
-<item><title>モバパッド M12S: オリジナルの Switch 2 Joy-Con よりも優れている?</title><link>https://www.notebookcheck.net/Mobapad-M12S-Better-than-the-original-Switch-2-Joy-Cons.1362612.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/Mobapad-M12S-Better-than-the-original-Switch-2-Joy-Cons.1362612.0.html</guid><pubDate>Sat, 08 Aug 2026 07:44:00 +0000</pubDate><description><![CDATA[<p>モバパッド M12S: オリジナルの Switch 2 Joy-Con よりも優れている?
-
-ここでテストされた M12HD と M12S により、Mobapad は任天堂のオリジナル Joy-Con の代替品を提供します。何が優れているのか、どこに改善の余地があるのか​​? Mobapad M12S Joy-Con をいくつかのゲームでテストしています。
-
-モバパッドM12S Joy-Conは良いですか？
-
-さまざまなゲームで広範なテストを行った結果、Mobapad の M12S Joy-Con は任天堂のオリジナル Joy-Con の優れた代替品であると言えます。純正品は狭くて小さく感じられ、時間が経つと疲れやすくなることがありますが、これらのサードパーティ製 Joy-Con は、グリップが大幅に向上し、TMR テクノロジーのおかげでドリフトの問題のないジョイスティックを提供し、Switch 2 プロトコルの使用により、純正品と同様の機能 (主な機能: スタンバイ中にドック モードで充電) を提供します。現在では、Nyxi Hyperion 3 など、他の代替製品も利用可能であり、今後さらに多くの製品が登場する可能性があります。より優れたグリップを備えた代替品を探している場合は、通常、M12S を選択すれば間違いありません。唯一の問題は、私の大きな手では右スティックに手が届きにくいことでした。そのため、M12S は完全な Joy-Con の代替品とは言えません。時間の経過とともにグリップには慣れますが、Steam Deck または PS5 でプレイしたことのある人なら、ボタン レイアウトがいかに快適であるかがわかるでしょう。 HD ランブルなしではいられない、または Amiibo を頻繁に使用する場合は、おそらく M12S には満足できないでしょうが、同じメーカーの代替品が M12HD にあります。
-
-Mobapad M12S コントローラーは可用性が良好です
-
-Mobapad は、M12S Joy-Con の代替品を独自の Web サイトで直接提供しています。 J…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/Samsung/Galaxy_S26/Mobapad_M12S_Title.jpg" alt="モバパッド M12S: オリジナルの Switch 2 Joy-Con よりも優れている?"></p>]]></description><source url="https://www.notebookcheck.net/Mobapad-M12S-Better-than-the-original-Switch-2-Joy-Cons.1362612.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/Samsung/Galaxy_S26/Mobapad_M12S_Title.jpg" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/Samsung/Galaxy_S26/Mobapad_M12S_Title.jpg"/></item>
 <item><title>Mobapad M12S: オリジナルの Switch 2 Joy-Con よりも優れている?</title><link>https://www.notebookcheck.net/Mobapad-M12S-Better-than-the-Original-Switch-2-Joy-Cons.1362612.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/Mobapad-M12S-Better-than-the-Original-Switch-2-Joy-Cons.1362612.0.html</guid><pubDate>Sat, 08 Aug 2026 07:44:00 +0000</pubDate><description><![CDATA[<p>Mobapad M12S: オリジナルの Switch 2 Joy-Con よりも優れている?
 
 ここでテストされた M12HD と M12S により、Mobapad は任天堂のオリジナル Joy-Con の代替品を提供します。何が優れているのか、どこに改善の余地があるのか​​? Mobapad M12S Joy-Con をいくつかのゲームでテストしています。
@@ -5245,6 +5415,17 @@ Mobapad は、M12S Joy-Con の代替品を独自の Web サイトで直接提供
 Mobapad M12S コントローラーはここから入手できます
 
 Mobapad は、M12S Joy-Con の代替品を独自の Web サイトで直接提供していま…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/Samsung/Galaxy_S26/Mobapad_M12S_Title.jpg" alt="Mobapad M12S: オリジナルの Switch 2 Joy-Con よりも優れている?"></p>]]></description><source url="https://www.notebookcheck.net/Mobapad-M12S-Better-than-the-Original-Switch-2-Joy-Cons.1362612.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/Samsung/Galaxy_S26/Mobapad_M12S_Title.jpg" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/Samsung/Galaxy_S26/Mobapad_M12S_Title.jpg"/></item>
+<item><title>モバパッド M12S: オリジナルの Switch 2 Joy-Con よりも優れている?</title><link>https://www.notebookcheck.net/Mobapad-M12S-Better-than-the-original-Switch-2-Joy-Cons.1362612.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/Mobapad-M12S-Better-than-the-original-Switch-2-Joy-Cons.1362612.0.html</guid><pubDate>Sat, 08 Aug 2026 07:44:00 +0000</pubDate><description><![CDATA[<p>モバパッド M12S: オリジナルの Switch 2 Joy-Con よりも優れている?
+
+ここでテストされた M12HD と M12S により、Mobapad は任天堂のオリジナル Joy-Con の代替品を提供します。何が優れているのか、どこに改善の余地があるのか​​? Mobapad M12S Joy-Con をいくつかのゲームでテストしています。
+
+モバパッドM12S Joy-Conは良いですか？
+
+さまざまなゲームで広範なテストを行った結果、Mobapad の M12S Joy-Con は任天堂のオリジナル Joy-Con の優れた代替品であると言えます。純正品は狭くて小さく感じられ、時間が経つと疲れやすくなることがありますが、これらのサードパーティ製 Joy-Con は、グリップが大幅に向上し、TMR テクノロジーのおかげでドリフトの問題のないジョイスティックを提供し、Switch 2 プロトコルの使用により、純正品と同様の機能 (主な機能: スタンバイ中にドック モードで充電) を提供します。現在では、Nyxi Hyperion 3 など、他の代替製品も利用可能であり、今後さらに多くの製品が登場する可能性があります。より優れたグリップを備えた代替品を探している場合は、通常、M12S を選択すれば間違いありません。唯一の問題は、私の大きな手では右スティックに手が届きにくいことでした。そのため、M12S は完全な Joy-Con の代替品とは言えません。時間の経過とともにグリップには慣れますが、Steam Deck または PS5 でプレイしたことのある人なら、ボタン レイアウトがいかに快適であるかがわかるでしょう。 HD ランブルなしではいられない、または Amiibo を頻繁に使用する場合は、おそらく M12S には満足できないでしょうが、同じメーカーの代替品が M12HD にあります。
+
+Mobapad M12S コントローラーは可用性が良好です
+
+Mobapad は、M12S Joy-Con の代替品を独自の Web サイトで直接提供しています。 J…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/Samsung/Galaxy_S26/Mobapad_M12S_Title.jpg" alt="モバパッド M12S: オリジナルの Switch 2 Joy-Con よりも優れている?"></p>]]></description><source url="https://www.notebookcheck.net/Mobapad-M12S-Better-than-the-original-Switch-2-Joy-Cons.1362612.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/Samsung/Galaxy_S26/Mobapad_M12S_Title.jpg" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/Samsung/Galaxy_S26/Mobapad_M12S_Title.jpg"/></item>
 <item><title>誰かが独自の e-ink ウォッチを構築しました。20 を超えるカスタム フェイスが搭載されています</title><link>https://www.xda-developers.com/someone-built-their-own-e-ink-watch-and-it-features-20-custom-faces/</link><guid isPermaLink="true">https://www.xda-developers.com/someone-built-their-own-e-ink-watch-and-it-features-20-custom-faces/</guid><pubDate>Sat, 08 Aug 2026 07:17:00 +0000</pubDate><description><![CDATA[<p>誰かが独自の e-ink ウォッチを構築しました。20 を超えるカスタム フェイスが搭載されています
 
 時間を確認するのがこれほど便利なことはありません。
@@ -6435,187 +6616,4 @@ Apple は 20 年前の今日、最初の Mac Pro を発表しました。Intel X
 読者の皆さんは、「ゴミ箱」や「チーズおろし器」のような Intel 時代の Mac Pro コンピュータを最も鮮明に、そして懐かしくさえ覚えているかもしれませんが、x86 チップを搭載した最初の Mac Pro は、その祖先である G5 とほぼ同じに見えました。
 
 もちろん、Apple WWDC のプレゼンテーションはすべて…</p><p><img src="https://cdn.mos.cms.futurecdn.net/ZVNdV4gipweVarKFpgx2pU-1280-80.png" alt="Apple は 20 年前の今日、最初の Mac Pro を発表しました。Intel Xeon 搭載の主力デスクトップは Power Mac G5 から引き継がれました。"></p>]]></description><source url="https://www.tomshardware.com/desktops/apple-revealed-the-first-mac-pro-20-years-ago-today-its-intel-xeon-powered-flagship-desktop-took-the-reins-from-the-power-mac-g5">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/ZVNdV4gipweVarKFpgx2pU-1280-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/ZVNdV4gipweVarKFpgx2pU-1280-80.png"/></item>
-<item><title>Robocopy は今でも Windows 上で何千ものファイルをコピーする最速の方法ですが、私はこれを使わずに何年も無駄にしました</title><link>https://www.xda-developers.com/robocopy-is-the-fastest-way-to-copy-thousands-of-files-on-windows/</link><guid isPermaLink="true">https://www.xda-developers.com/robocopy-is-the-fastest-way-to-copy-thousands-of-files-on-windows/</guid><pubDate>Fri, 07 Aug 2026 11:30:10 +0000</pubDate><description><![CDATA[<p>Robocopy は今でも Windows 上で何千ものファイルをコピーする最速の方法ですが、私はこれを使わずに何年も無駄にしました
-
-Robocopy の隠れた能力を発見してください。Robocopy は、超高速のファイル コピーとコピー セッションのより優れた制御を提供する CLI ツールです。
-
-Robocopy は今でも Windows 上で何千ものファイルをコピーする最速の方法ですが、私はこれを使わずに何年も無駄にしました
-
-By Abhishek Kumar Mishra 公開 2026 年 8 月 7 日、午前 7:30 EDT アビシェクは、コンピューティングをカバーする XDA の著者です。 2012 年に Lenovo G570 を購入して以来、彼はコンピューターが大好きです。アビシェクはコンピューター アプリケーションの修士号を取得し、2018 年に執筆活動を始めました。人気のあるオペレーティング システムや Web サービスに関するハウツー記事、リスト、情報投稿を書くのが大好きです。彼は Windows Insider プログラムを注意深くフォローし、新しい Insider ビルドをテストして、今後の実験的な機能やアップグレードを発見します。彼のこれまでの仕事には、「Tom&#39;s Hardware」や「Windows Most」などの評判の高い出版物との長期にわたるコラボレーションが含まれます。何も書いていないときは、ワンピースの新しいエピソードを見たり、夢中になれる何かを探したりして忙しいです。 XDA アカウントにサインインします。 Windows は、CLI ツールと GUI ツールの両方がバンドルされています。 GUI は幅広いユースケースに対応し、使いやすいため、私たちは GUI をよく使用します。ファイルのコピーと移動については、通常の Ctrl + C と V 、およびコンテキスト メニューの画面上のコピー アンド ペースト オプション以外にはあまり冒険していませんでした。このオプションは複数のファイルや大きなファイルに対して適切に機…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/robocopy-windows.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Robocopy は今でも Windows 上で何千ものファイルをコピーする最速の方法ですが、私はこれを使わずに何年も無駄にしました"></p>]]></description><source url="https://www.xda-developers.com/robocopy-is-the-fastest-way-to-copy-thousands-of-files-on-windows/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/robocopy-windows.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/robocopy-windows.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>Cale Loveridge&#39;s MiniPin Pinball Machines Are Printable on Almost Any 3D Printer — With One Spool</title><link>https://www.hackster.io/news/cale-loveridge-s-minipin-pinball-machines-are-printable-on-almost-any-3d-printer-with-one-spool-7d19bb42900b</link><guid isPermaLink="true">https://www.hackster.io/news/cale-loveridge-s-minipin-pinball-machines-are-printable-on-almost-any-3d-printer-with-one-spool-7d19bb42900b</guid><pubDate>Fri, 07 Aug 2026 11:25:47 +0000</pubDate><description><![CDATA[<p>Cale Loveridge&#39;s MiniPin Pinball Machines Are Printable on Almost Any 3D Printer — With One Spool</p>]]></description><source url="https://www.hackster.io/news/cale-loveridge-s-minipin-pinball-machines-are-printable-on-almost-any-3d-printer-with-one-spool-7d19bb42900b">Hackster.io</source></item>
-<item><title>(PR) Attack Shark、F1 AIR 39g フラッグシップ ゲーミング マウスを発表</title><link>https://www.techpowerup.com/351425/attack-shark-unveils-the-f1-air-39g-flagship-gaming-mouse</link><guid isPermaLink="true">https://www.techpowerup.com/351425/attack-shark-unveils-the-f1-air-39g-flagship-gaming-mouse</guid><pubDate>Fri, 07 Aug 2026 11:24:13 +0000</pubDate><description><![CDATA[<p>(PR) Attack Shark、F1 AIR 39g フラッグシップ ゲーミング マウスを発表
-
-ゲーム周辺機器ブランドの Attack Shark は、トップレベルのパフォーマンス、応答性、精度を求める競争力のある e スポーツ プレーヤー向けに設計された新しい主力超軽量ゲーミング マウス、F1 AIR を近日発売することを発表しました。重量わずか 39 g (±3 g) の F1 AIR は、重量を最小限に抑えるように設計されています。
-
-Attack Shark が F1 AIR 39g フラッグシップ ゲーミング マウスを発表
-
-2026 年 7 月 14 日 Yunzii が M2 デュアル 8K カスタム ワイヤレス ゲーミング マウスを発売 (0)
-
-2026 年 7 月 3 日 Epomaker が NEX Pro ゲーミング マウスと HE65 V2 TMR キーボードを発売 (0)
-
-2026 年 7 月 13 日 ロジクール、第 2 世代 Superstrike 2 ゲーミング マウスを 9 月の発売に向けて準備中 (12)
-
-2026 年 8 月 4 日 OpenMouse: オープンソースのマウス コントロール パネルが Logitech HITS サポートを開始すると発表 (19)
-
-2025 年 8 月 26 日 Logitech MX Master 4 の価格と発売日のリーク (17)
-
-2026 年 4 月 23 日 タートルビーチ、PC ゲーミング キーボードとマウスのまったく新しいエコシステムであるコマンド シリーズを発表 (24)
-
-2026 年 7 月 10 日 Keychron、木製アクセントを備えた K5 Ultra 8K ロープロファイル メカニカル キーボードを発売 (15)
-
-2026 年 7 月 26 日 Keychron G6 HE プレビュー: 交換可能なバッテリーとオープンソース ファームウェアを備えた 46 g ワイヤレス ゲーミング マウス (8)
-
-2026 年 5 月 25 日 ATK X1 Air…</p><p><img src="https://www.techpowerup.com/img/AT3FEp6UHD8yxHAr.jpg" alt="(PR) Attack Shark、F1 AIR 39g フラッグシップ ゲーミング マウスを発表"></p>]]></description><source url="https://www.techpowerup.com/351425/attack-shark-unveils-the-f1-air-39g-flagship-gaming-mouse">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/AT3FEp6UHD8yxHAr.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/AT3FEp6UHD8yxHAr.jpg"/></item>
-<item><title>ARMSX3 が登場: Android での PS3 エミュレーションがさらにエキサイティングになりました</title><link>https://www.androidauthority.com/armsx3-ps3-emulator-android-3695792/</link><guid isPermaLink="true">https://www.androidauthority.com/armsx3-ps3-emulator-android-3695792/</guid><pubDate>Fri, 07 Aug 2026 11:19:32 +0000</pubDate><description><![CDATA[<p>ARMSX3 が登場: Android での PS3 エミュレーションがさらにエキサイティングになりました
-
-トップの PS2 エミュレータ ARMSX2 を開発したチームが、Android 上の新しい PS3 エミュレータ ARMSX3 をリリースしました。そしてそれは紙の上で大きな改善をもたらします。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-ARMSX3 が登場: Android での PS3 エミュレーションがさらにエキサイティングになりました
-
-0 • Hadlee Simons / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR 人気の ARMSX2 PS2 エミュレータの背後にあるチームが、Android 用の ARMSX3 をリリースしました。
-
-これは、Arm ベースのデバイス向けに RPCS3 の改良が組み込まれた PS3 エミュレータです。
-
-これは現時点では単なる概念実証のポートであるため、優れたパフォーマンスや大幅な改良を期待しないでください。
-
-Android 用の PS3 エミュレータはすでにいくつか見てきました。RPCSX-UI Android と aPS3e です。しかし、信頼できる ARMSX2 PS2 エミュレータの背後にあるチームが、ARMSX3 でその旗を掲げました。
-
-名前が示すように、ARMSX3は確かにAndroid用のPS3エミュレータです。新しいエミュレータは現在 GitHub で入手できますが、チームはこれがデスクトップ上の由緒ある RPCS3 エミュレータの概念実証ポートにすぎないと説明しています。
-
-ただし、ARMSX3 は、RPCS3 チームによって行われた最新の Arm 固有の改善が組み込まれている点で、Android 上の以前の PS3 エミュレータとは異なります。これにより、多くのゲームのパフォーマンスと互換性が向上します。
-
-ARMS…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/ARMSX3-PS3-emulator-on-Android.jpg" alt="ARMSX3 が登場: Android での PS3 エミュレーションがさらにエキサイティングになりました"></p>]]></description><source url="https://www.androidauthority.com/armsx3-ps3-emulator-android-3695792/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/ARMSX3-PS3-emulator-on-Android.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/ARMSX3-PS3-emulator-on-Android.jpg"/></item>
-<item><title>Nvidia は、QuakeCon 2026 中に RTX 50 シリーズ GPU をメーカー希望小売価格で販売します — 発売後 1 年以上経っても発売価格で販売されるグラフィックス カードは、現在魅力的とみなされています</title><link>https://www.tomshardware.com/pc-components/gpus/nvidia-sells-rtx-50-series-gpus-at-msrp-during-quakecon-2026-graphics-cards-sold-at-launch-prices-more-than-a-year-after-release-are-now-considered-an-attraction</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/gpus/nvidia-sells-rtx-50-series-gpus-at-msrp-during-quakecon-2026-graphics-cards-sold-at-launch-prices-more-than-a-year-after-release-are-now-considered-an-attraction</guid><pubDate>Fri, 07 Aug 2026 11:11:49 +0000</pubDate><description><![CDATA[<p>Nvidia は、QuakeCon 2026 中に RTX 50 シリーズ GPU をメーカー希望小売価格で販売します — 発売後 1 年以上経っても発売価格で販売されるグラフィックス カードは、現在魅力的とみなされています
-
-これは、PC 製造業界がいかにディストピアになっているかを示しています。
-
-Nvidia は、QuakeCon 2026 中に RTX 50 シリーズ GPU をメーカー希望小売価格で販売します — 発売後 1 年以上経っても発売価格で販売されるグラフィックス カードは、現在魅力的とみなされています
-
-これは、PC 製造業界がいかにディストピアになっているかを示しています。
-
-(画像クレジット: Tom&#39;s Hardware) リンクをコピー
-
-0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する Nvidia は、テキサス州グレープバインのゲイロード テキサン リゾート &amp; コンベンション センターで 8 月 6 日から 9 日まで開催される年次 QuakeCon にブースを出展し、同社は RTX 50 シリーズ GPU を当初の発売価格で販売しています。同社はブログ投稿で、いくつかの Founders Edition グラフィックス カードが在庫限りメーカー希望小売価格で入手可能であり、GeForce Trading Cards Series 1 を含むいくつかの賞品や景品も用意される予定であると述べました。
-
-「8 月 6 日から 9 日までの今年のイベントに参加する場合は、できるだけ早く GeForce ブースに向かい、イベントに参加してください」と Nvidia はブログ更新で述べました。 「そして、GPU のアップグレードが必要な場合は、私たちのチームが Verified Priority Access IRL を QuakeCon に導入し、在庫がある限り Founders Edition GeForce RTX 5090、5080、および 5070 をメーカー希望小売価…</p><p><img src="https://cdn.mos.cms.futurecdn.net/PoZMnWmFeLmeAn93rJoCcJ-2560-80.jpg" alt="Nvidia は、QuakeCon 2026 中に RTX 50 シリーズ GPU をメーカー希望小売価格で販売します — 発売後 1 年以上経っても発売価格で販売されるグラフィックス カードは、現在魅力的とみなされています"></p>]]></description><source url="https://www.tomshardware.com/pc-components/gpus/nvidia-sells-rtx-50-series-gpus-at-msrp-during-quakecon-2026-graphics-cards-sold-at-launch-prices-more-than-a-year-after-release-are-now-considered-an-attraction">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/PoZMnWmFeLmeAn93rJoCcJ-2560-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/PoZMnWmFeLmeAn93rJoCcJ-2560-80.jpg"/></item>
-<item><title>Looking to Boost Your Software&#39;s Performance? Crack an egg, Researchers Say</title><link>https://www.hackster.io/news/looking-to-boost-your-software-s-performance-crack-an-egg-researchers-say-d893e3db43b5</link><guid isPermaLink="true">https://www.hackster.io/news/looking-to-boost-your-software-s-performance-crack-an-egg-researchers-say-d893e3db43b5</guid><pubDate>Fri, 07 Aug 2026 11:07:36 +0000</pubDate><description><![CDATA[<p>Looking to Boost Your Software&#39;s Performance? Crack an egg, Researchers Say</p>]]></description><source url="https://www.hackster.io/news/looking-to-boost-your-software-s-performance-crack-an-egg-researchers-say-d893e3db43b5">Hackster.io</source></item>
-<item><title>MSI の素晴らしい 32 インチ 4K OLED ゲーミング モニターが史上最低価格の 599 ドルに戻ります - 完璧な 240Hz アップグレードである MAG 321UPXB では 130 ドル節約できます</title><link>https://www.tomshardware.com/monitors/gaming-monitors/msis-magnificent-32-inch-4k-oled-gaming-monitor-returns-to-its-lowest-ever-price-of-usd599-save-usd130-on-the-mag-321upxb-the-perfect-240hz-upgrade</link><guid isPermaLink="true">https://www.tomshardware.com/monitors/gaming-monitors/msis-magnificent-32-inch-4k-oled-gaming-monitor-returns-to-its-lowest-ever-price-of-usd599-save-usd130-on-the-mag-321upxb-the-perfect-240hz-upgrade</guid><pubDate>Fri, 07 Aug 2026 11:02:38 +0000</pubDate><description><![CDATA[<p>MSI の素晴らしい 32 インチ 4K OLED ゲーミング モニターが史上最低価格の 599 ドルに戻ります - 完璧な 240Hz アップグレードである MAG 321UPXB では 130 ドル節約できます
-
-OLED カラーと詳細な 4K 解像度の組み合わせ
-
-MSI の素晴らしい 32 インチ 4K OLED ゲーミング モニターが史上最低価格の 599 ドルに戻ります - 完璧な 240Hz アップグレードである MAG 321UPXB では 130 ドル節約できます
-
-OLED カラーと詳細な 4K 解像度の組み合わせ
-
-(画像クレジット: Future) リンクをコピー
-
-0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 新しい GPU、RAM、または SSD を購入する資金がない場合は、PC 上のビジュアルを新しいモニターにアップグレードすることを検討してください。サイズまたはパネルを IPS/VA から OLED にアップグレードすると、ゲームのビジュアルが鮮やかに向上します。 Best Buy では現在、素晴らしい MSI MAG 321UPXB ゲーミング モニターを入手でき、史上最低価格の 599.99 ドルに戻ります。これは、Best Buy ストア ページの元の定価 729.99 ドルより 130 ドルの割引です。
-
-● Best Buy でこのセールをチェックしてください
-
-MSI MAG 321UPXB は、素晴らしい画像を生成するためのあらゆる機能を備えたプレミアム ゲーミング モニターです。モニターは、32 インチの表示領域と高精細な 4K (3,820 x 2,160) UHD 解像度のフラットパネルです。 QD-OLED パネルは、OLED パネル技術のおかげで、最大 240 Hz の高速リフレッシュ レートと、0.03 ミリ秒という驚くべき高速のグレーからグレーへの応答時間を備えています。高速リフレッシュと応答時間の組み合わせにより、ゲームで非常にスムーズなモ…</p><p><img src="https://cdn.mos.cms.futurecdn.net/gp2gkAeRQAVieU9ApfAzUU-1920-80.jpg" alt="MSI の素晴らしい 32 インチ 4K OLED ゲーミング モニターが史上最低価格の 599 ドルに戻ります - 完璧な 240Hz アップグレードである MAG 321UPXB では 130 ドル節約できます"></p>]]></description><source url="https://www.tomshardware.com/monitors/gaming-monitors/msis-magnificent-32-inch-4k-oled-gaming-monitor-returns-to-its-lowest-ever-price-of-usd599-save-usd130-on-the-mag-321upxb-the-perfect-240hz-upgrade">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/gp2gkAeRQAVieU9ApfAzUU-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/gp2gkAeRQAVieU9ApfAzUU-1920-80.jpg"/></item>
-<item><title>FlipBuddy はボーグです、あなたは同化されます</title><link>https://hackaday.com/2026/08/07/flipbuddy-is-borg-you-will-be-assimilated/</link><guid isPermaLink="true">https://hackaday.com/2026/08/07/flipbuddy-is-borg-you-will-be-assimilated/</guid><pubDate>Fri, 07 Aug 2026 11:00:47 +0000</pubDate><description><![CDATA[<p>FlipBuddy はボーグです、あなたは同化されます
-
-考えてみれば、私たちに本当に与えられているのは時間だけです。そこからどこへ行くかは最終的にはあなた次第です。アプリを使用してすべてのタスクを追跡するか、単にオンボードタイマーを使用することもあります。しかし、それは…
-
-考えてみれば、私たちに本当に与えられているのは時間だけです。そこからどこへ行くかは最終的にはあなた次第です。アプリを使用してすべてのタスクを追跡するか、単にオンボードタイマーを使用することもあります。しかし、最初は多くの手順を踏む必要があり、その後、電話画面が再び暗くなります。人によっては、目に見えない、意識の外にあることがすべて始まります。最悪の場合、気が散って別のことを始め、タイマーが鳴り始めると罪悪感とイライラを感じます。
-
-しかし、私たち視覚的単純者には希望があり、その希望の提供者はポンダリー・ロボティクスの[エドリス]です。ご存知のとおり、[エドリス] は、ボーグを倒した証としてピカード船長の机にあるものに似た非常に使いやすいタイマーを作成しました。しかし、親しみやすい名前の FlipBuddy は、その説明が示すよりもはるかに便利です。
-
-[Edris] はオープンソースの FlipBuddy を毎日使用しており、そのシンプルさを高く評価しています。ポイントはアクセシビリティとプライバシーの尊重です。そうは言っても、洞察を提供するコンパニオンアプリがあります。
-
-基本的に、各立方体の面にタスクを割り当てます。 1 つ選択し、その面を上にして立方体を置きます。 FlipBuddy が起動して WiFi に接続すると、セッションがクラウドにプッシュされ、電話が必要なくなります。
-
-タスクを切り替える時期ですか?新しい面を上にして置くだけです。その日の作業が終わったら、停止面を使用してください。これは、落ちたコーナーに設置することを意味します。
-
-FlipBuddy を実現するのに多くのことは必要ありません。 [Edris] は、ESP32 (S3 SuperMini または同様のもので動作…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/flip-buddy-800.png" alt="FlipBuddy はボーグです、あなたは同化されます"></p>]]></description><source url="https://hackaday.com/2026/08/07/flipbuddy-is-borg-you-will-be-assimilated/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/flip-buddy-800.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/flip-buddy-800.png"/></item>
-<item><title>Phantom Blade Zero が 10 月の発売に先駆けて正式にゴールドに</title><link>https://www.kitguru.net/tech-news/mustafa-mahmoud/phantom-blade-zero-officially-goes-gold-ahead-of-october-launch/</link><guid isPermaLink="true">https://www.kitguru.net/tech-news/mustafa-mahmoud/phantom-blade-zero-officially-goes-gold-ahead-of-october-launch/</guid><pubDate>Fri, 07 Aug 2026 11:00:20 +0000</pubDate><description><![CDATA[<p>Phantom Blade Zero が 10 月の発売に先駆けて正式にゴールドに
-
-発売まであと 2 か月以上あり、S-GAME の待望の Phantom Blade Zero が正式にゴールドになりました。
-
-Phantom Blade Zero が 10 月の発売に先駆けて正式にゴールドに
-
-Mustafa Mahmoud 7 分前 コンソール , 注目の技術ニュース , ソフトウェアとゲーム , 技術ニュース
-
-ファントム ブレード ゼロは長い間待ち望まれており、この野心的で派手なアクション タイトルは、ソニーの 2023 PlayStation ショーケースでの最初の発表で視聴者を驚かせました。数多くのプレゼンテーションとプレイアブルデモを経て、Phantom Blade Zero がついに完成に近づき、10 月の発売よりはるかに早く正式にゴールドになりました。開発スタジオのS-GAMEはソーシャルメディア上で発表を行い、Phantom Blade Zeroがゴールドになったことを正式に認め、「プレイヤーの皆さん、お待たせしました！Phantom Blade Zeroの開発は完了しました」と書き、「予約注文と全く新しい11分間のトレーラーが太平洋時間8月11日午後7時、つまり英国では8月12日午前3時に公開される」と付け加えた。私たちはすでにゲームのかなりの部分を見てきましたが、チームは今後のトレーラーに「新しいストーリーコンテンツ、キャラクター、戦闘、そして予期せぬ何か」が含まれることをほのめかしています。いずれにせよ、ゲームのリリースまであと 2 か月以上あり、『Phantom Blade Zero』は現在かなり良い状況にあります。背景として、ほとんどのゲームは発売にかなり近づくまでゴールドになりませんが、平均して約 1 か月の準備期間が必要です。これが意味するのは、Phantom Blade Zero が 10 月 29 日に発売されるときに、ゲーム全体のデータが最初からディスクに収録されていることを意味することを願っています。 KitGuru はこう言…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/08/PHANTOM-GOLD-732x330.jpg" alt="Phantom Blade Zero が 10 月の発売に先駆けて正式にゴールドに"></p>]]></description><source url="https://www.kitguru.net/tech-news/mustafa-mahmoud/phantom-blade-zero-officially-goes-gold-ahead-of-october-launch/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/08/PHANTOM-GOLD-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/08/PHANTOM-GOLD-732x330.jpg"/></item>
-<item><title>代わりに USB Type-A ポートを試すまで、USB デバイスが充電されませんでした</title><link>https://www.xda-developers.com/my-usb-devices-werent-charging-until-tried-usb-type-a-port/</link><guid isPermaLink="true">https://www.xda-developers.com/my-usb-devices-werent-charging-until-tried-usb-type-a-port/</guid><pubDate>Fri, 07 Aug 2026 11:00:10 +0000</pubDate><description><![CDATA[<p>代わりに USB Type-A ポートを試すまで、USB デバイスが充電されませんでした
-
-USB-C ケーブルとデバイスが乱雑であることはすでに知られていますが、私は混乱していました。
-
-代わりに USB Type-A ポートを試すまで、USB デバイスが充電されませんでした
-
-By João Carrasqueira 公開 2026 年 8 月 7 日、午前 7:00 EDT João は、ラップトップと Windows エコシステムに重点を置き、7 年以上テクノロジーの世界を取材してきました。私はテクノロジーやビデオゲーム全般が大好きで、特に任天堂のことについて彼はいつも喜んで話します。 2021 年に XDA に入社する前は、Neowin で働いていました: https://www.neowin.net/news/poster/jo%C3%A3o-carrasqueira/ XDA アカウントにサインインします USB がその崇高な約束と目標を正確に実現できていないことは、現時点ではニュースではありません。この頭字語の「ユニバーサル」の部分は、電力とデータ転送速度に関しては必ずしも当てはまりません。
-
-しかし、この問題がどれほどばかばかしいものであるかを知ったのはつい最近のことです。私は常に、ケーブルや充電器が特定のデバイスに対して十分に強力ではないという問題に遭遇するだけだと思っていましたが、実際には、一部のデバイスは最新の充電器には古すぎる可能性もあります。説明しましょう。
-
-問題を見つけた方法 (および解決策)
-
-端末が壊れたのかと思った
-
-数週間前、家の部屋の一つを掃除していたとき、しばらく使っていなかった装飾用ライトを見つけました。当然バッテリーが切れていたので、USB-C 充電器に接続しましたが、充電されていないことがわかりました。あまりにも長い間使用していたので、何かの理由で壊れただけだと思い、あまり考えていませんでした。
-
-次に、サードパーティ製の充電式バッテリーを備えた Xbox ワイヤレス コントローラーを購入しました。バッテリーがなくなった…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/usb-charger-and-devices.jpg?w=1600&amp;h=900&amp;fit=crop" alt="代わりに USB Type-A ポートを試すまで、USB デバイスが充電されませんでした"></p>]]></description><source url="https://www.xda-developers.com/my-usb-devices-werent-charging-until-tried-usb-type-a-port/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/usb-charger-and-devices.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/usb-charger-and-devices.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>検索が実験だった Google 以前のウェブを思い出す</title><link>https://arstechnica.com/gadgets/2026/08/remembering-the-pre-google-web-when-search-was-an-experiment/</link><guid isPermaLink="true">https://arstechnica.com/gadgets/2026/08/remembering-the-pre-google-web-when-search-was-an-experiment/</guid><pubDate>Fri, 07 Aug 2026 11:00:06 +0000</pubDate><description><![CDATA[<p>検索が実験だった Google 以前のウェブを思い出す
-
-ほとんどの人は、それが実際にどれほど混沌としていたかを完全に忘れています。」
-
-テキスト設定 ストーリーテキスト サイズ 小 標準 大 幅 * 標準 ワイドリンク 標準 オレンジ * 購読者のみ 詳細はこちら ナビゲーションを最小化 90 年代半ば、Web は爆発的に成長していましたが、Web 上で実際に価値のあるものを見つけるのは、たまたまドアの近くにあったプロト検索エンジンとの入念な交渉のように感じられました。 Google がポータルと門番の両方として広く認識されている現在とは異なり、AltaVista、Lycos、Excite、HotBot、Ask Jeeves などのサイトは、それぞれ独自の癖、魅力、欠陥を持ちながら、混乱を手なずけると約束していました。
-
-Google 検索以前の本当の話は、初期のエンジンが劣っていたということではありません。それは、それらがまったく異なるインターネットを反映していたということです。ディレクトリが重要であり、クロールはまだ芸術であり、ランキングは脆弱で、「検索」という概念がまだ単一の支配的なインターフェイスに固まっていなかったインターネットです。
-
-Google 以前のインターネットについて最初に覚えておくべきことは、すべてを検索できるという前提が組み込まれていなかったということです。多くのユーザーは、Yahoo スタイルのディレクトリ、ブックマーク、ニュースグループ、電子メールの署名、サイト間のリンクを通じてページを見つけていました。これは、Web がまだ十分に小さかったため、人間の組織が機械によるインデックス付けと競合できるためです。それは開拓時代の西部スタイルの発見可能性の時代でした。検索エンジンは存在していましたが、それらはキュレーションと偶然が融合した大きなエコシステムの一部にすぎませんでした。
-
-これらのエンジンが Web への主要なパブリック インターフェイスになる前は、Usenet のようなリソースが、オンラインで情報を整理して発見する方法を人々に示して…</p><p><img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/90s-search-engines-1152x648-1785895106.jpg" alt="検索が実験だった Google 以前のウェブを思い出す"></p>]]></description><source url="https://arstechnica.com/gadgets/2026/08/remembering-the-pre-google-web-when-search-was-an-experiment/">Ars Technica Gear &amp; Gadgets</source><media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/90s-search-engines-1152x648-1785895106.jpg" medium="image"/><media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/90s-search-engines-1152x648-1785895106.jpg"/></item>
-<item><title>イーロン・マスクの大規模なTerafabチップ製造施設が形になり始める - 1億平方フィートの製造スペースと168億ドルの初期資本投資</title><link>https://www.tomshardware.com/tech-industry/semiconductors/terafab-starts-to-take-shape-100-million-square-feet-of-manufacturing-space-and-usd16-8b-initial-capital-investment</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/semiconductors/terafab-starts-to-take-shape-100-million-square-feet-of-manufacturing-space-and-usd16-8b-initial-capital-investment</guid><pubDate>Fri, 07 Aug 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>イーロン・マスクの大規模なTerafabチップ製造施設が形になり始める - 1億平方フィートの製造スペースと168億ドルの初期資本投資
-
-計画が明らかになり始めています。
-
-イーロン・マスクの大規模なTerafabチップ製造施設が形になり始める - 1億平方フィートの製造スペースと168億ドルの初期資本投資
-
-計画が明らかになり始めています。
-
-(画像クレジット: Terafab) リンクをコピー
-
-0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する SpaceX と Tesla は木曜日、Terafab プロジェクトの初期段階の計画を正式に発表しました。インテルの 14A プロセス技術を使用すると予想されるこの計画の第 1 段階では、168 億ドルの投資が必要と見込まれており、完成したキャンパスには 1 億平方フィートを超える製造スペースが含まれる予定です。この大規模な半導体製造複合施設はテキサス州グライムズ郡のスペースX所有の場所に建設される予定だ。
-
-SpaceX と Tesla によると、半導体に対する両社の需要は合わせて年間 1 テラワット (TW) を超えると予測されており、これは今日の世界的な供給量を大幅に上回っています。実際、SpaceX、Tesla、および xAI は、現在利用可能な契約チップ製造サービスのかなりの部分をすでに消費しており、イーロン・マスクの企業のみにサービスを提供する専用ファブの建設を正当化できる可能性があります。特に、Terafabは、Tesla Optimusの人型ロボットとCyber​​cab自律走行車用のAI推論プロセッサと、SpaceXの宇宙ベースのデータセンター向けの「高出力」プロセッサを独占的に生産することが構想されている。一方、SpaceXとTeslaは、年間のコンピューティング需要の合計がいつ1TWのベンチマークに達するかを明らかにしていない。
-
-従来の半導体工場とは異なり、Terafab は高度なロジック デバイス、メモリ チップ、パッケージング、およ…</p><p><img src="https://cdn.mos.cms.futurecdn.net/AgntrWnVBq5bKYLoRy82hk-2560-80.jpg" alt="イーロン・マスクの大規模なTerafabチップ製造施設が形になり始める - 1億平方フィートの製造スペースと168億ドルの初期資本投資"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/semiconductors/terafab-starts-to-take-shape-100-million-square-feet-of-manufacturing-space-and-usd16-8b-initial-capital-investment">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/AgntrWnVBq5bKYLoRy82hk-2560-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/AgntrWnVBq5bKYLoRy82hk-2560-80.jpg"/></item>
-<item><title>Flapping-Wing Drones Get a Stability Boost Thanks to Careful Monitoring and a &#34;Disturbance Observer&#34;</title><link>https://www.hackster.io/news/flapping-wing-drones-get-a-stability-boost-thanks-to-careful-monitoring-and-a-disturbance-observer-745ef383aff6</link><guid isPermaLink="true">https://www.hackster.io/news/flapping-wing-drones-get-a-stability-boost-thanks-to-careful-monitoring-and-a-disturbance-observer-745ef383aff6</guid><pubDate>Fri, 07 Aug 2026 10:51:24 +0000</pubDate><description><![CDATA[<p>Flapping-Wing Drones Get a Stability Boost Thanks to Careful Monitoring and a &#34;Disturbance Observer&#34;</p>]]></description><source url="https://www.hackster.io/news/flapping-wing-drones-get-a-stability-boost-thanks-to-careful-monitoring-and-a-disturbance-observer-745ef383aff6">Hackster.io</source></item>
-<item><title>RTX 5060 Ti 16GB を搭載したこの 1440p ゲーム PC で 370 ドル節約 — 強力な ABS Cyclone Aqua リグには、20 コア Intel Core i7-14700F、16GB DDR5、1TB SSD が搭載されており、現在はわずか 1,329.99 ドルです</title><link>https://www.tomshardware.com/desktops/gaming-pcs/save-usd370-on-this-1440p-gaming-pc-with-an-rtx-5060-ti-16gb-formidable-abs-cyclone-aqua-rig-ships-with-20-core-intel-core-i7-14700f-16gb-ddr5-and-a-1tb-ssd-now-only-usd1-329-99</link><guid isPermaLink="true">https://www.tomshardware.com/desktops/gaming-pcs/save-usd370-on-this-1440p-gaming-pc-with-an-rtx-5060-ti-16gb-formidable-abs-cyclone-aqua-rig-ships-with-20-core-intel-core-i7-14700f-16gb-ddr5-and-a-1tb-ssd-now-only-usd1-329-99</guid><pubDate>Fri, 07 Aug 2026 10:42:00 +0000</pubDate><description><![CDATA[<p>RTX 5060 Ti 16GB を搭載したこの 1440p ゲーム PC で 370 ドル節約 — 強力な ABS Cyclone Aqua リグには、20 コア Intel Core i7-14700F、16GB DDR5、1TB SSD が搭載されており、現在はわずか 1,329.99 ドルです
-
-1080p および 1440p のゲームを手頃な価格で
-
-RTX 5060 Ti 16GB を搭載したこの 1440p ゲーム PC で 370 ドル節約 — 強力な ABS Cyclone Aqua リグには、20 コア Intel Core i7-14700F、16GB DDR5、1TB SSD が搭載されており、現在はわずか 1,329.99 ドルです
-
-1080p および 1440p のゲームを手頃な価格で
-
-(画像クレジット: Future / Newegg) リンクをコピー
-
-0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 組み立て済みのゲーム用 PC を購入するときは、購入する機器が何年最新のゲームをプレイできるかを考慮する必要があります。幸運なことに、現在 Newegg が ABS Cyclone Aqua マシンを 1,329.99 ドルで販売していることにより、しばらくの間持続するはずのパフォーマンスが解放されます。 8GB GPU を搭載する他の多くの低予算マシンとは異なり、Newegg 独自の ABS ブランドのこのマシンは 16GB VRAM を搭載した RTX 5060 Ti を備えており、1,400 ドル未満で 1440p でゲームをプレイできるオプションが提供されます。ただし、完全な割引を受けるには、70 ドル割引のクーポン コード SSF72762 を使用する必要があります。
-
-● Newegg でこのセールをチェックしてください
-
-PC ハードウェア市場は大幅な価格上昇に見舞われているため、このようなスペックを備えたゲーミング PC を手頃な価格で提供することは検討す…</p><p><img src="https://cdn.mos.cms.futurecdn.net/eysWJmP7fHMMGTtzie83af-1920-80.png" alt="RTX 5060 Ti 16GB を搭載したこの 1440p ゲーム PC で 370 ドル節約 — 強力な ABS Cyclone Aqua リグには、20 コア Intel Core i7-14700F、16GB DDR5、1TB SSD が搭載されており、現在はわずか 1,329.99 ドルです"></p>]]></description><source url="https://www.tomshardware.com/desktops/gaming-pcs/save-usd370-on-this-1440p-gaming-pc-with-an-rtx-5060-ti-16gb-formidable-abs-cyclone-aqua-rig-ships-with-20-core-intel-core-i7-14700f-16gb-ddr5-and-a-1tb-ssd-now-only-usd1-329-99">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/eysWJmP7fHMMGTtzie83af-1920-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/eysWJmP7fHMMGTtzie83af-1920-80.png"/></item>
-<item><title>Googleのターミナルアプリが次にアイコンを刷新する予定</title><link>https://www.androidauthority.com/redesigned-google-terminal-app-3695719/</link><guid isPermaLink="true">https://www.androidauthority.com/redesigned-google-terminal-app-3695719/</guid><pubDate>Fri, 07 Aug 2026 10:40:45 +0000</pubDate><description><![CDATA[<p>Googleのターミナルアプリが次にアイコンを刷新する予定
-
-Google のターミナル アプリは、Android の他の部分とよりマッチするようにアイコンが再設計され、現代的に生まれ変わりました。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Googleのターミナルアプリが次にアイコンを刷新する予定
-
-0 • Shimul Sood / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Android Canary 2608 には、Google のターミナル アプリ用に再設計されたアイコンが含まれており、開発者向けのツールがよりモダンで箱型の外観になっています。
-
-新しいデザインは、ターミナルでおなじみの「&gt;」と「-」記号を保持していますが、見た目は Google スプレッドシートのアイコンに著しく似ています。
-
-再設計されたアイコンがいつ広範囲に展開されるかについては何も語られていませんが、これによりターミナルが Google の新しいアプリ アイコンとより一致するようになります。
-
-Google は最近、アプリのアイコンを塗り直すことに熱心で、Android のよりニッチなツールの一部も取り残されているわけではないようです。最新の Android Canary 2608 リリースには、ターミナル アプリのアイコンが再設計され、開発者向けのツールがよりモダンな外観になりました。
-
-現在のターミナル アイコンはかなり古いもので、濃い緑色の背景にネオン グリーンでおなじみの「&gt;」と「-」のコマンド ライン記号が特徴です。以下は、ターミナル アプリの現在のアイコン (左) と新しいデザイン (右) を並べて見たものです。
-
-新しいアプリのアイコンは、おなじみの「&gt;」と「-」記号を前面と中央に残しつつ、よりモダンな箱型のデザインになっています。興味深いことに、その全体的な形状は Google スプレッドシート…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/Google-Terminal-old-app-icon-on-Pixel-10a.jpg" alt="Googleのターミナルアプリが次にアイコンを刷新する予定"></p>]]></description><source url="https://www.androidauthority.com/redesigned-google-terminal-app-3695719/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/Google-Terminal-old-app-icon-on-Pixel-10a.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/Google-Terminal-old-app-icon-on-Pixel-10a.jpg"/></item>
 </channel></rss>
