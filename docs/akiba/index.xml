@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Wed, 12 Aug 2026 16:09:18 +0000</lastBuildDate>
+<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Wed, 12 Aug 2026 17:11:30 +0000</lastBuildDate>
+<item><title>最上位Max級「Qwen3.8-2.4T-A95B」公開。Fable 5やGPT-5.6 Solなど商用トップ級に匹敵</title><link>https://pc.watch.impress.co.jp/docs/news/2132436.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2132436.html</guid><pubDate>Wed, 12 Aug 2026 16:12:59 +0000</pubDate><description><![CDATA[<p>最上位Max級「Qwen3.8-2.4T-A95B」公開。Fable 5やGPT-5.6 Solなど商用トップ級に匹敵
+
+Alibabaは、Qwenシリーズの最上位のMaxクラスとして初めてオープンウェイトとなるモデル「Qwen3.8-2.4T-A95B」を公開した。Hugging Faceなどからダウンロードできる。ライセンスは「qwen3.8-max」で、基本は無料だが、いくつか制限付きとなっている。
+
+最上位Max級「Qwen3.8-2.4T-A95B」公開。Fable 5やGPT-5.6 Solなど商用トップ級に匹敵
+
+Alibabaは、Qwenシリーズの最上位のMaxクラスとして初めてオープンウェイトとなるモデル「Qwen3.8-2.4T-A95B」を公開した。Hugging Faceなどからダウンロードできる。ライセンスは「qwen3.8-max」で、基本は無料だが、いくつか制限付きとなっている。
+
+Qwen3.8-2.4T-A95Bは最上位のMaxクラスの性能を持つオープンウェイトのモデル。パラメータ数は合計2.4兆(2.4T)、アクティブパラメータ数は950億(95B)に達する。レイヤー数は92、エキスパートは計512で、推論時にはルーティングされる10基と共有1基の計11基がアクティブ化する仕組みとなっている。標準で262,144トークン、拡張時には最大101万トークンのコンテキスト長に対応する。
+
+同モデルは、コーディングや専門的な業務、研究、長期的な自律的タスクを強化しており、特に自律的な計画能力の向上と環境フィードバックの適切な処理により、エンドツーエンドのタスク完了の信頼性が向上し、エージェント実行に向くという。
+
+また、一般的なハーネスや開発ツールに対するサポートが拡大され、既存スタックへの統合が容易となった。推論の深さを調整できるほか、過去のメッセージから推論コンテキストを保持する機能も搭載する。
+
+ベンチマークテストでは、コーディングエージェント性能を評価する「Terminal Bench 2.1」で86.6点、「SWE-bench Pr…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/436/1.jpg" alt="最上位Max級「Qwen3.8-2.4T-A95B」公開。Fable 5やGPT-5.6 Solなど商用トップ級に匹敵"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2132436.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/436/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/436/1.jpg"/></item>
 <item><title>「Qwen3.8-27B」が8月15日にオープンウェイト公開！最新AI技術をお手元に</title><link>https://pc.watch.impress.co.jp/docs/news/2132435.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2132435.html</guid><pubDate>Wed, 12 Aug 2026 15:41:07 +0000</pubDate><description><![CDATA[<p>「Qwen3.8-27B」が8月15日にオープンウェイト公開！最新AI技術をお手元に
 
 Alibabaが開発した、コンシューマ向けハードウェアにおいてローカル駆動できる規模のLLM「Qwen3.8-27B」が、8月15日0時にオープンウェイト公開される。ModelScopeで予告ページがあり、カウントダウンが開始している。
@@ -67,53 +82,6 @@ Update: Single-cluster E-core cutdowns will retain the L3 cache configuration of
 “Nova Lake”の8 P-core + 12 E-coreモデルは36MBのL3 cacheを有する (2026/08/12)
 
 “Razor Lake-AX”の初期サポート…</p>]]></description><source url="https://northwood.blog.fc2.com/blog-entry-13174.html">北森瓦版</source></item>
-<item><title>最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」</title><link>https://pc.watch.impress.co.jp/docs/news/2132349.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2132349.html</guid><pubDate>Wed, 12 Aug 2026 14:00:00 +0000</pubDate><description><![CDATA[<p>最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」
-
-Googleは8月12日、新型の折りたたみスマートフォン「Google Pixel 11 Pro Fold」を発表した。Google Storeでの直販価格は27万9,900円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日より発売する。
-
-最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」
-
-Googleは8月12日、新型の折りたたみスマートフォン「Google Pixel 11 Pro Fold」を発表した。Google Storeでの直販価格は27万9,900円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日より発売する。
-
-Google Pixel 11 Pro Foldでは、同時に発表されたほかのGoogle Pixel 11シリーズと同様、最新の「Google Tensor G6」チップを搭載し、高い処理能力と高度なオンデバイスAI性能を備えている。折りたたみ時の厚さは10.1mm、広げた状態で5mmのスリムな筐体を実現し、重量は239gに抑えられている。
-
-カバーディスプレイは6.5型で、内側を開くと8型の大画面「Super Actua Flexディスプレイ」が広がる。また、Proモデルと同様に背面のカメラフラッシュ周辺にカラーLEDを内蔵した「HiLight」機能を搭載し、スマートフォンを伏せた状態でもGeminiの応答ステータスや登録した連絡先からの着信をやさしい光のカスタムカラーで通知してくれる。
-
-主な仕様として、プロセッサにはGoogle Tensor G6およびTitan M3セキュリティコプロセッサ、メモリは16GB、ストレージは256GBまたは512GBを備える。
-
-ディスプレイは、外側が6.5型のSuper Actuaディスプレイで解像度は1,080×2,342ドット、内側が8…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/349/3.png" alt="最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2132349.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/349/3.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/349/3.png"/></item>
-<item><title>Google、フラッシュ部が光って通知する6.3型スマホ「Google Pixel 11 Pro」</title><link>https://pc.watch.impress.co.jp/docs/news/2132347.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2132347.html</guid><pubDate>Wed, 12 Aug 2026 14:00:00 +0000</pubDate><description><![CDATA[<p>Google、フラッシュ部が光って通知する6.3型スマホ「Google Pixel 11 Pro」
-
-Googleは8月12日、新型の6.3型スマートフォン「Google Pixel 11 Pro」を発表した。Google Storeでの直販価格は17万4,800円から。8月12日よりオンライン、8月13日より店頭での予約販売を開始し、8月20日に発売する。
-
-Google、フラッシュ部が光って通知する6.3型スマホ「Google Pixel 11 Pro」
-
-Googleは8月12日、新型の6.3型スマートフォン「Google Pixel 11 Pro」を発表した。Google Storeでの直販価格は17万4,800円から。8月12日よりオンライン、8月13日より店頭での予約販売を開始し、8月20日に発売する。
-
-Google Pixel 11 Proは、最新の「Google Tensor G6」チップの搭載により高い処理性能と省電力性能を両立したスマートフォン。ディスプレイには、最大3,600cd/平方mを誇るGoogle Pixel史上最も明るい「Super Actuaディスプレイ」を採用し、前世代モデルから2倍以上の耐傷性を実現する新しいコーティングを施している。
-
-さらに、背面のカメラフラッシュ周辺に内蔵されたカラーLEDライトが光ることで、スマートフォンを伏せたままでも重要な情報を一目で確認できる新機能「HiLight」を新たに搭載した。背面カメラの望遠レンズは感度を30%向上させるよう全面的に再設計され、5倍でのポートレート撮影が可能なほか、120倍の超解像ズーム Proにより遠くまで鮮明に捉えられる。
-
-主な仕様として、プロセッサはGoogle Tensor G6およびTitan M3セキュリティコプロセッサ、メモリは12GB(ストレージ256GB)または16GB(ストレージ512GB以上)、ストレージは256GB、512GB、または1TB。
-
-ディスプレイは6.3型のSuper Actuaディスプレイを採用し、解像度は1,280×2,856ドット、リ…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/347/1.png" alt="Google、フラッシュ部が光って通知する6.3型スマホ「Google Pixel 11 Pro」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2132347.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/347/1.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/347/1.png"/></item>
-<item><title>最適なタイミングで起こしてくれる「Google Pixel Watch 5」</title><link>https://pc.watch.impress.co.jp/docs/news/2132424.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2132424.html</guid><pubDate>Wed, 12 Aug 2026 14:00:00 +0000</pubDate><description><![CDATA[<p>最適なタイミングで起こしてくれる「Google Pixel Watch 5」
-
-最適な睡眠サイクルで優しく起こしてくれる「スマートウェイクアラーム」。Googleの新スマートウォッチ「Google Pixel Watch 5」の新機能だ。Pixel Watch 5は、大きさとLTEの有無で4モデルが用意。価格は41mm/Wi-Fiが6万2,800円、41mm/LTEが7万9,800円、45mm/Wi-Fiが6万7,800円、45mm/LTEが8万4,800円。発売日はいずれも8月20日となる。
-
-最適なタイミングで起こしてくれる「Google Pixel Watch 5」
-
-最適な睡眠サイクルで優しく起こしてくれる「スマートウェイクアラーム」。Googleの新スマートウォッチ「Google Pixel Watch 5」の新機能だ。Pixel Watch 5は、大きさとLTEの有無で4モデルが用意。価格は41mm/Wi-Fiが6万2,800円、41mm/LTEが7万9,800円、45mm/Wi-Fiが6万7,800円、45mm/LTEが8万4,800円。発売日はいずれも8月20日となる。
-
-昨今のPixel Watchシリーズ同様、Pixel Watch 5もフィットネス機能をより充実させている。と同時に、同日発表されたPixel 11シリーズと同様に、ユーザーの意図や行動を判断し、先回りして情報を提示してくれるAI機能が搭載された。
-
-たとえば、空港へ向かう際には自動的にフライト情報を表示したり、電車に乗っている間は「目的地まであと何駅残っているか」を自動表示したりでき、スマホの画面を開く手間が省ける。
-
-また、タイマー設定や、レストラン予約の詳細確認、Gmailでの返信といった、今までならスマホで行なう複雑なタスクを、ワンタップの簡単なアクションで完結させられるようになった。
-
-さらに、買い物袋や傘を持っていたり、電車の吊り革を掴んでいたりして片手しか使えない状況で、片手のジェスチャーだけで、届いた通知を展開したり、消去(非表示に)したりできる。
-
-フィットネス面に関…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/424/03.jpg" alt="最適なタイミングで起こしてくれる「Google Pixel Watch 5」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2132424.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/424/03.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/424/03.jpg"/></item>
 <item><title>Pixel 11の狙いはスマホへの没頭時間削減。Pixelは“気が利くAIエージェント”に</title><link>https://pc.watch.impress.co.jp/docs/news/2132417.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2132417.html</guid><pubDate>Wed, 12 Aug 2026 14:00:00 +0000</pubDate><description><![CDATA[<p>Pixel 11の狙いはスマホへの没頭時間削減。Pixelは“気が利くAIエージェント”に
 
 「画面への没頭」を避け「現実の時間を奪還する」。Googleの開発者が「Google Pixel 11」で念頭に置いた開発思想だ。字面だけだとまるで時代に逆行するかのようにも見えるが、そうではない。
@@ -131,21 +99,6 @@ Pixel 11は潮流を見据え、AIエージェントスマホへの進化を先�
 このほか、Webブラウジング性能も25%、アプリの起動速度も15%高速化されている。
 
 一方、メモリについては、Pixel 11 Pro、Pixel 11Pro XLという上位モデルでも、ストレージ256GBモデ…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/417/01.jpg" alt="Pixel 11の狙いはスマホへの没頭時間削減。Pixelは“気が利くAIエージェント”に"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2132417.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/417/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/417/01.jpg"/></item>
-<item><title>CPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から</title><link>https://pc.watch.impress.co.jp/docs/news/2132345.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2132345.html</guid><pubDate>Wed, 12 Aug 2026 14:00:00 +0000</pubDate><description><![CDATA[<p>CPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から
-
-Googleは8月12日、新型の6.3型スマートフォン「Google Pixel 11」を発表した。Google Storeでの直販価格は13万6,800円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日に発売する。
-
-CPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から
-
-Googleは8月12日、新型の6.3型スマートフォン「Google Pixel 11」を発表した。Google Storeでの直販価格は13万6,800円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日に発売する。
-
-Pixel 11ではプロセッサに最新の「Google Tensor G6」を搭載。CPU性能の引き上げによってWebブラウジングが25%高速化し、アプリの起動速度が15%向上したほか、オンデバイスAIタスクを最大3.5倍高速に処理しながら、エネルギー消費量を最大3.5分の1に抑えている。最先端のオンデバイスモデル「Gemini Nano」を動かすのに最適としている。
-
-さらに、象徴的な背面カメラバーの厚さを従来モデルから40%削減し、純正のケースを装着した際に出っ張りをほとんど感じさせないフラットな形状に仕上げており、平らな場所に置いてもがたつきが発生しにくい設計とした。背面カメラには、新たに大型化した4,800万画素のメインセンサーを採用することで、光量の少ない厳しい環境での感度を56%向上させている。
-
-主な仕様は、プロセッサがGoogle Tensor G6およびTitan M3セキュリティコプロセッサ、メモリは12GB、ストレージは256GBまたは512GB。
-
-ディスプレイは6.3型のActuaディスプレイを採用し、解像度は1,080×2,424ドット、リフレッシュレートは60Hz～120Hz、最大輝度は2,000cd/平方m、ピーク輝度は3,0…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/345/1.png" alt="CPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2132345.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/345/1.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/345/1.png"/></item>
 <item><title>Tensor G6チップ搭載で120倍ズームや通知ライト対応の6.8型スマホ「Google Pixel 11 Pro XL」</title><link>https://pc.watch.impress.co.jp/docs/news/2131994.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2131994.html</guid><pubDate>Wed, 12 Aug 2026 14:00:00 +0000</pubDate><description><![CDATA[<p>Tensor G6チップ搭載で120倍ズームや通知ライト対応の6.8型スマホ「Google Pixel 11 Pro XL」
 
 Googleは8月12日、新型の6.8型スマートフォン「Google Pixel 11 Pro XL」を発表した。Google Storeでの直販価格は20万7,800円から。2026年8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日より発売する。
@@ -161,6 +114,68 @@ Google Pixel 11 Pro XLでは最新の「Google Tensor G6」チップを搭載し
 加えて、背面のカメラフラッシュ周辺がやさしく光ることで、通知を音を出さずに視覚的に確認できる「HiLight」機能を備える。充電機能が大幅に強化されており、別売りの45W以上のUSB Type-C充電器を用いることで、わずか15分間の有線充電を行なうだけで15時間のバッテリ駆動時間を確保できる。
 
 主な仕様として、プロセッサにはGoogle Tensor G6およびTitan M3セキュリティコプロセッサ、メモリは12GB(ストレージ256GB)または16GB(ストレージ512GB以上)、ストレージは256GB、512GB、または1TBを備える。OSはAndroid 17で、7年間のOS、セキュ…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2131/994/1.png" alt="Tensor G6チップ搭載で120倍ズームや通知ライト対応の6.8型スマホ「Google Pixel 11 Pro XL」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2131994.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2131/994/1.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2131/994/1.png"/></item>
+<item><title>最適なタイミングで起こしてくれる「Google Pixel Watch 5」</title><link>https://pc.watch.impress.co.jp/docs/news/2132424.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2132424.html</guid><pubDate>Wed, 12 Aug 2026 14:00:00 +0000</pubDate><description><![CDATA[<p>最適なタイミングで起こしてくれる「Google Pixel Watch 5」
+
+最適な睡眠サイクルで優しく起こしてくれる「スマートウェイクアラーム」。Googleの新スマートウォッチ「Google Pixel Watch 5」の新機能だ。Pixel Watch 5は、大きさとLTEの有無で4モデルが用意。価格は41mm/Wi-Fiが6万2,800円、41mm/LTEが7万9,800円、45mm/Wi-Fiが6万7,800円、45mm/LTEが8万4,800円。発売日はいずれも8月20日となる。
+
+最適なタイミングで起こしてくれる「Google Pixel Watch 5」
+
+最適な睡眠サイクルで優しく起こしてくれる「スマートウェイクアラーム」。Googleの新スマートウォッチ「Google Pixel Watch 5」の新機能だ。Pixel Watch 5は、大きさとLTEの有無で4モデルが用意。価格は41mm/Wi-Fiが6万2,800円、41mm/LTEが7万9,800円、45mm/Wi-Fiが6万7,800円、45mm/LTEが8万4,800円。発売日はいずれも8月20日となる。
+
+昨今のPixel Watchシリーズ同様、Pixel Watch 5もフィットネス機能をより充実させている。と同時に、同日発表されたPixel 11シリーズと同様に、ユーザーの意図や行動を判断し、先回りして情報を提示してくれるAI機能が搭載された。
+
+たとえば、空港へ向かう際には自動的にフライト情報を表示したり、電車に乗っている間は「目的地まであと何駅残っているか」を自動表示したりでき、スマホの画面を開く手間が省ける。
+
+また、タイマー設定や、レストラン予約の詳細確認、Gmailでの返信といった、今までならスマホで行なう複雑なタスクを、ワンタップの簡単なアクションで完結させられるようになった。
+
+さらに、買い物袋や傘を持っていたり、電車の吊り革を掴んでいたりして片手しか使えない状況で、片手のジェスチャーだけで、届いた通知を展開したり、消去(非表示に)したりできる。
+
+フィットネス面に関…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/424/03.jpg" alt="最適なタイミングで起こしてくれる「Google Pixel Watch 5」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2132424.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/424/03.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/424/03.jpg"/></item>
+<item><title>CPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から</title><link>https://pc.watch.impress.co.jp/docs/news/2132345.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2132345.html</guid><pubDate>Wed, 12 Aug 2026 14:00:00 +0000</pubDate><description><![CDATA[<p>CPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から
+
+Googleは8月12日、新型の6.3型スマートフォン「Google Pixel 11」を発表した。Google Storeでの直販価格は13万6,800円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日に発売する。
+
+CPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から
+
+Googleは8月12日、新型の6.3型スマートフォン「Google Pixel 11」を発表した。Google Storeでの直販価格は13万6,800円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日に発売する。
+
+Pixel 11ではプロセッサに最新の「Google Tensor G6」を搭載。CPU性能の引き上げによってWebブラウジングが25%高速化し、アプリの起動速度が15%向上したほか、オンデバイスAIタスクを最大3.5倍高速に処理しながら、エネルギー消費量を最大3.5分の1に抑えている。最先端のオンデバイスモデル「Gemini Nano」を動かすのに最適としている。
+
+さらに、象徴的な背面カメラバーの厚さを従来モデルから40%削減し、純正のケースを装着した際に出っ張りをほとんど感じさせないフラットな形状に仕上げており、平らな場所に置いてもがたつきが発生しにくい設計とした。背面カメラには、新たに大型化した4,800万画素のメインセンサーを採用することで、光量の少ない厳しい環境での感度を56%向上させている。
+
+主な仕様は、プロセッサがGoogle Tensor G6およびTitan M3セキュリティコプロセッサ、メモリは12GB、ストレージは256GBまたは512GB。
+
+ディスプレイは6.3型のActuaディスプレイを採用し、解像度は1,080×2,424ドット、リフレッシュレートは60Hz～120Hz、最大輝度は2,000cd/平方m、ピーク輝度は3,0…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/345/1.png" alt="CPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2132345.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/345/1.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/345/1.png"/></item>
+<item><title>Google、フラッシュ部が光って通知する6.3型スマホ「Google Pixel 11 Pro」</title><link>https://pc.watch.impress.co.jp/docs/news/2132347.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2132347.html</guid><pubDate>Wed, 12 Aug 2026 14:00:00 +0000</pubDate><description><![CDATA[<p>Google、フラッシュ部が光って通知する6.3型スマホ「Google Pixel 11 Pro」
+
+Googleは8月12日、新型の6.3型スマートフォン「Google Pixel 11 Pro」を発表した。Google Storeでの直販価格は17万4,800円から。8月12日よりオンライン、8月13日より店頭での予約販売を開始し、8月20日に発売する。
+
+Google、フラッシュ部が光って通知する6.3型スマホ「Google Pixel 11 Pro」
+
+Googleは8月12日、新型の6.3型スマートフォン「Google Pixel 11 Pro」を発表した。Google Storeでの直販価格は17万4,800円から。8月12日よりオンライン、8月13日より店頭での予約販売を開始し、8月20日に発売する。
+
+Google Pixel 11 Proは、最新の「Google Tensor G6」チップの搭載により高い処理性能と省電力性能を両立したスマートフォン。ディスプレイには、最大3,600cd/平方mを誇るGoogle Pixel史上最も明るい「Super Actuaディスプレイ」を採用し、前世代モデルから2倍以上の耐傷性を実現する新しいコーティングを施している。
+
+さらに、背面のカメラフラッシュ周辺に内蔵されたカラーLEDライトが光ることで、スマートフォンを伏せたままでも重要な情報を一目で確認できる新機能「HiLight」を新たに搭載した。背面カメラの望遠レンズは感度を30%向上させるよう全面的に再設計され、5倍でのポートレート撮影が可能なほか、120倍の超解像ズーム Proにより遠くまで鮮明に捉えられる。
+
+主な仕様として、プロセッサはGoogle Tensor G6およびTitan M3セキュリティコプロセッサ、メモリは12GB(ストレージ256GB)または16GB(ストレージ512GB以上)、ストレージは256GB、512GB、または1TB。
+
+ディスプレイは6.3型のSuper Actuaディスプレイを採用し、解像度は1,280×2,856ドット、リ…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/347/1.png" alt="Google、フラッシュ部が光って通知する6.3型スマホ「Google Pixel 11 Pro」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2132347.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/347/1.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/347/1.png"/></item>
+<item><title>最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」</title><link>https://pc.watch.impress.co.jp/docs/news/2132349.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2132349.html</guid><pubDate>Wed, 12 Aug 2026 14:00:00 +0000</pubDate><description><![CDATA[<p>最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」
+
+Googleは8月12日、新型の折りたたみスマートフォン「Google Pixel 11 Pro Fold」を発表した。Google Storeでの直販価格は27万9,900円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日より発売する。
+
+最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」
+
+Googleは8月12日、新型の折りたたみスマートフォン「Google Pixel 11 Pro Fold」を発表した。Google Storeでの直販価格は27万9,900円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日より発売する。
+
+Google Pixel 11 Pro Foldでは、同時に発表されたほかのGoogle Pixel 11シリーズと同様、最新の「Google Tensor G6」チップを搭載し、高い処理能力と高度なオンデバイスAI性能を備えている。折りたたみ時の厚さは10.1mm、広げた状態で5mmのスリムな筐体を実現し、重量は239gに抑えられている。
+
+カバーディスプレイは6.5型で、内側を開くと8型の大画面「Super Actua Flexディスプレイ」が広がる。また、Proモデルと同様に背面のカメラフラッシュ周辺にカラーLEDを内蔵した「HiLight」機能を搭載し、スマートフォンを伏せた状態でもGeminiの応答ステータスや登録した連絡先からの着信をやさしい光のカスタムカラーで通知してくれる。
+
+主な仕様として、プロセッサにはGoogle Tensor G6およびTitan M3セキュリティコプロセッサ、メモリは16GB、ストレージは256GBまたは512GBを備える。
+
+ディスプレイは、外側が6.5型のSuper Actuaディスプレイで解像度は1,080×2,342ドット、内側が8…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/349/3.png" alt="最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2132349.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/349/3.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/349/3.png"/></item>
 <item><title>“Razor Lake-AX”の初期サポートがHWiNFOに追加される</title><link>https://northwood.blog.fc2.com/blog-entry-13173.html</link><guid isPermaLink="true">https://northwood.blog.fc2.com/blog-entry-13173.html</guid><pubDate>Wed, 12 Aug 2026 13:43:51 +0000</pubDate><description><![CDATA[<p>“Razor Lake-AX”の初期サポートがHWiNFOに追加される
 
 北森瓦版 - Northwood Blog (Author : 北森八雲. Since July 10, 2006.)
@@ -1822,17 +1837,6 @@ https://akiba-pc.watch.impress.co.jp/category/event/computex/
 COMPUTEXでMSIが超大型ケース「MEG MAESTRO 900R」をアピール。試作機は何度かお披露目されていましたが、今回展示されているモデルが販売版となるようです。同社のGODLIKEシリーズのマザーボードやLIGHTNINGシリーズのビデオカードを入れるとウルトラハイエンド！な凄いPCが組めます。 pic.twitter.com/guTMNXlklZ
 
 COMPUTEXで組み立てやすさをさらに推し進めたPCケース「MPG VIXTA 300R PZ」を公開。パネル類はワンタッチで外せる構造の部分が多く、メンテナンスのしやすさやPCの組みやすさを重視したモデル。前面パネルがガラスのモデルと空冷ファンのモデルの2種類が用意されています。 pic.twitter.…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2132/137/sss1.jpg" alt="COMPUTEXを振り返る、エグゼクティブなMSIの超大型ケースや、曲面ガラス採用のNZXT製新型ピラーレスケースなど(PCケース編その4)"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2132137.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2132/137/sss1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2132/137/sss1.jpg"/></item>
-<item><title>ガチくんに! 第428回切り抜き「大型調整後のグッパチ使用キャラを語るぷげら・ガチくん」</title><link>https://pc.watch.impress.co.jp/docs/news/2132131.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2132131.html</guid><pubDate>Tue, 11 Aug 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>ガチくんに! 第428回切り抜き「大型調整後のグッパチ使用キャラを語るぷげら・ガチくん」
-
-※毎週木曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイター6攻略企画「ガチくんに!」をTwitchとYouTubeで配信しています。レギュラー出演者はぷげら、奥村茉実。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードした切り抜きとアーカイブの動画を掲載しています。
-
-ガチくんに! 第428回切り抜き「大型調整後のグッパチ使用キャラを語るぷげら・ガチくん」
-
-※毎週木曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイター6攻略企画「ガチくんに!」を Twitch と YouTube で配信しています。レギュラー出演者はぷげら、奥村茉実。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードした切り抜きとアーカイブの動画を掲載しています。
-
-8月6日の配信では、遠征から帰ってきたガチくん、ぷげらさんに、奥村さんを加えたレギュラー陣3名でEsports World Cupの感想戦を実施。後半では、8月3日に実装されたスト6の大型調整の内容や、新キャラ「ヤスミン」に触れつつ、グッパチのキャラクター選びなどについてトークしました。
-
-なお、機材トラブルのため、全編アーカイブの一部が途切れております。ご了承ください。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/131/01.jpg" alt="ガチくんに! 第428回切り抜き「大型調整後のグッパチ使用キャラを語るぷげら・ガチくん」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2132131.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/131/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/131/01.jpg"/></item>
 <item><title>第9世代Core i5搭載のHP製デスクトップPC「ProDesk 600 G5 SF」が27,500円、Qualitの中古Cランク品セール</title><link>https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2131205.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2131205.html</guid><pubDate>Tue, 11 Aug 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>第9世代Core i5搭載のHP製デスクトップPC「ProDesk 600 G5 SF」が27,500円、Qualitの中古Cランク品セール
 
 Core i5-9500(6コア/6スレッド)を搭載したHP製デスクトップPC「ProDesk 600 G5 SF」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で特価販売中。
@@ -1844,6 +1848,17 @@ Core i5-9500(6コア/6スレッド)を搭載したHP製デスクトップPC「Pr
 今回販売されているのは、「傷や使用感が見られる」(同店)というCランク中古品で、販売価格は27,500円。保証期間は12か月となっています。
 
 主な仕様は、メモリが8GB(空きスロット×3)、ストレージが500GB SATA HDD、OSがWindows 11 Pro。インターフェイスには、DisplayPort×2やVGA、USB 3.1 Type-Cなどを備えるほか、書き込み対応DVDドライブを搭載しています。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2131/205/a1.jpg" alt="第9世代Core i5搭載のHP製デスクトップPC「ProDesk 600 G5 SF」が27,500円、Qualitの中古Cランク品セール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2131205.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2131/205/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2131/205/a1.jpg"/></item>
+<item><title>ガチくんに! 第428回切り抜き「大型調整後のグッパチ使用キャラを語るぷげら・ガチくん」</title><link>https://pc.watch.impress.co.jp/docs/news/2132131.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2132131.html</guid><pubDate>Tue, 11 Aug 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>ガチくんに! 第428回切り抜き「大型調整後のグッパチ使用キャラを語るぷげら・ガチくん」
+
+※毎週木曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイター6攻略企画「ガチくんに!」をTwitchとYouTubeで配信しています。レギュラー出演者はぷげら、奥村茉実。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードした切り抜きとアーカイブの動画を掲載しています。
+
+ガチくんに! 第428回切り抜き「大型調整後のグッパチ使用キャラを語るぷげら・ガチくん」
+
+※毎週木曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイター6攻略企画「ガチくんに!」を Twitch と YouTube で配信しています。レギュラー出演者はぷげら、奥村茉実。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードした切り抜きとアーカイブの動画を掲載しています。
+
+8月6日の配信では、遠征から帰ってきたガチくん、ぷげらさんに、奥村さんを加えたレギュラー陣3名でEsports World Cupの感想戦を実施。後半では、8月3日に実装されたスト6の大型調整の内容や、新キャラ「ヤスミン」に触れつつ、グッパチのキャラクター選びなどについてトークしました。
+
+なお、機材トラブルのため、全編アーカイブの一部が途切れております。ご了承ください。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/131/01.jpg" alt="ガチくんに! 第428回切り抜き「大型調整後のグッパチ使用キャラを語るぷげら・ガチくん」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2132131.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/131/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/131/01.jpg"/></item>
 <item><title>大谷翔平の試合を”球場の中”から。Apple Vision Proで生中継</title><link>https://gori.me/apple-vision/168892</link><guid isPermaLink="true">https://gori.me/apple-vision/168892</guid><pubDate>Tue, 11 Aug 2026 01:34:36 +0000</pubDate><description><![CDATA[<p>大谷翔平の試合を”球場の中”から。Apple Vision Proで生中継
 
 大谷翔平を擁するドジャース対ジャイアンツ戦を含む全4試合が、Apple Vision Proの「Apple Immersive」でライブ配信される。8Kの180度3D映像と空間オーディオで球場の中にいる感覚を再現。Apple TV加入者向けに、8月29日午前8時から毎週土曜に配信する。
@@ -6587,23 +6602,6 @@ NZXTから、アドレサブルRGB LEDを搭載するケースファン 「Ultra
 なお「F360U RGB」と「F420U RGB」は3基のファンを一体化したシングルフレーム設計を採用。ラジエーターやケースへの取り付けは4本のネジと1本の8ピンケーブルのみで済むため、配線の簡素化と組み立て時間の短縮が可能としている。
 
 その他、ライティング制御は「NZXT CAM」に対応。新たに搭載された「Advanced Lighting Mode」により、各ゾーンに異なるエフェクトやカラーを設…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/08/07/akiba_nzxt20260807_01.jpg" alt="(アキバ取材班) NZXT、3ゾーンRGBライティング対応ファン「Ultra RGB」シリーズ発売"></p>]]></description><source url="https://www.gdm.or.jp/crew/2026/0807/647299">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/08/07/akiba_nzxt20260807_01.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/08/07/akiba_nzxt20260807_01.jpg"/></item>
-<item><title>�ҤȲƤλפ��Фˡ���Ŵ��100ǯ�ץ쥤���ߤ��ʤǴ������뤿���ν������ץ쥤������</title><link>https://www.4gamer.net/games/933/G093329/20260730034/</link><guid isPermaLink="true">https://www.4gamer.net/games/933/G093329/20260730034/</guid><pubDate>Thu, 06 Aug 2026 23:00:00 +0000</pubDate><description><![CDATA[<p>�ҤȲƤλפ��Фˡ���Ŵ��100ǯ�ץ쥤���ߤ��ʤǴ������뤿���ν������ץ쥤������
-
-夏休みの思い出作りに「桃鉄」100年プレイを楽しむのはどうだろうか？　本稿ではシリーズ最新作「桃太郎電鉄2 〜あなたの町も きっとある〜」で100年プレイを完遂するために役立つ情報をまとめてみた。長…
-
-ひと夏の思い出に「桃鉄」100年プレイ。みんなで完走するための準備＆プレイガイド ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
-
-↓アイコン/タイトル↓ ひと夏の思い出に「桃鉄」100年プレイ。みんなで完走するための準備＆プレイガイド ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ Riot Gamesが明らかにしたアンチチートシステム「Vanguard」の仕組み。Windowsの進化に合わせてチート対策も強力に ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 「スプラトゥーン レイダース」初心者ガイド。これで“気がついたら囲まれていた”から卒業！ レイダース10箇条 ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 明日発売の「スプラトゥーン レイダース」はどんなゲーム？ 物語やゲームの進め方，タンクとガジェットなど本作ならではの特徴を紹介 ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 過去は「消された」わけじゃない。「龍が如く 極3 / 龍が如く3外伝 Dark Ties」の“再演”の先に見えたもの ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ ほとんど操作せずに強キャラできた！…</p><p><img src="https://www.4gamer.net/games/933/G093329/20260730034/SS/020.jpg" alt="�ҤȲƤλפ��Фˡ���Ŵ��100ǯ�ץ쥤���ߤ��ʤǴ������뤿���ν������ץ쥤������"></p>]]></description><source url="https://www.4gamer.net/games/933/G093329/20260730034/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/933/G093329/20260730034/SS/020.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/933/G093329/20260730034/SS/020.jpg"/></item>
 <item><title>��ư��³���ʤ����Ǥ��ե��åȥܥ����󥰤�³��������Switch2�ǡ�Fit Boxing 3�פ��θ�������ȯ�ԤȤ��ɤ륷�꡼�������ߤȹ�����</title><link>https://www.4gamer.net/games/004/G100417/20260721021/</link><guid isPermaLink="true">https://www.4gamer.net/games/004/G100417/20260721021/</guid><pubDate>Thu, 06 Aug 2026 23:00:00 +0000</pubDate><description><![CDATA[<p>��ư��³���ʤ����Ǥ��ե��åȥܥ����󥰤�³��������Switch2�ǡ�Fit Boxing 3�פ��θ�������ȯ�ԤȤ��ɤ륷�꡼�������ߤȹ�����
 
 1作目の登場から何年も継続して運動しているコアな「Fit Boxing」プレイヤーのゲームライターが，開発/販売元のイマジニアに突撃。「Fit Boxing 3 -Your パーソナルトレーナー- …
@@ -6621,6 +6619,23 @@ NZXTから、アドレサブルRGB LEDを搭載するケースファン 「Ultra
 ↓アイコン/タイトル↓ 明日発売の「スプラトゥーン レイダース」はどんなゲーム？ 物語やゲームの進め方，タンクとガジェットなど本作ならではの特徴を紹介 ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
 
 ↓アイコン/タイトル↓ 過去は「消された」わけじゃ…</p><p><img src="https://www.4gamer.net/games/004/G100417/20260721021/SS/023.jpg" alt="��ư��³���ʤ����Ǥ��ե��åȥܥ����󥰤�³��������Switch2�ǡ�Fit Boxing 3�פ��θ�������ȯ�ԤȤ��ɤ륷�꡼�������ߤȹ�����"></p>]]></description><source url="https://www.4gamer.net/games/004/G100417/20260721021/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/004/G100417/20260721021/SS/023.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/004/G100417/20260721021/SS/023.jpg"/></item>
+<item><title>�ҤȲƤλפ��Фˡ���Ŵ��100ǯ�ץ쥤���ߤ��ʤǴ������뤿���ν������ץ쥤������</title><link>https://www.4gamer.net/games/933/G093329/20260730034/</link><guid isPermaLink="true">https://www.4gamer.net/games/933/G093329/20260730034/</guid><pubDate>Thu, 06 Aug 2026 23:00:00 +0000</pubDate><description><![CDATA[<p>�ҤȲƤλפ��Фˡ���Ŵ��100ǯ�ץ쥤���ߤ��ʤǴ������뤿���ν������ץ쥤������
+
+夏休みの思い出作りに「桃鉄」100年プレイを楽しむのはどうだろうか？　本稿ではシリーズ最新作「桃太郎電鉄2 〜あなたの町も きっとある〜」で100年プレイを完遂するために役立つ情報をまとめてみた。長…
+
+ひと夏の思い出に「桃鉄」100年プレイ。みんなで完走するための準備＆プレイガイド ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
+
+↓アイコン/タイトル↓ ひと夏の思い出に「桃鉄」100年プレイ。みんなで完走するための準備＆プレイガイド ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ Riot Gamesが明らかにしたアンチチートシステム「Vanguard」の仕組み。Windowsの進化に合わせてチート対策も強力に ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 「スプラトゥーン レイダース」初心者ガイド。これで“気がついたら囲まれていた”から卒業！ レイダース10箇条 ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 明日発売の「スプラトゥーン レイダース」はどんなゲーム？ 物語やゲームの進め方，タンクとガジェットなど本作ならではの特徴を紹介 ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 過去は「消された」わけじゃない。「龍が如く 極3 / 龍が如く3外伝 Dark Ties」の“再演”の先に見えたもの ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ ほとんど操作せずに強キャラできた！…</p><p><img src="https://www.4gamer.net/games/933/G093329/20260730034/SS/020.jpg" alt="�ҤȲƤλפ��Фˡ���Ŵ��100ǯ�ץ쥤���ߤ��ʤǴ������뤿���ν������ץ쥤������"></p>]]></description><source url="https://www.4gamer.net/games/933/G093329/20260730034/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/933/G093329/20260730034/SS/020.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/933/G093329/20260730034/SS/020.jpg"/></item>
 <item><title>iPhone 18 Pro発売6週間前、10億ドル分のチップが足止めか</title><link>https://gori.me/iphone/iphone-news/168773</link><guid isPermaLink="true">https://gori.me/iphone/iphone-news/168773</guid><pubDate>Thu, 06 Aug 2026 22:32:19 +0000</pubDate><description><![CDATA[<p>iPhone 18 Pro発売6週間前、10億ドル分のチップが足止めか
 
 iPhone 18 Proと初の折りたたみiPhoneの発売まで6週間を切ったこの時期に、AppleがDRAMの確保に走っている。TSMCにはメモリ待ちのプロセッサが約10億ドル分積み上がっているという。ティム・クック氏も7月30日の決算説明会で、供給の逼迫を認めていた。発売直後の在庫にも影響しそうだ。
@@ -9363,19 +9378,4 @@ CFD販売によるとGigabyteがグラボ価格の値上げを行ったため、
 実際、すでに国内の 小売価格は値上がりが見られます 。対象となる製品はGeForce RTX 5000シリーズやRadeon RX 9000シリーズなど。
 
 今回の…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2026/08/gigabyte-geforce-top.jpg" alt="Gigabyte製グラボ、国内価格最大4割値上げ。おそらく他社も似たような状況。GeForce RTX 5000シリーズやRadeon RX 9000シリーズなどが対象"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-131437.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2026/08/gigabyte-geforce-top.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2026/08/gigabyte-geforce-top.jpg"/></item>
-<item><title>レノボ、FeliCa対応の11型業務現場向けAndroidタブレット「Lenovo ThinkTab X11 Gen 1」</title><link>https://www.gdm.or.jp/pressrelease/2026/0805/647023</link><guid isPermaLink="true">https://www.gdm.or.jp/pressrelease/2026/0805/647023</guid><pubDate>Wed, 05 Aug 2026 02:49:14 +0000</pubDate><description><![CDATA[<p>レノボ、FeliCa対応の11型業務現場向けAndroidタブレット「Lenovo ThinkTab X11 Gen 1」
-
-レノボがFeliCa対応の11型業務向けAndroidタブレット「Lenovo ThinkTab X11 Gen 1」を発売。IP68準拠の堅牢設計や着脱式10,200mAhバッテリーを備え、現場業務や受付端末など幅広い用途に対応する。
-
-レノボ、FeliCa対応の11型業務現場向けAndroidタブレット「Lenovo ThinkTab X11 Gen 1」
-
-レノボ・ジャパン合同会社（本社：東京都千代田区）は2026年8月5日、業務用途向け11型Androidタブレット 「Lenovo ThinkTab X11 Gen 1」 を発表した。NFCおよびFeliCa（読み取り専用）に対応し、社員証による本人認証や入退室管理、決済端末など幅広い業務シーンでの利用を想定する。価格はオープンプライス。
-
-Qualcomm Snapdragon 7s Gen 3プロセッサー、6GB LPDDR5メモリー、128GBストレージを搭載。10.95型2.5K（2,560×1,600ドット）ディスプレイを備え、Android 16（発表時）を採用する。フロント面にFeliCa対応センサーを配置し、画面側からカードをかざせる構造とした。
-
-インターフェイスはUSB 3.2 Gen 1 Type-C（DisplayPort出力対応）とUSB 2.0 Type-Cを各1基装備。充電しながらバーコードリーダーなどのUSB機器を利用できるほか、外部ディスプレイへの映像出力にも対応する。無線機能はWi-Fi 6E、Bluetooth 5.4をサポートする。
-
-防塵・防水性能はIP68準拠で、工場や建設現場、屋外設備の保守点検など過酷な環境での利用を想定。濡れた手や手袋を装着したままでもタッチ操作が可能なほか、最大600ニットの高輝度モードにより屋外でも視認性を確保する。
-
-バッテリーは10,200mAhの着脱式を採用し、外部電源のみで動作する「バッテリーレスモード」にも対応…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/08/05/ThinkTab_X11_Gen_1_001.jpg" alt="レノボ、FeliCa対応の11型業務現場向けAndroidタブレット「Lenovo ThinkTab X11 Gen 1」"></p>]]></description><source url="https://www.gdm.or.jp/pressrelease/2026/0805/647023">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/08/05/ThinkTab_X11_Gen_1_001.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/08/05/ThinkTab_X11_Gen_1_001.jpg"/></item>
 </channel></rss>
