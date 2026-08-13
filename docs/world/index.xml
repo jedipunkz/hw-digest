@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Thu, 13 Aug 2026 23:01:57 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Thu, 13 Aug 2026 23:57:53 +0000</lastBuildDate>
+<item><title>$100 GTA 6 version makes up 89% of pre-orders, analysts estimate</title><link>https://www.tweaktown.com/rss/click/news/113108/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113108/?c=news-mf</guid><pubDate>Thu, 13 Aug 2026 23:47:08 +0000</pubDate><description><![CDATA[<p>$100 GTA 6 version makes up 89% of pre-orders, analysts estimate</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113108/?c=news-mf">TweakTown</source></item>
+<item><title>HWiNFO&#39;s latest update quietly confirms Intel is working on Razor Lake-AX</title><link>https://www.tweaktown.com/rss/click/news/113105/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113105/?c=news-mf</guid><pubDate>Thu, 13 Aug 2026 23:30:09 +0000</pubDate><description><![CDATA[<p>HWiNFO&#39;s latest update quietly confirms Intel is working on Razor Lake-AX</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113105/?c=news-mf">TweakTown</source></item>
+<item><title>Raspberry Pi でのビデオ遅延のトラブルシューティング</title><link>https://hackaday.com/2026/08/13/troubleshooting-video-delay-on-the-raspberry-pi/</link><guid isPermaLink="true">https://hackaday.com/2026/08/13/troubleshooting-video-delay-on-the-raspberry-pi/</guid><pubDate>Thu, 13 Aug 2026 23:00:12 +0000</pubDate><description><![CDATA[<p>Raspberry Pi でのビデオ遅延のトラブルシューティング
+
+シングルボード コンピューターの Raspberry Pi シリーズは優れた小型デバイスで、カメラやビデオを使って優れた機能を実行できます。ただし、これらのタスクにはかなりの遅延が発生する可能性があります。
+
+シングルボード コンピューターの Raspberry Pi シリーズは優れた小型デバイスで、カメラやビデオを使って優れた機能を実行できます。ただし、使用しているボードや実行内容によっては、これらのタスクにかなりの遅延が発生する可能性があります。最高のパフォーマンスを得るには、適切な設定を行う必要があります。 [MattKC] は個人プロジェクトでこの問題に取り組み、最近、ある程度の突破口を開きました。
+
+この問題は、[MattKC の] WiiU ゲームパッドのクローン作成作業中に発生しました。このアイデアは、WiiU コンソールからビデオ ストリームを受信し、Raspberry Pi Zero 2W を使用して表示することでした。彼は遅延に関していくつかの問題を抱えていました。ビデオ パイプラインに奇妙な 3 フレームの遅延が発生し、それが解消されませんでした。パイプラインにいくつかのダミー フレームを代入し、出力時にそれらを無視しても機能せず、遅延が発生しました。最終的に、[MattKC] は遅延が特定のフレーム数に関するものではなく、時間の問題であることに気付きました。実際には約 50 ミリ秒です。
+
+さらにドリルダウンすると、フレームがデコーダに送受信される方法に問題があることが判明しました。最初のフレームのデコードには約 50 ミリ秒かかりますが、後のフレームのデコードにははるかに短く、わずか 5 ミリ秒しかかかりません。ただし、[MattKC の] コードは、フレームが完了するとすぐにフレームを取得するように設定されていなかったため、遅延が発生しました。ビデオでは、これについて詳しく説明しており、デコーダーを定期的にポーリングすることが問題の解決にどのように役立つかについて説明していま…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/Eliminating-video-delay-on-the-Raspberry-Pi.-6-3-screenshot.png" alt="Raspberry Pi でのビデオ遅延のトラブルシューティング"></p>]]></description><source url="https://hackaday.com/2026/08/13/troubleshooting-video-delay-on-the-raspberry-pi/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/Eliminating-video-delay-on-the-Raspberry-Pi.-6-3-screenshot.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/Eliminating-video-delay-on-the-Raspberry-Pi.-6-3-screenshot.png"/></item>
 <item><title>このオープンソース アプリは、イミッチ ライブラリを記憶ゲームに変えます。撮ったことをすっかり忘れていた写真を再発見しました</title><link>https://www.xda-developers.com/app-turns-your-immich-library-into-memory-game-rediscovered-photos-forgot/</link><guid isPermaLink="true">https://www.xda-developers.com/app-turns-your-immich-library-into-memory-game-rediscovered-photos-forgot/</guid><pubDate>Thu, 13 Aug 2026 23:00:10 +0000</pubDate><description><![CDATA[<p>このオープンソース アプリは、イミッチ ライブラリを記憶ゲームに変えます。撮ったことをすっかり忘れていた写真を再発見しました
 
 Immich Mini Games では、ここ数年で比べて 1 週間でより多くの写真ライブラリを操作できるようになりました。
@@ -1281,8 +1292,8 @@ Xiaomi / GizmoChina この…</p><p><img src="https://www.androidauthority.com/w
 2026 年 8 月 12 日 Arm CPU オプションを備えたカラフルな MacBook Neo の代替品としての Lenovo IdeaPad Vibe のリーク情報 (1)
 
 2026 年 7 月 29 日 ク…</p><p><img src="https://www.techpowerup.com/img/rrpE74Yl8NTG5Waz.jpg" alt="クアルコム、Snapdragon C搭載の300ドルノートパソコンを発表、Intel N250を最大67%上回る"></p>]]></description><source url="https://www.techpowerup.com/351578/qualcomm-introduces-usd-300-laptops-with-snapdragon-c-outruns-intel-n250-by-up-to-67">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/rrpE74Yl8NTG5Waz.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/rrpE74Yl8NTG5Waz.jpg"/></item>
-<item><title>Flipper Devices&#39; Pavel Zhovner Details Flipper OS, the Modular Platform Driving the Flipper One</title><link>https://www.hackster.io/news/flipper-devices-pavel-zhovner-details-flipper-os-the-modular-platform-driving-the-flipper-one-5080ee075698</link><guid isPermaLink="true">https://www.hackster.io/news/flipper-devices-pavel-zhovner-details-flipper-os-the-modular-platform-driving-the-flipper-one-5080ee075698</guid><pubDate>Thu, 13 Aug 2026 12:08:01 +0000</pubDate><description><![CDATA[<p>Flipper Devices&#39; Pavel Zhovner Details Flipper OS, the Modular Platform Driving the Flipper One</p>]]></description><source url="https://www.hackster.io/news/flipper-devices-pavel-zhovner-details-flipper-os-the-modular-platform-driving-the-flipper-one-5080ee075698">Hackster.io</source></item>
 <item><title>Flipper Devices&#39; Pavel Zhovner Details Flipper OS, the Modlar Platform Driving the Flipper One</title><link>https://www.hackster.io/news/flipper-devices-pavel-zhovner-details-flipper-os-the-modlar-platform-driving-the-flipper-one-5080ee075698</link><guid isPermaLink="true">https://www.hackster.io/news/flipper-devices-pavel-zhovner-details-flipper-os-the-modlar-platform-driving-the-flipper-one-5080ee075698</guid><pubDate>Thu, 13 Aug 2026 12:08:01 +0000</pubDate><description><![CDATA[<p>Flipper Devices&#39; Pavel Zhovner Details Flipper OS, the Modlar Platform Driving the Flipper One</p>]]></description><source url="https://www.hackster.io/news/flipper-devices-pavel-zhovner-details-flipper-os-the-modlar-platform-driving-the-flipper-one-5080ee075698">Hackster.io</source></item>
+<item><title>Flipper Devices&#39; Pavel Zhovner Details Flipper OS, the Modular Platform Driving the Flipper One</title><link>https://www.hackster.io/news/flipper-devices-pavel-zhovner-details-flipper-os-the-modular-platform-driving-the-flipper-one-5080ee075698</link><guid isPermaLink="true">https://www.hackster.io/news/flipper-devices-pavel-zhovner-details-flipper-os-the-modular-platform-driving-the-flipper-one-5080ee075698</guid><pubDate>Thu, 13 Aug 2026 12:08:01 +0000</pubDate><description><![CDATA[<p>Flipper Devices&#39; Pavel Zhovner Details Flipper OS, the Modular Platform Driving the Flipper One</p>]]></description><source url="https://www.hackster.io/news/flipper-devices-pavel-zhovner-details-flipper-os-the-modular-platform-driving-the-flipper-one-5080ee075698">Hackster.io</source></item>
 <item><title>Maxsun Terminator B850M Pro II マザーボード レビュー: 機能は同等ですが、米国での価格はメーカー希望小売価格を超えています</title><link>https://www.tomshardware.com/pc-components/motherboards/maxsun-terminator-b850m-pro-ii-motherboard-review</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/motherboards/maxsun-terminator-b850m-pro-ii-motherboard-review</guid><pubDate>Thu, 13 Aug 2026 12:05:00 +0000</pubDate><description><![CDATA[<p>Maxsun Terminator B850M Pro II マザーボード レビュー: 機能は同等ですが、米国での価格はメーカー希望小売価格を超えています
 
 Maxsun は、低価格の B850M 分野で波紋を起こしていますが、現在の価格設定では、競合他社に対する恩恵を妨げています。
@@ -3604,63 +3615,6 @@ Pixel 11 シリーズが主役であることは明らかです。これをハ�
 新しい HiLight 機能は Pro スマートフォンで利用できるため、ベースモデルの Pixel は点灯しないままになります。 HiLight は、電話機の背面にあるフラッシュ アセンブリ内の RGB LED のリングで構成されています。 Gemini と話しているときに点灯するので、自分の声が聞こえたことや AI が動作していることを知るために携帯電話の画面を見る必要はありません。したがって、電話機を下向きに置くのが最も合理的です。
 
 多色の LED は、特定の…</p><p><img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Google-2026-lineup-1152x648.jpg" alt="Google、2026年のハードウェアラインナップを発表：Pixel 11、Pixel Watch 5、Pixel Tag"></p>]]></description><source url="https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/">Ars Technica Gear &amp; Gadgets</source><media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Google-2026-lineup-1152x648.jpg" medium="image"/><media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Google-2026-lineup-1152x648.jpg"/></item>
-<item><title>Pixel Watch 5 は、Health Guardian を使用した早期警告システムになる可能性があります</title><link>https://www.androidauthority.com/google-pixel-watch-5-health-guardian-3697552/</link><guid isPermaLink="true">https://www.androidauthority.com/google-pixel-watch-5-health-guardian-3697552/</guid><pubDate>Wed, 12 Aug 2026 14:00:46 +0000</pubDate><description><![CDATA[<p>Pixel Watch 5 は、Health Guardian を使用した早期警告システムになる可能性があります
-
-Google の Health Guardian は、呼吸の緊急事態の検出や血圧の傾向などを備えた健康モニタリングを Pixel ウォッチに提供します。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Pixel Watch 5 は、Health Guardian を使用した早期警告システムになる可能性があります
-
-0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google の新しい Health Guardian は、Pixel Watch の健康データをバックグラウンドで信号を分析し、より有用な洞察に変えます。
-
-呼吸緊急検知により、血中酸素の持続的な低下を発見し、緊急サービスに通報できる可能性があります。
-
-血圧とインスリン抵抗性トレンドは、血圧や血糖値を直接測定しなくても長期的な変化を追跡し、この秋に Pixel Watch 3、Watch 4、Watch 5、および互換性のある Fitbit デバイスに展開される予定です。
-
-スマートウォッチはすでに私たちの健康状態について、ほとんどばかげたほどのことを知っています。私たちがいつ寝るか、どれだけ動いているか、ランニング中にどれだけ心臓が働いているかを知っています。問題は、この情報の多くが最終的にヘルスケア アプリ内に別のグラフとして埋め込まれてしまうことです。 Google は、Pixel Watch でもっと便利なことができるはずだと考えています。
-
-これが、この秋登場する新しい健康機能のコレクションである Health Guardian の背後にある考え方です。ユーザーが個々の測定値を詳しく調べるのを待つのではなく、バックグラウンドで収集された信号を分析し、実際に注意を払う価値がある可能性のある変化にフラグを立てます。
-
-それらの中で最も即時的なのは、呼吸…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-2-scaled.jpg" alt="Pixel Watch 5 は、Health Guardian を使用した早期警告システムになる可能性があります"></p>]]></description><source url="https://www.androidauthority.com/google-pixel-watch-5-health-guardian-3697552/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-2-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-2-scaled.jpg"/></item>
-<item><title>すべての Pixel 11 スマートフォンは、ファンが待ち望んでいたワイヤレス充電速度をサポートしています</title><link>https://www.androidauthority.com/google-pixel-11-wireless-charging-3697309/</link><guid isPermaLink="true">https://www.androidauthority.com/google-pixel-11-wireless-charging-3697309/</guid><pubDate>Wed, 12 Aug 2026 14:00:46 +0000</pubDate><description><![CDATA[<p>すべての Pixel 11 スマートフォンは、ファンが待ち望んでいたワイヤレス充電速度をサポートしています
-
-Google の新しい Pixel 11 シリーズは Qi 2.2 を完全にサポートしており、全体で最大 25 ワットの磁気ワイヤレス充電が可能です。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Android スマートフォンすべての Pixel 11 スマートフォンは、ファンが待ち望んでいたワイヤレス充電速度をサポートしています
-
-0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR すべての Pixel 11 スマートフォンは Qi 2.2 規格をサポートしており、25 ワットの磁気ワイヤレス充電を提供します。
-
-昨年の Pixel 10 シリーズのうち、25 ワットのワイヤレス充電をサポートしていたのは 10 Pro XL だけでした。
-
-既存の Pixelsnap 充電器は、35W USB-C 電源ブリックと組み合わせると 25W を供給できます。
-
-数カ月間のリークを経て、Googleは本日、ニューヨークのイベントでついにPixel 11シリーズ全体のパッケージを外した。新しい携帯電話には、新しいカメラセンサーから充電速度の高速化に至るまで、思慮深く実用的なアップグレードが数多く組み込まれています。今年、すべての Pixel 11 モデルが Qi 2.2 充電をサポートします。これは、昨年 10 Pro XL のみに搭載されていた機能です。
-
-Qi 2.2 充電では、互換性のある電源に接続された互換性のあるワイヤレス充電器を使用している場合、最大 25 W のより高速なワイヤレス充電速度が可能になります。これは、Pixel 11、Pixel 11 Pro、Pixel 11 Pro Fold にとって大きなメリットです。これらの 2025 年モデルの最高値はすべて 15W です。
-
-Robert Triggs / And…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-pixel-11-pro-xl-hands-on-8-scaled.jpg" alt="すべての Pixel 11 スマートフォンは、ファンが待ち望んでいたワイヤレス充電速度をサポートしています"></p>]]></description><source url="https://www.androidauthority.com/google-pixel-11-wireless-charging-3697309/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-pixel-11-pro-xl-hands-on-8-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-pixel-11-pro-xl-hands-on-8-scaled.jpg"/></item>
-<item><title>Google、2倍のストレージ、より大きなバッテリー、Gemini Intelligenceを搭載したPixel Watch 5を発表</title><link>https://www.androidauthority.com/google-pixel-watch-5-launch-3695435/</link><guid isPermaLink="true">https://www.androidauthority.com/google-pixel-watch-5-launch-3695435/</guid><pubDate>Wed, 12 Aug 2026 14:00:46 +0000</pubDate><description><![CDATA[<p>Google、2倍のストレージ、より大きなバッテリー、Gemini Intelligenceを搭載したPixel Watch 5を発表
-
-Google は Pixel Watch 5 を正式に発売しました。同社の最新スマートウォッチは現在予約注文可能です。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Google、2倍のストレージ、より大きなバッテリー、Gemini Intelligenceを搭載したPixel Watch 5を発表
-
-0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google は Pixel Watch 5 を発売しました。
-
-スマートウォッチの新機能には、生成ウォッチフェイス、血圧トレンド、呼吸緊急検知などが含まれます。
-
-価格は41mm Wi-Fiモデルが399ドル、45mm Wi-Fiモデルが429ドル、ステフィン・カリー特別版が579ドルとなる。
-
-今日は、Google が待望の Pixel 発売イベントを開催し、Pixel Watch 5 と Pixel 11 シリーズを披露する日です。ショーの開始を今晩まで待つ代わりに、同社は少し早めに情報を公開し、同時に新しいハードウェアの予約注文も開始している。 Pixel Watch シリーズの最新作は何を提供するのでしょうか?それでは、詳細に入り、Pixel Watch 5 について知っておくべきことをすべて調べてみましょう。
-
-Google Pixel Watch 5 メーカー希望小売価格: $399.00 Amazon で価格を見る Google Pixel Watch 5: デザイン、カラー、バンド、モデル
-
-Joe Maring / Android Authority まず始めるのに最適な場所は、前世代の外観を忠実に再現したデザインです。昨年、Google は Pixel Watch 4 に変更を加え、ドームがわずかに平らになりました。 Google…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516.jpg" alt="Google、2倍のストレージ、より大きなバッテリー、Gemini Intelligenceを搭載したPixel Watch 5を発表"></p>]]></description><source url="https://www.androidauthority.com/google-pixel-watch-5-launch-3695435/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516.jpg"/></item>
 <item><title>Pixel 11 Proは、3世代を経て正式に温度計に別れを告げます</title><link>https://www.androidauthority.com/pixel-11-pro-phones-no-thermometer-3697115/</link><guid isPermaLink="true">https://www.androidauthority.com/pixel-11-pro-phones-no-thermometer-3697115/</guid><pubDate>Wed, 12 Aug 2026 14:00:46 +0000</pubDate><description><![CDATA[<p>Pixel 11 Proは、3世代を経て正式に温度計に別れを告げます
 
 Googleは2023年にPixel Proスマートフォンに温度計を導入しましたが、Pixel 11 Proスマートフォンには温度計が搭載されていないことが公式に確認されました。
@@ -3682,6 +3636,63 @@ Google は Android Authority に対して、Pixel 11 シリーズのデバイス
 Pixel 11 シリーズには温度センサーが搭載されていません。私たちは毎年、できるだけ多くの人々のお役に立てるように、Pixel の製品の進歩に取り組んでいます。 Pixel の温度センサーにより、外出先でも測定値を取得できるという安心感が得られました。そして今回、HiLight は、重要な通知を見逃さないという安心感を提供すると同時に、Gemini と積極的に会話しているときに視覚的な合図も提供します。
 
 温度セ…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-vs-pixel-10-pro-hands-on-3-scaled.jpg" alt="Pixel 11 Proは、3世代を経て正式に温度計に別れを告げます"></p>]]></description><source url="https://www.androidauthority.com/pixel-11-pro-phones-no-thermometer-3697115/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-vs-pixel-10-pro-hands-on-3-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-vs-pixel-10-pro-hands-on-3-scaled.jpg"/></item>
+<item><title>Google、2倍のストレージ、より大きなバッテリー、Gemini Intelligenceを搭載したPixel Watch 5を発表</title><link>https://www.androidauthority.com/google-pixel-watch-5-launch-3695435/</link><guid isPermaLink="true">https://www.androidauthority.com/google-pixel-watch-5-launch-3695435/</guid><pubDate>Wed, 12 Aug 2026 14:00:46 +0000</pubDate><description><![CDATA[<p>Google、2倍のストレージ、より大きなバッテリー、Gemini Intelligenceを搭載したPixel Watch 5を発表
+
+Google は Pixel Watch 5 を正式に発売しました。同社の最新スマートウォッチは現在予約注文可能です。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+Google、2倍のストレージ、より大きなバッテリー、Gemini Intelligenceを搭載したPixel Watch 5を発表
+
+0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google は Pixel Watch 5 を発売しました。
+
+スマートウォッチの新機能には、生成ウォッチフェイス、血圧トレンド、呼吸緊急検知などが含まれます。
+
+価格は41mm Wi-Fiモデルが399ドル、45mm Wi-Fiモデルが429ドル、ステフィン・カリー特別版が579ドルとなる。
+
+今日は、Google が待望の Pixel 発売イベントを開催し、Pixel Watch 5 と Pixel 11 シリーズを披露する日です。ショーの開始を今晩まで待つ代わりに、同社は少し早めに情報を公開し、同時に新しいハードウェアの予約注文も開始している。 Pixel Watch シリーズの最新作は何を提供するのでしょうか?それでは、詳細に入り、Pixel Watch 5 について知っておくべきことをすべて調べてみましょう。
+
+Google Pixel Watch 5 メーカー希望小売価格: $399.00 Amazon で価格を見る Google Pixel Watch 5: デザイン、カラー、バンド、モデル
+
+Joe Maring / Android Authority まず始めるのに最適な場所は、前世代の外観を忠実に再現したデザインです。昨年、Google は Pixel Watch 4 に変更を加え、ドームがわずかに平らになりました。 Google…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516.jpg" alt="Google、2倍のストレージ、より大きなバッテリー、Gemini Intelligenceを搭載したPixel Watch 5を発表"></p>]]></description><source url="https://www.androidauthority.com/google-pixel-watch-5-launch-3695435/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516.jpg"/></item>
+<item><title>すべての Pixel 11 スマートフォンは、ファンが待ち望んでいたワイヤレス充電速度をサポートしています</title><link>https://www.androidauthority.com/google-pixel-11-wireless-charging-3697309/</link><guid isPermaLink="true">https://www.androidauthority.com/google-pixel-11-wireless-charging-3697309/</guid><pubDate>Wed, 12 Aug 2026 14:00:46 +0000</pubDate><description><![CDATA[<p>すべての Pixel 11 スマートフォンは、ファンが待ち望んでいたワイヤレス充電速度をサポートしています
+
+Google の新しい Pixel 11 シリーズは Qi 2.2 を完全にサポートしており、全体で最大 25 ワットの磁気ワイヤレス充電が可能です。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+Android スマートフォンすべての Pixel 11 スマートフォンは、ファンが待ち望んでいたワイヤレス充電速度をサポートしています
+
+0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR すべての Pixel 11 スマートフォンは Qi 2.2 規格をサポートしており、25 ワットの磁気ワイヤレス充電を提供します。
+
+昨年の Pixel 10 シリーズのうち、25 ワットのワイヤレス充電をサポートしていたのは 10 Pro XL だけでした。
+
+既存の Pixelsnap 充電器は、35W USB-C 電源ブリックと組み合わせると 25W を供給できます。
+
+数カ月間のリークを経て、Googleは本日、ニューヨークのイベントでついにPixel 11シリーズ全体のパッケージを外した。新しい携帯電話には、新しいカメラセンサーから充電速度の高速化に至るまで、思慮深く実用的なアップグレードが数多く組み込まれています。今年、すべての Pixel 11 モデルが Qi 2.2 充電をサポートします。これは、昨年 10 Pro XL のみに搭載されていた機能です。
+
+Qi 2.2 充電では、互換性のある電源に接続された互換性のあるワイヤレス充電器を使用している場合、最大 25 W のより高速なワイヤレス充電速度が可能になります。これは、Pixel 11、Pixel 11 Pro、Pixel 11 Pro Fold にとって大きなメリットです。これらの 2025 年モデルの最高値はすべて 15W です。
+
+Robert Triggs / And…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-pixel-11-pro-xl-hands-on-8-scaled.jpg" alt="すべての Pixel 11 スマートフォンは、ファンが待ち望んでいたワイヤレス充電速度をサポートしています"></p>]]></description><source url="https://www.androidauthority.com/google-pixel-11-wireless-charging-3697309/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-pixel-11-pro-xl-hands-on-8-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-pixel-11-pro-xl-hands-on-8-scaled.jpg"/></item>
+<item><title>Pixel Watch 5 は、Health Guardian を使用した早期警告システムになる可能性があります</title><link>https://www.androidauthority.com/google-pixel-watch-5-health-guardian-3697552/</link><guid isPermaLink="true">https://www.androidauthority.com/google-pixel-watch-5-health-guardian-3697552/</guid><pubDate>Wed, 12 Aug 2026 14:00:46 +0000</pubDate><description><![CDATA[<p>Pixel Watch 5 は、Health Guardian を使用した早期警告システムになる可能性があります
+
+Google の Health Guardian は、呼吸の緊急事態の検出や血圧の傾向などを備えた健康モニタリングを Pixel ウォッチに提供します。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+Pixel Watch 5 は、Health Guardian を使用した早期警告システムになる可能性があります
+
+0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google の新しい Health Guardian は、Pixel Watch の健康データをバックグラウンドで信号を分析し、より有用な洞察に変えます。
+
+呼吸緊急検知により、血中酸素の持続的な低下を発見し、緊急サービスに通報できる可能性があります。
+
+血圧とインスリン抵抗性トレンドは、血圧や血糖値を直接測定しなくても長期的な変化を追跡し、この秋に Pixel Watch 3、Watch 4、Watch 5、および互換性のある Fitbit デバイスに展開される予定です。
+
+スマートウォッチはすでに私たちの健康状態について、ほとんどばかげたほどのことを知っています。私たちがいつ寝るか、どれだけ動いているか、ランニング中にどれだけ心臓が働いているかを知っています。問題は、この情報の多くが最終的にヘルスケア アプリ内に別のグラフとして埋め込まれてしまうことです。 Google は、Pixel Watch でもっと便利なことができるはずだと考えています。
+
+これが、この秋登場する新しい健康機能のコレクションである Health Guardian の背後にある考え方です。ユーザーが個々の測定値を詳しく調べるのを待つのではなく、バックグラウンドで収集された信号を分析し、実際に注意を払う価値がある可能性のある変化にフラグを立てます。
+
+それらの中で最も即時的なのは、呼吸…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-2-scaled.jpg" alt="Pixel Watch 5 は、Health Guardian を使用した早期警告システムになる可能性があります"></p>]]></description><source url="https://www.androidauthority.com/google-pixel-watch-5-health-guardian-3697552/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-2-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-2-scaled.jpg"/></item>
 <item><title>樹脂印刷への復帰: 最初の結果</title><link>https://hackaday.com/2026/08/12/getting-back-into-resin-printing-first-results/</link><guid isPermaLink="true">https://hackaday.com/2026/08/12/getting-back-into-resin-printing-first-results/</guid><pubDate>Wed, 12 Aug 2026 14:00:44 +0000</pubDate><description><![CDATA[<p>樹脂印刷への復帰: 最初の結果
 
 前回の中断時、私はちょうど新しい SLA 樹脂プリンターをセットアップし、2026 年の樹脂印刷が 2020 年当時と比べてどうなるかを確認するために最初の印刷を行うところでした。
@@ -3714,25 +3725,6 @@ Pixel 11 シリーズ (および新しい Pixel Watch 5 と Pixel Tag) を使用
 Pixel 11 の小さいカメラバーは素晴らしいです
 
 Joe Maring / Android Authority Google は昨年、基本モデルの Pixel 10 に望遠カメラを追加したとき、私たちに本当に感銘を受けました。良いニュースは、Pixel 11で…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pixel-11-pro-pixel-11-pro-xl-hands-on-3-scaled.jpg" alt="Pixel 11シリーズを2時間いじってみました。これが私を驚かせた点、そして何がうまくいかなかったのかです"></p>]]></description><source url="https://www.androidauthority.com/google-pixel-11-watch-5-tag-hands-on-3697194/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pixel-11-pro-pixel-11-pro-xl-hands-on-3-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pixel-11-pro-pixel-11-pro-xl-hands-on-3-scaled.jpg"/></item>
-<item><title>Pixel 11 のキャリアセール: 新しい Google Pixel を節約する方法は次のとおりです</title><link>https://www.androidauthority.com/pixel-11-carrier-deals-3697709/</link><guid isPermaLink="true">https://www.androidauthority.com/pixel-11-carrier-deals-3697709/</guid><pubDate>Wed, 12 Aug 2026 14:00:39 +0000</pubDate><description><![CDATA[<p>Pixel 11 のキャリアセール: 新しい Google Pixel を節約する方法は次のとおりです
-
-Pixel 11 シリーズは公式です。お金を節約したい場合は、現在利用できる Pixel 11 キャリアのセールをすべてここでご紹介します。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Pixel 11 のキャリアセール: 新しい Google Pixel を節約する方法は次のとおりです
-
-0 • Joe Maring / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Verizon は、他の通信事業者から Simplicity プランに切り替えるユーザーに Pixel 11 Pro を無料で提供しています。
-
-また、新しい Pixel 11 シリーズの携帯電話で新しい Verizon ラインを購入するユーザーには、Pixel Watch 5 と Galaxy Tab S10 FE も提供されます。
-
-ユーザーは既存のスマートフォンを下取りに出して、Pixel 11 シリーズのデバイスを最大 1,100 ドル割引で購入できます。
-
-Google は本日、最新のスマートフォンである Pixel 11 、Pixel 11 Pro、Pixel 11 Pro XL、および Pixel 11 Pro Fold を発売しました。スマートフォンを Pixel 11 ファミリーの新しいモデルにアップグレードすることを考えている場合は、アップグレードが簡単になり、お金の節約に役立つ通信会社の特典を見逃すことはできません。
-
-Verizon は、新規顧客と既存顧客の両方に向けて、Pixel 11 シリーズに関していくつかのオファーを提供しています。通信事業者が何を誰に向けて提供しているのかを詳しく説明します。
-
-まず、新規ユーザーは、Verizon の Simplicity プランの回線と 256GB Pixel 1…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-hands-on-1-scaled.jpg" alt="Pixel 11 のキャリアセール: 新しい Google Pixel を節約する方法は次のとおりです"></p>]]></description><source url="https://www.androidauthority.com/pixel-11-carrier-deals-3697709/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-hands-on-1-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-hands-on-1-scaled.jpg"/></item>
 <item><title>Pixel 11 カメラには、コンテンツ作成者のニーズに対応する内蔵テレプロンプターとタイムラインが付属しています</title><link>https://www.androidauthority.com/pixel-11-camera-creator-suite-3696821/</link><guid isPermaLink="true">https://www.androidauthority.com/pixel-11-camera-creator-suite-3696821/</guid><pubDate>Wed, 12 Aug 2026 14:00:39 +0000</pubDate><description><![CDATA[<p>Pixel 11 カメラには、コンテンツ作成者のニーズに対応する内蔵テレプロンプターとタイムラインが付属しています
 
 Pixel 11 の新しい Creator Suite では、カメラ アプリ内にテレプロンプター、編集タイムライン、自動編成されたビデオ クリップが搭載されています。
@@ -3752,6 +3744,25 @@ Pixel 11 では、ビデオ クリップをプロジェクト アルバムに自
 Google は Pixel 11 に、動画クリエイターがより簡単に創造性を発揮できるようにする新しいツール セットを追加します。これらの機能は、Google が「クリエイター スイート」と呼ぶものにグループ化されており、特にフロント カメラを使用する場合にビデオ作成が容易になります。
 
 Pixel 11 の Creator Suite の機能の中には、ビデオ録画中にオー…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-creator-suite-hands-on-2-scaled.jpg" alt="Pixel 11 カメラには、コンテンツ作成者のニーズに対応する内蔵テレプロンプターとタイムラインが付属しています"></p>]]></description><source url="https://www.androidauthority.com/pixel-11-camera-creator-suite-3696821/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-creator-suite-hands-on-2-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-creator-suite-hands-on-2-scaled.jpg"/></item>
+<item><title>Pixel 11 のキャリアセール: 新しい Google Pixel を節約する方法は次のとおりです</title><link>https://www.androidauthority.com/pixel-11-carrier-deals-3697709/</link><guid isPermaLink="true">https://www.androidauthority.com/pixel-11-carrier-deals-3697709/</guid><pubDate>Wed, 12 Aug 2026 14:00:39 +0000</pubDate><description><![CDATA[<p>Pixel 11 のキャリアセール: 新しい Google Pixel を節約する方法は次のとおりです
+
+Pixel 11 シリーズは公式です。お金を節約したい場合は、現在利用できる Pixel 11 キャリアのセールをすべてここでご紹介します。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+Pixel 11 のキャリアセール: 新しい Google Pixel を節約する方法は次のとおりです
+
+0 • Joe Maring / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Verizon は、他の通信事業者から Simplicity プランに切り替えるユーザーに Pixel 11 Pro を無料で提供しています。
+
+また、新しい Pixel 11 シリーズの携帯電話で新しい Verizon ラインを購入するユーザーには、Pixel Watch 5 と Galaxy Tab S10 FE も提供されます。
+
+ユーザーは既存のスマートフォンを下取りに出して、Pixel 11 シリーズのデバイスを最大 1,100 ドル割引で購入できます。
+
+Google は本日、最新のスマートフォンである Pixel 11 、Pixel 11 Pro、Pixel 11 Pro XL、および Pixel 11 Pro Fold を発売しました。スマートフォンを Pixel 11 ファミリーの新しいモデルにアップグレードすることを考えている場合は、アップグレードが簡単になり、お金の節約に役立つ通信会社の特典を見逃すことはできません。
+
+Verizon は、新規顧客と既存顧客の両方に向けて、Pixel 11 シリーズに関していくつかのオファーを提供しています。通信事業者が何を誰に向けて提供しているのかを詳しく説明します。
+
+まず、新規ユーザーは、Verizon の Simplicity プランの回線と 256GB Pixel 1…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-hands-on-1-scaled.jpg" alt="Pixel 11 のキャリアセール: 新しい Google Pixel を節約する方法は次のとおりです"></p>]]></description><source url="https://www.androidauthority.com/pixel-11-carrier-deals-3697709/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-hands-on-1-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-hands-on-1-scaled.jpg"/></item>
 <item><title>Pixel 11 では、リアルタイムのライブ翻訳により、あらゆる言語のビデオを簡単に視聴できます</title><link>https://www.androidauthority.com/pixel-11-live-translate-videos-podcasts-3696795/</link><guid isPermaLink="true">https://www.androidauthority.com/pixel-11-live-translate-videos-podcasts-3696795/</guid><pubDate>Wed, 12 Aug 2026 14:00:32 +0000</pubDate><description><![CDATA[<p>Pixel 11 では、リアルタイムのライブ翻訳により、あらゆる言語のビデオを簡単に視聴できます
 
 Google Pixel 11 は、ビデオとポッドキャストの自動ダビングをサポートしています。 YouTube と一部のサードパーティ製ビデオおよびポッドキャスト アプリをサポートします。
@@ -3894,27 +3905,6 @@ Samsung と Google の 2 社は、シリコンカーボン電池の採用に関�
 残念ながら、Google は Android Authority に対し、Pixel 11 スマートフォンにはシリコンカーボン電池が搭載されていないと述べました。
 
 Pixel 11 シリーズ スマートフォンのバッテリー セルには 100% リサイクルされたリチウムが含まれています。シリコンカーボン電池は使用しません。優れた信頼性を実現するように設計されており、30 時間以上のバッテリー寿命…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-hands-on-1-scaled.jpg" alt="Pixel 11 スマートフォンにはシリコンカーボンバッテリーが搭載されていますか? Googleはこう言っています。"></p>]]></description><source url="https://www.androidauthority.com/google-pixel-11-phones-silicon-carbon-batteries-3697731/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-hands-on-1-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-hands-on-1-scaled.jpg"/></item>
-<item><title>Pixel Watch 5 は GPS ルートの精度で最大のライバルを上回る可能性がある</title><link>https://www.androidauthority.com/pixel-watch-5-gps-improvements-3695358/</link><guid isPermaLink="true">https://www.androidauthority.com/pixel-watch-5-gps-improvements-3695358/</guid><pubDate>Wed, 12 Aug 2026 14:00:22 +0000</pubDate><description><![CDATA[<p>Pixel Watch 5 は GPS ルートの精度で最大のライバルを上回る可能性がある
-
-Google は、前世代の 2 倍のルート追跡精度を提供すると言われている Pixel Watch 5 を発売しました。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Pixel Watch 5 は GPS ルートの精度で最大のライバルを上回る可能性がある
-
-0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google は、Pixel Watch 5 での GPS ルート追跡を改善しました。
-
-Android の位置情報テクノロジーと 3D 建物モデル、GNSS 基準局ネットワーク、大気補正、建物の反射補正を組み合わせることで、追跡が改善されました。
-
-Google は、GPS ルート追跡が Apple Watch Ultra 3 や Garmin Fenix 8 Pro よりも優れていると自慢しています。
-
-Google は、これまでで最も先進的なスマートウォッチである Pixel Watch 5 を発売しました。見た目は以前のバージョンと同じですが、このデバイスにはいくつかの新機能と改良点が含まれています。最も注目すべき改善点の 1 つは、GPS ルート追跡です。
-
-同社によれば、高層ビルが立ち並ぶ街中を走っている場合でも、並木道を走っている場合でも、新しい GPS ルート追跡アルゴリズムのおかげで、あらゆる歩幅が正確に記録されるという。
-
-Googleは、同社のGPS追跡は前世代の2倍のルート追跡精度を実現すると付け加えた。実際、Google は Pixel Watch 5 の GPS 追跡に非常に自信を持っており、いくつかの大きな主張をしています。同社は、その追跡性能が Apple Watch Ultra 3 や Garmin Fenix 8 Pro の追跡性能を上回っていると自慢しています。
-
-ルート追跡に関して、Google は自…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516.jpg" alt="Pixel Watch 5 は GPS ルートの精度で最大のライバルを上回る可能性がある"></p>]]></description><source url="https://www.androidauthority.com/pixel-watch-5-gps-improvements-3695358/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516.jpg"/></item>
 <item><title>Google Pixel 11 シリーズが登場、スタンダードとプロの間のギャップはかつてないほど広がる</title><link>https://www.androidauthority.com/google-pixel-11-series-3693865/</link><guid isPermaLink="true">https://www.androidauthority.com/google-pixel-11-series-3693865/</guid><pubDate>Wed, 12 Aug 2026 14:00:22 +0000</pubDate><description><![CDATA[<p>Google Pixel 11 シリーズが登場、スタンダードとプロの間のギャップはかつてないほど広がる
 
 GoogleはついにPixel 11シリーズを発表しましたが、標準モデルとProモデルの差はこれまでにないほど開いています。
@@ -3938,6 +3928,27 @@ Google Pixel 11 Pro (12/256GB): $1,099
 Google Pixel 11 Pro (16GB/512GB): 1,219ドル
 
 Google Pixel 11 Pr…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pixel-11-pro-pixel-11-pro-xl-hands-on-2-scaled.jpg" alt="Google Pixel 11 シリーズが登場、スタンダードとプロの間のギャップはかつてないほど広がる"></p>]]></description><source url="https://www.androidauthority.com/google-pixel-11-series-3693865/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pixel-11-pro-pixel-11-pro-xl-hands-on-2-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pixel-11-pro-pixel-11-pro-xl-hands-on-2-scaled.jpg"/></item>
+<item><title>Pixel Watch 5 は GPS ルートの精度で最大のライバルを上回る可能性がある</title><link>https://www.androidauthority.com/pixel-watch-5-gps-improvements-3695358/</link><guid isPermaLink="true">https://www.androidauthority.com/pixel-watch-5-gps-improvements-3695358/</guid><pubDate>Wed, 12 Aug 2026 14:00:22 +0000</pubDate><description><![CDATA[<p>Pixel Watch 5 は GPS ルートの精度で最大のライバルを上回る可能性がある
+
+Google は、前世代の 2 倍のルート追跡精度を提供すると言われている Pixel Watch 5 を発売しました。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+Pixel Watch 5 は GPS ルートの精度で最大のライバルを上回る可能性がある
+
+0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google は、Pixel Watch 5 での GPS ルート追跡を改善しました。
+
+Android の位置情報テクノロジーと 3D 建物モデル、GNSS 基準局ネットワーク、大気補正、建物の反射補正を組み合わせることで、追跡が改善されました。
+
+Google は、GPS ルート追跡が Apple Watch Ultra 3 や Garmin Fenix 8 Pro よりも優れていると自慢しています。
+
+Google は、これまでで最も先進的なスマートウォッチである Pixel Watch 5 を発売しました。見た目は以前のバージョンと同じですが、このデバイスにはいくつかの新機能と改良点が含まれています。最も注目すべき改善点の 1 つは、GPS ルート追跡です。
+
+同社によれば、高層ビルが立ち並ぶ街中を走っている場合でも、並木道を走っている場合でも、新しい GPS ルート追跡アルゴリズムのおかげで、あらゆる歩幅が正確に記録されるという。
+
+Googleは、同社のGPS追跡は前世代の2倍のルート追跡精度を実現すると付け加えた。実際、Google は Pixel Watch 5 の GPS 追跡に非常に自信を持っており、いくつかの大きな主張をしています。同社は、その追跡性能が Apple Watch Ultra 3 や Garmin Fenix 8 Pro の追跡性能を上回っていると自慢しています。
+
+ルート追跡に関して、Google は自…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516.jpg" alt="Pixel Watch 5 は GPS ルートの精度で最大のライバルを上回る可能性がある"></p>]]></description><source url="https://www.androidauthority.com/pixel-watch-5-gps-improvements-3695358/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516.jpg"/></item>
 <item><title>Pixel 11 の Magic Capture は、ショット (またはその瞬間) を決して逃さないことを約束します。</title><link>https://www.androidauthority.com/google-pixel-11-magic-capture-3695823/</link><guid isPermaLink="true">https://www.androidauthority.com/google-pixel-11-magic-capture-3695823/</guid><pubDate>Wed, 12 Aug 2026 14:00:21 +0000</pubDate><description><![CDATA[<p>Pixel 11 の Magic Capture は、ショット (またはその瞬間) を決して逃さないことを約束します。
 
 Pixel 11 の Magic Capture は写真やビデオを自動的に処理するため、画面を見つめることなく人生の重要な瞬間を楽しむことができます。
@@ -4539,19 +4550,6 @@ CPU、RAM、冷却、BIOS 設定、さらにはバックグラウンドの Windo
 CPU がボトルネックになる可能性が高くなります
 
 GPU がフレーム時間の低下の原因であると考えるのは簡単ですが、実際にその可能性があります。フレーム時間が長いときに GPU の使用率が常に 100% に近い場合は、それが問題である可能性があります。ただし、ほとんどのゲーマーは、GPU …</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/01/black-myth-wukong-with-dlss-4-5-on-a-gaming-pc-with-nvidia-rtx-4070-ti.jpg?w=1600&amp;h=900&amp;fit=crop" alt="フレームタイムが悪いのを GPU のせいにするのをやめて、代わりに次の 4 つの原因を見つけました。"></p>]]></description><source url="https://www.xda-developers.com/i-stopped-blaming-gpu-for-bad-frame-times/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/01/black-myth-wukong-with-dlss-4-5-on-a-gaming-pc-with-nvidia-rtx-4070-ti.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/01/black-myth-wukong-with-dlss-4-5-on-a-gaming-pc-with-nvidia-rtx-4070-ti.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>Asobi Remote Play アプリを使用すると、ゲーマーはコンソールがなくても Steam デッキで PS4 および PS5 ゲームをストリーミングできます — 開発者は、PlayStation Portal の PlayStation Plus Premium クラウド ゲーム サポートを無料で廃止します</title><link>https://www.tomshardware.com/video-games/playstation/asobi-remote-play-app-lets-gamers-stream-ps4-and-ps5-games-on-the-steam-deck-even-without-a-console-dev-breaks-playstation-plus-premium-cloud-gaming-support-free-of-the-playstation-portal</link><guid isPermaLink="true">https://www.tomshardware.com/video-games/playstation/asobi-remote-play-app-lets-gamers-stream-ps4-and-ps5-games-on-the-steam-deck-even-without-a-console-dev-breaks-playstation-plus-premium-cloud-gaming-support-free-of-the-playstation-portal</guid><pubDate>Wed, 12 Aug 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>Asobi Remote Play アプリを使用すると、ゲーマーはコンソールがなくても Steam デッキで PS4 および PS5 ゲームをストリーミングできます — 開発者は、PlayStation Portal の PlayStation Plus Premium クラウド ゲーム サポートを無料で廃止します
-
-本体は必要ありませんが、PlayStation Plus Premium への加入が必要です。
-
-Asobi Remote Play アプリを使用すると、ゲーマーはコンソールがなくても Steam デッキで PS4 および PS5 ゲームをストリーミングできます — 開発者は、PlayStation Portal の PlayStation Plus Premium クラウド ゲーム サポートを無料で廃止します
-
-本体は必要ありませんが、PlayStation Plus Premium への加入が必要です。
-
-(画像クレジット: アソビ: リモート プレイ) リンクをコピー
-
-1 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する ソニーでは、ゲーマーがいくつかの異なるツールを使用して PlayStation コンソールにリモートでアクセスできるようにしています。 Remote Play アプリを使用すると、ゲーマーはゲーム機から携帯電話、タブレット、PC にタイトルをストリーミングできます。 PlayStation Portal ハンドヘルド版には追加のトリックがあります。 PS5 ゲームをゲーマー自身のコンソールからローカルにストリーミングすることも、PlayStation Plus Premium サービスのクラウド ゲーム ライブラリから直接ストリーミングすることもできます。
-
-Chiaki のようなサードパーティ アプリはすでに PS Remote Play の機能を Linux に導入していますが、新しい Asobi Remote Play アプリはその機能を Steam から直接利用…</p><p><img src="https://cdn.mos.cms.futurecdn.net/WFy2VKiRWYa8m2yjZSQPba-1920-80.jpg" alt="Asobi Remote Play アプリを使用すると、ゲーマーはコンソールがなくても Steam デッキで PS4 および PS5 ゲームをストリーミングできます — 開発者は、PlayStation Portal の PlayStation Plus Premium クラウド ゲーム サポートを無料で廃止します"></p>]]></description><source url="https://www.tomshardware.com/video-games/playstation/asobi-remote-play-app-lets-gamers-stream-ps4-and-ps5-games-on-the-steam-deck-even-without-a-console-dev-breaks-playstation-plus-premium-cloud-gaming-support-free-of-the-playstation-portal">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/WFy2VKiRWYa8m2yjZSQPba-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/WFy2VKiRWYa8m2yjZSQPba-1920-80.jpg"/></item>
 <item><title>Samsung Foundry、1.4nm ノードを 2029 年までに移行するためのプロセス ロードマップを更新 — 高 NA EUV により、2030 年以降に 1nm クラス以下のノードが可能になる</title><link>https://www.tomshardware.com/tech-industry/samsung-foundry-updates-process-roadmap-to-move-1-4nm-node-to-2029-high-na-euv-will-enable-1nm-class-and-smaller-nodes-in-2030-and-beyond</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/samsung-foundry-updates-process-roadmap-to-move-1-4nm-node-to-2029-high-na-euv-will-enable-1nm-class-and-smaller-nodes-in-2030-and-beyond</guid><pubDate>Wed, 12 Aug 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>Samsung Foundry、1.4nm ノードを 2029 年までに移行するためのプロセス ロードマップを更新 — 高 NA EUV により、2030 年以降に 1nm クラス以下のノードが可能になる
 
 サムスンファウンドリ
@@ -4567,6 +4565,19 @@ Samsung Foundry、1.4nm ノードを 2029 年までに移行するためのプ�
 サムスンは、2030年頃に10オングストローム（または1nmクラス）ノードに移行する前に、SF2シリーズの製造技術（裏面給電を備えたSF2P、SF2X、SF2A、SF2Zを含む）を改良し、2029年にSF1.4プロセスを導入する予定だ。
 
 SF1.4の2027年から2029年への延期は、同社が収量と生産量の観点からSF2ファミリーの商業的競争力を高めることにリソースを集中させるための最先端のペースを鈍らせていることを示している。サムスンが AI5 および AI6 プロセッサを 2033 年まで供給する長期供給契約をテスラと…</p><p><img src="https://cdn.mos.cms.futurecdn.net/4AwuaQsSRccnfs9YmA2RVT-1920-80.jpg" alt="Samsung Foundry、1.4nm ノードを 2029 年までに移行するためのプロセス ロードマップを更新 — 高 NA EUV により、2030 年以降に 1nm クラス以下のノードが可能になる"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/samsung-foundry-updates-process-roadmap-to-move-1-4nm-node-to-2029-high-na-euv-will-enable-1nm-class-and-smaller-nodes-in-2030-and-beyond">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/4AwuaQsSRccnfs9YmA2RVT-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/4AwuaQsSRccnfs9YmA2RVT-1920-80.jpg"/></item>
+<item><title>Asobi Remote Play アプリを使用すると、ゲーマーはコンソールがなくても Steam デッキで PS4 および PS5 ゲームをストリーミングできます — 開発者は、PlayStation Portal の PlayStation Plus Premium クラウド ゲーム サポートを無料で廃止します</title><link>https://www.tomshardware.com/video-games/playstation/asobi-remote-play-app-lets-gamers-stream-ps4-and-ps5-games-on-the-steam-deck-even-without-a-console-dev-breaks-playstation-plus-premium-cloud-gaming-support-free-of-the-playstation-portal</link><guid isPermaLink="true">https://www.tomshardware.com/video-games/playstation/asobi-remote-play-app-lets-gamers-stream-ps4-and-ps5-games-on-the-steam-deck-even-without-a-console-dev-breaks-playstation-plus-premium-cloud-gaming-support-free-of-the-playstation-portal</guid><pubDate>Wed, 12 Aug 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>Asobi Remote Play アプリを使用すると、ゲーマーはコンソールがなくても Steam デッキで PS4 および PS5 ゲームをストリーミングできます — 開発者は、PlayStation Portal の PlayStation Plus Premium クラウド ゲーム サポートを無料で廃止します
+
+本体は必要ありませんが、PlayStation Plus Premium への加入が必要です。
+
+Asobi Remote Play アプリを使用すると、ゲーマーはコンソールがなくても Steam デッキで PS4 および PS5 ゲームをストリーミングできます — 開発者は、PlayStation Portal の PlayStation Plus Premium クラウド ゲーム サポートを無料で廃止します
+
+本体は必要ありませんが、PlayStation Plus Premium への加入が必要です。
+
+(画像クレジット: アソビ: リモート プレイ) リンクをコピー
+
+1 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する ソニーでは、ゲーマーがいくつかの異なるツールを使用して PlayStation コンソールにリモートでアクセスできるようにしています。 Remote Play アプリを使用すると、ゲーマーはゲーム機から携帯電話、タブレット、PC にタイトルをストリーミングできます。 PlayStation Portal ハンドヘルド版には追加のトリックがあります。 PS5 ゲームをゲーマー自身のコンソールからローカルにストリーミングすることも、PlayStation Plus Premium サービスのクラウド ゲーム ライブラリから直接ストリーミングすることもできます。
+
+Chiaki のようなサードパーティ アプリはすでに PS Remote Play の機能を Linux に導入していますが、新しい Asobi Remote Play アプリはその機能を Steam から直接利用…</p><p><img src="https://cdn.mos.cms.futurecdn.net/WFy2VKiRWYa8m2yjZSQPba-1920-80.jpg" alt="Asobi Remote Play アプリを使用すると、ゲーマーはコンソールがなくても Steam デッキで PS4 および PS5 ゲームをストリーミングできます — 開発者は、PlayStation Portal の PlayStation Plus Premium クラウド ゲーム サポートを無料で廃止します"></p>]]></description><source url="https://www.tomshardware.com/video-games/playstation/asobi-remote-play-app-lets-gamers-stream-ps4-and-ps5-games-on-the-steam-deck-even-without-a-console-dev-breaks-playstation-plus-premium-cloud-gaming-support-free-of-the-playstation-portal">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/WFy2VKiRWYa8m2yjZSQPba-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/WFy2VKiRWYa8m2yjZSQPba-1920-80.jpg"/></item>
 <item><title>Apollo Automation が、ESP32-C6 ボード、4 つの FPC モジュールを備えた 40 ドルの公式 ESPHome スターター キットを発売</title><link>https://www.cnx-software.com/2026/08/12/apollo-automation-official-esphome-starter-kit-with-esp32-c6-board-four-fpc-modules/</link><guid isPermaLink="true">https://www.cnx-software.com/2026/08/12/apollo-automation-official-esphome-starter-kit-with-esp32-c6-board-four-fpc-modules/</guid><pubDate>Wed, 12 Aug 2026 10:55:05 +0000</pubDate><description><![CDATA[<p>Apollo Automation が、ESP32-C6 ボード、4 つの FPC モジュールを備えた 40 ドルの公式 ESPHome スターター キットを発売
 
 Apollo Automation の ESPHome スターター キットは、Apollo Automation が協力して設計および設計した初の公式 ESPHome スターター キットです。
@@ -7027,52 +7038,6 @@ Google が I/O 2026 で Googlebook を発表して以来、先月の Googlebook 
 Bluetooth SIG 認証データベースで見つかった情報によると、Acer はモデル番号 GP714-91N50A0、GP714-91N58Y2、GP714-91N596Q、および GP714-91N70CH の少なくとも 4 つの Googlebook の発売を準備しています (GbookHub 経由)。
 
 Bluetooth SIG このアウトレットでは、次期ラップトップの主要な仕様の一部を含む小売店のリストも見つかりました。 Acer の Google…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/05/googlebook-name-on-laptop-official-logo.jpg" alt="Acer初のGooglebookは低価格Chromebookの間違いを回避できる可能性がある"></p>]]></description><source url="https://www.androidauthority.com/acer-googlebook-specs-price-leak-3696858/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/05/googlebook-name-on-laptop-official-logo.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/05/googlebook-name-on-laptop-official-logo.jpg"/></item>
-<item><title>NVIDIA RTX 50 シリーズの中央価格は 8 月に最大 39% に上昇、メーカー希望小売価格は今や遠い夢</title><link>https://www.techpowerup.com/351508/nvidia-rtx-50-series-median-prices-jump-up-to-39-in-august-with-msrp-now-a-distant-dream</link><guid isPermaLink="true">https://www.techpowerup.com/351508/nvidia-rtx-50-series-median-prices-jump-up-to-39-in-august-with-msrp-now-a-distant-dream</guid><pubDate>Tue, 11 Aug 2026 09:42:29 +0000</pubDate><description><![CDATA[<p>NVIDIA RTX 50 シリーズの中央価格は 8 月に最大 39% に上昇、メーカー希望小売価格は今や遠い夢
-
-NVIDIA の GeForce RTX 50 シリーズの「Blackwell」グラフィックス カードは、過去数か月間で大幅な価格上昇が見られ、特に 7 月から 8 月にかけての値上がりが顕著でした。米国最大のコンピュータ ハードウェア小売店の 1 つである Newegg に、顕著な変化がありました...
-
-NVIDIA RTX 50 シリーズの中央価格は 8 月に最大 39% に上昇、メーカー希望小売価格は今や遠い夢
-
-2026 年 1 月 16 日 NVIDIA が GeForce RTX 5070 Ti の生産を終了、RTX 5060 Ti 16 GB Next (210) と伝えられる
-
-2026 年 3 月 30 日 NVIDIA が、RT パフォーマンスを大幅に向上させた Rubin ベースの GeForce RTX 60 シリーズをリリース (162)
-
-2025 年 9 月 10 日 NVIDIA GeForce RTX 50 シリーズ SUPER GPU が CES 2026 に登場する可能性 (69)
-
-2026 年 7 月 10 日 NVIDIA が GeForce RTX 5090 SE グラフィックス カードを準備 (161)
-
-2025 年 12 月 31 日 AI 業界の需要のおかげで、2026 年に 5000 ドルの RTX 5090 GPU が登場するとリークが予測 (124)
-
-2025 年 9 月 18 日 NVIDIA がインテルを 50 億ドル相当で買収、RTX iGPU が x86 に登場、株価は 25% 上昇 (256)
-
-2025 年 9 月 3 日 NVIDIA ディスクリート GPU 市場シェアの優位性が 94% に拡大、ノート レポート (237)
-
-2026 年 5 月 27 日 リーカーが天文学的な蒸気機械の価格を示唆 (74)
-
-2025 年 9 月 29 日 NVIDIA GeForce RTX…</p><p><img src="https://www.techpowerup.com/img/is3brPNcZyXfwrhO.jpg" alt="NVIDIA RTX 50 シリーズの中央価格は 8 月に最大 39% に上昇、メーカー希望小売価格は今や遠い夢"></p>]]></description><source url="https://www.techpowerup.com/351508/nvidia-rtx-50-series-median-prices-jump-up-to-39-in-august-with-msrp-now-a-distant-dream">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/is3brPNcZyXfwrhO.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/is3brPNcZyXfwrhO.jpg"/></item>
-<item><title>NVIDIA RTX 50 シリーズの価格は 8 月に最大 39% に上昇、メーカー希望小売価格は今や遠い夢</title><link>https://www.techpowerup.com/351508/nvidia-rtx-50-series-prices-jump-up-to-39-in-august-with-msrp-now-a-distant-dream</link><guid isPermaLink="true">https://www.techpowerup.com/351508/nvidia-rtx-50-series-prices-jump-up-to-39-in-august-with-msrp-now-a-distant-dream</guid><pubDate>Tue, 11 Aug 2026 09:42:29 +0000</pubDate><description><![CDATA[<p>NVIDIA RTX 50 シリーズの価格は 8 月に最大 39% に上昇、メーカー希望小売価格は今や遠い夢
-
-NVIDIA の GeForce RTX 50 シリーズの「Blackwell」グラフィックス カードは、過去数か月間で大幅な価格上昇が見られ、特に 7 月から 8 月にかけての値上がりが顕著でした。米国最大のコンピュータ ハードウェア小売店の 1 つである Newegg に、顕著な変化がありました...
-
-NVIDIA RTX 50 シリーズの価格は 8 月に最大 39% に上昇、メーカー希望小売価格は今や遠い夢
-
-2026 年 1 月 16 日 NVIDIA が GeForce RTX 5070 Ti の生産を終了、RTX 5060 Ti 16 GB Next (210) と伝えられる
-
-2026 年 3 月 30 日 NVIDIA が、RT パフォーマンスを大幅に向上させた Rubin ベースの GeForce RTX 60 シリーズをリリース (162)
-
-2025 年 9 月 10 日 NVIDIA GeForce RTX 50 シリーズ SUPER GPU が CES 2026 に登場する可能性 (69)
-
-2026 年 7 月 10 日 NVIDIA が GeForce RTX 5090 SE グラフィックス カードを準備 (161)
-
-2025 年 12 月 31 日 AI 業界の需要のおかげで、2026 年に 5000 ドルの RTX 5090 GPU が登場するとリークが予測 (124)
-
-2025 年 9 月 18 日 NVIDIA がインテルを 50 億ドル相当で買収、RTX iGPU が x86 に登場、株価は 25% 上昇 (256)
-
-2025 年 9 月 3 日 NVIDIA ディスクリート GPU 市場シェアの優位性が 94% に拡大、ノート レポート (237)
-
-2026 年 5 月 27 日 リーカーが天文学的な蒸気機械の価格を示唆 (74)
-
-2025 年 9 月 29 日 NVIDIA GeForce RTX 50 …</p><p><img src="https://www.techpowerup.com/img/is3brPNcZyXfwrhO.jpg" alt="NVIDIA RTX 50 シリーズの価格は 8 月に最大 39% に上昇、メーカー希望小売価格は今や遠い夢"></p>]]></description><source url="https://www.techpowerup.com/351508/nvidia-rtx-50-series-prices-jump-up-to-39-in-august-with-msrp-now-a-distant-dream">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/is3brPNcZyXfwrhO.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/is3brPNcZyXfwrhO.jpg"/></item>
 <item><title>NVIDIA RTX 50 シリーズの中央価格は 8 月に最大 41% に上昇、メーカー希望小売価格は今や遠い夢</title><link>https://www.techpowerup.com/351508/nvidia-rtx-50-series-median-prices-jump-up-to-41-in-august-with-msrp-now-a-distant-dream</link><guid isPermaLink="true">https://www.techpowerup.com/351508/nvidia-rtx-50-series-median-prices-jump-up-to-41-in-august-with-msrp-now-a-distant-dream</guid><pubDate>Tue, 11 Aug 2026 09:42:29 +0000</pubDate><description><![CDATA[<p>NVIDIA RTX 50 シリーズの中央価格は 8 月に最大 41% に上昇、メーカー希望小売価格は今や遠い夢
 
 NVIDIA の GeForce RTX 50 シリーズの「Blackwell」グラフィックス カードは、過去数か月間で大幅な価格上昇が見られ、特に 7 月から 8 月にかけての値上がりが顕著でした。米国最大のコンピュータ ハードウェア小売店の 1 つである Newegg に、顕著な変化がありました...
@@ -7096,38 +7061,27 @@ NVIDIA RTX 50 シリーズの中央価格は 8 月に最大 41% に上昇、メ�
 2026 年 5 月 28 日 リーカーが天文学的な蒸気機械の価格を示唆 (74)
 
 2025 年 9 月 29 日 NVIDIA GeForce RTX…</p><p><img src="https://www.techpowerup.com/img/is3brPNcZyXfwrhO.jpg" alt="NVIDIA RTX 50 シリーズの中央価格は 8 月に最大 41% に上昇、メーカー希望小売価格は今や遠い夢"></p>]]></description><source url="https://www.techpowerup.com/351508/nvidia-rtx-50-series-median-prices-jump-up-to-41-in-august-with-msrp-now-a-distant-dream">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/is3brPNcZyXfwrhO.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/is3brPNcZyXfwrhO.jpg"/></item>
-<item><title>iPhone では想像できない、私が Pixel で定期的に行っている 6 つのこと</title><link>https://www.androidauthority.com/regular-pixel-features-not-possible-iphone-3694392/</link><guid isPermaLink="true">https://www.androidauthority.com/regular-pixel-features-not-possible-iphone-3694392/</guid><pubDate>Tue, 11 Aug 2026 09:30:41 +0000</pubDate><description><![CDATA[<p>iPhone では想像できない、私が Pixel で定期的に行っている 6 つのこと
+<item><title>NVIDIA RTX 50 シリーズの価格は 8 月に最大 39% に上昇、メーカー希望小売価格は今や遠い夢</title><link>https://www.techpowerup.com/351508/nvidia-rtx-50-series-prices-jump-up-to-39-in-august-with-msrp-now-a-distant-dream</link><guid isPermaLink="true">https://www.techpowerup.com/351508/nvidia-rtx-50-series-prices-jump-up-to-39-in-august-with-msrp-now-a-distant-dream</guid><pubDate>Tue, 11 Aug 2026 09:42:29 +0000</pubDate><description><![CDATA[<p>NVIDIA RTX 50 シリーズの価格は 8 月に最大 39% に上昇、メーカー希望小売価格は今や遠い夢
 
-Google の Pixel スマートフォンを当然のことと考えるのは簡単です。しかし、最も単純な機能でさえ iPhone を赤面させるでしょう。
+NVIDIA の GeForce RTX 50 シリーズの「Blackwell」グラフィックス カードは、過去数か月間で大幅な価格上昇が見られ、特に 7 月から 8 月にかけての値上がりが顕著でした。米国最大のコンピュータ ハードウェア小売店の 1 つである Newegg に、顕著な変化がありました...
 
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+NVIDIA RTX 50 シリーズの価格は 8 月に最大 39% に上昇、メーカー希望小売価格は今や遠い夢
 
-iPhone では想像できない、私が Pixel で定期的に行っている 6 つのこと
+2026 年 1 月 16 日 NVIDIA が GeForce RTX 5070 Ti の生産を終了、RTX 5060 Ti 16 GB Next (210) と伝えられる
 
-0 • Joe Maring / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください 私は自分をプラットフォームに依存しないライターだと思っていますが、結局、テクノロジー生活の大部分を Apple デバイスとともに過ごすことになります。私の仕事用 OS は Mac です (ただし、今でも Windows を使用しています)。SIM カードは主に iPhone にありますが、毎日 Google Pixel 9a を使用し、マルチデバイスの WhatsApp 同期やメッセージング アプリなどを使用しています。
+2026 年 3 月 30 日 NVIDIA が、RT パフォーマンスを大幅に向上させた Rubin ベースの GeForce RTX 60 シリーズをリリース (162)
 
-私はPixel 9aが大好きです。軽くて小さくて、どこにでも簡単に持ち運べます。そして、純正の Android エクスペリエンスは一度も私を失望させたことはありません。 Pixel を手に取るたびに、iPhone ではできない (または同じようにできない) 驚くほど普通のことをやっている自分に気づきます。
+2025 年 9 月 10 日 NVIDIA GeForce RTX 50 シリーズ SUPER GPU が CES 2026 に登場する可能性 (69)
 
-また、これは複雑な 5 ステップのパワーユーザー自動化でもありません (もちろんそれは可能ですが)。人生と同じように、小さなことが大切です。そして、それらの小さなことが積み重なって、iPhone を手に取った瞬間には考えられないような楽しい体験が生まれます。
+2026 年 7 月 10 日 NVIDIA が GeForce RTX 5090 SE グラフィックス カードを準備 (161)
 
-iPhone に欠かせない機能は何ですか?
+2025 年 12 月 31 日 AI 業界の需要のおかげで、2026 年に 5000 ドルの RTX 5090 GPU が登場するとリークが予測 (124)
 
-幅広いマルチタスクのオプション
+2025 年 9 月 18 日 NVIDIA がインテルを 50 億ドル相当で買収、RTX iGPU が x86 に登場、株価は 25% 上昇 (256)
 
-iPad は複雑なウィンドウ マルチタスクをサポートするようになりましたが、iPhone はまだサポートしていませ…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/01/google-pixel-9a-back-iris-jan-2026-2-scaled.jpg" alt="iPhone では想像できない、私が Pixel で定期的に行っている 6 つのこと"></p>]]></description><source url="https://www.androidauthority.com/regular-pixel-features-not-possible-iphone-3694392/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/01/google-pixel-9a-back-iris-jan-2026-2-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/01/google-pixel-9a-back-iris-jan-2026-2-scaled.jpg"/></item>
-<item><title>DIY モッダーはスターリング エンジンを搭載した「熱エンジン コンピューティング デバイス」を作成し、テトリス、スネーク、ポンを実行可能 — 80 MHz プロセッサはわずか 150 ミリワットの電力で動作します</title><link>https://www.tomshardware.com/pc-components/case-mods/diy-modder-creates-heat-engine-computing-device-powered-by-a-stirling-engine-80-mhz-esp32-can-run-tetris-snake-and-pong-on-just-150-milliwatts-of-power</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/case-mods/diy-modder-creates-heat-engine-computing-device-powered-by-a-stirling-engine-80-mhz-esp32-can-run-tetris-snake-and-pong-on-just-150-milliwatts-of-power</guid><pubDate>Tue, 11 Aug 2026 09:30:00 +0000</pubDate><description><![CDATA[<p>DIY モッダーはスターリング エンジンを搭載した「熱エンジン コンピューティング デバイス」を作成し、テトリス、スネーク、ポンを実行可能 — 80 MHz プロセッサはわずか 150 ミリワットの電力で動作します
+2025 年 9 月 3 日 NVIDIA ディスクリート GPU 市場シェアの優位性が 94% に拡大、ノート レポート (237)
 
-スターリング エンジンとレトロ コンピューティングの出会い
+2026 年 5 月 27 日 リーカーが天文学的な蒸気機械の価格を示唆 (74)
 
-DIY モッダーはスターリング エンジンを搭載した「熱エンジン コンピューティング デバイス」を作成し、テトリス、スネーク、ポンを実行可能 — 80 MHz プロセッサはわずか 150 ミリワットの電力で動作します
-
-スターリング エンジンとレトロ コンピューティングの出会い
-
-(画像クレジット: Reddit の PickentCode) リンクをコピー
-
-0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 最もユニークな DIY プロジェクトの 1 つで、Reddit ユーザー PickentCode は、完全にオフグリッドの「熱エンジン コンピューティング デバイス」と言えるものを作成しました。ソーラー パネルやバッテリー パックに依存する代わりに、作成者はまったく異なる方向に進み、手作りの木製コンソールに電力を供給する小型スターリング エンジンを搭載した、スチームパンクにインスピレーションを受けたカスタム マイクロコンピューターを構築しました。
-
-スターリング エンジンは、1816 年にスコットランドの大臣で発明家のロバート スターリングによって最初に特許を取得され、熱を機械エネルギーに直接変換します。密閉されたシリンダーの一端に炎を当てると、温度差により内部の空気が膨張および収縮します。このサイクルはピストンを押してフライホイールを回転させ、機械的な回転を使用可能な電気に変換する単純な発電機に電力を供給するために使用できます。
-
-「プロジェクト全体の設計、構築、プログラミングには約 1 か月かかりました」と PickentCode は Tom&#39;s Hardware に語った。彼らは、木材で物理的なケースを構築する前に、まず…</p><p><img src="https://cdn.mos.cms.futurecdn.net/MG7G8ZHEJpE3LqHmMEmTiG-1280-80.jpg" alt="DIY モッダーはスターリング エンジンを搭載した「熱エンジン コンピューティング デバイス」を作成し、テトリス、スネーク、ポンを実行可能 — 80 MHz プロセッサはわずか 150 ミリワットの電力で動作します"></p>]]></description><source url="https://www.tomshardware.com/pc-components/case-mods/diy-modder-creates-heat-engine-computing-device-powered-by-a-stirling-engine-80-mhz-esp32-can-run-tetris-snake-and-pong-on-just-150-milliwatts-of-power">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/MG7G8ZHEJpE3LqHmMEmTiG-1280-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/MG7G8ZHEJpE3LqHmMEmTiG-1280-80.jpg"/></item>
+2025 年 9 月 29 日 NVIDIA GeForce RTX 50 …</p><p><img src="https://www.techpowerup.com/img/is3brPNcZyXfwrhO.jpg" alt="NVIDIA RTX 50 シリーズの価格は 8 月に最大 39% に上昇、メーカー希望小売価格は今や遠い夢"></p>]]></description><source url="https://www.techpowerup.com/351508/nvidia-rtx-50-series-prices-jump-up-to-39-in-august-with-msrp-now-a-distant-dream">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/is3brPNcZyXfwrhO.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/is3brPNcZyXfwrhO.jpg"/></item>
 </channel></rss>
