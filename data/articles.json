@@ -19,6 +19,15 @@
       "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2026/08/ark-sale2026-summer-jisaku-top.jpg"
     },
     {
+      "Title": "明日まで！50％ポイント還元！Kindle本 学園マンガ特集開催中",
+      "Link": "https://www.nichepcgamer.com/archives/post-131650.html",
+      "Published": "2026-08-14T17:44:20Z",
+      "Source": "ニッチなPCゲーマーの環境構築Z",
+      "Category": "雑記",
+      "Summary": "明日まで！50％ポイント還元！Kindle本 学園マンガ特集開催中\n\nAmazonにて、Kindle本を購入すると50％がポイント還元される『Amazonマンガ週末セール 学園マンガ特集』が開催されています。 例えば、814円の対象Kindle本を購入すると、50％と...\n\nAmazonにて、Kindle本を購入すると 50％がポイント還元 される『 Amazonマンガ週末セール 学園マンガ特集 』が開催されています。\n\n例えば、814円の対象Kindle本を購入すると、50％となる407ポイントが還元されるという非常にお得なキャンペーンとなっています。\n\nKindle本は Kindleデバイス だけでなく、 無料の専用アプリ を使えばWindowsやMac、AndroidにiPhone ＆ iPadでもお楽しみいただけます。読みたい本が還元対象になっていないか、この機会にチェックしてみてはいかがでしょうか！\n\nキャンペーン期限は 明日2026年8月16日(日)PM23:59まで。 キャンペーンページへは以下リンクよりどうぞ！\n\nAmazon.co.jp Amazonマンガ毎週末セール 学園マンガ特集 50％ポイント還元\n\n筆者は自作PC歴20年以上の経験を持ち、Windows OSの細部にわたるカスタマイズや高度な設定、PCゲームの最適化、PCハードウェアとソフトウェアに関する専門知識をもとに、PC環境を快適にするための情報、不具合に遭わないようにするための情報、そして、ちょっとニッチよりなPCユーザー向け記事の執筆を2015年4月から11年にわたって行っています。\n\n長年の経験により得たノウハウを活かし、初心者から上級者まで幅広く対応できる情報を提供し、読者様のPCライフをより快適で充実したものにすることを目指しています。",
+      "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2026/08/kindle-sale-202608-50-new-a.png"
+    },
+    {
       "Title": "『Gears of War: E-Day Multiplayer Beta』の各種ベンチマーク。最高画質はかなりの重量級。RTX 5070 Ti以上がほしいかも",
       "Link": "https://www.nichepcgamer.com/archives/gears-of-war-e-day-multiplayer-beta-benchmark.html",
       "Published": "2026-08-14T17:19:37Z",
@@ -712,15 +721,6 @@
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/660/1.jpg"
     },
     {
-      "Title": "Zoomの注釈機能に脆弱性、リモートコード実行などの恐れ。AI活用で発見に1日かからず",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/2132649.html",
-      "Published": "2026-08-13T21:12:00Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "Zoomの注釈機能に脆弱性、リモートコード実行などの恐れ。AI活用で発見に1日かからず\n\nWeb会議サービス「Zoom」の注釈機能に存在する脆弱性を、AIがあっという間に見つけ出した。A Securityは8月11日、Zoomのクライアントアプリに存在する脆弱性を報告した。リモートコード実行やサービス拒否攻撃につながる恐れがあるという。なお、ベンダーには6月に開示済みで、すでにパッチの提供も始まっている。\n\nZoomの注釈機能に脆弱性、リモートコード実行などの恐れ。AI活用で発見に1日かからず\n\nWeb会議サービス「Zoom」の注釈機能に存在する脆弱性を、AIがあっという間に見つけ出した。A Securityは8月11日、Zoomのクライアントアプリに存在する脆弱性を報告した。リモートコード実行やサービス拒否攻撃につながる恐れがあるという。なお、ベンダーには6月に開示済みで、すでにパッチの提供も始まっている。\n\n今回報告されたのは、注釈機能に使われるライブラリ「libannotate.so」に存在する脆弱性。Zoomでは、描画やスタンプといった注釈を、その内容を示すメモリ上のオブジェクトにシリアライズして送信し、受信側でデシリアライズする仕組みを採用している。ここで、受信側は送られてきたデータを自動的にパースする仕様となっているという。\n\n攻撃者はこれを悪用し、会議の参加者すべてに対して悪意あるデータを送り込むことで、ゼロクリックでのリモートコード実行やサービス拒否攻撃を行なえるという。\n\n今回発見された脆弱性は、CVE-2026-53413(バッファオーバーライト)、CVE-2026-53414(バッファオーバーリード)、CVE-2026-53415(任意のメモリ書き込み)の3件。影響を受けるのは、バージョン7.0.5以前のWindows/macOS/iOS/Android/Linux版Zoomクライアント、バージョン7.1.5または7.0.6より前のZoom Workplaceクライアント。Zoomでは、いずれの場合も対策が施された最新版へアップデートするよう呼びか…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/649/01.jpg"
-    },
-    {
       "Title": "【今すぐ読みたい！人気記事】PC-9800シリーズ風の現代PCを作ってみよう！～5インチFDDは動くのかも試してみた - PC Watch",
       "Link": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2132661.html",
       "Published": "2026-08-13T21:12:00Z",
@@ -728,6 +728,15 @@
       "Category": "",
       "Summary": "【今すぐ読みたい！人気記事】PC-9800シリーズ風の現代PCを作ってみよう！～5インチFDDは動くのかも試してみた - PC Watch\n\nSilverStoneが2023年に発表し、2025年2月に発売となった「FLP01」というケースをご存じだろうか。見ての通り、古のNECのPC-9800シリーズ、あるいはPC-8800シリーズ風デザインを彷彿とさせる、横置きデザインのATXケースだ。\n\nPC-9800シリーズ風の現代PCを作ってみよう！～5インチFDDは動くのかも試してみた\n\nSilverStoneが2023年に発表し、2025年2月に発売となった「FLP01」というケースをご存じだろうか。見ての通り、古のNECのPC-9800シリーズ、あるいはPC-8800シリーズ風デザインを彷彿とさせる、横置きデザインのATXケースだ。\n\nこのケースは、5インチベイ部分のカバーが5インチFDドライブ風になっているのが特徴。そして上の段は実際の5インチベイ、下の段はカバーで開き、USBなどの前面インターフェイスになっている。",
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/661/1.jpg"
+    },
+    {
+      "Title": "Zoomの注釈機能に脆弱性、リモートコード実行などの恐れ。AI活用で発見に1日かからず",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2132649.html",
+      "Published": "2026-08-13T21:12:00Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "Zoomの注釈機能に脆弱性、リモートコード実行などの恐れ。AI活用で発見に1日かからず\n\nWeb会議サービス「Zoom」の注釈機能に存在する脆弱性を、AIがあっという間に見つけ出した。A Securityは8月11日、Zoomのクライアントアプリに存在する脆弱性を報告した。リモートコード実行やサービス拒否攻撃につながる恐れがあるという。なお、ベンダーには6月に開示済みで、すでにパッチの提供も始まっている。\n\nZoomの注釈機能に脆弱性、リモートコード実行などの恐れ。AI活用で発見に1日かからず\n\nWeb会議サービス「Zoom」の注釈機能に存在する脆弱性を、AIがあっという間に見つけ出した。A Securityは8月11日、Zoomのクライアントアプリに存在する脆弱性を報告した。リモートコード実行やサービス拒否攻撃につながる恐れがあるという。なお、ベンダーには6月に開示済みで、すでにパッチの提供も始まっている。\n\n今回報告されたのは、注釈機能に使われるライブラリ「libannotate.so」に存在する脆弱性。Zoomでは、描画やスタンプといった注釈を、その内容を示すメモリ上のオブジェクトにシリアライズして送信し、受信側でデシリアライズする仕組みを採用している。ここで、受信側は送られてきたデータを自動的にパースする仕様となっているという。\n\n攻撃者はこれを悪用し、会議の参加者すべてに対して悪意あるデータを送り込むことで、ゼロクリックでのリモートコード実行やサービス拒否攻撃を行なえるという。\n\n今回発見された脆弱性は、CVE-2026-53413(バッファオーバーライト)、CVE-2026-53414(バッファオーバーリード)、CVE-2026-53415(任意のメモリ書き込み)の3件。影響を受けるのは、バージョン7.0.5以前のWindows/macOS/iOS/Android/Linux版Zoomクライアント、バージョン7.1.5または7.0.6より前のZoom Workplaceクライアント。Zoomでは、いずれの場合も対策が施された最新版へアップデートするよう呼びか…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/649/01.jpg"
     },
     {
       "Title": "【やじうまミニレビュー】単に便利なだけじゃない。MoC方式でセキュアな指紋センサー「CR-FI50UBK」",
@@ -838,15 +847,6 @@
       "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2026/08/caravan-sandwitch.jpg"
     },
     {
-      "Title": "Core Ultra Series 3搭載の「ASUS NUC 16 Pro」ベアボーンキットが登場、計2モデル",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2132575.html",
-      "Published": "2026-08-13T15:00:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "Core Ultra Series 3搭載の「ASUS NUC 16 Pro」ベアボーンキットが登場、計2モデル\n\nIntel Core Ultra Series 3プロセッサーを搭載したASUSのベアボーンキット「NUC 16 Pro（Kit）」が登場した。\n\nCore Ultra Series 3搭載の「ASUS NUC 16 Pro」ベアボーンキットが登場、計2モデル\n\nIntel Core Ultra Series 3プロセッサーを搭載したASUSのベアボーンキット「NUC 16 Pro（Kit）」が登場した。\n\n今回入荷したのは、Core Ultra 7 356H（16コア/16スレッド）搭載の「RNUC16GDKU760000（90AR00W2-M000P0）」と、Core Ultra 5 325（8コア/8スレッド）搭載の「RNUC16GDKU560000（90AR00W2-M000N0）」の2モデルで、メモリ、ストレージ、OSは別売り。店頭価格は順に153,380円、124,180円。\n\nIntel Core Ultra Series 3搭載のNUC\n\nNUC 16 Pro（Kit）は、Core Ultra Series 3プロセッサーを搭載したベアボーンキット。\n\nNPU内蔵のIntel CPUを採用し、AI駆動型ワークロードに対応したコンパクトで高性能なシステムを求める企業向けの小型PCをうたう。\n\nThunderbolt 4（DisplayPort 2.1対応）×2とHDMI 2.1×2を備え、デジタルサイネージなどへの利用もカバーする。\n\nWi-Fi 7（BE211） + Bluetooth 6.0をサポートするほか、2.5GbE LAN（I226-V）を2ポート搭載する点なども特徴。\n\nメモリスロットはCSODIMM×2（最大64GB×2）で、Core Ultra 7 356H搭載モデルはDDR5-7200、Core Ultra 5 325搭載モデルはDDR5-6400までサポートする。\n\nSSDスロットはPCIe 5.0x4接続M.2 228…",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2132/575/s1_s.jpg"
-    },
-    {
       "Title": "�Υ��󥿥ӥ塼�ϡ�Marvel��s Wolverine�פ������Τϡ�Insomniac�ʤ��ǤϤΥ����������������������㤷����Ʈ�����ƥ��ȡ����Ϥ������ʤ��鼫ʬ���Ȥ������򤯥��ȡ��꡼",
       "Link": "https://www.4gamer.net/games/594/G059409/20260812052/",
       "Published": "2026-08-13T15:00:00Z",
@@ -854,6 +854,15 @@
       "Category": "HARDWARE",
       "Summary": "�Υ��󥿥ӥ塼�ϡ�Marvel��s Wolverine�פ������Τϡ�Insomniac�ʤ��ǤϤΥ����������������������㤷����Ʈ�����ƥ��ȡ����Ϥ������ʤ��鼫ʬ���Ȥ������򤯥��ȡ��꡼\n\n「Marvel’s Wolverine」では，不死身のミュータント・ウルヴァリンをどのように描くのか。開発陣4名にインタビューを実施した。\n\n［インタビュー］「Marvel’s Wolverine」が描くのは，Insomniacならではのウルヴァリン。生々しく激しい戦闘システムと，各地を巡りながら自分自身の謎を解くストーリー ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n価格：スタンダードエディション：8980円（税込） デラックスエディション：9980円（税込）\n\n↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 夏は七不思議ならぬ“七不穏”で暑さを忘却の彼方へ――涼しくチルアウトできる終末，陰鬱，ディストピアな7つのゲーム ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ ひと夏の思い出に「桃鉄」100年プレイ。みんなで完走するための準備＆プレイガイド ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ Riot Gamesが明らかにしたアンチチートシステム「Vanguard」の仕組み。Windowsの進化に合わせてチート対策も強力に ↑アイコン/タイト…",
       "ImageURL": "https://www.4gamer.net/games/594/G059409/20260812052/SS/005.jpg"
+    },
+    {
+      "Title": "Core Ultra Series 3搭載の「ASUS NUC 16 Pro」ベアボーンキットが登場、計2モデル",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2132575.html",
+      "Published": "2026-08-13T15:00:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "Core Ultra Series 3搭載の「ASUS NUC 16 Pro」ベアボーンキットが登場、計2モデル\n\nIntel Core Ultra Series 3プロセッサーを搭載したASUSのベアボーンキット「NUC 16 Pro（Kit）」が登場した。\n\nCore Ultra Series 3搭載の「ASUS NUC 16 Pro」ベアボーンキットが登場、計2モデル\n\nIntel Core Ultra Series 3プロセッサーを搭載したASUSのベアボーンキット「NUC 16 Pro（Kit）」が登場した。\n\n今回入荷したのは、Core Ultra 7 356H（16コア/16スレッド）搭載の「RNUC16GDKU760000（90AR00W2-M000P0）」と、Core Ultra 5 325（8コア/8スレッド）搭載の「RNUC16GDKU560000（90AR00W2-M000N0）」の2モデルで、メモリ、ストレージ、OSは別売り。店頭価格は順に153,380円、124,180円。\n\nIntel Core Ultra Series 3搭載のNUC\n\nNUC 16 Pro（Kit）は、Core Ultra Series 3プロセッサーを搭載したベアボーンキット。\n\nNPU内蔵のIntel CPUを採用し、AI駆動型ワークロードに対応したコンパクトで高性能なシステムを求める企業向けの小型PCをうたう。\n\nThunderbolt 4（DisplayPort 2.1対応）×2とHDMI 2.1×2を備え、デジタルサイネージなどへの利用もカバーする。\n\nWi-Fi 7（BE211） + Bluetooth 6.0をサポートするほか、2.5GbE LAN（I226-V）を2ポート搭載する点なども特徴。\n\nメモリスロットはCSODIMM×2（最大64GB×2）で、Core Ultra 7 356H搭載モデルはDDR5-7200、Core Ultra 5 325搭載モデルはDDR5-6400までサポートする。\n\nSSDスロットはPCIe 5.0x4接続M.2 228…",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2132/575/s1_s.jpg"
     },
     {
       "Title": "折りたたみiPhone、米国で先行発売のウワサ",
@@ -1522,13 +1531,13 @@
       "ImageURL": ""
     },
     {
-      "Title": "最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/2132349.html",
+      "Title": "Google、フラッシュ部が光って通知する6.3型スマホ「Google Pixel 11 Pro」",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2132347.html",
       "Published": "2026-08-12T14:00:00Z",
       "Source": "PC Watch",
       "Category": "",
-      "Summary": "最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」\n\nGoogleは8月12日、新型の折りたたみスマートフォン「Google Pixel 11 Pro Fold」を発表した。Google Storeでの直販価格は27万9,900円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日より発売する。\n\n最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」\n\nGoogleは8月12日、新型の折りたたみスマートフォン「Google Pixel 11 Pro Fold」を発表した。Google Storeでの直販価格は27万9,900円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日より発売する。\n\nGoogle Pixel 11 Pro Foldでは、同時に発表されたほかのGoogle Pixel 11シリーズと同様、最新の「Google Tensor G6」チップを搭載し、高い処理能力と高度なオンデバイスAI性能を備えている。折りたたみ時の厚さは10.1mm、広げた状態で5mmのスリムな筐体を実現し、重量は239gに抑えられている。\n\nカバーディスプレイは6.5型で、内側を開くと8型の大画面「Super Actua Flexディスプレイ」が広がる。また、Proモデルと同様に背面のカメラフラッシュ周辺にカラーLEDを内蔵した「HiLight」機能を搭載し、スマートフォンを伏せた状態でもGeminiの応答ステータスや登録した連絡先からの着信をやさしい光のカスタムカラーで通知してくれる。\n\n主な仕様として、プロセッサにはGoogle Tensor G6およびTitan M3セキュリティコプロセッサ、メモリは16GB、ストレージは256GBまたは512GBを備える。\n\nディスプレイは、外側が6.5型のSuper Actuaディスプレイで解像度は1,080×2,342ドット、内側が8…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/349/3.png"
+      "Summary": "Google、フラッシュ部が光って通知する6.3型スマホ「Google Pixel 11 Pro」\n\nGoogleは8月12日、新型の6.3型スマートフォン「Google Pixel 11 Pro」を発表した。Google Storeでの直販価格は17万4,800円から。8月12日よりオンライン、8月13日より店頭での予約販売を開始し、8月20日に発売する。\n\nGoogle、フラッシュ部が光って通知する6.3型スマホ「Google Pixel 11 Pro」\n\nGoogleは8月12日、新型の6.3型スマートフォン「Google Pixel 11 Pro」を発表した。Google Storeでの直販価格は17万4,800円から。8月12日よりオンライン、8月13日より店頭での予約販売を開始し、8月20日に発売する。\n\nGoogle Pixel 11 Proは、最新の「Google Tensor G6」チップの搭載により高い処理性能と省電力性能を両立したスマートフォン。ディスプレイには、最大3,600cd/平方mを誇るGoogle Pixel史上最も明るい「Super Actuaディスプレイ」を採用し、前世代モデルから2倍以上の耐傷性を実現する新しいコーティングを施している。\n\nさらに、背面のカメラフラッシュ周辺に内蔵されたカラーLEDライトが光ることで、スマートフォンを伏せたままでも重要な情報を一目で確認できる新機能「HiLight」を新たに搭載した。背面カメラの望遠レンズは感度を30%向上させるよう全面的に再設計され、5倍でのポートレート撮影が可能なほか、120倍の超解像ズーム Proにより遠くまで鮮明に捉えられる。\n\n主な仕様として、プロセッサはGoogle Tensor G6およびTitan M3セキュリティコプロセッサ、メモリは12GB(ストレージ256GB)または16GB(ストレージ512GB以上)、ストレージは256GB、512GB、または1TB。\n\nディスプレイは6.3型のSuper Actuaディスプレイを採用し、解像度は1,280×2,856ドット、リ…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/347/1.png"
     },
     {
       "Title": "Pixel 11の狙いはスマホへの没頭時間削減。Pixelは“気が利くAIエージェント”に",
@@ -1540,15 +1549,6 @@
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/417/01.jpg"
     },
     {
-      "Title": "CPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/2132345.html",
-      "Published": "2026-08-12T14:00:00Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "CPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から\n\nGoogleは8月12日、新型の6.3型スマートフォン「Google Pixel 11」を発表した。Google Storeでの直販価格は13万6,800円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日に発売する。\n\nCPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から\n\nGoogleは8月12日、新型の6.3型スマートフォン「Google Pixel 11」を発表した。Google Storeでの直販価格は13万6,800円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日に発売する。\n\nPixel 11ではプロセッサに最新の「Google Tensor G6」を搭載。CPU性能の引き上げによってWebブラウジングが25%高速化し、アプリの起動速度が15%向上したほか、オンデバイスAIタスクを最大3.5倍高速に処理しながら、エネルギー消費量を最大3.5分の1に抑えている。最先端のオンデバイスモデル「Gemini Nano」を動かすのに最適としている。\n\nさらに、象徴的な背面カメラバーの厚さを従来モデルから40%削減し、純正のケースを装着した際に出っ張りをほとんど感じさせないフラットな形状に仕上げており、平らな場所に置いてもがたつきが発生しにくい設計とした。背面カメラには、新たに大型化した4,800万画素のメインセンサーを採用することで、光量の少ない厳しい環境での感度を56%向上させている。\n\n主な仕様は、プロセッサがGoogle Tensor G6およびTitan M3セキュリティコプロセッサ、メモリは12GB、ストレージは256GBまたは512GB。\n\nディスプレイは6.3型のActuaディスプレイを採用し、解像度は1,080×2,424ドット、リフレッシュレートは60Hz～120Hz、最大輝度は2,000cd/平方m、ピーク輝度は3,0…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/345/1.png"
-    },
-    {
       "Title": "最適なタイミングで起こしてくれる「Google Pixel Watch 5」",
       "Link": "https://pc.watch.impress.co.jp/docs/news/2132424.html",
       "Published": "2026-08-12T14:00:00Z",
@@ -1558,13 +1558,22 @@
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/424/03.jpg"
     },
     {
-      "Title": "Google、フラッシュ部が光って通知する6.3型スマホ「Google Pixel 11 Pro」",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/2132347.html",
+      "Title": "最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2132349.html",
       "Published": "2026-08-12T14:00:00Z",
       "Source": "PC Watch",
       "Category": "",
-      "Summary": "Google、フラッシュ部が光って通知する6.3型スマホ「Google Pixel 11 Pro」\n\nGoogleは8月12日、新型の6.3型スマートフォン「Google Pixel 11 Pro」を発表した。Google Storeでの直販価格は17万4,800円から。8月12日よりオンライン、8月13日より店頭での予約販売を開始し、8月20日に発売する。\n\nGoogle、フラッシュ部が光って通知する6.3型スマホ「Google Pixel 11 Pro」\n\nGoogleは8月12日、新型の6.3型スマートフォン「Google Pixel 11 Pro」を発表した。Google Storeでの直販価格は17万4,800円から。8月12日よりオンライン、8月13日より店頭での予約販売を開始し、8月20日に発売する。\n\nGoogle Pixel 11 Proは、最新の「Google Tensor G6」チップの搭載により高い処理性能と省電力性能を両立したスマートフォン。ディスプレイには、最大3,600cd/平方mを誇るGoogle Pixel史上最も明るい「Super Actuaディスプレイ」を採用し、前世代モデルから2倍以上の耐傷性を実現する新しいコーティングを施している。\n\nさらに、背面のカメラフラッシュ周辺に内蔵されたカラーLEDライトが光ることで、スマートフォンを伏せたままでも重要な情報を一目で確認できる新機能「HiLight」を新たに搭載した。背面カメラの望遠レンズは感度を30%向上させるよう全面的に再設計され、5倍でのポートレート撮影が可能なほか、120倍の超解像ズーム Proにより遠くまで鮮明に捉えられる。\n\n主な仕様として、プロセッサはGoogle Tensor G6およびTitan M3セキュリティコプロセッサ、メモリは12GB(ストレージ256GB)または16GB(ストレージ512GB以上)、ストレージは256GB、512GB、または1TB。\n\nディスプレイは6.3型のSuper Actuaディスプレイを採用し、解像度は1,280×2,856ドット、リ…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/347/1.png"
+      "Summary": "最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」\n\nGoogleは8月12日、新型の折りたたみスマートフォン「Google Pixel 11 Pro Fold」を発表した。Google Storeでの直販価格は27万9,900円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日より発売する。\n\n最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」\n\nGoogleは8月12日、新型の折りたたみスマートフォン「Google Pixel 11 Pro Fold」を発表した。Google Storeでの直販価格は27万9,900円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日より発売する。\n\nGoogle Pixel 11 Pro Foldでは、同時に発表されたほかのGoogle Pixel 11シリーズと同様、最新の「Google Tensor G6」チップを搭載し、高い処理能力と高度なオンデバイスAI性能を備えている。折りたたみ時の厚さは10.1mm、広げた状態で5mmのスリムな筐体を実現し、重量は239gに抑えられている。\n\nカバーディスプレイは6.5型で、内側を開くと8型の大画面「Super Actua Flexディスプレイ」が広がる。また、Proモデルと同様に背面のカメラフラッシュ周辺にカラーLEDを内蔵した「HiLight」機能を搭載し、スマートフォンを伏せた状態でもGeminiの応答ステータスや登録した連絡先からの着信をやさしい光のカスタムカラーで通知してくれる。\n\n主な仕様として、プロセッサにはGoogle Tensor G6およびTitan M3セキュリティコプロセッサ、メモリは16GB、ストレージは256GBまたは512GBを備える。\n\nディスプレイは、外側が6.5型のSuper Actuaディスプレイで解像度は1,080×2,342ドット、内側が8…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/349/3.png"
+    },
+    {
+      "Title": "CPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2132345.html",
+      "Published": "2026-08-12T14:00:00Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "CPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から\n\nGoogleは8月12日、新型の6.3型スマートフォン「Google Pixel 11」を発表した。Google Storeでの直販価格は13万6,800円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日に発売する。\n\nCPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から\n\nGoogleは8月12日、新型の6.3型スマートフォン「Google Pixel 11」を発表した。Google Storeでの直販価格は13万6,800円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日に発売する。\n\nPixel 11ではプロセッサに最新の「Google Tensor G6」を搭載。CPU性能の引き上げによってWebブラウジングが25%高速化し、アプリの起動速度が15%向上したほか、オンデバイスAIタスクを最大3.5倍高速に処理しながら、エネルギー消費量を最大3.5分の1に抑えている。最先端のオンデバイスモデル「Gemini Nano」を動かすのに最適としている。\n\nさらに、象徴的な背面カメラバーの厚さを従来モデルから40%削減し、純正のケースを装着した際に出っ張りをほとんど感じさせないフラットな形状に仕上げており、平らな場所に置いてもがたつきが発生しにくい設計とした。背面カメラには、新たに大型化した4,800万画素のメインセンサーを採用することで、光量の少ない厳しい環境での感度を56%向上させている。\n\n主な仕様は、プロセッサがGoogle Tensor G6およびTitan M3セキュリティコプロセッサ、メモリは12GB、ストレージは256GBまたは512GB。\n\nディスプレイは6.3型のActuaディスプレイを採用し、解像度は1,080×2,424ドット、リフレッシュレートは60Hz～120Hz、最大輝度は2,000cd/平方m、ピーク輝度は3,0…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/345/1.png"
     },
     {
       "Title": "Tensor G6チップ搭載で120倍ズームや通知ライト対応の6.8型スマホ「Google Pixel 11 Pro XL」",
@@ -3133,15 +3142,6 @@
       "ImageURL": "https://smhn.info/wp-content/uploads/2023/03/apple-logo-stoore.jpg"
     },
     {
-      "Title": "VAIO、PCカメラとAIで最短3秒の健康測定サービス。先行プレビュー版提供開始",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/2131824.html",
-      "Published": "2026-08-10T01:00:00Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "VAIO、PCカメラとAIで最短3秒の健康測定サービス。先行プレビュー版提供開始\n\nPCは単なる仕事の道具から、ユーザーの健康を能動的に支えるパートナーへと進化しようとしているのか。VAIOは8月10日、PCのカメラで健康を確認するサービス「VAIOウェルネスケア」を発表した。本日より先行プレビュー版を提供している。\n\nVAIO、PCカメラとAIで最短3秒の健康測定サービス。先行プレビュー版提供開始\n\nPCは単なる仕事の道具から、ユーザーの健康を能動的に支えるパートナーへと進化しようとしているのか。VAIOは8月10日、PCのカメラで健康を確認するサービス「VAIOウェルネスケア」を発表した。本日より先行プレビュー版を提供している。\n\nVAIOウェルネスケアは、VAIOノートのWebカメラを使用した非接触AIセンシングで、血管情報(血管の負荷)と、心拍情報(心臓からの血流の速さ)を測定するサービス。血管/心拍情報の両方を、Webカメラで測定できる機能を標準搭載するPCとしては世界初という(2026年7月10日時点ステラアソシエ株式会社調べ)。\n\n測定フェーズでは、AIによる顔認識をCPU/NPUの並列処理で高速化しており、最短3秒でそれぞれ一括測定できる(測定環境によっては最大15秒)。具体的には、カメラ制御・画像処理・データ処理・UIをCPUが、顔検出(顔認識AI処理)をNPUが行なう。\n\n測定結果はその場で表示され、データはPCに自動的に保存される。これにより、過去1週間の推移を確認するなど、時系列での健康状態の確認が可能。VAIOはこのサービスを「測るアプリ」ではなく、「気づきのきっかけを作るアプリ」と定義しており、日常的にアクティビティケアを行なう習慣ができるとしている。\n\n現段階では、VAIOウェルネスケアを使用できる製品は今年(2026年)の5月に発売された個人向けの「VAIO SX14-R」(VJS4R2シリーズ)のみで、アプリは開発中の先行プレビュー版となる。秋以降に正式版を実装予定としており、順次個人と法人向けの新しいVAIO製品にも搭載されるという。…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2131/824/01.jpg"
-    },
-    {
       "Title": "整備済みVAIO SX14が8万1,000円！8月10日の「VAIOの日」記念セール",
       "Link": "https://pc.watch.impress.co.jp/docs/news/2131810.html",
       "Published": "2026-08-10T01:00:00Z",
@@ -3149,6 +3149,15 @@
       "Category": "",
       "Summary": "整備済みVAIO SX14が8万1,000円！8月10日の「VAIOの日」記念セール\n\n8月10日はVAIOの日、同社社員が考案したバ(8)イ(1)オ(0)の語呂合わせにより、今年(2026年)からVAIOの記念日として定められた。VAIOの日では、オンライン花火大会、PCが当たるクイズキャンペーン、Reborn VAIOの数量限定販売など、さまざまな企画が実施される。\n\n整備済みVAIO SX14が8万1,000円！8月10日の「VAIOの日」記念セール\n\n8月10日はVAIOの日、同社社員が考案したバ(8)イ(1)オ(0)の語呂合わせにより、今年(2026年)からVAIOの記念日として定められた。VAIOの日では、オンライン花火大会、PCが当たるクイズキャンペーン、Reborn VAIOの数量限定販売など、さまざまな企画が実施される。\n\nVAIOの日の特設サイト が用意されており、「VAIOを知る」をテーマに以下のような企画が実施されている。\n\n「オンライン花火大会」は、オンライン上で花火を打ち上げるという企画。8月10日から16日にかけて実施され、連日20時10分から810本の花火が打ち上げられる(810秒間)。\n\n「VAIOの日クイズキャンペーン」は、世界に1台だけのVAIO PCと世界最軽量モバイルディスプレイがセットで当たるキャンペーンとなる。8月10日から19日にかけて実施される。\n\n「Reborn VAIO特別販売」では、リファービッシュ(整備済み)品のVAIO SX14が、60台限定で8万1,000円で販売される。\n\nこのほか、一部ノジマ店舗内に設置されている「VAIO Shop in Shop」にて、VAIO製品を体験すると先着で100名に限定デザインの手ぬぐいが提供される。\n\nまた、法人向けの企画もあり、人気の即配モデルを期間限定の特別価格で8月31日の17時まで提供する( 販売ページへのリンク )。",
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2131/810/04.jpg"
+    },
+    {
+      "Title": "VAIO、PCカメラとAIで最短3秒の健康測定サービス。先行プレビュー版提供開始",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2131824.html",
+      "Published": "2026-08-10T01:00:00Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "VAIO、PCカメラとAIで最短3秒の健康測定サービス。先行プレビュー版提供開始\n\nPCは単なる仕事の道具から、ユーザーの健康を能動的に支えるパートナーへと進化しようとしているのか。VAIOは8月10日、PCのカメラで健康を確認するサービス「VAIOウェルネスケア」を発表した。本日より先行プレビュー版を提供している。\n\nVAIO、PCカメラとAIで最短3秒の健康測定サービス。先行プレビュー版提供開始\n\nPCは単なる仕事の道具から、ユーザーの健康を能動的に支えるパートナーへと進化しようとしているのか。VAIOは8月10日、PCのカメラで健康を確認するサービス「VAIOウェルネスケア」を発表した。本日より先行プレビュー版を提供している。\n\nVAIOウェルネスケアは、VAIOノートのWebカメラを使用した非接触AIセンシングで、血管情報(血管の負荷)と、心拍情報(心臓からの血流の速さ)を測定するサービス。血管/心拍情報の両方を、Webカメラで測定できる機能を標準搭載するPCとしては世界初という(2026年7月10日時点ステラアソシエ株式会社調べ)。\n\n測定フェーズでは、AIによる顔認識をCPU/NPUの並列処理で高速化しており、最短3秒でそれぞれ一括測定できる(測定環境によっては最大15秒)。具体的には、カメラ制御・画像処理・データ処理・UIをCPUが、顔検出(顔認識AI処理)をNPUが行なう。\n\n測定結果はその場で表示され、データはPCに自動的に保存される。これにより、過去1週間の推移を確認するなど、時系列での健康状態の確認が可能。VAIOはこのサービスを「測るアプリ」ではなく、「気づきのきっかけを作るアプリ」と定義しており、日常的にアクティビティケアを行なう習慣ができるとしている。\n\n現段階では、VAIOウェルネスケアを使用できる製品は今年(2026年)の5月に発売された個人向けの「VAIO SX14-R」(VJS4R2シリーズ)のみで、アプリは開発中の先行プレビュー版となる。秋以降に正式版を実装予定としており、順次個人と法人向けの新しいVAIO製品にも搭載されるという。…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2131/824/01.jpg"
     },
     {
       "Title": "【本日みつけたお買い得品】約8万8千円オフ！Core Ultra X7搭載ノートが特大セールに",
@@ -4490,18 +4499,72 @@
       "Category": "",
       "Summary": "【8/7発売】Kiwi EarsからIEMとアクセサリーをまとめて保護できるケースSonicapが登場！\n\nケーブル、イヤーチップ、小型DACなど、アクセサリーもまとめて収納することが可能\r\rこんにちは！e☆イヤホンのPRスタッフです！\r今回はKiwi Earsからの新製品のご紹介です。\r \rKiwi Ears Sonicap\n\nケーブル、イヤーチップ、小型DACなど、アクセサリーもまとめて収納することが可能\n\n▼Kiwi Ears Sonicap e☆イヤホン オンラインストア価格￥4,400- (税込)\n\nSonicapは、IEMや有線イヤホンを安全に持ち運ぶために設計されたハードタイプケースです。\n\nイヤホン本体だけでなく、ケーブル、イヤーチップ、小型DACなど、リスニングに必要なアクセサリーをまとめて収納できます。\n\nバッグやポケットの中で機器同士が擦れたり、ケーブルが絡まったりすることを防ぎ、外出先でも必要なアイテムをすぐに取り出せるよう整理して持ち運べます。日常使いはもちろん、旅行や出張時のオーディオアクセサリー収納にも適しています。\n\n外装には、耐衝撃性に優れたABS素材を採用しています。硬質なシェルが落下や圧迫、バッグ内での衝撃から収納物を守り、大切なIEMやアクセサリーを保護します。\n\n内装には、衝撃を吸収するEVAフォームを採用。収納物をやさしく保持し、移動中の揺れや接触による傷つきを抑えます。\n\nABS外装とEVAフォーム内装を組み合わせた二層構造により、コンパクトながら高い保護性能を実現しています。\n\nSonicapは、水滴やほこりから収納物を守る防水・防塵設計を採用しています。\n\n通勤・通学時の急な雨、旅行中の屋外使用、アウトドア環境など、さまざまなシーンで安心して使用できます。\n\n密閉性に配慮したクロージャー構造により、日常使用で想定される水しぶきやほこりの侵入を抑えます。\n\nイヤホンやアクセサリーを清潔に保ちたいユーザーに適したケースです。\n\n内部には、EVAフォームによる3つの専用収納スペースを備えています。\n\nIEM本体、ケーブル、小型…",
       "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/08/Kiwi-Ears-Sonicap.webp"
-    },
-    {
-      "Title": "【8/28発売】MADOOからプッシュプル型マイクロプラナーマグネティックドライバー“Ortho”搭載のイヤホン Typ624 が登場！",
-      "Link": "https://e-earphone.blog/?p=1551294",
-      "Published": "2026-08-07T02:00:10Z",
-      "Source": "e☆イヤホン",
-      "Category": "",
-      "Summary": "【8/28発売】MADOOからプッシュプル型マイクロプラナーマグネティックドライバー“Ortho”搭載のイヤホン Typ624 が登場！\n\nTyp821を彷彿させる高解像度で抜けの良い中高音域との融合を目指した兄弟モデル\r\rこんにちは！e☆イヤホンのPRスタッフです！\r今回はMADOOからの新製品のご紹介です。\r \rMADOO Typ624\r\r▼MADO\n\nTyp821を彷彿させる高解像度で抜けの良い中高音域との融合を目指した兄弟モデル\n\n▼MADOO Typ624 e☆イヤホン オンラインストア価格￥145,800- (税込)\n\nMADOOのサウンドベンチマークとして確固たる地位を築いた、独自開発のプッシュプル型プラナードライバー“Ortho（オルソ）”。\n\nそのポテンシャルを追求する過程で、重厚な中低音域で支持を集めた「Typ622」と、繊細で透明感のある中高音域で高い評価を得た「Typ821」という2つの名機が誕生しました。\n\n「Typ623」と「Typ624」は、「Typ622」の密度感ある低音をベースに、「Typ821」を彷彿とさせる高解像度で抜けの良い中高音域との融合を目指した兄弟モデルです。\n\n「Typ623」に対し、「Typ624」では低音の質感や響きに異なるアプローチを採用。\n\nその違いが中高音域の聴こえ方にも変化をもたらし、それぞれに個性の異なるサウンドを実現しています。\n\n■プッシュプル型マイクロプラナーマグネティックドライバー“Ortho”\n\n“Ortho”は、MADOOによって完全新規開発されたマイクロプラナーマグネティックドライバーです。\n\nプラナードライバーには「プッシュプルドライブ」と「シングルドライブ」の2つの方式があり、“Ortho”はプッシュプルドライブ方式を採用。\n\n組み込みの難易度の高さ故、イヤホンに収まるほどの小型軽量化が困難な方…",
-      "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/08/MADOO-Typ624.webp"
     }
   ],
   "world": [
+    {
+      "Title": "The Witcher multiplayer project dubbed 'Sirius' hit with a new round of layoffs",
+      "Link": "https://www.tweaktown.com/rss/click/news/113122/?c=news-mf",
+      "Published": "2026-08-14T20:35:12Z",
+      "Source": "TweakTown",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "16 コア Ryzen は実際には 2 つの CPU を貼り合わせたものであり、ゲームでそれがわかります。",
+      "Link": "https://www.xda-developers.com/16-core-ryzen-is-really-two-cpus-glued-together-and-games-can-tell/",
+      "Published": "2026-08-14T20:30:10Z",
+      "Source": "XDA",
+      "Category": "Ryzen",
+      "Summary": "16 コア Ryzen は実際には 2 つの CPU を貼り合わせたものであり、ゲームでそれがわかります。\n\nなぜなら、それは\n\n16 コア Ryzen は実際には 2 つの CPU を貼り合わせたものであり、ゲームでそれがわかります。\n\nHamlin Rozario 著 2026 年 8 月 14 日午後 4 時 30 分 EDT 公開 ハムリンはテクノロジー分野に 9 年以上携わっています。 2017 年以来、彼の作品は MakeUseOf 、Android Police 、OSXDaily、Beebom などに掲載されています。 XDA に入社する前は、Valnet の MakeUseOf で上級編集者を 2 年以上務めました。彼はデスクトップ用にハイエンドのゲーム機を使用し、旅行用に MacBook を使用していますが、macOS のいくつかの癖が嫌いです。他のどこよりもジムや飛行機の中で彼に出会う可能性が高くなります。 XDA アカウントにサインインする Ryzen 9 CPU をお持ちの場合、それが 7900X であろうと 9950X3D であろうと、Ryzen 7 ではなく Ryzen 9 CPU を選んだ最大の理由の 1 つはそのコア数である可能性があります。結局のところ、ゲーム以外のことを行う場合には、12 コアおよび 16 コアの Ryzen CPU がはるかに意味があります。外側から見ると、CPU は 1 つのパッケージのように見えますが、統合されたヒート スプレッダーを分解すると (いいえ、実際には分解しないでください)、12 コアまたは 16 コアがすべて同じシリコン上にあるわけではないことがわかります。 AMD は、それらを 2 つの Core Complex Die (CCD) に物理的に分割します。\n\nしたがって、16 コア 9950X には各 CCD に 8 コアがありますが、12 コア 9900X では各 CCD で 2 つのコアが無効になり、CCD ごとに 6 つのアクティブなコアが残ります。各 CCD には独自の L3 キャッシュ…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/03/ryzen-9-9950x3d-review-9.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "ネクソンがその成功を再現しようとする中、アーク レイダースは販売本数 1,600 万本を突破",
+      "Link": "https://www.techpowerup.com/351623/arc-raiders-surpasses-16-million-sales-as-nexon-looks-to-replicate-its-success",
+      "Published": "2026-08-14T20:23:55Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "ネクソンがその成功を再現しようとする中、アーク レイダースは販売本数 1,600 万本を突破\n\nArc Raiders が Embark とその親会社である Nexon の両方にとって成功したゲームであることはニュースではありませんが、新しい 2026 年第 2 四半期の収益報告書は、1 周年を迎えるにあたり、ゲームの成功を数字で示しています。 Nexon のレポートによると、Arc Raiders は 1,630 万ユニットを販売しました...\n\nネクソンがその成功を再現しようとする中、アーク レイダースは販売本数 1,600 万本を突破\n\nそして、当四半期に 183 億円を超える収益を上げた ARC Raiders の永続的な強さに特に満足しています。 ARC Raiders は最近全世界で 1,630 万本を販売し、昨年 10 月の発売以来 880 億円以上の収益を上げています。\n\nARC Raiders は、永続的な商業的成功を超えて、ネクソンの Embark Studios チームが、レガシー シリーズが支配する非常に収益性の高い西側市場で突破口を開くことができるゲームを作成および公開するためのロードマップを開発したことの証拠となります。これはネクソンにとって新しく強力な機能であり、私たちは大規模に複製するつもりです。\n\n2026 年 7 月 18 日 Valve は週に 12-15,000 台のスチームマシンを販売していると報告されています (125)\n\n2026 年 3 月 20 日 Microsoft、「Microslop」批判に応えて Windows 11 の多数の変更を約束 (208)\n\n2026 年 8 月 12 日 YMTC が世界ストレージ市場シェアでマイクロン、キオクシア、サンディスクを上回る (15)\n\n2026 年 5 月 22 日 Subnautica 2 は「暴力禁止」と EULA にも関わらず目覚ましい販売を続け、400 万本を突破 (15)\n\n2026 年 7 月 17 日 Ubisoft、アサシン クリード ブラック フラッグの…",
+      "ImageURL": "https://www.techpowerup.com/img/sONqwvkV2l4LUTQz.jpg"
+    },
+    {
+      "Title": "Pixel Journal がいくつかの便利なアップグレードを受け、間もなくあなたのとりとめのないエントリが整理されるかもしれません",
+      "Link": "https://www.androidauthority.com/pixel-journal-app-changes-apk-teardown-3698996/",
+      "Published": "2026-08-14T20:19:36Z",
+      "Source": "Android Authority",
+      "Category": "Google Pixel",
+      "Summary": "Pixel Journal がいくつかの便利なアップグレードを受け、間もなくあなたのとりとめのないエントリが整理されるかもしれません\n\nPixel Journal がいくつかの便利なアップグレードを展開する中、Google が AI を活用した自動フォーマット機能に取り組んでいることを発見しました。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nPixel Journal がいくつかの便利なアップグレードを受け、間もなくあなたのとりとめのないエントリが整理されるかもしれません\n\n0 • C. Scott Brown / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Pixel Journal は、カスタマイズ可能なリマインダー、メディア レイアウト、より安全な削除、ヘルスコネクト睡眠データのサポートを展開しています。\n\nGoogleはまた、日記のエントリを書いたり口述したりした後にクリーンアップする、AIを活用した自動フォーマット機能も開発しているようだ。\n\n私たちの分解では、自動フォーマットを使用する前に最小ワード数が設定されている、シンプルおよび表現力豊かなフォーマット モードの証拠が見つかりました。\n\nPixel Journal は Google の Pixel ラインナップにまだ加わったばかりで、同社はまだ開発を終えていないようです。現在、アプリの新しいバージョンが公開されており、いくつかの便利な生活の質のアップグレードが行われています。しかし、Google が将来の Pixel Journal リリースに向けて準備していると思われる機能の兆候が明らかになったことから、今後の登場がないことを示唆する手がかりも内部にあります。\n\nあなたは Authority Insights の記事を読んでいます。 Authority Insights は、他では見られない Android Authority チ…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2025/08/Google-Pixel-Journal-app-icon.jpg"
+    },
+    {
+      "Title": "Xbox Elite Series 3 controller gets leaked with a built-in screen, quickly gets taken down",
+      "Link": "https://www.tweaktown.com/rss/click/news/113121/?c=news-mf",
+      "Published": "2026-08-14T20:00:12Z",
+      "Source": "TweakTown",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "BabyBjorn バウンシングサーボによる自動お昼寝タイム",
+      "Link": "https://hackaday.com/2026/08/14/automatic-naptime-with-babybjorn-bouncing-servo/",
+      "Published": "2026-08-14T20:00:12Z",
+      "Source": "Hackaday",
+      "Category": "toddler",
+      "Summary": "BabyBjorn バウンシングサーボによる自動お昼寝タイム\n\n赤ちゃんと豊かなお金を持つ親、または豊かなお金を持つ友人は、おそらくベビービョルン ロッキング スリング チェアを称賛するでしょう。シンプルなスプリング式スリングシートにより、…\n\n赤ちゃんと豊かなお金を持つ親、または豊かなお金を持つ友人は、おそらくベビービョルン ロッキング スリング チェアを称賛するでしょう。シンプルなスプリング式スリング シートを使用すると、魔法のように子供を揺らして眠ることができます。ただし、子供を揺らす必要があります。石器時代以来、世界中の父親の伝統の中で、[Ceyhun Karataş] はそれを工夫するものと考え、サーボ、Arduino、およびいくつかの 3D プリント部品を備えた自動ベビービョルン バウンサー/ロッカーを作成しました。\n\n[Ceyhun] 氏は、このハックを使っても子供を放っておけないと苦労して指摘していますが、手が空くので、他のおもちゃをいじくりながらジュニアを満足させておくことができます。たとえば、音楽プレーヤーは人気の定番です。\n\n[Ceyhun] の発明を複製するのにそれほど時間はかかりません。必要なだけ複雑ですが、それほど複雑ではありません。そのようなプロジェクトには十分な時間が必要です。サーボであるFutaba S3003は、3Dプリントされたケース内のロッカーの底に取り付けられており、跳ねるシート部分に結ばれた紐で赤ちゃんを巻き込みます。ベビービョルンの内蔵スプリングはジュニアを跳ね返します。前述したように、Arduino Nano はサーボを制御し、ビルド内の 2 つのポテンショメータを使用して、バウンスの速度と振幅を個別に制御して、完璧な昼寝時間の比率を得ることができます。ハードウェアと子供を除いて、開始するために必要なものはすべて上記のリンクから入手できます。下のビデオで実際に動作している様子を見ることができます。トルコ語のサムネイルから心配するかもしれませんが、AI 自動吹き替えではなく、本物の英語の音声が付いています。\n\n赤ちゃんはいる…",
+      "ImageURL": "https://hackaday.com/wp-content/uploads/2026/08/babyrockerfeat.png"
+    },
+    {
+      "Title": "できる限りすべての Pixel バッテリー ハックのベンチマークを行った結果、実際に機能するものは次のとおりです",
+      "Link": "https://www.xda-developers.com/benchmarking-pixel-battery-life-tips/",
+      "Published": "2026-08-14T20:00:10Z",
+      "Source": "XDA",
+      "Category": "Smartphone",
+      "Summary": "できる限りすべての Pixel バッテリー ハックのベンチマークを行った結果、実際に機能するものは次のとおりです\n\nいくつかの設定により驚くべき違いが生じました。\n\nできる限りすべての Pixel バッテリー ハックのベンチマークを行った結果、実際に機能するものは次のとおりです\n\nBy Megan Ellis 公開 2026 年 8 月 14 日、午後 4:00 EDT Megan は、XDA Developers のソフトウェア ライターで、2016 年から消費者向けテクノロジーについて執筆しています。ニュー メディア ジャーナリズムの大学院の学位を取得した彼女は、常にトピックを深く掘り下げ、日常の消費者にとって理解しやすい方法で記事を書くことに情熱を注いでいます。彼女は Tech Valkyrie という自身のブログを運営しており、Tom's Guide と Android Authority に寄稿しています。彼女は MakeUseOf で主任編集者としても働いていました。余暇にはビデオ ゲームをしたり、最新のテクノロジーに興味を持っています。 XDA アカウントにサインインする Pixel スマートフォンのバッテリーを節約する場合、どの設定が最大の効果をもたらすかを正確に把握するのは困難です。また、最近の Pixel のバッテリー消耗の問題により、これまで以上に多くの人々がバッテリー寿命を節約する方法を探しています。\n\n決してうまくいかない広範な推奨事項にうんざりしていた私は、どの推奨事項が実際に画面オン時間の増加につながるのかをテストしてみたいと決心しました。そして、疑問に思っていたいくつかの設定が、予想以上に大きな影響を与えることが判明しました。\n\n実際に何がバッテリーを節約するのかを理解するのは難しい場合があります\n\nバッテリー寿命の測定に関しては、非常に多くの変数が関係するため、何が実際に影響を与えているかを正確に判断するのは難しい場合があります。私たちは毎日異なるデバイスを使用するため、何をするかによってバッテリー寿命が大きく異なる場合があります。また…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/a-pixel-8-pro-showing-a-battery-benchmark-with-an-led-light-in-the-background.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
     {
       "Title": "私の ESP32 は、Raspberry Pi SBC と同じニッチな分野を満たしており、それを数分の 1 のコストで実現します。",
       "Link": "https://www.xda-developers.com/my-esp32-boards-fill-the-same-niche-as-a-raspberry-pi/",
@@ -4846,7 +4909,7 @@
     },
     {
       "Title": "240 Hz IPS パネル、G-Sync、正確な色を備えた 27 インチ モニター: KTC H27E6S レビュー",
-      "Link": "https://www.notebookcheck.net/27-inch-monitor-with-a-240-Hz-IPS-panel-G-Sync-and-accurate-colors-KTC-H27E6S-review.1368073.0.html",
+      "Link": "https://www.notebookcheck.net/27-Inch-Monitor-with-a-240-Hz-IPS-Panel-G-Sync-and-Accurate-Colors-KTC-H27E6S-Review.1368073.0.html",
       "Published": "2026-08-14T14:39:00Z",
       "Source": "Notebookcheck",
       "Category": "reviews",
@@ -4855,7 +4918,7 @@
     },
     {
       "Title": "240 Hz IPS パネル、G-Sync、正確な色を備えた 27 インチ モニター: KTC H27E6S レビュー",
-      "Link": "https://www.notebookcheck.net/27-Inch-Monitor-with-a-240-Hz-IPS-Panel-G-Sync-and-Accurate-Colors-KTC-H27E6S-Review.1368073.0.html",
+      "Link": "https://www.notebookcheck.net/27-inch-monitor-with-a-240-Hz-IPS-panel-G-Sync-and-accurate-colors-KTC-H27E6S-review.1368073.0.html",
       "Published": "2026-08-14T14:39:00Z",
       "Source": "Notebookcheck",
       "Category": "reviews",
@@ -6519,8 +6582,8 @@
       "ImageURL": "https://www.techpowerup.com/img/rrpE74Yl8NTG5Waz.jpg"
     },
     {
-      "Title": "Flipper Devices' Pavel Zhovner Details Flipper OS, the Modlar Platform Driving the Flipper One",
-      "Link": "https://www.hackster.io/news/flipper-devices-pavel-zhovner-details-flipper-os-the-modlar-platform-driving-the-flipper-one-5080ee075698",
+      "Title": "Flipper Devices' Pavel Zhovner Details Flipper OS, the Modular Platform Driving the Flipper One",
+      "Link": "https://www.hackster.io/news/flipper-devices-pavel-zhovner-details-flipper-os-the-modular-platform-driving-the-flipper-one-5080ee075698",
       "Published": "2026-08-13T12:08:01Z",
       "Source": "Hackster.io",
       "Category": "",
@@ -6528,8 +6591,8 @@
       "ImageURL": ""
     },
     {
-      "Title": "Flipper Devices' Pavel Zhovner Details Flipper OS, the Modular Platform Driving the Flipper One",
-      "Link": "https://www.hackster.io/news/flipper-devices-pavel-zhovner-details-flipper-os-the-modular-platform-driving-the-flipper-one-5080ee075698",
+      "Title": "Flipper Devices' Pavel Zhovner Details Flipper OS, the Modlar Platform Driving the Flipper One",
+      "Link": "https://www.hackster.io/news/flipper-devices-pavel-zhovner-details-flipper-os-the-modlar-platform-driving-the-flipper-one-5080ee075698",
       "Published": "2026-08-13T12:08:01Z",
       "Source": "Hackster.io",
       "Category": "",
@@ -7932,15 +7995,6 @@
       "ImageURL": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Google-2026-lineup-1152x648.jpg"
     },
     {
-      "Title": "Pixel 11 Proは、3世代を経て正式に温度計に別れを告げます",
-      "Link": "https://www.androidauthority.com/pixel-11-pro-phones-no-thermometer-3697115/",
-      "Published": "2026-08-12T14:00:46Z",
-      "Source": "Android Authority",
-      "Category": "Google Pixel 11",
-      "Summary": "Pixel 11 Proは、3世代を経て正式に温度計に別れを告げます\n\nGoogleは2023年にPixel Proスマートフォンに温度計を導入しましたが、Pixel 11 Proスマートフォンには温度計が搭載されていないことが公式に確認されました。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nPixel 11 Proは、3世代を経て正式に温度計に別れを告げます\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google は、Pixel 11 Pro スマートフォンに温度センサーが提供されなくなったことを確認しました。\n\n新しい携帯電話には、温度計の代わりにいわゆる HiLight 通知 LED が搭載されています。\n\nGoogleは2023年にPixel 8 Proに温度センサーを初めて導入しました。\n\nPixel 8 Pro は、2023 年に温度計または温度センサーをデビューさせました。この背面センサーにより、(驚いたことに) 物体の温度、最終的には人の温度を測定できるようになりました。ただし、Pixel 11 Pro スマートフォンはすべて、カメラ バーにいわゆる HiLight 機能を備えていますが、これは温度センサーにとって何を意味するのでしょうか?\n\nGoogle は Android Authority に対して、Pixel 11 シリーズのデバイスには温度計が搭載されていないことを確認しました。\n\nPixel 11 シリーズには温度センサーが搭載されていません。私たちは毎年、できるだけ多くの人々のお役に立てるように、Pixel の製品の進歩に取り組んでいます。 Pixel の温度センサーにより、外出先でも測定値を取得できるという安心感が得られました。そして今回、HiLight は、重要な通知を見逃さないという安心感を提供すると同時に、Gemini と積極的に会話しているときに視覚的な合図も提供します。\n\n温度セ…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-vs-pixel-10-pro-hands-on-3-scaled.jpg"
-    },
-    {
       "Title": "Google、2倍のストレージ、より大きなバッテリー、Gemini Intelligenceを搭載したPixel Watch 5を発表",
       "Link": "https://www.androidauthority.com/google-pixel-watch-5-launch-3695435/",
       "Published": "2026-08-12T14:00:46Z",
@@ -7950,13 +8004,13 @@
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516.jpg"
     },
     {
-      "Title": "すべての Pixel 11 スマートフォンは、ファンが待ち望んでいたワイヤレス充電速度をサポートしています",
-      "Link": "https://www.androidauthority.com/google-pixel-11-wireless-charging-3697309/",
+      "Title": "Pixel 11 Proは、3世代を経て正式に温度計に別れを告げます",
+      "Link": "https://www.androidauthority.com/pixel-11-pro-phones-no-thermometer-3697115/",
       "Published": "2026-08-12T14:00:46Z",
       "Source": "Android Authority",
       "Category": "Google Pixel 11",
-      "Summary": "すべての Pixel 11 スマートフォンは、ファンが待ち望んでいたワイヤレス充電速度をサポートしています\n\nGoogle の新しい Pixel 11 シリーズは Qi 2.2 を完全にサポートしており、全体で最大 25 ワットの磁気ワイヤレス充電が可能です。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nAndroid スマートフォンすべての Pixel 11 スマートフォンは、ファンが待ち望んでいたワイヤレス充電速度をサポートしています\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR すべての Pixel 11 スマートフォンは Qi 2.2 規格をサポートしており、25 ワットの磁気ワイヤレス充電を提供します。\n\n昨年の Pixel 10 シリーズのうち、25 ワットのワイヤレス充電をサポートしていたのは 10 Pro XL だけでした。\n\n既存の Pixelsnap 充電器は、35W USB-C 電源ブリックと組み合わせると 25W を供給できます。\n\n数カ月間のリークを経て、Googleは本日、ニューヨークのイベントでついにPixel 11シリーズ全体のパッケージを外した。新しい携帯電話には、新しいカメラセンサーから充電速度の高速化に至るまで、思慮深く実用的なアップグレードが数多く組み込まれています。今年、すべての Pixel 11 モデルが Qi 2.2 充電をサポートします。これは、昨年 10 Pro XL のみに搭載されていた機能です。\n\nQi 2.2 充電では、互換性のある電源に接続された互換性のあるワイヤレス充電器を使用している場合、最大 25 W のより高速なワイヤレス充電速度が可能になります。これは、Pixel 11、Pixel 11 Pro、Pixel 11 Pro Fold にとって大きなメリットです。これらの 2025 年モデルの最高値はすべて 15W です。\n\nRobert Triggs / And…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-pixel-11-pro-xl-hands-on-8-scaled.jpg"
+      "Summary": "Pixel 11 Proは、3世代を経て正式に温度計に別れを告げます\n\nGoogleは2023年にPixel Proスマートフォンに温度計を導入しましたが、Pixel 11 Proスマートフォンには温度計が搭載されていないことが公式に確認されました。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nPixel 11 Proは、3世代を経て正式に温度計に別れを告げます\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google は、Pixel 11 Pro スマートフォンに温度センサーが提供されなくなったことを確認しました。\n\n新しい携帯電話には、温度計の代わりにいわゆる HiLight 通知 LED が搭載されています。\n\nGoogleは2023年にPixel 8 Proに温度センサーを初めて導入しました。\n\nPixel 8 Pro は、2023 年に温度計または温度センサーをデビューさせました。この背面センサーにより、(驚いたことに) 物体の温度、最終的には人の温度を測定できるようになりました。ただし、Pixel 11 Pro スマートフォンはすべて、カメラ バーにいわゆる HiLight 機能を備えていますが、これは温度センサーにとって何を意味するのでしょうか?\n\nGoogle は Android Authority に対して、Pixel 11 シリーズのデバイスには温度計が搭載されていないことを確認しました。\n\nPixel 11 シリーズには温度センサーが搭載されていません。私たちは毎年、できるだけ多くの人々のお役に立てるように、Pixel の製品の進歩に取り組んでいます。 Pixel の温度センサーにより、外出先でも測定値を取得できるという安心感が得られました。そして今回、HiLight は、重要な通知を見逃さないという安心感を提供すると同時に、Gemini と積極的に会話しているときに視覚的な合図も提供します。\n\n温度セ…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-vs-pixel-10-pro-hands-on-3-scaled.jpg"
     },
     {
       "Title": "Pixel Watch 5 は、Health Guardian を使用した早期警告システムになる可能性があります",
@@ -7966,6 +8020,15 @@
       "Category": "Health",
       "Summary": "Pixel Watch 5 は、Health Guardian を使用した早期警告システムになる可能性があります\n\nGoogle の Health Guardian は、呼吸の緊急事態の検出や血圧の傾向などを備えた健康モニタリングを Pixel ウォッチに提供します。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nPixel Watch 5 は、Health Guardian を使用した早期警告システムになる可能性があります\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google の新しい Health Guardian は、Pixel Watch の健康データをバックグラウンドで信号を分析し、より有用な洞察に変えます。\n\n呼吸緊急検知により、血中酸素の持続的な低下を発見し、緊急サービスに通報できる可能性があります。\n\n血圧とインスリン抵抗性トレンドは、血圧や血糖値を直接測定しなくても長期的な変化を追跡し、この秋に Pixel Watch 3、Watch 4、Watch 5、および互換性のある Fitbit デバイスに展開される予定です。\n\nスマートウォッチはすでに私たちの健康状態について、ほとんどばかげたほどのことを知っています。私たちがいつ寝るか、どれだけ動いているか、ランニング中にどれだけ心臓が働いているかを知っています。問題は、この情報の多くが最終的にヘルスケア アプリ内に別のグラフとして埋め込まれてしまうことです。 Google は、Pixel Watch でもっと便利なことができるはずだと考えています。\n\nこれが、この秋登場する新しい健康機能のコレクションである Health Guardian の背後にある考え方です。ユーザーが個々の測定値を詳しく調べるのを待つのではなく、バックグラウンドで収集された信号を分析し、実際に注意を払う価値がある可能性のある変化にフラグを立てます。\n\nそれらの中で最も即時的なのは、呼吸…",
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-2-scaled.jpg"
+    },
+    {
+      "Title": "すべての Pixel 11 スマートフォンは、ファンが待ち望んでいたワイヤレス充電速度をサポートしています",
+      "Link": "https://www.androidauthority.com/google-pixel-11-wireless-charging-3697309/",
+      "Published": "2026-08-12T14:00:46Z",
+      "Source": "Android Authority",
+      "Category": "Google Pixel 11",
+      "Summary": "すべての Pixel 11 スマートフォンは、ファンが待ち望んでいたワイヤレス充電速度をサポートしています\n\nGoogle の新しい Pixel 11 シリーズは Qi 2.2 を完全にサポートしており、全体で最大 25 ワットの磁気ワイヤレス充電が可能です。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nAndroid スマートフォンすべての Pixel 11 スマートフォンは、ファンが待ち望んでいたワイヤレス充電速度をサポートしています\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR すべての Pixel 11 スマートフォンは Qi 2.2 規格をサポートしており、25 ワットの磁気ワイヤレス充電を提供します。\n\n昨年の Pixel 10 シリーズのうち、25 ワットのワイヤレス充電をサポートしていたのは 10 Pro XL だけでした。\n\n既存の Pixelsnap 充電器は、35W USB-C 電源ブリックと組み合わせると 25W を供給できます。\n\n数カ月間のリークを経て、Googleは本日、ニューヨークのイベントでついにPixel 11シリーズ全体のパッケージを外した。新しい携帯電話には、新しいカメラセンサーから充電速度の高速化に至るまで、思慮深く実用的なアップグレードが数多く組み込まれています。今年、すべての Pixel 11 モデルが Qi 2.2 充電をサポートします。これは、昨年 10 Pro XL のみに搭載されていた機能です。\n\nQi 2.2 充電では、互換性のある電源に接続された互換性のあるワイヤレス充電器を使用している場合、最大 25 W のより高速なワイヤレス充電速度が可能になります。これは、Pixel 11、Pixel 11 Pro、Pixel 11 Pro Fold にとって大きなメリットです。これらの 2025 年モデルの最高値はすべて 15W です。\n\nRobert Triggs / And…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-pixel-11-pro-xl-hands-on-8-scaled.jpg"
     },
     {
       "Title": "樹脂印刷への復帰: 最初の結果",
@@ -7986,15 +8049,6 @@
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pixel-11-pro-pixel-11-pro-xl-hands-on-3-scaled.jpg"
     },
     {
-      "Title": "Pixel 11 カメラには、コンテンツ作成者のニーズに対応する内蔵テレプロンプターとタイムラインが付属しています",
-      "Link": "https://www.androidauthority.com/pixel-11-camera-creator-suite-3696821/",
-      "Published": "2026-08-12T14:00:39Z",
-      "Source": "Android Authority",
-      "Category": "Google Pixel 11",
-      "Summary": "Pixel 11 カメラには、コンテンツ作成者のニーズに対応する内蔵テレプロンプターとタイムラインが付属しています\n\nPixel 11 の新しい Creator Suite では、カメラ アプリ内にテレプロンプター、編集タイムライン、自動編成されたビデオ クリップが搭載されています。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nPixel 11 カメラには、コンテンツ作成者のニーズに対応する内蔵テレプロンプターとタイムラインが付属しています\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google は、ビデオクリエイター向けの新しいツールを Pixel 11 のカメラ アプリに追加しています。\n\nこれらには、カメラ アプリ内のテレプロンプターや基本的なビデオ編集ツールが含まれます。\n\nPixel 11 では、ビデオ クリップをプロジェクト アルバムに自動的に整理することもできます。\n\nビデオ作成者 (または多くのビデオを撮影するユーザー) が iPhone に惹かれることは疑いの余地がありません。 Android 陣営の特定の最上位オプションがより優れたビデオ録画機能を提供する可能性があるとしても、これは真実であり、Google は現在それを変更しようとしているかもしれません。ただし、Google は単にビデオ品質の向上で iPhone に対抗するのではなく、Pixel 11 でビデオを撮影する人にとって便利になる可能性のある追加機能を売り込んでいます。\n\nGoogle は Pixel 11 に、動画クリエイターがより簡単に創造性を発揮できるようにする新しいツール セットを追加します。これらの機能は、Google が「クリエイター スイート」と呼ぶものにグループ化されており、特にフロント カメラを使用する場合にビデオ作成が容易になります。\n\nPixel 11 の Creator Suite の機能の中には、ビデオ録画中にオー…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-creator-suite-hands-on-2-scaled.jpg"
-    },
-    {
       "Title": "Pixel 11 のキャリアセール: 新しい Google Pixel を節約する方法は次のとおりです",
       "Link": "https://www.androidauthority.com/pixel-11-carrier-deals-3697709/",
       "Published": "2026-08-12T14:00:39Z",
@@ -8002,6 +8056,15 @@
       "Category": "Verizon",
       "Summary": "Pixel 11 のキャリアセール: 新しい Google Pixel を節約する方法は次のとおりです\n\nPixel 11 シリーズは公式です。お金を節約したい場合は、現在利用できる Pixel 11 キャリアのセールをすべてここでご紹介します。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nPixel 11 のキャリアセール: 新しい Google Pixel を節約する方法は次のとおりです\n\n0 • Joe Maring / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Verizon は、他の通信事業者から Simplicity プランに切り替えるユーザーに Pixel 11 Pro を無料で提供しています。\n\nまた、新しい Pixel 11 シリーズの携帯電話で新しい Verizon ラインを購入するユーザーには、Pixel Watch 5 と Galaxy Tab S10 FE も提供されます。\n\nユーザーは既存のスマートフォンを下取りに出して、Pixel 11 シリーズのデバイスを最大 1,100 ドル割引で購入できます。\n\nGoogle は本日、最新のスマートフォンである Pixel 11 、Pixel 11 Pro、Pixel 11 Pro XL、および Pixel 11 Pro Fold を発売しました。スマートフォンを Pixel 11 ファミリーの新しいモデルにアップグレードすることを考えている場合は、アップグレードが簡単になり、お金の節約に役立つ通信会社の特典を見逃すことはできません。\n\nVerizon は、新規顧客と既存顧客の両方に向けて、Pixel 11 シリーズに関していくつかのオファーを提供しています。通信事業者が何を誰に向けて提供しているのかを詳しく説明します。\n\nまず、新規ユーザーは、Verizon の Simplicity プランの回線と 256GB Pixel 1…",
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-hands-on-1-scaled.jpg"
+    },
+    {
+      "Title": "Pixel 11 カメラには、コンテンツ作成者のニーズに対応する内蔵テレプロンプターとタイムラインが付属しています",
+      "Link": "https://www.androidauthority.com/pixel-11-camera-creator-suite-3696821/",
+      "Published": "2026-08-12T14:00:39Z",
+      "Source": "Android Authority",
+      "Category": "Google Pixel 11",
+      "Summary": "Pixel 11 カメラには、コンテンツ作成者のニーズに対応する内蔵テレプロンプターとタイムラインが付属しています\n\nPixel 11 の新しい Creator Suite では、カメラ アプリ内にテレプロンプター、編集タイムライン、自動編成されたビデオ クリップが搭載されています。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nPixel 11 カメラには、コンテンツ作成者のニーズに対応する内蔵テレプロンプターとタイムラインが付属しています\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google は、ビデオクリエイター向けの新しいツールを Pixel 11 のカメラ アプリに追加しています。\n\nこれらには、カメラ アプリ内のテレプロンプターや基本的なビデオ編集ツールが含まれます。\n\nPixel 11 では、ビデオ クリップをプロジェクト アルバムに自動的に整理することもできます。\n\nビデオ作成者 (または多くのビデオを撮影するユーザー) が iPhone に惹かれることは疑いの余地がありません。 Android 陣営の特定の最上位オプションがより優れたビデオ録画機能を提供する可能性があるとしても、これは真実であり、Google は現在それを変更しようとしているかもしれません。ただし、Google は単にビデオ品質の向上で iPhone に対抗するのではなく、Pixel 11 でビデオを撮影する人にとって便利になる可能性のある追加機能を売り込んでいます。\n\nGoogle は Pixel 11 に、動画クリエイターがより簡単に創造性を発揮できるようにする新しいツール セットを追加します。これらの機能は、Google が「クリエイター スイート」と呼ぶものにグループ化されており、特にフロント カメラを使用する場合にビデオ作成が容易になります。\n\nPixel 11 の Creator Suite の機能の中には、ビデオ録画中にオー…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-creator-suite-hands-on-2-scaled.jpg"
     },
     {
       "Title": "Pixel 11 では、リアルタイムのライブ翻訳により、あらゆる言語のビデオを簡単に視聴できます",
@@ -8112,15 +8175,6 @@
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-pixel-11-pro-xl-hands-on-12-scaled.jpg"
     },
     {
-      "Title": "GoogleのPixel Glowは正式にはHiLightですが、Pro Pixelsのみがそれを利用できます",
-      "Link": "https://www.androidauthority.com/google-pixel-hilight-features-availability-3696269/",
-      "Published": "2026-08-12T14:00:19Z",
-      "Source": "Android Authority",
-      "Category": "Google Pixel 11",
-      "Summary": "GoogleのPixel Glowは正式にはHiLightですが、Pro Pixelsのみがそれを利用できます\n\n新しい Pixel 11 Pro シリーズ スマートフォンの HiLight は、カスタム通知用にカメラのフラッシュの周囲に構築された一連のアンビエント LED ライトです。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nGoogleのPixel Glowは正式にはHiLightですが、Pro Pixelsのみがそれを利用できます\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google は、Pixel 11 Pro の噂されている Pixel Glow 機能を正式に「HiLight」と名付けました。\n\nこれは、カメラのフラッシュの周りに構築された一連のアンビエント LED ライトです。\n\nHiLight はカスタム カラーを使用して、お気に入りの連絡先からの電話 (Phone by Google や WhatsApp を介した通話など) を通知することができます。\n\nLED は Gemini にも反応し、最終的にはさらに多くのアラートを処理できる可能性があり、Google はすでにお気に入りの連絡先からのメッセージ通知を追加する予定です。\n\n想像の余地がほとんどない数か月にわたるリークの後、Google はついに Pixel 11 の主力ラインナップと、最も噂されている新機能の 1 つの正式名を発表しました。何ヶ月もの間、私たちはそれを Pixel Glow (私が個人的に好んだ名前) として知っていましたが、Pixel 11 シリーズの発売により、Google がそれを HiLight と呼んでいることがわかりました。\n\nPixel 11 Pro、Pixel 11 Pro XL、Pixel 11 Pro Fold 専用の HiLight は、基本的にカメラのフラッシュの周囲にあるアンビエント LED の小さなア…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-hilight-hands-on-7-scaled.jpg"
-    },
-    {
       "Title": "Pixel 11 Pro スマートフォンには Pro Stable Video モードが搭載されていますが、大きな制限があります",
       "Link": "https://www.androidauthority.com/google-pixel-11-pro-series-pro-stable-video-3693813/",
       "Published": "2026-08-12T14:00:19Z",
@@ -8128,6 +8182,15 @@
       "Category": "Google Pixel 11",
       "Summary": "Pixel 11 Pro スマートフォンには Pro Stable Video モードが搭載されていますが、大きな制限があります\n\n最新の Pixel 11 Pro と Pro XL は両方とも新しい Pro Stable Video モードを備えていますが、このモードには大きな制限があります。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nPixel 11 Pro スマートフォンには Pro Stable Video モードが搭載されていますが、大きな制限があります\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google の Pixel 11 Pro および Pixel 11 Pro XL は、Pro Stable Video 録画モードを提供するようになりました。\n\nこのモードは、揺れる明るいシーンで自動的にアクティブになり、よりスムーズで安定したビデオ クリップを配信します。\n\nGoogleはAndroid Authorityに対し、このモードはVideo Boostの一部であり、インターネット接続がなければ機能しないと述べた。\n\nGoogle はついに Pixel 11 シリーズの携帯電話を発売しましたが、注目すべき機能には事欠きません。実際、今年新たに追加された機能の 1 つは、よりスムーズで安定したビデオ キャプチャを求める場合に最適と思われます。\n\nPixel 11 Pro と Pixel Pro XL は両方とも Pro Stable Video モードを提供します。一見すると、これはライバルの携帯電話に見られるスーパーステディモード、ウルトラ安定モード、アクションモードに対するGoogleの答えのように見えます。このモードでは、デフォルトおよびアクティブ安定化モードと比較して、安定化が向上し、ビデオがよりスムーズになります。 Google は、プロ安定ビデオ モードは、揺れる明るいシーンでは自動的に有効にな…",
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-pixel-11-pro-xl-hands-on-11-scaled.jpg"
+    },
+    {
+      "Title": "GoogleのPixel Glowは正式にはHiLightですが、Pro Pixelsのみがそれを利用できます",
+      "Link": "https://www.androidauthority.com/google-pixel-hilight-features-availability-3696269/",
+      "Published": "2026-08-12T14:00:19Z",
+      "Source": "Android Authority",
+      "Category": "Google Pixel 11",
+      "Summary": "GoogleのPixel Glowは正式にはHiLightですが、Pro Pixelsのみがそれを利用できます\n\n新しい Pixel 11 Pro シリーズ スマートフォンの HiLight は、カスタム通知用にカメラのフラッシュの周囲に構築された一連のアンビエント LED ライトです。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nGoogleのPixel Glowは正式にはHiLightですが、Pro Pixelsのみがそれを利用できます\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google は、Pixel 11 Pro の噂されている Pixel Glow 機能を正式に「HiLight」と名付けました。\n\nこれは、カメラのフラッシュの周りに構築された一連のアンビエント LED ライトです。\n\nHiLight はカスタム カラーを使用して、お気に入りの連絡先からの電話 (Phone by Google や WhatsApp を介した通話など) を通知することができます。\n\nLED は Gemini にも反応し、最終的にはさらに多くのアラートを処理できる可能性があり、Google はすでにお気に入りの連絡先からのメッセージ通知を追加する予定です。\n\n想像の余地がほとんどない数か月にわたるリークの後、Google はついに Pixel 11 の主力ラインナップと、最も噂されている新機能の 1 つの正式名を発表しました。何ヶ月もの間、私たちはそれを Pixel Glow (私が個人的に好んだ名前) として知っていましたが、Pixel 11 シリーズの発売により、Google がそれを HiLight と呼んでいることがわかりました。\n\nPixel 11 Pro、Pixel 11 Pro XL、Pixel 11 Pro Fold 専用の HiLight は、基本的にカメラのフラッシュの周囲にあるアンビエント LED の小さなア…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-hilight-hands-on-7-scaled.jpg"
     },
     {
       "Title": "Google の新しい Pixel Tag は Android ユーザーが待ち望んでいた AirTag のライバルです",
@@ -8938,69 +9001,6 @@
       "Category": "tsb-zn",
       "Summary": "Sabrent Voltik AX-8PTC レビュー: 8 つの USB ポート、252 ワット、そしてついに電源アダプターの煩雑さが軽減されました\n\nSabrent Voltik AX-8PTC は、8 つの USB ポートと 252 ワットを組み合わせてノートブックやアクセサリに電力を供給し、そのディスプレイは共有出力を監視します。\n\nSabrent Voltik AX-8PTC は、複数の個別の電源アダプタを 4 つの USB-C ポート、4 つの USB-A ポート、カラー ディスプレイ、および最大 252 ワットの共有出力電力を提供する 1 つのユニットに置き換えるように設計されたデスクトップ充電ステーションです。その主な利点は、実用的な統合です。出力はすべての USB-C ポートで一度に 100 ワットとして利用できるのではなく、動的に割り当てられますが、ノートブックと複数の小型デバイスに同時に電力を供給できます。\n\nこのユニットは、わずかに面取りされたブロック形状のデザインを備えた重厚な黒色のハウジングを採用しています。カラーディスプレイ、中央ボタン、8 つの USB ポートが上部に配置されています。\n\n側面の 2 つの通気エリアと温度制御されたファンは、純粋に受動的な熱放散ではなく、能動的な冷却を示しています。\n\n下側の幅広のゴム要素により、滑らかな表面でもステーションが安定します。付属の取り付けプレートは、4 つのネジポイントと付属の取り付け金具を使用して、机の下または垂直面に取り付けることができます。\n\n取り付け位置では、熱が蓄積しないように通気口を遮らないようにする必要があります。\n\n取り外し可能な 2 ピン IEC-C7 コネクタは、付属のケーブルをより長いバージョンまたは地域に応じた適切なバージョンに交換するのに適しています。このデバイスはクラス II 保護としてマークされているため、保護接地線は必要ありません。\n\n背面のマーキングには、AX-8PTC モデル、入出力情報、CE、UKCA、FCC、UL マーキング、屋内使用情報、ケンジントン …",
       "ImageURL": "https://www.igorslab.de/wp-content/uploads/2026/08/Box-Front-Top.jpg"
-    },
-    {
-      "Title": "手動フィラメントチューニングにはまだ価値がありますか?",
-      "Link": "https://hackaday.com/2026/08/11/is-manual-filament-tuning-still-worth-it/",
-      "Published": "2026-08-12T02:00:42Z",
-      "Source": "Hackaday",
-      "Category": "slicer",
-      "Summary": "手動フィラメントチューニングにはまだ価値がありますか?\n\n自動ベッドレベリング、自動圧力調整、自動温度調整などを備えた消費者グレードの FDM プリンタが、防弾プリセットの後ろにボタンで留められているこの時代に…\n\n自動ベッドレベリング、自動圧力調整、自動温度調整などを備えた消費者グレードの FDM プリンタが、防弾プリセットや自動化の背後にボタンで留められているこの時代では、手動でのフィラメント調整のような古風なものは、少し場違いに思えます。ホットロッド Voron FDM プリンタを実行している場合を除き、既製の FDM プリンタを手動で調整して「時間を無駄にする」のは意味があるでしょうか?最近のビデオで [MandicReally] は、パフォーマンスをさらに向上させることが依然として意味があると主張しています。\n\n前もって、これらの自動調整された構成が平均的なユーザーにとってまったく問題ないことは明らかであり、プリンターが行った自動構成と組み合わせた「汎用 PLA」プリセットのようなものに完全に満足するでしょう。とはいえ、すべてのフィラメントが同じというわけではなく、各加熱要素、ノズル、供給システムも同じではありません。その意味では、さらに深く検討してみる価値はあるかもしれません。\n\nビデオでは、このような調整されたプロファイルと ASA フィラメントの一般的なプリセットの間でテストを行う前に、温度、流量比と速度、圧力の前進、後退速度、材料の収縮などのテストを実行する前に、適切な乾燥などの材料の準備などの基本的な側面が確認されています。\n\n違いは昼と夜ではありませんが、調整されたプロファイルは、控えめな設定により高速であり、ターゲット FDM プリンタのパフォーマンスを考慮しているため、最終印刷の精度が向上しました。たとえ平均的な愛好家が興味を持たないものであっても、FDM を使用して生産を実行するようなことをしているのであれば、これは注目すべきものかもしれません。",
-      "ImageURL": "https://hackaday.com/wp-content/uploads/2026/08/print_comparison_slicer_profiles_mandicreally_youtube.jpg"
-    },
-    {
-      "Title": "MINISFORUM Elite Mini M2 Air-304 ベアボーン Wildcat Lake ミニ PC が 263 ドルで販売",
-      "Link": "https://www.cnx-software.com/2026/08/12/minisforum-elite-mini-m2-air-304-barebone-wildcat-lake-mini-pc/",
-      "Published": "2026-08-12T01:42:27Z",
-      "Source": "CNX Software",
-      "Category": "windows 11",
-      "Summary": "MINISFORUM Elite Mini M2 Air-304 ベアボーン Wildcat Lake ミニ PC が 263 ドルで販売\n\nMINISFORUM Elite Mini M2 Air-304 は、DDR5 SO-DIMM スロットと、Intel Core 3 304 Wildcat Lake ペンタコア プロセッサを搭載したベアボーン ミニ PC です。\n\nMINISFORUM Elite Mini M2 Air-304 は、DDR5 SO-DIMM スロットと NVMe SSD ストレージ用の M.2 PCIe Gen4 x4 ソケットを備えた Intel Core 3 304 Wildcat Lake ペンタコア プロセッサを搭載したベアボーン ミニ PC です。\n\n現在、Beelink EQi Wildcat Lake や BOSGAME E6 Eco など、購入または予約注文できる Wildcat Lake ミニ PC の数は限られています。これらは、メモリ、ストレージ、Windows 11 がプリロードされており、箱から出してすぐに使用できます。 MINISFORUM モデルは、これまでに見た中では初めての Wildcat Lake ベアボーン ミニ PC で、ユーザーは自分のメモリ、ストレージ、OS を持ち込むことができます。\n\nMINISFORUM Elite Mini M2 Air-304 仕様:\n\nSoC – Intel Core 3 304「Wildcat Lake」5 コア CPU – 1x P コア @ 1.5/4.3 GHz (ターボ) + 4x LPE コア @ 1.4/3.3 GHz (ターボ)\n\nGPU – 1 コア Intel Xe3 グラフィックス @ 2.3 GHz (9 TOPS)\n\n製造プロセス – Intel 18A\n\nシステム メモリ – DDR5 SODIMM/CSODIMM スロット、最大 64GB @ 6400 MT/s\n\nNVMe SSD 用ストレージ M.2 Key-M 2280 (PCIe Gen…",
-      "ImageURL": "https://www.cnx-software.com/wp-content/uploads/2026/08/MINISFORUM-Elite-Mini-M2-Air-304.jpg"
-    },
-    {
-      "Title": "Xbox CEO sees Elder Scrolls VI live, teases RPG's 'incredible' scale",
-      "Link": "https://www.tweaktown.com/rss/click/news/113082/?c=news-mf",
-      "Published": "2026-08-12T00:37:09Z",
-      "Source": "TweakTown",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "Aliens: Fireteam Elite shut down on Switch shows why gamers are fighting Sony's disc-free future",
-      "Link": "https://www.tweaktown.com/rss/click/news/113085/?c=news-mf",
-      "Published": "2026-08-12T00:02:13Z",
-      "Source": "TweakTown",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "GNOME 50 では、COSMIC に切り替える原因となった 2 つの問題がついに修正されましたが、戻るとは思っていませんでした",
-      "Link": "https://www.xda-developers.com/gnome-50-finally-fixed-the-two-things-that-made-me-switch-to-cosmic-and-i-didnt-expect-to-go-back/",
-      "Published": "2026-08-12T00:00:10Z",
-      "Source": "XDA",
-      "Category": "COSMIC Desktop",
-      "Summary": "GNOME 50 では、COSMIC に切り替える原因となった 2 つの問題がついに修正されましたが、戻るとは思っていませんでした\n\nたぶんそれ\n\nGNOME 50 では、COSMIC に切り替える原因となった 2 つの問題がついに修正されましたが、戻るとは思っていませんでした\n\nBy Ty Sherback 公開日 2026 年 8 月 11 日、午後 8:00 EDT 彼の PC とそのコンポーネントに対する愛情は、ファミリー コンピューターのパフォーマンスをすべて絞り出そうとすることから生まれました。 10 歳のときに自分のビルドをいじっていたことが、友人や家族のために PC を作ることに変わり、最終的にキャリア パスとして形になる情熱を育みました。 Ty は、身近な人々への技術サポートの最初の電話であることに加えて、クラウド コンピューティングとネットワーキングに重点を置いているコンピューター サイエンスの学生でもあります。彼はセミプロの Counter-Strike にも 8 年間出場しており、周辺機器に関するあらゆることに精通しています。 XDA アカウントにサインインする COSMIC が Linux 上の優れたデスクトップ環境であるという評判を得たのは偶然ではなく、その優れたハードウェア サポートにより、しばらく前に私のマシンに採用されるようになりました。かなりのストレッチとしては、複数の高リフレッシュレートディスプレイを扱うのが他の環境よりも優れているように感じましたが、使用しているうちに、私の心は元の環境への憧れを抱いていました。\n\nGNOME は、良くも悪くも、Linux 上の私の頼りになるデスクトップです。これもかなりの評判がありますが、それほど肯定的なものではありません。それにもかかわらず、最近 GNOME から離れたいくつかの機能が GNOME 50 でデフォルトになり、ようやく実験段階を終えたので、喜んで元に戻りました。\n\n可変リフレッシュレートは正式にデフォルトです\n\n以前から利用可能でしたが、現在は GUI になっています。\n\nGNOM…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/img_5744.png?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
-      "Title": "OpenAI, Meta and Google workers say AI jobs mean 90-hour weeks, not the four-day workweek companies promised",
-      "Link": "https://www.tweaktown.com/rss/click/news/113084/?c=news-mf",
-      "Published": "2026-08-11T23:35:08Z",
-      "Source": "TweakTown",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "Leaked images show Lenovo ThinkBook with horizontally expanding display",
-      "Link": "https://www.tweaktown.com/rss/click/news/113083/?c=news-mf",
-      "Published": "2026-08-11T23:11:07Z",
-      "Source": "TweakTown",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
     }
   ]
 }
