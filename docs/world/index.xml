@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Fri, 14 Aug 2026 23:35:52 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sat, 15 Aug 2026 01:49:09 +0000</lastBuildDate>
+<item><title>Windows 11 は Docker なしで Linux コンテナを実行できるようになり、WSL コンテナが実際にそれを置き換えられるかどうかをテストしました</title><link>https://www.xda-developers.com/windows-11-can-now-run-linux-containers-without-docker-tested/</link><guid isPermaLink="true">https://www.xda-developers.com/windows-11-can-now-run-linux-containers-without-docker-tested/</guid><pubDate>Sat, 15 Aug 2026 00:00:10 +0000</pubDate><description><![CDATA[<p>Windows 11 は Docker なしで Linux コンテナを実行できるようになり、WSL コンテナが実際にそれを置き換えられるかどうかをテストしました
+
+それ
+
+Windows 11 は Docker なしで Linux コンテナを実行できるようになり、WSL コンテナが実際にそれを置き換えられるかどうかをテストしました
+
+By Joe Rice-Jones Published Aug 14, 2026, 8:00 PM EDT Maker、meme-r、そして恥ずかしがり屋のオタクである Joe は、2018 年に KnowTechie でキャリアをスタートして以来、テクノロジーについて執筆しています。彼は Apple からアプリ、クラウドファンディングまであらゆるものをカバーしており、複雑なトピックの本質に迫るのが大好きです。その間、彼は、2023 年の春に XDA に本拠地を置くまで、SlashGear や多数の法人顧客向けにも記事を書いていました。彼は、たとえ後で完全に元に戻らなかったとしても、すべてのおもちゃを分解して、どのように機能するかを確認する子供でした。これにより、複雑なシステムがどのように連携して機能するかを説明するための確かな背景が得られ、それ以来、物事を元に戻す段階でうまくなったと彼は約束します。 XDA アカウントにサインインします。 私のホームラボはコンテナ上で実行されており、それらのほとんどは Proxmox 上の LXC ですが、テスト中は Docker デスクトップでも実行しています。私はそのプログラムが決して好きではありませんでしたし、必要悪でした。そのため、Microsoft が最新の WSL プレリリースで WSL コンテナー (wslc) を出荷したとき、Docker Desktop を永久に捨てられるかどうかを知る必要がありました。
+
+私は速度テストが行​​われ、Microsoft は必要な機能の実装に苦労するだろうと予想していました。私が見つけたのは、物事を別の方法で行う方法についてのアーキテクチャのレッスンでした…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/wslc-hero.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Windows 11 は Docker なしで Linux コンテナを実行できるようになり、WSL コンテナが実際にそれを置き換えられるかどうかをテストしました"></p>]]></description><source url="https://www.xda-developers.com/windows-11-can-now-run-linux-containers-without-docker-tested/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/wslc-hero.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/wslc-hero.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>水中ドローンが氷を分析</title><link>https://hackaday.com/2026/08/14/submersible-drone-analyzes-ice/</link><guid isPermaLink="true">https://hackaday.com/2026/08/14/submersible-drone-analyzes-ice/</guid><pubDate>Fri, 14 Aug 2026 23:00:21 +0000</pubDate><description><![CDATA[<p>水中ドローンが氷を分析
 
 凍った湖の上で何かをすることには、ある程度のリスクが伴います。それにもかかわらず、カーレースからアイススケートまでのイベントが毎年開催されます。したがって、適切な安全対策が必要です…
@@ -737,25 +746,6 @@ Android Authority のアフィリエイト リンクにより、手数料が発�
 スマートフォンの平均バッテリー容量は年々増加し続けており、アナリストらはこの現象は中国のスマートフォンブランドとバッテリー技術の向上によるものだと考えています。 XiaomiのサブブランドPOCOは、そのバッテリー技術をヨーロッパ市場に導入する準備をしており、リークは現在、その次の主力製品の早期外観を提供しています。
 
 WinFuture による独占レポートでは、最近中国でデビューした Redmi K100 Pro と Pro Max を事実上ヨーロッパでリブランドした 2 つのプレミアム グレードのフラッグシップを垣間見ることができます。最高級のPOCO F9 Ultraのリークされたハイライトの中には、巨大な8,050mAhバッテリーが含まれていますが、小型のF9 Proには代わりに6,330mAhバッテリーパックが搭載されて…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/Poco-F9-WF.jpeg" alt="大容量バッテリーと 200MP カメラを搭載したこのフラッグシップがもうすぐ登場します"></p>]]></description><source url="https://www.androidauthority.com/poco-f9-pro-ultra-specs-pricing-leak-3698809/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/Poco-F9-WF.jpeg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/Poco-F9-WF.jpeg"/></item>
-<item><title>240 Hz IPS パネル、G-Sync、正確な色を備えた 27 インチ モニター: KTC H27E6S レビュー</title><link>https://www.notebookcheck.net/27-Inch-Monitor-with-a-240-Hz-IPS-Panel-G-Sync-and-Accurate-Colors-KTC-H27E6S-Review.1368073.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/27-Inch-Monitor-with-a-240-Hz-IPS-Panel-G-Sync-and-Accurate-Colors-KTC-H27E6S-Review.1368073.0.html</guid><pubDate>Fri, 14 Aug 2026 14:39:00 +0000</pubDate><description><![CDATA[<p>240 Hz IPS パネル、G-Sync、正確な色を備えた 27 インチ モニター: KTC H27E6S レビュー
-
-27 インチ画面、QHD 解像度、240 Hz リフレッシュ レートを備えた KTC H27E6S ゲーミング モニターの Notebookcheck レビュー。
-
-評決: 240 Hz の手頃な価格の 27 インチ モニター
-
-テストでは、KTC H27E6S は良い印象を与えました。 240 Hz の高いリフレッシュ レートと高速応答時間を備えた 27 インチ IPS パネルは、PC とコンソールの両方で、ペースの速いシューティングゲームでも問題なく処理します。ただし、IPS パネルでは意味のある HDR 効果を生み出すのに十分な明るさ​​が得られないため、HDR ゲームは実際には実現可能ではありません。
-
-このモニターは、優れた明るさ、マットな表示面、PWM ちらつきがないため、特に画面を回転して縦向きモードにできるため、生産性の高い作業にも適しています。付属のスタンドには広範な調整オプションがありますが、照明に関してはほとんど機能しません。
-
-H27E6S は工場出荷時の設定でも sRGB 色空間で正確な色再現を実現しており、画像編集にも適しています。全体として、それは公正な価格で優れたオールラウンダーです。ただし、たまにしかゲームをしない場合は、リフレッシュ レートは低くても、USB-C Power Delivery や KVM スイッチなどの機能が充実した競合モデルの方が魅力的である可能性があります。
-
-KTC H27E6S は、Amazon Germany で €239.99 で入手できます。
-
-翻訳者注: 米国では、このモニターは Amazon で 220 ドルで購入できます。
-
-評決 – ゲーマーだけでなく優れた IPS モニター
-
-H27E6S では、KTC は主にゲーマー向けに、IPS パネルと 240 Hz リフレッシュ レートを備えた手頃な価格の 27 インチ モニターを提供します。ただし、正確な色とマットなパネルのおかげで…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/KTC/H27E6S/ktc_H27E6S_16.JPG" alt="240 Hz IPS パネル、G-Sync、正確な色を備えた 27 インチ モニター: KTC H27E6S レビュー"></p>]]></description><source url="https://www.notebookcheck.net/27-Inch-Monitor-with-a-240-Hz-IPS-Panel-G-Sync-and-Accurate-Colors-KTC-H27E6S-Review.1368073.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/KTC/H27E6S/ktc_H27E6S_16.JPG" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/KTC/H27E6S/ktc_H27E6S_16.JPG"/></item>
 <item><title>240 Hz IPS パネル、G-Sync、正確な色を備えた 27 インチ モニター: KTC H27E6S レビュー</title><link>https://www.notebookcheck.net/27-inch-monitor-with-a-240-Hz-IPS-panel-G-Sync-and-accurate-colors-KTC-H27E6S-review.1368073.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/27-inch-monitor-with-a-240-Hz-IPS-panel-G-Sync-and-accurate-colors-KTC-H27E6S-review.1368073.0.html</guid><pubDate>Fri, 14 Aug 2026 14:39:00 +0000</pubDate><description><![CDATA[<p>240 Hz IPS パネル、G-Sync、正確な色を備えた 27 インチ モニター: KTC H27E6S レビュー
 
 27 インチ画面、QHD 解像度、240 Hz リフレッシュ レートを備えた KTC H27E6S ゲーミング モニターの Notebookcheck レビュー。
@@ -775,6 +765,25 @@ KTC H27E6S は、Amazon Germany で €239.99 で入手できます。
 評決 – ゲーマーだけでなく優れた IPS モニター
 
 H27E6S では、KTC は主にゲーマー向けに、IPS パネルと 240 Hz リフレッシュ レートを備えた手頃な価格の 27 インチ モニターを提供します。ただし、正確な色とマットなパネルのおかげで…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/KTC/H27E6S/ktc_H27E6S_16.JPG" alt="240 Hz IPS パネル、G-Sync、正確な色を備えた 27 インチ モニター: KTC H27E6S レビュー"></p>]]></description><source url="https://www.notebookcheck.net/27-inch-monitor-with-a-240-Hz-IPS-panel-G-Sync-and-accurate-colors-KTC-H27E6S-review.1368073.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/KTC/H27E6S/ktc_H27E6S_16.JPG" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/KTC/H27E6S/ktc_H27E6S_16.JPG"/></item>
+<item><title>240 Hz IPS パネル、G-Sync、正確な色を備えた 27 インチ モニター: KTC H27E6S レビュー</title><link>https://www.notebookcheck.net/27-Inch-Monitor-with-a-240-Hz-IPS-Panel-G-Sync-and-Accurate-Colors-KTC-H27E6S-Review.1368073.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/27-Inch-Monitor-with-a-240-Hz-IPS-Panel-G-Sync-and-Accurate-Colors-KTC-H27E6S-Review.1368073.0.html</guid><pubDate>Fri, 14 Aug 2026 14:39:00 +0000</pubDate><description><![CDATA[<p>240 Hz IPS パネル、G-Sync、正確な色を備えた 27 インチ モニター: KTC H27E6S レビュー
+
+27 インチ画面、QHD 解像度、240 Hz リフレッシュ レートを備えた KTC H27E6S ゲーミング モニターの Notebookcheck レビュー。
+
+評決: 240 Hz の手頃な価格の 27 インチ モニター
+
+テストでは、KTC H27E6S は良い印象を与えました。 240 Hz の高いリフレッシュ レートと高速応答時間を備えた 27 インチ IPS パネルは、PC とコンソールの両方で、ペースの速いシューティングゲームでも問題なく処理します。ただし、IPS パネルでは意味のある HDR 効果を生み出すのに十分な明るさ​​が得られないため、HDR ゲームは実際には実現可能ではありません。
+
+このモニターは、優れた明るさ、マットな表示面、PWM ちらつきがないため、特に画面を回転して縦向きモードにできるため、生産性の高い作業にも適しています。付属のスタンドには広範な調整オプションがありますが、照明に関してはほとんど機能しません。
+
+H27E6S は工場出荷時の設定でも sRGB 色空間で正確な色再現を実現しており、画像編集にも適しています。全体として、それは公正な価格で優れたオールラウンダーです。ただし、たまにしかゲームをしない場合は、リフレッシュ レートは低くても、USB-C Power Delivery や KVM スイッチなどの機能が充実した競合モデルの方が魅力的である可能性があります。
+
+KTC H27E6S は、Amazon Germany で €239.99 で入手できます。
+
+翻訳者注: 米国では、このモニターは Amazon で 220 ドルで購入できます。
+
+評決 – ゲーマーだけでなく優れた IPS モニター
+
+H27E6S では、KTC は主にゲーマー向けに、IPS パネルと 240 Hz リフレッシュ レートを備えた手頃な価格の 27 インチ モニターを提供します。ただし、正確な色とマットなパネルのおかげで…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/KTC/H27E6S/ktc_H27E6S_16.JPG" alt="240 Hz IPS パネル、G-Sync、正確な色を備えた 27 インチ モニター: KTC H27E6S レビュー"></p>]]></description><source url="https://www.notebookcheck.net/27-Inch-Monitor-with-a-240-Hz-IPS-Panel-G-Sync-and-Accurate-Colors-KTC-H27E6S-Review.1368073.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/KTC/H27E6S/ktc_H27E6S_16.JPG" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/KTC/H27E6S/ktc_H27E6S_16.JPG"/></item>
 <item><title>私は Nextcloud を捨てて、もっと軽いものを探しましたが、機能を一つも見逃していません。</title><link>https://www.xda-developers.com/ditched-nextcloud-something-lighter-dont-miss-single-feature/</link><guid isPermaLink="true">https://www.xda-developers.com/ditched-nextcloud-something-lighter-dont-miss-single-feature/</guid><pubDate>Fri, 14 Aug 2026 14:30:10 +0000</pubDate><description><![CDATA[<p>私は Nextcloud を捨てて、もっと軽いものを探しましたが、機能を一つも見逃していません。
 
 Seafile は私の新しい友達です。
@@ -5618,6 +5627,46 @@ Pixel 11 シリーズが主役であることは明らかです。これをハ�
 新しい HiLight 機能は Pro スマートフォンで利用できるため、ベースモデルの Pixel は点灯しないままになります。 HiLight は、電話機の背面にあるフラッシュ アセンブリ内の RGB LED のリングで構成されています。 Gemini と話しているときに点灯するので、自分の声が聞こえたことや AI が動作していることを知るために携帯電話の画面を見る必要はありません。したがって、電話機を下向きに置くのが最も合理的です。
 
 多色の LED は、特定の…</p><p><img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Google-2026-lineup-1152x648.jpg" alt="Google、2026年のハードウェアラインナップを発表：Pixel 11、Pixel Watch 5、Pixel Tag"></p>]]></description><source url="https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/">Ars Technica Gear &amp; Gadgets</source><media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Google-2026-lineup-1152x648.jpg" medium="image"/><media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Google-2026-lineup-1152x648.jpg"/></item>
+<item><title>Pixel 11 Proは、3世代を経て正式に温度計に別れを告げます</title><link>https://www.androidauthority.com/pixel-11-pro-phones-no-thermometer-3697115/</link><guid isPermaLink="true">https://www.androidauthority.com/pixel-11-pro-phones-no-thermometer-3697115/</guid><pubDate>Wed, 12 Aug 2026 14:00:46 +0000</pubDate><description><![CDATA[<p>Pixel 11 Proは、3世代を経て正式に温度計に別れを告げます
+
+Googleは2023年にPixel Proスマートフォンに温度計を導入しましたが、Pixel 11 Proスマートフォンには温度計が搭載されていないことが公式に確認されました。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+Pixel 11 Proは、3世代を経て正式に温度計に別れを告げます
+
+0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google は、Pixel 11 Pro スマートフォンに温度センサーが提供されなくなったことを確認しました。
+
+新しい携帯電話には、温度計の代わりにいわゆる HiLight 通知 LED が搭載されています。
+
+Googleは2023年にPixel 8 Proに温度センサーを初めて導入しました。
+
+Pixel 8 Pro は、2023 年に温度計または温度センサーをデビューさせました。この背面センサーにより、(驚いたことに) 物体の温度、最終的には人の温度を測定できるようになりました。ただし、Pixel 11 Pro スマートフォンはすべて、カメラ バーにいわゆる HiLight 機能を備えていますが、これは温度センサーにとって何を意味するのでしょうか?
+
+Google は Android Authority に対して、Pixel 11 シリーズのデバイスには温度計が搭載されていないことを確認しました。
+
+Pixel 11 シリーズには温度センサーが搭載されていません。私たちは毎年、できるだけ多くの人々のお役に立てるように、Pixel の製品の進歩に取り組んでいます。 Pixel の温度センサーにより、外出先でも測定値を取得できるという安心感が得られました。そして今回、HiLight は、重要な通知を見逃さないという安心感を提供すると同時に、Gemini と積極的に会話しているときに視覚的な合図も提供します。
+
+温度セ…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-vs-pixel-10-pro-hands-on-3-scaled.jpg" alt="Pixel 11 Proは、3世代を経て正式に温度計に別れを告げます"></p>]]></description><source url="https://www.androidauthority.com/pixel-11-pro-phones-no-thermometer-3697115/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-vs-pixel-10-pro-hands-on-3-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-vs-pixel-10-pro-hands-on-3-scaled.jpg"/></item>
+<item><title>すべての Pixel 11 スマートフォンは、ファンが待ち望んでいたワイヤレス充電速度をサポートしています</title><link>https://www.androidauthority.com/google-pixel-11-wireless-charging-3697309/</link><guid isPermaLink="true">https://www.androidauthority.com/google-pixel-11-wireless-charging-3697309/</guid><pubDate>Wed, 12 Aug 2026 14:00:46 +0000</pubDate><description><![CDATA[<p>すべての Pixel 11 スマートフォンは、ファンが待ち望んでいたワイヤレス充電速度をサポートしています
+
+Google の新しい Pixel 11 シリーズは Qi 2.2 を完全にサポートしており、全体で最大 25 ワットの磁気ワイヤレス充電が可能です。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+Android スマートフォンすべての Pixel 11 スマートフォンは、ファンが待ち望んでいたワイヤレス充電速度をサポートしています
+
+0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR すべての Pixel 11 スマートフォンは Qi 2.2 規格をサポートしており、25 ワットの磁気ワイヤレス充電を提供します。
+
+昨年の Pixel 10 シリーズのうち、25 ワットのワイヤレス充電をサポートしていたのは 10 Pro XL だけでした。
+
+既存の Pixelsnap 充電器は、35W USB-C 電源ブリックと組み合わせると 25W を供給できます。
+
+数カ月間のリークを経て、Googleは本日、ニューヨークのイベントでついにPixel 11シリーズ全体のパッケージを外した。新しい携帯電話には、新しいカメラセンサーから充電速度の高速化に至るまで、思慮深く実用的なアップグレードが数多く組み込まれています。今年、すべての Pixel 11 モデルが Qi 2.2 充電をサポートします。これは、昨年 10 Pro XL のみに搭載されていた機能です。
+
+Qi 2.2 充電では、互換性のある電源に接続された互換性のあるワイヤレス充電器を使用している場合、最大 25 W のより高速なワイヤレス充電速度が可能になります。これは、Pixel 11、Pixel 11 Pro、Pixel 11 Pro Fold にとって大きなメリットです。これらの 2025 年モデルの最高値はすべて 15W です。
+
+Robert Triggs / And…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-pixel-11-pro-xl-hands-on-8-scaled.jpg" alt="すべての Pixel 11 スマートフォンは、ファンが待ち望んでいたワイヤレス充電速度をサポートしています"></p>]]></description><source url="https://www.androidauthority.com/google-pixel-11-wireless-charging-3697309/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-pixel-11-pro-xl-hands-on-8-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-pixel-11-pro-xl-hands-on-8-scaled.jpg"/></item>
 <item><title>Google、2倍のストレージ、より大きなバッテリー、Gemini Intelligenceを搭載したPixel Watch 5を発表</title><link>https://www.androidauthority.com/google-pixel-watch-5-launch-3695435/</link><guid isPermaLink="true">https://www.androidauthority.com/google-pixel-watch-5-launch-3695435/</guid><pubDate>Wed, 12 Aug 2026 14:00:46 +0000</pubDate><description><![CDATA[<p>Google、2倍のストレージ、より大きなバッテリー、Gemini Intelligenceを搭載したPixel Watch 5を発表
 
 Google は Pixel Watch 5 を正式に発売しました。同社の最新スマートウォッチは現在予約注文可能です。
@@ -5656,46 +5705,6 @@ Pixel Watch 5 は、Health Guardian を使用した早期警告システムに�
 これが、この秋登場する新しい健康機能のコレクションである Health Guardian の背後にある考え方です。ユーザーが個々の測定値を詳しく調べるのを待つのではなく、バックグラウンドで収集された信号を分析し、実際に注意を払う価値がある可能性のある変化にフラグを立てます。
 
 それらの中で最も即時的なのは、呼吸…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-2-scaled.jpg" alt="Pixel Watch 5 は、Health Guardian を使用した早期警告システムになる可能性があります"></p>]]></description><source url="https://www.androidauthority.com/google-pixel-watch-5-health-guardian-3697552/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-2-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-2-scaled.jpg"/></item>
-<item><title>すべての Pixel 11 スマートフォンは、ファンが待ち望んでいたワイヤレス充電速度をサポートしています</title><link>https://www.androidauthority.com/google-pixel-11-wireless-charging-3697309/</link><guid isPermaLink="true">https://www.androidauthority.com/google-pixel-11-wireless-charging-3697309/</guid><pubDate>Wed, 12 Aug 2026 14:00:46 +0000</pubDate><description><![CDATA[<p>すべての Pixel 11 スマートフォンは、ファンが待ち望んでいたワイヤレス充電速度をサポートしています
-
-Google の新しい Pixel 11 シリーズは Qi 2.2 を完全にサポートしており、全体で最大 25 ワットの磁気ワイヤレス充電が可能です。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Android スマートフォンすべての Pixel 11 スマートフォンは、ファンが待ち望んでいたワイヤレス充電速度をサポートしています
-
-0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR すべての Pixel 11 スマートフォンは Qi 2.2 規格をサポートしており、25 ワットの磁気ワイヤレス充電を提供します。
-
-昨年の Pixel 10 シリーズのうち、25 ワットのワイヤレス充電をサポートしていたのは 10 Pro XL だけでした。
-
-既存の Pixelsnap 充電器は、35W USB-C 電源ブリックと組み合わせると 25W を供給できます。
-
-数カ月間のリークを経て、Googleは本日、ニューヨークのイベントでついにPixel 11シリーズ全体のパッケージを外した。新しい携帯電話には、新しいカメラセンサーから充電速度の高速化に至るまで、思慮深く実用的なアップグレードが数多く組み込まれています。今年、すべての Pixel 11 モデルが Qi 2.2 充電をサポートします。これは、昨年 10 Pro XL のみに搭載されていた機能です。
-
-Qi 2.2 充電では、互換性のある電源に接続された互換性のあるワイヤレス充電器を使用している場合、最大 25 W のより高速なワイヤレス充電速度が可能になります。これは、Pixel 11、Pixel 11 Pro、Pixel 11 Pro Fold にとって大きなメリットです。これらの 2025 年モデルの最高値はすべて 15W です。
-
-Robert Triggs / And…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-pixel-11-pro-xl-hands-on-8-scaled.jpg" alt="すべての Pixel 11 スマートフォンは、ファンが待ち望んでいたワイヤレス充電速度をサポートしています"></p>]]></description><source url="https://www.androidauthority.com/google-pixel-11-wireless-charging-3697309/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-pixel-11-pro-xl-hands-on-8-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-pixel-11-pro-xl-hands-on-8-scaled.jpg"/></item>
-<item><title>Pixel 11 Proは、3世代を経て正式に温度計に別れを告げます</title><link>https://www.androidauthority.com/pixel-11-pro-phones-no-thermometer-3697115/</link><guid isPermaLink="true">https://www.androidauthority.com/pixel-11-pro-phones-no-thermometer-3697115/</guid><pubDate>Wed, 12 Aug 2026 14:00:46 +0000</pubDate><description><![CDATA[<p>Pixel 11 Proは、3世代を経て正式に温度計に別れを告げます
-
-Googleは2023年にPixel Proスマートフォンに温度計を導入しましたが、Pixel 11 Proスマートフォンには温度計が搭載されていないことが公式に確認されました。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Pixel 11 Proは、3世代を経て正式に温度計に別れを告げます
-
-0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google は、Pixel 11 Pro スマートフォンに温度センサーが提供されなくなったことを確認しました。
-
-新しい携帯電話には、温度計の代わりにいわゆる HiLight 通知 LED が搭載されています。
-
-Googleは2023年にPixel 8 Proに温度センサーを初めて導入しました。
-
-Pixel 8 Pro は、2023 年に温度計または温度センサーをデビューさせました。この背面センサーにより、(驚いたことに) 物体の温度、最終的には人の温度を測定できるようになりました。ただし、Pixel 11 Pro スマートフォンはすべて、カメラ バーにいわゆる HiLight 機能を備えていますが、これは温度センサーにとって何を意味するのでしょうか?
-
-Google は Android Authority に対して、Pixel 11 シリーズのデバイスには温度計が搭載されていないことを確認しました。
-
-Pixel 11 シリーズには温度センサーが搭載されていません。私たちは毎年、できるだけ多くの人々のお役に立てるように、Pixel の製品の進歩に取り組んでいます。 Pixel の温度センサーにより、外出先でも測定値を取得できるという安心感が得られました。そして今回、HiLight は、重要な通知を見逃さないという安心感を提供すると同時に、Gemini と積極的に会話しているときに視覚的な合図も提供します。
-
-温度セ…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-vs-pixel-10-pro-hands-on-3-scaled.jpg" alt="Pixel 11 Proは、3世代を経て正式に温度計に別れを告げます"></p>]]></description><source url="https://www.androidauthority.com/pixel-11-pro-phones-no-thermometer-3697115/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-vs-pixel-10-pro-hands-on-3-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-vs-pixel-10-pro-hands-on-3-scaled.jpg"/></item>
 <item><title>樹脂印刷への復帰: 最初の結果</title><link>https://hackaday.com/2026/08/12/getting-back-into-resin-printing-first-results/</link><guid isPermaLink="true">https://hackaday.com/2026/08/12/getting-back-into-resin-printing-first-results/</guid><pubDate>Wed, 12 Aug 2026 14:00:44 +0000</pubDate><description><![CDATA[<p>樹脂印刷への復帰: 最初の結果
 
 前回の中断時、私はちょうど新しい SLA 樹脂プリンターをセットアップし、2026 年の樹脂印刷が 2020 年当時と比べてどうなるかを確認するために最初の印刷を行うところでした。
@@ -5825,6 +5834,15 @@ Google は Pixel 11 で、写真に適用できる個別のカラー フィル�
 どこかiPhoneのカメラのような落ち着いたディテールのナチュラルスタイル、
 
 よりコ…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-hands-on-1-scaled.jpg" alt="Pixel 11 は、レトロなフィルムフィルターを含むカメラルックで iPhone の写真スタイルを取り入れています"></p>]]></description><source url="https://www.androidauthority.com/google-pixel-11-camera-looks-filters-3696519/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-hands-on-1-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-hands-on-1-scaled.jpg"/></item>
+<item><title>Aspyrは、北方戦争の後、さらに多くのLOTRリマスターを開発中であると述べた</title><link>https://www.kitguru.net/gaming/matthew-wilson/aspyr-says-it-has-more-lotr-remasters-on-the-way-following-war-in-the-north/</link><guid isPermaLink="true">https://www.kitguru.net/gaming/matthew-wilson/aspyr-says-it-has-more-lotr-remasters-on-the-way-following-war-in-the-north/</guid><pubDate>Wed, 12 Aug 2026 14:00:26 +0000</pubDate><description><![CDATA[<p>Aspyrは、北方戦争の後、さらに多くのLOTRリマスターを開発中であると述べた
+
+アスピルによる『ロード・オブ・ザ・リング：北方戦争』のサプライズリマスターは、まだ始まりに過ぎないようだ。今週初めにリリースされた新しくリリースされたレガシー エディションを発表するプレス リリースの中で、スタジオは、より多くの古典的な LOTR タイトルが最新のプラットフォーム向けに開発中であることを確認しました。
+
+Aspyrは、北方戦争の後、さらに多くのLOTRリマスターを開発中であると述べた
+
+Matthew Wilson 3 時間前 注目のテクノロジー ニュース , ソフトウェア &amp; ゲーム
+
+アスピルによる『ロード・オブ・ザ・リング：北方戦争』のサプライズリマスターは、まだ始まりに過ぎないようだ。今週初めにリリースされた新しくリリースされた Legacy Edition を発表するプレスリリースの中で、スタジオは、より多くの古典的な LOTR タイトルが最新のプラットフォーム向けに開発中であることを確認しました。発表の中でアスピル氏は、「『ロード・オブ・ザ・リング：北方戦争 – レガシー・エディション』はワーナー・ブラザース・インタラクティブ・エンターテイメントのライセンスを受けており、アスピル社がリリースした最初の『ロード・オブ・ザ・リング』のタイトルです。ファンは将来、この人気シリーズからさらにクラシックな作品がアスピル社によってリリースされることを楽しみにしています！」と述べた。これは本質的に、Aspyr が今後さらに多くの LOTR リマスターに取り組むことを裏付けるものであり、Aspyr はスター・ウォーズ、トゥームレイダー、レガシー・オブ・ケインのシリーズにおける古典的なゲームのリバイバルで非常にうまくいっているので、これは素晴らしいニュースとなるはずだ。 「War in the North」がすべての主要プラットフォームに戻ってきたことで、当然のことながら、Aspyr が次に何に取り組むのかという憶測が集まります。ファンが長年にわたって復活を待ち望んでいた古典的…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2017/08/Middle-Earth-Shadow-of-War-Details-660x330.jpg" alt="Aspyrは、北方戦争の後、さらに多くのLOTRリマスターを開発中であると述べた"></p>]]></description><source url="https://www.kitguru.net/gaming/matthew-wilson/aspyr-says-it-has-more-lotr-remasters-on-the-way-following-war-in-the-north/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2017/08/Middle-Earth-Shadow-of-War-Details-660x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2017/08/Middle-Earth-Shadow-of-War-Details-660x330.jpg"/></item>
 <item><title>Pixel 11 シリーズは、Gemini Intelligence の独自の味を獲得しています</title><link>https://www.androidauthority.com/gemini-intelligence-on-pixel-11-series-3696480/</link><guid isPermaLink="true">https://www.androidauthority.com/gemini-intelligence-on-pixel-11-series-3696480/</guid><pubDate>Wed, 12 Aug 2026 14:00:26 +0000</pubDate><description><![CDATA[<p>Pixel 11 シリーズは、Gemini Intelligence の独自の味を獲得しています
 
 Gemini Intelligence が Pixel 11 シリーズに登場し、よりスマートな提案、フライトの詳細、カレンダーのプロンプトなどを提供します。
@@ -5842,15 +5860,6 @@ Google メッセージは、ライブフライトの詳細、Google マップの
 Gemini がステージに立つことがなければ、これは Made by Google のイベントとは言えません。しかし今年、GoogleはGemini Intelligenceを新しいPixel 11シリーズの中心に据えています。これらの機能がサムスンの最新の Galaxy Z Fold スマートフォンに搭載されているのを私たちはすでに見てきました。
 
 Google は、Gemini Intelligence にユーザーが何をしているのかを理解し、作業を少しでも節約できる場合には介入してもらいたいと考えています。私たちは、Google I/O 2026 で、Rambler を使ってそのアイデアをいち早く体験しました。Rambler は、思いついた考えを吐き出して、Gemi…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-xl-hands-on-8-scaled.jpg" alt="Pixel 11 シリーズは、Gemini Intelligence の独自の味を獲得しています"></p>]]></description><source url="https://www.androidauthority.com/gemini-intelligence-on-pixel-11-series-3696480/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-xl-hands-on-8-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-xl-hands-on-8-scaled.jpg"/></item>
-<item><title>Aspyrは、北方戦争の後、さらに多くのLOTRリマスターを開発中であると述べた</title><link>https://www.kitguru.net/gaming/matthew-wilson/aspyr-says-it-has-more-lotr-remasters-on-the-way-following-war-in-the-north/</link><guid isPermaLink="true">https://www.kitguru.net/gaming/matthew-wilson/aspyr-says-it-has-more-lotr-remasters-on-the-way-following-war-in-the-north/</guid><pubDate>Wed, 12 Aug 2026 14:00:26 +0000</pubDate><description><![CDATA[<p>Aspyrは、北方戦争の後、さらに多くのLOTRリマスターを開発中であると述べた
-
-アスピルによる『ロード・オブ・ザ・リング：北方戦争』のサプライズリマスターは、まだ始まりに過ぎないようだ。今週初めにリリースされた新しくリリースされたレガシー エディションを発表するプレス リリースの中で、スタジオは、より多くの古典的な LOTR タイトルが最新のプラットフォーム向けに開発中であることを確認しました。
-
-Aspyrは、北方戦争の後、さらに多くのLOTRリマスターを開発中であると述べた
-
-Matthew Wilson 3 時間前 注目のテクノロジー ニュース , ソフトウェア &amp; ゲーム
-
-アスピルによる『ロード・オブ・ザ・リング：北方戦争』のサプライズリマスターは、まだ始まりに過ぎないようだ。今週初めにリリースされた新しくリリースされた Legacy Edition を発表するプレスリリースの中で、スタジオは、より多くの古典的な LOTR タイトルが最新のプラットフォーム向けに開発中であることを確認しました。発表の中でアスピル氏は、「『ロード・オブ・ザ・リング：北方戦争 – レガシー・エディション』はワーナー・ブラザース・インタラクティブ・エンターテイメントのライセンスを受けており、アスピル社がリリースした最初の『ロード・オブ・ザ・リング』のタイトルです。ファンは将来、この人気シリーズからさらにクラシックな作品がアスピル社によってリリースされることを楽しみにしています！」と述べた。これは本質的に、Aspyr が今後さらに多くの LOTR リマスターに取り組むことを裏付けるものであり、Aspyr はスター・ウォーズ、トゥームレイダー、レガシー・オブ・ケインのシリーズにおける古典的なゲームのリバイバルで非常にうまくいっているので、これは素晴らしいニュースとなるはずだ。 「War in the North」がすべての主要プラットフォームに戻ってきたことで、当然のことながら、Aspyr が次に何に取り組むのかという憶測が集まります。ファンが長年にわたって復活を待ち望んでいた古典的…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2017/08/Middle-Earth-Shadow-of-War-Details-660x330.jpg" alt="Aspyrは、北方戦争の後、さらに多くのLOTRリマスターを開発中であると述べた"></p>]]></description><source url="https://www.kitguru.net/gaming/matthew-wilson/aspyr-says-it-has-more-lotr-remasters-on-the-way-following-war-in-the-north/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2017/08/Middle-Earth-Shadow-of-War-Details-660x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2017/08/Middle-Earth-Shadow-of-War-Details-660x330.jpg"/></item>
 <item><title>Google Pixel 11 ケースはついに携帯電話の色を輝かせました</title><link>https://www.androidauthority.com/google-pixel-11-pixelsnap-cases-and-accessories-3694034/</link><guid isPermaLink="true">https://www.androidauthority.com/google-pixel-11-pixelsnap-cases-and-accessories-3694034/</guid><pubDate>Wed, 12 Aug 2026 14:00:25 +0000</pubDate><description><![CDATA[<p>Google Pixel 11 ケースはついに携帯電話の色を輝かせました
 
 Google は、Pixel 11 シリーズ用の Pixelsnap を、クリア ケース、ヒンジを保護する Fold ケース、およびよりカラフルなリング スタンド オプションで拡張しています。
@@ -5908,27 +5917,6 @@ Samsung と Google の 2 社は、シリコンカーボン電池の採用に関�
 残念ながら、Google は Android Authority に対し、Pixel 11 スマートフォンにはシリコンカーボン電池が搭載されていないと述べました。
 
 Pixel 11 シリーズ スマートフォンのバッテリー セルには 100% リサイクルされたリチウムが含まれています。シリコンカーボン電池は使用しません。優れた信頼性を実現するように設計されており、30 時間以上のバッテリー寿命…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-hands-on-1-scaled.jpg" alt="Pixel 11 スマートフォンにはシリコンカーボンバッテリーが搭載されていますか? Googleはこう言っています。"></p>]]></description><source url="https://www.androidauthority.com/google-pixel-11-phones-silicon-carbon-batteries-3697731/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-hands-on-1-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-hands-on-1-scaled.jpg"/></item>
-<item><title>Pixel Watch 5 は GPS ルートの精度で最大のライバルを上回る可能性がある</title><link>https://www.androidauthority.com/pixel-watch-5-gps-improvements-3695358/</link><guid isPermaLink="true">https://www.androidauthority.com/pixel-watch-5-gps-improvements-3695358/</guid><pubDate>Wed, 12 Aug 2026 14:00:22 +0000</pubDate><description><![CDATA[<p>Pixel Watch 5 は GPS ルートの精度で最大のライバルを上回る可能性がある
-
-Google は、前世代の 2 倍のルート追跡精度を提供すると言われている Pixel Watch 5 を発売しました。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Pixel Watch 5 は GPS ルートの精度で最大のライバルを上回る可能性がある
-
-0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google は、Pixel Watch 5 での GPS ルート追跡を改善しました。
-
-Android の位置情報テクノロジーと 3D 建物モデル、GNSS 基準局ネットワーク、大気補正、建物の反射補正を組み合わせることで、追跡が改善されました。
-
-Google は、GPS ルート追跡が Apple Watch Ultra 3 や Garmin Fenix 8 Pro よりも優れていると自慢しています。
-
-Google は、これまでで最も先進的なスマートウォッチである Pixel Watch 5 を発売しました。見た目は以前のバージョンと同じですが、このデバイスにはいくつかの新機能と改良点が含まれています。最も注目すべき改善点の 1 つは、GPS ルート追跡です。
-
-同社によれば、高層ビルが立ち並ぶ街中を走っている場合でも、並木道を走っている場合でも、新しい GPS ルート追跡アルゴリズムのおかげで、あらゆる歩幅が正確に記録されるという。
-
-Googleは、同社のGPS追跡は前世代の2倍のルート追跡精度を実現すると付け加えた。実際、Google は Pixel Watch 5 の GPS 追跡に非常に自信を持っており、いくつかの大きな主張をしています。同社は、その追跡性能が Apple Watch Ultra 3 や Garmin Fenix 8 Pro の追跡性能を上回っていると自慢しています。
-
-ルート追跡に関して、Google は自…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516.jpg" alt="Pixel Watch 5 は GPS ルートの精度で最大のライバルを上回る可能性がある"></p>]]></description><source url="https://www.androidauthority.com/pixel-watch-5-gps-improvements-3695358/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516.jpg"/></item>
 <item><title>Google Pixel 11 シリーズが登場、スタンダードとプロの間のギャップはかつてないほど広がる</title><link>https://www.androidauthority.com/google-pixel-11-series-3693865/</link><guid isPermaLink="true">https://www.androidauthority.com/google-pixel-11-series-3693865/</guid><pubDate>Wed, 12 Aug 2026 14:00:22 +0000</pubDate><description><![CDATA[<p>Google Pixel 11 シリーズが登場、スタンダードとプロの間のギャップはかつてないほど広がる
 
 GoogleはついにPixel 11シリーズを発表しましたが、標準モデルとProモデルの差はこれまでにないほど開いています。
@@ -5952,6 +5940,27 @@ Google Pixel 11 Pro (12/256GB): $1,099
 Google Pixel 11 Pro (16GB/512GB): 1,219ドル
 
 Google Pixel 11 Pr…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pixel-11-pro-pixel-11-pro-xl-hands-on-2-scaled.jpg" alt="Google Pixel 11 シリーズが登場、スタンダードとプロの間のギャップはかつてないほど広がる"></p>]]></description><source url="https://www.androidauthority.com/google-pixel-11-series-3693865/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pixel-11-pro-pixel-11-pro-xl-hands-on-2-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pixel-11-pro-pixel-11-pro-xl-hands-on-2-scaled.jpg"/></item>
+<item><title>Pixel Watch 5 は GPS ルートの精度で最大のライバルを上回る可能性がある</title><link>https://www.androidauthority.com/pixel-watch-5-gps-improvements-3695358/</link><guid isPermaLink="true">https://www.androidauthority.com/pixel-watch-5-gps-improvements-3695358/</guid><pubDate>Wed, 12 Aug 2026 14:00:22 +0000</pubDate><description><![CDATA[<p>Pixel Watch 5 は GPS ルートの精度で最大のライバルを上回る可能性がある
+
+Google は、前世代の 2 倍のルート追跡精度を提供すると言われている Pixel Watch 5 を発売しました。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+Pixel Watch 5 は GPS ルートの精度で最大のライバルを上回る可能性がある
+
+0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google は、Pixel Watch 5 での GPS ルート追跡を改善しました。
+
+Android の位置情報テクノロジーと 3D 建物モデル、GNSS 基準局ネットワーク、大気補正、建物の反射補正を組み合わせることで、追跡が改善されました。
+
+Google は、GPS ルート追跡が Apple Watch Ultra 3 や Garmin Fenix 8 Pro よりも優れていると自慢しています。
+
+Google は、これまでで最も先進的なスマートウォッチである Pixel Watch 5 を発売しました。見た目は以前のバージョンと同じですが、このデバイスにはいくつかの新機能と改良点が含まれています。最も注目すべき改善点の 1 つは、GPS ルート追跡です。
+
+同社によれば、高層ビルが立ち並ぶ街中を走っている場合でも、並木道を走っている場合でも、新しい GPS ルート追跡アルゴリズムのおかげで、あらゆる歩幅が正確に記録されるという。
+
+Googleは、同社のGPS追跡は前世代の2倍のルート追跡精度を実現すると付け加えた。実際、Google は Pixel Watch 5 の GPS 追跡に非常に自信を持っており、いくつかの大きな主張をしています。同社は、その追跡性能が Apple Watch Ultra 3 や Garmin Fenix 8 Pro の追跡性能を上回っていると自慢しています。
+
+ルート追跡に関して、Google は自…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516.jpg" alt="Pixel Watch 5 は GPS ルートの精度で最大のライバルを上回る可能性がある"></p>]]></description><source url="https://www.androidauthority.com/pixel-watch-5-gps-improvements-3695358/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516.jpg"/></item>
 <item><title>Pixel 11 の Magic Capture は、ショット (またはその瞬間) を決して逃さないことを約束します。</title><link>https://www.androidauthority.com/google-pixel-11-magic-capture-3695823/</link><guid isPermaLink="true">https://www.androidauthority.com/google-pixel-11-magic-capture-3695823/</guid><pubDate>Wed, 12 Aug 2026 14:00:21 +0000</pubDate><description><![CDATA[<p>Pixel 11 の Magic Capture は、ショット (またはその瞬間) を決して逃さないことを約束します。
 
 Pixel 11 の Magic Capture は写真やビデオを自動的に処理するため、画面を見つめることなく人生の重要な瞬間を楽しむことができます。
@@ -5986,23 +5995,6 @@ Google Pixel 11シリーズは新しい「エクストリーム充電モード�
 Google Pixel スマートフォンは、世の中で最も急速に充電できるスマートフォンではありませんが、同社は長年にわたってある程度の進歩を遂げており、少なくともそのスマートフォンが最下位にはならないことを保証しています。新しい Pixel 11 シリーズでは、Google は新しいエクストリーム充電モードを搭載した携帯電話を祝福しています。
 
 Googleはまだ詳細を明らかにしていないが、エクストリーム充電モードをオンにして「携帯電話のパフォーマンスを電源投入のみに集中させる」ことができるとしている。このようにして、ユーザーは最も必要なときに「超高速ブースト」を得ることができます。このモードが正確に何をするのか、そして有線充電体験にどれほどの違いをもたらすのかを理解するために、すべての…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-pixel-11-pro-xl-hands-on-12-scaled.jpg" alt="Google Pixel 11シリーズに新しい「エクストリーム充電モード」が導入"></p>]]></description><source url="https://www.androidauthority.com/google-pixel-11-extreme-charging-mode-3697738/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-pixel-11-pro-xl-hands-on-12-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-pixel-11-pro-xl-hands-on-12-scaled.jpg"/></item>
-<item><title>Pixel 11 Pro スマートフォンには Pro Stable Video モードが搭載されていますが、大きな制限があります</title><link>https://www.androidauthority.com/google-pixel-11-pro-series-pro-stable-video-3693813/</link><guid isPermaLink="true">https://www.androidauthority.com/google-pixel-11-pro-series-pro-stable-video-3693813/</guid><pubDate>Wed, 12 Aug 2026 14:00:19 +0000</pubDate><description><![CDATA[<p>Pixel 11 Pro スマートフォンには Pro Stable Video モードが搭載されていますが、大きな制限があります
-
-最新の Pixel 11 Pro と Pro XL は両方とも新しい Pro Stable Video モードを備えていますが、このモードには大きな制限があります。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Pixel 11 Pro スマートフォンには Pro Stable Video モードが搭載されていますが、大きな制限があります
-
-0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google の Pixel 11 Pro および Pixel 11 Pro XL は、Pro Stable Video 録画モードを提供するようになりました。
-
-このモードは、揺れる明るいシーンで自動的にアクティブになり、よりスムーズで安定したビデオ クリップを配信します。
-
-GoogleはAndroid Authorityに対し、このモードはVideo Boostの一部であり、インターネット接続がなければ機能しないと述べた。
-
-Google はついに Pixel 11 シリーズの携帯電話を発売しましたが、注目すべき機能には事欠きません。実際、今年新たに追加された機能の 1 つは、よりスムーズで安定したビデオ キャプチャを求める場合に最適と思われます。
-
-Pixel 11 Pro と Pixel Pro XL は両方とも Pro Stable Video モードを提供します。一見すると、これはライバルの携帯電話に見られるスーパーステディモード、ウルトラ安定モード、アクションモードに対するGoogleの答えのように見えます。このモードでは、デフォルトおよびアクティブ安定化モードと比較して、安定化が向上し、ビデオがよりスムーズになります。 Google は、プロ安定ビデオ モードは、揺れる明るいシーンでは自動的に有効にな…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-pixel-11-pro-xl-hands-on-11-scaled.jpg" alt="Pixel 11 Pro スマートフォンには Pro Stable Video モードが搭載されていますが、大きな制限があります"></p>]]></description><source url="https://www.androidauthority.com/google-pixel-11-pro-series-pro-stable-video-3693813/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-pixel-11-pro-xl-hands-on-11-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-pixel-11-pro-xl-hands-on-11-scaled.jpg"/></item>
 <item><title>GoogleのPixel Glowは正式にはHiLightですが、Pro Pixelsのみがそれを利用できます</title><link>https://www.androidauthority.com/google-pixel-hilight-features-availability-3696269/</link><guid isPermaLink="true">https://www.androidauthority.com/google-pixel-hilight-features-availability-3696269/</guid><pubDate>Wed, 12 Aug 2026 14:00:19 +0000</pubDate><description><![CDATA[<p>GoogleのPixel Glowは正式にはHiLightですが、Pro Pixelsのみがそれを利用できます
 
 新しい Pixel 11 Pro シリーズ スマートフォンの HiLight は、カスタム通知用にカメラのフラッシュの周囲に構築された一連のアンビエント LED ライトです。
@@ -6022,6 +6014,23 @@ LED は Gemini にも反応し、最終的にはさらに多くのアラート�
 想像の余地がほとんどない数か月にわたるリークの後、Google はついに Pixel 11 の主力ラインナップと、最も噂されている新機能の 1 つの正式名を発表しました。何ヶ月もの間、私たちはそれを Pixel Glow (私が個人的に好んだ名前) として知っていましたが、Pixel 11 シリーズの発売により、Google がそれを HiLight と呼んでいることがわかりました。
 
 Pixel 11 Pro、Pixel 11 Pro XL、Pixel 11 Pro Fold 専用の HiLight は、基本的にカメラのフラッシュの周囲にあるアンビエント LED の小さなア…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-hilight-hands-on-7-scaled.jpg" alt="GoogleのPixel Glowは正式にはHiLightですが、Pro Pixelsのみがそれを利用できます"></p>]]></description><source url="https://www.androidauthority.com/google-pixel-hilight-features-availability-3696269/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-hilight-hands-on-7-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-hilight-hands-on-7-scaled.jpg"/></item>
+<item><title>Pixel 11 Pro スマートフォンには Pro Stable Video モードが搭載されていますが、大きな制限があります</title><link>https://www.androidauthority.com/google-pixel-11-pro-series-pro-stable-video-3693813/</link><guid isPermaLink="true">https://www.androidauthority.com/google-pixel-11-pro-series-pro-stable-video-3693813/</guid><pubDate>Wed, 12 Aug 2026 14:00:19 +0000</pubDate><description><![CDATA[<p>Pixel 11 Pro スマートフォンには Pro Stable Video モードが搭載されていますが、大きな制限があります
+
+最新の Pixel 11 Pro と Pro XL は両方とも新しい Pro Stable Video モードを備えていますが、このモードには大きな制限があります。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+Pixel 11 Pro スマートフォンには Pro Stable Video モードが搭載されていますが、大きな制限があります
+
+0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google の Pixel 11 Pro および Pixel 11 Pro XL は、Pro Stable Video 録画モードを提供するようになりました。
+
+このモードは、揺れる明るいシーンで自動的にアクティブになり、よりスムーズで安定したビデオ クリップを配信します。
+
+GoogleはAndroid Authorityに対し、このモードはVideo Boostの一部であり、インターネット接続がなければ機能しないと述べた。
+
+Google はついに Pixel 11 シリーズの携帯電話を発売しましたが、注目すべき機能には事欠きません。実際、今年新たに追加された機能の 1 つは、よりスムーズで安定したビデオ キャプチャを求める場合に最適と思われます。
+
+Pixel 11 Pro と Pixel Pro XL は両方とも Pro Stable Video モードを提供します。一見すると、これはライバルの携帯電話に見られるスーパーステディモード、ウルトラ安定モード、アクションモードに対するGoogleの答えのように見えます。このモードでは、デフォルトおよびアクティブ安定化モードと比較して、安定化が向上し、ビデオがよりスムーズになります。 Google は、プロ安定ビデオ モードは、揺れる明るいシーンでは自動的に有効にな…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-pixel-11-pro-xl-hands-on-11-scaled.jpg" alt="Pixel 11 Pro スマートフォンには Pro Stable Video モードが搭載されていますが、大きな制限があります"></p>]]></description><source url="https://www.androidauthority.com/google-pixel-11-pro-series-pro-stable-video-3693813/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-pixel-11-pro-xl-hands-on-11-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-pixel-11-pro-xl-hands-on-11-scaled.jpg"/></item>
 <item><title>Google の新しい Pixel Tag は Android ユーザーが待ち望んでいた AirTag のライバルです</title><link>https://www.androidauthority.com/google-pixel-tag-launch-3696366/</link><guid isPermaLink="true">https://www.androidauthority.com/google-pixel-tag-launch-3696366/</guid><pubDate>Wed, 12 Aug 2026 14:00:15 +0000</pubDate><description><![CDATA[<p>Google の新しい Pixel Tag は Android ユーザーが待ち望んでいた AirTag のライバルです
 
 Google の Pixel Tag は、UWB の高精度検索、Find Hub サポート、エコシステム機能を 29 ドルで提供しており、AirTag の深刻なライバルとなっています。
@@ -6553,6 +6562,19 @@ CPU、RAM、冷却、BIOS 設定、さらにはバックグラウンドの Windo
 CPU がボトルネックになる可能性が高くなります
 
 GPU がフレーム時間の低下の原因であると考えるのは簡単ですが、実際にその可能性があります。フレーム時間が長いときに GPU の使用率が常に 100% に近い場合は、それが問題である可能性があります。ただし、ほとんどのゲーマーは、GPU …</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/01/black-myth-wukong-with-dlss-4-5-on-a-gaming-pc-with-nvidia-rtx-4070-ti.jpg?w=1600&amp;h=900&amp;fit=crop" alt="フレームタイムが悪いのを GPU のせいにするのをやめて、代わりに次の 4 つの原因を見つけました。"></p>]]></description><source url="https://www.xda-developers.com/i-stopped-blaming-gpu-for-bad-frame-times/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/01/black-myth-wukong-with-dlss-4-5-on-a-gaming-pc-with-nvidia-rtx-4070-ti.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/01/black-myth-wukong-with-dlss-4-5-on-a-gaming-pc-with-nvidia-rtx-4070-ti.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>Asobi Remote Play アプリを使用すると、ゲーマーはコンソールがなくても Steam デッキで PS4 および PS5 ゲームをストリーミングできます — 開発者は、PlayStation Portal の PlayStation Plus Premium クラウド ゲーム サポートを無料で廃止します</title><link>https://www.tomshardware.com/video-games/playstation/asobi-remote-play-app-lets-gamers-stream-ps4-and-ps5-games-on-the-steam-deck-even-without-a-console-dev-breaks-playstation-plus-premium-cloud-gaming-support-free-of-the-playstation-portal</link><guid isPermaLink="true">https://www.tomshardware.com/video-games/playstation/asobi-remote-play-app-lets-gamers-stream-ps4-and-ps5-games-on-the-steam-deck-even-without-a-console-dev-breaks-playstation-plus-premium-cloud-gaming-support-free-of-the-playstation-portal</guid><pubDate>Wed, 12 Aug 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>Asobi Remote Play アプリを使用すると、ゲーマーはコンソールがなくても Steam デッキで PS4 および PS5 ゲームをストリーミングできます — 開発者は、PlayStation Portal の PlayStation Plus Premium クラウド ゲーム サポートを無料で廃止します
+
+本体は必要ありませんが、PlayStation Plus Premium への加入が必要です。
+
+Asobi Remote Play アプリを使用すると、ゲーマーはコンソールがなくても Steam デッキで PS4 および PS5 ゲームをストリーミングできます — 開発者は、PlayStation Portal の PlayStation Plus Premium クラウド ゲーム サポートを無料で廃止します
+
+本体は必要ありませんが、PlayStation Plus Premium への加入が必要です。
+
+(画像クレジット: アソビ: リモート プレイ) リンクをコピー
+
+1 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する ソニーでは、ゲーマーがいくつかの異なるツールを使用して PlayStation コンソールにリモートでアクセスできるようにしています。 Remote Play アプリを使用すると、ゲーマーはゲーム機から携帯電話、タブレット、PC にタイトルをストリーミングできます。 PlayStation Portal ハンドヘルド版には追加のトリックがあります。 PS5 ゲームをゲーマー自身のコンソールからローカルにストリーミングすることも、PlayStation Plus Premium サービスのクラウド ゲーム ライブラリから直接ストリーミングすることもできます。
+
+Chiaki のようなサードパーティ アプリはすでに PS Remote Play の機能を Linux に導入していますが、新しい Asobi Remote Play アプリはその機能を Steam から直接利用…</p><p><img src="https://cdn.mos.cms.futurecdn.net/WFy2VKiRWYa8m2yjZSQPba-1920-80.jpg" alt="Asobi Remote Play アプリを使用すると、ゲーマーはコンソールがなくても Steam デッキで PS4 および PS5 ゲームをストリーミングできます — 開発者は、PlayStation Portal の PlayStation Plus Premium クラウド ゲーム サポートを無料で廃止します"></p>]]></description><source url="https://www.tomshardware.com/video-games/playstation/asobi-remote-play-app-lets-gamers-stream-ps4-and-ps5-games-on-the-steam-deck-even-without-a-console-dev-breaks-playstation-plus-premium-cloud-gaming-support-free-of-the-playstation-portal">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/WFy2VKiRWYa8m2yjZSQPba-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/WFy2VKiRWYa8m2yjZSQPba-1920-80.jpg"/></item>
 <item><title>Samsung Foundry、1.4nm ノードを 2029 年までに移行するためのプロセス ロードマップを更新 — 高 NA EUV により、2030 年以降に 1nm クラス以下のノードが可能になる</title><link>https://www.tomshardware.com/tech-industry/samsung-foundry-updates-process-roadmap-to-move-1-4nm-node-to-2029-high-na-euv-will-enable-1nm-class-and-smaller-nodes-in-2030-and-beyond</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/samsung-foundry-updates-process-roadmap-to-move-1-4nm-node-to-2029-high-na-euv-will-enable-1nm-class-and-smaller-nodes-in-2030-and-beyond</guid><pubDate>Wed, 12 Aug 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>Samsung Foundry、1.4nm ノードを 2029 年までに移行するためのプロセス ロードマップを更新 — 高 NA EUV により、2030 年以降に 1nm クラス以下のノードが可能になる
 
 サムスンファウンドリ
@@ -6568,19 +6590,6 @@ Samsung Foundry、1.4nm ノードを 2029 年までに移行するためのプ�
 サムスンは、2030年頃に10オングストローム（または1nmクラス）ノードに移行する前に、SF2シリーズの製造技術（裏面給電を備えたSF2P、SF2X、SF2A、SF2Zを含む）を改良し、2029年にSF1.4プロセスを導入する予定だ。
 
 SF1.4の2027年から2029年への延期は、同社が収量と生産量の観点からSF2ファミリーの商業的競争力を高めることにリソースを集中させるための最先端のペースを鈍らせていることを示している。サムスンが AI5 および AI6 プロセッサを 2033 年まで供給する長期供給契約をテスラと…</p><p><img src="https://cdn.mos.cms.futurecdn.net/4AwuaQsSRccnfs9YmA2RVT-1920-80.jpg" alt="Samsung Foundry、1.4nm ノードを 2029 年までに移行するためのプロセス ロードマップを更新 — 高 NA EUV により、2030 年以降に 1nm クラス以下のノードが可能になる"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/samsung-foundry-updates-process-roadmap-to-move-1-4nm-node-to-2029-high-na-euv-will-enable-1nm-class-and-smaller-nodes-in-2030-and-beyond">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/4AwuaQsSRccnfs9YmA2RVT-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/4AwuaQsSRccnfs9YmA2RVT-1920-80.jpg"/></item>
-<item><title>Asobi Remote Play アプリを使用すると、ゲーマーはコンソールがなくても Steam デッキで PS4 および PS5 ゲームをストリーミングできます — 開発者は、PlayStation Portal の PlayStation Plus Premium クラウド ゲーム サポートを無料で廃止します</title><link>https://www.tomshardware.com/video-games/playstation/asobi-remote-play-app-lets-gamers-stream-ps4-and-ps5-games-on-the-steam-deck-even-without-a-console-dev-breaks-playstation-plus-premium-cloud-gaming-support-free-of-the-playstation-portal</link><guid isPermaLink="true">https://www.tomshardware.com/video-games/playstation/asobi-remote-play-app-lets-gamers-stream-ps4-and-ps5-games-on-the-steam-deck-even-without-a-console-dev-breaks-playstation-plus-premium-cloud-gaming-support-free-of-the-playstation-portal</guid><pubDate>Wed, 12 Aug 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>Asobi Remote Play アプリを使用すると、ゲーマーはコンソールがなくても Steam デッキで PS4 および PS5 ゲームをストリーミングできます — 開発者は、PlayStation Portal の PlayStation Plus Premium クラウド ゲーム サポートを無料で廃止します
-
-本体は必要ありませんが、PlayStation Plus Premium への加入が必要です。
-
-Asobi Remote Play アプリを使用すると、ゲーマーはコンソールがなくても Steam デッキで PS4 および PS5 ゲームをストリーミングできます — 開発者は、PlayStation Portal の PlayStation Plus Premium クラウド ゲーム サポートを無料で廃止します
-
-本体は必要ありませんが、PlayStation Plus Premium への加入が必要です。
-
-(画像クレジット: アソビ: リモート プレイ) リンクをコピー
-
-1 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する ソニーでは、ゲーマーがいくつかの異なるツールを使用して PlayStation コンソールにリモートでアクセスできるようにしています。 Remote Play アプリを使用すると、ゲーマーはゲーム機から携帯電話、タブレット、PC にタイトルをストリーミングできます。 PlayStation Portal ハンドヘルド版には追加のトリックがあります。 PS5 ゲームをゲーマー自身のコンソールからローカルにストリーミングすることも、PlayStation Plus Premium サービスのクラウド ゲーム ライブラリから直接ストリーミングすることもできます。
-
-Chiaki のようなサードパーティ アプリはすでに PS Remote Play の機能を Linux に導入していますが、新しい Asobi Remote Play アプリはその機能を Steam から直接利用…</p><p><img src="https://cdn.mos.cms.futurecdn.net/WFy2VKiRWYa8m2yjZSQPba-1920-80.jpg" alt="Asobi Remote Play アプリを使用すると、ゲーマーはコンソールがなくても Steam デッキで PS4 および PS5 ゲームをストリーミングできます — 開発者は、PlayStation Portal の PlayStation Plus Premium クラウド ゲーム サポートを無料で廃止します"></p>]]></description><source url="https://www.tomshardware.com/video-games/playstation/asobi-remote-play-app-lets-gamers-stream-ps4-and-ps5-games-on-the-steam-deck-even-without-a-console-dev-breaks-playstation-plus-premium-cloud-gaming-support-free-of-the-playstation-portal">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/WFy2VKiRWYa8m2yjZSQPba-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/WFy2VKiRWYa8m2yjZSQPba-1920-80.jpg"/></item>
 <item><title>Apollo Automation が、ESP32-C6 ボード、4 つの FPC モジュールを備えた 40 ドルの公式 ESPHome スターター キットを発売</title><link>https://www.cnx-software.com/2026/08/12/apollo-automation-official-esphome-starter-kit-with-esp32-c6-board-four-fpc-modules/</link><guid isPermaLink="true">https://www.cnx-software.com/2026/08/12/apollo-automation-official-esphome-starter-kit-with-esp32-c6-board-four-fpc-modules/</guid><pubDate>Wed, 12 Aug 2026 10:55:05 +0000</pubDate><description><![CDATA[<p>Apollo Automation が、ESP32-C6 ボード、4 つの FPC モジュールを備えた 40 ドルの公式 ESPHome スターター キットを発売
 
 Apollo Automation の ESPHome スターター キットは、Apollo Automation が協力して設計および設計した初の公式 ESPHome スターター キットです。
@@ -7201,23 +7210,4 @@ Instapaper は、BOOX Palma 2 および Palma 2 Pro デバイスにプリイン�
 BOOX は、E Ink エレクトロニクスの世界的リーダーであり、E Ink タブレットとモニターを専門としています。その製品ラインナップは 6 インチから 13.3 インチのデバイスに及び、野心的で粘り強く革新的なユーザーが目に負担をかけずに仕事や勉強の生産性を高めることができます。 BOOX Palma シリーズは、カラー E Ink ディスプレイ、暖色から冷色まで調整​​可能なフロント ライト、指紋センサー、Google Play をサポートする Android システムを備えたポケットサイズの片手 E Ink リーダーにこのエクスペリエンスをもたらします。
 
 Michael Kozlowski は Good e-Reader の編集長で、過去 15 年間オーディオブックと電子書籍リーダーについて執筆しています。 CBC、CNET、Engadget、ハフィントンポスト、ニューヨークタイムズなどの新聞やウェブサイトが彼の記事を取り上げました。彼はカナダのブリティッシュコロンビア州バンクーバーに住んでいます。</p><p><img src="https://media.goodereader.com/blog/uploads/images/2026/08/11161722/boox-hero.png" alt="Instapaper が BOOX デバイスにプリインストールされるようになりました"></p>]]></description><source url="https://goodereader.com/blog/onyx-boox/instapaper-now-comes-pre-installed-on-boox-devices">Good e-Reader</source><media:content url="https://media.goodereader.com/blog/uploads/images/2026/08/11161722/boox-hero.png" medium="image"/><media:thumbnail url="https://media.goodereader.com/blog/uploads/images/2026/08/11161722/boox-hero.png"/></item>
-<item><title>Google スプレッドシートを使用すると、Excel ファイルのインポートが楽になります</title><link>https://www.androidauthority.com/google-sheets-excel-pivot-tables-3697487/</link><guid isPermaLink="true">https://www.androidauthority.com/google-sheets-excel-pivot-tables-3697487/</guid><pubDate>Wed, 12 Aug 2026 06:28:05 +0000</pubDate><description><![CDATA[<p>Google スプレッドシートを使用すると、Excel ファイルのインポートが楽になります
-
-Google スプレッドシートで Excel テーブルをインポートし、書式設定と構造情報を保持できるようになりました。インポートされたピボット テーブルともうまく機能します。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Google スプレッドシートを使用すると、Excel ファイルのインポートが楽になります
-
-0 • Edgar Cervantes / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google スプレッドシートでは、Excel ファイルのインポート中に書式設定と構造情報を保持できるようになりました。
-
-スプレッドシートは Excel ワークシートを「スプレッドシート テーブル」としてインポートするようになりました。
-
-また、ピボット テーブルを静的グリッドに変換するのではなく、そのままの状態で保持します。
-
-Google はスプレッドシートに新機能と改善を着実に追加しており、最近では Gemini の統合と Excel シートから 3D グラフをインポートする機能を提供しています。現在、Web アプリは、ユーザーが Excel ファイルを Google スプレッドシートにインポートすることを目的としてさらに改良されています。
-
-Google は、スプレッドシートに 2 つの重要な改善が加えられたことをブログ投稿で発表しました。まず、ユーザーが Excel ファイルをスプレッドシートにインポートすると、そのテーブルがシート テーブルとして追加されます。これにより、構造情報と書式設定情報がそのまま残り、Google スプレッドシートで開いたときに Excel テーブルが適切に書式設定された状態が保たれます。
-
-Google Web アプリでは、Excel からのピボット テーブルのインポートも…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2022/02/Google-Sheets-next-to-calculator-stock-photo-1.jpg" alt="Google スプレッドシートを使用すると、Excel ファイルのインポートが楽になります"></p>]]></description><source url="https://www.androidauthority.com/google-sheets-excel-pivot-tables-3697487/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2022/02/Google-Sheets-next-to-calculator-stock-photo-1.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2022/02/Google-Sheets-next-to-calculator-stock-photo-1.jpg"/></item>
 </channel></rss>
