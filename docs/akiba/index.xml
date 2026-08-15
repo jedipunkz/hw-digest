@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sat, 15 Aug 2026 15:34:11 +0000</lastBuildDate>
+<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sat, 15 Aug 2026 16:40:51 +0000</lastBuildDate>
+<item><title>AMD Ryzen Chipset Driver 8.08.12.551公開。Ryzen AI Maxプロセッサーをサポート</title><link>https://www.nichepcgamer.com/archives/amd-ryzen-chipset-driver-8-08-12-551.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/amd-ryzen-chipset-driver-8-08-12-551.html</guid><pubDate>Sat, 15 Aug 2026 16:00:15 +0000</pubDate><description><![CDATA[<p>AMD Ryzen Chipset Driver 8.08.12.551公開。Ryzen AI Maxプロセッサーをサポート
+
+AMDは、AMD Ryzen Chipset Driver バージョン8.08.12.551を公開しました。 AMD Ryzen Chipset Driver 8.08.12.551 リリースハイラ...
+
+AMDは、 AMD Ryzen Chipset Driver バージョン8.08.12.551 を公開しました。
+
+AMD Ryzen Chipset Driver 8.08.12.551
+
+以下のドライバのバグを修正 AMD Ryzen Power Plan / AMD Processor Power Management Support
+
+AMD PMF Ryzen AI 300 Series Driver 1
+
+AMD PMF Ryzen AI MAX 300 Series Driver
+
+AMD PMF Ryzen AI 300 Series Driver 2
+
+AMD PMF Ryzen AI 400 Series Driver
+
+AMD Ryzen Chipset Driver 『7.xx.xx.xx』をインストールすると、『6.xx.xx.xx』以前のドライババージョンに戻せなくなります。もし、『6.xx.xx.xx』以前のドライババージョンに戻したい場合は以下の回避策・手順を実行してください まず、インストールしたAMD Ryzen Chipset Driver 『7.xx.xx.xx』をアンインストールしてください
+
+『C:\Program Files (x86)\AMD\Chipset_Software\』にある『Qt_Dependencies』フォルダを削除してください
+
+その後、『6.xx.xx.xx』以前のドライバをインストールしてください
+
+英語版でないOSでもドライバ名が英語で表示される場合があります
+
+Ryzen PPKGがインストール / アップグレードされない場合があります
+
+AMD Ryzen Chip…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2026/02/amd-chipset-driver-1200.jpg" alt="AMD Ryzen Chipset Driver 8.08.12.551公開。Ryzen AI Maxプロセッサーをサポート"></p>]]></description><source url="https://www.nichepcgamer.com/archives/amd-ryzen-chipset-driver-8-08-12-551.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2026/02/amd-chipset-driver-1200.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2026/02/amd-chipset-driver-1200.jpg"/></item>
 <item><title>Intel Arcグラフィックスドライバ 32.0.101.8974 WHQL公開</title><link>https://www.nichepcgamer.com/archives/intel-arc-graphics-driver-32-0-101-8974-whql.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/intel-arc-graphics-driver-32-0-101-8974-whql.html</guid><pubDate>Sat, 15 Aug 2026 15:03:52 +0000</pubDate><description><![CDATA[<p>Intel Arcグラフィックスドライバ 32.0.101.8974 WHQL公開
 
 Intel Arcグラフィックスドライバ 32.0.101.8974 WHQLが公開されました。 最適化されたゲームタイトル Intel Arcグラフィックスドライバ 32.0.101.8974 W...
@@ -3576,36 +3605,6 @@ Update: Single-cluster E-core cutdowns will retain the L3 cache configuration of
 “Nova Lake”の8 P-core + 12 E-coreモデルは36MBのL3 cacheを有する (2026/08/12)
 
 “Razor Lake-AX”の初期サポート…</p>]]></description><source url="https://northwood.blog.fc2.com/blog-entry-13174.html">北森瓦版</source></item>
-<item><title>CPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から</title><link>https://pc.watch.impress.co.jp/docs/news/2132345.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2132345.html</guid><pubDate>Wed, 12 Aug 2026 14:00:00 +0000</pubDate><description><![CDATA[<p>CPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から
-
-Googleは8月12日、新型の6.3型スマートフォン「Google Pixel 11」を発表した。Google Storeでの直販価格は13万6,800円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日に発売する。
-
-CPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から
-
-Googleは8月12日、新型の6.3型スマートフォン「Google Pixel 11」を発表した。Google Storeでの直販価格は13万6,800円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日に発売する。
-
-Pixel 11ではプロセッサに最新の「Google Tensor G6」を搭載。CPU性能の引き上げによってWebブラウジングが25%高速化し、アプリの起動速度が15%向上したほか、オンデバイスAIタスクを最大3.5倍高速に処理しながら、エネルギー消費量を最大3.5分の1に抑えている。最先端のオンデバイスモデル「Gemini Nano」を動かすのに最適としている。
-
-さらに、象徴的な背面カメラバーの厚さを従来モデルから40%削減し、純正のケースを装着した際に出っ張りをほとんど感じさせないフラットな形状に仕上げており、平らな場所に置いてもがたつきが発生しにくい設計とした。背面カメラには、新たに大型化した4,800万画素のメインセンサーを採用することで、光量の少ない厳しい環境での感度を56%向上させている。
-
-主な仕様は、プロセッサがGoogle Tensor G6およびTitan M3セキュリティコプロセッサ、メモリは12GB、ストレージは256GBまたは512GB。
-
-ディスプレイは6.3型のActuaディスプレイを採用し、解像度は1,080×2,424ドット、リフレッシュレートは60Hz～120Hz、最大輝度は2,000cd/平方m、ピーク輝度は3,0…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/345/1.png" alt="CPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2132345.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/345/1.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/345/1.png"/></item>
-<item><title>最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」</title><link>https://pc.watch.impress.co.jp/docs/news/2132349.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2132349.html</guid><pubDate>Wed, 12 Aug 2026 14:00:00 +0000</pubDate><description><![CDATA[<p>最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」
-
-Googleは8月12日、新型の折りたたみスマートフォン「Google Pixel 11 Pro Fold」を発表した。Google Storeでの直販価格は27万9,900円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日より発売する。
-
-最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」
-
-Googleは8月12日、新型の折りたたみスマートフォン「Google Pixel 11 Pro Fold」を発表した。Google Storeでの直販価格は27万9,900円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日より発売する。
-
-Google Pixel 11 Pro Foldでは、同時に発表されたほかのGoogle Pixel 11シリーズと同様、最新の「Google Tensor G6」チップを搭載し、高い処理能力と高度なオンデバイスAI性能を備えている。折りたたみ時の厚さは10.1mm、広げた状態で5mmのスリムな筐体を実現し、重量は239gに抑えられている。
-
-カバーディスプレイは6.5型で、内側を開くと8型の大画面「Super Actua Flexディスプレイ」が広がる。また、Proモデルと同様に背面のカメラフラッシュ周辺にカラーLEDを内蔵した「HiLight」機能を搭載し、スマートフォンを伏せた状態でもGeminiの応答ステータスや登録した連絡先からの着信をやさしい光のカスタムカラーで通知してくれる。
-
-主な仕様として、プロセッサにはGoogle Tensor G6およびTitan M3セキュリティコプロセッサ、メモリは16GB、ストレージは256GBまたは512GBを備える。
-
-ディスプレイは、外側が6.5型のSuper Actuaディスプレイで解像度は1,080×2,342ドット、内側が8…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/349/3.png" alt="最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2132349.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/349/3.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/349/3.png"/></item>
 <item><title>Pixel 11の狙いはスマホへの没頭時間削減。Pixelは“気が利くAIエージェント”に</title><link>https://pc.watch.impress.co.jp/docs/news/2132417.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2132417.html</guid><pubDate>Wed, 12 Aug 2026 14:00:00 +0000</pubDate><description><![CDATA[<p>Pixel 11の狙いはスマホへの没頭時間削減。Pixelは“気が利くAIエージェント”に
 
 「画面への没頭」を避け「現実の時間を奪還する」。Googleの開発者が「Google Pixel 11」で念頭に置いた開発思想だ。字面だけだとまるで時代に逆行するかのようにも見えるが、そうではない。
@@ -3623,23 +3622,6 @@ Pixel 11は潮流を見据え、AIエージェントスマホへの進化を先�
 このほか、Webブラウジング性能も25%、アプリの起動速度も15%高速化されている。
 
 一方、メモリについては、Pixel 11 Pro、Pixel 11Pro XLという上位モデルでも、ストレージ256GBモデ…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/417/01.jpg" alt="Pixel 11の狙いはスマホへの没頭時間削減。Pixelは“気が利くAIエージェント”に"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2132417.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/417/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/417/01.jpg"/></item>
-<item><title>最適なタイミングで起こしてくれる「Google Pixel Watch 5」</title><link>https://pc.watch.impress.co.jp/docs/news/2132424.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2132424.html</guid><pubDate>Wed, 12 Aug 2026 14:00:00 +0000</pubDate><description><![CDATA[<p>最適なタイミングで起こしてくれる「Google Pixel Watch 5」
-
-最適な睡眠サイクルで優しく起こしてくれる「スマートウェイクアラーム」。Googleの新スマートウォッチ「Google Pixel Watch 5」の新機能だ。Pixel Watch 5は、大きさとLTEの有無で4モデルが用意。価格は41mm/Wi-Fiが6万2,800円、41mm/LTEが7万9,800円、45mm/Wi-Fiが6万7,800円、45mm/LTEが8万4,800円。発売日はいずれも8月20日となる。
-
-最適なタイミングで起こしてくれる「Google Pixel Watch 5」
-
-最適な睡眠サイクルで優しく起こしてくれる「スマートウェイクアラーム」。Googleの新スマートウォッチ「Google Pixel Watch 5」の新機能だ。Pixel Watch 5は、大きさとLTEの有無で4モデルが用意。価格は41mm/Wi-Fiが6万2,800円、41mm/LTEが7万9,800円、45mm/Wi-Fiが6万7,800円、45mm/LTEが8万4,800円。発売日はいずれも8月20日となる。
-
-昨今のPixel Watchシリーズ同様、Pixel Watch 5もフィットネス機能をより充実させている。と同時に、同日発表されたPixel 11シリーズと同様に、ユーザーの意図や行動を判断し、先回りして情報を提示してくれるAI機能が搭載された。
-
-たとえば、空港へ向かう際には自動的にフライト情報を表示したり、電車に乗っている間は「目的地まであと何駅残っているか」を自動表示したりでき、スマホの画面を開く手間が省ける。
-
-また、タイマー設定や、レストラン予約の詳細確認、Gmailでの返信といった、今までならスマホで行なう複雑なタスクを、ワンタップの簡単なアクションで完結させられるようになった。
-
-さらに、買い物袋や傘を持っていたり、電車の吊り革を掴んでいたりして片手しか使えない状況で、片手のジェスチャーだけで、届いた通知を展開したり、消去(非表示に)したりできる。
-
-フィットネス面に関…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/424/03.jpg" alt="最適なタイミングで起こしてくれる「Google Pixel Watch 5」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2132424.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/424/03.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/424/03.jpg"/></item>
 <item><title>Google、フラッシュ部が光って通知する6.3型スマホ「Google Pixel 11 Pro」</title><link>https://pc.watch.impress.co.jp/docs/news/2132347.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2132347.html</guid><pubDate>Wed, 12 Aug 2026 14:00:00 +0000</pubDate><description><![CDATA[<p>Google、フラッシュ部が光って通知する6.3型スマホ「Google Pixel 11 Pro」
 
 Googleは8月12日、新型の6.3型スマートフォン「Google Pixel 11 Pro」を発表した。Google Storeでの直販価格は17万4,800円から。8月12日よりオンライン、8月13日より店頭での予約販売を開始し、8月20日に発売する。
@@ -3670,6 +3652,53 @@ Google Pixel 11 Pro XLでは最新の「Google Tensor G6」チップを搭載し
 加えて、背面のカメラフラッシュ周辺がやさしく光ることで、通知を音を出さずに視覚的に確認できる「HiLight」機能を備える。充電機能が大幅に強化されており、別売りの45W以上のUSB Type-C充電器を用いることで、わずか15分間の有線充電を行なうだけで15時間のバッテリ駆動時間を確保できる。
 
 主な仕様として、プロセッサにはGoogle Tensor G6およびTitan M3セキュリティコプロセッサ、メモリは12GB(ストレージ256GB)または16GB(ストレージ512GB以上)、ストレージは256GB、512GB、または1TBを備える。OSはAndroid 17で、7年間のOS、セキュ…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2131/994/1.png" alt="Tensor G6チップ搭載で120倍ズームや通知ライト対応の6.8型スマホ「Google Pixel 11 Pro XL」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2131994.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2131/994/1.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2131/994/1.png"/></item>
+<item><title>最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」</title><link>https://pc.watch.impress.co.jp/docs/news/2132349.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2132349.html</guid><pubDate>Wed, 12 Aug 2026 14:00:00 +0000</pubDate><description><![CDATA[<p>最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」
+
+Googleは8月12日、新型の折りたたみスマートフォン「Google Pixel 11 Pro Fold」を発表した。Google Storeでの直販価格は27万9,900円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日より発売する。
+
+最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」
+
+Googleは8月12日、新型の折りたたみスマートフォン「Google Pixel 11 Pro Fold」を発表した。Google Storeでの直販価格は27万9,900円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日より発売する。
+
+Google Pixel 11 Pro Foldでは、同時に発表されたほかのGoogle Pixel 11シリーズと同様、最新の「Google Tensor G6」チップを搭載し、高い処理能力と高度なオンデバイスAI性能を備えている。折りたたみ時の厚さは10.1mm、広げた状態で5mmのスリムな筐体を実現し、重量は239gに抑えられている。
+
+カバーディスプレイは6.5型で、内側を開くと8型の大画面「Super Actua Flexディスプレイ」が広がる。また、Proモデルと同様に背面のカメラフラッシュ周辺にカラーLEDを内蔵した「HiLight」機能を搭載し、スマートフォンを伏せた状態でもGeminiの応答ステータスや登録した連絡先からの着信をやさしい光のカスタムカラーで通知してくれる。
+
+主な仕様として、プロセッサにはGoogle Tensor G6およびTitan M3セキュリティコプロセッサ、メモリは16GB、ストレージは256GBまたは512GBを備える。
+
+ディスプレイは、外側が6.5型のSuper Actuaディスプレイで解像度は1,080×2,342ドット、内側が8…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/349/3.png" alt="最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2132349.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/349/3.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/349/3.png"/></item>
+<item><title>最適なタイミングで起こしてくれる「Google Pixel Watch 5」</title><link>https://pc.watch.impress.co.jp/docs/news/2132424.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2132424.html</guid><pubDate>Wed, 12 Aug 2026 14:00:00 +0000</pubDate><description><![CDATA[<p>最適なタイミングで起こしてくれる「Google Pixel Watch 5」
+
+最適な睡眠サイクルで優しく起こしてくれる「スマートウェイクアラーム」。Googleの新スマートウォッチ「Google Pixel Watch 5」の新機能だ。Pixel Watch 5は、大きさとLTEの有無で4モデルが用意。価格は41mm/Wi-Fiが6万2,800円、41mm/LTEが7万9,800円、45mm/Wi-Fiが6万7,800円、45mm/LTEが8万4,800円。発売日はいずれも8月20日となる。
+
+最適なタイミングで起こしてくれる「Google Pixel Watch 5」
+
+最適な睡眠サイクルで優しく起こしてくれる「スマートウェイクアラーム」。Googleの新スマートウォッチ「Google Pixel Watch 5」の新機能だ。Pixel Watch 5は、大きさとLTEの有無で4モデルが用意。価格は41mm/Wi-Fiが6万2,800円、41mm/LTEが7万9,800円、45mm/Wi-Fiが6万7,800円、45mm/LTEが8万4,800円。発売日はいずれも8月20日となる。
+
+昨今のPixel Watchシリーズ同様、Pixel Watch 5もフィットネス機能をより充実させている。と同時に、同日発表されたPixel 11シリーズと同様に、ユーザーの意図や行動を判断し、先回りして情報を提示してくれるAI機能が搭載された。
+
+たとえば、空港へ向かう際には自動的にフライト情報を表示したり、電車に乗っている間は「目的地まであと何駅残っているか」を自動表示したりでき、スマホの画面を開く手間が省ける。
+
+また、タイマー設定や、レストラン予約の詳細確認、Gmailでの返信といった、今までならスマホで行なう複雑なタスクを、ワンタップの簡単なアクションで完結させられるようになった。
+
+さらに、買い物袋や傘を持っていたり、電車の吊り革を掴んでいたりして片手しか使えない状況で、片手のジェスチャーだけで、届いた通知を展開したり、消去(非表示に)したりできる。
+
+フィットネス面に関…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/424/03.jpg" alt="最適なタイミングで起こしてくれる「Google Pixel Watch 5」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2132424.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/424/03.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/424/03.jpg"/></item>
+<item><title>CPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から</title><link>https://pc.watch.impress.co.jp/docs/news/2132345.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2132345.html</guid><pubDate>Wed, 12 Aug 2026 14:00:00 +0000</pubDate><description><![CDATA[<p>CPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から
+
+Googleは8月12日、新型の6.3型スマートフォン「Google Pixel 11」を発表した。Google Storeでの直販価格は13万6,800円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日に発売する。
+
+CPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から
+
+Googleは8月12日、新型の6.3型スマートフォン「Google Pixel 11」を発表した。Google Storeでの直販価格は13万6,800円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日に発売する。
+
+Pixel 11ではプロセッサに最新の「Google Tensor G6」を搭載。CPU性能の引き上げによってWebブラウジングが25%高速化し、アプリの起動速度が15%向上したほか、オンデバイスAIタスクを最大3.5倍高速に処理しながら、エネルギー消費量を最大3.5分の1に抑えている。最先端のオンデバイスモデル「Gemini Nano」を動かすのに最適としている。
+
+さらに、象徴的な背面カメラバーの厚さを従来モデルから40%削減し、純正のケースを装着した際に出っ張りをほとんど感じさせないフラットな形状に仕上げており、平らな場所に置いてもがたつきが発生しにくい設計とした。背面カメラには、新たに大型化した4,800万画素のメインセンサーを採用することで、光量の少ない厳しい環境での感度を56%向上させている。
+
+主な仕様は、プロセッサがGoogle Tensor G6およびTitan M3セキュリティコプロセッサ、メモリは12GB、ストレージは256GBまたは512GB。
+
+ディスプレイは6.3型のActuaディスプレイを採用し、解像度は1,080×2,424ドット、リフレッシュレートは60Hz～120Hz、最大輝度は2,000cd/平方m、ピーク輝度は3,0…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/345/1.png" alt="CPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2132345.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/345/1.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/345/1.png"/></item>
 <item><title>“Razor Lake-AX”の初期サポートがHWiNFOに追加される</title><link>https://northwood.blog.fc2.com/blog-entry-13173.html</link><guid isPermaLink="true">https://northwood.blog.fc2.com/blog-entry-13173.html</guid><pubDate>Wed, 12 Aug 2026 13:43:51 +0000</pubDate><description><![CDATA[<p>“Razor Lake-AX”の初期サポートがHWiNFOに追加される
 
 北森瓦版 - Northwood Blog (Author : 北森八雲. Since July 10, 2006.)
@@ -9095,23 +9124,4 @@ MSI、Ryzen 9＆GeForce RTX 5070搭載のホワイトゲーミング…
 (お買い得中古品情報) M1 Pro搭載の「MacBook Pro 2021」が…
 
 2026…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/08/07/260807chuuko_01_01.jpg" alt="(お買い得中古品情報) タブレットになる第11世代Core i7搭載ノート「Elite Dragonfly G2」が64,800円"></p>]]></description><source url="https://www.gdm.or.jp/crew/2026/0807/647342">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/08/07/260807chuuko_01_01.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/08/07/260807chuuko_01_01.jpg"/></item>
-<item><title>重量1.49kgのRyzen 7000シリーズ搭載15.6型ノートPC、Acer「Aspire Lite 15」計2機種</title><link>https://www.gdm.or.jp/pressrelease/2026/0807/647378</link><guid isPermaLink="true">https://www.gdm.or.jp/pressrelease/2026/0807/647378</guid><pubDate>Fri, 07 Aug 2026 07:00:23 +0000</pubDate><description><![CDATA[<p>重量1.49kgのRyzen 7000シリーズ搭載15.6型ノートPC、Acer「Aspire Lite 15」計2機種
-
-日本エイサー株式会社（本社：東京都新宿区）は2026年8月7日、厚さ約18.6mm、重量約1.49kgのスリム・軽量筐体を採用する15.6型フルHDスタンダードノートPC「Aspire Lite 15」シリーズ計2機種を発表した。本日より販売が開始されている。
-
-重量1.49kgのRyzen 7000シリーズ搭載15.6型ノートPC、Acer「Aspire Lite 15」計2機種
-
-日本エイサー株式会社（本社：東京都新宿区）は2026年8月7日、厚さ約18.6mm、重量約1.49kgのスリム・軽量筐体を採用する15.6型フルHDスタンダードノートPC 「Aspire Lite 15」シリーズ 計2機種を発表した。本日より販売が開始されている。
-
-ラインナップは、Ryzen 5 7430Uを搭載する 「AL15-44P-N56Y」 と、Ryzen 7 7730Uを搭載する 「AL15-44P-N76Y」 の2機種。いずれもメモリはDDR4 16GB、ストレージは512GB NVMe SSDを標準装備し、グラフィックス機能にはCPU内蔵のAMD Radeon Graphicsを採用する。
-
-インターフェイスはUSB Type-C×2、USB Type-A×3、HDMI×1、ヘッドセット/スピーカージャック×1、microSDカードリーダーなど。ネットワークはWi-Fi 6とBluetooth 5.1に対応し、プライバシーシャッター付きの約207万画素フルHD Webカメラを備える。
-
-バッテリー駆動時間は約8時間、幅359.3mm、奥行き230.2mm、高さ18.6mm。OSはWindows 11 Home 64bit版をプリインストールする。
-
-文： 編集部 池西 樹 日本エイサー株式会社： https://www.acer.com/jp-ja/
-
-Acer、Ryzen AI 7 450搭載16型ゲーミングノートPC「Nitro…
-
-Acer、26…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/08/07/Aspire_Lite_15_01.jpg" alt="重量1.49kgのRyzen 7000シリーズ搭載15.6型ノートPC、Acer「Aspire Lite 15」計2機種"></p>]]></description><source url="https://www.gdm.or.jp/pressrelease/2026/0807/647378">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/08/07/Aspire_Lite_15_01.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/08/07/Aspire_Lite_15_01.jpg"/></item>
 </channel></rss>

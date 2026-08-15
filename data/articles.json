@@ -1,6 +1,15 @@
 {
   "akiba": [
     {
+      "Title": "AMD Ryzen Chipset Driver 8.08.12.551公開。Ryzen AI Maxプロセッサーをサポート",
+      "Link": "https://www.nichepcgamer.com/archives/amd-ryzen-chipset-driver-8-08-12-551.html",
+      "Published": "2026-08-15T16:00:15Z",
+      "Source": "ニッチなPCゲーマーの環境構築Z",
+      "Category": "マザーボード",
+      "Summary": "AMD Ryzen Chipset Driver 8.08.12.551公開。Ryzen AI Maxプロセッサーをサポート\n\nAMDは、AMD Ryzen Chipset Driver バージョン8.08.12.551を公開しました。 AMD Ryzen Chipset Driver 8.08.12.551 リリースハイラ...\n\nAMDは、 AMD Ryzen Chipset Driver バージョン8.08.12.551 を公開しました。\n\nAMD Ryzen Chipset Driver 8.08.12.551\n\n以下のドライバのバグを修正 AMD Ryzen Power Plan / AMD Processor Power Management Support\n\nAMD PMF Ryzen AI 300 Series Driver 1\n\nAMD PMF Ryzen AI MAX 300 Series Driver\n\nAMD PMF Ryzen AI 300 Series Driver 2\n\nAMD PMF Ryzen AI 400 Series Driver\n\nAMD Ryzen Chipset Driver 『7.xx.xx.xx』をインストールすると、『6.xx.xx.xx』以前のドライババージョンに戻せなくなります。もし、『6.xx.xx.xx』以前のドライババージョンに戻したい場合は以下の回避策・手順を実行してください まず、インストールしたAMD Ryzen Chipset Driver 『7.xx.xx.xx』をアンインストールしてください\n\n『C:\\Program Files (x86)\\AMD\\Chipset_Software\\』にある『Qt_Dependencies』フォルダを削除してください\n\nその後、『6.xx.xx.xx』以前のドライバをインストールしてください\n\n英語版でないOSでもドライバ名が英語で表示される場合があります\n\nRyzen PPKGがインストール / アップグレードされない場合があります\n\nAMD Ryzen Chip…",
+      "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2026/02/amd-chipset-driver-1200.jpg"
+    },
+    {
       "Title": "Intel Arcグラフィックスドライバ 32.0.101.8974 WHQL公開",
       "Link": "https://www.nichepcgamer.com/archives/intel-arc-graphics-driver-32-0-101-8974-whql.html",
       "Published": "2026-08-15T15:03:52Z",
@@ -1846,24 +1855,6 @@
       "ImageURL": ""
     },
     {
-      "Title": "CPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/2132345.html",
-      "Published": "2026-08-12T14:00:00Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "CPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から\n\nGoogleは8月12日、新型の6.3型スマートフォン「Google Pixel 11」を発表した。Google Storeでの直販価格は13万6,800円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日に発売する。\n\nCPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から\n\nGoogleは8月12日、新型の6.3型スマートフォン「Google Pixel 11」を発表した。Google Storeでの直販価格は13万6,800円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日に発売する。\n\nPixel 11ではプロセッサに最新の「Google Tensor G6」を搭載。CPU性能の引き上げによってWebブラウジングが25%高速化し、アプリの起動速度が15%向上したほか、オンデバイスAIタスクを最大3.5倍高速に処理しながら、エネルギー消費量を最大3.5分の1に抑えている。最先端のオンデバイスモデル「Gemini Nano」を動かすのに最適としている。\n\nさらに、象徴的な背面カメラバーの厚さを従来モデルから40%削減し、純正のケースを装着した際に出っ張りをほとんど感じさせないフラットな形状に仕上げており、平らな場所に置いてもがたつきが発生しにくい設計とした。背面カメラには、新たに大型化した4,800万画素のメインセンサーを採用することで、光量の少ない厳しい環境での感度を56%向上させている。\n\n主な仕様は、プロセッサがGoogle Tensor G6およびTitan M3セキュリティコプロセッサ、メモリは12GB、ストレージは256GBまたは512GB。\n\nディスプレイは6.3型のActuaディスプレイを採用し、解像度は1,080×2,424ドット、リフレッシュレートは60Hz～120Hz、最大輝度は2,000cd/平方m、ピーク輝度は3,0…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/345/1.png"
-    },
-    {
-      "Title": "最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/2132349.html",
-      "Published": "2026-08-12T14:00:00Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」\n\nGoogleは8月12日、新型の折りたたみスマートフォン「Google Pixel 11 Pro Fold」を発表した。Google Storeでの直販価格は27万9,900円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日より発売する。\n\n最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」\n\nGoogleは8月12日、新型の折りたたみスマートフォン「Google Pixel 11 Pro Fold」を発表した。Google Storeでの直販価格は27万9,900円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日より発売する。\n\nGoogle Pixel 11 Pro Foldでは、同時に発表されたほかのGoogle Pixel 11シリーズと同様、最新の「Google Tensor G6」チップを搭載し、高い処理能力と高度なオンデバイスAI性能を備えている。折りたたみ時の厚さは10.1mm、広げた状態で5mmのスリムな筐体を実現し、重量は239gに抑えられている。\n\nカバーディスプレイは6.5型で、内側を開くと8型の大画面「Super Actua Flexディスプレイ」が広がる。また、Proモデルと同様に背面のカメラフラッシュ周辺にカラーLEDを内蔵した「HiLight」機能を搭載し、スマートフォンを伏せた状態でもGeminiの応答ステータスや登録した連絡先からの着信をやさしい光のカスタムカラーで通知してくれる。\n\n主な仕様として、プロセッサにはGoogle Tensor G6およびTitan M3セキュリティコプロセッサ、メモリは16GB、ストレージは256GBまたは512GBを備える。\n\nディスプレイは、外側が6.5型のSuper Actuaディスプレイで解像度は1,080×2,342ドット、内側が8…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/349/3.png"
-    },
-    {
       "Title": "Pixel 11の狙いはスマホへの没頭時間削減。Pixelは“気が利くAIエージェント”に",
       "Link": "https://pc.watch.impress.co.jp/docs/news/2132417.html",
       "Published": "2026-08-12T14:00:00Z",
@@ -1871,15 +1862,6 @@
       "Category": "",
       "Summary": "Pixel 11の狙いはスマホへの没頭時間削減。Pixelは“気が利くAIエージェント”に\n\n「画面への没頭」を避け「現実の時間を奪還する」。Googleの開発者が「Google Pixel 11」で念頭に置いた開発思想だ。字面だけだとまるで時代に逆行するかのようにも見えるが、そうではない。\n\nPixel 11の狙いはスマホへの没頭時間削減。Pixelは“気が利くAIエージェント”に\n\n「画面への没頭」を避け「現実の時間を奪還する」。Googleの開発者が「Google Pixel 11」で念頭に置いた開発思想だ。字面だけだとまるで時代に逆行するかのようにも見えるが、そうではない。\n\nPixel 11は潮流を見据え、AIエージェントスマホへの進化を先取りした。これまでユーザーがやっていた面倒な操作はエージェントが代行する。アプリの壁を越え、先回りしてエージェントが動作することも可能だ。\n\nこういった機能により、ユーザーの最小限の関与で、最大限の価値を提供する。その分、ユーザーは家族と友人との会話など現実の世界での行動に時間をより割けるようになる。これが『「画面への没頭」を避け「現実の時間を奪還する」』の意味するところだ。\n\n従来通り、Googleの独自SoCの世代が上がり「Tensor G6」へと進化した。こちらも過去数世代と共通で、一般的な演算性能やゲーム性能よりもAI性能の向上を重視しており、TPUの性能を50%高めたことで、デバイス上でのAI(Gemini Nano)の処理速度は最大3.5倍に高速化しつつ、エネルギー消費量は最大3.5分の1に抑えたという。\n\nこのほか、Webブラウジング性能も25%、アプリの起動速度も15%高速化されている。\n\n一方、メモリについては、Pixel 11 Pro、Pixel 11Pro XLという上位モデルでも、ストレージ256GBモデ…",
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/417/01.jpg"
-    },
-    {
-      "Title": "最適なタイミングで起こしてくれる「Google Pixel Watch 5」",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/2132424.html",
-      "Published": "2026-08-12T14:00:00Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "最適なタイミングで起こしてくれる「Google Pixel Watch 5」\n\n最適な睡眠サイクルで優しく起こしてくれる「スマートウェイクアラーム」。Googleの新スマートウォッチ「Google Pixel Watch 5」の新機能だ。Pixel Watch 5は、大きさとLTEの有無で4モデルが用意。価格は41mm/Wi-Fiが6万2,800円、41mm/LTEが7万9,800円、45mm/Wi-Fiが6万7,800円、45mm/LTEが8万4,800円。発売日はいずれも8月20日となる。\n\n最適なタイミングで起こしてくれる「Google Pixel Watch 5」\n\n最適な睡眠サイクルで優しく起こしてくれる「スマートウェイクアラーム」。Googleの新スマートウォッチ「Google Pixel Watch 5」の新機能だ。Pixel Watch 5は、大きさとLTEの有無で4モデルが用意。価格は41mm/Wi-Fiが6万2,800円、41mm/LTEが7万9,800円、45mm/Wi-Fiが6万7,800円、45mm/LTEが8万4,800円。発売日はいずれも8月20日となる。\n\n昨今のPixel Watchシリーズ同様、Pixel Watch 5もフィットネス機能をより充実させている。と同時に、同日発表されたPixel 11シリーズと同様に、ユーザーの意図や行動を判断し、先回りして情報を提示してくれるAI機能が搭載された。\n\nたとえば、空港へ向かう際には自動的にフライト情報を表示したり、電車に乗っている間は「目的地まであと何駅残っているか」を自動表示したりでき、スマホの画面を開く手間が省ける。\n\nまた、タイマー設定や、レストラン予約の詳細確認、Gmailでの返信といった、今までならスマホで行なう複雑なタスクを、ワンタップの簡単なアクションで完結させられるようになった。\n\nさらに、買い物袋や傘を持っていたり、電車の吊り革を掴んでいたりして片手しか使えない状況で、片手のジェスチャーだけで、届いた通知を展開したり、消去(非表示に)したりできる。\n\nフィットネス面に関…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/424/03.jpg"
     },
     {
       "Title": "Google、フラッシュ部が光って通知する6.3型スマホ「Google Pixel 11 Pro」",
@@ -1898,6 +1880,33 @@
       "Category": "",
       "Summary": "Tensor G6チップ搭載で120倍ズームや通知ライト対応の6.8型スマホ「Google Pixel 11 Pro XL」\n\nGoogleは8月12日、新型の6.8型スマートフォン「Google Pixel 11 Pro XL」を発表した。Google Storeでの直販価格は20万7,800円から。2026年8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日より発売する。\n\nTensor G6チップ搭載で120倍ズームや通知ライト対応の6.8型スマホ「Google Pixel 11 Pro XL」\n\nGoogleは8月12日、新型の6.8型スマートフォン「Google Pixel 11 Pro XL」を発表した。Google Storeでの直販価格は20万7,800円から。2026年8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日より発売する。\n\nGoogle Pixel 11 Pro XLでは最新の「Google Tensor G6」チップを搭載し、オンデバイスAIタスクの処理やWebブラウジングを極めて高速に行なえるという。\n\nまた、大画面の6.8型ディスプレイには、最大3,600cd/平方mの輝度を持つ「Super Actuaディスプレイ」を採用し、強固な耐傷性コーティングと高い耐落下設計を組み合わせている。\n\n加えて、背面のカメラフラッシュ周辺がやさしく光ることで、通知を音を出さずに視覚的に確認できる「HiLight」機能を備える。充電機能が大幅に強化されており、別売りの45W以上のUSB Type-C充電器を用いることで、わずか15分間の有線充電を行なうだけで15時間のバッテリ駆動時間を確保できる。\n\n主な仕様として、プロセッサにはGoogle Tensor G6およびTitan M3セキュリティコプロセッサ、メモリは12GB(ストレージ256GB)または16GB(ストレージ512GB以上)、ストレージは256GB、512GB、または1TBを備える。OSはAndroid 17で、7年間のOS、セキュ…",
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2131/994/1.png"
+    },
+    {
+      "Title": "最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2132349.html",
+      "Published": "2026-08-12T14:00:00Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」\n\nGoogleは8月12日、新型の折りたたみスマートフォン「Google Pixel 11 Pro Fold」を発表した。Google Storeでの直販価格は27万9,900円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日より発売する。\n\n最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」\n\nGoogleは8月12日、新型の折りたたみスマートフォン「Google Pixel 11 Pro Fold」を発表した。Google Storeでの直販価格は27万9,900円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日より発売する。\n\nGoogle Pixel 11 Pro Foldでは、同時に発表されたほかのGoogle Pixel 11シリーズと同様、最新の「Google Tensor G6」チップを搭載し、高い処理能力と高度なオンデバイスAI性能を備えている。折りたたみ時の厚さは10.1mm、広げた状態で5mmのスリムな筐体を実現し、重量は239gに抑えられている。\n\nカバーディスプレイは6.5型で、内側を開くと8型の大画面「Super Actua Flexディスプレイ」が広がる。また、Proモデルと同様に背面のカメラフラッシュ周辺にカラーLEDを内蔵した「HiLight」機能を搭載し、スマートフォンを伏せた状態でもGeminiの応答ステータスや登録した連絡先からの着信をやさしい光のカスタムカラーで通知してくれる。\n\n主な仕様として、プロセッサにはGoogle Tensor G6およびTitan M3セキュリティコプロセッサ、メモリは16GB、ストレージは256GBまたは512GBを備える。\n\nディスプレイは、外側が6.5型のSuper Actuaディスプレイで解像度は1,080×2,342ドット、内側が8…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/349/3.png"
+    },
+    {
+      "Title": "最適なタイミングで起こしてくれる「Google Pixel Watch 5」",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2132424.html",
+      "Published": "2026-08-12T14:00:00Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "最適なタイミングで起こしてくれる「Google Pixel Watch 5」\n\n最適な睡眠サイクルで優しく起こしてくれる「スマートウェイクアラーム」。Googleの新スマートウォッチ「Google Pixel Watch 5」の新機能だ。Pixel Watch 5は、大きさとLTEの有無で4モデルが用意。価格は41mm/Wi-Fiが6万2,800円、41mm/LTEが7万9,800円、45mm/Wi-Fiが6万7,800円、45mm/LTEが8万4,800円。発売日はいずれも8月20日となる。\n\n最適なタイミングで起こしてくれる「Google Pixel Watch 5」\n\n最適な睡眠サイクルで優しく起こしてくれる「スマートウェイクアラーム」。Googleの新スマートウォッチ「Google Pixel Watch 5」の新機能だ。Pixel Watch 5は、大きさとLTEの有無で4モデルが用意。価格は41mm/Wi-Fiが6万2,800円、41mm/LTEが7万9,800円、45mm/Wi-Fiが6万7,800円、45mm/LTEが8万4,800円。発売日はいずれも8月20日となる。\n\n昨今のPixel Watchシリーズ同様、Pixel Watch 5もフィットネス機能をより充実させている。と同時に、同日発表されたPixel 11シリーズと同様に、ユーザーの意図や行動を判断し、先回りして情報を提示してくれるAI機能が搭載された。\n\nたとえば、空港へ向かう際には自動的にフライト情報を表示したり、電車に乗っている間は「目的地まであと何駅残っているか」を自動表示したりでき、スマホの画面を開く手間が省ける。\n\nまた、タイマー設定や、レストラン予約の詳細確認、Gmailでの返信といった、今までならスマホで行なう複雑なタスクを、ワンタップの簡単なアクションで完結させられるようになった。\n\nさらに、買い物袋や傘を持っていたり、電車の吊り革を掴んでいたりして片手しか使えない状況で、片手のジェスチャーだけで、届いた通知を展開したり、消去(非表示に)したりできる。\n\nフィットネス面に関…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/424/03.jpg"
+    },
+    {
+      "Title": "CPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2132345.html",
+      "Published": "2026-08-12T14:00:00Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "CPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から\n\nGoogleは8月12日、新型の6.3型スマートフォン「Google Pixel 11」を発表した。Google Storeでの直販価格は13万6,800円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日に発売する。\n\nCPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から\n\nGoogleは8月12日、新型の6.3型スマートフォン「Google Pixel 11」を発表した。Google Storeでの直販価格は13万6,800円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日に発売する。\n\nPixel 11ではプロセッサに最新の「Google Tensor G6」を搭載。CPU性能の引き上げによってWebブラウジングが25%高速化し、アプリの起動速度が15%向上したほか、オンデバイスAIタスクを最大3.5倍高速に処理しながら、エネルギー消費量を最大3.5分の1に抑えている。最先端のオンデバイスモデル「Gemini Nano」を動かすのに最適としている。\n\nさらに、象徴的な背面カメラバーの厚さを従来モデルから40%削減し、純正のケースを装着した際に出っ張りをほとんど感じさせないフラットな形状に仕上げており、平らな場所に置いてもがたつきが発生しにくい設計とした。背面カメラには、新たに大型化した4,800万画素のメインセンサーを採用することで、光量の少ない厳しい環境での感度を56%向上させている。\n\n主な仕様は、プロセッサがGoogle Tensor G6およびTitan M3セキュリティコプロセッサ、メモリは12GB、ストレージは256GBまたは512GB。\n\nディスプレイは6.3型のActuaディスプレイを採用し、解像度は1,080×2,424ドット、リフレッシュレートは60Hz～120Hz、最大輝度は2,000cd/平方m、ピーク輝度は3,0…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/345/1.png"
     },
     {
       "Title": "“Razor Lake-AX”の初期サポートがHWiNFOに追加される",
@@ -4490,26 +4499,35 @@
       "Category": "",
       "Summary": "(お買い得中古品情報) タブレットになる第11世代Core i7搭載ノート「Elite Dragonfly G2」が64,800円\n\nPCコンフル 秋葉原2号店で販売されている、HPの13.3型モバイルノートPC「Elite Dragonfly G2」の中古品。360°回転ヒンジを備えたコンバーチブルモデルで、タブレット形状としても使用できる。\n\n(お買い得中古品情報) タブレットになる第11世代Core i7搭載ノート「Elite Dragonfly G2」が64,800円\n\nHP「Elite Dragonfly G2」（中古品）税込64,800円\n\n13.3型タッチ液晶ディスプレイ（1,920×1,080）/Core i7-1165G7/メモリ16GB/512GB SSD/Windows 11 Pro\n\nPCコンフル 秋葉原2号店で販売されている、HPの13.3型モバイルノートPC「Elite Dragonfly G2」の中古品。360°回転ヒンジを備えたコンバーチブルモデルで、タブレット形状としても使用できる。\n\nフルHDのタッチ液晶や第11世代Core i7、メモリ16GB、512GB SSDを搭載する、スペック高めの構成。状態は天板などに若干のキズがあるものの、使用感は少なめ。在庫は20台で、8月9日（日）までの特価になっている。\n\n文： 編集部 絵踏 一 PCコンフル 秋葉原2号店： https://www.gdm.or.jp/shop/pccom2\n\nMSI、Ryzen 9＆GeForce RTX 5070搭載のホワイトゲーミング…\n\n(お買い得中古品情報) デルの小型シンクライアント端末「Wyse 5070 Th…\n\n(お買い得品情報) UT-PC\u0026Mobile 秋葉原店が2周年セール、…\n\n(お買い得中古品情報) 第10世代Core i5搭載のタフネスタブレット「TOU…\n\n(お買い得中古品情報) タブレットになる第11世代Core i5搭載ノート「LI…\n\n(お買い得中古品情報) M1 Pro搭載の「MacBook Pro 2021」が…\n\n2026…",
       "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/08/07/260807chuuko_01_01.jpg"
-    },
-    {
-      "Title": "重量1.49kgのRyzen 7000シリーズ搭載15.6型ノートPC、Acer「Aspire Lite 15」計2機種",
-      "Link": "https://www.gdm.or.jp/pressrelease/2026/0807/647378",
-      "Published": "2026-08-07T07:00:23Z",
-      "Source": "エルミタージュ秋葉原",
-      "Category": "",
-      "Summary": "重量1.49kgのRyzen 7000シリーズ搭載15.6型ノートPC、Acer「Aspire Lite 15」計2機種\n\n日本エイサー株式会社（本社：東京都新宿区）は2026年8月7日、厚さ約18.6mm、重量約1.49kgのスリム・軽量筐体を採用する15.6型フルHDスタンダードノートPC「Aspire Lite 15」シリーズ計2機種を発表した。本日より販売が開始されている。\n\n重量1.49kgのRyzen 7000シリーズ搭載15.6型ノートPC、Acer「Aspire Lite 15」計2機種\n\n日本エイサー株式会社（本社：東京都新宿区）は2026年8月7日、厚さ約18.6mm、重量約1.49kgのスリム・軽量筐体を採用する15.6型フルHDスタンダードノートPC 「Aspire Lite 15」シリーズ 計2機種を発表した。本日より販売が開始されている。\n\nラインナップは、Ryzen 5 7430Uを搭載する 「AL15-44P-N56Y」 と、Ryzen 7 7730Uを搭載する 「AL15-44P-N76Y」 の2機種。いずれもメモリはDDR4 16GB、ストレージは512GB NVMe SSDを標準装備し、グラフィックス機能にはCPU内蔵のAMD Radeon Graphicsを採用する。\n\nインターフェイスはUSB Type-C×2、USB Type-A×3、HDMI×1、ヘッドセット/スピーカージャック×1、microSDカードリーダーなど。ネットワークはWi-Fi 6とBluetooth 5.1に対応し、プライバシーシャッター付きの約207万画素フルHD Webカメラを備える。\n\nバッテリー駆動時間は約8時間、幅359.3mm、奥行き230.2mm、高さ18.6mm。OSはWindows 11 Home 64bit版をプリインストールする。\n\n文： 編集部 池西 樹 日本エイサー株式会社： https://www.acer.com/jp-ja/\n\nAcer、Ryzen AI 7 450搭載16型ゲーミングノートPC「Nitro…\n\nAcer、26…",
-      "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/08/07/Aspire_Lite_15_01.jpg"
     }
   ],
   "world": [
     {
-      "Title": "443,000 台の Backblaze ハードドライブを対象としたピアレビュー調査では、HGST が最も信頼性が高く、東芝が最も信頼性が低いとランク付けされています — 最も信頼性の低いリストでは Seagate が僅差で 2 位となっています",
-      "Link": "https://www.tomshardware.com/pc-components/hdds/peer-reviewed-study-of-443000-backblaze-drivers-ranks-hgst-most-reliable-and-toshiba-least",
-      "Published": "2026-08-15T15:30:10Z",
-      "Source": "Tom's Hardware",
-      "Category": "Storage",
-      "Summary": "443,000 台の Backblaze ハードドライブを対象としたピアレビュー調査では、HGST が最も信頼性が高く、東芝が最も信頼性が低いとランク付けされています — 最も信頼性の低いリストでは Seagate が僅差で 2 位となっています\n\n166万駆動年を分析したところ、Seagateと東芝のHDDはWDやHGSTの約2倍の割合で故障していることが判明した。\n\n443,000 台の Backblaze ハードドライブを対象としたピアレビュー調査では、HGST が最も信頼性が高く、東芝が最も信頼性が低いとランク付けされています — 最も信頼性の低いリストでは Seagate が僅差で 2 位となっています\n\n166万駆動年を分析したところ、Seagateと東芝のHDDはWDやHGSTの約2倍の割合で故障していることが判明した。\n\n(画像クレジット: Getty Images) リンクをコピーして共有\n\nフォローしてください Google ニュースレターの優先ソースとして追加してください ニュースレターを購読してください エセックス大学の経済学者 Christoph Siemroth 氏と成均館大学の Yeomyung Park 氏は、2013 年から第 2 四半期までの 443,156 台のハードドライブと 166 万年以上の駆動年数をカバーする Backblaze の 12 年間のパブリック ドライブ データを再計算した査読済みの IEEE 研究を発表しました。 2025 年に、一致する使用年数、容量、フォーム ファクター、動作温度のドライブを比較した場合、HGST ドライブは Seagate の約 41% の割合で故障することがわかりました。 WD は Seagate の故障率の約 52% で第 1 位ですが、東芝は 107% で最下位です。ランキングで最も信頼できるブランドは？ HGST は、WD が 2012 年に買収して終了した後は、新品で購入できなくなりました。\n\nフォトニクスと高速データ移動が AI の次の大きなボトルネックとなる\n\nデータセンター…",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/KCkcPUkkLXLzriAGq9iUrg-2560-80.jpg"
+      "Title": "2 台のマシンで 2,840 億パラメータのモデルを実行しており、ついにクラウドと一致しました",
+      "Link": "https://www.xda-developers.com/running-284-billion-parameter-model-two-machines-matches-cloud/",
+      "Published": "2026-08-15T16:30:10Z",
+      "Source": "XDA",
+      "Category": "ai",
+      "Summary": "2 台のマシンで 2,840 億パラメータのモデルを実行しており、ついにクラウドと一致しました\n\nDeepSeek V4 Flash は優れたモデルであり、これらのマシンをローカルで実行できるようになります。\n\n2 台のマシンで 2,840 億パラメータのモデルを実行しており、ついにクラウドと一致しました\n\nBy Adam Conway 公開日 2026 年 8 月 15 日、午後 12:30 EDT 私はアダム コンウェイです。コンピュータ サイエンスの学士号を取得したアイルランドのテクノロジー愛好家で、XDA の主任テクニカル エディターを務めています。私の学士論文は、Android アプリやスマートフォンのパフォーマンスなどの非機能要素のベンチマークの実行可能性について行われました。私は 2017 年から何らかの形でテクノロジー業界で働いています。暇なときは、Counter-Strike や VALORANT をプレイしているのをおそらく見かけます。連絡先は adam@xda-developers.com 、Twitter では @AdamConwayIE 、Instagram では次のとおりです。 AdamConwayIE 、または Reddit の u/AdamConwayIE。 XDA アカウントにサインインする 数週間前、私は 1 台の Lenovo ThinkStation PGX で DeepSeek V4 Flash を実行しました。かなり大きな注意点がいくつかありましたが、正常に動作しました。 ds4 エンジンは、単一のモデル ファミリ向けに構築された巧妙に設計された C プロジェクトであり、100 万トークンのコンテキスト ウィンドウで 1 秒あたり 10 ～ 14 トークンをヒットします。しかし、それでも座って見ているには十分遅いです。2,840 億個のパラメータを 128 GB に収めるには、ds4 はルーティングされたエキスパートを 2 ビットまで量子化する必要があります。したがって、このモデルは、DeepSeek がホストするものよりも遅…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/dual-dgx-spark-feature-image-cleaned.png?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "ホーム セキュリティ システムに NVR は必要ありません。必要なのは Frigate だけです",
+      "Link": "https://www.xda-developers.com/dont-need-an-nvr-for-your-home-security-system-you-just-need-frigate/",
+      "Published": "2026-08-15T16:15:10Z",
+      "Source": "XDA",
+      "Category": "Software and Services",
+      "Summary": "ホーム セキュリティ システムに NVR は必要ありません。必要なのは Frigate だけです\n\nFrigate は、AI 主導の検出、スマート ホーム統合の力を解き放ち、NVR ソリューションに求められる柔軟性を提供します。\n\nホーム セキュリティ システムに NVR は必要ありません。必要なのは Frigate だけです\n\nBy Dhruv Bhutani 公開 2026 年 8 月 15 日、午後 12:15 EDT Dhruv Bhutani は 2008 年以来消費者向けテクノロジーについて執筆しており、特集記事や意見記事を通じて個人向けテクノロジーの状況について深い洞察を提供しています。彼は XDA-Developers に執筆しており、生産性、ネットワーキング、セルフホスティングなどのトピックに重点を置いています。長年にわたり、彼の作品は Android Police、Android Authority、CNET、PCMag などの主要出版物にも掲載されてきました。専門的な仕事以外では、ドゥルヴは映画や文学などのホラー メディアの熱心なファンであり、フィットネス アクティビティを楽しんだり、レコードを収集したり、ギターを弾いたりしています。\n\nホーム セキュリティ システムのセットアップを考えるとき、ほとんどの人は NVR (ネットワーク ビデオ レコーダー) への投資を思い浮かべます。 4K ストリームと複数のカメラを使用すると、山ほどのデータを保存することが必須の要件のように感じられます。そのため、私が自宅監視システムのアップグレードを検討していたとき、予想通り、それは私が注目していたものでした。それは私がフリゲートを発見するまででした。セキュリティ映像を処理するより良い方法があることが判明しました。徹底したテストを行った結果、Frigate は実質的にすべてを NVR よりも優れた機能で実行できるセルフホスト型ソリューションであることが確認できました。それが考慮すべき点です。その理由は次のとおりです。\n\nFrigate は選択したハードウェアで動作…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/07/frigate-dashcam.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "Nvidia GPU の VRAM をシステム スワップとして使用したため、追加のメモリを購入する必要がなくなりました",
+      "Link": "https://www.xda-developers.com/used-my-nvidia-gpus-vram-as-system-swap-freed-me-from-buying-more-memory/",
+      "Published": "2026-08-15T16:00:10Z",
+      "Source": "XDA",
+      "Category": "Nvidia",
+      "Summary": "Nvidia GPU の VRAM をシステム スワップとして使用したため、追加のメモリを購入する必要がなくなりました\n\nこれは、Nvidia ラップトップを使用している人にとっては便利なトリックです。\n\nNvidia GPU の VRAM をシステム スワップとして使用したため、追加のメモリを購入する必要がなくなりました\n\nBy Joe Rice-Jones Published Aug 15, 2026, 12:00 PM EDT Maker、meme-r、そして恥ずかしがり屋のオタクである Joe は、2018 年に KnowTechie でキャリアをスタートして以来、テクノロジーについて執筆しています。彼は Apple からアプリ、クラウドファンディングまであらゆるものをカバーしており、複雑なトピックの本質に迫るのが大好きです。その間、彼は、2023 年の春に XDA に本拠地を置くまで、SlashGear や多数の法人顧客向けにも記事を書いていました。彼は、たとえ後で完全に元に戻らなかったとしても、すべてのおもちゃを分解して、どのように機能するかを確認する子供でした。これにより、複雑なシステムがどのように連携して機能するかを説明するための確かな背景が得られ、それ以来、物事を元に戻す段階でうまくなったと彼は約束します。 XDA アカウントにサインインする 私の Nvidia GeForce RTX 5090 には 32 GB の GDDR7 メモリが搭載されていますが、正直、PC の使用目的の 90% を無駄にしています。私は最近、その GPU の可能性を活用する新しい方法を見つけています。これは、ほとんどの場合 3.4 GB しか使用していないため、共有できるリソースが豊富にあるからです。 DDR5 の価格は高騰しており、私の WSL2 環境は、コンテナー、ビルド、および Windows 上で中断するトリッキーな LLM 作業を起動するたびにメモリに関して不平を言いますが、アイドル状態です。\n\nPC の最速のメモリを、デスクトップを描くことよりも重要なことに使用…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/rtx-5090-installed.jpg?w=1600\u0026h=900\u0026fit=crop"
     },
     {
       "Title": "Google マップが私の車では狭すぎる道を案内し続けるため、Waze に切り替えました",
@@ -4519,6 +4537,15 @@
       "Category": "Waze",
       "Summary": "Google マップが私の車では狭すぎる道を案内し続けるため、Waze に切り替えました\n\nWazeは私の車が勝ったことを知っています\n\nGoogle マップが私の車では狭すぎる道を案内し続けるため、Waze に切り替えました\n\nBy Dhruv Bhutani 公開 2026 年 8 月 15 日、午前 11:30 EDT Dhruv Bhutani は 2008 年以来消費者向けテクノロジーについて執筆しており、特集記事や意見記事を通じて個人向けテクノロジーの状況について深い洞察を提供しています。彼は XDA-Developers に執筆しており、生産性、ネットワーキング、セルフホスティングなどのトピックに重点を置いています。長年にわたり、彼の作品は Android Police、Android Authority、CNET、PCMag などの主要出版物にも掲載されてきました。専門的な仕事以外では、ドゥルヴは映画や文学などのホラー メディアの熱心なファンであり、フィットネス アクティビティを楽しんだり、レコードを収集したり、ギターを弾いたりしています。\n\nGoogle マップが優れたナビゲーション アプリであることは誰も否定できません。しかし、優れているとはいえ、あらゆる運転シナリオに対応できるわけではありません。正直に言うと、私が住んでいる場所での運転はまったくユニークな経験です。\n\n地図上では見栄えの良い道路でも、すぐにボトルネックになったり、SUV が通れないほど狭かったりする場合があります。 Google マップは、リアルタイムの交通情報を提供し、場所 A から場所 B に連れて行ってくれる点では優れていますが、安全に車で通れない通りに私を誘導するだけで渋滞に巻き込まれることがよくあります。\n\nそこで、代替手段を探していたところ、Waze がこの問題の解決に最適な特定の新機能を 1 つ追加したことを最近発見しました。 Waze では、運転している車両の種類を定義できるようになりました。それはバイク、車、さらにはタクシーである可能性があり、ナビゲーション方法を…",
       "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/waze-android-auto-header.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "443,000 台の Backblaze ハードドライブを対象としたピアレビュー調査では、HGST が最も信頼性が高く、東芝が最も信頼性が低いとランク付けされています — 最も信頼性の低いリストでは Seagate が僅差で 2 位となっています",
+      "Link": "https://www.tomshardware.com/pc-components/hdds/peer-reviewed-study-of-443000-backblaze-drivers-ranks-hgst-most-reliable-and-toshiba-least",
+      "Published": "2026-08-15T15:30:10Z",
+      "Source": "Tom's Hardware",
+      "Category": "Storage",
+      "Summary": "443,000 台の Backblaze ハードドライブを対象としたピアレビュー調査では、HGST が最も信頼性が高く、東芝が最も信頼性が低いとランク付けされています — 最も信頼性の低いリストでは Seagate が僅差で 2 位となっています\n\n166万駆動年を分析したところ、Seagateと東芝のHDDはWDやHGSTの約2倍の割合で故障していることが判明した。\n\n443,000 台の Backblaze ハードドライブを対象としたピアレビュー調査では、HGST が最も信頼性が高く、東芝が最も信頼性が低いとランク付けされています — 最も信頼性の低いリストでは Seagate が僅差で 2 位となっています\n\n166万駆動年を分析したところ、Seagateと東芝のHDDはWDやHGSTの約2倍の割合で故障していることが判明した。\n\n(画像クレジット: Getty Images) リンクをコピーして共有\n\nフォローしてください Google ニュースレターの優先ソースとして追加してください ニュースレターを購読してください エセックス大学の経済学者 Christoph Siemroth 氏と成均館大学の Yeomyung Park 氏は、2013 年から第 2 四半期までの 443,156 台のハードドライブと 166 万年以上の駆動年数をカバーする Backblaze の 12 年間のパブリック ドライブ データを再計算した査読済みの IEEE 研究を発表しました。 2025 年に、一致する使用年数、容量、フォーム ファクター、動作温度のドライブを比較した場合、HGST ドライブは Seagate の約 41% の割合で故障することがわかりました。 WD は Seagate の故障率の約 52% で第 1 位ですが、東芝は 107% で最下位です。ランキングで最も信頼できるブランドは？ HGST は、WD が 2012 年に買収して終了した後は、新品で購入できなくなりました。\n\nフォトニクスと高速データ移動が AI の次の大きなボトルネックとなる\n\nデータセンター…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/KCkcPUkkLXLzriAGq9iUrg-2560-80.jpg"
     },
     {
       "Title": "未来的な蚊取りレーザーが購入可能になり、ビデオで装置の動作が示されています - 個人用防空システムのように虫を撃墜する小型装置ですが、価格は 1,000 ドルです",
@@ -4575,15 +4602,6 @@
       "ImageURL": ""
     },
     {
-      "Title": "私のバックアップ戦略全体は、70 ドルの外部ドライブと 2 つのスケジュールされたコマンドです。",
-      "Link": "https://www.xda-developers.com/my-entire-backup-strategy-cheap-drive-two-commands/",
-      "Published": "2026-08-15T14:00:10Z",
-      "Source": "XDA",
-      "Category": "NAS",
-      "Summary": "私のバックアップ戦略全体は、70 ドルの外部ドライブと 2 つのスケジュールされたコマンドです。\n\n退屈だし、安いし、それでがっかりしたことは一度もありません。\n\n私のバックアップ戦略全体は、70 ドルの外部ドライブと 2 つのスケジュールされたコマンドです。\n\nBy Korbin Brown 公開 2026 年 8 月 15 日、午前 10:00 EDT Korbin は、物事が実際にどのように機能するかを理解するために、ほとんどの時間を端末で費やしている Linux システム管理者です。過去 10 年間にわたり、彼は Linux の構成、奇妙な問題のトラブルシューティング、現実世界でのオープンソース ツールの使用について何百もの記事を書いてきました。彼はまた、Windows システムとネットワーク、特にドキュメントに記載されているとおりに動作しないことがある混合環境での作業も多く行っています。物事を書き留めることで彼はすべてを理解することができ、できれば他の誰かが数時間を節約できるようになります。 XDA アカウントにサインインする 最も人気のあるバックアップ ソリューションの多くは、複数のドライブと追加ストレージ用のクラウド サブスクリプションを備えた NAS など、高額な購入とより複雑なセットアップを必要とします。この戦略には何も問題はありませんが、最も簡単な方法ではなく、必要以上にコストがかかります。\n\n私のバックアップ戦略全体は、70 ドル以下のポータブル ハード ドライブと、スケジュールに従って実行される 2 つの rsync コマンドです。これらは一緒に 3-2-1 ルールを満たします。つまり、私の作業用コピー、外部ドライブ上の別のローカル コピー、およびレンタル ストレージ VPS 上にあるオフサイト コピーです。全体のセットアップは非常にシンプルで、GUI、専用ソフトウェア、クラウド サブスクリプションは必要ありません。\n\n数年間そのように動作しており、そこから2回正常に復元しました。バックアップはそれほど複雑である必要はありません。全体の構成は数行…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/external-hdd-hard-drive-seagate-pc.jpg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
       "Title": "完全に特性化されたシステム",
       "Link": "https://hackaday.com/2026/08/15/fully-characterized-systems/",
       "Published": "2026-08-15T14:00:10Z",
@@ -4591,6 +4609,15 @@
       "Category": "newsletter",
       "Summary": "完全に特性化されたシステム\n\n私の昔のハッカースペースの友人は電気工学の大学院に通っていた。彼の教授には、学生のプロジェクトで何か問題が起こったとき、「この問題を完全に特徴づけましたか?」と尋ねられる人がいました。\n\n私の昔のハッカースペースの友人は電気工学の大学院に通っていた。彼の教授には、学生プロジェクトで何か問題が発生したとき、「システムの特性を十分に理解しましたか?」と尋ねられる人がいました。これは高い目標ではあるが、良い目標ではあるが、約 95% の確率で YOLO が MO だったため、ハッカー業界内での冗談にもなった。 3D プリンターでヘッドがクラッシュ – 「完全に特性化されていない」。先週末ゴミ出しを忘れましたか？システムは完全に特性化されましたか?\n\nそれはおそらく、理論と実践の違いでもあります。理論的には、理論と実践の間に違いはなく、すべてのシステムを完全に特徴付けることができます。しかし実際には、まだ完全に理解していないシステムを完全に特徴付けるのは困難です。\n\n好例: うちの前庭には9本の小さな苗木が生えているので、それらに水をやる必要があります。木から木へとホースを移動させるのは退屈なので、ある長さのホースを用意して、片方の端で栓をし、すべての木に一度に水をまくことができるように十分な穴を開けようと思いました。私はこのシステムを少し特徴づけました。ホースを通る 1 分間あたりの水の量を計算し、それを頭の中で妥当な流出量に分割し、ドリルで穴を開けましたが、結果的に大きすぎました。\n\nなぜですか？なぜなら、ホースの長さには流れに対する抵抗があり、最初のいくつかの穴からは水が流れ出ますが、最後のいくつかの穴は乾いていたからです。私が思っていたような一定の圧力システムではありませんでした。ホース内の抵抗が重要になるとは思ってもいなかったので、測定しようとするわけがありませんでした。しかし、とにかくこの抵抗をどのように特徴づければよいでしょうか?大きすぎる穴を備えたホースを作成し、減衰を測定することもできます。 （おっと、それはまさに私がやったことで…",
       "ImageURL": "https://hackaday.com/wp-content/uploads/2020/05/Automation.jpg"
+    },
+    {
+      "Title": "私のバックアップ戦略全体は、70 ドルの外部ドライブと 2 つのスケジュールされたコマンドです。",
+      "Link": "https://www.xda-developers.com/my-entire-backup-strategy-cheap-drive-two-commands/",
+      "Published": "2026-08-15T14:00:10Z",
+      "Source": "XDA",
+      "Category": "NAS",
+      "Summary": "私のバックアップ戦略全体は、70 ドルの外部ドライブと 2 つのスケジュールされたコマンドです。\n\n退屈だし、安いし、それでがっかりしたことは一度もありません。\n\n私のバックアップ戦略全体は、70 ドルの外部ドライブと 2 つのスケジュールされたコマンドです。\n\nBy Korbin Brown 公開 2026 年 8 月 15 日、午前 10:00 EDT Korbin は、物事が実際にどのように機能するかを理解するために、ほとんどの時間を端末で費やしている Linux システム管理者です。過去 10 年間にわたり、彼は Linux の構成、奇妙な問題のトラブルシューティング、現実世界でのオープンソース ツールの使用について何百もの記事を書いてきました。彼はまた、Windows システムとネットワーク、特にドキュメントに記載されているとおりに動作しないことがある混合環境での作業も多く行っています。物事を書き留めることで彼はすべてを理解することができ、できれば他の誰かが数時間を節約できるようになります。 XDA アカウントにサインインする 最も人気のあるバックアップ ソリューションの多くは、複数のドライブと追加ストレージ用のクラウド サブスクリプションを備えた NAS など、高額な購入とより複雑なセットアップを必要とします。この戦略には何も問題はありませんが、最も簡単な方法ではなく、必要以上にコストがかかります。\n\n私のバックアップ戦略全体は、70 ドル以下のポータブル ハード ドライブと、スケジュールに従って実行される 2 つの rsync コマンドです。これらは一緒に 3-2-1 ルールを満たします。つまり、私の作業用コピー、外部ドライブ上の別のローカル コピー、およびレンタル ストレージ VPS 上にあるオフサイト コピーです。全体のセットアップは非常にシンプルで、GUI、専用ソフトウェア、クラウド サブスクリプションは必要ありません。\n\n数年間そのように動作しており、そこから2回正常に復元しました。バックアップはそれほど複雑である必要はありません。全体の構成は数行…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/external-hdd-hard-drive-seagate-pc.jpg?w=1600\u0026h=900\u0026fit=crop"
     },
     {
       "Title": "YouTube の「後で見る」を NotebookLM キューとトランスクリプトに置き換えたところ、コンテンツの消費方法が完全に変わりました",
@@ -5043,8 +5070,8 @@
       "ImageURL": "https://www.techpowerup.com/img/IlHZP7ChIvB57MLZ.jpg"
     },
     {
-      "Title": "My Experience at the InfiMaker K1 5-Axis CNC Launch Event",
-      "Link": "https://www.hackster.io/news/my-experience-at-the-infimaker-k1-5-axis-cnc-launch-event-5e3577e35557",
+      "Title": "My Experience at the InfiMaker K1 Five-Axis CNC Launch Event",
+      "Link": "https://www.hackster.io/news/my-experience-at-the-infimaker-k1-five-axis-cnc-launch-event-5e3577e35557",
       "Published": "2026-08-14T21:01:06Z",
       "Source": "Hackster.io",
       "Category": "",
@@ -5052,8 +5079,8 @@
       "ImageURL": ""
     },
     {
-      "Title": "My Experience at the InfiMaker K1 Five-Axis CNC Launch Event",
-      "Link": "https://www.hackster.io/news/my-experience-at-the-infimaker-k1-five-axis-cnc-launch-event-5e3577e35557",
+      "Title": "My Experience at the InfiMaker K1 5-Axis CNC Launch Event",
+      "Link": "https://www.hackster.io/news/my-experience-at-the-infimaker-k1-5-axis-cnc-launch-event-5e3577e35557",
       "Published": "2026-08-14T21:01:06Z",
       "Source": "Hackster.io",
       "Category": "",
@@ -6114,15 +6141,6 @@
       "ImageURL": ""
     },
     {
-      "Title": "モークリーとエッカートの他のコンピューター",
-      "Link": "https://hackaday.com/2026/08/14/mauchly-and-eckerts-other-computers/",
-      "Published": "2026-08-14T08:00:37Z",
-      "Source": "Hackaday",
-      "Category": "univac",
-      "Summary": "モークリーとエッカートの他のコンピューター\n\nランダムな人に [ジョン モークリー] と [J.プレスパー・エッカート] だったら、おそらく白い目で見られるでしょう。 Hackaday の読者に尋ねれば、より良い答えが得られます。知っている人は教えてくれるでしょう…\n\nランダムな人に [ジョン モークリー] と [J.プレスパー・エッカート] だったら、おそらく白い目で見られるでしょう。 Hackaday の読者に尋ねれば、より良い答えが得られます。知っている人なら、この 2 人が有名な ENIAC の背後にいると言うでしょう。ENIAC は最初のコンピューターであるかどうかはわかりませんが、現代コンピューター時代の始まりに確かに影響を与えました。彼らはペンシルバニア大学で働いており、現在、ペンシルベニア州キスラック特別コレクション、貴重書、写本センターの [ホリー メンゲル] が、ENIAC の後に彼らが取り組んだ他のコンピューターを私たちに紹介したいと考えています。\n\nEDVAC と UNIVAC については知っていたことを認めます。しかし、BINAC や Skeduflo というかなり大きなスーツケースに入ったコンピューターについては知らなかったことも告白します。 BINAC は、商業化された最初のデジタル コンピューターであると主張できますが、それはかなり限定的であり、伝えられるところによると、納入後に一度も動作しなかったため、そう主張することもできます。おそらく顧客はそれを分解し、安全な施設に輸送し、再構築するために新卒のエンジニアを雇ったと考えられますが、それはあまりうまくいきませんでした。\n\nSkeduflo については、クリティカル パス法 (CPM) 分析用に作られた 75 ポンドのアナログ コンピューターであるということ以外、あまり見つかりませんでした。パッチボードとポテンショメータを使用して問題を設定すると、結果がアナログ プロッタに出力されました。これらの詳細は、[モーガン ウォーカー] と [ジム ケリー] への PMI インタビューからのもの…",
-      "ImageURL": "https://hackaday.com/wp-content/uploads/2026/08/sked.png"
-    },
-    {
       "Title": "Pixel 11 のことは忘れてください。この Google 製品は今年多くの人の注目を集めています",
       "Link": "https://www.androidauthority.com/fitness-tracker-fitbit-air-poll-results-3698641/",
       "Published": "2026-08-14T08:00:37Z",
@@ -6130,6 +6148,15 @@
       "Category": "Survey Results",
       "Summary": "Pixel 11 のことは忘れてください。この Google 製品は今年多くの人の注目を集めています\n\nGoogleは5月にFitbit Airを発売した。読者アンケートの結果を受けて、スクリーンレス トラッカーは急速に人気を博しています。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nフィットネス トラッカー Pixel 11 のことは忘れてください。この Google 製品は今年多くの注目を集めています\n\n0 • Rita El Khoury / Android Authority Google Discover でフォローしてください 優先ソースとして追加 今週、Google の最新スマートウォッチである Pixel Watch 5 が発売されましたが、読者の感情から判断すると、同社はすでに今年初めに大ヒットウェアラブルを発売しています。\n\n5月、Fitbit Airは、私が何年も求めていたミニマルでスクリーンのないデザインを備えて登場しました。確かに、私の個人的な欲しいものリストにあるいくつかの機能が欠けていますが、健康状態を監視するためにディスプレイは必要ないことを証明しています。\n\nしかし、従来のスマートウォッチに加えて、非常に多くの目立たない健康モニタリングのオプションが存在することを考えると、どのフィットネス トラッカーが読者のショッピング リストに載っているでしょうか?\n\n私たちは先月読者にアンケートを行ったが、その結果は、Google が手、あるいは手首に大きな打撃を被る可能性があることを示唆している。\n\nAndy Walker / Android Authority この調査は 2,200 を超える投票を集め、Air の望ましさを超えたいくつかの驚くべき傾向が明らかになりました。\n\nまず、スマート リングの誇大宣伝は沈静化しつつあるようです。回答者のわずか 2.8% のみが今すぐ購入すると考えています。 Oura Ring 5 の発売前にこのアンケートを実施したことは注目…",
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/05/google-fitbit-air-worn-on-ankle-3.jpg"
+    },
+    {
+      "Title": "モークリーとエッカートの他のコンピューター",
+      "Link": "https://hackaday.com/2026/08/14/mauchly-and-eckerts-other-computers/",
+      "Published": "2026-08-14T08:00:37Z",
+      "Source": "Hackaday",
+      "Category": "univac",
+      "Summary": "モークリーとエッカートの他のコンピューター\n\nランダムな人に [ジョン モークリー] と [J.プレスパー・エッカート] だったら、おそらく白い目で見られるでしょう。 Hackaday の読者に尋ねれば、より良い答えが得られます。知っている人は教えてくれるでしょう…\n\nランダムな人に [ジョン モークリー] と [J.プレスパー・エッカート] だったら、おそらく白い目で見られるでしょう。 Hackaday の読者に尋ねれば、より良い答えが得られます。知っている人なら、この 2 人が有名な ENIAC の背後にいると言うでしょう。ENIAC は最初のコンピューターであるかどうかはわかりませんが、現代コンピューター時代の始まりに確かに影響を与えました。彼らはペンシルバニア大学で働いており、現在、ペンシルベニア州キスラック特別コレクション、貴重書、写本センターの [ホリー メンゲル] が、ENIAC の後に彼らが取り組んだ他のコンピューターを私たちに紹介したいと考えています。\n\nEDVAC と UNIVAC については知っていたことを認めます。しかし、BINAC や Skeduflo というかなり大きなスーツケースに入ったコンピューターについては知らなかったことも告白します。 BINAC は、商業化された最初のデジタル コンピューターであると主張できますが、それはかなり限定的であり、伝えられるところによると、納入後に一度も動作しなかったため、そう主張することもできます。おそらく顧客はそれを分解し、安全な施設に輸送し、再構築するために新卒のエンジニアを雇ったと考えられますが、それはあまりうまくいきませんでした。\n\nSkeduflo については、クリティカル パス法 (CPM) 分析用に作られた 75 ポンドのアナログ コンピューターであるということ以外、あまり見つかりませんでした。パッチボードとポテンショメータを使用して問題を設定すると、結果がアナログ プロッタに出力されました。これらの詳細は、[モーガン ウォーカー] と [ジム ケリー] への PMI インタビューからのもの…",
+      "ImageURL": "https://hackaday.com/wp-content/uploads/2026/08/sked.png"
     },
     {
       "Title": "Razer announces its first Artisan Keycap with the Triple-Headed Snake Edition",
@@ -8571,6 +8598,15 @@
       "ImageURL": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Google-2026-lineup-1152x648.jpg"
     },
     {
+      "Title": "すべての Pixel 11 スマートフォンは、ファンが待ち望んでいたワイヤレス充電速度をサポートしています",
+      "Link": "https://www.androidauthority.com/google-pixel-11-wireless-charging-3697309/",
+      "Published": "2026-08-12T14:00:46Z",
+      "Source": "Android Authority",
+      "Category": "Google Pixel 11",
+      "Summary": "すべての Pixel 11 スマートフォンは、ファンが待ち望んでいたワイヤレス充電速度をサポートしています\n\nGoogle の新しい Pixel 11 シリーズは Qi 2.2 を完全にサポートしており、全体で最大 25 ワットの磁気ワイヤレス充電が可能です。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nAndroid スマートフォンすべての Pixel 11 スマートフォンは、ファンが待ち望んでいたワイヤレス充電速度をサポートしています\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR すべての Pixel 11 スマートフォンは Qi 2.2 規格をサポートしており、25 ワットの磁気ワイヤレス充電を提供します。\n\n昨年の Pixel 10 シリーズのうち、25 ワットのワイヤレス充電をサポートしていたのは 10 Pro XL だけでした。\n\n既存の Pixelsnap 充電器は、35W USB-C 電源ブリックと組み合わせると 25W を供給できます。\n\n数カ月間のリークを経て、Googleは本日、ニューヨークのイベントでついにPixel 11シリーズ全体のパッケージを外した。新しい携帯電話には、新しいカメラセンサーから充電速度の高速化に至るまで、思慮深く実用的なアップグレードが数多く組み込まれています。今年、すべての Pixel 11 モデルが Qi 2.2 充電をサポートします。これは、昨年 10 Pro XL のみに搭載されていた機能です。\n\nQi 2.2 充電では、互換性のある電源に接続された互換性のあるワイヤレス充電器を使用している場合、最大 25 W のより高速なワイヤレス充電速度が可能になります。これは、Pixel 11、Pixel 11 Pro、Pixel 11 Pro Fold にとって大きなメリットです。これらの 2025 年モデルの最高値はすべて 15W です。\n\nRobert Triggs / And…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-pixel-11-pro-xl-hands-on-8-scaled.jpg"
+    },
+    {
       "Title": "Pixel 11 Proは、3世代を経て正式に温度計に別れを告げます",
       "Link": "https://www.androidauthority.com/pixel-11-pro-phones-no-thermometer-3697115/",
       "Published": "2026-08-12T14:00:46Z",
@@ -8578,15 +8614,6 @@
       "Category": "Google Pixel 11",
       "Summary": "Pixel 11 Proは、3世代を経て正式に温度計に別れを告げます\n\nGoogleは2023年にPixel Proスマートフォンに温度計を導入しましたが、Pixel 11 Proスマートフォンには温度計が搭載されていないことが公式に確認されました。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nPixel 11 Proは、3世代を経て正式に温度計に別れを告げます\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google は、Pixel 11 Pro スマートフォンに温度センサーが提供されなくなったことを確認しました。\n\n新しい携帯電話には、温度計の代わりにいわゆる HiLight 通知 LED が搭載されています。\n\nGoogleは2023年にPixel 8 Proに温度センサーを初めて導入しました。\n\nPixel 8 Pro は、2023 年に温度計または温度センサーをデビューさせました。この背面センサーにより、(驚いたことに) 物体の温度、最終的には人の温度を測定できるようになりました。ただし、Pixel 11 Pro スマートフォンはすべて、カメラ バーにいわゆる HiLight 機能を備えていますが、これは温度センサーにとって何を意味するのでしょうか?\n\nGoogle は Android Authority に対して、Pixel 11 シリーズのデバイスには温度計が搭載されていないことを確認しました。\n\nPixel 11 シリーズには温度センサーが搭載されていません。私たちは毎年、できるだけ多くの人々のお役に立てるように、Pixel の製品の進歩に取り組んでいます。 Pixel の温度センサーにより、外出先でも測定値を取得できるという安心感が得られました。そして今回、HiLight は、重要な通知を見逃さないという安心感を提供すると同時に、Gemini と積極的に会話しているときに視覚的な合図も提供します。\n\n温度セ…",
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-vs-pixel-10-pro-hands-on-3-scaled.jpg"
-    },
-    {
-      "Title": "Pixel Watch 5 は、Health Guardian を使用した早期警告システムになる可能性があります",
-      "Link": "https://www.androidauthority.com/google-pixel-watch-5-health-guardian-3697552/",
-      "Published": "2026-08-12T14:00:46Z",
-      "Source": "Android Authority",
-      "Category": "Health",
-      "Summary": "Pixel Watch 5 は、Health Guardian を使用した早期警告システムになる可能性があります\n\nGoogle の Health Guardian は、呼吸の緊急事態の検出や血圧の傾向などを備えた健康モニタリングを Pixel ウォッチに提供します。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nPixel Watch 5 は、Health Guardian を使用した早期警告システムになる可能性があります\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google の新しい Health Guardian は、Pixel Watch の健康データをバックグラウンドで信号を分析し、より有用な洞察に変えます。\n\n呼吸緊急検知により、血中酸素の持続的な低下を発見し、緊急サービスに通報できる可能性があります。\n\n血圧とインスリン抵抗性トレンドは、血圧や血糖値を直接測定しなくても長期的な変化を追跡し、この秋に Pixel Watch 3、Watch 4、Watch 5、および互換性のある Fitbit デバイスに展開される予定です。\n\nスマートウォッチはすでに私たちの健康状態について、ほとんどばかげたほどのことを知っています。私たちがいつ寝るか、どれだけ動いているか、ランニング中にどれだけ心臓が働いているかを知っています。問題は、この情報の多くが最終的にヘルスケア アプリ内に別のグラフとして埋め込まれてしまうことです。 Google は、Pixel Watch でもっと便利なことができるはずだと考えています。\n\nこれが、この秋登場する新しい健康機能のコレクションである Health Guardian の背後にある考え方です。ユーザーが個々の測定値を詳しく調べるのを待つのではなく、バックグラウンドで収集された信号を分析し、実際に注意を払う価値がある可能性のある変化にフラグを立てます。\n\nそれらの中で最も即時的なのは、呼吸…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-2-scaled.jpg"
     },
     {
       "Title": "Google、2倍のストレージ、より大きなバッテリー、Gemini Intelligenceを搭載したPixel Watch 5を発表",
@@ -8598,13 +8625,13 @@
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516.jpg"
     },
     {
-      "Title": "すべての Pixel 11 スマートフォンは、ファンが待ち望んでいたワイヤレス充電速度をサポートしています",
-      "Link": "https://www.androidauthority.com/google-pixel-11-wireless-charging-3697309/",
+      "Title": "Pixel Watch 5 は、Health Guardian を使用した早期警告システムになる可能性があります",
+      "Link": "https://www.androidauthority.com/google-pixel-watch-5-health-guardian-3697552/",
       "Published": "2026-08-12T14:00:46Z",
       "Source": "Android Authority",
-      "Category": "Google Pixel 11",
-      "Summary": "すべての Pixel 11 スマートフォンは、ファンが待ち望んでいたワイヤレス充電速度をサポートしています\n\nGoogle の新しい Pixel 11 シリーズは Qi 2.2 を完全にサポートしており、全体で最大 25 ワットの磁気ワイヤレス充電が可能です。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nAndroid スマートフォンすべての Pixel 11 スマートフォンは、ファンが待ち望んでいたワイヤレス充電速度をサポートしています\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR すべての Pixel 11 スマートフォンは Qi 2.2 規格をサポートしており、25 ワットの磁気ワイヤレス充電を提供します。\n\n昨年の Pixel 10 シリーズのうち、25 ワットのワイヤレス充電をサポートしていたのは 10 Pro XL だけでした。\n\n既存の Pixelsnap 充電器は、35W USB-C 電源ブリックと組み合わせると 25W を供給できます。\n\n数カ月間のリークを経て、Googleは本日、ニューヨークのイベントでついにPixel 11シリーズ全体のパッケージを外した。新しい携帯電話には、新しいカメラセンサーから充電速度の高速化に至るまで、思慮深く実用的なアップグレードが数多く組み込まれています。今年、すべての Pixel 11 モデルが Qi 2.2 充電をサポートします。これは、昨年 10 Pro XL のみに搭載されていた機能です。\n\nQi 2.2 充電では、互換性のある電源に接続された互換性のあるワイヤレス充電器を使用している場合、最大 25 W のより高速なワイヤレス充電速度が可能になります。これは、Pixel 11、Pixel 11 Pro、Pixel 11 Pro Fold にとって大きなメリットです。これらの 2025 年モデルの最高値はすべて 15W です。\n\nRobert Triggs / And…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-pixel-11-pro-xl-hands-on-8-scaled.jpg"
+      "Category": "Health",
+      "Summary": "Pixel Watch 5 は、Health Guardian を使用した早期警告システムになる可能性があります\n\nGoogle の Health Guardian は、呼吸の緊急事態の検出や血圧の傾向などを備えた健康モニタリングを Pixel ウォッチに提供します。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nPixel Watch 5 は、Health Guardian を使用した早期警告システムになる可能性があります\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google の新しい Health Guardian は、Pixel Watch の健康データをバックグラウンドで信号を分析し、より有用な洞察に変えます。\n\n呼吸緊急検知により、血中酸素の持続的な低下を発見し、緊急サービスに通報できる可能性があります。\n\n血圧とインスリン抵抗性トレンドは、血圧や血糖値を直接測定しなくても長期的な変化を追跡し、この秋に Pixel Watch 3、Watch 4、Watch 5、および互換性のある Fitbit デバイスに展開される予定です。\n\nスマートウォッチはすでに私たちの健康状態について、ほとんどばかげたほどのことを知っています。私たちがいつ寝るか、どれだけ動いているか、ランニング中にどれだけ心臓が働いているかを知っています。問題は、この情報の多くが最終的にヘルスケア アプリ内に別のグラフとして埋め込まれてしまうことです。 Google は、Pixel Watch でもっと便利なことができるはずだと考えています。\n\nこれが、この秋登場する新しい健康機能のコレクションである Health Guardian の背後にある考え方です。ユーザーが個々の測定値を詳しく調べるのを待つのではなく、バックグラウンドで収集された信号を分析し、実際に注意を払う価値がある可能性のある変化にフラグを立てます。\n\nそれらの中で最も即時的なのは、呼吸…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-2-scaled.jpg"
     },
     {
       "Title": "樹脂印刷への復帰: 最初の結果",
@@ -8670,15 +8697,6 @@
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-hands-on-1-scaled.jpg"
     },
     {
-      "Title": "Pixel 11 シリーズは、Gemini Intelligence の独自の味を獲得しています",
-      "Link": "https://www.androidauthority.com/gemini-intelligence-on-pixel-11-series-3696480/",
-      "Published": "2026-08-12T14:00:26Z",
-      "Source": "Android Authority",
-      "Category": "Google Pixel 11",
-      "Summary": "Pixel 11 シリーズは、Gemini Intelligence の独自の味を獲得しています\n\nGemini Intelligence が Pixel 11 シリーズに登場し、よりスマートな提案、フライトの詳細、カレンダーのプロンプトなどを提供します。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nPixel 11 シリーズは、Gemini Intelligence の独自の味を獲得しています\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Gemini Intelligence が Pixel 11 シリーズに登場し、Rambler がとりとめのない考えを洗練されたテキストに変換します。\n\nGoogle メッセージは、ライブフライトの詳細、Google マップのリスト、カレンダーのプロンプトなどの関連情報を自動的に取得できるようになりました。\n\nその他の Pixel AI 機能もさらに賢くなっており、At a Glance、Circle to Search 翻訳、Live Translate によるリアルタイム ダビングへのアップグレードが行われています。\n\nGemini がステージに立つことがなければ、これは Made by Google のイベントとは言えません。しかし今年、GoogleはGemini Intelligenceを新しいPixel 11シリーズの中心に据えています。これらの機能がサムスンの最新の Galaxy Z Fold スマートフォンに搭載されているのを私たちはすでに見てきました。\n\nGoogle は、Gemini Intelligence にユーザーが何をしているのかを理解し、作業を少しでも節約できる場合には介入してもらいたいと考えています。私たちは、Google I/O 2026 で、Rambler を使ってそのアイデアをいち早く体験しました。Rambler は、思いついた考えを吐き出して、Gemi…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-xl-hands-on-8-scaled.jpg"
-    },
-    {
       "Title": "Aspyrは、北方戦争の後、さらに多くのLOTRリマスターを開発中であると述べた",
       "Link": "https://www.kitguru.net/gaming/matthew-wilson/aspyr-says-it-has-more-lotr-remasters-on-the-way-following-war-in-the-north/",
       "Published": "2026-08-12T14:00:26Z",
@@ -8686,6 +8704,15 @@
       "Category": "Remaster",
       "Summary": "Aspyrは、北方戦争の後、さらに多くのLOTRリマスターを開発中であると述べた\n\nアスピルによる『ロード・オブ・ザ・リング：北方戦争』のサプライズリマスターは、まだ始まりに過ぎないようだ。今週初めにリリースされた新しくリリースされたレガシー エディションを発表するプレス リリースの中で、スタジオは、より多くの古典的な LOTR タイトルが最新のプラットフォーム向けに開発中であることを確認しました。\n\nAspyrは、北方戦争の後、さらに多くのLOTRリマスターを開発中であると述べた\n\nMatthew Wilson 3 時間前 注目のテクノロジー ニュース , ソフトウェア \u0026 ゲーム\n\nアスピルによる『ロード・オブ・ザ・リング：北方戦争』のサプライズリマスターは、まだ始まりに過ぎないようだ。今週初めにリリースされた新しくリリースされた Legacy Edition を発表するプレスリリースの中で、スタジオは、より多くの古典的な LOTR タイトルが最新のプラットフォーム向けに開発中であることを確認しました。発表の中でアスピル氏は、「『ロード・オブ・ザ・リング：北方戦争 – レガシー・エディション』はワーナー・ブラザース・インタラクティブ・エンターテイメントのライセンスを受けており、アスピル社がリリースした最初の『ロード・オブ・ザ・リング』のタイトルです。ファンは将来、この人気シリーズからさらにクラシックな作品がアスピル社によってリリースされることを楽しみにしています！」と述べた。これは本質的に、Aspyr が今後さらに多くの LOTR リマスターに取り組むことを裏付けるものであり、Aspyr はスター・ウォーズ、トゥームレイダー、レガシー・オブ・ケインのシリーズにおける古典的なゲームのリバイバルで非常にうまくいっているので、これは素晴らしいニュースとなるはずだ。 「War in the North」がすべての主要プラットフォームに戻ってきたことで、当然のことながら、Aspyr が次に何に取り組むのかという憶測が集まります。ファンが長年にわたって復活を待ち望んでいた古典的…",
       "ImageURL": "https://www.kitguru.net/wp-content/uploads/2017/08/Middle-Earth-Shadow-of-War-Details-660x330.jpg"
+    },
+    {
+      "Title": "Pixel 11 シリーズは、Gemini Intelligence の独自の味を獲得しています",
+      "Link": "https://www.androidauthority.com/gemini-intelligence-on-pixel-11-series-3696480/",
+      "Published": "2026-08-12T14:00:26Z",
+      "Source": "Android Authority",
+      "Category": "Google Pixel 11",
+      "Summary": "Pixel 11 シリーズは、Gemini Intelligence の独自の味を獲得しています\n\nGemini Intelligence が Pixel 11 シリーズに登場し、よりスマートな提案、フライトの詳細、カレンダーのプロンプトなどを提供します。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nPixel 11 シリーズは、Gemini Intelligence の独自の味を獲得しています\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Gemini Intelligence が Pixel 11 シリーズに登場し、Rambler がとりとめのない考えを洗練されたテキストに変換します。\n\nGoogle メッセージは、ライブフライトの詳細、Google マップのリスト、カレンダーのプロンプトなどの関連情報を自動的に取得できるようになりました。\n\nその他の Pixel AI 機能もさらに賢くなっており、At a Glance、Circle to Search 翻訳、Live Translate によるリアルタイム ダビングへのアップグレードが行われています。\n\nGemini がステージに立つことがなければ、これは Made by Google のイベントとは言えません。しかし今年、GoogleはGemini Intelligenceを新しいPixel 11シリーズの中心に据えています。これらの機能がサムスンの最新の Galaxy Z Fold スマートフォンに搭載されているのを私たちはすでに見てきました。\n\nGoogle は、Gemini Intelligence にユーザーが何をしているのかを理解し、作業を少しでも節約できる場合には介入してもらいたいと考えています。私たちは、Google I/O 2026 で、Rambler を使ってそのアイデアをいち早く体験しました。Rambler は、思いついた考えを吐き出して、Gemi…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-xl-hands-on-8-scaled.jpg"
     },
     {
       "Title": "Google Pixel 11 ケースはついに携帯電話の色を輝かせました",
@@ -8715,15 +8742,6 @@
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-hands-on-1-scaled.jpg"
     },
     {
-      "Title": "Pixel Watch 5 は GPS ルートの精度で最大のライバルを上回る可能性がある",
-      "Link": "https://www.androidauthority.com/pixel-watch-5-gps-improvements-3695358/",
-      "Published": "2026-08-12T14:00:22Z",
-      "Source": "Android Authority",
-      "Category": "Smartwatches",
-      "Summary": "Pixel Watch 5 は GPS ルートの精度で最大のライバルを上回る可能性がある\n\nGoogle は、前世代の 2 倍のルート追跡精度を提供すると言われている Pixel Watch 5 を発売しました。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nPixel Watch 5 は GPS ルートの精度で最大のライバルを上回る可能性がある\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google は、Pixel Watch 5 での GPS ルート追跡を改善しました。\n\nAndroid の位置情報テクノロジーと 3D 建物モデル、GNSS 基準局ネットワーク、大気補正、建物の反射補正を組み合わせることで、追跡が改善されました。\n\nGoogle は、GPS ルート追跡が Apple Watch Ultra 3 や Garmin Fenix 8 Pro よりも優れていると自慢しています。\n\nGoogle は、これまでで最も先進的なスマートウォッチである Pixel Watch 5 を発売しました。見た目は以前のバージョンと同じですが、このデバイスにはいくつかの新機能と改良点が含まれています。最も注目すべき改善点の 1 つは、GPS ルート追跡です。\n\n同社によれば、高層ビルが立ち並ぶ街中を走っている場合でも、並木道を走っている場合でも、新しい GPS ルート追跡アルゴリズムのおかげで、あらゆる歩幅が正確に記録されるという。\n\nGoogleは、同社のGPS追跡は前世代の2倍のルート追跡精度を実現すると付け加えた。実際、Google は Pixel Watch 5 の GPS 追跡に非常に自信を持っており、いくつかの大きな主張をしています。同社は、その追跡性能が Apple Watch Ultra 3 や Garmin Fenix 8 Pro の追跡性能を上回っていると自慢しています。\n\nルート追跡に関して、Google は自…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516.jpg"
-    },
-    {
       "Title": "Google Pixel 11 シリーズが登場、スタンダードとプロの間のギャップはかつてないほど広がる",
       "Link": "https://www.androidauthority.com/google-pixel-11-series-3693865/",
       "Published": "2026-08-12T14:00:22Z",
@@ -8731,6 +8749,15 @@
       "Category": "Google Pixel 11",
       "Summary": "Google Pixel 11 シリーズが登場、スタンダードとプロの間のギャップはかつてないほど広がる\n\nGoogleはついにPixel 11シリーズを発表しましたが、標準モデルとProモデルの差はこれまでにないほど開いています。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nGoogle Pixel 11 シリーズが登場、スタンダードとプロの間のギャップはかつてないほど広がる\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください Google の Pixel スマートフォンは、通常、毎年発売される Android スマートフォンの中で最高のものの 1 つです。その主な理由は、洗練されたデザイン、高性能の Android スキン、大量のソフトウェア機能、および高性能カメラによるものです。\n\nGoogle が Pixel 10 シリーズを発売してから約 1 年が経過しました。つまり、続編の時期が来たということです。 Google Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL をご紹介します。\n\nGoogle Pixel 11 Amazon で価格を見る Amazon で価格を見る Google Pixel 11 Pro Amazon で価格を見る Amazon で価格を見る Google Pixel 11 Pro XL Amazon で価格を見る Google Pixel 11 シリーズの発売日、価格、在庫状況\n\nJoe Maring / Android Authority Google Pixel 11 (12GB/256GB): $899\n\nGoogle Pixel 11 (12GB/512GB): 1,019ドル\n\nGoogle Pixel 11 Pro (12/256GB): $1,099\n\nGoogle Pixel 11 Pro (16GB/512GB): 1,219ドル\n\nGoogle Pixel 11 Pr…",
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pixel-11-pro-pixel-11-pro-xl-hands-on-2-scaled.jpg"
+    },
+    {
+      "Title": "Pixel Watch 5 は GPS ルートの精度で最大のライバルを上回る可能性がある",
+      "Link": "https://www.androidauthority.com/pixel-watch-5-gps-improvements-3695358/",
+      "Published": "2026-08-12T14:00:22Z",
+      "Source": "Android Authority",
+      "Category": "Smartwatches",
+      "Summary": "Pixel Watch 5 は GPS ルートの精度で最大のライバルを上回る可能性がある\n\nGoogle は、前世代の 2 倍のルート追跡精度を提供すると言われている Pixel Watch 5 を発売しました。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nPixel Watch 5 は GPS ルートの精度で最大のライバルを上回る可能性がある\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google は、Pixel Watch 5 での GPS ルート追跡を改善しました。\n\nAndroid の位置情報テクノロジーと 3D 建物モデル、GNSS 基準局ネットワーク、大気補正、建物の反射補正を組み合わせることで、追跡が改善されました。\n\nGoogle は、GPS ルート追跡が Apple Watch Ultra 3 や Garmin Fenix 8 Pro よりも優れていると自慢しています。\n\nGoogle は、これまでで最も先進的なスマートウォッチである Pixel Watch 5 を発売しました。見た目は以前のバージョンと同じですが、このデバイスにはいくつかの新機能と改良点が含まれています。最も注目すべき改善点の 1 つは、GPS ルート追跡です。\n\n同社によれば、高層ビルが立ち並ぶ街中を走っている場合でも、並木道を走っている場合でも、新しい GPS ルート追跡アルゴリズムのおかげで、あらゆる歩幅が正確に記録されるという。\n\nGoogleは、同社のGPS追跡は前世代の2倍のルート追跡精度を実現すると付け加えた。実際、Google は Pixel Watch 5 の GPS 追跡に非常に自信を持っており、いくつかの大きな主張をしています。同社は、その追跡性能が Apple Watch Ultra 3 や Garmin Fenix 8 Pro の追跡性能を上回っていると自慢しています。\n\nルート追跡に関して、Google は自…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516.jpg"
     },
     {
       "Title": "Pixel 11 の Magic Capture は、ショット (またはその瞬間) を決して逃さないことを約束します。",
@@ -8974,33 +9001,6 @@
       "Category": "Tech Industry",
       "Summary": "AIサーバーが全フラッシュの48%を飲み込み、YMTCがNANDメーカートップ3に初めて食い込む - 調査によると中国ベンダーのシェアは14%\n\n対位法\n\nAIサーバーが全フラッシュの48%を飲み込み、YMTCがNANDメーカートップ3に初めて食い込む - 調査によると中国ベンダーのシェアは14%\n\nCounterpoint の第 2 四半期トラッカーによると、中国ベンダーの出荷シェアは 14% です。\n\n(画像クレジット: Getty / 特集中国) リンクをコピー\n\n本日発表された Counterpoint Research の Memory \u0026 Storage Tracker によると、会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 長江メモリ テクノロジーズ (YMTC) は、2026 年の第 2 四半期に世界の NAND フラッシュの 14% を出荷し、初めて世界トップ 3 に入り、キオクシアを僅差で追い越しました。サムスンが 25% でトップ、SK ハイニックスが 22% で続き、マイクロンがトップ 5 に入った。中国ベンダーのこの上昇は、エンタープライズSSDが世界中で出荷されたすべてのNANDビットの48%を吸収し、前年同期の26%から増加し、Counterpointの集計によると業界の収益が前年比で5倍に増加した四半期に起きた。\n\nAI データセンターが世界のメモリとストレージの供給を飲み込んでいる\n\nDRAM の未来: DDR5 から将来の IC まで\n\nHBM が PC の RAM に登場する理由は次のとおりです\n\nしかし、収益の点では、YMTC はキオクシアとマイクロンの両社に次ぐ 5 位に位置しており、その生産量のほぼすべてが消費者向け製品に向けられています。現在、コンシューマ ビットは、ハイパースケーラーの購入者が KV キャッシュと推論データセットを保持するエンタープライズ eSSD に支払う金額の数分の一で販売されています。同社は2022年12月から米国エンティティリストに含…",
       "ImageURL": "https://cdn.mos.cms.futurecdn.net/gvpMevmFmrpYoKystbq537-2000-80.jpg"
-    },
-    {
-      "Title": "Google マップを使えば、散らかったリストを簡単に整理できるようになるかもしれません",
-      "Link": "https://www.androidauthority.com/google-maps-list-hide-apk-teardown-3697285/",
-      "Published": "2026-08-12T12:31:38Z",
-      "Source": "Android Authority",
-      "Category": "Google Maps",
-      "Summary": "Google マップを使えば、散らかったリストを簡単に整理できるようになるかもしれません\n\nGoogle マップは、保存したすべての場所を一度に非表示または表示して、地図ビューをきれいに保つマスター コントロールをテストしているようです。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nGoogle マップを使えば、散らかったリストを簡単に整理できるようになるかもしれません\n\n0 • Akshay Gangwar / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google は、保存したすべての場所を 1 回のタップでマップ ビューから非表示にする新しいオプションをテストしています。\n\nこれは、すべての保存された場所を 1 つの屋根の下に組み合わせることができる、統合された「すべての保存された場所」スーパーリストを通じて実現できます。\n\nGoogle は、Ask Maps を使用して特定のリストについて議論する方法を簡素化するオプションもテストしています。\n\nGoogle マップは私たちの通勤に欠かせないものになっており、数え切れないほどの携帯電話ユーザーが頻繁に Google マップを利用しています。 Google マップには、数多くの気の利いた機能が用意されていますが、その中でも重要な場所や興味のある場所 (行きたい場所など) を保存したり、リストにまとめたりすることもできます。これらの保存された場所は、Google マップの [あなた] タブにカタログ化され、近くのエリアをスキャンしているときに実際の地図ビューにも表示されます。\n\n保存した内容がマップ上で混雑したくない場合は、保存内容を非表示にすることもできますが、現時点では、このオプションではリストごとに保存内容を非表示にする必要があります。このプロセスをもう少し簡単にするために、Google は現在、保存したすべての場所をマップ ビューから一…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/google-maps-ask-maps-chip-home-screen-image.jpg"
-    },
-    {
-      "Title": "HONOR Robot Phone の実践: 実際にこれほどうまく機能するなんて信じられません!",
-      "Link": "https://www.androidauthority.com/honor-robot-phone-hands-on-3697387/",
-      "Published": "2026-08-12T12:30:54Z",
-      "Source": "Android Authority",
-      "Category": "HUAWEI HONOR",
-      "Summary": "HONOR Robot Phone の実践: 実際にこれほどうまく機能するなんて信じられません!\n\n何ヶ月も何ヶ月もからかい続けた後、ついに HONOR Robot Phone を実際に触ってみる機会が得られました。これは非常に素晴らしいものです。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nHONOR Robot Phone の実践: 実際にこれほどうまく機能するなんて信じられません!\n\n0 • Google Discover でフォローしてください 優先ソースとして追加してください お気に入りのシリーズの最新スマートフォンの開発をフォローすることは、今日デビューする新しい Pixel 11 モデルの 1 つと同様かもしれません。発売までの数か月間、スペックに関する噂が飛び交うかもしれませんが、それを検討するだけでも、おそらくどのような種類のデバイスが期待されるかについて確かなアイデアを持っているでしょう。しかし、全く新しいことを本当に試みている携帯電話もあり、それらが市場に投入されるまでの道のりは、非常に興味深いものとなる可能性があります。\n\n昨年の 10 月から遡ること 1 年の大部分にわたって、HONOR は他に類を見ないカメラを搭載したスマートフォン、ロボットフォンをからかってきました。他のほとんどの場所で見られるように、ハンドセットの背面にカメラが固定されているのではなく、ロボットフォンのカメラは、DJI の Osmo Pocket シリーズなどのカメラでおなじみの、多関節ジンバル アームの端にあります。\n\n1 月の CES で、私たちはロボット フォンを初めて直接見ることができましたが、まだ完成品には程遠い状態でした。MWC が始まる頃には、ようやくハードウェアの動作を確認することができました。長い旅でしたが、この完全に機能する革新的なハードウェアを実際に試す機会が得られるため、その旅はついに終わりに近づいています。\n\nHONOR ロボットフォンについてどう思いますか?\n\n良い…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/honor-robot-phone-hands-on-2.jpg"
-    },
-    {
-      "Title": "私は有線の Android Auto と CarPlay に戻りましたが、重要な理由が 1 つあり、ワイヤレスを欠かさないようになりました。",
-      "Link": "https://www.xda-developers.com/i-switched-back-to-wired-android-auto-i-dont-miss-wireless-for-one-reason/",
-      "Published": "2026-08-12T12:30:10Z",
-      "Source": "XDA",
-      "Category": "Android Auto",
-      "Summary": "私は有線の Android Auto と CarPlay に戻りましたが、重要な理由が 1 つあり、ワイヤレスを欠かさないようになりました。\n\n一般に有線接続の信頼性は高く、外部アダプターを使用する場合はさらに信頼性が高くなります。\n\n私は有線の Android Auto と CarPlay に戻りましたが、重要な理由が 1 つあり、ワイヤレスを欠かさないようになりました。\n\nBy Kazim Alvi 公開 2026 年 8 月 12 日、午前 8 時 30 分 EDT テクノロジー業界で 5 年以上の経験を持つ Kazim は、複雑なトピックを単純化し、テクノロジー愛好家や一般読者が同様にアクセスできるようにすることに優れています。彼は、Windows 7 から Windows 11 まで、Windows エコシステムを幅広くカバーしています。執筆以外の時間には、週末の旅行を計画したり、専門知識を超えた技術分野に飛び込んだりしていることがわかります。 XDA アカウントにサインインする 私は過去 5 年間、非常に定期的かつ広範囲に CarPlay を使用してきましたが、ワイヤレス接続の必要性を感じた例はほんの数えるほどしかありませんでした。\n\nこれらも設計上の制限ではなく、むしろ私自身の間違いの結果でした。私はずっと、なぜ人々がワイヤレスの Android Auto や CarPlay をあたかも切望されている機能であるかのように宣伝するのか、まったく理解できませんでした。私も同感です。それが便利な場合もありますが、そのトレードオフは無視するにはあまりにも重大すぎると私は考えています。\n\n明確にするために、私の車はワイヤレス Android Auto または CarPlay をサポートしていませんが、ワイヤレス アダプターを数週間試してみました。そのとき、他のすべてと同じように、ここでも信頼性や全体的なエクスペリエンスの点で、有線接続が無線よりも優れていることに気づきました。それ以来、私はいつもトリクル充電するケーブルを使って同じ USB ポートに携帯電話を接続して…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/android-auto-header.jpg?w=1600\u0026h=900\u0026fit=crop"
     }
   ]
 }
