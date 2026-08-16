@@ -1,6 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sun, 16 Aug 2026 22:35:44 +0000</lastBuildDate>
+<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sun, 16 Aug 2026 23:33:26 +0000</lastBuildDate>
+<item><title>iPhoneのアラームが自動で止まる！ショートカットを使った自動停止のやり方</title><link>https://iphone-mania.jp/manual-604583/</link><guid isPermaLink="true">https://iphone-mania.jp/manual-604583/</guid><pubDate>Sun, 16 Aug 2026 23:32:00 +0000</pubDate><description><![CDATA[<p>iPhoneのアラームが自動で止まる！ショートカットを使った自動停止のやり方
+
+iPhoneのアラームは一度鳴り出すと15分以上鳴り続ける仕様になっており、ちょっと席を外した際にアラームが鳴ってしまうと非常に厄介です。今回は指定した秒数でアラームを止めるショートカットを紹介します。
+
+iPhoneのアラームが自動で止まる！ショートカットを使った自動停止のやり方
+
+iPhoneのアラームは一度鳴り出すと15分以上鳴り続ける仕様になっており、ちょっと席を外した際にアラームが鳴ってしまうと非常に厄介です。今回は指定した秒数でアラームを止めるショートカットを紹介します。
+
+「アラームを止める」という直接的なショートカットはありませんが、アラームが鳴っている時に「 時計 」アプリを開くとアラームが止まります。この仕様を使って「アプリを開く」で時計アプリを開くようにすることでショートカットを使用してアラームを止めることは可能です。
+
+しかし、ロック中に「アプリを開く」のショートカットは使えません。そこで、「時計」アプリのショートカットにある「 タブで開く 」を使用することにより ロック中でも時計アプリを開く ことが可能になります。
+
+オートメーションでは、アラームが「鳴ったとき」というトリガーはありませんが、アラームが「 オフになる 」をトリガーにすることで「鳴ったとき」と同じ動作になります。これはアラームが鳴った際にそのアラームが「オフになる」ためです。
+
+iPhoneがロック中の場合に時計のアラームタブを開くと、画面がついたままになるので「 画面をロック 」のアクションを入れています。
+
+このショートカットでアラームが止まると 「スヌーズ」もオフ になります。
+
+iPhoneの操作中はすぐに止められるので、 ロック中のみ作動 させます。
+
+今回は オートメーションの作成 からそのまま 新規ショートカットを作成 していきます。
+
+「 ショートカット 」アプリを開き、「 オートメーション 」タブを選択します。右上の「 ＋ 」または「 新規オートメーション 」をタップしてください。
+…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/08/17/f606e59cbc40bf60c996cea257ec7472.jpg" alt="iPhoneのアラームが自動で止まる！ショートカットを使った自動停止のやり方"></p>]]></description><source url="https://iphone-mania.jp/manual-604583/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/08/17/f606e59cbc40bf60c996cea257ec7472.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/08/17/f606e59cbc40bf60c996cea257ec7472.jpg"/></item>
+<item><title>Core Ultra Series 3搭載の「ASUS NUC 16 Pro」、2スロット厚のGeForce RTX 5070、USB4対応の10GbE有線LANアダプタ、曲面AMOLEDパネル搭載の360mm水冷クーラー ほか 秋葉原の気になるニュース（8月10日～16日分）</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2132804.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2132804.html</guid><pubDate>Sun, 16 Aug 2026 23:05:00 +0000</pubDate><description><![CDATA[<p>Core Ultra Series 3搭載の「ASUS NUC 16 Pro」、2スロット厚のGeForce RTX 5070、USB4対応の10GbE有線LANアダプタ、曲面AMOLEDパネル搭載の360mm水冷クーラー ほか 秋葉原の気になるニュース（8月10日～16日分）
+
+先週の気になる記事をピックアップ。
+
+Core Ultra Series 3搭載の「ASUS NUC 16 Pro」、2スロット厚のGeForce RTX 5070、USB4対応の10GbE有線LANアダプタ、曲面AMOLEDパネル搭載の360mm水冷クーラー ほか
+
+Core Ultra Series 3搭載の「ASUS NUC 16 Pro」ベアボーンキットが登場、計2モデル
+
+Intel Core Ultra Series 3プロセッサーを搭載したASUSのベアボーンキット「NUC 16 Pro（Kit）」が登場した。（ 続きを読む ）
+
+Ryzen 5 3500U搭載の組み込み向けミニPC「Maxtang T1-FP550」
+
+デジタルサイネージや組み込み向けのRyzen 5 3500U搭載PC「Maxtang T1-FP550」の法人向け受注をリンクスインターナショナルが開始した。納期は約3～4週間程度としている。（ 続きを読む ）
+
+PNYの2スロット厚ビデオカード「GeForce RTX 5070 12GB OC SLIM」が登場
+
+2スロット厚クーラーを採用したPNY製ビデオカード「GeForce RTX 5070 12GB OC SLIM（VCG507012DFSXPB1-O）」が発売された。（ 続きを読む ）
+
+USB4対応の10GbE有線LANアダプタがセンチュリーから
+
+USB Type-C接続の10GbE LANアダプタ「USB4 10GbE LAN adapter(CFULAN10G)」がセンチュリーから発売された。（ 続きを読む ）
+
+LexarのDDR5メモリ「THOR RGB 2nd Gen」が入荷、64GB×2枚組など3種類
+
+LexarのDDR5-6000…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2132/804/s1s1s1.jpg" alt="Core Ultra Series 3搭載の「ASUS NUC 16 Pro」、2スロット厚のGeForce RTX 5070、USB4対応の10GbE有線LANアダプタ、曲面AMOLEDパネル搭載の360mm水冷クーラー ほか 秋葉原の気になるニュース（8月10日～16日分）"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2132804.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2132/804/s1s1s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2132/804/s1s1s1.jpg"/></item>
+<item><title>折りたたみiPhoneの名前、「iPhone Ultra」でしっくりくる？Pro未満のスペックに感じる矛盾</title><link>https://gori.me/iphone/iphone-news/169022</link><guid isPermaLink="true">https://gori.me/iphone/iphone-news/169022</guid><pubDate>Sun, 16 Aug 2026 22:57:56 +0000</pubDate><description><![CDATA[<p>折りたたみiPhoneの名前、「iPhone Ultra」でしっくりくる？Pro未満のスペックに感じる矛盾
+
+「iPhone Ultra」という呼び名は、折りたたみiPhoneが最上位モデルになると思われていた頃の名残ではないか。望遠レンズもLiDARもない今のリークを見ると、Ultraを名乗るのは厳しい。Folioは使用済み、Foldはそのまま過ぎる。ならば何と呼ばれるのか、みんなの意見を聞きたい。
+
+折りたたみiPhoneの名前、「iPhone Ultra」でしっくりくる？Pro未満のスペックに感じる矛盾
+
+「社内でみんなUltraと呼んでいる」→だから？Folioは使用済み、Foldはそのまま過ぎる。ならば正解は何なのか
+
+折りたたみiPhoneはiPadが折りたためるようになったものではなく、あくまで大きな画面のiPhone。立ち位置はかつてのiPhone Plusに近い
+
+望遠レンズとLiDARはiPhone 17とiPhone 17 Proを分ける代表的な装備。それがない端末に最上位の看板は掛けにくい
+
+FolioはiPad用カバーで使用済み、Foldはそのまま過ぎる。消去法で候補が消え、正解が見えないまま発表を待つことになる
+
+Mark Gurman 氏の「 社内ではみんなUltraと呼んでいる 」という一言で、折りたたみiPhoneの名前は「 iPhone Ultra 」でほぼ決まり、という空気が一気に広がった。
+
+でも、僕はどうしてもこの名前に頷けない。理由はシンプルで、 今 リーク されているスペックの折りたたみiPhoneは、Appleがこれまで「Ultra」と呼んできた製品の条件を満たしていない からだ。
+
+好き嫌いの話ではない。Appleが自分で作ってきたルールに、この端末が当てはまっていないという話である。
+
+まず前提を確認しておこう。Apple…</p><p><img src="https://gori.me/uploads/2026/04/An-iPhone-Fold-may-be-called-iPhone-Ultra-2-800x434.jpg" alt="折りたたみiPhoneの名前、「iPhone Ultra」でしっくりくる？Pro未満のスペックに感じる矛盾"></p>]]></description><source url="https://gori.me/iphone/iphone-news/169022">gori.me</source><media:content url="https://gori.me/uploads/2026/04/An-iPhone-Fold-may-be-called-iPhone-Ultra-2-800x434.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/04/An-iPhone-Fold-may-be-called-iPhone-Ultra-2-800x434.jpg"/></item>
 <item><title>コンビニ4社、5,000円チャージで10%分のApple Gift Cardがもれなくもらえる</title><link>https://gori.me/sale/software-sale/169017</link><guid isPermaLink="true">https://gori.me/sale/software-sale/169017</guid><pubDate>Sun, 16 Aug 2026 22:19:16 +0000</pubDate><description><![CDATA[<p>コンビニ4社、5,000円チャージで10%分のApple Gift Cardがもれなくもらえる
 
 2026年8月17日から8月30日まで、セブン‐イレブン、ローソン、ファミリーマート、ミニストップの各レジでApple Accountに合計5,000円以上チャージして登録すると、チャージ金額の10%分のApple Gift Cardがもれなくもらえるキャンペーンが実施されている。店頭のカード購入は対象外。
@@ -50,6 +120,15 @@ Core i5-1135G7搭載の13.3型ノートPC「ThinkPad X13」が49,980円、パソ
 Core i5-1135G7(4コア/8スレッド)を搭載した13.3型ノートPC「ThinkPad X13」の中古品が、 パソコン工房の通販サイト で販売中。販売されているのは3か月保証が付いた中古品で、価格は49,980円となっています。
 
 主な仕様は、ディスプレイ解像度が1,920×1,200ドット、メモリが8GB、ストレージが256GB SSD、OSがWindows 11 Pro。このほか、Webカメラや無線LAN機能などを搭載しています。興味がある方はチェックしてみてください。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2132/866/a1.jpg" alt="Core i5-1135G7搭載の13.3型ノートPC「ThinkPad X13」が49,980円、パソコン工房で中古品が販売中"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2132866.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2132/866/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2132/866/a1.jpg"/></item>
+<item><title>【今すぐ読みたい！人気記事】Windows 10サポート終了で余るノートPCを「ChromeOS Flex」で蘇らせよう - PC Watch</title><link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2132978.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/topic/readitnow/2132978.html</guid><pubDate>Sun, 16 Aug 2026 21:21:00 +0000</pubDate><description><![CDATA[<p>【今すぐ読みたい！人気記事】Windows 10サポート終了で余るノートPCを「ChromeOS Flex」で蘇らせよう - PC Watch
+
+PC Watchの読者であれば、ちょっと古いPCが押し入れやデスクの片隅で眠っているという方も多いのではないだろうか。たとえば、筆者の場合、Lenovo ThinkPad E495などがその代表例である。このようなモデルはWindows 11にギリギリ対応している世代ではあるものの、動作が重く感じられたり、用途が見出せずに放置されたりしがちである。
+
+Windows 10サポート終了で余るノートPCを「ChromeOS Flex」で蘇らせよう
+
+PC Watchの読者であれば、ちょっと古いPCが押し入れやデスクの片隅で眠っているという方も多いのではないだろうか。たとえば、筆者の場合、Lenovo ThinkPad E495などがその代表例である。このようなモデルはWindows 11にギリギリ対応している世代ではあるものの、動作が重く感じられたり、用途が見出せずに放置されたりしがちである。
+
+Googleが提供する「ChromeOS Flex」を導入すれば軽快かつセキュアなクラウドベースのPCとして生まれ変わることができる。ChromeOS Flexは、旧世代のハードウェアでも快適に動作するように設計された軽量なオペレーティングシステムであり、Windowsに比べて動作が軽く、Web中心の作業に最適だ。よく考えたらPCでの作業はすべてブラウザしか使っていなかった……なんて読者には特におすすめできる選択肢と言えるだろう。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/978/1.jpg" alt="【今すぐ読みたい！人気記事】Windows 10サポート終了で余るノートPCを「ChromeOS Flex」で蘇らせよう - PC Watch"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/topic/readitnow/2132978.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/978/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/978/1.jpg"/></item>
 <item><title>メモリ価格高騰の鍵を握る中国CXMTとは？DDR5全振りの国策DRAM企業</title><link>https://pc.watch.impress.co.jp/docs/topic/feature/2132976.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/topic/feature/2132976.html</guid><pubDate>Sun, 16 Aug 2026 21:21:00 +0000</pubDate><description><![CDATA[<p>メモリ価格高騰の鍵を握る中国CXMTとは？DDR5全振りの国策DRAM企業
 
 最近、中国のメモリメーカーであるCXMT(ChangXin Memory Technologies)が話題になることが多い。今年のCOMPUTEXにおいては複数のDIMMモジュールベンダーがCXMTのDDR5を搭載した製品を展示しており、その後もAppleの急接近や7月27日のIPO(新規公開株)など話題は多い。
@@ -69,15 +148,6 @@ Core i5-1135G7(4コア/8スレッド)を搭載した13.3型ノートPC「ThinkPa
 CXMTは、中国語では长鑫存储という名称であるが、同社はいってみれば中国の国策企業として成立した側面が非常に強い。話は2015年に遡るが、当時の李克強国務院総理がMIC2025(Made In China 2025: 中国制造2025)という産業政策を打ち出したことが始まりである。
 
 これは2025年までに中国の工業の製造能力を高め、労…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/976/01a.jpg" alt="メモリ価格高騰の鍵を握る中国CXMTとは？DDR5全振りの国策DRAM企業"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/topic/feature/2132976.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/976/01a.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/976/01a.jpg"/></item>
-<item><title>【今すぐ読みたい！人気記事】Windows 10サポート終了で余るノートPCを「ChromeOS Flex」で蘇らせよう - PC Watch</title><link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2132978.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/topic/readitnow/2132978.html</guid><pubDate>Sun, 16 Aug 2026 21:21:00 +0000</pubDate><description><![CDATA[<p>【今すぐ読みたい！人気記事】Windows 10サポート終了で余るノートPCを「ChromeOS Flex」で蘇らせよう - PC Watch
-
-PC Watchの読者であれば、ちょっと古いPCが押し入れやデスクの片隅で眠っているという方も多いのではないだろうか。たとえば、筆者の場合、Lenovo ThinkPad E495などがその代表例である。このようなモデルはWindows 11にギリギリ対応している世代ではあるものの、動作が重く感じられたり、用途が見出せずに放置されたりしがちである。
-
-Windows 10サポート終了で余るノートPCを「ChromeOS Flex」で蘇らせよう
-
-PC Watchの読者であれば、ちょっと古いPCが押し入れやデスクの片隅で眠っているという方も多いのではないだろうか。たとえば、筆者の場合、Lenovo ThinkPad E495などがその代表例である。このようなモデルはWindows 11にギリギリ対応している世代ではあるものの、動作が重く感じられたり、用途が見出せずに放置されたりしがちである。
-
-Googleが提供する「ChromeOS Flex」を導入すれば軽快かつセキュアなクラウドベースのPCとして生まれ変わることができる。ChromeOS Flexは、旧世代のハードウェアでも快適に動作するように設計された軽量なオペレーティングシステムであり、Windowsに比べて動作が軽く、Web中心の作業に最適だ。よく考えたらPCでの作業はすべてブラウザしか使っていなかった……なんて読者には特におすすめできる選択肢と言えるだろう。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/978/1.jpg" alt="【今すぐ読みたい！人気記事】Windows 10サポート終了で余るノートPCを「ChromeOS Flex」で蘇らせよう - PC Watch"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/topic/readitnow/2132978.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/978/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/978/1.jpg"/></item>
 <item><title>【やじうまミニレビュー】Macは画面複製に注意！Ankerの“着脱ハブ付き”ドックは家の中でこそ真価を発揮する</title><link>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2132954.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2132954.html</guid><pubDate>Sun, 16 Aug 2026 21:17:00 +0000</pubDate><description><![CDATA[<p>【やじうまミニレビュー】Macは画面複製に注意！Ankerの“着脱ハブ付き”ドックは家の中でこそ真価を発揮する
 
 各種周辺機器をケーブル1本でまとめて接続できるドッキングステーションは本当に便利だ。自宅や会社に戻ったときも、外出するときも、ケーブル1本を抜き差しするだけ。この利便性は、一度味わったら元には戻れない。
@@ -2643,6 +2713,21 @@ Core i7-1185G7（4コア/8スレッド）搭載の13.3インチノート「LIFEB
 Microsoft Office Home 2024(最新 永続版)|オンラインコード
 
 Microsoft Office Home &amp; Business 2024(最新 永続版)|オンラインコード版</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2132/630/a1.jpg" alt="Core i7-1185G7や32GBメモリ搭載の13.3型「LIFEBOOK U9311/H」が72,800円！中古PCセール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2132630.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2132/630/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2132/630/a1.jpg"/></item>
+<item><title>(今週のコレオシ) OSアップ7年保証が強い！ペン付きハイエンドの「Galaxy S24 Ultra」がセールでお買い得</title><link>https://www.gdm.or.jp/crew/2026/0814/647698</link><guid isPermaLink="true">https://www.gdm.or.jp/crew/2026/0814/647698</guid><pubDate>Thu, 13 Aug 2026 23:00:19 +0000</pubDate><description><![CDATA[<p>(今週のコレオシ) OSアップ7年保証が強い！ペン付きハイエンドの「Galaxy S24 Ultra」がセールでお買い得
+
+ただいまイオシスでは、創業30周年を記念したビッグセールが始まったばかり。目玉品がけっこう揃ったお買い得なセールなんですが、その中から個人的にオススメしたいのが「Galaxy S24 Ultra」です。
+
+(今週のコレオシ) OSアップ7年保証が強い！ペン付きハイエンドの「Galaxy S24 Ultra」がセールでお買い得
+
+ただいまイオシスでは、創業30周年を記念したビッグセールが始まったばかり。目玉品がけっこう揃ったお買い得なセールなんですが、その中から個人的にオススメしたいのが 「Galaxy S24 Ultra」 です。2世代前のモデルとは言え、ペン入力できる最上位が10万円切り！しかもキズが少なくキレイめなBランク品ですから、状態を気にする方にもピッタリでしょう。
+
+この「Galaxy S24 Ultra」もそうですが、いまGalaxyの旧機種がすごく売れているんです。その大きな理由が、ズバリ7年間のOSアップデート保証。発売から7年後の2031年までのアップデートが保証されているので、Android 21（予定）まで使えるわけです。普通のスマホならその半分がせいぜい、ここまで手厚いのは本家のPixelを除けばGalaxyだけですよ。
+
+もちろんスペックもツヨツヨで、120Hz可変の3K有機ELやSnapdragon 8 Gen 3、メモリ12GBを搭載。長期のOSアップデート期間もバッチリ乗り切れる性能をもっています。さらに2億画素を含めたAI対応の4眼カメラは、下手な最新機種以上の優秀さ。使っていて型落ち感はほとんど感じないと思います。
+
+そんな高性能機が、期間限定とは言え10万円切りの99,800円ですよ。それほど大きく性能が変わらない「Galaxy S25 Ultra」の中古Bランク品と比べても5万円安い価格ですから、コスパの良さは抜群。ハイスペックなスマホを長く使いたいという人には、手放しにオススメなモデルですね。
+
+なお、セ…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/08/10/260814kore_01.jpg" alt="(今週のコレオシ) OSアップ7年保証が強い！ペン付きハイエンドの「Galaxy S24 Ultra」がセールでお買い得"></p>]]></description><source url="https://www.gdm.or.jp/crew/2026/0814/647698">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/08/10/260814kore_01.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/08/10/260814kore_01.jpg"/></item>
 <item><title>RazerRazer初のアルチザンキーキャップ「Triple-Headed Snake Edition」登場</title><link>https://www.gdm.or.jp/pressrelease/2026/0814/648081</link><guid isPermaLink="true">https://www.gdm.or.jp/pressrelease/2026/0814/648081</guid><pubDate>Thu, 13 Aug 2026 23:00:19 +0000</pubDate><description><![CDATA[<p>RazerRazer初のアルチザンキーキャップ「Triple-Headed Snake Edition」登場
 
 Razer初のアルチザンキーキャップ「Razer Artisan Keycap – Triple-Headed Snake Edition」が登場。トリプルヘッドスネークを立体造形し、塗装や組み立てなどを手作業で仕上げた数量限定モデル。国内価格は15,980円。
@@ -2662,21 +2747,6 @@ Razer（本社：アメリカ カリフォルニア州）は2026年8月13日（�
 また、素材にはレジンを採用。キーキャップ自体に透過性はなく、バックライトの光を透過する仕様ではない。外形寸法は約18 × 18 × 18mm、重量は約7g。
 
 文： 編集部 松枝…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/08/14/Triple-Headed_Snake_Edition_002.jpg" alt="RazerRazer初のアルチザンキーキャップ「Triple-Headed Snake Edition」登場"></p>]]></description><source url="https://www.gdm.or.jp/pressrelease/2026/0814/648081">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/08/14/Triple-Headed_Snake_Edition_002.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/08/14/Triple-Headed_Snake_Edition_002.jpg"/></item>
-<item><title>(今週のコレオシ) OSアップ7年保証が強い！ペン付きハイエンドの「Galaxy S24 Ultra」がセールでお買い得</title><link>https://www.gdm.or.jp/crew/2026/0814/647698</link><guid isPermaLink="true">https://www.gdm.or.jp/crew/2026/0814/647698</guid><pubDate>Thu, 13 Aug 2026 23:00:19 +0000</pubDate><description><![CDATA[<p>(今週のコレオシ) OSアップ7年保証が強い！ペン付きハイエンドの「Galaxy S24 Ultra」がセールでお買い得
-
-ただいまイオシスでは、創業30周年を記念したビッグセールが始まったばかり。目玉品がけっこう揃ったお買い得なセールなんですが、その中から個人的にオススメしたいのが「Galaxy S24 Ultra」です。
-
-(今週のコレオシ) OSアップ7年保証が強い！ペン付きハイエンドの「Galaxy S24 Ultra」がセールでお買い得
-
-ただいまイオシスでは、創業30周年を記念したビッグセールが始まったばかり。目玉品がけっこう揃ったお買い得なセールなんですが、その中から個人的にオススメしたいのが 「Galaxy S24 Ultra」 です。2世代前のモデルとは言え、ペン入力できる最上位が10万円切り！しかもキズが少なくキレイめなBランク品ですから、状態を気にする方にもピッタリでしょう。
-
-この「Galaxy S24 Ultra」もそうですが、いまGalaxyの旧機種がすごく売れているんです。その大きな理由が、ズバリ7年間のOSアップデート保証。発売から7年後の2031年までのアップデートが保証されているので、Android 21（予定）まで使えるわけです。普通のスマホならその半分がせいぜい、ここまで手厚いのは本家のPixelを除けばGalaxyだけですよ。
-
-もちろんスペックもツヨツヨで、120Hz可変の3K有機ELやSnapdragon 8 Gen 3、メモリ12GBを搭載。長期のOSアップデート期間もバッチリ乗り切れる性能をもっています。さらに2億画素を含めたAI対応の4眼カメラは、下手な最新機種以上の優秀さ。使っていて型落ち感はほとんど感じないと思います。
-
-そんな高性能機が、期間限定とは言え10万円切りの99,800円ですよ。それほど大きく性能が変わらない「Galaxy S25 Ultra」の中古Bランク品と比べても5万円安い価格ですから、コスパの良さは抜群。ハイスペックなスマホを長く使いたいという人には、手放しにオススメなモデルですね。
-
-なお、セ…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/08/10/260814kore_01.jpg" alt="(今週のコレオシ) OSアップ7年保証が強い！ペン付きハイエンドの「Galaxy S24 Ultra」がセールでお買い得"></p>]]></description><source url="https://www.gdm.or.jp/crew/2026/0814/647698">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/08/10/260814kore_01.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/08/10/260814kore_01.jpg"/></item>
 <item><title>Gemini 3.7 Flash登場。前モデルからわずか3週間、価格は半額</title><link>https://gori.me/google/google-news/168965</link><guid isPermaLink="true">https://gori.me/google/google-news/168965</guid><pubDate>Thu, 13 Aug 2026 22:47:18 +0000</pubDate><description><![CDATA[<p>Gemini 3.7 Flash登場。前モデルからわずか3週間、価格は半額
 
 Googleがコーディングとエージェント向けの主力モデル「Gemini 3.7 Flash」を発表した。前世代のGemini 3.6 Flashからわずか3週間での公開で、100万トークンあたりの費用は半額に。FrontierCodeやDeepSWEなど各種ベンチマークでも大幅なスコア向上を記録している。
@@ -2855,15 +2925,6 @@ GPUドライバを更新したらPCやゲームが不調に？スッキリさせ
 新しいビデオカードに挿し替えたら、なぜか画面が点滅したりマルチディスプレイの表示がおかしくなった。あるいはベンチマークテストや実際にゲームをプレイしても、本来発揮されるはずの性能に届かないことがある。もしくは、ドライバをアップデートしただけなのに、ゲームが不調になった。こんな経験があるユーザーは少なくないだろう。
 
 そんな時に検討したいのが、今回紹介する「Display Driver Uninstaller」(以下DDU)である。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/660/1.jpg" alt="【今すぐ読みたい！人気記事】GPUドライバを更新したらPCやゲームが不調に？スッキリさせる「DDU」の使い方 - PC Watch"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/topic/readitnow/2132660.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/660/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/660/1.jpg"/></item>
-<item><title>【今すぐ読みたい！人気記事】PC-9800シリーズ風の現代PCを作ってみよう！～5インチFDDは動くのかも試してみた - PC Watch</title><link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2132661.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/topic/readitnow/2132661.html</guid><pubDate>Thu, 13 Aug 2026 21:12:00 +0000</pubDate><description><![CDATA[<p>【今すぐ読みたい！人気記事】PC-9800シリーズ風の現代PCを作ってみよう！～5インチFDDは動くのかも試してみた - PC Watch
-
-SilverStoneが2023年に発表し、2025年2月に発売となった「FLP01」というケースをご存じだろうか。見ての通り、古のNECのPC-9800シリーズ、あるいはPC-8800シリーズ風デザインを彷彿とさせる、横置きデザインのATXケースだ。
-
-PC-9800シリーズ風の現代PCを作ってみよう！～5インチFDDは動くのかも試してみた
-
-SilverStoneが2023年に発表し、2025年2月に発売となった「FLP01」というケースをご存じだろうか。見ての通り、古のNECのPC-9800シリーズ、あるいはPC-8800シリーズ風デザインを彷彿とさせる、横置きデザインのATXケースだ。
-
-このケースは、5インチベイ部分のカバーが5インチFDドライブ風になっているのが特徴。そして上の段は実際の5インチベイ、下の段はカバーで開き、USBなどの前面インターフェイスになっている。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/661/1.jpg" alt="【今すぐ読みたい！人気記事】PC-9800シリーズ風の現代PCを作ってみよう！～5インチFDDは動くのかも試してみた - PC Watch"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/topic/readitnow/2132661.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/661/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/661/1.jpg"/></item>
 <item><title>Zoomの注釈機能に脆弱性、リモートコード実行などの恐れ。AI活用で発見に1日かからず</title><link>https://pc.watch.impress.co.jp/docs/news/2132649.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2132649.html</guid><pubDate>Thu, 13 Aug 2026 21:12:00 +0000</pubDate><description><![CDATA[<p>Zoomの注釈機能に脆弱性、リモートコード実行などの恐れ。AI活用で発見に1日かからず
 
 Web会議サービス「Zoom」の注釈機能に存在する脆弱性を、AIがあっという間に見つけ出した。A Securityは8月11日、Zoomのクライアントアプリに存在する脆弱性を報告した。リモートコード実行やサービス拒否攻撃につながる恐れがあるという。なお、ベンダーには6月に開示済みで、すでにパッチの提供も始まっている。
@@ -2877,6 +2938,15 @@ Web会議サービス「Zoom」の注釈機能に存在する脆弱性を、AI�
 攻撃者はこれを悪用し、会議の参加者すべてに対して悪意あるデータを送り込むことで、ゼロクリックでのリモートコード実行やサービス拒否攻撃を行なえるという。
 
 今回発見された脆弱性は、CVE-2026-53413(バッファオーバーライト)、CVE-2026-53414(バッファオーバーリード)、CVE-2026-53415(任意のメモリ書き込み)の3件。影響を受けるのは、バージョン7.0.5以前のWindows/macOS/iOS/Android/Linux版Zoomクライアント、バージョン7.1.5または7.0.6より前のZoom Workplaceクライアント。Zoomでは、いずれの場合も対策が施された最新版へアップデートするよう呼びか…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/649/01.jpg" alt="Zoomの注釈機能に脆弱性、リモートコード実行などの恐れ。AI活用で発見に1日かからず"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2132649.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/649/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/649/01.jpg"/></item>
+<item><title>【今すぐ読みたい！人気記事】PC-9800シリーズ風の現代PCを作ってみよう！～5インチFDDは動くのかも試してみた - PC Watch</title><link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2132661.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/topic/readitnow/2132661.html</guid><pubDate>Thu, 13 Aug 2026 21:12:00 +0000</pubDate><description><![CDATA[<p>【今すぐ読みたい！人気記事】PC-9800シリーズ風の現代PCを作ってみよう！～5インチFDDは動くのかも試してみた - PC Watch
+
+SilverStoneが2023年に発表し、2025年2月に発売となった「FLP01」というケースをご存じだろうか。見ての通り、古のNECのPC-9800シリーズ、あるいはPC-8800シリーズ風デザインを彷彿とさせる、横置きデザインのATXケースだ。
+
+PC-9800シリーズ風の現代PCを作ってみよう！～5インチFDDは動くのかも試してみた
+
+SilverStoneが2023年に発表し、2025年2月に発売となった「FLP01」というケースをご存じだろうか。見ての通り、古のNECのPC-9800シリーズ、あるいはPC-8800シリーズ風デザインを彷彿とさせる、横置きデザインのATXケースだ。
+
+このケースは、5インチベイ部分のカバーが5インチFDドライブ風になっているのが特徴。そして上の段は実際の5インチベイ、下の段はカバーで開き、USBなどの前面インターフェイスになっている。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/661/1.jpg" alt="【今すぐ読みたい！人気記事】PC-9800シリーズ風の現代PCを作ってみよう！～5インチFDDは動くのかも試してみた - PC Watch"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/topic/readitnow/2132661.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/661/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/661/1.jpg"/></item>
 <item><title>【やじうまミニレビュー】単に便利なだけじゃない。MoC方式でセキュアな指紋センサー「CR-FI50UBK」</title><link>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2132666.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2132666.html</guid><pubDate>Thu, 13 Aug 2026 21:09:00 +0000</pubDate><description><![CDATA[<p>【やじうまミニレビュー】単に便利なだけじゃない。MoC方式でセキュアな指紋センサー「CR-FI50UBK」
 
 エレコムは、USB接続のWindows Hello対応指紋認証リーダー2製品を発売した。USBケーブル接続型の「CR-FI50UBK」と、USB Type-A直挿し型の「CR-FI01UBK」で、接続方法が異なるだけで双方とも基本的な仕様は同等だ。今回はUSBケーブル接続型の「CR-FI50UBK」を取り上げ、製品の特徴などを紹介する。
@@ -3105,6 +3175,21 @@ Epic Games Store Caravan SandWitch
 筆者は自作PC歴20年以上の経験を持ち、Windows OSの細部にわたるカスタマイズや高度な設定、PCゲームの最適化、PCハードウェアとソフトウェアに関する専門知識をもとに、PC環境を快適にするための情報、不具合に遭わないようにするための情報、そして、ちょっとニッチよりなPCユーザー向け記事の執筆を2015年4月から11年にわたって行っています。
 
 長年の経験により得たノウハウを活かし、初心者から上級者まで幅広く対応できる情報を提供し、読者様のPCライフをより快適で充実したものにすることを目指しています。</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2026/08/caravan-sandwitch.jpg" alt="Epic Games Storeにて『Caravan SandWitch』が無料配布中。2026年8月21日AM0時まで"></p>]]></description><source url="https://www.nichepcgamer.com/archives/epic-games-free-caravan-sandwitch-through-august-21-2026-am0.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2026/08/caravan-sandwitch.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2026/08/caravan-sandwitch.jpg"/></item>
+<item><title>�Υ��󥿥ӥ塼�ϡ�Marvel��s Wolverine�פ������Τϡ�Insomniac�ʤ��ǤϤΥ����������������������㤷����Ʈ�����ƥ��ȡ����Ϥ������ʤ��鼫ʬ���Ȥ������򤯥��ȡ��꡼</title><link>https://www.4gamer.net/games/594/G059409/20260812052/</link><guid isPermaLink="true">https://www.4gamer.net/games/594/G059409/20260812052/</guid><pubDate>Thu, 13 Aug 2026 15:00:00 +0000</pubDate><description><![CDATA[<p>�Υ��󥿥ӥ塼�ϡ�Marvel��s Wolverine�פ������Τϡ�Insomniac�ʤ��ǤϤΥ����������������������㤷����Ʈ�����ƥ��ȡ����Ϥ������ʤ��鼫ʬ���Ȥ������򤯥��ȡ��꡼
+
+「Marvel’s Wolverine」では，不死身のミュータント・ウルヴァリンをどのように描くのか。開発陣4名にインタビューを実施した。
+
+［インタビュー］「Marvel’s Wolverine」が描くのは，Insomniacならではのウルヴァリン。生々しく激しい戦闘システムと，各地を巡りながら自分自身の謎を解くストーリー ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
+
+価格：スタンダードエディション：8980円（税込） デラックスエディション：9980円（税込）
+
+↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 夏は七不思議ならぬ“七不穏”で暑さを忘却の彼方へ――涼しくチルアウトできる終末，陰鬱，ディストピアな7つのゲーム ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ ひと夏の思い出に「桃鉄」100年プレイ。みんなで完走するための準備＆プレイガイド ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ Riot Gamesが明らかにしたアンチチートシステム「Vanguard」の仕組み。Windowsの進化に合わせてチート対策も強力に ↑アイコン/タイト…</p><p><img src="https://www.4gamer.net/games/594/G059409/20260812052/SS/005.jpg" alt="�Υ��󥿥ӥ塼�ϡ�Marvel��s Wolverine�פ������Τϡ�Insomniac�ʤ��ǤϤΥ����������������������㤷����Ʈ�����ƥ��ȡ����Ϥ������ʤ��鼫ʬ���Ȥ������򤯥��ȡ��꡼"></p>]]></description><source url="https://www.4gamer.net/games/594/G059409/20260812052/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/594/G059409/20260812052/SS/005.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/594/G059409/20260812052/SS/005.jpg"/></item>
 <item><title>Core Ultra Series 3搭載の「ASUS NUC 16 Pro」ベアボーンキットが登場、計2モデル</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2132575.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2132575.html</guid><pubDate>Thu, 13 Aug 2026 15:00:00 +0000</pubDate><description><![CDATA[<p>Core Ultra Series 3搭載の「ASUS NUC 16 Pro」ベアボーンキットが登場、計2モデル
 
 Intel Core Ultra Series 3プロセッサーを搭載したASUSのベアボーンキット「NUC 16 Pro（Kit）」が登場した。
@@ -3128,21 +3213,6 @@ Wi-Fi 7（BE211） + Bluetooth 6.0をサポートするほか、2.5GbE LAN（I22
 メモリスロットはCSODIMM×2（最大64GB×2）で、Core Ultra 7 356H搭載モデルはDDR5-7200、Core Ultra 5 325搭載モデルはDDR5-6400までサポートする。
 
 SSDスロットはPCIe 5.0x4接続M.2 228…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2132/575/s1_s.jpg" alt="Core Ultra Series 3搭載の「ASUS NUC 16 Pro」ベアボーンキットが登場、計2モデル"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2132575.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2132/575/s1_s.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2132/575/s1_s.jpg"/></item>
-<item><title>�Υ��󥿥ӥ塼�ϡ�Marvel��s Wolverine�פ������Τϡ�Insomniac�ʤ��ǤϤΥ����������������������㤷����Ʈ�����ƥ��ȡ����Ϥ������ʤ��鼫ʬ���Ȥ������򤯥��ȡ��꡼</title><link>https://www.4gamer.net/games/594/G059409/20260812052/</link><guid isPermaLink="true">https://www.4gamer.net/games/594/G059409/20260812052/</guid><pubDate>Thu, 13 Aug 2026 15:00:00 +0000</pubDate><description><![CDATA[<p>�Υ��󥿥ӥ塼�ϡ�Marvel��s Wolverine�פ������Τϡ�Insomniac�ʤ��ǤϤΥ����������������������㤷����Ʈ�����ƥ��ȡ����Ϥ������ʤ��鼫ʬ���Ȥ������򤯥��ȡ��꡼
-
-「Marvel’s Wolverine」では，不死身のミュータント・ウルヴァリンをどのように描くのか。開発陣4名にインタビューを実施した。
-
-［インタビュー］「Marvel’s Wolverine」が描くのは，Insomniacならではのウルヴァリン。生々しく激しい戦闘システムと，各地を巡りながら自分自身の謎を解くストーリー ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
-
-価格：スタンダードエディション：8980円（税込） デラックスエディション：9980円（税込）
-
-↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 夏は七不思議ならぬ“七不穏”で暑さを忘却の彼方へ――涼しくチルアウトできる終末，陰鬱，ディストピアな7つのゲーム ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ ひと夏の思い出に「桃鉄」100年プレイ。みんなで完走するための準備＆プレイガイド ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ Riot Gamesが明らかにしたアンチチートシステム「Vanguard」の仕組み。Windowsの進化に合わせてチート対策も強力に ↑アイコン/タイト…</p><p><img src="https://www.4gamer.net/games/594/G059409/20260812052/SS/005.jpg" alt="�Υ��󥿥ӥ塼�ϡ�Marvel��s Wolverine�פ������Τϡ�Insomniac�ʤ��ǤϤΥ����������������������㤷����Ʈ�����ƥ��ȡ����Ϥ������ʤ��鼫ʬ���Ȥ������򤯥��ȡ��꡼"></p>]]></description><source url="https://www.4gamer.net/games/594/G059409/20260812052/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/594/G059409/20260812052/SS/005.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/594/G059409/20260812052/SS/005.jpg"/></item>
 <item><title>折りたたみiPhone、米国で先行発売のウワサ</title><link>https://smhn.info/202608-apple-iphone-ultra-foldable-us-launch-australia</link><guid isPermaLink="true">https://smhn.info/202608-apple-iphone-ultra-foldable-us-launch-australia</guid><pubDate>Thu, 13 Aug 2026 14:47:37 +0000</pubDate><description><![CDATA[<p>折りたたみiPhone、米国で先行発売のウワサ
 
 歩留まり悪そう。Apple初の折りたたみ式iPhoneになると噂されている「iPhone Ultra（仮称）」は、iPhone 18 Proと同時に発表されたとしても、まず米国で発売される可能性があるようです。米国発売後、中国などの主要市場へ順次展開され、豪州での発売は米国より最...
@@ -4403,36 +4473,6 @@ Update: Single-cluster E-core cutdowns will retain the L3 cache configuration of
 “Nova Lake”の8 P-core + 12 E-coreモデルは36MBのL3 cacheを有する (2026/08/12)
 
 “Razor Lake-AX”の初期サポート…</p>]]></description><source url="https://northwood.blog.fc2.com/blog-entry-13174.html">北森瓦版</source></item>
-<item><title>最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」</title><link>https://pc.watch.impress.co.jp/docs/news/2132349.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2132349.html</guid><pubDate>Wed, 12 Aug 2026 14:00:00 +0000</pubDate><description><![CDATA[<p>最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」
-
-Googleは8月12日、新型の折りたたみスマートフォン「Google Pixel 11 Pro Fold」を発表した。Google Storeでの直販価格は27万9,900円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日より発売する。
-
-最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」
-
-Googleは8月12日、新型の折りたたみスマートフォン「Google Pixel 11 Pro Fold」を発表した。Google Storeでの直販価格は27万9,900円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日より発売する。
-
-Google Pixel 11 Pro Foldでは、同時に発表されたほかのGoogle Pixel 11シリーズと同様、最新の「Google Tensor G6」チップを搭載し、高い処理能力と高度なオンデバイスAI性能を備えている。折りたたみ時の厚さは10.1mm、広げた状態で5mmのスリムな筐体を実現し、重量は239gに抑えられている。
-
-カバーディスプレイは6.5型で、内側を開くと8型の大画面「Super Actua Flexディスプレイ」が広がる。また、Proモデルと同様に背面のカメラフラッシュ周辺にカラーLEDを内蔵した「HiLight」機能を搭載し、スマートフォンを伏せた状態でもGeminiの応答ステータスや登録した連絡先からの着信をやさしい光のカスタムカラーで通知してくれる。
-
-主な仕様として、プロセッサにはGoogle Tensor G6およびTitan M3セキュリティコプロセッサ、メモリは16GB、ストレージは256GBまたは512GBを備える。
-
-ディスプレイは、外側が6.5型のSuper Actuaディスプレイで解像度は1,080×2,342ドット、内側が8…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/349/3.png" alt="最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2132349.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/349/3.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/349/3.png"/></item>
-<item><title>CPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から</title><link>https://pc.watch.impress.co.jp/docs/news/2132345.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2132345.html</guid><pubDate>Wed, 12 Aug 2026 14:00:00 +0000</pubDate><description><![CDATA[<p>CPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から
-
-Googleは8月12日、新型の6.3型スマートフォン「Google Pixel 11」を発表した。Google Storeでの直販価格は13万6,800円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日に発売する。
-
-CPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から
-
-Googleは8月12日、新型の6.3型スマートフォン「Google Pixel 11」を発表した。Google Storeでの直販価格は13万6,800円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日に発売する。
-
-Pixel 11ではプロセッサに最新の「Google Tensor G6」を搭載。CPU性能の引き上げによってWebブラウジングが25%高速化し、アプリの起動速度が15%向上したほか、オンデバイスAIタスクを最大3.5倍高速に処理しながら、エネルギー消費量を最大3.5分の1に抑えている。最先端のオンデバイスモデル「Gemini Nano」を動かすのに最適としている。
-
-さらに、象徴的な背面カメラバーの厚さを従来モデルから40%削減し、純正のケースを装着した際に出っ張りをほとんど感じさせないフラットな形状に仕上げており、平らな場所に置いてもがたつきが発生しにくい設計とした。背面カメラには、新たに大型化した4,800万画素のメインセンサーを採用することで、光量の少ない厳しい環境での感度を56%向上させている。
-
-主な仕様は、プロセッサがGoogle Tensor G6およびTitan M3セキュリティコプロセッサ、メモリは12GB、ストレージは256GBまたは512GB。
-
-ディスプレイは6.3型のActuaディスプレイを採用し、解像度は1,080×2,424ドット、リフレッシュレートは60Hz～120Hz、最大輝度は2,000cd/平方m、ピーク輝度は3,0…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/345/1.png" alt="CPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2132345.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/345/1.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/345/1.png"/></item>
 <item><title>Tensor G6チップ搭載で120倍ズームや通知ライト対応の6.8型スマホ「Google Pixel 11 Pro XL」</title><link>https://pc.watch.impress.co.jp/docs/news/2131994.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2131994.html</guid><pubDate>Wed, 12 Aug 2026 14:00:00 +0000</pubDate><description><![CDATA[<p>Tensor G6チップ搭載で120倍ズームや通知ライト対応の6.8型スマホ「Google Pixel 11 Pro XL」
 
 Googleは8月12日、新型の6.8型スマートフォン「Google Pixel 11 Pro XL」を発表した。Google Storeでの直販価格は20万7,800円から。2026年8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日より発売する。
@@ -4448,23 +4488,6 @@ Google Pixel 11 Pro XLでは最新の「Google Tensor G6」チップを搭載し
 加えて、背面のカメラフラッシュ周辺がやさしく光ることで、通知を音を出さずに視覚的に確認できる「HiLight」機能を備える。充電機能が大幅に強化されており、別売りの45W以上のUSB Type-C充電器を用いることで、わずか15分間の有線充電を行なうだけで15時間のバッテリ駆動時間を確保できる。
 
 主な仕様として、プロセッサにはGoogle Tensor G6およびTitan M3セキュリティコプロセッサ、メモリは12GB(ストレージ256GB)または16GB(ストレージ512GB以上)、ストレージは256GB、512GB、または1TBを備える。OSはAndroid 17で、7年間のOS、セキュ…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2131/994/1.png" alt="Tensor G6チップ搭載で120倍ズームや通知ライト対応の6.8型スマホ「Google Pixel 11 Pro XL」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2131994.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2131/994/1.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2131/994/1.png"/></item>
-<item><title>Pixel 11の狙いはスマホへの没頭時間削減。Pixelは“気が利くAIエージェント”に</title><link>https://pc.watch.impress.co.jp/docs/news/2132417.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2132417.html</guid><pubDate>Wed, 12 Aug 2026 14:00:00 +0000</pubDate><description><![CDATA[<p>Pixel 11の狙いはスマホへの没頭時間削減。Pixelは“気が利くAIエージェント”に
-
-「画面への没頭」を避け「現実の時間を奪還する」。Googleの開発者が「Google Pixel 11」で念頭に置いた開発思想だ。字面だけだとまるで時代に逆行するかのようにも見えるが、そうではない。
-
-Pixel 11の狙いはスマホへの没頭時間削減。Pixelは“気が利くAIエージェント”に
-
-「画面への没頭」を避け「現実の時間を奪還する」。Googleの開発者が「Google Pixel 11」で念頭に置いた開発思想だ。字面だけだとまるで時代に逆行するかのようにも見えるが、そうではない。
-
-Pixel 11は潮流を見据え、AIエージェントスマホへの進化を先取りした。これまでユーザーがやっていた面倒な操作はエージェントが代行する。アプリの壁を越え、先回りしてエージェントが動作することも可能だ。
-
-こういった機能により、ユーザーの最小限の関与で、最大限の価値を提供する。その分、ユーザーは家族と友人との会話など現実の世界での行動に時間をより割けるようになる。これが『「画面への没頭」を避け「現実の時間を奪還する」』の意味するところだ。
-
-従来通り、Googleの独自SoCの世代が上がり「Tensor G6」へと進化した。こちらも過去数世代と共通で、一般的な演算性能やゲーム性能よりもAI性能の向上を重視しており、TPUの性能を50%高めたことで、デバイス上でのAI(Gemini Nano)の処理速度は最大3.5倍に高速化しつつ、エネルギー消費量は最大3.5分の1に抑えたという。
-
-このほか、Webブラウジング性能も25%、アプリの起動速度も15%高速化されている。
-
-一方、メモリについては、Pixel 11 Pro、Pixel 11Pro XLという上位モデルでも、ストレージ256GBモデ…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/417/01.jpg" alt="Pixel 11の狙いはスマホへの没頭時間削減。Pixelは“気が利くAIエージェント”に"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2132417.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/417/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/417/01.jpg"/></item>
 <item><title>最適なタイミングで起こしてくれる「Google Pixel Watch 5」</title><link>https://pc.watch.impress.co.jp/docs/news/2132424.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2132424.html</guid><pubDate>Wed, 12 Aug 2026 14:00:00 +0000</pubDate><description><![CDATA[<p>最適なタイミングで起こしてくれる「Google Pixel Watch 5」
 
 最適な睡眠サイクルで優しく起こしてくれる「スマートウェイクアラーム」。Googleの新スマートウォッチ「Google Pixel Watch 5」の新機能だ。Pixel Watch 5は、大きさとLTEの有無で4モデルが用意。価格は41mm/Wi-Fiが6万2,800円、41mm/LTEが7万9,800円、45mm/Wi-Fiが6万7,800円、45mm/LTEが8万4,800円。発売日はいずれも8月20日となる。
@@ -4482,6 +4505,21 @@ Pixel 11は潮流を見据え、AIエージェントスマホへの進化を先�
 さらに、買い物袋や傘を持っていたり、電車の吊り革を掴んでいたりして片手しか使えない状況で、片手のジェスチャーだけで、届いた通知を展開したり、消去(非表示に)したりできる。
 
 フィットネス面に関…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/424/03.jpg" alt="最適なタイミングで起こしてくれる「Google Pixel Watch 5」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2132424.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/424/03.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/424/03.jpg"/></item>
+<item><title>CPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から</title><link>https://pc.watch.impress.co.jp/docs/news/2132345.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2132345.html</guid><pubDate>Wed, 12 Aug 2026 14:00:00 +0000</pubDate><description><![CDATA[<p>CPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から
+
+Googleは8月12日、新型の6.3型スマートフォン「Google Pixel 11」を発表した。Google Storeでの直販価格は13万6,800円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日に発売する。
+
+CPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から
+
+Googleは8月12日、新型の6.3型スマートフォン「Google Pixel 11」を発表した。Google Storeでの直販価格は13万6,800円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日に発売する。
+
+Pixel 11ではプロセッサに最新の「Google Tensor G6」を搭載。CPU性能の引き上げによってWebブラウジングが25%高速化し、アプリの起動速度が15%向上したほか、オンデバイスAIタスクを最大3.5倍高速に処理しながら、エネルギー消費量を最大3.5分の1に抑えている。最先端のオンデバイスモデル「Gemini Nano」を動かすのに最適としている。
+
+さらに、象徴的な背面カメラバーの厚さを従来モデルから40%削減し、純正のケースを装着した際に出っ張りをほとんど感じさせないフラットな形状に仕上げており、平らな場所に置いてもがたつきが発生しにくい設計とした。背面カメラには、新たに大型化した4,800万画素のメインセンサーを採用することで、光量の少ない厳しい環境での感度を56%向上させている。
+
+主な仕様は、プロセッサがGoogle Tensor G6およびTitan M3セキュリティコプロセッサ、メモリは12GB、ストレージは256GBまたは512GB。
+
+ディスプレイは6.3型のActuaディスプレイを採用し、解像度は1,080×2,424ドット、リフレッシュレートは60Hz～120Hz、最大輝度は2,000cd/平方m、ピーク輝度は3,0…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/345/1.png" alt="CPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2132345.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/345/1.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/345/1.png"/></item>
 <item><title>Google、フラッシュ部が光って通知する6.3型スマホ「Google Pixel 11 Pro」</title><link>https://pc.watch.impress.co.jp/docs/news/2132347.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2132347.html</guid><pubDate>Wed, 12 Aug 2026 14:00:00 +0000</pubDate><description><![CDATA[<p>Google、フラッシュ部が光って通知する6.3型スマホ「Google Pixel 11 Pro」
 
 Googleは8月12日、新型の6.3型スマートフォン「Google Pixel 11 Pro」を発表した。Google Storeでの直販価格は17万4,800円から。8月12日よりオンライン、8月13日より店頭での予約販売を開始し、8月20日に発売する。
@@ -4497,6 +4535,38 @@ Google Pixel 11 Proは、最新の「Google Tensor G6」チップの搭載によ
 主な仕様として、プロセッサはGoogle Tensor G6およびTitan M3セキュリティコプロセッサ、メモリは12GB(ストレージ256GB)または16GB(ストレージ512GB以上)、ストレージは256GB、512GB、または1TB。
 
 ディスプレイは6.3型のSuper Actuaディスプレイを採用し、解像度は1,280×2,856ドット、リ…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/347/1.png" alt="Google、フラッシュ部が光って通知する6.3型スマホ「Google Pixel 11 Pro」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2132347.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/347/1.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/347/1.png"/></item>
+<item><title>Pixel 11の狙いはスマホへの没頭時間削減。Pixelは“気が利くAIエージェント”に</title><link>https://pc.watch.impress.co.jp/docs/news/2132417.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2132417.html</guid><pubDate>Wed, 12 Aug 2026 14:00:00 +0000</pubDate><description><![CDATA[<p>Pixel 11の狙いはスマホへの没頭時間削減。Pixelは“気が利くAIエージェント”に
+
+「画面への没頭」を避け「現実の時間を奪還する」。Googleの開発者が「Google Pixel 11」で念頭に置いた開発思想だ。字面だけだとまるで時代に逆行するかのようにも見えるが、そうではない。
+
+Pixel 11の狙いはスマホへの没頭時間削減。Pixelは“気が利くAIエージェント”に
+
+「画面への没頭」を避け「現実の時間を奪還する」。Googleの開発者が「Google Pixel 11」で念頭に置いた開発思想だ。字面だけだとまるで時代に逆行するかのようにも見えるが、そうではない。
+
+Pixel 11は潮流を見据え、AIエージェントスマホへの進化を先取りした。これまでユーザーがやっていた面倒な操作はエージェントが代行する。アプリの壁を越え、先回りしてエージェントが動作することも可能だ。
+
+こういった機能により、ユーザーの最小限の関与で、最大限の価値を提供する。その分、ユーザーは家族と友人との会話など現実の世界での行動に時間をより割けるようになる。これが『「画面への没頭」を避け「現実の時間を奪還する」』の意味するところだ。
+
+従来通り、Googleの独自SoCの世代が上がり「Tensor G6」へと進化した。こちらも過去数世代と共通で、一般的な演算性能やゲーム性能よりもAI性能の向上を重視しており、TPUの性能を50%高めたことで、デバイス上でのAI(Gemini Nano)の処理速度は最大3.5倍に高速化しつつ、エネルギー消費量は最大3.5分の1に抑えたという。
+
+このほか、Webブラウジング性能も25%、アプリの起動速度も15%高速化されている。
+
+一方、メモリについては、Pixel 11 Pro、Pixel 11Pro XLという上位モデルでも、ストレージ256GBモデ…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/417/01.jpg" alt="Pixel 11の狙いはスマホへの没頭時間削減。Pixelは“気が利くAIエージェント”に"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2132417.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/417/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/417/01.jpg"/></item>
+<item><title>最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」</title><link>https://pc.watch.impress.co.jp/docs/news/2132349.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2132349.html</guid><pubDate>Wed, 12 Aug 2026 14:00:00 +0000</pubDate><description><![CDATA[<p>最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」
+
+Googleは8月12日、新型の折りたたみスマートフォン「Google Pixel 11 Pro Fold」を発表した。Google Storeでの直販価格は27万9,900円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日より発売する。
+
+最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」
+
+Googleは8月12日、新型の折りたたみスマートフォン「Google Pixel 11 Pro Fold」を発表した。Google Storeでの直販価格は27万9,900円から。8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日より発売する。
+
+Google Pixel 11 Pro Foldでは、同時に発表されたほかのGoogle Pixel 11シリーズと同様、最新の「Google Tensor G6」チップを搭載し、高い処理能力と高度なオンデバイスAI性能を備えている。折りたたみ時の厚さは10.1mm、広げた状態で5mmのスリムな筐体を実現し、重量は239gに抑えられている。
+
+カバーディスプレイは6.5型で、内側を開くと8型の大画面「Super Actua Flexディスプレイ」が広がる。また、Proモデルと同様に背面のカメラフラッシュ周辺にカラーLEDを内蔵した「HiLight」機能を搭載し、スマートフォンを伏せた状態でもGeminiの応答ステータスや登録した連絡先からの着信をやさしい光のカスタムカラーで通知してくれる。
+
+主な仕様として、プロセッサにはGoogle Tensor G6およびTitan M3セキュリティコプロセッサ、メモリは16GB、ストレージは256GBまたは512GBを備える。
+
+ディスプレイは、外側が6.5型のSuper Actuaディスプレイで解像度は1,080×2,342ドット、内側が8…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/349/3.png" alt="最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2132349.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/349/3.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/349/3.png"/></item>
 <item><title>“Razor Lake-AX”の初期サポートがHWiNFOに追加される</title><link>https://northwood.blog.fc2.com/blog-entry-13173.html</link><guid isPermaLink="true">https://northwood.blog.fc2.com/blog-entry-13173.html</guid><pubDate>Wed, 12 Aug 2026 13:43:51 +0000</pubDate><description><![CDATA[<p>“Razor Lake-AX”の初期サポートがHWiNFOに追加される
 
 北森瓦版 - Northwood Blog (Author : 北森八雲. Since July 10, 2006.)
@@ -6158,17 +6228,6 @@ https://akiba-pc.watch.impress.co.jp/category/event/computex/
 COMPUTEXでMSIが超大型ケース「MEG MAESTRO 900R」をアピール。試作機は何度かお披露目されていましたが、今回展示されているモデルが販売版となるようです。同社のGODLIKEシリーズのマザーボードやLIGHTNINGシリーズのビデオカードを入れるとウルトラハイエンド！な凄いPCが組めます。 pic.twitter.com/guTMNXlklZ
 
 COMPUTEXで組み立てやすさをさらに推し進めたPCケース「MPG VIXTA 300R PZ」を公開。パネル類はワンタッチで外せる構造の部分が多く、メンテナンスのしやすさやPCの組みやすさを重視したモデル。前面パネルがガラスのモデルと空冷ファンのモデルの2種類が用意されています。 pic.twitter.…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2132/137/sss1.jpg" alt="COMPUTEXを振り返る、エグゼクティブなMSIの超大型ケースや、曲面ガラス採用のNZXT製新型ピラーレスケースなど(PCケース編その4)"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2132137.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2132/137/sss1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2132/137/sss1.jpg"/></item>
-<item><title>第9世代Core i5搭載のHP製デスクトップPC「ProDesk 600 G5 SF」が27,500円、Qualitの中古Cランク品セール</title><link>https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2131205.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2131205.html</guid><pubDate>Tue, 11 Aug 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>第9世代Core i5搭載のHP製デスクトップPC「ProDesk 600 G5 SF」が27,500円、Qualitの中古Cランク品セール
-
-Core i5-9500(6コア/6スレッド)を搭載したHP製デスクトップPC「ProDesk 600 G5 SF」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で特価販売中。
-
-第9世代Core i5搭載のHP製デスクトップPC「ProDesk 600 G5 SF」が27,500円、Qualitの中古Cランク品セール
-
-Core i5-9500(6コア/6スレッド)を搭載したHP製デスクトップPC「ProDesk 600 G5 SF」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で特価販売中 。
-
-今回販売されているのは、「傷や使用感が見られる」(同店)というCランク中古品で、販売価格は27,500円。保証期間は12か月となっています。
-
-主な仕様は、メモリが8GB(空きスロット×3)、ストレージが500GB SATA HDD、OSがWindows 11 Pro。インターフェイスには、DisplayPort×2やVGA、USB 3.1 Type-Cなどを備えるほか、書き込み対応DVDドライブを搭載しています。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2131/205/a1.jpg" alt="第9世代Core i5搭載のHP製デスクトップPC「ProDesk 600 G5 SF」が27,500円、Qualitの中古Cランク品セール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2131205.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2131/205/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2131/205/a1.jpg"/></item>
 <item><title>ガチくんに! 第428回切り抜き「大型調整後のグッパチ使用キャラを語るぷげら・ガチくん」</title><link>https://pc.watch.impress.co.jp/docs/news/2132131.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2132131.html</guid><pubDate>Tue, 11 Aug 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>ガチくんに! 第428回切り抜き「大型調整後のグッパチ使用キャラを語るぷげら・ガチくん」
 
 ※毎週木曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイター6攻略企画「ガチくんに!」をTwitchとYouTubeで配信しています。レギュラー出演者はぷげら、奥村茉実。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードした切り抜きとアーカイブの動画を掲載しています。
@@ -6180,6 +6239,17 @@ Core i5-9500(6コア/6スレッド)を搭載したHP製デスクトップPC「Pr
 8月6日の配信では、遠征から帰ってきたガチくん、ぷげらさんに、奥村さんを加えたレギュラー陣3名でEsports World Cupの感想戦を実施。後半では、8月3日に実装されたスト6の大型調整の内容や、新キャラ「ヤスミン」に触れつつ、グッパチのキャラクター選びなどについてトークしました。
 
 なお、機材トラブルのため、全編アーカイブの一部が途切れております。ご了承ください。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/131/01.jpg" alt="ガチくんに! 第428回切り抜き「大型調整後のグッパチ使用キャラを語るぷげら・ガチくん」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2132131.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/131/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/131/01.jpg"/></item>
+<item><title>第9世代Core i5搭載のHP製デスクトップPC「ProDesk 600 G5 SF」が27,500円、Qualitの中古Cランク品セール</title><link>https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2131205.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2131205.html</guid><pubDate>Tue, 11 Aug 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>第9世代Core i5搭載のHP製デスクトップPC「ProDesk 600 G5 SF」が27,500円、Qualitの中古Cランク品セール
+
+Core i5-9500(6コア/6スレッド)を搭載したHP製デスクトップPC「ProDesk 600 G5 SF」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で特価販売中。
+
+第9世代Core i5搭載のHP製デスクトップPC「ProDesk 600 G5 SF」が27,500円、Qualitの中古Cランク品セール
+
+Core i5-9500(6コア/6スレッド)を搭載したHP製デスクトップPC「ProDesk 600 G5 SF」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で特価販売中 。
+
+今回販売されているのは、「傷や使用感が見られる」(同店)というCランク中古品で、販売価格は27,500円。保証期間は12か月となっています。
+
+主な仕様は、メモリが8GB(空きスロット×3)、ストレージが500GB SATA HDD、OSがWindows 11 Pro。インターフェイスには、DisplayPort×2やVGA、USB 3.1 Type-Cなどを備えるほか、書き込み対応DVDドライブを搭載しています。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2131/205/a1.jpg" alt="第9世代Core i5搭載のHP製デスクトップPC「ProDesk 600 G5 SF」が27,500円、Qualitの中古Cランク品セール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2131205.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2131/205/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2131/205/a1.jpg"/></item>
 <item><title>大谷翔平の試合を”球場の中”から。Apple Vision Proで生中継</title><link>https://gori.me/apple-vision/168892</link><guid isPermaLink="true">https://gori.me/apple-vision/168892</guid><pubDate>Tue, 11 Aug 2026 01:34:36 +0000</pubDate><description><![CDATA[<p>大谷翔平の試合を”球場の中”から。Apple Vision Proで生中継
 
 大谷翔平を擁するドジャース対ジャイアンツ戦を含む全4試合が、Apple Vision Proの「Apple Immersive」でライブ配信される。8Kの180度3D映像と空間オーディオで球場の中にいる感覚を再現。Apple TV加入者向けに、8月29日午前8時から毎週土曜に配信する。
@@ -6307,6 +6377,21 @@ ChatGPTやGeminiなど6種類のAIを切り替えて使えるAIキーボード�
 対応AIは、プロジェクトページによるとChatGPT 5.4、Gemini 3.1、Claude 4.5、DeepSeek v4、Grok 4.1、Qwen 3.5 Plusの6種類。用途に合わせて切り替えて使用できるとしています。さらにアカウント登録は不要で、入力内容は本体やクラウドに保存されないとしています。
 
 そんな「Mi…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/08/10/MiMouse_02.jpg" alt="(次に来るモノ) ChatGPTやGeminiを1クリック。月額不要のAIキーボード「MiMouse」"></p>]]></description><source url="https://www.gdm.or.jp/crew/2026/0811/647801">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/08/10/MiMouse_02.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/08/10/MiMouse_02.jpg"/></item>
+<item><title>10ǯ����4Gamer�͵������򸫤褦��2016ǯ���ơۡ�Pok���mon GO̵�ФǤ�����DbD�͵������С��ե����ܺ��ѹ����Υ��󥿥ӥ塼��</title><link>https://www.4gamer.net/games/999/G999905/20260807022/</link><guid isPermaLink="true">https://www.4gamer.net/games/999/G999905/20260807022/</guid><pubDate>Mon, 10 Aug 2026 22:30:00 +0000</pubDate><description><![CDATA[<p>10ǯ����4Gamer�͵������򸫤褦��2016ǯ���ơۡ�Pok���mon GO̵�ФǤ�����DbD�͵������С��ե����ܺ��ѹ����Υ��󥿥ӥ塼��
+
+10年前のゲーム業界って，いったいなにが人気だった？　4Gamerの当時の人気記事から振り返ってみよう。【2016年・夏の6月〜8月ランキング】のトピックは，Pokémon GOにDbD，フロム・ソ…
+
+10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
+
+↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 夏は七不思議ならぬ“七不穏”で暑さを忘却の彼方へ――涼しくチルアウトできる終末，陰鬱，ディストピアな7つのゲーム ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ ひと夏の思い出に「桃鉄」100年プレイ。みんなで完走するための準備＆プレイガイド ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ Riot Gamesが明らかにしたアンチチートシステム「Vanguard」の仕組み。Windowsの進化に合わせてチート対策も強力に ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 「スプラトゥーン レイダース」初心者ガイド。これで“気がついたら囲まれていた”から卒…</p><p><img src="https://www.4gamer.net/games/999/G999905/20260807022/SS/001.jpg" alt="10ǯ����4Gamer�͵������򸫤褦��2016ǯ���ơۡ�Pok���mon GO̵�ФǤ�����DbD�͵������С��ե����ܺ��ѹ����Υ��󥿥ӥ塼��"></p>]]></description><source url="https://www.4gamer.net/games/999/G999905/20260807022/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/999/G999905/20260807022/SS/001.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/999/G999905/20260807022/SS/001.jpg"/></item>
 <item><title>COMPUTEXを振り返る、縦型で2システム搭載可能なThermaltakeのケースや、側面全体がモニターになったGIGABYTEのmicroATXケースなど(PCケース編その1)</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2132133.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2132133.html</guid><pubDate>Mon, 10 Aug 2026 22:30:00 +0000</pubDate><description><![CDATA[<p>COMPUTEXを振り返る、縦型で2システム搭載可能なThermaltakeのケースや、側面全体がモニターになったGIGABYTEのmicroATXケースなど(PCケース編その1)
 
 6月に開催されたPC/IT関連の見本市「COMPUTEX TAIPEI 2026」。今年も数多くの製品が発表され、弊誌でも記事やXへの投稿でご紹介しました。今回の記事では、Xに投稿した数多くのアイテムをジャンル分けし、COMPUTEXを振り返るかたちで改めてお届けします。
@@ -6324,21 +6409,6 @@ https://akiba-pc.watch.impress.co.jp/category/event/computex/
 GIGABYTE AORUS C510 GLASS INFINITY
 
 COMPUTEXのGIGABYTEブースに展示されていた「AORUS C510 GLASS INFINITY」。側面が全面表示パネルになったケースで、会場では実際に側面…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2132/133/sss1.jpg" alt="COMPUTEXを振り返る、縦型で2システム搭載可能なThermaltakeのケースや、側面全体がモニターになったGIGABYTEのmicroATXケースなど(PCケース編その1)"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2132133.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2132/133/sss1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2132/133/sss1.jpg"/></item>
-<item><title>10ǯ����4Gamer�͵������򸫤褦��2016ǯ���ơۡ�Pok���mon GO̵�ФǤ�����DbD�͵������С��ե����ܺ��ѹ����Υ��󥿥ӥ塼��</title><link>https://www.4gamer.net/games/999/G999905/20260807022/</link><guid isPermaLink="true">https://www.4gamer.net/games/999/G999905/20260807022/</guid><pubDate>Mon, 10 Aug 2026 22:30:00 +0000</pubDate><description><![CDATA[<p>10ǯ����4Gamer�͵������򸫤褦��2016ǯ���ơۡ�Pok���mon GO̵�ФǤ�����DbD�͵������С��ե����ܺ��ѹ����Υ��󥿥ӥ塼��
-
-10年前のゲーム業界って，いったいなにが人気だった？　4Gamerの当時の人気記事から振り返ってみよう。【2016年・夏の6月〜8月ランキング】のトピックは，Pokémon GOにDbD，フロム・ソ…
-
-10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
-
-↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 夏は七不思議ならぬ“七不穏”で暑さを忘却の彼方へ――涼しくチルアウトできる終末，陰鬱，ディストピアな7つのゲーム ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ ひと夏の思い出に「桃鉄」100年プレイ。みんなで完走するための準備＆プレイガイド ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ Riot Gamesが明らかにしたアンチチートシステム「Vanguard」の仕組み。Windowsの進化に合わせてチート対策も強力に ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 「スプラトゥーン レイダース」初心者ガイド。これで“気がついたら囲まれていた”から卒…</p><p><img src="https://www.4gamer.net/games/999/G999905/20260807022/SS/001.jpg" alt="10ǯ����4Gamer�͵������򸫤褦��2016ǯ���ơۡ�Pok���mon GO̵�ФǤ�����DbD�͵������С��ե����ܺ��ѹ����Υ��󥿥ӥ塼��"></p>]]></description><source url="https://www.4gamer.net/games/999/G999905/20260807022/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/999/G999905/20260807022/SS/001.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/999/G999905/20260807022/SS/001.jpg"/></item>
 <item><title>Core i5-1145G7+16GBメモリ搭載12.1型「Let&#39;s note」が49,980円、パソコン工房で中古品が販売中</title><link>https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2131784.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2131784.html</guid><pubDate>Mon, 10 Aug 2026 22:00:00 +0000</pubDate><description><![CDATA[<p>Core i5-1145G7+16GBメモリ搭載12.1型「Let&#39;s note」が49,980円、パソコン工房で中古品が販売中
 
 Core i5-1145G7(4コア/8スレッド)を搭載した12.1型ノートPC「CF-SV1RELKS」の中古品が、パソコン工房の通販サイトで販売中。販売されているのは3か月保証が付いた中古品で、価格は49,980円となっています。
@@ -7750,21 +7820,6 @@ MacRumors は、9月9日に発表した場合、 2015年 と同じ日程を踏�
 iPhoneをオンラインで購入 [AD] 楽天モバイル UQ mobile Y!mobile docomo au SoftBank IIJmio mineo Amazon
 
 Apple製品を購入 Apple公式ストア（Amazon） [AD]</p><p><img src="https://smhn.info/wp-content/uploads/2023/03/apple-logo-stoore.jpg" alt="Appleの次期iPhone発表会、9月9日開催が有力か"></p>]]></description><source url="https://smhn.info/202608-apple-iphone-iphone18-pro-foldable-event-september">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2023/03/apple-logo-stoore.jpg" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2023/03/apple-logo-stoore.jpg"/></item>
-<item><title>VAIO、PCカメラとAIで最短3秒の健康測定サービス。先行プレビュー版提供開始</title><link>https://pc.watch.impress.co.jp/docs/news/2131824.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2131824.html</guid><pubDate>Mon, 10 Aug 2026 01:00:00 +0000</pubDate><description><![CDATA[<p>VAIO、PCカメラとAIで最短3秒の健康測定サービス。先行プレビュー版提供開始
-
-PCは単なる仕事の道具から、ユーザーの健康を能動的に支えるパートナーへと進化しようとしているのか。VAIOは8月10日、PCのカメラで健康を確認するサービス「VAIOウェルネスケア」を発表した。本日より先行プレビュー版を提供している。
-
-VAIO、PCカメラとAIで最短3秒の健康測定サービス。先行プレビュー版提供開始
-
-PCは単なる仕事の道具から、ユーザーの健康を能動的に支えるパートナーへと進化しようとしているのか。VAIOは8月10日、PCのカメラで健康を確認するサービス「VAIOウェルネスケア」を発表した。本日より先行プレビュー版を提供している。
-
-VAIOウェルネスケアは、VAIOノートのWebカメラを使用した非接触AIセンシングで、血管情報(血管の負荷)と、心拍情報(心臓からの血流の速さ)を測定するサービス。血管/心拍情報の両方を、Webカメラで測定できる機能を標準搭載するPCとしては世界初という(2026年7月10日時点ステラアソシエ株式会社調べ)。
-
-測定フェーズでは、AIによる顔認識をCPU/NPUの並列処理で高速化しており、最短3秒でそれぞれ一括測定できる(測定環境によっては最大15秒)。具体的には、カメラ制御・画像処理・データ処理・UIをCPUが、顔検出(顔認識AI処理)をNPUが行なう。
-
-測定結果はその場で表示され、データはPCに自動的に保存される。これにより、過去1週間の推移を確認するなど、時系列での健康状態の確認が可能。VAIOはこのサービスを「測るアプリ」ではなく、「気づきのきっかけを作るアプリ」と定義しており、日常的にアクティビティケアを行なう習慣ができるとしている。
-
-現段階では、VAIOウェルネスケアを使用できる製品は今年(2026年)の5月に発売された個人向けの「VAIO SX14-R」(VJS4R2シリーズ)のみで、アプリは開発中の先行プレビュー版となる。秋以降に正式版を実装予定としており、順次個人と法人向けの新しいVAIO製品にも搭載されるという。…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2131/824/01.jpg" alt="VAIO、PCカメラとAIで最短3秒の健康測定サービス。先行プレビュー版提供開始"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2131824.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2131/824/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2131/824/01.jpg"/></item>
 <item><title>整備済みVAIO SX14が8万1,000円！8月10日の「VAIOの日」記念セール</title><link>https://pc.watch.impress.co.jp/docs/news/2131810.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2131810.html</guid><pubDate>Mon, 10 Aug 2026 01:00:00 +0000</pubDate><description><![CDATA[<p>整備済みVAIO SX14が8万1,000円！8月10日の「VAIOの日」記念セール
 
 8月10日はVAIOの日、同社社員が考案したバ(8)イ(1)オ(0)の語呂合わせにより、今年(2026年)からVAIOの記念日として定められた。VAIOの日では、オンライン花火大会、PCが当たるクイズキャンペーン、Reborn VAIOの数量限定販売など、さまざまな企画が実施される。
@@ -7784,6 +7839,21 @@ VAIOの日の特設サイト が用意されており、「VAIOを知る」を�
 このほか、一部ノジマ店舗内に設置されている「VAIO Shop in Shop」にて、VAIO製品を体験すると先着で100名に限定デザインの手ぬぐいが提供される。
 
 また、法人向けの企画もあり、人気の即配モデルを期間限定の特別価格で8月31日の17時まで提供する( 販売ページへのリンク )。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2131/810/04.jpg" alt="整備済みVAIO SX14が8万1,000円！8月10日の「VAIOの日」記念セール"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2131810.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2131/810/04.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2131/810/04.jpg"/></item>
+<item><title>VAIO、PCカメラとAIで最短3秒の健康測定サービス。先行プレビュー版提供開始</title><link>https://pc.watch.impress.co.jp/docs/news/2131824.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2131824.html</guid><pubDate>Mon, 10 Aug 2026 01:00:00 +0000</pubDate><description><![CDATA[<p>VAIO、PCカメラとAIで最短3秒の健康測定サービス。先行プレビュー版提供開始
+
+PCは単なる仕事の道具から、ユーザーの健康を能動的に支えるパートナーへと進化しようとしているのか。VAIOは8月10日、PCのカメラで健康を確認するサービス「VAIOウェルネスケア」を発表した。本日より先行プレビュー版を提供している。
+
+VAIO、PCカメラとAIで最短3秒の健康測定サービス。先行プレビュー版提供開始
+
+PCは単なる仕事の道具から、ユーザーの健康を能動的に支えるパートナーへと進化しようとしているのか。VAIOは8月10日、PCのカメラで健康を確認するサービス「VAIOウェルネスケア」を発表した。本日より先行プレビュー版を提供している。
+
+VAIOウェルネスケアは、VAIOノートのWebカメラを使用した非接触AIセンシングで、血管情報(血管の負荷)と、心拍情報(心臓からの血流の速さ)を測定するサービス。血管/心拍情報の両方を、Webカメラで測定できる機能を標準搭載するPCとしては世界初という(2026年7月10日時点ステラアソシエ株式会社調べ)。
+
+測定フェーズでは、AIによる顔認識をCPU/NPUの並列処理で高速化しており、最短3秒でそれぞれ一括測定できる(測定環境によっては最大15秒)。具体的には、カメラ制御・画像処理・データ処理・UIをCPUが、顔検出(顔認識AI処理)をNPUが行なう。
+
+測定結果はその場で表示され、データはPCに自動的に保存される。これにより、過去1週間の推移を確認するなど、時系列での健康状態の確認が可能。VAIOはこのサービスを「測るアプリ」ではなく、「気づきのきっかけを作るアプリ」と定義しており、日常的にアクティビティケアを行なう習慣ができるとしている。
+
+現段階では、VAIOウェルネスケアを使用できる製品は今年(2026年)の5月に発売された個人向けの「VAIO SX14-R」(VJS4R2シリーズ)のみで、アプリは開発中の先行プレビュー版となる。秋以降に正式版を実装予定としており、順次個人と法人向けの新しいVAIO製品にも搭載されるという。…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2131/824/01.jpg" alt="VAIO、PCカメラとAIで最短3秒の健康測定サービス。先行プレビュー版提供開始"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2131824.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2131/824/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2131/824/01.jpg"/></item>
 <item><title>【本日みつけたお買い得品】約8万8千円オフ！Core Ultra X7搭載ノートが特大セールに</title><link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2131823.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/todays_sales/2131823.html</guid><pubDate>Mon, 10 Aug 2026 00:38:32 +0000</pubDate><description><![CDATA[<p>【本日みつけたお買い得品】約8万8千円オフ！Core Ultra X7搭載ノートが特大セールに
 
 Amazonにおいて、16型ノートPCのLG「gram Pro 16」が直近価格から8万8,200円引きで、29万9,800円にて購入できる。
@@ -9085,45 +9155,4 @@ GB/GB互換機用カートリッジ『しましまディスクシステム』が
 そんなミニPCですが、購入では注意点もあります。現状、通販サイトに並ぶ製品はかなりの玉石混交です。国内代理店が付いているメーカーなら、製品情報の入手は容易で内容も正確、サポート体制も確保されている場合がほとんどです。一方、海外メーカー直販や小規模な通販限定の製品の場合は、“海外通販あるある”を覚悟する必要があることも。とはいえ、実際に手にしてみると、期待以上(期待値が低かった!?)の掘り出しモノもあるので、こういうショッピングはなかなか刺激的です。
 
 少々カオスなミニPCの世界ですが、本稿では、これからミニPCにチャレンジしてみようという方に向…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2131/744/top.jpg" alt="カオスの中にも宝あり！買い手の通販力も試される“ミニPC”の世界を覗いてみよう 価格帯別に仕様や特徴を整理、11製品をピックアップ text by  石川 ひさよし"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2131744.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2131/744/top.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2131/744/top.jpg"/></item>
-<item><title>【本日みつけたお買い得品】ロジクールの高級マウス「MX MASTER 4」が最安値！Amazonで3千円弱の割引</title><link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2131751.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/todays_sales/2131751.html</guid><pubDate>Sat, 08 Aug 2026 00:15:40 +0000</pubDate><description><![CDATA[<p>【本日みつけたお買い得品】ロジクールの高級マウス「MX MASTER 4」が最安値！Amazonで3千円弱の割引
-
-Amazonで、ロジクールのハイエンドマウス「MX MASTER4」(グラファイトの1年保証版)が2,920円引きの1万6,980円で販売されている。価格比較サイトでの価格を見ても最安値といえる(記事掲載時点)。
-
-ロジクールの高級マウス「MX MASTER 4」が最安値！Amazonで3千円弱の割引
-
-Amazonで、ロジクールのハイエンドマウス「MX MASTER4」(グラファイトの1年保証版)が2,920円引きの1万6,980円で販売されている。価格比較サイトでの価格を見ても最安値といえる(記事掲載時点)。
-
-MX MASTER 4は、人気シリーズの最新モデルとなるマウス。これまでの超高速ホイールスクロールや、親指でスクロールできるサムホイールに加え、触覚フィードバックといった新機能を搭載する。接続はBluetoothとUSBアダプタを介したLogi Bolt。バッテリを内蔵しており、USB Type-Cケーブルで充電可能。最長70日間動作する。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2131/751/01.jpg" alt="【本日みつけたお買い得品】ロジクールの高級マウス「MX MASTER 4」が最安値！Amazonで3千円弱の割引"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/todays_sales/2131751.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2131/751/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2131/751/01.jpg"/></item>
-<item><title>「iPhone 14 128GB」が58,880円、「第2世代iPhone SE 64GB」が18,880円！中古Bランク品セール</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2131711.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2131711.html</guid><pubDate>Sat, 08 Aug 2026 00:05:00 +0000</pubDate><description><![CDATA[<p>「iPhone 14 128GB」が58,880円、「第2世代iPhone SE 64GB」が18,880円！中古Bランク品セール
-
-Appleのスマートフォン「iPhone 14 128GB」と「第2世代iPhone SE 64GB」の中古品セールが、じゃんぱら秋葉原5号店で実施中です。
-
-「iPhone 14 128GB」が58,880円、「第2世代iPhone SE 64GB」が18,880円！中古Bランク品セール
-
-Appleのスマートフォン「iPhone 14 128GB」と「第2世代iPhone SE 64GB」の中古品セールが、 じゃんぱら秋葉原5号店 で実施中です。
-
-今回入荷したのは中古Bランク品で、価格はiPhone 14が58,880円、第2世代iPhone SEが18,880円。保証期間はいずれも1か月となっています。
-
-iPhone 14の主な仕様は、ディスプレイサイズが6.1インチ（解像度:2,532×1,170ピクセル）、搭載SoCがA15 Bionicチップ、充電コネクタがLightning、本体サイズが71.5×146.7×7.80mm、重量が172gなど。このほか、MagSafeをサポートし、今後配信される正式版「iOS 27」にも対応予定。
-
-第2世代iPhone SEの主な仕様は、ディスプレイ解像度が1,334×750ピクセル、搭載SoCがA13 Bionicチップ、充電コネクタがLightning、本体サイズが67.3×138.4×7.3mm、重量が148gなど。このほか、ホームボタンを備え、今後配信される正式版「iOS 27」にも対応予定。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2131/711/a2.jpg" alt="「iPhone 14 128GB」が58,880円、「第2世代iPhone SE 64GB」が18,880円！中古Bランク品セール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2131711.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2131/711/a2.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2131/711/a2.jpg"/></item>
-<item><title>Pixel Watch 5予告動画「俺らは丸い、ちゃんと時計に見える」→長年Apple Watchユーザーの俺「で？」</title><link>https://gori.me/google/pixel-news/168795</link><guid isPermaLink="true">https://gori.me/google/pixel-news/168795</guid><pubDate>Sat, 08 Aug 2026 00:02:02 +0000</pubDate><description><![CDATA[<p>Pixel Watch 5予告動画「俺らは丸い、ちゃんと時計に見える」→長年Apple Watchユーザーの俺「で？」
-
-Googleが現地時間8月12日の発表を前に、Pixel Watch 5のティザー動画を公開した。健康・睡眠・フィットネスを追跡しつつ「それでも時計に見える良識はある」と語る内容で、長方形のApple Watchやスクワークル型のGalaxy Watchを意識した一言だ。デザインは前モデルから変わらない。
-
-クイック Pixel Watch 5予告動画「俺らは丸い、ちゃんと時計に見える」→長年Apple Watchユーザーの俺「で？」
-
-GoogleがPixel Watch 5のティザー動画を公開、キャッチは「それでも時計に見える良識は持っている」
-
-長方形のApple Watch、スクワークル型のGalaxy Watchに対し、円形デザインを初めて明確にアピール
-
-外観はPixel Watch 4から変更なし、正式発表は現地時間8月12日（日本時間8月13日）
-
-Google が「Pixel Watch 5」のティザー動画を公開した。健康、睡眠、フィットネスを追跡できるスマートウォッチでありながら、「 それでもちゃんと時計に見える良識は持っている 」と語る、Appleや Samsung など、どちらかという”四角っぽい”形状を採用した他社を挑発するという、なかなか強気な内容になっている。
-
-9to5Google によると、 Google が競合に対してPixel Watchの円形デザインをここまで前面に押し出したのは、これが初めてとのこと。Apple Watchが長方形を貫き、Galaxy Watchが正方形と円形の中間のような形状へ完全に移行した中での一言だけに、狙いはかなり分かりやすい。
-
-確かに僕も丸い時計のほうが腕時計としては好みだが……丸ければ良いというわけでもない。逆に、丸さ以外のアピールポイントはなかったのか、と思ってしまう。いや、だからこそのティーザーだ。踊らされてるな……！
-
-動画では充電ピンも確認でき、外観のデザインは「Pixe…</p><p><img src="https://gori.me/uploads/2026/08/Google-Watch-Teaser-800x450.jpg" alt="Pixel Watch 5予告動画「俺らは丸い、ちゃんと時計に見える」→長年Apple Watchユーザーの俺「で？」"></p>]]></description><source url="https://gori.me/google/pixel-news/168795">gori.me</source><media:content url="https://gori.me/uploads/2026/08/Google-Watch-Teaser-800x450.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/08/Google-Watch-Teaser-800x450.jpg"/></item>
 </channel></rss>
