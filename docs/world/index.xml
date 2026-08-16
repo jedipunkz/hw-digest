@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sun, 16 Aug 2026 17:33:01 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sun, 16 Aug 2026 18:46:26 +0000</lastBuildDate>
+<item><title>ルーターのポート転送をやめたところ、セルフホスト型メッシュ VPN のおかげで、一晩で自宅の研究室が安全になりました</title><link>https://www.xda-developers.com/stopped-forwarding-ports-on-router-self-hosted-mesh-vpn-home-lab-safer/</link><guid isPermaLink="true">https://www.xda-developers.com/stopped-forwarding-ports-on-router-self-hosted-mesh-vpn-home-lab-safer/</guid><pubDate>Sun, 16 Aug 2026 18:30:10 +0000</pubDate><description><![CDATA[<p>ルーターのポート転送をやめたところ、セルフホスト型メッシュ VPN のおかげで、一晩で自宅の研究室が安全になりました
+
+最も安全なポートは、
+
+ルーターのポート転送をやめたところ、セルフホスト型メッシュ VPN のおかげで、一晩で自宅の研究室が安全になりました
+
+By Shekhar Vaidya 公開 2026 年 8 月 16 日、午後 2:30 EDT Shekhar Vaidya は、ベテランのテクノロジー ジャーナリストであり、コンピューター サイエンス エンジニアです。彼は Techlatest の創設者であり、ハードウェアと Windows エコシステムに関する技術分析を提供することに何年も費やしてきました。現在、XDA のコンピューティング ライターである Shekhar は、NAS、ストレージ ソリューション、PC 内部に関する深い背景を活用して、読者がテクノロジーを習得できるように支援します。 XDA アカウントにサインインします。ポート転送は、リモート アクセスのデフォルトの動作です。シンプルだから人々はそうするのです。私も同じ状況でした。以前は、リモートでアクセスしたいサービスごとにポートを開いていました。 「ルーターのポートを開いたらどうなるでしょうか?」という疑問は一度も頭をよぎりませんでした。
+
+ある晩、ER605 仮想サーバー リストにどれだけのルールが積み重なっているかを暗算していたとき、ほとんどのサービスが私以外の誰かを対象としたものではなかったにもかかわらず、すべてを公開していることに気づきました。私が解決策を探し始めたとき、NetBird と Pangolin に出会いました。その結果、完全に安全なホームラボは得られませんでしたが、爆発範囲は小さくなりました。
+
+転送されたすべてのポートは別のドアでした
+
+Homelab は、外部アクセスが必要になるまではシンプルなものです。私の場合、セルフホスト型サービスにリモート アクセスしたいときは常に、ルーターで新しいポートを開き、そのポートをそのサービスのローカル アドレスに転送しました…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/netbird-mesh-control-center-macbook.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="ルーターのポート転送をやめたところ、セルフホスト型メッシュ VPN のおかげで、一晩で自宅の研究室が安全になりました"></p>]]></description><source url="https://www.xda-developers.com/stopped-forwarding-ports-on-router-self-hosted-mesh-vpn-home-lab-safer/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/netbird-mesh-control-center-macbook.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/netbird-mesh-control-center-macbook.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>全輪駆動ロボット芝刈り機のレビューと比較: Dreame A3 AWD Pro と Mova LiDAX Ultra AWD</title><link>https://www.notebookcheck.net/All-wheel-drive-robotic-lawn-mowers-review-comparison-Dreame-A3-AWD-Pro-vs-Mova-LiDAX-Ultra-AWD.1370097.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/All-wheel-drive-robotic-lawn-mowers-review-comparison-Dreame-A3-AWD-Pro-vs-Mova-LiDAX-Ultra-AWD.1370097.0.html</guid><pubDate>Sun, 16 Aug 2026 18:23:00 +0000</pubDate><description><![CDATA[<p>全輪駆動ロボット芝刈り機のレビューと比較: Dreame A3 AWD Pro と Mova LiDAX Ultra AWD
+
+Dreame A3 AWD Pro と Mova LiDAX Ultra AWD — LiDAR を備えたこれら 2 つの全輪駆動ロボット芝刈り機のテストと比較。
+
+Dreame A3 AWD Pro 3500 テスト賞 Mova LiDAX Ultra AWD 1000 テスト賞 4 Dreame A3 AWD Pro 対 Mova LiDAX Ultra AWD テストの結論: 強力な全輪駆動ロボット芝刈り機
+
+予想通り、Dreame A3 AWD Pro と Mova LiDAX Ultra AWD はテストで多くの類似点を示しました。ロボット芝刈り機の設計はほぼ同じです。それにもかかわらず、彼らはヨーロッパの市場を効果的に二分しているため、実際の競争相手ではありません。 Mova が最大 2,000 平方メートルの庭園をカバーするのに対し、Dreame は最大 5,000 平方メートルの芝生を持つ不動産所有者をターゲットとしています。
+
+テストと比較では、両方の AWD ロボット芝刈り機が非常に良い印象を与えました。とりわけ、80% の勾配を処理するという約束された能力を十分に実証できなかったとしても、彼らは全輪駆動能力に感銘を受けました。ナビゲーションと障害物の検出は、ほとんどの部分で確実に機能しました。全体として、テストでは軽微な問題といくつかの批判点だけがマイナスに目立った。
+
+疑問は残ります。これら 2 つのロボット芝刈り機「モンスター」は誰にとって正しい選択なのでしょうか?カバーエリア (特に Dreame A3 AWD Pro の場合、これに匹敵するのは市場で数少ないモデル) に加えて、これらは主に起伏の多い地形の庭園を対象としています。そこが彼らの本当の力を発揮するところだ。しかし、デュアルカッティングシステムとバッテリー充電あたりの高いカバー範囲により、平らで手入れの行き届いた英国スタイルの芝生にとっても非常に魅力的です…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc4/Dreame-A3-AWD-Pro-vs.-Mova-LiDAX-Ultra-AWD-Test89.jpg" alt="全輪駆動ロボット芝刈り機のレビューと比較: Dreame A3 AWD Pro と Mova LiDAX Ultra AWD"></p>]]></description><source url="https://www.notebookcheck.net/All-wheel-drive-robotic-lawn-mowers-review-comparison-Dreame-A3-AWD-Pro-vs-Mova-LiDAX-Ultra-AWD.1370097.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc4/Dreame-A3-AWD-Pro-vs.-Mova-LiDAX-Ultra-AWD-Test89.jpg" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc4/Dreame-A3-AWD-Pro-vs.-Mova-LiDAX-Ultra-AWD-Test89.jpg"/></item>
+<item><title>Claude Code、Codex、Cursor はすべて過剰です。代わりに私が使用している軽量ツールは次のとおりです。</title><link>https://www.xda-developers.com/claude-code-codex-cursor-all-overkill-lightweight-alternative-i-use/</link><guid isPermaLink="true">https://www.xda-developers.com/claude-code-codex-cursor-all-overkill-lightweight-alternative-i-use/</guid><pubDate>Sun, 16 Aug 2026 18:00:10 +0000</pubDate><description><![CDATA[<p>Claude Code、Codex、Cursor はすべて過剰です。代わりに私が使用している軽量ツールは次のとおりです。
+
+このツールは異なる動作をします
+
+Claude Code、Codex、Cursor はすべて過剰です。代わりに私が使用している軽量ツールは次のとおりです。
+
+投稿者: Mahnoor Faisal 公開日 2026 年 8 月 16 日、午後 2:00 EDT Mahnoor Faisal は、XDA 、 SlashGear 、 MakeUseOf 、 Laptop Mag 、 Android Police で署名付きで AI と生産性ツールをカバーするテクノロジー ジャーナリストです。彼女は 16 歳の頃からプロとして執筆活動を行っており、それ以来何百もの記事を執筆してきました。これには、NotebookLM などの AI ツールから AI 分野全体の最新ニュースまでの詳細なカバレッジが含まれます。彼女のテクノロジーに対する情熱は、8 歳の誕生日に最初の iPod Touch (第 4 世代) を受け取ったときに始まり、それ以来テクノロジーの世界に深く関わってきました。現在、コンピューター サイエンスの学位取得を目指しているマフノール氏は、AI が私たちの働き方や学習方法をどのように再構築しているのかを取材する際に、ジャーナリストの目と技術的基礎の両方をもたらしています。 XDA アカウントにサインインする 従来の意味での開発者ではないにもかかわらず、皮肉なことに、AI ツールのおかげで私はコマンド ラインに全力を注ぐことができました。最初は時々実験するために Claude Code などのツールを使用していましたが、途中でそれらが最も頻繁に使用するアプリになりました。
+
+それ以来、私は Codex、Cursor、Aider、OpenCode など、あらゆる種類の代替手段を試してきました。それらはすべて特定のことを信じられないほどうまく実行しますが、私が実際に使用する目的の多くには、それらはすべて過剰であることに気づきました。これが、私が最終的に…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/claude-codex-and-cursor-on-macbook.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="Claude Code、Codex、Cursor はすべて過剰です。代わりに私が使用している軽量ツールは次のとおりです。"></p>]]></description><source url="https://www.xda-developers.com/claude-code-codex-cursor-all-overkill-lightweight-alternative-i-use/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/claude-codex-and-cursor-on-macbook.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/claude-codex-and-cursor-on-macbook.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>Valveの99ドルコントローラーはスティックドリフトの原因となる部品を取り除いているが、ソニーとマイクロソフトの主力製品はまだ取り除いていない</title><link>https://www.xda-developers.com/valve-controller-drops-part-stick-drift-sony-microsoft-havent/</link><guid isPermaLink="true">https://www.xda-developers.com/valve-controller-drops-part-stick-drift-sony-microsoft-havent/</guid><pubDate>Sun, 16 Aug 2026 17:30:10 +0000</pubDate><description><![CDATA[<p>Valveの99ドルコントローラーはスティックドリフトの原因となる部品を取り除いているが、ソニーとマイクロソフトの主力製品はまだ取り除いていない
 
 Valve はここでは時代を先取りしていますが、
@@ -794,17 +827,6 @@ Linux 開発の世界は現在、興味深い時期を迎えています。 AI �
 Simon Batt 著 公開 2026 年 8 月 15 日、午後 8 時 EDT Simon はコンピューター サイエンスの学士号を取得しており、2014 年からテクノロジーについて執筆しており、3.1 から Windows マシンを使用しています。インディーズ ゲーム スタジオで働き、コンピューターの問題全般に対応する家族の頼りになる技術者として活動した後、彼は文章を書くことへの情熱に気づき、自分のスキルセットをテクノロジーに関するあらゆることについて書くことに決めました。ライターとしてのキャリアを始めて以来、彼は WorldStart 、 Listverse 、 MakeTechEasier などのさまざまな出版物に執筆してきました。しかし、2019 年 2 月に MakeUseOf に居場所を見つけた後、最終的にはその姉妹サイトである XDA に移り、最新かつ最高の Windows、Linux、DIY 電子機器を提供することになりました。 XDA アカウントにサインインする オペレーティング システムのアクティビティ モニターを覗いたことがある場合は、OS の検索機能のためにすべてのインデックスを作成することを唯一の仕事とするバックグラウンド デーモンを見つけることができる可能性が高くなります。通常、それはそこに座って最善のことを行いますが、何か問題が発生すると、大量のリソースを消費することになる可能性があります。
 
 では、なぜ誰も、PC が検索用にすべてのインデックスを作成する、より優れた効率的な方法を発明しなかったのでしょうか?さて、誰かがすでにやったことが判明しました。実際、同社は 1995 年に、より洗練された検索機能をリリース…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/beos-boot.jpg?w=1600&amp;h=900&amp;fit=crop" alt="90 年代にはファイル検索を解決したという誰も聞いたことのない OS ですが、私たちはその優雅さを引き換えに肥大化してきました。"></p>]]></description><source url="https://www.xda-developers.com/an-os-nobody-heard-of-solved-file-search-in-the-90s-and-weve-traded-its-elegance-for-bloat/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/beos-boot.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/beos-boot.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>すべての Android スマートフォンで置き換える 5 つの Google アプリと、代わりに使用するアプリ</title><link>https://www.xda-developers.com/google-app-alternatives-on-android-phone/</link><guid isPermaLink="true">https://www.xda-developers.com/google-app-alternatives-on-android-phone/</guid><pubDate>Sat, 15 Aug 2026 23:00:10 +0000</pubDate><description><![CDATA[<p>すべての Android スマートフォンで置き換える 5 つの Google アプリと、代わりに使用するアプリ
-
-これらのアプリは、私がやるべきことを教えてくれました
-
-すべての Android スマートフォンで置き換える 5 つの Google アプリと、代わりに使用するアプリ
-
-By Megan Ellis Published Aug 15, 2026, 7:00 PM EDT Megan は、XDA Developers のソフトウェア ライターで、2016 年から消費者向けテクノロジーについて執筆しています。ニュー メディア ジャーナリズムの大学院の学位を取得した彼女は、常にトピックを深く掘り下げ、日常の消費者にとって理解しやすい方法で記事を書くことに情熱を注いでいます。彼女は Tech Valkyrie という自身のブログを運営しており、Tom&#39;s Guide と Android Authority に寄稿しています。彼女は MakeUseOf で主任編集者としても働いていました。余暇にはビデオ ゲームをしたり、最新のテクノロジーに興味を持っています。 XDA アカウントにサインインする Google には非常に優れた無料アプリがいくつかあるため、私は以前は同社のエコシステムに全面的に参加していました。私はまだ Google カレンダーや Gmail などのアプリにしっかりと定着していますが、より良い代替アプリを見つけたので、デバイス上の特定の Google アプリを置き換え始めました。
-
-これらのアプリは、より優れたプライバシーを提供する場合があります。また、単により良いエクスペリエンスを提供する場合もあります。その結果、これらは私が現在すべての Android スマートフォンで置き換えている Google アプリと、その機能を置き換えるために使用している代替アプリです。
-
-Chrome は私がスマートフォンで置き換えた最初の Google アプリでした。私の最初の動機は、フラグをいじらずに Web ページでダーク モードを強制できるアプリが必要だったという…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/google-apps-on-a-smartphone-screen.jpg?w=1600&amp;h=900&amp;fit=crop" alt="すべての Android スマートフォンで置き換える 5 つの Google アプリと、代わりに使用するアプリ"></p>]]></description><source url="https://www.xda-developers.com/google-app-alternatives-on-android-phone/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/google-apps-on-a-smartphone-screen.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/google-apps-on-a-smartphone-screen.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>蒸気の力で果物の皮をむく</title><link>https://hackaday.com/2026/08/15/peeling-fruit-with-the-power-of-steam/</link><guid isPermaLink="true">https://hackaday.com/2026/08/15/peeling-fruit-with-the-power-of-steam/</guid><pubDate>Sat, 15 Aug 2026 23:00:10 +0000</pubDate><description><![CDATA[<p>蒸気の力で果物の皮をむく
 
 蒸気動力はスチームパンクの美学、熱力学の定番であり、熱サイクルを研究する新進の機械エンジニアにとってチェックポイントです。しかし、食べ物は主に水でできているため、蒸気は常に存在します。
@@ -816,17 +838,17 @@ Chrome は私がスマートフォンで置き換えた最初の Google アプ�
 しかし、[Stuff Made Here’s] が残念なことに、インターネット上にそのプロセスのビデオはありませんでした。しかし、幸いなことに、複雑な機械のエンジニアである私たちにとっては、現在、以下で見ることができる機械が存在することを意味します。
 
 マシン自体は、少なくとも机上ではかなりシンプルです。これは、バルブによって果実室に接続されたボイラーと、果実室から蒸気を排出するための別のバルブで構成されます。ただし、1,000 kPa を超える蒸気に安全に耐えることができ、溶接がうまくできない場合に撮影用の窓を備えた圧力容器を設計することは、まったく別の問題です。ボイラーは、中央にシリンダーを備えた 2 枚のステンレス鋼板で構成されており、チャンバーを蒸気密に保つために面シールが使用されています。パイプの端をシールと嵌合するのに十分な平らに加工するには…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/fruitPeeler.jpg" alt="蒸気の力で果物の皮をむく"></p>]]></description><source url="https://hackaday.com/2026/08/15/peeling-fruit-with-the-power-of-steam/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/fruitPeeler.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/fruitPeeler.jpg"/></item>
-<item><title>MOKiN の 13-in-1 USB-C ドッキング ステーションには実際に便利なギミックがあり、私の Lenovo Legion Go を使えるデスクトップ PC に変えてくれました。</title><link>https://www.notebookcheck.net/MOKiN-s-13-in-1-USB-C-docking-station-has-an-actually-useful-gimmick-and-it-turned-my-Lenovo-Legion-Go-into-a-usable-desktop-PC.1369641.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/MOKiN-s-13-in-1-USB-C-docking-station-has-an-actually-useful-gimmick-and-it-turned-my-Lenovo-Legion-Go-into-a-usable-desktop-PC.1369641.0.html</guid><pubDate>Sat, 15 Aug 2026 22:40:00 +0000</pubDate><description><![CDATA[<p>MOKiN の 13-in-1 USB-C ドッキング ステーションには実際に便利なギミックがあり、私の Lenovo Legion Go を使えるデスクトップ PC に変えてくれました。
+<item><title>すべての Android スマートフォンで置き換える 5 つの Google アプリと、代わりに使用するアプリ</title><link>https://www.xda-developers.com/google-app-alternatives-on-android-phone/</link><guid isPermaLink="true">https://www.xda-developers.com/google-app-alternatives-on-android-phone/</guid><pubDate>Sat, 15 Aug 2026 23:00:10 +0000</pubDate><description><![CDATA[<p>すべての Android スマートフォンで置き換える 5 つの Google アプリと、代わりに使用するアプリ
 
-MOKiN MOPU1102 13-in-1 USB-C ドッキング ステーションの短い実践レビュー。Lenovo Legion Go および標準的なコンピューター周辺機器と組み合わせて、その構築品質、機能、実現可能性を探ります。テストの結果、メイン充電器の両方に役立つ十分な電力とポートがあることが判明し、詳細な充電インジケーターを備えた卓上充電器に簡単にアクセスできることが、バッテリーの劣化を防ぐ良い方法になる可能性があると著者は述べています。
+これらのアプリは、私がやるべきことを教えてくれました
 
-評決 - 高速充電を備えた堅牢で手頃な価格の USB-C ドッキング ステーション
+すべての Android スマートフォンで置き換える 5 つの Google アプリと、代わりに使用するアプリ
 
-ⓘ Notebookcheck/Julian van der Merwe MOKiN 13 in 1 USB C ドッキング ステーション HDMI ディスプレイ モード MOKiN 13-in-1 USB-C ドッキング ステーションは、特にメインの生産性ワークステーションとして薄型軽量ラップトップのようなものに依存している人、または Anker や Baseus などの大手ブランドのもう少し手頃な代替品を探している場合に、デスクトップ セットアップへの優れた追加です。日常的な使用例では、MOKiN USB-C ドッキング ステーションにはほとんどのユーザーのニーズを満たすのに十分な USB Type-C ポートがあり、デュアル HDMI 2.1 ディスプレイ出力の追加によりさらに便利になります。
+By Megan Ellis Published Aug 15, 2026, 7:00 PM EDT Megan は、XDA Developers のソフトウェア ライターで、2016 年から消費者向けテクノロジーについて執筆しています。ニュー メディア ジャーナリズムの大学院の学位を取得した彼女は、常にトピックを深く掘り下げ、日常の消費者にとって理解しやすい方法で記事を書くことに情熱を注いでいます。彼女は Tech Valkyrie という自身のブログを運営しており、Tom&#39;s Guide と Android Authority に寄稿しています。彼女は MakeUseOf で主任編集者としても働いていました。余暇にはビデオ ゲームをしたり、最新のテクノロジーに興味を持っています。 XDA アカウントにサインインする Google には非常に優れた無料アプリがいくつかあるため、私は以前は同社のエコシステムに全面的に参加していました。私はまだ Google カレンダーや Gmail などのアプリにしっかりと定着していますが、より良い代替アプリを見つけたので、デバイス上の特定の Google アプリを置き換え始めました。
 
-実際には、ドッキング ステーションを使用すると、有線マウスとキーボード、デュアル 4K 60 Hz ディスプレイ、薄型軽量またはゲーム用ハンドヘルドへの有線 GbE ネットワーク接続を追加する 1 本のケーブル接続が可能になります。後者が私の使用例でした。
+これらのアプリは、より優れたプライバシーを提供する場合があります。また、単により良いエクスペリエンスを提供する場合もあります。その結果、これらは私が現在すべての Android スマートフォンで置き換えている Google アプリと、その機能を置き換えるために使用している代替アプリです。
 
-MOKiN 13-in-1 USB-C ドッキング ステーションの唯一の大きな欠点は、3.5 m…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MOKiN-13-in-1-USB-C-charging-dock-review-teaser.jpg" alt="MOKiN の 13-in-1 USB-C ドッキング ステーションには実際に便利なギミックがあり、私の Lenovo Legion Go を使えるデスクトップ PC に変えてくれました。"></p>]]></description><source url="https://www.notebookcheck.net/MOKiN-s-13-in-1-USB-C-docking-station-has-an-actually-useful-gimmick-and-it-turned-my-Lenovo-Legion-Go-into-a-usable-desktop-PC.1369641.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MOKiN-13-in-1-USB-C-charging-dock-review-teaser.jpg" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MOKiN-13-in-1-USB-C-charging-dock-review-teaser.jpg"/></item>
+Chrome は私がスマートフォンで置き換えた最初の Google アプリでした。私の最初の動機は、フラグをいじらずに Web ページでダーク モードを強制できるアプリが必要だったという…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/google-apps-on-a-smartphone-screen.jpg?w=1600&amp;h=900&amp;fit=crop" alt="すべての Android スマートフォンで置き換える 5 つの Google アプリと、代わりに使用するアプリ"></p>]]></description><source url="https://www.xda-developers.com/google-app-alternatives-on-android-phone/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/google-apps-on-a-smartphone-screen.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/google-apps-on-a-smartphone-screen.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>GaN+ 充電器を内蔵したこの 13-in-1 USB-C ドッキング ステーションは、私の充電習慣をより良いものに変えました - レビュー</title><link>https://www.notebookcheck.net/This-13-in-1-USB-C-docking-station-with-built-in-GaN-charger-changed-my-charging-habits-for-the-better-a-review.1369641.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/This-13-in-1-USB-C-docking-station-with-built-in-GaN-charger-changed-my-charging-habits-for-the-better-a-review.1369641.0.html</guid><pubDate>Sat, 15 Aug 2026 22:40:00 +0000</pubDate><description><![CDATA[<p>GaN+ 充電器を内蔵したこの 13-in-1 USB-C ドッキング ステーションは、私の充電習慣をより良いものに変えました - レビュー
 
 MOKiN MOPU1102 13-in-1 USB-C ドッキング ステーションの短い実践レビュー。Lenovo Legion Go および標準的なコンピューター周辺機器と組み合わせて、その構築品質、機能、実現可能性を探ります。テストの結果、メイン充電器の両方に役立つ十分な電力とポートがあることが判明し、詳細な充電インジケーターを備えた卓上充電器に簡単にアクセスできることが、バッテリーの劣化を防ぐ良い方法になる可能性があると著者は述べています。
@@ -838,6 +860,17 @@ MOKiN MOPU1102 13-in-1 USB-C ドッキング ステーションの短い実践�
 実際には、ドッキング ステーションを使用すると、有線マウスとキーボード、デュアル 4K 60 Hz ディスプレイ、薄型軽量またはゲーム用ハンドヘルドへの有線 GbE ネットワーク接続を追加する 1 本のケーブル接続が可能になります。後者が私の使用例でした。
 
 MOKiN 13-in-1 USB-C ドッキング ステーションの唯一の大きな欠点は、3.5 mm ヘッドフォン ジャックと SD カード リー…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MOKiN-13-in-1-USB-C-charging-dock-review-teaser.jpg" alt="GaN+ 充電器を内蔵したこの 13-in-1 USB-C ドッキング ステーションは、私の充電習慣をより良いものに変えました - レビュー"></p>]]></description><source url="https://www.notebookcheck.net/This-13-in-1-USB-C-docking-station-with-built-in-GaN-charger-changed-my-charging-habits-for-the-better-a-review.1369641.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MOKiN-13-in-1-USB-C-charging-dock-review-teaser.jpg" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MOKiN-13-in-1-USB-C-charging-dock-review-teaser.jpg"/></item>
+<item><title>MOKiN の 13-in-1 USB-C ドッキング ステーションには実際に便利なギミックがあり、私の Lenovo Legion Go を使えるデスクトップ PC に変えてくれました。</title><link>https://www.notebookcheck.net/MOKiN-s-13-in-1-USB-C-docking-station-has-an-actually-useful-gimmick-and-it-turned-my-Lenovo-Legion-Go-into-a-usable-desktop-PC.1369641.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/MOKiN-s-13-in-1-USB-C-docking-station-has-an-actually-useful-gimmick-and-it-turned-my-Lenovo-Legion-Go-into-a-usable-desktop-PC.1369641.0.html</guid><pubDate>Sat, 15 Aug 2026 22:40:00 +0000</pubDate><description><![CDATA[<p>MOKiN の 13-in-1 USB-C ドッキング ステーションには実際に便利なギミックがあり、私の Lenovo Legion Go を使えるデスクトップ PC に変えてくれました。
+
+MOKiN MOPU1102 13-in-1 USB-C ドッキング ステーションの短い実践レビュー。Lenovo Legion Go および標準的なコンピューター周辺機器と組み合わせて、その構築品質、機能、実現可能性を探ります。テストの結果、メイン充電器の両方に役立つ十分な電力とポートがあることが判明し、詳細な充電インジケーターを備えた卓上充電器に簡単にアクセスできることが、バッテリーの劣化を防ぐ良い方法になる可能性があると著者は述べています。
+
+評決 - 高速充電を備えた堅牢で手頃な価格の USB-C ドッキング ステーション
+
+ⓘ Notebookcheck/Julian van der Merwe MOKiN 13 in 1 USB C ドッキング ステーション HDMI ディスプレイ モード MOKiN 13-in-1 USB-C ドッキング ステーションは、特にメインの生産性ワークステーションとして薄型軽量ラップトップのようなものに依存している人、または Anker や Baseus などの大手ブランドのもう少し手頃な代替品を探している場合に、デスクトップ セットアップへの優れた追加です。日常的な使用例では、MOKiN USB-C ドッキング ステーションにはほとんどのユーザーのニーズを満たすのに十分な USB Type-C ポートがあり、デュアル HDMI 2.1 ディスプレイ出力の追加によりさらに便利になります。
+
+実際には、ドッキング ステーションを使用すると、有線マウスとキーボード、デュアル 4K 60 Hz ディスプレイ、薄型軽量またはゲーム用ハンドヘルドへの有線 GbE ネットワーク接続を追加する 1 本のケーブル接続が可能になります。後者が私の使用例でした。
+
+MOKiN 13-in-1 USB-C ドッキング ステーションの唯一の大きな欠点は、3.5 m…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MOKiN-13-in-1-USB-C-charging-dock-review-teaser.jpg" alt="MOKiN の 13-in-1 USB-C ドッキング ステーションには実際に便利なギミックがあり、私の Lenovo Legion Go を使えるデスクトップ PC に変えてくれました。"></p>]]></description><source url="https://www.notebookcheck.net/MOKiN-s-13-in-1-USB-C-docking-station-has-an-actually-useful-gimmick-and-it-turned-my-Lenovo-Legion-Go-into-a-usable-desktop-PC.1369641.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MOKiN-13-in-1-USB-C-charging-dock-review-teaser.jpg" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MOKiN-13-in-1-USB-C-charging-dock-review-teaser.jpg"/></item>
 <item><title>MSI Claw 8 EX AI+ を 2 週間使用した後、これが ROG Xbox Ally X の最初の真のライバルであると確信しました</title><link>https://www.xda-developers.com/after-two-weeks-with-msi-claw-8-ex-ai-im-convinced-first-real-rival-to-rog-xbox-ally-x/</link><guid isPermaLink="true">https://www.xda-developers.com/after-two-weeks-with-msi-claw-8-ex-ai-im-convinced-first-real-rival-to-rog-xbox-ally-x/</guid><pubDate>Sat, 15 Aug 2026 22:00:10 +0000</pubDate><description><![CDATA[<p>MSI Claw 8 EX AI+ を 2 週間使用した後、これが ROG Xbox Ally X の最初の真のライバルであると確信しました
 
 MSI
@@ -1096,19 +1129,6 @@ Nvidia GPU の VRAM をシステム スワップとして使用したため、�
 By Joe Rice-Jones Published Aug 15, 2026, 12:00 PM EDT Maker、meme-r、そして恥ずかしがり屋のオタクである Joe は、2018 年に KnowTechie でキャリアをスタートして以来、テクノロジーについて執筆しています。彼は Apple からアプリ、クラウドファンディングまであらゆるものをカバーしており、複雑なトピックの本質に迫るのが大好きです。その間、彼は、2023 年の春に XDA に本拠地を置くまで、SlashGear や多数の法人顧客向けにも記事を書いていました。彼は、たとえ後で完全に元に戻らなかったとしても、すべてのおもちゃを分解して、どのように機能するかを確認する子供でした。これにより、複雑なシステムがどのように連携して機能するかを説明するための確かな背景が得られ、それ以来、物事を元に戻す段階でうまくなったと彼は約束します。 XDA アカウントにサインインする 私の Nvidia GeForce RTX 5090 には 32 GB の GDDR7 メモリが搭載されていますが、正直、PC の使用目的の 90% を無駄にしています。私は最近、その GPU の可能性を活用する新しい方法を見つけています。これは、ほとんどの場合 3.4 GB しか使用していないため、共有できるリソースが豊富にあるからです。 DDR5 の価格は高騰しており、私の WSL2 環境は、コンテナー、ビルド、および Windows 上で中断するトリッキーな LLM 作業を起動するたびにメモリに関して不平を言いますが、アイドル状態です。
 
 PC の最速のメモリを、デスクトップを描くことよりも重要なことに使用…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/rtx-5090-installed.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Nvidia GPU の VRAM をシステム スワップとして使用したため、追加のメモリを購入する必要がなくなりました"></p>]]></description><source url="https://www.xda-developers.com/used-my-nvidia-gpus-vram-as-system-swap-freed-me-from-buying-more-memory/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/rtx-5090-installed.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/rtx-5090-installed.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>Google マップが私の車では狭すぎる道を案内し続けるため、Waze に切り替えました</title><link>https://www.xda-developers.com/i-switched-to-waze-because-google-maps-keeps-routing-me-down-roads-too-narrow-for-my-car/</link><guid isPermaLink="true">https://www.xda-developers.com/i-switched-to-waze-because-google-maps-keeps-routing-me-down-roads-too-narrow-for-my-car/</guid><pubDate>Sat, 15 Aug 2026 15:30:10 +0000</pubDate><description><![CDATA[<p>Google マップが私の車では狭すぎる道を案内し続けるため、Waze に切り替えました
-
-Wazeは私の車が勝ったことを知っています
-
-Google マップが私の車では狭すぎる道を案内し続けるため、Waze に切り替えました
-
-By Dhruv Bhutani 公開 2026 年 8 月 15 日、午前 11:30 EDT Dhruv Bhutani は 2008 年以来消費者向けテクノロジーについて執筆しており、特集記事や意見記事を通じて個人向けテクノロジーの状況について深い洞察を提供しています。彼は XDA-Developers に執筆しており、生産性、ネットワーキング、セルフホスティングなどのトピックに重点を置いています。長年にわたり、彼の作品は Android Police、Android Authority、CNET、PCMag などの主要出版物にも掲載されてきました。専門的な仕事以外では、ドゥルヴは映画や文学などのホラー メディアの熱心なファンであり、フィットネス アクティビティを楽しんだり、レコードを収集したり、ギターを弾いたりしています。
-
-Google マップが優れたナビゲーション アプリであることは誰も否定できません。しかし、優れているとはいえ、あらゆる運転シナリオに対応できるわけではありません。正直に言うと、私が住んでいる場所での運転はまったくユニークな経験です。
-
-地図上では見栄えの良い道路でも、すぐにボトルネックになったり、SUV が通れないほど狭かったりする場合があります。 Google マップは、リアルタイムの交通情報を提供し、場所 A から場所 B に連れて行ってくれる点では優れていますが、安全に車で通れない通りに私を誘導するだけで渋滞に巻き込まれることがよくあります。
-
-そこで、代替手段を探していたところ、Waze がこの問題の解決に最適な特定の新機能を 1 つ追加したことを最近発見しました。 Waze では、運転している車両の種類を定義できるようになりました。それはバイク、車、さらにはタクシーである可能性があり、ナビゲーション方法を…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/waze-android-auto-header.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Google マップが私の車では狭すぎる道を案内し続けるため、Waze に切り替えました"></p>]]></description><source url="https://www.xda-developers.com/i-switched-to-waze-because-google-maps-keeps-routing-me-down-roads-too-narrow-for-my-car/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/waze-android-auto-header.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/waze-android-auto-header.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>443,000 台の Backblaze ハードドライブを対象としたピアレビュー調査では、HGST が最も信頼性が高く、東芝が最も信頼性が低いとランク付けされています — 最も信頼性の低いリストでは Seagate が僅差で 2 位となっています</title><link>https://www.tomshardware.com/pc-components/hdds/peer-reviewed-study-of-443000-backblaze-drivers-ranks-hgst-most-reliable-and-toshiba-least</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/hdds/peer-reviewed-study-of-443000-backblaze-drivers-ranks-hgst-most-reliable-and-toshiba-least</guid><pubDate>Sat, 15 Aug 2026 15:30:10 +0000</pubDate><description><![CDATA[<p>443,000 台の Backblaze ハードドライブを対象としたピアレビュー調査では、HGST が最も信頼性が高く、東芝が最も信頼性が低いとランク付けされています — 最も信頼性の低いリストでは Seagate が僅差で 2 位となっています
 
 166万駆動年を分析したところ、Seagateと東芝のHDDはWDやHGSTの約2倍の割合で故障していることが判明した。
@@ -1124,6 +1144,19 @@ Google マップが優れたナビゲーション アプリであることは誰
 フォトニクスと高速データ移動が AI の次の大きなボトルネックとなる
 
 データセンター…</p><p><img src="https://cdn.mos.cms.futurecdn.net/KCkcPUkkLXLzriAGq9iUrg-2560-80.jpg" alt="443,000 台の Backblaze ハードドライブを対象としたピアレビュー調査では、HGST が最も信頼性が高く、東芝が最も信頼性が低いとランク付けされています — 最も信頼性の低いリストでは Seagate が僅差で 2 位となっています"></p>]]></description><source url="https://www.tomshardware.com/pc-components/hdds/peer-reviewed-study-of-443000-backblaze-drivers-ranks-hgst-most-reliable-and-toshiba-least">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/KCkcPUkkLXLzriAGq9iUrg-2560-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/KCkcPUkkLXLzriAGq9iUrg-2560-80.jpg"/></item>
+<item><title>Google マップが私の車では狭すぎる道を案内し続けるため、Waze に切り替えました</title><link>https://www.xda-developers.com/i-switched-to-waze-because-google-maps-keeps-routing-me-down-roads-too-narrow-for-my-car/</link><guid isPermaLink="true">https://www.xda-developers.com/i-switched-to-waze-because-google-maps-keeps-routing-me-down-roads-too-narrow-for-my-car/</guid><pubDate>Sat, 15 Aug 2026 15:30:10 +0000</pubDate><description><![CDATA[<p>Google マップが私の車では狭すぎる道を案内し続けるため、Waze に切り替えました
+
+Wazeは私の車が勝ったことを知っています
+
+Google マップが私の車では狭すぎる道を案内し続けるため、Waze に切り替えました
+
+By Dhruv Bhutani 公開 2026 年 8 月 15 日、午前 11:30 EDT Dhruv Bhutani は 2008 年以来消費者向けテクノロジーについて執筆しており、特集記事や意見記事を通じて個人向けテクノロジーの状況について深い洞察を提供しています。彼は XDA-Developers に執筆しており、生産性、ネットワーキング、セルフホスティングなどのトピックに重点を置いています。長年にわたり、彼の作品は Android Police、Android Authority、CNET、PCMag などの主要出版物にも掲載されてきました。専門的な仕事以外では、ドゥルヴは映画や文学などのホラー メディアの熱心なファンであり、フィットネス アクティビティを楽しんだり、レコードを収集したり、ギターを弾いたりしています。
+
+Google マップが優れたナビゲーション アプリであることは誰も否定できません。しかし、優れているとはいえ、あらゆる運転シナリオに対応できるわけではありません。正直に言うと、私が住んでいる場所での運転はまったくユニークな経験です。
+
+地図上では見栄えの良い道路でも、すぐにボトルネックになったり、SUV が通れないほど狭かったりする場合があります。 Google マップは、リアルタイムの交通情報を提供し、場所 A から場所 B に連れて行ってくれる点では優れていますが、安全に車で通れない通りに私を誘導するだけで渋滞に巻き込まれることがよくあります。
+
+そこで、代替手段を探していたところ、Waze がこの問題の解決に最適な特定の新機能を 1 つ追加したことを最近発見しました。 Waze では、運転している車両の種類を定義できるようになりました。それはバイク、車、さらにはタクシーである可能性があり、ナビゲーション方法を…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/waze-android-auto-header.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Google マップが私の車では狭すぎる道を案内し続けるため、Waze に切り替えました"></p>]]></description><source url="https://www.xda-developers.com/i-switched-to-waze-because-google-maps-keeps-routing-me-down-roads-too-narrow-for-my-car/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/waze-android-auto-header.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/waze-android-auto-header.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>未来的な蚊取りレーザーが購入可能になり、ビデオで装置の動作が示されています - 個人用防空システムのように虫を撃墜する小型装置ですが、価格は 1,000 ドルです</title><link>https://www.tomshardware.com/peripherals/futuristic-mosquito-zapping-laser-now-available-to-buy-video-shows-device-in-action-tiny-device-shoots-down-bugs-like-a-personal-air-defense-system-but-costs-usd1-000</link><guid isPermaLink="true">https://www.tomshardware.com/peripherals/futuristic-mosquito-zapping-laser-now-available-to-buy-video-shows-device-in-action-tiny-device-shoots-down-bugs-like-a-personal-air-defense-system-but-costs-usd1-000</guid><pubDate>Sat, 15 Aug 2026 15:04:47 +0000</pubDate><description><![CDATA[<p>未来的な蚊取りレーザーが購入可能になり、ビデオで装置の動作が示されています - 個人用防空システムのように虫を撃墜する小型装置ですが、価格は 1,000 ドルです
 
 私のお金を取ってください！
@@ -1196,17 +1229,6 @@ Nvidia は優れた投資を行っています。
 
 SpaceX の xAI は、地球上と軌道上の AI データ センターで Nvidia…</p><p><img src="https://cdn.mos.cms.futurecdn.net/Kjestg9jiuvnbE868dhwjf-2560-80.jpg" alt="Nvidia、50億ドルのインテル株賭けを300億ドルの棚ぼたに変える—申請により新たに210億ドルのSpaceX株とArm株からの完全撤退が明らかに"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/nvidia-turns-usd5b-intel-stock-bet-into-usd30b-windfall-filing-reveals-new-usd21b-spacex-stake-and-complete-exit-from-arm-stock">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/Kjestg9jiuvnbE868dhwjf-2560-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/Kjestg9jiuvnbE868dhwjf-2560-80.jpg"/></item>
 <item><title>Linux support is coming to the reworked Epic Games Launcher, new app will run on Tauri instead of Unreal Engine</title><link>https://www.tweaktown.com/rss/click/news/113119/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113119/?c=news-mf</guid><pubDate>Sat, 15 Aug 2026 14:05:06 +0000</pubDate><description><![CDATA[<p>Linux support is coming to the reworked Epic Games Launcher, new app will run on Tauri instead of Unreal Engine</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113119/?c=news-mf">TweakTown</source></item>
-<item><title>完全に特性化されたシステム</title><link>https://hackaday.com/2026/08/15/fully-characterized-systems/</link><guid isPermaLink="true">https://hackaday.com/2026/08/15/fully-characterized-systems/</guid><pubDate>Sat, 15 Aug 2026 14:00:10 +0000</pubDate><description><![CDATA[<p>完全に特性化されたシステム
-
-私の昔のハッカースペースの友人は電気工学の大学院に通っていた。彼の教授には、学生のプロジェクトで何か問題が起こったとき、「この問題を完全に特徴づけましたか?」と尋ねられる人がいました。
-
-私の昔のハッカースペースの友人は電気工学の大学院に通っていた。彼の教授には、学生プロジェクトで何か問題が発生したとき、「システムの特性を十分に理解しましたか?」と尋ねられる人がいました。これは高い目標ではあるが、良い目標ではあるが、約 95% の確率で YOLO が MO だったため、ハッカー業界内での冗談にもなった。 3D プリンターでヘッドがクラッシュ – 「完全に特性化されていない」。先週末ゴミ出しを忘れましたか？システムは完全に特性化されましたか?
-
-それはおそらく、理論と実践の違いでもあります。理論的には、理論と実践の間に違いはなく、すべてのシステムを完全に特徴付けることができます。しかし実際には、まだ完全に理解していないシステムを完全に特徴付けるのは困難です。
-
-好例: うちの前庭には9本の小さな苗木が生えているので、それらに水をやる必要があります。木から木へとホースを移動させるのは退屈なので、ある長さのホースを用意して、片方の端で栓をし、すべての木に一度に水をまくことができるように十分な穴を開けようと思いました。私はこのシステムを少し特徴づけました。ホースを通る 1 分間あたりの水の量を計算し、それを頭の中で妥当な流出量に分割し、ドリルで穴を開けましたが、結果的に大きすぎました。
-
-なぜですか？なぜなら、ホースの長さには流れに対する抵抗があり、最初のいくつかの穴からは水が流れ出ますが、最後のいくつかの穴は乾いていたからです。私が思っていたような一定の圧力システムではありませんでした。ホース内の抵抗が重要になるとは思ってもいなかったので、測定しようとするわけがありませんでした。しかし、とにかくこの抵抗をどのように特徴づければよいでしょうか?大きすぎる穴を備えたホースを作成し、減衰を測定することもできます。 （おっと、それはまさに私がやったことで…</p><p><img src="https://hackaday.com/wp-content/uploads/2020/05/Automation.jpg" alt="完全に特性化されたシステム"></p>]]></description><source url="https://hackaday.com/2026/08/15/fully-characterized-systems/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2020/05/Automation.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2020/05/Automation.jpg"/></item>
 <item><title>私のバックアップ戦略全体は、70 ドルの外部ドライブと 2 つのスケジュールされたコマンドです。</title><link>https://www.xda-developers.com/my-entire-backup-strategy-cheap-drive-two-commands/</link><guid isPermaLink="true">https://www.xda-developers.com/my-entire-backup-strategy-cheap-drive-two-commands/</guid><pubDate>Sat, 15 Aug 2026 14:00:10 +0000</pubDate><description><![CDATA[<p>私のバックアップ戦略全体は、70 ドルの外部ドライブと 2 つのスケジュールされたコマンドです。
 
 退屈だし、安いし、それでがっかりしたことは一度もありません。
@@ -1218,6 +1240,17 @@ By Korbin Brown 公開 2026 年 8 月 15 日、午前 10:00 EDT Korbin は、物
 私のバックアップ戦略全体は、70 ドル以下のポータブル ハード ドライブと、スケジュールに従って実行される 2 つの rsync コマンドです。これらは一緒に 3-2-1 ルールを満たします。つまり、私の作業用コピー、外部ドライブ上の別のローカル コピー、およびレンタル ストレージ VPS 上にあるオフサイト コピーです。全体のセットアップは非常にシンプルで、GUI、専用ソフトウェア、クラウド サブスクリプションは必要ありません。
 
 数年間そのように動作しており、そこから2回正常に復元しました。バックアップはそれほど複雑である必要はありません。全体の構成は数行…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/external-hdd-hard-drive-seagate-pc.jpg?w=1600&amp;h=900&amp;fit=crop" alt="私のバックアップ戦略全体は、70 ドルの外部ドライブと 2 つのスケジュールされたコマンドです。"></p>]]></description><source url="https://www.xda-developers.com/my-entire-backup-strategy-cheap-drive-two-commands/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/external-hdd-hard-drive-seagate-pc.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/external-hdd-hard-drive-seagate-pc.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>完全に特性化されたシステム</title><link>https://hackaday.com/2026/08/15/fully-characterized-systems/</link><guid isPermaLink="true">https://hackaday.com/2026/08/15/fully-characterized-systems/</guid><pubDate>Sat, 15 Aug 2026 14:00:10 +0000</pubDate><description><![CDATA[<p>完全に特性化されたシステム
+
+私の昔のハッカースペースの友人は電気工学の大学院に通っていた。彼の教授には、学生のプロジェクトで何か問題が起こったとき、「この問題を完全に特徴づけましたか?」と尋ねられる人がいました。
+
+私の昔のハッカースペースの友人は電気工学の大学院に通っていた。彼の教授には、学生プロジェクトで何か問題が発生したとき、「システムの特性を十分に理解しましたか?」と尋ねられる人がいました。これは高い目標ではあるが、良い目標ではあるが、約 95% の確率で YOLO が MO だったため、ハッカー業界内での冗談にもなった。 3D プリンターでヘッドがクラッシュ – 「完全に特性化されていない」。先週末ゴミ出しを忘れましたか？システムは完全に特性化されましたか?
+
+それはおそらく、理論と実践の違いでもあります。理論的には、理論と実践の間に違いはなく、すべてのシステムを完全に特徴付けることができます。しかし実際には、まだ完全に理解していないシステムを完全に特徴付けるのは困難です。
+
+好例: うちの前庭には9本の小さな苗木が生えているので、それらに水をやる必要があります。木から木へとホースを移動させるのは退屈なので、ある長さのホースを用意して、片方の端で栓をし、すべての木に一度に水をまくことができるように十分な穴を開けようと思いました。私はこのシステムを少し特徴づけました。ホースを通る 1 分間あたりの水の量を計算し、それを頭の中で妥当な流出量に分割し、ドリルで穴を開けましたが、結果的に大きすぎました。
+
+なぜですか？なぜなら、ホースの長さには流れに対する抵抗があり、最初のいくつかの穴からは水が流れ出ますが、最後のいくつかの穴は乾いていたからです。私が思っていたような一定の圧力システムではありませんでした。ホース内の抵抗が重要になるとは思ってもいなかったので、測定しようとするわけがありませんでした。しかし、とにかくこの抵抗をどのように特徴づければよいでしょうか?大きすぎる穴を備えたホースを作成し、減衰を測定することもできます。 （おっと、それはまさに私がやったことで…</p><p><img src="https://hackaday.com/wp-content/uploads/2020/05/Automation.jpg" alt="完全に特性化されたシステム"></p>]]></description><source url="https://hackaday.com/2026/08/15/fully-characterized-systems/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2020/05/Automation.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2020/05/Automation.jpg"/></item>
 <item><title>YouTube の「後で見る」を NotebookLM キューとトランスクリプトに置き換えたところ、コンテンツの消費方法が完全に変わりました</title><link>https://www.xda-developers.com/i-replaced-my-youtube-watch-later-with-a-notebooklm-queue-and-transcripts-and-it-completely-changed-how-i-consume-content/</link><guid isPermaLink="true">https://www.xda-developers.com/i-replaced-my-youtube-watch-later-with-a-notebooklm-queue-and-transcripts-and-it-completely-changed-how-i-consume-content/</guid><pubDate>Sat, 15 Aug 2026 13:30:10 +0000</pubDate><description><![CDATA[<p>YouTube の「後で見る」を NotebookLM キューとトランスクリプトに置き換えたところ、コンテンツの消費方法が完全に変わりました
 
 一番いいところは？セットアップには数秒しかかかりません。
@@ -2544,25 +2577,6 @@ Android Authority のアフィリエイト リンクにより、手数料が発�
 スマートフォンの平均バッテリー容量は年々増加し続けており、アナリストらはこの現象は中国のスマートフォンブランドとバッテリー技術の向上によるものだと考えています。 XiaomiのサブブランドPOCOは、そのバッテリー技術をヨーロッパ市場に導入する準備をしており、リークは現在、その次の主力製品の早期外観を提供しています。
 
 WinFuture による独占レポートでは、最近中国でデビューした Redmi K100 Pro と Pro Max を事実上ヨーロッパでリブランドした 2 つのプレミアム グレードのフラッグシップを垣間見ることができます。最高級のPOCO F9 Ultraのリークされたハイライトの中には、巨大な8,050mAhバッテリーが含まれていますが、小型のF9 Proには代わりに6,330mAhバッテリーパックが搭載されて…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/Poco-F9-WF.jpeg" alt="大容量バッテリーと 200MP カメラを搭載したこのフラッグシップがもうすぐ登場します"></p>]]></description><source url="https://www.androidauthority.com/poco-f9-pro-ultra-specs-pricing-leak-3698809/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/Poco-F9-WF.jpeg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/Poco-F9-WF.jpeg"/></item>
-<item><title>240 Hz IPS パネル、G-Sync、正確な色を備えた 27 インチ モニター: KTC H27E6S レビュー</title><link>https://www.notebookcheck.net/27-inch-monitor-with-a-240-Hz-IPS-panel-G-Sync-and-accurate-colors-KTC-H27E6S-review.1368073.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/27-inch-monitor-with-a-240-Hz-IPS-panel-G-Sync-and-accurate-colors-KTC-H27E6S-review.1368073.0.html</guid><pubDate>Fri, 14 Aug 2026 14:39:00 +0000</pubDate><description><![CDATA[<p>240 Hz IPS パネル、G-Sync、正確な色を備えた 27 インチ モニター: KTC H27E6S レビュー
-
-27 インチ画面、QHD 解像度、240 Hz リフレッシュ レートを備えた KTC H27E6S ゲーミング モニターの Notebookcheck レビュー。
-
-評決: 240 Hz の手頃な価格の 27 インチ モニター
-
-テストでは、KTC H27E6S は良い印象を与えました。 240 Hz の高いリフレッシュ レートと高速応答時間を備えた 27 インチ IPS パネルは、PC とコンソールの両方で、ペースの速いシューティングゲームでも問題なく処理します。ただし、IPS パネルでは意味のある HDR 効果を生み出すのに十分な明るさ​​が得られないため、HDR ゲームは実際には実現可能ではありません。
-
-このモニターは、優れた明るさ、マットな表示面、PWM ちらつきがないため、特に画面を回転して縦向きモードにできるため、生産性の高い作業にも適しています。付属のスタンドには広範な調整オプションがありますが、照明に関してはほとんど機能しません。
-
-H27E6S は工場出荷時の設定でも sRGB 色空間で正確な色再現を実現しており、画像編集にも適しています。全体として、それは公正な価格で優れたオールラウンダーです。ただし、たまにしかゲームをしない場合は、リフレッシュ レートは低くても、USB-C Power Delivery や KVM スイッチなどの機能が充実した競合モデルの方が魅力的である可能性があります。
-
-KTC H27E6S は、Amazon Germany で €239.99 で入手できます。
-
-翻訳者注: 米国では、このモニターは Amazon で 220 ドルで購入できます。
-
-評決 – ゲーマーだけでなく優れた IPS モニター
-
-H27E6S では、KTC は主にゲーマー向けに、IPS パネルと 240 Hz リフレッシュ レートを備えた手頃な価格の 27 インチ モニターを提供します。ただし、正確な色とマットなパネルのおかげで…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/KTC/H27E6S/ktc_H27E6S_16.JPG" alt="240 Hz IPS パネル、G-Sync、正確な色を備えた 27 インチ モニター: KTC H27E6S レビュー"></p>]]></description><source url="https://www.notebookcheck.net/27-inch-monitor-with-a-240-Hz-IPS-panel-G-Sync-and-accurate-colors-KTC-H27E6S-review.1368073.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/KTC/H27E6S/ktc_H27E6S_16.JPG" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/KTC/H27E6S/ktc_H27E6S_16.JPG"/></item>
 <item><title>240 Hz IPS パネル、G-Sync、正確な色を備えた 27 インチ モニター: KTC H27E6S レビュー</title><link>https://www.notebookcheck.net/27-Inch-Monitor-with-a-240-Hz-IPS-Panel-G-Sync-and-Accurate-Colors-KTC-H27E6S-Review.1368073.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/27-Inch-Monitor-with-a-240-Hz-IPS-Panel-G-Sync-and-Accurate-Colors-KTC-H27E6S-Review.1368073.0.html</guid><pubDate>Fri, 14 Aug 2026 14:39:00 +0000</pubDate><description><![CDATA[<p>240 Hz IPS パネル、G-Sync、正確な色を備えた 27 インチ モニター: KTC H27E6S レビュー
 
 27 インチ画面、QHD 解像度、240 Hz リフレッシュ レートを備えた KTC H27E6S ゲーミング モニターの Notebookcheck レビュー。
@@ -2582,6 +2596,25 @@ KTC H27E6S は、Amazon Germany で €239.99 で入手できます。
 評決 – ゲーマーだけでなく優れた IPS モニター
 
 H27E6S では、KTC は主にゲーマー向けに、IPS パネルと 240 Hz リフレッシュ レートを備えた手頃な価格の 27 インチ モニターを提供します。ただし、正確な色とマットなパネルのおかげで…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/KTC/H27E6S/ktc_H27E6S_16.JPG" alt="240 Hz IPS パネル、G-Sync、正確な色を備えた 27 インチ モニター: KTC H27E6S レビュー"></p>]]></description><source url="https://www.notebookcheck.net/27-Inch-Monitor-with-a-240-Hz-IPS-Panel-G-Sync-and-Accurate-Colors-KTC-H27E6S-Review.1368073.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/KTC/H27E6S/ktc_H27E6S_16.JPG" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/KTC/H27E6S/ktc_H27E6S_16.JPG"/></item>
+<item><title>240 Hz IPS パネル、G-Sync、正確な色を備えた 27 インチ モニター: KTC H27E6S レビュー</title><link>https://www.notebookcheck.net/27-inch-monitor-with-a-240-Hz-IPS-panel-G-Sync-and-accurate-colors-KTC-H27E6S-review.1368073.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/27-inch-monitor-with-a-240-Hz-IPS-panel-G-Sync-and-accurate-colors-KTC-H27E6S-review.1368073.0.html</guid><pubDate>Fri, 14 Aug 2026 14:39:00 +0000</pubDate><description><![CDATA[<p>240 Hz IPS パネル、G-Sync、正確な色を備えた 27 インチ モニター: KTC H27E6S レビュー
+
+27 インチ画面、QHD 解像度、240 Hz リフレッシュ レートを備えた KTC H27E6S ゲーミング モニターの Notebookcheck レビュー。
+
+評決: 240 Hz の手頃な価格の 27 インチ モニター
+
+テストでは、KTC H27E6S は良い印象を与えました。 240 Hz の高いリフレッシュ レートと高速応答時間を備えた 27 インチ IPS パネルは、PC とコンソールの両方で、ペースの速いシューティングゲームでも問題なく処理します。ただし、IPS パネルでは意味のある HDR 効果を生み出すのに十分な明るさ​​が得られないため、HDR ゲームは実際には実現可能ではありません。
+
+このモニターは、優れた明るさ、マットな表示面、PWM ちらつきがないため、特に画面を回転して縦向きモードにできるため、生産性の高い作業にも適しています。付属のスタンドには広範な調整オプションがありますが、照明に関してはほとんど機能しません。
+
+H27E6S は工場出荷時の設定でも sRGB 色空間で正確な色再現を実現しており、画像編集にも適しています。全体として、それは公正な価格で優れたオールラウンダーです。ただし、たまにしかゲームをしない場合は、リフレッシュ レートは低くても、USB-C Power Delivery や KVM スイッチなどの機能が充実した競合モデルの方が魅力的である可能性があります。
+
+KTC H27E6S は、Amazon Germany で €239.99 で入手できます。
+
+翻訳者注: 米国では、このモニターは Amazon で 220 ドルで購入できます。
+
+評決 – ゲーマーだけでなく優れた IPS モニター
+
+H27E6S では、KTC は主にゲーマー向けに、IPS パネルと 240 Hz リフレッシュ レートを備えた手頃な価格の 27 インチ モニターを提供します。ただし、正確な色とマットなパネルのおかげで…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/KTC/H27E6S/ktc_H27E6S_16.JPG" alt="240 Hz IPS パネル、G-Sync、正確な色を備えた 27 インチ モニター: KTC H27E6S レビュー"></p>]]></description><source url="https://www.notebookcheck.net/27-inch-monitor-with-a-240-Hz-IPS-panel-G-Sync-and-accurate-colors-KTC-H27E6S-review.1368073.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/KTC/H27E6S/ktc_H27E6S_16.JPG" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/KTC/H27E6S/ktc_H27E6S_16.JPG"/></item>
 <item><title>私は Nextcloud を捨てて、もっと軽いものを探しましたが、機能を一つも見逃していません。</title><link>https://www.xda-developers.com/ditched-nextcloud-something-lighter-dont-miss-single-feature/</link><guid isPermaLink="true">https://www.xda-developers.com/ditched-nextcloud-something-lighter-dont-miss-single-feature/</guid><pubDate>Fri, 14 Aug 2026 14:30:10 +0000</pubDate><description><![CDATA[<p>私は Nextcloud を捨てて、もっと軽いものを探しましたが、機能を一つも見逃していません。
 
 Seafile は私の新しい友達です。
@@ -5102,8 +5135,8 @@ Xiaomi / GizmoChina この…</p><p><img src="https://www.androidauthority.com/w
 2026 年 8 月 12 日 Arm CPU オプションを備えたカラフルな MacBook Neo の代替品としての Lenovo IdeaPad Vibe のリーク情報 (1)
 
 2026 年 7 月 29 日 ク…</p><p><img src="https://www.techpowerup.com/img/rrpE74Yl8NTG5Waz.jpg" alt="クアルコム、Snapdragon C搭載の300ドルノートパソコンを発表、Intel N250を最大67%上回る"></p>]]></description><source url="https://www.techpowerup.com/351578/qualcomm-introduces-usd-300-laptops-with-snapdragon-c-outruns-intel-n250-by-up-to-67">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/rrpE74Yl8NTG5Waz.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/rrpE74Yl8NTG5Waz.jpg"/></item>
-<item><title>Flipper Devices&#39; Pavel Zhovner Details Flipper OS, the Modular Platform Driving the Flipper One</title><link>https://www.hackster.io/news/flipper-devices-pavel-zhovner-details-flipper-os-the-modular-platform-driving-the-flipper-one-5080ee075698</link><guid isPermaLink="true">https://www.hackster.io/news/flipper-devices-pavel-zhovner-details-flipper-os-the-modular-platform-driving-the-flipper-one-5080ee075698</guid><pubDate>Thu, 13 Aug 2026 12:08:01 +0000</pubDate><description><![CDATA[<p>Flipper Devices&#39; Pavel Zhovner Details Flipper OS, the Modular Platform Driving the Flipper One</p>]]></description><source url="https://www.hackster.io/news/flipper-devices-pavel-zhovner-details-flipper-os-the-modular-platform-driving-the-flipper-one-5080ee075698">Hackster.io</source></item>
 <item><title>Flipper Devices&#39; Pavel Zhovner Details Flipper OS, the Modlar Platform Driving the Flipper One</title><link>https://www.hackster.io/news/flipper-devices-pavel-zhovner-details-flipper-os-the-modlar-platform-driving-the-flipper-one-5080ee075698</link><guid isPermaLink="true">https://www.hackster.io/news/flipper-devices-pavel-zhovner-details-flipper-os-the-modlar-platform-driving-the-flipper-one-5080ee075698</guid><pubDate>Thu, 13 Aug 2026 12:08:01 +0000</pubDate><description><![CDATA[<p>Flipper Devices&#39; Pavel Zhovner Details Flipper OS, the Modlar Platform Driving the Flipper One</p>]]></description><source url="https://www.hackster.io/news/flipper-devices-pavel-zhovner-details-flipper-os-the-modlar-platform-driving-the-flipper-one-5080ee075698">Hackster.io</source></item>
+<item><title>Flipper Devices&#39; Pavel Zhovner Details Flipper OS, the Modular Platform Driving the Flipper One</title><link>https://www.hackster.io/news/flipper-devices-pavel-zhovner-details-flipper-os-the-modular-platform-driving-the-flipper-one-5080ee075698</link><guid isPermaLink="true">https://www.hackster.io/news/flipper-devices-pavel-zhovner-details-flipper-os-the-modular-platform-driving-the-flipper-one-5080ee075698</guid><pubDate>Thu, 13 Aug 2026 12:08:01 +0000</pubDate><description><![CDATA[<p>Flipper Devices&#39; Pavel Zhovner Details Flipper OS, the Modular Platform Driving the Flipper One</p>]]></description><source url="https://www.hackster.io/news/flipper-devices-pavel-zhovner-details-flipper-os-the-modular-platform-driving-the-flipper-one-5080ee075698">Hackster.io</source></item>
 <item><title>Maxsun Terminator B850M Pro II マザーボード レビュー: 機能は同等ですが、米国での価格はメーカー希望小売価格を超えています</title><link>https://www.tomshardware.com/pc-components/motherboards/maxsun-terminator-b850m-pro-ii-motherboard-review</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/motherboards/maxsun-terminator-b850m-pro-ii-motherboard-review</guid><pubDate>Thu, 13 Aug 2026 12:05:00 +0000</pubDate><description><![CDATA[<p>Maxsun Terminator B850M Pro II マザーボード レビュー: 機能は同等ですが、米国での価格はメーカー希望小売価格を超えています
 
 Maxsun は、低価格の B850M 分野で波紋を起こしていますが、現在の価格設定では、競合他社に対する恩恵を妨げています。
@@ -6778,50 +6811,4 @@ Life360 タイル スターター パックの値下げにより、キーとウ�
 Life360 タイル スターター パックは、なくしたくない日常のもののために構築された 2 つのトラッカー バンドルです。これには、Tile Mate 1 つと Tile Slim 1 つが含まれており、鍵、財布、バッグなどのアイテムを簡単にセットアップできます。このパックは、別個のトラッカー プラットフォームを使用するのではなく、Life360 + タイル エコシステムを中心に設計されており、アイテム追跡が Life360 アプリに関連付けられています。
 
 この設定は Android と iPhone の両方で機能し、ラインナップの新しい Tile デバイスは、アプリ内の検索機能と安全性を重視したツールの両方に重点を置いています。 Life360 はまた、直接購入や古い Tile 製品より…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2024/09/tile-mate-bluetooth-tracker-2004.jpg" alt="Life360 タイル スターター パックの値下げにより、キーとウォレットをより安価に追跡できます"></p>]]></description><source url="https://www.androidauthority.com/life360-tile-starter-pack-deal-3697959/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2024/09/tile-mate-bluetooth-tracker-2004.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2024/09/tile-mate-bluetooth-tracker-2004.jpg"/></item>
-<item><title>Android Auto ユーザーは、ライブ TV を視聴するための新しくて使い慣れた方法を利用できます</title><link>https://www.androidauthority.com/android-auto-new-fermata-xtream-version-3697925/</link><guid isPermaLink="true">https://www.androidauthority.com/android-auto-new-fermata-xtream-version-3697925/</guid><pubDate>Wed, 12 Aug 2026 17:59:54 +0000</pubDate><description><![CDATA[<p>Android Auto ユーザーは、ライブ TV を視聴するための新しくて使い慣れた方法を利用できます
-
-Android Auto の Fermata Xtream の開発者は、100% 新しいコードを搭載したアプリの新バージョンを公開しています。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Android Auto ユーザーは、ライブ TV を視聴するための新しくて使い慣れた方法を利用できます
-
-0 • Joe Maring / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Fermata Xtream の開発者が新しいバージョンをリリースしています。
-
-このバージョンのアプリには、速度とパフォーマンスを向上させる 100% 新しいコードが含まれています。
-
-新しいリリースが Github にプッシュされたときにアプリが自動更新されるようになりましたが、これは AAenabler でインストールされた場合に限ります。
-
-6 月に遡ると、Android Auto でライブ TV を視聴する最も人気のある方法の 1 つである Fermata Xtream の開発者は、アプリがオフラインになると発表しました。このアプリの無料版は引き続き Github で入手可能ですが、開発者は当時、それを終了する予定であると述べていました。数か月が経ち、Fermata Xtream の新しいバージョンが公開されます。
-
-開発者によると、パフォーマンスを向上させるために、過去数か月間、Fermata Xtream のコードを書き直すことに費やしたそうです。しかし、既存のコードではそれが不可能であることがわかり、開発は中止されました。これが、開発者が撤退を決めた理由のようです。
-
-アプリのファンにとって幸いなことに、開発者は速度とパフォーマンスを最適化するためにコードベース全体を書き直すことになりました。現在、100% 新…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/07/android-auto-launcher-app-drawer-scaled.jpg" alt="Android Auto ユーザーは、ライブ TV を視聴するための新しくて使い慣れた方法を利用できます"></p>]]></description><source url="https://www.androidauthority.com/android-auto-new-fermata-xtream-version-3697925/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/07/android-auto-launcher-app-drawer-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/07/android-auto-launcher-app-drawer-scaled.jpg"/></item>
-<item><title>高評価の Anker Prime 3-in-1 折りたたみ式 Qi2.2 充電器が 34% 値下げ</title><link>https://www.androidauthority.com/anker-prime-3-in-1-foldable-charger-deal-3697947/</link><guid isPermaLink="true">https://www.androidauthority.com/anker-prime-3-in-1-foldable-charger-deal-3697947/</guid><pubDate>Wed, 12 Aug 2026 17:34:53 +0000</pubDate><description><![CDATA[<p>高評価の Anker Prime 3-in-1 折りたたみ式 Qi2.2 充電器が 34% 値下げ
-
-Anker Prime 3-in-1 Foldable Charger は、25W Qi2.2 充電と旅行に適したデザインを備え、34% 割引の 99.74 ドルに値下げされます。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-高評価の Anker Prime 3-in-1 折りたたみ式 Qi2.2 充電器が 34% 値下げ
-
-0 • Amazon Google Discover でフォローしてください 優先ソースとして追加してください Anker Prime 3-in-1 折りたたみ式充電器は、毎日のギアに 1 台のコンパクトな充電器が欲しい人向けに作られており、現在 Amazon でお買い得になっています。この手のひらサイズの充電ステーションは、旅行用に小さなブロックに折りたたむことができ、開くとスタンド スタイルのセットアップになり、机、ナイトスタンド、またはホテルの部屋でうまく機能します。
-
-ここでの際立った機能は、サポートされているデバイス向けの 25W Qi2.2 ワイヤレス充電で、古い 15W クラスの 3-in-1 充電器よりも速度が優れています。 MagSafe にも対応しているため、充電中にサポートされている携帯電話を所定の位置に保持します。 Anker は、熱を軽減し、より高速な充電速度をサポートするために、AirCool アクティブ冷却システムを追加しています。最近の出品では、通常 45W USB-C 電源アダプターとケーブルが付属していることも記載されているため、必要なものがすべて揃っているはずです。
-
-この充電器は購入者からの強いフィードバックも得ており、Amazon では 4.6 つ星の評価を受けています。急速充電と旅行に適したデザインが 1 つのユニットに組み合わされていることを考えると、これは当然のことです。
-
-この取引は、今日特に注目する価値があるものです。…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/Anker-Prime-25W-3-in-1-Foldable-MagSafe-Charger-Press-Image.jpg" alt="高評価の Anker Prime 3-in-1 折りたたみ式 Qi2.2 充電器が 34% 値下げ"></p>]]></description><source url="https://www.androidauthority.com/anker-prime-3-in-1-foldable-charger-deal-3697947/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/Anker-Prime-25W-3-in-1-Foldable-MagSafe-Charger-Press-Image.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/Anker-Prime-25W-3-in-1-Foldable-MagSafe-Charger-Press-Image.jpg"/></item>
-<item><title>デスクトップ版の評判のせいで、私は長年 Ubuntu Server を無視していましたが、予想よりも優れています</title><link>https://www.xda-developers.com/i-ignored-ubuntu-server-for-many-years-because-of-its-desktop-counterpart/</link><guid isPermaLink="true">https://www.xda-developers.com/i-ignored-ubuntu-server-for-many-years-because-of-its-desktop-counterpart/</guid><pubDate>Wed, 12 Aug 2026 17:30:10 +0000</pubDate><description><![CDATA[<p>デスクトップ版の評判のせいで、私は長年 Ubuntu Server を無視していましたが、予想よりも優れています
-
-Ubuntu Server は Linux コミュニティからもっと愛されるべきです
-
-デスクトップ版の評判のせいで、私は長年 Ubuntu Server を無視していましたが、予想よりも優れています
-
-By Ayush Pande 公開 2026 年 8 月 12 日、午後 1 時 30 分 EDT Ayush Pande は、PC ハードウェアおよびゲームのライターです。彼が新しい記事に取り組んでいないときは、頭を PC の中に閉じ込めたり、サーバーのオペレーティング システムをいじったりしているのを見かけることがあります。コンピューティングのほかに、彼の興味には、長い RPG に何時間も費やすこと、協力ゲームで友達に怒鳴りつけること、ギターを練習することなどがあります。 XDA アカウントにサインインする 何年にもわたって、私はあらゆる種類のクールな Linux ディストリビューションをいじってきましたが、Proxmox に出会ってからディストリビューションを飛び回る傾向はさらに悪化しました。しかし、私の Linux いじりの失敗から学んだことが 1 つあるとすれば、十分な評価を受けていない便利なディストリビューションがたくさんあるということです。
-
-いや、私は、セキュリティとプライバシーの無名な王、Qubes OS と Whonix についてだけ話しているわけではありません。 Ubuntu Server はエンタープライズ分野では非常に人気があるかもしれませんが、平均的な改造愛好家には実際には十分に活用されておらず、デスクトップ版の悪名高い性質がこの傾向に大きく関係しています。しかし、昨年、自宅での研究室実験のために Ubuntu Server に切り替えることを決めた後、Ubuntu Server には、煩雑なデスクトップの兄弟ほどの欠点がないことを認めざるを得ません。
-
-正直に言うと、Ubuntu デスクトップには決定的な問題がいくつかあります
-…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/ubuntu-desktop.jpg?w=1600&amp;h=900&amp;fit=crop" alt="デスクトップ版の評判のせいで、私は長年 Ubuntu Server を無視していましたが、予想よりも優れています"></p>]]></description><source url="https://www.xda-developers.com/i-ignored-ubuntu-server-for-many-years-because-of-its-desktop-counterpart/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/ubuntu-desktop.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/ubuntu-desktop.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 </channel></rss>
