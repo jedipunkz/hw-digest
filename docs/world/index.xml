@@ -1,6 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sun, 16 Aug 2026 07:44:36 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sun, 16 Aug 2026 08:46:26 +0000</lastBuildDate>
+<item><title>誰かが ESP32 を使用して古いアナログ ゲージをリアルタイム PC モニターに変えました</title><link>https://www.xda-developers.com/someone-turned-old-analog-gauges-into-real-time-pc-monitors-using-an-esp32/</link><guid isPermaLink="true">https://www.xda-developers.com/someone-turned-old-analog-gauges-into-real-time-pc-monitors-using-an-esp32/</guid><pubDate>Sun, 16 Aug 2026 08:09:35 +0000</pubDate><description><![CDATA[<p>誰かが ESP32 を使用して古いアナログ ゲージをリアルタイム PC モニターに変えました
+
+廃棄されたゲージから作られた優れたレトロな雰囲気。
+
+誰かが ESP32 を使用して古いアナログ ゲージをリアルタイム PC モニターに変えました
+
+クレジット: 1Euro7Cent By Simon Batt Published 2026 年 8 月 16 日、午前 4:09 EDT Simon はコンピューター サイエンスの学士号を取得しており、2014 年からテクノロジーについて執筆しており、3.1 から Windows マシンを使用しています。インディーズ ゲーム スタジオで働き、コンピューターの問題全般に対応する家族の頼りになる技術者として活動した後、彼は文章を書くことへの情熱に気づき、自分のスキルセットをテクノロジーに関するあらゆることについて書くことに決めました。ライターとしてのキャリアを始めて以来、彼は WorldStart 、 Listverse 、 MakeTechEasier などのさまざまな出版物に執筆してきました。しかし、2019 年 2 月に MakeUseOf に居場所を見つけた後、最終的にはその姉妹サイトである XDA に移り、最新かつ最高の Windows、Linux、DIY 電子機器を提供することになりました。 XDA アカウントにサインインする
+
+これらの救出されたアナログ ゲージは、ESP32 を介してリアルタイム PC ハードウェア メーターとして再利用されました。
+
+CPU、GPU、電力という 3 つのゲージがあります。 CPU/GPU ゲージは PC から読み取り、スマート プラグから MQTT 経由で電力を供給します。
+
+PWM、抵抗、コンデンサ、トランジスタを使用して、0 ～ 20mA のゲージを確実に駆動します。
+
+DIY 電子機器に夢中になっていて最も素晴らしい点の 1 つは、電子機器を無駄にすることがほとんどないことです。壊れたハードウェアはすべて新しい命を吹き込むことができ (Steam デッキをミニ PC に変える…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/esp32-pc-analog-gauges-featured.jpg?w=1600&amp;h=900&amp;fit=crop" alt="誰かが ESP32 を使用して古いアナログ ゲージをリアルタイム PC モニターに変えました"></p>]]></description><source url="https://www.xda-developers.com/someone-turned-old-analog-gauges-into-real-time-pc-monitors-using-an-esp32/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/esp32-pc-analog-gauges-featured.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/esp32-pc-analog-gauges-featured.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>研究者が航空会社のアナログをハッキング</title><link>https://hackaday.com/2026/08/16/how-to-hack-an-airliner/</link><guid isPermaLink="true">https://hackaday.com/2026/08/16/how-to-hack-an-airliner/</guid><pubDate>Sun, 16 Aug 2026 08:00:24 +0000</pubDate><description><![CDATA[<p>研究者が航空会社のアナログをハッキング
+
+現代の旅客機は、かなり複雑なエンジニアリングの成果です。無数の安全性が重要なコンポーネントが、数十マイルの配線、複雑なデジタル バス、そして数十 (おそらくは数百) で接続されています。
+
+現代の旅客機は、かなり複雑なエンジニアリングの成果です。無数の安全性が重要なコンポーネントが、数十マイルの配線、複雑なデジタル バス、および数十台 (おそらくは数百台) のコンピューターで接続されています。しかし、ハッカーとして、私たちはどんなコンピューターもハッキングされる可能性があることを知っており、もちろん航空機のアビオニクスも例外ではありません。
+
+現在の航空機は通常、ARINC 429 プロトコルを使用します。これは、複数の送信機が許可されている多くのプロトコルとは異なります。 ARINC 429 には単一の送信元があります。これにより、攻撃者は正規の送信機 (飛行管理コンピュータなど) を物理的に交換する必要があると考えられていたため、送信オーバーライド攻撃が仮想的に困難になりますが、これはかなり困難な作業です。ただし、ARINC 429 送信機は 37.5 オームの抵抗器のペアの背後にあるため、同じ回線で送信することにより、攻撃デバイスは正規の送信機の電力を簡単に無効にすることができます。
+
+この方法論により、研究者らは、GE 2907A4 飛行管理コンピュータ (FMC)、GE 577F1 多目的制御および表示ユニット (MCDU)、および統合飛行システム付属装置 (IFSAU) を使用した概念実証デモを作成しました。これらはすべて、人気の高いボーイング 737 で一般的に使用されているコンポーネントであり、その航空機の標準と同様に配線されています。 FMC は、ARINC 429 を介してパイロットの MCDU と通信します。MCDU は、自動操縦のプログラムや離陸計算の実行に使用されます。 FMC と MCDU 間のプロトコルを分析した結果、パイロットの表示をフリーズしたり、上書きしたり、受信および表示された値を変更したり…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/737HackFeat.png" alt="研究者が航空会社のアナログをハッキング"></p>]]></description><source url="https://hackaday.com/2026/08/16/how-to-hack-an-airliner/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/737HackFeat.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/737HackFeat.png"/></item>
+<item><title>Windows 11 の新しいコンテキスト メニューは準備中ですが、見た目はすでに洗練されています</title><link>https://www.xda-developers.com/windows-11s-new-context-menus-are-on-the-way-and-they-look-sleek-already/</link><guid isPermaLink="true">https://www.xda-developers.com/windows-11s-new-context-menus-are-on-the-way-and-they-look-sleek-already/</guid><pubDate>Sun, 16 Aug 2026 07:47:26 +0000</pubDate><description><![CDATA[<p>Windows 11 の新しいコンテキスト メニューは準備中ですが、見た目はすでに洗練されています
+
+彼らは
+
+Windows 11 の新しいコンテキスト メニューは準備中ですが、見た目はすでに洗練されています
+
+By Simon Batt 公開 2026 年 8 月 16 日、午前 3:47 EDT Simon はコンピューター サイエンスの学士号を取得しており、2014 年からテクノロジーについて執筆しており、3.1 から Windows マシンを使用しています。インディーズ ゲーム スタジオで働き、コンピューターの問題全般に対応する家族の頼りになる技術者として活動した後、彼は文章を書くことへの情熱に気づき、自分のスキルセットをテクノロジーに関するあらゆることについて書くことに決めました。ライターとしてのキャリアを始めて以来、彼は WorldStart 、 Listverse 、 MakeTechEasier などのさまざまな出版物に執筆してきました。しかし、2019 年 2 月に MakeUseOf に居場所を見つけた後、最終的にはその姉妹サイトである XDA に移り、最新かつ最高の Windows、Linux、DIY 電子機器を提供することになりました。 XDA アカウントにサインインする
+
+Windows 11 のコンテキスト メニューが刷新され、デザインがよりシンプルになり、一般的なアクションが表示されるようになりました。
+
+Shift キーを押しながら右クリックすると、その他のオプションが表示されます。設定では、従来のアイテムの切り替え、復元、並べ替えが可能です。
+
+新しいメニューは実験的な Windows 11 ブランチにあります。おそらく年末までに展開され、大きな問題点が修正される予定です。
+
+Windows 11 について私が本当に気に入らない点の 1 つは、コンテキスト メニューでした。初日から、私はそれがどれほど乱雑であるかを嫌っていました、そしてまた、いくつかのアクションが従来のコンテキストメニューの背後にロックされている方法も嫌いでした。幸い…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/sdelete-secure-delete-sysinternals-windows-11-context-menu.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Windows 11 の新しいコンテキスト メニューは準備中ですが、見た目はすでに洗練されています"></p>]]></description><source url="https://www.xda-developers.com/windows-11s-new-context-menus-are-on-the-way-and-they-look-sleek-already/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/sdelete-secure-delete-sysinternals-windows-11-context-menu.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/sdelete-secure-delete-sysinternals-windows-11-context-menu.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>Ubuntu 26.04 での Khadas Mind Graphics 2 (NVIDIA RTX 5060 Ti USB4 eGPU) の使用</title><link>https://www.cnx-software.com/2026/08/16/using-the-khadas-mind-graphics-2-nvidia-rtx-5060-ti-usb4-egpu-on-ubuntu-26-04/</link><guid isPermaLink="true">https://www.cnx-software.com/2026/08/16/using-the-khadas-mind-graphics-2-nvidia-rtx-5060-ti-usb4-egpu-on-ubuntu-26-04/</guid><pubDate>Sun, 16 Aug 2026 07:29:45 +0000</pubDate><description><![CDATA[<p>Ubuntu 26.04 での Khadas Mind Graphics 2 (NVIDIA RTX 5060 Ti USB4 eGPU) の使用
 
 先週、Ubuntu 26.04 を実行しているミニ PC で NVIDIA GeForce RTX 5060 Ti 16GB ベースの Khadas Mind Graphics 2 ドックを使用したとき、USB4 接続の eGPU
@@ -62,17 +101,6 @@ Linux 開発の世界は現在、興味深い時期を迎えています。 AI �
 Simon Batt 著 公開 2026 年 8 月 15 日、午後 8 時 EDT Simon はコンピューター サイエンスの学士号を取得しており、2014 年からテクノロジーについて執筆しており、3.1 から Windows マシンを使用しています。インディーズ ゲーム スタジオで働き、コンピューターの問題全般に対応する家族の頼りになる技術者として活動した後、彼は文章を書くことへの情熱に気づき、自分のスキルセットをテクノロジーに関するあらゆることについて書くことに決めました。ライターとしてのキャリアを始めて以来、彼は WorldStart 、 Listverse 、 MakeTechEasier などのさまざまな出版物に執筆してきました。しかし、2019 年 2 月に MakeUseOf に居場所を見つけた後、最終的にはその姉妹サイトである XDA に移り、最新かつ最高の Windows、Linux、DIY 電子機器を提供することになりました。 XDA アカウントにサインインする オペレーティング システムのアクティビティ モニターを覗いたことがある場合は、OS の検索機能のためにすべてのインデックスを作成することを唯一の仕事とするバックグラウンド デーモンを見つけることができる可能性が高くなります。通常、それはそこに座って最善のことを行いますが、何か問題が発生すると、大量のリソースを消費することになる可能性があります。
 
 では、なぜ誰も、PC が検索用にすべてのインデックスを作成する、より優れた効率的な方法を発明しなかったのでしょうか?さて、誰かがすでにやったことが判明しました。実際、同社は 1995 年に、より洗練された検索機能をリリース…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/beos-boot.jpg?w=1600&amp;h=900&amp;fit=crop" alt="90 年代にはファイル検索を解決したという誰も聞いたことのない OS ですが、私たちはその優雅さを引き換えに肥大化してきました。"></p>]]></description><source url="https://www.xda-developers.com/an-os-nobody-heard-of-solved-file-search-in-the-90s-and-weve-traded-its-elegance-for-bloat/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/beos-boot.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/beos-boot.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>すべての Android スマートフォンで置き換える 5 つの Google アプリと、代わりに使用するアプリ</title><link>https://www.xda-developers.com/google-app-alternatives-on-android-phone/</link><guid isPermaLink="true">https://www.xda-developers.com/google-app-alternatives-on-android-phone/</guid><pubDate>Sat, 15 Aug 2026 23:00:10 +0000</pubDate><description><![CDATA[<p>すべての Android スマートフォンで置き換える 5 つの Google アプリと、代わりに使用するアプリ
-
-これらのアプリは、私がやるべきことを教えてくれました
-
-すべての Android スマートフォンで置き換える 5 つの Google アプリと、代わりに使用するアプリ
-
-By Megan Ellis Published Aug 15, 2026, 7:00 PM EDT Megan は、XDA Developers のソフトウェア ライターで、2016 年から消費者向けテクノロジーについて執筆しています。ニュー メディア ジャーナリズムの大学院の学位を取得した彼女は、常にトピックを深く掘り下げ、日常の消費者にとって理解しやすい方法で記事を書くことに情熱を注いでいます。彼女は Tech Valkyrie という自身のブログを運営しており、Tom&#39;s Guide と Android Authority に寄稿しています。彼女は MakeUseOf で主任編集者としても働いていました。余暇にはビデオ ゲームをしたり、最新のテクノロジーに興味を持っています。 XDA アカウントにサインインする Google には非常に優れた無料アプリがいくつかあるため、私は以前は同社のエコシステムに全面的に参加していました。私はまだ Google カレンダーや Gmail などのアプリにしっかりと定着していますが、より良い代替アプリを見つけたので、デバイス上の特定の Google アプリを置き換え始めました。
-
-これらのアプリは、より優れたプライバシーを提供する場合があります。また、単により良いエクスペリエンスを提供する場合もあります。その結果、これらは私が現在すべての Android スマートフォンで置き換えている Google アプリと、その機能を置き換えるために使用している代替アプリです。
-
-Chrome は私がスマートフォンで置き換えた最初の Google アプリでした。私の最初の動機は、フラグをいじらずに Web ページでダーク モードを強制できるアプリが必要だったという…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/google-apps-on-a-smartphone-screen.jpg?w=1600&amp;h=900&amp;fit=crop" alt="すべての Android スマートフォンで置き換える 5 つの Google アプリと、代わりに使用するアプリ"></p>]]></description><source url="https://www.xda-developers.com/google-app-alternatives-on-android-phone/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/google-apps-on-a-smartphone-screen.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/google-apps-on-a-smartphone-screen.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>蒸気の力で果物の皮をむく</title><link>https://hackaday.com/2026/08/15/peeling-fruit-with-the-power-of-steam/</link><guid isPermaLink="true">https://hackaday.com/2026/08/15/peeling-fruit-with-the-power-of-steam/</guid><pubDate>Sat, 15 Aug 2026 23:00:10 +0000</pubDate><description><![CDATA[<p>蒸気の力で果物の皮をむく
 
 蒸気動力はスチームパンクの美学、熱力学の定番であり、熱サイクルを研究する新進の機械エンジニアにとってチェックポイントです。しかし、食べ物は主に水でできているため、蒸気は常に存在します。
@@ -84,6 +112,17 @@ Chrome は私がスマートフォンで置き換えた最初の Google アプ�
 しかし、[Stuff Made Here’s] が残念なことに、インターネット上にそのプロセスのビデオはありませんでした。しかし、幸いなことに、複雑な機械のエンジニアである私たちにとっては、現在、以下で見ることができる機械が存在することを意味します。
 
 マシン自体は、少なくとも机上ではかなりシンプルです。これは、バルブによって果実室に接続されたボイラーと、果実室から蒸気を排出するための別のバルブで構成されます。ただし、1,000 kPa を超える蒸気に安全に耐えることができ、溶接がうまくできない場合に撮影用の窓を備えた圧力容器を設計することは、まったく別の問題です。ボイラーは、中央にシリンダーを備えた 2 枚のステンレス鋼板で構成されており、チャンバーを蒸気密に保つために面シールが使用されています。パイプの端をシールと嵌合するのに十分な平らに加工するには…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/fruitPeeler.jpg" alt="蒸気の力で果物の皮をむく"></p>]]></description><source url="https://hackaday.com/2026/08/15/peeling-fruit-with-the-power-of-steam/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/fruitPeeler.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/fruitPeeler.jpg"/></item>
+<item><title>すべての Android スマートフォンで置き換える 5 つの Google アプリと、代わりに使用するアプリ</title><link>https://www.xda-developers.com/google-app-alternatives-on-android-phone/</link><guid isPermaLink="true">https://www.xda-developers.com/google-app-alternatives-on-android-phone/</guid><pubDate>Sat, 15 Aug 2026 23:00:10 +0000</pubDate><description><![CDATA[<p>すべての Android スマートフォンで置き換える 5 つの Google アプリと、代わりに使用するアプリ
+
+これらのアプリは、私がやるべきことを教えてくれました
+
+すべての Android スマートフォンで置き換える 5 つの Google アプリと、代わりに使用するアプリ
+
+By Megan Ellis Published Aug 15, 2026, 7:00 PM EDT Megan は、XDA Developers のソフトウェア ライターで、2016 年から消費者向けテクノロジーについて執筆しています。ニュー メディア ジャーナリズムの大学院の学位を取得した彼女は、常にトピックを深く掘り下げ、日常の消費者にとって理解しやすい方法で記事を書くことに情熱を注いでいます。彼女は Tech Valkyrie という自身のブログを運営しており、Tom&#39;s Guide と Android Authority に寄稿しています。彼女は MakeUseOf で主任編集者としても働いていました。余暇にはビデオ ゲームをしたり、最新のテクノロジーに興味を持っています。 XDA アカウントにサインインする Google には非常に優れた無料アプリがいくつかあるため、私は以前は同社のエコシステムに全面的に参加していました。私はまだ Google カレンダーや Gmail などのアプリにしっかりと定着していますが、より良い代替アプリを見つけたので、デバイス上の特定の Google アプリを置き換え始めました。
+
+これらのアプリは、より優れたプライバシーを提供する場合があります。また、単により良いエクスペリエンスを提供する場合もあります。その結果、これらは私が現在すべての Android スマートフォンで置き換えている Google アプリと、その機能を置き換えるために使用している代替アプリです。
+
+Chrome は私がスマートフォンで置き換えた最初の Google アプリでした。私の最初の動機は、フラグをいじらずに Web ページでダーク モードを強制できるアプリが必要だったという…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/google-apps-on-a-smartphone-screen.jpg?w=1600&amp;h=900&amp;fit=crop" alt="すべての Android スマートフォンで置き換える 5 つの Google アプリと、代わりに使用するアプリ"></p>]]></description><source url="https://www.xda-developers.com/google-app-alternatives-on-android-phone/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/google-apps-on-a-smartphone-screen.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/google-apps-on-a-smartphone-screen.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>GaN+ 充電器を内蔵したこの 13-in-1 USB-C ドッキング ステーションは、私の充電習慣をより良いものに変えました - レビュー</title><link>https://www.notebookcheck.net/This-13-in-1-USB-C-docking-station-with-built-in-GaN-charger-changed-my-charging-habits-for-the-better-a-review.1369641.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/This-13-in-1-USB-C-docking-station-with-built-in-GaN-charger-changed-my-charging-habits-for-the-better-a-review.1369641.0.html</guid><pubDate>Sat, 15 Aug 2026 22:40:00 +0000</pubDate><description><![CDATA[<p>GaN+ 充電器を内蔵したこの 13-in-1 USB-C ドッキング ステーションは、私の充電習慣をより良いものに変えました - レビュー
 
 MOKiN MOPU1102 13-in-1 USB-C ドッキング ステーションの短い実践レビュー。Lenovo Legion Go および標準的なコンピューター周辺機器と組み合わせて、その構築品質、機能、実現可能性を探ります。テストの結果、メイン充電器の両方に役立つ十分な電力とポートがあることが判明し、詳細な充電インジケーターを備えた卓上充電器に簡単にアクセスできることが、バッテリーの劣化を防ぐ良い方法になる可能性があると著者は述べています。
@@ -364,6 +403,19 @@ Nvidia GPU の VRAM をシステム スワップとして使用したため、�
 By Joe Rice-Jones Published Aug 15, 2026, 12:00 PM EDT Maker、meme-r、そして恥ずかしがり屋のオタクである Joe は、2018 年に KnowTechie でキャリアをスタートして以来、テクノロジーについて執筆しています。彼は Apple からアプリ、クラウドファンディングまであらゆるものをカバーしており、複雑なトピックの本質に迫るのが大好きです。その間、彼は、2023 年の春に XDA に本拠地を置くまで、SlashGear や多数の法人顧客向けにも記事を書いていました。彼は、たとえ後で完全に元に戻らなかったとしても、すべてのおもちゃを分解して、どのように機能するかを確認する子供でした。これにより、複雑なシステムがどのように連携して機能するかを説明するための確かな背景が得られ、それ以来、物事を元に戻す段階でうまくなったと彼は約束します。 XDA アカウントにサインインする 私の Nvidia GeForce RTX 5090 には 32 GB の GDDR7 メモリが搭載されていますが、正直、PC の使用目的の 90% を無駄にしています。私は最近、その GPU の可能性を活用する新しい方法を見つけています。これは、ほとんどの場合 3.4 GB しか使用していないため、共有できるリソースが豊富にあるからです。 DDR5 の価格は高騰しており、私の WSL2 環境は、コンテナー、ビルド、および Windows 上で中断するトリッキーな LLM 作業を起動するたびにメモリに関して不平を言いますが、アイドル状態です。
 
 PC の最速のメモリを、デスクトップを描くことよりも重要なことに使用…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/rtx-5090-installed.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Nvidia GPU の VRAM をシステム スワップとして使用したため、追加のメモリを購入する必要がなくなりました"></p>]]></description><source url="https://www.xda-developers.com/used-my-nvidia-gpus-vram-as-system-swap-freed-me-from-buying-more-memory/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/rtx-5090-installed.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/rtx-5090-installed.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>Google マップが私の車では狭すぎる道を案内し続けるため、Waze に切り替えました</title><link>https://www.xda-developers.com/i-switched-to-waze-because-google-maps-keeps-routing-me-down-roads-too-narrow-for-my-car/</link><guid isPermaLink="true">https://www.xda-developers.com/i-switched-to-waze-because-google-maps-keeps-routing-me-down-roads-too-narrow-for-my-car/</guid><pubDate>Sat, 15 Aug 2026 15:30:10 +0000</pubDate><description><![CDATA[<p>Google マップが私の車では狭すぎる道を案内し続けるため、Waze に切り替えました
+
+Wazeは私の車が勝ったことを知っています
+
+Google マップが私の車では狭すぎる道を案内し続けるため、Waze に切り替えました
+
+By Dhruv Bhutani 公開 2026 年 8 月 15 日、午前 11:30 EDT Dhruv Bhutani は 2008 年以来消費者向けテクノロジーについて執筆しており、特集記事や意見記事を通じて個人向けテクノロジーの状況について深い洞察を提供しています。彼は XDA-Developers に執筆しており、生産性、ネットワーキング、セルフホスティングなどのトピックに重点を置いています。長年にわたり、彼の作品は Android Police、Android Authority、CNET、PCMag などの主要出版物にも掲載されてきました。専門的な仕事以外では、ドゥルヴは映画や文学などのホラー メディアの熱心なファンであり、フィットネス アクティビティを楽しんだり、レコードを収集したり、ギターを弾いたりしています。
+
+Google マップが優れたナビゲーション アプリであることは誰も否定できません。しかし、優れているとはいえ、あらゆる運転シナリオに対応できるわけではありません。正直に言うと、私が住んでいる場所での運転はまったくユニークな経験です。
+
+地図上では見栄えの良い道路でも、すぐにボトルネックになったり、SUV が通れないほど狭かったりする場合があります。 Google マップは、リアルタイムの交通情報を提供し、場所 A から場所 B に連れて行ってくれる点では優れていますが、安全に車で通れない通りに私を誘導するだけで渋滞に巻き込まれることがよくあります。
+
+そこで、代替手段を探していたところ、Waze がこの問題の解決に最適な特定の新機能を 1 つ追加したことを最近発見しました。 Waze では、運転している車両の種類を定義できるようになりました。それはバイク、車、さらにはタクシーである可能性があり、ナビゲーション方法を…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/waze-android-auto-header.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Google マップが私の車では狭すぎる道を案内し続けるため、Waze に切り替えました"></p>]]></description><source url="https://www.xda-developers.com/i-switched-to-waze-because-google-maps-keeps-routing-me-down-roads-too-narrow-for-my-car/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/waze-android-auto-header.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/waze-android-auto-header.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>443,000 台の Backblaze ハードドライブを対象としたピアレビュー調査では、HGST が最も信頼性が高く、東芝が最も信頼性が低いとランク付けされています — 最も信頼性の低いリストでは Seagate が僅差で 2 位となっています</title><link>https://www.tomshardware.com/pc-components/hdds/peer-reviewed-study-of-443000-backblaze-drivers-ranks-hgst-most-reliable-and-toshiba-least</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/hdds/peer-reviewed-study-of-443000-backblaze-drivers-ranks-hgst-most-reliable-and-toshiba-least</guid><pubDate>Sat, 15 Aug 2026 15:30:10 +0000</pubDate><description><![CDATA[<p>443,000 台の Backblaze ハードドライブを対象としたピアレビュー調査では、HGST が最も信頼性が高く、東芝が最も信頼性が低いとランク付けされています — 最も信頼性の低いリストでは Seagate が僅差で 2 位となっています
 
 166万駆動年を分析したところ、Seagateと東芝のHDDはWDやHGSTの約2倍の割合で故障していることが判明した。
@@ -379,19 +431,6 @@ PC の最速のメモリを、デスクトップを描くことよりも重要�
 フォトニクスと高速データ移動が AI の次の大きなボトルネックとなる
 
 データセンター…</p><p><img src="https://cdn.mos.cms.futurecdn.net/KCkcPUkkLXLzriAGq9iUrg-2560-80.jpg" alt="443,000 台の Backblaze ハードドライブを対象としたピアレビュー調査では、HGST が最も信頼性が高く、東芝が最も信頼性が低いとランク付けされています — 最も信頼性の低いリストでは Seagate が僅差で 2 位となっています"></p>]]></description><source url="https://www.tomshardware.com/pc-components/hdds/peer-reviewed-study-of-443000-backblaze-drivers-ranks-hgst-most-reliable-and-toshiba-least">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/KCkcPUkkLXLzriAGq9iUrg-2560-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/KCkcPUkkLXLzriAGq9iUrg-2560-80.jpg"/></item>
-<item><title>Google マップが私の車では狭すぎる道を案内し続けるため、Waze に切り替えました</title><link>https://www.xda-developers.com/i-switched-to-waze-because-google-maps-keeps-routing-me-down-roads-too-narrow-for-my-car/</link><guid isPermaLink="true">https://www.xda-developers.com/i-switched-to-waze-because-google-maps-keeps-routing-me-down-roads-too-narrow-for-my-car/</guid><pubDate>Sat, 15 Aug 2026 15:30:10 +0000</pubDate><description><![CDATA[<p>Google マップが私の車では狭すぎる道を案内し続けるため、Waze に切り替えました
-
-Wazeは私の車が勝ったことを知っています
-
-Google マップが私の車では狭すぎる道を案内し続けるため、Waze に切り替えました
-
-By Dhruv Bhutani 公開 2026 年 8 月 15 日、午前 11:30 EDT Dhruv Bhutani は 2008 年以来消費者向けテクノロジーについて執筆しており、特集記事や意見記事を通じて個人向けテクノロジーの状況について深い洞察を提供しています。彼は XDA-Developers に執筆しており、生産性、ネットワーキング、セルフホスティングなどのトピックに重点を置いています。長年にわたり、彼の作品は Android Police、Android Authority、CNET、PCMag などの主要出版物にも掲載されてきました。専門的な仕事以外では、ドゥルヴは映画や文学などのホラー メディアの熱心なファンであり、フィットネス アクティビティを楽しんだり、レコードを収集したり、ギターを弾いたりしています。
-
-Google マップが優れたナビゲーション アプリであることは誰も否定できません。しかし、優れているとはいえ、あらゆる運転シナリオに対応できるわけではありません。正直に言うと、私が住んでいる場所での運転はまったくユニークな経験です。
-
-地図上では見栄えの良い道路でも、すぐにボトルネックになったり、SUV が通れないほど狭かったりする場合があります。 Google マップは、リアルタイムの交通情報を提供し、場所 A から場所 B に連れて行ってくれる点では優れていますが、安全に車で通れない通りに私を誘導するだけで渋滞に巻き込まれることがよくあります。
-
-そこで、代替手段を探していたところ、Waze がこの問題の解決に最適な特定の新機能を 1 つ追加したことを最近発見しました。 Waze では、運転している車両の種類を定義できるようになりました。それはバイク、車、さらにはタクシーである可能性があり、ナビゲーション方法を…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/waze-android-auto-header.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Google マップが私の車では狭すぎる道を案内し続けるため、Waze に切り替えました"></p>]]></description><source url="https://www.xda-developers.com/i-switched-to-waze-because-google-maps-keeps-routing-me-down-roads-too-narrow-for-my-car/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/waze-android-auto-header.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/waze-android-auto-header.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>未来的な蚊取りレーザーが購入可能になり、ビデオで装置の動作が示されています - 個人用防空システムのように虫を撃墜する小型装置ですが、価格は 1,000 ドルです</title><link>https://www.tomshardware.com/peripherals/futuristic-mosquito-zapping-laser-now-available-to-buy-video-shows-device-in-action-tiny-device-shoots-down-bugs-like-a-personal-air-defense-system-but-costs-usd1-000</link><guid isPermaLink="true">https://www.tomshardware.com/peripherals/futuristic-mosquito-zapping-laser-now-available-to-buy-video-shows-device-in-action-tiny-device-shoots-down-bugs-like-a-personal-air-defense-system-but-costs-usd1-000</guid><pubDate>Sat, 15 Aug 2026 15:04:47 +0000</pubDate><description><![CDATA[<p>未来的な蚊取りレーザーが購入可能になり、ビデオで装置の動作が示されています - 個人用防空システムのように虫を撃墜する小型装置ですが、価格は 1,000 ドルです
 
 私のお金を取ってください！
@@ -464,17 +503,6 @@ Nvidia は優れた投資を行っています。
 
 SpaceX の xAI は、地球上と軌道上の AI データ センターで Nvidia…</p><p><img src="https://cdn.mos.cms.futurecdn.net/Kjestg9jiuvnbE868dhwjf-2560-80.jpg" alt="Nvidia、50億ドルのインテル株賭けを300億ドルの棚ぼたに変える—申請により新たに210億ドルのSpaceX株とArm株からの完全撤退が明らかに"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/nvidia-turns-usd5b-intel-stock-bet-into-usd30b-windfall-filing-reveals-new-usd21b-spacex-stake-and-complete-exit-from-arm-stock">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/Kjestg9jiuvnbE868dhwjf-2560-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/Kjestg9jiuvnbE868dhwjf-2560-80.jpg"/></item>
 <item><title>Linux support is coming to the reworked Epic Games Launcher, new app will run on Tauri instead of Unreal Engine</title><link>https://www.tweaktown.com/rss/click/news/113119/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113119/?c=news-mf</guid><pubDate>Sat, 15 Aug 2026 14:05:06 +0000</pubDate><description><![CDATA[<p>Linux support is coming to the reworked Epic Games Launcher, new app will run on Tauri instead of Unreal Engine</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113119/?c=news-mf">TweakTown</source></item>
-<item><title>私のバックアップ戦略全体は、70 ドルの外部ドライブと 2 つのスケジュールされたコマンドです。</title><link>https://www.xda-developers.com/my-entire-backup-strategy-cheap-drive-two-commands/</link><guid isPermaLink="true">https://www.xda-developers.com/my-entire-backup-strategy-cheap-drive-two-commands/</guid><pubDate>Sat, 15 Aug 2026 14:00:10 +0000</pubDate><description><![CDATA[<p>私のバックアップ戦略全体は、70 ドルの外部ドライブと 2 つのスケジュールされたコマンドです。
-
-退屈だし、安いし、それでがっかりしたことは一度もありません。
-
-私のバックアップ戦略全体は、70 ドルの外部ドライブと 2 つのスケジュールされたコマンドです。
-
-By Korbin Brown 公開 2026 年 8 月 15 日、午前 10:00 EDT Korbin は、物事が実際にどのように機能するかを理解するために、ほとんどの時間を端末で費やしている Linux システム管理者です。過去 10 年間にわたり、彼は Linux の構成、奇妙な問題のトラブルシューティング、現実世界でのオープンソース ツールの使用について何百もの記事を書いてきました。彼はまた、Windows システムとネットワーク、特にドキュメントに記載されているとおりに動作しないことがある混合環境での作業も多く行っています。物事を書き留めることで彼はすべてを理解することができ、できれば他の誰かが数時間を節約できるようになります。 XDA アカウントにサインインする 最も人気のあるバックアップ ソリューションの多くは、複数のドライブと追加ストレージ用のクラウド サブスクリプションを備えた NAS など、高額な購入とより複雑なセットアップを必要とします。この戦略には何も問題はありませんが、最も簡単な方法ではなく、必要以上にコストがかかります。
-
-私のバックアップ戦略全体は、70 ドル以下のポータブル ハード ドライブと、スケジュールに従って実行される 2 つの rsync コマンドです。これらは一緒に 3-2-1 ルールを満たします。つまり、私の作業用コピー、外部ドライブ上の別のローカル コピー、およびレンタル ストレージ VPS 上にあるオフサイト コピーです。全体のセットアップは非常にシンプルで、GUI、専用ソフトウェア、クラウド サブスクリプションは必要ありません。
-
-数年間そのように動作しており、そこから2回正常に復元しました。バックアップはそれほど複雑である必要はありません。全体の構成は数行…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/external-hdd-hard-drive-seagate-pc.jpg?w=1600&amp;h=900&amp;fit=crop" alt="私のバックアップ戦略全体は、70 ドルの外部ドライブと 2 つのスケジュールされたコマンドです。"></p>]]></description><source url="https://www.xda-developers.com/my-entire-backup-strategy-cheap-drive-two-commands/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/external-hdd-hard-drive-seagate-pc.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/external-hdd-hard-drive-seagate-pc.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>完全に特性化されたシステム</title><link>https://hackaday.com/2026/08/15/fully-characterized-systems/</link><guid isPermaLink="true">https://hackaday.com/2026/08/15/fully-characterized-systems/</guid><pubDate>Sat, 15 Aug 2026 14:00:10 +0000</pubDate><description><![CDATA[<p>完全に特性化されたシステム
 
 私の昔のハッカースペースの友人は電気工学の大学院に通っていた。彼の教授には、学生のプロジェクトで何か問題が起こったとき、「この問題を完全に特徴づけましたか?」と尋ねられる人がいました。
@@ -486,6 +514,17 @@ By Korbin Brown 公開 2026 年 8 月 15 日、午前 10:00 EDT Korbin は、物
 好例: うちの前庭には9本の小さな苗木が生えているので、それらに水をやる必要があります。木から木へとホースを移動させるのは退屈なので、ある長さのホースを用意して、片方の端で栓をし、すべての木に一度に水をまくことができるように十分な穴を開けようと思いました。私はこのシステムを少し特徴づけました。ホースを通る 1 分間あたりの水の量を計算し、それを頭の中で妥当な流出量に分割し、ドリルで穴を開けましたが、結果的に大きすぎました。
 
 なぜですか？なぜなら、ホースの長さには流れに対する抵抗があり、最初のいくつかの穴からは水が流れ出ますが、最後のいくつかの穴は乾いていたからです。私が思っていたような一定の圧力システムではありませんでした。ホース内の抵抗が重要になるとは思ってもいなかったので、測定しようとするわけがありませんでした。しかし、とにかくこの抵抗をどのように特徴づければよいでしょうか?大きすぎる穴を備えたホースを作成し、減衰を測定することもできます。 （おっと、それはまさに私がやったことで…</p><p><img src="https://hackaday.com/wp-content/uploads/2020/05/Automation.jpg" alt="完全に特性化されたシステム"></p>]]></description><source url="https://hackaday.com/2026/08/15/fully-characterized-systems/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2020/05/Automation.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2020/05/Automation.jpg"/></item>
+<item><title>私のバックアップ戦略全体は、70 ドルの外部ドライブと 2 つのスケジュールされたコマンドです。</title><link>https://www.xda-developers.com/my-entire-backup-strategy-cheap-drive-two-commands/</link><guid isPermaLink="true">https://www.xda-developers.com/my-entire-backup-strategy-cheap-drive-two-commands/</guid><pubDate>Sat, 15 Aug 2026 14:00:10 +0000</pubDate><description><![CDATA[<p>私のバックアップ戦略全体は、70 ドルの外部ドライブと 2 つのスケジュールされたコマンドです。
+
+退屈だし、安いし、それでがっかりしたことは一度もありません。
+
+私のバックアップ戦略全体は、70 ドルの外部ドライブと 2 つのスケジュールされたコマンドです。
+
+By Korbin Brown 公開 2026 年 8 月 15 日、午前 10:00 EDT Korbin は、物事が実際にどのように機能するかを理解するために、ほとんどの時間を端末で費やしている Linux システム管理者です。過去 10 年間にわたり、彼は Linux の構成、奇妙な問題のトラブルシューティング、現実世界でのオープンソース ツールの使用について何百もの記事を書いてきました。彼はまた、Windows システムとネットワーク、特にドキュメントに記載されているとおりに動作しないことがある混合環境での作業も多く行っています。物事を書き留めることで彼はすべてを理解することができ、できれば他の誰かが数時間を節約できるようになります。 XDA アカウントにサインインする 最も人気のあるバックアップ ソリューションの多くは、複数のドライブと追加ストレージ用のクラウド サブスクリプションを備えた NAS など、高額な購入とより複雑なセットアップを必要とします。この戦略には何も問題はありませんが、最も簡単な方法ではなく、必要以上にコストがかかります。
+
+私のバックアップ戦略全体は、70 ドル以下のポータブル ハード ドライブと、スケジュールに従って実行される 2 つの rsync コマンドです。これらは一緒に 3-2-1 ルールを満たします。つまり、私の作業用コピー、外部ドライブ上の別のローカル コピー、およびレンタル ストレージ VPS 上にあるオフサイト コピーです。全体のセットアップは非常にシンプルで、GUI、専用ソフトウェア、クラウド サブスクリプションは必要ありません。
+
+数年間そのように動作しており、そこから2回正常に復元しました。バックアップはそれほど複雑である必要はありません。全体の構成は数行…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/external-hdd-hard-drive-seagate-pc.jpg?w=1600&amp;h=900&amp;fit=crop" alt="私のバックアップ戦略全体は、70 ドルの外部ドライブと 2 つのスケジュールされたコマンドです。"></p>]]></description><source url="https://www.xda-developers.com/my-entire-backup-strategy-cheap-drive-two-commands/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/external-hdd-hard-drive-seagate-pc.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/external-hdd-hard-drive-seagate-pc.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>YouTube の「後で見る」を NotebookLM キューとトランスクリプトに置き換えたところ、コンテンツの消費方法が完全に変わりました</title><link>https://www.xda-developers.com/i-replaced-my-youtube-watch-later-with-a-notebooklm-queue-and-transcripts-and-it-completely-changed-how-i-consume-content/</link><guid isPermaLink="true">https://www.xda-developers.com/i-replaced-my-youtube-watch-later-with-a-notebooklm-queue-and-transcripts-and-it-completely-changed-how-i-consume-content/</guid><pubDate>Sat, 15 Aug 2026 13:30:10 +0000</pubDate><description><![CDATA[<p>YouTube の「後で見る」を NotebookLM キューとトランスクリプトに置き換えたところ、コンテンツの消費方法が完全に変わりました
 
 一番いいところは？セットアップには数秒しかかかりません。
@@ -1214,8 +1253,8 @@ Bloodsuckers と Fleshes は生息地に応じて異なる外観を特徴とし�
 2026 年 7 月 27 日 Palworld 幹部、サポート終了計画についてゲーマーに安心を与える (10)
 
 2026 年 4 月 28 日 Denuvo がデイ…</p><p><img src="https://www.techpowerup.com/img/IlHZP7ChIvB57MLZ.jpg" alt="(PR) S.T.A.L.K.E.R. 2: チェルノブイリの中心アップデート 2.0 が 8 月 20 日に到着"></p>]]></description><source url="https://www.techpowerup.com/351625/s-t-a-l-k-e-r-2-heart-of-chornobyl-update-2-0-arrives-august-20">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/IlHZP7ChIvB57MLZ.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/IlHZP7ChIvB57MLZ.jpg"/></item>
-<item><title>My Experience at the InfiMaker K1 Five-Axis CNC Launch Event</title><link>https://www.hackster.io/news/my-experience-at-the-infimaker-k1-five-axis-cnc-launch-event-5e3577e35557</link><guid isPermaLink="true">https://www.hackster.io/news/my-experience-at-the-infimaker-k1-five-axis-cnc-launch-event-5e3577e35557</guid><pubDate>Fri, 14 Aug 2026 21:01:06 +0000</pubDate><description><![CDATA[<p>My Experience at the InfiMaker K1 Five-Axis CNC Launch Event</p>]]></description><source url="https://www.hackster.io/news/my-experience-at-the-infimaker-k1-five-axis-cnc-launch-event-5e3577e35557">Hackster.io</source></item>
 <item><title>My Experience at the InfiMaker K1 5-Axis CNC Launch Event</title><link>https://www.hackster.io/news/my-experience-at-the-infimaker-k1-5-axis-cnc-launch-event-5e3577e35557</link><guid isPermaLink="true">https://www.hackster.io/news/my-experience-at-the-infimaker-k1-5-axis-cnc-launch-event-5e3577e35557</guid><pubDate>Fri, 14 Aug 2026 21:01:06 +0000</pubDate><description><![CDATA[<p>My Experience at the InfiMaker K1 5-Axis CNC Launch Event</p>]]></description><source url="https://www.hackster.io/news/my-experience-at-the-infimaker-k1-5-axis-cnc-launch-event-5e3577e35557">Hackster.io</source></item>
+<item><title>My Experience at the InfiMaker K1 Five-Axis CNC Launch Event</title><link>https://www.hackster.io/news/my-experience-at-the-infimaker-k1-five-axis-cnc-launch-event-5e3577e35557</link><guid isPermaLink="true">https://www.hackster.io/news/my-experience-at-the-infimaker-k1-five-axis-cnc-launch-event-5e3577e35557</guid><pubDate>Fri, 14 Aug 2026 21:01:06 +0000</pubDate><description><![CDATA[<p>My Experience at the InfiMaker K1 Five-Axis CNC Launch Event</p>]]></description><source url="https://www.hackster.io/news/my-experience-at-the-infimaker-k1-five-axis-cnc-launch-event-5e3577e35557">Hackster.io</source></item>
 <item><title>私が行った最高の Wi-Fi アップグレードは新しいルーターではなく、家具を 1 つ移動したことでした</title><link>https://www.xda-developers.com/the-best-wi-fi-upgrade-wasnt-a-new-router-it-was-moving-some-furniture/</link><guid isPermaLink="true">https://www.xda-developers.com/the-best-wi-fi-upgrade-wasnt-a-new-router-it-was-moving-some-furniture/</guid><pubDate>Fri, 14 Aug 2026 21:00:10 +0000</pubDate><description><![CDATA[<p>私が行った最高の Wi-Fi アップグレードは新しいルーターではなく、家具を 1 つ移動したことでした
 
 そろそろ ISP を責めるのをやめる時が来た
@@ -1296,7 +1335,6 @@ Googleはまた、日記のエントリを書いたり口述したりした後�
 Pixel Journal は Google の Pixel ラインナップにまだ加わったばかりで、同社はまだ開発を終えていないようです。現在、アプリの新しいバージョンが公開されており、いくつかの便利な生活の質のアップグレードが行われています。しかし、Google が将来の Pixel Journal リリースに向けて準備していると思われる機能の兆候が明らかになったことから、今後の登場がないことを示唆する手がかりも内部にあります。
 
 あなたは Authority Insights の記事を読んでいます。 Authority Insights は、他では見られない Android Authority チ…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2025/08/Google-Pixel-Journal-app-icon.jpg" alt="Pixel Journal がいくつかの便利なアップグレードを受け、間もなくあなたのとりとめのないエントリが整理されるかもしれません"></p>]]></description><source url="https://www.androidauthority.com/pixel-journal-app-changes-apk-teardown-3698996/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2025/08/Google-Pixel-Journal-app-icon.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2025/08/Google-Pixel-Journal-app-icon.jpg"/></item>
-<item><title>Xbox Elite Series 3 controller gets leaked with a built-in screen, quickly gets taken down</title><link>https://www.tweaktown.com/rss/click/news/113121/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113121/?c=news-mf</guid><pubDate>Fri, 14 Aug 2026 20:00:12 +0000</pubDate><description><![CDATA[<p>Xbox Elite Series 3 controller gets leaked with a built-in screen, quickly gets taken down</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113121/?c=news-mf">TweakTown</source></item>
 <item><title>BabyBjorn バウンシングサーボによる自動お昼寝タイム</title><link>https://hackaday.com/2026/08/14/automatic-naptime-with-babybjorn-bouncing-servo/</link><guid isPermaLink="true">https://hackaday.com/2026/08/14/automatic-naptime-with-babybjorn-bouncing-servo/</guid><pubDate>Fri, 14 Aug 2026 20:00:12 +0000</pubDate><description><![CDATA[<p>BabyBjorn バウンシングサーボによる自動お昼寝タイム
 
 赤ちゃんと豊かなお金を持つ親、または豊かなお金を持つ友人は、おそらくベビービョルン ロッキング スリング チェアを称賛するでしょう。シンプルなスプリング式スリングシートにより、…
@@ -1308,6 +1346,7 @@ Pixel Journal は Google の Pixel ラインナップにまだ加わったばか
 [Ceyhun] の発明を複製するのにそれほど時間はかかりません。必要なだけ複雑ですが、それほど複雑ではありません。そのようなプロジェクトには十分な時間が必要です。サーボであるFutaba S3003は、3Dプリントされたケース内のロッカーの底に取り付けられており、跳ねるシート部分に結ばれた紐で赤ちゃんを巻き込みます。ベビービョルンの内蔵スプリングはジュニアを跳ね返します。前述したように、Arduino Nano はサーボを制御し、ビルド内の 2 つのポテンショメータを使用して、バウンスの速度と振幅を個別に制御して、完璧な昼寝時間の比率を得ることができます。ハードウェアと子供を除いて、開始するために必要なものはすべて上記のリンクから入手できます。下のビデオで実際に動作している様子を見ることができます。トルコ語のサムネイルから心配するかもしれませんが、AI 自動吹き替えではなく、本物の英語の音声が付いています。
 
 赤ちゃんはいる…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/babyrockerfeat.png" alt="BabyBjorn バウンシングサーボによる自動お昼寝タイム"></p>]]></description><source url="https://hackaday.com/2026/08/14/automatic-naptime-with-babybjorn-bouncing-servo/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/babyrockerfeat.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/babyrockerfeat.png"/></item>
+<item><title>Xbox Elite Series 3 controller gets leaked with a built-in screen, quickly gets taken down</title><link>https://www.tweaktown.com/rss/click/news/113121/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113121/?c=news-mf</guid><pubDate>Fri, 14 Aug 2026 20:00:12 +0000</pubDate><description><![CDATA[<p>Xbox Elite Series 3 controller gets leaked with a built-in screen, quickly gets taken down</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113121/?c=news-mf">TweakTown</source></item>
 <item><title>できる限りすべての Pixel バッテリー ハックのベンチマークを行った結果、実際に機能するものは次のとおりです</title><link>https://www.xda-developers.com/benchmarking-pixel-battery-life-tips/</link><guid isPermaLink="true">https://www.xda-developers.com/benchmarking-pixel-battery-life-tips/</guid><pubDate>Fri, 14 Aug 2026 20:00:10 +0000</pubDate><description><![CDATA[<p>できる限りすべての Pixel バッテリー ハックのベンチマークを行った結果、実際に機能するものは次のとおりです
 
 いくつかの設定により驚くべき違いが生じました。
@@ -2820,6 +2859,15 @@ YouTube は、モバイルとウェブの両方でそのユーザー インタ�
 
 昨年だけでも、6 件以上の大きな変更が加えられました。しかし、YouTubeは最近この動きの背後にある理念を説明し、これらの変更が意図的なものであることを確認した。 YouTube のユーザー エクスペリエンス担当副社長である Jonathan Terleski による最近のブログ投稿で、ビデオ巨人はこうした絶え間ない変化の背後にある原動力を明らかにしています。このブログでは、「煩雑さを減らし、アプリを使いやすくする」ために YouTube のインターフェースに最小限の変更を加えた…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/03/youtube-logo-google-pixel-10a-2-scaled.jpg" alt="YouTubeは、UIが変わり続けるのには理由があり、ユーザーを困らせるためではないとしている"></p>]]></description><source url="https://www.androidauthority.com/youtube-explains-why-ui-keeps-changing-3698670/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/03/youtube-logo-google-pixel-10a-2-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/03/youtube-logo-google-pixel-10a-2-scaled.jpg"/></item>
 <item><title>Phantom Blade Zero on PC will launch with DLSS 4.5 and Ray Tracing on day one</title><link>https://www.tweaktown.com/rss/click/news/113117/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113117/?c=news-mf</guid><pubDate>Fri, 14 Aug 2026 08:29:08 +0000</pubDate><description><![CDATA[<p>Phantom Blade Zero on PC will launch with DLSS 4.5 and Ray Tracing on day one</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113117/?c=news-mf">TweakTown</source></item>
+<item><title>モークリーとエッカートの他のコンピューター</title><link>https://hackaday.com/2026/08/14/mauchly-and-eckerts-other-computers/</link><guid isPermaLink="true">https://hackaday.com/2026/08/14/mauchly-and-eckerts-other-computers/</guid><pubDate>Fri, 14 Aug 2026 08:00:37 +0000</pubDate><description><![CDATA[<p>モークリーとエッカートの他のコンピューター
+
+ランダムな人に [ジョン モークリー] と [J.プレスパー・エッカート] だったら、おそらく白い目で見られるでしょう。 Hackaday の読者に尋ねれば、より良い答えが得られます。知っている人は教えてくれるでしょう…
+
+ランダムな人に [ジョン モークリー] と [J.プレスパー・エッカート] だったら、おそらく白い目で見られるでしょう。 Hackaday の読者に尋ねれば、より良い答えが得られます。知っている人なら、この 2 人が有名な ENIAC の背後にいると言うでしょう。ENIAC は最初のコンピューターであるかどうかはわかりませんが、現代コンピューター時代の始まりに確かに影響を与えました。彼らはペンシルバニア大学で働いており、現在、ペンシルベニア州キスラック特別コレクション、貴重書、写本センターの [ホリー メンゲル] が、ENIAC の後に彼らが取り組んだ他のコンピューターを私たちに紹介したいと考えています。
+
+EDVAC と UNIVAC については知っていたことを認めます。しかし、BINAC や Skeduflo というかなり大きなスーツケースに入ったコンピューターについては知らなかったことも告白します。 BINAC は、商業化された最初のデジタル コンピューターであると主張できますが、それはかなり限定的であり、伝えられるところによると、納入後に一度も動作しなかったため、そう主張することもできます。おそらく顧客はそれを分解し、安全な施設に輸送し、再構築するために新卒のエンジニアを雇ったと考えられますが、それはあまりうまくいきませんでした。
+
+Skeduflo については、クリティカル パス法 (CPM) 分析用に作られた 75 ポンドのアナログ コンピューターであるということ以外、あまり見つかりませんでした。パッチボードとポテンショメータを使用して問題を設定すると、結果がアナログ プロッタに出力されました。これらの詳細は、[モーガン ウォーカー] と [ジム ケリー] への PMI インタビューからのもの…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/sked.png" alt="モークリーとエッカートの他のコンピューター"></p>]]></description><source url="https://hackaday.com/2026/08/14/mauchly-and-eckerts-other-computers/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/sked.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/sked.png"/></item>
 <item><title>Pixel 11 のことは忘れてください。この Google 製品は今年多くの人の注目を集めています</title><link>https://www.androidauthority.com/fitness-tracker-fitbit-air-poll-results-3698641/</link><guid isPermaLink="true">https://www.androidauthority.com/fitness-tracker-fitbit-air-poll-results-3698641/</guid><pubDate>Fri, 14 Aug 2026 08:00:37 +0000</pubDate><description><![CDATA[<p>Pixel 11 のことは忘れてください。この Google 製品は今年多くの人の注目を集めています
 
 Googleは5月にFitbit Airを発売した。読者アンケートの結果を受けて、スクリーンレス トラッカーは急速に人気を博しています。
@@ -2839,15 +2887,6 @@ Android Authority のアフィリエイト リンクにより、手数料が発�
 Andy Walker / Android Authority この調査は 2,200 を超える投票を集め、Air の望ましさを超えたいくつかの驚くべき傾向が明らかになりました。
 
 まず、スマート リングの誇大宣伝は沈静化しつつあるようです。回答者のわずか 2.8% のみが今すぐ購入すると考えています。 Oura Ring 5 の発売前にこのアンケートを実施したことは注目…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/05/google-fitbit-air-worn-on-ankle-3.jpg" alt="Pixel 11 のことは忘れてください。この Google 製品は今年多くの人の注目を集めています"></p>]]></description><source url="https://www.androidauthority.com/fitness-tracker-fitbit-air-poll-results-3698641/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/05/google-fitbit-air-worn-on-ankle-3.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/05/google-fitbit-air-worn-on-ankle-3.jpg"/></item>
-<item><title>モークリーとエッカートの他のコンピューター</title><link>https://hackaday.com/2026/08/14/mauchly-and-eckerts-other-computers/</link><guid isPermaLink="true">https://hackaday.com/2026/08/14/mauchly-and-eckerts-other-computers/</guid><pubDate>Fri, 14 Aug 2026 08:00:37 +0000</pubDate><description><![CDATA[<p>モークリーとエッカートの他のコンピューター
-
-ランダムな人に [ジョン モークリー] と [J.プレスパー・エッカート] だったら、おそらく白い目で見られるでしょう。 Hackaday の読者に尋ねれば、より良い答えが得られます。知っている人は教えてくれるでしょう…
-
-ランダムな人に [ジョン モークリー] と [J.プレスパー・エッカート] だったら、おそらく白い目で見られるでしょう。 Hackaday の読者に尋ねれば、より良い答えが得られます。知っている人なら、この 2 人が有名な ENIAC の背後にいると言うでしょう。ENIAC は最初のコンピューターであるかどうかはわかりませんが、現代コンピューター時代の始まりに確かに影響を与えました。彼らはペンシルバニア大学で働いており、現在、ペンシルベニア州キスラック特別コレクション、貴重書、写本センターの [ホリー メンゲル] が、ENIAC の後に彼らが取り組んだ他のコンピューターを私たちに紹介したいと考えています。
-
-EDVAC と UNIVAC については知っていたことを認めます。しかし、BINAC や Skeduflo というかなり大きなスーツケースに入ったコンピューターについては知らなかったことも告白します。 BINAC は、商業化された最初のデジタル コンピューターであると主張できますが、それはかなり限定的であり、伝えられるところによると、納入後に一度も動作しなかったため、そう主張することもできます。おそらく顧客はそれを分解し、安全な施設に輸送し、再構築するために新卒のエンジニアを雇ったと考えられますが、それはあまりうまくいきませんでした。
-
-Skeduflo については、クリティカル パス法 (CPM) 分析用に作られた 75 ポンドのアナログ コンピューターであるということ以外、あまり見つかりませんでした。パッチボードとポテンショメータを使用して問題を設定すると、結果がアナログ プロッタに出力されました。これらの詳細は、[モーガン ウォーカー] と [ジム ケリー] への PMI インタビューからのもの…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/sked.png" alt="モークリーとエッカートの他のコンピューター"></p>]]></description><source url="https://hackaday.com/2026/08/14/mauchly-and-eckerts-other-computers/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/sked.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/sked.png"/></item>
 <item><title>Razer announces its first Artisan Keycap with the Triple-Headed Snake Edition</title><link>https://www.tweaktown.com/rss/click/news/113116/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113116/?c=news-mf</guid><pubDate>Fri, 14 Aug 2026 07:58:12 +0000</pubDate><description><![CDATA[<p>Razer announces its first Artisan Keycap with the Triple-Headed Snake Edition</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113116/?c=news-mf">TweakTown</source></item>
 <item><title>Google Meet で対面会議でもメモが取れるようになりました。その方法は次のとおりです。</title><link>https://www.androidauthority.com/google-meet-in-person-meeting-notes-3698664/</link><guid isPermaLink="true">https://www.androidauthority.com/google-meet-in-person-meeting-notes-3698664/</guid><pubDate>Fri, 14 Aug 2026 07:50:47 +0000</pubDate><description><![CDATA[<p>Google Meet で対面会議でもメモが取れるようになりました。その方法は次のとおりです。
 
@@ -3886,6 +3925,13 @@ TSMC、レチクルサイズ5…</p><p><img src="https://www.techpowerup.com/img
 By Patrick O&#39;Rourke 公開 2026 年 8 月 13 日、午前 11 時 30 分 EDT Patrick O&#39;Rourke は、XDA のニュース編集者およびエンターテイメント セグメントのリーダーです。以前は、Pocket-lint の編集長、カナダのテクノロジー出版物 MobileSyrup の編集長を務め、キャリアの初期には Financial Post および Postmedia でテクノロジー編集者として働いていました。彼はトロントに拠点を置いています。過去 15 年間にわたり、彼は何千もの記事を書いてきました。パトリック氏はまた、何十人ものテクノロジー業界の幹部にインタビューし、GDC、E3、Gamescom、WWDC、Apple の基調講演、Samsung Unpacked イベントなどを取材しました。パトリックはトロント・メトロポリタン大学でジャーナリズムの学士号を取得しています。 XDA アカウントにサインインする 私は、その時に見ているテレビ番組に追いつくために、パートナーや息子より少し遅くまで起きていることがよくあります。ほとんどの場合、私はイヤホンかヘッドホンを使用しているので、家では誰も起こさず、できるだけ静かにしていますが、ホームオフィスで仕事をしているときに一日中イヤホンを付けていると、イヤホンを着けたくない場合もあります。
 
 このため、私は主にテレビの音量を最小にして字幕を使用するようになりましたが、これでは、何を観ているかに関係なく、あまり夢中になれるテレビ体験が得られませんでした。また、私は XDA での仕事の一環として読み書きをしているので、通常、夕方にリラックスしているときに字幕を読みたくありません (長い一日を終えるとかなり疲れることがあります)。その後、Hisense TV で Clear Voice という、これまで聞いたことの…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/hisense-house-of-the-dragon.jpg?w=1600&amp;h=900&amp;fit=crop" alt="この隠れたテレビ音声機能を発見してから、字幕の使用をやめました"></p>]]></description><source url="https://www.xda-developers.com/i-stopped-using-subtitles-after-discovering-this-hidden-tv-audio-feature/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/hisense-house-of-the-dragon.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/hisense-house-of-the-dragon.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>プロッターからのホログラム</title><link>https://hackaday.com/2026/08/13/holograms-from-your-plotter/</link><guid isPermaLink="true">https://hackaday.com/2026/08/13/holograms-from-your-plotter/</guid><pubDate>Thu, 13 Aug 2026 15:30:05 +0000</pubDate><description><![CDATA[<p>プロッターからのホログラム
+
+1980 年代に大量に印刷されたホログラムが雑誌に登場したとき、それらは非常に目新しいものでしたが、その後数年で子供用のステッカーのレベルにまで落ち込んでしまいました。当時、彼らはそうではないと見なされていました…
+
+1980 年代に大量に印刷されたホログラムが雑誌に登場したとき、それらは非常に目新しいものでしたが、その後数年で子供用のステッカーのレベルにまで落ち込んでしまいました。当時、それらは一般の人が作ることができないものとみなされていましたが、実際には、レーザーや光学実験室がなくても作成できるのです。 [Jordan Matelsky] は、ペン プロッターのような簡単なデバイスを使用して、それらをどのように作成できるかを示すためにここに来ました。
+
+薄膜内の一連の細い線による干渉パターンの効果は、油のついた指と携帯電話の画面を使って最も簡単に実証できます。彼はそれを実証し、画像を作成するために光を変えることに関連する理論の一部を私たちに説明します。さまざまな素材でいくつかの間違ったスタートがありましたが、最終的には、CD ケースのポリカーボネートに書き込まれた完成したホログラムをいくつか見せてくれました。本当にペンプロッターでホログラムが作れるようです。これらの画像に興味があれば、私たちは過去にこのテーマをさらに詳しく調べました。一方、プロッターでスクライブされたホログラムの 1 つを以下に示します。</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/plotter-hologram-featured.jpg" alt="プロッターからのホログラム"></p>]]></description><source url="https://hackaday.com/2026/08/13/holograms-from-your-plotter/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/plotter-hologram-featured.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/plotter-hologram-featured.jpg"/></item>
 <item><title>このスリムな Lenovo ノートパソコンは、最も便利なハードウェアにアクセスできる状態を維持します</title><link>https://www.xda-developers.com/lenovo-ideapad-slim-3i-15-gen-11-laptop/</link><guid isPermaLink="true">https://www.xda-developers.com/lenovo-ideapad-slim-3i-15-gen-11-laptop/</guid><pubDate>Thu, 13 Aug 2026 15:30:05 +0000</pubDate><description><![CDATA[<p>このスリムな Lenovo ノートパソコンは、最も便利なハードウェアにアクセスできる状態を維持します
 
 この記事は Lenovo によって後援されています
@@ -3899,13 +3945,6 @@ Intel の Core 7 350 は、Copilot+ プレミアムなしで AI 高速化を実�
 Lenovo IdeaPad Slim 3i 15 Gen 11 CPU Intel Core 7 350 ディスプレイ (サイズ、解像度) 15.3 インチ 1920x1080 RAM 16GB ストレージ 512GB Lenovo IdeaPad Slim 3i 15 Gen 11 は、学校、職場、自宅の間で持ち歩くのに最適なラップトップです。 Intel Core 7 プロセッサーを搭載した Lenovo の最新の IdeaPad は、プレミアムな Copilot+ ブランドを冠することなく AI 処理能力を備えており、あらゆる種類の作業に最適なマシンとなっています。
 
 Copilot+ システムに要求されるプレミアムを支払わずに、AI 機能を備えた何でもできるラップトップが必要な場合は、Lenovo Idea…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/19_ideapad_slim_3i_15_oled_15_feature.png?w=1600&amp;h=900&amp;fit=crop" alt="このスリムな Lenovo ノートパソコンは、最も便利なハードウェアにアクセスできる状態を維持します"></p>]]></description><source url="https://www.xda-developers.com/lenovo-ideapad-slim-3i-15-gen-11-laptop/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/19_ideapad_slim_3i_15_oled_15_feature.png?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/19_ideapad_slim_3i_15_oled_15_feature.png?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>プロッターからのホログラム</title><link>https://hackaday.com/2026/08/13/holograms-from-your-plotter/</link><guid isPermaLink="true">https://hackaday.com/2026/08/13/holograms-from-your-plotter/</guid><pubDate>Thu, 13 Aug 2026 15:30:05 +0000</pubDate><description><![CDATA[<p>プロッターからのホログラム
-
-1980 年代に大量に印刷されたホログラムが雑誌に登場したとき、それらは非常に目新しいものでしたが、その後数年で子供用のステッカーのレベルにまで落ち込んでしまいました。当時、彼らはそうではないと見なされていました…
-
-1980 年代に大量に印刷されたホログラムが雑誌に登場したとき、それらは非常に目新しいものでしたが、その後数年で子供用のステッカーのレベルにまで落ち込んでしまいました。当時、それらは一般の人が作ることができないものとみなされていましたが、実際には、レーザーや光学実験室がなくても作成できるのです。 [Jordan Matelsky] は、ペン プロッターのような簡単なデバイスを使用して、それらをどのように作成できるかを示すためにここに来ました。
-
-薄膜内の一連の細い線による干渉パターンの効果は、油のついた指と携帯電話の画面を使って最も簡単に実証できます。彼はそれを実証し、画像を作成するために光を変えることに関連する理論の一部を私たちに説明します。さまざまな素材でいくつかの間違ったスタートがありましたが、最終的には、CD ケースのポリカーボネートに書き込まれた完成したホログラムをいくつか見せてくれました。本当にペンプロッターでホログラムが作れるようです。これらの画像に興味があれば、私たちは過去にこのテーマをさらに詳しく調べました。一方、プロッターでスクライブされたホログラムの 1 つを以下に示します。</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/plotter-hologram-featured.jpg" alt="プロッターからのホログラム"></p>]]></description><source url="https://hackaday.com/2026/08/13/holograms-from-your-plotter/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/plotter-hologram-featured.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/plotter-hologram-featured.jpg"/></item>
 <item><title>部品コストの高さが安価な携帯電話を台無しにしているという証拠がこれです</title><link>https://www.androidauthority.com/sub-100-android-smartphone-us-sales-3698258/</link><guid isPermaLink="true">https://www.androidauthority.com/sub-100-android-smartphone-us-sales-3698258/</guid><pubDate>Thu, 13 Aug 2026 15:28:55 +0000</pubDate><description><![CDATA[<p>部品コストの高さが安価な携帯電話を台無しにしているという証拠がこれです
 
 米国における 100 ドル未満の携帯電話の売上高は、部品コストの上昇などのさまざまな要因により、2026 年第 2 四半期に 64% 減少しました。
@@ -6693,6 +6732,25 @@ Pixel 11 シリーズが主役であることは明らかです。これをハ�
 新しい HiLight 機能は Pro スマートフォンで利用できるため、ベースモデルの Pixel は点灯しないままになります。 HiLight は、電話機の背面にあるフラッシュ アセンブリ内の RGB LED のリングで構成されています。 Gemini と話しているときに点灯するので、自分の声が聞こえたことや AI が動作していることを知るために携帯電話の画面を見る必要はありません。したがって、電話機を下向きに置くのが最も合理的です。
 
 多色の LED は、特定の…</p><p><img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Google-2026-lineup-1152x648.jpg" alt="Google、2026年のハードウェアラインナップを発表：Pixel 11、Pixel Watch 5、Pixel Tag"></p>]]></description><source url="https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/">Ars Technica Gear &amp; Gadgets</source><media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Google-2026-lineup-1152x648.jpg" medium="image"/><media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Google-2026-lineup-1152x648.jpg"/></item>
+<item><title>Google、2倍のストレージ、より大きなバッテリー、Gemini Intelligenceを搭載したPixel Watch 5を発表</title><link>https://www.androidauthority.com/google-pixel-watch-5-launch-3695435/</link><guid isPermaLink="true">https://www.androidauthority.com/google-pixel-watch-5-launch-3695435/</guid><pubDate>Wed, 12 Aug 2026 14:00:46 +0000</pubDate><description><![CDATA[<p>Google、2倍のストレージ、より大きなバッテリー、Gemini Intelligenceを搭載したPixel Watch 5を発表
+
+Google は Pixel Watch 5 を正式に発売しました。同社の最新スマートウォッチは現在予約注文可能です。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+Google、2倍のストレージ、より大きなバッテリー、Gemini Intelligenceを搭載したPixel Watch 5を発表
+
+0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google は Pixel Watch 5 を発売しました。
+
+スマートウォッチの新機能には、生成ウォッチフェイス、血圧トレンド、呼吸緊急検知などが含まれます。
+
+価格は41mm Wi-Fiモデルが399ドル、45mm Wi-Fiモデルが429ドル、ステフィン・カリー特別版が579ドルとなる。
+
+今日は、Google が待望の Pixel 発売イベントを開催し、Pixel Watch 5 と Pixel 11 シリーズを披露する日です。ショーの開始を今晩まで待つ代わりに、同社は少し早めに情報を公開し、同時に新しいハードウェアの予約注文も開始している。 Pixel Watch シリーズの最新作は何を提供するのでしょうか?それでは、詳細に入り、Pixel Watch 5 について知っておくべきことをすべて調べてみましょう。
+
+Google Pixel Watch 5 メーカー希望小売価格: $399.00 Amazon で価格を見る Google Pixel Watch 5: デザイン、カラー、バンド、モデル
+
+Joe Maring / Android Authority まず始めるのに最適な場所は、前世代の外観を忠実に再現したデザインです。昨年、Google は Pixel Watch 4 に変更を加え、ドームがわずかに平らになりました。 Google…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516.jpg" alt="Google、2倍のストレージ、より大きなバッテリー、Gemini Intelligenceを搭載したPixel Watch 5を発表"></p>]]></description><source url="https://www.androidauthority.com/google-pixel-watch-5-launch-3695435/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516.jpg"/></item>
 <item><title>Pixel Watch 5 は、Health Guardian を使用した早期警告システムになる可能性があります</title><link>https://www.androidauthority.com/google-pixel-watch-5-health-guardian-3697552/</link><guid isPermaLink="true">https://www.androidauthority.com/google-pixel-watch-5-health-guardian-3697552/</guid><pubDate>Wed, 12 Aug 2026 14:00:46 +0000</pubDate><description><![CDATA[<p>Pixel Watch 5 は、Health Guardian を使用した早期警告システムになる可能性があります
 
 Google の Health Guardian は、呼吸の緊急事態の検出や血圧の傾向などを備えた健康モニタリングを Pixel ウォッチに提供します。
@@ -6712,6 +6770,25 @@ Pixel Watch 5 は、Health Guardian を使用した早期警告システムに�
 これが、この秋登場する新しい健康機能のコレクションである Health Guardian の背後にある考え方です。ユーザーが個々の測定値を詳しく調べるのを待つのではなく、バックグラウンドで収集された信号を分析し、実際に注意を払う価値がある可能性のある変化にフラグを立てます。
 
 それらの中で最も即時的なのは、呼吸…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-2-scaled.jpg" alt="Pixel Watch 5 は、Health Guardian を使用した早期警告システムになる可能性があります"></p>]]></description><source url="https://www.androidauthority.com/google-pixel-watch-5-health-guardian-3697552/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-2-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-2-scaled.jpg"/></item>
+<item><title>すべての Pixel 11 スマートフォンは、ファンが待ち望んでいたワイヤレス充電速度をサポートしています</title><link>https://www.androidauthority.com/google-pixel-11-wireless-charging-3697309/</link><guid isPermaLink="true">https://www.androidauthority.com/google-pixel-11-wireless-charging-3697309/</guid><pubDate>Wed, 12 Aug 2026 14:00:46 +0000</pubDate><description><![CDATA[<p>すべての Pixel 11 スマートフォンは、ファンが待ち望んでいたワイヤレス充電速度をサポートしています
+
+Google の新しい Pixel 11 シリーズは Qi 2.2 を完全にサポートしており、全体で最大 25 ワットの磁気ワイヤレス充電が可能です。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+Android スマートフォンすべての Pixel 11 スマートフォンは、ファンが待ち望んでいたワイヤレス充電速度をサポートしています
+
+0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR すべての Pixel 11 スマートフォンは Qi 2.2 規格をサポートしており、25 ワットの磁気ワイヤレス充電を提供します。
+
+昨年の Pixel 10 シリーズのうち、25 ワットのワイヤレス充電をサポートしていたのは 10 Pro XL だけでした。
+
+既存の Pixelsnap 充電器は、35W USB-C 電源ブリックと組み合わせると 25W を供給できます。
+
+数カ月間のリークを経て、Googleは本日、ニューヨークのイベントでついにPixel 11シリーズ全体のパッケージを外した。新しい携帯電話には、新しいカメラセンサーから充電速度の高速化に至るまで、思慮深く実用的なアップグレードが数多く組み込まれています。今年、すべての Pixel 11 モデルが Qi 2.2 充電をサポートします。これは、昨年 10 Pro XL のみに搭載されていた機能です。
+
+Qi 2.2 充電では、互換性のある電源に接続された互換性のあるワイヤレス充電器を使用している場合、最大 25 W のより高速なワイヤレス充電速度が可能になります。これは、Pixel 11、Pixel 11 Pro、Pixel 11 Pro Fold にとって大きなメリットです。これらの 2025 年モデルの最高値はすべて 15W です。
+
+Robert Triggs / And…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-pixel-11-pro-xl-hands-on-8-scaled.jpg" alt="すべての Pixel 11 スマートフォンは、ファンが待ち望んでいたワイヤレス充電速度をサポートしています"></p>]]></description><source url="https://www.androidauthority.com/google-pixel-11-wireless-charging-3697309/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-pixel-11-pro-xl-hands-on-8-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-pixel-11-pro-xl-hands-on-8-scaled.jpg"/></item>
 <item><title>Pixel 11 Proは、3世代を経て正式に温度計に別れを告げます</title><link>https://www.androidauthority.com/pixel-11-pro-phones-no-thermometer-3697115/</link><guid isPermaLink="true">https://www.androidauthority.com/pixel-11-pro-phones-no-thermometer-3697115/</guid><pubDate>Wed, 12 Aug 2026 14:00:46 +0000</pubDate><description><![CDATA[<p>Pixel 11 Proは、3世代を経て正式に温度計に別れを告げます
 
 Googleは2023年にPixel Proスマートフォンに温度計を導入しましたが、Pixel 11 Proスマートフォンには温度計が搭載されていないことが公式に確認されました。
@@ -6733,44 +6810,6 @@ Google は Android Authority に対して、Pixel 11 シリーズのデバイス
 Pixel 11 シリーズには温度センサーが搭載されていません。私たちは毎年、できるだけ多くの人々のお役に立てるように、Pixel の製品の進歩に取り組んでいます。 Pixel の温度センサーにより、外出先でも測定値を取得できるという安心感が得られました。そして今回、HiLight は、重要な通知を見逃さないという安心感を提供すると同時に、Gemini と積極的に会話しているときに視覚的な合図も提供します。
 
 温度セ…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-vs-pixel-10-pro-hands-on-3-scaled.jpg" alt="Pixel 11 Proは、3世代を経て正式に温度計に別れを告げます"></p>]]></description><source url="https://www.androidauthority.com/pixel-11-pro-phones-no-thermometer-3697115/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-vs-pixel-10-pro-hands-on-3-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-vs-pixel-10-pro-hands-on-3-scaled.jpg"/></item>
-<item><title>すべての Pixel 11 スマートフォンは、ファンが待ち望んでいたワイヤレス充電速度をサポートしています</title><link>https://www.androidauthority.com/google-pixel-11-wireless-charging-3697309/</link><guid isPermaLink="true">https://www.androidauthority.com/google-pixel-11-wireless-charging-3697309/</guid><pubDate>Wed, 12 Aug 2026 14:00:46 +0000</pubDate><description><![CDATA[<p>すべての Pixel 11 スマートフォンは、ファンが待ち望んでいたワイヤレス充電速度をサポートしています
-
-Google の新しい Pixel 11 シリーズは Qi 2.2 を完全にサポートしており、全体で最大 25 ワットの磁気ワイヤレス充電が可能です。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Android スマートフォンすべての Pixel 11 スマートフォンは、ファンが待ち望んでいたワイヤレス充電速度をサポートしています
-
-0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR すべての Pixel 11 スマートフォンは Qi 2.2 規格をサポートしており、25 ワットの磁気ワイヤレス充電を提供します。
-
-昨年の Pixel 10 シリーズのうち、25 ワットのワイヤレス充電をサポートしていたのは 10 Pro XL だけでした。
-
-既存の Pixelsnap 充電器は、35W USB-C 電源ブリックと組み合わせると 25W を供給できます。
-
-数カ月間のリークを経て、Googleは本日、ニューヨークのイベントでついにPixel 11シリーズ全体のパッケージを外した。新しい携帯電話には、新しいカメラセンサーから充電速度の高速化に至るまで、思慮深く実用的なアップグレードが数多く組み込まれています。今年、すべての Pixel 11 モデルが Qi 2.2 充電をサポートします。これは、昨年 10 Pro XL のみに搭載されていた機能です。
-
-Qi 2.2 充電では、互換性のある電源に接続された互換性のあるワイヤレス充電器を使用している場合、最大 25 W のより高速なワイヤレス充電速度が可能になります。これは、Pixel 11、Pixel 11 Pro、Pixel 11 Pro Fold にとって大きなメリットです。これらの 2025 年モデルの最高値はすべて 15W です。
-
-Robert Triggs / And…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-pixel-11-pro-xl-hands-on-8-scaled.jpg" alt="すべての Pixel 11 スマートフォンは、ファンが待ち望んでいたワイヤレス充電速度をサポートしています"></p>]]></description><source url="https://www.androidauthority.com/google-pixel-11-wireless-charging-3697309/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-pixel-11-pro-xl-hands-on-8-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-pixel-11-pro-xl-hands-on-8-scaled.jpg"/></item>
-<item><title>Google、2倍のストレージ、より大きなバッテリー、Gemini Intelligenceを搭載したPixel Watch 5を発表</title><link>https://www.androidauthority.com/google-pixel-watch-5-launch-3695435/</link><guid isPermaLink="true">https://www.androidauthority.com/google-pixel-watch-5-launch-3695435/</guid><pubDate>Wed, 12 Aug 2026 14:00:46 +0000</pubDate><description><![CDATA[<p>Google、2倍のストレージ、より大きなバッテリー、Gemini Intelligenceを搭載したPixel Watch 5を発表
-
-Google は Pixel Watch 5 を正式に発売しました。同社の最新スマートウォッチは現在予約注文可能です。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Google、2倍のストレージ、より大きなバッテリー、Gemini Intelligenceを搭載したPixel Watch 5を発表
-
-0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google は Pixel Watch 5 を発売しました。
-
-スマートウォッチの新機能には、生成ウォッチフェイス、血圧トレンド、呼吸緊急検知などが含まれます。
-
-価格は41mm Wi-Fiモデルが399ドル、45mm Wi-Fiモデルが429ドル、ステフィン・カリー特別版が579ドルとなる。
-
-今日は、Google が待望の Pixel 発売イベントを開催し、Pixel Watch 5 と Pixel 11 シリーズを披露する日です。ショーの開始を今晩まで待つ代わりに、同社は少し早めに情報を公開し、同時に新しいハードウェアの予約注文も開始している。 Pixel Watch シリーズの最新作は何を提供するのでしょうか?それでは、詳細に入り、Pixel Watch 5 について知っておくべきことをすべて調べてみましょう。
-
-Google Pixel Watch 5 メーカー希望小売価格: $399.00 Amazon で価格を見る Google Pixel Watch 5: デザイン、カラー、バンド、モデル
-
-Joe Maring / Android Authority まず始めるのに最適な場所は、前世代の外観を忠実に再現したデザインです。昨年、Google は Pixel Watch 4 に変更を加え、ドームがわずかに平らになりました。 Google…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516.jpg" alt="Google、2倍のストレージ、より大きなバッテリー、Gemini Intelligenceを搭載したPixel Watch 5を発表"></p>]]></description><source url="https://www.androidauthority.com/google-pixel-watch-5-launch-3695435/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516.jpg"/></item>
 <item><title>樹脂印刷への復帰: 最初の結果</title><link>https://hackaday.com/2026/08/12/getting-back-into-resin-printing-first-results/</link><guid isPermaLink="true">https://hackaday.com/2026/08/12/getting-back-into-resin-printing-first-results/</guid><pubDate>Wed, 12 Aug 2026 14:00:44 +0000</pubDate><description><![CDATA[<p>樹脂印刷への復帰: 最初の結果
 
 前回の中断時、私はちょうど新しい SLA 樹脂プリンターをセットアップし、2026 年の樹脂印刷が 2020 年当時と比べてどうなるかを確認するために最初の印刷を行うところでした。
@@ -6803,25 +6842,6 @@ Pixel 11 シリーズ (および新しい Pixel Watch 5 と Pixel Tag) を使用
 Pixel 11 の小さいカメラバーは素晴らしいです
 
 Joe Maring / Android Authority Google は昨年、基本モデルの Pixel 10 に望遠カメラを追加したとき、私たちに本当に感銘を受けました。良いニュースは、Pixel 11で…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pixel-11-pro-pixel-11-pro-xl-hands-on-3-scaled.jpg" alt="Pixel 11シリーズを2時間いじってみました。これが私を驚かせた点、そして何がうまくいかなかったのかです"></p>]]></description><source url="https://www.androidauthority.com/google-pixel-11-watch-5-tag-hands-on-3697194/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pixel-11-pro-pixel-11-pro-xl-hands-on-3-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pixel-11-pro-pixel-11-pro-xl-hands-on-3-scaled.jpg"/></item>
-<item><title>Pixel 11 のキャリアセール: 新しい Google Pixel を節約する方法は次のとおりです</title><link>https://www.androidauthority.com/pixel-11-carrier-deals-3697709/</link><guid isPermaLink="true">https://www.androidauthority.com/pixel-11-carrier-deals-3697709/</guid><pubDate>Wed, 12 Aug 2026 14:00:39 +0000</pubDate><description><![CDATA[<p>Pixel 11 のキャリアセール: 新しい Google Pixel を節約する方法は次のとおりです
-
-Pixel 11 シリーズは公式です。お金を節約したい場合は、現在利用できる Pixel 11 キャリアのセールをすべてここでご紹介します。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Pixel 11 のキャリアセール: 新しい Google Pixel を節約する方法は次のとおりです
-
-0 • Joe Maring / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Verizon は、他の通信事業者から Simplicity プランに切り替えるユーザーに Pixel 11 Pro を無料で提供しています。
-
-また、新しい Pixel 11 シリーズの携帯電話で新しい Verizon ラインを購入するユーザーには、Pixel Watch 5 と Galaxy Tab S10 FE も提供されます。
-
-ユーザーは既存のスマートフォンを下取りに出して、Pixel 11 シリーズのデバイスを最大 1,100 ドル割引で購入できます。
-
-Google は本日、最新のスマートフォンである Pixel 11 、Pixel 11 Pro、Pixel 11 Pro XL、および Pixel 11 Pro Fold を発売しました。スマートフォンを Pixel 11 ファミリーの新しいモデルにアップグレードすることを考えている場合は、アップグレードが簡単になり、お金の節約に役立つ通信会社の特典を見逃すことはできません。
-
-Verizon は、新規顧客と既存顧客の両方に向けて、Pixel 11 シリーズに関していくつかのオファーを提供しています。通信事業者が何を誰に向けて提供しているのかを詳しく説明します。
-
-まず、新規ユーザーは、Verizon の Simplicity プランの回線と 256GB Pixel 1…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-hands-on-1-scaled.jpg" alt="Pixel 11 のキャリアセール: 新しい Google Pixel を節約する方法は次のとおりです"></p>]]></description><source url="https://www.androidauthority.com/pixel-11-carrier-deals-3697709/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-hands-on-1-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-hands-on-1-scaled.jpg"/></item>
 <item><title>Pixel 11 カメラには、コンテンツ作成者のニーズに対応する内蔵テレプロンプターとタイムラインが付属しています</title><link>https://www.androidauthority.com/pixel-11-camera-creator-suite-3696821/</link><guid isPermaLink="true">https://www.androidauthority.com/pixel-11-camera-creator-suite-3696821/</guid><pubDate>Wed, 12 Aug 2026 14:00:39 +0000</pubDate><description><![CDATA[<p>Pixel 11 カメラには、コンテンツ作成者のニーズに対応する内蔵テレプロンプターとタイムラインが付属しています
 
 Pixel 11 の新しい Creator Suite では、カメラ アプリ内にテレプロンプター、編集タイムライン、自動編成されたビデオ クリップが搭載されています。
@@ -6841,6 +6861,25 @@ Pixel 11 では、ビデオ クリップをプロジェクト アルバムに自
 Google は Pixel 11 に、動画クリエイターがより簡単に創造性を発揮できるようにする新しいツール セットを追加します。これらの機能は、Google が「クリエイター スイート」と呼ぶものにグループ化されており、特にフロント カメラを使用する場合にビデオ作成が容易になります。
 
 Pixel 11 の Creator Suite の機能の中には、ビデオ録画中にオー…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-creator-suite-hands-on-2-scaled.jpg" alt="Pixel 11 カメラには、コンテンツ作成者のニーズに対応する内蔵テレプロンプターとタイムラインが付属しています"></p>]]></description><source url="https://www.androidauthority.com/pixel-11-camera-creator-suite-3696821/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-creator-suite-hands-on-2-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-creator-suite-hands-on-2-scaled.jpg"/></item>
+<item><title>Pixel 11 のキャリアセール: 新しい Google Pixel を節約する方法は次のとおりです</title><link>https://www.androidauthority.com/pixel-11-carrier-deals-3697709/</link><guid isPermaLink="true">https://www.androidauthority.com/pixel-11-carrier-deals-3697709/</guid><pubDate>Wed, 12 Aug 2026 14:00:39 +0000</pubDate><description><![CDATA[<p>Pixel 11 のキャリアセール: 新しい Google Pixel を節約する方法は次のとおりです
+
+Pixel 11 シリーズは公式です。お金を節約したい場合は、現在利用できる Pixel 11 キャリアのセールをすべてここでご紹介します。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+Pixel 11 のキャリアセール: 新しい Google Pixel を節約する方法は次のとおりです
+
+0 • Joe Maring / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Verizon は、他の通信事業者から Simplicity プランに切り替えるユーザーに Pixel 11 Pro を無料で提供しています。
+
+また、新しい Pixel 11 シリーズの携帯電話で新しい Verizon ラインを購入するユーザーには、Pixel Watch 5 と Galaxy Tab S10 FE も提供されます。
+
+ユーザーは既存のスマートフォンを下取りに出して、Pixel 11 シリーズのデバイスを最大 1,100 ドル割引で購入できます。
+
+Google は本日、最新のスマートフォンである Pixel 11 、Pixel 11 Pro、Pixel 11 Pro XL、および Pixel 11 Pro Fold を発売しました。スマートフォンを Pixel 11 ファミリーの新しいモデルにアップグレードすることを考えている場合は、アップグレードが簡単になり、お金の節約に役立つ通信会社の特典を見逃すことはできません。
+
+Verizon は、新規顧客と既存顧客の両方に向けて、Pixel 11 シリーズに関していくつかのオファーを提供しています。通信事業者が何を誰に向けて提供しているのかを詳しく説明します。
+
+まず、新規ユーザーは、Verizon の Simplicity プランの回線と 256GB Pixel 1…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-hands-on-1-scaled.jpg" alt="Pixel 11 のキャリアセール: 新しい Google Pixel を節約する方法は次のとおりです"></p>]]></description><source url="https://www.androidauthority.com/pixel-11-carrier-deals-3697709/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-hands-on-1-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-hands-on-1-scaled.jpg"/></item>
 <item><title>Pixel 11 では、リアルタイムのライブ翻訳により、あらゆる言語のビデオを簡単に視聴できます</title><link>https://www.androidauthority.com/pixel-11-live-translate-videos-podcasts-3696795/</link><guid isPermaLink="true">https://www.androidauthority.com/pixel-11-live-translate-videos-podcasts-3696795/</guid><pubDate>Wed, 12 Aug 2026 14:00:32 +0000</pubDate><description><![CDATA[<p>Pixel 11 では、リアルタイムのライブ翻訳により、あらゆる言語のビデオを簡単に視聴できます
 
 Google Pixel 11 は、ビデオとポッドキャストの自動ダビングをサポートしています。 YouTube と一部のサードパーティ製ビデオおよびポッドキャスト アプリをサポートします。
@@ -6862,23 +6901,6 @@ Tensor G6 チップを搭載した Pixel 11 は、Gemini Intelligence を使用�
 この機能は話されている言語を自動的に検出しますが、Google 翻訳の仕組みと同様に、ユーザーが手動で言語を選択することもできます。
 
 この機能に見覚えがあると思われる場合は、Instagram が Reels で同様のことをすでに行っているからです。ただし、Instagram の実装は自動的には行われません。ユーザーは視聴するリールで翻訳を手動で有効にする必要があ…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-xl-hands-on-8-scaled.jpg" alt="Pixel 11 では、リアルタイムのライブ翻訳により、あらゆる言語のビデオを簡単に視聴できます"></p>]]></description><source url="https://www.androidauthority.com/pixel-11-live-translate-videos-podcasts-3696795/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-xl-hands-on-8-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-xl-hands-on-8-scaled.jpg"/></item>
-<item><title>Google、Circle to Search を Pixel カメラに直接搭載することで使いやすく</title><link>https://www.androidauthority.com/circle-to-search-pixel-camera-app-3697621/</link><guid isPermaLink="true">https://www.androidauthority.com/circle-to-search-pixel-camera-app-3697621/</guid><pubDate>Wed, 12 Aug 2026 14:00:28 +0000</pubDate><description><![CDATA[<p>Google、Circle to Search を Pixel カメラに直接搭載することで使いやすく
-
-Circle to Search を使用して、Pixel スマートフォンのカメラ ビューファインダーから直接オブジェクトを識別したり、テキストを翻訳したりできるようになりました。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Google、Circle to Search を Pixel カメラに直接搭載することで使いやすく
-
-0 • Adamya Sharma / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Circle to Search は、Pixel Camera アプリに直接導入されます。
-
-画像をクリックせずに、物体を特定したり、テキストを翻訳したり、遠くにある物体を検索したり、ファインダーに表示されているものについて質問したりすることができます。
-
-Google は、Circle to Search の機能を Pixel Camera アプリに直接統合することで、Pixel 11 シリーズでの機能をさらに強化しています。これは、ユーザーが最初に写真を撮ったり、別のアプリに切り替えたりすることなく、携帯電話を何かに向けて検索できることを意味します。
-
-Google によると、見慣れないオブジェクト、テキスト、またはその他の詳細を知りたいものを見つけた場合は、カメラ アプリが開いているときに Circle to Search を使用できるとのことです。この機能は、オブジェクトを識別し、テキストを翻訳し、ズームインして遠くにあるものを検索し、見ているものについての質問に答えることができます。
-
-オブジェクトまたはテキストにカメラを向けてホーム バーを押したままにすると、Circle to Search が表示されます。 Googleはまた、Circle to Searchが以前よりも早く表示…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2024/02/Pixel-8-Pro-Circle-To-Search-scaled.jpg" alt="Google、Circle to Search を Pixel カメラに直接搭載することで使いやすく"></p>]]></description><source url="https://www.androidauthority.com/circle-to-search-pixel-camera-app-3697621/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2024/02/Pixel-8-Pro-Circle-To-Search-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2024/02/Pixel-8-Pro-Circle-To-Search-scaled.jpg"/></item>
 <item><title>Pixel 11 は、レトロなフィルムフィルターを含むカメラルックで iPhone の写真スタイルを取り入れています</title><link>https://www.androidauthority.com/google-pixel-11-camera-looks-filters-3696519/</link><guid isPermaLink="true">https://www.androidauthority.com/google-pixel-11-camera-looks-filters-3696519/</guid><pubDate>Wed, 12 Aug 2026 14:00:28 +0000</pubDate><description><![CDATA[<p>Pixel 11 は、レトロなフィルムフィルターを含むカメラルックで iPhone の写真スタイルを取り入れています
 
 Google Pixel 11 シリーズは、好みに合わせて完全にカスタマイズできる、レトロな雰囲気のフィルム スタイルのカメラ フィルターを提供します。
@@ -6900,47 +6922,21 @@ Google は Pixel 11 で、写真に適用できる個別のカラー フィル�
 どこかiPhoneのカメラのような落ち着いたディテールのナチュラルスタイル、
 
 よりコ…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-hands-on-1-scaled.jpg" alt="Pixel 11 は、レトロなフィルムフィルターを含むカメラルックで iPhone の写真スタイルを取り入れています"></p>]]></description><source url="https://www.androidauthority.com/google-pixel-11-camera-looks-filters-3696519/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-hands-on-1-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-hands-on-1-scaled.jpg"/></item>
-<item><title>Pixel 11 シリーズは、Gemini Intelligence の独自の味を獲得しています</title><link>https://www.androidauthority.com/gemini-intelligence-on-pixel-11-series-3696480/</link><guid isPermaLink="true">https://www.androidauthority.com/gemini-intelligence-on-pixel-11-series-3696480/</guid><pubDate>Wed, 12 Aug 2026 14:00:26 +0000</pubDate><description><![CDATA[<p>Pixel 11 シリーズは、Gemini Intelligence の独自の味を獲得しています
+<item><title>Google、Circle to Search を Pixel カメラに直接搭載することで使いやすく</title><link>https://www.androidauthority.com/circle-to-search-pixel-camera-app-3697621/</link><guid isPermaLink="true">https://www.androidauthority.com/circle-to-search-pixel-camera-app-3697621/</guid><pubDate>Wed, 12 Aug 2026 14:00:28 +0000</pubDate><description><![CDATA[<p>Google、Circle to Search を Pixel カメラに直接搭載することで使いやすく
 
-Gemini Intelligence が Pixel 11 シリーズに登場し、よりスマートな提案、フライトの詳細、カレンダーのプロンプトなどを提供します。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Pixel 11 シリーズは、Gemini Intelligence の独自の味を獲得しています
-
-0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Gemini Intelligence が Pixel 11 シリーズに登場し、Rambler がとりとめのない考えを洗練されたテキストに変換します。
-
-Google メッセージは、ライブフライトの詳細、Google マップのリスト、カレンダーのプロンプトなどの関連情報を自動的に取得できるようになりました。
-
-その他の Pixel AI 機能もさらに賢くなっており、At a Glance、Circle to Search 翻訳、Live Translate によるリアルタイム ダビングへのアップグレードが行われています。
-
-Gemini がステージに立つことがなければ、これは Made by Google のイベントとは言えません。しかし今年、GoogleはGemini Intelligenceを新しいPixel 11シリーズの中心に据えています。これらの機能がサムスンの最新の Galaxy Z Fold スマートフォンに搭載されているのを私たちはすでに見てきました。
-
-Google は、Gemini Intelligence にユーザーが何をしているのかを理解し、作業を少しでも節約できる場合には介入してもらいたいと考えています。私たちは、Google I/O 2026 で、Rambler を使ってそのアイデアをいち早く体験しました。Rambler は、思いついた考えを吐き出して、Gemi…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-xl-hands-on-8-scaled.jpg" alt="Pixel 11 シリーズは、Gemini Intelligence の独自の味を獲得しています"></p>]]></description><source url="https://www.androidauthority.com/gemini-intelligence-on-pixel-11-series-3696480/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-xl-hands-on-8-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-xl-hands-on-8-scaled.jpg"/></item>
-<item><title>Aspyrは、北方戦争の後、さらに多くのLOTRリマスターを開発中であると述べた</title><link>https://www.kitguru.net/gaming/matthew-wilson/aspyr-says-it-has-more-lotr-remasters-on-the-way-following-war-in-the-north/</link><guid isPermaLink="true">https://www.kitguru.net/gaming/matthew-wilson/aspyr-says-it-has-more-lotr-remasters-on-the-way-following-war-in-the-north/</guid><pubDate>Wed, 12 Aug 2026 14:00:26 +0000</pubDate><description><![CDATA[<p>Aspyrは、北方戦争の後、さらに多くのLOTRリマスターを開発中であると述べた
-
-アスピルによる『ロード・オブ・ザ・リング：北方戦争』のサプライズリマスターは、まだ始まりに過ぎないようだ。今週初めにリリースされた新しくリリースされたレガシー エディションを発表するプレス リリースの中で、スタジオは、より多くの古典的な LOTR タイトルが最新のプラットフォーム向けに開発中であることを確認しました。
-
-Aspyrは、北方戦争の後、さらに多くのLOTRリマスターを開発中であると述べた
-
-Matthew Wilson 3 時間前 注目のテクノロジー ニュース , ソフトウェア &amp; ゲーム
-
-アスピルによる『ロード・オブ・ザ・リング：北方戦争』のサプライズリマスターは、まだ始まりに過ぎないようだ。今週初めにリリースされた新しくリリースされた Legacy Edition を発表するプレスリリースの中で、スタジオは、より多くの古典的な LOTR タイトルが最新のプラットフォーム向けに開発中であることを確認しました。発表の中でアスピル氏は、「『ロード・オブ・ザ・リング：北方戦争 – レガシー・エディション』はワーナー・ブラザース・インタラクティブ・エンターテイメントのライセンスを受けており、アスピル社がリリースした最初の『ロード・オブ・ザ・リング』のタイトルです。ファンは将来、この人気シリーズからさらにクラシックな作品がアスピル社によってリリースされることを楽しみにしています！」と述べた。これは本質的に、Aspyr が今後さらに多くの LOTR リマスターに取り組むことを裏付けるものであり、Aspyr はスター・ウォーズ、トゥームレイダー、レガシー・オブ・ケインのシリーズにおける古典的なゲームのリバイバルで非常にうまくいっているので、これは素晴らしいニュースとなるはずだ。 「War in the North」がすべての主要プラットフォームに戻ってきたことで、当然のことながら、Aspyr が次に何に取り組むのかという憶測が集まります。ファンが長年にわたって復活を待ち望んでいた古典的…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2017/08/Middle-Earth-Shadow-of-War-Details-660x330.jpg" alt="Aspyrは、北方戦争の後、さらに多くのLOTRリマスターを開発中であると述べた"></p>]]></description><source url="https://www.kitguru.net/gaming/matthew-wilson/aspyr-says-it-has-more-lotr-remasters-on-the-way-following-war-in-the-north/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2017/08/Middle-Earth-Shadow-of-War-Details-660x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2017/08/Middle-Earth-Shadow-of-War-Details-660x330.jpg"/></item>
-<item><title>Google Pixel 11 ケースはついに携帯電話の色を輝かせました</title><link>https://www.androidauthority.com/google-pixel-11-pixelsnap-cases-and-accessories-3694034/</link><guid isPermaLink="true">https://www.androidauthority.com/google-pixel-11-pixelsnap-cases-and-accessories-3694034/</guid><pubDate>Wed, 12 Aug 2026 14:00:25 +0000</pubDate><description><![CDATA[<p>Google Pixel 11 ケースはついに携帯電話の色を輝かせました
-
-Google は、Pixel 11 シリーズ用の Pixelsnap を、クリア ケース、ヒンジを保護する Fold ケース、およびよりカラフルなリング スタンド オプションで拡張しています。
+Circle to Search を使用して、Pixel スマートフォンのカメラ ビューファインダーから直接オブジェクトを識別したり、テキストを翻訳したりできるようになりました。
 
 Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
 
-Google Pixel 11 ケースはついに携帯電話の色を輝かせました
+Google、Circle to Search を Pixel カメラに直接搭載することで使いやすく
 
-0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google は、Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL 用のクリア Pixelsnap ケースを発売しました。
+0 • Adamya Sharma / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Circle to Search は、Pixel Camera アプリに直接導入されます。
 
-Pixel 11 Pro Fold には、保護を強化するために統合されたヒンジ カバーを備えた専用ケースが付属しています。
+画像をクリックせずに、物体を特定したり、テキストを翻訳したり、遠くにある物体を検索したり、ファインダーに表示されているものについて質問したりすることができます。
 
-Pixelsnap リング スタンドは、既存の Moonstone オプションに加えて、Canyon、Olive、Obsidian で利用できるようになりました。
+Google は、Circle to Search の機能を Pixel Camera アプリに直接統合することで、Pixel 11 シリーズでの機能をさらに強化しています。これは、ユーザーが最初に写真を撮ったり、別のアプリに切り替えたりすることなく、携帯電話を何かに向けて検索できることを意味します。
 
-Pixelsnap のケースとアクセサリは、昨年 Pixel 10 シリーズでデビューし、2025 年の Google 端末の購入者にとってより明らかなアドオンの 1 つでした。ただし、新しい携帯電話を保護することも、その色を目立たせることもできますが、実際には両方ではないため、若干のトレードオフがありました。 GoogleはPixel 11シリーズでこの問題を修正し、更新されたカラーケースに加えて新しいクリアケースを導入し、Pixel 11 Pro Fold用のより保護的なオプションを導入しています。
+Google によると、見慣れないオブジェクト、テキスト、またはその他の詳細を知りたいものを見つけた場合は、カメラ アプリが開いているときに Circle to Search を使用できるとのことです。この機能は、オブジェクトを識別し、テキストを翻訳し、ズームインして遠くにあるものを検索し、見ているものについての質問に答えることができます。
 
-Pixelsnap クリア ケースは、Pixel 11、11 Pro、11 Pro XL でご利用いただけます。 TPU とポリカーボネートを使用しており、Pixelsnap アクセサリと Qi2 充電用のマグネットが内蔵されています。モデルに応じて、ケースの重さ…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2025/09/PXL_20250913_001818700.MP_-scaled-e1757743082236.jpg" alt="Google Pixel 11 ケースはついに携帯電話の色を輝かせました"></p>]]></description><source url="https://www.androidauthority.com/google-pixel-11-pixelsnap-cases-and-accessories-3694034/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2025/09/PXL_20250913_001818700.MP_-scaled-e1757743082236.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2025/09/PXL_20250913_001818700.MP_-scaled-e1757743082236.jpg"/></item>
+オブジェクトまたはテキストにカメラを向けてホーム バーを押したままにすると、Circle to Search が表示されます。 Googleはまた、Circle to Searchが以前よりも早く表示…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2024/02/Pixel-8-Pro-Circle-To-Search-scaled.jpg" alt="Google、Circle to Search を Pixel カメラに直接搭載することで使いやすく"></p>]]></description><source url="https://www.androidauthority.com/circle-to-search-pixel-camera-app-3697621/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2024/02/Pixel-8-Pro-Circle-To-Search-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2024/02/Pixel-8-Pro-Circle-To-Search-scaled.jpg"/></item>
 </channel></rss>
