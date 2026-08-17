@@ -1,6 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Mon, 17 Aug 2026 17:44:50 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Mon, 17 Aug 2026 18:56:50 +0000</lastBuildDate>
+<item><title>ASUS GPU Tweak III に自動シャットダウン機能が追加され、12v-2×6 のメルトダウンを防止</title><link>https://www.techpowerup.com/351662/asus-gpu-tweak-iii-adds-auto-shutdown-to-prevent-12v-2x6-meltdowns</link><guid isPermaLink="true">https://www.techpowerup.com/351662/asus-gpu-tweak-iii-adds-auto-shutdown-to-prevent-12v-2x6-meltdowns</guid><pubDate>Mon, 17 Aug 2026 18:48:13 +0000</pubDate><description><![CDATA[<p>ASUS GPU Tweak III に自動シャットダウン機能が追加され、12v-2×6 のメルトダウンを防止
+
+NVIDIA 12v-2×6 GPU 電源ケーブルのメルトダウンによる大失敗は、いたちごっこのようなもののようです。GPU ボード パートナーと PSU メーカーは、現在多くのゲーム GPU に使用されている GPU ケーブルに対する回避策と新しい安全策を見つけようと努力し続けています。 ASUSの最新GPU Tweak III...
+
+ASUS GPU Tweak III に自動シャットダウン機能が追加され、12v-2×6 のメルトダウンを防止
+
+2026 年 1 月 16 日 NVIDIA が GeForce RTX 5070 Ti の生産を終了、RTX 5060 Ti 16 GB Next (210) と伝えられる
+
+2026 年 7 月 10 日 NVIDIA が GeForce RTX 5090 SE グラフィックス カードを準備 (161)
+
+2025 年 12 月 31 日 AI 業界の需要のおかげで、2026 年に 5000 ドルの RTX 5090 GPU が登場するとリークが予測 (124)
+
+2025 年 9 月 19 日 ASUS、マザーボードから 250 W の電力を供給する強化された PCIe スロットを提案 (95)
+
+2026 年 8 月 11 日 NVIDIA RTX 50 シリーズの中央価格は 8 月に最大 41% 上昇、メーカー希望小売価格は遠い夢 (192)
+
+2026 年 2 月 21 日 AMD が Ryzen Z1 Extreme プロセッサのドライバー更新を停止したようです (119)
+
+2026 年 6 月 1 日 NVIDIA が、エージェントティック ユーザー インターフェイスを備えた Windows PC 用のスーパーコンピューター グレードのプロセッサーである RTX Spark を発表 (63)
+
+2026 年 5 月 14 日 NVIDIA は、GDDR7 のコスト上昇を背景に RTX 5090 …</p><p><img src="https://www.techpowerup.com/img/iOCxSB1HMHD8uQMq.jpg" alt="ASUS GPU Tweak III に自動シャットダウン機能が追加され、12v-2×6 のメルトダウンを防止"></p>]]></description><source url="https://www.techpowerup.com/351662/asus-gpu-tweak-iii-adds-auto-shutdown-to-prevent-12v-2x6-meltdowns">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/iOCxSB1HMHD8uQMq.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/iOCxSB1HMHD8uQMq.jpg"/></item>
+<item><title>インテルが Arc GPU グラフィックス ドライバー 101.8974 WHQL をリリース</title><link>https://www.techpowerup.com/351663/intel-releases-arc-gpu-graphics-drivers-101-8974-whql</link><guid isPermaLink="true">https://www.techpowerup.com/351663/intel-releases-arc-gpu-graphics-drivers-101-8974-whql</guid><pubDate>Mon, 17 Aug 2026 18:46:22 +0000</pubDate><description><![CDATA[<p>インテルが Arc GPU グラフィックス ドライバー 101.8974 WHQL をリリース
+
+Intel は本日、Arc GPU グラフィックス ドライバーの最新バージョンをリリースしました。バージョン 101.8974 WHQL には、3 つのゲーム タイトル用の最適化が付属しています。 Arc ブランドの統合グラフィックスを備えた Intel Core Ultra シリーズ 3 プロセッサ用。 「アサシン クリード ヴァルハラ」の場合、ドライバーは 7% のパフォーマンス向上を提供します。
+
+インテルが Arc GPU グラフィックス ドライバー 101.8974 WHQL をリリース
+
+中設定で 1080p で平均 FPS が最大 7% 向上
+
+高設定で 1080p で平均 FPS が最大 11% 向上
+
+中設定で 1080p で平均 FPS が最大 13% 向上
+
+高設定で 1080p で平均 FPS が最大 9% 向上
+
+キングダム カム: デリバランス II (DX12)
+
+Ultra 設定で 1080p で平均 FPS が最大 5% 向上
+
+Grand Theft Auto V Enhanced (DX12) では、Post FX が Very High または Ultra に設定されている場合、アイテムがぼやけて表示されることがあります。
+
+Forza Horizo​​n 6 (DX12) は、反射により期待される視覚品質を発揮しない可能性があります。
+
+ジュラシック ワールド エボリューション 3 (DX12) では、水面がちらつく場合があります。
+
+CapframeX または Riva Tuner Statistics Server を使用すると、Minecraft Java (Vulkan) でゲーム クラッシュが発生する場合があります。
+
+インディ ジョーンズとグレート サークル (バルカン) では、ゲームプレイ中の特定のシーンでパフォーマンスが予想よりも低下する場合があります。
+
+Endless Space 2 (DX12) では、船の設計…</p><p><img src="https://www.techpowerup.com/img/b34VDIzgKMeHLijr.jpg" alt="インテルが Arc GPU グラフィックス ドライバー 101.8974 WHQL をリリース"></p>]]></description><source url="https://www.techpowerup.com/351663/intel-releases-arc-gpu-graphics-drivers-101-8974-whql">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/b34VDIzgKMeHLijr.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/b34VDIzgKMeHLijr.jpg"/></item>
+<item><title>Boox Picco はいつ発売されますか?</title><link>https://goodereader.com/blog/electronic-readers/when-is-the-boox-picco-coming-out</link><guid isPermaLink="true">https://goodereader.com/blog/electronic-readers/when-is-the-boox-picco-coming-out</guid><pubDate>Mon, 17 Aug 2026 18:44:10 +0000</pubDate><description><![CDATA[<p>Boox Picco はいつ発売されますか?
+
+Boox Picco は、BOOX が新しい「Tile」製品ラインの最初のデバイスとして発表した、今後の超コンパクトなポケットサイズの電子書籍リーダーです。
+
+約 1 か月前、Onyx Boox は、これまでで最も手頃な価格となる可能性が高い電子書籍リーダー Picco を発表しました。次期製品は、現在 X4 Pro と X3 を販売している新興企業 Xteink と競合するように設計されており、いくつかの新モデルが準備中です。
+
+BOOX Picco 3.97 インチ電子リーダーは現在、Onyx Boox によって宣伝されています。 E-Ink技術を採用した白黒電子ペーパーディスプレイを搭載する。ユーザーは、フロントライト付きディスプレイを介して昼夜を問わず読書することができ、アップグレードされたストレージは SD カードを介して利用可能になります。プロモーション画像にはページをめくるためのボタンがあるようです。このデバイスは新しい Tile 製品ラインの一部であるという噂も盛んです。
+
+ただし、Boox エコシステムは Xteink よりもはるかに拡張的です。 Picco が Google Play ストアにアクセスできる限り、ユーザーは Kindle、Kobo、Libby アプリをダウンロードできます。つまり、Kindle で読んだ本はすべて、Picco でアクセスして同期できるということです。
+
+Booxは「手頃な価格帯」で発売すると述べたが、最初の発表では正確な価格と正式な発売日は明記されていなかった。ただし、発売の可能性があるのは、9 月 4 日から 8 日までベルリンで開催される IFA です。ここは、年末までに発売されるほとんどの新しいデバイスがデビューする場所です。
+
+Michael Kozlowski は Good e-Reader の編集長で、過去 15 年間オーディオブックと電子書籍リーダーについて執筆しています。 CBC、CNET、Engadget、ハフィントンポスト、ニューヨークタイムズなどの新…</p><p><img src="https://media.goodereader.com/blog/uploads/images/2026/08/17144352/intro-1784916369.webp" alt="Boox Picco はいつ発売されますか?"></p>]]></description><source url="https://goodereader.com/blog/electronic-readers/when-is-the-boox-picco-coming-out">Good e-Reader</source><media:content url="https://media.goodereader.com/blog/uploads/images/2026/08/17144352/intro-1784916369.webp" medium="image"/><media:thumbnail url="https://media.goodereader.com/blog/uploads/images/2026/08/17144352/intro-1784916369.webp"/></item>
+<item><title>One UI 9 は、この新機能で壁紙に命を吹き込みます</title><link>https://www.androidauthority.com/one-ui-9-motion-photo-wallpaper-3699446/</link><guid isPermaLink="true">https://www.androidauthority.com/one-ui-9-motion-photo-wallpaper-3699446/</guid><pubDate>Mon, 17 Aug 2026 18:43:37 +0000</pubDate><description><![CDATA[<p>One UI 9 は、この新機能で壁紙に命を吹き込みます
+
+Samsung は、背景に少し活気を与える One UI 9.0 の新機能をリリースしました。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+One UI 9 は、この新機能で壁紙に命を吹き込みます
+
+0 • Paul Jones / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR One UI 9.0 では、モーション フォトをホーム画面またはロック画面の壁紙として設定できます。
+
+この機能は現在、Galaxy Z Fold 8、Fold 8 Ultra、および Flip 8 で利用できます。
+
+One UI 9.0 ベータ版を実行している Galaxy S26 デバイスではまだ利用できないようです。
+
+携帯電話やタブレットの背景が、静的な壁紙よりももう少し生き生きとしたものになればいいのにと思いませんか? Samsung の One UI の最新バージョンがあなたの願いを叶えます。
+
+SamMobile が発見、One UI 9.0 には新しい壁紙オプションが導入されました。具体的には、モーション フォトをホーム画面またはロック画面の背景として設定できるようになります。両方の背景としてモーション フォトを設定することもできます。
+
+SamMobile モーション フォトに慣れていない方のために説明すると、これはシャッター ボタンが放されるまでの数秒間のアクションをキャプチャするカメラ機能です。写真を撮ると、3 秒間の短いクリップが保存されます。利点は、静止フレームとして残しておきたい瞬間をピンポイントで記録できることです。ただし、この新しい壁紙機能により、この機能を有効にすることによる 2 番目の利点が追加されます。
+
+モーション フォトを選択すると、ホーム画面とロック画面でアニメーションがどのように見えるかを確認するプレビューが表示されるよ…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/05/OneUI-9-splash-screen-S26-Ultra-phone-lay-down.jpg" alt="One UI 9 は、この新機能で壁紙に命を吹き込みます"></p>]]></description><source url="https://www.androidauthority.com/one-ui-9-motion-photo-wallpaper-3699446/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/05/OneUI-9-splash-screen-S26-Ultra-phone-lay-down.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/05/OneUI-9-splash-screen-S26-Ultra-phone-lay-down.jpg"/></item>
+<item><title>ルーターの QoS 設定は役立つどころか害を及ぼしており、修正には 30 秒かかります</title><link>https://www.xda-developers.com/router-qos-bufferbloat-fix/</link><guid isPermaLink="true">https://www.xda-developers.com/router-qos-bufferbloat-fix/</guid><pubDate>Mon, 17 Aug 2026 18:30:10 +0000</pubDate><description><![CDATA[<p>ルーターの QoS 設定は役立つどころか害を及ぼしており、修正には 30 秒かかります
+
+私のルーターはパケットを分類できませんでした
+
+ルーターの QoS 設定は役立つどころか害を及ぼしており、修正には 30 秒かかります
+
+By Korbin Brown 公開 2026 年 8 月 17 日、午後 2 時 30 分 EDT Korbin は、物事が実際にどのように機能するかを理解するために、ほとんどの時間を端末で費やしている Linux システム管理者です。過去 10 年間にわたり、彼は Linux の構成、奇妙な問題のトラブルシューティング、現実世界でのオープンソース ツールの使用について何百もの記事を書いてきました。彼はまた、Windows システムとネットワーク、特にドキュメントに記載されているとおりに動作しないことがある混合環境での作業も多く行っています。物事を書き留めることで彼はすべてを理解することができ、できれば他の誰かが数時間を節約できるようになります。 XDA アカウントにサインインする すべての消費者ルーターには、管理者コントロール パネルからアクセスできる QoS ページが付属しています。一見すると、オンにするのが合理的であるように思えたので、オンにしました。このページは通常、さまざまなアプリケーション カテゴリ、ゲーム モード、およびあるデバイスの優先順位を別のデバイスよりも高めるオプションを備えた並べ替え可能なリストのように見えます。一度そのリストを整理して、これでやるべきことはすべてだと思いました。私のリストでは、ビデオ会議が一番上にあり、ファイルのダウンロードが一番下にありました。
+
+Waveform のバッファ膨張テストを実行することは、QoS 設定がどの程度適切に機能しているかを正確に測定する良い方法です。場合によっては、それらがユーザーに不利に作用し、遅延が増加する可能性もあります。実行したテストでは、構成したすべての優先順位ルールがオンになっていたにもかかわらず、遅延が 300 ミリ秒まで増加しました。優先順位付けとキュー管理の違…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/using-old-router-for-dedicated-smart-home-devices.JPG?w=1600&amp;h=900&amp;fit=crop" alt="ルーターの QoS 設定は役立つどころか害を及ぼしており、修正には 30 秒かかります"></p>]]></description><source url="https://www.xda-developers.com/router-qos-bufferbloat-fix/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/using-old-router-for-dedicated-smart-home-devices.JPG?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/using-old-router-for-dedicated-smart-home-devices.JPG?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>ソニーCEO、PS6の発売日は「まだ決まっていない」と語る</title><link>https://www.techpowerup.com/351661/sony-ceo-says-company-still-hasnt-fixed-a-date-for-ps6-launch</link><guid isPermaLink="true">https://www.techpowerup.com/351661/sony-ceo-says-company-still-hasnt-fixed-a-date-for-ps6-launch</guid><pubDate>Mon, 17 Aug 2026 18:09:11 +0000</pubDate><description><![CDATA[<p>ソニーCEO、PS6の発売日は「まだ決まっていない」と語る
+
+ソニーの次期プレイステーション 6 に関する噂は、価格や仕様からおよその発売時期に至るまですべてを明らかにすると称して、ここ数カ月にわたって飛び交っています。さて、ゲーム巨人のCEO、十時裕樹氏がウォールストリートとの新たなインタビューでPS6の発売日について語った。
+
+ソニーCEO、PS6の発売日は「まだ決まっていない」と語る
+
+新しい本体をどのタイミングで発売するか、どのような価格で発売するかはまだ決まっていません。したがって、我々は状況を注意深く観察し、フォローしていきたいと考えています。」
+
+2026 年 4 月 28 日 Linux が PlayStation 5 で正式に利用可能になりました (22)
+
+2026 年 5 月 18 日 インサイダーは、ソニーが PC ポートを廃止することを認めています: 「PC に登場するシングル プレイヤー ゲームは少なくなるでしょう。」 (135)
+
+2026 年 5 月 27 日 リーカーが天文学的な蒸気機械の価格を示唆 (74)
+
+2026 年 3 月 6 日 PlayStation 6 のリークヒント 4K 120 FPS は「ほとんどのゲームで」PS5 の 6 ～ 12 倍の RT パフォーマンスを実現 (116)
+
+2025 年 11 月 28 日 バルブスチームマシンのコストが予想よりも低くなる可能性 (118)
+
+2026年6月29日 ソニー・スパーズが1,000ドルのPlayStation 6の噂 (57)
+
+2026 年 6 月 18 日 PlayStation 幹部は PC ゲームの移植は除外されていないと述べ、内部関係者の噂は曖昧さはないと主張 (44)
+
+2026 年 6 月 29 日 PS6 ハードウェアのコストは 900 ドル以上と推定 (55)
+
+2026 年 5 月 8 日 PlayStation 6 の価格と発売日は、DRAM の価格が不確実であるため依然として未定 (19)
+
+2026 年 7 月 20 日 元 Valve …</p><p><img src="https://www.techpowerup.com/img/yP7u3FA8NXgWJCDO.jpg" alt="ソニーCEO、PS6の発売日は「まだ決まっていない」と語る"></p>]]></description><source url="https://www.techpowerup.com/351661/sony-ceo-says-company-still-hasnt-fixed-a-date-for-ps6-launch">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/yP7u3FA8NXgWJCDO.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/yP7u3FA8NXgWJCDO.jpg"/></item>
+<item><title>N64 クラシック GoldenEye 007 が「100% 逆コンパイル」され、MOD とポートへの道が開かれました</title><link>https://www.xda-developers.com/n64-classic-goldeneye-007-100-decompiled-paving-the-way-mods-and-ports/</link><guid isPermaLink="true">https://www.xda-developers.com/n64-classic-goldeneye-007-100-decompiled-paving-the-way-mods-and-ports/</guid><pubDate>Mon, 17 Aug 2026 18:01:38 +0000</pubDate><description><![CDATA[<p>N64 クラシック GoldenEye 007 が「100% 逆コンパイル」され、MOD とポートへの道が開かれました
+
+象徴的な FPS ゲームの最初の PC 移植は、すでに PC 上でテストされています。
+
+N64 クラシック GoldenEye 007 が「100% 逆コンパイル」され、MOD とポートへの道が開かれました
+
+クレジット: Nintendo / Microsoft By Patrick O&#39;Rourke 公開日 2026 年 8 月 17 日、午後 2 時 01 分 EDT Patrick O&#39;Rourke は、XDA のニュース編集者およびエンターテイメント セグメントのリーダーです。以前は、Pocket-lint の編集長、カナダのテクノロジー出版物 MobileSyrup の編集長を務め、キャリアの初期には Financial Post および Postmedia でテクノロジー編集者として働いていました。彼はトロントに拠点を置いています。過去 15 年間にわたり、彼は何千もの記事を書いてきました。パトリック氏はまた、何十人ものテクノロジー業界の幹部にインタビューし、GDC、E3、Gamescom、WWDC、Apple の基調講演、Samsung Unpacked イベントなどを取材しました。パトリックはトロント・メトロポリタン大学でジャーナリズムの学士号を取得しています。 XDA アカウントにサインインする
+
+GoldenEye 007 は完全に逆コンパイルされており、オリジナルの N64 ゲームのコードに基づいてポートや複雑な MOD を作成できるようになりました。
+
+逆コンパイルを使用する PC への移植がテストされています (一般リリースは不明ですが、おそらく近々リリースされるでしょう)。
+
+GoldenEye 007 は、コンソール FPS マルチプレイヤーの形成に貢献しました。願わくば、MOD によってそのぎこちない N64 コントロールが最新化されることを願っています。
+
+逆コンパイルされたレトロ ゲームの成長を続けるシリーズの…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/goldeneye-007-screenshot-switch-xbox-360.jpg?w=1200&amp;h=675&amp;fit=crop" alt="N64 クラシック GoldenEye 007 が「100% 逆コンパイル」され、MOD とポートへの道が開かれました"></p>]]></description><source url="https://www.xda-developers.com/n64-classic-goldeneye-007-100-decompiled-paving-the-way-mods-and-ports/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/goldeneye-007-screenshot-switch-xbox-360.jpg?w=1200&amp;h=675&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/goldeneye-007-screenshot-switch-xbox-360.jpg?w=1200&amp;h=675&amp;fit=crop"/></item>
+<item><title>実際の UI 作業では 8GB GPU でローカル コーディング モデルを実行していますが、Claude Design には戻りません</title><link>https://www.xda-developers.com/run-local-coding-model-on-8gb-gpu-for-real-design-work-not-going-back-to-claude-design/</link><guid isPermaLink="true">https://www.xda-developers.com/run-local-coding-model-on-8gb-gpu-for-real-design-work-not-going-back-to-claude-design/</guid><pubDate>Mon, 17 Aug 2026 18:00:10 +0000</pubDate><description><![CDATA[<p>実際の UI 作業では 8GB GPU でローカル コーディング モデルを実行していますが、Claude Design には戻りません
+
+独自のハードウェアでの Vibe コーディングは不可能です
+
+実際の UI 作業では 8GB GPU でローカル コーディング モデルを実行していますが、Claude Design には戻りません
+
+By Nolen Jonker 公開 2026 年 8 月 17 日、午後 2:00 EDT Nolen は 2019 年に執筆活動を開始し、3 年間 MakeUseOf のクリエイティブ セクションの編集に専念しました。彼らの専門知識はテクノロジーと創造性の交差点にあり、写真、ビデオ編集、グラフィック デザインなどの分野をカバーしています。仕事以外では、ノーレンが良い本を読んだり、自分の物語を書いたり、ビデオ ゲームをしたりしているのをよく見かけます。 XDA アカウントにサインインする Claude Design は、おそらくバイブ コーディング、より具体的にはバイブ デザインを目新しいものや楽しい娯楽ではなく真剣なものに感じさせたツールです。これは、プロンプトがほぼ出荷の準備が整ったものに変わるゲームの最初の 1 つであり、それだけでなく、反復のための完全に統合されたビジュアル デザイン スペースを提供するため、プロンプトのみに依存する必要はありません。
+
+唯一の欠点は、価格が高く、Anthropic のサーバー上に存在することです。まさにこれが、ローカル バイブ コーディングがクロード デザインのすぐそばで続いている理由です。結局のところ、Claude からの出力は HTML クラスと Tailwind クラスであり、これらは単なるコードです。したがって、理論的には、これに代わる強力なコーディング モデルだけが必要ですが、それだけではありません。これは、私の小型 GPU でローカルの Claude Design の代替としてなんとか起動させてきたものです...
+
+AI の最新情報を常に把握したいですか? XDA AI Inside…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/open-codesign-vibe-coding-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="実際の UI 作業では 8GB GPU でローカル コーディング モデルを実行していますが、Claude Design には戻りません"></p>]]></description><source url="https://www.xda-developers.com/run-local-coding-model-on-8gb-gpu-for-real-design-work-not-going-back-to-claude-design/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/open-codesign-vibe-coding-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/open-codesign-vibe-coding-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>Intel Xeon 658X レビュー: ワークステーション向け Granite Rapids</title><link>https://www.servethehome.com/intel-xeon-658x-review-granite-rapids-for-workstations/</link><guid isPermaLink="true">https://www.servethehome.com/intel-xeon-658x-review-granite-rapids-for-workstations/</guid><pubDate>Mon, 17 Aug 2026 18:00:02 +0000</pubDate><description><![CDATA[<p>Intel Xeon 658X レビュー: ワークステーション向け Granite Rapids
+
+Intel の Granite Rapids CPU が、Xeon 600 ファミリとしてワークステーション市場についに登場しました。今日は、メモリ帯域幅のおかげで強力な 24 コア チップである Xeon 658X をレビューします。
+
+消費者の世界におけるデスクトップからラップトップへの需要の移行と、サーバーの世界におけるハイエンドプロセッサに対する AI ベースの需要の爆発の間のどこかで、Intel の Xeon ワークステーション部品は、その 2 つの極端の間で異常な小康状態に陥っています。 Xeon ワークステーションのラインナップは、何世代にもわたってインテルの CPU ラインナップの長年の柱でしたが、かつてほどの世間の注目を集めていません。だからといって、それが依然として重要ではないというわけではありません。これは、従来のエンジニアリングやアート市場だけでなく、急成長する AI 市場向けに、依然として多数のハイエンド ワークステーションが販売されていることからもわかりますが、Xeon ワークステーション チップが近年、よりニッチな製品として扱われていることは確かです。
+
+おそらくこれが、Intel が Xeon ワークステーション ブランドを再構築した理由です。同社は、最新世代のワークステーション プロセッサに関して、長年にわたってインテルのサーバー ベースのワークステーション チップに使用されてきた命名体系である Xeon W-2xxx/W-3xxx プロセッサのブランド名を廃止しました。おそらく、それにふさわしいのは、Intel がサーバー チップに使用しているブランドの一種である Xeon 6 ブランドに置き換えられ、最新のワークステーション チップに Xeon 600 ブランドが誕生したということでしょう。
+
+しかし、理由は何であれ、インテルはついに Granite Rapids シリコンをワークステーション市場に投入しました。 3 年以上ぶりのワー…</p><p><img src="https://www.servethehome.com/wp-content/uploads/2026/08/Intel-Xeon-6-658X-2.jpg" alt="Intel Xeon 658X レビュー: ワークステーション向け Granite Rapids"></p>]]></description><source url="https://www.servethehome.com/intel-xeon-658x-review-granite-rapids-for-workstations/">ServeTheHome</source><media:content url="https://www.servethehome.com/wp-content/uploads/2026/08/Intel-Xeon-6-658X-2.jpg" medium="image"/><media:thumbnail url="https://www.servethehome.com/wp-content/uploads/2026/08/Intel-Xeon-6-658X-2.jpg"/></item>
+<item><title>(PR) ASUS Republic of Gamers、Raikki II Pro PCコントローラーを発表</title><link>https://www.techpowerup.com/351660/asus-republic-of-gamers-announces-raikiri-ii-pro-pc-controller</link><guid isPermaLink="true">https://www.techpowerup.com/351660/asus-republic-of-gamers-announces-raikiri-ii-pro-pc-controller</guid><pubDate>Mon, 17 Aug 2026 17:42:59 +0000</pubDate><description><![CDATA[<p>(PR) ASUS Republic of Gamers、Raikki II Pro PCコントローラーを発表
+
+ASUS Republic of Gamers は本日、競技グレードの 8K ポーリング レート、カスタマイズされた操作感を実現するホットスワップ可能なジョイスティックを含む広範なカスタマイズ オプション、業界をリードするバッテリー寿命を備えた究極のゲーム コントローラーである ROG Rai Kiri II Pro PC を発表しました。 ROG Raikki II Pro PC は...
+
+ASUS Republic of Gamers が Raikki II Pro PC コントローラーを発表
+
+2026 年 1 月 16 日 NVIDIA が GeForce RTX 5070 Ti の生産を終了、RTX 5060 Ti 16 GB Next (210) と伝えられる
+
+2025 年 9 月 19 日 ASUS、マザーボードから 250 W の電力を供給する強化された PCIe スロットを提案 (95)
+
+2026 年 7 月 10 日 ASUS Republic of Gamers が Raikki II Pro PC ゲーム コントローラーを発表 (6)
+
+2026 年 7 月 10 日 ASUS Republic of Gamers が Gjallar ゲーミング サウンドバー (12) を発表
+
+2026 年 8 月 12 日 CXMT が DDR5 歩留まり 90% を超え、業界大手に挑戦 (40)
+
+2026 年 7 月 15 日 ASUS Republic of Gamers が、ROG Swift OLED PG27UCWM および PG32UCWM タンデム RGB OLED ゲーミング モニターの発売を発表 (19)
+
+2026 年 5 月 15 日 ASUS Republic of Gamers が ROG 20 周年を記念して ROG Crosshair 2006 マザーボードを発表 (50)
+
+2026 年 5 月 15 日 …</p><p><img src="https://www.techpowerup.com/img/Bk2YeVhyPBhoSUGU.jpg" alt="(PR) ASUS Republic of Gamers、Raikki II Pro PCコントローラーを発表"></p>]]></description><source url="https://www.techpowerup.com/351660/asus-republic-of-gamers-announces-raikiri-ii-pro-pc-controller">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/Bk2YeVhyPBhoSUGU.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/Bk2YeVhyPBhoSUGU.jpg"/></item>
 <item><title>ホットウィールやバービーゲームがさらに登場?マテル、マテル ゲーム スタジオを設立</title><link>https://www.techpowerup.com/351656/more-hot-wheels-and-barbie-games-incoming-mattel-launches-mattel-game-studios</link><guid isPermaLink="true">https://www.techpowerup.com/351656/more-hot-wheels-and-barbie-games-incoming-mattel-launches-mattel-game-studios</guid><pubDate>Mon, 17 Aug 2026 17:41:04 +0000</pubDate><description><![CDATA[<p>ホットウィールやバービーゲームがさらに登場?マテル、マテル ゲーム スタジオを設立
 
 Uno や Hot Wheel など、マテルの IP の多くがデジタル ゲームに変換されていますが、玩具会社は潜在的な収益源としてゲームをより真剣に考えているようです。新たな発表の中で、マテルはマテル ゲーム スタジオを次の場所に設立することを確認しました。
@@ -220,13 +396,6 @@ Nothing Headphone (a) が Amazon で過去最低価格に
 最近のレビューでは、Nothing Headphone (a) の価値、快適さ、そして特に最大の強みの 1 つであるバッテリー寿命が高く評価されています。音質は価格の割にしっかりしていると評されており、多くのレビュアーは、ヘッドフォン (1) のほとんどの体験をはるかに安価で提供できると述べています。 4.5 つ星の評価も獲得しており、その魅力がさらに高まっています。
 
 この契約に関して、Amazon は …</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/03/Nothing-Headphone-A-propped-up.jpg" alt="Nothing Headphone (a) が Amazon で過去最低価格に"></p>]]></description><source url="https://www.androidauthority.com/nothing-headphone-a-deal-3699421/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/03/Nothing-Headphone-A-propped-up.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/03/Nothing-Headphone-A-propped-up.jpg"/></item>
-<item><title>お使いの PC には 1984 年当時のキーボード コントローラー インターフェイスがまだ搭載されており、Linux はそれを 2 番目の再起動方法として使用しています。</title><link>https://www.xda-developers.com/your-pc-still-keyboard-controller-1984-linux-second-way-reboot/</link><guid isPermaLink="true">https://www.xda-developers.com/your-pc-still-keyboard-controller-1984-linux-second-way-reboot/</guid><pubDate>Mon, 17 Aug 2026 16:00:10 +0000</pubDate><description><![CDATA[<p>お使いの PC には 1984 年当時のキーボード コントローラー インターフェイスがまだ搭載されており、Linux はそれを 2 番目の再起動方法として使用しています。
-
-お使いの PC には古いテクノロジーが組み込まれており、今でも稼働し続けています。
-
-お使いの PC には 1984 年当時のキーボード コントローラー インターフェイスがまだ搭載されており、Linux はそれを 2 番目の再起動方法として使用しています。
-
-By Adam Conway 公開 2026 年 8 月 17 日、午後 12:00 EDT 私はアダム コンウェイです。コンピュータ サイエンスの学士号を取得したアイルランドのテクノロジー愛好家で、XDA の主任テクニカル エディターを務めています。私の学士論文は、Android アプリやスマートフォンのパフォーマンスなどの非機能要素のベンチマークの実行可能性について行われました。私は 2017 年から何らかの形でテクノロジー業界で働いています。暇なときは、Counter-Strike や VALORANT をプレイしているのをおそらく見かけます。連絡先は adam@xda-developers.com 、Twitter では @AdamConwayIE 、Instagram では次のとおりです。 AdamConwayIE 、または Reddit の u/AdamConwayIE。 XDA アカウントにサインインする 1984 年の IBM PC/AT のキーボード コントローラー内部のファームウェアは、AT の出荷から 20 年以上経った 2008 年まで公にダンプされず、その後分解され、リバース エンジニアリングされました。その時までに、オリジナルの物理 8042 が他のチップでの互換性のある実装に取って代わられたにもかかわらず、IBM がそのコントローラーを中心に作成したインターフェイスは x86 PC に定着していました。そのチップ、Intel 8042 も単なるキーボード コントローラーではありませんでした。 IBM は出力ポート …</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/gaming-pc-with-upgradable-components.jpg?w=1600&amp;h=900&amp;fit=crop" alt="お使いの PC には 1984 年当時のキーボード コントローラー インターフェイスがまだ搭載されており、Linux はそれを 2 番目の再起動方法として使用しています。"></p>]]></description><source url="https://www.xda-developers.com/your-pc-still-keyboard-controller-1984-linux-second-way-reboot/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/gaming-pc-with-upgradable-components.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/gaming-pc-with-upgradable-components.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>エド・ブーン氏、インジャスティス2が全世界で900万本以上売れたことを認める</title><link>https://www.kitguru.net/gaming/joao-silva/ed-boon-confirms-injustice-2-has-sold-over-9-million-copies-worldwide/</link><guid isPermaLink="true">https://www.kitguru.net/gaming/joao-silva/ed-boon-confirms-injustice-2-has-sold-over-9-million-copies-worldwide/</guid><pubDate>Mon, 17 Aug 2026 16:00:10 +0000</pubDate><description><![CDATA[<p>エド・ブーン氏、インジャスティス2が全世界で900万本以上売れたことを認める
 
 NetherRealm Studios の共同制作者である Ed Boon 氏によると、『Injustice 2』は全世界で 900 万本以上売れたという。ブーン氏は、米国で最も売れているスーパーヒーロー ゲームの NPD グループ データ (ドル売上高でランキング) に関する議論の後、BlueSky への投稿 (GameReactor 経由) で売上高を明らかにしました。このデータセットでは、Injustice: Gods Among Us が 8 位にランクインしています。
@@ -236,6 +405,13 @@ NetherRealm Studios の共同制作者である Ed Boon 氏によると、『Inj
 João Silva 2 時間前 ソフトウェアとゲーム
 
 NetherRealm Studios の共同制作者である Ed Boon 氏によると、『Injustice 2』は全世界で 900 万本以上売れたという。ブーン氏は、米国で最も売れているスーパーヒーロー ゲームの NPD グループ データ (ドル売上高でランキング) に関する議論の後、BlueSky への投稿 (GameReactor 経由) で売上高を明らかにしました。このデータセットでは、『Injustice: Gods Among Us』が 8 位、『Injustice 2』が 10 位にランクインし、『Marvel’s Spider-Man』、『Batman: Arkham City』、『Batman: Arkham Knight』などのタイトルに続いています。 Injustice 2 の販売本数が 200 万本を超えたかどうかというユーザーの質問に応え、Boon 氏はこのゲームの全世界での販売本数が 900 万本を超えたことを認めました。このような強力な数字にもかかわらず、NetherRealm Studios はまだ正式に続編を発表していません。しかし、今年初め、WB Games のアーティストが履歴書に「Injustice 3 (TBD)」と記載し、Injusti…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2017/05/injustice-2-screenshots-660x330.jpg" alt="エド・ブーン氏、インジャスティス2が全世界で900万本以上売れたことを認める"></p>]]></description><source url="https://www.kitguru.net/gaming/joao-silva/ed-boon-confirms-injustice-2-has-sold-over-9-million-copies-worldwide/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2017/05/injustice-2-screenshots-660x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2017/05/injustice-2-screenshots-660x330.jpg"/></item>
+<item><title>お使いの PC には 1984 年当時のキーボード コントローラー インターフェイスがまだ搭載されており、Linux はそれを 2 番目の再起動方法として使用しています。</title><link>https://www.xda-developers.com/your-pc-still-keyboard-controller-1984-linux-second-way-reboot/</link><guid isPermaLink="true">https://www.xda-developers.com/your-pc-still-keyboard-controller-1984-linux-second-way-reboot/</guid><pubDate>Mon, 17 Aug 2026 16:00:10 +0000</pubDate><description><![CDATA[<p>お使いの PC には 1984 年当時のキーボード コントローラー インターフェイスがまだ搭載されており、Linux はそれを 2 番目の再起動方法として使用しています。
+
+お使いの PC には古いテクノロジーが組み込まれており、今でも稼働し続けています。
+
+お使いの PC には 1984 年当時のキーボード コントローラー インターフェイスがまだ搭載されており、Linux はそれを 2 番目の再起動方法として使用しています。
+
+By Adam Conway 公開 2026 年 8 月 17 日、午後 12:00 EDT 私はアダム コンウェイです。コンピュータ サイエンスの学士号を取得したアイルランドのテクノロジー愛好家で、XDA の主任テクニカル エディターを務めています。私の学士論文は、Android アプリやスマートフォンのパフォーマンスなどの非機能要素のベンチマークの実行可能性について行われました。私は 2017 年から何らかの形でテクノロジー業界で働いています。暇なときは、Counter-Strike や VALORANT をプレイしているのをおそらく見かけます。連絡先は adam@xda-developers.com 、Twitter では @AdamConwayIE 、Instagram では次のとおりです。 AdamConwayIE 、または Reddit の u/AdamConwayIE。 XDA アカウントにサインインする 1984 年の IBM PC/AT のキーボード コントローラー内部のファームウェアは、AT の出荷から 20 年以上経った 2008 年まで公にダンプされず、その後分解され、リバース エンジニアリングされました。その時までに、オリジナルの物理 8042 が他のチップでの互換性のある実装に取って代わられたにもかかわらず、IBM がそのコントローラーを中心に作成したインターフェイスは x86 PC に定着していました。そのチップ、Intel 8042 も単なるキーボード コントローラーではありませんでした。 IBM は出力ポート …</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/gaming-pc-with-upgradable-components.jpg?w=1600&amp;h=900&amp;fit=crop" alt="お使いの PC には 1984 年当時のキーボード コントローラー インターフェイスがまだ搭載されており、Linux はそれを 2 番目の再起動方法として使用しています。"></p>]]></description><source url="https://www.xda-developers.com/your-pc-still-keyboard-controller-1984-linux-second-way-reboot/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/gaming-pc-with-upgradable-components.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/gaming-pc-with-upgradable-components.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>(PR) XPPen、Artist Ultra 14 ポータブル描画 2.8K OLED ディスプレイを発表</title><link>https://www.techpowerup.com/351655/xppen-unveils-artist-ultra-14-portable-drawing-2-8k-oled-display</link><guid isPermaLink="true">https://www.techpowerup.com/351655/xppen-unveils-artist-ultra-14-portable-drawing-2-8k-oled-display</guid><pubDate>Mon, 17 Aug 2026 15:55:38 +0000</pubDate><description><![CDATA[<p>(PR) XPPen、Artist Ultra 14 ポータブル描画 2.8K OLED ディスプレイを発表
 
 デジタル アート イノベーションの世界的リーダーである XPPen は本日、2.8K OLED ディスプレイ、スタジオ グレードのカラー パフォーマンス、高度な X-Touch ソリューション、および超スリム デザインを備えた超クリアなトゥルー カラー ポータブル ドローイング ディスプレイである Artist Ultra 14 を発表しました。 XPPen の 21 周年を記念して、...
@@ -2368,15 +2544,6 @@ Chrome フラグを定期的に使用しますか?
 Pankil Shah / Android Authority Chrome ではタブをミュートできるので、サイトを開いた瞬間に音声が大音量で流れるサイトを我慢する必要がなくなります。唯一のことは、これは 2 段階のプロセスであるということです。まずタブを右クリックし、 [サイトをミュート] を選択する必要があります。
 
 タブのオーディオミュート UI コントロールは、それを簡単にするシンプルなフラグです。これを有効にすると、タブ上のオーディオ インジケーターがミュート ボタンとしても機能するため、ボタンを直接クリックしてタブをミュートまたはミュート解除できるようになります。実際にやってみると、…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2023/11/Google-Chrome-Flags-page-running-on-Chromebook-stock-photo.jpg" alt="ブラウザの最も厄介な問題を解決する 8 つの Google Chrome フラグ"></p>]]></description><source url="https://www.androidauthority.com/best-google-chrome-flags-2026-3698138/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2023/11/Google-Chrome-Flags-page-running-on-Chromebook-stock-photo.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2023/11/Google-Chrome-Flags-page-running-on-Chromebook-stock-photo.jpg"/></item>
-<item><title>すべての Android スマートフォンに対してサインインする前に行う最初の 5 つのこと</title><link>https://www.xda-developers.com/the-first-5-things-i-do-to-every-android-phone-before-i-even-sign-in/</link><guid isPermaLink="true">https://www.xda-developers.com/the-first-5-things-i-do-to-every-android-phone-before-i-even-sign-in/</guid><pubDate>Sun, 16 Aug 2026 10:00:10 +0000</pubDate><description><![CDATA[<p>すべての Android スマートフォンに対してサインインする前に行う最初の 5 つのこと
-
-新しい Android スマートフォンで Google にサインインする前に行うべき重要な事項。
-
-すべての Android スマートフォンに対してサインインする前に行う最初の 5 つのこと
-
-By Brian Burgess 公開 2026 年 8 月 16 日、午前 6:00 EDT ミネソタ州の田舎に拠点を置くブライアン バージェスは、消費者向けテクノロジーについて執筆することに情熱を注ぐまで、IT 業界で 10 年間働いていました。ブライアンは、2000 年にコンピュータおよびネットワーク テクノロジの学位を取得しました。彼は、ヘルプ デスク サポート、IBM のルーターの設置、データベース管理、その他のネットワーク管理関連の役割など、さまざまな IT 職を歴任しました。彼は 18 年間個人のテクノロジー ジャーナリストとして活動しており、Microsoft の製品とサービス、Android、iOS、ストリーミングなどに関する何千もの記事を執筆してきました。彼は、XDA、InformationWeek、How-To Geek、Byte、groovyPost などの著名な技術サイトに寄稿しています。彼がキーボードから離れているときは、ギターを弾いたり、屋外で仕事をしたり、スタートレックを見たりしているのが聞こえます。 XDA アカウントにサインインする 新しい Android スマートフォンを購入する場合、Google アカウントにログインすることが優先事項のように思えるかもしれません。携帯電話の機能の多くは、検索大手と結びついています。 Gmail、Play ストア、YouTube、その他のアプリを完全に使用するには、すべてサインインする必要があります。
-
-ただし、電話を保護し、初めて使用できるようにするためのいくつかの重要なタスクを実行するために、Google アカウントにサインインする必要はありません。お気に入りのビデオ、メッセージ、その他のメディアに飛び込む前に、…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/google-pixel-android-phone-setup-offline-1.JPEG?w=1600&amp;h=900&amp;fit=crop" alt="すべての Android スマートフォンに対してサインインする前に行う最初の 5 つのこと"></p>]]></description><source url="https://www.xda-developers.com/the-first-5-things-i-do-to-every-android-phone-before-i-even-sign-in/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/google-pixel-android-phone-setup-offline-1.JPEG?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/google-pixel-android-phone-setup-offline-1.JPEG?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>ファイル ブラウザはアーカイブされていますが、セルフホスト型の代替ブラウザはあらゆる点でそれよりも高速です</title><link>https://www.xda-developers.com/filestash-self-hosted-replacement-of-file-browser/</link><guid isPermaLink="true">https://www.xda-developers.com/filestash-self-hosted-replacement-of-file-browser/</guid><pubDate>Sun, 16 Aug 2026 10:00:10 +0000</pubDate><description><![CDATA[<p>ファイル ブラウザはアーカイブされていますが、セルフホスト型の代替ブラウザはあらゆる点でそれよりも高速です
 
 ファイル ブラウザに代わるものを探した結果、より高速で柔軟なセットアップを見つけることができました。
@@ -2386,6 +2553,15 @@ By Brian Burgess 公開 2026 年 8 月 16 日、午前 6:00 EDT ミネソタ州�
 By Yash Patel 公開 2026 年 8 月 16 日、午前 6:00 EDT 2018 年にテクノロジー業界でのキャリアを開始し、Yash はソフトウェア エンジニアとして 3 年以上を過ごしました。その後、彼はテクノロジー ブログ DiGiTAL BiRYANi の有益で魅力的なコンテンツを通じて読者に力を与えることに重点を移しました。彼は MakeTechEasier の技術記事も出版しています。彼は新しいテクノロジー ガジェットやプラットフォームを探索するのが大好きです。彼が執筆していないときは、食べ物について調べていることがわかります。彼はテクノロジーと食べ物への愛情から、読者の間ではデジタル シェフ ヤシュとして知られています。 XDA アカウントにサインインします。私を知っている人は、私がセルフホスティングをどれだけ楽しんでいるかを知っています。私は、オープンソース ツールを試し、自分のサーバー上で実行し、希望どおりに動作するセットアップをゆっくりと構築するのが好きです。しかし、私がセルフホスティングであまり楽しめない部分の 1 つは、まったく問題なく動作していたツールを置き換えることです。
 
 それがまさにファイル ブラウザで起こったことです。それは私のサーバーで何年も実行されていましたが、それを置き換える特別な理由はありませんでした。しかし、このプロジェクトは 2026 年 9 月にアーカイブされる予定だったので、実際に必要になる前に代替案を探し始めました。いくつかのオプションを試しましたが、最終的に Filestash に落ち着きました。私の日常のニーズにとって十分シンプルに見えたので、それを展開して、私のセットアップにどの…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/filestash-on-lenovo-legion.jpg?w=1600&amp;h=900&amp;fit=crop" alt="ファイル ブラウザはアーカイブされていますが、セルフホスト型の代替ブラウザはあらゆる点でそれよりも高速です"></p>]]></description><source url="https://www.xda-developers.com/filestash-self-hosted-replacement-of-file-browser/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/filestash-on-lenovo-legion.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/filestash-on-lenovo-legion.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>すべての Android スマートフォンに対してサインインする前に行う最初の 5 つのこと</title><link>https://www.xda-developers.com/the-first-5-things-i-do-to-every-android-phone-before-i-even-sign-in/</link><guid isPermaLink="true">https://www.xda-developers.com/the-first-5-things-i-do-to-every-android-phone-before-i-even-sign-in/</guid><pubDate>Sun, 16 Aug 2026 10:00:10 +0000</pubDate><description><![CDATA[<p>すべての Android スマートフォンに対してサインインする前に行う最初の 5 つのこと
+
+新しい Android スマートフォンで Google にサインインする前に行うべき重要な事項。
+
+すべての Android スマートフォンに対してサインインする前に行う最初の 5 つのこと
+
+By Brian Burgess 公開 2026 年 8 月 16 日、午前 6:00 EDT ミネソタ州の田舎に拠点を置くブライアン バージェスは、消費者向けテクノロジーについて執筆することに情熱を注ぐまで、IT 業界で 10 年間働いていました。ブライアンは、2000 年にコンピュータおよびネットワーク テクノロジの学位を取得しました。彼は、ヘルプ デスク サポート、IBM のルーターの設置、データベース管理、その他のネットワーク管理関連の役割など、さまざまな IT 職を歴任しました。彼は 18 年間個人のテクノロジー ジャーナリストとして活動しており、Microsoft の製品とサービス、Android、iOS、ストリーミングなどに関する何千もの記事を執筆してきました。彼は、XDA、InformationWeek、How-To Geek、Byte、groovyPost などの著名な技術サイトに寄稿しています。彼がキーボードから離れているときは、ギターを弾いたり、屋外で仕事をしたり、スタートレックを見たりしているのが聞こえます。 XDA アカウントにサインインする 新しい Android スマートフォンを購入する場合、Google アカウントにログインすることが優先事項のように思えるかもしれません。携帯電話の機能の多くは、検索大手と結びついています。 Gmail、Play ストア、YouTube、その他のアプリを完全に使用するには、すべてサインインする必要があります。
+
+ただし、電話を保護し、初めて使用できるようにするためのいくつかの重要なタスクを実行するために、Google アカウントにサインインする必要はありません。お気に入りのビデオ、メッセージ、その他のメディアに飛び込む前に、…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/google-pixel-android-phone-setup-offline-1.JPEG?w=1600&amp;h=900&amp;fit=crop" alt="すべての Android スマートフォンに対してサインインする前に行う最初の 5 つのこと"></p>]]></description><source url="https://www.xda-developers.com/the-first-5-things-i-do-to-every-android-phone-before-i-even-sign-in/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/google-pixel-android-phone-setup-offline-1.JPEG?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/google-pixel-android-phone-setup-offline-1.JPEG?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>ウクライナ無人機連隊、戦争ゲームで3,500名の米機甲旅団戦闘チームを「壊滅」―無人機が容易に発見され戦車や装甲車両を破壊できるため、高い無人機撃破率で継続的な「リスポーン」を強いられ、米国の対応の欠陥が明らかに</title><link>https://www.tomshardware.com/tech-industry/drones/ukrainian-drone-regiment-decimates-3-500-strong-u-s-armored-brigade-combat-team-in-war-game-reveals-shortcomings-in-american-response-as-drones-easily-spotted-and-destroyed-tanks-and-heavy-armored-vehicles</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/drones/ukrainian-drone-regiment-decimates-3-500-strong-u-s-armored-brigade-combat-team-in-war-game-reveals-shortcomings-in-american-response-as-drones-easily-spotted-and-destroyed-tanks-and-heavy-armored-vehicles</guid><pubDate>Sun, 16 Aug 2026 10:00:00 +0000</pubDate><description><![CDATA[<p>ウクライナ無人機連隊、戦争ゲームで3,500名の米機甲旅団戦闘チームを「壊滅」―無人機が容易に発見され戦車や装甲車両を破壊できるため、高い無人機撃破率で継続的な「リスポーン」を強いられ、米国の対応の欠陥が明らかに
 
 これらのウォーゲームは次のように設計されています
@@ -2594,17 +2770,6 @@ Linux 開発の世界は現在、興味深い時期を迎えています。 AI �
 Simon Batt 著 公開 2026 年 8 月 15 日、午後 8 時 EDT Simon はコンピューター サイエンスの学士号を取得しており、2014 年からテクノロジーについて執筆しており、3.1 から Windows マシンを使用しています。インディーズ ゲーム スタジオで働き、コンピューターの問題全般に対応する家族の頼りになる技術者として活動した後、彼は文章を書くことへの情熱に気づき、自分のスキルセットをテクノロジーに関するあらゆることについて書くことに決めました。ライターとしてのキャリアを始めて以来、彼は WorldStart 、 Listverse 、 MakeTechEasier などのさまざまな出版物に執筆してきました。しかし、2019 年 2 月に MakeUseOf に居場所を見つけた後、最終的にはその姉妹サイトである XDA に移り、最新かつ最高の Windows、Linux、DIY 電子機器を提供することになりました。 XDA アカウントにサインインする オペレーティング システムのアクティビティ モニターを覗いたことがある場合は、OS の検索機能のためにすべてのインデックスを作成することを唯一の仕事とするバックグラウンド デーモンを見つけることができる可能性が高くなります。通常、それはそこに座って最善のことを行いますが、何か問題が発生すると、大量のリソースを消費することになる可能性があります。
 
 では、なぜ誰も、PC が検索用にすべてのインデックスを作成する、より優れた効率的な方法を発明しなかったのでしょうか?さて、誰かがすでにやったことが判明しました。実際、同社は 1995 年に、より洗練された検索機能をリリース…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/beos-boot.jpg?w=1600&amp;h=900&amp;fit=crop" alt="90 年代にはファイル検索を解決したという誰も聞いたことのない OS ですが、私たちはその優雅さを引き換えに肥大化してきました。"></p>]]></description><source url="https://www.xda-developers.com/an-os-nobody-heard-of-solved-file-search-in-the-90s-and-weve-traded-its-elegance-for-bloat/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/beos-boot.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/beos-boot.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>蒸気の力で果物の皮をむく</title><link>https://hackaday.com/2026/08/15/peeling-fruit-with-the-power-of-steam/</link><guid isPermaLink="true">https://hackaday.com/2026/08/15/peeling-fruit-with-the-power-of-steam/</guid><pubDate>Sat, 15 Aug 2026 23:00:10 +0000</pubDate><description><![CDATA[<p>蒸気の力で果物の皮をむく
-
-蒸気動力はスチームパンクの美学、熱力学の定番であり、熱サイクルを研究する新進の機械エンジニアにとってチェックポイントです。しかし、食べ物は主に水でできているため、蒸気は常に存在します。
-
-蒸気動力はスチームパンクの美学、熱力学の定番であり、熱サイクルを研究する新進の機械エンジニアにとってチェックポイントです。しかし、食べ物は主に水でできているため、料理の分野では蒸気もよく使われます。したがって、熱力学を料理に適用すると、エキサイティングなことが起こるのも不思議ではありません。
-
-この蒸気動力による料理の例は、工業用ジャガイモの皮むき機からインスピレーションを得たものです。じゃがいもを入れた圧力容器に高圧高温の蒸気を加えることで、じゃがいもの内部まで熱が伝わりやすくなります。しかし、圧力が非常に高いため、皮膚内の水は沸騰しません。基本的には圧力鍋と同じ考え方です。ただし、異なる点は、これらの工業用皮むき機は、圧力鍋のゆっくりとした放出の代わりに、ジャガイモの皮の下の水を瞬間的に沸騰させる爆発的な減圧に依存していることです。この急速に膨張する蒸気が皮膚をきれいに剥がし、きれいなシートにします。
-
-しかし、[Stuff Made Here’s] が残念なことに、インターネット上にそのプロセスのビデオはありませんでした。しかし、幸いなことに、複雑な機械のエンジニアである私たちにとっては、現在、以下で見ることができる機械が存在することを意味します。
-
-マシン自体は、少なくとも机上ではかなりシンプルです。これは、バルブによって果実室に接続されたボイラーと、果実室から蒸気を排出するための別のバルブで構成されます。ただし、1,000 kPa を超える蒸気に安全に耐えることができ、溶接がうまくできない場合に撮影用の窓を備えた圧力容器を設計することは、まったく別の問題です。ボイラーは、中央にシリンダーを備えた 2 枚のステンレス鋼板で構成されており、チャンバーを蒸気密に保つために面シールが使用されています。パイプの端をシールと嵌合するのに十分な平らに加工するには…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/fruitPeeler.jpg" alt="蒸気の力で果物の皮をむく"></p>]]></description><source url="https://hackaday.com/2026/08/15/peeling-fruit-with-the-power-of-steam/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/fruitPeeler.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/fruitPeeler.jpg"/></item>
 <item><title>すべての Android スマートフォンで置き換える 5 つの Google アプリと、代わりに使用するアプリ</title><link>https://www.xda-developers.com/google-app-alternatives-on-android-phone/</link><guid isPermaLink="true">https://www.xda-developers.com/google-app-alternatives-on-android-phone/</guid><pubDate>Sat, 15 Aug 2026 23:00:10 +0000</pubDate><description><![CDATA[<p>すべての Android スマートフォンで置き換える 5 つの Google アプリと、代わりに使用するアプリ
 
 これらのアプリは、私がやるべきことを教えてくれました
@@ -2616,6 +2781,17 @@ By Megan Ellis Published Aug 15, 2026, 7:00 PM EDT Megan は、XDA Developers �
 これらのアプリは、より優れたプライバシーを提供する場合があります。また、単により良いエクスペリエンスを提供する場合もあります。その結果、これらは私が現在すべての Android スマートフォンで置き換えている Google アプリと、その機能を置き換えるために使用している代替アプリです。
 
 Chrome は私がスマートフォンで置き換えた最初の Google アプリでした。私の最初の動機は、フラグをいじらずに Web ページでダーク モードを強制できるアプリが必要だったという…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/google-apps-on-a-smartphone-screen.jpg?w=1600&amp;h=900&amp;fit=crop" alt="すべての Android スマートフォンで置き換える 5 つの Google アプリと、代わりに使用するアプリ"></p>]]></description><source url="https://www.xda-developers.com/google-app-alternatives-on-android-phone/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/google-apps-on-a-smartphone-screen.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/google-apps-on-a-smartphone-screen.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>蒸気の力で果物の皮をむく</title><link>https://hackaday.com/2026/08/15/peeling-fruit-with-the-power-of-steam/</link><guid isPermaLink="true">https://hackaday.com/2026/08/15/peeling-fruit-with-the-power-of-steam/</guid><pubDate>Sat, 15 Aug 2026 23:00:10 +0000</pubDate><description><![CDATA[<p>蒸気の力で果物の皮をむく
+
+蒸気動力はスチームパンクの美学、熱力学の定番であり、熱サイクルを研究する新進の機械エンジニアにとってチェックポイントです。しかし、食べ物は主に水でできているため、蒸気は常に存在します。
+
+蒸気動力はスチームパンクの美学、熱力学の定番であり、熱サイクルを研究する新進の機械エンジニアにとってチェックポイントです。しかし、食べ物は主に水でできているため、料理の分野では蒸気もよく使われます。したがって、熱力学を料理に適用すると、エキサイティングなことが起こるのも不思議ではありません。
+
+この蒸気動力による料理の例は、工業用ジャガイモの皮むき機からインスピレーションを得たものです。じゃがいもを入れた圧力容器に高圧高温の蒸気を加えることで、じゃがいもの内部まで熱が伝わりやすくなります。しかし、圧力が非常に高いため、皮膚内の水は沸騰しません。基本的には圧力鍋と同じ考え方です。ただし、異なる点は、これらの工業用皮むき機は、圧力鍋のゆっくりとした放出の代わりに、ジャガイモの皮の下の水を瞬間的に沸騰させる爆発的な減圧に依存していることです。この急速に膨張する蒸気が皮膚をきれいに剥がし、きれいなシートにします。
+
+しかし、[Stuff Made Here’s] が残念なことに、インターネット上にそのプロセスのビデオはありませんでした。しかし、幸いなことに、複雑な機械のエンジニアである私たちにとっては、現在、以下で見ることができる機械が存在することを意味します。
+
+マシン自体は、少なくとも机上ではかなりシンプルです。これは、バルブによって果実室に接続されたボイラーと、果実室から蒸気を排出するための別のバルブで構成されます。ただし、1,000 kPa を超える蒸気に安全に耐えることができ、溶接がうまくできない場合に撮影用の窓を備えた圧力容器を設計することは、まったく別の問題です。ボイラーは、中央にシリンダーを備えた 2 枚のステンレス鋼板で構成されており、チャンバーを蒸気密に保つために面シールが使用されています。パイプの端をシールと嵌合するのに十分な平らに加工するには…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/fruitPeeler.jpg" alt="蒸気の力で果物の皮をむく"></p>]]></description><source url="https://hackaday.com/2026/08/15/peeling-fruit-with-the-power-of-steam/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/fruitPeeler.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/fruitPeeler.jpg"/></item>
 <item><title>GaN+ 充電器を内蔵したこの 13-in-1 USB-C ドッキング ステーションは、私の充電習慣をより良いものに変えました - レビュー</title><link>https://www.notebookcheck.net/This-13-in-1-USB-C-docking-station-with-built-in-GaN-charger-changed-my-charging-habits-for-the-better-a-review.1369641.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/This-13-in-1-USB-C-docking-station-with-built-in-GaN-charger-changed-my-charging-habits-for-the-better-a-review.1369641.0.html</guid><pubDate>Sat, 15 Aug 2026 22:40:00 +0000</pubDate><description><![CDATA[<p>GaN+ 充電器を内蔵したこの 13-in-1 USB-C ドッキング ステーションは、私の充電習慣をより良いものに変えました - レビュー
 
 MOKiN MOPU1102 13-in-1 USB-C ドッキング ステーションの短い実践レビュー。Lenovo Legion Go および標準的なコンピューター周辺機器と組み合わせて、その構築品質、機能、実現可能性を探ります。テストの結果、メイン充電器の両方に役立つ十分な電力とポートがあることが判明し、詳細な充電インジケーターを備えた卓上充電器に簡単にアクセスできることが、バッテリーの劣化を防ぐ良い方法になる可能性があると著者は述べています。
@@ -2996,17 +3172,6 @@ Nvidia は優れた投資を行っています。
 
 SpaceX の xAI は、地球上と軌道上の AI データ センターで Nvidia…</p><p><img src="https://cdn.mos.cms.futurecdn.net/Kjestg9jiuvnbE868dhwjf-2560-80.jpg" alt="Nvidia、50億ドルのインテル株賭けを300億ドルの棚ぼたに変える—申請により新たに210億ドルのSpaceX株とArm株からの完全撤退が明らかに"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/nvidia-turns-usd5b-intel-stock-bet-into-usd30b-windfall-filing-reveals-new-usd21b-spacex-stake-and-complete-exit-from-arm-stock">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/Kjestg9jiuvnbE868dhwjf-2560-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/Kjestg9jiuvnbE868dhwjf-2560-80.jpg"/></item>
 <item><title>Linux support is coming to the reworked Epic Games Launcher, new app will run on Tauri instead of Unreal Engine</title><link>https://www.tweaktown.com/rss/click/news/113119/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113119/?c=news-mf</guid><pubDate>Sat, 15 Aug 2026 14:05:06 +0000</pubDate><description><![CDATA[<p>Linux support is coming to the reworked Epic Games Launcher, new app will run on Tauri instead of Unreal Engine</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113119/?c=news-mf">TweakTown</source></item>
-<item><title>完全に特性化されたシステム</title><link>https://hackaday.com/2026/08/15/fully-characterized-systems/</link><guid isPermaLink="true">https://hackaday.com/2026/08/15/fully-characterized-systems/</guid><pubDate>Sat, 15 Aug 2026 14:00:10 +0000</pubDate><description><![CDATA[<p>完全に特性化されたシステム
-
-私の昔のハッカースペースの友人は電気工学の大学院に通っていた。彼の教授には、学生のプロジェクトで何か問題が起こったとき、「この問題を完全に特徴づけましたか?」と尋ねられる人がいました。
-
-私の昔のハッカースペースの友人は電気工学の大学院に通っていた。彼の教授には、学生プロジェクトで何か問題が発生したとき、「システムの特性を十分に理解しましたか?」と尋ねられる人がいました。これは高い目標ではあるが、良い目標ではあるが、約 95% の確率で YOLO が MO だったため、ハッカー業界内での冗談にもなった。 3D プリンターでヘッドがクラッシュ – 「完全に特性化されていない」。先週末ゴミ出しを忘れましたか？システムは完全に特性化されましたか?
-
-それはおそらく、理論と実践の違いでもあります。理論的には、理論と実践の間に違いはなく、すべてのシステムを完全に特徴付けることができます。しかし実際には、まだ完全に理解していないシステムを完全に特徴付けるのは困難です。
-
-好例: うちの前庭には9本の小さな苗木が生えているので、それらに水をやる必要があります。木から木へとホースを移動させるのは退屈なので、ある長さのホースを用意して、片方の端で栓をし、すべての木に一度に水をまくことができるように十分な穴を開けようと思いました。私はこのシステムを少し特徴づけました。ホースを通る 1 分間あたりの水の量を計算し、それを頭の中で妥当な流出量に分割し、ドリルで穴を開けましたが、結果的に大きすぎました。
-
-なぜですか？なぜなら、ホースの長さには流れに対する抵抗があり、最初のいくつかの穴からは水が流れ出ますが、最後のいくつかの穴は乾いていたからです。私が思っていたような一定の圧力システムではありませんでした。ホース内の抵抗が重要になるとは思ってもいなかったので、測定しようとするわけがありませんでした。しかし、とにかくこの抵抗をどのように特徴づければよいでしょうか?大きすぎる穴を備えたホースを作成し、減衰を測定することもできます。 （おっと、それはまさに私がやったことで…</p><p><img src="https://hackaday.com/wp-content/uploads/2020/05/Automation.jpg" alt="完全に特性化されたシステム"></p>]]></description><source url="https://hackaday.com/2026/08/15/fully-characterized-systems/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2020/05/Automation.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2020/05/Automation.jpg"/></item>
 <item><title>私のバックアップ戦略全体は、70 ドルの外部ドライブと 2 つのスケジュールされたコマンドです。</title><link>https://www.xda-developers.com/my-entire-backup-strategy-cheap-drive-two-commands/</link><guid isPermaLink="true">https://www.xda-developers.com/my-entire-backup-strategy-cheap-drive-two-commands/</guid><pubDate>Sat, 15 Aug 2026 14:00:10 +0000</pubDate><description><![CDATA[<p>私のバックアップ戦略全体は、70 ドルの外部ドライブと 2 つのスケジュールされたコマンドです。
 
 退屈だし、安いし、それでがっかりしたことは一度もありません。
@@ -3018,6 +3183,17 @@ By Korbin Brown 公開 2026 年 8 月 15 日、午前 10:00 EDT Korbin は、物
 私のバックアップ戦略全体は、70 ドル以下のポータブル ハード ドライブと、スケジュールに従って実行される 2 つの rsync コマンドです。これらは一緒に 3-2-1 ルールを満たします。つまり、私の作業用コピー、外部ドライブ上の別のローカル コピー、およびレンタル ストレージ VPS 上にあるオフサイト コピーです。全体のセットアップは非常にシンプルで、GUI、専用ソフトウェア、クラウド サブスクリプションは必要ありません。
 
 数年間そのように動作しており、そこから2回正常に復元しました。バックアップはそれほど複雑である必要はありません。全体の構成は数行…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/external-hdd-hard-drive-seagate-pc.jpg?w=1600&amp;h=900&amp;fit=crop" alt="私のバックアップ戦略全体は、70 ドルの外部ドライブと 2 つのスケジュールされたコマンドです。"></p>]]></description><source url="https://www.xda-developers.com/my-entire-backup-strategy-cheap-drive-two-commands/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/external-hdd-hard-drive-seagate-pc.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/external-hdd-hard-drive-seagate-pc.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>完全に特性化されたシステム</title><link>https://hackaday.com/2026/08/15/fully-characterized-systems/</link><guid isPermaLink="true">https://hackaday.com/2026/08/15/fully-characterized-systems/</guid><pubDate>Sat, 15 Aug 2026 14:00:10 +0000</pubDate><description><![CDATA[<p>完全に特性化されたシステム
+
+私の昔のハッカースペースの友人は電気工学の大学院に通っていた。彼の教授には、学生のプロジェクトで何か問題が起こったとき、「この問題を完全に特徴づけましたか?」と尋ねられる人がいました。
+
+私の昔のハッカースペースの友人は電気工学の大学院に通っていた。彼の教授には、学生プロジェクトで何か問題が発生したとき、「システムの特性を十分に理解しましたか?」と尋ねられる人がいました。これは高い目標ではあるが、良い目標ではあるが、約 95% の確率で YOLO が MO だったため、ハッカー業界内での冗談にもなった。 3D プリンターでヘッドがクラッシュ – 「完全に特性化されていない」。先週末ゴミ出しを忘れましたか？システムは完全に特性化されましたか?
+
+それはおそらく、理論と実践の違いでもあります。理論的には、理論と実践の間に違いはなく、すべてのシステムを完全に特徴付けることができます。しかし実際には、まだ完全に理解していないシステムを完全に特徴付けるのは困難です。
+
+好例: うちの前庭には9本の小さな苗木が生えているので、それらに水をやる必要があります。木から木へとホースを移動させるのは退屈なので、ある長さのホースを用意して、片方の端で栓をし、すべての木に一度に水をまくことができるように十分な穴を開けようと思いました。私はこのシステムを少し特徴づけました。ホースを通る 1 分間あたりの水の量を計算し、それを頭の中で妥当な流出量に分割し、ドリルで穴を開けましたが、結果的に大きすぎました。
+
+なぜですか？なぜなら、ホースの長さには流れに対する抵抗があり、最初のいくつかの穴からは水が流れ出ますが、最後のいくつかの穴は乾いていたからです。私が思っていたような一定の圧力システムではありませんでした。ホース内の抵抗が重要になるとは思ってもいなかったので、測定しようとするわけがありませんでした。しかし、とにかくこの抵抗をどのように特徴づければよいでしょうか?大きすぎる穴を備えたホースを作成し、減衰を測定することもできます。 （おっと、それはまさに私がやったことで…</p><p><img src="https://hackaday.com/wp-content/uploads/2020/05/Automation.jpg" alt="完全に特性化されたシステム"></p>]]></description><source url="https://hackaday.com/2026/08/15/fully-characterized-systems/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2020/05/Automation.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2020/05/Automation.jpg"/></item>
 <item><title>YouTube の「後で見る」を NotebookLM キューとトランスクリプトに置き換えたところ、コンテンツの消費方法が完全に変わりました</title><link>https://www.xda-developers.com/i-replaced-my-youtube-watch-later-with-a-notebooklm-queue-and-transcripts-and-it-completely-changed-how-i-consume-content/</link><guid isPermaLink="true">https://www.xda-developers.com/i-replaced-my-youtube-watch-later-with-a-notebooklm-queue-and-transcripts-and-it-completely-changed-how-i-consume-content/</guid><pubDate>Sat, 15 Aug 2026 13:30:10 +0000</pubDate><description><![CDATA[<p>YouTube の「後で見る」を NotebookLM キューとトランスクリプトに置き換えたところ、コンテンツの消費方法が完全に変わりました
 
 一番いいところは？セットアップには数秒しかかかりません。
@@ -3746,8 +3922,8 @@ Bloodsuckers と Fleshes は生息地に応じて異なる外観を特徴とし�
 2026 年 7 月 27 日 Palworld 幹部、サポート終了計画についてゲーマーに安心を与える (10)
 
 2026 年 4 月 28 日 Denuvo がデイ…</p><p><img src="https://www.techpowerup.com/img/IlHZP7ChIvB57MLZ.jpg" alt="(PR) S.T.A.L.K.E.R. 2: チェルノブイリの中心アップデート 2.0 が 8 月 20 日に到着"></p>]]></description><source url="https://www.techpowerup.com/351625/s-t-a-l-k-e-r-2-heart-of-chornobyl-update-2-0-arrives-august-20">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/IlHZP7ChIvB57MLZ.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/IlHZP7ChIvB57MLZ.jpg"/></item>
-<item><title>My Experience at the InfiMaker K1 Five-Axis CNC Launch Event</title><link>https://www.hackster.io/news/my-experience-at-the-infimaker-k1-five-axis-cnc-launch-event-5e3577e35557</link><guid isPermaLink="true">https://www.hackster.io/news/my-experience-at-the-infimaker-k1-five-axis-cnc-launch-event-5e3577e35557</guid><pubDate>Fri, 14 Aug 2026 21:01:06 +0000</pubDate><description><![CDATA[<p>My Experience at the InfiMaker K1 Five-Axis CNC Launch Event</p>]]></description><source url="https://www.hackster.io/news/my-experience-at-the-infimaker-k1-five-axis-cnc-launch-event-5e3577e35557">Hackster.io</source></item>
 <item><title>My Experience at the InfiMaker K1 5-Axis CNC Launch Event</title><link>https://www.hackster.io/news/my-experience-at-the-infimaker-k1-5-axis-cnc-launch-event-5e3577e35557</link><guid isPermaLink="true">https://www.hackster.io/news/my-experience-at-the-infimaker-k1-5-axis-cnc-launch-event-5e3577e35557</guid><pubDate>Fri, 14 Aug 2026 21:01:06 +0000</pubDate><description><![CDATA[<p>My Experience at the InfiMaker K1 5-Axis CNC Launch Event</p>]]></description><source url="https://www.hackster.io/news/my-experience-at-the-infimaker-k1-5-axis-cnc-launch-event-5e3577e35557">Hackster.io</source></item>
+<item><title>My Experience at the InfiMaker K1 Five-Axis CNC Launch Event</title><link>https://www.hackster.io/news/my-experience-at-the-infimaker-k1-five-axis-cnc-launch-event-5e3577e35557</link><guid isPermaLink="true">https://www.hackster.io/news/my-experience-at-the-infimaker-k1-five-axis-cnc-launch-event-5e3577e35557</guid><pubDate>Fri, 14 Aug 2026 21:01:06 +0000</pubDate><description><![CDATA[<p>My Experience at the InfiMaker K1 Five-Axis CNC Launch Event</p>]]></description><source url="https://www.hackster.io/news/my-experience-at-the-infimaker-k1-five-axis-cnc-launch-event-5e3577e35557">Hackster.io</source></item>
 <item><title>私が行った最高の Wi-Fi アップグレードは新しいルーターではなく、家具を 1 つ移動したことでした</title><link>https://www.xda-developers.com/the-best-wi-fi-upgrade-wasnt-a-new-router-it-was-moving-some-furniture/</link><guid isPermaLink="true">https://www.xda-developers.com/the-best-wi-fi-upgrade-wasnt-a-new-router-it-was-moving-some-furniture/</guid><pubDate>Fri, 14 Aug 2026 21:00:10 +0000</pubDate><description><![CDATA[<p>私が行った最高の Wi-Fi アップグレードは新しいルーターではなく、家具を 1 つ移動したことでした
 
 そろそろ ISP を責めるのをやめる時が来た
@@ -4344,25 +4520,6 @@ Android Authority のアフィリエイト リンクにより、手数料が発�
 スマートフォンの平均バッテリー容量は年々増加し続けており、アナリストらはこの現象は中国のスマートフォンブランドとバッテリー技術の向上によるものだと考えています。 XiaomiのサブブランドPOCOは、そのバッテリー技術をヨーロッパ市場に導入する準備をしており、リークは現在、その次の主力製品の早期外観を提供しています。
 
 WinFuture による独占レポートでは、最近中国でデビューした Redmi K100 Pro と Pro Max を事実上ヨーロッパでリブランドした 2 つのプレミアム グレードのフラッグシップを垣間見ることができます。最高級のPOCO F9 Ultraのリークされたハイライトの中には、巨大な8,050mAhバッテリーが含まれていますが、小型のF9 Proには代わりに6,330mAhバッテリーパックが搭載されて…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/Poco-F9-WF.jpeg" alt="大容量バッテリーと 200MP カメラを搭載したこのフラッグシップがもうすぐ登場します"></p>]]></description><source url="https://www.androidauthority.com/poco-f9-pro-ultra-specs-pricing-leak-3698809/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/Poco-F9-WF.jpeg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/Poco-F9-WF.jpeg"/></item>
-<item><title>240 Hz IPS パネル、G-Sync、正確な色を備えた 27 インチ モニター: KTC H27E6S レビュー</title><link>https://www.notebookcheck.net/27-inch-monitor-with-a-240-Hz-IPS-panel-G-Sync-and-accurate-colors-KTC-H27E6S-review.1368073.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/27-inch-monitor-with-a-240-Hz-IPS-panel-G-Sync-and-accurate-colors-KTC-H27E6S-review.1368073.0.html</guid><pubDate>Fri, 14 Aug 2026 14:39:00 +0000</pubDate><description><![CDATA[<p>240 Hz IPS パネル、G-Sync、正確な色を備えた 27 インチ モニター: KTC H27E6S レビュー
-
-27 インチ画面、QHD 解像度、240 Hz リフレッシュ レートを備えた KTC H27E6S ゲーミング モニターの Notebookcheck レビュー。
-
-評決: 240 Hz の手頃な価格の 27 インチ モニター
-
-テストでは、KTC H27E6S は良い印象を与えました。 240 Hz の高いリフレッシュ レートと高速応答時間を備えた 27 インチ IPS パネルは、PC とコンソールの両方で、ペースの速いシューティングゲームでも問題なく処理します。ただし、IPS パネルでは意味のある HDR 効果を生み出すのに十分な明るさ​​が得られないため、HDR ゲームは実際には実現可能ではありません。
-
-このモニターは、優れた明るさ、マットな表示面、PWM ちらつきがないため、特に画面を回転して縦向きモードにできるため、生産性の高い作業にも適しています。付属のスタンドには広範な調整オプションがありますが、照明に関してはほとんど機能しません。
-
-H27E6S は工場出荷時の設定でも sRGB 色空間で正確な色再現を実現しており、画像編集にも適しています。全体として、それは公正な価格で優れたオールラウンダーです。ただし、たまにしかゲームをしない場合は、リフレッシュ レートは低くても、USB-C Power Delivery や KVM スイッチなどの機能が充実した競合モデルの方が魅力的である可能性があります。
-
-KTC H27E6S は、Amazon Germany で €239.99 で入手できます。
-
-翻訳者注: 米国では、このモニターは Amazon で 220 ドルで購入できます。
-
-評決 – ゲーマーだけでなく優れた IPS モニター
-
-H27E6S では、KTC は主にゲーマー向けに、IPS パネルと 240 Hz リフレッシュ レートを備えた手頃な価格の 27 インチ モニターを提供します。ただし、正確な色とマットなパネルのおかげで…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/KTC/H27E6S/ktc_H27E6S_16.JPG" alt="240 Hz IPS パネル、G-Sync、正確な色を備えた 27 インチ モニター: KTC H27E6S レビュー"></p>]]></description><source url="https://www.notebookcheck.net/27-inch-monitor-with-a-240-Hz-IPS-panel-G-Sync-and-accurate-colors-KTC-H27E6S-review.1368073.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/KTC/H27E6S/ktc_H27E6S_16.JPG" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/KTC/H27E6S/ktc_H27E6S_16.JPG"/></item>
 <item><title>240 Hz IPS パネル、G-Sync、正確な色を備えた 27 インチ モニター: KTC H27E6S レビュー</title><link>https://www.notebookcheck.net/27-Inch-Monitor-with-a-240-Hz-IPS-Panel-G-Sync-and-Accurate-Colors-KTC-H27E6S-Review.1368073.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/27-Inch-Monitor-with-a-240-Hz-IPS-Panel-G-Sync-and-Accurate-Colors-KTC-H27E6S-Review.1368073.0.html</guid><pubDate>Fri, 14 Aug 2026 14:39:00 +0000</pubDate><description><![CDATA[<p>240 Hz IPS パネル、G-Sync、正確な色を備えた 27 インチ モニター: KTC H27E6S レビュー
 
 27 インチ画面、QHD 解像度、240 Hz リフレッシュ レートを備えた KTC H27E6S ゲーミング モニターの Notebookcheck レビュー。
@@ -4382,6 +4539,25 @@ KTC H27E6S は、Amazon Germany で €239.99 で入手できます。
 評決 – ゲーマーだけでなく優れた IPS モニター
 
 H27E6S では、KTC は主にゲーマー向けに、IPS パネルと 240 Hz リフレッシュ レートを備えた手頃な価格の 27 インチ モニターを提供します。ただし、正確な色とマットなパネルのおかげで…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/KTC/H27E6S/ktc_H27E6S_16.JPG" alt="240 Hz IPS パネル、G-Sync、正確な色を備えた 27 インチ モニター: KTC H27E6S レビュー"></p>]]></description><source url="https://www.notebookcheck.net/27-Inch-Monitor-with-a-240-Hz-IPS-Panel-G-Sync-and-Accurate-Colors-KTC-H27E6S-Review.1368073.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/KTC/H27E6S/ktc_H27E6S_16.JPG" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/KTC/H27E6S/ktc_H27E6S_16.JPG"/></item>
+<item><title>240 Hz IPS パネル、G-Sync、正確な色を備えた 27 インチ モニター: KTC H27E6S レビュー</title><link>https://www.notebookcheck.net/27-inch-monitor-with-a-240-Hz-IPS-panel-G-Sync-and-accurate-colors-KTC-H27E6S-review.1368073.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/27-inch-monitor-with-a-240-Hz-IPS-panel-G-Sync-and-accurate-colors-KTC-H27E6S-review.1368073.0.html</guid><pubDate>Fri, 14 Aug 2026 14:39:00 +0000</pubDate><description><![CDATA[<p>240 Hz IPS パネル、G-Sync、正確な色を備えた 27 インチ モニター: KTC H27E6S レビュー
+
+27 インチ画面、QHD 解像度、240 Hz リフレッシュ レートを備えた KTC H27E6S ゲーミング モニターの Notebookcheck レビュー。
+
+評決: 240 Hz の手頃な価格の 27 インチ モニター
+
+テストでは、KTC H27E6S は良い印象を与えました。 240 Hz の高いリフレッシュ レートと高速応答時間を備えた 27 インチ IPS パネルは、PC とコンソールの両方で、ペースの速いシューティングゲームでも問題なく処理します。ただし、IPS パネルでは意味のある HDR 効果を生み出すのに十分な明るさ​​が得られないため、HDR ゲームは実際には実現可能ではありません。
+
+このモニターは、優れた明るさ、マットな表示面、PWM ちらつきがないため、特に画面を回転して縦向きモードにできるため、生産性の高い作業にも適しています。付属のスタンドには広範な調整オプションがありますが、照明に関してはほとんど機能しません。
+
+H27E6S は工場出荷時の設定でも sRGB 色空間で正確な色再現を実現しており、画像編集にも適しています。全体として、それは公正な価格で優れたオールラウンダーです。ただし、たまにしかゲームをしない場合は、リフレッシュ レートは低くても、USB-C Power Delivery や KVM スイッチなどの機能が充実した競合モデルの方が魅力的である可能性があります。
+
+KTC H27E6S は、Amazon Germany で €239.99 で入手できます。
+
+翻訳者注: 米国では、このモニターは Amazon で 220 ドルで購入できます。
+
+評決 – ゲーマーだけでなく優れた IPS モニター
+
+H27E6S では、KTC は主にゲーマー向けに、IPS パネルと 240 Hz リフレッシュ レートを備えた手頃な価格の 27 インチ モニターを提供します。ただし、正確な色とマットなパネルのおかげで…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/KTC/H27E6S/ktc_H27E6S_16.JPG" alt="240 Hz IPS パネル、G-Sync、正確な色を備えた 27 インチ モニター: KTC H27E6S レビュー"></p>]]></description><source url="https://www.notebookcheck.net/27-inch-monitor-with-a-240-Hz-IPS-panel-G-Sync-and-accurate-colors-KTC-H27E6S-review.1368073.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/KTC/H27E6S/ktc_H27E6S_16.JPG" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/KTC/H27E6S/ktc_H27E6S_16.JPG"/></item>
 <item><title>私は Nextcloud を捨てて、もっと軽いものを探しましたが、機能を一つも見逃していません。</title><link>https://www.xda-developers.com/ditched-nextcloud-something-lighter-dont-miss-single-feature/</link><guid isPermaLink="true">https://www.xda-developers.com/ditched-nextcloud-something-lighter-dont-miss-single-feature/</guid><pubDate>Fri, 14 Aug 2026 14:30:10 +0000</pubDate><description><![CDATA[<p>私は Nextcloud を捨てて、もっと軽いものを探しましたが、機能を一つも見逃していません。
 
 Seafile は私の新しい友達です。
@@ -5352,6 +5528,15 @@ YouTube は、モバイルとウェブの両方でそのユーザー インタ�
 
 昨年だけでも、6 件以上の大きな変更が加えられました。しかし、YouTubeは最近この動きの背後にある理念を説明し、これらの変更が意図的なものであることを確認した。 YouTube のユーザー エクスペリエンス担当副社長である Jonathan Terleski による最近のブログ投稿で、ビデオ巨人はこうした絶え間ない変化の背後にある原動力を明らかにしています。このブログでは、「煩雑さを減らし、アプリを使いやすくする」ために YouTube のインターフェースに最小限の変更を加えた…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/03/youtube-logo-google-pixel-10a-2-scaled.jpg" alt="YouTubeは、UIが変わり続けるのには理由があり、ユーザーを困らせるためではないとしている"></p>]]></description><source url="https://www.androidauthority.com/youtube-explains-why-ui-keeps-changing-3698670/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/03/youtube-logo-google-pixel-10a-2-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/03/youtube-logo-google-pixel-10a-2-scaled.jpg"/></item>
 <item><title>Phantom Blade Zero on PC will launch with DLSS 4.5 and Ray Tracing on day one</title><link>https://www.tweaktown.com/rss/click/news/113117/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113117/?c=news-mf</guid><pubDate>Fri, 14 Aug 2026 08:29:08 +0000</pubDate><description><![CDATA[<p>Phantom Blade Zero on PC will launch with DLSS 4.5 and Ray Tracing on day one</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113117/?c=news-mf">TweakTown</source></item>
+<item><title>モークリーとエッカートの他のコンピューター</title><link>https://hackaday.com/2026/08/14/mauchly-and-eckerts-other-computers/</link><guid isPermaLink="true">https://hackaday.com/2026/08/14/mauchly-and-eckerts-other-computers/</guid><pubDate>Fri, 14 Aug 2026 08:00:37 +0000</pubDate><description><![CDATA[<p>モークリーとエッカートの他のコンピューター
+
+ランダムな人に [ジョン モークリー] と [J.プレスパー・エッカート] だったら、おそらく白い目で見られるでしょう。 Hackaday の読者に尋ねれば、より良い答えが得られます。知っている人は教えてくれるでしょう…
+
+ランダムな人に [ジョン モークリー] と [J.プレスパー・エッカート] だったら、おそらく白い目で見られるでしょう。 Hackaday の読者に尋ねれば、より良い答えが得られます。知っている人なら、この 2 人が有名な ENIAC の背後にいると言うでしょう。ENIAC は最初のコンピューターであるかどうかはわかりませんが、現代コンピューター時代の始まりに確かに影響を与えました。彼らはペンシルバニア大学で働いており、現在、ペンシルベニア州キスラック特別コレクション、貴重書、写本センターの [ホリー メンゲル] が、ENIAC の後に彼らが取り組んだ他のコンピューターを私たちに紹介したいと考えています。
+
+EDVAC と UNIVAC については知っていたことを認めます。しかし、BINAC や Skeduflo というかなり大きなスーツケースに入ったコンピューターについては知らなかったことも告白します。 BINAC は、商業化された最初のデジタル コンピューターであると主張できますが、それはかなり限定的であり、伝えられるところによると、納入後に一度も動作しなかったため、そう主張することもできます。おそらく顧客はそれを分解し、安全な施設に輸送し、再構築するために新卒のエンジニアを雇ったと考えられますが、それはあまりうまくいきませんでした。
+
+Skeduflo については、クリティカル パス法 (CPM) 分析用に作られた 75 ポンドのアナログ コンピューターであるということ以外、あまり見つかりませんでした。パッチボードとポテンショメータを使用して問題を設定すると、結果がアナログ プロッタに出力されました。これらの詳細は、[モーガン ウォーカー] と [ジム ケリー] への PMI インタビューからのもの…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/sked.png" alt="モークリーとエッカートの他のコンピューター"></p>]]></description><source url="https://hackaday.com/2026/08/14/mauchly-and-eckerts-other-computers/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/sked.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/sked.png"/></item>
 <item><title>Pixel 11 のことは忘れてください。この Google 製品は今年多くの人の注目を集めています</title><link>https://www.androidauthority.com/fitness-tracker-fitbit-air-poll-results-3698641/</link><guid isPermaLink="true">https://www.androidauthority.com/fitness-tracker-fitbit-air-poll-results-3698641/</guid><pubDate>Fri, 14 Aug 2026 08:00:37 +0000</pubDate><description><![CDATA[<p>Pixel 11 のことは忘れてください。この Google 製品は今年多くの人の注目を集めています
 
 Googleは5月にFitbit Airを発売した。読者アンケートの結果を受けて、スクリーンレス トラッカーは急速に人気を博しています。
@@ -5371,15 +5556,6 @@ Android Authority のアフィリエイト リンクにより、手数料が発�
 Andy Walker / Android Authority この調査は 2,200 を超える投票を集め、Air の望ましさを超えたいくつかの驚くべき傾向が明らかになりました。
 
 まず、スマート リングの誇大宣伝は沈静化しつつあるようです。回答者のわずか 2.8% のみが今すぐ購入すると考えています。 Oura Ring 5 の発売前にこのアンケートを実施したことは注目…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/05/google-fitbit-air-worn-on-ankle-3.jpg" alt="Pixel 11 のことは忘れてください。この Google 製品は今年多くの人の注目を集めています"></p>]]></description><source url="https://www.androidauthority.com/fitness-tracker-fitbit-air-poll-results-3698641/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/05/google-fitbit-air-worn-on-ankle-3.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/05/google-fitbit-air-worn-on-ankle-3.jpg"/></item>
-<item><title>モークリーとエッカートの他のコンピューター</title><link>https://hackaday.com/2026/08/14/mauchly-and-eckerts-other-computers/</link><guid isPermaLink="true">https://hackaday.com/2026/08/14/mauchly-and-eckerts-other-computers/</guid><pubDate>Fri, 14 Aug 2026 08:00:37 +0000</pubDate><description><![CDATA[<p>モークリーとエッカートの他のコンピューター
-
-ランダムな人に [ジョン モークリー] と [J.プレスパー・エッカート] だったら、おそらく白い目で見られるでしょう。 Hackaday の読者に尋ねれば、より良い答えが得られます。知っている人は教えてくれるでしょう…
-
-ランダムな人に [ジョン モークリー] と [J.プレスパー・エッカート] だったら、おそらく白い目で見られるでしょう。 Hackaday の読者に尋ねれば、より良い答えが得られます。知っている人なら、この 2 人が有名な ENIAC の背後にいると言うでしょう。ENIAC は最初のコンピューターであるかどうかはわかりませんが、現代コンピューター時代の始まりに確かに影響を与えました。彼らはペンシルバニア大学で働いており、現在、ペンシルベニア州キスラック特別コレクション、貴重書、写本センターの [ホリー メンゲル] が、ENIAC の後に彼らが取り組んだ他のコンピューターを私たちに紹介したいと考えています。
-
-EDVAC と UNIVAC については知っていたことを認めます。しかし、BINAC や Skeduflo というかなり大きなスーツケースに入ったコンピューターについては知らなかったことも告白します。 BINAC は、商業化された最初のデジタル コンピューターであると主張できますが、それはかなり限定的であり、伝えられるところによると、納入後に一度も動作しなかったため、そう主張することもできます。おそらく顧客はそれを分解し、安全な施設に輸送し、再構築するために新卒のエンジニアを雇ったと考えられますが、それはあまりうまくいきませんでした。
-
-Skeduflo については、クリティカル パス法 (CPM) 分析用に作られた 75 ポンドのアナログ コンピューターであるということ以外、あまり見つかりませんでした。パッチボードとポテンショメータを使用して問題を設定すると、結果がアナログ プロッタに出力されました。これらの詳細は、[モーガン ウォーカー] と [ジム ケリー] への PMI インタビューからのもの…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/sked.png" alt="モークリーとエッカートの他のコンピューター"></p>]]></description><source url="https://hackaday.com/2026/08/14/mauchly-and-eckerts-other-computers/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/sked.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/sked.png"/></item>
 <item><title>Razer announces its first Artisan Keycap with the Triple-Headed Snake Edition</title><link>https://www.tweaktown.com/rss/click/news/113116/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113116/?c=news-mf</guid><pubDate>Fri, 14 Aug 2026 07:58:12 +0000</pubDate><description><![CDATA[<p>Razer announces its first Artisan Keycap with the Triple-Headed Snake Edition</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113116/?c=news-mf">TweakTown</source></item>
 <item><title>Google Meet で対面会議でもメモが取れるようになりました。その方法は次のとおりです。</title><link>https://www.androidauthority.com/google-meet-in-person-meeting-notes-3698664/</link><guid isPermaLink="true">https://www.androidauthority.com/google-meet-in-person-meeting-notes-3698664/</guid><pubDate>Fri, 14 Aug 2026 07:50:47 +0000</pubDate><description><![CDATA[<p>Google Meet で対面会議でもメモが取れるようになりました。その方法は次のとおりです。
 
@@ -6382,145 +6558,4 @@ Swiff には、プレイリスト、ストレージ管理の改善、カスタ�
 ブラウザ ゲームの古き良き時代を懐かしむ人、あるいは単に Android Authority の熱心な読者であれば、すでに Swiff に遭遇している可能性が非常に高いです。 7 月初めにリリースされた Android アプリは、外出先でも何千ものクラシックな Flash ゲームを簡単にプレイできる方法を復活させました。このアプリは現在、単なる Flash ゲーム プレーヤー以上のものとなるメジャー アップデートを受けています。
 
 Swiff バージョン 1.3.0 がリリースされました。これは、アプリのすでに膨大なゲーム ライブラリを強化でき…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/swiff-splash-master-hero-pixel-8-scaled.jpg" alt="Swiff は、昔ながらの Web ゲームのワンストップ ショップになりたいと考えています"></p>]]></description><source url="https://www.androidauthority.com/swiff-update-j2me-scratch-android-3698342/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/swiff-splash-master-hero-pixel-8-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/swiff-splash-master-hero-pixel-8-scaled.jpg"/></item>
-<item><title>TSMC、レチクルサイズ5.5倍のCoWoS-Lで98%の歩留まりを達成、2029年には14倍に</title><link>https://www.techpowerup.com/351584/tsmc-achieves-98-yield-on-cowos-l-with-5-5x-reticle-size-14x-comes-in-2029</link><guid isPermaLink="true">https://www.techpowerup.com/351584/tsmc-achieves-98-yield-on-cowos-l-with-5-5x-reticle-size-14x-comes-in-2029</guid><pubDate>Thu, 13 Aug 2026 15:37:44 +0000</pubDate><description><![CDATA[<p>TSMC、レチクルサイズ5.5倍のCoWoS-Lで98%の歩留まりを達成、2029年には14倍に
-
-TSMC は、ほぼ完璧なパッケージング歩留まりを達成し、現在の CoWoS 高度なパッケージングのベースラインである約 98% を確立したと報告されています。この技術は、レチクル制限の 5.5 倍、つまり約 858 mm² に相当するダイ面積に対応します。その結果、4,720 mm² 相当のシリコンをパッケージングすることになりました。
-
-TSMC、レチクルサイズ5.5倍のCoWoS-Lで98%の歩留まりを達成、2029年には14倍に
-
-2026 年 5 月 25 日 AMD「Zen 7」IP、TSMC A14 ノードとより高度なパッケージングを使用 (87)
-
-2026 年 7 月 30 日 TSMC、Intel と競合する EMIB のようなテクノロジーを開発 (0)
-
-2026 年 6 月 16 日 Intel 14A が試作前に目覚ましいマイルストーンを達成 (5)
-
-2026 年 7 月 3 日 インテル、18A の歩留まり問題を解決、生産量は月あたり 30,000 枚のウェーハに到達 (58)
-
-2026 年 8 月 12 日 CXMT が DDR5 の歩留まり 90% を超え、業界大手に挑戦 (33)
-
-2026 年 8 月 6 日 TSMC は DRAM を待って 10 億ドルの Apple チップに腰を据える (40)
-
-2026年7月30日 TSMCの1.4nmファブセット、2027年4月までに完成予定 (10)
-
-2026 年 7 月 31 日 インテルの EMIB-T がライバルの TSMC の CoWoS にコスト優位性 50%、2027 年に量産 (5)
-
-2026 年 7 月 13 日 TSMC、2026 年 6 月に 137 億 5,000 万ドルの記録的な収益を達成 (9)
-
-2026 年 5 月 11 日 SK hynix が HBM メモリ向け Intel EMIB 2.5D パッケージングに注目 (0)
-
-TSMC、レチクルサイズ5…</p><p><img src="https://www.techpowerup.com/img/Pl7KjfdbTldCAikg.jpg" alt="TSMC、レチクルサイズ5.5倍のCoWoS-Lで98%の歩留まりを達成、2029年には14倍に"></p>]]></description><source url="https://www.techpowerup.com/351584/tsmc-achieves-98-yield-on-cowos-l-with-5-5x-reticle-size-14x-comes-in-2029">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/Pl7KjfdbTldCAikg.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/Pl7KjfdbTldCAikg.jpg"/></item>
-<item><title>この隠れたテレビ音声機能を発見してから、字幕の使用をやめました</title><link>https://www.xda-developers.com/i-stopped-using-subtitles-after-discovering-this-hidden-tv-audio-feature/</link><guid isPermaLink="true">https://www.xda-developers.com/i-stopped-using-subtitles-after-discovering-this-hidden-tv-audio-feature/</guid><pubDate>Thu, 13 Aug 2026 15:30:10 +0000</pubDate><description><![CDATA[<p>この隠れたテレビ音声機能を発見してから、字幕の使用をやめました
-
-スピーチ設定によりテレビが水平になりました
-
-この隠れたテレビ音声機能を発見してから、字幕の使用をやめました
-
-By Patrick O&#39;Rourke 公開 2026 年 8 月 13 日、午前 11 時 30 分 EDT Patrick O&#39;Rourke は、XDA のニュース編集者およびエンターテイメント セグメントのリーダーです。以前は、Pocket-lint の編集長、カナダのテクノロジー出版物 MobileSyrup の編集長を務め、キャリアの初期には Financial Post および Postmedia でテクノロジー編集者として働いていました。彼はトロントに拠点を置いています。過去 15 年間にわたり、彼は何千もの記事を書いてきました。パトリック氏はまた、何十人ものテクノロジー業界の幹部にインタビューし、GDC、E3、Gamescom、WWDC、Apple の基調講演、Samsung Unpacked イベントなどを取材しました。パトリックはトロント・メトロポリタン大学でジャーナリズムの学士号を取得しています。 XDA アカウントにサインインする 私は、その時に見ているテレビ番組に追いつくために、パートナーや息子より少し遅くまで起きていることがよくあります。ほとんどの場合、私はイヤホンかヘッドホンを使用しているので、家では誰も起こさず、できるだけ静かにしていますが、ホームオフィスで仕事をしているときに一日中イヤホンを付けていると、イヤホンを着けたくない場合もあります。
-
-このため、私は主にテレビの音量を最小にして字幕を使用するようになりましたが、これでは、何を観ているかに関係なく、あまり夢中になれるテレビ体験が得られませんでした。また、私は XDA での仕事の一環として読み書きをしているので、通常、夕方にリラックスしているときに字幕を読みたくありません (長い一日を終えるとかなり疲れることがあります)。その後、Hisense TV で Clear Voice という、これまで聞いたことの…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/hisense-house-of-the-dragon.jpg?w=1600&amp;h=900&amp;fit=crop" alt="この隠れたテレビ音声機能を発見してから、字幕の使用をやめました"></p>]]></description><source url="https://www.xda-developers.com/i-stopped-using-subtitles-after-discovering-this-hidden-tv-audio-feature/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/hisense-house-of-the-dragon.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/hisense-house-of-the-dragon.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>このスリムな Lenovo ノートパソコンは、最も便利なハードウェアにアクセスできる状態を維持します</title><link>https://www.xda-developers.com/lenovo-ideapad-slim-3i-15-gen-11-laptop/</link><guid isPermaLink="true">https://www.xda-developers.com/lenovo-ideapad-slim-3i-15-gen-11-laptop/</guid><pubDate>Thu, 13 Aug 2026 15:30:05 +0000</pubDate><description><![CDATA[<p>このスリムな Lenovo ノートパソコンは、最も便利なハードウェアにアクセスできる状態を維持します
-
-この記事は Lenovo によって後援されています
-
-このスリムな Lenovo ノートパソコンは、最も便利なハードウェアにアクセスできる状態を維持します
-
-クレジット: Lenovo By Sponsored 公開日 2026 年 8 月 13 日、午前 11:30 EDT 以下の記事は、当社のパートナーの 1 つによって後援されています。製品の選択と表明された意見はスポンサーによるものであり、XDA 編集スタッフの見解を反映するものではありません。 XDA アカウントにサインインします 夏が終わる前に新しいラップトップを購入していますか? Lenovo の IdeaPad Slim 3i 15 Gen 11 は、あなたにとって完璧な選択肢かもしれません。 Intel の最新の Core 7 プロセッサ、ユーザーがアップグレード可能なパーツ、15.3 インチ 120Hz ディスプレイを備えたこのラップトップは、多額の費用をかけずにすべてを備えています。
-
-Intel の Core 7 350 は、Copilot+ プレミアムなしで AI 高速化を実現
-
-Lenovo IdeaPad Slim 3i 15 Gen 11 CPU Intel Core 7 350 ディスプレイ (サイズ、解像度) 15.3 インチ 1920x1080 RAM 16GB ストレージ 512GB Lenovo IdeaPad Slim 3i 15 Gen 11 は、学校、職場、自宅の間で持ち歩くのに最適なラップトップです。 Intel Core 7 プロセッサーを搭載した Lenovo の最新の IdeaPad は、プレミアムな Copilot+ ブランドを冠することなく AI 処理能力を備えており、あらゆる種類の作業に最適なマシンとなっています。
-
-Copilot+ システムに要求されるプレミアムを支払わずに、AI 機能を備えた何でもできるラップトップが必要な場合は、Lenovo Idea…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/19_ideapad_slim_3i_15_oled_15_feature.png?w=1600&amp;h=900&amp;fit=crop" alt="このスリムな Lenovo ノートパソコンは、最も便利なハードウェアにアクセスできる状態を維持します"></p>]]></description><source url="https://www.xda-developers.com/lenovo-ideapad-slim-3i-15-gen-11-laptop/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/19_ideapad_slim_3i_15_oled_15_feature.png?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/19_ideapad_slim_3i_15_oled_15_feature.png?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>プロッターからのホログラム</title><link>https://hackaday.com/2026/08/13/holograms-from-your-plotter/</link><guid isPermaLink="true">https://hackaday.com/2026/08/13/holograms-from-your-plotter/</guid><pubDate>Thu, 13 Aug 2026 15:30:05 +0000</pubDate><description><![CDATA[<p>プロッターからのホログラム
-
-1980 年代に大量に印刷されたホログラムが雑誌に登場したとき、それらは非常に目新しいものでしたが、その後数年で子供用のステッカーのレベルにまで落ち込んでしまいました。当時、彼らはそうではないと見なされていました…
-
-1980 年代に大量に印刷されたホログラムが雑誌に登場したとき、それらは非常に目新しいものでしたが、その後数年で子供用のステッカーのレベルにまで落ち込んでしまいました。当時、それらは一般の人が作ることができないものとみなされていましたが、実際には、レーザーや光学実験室がなくても作成できるのです。 [Jordan Matelsky] は、ペン プロッターのような簡単なデバイスを使用して、それらをどのように作成できるかを示すためにここに来ました。
-
-薄膜内の一連の細い線による干渉パターンの効果は、油のついた指と携帯電話の画面を使って最も簡単に実証できます。彼はそれを実証し、画像を作成するために光を変えることに関連する理論の一部を私たちに説明します。さまざまな素材でいくつかの間違ったスタートがありましたが、最終的には、CD ケースのポリカーボネートに書き込まれた完成したホログラムをいくつか見せてくれました。本当にペンプロッターでホログラムが作れるようです。これらの画像に興味があれば、私たちは過去にこのテーマをさらに詳しく調べました。一方、プロッターでスクライブされたホログラムの 1 つを以下に示します。</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/plotter-hologram-featured.jpg" alt="プロッターからのホログラム"></p>]]></description><source url="https://hackaday.com/2026/08/13/holograms-from-your-plotter/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/plotter-hologram-featured.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/plotter-hologram-featured.jpg"/></item>
-<item><title>部品コストの高さが安価な携帯電話を台無しにしているという証拠がこれです</title><link>https://www.androidauthority.com/sub-100-android-smartphone-us-sales-3698258/</link><guid isPermaLink="true">https://www.androidauthority.com/sub-100-android-smartphone-us-sales-3698258/</guid><pubDate>Thu, 13 Aug 2026 15:28:55 +0000</pubDate><description><![CDATA[<p>部品コストの高さが安価な携帯電話を台無しにしているという証拠がこれです
-
-米国における 100 ドル未満の携帯電話の売上高は、部品コストの上昇などのさまざまな要因により、2026 年第 2 四半期に 64% 減少しました。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-部品コストの高さが安価な携帯電話を台無しにしているという証拠がここにある
-
-0 • Ryan Haines / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Counterpoint の 2026 年第 2 四半期の米国スマートフォン販売台数は、主にコンポーネントコストの上昇により、前年比 5% 減少したことが明らかになりました。
-
-一方、米国では100ドル以下のスマートフォン部門の売上が前年比64％減少したと伝えられている。
-
-同調査会社は、将来のスマートフォンの平均販売価格が上昇すると予測しており、Pixel 11ではすでにその傾向が始まっており、Appleの次期iPhone 18ラインナップもその傾向を継続すると予想されている。
-
-中東紛争によって引き起こされた世界的なエネルギー価格の高騰は、多くの消費者の購買力に影響を与えています。これは、継続的な RAM 不足に加えて、コンポーネントのコストが上昇し、スマートフォン メーカーがより多くのユニットを確保するために急いでいる状態です。これらの要因の組み合わせにより、メーカーは価格を引き上げるか、工場を完全に閉鎖することになりました。こうした現実の一部は現在、新しい四半期売上報告書に反映されています。
-
-Counterpoint Research の第 2 四半期スマートフォン販売レポートでは、米国での販売が前年比 5% 減少したことが示されています。同様に、Apple、Google、Motorola、Samsung の携帯電話の売上は、2026 年第 2 四半期に前年同期と比較して …</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/02/Motorola-Moto-G-Power-2026-lock-screen.jpg" alt="部品コストの高さが安価な携帯電話を台無しにしているという証拠がこれです"></p>]]></description><source url="https://www.androidauthority.com/sub-100-android-smartphone-us-sales-3698258/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/02/Motorola-Moto-G-Power-2026-lock-screen.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/02/Motorola-Moto-G-Power-2026-lock-screen.jpg"/></item>
-<item><title>YouTube のチャット スタイルの検索実験がモバイル デバイスにも登場します</title><link>https://www.androidauthority.com/ask-youtube-coming-to-mobile-3698297/</link><guid isPermaLink="true">https://www.androidauthority.com/ask-youtube-coming-to-mobile-3698297/</guid><pubDate>Thu, 13 Aug 2026 15:22:41 +0000</pubDate><description><![CDATA[<p>YouTube のチャット スタイルの検索実験がモバイル デバイスにも登場します
-
-Googleは、「Ask YouTube」として知られるYouTubeの実験的検索機能がモバイルアプリにも導入されると発表した。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-YouTube のチャット スタイルの検索実験がモバイル デバイスにも登場します
-
-0 • Joe Maring / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR YouTube は、「Ask YouTube」実験をモバイル デバイスにも拡張しています。
-
-この機能を使用するには、アプリにアクセスし、検索バーの「質問」をタップする必要があります。
-
-13 歳以上のサインイン ユーザーのみが利用できます。
-
-YouTube モバイル アプリでのコンテンツの検索は、さらに会話的なものになりつつあります。 YouTubeは4月に開始した実験をモバイルデバイスにも拡大している。
-
-Googleは、YouTubeモバイルアプリに「Ask YouTube」機能を展開すると発表した。このツールに慣れていない方のために説明しておくと、このツールは 2026 年 4 月 27 日にデスクトップで実験としてデビューしました。この実験では、検索バーに「YouTube に聞く」ボタンが追加され、これをクリックすると会話型検索エクスペリエンスが表示され、トピックをさらに深く掘り下げることができます。これは、Gemini アプリで Google の AI に質問するのと同じように機能します。
-
-この拡張により、モバイル アプリの検索バーに「質問」ボタンが表示されるようになります。ボタンをタップすると、デスクトップ版と同じように、会話形式で質問できます。たとえば、「サンフランシスコからサンタバーバラまでの 3 日間のドライブ旅行を計画してください」と尋ねると、単なるビデオのリス…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/03/youtube-logo-google-pixel-10a-1-scaled.jpg" alt="YouTube のチャット スタイルの検索実験がモバイル デバイスにも登場します"></p>]]></description><source url="https://www.androidauthority.com/ask-youtube-coming-to-mobile-3698297/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/03/youtube-logo-google-pixel-10a-1-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/03/youtube-logo-google-pixel-10a-1-scaled.jpg"/></item>
-<item><title>ファンは次のエルダースクロールズゲームの本当のタイトルを考え出したと考えている</title><link>https://www.kitguru.net/gaming/matthew-wilson/fans-think-they-have-worked-out-the-true-title-for-the-next-elder-scrolls-game/</link><guid isPermaLink="true">https://www.kitguru.net/gaming/matthew-wilson/fans-think-they-have-worked-out-the-true-title-for-the-next-elder-scrolls-game/</guid><pubDate>Thu, 13 Aug 2026 15:21:19 +0000</pubDate><description><![CDATA[<p>ファンは次のエルダースクロールズゲームの本当のタイトルを考え出したと考えている
-
-Bethesda と Xbox の CEO、Asha Sharma は、次期エルダースクロールズゲームのタイトルを予告し始めました。今週ファンに与えられた手がかりはただ 1 つ、それはゲームのサブタイトルの文字数です。それだけの情報だけで、ファンは『TheElderScrollsVI』の本当のタイトルが何であるかをすぐに推測したようです。
-
-ファンは次のエルダースクロールズゲームの本当のタイトルを考え出したと考えている
-
-Matthew Wilson 3 時間前 注目のテクノロジー ニュース , ソフトウェア &amp; ゲーム
-
-Bethesda と Xbox の CEO、Asha Sharma は、次期エルダースクロールズゲームのタイトルを予告し始めました。今週ファンに与えられた手がかりはただ 1 つ、それはゲームのサブタイトルの文字数です。それだけの情報だけで、ファンは『TheElderScrollsVI』の本当のタイトルが何であるかをすぐに推測したようです。各エルダー スクロール ゲームは、モロウウィンドからシロディール、スカイリムに至るまで、タムリエルのさまざまな地域に焦点を当てています。今回のタイトルは、ハンマーフェル地域にちなんだ名前である「The Elder Scrolls VI: Sentinel」になるだろうとファンは考えている。 Redditのファンが発見したように、2023年のスターフィールド・ダイレクト中に示された従業員番号は「Sentinel」と綴られた暗号化された参照であるようで、ベセスダが何年も前にタイトルをからかった可能性があることを示唆しています。この理論は、エルダースクロールズ VI がハイロックと交差するハンマーフェルで行われるという長年の予想と一致しています。ハンマーフェルは、2018 年にオリジナルのエルダースクロールズ VI のティーザーで示されたと多くの人が信じている地域です。元ベセスダの開発者もファンの投稿にコメントし、確かにセンチネルは次のエルダ…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2018/06/elder-scrolls-vi-732x330.png" alt="ファンは次のエルダースクロールズゲームの本当のタイトルを考え出したと考えている"></p>]]></description><source url="https://www.kitguru.net/gaming/matthew-wilson/fans-think-they-have-worked-out-the-true-title-for-the-next-elder-scrolls-game/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2018/06/elder-scrolls-vi-732x330.png" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2018/06/elder-scrolls-vi-732x330.png"/></item>
-<item><title>売れ行き好調: ライトニング ディールで Eufy Omni C20 ロボット掃除機とモップが 38% オフ</title><link>https://www.androidauthority.com/eufy-omni-c20-robot-vacuum-deal-3698346/</link><guid isPermaLink="true">https://www.androidauthority.com/eufy-omni-c20-robot-vacuum-deal-3698346/</guid><pubDate>Thu, 13 Aug 2026 15:18:06 +0000</pubDate><description><![CDATA[<p>売れ行き好調: ライトニング ディールで Eufy Omni C20 ロボット掃除機とモップが 38% オフ
-
-Amazon は Eufy Omni C20 をさらに数時間延長して 340 ドルに値下げします。 7,000Pa の吸引力、回転モップ、汚れ作業を処理するドックが付属しています。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-売れ行き好調: ライトニング ディールで Eufy Omni C20 ロボット掃除機とモップが 38% オフ
-
-0 • Matt Horne / Android Authority Google Discover でフォローしてください 優先ソースとして追加 Amazon は Eufy Omni C20 ロボット掃除機とモップのコンボを、希望小売価格 549.99 ドルから 339.99 ドルに値下げしました。これにより、推奨小売価格から 38% 割引の 210 ドルが節約できます。また、これは 9 時間以内に終了する Amazon ライトニング ディールなので、今すぐ検討する価値があります。
-
-この価格は今年最高の取引であり、過去最低価格に匹敵します。ハンズオフドックを備えたロボット掃除機を購入しようとしている人にとって、今が絶好の購入時期となります。 Eufy Omni C20 は、より高価なモデルにステップアップすることなく、さらなる自動化を望む予算から中価格帯の購入者を対象としています。
-
-ここの最大の魅力はオールインワンステーションです。排水、モップ洗浄、モップ乾燥、水の補充を自動で行うため、日常のメンテナンスを自分で行う必要がありません。このロボットには、7,000Pa の吸引力、デュアル回転モップパッド、約 6N の下向きモップ圧、硬い床の 180 RPM のスクラブ力も備わっています。もう 1 つの際立った特徴は、高さ約 3.35 インチのスリムなデザインで、大型のロボット掃除機では苦労する可能性がある低い家具の下にも入りやすくなっています。
-…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/Eufy-Omni-C20-Robot-Vacuum-and-Mop-Combo-Press-Image.jpg" alt="売れ行き好調: ライトニング ディールで Eufy Omni C20 ロボット掃除機とモップが 38% オフ"></p>]]></description><source url="https://www.androidauthority.com/eufy-omni-c20-robot-vacuum-deal-3698346/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/Eufy-Omni-C20-Robot-Vacuum-and-Mop-Combo-Press-Image.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/Eufy-Omni-C20-Robot-Vacuum-and-Mop-Combo-Press-Image.jpg"/></item>
-<item><title>ソニーは、3.5mmヘッドフォンジャックは依然として人気があり、携帯電話の販売がそれを裏付けていると述べています</title><link>https://www.androidauthority.com/sony-xperia-1-viii-headphone-jack-microsd-card-3698265/</link><guid isPermaLink="true">https://www.androidauthority.com/sony-xperia-1-viii-headphone-jack-microsd-card-3698265/</guid><pubDate>Thu, 13 Aug 2026 15:07:43 +0000</pubDate><description><![CDATA[<p>ソニーは、3.5mmヘッドフォンジャックは依然として人気があり、携帯電話の販売がそれを裏付けていると述べています
-
-ソニーは、Xperia 1 VIIIに対する強い需要があると主張し、3.5mmヘッドフォンジャックとmicroSDカードが購入者の心を掴んだと評価している。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-ソニーは、3.5mmヘッドフォンジャックは依然として人気があり、携帯電話の販売がそれを裏付けていると述べています
-
-0 • Sony Google Discover でフォローしてください 優先情報源として追加してください TL;DR ソニーは、最近発売された主力製品 Xperia 1 は、母国である日本での価格高騰にも関わらず、強い需要を記録していると述べています。
-
-同社は、この携帯電話の成功の要因を、改良されたカメラと、3.5mm ヘッドフォン ジャックや microSD カード スロットなどの独特の機能にあると考えています。
-
-これらの際立った機能に加えて、ソニーはXperia 1 VIIIの改良されたカメラのおかげで販売数が好調であると考えています。
-
-ほとんどのスマートフォンには 3.5 mm ヘッドフォン ジャックや microSD カード スロットなどの機能が廃止されて久しく、その伝統を引き継いでいるスマートフォンはほんの一握りです。そのうちの 1 つは新しい Sony Xperia 1 VIII で、5 月に発売され、日本、ヨーロッパ、英国全土で購入可能です。ソニーは、業界がこれらの機能をほとんど忘れているにもかかわらず、ヘッドフォンジャックとmicroSDカードは依然として主力デバイスに「不可欠」であると信じています。
-
-日本の出版物 IT Media (GSMArena 経由) は最近、日本での Xperia 1 VIII の販売についてソニーの担当者 2 名と話をしました。本国では20万円を超える価格高騰にもかかわらず、「販売は好調を維持しており、顧客満足…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/05/SONY-XPERIA-1-viii-cropped-headphones.jpg" alt="ソニーは、3.5mmヘッドフォンジャックは依然として人気があり、携帯電話の販売がそれを裏付けていると述べています"></p>]]></description><source url="https://www.androidauthority.com/sony-xperia-1-viii-headphone-jack-microsd-card-3698265/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/05/SONY-XPERIA-1-viii-cropped-headphones.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/05/SONY-XPERIA-1-viii-cropped-headphones.jpg"/></item>
-<item><title>エンブレイサー、新作キングダムカムゲームとダークサイダーズ4を発表</title><link>https://www.kitguru.net/gaming/matthew-wilson/embracer-confirms-new-kingdom-come-game-and-darksiders-4/</link><guid isPermaLink="true">https://www.kitguru.net/gaming/matthew-wilson/embracer-confirms-new-kingdom-come-game-and-darksiders-4/</guid><pubDate>Thu, 13 Aug 2026 15:00:33 +0000</pubDate><description><![CDATA[<p>エンブレイサー、新作キングダムカムゲームとダークサイダーズ4を発表
-
-次の「Kingdom Come」ゲームは予想よりも早く登場するようです。 Embracer は最新の収益報告の中でリリース時期を確認し、同時に Darksiders がついに待望の復活を遂げ、同時期に Darksiders 4 が予定されていることも明らかにしました。エンブレイサーは中間報告書の中で、「2027/28年度には、
-
-エンブレイサー、新作キングダムカムゲームとダークサイダーズ4を発表
-
-Matthew Wilson 2 時間前 注目のテクノロジー ニュース , ソフトウェア &amp; ゲーム
-
-次の「Kingdom Come」ゲームは予想よりも早く登場するようです。 Embracer は最新の収益報告の中でリリース時期を確認し、同時に Darksiders がついに待望の復活を遂げ、同時期に Darksiders 4 が予定されていることも明らかにしました。中間報告書 の中で、エンブレイサーは「2027/28会計年度には、Warhorse StudiosからKingdom Comeフランチャイズの次のゲームがリリースされる予定である」と述べている。これは、特にウォーホースが今年初めに新しいキングダムカムプロジェクトの計画を発表したばかりであるため、これは多くの予想よりも著しく早いです。 Embracer はまた、Darksiders 4 が Gunfire Games で開発中であることを認め、2018 年以来のシリーズ初のメインライン参入となる。同じリリース期間には、Crystal Dynamics、Flying Wild Hog、Eidos Montréal で開発中の Tomb Raider: Catalyst も含まれている。 Warhorse Studios は最近忙しいです。スタジオは新しいキングダムカムタイトルの開発を確認するとともに、LOTR ゲームの計画も明らかにしました。今年の初めにファンは、マルチプレイヤーに焦点を当てたプロジェクトであると思われる Kingdom Come…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2018/03/2_kingdom-come-deliverance-1-732x330.jpg" alt="エンブレイサー、新作キングダムカムゲームとダークサイダーズ4を発表"></p>]]></description><source url="https://www.kitguru.net/gaming/matthew-wilson/embracer-confirms-new-kingdom-come-game-and-darksiders-4/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2018/03/2_kingdom-come-deliverance-1-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2018/03/2_kingdom-come-deliverance-1-732x330.jpg"/></item>
 </channel></rss>
