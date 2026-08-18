@@ -1,6 +1,15 @@
 {
   "akiba": [
     {
+      "Title": "Microsoft Defenderのスキャンが正常に完了しない不具合。『脅威のサービスが停止しました』などのエラー",
+      "Link": "https://www.nichepcgamer.com/archives/post-131711.html",
+      "Published": "2026-08-18T17:27:06Z",
+      "Source": "ニッチなPCゲーマーの環境構築Z",
+      "Category": "Windows11",
+      "Summary": "Microsoft Defenderのスキャンが正常に完了しない不具合。『脅威のサービスが停止しました』などのエラー\n\nMicrosoft Defenderで正常にスキャンができない不具合が発生しています。 不具合概要 Microsoft Defenderでクイックスキャンやフルスキャンを行うと、スキャンの途中で「脅...\n\nMicrosoft Defenderで正常にスキャンができない不具合が発生しています。\n\nMicrosoft Defenderでクイックスキャンやフルスキャンを行うと、スキャンの途中で「脅威のサービスが停止しました。今すぐ再起動してください。」や「不明なエラー。問題が起こりました。もう一度やり直してください。」といったエラーが表示される不具合が発生しています。\n\nこのほか、オフラインスキャンも90％台あたりで停止してしまい完了しないとも報告されています。その一方でカスタムスキャンは完了します。\n\nこの不具合は、以下のセキュリティインテリジェンスのバージョン(ウイルス対策のバージョン)で発生が報告されています。\n\nただ、これらのセキュリティインテリジェンスのバージョンが本不具合に関係しているかは不明です。\n\n筆者環境で確認したところ、実機のWindows11 PCで本不具合が発生しました。その一方で仮想PCのWindows11では発生しませんでした。また、Windows10 PCは実機および仮想PCともに発生しませんでした。\n\n現時点でこの不具合の具体的な発生条件や対処方法・回避策は判明していません。\n\n筆者は自作PC歴20年以上の経験を持ち、Windows OSの細部にわたるカスタマイズや高度な設定、PCゲームの最適化、PCハードウェアとソフトウェアに関する専門知識をもとに、PC環境を快適にするための情報、不具合に遭わないようにするための情報、そして、ちょっとニッチよりなPCユーザー向け記事の執筆を2015年4月から11年にわたって行っています。\n\n長年の経験により得たノウハウを活かし、初心者から上級者まで幅広く対応できる情報を提供し、読者様のPC…",
+      "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2025/01/windows11-issue-aaa.jpg"
+    },
+    {
       "Title": "NoctuaからRGBファンなど見た目が派手な製品が出ない理由",
       "Link": "https://www.nichepcgamer.com/archives/post-131705.html",
       "Published": "2026-08-18T16:09:41Z",
@@ -1594,15 +1603,6 @@
       "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2132/866/a1.jpg"
     },
     {
-      "Title": "【今すぐ読みたい！人気記事】Windows 10サポート終了で余るノートPCを「ChromeOS Flex」で蘇らせよう - PC Watch",
-      "Link": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2132978.html",
-      "Published": "2026-08-16T21:21:00Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "【今すぐ読みたい！人気記事】Windows 10サポート終了で余るノートPCを「ChromeOS Flex」で蘇らせよう - PC Watch\n\nPC Watchの読者であれば、ちょっと古いPCが押し入れやデスクの片隅で眠っているという方も多いのではないだろうか。たとえば、筆者の場合、Lenovo ThinkPad E495などがその代表例である。このようなモデルはWindows 11にギリギリ対応している世代ではあるものの、動作が重く感じられたり、用途が見出せずに放置されたりしがちである。\n\nWindows 10サポート終了で余るノートPCを「ChromeOS Flex」で蘇らせよう\n\nPC Watchの読者であれば、ちょっと古いPCが押し入れやデスクの片隅で眠っているという方も多いのではないだろうか。たとえば、筆者の場合、Lenovo ThinkPad E495などがその代表例である。このようなモデルはWindows 11にギリギリ対応している世代ではあるものの、動作が重く感じられたり、用途が見出せずに放置されたりしがちである。\n\nGoogleが提供する「ChromeOS Flex」を導入すれば軽快かつセキュアなクラウドベースのPCとして生まれ変わることができる。ChromeOS Flexは、旧世代のハードウェアでも快適に動作するように設計された軽量なオペレーティングシステムであり、Windowsに比べて動作が軽く、Web中心の作業に最適だ。よく考えたらPCでの作業はすべてブラウザしか使っていなかった……なんて読者には特におすすめできる選択肢と言えるだろう。",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/978/1.jpg"
-    },
-    {
       "Title": "メモリ価格高騰の鍵を握る中国CXMTとは？DDR5全振りの国策DRAM企業",
       "Link": "https://pc.watch.impress.co.jp/docs/topic/feature/2132976.html",
       "Published": "2026-08-16T21:21:00Z",
@@ -1610,6 +1610,15 @@
       "Category": "",
       "Summary": "メモリ価格高騰の鍵を握る中国CXMTとは？DDR5全振りの国策DRAM企業\n\n最近、中国のメモリメーカーであるCXMT(ChangXin Memory Technologies)が話題になることが多い。今年のCOMPUTEXにおいては複数のDIMMモジュールベンダーがCXMTのDDR5を搭載した製品を展示しており、その後もAppleの急接近や7月27日のIPO(新規公開株)など話題は多い。\n\nメモリ価格高騰の鍵を握る中国CXMTとは？DDR5全振りの国策DRAM企業\n\n最近、中国のメモリメーカーである CXMT(ChangXin Memory Technologies) が話題になることが多い。今年のCOMPUTEXにおいては複数のDIMMモジュールベンダーがCXMTのDDR5を搭載した製品を展示しており、その後もAppleの急接近や7月27日のIPO(新規公開株)など話題は多い。\n\nそしてPC向けでいえば、MSIが7月付けで同社製品にCXMT製DDR5への対応を追加したことを 発表 しているなど、いろいろ話題には事欠かない。そこで、そもそもCXMTとはどんな企業で、どういう戦略の元にどんな製品を展開しているのか、話をまとめて紹介していこう\n\n破綻したQimondaの特許と技術者を取り込んで得たDRAM技術\n\n歩留まりを改善し、DDR5大量出荷に向けて整いつつある生産体制\n\n秋葉原にCXMT搭載DIMMが並ぶ日は来るのか、生産量から考える\n\nCXMTは、中国語では长鑫存储という名称であるが、同社はいってみれば中国の国策企業として成立した側面が非常に強い。話は2015年に遡るが、当時の李克強国務院総理がMIC2025(Made In China 2025: 中国制造2025)という産業政策を打ち出したことが始まりである。\n\nこれは2025年までに中国の工業の製造能力を高め、労…",
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/976/01a.jpg"
+    },
+    {
+      "Title": "【今すぐ読みたい！人気記事】Windows 10サポート終了で余るノートPCを「ChromeOS Flex」で蘇らせよう - PC Watch",
+      "Link": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2132978.html",
+      "Published": "2026-08-16T21:21:00Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "【今すぐ読みたい！人気記事】Windows 10サポート終了で余るノートPCを「ChromeOS Flex」で蘇らせよう - PC Watch\n\nPC Watchの読者であれば、ちょっと古いPCが押し入れやデスクの片隅で眠っているという方も多いのではないだろうか。たとえば、筆者の場合、Lenovo ThinkPad E495などがその代表例である。このようなモデルはWindows 11にギリギリ対応している世代ではあるものの、動作が重く感じられたり、用途が見出せずに放置されたりしがちである。\n\nWindows 10サポート終了で余るノートPCを「ChromeOS Flex」で蘇らせよう\n\nPC Watchの読者であれば、ちょっと古いPCが押し入れやデスクの片隅で眠っているという方も多いのではないだろうか。たとえば、筆者の場合、Lenovo ThinkPad E495などがその代表例である。このようなモデルはWindows 11にギリギリ対応している世代ではあるものの、動作が重く感じられたり、用途が見出せずに放置されたりしがちである。\n\nGoogleが提供する「ChromeOS Flex」を導入すれば軽快かつセキュアなクラウドベースのPCとして生まれ変わることができる。ChromeOS Flexは、旧世代のハードウェアでも快適に動作するように設計された軽量なオペレーティングシステムであり、Windowsに比べて動作が軽く、Web中心の作業に最適だ。よく考えたらPCでの作業はすべてブラウザしか使っていなかった……なんて読者には特におすすめできる選択肢と言えるだろう。",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/978/1.jpg"
     },
     {
       "Title": "【やじうまミニレビュー】Macは画面複製に注意！Ankerの“着脱ハブ付き”ドックは家の中でこそ真価を発揮する",
@@ -2863,15 +2872,6 @@
       "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2132/630/a1.jpg"
     },
     {
-      "Title": "(今週のコレオシ) OSアップ7年保証が強い！ペン付きハイエンドの「Galaxy S24 Ultra」がセールでお買い得",
-      "Link": "https://www.gdm.or.jp/crew/2026/0814/647698",
-      "Published": "2026-08-13T23:00:19Z",
-      "Source": "エルミタージュ秋葉原",
-      "Category": "",
-      "Summary": "(今週のコレオシ) OSアップ7年保証が強い！ペン付きハイエンドの「Galaxy S24 Ultra」がセールでお買い得\n\nただいまイオシスでは、創業30周年を記念したビッグセールが始まったばかり。目玉品がけっこう揃ったお買い得なセールなんですが、その中から個人的にオススメしたいのが「Galaxy S24 Ultra」です。\n\n(今週のコレオシ) OSアップ7年保証が強い！ペン付きハイエンドの「Galaxy S24 Ultra」がセールでお買い得\n\nただいまイオシスでは、創業30周年を記念したビッグセールが始まったばかり。目玉品がけっこう揃ったお買い得なセールなんですが、その中から個人的にオススメしたいのが 「Galaxy S24 Ultra」 です。2世代前のモデルとは言え、ペン入力できる最上位が10万円切り！しかもキズが少なくキレイめなBランク品ですから、状態を気にする方にもピッタリでしょう。\n\nこの「Galaxy S24 Ultra」もそうですが、いまGalaxyの旧機種がすごく売れているんです。その大きな理由が、ズバリ7年間のOSアップデート保証。発売から7年後の2031年までのアップデートが保証されているので、Android 21（予定）まで使えるわけです。普通のスマホならその半分がせいぜい、ここまで手厚いのは本家のPixelを除けばGalaxyだけですよ。\n\nもちろんスペックもツヨツヨで、120Hz可変の3K有機ELやSnapdragon 8 Gen 3、メモリ12GBを搭載。長期のOSアップデート期間もバッチリ乗り切れる性能をもっています。さらに2億画素を含めたAI対応の4眼カメラは、下手な最新機種以上の優秀さ。使っていて型落ち感はほとんど感じないと思います。\n\nそんな高性能機が、期間限定とは言え10万円切りの99,800円ですよ。それほど大きく性能が変わらない「Galaxy S25 Ultra」の中古Bランク品と比べても5万円安い価格ですから、コスパの良さは抜群。ハイスペックなスマホを長く使いたいという人には、手放しにオススメなモデルですね。\n\nなお、セ…",
-      "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/08/10/260814kore_01.jpg"
-    },
-    {
       "Title": "RazerRazer初のアルチザンキーキャップ「Triple-Headed Snake Edition」登場",
       "Link": "https://www.gdm.or.jp/pressrelease/2026/0814/648081",
       "Published": "2026-08-13T23:00:19Z",
@@ -2879,6 +2879,15 @@
       "Category": "",
       "Summary": "RazerRazer初のアルチザンキーキャップ「Triple-Headed Snake Edition」登場\n\nRazer初のアルチザンキーキャップ「Razer Artisan Keycap – Triple-Headed Snake Edition」が登場。トリプルヘッドスネークを立体造形し、塗装や組み立てなどを手作業で仕上げた数量限定モデル。国内価格は15,980円。\n\nRazer初のアルチザンキーキャップ「Triple-Headed Snake Edition」登場\n\nRazer初、トリプルヘッドスネークを立体化したアルチザンキーキャップ\n\nRazer（本社：アメリカ カリフォルニア州）は2026年8月13日（現地時間）、同社初となるアルチザンキーキャップ 「Razer Artisan Keycap – Triple-Headed Snake Edition」 を発表した。Razer.comおよびRazerStore限定の数量限定モデルで、国内価格は税込15,980円。\n\nブランドを象徴する「Triple-Headed Snake（トリプルヘッドスネーク）」ロゴを立体的に造形したカスタムキーキャップ。単なるロゴ入りキーキャップではなく、3Dモデリングからレジンキャスト、塗装、組み立て、研磨、ポリッシュまで複数の工程を経て製造。特に塗装と組み立ては熟練した職人による手作業で行われ、製造工程では2段階の品質管理も実施される。\n\n立体的なトリプルヘッドスネークは、見る角度によって異なる表情を楽しめるようデザイン。デスク上やキーボード上でRazerの世界観を強くアピールできるコレクターズアイテムに仕上げられている。\n\nちなみにキーキャップ底面には、一般的なメカニカルキーボードで広く採用されているMX互換のクロスステムを採用。対応する1Uキーと交換して使用でき、Escキーなどへの装着を想定する。\n\nまた、素材にはレジンを採用。キーキャップ自体に透過性はなく、バックライトの光を透過する仕様ではない。外形寸法は約18 × 18 × 18mm、重量は約7g。\n\n文： 編集部 松枝…",
       "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/08/14/Triple-Headed_Snake_Edition_002.jpg"
+    },
+    {
+      "Title": "(今週のコレオシ) OSアップ7年保証が強い！ペン付きハイエンドの「Galaxy S24 Ultra」がセールでお買い得",
+      "Link": "https://www.gdm.or.jp/crew/2026/0814/647698",
+      "Published": "2026-08-13T23:00:19Z",
+      "Source": "エルミタージュ秋葉原",
+      "Category": "",
+      "Summary": "(今週のコレオシ) OSアップ7年保証が強い！ペン付きハイエンドの「Galaxy S24 Ultra」がセールでお買い得\n\nただいまイオシスでは、創業30周年を記念したビッグセールが始まったばかり。目玉品がけっこう揃ったお買い得なセールなんですが、その中から個人的にオススメしたいのが「Galaxy S24 Ultra」です。\n\n(今週のコレオシ) OSアップ7年保証が強い！ペン付きハイエンドの「Galaxy S24 Ultra」がセールでお買い得\n\nただいまイオシスでは、創業30周年を記念したビッグセールが始まったばかり。目玉品がけっこう揃ったお買い得なセールなんですが、その中から個人的にオススメしたいのが 「Galaxy S24 Ultra」 です。2世代前のモデルとは言え、ペン入力できる最上位が10万円切り！しかもキズが少なくキレイめなBランク品ですから、状態を気にする方にもピッタリでしょう。\n\nこの「Galaxy S24 Ultra」もそうですが、いまGalaxyの旧機種がすごく売れているんです。その大きな理由が、ズバリ7年間のOSアップデート保証。発売から7年後の2031年までのアップデートが保証されているので、Android 21（予定）まで使えるわけです。普通のスマホならその半分がせいぜい、ここまで手厚いのは本家のPixelを除けばGalaxyだけですよ。\n\nもちろんスペックもツヨツヨで、120Hz可変の3K有機ELやSnapdragon 8 Gen 3、メモリ12GBを搭載。長期のOSアップデート期間もバッチリ乗り切れる性能をもっています。さらに2億画素を含めたAI対応の4眼カメラは、下手な最新機種以上の優秀さ。使っていて型落ち感はほとんど感じないと思います。\n\nそんな高性能機が、期間限定とは言え10万円切りの99,800円ですよ。それほど大きく性能が変わらない「Galaxy S25 Ultra」の中古Bランク品と比べても5万円安い価格ですから、コスパの良さは抜群。ハイスペックなスマホを長く使いたいという人には、手放しにオススメなモデルですね。\n\nなお、セ…",
+      "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/08/10/260814kore_01.jpg"
     },
     {
       "Title": "Gemini 3.7 Flash登場。前モデルからわずか3週間、価格は半額",
@@ -2953,15 +2962,6 @@
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/494/tn.jpg"
     },
     {
-      "Title": "1kg切りが当たり前な今なお、圧倒的に軽い「FMV Note U」の変遷を振り返る",
-      "Link": "https://pc.watch.impress.co.jp/docs/topic/feature/2132659.html",
-      "Published": "2026-08-13T21:17:00Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "1kg切りが当たり前な今なお、圧倒的に軽い「FMV Note U」の変遷を振り返る\n\nモバイルノートPCというと、今どき1kgを切る軽量モデルはめずらしくない。そんな中でも、圧倒的な軽さで知られるのが富士通クライアントコンピューティング(FCCL)の「FMV Note U」(旧LIFEBOOK UH)シリーズだ。\n\n1kg切りが当たり前な今なお、圧倒的に軽い「FMV Note U」の変遷を振り返る\n\nモバイルノートPCというと、今どき1kgを切る軽量モデルはめずらしくない。そんな中でも、圧倒的な軽さで知られるのが富士通クライアントコンピューティング(FCCL)の「FMV Note U」(旧LIFEBOOK UH)シリーズだ。\n\n初代は2012年に登場。HDD搭載製品で世界最薄のUltrabookとして投入された。2017年の刷新では777gまで大幅に軽量化し、当時軽さでライバルだったNEC PC「LAVIE Hybrid Zero」を下回る重量で、世界最軽量を更新。その後も2018年には698g、2020年には634gを達成した。現在でも634gのモデルは引き続き用意されており、同社のノートPCを象徴する数字にもなっている。\n\nここでは、世界最軽量を追求しつづける本機の変遷を振り返ってみたい。\n\n【大河原克行の「パソコン業界、東奔西走」】竹ヘラを活用してUltrabookを生産!? ～島根富士通で国内唯一のUltrabook生産ラインをみる\n\n【大河原克行の「パソコン業界、東奔西走」】富士通の世界最薄Ultrabookはこうして生まれた ～LIFEBOOK UH75/H開発者インタビュー\n\n【大河原克行の「パソコン業界、東奔西走」】富士通の世界最薄Ultrabookを実現した筐体工場に潜入! ～「外観の競争力」を作り上げる富士通化成の挑戦\n\n人が乗っても壊れなかった世界最軽量777gの富士通製堅牢13.3型ノート ～代表取締役社長の齋藤邦彰氏がLenovoとの提携にも言及\n\n富士通の技術を結集し、軽さと機能性を両立させた約698gのモバイルノートUH-X\n\n【笠原一輝の…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/659/01.jpg"
-    },
-    {
       "Title": "【今すぐ読みたい！人気記事】GPUドライバを更新したらPCやゲームが不調に？スッキリさせる「DDU」の使い方 - PC Watch",
       "Link": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2132660.html",
       "Published": "2026-08-13T21:17:00Z",
@@ -2971,13 +2971,13 @@
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/660/1.jpg"
     },
     {
-      "Title": "Zoomの注釈機能に脆弱性、リモートコード実行などの恐れ。AI活用で発見に1日かからず",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/2132649.html",
-      "Published": "2026-08-13T21:12:00Z",
+      "Title": "1kg切りが当たり前な今なお、圧倒的に軽い「FMV Note U」の変遷を振り返る",
+      "Link": "https://pc.watch.impress.co.jp/docs/topic/feature/2132659.html",
+      "Published": "2026-08-13T21:17:00Z",
       "Source": "PC Watch",
       "Category": "",
-      "Summary": "Zoomの注釈機能に脆弱性、リモートコード実行などの恐れ。AI活用で発見に1日かからず\n\nWeb会議サービス「Zoom」の注釈機能に存在する脆弱性を、AIがあっという間に見つけ出した。A Securityは8月11日、Zoomのクライアントアプリに存在する脆弱性を報告した。リモートコード実行やサービス拒否攻撃につながる恐れがあるという。なお、ベンダーには6月に開示済みで、すでにパッチの提供も始まっている。\n\nZoomの注釈機能に脆弱性、リモートコード実行などの恐れ。AI活用で発見に1日かからず\n\nWeb会議サービス「Zoom」の注釈機能に存在する脆弱性を、AIがあっという間に見つけ出した。A Securityは8月11日、Zoomのクライアントアプリに存在する脆弱性を報告した。リモートコード実行やサービス拒否攻撃につながる恐れがあるという。なお、ベンダーには6月に開示済みで、すでにパッチの提供も始まっている。\n\n今回報告されたのは、注釈機能に使われるライブラリ「libannotate.so」に存在する脆弱性。Zoomでは、描画やスタンプといった注釈を、その内容を示すメモリ上のオブジェクトにシリアライズして送信し、受信側でデシリアライズする仕組みを採用している。ここで、受信側は送られてきたデータを自動的にパースする仕様となっているという。\n\n攻撃者はこれを悪用し、会議の参加者すべてに対して悪意あるデータを送り込むことで、ゼロクリックでのリモートコード実行やサービス拒否攻撃を行なえるという。\n\n今回発見された脆弱性は、CVE-2026-53413(バッファオーバーライト)、CVE-2026-53414(バッファオーバーリード)、CVE-2026-53415(任意のメモリ書き込み)の3件。影響を受けるのは、バージョン7.0.5以前のWindows/macOS/iOS/Android/Linux版Zoomクライアント、バージョン7.1.5または7.0.6より前のZoom Workplaceクライアント。Zoomでは、いずれの場合も対策が施された最新版へアップデートするよう呼びか…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/649/01.jpg"
+      "Summary": "1kg切りが当たり前な今なお、圧倒的に軽い「FMV Note U」の変遷を振り返る\n\nモバイルノートPCというと、今どき1kgを切る軽量モデルはめずらしくない。そんな中でも、圧倒的な軽さで知られるのが富士通クライアントコンピューティング(FCCL)の「FMV Note U」(旧LIFEBOOK UH)シリーズだ。\n\n1kg切りが当たり前な今なお、圧倒的に軽い「FMV Note U」の変遷を振り返る\n\nモバイルノートPCというと、今どき1kgを切る軽量モデルはめずらしくない。そんな中でも、圧倒的な軽さで知られるのが富士通クライアントコンピューティング(FCCL)の「FMV Note U」(旧LIFEBOOK UH)シリーズだ。\n\n初代は2012年に登場。HDD搭載製品で世界最薄のUltrabookとして投入された。2017年の刷新では777gまで大幅に軽量化し、当時軽さでライバルだったNEC PC「LAVIE Hybrid Zero」を下回る重量で、世界最軽量を更新。その後も2018年には698g、2020年には634gを達成した。現在でも634gのモデルは引き続き用意されており、同社のノートPCを象徴する数字にもなっている。\n\nここでは、世界最軽量を追求しつづける本機の変遷を振り返ってみたい。\n\n【大河原克行の「パソコン業界、東奔西走」】竹ヘラを活用してUltrabookを生産!? ～島根富士通で国内唯一のUltrabook生産ラインをみる\n\n【大河原克行の「パソコン業界、東奔西走」】富士通の世界最薄Ultrabookはこうして生まれた ～LIFEBOOK UH75/H開発者インタビュー\n\n【大河原克行の「パソコン業界、東奔西走」】富士通の世界最薄Ultrabookを実現した筐体工場に潜入! ～「外観の競争力」を作り上げる富士通化成の挑戦\n\n人が乗っても壊れなかった世界最軽量777gの富士通製堅牢13.3型ノート ～代表取締役社長の齋藤邦彰氏がLenovoとの提携にも言及\n\n富士通の技術を結集し、軽さと機能性を両立させた約698gのモバイルノートUH-X\n\n【笠原一輝の…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/659/01.jpg"
     },
     {
       "Title": "【今すぐ読みたい！人気記事】PC-9800シリーズ風の現代PCを作ってみよう！～5インチFDDは動くのかも試してみた - PC Watch",
@@ -2987,6 +2987,15 @@
       "Category": "",
       "Summary": "【今すぐ読みたい！人気記事】PC-9800シリーズ風の現代PCを作ってみよう！～5インチFDDは動くのかも試してみた - PC Watch\n\nSilverStoneが2023年に発表し、2025年2月に発売となった「FLP01」というケースをご存じだろうか。見ての通り、古のNECのPC-9800シリーズ、あるいはPC-8800シリーズ風デザインを彷彿とさせる、横置きデザインのATXケースだ。\n\nPC-9800シリーズ風の現代PCを作ってみよう！～5インチFDDは動くのかも試してみた\n\nSilverStoneが2023年に発表し、2025年2月に発売となった「FLP01」というケースをご存じだろうか。見ての通り、古のNECのPC-9800シリーズ、あるいはPC-8800シリーズ風デザインを彷彿とさせる、横置きデザインのATXケースだ。\n\nこのケースは、5インチベイ部分のカバーが5インチFDドライブ風になっているのが特徴。そして上の段は実際の5インチベイ、下の段はカバーで開き、USBなどの前面インターフェイスになっている。",
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/661/1.jpg"
+    },
+    {
+      "Title": "Zoomの注釈機能に脆弱性、リモートコード実行などの恐れ。AI活用で発見に1日かからず",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2132649.html",
+      "Published": "2026-08-13T21:12:00Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "Zoomの注釈機能に脆弱性、リモートコード実行などの恐れ。AI活用で発見に1日かからず\n\nWeb会議サービス「Zoom」の注釈機能に存在する脆弱性を、AIがあっという間に見つけ出した。A Securityは8月11日、Zoomのクライアントアプリに存在する脆弱性を報告した。リモートコード実行やサービス拒否攻撃につながる恐れがあるという。なお、ベンダーには6月に開示済みで、すでにパッチの提供も始まっている。\n\nZoomの注釈機能に脆弱性、リモートコード実行などの恐れ。AI活用で発見に1日かからず\n\nWeb会議サービス「Zoom」の注釈機能に存在する脆弱性を、AIがあっという間に見つけ出した。A Securityは8月11日、Zoomのクライアントアプリに存在する脆弱性を報告した。リモートコード実行やサービス拒否攻撃につながる恐れがあるという。なお、ベンダーには6月に開示済みで、すでにパッチの提供も始まっている。\n\n今回報告されたのは、注釈機能に使われるライブラリ「libannotate.so」に存在する脆弱性。Zoomでは、描画やスタンプといった注釈を、その内容を示すメモリ上のオブジェクトにシリアライズして送信し、受信側でデシリアライズする仕組みを採用している。ここで、受信側は送られてきたデータを自動的にパースする仕様となっているという。\n\n攻撃者はこれを悪用し、会議の参加者すべてに対して悪意あるデータを送り込むことで、ゼロクリックでのリモートコード実行やサービス拒否攻撃を行なえるという。\n\n今回発見された脆弱性は、CVE-2026-53413(バッファオーバーライト)、CVE-2026-53414(バッファオーバーリード)、CVE-2026-53415(任意のメモリ書き込み)の3件。影響を受けるのは、バージョン7.0.5以前のWindows/macOS/iOS/Android/Linux版Zoomクライアント、バージョン7.1.5または7.0.6より前のZoom Workplaceクライアント。Zoomでは、いずれの場合も対策が施された最新版へアップデートするよう呼びか…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/649/01.jpg"
     },
     {
       "Title": "【やじうまミニレビュー】単に便利なだけじゃない。MoC方式でセキュアな指紋センサー「CR-FI50UBK」",
@@ -3097,15 +3106,6 @@
       "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2026/08/caravan-sandwitch.jpg"
     },
     {
-      "Title": "Core Ultra Series 3搭載の「ASUS NUC 16 Pro」ベアボーンキットが登場、計2モデル",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2132575.html",
-      "Published": "2026-08-13T15:00:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "Core Ultra Series 3搭載の「ASUS NUC 16 Pro」ベアボーンキットが登場、計2モデル\n\nIntel Core Ultra Series 3プロセッサーを搭載したASUSのベアボーンキット「NUC 16 Pro（Kit）」が登場した。\n\nCore Ultra Series 3搭載の「ASUS NUC 16 Pro」ベアボーンキットが登場、計2モデル\n\nIntel Core Ultra Series 3プロセッサーを搭載したASUSのベアボーンキット「NUC 16 Pro（Kit）」が登場した。\n\n今回入荷したのは、Core Ultra 7 356H（16コア/16スレッド）搭載の「RNUC16GDKU760000（90AR00W2-M000P0）」と、Core Ultra 5 325（8コア/8スレッド）搭載の「RNUC16GDKU560000（90AR00W2-M000N0）」の2モデルで、メモリ、ストレージ、OSは別売り。店頭価格は順に153,380円、124,180円。\n\nIntel Core Ultra Series 3搭載のNUC\n\nNUC 16 Pro（Kit）は、Core Ultra Series 3プロセッサーを搭載したベアボーンキット。\n\nNPU内蔵のIntel CPUを採用し、AI駆動型ワークロードに対応したコンパクトで高性能なシステムを求める企業向けの小型PCをうたう。\n\nThunderbolt 4（DisplayPort 2.1対応）×2とHDMI 2.1×2を備え、デジタルサイネージなどへの利用もカバーする。\n\nWi-Fi 7（BE211） + Bluetooth 6.0をサポートするほか、2.5GbE LAN（I226-V）を2ポート搭載する点なども特徴。\n\nメモリスロットはCSODIMM×2（最大64GB×2）で、Core Ultra 7 356H搭載モデルはDDR5-7200、Core Ultra 5 325搭載モデルはDDR5-6400までサポートする。\n\nSSDスロットはPCIe 5.0x4接続M.2 228…",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2132/575/s1_s.jpg"
-    },
-    {
       "Title": "�Υ��󥿥ӥ塼�ϡ�Marvel��s Wolverine�פ������Τϡ�Insomniac�ʤ��ǤϤΥ����������������������㤷����Ʈ�����ƥ��ȡ����Ϥ������ʤ��鼫ʬ���Ȥ������򤯥��ȡ��꡼",
       "Link": "https://www.4gamer.net/games/594/G059409/20260812052/",
       "Published": "2026-08-13T15:00:00Z",
@@ -3113,6 +3113,15 @@
       "Category": "HARDWARE",
       "Summary": "�Υ��󥿥ӥ塼�ϡ�Marvel��s Wolverine�פ������Τϡ�Insomniac�ʤ��ǤϤΥ����������������������㤷����Ʈ�����ƥ��ȡ����Ϥ������ʤ��鼫ʬ���Ȥ������򤯥��ȡ��꡼\n\n「Marvel’s Wolverine」では，不死身のミュータント・ウルヴァリンをどのように描くのか。開発陣4名にインタビューを実施した。\n\n［インタビュー］「Marvel’s Wolverine」が描くのは，Insomniacならではのウルヴァリン。生々しく激しい戦闘システムと，各地を巡りながら自分自身の謎を解くストーリー ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n価格：スタンダードエディション：8980円（税込） デラックスエディション：9980円（税込）\n\n↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 夏は七不思議ならぬ“七不穏”で暑さを忘却の彼方へ――涼しくチルアウトできる終末，陰鬱，ディストピアな7つのゲーム ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ ひと夏の思い出に「桃鉄」100年プレイ。みんなで完走するための準備＆プレイガイド ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ Riot Gamesが明らかにしたアンチチートシステム「Vanguard」の仕組み。Windowsの進化に合わせてチート対策も強力に ↑アイコン/タイト…",
       "ImageURL": "https://www.4gamer.net/games/594/G059409/20260812052/SS/005.jpg"
+    },
+    {
+      "Title": "Core Ultra Series 3搭載の「ASUS NUC 16 Pro」ベアボーンキットが登場、計2モデル",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2132575.html",
+      "Published": "2026-08-13T15:00:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "Core Ultra Series 3搭載の「ASUS NUC 16 Pro」ベアボーンキットが登場、計2モデル\n\nIntel Core Ultra Series 3プロセッサーを搭載したASUSのベアボーンキット「NUC 16 Pro（Kit）」が登場した。\n\nCore Ultra Series 3搭載の「ASUS NUC 16 Pro」ベアボーンキットが登場、計2モデル\n\nIntel Core Ultra Series 3プロセッサーを搭載したASUSのベアボーンキット「NUC 16 Pro（Kit）」が登場した。\n\n今回入荷したのは、Core Ultra 7 356H（16コア/16スレッド）搭載の「RNUC16GDKU760000（90AR00W2-M000P0）」と、Core Ultra 5 325（8コア/8スレッド）搭載の「RNUC16GDKU560000（90AR00W2-M000N0）」の2モデルで、メモリ、ストレージ、OSは別売り。店頭価格は順に153,380円、124,180円。\n\nIntel Core Ultra Series 3搭載のNUC\n\nNUC 16 Pro（Kit）は、Core Ultra Series 3プロセッサーを搭載したベアボーンキット。\n\nNPU内蔵のIntel CPUを採用し、AI駆動型ワークロードに対応したコンパクトで高性能なシステムを求める企業向けの小型PCをうたう。\n\nThunderbolt 4（DisplayPort 2.1対応）×2とHDMI 2.1×2を備え、デジタルサイネージなどへの利用もカバーする。\n\nWi-Fi 7（BE211） + Bluetooth 6.0をサポートするほか、2.5GbE LAN（I226-V）を2ポート搭載する点なども特徴。\n\nメモリスロットはCSODIMM×2（最大64GB×2）で、Core Ultra 7 356H搭載モデルはDDR5-7200、Core Ultra 5 325搭載モデルはDDR5-6400までサポートする。\n\nSSDスロットはPCIe 5.0x4接続M.2 228…",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2132/575/s1_s.jpg"
     },
     {
       "Title": "折りたたみiPhone、米国で先行発売のウワサ",
@@ -3781,13 +3790,13 @@
       "ImageURL": ""
     },
     {
-      "Title": "Google、フラッシュ部が光って通知する6.3型スマホ「Google Pixel 11 Pro」",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/2132347.html",
+      "Title": "最適なタイミングで起こしてくれる「Google Pixel Watch 5」",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2132424.html",
       "Published": "2026-08-12T14:00:00Z",
       "Source": "PC Watch",
       "Category": "",
-      "Summary": "Google、フラッシュ部が光って通知する6.3型スマホ「Google Pixel 11 Pro」\n\nGoogleは8月12日、新型の6.3型スマートフォン「Google Pixel 11 Pro」を発表した。Google Storeでの直販価格は17万4,800円から。8月12日よりオンライン、8月13日より店頭での予約販売を開始し、8月20日に発売する。\n\nGoogle、フラッシュ部が光って通知する6.3型スマホ「Google Pixel 11 Pro」\n\nGoogleは8月12日、新型の6.3型スマートフォン「Google Pixel 11 Pro」を発表した。Google Storeでの直販価格は17万4,800円から。8月12日よりオンライン、8月13日より店頭での予約販売を開始し、8月20日に発売する。\n\nGoogle Pixel 11 Proは、最新の「Google Tensor G6」チップの搭載により高い処理性能と省電力性能を両立したスマートフォン。ディスプレイには、最大3,600cd/平方mを誇るGoogle Pixel史上最も明るい「Super Actuaディスプレイ」を採用し、前世代モデルから2倍以上の耐傷性を実現する新しいコーティングを施している。\n\nさらに、背面のカメラフラッシュ周辺に内蔵されたカラーLEDライトが光ることで、スマートフォンを伏せたままでも重要な情報を一目で確認できる新機能「HiLight」を新たに搭載した。背面カメラの望遠レンズは感度を30%向上させるよう全面的に再設計され、5倍でのポートレート撮影が可能なほか、120倍の超解像ズーム Proにより遠くまで鮮明に捉えられる。\n\n主な仕様として、プロセッサはGoogle Tensor G6およびTitan M3セキュリティコプロセッサ、メモリは12GB(ストレージ256GB)または16GB(ストレージ512GB以上)、ストレージは256GB、512GB、または1TB。\n\nディスプレイは6.3型のSuper Actuaディスプレイを採用し、解像度は1,280×2,856ドット、リ…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/347/1.png"
+      "Summary": "最適なタイミングで起こしてくれる「Google Pixel Watch 5」\n\n最適な睡眠サイクルで優しく起こしてくれる「スマートウェイクアラーム」。Googleの新スマートウォッチ「Google Pixel Watch 5」の新機能だ。Pixel Watch 5は、大きさとLTEの有無で4モデルが用意。価格は41mm/Wi-Fiが6万2,800円、41mm/LTEが7万9,800円、45mm/Wi-Fiが6万7,800円、45mm/LTEが8万4,800円。発売日はいずれも8月20日となる。\n\n最適なタイミングで起こしてくれる「Google Pixel Watch 5」\n\n最適な睡眠サイクルで優しく起こしてくれる「スマートウェイクアラーム」。Googleの新スマートウォッチ「Google Pixel Watch 5」の新機能だ。Pixel Watch 5は、大きさとLTEの有無で4モデルが用意。価格は41mm/Wi-Fiが6万2,800円、41mm/LTEが7万9,800円、45mm/Wi-Fiが6万7,800円、45mm/LTEが8万4,800円。発売日はいずれも8月20日となる。\n\n昨今のPixel Watchシリーズ同様、Pixel Watch 5もフィットネス機能をより充実させている。と同時に、同日発表されたPixel 11シリーズと同様に、ユーザーの意図や行動を判断し、先回りして情報を提示してくれるAI機能が搭載された。\n\nたとえば、空港へ向かう際には自動的にフライト情報を表示したり、電車に乗っている間は「目的地まであと何駅残っているか」を自動表示したりでき、スマホの画面を開く手間が省ける。\n\nまた、タイマー設定や、レストラン予約の詳細確認、Gmailでの返信といった、今までならスマホで行なう複雑なタスクを、ワンタップの簡単なアクションで完結させられるようになった。\n\nさらに、買い物袋や傘を持っていたり、電車の吊り革を掴んでいたりして片手しか使えない状況で、片手のジェスチャーだけで、届いた通知を展開したり、消去(非表示に)したりできる。\n\nフィットネス面に関…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/424/03.jpg"
     },
     {
       "Title": "CPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から",
@@ -3799,22 +3808,22 @@
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/345/1.png"
     },
     {
-      "Title": "最適なタイミングで起こしてくれる「Google Pixel Watch 5」",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/2132424.html",
+      "Title": "Google、フラッシュ部が光って通知する6.3型スマホ「Google Pixel 11 Pro」",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2132347.html",
       "Published": "2026-08-12T14:00:00Z",
       "Source": "PC Watch",
       "Category": "",
-      "Summary": "最適なタイミングで起こしてくれる「Google Pixel Watch 5」\n\n最適な睡眠サイクルで優しく起こしてくれる「スマートウェイクアラーム」。Googleの新スマートウォッチ「Google Pixel Watch 5」の新機能だ。Pixel Watch 5は、大きさとLTEの有無で4モデルが用意。価格は41mm/Wi-Fiが6万2,800円、41mm/LTEが7万9,800円、45mm/Wi-Fiが6万7,800円、45mm/LTEが8万4,800円。発売日はいずれも8月20日となる。\n\n最適なタイミングで起こしてくれる「Google Pixel Watch 5」\n\n最適な睡眠サイクルで優しく起こしてくれる「スマートウェイクアラーム」。Googleの新スマートウォッチ「Google Pixel Watch 5」の新機能だ。Pixel Watch 5は、大きさとLTEの有無で4モデルが用意。価格は41mm/Wi-Fiが6万2,800円、41mm/LTEが7万9,800円、45mm/Wi-Fiが6万7,800円、45mm/LTEが8万4,800円。発売日はいずれも8月20日となる。\n\n昨今のPixel Watchシリーズ同様、Pixel Watch 5もフィットネス機能をより充実させている。と同時に、同日発表されたPixel 11シリーズと同様に、ユーザーの意図や行動を判断し、先回りして情報を提示してくれるAI機能が搭載された。\n\nたとえば、空港へ向かう際には自動的にフライト情報を表示したり、電車に乗っている間は「目的地まであと何駅残っているか」を自動表示したりでき、スマホの画面を開く手間が省ける。\n\nまた、タイマー設定や、レストラン予約の詳細確認、Gmailでの返信といった、今までならスマホで行なう複雑なタスクを、ワンタップの簡単なアクションで完結させられるようになった。\n\nさらに、買い物袋や傘を持っていたり、電車の吊り革を掴んでいたりして片手しか使えない状況で、片手のジェスチャーだけで、届いた通知を展開したり、消去(非表示に)したりできる。\n\nフィットネス面に関…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/424/03.jpg"
+      "Summary": "Google、フラッシュ部が光って通知する6.3型スマホ「Google Pixel 11 Pro」\n\nGoogleは8月12日、新型の6.3型スマートフォン「Google Pixel 11 Pro」を発表した。Google Storeでの直販価格は17万4,800円から。8月12日よりオンライン、8月13日より店頭での予約販売を開始し、8月20日に発売する。\n\nGoogle、フラッシュ部が光って通知する6.3型スマホ「Google Pixel 11 Pro」\n\nGoogleは8月12日、新型の6.3型スマートフォン「Google Pixel 11 Pro」を発表した。Google Storeでの直販価格は17万4,800円から。8月12日よりオンライン、8月13日より店頭での予約販売を開始し、8月20日に発売する。\n\nGoogle Pixel 11 Proは、最新の「Google Tensor G6」チップの搭載により高い処理性能と省電力性能を両立したスマートフォン。ディスプレイには、最大3,600cd/平方mを誇るGoogle Pixel史上最も明るい「Super Actuaディスプレイ」を採用し、前世代モデルから2倍以上の耐傷性を実現する新しいコーティングを施している。\n\nさらに、背面のカメラフラッシュ周辺に内蔵されたカラーLEDライトが光ることで、スマートフォンを伏せたままでも重要な情報を一目で確認できる新機能「HiLight」を新たに搭載した。背面カメラの望遠レンズは感度を30%向上させるよう全面的に再設計され、5倍でのポートレート撮影が可能なほか、120倍の超解像ズーム Proにより遠くまで鮮明に捉えられる。\n\n主な仕様として、プロセッサはGoogle Tensor G6およびTitan M3セキュリティコプロセッサ、メモリは12GB(ストレージ256GB)または16GB(ストレージ512GB以上)、ストレージは256GB、512GB、または1TB。\n\nディスプレイは6.3型のSuper Actuaディスプレイを採用し、解像度は1,280×2,856ドット、リ…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/347/1.png"
     },
     {
-      "Title": "Tensor G6チップ搭載で120倍ズームや通知ライト対応の6.8型スマホ「Google Pixel 11 Pro XL」",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/2131994.html",
+      "Title": "Pixel 11の狙いはスマホへの没頭時間削減。Pixelは“気が利くAIエージェント”に",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2132417.html",
       "Published": "2026-08-12T14:00:00Z",
       "Source": "PC Watch",
       "Category": "",
-      "Summary": "Tensor G6チップ搭載で120倍ズームや通知ライト対応の6.8型スマホ「Google Pixel 11 Pro XL」\n\nGoogleは8月12日、新型の6.8型スマートフォン「Google Pixel 11 Pro XL」を発表した。Google Storeでの直販価格は20万7,800円から。2026年8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日より発売する。\n\nTensor G6チップ搭載で120倍ズームや通知ライト対応の6.8型スマホ「Google Pixel 11 Pro XL」\n\nGoogleは8月12日、新型の6.8型スマートフォン「Google Pixel 11 Pro XL」を発表した。Google Storeでの直販価格は20万7,800円から。2026年8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日より発売する。\n\nGoogle Pixel 11 Pro XLでは最新の「Google Tensor G6」チップを搭載し、オンデバイスAIタスクの処理やWebブラウジングを極めて高速に行なえるという。\n\nまた、大画面の6.8型ディスプレイには、最大3,600cd/平方mの輝度を持つ「Super Actuaディスプレイ」を採用し、強固な耐傷性コーティングと高い耐落下設計を組み合わせている。\n\n加えて、背面のカメラフラッシュ周辺がやさしく光ることで、通知を音を出さずに視覚的に確認できる「HiLight」機能を備える。充電機能が大幅に強化されており、別売りの45W以上のUSB Type-C充電器を用いることで、わずか15分間の有線充電を行なうだけで15時間のバッテリ駆動時間を確保できる。\n\n主な仕様として、プロセッサにはGoogle Tensor G6およびTitan M3セキュリティコプロセッサ、メモリは12GB(ストレージ256GB)または16GB(ストレージ512GB以上)、ストレージは256GB、512GB、または1TBを備える。OSはAndroid 17で、7年間のOS、セキュ…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2131/994/1.png"
+      "Summary": "Pixel 11の狙いはスマホへの没頭時間削減。Pixelは“気が利くAIエージェント”に\n\n「画面への没頭」を避け「現実の時間を奪還する」。Googleの開発者が「Google Pixel 11」で念頭に置いた開発思想だ。字面だけだとまるで時代に逆行するかのようにも見えるが、そうではない。\n\nPixel 11の狙いはスマホへの没頭時間削減。Pixelは“気が利くAIエージェント”に\n\n「画面への没頭」を避け「現実の時間を奪還する」。Googleの開発者が「Google Pixel 11」で念頭に置いた開発思想だ。字面だけだとまるで時代に逆行するかのようにも見えるが、そうではない。\n\nPixel 11は潮流を見据え、AIエージェントスマホへの進化を先取りした。これまでユーザーがやっていた面倒な操作はエージェントが代行する。アプリの壁を越え、先回りしてエージェントが動作することも可能だ。\n\nこういった機能により、ユーザーの最小限の関与で、最大限の価値を提供する。その分、ユーザーは家族と友人との会話など現実の世界での行動に時間をより割けるようになる。これが『「画面への没頭」を避け「現実の時間を奪還する」』の意味するところだ。\n\n従来通り、Googleの独自SoCの世代が上がり「Tensor G6」へと進化した。こちらも過去数世代と共通で、一般的な演算性能やゲーム性能よりもAI性能の向上を重視しており、TPUの性能を50%高めたことで、デバイス上でのAI(Gemini Nano)の処理速度は最大3.5倍に高速化しつつ、エネルギー消費量は最大3.5分の1に抑えたという。\n\nこのほか、Webブラウジング性能も25%、アプリの起動速度も15%高速化されている。\n\n一方、メモリについては、Pixel 11 Pro、Pixel 11Pro XLという上位モデルでも、ストレージ256GBモデ…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/417/01.jpg"
     },
     {
       "Title": "最新Tensor G6搭載でオンデバイスAIもできる折りたたみスマホ「Google Pixel 11 Pro Fold」",
@@ -3826,13 +3835,13 @@
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/349/3.png"
     },
     {
-      "Title": "Pixel 11の狙いはスマホへの没頭時間削減。Pixelは“気が利くAIエージェント”に",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/2132417.html",
+      "Title": "Tensor G6チップ搭載で120倍ズームや通知ライト対応の6.8型スマホ「Google Pixel 11 Pro XL」",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2131994.html",
       "Published": "2026-08-12T14:00:00Z",
       "Source": "PC Watch",
       "Category": "",
-      "Summary": "Pixel 11の狙いはスマホへの没頭時間削減。Pixelは“気が利くAIエージェント”に\n\n「画面への没頭」を避け「現実の時間を奪還する」。Googleの開発者が「Google Pixel 11」で念頭に置いた開発思想だ。字面だけだとまるで時代に逆行するかのようにも見えるが、そうではない。\n\nPixel 11の狙いはスマホへの没頭時間削減。Pixelは“気が利くAIエージェント”に\n\n「画面への没頭」を避け「現実の時間を奪還する」。Googleの開発者が「Google Pixel 11」で念頭に置いた開発思想だ。字面だけだとまるで時代に逆行するかのようにも見えるが、そうではない。\n\nPixel 11は潮流を見据え、AIエージェントスマホへの進化を先取りした。これまでユーザーがやっていた面倒な操作はエージェントが代行する。アプリの壁を越え、先回りしてエージェントが動作することも可能だ。\n\nこういった機能により、ユーザーの最小限の関与で、最大限の価値を提供する。その分、ユーザーは家族と友人との会話など現実の世界での行動に時間をより割けるようになる。これが『「画面への没頭」を避け「現実の時間を奪還する」』の意味するところだ。\n\n従来通り、Googleの独自SoCの世代が上がり「Tensor G6」へと進化した。こちらも過去数世代と共通で、一般的な演算性能やゲーム性能よりもAI性能の向上を重視しており、TPUの性能を50%高めたことで、デバイス上でのAI(Gemini Nano)の処理速度は最大3.5倍に高速化しつつ、エネルギー消費量は最大3.5分の1に抑えたという。\n\nこのほか、Webブラウジング性能も25%、アプリの起動速度も15%高速化されている。\n\n一方、メモリについては、Pixel 11 Pro、Pixel 11Pro XLという上位モデルでも、ストレージ256GBモデ…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/417/01.jpg"
+      "Summary": "Tensor G6チップ搭載で120倍ズームや通知ライト対応の6.8型スマホ「Google Pixel 11 Pro XL」\n\nGoogleは8月12日、新型の6.8型スマートフォン「Google Pixel 11 Pro XL」を発表した。Google Storeでの直販価格は20万7,800円から。2026年8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日より発売する。\n\nTensor G6チップ搭載で120倍ズームや通知ライト対応の6.8型スマホ「Google Pixel 11 Pro XL」\n\nGoogleは8月12日、新型の6.8型スマートフォン「Google Pixel 11 Pro XL」を発表した。Google Storeでの直販価格は20万7,800円から。2026年8月12日よりオンラインで、8月13日より店頭での予約販売を開始し、8月20日より発売する。\n\nGoogle Pixel 11 Pro XLでは最新の「Google Tensor G6」チップを搭載し、オンデバイスAIタスクの処理やWebブラウジングを極めて高速に行なえるという。\n\nまた、大画面の6.8型ディスプレイには、最大3,600cd/平方mの輝度を持つ「Super Actuaディスプレイ」を採用し、強固な耐傷性コーティングと高い耐落下設計を組み合わせている。\n\n加えて、背面のカメラフラッシュ周辺がやさしく光ることで、通知を音を出さずに視覚的に確認できる「HiLight」機能を備える。充電機能が大幅に強化されており、別売りの45W以上のUSB Type-C充電器を用いることで、わずか15分間の有線充電を行なうだけで15時間のバッテリ駆動時間を確保できる。\n\n主な仕様として、プロセッサにはGoogle Tensor G6およびTitan M3セキュリティコプロセッサ、メモリは12GB(ストレージ256GB)または16GB(ストレージ512GB以上)、ストレージは256GB、512GB、または1TBを備える。OSはAndroid 17で、7年間のOS、セキュ…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2131/994/1.png"
     },
     {
       "Title": "“Razor Lake-AX”の初期サポートがHWiNFOに追加される",
@@ -4490,18 +4499,63 @@
       "Category": "比較",
       "Summary": "iPhone18 Pro Maxのバッテリー容量は約12%増加？実画像が投稿\n\niPhone18 Pro Max向けとするバッテリーの実画像が投稿されました。iPhone18 Pro Maxのバッテリー容量についてはこれまで2つの説があり、物理SIMモデルでは現行比で約8.54%増加、もしくは約11.8%増加するとされていました。\n\niPhone18 Pro Maxのバッテリー容量は約12%増加？実画像が投稿\n\niPhone18 Pro Max 向けとする バッテリーの実画像 が投稿されました。iPhone18 Pro Maxの バッテリー容量についてはこれまで2つの説 があり、物理SIMモデルでは現行比で 約8.54% 増加、もしくは 約11.8%増加 するとされていました。\n\n今回の実画像で確認された バッテリー容量は5,391mAhで、約11.8%増加説を裏付け るものです。\n\n投稿された iPhone18 Pro Max向けとするバッテリー の容量は5,391mAh で、中国向けの物理SIMモデルに搭載されるものと説明されています。\n\n中国向け物理SIMモデルのバッテリー容量については、Tataから流出した内部資料が情報元とされる Xへの投稿では5,235mAh と伝えられていました。\n\nこれに対し、 中国強制認証制度（3C：China Compulsory Certification）の 認証情報からは5,391mAh との情報が確認されていました。\n\n今回投稿された実画像にも5,391mAhと記載されていることから、3Cから明らかになった数値の信憑性がさらに高まったと言えそうです。\n\nこれらの数値をiPhone17 Pro Maxのバッテリー容量と比較すると、次のようになります。\n\n5,391mAhが実際に採用された場合、iPhone17 Pro Maxの物理SIMモデルに搭載されている4,823mAhから568mAh増加することになります。\n\n日本で販売されるであろうiPhone18 Pro MaxのeSIMモデル については、3C関連情報から 5,567…",
       "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/08/11/iPhone18-pro-max-battery-AH.jpg"
-    },
-    {
-      "Title": "NPUを無効化したRyzen 7 449とRyzen 5 439",
-      "Link": "https://northwood.blog.fc2.com/blog-entry-13172.html",
-      "Published": "2026-08-11T16:01:34Z",
-      "Source": "北森瓦版",
-      "Category": "",
-      "Summary": "NPUを無効化したRyzen 7 449とRyzen 5 439\n\n北森瓦版 - Northwood Blog (Author : 北森八雲. Since July 10, 2006.)\n\n北森瓦版 - NPUを無効化したRyzen 7 449とRyzen 5 439 ブログ内検索\n\n○CPU アーク (ark) Tsukumo (Intel) Tsukumo (AMD) ソフマップ ○マザーボード アーク (ark) Tsukumo (Intel) Tsukumo (AMD) ソフマップ ○グラフィックカード アーク (ark) Tsukumo (NVIDIA) Tsukumo (AMD) ソフマップ ○メモリ アーク (ark) Tsukumo ソフマップ ○SSD アーク (ark) Tsukumo ソフマップ ○Amazon売れ筋ランキング CPU メモリ グラフィックカード マザーボード SSD 電源\n\nNPUを無効化したRyzen 7 449とRyzen 5 439\n\nNPUを無効化したRyzen 7 449とRyzen 5 439 (2026/08/12)\n\n“Zen 6”は“1% Low”の性能を向上し、ゲーム体験を向上させる (2026/08/03)\n\n“Gorgon Halo”―Ryzen AI Max+ Pro 495がGeekbench 7に姿を現す (2026/08/02)\n\n| 北森瓦版 | Template by おすすめ無料ブログ(blog)比較\n\nNPUを無効化したRyzen 7 449とRyzen 5 439 (08/12)\n\n“Diamond Rapids”―Xeon 7は最大256のP-coreで構成される (08/10)\n\n“Nova Lake”のXe3P 12-coreモデルのPL2は154W、L2も増量される (08/10)\n\n“Diamond Rapids”？ Intelの謎の32-core CPUが出現 (08/06)\n\nLekuoからB650 chipsetを使用したI/O拡張カードがローンチされる (08/04)\n\n…",
-      "ImageURL": ""
     }
   ],
   "world": [
+    {
+      "Title": "これら 3 つのルーター設定を無効にすると、ゲームの ping ジッターが半分に減ります",
+      "Link": "https://www.xda-developers.com/3-router-settings-i-disable-on-day-one-to-eliminate-network-jitter/",
+      "Published": "2026-08-18T17:00:10Z",
+      "Source": "XDA",
+      "Category": "Router",
+      "Summary": "これら 3 つのルーター設定を無効にすると、ゲームの ping ジッターが半分に減ります\n\n帯域幅とジッターは\n\nこれら 3 つのルーター設定を無効にすると、ゲームの ping ジッターが半分に減ります\n\nBy Jasmine Mannan Published Aug 18, 2026, 1:00 PM EDT Jasmine は XDA のソフトウェアおよび PC ハードウェアの著者で、AI チャットボットからゲーム ハードウェアに至るまで、長年の技術レポートの経験があり、ほぼすべてをカバーしています。最新の AMD NPU に関する速報ニュースであれ、ソーシャル メディア プラットフォームでのビデオ チュートリアルの作成であれ、Jasmine は、Razer の CEO、AMD の製品マーケティング ディレクター、Lenovo の副社長へのインタビューなど、さまざまな方法で AI とテクノロジーの世界に貢献してきました。ゲームと PC テクノロジーに情熱を持っている彼女は、数え切れないほどのコンピューター、キーボード、その他の周辺機器を構築し、それらを隅々まで知り尽くしています。 XDA アカウントにサインインする ギガビット ファイバーや高速ケーブルの料金を支払っているにもかかわらず、オンライン ゲームが途切れたり、音声が断続的に途切れたり、ビデオ通話でフレームがドロップしたりすることがあります。これは、ジッターが帯域幅と同じではないためです。帯域幅は生の容量ですが、ジッターはリアルタイム応答性の真の要因です。\n\n安定した 35 ミリ秒の ping はシームレスに感じられますが、接続が 20 ミリ秒から 180 ミリ秒の間で激しくバウンスすると非同期が発生します。既製の消費者向けルーターには、デフォルトで有効になっている積極的なレガシー最適化機能が搭載されており、場合によってはパケット配信に支障をきたす可能性があります。ネットワーク ジッターを排除するのに 400 ゲーミング ルーターは必要ありません。代わりに、最新のアクティブ キュー管理を優先して、特定の 3 …",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/simple-white-router-sitting-alongside-big-chunky-gaming-router-on-a-table.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "2026 年のハッカデイ レトロコンピューティング チャレンジを発表",
+      "Link": "https://hackaday.com/2026/08/18/announcing-the-2026-hackaday-retrocomputing-challenge/",
+      "Published": "2026-08-18T17:00:04Z",
+      "Source": "Hackaday",
+      "Category": "retrocomputing",
+      "Summary": "2026 年のハッカデイ レトロコンピューティング チャレンジを発表\n\nレトロコンピューティングとは何ですか?一部の人にとって、それはノスタルジーです。他の人にとっては、シンプルさが魅力です。さらに他の人にとっては、古いマシンを墓場から救うチャンスです。あなたの…\n\nレトロコンピューティングとは何ですか?一部の人にとって、それはノスタルジーです。他の人にとっては、シンプルさが魅力です。さらに他の人にとっては、古いマシンを墓場から救うチャンスです。動機が何であれ、ここハッカデイで膨大な数のレトロコンピューター プロジェクトを見てきたことは否定できません。もっと見てみたいです!\n\n2026 年のハッカデー レトロコンピューティング チャレンジを発表できることを嬉しく思います。\n\nあなたのレトロコンピューター プロジェクトを公開して、みんなに見てもらうチャンスです。あなたのレトロコンピューター プロジェクトをフィーチャーした Hackaday.io プロジェクトを開いてください。このコンテストのスポンサーである DigiKey のご好意で、お気に入り 3 つを選んで 150 ドルのギフト券を進呈します。 10月27日火曜日までです。それでハッキングをしましょう！\n\nOld Iron : スクラップ置き場から古い C64 を救出しますか? PDP-8 のコア メモリを再ストリングしますか?それとも、さらに難解な古代の装置に取り組んでいますか?古いハードウェア自体を復元または実行している場合、それは「Old Iron」プロジェクトです。\n\nモダン レトロ : 計算能力は豊富ですが、過去のコンピューターのインターフェースが優れていたため、使用するのが楽しくなったり、恐怖になったりしました。この佳作カテゴリは、エミュレーション、類似作品、その他、外見は TRS-80 で中身は現代のエレクトロニクスであるレトロコンピューターすべてを対象としています。\n\nレトロモダン : あなたはクラシックなマシンが大好きですが、Internet Of The Future™ の Hackaday を読…",
+      "ImageURL": "https://hackaday.com/wp-content/uploads/2026/08/RetroComputing_Big_notext.jpg"
+    },
+    {
+      "Title": "リークは、Galaxy S26 FEのハードウェアがすべての人を満足させるわけではない可能性を示唆しています",
+      "Link": "https://www.androidauthority.com/samsung-galaxy-s26-fe-design-specs-features-leak-3699924/",
+      "Published": "2026-08-18T16:58:55Z",
+      "Source": "Android Authority",
+      "Category": "Samsung Galaxy S26 FE",
+      "Summary": "リークは、Galaxy S26 FEのハードウェアがすべての人を満足させるわけではない可能性を示唆しています\n\nSamsung Galaxy S26 FE は、中間層の携帯電話のほぼすべてのハードウェア特性を詳述する大規模なリークに登場しました。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nリークは、Galaxy S26 FEのハードウェアがすべての人を満足させるわけではない可能性を示唆しています\n\n0 • C. Scott Brown / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR サムスンの Galaxy S26 FE が、この携帯電話に関する実質的にすべてを詳述する広範なリークに登場しました。\n\nこのリークでは、6.7インチ120Hzディスプレイ、トリプル背面カメラ、Exynos 2500チップセットなど、スマートフォンのハードウェアの一部も確認されています。\n\n最近のいくつかのスマートフォンの発売と同様に、Galaxy S26 FE も価格が上昇すると予想されます。\n\nサムスンは間もなく Galaxy S26 FE を発表すると予想されていますが、最近の非公式ハンズオンビデオを含む長いリークのオンパレードでは、すでに想像力をほとんど残していません。広範なデジタル資料のリークのおかげで、私たちは現在、Galaxy S26 FEの完全なスペックシートとその機能の一部を知ることができます。\n\nAndroid Headlines が入手して公開した 20 枚以上の画像は、スマートフォンのハードウェアとその機能の詳細な画像を提供します。まず最初に、Galaxy S26 FEの発売日の3色のビジュアルを入手しました。ブルーベリー、ピスタチオ、グラファイトと名付けられていると伝えられています。スマートフォンのカラーバリエーションはすでにわかっていましたが、正式名称がリークされたのはこれが初めてです。\n\n一…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2025/09/Samsung-Galaxy-S25-FE-in-all-four-colors-fanned-out-in-mans-hand.jpg"
+    },
+    {
+      "Title": "Amazon、Garmin Instinct 3 を 150 ドル値下げ",
+      "Link": "https://www.androidauthority.com/garmin-instinct-3-amazon-deal-3700002/",
+      "Published": "2026-08-18T16:52:20Z",
+      "Source": "Android Authority",
+      "Category": "Smartwatches",
+      "Summary": "Amazon、Garmin Instinct 3 を 150 ドル値下げ\n\n機能満載の Garmin Instinct 3 は、Amazon で 30% オフの 349.99 ドルに値下げされ、プライムデーの過去最低価格に匹敵します。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nAmazon、Garmin Instinct 3 を 150 ドル値下げ\n\n0 • Ryan Haines / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください Garmin Instinct 3 は現在 Amazon で $349.99 に値下げされており、希望小売価格 $499.99 から $150 値下げされています。これは希望小売価格から 30% オフであり、この頑丈な Garmin は過去最低価格に戻り、6 月のプライムデー価格に匹敵します。\n\nGarmin の Instinct 3 シリーズは、屋外での使用、トレーニング、GPS アドベンチャー、日常の健康状態の追跡向けに作られています。タフな Instinct デザインを継承し、45mm と 50mm の両方のサイズをご用意しています。この世代の大きなアップデートの 1 つは、Garmin が AMOLED バージョンとソーラー バージョンの両方を提供するようになったことで、購入者はよりシャープでモダンな外観のディスプレイか、はるかに長いバッテリー寿命のどちらかを選択できるようになりました。\n\nこのラインナップには、内蔵懐中電灯と非接触型決済のサポートも追加されており、日常着やアウトドア旅行に便利なアップグレードです。 Garmin は、Instinct 3 を、プレミアム マッピング ウォッチにステップアップすることなく、ハイキングやフィットネス用の耐久性のあるスマートウォッチを求める人にとって強力な選択肢であると位置づけています。\n\nInstinct 3 の主な選択は、画面の…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2025/01/Garmin-Instinct-3-AMOLED-choose-activities.jpg"
+    },
+    {
+      "Title": "パラマウント プラスは、限られた無料アクセスでユーザーを誘い込みたいと考えています",
+      "Link": "https://www.androidauthority.com/paramount-plus-free-streaming-3699917/",
+      "Published": "2026-08-18T16:50:59Z",
+      "Source": "Android Authority",
+      "Category": "Paramount Plus",
+      "Summary": "パラマウント プラスは、限られた無料アクセスでユーザーを誘い込みたいと考えています\n\nParamount Plus ストリーミング プログラムの一部のエピソードは、プラットフォームの有料サブスクリプションなしでも視聴できる場合があります。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nパラマウント プラスは、限られた無料アクセスでユーザーを誘い込みたいと考えています\n\n0 • Adam Birney / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Paramount Plus にはすでに広告サポート枠がありますが、月額 9 ドルかかります。\n\n伝えられるところによると、このサービスは現在、Android スマートフォンおよびタブレットでの限定的な無料アクセスのテストを開始しています。\n\n今のところ、パラマウントはこの無料ストリーミング方法を推進していないようだ。\n\nあらゆるストリーミング プラットフォームは、私たちにいくつかの決定を下すよう求めます。「このコンテンツは私たちが興味のあるものですか?」お金を払う価値はありますか?もしそうなら、いくらですか?ストリーミング料金はほぼどこでも上昇しており、プラットフォームは常に値下げと新しいコンテンツの追加を繰り返しているため、私たちの多くはそのバランスを何度も再評価していることに気づきます。今日、私たちは、パラマウント プラスが広告付きの無料アクセスというアイデアを実験する中で、あるプロバイダーが密かに取り組み始めたまったく新しいオプションについて学びました。\n\nParamount Plus はすでに広告付きのプランを提供していますが、無料のプランは提供していません。このサービスには正式には 2 段階しかなく、月額 14 ドルの広告なしのプレミアムと、月額 9 ドルの広告付きのエッセンシャルです。しかし現在、パラマウントは一部の Android ユーザーに…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2022/10/paramount-plus-in-microsoft-store-Xbox-scaled.jpg"
+    },
+    {
+      "Title": "ピーコック、黒字化後18％値上げ",
+      "Link": "https://arstechnica.com/gadgets/2026/08/peacock-raises-prices-by-18-percent-after-becoming-profitable/",
+      "Published": "2026-08-18T16:42:30Z",
+      "Source": "Ars Technica Gear \u0026 Gadgets",
+      "Category": "streaming",
+      "Summary": "ピーコック、黒字化後18％値上げ\n\nピーコックの四半期収益性は保証されていません。\n\nテキスト設定 ストーリーテキスト サイズ 小 標準 大 幅 * 標準 幅広 リンク 標準 オレンジ * 購読者限定 詳細はこちら ナビゲーションを最小化 ピーコックは 4 年間で 4 回目の値上げを行いました。\n\n広告があり、スポーツ、映画、ピーコックのオリジナル作品は含まれないセレクト プランは、月額 8 ドルから月額 9 ドルになりました。標準広告プラン (プレミアム) の月額料金は、月額 11 ドルから月額 13 ドルに、広告なしプラン (プレミアム プラス) は月額 17 ドルから月額 20 ドルになりました。年間価格は、以前と同様に、10 か月の料金で 12 か月を提供します。\n\nPeacock の前回の値上げは 2025 年 7 月で、中間層 (広告付き) は月額 8 ドルから月額 11 ドルに、広告なしプランは 14 ドルから 17 ドルに値上げされました。ピーコックは2024年7月と2023年8月にも値上げを行った。NBCユニバーサルは2020年にサービスを開始した。\n\nこのストリーミング サービスは、2026 年第 2 四半期に調整後 EBITDA が 1 億 8,900 万ドルとなり、初めて四半期利益を計上しました。記録によると、コムキャストのジェイソン・アームストロング最高財務責任者（CFO）は7月の投資家との電話会議で、同四半期中にピーコックのサブスクリプション収入が50％以上増加し、広告収入が70％近く増加したと述べた。\n\nPeacock も第 2 四半期に 200 万人の加入者を獲得し、現在は 4,800 万人となっています。\n\nしかし、ピーコックが現在利益を上げているからといって、次の四半期に同じレベルの成功を期待できるとは限りません。\n\nコムキャストの共同最高経営責任者（CEO）マイケル・カバナー氏は投資家との電話会談で、ピーコックの収益性は年間ベースで改善すると予想しているが、四半期ごとにばらつきがあり、利益はスポーツイベントやショーなどのコンテンツが…",
+      "ImageURL": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1238249061-1024x648.jpg"
+    },
     {
       "Title": "360 度のカバー範囲とローカル ストレージを備えた Eufy C31 カメラが 33% 割引",
       "Link": "https://www.androidauthority.com/eufy-c31-security-camera-deal-3699990/",
@@ -4555,6 +4609,33 @@
       "Category": "reviews",
       "Summary": "Dell 16S DS16260 レビュー: より優れた Dell 16 Plus\n\n16S は、昨年の Dell 16 Plus を大幅にアップグレードしたものです。ただし、より高い構成レベルでは、価格がとんでもないレベルにまで膨れ上がる可能性があり、XPS 16 の方が良い買い物になる可能性があります。\n\n評決 — 適切な価格で強力な主流\n\nDell 16S は、ポートや保守性を犠牲にすることなく、昨年の Dell 16 Plus よりも強力でより成熟したシャーシ設計を導入しています。 CPU とディスプレイのオプションも改善され、120 Hz OLED、そしておそらく最も注目すべき点として、最新の XPS 16 と同じレベルのグラフィックス パフォーマンスを実現する Core Ultra X7 が搭載されました。アップデートされたデザインだけでも、この新モデルは昨年のモデルよりも検討する価値があります。\n\n良い (82%) Dell 16S DS16260 Intel Core Ultra 7 355 Intel Graphics 4 Xe3 Panther Lake iGPU マルチメディア - 2026 年 8 月 17 日 - v8 テスト デバイスはデル提供 ライセンスされた評価画像を PNG / SVG としてダウンロード Dell 16S の開始価格は手頃ですが、モデルを作るのに簡単に 2000 ドル以上に跳ね上がる可能性があることは注目に値します特定の構成レベルでは推奨がより困難になります。たとえば、Core Ultra 7 355 構成は 1,310 ドルから始まりますが、単純に CPU を Core Ultra X7 358H にアップグレードすると、価格が 2,120 ドルまで大幅に上昇します。同じ CPU で XPS 16 を構成すると、同等の RAM とストレージ、同様の IPS ディスプレイを搭載した場合でも、2,350 ドルとわずかに高価になるだけです。したがって、より高速な Core Ultra X7 を望むユーザーは、優れた XPS…",
       "ImageURL": "https://www.notebookcheck.net/fileadmin/Notebooks/Dell/16S_DS16260/dell16s_feature_1.jpg"
+    },
+    {
+      "Title": "Watti Is a Futuristic Desk Lamp with Personality",
+      "Link": "https://www.hackster.io/news/watti-is-a-futuristic-desk-lamp-with-personality-b06b1db46976",
+      "Published": "2026-08-18T16:05:28Z",
+      "Source": "Hackster.io",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "Fairphone の最新の修理可能な携帯電話がついに米国で 650 ドルで入手可能に",
+      "Link": "https://arstechnica.com/gadgets/2026/08/fairphone-brings-the-repairable-fairphone-gen-6-to-the-us/",
+      "Published": "2026-08-18T16:05:00Z",
+      "Source": "Ars Technica Gear \u0026 Gadgets",
+      "Category": "smartphones",
+      "Summary": "Fairphone の最新の修理可能な携帯電話がついに米国で 650 ドルで入手可能に\n\nFairphone は、USB ポートやスクリーンなどのコンポーネントを販売しており、すべて 1 つのトルクス ドライバーで交換できます。\n\nテキスト設定 ストーリーテキスト サイズ 小 標準 大 幅 * 標準 幅広 リンク 標準 オレンジ * 購読者のみ 詳細はこちら ナビゲーションを最小化 スマートフォンのデザインが洗練されるにつれて、修理も難しくなりました。 Fairphone はその傾向に逆行し、ドライバー 1 本で完全に分解して修理できるデバイスを提供しています。しかし、これまでそのデバイスを米国で入手するのは困難でした。\n\nオランダの会社は、Fairphone Gen 6+ を米国で発売しました。これにより、電話機だけでなく、携帯電話を何年も使い続けることができるアクセサリや交換部品のフルラインも提供されます。そして、はい、バッテリーは取り外し可能です。\n\nFairphone Gen 6+ がスペック面で驚かされることを期待しないでください。修理可能であることと、労働者に公正な賃金を支払うことに重点を置いています。本体の半分はリサイクル素材で作られており、microSDカードスロットを備えています。なんてレトロなんだろう。\n\nFairphone Gen 6+ は完全に新しい携帯電話ではありませんが、通常の Fairphone 6 からわずかにアップグレードされています。プロセッサはわずかに強力で、最後の携帯電話の Gen 3 の代わりに Snapdragon 7s Gen 4 プロセッサが搭載されています。 RAM も 8GB から 12GB に増加しましたが、これは現在の世界的な RAM 不足の中では珍しいことです。フェアフォンは、アフリカでの倫理的なコバルト採掘を支援する同社の取り組みにちなんで、新しい「コバルトブルー」カラーのデバイスも提供している。\n\n以前にも米国でフェアフォンを購入することは可能でしたが、他社を通じて輸入されていました。非プラスの Fairph…",
+      "ImageURL": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Fairphone-6-plus-1152x648.jpg"
+    },
+    {
+      "Title": "Thermal Grizzly は、保証付きで廃止された Ryzen 9 9950X3D2 CPU を提供するようになりました",
+      "Link": "https://www.kitguru.net/components/cpu/matthew-wilson/thermal-grizzly-now-offers-delidded-ryzen-9-9950x3d2-cpus-backed-by-warranty/",
+      "Published": "2026-08-18T16:00:15Z",
+      "Source": "KitGuru",
+      "Category": "thermal grizzly",
+      "Summary": "Thermal Grizzly は、保証付きで廃止された Ryzen 9 9950X3D2 CPU を提供するようになりました\n\nしばらくの間、Thermal Grizzly は、危険なデリディング手順を自分で行わずにダイを直接冷却できる、デリデッドプロセッサを販売してきました。 Thermal Grizzly は、何か問題が発生した場合に備えて、これらの CPU を独自の保証でサポートしています。今週の時点で、Thermal Grizzly は Ryzen 9 9950X3D2 の廃止バージョンを提供しています。サーマルグリズリーは\n\nThermal Grizzly は、保証付きで廃止された Ryzen 9 9950X3D2 CPU を提供するようになりました\n\nMatthew Wilson 2 時間前 CPU 、注目の技術ニュース\n\nしばらくの間、Thermal Grizzly は、危険なデリディング手順を自分で行わずにダイを直接冷却できる、デリデッドプロセッサを販売してきました。 Thermal Grizzly は、何か問題が発生した場合に備えて、これらの CPU を独自の保証でサポートしています。今週の時点で、Thermal Grizzly は Ryzen 9 9950X3D2 の廃止バージョンを提供しています。 Thermal Grizzly は、新しい AMD Ryzen™ 9 9950X3D2 を追加して、廃止されたプロセッサーのラインナップを拡張し、すでに AMD Ryzen 7 9800X3D、AMD Ryzen 9 9850X3D、AMD Ryzen 9 9950X3D、Intel Core Ultra 9 285K、および Intel Core 7 で構成されていたラインナップを拡大します。 270K プラス CPU。各 TG Delidded CPU は、Thermal Grizzly の社内専門家によって専門的に削除および検証されています。このプロセスには、ヒート スプレッダーの取り外しが含まれており、ダイに直接アクセスしてより直接的に冷却でき…",
+      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/08/TG-732x330.png"
     },
     {
       "Title": "フレーム レートをリフレッシュ レートより 3 FPS 低く制限することは、単なる提案ではありません。それは要件です",
@@ -4611,6 +4692,15 @@
       "ImageURL": "https://cdn.mos.cms.futurecdn.net/gkbQuvhYyD4avDmXyeyExW-1920-80.jpg"
     },
     {
+      "Title": "Intel、Nova Lake CPUがデータセンターよりも先にデスクトップで発売されることを確認",
+      "Link": "https://www.kitguru.net/components/cpu/joao-silva/intel-confirms-nova-lake-cpus-will-launch-on-desktop-before-data-centre/",
+      "Published": "2026-08-18T15:30:44Z",
+      "Source": "KitGuru",
+      "Category": "xeon",
+      "Summary": "Intel、Nova Lake CPUがデータセンターよりも先にデスクトップで発売されることを確認\n\nIntel副社長のRobert Hallock氏は、同社の次世代CPUコアがデータセンター製品に登場する前にデスクトッププロセッサでデビューすることを認めた。この確認は、Intelが今後のアーキテクチャ展開においてエンタープライズよりもコンシューマプラットフォームを優先していることを明らかにしている。 Hallock氏（Tom's Hardware経由）は、競合他社であるAMDのZen 6発売決定について議論しながらコメントをした。\n\nIntel、Nova Lake CPUがデータセンターよりも先にデスクトップで発売されることを確認\n\nIntel副社長のRobert Hallock氏は、同社の次世代CPUコアがデータセンター製品に登場する前にデスクトッププロセッサでデビューすることを認めた。この確認は、Intelが今後のアーキテクチャ展開においてエンタープライズよりもコンシューマプラットフォームを優先していることを明らかにしている。 Hallock 氏 (Tom's Hardware 経由) は、消費者向けリリースの前に EPYC Venice エンタープライズ チップ上で Zen 6 アーキテクチャを発売するという競合他社 AMD の決定について議論しながらコメントしました。 Intel は次の CPU 設計で逆のアプローチを採用し、デスクトップ ユーザーが最初に新しいコアにアクセスできるようにします。 「新しいコアを手に入れました。まずデスクトップに登場します。つまり、愛好家がそれについて計算してくれることを願っています」と、Intel 副社長兼愛好家チャネル ビジネスのゼネラル マネージャーである Robert Hallock は述べています。 Hallock氏はコアの名前や具体的なアーキテクチャの詳細については明らかにしなかったが、タイミングはIntelのクライアントロードマップと一致している。同社は、Panther Lakeプラットフォームに続いて、Nova …",
+      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2024/10/Intel-Core-Ultra-1-732x330.jpg"
+    },
+    {
       "Title": "古いカメラを修理したいとのこと",
       "Link": "https://hackaday.com/2026/08/18/so-you-want-to-fix-an-old-camera/",
       "Published": "2026-08-18T15:30:12Z",
@@ -4654,6 +4744,15 @@
       "Category": "Amazon Fire tablet",
       "Summary": "最新のFire HD 8タブレットの稀なセールでプライムデー価格の89.99ドルに値下げ\n\nストリーミング、読書、ブラウジング用の低価格タブレットが必要ですか? Fire HD 8 は現在、今年 2 回目のセールで 31% オフです。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\n最新のFire HD 8タブレットの稀なセールでプライムデー価格の89.99ドルに値下げ\n\n0 • Ryan Haines / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください Amazon Fire HD 8 は、ほとんどの人が毎日タブレットを使用する基本に合わせて構築されており、現在、Amazon で最新モデルがお買い得になっています。これは、8 インチ HD ディスプレイ、Fire OS 8、およびアプリの切り替えをよりスムーズにし、カジュアル ゲームの応答性を高めることを目的としたアップグレードされたヘキサコア プロセッサを備えた、Amazon の手頃な価格のタブレットです。\n\nこの 2024 年のリリースでは、Fire HD 8 の方式は引き続きストリーミング、読み取り、ブラウジング、Alexa フレンドリーな使用に重点が置かれています。主なアップデートは速度とメモリで、新しいバージョンではモデルに応じて 3GB または 4GB の RAM が提供されます。ストレージオプションには32GBまたは64GBがあり、他のFireタブレットと同様に、microSDカードによる拡張可能なストレージをサポートしています。そのため、番組をダウンロードしたり、本やアプリを手元に置いたり、家族用に低価格のタブレットをセットアップしたりするのに便利です。\n\nまた、4.5 つ星のレビュー スコアもあり、あまりお金をかけずに信頼できるタブレットを求める買い物客にとってはさらに魅力的です。\n\nこの契約に関して、AmazonはFire HD 8タブレットを希望…",
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2024/11/Amazon-Fire-HD-8-home-screen.jpg"
+    },
+    {
+      "Title": "Asus GPU Tweak III アップデートにより、12V-2×6 コネクタを保護する自動シャットダウンが追加されました",
+      "Link": "https://www.kitguru.net/channel/generaltech/joao-silva/asus-gpu-tweak-iii-update-adds-auto-shutdown-to-protect-12v-2x6-connectors/",
+      "Published": "2026-08-18T15:00:46Z",
+      "Source": "KitGuru",
+      "Category": "RTX 5090",
+      "Summary": "Asus GPU Tweak III アップデートにより、12V-2×6 コネクタを保護する自動シャットダウンが追加されました\n\nAsus は GPU Tweak III V2.1.8.0 アップデートをリリースし、12V-2x6 電源ケーブルによる損傷からグラフィックス カードを保護するように設計された自動シャットダウン機能を導入しました。 Videocardz によって注目されたこの新機能は、サポートされているハードウェアで継続的に高電流が検出されると、システムの電源を自動的にオフにします。 Asus ROG フォーラムのモデレーターによると、\n\nAsus GPU Tweak III アップデートにより、12V-2×6 コネクタを保護する自動シャットダウンが追加されました\n\nJoão Silva 3 時間前 注目の技術ニュース , 一般技術\n\nAsus は、GPU Tweak III V2.1.8.0 アップデートをリリースし、12V-2×6 電源ケーブルによる損傷からグラフィックス カードを保護するように設計された自動シャットダウン機能を導入しました。 Videocardz によって注目されたこの新機能は、サポートされているハードウェアで継続的に高電流が検出されると、システムの電源を自動的にオフにします。 Asus ROG フォーラムのモデレーターによると、シャットダウンをトリガーするために必要な期間パラメーター (1 ～ 5 分) を設定できますが、現在のしきい値は 12.5A にロックされています。ただし、ROG Equalizer ケーブルを使用している場合、電流しきい値は 18A に増加します。互換性は、ROG Astral GeForce RTX 5090、ROG Astral LC GeForce RTX 5090、ROG Astral GeForce RTX 5080、ROG Matrix GeForce RTX 4090 など、Power Detector+ ハードウェアを搭載した一部のグラフィックス カードに限定されています。以前は、Power …",
+      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/08/h1470-732x330.jpg"
     },
     {
       "Title": "この 3D プリンター アクセサリのおかげで、半使用済みのフィラメントが長持ちします",
@@ -4701,6 +4800,15 @@
       "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/nest-hub.jpg?w=1600\u0026h=900\u0026fit=crop"
     },
     {
+      "Title": "Quectel Targets Premium 4G, Entry-Level 5G with New SH602FA and SE505FE Cellular IoT Modules",
+      "Link": "https://www.hackster.io/news/quectel-targets-premium-4g-entry-level-5g-with-new-sh602fa-and-se505fe-cellular-iot-modules-dbd655f467e7",
+      "Published": "2026-08-18T14:33:15Z",
+      "Source": "Hackster.io",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
       "Title": "Pixel Screenshots は、起動するはずだった欠落している組織ツールをついに入手しました",
       "Link": "https://www.androidauthority.com/google-pixel-screenshots-filters-update-3699697/",
       "Published": "2026-08-18T14:31:26Z",
@@ -4708,6 +4816,15 @@
       "Category": "Google Pixel",
       "Summary": "Pixel Screenshots は、起動するはずだった欠落している組織ツールをついに入手しました\n\nGoogle は、日付とソースのフィルターを備えた Pixel Screenshots アプリを更新し、スクリーンショットを見つけたり、乱雑な画像を整理したりしやすくしました。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nPixel Screenshots は、起動するはずだった欠落している組織ツールをついに入手しました\n\n0 • Ryan Haines / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google は Pixel Screenshots アプリ (v1.26.281.05) を更新し、重要な日付範囲とソース フィルタリング オプションを追加しました。\n\nユーザーは、スクリーンショットを撮影した特定のアプリごとにスクリーンショットを並べ替えたり、複数のフィルター条件を同時に組み合わせたりできるようになりました。\n\nこのアップデートは、アプリの基本的な構成機能の欠如に関する長年の不満に対処します。\n\nGoogleは最近、Pixel Screenshotsアプリをアップデートし、処理の一部でオンデバイスAIのみの使用からクラウドベースのAIの使用に切り替えました。この変更は当然のことながら一部のユーザーを当惑させましたが、アプリのかなり必要最低限​​の機能セットによってさらに悪化しました。 Googleはこうしたユーザーの一部を取り戻したいと考えているが、現在はPixel Screenshotsにさらに多くの機能を追加することでそのために取り組んでおり、率直に言って、これらは最初から存在するべきだった。\n\n最新の Pixel Screenshots アプリ v1.26.281.05 は、Play ストアを通じてユーザーに公開されており、「フィルター」機能が搭載されています。このアップデ…",
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2024/08/Google-Pixel-9-Pro-screenshots-app-organization.jpg"
+    },
+    {
+      "Title": "Titan Army、2304 個のミニ LED ゾーンを備えた P276MX Ultra 5K モニターを発表",
+      "Link": "https://www.kitguru.net/peripherals/monitors/joao-silva/titan-army-introduces-p276mx-ultra-5k-monitor-featuring-2304-mini-led-zones/",
+      "Published": "2026-08-18T14:30:46Z",
+      "Source": "KitGuru",
+      "Category": "Titan Army P276MX Ultra",
+      "Summary": "Titan Army、2304 個のミニ LED ゾーンを備えた P276MX Ultra 5K モニターを発表\n\nTitan Army は、デュアル解像度動作と 2304 ゾーン QD Mini LED バックライトを備えた 27 インチ Fast IPS ゲーミング モニター P276MX Ultra を発表しました。ディスプレイは、最大 180 Hz で 5120x2880 の解像度を提供し、最大 360 Hz で 2560x1440 モードを提供します。 ITHome によると、ネイティブ動作は 5120x2880 (165Hz) または 2560x1440 (330Hz) で実行されます。\n\nTitan Army、2304 個のミニ LED ゾーンを備えた P276MX Ultra 5K モニターを発表\n\nJoão Silva 3 時間前\n\nTitan Army は、デュアル解像度動作と 2304 ゾーン QD Mini LED バックライトを備えた 27 インチ Fast IPS ゲーミング モニター P276MX Ultra を発表しました。ディスプレイは、最大 180 Hz で 5120 × 2880 の解像度を提供し、最大 360 Hz で 2560 × 1440 モードを提供します。 ITHome によると、ネイティブ動作は 5120×2880 (165Hz) または 2560×1440 (330Hz) で動作し、内蔵オーバークロックによりこれらの上限がそれぞれ 180Hz と 360Hz に引き上げられます。 5K モードで実行すると、制作作業や詳細なゲームに 1 インチあたり約 218 ピクセルが提供され、QHD モードではペースの速いタイトルのレンダリング オーバーヘッドが低減されます。輝度はSDRで450nits、標準HDRで1400nits、XDRモードで最大2000nitsに達しますが、ピーク値は限られた画面領域にのみ適用されます。画像クレジット: ITHome カラー仕様には、10 ビット サポート、100% sRGB、99% DCI-…",
+      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/08/165736f1-6ea7-4497-8b59-921579d1f126-732x330.jpg"
     },
     {
       "Title": "すべての Docker コンテナを 24 時間年中無休で実行するのをやめたところ、ホーム サーバーがかつてないほど良くなりました。",
@@ -4746,6 +4863,15 @@
       "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/02/plex-app.jpg?w=1600\u0026h=900\u0026fit=crop"
     },
     {
+      "Title": "テストにより、最新の OLED は高輝度での焼き付き耐性において古いパネルに匹敵することが示されました",
+      "Link": "https://www.kitguru.net/peripherals/monitors/joao-silva/test-shows-modern-oleds-match-older-panels-in-burn-in-resistance-at-higher-brightness/",
+      "Published": "2026-08-18T14:00:48Z",
+      "Source": "KitGuru",
+      "Category": "TV",
+      "Summary": "テストにより、最新の OLED は高輝度での焼き付き耐性において古いパネルに匹敵することが示されました\n\nRtingsは長期OLED寿命テストの結果を発表し、2020年から2023年までのディスプレイは10,000時間の模擬使用後に2017年モデルと同様の焼き付きが発生することを明らかにしました。このテストはテレビで行われましたが、結果はほとんどの OLED パネルに適用できます。 Rtings テストは 2017 年をカバーしました\n\nテストにより、最新の OLED は高輝度での焼き付き耐性において古いパネルに匹敵することが示されました\n\nJoão Silva 4 時間前\n\nRtingsは長期OLED寿命テストの結果を発表し、2020年から2023年までのディスプレイは10,000時間の模擬使用後に2017年モデルと同様の焼き付きが発生することを明らかにしました。このテストはテレビで行われましたが、結果はほとんどの OLED パネルに適用できます。 Rtings のテストでは、2017 LG C7 と 2020 年から 2023 年までの 19 の新しいモデルが対象となりました。各ディスプレイは最大 SDR 輝度で動作し、10,000 時間以上の日常使用をシミュレートしました。これは、10 年間で 1 日あたり約 5 時間に相当します。テスト終了までに、すべてのユニットで残像が発生しました。テスト条件下ではバーンイン耐性はある程度類似していましたが、データは他の領域で明らかな改善を示しています。その結果、2023 年のパネルは、2017 年のユニットと比較して、10% のウィンドウ サイズで平均 28% 明るく、100% のウィンドウ サイズで 2 倍以上明るくなったことが示されています。電力効率も向上し、2023 年モデルではエネルギー消費量が平均 27% 削減されました。 100nits に達するために、2017 年の OLED は 130W を消費しましたが、2023 年のディスプレイはわずか 95W しか消費しませんでした。これらの結果に基づいて、Rtings…",
+      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/05/ROG-Strix-OLED-XG34WCDMS-Strix-XG129C-732x330.jpg"
+    },
+    {
       "Title": "スマートフォンと次世代補聴器",
       "Link": "https://hackaday.com/2026/08/18/smartphones-and-the-next-generation-of-hearing-aids/",
       "Published": "2026-08-18T14:00:39Z",
@@ -4776,6 +4902,15 @@
       "Title": "Prusa Promises Improved 3D Printing From a Wholly Refreshed Hardware Lineup, Teases PrusaSlicer 3.0",
       "Link": "https://www.hackster.io/news/prusa-promises-improved-3d-printing-from-a-wholly-refreshed-hardware-lineup-teases-prusaslicer-3-0-f07385a237f0",
       "Published": "2026-08-18T13:55:50Z",
+      "Source": "Hackster.io",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "Co-Designed Hardware and Algorithms Are Shrinking AI",
+      "Link": "https://www.hackster.io/news/co-designed-hardware-and-algorithms-are-shrinking-ai-f6a4753b88ac",
+      "Published": "2026-08-18T13:50:56Z",
       "Source": "Hackster.io",
       "Category": "",
       "Summary": "",
@@ -7500,15 +7635,6 @@
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2023/11/Google-Chrome-Flags-page-running-on-Chromebook-stock-photo.jpg"
     },
     {
-      "Title": "すべての Android スマートフォンに対してサインインする前に行う最初の 5 つのこと",
-      "Link": "https://www.xda-developers.com/the-first-5-things-i-do-to-every-android-phone-before-i-even-sign-in/",
-      "Published": "2026-08-16T10:00:10Z",
-      "Source": "XDA",
-      "Category": "Google",
-      "Summary": "すべての Android スマートフォンに対してサインインする前に行う最初の 5 つのこと\n\n新しい Android スマートフォンで Google にサインインする前に行うべき重要な事項。\n\nすべての Android スマートフォンに対してサインインする前に行う最初の 5 つのこと\n\nBy Brian Burgess 公開 2026 年 8 月 16 日、午前 6:00 EDT ミネソタ州の田舎に拠点を置くブライアン バージェスは、消費者向けテクノロジーについて執筆することに情熱を注ぐまで、IT 業界で 10 年間働いていました。ブライアンは、2000 年にコンピュータおよびネットワーク テクノロジの学位を取得しました。彼は、ヘルプ デスク サポート、IBM のルーターの設置、データベース管理、その他のネットワーク管理関連の役割など、さまざまな IT 職を歴任しました。彼は 18 年間個人のテクノロジー ジャーナリストとして活動しており、Microsoft の製品とサービス、Android、iOS、ストリーミングなどに関する何千もの記事を執筆してきました。彼は、XDA、InformationWeek、How-To Geek、Byte、groovyPost などの著名な技術サイトに寄稿しています。彼がキーボードから離れているときは、ギターを弾いたり、屋外で仕事をしたり、スタートレックを見たりしているのが聞こえます。 XDA アカウントにサインインする 新しい Android スマートフォンを購入する場合、Google アカウントにログインすることが優先事項のように思えるかもしれません。携帯電話の機能の多くは、検索大手と結びついています。 Gmail、Play ストア、YouTube、その他のアプリを完全に使用するには、すべてサインインする必要があります。\n\nただし、電話を保護し、初めて使用できるようにするためのいくつかの重要なタスクを実行するために、Google アカウントにサインインする必要はありません。お気に入りのビデオ、メッセージ、その他のメディアに飛び込む前に、…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/google-pixel-android-phone-setup-offline-1.JPEG?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
       "Title": "ファイル ブラウザはアーカイブされていますが、セルフホスト型の代替ブラウザはあらゆる点でそれよりも高速です",
       "Link": "https://www.xda-developers.com/filestash-self-hosted-replacement-of-file-browser/",
       "Published": "2026-08-16T10:00:10Z",
@@ -7516,6 +7642,15 @@
       "Category": "software",
       "Summary": "ファイル ブラウザはアーカイブされていますが、セルフホスト型の代替ブラウザはあらゆる点でそれよりも高速です\n\nファイル ブラウザに代わるものを探した結果、より高速で柔軟なセットアップを見つけることができました。\n\nファイル ブラウザはアーカイブされていますが、セルフホスト型の代替ブラウザはあらゆる点でそれよりも高速です\n\nBy Yash Patel 公開 2026 年 8 月 16 日、午前 6:00 EDT 2018 年にテクノロジー業界でのキャリアを開始し、Yash はソフトウェア エンジニアとして 3 年以上を過ごしました。その後、彼はテクノロジー ブログ DiGiTAL BiRYANi の有益で魅力的なコンテンツを通じて読者に力を与えることに重点を移しました。彼は MakeTechEasier の技術記事も出版しています。彼は新しいテクノロジー ガジェットやプラットフォームを探索するのが大好きです。彼が執筆していないときは、食べ物について調べていることがわかります。彼はテクノロジーと食べ物への愛情から、読者の間ではデジタル シェフ ヤシュとして知られています。 XDA アカウントにサインインします。私を知っている人は、私がセルフホスティングをどれだけ楽しんでいるかを知っています。私は、オープンソース ツールを試し、自分のサーバー上で実行し、希望どおりに動作するセットアップをゆっくりと構築するのが好きです。しかし、私がセルフホスティングであまり楽しめない部分の 1 つは、まったく問題なく動作していたツールを置き換えることです。\n\nそれがまさにファイル ブラウザで起こったことです。それは私のサーバーで何年も実行されていましたが、それを置き換える特別な理由はありませんでした。しかし、このプロジェクトは 2026 年 9 月にアーカイブされる予定だったので、実際に必要になる前に代替案を探し始めました。いくつかのオプションを試しましたが、最終的に Filestash に落ち着きました。私の日常のニーズにとって十分シンプルに見えたので、それを展開して、私のセットアップにどの…",
       "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/filestash-on-lenovo-legion.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "すべての Android スマートフォンに対してサインインする前に行う最初の 5 つのこと",
+      "Link": "https://www.xda-developers.com/the-first-5-things-i-do-to-every-android-phone-before-i-even-sign-in/",
+      "Published": "2026-08-16T10:00:10Z",
+      "Source": "XDA",
+      "Category": "Google",
+      "Summary": "すべての Android スマートフォンに対してサインインする前に行う最初の 5 つのこと\n\n新しい Android スマートフォンで Google にサインインする前に行うべき重要な事項。\n\nすべての Android スマートフォンに対してサインインする前に行う最初の 5 つのこと\n\nBy Brian Burgess 公開 2026 年 8 月 16 日、午前 6:00 EDT ミネソタ州の田舎に拠点を置くブライアン バージェスは、消費者向けテクノロジーについて執筆することに情熱を注ぐまで、IT 業界で 10 年間働いていました。ブライアンは、2000 年にコンピュータおよびネットワーク テクノロジの学位を取得しました。彼は、ヘルプ デスク サポート、IBM のルーターの設置、データベース管理、その他のネットワーク管理関連の役割など、さまざまな IT 職を歴任しました。彼は 18 年間個人のテクノロジー ジャーナリストとして活動しており、Microsoft の製品とサービス、Android、iOS、ストリーミングなどに関する何千もの記事を執筆してきました。彼は、XDA、InformationWeek、How-To Geek、Byte、groovyPost などの著名な技術サイトに寄稿しています。彼がキーボードから離れているときは、ギターを弾いたり、屋外で仕事をしたり、スタートレックを見たりしているのが聞こえます。 XDA アカウントにサインインする 新しい Android スマートフォンを購入する場合、Google アカウントにログインすることが優先事項のように思えるかもしれません。携帯電話の機能の多くは、検索大手と結びついています。 Gmail、Play ストア、YouTube、その他のアプリを完全に使用するには、すべてサインインする必要があります。\n\nただし、電話を保護し、初めて使用できるようにするためのいくつかの重要なタスクを実行するために、Google アカウントにサインインする必要はありません。お気に入りのビデオ、メッセージ、その他のメディアに飛び込む前に、…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/google-pixel-android-phone-setup-offline-1.JPEG?w=1600\u0026h=900\u0026fit=crop"
     },
     {
       "Title": "ウクライナ無人機連隊、戦争ゲームで3,500名の米機甲旅団戦闘チームを「壊滅」―無人機が容易に発見され戦車や装甲車両を破壊できるため、高い無人機撃破率で継続的な「リスポーン」を強いられ、米国の対応の欠陥が明らかに",
@@ -7680,21 +7815,21 @@
       "ImageURL": "https://hackaday.com/wp-content/uploads/2026/08/fruitPeeler.jpg"
     },
     {
-      "Title": "GaN+ 充電器を内蔵したこの 13-in-1 USB-C ドッキング ステーションは、私の充電習慣をより良いものに変えました - レビュー",
-      "Link": "https://www.notebookcheck.net/This-13-in-1-USB-C-docking-station-with-built-in-GaN-charger-changed-my-charging-habits-for-the-better-a-review.1369641.0.html",
-      "Published": "2026-08-15T22:40:00Z",
-      "Source": "Notebookcheck",
-      "Category": "reviews",
-      "Summary": "GaN+ 充電器を内蔵したこの 13-in-1 USB-C ドッキング ステーションは、私の充電習慣をより良いものに変えました - レビュー\n\nMOKiN MOPU1102 13-in-1 USB-C ドッキング ステーションの短い実践レビュー。Lenovo Legion Go および標準的なコンピューター周辺機器と組み合わせて、その構築品質、機能、実現可能性を探ります。テストの結果、メイン充電器の両方に役立つ十分な電力とポートがあることが判明し、詳細な充電インジケーターを備えた卓上充電器に簡単にアクセスできることが、バッテリーの劣化を防ぐ良い方法になる可能性があると著者は述べています。\n\n評決 - 高速充電を備えた堅牢で手頃な価格の USB-C ドッキング ステーション\n\nⓘ Notebookcheck/Julian van der Merwe MOKiN 13 in 1 USB C ドッキング ステーション HDMI ディスプレイ モード MOKiN 13-in-1 USB-C ドッキング ステーションは、特にメインの生産性ワークステーションとして薄型軽量ラップトップのようなものに依存している人、または Anker や Baseus などの大手ブランドのもう少し手頃な代替品を探している場合に、デスクトップ セットアップへの優れた追加です。日常的な使用例では、MOKiN USB-C ドッキング ステーションにはほとんどのユーザーのニーズを満たすのに十分な USB Type-C ポートがあり、デュアル HDMI 2.1 ディスプレイ出力の追加によりさらに便利になります。\n\n実際には、ドッキング ステーションを使用すると、有線マウスとキーボード、デュアル 4K 60 Hz ディスプレイ、薄型軽量またはゲーム用ハンドヘルドへの有線 GbE ネットワーク接続を追加する 1 本のケーブル接続が可能になります。後者が私の使用例でした。\n\nMOKiN 13-in-1 USB-C ドッキング ステーションの唯一の大きな欠点は、3.5 mm ヘッドフォン ジャックと SD カード リー…",
-      "ImageURL": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MOKiN-13-in-1-USB-C-charging-dock-review-teaser.jpg"
-    },
-    {
       "Title": "MOKiN の 13-in-1 USB-C ドッキング ステーションには実際に便利なギミックがあり、私の Lenovo Legion Go を使えるデスクトップ PC に変えてくれました。",
       "Link": "https://www.notebookcheck.net/MOKiN-s-13-in-1-USB-C-docking-station-has-an-actually-useful-gimmick-and-it-turned-my-Lenovo-Legion-Go-into-a-usable-desktop-PC.1369641.0.html",
       "Published": "2026-08-15T22:40:00Z",
       "Source": "Notebookcheck",
       "Category": "reviews",
       "Summary": "MOKiN の 13-in-1 USB-C ドッキング ステーションには実際に便利なギミックがあり、私の Lenovo Legion Go を使えるデスクトップ PC に変えてくれました。\n\nMOKiN MOPU1102 13-in-1 USB-C ドッキング ステーションの短い実践レビュー。Lenovo Legion Go および標準的なコンピューター周辺機器と組み合わせて、その構築品質、機能、実現可能性を探ります。テストの結果、メイン充電器の両方に役立つ十分な電力とポートがあることが判明し、詳細な充電インジケーターを備えた卓上充電器に簡単にアクセスできることが、バッテリーの劣化を防ぐ良い方法になる可能性があると著者は述べています。\n\n評決 - 高速充電を備えた堅牢で手頃な価格の USB-C ドッキング ステーション\n\nⓘ Notebookcheck/Julian van der Merwe MOKiN 13 in 1 USB C ドッキング ステーション HDMI ディスプレイ モード MOKiN 13-in-1 USB-C ドッキング ステーションは、特にメインの生産性ワークステーションとして薄型軽量ラップトップのようなものに依存している人、または Anker や Baseus などの大手ブランドのもう少し手頃な代替品を探している場合に、デスクトップ セットアップへの優れた追加です。日常的な使用例では、MOKiN USB-C ドッキング ステーションにはほとんどのユーザーのニーズを満たすのに十分な USB Type-C ポートがあり、デュアル HDMI 2.1 ディスプレイ出力の追加によりさらに便利になります。\n\n実際には、ドッキング ステーションを使用すると、有線マウスとキーボード、デュアル 4K 60 Hz ディスプレイ、薄型軽量またはゲーム用ハンドヘルドへの有線 GbE ネットワーク接続を追加する 1 本のケーブル接続が可能になります。後者が私の使用例でした。\n\nMOKiN 13-in-1 USB-C ドッキング ステーションの唯一の大きな欠点は、3.5 m…",
+      "ImageURL": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MOKiN-13-in-1-USB-C-charging-dock-review-teaser.jpg"
+    },
+    {
+      "Title": "GaN+ 充電器を内蔵したこの 13-in-1 USB-C ドッキング ステーションは、私の充電習慣をより良いものに変えました - レビュー",
+      "Link": "https://www.notebookcheck.net/This-13-in-1-USB-C-docking-station-with-built-in-GaN-charger-changed-my-charging-habits-for-the-better-a-review.1369641.0.html",
+      "Published": "2026-08-15T22:40:00Z",
+      "Source": "Notebookcheck",
+      "Category": "reviews",
+      "Summary": "GaN+ 充電器を内蔵したこの 13-in-1 USB-C ドッキング ステーションは、私の充電習慣をより良いものに変えました - レビュー\n\nMOKiN MOPU1102 13-in-1 USB-C ドッキング ステーションの短い実践レビュー。Lenovo Legion Go および標準的なコンピューター周辺機器と組み合わせて、その構築品質、機能、実現可能性を探ります。テストの結果、メイン充電器の両方に役立つ十分な電力とポートがあることが判明し、詳細な充電インジケーターを備えた卓上充電器に簡単にアクセスできることが、バッテリーの劣化を防ぐ良い方法になる可能性があると著者は述べています。\n\n評決 - 高速充電を備えた堅牢で手頃な価格の USB-C ドッキング ステーション\n\nⓘ Notebookcheck/Julian van der Merwe MOKiN 13 in 1 USB C ドッキング ステーション HDMI ディスプレイ モード MOKiN 13-in-1 USB-C ドッキング ステーションは、特にメインの生産性ワークステーションとして薄型軽量ラップトップのようなものに依存している人、または Anker や Baseus などの大手ブランドのもう少し手頃な代替品を探している場合に、デスクトップ セットアップへの優れた追加です。日常的な使用例では、MOKiN USB-C ドッキング ステーションにはほとんどのユーザーのニーズを満たすのに十分な USB Type-C ポートがあり、デュアル HDMI 2.1 ディスプレイ出力の追加によりさらに便利になります。\n\n実際には、ドッキング ステーションを使用すると、有線マウスとキーボード、デュアル 4K 60 Hz ディスプレイ、薄型軽量またはゲーム用ハンドヘルドへの有線 GbE ネットワーク接続を追加する 1 本のケーブル接続が可能になります。後者が私の使用例でした。\n\nMOKiN 13-in-1 USB-C ドッキング ステーションの唯一の大きな欠点は、3.5 mm ヘッドフォン ジャックと SD カード リー…",
       "ImageURL": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MOKiN-13-in-1-USB-C-charging-dock-review-teaser.jpg"
     },
     {
@@ -7914,15 +8049,6 @@
       "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/rtx-5090-installed.jpg?w=1600\u0026h=900\u0026fit=crop"
     },
     {
-      "Title": "443,000 台の Backblaze ハードドライブを対象としたピアレビュー調査では、HGST が最も信頼性が高く、東芝が最も信頼性が低いとランク付けされています — 最も信頼性の低いリストでは Seagate が僅差で 2 位となっています",
-      "Link": "https://www.tomshardware.com/pc-components/hdds/peer-reviewed-study-of-443000-backblaze-drivers-ranks-hgst-most-reliable-and-toshiba-least",
-      "Published": "2026-08-15T15:30:10Z",
-      "Source": "Tom's Hardware",
-      "Category": "Storage",
-      "Summary": "443,000 台の Backblaze ハードドライブを対象としたピアレビュー調査では、HGST が最も信頼性が高く、東芝が最も信頼性が低いとランク付けされています — 最も信頼性の低いリストでは Seagate が僅差で 2 位となっています\n\n166万駆動年を分析したところ、Seagateと東芝のHDDはWDやHGSTの約2倍の割合で故障していることが判明した。\n\n443,000 台の Backblaze ハードドライブを対象としたピアレビュー調査では、HGST が最も信頼性が高く、東芝が最も信頼性が低いとランク付けされています — 最も信頼性の低いリストでは Seagate が僅差で 2 位となっています\n\n166万駆動年を分析したところ、Seagateと東芝のHDDはWDやHGSTの約2倍の割合で故障していることが判明した。\n\n(画像クレジット: Getty Images) リンクをコピーして共有\n\nフォローしてください Google ニュースレターの優先ソースとして追加してください ニュースレターを購読してください エセックス大学の経済学者 Christoph Siemroth 氏と成均館大学の Yeomyung Park 氏は、2013 年から第 2 四半期までの 443,156 台のハードドライブと 166 万年以上の駆動年数をカバーする Backblaze の 12 年間のパブリック ドライブ データを再計算した査読済みの IEEE 研究を発表しました。 2025 年に、一致する使用年数、容量、フォーム ファクター、動作温度のドライブを比較した場合、HGST ドライブは Seagate の約 41% の割合で故障することがわかりました。 WD は Seagate の故障率の約 52% で第 1 位ですが、東芝は 107% で最下位です。ランキングで最も信頼できるブランドは？ HGST は、WD が 2012 年に買収して終了した後は、新品で購入できなくなりました。\n\nフォトニクスと高速データ移動が AI の次の大きなボトルネックとなる\n\nデータセンター…",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/KCkcPUkkLXLzriAGq9iUrg-2560-80.jpg"
-    },
-    {
       "Title": "Google マップが私の車では狭すぎる道を案内し続けるため、Waze に切り替えました",
       "Link": "https://www.xda-developers.com/i-switched-to-waze-because-google-maps-keeps-routing-me-down-roads-too-narrow-for-my-car/",
       "Published": "2026-08-15T15:30:10Z",
@@ -7930,6 +8056,15 @@
       "Category": "Waze",
       "Summary": "Google マップが私の車では狭すぎる道を案内し続けるため、Waze に切り替えました\n\nWazeは私の車が勝ったことを知っています\n\nGoogle マップが私の車では狭すぎる道を案内し続けるため、Waze に切り替えました\n\nBy Dhruv Bhutani 公開 2026 年 8 月 15 日、午前 11:30 EDT Dhruv Bhutani は 2008 年以来消費者向けテクノロジーについて執筆しており、特集記事や意見記事を通じて個人向けテクノロジーの状況について深い洞察を提供しています。彼は XDA-Developers に執筆しており、生産性、ネットワーキング、セルフホスティングなどのトピックに重点を置いています。長年にわたり、彼の作品は Android Police、Android Authority、CNET、PCMag などの主要出版物にも掲載されてきました。専門的な仕事以外では、ドゥルヴは映画や文学などのホラー メディアの熱心なファンであり、フィットネス アクティビティを楽しんだり、レコードを収集したり、ギターを弾いたりしています。\n\nGoogle マップが優れたナビゲーション アプリであることは誰も否定できません。しかし、優れているとはいえ、あらゆる運転シナリオに対応できるわけではありません。正直に言うと、私が住んでいる場所での運転はまったくユニークな経験です。\n\n地図上では見栄えの良い道路でも、すぐにボトルネックになったり、SUV が通れないほど狭かったりする場合があります。 Google マップは、リアルタイムの交通情報を提供し、場所 A から場所 B に連れて行ってくれる点では優れていますが、安全に車で通れない通りに私を誘導するだけで渋滞に巻き込まれることがよくあります。\n\nそこで、代替手段を探していたところ、Waze がこの問題の解決に最適な特定の新機能を 1 つ追加したことを最近発見しました。 Waze では、運転している車両の種類を定義できるようになりました。それはバイク、車、さらにはタクシーである可能性があり、ナビゲーション方法を…",
       "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/waze-android-auto-header.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "443,000 台の Backblaze ハードドライブを対象としたピアレビュー調査では、HGST が最も信頼性が高く、東芝が最も信頼性が低いとランク付けされています — 最も信頼性の低いリストでは Seagate が僅差で 2 位となっています",
+      "Link": "https://www.tomshardware.com/pc-components/hdds/peer-reviewed-study-of-443000-backblaze-drivers-ranks-hgst-most-reliable-and-toshiba-least",
+      "Published": "2026-08-15T15:30:10Z",
+      "Source": "Tom's Hardware",
+      "Category": "Storage",
+      "Summary": "443,000 台の Backblaze ハードドライブを対象としたピアレビュー調査では、HGST が最も信頼性が高く、東芝が最も信頼性が低いとランク付けされています — 最も信頼性の低いリストでは Seagate が僅差で 2 位となっています\n\n166万駆動年を分析したところ、Seagateと東芝のHDDはWDやHGSTの約2倍の割合で故障していることが判明した。\n\n443,000 台の Backblaze ハードドライブを対象としたピアレビュー調査では、HGST が最も信頼性が高く、東芝が最も信頼性が低いとランク付けされています — 最も信頼性の低いリストでは Seagate が僅差で 2 位となっています\n\n166万駆動年を分析したところ、Seagateと東芝のHDDはWDやHGSTの約2倍の割合で故障していることが判明した。\n\n(画像クレジット: Getty Images) リンクをコピーして共有\n\nフォローしてください Google ニュースレターの優先ソースとして追加してください ニュースレターを購読してください エセックス大学の経済学者 Christoph Siemroth 氏と成均館大学の Yeomyung Park 氏は、2013 年から第 2 四半期までの 443,156 台のハードドライブと 166 万年以上の駆動年数をカバーする Backblaze の 12 年間のパブリック ドライブ データを再計算した査読済みの IEEE 研究を発表しました。 2025 年に、一致する使用年数、容量、フォーム ファクター、動作温度のドライブを比較した場合、HGST ドライブは Seagate の約 41% の割合で故障することがわかりました。 WD は Seagate の故障率の約 52% で第 1 位ですが、東芝は 107% で最下位です。ランキングで最も信頼できるブランドは？ HGST は、WD が 2012 年に買収して終了した後は、新品で購入できなくなりました。\n\nフォトニクスと高速データ移動が AI の次の大きなボトルネックとなる\n\nデータセンター…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/KCkcPUkkLXLzriAGq9iUrg-2560-80.jpg"
     },
     {
       "Title": "未来的な蚊取りレーザーが購入可能になり、ビデオで装置の動作が示されています - 個人用防空システムのように虫を撃墜する小型装置ですが、価格は 1,000 ドルです",
@@ -8463,8 +8598,8 @@
       "ImageURL": "https://www.techpowerup.com/img/IlHZP7ChIvB57MLZ.jpg"
     },
     {
-      "Title": "My Experience at the InfiMaker K1 Five-Axis CNC Launch Event",
-      "Link": "https://www.hackster.io/news/my-experience-at-the-infimaker-k1-five-axis-cnc-launch-event-5e3577e35557",
+      "Title": "My Experience at the InfiMaker K1 5-Axis CNC Launch Event",
+      "Link": "https://www.hackster.io/news/my-experience-at-the-infimaker-k1-5-axis-cnc-launch-event-5e3577e35557",
       "Published": "2026-08-14T21:01:06Z",
       "Source": "Hackster.io",
       "Category": "",
@@ -8472,8 +8607,8 @@
       "ImageURL": ""
     },
     {
-      "Title": "My Experience at the InfiMaker K1 5-Axis CNC Launch Event",
-      "Link": "https://www.hackster.io/news/my-experience-at-the-infimaker-k1-5-axis-cnc-launch-event-5e3577e35557",
+      "Title": "My Experience at the InfiMaker K1 Five-Axis CNC Launch Event",
+      "Link": "https://www.hackster.io/news/my-experience-at-the-infimaker-k1-five-axis-cnc-launch-event-5e3577e35557",
       "Published": "2026-08-14T21:01:06Z",
       "Source": "Hackster.io",
       "Category": "",
@@ -8535,15 +8670,6 @@
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2025/08/Google-Pixel-Journal-app-icon.jpg"
     },
     {
-      "Title": "Xbox Elite Series 3 controller gets leaked with a built-in screen, quickly gets taken down",
-      "Link": "https://www.tweaktown.com/rss/click/news/113121/?c=news-mf",
-      "Published": "2026-08-14T20:00:12Z",
-      "Source": "TweakTown",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
       "Title": "BabyBjorn バウンシングサーボによる自動お昼寝タイム",
       "Link": "https://hackaday.com/2026/08/14/automatic-naptime-with-babybjorn-bouncing-servo/",
       "Published": "2026-08-14T20:00:12Z",
@@ -8551,6 +8677,15 @@
       "Category": "toddler",
       "Summary": "BabyBjorn バウンシングサーボによる自動お昼寝タイム\n\n赤ちゃんと豊かなお金を持つ親、または豊かなお金を持つ友人は、おそらくベビービョルン ロッキング スリング チェアを称賛するでしょう。シンプルなスプリング式スリングシートにより、…\n\n赤ちゃんと豊かなお金を持つ親、または豊かなお金を持つ友人は、おそらくベビービョルン ロッキング スリング チェアを称賛するでしょう。シンプルなスプリング式スリング シートを使用すると、魔法のように子供を揺らして眠ることができます。ただし、子供を揺らす必要があります。石器時代以来、世界中の父親の伝統の中で、[Ceyhun Karataş] はそれを工夫するものと考え、サーボ、Arduino、およびいくつかの 3D プリント部品を備えた自動ベビービョルン バウンサー/ロッカーを作成しました。\n\n[Ceyhun] 氏は、このハックを使っても子供を放っておけないと苦労して指摘していますが、手が空くので、他のおもちゃをいじくりながらジュニアを満足させておくことができます。たとえば、音楽プレーヤーは人気の定番です。\n\n[Ceyhun] の発明を複製するのにそれほど時間はかかりません。必要なだけ複雑ですが、それほど複雑ではありません。そのようなプロジェクトには十分な時間が必要です。サーボであるFutaba S3003は、3Dプリントされたケース内のロッカーの底に取り付けられており、跳ねるシート部分に結ばれた紐で赤ちゃんを巻き込みます。ベビービョルンの内蔵スプリングはジュニアを跳ね返します。前述したように、Arduino Nano はサーボを制御し、ビルド内の 2 つのポテンショメータを使用して、バウンスの速度と振幅を個別に制御して、完璧な昼寝時間の比率を得ることができます。ハードウェアと子供を除いて、開始するために必要なものはすべて上記のリンクから入手できます。下のビデオで実際に動作している様子を見ることができます。トルコ語のサムネイルから心配するかもしれませんが、AI 自動吹き替えではなく、本物の英語の音声が付いています。\n\n赤ちゃんはいる…",
       "ImageURL": "https://hackaday.com/wp-content/uploads/2026/08/babyrockerfeat.png"
+    },
+    {
+      "Title": "Xbox Elite Series 3 controller gets leaked with a built-in screen, quickly gets taken down",
+      "Link": "https://www.tweaktown.com/rss/click/news/113121/?c=news-mf",
+      "Published": "2026-08-14T20:00:12Z",
+      "Source": "TweakTown",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
     },
     {
       "Title": "できる限りすべての Pixel バッテリー ハックのベンチマークを行った結果、実際に機能するものは次のとおりです",
@@ -8866,141 +9001,6 @@
       "Category": "Wolverine",
       "Summary": "インソムニアックはウルヴァリンのサブキャラクターとしてプレイすることを強制しません\n\nインソムニアックは、マーベルのウルヴァリンにはプレイアブルキャラクターが 1 人だけ登場し、サイドキャラクターのゲームプレイセクションを導入するのではなく、ウルヴァリン自身に完全に焦点を当てることを認めました。この明確化は、最近のストーリートレーラーでのジーン・グレイの登場がプレイ可能なシーケンスを示唆しているのではないかとファンが推測した後に発表されました。\n\nインソムニアックはウルヴァリンのサブキャラクターとしてプレイすることを強制しません\n\nMatthew Wilson 1 時間前 注目のテクノロジー ニュース , ソフトウェア \u0026 ゲーム\n\nインソムニアックは、マーベルのウルヴァリンにはプレイアブルキャラクターが 1 人だけ登場し、サイドキャラクターのゲームプレイセクションを導入するのではなく、ウルヴァリン自身に完全に焦点を当てることを認めました。この明確化は、最近のストーリートレーラーでのジーン・グレイの登場がプレイ可能なシーケンスを示唆しているのではないかとファンが推測した後に発表されました。 GamesRadar とのインタビューで、上級プロジェクト ディレクターのジェス・ライナー・リード氏とテクノロジー責任者のマイク・フィッツジェラルド氏がこの瞬間について直接語りました。ジーン・グレイのシーンについて尋ねられたとき、両開発者は「ウルヴァリンが唯一のプレイアブルキャラクターです」と答えた。フィッツジェラルド氏は、セイバートゥース、ミスティーク、ジーン・グレイなどのキャラクターが戦闘中に出現し、チームアップの動きを支援するが、プレイヤーからコントロールを奪うことはないと付け加えた。インソムニアック氏は、サイドキャラクターは今後もストーリーとゲームプレイの両方で意味のある役割を果たし、戦いでウルヴァリンを動的にサポートし、チーム全体のダイナミクスに貢献すると説明した。ただし、スタジオの優先事項は、ペースやメカニズムの変化を避け、ウルヴァリンの能力のみを中心とした一貫したアクシ…",
       "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/06/WOLVERINE-732x330.jpg"
-    },
-    {
-      "Title": "安価な黄色のディスプレイを使用して誰でも構築できる 5 つの ESP32 プロジェクト",
-      "Link": "https://www.xda-developers.com/esp32-projects-anyone-can-build-cheap-yellow-display/",
-      "Published": "2026-08-14T15:00:10Z",
-      "Source": "XDA",
-      "Category": "ESP32 CYD",
-      "Summary": "安価な黄色のディスプレイを使用して誰でも構築できる 5 つの ESP32 プロジェクト\n\nCYD は、強力でありながらアクセスしやすいプロジェクトを作成したい初心者に最適です\n\n安価な黄色のディスプレイを使用して誰でも構築できる 5 つの ESP32 プロジェクト\n\nBy Tanveer Singh 公開 2026 年 8 月 14 日、午前 11:00 EDT 7 年間の勤務を経て、Tanveer は執筆とテクノロジーへの愛が抑えられないことに気づきました。マーケティングの MBA を取得し、PC 構築ビジネスのオーナーでもある彼は、PC ハードウェア、テクノロジ、および Windows について執筆しています。 Web でアイデアを探していないときは、PC を構築したり、アニメを見たり、RTX 3080 でスマッシュ カートをプレイしたりしています (ため息)。 XDA アカウントにサインインする 初心者はコーディングを知らなくても ESP32 に取り組むことができますが、特にマイクロコントローラーを複数のセンサーやディスプレイに接続する場合、すべての摩擦が解消されるわけではありません。 ESP32-2432S028R、またはチープ イエロー ディスプレイ (CYD) は、2.8 インチのカラー タッチスクリーン、RGB LED、microSD カード スロット、光センサー、およびスピーカー回路を備えた ESP32-WROOM-32 ボードを事前に組み立てることによって、この問題を解決します。\n\nこの 15 ～ 20 ドルのすぐに使えるアセンブリにより、誰でも驚くほど簡単にディスプレイ ベースの ESP32 プロジェクトを始めることができます。画面はすでにボードに接続されており、タッチ コントローラーは配線されており、長いセットアップ プロセスは数分に短縮されます。残っているのは、選択したプロジェクトで CYD を使用できるようになる前に、ライブラリ構成を微調整することだけです。\n\nCYD の microSD カード スロットは、ESP32 プロジェクトにクラウドへ…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/06/esp32-cyd-1.jpg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
-      "Title": "この Pixel 11 Pro XL プロモーション コードは 150 ドル節約され、Amazon ギフトカードとスタックできます",
-      "Link": "https://www.androidauthority.com/amazon-pixel-11-pro-xl-promo-code-deal-3698895/",
-      "Published": "2026-08-14T14:57:18Z",
-      "Source": "Android Authority",
-      "Category": "Google Pixel 11",
-      "Summary": "この Pixel 11 Pro XL プロモーション コードは 150 ドル節約され、Amazon ギフトカードとスタックできます\n\nPixel 11 Pro XL は、プロモーション コードのおかげで Amazon で 150 ドルの予約割引を受けました。また、200 ドルのギフトカードと重ねて購入することもできます。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nこの Pixel 11 Pro XL プロモーション コードは 150 ドル節約され、Amazon ギフトカードとスタックできます\n\n0 • Joe Maring / Android Authority Google Discover でフォローしてください 優先ソースとして追加 Amazon はすでに、より魅力的な Pixel 11 Pro XL の予約セールの 1 つを提供していましたが、無視するのがはるかに困難になりました。プロモーション コード PIXEL11 を使用すると、携帯電話から 150 ドル追加で購入できるようになり、割引額は Amazon の既存の 200 ドル ギフト カード オファーと重複します。\n\nこれにより、256GB Pixel 11 Pro XL は 1,149 ドルに下がり、それでも 200 ドルの Amazon ギフトカードが得られます。 512GB モデルは 1,269 ドルに値下げされ、1TB バージョンは 1,499 ドルになり、それぞれに同じ 200 ドルのクレジットが適用されます。\n\n単一のメーカーに結び付けられたストアクレジットとは異なり、Amazon クレジットは小売業者が販売するほとんどすべてのものに使用できるため、ギフトカードはすでに適切なインセンティブでした。これに直接 150 ドルの割引を追加すると、特に XL モデルの購入をすでに計画している場合には、予約注文オファーがさらに魅力的になります。\n\n注意すべき点の 1 つは、PIXEL11 コードは現在 Pixel 11 P…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-xl-hands-on-5-scaled.jpg"
-    },
-    {
-      "Title": "鎌孫六レビュー: RAM サーマルは優れているが、他の部分で改善が必要",
-      "Link": "https://www.tomshardware.com/pc-components/air-cooling/scythe-magoroku-review",
-      "Published": "2026-08-14T14:42:29Z",
-      "Source": "Tom's Hardware",
-      "Category": "Cooling",
-      "Summary": "鎌孫六レビュー: RAM サーマルは優れているが、他の部分で改善が必要\n\nScythe の孫六は興味深いクーラーですが、AMD よりも Intel Arrow Lake システムに適している可能性があります。\n\nScythe の孫六は RAM を効果的に冷却しますが、AMD の Ryzen 9 9950X3D を使用した CPU 熱テストでは印象的な結果が得られませんでした\n\n+ 取り付け用ドライバー付属\n\n- AMD の Ryzen 9 9950X3D との組み合わせはあまり良くありません\n\nTom's Hardware を信頼できる理由 当社の専門レビュー担当者は、お客様が最適なものを選択できるよう、製品とサービスのテストと比較に時間を費やしています。テスト方法について詳しくは、こちらをご覧ください。\n\nページ 1: 機能と仕様\n\nページ 2: PBO のパフォーマンスと最大騒音レベル\n\n一部のクーラー競合他社とは異なり、日本に本拠を置くScytheは、中国と台湾の工場と提携してエアクーラー、ファン、その他のPCハードウェアを製造するファブレス企業です。同社は 20 年以上にわたり、主に静音性能を目的とした冷却製品を提供してきました。私たちは、ファンに人気の FUMA 3 エアクーラーなど、同社の以前の製品のテストを楽しんできました。今日は、Scythe の最新製品、Magoraku について説明します。これは、Scythe の Wonder Tornado 120 ファン 2 つと組み合わせたデュアル タワー ヒートシンクです。\n\nこのCPUクーラーのスペックや特徴を見ていきましょう。次に、孫六が最高の CPU クーラーのリストに入るに値するかどうかを確認するために、熱とノイズのベンチマークを調べます。\n\n134(幅)×142.5(奥行き)×155mm(高さ)\n\nAMD の Ryzen 9 9950X3D による最大 TDP (当社のテスト)\n\nノイズ正規化: 平均 \u003e228W\n\n鎌孫六クーラーの特徴\n\n▶️ デュアルタワーヒートシンク、6 本の銅製ヒートパイプ\n…",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/YVvGJJKeJfkZSNR8mHURg3-2560-80.jpg"
-    },
-    {
-      "Title": "大容量バッテリーと 200MP カメラを搭載したこのフラッグシップがもうすぐ登場します",
-      "Link": "https://www.androidauthority.com/poco-f9-pro-ultra-specs-pricing-leak-3698809/",
-      "Published": "2026-08-14T14:41:04Z",
-      "Source": "Android Authority",
-      "Category": "Xiaomi",
-      "Summary": "大容量バッテリーと 200MP カメラを搭載したこのフラッグシップがもうすぐ登場します\n\nPOCOの次期F9 ProおよびF9 Ultraスマートフォンがリークされ、大容量バッテリーを含むハードウェア仕様が明らかになりました。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\n大容量バッテリーと 200MP カメラを搭載したこのフラッグシップがもうすぐ登場します\n\n0 • Winfuture / POCO Google Discover でフォローしてください 優先ソースとして追加してください TL;DR リークにより、大型バッテリーやクアルコムの最新シリコンを含む、次期 POCO F9 Pro および F9 Ultra のハードウェア仕様が明らかになりました。\n\n2つの携帯電話は、最近中国でデビューしたRedmi K100 ProとK100 Pro MaxのEU向けバージョンになると予想されています。\n\nどちらの携帯電話も Bose ブランドのオンボード スピーカーを備えていますが、F9 Ultra にはリア スピーカーの周りに LED 通知リングも含まれています。\n\nスマートフォンの平均バッテリー容量は年々増加し続けており、アナリストらはこの現象は中国のスマートフォンブランドとバッテリー技術の向上によるものだと考えています。 XiaomiのサブブランドPOCOは、そのバッテリー技術をヨーロッパ市場に導入する準備をしており、リークは現在、その次の主力製品の早期外観を提供しています。\n\nWinFuture による独占レポートでは、最近中国でデビューした Redmi K100 Pro と Pro Max を事実上ヨーロッパでリブランドした 2 つのプレミアム グレードのフラッグシップを垣間見ることができます。最高級のPOCO F9 Ultraのリークされたハイライトの中には、巨大な8,050mAhバッテリーが含まれていますが、小型のF9 Proには代わりに6,330mAhバッテリーパックが搭載されて…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/Poco-F9-WF.jpeg"
-    },
-    {
-      "Title": "240 Hz IPS パネル、G-Sync、正確な色を備えた 27 インチ モニター: KTC H27E6S レビュー",
-      "Link": "https://www.notebookcheck.net/27-Inch-Monitor-with-a-240-Hz-IPS-Panel-G-Sync-and-Accurate-Colors-KTC-H27E6S-Review.1368073.0.html",
-      "Published": "2026-08-14T14:39:00Z",
-      "Source": "Notebookcheck",
-      "Category": "reviews",
-      "Summary": "240 Hz IPS パネル、G-Sync、正確な色を備えた 27 インチ モニター: KTC H27E6S レビュー\n\n27 インチ画面、QHD 解像度、240 Hz リフレッシュ レートを備えた KTC H27E6S ゲーミング モニターの Notebookcheck レビュー。\n\n評決: 240 Hz の手頃な価格の 27 インチ モニター\n\nテストでは、KTC H27E6S は良い印象を与えました。 240 Hz の高いリフレッシュ レートと高速応答時間を備えた 27 インチ IPS パネルは、PC とコンソールの両方で、ペースの速いシューティングゲームでも問題なく処理します。ただし、IPS パネルでは意味のある HDR 効果を生み出すのに十分な明るさ​​が得られないため、HDR ゲームは実際には実現可能ではありません。\n\nこのモニターは、優れた明るさ、マットな表示面、PWM ちらつきがないため、特に画面を回転して縦向きモードにできるため、生産性の高い作業にも適しています。付属のスタンドには広範な調整オプションがありますが、照明に関してはほとんど機能しません。\n\nH27E6S は工場出荷時の設定でも sRGB 色空間で正確な色再現を実現しており、画像編集にも適しています。全体として、それは公正な価格で優れたオールラウンダーです。ただし、たまにしかゲームをしない場合は、リフレッシュ レートは低くても、USB-C Power Delivery や KVM スイッチなどの機能が充実した競合モデルの方が魅力的である可能性があります。\n\nKTC H27E6S は、Amazon Germany で €239.99 で入手できます。\n\n翻訳者注: 米国では、このモニターは Amazon で 220 ドルで購入できます。\n\n評決 – ゲーマーだけでなく優れた IPS モニター\n\nH27E6S では、KTC は主にゲーマー向けに、IPS パネルと 240 Hz リフレッシュ レートを備えた手頃な価格の 27 インチ モニターを提供します。ただし、正確な色とマットなパネルのおかげで…",
-      "ImageURL": "https://www.notebookcheck.net/fileadmin/Notebooks/KTC/H27E6S/ktc_H27E6S_16.JPG"
-    },
-    {
-      "Title": "240 Hz IPS パネル、G-Sync、正確な色を備えた 27 インチ モニター: KTC H27E6S レビュー",
-      "Link": "https://www.notebookcheck.net/27-inch-monitor-with-a-240-Hz-IPS-panel-G-Sync-and-accurate-colors-KTC-H27E6S-review.1368073.0.html",
-      "Published": "2026-08-14T14:39:00Z",
-      "Source": "Notebookcheck",
-      "Category": "reviews",
-      "Summary": "240 Hz IPS パネル、G-Sync、正確な色を備えた 27 インチ モニター: KTC H27E6S レビュー\n\n27 インチ画面、QHD 解像度、240 Hz リフレッシュ レートを備えた KTC H27E6S ゲーミング モニターの Notebookcheck レビュー。\n\n評決: 240 Hz の手頃な価格の 27 インチ モニター\n\nテストでは、KTC H27E6S は良い印象を与えました。 240 Hz の高いリフレッシュ レートと高速応答時間を備えた 27 インチ IPS パネルは、PC とコンソールの両方で、ペースの速いシューティングゲームでも問題なく処理します。ただし、IPS パネルでは意味のある HDR 効果を生み出すのに十分な明るさ​​が得られないため、HDR ゲームは実際には実現可能ではありません。\n\nこのモニターは、優れた明るさ、マットな表示面、PWM ちらつきがないため、特に画面を回転して縦向きモードにできるため、生産性の高い作業にも適しています。付属のスタンドには広範な調整オプションがありますが、照明に関してはほとんど機能しません。\n\nH27E6S は工場出荷時の設定でも sRGB 色空間で正確な色再現を実現しており、画像編集にも適しています。全体として、それは公正な価格で優れたオールラウンダーです。ただし、たまにしかゲームをしない場合は、リフレッシュ レートは低くても、USB-C Power Delivery や KVM スイッチなどの機能が充実した競合モデルの方が魅力的である可能性があります。\n\nKTC H27E6S は、Amazon Germany で €239.99 で入手できます。\n\n翻訳者注: 米国では、このモニターは Amazon で 220 ドルで購入できます。\n\n評決 – ゲーマーだけでなく優れた IPS モニター\n\nH27E6S では、KTC は主にゲーマー向けに、IPS パネルと 240 Hz リフレッシュ レートを備えた手頃な価格の 27 インチ モニターを提供します。ただし、正確な色とマットなパネルのおかげで…",
-      "ImageURL": "https://www.notebookcheck.net/fileadmin/Notebooks/KTC/H27E6S/ktc_H27E6S_16.JPG"
-    },
-    {
-      "Title": "私は Nextcloud を捨てて、もっと軽いものを探しましたが、機能を一つも見逃していません。",
-      "Link": "https://www.xda-developers.com/ditched-nextcloud-something-lighter-dont-miss-single-feature/",
-      "Published": "2026-08-14T14:30:10Z",
-      "Source": "XDA",
-      "Category": "Self-Hosting",
-      "Summary": "私は Nextcloud を捨てて、もっと軽いものを探しましたが、機能を一つも見逃していません。\n\nSeafile は私の新しい友達です。\n\n私は Nextcloud を捨てて、もっと軽いものを探しましたが、機能を一つも見逃していません。\n\nBy Anurag Singh 公開 2026 年 8 月 14 日、午前 10 時 30 分 EDT Anurag は、過去 5 年間、Windows、Android、Apple を中心にテクノロジーをカバーしてきた経験豊富なジャーナリスト兼著者です。彼は Android Police、Neowin、Dexerto、MakeTechEasier などのサイトに執筆しています。アヌラグは常にテクノロジーに興味があり、最新のガジェットを手に入れるのが大好きです。先延ばしにしていないときは、おそらく彼が映画館で最新映画を鑑賞したり、ベッドから Twitter をスクロールしたりしているのを見かけるでしょう。 XDA アカウントにサインインする 私が Nextcloud を使い始めたのは、自分のサーバーで実行できる Google Drive のプライベートな代替手段が欲しかったからです。その仕事はうまくいきましたが、Nextcloud は長年にわたってはるかに大きなプラットフォームに成長しました。カレンダー、連絡先、電子メール、ビデオ通話、メモ、オフィス文書などを管理できます。そういったものはほとんど使っていませんでした。ほとんどの日、私はファイル アプリを開いて、その周りのすべてを無視します。\n\nしばらくすると、コンピューターと携帯電話の間でファイルを同期するためだけに生産性プラットフォーム全体を実行するのは過剰に見えるようになりました。私はそれを Seafile に置き換えました。Seafile は主にファイルの保存、同期、共有に重点を置いています。リモート アクセス、モバイル アプリとデスクトップ アプリ、共有リンク、バージョン履歴はまだ残っています。私が残した機能は、最初から開かなかった機能なので、Nextcloud から離れて以…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/img_20260810_012608.jpg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
-      "Title": "The .Beat Goes On",
-      "Link": "https://www.hackster.io/news/the-beat-goes-on-2b57d8e81cc5",
-      "Published": "2026-08-14T14:24:04Z",
-      "Source": "Hackster.io",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "私を著名な LinkedIn の賢人に変えてくれたこの AI ツールには、いくら感謝してもしきれません。",
-      "Link": "https://www.androidauthority.com/linkedin-quote-generator-ai-tool-roundup-3698713/",
-      "Published": "2026-08-14T14:15:20Z",
-      "Source": "Android Authority",
-      "Category": "LinkedIn",
-      "Summary": "私を著名な LinkedIn の賢人に変えてくれたこの AI ツールには、いくら感謝してもしきれません。\n\n今週の新しい AI ツールには、スナークで繁栄する LinkedIn ポスト生成ボット、テレビや映画の提案ツールなどが含まれます。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nAI 私を LinkedIn の著名な賢人に変えてくれたこの AI ツールには、いくら感謝してもしきれません。\n\n0 • Andy Walker / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください サービスの基礎として使用されるか、アプリの構築に使用されるか、アプリ内の機能を強化するために使用されるかにかかわらず、生成 AI はあらゆる場所に存在します。しかし、非常に多くの新製品が常に登場しているので、どれをチェックする価値があるでしょうか?\n\n私たちは、知っておくべき最高かつ最新の AI アプリとサービスをカバーする新しい定期シリーズを支援するためにここにいます。\n\n新しい AI アプリとサービスの前版をここでご覧ください。\n\nあなたのアプリやサービスをこのシリーズの今後の版で検討してほしい場合、または含める価値のあるアプリを見つけた場合は、メールでご連絡いただくか、下にコメントをドロップしてください。あるいは、あなたのアプリがすべての素晴らしい読者に確実に紹介されるようにするには、パートナーシップ チームにご連絡ください。\n\nLinkedIn で賢く見えることがかつてないほど簡単になりました\n\nAndy Walker / Android Authority LinkedIn は、潜在的な従業員と潜在的な雇用主を結び付けるソーシャル ネットワークとしてよく知られていますが、ありきたりな言葉を孔雀にするのに最適な場所でもあります。嫌味な言葉、有益な言葉、または深い言葉を毎日考案するのは難しいかもしれませんが、だからこそ人類は AI、特に…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/linkedin-cringebot-3000-ai-tool-2.jpg"
-    },
-    {
-      "Title": "Amazon Prime が今月無料の PC ゲーム 9 作品を提供",
-      "Link": "https://www.kitguru.net/gaming/matthew-wilson/amazon-prime-offers-9-free-pc-games-to-claim-this-month/",
-      "Published": "2026-08-14T14:15:13Z",
-      "Source": "KitGuru",
-      "Category": "Steelrising",
-      "Summary": "Amazon Prime が今月無料の PC ゲーム 9 作品を提供\n\nAmazon プライム加入者向けの今月の無料ゲームが発表され、Steelrising が主役を務めました。 8 月のラインナップには、アクション タイトル、インディーズ リリース、物語性アドベンチャーが含まれており、すべて GOG、Epic Games ストア、Amazon ゲーム アプリで入手できます。\n\nAmazon Prime が今月無料の PC ゲーム 9 作品を提供\n\nMatthew Wilson 52 分前 ソフトウェアとゲーム\n\nAmazon プライム加入者向けの今月の無料ゲームが発表され、Steelrising が主役を務めました。 8 月のラインナップには、アクション タイトル、インディーズ リリース、物語性アドベンチャーが含まれており、すべて GOG、Epic Games ストア、Amazon ゲーム アプリで入手できます。今月の注目の追加は Steelrising です。フランス革命の別バージョンを舞台に、プレイヤーはやりがいのあるアクション RPG でルイ 16 世の機械軍と戦う自動人形のボディーガード、イージスの役割を引き受けます。このゲームは、回避、受け流し、スタミナ管理を中心に構築された正確な戦闘を特徴とし、大きなオートマトンのボスには忍耐とスキルが要求されます。もう 1 つの注目すべきタイトルは、Airship: Kingdoms Adrift です。これはプレイヤーが艦隊を構築し、乗組員を管理し、ディーゼル ファンタジーの世界で戦略的な戦闘に参加する戦術的な飛行船戦闘 RPG です。日付とプラットフォームを含む、今月利用可能なすべてのゲームは次のとおりです。 現在利用可能 • Right and Down (GOG) • Hiveswap Friendsim (GOG) 8 月 13 日 • Pyramids and Aliens: Escape Room (GOG) • Airship: Kingdoms Adrift (Epic Games ストア) • Ste…",
-      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/08/steelrising-732x330.jpg"
-    },
-    {
-      "Title": "カリフォルニアで積荷泥棒が警備員を襲撃してAIハードウェアの輸送をハイジャック — 厚かましい窃盗犯はPIT作戦や追突戦術を用いて闇市場向けの商品を確保する",
-      "Link": "https://www.tomshardware.com/tech-industry/cargo-thieves-rammed-security-escorts-to-hijack-ai-hardware-shipments-in-california",
-      "Published": "2026-08-14T14:13:41Z",
-      "Source": "Tom's Hardware",
-      "Category": "Tech Industry",
-      "Summary": "カリフォルニアで積荷泥棒が警備員を襲撃してAIハードウェアの輸送をハイジャック — 厚かましい窃盗犯はPIT作戦や追突戦術を用いて闇市場向けの商品を確保する\n\n盗難された AI ハードウェアは現在、海外で米国の小売価格を超える価格で取引される可能性があります。\n\nカリフォルニアで積荷泥棒が警備員を襲撃してAIハードウェアの輸送をハイジャック — 厚かましい窃盗犯はPIT作戦や追突戦術を用いて闇市場向けの商品を確保する\n\n盗難された AI ハードウェアは現在、海外で米国の小売価格を超える価格で取引される可能性があります。\n\n(画像クレジット: Tom's Hardware) リンクをコピー\n\n1 会話に参加してください フォローしてください Google ニュースレターの優先ソースとして追加してください ニュースレターを購読してください WIREDの調査によると、貨物泥棒らはここ数カ月間、カリフォルニアの道路で2台の民間警備護衛車両を走行不能にさせ、その後、護衛が警備していたAIデータセンターのハードウェアから数百万ドルを持ち去ったという。どちらの荷物もシリコンバレーから南カリフォルニアに向かっていたが、どちらのトラックも回収されていない。この攻撃は、2026 年第 2 四半期に米国とカナダでの貨物盗難被害が前年比 2 倍以上の 3 億 460 万ドルに増加したことや、制限付きの Nvidia サーバーが中国で米国の小売価格の約 2 倍で販売されていることを受けて発生しました。\n\n元ロサンゼルス保安官の刑事で、現在は貨物犯罪の顧問をしているジェラルド・パチューカ氏は『WIRED』に対し、護衛の1人は現場から逃走したドライバーに追突され、もう1人はPIT操作でスピンして路外に転落したと語った。これは警察がカーチェイスを終わらせるために使うのと同じ戦術だ。護衛が無効になると、セミトラックは運転を続けて消えた。捜査当局はトラック運転手が共謀しており、両方の窃盗には最近乗り換えた自動車運送業者の番号が関係しており、犯罪者が合法的な会社の連邦登録に基づいて貨物を予約できるようにする…",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/Shoacr4XJZW9Mkip4RDNCA-2560-80.jpg"
-    },
-    {
-      "Title": "今日ホーム アシスタントのセットアップをやり直すとしたら、次のように違うことをするでしょう",
-      "Link": "https://www.xda-developers.com/if-i-started-my-home-assistant-setup-over-today-heres-what-id-do-differently/",
-      "Published": "2026-08-14T14:00:10Z",
-      "Source": "XDA",
-      "Category": "Home Assistant",
-      "Summary": "今日ホーム アシスタントのセットアップをやり直すとしたら、次のように違うことをするでしょう\n\nもう一度すべてをやり直すとしたら。\n\n今日ホーム アシスタントのセットアップをやり直すとしたら、次のように違うことをするでしょう\n\nBy Rich Edmonds 公開日 2026 年 8 月 14 日、午前 10:00 EDT リチャードは XDA の PC ハードウェア リードであり、ほぼ 20 年間テクノロジー業界をカバーしてきました。彼は若い頃から PC を作っており、コンテンツを作成していないときは、どこかのシャーシの中にいることがよくあります。 XDA アカウントにサインインする ホーム アシスタントは、もう何年も我が家の必需品です。オフセットとは違うことを 1 つ挙げるなら、すべてのスマート ホーム デバイスに Zigbee を使用することです。混雑した Wi-Fi 帯域からクライアントを分離することを利用して、Zigbee ネットワーキング トレインに飛び乗るには、あまりに長い時間がかかりました。全体的に信頼性が高いだけでなく、Zigbee デバイスはリピーターとしても機能し、スマート ホームの範囲を拡大できます。\n\nZigbee はゼロから始めるための手段です\n\n新しいスマートホームのために追加のセットアップ手順を実行する価値があります\n\nZigbee を整理して準備が整うまで、しばらく待つつもりはありません。スマート ホーム デバイスを接続するために Zigbee (または Matter など) を選択すると、ネットワーク インフラストラクチャがすぐに提供されます。スマート ホーム ハードウェアは Wi-Fi と Zigbee の両方をサポートしていません。通常、それはどちらか一方であり、私のように Wi-Fi 対応デバイスを選択して道を進むと、最終的にはさまざまな接続が混在する状況に遭遇し、かなりの混乱が生じます。\n\nまた、パックの残りの部分を開梱する前に、デバイスを追加してすぐにオートメーションを作成することに迷いがちです。これは、信号強度の弱さなどによ…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/zigbee-home-assistant-phone-outside.jpg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
-      "Title": "今週のセキュリティ: BugTraq、AI ハック、飛行機の機嫌が悪い",
-      "Link": "https://hackaday.com/2026/08/14/this-week-in-security-bugtraq-ai-hacks-and-being-dumb-on-planes/",
-      "Published": "2026-08-14T14:00:01Z",
-      "Source": "Hackaday",
-      "Category": "wifi",
-      "Summary": "今週のセキュリティ: BugTraq、AI ハック、飛行機の機嫌が悪い\n\n数年間の休止期間を経て、由緒ある BugTraq メーリング リストが戻ってきました。 BugTraq は、ほぼすべてのベンダーが脆弱性を公開していた初期の頃から、数十年にわたって脆弱性が公開される場所でした。\n\n数年間の休止期間を経て、由緒ある BugTraq メーリング リストが戻ってきました。\n\nBugTraq は、ほぼすべてのベンダーがすべてのセキュリティ研究を敵対的な勢力とみなしていた初期の時代から、ベンダーと協力してバグの公開を調整する現代に至るまで、数十年にわたって脆弱性が公開される場所でした。バグ報奨金プログラムの台頭やその他の社会的変化により、メーリング リストは徐々に消滅しました。1993 年に始まり 2021 年に終了したメーリング リストが復活しつつあります。新しいメンテナの Jonathan Brossard は発表の中で、「使命は変わっていない。完全な情報開示、研究者第一、企業フィルターなし」と述べています。\n\n万が一の場合に備えて、ここにいる人に「飛行機の中で愚かなことをしないでください」と伝えておく必要があります。\n\nラスベガスで開催されたハッカーカンファレンス「DEF CON」から帰宅した誰かが機内Wi-Fiをいじろうと決めたようで、おそらく今は愚かなことをしている「発見」段階に入っているようだ。元の報道以上の公的続報はまだない。ラスベガスを出発するデルタ航空の乗客が、「Delta WiFi FAST」という偽の WiFi ホットスポットを持ち出し、他の乗客を騙して接続させ、サービス拒否攻撃を使用して機内 WiFi を無効にしようとした。\n\nパイロットからの録音されたメッセージには、正規の WiFi ネットワークが「妨害」されたことが記載されていますが、これは技術的に正しいとは考えられません。無線通信は送信干渉によって妨害される可能性がありますが、ほとんどの WiFi ネットワークは、WiFi 標準設計の見落としにより、いくつかの基本的なサービス拒否攻撃の影響を受…",
-      "ImageURL": "https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg"
-    },
-    {
-      "Title": "ギガバイト、ベテラン AMD ソケット AM4 用の 2 つの新しい B450 マザーボードを発売",
-      "Link": "https://www.techpowerup.com/351612/gigabyte-launches-two-new-b450-motherboards-for-veteran-amd-socket-am4",
-      "Published": "2026-08-14T13:49:52Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "ギガバイト、ベテラン AMD ソケット AM4 用の 2 つの新しい B450 マザーボードを発売\n\nギガバイトは、ベテランの AMD AM4 ソケット用に 2 つの新しい B450 microATX マザーボードを発売しました。はい、間違いありません。ボードは 2018 年に発売された B450 チップセットを使用しています。B450M D3HP および B450M D3HP WIFI6E は、低予算のビルドと AM4 プラットフォームのアップグレードを目的としており、AMD のサポートを提供しています...\n\nギガバイト、ベテラン AMD ソケット AM4 用の 2 つの新しい B450 マザーボードを発売\n\n2026 年 4 月 16 日 AMD、Ryzen 7 5800X3D を「AM4 10th Anniversary Edition」として再発売 (198)\n\n2026 年 7 月 31 日 GIGABYTE、最新の接続機能を備えた B550 X シリーズ ソケット AM4 マザーボードを発売 (11)\n\n2026 年 7 月 27 日 GIGABYTE イントロ B550 AORUS Elite WiFi7 ソケット AM4 マザーボード (17)\n\n2026 年 6 月 20 日 ASRock Intros B550 Rock WiFi ソケット AM4 マザーボード (29)\n\n2026 年 1 月 2 日 GIGABYTE が 4 つの新しい AMD Socket AM4 マザーボードをリリース (22)\n\n2026 年 7 月 24 日 ギガバイトが DDR5 ボトルネックを解消: マザーボードの全ラインナップが CXSH (CXMT) メモリをサポート (13)\n\n2026 年 6 月 22 日 GIGABYTE、RTX 5080 AORUS Infinity Wood、RTX 5080 および RTX 5070 Ti AORUS Infinity グラフィックス カードを発売 (18)\n\n2026 年 6 月 29 日 GIGABYTE が X…",
-      "ImageURL": "https://www.techpowerup.com/img/G3uA6kIcUNX2A5PI.jpg"
-    },
-    {
-      "Title": "Geometric Future がモデル 3 ケース、新しい Eskimo Plus 36 AIO、および新しいファンを発売",
-      "Link": "https://www.kitguru.net/components/cases/matthew-wilson/geometric-future-launches-model-3-case-new-eskimo-plus-36-aio-and-new-fans/",
-      "Published": "2026-08-14T13:30:18Z",
-      "Source": "KitGuru",
-      "Category": "news",
-      "Summary": "Geometric Future がモデル 3 ケース、新しい Eskimo Plus 36 AIO、および新しいファンを発売\n\nGeometric Future は今月、Model 3 mATX ケース、刷新された Eskimo Plus 36 液体クーラー、新しい Squama 3003‑12 パフォーマンス ファンを含む 3 つの新製品でハードウェア ラインアップを拡張します。 Model 3 は、フロントマウント PSU レイアウト、デュアル強化ガラス パネル、および GPU のサポートを中心に構築されたコンパクトな 27L micro-ATX シャーシです。\n\nGeometric Future がモデル 3 ケース、新しい Eskimo Plus 36 AIO、および新しいファンを発売\n\nMatthew Wilson 2 時間前 ケース、一般技術\n\nGeometric Future は今月、Model 3 mATX ケース、刷新された Eskimo Plus 36 液体クーラー、新しい Squama 3003‑12 パフォーマンス ファンを含む 3 つの新製品でハードウェア ラインアップを拡張します。 Model 3 は、フロントマウント PSU レイアウト、デュアル強化ガラス パネル、および最大 435 mm 長の GPU のサポートを中心に構築されたコンパクトな 27L micro-ATX シャーシです。内部には、フィギュア用の専用棚と並んで、上部に最大 8 つの 120mm ファンと 360mm ラジエーターを搭載するスペースもありますが、これは必要に応じて取り外すこともできます。ケースには複数のカラー オプションがあり、ファンレスまたは 5 つの Squama 3003‑12 ARGB PWM ファンが事前にインストールされているものを購入できます。 Eskimo Plus 36 は、プリインストールされた Squama 3003‑12 ファン、1.5L/min ポンプ、および幅広い CPU をカバーする大型の 55.8×55.8mm 銅製コールドプレ…",
-      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/08/model34-732x330.png"
     }
   ]
 }
