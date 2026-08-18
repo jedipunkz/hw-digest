@@ -1,6 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Tue, 18 Aug 2026 17:42:02 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Tue, 18 Aug 2026 18:55:37 +0000</lastBuildDate>
+<item><title>PolyShot カメラはノスタルジーに焦点を当てています</title><link>https://hackaday.com/2026/08/18/polyshot-camera-focuses-on-nostalgia/</link><guid isPermaLink="true">https://hackaday.com/2026/08/18/polyshot-camera-focuses-on-nostalgia/</guid><pubDate>Tue, 18 Aug 2026 18:30:47 +0000</pubDate><description><![CDATA[<p>PolyShot カメラはノスタルジーに焦点を当てています
+
+私たち個人としては、古いデジタル オートフォーカス カメラを振り回している人をまだ見たことがありませんが、再び流行していると聞いています。それにしてもなぜでしょうか？人々はその画質に懐かしさを感じています。一方…
+
+私たち個人としては、古いデジタル オートフォーカス カメラを振り回している人をまだ見たことがありませんが、再び流行していると聞いています。それにしてもなぜでしょうか？人々はその画質に懐かしさを感じています。確かに、どこかでビンテージ モデルをおそらく高額で購入することもできましたが、[アーノフ シャルマ] は独自のバージョンを構築し、それを PolyShot と呼ぶことにしました。
+
+このプロジェクトの中核となるのは Unihiker K10 開発ボードで、ESP32-S3、なんと 2 メガピクセルのカメラ、写真をキャプチャして画面に表示するマイクロ SD カードを使用します。難しい部分は、そう呼んでもいいかもしれませんが、カスタム PCB です。シャッター、ギャラリー、次の画像の 3 つのボタンだけがあるシンプルなボードです。バッテリーコンパートメントの位置が優れたグリップを生み出すのが気に入っています。
+
+ここでの最大の違いは、シャッター ボタンを押してから実際に画像をキャプチャするまでに数秒の遅延があることです。これは、以下の短いビデオで確認できます。トカゲなどを素早く撮影しようとしているなら、幸運を祈っています。
+
+このプロジェクトは最終的により伝統的なデジタル カメラに進化したため、[Arnov] は将来の反復で画質の問題に対処したいと考えています。同氏はバッテリー寿命も改善するとしており、現時点では1回の充電で約3時間の寿命が期待されている。最終的に、[Arnov] は Unihiker を捨て、ESP32-S3 モジュールを使用してすべてをゼロから設計したいと考えています。</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/polyshot-800.jpg" alt="PolyShot カメラはノスタルジーに焦点を当てています"></p>]]></description><source url="https://hackaday.com/2026/08/18/polyshot-camera-focuses-on-nostalgia/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/polyshot-800.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/polyshot-800.jpg"/></item>
+<item><title>Zigbee の失敗の原因はコテージの壁のせいだったが、修正に成功した費用はわずか 8 ドルだった</title><link>https://www.xda-developers.com/my-zigbee-network-kept-failing-cause-was-something-never-expected/</link><guid isPermaLink="true">https://www.xda-developers.com/my-zigbee-network-kept-failing-cause-was-something-never-expected/</guid><pubDate>Tue, 18 Aug 2026 18:30:10 +0000</pubDate><description><![CDATA[<p>Zigbee の失敗の原因はコテージの壁のせいだったが、修正に成功した費用はわずか 8 ドルだった
+
+Wi-Fi と同様に、さまざまな要因がスマート ホームの通信範囲に影響を与える可能性があります。
+
+Zigbee の失敗の原因はコテージの壁のせいだったが、修正に成功した費用はわずか 8 ドルだった
+
+クレジット: Rich Edmonds 著 2026 年 8 月 18 日午後 2 時 30 分 EDT 公開 Richard は XDA の PC ハードウェア リードであり、ほぼ 20 年間テクノロジー業界をカバーしてきました。彼は若い頃から PC を作っており、コンテンツを作成していないときは、どこかのシャーシの中にいることがよくあります。 XDA アカウントにサインインします。私はデバイスの背面 USB ポートを使用することに慣れてしまったので、信号を妨げる可能性のあるものをまったく考慮しませんでした。Zigbee ネットワークについても同様でした。私が最初にセットアップしたとき、Sonoff Zigbee 受信機が接続されていたサーバーは、現代の家庭の寝室の 1 つにありました。壁は中空だったので、信号はスマート プラグなどの電力を供給された Zigbee ハードウェアによって受信され、繰り返されるのに十分な距離まで伝わりました。しかし、古いコテージに引っ越してから、時々故障する問題が発生しました。
+
+ノード間の距離が大きくなる
+
+Zigbeeでもビームできるのはここまで
+
+家とホームオフィスが設置されている外部の建物との間の距離は約25メートルです。ドングルの到達距離は実際には最大 150 メートルですが、これは見通しの良い距離です。ドングルが家の中のデバイスと通信できるようにするには、オフィス内のいくつかの物体や外棟の壁を通過し、庭を通り抜け、さらに多くの物体を通過して、最終的に電力が供給されたスマート ソケットに到達する必要があります。
+
+測定直線上の 2 点間の距離は約 30 メートルであると考えられますが、障害物を考慮すると、範囲が狭くなることがわかり…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/zigbee-sonoff-adapter-proxmox-server.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Zigbee の失敗の原因はコテージの壁のせいだったが、修正に成功した費用はわずか 8 ドルだった"></p>]]></description><source url="https://www.xda-developers.com/my-zigbee-network-kept-failing-cause-was-something-never-expected/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/zigbee-sonoff-adapter-proxmox-server.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/zigbee-sonoff-adapter-proxmox-server.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>Zalman、新しい CNPS シリーズ デュアルタワー CPU エア クーラーを発売</title><link>https://www.techpowerup.com/351692/zalman-launches-new-cnps-series-dual-tower-cpu-air-coolers</link><guid isPermaLink="true">https://www.techpowerup.com/351692/zalman-launches-new-cnps-series-dual-tower-cpu-air-coolers</guid><pubDate>Tue, 18 Aug 2026 18:16:01 +0000</pubDate><description><![CDATA[<p>Zalman、新しい CNPS シリーズ デュアルタワー CPU エア クーラーを発売
+
+Zalman の CNPS CPU クーラー シリーズは 10 年以上にわたり、最近同社は 4 つの新しいデュアルタワー CPU エア クーラー、CNPS15X BP および CNPS12X BP をひっそりと発表しました。それぞれ標準バージョンと ARGB バージョンが用意されています。 CNPS15X BP クーラーのサイズは 126 x 135 x 159 mm、重量は 1,170 g です。
+
+Zalman、新しい CNPS シリーズ デュアルタワー CPU エア クーラーを発売
+
+2026 年 6 月 5 日 Computex 2026 での Lian Li: 新しい Lancool、O11、およびウッド パネル ケース (8)
+
+2026 年 7 月 2 日 Cooler Master、高静圧、エアフロー、低ノイズを実現する MasterFan A および M シリーズ ファンを発表 (14)
+
+2026 年 1 月 11 日 次に値上げされるのは電源と CPU クーラー、6 ～ 10% の値上げが予想される (82)
+
+2026 年 6 月 5 日 Zalman が CNPS からインスピレーションを得た ZET シリーズ CPU クーラーとスリムなコンパニオン スクリーンを展示 (7)
+
+2026 年 8 月 10 日 Noctua が PC ケースクーラーの高さ仕様の不正確さを明らかに (13)
+
+2026 年 7 月 8 日 Cooler Master が V8 ACE 3DHP シングルタワー エア クーラーを発表 (19)
+
+2026 年 6 月 4 日 Cooler Master が Computex でハイブリッド CPU クーラーと革新的なマスター フロー GPU 排気ファンを展示 (5)
+
+2026 年 6 月 6 日 ID-Cooling が PC シャーシに拡張、Computex 2026 で空冷クーラー、AIO、ファンを展示 (4)
+
+2026…</p><p><img src="https://www.techpowerup.com/img/Fwq7qvyt5x0uthvr.jpg" alt="Zalman、新しい CNPS シリーズ デュアルタワー CPU エア クーラーを発売"></p>]]></description><source url="https://www.techpowerup.com/351692/zalman-launches-new-cnps-series-dual-tower-cpu-air-coolers">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/Fwq7qvyt5x0uthvr.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/Fwq7qvyt5x0uthvr.jpg"/></item>
+<item><title>Plex はユーザーに古い TV メニューを復活させます</title><link>https://www.androidauthority.com/plex-brings-back-left-side-menu-3700033/</link><guid isPermaLink="true">https://www.androidauthority.com/plex-brings-back-left-side-menu-3700033/</guid><pubDate>Tue, 18 Aug 2026 18:06:26 +0000</pubDate><description><![CDATA[<p>Plex はユーザーに古い TV メニューを復活させます
+
+ユーザーからの苦情を受けて、Plexはテレビの大幅な再設計を撤回し、使い慣れた左側のナビゲーションメニューを復活させている。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+Plex はユーザーに古い TV メニューを復活させます
+
+0 • C. Scott Brown / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Plex は、物議を醸している UI の変更をロールバックし、メインのナビゲーション メニューを上部に移動した後、左側に戻します。
+
+このアップデートでは、お気に入りのライブラリへのアクセスが容易になったり、ライブ TV および DVR ソースをお気に入りにして並べ替えたりできる機能など、生活の質がいくつか向上しています。
+
+刷新されたエクスペリエンスはまだテスト中であり、Apple TV と Roku ではプレビュー アクセスが可能で、Android TV ではベータ アクセスが可能です。 Fire TVのサポートは今後予定されています。
+
+壊れていないものを直そうとするのは、常に危険な選択です。ユーザーの間では常に意見が分かれ、一方は不必要な変更を批判し、もう一方はそれが決して革新的ではないことに不満を抱いています。メディア ストリーミング プラットフォームの Plex については、野心的に再設計された TV インターフェイスをめぐる批判が非常に大きくなったため、最大の変更の一部を後退させています。
+
+同社は新しいフォーラムの投稿でこの変更を発表し、UI の変更の再考が顧客からのフィードバックの直接の結果であることを示しました。
+
+本日のリリースは、Apple TV と Roku のプレビュー ユーザーと、Android TV のベータ ユーザー向けにリリースされます。これは、変更に関する最大の問題の 1 つに正面から取り組ん…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2024/09/Google-TV-Streamer-Plex-app-open.jpg" alt="Plex はユーザーに古い TV メニューを復活させます"></p>]]></description><source url="https://www.androidauthority.com/plex-brings-back-left-side-menu-3700033/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2024/09/Google-TV-Streamer-Plex-app-open.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2024/09/Google-TV-Streamer-Plex-app-open.jpg"/></item>
+<item><title>TinyRetroPad は Windows メモ帳の 130 分の 1 で、実際に重要なことはすべて実行できます。</title><link>https://www.xda-developers.com/tinyretropad-130-times-smaller-than-windows-notepad-but-functional/</link><guid isPermaLink="true">https://www.xda-developers.com/tinyretropad-130-times-smaller-than-windows-notepad-but-functional/</guid><pubDate>Tue, 18 Aug 2026 18:00:10 +0000</pubDate><description><![CDATA[<p>TinyRetroPad は Windows メモ帳の 130 分の 1 で、実際に重要なことはすべて実行できます。
+
+2.73KB の書き換えにより、Windows API と基本的なテキスト エディター機能のリッチ エディットを呼び出すことで、最新のメモ帳が基本的な機能に戻ります。
+
+TinyRetroPad は Windows メモ帳の 130 分の 1 で、実際に重要なことはすべて実行できます。
+
+By Abhishek Kumar Mishra 公開 2026 年 8 月 18 日、午後 2:00 EDT アビシェクは、XDA でコンピューティングを担当する著者です。 2012 年に Lenovo G570 を購入して以来、彼はコンピューターが大好きです。アビシェクはコンピューター アプリケーションの修士号を取得し、2018 年に執筆活動を始めました。人気のあるオペレーティング システムや Web サービスに関するハウツー記事、リスト、情報投稿を書くのが大好きです。彼は Windows Insider プログラムを注意深くフォローし、新しい Insider ビルドをテストして、今後の実験的な機能やアップグレードを発見します。彼のこれまでの仕事には、「Tom&#39;s Hardware」や「Windows Most」などの評判の高い出版物との長期にわたるコラボレーションが含まれます。何も書いていないときは、ワンピースの新しいエピソードを見たり、夢中になれる何かを探したりして忙しいです。 XDA アカウントにサインインする Windows の精彩のない機能実装やアプリについて文句を言いたいとき、メモ帳のような単純なツールをめぐる口論は私のリストの最後にあります。最新の WinUI3 アプリは見た目が良く、OS のデザインと調和していますが、私はアプリの機能よりも外観を優先しません。メモ帳は 40 年以上にわたり Windows の一部であり、その起源は、OS で実行できる視覚的な機能がほとんどなかった時代に遡ります。
+
+Microsoft はメモ帳を最新のアプリに変える…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/tinyretropad-windows-11.jpg?w=1600&amp;h=900&amp;fit=crop" alt="TinyRetroPad は Windows メモ帳の 130 分の 1 で、実際に重要なことはすべて実行できます。"></p>]]></description><source url="https://www.xda-developers.com/tinyretropad-130-times-smaller-than-windows-notepad-but-functional/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/tinyretropad-windows-11.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/tinyretropad-windows-11.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>Linux の評判のせいで私は何年も Linux を無視していましたが、今では Linux が私の毎日のドライバーとなっています</title><link>https://www.xda-developers.com/ignored-linux-years-daily-driver/</link><guid isPermaLink="true">https://www.xda-developers.com/ignored-linux-years-daily-driver/</guid><pubDate>Tue, 18 Aug 2026 17:30:10 +0000</pubDate><description><![CDATA[<p>Linux の評判のせいで私は何年も Linux を無視していましたが、今では Linux が私の毎日のドライバーとなっています
+
+物事はなんて急速に変化するのでしょう。
+
+Linux の評判のせいで私は何年も Linux を無視していましたが、今では Linux が私の毎日のドライバーとなっています
+
+Simon Batt 著 公開 2026 年 8 月 18 日、午後 1 時 30 分 EDT Simon はコンピュータ サイエンスの学士号を取得しており、2014 年からテクノロジーについて執筆しており、3.1 から Windows マシンを使用しています。インディーズ ゲーム スタジオで働き、コンピューターの問題全般に対応する家族の頼りになる技術者として活動した後、彼は文章を書くことへの情熱に気づき、自分のスキルセットをテクノロジーに関するあらゆることについて書くことに決めました。ライターとしてのキャリアを始めて以来、彼は WorldStart 、 Listverse 、 MakeTechEasier などのさまざまな出版物に執筆してきました。しかし、2019 年 2 月に MakeUseOf に居場所を見つけた後、最終的にはその姉妹サイトである XDA に移り、最新かつ最高の Windows、Linux、DIY 電子機器を提供することになりました。 XDA アカウントにサインインする Windows から Linux に移行してから約 1 年が経ちましたが、最も後悔しているのは、もっと早く移行しなかったことです。確かに、まったくジャンプできなかったよりは、最終的にジャンプできた方が良いですし、FOSS オペレーティング システムの世界で新しい居場所を見つけられたことを嬉しく思います。
+
+私が事前に Linux を試さなかった大きな理由は、人々が Linux に対して築き上げてきた評判に私が深く傾倒していたからだと思います。 Linux が悪いとか悪だとは誰も言っていませんでしたが、Linux には人々がこの OS について抱いているいくつかの思い込みがあり、それ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/01/linux-tmux.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Linux の評判のせいで私は何年も Linux を無視していましたが、今では Linux が私の毎日のドライバーとなっています"></p>]]></description><source url="https://www.xda-developers.com/ignored-linux-years-daily-driver/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/01/linux-tmux.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/01/linux-tmux.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>WHOOP は誰もが使用できる高度な臨床検査のロックを解除します</title><link>https://www.androidauthority.com/whoop-drops-membership-for-advanced-labs-3699949/</link><guid isPermaLink="true">https://www.androidauthority.com/whoop-drops-membership-for-advanced-labs-3699949/</guid><pubDate>Tue, 18 Aug 2026 17:15:02 +0000</pubDate><description><![CDATA[<p>WHOOP は誰もが使用できる高度な臨床検査のロックを解除します
+
+WHOOP は、Advanced Labs サービスにアクセスするためのメンバーシップ要件を廃止します。サービスの機能も拡張しています。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+WHOOP は誰もが使用できる高度な臨床検査のロックを解除します
+
+0 • Kaitlyn Cimino / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR WHOOP Advanced Labs は、ウェアラブル メンバーシップを持たないユーザーにも拡大されています。
+
+WHOOP Advanced Labs によるテストは 150 ドルから始まります。
+
+同社はまた、GRAIL の多がん早期発見検査を Advanced Labs のポートフォリオに追加します。
+
+2025 年、WHOOP は、臨床検査と記録された WHOOP データを組み合わせて、健康状態についてより深い洞察を得る Advanced Labs を立ち上げました。このサービスは当初、WHOOP メンバーシップにより多くの価値を提供する方法として機能しました。しかし、同社はこのサービスをより多くのユーザーに拡大することを決定しました。
+
+本日、WHOOP はプレスリリースで、Advanced Labs のメンバーシップ要件を撤廃すると発表しました。その結果、料金を支払えば誰でもこのサービスの臨床試験を利用できるようになります。試してみたい場合は、Advanced Labs によるテストが約 150 ドルから始まります。 WHOOP は、従来の医療現場で同等の評価を行うには 3,000 ドル以上の費用がかかると主張しています。
+
+「WHOOP Advanced Labsは、日常的な健康診断の一部ではないことが多く、歴史的にはコンシェルジュ医療、エグゼクティブ健康診断、または専門クリニックを通じ…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2023/05/Oura-Ring-3-Whoop-4-scaled.jpg" alt="WHOOP は誰もが使用できる高度な臨床検査のロックを解除します"></p>]]></description><source url="https://www.androidauthority.com/whoop-drops-membership-for-advanced-labs-3699949/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2023/05/Oura-Ring-3-Whoop-4-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2023/05/Oura-Ring-3-Whoop-4-scaled.jpg"/></item>
 <item><title>これら 3 つのルーター設定を無効にすると、ゲームの ping ジッターが半分に減ります</title><link>https://www.xda-developers.com/3-router-settings-i-disable-on-day-one-to-eliminate-network-jitter/</link><guid isPermaLink="true">https://www.xda-developers.com/3-router-settings-i-disable-on-day-one-to-eliminate-network-jitter/</guid><pubDate>Tue, 18 Aug 2026 17:00:10 +0000</pubDate><description><![CDATA[<p>これら 3 つのルーター設定を無効にすると、ゲームの ping ジッターが半分に減ります
 
 帯域幅とジッターは
@@ -5270,17 +5375,6 @@ Nvidia は優れた投資を行っています。
 
 SpaceX の xAI は、地球上と軌道上の AI データ センターで Nvidia…</p><p><img src="https://cdn.mos.cms.futurecdn.net/Kjestg9jiuvnbE868dhwjf-2560-80.jpg" alt="Nvidia、50億ドルのインテル株賭けを300億ドルの棚ぼたに変える—申請により新たに210億ドルのSpaceX株とArm株からの完全撤退が明らかに"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/nvidia-turns-usd5b-intel-stock-bet-into-usd30b-windfall-filing-reveals-new-usd21b-spacex-stake-and-complete-exit-from-arm-stock">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/Kjestg9jiuvnbE868dhwjf-2560-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/Kjestg9jiuvnbE868dhwjf-2560-80.jpg"/></item>
 <item><title>Linux support is coming to the reworked Epic Games Launcher, new app will run on Tauri instead of Unreal Engine</title><link>https://www.tweaktown.com/rss/click/news/113119/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113119/?c=news-mf</guid><pubDate>Sat, 15 Aug 2026 14:05:06 +0000</pubDate><description><![CDATA[<p>Linux support is coming to the reworked Epic Games Launcher, new app will run on Tauri instead of Unreal Engine</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113119/?c=news-mf">TweakTown</source></item>
-<item><title>完全に特性化されたシステム</title><link>https://hackaday.com/2026/08/15/fully-characterized-systems/</link><guid isPermaLink="true">https://hackaday.com/2026/08/15/fully-characterized-systems/</guid><pubDate>Sat, 15 Aug 2026 14:00:10 +0000</pubDate><description><![CDATA[<p>完全に特性化されたシステム
-
-私の昔のハッカースペースの友人は電気工学の大学院に通っていた。彼の教授には、学生のプロジェクトで何か問題が起こったとき、「この問題を完全に特徴づけましたか?」と尋ねられる人がいました。
-
-私の昔のハッカースペースの友人は電気工学の大学院に通っていた。彼の教授には、学生プロジェクトで何か問題が発生したとき、「システムの特性を十分に理解しましたか?」と尋ねられる人がいました。これは高い目標ではあるが、良い目標ではあるが、約 95% の確率で YOLO が MO だったため、ハッカー業界内での冗談にもなった。 3D プリンターでヘッドがクラッシュ – 「完全に特性化されていない」。先週末ゴミ出しを忘れましたか？システムは完全に特性化されましたか?
-
-それはおそらく、理論と実践の違いでもあります。理論的には、理論と実践の間に違いはなく、すべてのシステムを完全に特徴付けることができます。しかし実際には、まだ完全に理解していないシステムを完全に特徴付けるのは困難です。
-
-好例: うちの前庭には9本の小さな苗木が生えているので、それらに水をやる必要があります。木から木へとホースを移動させるのは退屈なので、ある長さのホースを用意して、片方の端で栓をし、すべての木に一度に水をまくことができるように十分な穴を開けようと思いました。私はこのシステムを少し特徴づけました。ホースを通る 1 分間あたりの水の量を計算し、それを頭の中で妥当な流出量に分割し、ドリルで穴を開けましたが、結果的に大きすぎました。
-
-なぜですか？なぜなら、ホースの長さには流れに対する抵抗があり、最初のいくつかの穴からは水が流れ出ますが、最後のいくつかの穴は乾いていたからです。私が思っていたような一定の圧力システムではありませんでした。ホース内の抵抗が重要になるとは思ってもいなかったので、測定しようとするわけがありませんでした。しかし、とにかくこの抵抗をどのように特徴づければよいでしょうか?大きすぎる穴を備えたホースを作成し、減衰を測定することもできます。 （おっと、それはまさに私がやったことで…</p><p><img src="https://hackaday.com/wp-content/uploads/2020/05/Automation.jpg" alt="完全に特性化されたシステム"></p>]]></description><source url="https://hackaday.com/2026/08/15/fully-characterized-systems/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2020/05/Automation.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2020/05/Automation.jpg"/></item>
 <item><title>私のバックアップ戦略全体は、70 ドルの外部ドライブと 2 つのスケジュールされたコマンドです。</title><link>https://www.xda-developers.com/my-entire-backup-strategy-cheap-drive-two-commands/</link><guid isPermaLink="true">https://www.xda-developers.com/my-entire-backup-strategy-cheap-drive-two-commands/</guid><pubDate>Sat, 15 Aug 2026 14:00:10 +0000</pubDate><description><![CDATA[<p>私のバックアップ戦略全体は、70 ドルの外部ドライブと 2 つのスケジュールされたコマンドです。
 
 退屈だし、安いし、それでがっかりしたことは一度もありません。
@@ -5292,6 +5386,17 @@ By Korbin Brown 公開 2026 年 8 月 15 日、午前 10:00 EDT Korbin は、物
 私のバックアップ戦略全体は、70 ドル以下のポータブル ハード ドライブと、スケジュールに従って実行される 2 つの rsync コマンドです。これらは一緒に 3-2-1 ルールを満たします。つまり、私の作業用コピー、外部ドライブ上の別のローカル コピー、およびレンタル ストレージ VPS 上にあるオフサイト コピーです。全体のセットアップは非常にシンプルで、GUI、専用ソフトウェア、クラウド サブスクリプションは必要ありません。
 
 数年間そのように動作しており、そこから2回正常に復元しました。バックアップはそれほど複雑である必要はありません。全体の構成は数行…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/external-hdd-hard-drive-seagate-pc.jpg?w=1600&amp;h=900&amp;fit=crop" alt="私のバックアップ戦略全体は、70 ドルの外部ドライブと 2 つのスケジュールされたコマンドです。"></p>]]></description><source url="https://www.xda-developers.com/my-entire-backup-strategy-cheap-drive-two-commands/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/external-hdd-hard-drive-seagate-pc.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/external-hdd-hard-drive-seagate-pc.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>完全に特性化されたシステム</title><link>https://hackaday.com/2026/08/15/fully-characterized-systems/</link><guid isPermaLink="true">https://hackaday.com/2026/08/15/fully-characterized-systems/</guid><pubDate>Sat, 15 Aug 2026 14:00:10 +0000</pubDate><description><![CDATA[<p>完全に特性化されたシステム
+
+私の昔のハッカースペースの友人は電気工学の大学院に通っていた。彼の教授には、学生のプロジェクトで何か問題が起こったとき、「この問題を完全に特徴づけましたか?」と尋ねられる人がいました。
+
+私の昔のハッカースペースの友人は電気工学の大学院に通っていた。彼の教授には、学生プロジェクトで何か問題が発生したとき、「システムの特性を十分に理解しましたか?」と尋ねられる人がいました。これは高い目標ではあるが、良い目標ではあるが、約 95% の確率で YOLO が MO だったため、ハッカー業界内での冗談にもなった。 3D プリンターでヘッドがクラッシュ – 「完全に特性化されていない」。先週末ゴミ出しを忘れましたか？システムは完全に特性化されましたか?
+
+それはおそらく、理論と実践の違いでもあります。理論的には、理論と実践の間に違いはなく、すべてのシステムを完全に特徴付けることができます。しかし実際には、まだ完全に理解していないシステムを完全に特徴付けるのは困難です。
+
+好例: うちの前庭には9本の小さな苗木が生えているので、それらに水をやる必要があります。木から木へとホースを移動させるのは退屈なので、ある長さのホースを用意して、片方の端で栓をし、すべての木に一度に水をまくことができるように十分な穴を開けようと思いました。私はこのシステムを少し特徴づけました。ホースを通る 1 分間あたりの水の量を計算し、それを頭の中で妥当な流出量に分割し、ドリルで穴を開けましたが、結果的に大きすぎました。
+
+なぜですか？なぜなら、ホースの長さには流れに対する抵抗があり、最初のいくつかの穴からは水が流れ出ますが、最後のいくつかの穴は乾いていたからです。私が思っていたような一定の圧力システムではありませんでした。ホース内の抵抗が重要になるとは思ってもいなかったので、測定しようとするわけがありませんでした。しかし、とにかくこの抵抗をどのように特徴づければよいでしょうか?大きすぎる穴を備えたホースを作成し、減衰を測定することもできます。 （おっと、それはまさに私がやったことで…</p><p><img src="https://hackaday.com/wp-content/uploads/2020/05/Automation.jpg" alt="完全に特性化されたシステム"></p>]]></description><source url="https://hackaday.com/2026/08/15/fully-characterized-systems/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2020/05/Automation.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2020/05/Automation.jpg"/></item>
 <item><title>YouTube の「後で見る」を NotebookLM キューとトランスクリプトに置き換えたところ、コンテンツの消費方法が完全に変わりました</title><link>https://www.xda-developers.com/i-replaced-my-youtube-watch-later-with-a-notebooklm-queue-and-transcripts-and-it-completely-changed-how-i-consume-content/</link><guid isPermaLink="true">https://www.xda-developers.com/i-replaced-my-youtube-watch-later-with-a-notebooklm-queue-and-transcripts-and-it-completely-changed-how-i-consume-content/</guid><pubDate>Sat, 15 Aug 2026 13:30:10 +0000</pubDate><description><![CDATA[<p>YouTube の「後で見る」を NotebookLM キューとトランスクリプトに置き換えたところ、コンテンツの消費方法が完全に変わりました
 
 一番いいところは？セットアップには数秒しかかかりません。
@@ -6020,8 +6125,8 @@ Bloodsuckers と Fleshes は生息地に応じて異なる外観を特徴とし�
 2026 年 7 月 27 日 Palworld 幹部、サポート終了計画についてゲーマーに安心を与える (10)
 
 2026 年 4 月 28 日 Denuvo がデイ…</p><p><img src="https://www.techpowerup.com/img/IlHZP7ChIvB57MLZ.jpg" alt="(PR) S.T.A.L.K.E.R. 2: チェルノブイリの中心アップデート 2.0 が 8 月 20 日に到着"></p>]]></description><source url="https://www.techpowerup.com/351625/s-t-a-l-k-e-r-2-heart-of-chornobyl-update-2-0-arrives-august-20">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/IlHZP7ChIvB57MLZ.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/IlHZP7ChIvB57MLZ.jpg"/></item>
-<item><title>My Experience at the InfiMaker K1 5-Axis CNC Launch Event</title><link>https://www.hackster.io/news/my-experience-at-the-infimaker-k1-5-axis-cnc-launch-event-5e3577e35557</link><guid isPermaLink="true">https://www.hackster.io/news/my-experience-at-the-infimaker-k1-5-axis-cnc-launch-event-5e3577e35557</guid><pubDate>Fri, 14 Aug 2026 21:01:06 +0000</pubDate><description><![CDATA[<p>My Experience at the InfiMaker K1 5-Axis CNC Launch Event</p>]]></description><source url="https://www.hackster.io/news/my-experience-at-the-infimaker-k1-5-axis-cnc-launch-event-5e3577e35557">Hackster.io</source></item>
 <item><title>My Experience at the InfiMaker K1 Five-Axis CNC Launch Event</title><link>https://www.hackster.io/news/my-experience-at-the-infimaker-k1-five-axis-cnc-launch-event-5e3577e35557</link><guid isPermaLink="true">https://www.hackster.io/news/my-experience-at-the-infimaker-k1-five-axis-cnc-launch-event-5e3577e35557</guid><pubDate>Fri, 14 Aug 2026 21:01:06 +0000</pubDate><description><![CDATA[<p>My Experience at the InfiMaker K1 Five-Axis CNC Launch Event</p>]]></description><source url="https://www.hackster.io/news/my-experience-at-the-infimaker-k1-five-axis-cnc-launch-event-5e3577e35557">Hackster.io</source></item>
+<item><title>My Experience at the InfiMaker K1 5-Axis CNC Launch Event</title><link>https://www.hackster.io/news/my-experience-at-the-infimaker-k1-5-axis-cnc-launch-event-5e3577e35557</link><guid isPermaLink="true">https://www.hackster.io/news/my-experience-at-the-infimaker-k1-5-axis-cnc-launch-event-5e3577e35557</guid><pubDate>Fri, 14 Aug 2026 21:01:06 +0000</pubDate><description><![CDATA[<p>My Experience at the InfiMaker K1 5-Axis CNC Launch Event</p>]]></description><source url="https://www.hackster.io/news/my-experience-at-the-infimaker-k1-5-axis-cnc-launch-event-5e3577e35557">Hackster.io</source></item>
 <item><title>私が行った最高の Wi-Fi アップグレードは新しいルーターではなく、家具を 1 つ移動したことでした</title><link>https://www.xda-developers.com/the-best-wi-fi-upgrade-wasnt-a-new-router-it-was-moving-some-furniture/</link><guid isPermaLink="true">https://www.xda-developers.com/the-best-wi-fi-upgrade-wasnt-a-new-router-it-was-moving-some-furniture/</guid><pubDate>Fri, 14 Aug 2026 21:00:10 +0000</pubDate><description><![CDATA[<p>私が行った最高の Wi-Fi アップグレードは新しいルーターではなく、家具を 1 つ移動したことでした
 
 そろそろ ISP を責めるのをやめる時が来た
@@ -6466,83 +6571,4 @@ Epic と Google は世界的なパートナーシップ協定で事態を調整�
 しかし、Google はこの結果を避けるために懸命に努力し、サードパーティのアプリ ストアを排除するために Epic と和解しようとしました。判決の条件に基づいてAptoideストアの承認を余儀なくされたとき、Googleはサードパーティのアプリストアを歓迎するバナーを正確には掲げなかった。実際、ドナート判事は木曜日の公聴会で、Googleの実施が十分ではなかったと認定したとThe Vergeは報じている。
 
 Play ストアの代替アプリ ストア ページへのリンクはあり…</p><p><img src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/play-store-1152x648.jpg" alt="判事はGoogle Playにおける「反競争的な」アプリストアのダウンロードを修正するようGoogleに1週間の猶予を与える"></p>]]></description><source url="https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/">Ars Technica Gear &amp; Gadgets</source><media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/play-store-1152x648.jpg" medium="image"/><media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/play-store-1152x648.jpg"/></item>
-<item><title>Call of Duty: Modern Warfare 4 ベータ版にはキャンペーン、マルチプレイヤー、Warzone が含まれます</title><link>https://www.kitguru.net/gaming/matthew-wilson/call-of-duty-modern-warfare-4-beta-will-include-campaign-multiplayer-and-warzone/</link><guid isPermaLink="true">https://www.kitguru.net/gaming/matthew-wilson/call-of-duty-modern-warfare-4-beta-will-include-campaign-multiplayer-and-warzone/</guid><pubDate>Fri, 14 Aug 2026 15:45:57 +0000</pubDate><description><![CDATA[<p>Call of Duty: Modern Warfare 4 ベータ版にはキャンペーン、マルチプレイヤー、Warzone が含まれます
-
-通常、Call of Duty のベータ版がリリースされると、プレイヤーには限られた数のマルチプレイヤー マップとモードへのアクセスのみが与えられ、キャンペーンや Warzone のテストは行われません。今年はそうではなく、Modern Warfare 4 ではシリーズ史上最も大規模なベータ テストが実施される予定です。
-
-Call of Duty: Modern Warfare 4 ベータ版にはキャンペーン、マルチプレイヤー、Warzone が含まれます
-
-Matthew Wilson 20 分前 注目のテクノロジー ニュース , ソフトウェア &amp; ゲーム
-
-通常、Call of Duty のベータ版がリリースされると、プレイヤーには限られた数のマルチプレイヤー マップとモードへのアクセスのみが与えられ、キャンペーンや Warzone のテストは行われません。今年はそうではなく、Modern Warfare 4 ではシリーズ史上最も大規模なベータ テストが実施される予定です。本日の発表で、Activision は「史上初めて」、プレイヤーがベータ テスト期間中にキャンペーン、マルチプレイヤー、Warzone モードを試すことができることを確認しました。早期アクセス期間中、プレイヤーは、5 つの新しい 6 対 6 マルチプレイヤー マップと、チーム デスマッチ、ドミネーション、ハードポイントなどの定番モードから、インフレやキル ブロックなどの新しい追加モードを含む幅広いモードに加えて、「Entrenched」というタイトルのキャンペーン ミッションを試すことができます。ベータ版では、キル ブロックの 10 対 10 および 3 対 3 のバリエーションに加えて、ゲームの更新された移動システムを紹介するために設計されたモビリティ コース モードもフィーチャーされます。オープン ベータでは、Zodiac、新しい Warzone Resur…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/05/HD-wallpaper-cod-mw-2022-call-of-duty-modern-warfare-2022_waifu2x_art_noise1_scale-1-732x330.png" alt="Call of Duty: Modern Warfare 4 ベータ版にはキャンペーン、マルチプレイヤー、Warzone が含まれます"></p>]]></description><source url="https://www.kitguru.net/gaming/matthew-wilson/call-of-duty-modern-warfare-4-beta-will-include-campaign-multiplayer-and-warzone/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/05/HD-wallpaper-cod-mw-2022-call-of-duty-modern-warfare-2022_waifu2x_art_noise1_scale-1-732x330.png" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/05/HD-wallpaper-cod-mw-2022-call-of-duty-modern-warfare-2022_waifu2x_art_noise1_scale-1-732x330.png"/></item>
-<item><title>ネットワーク上で水路水監視データを盗み見る</title><link>https://hackaday.com/2026/08/14/snooping-flume-water-monitor-data-on-the-wire/</link><guid isPermaLink="true">https://hackaday.com/2026/08/14/snooping-flume-water-monitor-data-on-the-wire/</guid><pubDate>Fri, 14 Aug 2026 15:30:15 +0000</pubDate><description><![CDATA[<p>ネットワーク上で水路水監視データを盗み見る
-
-[スティーブン] は家に興味深いハードウェア、つまり Flume 水モニターを持っていました。これは、使用状況データを Flume のサーバーに報告し、さらに水道事業者に報告するスマート デバイスです。彼と…
-
-[スティーブン] は家に興味深いハードウェア、つまり Flume 水モニターを持っていました。これは、使用状況データを Flume のサーバーに報告し、さらに水道事業者に報告するスマート デバイスです。彼は以前、この装置が水の流れを監視するためにどのように機械的に動作するかを調べていましたが、より大きな目標がありました。それは、報告されたデータがネットワークを通過して Flume サーバーに送信される際に、そのデータを傍受する方法を理解することでした。
-
-Flume リグには水道管にセンサーが取り付けられており、ブリッジ デバイスと通信し、ブリッジ デバイスがインターネットに接続します。 [スティーブン] は、Flume 水センサーのブリッジ ユニットをだましてデータを平文で送信する方法を見つけ出し、早い段階で勝利を収めました。これは、デバイスのフラッシュ内の公開キーを破損するのと同じくらい簡単でした。ただし、これは完璧な解決策ではありませんでした。破損したキーにより、デバイスは Flume サーバーで認証できなくなりました。しかし、LibHydrogen 暗号化の実装をさらに詳しく調べると、デバイスは明らかにセッション キーを使用せずに、オンボード フラッシュから取得できる静的なデバイス秘密キーのみに依存して認証を行っていたことが明らかになりました。これにより、[Stephen] はブリッジと Flume サーバーの間に位置するツールを構築し、トラフィックをシームレスに転送しながら、同時にローカルで復号化して保存できるようになりました。
-
-この設定により、[Stephen] はセンサーからの水流とステータス データをローカルで記録することができました。ただし、中間者セットアップにより、ハードウェアが今後ファームウェ…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/bridge-uart-connected_d5a246-e1786586583243.jpg" alt="ネットワーク上で水路水監視データを盗み見る"></p>]]></description><source url="https://hackaday.com/2026/08/14/snooping-flume-water-monitor-data-on-the-wire/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/bridge-uart-connected_d5a246-e1786586583243.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/bridge-uart-connected_d5a246-e1786586583243.jpg"/></item>
-<item><title>この 30 ドルのアクセサリにより、Android Auto 使用時の携帯電話の充電方法が変わりました</title><link>https://www.xda-developers.com/this-30-accessory-changed-how-i-charge-my-phone-while-using-android-auto/</link><guid isPermaLink="true">https://www.xda-developers.com/this-30-accessory-changed-how-i-charge-my-phone-while-using-android-auto/</guid><pubDate>Fri, 14 Aug 2026 15:30:10 +0000</pubDate><description><![CDATA[<p>この 30 ドルのアクセサリにより、Android Auto 使用時の携帯電話の充電方法が変わりました
-
-この 12V 130W USB-C および USB-A アダプターは、まさに私のカードが必要としていたものです。
-
-この 30 ドルのアクセサリにより、Android Auto 使用時の携帯電話の充電方法が変わりました
-
-By Patrick O&#39;Rourke 公開 2026 年 8 月 14 日、午前 11:30 EDT Patrick O&#39;Rourke は、XDA のニュース編集者およびエンターテイメント セグメントのリーダーです。以前は、Pocket-lint の編集長、カナダのテクノロジー出版物 MobileSyrup の編集長を務め、キャリアの初期には Financial Post および Postmedia でテクノロジー編集者として働いていました。彼はトロントに拠点を置いています。過去 15 年間にわたり、彼は何千もの記事を書いてきました。パトリック氏はまた、何十人ものテクノロジー業界の幹部にインタビューし、GDC、E3、Gamescom、WWDC、Apple の基調講演、Samsung Unpacked イベントなどを取材しました。パトリックはトロント・メトロポリタン大学でジャーナリズムの学士号を取得しています。 XDA アカウントにサインインする 数週間前、私は数え切れないほどの時間をかけて研究した後、ついに Kia の 2026 K4 ハッチバックのトリガーを引きました。燃費からインテリアの品質、さらには車の Android Auto や CarPlay 接続の信頼性まで、あらゆることを調べました。しかし、USB-C および Qi ワイヤレス充電の速度という重要な機能が私の頭に浮かんだことはありませんでした。ありがたいことに、12V USB シガー ライター アダプターがあることを思い出し、Amazon で比較的安価なものを購入しました。
-
-私はここ数年 Ioniq 5 EV を所有しており、K4 は実際に私の家族の 2 台目の車です。私の Io…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/ugreen-3-port-fast-car-charger-header.jpg?w=1600&amp;h=900&amp;fit=crop" alt="この 30 ドルのアクセサリにより、Android Auto 使用時の携帯電話の充電方法が変わりました"></p>]]></description><source url="https://www.xda-developers.com/this-30-accessory-changed-how-i-charge-my-phone-while-using-android-auto/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/ugreen-3-port-fast-car-charger-header.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/ugreen-3-port-fast-car-charger-header.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>G.Skill Trident Z5 NeoX RGB DDR5-6000 C30 2x16GB レビュー — Ryzen を最大限に活用する EXPO ULL メモリ キット</title><link>https://www.tomshardware.com/pc-components/ram/g-skill-trident-z5-neox-rgb-ddr5-6000-c30-2x16gb-review</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/ram/g-skill-trident-z5-neox-rgb-ddr5-6000-c30-2x16gb-review</guid><pubDate>Fri, 14 Aug 2026 15:30:00 +0000</pubDate><description><![CDATA[<p>G.Skill Trident Z5 NeoX RGB DDR5-6000 C30 2x16GB レビュー — Ryzen を最大限に活用する EXPO ULL メモリ キット
-
-メモリのサブタイミング最適化による純粋なパフォーマンス
-
-Trident Z5 NeoX RGB DDR5-6000 C30 は、AMD Ryzen プロセッサーに絶対的な最高のものを求める場合に選択する種類のメモリー キットです。
-
-Tom&#39;s Hardware を信頼できる理由 当社の専門レビュー担当者は、お客様が最適なものを選択できるよう、製品とサービスのテストと比較に時間を費やしています。テスト方法について詳しくは、こちらをご覧ください。
-
-進行中のメモリ不足にも動じず、G.Skill は、AMD の EXPO 超低遅延 (ULL) 機能を搭載した Trident Z5 NeoX RGB DDR5-6000 C30 メモリ キットを発売し、最高の RAM オプションの中で有力な候補として位置付けています。
-
-EXPO 1.2 はマイナーな仕様アップデートのように思えるかもしれませんが、ULL は気にする必要はありません。すべての機能の中でも、これまで軽視されていたメモリのサブタイミングの最適化を新たなレベルで実現します。これらのメモリのサブタイミングは、Ryzen プロセッサのパフォーマンスを向上させる鍵となります。標準の AMD EXPO メモリ キットは通常、より広範な互換性を確保するために、これらのメモリ サブタイミングをそのままにしておきます。ただし、Trident Z5 NeoX RGB DDR5-6000 C30 などの新しい EXPO ULL 認定メモリ キットは、これらの二次および三次メモリのサブタイミングを活用して、AMD の Ryzen チップからさらなるパフォーマンスを引き出します。
-
-(画像クレジット: Tom&#39;s Hardware) (画像クレジット: Tom&#39;s Hardware) (画像クレジット: Tom&#39;s Hardware) 画像 1/3 オリジナル…</p><p><img src="https://cdn.mos.cms.futurecdn.net/bshf63HFPdHWKcubjCWTUe-2560-80.jpg" alt="G.Skill Trident Z5 NeoX RGB DDR5-6000 C30 2x16GB レビュー — Ryzen を最大限に活用する EXPO ULL メモリ キット"></p>]]></description><source url="https://www.tomshardware.com/pc-components/ram/g-skill-trident-z5-neox-rgb-ddr5-6000-c30-2x16gb-review">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/bshf63HFPdHWKcubjCWTUe-2560-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/bshf63HFPdHWKcubjCWTUe-2560-80.jpg"/></item>
-<item><title>サムスンのギャラクシー携帯電話がポケットの中で爆発、今年4件目となる</title><link>https://www.androidauthority.com/samsung-galaxy-smartphone-explosion-incident-3698901/</link><guid isPermaLink="true">https://www.androidauthority.com/samsung-galaxy-smartphone-explosion-incident-3698901/</guid><pubDate>Fri, 14 Aug 2026 15:19:51 +0000</pubDate><description><![CDATA[<p>サムスンのギャラクシー携帯電話がポケットの中で爆発、今年4件目となる
-
-サムスンのギャラクシー携帯電話がユーザーのポケットの中で爆発し、火傷を負ったとされている。未確認ですが、その携帯電話はGalaxy S26である可能性があります。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-サムスンのギャラクシー携帯電話がポケットの中で爆発、今年4件目となる
-
-0 • Direct-Till-2680 / Reddit Google Discover でフォローしてください 優先情報源として追加してください TL;DR インドのグレーターノイダに住む男性が、サムスンのスマートフォンがポケットの中で爆発したとされ、手と下半身に火傷を負いました。
-
-写真には、携帯電話のバッテリーと背面パネルへの壊滅的な熱損傷が示されています。カメラのレイアウトはGalaxy S26に似ていますが、損傷により正確な携帯電話のモデルは未確認です。
-
-これは、今年に入って報告されたギャラクシー旗艦爆発事件の4件目となるが、全世界で販売された数百万台と比較すると、全体的な事件数は依然として極めて少ない。
-
-今年だけでも、Samsung Galaxy S25 Plus、Galaxy S25 FE、および Galaxy S24 に関する爆発事件が確認されています。現在、インドのグレーターノイダに住む男性が、サムスンのスマートフォンがポケットの中で爆発したとされ、火傷を負った。これがどのサムスンの携帯電話であるかはすぐには明らかではありませんが、見た目からすると、おそらく Galaxy S26 である可能性があります。
-
-フリー・プレス・ジャーナルの報道によると、事件は被害者がズボンのポケットに携帯電話を入れていたときに発生したという。伝えられるところによると、端末は何の前触れもなく発火し、燃えている受話器を捨てようとした際に手と下半身に火傷を負ったという。この携帯電話はちょうど1か月前に購入されたもので、事件が起こるまで正常に機能して…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-phone-explosion.jpeg" alt="サムスンのギャラクシー携帯電話がポケットの中で爆発、今年4件目となる"></p>]]></description><source url="https://www.androidauthority.com/samsung-galaxy-smartphone-explosion-incident-3698901/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-phone-explosion.jpeg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-phone-explosion.jpeg"/></item>
-<item><title>TI-84 Evo は Amazon で半額近くになっており、あらゆる計算を処理できるように作られています</title><link>https://www.xda-developers.com/ti-84-evo-graphing-calculator-86-deal/</link><guid isPermaLink="true">https://www.xda-developers.com/ti-84-evo-graphing-calculator-86-deal/</guid><pubDate>Fri, 14 Aug 2026 15:16:32 +0000</pubDate><description><![CDATA[<p>TI-84 Evo は Amazon で半額近くになっており、あらゆる計算を処理できるように作られています
-
-SAT および AP 試験に最適
-
-TI-84 Evo は Amazon で半額近くになっており、あらゆる計算を処理できるように作られています
-
-クレジット: Texas Instruments By Timi Cantisano 公開 2026 年 8 月 14 日、午前 11 時 16 分 EDT Timi は 10 年以上にわたり、スマートフォン、コンピューター、およびテクノロジー分野で興味があるものすべてに焦点を当ててテクノロジーについて執筆してきました。彼は XDA に執筆を開始し、モバイルに関するあらゆることをカバーしていましたが、インターネット上で最高のハイテク製品の最高の割引を明らかにすることを使命として、取引をカバーすることに移行しました。 XDA アカウントにサインインする この TI-84 Evo グラフ電卓は、今年高度な数学を始めるなら絶対に必須です。複雑な数学の概念を視覚化するのに役立ち、あらゆるレベルで価値のあるツールになります。唯一の欠点は価格です。TI-84 Evo の通常小売価格は 160 ドルです。良いニュースは、このモデルが現在 Amazon から販売されており、48% 割引の 86 ドルまで値下げされていることです。
-
-TI-84 Evo Graphing Calculator $86 $160 Amazon で $74 $86 を節約 展開する 折りたたむ 適切なツールから始める
-
-TI-84 Evo は、すべての重要な機能を前面と中央に配置した新しいメニュー システムを使用しています。以前のモデルと比較して、グラフ作成能力が 50% 向上し、処理能力が 3 倍向上しました。ソフトウェアはアップグレード可能で、USB-C を使用して電卓を充電できます。
-
-画面は色鮮やかになり、キーパッドも刷新され、以前のモデルの煩雑な部分がほとんどなくなりました。このソフトウェアは、よりインテリジェントに分類されたメニュー システムによ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/copy-of-169-7.jpg?w=1600&amp;h=900&amp;fit=crop" alt="TI-84 Evo は Amazon で半額近くになっており、あらゆる計算を処理できるように作られています"></p>]]></description><source url="https://www.xda-developers.com/ti-84-evo-graphing-calculator-86-deal/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/copy-of-169-7.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/copy-of-169-7.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>インソムニアックはウルヴァリンのサブキャラクターとしてプレイすることを強制しません</title><link>https://www.kitguru.net/gaming/matthew-wilson/insomniac-wont-force-you-to-play-as-secondary-characters-in-wolverine/</link><guid isPermaLink="true">https://www.kitguru.net/gaming/matthew-wilson/insomniac-wont-force-you-to-play-as-secondary-characters-in-wolverine/</guid><pubDate>Fri, 14 Aug 2026 15:00:53 +0000</pubDate><description><![CDATA[<p>インソムニアックはウルヴァリンのサブキャラクターとしてプレイすることを強制しません
-
-インソムニアックは、マーベルのウルヴァリンにはプレイアブルキャラクターが 1 人だけ登場し、サイドキャラクターのゲームプレイセクションを導入するのではなく、ウルヴァリン自身に完全に焦点を当てることを認めました。この明確化は、最近のストーリートレーラーでのジーン・グレイの登場がプレイ可能なシーケンスを示唆しているのではないかとファンが推測した後に発表されました。
-
-インソムニアックはウルヴァリンのサブキャラクターとしてプレイすることを強制しません
-
-Matthew Wilson 1 時間前 注目のテクノロジー ニュース , ソフトウェア &amp; ゲーム
-
-インソムニアックは、マーベルのウルヴァリンにはプレイアブルキャラクターが 1 人だけ登場し、サイドキャラクターのゲームプレイセクションを導入するのではなく、ウルヴァリン自身に完全に焦点を当てることを認めました。この明確化は、最近のストーリートレーラーでのジーン・グレイの登場がプレイ可能なシーケンスを示唆しているのではないかとファンが推測した後に発表されました。 GamesRadar とのインタビューで、上級プロジェクト ディレクターのジェス・ライナー・リード氏とテクノロジー責任者のマイク・フィッツジェラルド氏がこの瞬間について直接語りました。ジーン・グレイのシーンについて尋ねられたとき、両開発者は「ウルヴァリンが唯一のプレイアブルキャラクターです」と答えた。フィッツジェラルド氏は、セイバートゥース、ミスティーク、ジーン・グレイなどのキャラクターが戦闘中に出現し、チームアップの動きを支援するが、プレイヤーからコントロールを奪うことはないと付け加えた。インソムニアック氏は、サイドキャラクターは今後もストーリーとゲームプレイの両方で意味のある役割を果たし、戦いでウルヴァリンを動的にサポートし、チーム全体のダイナミクスに貢献すると説明した。ただし、スタジオの優先事項は、ペースやメカニズムの変化を避け、ウルヴァリンの能力のみを中心とした一貫したアクシ…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/06/WOLVERINE-732x330.jpg" alt="インソムニアックはウルヴァリンのサブキャラクターとしてプレイすることを強制しません"></p>]]></description><source url="https://www.kitguru.net/gaming/matthew-wilson/insomniac-wont-force-you-to-play-as-secondary-characters-in-wolverine/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/06/WOLVERINE-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/06/WOLVERINE-732x330.jpg"/></item>
 </channel></rss>
