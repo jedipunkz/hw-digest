@@ -1,6 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Wed, 19 Aug 2026 14:53:00 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Wed, 19 Aug 2026 15:45:39 +0000</lastBuildDate>
+<item><title>Zigbee を使ってドアホンをスマート化する</title><link>https://hackaday.com/2026/08/19/smarting-up-a-doorbell-with-zigbee/</link><guid isPermaLink="true">https://hackaday.com/2026/08/19/smarting-up-a-doorbell-with-zigbee/</guid><pubDate>Wed, 19 Aug 2026 15:30:59 +0000</pubDate><description><![CDATA[<p>Zigbee を使ってドアホンをスマート化する
+
+かつて、ドアホンは家のどこかに置かれたボタン、変圧器、ベルにすぎませんでした。最近では、少し派手になってきています。 [フィリップ・シュヴァイツァー]は最近…
+
+かつて、ドアホンは家のどこかに置かれたボタン、変圧器、ベルにすぎませんでした。最近では、少し派手になってきています。 [Philipp Schweizer] は最近、既存の無能なドアホンをよりスマートなドアホンに変える方法を模索しています。
+
+このビルドは、有線ドアベルのセットアップ、特に Vistadoor ADV-100 をベースにしています。 [フィリップ] は、ドアホンが鳴ったときに 5 V になる信号を利用する簡単な場所を見つけることができました。彼はこれをできるだけ簡単にスマート ホーム システムに接続したいと考えていました。そこで彼は、かなりユニークなパーツである ESP32-H2 を手に入れました。これは、ESP32 ファミリでは WiFi 接続がないことが顕著です。ただし、実際に備えているのは、Thread および Zigbee 通信に適した 802.15.4 無線です。
+
+[フィリップ] は、ドアホンが鳴るたびに ESP32-H2 を接続してホーム アシスタントに通知を送信するのは簡単で、標準のドアホンのチャイム動作を少しも妨げることはないと説明しています。また、ドアベルが鳴ったときに別のスマート カメラで画像をキャプチャするなど、きちんとした自動化を設定する方法についても説明しています。
+
+既存のドアホンをホーム アシスタントのセットアップに統合したい場合は、このプロジェクトがまさに必要なものになる可能性があります。コロナウイルスのパンデミックの暗い時代に作られたこのタッチレス デザインなど、他の素敵なドアベル ビルドも紹介しました。</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/Klingelanlage-ESP32-H2-Zero-scaled-1-e1787037414977.webp" alt="Zigbee を使ってドアホンをスマート化する"></p>]]></description><source url="https://hackaday.com/2026/08/19/smarting-up-a-doorbell-with-zigbee/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/Klingelanlage-ESP32-H2-Zero-scaled-1-e1787037414977.webp" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/Klingelanlage-ESP32-H2-Zero-scaled-1-e1787037414977.webp"/></item>
+<item><title>私はこのあまり知られていない Plex 機能を何年も無視していましたが、今ではこれなしでは生きていけません。</title><link>https://www.xda-developers.com/i-stopped-searching-for-movies-in-plex-after-discovering-this-one-built-in-feature/</link><guid isPermaLink="true">https://www.xda-developers.com/i-stopped-searching-for-movies-in-plex-after-discovering-this-one-built-in-feature/</guid><pubDate>Wed, 19 Aug 2026 15:30:15 +0000</pubDate><description><![CDATA[<p>私はこのあまり知られていない Plex 機能を何年も無視していましたが、今ではこれなしでは生きていけません。
+
+スマートなコレクションにより、Plex ライブラリが圧倒的なものから実際に役立つものに変わりました
+
+私はこのあまり知られていない Plex 機能を何年も無視していましたが、今ではこれなしでは生きていけません。
+
+By Dhruv Bhutani 公開 2026 年 8 月 19 日、午前 11:30 EDT Dhruv Bhutani は 2008 年以来消費者向けテクノロジーについて執筆しており、特集記事や意見記事を通じて個人向けテクノロジーの状況について深い洞察を提供しています。彼は XDA-Developers に執筆しており、生産性、ネットワーキング、セルフホスティングなどのトピックに重点を置いています。長年にわたり、彼の作品は Android Police、Android Authority、CNET、PCMag などの主要出版物にも掲載されてきました。専門的な仕事以外では、ドゥルヴは映画や文学などのホラー メディアの熱心なファンであり、フィットネス アクティビティを楽しんだり、レコードを収集したり、ギターを弾いたりしています。
+
+私は何年も Plex を使用してきましたが、ほとんどの人と同じように、私の使い方は非常に簡単でした。メディアをライブラリに追加し、メタデータを取得させて、コンテンツを視聴します。しかし、メディア コレクションが一定の基準を超えると、それをより適切に整理するためのオプションを探し始めました。
+
+見てください、視聴するコンテンツを見つけるのは本当に難しいことであり、もっと良い方法が必要でした。そんなときにPlex Collectionsを発見しました。
+
+Plex に直接組み込まれていますが、ほとんど話題になっていないこの機能は、フランチャイズを買いだめする傾向がある場合、または単にジャンルベースのコレクションをまとめるのが好きな人にとっては天の恵みです。そして、それは私のライブラリをナビゲートする私のお気に入りの方法の 1…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/plex-collections-option-on-the-tv-app.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="私はこのあまり知られていない Plex 機能を何年も無視していましたが、今ではこれなしでは生きていけません。"></p>]]></description><source url="https://www.xda-developers.com/i-stopped-searching-for-movies-in-plex-after-discovering-this-one-built-in-feature/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/plex-collections-option-on-the-tv-app.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/plex-collections-option-on-the-tv-app.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>クアルコム、一部のSnapdragon C電力効率ベンチマークを公表からほぼ1週間で撤回 — 更新されたスライドではアイドル状態のアプリとウェブ閲覧結果が削除</title><link>https://www.tomshardware.com/laptops/qualcomm-retracts-select-snapdragon-c-power-efficiency-benchmarks-nearly-a-week-after-publication-updated-slide-removes-idle-apps-and-web-browsing-results</link><guid isPermaLink="true">https://www.tomshardware.com/laptops/qualcomm-retracts-select-snapdragon-c-power-efficiency-benchmarks-nearly-a-week-after-publication-updated-slide-removes-idle-apps-and-web-browsing-results</guid><pubDate>Wed, 19 Aug 2026 15:28:06 +0000</pubDate><description><![CDATA[<p>クアルコム、一部のSnapdragon C電力効率ベンチマークを公表からほぼ1週間で撤回 — 更新されたスライドではアイドル状態のアプリとウェブ閲覧結果が削除
+
+変更点は、
+
+クアルコム、一部のSnapdragon C電力効率ベンチマークを公表からほぼ1週間で撤回 — 更新されたスライドではアイドル状態のアプリとウェブ閲覧結果が削除
+
+変更点は、Snapdragon C が提供する「ユーザー エクスペリエンスに重点を置く」ことです。
+
+(画像クレジット: Tom&#39;s Hardware、Dell、Acer、Qualcomm) リンクをコピー
+
+0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する クアルコムは、300 ドルという低価格のラップトップを対象とした新しい Snapdragon C チップのベンチマーク スライドを更新しました。同社が最初にSnapdragon Cの仕様と性能を明らかにしてからほぼ1週間後、同社はTom&#39;s Hardware（およびおそらく他の出版物）に対し、クアルコムの電力効率ベンチマークのスライドを更新されたスライドに差し替えるよう要請した（結果は2つ減った）。
+
+(画像クレジット: Qualcomm) (画像クレジット: Qualcomm) 画像 1/2 オリジナルを表示
+
+上のギャラリーで古いスライドと更新されたスライドをご覧いただけます。結果はそれらの間で同じです。ただし、更新されたスライドでは、アイドル状態のアプリと Web 閲覧結果が削除されます。クアルコムの代表者は、この変更は「明確さと関連性を向上させる」ために行われたと述べているが、最初の発表からかなり時間が経ってテストを削除したことは、答えよりも多くの疑問を引き起こした。私たちはクアルコムに、これらの結果を削除した追加の理由があるかどうか尋ねました。
+
+同社は Tom&#39;s Hardware に対し、オリジナルのスライドの使用を更新版に置き換えるよう依頼しましたが、公開されているベンチマークの撤回は、単純な更新よりも…</p><p><img src="https://cdn.mos.cms.futurecdn.net/aziWVitgoz33KW5PS2DfLk-2560-80.jpg" alt="クアルコム、一部のSnapdragon C電力効率ベンチマークを公表からほぼ1週間で撤回 — 更新されたスライドではアイドル状態のアプリとウェブ閲覧結果が削除"></p>]]></description><source url="https://www.tomshardware.com/laptops/qualcomm-retracts-select-snapdragon-c-power-efficiency-benchmarks-nearly-a-week-after-publication-updated-slide-removes-idle-apps-and-web-browsing-results">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/aziWVitgoz33KW5PS2DfLk-2560-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/aziWVitgoz33KW5PS2DfLk-2560-80.jpg"/></item>
+<item><title>Pixel Watch 5 がまだ接続されていない場合でもパニックにならないでください。すぐに接続できるようになります。</title><link>https://www.androidauthority.com/pixel-watch-5-connectivity-issues-3700526/</link><guid isPermaLink="true">https://www.androidauthority.com/pixel-watch-5-connectivity-issues-3700526/</guid><pubDate>Wed, 19 Aug 2026 15:22:41 +0000</pubDate><description><![CDATA[<p>Pixel Watch 5 がまだ接続されていない場合でもパニックにならないでください。すぐに接続できるようになります。
+
+Googleは、Pixel Watch 5が本来の方法でAndroidスマートフォンとペアリングできるようにするアップデートを配布中であると述べた。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+Pixel Watch 5 がまだ接続されていない場合でもパニックにならないでください。すぐに接続できるようになります。
+
+0 • Joe Maring / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Pixel Watch 5 は明日正式に発売されますが、予約注文した一部の顧客は早く時計を受け取りました。
+
+一部のユーザーは、Pixel Watch アプリにエラーが表示され、Pixel Watch 5 ウェアラブルをペアリングできないと報告しています。
+
+Googleは、この問題はPixel WatchとGoogle Healthアプリのアップデートにより今日解決されると述べている。
+
+Google の新しい Pixel ハードウェアは先週予約注文が可能になりました。明日から正式に一般販売が開始されますが、例年通り、一部の幸運なお客様は早くから注文を受けています。 Pixel Watch 5 を予定より早く受け取った人の中には、新しい時計が動作しないと報告している人もいます。しかし、あなたがそのような状況に陥っているのであれば、心配する必要はありません。 Googleはそれが正常だと言います。
+
+ユーザー litalela は、「この Pixel Watch」（Pixel Watch 5）は「このバージョンのアプリと互換性がありません」と書かれた Pixel Watch アプリのスクリーンショットを Pixel Watch サブレディットに投稿しました。複数のユーザーが litalel…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516.jpg" alt="Pixel Watch 5 がまだ接続されていない場合でもパニックにならないでください。すぐに接続できるようになります。"></p>]]></description><source url="https://www.androidauthority.com/pixel-watch-5-connectivity-issues-3700526/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-8-scaled-e1786466755516.jpg"/></item>
+<item><title>Google マップのナビゲーション不具合が Android Automotive ユーザーを狂わせている</title><link>https://www.androidauthority.com/android-automotive-google-maps-rerouting-bug-3700508/</link><guid isPermaLink="true">https://www.androidauthority.com/android-automotive-google-maps-rerouting-bug-3700508/</guid><pubDate>Wed, 19 Aug 2026 15:18:33 +0000</pubDate><description><![CDATA[<p>Google マップのナビゲーション不具合が Android Automotive ユーザーを狂わせている
+
+Android Automotive ユーザーは、無限の再ルート ループに陥る Google マップの問題を報告しています。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+Google マップのナビゲーション不具合が Android Automotive ユーザーを狂わせている
+
+0 • C. Scott Brown / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Android Automotive ユーザーは、Google マップで問題を抱えています。
+
+バグにより、ナビゲーションが際限なく再ルートされます。
+
+この問題は主にポールスターブランドに影響を与えているようだが、他の車両所有者も同じ問題に遭遇している。
+
+Google は最近、交通データが表示されないマップの問題を修正しました。その問題はもはや懸念事項ではありませんが、新たな問題が浮上しています。この問題はナビゲーションの再ルーティングに関連しており、Android Automotive ユーザーに影響します。
+
+Polestar 2 のオーナーが Reddit に投稿し、Google マップのナビゲーションの問題を強調しました。具体的には、ナビゲーションがアクティブな場合、Google マップは無限にルート変更を試みます。システムをリセットしても、バグはまだ残っているようです。
+
+何人かのポールスターオーナー仲間がディスカッションスレッドに参加し、同じ問題に遭遇したことを認めています。ただし、この問題はポールスター車に限ったものではないようです。ホンダのオーナーもこのスレッドに返信し、同様の経験をしていると主張した。
+
+このバグは GPS エラーの可能性がありますが、ユーザーはこの可能性を除外しています。元の投稿者は、GPS …</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2024/10/Android-Auto-2024.jpg" alt="Google マップのナビゲーション不具合が Android Automotive ユーザーを狂わせている"></p>]]></description><source url="https://www.androidauthority.com/android-automotive-google-maps-rerouting-bug-3700508/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2024/10/Android-Auto-2024.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2024/10/Android-Auto-2024.jpg"/></item>
+<item><title>Govee フロアランプ 3 Lite が Amazon 史上最高のセールで 29% 値下げされています!</title><link>https://www.androidauthority.com/govee-floor-lamp-3-lite-deal-3700539/</link><guid isPermaLink="true">https://www.androidauthority.com/govee-floor-lamp-3-lite-deal-3700539/</guid><pubDate>Wed, 19 Aug 2026 15:13:28 +0000</pubDate><description><![CDATA[<p>Govee フロアランプ 3 Lite が Amazon 史上最高のセールで 29% 値下げされています!
+
+Amazon は Govee Floor Lamp 3 Lite を 84.99 ドルに値下げしました。これは、音声制御付きのカラフルなスマート ランプとしては記録的な安値です。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+Govee フロアランプ 3 Lite が Amazon 史上最高のセールで 29% 値下げされています!
+
+0 • Amazon Google Discover でフォローしてください 優先ソースとして追加 Govee のフロア ランプ 3 Lite は、カラフルなアクセント照明、調整可能な白色光、および携帯電話または音声アシスタントによる簡単な制御のために構築されたスマート フロア ランプです。これは、より明るいフロアランプ 3 よりも手頃な価格のオプションとして Govee の 2026 年のラインナップに含まれており、現在 Amazon で堅実な取引が行われています。
+
+このランプは RGBICWW 照明を使用しているため、一度に複数の色を表示できると同時に、同じユニットから調整可能な白色光も提供できます。 1400 ルーメンの明るさで、周囲の照明や明るい部屋の照明に適しており、寝室、ゲーム スペース、リビング ルームなど、もう少しスタイルと色を使用できる場所に最適です。また、Govee のシーン、オートメーション、同期照明効果用の幅広いスマートライト設定とも連携するため、ただ隅に置いて光らせる以上のことができます。
+
+現時点では、Govee Floor Lamp 3 Lite は Amazon で希望小売価格 119.99 ドルから 84.99 ドルに値下げされています。これは希望小売価格と比較して 29% 割引となり、35 ドル節約できます。これは、これまでの最低価格である 89.99 ドルを下回る、これまでで最高の取引でもあります。
+
+Govee の…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/Govee-Floor-Lamp-3-Lite-Press-Image.jpg" alt="Govee フロアランプ 3 Lite が Amazon 史上最高のセールで 29% 値下げされています!"></p>]]></description><source url="https://www.androidauthority.com/govee-floor-lamp-3-lite-deal-3700539/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/Govee-Floor-Lamp-3-Lite-Press-Image.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/Govee-Floor-Lamp-3-Lite-Press-Image.jpg"/></item>
+<item><title>GTA 6リーク者のマニフェストは「反消費者主義」を理由にロックスターに謝罪を要求</title><link>https://www.xda-developers.com/gta-6-leaker-demand-an-apology-from-rockstar-over-its-anti-consumerism/</link><guid isPermaLink="true">https://www.xda-developers.com/gta-6-leaker-demand-an-apology-from-rockstar-over-its-anti-consumerism/</guid><pubDate>Wed, 19 Aug 2026 15:07:38 +0000</pubDate><description><![CDATA[<p>GTA 6リーク者のマニフェストは「反消費者主義」を理由にロックスターに謝罪を要求
+
+待望の試合の映像がネット上に流出した。
+
+GTA 6リーク者のマニフェストは「反消費者主義」を理由にロックスターに謝罪を要求
+
+クレジット: Rockster By Patrick O&#39;Rourke 公開日 2026 年 8 月 19 日、午前 11:07 EDT Patrick O&#39;Rourke は、XDA のニュース編集者およびエンターテイメント セグメントのリーダーです。以前は、Pocket-lint の編集長、カナダのテクノロジー出版物 MobileSyrup の編集長を務め、キャリアの初期には Financial Post および Postmedia でテクノロジー編集者として働いていました。彼はトロントに拠点を置いています。過去 15 年間にわたり、彼は何千もの記事を書いてきました。パトリック氏はまた、何十人ものテクノロジー業界の幹部にインタビューし、GDC、E3、Gamescom、WWDC、Apple の基調講演、Samsung Unpacked イベントなどを取材しました。パトリックはトロント・メトロポリタン大学でジャーナリズムの学士号を取得しています。 XDA アカウントにサインインする
+
+Cyberleek は、GTA 6 のリークはビデオゲーム業界の反消費者慣行に対する抗議であると述べています。
+
+このグループのマニフェストでは、デジタル予約注文、偽のシングルプレイヤー DLC、オフライン フォールバック モードを要求していません。
+
+Cyber​​leek はミームコインを通じて資金調達を行っており、さらなるストライキを誓約している。コミュニティグループはこの破壊的な漏洩を非難している。
+
+最近のグランド・セフト・オート6（GTA6）のゲームプレイ流出事件の犯行声明を出した団体Cyber​​leekは、ただ面白半分に映像を流したわけではないと主張している。同団体は最近、ビデオゲーム業界の慣行に同意できないとのマニフェストを発表し、反消費者とみなしている他のパブリ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/gta-vi-screenshot.jpg?w=1600&amp;h=900&amp;fit=crop" alt="GTA 6リーク者のマニフェストは「反消費者主義」を理由にロックスターに謝罪を要求"></p>]]></description><source url="https://www.xda-developers.com/gta-6-leaker-demand-an-apology-from-rockstar-over-its-anti-consumerism/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/gta-vi-screenshot.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/gta-vi-screenshot.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>スライサー設定を微調整した後、3D プリントのサポートが削除されるのを恐れなくなりました</title><link>https://www.xda-developers.com/stopped-fighting-support-removal-changing-slicer-settings/</link><guid isPermaLink="true">https://www.xda-developers.com/stopped-fighting-support-removal-changing-slicer-settings/</guid><pubDate>Wed, 19 Aug 2026 15:00:15 +0000</pubDate><description><![CDATA[<p>スライサー設定を微調整した後、3D プリントのサポートが削除されるのを恐れなくなりました
+
+これらのスライサーの調整により、3D プリント サポートを簡単に削除できるようになりました
+
+スライサー設定を微調整した後、3D プリントのサポートが削除されるのを恐れなくなりました
+
+文：Jeff Butts 公開日 2026 年 8 月 19 日、午前 11:00 EDT Jeff は、インターネット以前から IT 業界に携わっており、20 年以上、テクニカル サポート、システム管理、ネットワーク管理、およびコンサルティングの役割に従事してきました。彼は英語で学士号を取得し、専門的な執筆と編集に重点を置いた英語で修士号を取得し、さらにコンピューティングおよび情報システムで修士号を取得しています。大学で英語とコンピューター サイエンスを数年間教えた後、ジェフは執筆活動を開始しました。彼は XDA で仕事を始める前に、 Macworld 、 Tom&#39;s Hardware 、 groovyPost 、 The Mac Observer などで執筆を行ってきました。 XDA アカウントにサインインする サポートの削除は、私が 3D プリントで最も恐れていた部分の 1 つでした。どの角度から見ても見栄えのするプリントを完成させることができ、その後数分かけて隙間から頑固なプラスチックを取り出したり、サポートを緩めながら繊細なものを折らないように気を配ったりすることができました。しばらくの間、私はそれを普通のこととして扱いました。複雑なモデルは複雑なクリーンアップを意味しますが、どうやらそれが当然のことだったようです。
+
+フラストレーションの多くがサポートの設定方法に起因していることに気づくまでに、必要以上に時間がかかりました。別のプリンターや複雑な後処理ルーチンは必要ありませんでした。私が必要としたのは、プリントに実際に必要な強度よりも強く、密度が高く、よりしっかりと取り付けられたサポートをスライサーに構築するよう依頼するのをやめることでした。いくつかの小さな変更により、そもそもサポート…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/i-stopped-fighting-support-removal-by-changing-how-my-slicer-thinks-about-them-featured.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="スライサー設定を微調整した後、3D プリントのサポートが削除されるのを恐れなくなりました"></p>]]></description><source url="https://www.xda-developers.com/stopped-fighting-support-removal-changing-slicer-settings/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/i-stopped-fighting-support-removal-by-changing-how-my-slicer-thinks-about-them-featured.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/i-stopped-fighting-support-removal-by-changing-how-my-slicer-thinks-about-them-featured.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>AmazonがFire TV所有者にAlexa Plusを無料で提供、プライム会員は不要</title><link>https://www.androidauthority.com/alexa-plus-on-fire-tv-free-3700358/</link><guid isPermaLink="true">https://www.androidauthority.com/alexa-plus-on-fire-tv-free-3700358/</guid><pubDate>Wed, 19 Aug 2026 15:00:06 +0000</pubDate><description><![CDATA[<p>AmazonがFire TV所有者にAlexa Plusを無料で提供、プライム会員は不要
+
+アシスタントの使用量が2倍になったと報じられたことを受け、AmazonはFire TVユーザーにAlexa Plusへのアクセスを無料で提供している。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+AmazonがFire TV所有者にAlexa Plusを無料で提供、プライム会員は不要
+
+0 • Amazon Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Amazon は、すべての Fire TV ユーザーに Alexa Plus を無料で提供します。
+
+Fire TV デバイスで Alexa Plus にアクセスするには、以前はアクティブなサブスクリプションまたは Amazon Prime メンバーシップが必要でした。
+
+無料特典には、ルーティンやその他のホームオートメーションモードなどの追加の Alexa Plus 機能は含まれません。
+
+会話型 AI の波に乗り、Amazon は昨年、改良された Alexa Plus アシスタントの限定プレビューを米国のユーザーに公開しました。 1 年後、つまり 2026 年 2 月頃、Amazon は米国内の Echo および Fire TV デバイスのすべてのユーザーにこのサービスを展開し、その後、英国、オーストラリア、カナダ、ヨーロッパを含む他の地域にも利用可能を拡大しました。本日、Amazon は、特に Fire TV Stick と Amazon の Fire TV OS を実行するスマート TV のユーザーを対象とした別のアップグレードを発表しました。
+
+Amazon は、米国内の対象となるすべての Fire TV デバイスで Alexa Plus を無料で利用できるようにします。以前は、Prime ユーザーのみが無料でしたが、他のユーザーは次世代の Alexa を使用するには料金を支払う必要があ…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/alexa-plus-fire-tv.jpg" alt="AmazonがFire TV所有者にAlexa Plusを無料で提供、プライム会員は不要"></p>]]></description><source url="https://www.androidauthority.com/alexa-plus-on-fire-tv-free-3700358/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/alexa-plus-fire-tv.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/alexa-plus-fire-tv.jpg"/></item>
 <item><title>SteamOS now works on the Intel Arc B580 without workarounds on the latest beta</title><link>https://www.tweaktown.com/rss/click/news/113156/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113156/?c=news-mf</guid><pubDate>Wed, 19 Aug 2026 14:50:13 +0000</pubDate><description><![CDATA[<p>SteamOS now works on the Intel Arc B580 without workarounds on the latest beta</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113156/?c=news-mf">TweakTown</source></item>
 <item><title>PlayStationのHorizo​​n Hunters Gatheringはプレイヤーからの否定的なフィードバックを受けて縮小される</title><link>https://www.techpowerup.com/351722/playstations-horizon-hunters-gathering-trimmed-down-after-negative-player-feedback</link><guid isPermaLink="true">https://www.techpowerup.com/351722/playstations-horizon-hunters-gathering-trimmed-down-after-negative-player-feedback</guid><pubDate>Wed, 19 Aug 2026 14:42:12 +0000</pubDate><description><![CDATA[<p>PlayStationのHorizon Hunters Gatheringはプレイヤーからの否定的なフィードバックを受けて縮小される
 
@@ -56,6 +191,7 @@ Cerebras は今週、ハードウェア エコシステムに大幅なアップ�
 時間をかけて、Cerebras はウエハースケール エンジンを 3 回繰り返し生産し、それぞれプロセッサのパフォーマンスを向上させ、開発者の関心と販売の勢いをさらに高めました。ウェハ スケール エンジンの最新バージョンである WSE-3 は 2024 年に発売され、単一プロセッサ内で 125 PFLOPS のスパース FP16 パフォーマンスを提供します。
 
 2026 年の現在、同社はハードウェア スタックの次のイテレーションを開始しています。その中心となるのは、WSE-3 Turbo と呼ばれる WSE-3 の更新バージョンであり、オリジナルの WSE-3 のパフォーマンスを 2 倍にすることが約束されています。 Cerebras はそこで止まるわけではありません。この世代では、WSE-3 Turbo を収容するまったく新しい CS-4 ラック システムとネットワーク アーキテクチャも発売し、複数の WSE が 1 つのラック内で連携できるようにします。新しい…</p><p><img src="https://www.servethehome.com/wp-content/uploads/2026/08/Cerebras-CS-4-Rack-Hero-Image-scaled.jpg" alt="Cerebras が高速化された WSE-3 ターボ プロセッサと初のラックスケール CS-4 システムを紹介"></p>]]></description><source url="https://www.servethehome.com/cerebras-intros-faster-wse-3-turbo-processor-and-first-rack-scale-cs-4-system/">ServeTheHome</source><media:content url="https://www.servethehome.com/wp-content/uploads/2026/08/Cerebras-CS-4-Rack-Hero-Image-scaled.jpg" medium="image"/><media:thumbnail url="https://www.servethehome.com/wp-content/uploads/2026/08/Cerebras-CS-4-Rack-Hero-Image-scaled.jpg"/></item>
+<item><title>When You Put Your Phone Down, This Sculpture Starts Listening</title><link>https://www.hackster.io/news/when-you-put-your-phone-down-this-sculpture-starts-listening-4f9e7118e38b</link><guid isPermaLink="true">https://www.hackster.io/news/when-you-put-your-phone-down-this-sculpture-starts-listening-4f9e7118e38b</guid><pubDate>Wed, 19 Aug 2026 14:33:39 +0000</pubDate><description><![CDATA[<p>When You Put Your Phone Down, This Sculpture Starts Listening</p>]]></description><source url="https://www.hackster.io/news/when-you-put-your-phone-down-this-sculpture-starts-listening-4f9e7118e38b">Hackster.io</source></item>
 <item><title>(PR) Boulies、アップグレードされたゲーミングチェア「Master Rex 2026」を発売</title><link>https://www.techpowerup.com/351724/boulies-launches-the-master-rex-2026-upgraded-gaming-chair</link><guid isPermaLink="true">https://www.techpowerup.com/351724/boulies-launches-the-master-rex-2026-upgraded-gaming-chair</guid><pubDate>Wed, 19 Aug 2026 14:33:04 +0000</pubDate><description><![CDATA[<p>(PR) Boulies、アップグレードされたゲーミングチェア「Master Rex 2026」を発売
 
 職場とゲームの快適さを再定義する人間工学に基づいたシーティング ブランドである Boulies は、本日、新しい人間工学に基づいたゲーミング チェア、Master Rex 2026 の米国と英国での発売を発表しました。人気の Master Rex チェアのアップグレード バージョンである Master Rex 2026 は、仕事、ゲーム、または...
@@ -469,6 +605,7 @@ AMD のエンタープライズ GPU および CPU ロードマップ
 Co-Packaged Optics (CPO) ファウンドリロードマップ
 
 市場で最高の Wi-Fi ルーターは、より高速な接続速度、拡張された通信範囲、すべてのワイヤレス デバイスを処理するのに十分な容量を提供するものとされていますが、Comcast は Wi-Fi 信号のあまり使われていない側面を活用しています。 W…</p><p><img src="https://cdn.mos.cms.futurecdn.net/wjg5xrrZ3oKsb9Gbc7E26h-1564-80.jpg" alt="Comcast が Xfinity ルーターを家庭用モーション検出器に変えます - 無料の Wi-Fi センシング機能が追加のハードウェアを必要とせずに RF 干渉を追跡します"></p>]]></description><source url="https://www.tomshardware.com/networking/routers/comcast-turns-xfinity-routers-into-home-motion-detectors-free-wi-fi-sensing-feature-tracks-rf-interference-with-zero-extra-hardware-required">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/wjg5xrrZ3oKsb9Gbc7E26h-1564-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/wjg5xrrZ3oKsb9Gbc7E26h-1564-80.jpg"/></item>
+<item><title>XO5 Labs Aims to Take the Stink Out of Using the EufyMake E1 UV Printer with Its LumiMask Enclosure</title><link>https://www.hackster.io/news/xo5-labs-aims-to-take-the-stink-out-of-using-the-eufymake-e1-uv-printer-with-its-lumimask-enclosure-305913441b7b</link><guid isPermaLink="true">https://www.hackster.io/news/xo5-labs-aims-to-take-the-stink-out-of-using-the-eufymake-e1-uv-printer-with-its-lumimask-enclosure-305913441b7b</guid><pubDate>Wed, 19 Aug 2026 12:03:14 +0000</pubDate><description><![CDATA[<p>XO5 Labs Aims to Take the Stink Out of Using the EufyMake E1 UV Printer with Its LumiMask Enclosure</p>]]></description><source url="https://www.hackster.io/news/xo5-labs-aims-to-take-the-stink-out-of-using-the-eufymake-e1-uv-printer-with-its-lumimask-enclosure-305913441b7b">Hackster.io</source></item>
 <item><title>ハンドヘルドの価格は下がっておらず、今買う価値があるのは新しいものではありません</title><link>https://www.xda-developers.com/handheld-prices-arent-coming-back-down-one-worth-buying-now-isnt-new/</link><guid isPermaLink="true">https://www.xda-developers.com/handheld-prices-arent-coming-back-down-one-worth-buying-now-isnt-new/</guid><pubDate>Wed, 19 Aug 2026 12:00:15 +0000</pubDate><description><![CDATA[<p>ハンドヘルドの価格は下がっておらず、今買う価値があるのは新しいものではありません
 
 1世代遅れたほうが安全です。
@@ -684,6 +821,17 @@ Fire TVのラインナップは少し奇妙な段階に入りつつある。新�
 
 Redditの投稿（AFTVnews経由）によると、同社は、アプリがFire OS 16との互換性問題に遭遇する可能性がある開発者に電子メールを送り始…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2025/05/Insignia-Fire-TV.jpg" alt="Android 16を搭載した新しいFire TVデバイスが間もなく登場する可能性があります"></p>]]></description><source url="https://www.androidauthority.com/amazon-fire-os-android-16-launch-3700391/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2025/05/Insignia-Fire-TV.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2025/05/Insignia-Fire-TV.jpg"/></item>
 <item><title>Raspberry Pi Dances a Jig to Speed Up Mass Programming of Raspberry Pi Compute Module 5s</title><link>https://www.hackster.io/news/raspberry-pi-dances-a-jig-to-speed-up-mass-programming-of-raspberry-pi-compute-module-5s-dbfca30cc49e</link><guid isPermaLink="true">https://www.hackster.io/news/raspberry-pi-dances-a-jig-to-speed-up-mass-programming-of-raspberry-pi-compute-module-5s-dbfca30cc49e</guid><pubDate>Wed, 19 Aug 2026 11:06:58 +0000</pubDate><description><![CDATA[<p>Raspberry Pi Dances a Jig to Speed Up Mass Programming of Raspberry Pi Compute Module 5s</p>]]></description><source url="https://www.hackster.io/news/raspberry-pi-dances-a-jig-to-speed-up-mass-programming-of-raspberry-pi-compute-module-5s-dbfca30cc49e">Hackster.io</source></item>
+<item><title>優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ラップトップ: Asus ExpertBook PM5 G2 レビュー</title><link>https://www.notebookcheck.net/AMD-business-laptop-with-a-great-144-Hz-IPS-display-Asus-ExpertBook-PM5-G2-review.1368549.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/AMD-business-laptop-with-a-great-144-Hz-IPS-display-Asus-ExpertBook-PM5-G2-review.1368549.0.html</guid><pubDate>Wed, 19 Aug 2026 11:06:00 +0000</pubDate><description><![CDATA[<p>優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ラップトップ: Asus ExpertBook PM5 G2 レビュー
+
+AMD Ryzen AI 9 HX 470、Wi-Fi 7、144 Hz IPS ディスプレイを搭載した Asus ExpertBook PM5 G2 の Notebookcheck レビュー。
+
+評決 - ExpertBook PM5 G2 はバランスが悪いようです
+
+私たちのテストでは、新しい Asus ExpertBook PM5 G2 は複雑な印象を残しました。この大型の 16 インチ ビジネス ラップトップは見た目は洗練されていますが、アルミニウムのシャーシにはわずかにきしみ音が発生し、ヒンジが多少ぐらつきます。キーボードは快適でバックライト付きですが、大きな ClickPad の機械的なクリック感は少し安っぽく感じます。接続性とセキュリティ機能は十分であり、イーサネット ポートに加えて、最新の Wi-Fi 7 モジュールも含まれています。
+
+良好 (85%) ExpertBook PM5 G2 PM5606 AMD Ryzen AI 9 HX 470 AMD Radeon 890M Office - 08/13/2026 - v8 テスト デバイスは Asus Deutschland の厚意により提供 ライセンスされた評価画像を PNG / SVG としてダウンロード 内蔵 AMD Ryzen AI 9 HX 470 は、優れた安定したマルチコア パフォーマンスを提供しますが、プロセッサーの TDP が高い単一のクーラーに大きな負荷がかかるため、騒音が非常に大きくなる可能性があります。少なくとも Asus はより静かな電源プロファイルを提供しており、必要に応じてデバイスが全負荷でも非常に静かな状態を保つことができます。
+
+144 Hz のリフレッシュ レートを備えた内蔵のマット WQHD ディスプレイは優れた画質を提供し、この点で多くの競合他社よりも優れています。パネルは仕事に最適で、バッテリー寿命も非常に良好です。…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07.JPG" alt="優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ラップトップ: Asus ExpertBook PM5 G2 レビュー"></p>]]></description><source url="https://www.notebookcheck.net/AMD-business-laptop-with-a-great-144-Hz-IPS-display-Asus-ExpertBook-PM5-G2-review.1368549.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07.JPG" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07.JPG"/></item>
 <item><title>優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ノートパソコン: Asus ExpertBook PM5 G2 レビュー</title><link>https://www.notebookcheck.net/AMD-Business-Laptop-with-a-Great-144-Hz-IPS-Display-Asus-ExpertBook-PM5-G2-Review.1368549.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/AMD-Business-Laptop-with-a-Great-144-Hz-IPS-Display-Asus-ExpertBook-PM5-G2-Review.1368549.0.html</guid><pubDate>Wed, 19 Aug 2026 11:06:00 +0000</pubDate><description><![CDATA[<p>優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ノートパソコン: Asus ExpertBook PM5 G2 レビュー
 
 AMD Ryzen AI 9 HX 470、Wi-Fi 7、144 Hz IPS ディスプレイを搭載した Asus ExpertBook PM5 G2 の Notebookcheck レビュー。
@@ -6626,152 +6774,4 @@ Wavlink 6-in-1 USB4 ドック 5 /10…</p><p><img src="https://static0.xdaimages
 アジアの一部の国では、e スポーツ ホテルやゲーミング ホテルが一般的です。これらは、自分の部屋にある快適な PC を使って時間を過ごすことができる、豪華で隔離されたゲーム ゾーンと考えてください。そのため、これらの強盗は、中古市場で最大の利益をもたらす可能性のある高価な RTX 5080 および 5070 リグを備えた部屋を意図的に選びました。彼らは他の顧客と同じように、控えめなゲーマーを装って部屋にチェックインします。
 
 中に入ると、PC ケースを開け、ハイエンド GPU を取り出し、そこに RTX 3060 などのローエンド GPU を取り付け、PC を閉じます。 GPU のバリエーションが一致していたため、外部からは十分に似ているため、経営陣は何も疑うことはありませんでした。システムも問題なく動作し、後の顧客からの苦情もなかったため、間近で検査する理由…</p><p><img src="https://cdn.mos.cms.futurecdn.net/ZPAAD8bdckpKYhaeuQ8RtM-1700-80.jpg" alt="中国のゲーミング ホテルで泥棒が RTX 5080 GPU を RTX 3060 に交換 - 突然の停電で 12,000 ドル強奪が明らかになるまで、不正な「ダウングレード」は気づかれない"></p>]]></description><source url="https://www.tomshardware.com/pc-components/gpus/thieves-swap-rtx-5080-gpus-for-rtx-3060s-in-chinese-gaming-hotels-rogue-downgrades-go-unnoticed-until-sudden-blackout-exposes-usd12-000-heist">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/ZPAAD8bdckpKYhaeuQ8RtM-1700-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/ZPAAD8bdckpKYhaeuQ8RtM-1700-80.jpg"/></item>
-<item><title>5 つの簡単なステップで 20 GB の Google フォト ストレージを解放した方法</title><link>https://www.androidauthority.com/tips-free-up-google-photos-storage-3692375/</link><guid isPermaLink="true">https://www.androidauthority.com/tips-free-up-google-photos-storage-3692375/</guid><pubDate>Sun, 16 Aug 2026 10:30:54 +0000</pubDate><description><![CDATA[<p>5 つの簡単なステップで 20 GB の Google フォト ストレージを解放した方法
-
-Google はアプリの空き領域をもっと簡単にできるようにすべきですが、プロセスを簡単にするいくつかのトリックを見つけました。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-5 つの簡単なステップで 20 GB の Google フォト ストレージを解放した方法
-
-0 • Taylor Kerns / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください Google One サブスクリプションを持っているので、Google アカウントで標準の 15 GB を超える無料ストレージを利用できます。ただし、これは、Google が圧縮画像の無制限の無料ストレージを約束したからといって、使い始めたばかりのサービスにさらにお金をかけたいという意味ではありません。ストレージ割り当てが現在の 100 GB プランの中間点を超えたのを見て、行動を起こす時期が来たと判断しました。
-
-しかし、Google は、Google フォトの画像や動画の管理を簡単にしているわけではありません。一括削除や圧縮のほかに、ほとんどの場合、自分でファイルを整理する必要があります。
-
-そこで、作業を簡単にするためのプロセスを設定しました。これらの手順に従って、ストレージから数千のアイテムを削除し、20 GB 以上のスペースを解放しました。
-
-Google は写真のスペースをより簡単に解放できるようにする必要があると思いますか?
-
-2021 年 6 月より前の圧縮メディアを無視しました
-
-Megan Ellis / Android Authority Google フォトには 47,000 を超えるアイテムがバックアップされているため、作業を開始する前に優先順位を設定する必要があることがわかっていました。幸いなことに、無視できるアイテムがたくさんあることはわかっていました…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/07/google-photos-july-2026-redesign.jpg" alt="5 つの簡単なステップで 20 GB の Google フォト ストレージを解放した方法"></p>]]></description><source url="https://www.androidauthority.com/tips-free-up-google-photos-storage-3692375/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/07/google-photos-july-2026-redesign.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/07/google-photos-july-2026-redesign.jpg"/></item>
-<item><title>Valve Steam Frame VR ヘッドセットの発売が近づいていると報じられている</title><link>https://www.kitguru.net/gaming/joao-silva/valve-steam-frame-vr-headset-launch-reportedly-approaching/</link><guid isPermaLink="true">https://www.kitguru.net/gaming/joao-silva/valve-steam-frame-vr-headset-launch-reportedly-approaching/</guid><pubDate>Sun, 16 Aug 2026 10:30:52 +0000</pubDate><description><![CDATA[<p>Valve Steam Frame VR ヘッドセットの発売が近づいていると報じられている
-
-VR ゲーム開発者によると、Valve の長い間噂されていた Steam Frame VR ヘッドセットが間もなく発売される予定です。スタジオとそのパブリッシャーである 2080 Games は、タイトルを発売する前に Valve がヘッドセットを正式にリリースするのを待っていると伝えられており、間もなく発表される予定です。 Notebookcheck によると、Gunman Contracts の Discord サーバーに投稿された FAQ には、
-
-Valve Steam Frame VR ヘッドセットの発売が近づいていると報じられている
-
-João Silva 1 時間前 注目の技術ニュース、ソフトウェア、ゲーム
-
-VR ゲーム開発者によると、Valve の長い間噂されていた Steam Frame VR ヘッドセットが間もなく発売される予定です。スタジオとそのパブリッシャーである 2080 Games は、タイトルを発売する前に Valve がヘッドセットを正式にリリースするのを待っていると伝えられており、間もなく発表される予定です。 Notebookcheck によると、Gunman Contracts の Discord サーバーに投稿された FAQ の中で、開発者は Valve の VR ヘッドセットのリリースが「もうすぐ」であると述べています。ただし、Valve はまだ公開日を発表していないため、チーム自身でそれを行うことはできません。画像クレジット: Notebookcheck Steam Frame は、Steam Machine と Steam コントローラーの以前のリリースに続く、Valve の最新の 3 部構成のハードウェア イニシアチブの最後の部分を表します。 VR ヘッドセットの仕様には、Qualcomm Snapdragon 8 Gen 3 プロセッサ、16GB の統合 LPDDR5X RAM、最大 1TB の内部ストレージが含まれます。各 L…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/06/videoframe_3877-732x330.png" alt="Valve Steam Frame VR ヘッドセットの発売が近づいていると報じられている"></p>]]></description><source url="https://www.kitguru.net/gaming/joao-silva/valve-steam-frame-vr-headset-launch-reportedly-approaching/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/06/videoframe_3877-732x330.png" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/06/videoframe_3877-732x330.png"/></item>
-<item><title>元農業局長、AIデータセンター開発者に自分の土地の購入を勧める ― 阻止された63億ドルのプロジェクトは、500の管轄権による一時停止の波と70％の世論の反対を無視して、自発的な近隣諸国に移転するだけだと主張</title><link>https://www.tomshardware.com/tech-industry/data-centers/former-missouri-farm-bureau-president-offers-his-farm-for-a-data-center</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/data-centers/former-missouri-farm-bureau-president-offers-his-farm-for-a-data-center</guid><pubDate>Sun, 16 Aug 2026 10:30:00 +0000</pubDate><description><![CDATA[<p>元農業局長、AIデータセンター開発者に自分の土地の購入を勧める ― 阻止された63億ドルのプロジェクトは、500の管轄権による一時停止の波と70％の世論の反対を無視して、自発的な近隣諸国に移転するだけだと主張
-
-開発者の皆さん、私にオファーをください。
-
-元農業局長、AIデータセンター開発者に自分の土地の購入を勧める ― 阻止された63億ドルのプロジェクトは、500の管轄権による一時停止の波と70％の世論の反対を無視して、自発的な近隣諸国に移転するだけだと主張
-
-「開発者の皆さん、私にオファーをください。」
-
-(画像クレジット: Matthew Fowler via Getty Images) リンクをコピー
-
-0 会話に参加してください フォローしてください Google ニュースレターの優先ソースとして追加してください ニュースレターを購読してください ミズーリ州アチソン郡の農家で、2010 年から 2020 年までミズーリ州農業局を率いていたブレイク・ハースト氏は、ウォール・ストリート・ジャーナルの論説でデータセンター開発者に自分の土地への入札を呼びかけ、「開発者の皆さん、私にオファーをください」と書いています。彼の農場は、隣接するノダウェイ郡で提案されているホワイト・クラウド・エーカーズ・プロジェクトから約40マイル離れたところにある。このデータセンター・キャンパスは地元の報道で63億ドルと評価され、郡委員らは7月21日に最大6か月の猶予期間を設けて中止した。ハースト氏の主張は、現在近隣のデータセンターに反対する人が63％から70％となっている全国世論調査や、今月全国の500の管轄区域に押し寄せた規制の波に反対している。
-
-ノダウェイ郡の委員らは、ホワイト・クラウド・エーカーズの背後にある開発会社であるスケール・マイクログリッドと開発協定を交渉する一方で、一時停止条例を可決した。ノースウェスト・ミズーリアン紙によると、この計画に反対する請願書には約２カ月で７０００人以上の署名が集まり、メリービル市長は反対を表明したという。
-
-ハースト氏の反論は、ノダウェイ郡の人…</p><p><img src="https://cdn.mos.cms.futurecdn.net/SN2jKEsMGBRYWHAepcoQE7-1600-80.jpg" alt="元農業局長、AIデータセンター開発者に自分の土地の購入を勧める ― 阻止された63億ドルのプロジェクトは、500の管轄権による一時停止の波と70％の世論の反対を無視して、自発的な近隣諸国に移転するだけだと主張"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/data-centers/former-missouri-farm-bureau-president-offers-his-farm-for-a-data-center">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/SN2jKEsMGBRYWHAepcoQE7-1600-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/SN2jKEsMGBRYWHAepcoQE7-1600-80.jpg"/></item>
-<item><title>Epomaker、ホットスワップ可能な画面を備えた RT75 レトロ ワイヤレス メカニカル キーボードを発表</title><link>https://www.kitguru.net/peripherals/keyboards/joao-silva/epomaker-announces-rt75-retro-wireless-mechanical-keyboard-with-hot-swappable-screen/</link><guid isPermaLink="true">https://www.kitguru.net/peripherals/keyboards/joao-silva/epomaker-announces-rt75-retro-wireless-mechanical-keyboard-with-hot-swappable-screen/</guid><pubDate>Sun, 16 Aug 2026 10:00:50 +0000</pubDate><description><![CDATA[<p>Epomaker、ホットスワップ可能な画面を備えた RT75 レトロ ワイヤレス メカニカル キーボードを発表
-
-Epomaker は、ホットスワップ可能な 1.54 インチ TFT スクリーン、トライモード ワイヤレス接続、ガスケット マウント構造を備えた、レトロ風の 75% メカニカル キーボードである RT75 を正式に発表しました。 Epomaker の Creamy Jade リニア スイッチ付きで 91.79 ドル、Crystal Tactile Silent スイッチ付きで 93.49 ドルの RT75 キーボード (TechPowerUP 経由) の価格はレトロ ホワイトですが、他の色のオプションも続く可能性があります。それ
-
-Epomaker、ホットスワップ可能な画面を備えた RT75 レトロ ワイヤレス メカニカル キーボードを発表
-
-João Silva 2 時間前 キーボード
-
-Epomaker は、ホットスワップ可能な 1.54 インチ TFT スクリーン、トライモード ワイヤレス接続、ガスケット マウント構造を備えた、レトロ風の 75% メカニカル キーボードである RT75 を正式に発表しました。 Epomaker の Creamy Jade リニア スイッチ付きで 91.79 ドル、Crystal Tactile Silent スイッチ付きで 93.49 ドルの RT75 キーボード (TechPowerUP 経由) の価格はレトロ ホワイトですが、他の色のオプションも続く可能性があります。そのレイアウトには、カスタム GIF、時計、またはシステム統計を表示するための 1.54 インチ TFT ディスプレイが含まれています。ユーザーはディスプレイを 4 つの追加スイッチにホットスワップして、レイアウトを TKL 寸法に効果的に近づけることができます。その下にある MX スタイルのソケットは、Windows および macOS でブラウザ ユーティリティまたは専用ソフトウェアとして利用できる Epomaker Driver 3.0 によって…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/08/EPOMAKER_RT75_05-732x330.jpg" alt="Epomaker、ホットスワップ可能な画面を備えた RT75 レトロ ワイヤレス メカニカル キーボードを発表"></p>]]></description><source url="https://www.kitguru.net/peripherals/keyboards/joao-silva/epomaker-announces-rt75-retro-wireless-mechanical-keyboard-with-hot-swappable-screen/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/08/EPOMAKER_RT75_05-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/08/EPOMAKER_RT75_05-732x330.jpg"/></item>
-<item><title>ブラウザの最も厄介な問題を解決する 8 つの Google Chrome フラグ</title><link>https://www.androidauthority.com/best-google-chrome-flags-2026-3698138/</link><guid isPermaLink="true">https://www.androidauthority.com/best-google-chrome-flags-2026-3698138/</guid><pubDate>Sun, 16 Aug 2026 10:00:49 +0000</pubDate><description><![CDATA[<p>ブラウザの最も厄介な問題を解決する 8 つの Google Chrome フラグ
-
-Chrome フラグは実験的なものかもしれませんが、だからといって有用性が低下するわけではありません。ここに私が誓うものがあります。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-ブラウザの最も厄介な問題を解決する 8 つの Google Chrome フラグ
-
-0 • Edgar Cervantes / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください Chrome は、機能の面で他の人気ブラウザに後れを取っているとして、多くの批判を受けています。そして、確かに、その批判の中には正当なものもあります。しかし、「フラグ」と呼ばれる実験的なメニューに埋もれているという理由だけで、ほとんどの人が触れたことのない Chrome 機能の長いリストもあります。
-
-これらはすべて、Google がまだ正式に提供していない機能ですが、試してみたい場合は利用できます。中には時間を費やす価値のないものや、技術的すぎて気にする必要のないものもありますが、最も迷惑なブラウジングの問題を解決するものもいくつかあります。
-
-Chrome フラグを定期的に使用しますか?
-
-Pankil Shah / Android Authority Chrome ではタブをミュートできるので、サイトを開いた瞬間に音声が大音量で流れるサイトを我慢する必要がなくなります。唯一のことは、これは 2 段階のプロセスであるということです。まずタブを右クリックし、 [サイトをミュート] を選択する必要があります。
-
-タブのオーディオミュート UI コントロールは、それを簡単にするシンプルなフラグです。これを有効にすると、タブ上のオーディオ インジケーターがミュート ボタンとしても機能するため、ボタンを直接クリックしてタブをミュートまたはミュート解除できるようになります。実際にやってみると、…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2023/11/Google-Chrome-Flags-page-running-on-Chromebook-stock-photo.jpg" alt="ブラウザの最も厄介な問題を解決する 8 つの Google Chrome フラグ"></p>]]></description><source url="https://www.androidauthority.com/best-google-chrome-flags-2026-3698138/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2023/11/Google-Chrome-Flags-page-running-on-Chromebook-stock-photo.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2023/11/Google-Chrome-Flags-page-running-on-Chromebook-stock-photo.jpg"/></item>
-<item><title>ファイル ブラウザはアーカイブされていますが、セルフホスト型の代替ブラウザはあらゆる点でそれよりも高速です</title><link>https://www.xda-developers.com/filestash-self-hosted-replacement-of-file-browser/</link><guid isPermaLink="true">https://www.xda-developers.com/filestash-self-hosted-replacement-of-file-browser/</guid><pubDate>Sun, 16 Aug 2026 10:00:10 +0000</pubDate><description><![CDATA[<p>ファイル ブラウザはアーカイブされていますが、セルフホスト型の代替ブラウザはあらゆる点でそれよりも高速です
-
-ファイル ブラウザに代わるものを探した結果、より高速で柔軟なセットアップを見つけることができました。
-
-ファイル ブラウザはアーカイブされていますが、セルフホスト型の代替ブラウザはあらゆる点でそれよりも高速です
-
-By Yash Patel 公開 2026 年 8 月 16 日、午前 6:00 EDT 2018 年にテクノロジー業界でのキャリアを開始し、Yash はソフトウェア エンジニアとして 3 年以上を過ごしました。その後、彼はテクノロジー ブログ DiGiTAL BiRYANi の有益で魅力的なコンテンツを通じて読者に力を与えることに重点を移しました。彼は MakeTechEasier の技術記事も出版しています。彼は新しいテクノロジー ガジェットやプラットフォームを探索するのが大好きです。彼が執筆していないときは、食べ物について調べていることがわかります。彼はテクノロジーと食べ物への愛情から、読者の間ではデジタル シェフ ヤシュとして知られています。 XDA アカウントにサインインします。私を知っている人は、私がセルフホスティングをどれだけ楽しんでいるかを知っています。私は、オープンソース ツールを試し、自分のサーバー上で実行し、希望どおりに動作するセットアップをゆっくりと構築するのが好きです。しかし、私がセルフホスティングであまり楽しめない部分の 1 つは、まったく問題なく動作していたツールを置き換えることです。
-
-それがまさにファイル ブラウザで起こったことです。それは私のサーバーで何年も実行されていましたが、それを置き換える特別な理由はありませんでした。しかし、このプロジェクトは 2026 年 9 月にアーカイブされる予定だったので、実際に必要になる前に代替案を探し始めました。いくつかのオプションを試しましたが、最終的に Filestash に落ち着きました。私の日常のニーズにとって十分シンプルに見えたので、それを展開して、私のセットアップにどの…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/filestash-on-lenovo-legion.jpg?w=1600&amp;h=900&amp;fit=crop" alt="ファイル ブラウザはアーカイブされていますが、セルフホスト型の代替ブラウザはあらゆる点でそれよりも高速です"></p>]]></description><source url="https://www.xda-developers.com/filestash-self-hosted-replacement-of-file-browser/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/filestash-on-lenovo-legion.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/filestash-on-lenovo-legion.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>すべての Android スマートフォンに対してサインインする前に行う最初の 5 つのこと</title><link>https://www.xda-developers.com/the-first-5-things-i-do-to-every-android-phone-before-i-even-sign-in/</link><guid isPermaLink="true">https://www.xda-developers.com/the-first-5-things-i-do-to-every-android-phone-before-i-even-sign-in/</guid><pubDate>Sun, 16 Aug 2026 10:00:10 +0000</pubDate><description><![CDATA[<p>すべての Android スマートフォンに対してサインインする前に行う最初の 5 つのこと
-
-新しい Android スマートフォンで Google にサインインする前に行うべき重要な事項。
-
-すべての Android スマートフォンに対してサインインする前に行う最初の 5 つのこと
-
-By Brian Burgess 公開 2026 年 8 月 16 日、午前 6:00 EDT ミネソタ州の田舎に拠点を置くブライアン バージェスは、消費者向けテクノロジーについて執筆することに情熱を注ぐまで、IT 業界で 10 年間働いていました。ブライアンは、2000 年にコンピュータおよびネットワーク テクノロジの学位を取得しました。彼は、ヘルプ デスク サポート、IBM のルーターの設置、データベース管理、その他のネットワーク管理関連の役割など、さまざまな IT 職を歴任しました。彼は 18 年間個人のテクノロジー ジャーナリストとして活動しており、Microsoft の製品とサービス、Android、iOS、ストリーミングなどに関する何千もの記事を執筆してきました。彼は、XDA、InformationWeek、How-To Geek、Byte、groovyPost などの著名な技術サイトに寄稿しています。彼がキーボードから離れているときは、ギターを弾いたり、屋外で仕事をしたり、スタートレックを見たりしているのが聞こえます。 XDA アカウントにサインインする 新しい Android スマートフォンを購入する場合、Google アカウントにログインすることが優先事項のように思えるかもしれません。携帯電話の機能の多くは、検索大手と結びついています。 Gmail、Play ストア、YouTube、その他のアプリを完全に使用するには、すべてサインインする必要があります。
-
-ただし、電話を保護し、初めて使用できるようにするためのいくつかの重要なタスクを実行するために、Google アカウントにサインインする必要はありません。お気に入りのビデオ、メッセージ、その他のメディアに飛び込む前に、…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/google-pixel-android-phone-setup-offline-1.JPEG?w=1600&amp;h=900&amp;fit=crop" alt="すべての Android スマートフォンに対してサインインする前に行う最初の 5 つのこと"></p>]]></description><source url="https://www.xda-developers.com/the-first-5-things-i-do-to-every-android-phone-before-i-even-sign-in/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/google-pixel-android-phone-setup-offline-1.JPEG?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/google-pixel-android-phone-setup-offline-1.JPEG?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>ウクライナ無人機連隊、戦争ゲームで3,500名の米機甲旅団戦闘チームを「壊滅」―無人機が容易に発見され戦車や装甲車両を破壊できるため、高い無人機撃破率で継続的な「リスポーン」を強いられ、米国の対応の欠陥が明らかに</title><link>https://www.tomshardware.com/tech-industry/drones/ukrainian-drone-regiment-decimates-3-500-strong-u-s-armored-brigade-combat-team-in-war-game-reveals-shortcomings-in-american-response-as-drones-easily-spotted-and-destroyed-tanks-and-heavy-armored-vehicles</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/drones/ukrainian-drone-regiment-decimates-3-500-strong-u-s-armored-brigade-combat-team-in-war-game-reveals-shortcomings-in-american-response-as-drones-easily-spotted-and-destroyed-tanks-and-heavy-armored-vehicles</guid><pubDate>Sun, 16 Aug 2026 10:00:00 +0000</pubDate><description><![CDATA[<p>ウクライナ無人機連隊、戦争ゲームで3,500名の米機甲旅団戦闘チームを「壊滅」―無人機が容易に発見され戦車や装甲車両を破壊できるため、高い無人機撃破率で継続的な「リスポーン」を強いられ、米国の対応の欠陥が明らかに
-
-これらのウォーゲームは次のように設計されています
-
-ウクライナ無人機連隊、戦争ゲームで3,500名の米機甲旅団戦闘チームを「壊滅」―無人機が容易に発見され戦車や装甲車両を破壊できるため、高い無人機撃破率で継続的な「リスポーン」を強いられ、米国の対応の欠陥が明らかに
-
-これらのウォーゲームは、訪問部隊を「倒す」ことで、戦場で何か新しいことを学ぶように設計されています。
-
-(画像クレジット: Getty Images ) リンクをコピー
-
-0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 第 1 騎兵師団の第 3 旅団戦闘チーム (3rd BCT) は、ドイツで半年に一度行われる複合解決演習に参加し、412 としてよく知られる第 412 無人システム旅団によって増強された専任の米陸軍 OPFOR (反対部隊) 部隊と対峙しました。ネメシスは、主にドローンを運用するマルチドメインのウクライナのエリート部隊です。ウォール・ストリート・ジャーナルによると、OPFORを攻撃する任務を負った3,500名の部隊は、模擬交戦中に多くの戦車やその他の装甲車両を排除されたという。
-
-第 3 BCT は非常に強力なユニットであり、伝統的に M1 エイブラムス戦車、M2 および M3 ブラッドリー戦闘車両、M109 パラディン榴弾砲などが装備されています。また、車両を新たな脅威から守るために、標準的な電子戦と対ドローンオペレーターも備えていました。しかし、その装備の印象的な装甲と火力、そして独自の対ドローン専門部隊による追加防御にもかかわらず、第 3 BCT は依然として 412 ネメシスの小型で機敏なドローンに対して勝ち目はありませんでした。第 3 BCT の最大の資産は最大の弱点であることが判明しました。大型車両が…</p><p><img src="https://cdn.mos.cms.futurecdn.net/dzh32tXeHa6C5hDgEq5SEo-1920-80.png" alt="ウクライナ無人機連隊、戦争ゲームで3,500名の米機甲旅団戦闘チームを「壊滅」―無人機が容易に発見され戦車や装甲車両を破壊できるため、高い無人機撃破率で継続的な「リスポーン」を強いられ、米国の対応の欠陥が明らかに"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/drones/ukrainian-drone-regiment-decimates-3-500-strong-u-s-armored-brigade-combat-team-in-war-game-reveals-shortcomings-in-american-response-as-drones-easily-spotted-and-destroyed-tanks-and-heavy-armored-vehicles">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/dzh32tXeHa6C5hDgEq5SEo-1920-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/dzh32tXeHa6C5hDgEq5SEo-1920-80.png"/></item>
-<item><title>GSC Game World が S.T.A.L.K.E.R. を公開2 無料アップデート 2.0 の詳細</title><link>https://www.kitguru.net/gaming/joao-silva/gsc-game-world-reveals-s-t-a-l-k-e-r-2-free-update-2-0-details/</link><guid isPermaLink="true">https://www.kitguru.net/gaming/joao-silva/gsc-game-world-reveals-s-t-a-l-k-e-r-2-free-update-2-0-details/</guid><pubDate>Sun, 16 Aug 2026 09:30:49 +0000</pubDate><description><![CDATA[<p>GSC Game World が S.T.A.L.K.E.R. を公開2 無料アップデート 2.0 の詳細
-
-GSC Game World は、S.T.A.L.K.E.R. のアップデート 2.0 を発表しました。 2: Heart of Chornobyl は、最初の大型拡張である Cost of Hope とともに 8 月 20 日に発売されます。 Update 2.0 では、照明、影、反射、葉を徹底的に見直す無料のエンジン アップグレードが提供されます。 GSC Game World は、A-Life 人工知能により、より多くの争点がもたらされるようになったと述べています。
-
-GSC Game World が S.T.A.L.K.E.R. を公開2 無料アップデート 2.0 の詳細
-
-João Silva 2 時間前 注目の技術ニュース、ソフトウェア、ゲーム
-
-GSC Game World は、S.T.A.L.K.E.R. のアップデート 2.0 を発表しました。 2: Heart of Chornobyl は、最初の大型拡張である Cost of Hope とともに 8 月 20 日に発売されます。 Update 2.0 では、照明、影、反射、葉を徹底的に見直す無料のエンジン アップグレードが提供されます。 GSC Game World によると、A-Life 人工知能は、壁撃ちや人口過多に対処するバグ修正とともに、より多くの争点となっている興味深いポイントを提供するようになりました。霧は視界と聴覚を低下させるゲームプレイメカニズムとして機能するようになりましたが、ミュータントの外観は生息地によって異なります。統計ページも PDA に追加されました。プレイヤーは、難易度設定、3 つの両眼バリアント、および PDA 統計ページを調整するためのカスタム ルールを取得します。武器の追加には、Arev アサルト ライフル、GP3A および SKP 指定のマークスマン ライフル、Fora-230 サブマシンガンが含まれており、それぞれがゾーンで見つかる独自のバリエーション…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/08/HPr7xY3XoAApESV-732x330.jpg" alt="GSC Game World が S.T.A.L.K.E.R. を公開2 無料アップデート 2.0 の詳細"></p>]]></description><source url="https://www.kitguru.net/gaming/joao-silva/gsc-game-world-reveals-s-t-a-l-k-e-r-2-free-update-2-0-details/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/08/HPr7xY3XoAApESV-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/08/HPr7xY3XoAApESV-732x330.jpg"/></item>
-<item><title>Pixel 10 Pro をお持ちですか? Pixel 11 Pro にアップグレードすべきではない 6 つの理由</title><link>https://www.androidauthority.com/pixel-10-pro-vs-pixel-11-pro-3696445/</link><guid isPermaLink="true">https://www.androidauthority.com/pixel-10-pro-vs-pixel-11-pro-3696445/</guid><pubDate>Sun, 16 Aug 2026 09:30:25 +0000</pubDate><description><![CDATA[<p>Pixel 10 Pro をお持ちですか? Pixel 11 Pro にアップグレードすべきではない 6 つの理由
-
-新しいギミックと機能を備えた Google Pixel 11 Pro が登場しました。ただし、Pixel 10 Pro をまだ所有している場合は、まだアップグレードする必要はありません。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Android スマートフォンには Pixel 10 Pro がありますか? Pixel 11 Pro にアップグレードすべきではない 6 つの理由
-
-0 • Joe Maring / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください 毎年、消費者は昨年の携帯電話から今年の携帯電話にアップグレードするよう圧力をかけられます。 Pixel 11 Pro の発売により、Pixel 10 Pro の所有者はこの圧迫感を感じています。
-
-確かに、Google の魅力的なマーケティングと進歩の約束は魅力的です。最新かつ最高の製品を求めることは、本質的に否定的な欲求ではありません。しかし、Android メーカーは毎年の進歩を着実に実現するのに苦労しており、この危機が見え始めています。この石から絞り出される血はほとんどありません。
-
-私は Google Pixel 11 Pro をそのように見ています。確かに新しいですが、スペックと機能シートに数行追加され、いくつかのキャッチーな美的追加が詰め込まれていますが、すでに Pixel 10 Pro を所有している場合は、これ以上のものはありません。
-
-まだ Pixel 10 Pro を使い続けている場合でも、心配する必要はありません。 Google の 2025 年の主力製品にはまだ命がたくさん残っています。現時点ではそれを保持する必要がある理由は次のとおりです。
-
-Pixel 10 Pro をお持ちの場合は、Pixel 11 Pro にア…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-vs-pixel-10-pro-hands-on-3-scaled.jpg" alt="Pixel 10 Pro をお持ちですか? Pixel 11 Pro にアップグレードすべきではない 6 つの理由"></p>]]></description><source url="https://www.androidauthority.com/pixel-10-pro-vs-pixel-11-pro-3696445/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-vs-pixel-10-pro-hands-on-3-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-vs-pixel-10-pro-hands-on-3-scaled.jpg"/></item>
-<item><title>不正な iOS 開発者が伝書鳩から送信されるメッセージをシミュレートするアプリを作成。メッセージは時速 160 マイルでのみ送信されます。LA から NYC への通信は配信までに 22 時間かかります。仮想の鳥は気が散ったり、道に迷ったりする可能性があります</title><link>https://www.tomshardware.com/software/applications/rogue-ios-developer-creates-app-that-simulates-messages-sent-by-carrier-pigeon-messages-only-travel-at-100mph-la-to-nyc-correspondence-takes-22-hours-to-deliver-virtual-birds-can-get-distracted-or-even-lost</link><guid isPermaLink="true">https://www.tomshardware.com/software/applications/rogue-ios-developer-creates-app-that-simulates-messages-sent-by-carrier-pigeon-messages-only-travel-at-100mph-la-to-nyc-correspondence-takes-22-hours-to-deliver-virtual-birds-can-get-distracted-or-even-lost</guid><pubDate>Sun, 16 Aug 2026 09:30:00 +0000</pubDate><description><![CDATA[<p>不正な iOS 開発者が伝書鳩から送信されるメッセージをシミュレートするアプリを作成。メッセージは時速 160 マイルでのみ送信されます。LA から NYC への通信は配信までに 22 時間かかります。仮想の鳥は気が散ったり、道に迷ったりする可能性があります
-
-仮想伝書鳩は時速 160 マイル ±25% の速度変動で飛行します。
-
-不正な iOS 開発者が伝書鳩から送信されるメッセージをシミュレートするアプリを作成。メッセージは時速 160 マイルでのみ送信されます。LA から NYC への通信は配信までに 22 時間かかります。仮想の鳥は気が散ったり、道に迷ったりする可能性があります
-
-仮想伝書鳩は時速 160 マイル ±25% の速度変動で飛行します。
-
-(画像クレジット: Future) リンクをコピー
-
-0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 現代生活の多忙なペースと、インスタント メッセージング (IM) プラットフォームの注目を集める即時性に戸惑っていませんか?電子メールは少々気合が入りすぎていると感じませんか?開発者のノア・ラロビノ氏は、伝書鳩が移動する速度でメッセージを送信する iOS 用の新しい伝書ピッジ アプリで、あなたが求める解決策を見つけられるかもしれません。
-
-電子メールよりも遅いテキスト メッセージ アプリの構築に 3 週間を費やしました。メッセージは猛スピードで飛び交います。ロサンゼルスからニューヨークまでは 22 時間かかります。鳥が死んでメッセージが届かない場合もあります。 pic.twitter.com/MwHcldFr0Y 2026 年 8 月 12 日
-
-開発者が概説したように、Carrier Pidge の主な特徴は、電子通信をより自然な速度まで減速することです。具体的には、他のアプリ ユーザーに送信するメッセージは、それぞれの GPS 位置に基づいて猛スピードで届きます。 Carrier Pidge のアプリ ストア ページによると、これはメッセージが…</p><p><img src="https://cdn.mos.cms.futurecdn.net/3ZFcbD7pLmME7gcxhjADw6-1920-80.jpg" alt="不正な iOS 開発者が伝書鳩から送信されるメッセージをシミュレートするアプリを作成。メッセージは時速 160 マイルでのみ送信されます。LA から NYC への通信は配信までに 22 時間かかります。仮想の鳥は気が散ったり、道に迷ったりする可能性があります"></p>]]></description><source url="https://www.tomshardware.com/software/applications/rogue-ios-developer-creates-app-that-simulates-messages-sent-by-carrier-pigeon-messages-only-travel-at-100mph-la-to-nyc-correspondence-takes-22-hours-to-deliver-virtual-birds-can-get-distracted-or-even-lost">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/3ZFcbD7pLmME7gcxhjADw6-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/3ZFcbD7pLmME7gcxhjADw6-1920-80.jpg"/></item>
-<item><title>Intel Razor Lake-AX APU はオーバークロックのためにロックされており、Nova Lake に基づいていると報告されています</title><link>https://www.kitguru.net/components/cpu/joao-silva/intel-razor-lake-ax-apu-reportedly-locked-for-overclocking-and-based-on-nova-lake/</link><guid isPermaLink="true">https://www.kitguru.net/components/cpu/joao-silva/intel-razor-lake-ax-apu-reportedly-locked-for-overclocking-and-based-on-nova-lake/</guid><pubDate>Sun, 16 Aug 2026 09:00:48 +0000</pubDate><description><![CDATA[<p>Intel Razor Lake-AX APU はオーバークロックのためにロックされており、Nova Lake に基づいていると報告されています
-
-リーカーのJaykihn氏が共有した新しい詳細によると、Intelの噂のRazor Lake-AXプロセッサはオーバークロックのロックが解除されないと伝えられている。
-
-Intel Razor Lake-AX APU はオーバークロックのためにロックされており、Nova Lake に基づいていると報告されています
-
-リーカーのJaykihn氏が共有した新しい詳細によると、Intelの噂のRazor Lake-AXプロセッサはオーバークロックのロックが解除されないと伝えられている。このチップは、従来のソケット付きデスクトップ プロセッサではなく、大規模な APU プラットフォーム上の Nova Lake CPU アーキテクチャを搭載するように設定されています。 Jaykihn (VideoCardz 経由) は、Razor Lake-AX は Coyote Cove P コアと Arctic Wolf E コアに依存していると主張しています。このアーキテクチャは、その名前が示すよりも多くの Nova Lake テクノロジを保持しており、異なる P コアおよび E コア構成を使用する必要がある Razor Lake-S/H とは区別されます。以前のリークでは、Razor Lake-AX は 16 個または 32 個の Xe3p グラフィックス コアとともにオンパッケージ メモリを備えた BGA4326 パッケージに関連付けられていました。これらの物理仕様は、AX が標準のデスクトップ CPU ではなく、大規模な APU プラットフォームであることを示しています。公式ブランドはまだ明確ではなく、Core 400または500シリーズのどちらに該当するかについては疑問が残っている。 Intel は Razor Lake-AX を正式に発表していませんが、リリースは 2027 年末か 2028 年初めに行われると予想されています。 Ki…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2024/11/newsrsoom-intel-core-ultra-3.jpg.rendition.intel_.web_.1920.1080-732x330.jpg" alt="Intel Razor Lake-AX APU はオーバークロックのためにロックされており、Nova Lake に基づいていると報告されています"></p>]]></description><source url="https://www.kitguru.net/components/cpu/joao-silva/intel-razor-lake-ax-apu-reportedly-locked-for-overclocking-and-based-on-nova-lake/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2024/11/newsrsoom-intel-core-ultra-3.jpg.rendition.intel_.web_.1920.1080-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2024/11/newsrsoom-intel-core-ultra-3.jpg.rendition.intel_.web_.1920.1080-732x330.jpg"/></item>
 </channel></rss>
