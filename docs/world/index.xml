@@ -1,6 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Wed, 19 Aug 2026 05:45:47 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Wed, 19 Aug 2026 07:04:43 +0000</lastBuildDate>
+<item><title>Raspberry Pi Compute Module 5が公式プログラミング治具を入手</title><link>https://www.cnx-software.com/2026/08/19/raspberry-pi-compute-module-5-gets-an-official-programming-jig/</link><guid isPermaLink="true">https://www.cnx-software.com/2026/08/19/raspberry-pi-compute-module-5-gets-an-official-programming-jig/</guid><pubDate>Wed, 19 Aug 2026 07:00:59 +0000</pubDate><description><![CDATA[<p>Raspberry Pi Compute Module 5が公式プログラミング治具を入手
+
+Raspberry Pi Compute Module 5 プログラミング ジグは、Raspberry Pi CM5 に OS を簡単にフラッシュできるように設計されたシングルヘッド プロビジョニング システムです。
+
+Raspberry Pi Compute Module 5 プログラミング ジグは、キャリア ボードなしで Raspberry Pi CM5 に OS を簡単にフラッシュできるように設計されたシングルヘッド プロビジョニング システムです。
+
+このジグは、イーサネットまたは Wi-Fi 経由でプロビジョニング ネットワークに接続し、コンピューティング モジュール用の 2 番目のイーサネット ポートも備えています。 CM5 は機械的なクランプ機構によって所定の位置に保持され、ジグはコンピューティング モジュールとの接続にポゴ ピンを使用します。
+
+Raspberry Pi Compute Module 5と互換性あり
+
+接続 JIG ETH – ジグをネットワークに接続するためのギガビット イーサネット RJ45 ジャック。メモ
+
+DUT ETH – CM5 をネットワークに接続するためのギガビット イーサネット RJ45 ジャック
+
+JIG ETHの代替として外部アンテナを備えたWiFi
+
+ホストに接続するための USB-C ブート コネクタ
+
+電源 – 12V/2A (24W) DC (パワーバレルジャック経由)
+
+寸法 – 181.5 x 170 x 153 mm
+
+最初のステップは、Web ブラウザで rpi-imager://open?repo=https://downloads.raspberrypi.com/cm5-jig/cm5-jig.rpi-imager-manifest にアクセスし、Ctrl + Alt + S を入力して rpiboot を有効にして構成した後、Raspberry Pi Imager プログラムで Compute Modul…</p><p><img src="https://www.cnx-software.com/wp-content/uploads/2026/08/Raspberry-Pi-Compute-Module-5-Programming-Jig.jpg" alt="Raspberry Pi Compute Module 5が公式プログラミング治具を入手"></p>]]></description><source url="https://www.cnx-software.com/2026/08/19/raspberry-pi-compute-module-5-gets-an-official-programming-jig/">CNX Software</source><media:content url="https://www.cnx-software.com/wp-content/uploads/2026/08/Raspberry-Pi-Compute-Module-5-Programming-Jig.jpg" medium="image"/><media:thumbnail url="https://www.cnx-software.com/wp-content/uploads/2026/08/Raspberry-Pi-Compute-Module-5-Programming-Jig.jpg"/></item>
+<item><title>Raspberry Pi Compute Module 5 プログラミング ジグの紹介</title><link>https://www.raspberrypi.com/news/introducing-the-raspberry-pi-compute-module-5-programming-jig/</link><guid isPermaLink="true">https://www.raspberrypi.com/news/introducing-the-raspberry-pi-compute-module-5-programming-jig/</guid><pubDate>Wed, 19 Aug 2026 06:56:48 +0000</pubDate><description><![CDATA[<p>Raspberry Pi Compute Module 5 プログラミング ジグの紹介
+
+現在販売中の Raspberry Pi Compute Module 5 プログラミング ジグを使用して、Raspberry Pi Compute Module 5 を大規模にプロビジョニングします。
+
+単一のデバイスを作成するのは困難です。ハードウェア、ソフトウェア、ドキュメント、そしてそれをどのように販売するかを準備する必要があります。これらの障壁をすべてクリアしたら、次の 1000 ドルをどうやって稼ぐかという、新たな領域の問題に直面することになります。
+
+Raspberry Pi Compute Module 5 に基づいて製品を設計する開発者向けに、新しい Raspberry Pi Compute Module 5 プログラミング ジグを使用して、その問題スペースを小さくしました。これは、オペレーティング システムとセキュリティ構成を使用して Compute Module 5 をプログラムするシングルヘッド プロビジョニング システムです。
+
+シンプルで反復可能なプロビジョニング
+
+プログラミング ジグは、大部分の設定手順を省略してプロビジョニング ワークフローを簡素化します。ジグのソフトウェアをセットアップし、必要なポートを接続した後は、Compute Module 5 をモジュール ベイに挿入し、クランプを押して閉じるだけです。それ以上の介入は必要ありません。ユニットがプログラムされたときはステータス LED が示します。
+
+プログラミング ジグの背面には、プログラムするジグとコンピューティング モジュール 5 用のイーサネット、ジグ ソフトウェアを手動で更新するための USB プログラミング ポートなど、小さなポートのセットが表示されます。また、デバイスの動作を示す 2 つのアクティビティ LED (ジグ用とモジュール用) もあります。
+
+さらに高速化するには、JIG ETH ポートと DUT ETH ポートの両方を同じネットワークに接続できます。
+
+セキュア ブー…</p><p><img src="https://www.raspberrypi.com/app/uploads/2026/07/Programming-Jig-hero-1024x682.jpg" alt="Raspberry Pi Compute Module 5 プログラミング ジグの紹介"></p>]]></description><source url="https://www.raspberrypi.com/news/introducing-the-raspberry-pi-compute-module-5-programming-jig/">Raspberry Pi News</source><media:content url="https://www.raspberrypi.com/app/uploads/2026/07/Programming-Jig-hero-1024x682.jpg" medium="image"/><media:thumbnail url="https://www.raspberrypi.com/app/uploads/2026/07/Programming-Jig-hero-1024x682.jpg"/></item>
+<item><title>10億人のTelegramユーザーが間もなく独自のドメインを取得できるようになる</title><link>https://www.androidauthority.com/telegram-top-level-domain-3700158/</link><guid isPermaLink="true">https://www.androidauthority.com/telegram-top-level-domain-3700158/</guid><pubDate>Wed, 19 Aug 2026 06:43:48 +0000</pubDate><description><![CDATA[<p>10億人のTelegramユーザーが間もなく独自のドメインを取得できるようになる
+
+Telegram は新しい「.gram」トップレベル ドメインを申請しており、ユーザーはカスタム ドメインで Web サイトを作成してホストできるようになる可能性があります。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+10億人のTelegramユーザーが間もなく独自のドメインを取得できるようになる
+
+0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Telegram は新しい「.gram」トップレベル ドメインを申請しました。
+
+ユーザーに「username.gram」形式で独自のユーザー名ベースのドメインを与える可能性があります。
+
+同社はまた、ユーザーが自然言語プロンプトを使用して自分のドメイン上に Web サイトを作成できるようにする可能性もあります。
+
+Telegram ユーザーは、アプリ上でメッセージを送受信するだけではありません。 Telegram には便利なボットとチャネルがあり、ユーザーは Telegram を使用して自宅の研究室を管理することもできます。間もなく、このアプリは Web サイト全体をホストするためのカスタム ドメインをユーザーに提供する可能性があります。
+
+新しい X 投稿 で、Telegram 創設者の Pavel Durov 氏は、同社が「.gram」トップレベル ドメイン (TLD) を申請したことを共有しました。アプリケーションが許可された場合、Telegram ユーザーは、username.gram 形式で独自のユーザー名ベースのドメインを取得できます。 Durov氏はまた、Telegramではユーザーが1回のプロンプトを表示するだけで自分のドメイン上にWebサイトを作成できるようになる可能性があるとも付け加えた。
+
+Pavel Durov / X Telegram は、Internet Corporati…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2019/04/telegram-sticker-icon-green-wallpaper-honor-view-20-1.jpg" alt="10億人のTelegramユーザーが間もなく独自のドメインを取得できるようになる"></p>]]></description><source url="https://www.androidauthority.com/telegram-top-level-domain-3700158/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2019/04/telegram-sticker-icon-green-wallpaper-honor-view-20-1.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2019/04/telegram-sticker-icon-green-wallpaper-honor-view-20-1.jpg"/></item>
+<item><title>Hydra unlocks VRAM overclocking and 125% power limits for all GeForce RTX 50 Series GPUs</title><link>https://www.tweaktown.com/rss/click/news/113163/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113163/?c=news-mf</guid><pubDate>Wed, 19 Aug 2026 06:33:10 +0000</pubDate><description><![CDATA[<p>Hydra unlocks VRAM overclocking and 125% power limits for all GeForce RTX 50 Series GPUs</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113163/?c=news-mf">TweakTown</source></item>
+<item><title>Microsoftはついに、アプリへのマイクやWebカメラのアクセスをブロックするプライバシーツールをWindows 11に追加する</title><link>https://www.xda-developers.com/microsoft-is-finally-adding-privacy-tools-to-windows-11-that-block-microphone-and-webcam-access-to-apps/</link><guid isPermaLink="true">https://www.xda-developers.com/microsoft-is-finally-adding-privacy-tools-to-windows-11-that-block-microphone-and-webcam-access-to-apps/</guid><pubDate>Wed, 19 Aug 2026 06:23:44 +0000</pubDate><description><![CDATA[<p>Microsoftはついに、アプリへのマイクやWebカメラのアクセスをブロックするプライバシーツールをWindows 11に追加する
+
+長い時間が経ちました。
+
+Microsoftはついに、アプリへのマイクやWebカメラのアクセスをブロックするプライバシーツールをWindows 11に追加する
+
+Simon Batt 公開 2026 年 8 月 19 日、午前 2:23 EDT Simon はコンピューター サイエンスの学士号を取得しており、2014 年からテクノロジーについて執筆しており、3.1 から Windows マシンを使用しています。インディーズ ゲーム スタジオで働き、コンピューターの問題全般に対応する家族の頼りになる技術者として活動した後、彼は文章を書くことへの情熱に気づき、自分のスキルセットをテクノロジーに関するあらゆることについて書くことに決めました。ライターとしてのキャリアを始めて以来、彼は WorldStart 、 Listverse 、 MakeTechEasier などのさまざまな出版物に執筆してきました。しかし、2019 年 2 月に MakeUseOf に居場所を見つけた後、最終的にはその姉妹サイトである XDA に移り、最新かつ最高の Windows、Linux、DIY 電子機器を提供することになりました。 XDA アカウントにサインインする
+
+最新の Windows 11 実験版ビルドでは、ついに Win32 アプリのアプリごとのマイクとカメラの切り替えが追加されました。
+
+この機能は Experimental Insider ビルド 26340.9212 に導入されており、オン/オフの切り替えと最近使用したアプリの並べ替えが含まれています。
+
+これはまだ実験段階であるため、公共の PC に展開する前にさらなる改良が期待されます。
+
+今年初めに Microsoft が Copilot 主導の混乱から抜け出した後、同社が再び Windows 11 に注目しているのを私たちは見てきました。私たちはすでに、オペレーティング システムの最大の問…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/07/a-webcam-with-an-open-privacy-cover-on-top-of-a-computer-display-2.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Microsoftはついに、アプリへのマイクやWebカメラのアクセスをブロックするプライバシーツールをWindows 11に追加する"></p>]]></description><source url="https://www.xda-developers.com/microsoft-is-finally-adding-privacy-tools-to-windows-11-that-block-microphone-and-webcam-access-to-apps/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/07/a-webcam-with-an-open-privacy-cover-on-top-of-a-computer-display-2.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/07/a-webcam-with-an-open-privacy-cover-on-top-of-a-computer-display-2.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>ASRock DeskMeet X300 build significantly outperforms the Steam Machine for the same price</title><link>https://www.tweaktown.com/rss/click/news/113162/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113162/?c=news-mf</guid><pubDate>Wed, 19 Aug 2026 06:04:13 +0000</pubDate><description><![CDATA[<p>ASRock DeskMeet X300 build significantly outperforms the Steam Machine for the same price</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113162/?c=news-mf">TweakTown</source></item>
 <item><title>Star Citizen livestream full of bugs, glitches, and performance issues raises fresh concerns about the $1 billion game</title><link>https://www.tweaktown.com/rss/click/news/113161/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113161/?c=news-mf</guid><pubDate>Wed, 19 Aug 2026 05:36:12 +0000</pubDate><description><![CDATA[<p>Star Citizen livestream full of bugs, glitches, and performance issues raises fresh concerns about the $1 billion game</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113161/?c=news-mf">TweakTown</source></item>
 <item><title>Amazon Kindle Oasis に新しい書籍暗号化システムが追加されました</title><link>https://goodereader.com/blog/kindle/amazon-kindle-oasis-now-has-new-encryption-system</link><guid isPermaLink="true">https://goodereader.com/blog/kindle/amazon-kindle-oasis-now-has-new-encryption-system</guid><pubDate>Wed, 19 Aug 2026 05:20:30 +0000</pubDate><description><![CDATA[<p>Amazon Kindle Oasis に新しい書籍暗号化システムが追加されました
 
@@ -5551,17 +5627,6 @@ By Megan Ellis Published Aug 15, 2026, 7:00 PM EDT Megan は、XDA Developers �
 これらのアプリは、より優れたプライバシーを提供する場合があります。また、単により良いエクスペリエンスを提供する場合もあります。その結果、これらは私が現在すべての Android スマートフォンで置き換えている Google アプリと、その機能を置き換えるために使用している代替アプリです。
 
 Chrome は私がスマートフォンで置き換えた最初の Google アプリでした。私の最初の動機は、フラグをいじらずに Web ページでダーク モードを強制できるアプリが必要だったという…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/google-apps-on-a-smartphone-screen.jpg?w=1600&amp;h=900&amp;fit=crop" alt="すべての Android スマートフォンで置き換える 5 つの Google アプリと、代わりに使用するアプリ"></p>]]></description><source url="https://www.xda-developers.com/google-app-alternatives-on-android-phone/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/google-apps-on-a-smartphone-screen.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/google-apps-on-a-smartphone-screen.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>GaN+ 充電器を内蔵したこの 13-in-1 USB-C ドッキング ステーションは、私の充電習慣をより良いものに変えました - レビュー</title><link>https://www.notebookcheck.net/This-13-in-1-USB-C-docking-station-with-built-in-GaN-charger-changed-my-charging-habits-for-the-better-a-review.1369641.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/This-13-in-1-USB-C-docking-station-with-built-in-GaN-charger-changed-my-charging-habits-for-the-better-a-review.1369641.0.html</guid><pubDate>Sat, 15 Aug 2026 22:40:00 +0000</pubDate><description><![CDATA[<p>GaN+ 充電器を内蔵したこの 13-in-1 USB-C ドッキング ステーションは、私の充電習慣をより良いものに変えました - レビュー
-
-MOKiN MOPU1102 13-in-1 USB-C ドッキング ステーションの短い実践レビュー。Lenovo Legion Go および標準的なコンピューター周辺機器と組み合わせて、その構築品質、機能、実現可能性を探ります。テストの結果、メイン充電器の両方に役立つ十分な電力とポートがあることが判明し、詳細な充電インジケーターを備えた卓上充電器に簡単にアクセスできることが、バッテリーの劣化を防ぐ良い方法になる可能性があると著者は述べています。
-
-評決 - 高速充電を備えた堅牢で手頃な価格の USB-C ドッキング ステーション
-
-ⓘ Notebookcheck/Julian van der Merwe MOKiN 13 in 1 USB C ドッキング ステーション HDMI ディスプレイ モード MOKiN 13-in-1 USB-C ドッキング ステーションは、特にメインの生産性ワークステーションとして薄型軽量ラップトップのようなものに依存している人、または Anker や Baseus などの大手ブランドのもう少し手頃な代替品を探している場合に、デスクトップ セットアップへの優れた追加です。日常的な使用例では、MOKiN USB-C ドッキング ステーションにはほとんどのユーザーのニーズを満たすのに十分な USB Type-C ポートがあり、デュアル HDMI 2.1 ディスプレイ出力の追加によりさらに便利になります。
-
-実際には、ドッキング ステーションを使用すると、有線マウスとキーボード、デュアル 4K 60 Hz ディスプレイ、薄型軽量またはゲーム用ハンドヘルドへの有線 GbE ネットワーク接続を追加する 1 本のケーブル接続が可能になります。後者が私の使用例でした。
-
-MOKiN 13-in-1 USB-C ドッキング ステーションの唯一の大きな欠点は、3.5 mm ヘッドフォン ジャックと SD カード リー…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MOKiN-13-in-1-USB-C-charging-dock-review-teaser.jpg" alt="GaN+ 充電器を内蔵したこの 13-in-1 USB-C ドッキング ステーションは、私の充電習慣をより良いものに変えました - レビュー"></p>]]></description><source url="https://www.notebookcheck.net/This-13-in-1-USB-C-docking-station-with-built-in-GaN-charger-changed-my-charging-habits-for-the-better-a-review.1369641.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MOKiN-13-in-1-USB-C-charging-dock-review-teaser.jpg" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MOKiN-13-in-1-USB-C-charging-dock-review-teaser.jpg"/></item>
 <item><title>MOKiN の 13-in-1 USB-C ドッキング ステーションには実際に便利なギミックがあり、私の Lenovo Legion Go を使えるデスクトップ PC に変えてくれました。</title><link>https://www.notebookcheck.net/MOKiN-s-13-in-1-USB-C-docking-station-has-an-actually-useful-gimmick-and-it-turned-my-Lenovo-Legion-Go-into-a-usable-desktop-PC.1369641.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/MOKiN-s-13-in-1-USB-C-docking-station-has-an-actually-useful-gimmick-and-it-turned-my-Lenovo-Legion-Go-into-a-usable-desktop-PC.1369641.0.html</guid><pubDate>Sat, 15 Aug 2026 22:40:00 +0000</pubDate><description><![CDATA[<p>MOKiN の 13-in-1 USB-C ドッキング ステーションには実際に便利なギミックがあり、私の Lenovo Legion Go を使えるデスクトップ PC に変えてくれました。
 
 MOKiN MOPU1102 13-in-1 USB-C ドッキング ステーションの短い実践レビュー。Lenovo Legion Go および標準的なコンピューター周辺機器と組み合わせて、その構築品質、機能、実現可能性を探ります。テストの結果、メイン充電器の両方に役立つ十分な電力とポートがあることが判明し、詳細な充電インジケーターを備えた卓上充電器に簡単にアクセスできることが、バッテリーの劣化を防ぐ良い方法になる可能性があると著者は述べています。
@@ -5573,6 +5638,17 @@ MOKiN MOPU1102 13-in-1 USB-C ドッキング ステーションの短い実践�
 実際には、ドッキング ステーションを使用すると、有線マウスとキーボード、デュアル 4K 60 Hz ディスプレイ、薄型軽量またはゲーム用ハンドヘルドへの有線 GbE ネットワーク接続を追加する 1 本のケーブル接続が可能になります。後者が私の使用例でした。
 
 MOKiN 13-in-1 USB-C ドッキング ステーションの唯一の大きな欠点は、3.5 m…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MOKiN-13-in-1-USB-C-charging-dock-review-teaser.jpg" alt="MOKiN の 13-in-1 USB-C ドッキング ステーションには実際に便利なギミックがあり、私の Lenovo Legion Go を使えるデスクトップ PC に変えてくれました。"></p>]]></description><source url="https://www.notebookcheck.net/MOKiN-s-13-in-1-USB-C-docking-station-has-an-actually-useful-gimmick-and-it-turned-my-Lenovo-Legion-Go-into-a-usable-desktop-PC.1369641.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MOKiN-13-in-1-USB-C-charging-dock-review-teaser.jpg" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MOKiN-13-in-1-USB-C-charging-dock-review-teaser.jpg"/></item>
+<item><title>GaN+ 充電器を内蔵したこの 13-in-1 USB-C ドッキング ステーションは、私の充電習慣をより良いものに変えました - レビュー</title><link>https://www.notebookcheck.net/This-13-in-1-USB-C-docking-station-with-built-in-GaN-charger-changed-my-charging-habits-for-the-better-a-review.1369641.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/This-13-in-1-USB-C-docking-station-with-built-in-GaN-charger-changed-my-charging-habits-for-the-better-a-review.1369641.0.html</guid><pubDate>Sat, 15 Aug 2026 22:40:00 +0000</pubDate><description><![CDATA[<p>GaN+ 充電器を内蔵したこの 13-in-1 USB-C ドッキング ステーションは、私の充電習慣をより良いものに変えました - レビュー
+
+MOKiN MOPU1102 13-in-1 USB-C ドッキング ステーションの短い実践レビュー。Lenovo Legion Go および標準的なコンピューター周辺機器と組み合わせて、その構築品質、機能、実現可能性を探ります。テストの結果、メイン充電器の両方に役立つ十分な電力とポートがあることが判明し、詳細な充電インジケーターを備えた卓上充電器に簡単にアクセスできることが、バッテリーの劣化を防ぐ良い方法になる可能性があると著者は述べています。
+
+評決 - 高速充電を備えた堅牢で手頃な価格の USB-C ドッキング ステーション
+
+ⓘ Notebookcheck/Julian van der Merwe MOKiN 13 in 1 USB C ドッキング ステーション HDMI ディスプレイ モード MOKiN 13-in-1 USB-C ドッキング ステーションは、特にメインの生産性ワークステーションとして薄型軽量ラップトップのようなものに依存している人、または Anker や Baseus などの大手ブランドのもう少し手頃な代替品を探している場合に、デスクトップ セットアップへの優れた追加です。日常的な使用例では、MOKiN USB-C ドッキング ステーションにはほとんどのユーザーのニーズを満たすのに十分な USB Type-C ポートがあり、デュアル HDMI 2.1 ディスプレイ出力の追加によりさらに便利になります。
+
+実際には、ドッキング ステーションを使用すると、有線マウスとキーボード、デュアル 4K 60 Hz ディスプレイ、薄型軽量またはゲーム用ハンドヘルドへの有線 GbE ネットワーク接続を追加する 1 本のケーブル接続が可能になります。後者が私の使用例でした。
+
+MOKiN 13-in-1 USB-C ドッキング ステーションの唯一の大きな欠点は、3.5 mm ヘッドフォン ジャックと SD カード リー…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MOKiN-13-in-1-USB-C-charging-dock-review-teaser.jpg" alt="GaN+ 充電器を内蔵したこの 13-in-1 USB-C ドッキング ステーションは、私の充電習慣をより良いものに変えました - レビュー"></p>]]></description><source url="https://www.notebookcheck.net/This-13-in-1-USB-C-docking-station-with-built-in-GaN-charger-changed-my-charging-habits-for-the-better-a-review.1369641.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MOKiN-13-in-1-USB-C-charging-dock-review-teaser.jpg" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MOKiN-13-in-1-USB-C-charging-dock-review-teaser.jpg"/></item>
 <item><title>MSI Claw 8 EX AI+ を 2 週間使用した後、これが ROG Xbox Ally X の最初の真のライバルであると確信しました</title><link>https://www.xda-developers.com/after-two-weeks-with-msi-claw-8-ex-ai-im-convinced-first-real-rival-to-rog-xbox-ally-x/</link><guid isPermaLink="true">https://www.xda-developers.com/after-two-weeks-with-msi-claw-8-ex-ai-im-convinced-first-real-rival-to-rog-xbox-ally-x/</guid><pubDate>Sat, 15 Aug 2026 22:00:10 +0000</pubDate><description><![CDATA[<p>MSI Claw 8 EX AI+ を 2 週間使用した後、これが ROG Xbox Ally X の最初の真のライバルであると確信しました
 
 MSI
@@ -6476,92 +6552,4 @@ MegCell Pulse はどのように機能しますか?これは本質的に、3D �
 ここで問題となるのは、組み立てられた MegCell Pulse を購入できないことです。自分で印刷して作成する必要があります。良い面に戻ると、最も高価なサポート層はわずか 100 ドルです。その価格で、完全なデジタル プランを利用できます。これには、3D プリント ファイル、組み立てガイド、制御ソフトウェア、パーツ リストが含まれます。休憩後に埋め込まれたデモビデオを必ずチェックしてください。
 
 確かにロボットがギターを弾いているのをこれ…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/guitar-playing-robot-800.webp" alt="双子のギター演奏ロボットがタブで動作"></p>]]></description><source url="https://hackaday.com/2026/08/14/twin-guitar-playing-robots-will-work-for-tab/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/guitar-playing-robot-800.webp" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/guitar-playing-robot-800.webp"/></item>
-<item><title>『インジャスティス 2』が 900 万本を売り上げ、「Gods Among Us」を 700 万本上回る</title><link>https://www.techpowerup.com/351628/injustice-2-tops-9-million-units-sold-7-million-more-than-gods-among-us</link><guid isPermaLink="true">https://www.techpowerup.com/351628/injustice-2-tops-9-million-units-sold-7-million-more-than-gods-among-us</guid><pubDate>Sat, 15 Aug 2026 04:52:29 +0000</pubDate><description><![CDATA[<p>『インジャスティス 2』が 900 万本を売り上げ、「Gods Among Us」を 700 万本上回る
-
-Injustice ゲーム シリーズは、同時プレイヤー数が必ずしもゲームの商業的成功を予測するわけではないことを教えてくれることがわかりました。 2017 年のスーパーヒーロー ゲームは、Steam 同時プレイヤー数のピーク時でも 2,131 人しかいなかったにもかかわらず、発売以来 900 万本を販売しました。これは確認されました...
-
-『インジャスティス 2』が 900 万本を売り上げ、「Gods Among Us」を 700 万本上回る
-
-2026 年 7 月 27 日 Palworld 幹部、サポート終了計画についてゲーマーに安心を与える (10)
-
-2026 年 4 月 28 日 Denuvo がデイゼロ DRM ハイパーバイザー クラックに対応: 「すでにセキュリティ バージョンの更新に取り組んでいます」 (62)
-
-2026 年 4 月 17 日 Pragmata のローンチ: 輝かしいレビューとチャートトップの売上を誇るが、プレイヤー数は平凡 (62)
-
-2025 年 12 月 17 日 Half-Life 3 は 2026 年初頭に Steam Machine と並行して発売される可能性があります (78)
-
-2026 年 6 月 12 日 Xbox ゲーム CSO がゲーム内の広告を「手頃な価格の代替案」として売り込む (54)
-
-2025 年 9 月 29 日 EA の新オーナー計画 AI Pivot は「運用コストの大幅削減」を計画 - レポート (39)
-
-2026 年 7 月 23 日 アサシン クリード ブラック フラッグ: 発売 2 週間後に再同期「年間期待を上回る」 (17)
-
-2026 年 7 月 13 日 Palworld 1.0 アップデート、発売週末に 850,000 人以上のプレイヤーを集める (11)
-
-2026 年 7 月 31 日 Xile Entertainment の「RPG Specialist」で新しい …</p><p><img src="https://www.techpowerup.com/img/46vQS5eS9hdq2TQ8.jpg" alt="『インジャスティス 2』が 900 万本を売り上げ、「Gods Among Us」を 700 万本上回る"></p>]]></description><source url="https://www.techpowerup.com/351628/injustice-2-tops-9-million-units-sold-7-million-more-than-gods-among-us">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/46vQS5eS9hdq2TQ8.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/46vQS5eS9hdq2TQ8.jpg"/></item>
-<item><title>クロード、見えない透かしとエンドウ豆のスープ: 70 年前の児童書は AI 法医学をどのように説明したか</title><link>https://www.igorslab.de/en/claude-invisible-watermark-pea-soup-ai-forensics/</link><guid isPermaLink="true">https://www.igorslab.de/en/claude-invisible-watermark-pea-soup-ai-forensics/</guid><pubDate>Sat, 15 Aug 2026 03:30:27 +0000</pubDate><description><![CDATA[<p>クロード、見えない透かしとエンドウ豆のスープ: 70 年前の児童書は AI 法医学をどのように説明したか
-
-透かしは処理を示している可能性がありますが、作成者であることを証明するものではなく、大幅な編集後にそのまま残るものでもありません。
-
-この記事では、Anthropic が 2026 年 8 月 2 日以降、生成されたテキストに目に見えない透かしをクロードに装備する予定であること、およびドイツ語の言語的柔軟性がなぜ中心的な役割を果たすのかについて説明しています。このラベル付けは、クロードによる処理を検出可能にすることを目的としていますが、AI の完全な作成者であることを証明するものではなく、あらゆる形式の編集後にそのまま残るものでもありません。
-
-1959年：ジェームス・クラスがエンドウ豆のスープについての文劇を含む『Mein Urgroßvater und ich』を出版。
-
-2026 年 8 月 2 日: この日から、EU AI 法第 50 条に基づく透明性義務が適用されます。
-
-クロードの透かし: Anthropic では、読者には見えないテキストに直接埋め込まれたラベルについて説明します。
-
-C2PA: PNG、JPG、および SVG ファイルの場合、Anthropic はデジタル署名された来歴メタデータに依存します。
-
-全世界世代: このラベルは、EU 外でもサポートされているモデルをマークすることを目的としています。
-
-著者の証明なし: 一致はクロードによる処理を示す可能性がありますが、基礎となるアイデアの出所を証明するものではありません。
-
-範囲: 2026 年 8 月 2 日以降の EU の新しいクロード モデル。ラベルは最初からサポートされることを目的としています。
-
-改造: 古いモデル。Anthropic は既存のモデルを改造する予定です。
-
-アクセス パス: Claude、API、Claude Code、AWS、Google Cloud、および Microsoft Foundry。ラベルはアクセス パスとは独立して生成されることを目的としていま…</p><p><img src="https://www.igorslab.de/wp-content/uploads/2026/08/Teaser-2.jpg" alt="クロード、見えない透かしとエンドウ豆のスープ: 70 年前の児童書は AI 法医学をどのように説明したか"></p>]]></description><source url="https://www.igorslab.de/en/claude-invisible-watermark-pea-soup-ai-forensics/">igor&#39;sLAB</source><media:content url="https://www.igorslab.de/wp-content/uploads/2026/08/Teaser-2.jpg" medium="image"/><media:thumbnail url="https://www.igorslab.de/wp-content/uploads/2026/08/Teaser-2.jpg"/></item>
-<item><title>ポケモンバンクのサーバー停止で大規模なポケモンの追い出しが迫る</title><link>https://hackaday.com/2026/08/14/large-scale-pokemon-eviction-looms-with-pokemon-bank-server-shutdown/</link><guid isPermaLink="true">https://hackaday.com/2026/08/14/large-scale-pokemon-eviction-looms-with-pokemon-bank-server-shutdown/</guid><pubDate>Sat, 15 Aug 2026 02:00:59 +0000</pubDate><description><![CDATA[<p>ポケモンバンクのサーバー停止で大規模なポケモンの追い出しが迫る
-
-ニンテンドー 3DS 携帯型ゲーム機は、少し前にオンライン ストア (eShop) を含むオンライン サービスのほとんどがオフラインになった後、そのサービスさえも消滅するのは時間の問題でした。
-
-ニンテンドー3DS携帯型ゲーム機は、少し前にオンラインストア（eショップ）を含むほとんどのオンラインサービスがオフラインになった後、任天堂が2027年2月25日にサービスを終了すると発表したポケモンバンクなど、残りの有料サービスさえも廃止されるのは時間の問題だった。
-
-物理システム間でデジタル ポケット モンスター (ポケモン) を転送する機能は、リンク ケーブルだけで交換してすべてを捕まえることができたゲームボーイの初期の頃から、このシリーズの定番となってきました。当然のことながら、時間の経過とともに、このクラウドベースの側面はこのシリーズにも浸透し、3DS から始まり、これが Pokémon HOME アプリの形で Nintendo Switch に続きました。
-
-この有料サービスを使用すると、熱心なポケモンファンはこれらのデジタル生き物を最大 3,000 匹収集し、さまざまなポケモン ゲーム間で移動させることができ、通常、プレイヤーはゲーム間で同じポケモンを持ち続けることができます。 [Kevdog Plays] がシャットダウン前に何をすべきかについての有益なビデオで指摘したように、サービスは最後の数か月間無料です。
-
-興味深いのは、特定のポケモンは 3DS ポケモン ゲームからのみ入手できるということです。つまり、この転送メカニズムの代替手段がないか、これらのゲームが新しい任天堂のコンソールで利用可能にならない限り、ポケモン図鑑には永遠に大きな穴が残ることになります。当然のことながら、ゲームを完全に体験するにはオンライン サービスが必要な場合、ソフトウェアのアーカイブと保存についてよくある疑問が生じます。</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/pokemon-bank-diagram-ultra-sun-ultra-moon-en.jpg" alt="ポケモンバンクのサーバー停止で大規模なポケモンの追い出しが迫る"></p>]]></description><source url="https://hackaday.com/2026/08/14/large-scale-pokemon-eviction-looms-with-pokemon-bank-server-shutdown/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/pokemon-bank-diagram-ultra-sun-ultra-moon-en.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/pokemon-bank-diagram-ultra-sun-ultra-moon-en.jpg"/></item>
-<item><title>Windows 11 は Docker なしで Linux コンテナを実行できるようになり、WSL コンテナが実際にそれを置き換えられるかどうかをテストしました</title><link>https://www.xda-developers.com/windows-11-can-now-run-linux-containers-without-docker-tested/</link><guid isPermaLink="true">https://www.xda-developers.com/windows-11-can-now-run-linux-containers-without-docker-tested/</guid><pubDate>Sat, 15 Aug 2026 00:00:10 +0000</pubDate><description><![CDATA[<p>Windows 11 は Docker なしで Linux コンテナを実行できるようになり、WSL コンテナが実際にそれを置き換えられるかどうかをテストしました
-
-それ
-
-Windows 11 は Docker なしで Linux コンテナを実行できるようになり、WSL コンテナが実際にそれを置き換えられるかどうかをテストしました
-
-By Joe Rice-Jones Published Aug 14, 2026, 8:00 PM EDT Maker、meme-r、そして恥ずかしがり屋のオタクである Joe は、2018 年に KnowTechie でキャリアをスタートして以来、テクノロジーについて執筆しています。彼は Apple からアプリ、クラウドファンディングまであらゆるものをカバーしており、複雑なトピックの本質に迫るのが大好きです。その間、彼は、2023 年の春に XDA に本拠地を置くまで、SlashGear や多数の法人顧客向けにも記事を書いていました。彼は、たとえ後で完全に元に戻らなかったとしても、すべてのおもちゃを分解して、どのように機能するかを確認する子供でした。これにより、複雑なシステムがどのように連携して機能するかを説明するための確かな背景が得られ、それ以来、物事を元に戻す段階でうまくなったと彼は約束します。 XDA アカウントにサインインします。 私のホームラボはコンテナ上で実行されており、それらのほとんどは Proxmox 上の LXC ですが、テスト中は Docker デスクトップでも実行しています。私はそのプログラムが決して好きではありませんでしたし、必要悪でした。そのため、Microsoft が最新の WSL プレリリースで WSL コンテナー (wslc) を出荷したとき、Docker Desktop を永久に捨てられるかどうかを知る必要がありました。
-
-私は速度テストが行​​われ、Microsoft は必要な機能の実装に苦労するだろうと予想していました。私が見つけたのは、物事を別の方法で行う方法についてのアーキテクチャのレッスンでした…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/wslc-hero.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Windows 11 は Docker なしで Linux コンテナを実行できるようになり、WSL コンテナが実際にそれを置き換えられるかどうかをテストしました"></p>]]></description><source url="https://www.xda-developers.com/windows-11-can-now-run-linux-containers-without-docker-tested/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/wslc-hero.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/wslc-hero.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>水中ドローンが氷を分析</title><link>https://hackaday.com/2026/08/14/submersible-drone-analyzes-ice/</link><guid isPermaLink="true">https://hackaday.com/2026/08/14/submersible-drone-analyzes-ice/</guid><pubDate>Fri, 14 Aug 2026 23:00:21 +0000</pubDate><description><![CDATA[<p>水中ドローンが氷を分析
-
-凍った湖の上で何かをすることには、ある程度のリスクが伴います。それにもかかわらず、カーレースからアイススケートまでのイベントが毎年開催されます。したがって、適切な安全対策が必要です…
-
-凍った湖の上で何かをすることには、ある程度のリスクが伴います。それにもかかわらず、カーレースからアイススケートまでのイベントが毎年開催されます。したがって、適切な安全対策が必要であり、その中で最も重要なのは、氷がその上にあるものの重量に耐えられる十分な厚さを確保することです。これは、氷に穴を開け、いくつかの場所で深さを測定することによって行われます。しかし、これは危険かつ不完全なプロセスであり、実際の厚さの大まかなイメージしか得られません。そこで、これらの問題を解決するために、チューリッヒ工科大学の学生チームは、氷を測定する水中ドローンを作成しました。
-
-採用されている氷の測定の概念は、机上ではかなり単純です。ソナーパルスが送信されると、エネルギーの一部は氷床の底から戻ってきますが、一部は通過して2番目の戻りを生み出します。この2つの戻り値の差を測定することで、高精度に厚みを算出することができます。ソナーを潜水艦に取り付けて測位システムを提供すれば、単純に厚さマップを取得できますよね?そうですね、学生たちがすぐに気づいたように、実際に理論を採用することははるかに複雑な見通しです。潜水艦自体はやや積極的に植物学的なものです。キャビティの中心を調整するための 2 つのコンクリート バラストと、6 つの自由度を実現する 6 つの推進モーターを備えています。 NVIDIA Jetson を搭載しており、自律動作と多数のセンサーが可能です。ナビゲーションは、主に GPS と SBL などのさまざまなセンサーによって処理されます。 GPS アンテナは潜水艦の上部にあるレドーム内に設置されており、氷の底に触れたときに位置を特定するのに十分な強度の信号を可能にします。 SBL はソナーと同様に機能し、潜水艦の送信機が音声 ping を送信し、ドローンの位置を計算するために使用さ…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/submarineFeatured.jpg" alt="水中ドローンが氷を分析"></p>]]></description><source url="https://hackaday.com/2026/08/14/submersible-drone-analyzes-ice/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/submarineFeatured.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/submarineFeatured.jpg"/></item>
-<item><title>今月セットアップした最高の生産性向上ツールは開発者向けに作られています、もっと早くセットアップすべきでした</title><link>https://www.xda-developers.com/best-productivity-tool-i-set-up-is-built-for-developers-should-have-done-it-sooner/</link><guid isPermaLink="true">https://www.xda-developers.com/best-productivity-tool-i-set-up-is-built-for-developers-should-have-done-it-sooner/</guid><pubDate>Fri, 14 Aug 2026 23:00:10 +0000</pubDate><description><![CDATA[<p>今月セットアップした最高の生産性向上ツールは開発者向けに作られています、もっと早くセットアップすべきでした
-
-私が常に推奨している生産性向上ツールはコーディング ツールです
-
-今月セットアップした最高の生産性向上ツールは開発者向けに作られています、もっと早くセットアップすべきでした
-
-By Nolen Jonker 公開 2026 年 8 月 14 日、午後 7 時 EDT Nolen は 2019 年に執筆活動を開始し、3 年間 MakeUseOf のクリエイティブ セクションの編集に専念しました。彼らの専門知識はテクノロジーと創造性の交差点にあり、写真、ビデオ編集、グラフィック デザインなどの分野をカバーしています。仕事以外では、ノーレンが良い本を読んだり、自分の物語を書いたり、ビデオ ゲームをしたりしているのをよく見かけます。 XDA アカウントにサインインする 今年私が書いたすべての生産性向上アプリには、多かれ少なかれ同じ雰囲気とリズムがあります。通常は、それをダウンロードしてインストールし、何か役に立つことを行う前に、まずテンプレートを選択するか、何らかのシステムをセットアップする必要があります。そして、多くの生産性向上ツールが最初の週末以降に使用されなくなるのは、この前払い税が原因だと思います。
-
-主流の生産性向上アプリ側でそれがすぐに変わるとは思えないので、今月はまったく異なる動作をするものをセットアップしました。何もデザインしたり、テンプレートを参照したり、スキーマを学習したりする必要はありません。代わりに、それをフォルダーに入れて話しかけます。これは Google Antigravity というコーディング ツールです。私は開発に使用していないだけです。
-
-Google Antigravity の実際の意味と、それを使用していない目的
-
-Google はエージェント プラットフォームを出荷しており、私はそれをファイル名に使用しています
-
-Antigravity は Google のエージェント開発プラットフォームで、バージョン 2.0 は Mac、Wi…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/google-antigravity-on-desktop-pc-lego-and-lamp-in-view-1.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="今月セットアップした最高の生産性向上ツールは開発者向けに作られています、もっと早くセットアップすべきでした"></p>]]></description><source url="https://www.xda-developers.com/best-productivity-tool-i-set-up-is-built-for-developers-should-have-done-it-sooner/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/google-antigravity-on-desktop-pc-lego-and-lamp-in-view-1.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/google-antigravity-on-desktop-pc-lego-and-lamp-in-view-1.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
 </channel></rss>
