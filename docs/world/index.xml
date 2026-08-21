@@ -1,7 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Fri, 21 Aug 2026 07:06:47 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Fri, 21 Aug 2026 07:56:15 +0000</lastBuildDate>
+<item><title>中身の測定: 製品の二酸化炭素排出量の計算</title><link>https://www.raspberrypi.com/news/measuring-whats-inside-calculating-the-carbon-footprint-of-our-products/</link><guid isPermaLink="true">https://www.raspberrypi.com/news/measuring-whats-inside-calculating-the-carbon-footprint-of-our-products/</guid><pubDate>Fri, 21 Aug 2026 07:52:41 +0000</pubDate><description><![CDATA[<p>中身の測定: 製品の二酸化炭素排出量の計算
+
+炭素報告は、地球への害が少ない製品を構築するための第一歩です。
+
+製品に含まれる排出量を理解することは、炭素報告の中で最も難しい部分の 1 つです。 Raspberry Pi のようなハードウェア企業にとって、環境への影響の大部分は施設内で使用する電力によるものではなく、製品そのものによるものです。炭素会計の用語では、これはスコープ 3 に該当します。間接排出は、原材料の抽出から製造、輸送に至るまでのバリューチェーン全体に広がります。
+
+スコープ 3 は定量化が難しいことで知られています。建物の光熱費とは異なり、回路基板の炭素コストを示す単一のメーター測定値はありません。代わりに、文字通り、画像を少しずつ構築する必要があります。
+
+私たちが使用する方法は部品表から始まります。すべての製品は、PCB、シリコン、コネクタから個々のコンデンサや抵抗器に至るまで、その構成部品に分類されます。これらの各コンポーネントには指定された重量が必要であり、データシートまたは物理的な測定値から取得できます。
+
+重量は物理的な物体と排出量の橋渡しとなるため、重要です。部品の重さと材質がわかれば、その量の材料の生産に伴う炭素の推定を開始できます。
+
+これらの重みを排出量に変換するために、各材料を ecoinvent データベースにマッピングします。 ecoinvent は、世界で最も広く使用されているライフ サイクル インベントリ (LCI) データベースの 1 つで、数千の材料、プロセス、エネルギー フローに関する詳細な環境データを保持しています。アルミニウム 1 グラム、銅 1 グラム、特定のプラスチック 1 グラムには、それぞれ独自の排出係数があります。
+
+計量されたすべてのコンポーネントを利用可能な最も近いデータセットと照合することで、製品全体にわたる固着炭素のボトムアップ推定値を構築できます。これは骨の折れる作業ですが、広範な業界平均に依存するのではなく、数値を具体的なものに根拠付けます。
+
+パートナーと協力してライフサイクル評価を作成す…</p><p><img src="https://www.raspberrypi.com/app/uploads/2026/08/annual-report-1-Large-1024x611.jpeg" alt="中身の測定: 製品の二酸化炭素排出量の計算"></p>]]></description><source url="https://www.raspberrypi.com/news/measuring-whats-inside-calculating-the-carbon-footprint-of-our-products/">Raspberry Pi News</source><media:content url="https://www.raspberrypi.com/app/uploads/2026/08/annual-report-1-Large-1024x611.jpeg" medium="image"/><media:thumbnail url="https://www.raspberrypi.com/app/uploads/2026/08/annual-report-1-Large-1024x611.jpeg"/></item>
+<item><title>新しいASUS Googlebookのリークでは、さらに多くの構成と価格の詳細が示されています</title><link>https://www.androidauthority.com/asus-cx9406-googlebook-leak-16gb-ram-3701366/</link><guid isPermaLink="true">https://www.androidauthority.com/asus-cx9406-googlebook-leak-16gb-ram-3701366/</guid><pubDate>Fri, 21 Aug 2026 07:49:33 +0000</pubDate><description><![CDATA[<p>新しいASUS Googlebookのリークでは、さらに多くの構成と価格の詳細が示されています
+
+ASUS Googlebook CX9406 は、16 GB の RAM、Intel Core Ultra 5 チップ、14 インチのタッチスクリーンを搭載し、小売店の Web サイトで発見されました。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+新しいASUS Googlebookのリークでは、さらに多くの構成と価格の詳細が示されています
+
+0 • Google Google Discover でフォローしてください 優先ソースとして追加してください TL;DR ASUS Googlebook が再びリークされました。今回は 16 GB の RAM と Intel Core Ultra 5 プロセッサが搭載されています。
+
+リークによれば、価格は約1,390ドルであることが示唆されている。
+
+ASUSは、32GBまたは64GBのRAMとIntel Core Ultra 7プロセッサを搭載したGooglebookも提供する可能性がある。
+
+過去 2 か月間、Lenovo、Acer、HP、ASUS のデバイスを含む Googlebook のリークが数多く発生しました。 ASUS Googlebook にはなんと 64GB の RAM が搭載されるという報告もあります。しかし、今日の新たなリークにより、ASUS の Googlebook 製品の計画がもう少し明確になりました。
+
+GbookHub が発見した、現在は削除されている ASUS CX9406 Googlebook の小売リストによると、同社はさまざまな価格帯をカバーするために段階的な Googlebook ラインナップを検討している可能性があります。このリストには、モデル番号 CX9406CAA-DSU51T-CB の Googlebook のより控えめな構成が記載されていると伝えられています。
+
+そのリストによると、ASUS は Int…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/05/googlebook-render-google-colors-hero-scaled.jpg" alt="新しいASUS Googlebookのリークでは、さらに多くの構成と価格の詳細が示されています"></p>]]></description><source url="https://www.androidauthority.com/asus-cx9406-googlebook-leak-16gb-ram-3701366/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/05/googlebook-render-google-colors-hero-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/05/googlebook-render-google-colors-hero-scaled.jpg"/></item>
+<item><title>NXP MCX C15 および C16 の低コスト Cortex-M23 MCU は、IoT、アナログ、モーター制御アプリケーションをターゲットとしています</title><link>https://www.cnx-software.com/2026/08/21/nxp-mcx-c15-and-c16-low-cost-cortex-m23-mcus-target-iot-analog-and-motor-control-applications/</link><guid isPermaLink="true">https://www.cnx-software.com/2026/08/21/nxp-mcx-c15-and-c16-low-cost-cortex-m23-mcus-target-iot-analog-and-motor-control-applications/</guid><pubDate>Fri, 21 Aug 2026 07:44:26 +0000</pubDate><description><![CDATA[<p>NXP MCX C15 および C16 の低コスト Cortex-M23 MCU は、IoT、アナログ、モーター制御アプリケーションをターゲットとしています
+
+NXP MCX C15 および MCX C16 (C1 ファミリ) の低コスト Cortex-M23 MCU は、産業用 IoT、アナログ、モーター制御アプリケーション向けに設計されています。
+
+最近、NXP が MCX A シリーズを MCX A5 Cortex-M33 ファミリで拡張し、10BASE-T1S シングル ペア イーサネット、トポロジ ディスカバリ、産業用接続用の PQC を統合したことに注目しました。ただし、これが同社の唯一の最近の発表ではなく、NXP は産業用 IoT およびアナログ アプリケーション向けに設計された MCX C15 および MCX C16 (C1 ファミリ) Cortex-M23 MCU を備えた低コストの MCX C シリーズも拡張しました。新しい C1 ファミリは、新しい MCX A シリーズとの完全なピン互換性を備えた、LPC800、LPC1100、および Kinetis MCU からの簡単な移行パスを提供します。
+
+これらの低コストのエントリーレベルのデバイスは、16 ビット SAR ADC、DAC 付き高速コンパレータ、内部オペアンプ、およびモーターと電力制御用の FlexPWM を備えています。また、最大 64 KB のフラッシュ、12 KB の SRAM、LPI²C、LPSPI、最大 4 つの UART、最大 45 の GPIO、複数のタイマー、低電力タイマー、RTC、およびウォッチドッグも含まれており、動作範囲は 1.71 ～ 3.6 V、-40 °C ～ 125 °C です。 MCX C15 および C14 MCU は、産業用 IoT デバイス、センシングおよび計装、モーター ドライブ、電源管理、HVAC システム、スマート アプライアンス、照明、およびその他のコスト重視の組み込みアプリケーションに適しています。
+
+NXP MCX C15 および MCX C…</p><p><img src="https://www.cnx-software.com/wp-content/uploads/2026/08/MCX-C15-and-MCX-C16-Arm-Cortex-M23-analog-IoT-MCUs.jpg" alt="NXP MCX C15 および C16 の低コスト Cortex-M23 MCU は、IoT、アナログ、モーター制御アプリケーションをターゲットとしています"></p>]]></description><source url="https://www.cnx-software.com/2026/08/21/nxp-mcx-c15-and-c16-low-cost-cortex-m23-mcus-target-iot-analog-and-motor-control-applications/">CNX Software</source><media:content url="https://www.cnx-software.com/wp-content/uploads/2026/08/MCX-C15-and-MCX-C16-Arm-Cortex-M23-analog-IoT-MCUs.jpg" medium="image"/><media:thumbnail url="https://www.cnx-software.com/wp-content/uploads/2026/08/MCX-C15-and-MCX-C16-Arm-Cortex-M23-analog-IoT-MCUs.jpg"/></item>
+<item><title>Sandisk NAS 800 NVMe SSD delivers PCIe Gen5 speeds for demanding NAS environments</title><link>https://www.tweaktown.com/rss/click/news/113187/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113187/?c=news-mf</guid><pubDate>Fri, 21 Aug 2026 07:36:11 +0000</pubDate><description><![CDATA[<p>Sandisk NAS 800 NVMe SSD delivers PCIe Gen5 speeds for demanding NAS environments</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113187/?c=news-mf">TweakTown</source></item>
+<item><title>Android 上で最高の PS3 エミュレータがオンライン プレイに対応しました</title><link>https://www.androidauthority.com/armsx3-ps3-emulator-android-online-play-3701355/</link><guid isPermaLink="true">https://www.androidauthority.com/armsx3-ps3-emulator-android-online-play-3701355/</guid><pubDate>Fri, 21 Aug 2026 07:13:02 +0000</pubDate><description><![CDATA[<p>Android 上で最高の PS3 エミュレータがオンライン プレイに対応しました
+
+ARMSX3はAndroid用の最新のPS3エミュレータで、オンラインプレイとさまざまな互換性の改善が加えられています。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+Android 上で最高の PS3 エミュレータがオンライン プレイに対応しました
+
+0 • Hadlee Simons / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR ARMSX3 はここ数日でいくつかのアップデートを受け取り、オンライン プレイのサポートやセーブ データのインポート機能などが追加されました。
+
+互換性も大幅に改善され、全クラスのゲームが起動できるようになりました。
+
+ARMSX3は、aPS3eやRPCSX-UI Androidに続く、Android上の最新のPS3エミュレータです。開発は猛烈なペースで進められており、最後の数回のアップデートではいくつかの大きな追加が行われました。
+
+昨日、ARMSX3 v0.9.3 が GitHub でリリースされ、PS3 ゲームでのオンライン プレイのサポートが提供されました。これは、PlayStation Network の代わりにオープンソースの RPCN フレームワークをマッチメイキングに使用します。開発者は、デスクトップ上の RPCS3 の場合と同様に、RPCN パスワードが YML ファイルにプレーン テキストで保存されることに注意しました。そのため、RPCN資格情報として他のサービスのパスワードを再利用しないよう警告している。このアップデートにより、保存してサーバー間で切り替えることもできます。
+
+他の最近の ARMSX3 アップデートでも、いくつかの注目すべき改善が行われています。これには、アプリ内でセーブデータをインポートする機能、詳細設定を介した PS3 本体設定へのアクセス、U…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2020/12/PlayStation-3-60GB-scaled.jpg" alt="Android 上で最高の PS3 エミュレータがオンライン プレイに対応しました"></p>]]></description><source url="https://www.androidauthority.com/armsx3-ps3-emulator-android-online-play-3701355/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2020/12/PlayStation-3-60GB-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2020/12/PlayStation-3-60GB-scaled.jpg"/></item>
 <item><title>RayNeo announces new iO Smart Glasses and GT Series with &#39;cinema-grade&#39; display</title><link>https://www.tweaktown.com/rss/click/news/113184/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113184/?c=news-mf</guid><pubDate>Fri, 21 Aug 2026 07:03:11 +0000</pubDate><description><![CDATA[<p>RayNeo announces new iO Smart Glasses and GT Series with &#39;cinema-grade&#39; display</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113184/?c=news-mf">TweakTown</source></item>
+<item><title>RayNeo は、新しい iO スマート グラスが携帯電話に手を伸ばす理由になることを望んでいます</title><link>https://www.androidauthority.com/rayneo-glasses-reduce-smartphone-use-3700718/</link><guid isPermaLink="true">https://www.androidauthority.com/rayneo-glasses-reduce-smartphone-use-3700718/</guid><pubDate>Fri, 21 Aug 2026 07:00:43 +0000</pubDate><description><![CDATA[<p>RayNeo は、新しい iO スマート グラスが携帯電話に手を伸ばす理由になることを望んでいます
+
+RayNeo の新しい iO スマート グラスは、携帯電話への依存を減らすことを目的として、視界に小さなディスプレイと AI アシスタントを配置します。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+RayNeo は、新しい iO スマート グラスが携帯電話に手を伸ばす理由になることを望んでいます
+
+0 • RayNeo Google Discover でフォローしてください 優先ソースとして追加してください TL;DR RayNeo の新しい iO スマート グラスは、通常の見た目の 33g フレームに小さな MicroLED ディスプレイと AI アシスタントを搭載しており、携帯電話に手を伸ばさずに情報を一目見ることができます。
+
+このメガネは、通知、スケジュール、天気を表示し、40 か国語のテキストを翻訳し、音声メモをキャプチャし、さらにはハンズフリーのテレプロンプターとしても機能します。
+
+iO は 9 月 4 日に 479 ドルで発売され、通常のバッテリー寿命は最大 48 時間です。 529 ドルのバンドルには充電ケースが含まれます。
+
+スクリーンは私たちの生活の主要な部分を占めていますが、それはスクリーン疲労が現実のものではないという意味ではありません。私たちはどこにでも携帯電話を持ち歩き、外出していないときは他の画面を見つめています。これは、AR メガネメーカー RayNeo が新しい iO スマート グラスで解決しようとしている問題です。
+
+まず最初に: はい、メガネ自体にはスクリーンが付いていますが、それは必ずしも矛盾しているわけではありません。 RayNeo の目的は、新しいメガネの小さなディスプレイだけで情報をすばやく確認できるようになり、不必要に携帯電話に手を伸ばしたくなる衝動をなくし、技術的なやり取り全体の中断を軽減することです。
+
+RayNeo RayNeo の i…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/rayneo-ai-io-glasses-hero.jpg" alt="RayNeo は、新しい iO スマート グラスが携帯電話に手を伸ばす理由になることを望んでいます"></p>]]></description><source url="https://www.androidauthority.com/rayneo-glasses-reduce-smartphone-use-3700718/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/rayneo-ai-io-glasses-hero.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/rayneo-ai-io-glasses-hero.jpg"/></item>
 <item><title>RayNeo は、GT および GT Max AR メガネと新しい Pocket TV Pro Google TV ストリーマーで映画愛好家をターゲットにしています</title><link>https://www.androidauthority.com/rayneo-gt-max-ar-glasses-pocket-tv-pro-streamer-3701131/</link><guid isPermaLink="true">https://www.androidauthority.com/rayneo-gt-max-ar-glasses-pocket-tv-pro-streamer-3701131/</guid><pubDate>Fri, 21 Aug 2026 07:00:13 +0000</pubDate><description><![CDATA[<p>RayNeo は、GT および GT Max AR メガネと新しい Pocket TV Pro Google TV ストリーマーで映画愛好家をターゲットにしています
 
 RayNeo は、B&amp;O オーディオと 3DoF トラッキングを備えた、Pocket TV Pro ストリーマーとともに、シネマグレードの GT および GT Max AR グラスを発表します。
@@ -313,6 +395,35 @@ RoboStore 社は以前、最も手頃な価格で人気のある人型ロボッ�
 しかし、8月10日、ロボストアは事業戦略の大幅な変更を発表し、2027年の第1四半期までに商用ロボット製造用の6万6000平方フィートの施設を全面オープンする計画を発表した。また、新たなロボット製造およびシステムインテグレーション事業を監督する新会社「ロボ・インク」を設立した。
 
 ハガティ氏と彼のチームは、すでに約 1 年前に独自のロボット製造事業を立ち上げる可能性について検討し始めていました。彼らは、顧客の展開と統合のリクエストをサポートしながら、特定のアプリケーションでのロボットの使用について顧客がどのように考えているかについての洞察を得ること…</p><p><img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Robo-Inc-1152x648.jpeg" alt="中国で最も人気のある人型ロボットの米国販売代理店、米国の禁止を受けて方向転換"></p>]]></description><source url="https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/">Ars Technica Gear &amp; Gadgets</source><media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Robo-Inc-1152x648.jpeg" medium="image"/><media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Robo-Inc-1152x648.jpeg"/></item>
+<item><title>GoDeal24 新学期セール: 正規ソフトウェアの大幅割引</title><link>https://www.techpowerup.com/351750/godeal24-back-to-school-sale-deep-discounts-on-genuine-software</link><guid isPermaLink="true">https://www.techpowerup.com/351750/godeal24-back-to-school-sale-deep-discounts-on-genuine-software</guid><pubDate>Thu, 20 Aug 2026 21:57:48 +0000</pubDate><description><![CDATA[<p>GoDeal24 新学期セール: 正規ソフトウェアの大幅割引
+
+新学期には、中途半端なセットアップではなく、初日から準備ができている PC が必要です。だからこそ、新学期の最も賢い方法は、Windows と Office を別々に購入するのではなく、両方を一緒に購入することなのです。 Windows 11 Pro と Office 2024 Pro をペアとして実行すると、どちらか単独では提供できないものを得ることができます。
+
+2026 年 8 月 20 日木曜日 GoDeal24 新学期セール: 正規ソフトウェアの大幅割引
+
+インテル Arc および iGPU 101.8974 WHQL
+
+00:51 by preplan あなたはまだランチャーなしで PC ゲームをプレイしますか? ( 16 )
+
+00:51 by _JP_ 毎日の運転手として使っている携帯電話は何ですか?そして、それらについてのディスカッション。 ( 2326 )
+
+00:48 by Ruru Ryzen オーナーズ ゼン ガーデン ( 8271 )
+
+00:44 by _JP_ Microsoft はより優れた Windows 11 を約束しました—あなたはそれを感じていますか? ( 200 )
+
+00:37 by KrazyT AI 生成画像... ( 68 )
+
+00:25 by るるTPUの懐かしハードウェア部 ( 21927 )
+
+00:16 by Krit RX 9000 シリーズ GPU オーナーズ クラブ ( 2179 )
+
+23:49 by jesdals X870E AORUS ELITE WIFI7 スレッドの設定と OC (56)
+
+23:43 by Jtuck9 Stalker 2 は素晴らしいですね。 ( 230 )
+
+23:42 by Oldschool297 Asus Rog Maximus Z890 Extreme。 （さまざまな質問）。 ( 14 )
+
+2026 年 8 月 18 日 XMG Pro 16 (M25) レビュー - ミニ LED ロケットシップ…</p><p><img src="https://www.techpowerup.com/img/Eu7eol5NCJKSEyBV.jpg" alt="GoDeal24 新学期セール: 正規ソフトウェアの大幅割引"></p>]]></description><source url="https://www.techpowerup.com/351750/godeal24-back-to-school-sale-deep-discounts-on-genuine-software">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/Eu7eol5NCJKSEyBV.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/Eu7eol5NCJKSEyBV.jpg"/></item>
 <item><title>Galaxy S26 Ultraのレッドスクリーン修正物語はついに（ほぼ）終わりました</title><link>https://www.androidauthority.com/galaxy-s26-red-screen-update-3701277/</link><guid isPermaLink="true">https://www.androidauthority.com/galaxy-s26-red-screen-update-3701277/</guid><pubDate>Thu, 20 Aug 2026 21:56:22 +0000</pubDate><description><![CDATA[<p>Galaxy S26 Ultraのレッドスクリーン修正物語はついに（ほぼ）終わりました
 
 サムスンはギャラクシーS26のレッドスクリーンバグに対するソフトウェア修正を行っており、それを提供するアップデートのリリースの準備がほぼ整う可能性がある。
@@ -657,6 +768,15 @@ XeSS ドライバーのサポートがないにもかかわらず、SteamOS を�
 
 2026 年 1 月 10 日 Intel Core Ultra X9 388H &#34;Panther Lake&#34; iGPU は、Cyb…</p><p><img src="https://www.techpowerup.com/img/fOKDnNqvTtcfrFHj.jpg" alt="XeSS ドライバーのサポートがないにもかかわらず、SteamOS を実行する Intel Arc B580 は好印象"></p>]]></description><source url="https://www.techpowerup.com/351769/intel-arc-b580-running-steamos-impresses-despite-missing-xess-driver-support">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/fOKDnNqvTtcfrFHj.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/fOKDnNqvTtcfrFHj.jpg"/></item>
 <item><title>Samsung Foundry raises manufacturing prices, may impact the Nintendo Switch 2</title><link>https://www.tweaktown.com/rss/click/news/113179/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113179/?c=news-mf</guid><pubDate>Thu, 20 Aug 2026 19:15:15 +0000</pubDate><description><![CDATA[<p>Samsung Foundry raises manufacturing prices, may impact the Nintendo Switch 2</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113179/?c=news-mf">TweakTown</source></item>
+<item><title>Android 搭載 TV ストリーミング スティックの将来は不透明なようだ</title><link>https://www.xda-developers.com/the-future-of-android-powered-tv-streaming-sticks-looks-uncertain/</link><guid isPermaLink="true">https://www.xda-developers.com/the-future-of-android-powered-tv-streaming-sticks-looks-uncertain/</guid><pubDate>Thu, 20 Aug 2026 19:00:15 +0000</pubDate><description><![CDATA[<p>Android 搭載 TV ストリーミング スティックの将来は不透明なようだ
+
+Google TV Streamer は 2024 年にリリースされましたが、新しいものの将来は明らかではありません。
+
+Android 搭載 TV ストリーミング スティックの将来は不透明なようだ
+
+By Brian Burgess 公開 2026 年 8 月 20 日、午後 3 時 EDT ミネソタ州の田舎に拠点を置くブライアン バージェスは、消費者向けテクノロジーについて執筆することに情熱を注ぐまで、IT 業界で 10 年間働いていました。ブライアンは、2000 年にコンピュータおよびネットワーク テクノロジの学位を取得しました。彼は、ヘルプ デスク サポート、IBM のルーターの設置、データベース管理、その他のネットワーク管理関連の役割など、さまざまな IT 職を歴任しました。彼は 18 年間個人のテクノロジー ジャーナリストとして活動しており、Microsoft の製品とサービス、Android、iOS、ストリーミングなどに関する何千もの記事を執筆してきました。彼は、XDA、InformationWeek、How-To Geek、Byte、groovyPost などの著名な技術サイトに寄稿しています。彼がキーボードから離れているときは、ギターを弾いたり、屋外で仕事をしたり、スタートレックを見たりしているのが聞こえます。 XDA アカウントにサインインする Android/Google TV を搭載した真のストリーミング スティックはこれまで存在しませんでした。これまでにも手頃な価格の Onn Android TV スティックがいくつかありましたが、最初の Chromecast を除けば、Google は独自の Android TV ドングルを販売していません。 2024 年に、主力製品である Chromecast with Google TV (4K) を、実際にはセットトップ ボックスである Google TV Streamer に置き換えました。
+
+セマンティクスはさておき、こ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/03/google-tv-table.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Android 搭載 TV ストリーミング スティックの将来は不透明なようだ"></p>]]></description><source url="https://www.xda-developers.com/the-future-of-android-powered-tv-streaming-sticks-looks-uncertain/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/03/google-tv-table.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/03/google-tv-table.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>4 つのあまり知られていない Jellyfin プラグインなしではセルフホスト サーバーを実行できませんでした</title><link>https://www.xda-developers.com/lesser-known-jellyfin-plugins-couldnt-run-self-hosted-server-without/</link><guid isPermaLink="true">https://www.xda-developers.com/lesser-known-jellyfin-plugins-couldnt-run-self-hosted-server-without/</guid><pubDate>Thu, 20 Aug 2026 19:00:15 +0000</pubDate><description><![CDATA[<p>4 つのあまり知られていない Jellyfin プラグインなしではセルフホスト サーバーを実行できませんでした
 
 通常のプラグインを超えて見る
@@ -670,15 +790,6 @@ By Anurag Singh 公開 2026 年 8 月 20 日、午後 3 時 EDT アヌラグは�
 Jellyfin検索が便利になります
 
 見たいものの正確なタイトルがわかっている場合、Jellyfin の検索は問題ありません。ただし、単語のスペルを間違えたり、映画タイトルの一部しか覚えていない場合には、検索機能はあまり役に立ちません。 …</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/jellyfin-on-mac.jpg?w=1600&amp;h=900&amp;fit=crop" alt="4 つのあまり知られていない Jellyfin プラグインなしではセルフホスト サーバーを実行できませんでした"></p>]]></description><source url="https://www.xda-developers.com/lesser-known-jellyfin-plugins-couldnt-run-self-hosted-server-without/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/jellyfin-on-mac.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/jellyfin-on-mac.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>Android 搭載 TV ストリーミング スティックの将来は不透明なようだ</title><link>https://www.xda-developers.com/the-future-of-android-powered-tv-streaming-sticks-looks-uncertain/</link><guid isPermaLink="true">https://www.xda-developers.com/the-future-of-android-powered-tv-streaming-sticks-looks-uncertain/</guid><pubDate>Thu, 20 Aug 2026 19:00:15 +0000</pubDate><description><![CDATA[<p>Android 搭載 TV ストリーミング スティックの将来は不透明なようだ
-
-Google TV Streamer は 2024 年にリリースされましたが、新しいものの将来は明らかではありません。
-
-Android 搭載 TV ストリーミング スティックの将来は不透明なようだ
-
-By Brian Burgess 公開 2026 年 8 月 20 日、午後 3 時 EDT ミネソタ州の田舎に拠点を置くブライアン バージェスは、消費者向けテクノロジーについて執筆することに情熱を注ぐまで、IT 業界で 10 年間働いていました。ブライアンは、2000 年にコンピュータおよびネットワーク テクノロジの学位を取得しました。彼は、ヘルプ デスク サポート、IBM のルーターの設置、データベース管理、その他のネットワーク管理関連の役割など、さまざまな IT 職を歴任しました。彼は 18 年間個人のテクノロジー ジャーナリストとして活動しており、Microsoft の製品とサービス、Android、iOS、ストリーミングなどに関する何千もの記事を執筆してきました。彼は、XDA、InformationWeek、How-To Geek、Byte、groovyPost などの著名な技術サイトに寄稿しています。彼がキーボードから離れているときは、ギターを弾いたり、屋外で仕事をしたり、スタートレックを見たりしているのが聞こえます。 XDA アカウントにサインインする Android/Google TV を搭載した真のストリーミング スティックはこれまで存在しませんでした。これまでにも手頃な価格の Onn Android TV スティックがいくつかありましたが、最初の Chromecast を除けば、Google は独自の Android TV ドングルを販売していません。 2024 年に、主力製品である Chromecast with Google TV (4K) を、実際にはセットトップ ボックスである Google TV Streamer に置き換えました。
-
-セマンティクスはさておき、こ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/03/google-tv-table.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Android 搭載 TV ストリーミング スティックの将来は不透明なようだ"></p>]]></description><source url="https://www.xda-developers.com/the-future-of-android-powered-tv-streaming-sticks-looks-uncertain/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/03/google-tv-table.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/03/google-tv-table.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>Google は、大規模なリリース日に向けて新しい Pixel 11 ビデオをいくつか用意しました</title><link>https://www.androidauthority.com/google-pixel-11-videos-3701248/</link><guid isPermaLink="true">https://www.androidauthority.com/google-pixel-11-videos-3701248/</guid><pubDate>Thu, 20 Aug 2026 18:56:39 +0000</pubDate><description><![CDATA[<p>Google は、大規模なリリース日に向けて新しい Pixel 11 ビデオをいくつか用意しました
 
 Google が Pixel 11 Pro の最大のセールスポイントだと考えている機能のいくつかを見てみましょう。
@@ -1357,27 +1468,6 @@ Samsung ディスプレイ、VESA DisplayHDR True Black 1400 Tandem OLED を搭�
 2026年7月13日 任天堂、OLEDスクリーンを搭載したSwitch 2の発売を検討 (18)
 
 2026 年 1 月 1 日 LG が CES 2026…</p><p><img src="https://www.techpowerup.com/img/8Qt2OgTq0QzzuWIo.jpg" alt="(PR) Samsung ディスプレイ、VESA DisplayHDR True Black 1400 Tandem OLED を搭載したプレミアム ノートパソコンの新しい輝度基準を設定"></p>]]></description><source url="https://www.techpowerup.com/351758/samsung-display-sets-a-new-brightness-standard-for-premium-laptops-with-vesa-displayhdr-true-black-1400-tandem-oled">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/8Qt2OgTq0QzzuWIo.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/8Qt2OgTq0QzzuWIo.jpg"/></item>
-<item><title>AMD Software Adrenalin 26.8.1 WHQL ドライバーがリリースされました</title><link>https://www.techpowerup.com/351757/amd-software-adrenalin-26-8-1-whql-drivers-released</link><guid isPermaLink="true">https://www.techpowerup.com/351757/amd-software-adrenalin-26-8-1-whql-drivers-released</guid><pubDate>Thu, 20 Aug 2026 14:16:25 +0000</pubDate><description><![CDATA[<p>AMD Software Adrenalin 26.8.1 WHQL ドライバーがリリースされました
-
-AMD は、最初の Adrenalin Edition 8 月ドライバー、バージョン 26.8.1 WHQL をリリースしました。このドライバーは、新しく発表された Radeon RX 9050 4 GB エディション GPU のサポートを導入します。以前の 26.7.1 WHQL ドライバーは Radeon RX 9050 8 GB エディション GPU をサポートしていましたが、この 8 月のリリースは 4 GB に焦点を当てています。
-
-AMD Software Adrenalin 26.8.1 WHQL ドライバーがリリースされました
-
-共鳴: 疫病物語の遺産
-
-Call of Duty: Modern Warfare 4 オープンベータ早期アクセス
-
-Marvel Rivals および Subnautica 2 は、Radeon RX 7000 シリーズ以降のグラフィックス製品のマルチアダプター (結合グラフィックス) 構成では起動に失敗する場合があります。
-
-Radeon RX 9000 シリーズ グラフィックス製品を組み合わせたグラフィックス構成では、Call of Duty: Modern Warfare III が起動時にクラッシュする場合があります。
-
-AMD ソフトウェア: Windows 10 上の Radeon RX 9000 シリーズ グラフィックス製品でオーディオ出力デバイスが選択されていない場合、Adrenalin Edition の記録および再生機能でキャプチャされたファイルの保存に失敗する場合があります。
-
-HuggingFace および GitHub へのアクセスが制限されている一部の地域では、AI バンドル コンポーネントのインストール中にインストールの失敗が発生する場合があります。
-
-Windows 10 システムにドライバーをインストールした後、AMD Smart Access Memory が無効になる場合があります。
-
-…</p><p><img src="https://www.techpowerup.com/img/6se2SzS7GtDJTmhj.jpg" alt="AMD Software Adrenalin 26.8.1 WHQL ドライバーがリリースされました"></p>]]></description><source url="https://www.techpowerup.com/351757/amd-software-adrenalin-26-8-1-whql-drivers-released">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/6se2SzS7GtDJTmhj.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/6se2SzS7GtDJTmhj.jpg"/></item>
 <item><title>(PR) ASUS、Intel搭載ExpertBook P3 G2を発表</title><link>https://www.techpowerup.com/351756/asus-announces-intel-powered-expertbook-p3-g2</link><guid isPermaLink="true">https://www.techpowerup.com/351756/asus-announces-intel-powered-expertbook-p3-g2</guid><pubDate>Thu, 20 Aug 2026 14:16:25 +0000</pubDate><description><![CDATA[<p>(PR) ASUS、Intel搭載ExpertBook P3 G2を発表
 
 ASUS は本日、パフォーマンスと一日中の快適さの両方を求める現代のプロフェッショナル向けに設計されたラップトップ、ExpertBook P3 G2 を発表しました。最大 Intel Core 7 シリーズ 3 プロセッサを搭載した ExpertBook P3 G2 は、高速で応答性の高いパフォーマンスを提供し、ユーザーが勤務時間中生産性を維持できるようにします。
@@ -1403,6 +1493,27 @@ ASUS、Intel 搭載 ExpertBook P3 G2 を発表
 2026 年 5 月 18 日 Intel「Wildcat Lake」搭載ノートパソコンが中国に登場、価格は 449 ドルから (20)
 
 2…</p><p><img src="https://www.techpowerup.com/img/CxYMl3NMVoUEnhs1.jpg" alt="(PR) ASUS、Intel搭載ExpertBook P3 G2を発表"></p>]]></description><source url="https://www.techpowerup.com/351756/asus-announces-intel-powered-expertbook-p3-g2">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/CxYMl3NMVoUEnhs1.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/CxYMl3NMVoUEnhs1.jpg"/></item>
+<item><title>AMD Software Adrenalin 26.8.1 WHQL ドライバーがリリースされました</title><link>https://www.techpowerup.com/351757/amd-software-adrenalin-26-8-1-whql-drivers-released</link><guid isPermaLink="true">https://www.techpowerup.com/351757/amd-software-adrenalin-26-8-1-whql-drivers-released</guid><pubDate>Thu, 20 Aug 2026 14:16:25 +0000</pubDate><description><![CDATA[<p>AMD Software Adrenalin 26.8.1 WHQL ドライバーがリリースされました
+
+AMD は、最初の Adrenalin Edition 8 月ドライバー、バージョン 26.8.1 WHQL をリリースしました。このドライバーは、新しく発表された Radeon RX 9050 4 GB エディション GPU のサポートを導入します。以前の 26.7.1 WHQL ドライバーは Radeon RX 9050 8 GB エディション GPU をサポートしていましたが、この 8 月のリリースは 4 GB に焦点を当てています。
+
+AMD Software Adrenalin 26.8.1 WHQL ドライバーがリリースされました
+
+共鳴: 疫病物語の遺産
+
+Call of Duty: Modern Warfare 4 オープンベータ早期アクセス
+
+Marvel Rivals および Subnautica 2 は、Radeon RX 7000 シリーズ以降のグラフィックス製品のマルチアダプター (結合グラフィックス) 構成では起動に失敗する場合があります。
+
+Radeon RX 9000 シリーズ グラフィックス製品を組み合わせたグラフィックス構成では、Call of Duty: Modern Warfare III が起動時にクラッシュする場合があります。
+
+AMD ソフトウェア: Windows 10 上の Radeon RX 9000 シリーズ グラフィックス製品でオーディオ出力デバイスが選択されていない場合、Adrenalin Edition の記録および再生機能でキャプチャされたファイルの保存に失敗する場合があります。
+
+HuggingFace および GitHub へのアクセスが制限されている一部の地域では、AI バンドル コンポーネントのインストール中にインストールの失敗が発生する場合があります。
+
+Windows 10 システムにドライバーをインストールした後、AMD Smart Access Memory が無効になる場合があります。
+
+…</p><p><img src="https://www.techpowerup.com/img/6se2SzS7GtDJTmhj.jpg" alt="AMD Software Adrenalin 26.8.1 WHQL ドライバーがリリースされました"></p>]]></description><source url="https://www.techpowerup.com/351757/amd-software-adrenalin-26-8-1-whql-drivers-released">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/6se2SzS7GtDJTmhj.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/6se2SzS7GtDJTmhj.jpg"/></item>
 <item><title>Dell XPS 13 (2026) レビュー: メインストリームの Windows ラップトップの卓越性の新たな基準</title><link>https://www.tomshardware.com/laptops/dell-xps-13-2026-review</link><guid isPermaLink="true">https://www.tomshardware.com/laptops/dell-xps-13-2026-review</guid><pubDate>Thu, 20 Aug 2026 14:07:31 +0000</pubDate><description><![CDATA[<p>Dell XPS 13 (2026) レビュー: メインストリームの Windows ラップトップの卓越性の新たな基準
 
 高級ウルトラポータブルのような見た目と感触を備えた手頃な価格のノートパソコン
@@ -1969,6 +2080,19 @@ Pixel 11 は、無視できない新しいスタイルを含む新しいスク�
 昨年の Pixel 10 シリーズの発売に伴い、Google は Android のスクリーンセーバーに長らく待望されていた改善を導入しました。新しいスクリーン セーバー機能は Pixel 10 の傑出した機能の 1 つで、アイドル画面をベッドサイドの時計やデジタル フォト フレームに変えることができます。そして、Pixel 11 シリーズでは新たな機能が追加されています。
 
 Pixel 11 シリーズの新しいスクリーン セーバー スタイルを発見しました。 「充電」と呼ばれるこのスクリーンセーバーには、画面の端の 1 つに沿って伸びたバーが表示され、正確なバッテリーの割合が表示されます。現在のバッテリーの割合が大きくて読みやすいテキストで表示される一方、画面には 80% と 100% の充電のマイルストーンも小さなフォントで表示されます。一方、時刻は画面下部に比…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/Pixel-11-screen-saver-charge-stand-hero.jpg" alt="Pixel 11 は、無視できない新しいスタイルを含む新しいスクリーン セーバー機能を追加します"></p>]]></description><source url="https://www.androidauthority.com/pixel-11-charge-screen-saver-digital-analog-clocks-3700935/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/Pixel-11-screen-saver-charge-stand-hero.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/Pixel-11-screen-saver-charge-stand-hero.jpg"/></item>
+<item><title>グランツーリスモ 7 アップデートで 4 台の新車や追加イベントなどが追加</title><link>https://www.kitguru.net/tech-news/mustafa-mahmoud/gran-turismo-7-update-adds-4-new-cars-additional-events-and-more/</link><guid isPermaLink="true">https://www.kitguru.net/tech-news/mustafa-mahmoud/gran-turismo-7-update-adds-4-new-cars-additional-events-and-more/</guid><pubDate>Thu, 20 Aug 2026 10:30:42 +0000</pubDate><description><![CDATA[<p>グランツーリスモ 7 アップデートで 4 台の新車や追加イベントなどが追加
+
+別のアップデートで戻ってくると、グランツーリスモ 7 には 4 つの新しい車両が追加される予定です。本日はさらに 3 つのイベントが追加されます。
+
+グランツーリスモ 7 アップデートで 4 台の新車や追加イベントなどが追加
+
+Mustafa Mahmoud 18 分前 コンソール , 注目の技術ニュース , ソフトウェアとゲーム , 技術ニュース
+
+2022 年にゲームが最初にリリースされて以来、ポリフォニー デジタルは無料かつ一貫したアップデートでグランツーリスモ 7 を新鮮な状態に保ち続けてきました。一部のパッチよりも小規模なパッチではありますが、GT7 の最新アップデートには、4 台の新しい車両、3 つの追加イベントなどを含む、数多くの歓迎すべき追加機能が含まれています。ポリフォニー・デジタルのチームはブログで発表を行い、グランツーリスモ7に新しいアップデートが本日後半に登場することを認めた。アップデート 1.71 とラベル付けされたこの最新パッチでは、以下が追加されます: 4 つの新しい車両 Caterham Seven Superlight R500 &#39;08
+
+3つの新しいワールドサーキットイベント日本のFRチャレンジ450
+
+前述したように、これは GT7 の最大のアップデートとは程遠いです。そうは言っても、ポリフォニー・デジタル初の適切なライブサービス隣接ゲームであることへの歓迎と継続的な取り組みを示しています。 2022 年にゲームが登場して以来、グランツーリスモ 7 は大量の新しいイベントで更新されました。トラック。エンジン交換。メニューともちろん車両 – 長年にわたって 130 台以上の車両が追加されました。 GT7 の 8 月のアップデートの詳細については、こちらをご覧ください。 KitGuru 氏: 2025 年のグランツーリスモ 7 についてどう思いますか?あと何年間サポートが受けられると思いますか?以下でお知らせください。パトロンになりましょう！ Facebook…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/08/gt7-732x330.jpg" alt="グランツーリスモ 7 アップデートで 4 台の新車や追加イベントなどが追加"></p>]]></description><source url="https://www.kitguru.net/tech-news/mustafa-mahmoud/gran-turismo-7-update-adds-4-new-cars-additional-events-and-more/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/08/gt7-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/08/gt7-732x330.jpg"/></item>
 <item><title>Chrome に Gemini を入れたくないですか? Androidで削除する方法は次のとおりです</title><link>https://www.androidauthority.com/remove-gemini-chrome-android-how-to-3700544/</link><guid isPermaLink="true">https://www.androidauthority.com/remove-gemini-chrome-android-how-to-3700544/</guid><pubDate>Thu, 20 Aug 2026 10:30:42 +0000</pubDate><description><![CDATA[<p>Chrome に Gemini を入れたくないですか? Androidで削除する方法は次のとおりです
 
 Android 上の Chrome を Gemini にフォローされたくないですか?アイコンを選択したショートカットに置き換える方法は次のとおりです。
@@ -1988,19 +2112,6 @@ Gemini をスマートフォンの Chrome に組み込みたいですか?
 Gemini をお気に入りのショートカットに置き換える方法
 
 Shimul Sood / Android Authority Chrome の Gemini アイコンを削除するために、実際には迷路の…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/Gemini-icon-in-Chrome-on-Google-Pixel-10a.jpg" alt="Chrome に Gemini を入れたくないですか? Androidで削除する方法は次のとおりです"></p>]]></description><source url="https://www.androidauthority.com/remove-gemini-chrome-android-how-to-3700544/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/Gemini-icon-in-Chrome-on-Google-Pixel-10a.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/Gemini-icon-in-Chrome-on-Google-Pixel-10a.jpg"/></item>
-<item><title>グランツーリスモ 7 アップデートで 4 台の新車や追加イベントなどが追加</title><link>https://www.kitguru.net/tech-news/mustafa-mahmoud/gran-turismo-7-update-adds-4-new-cars-additional-events-and-more/</link><guid isPermaLink="true">https://www.kitguru.net/tech-news/mustafa-mahmoud/gran-turismo-7-update-adds-4-new-cars-additional-events-and-more/</guid><pubDate>Thu, 20 Aug 2026 10:30:42 +0000</pubDate><description><![CDATA[<p>グランツーリスモ 7 アップデートで 4 台の新車や追加イベントなどが追加
-
-別のアップデートで戻ってくると、グランツーリスモ 7 には 4 つの新しい車両が追加される予定です。本日はさらに 3 つのイベントが追加されます。
-
-グランツーリスモ 7 アップデートで 4 台の新車や追加イベントなどが追加
-
-Mustafa Mahmoud 18 分前 コンソール , 注目の技術ニュース , ソフトウェアとゲーム , 技術ニュース
-
-2022 年にゲームが最初にリリースされて以来、ポリフォニー デジタルは無料かつ一貫したアップデートでグランツーリスモ 7 を新鮮な状態に保ち続けてきました。一部のパッチよりも小規模なパッチではありますが、GT7 の最新アップデートには、4 台の新しい車両、3 つの追加イベントなどを含む、数多くの歓迎すべき追加機能が含まれています。ポリフォニー・デジタルのチームはブログで発表を行い、グランツーリスモ7に新しいアップデートが本日後半に登場することを認めた。アップデート 1.71 とラベル付けされたこの最新パッチでは、以下が追加されます: 4 つの新しい車両 Caterham Seven Superlight R500 &#39;08
-
-3つの新しいワールドサーキットイベント日本のFRチャレンジ450
-
-前述したように、これは GT7 の最大のアップデートとは程遠いです。そうは言っても、ポリフォニー・デジタル初の適切なライブサービス隣接ゲームであることへの歓迎と継続的な取り組みを示しています。 2022 年にゲームが登場して以来、グランツーリスモ 7 は大量の新しいイベントで更新されました。トラック。エンジン交換。メニューともちろん車両 – 長年にわたって 130 台以上の車両が追加されました。 GT7 の 8 月のアップデートの詳細については、こちらをご覧ください。 KitGuru 氏: 2025 年のグランツーリスモ 7 についてどう思いますか?あと何年間サポートが受けられると思いますか?以下でお知らせください。パトロンになりましょう！ Facebook…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/08/gt7-732x330.jpg" alt="グランツーリスモ 7 アップデートで 4 台の新車や追加イベントなどが追加"></p>]]></description><source url="https://www.kitguru.net/tech-news/mustafa-mahmoud/gran-turismo-7-update-adds-4-new-cars-additional-events-and-more/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/08/gt7-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/08/gt7-732x330.jpg"/></item>
 <item><title>Pine64、不足のため少なくとも2027年半ばまですべてのLinuxハードウェア製造を停止 - メモリ不足によりオープンソースメーカーはSBC、タブレット、携帯電話を凍結せざるを得なくなる</title><link>https://www.tomshardware.com/pc-components/dram/pine64-halts-all-linux-device-production-until-at-least-mid-2027-as-memory-shortage-bites</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/dram/pine64-halts-all-linux-device-production-until-at-least-mid-2027-as-memory-shortage-bites</guid><pubDate>Thu, 20 Aug 2026 10:30:00 +0000</pubDate><description><![CDATA[<p>Pine64、不足のため少なくとも2027年半ばまですべてのLinuxハードウェア製造を停止 - メモリ不足によりオープンソースメーカーはSBC、タブレット、携帯電話を凍結せざるを得なくなる
 
 PineNote と PineTab2 の在庫は 3 か月以内に枯渇すると予想されます。
@@ -4469,17 +4580,6 @@ Fire TVのラインナップは少し奇妙な段階に入りつつある。新�
 
 Redditの投稿（AFTVnews経由）によると、同社は、アプリがFire OS 16との互換性問題に遭遇する可能性がある開発者に電子メールを送り始…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2025/05/Insignia-Fire-TV.jpg" alt="Android 16を搭載した新しいFire TVデバイスが間もなく登場する可能性があります"></p>]]></description><source url="https://www.androidauthority.com/amazon-fire-os-android-16-launch-3700391/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2025/05/Insignia-Fire-TV.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2025/05/Insignia-Fire-TV.jpg"/></item>
 <item><title>Raspberry Pi Dances a Jig to Speed Up Mass Programming of Raspberry Pi Compute Module 5s</title><link>https://www.hackster.io/news/raspberry-pi-dances-a-jig-to-speed-up-mass-programming-of-raspberry-pi-compute-module-5s-dbfca30cc49e</link><guid isPermaLink="true">https://www.hackster.io/news/raspberry-pi-dances-a-jig-to-speed-up-mass-programming-of-raspberry-pi-compute-module-5s-dbfca30cc49e</guid><pubDate>Wed, 19 Aug 2026 11:06:58 +0000</pubDate><description><![CDATA[<p>Raspberry Pi Dances a Jig to Speed Up Mass Programming of Raspberry Pi Compute Module 5s</p>]]></description><source url="https://www.hackster.io/news/raspberry-pi-dances-a-jig-to-speed-up-mass-programming-of-raspberry-pi-compute-module-5s-dbfca30cc49e">Hackster.io</source></item>
-<item><title>優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ノートパソコン: Asus ExpertBook PM5 G2 レビュー</title><link>https://www.notebookcheck.net/AMD-Business-Laptop-with-a-Great-144-Hz-IPS-Display-Asus-ExpertBook-PM5-G2-Review.1368549.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/AMD-Business-Laptop-with-a-Great-144-Hz-IPS-Display-Asus-ExpertBook-PM5-G2-Review.1368549.0.html</guid><pubDate>Wed, 19 Aug 2026 11:06:00 +0000</pubDate><description><![CDATA[<p>優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ノートパソコン: Asus ExpertBook PM5 G2 レビュー
-
-AMD Ryzen AI 9 HX 470、Wi-Fi 7、144 Hz IPS ディスプレイを搭載した Asus ExpertBook PM5 G2 の Notebookcheck レビュー。
-
-評決 - ExpertBook PM5 G2 はバランスが悪いようです
-
-私たちのテストでは、新しい Asus ExpertBook PM5 G2 は複雑な印象を残しました。この大型の 16 インチ ビジネス ラップトップは見た目は洗練されていますが、アルミニウムのシャーシにはわずかにきしみ音が発生し、ヒンジが多少ぐらつきます。キーボードは快適でバックライト付きですが、大きな ClickPad の機械的なクリック感は少し安っぽく感じます。接続性とセキュリティ機能は十分であり、イーサネット ポートに加えて、最新の Wi-Fi 7 モジュールも含まれています。
-
-良好 (85%) ExpertBook PM5 G2 PM5606 AMD Ryzen AI 9 HX 470 AMD Radeon 890M Office - 08/13/2026 - v8 テスト デバイスは Asus Deutschland の厚意により提供 ライセンスされた評価画像を PNG / SVG としてダウンロード 内蔵 AMD Ryzen AI 9 HX 470 は、優れた安定したマルチコア パフォーマンスを提供しますが、プロセッサーの TDP が高い単一のクーラーに大きな負荷がかかるため、騒音が非常に大きくなる可能性があります。少なくとも Asus はより静かな電源プロファイルを提供しており、必要に応じてデバイスが全負荷でも非常に静かな状態を保つことができます。
-
-144 Hz のリフレッシュ レートを備えた内蔵のマット WQHD ディスプレイは優れた画質を提供し、この点で多くの競合他社よりも優れています。パネルは仕事に最適で、バッテリー寿命も非常に良好です…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07.JPG" alt="優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ノートパソコン: Asus ExpertBook PM5 G2 レビュー"></p>]]></description><source url="https://www.notebookcheck.net/AMD-Business-Laptop-with-a-Great-144-Hz-IPS-Display-Asus-ExpertBook-PM5-G2-Review.1368549.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07.JPG" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07.JPG"/></item>
 <item><title>優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ラップトップ: Asus ExpertBook PM5 G2 レビュー</title><link>https://www.notebookcheck.net/AMD-business-laptop-with-a-great-144-Hz-IPS-display-Asus-ExpertBook-PM5-G2-review.1368549.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/AMD-business-laptop-with-a-great-144-Hz-IPS-display-Asus-ExpertBook-PM5-G2-review.1368549.0.html</guid><pubDate>Wed, 19 Aug 2026 11:06:00 +0000</pubDate><description><![CDATA[<p>優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ラップトップ: Asus ExpertBook PM5 G2 レビュー
 
 AMD Ryzen AI 9 HX 470、Wi-Fi 7、144 Hz IPS ディスプレイを搭載した Asus ExpertBook PM5 G2 の Notebookcheck レビュー。
@@ -4491,6 +4591,17 @@ AMD Ryzen AI 9 HX 470、Wi-Fi 7、144 Hz IPS ディスプレイを搭載した A
 良好 (85%) ExpertBook PM5 G2 PM5606 AMD Ryzen AI 9 HX 470 AMD Radeon 890M Office - 08/13/2026 - v8 テスト デバイスは Asus Deutschland の厚意により提供 ライセンスされた評価画像を PNG / SVG としてダウンロード 内蔵 AMD Ryzen AI 9 HX 470 は、優れた安定したマルチコア パフォーマンスを提供しますが、プロセッサーの TDP が高い単一のクーラーに大きな負荷がかかるため、騒音が非常に大きくなる可能性があります。少なくとも Asus はより静かな電源プロファイルを提供しており、必要に応じてデバイスが全負荷でも非常に静かな状態を保つことができます。
 
 144 Hz のリフレッシュ レートを備えた内蔵のマット WQHD ディスプレイは優れた画質を提供し、この点で多くの競合他社よりも優れています。パネルは仕事に最適で、バッテリー寿命も非常に良好です。…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07.JPG" alt="優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ラップトップ: Asus ExpertBook PM5 G2 レビュー"></p>]]></description><source url="https://www.notebookcheck.net/AMD-business-laptop-with-a-great-144-Hz-IPS-display-Asus-ExpertBook-PM5-G2-review.1368549.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07.JPG" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07.JPG"/></item>
+<item><title>優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ノートパソコン: Asus ExpertBook PM5 G2 レビュー</title><link>https://www.notebookcheck.net/AMD-Business-Laptop-with-a-Great-144-Hz-IPS-Display-Asus-ExpertBook-PM5-G2-Review.1368549.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/AMD-Business-Laptop-with-a-Great-144-Hz-IPS-Display-Asus-ExpertBook-PM5-G2-Review.1368549.0.html</guid><pubDate>Wed, 19 Aug 2026 11:06:00 +0000</pubDate><description><![CDATA[<p>優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ノートパソコン: Asus ExpertBook PM5 G2 レビュー
+
+AMD Ryzen AI 9 HX 470、Wi-Fi 7、144 Hz IPS ディスプレイを搭載した Asus ExpertBook PM5 G2 の Notebookcheck レビュー。
+
+評決 - ExpertBook PM5 G2 はバランスが悪いようです
+
+私たちのテストでは、新しい Asus ExpertBook PM5 G2 は複雑な印象を残しました。この大型の 16 インチ ビジネス ラップトップは見た目は洗練されていますが、アルミニウムのシャーシにはわずかにきしみ音が発生し、ヒンジが多少ぐらつきます。キーボードは快適でバックライト付きですが、大きな ClickPad の機械的なクリック感は少し安っぽく感じます。接続性とセキュリティ機能は十分であり、イーサネット ポートに加えて、最新の Wi-Fi 7 モジュールも含まれています。
+
+良好 (85%) ExpertBook PM5 G2 PM5606 AMD Ryzen AI 9 HX 470 AMD Radeon 890M Office - 08/13/2026 - v8 テスト デバイスは Asus Deutschland の厚意により提供 ライセンスされた評価画像を PNG / SVG としてダウンロード 内蔵 AMD Ryzen AI 9 HX 470 は、優れた安定したマルチコア パフォーマンスを提供しますが、プロセッサーの TDP が高い単一のクーラーに大きな負荷がかかるため、騒音が非常に大きくなる可能性があります。少なくとも Asus はより静かな電源プロファイルを提供しており、必要に応じてデバイスが全負荷でも非常に静かな状態を保つことができます。
+
+144 Hz のリフレッシュ レートを備えた内蔵のマット WQHD ディスプレイは優れた画質を提供し、この点で多くの競合他社よりも優れています。パネルは仕事に最適で、バッテリー寿命も非常に良好です…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07.JPG" alt="優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ノートパソコン: Asus ExpertBook PM5 G2 レビュー"></p>]]></description><source url="https://www.notebookcheck.net/AMD-Business-Laptop-with-a-Great-144-Hz-IPS-Display-Asus-ExpertBook-PM5-G2-Review.1368549.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07.JPG" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07.JPG"/></item>
 <item><title>シンプルな DIY STM32 オシロスコープ プロジェクト</title><link>https://hackaday.com/2026/08/19/simple-diy-stm32-oscilloscope-project/</link><guid isPermaLink="true">https://hackaday.com/2026/08/19/simple-diy-stm32-oscilloscope-project/</guid><pubDate>Wed, 19 Aug 2026 11:00:26 +0000</pubDate><description><![CDATA[<p>シンプルな DIY STM32 オシロスコープ プロジェクト
 
 STM32 ベースのオシロスコープ開発シリーズのパート 1 では、[BTTLab] が STM32F207 MCU の内蔵 ADC を使用して簡単な単一オシロスコープを開発する方法を示します。
@@ -6844,107 +6955,4 @@ GameStop の顧客は、壊れたゲーム機のスタックから 10,000 ドル
 オレゴン州クラカマスの GameStop 顧客は、数百台の壊れたゲーム機をストア クレジットで 10,690.06 ドルと交換しました。ジャンクをありがとう、ジョシュ！ pic.twitter.com/cQy2dvKFKQ 2026 年 8 月 17 日
 
 これは、ストア内で費やすクレジットとしてはかなりの額ですが、GameStop のユーザーの多くはご存知のとおり、下取りはさらに進んでいきます。言い換えれば、クレジットではなく現金を要求した場合、得られる額は少なくなります。店内クレジットの妥協を受け入れると、実際に使える現金が最大 50…</p><p><img src="https://cdn.mos.cms.futurecdn.net/SUJQMts6oFkL8scWtiQF4T-1920-80.jpg" alt="GameStop の顧客は、壊れたゲーム機のスタックから 10,000 ドル以上のストア クレジットを獲得 - 「数百台」の PlayStation、Xbox、ゲームボーイ、スイッチなどを取引"></p>]]></description><source url="https://www.tomshardware.com/video-games/console-gaming/gamestop-customer-earned-over-usd10-000-in-store-credit-from-a-stack-of-broken-consoles-traded-hundreds-of-playstations-xboxes-game-boys-switches-and-more">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/SUJQMts6oFkL8scWtiQF4T-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/SUJQMts6oFkL8scWtiQF4T-1920-80.jpg"/></item>
-<item><title>Google、AI トレーニング用のスピリット航空のデータをわずか 1,000 万ドルで購入 - 購入には数億件のメール、Microsoft Teams チャット、数十億件の航空券価格記録、匿名化された乗客記録が含まれる</title><link>https://www.tomshardware.com/tech-industry/artificial-intelligence/google-buys-spirit-airlines-data-for-ai-training-for-just-usd10-million-purchase-includes-hundreds-of-millions-of-emails-microsoft-teams-chats-billions-of-flight-pricing-records-and-anonymized-passenger-records</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/artificial-intelligence/google-buys-spirit-airlines-data-for-ai-training-for-just-usd10-million-purchase-includes-hundreds-of-millions-of-emails-microsoft-teams-chats-billions-of-flight-pricing-records-and-anonymized-passenger-records</guid><pubDate>Tue, 18 Aug 2026 11:02:02 +0000</pubDate><description><![CDATA[<p>Google、AI トレーニング用のスピリット航空のデータをわずか 1,000 万ドルで購入 - 購入には数億件のメール、Microsoft Teams チャット、数十億件の航空券価格記録、匿名化された乗客記録が含まれる
-
-このデータの宝庫は、比較的手頃な価格の 1,000 万ドルで入手できました。
-
-Google、AI トレーニング用のスピリット航空のデータをわずか 1,000 万ドルで購入 - 購入には数億件のメール、Microsoft Teams チャット、数十億件の航空券価格記録、匿名化された乗客記録が含まれる
-
-このデータの宝庫は、比較的手頃な価格の 1,000 万ドルで入手できました。
-
-(画像クレジット: Getty Images ) リンクをコピー
-
-0 会話に参加してください フォローしてください Google ニュースレターの優先ソースとして追加してください ニュースレターを購読してください 今年 5 月 2 日に破産を宣告され閉鎖されたスピリット航空は、約 81 億ドルの負債を返済するために破産裁判所の競売で全資産を売却しています。ブルームバーグ法によると、グーグルLLCは航空会社のデータでAI専門人材紹介会社マーコーアイオ社を破り、AI技術大手のマーコーアイオ社の提示額は1000万ドルで、後者の750万ドルより250万ドル高かった。それにも関わらず、ニューヨーク南部地区連邦破産裁判所は、Googleとの取引が失敗した場合に備えて、バックアップ買い手としてMercor.io Corp.を指名した。
-
-Googleは、購入した大量のデータをAI LLMのトレーニングに使用する予定だと述べたが、このテクノロジー巨人が入手したデータの量は実に大量である。法廷記録によると、Googleの買収には、1億件の電子メール、5億件のMicrosoft Teamsチャット、競合他社のフライトに関する72億件の記録、2008年からの75億件の旅客取引記録、1986年からの17万5000人以上の従業員記録が含まれていることが明らかになっている。これとは別に、同社は収益、…</p><p><img src="https://cdn.mos.cms.futurecdn.net/ZzgySZCJ2cZQFra87qg2Yh-1920-80.png" alt="Google、AI トレーニング用のスピリット航空のデータをわずか 1,000 万ドルで購入 - 購入には数億件のメール、Microsoft Teams チャット、数十億件の航空券価格記録、匿名化された乗客記録が含まれる"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/artificial-intelligence/google-buys-spirit-airlines-data-for-ai-training-for-just-usd10-million-purchase-includes-hundreds-of-millions-of-emails-microsoft-teams-chats-billions-of-flight-pricing-records-and-anonymized-passenger-records">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/ZzgySZCJ2cZQFra87qg2Yh-1920-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/ZzgySZCJ2cZQFra87qg2Yh-1920-80.png"/></item>
-<item><title>Fairphone Gen 6 Plus は米国で正式に入手可能、仲介業者は不要</title><link>https://www.androidauthority.com/fairphone-gen-6-plus-3698828/</link><guid isPermaLink="true">https://www.androidauthority.com/fairphone-gen-6-plus-3698828/</guid><pubDate>Tue, 18 Aug 2026 11:00:19 +0000</pubDate><description><![CDATA[<p>Fairphone Gen 6 Plus は米国で正式に入手可能、仲介業者は不要
-
-Fairphone は Fairphone Gen 6 Plus を発表しました。これは米国で直接入手できる最初のモデルです。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Fairphone Gen 6 Plus は米国で正式に入手可能、仲介業者は不要
-
-0 • Paul Jones / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Fairphone は、米国で直接入手できる最初のモデルである Fairphone Gen 6 Plus をリリースしました。
-
-米国における以前のモデルはソフトウェア会社 Murena を通じて販売され、Google フリーの /e/OS Android フォークを実行していました。
-
-Fairphone Gen 6 Plusの価格は649ドルまたは569ポンドです。
-
-Fairphone は 10 年以上前、倫理的に製造された修理可能な携帯電話を提供することで初めて話題になりました。同社は長年にわたりこの傾向を継続しつつ、長期間のアップデートコミットメントも提供しています。昨年Fairphone Gen 6を発売し、現在は中世代のリフレッシュ版を提供している。これは Fairphone Gen 6 Plus で、現在米国で正式に入手可能です。
-
-以前の Fairphone モデルは、ソフトウェア会社 Murena を通じて米国で入手でき、同社の Google フリーの /e/OS Android フォークを実行していました。ただし、Fairphone Gen 6 Plus は、米国では Fairphone.com および Amazon を通じて正式に入手可能です。このデバイスには、/e/OS の代わりに標準の Google 搭載 OS が搭載されており、初めて社内ギャラリー アプリが装…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/Fairphone-Gen.-6-close-up-on-battery.jpg" alt="Fairphone Gen 6 Plus は米国で正式に入手可能、仲介業者は不要"></p>]]></description><source url="https://www.androidauthority.com/fairphone-gen-6-plus-3698828/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/Fairphone-Gen.-6-close-up-on-battery.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/Fairphone-Gen.-6-close-up-on-battery.jpg"/></item>
-<item><title>VR で、はんだ付けをどの角度からでも間近で見る</title><link>https://hackaday.com/2026/08/18/watch-soldering-up-close-and-from-any-angle-in-vr/</link><guid isPermaLink="true">https://hackaday.com/2026/08/18/watch-soldering-up-close-and-from-any-angle-in-vr/</guid><pubDate>Tue, 18 Aug 2026 11:00:15 +0000</pubDate><description><![CDATA[<p>VR で、はんだ付けをどの角度からでも間近で見る
-
-はんだ付けのような手作業のスキルは、実際の動作を見ることができれば非常に簡単に学習し、把握することができます。また、仮想現実 (VR) を使用してそれを行うまったく新しい方法があります。それはただのセではない…
-
-はんだ付けのような手作業のスキルは、実際の動作を見ることができれば非常に簡単に学習し、把握することができます。また、仮想現実 (VR) を使用してそれを行うまったく新しい方法があります。これは、誰かの作業台で撮影された単なる 3D ビデオのシリーズではありません。
-
-PCB Hand-Soldering Basics は、視聴者があらゆる角度から自由に見ることができる 3D コンテンツの表示方法であるガウス スプラットを使用したはんだ付けをデモンストレーションする 13 のビデオ シリーズです。ガウス スプラットは新しいものではありませんが、これが異なるのは、詳細レベルが非常に高いことと、有名な場所、ランドマーク、または同様の「大きな」ものを表示するのではなく、手持ちツールの使用に焦点を当てているという事実です。
-
-ビデオ全体を通して、アイロン、部品、PCB 自体の詳細は、どの角度からでも、さらには近くからでも見ることができます。これは、VR ヘッドセット内からキャプチャされた短いビデオです。これは、おそらく自分で見るのに次善の方法です。
-
-この教育作品は、インペリアル・カレッジ・ロンドンの電気電子工学科と協力して制作されました。もう少し詳しい情報は、制作に関わったチームの一員である [Tanmay Lad] による LinkedIn の投稿にあります。目標は、ズームインしたり、あらゆる角度から 3D で観察したりできる、ユニークな最前列の席で手はんだ付けを行うことです。
-
-ガウス スプラットについてよく知りませんか?概要については以前に説明しました。見栄えも良く、レンダリングの計算コストも安く、近くに寄ってこれほど細部まで観察できることは、実際には期待できることではありません。</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/Gaussian-Splat-Soldering-Class-banner.png" alt="VR で、はんだ付けをどの角度からでも間近で見る"></p>]]></description><source url="https://hackaday.com/2026/08/18/watch-soldering-up-close-and-from-any-angle-in-vr/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/Gaussian-Splat-Soldering-Class-banner.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/Gaussian-Splat-Soldering-Class-banner.png"/></item>
-<item><title>モニターの USB-C ポートは思っているよりも便利です。接続すべきものは次のとおりです。</title><link>https://www.xda-developers.com/things-you-can-connect-to-monitors-usb-c-port/</link><guid isPermaLink="true">https://www.xda-developers.com/things-you-can-connect-to-monitors-usb-c-port/</guid><pubDate>Tue, 18 Aug 2026 11:00:10 +0000</pubDate><description><![CDATA[<p>モニターの USB-C ポートは思っているよりも便利です。接続すべきものは次のとおりです。
-
-ドン
-
-モニターの USB-C ポートは思っているよりも便利です。接続すべきものは次のとおりです。
-
-Hamlin Rozario 著 2026 年 8 月 18 日午前 7:00 EDT 公開 ハムリンはテクノロジー分野に 9 年以上携わっています。 2017 年以来、彼の作品は MakeUseOf 、Android Police 、OSXDaily、Beebom などに掲載されています。 XDA に入社する前は、Valnet の MakeUseOf で上級編集者を 2 年以上務めました。彼はデスクトップ用にハイエンドのゲーム機を使用し、旅行用に MacBook を使用していますが、macOS のいくつかの癖が嫌いです。他のどこよりもジムや飛行機の中で彼に出会う可能性が高くなります。 XDA アカウントにサインインする 私は Alienware AW3423DW および AW2725DF OLED モニターをゲーム PC で使用しています。両方とも USB ハブが内蔵されていますが、新しい AW2725DF のみ USB-C ポートがあります。これは、最初に購入したときは気にも留めなかった機能の 1 つです。その豪華な OLED パネルと 360Hz のリフレッシュ レートにすでに魅了されていたからです。今では、AW3423DW にもそれがあればいいのにと思っています。ディスプレイのすぐ下に USB-C ポートがあると便利だと実感したからです。
-
-もちろん、デバイスをモニターの USB-C ポートに接続するだけで動作することを期待することはできません。モニターの USB ハブは、まず PC へのアップストリーム接続を必要とします。これは、AW2725DF を使用した私の場合のように、別の USB アップストリーム ケーブルを介するか、ディスプレイ信号を伝送する同じ USB-C 接続を介するかに関係ありません。ただし、セットアップが完了すると、その USB-C ポートは実質的に…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/two-monitors-mounted.jpg?w=1600&amp;h=900&amp;fit=crop" alt="モニターの USB-C ポートは思っているよりも便利です。接続すべきものは次のとおりです。"></p>]]></description><source url="https://www.xda-developers.com/things-you-can-connect-to-monitors-usb-c-port/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/two-monitors-mounted.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/two-monitors-mounted.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>裁判官は判決全体をAIに委託したとされるが、依然として告訴できていない — 連邦裁判所は全面的な司法免除を支持</title><link>https://www.tomshardware.com/tech-industry/artificial-intelligence/judges-who-use-ai-to-make-decisions-still-protected-by-judicial-immunity-court-ruling-protects-outcomes-regardless-of-ai-usage</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/artificial-intelligence/judges-who-use-ai-to-make-decisions-still-protected-by-judicial-immunity-court-ruling-protects-outcomes-regardless-of-ai-usage</guid><pubDate>Tue, 18 Aug 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>裁判官は判決全体をAIに委託したとされるが、依然として告訴できていない — 連邦裁判所は全面的な司法免除を支持
-
-しかし、これは裁判官がAIの使用を許可されることを意味するものではありません。
-
-裁判官は判決全体をAIに委託したとされるが、依然として告訴できていない — 連邦裁判所は全面的な司法免除を支持
-
-しかし、これは裁判官がAIの使用を許可されることを意味するものではありません。
-
-(画像クレジット: Shutterstock (2253205945)) リンクをコピー
-
-1 会話に参加する フォローする Google ニュースレターの優先情報源として追加する ニュースレターを購読する アメリカの裁判官が非常に広範な司法免除を持っていることは秘密ではありません。米国連邦裁判所の新たな判決によると、州判事が司法判断を完全に人工知能に依存しているとして告発された場合でも、判事は依然として司法免除によって民事訴訟から保護されているようだ。興味深いことに、この判決は、裁判官が実際にAIを使用したかどうか、またはそのような使用が法的に許可されているかどうかを決定していないと、Reason が報じています。
-
-この判決は、ネバダ州地区連邦地方判事グロリア・ナバロによって決定されたフィリップス対パーレードの判決によるものです。原告は、州判事が公式の意思決定責任を完全にAIに委ね、人間の判断を全く使わずに判決を下したとされているため、司法免除は適用されるべきではないと主張した。フィリップス氏によると、意思決定の100％を委任するということは、結果として得られる命令が裁判官によって行われた判決としての資格を得ることができないことを意味するという。同氏はまた、このような完全な委任により判決は裁判官の管轄外に置かれ、司法上の免責が剥奪される稀なケースだと述べた。
-
-ナバロ氏は両方の主張を拒否した。裁判官は一般に、その行動に誤り、悪意、権限を超えた行為が含まれる場合でも、民事責任から守られています。ただし、その保護は、裁判官が管轄権を完全に欠如して行動した場合、または異議を申し立てられた…</p><p><img src="https://cdn.mos.cms.futurecdn.net/5hdMf9ngWuyFWXqzgbQH3S-2000-80.jpg" alt="裁判官は判決全体をAIに委託したとされるが、依然として告訴できていない — 連邦裁判所は全面的な司法免除を支持"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/artificial-intelligence/judges-who-use-ai-to-make-decisions-still-protected-by-judicial-immunity-court-ruling-protects-outcomes-regardless-of-ai-usage">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/5hdMf9ngWuyFWXqzgbQH3S-2000-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/5hdMf9ngWuyFWXqzgbQH3S-2000-80.jpg"/></item>
-<item><title>Seagate 8TB IronWolf HDD の 3 番目の 3 つで NAS を拡張 — Best Buy の 60 周年記念セールで 32% 割引</title><link>https://www.tomshardware.com/pc-components/hdds/expand-your-nas-with-a-third-off-this-seagate-8tb-ironwolf-hdd-32-percent-discount-in-best-buys-60th-anniversary-sale</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/hdds/expand-your-nas-with-a-third-off-this-seagate-8tb-ironwolf-hdd-32-percent-discount-in-best-buys-60th-anniversary-sale</guid><pubDate>Tue, 18 Aug 2026 10:45:18 +0000</pubDate><description><![CDATA[<p>Seagate 8TB IronWolf HDD の 3 番目の 3 つで NAS を拡張 — Best Buy の 60 周年記念セールで 32% 割引
-
-NAS ベイをいっぱいにします
-
-Seagate 8TB IronWolf HDD の 3 番目の 3 つで NAS を拡張 — Best Buy の 60 周年記念セールで 32% 割引
-
-(画像クレジット: Future) リンクをコピーする
-
-フォローしてください Google ニュースレターの優先ソースとして追加してください ニュースレターを購読してください 現在、ストレージの価格は異常に高くなっており、新しいドライブの価格がいつ過去最高値にまで下がるか、終わりは見えません。ただし、それでも NAS のドライブ ベイを埋める必要がある場合は、少額の割引を受けられる HDD がいくつかあります。 Best Buy は現在、60 周年記念セール イベントを開催しており、さまざまなテクノロジー製品が軒並み割引されていますが、今日私たちが興味を持っている取引は、Seagate の 8TB IronWolf NAS ハードディスク ドライブで、定価から 167 ドル値下げされ、現在 349.99 ドルになっています。
-
-● Best Buy でこのセールをチェックしてください
-
-この価格では、ドライブのテラバイトあたりのコストは 43.74 ドルになります。これは、より大きな HDD ドライブの TB あたりの価格と比較すると高価ですが、バックアップの冗長性のために複数のドライブを購入する場合は、ユニットあたりのコストが安くなります。 28 TB の容量が得られることを考えると、8 TB は最大のサイズではないように思えるかもしれませんが、現在の経済状況では、これらのドライブのコストはかなり高くなります。
-
-この 8TB 7,200 RPM ドライブは、相当量以上のデータを保存できます。 256MB のキャッシュを備え、6GB/秒の SATA 接続により、入手可能なハード ディスク ドライブ (HDD) の中で最も高…</p><p><img src="https://cdn.mos.cms.futurecdn.net/LfJJxns8BGtJ25UFdu2m7T-1920-80.jpg" alt="Seagate 8TB IronWolf HDD の 3 番目の 3 つで NAS を拡張 — Best Buy の 60 周年記念セールで 32% 割引"></p>]]></description><source url="https://www.tomshardware.com/pc-components/hdds/expand-your-nas-with-a-third-off-this-seagate-8tb-ironwolf-hdd-32-percent-discount-in-best-buys-60th-anniversary-sale">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/LfJJxns8BGtJ25UFdu2m7T-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/LfJJxns8BGtJ25UFdu2m7T-1920-80.jpg"/></item>
-<item><title>Noctua は引き続きパフォーマンスに重点を置き、RGB やスクリーンをクーラーに搭載する計画はない</title><link>https://www.techpowerup.com/351679/noctua-remains-focused-on-performance-no-plans-for-rgb-or-screens-in-coolers</link><guid isPermaLink="true">https://www.techpowerup.com/351679/noctua-remains-focused-on-performance-no-plans-for-rgb-or-screens-in-coolers</guid><pubDate>Tue, 18 Aug 2026 10:43:59 +0000</pubDate><description><![CDATA[<p>Noctua は引き続きパフォーマンスに重点を置き、RGB やスクリーンをクーラーに搭載する計画はない
-
-PC 冷却スペースにおけるパフォーマンスに対する Noctua の熱意は、依然として実用性のみに焦点を当てています。 Club386 との最近のインタビューによると、同社の最高製品責任者である Jakob Dellinger 氏は、RGB 照明や LCD スクリーンなどの機能は会社が計画しているものではないことを認めました...
-
-Noctua は引き続きパフォーマンスに重点を置き、RGB やスクリーンをクーラーに搭載する計画はない
-
-Noctua の最高製品責任者、Jakob Dellinger 氏 私たちは、見た目を美しくすることにリソースをできるだけ費やさないようにしたいと考えていますが、それは私たちの焦点ではありません。そのため、Noctua 製品が巨大で豪華なスクリーンなどを備えたものになる可能性は非常に低いです...私たちがしたいのは、熱効率を高め、動作の静音性を向上させ、可能な限り最高の品質を確保することです。
-
-2026 年 2 月 2 日 Microsoft、Windows 11 の「AI Everywhere」から撤退し、コア機能に注力 (144)
-
-2026 年 5 月 1 日 Noctua が chromax.black ファンのリリースに時間がかかる理由を説明 (73)
-
-2026 年 8 月 10 日 Windows 11 の内蔵天気アプリは 1 GB 以上の RAM を浪費する (78)
-
-2026 年 5 月 29 日 Noctua がサイレント ビルド向けの相変化 AIO の Computex の発売を予告 (28)
-
-2026 年 4 月 6 日 Steam は、予想される PC パフォーマンスを示すために購入前にゲームの FPS を推定します (33)
-
-2026 年 8 月 10 日 Noctua が PC ケースクーラーの高さ仕様の不正確さを明らかに (13)
-
-2026 年 7 月 6 日 Noctua が 2026 年後…</p><p><img src="https://www.techpowerup.com/img/cpPfsGw4w1NU1zmt.jpg" alt="Noctua は引き続きパフォーマンスに重点を置き、RGB やスクリーンをクーラーに搭載する計画はない"></p>]]></description><source url="https://www.techpowerup.com/351679/noctua-remains-focused-on-performance-no-plans-for-rgb-or-screens-in-coolers">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/cpPfsGw4w1NU1zmt.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/cpPfsGw4w1NU1zmt.jpg"/></item>
 </channel></rss>
