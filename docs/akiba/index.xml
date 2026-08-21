@@ -1,6 +1,271 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Fri, 21 Aug 2026 01:56:57 +0000</lastBuildDate>
+<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Fri, 21 Aug 2026 03:15:44 +0000</lastBuildDate>
+<item><title>Waymoまで独自チップを作っていた。半導体の取り合いはさらに激しくなりそうだ</title><link>https://gori.me/it/169152</link><guid isPermaLink="true">https://gori.me/it/169152</guid><pubDate>Fri, 21 Aug 2026 02:24:02 +0000</pubDate><description><![CDATA[<p>Waymoまで独自チップを作っていた。半導体の取り合いはさらに激しくなりそうだ
+
+Waymoが自動運転システム「Waymo Driver」の車載コンピュータを初公開した。中核は自社設計の5nm ASICで、カメラやライダー、レーダーの生データを処理してニューラルネットワークを実行する。単体で1,000 TOPS超、演算能力は8年で20倍に拡大し、AMDやNVIDIAなど7社と協業している。
+
+クイック Waymoまで独自チップを作っていた。半導体の取り合いはさらに激しくなりそうだ
+
+AMDやNVIDIA、TSMCなど7社と協業。演算需要はこの8年で20倍に
+
+Waymoが自動運転車の車載コンピュータを初公開し、自社設計の5nm ASICを明らかにした
+
+このASIC単体でフロントエンド処理とMLモデル向けに1,000 TOPS超、演算能力は8年で20倍に
+
+AMD、Micron、NVIDIA、Samsung、Sandisk、Socionext、TSMCの7社と協業している
+
+Waymoが、 自動運転システム「Waymo Driver」を動かす車載コンピュータの中身を初公開 した。中核にあるのは 自社設計の5nm ASIC 。カメラ・ライダー・レーダーの生データを処理・融合し、ニューラルネットワークを走らせるための専用チップだ。
+
+このASIC単体でフロントエンド処理とMLモデル向けに1,000 TOPS超。低照度でのノイズ除去までチップ側で処理する作り込みで、シリコンとセンサーとアルゴリズムを同時に設計してきた成果だという。演算能力はこの8年で20倍になったというから、必要な計算量の伸び方も相当だ。
+
+自動運転の会社が、ここまで自分でチップを設計するようになった。 Waymo が挙げた協業先はAMD、Micron、NVIDIA、 Samsung 、Sandisk、Socionext、TSMCの7社。半導体メーカーから メモリ 、ストレージ、ファウンドリまで一通り並んでいて、自社設計とはいえサプライチェーンの上流をがっちり押さえる話になっている。
+
+要件は「応答性・堅牢性…</p><p><img src="https://gori.me/uploads/2026/08/Waymo-Chip-800x534.jpeg" alt="Waymoまで独自チップを作っていた。半導体の取り合いはさらに激しくなりそうだ"></p>]]></description><source url="https://gori.me/it/169152">gori.me</source><media:content url="https://gori.me/uploads/2026/08/Waymo-Chip-800x534.jpeg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/08/Waymo-Chip-800x534.jpeg"/></item>
+<item><title>Google検索とDiscoverのパーソナライズが一気に強化されていた</title><link>https://gori.me/google/google-news/169150</link><guid isPermaLink="true">https://gori.me/google/google-news/169150</guid><pubDate>Fri, 21 Aug 2026 02:23:51 +0000</pubDate><description><![CDATA[<p>Google検索とDiscoverのパーソナライズが一気に強化されていた
+
+Googleが検索・Discover・Googleニュースのパーソナライズ機能を強化。メディアが埋め込める「優先ソース」ボタンを提供し、読者はワンタップでお気に入りサイトをトップニュースやAIモードで優先表示できる。Discoverは自分の言葉でフィード調整が可能になる。
+
+クイック Google検索とDiscoverのパーソナライズが一気に強化されていた
+
+ワンタップでお気に入りメディアを優先表示。Discoverのフィードを自分の言葉で調整できるようになる
+
+Googleがメディア埋め込み型の「Preferred Sources（優先ソース）」ボタンを提供開始。ワンタップで登録できる
+
+登録したサイトはトップニュース、AIによる概要、AIモードで優先表示される。日本語環境も対応済み
+
+Discoverは自分の言葉でトピックの好みを指定でき、Android版Googleニュースは音声ブリーフィングをカスタマイズ可能に
+
+Google が検索・Discover・ Google ニュースのパーソナライズ機能を強化した。 公式ブログ によると、メディア側が自分のサイトに埋め込める「 Preferred Sources（優先ソース） 」ボタンが新たに提供され、読者がボタンを押すとその場でサイトが優先ソースに追加され、読んでいた位置にそのまま戻れるという。すでに60万件以上のユニークなソースが選ばれているとのこと。
+
+優先ソースに登録されたサイトは、 Google 検索の「トップニュース」に優先的に表示され、AIによる概要やAIモードでもコンテンツが取り上げられやすくなる。この機能は2026年4月末から5月にかけて日本語を含む全サポート言語に拡大されているので、日本の読者もそのまま使える。
+
+Discover側も変わる。数日以内に Google アプリのフィード内の三点メニューから、「見たいトピック」「見たくないトピック」を自分の言葉で伝えられるようになる。「週末のドライブ旅行の動画は見たいけどキャンプ…</p><p><img src="https://gori.me/uploads/2026/08/Untitled-13V_1.width-2200.format-webp-800x450.jpeg" alt="Google検索とDiscoverのパーソナライズが一気に強化されていた"></p>]]></description><source url="https://gori.me/google/google-news/169150">gori.me</source><media:content url="https://gori.me/uploads/2026/08/Untitled-13V_1.width-2200.format-webp-800x450.jpeg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/08/Untitled-13V_1.width-2200.format-webp-800x450.jpeg"/></item>
+<item><title>(アキバ取材班) 第2世代ベイパーチャンバー採用CPUクーラー、DeepCool「AK700 VC」発売</title><link>https://www.gdm.or.jp/crew/2026/0821/648954</link><guid isPermaLink="true">https://www.gdm.or.jp/crew/2026/0821/648954</guid><pubDate>Fri, 21 Aug 2026 02:21:20 +0000</pubDate><description><![CDATA[<p>(アキバ取材班) 第2世代ベイパーチャンバー採用CPUクーラー、DeepCool「AK700 VC」発売</p>]]></description><source url="https://www.gdm.or.jp/crew/2026/0821/648954">エルミタージュ秋葉原</source></item>
+<item><title>Core i7-14650HX×RTX 5050、ASUSの16型ゲーミングノート「TUF Gaming 16」</title><link>https://www.gdm.or.jp/pressrelease/2026/0821/648960</link><guid isPermaLink="true">https://www.gdm.or.jp/pressrelease/2026/0821/648960</guid><pubDate>Fri, 21 Aug 2026 02:17:20 +0000</pubDate><description><![CDATA[<p>Core i7-14650HX×RTX 5050、ASUSの16型ゲーミングノート「TUF Gaming 16」
+
+Core i7-14650HXとGeForce RTX 5050 Laptop GPUを搭載する16型ゲーミングノートPC、ASUS「TUF Gaming 16」が発売。
+
+Core i7-14650HX×RTX 5050、ASUSの16型ゲーミングノート「TUF Gaming 16」
+
+144Hz対応WUXGA液晶を搭載、希望小売価格は税込269,800円
+
+ASUS JAPAN株式会社（本社：東京都千代田区）は2026年8月21日、16型ゲーミングノートPC 「ASUS TUF Gaming 16（FX610JH）」 を発表。本日より販売を開始した。希望小売価格は税込269,800円。
+
+Intel Core i7-14650HXと、最大85W動作のNVIDIA GeForce RTX 5050 Laptop GPU 8GBを搭載。メモリはDDR5-5600 16GBで、空きスロットを1基備え、最大64GBまで増設できる。ストレージはPCI Express 4.0 x4接続のNVMe M.2 SSD 1TBで、増設用の空きM.2スロットも用意する。
+
+ディスプレイはアスペクト比16：10の16型ノングレア液晶。解像度は1,920×1,200ドット、リフレッシュレートは144Hz、応答速度は3msで、画面占有率は約85％。ヒンジは180°まで開くことができる。
+
+冷却システムには、80枚の厚さ0.15mmブレードを備える2基のファンと3本のヒートパイプを搭載。105W TDPのターボモードでも、動作音を約40dBに抑えるとしている。また、米国国防総省が定めるMIL-STD 810H準拠テストをクリアし、振動や落下、衝撃、高温・低温環境に対する堅牢性を確保した。
+
+インターフェースは、映像出力およびPower Deliveryに対応するUSB 3.2 Gen 2 Type-C ×1、USB 3.2 Gen 1 Type-A ×2、USB 2.0 Type-…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/08/21/FX610JH-I7161TR5050S_001.jpg" alt="Core i7-14650HX×RTX 5050、ASUSの16型ゲーミングノート「TUF Gaming 16」"></p>]]></description><source url="https://www.gdm.or.jp/pressrelease/2026/0821/648960">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/08/21/FX610JH-I7161TR5050S_001.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/08/21/FX610JH-I7161TR5050S_001.jpg"/></item>
+<item><title>arkhiveのBTO PC購入でASUSゲーミングモニターがもらえるキャンペーン</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2134343.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2134343.html</guid><pubDate>Fri, 21 Aug 2026 02:05:00 +0000</pubDate><description><![CDATA[<p>arkhiveのBTO PC購入でASUSゲーミングモニターがもらえるキャンペーン
+
+パソコンショップ アークは、オンラインストアおよび秋葉原店舗にて「arkhive Powered by ASUS ゲーミングモニタープレゼントキャンペーン」を、9月30日（水）までの期間・数量限定で開催する。
+
+arkhiveのBTO PC購入でASUSゲーミングモニターがもらえるキャンペーン
+
+パソコンショップ アーク は、オンラインストアおよび秋葉原店舗にて「arkhive Powered by ASUS ゲーミングモニタープレゼントキャンペーン」を、9月30日（水）までの期間・数量限定で開催する。
+
+キャンペーンは、同店のBTO PC「Powered by ASUS arkhive」を対象に、先着30台限定で27インチWQHDゲーミングモニター「ASUS TUF Gaming VG27AQL5A」をプレゼントするというもの。
+
+対象PCは、Ryzen 7 9800X3D/GeForce RTX 5070 Ti搭載の「AG-AG8C2TX87AGB7I-A32」（589,800円）、Core Ultra 7 270K Plus/GeForce RTX 5070 Ti搭載の「AG-IA24C2TZ89AGB7I-A32」（564,800円）、Core Ultra 5 250KF Plus/GeForce RTX 5070搭載の「AG-IA18C1TB86AGB7-A32」（399,800円）、Ryzen 7 9700X/Radeon RX 9060 XT搭載の「AG-AG8C1TB85ARD6X-A32」（349,800円）。
+
+カスタマイズメニューからキャンペーン特典を選択、注文するだけで別途申し込みは不要。プレゼントモニターはPCと同時発送されるとしている。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2134/343/s1.jpg" alt="arkhiveのBTO PC購入でASUSゲーミングモニターがもらえるキャンペーン"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2134343.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2134/343/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2134/343/s1.jpg"/></item>
+<item><title>【本日みつけたお買い得品】Type-CもType-Aも接続可能な128GB USBメモリが1,620円引き</title><link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2134438.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/todays_sales/2134438.html</guid><pubDate>Fri, 21 Aug 2026 02:04:25 +0000</pubDate><description><![CDATA[<p>【本日みつけたお買い得品】Type-CもType-Aも接続可能な128GB USBメモリが1,620円引き
+
+Amazonにおいて、ORICOのUSB 3.2 Gen 1 Type-C接続に対応するUSBメモリ「Neo OB10」の128GBモデルが、9月3日まで利用可能なクーポン適用で、現在価格の1,620円引きとなる4,860円で販売されている。
+
+Type-CもType-Aも接続可能な128GB USBメモリが1,620円引き
+
+Amazonにおいて、ORICOのUSB 3.2 Gen 1 Type-C接続に対応するUSBメモリ「Neo OB10」の128GBモデルが、9月3日まで利用可能なクーポン適用で、現在価格の1,620円引きとなる4,860円で販売されている。
+
+Neo OB10は、フリップ式の端子カバーを備える小型USBメモリ。USB 3.2 Gen 1 Type-C端子とType-A端子を本体両端に備え、PCやスマートフォンと直接接続して利用できる。転送速度はリード400MB/s、ライト150MB/sで、本体カラーはピンク。
+
+同様に、ORICOのUSBメモリ「CB05」の容量128GBモデルが、直近価格より300円安い3,180円で購入が可能だ。
+
+ORICO CB05は、回転するカバーで端子を保護できるキャップレスデザインのUSBメモリ。スティック形状の本体両端にUSB 3.2 Gen 1 Type-C、Type-Aをそれぞれ備え、PCのほか、スマートフォンなどと接続して利用できる。転送速度はリード150MB/s、ライト70MB/sで、本体カラーはグレー。
+
+NetacのUSBメモリ「UM3」の容量128GBモデルが、直近価格から300円引きの2,680円で購入できる。
+
+UM3は、USB 3.2 Gen 1 Type-A端子のみを備えるUSBメモリで、金属製の筐体を採用しており、IPX8防水防塵規格にも準拠する。転送速度はリード120MB/s、ライト45MB/s。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2134/438/03.jpg" alt="【本日みつけたお買い得品】Type-CもType-Aも接続可能な128GB USBメモリが1,620円引き"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/todays_sales/2134438.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2134/438/03.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2134/438/03.jpg"/></item>
+<item><title>【8/28発売】Rhapsodioから独自設計のマグネットスタティックドライバー搭載の有線イヤホン『ANALOG』が登場</title><link>https://e-earphone.blog/?p=1551938</link><guid isPermaLink="true">https://e-earphone.blog/?p=1551938</guid><pubDate>Fri, 21 Aug 2026 02:00:58 +0000</pubDate><description><![CDATA[<p>【8/28発売】Rhapsodioから独自設計のマグネットスタティックドライバー搭載の有線イヤホン『ANALOG』が登場
+
+Rhapsodioが誇る自社開発の最先端技術を凝縮した有線イヤホンが登場です！！皆さまこんにちは！e☆イヤホンのPRスタッフです！ 今回はRhapsodioから新発売となる『ANALOG』のご紹介です！&amp;nbs
+
+Rhapsodioが誇る自社開発の最先端技術を凝縮した有線イヤホンが登場です！！
+
+今回はRhapsodioから新発売となる『ANALOG』のご紹介です！
+
+Rhapsodio ANALOG e☆イヤホン オンラインストア価格：￥770,000-(税込)
+
+Rhapsodio Analogは、アコースティック空間に設置された大型ハイファイ・スピーカー・システムから着想を得た、低音特化型のアナログサウンドイヤホンです。
+
+高い技術的スペックと音質性能を一切妥協することなく設計されており、力強いダイナミクス、滑らかな質感、そして自然で甘美なボーカル表現を再現します。
+
+シェルにはスタビライズド処理を施したメープルウッドを採用し、チューブレス（音導管を使わない）構造を取り入れました。ドライバーとウッドシェルの自然な共鳴を最大限に活かすことで、天然木ならではの振動が骨伝導効果を高め、温かみとリアリティに満ちたサウンドを形成します。
+
+葉の模様をあしらったフェイスプレートは、「オーガニックサウンド」という製品テーマを美しく象徴しています。
+
+Rhapsodioが誇る自社開発の最先端技術を凝縮しています。
+
+1：UltraMag 5G テクノロジー10年前に開発された独自技術を進化させた磁気静力型ダイナミックドライバーを搭載。ダイナミック型ならではの有機的な音色を保ちながら、従来の3～4倍もの強力な磁束密度を実現しています。（フラッグシップモデル「Supreme V3」と同系統のドライバーを採用）
+
+2：グラフェン製 12mm振動板新たにグラフェン素材を採用。全帯域にわたって滑らかで甘美な質感を維持しつつ、レスポンスが早くインパクトのある低…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/08/4258800f79778ebd6110c7a1091f879d.webp" alt="【8/28発売】Rhapsodioから独自設計のマグネットスタティックドライバー搭載の有線イヤホン『ANALOG』が登場"></p>]]></description><source url="https://e-earphone.blog/?p=1551938">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/08/4258800f79778ebd6110c7a1091f879d.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/08/4258800f79778ebd6110c7a1091f879d.webp"/></item>
+<item><title>【8/28発売！】COZOYから2基のダイナミックドライバーを搭載した有線イヤホン『D2』が登場！</title><link>https://e-earphone.blog/?p=1551970</link><guid isPermaLink="true">https://e-earphone.blog/?p=1551970</guid><pubDate>Fri, 21 Aug 2026 02:00:47 +0000</pubDate><description><![CDATA[<p>【8/28発売！】COZOYから2基のダイナミックドライバーを搭載した有線イヤホン『D2』が登場！
+
+全体の非常に良いバランスを保ちつつ、低音域にフォーカスしたイヤホンが登場します！皆さんこんにちは！e☆イヤホンのPRスタッフです！ 今回はCOZOYから新発売となる『D2』のご紹介です！ &amp;nbs
+
+全体の非常に良いバランスを保ちつつ、低音域にフォーカスしたイヤホンが登場します！
+
+COZOY D2 e☆イヤホン オンラインストア価格：￥11,800-(税込)
+
+製品名の通り、D2は10mmと6mmの2基のダイナミックドライバーを搭載した、デュアルダイナミックドライバー構成です。
+
+デュアル磁気回路‧デュアルキャビティ設計、グラフェン複合ダイアフラムを採用した10mmのダイナミックドライバーは主に全音域のチューニングを担当、クリアな音質と鮮明な音像定位、繊細なボーカル表現と滑らかな高音域を実現。
+
+ベリリウムダイアフラムを採用した6mmのダイナミックドライバーは主に低音域を担当、タイトでありながらもキレのある、そして深く沈み込む力強い低音を実現しています。
+
+D2は全体の非常に良いバランスを保ちつつ、低音域にフォーカスしたイヤホンです。
+
+アタック感に重きを置いた深く沈み込む力強い低音域、すっきりとクリアでありつつボーカルに適度な厚みを持たせ定位感に重きを置いた中音域、煌びやかになり過ぎず絶妙な塩梅でどんなユーザーでも聴きやすい高音域。
+
+スマートフォンでも鳴らしきれる優れた駆動性を実現、EDM‧POP‧ROCKなどエネルギッシュでダイナミックなジャンルに特に適したバランスに仕上がっています。
+
+さらに、D2は音楽だけでなくゲームにおけるサウンドロケーションにも優れています。銃声や足音など、様々なサウンドエフェクトにおいて徹底的にリアルで圧倒的な臨場感を演出。縦と横の空間表現、優れた分離感と定位感、詳細なディテール、音の出所を正確に聞き分け、あなたのゲーミングライフをバックアップします。
+
+フェイスプレートにはPVC、ハウジングには医療グレード樹脂を採用。
+…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/08/D2.webp" alt="【8/28発売！】COZOYから2基のダイナミックドライバーを搭載した有線イヤホン『D2』が登場！"></p>]]></description><source url="https://e-earphone.blog/?p=1551970">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/08/D2.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/08/D2.webp"/></item>
+<item><title>【8/21発売】Meze Audioから日本のみ数量限定発売のヘッドホン EMPYREAN JAPONIA が登場！</title><link>https://e-earphone.blog/?p=1551737</link><guid isPermaLink="true">https://e-earphone.blog/?p=1551737</guid><pubDate>Fri, 21 Aug 2026 02:00:41 +0000</pubDate><description><![CDATA[<p>【8/21発売】Meze Audioから日本のみ数量限定発売のヘッドホン EMPYREAN JAPONIA が登場！
+
+ルーマニアと日本、二つの文化への敬意を静かに宿した限定モデルだけの特別なデザインこんにちは！e☆イヤホンのPRスタッフです！今回はMeze Audioからの新製品のご紹介です。 Meze Audio EMPYR
+
+ルーマニアと日本、二つの文化への敬意を静かに宿した限定モデルだけの特別なデザイン
+
+▼Meze Audio EMPYREAN JAPONIA e☆イヤホン オンラインストア価格￥550,000- (税込)
+
+Empyrean II が到達した高い完成度を礎としながら、そのチューニングは、初代Empyreanの音楽性を大切にしながら磨き上げました。
+
+音楽と自然に向き合えたサウンドを拠りどころに、開発チームは幾度にもわたる試聴と緻密なチューニングを重ねました。
+
+オリジナルらしい低音と中域、そして空間へ自然に広がる響き。演奏の熱量も会場の空気感も、その場にいるかのような臨場感で描き出します。
+
+オリジナルモデルが築いた音楽表現に、最新技術を加えて、いま再び息を吹き返します。
+
+かつてその音に魅了された人には懐かしく、初めて耳にする人には、スペックだけでは語れない「音楽を聴く歓び」をあらためて感じさせる一台です。
+
+クラシックなブラック＆カッパーの筐体に添えられたのは、日の丸を象徴するレッド・ライヤーバードと、円形の「JAPONIA」の刻印。
+
+それは日本の象徴である赤い太陽へのオマージュであると同時に、ルーマニア語で「日本」を意味する言葉でもあります。
+
+ルーマニアと日本、二つの文化への敬意を静かに宿した、本限定モデルだけの特別なデザインです。
+
+Empyrean JAPONIA ――日本のみ数量限定発売。 音を聴くためではなく、音楽を楽しむための一台です。
+
+Meze Audio EMPYREAN JAPONIA 主なスペック
+
+こちらの製品は、e☆イヤホンの秋葉原店にて試聴いただけます。
+
+展示機は8月21日より先行展示開始予定で…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/08/97b06e14a2efe926e18eb7cbb62cdda5.webp" alt="【8/21発売】Meze Audioから日本のみ数量限定発売のヘッドホン EMPYREAN JAPONIA が登場！"></p>]]></description><source url="https://e-earphone.blog/?p=1551737">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/08/97b06e14a2efe926e18eb7cbb62cdda5.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/08/97b06e14a2efe926e18eb7cbb62cdda5.webp"/></item>
+<item><title>税込52,980円、PowerColor「Reaper AMD Radeon RX 9050 8GB GDDR6」発売</title><link>https://www.gdm.or.jp/pressrelease/2026/0821/648856</link><guid isPermaLink="true">https://www.gdm.or.jp/pressrelease/2026/0821/648856</guid><pubDate>Fri, 21 Aug 2026 02:00:35 +0000</pubDate><description><![CDATA[<p>税込52,980円、PowerColor「Reaper AMD Radeon RX 9050 8GB GDDR6」発売
+
+PowerColorから、AMD Radeon RX 9050を搭載するグラフィックスカード「Reaper AMD Radeon RX 9050 8GB GDDR6」が登場。90mmデュアルファンを搭載し、市場想定価格は税込52,980円。
+
+税込52,980円、PowerColor「Reaper AMD Radeon RX 9050 8GB GDDR6」発売
+
+90mmデュアルファンを搭載、カード長220mmのコンパクト設計
+
+株式会社アユート（本社：東京都文京区）は2026年8月21日、 PowerColor「Reaper AMD Radeon RX 9050 8GB GDDR6」（型番：RX9050 8G-A） について、国内市場での新規取り扱い開始を発表。即日販売を開始した。市場想定価格は税込52,980円。
+
+AMD RDNA 4アーキテクチャを採用する「Radeon RX 9050」を搭載した、ゲーミングシリーズ「Reaper」のグラフィックスカード。ストリームプロセッサは1,024基で、動作クロックはゲームクロック1,920MHz、ブーストクロック2,600MHz。グラフィックスメモリには18Gbps動作のGDDR6 8GBを搭載する。なおメモリバス幅は128bit。
+
+冷却機構には、9枚のブレードをリング状に連結した独自設計の90mmファンを2基搭載。軸受けには日本メーカー製デュアルボールベアリングを採用し、冷却性能と耐久性を高めている。
+
+また、GPU温度が60℃に達するとファンが回転を開始し、50℃を下回ると停止する「インテリジェント・ファン・コントローラー」にも対応。ニッケルメッキ処理を施した銅製ベースとヒートパイプにより、GPUおよびメモリの熱を効率よく伝達する。背面には基板の歪みを抑えながら排熱にも配慮した金属製バックプレートを備えた。
+
+バスインターフェースはPCI Express 5.0 x16、映像出力端子がHDMI …</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/08/20/RX9050-8G-A_001.jpg" alt="税込52,980円、PowerColor「Reaper AMD Radeon RX 9050 8GB GDDR6」発売"></p>]]></description><source url="https://www.gdm.or.jp/pressrelease/2026/0821/648856">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/08/20/RX9050-8G-A_001.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/08/20/RX9050-8G-A_001.jpg"/></item>
+<item><title>OpenAI、企業向けデータ即時削除を強化する新安全技術</title><link>https://pc.watch.impress.co.jp/docs/news/2134407.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2134407.html</guid><pubDate>Fri, 21 Aug 2026 02:00:35 +0000</pubDate><description><![CDATA[<p>OpenAI、企業向けデータ即時削除を強化する新安全技術
+
+企業がOpenAIのサービスを利用しやすくなる。米OpenAIは8月19日、フロンティアモデルにおいて、Zero Data Retentionによるプライバシー保護を維持しつつ、より複雑なタスクでの安全性を高める仕組み「Private Safety Processing」を発表した。
+
+企業がOpenAIのサービスを利用しやすくなる。米OpenAIは8月19日、フロンティアモデルにおいて、Zero Data Retentionによるプライバシー保護を維持しつつ、より複雑なタスクでの安全性を高める仕組み「Private Safety Processing」を発表した。
+
+Zero Data Retention(ZDR)は、OpenAIが対象のAPIユーザー向けに提供しているプライバシー保護の仕組み。ユーザーからのリクエストを処理した後、プロンプトやモデルからの応答を保持しないよう取り決めるもので、法律(CSAM)に基づく手動レビューの例外を除き、OpenAIの担当者によるレビューは行なわれず、オプトインしない限りエンタープライズ顧客のデータは学習には利用されない。
+
+Private Safety Processingは、ZDRを始めとした自動保護機能をベースとした新たな仕組み。ZDRが個々のやり取りを評価するのに対し、Private Safety Processingでは関連するやり取り全体へ対象を拡大する。システムが自動でリスクを特定することでプライバシーを守りつつ、より長く複雑なタスクでのAI利用における安全性を高める。
+
+リスクが自動特定されると、OpenAIはアクティビティの種類を示す最小限のシグナルを受信し、それを対処の要否判断に活用する。なお、OpenAI側はコンテンツの内容にはアクセスできない仕様となっている。
+
+現在この機能は、一部の顧客を対象とした初期テストが実施されており、9月には展開予定だとしている。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2134/407/01.jpg" alt="OpenAI、企業向けデータ即時削除を強化する新安全技術"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2134407.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2134/407/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2134/407/01.jpg"/></item>
+<item><title>【8/21発売】AUDEZEから驚異的なレスポンスを誇る新開発ドライバーを搭載したヘッドホン LCD-5s が登場！</title><link>https://e-earphone.blog/?p=1551714</link><guid isPermaLink="true">https://e-earphone.blog/?p=1551714</guid><pubDate>Fri, 21 Aug 2026 02:00:33 +0000</pubDate><description><![CDATA[<p>【8/21発売】AUDEZEから驚異的なレスポンスを誇る新開発ドライバーを搭載したヘッドホン LCD-5s が登場！
+
+カリフォルニアの自社工房で開発設計された「SLAMテクノロジー」をカスタマイズ。こんにちは！e☆イヤホンのPRスタッフです！今回はAUDEZEからの新製品のご紹介です。 AUDEZE LCD-5s▼AU
+
+カリフォルニアの自社工房で開発設計された「SLAMテクノロジー」をカスタマイズ。
+
+▼AUDEZE LCD-5s e☆イヤホン オンラインストア価格￥797,500- (税込)
+
+LCD-5s は、ブランド史上最も薄く、驚異的なレスポンスを誇る新開発ドライバーを搭載。
+
+かつてないほど自然な周波数特性が、音楽の真実を鮮やかに描き出します。ナノスケールのParallel Uniforce™ダイヤフラムをクロスバーで二分割し、より正確なレスポンスと低歪を実現。
+
+CRBNで開発したテクノロジーを継承する事で中高音域の微細なニュアンスまで完璧に描き切ります。
+
+カリフォルニアの自社工房で開発設計された「SLAMテクノロジー」をLCD-5s向けにカスタマイズ、新開発されたドライバーを完璧にコントロール。
+
+音圧を一定に保つと共に、低域の正確なレスポンスを実現しています。そのサウンドは平面駆動型の常識を打ち破る、力強く深く伸びる低域レスポンスと、息を呑むほど開放的なサウンドステージを実現しました。
+
+パッシブ型でありながらアクティブウーファーが搭載されたようなサウンドは音の立ち上がりから消えゆく余韻、そして微細な息遣いから、音の倍音成分まで音源に録音されている情報のすべてを鮮明に描き出します。
+
+カーボンやマグネシウムの剛健さと、磨き抜かれたアセテートの優美な光沢。気品あるブロンズの輝きをアクセントに、厳選された本革が心地よい調和をもたらします。
+
+選び抜かれた異素材がかつてない次元で融合し、それぞれが個性を放ちながらも、 一つの完成された美へと昇華されました。
+
+音質向上のためにイヤーパッドも再開発されました。流れるようなフォルムのイヤーパッド…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/08/2366c8f50a09cd93c4aa5d7360f462c2.webp" alt="【8/21発売】AUDEZEから驚異的なレスポンスを誇る新開発ドライバーを搭載したヘッドホン LCD-5s が登場！"></p>]]></description><source url="https://e-earphone.blog/?p=1551714">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/08/2366c8f50a09cd93c4aa5d7360f462c2.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/08/2366c8f50a09cd93c4aa5d7360f462c2.webp"/></item>
+<item><title>3基のARGBファンを備えたMicroATXケース、DeepCool「CG330 MESH 3F」</title><link>https://www.gdm.or.jp/pressrelease/2026/0821/648829</link><guid isPermaLink="true">https://www.gdm.or.jp/pressrelease/2026/0821/648829</guid><pubDate>Fri, 21 Aug 2026 02:00:13 +0000</pubDate><description><![CDATA[<p>3基のARGBファンを備えたMicroATXケース、DeepCool「CG330 MESH 3F」
+
+DeepCoolのMicroATX対応PCケース「CG330 MESH 3F」が登場。デュアルチャンバー構造とグリルデザインのフロントパネルを採用し、3基のARGBファンを標準装備する。
+
+3基のARGBファンを備えたMicroATXケース、DeepCool「CG330 MESH 3F」
+
+デュアルチャンバー構造を採用し、3基のARGBファンを標準装備
+
+株式会社アユート（本社：東京都文京区）と株式会社アスク（本社：東京都千代田区）は2026年8月21日、DeepCool（本社：中国 北京）のデュアルチャンバー構造コンパクトPCケース 「CG330 MESH 3F」 （型番：R-CG330MESH-BKANM3-G）について、新規取り扱い開始を発表した。市場想定売価は税込11,680円で、8月28日（金）より販売を開始する。
+
+メインエリアから電源ユニットとストレージを分離したデュアルチャンバー構造を採用し、グリルデザインのフロントパネルにより優れた通気性を確保している。さらにフロントに2基の140mm ARGBファン、リアに1基の120mm ARGBファンを標準装備し、ケース内のエアフローを向上した。
+
+冷却ファンはトップ120mm×3または140mm×2、フロント120/140mm×2、サイド120/140mm×2、ボトム120mm×3、リア120mm×1で、ラジエーターはトップとボトムに最大360mmサイズ、サイドに280mmサイズ、リアに120mmサイズが増設できる。
+
+ドライブベイは2.5インチ×2、3.5インチ×1、拡張スロットは5段。各有効スペースは、CPUクーラーが全高164mm、グラフィックスカードが長さ410mm、電源ユニットが奥行き200mmまで。対応フォームファクタはMicroATX（背面コネクタ対応）、Mini-ITXで、裏配線スペースは46mm。外形寸法は幅285mm、奥行き457mm、高さ368mm、重量5.7kg。
+
+文： 編集部 池西 …</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/08/20/CG330_MESH_3F_01.jpg" alt="3基のARGBファンを備えたMicroATXケース、DeepCool「CG330 MESH 3F」"></p>]]></description><source url="https://www.gdm.or.jp/pressrelease/2026/0821/648829">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/08/20/CG330_MESH_3F_01.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/08/20/CG330_MESH_3F_01.jpg"/></item>
+<item><title>【8/21発売】Meze Audioから振動板のドームにPEEK基材の上にチタン層を積んだイヤホン ASTRU が登場！</title><link>https://e-earphone.blog/?p=1551725</link><guid isPermaLink="true">https://e-earphone.blog/?p=1551725</guid><pubDate>Fri, 21 Aug 2026 02:00:09 +0000</pubDate><description><![CDATA[<p>【8/21発売】Meze Audioから振動板のドームにPEEK基材の上にチタン層を積んだイヤホン ASTRU が登場！
+
+チタンで仕上げられた本体や、細部までこだわり抜かれた装飾によって完成された1本。こんにちは！e☆イヤホンのPRスタッフです！今回はMeze Audioからの新製品のご紹介です。 Meze Audio ASTRU
+
+チタンで仕上げられた本体や、細部までこだわり抜かれた装飾によって完成された1本。
+
+▼Meze Audio ASTRU e☆イヤホン オンラインストア価格￥154,000- (税込)
+
+振動板のドームにはPEEK基材の上にチタン層を積み、さらにDCマグネトロンスパッタリング技術で48時間をかけて80層もの超薄膜ゴールドコーティングを施しています。
+
+この高度な多層構造により、高域再生の滑らかさと伸びを向上させるとともに、より自然で繊細な過渡応答を実現。音楽の細部まで豊かに描き出します。
+
+チタン製ノズルを美しく引き立てるため、ニッケルから精密にエッチング加工され、さらに電気メッキを施したワックスガード。
+
+音響フィルターの目詰まりを防ぎ、製品の寿命を延ばす役割を果たします。機能的で耐久性に優れ、ひと目でMezeとわかるこだわりのデザインを採用しています。
+
+ハウジング背面に設けられた通気孔が、ドライバー背面の空洞と外部の圧力を最適にコントロール。
+
+これにより、ドライバーの動きを極限までスムーズにし、200Hz 以下の低音にいたるまで、圧倒的な伸びと量感を実現します。
+
+同時に、耳穴にかかる圧力を絶えず逃がし続けることで、長時間のリスニングでも聴き疲れのない、快適性をもたらします。
+
+「ALBA」や「ADVAR」で培った人間工学に基づく設計をさらに進化させ、長時間でも快適に装着できるシェル形状を実現しました。
+
+装着していることを忘れるほどの快適性こそ、ASTRUの大きな魅力です。
+
+付属の1.2mケーブルには、銀メッキを施したLC-OFC導体を採用し、161本の導体で構成されたデュアルストランド構造が高い信号伝送性能を確保しま…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/08/0455c33da053adef0b1a79d58d5c8825.webp" alt="【8/21発売】Meze Audioから振動板のドームにPEEK基材の上にチタン層を積んだイヤホン ASTRU が登場！"></p>]]></description><source url="https://e-earphone.blog/?p=1551725">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/08/0455c33da053adef0b1a79d58d5c8825.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/08/0455c33da053adef0b1a79d58d5c8825.webp"/></item>
 <item><title>(アキバ取材班) DeepCool、4.5型ディスプレイ搭載の白いAIO水冷「LT360 VISION WH ARGB」</title><link>https://www.gdm.or.jp/crew/2026/0821/648946</link><guid isPermaLink="true">https://www.gdm.or.jp/crew/2026/0821/648946</guid><pubDate>Fri, 21 Aug 2026 01:51:04 +0000</pubDate><description><![CDATA[<p>(アキバ取材班) DeepCool、4.5型ディスプレイ搭載の白いAIO水冷「LT360 VISION WH ARGB」</p>]]></description><source url="https://www.gdm.or.jp/crew/2026/0821/648946">エルミタージュ秋葉原</source></item>
 <item><title>(アキバ取材班) UVライト照射で強固に硬化するUV硬化接着・コーティング剤が入荷</title><link>https://www.gdm.or.jp/crew/2026/0821/648935</link><guid isPermaLink="true">https://www.gdm.or.jp/crew/2026/0821/648935</guid><pubDate>Fri, 21 Aug 2026 01:46:40 +0000</pubDate><description><![CDATA[<p>(アキバ取材班) UVライト照射で強固に硬化するUV硬化接着・コーティング剤が入荷</p>]]></description><source url="https://www.gdm.or.jp/crew/2026/0821/648935">エルミタージュ秋葉原</source></item>
 <item><title>【本日みつけたお買い得品】メモリ12GB/13型Androidタブレットが約7千円引きで3万円切り</title><link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2134427.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/todays_sales/2134427.html</guid><pubDate>Fri, 21 Aug 2026 01:46:22 +0000</pubDate><description><![CDATA[<p>【本日みつけたお買い得品】メモリ12GB/13型Androidタブレットが約7千円引きで3万円切り
@@ -185,6 +450,23 @@ Zeta R5 Neoシリーズは対応するAMDワークステーションシステム
 
 DDR5-6000動作時のレイテンシは30-36-36-96、動作電圧は1.4V。R-DIMM ECC対応環境が必要で、互換性のあるマザーボードとCPUについてはメーカーの互換性リストを参照のこと。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2134/367/a4.jpg" alt="AMDサーバー向けOCメモリ「Zeta R5 Neo」の中古品がオリオスペックに入荷、16GB×4枚で297,000円"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2134367.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2134/367/a4.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2134/367/a4.jpg"/></item>
 <item><title>(アキバ取材班) 熱伝導率18W/m・K、Maxtor最上位グリス「CTG12」が発売</title><link>https://www.gdm.or.jp/crew/2026/0821/648914</link><guid isPermaLink="true">https://www.gdm.or.jp/crew/2026/0821/648914</guid><pubDate>Thu, 20 Aug 2026 23:00:19 +0000</pubDate><description><![CDATA[<p>(アキバ取材班) 熱伝導率18W/m・K、Maxtor最上位グリス「CTG12」が発売</p>]]></description><source url="https://www.gdm.or.jp/crew/2026/0821/648914">エルミタージュ秋葉原</source></item>
+<item><title>��ˤΥǥ����ˡ��ե��󥤥٥�ȡ�D23�פǸ��줿�֥��󥰥��� �ϡ��ġ�25ǯ���ܼ��ȤϤʤˤ�</title><link>https://www.4gamer.net/games/015/G101577/20260820035/</link><guid isPermaLink="true">https://www.4gamer.net/games/015/G101577/20260820035/</guid><pubDate>Thu, 20 Aug 2026 23:00:00 +0000</pubDate><description><![CDATA[<p>���ˤΥǥ����ˡ��ե��󥤥٥��ȡ�D23�פǸ����줿�֥��󥰥��� �ϡ��ġ�25ǯ���ܼ��ȤϤʤˤ�
+
+8月14日から16日まで，「究極のディズニーファンイベント」と呼ぶ「D23」がアメリカで開催された。「キングダム ハーツIV」の発売時期やアニメシリーズの発表で盛り上がったイベントのレポートと，ディ…
+
+究極のディズニーファンイベント「D23」で語られた「キングダム ハーツ」25年の本質とはなにか ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
+
+↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 夏は七不思議ならぬ“七不穏”で暑さを忘却の彼方へ――涼しくチルアウトできる終末，陰鬱，ディストピアな7つのゲーム ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ ひと夏の思い出に「桃鉄」100年プレイ。みんなで完走するための準備＆プレイガイド ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ Riot Gamesが明らかにしたアンチチートシステム「Vanguard」の仕組み。Windowsの進化に合わせてチート対策も強力に ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 「スプラトゥーン レイダース」初心者ガイド。これで“気がついたら囲まれていた”から卒業！ レイダース10箇条 ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓…</p><p><img src="https://www.4gamer.net/games/015/G101577/20260820035/SS/004.jpg" alt="��ˤΥǥ����ˡ��ե��󥤥٥�ȡ�D23�פǸ��줿�֥��󥰥��� �ϡ��ġ�25ǯ���ܼ��ȤϤʤˤ�"></p>]]></description><source url="https://www.4gamer.net/games/015/G101577/20260820035/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/015/G101577/20260820035/SS/004.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/015/G101577/20260820035/SS/004.jpg"/></item>
 <item><title>TGS�Ǹ����ִ����βĻ벽�פϤ����ޤǿʤ��������ο��椫�鴶�����ꥢ�륿�������ꤹ���ǥХ�����OVOMIND�ץϥ󥺥������ݡ���</title><link>https://www.4gamer.net/games/999/G999902/20260818017/</link><guid isPermaLink="true">https://www.4gamer.net/games/999/G999902/20260818017/</guid><pubDate>Thu, 20 Aug 2026 22:30:00 +0000</pubDate><description><![CDATA[<p>TGS�Ǹ����ִ����βĻ벽�פϤ����ޤǿʤ��������ο��椫�鴶�����ꥢ�륿�������ꤹ���ǥХ�����OVOMIND�ץϥ󥺥������ݡ���
 
 感情が測れるようになると何が起きるのか。心拍や皮膚電気活動から約300ミリ秒で感情を推定するスイスのOVOMINDの話を聞いていると，その射程はゲームに限らず，車載，学習，メンタルヘルス，音楽，対話…
@@ -2107,25 +2389,6 @@ Metaが、 Mac向けの「Meta AI」デスクトップアプリを公開 した�
 公開されたのはバージョン1.0のベータ版で、インストール後の容量はわずか16MB。動作環境はAppleシリコン搭載Macで、macOS 15以降に対応する。
 
 驚いたのは、その中身だ。 AppKitとSwiftUIで組まれたネイティブアプリ で、チャットの表示部分にだけWebKitを使っている。つまりWebサイトをアプリの見た目でくるんだだけの”なんちゃってアプリ”ではなく、 iPad 版の使い回しでもない。 Metaが…</p><p><img src="https://gori.me/uploads/2026/08/Meta-for-Mac-800x498.jpg" alt="Meta AI、ついにMacアプリ登場。Option＋スペースで即呼び出し"></p>]]></description><source url="https://gori.me/facebook/facebook-news/169110">gori.me</source><media:content url="https://gori.me/uploads/2026/08/Meta-for-Mac-800x498.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/08/Meta-for-Mac-800x498.jpg"/></item>
-<item><title>【Mac Info】8GBのMacが快適なワケ、ユニファイドメモリと「メモリのやりくり」の合わせ技</title><link>https://pc.watch.impress.co.jp/docs/column/macinfo/2134041.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/column/macinfo/2134041.html</guid><pubDate>Wed, 19 Aug 2026 21:00:00 +0000</pubDate><description><![CDATA[<p>【Mac Info】8GBのMacが快適なワケ、ユニファイドメモリと「メモリのやりくり」の合わせ技
-
-Appleシリコンを搭載したMacでは、「ユニファイドメモリ」と呼ばれる独自のメモリアーキテクチャが採用されています。一般的なPCのメモリとは何が違い、Macのパフォーマンスにどのようなメリットをもたらしているのでしょうか。その仕組みと特徴、そしてAI時代に注目される理由をひも解きます。
-
-8GBのMacが快適なワケ、ユニファイドメモリと「メモリのやりくり」の合わせ技
-
-Appleシリコンを搭載したMacでは、「ユニファイドメモリ」と呼ばれる独自のメモリアーキテクチャが採用されています。一般的なPCのメモリとは何が違い、Macのパフォーマンスにどのようなメリットをもたらしているのでしょうか。その仕組みと特徴、そしてAI時代に注目される理由をひも解きます。
-
-コンピュータの性能を左右する要素の1つが「メモリ」です。メモリは、CPUなどが処理に使うデータを一時的に置いておく場所で、よく「作業机」にたとえられます。
-
-机が広ければ多くの資料を広げたまま作業できるのと同じように、メモリ容量に余裕があれば、多数のアプリを起動したり、大きなデータを扱ったりしても、スムーズに作業を進めやすくなります。
-
-反対に、メモリ容量が不足すると、使用頻度の低いデータの一部をストレージへ一時的に退避させる「スワップ」が行われます。
-
-ストレージはメモリよりも低速なため、スワップが頻繁に発生すると、アプリの切り替えや処理に時間がかかるなど、動作速度が低下することがあります。
-
-そのため、一般的にはメモリ容量が大きいほど、複数のアプリや大きなデータを同時に扱う際にも余裕が生まれ、快適に作業しやすくなります。
-
-ただし、Appleシリコンを搭載したMacは、比較的少ないメモリ容量でも高いパフォーマンスを発…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2134/041/image01.png" alt="【Mac Info】8GBのMacが快適なワケ、ユニファイドメモリと「メモリのやりくり」の合わせ技"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/column/macinfo/2134041.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2134/041/image01.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2134/041/image01.png"/></item>
 <item><title>【プレゼントコーナー】PC Watch創刊30周年特別プレゼント企画【ベンキュー製Mac向け4Kモニター「MA270UP」】 - PC Watch</title><link>https://pc.watch.impress.co.jp/docs/topic/present/2134003.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/topic/present/2134003.html</guid><pubDate>Wed, 19 Aug 2026 21:00:00 +0000</pubDate><description><![CDATA[<p>【プレゼントコーナー】PC Watch創刊30周年特別プレゼント企画【ベンキュー製Mac向け4Kモニター「MA270UP」】 - PC Watch
 
 おかげさまでPC Watchは創刊から30周年を迎えることができました。これもひとえに読者の皆様、ならびにメーカー各社様からのご支援の賜物です。
@@ -2145,6 +2408,25 @@ MacBookと並べた際の統一感に配慮したシルバー筐体、3辺ベゼ
 応募は、 ベンキュージャパンの公式X(旧Twitter)アカウントをフォロー の上、下記のフォームから申し込みを行なってください。
 
 応募方法 :上記の条件を満たした上で、下記リンクの応募フォームに必要事項を入力して送信してください 応募締切 : 2026年8月26日(水) 12:00まで</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2134/003/1.jpg" alt="【プレゼントコーナー】PC Watch創刊30周年特別プレゼント企画【ベンキュー製Mac向け4Kモニター「MA270UP」】 - PC Watch"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/topic/present/2134003.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2134/003/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2134/003/1.jpg"/></item>
+<item><title>【Mac Info】8GBのMacが快適なワケ、ユニファイドメモリと「メモリのやりくり」の合わせ技</title><link>https://pc.watch.impress.co.jp/docs/column/macinfo/2134041.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/column/macinfo/2134041.html</guid><pubDate>Wed, 19 Aug 2026 21:00:00 +0000</pubDate><description><![CDATA[<p>【Mac Info】8GBのMacが快適なワケ、ユニファイドメモリと「メモリのやりくり」の合わせ技
+
+Appleシリコンを搭載したMacでは、「ユニファイドメモリ」と呼ばれる独自のメモリアーキテクチャが採用されています。一般的なPCのメモリとは何が違い、Macのパフォーマンスにどのようなメリットをもたらしているのでしょうか。その仕組みと特徴、そしてAI時代に注目される理由をひも解きます。
+
+8GBのMacが快適なワケ、ユニファイドメモリと「メモリのやりくり」の合わせ技
+
+Appleシリコンを搭載したMacでは、「ユニファイドメモリ」と呼ばれる独自のメモリアーキテクチャが採用されています。一般的なPCのメモリとは何が違い、Macのパフォーマンスにどのようなメリットをもたらしているのでしょうか。その仕組みと特徴、そしてAI時代に注目される理由をひも解きます。
+
+コンピュータの性能を左右する要素の1つが「メモリ」です。メモリは、CPUなどが処理に使うデータを一時的に置いておく場所で、よく「作業机」にたとえられます。
+
+机が広ければ多くの資料を広げたまま作業できるのと同じように、メモリ容量に余裕があれば、多数のアプリを起動したり、大きなデータを扱ったりしても、スムーズに作業を進めやすくなります。
+
+反対に、メモリ容量が不足すると、使用頻度の低いデータの一部をストレージへ一時的に退避させる「スワップ」が行われます。
+
+ストレージはメモリよりも低速なため、スワップが頻繁に発生すると、アプリの切り替えや処理に時間がかかるなど、動作速度が低下することがあります。
+
+そのため、一般的にはメモリ容量が大きいほど、複数のアプリや大きなデータを同時に扱う際にも余裕が生まれ、快適に作業しやすくなります。
+
+ただし、Appleシリコンを搭載したMacは、比較的少ないメモリ容量でも高いパフォーマンスを発…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2134/041/image01.png" alt="【Mac Info】8GBのMacが快適なワケ、ユニファイドメモリと「メモリのやりくり」の合わせ技"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/column/macinfo/2134041.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2134/041/image01.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2134/041/image01.png"/></item>
 <item><title>iPhone20周年モデルと折りたたみiPhone追加モデルの怪しいイメージ画像</title><link>https://iphone-mania.jp/iphone18-604668/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-604668/</guid><pubDate>Wed, 19 Aug 2026 20:23:05 +0000</pubDate><description><![CDATA[<p>iPhone20周年モデルと折りたたみiPhone追加モデルの怪しいイメージ画像
 
 2027年に発売されると噂のiPhone発売20周年モデルと、折りたたみiPhoneの追加機種とされるイメージ画像が、X（旧Twitter）で出回っています。いずれも信憑性は低いと指摘されており、デザインの必要性や実現可能性について疑問の声が上がっています。
@@ -7005,6 +7287,15 @@ Core i5-1135G7搭載の13.3型ノートPC「ThinkPad X13」が49,980円、パソ
 Core i5-1135G7(4コア/8スレッド)を搭載した13.3型ノートPC「ThinkPad X13」の中古品が、 パソコン工房の通販サイト で販売中。販売されているのは3か月保証が付いた中古品で、価格は49,980円となっています。
 
 主な仕様は、ディスプレイ解像度が1,920×1,200ドット、メモリが8GB、ストレージが256GB SSD、OSがWindows 11 Pro。このほか、Webカメラや無線LAN機能などを搭載しています。興味がある方はチェックしてみてください。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2132/866/a1.jpg" alt="Core i5-1135G7搭載の13.3型ノートPC「ThinkPad X13」が49,980円、パソコン工房で中古品が販売中"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2132866.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2132/866/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2132/866/a1.jpg"/></item>
+<item><title>【今すぐ読みたい！人気記事】Windows 10サポート終了で余るノートPCを「ChromeOS Flex」で蘇らせよう - PC Watch</title><link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2132978.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/topic/readitnow/2132978.html</guid><pubDate>Sun, 16 Aug 2026 21:21:00 +0000</pubDate><description><![CDATA[<p>【今すぐ読みたい！人気記事】Windows 10サポート終了で余るノートPCを「ChromeOS Flex」で蘇らせよう - PC Watch
+
+PC Watchの読者であれば、ちょっと古いPCが押し入れやデスクの片隅で眠っているという方も多いのではないだろうか。たとえば、筆者の場合、Lenovo ThinkPad E495などがその代表例である。このようなモデルはWindows 11にギリギリ対応している世代ではあるものの、動作が重く感じられたり、用途が見出せずに放置されたりしがちである。
+
+Windows 10サポート終了で余るノートPCを「ChromeOS Flex」で蘇らせよう
+
+PC Watchの読者であれば、ちょっと古いPCが押し入れやデスクの片隅で眠っているという方も多いのではないだろうか。たとえば、筆者の場合、Lenovo ThinkPad E495などがその代表例である。このようなモデルはWindows 11にギリギリ対応している世代ではあるものの、動作が重く感じられたり、用途が見出せずに放置されたりしがちである。
+
+Googleが提供する「ChromeOS Flex」を導入すれば軽快かつセキュアなクラウドベースのPCとして生まれ変わることができる。ChromeOS Flexは、旧世代のハードウェアでも快適に動作するように設計された軽量なオペレーティングシステムであり、Windowsに比べて動作が軽く、Web中心の作業に最適だ。よく考えたらPCでの作業はすべてブラウザしか使っていなかった……なんて読者には特におすすめできる選択肢と言えるだろう。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/978/1.jpg" alt="【今すぐ読みたい！人気記事】Windows 10サポート終了で余るノートPCを「ChromeOS Flex」で蘇らせよう - PC Watch"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/topic/readitnow/2132978.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/978/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/978/1.jpg"/></item>
 <item><title>メモリ価格高騰の鍵を握る中国CXMTとは？DDR5全振りの国策DRAM企業</title><link>https://pc.watch.impress.co.jp/docs/topic/feature/2132976.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/topic/feature/2132976.html</guid><pubDate>Sun, 16 Aug 2026 21:21:00 +0000</pubDate><description><![CDATA[<p>メモリ価格高騰の鍵を握る中国CXMTとは？DDR5全振りの国策DRAM企業
 
 最近、中国のメモリメーカーであるCXMT(ChangXin Memory Technologies)が話題になることが多い。今年のCOMPUTEXにおいては複数のDIMMモジュールベンダーがCXMTのDDR5を搭載した製品を展示しており、その後もAppleの急接近や7月27日のIPO(新規公開株)など話題は多い。
@@ -7024,15 +7315,6 @@ Core i5-1135G7(4コア/8スレッド)を搭載した13.3型ノートPC「ThinkPa
 CXMTは、中国語では长鑫存储という名称であるが、同社はいってみれば中国の国策企業として成立した側面が非常に強い。話は2015年に遡るが、当時の李克強国務院総理がMIC2025(Made In China 2025: 中国制造2025)という産業政策を打ち出したことが始まりである。
 
 これは2025年までに中国の工業の製造能力を高め、労…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/976/01a.jpg" alt="メモリ価格高騰の鍵を握る中国CXMTとは？DDR5全振りの国策DRAM企業"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/topic/feature/2132976.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/976/01a.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/976/01a.jpg"/></item>
-<item><title>【今すぐ読みたい！人気記事】Windows 10サポート終了で余るノートPCを「ChromeOS Flex」で蘇らせよう - PC Watch</title><link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2132978.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/topic/readitnow/2132978.html</guid><pubDate>Sun, 16 Aug 2026 21:21:00 +0000</pubDate><description><![CDATA[<p>【今すぐ読みたい！人気記事】Windows 10サポート終了で余るノートPCを「ChromeOS Flex」で蘇らせよう - PC Watch
-
-PC Watchの読者であれば、ちょっと古いPCが押し入れやデスクの片隅で眠っているという方も多いのではないだろうか。たとえば、筆者の場合、Lenovo ThinkPad E495などがその代表例である。このようなモデルはWindows 11にギリギリ対応している世代ではあるものの、動作が重く感じられたり、用途が見出せずに放置されたりしがちである。
-
-Windows 10サポート終了で余るノートPCを「ChromeOS Flex」で蘇らせよう
-
-PC Watchの読者であれば、ちょっと古いPCが押し入れやデスクの片隅で眠っているという方も多いのではないだろうか。たとえば、筆者の場合、Lenovo ThinkPad E495などがその代表例である。このようなモデルはWindows 11にギリギリ対応している世代ではあるものの、動作が重く感じられたり、用途が見出せずに放置されたりしがちである。
-
-Googleが提供する「ChromeOS Flex」を導入すれば軽快かつセキュアなクラウドベースのPCとして生まれ変わることができる。ChromeOS Flexは、旧世代のハードウェアでも快適に動作するように設計された軽量なオペレーティングシステムであり、Windowsに比べて動作が軽く、Web中心の作業に最適だ。よく考えたらPCでの作業はすべてブラウザしか使っていなかった……なんて読者には特におすすめできる選択肢と言えるだろう。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/978/1.jpg" alt="【今すぐ読みたい！人気記事】Windows 10サポート終了で余るノートPCを「ChromeOS Flex」で蘇らせよう - PC Watch"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/topic/readitnow/2132978.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/978/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/978/1.jpg"/></item>
 <item><title>【やじうまミニレビュー】Macは画面複製に注意！Ankerの“着脱ハブ付き”ドックは家の中でこそ真価を発揮する</title><link>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2132954.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2132954.html</guid><pubDate>Sun, 16 Aug 2026 21:17:00 +0000</pubDate><description><![CDATA[<p>【やじうまミニレビュー】Macは画面複製に注意！Ankerの“着脱ハブ付き”ドックは家の中でこそ真価を発揮する
 
 各種周辺機器をケーブル1本でまとめて接続できるドッキングステーションは本当に便利だ。自宅や会社に戻ったときも、外出するときも、ケーブル1本を抜き差しするだけ。この利便性は、一度味わったら元には戻れない。
@@ -9027,263 +9309,4 @@ RTX 5060搭載PCをRTX 5060 Tiへ3,000円でアップグレードできるキャ
 このほか、Core Ultra 7 265FとGeForce RTX 5070 12GBを搭載するミニタワーPC「THIRDWAVE AD-C7F57A-06B Intel Core Ultra 搭載」は8,000円分、Ryzen 5 7430Uと16GBメモリを搭載する14型ノートPC「THIRDWAVE F-14BR5A メモリ16GB搭載」は1,000円分の購入サポートが適用される。
 
 さらに 「夏の大感…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/08/14/20260814_dos_001.jpg" alt="ドスパラ、対象PCが最大14万5,000円引きの「夏の大感謝SALE」開催"></p>]]></description><source url="https://www.gdm.or.jp/pressrelease/2026/0814/648102">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/08/14/20260814_dos_001.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/08/14/20260814_dos_001.jpg"/></item>
-<item><title>Apple Watch整備済製品に32モデル追加、SE 3は35,800円・Series 11は60,800円から買える</title><link>https://gori.me/sale/apple-refurbished/168976</link><guid isPermaLink="true">https://gori.me/sale/apple-refurbished/168976</guid><pubDate>Fri, 14 Aug 2026 04:19:53 +0000</pubDate><description><![CDATA[<p>Apple Watch整備済製品に32モデル追加、SE 3は35,800円・Series 11は60,800円から買える
-
-Apple公式のApple Watch整備済製品に32モデルが一気に追加され、現在36モデルが購入可能。SE 3は35,800円、Series 11は60,800円から、Ultra 3は22,000円引きの120,800円。1年保証付きで最大15%オフの狙い目モデルを価格順にまとめた。
-
-Apple Watch整備済製品に32モデル追加、SE 3は35,800円・Series 11は60,800円から買える
-
-Series 11のセルラー＋チタニウム46mmは20,000円引きの114,800円、Ultra 3は22,000円引きの120,800円
-
-新たに32モデルが追加され、Apple Watch整備済製品は合計36モデルが購入可能になった
-
-最安はApple Watch SE 3（GPS・40mm）の35,800円で、通常価格41,800円から6,000円（14%）オフ
-
-Series 11はGPS 42mmが60,800円（-11,000円）、Ultra 3は142,800円→120,800円で値引き額は今回最大の22,000円
-
-Apple公式サイトのApple Watch整備済製品に、大量の製品が追加された。合計32モデルが新たに登場し、現在36モデルが購入可能だ。
-
-本日は、 Apple Watch SE 3 や Apple Watch Series 11 が大量入荷！来月にSeries 12が発表される見通しではあるが、最新モデルにこだわらない人なら今こそ買い時！ 最安モデルは35,800円から 購入できる！
-
-Apple整備済製品は、初期不良などで返品された製品をAppleが再整備して販売するもの。新品同様の品質で、1年間のハードウェア保証付き。Apple Care+にも加入できる。通常価格と比べて最大15%オフで購入でき、新品が欲しいけど少しでも安く手に入れたい人にとっては見逃せない選択肢だ。
-
-Apple Watch整備済製品…</p><p><img src="https://gori.me/uploads/2026/08/AppleWatch-Refurbished-model-2026-08-14-800x674.jpg" alt="Apple Watch整備済製品に32モデル追加、SE 3は35,800円・Series 11は60,800円から買える"></p>]]></description><source url="https://gori.me/sale/apple-refurbished/168976">gori.me</source><media:content url="https://gori.me/uploads/2026/08/AppleWatch-Refurbished-model-2026-08-14-800x674.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/08/AppleWatch-Refurbished-model-2026-08-14-800x674.jpg"/></item>
-<item><title>レノボ製12.3型Windowsタブレットが54,800円！Core i5-1130G7や16GBメモリ搭載モデルの中古セール</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2132632.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2132632.html</guid><pubDate>Fri, 14 Aug 2026 04:05:00 +0000</pubDate><description><![CDATA[<p>レノボ製12.3型Windowsタブレットが54,800円！Core i5-1130G7や16GBメモリ搭載モデルの中古セール
-
-Core i5-1130G7（4コア/8スレッド）搭載の12.3インチWindowsタブレット「ThinkPad X12 Detachable Gen 1」の中古品が、PCコンフル 秋葉原2号店でセール中。
-
-レノボ製12.3型Windowsタブレットが54,800円！Core i5-1130G7や16GBメモリ搭載モデルの中古セール
-
-Core i5-1130G7（4コア/8スレッド）搭載の12.3インチWindowsタブレット「ThinkPad X12 Detachable Gen 1」の中古品が、 PCコンフル 秋葉原2号店 でセール中。
-
-店頭価格は54,800円で、保証期間は90日となっています。
-
-主な仕様は、ディスプレイ解像度が1,920×1,280ドット（タッチ対応）、16GBメモリ（変更不可）、256GB SSD、OSがWindows 11 Proなど。このほか、Webカメラや無線LAN機能、着脱可能なキーボード、顔認証/指紋認証機能などを備えています。
-
-同店によると「ペンは付属していない」とのこと。興味のある方はチェックしてみてください。
-
-Microsoft Office Home 2024(最新 永続版)|オンラインコード
-
-Microsoft Office Home &amp; Business 2024(最新 永続版)|オンラインコード版</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2132/632/a1.jpg" alt="レノボ製12.3型Windowsタブレットが54,800円！Core i5-1130G7や16GBメモリ搭載モデルの中古セール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2132632.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2132/632/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2132/632/a1.jpg"/></item>
-<item><title>Microsoft、個人・ビジネスCopilotアプリを統合。Deep Researchなど廃止</title><link>https://pc.watch.impress.co.jp/docs/news/2132756.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2132756.html</guid><pubDate>Fri, 14 Aug 2026 03:44:45 +0000</pubDate><description><![CDATA[<p>Microsoft、個人・ビジネスCopilotアプリを統合。Deep Researchなど廃止
-
-同じ「Copilot」を冠しているのに2つに分かれていたアプリが、ついに1つになる。Microsoftは、個人向けの「Microsoft Copilot」および職場・学校向けの「Microsoft 365 Copilot」アプリのアップデートについて告知の文書を公開した。これによれば、アプリのUIが刷新され、個人アカウントと職場・学校アカウントの切り替えがよりスムーズになる。一方で、いくつかの機能が2026年8月18日をもって廃止されるため、データのバックアップなど注意が必要だ。
-
-Microsoft、個人・ビジネスCopilotアプリを統合。Deep Researchなど廃止
-
-同じ「Copilot」を冠しているのに2つに分かれていたアプリが、ついに1つになる。Microsoftは、個人向けの「Microsoft Copilot」および職場・学校向けの「Microsoft 365 Copilot」アプリのアップデートについて告知の文書を公開した。これによれば、アプリのUIが刷新され、個人アカウントと職場・学校アカウントの切り替えがよりスムーズになる。一方で、いくつかの機能が2026年8月18日をもって廃止されるため、データのバックアップなど注意が必要だ。
-
-今回のアップデートの目玉はアプリの統合だ。新しいCopilotアプリでは、個人アカウントと、職場・学校アカウントの両方でサインインが可能になる。アプリ内からWord、Excel、OutlookなどのMicrosoft 365アプリやファイルへ直接アクセスできるようになるほか、メール、カレンダー、クラウドストレージにも接続可能。Microsoft 365契約者は、高度なAIや最先端モデルを利用でき、無料ユーザーより高い利用上限が設定される。
-
-なお、Microsoft CopilotとMicrosoft 365 Copilotアプリの両方を個人アカウントで使用する場合、チャット履歴および作成したコンテンツはアプリに統合…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/756/1.jpg" alt="Microsoft、個人・ビジネスCopilotアプリを統合。Deep Researchなど廃止"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2132756.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/756/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/756/1.jpg"/></item>
-<item><title>(アキバ取材班) 厚さ40mm、PNYの2スロットGeForce RTX 5070が発売</title><link>https://www.gdm.or.jp/crew/2026/0814/648087</link><guid isPermaLink="true">https://www.gdm.or.jp/crew/2026/0814/648087</guid><pubDate>Fri, 14 Aug 2026 03:35:59 +0000</pubDate><description><![CDATA[<p>(アキバ取材班) 厚さ40mm、PNYの2スロットGeForce RTX 5070が発売
-
-PNYから、2スロット厚のGeForce RTX 5070搭載グラフィックスカード「GeForce RTX 5070 12GB OC SLIM」が発売。全長290mm、厚さ40mmのコンパクト設計で、税込138,800円。
-
-(アキバ取材班) 厚さ40mm、PNYの2スロットGeForce RTX 5070が発売
-
-PNY（本社：アメリカ）から、GeForce RTX 5070を搭載するグラフィックスカード 「GeForce RTX 5070 12GB OC SLIM」（型番:VCG507012DFSXPB1-O） が発売された。価格は税込138,800円。販売を確認したのは ツクモパソコン本店 と TSUKUMO eX. 。
-
-VGAクーラーには、2スロット厚に収めたオリジナル2連ファンクーラーを採用。カードサイズは長さ290mm、高さ128mm、厚さ40mm。GeForce RTX 5070搭載カードでは3スロット級の大型クーラーを採用する製品も多いなかコンパクトな設計で、小型PCケースにも組み込みやすい。なお、PNYではSFF Ready対応モデルとしている。
-
-基本スペックは、ビデオメモリにGDDR7 12GBを搭載。メモリスピードは28Gbps、メモリバス幅は192bit、ブーストクロックは2,587MHzに設定されたオーバークロックモデル。映像出力はDisplayPort 2.1b×3、HDMI 2.1b×1を装備する。
-
-ショップによると「RTX 5070 Tiほどの性能や16GBのVRAMまでは必要ないけれど、コンパクトなPCでGeForce RTX 5070を使いたいというユーザーにはちょうどいいモデルです」とのこと。
-
-(アキバ取材班) 厚さ40mmのスリム設計、PNY「GeForce RTX 50…
-
-(アキバ取材班) まだ珍しいBluetooth 6.0対応、TP-Link「UB…
-
-(アキバ取材班) TDP275W対応など2タイプ、アイネックスの新型CP…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/08/14/akiba_pny20260814_01.jpg" alt="(アキバ取材班) 厚さ40mm、PNYの2スロットGeForce RTX 5070が発売"></p>]]></description><source url="https://www.gdm.or.jp/crew/2026/0814/648087">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/08/14/akiba_pny20260814_01.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/08/14/akiba_pny20260814_01.jpg"/></item>
-<item><title>(アキバ取材班) まだ珍しいBluetooth 6.0対応、TP-Link「UB600」が発売</title><link>https://www.gdm.or.jp/crew/2026/0814/648093</link><guid isPermaLink="true">https://www.gdm.or.jp/crew/2026/0814/648093</guid><pubDate>Fri, 14 Aug 2026 03:30:10 +0000</pubDate><description><![CDATA[<p>(アキバ取材班) まだ珍しいBluetooth 6.0対応、TP-Link「UB600」が発売
-
-Bluetooth 6.0に対応するTP-LinkのナノサイズUSBアダプター「UB600」が発売。最大7台のBluetooth機器を同時接続でき、TSUKUMO eX.にて税込1,870円で販売中。
-
-(アキバ取材班) まだ珍しいBluetooth 6.0対応、TP-Link「UB600」が発売
-
-TP-Linkから、Bluetooth 6.0に対応するUSBアダプター 「UB600」 が発売された。Bluetooth非搭載のデスクトップPCやノートPCにBluetooth機能を追加できるナノサイズモデルで、価格は税込1,870円。 TSUKUMO eX. で販売中だ。
-
-最大7台のBluetooth機器を同時に接続可能。Bluetoothヘッドホンやスピーカー、マウス、キーボード、ゲームコントローラーなど、複数のワイヤレス機器を1台のPCで利用できる。
-
-Bluetooth対応USBアダプターは多数流通しているが、Bluetooth 6.0対応モデルはまだ少ない。「UB600」は、既存のPCに最新規格のBluetooth機能を手軽に追加できる数少ない選択肢となる。
-
-本体サイズは幅14.8mm、奥行6.8mm、高さ18.9mm。なお、Amazon.co.jp限定としてBluetooth 6.0対応USBアダプター「UB6A」もラインナップしている。基本スペックは、今回発売された「UB600」と同じだ。
-
-文： 編集部 Tawashi ティーピーリンクジャパン株式会社： https://www.tp-link.com/jp/
-
-Bluetooth 6.0に対応する超小型USBアダプター、ティーピーリンク「U…
-
-(アキバ取材班) 厚さ40mm、PNYの2スロットGeForce RTX 507…
-
-(アキバ取材班) TDP275W対応など2タイプ、アイネックスの新型CPUクーラ…
-
-(お買い得品情報) 大容量8TB SSDが20万円切り、Lexar「NM790 …
-
-(アキ…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/08/14/akiba_tp20260814_01.jpg" alt="(アキバ取材班) まだ珍しいBluetooth 6.0対応、TP-Link「UB600」が発売"></p>]]></description><source url="https://www.gdm.or.jp/crew/2026/0814/648093">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/08/14/akiba_tp20260814_01.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/08/14/akiba_tp20260814_01.jpg"/></item>
-<item><title>【本日みつけたお買い得品】600mlブラックコーヒー24本入りが約400円引きでセール中</title><link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2132745.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/todays_sales/2132745.html</guid><pubDate>Fri, 14 Aug 2026 03:18:26 +0000</pubDate><description><![CDATA[<p>【本日みつけたお買い得品】600mlブラックコーヒー24本入りが約400円引きでセール中
-
-Amazonにおいて、キリンのブラックコーヒー「キリン ファイア ワンデイ ラベルレス ブラックコーヒー 600ml 24本」が、直近価格の401円引きとなる2,128円で販売されている。1本あたりの価格は約88円。
-
-600mlブラックコーヒー24本入りが約400円引きでセール中
-
-Amazonにおいて、キリンのブラックコーヒー「キリン ファイア ワンデイ ラベルレス ブラックコーヒー 600ml 24本」が、直近価格の401円引きとなる2,128円で販売されている。1本あたりの価格は約88円。
-
-キリン ファイア ワンデイ ラベルレス ブラックコーヒー 600ml 24本は、一般的な500mlペットボトルよりも多い600mlの大容量ペットボトルが特徴のブラックコーヒーの24本セット。ブラジル産のコーヒー豆を使用しており、苦みと酸味を抑えたすっきりゴクゴク飲みやすい味わいと説明している。
-
-キリン ファイア ワンデイ ラベルレス ブラックコーヒー 600ml 24本
-
-アサヒ飲料の「ドトール ブラック 480ml×24本」が、直近価格から395円安い2,398円で販売されている。1本あたりの価格は約100円。
-
-ドトール ブラック 480ml×24本は、コーヒーチェーン店「ドトールコーヒー」が監修したブラックコーヒーのペットボトルが24本セットになったもの。ブラジルやエチオピアなどのコーヒー豆を使用しており、直火焙煎によるこだわりのブラックと説明している。
-
-同じくアサヒ飲料のコーヒー飲料「ワンダ クリアブラック」の賞味期限が10月までの訳アリ品「【訳アリ品：10月賞味期限】ワンダ アサヒ飲料 クリアブラック 500ml×24本」が、8月20日までのクーポン適用により、直近価格から590円引きとなる1,768円で販売されている。1本あたりの価格は約74円。
-
-【訳アリ品：10月賞味期限】ワンダ アサヒ飲料 クリアブラック 500ml×24本は、アサヒ飲料のブラックコーヒー「ワン…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/745/05.jpg" alt="【本日みつけたお買い得品】600mlブラックコーヒー24本入りが約400円引きでセール中"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/todays_sales/2132745.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/745/05.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/745/05.jpg"/></item>
-<item><title>100万トークン0.75ドルは破格！驚異の進化を遂げたGemini 3.7 Flash</title><link>https://pc.watch.impress.co.jp/docs/news/2132720.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2132720.html</guid><pubDate>Fri, 14 Aug 2026 03:14:40 +0000</pubDate><description><![CDATA[<p>100万トークン0.75ドルは破格！驚異の進化を遂げたGemini 3.7 Flash
-
-従来モデルのリリースから約3週間で、次世代のモデルが登場した。Googleは8月13日、コーディングやエージェント向けの主力AIモデルとなる「Gemini 3.7 Flash」を公開した。対応地域では、Google AI ProおよびUltra契約者はGemini Sparkを通じて利用できるほか、Google AI StudioやAntigravityにてAPI経由でアクセスできる。
-
-100万トークン0.75ドルは破格！驚異の進化を遂げたGemini 3.7 Flash
-
-従来モデルのリリースから約3週間で、次世代のモデルが登場した。Googleは8月13日、コーディングやエージェント向けの主力AIモデルとなる「Gemini 3.7 Flash」を公開した。対応地域では、Google AI ProおよびUltra契約者はGemini Sparkを通じて利用できるほか、Google AI StudioやAntigravityにてAPI経由でアクセスできる。
-
-2026年内に限り、100万入力トークンあたり0.75ドル、100万出力トークンあたり3.75ドルの特別料金にて利用可能。2027年以降はそれぞれ1.5ドル、7.5ドルとなる。
-
-Gemini 3.7 Flashでは、デバッグや問題解決といったコーディング性能を改善。従来のGemini 3.6 Flashと比べると、FrontierCode 1.1 Mainで34.4%から43.6%、DeepSWE v1.1で49%から65.3%へそれぞれベンチマーク結果が向上しており、コードの初回生成精度やプロダクションレベルのコード生成能力も大幅に引き上げられた。
-
-Web開発においては、従来より少ないプロンプトでより機能的なレイアウトのアプリを生成できるようになった。スクリーンショットや画像などの参照入力に基づくUI生成では、デザインへの準拠や均一性が向上した。Code Arena WebDevのスコアでみても、従来を上回る1,588…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/720/01.jpg" alt="100万トークン0.75ドルは破格！驚異の進化を遂げたGemini 3.7 Flash"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2132720.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/720/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/720/01.jpg"/></item>
-<item><title>京セラの5.8インチスマホ「DIGNO BX3」が14,800円！未使用品セール</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2132343.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2132343.html</guid><pubDate>Fri, 14 Aug 2026 03:05:00 +0000</pubDate><description><![CDATA[<p>京セラの5.8インチスマホ「DIGNO BX3」が14,800円！未使用品セール
-
-京セラの5.8インチスマートフォン「DIGNO BX3（A401KC）」が、イオシス各店でセール中。
-
-京セラの5.8インチスマホ「DIGNO BX3」が14,800円！未使用品セール
-
-京セラの5.8インチスマートフォン「DIGNO BX3（A401KC）」が、イオシス各店でセール中。
-
-今回入荷したのは「ネットワーク利用制限▲だが赤ロム永久保証付き」という未使用品で、店頭価格は14,800円。保証期間は6か月。セール期間は16日（日）まで。
-
-主な仕様は、画面解像度が1,560×720ドット、搭載CPUがMediaTek Dimensity 6100+、メモリが4GB、ストレージ容量が64GB、OSがAndroid 14など。nanoSIM+eSIM対応で、本体サイズは約157×72×10.9mm、重量は約180g。
-
-防水(IPX5/IPX8)/防塵(IP6X)もサポートしており、画面や手が濡れた状態での操作や、軍手・手袋をした状態でも画面の操作が可能となっています。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2132/343/s1.jpg" alt="京セラの5.8インチスマホ「DIGNO BX3」が14,800円！未使用品セール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2132343.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2132/343/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2132/343/s1.jpg"/></item>
-<item><title>熱伝導率17.3W/mK。Alphacoolの高性能グリス「Apex 2 Thermal Grease」が登場</title><link>https://www.gdm.or.jp/pressrelease/2026/0814/648056</link><guid isPermaLink="true">https://www.gdm.or.jp/pressrelease/2026/0814/648056</guid><pubDate>Fri, 14 Aug 2026 03:00:19 +0000</pubDate><description><![CDATA[<p>熱伝導率17.3W/mK。Alphacoolの高性能グリス「Apex 2 Thermal Grease」が登場
-
-Alphacoolから、高性能サーマルグリス「Apex 2 Thermal Grease」が登場。2022年発売のApexの後継モデルで、Halnziyeと共同開発した新配合を採用。熱伝導率17.3W/mKで、CPUやGPU、特にGPUホットスポットでの冷却性能向上を謳う。
-
-熱伝導率17.3W/mK。Alphacoolの高性能グリス「Apex 2 Thermal Grease」が登場
-
-「Apex」を約4年ぶりに刷新。Halnziyeと共同開発した新配合を採用
-
-Alphacool GmbH（本社：ドイツ）は2026年8月13日（現地時間）、高性能サーマルグリスの新モデル 「Apex 2 Thermal Grease」 を発表した。2022年に登場した 「Apex Thermal Grease」 の後継品で、メーカー直販価格は2g入り9.98ユーロ。
-
-Apex 2 Thermal Greaseは、従来のApex Thermal Greaseをベースにした次世代モデル。サーマルインターフェース材料を手がけるHalnziyeと共同開発され、従来の配合を単純に改良するのではなく、現代の高発熱コンポーネントに対応するため新たな配合をゼロから開発したという。
-
-CPUとGPUの両方で従来モデルを上回る冷却性能を謳い、特にGPUホットスポットで明確な改善が得られるとしている。高性能CPUやGPUのほか、オーバークロックシステム、ワークステーション、サーバーなどでの使用を想定する。
-
-熱伝導率は17.3W/mK、熱インピーダンスは0.0006℃・in²/W。密度は2.6～2.7g/ml、20℃時の粘度は130～140Pa・sで、動作温度範囲は－20～130℃。
-
-また電気的に非導電性のため、電子部品周辺でも使用可能。ペーストは均一に広げやすい粘度に調整されており、塗布前に手で数秒間温めることで、より薄く均一に塗りやすくなるとしている。
-
-内容量は2g。付属品も従来から…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/08/14/Apex_2_001.jpg" alt="熱伝導率17.3W/mK。Alphacoolの高性能グリス「Apex 2 Thermal Grease」が登場"></p>]]></description><source url="https://www.gdm.or.jp/pressrelease/2026/0814/648056">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/08/14/Apex_2_001.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/08/14/Apex_2_001.jpg"/></item>
-<item><title>�֥��������������� �����ˤҤ餯�������פ˿������ȿ��Υ����������о졪�������㥹�Ȥβ������㤵�󡤰������ͤ����������Ҿ������˥��󥿥ӥ塼</title><link>https://www.4gamer.net/games/666/G066646/20260804006/</link><guid isPermaLink="true">https://www.4gamer.net/games/666/G066646/20260804006/</guid><pubDate>Fri, 14 Aug 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>�֥��������������� �����ˤҤ餯�������פ˿������ȿ��Υ����������о졪�������㥹�Ȥβ������㤵�󡤰������ͤ����������Ҿ������˥��󥿥ӥ塼
-
-サイバードが配信中のスマホアプリ「イケメンヴィラン 闇夜にひらく悪の恋」で，第3章から登場する新組織“ライブラ”のビジュアルとキャスト情報が公開された。新キャストの河西健吾さん，伊東健人さん，前野智…
-
-「イケメンヴィラン 闇夜にひらく悪の恋」に新たな組織のヴィランが登場！ 新キャストの河西健吾さん，伊東健人さん，前野智昭さんにインタビュー
-
-■第3章プロローグストーリー 「成すべきことをなしにきた、それだけだ」 英国に突如現れたのは呪いつきによる国際組織“ライブラ”。 彼らとの出会いが、英国の、そして私の世界の均衡を崩す引き金となる―― ■“ライブラ”とは 特定の国に属さない国際的な組織。トップはルシアン。 呪いつきが互いの利益のため協力する共同体とされるが、その活動は謎に包まれている。 本拠地が仏国（フランス）にある他、世界各地に拠点を持つ。
-
-本当に飄々としていて掴みどころのないキャラクター ユーレン役 河西健吾さん
-
-年相応な可愛さがたまに出るのが非常に魅力的 ゼイン・レグルス役 伊東健人さん
-
-何を考えているかわからない淡々とした表情がすごく魅力的なポイント ルシアン・モルサンドル役 前野智昭さん
-
-「イケメンヴィラン 2nd Anniversary『ヴィラなま』スペシャル」レポート。企画「悪役回答録」で明かされたヴィランたちの素顔に胸キュン
-
-「イケメンヴィラン 闇夜にひらく悪の恋」に新たな組織のヴィランが登場！ 新キャストの重松千晴さん，柿原徹也さん，田邊幸輔さんにインタビュー
-
-「イケメンヴィラン 闇夜にひらく悪の恋」，1周年記念PVを公開。美容院「Prize（プライズ）」やTHEキャラCAFÉとのコラボも決定
-
-［プレイレポ］ヴィランとの“堕ちてはいけない恋”に堕ちるまで。「イケメンヴィラン 闇夜にひらく悪の恋」，嘘つきな狐の呪いつき“ハ…</p><p><img src="https://www.4gamer.net/games/666/G066646/20260804006/SS/002.jpg" alt="�֥��������������� �����ˤҤ餯�������פ˿������ȿ��Υ����������о졪�������㥹�Ȥβ������㤵�󡤰������ͤ����������Ҿ������˥��󥿥ӥ塼"></p>]]></description><source url="https://www.4gamer.net/games/666/G066646/20260804006/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/666/G066646/20260804006/SS/002.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/666/G066646/20260804006/SS/002.jpg"/></item>
-<item><title>1万5,980円で試される忠誠心。Razer、三つ首の蛇キーキャップ</title><link>https://pc.watch.impress.co.jp/docs/news/2132724.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2132724.html</guid><pubDate>Fri, 14 Aug 2026 02:56:41 +0000</pubDate><description><![CDATA[<p>1万5,980円で試される忠誠心。Razer、三つ首の蛇キーキャップ
-
-ブランドを象徴する三つ首の蛇が、キーキャップとなった。Razerは8月13日(米国時間)、キーボードカスタマイズを究極の表現へと進化させた、ブランド初となる「Razer Artisan Keycap - Triple-Headed Snake Edition」を発表した。日本では8月22日より直販で数量限定発売し、価格は単体で1万5,980円。
-
-1万5,980円で試される忠誠心。Razer、三つ首の蛇キーキャップ
-
-ブランドを象徴する三つ首の蛇が、キーキャップとなった。Razerは8月13日(米国時間)、キーボードカスタマイズを究極の表現へと進化させた、ブランド初となる「Razer Artisan Keycap - Triple-Headed Snake Edition」を発表した。日本では8月22日より直販で数量限定発売し、価格は単体で1万5,980円。
-
-Razer Artisan Keycap - Triple-Headed Snake Editionは、20年以上にわたってRazerを象徴し続けてきた三つ首の蛇のエンブレムを、立体的に造形した芸術作品へと昇華させた製品。単なるキーキャップではなく、Razerコミュニティ、ブランドの歴史、そして「Cult of Razer」を形作る情熱を象徴するアイデンティティを示すアイテムだと位置付けており、所有することはRazerへの忠誠心を示す「Cult of Razer」の一員であることを示すという。
-
-細部まで妥協せず、手間がかかる各工程にこだわったのも売り。どの角度から見ても楽しめる細部まで作り込まれた緻密な3Dモデリングや、レジンと顔料を最適な比率で配合し、完全に硬化させることで高硬度を実現しつつ、色鮮やかな仕上がりを長時間維持できるレジンキャスト製法を採用。
-
-また、1点ずつハンドペイントし、独自の質感を実現。さらに、各キーキャップを元の3Dモデルと照合したうえで、ホコリや気泡などの表面上の欠陥を厳しくチェックし、基準をクリアした製品だけ出荷…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/724/1.jpg" alt="1万5,980円で試される忠誠心。Razer、三つ首の蛇キーキャップ"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2132724.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/724/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/724/1.jpg"/></item>
-<item><title>【本日みつけたお買い得品】黒い球体型の電源タップが約1,600円で販売中</title><link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2132728.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/todays_sales/2132728.html</guid><pubDate>Fri, 14 Aug 2026 02:44:39 +0000</pubDate><description><![CDATA[<p>【本日みつけたお買い得品】黒い球体型の電源タップが約1,600円で販売中
-
-Amazonにおいて、エレコムの球体型電源タップ「ECT-34BK」が直近価格から374円引きとなる1,616円で販売されている。
-
-Amazonにおいて、エレコムの球体型電源タップ「ECT-34BK」が直近価格から374円引きとなる1,616円で販売されている。
-
-ECT-34BKは、ユニークな球体型の電源タップで、3個の電源差込口を備えるほか、USB Type-A 2基、USB PD 20W対応のUSB Type-C 1基を備える。USB給電はUSB Type-C単ポート利用時のみ最大20W、USB Type-A単ポート利用時は最大12Wで、2ポート以上を同時使用する場合は、15Wをシェアして利用する。
-
-プラグ部は折り畳みが可能なスイングプラグを採用し、電源差込口にはホコリの侵入を防止するホコリ防止シャッターを備える。
-
-TESSANの「電源タップ タワー型」が、直近価格より400円安い2,599円で販売中だ。
-
-電源タップ タワー型は、立方体の小型タワー各面に2個口ずつ、合計8個の電源差込口を備える電源タップ。電源コードのケーブル長は2mで、プラグ部は薄型デザインを採用する。天面には電源スイッチとUSB Type-A 2基、USB Type-C 1基を備える。底面には滑り止め用のゴム足を4つ備える。USB出力は単ポート利用時で、USB Type-Cが最大20W、USB Type-Aが18W。
-
-NVEESHOXの「タワー型電源タップ」は、直近価格より503円引きの2,996円で購入が可能だ。
-
-NVEESHOX タワー型電源タップは、底面を除く4面すべてに3個口の電源差込口を備える電源タップで、合計12個の電源差込口が利用できる。面と面の間のスペースの一角にはUSB Type-A 2基、USB Type-C 1基を備え、USB機器にも直接給電できる。単ポート利用時の最大出力はUSB Type-Cが15W、USB Type-Aが12W。
-
-頂点部には電源スイッチを備え、電源コードのケーブル…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/728/04.jpg" alt="【本日みつけたお買い得品】黒い球体型の電源タップが約1,600円で販売中"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/todays_sales/2132728.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/728/04.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/728/04.jpg"/></item>
-<item><title>Windows Defender脆弱性対処は不適切。新ゼロデイ脆弱性「ShieldBrake」</title><link>https://pc.watch.impress.co.jp/docs/news/2132712.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2132712.html</guid><pubDate>Fri, 14 Aug 2026 02:22:34 +0000</pubDate><description><![CDATA[<p>Windows Defender脆弱性対処は不適切。新ゼロデイ脆弱性「ShieldBrake」
-
-Microsoftと激しい対立を見せるセキュリティ研究者のNightmare Eclipse氏が、またも新たな動きを見せた。このところMicrosoftの定例セキュリティパッチのリリース日(毎月第2火曜日)に合わせる形でゼロデイ脆弱性を公開し、“月例セキュリティパッチは無意味”であることを嘲笑しているかのようだった。そして8月12日にもWindows Defenderのゼロデイ脆弱性「ShieldBrake」の概念実装(PoC)を公開した。
-
-Windows Defender脆弱性対処は不適切。新ゼロデイ脆弱性「ShieldBrake」
-
-Microsoftと激しい対立を見せるセキュリティ研究者のNightmare Eclipse氏が、またも新たな動きを見せた。このところMicrosoftの定例セキュリティパッチのリリース日(毎月第2火曜日)に合わせる形でゼロデイ脆弱性を公開し、“月例セキュリティパッチは無意味”であることを嘲笑しているかのようだった。そして8月12日にもWindows Defenderのゼロデイ脆弱性「ShieldBrake」の概念実装(PoC)を公開した。
-
-Nightmare Eclipse氏によれば、MicrosoftがRoguePlanet脆弱性(CVE-2026-50656)に対して適切なパッチを提供していないため、ShieldBreakではその修正を完全にバイパスして動作するという。
-
-このPoCは最新のWindows 11 25H2(およびInsiderのCanaryチャネル)、Windows Server 2025で動作することが確認され、成功率は100%だったという。なお、今回のPoCはWindows 10をサポートしていないものの、OS自体は影響を受ける可能性があるようだ。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/712/1.jpg" alt="Windows Defender脆弱性対処は不適切。新ゼロデイ脆弱性「ShieldBrake」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2132712.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/712/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/712/1.jpg"/></item>
-<item><title>iPhone18は12GBで18eは9GBか〜Dynamic Islandにも違い</title><link>https://iphone-mania.jp/iphone18-604503/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-604503/</guid><pubDate>Fri, 14 Aug 2026 02:20:04 +0000</pubDate><description><![CDATA[<p>iPhone18は12GBで18eは9GBか〜Dynamic Islandにも違い
-
-メモリ容量が9GBになるとの予想もあったiPhone18について、iPhone18 Proシリーズと同じ12GBになるとの見通しを、アナリストのジェフ・プー氏が投資家向けレポートに記していることが明らかになりました。
-
-iPhone18は12GBで18eは9GBか〜Dynamic Islandにも違い
-
-メモリ容量が9GBになるとの予想もあった iPhone18 について、iPhone18 Proシリーズと同じ 12GBになる との見通しを、アナリストのジェフ・プー氏が投資家向けレポートに記していることが明らかになりました。
-
-プー氏の予想では、 iPhone18e のメモリ容量は 9GB になるとのことです。両モデルで メモリ容量に差が設けられる 可能性があります。
-
-プー氏の今回の予想では、iPhone18とiPhone18eでメモリ容量に差が設けられます。 iPhone18のメモリ容量 については 当初12GBと予想 されていたものの、その後、DRAMの価格高騰と供給不足を背景に 9GBになるとの見方 も出ていました。
-
-今回のプー氏の予想は、iPhone18が再び12GBになるとの見方を示したことになります。これに対し、同時期に発表されると噂の iPhone18eは9GB とされています。
-
-両モデルにはA20が搭載される見込みです。iPhone17とiPhone17eでは、A19のGPUコア数に違いがあり、 eモデルはGPUコアが1基少ない 構成となっています。
-
-iPhone18とiPhone18eでは、メモリ容量を 12GBと9GBに分けることで、性能面の差別化 を行う可能性があります。現時点では、A20のGPUコア数についても両モデルで差が設けられるのかは明らかになっていません。
-
-プー氏は、 iPhone18 のDynamic IslandがiPhone18 Proシリーズと同様に小型化されると予想しています。iPhone18 Proシリーズでは、Dynamic Is…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/08/14/iPhone18-12GB-AH.jpg" alt="iPhone18は12GBで18eは9GBか〜Dynamic Islandにも違い"></p>]]></description><source url="https://iphone-mania.jp/iphone18-604503/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/08/14/iPhone18-12GB-AH.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/08/14/iPhone18-12GB-AH.jpg"/></item>
-<item><title>【本日みつけたお買い得品】USB PD対応サーキュレータが1,750円引きで販売中</title><link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2132713.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/todays_sales/2132713.html</guid><pubDate>Fri, 14 Aug 2026 02:07:44 +0000</pubDate><description><![CDATA[<p>【本日みつけたお買い得品】USB PD対応サーキュレータが1,750円引きで販売中
-
-Amazonにおいて、山善のサーキュレータ「YMYP-FJD25(C)」が、直近価格の1,750円引きとなる3,980円で販売されている。
-
-Amazonにおいて、山善のサーキュレータ「YMYP-FJD25(C)」が、直近価格の1,750円引きとなる3,980円で販売されている。
-
-山善 YMYP-FJD25(C)は、USB Type-C入力を搭載し、USB PD 20W給電での動作にも対応するサーキュレータで、モバイルバッテリなどでも動作する。DCモータを搭載し、無段階風量調節や8時間のオートオフタイマーなどを備え、低速回転でも十分な風量が送れるとされる7枚羽根構造を採用する。本体重量は1.5kgで、手動での上下の角度調節などが行なえる。
-
-SwitchBotのコードレスバッテリ内蔵サーキュレータ「サーキュレーター2 Pro」が直近価格の1,400円引きとなる1万5,580円で販売中だ。
-
-SwitchBot サーキュレーター2 Proは、最大70時間駆動のバッテリを内蔵し、コードレスで利用できるサーキュレータ。同社製品と連携することで、Alexaなどからの音声操作にも対応する。首振り機能は上下左右最大90度で、独自の「SilenTech」静音技術により、運転音21dBでの利用も可能だ。
-
-9段階の風量調節機能を搭載し、本体に備えるアロマケースを利用することで、好みの香りも楽しめる。単体で利用できるリモコンも付属する。
-
-アイリスオーヤマのサーキュレータ「AZCF-BD15TEC-W」が、直近価格の480円引きとなる6,500円で購入できる。
-
-AZCF-BD15TEC-Wは20畳サイズまでの部屋に対応するサーキュレータ。上下左右の首振り機能を搭載するほか、風量は5段階まで調整可能で、離れたところからも操作できるリモコンも付属する。最強設定時の風の到達距離は約15mで、特殊形状のスパイラルグリルを採用し、より直進性の高い気流を作り出すとしている。
-
-アイリスオーヤマ サーキュレーター…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2132/713/03.jpg" alt="【本日みつけたお買い得品】USB PD対応サーキュレータが1,750円引きで販売中"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/todays_sales/2132713.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2132/713/03.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2132/713/03.jpg"/></item>
 </channel></rss>
