@@ -1,6 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Fri, 21 Aug 2026 18:55:18 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Fri, 21 Aug 2026 19:36:13 +0000</lastBuildDate>
+<item><title>重要な点を除いて、古い携帯電話はすべてにおいて Raspberry Pi に勝ります</title><link>https://www.xda-developers.com/old-phone-beats-raspberry-pi-everything-except-one-thing-that-matters/</link><guid isPermaLink="true">https://www.xda-developers.com/old-phone-beats-raspberry-pi-everything-except-one-thing-that-matters/</guid><pubDate>Fri, 21 Aug 2026 19:30:16 +0000</pubDate><description><![CDATA[<p>重要な点を除いて、古い携帯電話はすべてにおいて Raspberry Pi に勝ります
+
+サーバーまたはマイクロコントローラー — 構築する前に選択してください。
+
+重要な点を除いて、古い携帯電話はすべてにおいて Raspberry Pi に勝ります
+
+By Shekhar Vaidya 公開日 2026 年 8 月 21 日、午後 3:30 EDT Shekhar Vaidya は、ベテランのテクノロジー ジャーナリストであり、コンピューター サイエンス エンジニアです。彼は Techlatest の創設者であり、ハードウェアと Windows エコシステムに関する技術分析を提供することに何年も費やしてきました。現在、XDA のコンピューティング ライターである Shekhar は、NAS、ストレージ ソリューション、PC 内部に関する深い背景を活用して、読者がテクノロジーを習得できるように支援します。 XDA アカウントにサインインする 小型で安価な常時オンのハードウェアについて言及すると、通常、Raspberry Pi、Arduino Uno、Orange Pi などのシングルボード コンピューター (SBC) が頭に浮かびます。一般的に、それは正しい選択でもあります。数週間前、私も同じ道を歩んでいました。 DNS サーバーをホストするために Raspberry Pi 5 を購入しようと考えていました。入手する前に、引き出しの中に眠っていた古い Android スマートフォンを見て、それを DNS サーバーとして使用することにしました。
+
+Pi-hole をインストールすることに成功しました。驚くべきことに、苦労することなくホーム ネットワークの DNS フィルタリングを処理してくれました。電話でさらにいくつかのサービスを受けた後、Pi は不要だと感じました。しかし、すべての魔法はソフトウェアで起こっていました。そこで、外部ハードウェアを必要とする実験を思いつき、方程式が逆転しました。
+
+電話はソフトウェアにあるすべてのものを勝ち取ります
+
+バッテリーとスクリーンを…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/phone-esp32-relay-hero.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="重要な点を除いて、古い携帯電話はすべてにおいて Raspberry Pi に勝ります"></p>]]></description><source url="https://www.xda-developers.com/old-phone-beats-raspberry-pi-everything-except-one-thing-that-matters/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/phone-esp32-relay-hero.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/phone-esp32-relay-hero.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>ChatGPT では間もなく PIN または指紋でチャットをロックできるようになる可能性があります</title><link>https://www.androidauthority.com/chatgpt-locked-chats-private-conversations-3701687/</link><guid isPermaLink="true">https://www.androidauthority.com/chatgpt-locked-chats-private-conversations-3701687/</guid><pubDate>Fri, 21 Aug 2026 19:22:38 +0000</pubDate><description><![CDATA[<p>ChatGPT では間もなく PIN または指紋でチャットをロックできるようになる可能性があります
+
+ChatGPT では、機密性の高いチャットを PIN や指紋でロックできるようになり、Temporary Chat の最大の欠点が修正される可能性があります。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+ChatGPT では間もなく PIN または指紋でチャットをロックできるようになる可能性があります
+
+0 • Edgar Cervantes / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR OpenAI がチャットをロックできる新機能を開発しているのが発見されました。チャットをロックすると、保存された ChatGPT 会話をサイドバー、履歴、検索結果から PIN や指紋で隠すことができます。
+
+一時チャットとは異なり、ロックされたチャットは存続するように設計されており、ユーザーは通常の履歴に表示されたままにせずに機密の会話を保存する方法を提供します。
+
+ロックされたチャットは、Memory にプライバシー境界を作成し、ロックされた会話からの新しい情報が通常の会話にこぼれることなく、他のロックされたチャットをパーソナライズできるようにすることもできます。
+
+ChatGPT 履歴は、必ずしも大々的に宣伝したい記録ではありません。 AI を必要としない単純な数学の問題から、ChatGPT に病気で休暇を取るための電話メールを作成するように依頼すること、そしてプライベートなプロジェクトに関するより深刻な会話から財政に関するチャットまで、他人の目にふれないようにしたい会話がたくさんあります。 OpenAI の開発が進められていることで、これらのチャットをのぞき見から遠ざけることが、すぐにずっと簡単になる可能性があります。
+
+価値があることとして、ChatGPT ではすでにユーザーが機密性の高い質問に対して一時…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/05/Open-AI-ChatGPT-logo-on-phone-stock-photo-10.jpg" alt="ChatGPT では間もなく PIN または指紋でチャットをロックできるようになる可能性があります"></p>]]></description><source url="https://www.androidauthority.com/chatgpt-locked-chats-private-conversations-3701687/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/05/Open-AI-ChatGPT-logo-on-phone-stock-photo-10.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/05/Open-AI-ChatGPT-logo-on-phone-stock-photo-10.jpg"/></item>
+<item><title>AMD confirms the Radeon RX 9050 4GB will have a tiny 64-bit bus and just 16MB Infinity Cache</title><link>https://www.tweaktown.com/rss/click/news/113193/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113193/?c=news-mf</guid><pubDate>Fri, 21 Aug 2026 19:20:11 +0000</pubDate><description><![CDATA[<p>AMD confirms the Radeon RX 9050 4GB will have a tiny 64-bit bus and just 16MB Infinity Cache</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113193/?c=news-mf">TweakTown</source></item>
+<item><title>Google Play ポイントを利用すると、高額な価値のあるビンテージのスパイダーマン コミックが当たるかも</title><link>https://www.androidauthority.com/google-play-sweepstakes-3701703/</link><guid isPermaLink="true">https://www.androidauthority.com/google-play-sweepstakes-3701703/</guid><pubDate>Fri, 21 Aug 2026 19:10:24 +0000</pubDate><description><![CDATA[<p>Google Play ポイントを利用すると、高額な価値のあるビンテージのスパイダーマン コミックが当たるかも
+
+現在進行中の Google の懸賞の賞品の 1 つは、1962 年のスパイダーマンのデビュー作である Marvel&#39;s Amazing Fantasy #15 のグレード付きコピーです。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+Google Play ポイントを利用すると、高額な価値のあるビンテージのスパイダーマン コミックが当たるかも
+
+0 • Kaitlyn Cimino / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google は、貴重なヴィンテージのスパイダーマン コミックやニューヨーク コミコンへの旅行などの賞品が当たる懸賞を実施しています。
+
+Play Points を引き換えることで懸賞に参加できます。引き換えられる各ポイントは 1 つのエントリーとなります。
+
+懸賞は9月14日まで実施中です。
+
+Google は今後数週間にわたって懸賞を実施しており、参加者は貴重な賞品を獲得することができます。今から 9 月中旬までに Play ポイントを引き換えると、ニューヨーク コミコンへの旅行や、70,000 ドル以上相当のビンテージ スパイダーマン コミック、その他の賞品を獲得するチャンスが得られます。
+
+Googleは本日ブログ投稿で懸賞を発表した。提供される最も興味深い賞品は、ヒーローの初登場を記した 1962 年発行の『Marvel&#39;s Amazing Fantasy #15』の封印されたグレード付きコピー 1 冊です。さらに、参加者 4 名には、航空券とタイムズ スクエアでの 4 泊の滞在を含む、ニューヨーク コミコンへの 2 名様旅行が当たります。
+
+コンテストの公式規約では、CGC グレード 5.0/10 のこの素晴らしいファンタジー コミックの価値は、なんと…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2025/06/BOOX-Note-Air-4C-Google-Play-Store-scaled.jpg" alt="Google Play ポイントを利用すると、高額な価値のあるビンテージのスパイダーマン コミックが当たるかも"></p>]]></description><source url="https://www.androidauthority.com/google-play-sweepstakes-3701703/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2025/06/BOOX-Note-Air-4C-Google-Play-Store-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2025/06/BOOX-Note-Air-4C-Google-Play-Store-scaled.jpg"/></item>
+<item><title>1 台のデバイスを接続した後、テレビのストリーミング アプリの使用を停止しました</title><link>https://www.xda-developers.com/replacing-smart-tv-apps-with-external-device/</link><guid isPermaLink="true">https://www.xda-developers.com/replacing-smart-tv-apps-with-external-device/</guid><pubDate>Fri, 21 Aug 2026 19:00:16 +0000</pubDate><description><![CDATA[<p>1 台のデバイスを接続した後、テレビのストリーミング アプリの使用を停止しました
+
+予想をはるかに上回るアップグレードでした
+
+1 台のデバイスを接続した後、テレビのストリーミング アプリの使用を停止しました
+
+By Megan Ellis 公開 2026 年 8 月 21 日 3:00 PM EDT Megan は、XDA Developers のソフトウェア ライターで、2016 年から消費者向けテクノロジーについて執筆しています。ニュー メディア ジャーナリズムの大学院の学位を取得した彼女は、常にトピックを深く掘り下げ、日常の消費者にとって理解しやすい方法で記事を書くことに情熱を注いでいます。彼女は Tech Valkyrie という自身のブログを運営しており、Tom&#39;s Guide と Android Authority に寄稿しています。彼女は MakeUseOf で主任編集者としても働いていました。余暇にはビデオ ゲームをしたり、最新のテクノロジーに興味を持っています。 XDA アカウントにサインインする ホーム エンターテイメントのセットアップでは、多くの場合、テレビが中心になります。多くの人にとって、エンターテインメントのセットアップ予算のほとんどはそこに費やされており、ストリーミング エクスペリエンスにおいて中心的な役割を果たしています。
+
+しかし、あなたが私と同じなら、テレビが決め手になるわけではないかもしれません。実際、私のテレビはエンターテイメント設備の中で最も時代遅れの部分です。代わりに、単一のデバイス、つまりスマート TV ボックスのアプリや遅延インターフェイスに依存する必要がなくなったことを意味する、それを現代にもたらしました。
+
+私のスマート TV は時代遅れのテクノロジーです
+
+私のテレビはスマートデバイスですが、私はそのスマート機能をまったく使っていません。むしろ、スマートデバイスではなく、サウンド付きの大型 4K ディスプレイがそこにあるのです。誤解しないでください。ストリーミング アプリをダウンロードしたり、Google Home…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/a-remote-held-in-front-of-a-television.jpg?w=1600&amp;h=900&amp;fit=crop" alt="1 台のデバイスを接続した後、テレビのストリーミング アプリの使用を停止しました"></p>]]></description><source url="https://www.xda-developers.com/replacing-smart-tv-apps-with-external-device/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/a-remote-held-in-front-of-a-television.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/a-remote-held-in-front-of-a-television.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>Rapidus は 2030 年までに 600 mm の高度なパッケージング パネルに 8 レチクル インターポーザを搭載することを目指しています</title><link>https://www.techpowerup.com/351810/rapidus-targets-8-reticle-interposers-on-600-mm-advanced-packaging-panels-by-2030</link><guid isPermaLink="true">https://www.techpowerup.com/351810/rapidus-targets-8-reticle-interposers-on-600-mm-advanced-packaging-panels-by-2030</guid><pubDate>Fri, 21 Aug 2026 18:59:54 +0000</pubDate><description><![CDATA[<p>Rapidus は 2030 年までに 600 mm の高度なパッケージング パネルに 8 レチクル インターポーザを搭載することを目指しています
+
+Rapidus は、2026 年の OCP APAC Summit で、2030 年頃の目標として 8 レチクルサイズのインターポーザーと 600 x 600 mm のパネルレベルの処理を目標とする、先進的なパッケージングのロードマップを発表しました。このロードマップは、Rapidus Design Solutions の CTO Rozalia Beica によって発表され、インターポーザーまでのステップが示されています。
+
+Rapidus は 2030 年までに 600 mm の高度なパッケージング パネルに 8 レチクル インターポーザを搭載することを目指しています
+
+2025 年 9 月 18 日 NVIDIA がインテルを 50 億ドル相当で買収、RTX iGPU が x86 に登場、株価は 25% 上昇 (256)
+
+2025 年 12 月 11 日 中国の SMIC、EUV ツールなしで N+3 ノードで 5 nm の生産を達成 (18)
+
+2026 年 8 月 14 日 NVIDIA が次世代「ファインマン」GPU 用に TSMC A16 ノードを確保 (10)
+
+2026 年 4 月 16 日 Apple、AMD、Google、NVIDIA が取引を検討する中、Intel Foundry が顧客の主要な獲得に近づく (15)
+
+2026 年 5 月 11 日 SK hynix が HBM メモリ向け Intel EMIB 2.5D パッケージングに注目 (0)
+
+2026 年 8 月 13 日 Lam Research が世界的な研究ネットワークを拡大するために 30 億ドル以上を投資する計画を発表 (0)
+
+2026 年 7 月 9 日 AMD、Advancing AI イベントで 7 月 22 ～ 23 日に EPYC &#34;Venice&#34; Zen 6 CPU を発売することを確認 (36)
+
+2026 …</p><p><img src="https://www.techpowerup.com/img/1Yl31Dmhykw8SUJw.jpg" alt="Rapidus は 2030 年までに 600 mm の高度なパッケージング パネルに 8 レチクル インターポーザを搭載することを目指しています"></p>]]></description><source url="https://www.techpowerup.com/351810/rapidus-targets-8-reticle-interposers-on-600-mm-advanced-packaging-panels-by-2030">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/1Yl31Dmhykw8SUJw.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/1Yl31Dmhykw8SUJw.jpg"/></item>
 <item><title>Intel &#39;Nova-Lake-S&#39; 28-core CPU with bLLC reportedly draws 296W at PL2</title><link>https://www.tweaktown.com/rss/click/news/113192/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113192/?c=news-mf</guid><pubDate>Fri, 21 Aug 2026 18:45:14 +0000</pubDate><description><![CDATA[<p>Intel &#39;Nova-Lake-S&#39; 28-core CPU with bLLC reportedly draws 296W at PL2</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113192/?c=news-mf">TweakTown</source></item>
 <item><title>Google は、My Pixel アプリを実際に Pixel 11 の色と一致させるようにしました</title><link>https://www.androidauthority.com/my-pixel-app-color-3701675/</link><guid isPermaLink="true">https://www.androidauthority.com/my-pixel-app-color-3701675/</guid><pubDate>Fri, 21 Aug 2026 18:43:15 +0000</pubDate><description><![CDATA[<p>Google は、My Pixel アプリを実際に Pixel 11 の色と一致させるようにしました
 
@@ -3612,6 +3696,27 @@ GIGABYTE Intros B550 X ゲーミング ソケット AM4 マザーボード
 2026 年 6 月 29 日 GIGABYTE が X870 AORUS Infinity マザーボードを正式に発売 (15)
 
 2026 年 6 月 22 日 GIGABYTE、RTX 5080 AORUS Infinity Wood…</p><p><img src="https://www.techpowerup.com/img/E4tj9H5RlDUiXmnx.jpg" alt="GIGABYTE Intros B550 X ゲーミング ソケット AM4 マザーボード"></p>]]></description><source url="https://www.techpowerup.com/351754/gigabyte-intros-b550-x-gaming-socket-am4-motherboard">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/E4tj9H5RlDUiXmnx.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/E4tj9H5RlDUiXmnx.jpg"/></item>
+<item><title>(PR) ゼンハイザー、ユーザー交換可能なバッテリーを搭載した Momentum True Wireless 5 イヤホンを発表</title><link>https://www.techpowerup.com/351753/sennheiser-unveils-the-momentum-true-wireless-5-earbuds-with-user-replaceable-batteries</link><guid isPermaLink="true">https://www.techpowerup.com/351753/sennheiser-unveils-the-momentum-true-wireless-5-earbuds-with-user-replaceable-batteries</guid><pubDate>Thu, 20 Aug 2026 11:02:33 +0000</pubDate><description><![CDATA[<p>(PR) ゼンハイザー、ユーザー交換可能なバッテリーを搭載した Momentum True Wireless 5 イヤホンを発表
+
+ゼンハイザー ブランドは本日、Momentum True Wireless 5 を発表します。これは、生活のどこにいても妥協のないリスニング体験を実現するために設計された、これまでで最も先進的な完全ワイヤレス イヤフォンです。徹底的に再考され、インテリジェントなイノベーションとインスピレーションを受けたエンジニアリングを組み合わせています。
+
+ゼンハイザー、ユーザーが交換可能なバッテリーを搭載した Momentum True Wireless 5 イヤホンを発表
+
+フランク・フォッペ、プロダクトマネージャー 「私たちは、Momentum シリーズの迫力あるサウンドとコネクテッドテクノロジーを、驚くほどコンパクトなフォーマットにまとめることを目指しました。」 「その絶妙なオーディオ再生から、そのすべてに動力を供給する高度なハードウェアに至るまで、Momentum True Wireless 5 は、イヤホンにおけるオーディオテクノロジーの最も高度な統合を表しています。」
+
+まったく新しいデザイン - 快適性、安定性、携帯性の向上
+
+ユーザーが交換可能なバッテリー - 何年後でも実行時間を簡単に更新できます
+
+Dolby Atmos に最適化 - ヘッドトラッキングにより没入型エンターテイメントが実現
+
+音声通話と ANC の改善 - 音声加速度計、マイク アレイの拡張、AI 音声強化
+
+Bluetooth 6.0 - 高速で安定した接続を優先します
+
+Smart Control Plus - 新しい 8 バンド EQ は、無料アプリのさまざまなカスタマイズ可能な機能を強調します
+
+ゼンハイザー コンシューマー ヒアリング社長、リリカ ベック氏は、「コンパクトなサイズ、当社の特徴である忠実度の高い音響、交換可能なバッテリーのバランスが取れていることは大きな進歩です。」「Momentum True Wireless 5 により、最先端のパフォーマ…</p><p><img src="https://www.techpowerup.com/img/R4MqR1QlAV68s086.jpg" alt="(PR) ゼンハイザー、ユーザー交換可能なバッテリーを搭載した Momentum True Wireless 5 イヤホンを発表"></p>]]></description><source url="https://www.techpowerup.com/351753/sennheiser-unveils-the-momentum-true-wireless-5-earbuds-with-user-replaceable-batteries">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/R4MqR1QlAV68s086.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/R4MqR1QlAV68s086.jpg"/></item>
 <item><title>(PR) ゼンハイザー、Momentum True Wireless 5 イヤホンを発表</title><link>https://www.techpowerup.com/351753/sennheiser-unveils-the-momentum-true-wireless-5-earbuds</link><guid isPermaLink="true">https://www.techpowerup.com/351753/sennheiser-unveils-the-momentum-true-wireless-5-earbuds</guid><pubDate>Thu, 20 Aug 2026 11:02:33 +0000</pubDate><description><![CDATA[<p>(PR) ゼンハイザー、Momentum True Wireless 5 イヤホンを発表
 
 ゼンハイザー ブランドは本日、Momentum True Wireless 5 を発表します。これは、生活のどこにいても妥協のないリスニング体験を実現するために設計された、これまでで最も先進的な完全ワイヤレス イヤフォンです。徹底的に再考され、インテリジェントなイノベーションとインスピレーションを受けたエンジニアリングを組み合わせています。
@@ -3635,27 +3740,6 @@ Smart Control Plus - 新しい 8 バンド EQ は、無料アプリのさまざ�
 ゼンハイザー コンシューマー ヒアリング社長、リリカ ベック氏は、「コンパクトなサイズ、当社の特徴である忠実度の高い音響、交換可能なバッテリーのバランスが取れていることは大きな進歩です。」「Momentum True Wireless 5 により、最先端のパフォーマンスが寿命を犠牲にする必要がないことを証明しています。」と述べています。
 
 Goo…</p><p><img src="https://www.techpowerup.com/img/R4MqR1QlAV68s086.jpg" alt="(PR) ゼンハイザー、Momentum True Wireless 5 イヤホンを発表"></p>]]></description><source url="https://www.techpowerup.com/351753/sennheiser-unveils-the-momentum-true-wireless-5-earbuds">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/R4MqR1QlAV68s086.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/R4MqR1QlAV68s086.jpg"/></item>
-<item><title>(PR) ゼンハイザー、ユーザー交換可能なバッテリーを搭載した Momentum True Wireless 5 イヤホンを発表</title><link>https://www.techpowerup.com/351753/sennheiser-unveils-the-momentum-true-wireless-5-earbuds-with-user-replaceable-batteries</link><guid isPermaLink="true">https://www.techpowerup.com/351753/sennheiser-unveils-the-momentum-true-wireless-5-earbuds-with-user-replaceable-batteries</guid><pubDate>Thu, 20 Aug 2026 11:02:33 +0000</pubDate><description><![CDATA[<p>(PR) ゼンハイザー、ユーザー交換可能なバッテリーを搭載した Momentum True Wireless 5 イヤホンを発表
-
-ゼンハイザー ブランドは本日、Momentum True Wireless 5 を発表します。これは、生活のどこにいても妥協のないリスニング体験を実現するために設計された、これまでで最も先進的な完全ワイヤレス イヤフォンです。徹底的に再考され、インテリジェントなイノベーションとインスピレーションを受けたエンジニアリングを組み合わせています。
-
-ゼンハイザー、ユーザーが交換可能なバッテリーを搭載した Momentum True Wireless 5 イヤホンを発表
-
-フランク・フォッペ、プロダクトマネージャー 「私たちは、Momentum シリーズの迫力あるサウンドとコネクテッドテクノロジーを、驚くほどコンパクトなフォーマットにまとめることを目指しました。」 「その絶妙なオーディオ再生から、そのすべてに動力を供給する高度なハードウェアに至るまで、Momentum True Wireless 5 は、イヤホンにおけるオーディオテクノロジーの最も高度な統合を表しています。」
-
-まったく新しいデザイン - 快適性、安定性、携帯性の向上
-
-ユーザーが交換可能なバッテリー - 何年後でも実行時間を簡単に更新できます
-
-Dolby Atmos に最適化 - ヘッドトラッキングにより没入型エンターテイメントが実現
-
-音声通話と ANC の改善 - 音声加速度計、マイク アレイの拡張、AI 音声強化
-
-Bluetooth 6.0 - 高速で安定した接続を優先します
-
-Smart Control Plus - 新しい 8 バンド EQ は、無料アプリのさまざまなカスタマイズ可能な機能を強調します
-
-ゼンハイザー コンシューマー ヒアリング社長、リリカ ベック氏は、「コンパクトなサイズ、当社の特徴である忠実度の高い音響、交換可能なバッテリーのバランスが取れていることは大きな進歩です。」「Momentum True Wireless 5 により、最先端のパフォーマ…</p><p><img src="https://www.techpowerup.com/img/R4MqR1QlAV68s086.jpg" alt="(PR) ゼンハイザー、ユーザー交換可能なバッテリーを搭載した Momentum True Wireless 5 イヤホンを発表"></p>]]></description><source url="https://www.techpowerup.com/351753/sennheiser-unveils-the-momentum-true-wireless-5-earbuds-with-user-replaceable-batteries">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/R4MqR1QlAV68s086.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/R4MqR1QlAV68s086.jpg"/></item>
 <item><title>物理メディアへのノスタルジーにより、募金活動家が Blu-Ray Kickstarter に殺到 — 9-in-1 ドックを備えたドライブがキャンペーン途中で 160 倍の資金目標を達成</title><link>https://www.tomshardware.com/peripherals/docking-stations-hubs/physical-media-nostalgia-sees-fundraisers-flock-to-blu-ray-kickstarter-drive-with-9-in-1-dock-achieves-160x-funding-goal-halfway-through-campaign</link><guid isPermaLink="true">https://www.tomshardware.com/peripherals/docking-stations-hubs/physical-media-nostalgia-sees-fundraisers-flock-to-blu-ray-kickstarter-drive-with-9-in-1-dock-achieves-160x-funding-goal-halfway-through-campaign</guid><pubDate>Thu, 20 Aug 2026 11:00:39 +0000</pubDate><description><![CDATA[<p>物理メディアへのノスタルジーにより、募金活動家が Blu-Ray Kickstarter に殺到 — 9-in-1 ドックを備えたドライブがキャンペーン途中で 160 倍の資金目標を達成
 
 早期購入者はこれに 59 ドルを支払うことができますが、小売価格は 129 ドルになるという警告が付いています。
@@ -5992,27 +6076,6 @@ Android Authority のアフィリエイト リンクにより、手数料が発�
 Google フォトの Redact ツールは、コードに埋め込まれた文字列から実際にタップできるものに移行しました。それを証明するデモがあります。先月、Google フォト v7.85 の APK 分解調査中に、コード文字列が「写真の機密領域を秘匿化する」と約束していたときに、私たちがこの機能に初めて報告しました。当時、このボタンはタップされた瞬間にアプリをクラッシュさせ、実際の編集方法は謎のままでした。その後、Google フォトはバージョン 7.89 に移行しましたが、リリースに先立って有効にすることができ、そのペースを維持することができました。
 
 あなたは Authority Insights の記事を読んでいます。 Authority Insights は、他では見られない Android Authority チームか…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/07/google-photos-july-2026-redesign.jpg" alt="初見: Google フォトの新しい墨消しツールの仕組みは次のとおりです"></p>]]></description><source url="https://www.androidauthority.com/google-photos-redact-mode-demo-apk-teardown-3700415/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/07/google-photos-july-2026-redesign.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/07/google-photos-july-2026-redesign.jpg"/></item>
-<item><title>Intel Core Ultra 9 4950Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある</title><link>https://www.techpowerup.com/351714/intel-core-ultra-9-4950k-could-signal-new-naming-scheme-for-nova-lake-s</link><guid isPermaLink="true">https://www.techpowerup.com/351714/intel-core-ultra-9-4950k-could-signal-new-naming-scheme-for-nova-lake-s</guid><pubDate>Wed, 19 Aug 2026 12:21:50 +0000</pubDate><description><![CDATA[<p>Intel Core Ultra 9 4950Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある
-
-「Nova Lake-S」プロセッサファミリーの一部であるIntelの次期デスクトップCPUは、「Arrow Lake」ファミリーで使用されている現在の3桁の形式とは異なり、4桁の形式に戻る新しい命名規則を採用する可能性がある。リークされた CPU-Z の提出物によると、Intel の Core Ultra 9 4950K...
-
-Intel Core Ultra 9 4950Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある
-
-2026 年 7 月 3 日 インテル、ゲーム向けに 108 MB bLLC キャッシュを備えた 2 つの 22 コア「Nova Lake-S」SKU を準備 (279)
-
-2026 年 6 月 26 日 インテル「Nova Lake-S」52 コア OC SKU が PL2 モードで 474 W を消費 (291)
-
-2026 年 1 月 23 日 インテル Core Ultra シリーズ 4 「Nova Lake」プロセッサーが 2026 年後半に発売 (62)
-
-2026 年 4 月 13 日 Intel Core Ultra「Nova Lake-S」デスクトップ コア構成 Surface (111)
-
-2026 年 6 月 14 日 Intel が 2027 年向けコア「Raptor Lake Next」ソケット LGA1700 プロセッサーを準備 (184)
-
-2026 年 7 月 17 日 Intel、52 コア バージョンの前に 28 コア「Nova Lake-S」を発売 (41)
-
-2026 年 1 月 10 日 Intel Core Ultra X9 388H &#34;Panther Lake&#34; iGPU は、Cyberpunk 2077 で AMD &#34;Strix Point&#34; パフォーマンスを 2 倍に (98)
-
-2026 年 7 月 14 日 インテル、歩留まり向上の中で「Nova L…</p><p><img src="https://www.techpowerup.com/img/vSFY5VUyiwLn23oo.jpg" alt="Intel Core Ultra 9 4950Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある"></p>]]></description><source url="https://www.techpowerup.com/351714/intel-core-ultra-9-4950k-could-signal-new-naming-scheme-for-nova-lake-s">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/vSFY5VUyiwLn23oo.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/vSFY5VUyiwLn23oo.jpg"/></item>
 <item><title>Intel Core Ultra 9 4590Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある</title><link>https://www.techpowerup.com/351714/intel-core-ultra-9-4590k-could-signal-new-naming-scheme-for-nova-lake-s</link><guid isPermaLink="true">https://www.techpowerup.com/351714/intel-core-ultra-9-4590k-could-signal-new-naming-scheme-for-nova-lake-s</guid><pubDate>Wed, 19 Aug 2026 12:21:50 +0000</pubDate><description><![CDATA[<p>Intel Core Ultra 9 4590Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある
 
 「Nova Lake-S」プロセッサファミリーの一部であるIntelの次期デスクトップCPU世代は、「Arrow Lake」ファミリーで使用されている現在の3桁の形式とは異なり、4桁の形式に戻る新しい命名規則を採用する可能性がある。リークされた CPU-Z の提出物によると、Intel の Core Ultra 9 4590K...
@@ -6034,6 +6097,27 @@ Intel Core Ultra 9 4590Kは「Nova Lake-S」の新しい命名スキームを示
 2026 年 1 月 10 日 Intel Core Ultra X9 388H &#34;Panther Lake&#34; iGPU は、Cyberpunk 2077 で AMD &#34;Strix Point&#34; パフォーマンスを 2 倍に (98)
 
 2026 年 7 月 14 日 インテル、歩留まり向上の中で「Nova…</p><p><img src="https://www.techpowerup.com/img/vSFY5VUyiwLn23oo.jpg" alt="Intel Core Ultra 9 4590Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある"></p>]]></description><source url="https://www.techpowerup.com/351714/intel-core-ultra-9-4590k-could-signal-new-naming-scheme-for-nova-lake-s">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/vSFY5VUyiwLn23oo.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/vSFY5VUyiwLn23oo.jpg"/></item>
+<item><title>Intel Core Ultra 9 4950Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある</title><link>https://www.techpowerup.com/351714/intel-core-ultra-9-4950k-could-signal-new-naming-scheme-for-nova-lake-s</link><guid isPermaLink="true">https://www.techpowerup.com/351714/intel-core-ultra-9-4950k-could-signal-new-naming-scheme-for-nova-lake-s</guid><pubDate>Wed, 19 Aug 2026 12:21:50 +0000</pubDate><description><![CDATA[<p>Intel Core Ultra 9 4950Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある
+
+「Nova Lake-S」プロセッサファミリーの一部であるIntelの次期デスクトップCPUは、「Arrow Lake」ファミリーで使用されている現在の3桁の形式とは異なり、4桁の形式に戻る新しい命名規則を採用する可能性がある。リークされた CPU-Z の提出物によると、Intel の Core Ultra 9 4950K...
+
+Intel Core Ultra 9 4950Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある
+
+2026 年 7 月 3 日 インテル、ゲーム向けに 108 MB bLLC キャッシュを備えた 2 つの 22 コア「Nova Lake-S」SKU を準備 (279)
+
+2026 年 6 月 26 日 インテル「Nova Lake-S」52 コア OC SKU が PL2 モードで 474 W を消費 (291)
+
+2026 年 1 月 23 日 インテル Core Ultra シリーズ 4 「Nova Lake」プロセッサーが 2026 年後半に発売 (62)
+
+2026 年 4 月 13 日 Intel Core Ultra「Nova Lake-S」デスクトップ コア構成 Surface (111)
+
+2026 年 6 月 14 日 Intel が 2027 年向けコア「Raptor Lake Next」ソケット LGA1700 プロセッサーを準備 (184)
+
+2026 年 7 月 17 日 Intel、52 コア バージョンの前に 28 コア「Nova Lake-S」を発売 (41)
+
+2026 年 1 月 10 日 Intel Core Ultra X9 388H &#34;Panther Lake&#34; iGPU は、Cyberpunk 2077 で AMD &#34;Strix Point&#34; パフォーマンスを 2 倍に (98)
+
+2026 年 7 月 14 日 インテル、歩留まり向上の中で「Nova L…</p><p><img src="https://www.techpowerup.com/img/vSFY5VUyiwLn23oo.jpg" alt="Intel Core Ultra 9 4950Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある"></p>]]></description><source url="https://www.techpowerup.com/351714/intel-core-ultra-9-4950k-could-signal-new-naming-scheme-for-nova-lake-s">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/vSFY5VUyiwLn23oo.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/vSFY5VUyiwLn23oo.jpg"/></item>
 <item><title>Everypin&#39;s PwrBlock 323 Delivers a Programmable Power Supply for Automated Test Rigs</title><link>https://www.hackster.io/news/everypin-s-pwrblock-323-delivers-a-programmable-power-supply-for-automated-test-rigs-bd7c605bf91c</link><guid isPermaLink="true">https://www.hackster.io/news/everypin-s-pwrblock-323-delivers-a-programmable-power-supply-for-automated-test-rigs-bd7c605bf91c</guid><pubDate>Wed, 19 Aug 2026 12:20:02 +0000</pubDate><description><![CDATA[<p>Everypin&#39;s PwrBlock 323 Delivers a Programmable Power Supply for Automated Test Rigs</p>]]></description><source url="https://www.hackster.io/news/everypin-s-pwrblock-323-delivers-a-programmable-power-supply-for-automated-test-rigs-bd7c605bf91c">Hackster.io</source></item>
 <item><title>Comcast が Xfinity ルーターを家庭用モーション検出器に変えます - 無料の Wi-Fi センシング機能が追加のハードウェアを必要とせずに RF 干渉を追跡します</title><link>https://www.tomshardware.com/networking/routers/comcast-turns-xfinity-routers-into-home-motion-detectors-free-wi-fi-sensing-feature-tracks-rf-interference-with-zero-extra-hardware-required</link><guid isPermaLink="true">https://www.tomshardware.com/networking/routers/comcast-turns-xfinity-routers-into-home-motion-detectors-free-wi-fi-sensing-feature-tracks-rf-interference-with-zero-extra-hardware-required</guid><pubDate>Wed, 19 Aug 2026 12:20:00 +0000</pubDate><description><![CDATA[<p>Comcast が Xfinity ルーターを家庭用モーション検出器に変えます - 無料の Wi-Fi センシング機能が追加のハードウェアを必要とせずに RF 干渉を追跡します
 
@@ -6272,17 +6356,6 @@ Fire TVのラインナップは少し奇妙な段階に入りつつある。新�
 
 Redditの投稿（AFTVnews経由）によると、同社は、アプリがFire OS 16との互換性問題に遭遇する可能性がある開発者に電子メールを送り始…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2025/05/Insignia-Fire-TV.jpg" alt="Android 16を搭載した新しいFire TVデバイスが間もなく登場する可能性があります"></p>]]></description><source url="https://www.androidauthority.com/amazon-fire-os-android-16-launch-3700391/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2025/05/Insignia-Fire-TV.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2025/05/Insignia-Fire-TV.jpg"/></item>
 <item><title>Raspberry Pi Dances a Jig to Speed Up Mass Programming of Raspberry Pi Compute Module 5s</title><link>https://www.hackster.io/news/raspberry-pi-dances-a-jig-to-speed-up-mass-programming-of-raspberry-pi-compute-module-5s-dbfca30cc49e</link><guid isPermaLink="true">https://www.hackster.io/news/raspberry-pi-dances-a-jig-to-speed-up-mass-programming-of-raspberry-pi-compute-module-5s-dbfca30cc49e</guid><pubDate>Wed, 19 Aug 2026 11:06:58 +0000</pubDate><description><![CDATA[<p>Raspberry Pi Dances a Jig to Speed Up Mass Programming of Raspberry Pi Compute Module 5s</p>]]></description><source url="https://www.hackster.io/news/raspberry-pi-dances-a-jig-to-speed-up-mass-programming-of-raspberry-pi-compute-module-5s-dbfca30cc49e">Hackster.io</source></item>
-<item><title>優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ラップトップ: Asus ExpertBook PM5 G2 レビュー</title><link>https://www.notebookcheck.net/AMD-business-laptop-with-a-great-144-Hz-IPS-display-Asus-ExpertBook-PM5-G2-review.1368549.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/AMD-business-laptop-with-a-great-144-Hz-IPS-display-Asus-ExpertBook-PM5-G2-review.1368549.0.html</guid><pubDate>Wed, 19 Aug 2026 11:06:00 +0000</pubDate><description><![CDATA[<p>優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ラップトップ: Asus ExpertBook PM5 G2 レビュー
-
-AMD Ryzen AI 9 HX 470、Wi-Fi 7、144 Hz IPS ディスプレイを搭載した Asus ExpertBook PM5 G2 の Notebookcheck レビュー。
-
-評決 - ExpertBook PM5 G2 はバランスが悪いようです
-
-私たちのテストでは、新しい Asus ExpertBook PM5 G2 は複雑な印象を残しました。この大型の 16 インチ ビジネス ラップトップは見た目は洗練されていますが、アルミニウムのシャーシにはわずかにきしみ音が発生し、ヒンジが多少ぐらつきます。キーボードは快適でバックライト付きですが、大きな ClickPad の機械的なクリック感は少し安っぽく感じます。接続性とセキュリティ機能は十分であり、イーサネット ポートに加えて、最新の Wi-Fi 7 モジュールも含まれています。
-
-良好 (85%) ExpertBook PM5 G2 PM5606 AMD Ryzen AI 9 HX 470 AMD Radeon 890M Office - 08/13/2026 - v8 テスト デバイスは Asus Deutschland の厚意により提供 ライセンスされた評価画像を PNG / SVG としてダウンロード 内蔵 AMD Ryzen AI 9 HX 470 は、優れた安定したマルチコア パフォーマンスを提供しますが、プロセッサーの TDP が高い単一のクーラーに大きな負荷がかかるため、騒音が非常に大きくなる可能性があります。少なくとも Asus はより静かな電源プロファイルを提供しており、必要に応じてデバイスが全負荷でも非常に静かな状態を保つことができます。
-
-144 Hz のリフレッシュ レートを備えた内蔵のマット WQHD ディスプレイは優れた画質を提供し、この点で多くの競合他社よりも優れています。パネルは仕事に最適で、バッテリー寿命も非常に良好です。…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07.JPG" alt="優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ラップトップ: Asus ExpertBook PM5 G2 レビュー"></p>]]></description><source url="https://www.notebookcheck.net/AMD-business-laptop-with-a-great-144-Hz-IPS-display-Asus-ExpertBook-PM5-G2-review.1368549.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07.JPG" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07.JPG"/></item>
 <item><title>優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ノートパソコン: Asus ExpertBook PM5 G2 レビュー</title><link>https://www.notebookcheck.net/AMD-Business-Laptop-with-a-Great-144-Hz-IPS-Display-Asus-ExpertBook-PM5-G2-Review.1368549.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/AMD-Business-Laptop-with-a-Great-144-Hz-IPS-Display-Asus-ExpertBook-PM5-G2-Review.1368549.0.html</guid><pubDate>Wed, 19 Aug 2026 11:06:00 +0000</pubDate><description><![CDATA[<p>優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ノートパソコン: Asus ExpertBook PM5 G2 レビュー
 
 AMD Ryzen AI 9 HX 470、Wi-Fi 7、144 Hz IPS ディスプレイを搭載した Asus ExpertBook PM5 G2 の Notebookcheck レビュー。
@@ -6294,6 +6367,17 @@ AMD Ryzen AI 9 HX 470、Wi-Fi 7、144 Hz IPS ディスプレイを搭載した A
 良好 (85%) ExpertBook PM5 G2 PM5606 AMD Ryzen AI 9 HX 470 AMD Radeon 890M Office - 08/13/2026 - v8 テスト デバイスは Asus Deutschland の厚意により提供 ライセンスされた評価画像を PNG / SVG としてダウンロード 内蔵 AMD Ryzen AI 9 HX 470 は、優れた安定したマルチコア パフォーマンスを提供しますが、プロセッサーの TDP が高い単一のクーラーに大きな負荷がかかるため、騒音が非常に大きくなる可能性があります。少なくとも Asus はより静かな電源プロファイルを提供しており、必要に応じてデバイスが全負荷でも非常に静かな状態を保つことができます。
 
 144 Hz のリフレッシュ レートを備えた内蔵のマット WQHD ディスプレイは優れた画質を提供し、この点で多くの競合他社よりも優れています。パネルは仕事に最適で、バッテリー寿命も非常に良好です…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07.JPG" alt="優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ノートパソコン: Asus ExpertBook PM5 G2 レビュー"></p>]]></description><source url="https://www.notebookcheck.net/AMD-Business-Laptop-with-a-Great-144-Hz-IPS-Display-Asus-ExpertBook-PM5-G2-Review.1368549.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07.JPG" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07.JPG"/></item>
+<item><title>優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ラップトップ: Asus ExpertBook PM5 G2 レビュー</title><link>https://www.notebookcheck.net/AMD-business-laptop-with-a-great-144-Hz-IPS-display-Asus-ExpertBook-PM5-G2-review.1368549.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/AMD-business-laptop-with-a-great-144-Hz-IPS-display-Asus-ExpertBook-PM5-G2-review.1368549.0.html</guid><pubDate>Wed, 19 Aug 2026 11:06:00 +0000</pubDate><description><![CDATA[<p>優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ラップトップ: Asus ExpertBook PM5 G2 レビュー
+
+AMD Ryzen AI 9 HX 470、Wi-Fi 7、144 Hz IPS ディスプレイを搭載した Asus ExpertBook PM5 G2 の Notebookcheck レビュー。
+
+評決 - ExpertBook PM5 G2 はバランスが悪いようです
+
+私たちのテストでは、新しい Asus ExpertBook PM5 G2 は複雑な印象を残しました。この大型の 16 インチ ビジネス ラップトップは見た目は洗練されていますが、アルミニウムのシャーシにはわずかにきしみ音が発生し、ヒンジが多少ぐらつきます。キーボードは快適でバックライト付きですが、大きな ClickPad の機械的なクリック感は少し安っぽく感じます。接続性とセキュリティ機能は十分であり、イーサネット ポートに加えて、最新の Wi-Fi 7 モジュールも含まれています。
+
+良好 (85%) ExpertBook PM5 G2 PM5606 AMD Ryzen AI 9 HX 470 AMD Radeon 890M Office - 08/13/2026 - v8 テスト デバイスは Asus Deutschland の厚意により提供 ライセンスされた評価画像を PNG / SVG としてダウンロード 内蔵 AMD Ryzen AI 9 HX 470 は、優れた安定したマルチコア パフォーマンスを提供しますが、プロセッサーの TDP が高い単一のクーラーに大きな負荷がかかるため、騒音が非常に大きくなる可能性があります。少なくとも Asus はより静かな電源プロファイルを提供しており、必要に応じてデバイスが全負荷でも非常に静かな状態を保つことができます。
+
+144 Hz のリフレッシュ レートを備えた内蔵のマット WQHD ディスプレイは優れた画質を提供し、この点で多くの競合他社よりも優れています。パネルは仕事に最適で、バッテリー寿命も非常に良好です。…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07.JPG" alt="優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ラップトップ: Asus ExpertBook PM5 G2 レビュー"></p>]]></description><source url="https://www.notebookcheck.net/AMD-business-laptop-with-a-great-144-Hz-IPS-display-Asus-ExpertBook-PM5-G2-review.1368549.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07.JPG" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07.JPG"/></item>
 <item><title>シンプルな DIY STM32 オシロスコープ プロジェクト</title><link>https://hackaday.com/2026/08/19/simple-diy-stm32-oscilloscope-project/</link><guid isPermaLink="true">https://hackaday.com/2026/08/19/simple-diy-stm32-oscilloscope-project/</guid><pubDate>Wed, 19 Aug 2026 11:00:26 +0000</pubDate><description><![CDATA[<p>シンプルな DIY STM32 オシロスコープ プロジェクト
 
 STM32 ベースのオシロスコープ開発シリーズのパート 1 では、[BTTLab] が STM32F207 MCU の内蔵 ADC を使用して簡単な単一オシロスコープを開発する方法を示します。
@@ -7006,88 +7090,4 @@ Kindle Oasis をお持ちの場合は、電子書籍を読んだり、新しい�
 KFX-ZIP は、Amazon Kindle で使用される電子書籍コンテナ形式です。 Kindle Format 10 (KFX) ファイルとそのメタデータを zip フォルダーにパッケージ化します。最近の Kindle デバイスのファームウェアとデスクトップ アプリのアップデートでは、これらのファイルにさらに厳格な暗号化が適用され、Calibre などのツールを使用した標準的な個人バックアップやサードパーティのフォーマット変換が困難またはブロックされています。新しい KFX フォーマットが悪いわけではありません。タイポグラフィーやページの忠実度の向上などの高度な機能を備えています。
 
 Amazon が新しい DRM 変更を実装する前、Amazon は電子書籍を KFX ファイル…</p><p><img src="https://media.goodereader.com/blog/uploads/images/2026/08/19011454/kindle_b00vindbjk_oasis_6_ereader_merlot_1247034.jpg" alt="Amazon Kindle Oasis に新しい書籍暗号化システムが追加されました"></p>]]></description><source url="https://goodereader.com/blog/kindle/amazon-kindle-oasis-now-has-new-encryption-system">Good e-Reader</source><media:content url="https://media.goodereader.com/blog/uploads/images/2026/08/19011454/kindle_b00vindbjk_oasis_6_ereader_merlot_1247034.jpg" medium="image"/><media:thumbnail url="https://media.goodereader.com/blog/uploads/images/2026/08/19011454/kindle_b00vindbjk_oasis_6_ereader_merlot_1247034.jpg"/></item>
-<item><title>Joy-Cons Plus WiiMotes for Switch 2 Wii-Cons</title><link>https://hackaday.com/2026/08/18/joy-cons-plus-wiimotes-make-for-switch-2-wii-cons/</link><guid isPermaLink="true">https://hackaday.com/2026/08/18/joy-cons-plus-wiimotes-make-for-switch-2-wii-cons/</guid><pubDate>Wed, 19 Aug 2026 05:00:54 +0000</pubDate><description><![CDATA[<p>Joy-Cons Plus WiiMotes for Switch 2 Wii-Cons
-
-Nintendo Switch とその続編は人気がありますが、非常に特殊な形状の手を持つ人を除けば、そのクリック式 Joy-Con コントローラーが人間工学に基づいていることには異論の余地がありません。この思いと…
-
-Nintendo Switch とその続編は人気がありますが、非常に特殊な形状の手を持つ人を除けば、そのクリック式 Joy-Con コントローラーが人間工学に基づいていることには異論の余地がありません。この考えと Wii コントローラーの積み重ねにより、[KOUZEX] は Joy-Con と WiiMotes を統合して、愛情を込めて Wii-Con、またはおそらく JoyMotes と呼ぶことができるものにするという狂ったプロジェクトに導かれました。
-
-これはあまりクリーンまたは簡単な MOD ではないと言えば十分であり、カスタム PCB と 3D プリントされたシェルの方がはるかに簡単だったという点は間違いなく主張できます。 WiiMote の PCB を単純に廃棄せずに、Joy-Con のサイド レール、サム スティック、PCB 用のスペースを作るのは難しい課題でした。これら 2 つの WiiMote は、二度と Wii に接続することはありません。
-
-WiiMote の形をした Joy-Con は、これだけの作業を経てかなりうまく機能しましたが、WiiMote に一致しない Joy-Con ボタンを再マッピングするという問題は、おそらく最大の悩みの種でした。ここでカスタム バージョンは、ボタン レイアウトをより詳細に制御できるため、また、WiiCon を製造するために減り続ける WiiMotes の供給を継続する必要がないという点で、かなり役立つ可能性があります。 WiiMote のすべての機能をそのままにして、次にオリジナルの Wii で豪華な Joy-Con を使ってゲームをプレイするときに、人々の心を驚かせることもできるかもしれません。</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/wiimote_joycon_combo_kouzex_youtube.jpg" alt="Joy-Cons Plus WiiMotes for Switch 2 Wii-Cons"></p>]]></description><source url="https://hackaday.com/2026/08/18/joy-cons-plus-wiimotes-make-for-switch-2-wii-cons/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/wiimote_joycon_combo_kouzex_youtube.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/wiimote_joycon_combo_kouzex_youtube.jpg"/></item>
-<item><title>GTA 6 gameplay leaks ahead of its big reveal, showcasing full map, six-star wanted level, and more</title><link>https://www.tweaktown.com/rss/click/news/113160/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113160/?c=news-mf</guid><pubDate>Wed, 19 Aug 2026 04:56:10 +0000</pubDate><description><![CDATA[<p>GTA 6 gameplay leaks ahead of its big reveal, showcasing full map, six-star wanted level, and more</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113160/?c=news-mf">TweakTown</source></item>
-<item><title>Google は一部の Pixel Watch 所有者を怖がらせただけですが、良いニュースがあります</title><link>https://www.androidauthority.com/google-pixel-watch-health-sync-warning-bug-3700145/</link><guid isPermaLink="true">https://www.androidauthority.com/google-pixel-watch-health-sync-warning-bug-3700145/</guid><pubDate>Wed, 19 Aug 2026 04:39:21 +0000</pubDate><description><![CDATA[<p>Google は一部の Pixel Watch 所有者を怖がらせただけですが、良いニュースがあります
-
-Googleは今回、この警告はバグによって引き起こされたものであり、従来のPixel WatchとFitbitデバイスは引き続き完全にサポートされることを明らかにした。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Google は一部の Pixel Watch 所有者を怖がらせましたが、良いニュースがあります
-
-0 • Rita El Khoury / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR 第一世代 Pixel Watch 所有者の中には、時計が Google Health 同期サポートを失うことを示唆する警告を目にした人もいます。
-
-Googleは今回、この警告がバグによって引き起こされたものであることを明らかにし、従来のPixel WatchとFitbitデバイスが引き続き完全にサポートされていることを確認した。
-
-Google Health では、Pixel Watch やその他の Wear OS デバイスでは Wear OS 4 以降が必要ですが、Google はすでに誤った警告を修正しています。
-
-昨日、第 1 世代の Pixel Watch 所有者の中には、スマートウォッチが Google Health 同期のサポートを失うことを示唆する警告を見て、ひどいショックを受けた人もいました。人々はRedditでGoogleの想定される動きに対する懸念と不満を表明した。ただし、同社は警告が誤って表示されたことと、オリジナルの Pixel Watch が引き続きサポートされていることを確認しました。
-
-オリジナルの Pixel Watch が数年前に発売され、ずっと前に新しい世代に置き換えられていることを考えると、この警告の文言は特に憂慮すべきものでした。
-
-Reddit ありがたいことに…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2023/04/google-pixel-watch-1-scaled.jpg" alt="Google は一部の Pixel Watch 所有者を怖がらせただけですが、良いニュースがあります"></p>]]></description><source url="https://www.androidauthority.com/google-pixel-watch-health-sync-warning-bug-3700145/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2023/04/google-pixel-watch-1-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2023/04/google-pixel-watch-1-scaled.jpg"/></item>
-<item><title>Googlebook が 9 月 15 日についに重大発表される</title><link>https://www.androidauthority.com/googlebook-launch-date-3700141/</link><guid isPermaLink="true">https://www.androidauthority.com/googlebook-launch-date-3700141/</guid><pubDate>Wed, 19 Aug 2026 03:57:32 +0000</pubDate><description><![CDATA[<p>Googlebook が 9 月 15 日についに重大発表される
-
-Googleは9月15日にニューヨーク市で公式Googlebook発売イベントを開催し、発売パートナーのハードウェアを展示すると報じられている。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Googlebook が 9 月 15 日についに重大発表される
-
-0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google は、9 月 15 日にニューヨーク市で Googlebook の発売イベントを開催すると報じられています。
-
-このイベントでは、私たちが「Aluminum OS」と呼んできたAndroidベースのオペレーティングシステムの正式名がついに明らかになるかもしれない。
-
-Googleはまた、発売パートナーのハードウェアを展示し、メディアに最初のGooglebookへの実際のアクセスを提供すると予想されている。
-
-Lenovo 、 Acer 、 ASUS などから Googlebook デバイスの複数のリークがあった後、Google が新しいラップトップ プラットフォームを正式に発表し、これまで Aluminium OS として知られていた基盤ソフトウェアの名前を明らかにする予定の日付がついに決まりました。
-
-Chrome Unboxed によると、Google は 2026 年 9 月 15 日にニューヨーク市で開催される対面の Googlebook プレビュー イベントにメディアを招待しました。このイベントは完全なハードウェアのショーケースとなる予定で、Google の Android ベースのラップトップ プラットフォームと、それに搭載されて発売されるデバイスを初めて公式に見ることができます。
-
-Google は 5 月に、Android テクノロジー スタックに基づいて構築された新しいカテゴリのプレミアム ラップトップとして Googlebooks …</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/05/googlebook-name-on-laptop-official-logo.jpg" alt="Googlebook が 9 月 15 日についに重大発表される"></p>]]></description><source url="https://www.androidauthority.com/googlebook-launch-date-3700141/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/05/googlebook-name-on-laptop-official-logo.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/05/googlebook-name-on-laptop-official-logo.jpg"/></item>
-<item><title>igor’sLAB SSD Next – 新しいオールインワン テスト ソフトウェア スイートと SSD が単なるベンチマーク数値以上のものである理由 (ダウンロード)</title><link>https://www.igorslab.de/en/igorslab-ssd-next-review-why-an-ssd-is-more-than-four-big-benchmark-numbers-with-download/</link><guid isPermaLink="true">https://www.igorslab.de/en/igorslab-ssd-next-review-why-an-ssd-is-more-than-four-big-benchmark-numbers-with-download/</guid><pubDate>Wed, 19 Aug 2026 03:30:50 +0000</pubDate><description><![CDATA[<p>igor’sLAB SSD Next – 新しいオールインワン テスト ソフトウェア スイートと SSD が単なるベンチマーク数値以上のものである理由 (ダウンロード)
-
-SSD Next 1.0.72 は、コンテキスト チェック、pSLC、ビデオ期限、アプリケーション モデル、履歴、経年分析、PDF エクスポートを備えた Windows SSD テスト スイートです。
-
-igor’sLAB SSD Next 1.0.72 は、合成ベンチマーク、長時間書き込みテスト、テレメトリ ツール、スクリプト、スプレッドシートの断片化されたワークフローを置き換えるように設計された Windows ベースのオールインワン SSD テスト スイートです。その中心的なテーマは、SSD はいくつかの短いスループットの数値だけでは確実に特徴づけることはできないということです。つまり、測定セマンティクス、キャッシュ動作、温度、リンク状態、ホスト制限、レイテンシー、継続的な書き込み、再現性は常に可視化され、バージョン管理されている必要があります。
-
-提供されたソースには、SSD ハードウェアの分解、PCB、VRM、クーラー、サーマル インターフェイス、顕微鏡検査、LIBS、または材料分析の結果は含まれていません。したがって、ハードウェア構築に関する結論は含まれていません。
-
-SSD Next は、整列されたバッファー、明示的なオフセット、OVERLAPPED I/O および I/O 完了ポートを備えたダイレクト I/O を使用します。測定される I/O 間隔は、最初の送信から最後の完了までであり、バッファー、ハンドル、ワーカーの準備は含まれません。
-
-このスイートは、Windows 書き込みキャッシュの無効化を試行し、キャッシュ状態を記録し、状態の正規化と ReTRIM を実行し、サーマル リカバリをサポートします。方法論的に必要な ReTRIM が失敗した場合、状態遷移は黙って無視されるのではなく中止されます。
-
-ホストとエンジンの制限はアクティブにチェックされます。たとえば、Q32T16 は…</p><p><img src="https://www.igorslab.de/wp-content/uploads/2026/08/Teaser-1.jpg" alt="igor’sLAB SSD Next – 新しいオールインワン テスト ソフトウェア スイートと SSD が単なるベンチマーク数値以上のものである理由 (ダウンロード)"></p>]]></description><source url="https://www.igorslab.de/en/igorslab-ssd-next-review-why-an-ssd-is-more-than-four-big-benchmark-numbers-with-download/">igor&#39;sLAB</source><media:content url="https://www.igorslab.de/wp-content/uploads/2026/08/Teaser-1.jpg" medium="image"/><media:thumbnail url="https://www.igorslab.de/wp-content/uploads/2026/08/Teaser-1.jpg"/></item>
-<item><title>NXP MCX A5 Cortex-M33 MCU ファミリは、10BASE-T1S シングル ペア イーサネットおよびポスト量子暗号化をサポートします</title><link>https://www.cnx-software.com/2026/08/19/nxp-mcx-a5-cortex-m33-mcu-family-supports-10base-t1s-single-pair-ethernet-and-post-quantum-cryptography/</link><guid isPermaLink="true">https://www.cnx-software.com/2026/08/19/nxp-mcx-a5-cortex-m33-mcu-family-supports-10base-t1s-single-pair-ethernet-and-post-quantum-cryptography/</guid><pubDate>Wed, 19 Aug 2026 02:44:59 +0000</pubDate><description><![CDATA[<p>NXP MCX A5 Cortex-M33 MCU ファミリは、10BASE-T1S シングル ペア イーサネットおよびポスト量子暗号化をサポートします
-
-NXP は、10/100Mbps イーサネット MAC と統合 10BASE-T1S シングル ペア イーサネットを備えた Cortex-M33 MCU の MCX A5 ファミリを発表しました。
-
-NXP は、10/100Mbps イーサネット MAC と統合された 10BASE-T1S シングル ペア イーサネット デジタル PHY を備えた Cortex-M33 MCU の MCX A5 ファミリを発表しました。コントローラー、PLC、リモート I/O、ビルディングおよびエネルギー管理システム、その他の接続されたエッジ デバイスなどの産業およびネットワーク アプリケーションを対象としています。
-
-MCU は最大 240 MHz で動作し、最大 2 MB のデュアルバンク フラッシュと 640 KB SRAM に加え、複数の通信インターフェイスとアナログ周辺機器を備えています。セキュリティ機能には、EdgeLock アクセラレータ、PQC ハイブリッド サポートによるセキュア ブート、セキュアなファームウェア アップデート、ライフサイクル管理、セキュアなデバッグ、外部フラッシュ暗号化、および改ざん防止監視が含まれます。
-
-NXP MCX A5 シリーズ (MCXA577) 仕様:
-
-MCU コア Arm Cortex-M33 コアは最大 240 MHz でクロック動作
-
-FPU、DSP、MPU、TrustZone のサポートを含む
-
-効率的なデータ処理のための統合された SmartDMA コプロセッサ
-
-988.8 CoreMark (4.12 CoreMark/MHz) を実現
-
-メモリとストレージ ECC および書き込み中読み取りサポート付きの最大 2 MB デュアルバンク フラッシュ
-
-最大 640 KB SRAM、ECC 付きで最大 64 KB RAM として構成可能
-
-VBAT モードまで 24 KB …</p><p><img src="https://www.cnx-software.com/wp-content/uploads/2026/08/NXP-MCX-A5-Series-Cortex-M33-MCUs.jpg" alt="NXP MCX A5 Cortex-M33 MCU ファミリは、10BASE-T1S シングル ペア イーサネットおよびポスト量子暗号化をサポートします"></p>]]></description><source url="https://www.cnx-software.com/2026/08/19/nxp-mcx-a5-cortex-m33-mcu-family-supports-10base-t1s-single-pair-ethernet-and-post-quantum-cryptography/">CNX Software</source><media:content url="https://www.cnx-software.com/wp-content/uploads/2026/08/NXP-MCX-A5-Series-Cortex-M33-MCUs.jpg" medium="image"/><media:thumbnail url="https://www.cnx-software.com/wp-content/uploads/2026/08/NXP-MCX-A5-Series-Cortex-M33-MCUs.jpg"/></item>
 </channel></rss>
