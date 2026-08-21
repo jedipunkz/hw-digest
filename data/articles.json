@@ -748,15 +748,6 @@
       "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/08/97b06e14a2efe926e18eb7cbb62cdda5.webp"
     },
     {
-      "Title": "OpenAI、企業向けデータ即時削除を強化する新安全技術",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/2134407.html",
-      "Published": "2026-08-21T02:00:35Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "OpenAI、企業向けデータ即時削除を強化する新安全技術\n\n企業がOpenAIのサービスを利用しやすくなる。米OpenAIは8月19日、フロンティアモデルにおいて、Zero Data Retentionによるプライバシー保護を維持しつつ、より複雑なタスクでの安全性を高める仕組み「Private Safety Processing」を発表した。\n\n企業がOpenAIのサービスを利用しやすくなる。米OpenAIは8月19日、フロンティアモデルにおいて、Zero Data Retentionによるプライバシー保護を維持しつつ、より複雑なタスクでの安全性を高める仕組み「Private Safety Processing」を発表した。\n\nZero Data Retention(ZDR)は、OpenAIが対象のAPIユーザー向けに提供しているプライバシー保護の仕組み。ユーザーからのリクエストを処理した後、プロンプトやモデルからの応答を保持しないよう取り決めるもので、法律(CSAM)に基づく手動レビューの例外を除き、OpenAIの担当者によるレビューは行なわれず、オプトインしない限りエンタープライズ顧客のデータは学習には利用されない。\n\nPrivate Safety Processingは、ZDRを始めとした自動保護機能をベースとした新たな仕組み。ZDRが個々のやり取りを評価するのに対し、Private Safety Processingでは関連するやり取り全体へ対象を拡大する。システムが自動でリスクを特定することでプライバシーを守りつつ、より長く複雑なタスクでのAI利用における安全性を高める。\n\nリスクが自動特定されると、OpenAIはアクティビティの種類を示す最小限のシグナルを受信し、それを対処の要否判断に活用する。なお、OpenAI側はコンテンツの内容にはアクセスできない仕様となっている。\n\n現在この機能は、一部の顧客を対象とした初期テストが実施されており、9月には展開予定だとしている。",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2134/407/01.jpg"
-    },
-    {
       "Title": "税込52,980円、PowerColor「Reaper AMD Radeon RX 9050 8GB GDDR6」発売",
       "Link": "https://www.gdm.or.jp/pressrelease/2026/0821/648856",
       "Published": "2026-08-21T02:00:35Z",
@@ -764,6 +755,15 @@
       "Category": "",
       "Summary": "税込52,980円、PowerColor「Reaper AMD Radeon RX 9050 8GB GDDR6」発売\n\nPowerColorから、AMD Radeon RX 9050を搭載するグラフィックスカード「Reaper AMD Radeon RX 9050 8GB GDDR6」が登場。90mmデュアルファンを搭載し、市場想定価格は税込52,980円。\n\n税込52,980円、PowerColor「Reaper AMD Radeon RX 9050 8GB GDDR6」発売\n\n90mmデュアルファンを搭載、カード長220mmのコンパクト設計\n\n株式会社アユート（本社：東京都文京区）は2026年8月21日、 PowerColor「Reaper AMD Radeon RX 9050 8GB GDDR6」（型番：RX9050 8G-A） について、国内市場での新規取り扱い開始を発表。即日販売を開始した。市場想定価格は税込52,980円。\n\nAMD RDNA 4アーキテクチャを採用する「Radeon RX 9050」を搭載した、ゲーミングシリーズ「Reaper」のグラフィックスカード。ストリームプロセッサは1,024基で、動作クロックはゲームクロック1,920MHz、ブーストクロック2,600MHz。グラフィックスメモリには18Gbps動作のGDDR6 8GBを搭載する。なおメモリバス幅は128bit。\n\n冷却機構には、9枚のブレードをリング状に連結した独自設計の90mmファンを2基搭載。軸受けには日本メーカー製デュアルボールベアリングを採用し、冷却性能と耐久性を高めている。\n\nまた、GPU温度が60℃に達するとファンが回転を開始し、50℃を下回ると停止する「インテリジェント・ファン・コントローラー」にも対応。ニッケルメッキ処理を施した銅製ベースとヒートパイプにより、GPUおよびメモリの熱を効率よく伝達する。背面には基板の歪みを抑えながら排熱にも配慮した金属製バックプレートを備えた。\n\nバスインターフェースはPCI Express 5.0 x16、映像出力端子がHDMI …",
       "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/08/20/RX9050-8G-A_001.jpg"
+    },
+    {
+      "Title": "OpenAI、企業向けデータ即時削除を強化する新安全技術",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2134407.html",
+      "Published": "2026-08-21T02:00:35Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "OpenAI、企業向けデータ即時削除を強化する新安全技術\n\n企業がOpenAIのサービスを利用しやすくなる。米OpenAIは8月19日、フロンティアモデルにおいて、Zero Data Retentionによるプライバシー保護を維持しつつ、より複雑なタスクでの安全性を高める仕組み「Private Safety Processing」を発表した。\n\n企業がOpenAIのサービスを利用しやすくなる。米OpenAIは8月19日、フロンティアモデルにおいて、Zero Data Retentionによるプライバシー保護を維持しつつ、より複雑なタスクでの安全性を高める仕組み「Private Safety Processing」を発表した。\n\nZero Data Retention(ZDR)は、OpenAIが対象のAPIユーザー向けに提供しているプライバシー保護の仕組み。ユーザーからのリクエストを処理した後、プロンプトやモデルからの応答を保持しないよう取り決めるもので、法律(CSAM)に基づく手動レビューの例外を除き、OpenAIの担当者によるレビューは行なわれず、オプトインしない限りエンタープライズ顧客のデータは学習には利用されない。\n\nPrivate Safety Processingは、ZDRを始めとした自動保護機能をベースとした新たな仕組み。ZDRが個々のやり取りを評価するのに対し、Private Safety Processingでは関連するやり取り全体へ対象を拡大する。システムが自動でリスクを特定することでプライバシーを守りつつ、より長く複雑なタスクでのAI利用における安全性を高める。\n\nリスクが自動特定されると、OpenAIはアクティビティの種類を示す最小限のシグナルを受信し、それを対処の要否判断に活用する。なお、OpenAI側はコンテンツの内容にはアクセスできない仕様となっている。\n\n現在この機能は、一部の顧客を対象とした初期テストが実施されており、9月には展開予定だとしている。",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2134/407/01.jpg"
     },
     {
       "Title": "【8/21発売】AUDEZEから驚異的なレスポンスを誇る新開発ドライバーを搭載したヘッドホン LCD-5s が登場！",
@@ -1045,15 +1045,6 @@
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2134/302/1.jpg"
     },
     {
-      "Title": "【プレゼントコーナー】PC Watch創刊30周年特別プレゼント企画【EIZO製34.1型ウルトラワイド湾曲モニター「FlexScan EV3451X」】 - PC Watch",
-      "Link": "https://pc.watch.impress.co.jp/docs/topic/present/2132433.html",
-      "Published": "2026-08-20T21:00:00Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "【プレゼントコーナー】PC Watch創刊30周年特別プレゼント企画【EIZO製34.1型ウルトラワイド湾曲モニター「FlexScan EV3451X」】 - PC Watch\n\nおかげさまでPC Watchは創刊から30周年を迎えることができました。これもひとえに読者の皆様、ならびにメーカー各社様からのご支援の賜物です。\n\nPC Watch創刊30周年特別プレゼント企画【EIZO製34.1型ウルトラワイド湾曲モニター「FlexScan EV3451X」】\n\nおかげさまでPC Watchは創刊から30周年を迎えることができました。これもひとえに読者の皆様、ならびにメーカー各社様からのご支援の賜物です。\n\nPC Watch創刊30周年を記念し、EIZO様より弊誌読者プレゼント用に、モニターで世界初となる7年間標準保証を実現した34.1型ウルトラワイド湾曲モニター「FlexScan EV3451X」を1台ご提供いただきました。ふるってご応募ください。\n\nFlexScan EV3451Xは、9月18日新発売の34.1型ウルトラワイド湾曲モニターです。高品質・高信頼性を追求し、モニターで世界初※となる7年間標準保証を実現しました。広大な表示領域に加え、USB Type-C給電(最大94W)、有線LAN端子、KVM機能を搭載し、オフィスやテレワークの生産性向上に貢献。ひろびろ使える大画面と長期保証を兼ね備えた、ビジネスユーザーに最適な新しいEIZOのウルトラワイドモニターです。\n\n応募は、 EIZOの公式X(旧Twitter)アカウントをフォロー の上、下記のフォームから申し込みを行なってください。\n\n応募方法 :上記の条件を満たした上で、下記リンクの応募フォームに必要事項を入力して送信してください 応募締切 : 2026年8月27日(木) 12:00まで",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/433/1.jpg"
-    },
-    {
       "Title": "【福田昭のセミコン業界最前線】NVIDIA、IBM、Intelらが最新CPU/GPUをHot Chipsで技術解説",
       "Link": "https://pc.watch.impress.co.jp/docs/column/semicon/2134111.html",
       "Published": "2026-08-20T21:00:00Z",
@@ -1061,6 +1052,15 @@
       "Category": "",
       "Summary": "【福田昭のセミコン業界最前線】NVIDIA、IBM、Intelらが最新CPU/GPUをHot Chipsで技術解説\n\n高性能プロセッサの最新技術を披露する国際学会「Hot Chips」の開催が迫ってきた。前年と同様に、リアル開催とバーチャル開催のハイブリッドイベントとして開催される。開催時期は2026年8月23日から25日、リアル開催の場所は前年と同じ米国カリフォルニア州パロアルトのスタンフォード大学である。\n\nNVIDIA、IBM、Intelらが最新CPU/GPUをHot Chipsで技術解説\n\nメモリ技術の講座では著名アナリストや半導体メモリ大手3社などが講演\n\nRISC-V技術の講座では標準規格更新、GPU連携、自動車用途などの講演を予定\n\nカンファレンス初日午前: IBM、Intel、NVIDIAが最新のCPU技術を公表\n\nカンファレンス初日午後: 自動車とGPUの研究開発成果が相次ぐ\n\nカンファレンス2日目午前: AI推論向けコンピューティングインメモリ\n\nカンファレンス2日目午後: Meta、NVIDIA、GoogleなどがAIチップを披露\n\n高性能プロセッサの最新技術を披露する国際学会「Hot Chips」の開催が迫ってきた。 前年 と同様に、リアル開催とバーチャル開催のハイブリッドイベントとして開催される。開催時期は2026年8月23日から25日、リアル開催の場所は前年と同じ米国カリフォルニア州パロアルトのスタンフォード大学である。\n\n現地開催の基本的なスケジュールは前年と変わらない。初日(8月23日)がチュートリアル(技術講座)、中日(8月24日)と最終日(8月25日)はカンファレンス(技術講演会)と基調講演、ポスター発表である。また日曜と月曜は夕方あるいは夜にレセプション(歓迎会)を予定する。\n\nHot Chipsは、リアル参加とバーチャル参加で登録料金…",
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2134/111/photo001.jpg"
+    },
+    {
+      "Title": "【プレゼントコーナー】PC Watch創刊30周年特別プレゼント企画【EIZO製34.1型ウルトラワイド湾曲モニター「FlexScan EV3451X」】 - PC Watch",
+      "Link": "https://pc.watch.impress.co.jp/docs/topic/present/2132433.html",
+      "Published": "2026-08-20T21:00:00Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "【プレゼントコーナー】PC Watch創刊30周年特別プレゼント企画【EIZO製34.1型ウルトラワイド湾曲モニター「FlexScan EV3451X」】 - PC Watch\n\nおかげさまでPC Watchは創刊から30周年を迎えることができました。これもひとえに読者の皆様、ならびにメーカー各社様からのご支援の賜物です。\n\nPC Watch創刊30周年特別プレゼント企画【EIZO製34.1型ウルトラワイド湾曲モニター「FlexScan EV3451X」】\n\nおかげさまでPC Watchは創刊から30周年を迎えることができました。これもひとえに読者の皆様、ならびにメーカー各社様からのご支援の賜物です。\n\nPC Watch創刊30周年を記念し、EIZO様より弊誌読者プレゼント用に、モニターで世界初となる7年間標準保証を実現した34.1型ウルトラワイド湾曲モニター「FlexScan EV3451X」を1台ご提供いただきました。ふるってご応募ください。\n\nFlexScan EV3451Xは、9月18日新発売の34.1型ウルトラワイド湾曲モニターです。高品質・高信頼性を追求し、モニターで世界初※となる7年間標準保証を実現しました。広大な表示領域に加え、USB Type-C給電(最大94W)、有線LAN端子、KVM機能を搭載し、オフィスやテレワークの生産性向上に貢献。ひろびろ使える大画面と長期保証を兼ね備えた、ビジネスユーザーに最適な新しいEIZOのウルトラワイドモニターです。\n\n応募は、 EIZOの公式X(旧Twitter)アカウントをフォロー の上、下記のフォームから申し込みを行なってください。\n\n応募方法 :上記の条件を満たした上で、下記リンクの応募フォームに必要事項を入力して送信してください 応募締切 : 2026年8月27日(木) 12:00まで",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2132/433/1.jpg"
     },
     {
       "Title": "AMD Software: Adrenalin Edition 26.8.1公開。CoD:MW4ベータやRadeon RX 9050 4GBをサポート",
@@ -1909,13 +1909,13 @@
       "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/08/20/440e6ef793ad49d03b3f80ec7d04127c.jpg"
     },
     {
-      "Title": "【Hothotレビュー】Pixel Watch 5はバッテリが2日以上も持つ！速度20%アップ、GPS精度は倍に",
-      "Link": "https://pc.watch.impress.co.jp/docs/column/hothot/2134040.html",
+      "Title": "【Hothotレビュー】Pixel 11を試して分かったカメラの進化。全機種3眼、Proの120倍ズームは買いか？",
+      "Link": "https://pc.watch.impress.co.jp/docs/column/hothot/2133962.html",
       "Published": "2026-08-19T16:00:00Z",
       "Source": "PC Watch",
       "Category": "",
-      "Summary": "【Hothotレビュー】Pixel Watch 5はバッテリが2日以上も持つ！速度20%アップ、GPS精度は倍に\n\nGoogle製スマートウォッチの最新モデル「Pixel Watch 5」が、8月20日に発売された。同じGoogleの「Pixel」シリーズのスマホユーザーだけでなく、Androidスマホユーザーの多くが高い関心を持つPixel Watchだが、Pixel Watch 5ではどのような点が変わったのか、気になる人も多いことだろう。\n\nPixel Watch 5はバッテリが2日以上も持つ！速度20%アップ、GPS精度は倍に\n\nGoogle製スマートウォッチの最新モデル「Pixel Watch 5」が、8月20日に発売された。同じGoogleの「Pixel」シリーズのスマホユーザーだけでなく、Androidスマホユーザーの多くが高い関心を持つPixel Watchだが、Pixel Watch 5ではどのような点が変わったのか、気になる人も多いことだろう。\n\n発売前の実機をお借りしたので、前機種「Pixel Watch 4」との比較を中心に、その内容と実力を可能な限り検証をしてみた。あくまで短時間での検証となるため、主要な機能に絞ったレビューであることはご留意いただきたい。\n\n外観デザインとサイズは前機種「Pixel Watch 4」を踏襲\n\n「Snapdragon W5 Gen 2高性能版」とメモリ3GBで動作がより快適に\n\n片手操作を可能にする新規ジェスチャーと「Gemini」の本格連携\n\n新宿の高層ビル群で検証！GPS精度はPixel Watch 4から2倍に\n\n45mmモデルで実測！2日以上のバッテリ駆動と急速充電の実力\n\nまずはハードウェアに関してだが、実はPixel Watch 5の外観は、Pixel Watch 4とほぼ変わっていない。実際、Pixel…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2134/040/P1572038.jpg"
+      "Summary": "【Hothotレビュー】Pixel 11を試して分かったカメラの進化。全機種3眼、Proの120倍ズームは買いか？\n\nGoogleは、最新スマートフォン「Google Pixel 11」(以下、Pixel 11)シリーズを発表した。従来同様、スレートモデルとしてPixel 11、Pixel 11 Pro、Pixel 11 Pro XLの3モデルと、折りたたみモデルのPixel 11 Pro Foldの4モデルをラインナップしており、全モデルとも日本で発売となる。\n\nPixel 11を試して分かったカメラの進化。全機種3眼、Proの120倍ズームは買いか？\n\nGoogleは、最新スマートフォン「Google Pixel 11」(以下、Pixel 11)シリーズを発表した。従来同様、スレートモデルとしてPixel 11、Pixel 11 Pro、Pixel 11 Pro XLの3モデルと、折りたたみモデルのPixel 11 Pro Foldの4モデルをラインナップしており、全モデルとも日本で発売となる。\n\n別記事で外観やディスプレイまわりなどをチェックしたが、本稿ではカメラ周りやAI関連機能、Pixel 11シリーズで搭載された新機能などを紹介する。\n\nなお、試用機は発売前の評価機のため、ベンチマークテストは行なえず、製品版とは仕様が異なる部分が存在する可能性がある点はご了承願いたい。\n\n超解像ズームProは画質が向上も、やはり仕上がった画像を写真とするには厳しい\n\nそれでは、カメラ周りを見ていこう。以下の表は、それぞれが搭載するカメラの仕様をまとめたもので、赤文字となっている部分がPixel 10シリーズから強化されている点だ。\n\nPixel 11シリーズでは、従来モデルから引き続き全モデルが超広角、広角、望遠の3眼仕様の背面カメラを搭載している。ただ、その仕様はモデルごとに…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2133/962/01.jpg"
     },
     {
       "Title": "【Hothotレビュー】200g切りの無印か、超高輝度のProか？「Pixel 11」最新モデルを実機で徹底比較！",
@@ -1927,13 +1927,13 @@
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2133/898/01.jpg"
     },
     {
-      "Title": "【Hothotレビュー】Pixel 11を試して分かったカメラの進化。全機種3眼、Proの120倍ズームは買いか？",
-      "Link": "https://pc.watch.impress.co.jp/docs/column/hothot/2133962.html",
+      "Title": "【Hothotレビュー】Pixel Watch 5はバッテリが2日以上も持つ！速度20%アップ、GPS精度は倍に",
+      "Link": "https://pc.watch.impress.co.jp/docs/column/hothot/2134040.html",
       "Published": "2026-08-19T16:00:00Z",
       "Source": "PC Watch",
       "Category": "",
-      "Summary": "【Hothotレビュー】Pixel 11を試して分かったカメラの進化。全機種3眼、Proの120倍ズームは買いか？\n\nGoogleは、最新スマートフォン「Google Pixel 11」(以下、Pixel 11)シリーズを発表した。従来同様、スレートモデルとしてPixel 11、Pixel 11 Pro、Pixel 11 Pro XLの3モデルと、折りたたみモデルのPixel 11 Pro Foldの4モデルをラインナップしており、全モデルとも日本で発売となる。\n\nPixel 11を試して分かったカメラの進化。全機種3眼、Proの120倍ズームは買いか？\n\nGoogleは、最新スマートフォン「Google Pixel 11」(以下、Pixel 11)シリーズを発表した。従来同様、スレートモデルとしてPixel 11、Pixel 11 Pro、Pixel 11 Pro XLの3モデルと、折りたたみモデルのPixel 11 Pro Foldの4モデルをラインナップしており、全モデルとも日本で発売となる。\n\n別記事で外観やディスプレイまわりなどをチェックしたが、本稿ではカメラ周りやAI関連機能、Pixel 11シリーズで搭載された新機能などを紹介する。\n\nなお、試用機は発売前の評価機のため、ベンチマークテストは行なえず、製品版とは仕様が異なる部分が存在する可能性がある点はご了承願いたい。\n\n超解像ズームProは画質が向上も、やはり仕上がった画像を写真とするには厳しい\n\nそれでは、カメラ周りを見ていこう。以下の表は、それぞれが搭載するカメラの仕様をまとめたもので、赤文字となっている部分がPixel 10シリーズから強化されている点だ。\n\nPixel 11シリーズでは、従来モデルから引き続き全モデルが超広角、広角、望遠の3眼仕様の背面カメラを搭載している。ただ、その仕様はモデルごとに…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2133/962/01.jpg"
+      "Summary": "【Hothotレビュー】Pixel Watch 5はバッテリが2日以上も持つ！速度20%アップ、GPS精度は倍に\n\nGoogle製スマートウォッチの最新モデル「Pixel Watch 5」が、8月20日に発売された。同じGoogleの「Pixel」シリーズのスマホユーザーだけでなく、Androidスマホユーザーの多くが高い関心を持つPixel Watchだが、Pixel Watch 5ではどのような点が変わったのか、気になる人も多いことだろう。\n\nPixel Watch 5はバッテリが2日以上も持つ！速度20%アップ、GPS精度は倍に\n\nGoogle製スマートウォッチの最新モデル「Pixel Watch 5」が、8月20日に発売された。同じGoogleの「Pixel」シリーズのスマホユーザーだけでなく、Androidスマホユーザーの多くが高い関心を持つPixel Watchだが、Pixel Watch 5ではどのような点が変わったのか、気になる人も多いことだろう。\n\n発売前の実機をお借りしたので、前機種「Pixel Watch 4」との比較を中心に、その内容と実力を可能な限り検証をしてみた。あくまで短時間での検証となるため、主要な機能に絞ったレビューであることはご留意いただきたい。\n\n外観デザインとサイズは前機種「Pixel Watch 4」を踏襲\n\n「Snapdragon W5 Gen 2高性能版」とメモリ3GBで動作がより快適に\n\n片手操作を可能にする新規ジェスチャーと「Gemini」の本格連携\n\n新宿の高層ビル群で検証！GPS精度はPixel Watch 4から2倍に\n\n45mmモデルで実測！2日以上のバッテリ駆動と急速充電の実力\n\nまずはハードウェアに関してだが、実はPixel Watch 5の外観は、Pixel Watch 4とほぼ変わっていない。実際、Pixel…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2134/040/P1572038.jpg"
     },
     {
       "Title": "(アキバ取材班) Noctua製40mmファン内蔵、Pulsarの異色ゲーミングマウス発売",
@@ -2467,15 +2467,6 @@
       "ImageURL": "https://gori.me/uploads/2020/09/iOS14-features-worth-trying-07-800x513.jpg"
     },
     {
-      "Title": "Intel N100搭載の「Lenovo 14e Chromebook Gen 3」が1万円、中古品がML COMPUTERSでセール",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2133544.html",
-      "Published": "2026-08-19T00:00:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "Intel N100搭載の「Lenovo 14e Chromebook Gen 3」が1万円、中古品がML COMPUTERSでセール\n\nIntel N100（4コア4スレッド）搭載のLenovo製14インチChromebook「14e Chromebook Gen 3」が、ML COMPUTERSの通販サイトで販売中。\n\nIntel N100搭載の「Lenovo 14e Chromebook Gen 3」が1万円、中古品がML COMPUTERSでセール\n\nIntel N100（4コア4スレッド）搭載のLenovo製14インチChromebook「14e Chromebook Gen 3」が、 ML COMPUTERSの通販サイト で販売中。\n\n「ディスプレイに若干の光量むらがある場合がある」（販売ページ）という中古品で、価格は10,000円。\n\n主な仕様は、ディスプレイ解像度が1,920×1,080ドット、メモリ容量が4GB、ストレージ容量が64GBフラッシュメモリ、OSがChrome OSなど。\n\n付属品はACアダプタで、「他メーカーの同等品、互換品となる場合もございます」（販売ページ）とのこと。",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2133/544/a1.jpg"
-    },
-    {
       "Title": "�����֥ȥ��������Ȥ����ݤ����ܥ����륷�塼�ƥ��󥰡֥���ɥ�����V���饹�ȥ������פ��Ҳ𡣤��襤�������ܤȤ�΢ʢ�ι����١�BIC2026��",
       "Link": "https://www.4gamer.net/games/034/G103422/20260818046/",
       "Published": "2026-08-19T00:00:00Z",
@@ -2483,6 +2474,15 @@
       "Category": "HARDWARE",
       "Summary": "�����֥ȥ��������Ȥ����ݤ����ܥ����륷�塼�ƥ��󥰡֥���ɥ�����V���饹�ȥ������פ��Ҳ𡣤��襤�������ܤȤ�΢ʢ�ι����١�BIC2026��\n\n韓国のインディーゲームイベント「BIC2026」に出展されていた，Studio HORANGの新作PCゲーム「ワールドウォーV：ラストコール」を紹介しよう。本作は，ピクセルのように細かいボクセルで組…\n\nウェブトゥーン作家が手掛けるボクセルシューティング「ワールドウォーV：ラストコール」を紹介。かわいい見た目とは裏腹の高難度［BIC2026］ ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 夏は七不思議ならぬ“七不穏”で暑さを忘却の彼方へ――涼しくチルアウトできる終末，陰鬱，ディストピアな7つのゲーム ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ ひと夏の思い出に「桃鉄」100年プレイ。みんなで完走するための準備＆プレイガイド ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ Riot Gamesが明らかにしたアンチチートシステム「Vanguard」の仕組み。Windowsの進化に合わせてチート対策も強力に ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「スプラトゥーン レイダース」初心者ガイド。これで“気がついたら囲まれ…",
       "ImageURL": "https://www.4gamer.net/games/034/G103422/20260818046/SS/004.jpg"
+    },
+    {
+      "Title": "Intel N100搭載の「Lenovo 14e Chromebook Gen 3」が1万円、中古品がML COMPUTERSでセール",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2133544.html",
+      "Published": "2026-08-19T00:00:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "Intel N100搭載の「Lenovo 14e Chromebook Gen 3」が1万円、中古品がML COMPUTERSでセール\n\nIntel N100（4コア4スレッド）搭載のLenovo製14インチChromebook「14e Chromebook Gen 3」が、ML COMPUTERSの通販サイトで販売中。\n\nIntel N100搭載の「Lenovo 14e Chromebook Gen 3」が1万円、中古品がML COMPUTERSでセール\n\nIntel N100（4コア4スレッド）搭載のLenovo製14インチChromebook「14e Chromebook Gen 3」が、 ML COMPUTERSの通販サイト で販売中。\n\n「ディスプレイに若干の光量むらがある場合がある」（販売ページ）という中古品で、価格は10,000円。\n\n主な仕様は、ディスプレイ解像度が1,920×1,080ドット、メモリ容量が4GB、ストレージ容量が64GBフラッシュメモリ、OSがChrome OSなど。\n\n付属品はACアダプタで、「他メーカーの同等品、互換品となる場合もございます」（販売ページ）とのこと。",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2133/544/a1.jpg"
     },
     {
       "Title": "Apple Watch Ultra 3を「今」買うのって、アリ？Ultra 4がマイナーアップデートなら1.8万円オフは魅力的かも……",
@@ -4503,6 +4503,69 @@
   ],
   "world": [
     {
+      "Title": "Intel 'Nova-Lake-S' 28-core CPU with bLLC reportedly draws 296W at PL2",
+      "Link": "https://www.tweaktown.com/rss/click/news/113192/?c=news-mf",
+      "Published": "2026-08-21T18:45:14Z",
+      "Source": "TweakTown",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "Google は、My Pixel アプリを実際に Pixel 11 の色と一致させるようにしました",
+      "Link": "https://www.androidauthority.com/my-pixel-app-color-3701675/",
+      "Published": "2026-08-21T18:43:15Z",
+      "Source": "Android Authority",
+      "Category": "Google Pixel 11",
+      "Summary": "Google は、My Pixel アプリを実際に Pixel 11 の色と一致させるようにしました\n\n新しい Pixel 11 シリーズでは、Google の My Pixel アプリにハンドセットの色と一致するアイコンが追加されました。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nGoogle は、My Pixel アプリを実際に Pixel 11 の色と一致させるようにしました\n\n0 • Adamya Sharma / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google は、Pixel 11 シリーズの展開に合わせて My Pixel アプリを更新しました。\n\nこのアプリには、実際の Pixel 11 ハンドセットの色を反映した複数のアイコンの色が追加されました。\n\nMy Pixel には、この夏の初めに開発中に見られた検索機能も搭載されています。\n\nGoogle の Pixel 11 シリーズがついに店頭に並びました。これらの携帯電話はまさに色がすべてです。そして、新しい HiLight LED で誇示できるすべての色についてだけ話しているわけではありません。どの世代にもさまざまな意見がありますが、今年の Pixel カラー展開は、私たちに満足できるものをたくさん残しました。お気に入りの Pixel 11 カラーを選択したら、My Pixel アプリを含め、どこでもその色が表示されることに慣れてください。\n\nMy Pixel アプリは、新しい携帯電話の機能の一部を知るのに最適な方法です。または、数か月後にもう一度確認して、忘れていた素晴らしい機能をすべて思い出させます。ただし、これまでのところ、アプリの外観は誰にとっても同じでした。\n\nPixel 11 ファミリーの発売により、それがついに変わります。 Pixel 11 ハンドセットでアプリ ドロワーを開くと、My Pixel アプリの…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2025/08/My-Pixel-app-main-scaled.jpg"
+    },
+    {
+      "Title": "PVCパイプをDIYデジタル望遠鏡に変えました",
+      "Link": "https://hackaday.com/2026/08/21/pvc-pipe-turned-diy-digital-telescope/",
+      "Published": "2026-08-21T18:30:44Z",
+      "Source": "Hackaday",
+      "Category": "telescope",
+      "Summary": "PVCパイプをDIYデジタル望遠鏡に変えました\n\n[Makestreme] は常に優れた望遠鏡を所有したいと考えていましたが、口径が 50 mm に制限されている安価なモデル以上には予算が足りないことがわかりました。もっと空を眺めたいと思って…\n\n[Makestreme] は常に優れた望遠鏡を所有したいと考えていましたが、口径が 50 mm に制限されている安価なモデル以上には予算が足りないことがわかりました。天をもっとよく眺めたいと思ったとき、進むべき道は明らかでした。代わりに、より優れた望遠鏡を構築する時が来たのです。\n\nこのビルドは、Amazon から調達した直径 114 mm のミラーをベースにしています。凹面反射鏡の焦点距離 900 mm に合わせて、長さ 1 メートル弱の 5 インチ PVC パイプ内に組み立てられています。 3D プリントされたコンポーネントを使用してミラーを取り付け、適切な焦点と視準のためにその位置を制御します。従来、反射鏡ベースの望遠鏡は、ユーザーに視界を提供するために鏡と接眼レンズを使用していました。ただし、[Makestreme] はこれをスマート望遠鏡として構築し、代わりに焦点に Raspberry Pi カメラ モジュール 3 を統合しました。 Raspberry Pi Zero 2W に接続されており、18650 リチウムイオン電池と 5 V 昇圧モジュールで動作し、持ち運びが可能です。 Pi は、明るさ、露出、ゲインの制御とともにライブ カメラ フィードへのアクセスを可能にする小規模な Web サーバーをホストする Python スクリプトを実行します。次に、[Makestreme] は SkyMap や SkEye などのアプリを使用して、対象の天体要素に望遠鏡を向けます。\n\n地上から天空を探検してみたいと思ったことがあるなら、自分で望遠鏡を作るのが素晴らしいスタート方法です。このようなカメラベースのビルドは、接眼レンズを取り付ける手間がかからず、従来のビルドよりも少しシンプルになる場合もあります。",
+      "ImageURL": "https://hackaday.com/wp-content/uploads/2026/08/I-Made-a-DIY-Smart-Telescope-At-Home-14-11-screenshot.png"
+    },
+    {
+      "Title": "NAS の ZFS プールは、私がこだわっていた RAID レベルよりもスナップショットの方がはるかに重要であることを教えてくれました。",
+      "Link": "https://www.xda-developers.com/my-nas-zfs-pools-taught-me-snapshots-matter-more-than-raid-levels/",
+      "Published": "2026-08-21T18:30:16Z",
+      "Source": "XDA",
+      "Category": "TrueNAS SCALE",
+      "Summary": "NAS の ZFS プールは、私がこだわっていた RAID レベルよりもスナップショットの方がはるかに重要であることを教えてくれました。\n\nRAID にこだわるのをやめ、実際にデータを保護するのはスナップショットであることに気づきました\n\nNAS の ZFS プールは、私がこだわっていた RAID レベルよりもスナップショットの方がはるかに重要であることを教えてくれました。\n\nBy Ayush Pande 公開 2026 年 8 月 21 日、午後 2 時 30 分 EDT Ayush Pande は、PC ハードウェアおよびゲームのライターです。彼が新しい記事に取り組んでいないときは、頭を PC の中に閉じ込めたり、サーバーのオペレーティング システムをいじったりしているのを見かけることがあります。コンピューティングのほかに、彼の興味には、長い RPG に何時間も費やすこと、協力ゲームで友達に怒鳴りつけること、ギターを練習することなどがあります。 XDA アカウントにサインインする 私は、古い PC を使用して最初のストレージ サーバーを構築して以来、NAS 中心のツールに興味を持っていました。ネットワーク共有はその良い例であり、それぞれの利点を知った後、私はホーム ラボのタスクに SMB、NFS、および iSCSI フォルダーを使用し始めました。独立した (質問者によっては、安価な) ディスクの冗長アレイは、ストレージ サーバーで複数のハード ドライブを使用するという見通しが、初心者の私にとって非常にクールに思えたので、初心者の私にとって非常に興味をそそられました。\n\nとはいえ、ネットワーク接続ストレージ サーバー全体にいくつかの RAID プールが分散していますが、それは私が思っていたほど重要ではありません。むしろ、TrueNAS を何年も使ってきたことで、何よりもまず ZFS スナップショット (およびそのレプリケーション機能) に焦点を当てる必要があることがわかりました。\n\nRAID には利点があるものの、バックアップに代わるものではありません\n\nそうでないと…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/05/truenas-shares.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "FSR 4 Frame Generation suffers from frame pacing issues causing the tech to be borderline unusable",
+      "Link": "https://www.tweaktown.com/rss/click/news/113191/?c=news-mf",
+      "Published": "2026-08-21T18:25:14Z",
+      "Source": "TweakTown",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "Embark、コミュニティの反発を受けて再設計のためアーク レイダース エクスペディションを一時停止",
+      "Link": "https://www.techpowerup.com/351806/embark-suspends-arc-raiders-expeditions-for-redesign-after-community-backlash",
+      "Published": "2026-08-21T18:04:59Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "Embark、コミュニティの反発を受けて再設計のためアーク レイダース エクスペディションを一時停止\n\nゲームの圧倒的な成功にもかかわらず、Arc Raiders Expeditions は常に物議を醸すゲームプレイ メカニズムでした。このチャレンジは、より多くのスキル ポイント、追加の戦利品ストレージなどの恒久的なプレイヤー アップグレードと引き換えに、チャレンジを完了してレイダーをリセットするためのウィンドウをプレイヤーに提供します。\n\nEmbark、コミュニティの反発を受けて再設計のためアーク レイダース エクスペディションを一時停止\n\n今後のエクスペディション 私たちはエクスペディションに関する皆さんのフィードバックを注意深く検討し、その過程で継続的な改善を行ってきましたが、出発時間の狭さ、報酬構造、新規プレイヤーのアクセシビリティなど、皆さんが提起した問題の一部には、段階的な修正以上のものが必要であることがわかりました。彼らはより大きな変化を求めています。これらの懸念に対処するために、遠征をしばらく停止する必要があります。 5 回目の Expedition は 2027 年初頭までの最後の遠征となり、2027 年初めには Expeditions が大幅な改善を加えて戻ってきて、プレイヤーの最大の問題点のいくつかに対処します。出発を迷っているなら、今がその時です。これらの変更がどのようなものになるかについては、9 月に詳細をお知らせします。一時停止期間中、連続して獲得したバフは持続するため、進行状況が失われることはありません。 5 つの遠征をすべて完了すると、ゼニスの衣装が完全にロック解除されます。また、キャラバンはリセットされるため、部分的に完了したキャラバンは、ARC パーツや銃器取引と一緒にアーマル オファーを購入したり、コインで販売したりするために使用できる、同価値のアーマル バウチャーに置き換えられます。いつものように、フィードバックをお待ちしております。ご意見をお聞かせください。今後も改善を続けてまいります。 ARCレイダースチーム\n\n2025 年 …",
+      "ImageURL": "https://www.techpowerup.com/img/8ZjOQVE4d1VxzXQZ.jpg"
+    },
+    {
+      "Title": "自己ホスト型エコシステムには重複の問題があり、依存しているプロジェクトが停止します。",
+      "Link": "https://www.xda-developers.com/self-hosted-ecosystem-has-duplication-problem-killing-projects-depend-on/",
+      "Published": "2026-08-21T18:00:16Z",
+      "Source": "XDA",
+      "Category": "software",
+      "Summary": "自己ホスト型エコシステムには重複の問題があり、依存しているプロジェクトが停止します。\n\n試してみたい別のセルフホスト型アプリは常にありますが、どれが長持ちするかということのほうが気になり始めています。\n\n自己ホスト型エコシステムには重複の問題があり、依存しているプロジェクトが停止します。\n\nBy Yash Patel 公開 2026 年 8 月 21 日、午後 2:00 EDT 2018 年にテクノロジー業界でのキャリアを開始し、Yash はソフトウェア エンジニアとして 3 年以上を過ごしました。その後、彼はテクノロジー ブログ DiGiTAL BiRYANi の有益で魅力的なコンテンツを通じて読者に力を与えることに重点を移しました。彼は MakeTechEasier の技術記事も出版しています。彼は新しいテクノロジー ガジェットやプラットフォームを探索するのが大好きです。彼が執筆していないときは、食べ物について調べていることがわかります。彼はテクノロジーと食べ物への愛情から、読者の間ではデジタル シェフ ヤシュとして知られています。 XDA アカウントにサインインします。 セルフホスティングにより、ほとんどの主流ソフトウェアでは得られないもの、つまり制御が得られます。データの保存場所を選択し、ハードウェアで実行するサービスを決定し、実際の作業方法に合わせてセットアップを構築できます。その自由こそが、私が再び自由に戻ってくる大きな理由なのです。\n\nしかし、セルフホスティングに費やす時間が長くなるほど、エコシステムがより複雑に感じられるようになります。無数のアプリケーション、コンテナ、代替手段が注目を集めています。ツールを見つけるのは簡単です。自分のデータに関してどれを信頼する価値があるかを判断するのははるかに困難です。\n\nオープンソースにはアイデアが不足していない\n\nメンテナーが不足している\n\n自己ホスト型エコシステムにアイデアの問題があるとは思いません。むしろ、私たちは逆の問題を抱えていると思います。特定の問題を解決するためのツールを探すたびに、少し異なる方法でそれ…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/self-hosted-karakeep-affine-docker.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
       "Title": "Google メッセージのグループ チャットの招待リンクは準備がほぼ整いました",
       "Link": "https://www.androidauthority.com/google-messages-group-chat-invite-links-3701647/",
       "Published": "2026-08-21T17:39:49Z",
@@ -4575,6 +4638,15 @@
       "ImageURL": "https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg"
     },
     {
+      "Title": "戦闘機がヨーロッパのオフショアガスプラットフォーム近くでロシアのドローンボートを破壊するのに貢献",
+      "Link": "https://arstechnica.com/gadgets/2026/08/explosive-russian-drone-boat-destroyed-near-european-offshore-gas-site/",
+      "Published": "2026-08-21T16:48:59Z",
+      "Source": "Ars Technica Gear \u0026 Gadgets",
+      "Category": "Ukraine war",
+      "Summary": "戦闘機がヨーロッパのオフショアガスプラットフォーム近くでロシアのドローンボートを破壊するのに貢献\n\nルーマニアはリグ作業員数百人の命を守るためにドローンボートを爆破した。\n\nテキスト設定 ストーリーテキスト サイズ 小 標準 大 幅 * 標準 ワイドリンク 標準 オレンジ * 購読者限定 詳細はこちら ナビゲーションを最小化 今週、ルーマニアはロシアが爆発物を積んだドローンボートを黒海の重要なヨーロッパの天然ガスプラットフォームに送り込んだとしてロシアを非難した。ルーマニアのF-16戦闘機は、爆発物専門家が安全に爆破できるよう、大砲を使用して水上ドローンを無力化した。\n\n8月20日、ルーマニア沿岸警備隊は、ネプチューン・ディープ・プロジェクトの主要掘削プラットフォームから数百メートル離れた場所で海上ドローンを初めて発見したが、そこでは数百人の作業員が進行中のプラットフォームの設置作業に忙しくしていた、とラドゥ・ミルシュ国防大臣はフェイスブックへの投稿で述べた。この海洋ガスプロジェクトにより、2027年に本格的な生産が開始されれば、ルーマニアは欧州連合最大のガス生産国となる。\n\n労働者の命と海洋ガスインフラを守るため、ルーマニア軍はF-16戦闘機2機を緊急発進させ、砲撃でドローンを阻止したとミルシャ氏は述べた。国防大臣が共有したフェイスブックのビデオに見られるように、陸軍の専門家はその後、制御された爆発を実行した。\n\nロイター通信が報じたところによると、ミルシャ氏のコメントによれば、ドローンボート自体は爆発物を積んでいたと思われる。ルーマニア大統領はこの事件についてロシアを直接非難した。\n\nルーマニアのニクショー・ダン大統領は、ソーシャルメディアプラットフォームXへの投稿で、「ロシア連邦側によるこの種の無責任な事件の激化を強く非難する」と述べ、「われわれは自国を守り、このような挑戦を撃退するためにNATO同盟国とともに警戒を続けている」と述べた。\n\nこれは今月、ネプチューン・ディープ沖合ガス田付近でロシアのドローンとみられるドローンが関与した２件目の事件となる。 8月11…",
+      "ImageURL": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Russian-drone-boat-1152x648.jpeg"
+    },
+    {
       "Title": "プール清掃員ですら、FCC のロボット禁止からは安全ではない",
       "Link": "https://www.androidauthority.com/us-robot-ban-pool-cleaners-3701655/",
       "Published": "2026-08-21T16:45:55Z",
@@ -4627,6 +4699,15 @@
       "Category": "Plex",
       "Summary": "Plex、Samsung スマート TV に影響を与えるイライラする再生バグを修正\n\n自己ホスト型ストリーミング プラットフォームは比較的早くパッチをリリースしました。\n\nPlex、Samsung スマート TV に影響を与えるイライラする再生バグを修正\n\nBy Patrick O'Rourke 公開 2026 年 8 月 21 日、午後 12:26 EDT Patrick O'Rourke は、XDA のニュース編集者およびエンターテイメント セグメントのリーダーです。以前は、Pocket-lint の編集長、カナダのテクノロジー出版物 MobileSyrup の編集長を務め、キャリアの初期には Financial Post および Postmedia でテクノロジー編集者として働いていました。彼はトロントに拠点を置いています。過去 15 年間にわたり、彼は何千もの記事を書いてきました。パトリック氏はまた、何十人ものテクノロジー業界の幹部にインタビューし、GDC、E3、Gamescom、WWDC、Apple の基調講演、Samsung Unpacked イベントなどを取材しました。パトリックはトロント・メトロポリタン大学でジャーナリズムの学士号を取得しています。 XDA アカウントにサインインする\n\nSamsung Tizen TV の Plex v5.94.3 により、「再生エラー」が発生し、ビデオの再生がブロックされました。\n\nPlex はすぐにパッチをプッシュし、調査を開始しました。この問題は Samsung TV に限定されているようです。\n\n問題を解決するには、必ず Samsung Plex アプリを更新してください。\n\nSamsung の Tizen スマート TV プラットフォームでアプリを実行している Plex ユーザーは、セルフホスト型ストリーミング プラットフォームの最新アップデートであるバージョン 5.94.3 でビデオの再生が妨げられたと報告しました。\n\nユーザーがビデオを再生しようとすると、「再生エラー。予期しない再生エラーが発生しました。」…",
       "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/plex-on-a-tv-watchlist.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "Acer Nitro 30 PC、Radeon RX 9070 XTとRyzen 7 8700Fを搭載し3,700ドルで発売",
+      "Link": "https://www.techpowerup.com/351798/acer-nitro-30-pc-launches-with-radeon-rx-9070-xt-and-ryzen-7-8700f-for-usd-3-700",
+      "Published": "2026-08-21T16:26:45Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "Acer Nitro 30 PC、Radeon RX 9070 XTとRyzen 7 8700Fを搭載し3,700ドルで発売\n\nAcer は、Nitro プレビルド ゲーミング デスクトップのラインナップの最新製品として、AMD Ryzen 7 8700F および AMD Radeon RX 9070 XT を搭載した 28 L ゲーミング PC である Nitro 30 PC を日本で正式に発売しました。シャーシは、前面にエッジの効いた Nitro ロゴが飾られたセミクローズド フロント パネルを備えています。\n\nAcer Nitro 30 PC、Radeon RX 9070 XTとRyzen 7 8700Fを搭載し3,700ドルで発売\n\n2025 年 8 月 21 日 12VHPWR コネクタの溶融により、最初の AMD RX 9070 XT 被害者が主張 (109)\n\n2025 年 12 月 31 日 AI 業界の需要のおかげで、2026 年に 5000 ドルの RTX 5090 GPU が登場するとリークが予測 (124)\n\n2026 年 5 月 27 日 リーカーが天文学的な蒸気機械の価格を示唆 (74)\n\n2026 年 6 月 12 日、4000 ドルの AMD Ryzen AI Halo Mini PC 開発キットの予約注文が開始 (47)\n\n2026 年 5 月 14 日 AMD FSR アップスケーリング 4.1 が Radeon RX 7000/6000 GPU (252) に正式に登場\n\n2026 年 4 月 21 日 TechPowerUp、Gamers Nexus、または ComputerBase には Ryzen 9950X3D2 はありません (211)\n\n2025 年 8 月 27 日 AMD の次世代 UDNA: 4 つのダイ サイズ、1 つの潜在的な 96-CU フラッグシップ (87)\n\n2025 年 11 月 3 日 AMD が Radeon RX 5000/6000 シリーズの「メンテナンス モード」を明確に、初日のゲーム サポ…",
+      "ImageURL": "https://www.techpowerup.com/img/1nQXdKo6FostApE2.jpg"
     },
     {
       "Title": "Acer Nitro 30 PC、Radeon RX 9070 XTとRyzen 7 87000Fを搭載し3,700ドルで発売",
@@ -6789,15 +6870,6 @@
       "ImageURL": "https://cdn.mos.cms.futurecdn.net/ko5nmmiY9Js2ntbrP8NaXU-1920-80.jpg"
     },
     {
-      "Title": "Low-Fiマイクが驚くほど洗練されていることが分解でわかる",
-      "Link": "https://hackaday.com/2026/08/20/teardown-shows-low-fi-microphone-is-surprisingly-sophisticated/",
-      "Published": "2026-08-20T11:00:15Z",
-      "Source": "Hackaday",
-      "Category": "teenage engineering",
-      "Summary": "Low-Fiマイクが驚くほど洗練されていることが分解でわかる\n\nTeenage Engineering の Ting FX EP-2350 は、サンプルやユーザーが変更できる内蔵エフェクト プリセットなど、いくつかの追加機能を備えたスタンドアロン マイクです。特徴的なデ…\n\nTeenage Engineering の Ting FX EP-2350 は、サンプルやユーザーが変更できる内蔵エフェクト プリセットなど、いくつかの追加機能を備えたスタンドアロン マイクです。特徴的なデザインもあり、[サム ホランド] が詳細な分解を行っており、ポケットに入れておく価値のある洞察が得られます。特にサイドに取り付けられた大きなレバーは興味深い点ですが、それについては後ほど詳しく説明します。\n\nデバイスの内部には 1 枚の PCB があり、中央に 1 対の AAA セル用の切り欠きがあります。 Raspberry Pi 2350 はデバイスの機能を駆動し、[Sam] が特定したさまざまなコンポーネントによってサポートされていますが、設計を批評する際、彼は主に機械エンジニアの観点からすべてを見ています。見た目はすっきりしていて、デバイスが実際にどれほど複雑であるかを信じられないほど、意図的にローファイなデザインです。\n\n多機能で分厚いバネ式サイドレバーは特に興味深いものです。 2 つのスイッチと 1 つのポテンショメータの 3 つのセンサーがあります。 1 つのスイッチが、レバーが停止しているか、または任意の量だけ押し込まれたことを検出します。ポテンショメータはレバーのピボット ポイントと嵌合し、デバイスがレバーがどのくらい押し込まれているかを直接感知できるようになります。最後のスイッチは、レバーを最後まで押し込むとトリガーされます。このスイッチは、電源オン (レバーを押すとすぐにデバイスがスリープ モードから復帰する) と、レバーを押した距離に比例してエフェクトを調整する機能を組み合わせた直感的な入力を形成します。また、それ自体が入力信号として機能する明確なクリック音で底を打ちます。…",
-      "ImageURL": "https://hackaday.com/wp-content/uploads/2026/08/Teenage-Engineering-Ting-FX-EP-2350-Teardown-0-21-screenshot-banner.png"
-    },
-    {
       "Title": "GPU の価格設定は現実から完全に切り離されており、ミッドレンジが何を意味するかについては、もはや誰も同意していません。",
       "Link": "https://www.xda-developers.com/nobody-can-agree-what-mid-range-gpu-is-pricing-stopped-meaning-anything/",
       "Published": "2026-08-20T11:00:15Z",
@@ -6805,6 +6877,15 @@
       "Category": "AMD",
       "Summary": "GPU の価格設定は現実から完全に切り離されており、ミッドレンジが何を意味するかについては、もはや誰も同意していません。\n\nミッドレンジ GPU が何であるかについては、もはや誰も同意できません。\n\nGPU の価格設定は現実から完全に切り離されており、ミッドレンジが何を意味するかについては、もはや誰も同意していません。\n\nBy Jasmine Mannan 公開 2026 年 8 月 20 日、午前 7:00 EDT Jasmine は XDA のソフトウェアおよび PC ハードウェアの著者であり、AI チャットボットからゲーム ハードウェアに至るまで、長年にわたる技術レポートの経験があり、ほぼすべてをカバーしています。最新の AMD NPU に関する速報ニュースであれ、ソーシャル メディア プラットフォームでのビデオ チュートリアルの作成であれ、Jasmine は、Razer の CEO、AMD の製品マーケティング ディレクター、Lenovo の副社長へのインタビューなど、さまざまな方法で AI とテクノロジーの世界に貢献してきました。ゲームと PC テクノロジーに情熱を持っている彼女は、数え切れないほどのコンピューター、キーボード、その他の周辺機器を構築し、それらを隅々まで知り尽くしています。 XDA アカウントにサインインする 私を含む多くのゲーマーは、GTX 970 が 249 ドル、GTX 1060 が 299 ドルで購入できた PC 構築の黄金時代を思い出しているかもしれません。これは今日の現実とは著しく対照的です。最新のハードウェアはかなりばかげたものになっており、ミッドレンジ GPU が何なのかを誰かに尋ねると、まったく異なる答えが得られる可能性があります。\n\n最初のオプションは、価格の点でミッドレンジのカードを探すことです。約300ドルの価格のものは中価格帯かもしれませんが、実際にはエントリーレベルです。中程度の解像度のものであれば、約 700 ドルで取引される可能性がありますが、これは財布にとって中程度の価格ではありません。もう 1 つの答えは、主…",
       "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/gigabyte-nvidia-geforce-rtx-4070-ti-gpu-origami-lamp.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "Low-Fiマイクが驚くほど洗練されていることが分解でわかる",
+      "Link": "https://hackaday.com/2026/08/20/teardown-shows-low-fi-microphone-is-surprisingly-sophisticated/",
+      "Published": "2026-08-20T11:00:15Z",
+      "Source": "Hackaday",
+      "Category": "teenage engineering",
+      "Summary": "Low-Fiマイクが驚くほど洗練されていることが分解でわかる\n\nTeenage Engineering の Ting FX EP-2350 は、サンプルやユーザーが変更できる内蔵エフェクト プリセットなど、いくつかの追加機能を備えたスタンドアロン マイクです。特徴的なデ…\n\nTeenage Engineering の Ting FX EP-2350 は、サンプルやユーザーが変更できる内蔵エフェクト プリセットなど、いくつかの追加機能を備えたスタンドアロン マイクです。特徴的なデザインもあり、[サム ホランド] が詳細な分解を行っており、ポケットに入れておく価値のある洞察が得られます。特にサイドに取り付けられた大きなレバーは興味深い点ですが、それについては後ほど詳しく説明します。\n\nデバイスの内部には 1 枚の PCB があり、中央に 1 対の AAA セル用の切り欠きがあります。 Raspberry Pi 2350 はデバイスの機能を駆動し、[Sam] が特定したさまざまなコンポーネントによってサポートされていますが、設計を批評する際、彼は主に機械エンジニアの観点からすべてを見ています。見た目はすっきりしていて、デバイスが実際にどれほど複雑であるかを信じられないほど、意図的にローファイなデザインです。\n\n多機能で分厚いバネ式サイドレバーは特に興味深いものです。 2 つのスイッチと 1 つのポテンショメータの 3 つのセンサーがあります。 1 つのスイッチが、レバーが停止しているか、または任意の量だけ押し込まれたことを検出します。ポテンショメータはレバーのピボット ポイントと嵌合し、デバイスがレバーがどのくらい押し込まれているかを直接感知できるようになります。最後のスイッチは、レバーを最後まで押し込むとトリガーされます。このスイッチは、電源オン (レバーを押すとすぐにデバイスがスリープ モードから復帰する) と、レバーを押した距離に比例してエフェクトを調整する機能を組み合わせた直感的な入力を形成します。また、それ自体が入力信号として機能する明確なクリック音で底を打ちます。…",
+      "ImageURL": "https://hackaday.com/wp-content/uploads/2026/08/Teenage-Engineering-Ting-FX-EP-2350-Teardown-0-21-screenshot-banner.png"
     },
     {
       "Title": "G.Skill 、誤解を招く DDR4 および DDR5 のスピード マーケティングに関して 240 万ドルの和解金を支払う — ベンダーが XMP および EXPO パッケージの警告に同意したため、購入者は 20 ～ 25 ドルを受け取る",
@@ -6852,15 +6933,6 @@
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/Pixel-11-screen-saver-charge-stand-hero.jpg"
     },
     {
-      "Title": "Chrome に Gemini を入れたくないですか? Androidで削除する方法は次のとおりです",
-      "Link": "https://www.androidauthority.com/remove-gemini-chrome-android-how-to-3700544/",
-      "Published": "2026-08-20T10:30:42Z",
-      "Source": "Android Authority",
-      "Category": "Google Gemini",
-      "Summary": "Chrome に Gemini を入れたくないですか? Androidで削除する方法は次のとおりです\n\nAndroid 上の Chrome を Gemini にフォローされたくないですか?アイコンを選択したショートカットに置き換える方法は次のとおりです。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nChrome に Gemini を使いたくないですか? Androidで削除する方法は次のとおりです\n\n0 • Shimul Sood / Android Authority Google Discover でフォローしてください 優先情報源として追加してください 私は、ジェミニが成長するのを目の前で見守ってきました。まだ吟遊詩人だった頃、私はそこにいたのですが、その頃はチャットボットを開いて質問し、有用な答えを期待しているような感じでした。その後、Bard は Gemini になり、途中から実際に私に代わって何かをしてくれるようになりました。\n\n現在、ジェミニは製品を比較したり、より良い取引を探したり、レストランを予約したり、予定を立てたり、さらには旅行の予約を支援したりすることができます。そして現在、Chrome の Gemini が米国の Android ユーザーに展開されており、その支援の多くは携帯電話のブラウザに直接移行されています。\n\nそれはとても便利ですが、閲覧中に AI アシスタントがタグ付けすることなく、Chrome を Chrome のままにしたいという気持ちはよくわかります。ありがたいことに、Google では Chrome の Gemini をオフにすることができます。その具体的な方法は次のとおりです。\n\nGemini をスマートフォンの Chrome に組み込みたいですか?\n\nGemini をお気に入りのショートカットに置き換える方法\n\nShimul Sood / Android Authority Chrome の Gemini アイコンを削除するために、実際には迷路の…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/Gemini-icon-in-Chrome-on-Google-Pixel-10a.jpg"
-    },
-    {
       "Title": "グランツーリスモ 7 アップデートで 4 台の新車や追加イベントなどが追加",
       "Link": "https://www.kitguru.net/tech-news/mustafa-mahmoud/gran-turismo-7-update-adds-4-new-cars-additional-events-and-more/",
       "Published": "2026-08-20T10:30:42Z",
@@ -6868,6 +6940,15 @@
       "Category": "update",
       "Summary": "グランツーリスモ 7 アップデートで 4 台の新車や追加イベントなどが追加\n\n別のアップデートで戻ってくると、グランツーリスモ 7 には 4 つの新しい車両が追加される予定です。本日はさらに 3 つのイベントが追加されます。\n\nグランツーリスモ 7 アップデートで 4 台の新車や追加イベントなどが追加\n\nMustafa Mahmoud 18 分前 コンソール , 注目の技術ニュース , ソフトウェアとゲーム , 技術ニュース\n\n2022 年にゲームが最初にリリースされて以来、ポリフォニー デジタルは無料かつ一貫したアップデートでグランツーリスモ 7 を新鮮な状態に保ち続けてきました。一部のパッチよりも小規模なパッチではありますが、GT7 の最新アップデートには、4 台の新しい車両、3 つの追加イベントなどを含む、数多くの歓迎すべき追加機能が含まれています。ポリフォニー・デジタルのチームはブログで発表を行い、グランツーリスモ7に新しいアップデートが本日後半に登場することを認めた。アップデート 1.71 とラベル付けされたこの最新パッチでは、以下が追加されます: 4 つの新しい車両 Caterham Seven Superlight R500 '08\n\n3つの新しいワールドサーキットイベント日本のFRチャレンジ450\n\n前述したように、これは GT7 の最大のアップデートとは程遠いです。そうは言っても、ポリフォニー・デジタル初の適切なライブサービス隣接ゲームであることへの歓迎と継続的な取り組みを示しています。 2022 年にゲームが登場して以来、グランツーリスモ 7 は大量の新しいイベントで更新されました。トラック。エンジン交換。メニューともちろん車両 – 長年にわたって 130 台以上の車両が追加されました。 GT7 の 8 月のアップデートの詳細については、こちらをご覧ください。 KitGuru 氏: 2025 年のグランツーリスモ 7 についてどう思いますか?あと何年間サポートが受けられると思いますか?以下でお知らせください。パトロンになりましょう！ Facebook…",
       "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/08/gt7-732x330.jpg"
+    },
+    {
+      "Title": "Chrome に Gemini を入れたくないですか? Androidで削除する方法は次のとおりです",
+      "Link": "https://www.androidauthority.com/remove-gemini-chrome-android-how-to-3700544/",
+      "Published": "2026-08-20T10:30:42Z",
+      "Source": "Android Authority",
+      "Category": "Google Gemini",
+      "Summary": "Chrome に Gemini を入れたくないですか? Androidで削除する方法は次のとおりです\n\nAndroid 上の Chrome を Gemini にフォローされたくないですか?アイコンを選択したショートカットに置き換える方法は次のとおりです。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nChrome に Gemini を使いたくないですか? Androidで削除する方法は次のとおりです\n\n0 • Shimul Sood / Android Authority Google Discover でフォローしてください 優先情報源として追加してください 私は、ジェミニが成長するのを目の前で見守ってきました。まだ吟遊詩人だった頃、私はそこにいたのですが、その頃はチャットボットを開いて質問し、有用な答えを期待しているような感じでした。その後、Bard は Gemini になり、途中から実際に私に代わって何かをしてくれるようになりました。\n\n現在、ジェミニは製品を比較したり、より良い取引を探したり、レストランを予約したり、予定を立てたり、さらには旅行の予約を支援したりすることができます。そして現在、Chrome の Gemini が米国の Android ユーザーに展開されており、その支援の多くは携帯電話のブラウザに直接移行されています。\n\nそれはとても便利ですが、閲覧中に AI アシスタントがタグ付けすることなく、Chrome を Chrome のままにしたいという気持ちはよくわかります。ありがたいことに、Google では Chrome の Gemini をオフにすることができます。その具体的な方法は次のとおりです。\n\nGemini をスマートフォンの Chrome に組み込みたいですか?\n\nGemini をお気に入りのショートカットに置き換える方法\n\nShimul Sood / Android Authority Chrome の Gemini アイコンを削除するために、実際には迷路の…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/Gemini-icon-in-Chrome-on-Google-Pixel-10a.jpg"
     },
     {
       "Title": "Pine64、不足のため少なくとも2027年半ばまですべてのLinuxハードウェア製造を停止 - メモリ不足によりオープンソースメーカーはSBC、タブレット、携帯電話を凍結せざるを得なくなる",
@@ -7626,21 +7707,21 @@
       "ImageURL": "https://www.techpowerup.com/img/NhCfoRCilLCyYF0v.jpg"
     },
     {
-      "Title": "Linux 7.3 スケジューラの改善により、低電力 PC ハードウェアの FPS が大幅に向上",
-      "Link": "https://www.techpowerup.com/351727/linux-7-3-scheduler-improvements-result-in-notable-fps-boost-for-low-power-pc-hardware",
-      "Published": "2026-08-19T18:12:58Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "Linux 7.3 スケジューラの改善により、低電力 PC ハードウェアの FPS が大幅に向上\n\nLinux ゲームは、Linux カーネル 7.3 でリリースされる予定のスケジューラの変更のおかげで、ゲームのパフォーマンスが再び向上しています。カーネル メーリング リストのアーカイブ ポストに記載されているマージ リクエストには、スケジューラの効率を高め、レイテンシを改善するなどのいくつかの変更が記載されています。\n\nLinux 7.3 スケジューラの改善により、低電力 PC ハードウェアの FPS が大幅に向上\n\n2026 年 4 月 29 日 Linux が PlayStation 5 で正式に利用可能になりました (22)\n\n2025 年 9 月 18 日 NVIDIA がインテルを 50 億ドル相当で買収、RTX iGPU が x86 に登場、株価は 25% 上昇 (256)\n\n2025 年 12 月 31 日 AI 業界の需要のおかげで、2026 年に 5000 ドルの RTX 5090 GPU が登場するとリークが予測 (124)\n\n2025 年 9 月 3 日 NVIDIA ディスクリート GPU 市場シェアの優位性が 94% に拡大、ノート レポート (237)\n\n2025 年 9 月 3 日 AMD「Zen 6」プロセッサは、CCD に TSMC 2 nm ノード、IOD に 3 nm ノードを使用 (66)\n\n2026 年 4 月 21 日 TechPowerUp、Gamers Nexus、または ComputerBase には Ryzen 9950X3D2 はありません (211)\n\n2026 年 7 月 3 日 インテル、ゲーム向けに 108 MB bLLC キャッシュを備えた 2 つの 22 コア「Nova Lake-S」SKU を準備 (279)\n\n2026 年 6 月 13 日、4000 ドルの AMD Ryzen AI Halo Mini PC 開発キットの予約注文が開始 (47)\n\n2026 年 7 月 28 日 Palworld …",
-      "ImageURL": "https://www.techpowerup.com/img/VTSg4Ly87VwG5m2f.jpg"
-    },
-    {
       "Title": "Linux 7.3 スケジューラが低電力ハードウェアの FPS を向上",
       "Link": "https://www.techpowerup.com/351727/linux-7-3-scheduler-boosts-fps-for-low-power-hardware",
       "Published": "2026-08-19T18:12:58Z",
       "Source": "TechPowerUp",
       "Category": "",
       "Summary": "Linux 7.3 スケジューラが低電力ハードウェアの FPS を向上\n\nLinux ゲームは、Linux カーネル 7.3 でリリースされる予定のスケジューラの変更のおかげで、ゲームのパフォーマンスが再び向上しています。カーネル メーリング リストのアーカイブ ポストに記載されているマージ リクエストには、スケジューラの効率を高め、レイテンシを改善するなどのいくつかの変更が記載されています。\n\nLinux 7.3 スケジューラが低電力ハードウェアの FPS を向上\n\n2026 年 4 月 28 日 Linux が PlayStation 5 で正式に利用可能になりました (22)\n\n2025 年 9 月 18 日 NVIDIA がインテルを 50 億ドル相当で買収、RTX iGPU が x86 に登場、株価は 25% 上昇 (256)\n\n2025 年 12 月 31 日 AI 業界の需要のおかげで、2026 年に 5000 ドルの RTX 5090 GPU が登場するとリークが予測 (124)\n\n2025 年 9 月 3 日 NVIDIA ディスクリート GPU 市場シェアの優位性が 94% に拡大、ノート レポート (237)\n\n2025 年 9 月 3 日 AMD「Zen 6」プロセッサは、CCD に TSMC 2 nm ノード、IOD に 3 nm ノードを使用 (66)\n\n2026 年 4 月 21 日 TechPowerUp、Gamers Nexus、または ComputerBase には Ryzen 9950X3D2 はありません (211)\n\n2026 年 7 月 3 日 インテル、ゲーム向けに 108 MB bLLC キャッシュを備えた 2 つの 22 コア「Nova Lake-S」SKU を準備 (279)\n\n2026 年 6 月 12 日、4000 ドルの AMD Ryzen AI Halo Mini PC 開発キットの予約注文が開始 (47)\n\n2026 年 7 月 27 日 Palworld 幹部、サポート終了計画についてゲーマーに安心を与える…",
+      "ImageURL": "https://www.techpowerup.com/img/VTSg4Ly87VwG5m2f.jpg"
+    },
+    {
+      "Title": "Linux 7.3 スケジューラの改善により、低電力 PC ハードウェアの FPS が大幅に向上",
+      "Link": "https://www.techpowerup.com/351727/linux-7-3-scheduler-improvements-result-in-notable-fps-boost-for-low-power-pc-hardware",
+      "Published": "2026-08-19T18:12:58Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "Linux 7.3 スケジューラの改善により、低電力 PC ハードウェアの FPS が大幅に向上\n\nLinux ゲームは、Linux カーネル 7.3 でリリースされる予定のスケジューラの変更のおかげで、ゲームのパフォーマンスが再び向上しています。カーネル メーリング リストのアーカイブ ポストに記載されているマージ リクエストには、スケジューラの効率を高め、レイテンシを改善するなどのいくつかの変更が記載されています。\n\nLinux 7.3 スケジューラの改善により、低電力 PC ハードウェアの FPS が大幅に向上\n\n2026 年 4 月 29 日 Linux が PlayStation 5 で正式に利用可能になりました (22)\n\n2025 年 9 月 18 日 NVIDIA がインテルを 50 億ドル相当で買収、RTX iGPU が x86 に登場、株価は 25% 上昇 (256)\n\n2025 年 12 月 31 日 AI 業界の需要のおかげで、2026 年に 5000 ドルの RTX 5090 GPU が登場するとリークが予測 (124)\n\n2025 年 9 月 3 日 NVIDIA ディスクリート GPU 市場シェアの優位性が 94% に拡大、ノート レポート (237)\n\n2025 年 9 月 3 日 AMD「Zen 6」プロセッサは、CCD に TSMC 2 nm ノード、IOD に 3 nm ノードを使用 (66)\n\n2026 年 4 月 21 日 TechPowerUp、Gamers Nexus、または ComputerBase には Ryzen 9950X3D2 はありません (211)\n\n2026 年 7 月 3 日 インテル、ゲーム向けに 108 MB bLLC キャッシュを備えた 2 つの 22 コア「Nova Lake-S」SKU を準備 (279)\n\n2026 年 6 月 13 日、4000 ドルの AMD Ryzen AI Halo Mini PC 開発キットの予約注文が開始 (47)\n\n2026 年 7 月 28 日 Palworld …",
       "ImageURL": "https://www.techpowerup.com/img/VTSg4Ly87VwG5m2f.jpg"
     },
     {
@@ -8229,21 +8310,21 @@
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/google-photos-july-2026-redesign.jpg"
     },
     {
-      "Title": "Intel Core Ultra 9 4590Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある",
-      "Link": "https://www.techpowerup.com/351714/intel-core-ultra-9-4590k-could-signal-new-naming-scheme-for-nova-lake-s",
-      "Published": "2026-08-19T12:21:50Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "Intel Core Ultra 9 4590Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある\n\n「Nova Lake-S」プロセッサファミリーの一部であるIntelの次期デスクトップCPU世代は、「Arrow Lake」ファミリーで使用されている現在の3桁の形式とは異なり、4桁の形式に戻る新しい命名規則を採用する可能性がある。リークされた CPU-Z の提出物によると、Intel の Core Ultra 9 4590K...\n\nIntel Core Ultra 9 4590Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある\n\n2026 年 7 月 3 日 インテル、ゲーム向けに 108 MB bLLC キャッシュを備えた 2 つの 22 コア「Nova Lake-S」SKU を準備 (279)\n\n2026 年 6 月 26 日 インテル「Nova Lake-S」52 コア OC SKU が PL2 モードで 474 W を消費 (291)\n\n2026 年 1 月 23 日 インテル Core Ultra シリーズ 4 「Nova Lake」プロセッサーが 2026 年後半に発売 (62)\n\n2026 年 4 月 13 日 Intel Core Ultra「Nova Lake-S」デスクトップ コア構成 Surface (111)\n\n2026 年 6 月 14 日 Intel が 2027 年向けコア「Raptor Lake Next」ソケット LGA1700 プロセッサーを準備 (184)\n\n2026 年 7 月 17 日 Intel、52 コア バージョンの前に 28 コア「Nova Lake-S」を発売 (41)\n\n2026 年 1 月 10 日 Intel Core Ultra X9 388H \"Panther Lake\" iGPU は、Cyberpunk 2077 で AMD \"Strix Point\" パフォーマンスを 2 倍に (98)\n\n2026 年 7 月 14 日 インテル、歩留まり向上の中で「Nova…",
-      "ImageURL": "https://www.techpowerup.com/img/vSFY5VUyiwLn23oo.jpg"
-    },
-    {
       "Title": "Intel Core Ultra 9 4950Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある",
       "Link": "https://www.techpowerup.com/351714/intel-core-ultra-9-4950k-could-signal-new-naming-scheme-for-nova-lake-s",
       "Published": "2026-08-19T12:21:50Z",
       "Source": "TechPowerUp",
       "Category": "",
       "Summary": "Intel Core Ultra 9 4950Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある\n\n「Nova Lake-S」プロセッサファミリーの一部であるIntelの次期デスクトップCPUは、「Arrow Lake」ファミリーで使用されている現在の3桁の形式とは異なり、4桁の形式に戻る新しい命名規則を採用する可能性がある。リークされた CPU-Z の提出物によると、Intel の Core Ultra 9 4950K...\n\nIntel Core Ultra 9 4950Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある\n\n2026 年 7 月 3 日 インテル、ゲーム向けに 108 MB bLLC キャッシュを備えた 2 つの 22 コア「Nova Lake-S」SKU を準備 (279)\n\n2026 年 6 月 26 日 インテル「Nova Lake-S」52 コア OC SKU が PL2 モードで 474 W を消費 (291)\n\n2026 年 1 月 23 日 インテル Core Ultra シリーズ 4 「Nova Lake」プロセッサーが 2026 年後半に発売 (62)\n\n2026 年 4 月 13 日 Intel Core Ultra「Nova Lake-S」デスクトップ コア構成 Surface (111)\n\n2026 年 6 月 14 日 Intel が 2027 年向けコア「Raptor Lake Next」ソケット LGA1700 プロセッサーを準備 (184)\n\n2026 年 7 月 17 日 Intel、52 コア バージョンの前に 28 コア「Nova Lake-S」を発売 (41)\n\n2026 年 1 月 10 日 Intel Core Ultra X9 388H \"Panther Lake\" iGPU は、Cyberpunk 2077 で AMD \"Strix Point\" パフォーマンスを 2 倍に (98)\n\n2026 年 7 月 14 日 インテル、歩留まり向上の中で「Nova L…",
+      "ImageURL": "https://www.techpowerup.com/img/vSFY5VUyiwLn23oo.jpg"
+    },
+    {
+      "Title": "Intel Core Ultra 9 4590Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある",
+      "Link": "https://www.techpowerup.com/351714/intel-core-ultra-9-4590k-could-signal-new-naming-scheme-for-nova-lake-s",
+      "Published": "2026-08-19T12:21:50Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "Intel Core Ultra 9 4590Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある\n\n「Nova Lake-S」プロセッサファミリーの一部であるIntelの次期デスクトップCPU世代は、「Arrow Lake」ファミリーで使用されている現在の3桁の形式とは異なり、4桁の形式に戻る新しい命名規則を採用する可能性がある。リークされた CPU-Z の提出物によると、Intel の Core Ultra 9 4590K...\n\nIntel Core Ultra 9 4590Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある\n\n2026 年 7 月 3 日 インテル、ゲーム向けに 108 MB bLLC キャッシュを備えた 2 つの 22 コア「Nova Lake-S」SKU を準備 (279)\n\n2026 年 6 月 26 日 インテル「Nova Lake-S」52 コア OC SKU が PL2 モードで 474 W を消費 (291)\n\n2026 年 1 月 23 日 インテル Core Ultra シリーズ 4 「Nova Lake」プロセッサーが 2026 年後半に発売 (62)\n\n2026 年 4 月 13 日 Intel Core Ultra「Nova Lake-S」デスクトップ コア構成 Surface (111)\n\n2026 年 6 月 14 日 Intel が 2027 年向けコア「Raptor Lake Next」ソケット LGA1700 プロセッサーを準備 (184)\n\n2026 年 7 月 17 日 Intel、52 コア バージョンの前に 28 コア「Nova Lake-S」を発売 (41)\n\n2026 年 1 月 10 日 Intel Core Ultra X9 388H \"Panther Lake\" iGPU は、Cyberpunk 2077 で AMD \"Strix Point\" パフォーマンスを 2 倍に (98)\n\n2026 年 7 月 14 日 インテル、歩留まり向上の中で「Nova…",
       "ImageURL": "https://www.techpowerup.com/img/vSFY5VUyiwLn23oo.jpg"
     },
     {
@@ -8920,87 +9001,6 @@
       "Category": "zephyr",
       "Summary": "NXP MCX A5 Cortex-M33 MCU ファミリは、10BASE-T1S シングル ペア イーサネットおよびポスト量子暗号化をサポートします\n\nNXP は、10/100Mbps イーサネット MAC と統合 10BASE-T1S シングル ペア イーサネットを備えた Cortex-M33 MCU の MCX A5 ファミリを発表しました。\n\nNXP は、10/100Mbps イーサネット MAC と統合された 10BASE-T1S シングル ペア イーサネット デジタル PHY を備えた Cortex-M33 MCU の MCX A5 ファミリを発表しました。コントローラー、PLC、リモート I/O、ビルディングおよびエネルギー管理システム、その他の接続されたエッジ デバイスなどの産業およびネットワーク アプリケーションを対象としています。\n\nMCU は最大 240 MHz で動作し、最大 2 MB のデュアルバンク フラッシュと 640 KB SRAM に加え、複数の通信インターフェイスとアナログ周辺機器を備えています。セキュリティ機能には、EdgeLock アクセラレータ、PQC ハイブリッド サポートによるセキュア ブート、セキュアなファームウェア アップデート、ライフサイクル管理、セキュアなデバッグ、外部フラッシュ暗号化、および改ざん防止監視が含まれます。\n\nNXP MCX A5 シリーズ (MCXA577) 仕様:\n\nMCU コア Arm Cortex-M33 コアは最大 240 MHz でクロック動作\n\nFPU、DSP、MPU、TrustZone のサポートを含む\n\n効率的なデータ処理のための統合された SmartDMA コプロセッサ\n\n988.8 CoreMark (4.12 CoreMark/MHz) を実現\n\nメモリとストレージ ECC および書き込み中読み取りサポート付きの最大 2 MB デュアルバンク フラッシュ\n\n最大 640 KB SRAM、ECC 付きで最大 64 KB RAM として構成可能\n\nVBAT モードまで 24 KB …",
       "ImageURL": "https://www.cnx-software.com/wp-content/uploads/2026/08/NXP-MCX-A5-Series-Cortex-M33-MCUs.jpg"
-    },
-    {
-      "Title": "MSI Claw ハンドヘルドは、ClawLab で 180 Hz のディスプレイ オーバークロックとより広い VRR 範囲を実現",
-      "Link": "https://www.techpowerup.com/351698/msi-claw-handhelds-get-180-hz-display-overclock-and-wider-vrr-range-in-clawlab",
-      "Published": "2026-08-19T02:30:39Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "MSI Claw ハンドヘルドは、ClawLab で 180 Hz のディスプレイ オーバークロックとより広い VRR 範囲を実現\n\nMSI ClawLab Intel VRR Range Fix は、VRR サポートの改善とその他の修正を MSI の Claw ゲーム ハンドヘルド シリーズにもたらすことを目的としたコミュニティ プロジェクトであり、このプロジェクトはこれまでで最大のアップデートである v2.2.0 を発表しました。 MSI Claw A1M、Claw 7 AI+、Claw 8 AI+、および Claw 8 の新しいアップデートでは...\n\nMSI Claw ハンドヘルドは、ClawLab で 180 Hz のディスプレイ オーバークロックとより広い VRR 範囲を実現\n\n2026 年 5 月 2 日 AMD が Linux 向けに完全なオープンソース HDMI 2.1 サポートを準備 (47)\n\n2026 年 6 月 15 日 MSI Claw 8 EX AI+ 価格リーク: 1,800 ドル Intel Arc G3 Extreme Gaming Handheld (37)\n\n2026 年 7 月 14 日 MSI が PRO MAX OLED 271UPJW12 を発表: 世界初の 27 インチ 4K IJP OLED モニター (18)\n\n2026 年 8 月 3 日 MSI が PRO MAX OLED 271UPJW12 を発表: 世界初の 27 インチ 4K 120Hz IJP OLED モニター (10)\n\n2026 年 5 月 27 日 COMPUTEX 2026 で MSI の PRO MAX ラインナップをご紹介します: 美しくミニマリストなワークスペースのためのデスクトップとモニター (0)\n\n2026 年 6 月 23 日、OneXPlayer 3 ゲーミング ハンドヘルドが Intel Arc G3 Extreme で登場、開始価格は 1,400 ドル (14)\n\n2026 年 7 月 20 日 NVIDIA GeForce…",
-      "ImageURL": "https://www.techpowerup.com/img/3pWo6sQf42P5a9rR.jpg"
-    },
-    {
-      "Title": "リンクを圧縮して最適な QR コードを作成する",
-      "Link": "https://hackaday.com/2026/08/18/compress-links-for-optimal-qr-codes/",
-      "Published": "2026-08-19T02:00:24Z",
-      "Source": "Hackaday",
-      "Category": "text compression",
-      "Summary": "リンクを圧縮して最適な QR コードを作成する\n\nリンク短縮機能は 20 年以上にわたってオンラインの世界の定番となっていますが、いくつかの問題があります。1 つは、リンクが実際にどこに配置されているかが完全に不透明であることです。\n\nリンク短縮機能は 20 年以上にわたってオンラインの世界の定番となっていますが、いくつかの問題があります。まず、リンクが実際にどこに行くのかが完全に不透明であり、あらゆる種類の悪ふざけにさらされることになります。おそらく RickRolling がその最良のケースです。 2 つ目は、トラフィックが独自の悪意のある意図を持っている可能性のある外部サービスを経由していることです。 [PortalRunner] は、リンクを短くするのではなく、圧縮するというアイデアを思いつきました。\n\ntinyurl のような従来の URL 短縮ツールは、ランダムなコードを生成し、それをデータベース内の元のリンクに関連付けるだけです。それは問題ありませんが、サードパーティのデータベースに依存していることになります。別の方法は、URL を取得し、何らかの方法でエンコードし、データに何らかの圧縮アルゴリズムを適用することです。エンコードと圧縮がオープンソースである場合 ([ポータル] は間違いなくオープンソースです)、リンクをたどる前に自分で確認したり、安心して全体を自己ホストしたりできます。ボーナスとして、[Portal] の Ha.mr (ハンマーと発音します) は、簡単にスキャンできるように最適化された QR コードも提供します。 QR コードには特定の英数字の文字セットが組み込まれており、完全な UTF-8 ではありません。単純にランダム テキストを使用すると、バイト モードになり、より多くの QR 領域が必要になります。逆に、保存するビット数が少ないほど、同じサイズで QR コードをスキャンするのが容易になります。圧縮リンクのテキスト バージョンでは、絵文字を含む UTF-8 を使用できますが、必須ではありません。\n\nプロジェクト全体には、「なぜみんなが…",
-      "ImageURL": "https://hackaday.com/wp-content/uploads/2026/08/hammr-featured.jpg"
-    },
-    {
-      "Title": "この 30 ドルの Scythe CPU クーラーは Intel と AMD の最新チップに対応しており、60% オフです",
-      "Link": "https://www.xda-developers.com/scythe-mugen-6-black-edition-cpu-cooler-30-deal/",
-      "Published": "2026-08-19T01:29:35Z",
-      "Source": "XDA",
-      "Category": "Under $100",
-      "Summary": "この 30 ドルの Scythe CPU クーラーは Intel と AMD の最新チップに対応しており、60% オフです\n\nオフセット設計と精密取り付け\n\nこの 30 ドルの Scythe CPU クーラーは Intel と AMD の最新チップに対応しており、60% オフです\n\nクレジット: Scythe By Timi Cantisano 公開 2026 年 8 月 18 日、午後 9 時 29 分 EDT Timi は 10 年以上にわたり、スマートフォン、コンピューター、およびテクノロジー分野で興味深いと思うあらゆるものに焦点を当ててテクノロジーについて執筆してきました。彼は XDA に執筆を開始し、モバイルに関するあらゆることをカバーしていましたが、インターネット上で最高のハイテク製品の最高の割引を明らかにすることを使命として、取引をカバーすることに移行しました。 XDA アカウントにサインインする Scythe Mugen 6 Black Edition CPU クーラーは、Intel および AMD の最新チップと互換性があり、6 本のヒートパイプ設計と 2 つの Wonder Tornado 120 ファンにより優れた冷却を実現します。ハードウェアのラインナップがそれほど大したものではないと思われる場合は、このファンが大量の空気を移動させることを知ってください。メーカー希望小売価格は 75 ドルですが、現在 Woot から期間限定で 60% オフの 30 ドルで購入できます。\n\nScythe Mugen 6 ブラック エディション CPU クーラー $30 $75 節約 $45 ブランド Scythe 電圧 12V 互換性のあるデバイス Intel : LGA 1851 / 1700 / 115x / 1200 / 2011 / 2066 AMD : AM5 / AM4 ノイズレベル 3.00 ～ 26.88 dBA エアフロー容量 7.68 ～ 60.29 Woot で CFM 30 ドル 展開 折りたたむ Scythe Mugen 6 ブラック エ…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/copy-of-169-1-5.jpg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
-      "Title": "この Windows 診断 1 つで、PC のシャットダウンに永遠に時間がかかる理由がわかります。",
-      "Link": "https://www.xda-developers.com/one-windows-diagnostic-why-pc-takes-forever-to-shut-down/",
-      "Published": "2026-08-19T00:00:15Z",
-      "Source": "XDA",
-      "Category": "PC",
-      "Summary": "この Windows 診断 1 つで、PC のシャットダウンに永遠に時間がかかる理由がわかります。\n\nイベント ビューアは、Windows の異常を診断するための頼りになるソースです。\n\nこの Windows 診断 1 つで、PC のシャットダウンに永遠に時間がかかる理由がわかります。\n\nBy Tanveer Singh 公開 2026 年 8 月 18 日、午後 8 時 EDT 7 年間の勤務を経て、Tanveer は執筆とテクノロジーへの愛が抑えられないことに気づきました。マーケティングの MBA を取得し、PC 構築ビジネスのオーナーでもある彼は、PC ハードウェア、テクノロジ、および Windows について執筆しています。 Web でアイデアを探していないときは、PC を構築したり、アニメを見たり、RTX 3080 でスマッシュ カートをプレイしたりしています (ため息)。 XDA アカウントにサインインします 起動時間が長いことを好む人はいませんが、シャットダウン時間が長いことも歓迎されません。 「シャットダウン」をクリックするだけで作業を開始できますが、PC の電源を切るのに異常に時間がかかると、おそらくずっとイライラし続けるでしょう。頑固なアプリから Windows Update の問題まであらゆるものをチェックしても、まだ答えに近づけない場合は、イベント ビューアで決定的な証拠を確認することをお勧めします。\n\nシャットダウンの遅延と重大なエラーを追跡する専用のイベント ログがあり、簡単なフィルターで表示できます。過去数回のシャットダウンを遅らせたアプリまたはプロセスを、その原因となった遅延量も含めて明らかにすることができます。\n\n典型的な修正チェックリストはおそらく役に立たない\n\n真犯人は目に見えるところに隠れているかもしれない\n\nシャットダウンに時間がかかる場合、Windows ユーザーが最初に疑うのは Windows Update です。 Windows 11 は無数のアップデートをプッシュすることで悪名高く、その多くは PC のシャットダウン時に…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/img20260815123644.jpg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
-      "Title": "Edge Link は古い産業機器をアップグレードするための DIY ソリューションです",
-      "Link": "https://blog.arduino.cc/2026/08/19/edge-link-is-a-diy-solution-to-upgrade-old-industrial-equipment/",
-      "Published": "2026-08-18T23:42:42Z",
-      "Source": "Arduino Blog",
-      "Category": "predictive maintenance",
-      "Summary": "Edge Link は古い産業機器をアップグレードするための DIY ソリューションです\n\n技術的に言えば、産業界は他の誰よりも遅れをとっています。信頼性、安全性、メンテナンスが最大の懸念事項であり、実証済みの制御ソリューションが最優先されることを意味します。新しい施設であっても、数十年前の技術に依存する機械がたくさんあります。 Mukesh Sankhla の Edge Link は、その機器を現代のシステムに組み込むための DIY ソリューションです […]\n\nEdge Link は古い産業機器をアップグレードするための DIY ソリューションです | Arduino ブログ ブログ ホーム \u003e\n\nArduino App Lab 0.10: エージェントモードの紹介\n\nEdge Link は古い産業機器をアップグレードするための DIY ソリューションです\n\n技術的に言えば、産業界は他の誰よりも遅れをとっています。信頼性、安全性、メンテナンスが最大の懸念事項であり、実証済みの制御ソリューションが最優先されることを意味します。新しい施設であっても、数十年前の技術に依存する機械がたくさんあります。 Mukesh Sankhla の Edge Link は、危険な改造を施すことなく、その機器を現代に取り入れるための DIY ソリューションです。\n\nEdge Link は、あらゆる機械の電気キャビネット内の標準 DIN レールに適合する小型デバイスです。 Modbus、RS-485 などを介して、多くのレガシー マシンや制御システムと「通信」できます。これらのプロトコルを通じて、データの受信と制御コマンドの送信の両方が可能ですが、明らかに詳細は対象の機器によって異なります。\n\n最も基本的に、Edge Link は IoT ゲートウェイのように機能します。データをログに記録し、ネットワーク上で利用できるようにすることで、施設管理者はマシンのステータスを監視できます。機器がサポートしている場合は、同じチャネルに沿った制御も可能になります。たとえば、朝の勤務に入る前にスタートアッ…",
-      "ImageURL": "https://blog.arduino.cc/wp-content/uploads/2026/08/Edge-Link.jpg"
-    },
-    {
-      "Title": "3D プリント用のホットエンドと材料データベース",
-      "Link": "https://hackaday.com/2026/08/18/a-hot-end-and-material-database-for-3d-printing/",
-      "Published": "2026-08-18T23:00:54Z",
-      "Source": "Hackaday",
-      "Category": "Nozzle",
-      "Summary": "3D プリント用のホットエンドと材料データベース\n\nFDM の世界における 3D プリントに関しては、3D プリンタやスライサーに同梱されている標準設定に依存するだけで、大きな成果を上げることができます。ただし、限界を超えたい場合は、お金がかかります…\n\nFDM の世界における 3D プリントに関しては、3D プリンタやスライサーに同梱されている標準設定に依存するだけで、大きな成果を上げることができます。ただし、限界を押し広げたい場合は、使用しているハードウェアと材料をより深く理解し、何が解決できるかを知ることが有益です。そのために、[Robert Samples] は MeltCalc データベースを作成して支援しました。\n\nMeltCalc の目的は単純です。最大流量、印刷速度、ヒーター要件などの要素に関するホット エンドと材料のデータを照合します。たとえば、特定のホットエンドが特定のフィラメントを特定の速度で流すことができるかどうか疑問に思っている場合は、このツールから始めるのが最適です。 3D プリンティングの世界で通常使用される 64 種類のホットエンドと 36 種類のポリマーを備えており、コア ヒーティング テクノロジー (CHT) ノズルのような高度な技術を考慮しても、最大流量とプリント速度の推定値を吐き出すことができます。これらはすべて、[ロバート] がポリマーを扱う化学者としての経験に基づいてまとめた熱力学モデリングに基づいています。彼の目的は、ホットエンド向けに現実的な流量を備えたツールを提供し、エンドユーザーがしばしば楽観的なマーケティング数値だけに頼る必要がないようにすることでした。\n\nコードとモデリングをさらに詳しく知りたい方は、プロジェクト ソースを Github で入手できます。最近では、波のオーバーハングを実現する方法についての最近の考察など、この分野で他のあらゆる種類の便利なハックも紹介してきました。独自の気の利いた 3D プリント ツールを開発中の場合は、ためらわずにヒントラインに通知してください。",
-      "ImageURL": "https://hackaday.com/wp-content/uploads/2026/08/Screenshot-2026-08-18-161611-e1787033799276.png"
-    },
-    {
-      "Title": "Google AI Pro は月額 20 ドルかかりますが、Gemma 4 は無料で同じ仕事をしてくれます",
-      "Link": "https://www.xda-developers.com/google-ai-pro-cost-me-20-a-month-but-gemma-4-does-the-same-job-for-free/",
-      "Published": "2026-08-18T23:00:16Z",
-      "Source": "XDA",
-      "Category": "Productivity",
-      "Summary": "Google AI Pro は月額 20 ドルかかりますが、Gemma 4 は無料で同じ仕事をしてくれます\n\nさようなら、Google AI プロ。 Gemma 4 をありがとう、Google!\n\nGoogle AI Pro は月額 20 ドルかかりますが、Gemma 4 は無料で同じ仕事をしてくれます\n\nBy Abhinav Raj 公開 2026 年 8 月 18 日、午後 7 時 EDT アビナブは、銀行マンとしてのキャリアから方向転換し、初恋を作家として追求しました。フルタイムで働きながらも、編集長として貢献を続け、その役割を 7 年以上務めました。生涯テクノロジー愛好家であり、2018 年以来、ゲームと生産性に優れた PC を 3 台開発してきました。テクノロジーへの情熱により、NVIDIA や AMD から ARM に至るまで、半導体業界を常に追い続けています。彼の修士論文では、人工知能が仕事の未来をどのように再構築するかを探求し、新興テクノロジーの広範な社会的影響に対する彼の好奇心を反映しています。 XDA アカウントにサインインする Gemma 4 でできることはたくさんあります。ソネットを作成したり、宿題を手伝ったり、乱雑なメモを整理したり、Excel スプレッドシートを理解したりできます。正しく使用すると、おそらく十分な価値が得られていないサブスクリプションで 20 ドルを節約できます。私はその機能のほとんどすべてを自分自身の使用で直接体験してきました。\n\nユーザーとして求められることもほとんどありません。たとえあなたが 16GB の RAM と 8GB の VRAM を搭載したラップトップを持っているとしても、その上位機種とほぼすべての機能を備えた、量子化されたバージョンが存在し、文句を言う余地がなく、当座預金口座がもう少し豊かになる可能性があります。私が Google に月額 20 ドルを支払うよりも、Gemma 4 をローカルで実行することを好む理由は次のとおりです。\n\nジェミニにお金を払いすぎていたことに気づきました\n\n使い方によっては、払い…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/gemma-4-laptop.jpg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
-      "Title": "Razer Seiren V3 Chroma マイクが 60% 値下げされ、史上最低価格のわずか 52 ドルで登場",
-      "Link": "https://www.xda-developers.com/razer-seiren-v3-chroma-52-deal/",
-      "Published": "2026-08-18T22:39:29Z",
-      "Source": "XDA",
-      "Category": "Under $100",
-      "Summary": "Razer Seiren V3 Chroma マイクが 60% 値下げされ、史上最低価格のわずか 52 ドルで登場\n\nあなたはだめです\n\nRazer Seiren V3 Chroma マイクが 60% 値下げされ、史上最低価格のわずか 52 ドルで登場\n\nBy Timi Cantisano 公開 2026 年 8 月 18 日、午後 6 時 39 分 EDT Timi は 10 年以上にわたり、スマートフォン、コンピューター、およびテクノロジー分野で興味があるものすべてに焦点を当ててテクノロジーについて執筆してきました。彼は XDA に執筆を開始し、モバイルに関するあらゆることをカバーしていましたが、インターネット上で最高のハイテク製品の最高の割引を明らかにすることを使命として、取引をカバーすることに移行しました。 XDA アカウントにサインインする Razer Seiren V3 Chroma は、オーディオを次のレベルに引き上げるのに必要なマイクです。ストリーミング、ポッドキャスト、会議、ビデオ通話などに最適です。小売価格は 130 ドルと高価ですが、ホワイト モデルは現在、Best Buy で 60 周年記念セール中です。 Best Buy はこれを記念して 60% オフを実施し、期間限定でわずか 52 ドルに値下げします。これは、ほとんどの大手小売店でこれまでに見た中で最高の価格なので、今のうちに手に入れてください。\n\nRazer Seiren V3 Chroma White Edition $52 $130 節約 $78 パターン スーパーカーディオイド感度 -34 dB (1 kHz で 1 V / Pa) 最大 SPL 110 dB ビット深度 24 ビット サンプルレート 96 kHz 優れた音声キャプチャのためのスーパーカーディオイド コンデンサー マイクと Chroma RGB を組み合わせた USB マイクで、ストリームおよびゲーム リアクティブ ライティングと Razer 全体にわたる同期を提供します。クロマRGBエコシステム。\n\nプロジェクトで…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/03/razer-seiren-v3-chroma-rgb-front-side.jpg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
-      "Title": "ウクライナの無人機がロシア戦車の新しいアクティブ防御システムを圧倒 - 今のところ",
-      "Link": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-overwhelm-russian-tanks-new-active-protection-system-for-now/",
-      "Published": "2026-08-18T22:18:13Z",
-      "Source": "Ars Technica Gear \u0026 Gadgets",
-      "Category": "Ukraine war",
-      "Summary": "ウクライナの無人機がロシア戦車の新しいアクティブ防御システムを圧倒 - 今のところ\n\n無人機を撃墜するための防御技術を備えた戦車は依然として脆弱であることが判明しています。\n\nテキスト設定 ストーリーテキスト サイズ 小 標準 大 幅 * 標準 ワイドリンク 標準 オレンジ * 購読者限定 詳細はこちら ナビゲーションを最小限に抑える ロシアの戦車が、飛来するドローンを撃墜するように設計された新しいアクティブ保護システムを搭載して初めて戦闘に参加した。しかし、この技術の最近のウクライナでの実戦デビューは限られた成功しか収められず、依然としてウクライナの無人機が圧倒的な数で攻撃してロシアの装甲車両を破壊した。\n\nアリーナ-Mアクティブ防護システムが戦場で最初に記録されたのは、7月22日にロシア軍がウクライナ東部のドネツク州で戦車やその他の装甲車両による中隊規模の攻撃を開始したときである。ユーロマイダン・プレスによると、ウクライナの守備隊は攻撃を撃退し、アリーナ-Mシステムを搭載した戦車を含む少なくとも7台のT-72B3A戦車を神風ドローン攻撃で破壊するビデオ映像を投稿したという。\n\nしかし、ジャーナリストのドミトロ・プティアタ氏とロブ・リー氏によると、ウクライナ軍兵士らは、ロシアのアリーナ-Mシステムが飛来するドローンの一部を撃墜することに成功したとも述べている。ウクライナ側は、各戦車を撃破するには15機から20機の無人機が必要だと報告した。\n\nこの事件は「ロシア軍がドローンで飽和した戦場で装甲を使用する方法を学び、実験していることを示した」とリー氏はXに書いた。「アリーナ-M（アクティブ防護システム）は有効性を実証しており、おそらく改善されるだろう。」\n\nこの展開は、ロシアが2022年2月にウクライナへの本格的な侵攻を開始してから4年以上が経過した後に起こったもので、ドローン戦が主流の現代の戦場では大規模な装甲攻撃がますます不足しているためだ。これは進行中の軍拡競争の一環であり、多くの軍隊が安価な無人機の群れから高価な主力戦車やその他の装甲車両の最も弱い部分を守る方法を…",
-      "ImageURL": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-2.13.55-PM-1152x648.png"
     }
   ]
 }
