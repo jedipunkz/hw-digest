@@ -1,6 +1,24 @@
 {
   "akiba": [
     {
+      "Title": "Android 17はメモリを使い過ぎるアプリを強制終了",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2134666.html",
+      "Published": "2026-08-21T11:10:55Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "Android 17はメモリを使い過ぎるアプリを強制終了\n\nメモリを使い過ぎるアプリを、Androidが強制的に終了する。Googleは8月19日(現地時間)、Android 17においてアプリごとのメモリ制限を導入したと発表した。この制限により、アプリの過剰なメモリ使用でシステム全体の動作が遅くなることを防ぐ。Pixelデバイスを皮切りに展開を進めていくという。\n\nメモリを使い過ぎるアプリを、Androidが強制的に終了する。Googleは8月19日(現地時間)、Android 17においてアプリごとのメモリ制限を導入したと発表した。この制限により、アプリの過剰なメモリ使用でシステム全体の動作が遅くなることを防ぐ。Pixelデバイスを皮切りに展開を進めていくという。\n\nこの仕組みでは、アプリのメモリ使用量が上限を超えると、Android OS側がアプリに対して段階的な措置を行なう。第1段階はzRAMスワッピングで、アプリのページをzRAM(圧縮メモリ)に強制的に移動させる。メモリの内容は削除されないが、ページの圧縮/展開が必要になるため、アプリの動作にカクつきや遅延が起こる可能性があると同社は説明している。\n\nアプリのメモリ使用量がzRAMのしきい値を超えて増加し続ける場合は、第2段階としてシステムがプロセスを終了する。つまり、アプリが強制的に終了される。\n\n同社は、デバイスの高速化や応答性の改善だけでなく、メモリ価格の高騰を踏まえても、メモリの最適化がこれまで以上に重要になると指摘。開発者に対し、メモリ使用量を見直す機会にしてほしいと説明している。",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2134/666/01.jpg"
+    },
+    {
+      "Title": "ファーウェイ、折り畳めない折り畳み「Pura X View」発表。実質Xperia Z Ultra後継の変則比率スマホに",
+      "Link": "https://smhn.info/202608-huawei-pura-x-view",
+      "Published": "2026-08-21T10:59:12Z",
+      "Source": "すまほん!!",
+      "Category": "中国",
+      "Summary": "ファーウェイ、折り畳めない折り畳み「Pura X View」発表。実質Xperia Z Ultra後継の変則比率スマホに\n\n上下ベゼルなしズルトラ。Huaweiは8月20日、横に広い板型スマートフォン「HUAWEI Pura X View」を中国で発表しました。予約受付は同日18時8分にスタート。変則的な画面アスペクト比「16:9.5」を採用した新しい形の端末です。この端末は、2025年に登場した折り...\n\nファーウェイ、折り畳めない折り畳み「Pura X View」発表。実質Xperia Z Ultra後継の変則比率スマホに\n\nHuaweiは8月20日、横に広い板型スマートフォン「HUAWEI Pura X View」を中国で発表しました。予約受付は同日18時8分にスタート。変則的な画面アスペクト比「 16:9.5 」を採用した新しい形の端末です。\n\nこの端末は、2025年に登場した折りたたみ端末「Pura X」の開いた状態に近い画面を、折りたたみ機構のない板型端末へ載せたような製品です。\n\n6.39型画面の解像度は2232×1320ドット。画面占有率は96.1％に達し、四辺のベゼル幅は1.05mmでぴたりとそろえられています。画面の1％を点灯した状態での局所ピーク輝度は6500ニト。低輝度時には2160Hzの高周波PWM調光にも対応します。\n\n横長画面は何に使うのか。Huaweiが主な用途として挙げているのは、電子書籍や漫画の表示、ゲームの視野、16:9映像の再生、そして文書閲覧といったあたりです。\n\n本体は厚さ6.68mm（カメラ突起部除く）で、重さ201g。そこに7000mAh（定格容量6815mAh）の電池を積んでいます。\n\nこの 16:9 に近い大画面から、2013年に登場したソニーの名機「Xperia Z Ultra」を思い出しました。\n\nXperia Z Ultraは、6.44型、1920×1080ドット、アスペクト比16:9の画面を搭載していました。対するPura X Viewは、6.39型、2232×1320ドット、アスペクト比16:9.5です。両…",
+      "ImageURL": "https://smhn.info/wp-content/uploads/2026/08/a7b5722eebf98337b637cb0a43fc7466.webp"
+    },
+    {
       "Title": "【Amazon 暮らし応援夏祭りSale】NZXTのミドルタワー「H5 Flow RGB v2」が最大50％オフ",
       "Link": "https://www.gdm.or.jp/pressrelease/2026/0821/649063",
       "Published": "2026-08-21T10:29:21Z",
@@ -2332,15 +2350,6 @@
       "ImageURL": "https://gori.me/uploads/2020/09/iOS14-features-worth-trying-07-800x513.jpg"
     },
     {
-      "Title": "Intel N100搭載の「Lenovo 14e Chromebook Gen 3」が1万円、中古品がML COMPUTERSでセール",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2133544.html",
-      "Published": "2026-08-19T00:00:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "Intel N100搭載の「Lenovo 14e Chromebook Gen 3」が1万円、中古品がML COMPUTERSでセール\n\nIntel N100（4コア4スレッド）搭載のLenovo製14インチChromebook「14e Chromebook Gen 3」が、ML COMPUTERSの通販サイトで販売中。\n\nIntel N100搭載の「Lenovo 14e Chromebook Gen 3」が1万円、中古品がML COMPUTERSでセール\n\nIntel N100（4コア4スレッド）搭載のLenovo製14インチChromebook「14e Chromebook Gen 3」が、 ML COMPUTERSの通販サイト で販売中。\n\n「ディスプレイに若干の光量むらがある場合がある」（販売ページ）という中古品で、価格は10,000円。\n\n主な仕様は、ディスプレイ解像度が1,920×1,080ドット、メモリ容量が4GB、ストレージ容量が64GBフラッシュメモリ、OSがChrome OSなど。\n\n付属品はACアダプタで、「他メーカーの同等品、互換品となる場合もございます」（販売ページ）とのこと。",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2133/544/a1.jpg"
-    },
-    {
       "Title": "�����֥ȥ��������Ȥ����ݤ����ܥ����륷�塼�ƥ��󥰡֥���ɥ�����V���饹�ȥ������פ��Ҳ𡣤��襤�������ܤȤ�΢ʢ�ι����١�BIC2026��",
       "Link": "https://www.4gamer.net/games/034/G103422/20260818046/",
       "Published": "2026-08-19T00:00:00Z",
@@ -2348,6 +2357,15 @@
       "Category": "HARDWARE",
       "Summary": "�����֥ȥ��������Ȥ����ݤ����ܥ����륷�塼�ƥ��󥰡֥���ɥ�����V���饹�ȥ������פ��Ҳ𡣤��襤�������ܤȤ�΢ʢ�ι����١�BIC2026��\n\n韓国のインディーゲームイベント「BIC2026」に出展されていた，Studio HORANGの新作PCゲーム「ワールドウォーV：ラストコール」を紹介しよう。本作は，ピクセルのように細かいボクセルで組…\n\nウェブトゥーン作家が手掛けるボクセルシューティング「ワールドウォーV：ラストコール」を紹介。かわいい見た目とは裏腹の高難度［BIC2026］ ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 夏は七不思議ならぬ“七不穏”で暑さを忘却の彼方へ――涼しくチルアウトできる終末，陰鬱，ディストピアな7つのゲーム ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ ひと夏の思い出に「桃鉄」100年プレイ。みんなで完走するための準備＆プレイガイド ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ Riot Gamesが明らかにしたアンチチートシステム「Vanguard」の仕組み。Windowsの進化に合わせてチート対策も強力に ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「スプラトゥーン レイダース」初心者ガイド。これで“気がついたら囲まれ…",
       "ImageURL": "https://www.4gamer.net/games/034/G103422/20260818046/SS/004.jpg"
+    },
+    {
+      "Title": "Intel N100搭載の「Lenovo 14e Chromebook Gen 3」が1万円、中古品がML COMPUTERSでセール",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2133544.html",
+      "Published": "2026-08-19T00:00:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "Intel N100搭載の「Lenovo 14e Chromebook Gen 3」が1万円、中古品がML COMPUTERSでセール\n\nIntel N100（4コア4スレッド）搭載のLenovo製14インチChromebook「14e Chromebook Gen 3」が、ML COMPUTERSの通販サイトで販売中。\n\nIntel N100搭載の「Lenovo 14e Chromebook Gen 3」が1万円、中古品がML COMPUTERSでセール\n\nIntel N100（4コア4スレッド）搭載のLenovo製14インチChromebook「14e Chromebook Gen 3」が、 ML COMPUTERSの通販サイト で販売中。\n\n「ディスプレイに若干の光量むらがある場合がある」（販売ページ）という中古品で、価格は10,000円。\n\n主な仕様は、ディスプレイ解像度が1,920×1,080ドット、メモリ容量が4GB、ストレージ容量が64GBフラッシュメモリ、OSがChrome OSなど。\n\n付属品はACアダプタで、「他メーカーの同等品、互換品となる場合もございます」（販売ページ）とのこと。",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2133/544/a1.jpg"
     },
     {
       "Title": "Apple Watch Ultra 3を「今」買うのって、アリ？Ultra 4がマイナーアップデートなら1.8万円オフは魅力的かも……",
@@ -4481,27 +4499,72 @@
       "Category": "",
       "Summary": "(アキバ取材班) Core Ultra Series 3搭載、ASUSの小型PC「NUC 16 Pro Kit」が発売\n\nCore Ultra Series 3を搭載するASUSの小型ベアボーンキット「NUC 16 Pro Kit」が秋葉原で発売。Core Ultra 7 356H搭載モデルとCore Ultra 5 325搭載モデルをラインナップする。\n\n(アキバ取材班) Core Ultra Series 3搭載、ASUSの小型PC「NUC 16 Pro Kit」が発売\n\n最大128GBメモリ、Wi-Fi 7やデュアル2.5GbEにも対応\n\nASUSから、Intel Core Ultra Series 3プロセッサーを搭載する小型ベアボーンキット 「ASUS NUC 16 Pro Kit」 が発売された。ラインナップは「Core Ultra 7 356H」を搭載する 「RNUC16GDKU760000」 (税込153,380円)と、「Core Ultra 5 325」を搭載する 「RNUC16GDKU560000」 (税込124,180円)。 パソコンSHOPアーク 、 ツクモパソコン本店 、 TSUKUMO eX. で販売している。\n\nAIワークロードへの対応を想定した小型ベアボーンキット。Intel AI Boost（NPU 5）を備え、AI処理を活用するビジネスアプリケーションなどでの利用を想定している。\n\nベアボーンキットのため、メモリ、ストレージ、OSは別途用意する必要がある。電源アダプターは付属するものの、電源コードは別売りとなっているため、購入時には注意したい。\n\n上位モデルの「RNUC16GDKU760000」は、16コア/16スレッドのCore Ultra 7 356Hを搭載。Pコア最大4.7GHz、Eコア最大3.5GHz、LPEコア最大3.3GHzで動作。\n\n一方の「RNUC16GDKU560000」は、8コア/8スレッドのCore Ultra 5 325を搭載。Pコア最大4.5GHz、LPEコア最大3.4GHzで動作する。\n\nメモリはDDR5 …",
       "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/08/15/akiba_asus20260814_01.jpg"
-    },
-    {
-      "Title": "(アキバ取材班) USB4接続の10GbE LANアダプター、センチュリー「CFULAN10G」が発売",
-      "Link": "https://www.gdm.or.jp/crew/2026/0815/648246",
-      "Published": "2026-08-15T03:12:33Z",
-      "Source": "エルミタージュ秋葉原",
-      "Category": "",
-      "Summary": "(アキバ取材班) USB4接続の10GbE LANアダプター、センチュリー「CFULAN10G」が発売\n\nUSB4接続で最大10Gbpsの有線LAN環境を構築できるセンチュリー「CFULAN10G」が秋葉館に入荷。Thunderbolt 4/3にも対応し、価格は税込33,000円。\n\n(アキバ取材班) USB4接続の10GbE LANアダプター、センチュリー「CFULAN10G」が発売\n\nThunderbolt 4/3にも対応、ドライバー不要ですぐに使える\n\nセンチュリーから、USB4対応10GbE LANアダプター 「USB4 10GbE LAN adapter（CFULAN10G）」 が発売された。入荷を確認したのは 秋葉館 で、価格は税込33,000円。\n\nUSB4対応のUSB Type-Cポートを、10GbEの有線LANポートへ変換するLANアダプター。LANポートを搭載しないノートPCやMacなどに接続することで、最大10Gbpsの高速な有線ネットワーク環境を構築できる。\n\nLAN側はRJ-45を採用し、10GBASE-Tに加えて5Gbps、2.5Gbps、1Gbps、100Mbps、10Mbpsの各通信速度に対応。接続先のネットワーク環境に応じてリンク速度を切り替えられるため、10GbE環境だけでなく既存のネットワークでも利用できる。\n\nUSB4接続に加えてThunderbolt 4/3にも対応。MacではmacOS 13以降、WindowsではThunderbolt 4またはUSB4ポートを備えたWindows 11搭載PCで利用できる。ドライバーのインストールは不要で、接続するだけですぐに使用可能だ。\n\n本体にはアルミ製筐体を採用し、ボディ全体を放熱に活用することで、高速通信時に発生する熱を効率よく処理する設計。その他詳細については、関連記事を参照していただきたい。\n\n文： 編集部 Tawashi 株式会社センチュリー： https://www.century.co.jp/\n\nセンチュリー、USB4専用設計の10GbE対応LANアダプター「CFULAN1…",
-      "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/08/15/akiba_cen20260814_01.jpg"
-    },
-    {
-      "Title": "Core i5-9500やDVDマルチドライブ搭載のDELL製デスクトップPCが29,700円、Qualitの中古Cランク品セール",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2132743.html",
-      "Published": "2026-08-15T03:00:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "Core i5-9500やDVDマルチドライブ搭載のDELL製デスクトップPCが29,700円、Qualitの中古Cランク品セール\n\nCore i5-9500(6コア/6スレッド)を搭載したDELL製デスクトップPC「Optiplex 3070 3000SFF」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で特価販売中。\n\nCore i5-9500やDVDマルチドライブ搭載のDELL製デスクトップPCが29,700円、Qualitの中古Cランク品セール\n\nCore i5-9500(6コア/6スレッド)を搭載したDELL製デスクトップPC「Optiplex 3070 3000SFF」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で特価販売中 。\n\n今回販売されているのは、「傷や使用感が見られる」(同店)というCランク中古品で、販売価格は29,700円。保証期間は12か月となっています。\n\n主な仕様は、メモリが8GB(空きスロット×1)、ストレージが256GB M.2 SATA SSD、OSがWindows 11 Pro。インターフェイスには、HDMIやDisplayPort、VGAなどを備えるほか、DVDマルチドライブを搭載しています。",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2132/743/a1.jpg"
     }
   ],
   "world": [
+    {
+      "Title": "セガ、ゴールデンアックスのサプライズアニメ番組がパラマウント+に登場すると発表",
+      "Link": "https://www.kitguru.net/tech-news/mustafa-mahmoud/sega-announces-surprise-golden-axe-animated-show-coming-to-paramount/",
+      "Published": "2026-08-21T11:30:58Z",
+      "Source": "KitGuru",
+      "Category": "tv show",
+      "Summary": "セガ、ゴールデンアックスのサプライズアニメ番組がパラマウント+に登場すると発表\n\n現在開発中の新しいゲームで、SEGA / Paramount はアニメーションのゴールデン アックス TV 番組が来月初放送されることを発表しました。\n\nセガ、ゴールデンアックスのサプライズアニメ番組がパラマウント+に登場すると発表\n\nMustafa Mahmoud 10 分前 注目のテクノロジー ニュース , ソフトウェア \u0026 ゲーム , テクノロジー ニュース\n\n『ソニック・ザ・ヘッジホッグ』フランチャイズの復活が成功して以来、SEGA は、長く忘れられていた古典的 IP の多くを復活させることに取り組んできました。そのようなシリーズの 1 つが Golden Axe で、2023 年に復活が確認されました。しかし、今後のゲームと並行して、Paramount+ 向けのアニメ TV 番組が発表されました。公式トレーラーを公開し、SEGA / Paramount は、1989 年の横スクロール ビートゲームを基にしたアニメ番組「ゴールデン アックス」を発表しました。数週間後の 9 月 16 日に Paramount+ でデビューする予定の Golden Axe は、堅実なアニメーション、独特のキャラクター、明確なプロットを特徴として、驚くほど有能であるようです。この番組はマイク・マクマハンとジョー・チャンドラーによって共同制作されており、彼らはスタートレック: ローワー・デックスなどのさまざまなアダルトアニメシリーズに取り組んでいることで知られています。アメリカ人のお父さんと太陽の反対、つまり、メタ的で自虐的なユーモアがたくさん含まれる可能性が高いことを意味します。今後の試合自体について私たちが見たものはあまり興奮を引き起こしませんでしたが、このゴールデン アックス ショーは多くの期待を示しています。シリーズのあらすじは次のとおりです。「ゴールデン アックスは、伝説の戦士アックス バトラー、ティリス フレア、ギリウス サンダーヘッドを追って、死んだままではいられない邪悪な巨人デス アダーか…",
+      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/08/golden-axe-732x330.jpg"
+    },
+    {
+      "Title": "オーディオブック アプリをポッドキャスト フィードのために捨てて、今は実際に本を読み終えています",
+      "Link": "https://www.xda-developers.com/ditched-audiobook-apps-for-podcast-feeds-actually-finishing-books/",
+      "Published": "2026-08-21T11:30:15Z",
+      "Source": "XDA",
+      "Category": "Docker",
+      "Summary": "オーディオブック アプリをポッドキャスト フィードのために捨てて、今は実際に本を読み終えています\n\nオーディオブックをポッドキャスト エピソードのように扱うことで、オーディオブック アプリが見逃す 1 つの問題が解決されました。\n\nオーディオブック アプリをポッドキャスト フィードのために捨てて、今は実際に本を読み終えています\n\nクレジット: Dhruv Bhutani 著 2026 年 8 月 21 日午前 7 時 30 分 EDT 公開 Dhruv Bhutani は 2008 年から消費者向けテクノロジーについて執筆しており、特集記事や意見記事を通じて個人向けテクノロジーの状況について深い洞察を提供しています。彼は XDA-Developers に執筆しており、生産性、ネットワーキング、セルフホスティングなどのトピックに重点を置いています。長年にわたり、彼の作品は Android Police、Android Authority、CNET、PCMag などの主要出版物にも掲載されてきました。専門的な仕事以外では、ドゥルヴは映画や文学などのホラー メディアの熱心なファンであり、フィットネス アクティビティを楽しんだり、レコードを収集したり、ギターを弾いたりしています。\n\n私はオーディオブックを何度も試してみました。しかし、残り 12 時間のティッカーを見ると不安になります。それを乗り越えるのは私には無理だと言っておきましょう。とはいえ、メディアとしてのオーディオが問題なのではありません。私はポッドキャストをたくさん聞きます。ちなみに、オーディオドラマもかなり聞きます。\n\nそこで、ポッドキャストのアプローチを採用してオーディオブックの問題を解決するオープンソース アプリに出会ったとき、これはすぐに使えると思いました。 Podspine は、DRM フリーのオーディオブックを取得し、各書籍を独自の RSS フィードに変換し、各章を個別のポッドキャスト エピソードとして公開します。その後、使用しているポッドキャスト アプリでポッドキャスト、つまりオーディオブックを購読でき…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/podspine-audiobook-as-podcast.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "サンディスクの新しい 2,200 ドルの NAS SSD を使用すると、5 年間毎日ドライブをいっぱいにすることができます — 7.68 TB M.2 は、目を見張るような 14,000 TBW の定格を誇示します",
+      "Link": "https://www.tomshardware.com/pc-components/ssds/sandisks-new-nas-ssd-lets-you-fill-the-drive-every-day-for-five-years-7-68tb-m-2-flaunts-eye-popping-14-000-tbw-rating",
+      "Published": "2026-08-21T11:20:00Z",
+      "Source": "Tom's Hardware",
+      "Category": "Storage",
+      "Summary": "サンディスクの新しい 2,200 ドルの NAS SSD を使用すると、5 年間毎日ドライブをいっぱいにすることができます — 7.68 TB M.2 は、目を見張るような 14,000 TBW の定格を誇示します\n\nサンディスク NAS 800 SSD がエンタープライズ耐久性の領域に到達\n\nサンディスクの新しい 2,200 ドルの NAS SSD を使用すると、5 年間毎日ドライブをいっぱいにすることができます — 7.68 TB M.2 は、目を見張るような 14,000 TBW の定格を誇示します\n\nサンディスク NAS 800 SSD がエンタープライズ耐久性の領域に到達\n\n(画像クレジット: Sandisk) リンクをコピー\n\n0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する サンディスクは、市場で最高の SSD と競合するために、NAS 600 SATA および NAS 800 NVMe シリーズのドライブを発売しました。ただし、その名前がほのめかしているように、これらの SSD は特定のニッチ市場、つまり NAS デバイスをターゲットとしています。 Sandisk NAS 800 7.68TB は、14 PBW の耐久性を誇るこのロットの中で最大容量のドライブで、小売価格はなんと 2,199.99 ドルです。\n\nAI データセンターが世界のメモリとストレージの供給を飲み込んでいる\n\nデータセンターの CPU の需要が急増し、AI エージェントがその役割を担う\n\nNexperiaとDRAM危機が悪化する中、チップ不足が自動車業界を襲う\n\nカスタム AI ASIC の現状\n\n世界的なストレージ不足の真っ只中にあるにもかかわらず、サンディスクは依然としてストレージ業界で最も多忙な企業の 1 つです。以前に Sandisk 320 および 520 SATA SSD をリリースした同社は、2 つの新しい SSD ラインナップを携えて再び戻ってきました。従来の 2.5 インチ フォーム ファクタにこだ…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/zc5YLtJmG95WzxtXpMjw3L-2560-80.jpg"
+    },
+    {
+      "Title": "AAEON uCOM-Q6490 – Qualcomm Dragonwing QCS6490 SoC を搭載した SMARC 2.1 準拠の SoM",
+      "Link": "https://www.cnx-software.com/2026/08/21/aaeon-ucom-q6490-a-smarc-2-1-qualcomm-dragonwing-qcs6490-som/",
+      "Published": "2026-08-21T11:01:21Z",
+      "Source": "CNX Software",
+      "Category": "som",
+      "Summary": "AAEON uCOM-Q6490 – Qualcomm Dragonwing QCS6490 SoC を搭載した SMARC 2.1 準拠の SoM\n\nAAEON uCOM-Q6490 は、ロボット工学向けに設計された Qualcomm Dragonwing QCS6490 オクタコア SoC を中心に構築された SMARC 2.1 準拠のシステムオンモジュール (SoM) です。\n\nAAEON uCOM-Q6490 は、Qualcomm Dragonwing QCS6490 オクタコア SoC を中心に構築された SMARC 2.1 準拠のシステムオンモジュール (SoM) で、ロボット工学、ヘルスケア、産業オートメーション、およびデジタル サイネージ アプリケーション向けに設計されています。\n\n82 × 50 mm モジュールには、最大 16 GB LPDDR5 メモリと 64 GB UFS ストレージが搭載されており、標準の MXM 3.0 エッジ コネクタは、SDIO 3.0、PCIe 3.0、デュアル GbE、USB 3.1、および USB 2.0 インターフェイスに加え、UART、SPI、I2C、I2S、GPIO、および 2K をサポートする DisplayPort 1.4 出力を提供します。 60Hz。このモジュールは、LiDAR センサー、IMU、カメラ、ロボット コントローラー、スマート ディスプレイ、その他の産業用周辺機器向けに設計されています。\n\nAAEON uCOM-Q6490 仕様:\n\nSoC – Qualcomm Dragonwing QCS6490 CPU – オクタコア Kryo 670、1x Gold Plus コア (Cortex-A78) @ 2.7 GHz、3x Gold Core (Cortex-A78) @ 2.4 GHz、4x Silver コア (Cortex-A55) @ 最大 1.9 GHz\n\nGPU – Adreno 643L GPU @ 812 MHz、Open GL ES 3.2、OpenCL 2.0、Vulka…",
+      "ImageURL": "https://www.cnx-software.com/wp-content/uploads/2026/08/AAEON-uCOM-Q6490-A-SMARC-2.1-computer-on-module-COM-with-Qualcomm-Dragonwing-QCS6490-processor.jpg"
+    },
+    {
+      "Title": "Nvidia GPU がおそらく間違って動作している可能性があります。これらのコントロール パネルの変更により修正されます。",
+      "Link": "https://www.xda-developers.com/your-nvidia-gpu-probably-running-wrong-these-control-panel-changes-fix-it/",
+      "Published": "2026-08-21T11:01:15Z",
+      "Source": "XDA",
+      "Category": "Nvidia",
+      "Summary": "Nvidia GPU がおそらく間違って動作している可能性があります。これらのコントロール パネルの変更により修正されます。\n\nほとんどの人は、Nvidia GPU が弱っていることに気づかないまま放置しています。\n\nNvidia GPU がおそらく間違って動作している可能性があります。これらのコントロール パネルの変更により修正されます。\n\n文：Samarveer Singh 公開 2026 年 8 月 21 日、午前 7 時 01 分 EDT ゲームは、Samarveer の最大の情熱であり、文学を卒業した彼は、ゲームのテーマ、メッセージ、影響を分析することに大きな喜びを感じています。 Samarveer はゲームを深く評価しており、このプラットフォームがすべてのメディアの中で最も没入型で影響力のあるプラットフォームであると考えています。彼はオンラインのゲーム コミュニティに積極的に参加しており、レイ トレーシングの細かい点についていつでも議論する用意ができており、感情的に影響を与えたゲームについて 8 ページの大学論文を書きたくてウズウズしていることもあります。 XDA アカウントにサインインします。私は Nvidia GPU を長い間所有してきたので、ドライバーのインストールがセットアップ プロセスの終わりに近づいていないことを知っています。ただし、最初に PC を組み立てたときには、カードを所有してから数か月後に、Nvidia コントロール パネルの小さな設定がどれだけ多く存在するかを最終的に発見することになるとは思いませんでした。\n\nこれらの設定はどれも、どこを見ればよいのかさえわかれば、特にわかりにくいものではありません。 GPU を使い続けて数か月かけてゆっくりと出会うのではなく、初日から知っていればよかったと思います。今日、新しい Nvidia GPU をセットアップしている場合、これらの変更は、私のように苦労して発見するのを待つ代わりに、すぐに行う変更です。\n\n常に最初にリフレッシュ レートを確認してください\n\nモニターがネイティブ レートではなく …",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/nvidia-geforce-rtx-4070-ti-propped-between-two-plants.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "なりすましのシリアル番号で Cricut マシンのロックが解除される",
+      "Link": "https://hackaday.com/2026/08/21/spoofed-serial-number-unlocks-cricut-machine/",
+      "Published": "2026-08-21T11:00:02Z",
+      "Source": "Hackaday",
+      "Category": "Serial Number",
+      "Summary": "なりすましのシリアル番号で Cricut マシンのロックが解除される\n\n[xssfox] は最近、電子廃棄物処理施設で Cricut Maker を発見しました。デバイスを簡単にスキャンしたところ、いくつかの磨耗したローラーが残っているだけで、ある程度良好な状態であることがわかりました。開発者は…\n\n[xssfox] は最近、電子廃棄物処理施設で Cricut Maker を発見しました。デバイスを簡単にスキャンしたところ、いくつかの磨耗したローラーが残っているだけで、ある程度良好な状態であることがわかりました。このデバイスは、Cricut が必要に応じてマシンを無効化したりロックダウンしたりするのが十分に得意であることを認識して、回収されました。しかし、これらの措置は [xssfox] による復活を阻止しませんでした。\n\n元の所有者が保証による交換品などを受け取った後、マシンがロックアウトされた疑いがある。理由が何であれ、再び切断（Cricut?）する場合は、ローラーを修理し、機械のロックを解除する必要があります。マシンを Cricut ソフトウェアに接続すると、「非アクティブ化」されていることが示されたため、やるべき作業がありました。\n\nローラーの交換は難しくありませんでしたが、ハッキングには少し手間がかかります。マザーボードを調べても明らかな EEPROM は見つかりませんでした。また、マイクロコントローラーは [xssfox] がデバッガーを使用できるものではありませんでした。したがって、USB を介したマシンとホスト PC 間の通信の傍受に注意が向けられました。これにより、マシンがチェックサムや暗号化をまったく行わずに平文でシリアル番号を Cricut PC ソフトウェアに送信していることが明らかになりました。マシンのロック解除は、Cricut Maker とホスト PC の間に RP2040 を取り付けるのと同じくらい簡単でした。両者の間でパケットを中継し、その過程でシリアル番号を偽装するようにプログラムされていました。\n\n[xssfox] はソフトウェアの…",
+      "ImageURL": "https://hackaday.com/wp-content/uploads/2026/08/photo_2026-07-01-13.48.56-e1787211707856.jpeg"
+    },
+    {
+      "Title": "スロバキア、279台の新しい交通カメラでロシアのバックドアを発見 - EUの資金提供による展開でSMSトリガーのシェルアクセスとパスワードなしのライブフィードが発見",
+      "Link": "https://www.tomshardware.com/tech-industry/cyber-security/slovakia-discovers-russian-backdoors-in-279-new-traffic-cameras-national-security-service-deactivates-offending-units",
+      "Published": "2026-08-21T11:00:00Z",
+      "Source": "Tom's Hardware",
+      "Category": "Tech Industry",
+      "Summary": "スロバキア、279台の新しい交通カメラでロシアのバックドアを発見 - EUの資金提供による展開でSMSトリガーのシェルアクセスとパスワードなしのライブフィードが発見\n\nカメラ アクセス Web インターフェイスにもパスワードなしの脆弱性があります。\n\nスロバキア、279台の新しい交通カメラでロシアのバックドアを発見 - EUの資金提供による展開でSMSトリガーのシェルアクセスとパスワードなしのライブフィードが発見\n\nカメラ アクセス Web インターフェイスにもパスワードなしの脆弱性があります。\n\n(画像クレジット: NBU スロバキア ) リンクをコピー\n\n0 会話に参加してください フォローしてください Google ニュースレターの優先ソースとして追加してください ニュースレターを購読してください スロバキアは、279 台の新しい NERO R-ONE スピード違反取締りカメラを一括して購入し、交通管制システムの最新化を目指していたと Risky Bulletin ニュースレターが報じています。残念なことに、国の国家安全保障局である NBU は、カメラに複数のセキュリティ上の問題があることを発見しました。まず、彼らは SMS で起動するロシアのバックドアを持っています。次に、ライブカメラのフィードには、デバイスの IP があれば誰でもアクセスでき、パスワードは必要ありません。スロバキアは、EU基金の近代化予算3,000万ユーロのかなりの部分を、現在は停止されているこのシステムにつぎ込んだ。\n\n新たに設置された約 300 台の NERO R-ONE カメラは、サンクトペテルブルクに本拠を置くセミコン社が製造したロシアの CORDON PRO.M 交通カメラのブランド名を変更したものと考えられています。彼らの買収までの道のりはかなり曲がりくねっているように見え、伝えられるところによれば、大規模なバッチは偽の証明書を備えたキプロスに拠点を置くダミー会社経由で購入されたという。報告書はまた、スロバキアの野党からの圧力がNBUの調査につながったことを示唆している。ポピュリス…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/rssf7nwVXe3Fx3tJCdW5Ud-1920-80.jpg"
+    },
     {
       "Title": "複数の開発者が新しいスタジオに焦点を移すため、デッキナインが危険にさらされる可能性がある",
       "Link": "https://www.kitguru.net/tech-news/mustafa-mahmoud/deck-nine-may-be-in-danger-as-multiple-devs-shift-focus-to-new-studio/",
@@ -5277,15 +5340,6 @@
       "ImageURL": ""
     },
     {
-      "Title": "Android 搭載 TV ストリーミング スティックの将来は不透明なようだ",
-      "Link": "https://www.xda-developers.com/the-future-of-android-powered-tv-streaming-sticks-looks-uncertain/",
-      "Published": "2026-08-20T19:00:15Z",
-      "Source": "XDA",
-      "Category": "Google TV Streamer 4K",
-      "Summary": "Android 搭載 TV ストリーミング スティックの将来は不透明なようだ\n\nGoogle TV Streamer は 2024 年にリリースされましたが、新しいものの将来は明らかではありません。\n\nAndroid 搭載 TV ストリーミング スティックの将来は不透明なようだ\n\nBy Brian Burgess 公開 2026 年 8 月 20 日、午後 3 時 EDT ミネソタ州の田舎に拠点を置くブライアン バージェスは、消費者向けテクノロジーについて執筆することに情熱を注ぐまで、IT 業界で 10 年間働いていました。ブライアンは、2000 年にコンピュータおよびネットワーク テクノロジの学位を取得しました。彼は、ヘルプ デスク サポート、IBM のルーターの設置、データベース管理、その他のネットワーク管理関連の役割など、さまざまな IT 職を歴任しました。彼は 18 年間個人のテクノロジー ジャーナリストとして活動しており、Microsoft の製品とサービス、Android、iOS、ストリーミングなどに関する何千もの記事を執筆してきました。彼は、XDA、InformationWeek、How-To Geek、Byte、groovyPost などの著名な技術サイトに寄稿しています。彼がキーボードから離れているときは、ギターを弾いたり、屋外で仕事をしたり、スタートレックを見たりしているのが聞こえます。 XDA アカウントにサインインする Android/Google TV を搭載した真のストリーミング スティックはこれまで存在しませんでした。これまでにも手頃な価格の Onn Android TV スティックがいくつかありましたが、最初の Chromecast を除けば、Google は独自の Android TV ドングルを販売していません。 2024 年に、主力製品である Chromecast with Google TV (4K) を、実際にはセットトップ ボックスである Google TV Streamer に置き換えました。\n\nセマンティクスはさておき、こ…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/03/google-tv-table.jpg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
       "Title": "4 つのあまり知られていない Jellyfin プラグインなしではセルフホスト サーバーを実行できませんでした",
       "Link": "https://www.xda-developers.com/lesser-known-jellyfin-plugins-couldnt-run-self-hosted-server-without/",
       "Published": "2026-08-20T19:00:15Z",
@@ -5293,6 +5347,15 @@
       "Category": "Self-Hosting",
       "Summary": "4 つのあまり知られていない Jellyfin プラグインなしではセルフホスト サーバーを実行できませんでした\n\n通常のプラグインを超えて見る\n\n4 つのあまり知られていない Jellyfin プラグインなしではセルフホスト サーバーを実行できませんでした\n\nBy Anurag Singh 公開 2026 年 8 月 20 日、午後 3 時 EDT アヌラグは、過去 5 年間、Windows、Android、Apple を中心にテクノロジーをカバーしてきた経験豊富なジャーナリスト兼著者です。彼は Android Police、Neowin、Dexerto、MakeTechEasier などのサイトに執筆しています。アヌラグは常にテクノロジーに興味があり、最新のガジェットを手に入れるのが大好きです。先延ばしにしていないときは、おそらく彼が映画館で最新映画を鑑賞したり、ベッドから Twitter をスクロールしたりしているのを見かけるでしょう。 XDA アカウントにサインインする 私の Jellyfin ライブラリは、今や成熟したライブラリと呼べるものになりました。実際に何を見るべきかを探すのに時間を費やさなければならない段階に達しました。コレクションが小さいときは、すぐに使える Jellyfin アプリで十分ですが、コレクションが大きくなると、作業を楽にするプラグインを追加する必要があります。私自身、Jellyfin に追加したプラグインなしでは生きていけません。\n\nこれらは、Intro Skipper、Open Subtitles、Trakt、Playback Reporting など、誰もが推奨する通常の名前を超えています。私もこれらを使用していますが、セルフホスト型サーバーの実行を容易にするあまり知られていないプラグインです。\n\nJellyfin検索が便利になります\n\n見たいものの正確なタイトルがわかっている場合、Jellyfin の検索は問題ありません。ただし、単語のスペルを間違えたり、映画タイトルの一部しか覚えていない場合には、検索機能はあまり役に立ちません。 …",
       "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/jellyfin-on-mac.jpg?w=1600\u0026h=900\u0026fit=crop"
+    },
+    {
+      "Title": "Android 搭載 TV ストリーミング スティックの将来は不透明なようだ",
+      "Link": "https://www.xda-developers.com/the-future-of-android-powered-tv-streaming-sticks-looks-uncertain/",
+      "Published": "2026-08-20T19:00:15Z",
+      "Source": "XDA",
+      "Category": "Google TV Streamer 4K",
+      "Summary": "Android 搭載 TV ストリーミング スティックの将来は不透明なようだ\n\nGoogle TV Streamer は 2024 年にリリースされましたが、新しいものの将来は明らかではありません。\n\nAndroid 搭載 TV ストリーミング スティックの将来は不透明なようだ\n\nBy Brian Burgess 公開 2026 年 8 月 20 日、午後 3 時 EDT ミネソタ州の田舎に拠点を置くブライアン バージェスは、消費者向けテクノロジーについて執筆することに情熱を注ぐまで、IT 業界で 10 年間働いていました。ブライアンは、2000 年にコンピュータおよびネットワーク テクノロジの学位を取得しました。彼は、ヘルプ デスク サポート、IBM のルーターの設置、データベース管理、その他のネットワーク管理関連の役割など、さまざまな IT 職を歴任しました。彼は 18 年間個人のテクノロジー ジャーナリストとして活動しており、Microsoft の製品とサービス、Android、iOS、ストリーミングなどに関する何千もの記事を執筆してきました。彼は、XDA、InformationWeek、How-To Geek、Byte、groovyPost などの著名な技術サイトに寄稿しています。彼がキーボードから離れているときは、ギターを弾いたり、屋外で仕事をしたり、スタートレックを見たりしているのが聞こえます。 XDA アカウントにサインインする Android/Google TV を搭載した真のストリーミング スティックはこれまで存在しませんでした。これまでにも手頃な価格の Onn Android TV スティックがいくつかありましたが、最初の Chromecast を除けば、Google は独自の Android TV ドングルを販売していません。 2024 年に、主力製品である Chromecast with Google TV (4K) を、実際にはセットトップ ボックスである Google TV Streamer に置き換えました。\n\nセマンティクスはさておき、こ…",
+      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/03/google-tv-table.jpg?w=1600\u0026h=900\u0026fit=crop"
     },
     {
       "Title": "Google は、大規模なリリース日に向けて新しい Pixel 11 ビデオをいくつか用意しました",
@@ -7518,21 +7581,21 @@
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/google-photos-july-2026-redesign.jpg"
     },
     {
-      "Title": "Intel Core Ultra 9 4950Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある",
-      "Link": "https://www.techpowerup.com/351714/intel-core-ultra-9-4950k-could-signal-new-naming-scheme-for-nova-lake-s",
-      "Published": "2026-08-19T12:21:50Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "Intel Core Ultra 9 4950Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある\n\n「Nova Lake-S」プロセッサファミリーの一部であるIntelの次期デスクトップCPUは、「Arrow Lake」ファミリーで使用されている現在の3桁の形式とは異なり、4桁の形式に戻る新しい命名規則を採用する可能性がある。リークされた CPU-Z の提出物によると、Intel の Core Ultra 9 4950K...\n\nIntel Core Ultra 9 4950Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある\n\n2026 年 7 月 3 日 インテル、ゲーム向けに 108 MB bLLC キャッシュを備えた 2 つの 22 コア「Nova Lake-S」SKU を準備 (279)\n\n2026 年 6 月 26 日 インテル「Nova Lake-S」52 コア OC SKU が PL2 モードで 474 W を消費 (291)\n\n2026 年 1 月 23 日 インテル Core Ultra シリーズ 4 「Nova Lake」プロセッサーが 2026 年後半に発売 (62)\n\n2026 年 4 月 13 日 Intel Core Ultra「Nova Lake-S」デスクトップ コア構成 Surface (111)\n\n2026 年 6 月 14 日 Intel が 2027 年向けコア「Raptor Lake Next」ソケット LGA1700 プロセッサーを準備 (184)\n\n2026 年 7 月 17 日 Intel、52 コア バージョンの前に 28 コア「Nova Lake-S」を発売 (41)\n\n2026 年 1 月 10 日 Intel Core Ultra X9 388H \"Panther Lake\" iGPU は、Cyberpunk 2077 で AMD \"Strix Point\" パフォーマンスを 2 倍に (98)\n\n2026 年 7 月 14 日 インテル、歩留まり向上の中で「Nova L…",
-      "ImageURL": "https://www.techpowerup.com/img/vSFY5VUyiwLn23oo.jpg"
-    },
-    {
       "Title": "Intel Core Ultra 9 4590Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある",
       "Link": "https://www.techpowerup.com/351714/intel-core-ultra-9-4590k-could-signal-new-naming-scheme-for-nova-lake-s",
       "Published": "2026-08-19T12:21:50Z",
       "Source": "TechPowerUp",
       "Category": "",
       "Summary": "Intel Core Ultra 9 4590Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある\n\n「Nova Lake-S」プロセッサファミリーの一部であるIntelの次期デスクトップCPU世代は、「Arrow Lake」ファミリーで使用されている現在の3桁の形式とは異なり、4桁の形式に戻る新しい命名規則を採用する可能性がある。リークされた CPU-Z の提出物によると、Intel の Core Ultra 9 4590K...\n\nIntel Core Ultra 9 4590Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある\n\n2026 年 7 月 3 日 インテル、ゲーム向けに 108 MB bLLC キャッシュを備えた 2 つの 22 コア「Nova Lake-S」SKU を準備 (279)\n\n2026 年 6 月 26 日 インテル「Nova Lake-S」52 コア OC SKU が PL2 モードで 474 W を消費 (291)\n\n2026 年 1 月 23 日 インテル Core Ultra シリーズ 4 「Nova Lake」プロセッサーが 2026 年後半に発売 (62)\n\n2026 年 4 月 13 日 Intel Core Ultra「Nova Lake-S」デスクトップ コア構成 Surface (111)\n\n2026 年 6 月 14 日 Intel が 2027 年向けコア「Raptor Lake Next」ソケット LGA1700 プロセッサーを準備 (184)\n\n2026 年 7 月 17 日 Intel、52 コア バージョンの前に 28 コア「Nova Lake-S」を発売 (41)\n\n2026 年 1 月 10 日 Intel Core Ultra X9 388H \"Panther Lake\" iGPU は、Cyberpunk 2077 で AMD \"Strix Point\" パフォーマンスを 2 倍に (98)\n\n2026 年 7 月 14 日 インテル、歩留まり向上の中で「Nova…",
+      "ImageURL": "https://www.techpowerup.com/img/vSFY5VUyiwLn23oo.jpg"
+    },
+    {
+      "Title": "Intel Core Ultra 9 4950Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある",
+      "Link": "https://www.techpowerup.com/351714/intel-core-ultra-9-4950k-could-signal-new-naming-scheme-for-nova-lake-s",
+      "Published": "2026-08-19T12:21:50Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "Intel Core Ultra 9 4950Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある\n\n「Nova Lake-S」プロセッサファミリーの一部であるIntelの次期デスクトップCPUは、「Arrow Lake」ファミリーで使用されている現在の3桁の形式とは異なり、4桁の形式に戻る新しい命名規則を採用する可能性がある。リークされた CPU-Z の提出物によると、Intel の Core Ultra 9 4950K...\n\nIntel Core Ultra 9 4950Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある\n\n2026 年 7 月 3 日 インテル、ゲーム向けに 108 MB bLLC キャッシュを備えた 2 つの 22 コア「Nova Lake-S」SKU を準備 (279)\n\n2026 年 6 月 26 日 インテル「Nova Lake-S」52 コア OC SKU が PL2 モードで 474 W を消費 (291)\n\n2026 年 1 月 23 日 インテル Core Ultra シリーズ 4 「Nova Lake」プロセッサーが 2026 年後半に発売 (62)\n\n2026 年 4 月 13 日 Intel Core Ultra「Nova Lake-S」デスクトップ コア構成 Surface (111)\n\n2026 年 6 月 14 日 Intel が 2027 年向けコア「Raptor Lake Next」ソケット LGA1700 プロセッサーを準備 (184)\n\n2026 年 7 月 17 日 Intel、52 コア バージョンの前に 28 コア「Nova Lake-S」を発売 (41)\n\n2026 年 1 月 10 日 Intel Core Ultra X9 388H \"Panther Lake\" iGPU は、Cyberpunk 2077 で AMD \"Strix Point\" パフォーマンスを 2 倍に (98)\n\n2026 年 7 月 14 日 インテル、歩留まり向上の中で「Nova L…",
       "ImageURL": "https://www.techpowerup.com/img/vSFY5VUyiwLn23oo.jpg"
     },
     {
@@ -7599,8 +7662,8 @@
       "ImageURL": "https://www.techpowerup.com/img/hIn4S213e7hw8zgc.jpg"
     },
     {
-      "Title": "Nordic Semiconductor's nRF93M1 DK Makes Terrestrial Cellullar, Satellite IoT Accessible to All",
-      "Link": "https://www.hackster.io/news/nordic-semiconductor-s-nrf93m1-dk-makes-terrestrial-cellullar-satellite-iot-accessible-to-all-06f193966cf6",
+      "Title": "Nordic Semiconductor's nRF93M1 DK Makes Terrestrial Cellular, Satellite IoT Accessible to All",
+      "Link": "https://www.hackster.io/news/nordic-semiconductor-s-nrf93m1-dk-makes-terrestrial-cellular-satellite-iot-accessible-to-all-06f193966cf6",
       "Published": "2026-08-19T11:46:58Z",
       "Source": "Hackster.io",
       "Category": "",
@@ -7608,8 +7671,8 @@
       "ImageURL": ""
     },
     {
-      "Title": "Nordic Semiconductor's nRF93M1 DK Makes Terrestrial Cellular, Satellite IoT Accessible to All",
-      "Link": "https://www.hackster.io/news/nordic-semiconductor-s-nrf93m1-dk-makes-terrestrial-cellular-satellite-iot-accessible-to-all-06f193966cf6",
+      "Title": "Nordic Semiconductor's nRF93M1 DK Makes Terrestrial Cellullar, Satellite IoT Accessible to All",
+      "Link": "https://www.hackster.io/news/nordic-semiconductor-s-nrf93m1-dk-makes-terrestrial-cellullar-satellite-iot-accessible-to-all-06f193966cf6",
       "Published": "2026-08-19T11:46:58Z",
       "Source": "Hackster.io",
       "Category": "",
@@ -7716,21 +7779,21 @@
       "ImageURL": ""
     },
     {
-      "Title": "優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ノートパソコン: Asus ExpertBook PM5 G2 レビュー",
-      "Link": "https://www.notebookcheck.net/AMD-Business-Laptop-with-a-Great-144-Hz-IPS-Display-Asus-ExpertBook-PM5-G2-Review.1368549.0.html",
-      "Published": "2026-08-19T11:06:00Z",
-      "Source": "Notebookcheck",
-      "Category": "reviews",
-      "Summary": "優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ノートパソコン: Asus ExpertBook PM5 G2 レビュー\n\nAMD Ryzen AI 9 HX 470、Wi-Fi 7、144 Hz IPS ディスプレイを搭載した Asus ExpertBook PM5 G2 の Notebookcheck レビュー。\n\n評決 - ExpertBook PM5 G2 はバランスが悪いようです\n\n私たちのテストでは、新しい Asus ExpertBook PM5 G2 は複雑な印象を残しました。この大型の 16 インチ ビジネス ラップトップは見た目は洗練されていますが、アルミニウムのシャーシにはわずかにきしみ音が発生し、ヒンジが多少ぐらつきます。キーボードは快適でバックライト付きですが、大きな ClickPad の機械的なクリック感は少し安っぽく感じます。接続性とセキュリティ機能は十分であり、イーサネット ポートに加えて、最新の Wi-Fi 7 モジュールも含まれています。\n\n良好 (85%) ExpertBook PM5 G2 PM5606 AMD Ryzen AI 9 HX 470 AMD Radeon 890M Office - 08/13/2026 - v8 テスト デバイスは Asus Deutschland の厚意により提供 ライセンスされた評価画像を PNG / SVG としてダウンロード 内蔵 AMD Ryzen AI 9 HX 470 は、優れた安定したマルチコア パフォーマンスを提供しますが、プロセッサーの TDP が高い単一のクーラーに大きな負荷がかかるため、騒音が非常に大きくなる可能性があります。少なくとも Asus はより静かな電源プロファイルを提供しており、必要に応じてデバイスが全負荷でも非常に静かな状態を保つことができます。\n\n144 Hz のリフレッシュ レートを備えた内蔵のマット WQHD ディスプレイは優れた画質を提供し、この点で多くの競合他社よりも優れています。パネルは仕事に最適で、バッテリー寿命も非常に良好です…",
-      "ImageURL": "https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07.JPG"
-    },
-    {
       "Title": "優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ラップトップ: Asus ExpertBook PM5 G2 レビュー",
       "Link": "https://www.notebookcheck.net/AMD-business-laptop-with-a-great-144-Hz-IPS-display-Asus-ExpertBook-PM5-G2-review.1368549.0.html",
       "Published": "2026-08-19T11:06:00Z",
       "Source": "Notebookcheck",
       "Category": "reviews",
       "Summary": "優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ラップトップ: Asus ExpertBook PM5 G2 レビュー\n\nAMD Ryzen AI 9 HX 470、Wi-Fi 7、144 Hz IPS ディスプレイを搭載した Asus ExpertBook PM5 G2 の Notebookcheck レビュー。\n\n評決 - ExpertBook PM5 G2 はバランスが悪いようです\n\n私たちのテストでは、新しい Asus ExpertBook PM5 G2 は複雑な印象を残しました。この大型の 16 インチ ビジネス ラップトップは見た目は洗練されていますが、アルミニウムのシャーシにはわずかにきしみ音が発生し、ヒンジが多少ぐらつきます。キーボードは快適でバックライト付きですが、大きな ClickPad の機械的なクリック感は少し安っぽく感じます。接続性とセキュリティ機能は十分であり、イーサネット ポートに加えて、最新の Wi-Fi 7 モジュールも含まれています。\n\n良好 (85%) ExpertBook PM5 G2 PM5606 AMD Ryzen AI 9 HX 470 AMD Radeon 890M Office - 08/13/2026 - v8 テスト デバイスは Asus Deutschland の厚意により提供 ライセンスされた評価画像を PNG / SVG としてダウンロード 内蔵 AMD Ryzen AI 9 HX 470 は、優れた安定したマルチコア パフォーマンスを提供しますが、プロセッサーの TDP が高い単一のクーラーに大きな負荷がかかるため、騒音が非常に大きくなる可能性があります。少なくとも Asus はより静かな電源プロファイルを提供しており、必要に応じてデバイスが全負荷でも非常に静かな状態を保つことができます。\n\n144 Hz のリフレッシュ レートを備えた内蔵のマット WQHD ディスプレイは優れた画質を提供し、この点で多くの競合他社よりも優れています。パネルは仕事に最適で、バッテリー寿命も非常に良好です。…",
+      "ImageURL": "https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07.JPG"
+    },
+    {
+      "Title": "優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ノートパソコン: Asus ExpertBook PM5 G2 レビュー",
+      "Link": "https://www.notebookcheck.net/AMD-Business-Laptop-with-a-Great-144-Hz-IPS-Display-Asus-ExpertBook-PM5-G2-Review.1368549.0.html",
+      "Published": "2026-08-19T11:06:00Z",
+      "Source": "Notebookcheck",
+      "Category": "reviews",
+      "Summary": "優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ノートパソコン: Asus ExpertBook PM5 G2 レビュー\n\nAMD Ryzen AI 9 HX 470、Wi-Fi 7、144 Hz IPS ディスプレイを搭載した Asus ExpertBook PM5 G2 の Notebookcheck レビュー。\n\n評決 - ExpertBook PM5 G2 はバランスが悪いようです\n\n私たちのテストでは、新しい Asus ExpertBook PM5 G2 は複雑な印象を残しました。この大型の 16 インチ ビジネス ラップトップは見た目は洗練されていますが、アルミニウムのシャーシにはわずかにきしみ音が発生し、ヒンジが多少ぐらつきます。キーボードは快適でバックライト付きですが、大きな ClickPad の機械的なクリック感は少し安っぽく感じます。接続性とセキュリティ機能は十分であり、イーサネット ポートに加えて、最新の Wi-Fi 7 モジュールも含まれています。\n\n良好 (85%) ExpertBook PM5 G2 PM5606 AMD Ryzen AI 9 HX 470 AMD Radeon 890M Office - 08/13/2026 - v8 テスト デバイスは Asus Deutschland の厚意により提供 ライセンスされた評価画像を PNG / SVG としてダウンロード 内蔵 AMD Ryzen AI 9 HX 470 は、優れた安定したマルチコア パフォーマンスを提供しますが、プロセッサーの TDP が高い単一のクーラーに大きな負荷がかかるため、騒音が非常に大きくなる可能性があります。少なくとも Asus はより静かな電源プロファイルを提供しており、必要に応じてデバイスが全負荷でも非常に静かな状態を保つことができます。\n\n144 Hz のリフレッシュ レートを備えた内蔵のマット WQHD ディスプレイは優れた画質を提供し、この点で多くの競合他社よりも優れています。パネルは仕事に最適で、バッテリー寿命も非常に良好です…",
       "ImageURL": "https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07.JPG"
     },
     {
@@ -8938,69 +9001,6 @@
       "Category": "OpenAI",
       "Summary": "OpenAI は、子供の宿題を拒否するバージョンの ChatGPT を構築しました\n\nOpenAI の ChatGPT for Teens は、18 歳未満のユーザー向けに学習モード、宿題リマインダー、より厳格な安全フィルター、ペアレンタル コントロールを提供します。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nOpenAI は、子供の宿題を拒否するバージョンの ChatGPT を構築しました\n\n0 • Stephen Radochia / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR OpenAI は、デフォルトで強力な保護が有効になっている Teens 向け ChatGPT をリリースします。\n\n十代の若者には学習に焦点を当てたツールが提供され、保護者には静かな時間、設定コントロール、限定的な安全警告が提供されます。\n\nこの動きは、AIが従来のペアレンタルコントロールでは対処できないリスクを生み出す中で行われた。\n\n今日の親たちは、数年前には存在しなかった問題に直面しています。現在、AI は子供と会話したり、機密性の高い質問に答えたり、コンテンツを生成したりすることができ、携帯電話上の他のアプリよりもはるかに個人的なものになる可能性があります。それがどれほど面倒なことになるかは、私たちもすでに見てきました。Google 独自の AI 検索ツールは、若いユーザーにもたらす可能性のあるリスクを巡って厳しい監視に直面しています。これらの懸念を考慮して、OpenAI は、13 歳から 17 歳向けのチャットボットの特殊バージョンである ChatGPT for Teens を立ち上げます。これは、即時回答よりも学習を優先し、保護者による監視を強化するものです。\n\nOpenAI は、座して見守るのではなく、ChatGPT for Teens でより積極的なアプローチをとっています。同社によれば、このエクスペリ…",
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/07/Claude-ChatGPT-Gemini-logos-scaled.jpg"
-    },
-    {
-      "Title": "Intel の次世代 Nova Lake チップは、モバイル SKU のゲームを強化する X3D キャッシュのライバルをスキップし、代わりに Razor Lake-HX でデビューする可能性があるとリーカーが主張 — 新しい噂によると、Razor Lake ファミリは TSMC の N2X ノードを使用していると伝えられている",
-      "Link": "https://www.tomshardware.com/pc-components/cpus/intels-next-gen-nova-lake-chips-may-skip-bllc-for-mobile-skus-and-debut-on-razor-lake-hx-instead-leaker-claims-new-rumor-says-razor-lake-family-reportedly-uses-tsmcs-n2x-node",
-      "Published": "2026-08-18T14:18:57Z",
-      "Source": "Tom's Hardware",
-      "Category": "PC Components",
-      "Summary": "Intel の次世代 Nova Lake チップは、モバイル SKU のゲームを強化する X3D キャッシュのライバルをスキップし、代わりに Razor Lake-HX でデビューする可能性があるとリーカーが主張 — 新しい噂によると、Razor Lake ファミリは TSMC の N2X ノードを使用していると伝えられている\n\nbLLC は Nova Lake ファミリのデスクトップ専用のままになる可能性があります。\n\nIntel の次世代 Nova Lake チップは、モバイル SKU のゲームを強化する X3D キャッシュのライバルをスキップし、代わりに Razor Lake-HX でデビューする可能性があるとリーカーが主張 — 新しい噂によると、Razor Lake ファミリは TSMC の N2X ノードを使用していると伝えられている\n\nbLLC は Nova Lake ファミリのデスクトップ専用のままになる可能性があります。\n\n(画像クレジット: Intel) リンクをコピー\n\n0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する Intel の次期次世代 Nova Lake CPU には、同社が bLLC (Big Last Level Cache) と呼ぶ L3 キャッシュの追加プールが搭載されると噂されています。これは、ゲーム界を席巻した AMD の 3D V-Cache に対する Intel の答えですが、予想家 Jaykihn による新しいレポートは、Nova Lake モバイル チップがそれを完全にスキップすることを示唆しています。その代わりに、同社はbLLCのモバイルデビュー作（コードネームRazor Lake）を次の世代のために留保していると言われている。\n\nRazor Lake には bLLC モバイル SKU が付属します。 2026 年 8 月 18 日\n\nこれは、Nova Lake デスクトップ プロセッサのみが bLLC の幸運な受信者となることを意味しており、その場合で…",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/rxLeKvgEq52xDLyGj6HuGA-1200-80.jpg"
-    },
-    {
-      "Title": "数カ月間の反発を経て、Plexはついに物議を醸した大画面アプリの再設計を元に戻す",
-      "Link": "https://www.xda-developers.com/after-months-backlash-plex-rolling-back-controversial-big-screen-app-redesign/",
-      "Published": "2026-08-18T14:06:00Z",
-      "Source": "XDA",
-      "Category": "Plex",
-      "Summary": "数カ月間の反発を経て、Plexはついに物議を醸した大画面アプリの再設計を元に戻す\n\n折りたたみ可能な左側のメニューを取り除くのは非常に悪い考えでした。\n\n数カ月間の反発を経て、Plexはついに物議を醸した大画面アプリの再設計を元に戻す\n\nBy Patrick O'Rourke 公開日 2026 年 8 月 18 日、午前 10:06 EDT Patrick O'Rourke は、XDA のニュース編集者およびエンターテイメント セグメントのリーダーです。以前は、Pocket-lint の編集長、カナダのテクノロジー出版物 MobileSyrup の編集長を務め、キャリアの初期には Financial Post および Postmedia でテクノロジー編集者として働いていました。彼はトロントに拠点を置いています。過去 15 年間にわたり、彼は何千もの記事を書いてきました。パトリック氏はまた、何十人ものテクノロジー業界の幹部にインタビューし、GDC、E3、Gamescom、WWDC、Apple の基調講演、Samsung Unpacked イベントなどを取材しました。パトリックはトロント・メトロポリタン大学でジャーナリズムの学士号を取得しています。 XDA アカウントにサインインする\n\nユーザーの反発を受けて、Plex は TV アプリで折りたたみ可能な左側のメニューを復活させました。\n\nこのアップデートでは、ライブ TV/DVR の並べ替え、バグ修正、パフォーマンスの改善が追加されています。\n\nUI アップデートのプレビューは現在、Apple TV、Roku、Android TV で利用できます。\n\nApple TV、Roku、Android TV、または Fire TV の Plex ユーザーであれば、おそらくこのニュースを喜ぶでしょう。 Plexは、セルフホスティングアプリのコミュニティからの反発を受けて、ストリーミングデバイス向けのTVアプリの最近の全面見直しをついに撤回することを決定した。これは、非常に便利な左側のメニューが戻ってきたことを意味します。\n\nPle…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/02/plex-app.jpg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
-      "Title": "テストにより、最新の OLED は高輝度での焼き付き耐性において古いパネルに匹敵することが示されました",
-      "Link": "https://www.kitguru.net/peripherals/monitors/joao-silva/test-shows-modern-oleds-match-older-panels-in-burn-in-resistance-at-higher-brightness/",
-      "Published": "2026-08-18T14:00:48Z",
-      "Source": "KitGuru",
-      "Category": "TV",
-      "Summary": "テストにより、最新の OLED は高輝度での焼き付き耐性において古いパネルに匹敵することが示されました\n\nRtingsは長期OLED寿命テストの結果を発表し、2020年から2023年までのディスプレイは10,000時間の模擬使用後に2017年モデルと同様の焼き付きが発生することを明らかにしました。このテストはテレビで行われましたが、結果はほとんどの OLED パネルに適用できます。 Rtings テストは 2017 年をカバーしました\n\nテストにより、最新の OLED は高輝度での焼き付き耐性において古いパネルに匹敵することが示されました\n\nJoão Silva 4 時間前\n\nRtingsは長期OLED寿命テストの結果を発表し、2020年から2023年までのディスプレイは10,000時間の模擬使用後に2017年モデルと同様の焼き付きが発生することを明らかにしました。このテストはテレビで行われましたが、結果はほとんどの OLED パネルに適用できます。 Rtings のテストでは、2017 LG C7 と 2020 年から 2023 年までの 19 の新しいモデルが対象となりました。各ディスプレイは最大 SDR 輝度で動作し、10,000 時間以上の日常使用をシミュレートしました。これは、10 年間で 1 日あたり約 5 時間に相当します。テスト終了までに、すべてのユニットで残像が発生しました。テスト条件下ではバーンイン耐性はある程度類似していましたが、データは他の領域で明らかな改善を示しています。その結果、2023 年のパネルは、2017 年のユニットと比較して、10% のウィンドウ サイズで平均 28% 明るく、100% のウィンドウ サイズで 2 倍以上明るくなったことが示されています。電力効率も向上し、2023 年モデルではエネルギー消費量が平均 27% 削減されました。 100nits に達するために、2017 年の OLED は 130W を消費しましたが、2023 年のディスプレイはわずか 95W しか消費しませんでした。これらの結果に基づいて、Rtings…",
-      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/05/ROG-Strix-OLED-XG34WCDMS-Strix-XG129C-732x330.jpg"
-    },
-    {
-      "Title": "スマートフォンと次世代補聴器",
-      "Link": "https://hackaday.com/2026/08/18/smartphones-and-the-next-generation-of-hearing-aids/",
-      "Published": "2026-08-18T14:00:39Z",
-      "Source": "Hackaday",
-      "Category": "medical devices",
-      "Summary": "スマートフォンと次世代補聴器\n\n実際に補聴器が必要でない場合、補聴器は装着者にとってすべての音が大きくなるだけだと考えるのも無理はありません。特に、世の中には怪しい商品がたくさんあるので…\n\n実際に補聴器が必要でない場合、補聴器は装着者にとってすべての音が大きくなるだけだと考えるのも無理はありません。特に、29.99 ドルを 4 回簡単に支払うだけで、まさにそれを実現してくれる怪しい製品がたくさんあるのですから。しかし、現実はかなり複雑です。適切な補聴器は、特定の周波数を選択的に強化し、他の周波数を抑制できる必要があるからです。\n\n人間の耳にフィットし、小さなバッテリーで動作するほど小さなデバイスでそれを実現するには、技術的な課題がかなりあります。また、長年にわたってある程度の人為的な価格高騰が起こっていることは間違いありませんが、適切な補聴器が「テレビで見た」補聴器よりもはるかに高価であるのには理由があります。これらと同じ課題が、DIY 補聴器やオープンソース ハードウェア補聴器が大きな注目を集めるのに苦労している理由でもあります。\n\nしかし、ここ数年で状況は変わりました。 2022 年に米国食品医薬品局 (FDA) は、補聴器を店頭 (OTC) で販売できる枠組みを確立しました。一般に、処方箋補聴器よりも機能が劣っており、重度の難聴を持つ人には適していませんが、OTC 補聴器が広く市販されているため、より手頃な価格の補聴器を提供するためにメーカー間で競争が始まっています。\n\n今月初め、FDA がサムスンの Galaxy Earbuds を同じカテゴリーに分類する承認を与えたとき、この競争は新たな段階に入りました。これは、2024 年に Apple の AirPods に関して下された同様の決定に続くものです。スマートフォン市場の 2 大プレーヤーが自社のイヤホンを OTC 補聴器として提供できることは、独自の価値提案を表しています。大衆向けの価格設定であるだけでなく、OTC 補聴器の購入に興味がある多くの個人がすでに OTC 補聴器を所有しており、必要なのはソフトウ…",
-      "ImageURL": "https://hackaday.com/wp-content/uploads/2026/08/phonehearing_feat.jpg"
-    },
-    {
-      "Title": "この無視される設定を変更しない限り、ルーターはすべてに静かに遅延を追加します",
-      "Link": "https://www.xda-developers.com/your-router-adds-latency-to-everything-change-this-setting/",
-      "Published": "2026-08-18T14:00:10Z",
-      "Source": "XDA",
-      "Category": "Router",
-      "Summary": "この無視される設定を変更しない限り、ルーターはすべてに静かに遅延を追加します\n\n今すぐ DNS サーバーを切り替えてネットワーク遅延を最小限に抑えましょう\n\nこの無視される設定を変更しない限り、ルーターはすべてに静かに遅延を追加します\n\nBy Tanveer Singh 公開 2026 年 8 月 18 日、午前 10:00 EDT 7 年間の勤務を経て、Tanveer は執筆とテクノロジーへの愛が抑えられないことに気づきました。マーケティングの MBA を取得し、PC 構築ビジネスのオーナーでもある彼は、PC ハードウェア、テクノロジ、および Windows について執筆しています。 Web でアイデアを探していないときは、PC を構築したり、アニメを見たり、RTX 3080 でスマッシュ カートをプレイしたりしています (ため息)。 XDA アカウントにサインインする Wi-Fi パフォーマンスの最適化に関して、ほとんどの人はルーターの移動、帯域の切り替え、有線接続への移行、またはルーターの再起動に重点を置きます。ただし、これらの修正はいずれも、ネットワーク上で行うすべての操作を静かに遅くする、確認していない 1 つのルーター設定に対処していません。\n\nルーターが使用しているデフォルトの DNS サーバーにより、すべてのデバイスのすべてのクエリにわずかな遅延が追加されます。ブラウザを使用している場合でも、携帯電話でアプリを起動している場合でも、ゲームサーバーに接続している場合でも、ISP の DNS サーバーはおそらく最悪の選択肢です。より優れた DNS サーバーに切り替えると、この遅延を最小限に抑え、ネットワークのプライバシーを向上させることもできます。\n\nISP のデフォルトの DNS サーバーにはいくつかの点で問題があります\n\nそれは最初に変更すべきことの 1 つです\n\nDNS (ドメイン ネーム システム) は、Web ブラウザーまたはアプリ内に何かを読み込む前に、ドメイン名をそれぞれの IP アドレスと照合します。ドメイン名をその IP アドレスに「解決」…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/smartphone-wifi-speed-test-router-1.png?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
-      "Title": "AMDは、2026年のラックスケールAIソリューションは2024年のAIプラットフォームよりもエネルギー効率が4倍高いと主張している - 同社は、2030年までに20倍の効率を目指していると述べている",
-      "Link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-claims-its-2026-rack-scale-ai-solution-is-4x-more-energy-efficient-than-its-2024-ai-platform-company-says-its-pacing-ahead-of-20x-efficiency-by-2030",
-      "Published": "2026-08-18T14:00:00Z",
-      "Source": "Tom's Hardware",
-      "Category": "Tech Industry",
-      "Summary": "AMDは、2026年のラックスケールAIソリューションは2024年のAIプラットフォームよりもエネルギー効率が4倍高いと主張している - 同社は、2030年までに20倍の効率を目指していると述べている\n\nただし、これらは単なる推定値であり、実際のベンチマーク結果ではありません。\n\nAMDは、2026年のラックスケールAIソリューションは2024年のAIプラットフォームよりもエネルギー効率が4倍高いと主張している - 同社は、2030年までに20倍の効率を目指していると述べている\n\nただし、これらは単なる推定値であり、実際のベンチマーク結果ではありません。\n\n1 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 通常の製品およびテクノロジーのロードマップに加えて、AMD は事実上、「X 年ごと」の効率化プログラムを繰り返しのエンジニアリング ロードマップにしました。 2025 年に同社は、ラックスケール AI ソリューションのエネルギー効率を 2030 年までに 20 倍向上させることを約束する 20x2030 イニシアチブを発表しました。当時、AMD は、2026 年のラックスケール AI システムのエネルギー効率が 2024 年のマシンの 3 倍になると構想していました。しかし、火曜日に発表された新しい推定値は、最新のソリューションが 2024 年のベースラインと比較して 4 倍効率的であることを示しています。\n\nデータセンターの冷却の現状\n\nカスタム AI ASIC の現状\n\nアメリカの AI チップの規則は変わり続けており、世界の他の国々もその代償を支払っている\n\nGTC 2026: Ian Buck 記者 Q\u0026A トランスクリプト — ハイパースケールおよび HPC 担当副社長が CPX の棚上げと今年の LPU デコードの出荷について発言\n\nデータセンターの CPU の需要が急増し、AI エージェントがその役割を担う\n\nAMD は、CPU や AI アクセラレータのレベルではなく、ラック レベルで自…",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/e2NmgTHJWyu8EQF8dCmiGj-1200-80.jpg"
-    },
-    {
-      "Title": "Prusa Promises Improved 3D Printing From a Wholly Refreshed Hardware Lineup, Teases PrusaSlicer 3.0",
-      "Link": "https://www.hackster.io/news/prusa-promises-improved-3d-printing-from-a-wholly-refreshed-hardware-lineup-teases-prusaslicer-3-0-f07385a237f0",
-      "Published": "2026-08-18T13:55:50Z",
-      "Source": "Hackster.io",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
     }
   ]
 }
