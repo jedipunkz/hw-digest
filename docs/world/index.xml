@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sat, 22 Aug 2026 04:48:37 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sat, 22 Aug 2026 05:42:13 +0000</lastBuildDate>
+<item><title>猫のトイレをハッキングする</title><link>https://hackaday.com/2026/08/21/hacking-a-cat-litter-box/</link><guid isPermaLink="true">https://hackaday.com/2026/08/21/hacking-a-cat-litter-box/</guid><pubDate>Sat, 22 Aug 2026 05:00:46 +0000</pubDate><description><![CDATA[<p>猫のトイレをハッキングする
+
+[ジョセフ ディジョバンニ] は、トイレ ロボット 4 のオーナーです。これは、猫用の便利な機械化されたトイレで、自動で掃除して家の中の不快な臭いを軽減します。彼はオートマチックを走らせたかったのです…
+
+[ジョセフ ディジョバンニ] は、トイレ ロボット 4 のオーナーです。これは、猫用の便利な機械化されたトイレで、自動で掃除して家の中の不快な臭いを軽減します。彼はトイレの操作に基づいて自動化を実行したいと考えていましたが、そのためにメーカーのクラウド サービスを使用することには乗り気ではありませんでした。代わりに、彼は自分自身の目的のためにデバイスのリバース エンジニアリングを開始しました。
+
+リッターロボット 4 は外部接続に ESP32 マイクロコントローラーに依存しているため、[ジョセフ] が代わりにデバイス用のカスタム ファームウェアを作成することは完全に可能でした。彼は、Espressif ハードウェアに基づいてスマートホーム デバイスを構築するために使用される人気のあるファームウェアである ESPHome をベースとして開始しました。この点では、Litter Robot 4 のアーキテクチャが役に立ちました。 PIC マイクロコントローラーを使用して低レベルのハードウェア制御を処理し、ESP32 は WiFi 経由でのクラウドへの接続を担当します。これにより、[ジョセフ] は接続機能をいじり、デバイスの基本的な機械機能や安全機能を損なうことなく、デバイスをホーム アシスタントに接続することができました。
+
+[ジョセフ] がしなければならなかったのは、元のハードウェアの ESP32 がどのように PIC と通信するかを解明し、それを独自のファームウェアでエミュレートすることだけでした。これは、スヌーピングとデータのキャプチャと LLM による処理によって実現されました。これは、ハードウェアを Home Assistant ときちんと統合できる ESPHome ファームウェアを作成するための基礎として使用されました。
+
+ファイル…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/I-Hacked-My-Cats-Litter-Box-0-3-screenshot.png" alt="猫のトイレをハッキングする"></p>]]></description><source url="https://hackaday.com/2026/08/21/hacking-a-cat-litter-box/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/I-Hacked-My-Cats-Litter-Box-0-3-screenshot.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/I-Hacked-My-Cats-Litter-Box-0-3-screenshot.png"/></item>
 <item><title>Espressif Systems が ESP32-S31 RISC-V マイクロプロセッサ用の Linux BSP 開発者プレビューをリリース</title><link>https://www.cnx-software.com/2026/08/22/espressif-systems-releases-a-linux-bsp-developer-preview-for-esp32-s31-risc-v-microprocessor/</link><guid isPermaLink="true">https://www.cnx-software.com/2026/08/22/espressif-systems-releases-a-linux-bsp-developer-preview-for-esp32-s31-risc-v-microprocessor/</guid><pubDate>Sat, 22 Aug 2026 04:26:56 +0000</pubDate><description><![CDATA[<p>Espressif Systems が ESP32-S31 RISC-V マイクロプロセッサ用の Linux BSP 開発者プレビューをリリース
 
 ESP32-S31 マイクロプロセッサは、Espressif Systems から Linux サポートを受けています。 ESP32-S31 デュアルコア RISC-V マイクロプロセッサは 3 月に初めて発表されました。
@@ -758,27 +769,6 @@ Plex はすぐにパッチをプッシュし、調査を開始しました。こ
 Samsung の Tizen スマート TV プラットフォームでアプリを実行している Plex ユーザーは、セルフホスト型ストリーミング プラットフォームの最新アップデートであるバージョン 5.94.3 でビデオの再生が妨げられたと報告しました。
 
 ユーザーがビデオを再生しようとすると、「再生エラー。予期しない再生エラーが発生しました。」…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/plex-on-a-tv-watchlist.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Plex、Samsung スマート TV に影響を与えるイライラする再生バグを修正"></p>]]></description><source url="https://www.xda-developers.com/plex-fixes-frustrating-playback-bug-affecting-samsung-smart-tvs/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/plex-on-a-tv-watchlist.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/plex-on-a-tv-watchlist.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>Acer Nitro 30 PC、Radeon RX 9070 XTとRyzen 7 87000Fを搭載し3,700ドルで発売</title><link>https://www.techpowerup.com/351798/acer-nitro-30-pc-launches-with-radeon-rx-9070-xt-and-ryzen-7-87000f-for-usd-3-700</link><guid isPermaLink="true">https://www.techpowerup.com/351798/acer-nitro-30-pc-launches-with-radeon-rx-9070-xt-and-ryzen-7-87000f-for-usd-3-700</guid><pubDate>Fri, 21 Aug 2026 16:26:45 +0000</pubDate><description><![CDATA[<p>Acer Nitro 30 PC、Radeon RX 9070 XTとRyzen 7 87000Fを搭載し3,700ドルで発売
-
-Acer は、Nitro プレビルド ゲーミング デスクトップのラインナップの最新製品として、AMD Ryzen 7 8700F および AMD Radeon RX 9070 XT を搭載した 28 L ゲーミング PC である Nitro 30 PC を日本で正式に発売しました。シャーシは、前面にエッジの効いた Nitro ロゴが飾られたセミクローズド フロント パネルを備えています。
-
-Acer Nitro 30 PC、Radeon RX 9070 XTとRyzen 7 87000Fを搭載し3,700ドルで発売
-
-2025 年 8 月 21 日 12VHPWR コネクタの溶融により、最初の AMD RX 9070 XT 被害者が主張 (109)
-
-2025 年 12 月 31 日 AI 業界の需要のおかげで、2026 年に 5000 ドルの RTX 5090 GPU が登場するとリークが予測 (124)
-
-2026 年 5 月 27 日 リーカーが天文学的な蒸気機械の価格を示唆 (74)
-
-2026 年 6 月 12 日、4000 ドルの AMD Ryzen AI Halo Mini PC 開発キットの予約注文が開始 (47)
-
-2026 年 5 月 14 日 AMD FSR アップスケーリング 4.1 が Radeon RX 7000/6000 GPU (252) に正式に登場
-
-2026 年 4 月 21 日 TechPowerUp、Gamers Nexus、または ComputerBase には Ryzen 9950X3D2 はありません (211)
-
-2025 年 8 月 27 日 AMD の次世代 UDNA: 4 つのダイ サイズ、1 つの潜在的な 96-CU フラッグシップ (87)
-
-2025 年 11 月 3 日 AMD が Radeon RX 5000/6000 シリーズの「メンテナンス モード」を明確に、初日のゲーム …</p><p><img src="https://www.techpowerup.com/img/1nQXdKo6FostApE2.jpg" alt="Acer Nitro 30 PC、Radeon RX 9070 XTとRyzen 7 87000Fを搭載し3,700ドルで発売"></p>]]></description><source url="https://www.techpowerup.com/351798/acer-nitro-30-pc-launches-with-radeon-rx-9070-xt-and-ryzen-7-87000f-for-usd-3-700">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/1nQXdKo6FostApE2.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/1nQXdKo6FostApE2.jpg"/></item>
 <item><title>Acer Nitro 30 PC、Radeon RX 9070 XTとRyzen 7 8700Fを搭載し3,700ドルで発売</title><link>https://www.techpowerup.com/351798/acer-nitro-30-pc-launches-with-radeon-rx-9070-xt-and-ryzen-7-8700f-for-usd-3-700</link><guid isPermaLink="true">https://www.techpowerup.com/351798/acer-nitro-30-pc-launches-with-radeon-rx-9070-xt-and-ryzen-7-8700f-for-usd-3-700</guid><pubDate>Fri, 21 Aug 2026 16:26:45 +0000</pubDate><description><![CDATA[<p>Acer Nitro 30 PC、Radeon RX 9070 XTとRyzen 7 8700Fを搭載し3,700ドルで発売
 
 Acer は、Nitro プレビルド ゲーミング デスクトップのラインナップの最新製品として、AMD Ryzen 7 8700F および AMD Radeon RX 9070 XT を搭載した 28 L ゲーミング PC である Nitro 30 PC を日本で正式に発売しました。シャーシは、前面にエッジの効いた Nitro ロゴが飾られたセミクローズド フロント パネルを備えています。
@@ -800,6 +790,27 @@ Acer Nitro 30 PC、Radeon RX 9070 XTとRyzen 7 8700Fを搭載し3,700ドルで�
 2025 年 8 月 27 日 AMD の次世代 UDNA: 4 つのダイ サイズ、1 つの潜在的な 96-CU フラッグシップ (87)
 
 2025 年 11 月 3 日 AMD が Radeon RX 5000/6000 シリーズの「メンテナンス モード」を明確に、初日のゲーム サポ…</p><p><img src="https://www.techpowerup.com/img/1nQXdKo6FostApE2.jpg" alt="Acer Nitro 30 PC、Radeon RX 9070 XTとRyzen 7 8700Fを搭載し3,700ドルで発売"></p>]]></description><source url="https://www.techpowerup.com/351798/acer-nitro-30-pc-launches-with-radeon-rx-9070-xt-and-ryzen-7-8700f-for-usd-3-700">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/1nQXdKo6FostApE2.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/1nQXdKo6FostApE2.jpg"/></item>
+<item><title>Acer Nitro 30 PC、Radeon RX 9070 XTとRyzen 7 87000Fを搭載し3,700ドルで発売</title><link>https://www.techpowerup.com/351798/acer-nitro-30-pc-launches-with-radeon-rx-9070-xt-and-ryzen-7-87000f-for-usd-3-700</link><guid isPermaLink="true">https://www.techpowerup.com/351798/acer-nitro-30-pc-launches-with-radeon-rx-9070-xt-and-ryzen-7-87000f-for-usd-3-700</guid><pubDate>Fri, 21 Aug 2026 16:26:45 +0000</pubDate><description><![CDATA[<p>Acer Nitro 30 PC、Radeon RX 9070 XTとRyzen 7 87000Fを搭載し3,700ドルで発売
+
+Acer は、Nitro プレビルド ゲーミング デスクトップのラインナップの最新製品として、AMD Ryzen 7 8700F および AMD Radeon RX 9070 XT を搭載した 28 L ゲーミング PC である Nitro 30 PC を日本で正式に発売しました。シャーシは、前面にエッジの効いた Nitro ロゴが飾られたセミクローズド フロント パネルを備えています。
+
+Acer Nitro 30 PC、Radeon RX 9070 XTとRyzen 7 87000Fを搭載し3,700ドルで発売
+
+2025 年 8 月 21 日 12VHPWR コネクタの溶融により、最初の AMD RX 9070 XT 被害者が主張 (109)
+
+2025 年 12 月 31 日 AI 業界の需要のおかげで、2026 年に 5000 ドルの RTX 5090 GPU が登場するとリークが予測 (124)
+
+2026 年 5 月 27 日 リーカーが天文学的な蒸気機械の価格を示唆 (74)
+
+2026 年 6 月 12 日、4000 ドルの AMD Ryzen AI Halo Mini PC 開発キットの予約注文が開始 (47)
+
+2026 年 5 月 14 日 AMD FSR アップスケーリング 4.1 が Radeon RX 7000/6000 GPU (252) に正式に登場
+
+2026 年 4 月 21 日 TechPowerUp、Gamers Nexus、または ComputerBase には Ryzen 9950X3D2 はありません (211)
+
+2025 年 8 月 27 日 AMD の次世代 UDNA: 4 つのダイ サイズ、1 つの潜在的な 96-CU フラッグシップ (87)
+
+2025 年 11 月 3 日 AMD が Radeon RX 5000/6000 シリーズの「メンテナンス モード」を明確に、初日のゲーム …</p><p><img src="https://www.techpowerup.com/img/1nQXdKo6FostApE2.jpg" alt="Acer Nitro 30 PC、Radeon RX 9070 XTとRyzen 7 87000Fを搭載し3,700ドルで発売"></p>]]></description><source url="https://www.techpowerup.com/351798/acer-nitro-30-pc-launches-with-radeon-rx-9070-xt-and-ryzen-7-87000f-for-usd-3-700">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/1nQXdKo6FostApE2.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/1nQXdKo6FostApE2.jpg"/></item>
 <item><title>bLLC を搭載したインテル「Nova Lake-S」28 コア SKU は、PL2 でほぼ 300 W を消費します</title><link>https://www.techpowerup.com/351804/intel-nova-lake-s-28-core-sku-with-bllc-to-draw-nearly-300-w-at-pl2</link><guid isPermaLink="true">https://www.techpowerup.com/351804/intel-nova-lake-s-28-core-sku-with-bllc-to-draw-nearly-300-w-at-pl2</guid><pubDate>Fri, 21 Aug 2026 16:21:37 +0000</pubDate><description><![CDATA[<p>bLLC を搭載したインテル「Nova Lake-S」28 コア SKU は、PL2 でほぼ 300 W を消費します
 
 Intel の次期「Nova Lake-S」デスクトップ プロセッサの発売が近づいており、クロック速度、コア構成、消費電力に関するさらなる情報が得られるにつれて、噂話が激化しています。 Weibo フォーラムの投稿によると、大きな最終レベル キャッシュ (bLLC) を備えた Intel の 28 コア SKU...
@@ -2902,6 +2913,15 @@ XeSS ドライバーのサポートがないにもかかわらず、SteamOS を�
 
 2026 年 1 月 10 日 Intel Core Ultra X9 388H &#34;Panther Lake&#34; iGPU は、Cyb…</p><p><img src="https://www.techpowerup.com/img/fOKDnNqvTtcfrFHj.jpg" alt="XeSS ドライバーのサポートがないにもかかわらず、SteamOS を実行する Intel Arc B580 は好印象"></p>]]></description><source url="https://www.techpowerup.com/351769/intel-arc-b580-running-steamos-impresses-despite-missing-xess-driver-support">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/fOKDnNqvTtcfrFHj.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/fOKDnNqvTtcfrFHj.jpg"/></item>
 <item><title>Samsung Foundry raises manufacturing prices, may impact the Nintendo Switch 2</title><link>https://www.tweaktown.com/rss/click/news/113179/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113179/?c=news-mf</guid><pubDate>Thu, 20 Aug 2026 19:15:15 +0000</pubDate><description><![CDATA[<p>Samsung Foundry raises manufacturing prices, may impact the Nintendo Switch 2</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113179/?c=news-mf">TweakTown</source></item>
+<item><title>Android 搭載 TV ストリーミング スティックの将来は不透明なようだ</title><link>https://www.xda-developers.com/the-future-of-android-powered-tv-streaming-sticks-looks-uncertain/</link><guid isPermaLink="true">https://www.xda-developers.com/the-future-of-android-powered-tv-streaming-sticks-looks-uncertain/</guid><pubDate>Thu, 20 Aug 2026 19:00:15 +0000</pubDate><description><![CDATA[<p>Android 搭載 TV ストリーミング スティックの将来は不透明なようだ
+
+Google TV Streamer は 2024 年にリリースされましたが、新しいものの将来は明らかではありません。
+
+Android 搭載 TV ストリーミング スティックの将来は不透明なようだ
+
+By Brian Burgess 公開 2026 年 8 月 20 日、午後 3 時 EDT ミネソタ州の田舎に拠点を置くブライアン バージェスは、消費者向けテクノロジーについて執筆することに情熱を注ぐまで、IT 業界で 10 年間働いていました。ブライアンは、2000 年にコンピュータおよびネットワーク テクノロジの学位を取得しました。彼は、ヘルプ デスク サポート、IBM のルーターの設置、データベース管理、その他のネットワーク管理関連の役割など、さまざまな IT 職を歴任しました。彼は 18 年間個人のテクノロジー ジャーナリストとして活動しており、Microsoft の製品とサービス、Android、iOS、ストリーミングなどに関する何千もの記事を執筆してきました。彼は、XDA、InformationWeek、How-To Geek、Byte、groovyPost などの著名な技術サイトに寄稿しています。彼がキーボードから離れているときは、ギターを弾いたり、屋外で仕事をしたり、スタートレックを見たりしているのが聞こえます。 XDA アカウントにサインインする Android/Google TV を搭載した真のストリーミング スティックはこれまで存在しませんでした。これまでにも手頃な価格の Onn Android TV スティックがいくつかありましたが、最初の Chromecast を除けば、Google は独自の Android TV ドングルを販売していません。 2024 年に、主力製品である Chromecast with Google TV (4K) を、実際にはセットトップ ボックスである Google TV Streamer に置き換えました。
+
+セマンティクスはさておき、こ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/03/google-tv-table.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Android 搭載 TV ストリーミング スティックの将来は不透明なようだ"></p>]]></description><source url="https://www.xda-developers.com/the-future-of-android-powered-tv-streaming-sticks-looks-uncertain/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/03/google-tv-table.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/03/google-tv-table.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>4 つのあまり知られていない Jellyfin プラグインなしではセルフホスト サーバーを実行できませんでした</title><link>https://www.xda-developers.com/lesser-known-jellyfin-plugins-couldnt-run-self-hosted-server-without/</link><guid isPermaLink="true">https://www.xda-developers.com/lesser-known-jellyfin-plugins-couldnt-run-self-hosted-server-without/</guid><pubDate>Thu, 20 Aug 2026 19:00:15 +0000</pubDate><description><![CDATA[<p>4 つのあまり知られていない Jellyfin プラグインなしではセルフホスト サーバーを実行できませんでした
 
 通常のプラグインを超えて見る
@@ -2915,15 +2935,6 @@ By Anurag Singh 公開 2026 年 8 月 20 日、午後 3 時 EDT アヌラグは�
 Jellyfin検索が便利になります
 
 見たいものの正確なタイトルがわかっている場合、Jellyfin の検索は問題ありません。ただし、単語のスペルを間違えたり、映画タイトルの一部しか覚えていない場合には、検索機能はあまり役に立ちません。 …</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/jellyfin-on-mac.jpg?w=1600&amp;h=900&amp;fit=crop" alt="4 つのあまり知られていない Jellyfin プラグインなしではセルフホスト サーバーを実行できませんでした"></p>]]></description><source url="https://www.xda-developers.com/lesser-known-jellyfin-plugins-couldnt-run-self-hosted-server-without/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/jellyfin-on-mac.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/jellyfin-on-mac.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>Android 搭載 TV ストリーミング スティックの将来は不透明なようだ</title><link>https://www.xda-developers.com/the-future-of-android-powered-tv-streaming-sticks-looks-uncertain/</link><guid isPermaLink="true">https://www.xda-developers.com/the-future-of-android-powered-tv-streaming-sticks-looks-uncertain/</guid><pubDate>Thu, 20 Aug 2026 19:00:15 +0000</pubDate><description><![CDATA[<p>Android 搭載 TV ストリーミング スティックの将来は不透明なようだ
-
-Google TV Streamer は 2024 年にリリースされましたが、新しいものの将来は明らかではありません。
-
-Android 搭載 TV ストリーミング スティックの将来は不透明なようだ
-
-By Brian Burgess 公開 2026 年 8 月 20 日、午後 3 時 EDT ミネソタ州の田舎に拠点を置くブライアン バージェスは、消費者向けテクノロジーについて執筆することに情熱を注ぐまで、IT 業界で 10 年間働いていました。ブライアンは、2000 年にコンピュータおよびネットワーク テクノロジの学位を取得しました。彼は、ヘルプ デスク サポート、IBM のルーターの設置、データベース管理、その他のネットワーク管理関連の役割など、さまざまな IT 職を歴任しました。彼は 18 年間個人のテクノロジー ジャーナリストとして活動しており、Microsoft の製品とサービス、Android、iOS、ストリーミングなどに関する何千もの記事を執筆してきました。彼は、XDA、InformationWeek、How-To Geek、Byte、groovyPost などの著名な技術サイトに寄稿しています。彼がキーボードから離れているときは、ギターを弾いたり、屋外で仕事をしたり、スタートレックを見たりしているのが聞こえます。 XDA アカウントにサインインする Android/Google TV を搭載した真のストリーミング スティックはこれまで存在しませんでした。これまでにも手頃な価格の Onn Android TV スティックがいくつかありましたが、最初の Chromecast を除けば、Google は独自の Android TV ドングルを販売していません。 2024 年に、主力製品である Chromecast with Google TV (4K) を、実際にはセットトップ ボックスである Google TV Streamer に置き換えました。
-
-セマンティクスはさておき、こ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/03/google-tv-table.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Android 搭載 TV ストリーミング スティックの将来は不透明なようだ"></p>]]></description><source url="https://www.xda-developers.com/the-future-of-android-powered-tv-streaming-sticks-looks-uncertain/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/03/google-tv-table.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/03/google-tv-table.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>Google は、大規模なリリース日に向けて新しい Pixel 11 ビデオをいくつか用意しました</title><link>https://www.androidauthority.com/google-pixel-11-videos-3701248/</link><guid isPermaLink="true">https://www.androidauthority.com/google-pixel-11-videos-3701248/</guid><pubDate>Thu, 20 Aug 2026 18:56:39 +0000</pubDate><description><![CDATA[<p>Google は、大規模なリリース日に向けて新しい Pixel 11 ビデオをいくつか用意しました
 
 Google が Pixel 11 Pro の最大のセールスポイントだと考えている機能のいくつかを見てみましょう。
@@ -4115,15 +4126,6 @@ Smart Control Plus - 新しい 8 バンド EQ は、無料アプリのさまざ�
 BluHub仕様 光学ドライブ
 
 Blu‑ray / DVD / CD 読み取り…</p><p><img src="https://cdn.mos.cms.futurecdn.net/ko5nmmiY9Js2ntbrP8NaXU-1920-80.jpg" alt="物理メディアへのノスタルジーにより、募金活動家が Blu-Ray Kickstarter に殺到 — 9-in-1 ドックを備えたドライブがキャンペーン途中で 160 倍の資金目標を達成"></p>]]></description><source url="https://www.tomshardware.com/peripherals/docking-stations-hubs/physical-media-nostalgia-sees-fundraisers-flock-to-blu-ray-kickstarter-drive-with-9-in-1-dock-achieves-160x-funding-goal-halfway-through-campaign">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/ko5nmmiY9Js2ntbrP8NaXU-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/ko5nmmiY9Js2ntbrP8NaXU-1920-80.jpg"/></item>
-<item><title>GPU の価格設定は現実から完全に切り離されており、ミッドレンジが何を意味するかについては、もはや誰も同意していません。</title><link>https://www.xda-developers.com/nobody-can-agree-what-mid-range-gpu-is-pricing-stopped-meaning-anything/</link><guid isPermaLink="true">https://www.xda-developers.com/nobody-can-agree-what-mid-range-gpu-is-pricing-stopped-meaning-anything/</guid><pubDate>Thu, 20 Aug 2026 11:00:15 +0000</pubDate><description><![CDATA[<p>GPU の価格設定は現実から完全に切り離されており、ミッドレンジが何を意味するかについては、もはや誰も同意していません。
-
-ミッドレンジ GPU が何であるかについては、もはや誰も同意できません。
-
-GPU の価格設定は現実から完全に切り離されており、ミッドレンジが何を意味するかについては、もはや誰も同意していません。
-
-By Jasmine Mannan 公開 2026 年 8 月 20 日、午前 7:00 EDT Jasmine は XDA のソフトウェアおよび PC ハードウェアの著者であり、AI チャットボットからゲーム ハードウェアに至るまで、長年にわたる技術レポートの経験があり、ほぼすべてをカバーしています。最新の AMD NPU に関する速報ニュースであれ、ソーシャル メディア プラットフォームでのビデオ チュートリアルの作成であれ、Jasmine は、Razer の CEO、AMD の製品マーケティング ディレクター、Lenovo の副社長へのインタビューなど、さまざまな方法で AI とテクノロジーの世界に貢献してきました。ゲームと PC テクノロジーに情熱を持っている彼女は、数え切れないほどのコンピューター、キーボード、その他の周辺機器を構築し、それらを隅々まで知り尽くしています。 XDA アカウントにサインインする 私を含む多くのゲーマーは、GTX 970 が 249 ドル、GTX 1060 が 299 ドルで購入できた PC 構築の黄金時代を思い出しているかもしれません。これは今日の現実とは著しく対照的です。最新のハードウェアはかなりばかげたものになっており、ミッドレンジ GPU が何なのかを誰かに尋ねると、まったく異なる答えが得られる可能性があります。
-
-最初のオプションは、価格の点でミッドレンジのカードを探すことです。約300ドルの価格のものは中価格帯かもしれませんが、実際にはエントリーレベルです。中程度の解像度のものであれば、約 700 ドルで取引される可能性がありますが、これは財布にとって中程度の価格ではありません。もう 1 つの答えは、主…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/gigabyte-nvidia-geforce-rtx-4070-ti-gpu-origami-lamp.jpg?w=1600&amp;h=900&amp;fit=crop" alt="GPU の価格設定は現実から完全に切り離されており、ミッドレンジが何を意味するかについては、もはや誰も同意していません。"></p>]]></description><source url="https://www.xda-developers.com/nobody-can-agree-what-mid-range-gpu-is-pricing-stopped-meaning-anything/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/gigabyte-nvidia-geforce-rtx-4070-ti-gpu-origami-lamp.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/gigabyte-nvidia-geforce-rtx-4070-ti-gpu-origami-lamp.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>Low-Fiマイクが驚くほど洗練されていることが分解でわかる</title><link>https://hackaday.com/2026/08/20/teardown-shows-low-fi-microphone-is-surprisingly-sophisticated/</link><guid isPermaLink="true">https://hackaday.com/2026/08/20/teardown-shows-low-fi-microphone-is-surprisingly-sophisticated/</guid><pubDate>Thu, 20 Aug 2026 11:00:15 +0000</pubDate><description><![CDATA[<p>Low-Fiマイクが驚くほど洗練されていることが分解でわかる
 
 Teenage Engineering の Ting FX EP-2350 は、サンプルやユーザーが変更できる内蔵エフェクト プリセットなど、いくつかの追加機能を備えたスタンドアロン マイクです。特徴的なデ…
@@ -4133,6 +4135,15 @@ Teenage Engineering の Ting FX EP-2350 は、サンプルやユーザーが変�
 デバイスの内部には 1 枚の PCB があり、中央に 1 対の AAA セル用の切り欠きがあります。 Raspberry Pi 2350 はデバイスの機能を駆動し、[Sam] が特定したさまざまなコンポーネントによってサポートされていますが、設計を批評する際、彼は主に機械エンジニアの観点からすべてを見ています。見た目はすっきりしていて、デバイスが実際にどれほど複雑であるかを信じられないほど、意図的にローファイなデザインです。
 
 多機能で分厚いバネ式サイドレバーは特に興味深いものです。 2 つのスイッチと 1 つのポテンショメータの 3 つのセンサーがあります。 1 つのスイッチが、レバーが停止しているか、または任意の量だけ押し込まれたことを検出します。ポテンショメータはレバーのピボット ポイントと嵌合し、デバイスがレバーがどのくらい押し込まれているかを直接感知できるようになります。最後のスイッチは、レバーを最後まで押し込むとトリガーされます。このスイッチは、電源オン (レバーを押すとすぐにデバイスがスリープ モードから復帰する) と、レバーを押した距離に比例してエフェクトを調整する機能を組み合わせた直感的な入力を形成します。また、それ自体が入力信号として機能する明確なクリック音で底を打ちます。…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/Teenage-Engineering-Ting-FX-EP-2350-Teardown-0-21-screenshot-banner.png" alt="Low-Fiマイクが驚くほど洗練されていることが分解でわかる"></p>]]></description><source url="https://hackaday.com/2026/08/20/teardown-shows-low-fi-microphone-is-surprisingly-sophisticated/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/Teenage-Engineering-Ting-FX-EP-2350-Teardown-0-21-screenshot-banner.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/Teenage-Engineering-Ting-FX-EP-2350-Teardown-0-21-screenshot-banner.png"/></item>
+<item><title>GPU の価格設定は現実から完全に切り離されており、ミッドレンジが何を意味するかについては、もはや誰も同意していません。</title><link>https://www.xda-developers.com/nobody-can-agree-what-mid-range-gpu-is-pricing-stopped-meaning-anything/</link><guid isPermaLink="true">https://www.xda-developers.com/nobody-can-agree-what-mid-range-gpu-is-pricing-stopped-meaning-anything/</guid><pubDate>Thu, 20 Aug 2026 11:00:15 +0000</pubDate><description><![CDATA[<p>GPU の価格設定は現実から完全に切り離されており、ミッドレンジが何を意味するかについては、もはや誰も同意していません。
+
+ミッドレンジ GPU が何であるかについては、もはや誰も同意できません。
+
+GPU の価格設定は現実から完全に切り離されており、ミッドレンジが何を意味するかについては、もはや誰も同意していません。
+
+By Jasmine Mannan 公開 2026 年 8 月 20 日、午前 7:00 EDT Jasmine は XDA のソフトウェアおよび PC ハードウェアの著者であり、AI チャットボットからゲーム ハードウェアに至るまで、長年にわたる技術レポートの経験があり、ほぼすべてをカバーしています。最新の AMD NPU に関する速報ニュースであれ、ソーシャル メディア プラットフォームでのビデオ チュートリアルの作成であれ、Jasmine は、Razer の CEO、AMD の製品マーケティング ディレクター、Lenovo の副社長へのインタビューなど、さまざまな方法で AI とテクノロジーの世界に貢献してきました。ゲームと PC テクノロジーに情熱を持っている彼女は、数え切れないほどのコンピューター、キーボード、その他の周辺機器を構築し、それらを隅々まで知り尽くしています。 XDA アカウントにサインインする 私を含む多くのゲーマーは、GTX 970 が 249 ドル、GTX 1060 が 299 ドルで購入できた PC 構築の黄金時代を思い出しているかもしれません。これは今日の現実とは著しく対照的です。最新のハードウェアはかなりばかげたものになっており、ミッドレンジ GPU が何なのかを誰かに尋ねると、まったく異なる答えが得られる可能性があります。
+
+最初のオプションは、価格の点でミッドレンジのカードを探すことです。約300ドルの価格のものは中価格帯かもしれませんが、実際にはエントリーレベルです。中程度の解像度のものであれば、約 700 ドルで取引される可能性がありますが、これは財布にとって中程度の価格ではありません。もう 1 つの答えは、主…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/gigabyte-nvidia-geforce-rtx-4070-ti-gpu-origami-lamp.jpg?w=1600&amp;h=900&amp;fit=crop" alt="GPU の価格設定は現実から完全に切り離されており、ミッドレンジが何を意味するかについては、もはや誰も同意していません。"></p>]]></description><source url="https://www.xda-developers.com/nobody-can-agree-what-mid-range-gpu-is-pricing-stopped-meaning-anything/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/gigabyte-nvidia-geforce-rtx-4070-ti-gpu-origami-lamp.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/gigabyte-nvidia-geforce-rtx-4070-ti-gpu-origami-lamp.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>G.Skill 、誤解を招く DDR4 および DDR5 のスピード マーケティングに関して 240 万ドルの和解金を支払う — ベンダーが XMP および EXPO パッケージの警告に同意したため、購入者は 20 ～ 25 ドルを受け取る</title><link>https://www.tomshardware.com/pc-components/ram/g-skill-starts-usd2-4m-class-action-payout-over-misleading-ram-speeds-usd20-to-usd25-cash-payments-heading-to-claimants</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/ram/g-skill-starts-usd2-4m-class-action-payout-over-misleading-ram-speeds-usd20-to-usd25-cash-payments-heading-to-claimants</guid><pubDate>Thu, 20 Aug 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>G.Skill 、誤解を招く DDR4 および DDR5 のスピード マーケティングに関して 240 万ドルの和解金を支払う — ベンダーが XMP および EXPO パッケージの警告に同意したため、購入者は 20 ～ 25 ドルを受け取る
 
 今では 4GB の DDR4 を購入するのにも十分ではありません
@@ -4214,19 +4225,6 @@ Pixel 11 は、無視できない新しいスタイルを含む新しいスク�
 昨年の Pixel 10 シリーズの発売に伴い、Google は Android のスクリーンセーバーに長らく待望されていた改善を導入しました。新しいスクリーン セーバー機能は Pixel 10 の傑出した機能の 1 つで、アイドル画面をベッドサイドの時計やデジタル フォト フレームに変えることができます。そして、Pixel 11 シリーズでは新たな機能が追加されています。
 
 Pixel 11 シリーズの新しいスクリーン セーバー スタイルを発見しました。 「充電」と呼ばれるこのスクリーンセーバーには、画面の端の 1 つに沿って伸びたバーが表示され、正確なバッテリーの割合が表示されます。現在のバッテリーの割合が大きくて読みやすいテキストで表示される一方、画面には 80% と 100% の充電のマイルストーンも小さなフォントで表示されます。一方、時刻は画面下部に比…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/Pixel-11-screen-saver-charge-stand-hero.jpg" alt="Pixel 11 は、無視できない新しいスタイルを含む新しいスクリーン セーバー機能を追加します"></p>]]></description><source url="https://www.androidauthority.com/pixel-11-charge-screen-saver-digital-analog-clocks-3700935/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/Pixel-11-screen-saver-charge-stand-hero.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/Pixel-11-screen-saver-charge-stand-hero.jpg"/></item>
-<item><title>グランツーリスモ 7 アップデートで 4 台の新車や追加イベントなどが追加</title><link>https://www.kitguru.net/tech-news/mustafa-mahmoud/gran-turismo-7-update-adds-4-new-cars-additional-events-and-more/</link><guid isPermaLink="true">https://www.kitguru.net/tech-news/mustafa-mahmoud/gran-turismo-7-update-adds-4-new-cars-additional-events-and-more/</guid><pubDate>Thu, 20 Aug 2026 10:30:42 +0000</pubDate><description><![CDATA[<p>グランツーリスモ 7 アップデートで 4 台の新車や追加イベントなどが追加
-
-別のアップデートで戻ってくると、グランツーリスモ 7 には 4 つの新しい車両が追加される予定です。本日はさらに 3 つのイベントが追加されます。
-
-グランツーリスモ 7 アップデートで 4 台の新車や追加イベントなどが追加
-
-Mustafa Mahmoud 18 分前 コンソール , 注目の技術ニュース , ソフトウェアとゲーム , 技術ニュース
-
-2022 年にゲームが最初にリリースされて以来、ポリフォニー デジタルは無料かつ一貫したアップデートでグランツーリスモ 7 を新鮮な状態に保ち続けてきました。一部のパッチよりも小規模なパッチではありますが、GT7 の最新アップデートには、4 台の新しい車両、3 つの追加イベントなどを含む、数多くの歓迎すべき追加機能が含まれています。ポリフォニー・デジタルのチームはブログで発表を行い、グランツーリスモ7に新しいアップデートが本日後半に登場することを認めた。アップデート 1.71 とラベル付けされたこの最新パッチでは、以下が追加されます: 4 つの新しい車両 Caterham Seven Superlight R500 &#39;08
-
-3つの新しいワールドサーキットイベント日本のFRチャレンジ450
-
-前述したように、これは GT7 の最大のアップデートとは程遠いです。そうは言っても、ポリフォニー・デジタル初の適切なライブサービス隣接ゲームであることへの歓迎と継続的な取り組みを示しています。 2022 年にゲームが登場して以来、グランツーリスモ 7 は大量の新しいイベントで更新されました。トラック。エンジン交換。メニューともちろん車両 – 長年にわたって 130 台以上の車両が追加されました。 GT7 の 8 月のアップデートの詳細については、こちらをご覧ください。 KitGuru 氏: 2025 年のグランツーリスモ 7 についてどう思いますか?あと何年間サポートが受けられると思いますか?以下でお知らせください。パトロンになりましょう！ Facebook…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/08/gt7-732x330.jpg" alt="グランツーリスモ 7 アップデートで 4 台の新車や追加イベントなどが追加"></p>]]></description><source url="https://www.kitguru.net/tech-news/mustafa-mahmoud/gran-turismo-7-update-adds-4-new-cars-additional-events-and-more/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/08/gt7-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/08/gt7-732x330.jpg"/></item>
 <item><title>Chrome に Gemini を入れたくないですか? Androidで削除する方法は次のとおりです</title><link>https://www.androidauthority.com/remove-gemini-chrome-android-how-to-3700544/</link><guid isPermaLink="true">https://www.androidauthority.com/remove-gemini-chrome-android-how-to-3700544/</guid><pubDate>Thu, 20 Aug 2026 10:30:42 +0000</pubDate><description><![CDATA[<p>Chrome に Gemini を入れたくないですか? Androidで削除する方法は次のとおりです
 
 Android 上の Chrome を Gemini にフォローされたくないですか?アイコンを選択したショートカットに置き換える方法は次のとおりです。
@@ -4246,6 +4244,19 @@ Gemini をスマートフォンの Chrome に組み込みたいですか?
 Gemini をお気に入りのショートカットに置き換える方法
 
 Shimul Sood / Android Authority Chrome の Gemini アイコンを削除するために、実際には迷路の…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/Gemini-icon-in-Chrome-on-Google-Pixel-10a.jpg" alt="Chrome に Gemini を入れたくないですか? Androidで削除する方法は次のとおりです"></p>]]></description><source url="https://www.androidauthority.com/remove-gemini-chrome-android-how-to-3700544/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/Gemini-icon-in-Chrome-on-Google-Pixel-10a.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/Gemini-icon-in-Chrome-on-Google-Pixel-10a.jpg"/></item>
+<item><title>グランツーリスモ 7 アップデートで 4 台の新車や追加イベントなどが追加</title><link>https://www.kitguru.net/tech-news/mustafa-mahmoud/gran-turismo-7-update-adds-4-new-cars-additional-events-and-more/</link><guid isPermaLink="true">https://www.kitguru.net/tech-news/mustafa-mahmoud/gran-turismo-7-update-adds-4-new-cars-additional-events-and-more/</guid><pubDate>Thu, 20 Aug 2026 10:30:42 +0000</pubDate><description><![CDATA[<p>グランツーリスモ 7 アップデートで 4 台の新車や追加イベントなどが追加
+
+別のアップデートで戻ってくると、グランツーリスモ 7 には 4 つの新しい車両が追加される予定です。本日はさらに 3 つのイベントが追加されます。
+
+グランツーリスモ 7 アップデートで 4 台の新車や追加イベントなどが追加
+
+Mustafa Mahmoud 18 分前 コンソール , 注目の技術ニュース , ソフトウェアとゲーム , 技術ニュース
+
+2022 年にゲームが最初にリリースされて以来、ポリフォニー デジタルは無料かつ一貫したアップデートでグランツーリスモ 7 を新鮮な状態に保ち続けてきました。一部のパッチよりも小規模なパッチではありますが、GT7 の最新アップデートには、4 台の新しい車両、3 つの追加イベントなどを含む、数多くの歓迎すべき追加機能が含まれています。ポリフォニー・デジタルのチームはブログで発表を行い、グランツーリスモ7に新しいアップデートが本日後半に登場することを認めた。アップデート 1.71 とラベル付けされたこの最新パッチでは、以下が追加されます: 4 つの新しい車両 Caterham Seven Superlight R500 &#39;08
+
+3つの新しいワールドサーキットイベント日本のFRチャレンジ450
+
+前述したように、これは GT7 の最大のアップデートとは程遠いです。そうは言っても、ポリフォニー・デジタル初の適切なライブサービス隣接ゲームであることへの歓迎と継続的な取り組みを示しています。 2022 年にゲームが登場して以来、グランツーリスモ 7 は大量の新しいイベントで更新されました。トラック。エンジン交換。メニューともちろん車両 – 長年にわたって 130 台以上の車両が追加されました。 GT7 の 8 月のアップデートの詳細については、こちらをご覧ください。 KitGuru 氏: 2025 年のグランツーリスモ 7 についてどう思いますか?あと何年間サポートが受けられると思いますか?以下でお知らせください。パトロンになりましょう！ Facebook…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/08/gt7-732x330.jpg" alt="グランツーリスモ 7 アップデートで 4 台の新車や追加イベントなどが追加"></p>]]></description><source url="https://www.kitguru.net/tech-news/mustafa-mahmoud/gran-turismo-7-update-adds-4-new-cars-additional-events-and-more/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/08/gt7-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/08/gt7-732x330.jpg"/></item>
 <item><title>Pine64、不足のため少なくとも2027年半ばまですべてのLinuxハードウェア製造を停止 - メモリ不足によりオープンソースメーカーはSBC、タブレット、携帯電話を凍結せざるを得なくなる</title><link>https://www.tomshardware.com/pc-components/dram/pine64-halts-all-linux-device-production-until-at-least-mid-2027-as-memory-shortage-bites</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/dram/pine64-halts-all-linux-device-production-until-at-least-mid-2027-as-memory-shortage-bites</guid><pubDate>Thu, 20 Aug 2026 10:30:00 +0000</pubDate><description><![CDATA[<p>Pine64、不足のため少なくとも2027年半ばまですべてのLinuxハードウェア製造を停止 - メモリ不足によりオープンソースメーカーはSBC、タブレット、携帯電話を凍結せざるを得なくなる
 
 PineNote と PineTab2 の在庫は 3 か月以内に枯渇すると予想されます。
@@ -5467,29 +5478,6 @@ Always On Displayが最初に登場しました
 2026 年 5 月 19 日 インサイダーは、ソニーが PC ポートを廃止することを認めています: 「PC に登場するシングル プレーヤー ゲームは少なくなるでしょう。」 (135)
 
 2025 年 12 月 14 日 Microsoft Copilot AI …</p><p><img src="https://www.techpowerup.com/img/NhCfoRCilLCyYF0v.jpg" alt="(PR) マテル社、マイクロソフトの Xbox ゲーム コンソールの 25 周年を新しい組み立てセットで祝う"></p>]]></description><source url="https://www.techpowerup.com/351730/mattel-celebrates-25-years-of-microsofts-xbox-game-console-with-new-building-set">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/NhCfoRCilLCyYF0v.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/NhCfoRCilLCyYF0v.jpg"/></item>
-<item><title>Linux 7.3 スケジューラの改善により、低電力 PC ハードウェアの FPS が大幅に向上</title><link>https://www.techpowerup.com/351727/linux-7-3-scheduler-improvements-result-in-notable-fps-boost-for-low-power-pc-hardware</link><guid isPermaLink="true">https://www.techpowerup.com/351727/linux-7-3-scheduler-improvements-result-in-notable-fps-boost-for-low-power-pc-hardware</guid><pubDate>Wed, 19 Aug 2026 18:12:58 +0000</pubDate><description><![CDATA[<p>Linux 7.3 スケジューラの改善により、低電力 PC ハードウェアの FPS が大幅に向上
-
-Linux ゲームは、Linux カーネル 7.3 でリリースされる予定のスケジューラの変更のおかげで、ゲームのパフォーマンスが再び向上しています。カーネル メーリング リストのアーカイブ ポストに記載されているマージ リクエストには、スケジューラの効率を高め、レイテンシを改善するなどのいくつかの変更が記載されています。
-
-Linux 7.3 スケジューラの改善により、低電力 PC ハードウェアの FPS が大幅に向上
-
-2026 年 4 月 29 日 Linux が PlayStation 5 で正式に利用可能になりました (22)
-
-2025 年 9 月 18 日 NVIDIA がインテルを 50 億ドル相当で買収、RTX iGPU が x86 に登場、株価は 25% 上昇 (256)
-
-2025 年 12 月 31 日 AI 業界の需要のおかげで、2026 年に 5000 ドルの RTX 5090 GPU が登場するとリークが予測 (124)
-
-2025 年 9 月 3 日 NVIDIA ディスクリート GPU 市場シェアの優位性が 94% に拡大、ノート レポート (237)
-
-2025 年 9 月 3 日 AMD「Zen 6」プロセッサは、CCD に TSMC 2 nm ノード、IOD に 3 nm ノードを使用 (66)
-
-2026 年 4 月 21 日 TechPowerUp、Gamers Nexus、または ComputerBase には Ryzen 9950X3D2 はありません (211)
-
-2026 年 7 月 3 日 インテル、ゲーム向けに 108 MB bLLC キャッシュを備えた 2 つの 22 コア「Nova Lake-S」SKU を準備 (279)
-
-2026 年 6 月 13 日、4000 ドルの AMD Ryzen AI Halo Mini PC 開発キットの予約注文が開始 (47)
-
-2026 年 7 月 28 日 Palworld …</p><p><img src="https://www.techpowerup.com/img/VTSg4Ly87VwG5m2f.jpg" alt="Linux 7.3 スケジューラの改善により、低電力 PC ハードウェアの FPS が大幅に向上"></p>]]></description><source url="https://www.techpowerup.com/351727/linux-7-3-scheduler-improvements-result-in-notable-fps-boost-for-low-power-pc-hardware">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/VTSg4Ly87VwG5m2f.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/VTSg4Ly87VwG5m2f.jpg"/></item>
 <item><title>Linux 7.3 スケジューラが低電力ハードウェアの FPS を向上</title><link>https://www.techpowerup.com/351727/linux-7-3-scheduler-boosts-fps-for-low-power-hardware</link><guid isPermaLink="true">https://www.techpowerup.com/351727/linux-7-3-scheduler-boosts-fps-for-low-power-hardware</guid><pubDate>Wed, 19 Aug 2026 18:12:58 +0000</pubDate><description><![CDATA[<p>Linux 7.3 スケジューラが低電力ハードウェアの FPS を向上
 
 Linux ゲームは、Linux カーネル 7.3 でリリースされる予定のスケジューラの変更のおかげで、ゲームのパフォーマンスが再び向上しています。カーネル メーリング リストのアーカイブ ポストに記載されているマージ リクエストには、スケジューラの効率を高め、レイテンシを改善するなどのいくつかの変更が記載されています。
@@ -5513,6 +5501,29 @@ Linux 7.3 スケジューラが低電力ハードウェアの FPS を向上
 2026 年 6 月 12 日、4000 ドルの AMD Ryzen AI Halo Mini PC 開発キットの予約注文が開始 (47)
 
 2026 年 7 月 27 日 Palworld 幹部、サポート終了計画についてゲーマーに安心を与える…</p><p><img src="https://www.techpowerup.com/img/VTSg4Ly87VwG5m2f.jpg" alt="Linux 7.3 スケジューラが低電力ハードウェアの FPS を向上"></p>]]></description><source url="https://www.techpowerup.com/351727/linux-7-3-scheduler-boosts-fps-for-low-power-hardware">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/VTSg4Ly87VwG5m2f.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/VTSg4Ly87VwG5m2f.jpg"/></item>
+<item><title>Linux 7.3 スケジューラの改善により、低電力 PC ハードウェアの FPS が大幅に向上</title><link>https://www.techpowerup.com/351727/linux-7-3-scheduler-improvements-result-in-notable-fps-boost-for-low-power-pc-hardware</link><guid isPermaLink="true">https://www.techpowerup.com/351727/linux-7-3-scheduler-improvements-result-in-notable-fps-boost-for-low-power-pc-hardware</guid><pubDate>Wed, 19 Aug 2026 18:12:58 +0000</pubDate><description><![CDATA[<p>Linux 7.3 スケジューラの改善により、低電力 PC ハードウェアの FPS が大幅に向上
+
+Linux ゲームは、Linux カーネル 7.3 でリリースされる予定のスケジューラの変更のおかげで、ゲームのパフォーマンスが再び向上しています。カーネル メーリング リストのアーカイブ ポストに記載されているマージ リクエストには、スケジューラの効率を高め、レイテンシを改善するなどのいくつかの変更が記載されています。
+
+Linux 7.3 スケジューラの改善により、低電力 PC ハードウェアの FPS が大幅に向上
+
+2026 年 4 月 29 日 Linux が PlayStation 5 で正式に利用可能になりました (22)
+
+2025 年 9 月 18 日 NVIDIA がインテルを 50 億ドル相当で買収、RTX iGPU が x86 に登場、株価は 25% 上昇 (256)
+
+2025 年 12 月 31 日 AI 業界の需要のおかげで、2026 年に 5000 ドルの RTX 5090 GPU が登場するとリークが予測 (124)
+
+2025 年 9 月 3 日 NVIDIA ディスクリート GPU 市場シェアの優位性が 94% に拡大、ノート レポート (237)
+
+2025 年 9 月 3 日 AMD「Zen 6」プロセッサは、CCD に TSMC 2 nm ノード、IOD に 3 nm ノードを使用 (66)
+
+2026 年 4 月 21 日 TechPowerUp、Gamers Nexus、または ComputerBase には Ryzen 9950X3D2 はありません (211)
+
+2026 年 7 月 3 日 インテル、ゲーム向けに 108 MB bLLC キャッシュを備えた 2 つの 22 コア「Nova Lake-S」SKU を準備 (279)
+
+2026 年 6 月 13 日、4000 ドルの AMD Ryzen AI Halo Mini PC 開発キットの予約注文が開始 (47)
+
+2026 年 7 月 28 日 Palworld …</p><p><img src="https://www.techpowerup.com/img/VTSg4Ly87VwG5m2f.jpg" alt="Linux 7.3 スケジューラの改善により、低電力 PC ハードウェアの FPS が大幅に向上"></p>]]></description><source url="https://www.techpowerup.com/351727/linux-7-3-scheduler-improvements-result-in-notable-fps-boost-for-low-power-pc-hardware">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/VTSg4Ly87VwG5m2f.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/VTSg4Ly87VwG5m2f.jpg"/></item>
 <item><title>200 ドルのデバイスが私の携帯電話の最大の役割を置き換え、今ではバッテリーを消耗することなく会議を録音できます</title><link>https://www.xda-developers.com/200-device-replaced-phones-biggest-job-record-meetings-killing-battery/</link><guid isPermaLink="true">https://www.xda-developers.com/200-device-replaced-phones-biggest-job-record-meetings-killing-battery/</guid><pubDate>Wed, 19 Aug 2026 18:01:15 +0000</pubDate><description><![CDATA[<p>200 ドルのデバイスが私の携帯電話の最大の役割を置き換え、今ではバッテリーを消耗することなく会議を録音できます
 
 私はこのデバイスを頻繁に使用していることに気づきました。
@@ -6434,27 +6445,6 @@ Android Authority のアフィリエイト リンクにより、手数料が発�
 Google フォトの Redact ツールは、コードに埋め込まれた文字列から実際にタップできるものに移行しました。それを証明するデモがあります。先月、Google フォト v7.85 の APK 分解調査中に、コード文字列が「写真の機密領域を秘匿化する」と約束していたときに、私たちがこの機能に初めて報告しました。当時、このボタンはタップされた瞬間にアプリをクラッシュさせ、実際の編集方法は謎のままでした。その後、Google フォトはバージョン 7.89 に移行しましたが、リリースに先立って有効にすることができ、そのペースを維持することができました。
 
 あなたは Authority Insights の記事を読んでいます。 Authority Insights は、他では見られない Android Authority チームか…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/07/google-photos-july-2026-redesign.jpg" alt="初見: Google フォトの新しい墨消しツールの仕組みは次のとおりです"></p>]]></description><source url="https://www.androidauthority.com/google-photos-redact-mode-demo-apk-teardown-3700415/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/07/google-photos-july-2026-redesign.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/07/google-photos-july-2026-redesign.jpg"/></item>
-<item><title>Intel Core Ultra 9 4950Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある</title><link>https://www.techpowerup.com/351714/intel-core-ultra-9-4950k-could-signal-new-naming-scheme-for-nova-lake-s</link><guid isPermaLink="true">https://www.techpowerup.com/351714/intel-core-ultra-9-4950k-could-signal-new-naming-scheme-for-nova-lake-s</guid><pubDate>Wed, 19 Aug 2026 12:21:50 +0000</pubDate><description><![CDATA[<p>Intel Core Ultra 9 4950Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある
-
-「Nova Lake-S」プロセッサファミリーの一部であるIntelの次期デスクトップCPUは、「Arrow Lake」ファミリーで使用されている現在の3桁の形式とは異なり、4桁の形式に戻る新しい命名規則を採用する可能性がある。リークされた CPU-Z の提出物によると、Intel の Core Ultra 9 4950K...
-
-Intel Core Ultra 9 4950Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある
-
-2026 年 7 月 3 日 インテル、ゲーム向けに 108 MB bLLC キャッシュを備えた 2 つの 22 コア「Nova Lake-S」SKU を準備 (279)
-
-2026 年 6 月 26 日 インテル「Nova Lake-S」52 コア OC SKU が PL2 モードで 474 W を消費 (291)
-
-2026 年 1 月 23 日 インテル Core Ultra シリーズ 4 「Nova Lake」プロセッサーが 2026 年後半に発売 (62)
-
-2026 年 4 月 13 日 Intel Core Ultra「Nova Lake-S」デスクトップ コア構成 Surface (111)
-
-2026 年 6 月 14 日 Intel が 2027 年向けコア「Raptor Lake Next」ソケット LGA1700 プロセッサーを準備 (184)
-
-2026 年 7 月 17 日 Intel、52 コア バージョンの前に 28 コア「Nova Lake-S」を発売 (41)
-
-2026 年 1 月 10 日 Intel Core Ultra X9 388H &#34;Panther Lake&#34; iGPU は、Cyberpunk 2077 で AMD &#34;Strix Point&#34; パフォーマンスを 2 倍に (98)
-
-2026 年 7 月 14 日 インテル、歩留まり向上の中で「Nova L…</p><p><img src="https://www.techpowerup.com/img/vSFY5VUyiwLn23oo.jpg" alt="Intel Core Ultra 9 4950Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある"></p>]]></description><source url="https://www.techpowerup.com/351714/intel-core-ultra-9-4950k-could-signal-new-naming-scheme-for-nova-lake-s">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/vSFY5VUyiwLn23oo.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/vSFY5VUyiwLn23oo.jpg"/></item>
 <item><title>Intel Core Ultra 9 4590Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある</title><link>https://www.techpowerup.com/351714/intel-core-ultra-9-4590k-could-signal-new-naming-scheme-for-nova-lake-s</link><guid isPermaLink="true">https://www.techpowerup.com/351714/intel-core-ultra-9-4590k-could-signal-new-naming-scheme-for-nova-lake-s</guid><pubDate>Wed, 19 Aug 2026 12:21:50 +0000</pubDate><description><![CDATA[<p>Intel Core Ultra 9 4590Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある
 
 「Nova Lake-S」プロセッサファミリーの一部であるIntelの次期デスクトップCPU世代は、「Arrow Lake」ファミリーで使用されている現在の3桁の形式とは異なり、4桁の形式に戻る新しい命名規則を採用する可能性がある。リークされた CPU-Z の提出物によると、Intel の Core Ultra 9 4590K...
@@ -6476,6 +6466,27 @@ Intel Core Ultra 9 4590Kは「Nova Lake-S」の新しい命名スキームを示
 2026 年 1 月 10 日 Intel Core Ultra X9 388H &#34;Panther Lake&#34; iGPU は、Cyberpunk 2077 で AMD &#34;Strix Point&#34; パフォーマンスを 2 倍に (98)
 
 2026 年 7 月 14 日 インテル、歩留まり向上の中で「Nova…</p><p><img src="https://www.techpowerup.com/img/vSFY5VUyiwLn23oo.jpg" alt="Intel Core Ultra 9 4590Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある"></p>]]></description><source url="https://www.techpowerup.com/351714/intel-core-ultra-9-4590k-could-signal-new-naming-scheme-for-nova-lake-s">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/vSFY5VUyiwLn23oo.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/vSFY5VUyiwLn23oo.jpg"/></item>
+<item><title>Intel Core Ultra 9 4950Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある</title><link>https://www.techpowerup.com/351714/intel-core-ultra-9-4950k-could-signal-new-naming-scheme-for-nova-lake-s</link><guid isPermaLink="true">https://www.techpowerup.com/351714/intel-core-ultra-9-4950k-could-signal-new-naming-scheme-for-nova-lake-s</guid><pubDate>Wed, 19 Aug 2026 12:21:50 +0000</pubDate><description><![CDATA[<p>Intel Core Ultra 9 4950Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある
+
+「Nova Lake-S」プロセッサファミリーの一部であるIntelの次期デスクトップCPUは、「Arrow Lake」ファミリーで使用されている現在の3桁の形式とは異なり、4桁の形式に戻る新しい命名規則を採用する可能性がある。リークされた CPU-Z の提出物によると、Intel の Core Ultra 9 4950K...
+
+Intel Core Ultra 9 4950Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある
+
+2026 年 7 月 3 日 インテル、ゲーム向けに 108 MB bLLC キャッシュを備えた 2 つの 22 コア「Nova Lake-S」SKU を準備 (279)
+
+2026 年 6 月 26 日 インテル「Nova Lake-S」52 コア OC SKU が PL2 モードで 474 W を消費 (291)
+
+2026 年 1 月 23 日 インテル Core Ultra シリーズ 4 「Nova Lake」プロセッサーが 2026 年後半に発売 (62)
+
+2026 年 4 月 13 日 Intel Core Ultra「Nova Lake-S」デスクトップ コア構成 Surface (111)
+
+2026 年 6 月 14 日 Intel が 2027 年向けコア「Raptor Lake Next」ソケット LGA1700 プロセッサーを準備 (184)
+
+2026 年 7 月 17 日 Intel、52 コア バージョンの前に 28 コア「Nova Lake-S」を発売 (41)
+
+2026 年 1 月 10 日 Intel Core Ultra X9 388H &#34;Panther Lake&#34; iGPU は、Cyberpunk 2077 で AMD &#34;Strix Point&#34; パフォーマンスを 2 倍に (98)
+
+2026 年 7 月 14 日 インテル、歩留まり向上の中で「Nova L…</p><p><img src="https://www.techpowerup.com/img/vSFY5VUyiwLn23oo.jpg" alt="Intel Core Ultra 9 4950Kは「Nova Lake-S」の新しい命名スキームを示唆する可能性がある"></p>]]></description><source url="https://www.techpowerup.com/351714/intel-core-ultra-9-4950k-could-signal-new-naming-scheme-for-nova-lake-s">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/vSFY5VUyiwLn23oo.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/vSFY5VUyiwLn23oo.jpg"/></item>
 <item><title>Everypin&#39;s PwrBlock 323 Delivers a Programmable Power Supply for Automated Test Rigs</title><link>https://www.hackster.io/news/everypin-s-pwrblock-323-delivers-a-programmable-power-supply-for-automated-test-rigs-bd7c605bf91c</link><guid isPermaLink="true">https://www.hackster.io/news/everypin-s-pwrblock-323-delivers-a-programmable-power-supply-for-automated-test-rigs-bd7c605bf91c</guid><pubDate>Wed, 19 Aug 2026 12:20:02 +0000</pubDate><description><![CDATA[<p>Everypin&#39;s PwrBlock 323 Delivers a Programmable Power Supply for Automated Test Rigs</p>]]></description><source url="https://www.hackster.io/news/everypin-s-pwrblock-323-delivers-a-programmable-power-supply-for-automated-test-rigs-bd7c605bf91c">Hackster.io</source></item>
 <item><title>Comcast が Xfinity ルーターを家庭用モーション検出器に変えます - 無料の Wi-Fi センシング機能が追加のハードウェアを必要とせずに RF 干渉を追跡します</title><link>https://www.tomshardware.com/networking/routers/comcast-turns-xfinity-routers-into-home-motion-detectors-free-wi-fi-sensing-feature-tracks-rf-interference-with-zero-extra-hardware-required</link><guid isPermaLink="true">https://www.tomshardware.com/networking/routers/comcast-turns-xfinity-routers-into-home-motion-detectors-free-wi-fi-sensing-feature-tracks-rf-interference-with-zero-extra-hardware-required</guid><pubDate>Wed, 19 Aug 2026 12:20:00 +0000</pubDate><description><![CDATA[<p>Comcast が Xfinity ルーターを家庭用モーション検出器に変えます - 無料の Wi-Fi センシング機能が追加のハードウェアを必要とせずに RF 干渉を追跡します
 
@@ -6714,17 +6725,6 @@ Fire TVのラインナップは少し奇妙な段階に入りつつある。新�
 
 Redditの投稿（AFTVnews経由）によると、同社は、アプリがFire OS 16との互換性問題に遭遇する可能性がある開発者に電子メールを送り始…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2025/05/Insignia-Fire-TV.jpg" alt="Android 16を搭載した新しいFire TVデバイスが間もなく登場する可能性があります"></p>]]></description><source url="https://www.androidauthority.com/amazon-fire-os-android-16-launch-3700391/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2025/05/Insignia-Fire-TV.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2025/05/Insignia-Fire-TV.jpg"/></item>
 <item><title>Raspberry Pi Dances a Jig to Speed Up Mass Programming of Raspberry Pi Compute Module 5s</title><link>https://www.hackster.io/news/raspberry-pi-dances-a-jig-to-speed-up-mass-programming-of-raspberry-pi-compute-module-5s-dbfca30cc49e</link><guid isPermaLink="true">https://www.hackster.io/news/raspberry-pi-dances-a-jig-to-speed-up-mass-programming-of-raspberry-pi-compute-module-5s-dbfca30cc49e</guid><pubDate>Wed, 19 Aug 2026 11:06:58 +0000</pubDate><description><![CDATA[<p>Raspberry Pi Dances a Jig to Speed Up Mass Programming of Raspberry Pi Compute Module 5s</p>]]></description><source url="https://www.hackster.io/news/raspberry-pi-dances-a-jig-to-speed-up-mass-programming-of-raspberry-pi-compute-module-5s-dbfca30cc49e">Hackster.io</source></item>
-<item><title>優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ノートパソコン: Asus ExpertBook PM5 G2 レビュー</title><link>https://www.notebookcheck.net/AMD-Business-Laptop-with-a-Great-144-Hz-IPS-Display-Asus-ExpertBook-PM5-G2-Review.1368549.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/AMD-Business-Laptop-with-a-Great-144-Hz-IPS-Display-Asus-ExpertBook-PM5-G2-Review.1368549.0.html</guid><pubDate>Wed, 19 Aug 2026 11:06:00 +0000</pubDate><description><![CDATA[<p>優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ノートパソコン: Asus ExpertBook PM5 G2 レビュー
-
-AMD Ryzen AI 9 HX 470、Wi-Fi 7、144 Hz IPS ディスプレイを搭載した Asus ExpertBook PM5 G2 の Notebookcheck レビュー。
-
-評決 - ExpertBook PM5 G2 はバランスが悪いようです
-
-私たちのテストでは、新しい Asus ExpertBook PM5 G2 は複雑な印象を残しました。この大型の 16 インチ ビジネス ラップトップは見た目は洗練されていますが、アルミニウムのシャーシにはわずかにきしみ音が発生し、ヒンジが多少ぐらつきます。キーボードは快適でバックライト付きですが、大きな ClickPad の機械的なクリック感は少し安っぽく感じます。接続性とセキュリティ機能は十分であり、イーサネット ポートに加えて、最新の Wi-Fi 7 モジュールも含まれています。
-
-良好 (85%) ExpertBook PM5 G2 PM5606 AMD Ryzen AI 9 HX 470 AMD Radeon 890M Office - 08/13/2026 - v8 テスト デバイスは Asus Deutschland の厚意により提供 ライセンスされた評価画像を PNG / SVG としてダウンロード 内蔵 AMD Ryzen AI 9 HX 470 は、優れた安定したマルチコア パフォーマンスを提供しますが、プロセッサーの TDP が高い単一のクーラーに大きな負荷がかかるため、騒音が非常に大きくなる可能性があります。少なくとも Asus はより静かな電源プロファイルを提供しており、必要に応じてデバイスが全負荷でも非常に静かな状態を保つことができます。
-
-144 Hz のリフレッシュ レートを備えた内蔵のマット WQHD ディスプレイは優れた画質を提供し、この点で多くの競合他社よりも優れています。パネルは仕事に最適で、バッテリー寿命も非常に良好です…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07.JPG" alt="優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ノートパソコン: Asus ExpertBook PM5 G2 レビュー"></p>]]></description><source url="https://www.notebookcheck.net/AMD-Business-Laptop-with-a-Great-144-Hz-IPS-Display-Asus-ExpertBook-PM5-G2-Review.1368549.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07.JPG" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07.JPG"/></item>
 <item><title>優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ラップトップ: Asus ExpertBook PM5 G2 レビュー</title><link>https://www.notebookcheck.net/AMD-business-laptop-with-a-great-144-Hz-IPS-display-Asus-ExpertBook-PM5-G2-review.1368549.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/AMD-business-laptop-with-a-great-144-Hz-IPS-display-Asus-ExpertBook-PM5-G2-review.1368549.0.html</guid><pubDate>Wed, 19 Aug 2026 11:06:00 +0000</pubDate><description><![CDATA[<p>優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ラップトップ: Asus ExpertBook PM5 G2 レビュー
 
 AMD Ryzen AI 9 HX 470、Wi-Fi 7、144 Hz IPS ディスプレイを搭載した Asus ExpertBook PM5 G2 の Notebookcheck レビュー。
@@ -6736,6 +6736,17 @@ AMD Ryzen AI 9 HX 470、Wi-Fi 7、144 Hz IPS ディスプレイを搭載した A
 良好 (85%) ExpertBook PM5 G2 PM5606 AMD Ryzen AI 9 HX 470 AMD Radeon 890M Office - 08/13/2026 - v8 テスト デバイスは Asus Deutschland の厚意により提供 ライセンスされた評価画像を PNG / SVG としてダウンロード 内蔵 AMD Ryzen AI 9 HX 470 は、優れた安定したマルチコア パフォーマンスを提供しますが、プロセッサーの TDP が高い単一のクーラーに大きな負荷がかかるため、騒音が非常に大きくなる可能性があります。少なくとも Asus はより静かな電源プロファイルを提供しており、必要に応じてデバイスが全負荷でも非常に静かな状態を保つことができます。
 
 144 Hz のリフレッシュ レートを備えた内蔵のマット WQHD ディスプレイは優れた画質を提供し、この点で多くの競合他社よりも優れています。パネルは仕事に最適で、バッテリー寿命も非常に良好です。…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07.JPG" alt="優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ラップトップ: Asus ExpertBook PM5 G2 レビュー"></p>]]></description><source url="https://www.notebookcheck.net/AMD-business-laptop-with-a-great-144-Hz-IPS-display-Asus-ExpertBook-PM5-G2-review.1368549.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07.JPG" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07.JPG"/></item>
+<item><title>優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ノートパソコン: Asus ExpertBook PM5 G2 レビュー</title><link>https://www.notebookcheck.net/AMD-Business-Laptop-with-a-Great-144-Hz-IPS-Display-Asus-ExpertBook-PM5-G2-Review.1368549.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/AMD-Business-Laptop-with-a-Great-144-Hz-IPS-Display-Asus-ExpertBook-PM5-G2-Review.1368549.0.html</guid><pubDate>Wed, 19 Aug 2026 11:06:00 +0000</pubDate><description><![CDATA[<p>優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ノートパソコン: Asus ExpertBook PM5 G2 レビュー
+
+AMD Ryzen AI 9 HX 470、Wi-Fi 7、144 Hz IPS ディスプレイを搭載した Asus ExpertBook PM5 G2 の Notebookcheck レビュー。
+
+評決 - ExpertBook PM5 G2 はバランスが悪いようです
+
+私たちのテストでは、新しい Asus ExpertBook PM5 G2 は複雑な印象を残しました。この大型の 16 インチ ビジネス ラップトップは見た目は洗練されていますが、アルミニウムのシャーシにはわずかにきしみ音が発生し、ヒンジが多少ぐらつきます。キーボードは快適でバックライト付きですが、大きな ClickPad の機械的なクリック感は少し安っぽく感じます。接続性とセキュリティ機能は十分であり、イーサネット ポートに加えて、最新の Wi-Fi 7 モジュールも含まれています。
+
+良好 (85%) ExpertBook PM5 G2 PM5606 AMD Ryzen AI 9 HX 470 AMD Radeon 890M Office - 08/13/2026 - v8 テスト デバイスは Asus Deutschland の厚意により提供 ライセンスされた評価画像を PNG / SVG としてダウンロード 内蔵 AMD Ryzen AI 9 HX 470 は、優れた安定したマルチコア パフォーマンスを提供しますが、プロセッサーの TDP が高い単一のクーラーに大きな負荷がかかるため、騒音が非常に大きくなる可能性があります。少なくとも Asus はより静かな電源プロファイルを提供しており、必要に応じてデバイスが全負荷でも非常に静かな状態を保つことができます。
+
+144 Hz のリフレッシュ レートを備えた内蔵のマット WQHD ディスプレイは優れた画質を提供し、この点で多くの競合他社よりも優れています。パネルは仕事に最適で、バッテリー寿命も非常に良好です…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07.JPG" alt="優れた 144 Hz IPS ディスプレイを備えた AMD ビジネス ノートパソコン: Asus ExpertBook PM5 G2 レビュー"></p>]]></description><source url="https://www.notebookcheck.net/AMD-Business-Laptop-with-a-Great-144-Hz-IPS-Display-Asus-ExpertBook-PM5-G2-Review.1368549.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07.JPG" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_07.JPG"/></item>
 <item><title>シンプルな DIY STM32 オシロスコープ プロジェクト</title><link>https://hackaday.com/2026/08/19/simple-diy-stm32-oscilloscope-project/</link><guid isPermaLink="true">https://hackaday.com/2026/08/19/simple-diy-stm32-oscilloscope-project/</guid><pubDate>Wed, 19 Aug 2026 11:00:26 +0000</pubDate><description><![CDATA[<p>シンプルな DIY STM32 オシロスコープ プロジェクト
 
 STM32 ベースのオシロスコープ開発シリーズのパート 1 では、[BTTLab] が STM32F207 MCU の内蔵 ADC を使用して簡単な単一オシロスコープを開発する方法を示します。
@@ -7009,23 +7020,4 @@ GameNative で Galaxy デバイスの CPU、GPU クロック速度を調整で�
 GameNative はおそらく Android デバイスに PC ゲームをインストールしてプレイするための最良の方法であり、デジタル ゲーム ライブラリへの素早いアクセスも提供します。発熱はこの種のアプリにとって注目すべき課題の 1 つですが、チームは解決策を発表したばかりです。
 
 GameNative v1.2.0 がプレリリース アップデートとして GitHub で公開されており、CPU および GPU の電源制御のホストが提供されます。これらのコントロールは、Samsung Galaxy デバイスだけでなく、AYN および Retroid ハンドヘルドでも動作します。私のRetroid Pocket G2で確認でき…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/07/GameNative-on-Galaxy-S25-Ultra.jpg" alt="GameNative で Galaxy デバイスの CPU、GPU クロック速度を調整できるようになりました"></p>]]></description><source url="https://www.androidauthority.com/gamenative-update-cpu-gpu-controls-3700303/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/07/GameNative-on-Galaxy-S25-Ultra.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/07/GameNative-on-Galaxy-S25-Ultra.jpg"/></item>
-<item><title>Galaxy S26 FEのリークはバッテリー寿命の延長を示唆しているが、顕著なトレードオフがある</title><link>https://www.androidauthority.com/galaxy-s26-fe-battery-charging-cycle-leak-3700316/</link><guid isPermaLink="true">https://www.androidauthority.com/galaxy-s26-fe-battery-charging-cycle-leak-3700316/</guid><pubDate>Wed, 19 Aug 2026 09:40:39 +0000</pubDate><description><![CDATA[<p>Galaxy S26 FEのリークはバッテリー寿命の延長を示唆しているが、顕著なトレードオフがある
-
-Galaxy S26 FE は、1 回の充電でより長く持続する可能性がありますが、エネルギー定格の漏洩は、バッテリーがより早く劣化する可能性があることを示唆しています。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Galaxy S26 FEのリークはバッテリー寿命の延長を示唆しているが、顕著なトレードオフがある
-
-0 • Android ヘッドライン Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Galaxy S26 FE のバッテリーは、ヨーロッパのエネルギーラベル製品登録簿 (EPREL) によって評価されたと伝えられています。
-
-この評価は、Galaxy S26 FE のバッテリーバックアップの改善を強調しています。
-
-また、バッテリーの充電サイクル数が大幅に減少したことも指摘されています。
-
-Samsung の Galaxy S26 シリーズ最後のデバイスである S26 FE は、間もなく登場する予定です。 Samsung はまだこのデバイスについて正式に語っていませんが、すでに多くのリークが出ているため、Samsung が昨年の Galaxy S25 FE と同じ発売スケジュールに従っていたとしても驚くべきことではありません。
-
-発売に先立ち、Galaxy S26 FEの欧州連合のエネルギー評価を入手しました（YTECHB経由）。今週初めの大規模なGalaxy S26 FEのリークは、この携帯電話に同じバッテリーが搭載されている可能性があることを示唆しています。それにもかかわらず、European Product Registry for Energy Labeling (EPREL) はこのデバイスを以前よりも高く評価し、デバイスのバッテリー消費方法のいくつかの改善を強調しています。
-
-欧州機関は、モデル番号 SM-S741…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/Galaxy-S26-FE-Leak-AH-2.jpeg" alt="Galaxy S26 FEのリークはバッテリー寿命の延長を示唆しているが、顕著なトレードオフがある"></p>]]></description><source url="https://www.androidauthority.com/galaxy-s26-fe-battery-charging-cycle-leak-3700316/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/Galaxy-S26-FE-Leak-AH-2.jpeg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/Galaxy-S26-FE-Leak-AH-2.jpeg"/></item>
 </channel></rss>
