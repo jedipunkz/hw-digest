@@ -1,6 +1,209 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Mon, 24 Aug 2026 17:46:15 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Mon, 24 Aug 2026 18:58:23 +0000</lastBuildDate>
+<item><title>インターネットが接続されていない状態でも動作しない限り、スマート ホームには何も追加されません</title><link>https://www.xda-developers.com/nothing-gets-added-smart-home-works-internet-unplugged/</link><guid isPermaLink="true">https://www.xda-developers.com/nothing-gets-added-smart-home-works-internet-unplugged/</guid><pubDate>Mon, 24 Aug 2026 18:30:16 +0000</pubDate><description><![CDATA[<p>インターネットが接続されていない状態でも動作しない限り、スマート ホームには何も追加されません
+
+私のスマート ホームにはクラウドへの依存度はありません
+
+インターネットが接続されていない状態でも動作しない限り、スマート ホームには何も追加されません
+
+By Anurag Singh 公開 2026 年 8 月 24 日、午後 2 時 30 分 EDT Anurag は、過去 5 年間、Windows、Android、Apple を中心にテクノロジーをカバーしてきた経験豊富なジャーナリスト兼著者です。彼は Android Police、Neowin、Dexerto、MakeTechEasier などのサイトに執筆しています。アヌラグは常にテクノロジーに興味があり、最新のガジェットを手に入れるのが大好きです。先延ばしにしていないときは、おそらく彼が映画館で最新映画を鑑賞したり、ベッドから Twitter をスクロールしたりしているのを見かけるでしょう。 Sign in to your XDA account Earlier this year, Belkin shut down the cloud servers behind Wemo .多くの Wemo スイッチとプラグは依然として完全に機能するハードウェアでしたが、Apple HomeKit がまだ構成されていない製品はスマート機能を失いました。 The Wemo app stopped working and affected devices could no longer be set up again. 2024 年、Google は Nest Secure で同様のことを行いました。所有者はアプリの制御、アラーム通知、クラウド接続、セキュリティ更新を失いました。
+
+スマート ホームを構築している場合は、購入した製品が実際に自分のものであるかどうかを真剣に検討する必要があります。ハードウェアはあと 10 年は使えるかもしれませんが、その基本的な機能がクラウド内に存在するのであれば、それはほとんど意味がありません…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/05/home-assistant-ai.jpg?w=1600&amp;h=900&amp;fit=crop" alt="インターネットが接続されていない状態でも動作しない限り、スマート ホームには何も追加されません"></p>]]></description><source url="https://www.xda-developers.com/nothing-gets-added-smart-home-works-internet-unplugged/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/05/home-assistant-ai.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/05/home-assistant-ai.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>ついにまともなオーディオを備えたゲームボーイアドバンスが登場</title><link>https://hackaday.com/2026/08/24/at-last-a-gameboy-advance-with-decent-audio/</link><guid isPermaLink="true">https://hackaday.com/2026/08/24/at-last-a-gameboy-advance-with-decent-audio/</guid><pubDate>Mon, 24 Aug 2026 18:30:00 +0000</pubDate><description><![CDATA[<p>ついにまともなオーディオを備えたゲームボーイアドバンスが登場
+
+Many pieces of consumer electronics are build down to a price, and the corners cut show up in their performance. The Gameboy Advance from Nintendo is no exception: its audio is a PWM stream that so…
+
+Many pieces of consumer electronics are build down to a price, and the corners cut show up in their performance. The Gameboy Advance from Nintendo is no exception: its audio is a PWM stream that sounds awful through the included amplifier. [Cajun Panda] has a fix though, in the form of a replacement audio chain .
+
+これは、取り外した GBA オーディオ チップのパッドに接続する PCB の形をしており、フィルタリングと EQ、クラス D オーディオ アンプを備えたよりクリーンなオーディオ パスを提供します。さらに、Bluetooth 接続用のオーディオ コーデックと ESP32 があり、GBA ボタンの長押しで有効になり、ESP の Web インターフェイス経由で設定できます。 Best of all there is no case modification, this is designed to remain as stock as possible.
+
+独自に作成したい場合は、すべて GitHub リポジトリで見つけることができるので、GBA オーディオを最初から作成したい場合は、どこに行けばよい…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/gba-audio-featured.jpg" alt="ついにまともなオーディオを備えたゲームボーイアドバンスが登場"></p>]]></description><source url="https://hackaday.com/2026/08/24/at-last-a-gameboy-advance-with-decent-audio/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/gba-audio-featured.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/gba-audio-featured.jpg"/></item>
+<item><title>レノボ、ゲーム用ハンドヘルドの障害を引き起こす Legion Go BIOS アップデートに対処</title><link>https://www.techpowerup.com/351896/lenovo-addresses-legion-go-bios-update-bricking-gaming-handhelds</link><guid isPermaLink="true">https://www.techpowerup.com/351896/lenovo-addresses-legion-go-bios-update-bricking-gaming-handhelds</guid><pubDate>Mon, 24 Aug 2026 18:29:30 +0000</pubDate><description><![CDATA[<p>レノボ、ゲーム用ハンドヘルドの障害を引き起こす Legion Go BIOS アップデートに対処
+
+最近、公式の Lenovo Legion Go BIOS アップデート (N3CN42WW) がハンドヘルド ゲーム PC の応答不能の原因となっていることが、いくつかの Reddit の投稿で明らかになり、ユーザーは Lenovo から修理費を請求されると言われたと主張しています。さて、事件から約3週間が経ちましたが…
+
+レノボ、ゲーム用ハンドヘルドの障害を引き起こす Legion Go BIOS アップデートに対処
+
+根本原因はまだ特定されていませんが、ユーザーエラーではないことは明らかです。したがって、通常は保証内で処理され、保証対象外のデバイスの場合は無料で修理される必要がありますが、現地の法律を確認してください。
+
+2026 年 2 月 21 日 AMD が Ryzen Z1 Extreme プロセッサのドライバー更新を停止したようです (119)
+
+2026 年 5 月 6 日 X870E および X670E と同じ Promontory 21 シリコンをベースとした AMD X970E チップセット、CUDIMM のネイティブ サポート (133)
+
+2025 年 11 月 29 日 XFX が「Polaris」時代の Radeon RX 580 GTS XXX Edition 4 GB カード用の BIOS アップデートをリリース (5)
+
+2026 年 3 月 16 日 レノボ、次世代ワークステーションを発表、世界初の 1,000 Wh/L シリコン負極バッテリーを発表 (0)
+
+2026 年 5 月 30 日 SteamOS アップデートにより、多数のゲーム用ハンドヘルドと HDMI 上の VRR のサポートが追加されました (7)
+
+2026 年 2 月 27 日 NVIDIA、広範なバグ報告を受けて GeForce 595.59 WHQL Game Ready ドライバーを削除 (111)
+
+2026 年 8 月 21 日 コミュニティの反発を受け…</p><p><img src="https://www.techpowerup.com/img/8jXzD2qgpDwzxR54.jpg" alt="レノボ、ゲーム用ハンドヘルドの障害を引き起こす Legion Go BIOS アップデートに対処"></p>]]></description><source url="https://www.techpowerup.com/351896/lenovo-addresses-legion-go-bios-update-bricking-gaming-handhelds">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/8jXzD2qgpDwzxR54.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/8jXzD2qgpDwzxR54.jpg"/></item>
+<item><title>Over a million LinkedIn posts have been flagged as AI slop in the button&#39;s first month</title><link>https://www.tweaktown.com/rss/click/news/113222/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113222/?c=news-mf</guid><pubDate>Mon, 24 Aug 2026 18:24:12 +0000</pubDate><description><![CDATA[<p>Over a million LinkedIn posts have been flagged as AI slop in the button&#39;s first month</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113222/?c=news-mf">TweakTown</source></item>
+<item><title>これらの Beats Studio Pro ヘッドフォンは iOS および Android で問題なく動作しますが、本当の話は 40 時間のバッテリー寿命、優れた ANC、そして割引価格です。</title><link>https://www.xda-developers.com/beats-studio-pro-drop-to-170-at-51-off/</link><guid isPermaLink="true">https://www.xda-developers.com/beats-studio-pro-drop-to-170-at-51-off/</guid><pubDate>Mon, 24 Aug 2026 18:22:51 +0000</pubDate><description><![CDATA[<p>これらの Beats Studio Pro ヘッドフォンは iOS および Android で問題なく動作しますが、本当の話は 40 時間のバッテリー寿命、優れた ANC、そして割引価格です。
+
+新しいものにアップグレードする時期が来ました
+
+これらの Beats Studio Pro ヘッドフォンは iOS および Android で問題なく動作しますが、本当の話は 40 時間のバッテリー寿命、優れた ANC、そして割引価格です。
+
+写真: Brady Snyder By Timi Cantisano 公開 2026 年 8 月 24 日、午後 2 時 22 分 EDT ティミは 10 年以上にわたり、スマートフォン、コンピューター、およびテクノロジー分野で興味深いと思うあらゆるものに焦点を当ててテクノロジーについて執筆してきました。彼は XDA に執筆を開始し、モバイルに関するあらゆることをカバーしていましたが、インターネット上で最高のハイテク製品の最高の割引を明らかにすることを使命として、取引をカバーすることに移行しました。 XDA アカウントにサインインする Beats Studio Pro ヘッドフォンは、優れたサウンドと優れた ANC を提供し、空間オーディオとロスレス オーディオをサポートします。これらのヘッドフォンの元の小売価格は 350 ドルでしたが、現在は Amazon で 49% オフの 170 ドルまで値下げされ、さらに安く購入できるようになりました。
+
+Beats Studio Pro $170 $350 $180 節約 ブランド Beats バッテリー寿命 ANC/透明モードがオフの場合は最大 40 時間。素材プラスチックの ANC/透明性により最大 24 時間使用可能 Bluetooth Bluetooth 5.3、クラス 1 Bluetooth ノイズキャンセリング 完全適応型 ANC および透明性モード Beats Studio Pro は、カスタム Beats チップを搭載した Apple の最新のオーバーイヤーヘッドフォンです。アク…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2023/07/beats-studio-pro-close.png?w=1600&amp;h=900&amp;fit=crop" alt="これらの Beats Studio Pro ヘッドフォンは iOS および Android で問題なく動作しますが、本当の話は 40 時間のバッテリー寿命、優れた ANC、そして割引価格です。"></p>]]></description><source url="https://www.xda-developers.com/beats-studio-pro-drop-to-170-at-51-off/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2023/07/beats-studio-pro-close.png?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2023/07/beats-studio-pro-close.png?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>Appleの20周年記念iPhoneはAndroid携帯からインスピレーションを受ける可能性がある</title><link>https://www.androidauthority.com/apple-iphone-20th-anniversary-android-3702273/</link><guid isPermaLink="true">https://www.androidauthority.com/apple-iphone-20th-anniversary-android-3702273/</guid><pubDate>Mon, 24 Aug 2026 18:13:26 +0000</pubDate><description><![CDATA[<p>Appleの20周年記念iPhoneはAndroid携帯からインスピレーションを受ける可能性がある
+
+リークされたレンダリング画像は、2027 年に発売予定の 20 周年記念 iPhone の初期の非公式の外観を提供します。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+Appleの20周年記念iPhoneはAndroid携帯からインスピレーションを受ける可能性がある
+
+0 • Aamir Siddiqui / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR 新しいリークによると、Apple は 20 周年記念 iPhone に向けて根本的なデザイン変更を準備している可能性があります。
+
+流出したレンダリング画像には、前面と背面に湾曲したガラスがあり、背面に水平に配置された 2 台のカメラが示されています。
+
+また、画面上には、現在の Android スマートフォンを彷彿とさせる、穴パンチの自撮りカメラのように見えるものも表示されます。
+
+今年iPhoneは大幅な変革を迎えると予想されており、来月の秋のイベントでApple史上初の折りたたみ式モデルが発表される可能性が高い。しかし、同社は2007年に初代iPhoneが発表されてから20年を迎える2027年に、さらに大きな節目を迎えることになる。新たなリークにより、Appleが記念に発表する可能性のある次世代iPhoneモデルの可能性が初めて明らかになった。
+
+リーカーのYogesh Brar氏は、20周年記念iPhoneを複数の角度から映していると思われるいくつかの画像をXで共有しており、その中には側面もはっきりと映っている。また、前面にクアッドカーブディスプレイがあり、背面パネルにも同様に湾曲したガラスが表示されているようです。画像からは、デュアル背面カメラが iPhone 17 のように垂直ではなく、水平に配置されていることがわかります。しかし、それが…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2025/09/Apple-iPhone-Air_9-scaled-e1761389770799.jpg" alt="Appleの20周年記念iPhoneはAndroid携帯からインスピレーションを受ける可能性がある"></p>]]></description><source url="https://www.androidauthority.com/apple-iphone-20th-anniversary-android-3702273/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2025/09/Apple-iPhone-Air_9-scaled-e1761389770799.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2025/09/Apple-iPhone-Air_9-scaled-e1761389770799.jpg"/></item>
+<item><title>(PR) マイクロン、米国ボイジーに最先端のトレーニングセンターを開設</title><link>https://www.techpowerup.com/351899/micron-opens-state-of-the-art-training-center-in-boise-u-s</link><guid isPermaLink="true">https://www.techpowerup.com/351899/micron-opens-state-of-the-art-training-center-in-boise-u-s</guid><pubDate>Mon, 24 Aug 2026 18:12:39 +0000</pubDate><description><![CDATA[<p>(PR) マイクロン、米国ボイジーに最先端のトレーニングセンターを開設
+
+米国に拠点を置く唯一のメモリおよびストレージ ソリューションのメーカーであるマイクロン テクノロジー社 (ナスダック: MU) は本日、ボイジーに 60,000 平方フィートのマイクロン トレーニング センター (MTC) を開設しました。これは、熟練した人材のパイプラインを強化し、先進的な半導体製造をサポートし、事業を拡大するための戦略的投資です。
+
+マイクロン、米国ボイジーに最先端のトレーニングセンターを開設
+
+2025年12月3日 マイクロン、Crucial Consumer事業から撤退、SSDとDRAMの小売販売を終了 (195)
+
+2026 年 8 月 20 日 マイクロン、メモリと AI の未来を形作る米国拠点の研究研究所を発表 (2)
+
+2026 年 6 月 27 日 マイクロン、少なくとも 2028 年までは DRAM 危機が起こると予測 (131)
+
+2026 年 7 月 9 日 マイクロン、米国への投資を加速、ニューヨーク工場に最初のコンクリートを注入 (18)
+
+2026 年 8 月 13 日 Lam Research が世界的な研究ネットワークを拡大するために 30 億ドル以上を投資する計画を発表 (0)
+
+2026 年 8 月 18 日 NAND フラッシュ ブランド上位 5 社の合計収益は 2026 年第 2 四半期に前四半期比 77% 増加。マイクロンが3位に浮上 (4)
+
+2026 年 8 月 21 日 Rapidus は 2030 年までに 600 mm の高度なパッケージング パネルに 8 レチクル インターポーザーを搭載することを目標 (4)
+
+2026 年 8 月 19 日 Universal Display Corporation が OLED の効率を高める OLEDX プラットフォームを発表 (2)
+
+2026 年 5 月 22 日 マイクロン、バージニア州での製造拡張により米国製メモリを前進 (10)
+
+2026年8月11日 ソニーセミコンダクタソリ…</p><p><img src="https://www.techpowerup.com/img/0JiCj9woPQ4EHOmC.jpg" alt="(PR) マイクロン、米国ボイジーに最先端のトレーニングセンターを開設"></p>]]></description><source url="https://www.techpowerup.com/351899/micron-opens-state-of-the-art-training-center-in-boise-u-s">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/0JiCj9woPQ4EHOmC.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/0JiCj9woPQ4EHOmC.jpg"/></item>
+<item><title>ESPN のストリーミング プランは高くなっています: お支払い金額は次のとおりです</title><link>https://www.androidauthority.com/espn-streaming-bundle-price-hikes-3702382/</link><guid isPermaLink="true">https://www.androidauthority.com/espn-streaming-bundle-price-hikes-3702382/</guid><pubDate>Mon, 24 Aug 2026 18:09:02 +0000</pubDate><description><![CDATA[<p>ESPN のストリーミング プランは高くなっています: お支払い金額は次のとおりです
+
+ESPN のストリーミング プランとそれを含む多くのバンドルの価格は、9 月から 1 ドルから 3 ドル値上げされます。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+ストリーミング サービス ESPN のストリーミング プランはますます高価になっています: 料金は次のとおりです
+
+0 • Ryan Haines / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR ESPN ストリーミング プランとバンドルの価格が上昇しています。
+
+プランは月額 1 ドルから 3 ドルずつ値上がりしています。
+
+調整は、ESPN を含む多くのストリーミング バンドルにも影響します。
+
+先週、Verizon が間もなく Disney Plus、ESPN、Hulu の特典の価格を値上げし、プランのアドオンが 9 月から月あたり 1 ～ 2 ドルずつ値上げされることを知りました。 ESPN は、ストリーミング サブスクリプションとそれに含まれるバンドルの価格を、Verizon 加入者だけでなくすべてのユーザーに対して値上げすると発表しました。
+
+9to5Mac からわかったように、ESPN は ESPN Select および ESPN Unlimited ストリーミング プランの値上げを発表しました。 Select は月額 13 ドルから 14 ドル (または年間 130 ドルから 140 ドル) に値上げされ、一方、Unlimited は月額 30 ドルから 32 ドル (または年間 300 ドルから 320 ドル) に値上がりしています。 ESPN と Disney Plus および Hulu を含むバンドルも値上がりしています。
+
+Disney Plus と Hulu と広告付きの ESPN Select プランを含むバンドルの料金は…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2025/02/NWSL-streaming-espn-plus.jpg" alt="ESPN のストリーミング プランは高くなっています: お支払い金額は次のとおりです"></p>]]></description><source url="https://www.androidauthority.com/espn-streaming-bundle-price-hikes-3702382/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2025/02/NWSL-streaming-espn-plus.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2025/02/NWSL-streaming-espn-plus.jpg"/></item>
+<item><title>私は同じバグに対してアルコンに対してクロード コードを 6 回実行しましたが、失敗した実行が最も多くのことを教えてくれました。</title><link>https://www.xda-developers.com/archon-finally-solved-the-one-problem-that-makes-claude-code-unreliable-for-real-work/</link><guid isPermaLink="true">https://www.xda-developers.com/archon-finally-solved-the-one-problem-that-makes-claude-code-unreliable-for-real-work/</guid><pubDate>Mon, 24 Aug 2026 18:00:16 +0000</pubDate><description><![CDATA[<p>私は同じバグに対してアルコンに対してクロード コードを 6 回実行しましたが、失敗した実行が最も多くのことを教えてくれました。
+
+修正は決して問題ではありませんでした
+
+私は同じバグに対してアルコンに対してクロード コードを 6 回実行しましたが、失敗した実行が最も多くのことを教えてくれました。
+
+By Joe Rice-Jones Published Aug 24, 2026, 2:00 PM EDT Maker、meme-r、そして恥ずかしがり屋のオタクである Joe は、2018 年に KnowTechie でキャリアをスタートして以来、テクノロジーについて執筆しています。彼は Apple からアプリ、クラウドファンディングまであらゆるものをカバーしており、複雑なトピックの本質に迫るのが大好きです。その間、彼は、2023 年の春に XDA に本拠地を置くまで、SlashGear や多数の法人顧客向けにも記事を書いていました。彼は、たとえ後で完全に元に戻らなかったとしても、すべてのおもちゃを分解して、どのように機能するかを確認する子供でした。これにより、複雑なシステムがどのように連携して機能するかを説明するための確かな背景が得られ、それ以来、物事を元に戻す段階でうまくなったと彼は約束します。 XDA アカウントにサインインします。私は自分のデバイスでクロード コードを蔓延させることに慣れています。これは、私の長年のイベント ビューア ログを意味し、Proxmox スタックを保持するコードの多くを記述したものです。そこで私はあることに気づきました。 2回尋ねても、まったく同じ方法で同じ答えが返ってくることはありません。
+
+そこでArchonのようなハーネスが登場します。クロードが教えてくれたギャップを修正してくれると約束されていたので、私はすでにそれを使って何かを構築しています。しかし、私はクロード コードを信頼するのと同じようにそれを信頼しており、それが宣伝どおりに機能するかどうかを実際にテストしていませんでした。それが私の頭の片隅に引っかかり、考えれば考えるほど、…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/archon-running-in-terminal.jpg?w=1600&amp;h=900&amp;fit=crop" alt="私は同じバグに対してアルコンに対してクロード コードを 6 回実行しましたが、失敗した実行が最も多くのことを教えてくれました。"></p>]]></description><source url="https://www.xda-developers.com/archon-finally-solved-the-one-problem-that-makes-claude-code-unreliable-for-real-work/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/archon-running-in-terminal.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/archon-running-in-terminal.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>Amazon、Echoスピーカー、Kindle、Fire TV Stickなどの価格を値上げ</title><link>https://www.androidauthority.com/amazon-raises-hardware-prices-3702369/</link><guid isPermaLink="true">https://www.androidauthority.com/amazon-raises-hardware-prices-3702369/</guid><pubDate>Mon, 24 Aug 2026 17:58:50 +0000</pubDate><description><![CDATA[<p>Amazon、Echoスピーカー、Kindle、Fire TV Stickなどの価格を値上げ
+
+Amazonは最近、Echoデバイス、Kindle、Fire TV Stickなど、いくつかの自社製品の価格を引き上げた。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+Amazon、Echoスピーカー、Kindle、Fire TV Stickなどの価格を値上げ
+
+0 • Edgar Cervantes / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Amazon は、ハードウェア ポートフォリオ全体の価格を引き上げています。
+
+一部のEchoデバイスは30ドル値上げされ、一部のKindleモデルは40ドル値上げされ、一部のFire TV Stickとeero製品も同様に価格が上昇する。
+
+同社のRing製品は最近の値上がりから免れているようだ。
+
+携帯電話からゲーム機まで、複数の業界が RAM 危機の影響を受け続けています。この状況により、企業が製品をキャンセルするケースもあれば、価格が値上げされるケースもあります。現在進行中のこの物語の最新作には、Amazon とそのハードウェア ポートフォリオのほとんどが関与しています。
+
+Fortune が報じたように、Amazon はいくつかの自社デバイスの価格を値上げしました。価格引き上げの影響を受ける製品には、Echoスマートスピーカー、Kindle電子書籍リーダー、Fire TV Stick、eeroワイヤレスメッシュルーターなどがある。リング製品は最近の増加を免れたようだ。
+
+ヒットしたモデルと現在の価格は次のとおりです。
+
+Echo Dot：49.99ドルから79.99ドルへ
+
+Echo Show 11: 219.99 ドルから 249.99 ドルへ
+
+Kindle (16GB): 109.99 ドルから 149.99 ドルへ
+
+Kindle Paper…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2022/05/Amazon-Echo-Dot-Alexa-speaker-with-light-ring-turned-on-stock-photo-1.jpg" alt="Amazon、Echoスピーカー、Kindle、Fire TV Stickなどの価格を値上げ"></p>]]></description><source url="https://www.androidauthority.com/amazon-raises-hardware-prices-3702369/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2022/05/Amazon-Echo-Dot-Alexa-speaker-with-light-ring-turned-on-stock-photo-1.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2022/05/Amazon-Echo-Dot-Alexa-speaker-with-light-ring-turned-on-stock-photo-1.jpg"/></item>
+<item><title>ホットチップ 2026: AI メモリが 775 ミクロンの上限に達する中、SK ハイニックスはハイブリッド ボンディング HBM5 を推進 — 企業は Nvidia Rubin を通じて MR-MUF を拡張</title><link>https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-says-hybrid-bonding-wont-be-ready-for-hbm4e-as-ai-memory-runs-into-a-775-micron-ceiling</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-says-hybrid-bonding-wont-be-ready-for-hbm4e-as-ai-memory-runs-into-a-775-micron-ceiling</guid><pubDate>Mon, 24 Aug 2026 17:55:45 +0000</pubDate><description><![CDATA[<p>ホットチップ 2026: AI メモリが 775 ミクロンの上限に達する中、SK ハイニックスはハイブリッド ボンディング HBM5 を推進 — 企業は Nvidia Rubin を通じて MR-MUF を拡張
+
+Jaesik Lee は、HBM スタック高さの物理的制限と、ほぼ確認されている HBM4E のハイブリッド ボンディング ミスについて説明しました。
+
+ホットチップ 2026: AI メモリが 775 ミクロンの上限に達する中、SK ハイニックスはハイブリッド ボンディング HBM5 を推進 — 企業は Nvidia Rubin を通じて MR-MUF を拡張
+
+Jaesik Lee は、HBM スタック高さの物理的制限と、ほぼ確認されている HBM4E のハイブリッド ボンディング ミスについて説明しました。
+
+(画像クレジット: SK Hynix) リンクをコピー
+
+0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する この Tom&#39;s Hardware プレミアム記事は Tom&#39;s Hardware アカウントで無料で読むことができます。支払いは必要ありません。 8 月 23 日から 26 日まで無料でアクセスできるので、Hot Chips からのレポートをすべて読むことができます。
+
+SKハイニックスはハイブリッドボンディングがHBM4Eに対応できるとは期待していない、とSKハイニックスアメリカのパッケージエンジニアリング担当副社長、Jaesik Lee氏は8月23日のHot Chips 2026でのプレゼンテーションで述べ、業界で最も期待されていたメモリパッケージングの早ければHBM5への移行を後押しした。
+
+同氏が説明するように、問題は、HBM キューブの総厚が 775 ミクロン (300 mm ロジック ウェーハの標準厚さ) でキャップされているため、追加の DRAM 層はすべて、より薄いダイとより狭いギャップから作られる必要があることです。 16-Hi HBM4 は現在、キューブあ…</p><p><img src="https://cdn.mos.cms.futurecdn.net/9DnrtFAiRKUUZvGY424ZgZ-2560-80.jpg" alt="ホットチップ 2026: AI メモリが 775 ミクロンの上限に達する中、SK ハイニックスはハイブリッド ボンディング HBM5 を推進 — 企業は Nvidia Rubin を通じて MR-MUF を拡張"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-says-hybrid-bonding-wont-be-ready-for-hbm4e-as-ai-memory-runs-into-a-775-micron-ceiling">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/9DnrtFAiRKUUZvGY424ZgZ-2560-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/9DnrtFAiRKUUZvGY424ZgZ-2560-80.jpg"/></item>
+<item><title>Microsoftは友人にEdgeを使ってもらうためにお金を払う</title><link>https://www.androidauthority.com/microsoft-edge-referral-rewards-points-3702327/</link><guid isPermaLink="true">https://www.androidauthority.com/microsoft-edge-referral-rewards-points-3702327/</guid><pubDate>Mon, 24 Aug 2026 17:55:20 +0000</pubDate><description><![CDATA[<p>Microsoftは友人にEdgeを使ってもらうためにお金を払う
+
+Microsoft は、Edge ユーザーにブラウザを試すよう説得した友人 1 人につき 500 Rewards ポイントを与えています。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+Microsoftは友人にEdgeを使ってもらうためにお金を払う
+
+0 • Edgar Cervantes / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください
+
+Microsoft は、紹介が成功するたびに Edge ユーザーに 500 Microsoft Rewards ポイントを与える紹介プログラムを展開しています。
+
+毎月最大 7,500 ポイントを獲得でき、Microsoft または Xbox ギフト カードとして約 6.82 ドル相当のポイントを獲得できます。
+
+紹介は、新しい Edge Mobile ユーザーがリンクを通じてインストールし、14 日以内の 2 つの異なる日に Edge で検索した場合にのみカウントされます。
+
+Microsoft は、皆さんに Edge ブラウザを試してほしいと心から望んでいます。そして、マイクロソフトは、口を出してお金をつぎ込むつもりです。テクノロジー巨人は以前、競合ブラウザよりもEdgeの使用に金銭的インセンティブを与えており、現在は他のブラウザに切り替えを説得するユーザーに報酬を支払っている。
+
+同社は、現在の Edge ユーザーに新しいブラウザーを試してもらうと Microsoft Rewards ポイントを与える新しい紹介プログラムを導入しています。これは Windows 最新 で強調されています。
+
+Microsoft が自社製品の使用に報酬を与えるプロモーションは、これが初めてではありません。同社は以前にもBingの使用を奨励しており、ChromeではなくEdgeを使い続ける場合にはインセンティブを与えたことも…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2022/08/Microsoft-Edge-Stock-photos-2.jpg" alt="Microsoftは友人にEdgeを使ってもらうためにお金を払う"></p>]]></description><source url="https://www.androidauthority.com/microsoft-edge-referral-rewards-points-3702327/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2022/08/Microsoft-Edge-Stock-photos-2.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2022/08/Microsoft-Edge-Stock-photos-2.jpg"/></item>
+<item><title>Google Magnifier の新しいアイコンには迷惑な小さなバグが付いています</title><link>https://www.androidauthority.com/google-magnifier-new-icon-3702379/</link><guid isPermaLink="true">https://www.androidauthority.com/google-magnifier-new-icon-3702379/</guid><pubDate>Mon, 24 Aug 2026 17:47:27 +0000</pubDate><description><![CDATA[<p>Google Magnifier の新しいアイコンには迷惑な小さなバグが付いています
+
+Google 拡大鏡には新しいグラデーションアイコンが追加されましたが、最新のアップデートではその過程でテーマアイコンが壊れたようです。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+Google Magnifier の新しいアイコンには迷惑な小さなバグが付いています
+
+0 • Hadlee Simons / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google 拡大鏡のアイコンが青から紫のグラデーションで再設計されました。
+
+更新されたアイコンは、Google がアプリに導入している新しいビジュアル スタイルに従っています。
+
+このアップデートにより、拡大鏡のテーマアイコンが壊れ、代わりに空白の色付きの円が残るようです。
+
+Google は自社のファーストパーティ アプリのアイコンを着実に更新しており、Magnifier はそれを実現する最新の Pixel アプリです。新しいアップデートにより、Google 拡大鏡はよりカラフルなグラデーションアイコンになりましたが、その過程でアプリのテーマアイコンも壊れたようです。
+
+Google Pixel スマートフォンで最も改善する必要がある機能はどれですか?
+
+Magnifier のバージョン 2.0.0.965719431 は、再設計されたアイコンとともに公開されています。青を基調とした古いデザインは明るい背景に置き換えられ、虫眼鏡はより厚く、青から紫のグラデーションが使用されています。その後ろの広場も埋め尽くされました。以下の左側の古いアイコンと右側の新しいアイコンの違いがわかります。
+
+AssembleDebug / Android Authority Magnifier は、Pixel 5 以降の携帯電話向けの Google のアクセシビリティ アプリで、カ…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2023/10/Google-Magnifier-app-resized.jpg" alt="Google Magnifier の新しいアイコンには迷惑な小さなバグが付いています"></p>]]></description><source url="https://www.androidauthority.com/google-magnifier-new-icon-3702379/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2023/10/Google-Magnifier-app-resized.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2023/10/Google-Magnifier-app-resized.jpg"/></item>
 <item><title>BIOS modded single-slot AMD Pro GPU from 2016 can play Cyberpunk 2077 at up to 60 FPS at 1080p</title><link>https://www.tweaktown.com/rss/click/news/113198/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113198/?c=news-mf</guid><pubDate>Mon, 24 Aug 2026 17:45:14 +0000</pubDate><description><![CDATA[<p>BIOS modded single-slot AMD Pro GPU from 2016 can play Cyberpunk 2077 at up to 60 FPS at 1080p</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113198/?c=news-mf">TweakTown</source></item>
 <item><title>IBM の最初のデュアル ISA コアは、同じコア内で ARM と z/Architecture をネイティブに実行します。すべてのコアは 5.7 GHz の基本周波数で動作します — 次世代メインフレーム AI プロセッサは、11 コアを備えた 2nm ノード上に構築されています</title><link>https://www.tomshardware.com/pc-components/cpus/ibms-first-dual-isa-core-natively-executes-arm-and-z-architecture-in-the-same-core-all-cores-run-at-5-7-ghz-base-frequency-next-gen-mainframe-ai-processor-is-built-on-2nm-node-with-11-cores</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/cpus/ibms-first-dual-isa-core-natively-executes-arm-and-z-architecture-in-the-same-core-all-cores-run-at-5-7-ghz-base-frequency-next-gen-mainframe-ai-processor-is-built-on-2nm-node-with-11-cores</guid><pubDate>Mon, 24 Aug 2026 17:42:34 +0000</pubDate><description><![CDATA[<p>IBM の最初のデュアル ISA コアは、同じコア内で ARM と z/Architecture をネイティブに実行します。すべてのコアは 5.7 GHz の基本周波数で動作します — 次世代メインフレーム AI プロセッサは、11 コアを備えた 2nm ノード上に構築されています
 
@@ -15,6 +218,19 @@ IBM の最初のデュアル ISA コアは、同じコア内で ARM と z/Archit
 ここでのアプローチは、同じチップ上にパッケージ化された個別の Arm コアを備えた異種 CPU ではありません。同社によれば、IBMはz/Architecture命令またはAArch64命令のいずれかを実行できるコアを構築し、それらを「ナノ秒以内」に動的に切り替えることができるという。 Hot Chips 2026の発表の際、IBMは、これが両方のISAを「第一級市民」として扱う最初のプロセッサであると信じていると述べた。
 
 IBM は、…</p><p><img src="https://cdn.mos.cms.futurecdn.net/Qb2yqb9epDdxU3XAogoxQL-2560-80.jpg" alt="IBM の最初のデュアル ISA コアは、同じコア内で ARM と z/Architecture をネイティブに実行します。すべてのコアは 5.7 GHz の基本周波数で動作します — 次世代メインフレーム AI プロセッサは、11 コアを備えた 2nm ノード上に構築されています"></p>]]></description><source url="https://www.tomshardware.com/pc-components/cpus/ibms-first-dual-isa-core-natively-executes-arm-and-z-architecture-in-the-same-core-all-cores-run-at-5-7-ghz-base-frequency-next-gen-mainframe-ai-processor-is-built-on-2nm-node-with-11-cores">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/Qb2yqb9epDdxU3XAogoxQL-2560-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/Qb2yqb9epDdxU3XAogoxQL-2560-80.jpg"/></item>
+<item><title>Hot Chips 2026 での NVIDIA Vera CPU</title><link>https://www.servethehome.com/nvidia-vera-cpu-at-hot-chips-2026/</link><guid isPermaLink="true">https://www.servethehome.com/nvidia-vera-cpu-at-hot-chips-2026/</guid><pubDate>Mon, 24 Aug 2026 17:30:18 +0000</pubDate><description><![CDATA[<p>Hot Chips 2026 での NVIDIA Vera CPU
+
+Hot Chips 2026 で、NVIDIA は、次期 Vera サーバー CPU とオリンパス CPU アーキテクチャについて詳しく説明しました。チップあたり 88 コアを備えた NVIDIA は、自社設計の CPU アーキテクチャに野心的な目標を掲げています
+
+Hot Chips 2026 の今朝の最初の CPU セッションの 3 番目で最後のプレゼンテーションで、NVIDIA は演台に立ち、次世代サーバー CPU である Vera についてプレゼンテーションを行います。新しい Olympus CPU コア アーキテクチャに基づく Vera は、NVIDIA の今後の Vera Rubin AI システムの重要な部分として機能する 88 コアを備えた社内 Arm サーバー CPU です。 NVIDIA は、特殊かつ強力な CPU でより大きなパイを獲得しようとしているため、これはサーバー CPU 市場における全体的な存在感を拡大するためのこれまでで最も野心的な取り組みでもあります。
+
+今日のプレゼンテーションは、同社が先月リリースした Vera/Olympus ホワイトペーパーに続くものです。
+
+ライブで取材しているため、タイプミスはご容赦ください。
+
+Hot Chips 2026 での NVIDIA Vera CPU
+
+高いレベルで言えば、Vera は事実上あらゆる点で非常に現代的で巨大な CPU となるように設計されています。この大型チップはコア数よりも IPC に重点を置いており、合計 88 個の CPU コアを備え、その両側に 8 個の 128 ビット LPDDR5X メモリ コントローラーが配置されています。チップ上の NVLink-C2C インターフェイスは、NVIDIA 独自の Rubin GPU とうまく組み合わせられるように設計されていますが、NVLink-C2C を実装する他のものや、2P 純粋な CPU セットアップ用の別の Vera チップに接続することもできます。 Gr…</p><p><img src="https://www.servethehome.com/wp-content/uploads/2026/07/NVIDIA-Vera-CPU.jpg" alt="Hot Chips 2026 での NVIDIA Vera CPU"></p>]]></description><source url="https://www.servethehome.com/nvidia-vera-cpu-at-hot-chips-2026/">ServeTheHome</source><media:content url="https://www.servethehome.com/wp-content/uploads/2026/07/NVIDIA-Vera-CPU.jpg" medium="image"/><media:thumbnail url="https://www.servethehome.com/wp-content/uploads/2026/07/NVIDIA-Vera-CPU.jpg"/></item>
 <item><title>これら 5 つの Windows 設定を変更したところ、Wi-Fi がすぐに高速になりました</title><link>https://www.xda-developers.com/windows-11-settings-i-change-speed-up-wi-fi/</link><guid isPermaLink="true">https://www.xda-developers.com/windows-11-settings-i-change-speed-up-wi-fi/</guid><pubDate>Mon, 24 Aug 2026 17:30:15 +0000</pubDate><description><![CDATA[<p>これら 5 つの Windows 設定を変更したところ、Wi-Fi がすぐに高速になりました
 
 最適化されていない Windows のデフォルトが Wi-Fi パフォーマンスを奪い続ける
@@ -6732,184 +6948,4 @@ By Patrick Hearn 公開日 2026 年 8 月 20 日、午後 4:00 EDT パトリッ�
 非常に多くのプラグインがバイブコーディングされています。 Obsidian のサブレディットをざっと見ると、バイブコーディングを認めたプラグインの発表スレッドが 12 件表示されます。また、Claude が GitHub リポジトリでコミットを行っているのを見ました。
 
 新しいプラグインは左右にリリースされています。 2025 年半ばに私が初めて Obsidian を使い始めたとき、コミュニティ ライブラリには 2,500 を少し超えるプラグインがありました。今？この記事の執筆時点では 6,660 件あります。きっと今日の終わりまでにはもっと増えるだろう。通常、プラグインの種類が増えるのは良いことだと思いますが、それは、よく管理されているプラ​​…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/obsidianpluginfeature.png?w=1600&amp;h=900&amp;fit=crop" alt="Obsidian のプラグイン ライブラリは、バイブコード化された放棄ウェアに溺れています"></p>]]></description><source url="https://www.xda-developers.com/obsidian-has-a-plugin-problem/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/obsidianpluginfeature.png?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/obsidianpluginfeature.png?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>Google は携帯通信会社と協力してメッセージの RCS を修正しています</title><link>https://www.androidauthority.com/google-rcs-messages-fix-3701283/</link><guid isPermaLink="true">https://www.androidauthority.com/google-rcs-messages-fix-3701283/</guid><pubDate>Thu, 20 Aug 2026 19:57:45 +0000</pubDate><description><![CDATA[<p>Google は携帯通信会社と協力してメッセージの RCS を修正しています
-
-Google は、メッセージ アプリに影響を与えている現在の RCS の不具合を修正するために通信事業者に連絡を取ったと発表しました。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Google は携帯通信会社と協力してメッセージの RCS を修正しています
-
-0 • Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Android ユーザーから、Google メッセージに関するイライラする RCS 問題がいくつか報告されています。
-
-ユーザーはいくつかの修正を提案しましたが、すべての人に効果があるわけではないようです。
-
-Googleは現在、通信事業者と協力して適切なソリューションを開発していることを認めた。
-
-RCS は次世代のテキスト メッセージングを表し、スレッドやリアクションなど、ユーザーが長年にわたって切望していた機能の多くをついに提供します。しかし、その複雑さによって物事が少し脆弱になっているようにも感じられ、時には新しい RCS の不具合について聞かずに数週間を過ごすことはできないように思えることもあります。最近では、これにエラー コード 3100 が関係しており、ユーザーが新しいデバイスをセットアップしたり通信会社を変更したりする際に大きな影響を及ぼしているようです。本日、Google は問題の整理に向けた進捗状況について最新情報を提供してくれました。
-
-覚えているかもしれませんが、私たちはすでに多くの潜在的な解決策と回避策を検討しており、一部のユーザーは成功を報告しましたが、同じアプローチがすべての人に機能しているわけではないことは明らかでした。特に RCS のような外部システムに大きく依存するものでは、これは非常にイライラする状況になる可能性があります。しかしそれが、Google がこの事件に取り組んでいることを聞いて私たちが安心した理由でも…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2019/10/rcs-messages.jpg" alt="Google は携帯通信会社と協力してメッセージの RCS を修正しています"></p>]]></description><source url="https://www.androidauthority.com/google-rcs-messages-fix-3701283/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2019/10/rcs-messages.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2019/10/rcs-messages.jpg"/></item>
-<item><title>ポッドキャスト: Amazon Kindle と AI による書籍の破壊</title><link>https://goodereader.com/blog/e-reader-radio/podcast-amazon-kindle-and-ai-destruction-of-books</link><guid isPermaLink="true">https://goodereader.com/blog/e-reader-radio/podcast-amazon-kindle-and-ai-destruction-of-books</guid><pubDate>Thu, 20 Aug 2026 19:57:34 +0000</pubDate><description><![CDATA[<p>ポッドキャスト: Amazon Kindle と AI による書籍の破壊
-
-Good e-Reader Radio 番組では、Amazon などの AI 企業によるハードカバー本の破壊について話しています。
-
-今日の Good e-Reader Radio 番組では、AI 企業がどのようにしてヴィンテージ、絶版、入手困難なタイトルを含む何百万冊もの物理的な本を購入し、工業用裁断機で背表紙を切り落とし、大規模な言語モデルをトレーニングするためにバラバラになったページをスキャンしているかについて話します。 「破壊的スキャン」と呼ばれることが多いこのプロセスは、作家、歴史家、書店員からの文化的および倫理的な激しい反発を引き起こしました。
-
-Kindle Oasis をお持ちの場合は、Amazon が本のバックアップや DRM の解除を不可能にする新しい電子書籍暗号化を実装しました。米国の公共図書館で Overdrive Libby を使用して電子書籍を借りる場合、Kindle を機内モードにして貸出期間を延長することができなくなりました。
-
-Michael Kozlowski は Good e-Reader の編集長で、過去 15 年間オーディオブックと電子書籍リーダーについて執筆しています。 CBC、CNET、Engadget、ハフィントンポスト、ニューヨークタイムズなどの新聞やウェブサイトが彼の記事を取り上げました。彼はカナダのブリティッシュコロンビア州バンクーバーに住んでいます。</p><p><img src="https://media.goodereader.com/blog/uploads/images/2026/08/20155656/started-buying-the-hardcover-editions-well-worth-the-extra-v0-wsJiD6yav7m4ANh3NEEe3Ge4b9TTBPb22yEWyU3QKsA.webp" alt="ポッドキャスト: Amazon Kindle と AI による書籍の破壊"></p>]]></description><source url="https://goodereader.com/blog/e-reader-radio/podcast-amazon-kindle-and-ai-destruction-of-books">Good e-Reader</source><media:content url="https://media.goodereader.com/blog/uploads/images/2026/08/20155656/started-buying-the-hardcover-editions-well-worth-the-extra-v0-wsJiD6yav7m4ANh3NEEe3Ge4b9TTBPb22yEWyU3QKsA.webp" medium="image"/><media:thumbnail url="https://media.goodereader.com/blog/uploads/images/2026/08/20155656/started-buying-the-hardcover-editions-well-worth-the-extra-v0-wsJiD6yav7m4ANh3NEEe3Ge4b9TTBPb22yEWyU3QKsA.webp"/></item>
-<item><title>Xbox struggles to move physical discs, accounts for only 4% of disc sales in the US this year</title><link>https://www.tweaktown.com/rss/click/news/113180/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113180/?c=news-mf</guid><pubDate>Thu, 20 Aug 2026 19:45:07 +0000</pubDate><description><![CDATA[<p>Xbox struggles to move physical discs, accounts for only 4% of disc sales in the US this year</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113180/?c=news-mf">TweakTown</source></item>
-<item><title>私はネットワーク トラフィックを保護するために Raspberry Pi に DoH を備えた Technitium DNS をインストールしました。あなたもそれを行うことができます</title><link>https://www.xda-developers.com/installed-technitium-dns-with-doh-on-raspberry-pi-secure-network-traffic/</link><guid isPermaLink="true">https://www.xda-developers.com/installed-technitium-dns-with-doh-on-raspberry-pi-secure-network-traffic/</guid><pubDate>Thu, 20 Aug 2026 19:31:16 +0000</pubDate><description><![CDATA[<p>私はネットワーク トラフィックを保護するために Raspberry Pi に DoH を備えた Technitium DNS をインストールしました。あなたもそれを行うことができます
-
-Pi-hole はホーム ネットワーク用の最も人気のあるアップグレードの 1 つですが、Technitium はそれをさらに進化させたものです。
-
-私はネットワーク トラフィックを保護するために Raspberry Pi に DoH を備えた Technitium DNS をインストールしました。あなたもそれを行うことができます
-
-By Anmol Mehrotra 公開 2026 年 8 月 20 日、午後 3 時 31 分 EDT アンモルは 20 年近く前からテクノロジーに興味を持ち、10 年以上にわたってテクノロジー全般をカバーしてきました。 Google Blogger が素晴らしかった頃、彼はブログ投稿から旅を始め、Windows Phone から Windows 11 まであらゆるものをカバーしてきました。Anmol は過去に MSPoweruser と Neowin に記事を書いており、常に最新のガジェットを手に入れることに熱心です。運命スクロールをしていないときは、彼がビデオ ゲームをしたり、読書をしたり、サッカーの試合をしたりしているのが見えます。 XDA アカウントにサインインします 出典: Unsplash 私は何年もかけて、商用 (有料を含む) と自己ホスト型の両方のさまざまな DNS オプションを試してきました。途中で、本当にプライバシーに重点を置いた DNS が必要な場合は、ネットワーク全体に一度に展開できるセルフホスティングが最適な方法であることに気づきました。
-
-ただし、たくさんあるので、どれを選ぶかは難しいかもしれません。もちろん、最も人気のある Pi-hole があります。これは、安価に設定できる最もよく使用されている、または推奨されている DNS シンクホールの 1 つであるため、当然のことです。
-
-単なるDNSシンクホールをはるかに超えたもの
-
-…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/technitium-on-tablet-screen.jpg?w=1600&amp;h=900&amp;fit=crop" alt="私はネットワーク トラフィックを保護するために Raspberry Pi に DoH を備えた Technitium DNS をインストールしました。あなたもそれを行うことができます"></p>]]></description><source url="https://www.xda-developers.com/installed-technitium-dns-with-doh-on-raspberry-pi-secure-network-traffic/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/technitium-on-tablet-screen.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/technitium-on-tablet-screen.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>Thermalright Intros Assassin X 120-A Dark CPU クーラー</title><link>https://www.techpowerup.com/351770/thermalright-intros-assassin-x-120-a-dark-cpu-cooler</link><guid isPermaLink="true">https://www.techpowerup.com/351770/thermalright-intros-assassin-x-120-a-dark-cpu-cooler</guid><pubDate>Thu, 20 Aug 2026 19:25:53 +0000</pubDate><description><![CDATA[<p>Thermalright Intros Assassin X 120-A Dark CPU クーラー
-
-Thermalright は、Assassin X 120 V2 シリーズの更新バージョンである Assassin X 120-A Dark を発表しました。シングルタワークーラーは、オリジナルのスリムなデザインを維持していますが、ヒートシンク、トップカバー、ベース、および 4 本の 6 mm 銅ヒートパイプ全体にわたってオールブラック仕上げを採用しています。それも以前から変わりました...
-
-Thermalright Intros Assassin X 120-A Dark CPU クーラー
-
-2025 年 9 月 3 日 NVIDIA ディスクリート GPU 市場シェアの優位性が 94% に拡大、ノート レポート (237)
-
-2026 年 3 月 6 日 NVIDIA が AIB GPU 市場シェアの 94% を獲得、AMD は 5% に低下 (157)
-
-2025 年 10 月 21 日 AMD は 192 MB L3 キャッシュと 200 W TDP を備えた 16 コア Ryzen 9 9950X3D2 CPU を発売する可能性がある (93)
-
-2025 年 10 月 3 日 Intel が Steam で過去最低を記録する中、AMD が CPU シェアを獲得 9 月のハードウェア調査 (94)
-
-2026 年 4 月 6 日 Steam は、予想される PC パフォーマンスを示すために購入前にゲームの FPS を推定します (33)
-
-2026年2月20日 Intel「Nova Lake-S」は2027年に登場、CESではAMD「Olympic Ridge」と同時発売の可能性が高い (118)
-
-2026 年 8 月 17 日 CXMT が DDR5 で 9,000 MT/s の壁を突破 (60)
-
-2026 年 7 月 8 日 Cooler Master が V8 ACE 3DHP シングルタワー エア クーラーを発表 (19)
-
-2026 年 4 …</p><p><img src="https://www.techpowerup.com/img/3BwudlESWK2KcygE.jpg" alt="Thermalright Intros Assassin X 120-A Dark CPU クーラー"></p>]]></description><source url="https://www.techpowerup.com/351770/thermalright-intros-assassin-x-120-a-dark-cpu-cooler">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/3BwudlESWK2KcygE.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/3BwudlESWK2KcygE.jpg"/></item>
-<item><title>XeSS ドライバーのサポートがないにもかかわらず、SteamOS を実行する Intel Arc B580 は好印象</title><link>https://www.techpowerup.com/351769/intel-arc-b580-running-steamos-impresses-despite-missing-xess-driver-support</link><guid isPermaLink="true">https://www.techpowerup.com/351769/intel-arc-b580-running-steamos-impresses-despite-missing-xess-driver-support</guid><pubDate>Thu, 20 Aug 2026 19:20:36 +0000</pubDate><description><![CDATA[<p>XeSS ドライバーのサポートがないにもかかわらず、SteamOS を実行する Intel Arc B580 は好印象
-
-Valve の SteamOS は、dGPU や Intel の Arc GPU のサポートなど、ここ数カ月で多くの新しいハードウェア サポートを獲得しています。ハンドヘルド ゲームと SteamOS テストの代名詞となっている YouTuber の ETA Prime が、Intel の Arc B580 を SteamOS でテストし、素晴らしい結果をもたらしました...
-
-XeSS ドライバーのサポートがないにもかかわらず、SteamOS を実行する Intel Arc B580 は好印象
-
-2025 年 10 月 17 日 Microsoft が Windows 11 October Update で Localhost を破壊し、ユーザーは強制的に元に戻される (105)
-
-2026 年 4 月 13 日 Epic Games ストアの従業員: 無料ゲームのためだけに来て、その後 Steam に戻ってきた人々 (91)
-
-2026 年 5 月 27 日 リーカーが天文学的な蒸気機械の価格を示唆 (74)
-
-2026 年 7 月 3 日 インテル、ゲーム向けに 108 MB bLLC キャッシュを備えた 2 つの 22 コア「Nova Lake-S」SKU を準備 (279)
-
-2026 年 4 月 2 日 Steam Deck 2 溝、既製 AMD シリコン用セミカスタム APU、Eyes 2028 発表 (45)
-
-2025 年 11 月 12 日 Valve が Steam Machine、Steam Frame、Steam コントローラーを発表 (204)
-
-2026 年 6 月 26 日 インテル「Nova Lake-S」52 コア OC SKU が PL2 モードで 474 W を消費 (291)
-
-2026 年 1 月 10 日 Intel Core Ultra X9 388H &#34;Panther Lake&#34; iGPU は、Cyb…</p><p><img src="https://www.techpowerup.com/img/fOKDnNqvTtcfrFHj.jpg" alt="XeSS ドライバーのサポートがないにもかかわらず、SteamOS を実行する Intel Arc B580 は好印象"></p>]]></description><source url="https://www.techpowerup.com/351769/intel-arc-b580-running-steamos-impresses-despite-missing-xess-driver-support">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/fOKDnNqvTtcfrFHj.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/fOKDnNqvTtcfrFHj.jpg"/></item>
-<item><title>Samsung Foundry raises manufacturing prices, may impact the Nintendo Switch 2</title><link>https://www.tweaktown.com/rss/click/news/113179/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113179/?c=news-mf</guid><pubDate>Thu, 20 Aug 2026 19:15:15 +0000</pubDate><description><![CDATA[<p>Samsung Foundry raises manufacturing prices, may impact the Nintendo Switch 2</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113179/?c=news-mf">TweakTown</source></item>
-<item><title>Android 搭載 TV ストリーミング スティックの将来は不透明なようだ</title><link>https://www.xda-developers.com/the-future-of-android-powered-tv-streaming-sticks-looks-uncertain/</link><guid isPermaLink="true">https://www.xda-developers.com/the-future-of-android-powered-tv-streaming-sticks-looks-uncertain/</guid><pubDate>Thu, 20 Aug 2026 19:00:15 +0000</pubDate><description><![CDATA[<p>Android 搭載 TV ストリーミング スティックの将来は不透明なようだ
-
-Google TV Streamer は 2024 年にリリースされましたが、新しいものの将来は明らかではありません。
-
-Android 搭載 TV ストリーミング スティックの将来は不透明なようだ
-
-By Brian Burgess 公開 2026 年 8 月 20 日、午後 3 時 EDT ミネソタ州の田舎に拠点を置くブライアン バージェスは、消費者向けテクノロジーについて執筆することに情熱を注ぐまで、IT 業界で 10 年間働いていました。ブライアンは、2000 年にコンピュータおよびネットワーク テクノロジの学位を取得しました。彼は、ヘルプ デスク サポート、IBM のルーターの設置、データベース管理、その他のネットワーク管理関連の役割など、さまざまな IT 職を歴任しました。彼は 18 年間個人のテクノロジー ジャーナリストとして活動しており、Microsoft の製品とサービス、Android、iOS、ストリーミングなどに関する何千もの記事を執筆してきました。彼は、XDA、InformationWeek、How-To Geek、Byte、groovyPost などの著名な技術サイトに寄稿しています。彼がキーボードから離れているときは、ギターを弾いたり、屋外で仕事をしたり、スタートレックを見たりしているのが聞こえます。 XDA アカウントにサインインする Android/Google TV を搭載した真のストリーミング スティックはこれまで存在しませんでした。これまでにも手頃な価格の Onn Android TV スティックがいくつかありましたが、最初の Chromecast を除けば、Google は独自の Android TV ドングルを販売していません。 2024 年に、主力製品である Chromecast with Google TV (4K) を、実際にはセットトップ ボックスである Google TV Streamer に置き換えました。
-
-セマンティクスはさておき、こ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/03/google-tv-table.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Android 搭載 TV ストリーミング スティックの将来は不透明なようだ"></p>]]></description><source url="https://www.xda-developers.com/the-future-of-android-powered-tv-streaming-sticks-looks-uncertain/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/03/google-tv-table.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/03/google-tv-table.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>4 つのあまり知られていない Jellyfin プラグインなしではセルフホスト サーバーを実行できませんでした</title><link>https://www.xda-developers.com/lesser-known-jellyfin-plugins-couldnt-run-self-hosted-server-without/</link><guid isPermaLink="true">https://www.xda-developers.com/lesser-known-jellyfin-plugins-couldnt-run-self-hosted-server-without/</guid><pubDate>Thu, 20 Aug 2026 19:00:15 +0000</pubDate><description><![CDATA[<p>4 つのあまり知られていない Jellyfin プラグインなしではセルフホスト サーバーを実行できませんでした
-
-通常のプラグインを超えて見る
-
-4 つのあまり知られていない Jellyfin プラグインなしではセルフホスト サーバーを実行できませんでした
-
-By Anurag Singh 公開 2026 年 8 月 20 日、午後 3 時 EDT アヌラグは、過去 5 年間、Windows、Android、Apple を中心にテクノロジーをカバーしてきた経験豊富なジャーナリスト兼著者です。彼は Android Police、Neowin、Dexerto、MakeTechEasier などのサイトに執筆しています。アヌラグは常にテクノロジーに興味があり、最新のガジェットを手に入れるのが大好きです。先延ばしにしていないときは、おそらく彼が映画館で最新映画を鑑賞したり、ベッドから Twitter をスクロールしたりしているのを見かけるでしょう。 XDA アカウントにサインインする 私の Jellyfin ライブラリは、今や成熟したライブラリと呼べるものになりました。実際に何を見るべきかを探すのに時間を費やさなければならない段階に達しました。コレクションが小さいときは、すぐに使える Jellyfin アプリで十分ですが、コレクションが大きくなると、作業を楽にするプラグインを追加する必要があります。私自身、Jellyfin に追加したプラグインなしでは生きていけません。
-
-これらは、Intro Skipper、Open Subtitles、Trakt、Playback Reporting など、誰もが推奨する通常の名前を超えています。私もこれらを使用していますが、セルフホスト型サーバーの実行を容易にするあまり知られていないプラグインです。
-
-Jellyfin検索が便利になります
-
-見たいものの正確なタイトルがわかっている場合、Jellyfin の検索は問題ありません。ただし、単語のスペルを間違えたり、映画タイトルの一部しか覚えていない場合には、検索機能はあまり役に立ちません。 …</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/jellyfin-on-mac.jpg?w=1600&amp;h=900&amp;fit=crop" alt="4 つのあまり知られていない Jellyfin プラグインなしではセルフホスト サーバーを実行できませんでした"></p>]]></description><source url="https://www.xda-developers.com/lesser-known-jellyfin-plugins-couldnt-run-self-hosted-server-without/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/jellyfin-on-mac.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/jellyfin-on-mac.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>Google は、大規模なリリース日に向けて新しい Pixel 11 ビデオをいくつか用意しました</title><link>https://www.androidauthority.com/google-pixel-11-videos-3701248/</link><guid isPermaLink="true">https://www.androidauthority.com/google-pixel-11-videos-3701248/</guid><pubDate>Thu, 20 Aug 2026 18:56:39 +0000</pubDate><description><![CDATA[<p>Google は、大規模なリリース日に向けて新しい Pixel 11 ビデオをいくつか用意しました
-
-Google が Pixel 11 Pro の最大のセールスポイントだと考えている機能のいくつかを見てみましょう。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Google は、大規模なリリース日に向けて新しい Pixel 11 ビデオをいくつか用意しました
-
-0 • Joe Maring / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google は先週 Pixel 11 シリーズを発売し、8 月 12 日に予約注文を開始しました。
-
-今日は、Pixel 11 の小売販売が実際に開始される日です。
-
-Google は、新しいハードウェアを宣伝するために、3 つの新機能ハイライト動画シリーズを公開しています。
-
-いよいよ 8 月 20 日が近づいてきました。これは、Google の新しい Pixel 11 スマートフォンが正式に登場したことを意味します。予約注文も、早く出荷されることを期待することもなく、本格的な小売販売が開始されるだけです。そして、ハードウェアがこの新たな段階に入ったことで、Google はこの機会を利用して、YouTube で共有される一連の新しいビデオで自社の携帯電話で何ができるかを少し披露しようとしています。
-
-Google は Pixel 11 シリーズを宣伝することに躊躇せず、Made by Google 発売イベントまでの数週間でさえ、同社はすでに Pixel 11 の初期のビデオをいくつか公開して私たちをからかっていました。すべてが公式になった今、同社のプロモーション活動は少しギアを変え、Pixel 11 ハードウェアの初期の紹介から、いくつかのソフトウェア機能にスポットライトを当てることに移行しました。まず、Magic Capture があります。
-
-先週のGoo…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-canyon-6-scaled.jpg" alt="Google は、大規模なリリース日に向けて新しい Pixel 11 ビデオをいくつか用意しました"></p>]]></description><source url="https://www.androidauthority.com/google-pixel-11-videos-3701248/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-canyon-6-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-canyon-6-scaled.jpg"/></item>
-<item><title>Gemini for Home は、Spotify のコントロール、照明の調整、メッセージ ブロードキャストを強化します</title><link>https://www.androidauthority.com/gemini-for-home-spotify-lights-messages-update-3701255/</link><guid isPermaLink="true">https://www.androidauthority.com/gemini-for-home-spotify-lights-messages-update-3701255/</guid><pubDate>Thu, 20 Aug 2026 18:53:08 +0000</pubDate><description><![CDATA[<p>Gemini for Home は、Spotify のコントロール、照明の調整、メッセージ ブロードキャストを強化します
-
-Google は、Spotify のメディア選択、照明制御、メッセージを改善することを目的とした Gemini for Home の新しいアップデートを公開しました。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Gemini for Home は、Spotify のコントロール、照明の調整、メッセージ ブロードキャストを強化します
-
-0 • Brady Snyder / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Gemini for Home は、Spotify の曲、アーティスト、プレイリストの認識が向上しています。
-
-音声アシスタントは、スマート ライトの色温度の制御も向上しています。
-
-Gemini にメッセージをブロードキャストし、別のコマンドで応答メッセージをフォローアップするように依頼できるようになりました。
-
-最近、Google Home はスマート ライトに問題があるユーザー向けの修正を公開しました。このバグにより、ユーザーからの入力がなくてもライトがオンまたはオフになりました。バックミラーにこの問題があるため、Google は現在、ライトをより適切に制御できるように設計された Gemini for Home アップデートを公開しています。このアップデートにより、Spotify のメディア選択も改善され、メッセージのブロードキャストが容易になります。
-
-Google は、スマート ライトから始めて、Gemini for Home で音声で特定の色温度を設定できるようになると発表しました。たとえば、こう言うことができます。 「OK Google、リビングルームの照明を 2700 ケルビンにしてください。」 Google はこの機能により、あなたの声を使って家の雰…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/Google-Nest-Hub-vs-Home-Speaker-6-scaled.jpg" alt="Gemini for Home は、Spotify のコントロール、照明の調整、メッセージ ブロードキャストを強化します"></p>]]></description><source url="https://www.androidauthority.com/gemini-for-home-spotify-lights-messages-update-3701255/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/Google-Nest-Hub-vs-Home-Speaker-6-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/Google-Nest-Hub-vs-Home-Speaker-6-scaled.jpg"/></item>
-<item><title>Google Home がより広範囲のスマート ロックと連携できるようになりました</title><link>https://www.androidauthority.com/google-home-new-lock-types-3701253/</link><guid isPermaLink="true">https://www.androidauthority.com/google-home-new-lock-types-3701253/</guid><pubDate>Thu, 20 Aug 2026 18:41:15 +0000</pubDate><description><![CDATA[<p>Google Home がより広範囲のスマート ロックと連携できるようになりました
-
-Google Home プラットフォームは、ヨーロッパ式のほぞ穴式スマート ロックのサポートを強化しました。いくつかのバグも修正されました。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-スマート家電とデバイス Google Home がより幅広いスマート ロックと連携できるようになりました
-
-0 • Rita El Khoury / Android Authority Google Discover でフォローしてください 優先ソースとして追加してください TL;DR Google は、Google Home の最新アップデートについて詳しく説明しています。
-
-改善には、ほぞロックのサポートの改善と、ストリームが 360p で停止する原因となったカメラのバグの修正が含まれます。
-
-これらの改善点はすべて現在利用可能です。
-
-Google Home は、ニッチなスマートホームの問題点をいくつか解決しています。 Google が共有するスマート ホーム プラットフォームへの最新の追加に関するアップデート ノートと変更には、ビデオ ストリーミング解像度の問題の修正や、Google がヨーロピアン スタイルのスマート ロックと呼ぶもののサポートの改善が含まれています。
-
-Googleは本日、Google HomeとNestのヘルプフォーラムに最新の変更点のリリースノートを投稿した。今月の時点で、ホーム プラットフォームは、ほぞ穴ロックとも呼ばれるヨーロッパ スタイルのスマート ロックのサポートを強化しています。ライブカメラのフィードが 360p のロックされた解像度でストリーミングされる原因となっていたバグも解決されました。
-
-ほぞ穴ロックはロック ボルトとラッチの両方を備えており、一部のスマート モデルは両方の機構を独立して制御できます。現在、Google Home はその独立したコントロールを利用できるようにな…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2024/07/google-home-homescreen-widget-favorites-scaled.jpg" alt="Google Home がより広範囲のスマート ロックと連携できるようになりました"></p>]]></description><source url="https://www.androidauthority.com/google-home-new-lock-types-3701253/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2024/07/google-home-homescreen-widget-favorites-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2024/07/google-home-homescreen-widget-favorites-scaled.jpg"/></item>
-<item><title>Modder manages to run DOOM on a 16-year-old Canon EOS 550D DSLR Camera</title><link>https://www.tweaktown.com/rss/click/news/113178/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113178/?c=news-mf</guid><pubDate>Thu, 20 Aug 2026 18:40:13 +0000</pubDate><description><![CDATA[<p>Modder manages to run DOOM on a 16-year-old Canon EOS 550D DSLR Camera</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113178/?c=news-mf">TweakTown</source></item>
-<item><title>この ESP32 搭載ゲームボーイは、ゲームを携帯電話のブラウザに直接ストリーミングします</title><link>https://www.xda-developers.com/this-esp32-powered-game-boy-streams-games-directly-to-your-phones-browser/</link><guid isPermaLink="true">https://www.xda-developers.com/this-esp32-powered-game-boy-streams-games-directly-to-your-phones-browser/</guid><pubDate>Thu, 20 Aug 2026 18:33:58 +0000</pubDate><description><![CDATA[<p>この ESP32 搭載ゲームボーイは、ゲームを携帯電話のブラウザに直接ストリーミングします
-
-あなたもこの楽しいプロジェクトを構築できます。
-
-この ESP32 搭載ゲームボーイは、ゲームを携帯電話のブラウザに直接ストリーミングします
-
-By Patrick O&#39;Rourke 公開 2026 年 8 月 20 日、午後 2 時 33 分 EDT Patrick O&#39;Rourke は、XDA のニュース編集者およびエンターテイメント セグメントのリーダーです。以前は、Pocket-lint の編集長、カナダのテクノロジー出版物 MobileSyrup の編集長を務め、キャリアの初期には Financial Post および Postmedia でテクノロジー編集者として働いていました。彼はトロントに拠点を置いています。過去 15 年間にわたり、彼は何千もの記事を書いてきました。パトリック氏はまた、何十人ものテクノロジー業界の幹部にインタビューし、GDC、E3、Gamescom、WWDC、Apple の基調講演、Samsung Unpacked イベントなどを取材しました。パトリックはトロント・メトロポリタン大学でジャーナリズムの学士号を取得しています。 XDA アカウントにサインインする
-
-この小さなゲームボーイは、4 ドルの ESP32 と 3D プリントされたカスタム シェルで作られました。
-
-エミュレータはオンボードで実行され、Wi-Fi/WebSocket 経由で携帯電話にストリーミングされます。
-
-ROM は ESP32 のフラッシュに保存されます (電話からアップロードされます)。
-
-この小さなサイズの ESP32 搭載ゲームボーイは、携帯電話のブラウザにゲームを直接ストリーミングします。 ArtificialAGE によると、このプロジェクトの作成者は、4 ドルの ESP32 (具体的には ESP32-S3) とカスタム 3D プリントされたゲームボーイ シェルを使用して構築したとのことです。
-
-ヘッドレス エミュレータは ESP32 上で実行され、ローカル…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/esp32-game-boy-project.jpg?w=1600&amp;h=900&amp;fit=crop" alt="この ESP32 搭載ゲームボーイは、ゲームを携帯電話のブラウザに直接ストリーミングします"></p>]]></description><source url="https://www.xda-developers.com/this-esp32-powered-game-boy-streams-games-directly-to-your-phones-browser/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/esp32-game-boy-project.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/esp32-game-boy-project.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 </channel></rss>
