@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Tue, 25 Aug 2026 01:51:39 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Tue, 25 Aug 2026 03:12:04 +0000</lastBuildDate>
+<item><title>3D プリントされた皮膚がロボットに触覚を与える</title><link>https://hackaday.com/2026/08/24/3d-printed-skin-gives-robots-the-sensation-of-touch/</link><guid isPermaLink="true">https://hackaday.com/2026/08/24/3d-printed-skin-gives-robots-the-sensation-of-touch/</guid><pubDate>Tue, 25 Aug 2026 02:00:27 +0000</pubDate><description><![CDATA[<p>3D プリントされた皮膚がロボットに触覚を与える
+
+一般的にはしびれと呼ばれる感覚鈍麻は、私たち人間が影響を受ける可能性のある最も悲惨な病気の 1 つです。その主な理由は、私たちが自分の感覚にどれだけ依存しているかを思い出させるからです…
+
+一般的にはしびれと呼ばれる感覚鈍麻は、私たち人間が影響を受ける可能性のある最も悲惨な病気の 1 つです。その主な理由は、私たちが日常生活でどれだけ触覚に依存しているかを思い知らされるからです。私たちの周りの世界を経験したり、物を扱ったり、サイドテーブルに再びぶつかったことに気づいたり、仲間の人間の心地よいハグに気づいたりすることなど、触覚はおそらく私たちの感覚の中で最も重要です。
+
+この点に関して、[Haofeng Chen] らによって最近発表された研究は次のとおりです。ロボットに接触を体験できるスキンを与えることは、特にヒューマノイドロボットに、接触からのフィードバックを利用して環境と対話するより自然な方法を与えることになるため、むしろ重要であると思われる。
+
+生物学的な皮膚の重要な部分の 1 つは、必要に応じて優れた解像度を提供する密度レベルでセンサーが満載されていることです。指先で表面の小さな欠陥を確認します。これをロボット工学用の人工皮膚で再現することは、配線や信頼性の悪夢が一般的なアプローチで生じるため、常に問題となってきました。 [Chen] らは、多くの個々のセンサーに焦点を当てるのではなく、スキン形式で抵抗膜タッチスクリーンと同等のものを効果的に作成することに焦点を当てました。
+
+実証された人工皮膚の基礎となる基本原理は、表面電極を使用して電気抵抗率の測定に基づいて断層画像を形成する電気インピーダンス断層撮影 (EIT) です。ここでのコアは、電極を備えた柔軟な TPU 層と、上部の TPU カバー層に取り付けられた導電性布地パッチです。電極は抵抗率を継続的に測定し、カバー層上の接触イベントによるパッチからの妨害によりこれらの値が変化します。この EIT を使用して、タッチ イベントの位置と強度を再構築できます。
+…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/08/humanoid_touch_skin_haofeng_chen_et_al_arXiv_2026.jpg" alt="3D プリントされた皮膚がロボットに触覚を与える"></p>]]></description><source url="https://hackaday.com/2026/08/24/3d-printed-skin-gives-robots-the-sensation-of-touch/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/08/humanoid_touch_skin_haofeng_chen_et_al_arXiv_2026.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/08/humanoid_touch_skin_haofeng_chen_et_al_arXiv_2026.jpg"/></item>
 <item><title>Hot Chips 2026 での Intel Crescent Island 160GB ～ 480GB LPDDR5X AI GPU</title><link>https://www.servethehome.com/intel-crescent-island-160gb-to-480gb-lpddr5x-ai-gpu-at-hot-chips-2026/</link><guid isPermaLink="true">https://www.servethehome.com/intel-crescent-island-160gb-to-480gb-lpddr5x-ai-gpu-at-hot-chips-2026/</guid><pubDate>Tue, 25 Aug 2026 01:30:14 +0000</pubDate><description><![CDATA[<p>Hot Chips 2026 での Intel Crescent Island 160GB ～ 480GB LPDDR5X AI GPU
 
 Hot Chips 2026 で、メモリ容量に重点を置いた新しい 160 GB ～ 480 GB LPDDR5X Intel Crescent Island GPU について詳しく学びました。
@@ -3883,27 +3895,6 @@ Raspberry Pi を捨てて、安価なライバルの SBC を使って DIY NAS �
 By Ayush Pande 公開 2026 年 8 月 22 日、午後 3 時 30 分 EDT Ayush Pande は、PC ハードウェアおよびゲームのライターです。彼が新しい記事に取り組んでいないときは、頭を PC の中に閉じ込めたり、サーバーのオペレーティング システムをいじったりしているのを見かけることがあります。コンピューティングのほかに、彼の興味には、長い RPG に何時間も費やすこと、協力ゲームで友達に怒鳴りつけること、ギターを練習することなどがあります。 XDA アカウントにサインインする Network-Attached Storage サーバーの構築は、Raspberry Pi をいじくり回す人にとって人気のある中級レベルのプロジェクトですが、それには十分な理由があります。電力をほとんど消費せず、どこにでも持ち運べるほど小型なバックアップリグは、紙の上では非常に優れているように思えます。とはいえ、Raspberry Pi の ARM CPU、大幅に高騰した価格、低パフォーマンス、I/O 制限を考慮すると、その有用性は縮小し始めます。
 
 しかし、x86 シングルボード コンピューターが世に出てきたので、小さなデバイスから信頼性の高い NAS サーバーを構築してみようと考えました。 RAM 不足が深刻化しているため、ZimaBlade に出会うまでは、ボードだけで 300 ドル以上しないものを見つけるのは不可能に思えました。スペック的には特別なことは何もありませんが、実際のパフォーマンスの点では Raspberry Pi 5 がなんとか上回る程度です。しかし、約 2 週間試してみた結果、この安価な (それでも時代遅れの) SBC は…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/zimablade-8.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Raspberry Pi を捨てて、安価なライバルの SBC を使って DIY NAS を構築しました"></p>]]></description><source url="https://www.xda-developers.com/i-ditched-my-raspberry-pi-and-built-a-diy-nas-with-an-affordable-sbc/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/zimablade-8.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/zimablade-8.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>窓と鏡を拭き、磨きます - Hutt 10 をテストしました</title><link>https://www.notebookcheck.net/Windows-Mirrors-Doors-Testing-the-Hutt-10-Window-Cleaning-Robot.1375815.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/Windows-Mirrors-Doors-Testing-the-Hutt-10-Window-Cleaning-Robot.1375815.0.html</guid><pubDate>Sat, 22 Aug 2026 19:30:00 +0000</pubDate><description><![CDATA[<p>窓と鏡を拭き、磨きます - Hutt 10 をテストしました
-
-プラグを差し込んでボタンを押すと、ウィンドウがきれいになります。 Hutt 10 は自動的に窓を拭き、乾燥させます。吸着力によりガラスに張り付いたままになります。試してみました。
-
-テストの結論 — 使いやすく多用途なアプリケーション
-
-Hutt 10 は、その使いやすさと、路面上での信頼性の高いナビゲーションが印象的です。また、エッジ検出と多用途性も印象的です。このロボットは窓だけでなく、シャワー室や鏡も掃除します。 Hutt 10 が時々残留物を残す場合でも、洗浄結果は良好です。
-
-Hutt 10 のメーカー希望小売価格は 300 ユーロです。このデバイスは、同社のオンライン ストアのほか、Amazon などの大手小売店を通じて販売されています。テスト時には、無料の洗浄液と追加のワイプを提供するプロモーションが行われています。テスト時点では、Hutt 10 が利用可能です。
-
-ロボットは 1 つの色と 1 つの構成のみで提供されます。
-
-Bestpreis 298.98 € Joybuy Hutt 10 Fensterreinigungsroboter 2. 299 € Netto Marken-Discount 3. 299 € reichelt.de 4. 299 € die_technik 目次
-
-付属品 - Hutt 10 には交換用ワイプが付属しています
-
-操作 - Hutt 10 に必要なのはボタン 1 つだけです
-
-ハット氏は、ハット 10 ロボットが窓掃除を担当すると約束しています。メーカーは、窓から汚れを取り除くのに特に効果的であると言われている、円形と角形のデザイン要素の組み合わせを強調しています。 Hutt 10 はアプリ制御を必要とせず、代わりに単一の中央ボタンに依存します。
-
-リモコンで微調整が可能です。ハット氏は、窓やタイルや鏡などの垂直面を自律的に掃除できると約束している。窓掃除ロボットは、吸引によって表面に付着し、自律的に移動し、回転する湿ったパッドで表面を拭き、乾燥させ…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/Huawei/Watch_GT_7_Pro/Hutt_10_Intro_Angepasst3.jpg" alt="窓と鏡を拭き、磨きます - Hutt 10 をテストしました"></p>]]></description><source url="https://www.notebookcheck.net/Windows-Mirrors-Doors-Testing-the-Hutt-10-Window-Cleaning-Robot.1375815.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/Huawei/Watch_GT_7_Pro/Hutt_10_Intro_Angepasst3.jpg" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/Huawei/Watch_GT_7_Pro/Hutt_10_Intro_Angepasst3.jpg"/></item>
 <item><title>窓と鏡を拭いて磨きます - Hutt 10 をテストしました</title><link>https://www.notebookcheck.net/Windows-mirrors-doors-Testing-the-Hutt-10-window-cleaning-robot.1375815.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/Windows-mirrors-doors-Testing-the-Hutt-10-window-cleaning-robot.1375815.0.html</guid><pubDate>Sat, 22 Aug 2026 19:30:00 +0000</pubDate><description><![CDATA[<p>窓と鏡を拭いて磨きます - Hutt 10 をテストしました
 
 プラグを差し込んでボタンを押すと、ウィンドウがきれいになります。 Hutt 10 は自動的に窓を拭き、乾燥させます。吸着力によりガラスに張り付いたままになります。試してみました。
@@ -3925,6 +3916,27 @@ Bestpreis 298.98 € Joybuy Hutt 10 Fensterreinigungsroboter 2. 299 € Netto Ma
 ハット氏は、ハット 10 ロボットが窓掃除を担当すると約束しています。メーカーは、窓から汚れを取り除くのに特に効果的であると言われている、円形と角形のデザイン要素の組み合わせを強調しています。 Hutt 10 はアプリ制御を必要とせず、代わりに単一の中央ボタンに依存します。
 
 リモコンで微調整が可能です。ハット氏は、窓やタイルや鏡などの垂直面を自律的に掃除できると約束している。窓掃除ロボットは、吸引によって表面に付着し、自律的に移動し、回転する湿ったパッドで表面を拭き、乾燥させ…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/Huawei/Watch_GT_7_Pro/Hutt_10_Intro_Angepasst3.jpg" alt="窓と鏡を拭いて磨きます - Hutt 10 をテストしました"></p>]]></description><source url="https://www.notebookcheck.net/Windows-mirrors-doors-Testing-the-Hutt-10-window-cleaning-robot.1375815.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/Huawei/Watch_GT_7_Pro/Hutt_10_Intro_Angepasst3.jpg" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/Huawei/Watch_GT_7_Pro/Hutt_10_Intro_Angepasst3.jpg"/></item>
+<item><title>窓と鏡を拭き、磨きます - Hutt 10 をテストしました</title><link>https://www.notebookcheck.net/Windows-Mirrors-Doors-Testing-the-Hutt-10-Window-Cleaning-Robot.1375815.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/Windows-Mirrors-Doors-Testing-the-Hutt-10-Window-Cleaning-Robot.1375815.0.html</guid><pubDate>Sat, 22 Aug 2026 19:30:00 +0000</pubDate><description><![CDATA[<p>窓と鏡を拭き、磨きます - Hutt 10 をテストしました
+
+プラグを差し込んでボタンを押すと、ウィンドウがきれいになります。 Hutt 10 は自動的に窓を拭き、乾燥させます。吸着力によりガラスに張り付いたままになります。試してみました。
+
+テストの結論 — 使いやすく多用途なアプリケーション
+
+Hutt 10 は、その使いやすさと、路面上での信頼性の高いナビゲーションが印象的です。また、エッジ検出と多用途性も印象的です。このロボットは窓だけでなく、シャワー室や鏡も掃除します。 Hutt 10 が時々残留物を残す場合でも、洗浄結果は良好です。
+
+Hutt 10 のメーカー希望小売価格は 300 ユーロです。このデバイスは、同社のオンライン ストアのほか、Amazon などの大手小売店を通じて販売されています。テスト時には、無料の洗浄液と追加のワイプを提供するプロモーションが行われています。テスト時点では、Hutt 10 が利用可能です。
+
+ロボットは 1 つの色と 1 つの構成のみで提供されます。
+
+Bestpreis 298.98 € Joybuy Hutt 10 Fensterreinigungsroboter 2. 299 € Netto Marken-Discount 3. 299 € reichelt.de 4. 299 € die_technik 目次
+
+付属品 - Hutt 10 には交換用ワイプが付属しています
+
+操作 - Hutt 10 に必要なのはボタン 1 つだけです
+
+ハット氏は、ハット 10 ロボットが窓掃除を担当すると約束しています。メーカーは、窓から汚れを取り除くのに特に効果的であると言われている、円形と角形のデザイン要素の組み合わせを強調しています。 Hutt 10 はアプリ制御を必要とせず、代わりに単一の中央ボタンに依存します。
+
+リモコンで微調整が可能です。ハット氏は、窓やタイルや鏡などの垂直面を自律的に掃除できると約束している。窓掃除ロボットは、吸引によって表面に付着し、自律的に移動し、回転する湿ったパッドで表面を拭き、乾燥させ…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/Huawei/Watch_GT_7_Pro/Hutt_10_Intro_Angepasst3.jpg" alt="窓と鏡を拭き、磨きます - Hutt 10 をテストしました"></p>]]></description><source url="https://www.notebookcheck.net/Windows-Mirrors-Doors-Testing-the-Hutt-10-Window-Cleaning-Robot.1375815.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/Huawei/Watch_GT_7_Pro/Hutt_10_Intro_Angepasst3.jpg" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/Huawei/Watch_GT_7_Pro/Hutt_10_Intro_Angepasst3.jpg"/></item>
 <item><title>Redditor receives not one but TWO empty boxes of Ryzen 5 9600X from Amazon</title><link>https://www.tweaktown.com/rss/click/news/113199/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113199/?c=news-mf</guid><pubDate>Sat, 22 Aug 2026 19:15:09 +0000</pubDate><description><![CDATA[<p>Redditor receives not one but TWO empty boxes of Ryzen 5 9600X from Amazon</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113199/?c=news-mf">TweakTown</source></item>
 <item><title>自己ホスト型ライブラリの将来について議論されている間、私はいずれにせよ所有しているため、Jellyfin に移動しました。</title><link>https://www.xda-developers.com/i-moved-my-library-to-jellyfin-while-its-future-gets-argued-over-because-i-own-it-either-way/</link><guid isPermaLink="true">https://www.xda-developers.com/i-moved-my-library-to-jellyfin-while-its-future-gets-argued-over-because-i-own-it-either-way/</guid><pubDate>Sat, 22 Aug 2026 19:00:16 +0000</pubDate><description><![CDATA[<p>自己ホスト型ライブラリの将来について議論されている間、私はいずれにせよ所有しているため、Jellyfin に移動しました。
 
@@ -4356,15 +4368,6 @@ By Jasmine Mannan 公開 2026 年 8 月 22 日、午前 8 時 30 分 EDT Jasmine
 CPUの空は青い（今のところ）
 
 マーキュリー・リサーチの主席アナリスト、ディーン・マッカロン氏は、「第2四半期のサプライヤーのクライアント・プロセッサーに関する見通しは明らかに暗いにもかかわらず、x86とArm CPUの…</p><p><img src="https://cdn.mos.cms.futurecdn.net/87ArGeWHVuydiywKW9Njah-914-80.jpg" alt="デスクトップCPUの出荷は部品コストの高さで20%急落、しかし「醜い」デスクトッププロセッサ市場にもかかわらず、AMDが記録的なシェアを獲得 — インテルはラップトップ市場に何百万ものCPUを溢れさせたが、AMDは依然として史上最高のシェア記録を樹立"></p>]]></description><source url="https://www.tomshardware.com/pc-components/cpus/desktop-cpu-shipments-crater-20-percent-amid-high-component-costs-but-amd-gains-record-share-despite-ugly-desktop-processor-market-intel-floods-laptop-market-with-millions-of-cpus-but-amd-still-sets-all-time-share-records">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/87ArGeWHVuydiywKW9Njah-914-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/87ArGeWHVuydiywKW9Njah-914-80.jpg"/></item>
-<item><title>中国のいわゆる「IPv9」には長く複雑な歴史がある</title><link>https://www.xda-developers.com/china-so-called-ipv9-long-complicated/</link><guid isPermaLink="true">https://www.xda-developers.com/china-so-called-ipv9-long-complicated/</guid><pubDate>Sat, 22 Aug 2026 12:00:16 +0000</pubDate><description><![CDATA[<p>中国のいわゆる「IPv9」には長く複雑な歴史がある
-
-かつて中国の研究者らが「IPv9」を構築した。それは決して国際的に認められることはありませんでしたが、重要な問題を提起しました。
-
-中国のいわゆる「IPv9」には長く複雑な歴史がある
-
-By Adam Conway 更新日 2026 年 8 月 22 日、午前 8:00 EDT 私は Adam Conway です。コンピューター サイエンスの学士号を取得したアイルランドのテクノロジー愛好家で、XDA の主任テクニカル エディターを務めています。私の学士論文は、Android アプリやスマートフォンのパフォーマンスなどの非機能要素のベンチマークの実行可能性について行われました。私は 2017 年から何らかの形でテクノロジー業界で働いています。暇なときは、Counter-Strike や VALORANT をプレイしているのをおそらく見かけます。連絡先は adam@xda-developers.com 、Twitter では @AdamConwayIE 、Instagram では次のとおりです。 AdamConwayIE 、または Reddit の u/AdamConwayIE。 XDA アカウントにサインインする 2000 年代初頭、IPv4 アドレスが枯渇しつつあるという警鐘はすでに約 10 年前から鳴り響いていました。想像を絶するほど大きいと考えられていた 43 億の可能なアドレスが、突然非常に有限に見えました。IPv6 の標準化は、1990 年代半ばから 1998 年の公開までに行われたプロセスでした。しかし、わずか数年後の 2000 年代半ばには、中国が IPv9 に取り組んでいるという噂が広まりました。しかし問題は、どの国際機関もそれを認めておらず、他の広範なインターネットとは大きく異なっているように見えたことでした。
-
-しかし、問題を引き起こしたのは認識の欠如だけではありませんでした。 1994 年のエイプリル フールに、「IP バージョン 9 の使用法に関する歴史的展望」というタイトルの、1606 番の …</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/11/close-in-network-switch.jpg?w=1600&amp;h=900&amp;fit=crop" alt="中国のいわゆる「IPv9」には長く複雑な歴史がある"></p>]]></description><source url="https://www.xda-developers.com/china-so-called-ipv9-long-complicated/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/11/close-in-network-switch.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/11/close-in-network-switch.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>SSD キャッシュはストレージ アレイの最大の問題を解決しません、そしてそれが実際に重要なのです</title><link>https://www.xda-developers.com/ssd-cache-wont-fix-storage-array-biggest-problem/</link><guid isPermaLink="true">https://www.xda-developers.com/ssd-cache-wont-fix-storage-array-biggest-problem/</guid><pubDate>Sat, 22 Aug 2026 12:00:16 +0000</pubDate><description><![CDATA[<p>SSD キャッシュはストレージ アレイの最大の問題を解決しません、そしてそれが実際に重要なのです
 
 SSD キャッシュはハードドライブ アレイを変換しませんが、速度が遅いと感じる小規模な反復的なストレージ タスクの煩わしさを大幅に軽減します。
@@ -4378,6 +4381,15 @@ SSD キャッシュはストレージ アレイの最大の問題を解決しま
 小さな繰り返しの読み取りが、ついにそれほど遅く感じなくなりました
 
 最初に変化…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/ssd-cache-won-t-fix-your-storage-array-s-biggest-problem-and-that-s-actually-the-point-featured.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="SSD キャッシュはストレージ アレイの最大の問題を解決しません、そしてそれが実際に重要なのです"></p>]]></description><source url="https://www.xda-developers.com/ssd-cache-wont-fix-storage-array-biggest-problem/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/ssd-cache-won-t-fix-your-storage-array-s-biggest-problem-and-that-s-actually-the-point-featured.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/ssd-cache-won-t-fix-your-storage-array-s-biggest-problem-and-that-s-actually-the-point-featured.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>中国のいわゆる「IPv9」には長く複雑な歴史がある</title><link>https://www.xda-developers.com/china-so-called-ipv9-long-complicated/</link><guid isPermaLink="true">https://www.xda-developers.com/china-so-called-ipv9-long-complicated/</guid><pubDate>Sat, 22 Aug 2026 12:00:16 +0000</pubDate><description><![CDATA[<p>中国のいわゆる「IPv9」には長く複雑な歴史がある
+
+かつて中国の研究者らが「IPv9」を構築した。それは決して国際的に認められることはありませんでしたが、重要な問題を提起しました。
+
+中国のいわゆる「IPv9」には長く複雑な歴史がある
+
+By Adam Conway 更新日 2026 年 8 月 22 日、午前 8:00 EDT 私は Adam Conway です。コンピューター サイエンスの学士号を取得したアイルランドのテクノロジー愛好家で、XDA の主任テクニカル エディターを務めています。私の学士論文は、Android アプリやスマートフォンのパフォーマンスなどの非機能要素のベンチマークの実行可能性について行われました。私は 2017 年から何らかの形でテクノロジー業界で働いています。暇なときは、Counter-Strike や VALORANT をプレイしているのをおそらく見かけます。連絡先は adam@xda-developers.com 、Twitter では @AdamConwayIE 、Instagram では次のとおりです。 AdamConwayIE 、または Reddit の u/AdamConwayIE。 XDA アカウントにサインインする 2000 年代初頭、IPv4 アドレスが枯渇しつつあるという警鐘はすでに約 10 年前から鳴り響いていました。想像を絶するほど大きいと考えられていた 43 億の可能なアドレスが、突然非常に有限に見えました。IPv6 の標準化は、1990 年代半ばから 1998 年の公開までに行われたプロセスでした。しかし、わずか数年後の 2000 年代半ばには、中国が IPv9 に取り組んでいるという噂が広まりました。しかし問題は、どの国際機関もそれを認めておらず、他の広範なインターネットとは大きく異なっているように見えたことでした。
+
+しかし、問題を引き起こしたのは認識の欠如だけではありませんでした。 1994 年のエイプリル フールに、「IP バージョン 9 の使用法に関する歴史的展望」というタイトルの、1606 番の …</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/11/close-in-network-switch.jpg?w=1600&amp;h=900&amp;fit=crop" alt="中国のいわゆる「IPv9」には長く複雑な歴史がある"></p>]]></description><source url="https://www.xda-developers.com/china-so-called-ipv9-long-complicated/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/11/close-in-network-switch.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/11/close-in-network-switch.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>GoogleはPixelスマートフォンに広告を表示し始めています - 広告を非表示にする方法は次のとおりです</title><link>https://www.androidauthority.com/ads-on-pixel-phones-how-turn-off-3699375/</link><guid isPermaLink="true">https://www.androidauthority.com/ads-on-pixel-phones-how-turn-off-3699375/</guid><pubDate>Sat, 22 Aug 2026 12:00:15 +0000</pubDate><description><![CDATA[<p>GoogleはPixelスマートフォンに広告を表示し始めています - 広告を非表示にする方法は次のとおりです
 
 Pixel スマートフォンには広告やブロートウェアが常にありませんでしたが、My Pixel アプリのおかげで状況は変わりました。それを修正する方法は次のとおりです。
@@ -6899,13 +6911,4 @@ ASUSは、32GBまたは64GBのRAMとIntel Core Ultra 7プロセッサを搭載�
 GbookHub が発見した、現在は削除されている ASUS CX9406 Googlebook の小売リストによると、同社はさまざまな価格帯をカバーするために段階的な Googlebook ラインナップを検討している可能性があります。このリストには、モデル番号 CX9406CAA-DSU51T-CB の Googlebook のより控えめな構成が記載されていると伝えられています。
 
 そのリストによると、ASUS は Int…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/05/googlebook-render-google-colors-hero-scaled.jpg" alt="新しいASUS Googlebookのリークでは、さらに多くの構成と価格の詳細が示されています"></p>]]></description><source url="https://www.androidauthority.com/asus-cx9406-googlebook-leak-16gb-ram-3701366/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/05/googlebook-render-google-colors-hero-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/05/googlebook-render-google-colors-hero-scaled.jpg"/></item>
-<item><title>NXP MCX C15 および C16 の低コスト Cortex-M23 MCU は、IoT、アナログ、モーター制御アプリケーションをターゲットとしています</title><link>https://www.cnx-software.com/2026/08/21/nxp-mcx-c15-and-c16-low-cost-cortex-m23-mcus-target-iot-analog-and-motor-control-applications/</link><guid isPermaLink="true">https://www.cnx-software.com/2026/08/21/nxp-mcx-c15-and-c16-low-cost-cortex-m23-mcus-target-iot-analog-and-motor-control-applications/</guid><pubDate>Fri, 21 Aug 2026 07:44:26 +0000</pubDate><description><![CDATA[<p>NXP MCX C15 および C16 の低コスト Cortex-M23 MCU は、IoT、アナログ、モーター制御アプリケーションをターゲットとしています
-
-NXP MCX C15 および MCX C16 (C1 ファミリ) の低コスト Cortex-M23 MCU は、産業用 IoT、アナログ、モーター制御アプリケーション向けに設計されています。
-
-最近、NXP が MCX A シリーズを MCX A5 Cortex-M33 ファミリで拡張し、10BASE-T1S シングル ペア イーサネット、トポロジ ディスカバリ、産業用接続用の PQC を統合したことに注目しました。ただし、これが同社の唯一の最近の発表ではなく、NXP は産業用 IoT およびアナログ アプリケーション向けに設計された MCX C15 および MCX C16 (C1 ファミリ) Cortex-M23 MCU を備えた低コストの MCX C シリーズも拡張しました。新しい C1 ファミリは、新しい MCX A シリーズとの完全なピン互換性を備えた、LPC800、LPC1100、および Kinetis MCU からの簡単な移行パスを提供します。
-
-これらの低コストのエントリーレベルのデバイスは、16 ビット SAR ADC、DAC 付き高速コンパレータ、内部オペアンプ、およびモーターと電力制御用の FlexPWM を備えています。また、最大 64 KB のフラッシュ、12 KB の SRAM、LPI²C、LPSPI、最大 4 つの UART、最大 45 の GPIO、複数のタイマー、低電力タイマー、RTC、およびウォッチドッグも含まれており、動作範囲は 1.71 ～ 3.6 V、-40 °C ～ 125 °C です。 MCX C15 および C14 MCU は、産業用 IoT デバイス、センシングおよび計装、モーター ドライブ、電源管理、HVAC システム、スマート アプライアンス、照明、およびその他のコスト重視の組み込みアプリケーションに適しています。
-
-NXP MCX C15 および MCX C…</p><p><img src="https://www.cnx-software.com/wp-content/uploads/2026/08/MCX-C15-and-MCX-C16-Arm-Cortex-M23-analog-IoT-MCUs.jpg" alt="NXP MCX C15 および C16 の低コスト Cortex-M23 MCU は、IoT、アナログ、モーター制御アプリケーションをターゲットとしています"></p>]]></description><source url="https://www.cnx-software.com/2026/08/21/nxp-mcx-c15-and-c16-low-cost-cortex-m23-mcus-target-iot-analog-and-motor-control-applications/">CNX Software</source><media:content url="https://www.cnx-software.com/wp-content/uploads/2026/08/MCX-C15-and-MCX-C16-Arm-Cortex-M23-analog-IoT-MCUs.jpg" medium="image"/><media:thumbnail url="https://www.cnx-software.com/wp-content/uploads/2026/08/MCX-C15-and-MCX-C16-Arm-Cortex-M23-analog-IoT-MCUs.jpg"/></item>
 </channel></rss>
