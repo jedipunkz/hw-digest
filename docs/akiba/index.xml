@@ -1,6 +1,297 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Tue, 01 Sep 2026 18:29:54 +0000</lastBuildDate>
+<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Tue, 01 Sep 2026 21:46:06 +0000</lastBuildDate>
+<item><title>NVIDIA、DLSS 5を2026年9月4日に提供開始。3D-Guided Neural Renderingによりリアルさが向上。パフォーマンスは</title><link>https://www.nichepcgamer.com/archives/post-131960.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/post-131960.html</guid><pubDate>Tue, 01 Sep 2026 19:57:59 +0000</pubDate><description><![CDATA[<p>NVIDIA、DLSS 5を2026年9月4日に提供開始。3D-Guided Neural Renderingによりリアルさが向上。パフォーマンスは
+
+NVIDIAは日本時間で2026年9月4日に、AIを活用してゲーム映像のリアリティを大幅に高めるDLSS 5の提供を開始します。 DLSS 5に含まれる新技術の3D-Guided Neural Re...
+
+NVIDIAは日本時間で2026年9月4日に、 AIを活用してゲーム映像のリアリティを大幅に高めるDLSS 5の提供を開始します。
+
+DLSS 5に含まれる新技術の3D-Guided Neural Renderingは、従来のリアルタイムレンダリングでは難しかった光や素材の細かな表現をAIで補完し、 ゲーム映像をこれまで以上に「ハリウッド級のフォトリアリズム」(Hollywood-grade photorealism)に近づけられるとしています。
+
+DLSS 5 3D-Guided Neural Renderingは、元のフレームをベースに、オブジェクト、マテリアル、ライティングなどを分析し、よりリアルなものへと出力。アーティスト側で使用するモデルを選択したり、値を調整できるため、アーティスト側の意図したように出力できるとされています。
+
+また、フレームの安定性にも重点が置かれており、映像のちらつきや揺らぎ、ズレを排除しているとのこと。
+
+気になるパフォーマンスの方ですが、NVIDIAによると、NBA 2K27でDLSS 5 3D-Guided Neural Renderingを有効にした場合、以下のような平均フレームレートでゲームをプレイできるとされています。
+
+GeForce RTX 5060でも平均258 fpsものフレームレートが出るとされています。ただし、このフレームレートはマルチフレーム生成の6倍を有効にしたものです。マルチフレーム生成を有効にしていなければもっと低いことには注意が必要です。
+
+DLSS 5対応ゲームの第1弾として、NBA 2K27が2026年9月4日に発売。DLSS 5対応GeForce…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2026/03/dlss5-top.jpg" alt="NVIDIA、DLSS 5を2026年9月4日に提供開始。3D-Guided Neural Renderingによりリアルさが向上。パフォーマンスは"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-131960.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2026/03/dlss5-top.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2026/03/dlss5-top.jpg"/></item>
+<item><title>Claude Fable 5.1が登場。しかも安くなった</title><link>https://gori.me/it/169523</link><guid isPermaLink="true">https://gori.me/it/169523</guid><pubDate>Tue, 01 Sep 2026 19:27:56 +0000</pubDate><description><![CDATA[<p>Claude Fable 5.1が登場。しかも安くなった
+
+Anthropicが新モデル「Claude Fable 5.1」と「Claude Mythos 5.1」を発表した。科学研究ベンチマークのスコアはFable 5の2倍以上に向上し、キャッシュリードは75%値下げ。一般的な用途で約25%、エージェント用途では最大45%コストが下がる。
+
+キャッシュリードが75%値下げ、実質25〜45%のコストダウンになる
+
+Claude Fable 5.1が全プラットフォームで提供開始、Mythos 5.1は審査制の限定提供
+
+Terminal-Bench-Science 0.1で52.6%とFable 5の24.7%から2倍以上に
+
+キャッシュリードが75%値下げされ、実質25〜45%のコスト削減に
+
+Anthropicが2026年9月1日（米国時間）、新モデル「 Claude Fable 5.1 」と「 Claude Mythos 5.1 」を発表した。 Fable 5.1は本日から全プラットフォームで利用可能 、Mythos 5.1は審査を通過した組織向けの「trusted access」プログラム経由での提供となる。
+
+We’re introducing Claude Fable 5.1 and Claude Mythos 5.1.
+
+They&#39;re the world’s most advanced models for coding and knowledge work. pic.twitter.com/8P9PSrWPi3
+
+— Claude (@claudeai) September 1, 2026
+
+2つは中身が同じモデルで、 違いはセーフガードの厳しさだけ 。Mythos 5.1はサイバーセキュリティとライフサイエンスの専門家向けに制限が緩められている。 Anthropicの公表値 では、エージェント型の科学研究 ベンチマーク Terminal-Bench-Science 0.1で52.6%と、Fable 5の24.7%から2倍以上。コーディングのTermin…</p><p><img src="https://gori.me/uploads/2026/09/Fable5_1-has-been-released-800x535.jpg" alt="Claude Fable 5.1が登場。しかも安くなった"></p>]]></description><source url="https://gori.me/it/169523">gori.me</source><media:content url="https://gori.me/uploads/2026/09/Fable5_1-has-been-released-800x535.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/09/Fable5_1-has-been-released-800x535.jpg"/></item>
+<item><title>Radeon RX 9000シリーズ、2026年9月はさらなる値上げはない見通し</title><link>https://www.nichepcgamer.com/archives/post-131955.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/post-131955.html</guid><pubDate>Tue, 01 Sep 2026 15:19:52 +0000</pubDate><description><![CDATA[<p>Radeon RX 9000シリーズ、2026年9月はさらなる値上げはない見通し
+
+少なくとも2026年9月は、Radeon RX 9000シリーズの値上がりはなさそうです。 AMDがGPU + VRAMセット価格を値上げしたため、グラボメーカー各社は2026年8月に10～20％ほ...
+
+少なくとも2026年9月は、 Radeon RX 9000シリーズの値上がりはなさそうです。
+
+AMDが GPU + VRAMセット価格を値上げ したため、グラボメーカー各社は2026年8月に10～20％ほどRadeon RX 9000シリーズの卸価格を値上げし、その値上げ分は最終的に小売価格へと転嫁されました。
+
+中国サプライチェーンの情報筋があるグラボメーカーから得た情報によると、2026年8月は値上げ幅が大きかったこともあり、 2026年9月はさらなる値上げは行われない見通しで、価格を据え置く方針とのこと。
+
+2026年9月は、今のところこれ以上高くなることも、安くなることも見込まれていません。なお、これは2026年9月の話のため10月以降どうなるかはまだ未知数です。
+
+また、特定のグラボメーカーから得た話のため、ほかのグラボメーカーも同じような方針かどうかは定かではありません。(ほかも似たような状況である可能性が高いと思われますが) 参考程度に見ておいてください。
+
+筆者は自作PC歴20年以上の経験を持ち、Windows OSの細部にわたるカスタマイズや高度な設定、PCゲームの最適化、PCハードウェアとソフトウェアに関する専門知識をもとに、PC環境を快適にするための情報、不具合に遭わないようにするための情報、そして、ちょっとニッチよりなPCユーザー向け記事の執筆を2015年4月から11年にわたって行っています。
+
+長年の経験により得たノウハウを活かし、初心者から上級者まで幅広く対応できる情報を提供し、読者様のPCライフをより快適で充実したものにすることを目指しています。</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2025/12/amd-radeon-top-bbb2.jpg" alt="Radeon RX 9000シリーズ、2026年9月はさらなる値上げはない見通し"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-131955.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2025/12/amd-radeon-top-bbb2.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2025/12/amd-radeon-top-bbb2.jpg"/></item>
+<item><title>背面サブウーファー搭載の怪物スマホ、Xiaomi「POCO F9 Ultra」発売</title><link>https://www.gdm.or.jp/pressrelease/2026/0902/650503</link><guid isPermaLink="true">https://www.gdm.or.jp/pressrelease/2026/0902/650503</guid><pubDate>Tue, 01 Sep 2026 15:00:35 +0000</pubDate><description><![CDATA[<p>背面サブウーファー搭載の怪物スマホ、Xiaomi「POCO F9 Ultra」発売
+
+Snapdragon 8 Elite Gen 5を搭載する最上位スマートフォン「POCO F9 Ultra」が発売。背面サブウーファーによる2.1chサウンドや、2億画素カメラ、8,050mAhバッテリーを備える。
+
+背面サブウーファー搭載の怪物スマホ、Xiaomi「POCO F9 Ultra」発売
+
+Snapdragon 8 Elite Gen 5と8,050mAhバッテリーを搭載
+
+小米技術日本株式会社（シャオミ・ジャパン / 本社：東京都港区）は2026年9月1日、POCO Fシリーズの最上位スマートフォン 「POCO F9 Ultra」 を発表した。市場想定価格は12GB / 256GBモデルが税込149,800円、16GB / 512GBモデルが税込169,800円。カラーはダークチェリーとブラックの2色。なお、9月23日（水）23時59分までは発売記念キャンペーンとして20,000円引きとなり、早割価格は税込129,800円から。
+
+3nmプロセスで製造される「Snapdragon 8 Elite Gen 5 Mobile Platform」と、ゲーム向けチップ「VisionBoost D8」を搭載。独自の3DトリプルレイヤーIceLoop冷却システムも備え、高負荷時の安定動作を支える。
+
+ディスプレイは解像度2,608×1,200ドットの約6.9インチAMOLEDで、最大185Hzのリフレッシュレートに対応。RGBサブピクセル構造とM11発光材料を採用し、マルチシナリオピーク輝度は最大4,500nitsに達する。
+
+サウンド機能はBoseと共同開発した「Sound by Bose」に対応。上下のステレオスピーカーに加えて背面に独立サブウーファーを搭載し、スマートフォン単体で2.1chサウンドを実現した。
+
+アウトカメラは約2億画素メイン、約5,000万画素の5倍望遠、約5,000万画素超広角によるトリプル構成。メインカメラと望遠カメラは光学式手ブレ補正に対応する。
+
+バッ…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/09/02/POCO_F9_Ultra_001.jpg" alt="背面サブウーファー搭載の怪物スマホ、Xiaomi「POCO F9 Ultra」発売"></p>]]></description><source url="https://www.gdm.or.jp/pressrelease/2026/0902/650503">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/09/02/POCO_F9_Ultra_001.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/09/02/POCO_F9_Ultra_001.jpg"/></item>
+<item><title>Linux 7.3で有効化が進められるデスクトップ向けの“Zen 6”</title><link>https://northwood.blog.fc2.com/blog-entry-13195.html</link><guid isPermaLink="true">https://northwood.blog.fc2.com/blog-entry-13195.html</guid><pubDate>Tue, 01 Sep 2026 13:52:25 +0000</pubDate><description><![CDATA[<p>Linux 7.3で有効化が進められるデスクトップ向けの“Zen 6”
+
+北森瓦版 - Northwood Blog (Author : 北森八雲. Since July 10, 2006.)
+
+北森瓦版 - Linux 7.3で有効化が進められるデスクトップ向けの“Zen 6” ブログ内検索
+
+○CPU アーク (ark) Tsukumo (Intel) Tsukumo (AMD) ソフマップ ○マザーボード アーク (ark) Tsukumo (Intel) Tsukumo (AMD) ソフマップ ○グラフィックカード アーク (ark) Tsukumo (NVIDIA) Tsukumo (AMD) ソフマップ ○メモリ アーク (ark) Tsukumo ソフマップ ○SSD アーク (ark) Tsukumo ソフマップ ○Amazon売れ筋ランキング CPU メモリ グラフィックカード マザーボード SSD 電源
+
+Linux 7.3で有効化が進められるデスクトップ向けの“Zen 6”
+
+Linux 7.3で有効化が進められるデスクトップ向けの“Zen 6” (2026/09/01)
+
+AMDのWebサイトに“AM5 Olympic Ridge”と“AM5 Medusa1”の記述 (2026/08/27)
+
+AIDA 64に“Zen 7”の初期サポートが追加される (2026/08/17)
+
+| 北森瓦版 | Template by おすすめ無料ブログ(blog)比較
+
+Linux 7.3で有効化が進められるデスクトップ向けの“Zen 6” (09/01)
+
+玄人志向がブランドを刷新、新たなブランドは“Crowxis”に (09/01)
+
+“Gorgon Halo”―Ryzen AI Max+ 495搭載PCは9月初めに登場見込み (09/01)
+
+INNO3DからSingle-slot仕様のGeForce RTX 5060 Ti 16GBが登場 (08/27)
+
+AMDのWebサイトに“AM5 Olympic Ridge”と“AM5 Medusa1”の記述 …</p>]]></description><source url="https://northwood.blog.fc2.com/blog-entry-13195.html">北森瓦版</source></item>
+<item><title>玄人志向がブランドを刷新、新たなブランドは“Crowxis”に</title><link>https://northwood.blog.fc2.com/blog-entry-13194.html</link><guid isPermaLink="true">https://northwood.blog.fc2.com/blog-entry-13194.html</guid><pubDate>Tue, 01 Sep 2026 13:25:26 +0000</pubDate><description><![CDATA[<p>玄人志向がブランドを刷新、新たなブランドは“Crowxis”に
+
+北森瓦版 - Northwood Blog (Author : 北森八雲. Since July 10, 2006.)
+
+北森瓦版 - 玄人志向がブランドを刷新、新たなブランドは“Crowxis”に ブログ内検索
+
+○CPU アーク (ark) Tsukumo (Intel) Tsukumo (AMD) ソフマップ ○マザーボード アーク (ark) Tsukumo (Intel) Tsukumo (AMD) ソフマップ ○グラフィックカード アーク (ark) Tsukumo (NVIDIA) Tsukumo (AMD) ソフマップ ○メモリ アーク (ark) Tsukumo ソフマップ ○SSD アーク (ark) Tsukumo ソフマップ ○Amazon売れ筋ランキング CPU メモリ グラフィックカード マザーボード SSD 電源
+
+玄人志向がブランドを刷新、新たなブランドは“Crowxis”に
+
+玄人志向がブランドを刷新、新たなブランドは“Crowxis”に (2026/09/01)
+
+Core i9 7980XE, i9 7960X, i9 7940Xが販売開始される (2017/10/25)
+
+GeForce GTX 1080が発売される (2016/05/28)
+
+| 北森瓦版 | Template by おすすめ無料ブログ(blog)比較
+
+Linux 7.3で有効化が進められるデスクトップ向けの“Zen 6” (09/01)
+
+玄人志向がブランドを刷新、新たなブランドは“Crowxis”に (09/01)
+
+“Gorgon Halo”―Ryzen AI Max+ 495搭載PCは9月初めに登場見込み (09/01)
+
+INNO3DからSingle-slot仕様のGeForce RTX 5060 Ti 16GBが登場 (08/27)
+
+AMDのWebサイトに“AM5 Olympic Ridge”と“AM5 Medusa1”の記述 (08/27)
+
+Hot Chips 2026で“Cr…</p>]]></description><source url="https://northwood.blog.fc2.com/blog-entry-13194.html">北森瓦版</source></item>
+<item><title>POCO F9 Ultra発表、日本初のサブウーファーを会場で聴いてきた</title><link>https://gori.me/xiaomi/169445</link><guid isPermaLink="true">https://gori.me/xiaomi/169445</guid><pubDate>Tue, 01 Sep 2026 13:00:34 +0000</pubDate><description><![CDATA[<p>POCO F9 Ultra発表、日本初のサブウーファーを会場で聴いてきた
+
+シャオミ・ジャパンがPOCO F9 Ultraを9月1日発売。日本初となる背面サブウーファー「Sound by Bose」を搭載し、早割適用で129,800円から狙える。AnTuTu416万点や8050mAhバッテリーは強力だが、会場での試聴で感じた率直な違和感も含めて詳報する。
+
+POCO F9 Ultra発表、日本初のサブウーファーを会場で聴いてきた
+
+早割で129,800円。ただしBOSEサウンドは僕の耳には届かなかった
+
+POCO F9 Ultraが9月1日22時発売。市場想定価格は149,800円からで、9月23日までの早割20,000円オフで129,800円になる
+
+上下スピーカー＋背面2.1CHサブウーファーの3基構成で、60〜200Hzを専用ドライバーが担当。日本上陸はF9 Ultraが初となる
+
+発表会の体験ブースで試聴したが、BOSEらしさや音質の優位性は感じられなかった。音を目的に買うなら店頭での試聴を強く推奨する
+
+シャオミ・ジャパンは、POCOのFシリーズ最上位モデル「 POCO F9 Ultra 」を9月1日（火）から日本で発売する。市場想定価格は12GB/256GBモデルが149,800円（税込）、16GB/512GBモデルが169,800円（税込）だ。
+
+注目は、 スマートフォンの背面に低音専用のスピーカー（サブウーファー）を積んできたこと だ。「 Sound by Bose 」の名を冠した2.1CHサウンドシステムが、日本で買える端末としては初上陸となる。
+
+しかも発売記念の早割で、9月1日22:00から9月23日（水）23:59までは一律20,000円オフ。つまり256GBモデルが129,800円、512GBモデルが149,800円で手に入る。
+
+POCO F9 …</p><p><img src="https://gori.me/uploads/2026/08/Xiaomi-Brand-New-Products-03-800x534.jpg" alt="POCO F9 Ultra発表、日本初のサブウーファーを会場で聴いてきた"></p>]]></description><source url="https://gori.me/xiaomi/169445">gori.me</source><media:content url="https://gori.me/uploads/2026/08/Xiaomi-Brand-New-Products-03-800x534.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/08/Xiaomi-Brand-New-Products-03-800x534.jpg"/></item>
+<item><title>POCO F9 Ultra発表。Bose協業音響でサブウーファー、8050mAh電池搭載</title><link>https://smhn.info/202609-poco-f9-ultra-spec</link><guid isPermaLink="true">https://smhn.info/202609-poco-f9-ultra-spec</guid><pubDate>Tue, 01 Sep 2026 13:00:12 +0000</pubDate><description><![CDATA[<p>POCO F9 Ultra発表。Bose協業音響でサブウーファー、8050mAh電池搭載
+
+Xiaomi Japanは2026年8月27日、POCO Fシリーズ最上位のハイエンドスマートフォン「POCO F9 Ultra」の日本発売決定を発表しました。市場想定価格は実行メモリ12GB／ストレージ256GBが14万9800円、16GB／512GBが16万9800円です。9...
+
+POCO F9 Ultra発表。Bose協業音響でサブウーファー、8050mAh電池搭載
+
+Xiaomi Japanは2026年8月27日、POCO Fシリーズ最上位のハイエンドスマートフォン「POCO F9 Ultra」の日本発売決定を発表しました。市場想定価格は実行メモリ12GB／ストレージ256GBが14万9800円、16GB／512GBが16万9800円です。
+
+9月23日23時59分までは発売記念の早期購入キャンペーンとして2万円を割り引き、12GB／256GBを12万9800円、16GB／512GBを14万9800円で販売します。
+
+SoCには3nmプロセスのSnapdragon 8 Elite Gen 5を採用し、ゲーム用のVisionBoost D8チップも搭載。冷却機構は3層構造の「3Dトリプルレイヤー IceLoopシステム」。長時間ゲーム安定動作を謳います。
+
+約6.9型の有機ELディスプレイは2608×1200ドットで、M11ディスプレイパネルは新しい緑色発光材料により、同社測定で発光効率が20％向上したといいます。
+
+対応するゲームでは最大185Hz表示が可能で、最大480Hzの10点タッチサンプリング二対応します。
+
+音響面ではSound by Boseのチューニングを導入し、上下のスピーカーに背面サブウーファーを加えた2.1ch構成を採用します。「Sound by Bose Game Audio」では、FPSゲームなどの足音を最大200％まで強調できるとしています。
+
+背面カメラは約2億画素メイン、約5000万画素の5倍光学望遠、約5000万画素超広角の3眼構成。メ…</p><p><img src="https://smhn.info/wp-content/uploads/2026/09/P1249731_WXmhPjd.jpg" alt="POCO F9 Ultra発表。Bose協業音響でサブウーファー、8050mAh電池搭載"></p>]]></description><source url="https://smhn.info/202609-poco-f9-ultra-spec">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/09/P1249731_WXmhPjd.jpg" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/09/P1249731_WXmhPjd.jpg"/></item>
+<item><title>Snapdragon 8 Elite Gen 5���ȼ������ߥ󥰥��å���ܤΥ��ޥۡ�POCO F9 Ultra��ȯ�䡣Bose���ȤΥ��֥����ե�����¢</title><link>https://www.4gamer.net/games/990/G999019/20260830003/</link><guid isPermaLink="true">https://www.4gamer.net/games/990/G999019/20260830003/</guid><pubDate>Tue, 01 Sep 2026 13:00:00 +0000</pubDate><description><![CDATA[<p>Snapdragon 8 Elite Gen 5���ȼ������ߥ󥰥��å����ܤΥ��ޥۡ�POCO F9 Ultra��ȯ�䡣Bose���ȤΥ��֥����ե�����¢
+
+2026年9月1日，Xiaomiは，ハイエンド市場向けのAndroidスマートフォン「POCO F9 Ultra」を発売した。Qualcommのハイエンド市場向けSoC「Snapdragon 8 E…
+
+Snapdragon 8 Elite Gen 5＋独自ゲーミングチップ搭載のスマホ「POCO F9 Ultra」発売。Bose協業のサブウーファも内蔵 ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
+
+↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 夏は七不思議ならぬ“七不穏”で暑さを忘却の彼方へ――涼しくチルアウトできる終末，陰鬱，ディストピアな7つのゲーム ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ ひと夏の思い出に「桃鉄」100…</p><p><img src="https://www.4gamer.net/games/990/G999019/20260830003/SS/003.jpg" alt="Snapdragon 8 Elite Gen 5���ȼ������ߥ󥰥��å���ܤΥ��ޥۡ�POCO F9 Ultra��ȯ�䡣Bose���ȤΥ��֥����ե�����¢"></p>]]></description><source url="https://www.4gamer.net/games/990/G999019/20260830003/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/990/G999019/20260830003/SS/003.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/990/G999019/20260830003/SS/003.jpg"/></item>
+<item><title>玄人志向、Crowxis (クロウシス)へとブランドリニューアル。さらばグラサン</title><link>https://www.nichepcgamer.com/archives/post-131951.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/post-131951.html</guid><pubDate>Tue, 01 Sep 2026 11:06:19 +0000</pubDate><description><![CDATA[<p>玄人志向、Crowxis (クロウシス)へとブランドリニューアル。さらばグラサン
+
+シー・エフ・デー販売株式会社(以下、CFD)、『玄人志向』ブランドを『Crowxis』へとリニューアルすることを発表しました。 『玄人志向』は2001年に設立された自作PCブランドで、サングラス(以...
+
+シー・エフ・デー販売株式会社(以下、CFD)、 『玄人志向』ブランドを『Crowxis』へとリニューアルすることを発表しました。
+
+『玄人志向』は2001年に設立された自作PCブランドで、サングラス(以前はサングラスをかけた男)のロゴで親しまれてきました。そんな『玄人志向』ですが、『Crowxis』(クロウシスと読む)という新たなブランドへとリニューアルされます。
+
+シー・エフ・デー販売株式会社（代表取締役社長：三谷 弘次 本社所在地：愛知県名古屋市）は、2001年に設立した自作PC向けブランド「玄人志向」を、新ブランド「Crowxis（クロウシス）」としてリニューアルすることをお知らせいたします。
+
+新ブランドの詳細は、2026年9月17日（木）から21日（月）まで幕張メッセにて開催される「東京ゲームショウ2026」にて初披露いたします。
+
+「玄人志向」は2001年の展開開始以来、自作PCユーザーを中心に25年にわたり製品を提供してまいりました。
+
+今回のリブランディングでは、玄人志向が長年に渡り大切にしてきた「合理性、信頼性、実用性」を受け継ぎながらブランドの魅力を再定義し、現代のユーザーにとって理解・共感しやすい形へと翻訳してお伝えしていくことを目指しました。
+
+東京ゲームショウ2026では、玄人志向がユーザーの皆様と歩んできた歴史とともに、新ブランドのコンセプトや今後の新製品情報などゲスト共にお届けします。ぜひブースにお立ち寄りください。
+
+【ブランド名の由来】 PC選びで迷うユーザーに、価値ある製品を提案し満足のいく結果へ導きたいという思いを 日本神話で道案内をしたという八咫烏（Crow）になぞらえて。さらに、その提案がユーザーの選択の軸（Axis）とされる確かなブランドで…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2026/09/crowxis.jpg" alt="玄人志向、Crowxis (クロウシス)へとブランドリニューアル。さらばグラサン"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-131951.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2026/09/crowxis.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2026/09/crowxis.jpg"/></item>
+<item><title>iPhone UltraはAppleCare+加入必須か〜画面交換は15万円超と噂？</title><link>https://iphone-mania.jp/iphone18-605180/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-605180/</guid><pubDate>Tue, 01 Sep 2026 11:00:14 +0000</pubDate><description><![CDATA[<p>iPhone UltraはAppleCare+加入必須か〜画面交換は15万円超と噂？
+
+折りたたみiPhone（仮称：iPhone Ultra）のメインディスプレイが破損した場合、交換修理費用は本体価格の半額以上になるとの予想が報じられています。
+
+iPhone UltraはAppleCare+加入必須か〜画面交換は15万円超と噂？
+
+折りたたみiPhone（仮称： iPhone Ultra ）の メインディスプレイが破損した場合、交換修理費用は本体価格の半額以上 になるとの予想が報じられています。
+
+最安モデルの予想販売価格をもとに試算すると、iPhone Ultraのディスプレイ交換費用は 税込15万円を超える可能性 があります。
+
+Forbesがスマートフォン修理業者から得た予想では、 iPhone Ultra の 折りたたみディスプレイ交換費用 は約1,155ドル になるとされています。
+
+同メディアは iPhone Ultra の販売価格を2,000ドル以上と予想しており、仮に2,100ドルとすれば、 ディスプレイ交換費用は本体価格の約55%に相当 します。
+
+iPhone Ultra の 日本での販売価格 については、最安モデルで税込299,800円程度になるとの予想が安めの部類で、高いものでは税込35万円以上との見方もあります。
+
+ディスプレイ交換費用が本体価格の約55%になると仮定し、日本での予想販売価格に当てはめると、修理費用は次のように試算されます。
+
+税込299,800円 の場合は 約164,900円 、税込350,000円の場合は 約192,500円 です。
+
+そのため、 AppleCare+未加入時のディスプレイ交換費用が税込15万円を超えることは、十分あり得る 水準です。修理費用がこれほど高額になるのであれば、iPhone Ultraを購入する際は AppleCare+への加入 をこれまで以上に検討する必要がありそうです。
+
+Forbesは、 iPhone Ultra のディスプレイ交換費用が Galaxy Z Fold8より高額になる との…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/01/iphone-ultra-AH-0901_2.jpg" alt="iPhone UltraはAppleCare+加入必須か〜画面交換は15万円超と噂？"></p>]]></description><source url="https://iphone-mania.jp/iphone18-605180/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/01/iphone-ultra-AH-0901_2.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/01/iphone-ultra-AH-0901_2.jpg"/></item>
+<item><title>【まもなく終了】Kindle本50%ポイント還元フェアの人気作まとめ</title><link>https://komameblog.jp/sale/kindle-20260901-50per/</link><guid isPermaLink="true">https://komameblog.jp/sale/kindle-20260901-50per/</guid><pubDate>Tue, 01 Sep 2026 10:54:51 +0000</pubDate><description><![CDATA[<p>【まもなく終了】Kindle本50%ポイント還元フェアの人気作まとめ
+
+Amazonの「Kindle本 50%ポイント還元フェア」が9/3（木）で終了します。販売価格の50%ぶんのポイントをもらえるので、実質的には半額で入手できるお得なキャンペーンです。この記事では特に人気の高い作品を、出版社別に分類しました。...
+
+【まもなく終了】Kindle本50%ポイント還元フェアの人気作まとめ | こまめブログ コンテンツへスキップ セール情報 Kindle Amazonの「Kindle本 50%ポイント還元フェア」が9/3（木）で終了します。販売価格の50%ぶんのポイントをもらえるので、実質的には半額で入手できるお得なキャンペーンです。この記事では特に人気の高い作品を、出版社別に分類しました。まだチェックしていない人は、ぜひお気に入りの作品がないか探してみてください。
+
+魔導具師ダリヤはうつむかない~Dahliya Wilts No More~
+
+作者：住川惠、甘岸久弥、景、甘岸久弥（「魔導具師ダリヤはうつむかない～今日から自由な職人ライフ～」MFブックス刊）、駒田ハチ
+
+ロメリア戦記～伯爵令嬢、魔王を倒した後も人類やばそうだから軍隊組織する～
+
+転生少女はまず一歩からはじめたい～魔物がいるとか聞いてない！～
+
+北海道の現役ハンターが異世界に放り込まれてみた ~エルフ嫁と巡る異世界狩猟ライフ~
+
+享年82歳の異世界転生！？～ハズレ属性でも、スキルだけで無双します～
+
+器用貧乏、城を建てる ~開拓学園の劣等生なのに、上級職のスキルと魔法がすべて使えます~@COMIC
+
+無能と呼ばれた『精霊たらし』~実は異能で、精霊界では伝説的ヒーローでした~@COMIC
+
+作者：天那光汰（「剣聖の称号を持つ料理人」KADOKAWA刊）、海田ゆた、中野一
+
+爆弾魔な傭兵、同時召喚された最強チート共を片っ端から消し飛ばす
+
+お買い得パソコン評論家。毎日各メーカー・各ショップのWebページを500p以上チェックして、安くてお得なパソコンを探しています。元PC雑誌編集者で、PC系フリーライターでもあ…</p><p><img src="https://komameblog.jp/wp-content/uploads/2026/08/Kindle-20260901-50per2.jpg" alt="【まもなく終了】Kindle本50%ポイント還元フェアの人気作まとめ"></p>]]></description><source url="https://komameblog.jp/sale/kindle-20260901-50per/">こまめブログ</source><media:content url="https://komameblog.jp/wp-content/uploads/2026/08/Kindle-20260901-50per2.jpg" medium="image"/><media:thumbnail url="https://komameblog.jp/wp-content/uploads/2026/08/Kindle-20260901-50per2.jpg"/></item>
+<item><title>Android初の正方形セルフィーセンサー。Honor Magic9 Proが搭載か</title><link>https://smhn.info/202609-honor-magic9-pro-new-sensor</link><guid isPermaLink="true">https://smhn.info/202609-honor-magic9-pro-new-sensor</guid><pubDate>Tue, 01 Sep 2026 10:46:44 +0000</pubDate><description><![CDATA[<p>Android初の正方形セルフィーセンサー。Honor Magic9 Proが搭載か
+
+縦横比1:1の正方形セルフィー（自撮り用）のセンサー。AppleがiPhoneで率先して採用してきましたが、いよいよAndroidにも広がるかもしれません。Honorの未発表スマートフォン「Honor Magic9 Pro」が、縦横比1:1の正方形セルフィーセンサーを搭載するかも...
+
+Android初の正方形セルフィーセンサー。Honor Magic9 Proが搭載か
+
+縦横比1:1の正方形セルフィー（自撮り用）のセンサー。AppleがiPhoneで率先して採用してきましたが、いよいよAndroidにも広がるかもしれません。
+
+Honorの未発表スマートフォン「Honor Magic9 Pro」が、縦横比1:1の正方形セルフィーセンサーを搭載するかもしれません。もし実現すれば、この形式の前面カメラを採用する初のAndroidスマートフォンになります。
+
+情報源は中国のリーカーDigital Chat Station。正方形センサーは縦方向と横方向で使える撮像範囲の差が小さくなるため、端末の向きを変えないまま縦長・横長の写真や動画を切り出しやすくなる可能性があります。Galaxyやレノボ系のスマホなどが搭載してる水平ロック（撮影中に端末を回転しても、動画を回転させずに維持する機能）などは、こういう撮像素子のほうがよりブラッシュアップできそうですね。
+
+もっとも、Honor Magc9 Proが搭載する正方形の前面センサーの物理サイズや画素数、レンズ仕様は明らかになっていません。
+
+Honor Magc9 Proの背面カメラ構成は、噂では、2億画素のメインカメラ、5000万画素の超広角カメラ、2億画素のペリスコープ望遠カメラを搭載すると伝えられています。ARRIに関連した動画機能の採用も噂されています。
+
+Honorの中国向けストアではMagic9シリーズの購入特典が先行販売されており、新製品の投入自体は予告済み。カメラ関連は正式発表を待ちたいところです。</p><p><img src="https://smhn.info/wp-content/uploads/2026/09/honor-magic9pro.webp" alt="Android初の正方形セルフィーセンサー。Honor Magic9 Proが搭載か"></p>]]></description><source url="https://smhn.info/202609-honor-magic9-pro-new-sensor">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/09/honor-magic9pro.webp" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/09/honor-magic9pro.webp"/></item>
+<item><title>IIJmio、30GB＋10分かけ放題を月900円で提供。（最大6カ月）</title><link>https://smhn.info/202609-iijmio-campaign-2</link><guid isPermaLink="true">https://smhn.info/202609-iijmio-campaign-2</guid><pubDate>Tue, 01 Sep 2026 10:31:00 +0000</pubDate><description><![CDATA[<p>IIJmio、30GB＋10分かけ放題を月900円で提供。（最大6カ月）
+
+IIJmioが、音声25GBプランを最大6カ月間、月900円で提供するキャンペーンを実施しています。受付は2026年11月4日午後11時59分までです。音声25GBプランの通常料金は月2000円です。これが最大6カ月間にわたって月額900円になります。割引の内訳は、利用開始1～3...
+
+IIJmio、30GB＋10分かけ放題を月900円で提供。（最大6カ月）
+
+IIJmio が、音声25GBプランを最大6カ月間、月900円で提供するキャンペーンを実施しています。受付は2026年11月4日午後11時59分までです。
+
+音声25GBプランの通常料金は月2000円です。これが最大6カ月間にわたって月額900円になります。
+
+割引の内訳は、利用開始1～3カ月目が「ハッピースマイルキャンペーン＋」、4～6カ月目が「ハッピープライスキャンペーン＋」で、それぞれ月額1100円引きする形。
+
+さらに、2026年11月4日午後11時59分までに対象の25GBプランを申し込むと、利用開始月から最大6カ月間、データ容量が毎月5GB増量されます。25GBプランを維持している場合、特典期間中は月30GBを利用できます。
+
+なお、月700円の「通話定額10分＋」も、同じ2つのキャンペーンを組み合わせれば最大6カ月間無料となります。通話定額の対象は、スマートフォンの標準電話アプリから発信する1回10分以内の国内通話です。ちなみに今どき電話なんか使わないという人でも、25GBの料金割引だけを受けるのに通話定額加入は不要なのでご安心を。
+
+対象となるのは、ギガプランの音声SIMまたは音声eSIMを25GBでMNP・新規・追加契約する利用者です。
+
+注意したいのは特典期間中の変更です。データ容量を変更したり、音声SIMからデータSIMまたはSMS SIMへ変更したりすると、25GBプランの月額料金割引は終了します。一方、5GBのデータ増量特典は、データ容量、SIM機能、SIMカードとeSIMの間の形状を変更しても、当初の最大6カ…</p><p><img src="https://smhn.info/wp-content/uploads/2026/09/bacb056ae97c8ff681e94ac3b0d78614.webp" alt="IIJmio、30GB＋10分かけ放題を月900円で提供。（最大6カ月）"></p>]]></description><source url="https://smhn.info/202609-iijmio-campaign-2">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/09/bacb056ae97c8ff681e94ac3b0d78614.webp" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/09/bacb056ae97c8ff681e94ac3b0d78614.webp"/></item>
+<item><title>(アキバ取材班) 山のようなデカ盛りご飯が名物だった「ごはん処 あだち」が閉店。アキバで営業50年</title><link>https://www.gdm.or.jp/crew/2026/0901/650468</link><guid isPermaLink="true">https://www.gdm.or.jp/crew/2026/0901/650468</guid><pubDate>Tue, 01 Sep 2026 10:23:41 +0000</pubDate><description><![CDATA[<p>(アキバ取材班) 山のようなデカ盛りご飯が名物だった「ごはん処 あだち」が閉店。アキバで営業50年</p>]]></description><source url="https://www.gdm.or.jp/crew/2026/0901/650468">エルミタージュ秋葉原</source></item>
 <item><title>iPhone Ultraは9月発売の可能性高まる〜ただし初期在庫は極少数の可能性</title><link>https://iphone-mania.jp/iphone18-605176/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-605176/</guid><pubDate>Tue, 01 Sep 2026 10:07:04 +0000</pubDate><description><![CDATA[<p>iPhone Ultraは9月発売の可能性高まる〜ただし初期在庫は極少数の可能性
 
 折りたたみiPhone（仮称：iPhone Ultra）については、iPhone18 Proシリーズとともに日本時間2026年9月10日午前2時から開催されるイベントで発表される見込みですが、発売日を巡って複数の噂が出ています。
@@ -256,7 +547,7 @@ CPUは10コア/16スレッドのCore 7 240H、グラフィックスはGeForce RT
 【Amazon スマイルSale】NextorageのPS5対応SSD「NEM-…
 
 …</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/09/01/V3607VM_01.jpg" alt="【Amazonタイムセール】RTX 5060搭載の軽量ゲーミングノート「Gaming V16 V3607VM」が5万円引き"></p>]]></description><source url="https://www.gdm.or.jp/pressrelease/2026/0901/650448">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/09/01/V3607VM_01.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/09/01/V3607VM_01.jpg"/></item>
-<item><title>�֥֥饹����7��ǯ�����ꡣ�����ǥ����ʡ���ؤΥ᡼�륤�󥿥ӥ塼��ɳ�򤯡��֥�뤤�ʹ��ɤ��פ�7��ǯ�����ֿ��Ȱ����</title><link>https://www.4gamer.net/games/462/G046220/20260803034/</link><guid isPermaLink="true">https://www.4gamer.net/games/462/G046220/20260803034/</guid><pubDate>Tue, 01 Sep 2026 09:00:00 +0000</pubDate><description><![CDATA[<p>�֥֥饹����7��ǯ�������ꡣ�����ǥ����ʡ����ؤΥ᡼�륤�󥿥ӥ塼��ɳ�򤯡��֥��뤤�ʹ��ɤ��פ�7��ǯ�����ֿ��Ȱ�����
+<item><title>�֥֥饹����7��ǯ�������ꡣ�����ǥ����ʡ����ؤΥ᡼�륤�󥿥ӥ塼��ɳ�򤯡��֥��뤤�ʹ��ɤ��פ�7��ǯ�����ֿ��Ȱ�����</title><link>https://www.4gamer.net/games/462/G046220/20260803034/</link><guid isPermaLink="true">https://www.4gamer.net/games/462/G046220/20260803034/</guid><pubDate>Tue, 01 Sep 2026 09:00:00 +0000</pubDate><description><![CDATA[<p>�֥֥饹����7��ǯ�������ꡣ�����ǥ����ʡ����ؤΥ᡼�륤�󥿥ӥ塼��ɳ�򤯡��֥��뤤�ʹ��ɤ��פ�7��ǯ�����ֿ��Ȱ�����
 
 2026年9月10日に7周年を迎える「ブラックスター -Theater Starless-」。本稿では，衣装デザイナーやイラストデザイナー，塚口ディレクターへのメールインタビューを通して，普段着とス…
 
@@ -278,7 +569,7 @@ CPUは10コア/16スレッドのCore 7 240H、グラフィックスはGeForce RT
 
 「ブラスタ」6周年記念「BLACK PARTY」レポート。まさにスターレスのショーそのもの！ 極上の歌と芝居とパフォーマンスで彩った2日間
 
-「ブラックスター -Theater St…</p><p><img src="https://www.4gamer.net/games/462/G046220/20260803034/SS/001.jpg" alt="�֥֥饹����7��ǯ�����ꡣ�����ǥ����ʡ���ؤΥ᡼�륤�󥿥ӥ塼��ɳ�򤯡��֥�뤤�ʹ��ɤ��פ�7��ǯ�����ֿ��Ȱ����"></p>]]></description><source url="https://www.4gamer.net/games/462/G046220/20260803034/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/462/G046220/20260803034/SS/001.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/462/G046220/20260803034/SS/001.jpg"/></item>
+「ブラックスター -Theater St…</p><p><img src="https://www.4gamer.net/games/462/G046220/20260803034/SS/001.jpg" alt="�֥֥饹����7��ǯ�������ꡣ�����ǥ����ʡ����ؤΥ᡼�륤�󥿥ӥ塼��ɳ�򤯡��֥��뤤�ʹ��ɤ��פ�7��ǯ�����ֿ��Ȱ�����"></p>]]></description><source url="https://www.4gamer.net/games/462/G046220/20260803034/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/462/G046220/20260803034/SS/001.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/462/G046220/20260803034/SS/001.jpg"/></item>
 <item><title>パソコン工房、折りたたみスタンド搭載のRTX 5060/5050ゲーミングノート</title><link>https://pc.watch.impress.co.jp/docs/news/2137380.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2137380.html</guid><pubDate>Tue, 01 Sep 2026 08:46:21 +0000</pubDate><description><![CDATA[<p>パソコン工房、折りたたみスタンド搭載のRTX 5060/5050ゲーミングノート
 
 パソコン工房を運営するユニットコムは8月31日、iiyama PCブランドのゲーミングPCシリーズ「LEVEL∞」より、折りたたみ式スタンドを搭載した15.6型ゲーミングノートPCを2機種発売した。
@@ -620,6 +911,29 @@ LM StudioのAIエージェント「Bionic」、Linux版が登場
 なお、編集部で試したところ、Ubuntu環境ではx64のAppImageがダウンロードされた。現時点ではArm版などは用意されていない模様だ。
 
 Bionic is now available for Linux! Your agents, running local and open models, now on your Linux machine. 2026 the year of the Linux desktop? pic.twitter.com/DayYkjaseG</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2137/241/1.jpg" alt="LM StudioのAIエージェント「Bionic」、Linux版が登場"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2137241.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2137/241/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2137/241/1.jpg"/></item>
+<item><title>「玄人志向」25周年でリブランド、新ブランド「Crowxis」は八咫烏がモチーフ</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2136627.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2136627.html</guid><pubDate>Tue, 01 Sep 2026 04:00:00 +0000</pubDate><description><![CDATA[<p>「玄人志向」25周年でリブランド、新ブランド「Crowxis」は八咫烏がモチーフ
+
+CFD販売株式会社は、同社の自作PC向けブランド「玄人志向」を、新たに「Crowxis」としてリニューアルすることを発表した。
+
+「玄人志向」25周年でリブランド、新ブランド「Crowxis」は八咫烏がモチーフ
+
+CFD販売株式会社は、同社の自作PC向けブランド「玄人志向」を、新たに「Crowxis」としてリニューアルすることを発表した。
+
+同社は、「玄人志向が長年に渡り大切にしてきた『合理性、信頼性、実用性』を受け継ぎながらブランドの魅力を再定義し、現代のユーザーにとって理解・共感しやすい形へと翻訳して伝えていくことを目指した」としている。
+
+新ブランド名の「Crowxis」は、「ユーザーに価値ある製品を提案し満足のいく結果へ導く」というモチーフとして日本神話で道案内をしたという“八咫烏（Crow）”を、また提案がユーザーの選択の軸とされる確かなブランドでありたいという願いを込めた“Axis”の2つを組み合わせた造語とのこと。
+
+ロゴマークには八咫烏と頭文字「C」をフィーチャーしたデザインを採用する。
+
+展開予定の製品カテゴリーはPCパーツ、PC周辺機器、ゲーミング関連製品、その他関連製品（SSD、グラフィックボード、電源ユニット、PCケース（PC）、CPUクーラー、SSD/HDDケース、ゲーミングチェア）など。
+
+詳細については、17日（木）より開催の「東京ゲームショウ2026」にて初披露予定としている。
+
+玄人志向は、1999年にメルコ社内で設立されたブランドで、2001年に製品を展開。2026年に25周年を迎えた老舗のPC関連ブランドの1つとなっている。
+
+当初（2000年）は「 Produced by D2000 」として製品が発売されていたが、2001年には玄人志向ブランドとして GeForce2 MX搭載ビデオカード を発売。以降、玄人志向ブランドとして長く展開されてきた。
+
+なおロゴマークは、当初は“謎のサングラス男”の顔イラストだったが、その後はシンプルなサングラスのみ…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2136/627/s1.jpg" alt="「玄人志向」25周年でリブランド、新ブランド「Crowxis」は八咫烏がモチーフ"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2136627.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2136/627/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2136/627/s1.jpg"/></item>
 <item><title>「玄人志向」が「Crowxis」にブランド変更！サングラスもやめてTGSで初披露</title><link>https://pc.watch.impress.co.jp/docs/news/2137155.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2137155.html</guid><pubDate>Tue, 01 Sep 2026 04:00:00 +0000</pubDate><description><![CDATA[<p>「玄人志向」が「Crowxis」にブランド変更！サングラスもやめてTGSで初披露
 
 自作PCパワーユーザーおなじみのブランド「玄人志向」――気がつけば、2001年の展開以来、25年も経過していた。そして今回、CFD販売は9月1日、そのブランドを「Crowxis」としてリニューアルすると発表した。
@@ -645,29 +959,6 @@ PC選びで迷うユーザーに、価値ある製品を提案し満足のいく
 このコントラストを、カラスのシルエットとともに頭文字「C」をフィーチャーしながら表現しました。
 
 展開する製品はほぼこれまで通り、PCパーツ、PC周辺機器、ゲーミング関連製品、その他関連製品など。具体的には、SSD、ビデオカード、電源ユニット、PCケース、CPUクーラー、SSD/HDDケース、ゲーミングチェアとなっている。新ブランド展開に合わせて、サイトのドメインも新たに取得している。また、9月17日から21日まで幕張…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2137/155/1.jpg" alt="「玄人志向」が「Crowxis」にブランド変更！サングラスもやめてTGSで初披露"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2137155.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2137/155/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2137/155/1.jpg"/></item>
-<item><title>「玄人志向」25周年でリブランド、新ブランド「Crowxis」は八咫烏がモチーフ</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2136627.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2136627.html</guid><pubDate>Tue, 01 Sep 2026 04:00:00 +0000</pubDate><description><![CDATA[<p>「玄人志向」25周年でリブランド、新ブランド「Crowxis」は八咫烏がモチーフ
-
-CFD販売株式会社は、同社の自作PC向けブランド「玄人志向」を、新たに「Crowxis」としてリニューアルすることを発表した。
-
-「玄人志向」25周年でリブランド、新ブランド「Crowxis」は八咫烏がモチーフ
-
-CFD販売株式会社は、同社の自作PC向けブランド「玄人志向」を、新たに「Crowxis」としてリニューアルすることを発表した。
-
-同社は、「玄人志向が長年に渡り大切にしてきた『合理性、信頼性、実用性』を受け継ぎながらブランドの魅力を再定義し、現代のユーザーにとって理解・共感しやすい形へと翻訳して伝えていくことを目指した」としている。
-
-新ブランド名の「Crowxis」は、「ユーザーに価値ある製品を提案し満足のいく結果へ導く」というモチーフとして日本神話で道案内をしたという“八咫烏（Crow）”を、また提案がユーザーの選択の軸とされる確かなブランドでありたいという願いを込めた“Axis”の2つを組み合わせた造語とのこと。
-
-ロゴマークには八咫烏と頭文字「C」をフィーチャーしたデザインを採用する。
-
-展開予定の製品カテゴリーはPCパーツ、PC周辺機器、ゲーミング関連製品、その他関連製品（SSD、グラフィックボード、電源ユニット、PCケース（PC）、CPUクーラー、SSD/HDDケース、ゲーミングチェア）など。
-
-詳細については、17日（木）より開催の「東京ゲームショウ2026」にて初披露予定としている。
-
-玄人志向は、1999年にメルコ社内で設立されたブランドで、2001年に製品を展開。2026年に25周年を迎えた老舗のPC関連ブランドの1つとなっている。
-
-当初（2000年）は「 Produced by D2000 」として製品が発売されていたが、2001年には玄人志向ブランドとして GeForce2 MX搭載ビデオカード を発売。以降、玄人志向ブランドとして長く展開されてきた。
-
-なおロゴマークは、当初は“謎のサングラス男”の顔イラストだったが、その後はシンプルなサングラスのみ…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2136/627/s1.jpg" alt="「玄人志向」25周年でリブランド、新ブランド「Crowxis」は八咫烏がモチーフ"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2136627.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2136/627/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2136/627/s1.jpg"/></item>
 <item><title>Ϸ�ޤμ���PC�����֥����ɡָ��ͻָ��פ���Crowxis�פؤȥ��֥����ǥ��󥰡��ܺ٤����������ॷ�祦2026�Ǹ���</title><link>https://www.4gamer.net/games/999/G999902/20260830005/</link><guid isPermaLink="true">https://www.4gamer.net/games/999/G999902/20260830005/</guid><pubDate>Tue, 01 Sep 2026 04:00:00 +0000</pubDate><description><![CDATA[<p>Ϸ�ޤμ���PC�����֥����ɡָ��ͻָ��פ���Crowxis�פؤȥ��֥����ǥ��󥰡��ܺ٤����������ॷ�祦2026�Ǹ���
 
 2026年9月1日，CFD販売は，自作PC向けブランド「玄人志向」を，新ブランド「Crowxis」（クロウシス）としてリブランディングすると発表した。新ブランドの詳細は，東京ゲームショウ2026で明…
@@ -1808,15 +2099,6 @@ EPOMAKER EK21はUSB Type-C有線接続のほか、Bluetooth 5.0、2.4GHzワイ�
 VIAソフトウェアを介してカスタマイズ・パーソナライズが可能。複雑なマクロを作成したり、キーのリマップを簡単に行ったりできるとしている。
 
 また、キースイッチにはWisteria Linear V2スイッチを採用し、本体左上にはアルミ合金ノブを搭載する。ボリューム調整ができるほか、VIAソフトウェアで機能のカスタマイズが可能となっている。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2136/733/a1.jpg" alt="カスタマイズ可能なテンキーパッド「EPOMAKER EK21」が登場、Wisteria Linear V2スイッチを搭載"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2136733.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2136/733/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2136/733/a1.jpg"/></item>
-<item><title>ガチくんに! 第430回切り抜き「舞の横乳/ヴァイパーのバグ/SFL開幕」</title><link>https://pc.watch.impress.co.jp/docs/news/2136784.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2136784.html</guid><pubDate>Mon, 31 Aug 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>ガチくんに! 第430回切り抜き「舞の横乳/ヴァイパーのバグ/SFL開幕」
-
-※毎週木曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイター6攻略企画「ガチくんに!」をTwitchとYouTubeで配信しています。レギュラー出演者はぷげら、奥村茉実。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードした切り抜きとアーカイブの動画を掲載しています。
-
-ガチくんに! 第430回切り抜き「舞の横乳/ヴァイパーのバグ/SFL開幕」
-
-※毎週木曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイター6攻略企画「ガチくんに!」を Twitch と YouTube で配信しています。レギュラー出演者はぷげら、奥村茉実。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードした切り抜きとアーカイブの動画を掲載しています。
-
-8月27日の配信では、ガチくんとぷげらさんの2人で、直近で見つかったスト6の舞の小技やヴァイパーのバグなどについてトーク。後半はSFL 2026開幕に向けて協力型アクションゲーム「PICO PARK」で団結力を高めてもらいました。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2136/784/01.jpg" alt="ガチくんに! 第430回切り抜き「舞の横乳/ヴァイパーのバグ/SFL開幕」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2136784.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2136/784/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2136/784/01.jpg"/></item>
 <item><title>Core i5-1145G7+16GBメモリ搭載の12.1型「Let&#39;s note SV1」が57,200円、Qualitの中古訳あり品セール</title><link>https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2136173.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2136173.html</guid><pubDate>Mon, 31 Aug 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>Core i5-1145G7+16GBメモリ搭載の12.1型「Let&#39;s note SV1」が57,200円、Qualitの中古訳あり品セール
 
 Core i5-1145G7(4コア/8スレッド)を搭載したPanasonic製12.1型ノートPC「Let&#39;s note SV1」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で特価販売中。
@@ -1828,6 +2110,15 @@ Core i5-1145G7(4コア/8スレッド)を搭載したPanasonic製12.1型ノート
 今回販売されているのは、「外観ランク基準はQualitの基準外だが、動作は正常確認済み」という訳あり中古品で、販売価格は57,200円。保証期間は出荷日から起算して10日間。
 
 主な仕様は、ディスプレイ解像度が1,920×1,200ドット、メモリが16GB(増設不可)、ストレージが256GB SSD、OSがWindows 11 Pro。インターフェイスには、HDMIやVGA、USB 3.1 Type-C、SDカードスロットなどを備えるほか、Webカメラや無線LAN機能などを搭載しています。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2136/173/a1.jpg" alt="Core i5-1145G7+16GBメモリ搭載の12.1型「Let&#39;s note SV1」が57,200円、Qualitの中古訳あり品セール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2136173.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2136/173/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2136/173/a1.jpg"/></item>
+<item><title>ガチくんに! 第430回切り抜き「舞の横乳/ヴァイパーのバグ/SFL開幕」</title><link>https://pc.watch.impress.co.jp/docs/news/2136784.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2136784.html</guid><pubDate>Mon, 31 Aug 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>ガチくんに! 第430回切り抜き「舞の横乳/ヴァイパーのバグ/SFL開幕」
+
+※毎週木曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイター6攻略企画「ガチくんに!」をTwitchとYouTubeで配信しています。レギュラー出演者はぷげら、奥村茉実。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードした切り抜きとアーカイブの動画を掲載しています。
+
+ガチくんに! 第430回切り抜き「舞の横乳/ヴァイパーのバグ/SFL開幕」
+
+※毎週木曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイター6攻略企画「ガチくんに!」を Twitch と YouTube で配信しています。レギュラー出演者はぷげら、奥村茉実。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードした切り抜きとアーカイブの動画を掲載しています。
+
+8月27日の配信では、ガチくんとぷげらさんの2人で、直近で見つかったスト6の舞の小技やヴァイパーのバグなどについてトーク。後半はSFL 2026開幕に向けて協力型アクションゲーム「PICO PARK」で団結力を高めてもらいました。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2136/784/01.jpg" alt="ガチくんに! 第430回切り抜き「舞の横乳/ヴァイパーのバグ/SFL開幕」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2136784.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2136/784/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2136/784/01.jpg"/></item>
 <item><title>CodexとWorkの課金者向け使用制限リセット。実質利用可能量が最大50%増加</title><link>https://pc.watch.impress.co.jp/docs/news/2136842.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2136842.html</guid><pubDate>Mon, 31 Aug 2026 02:46:11 +0000</pubDate><description><![CDATA[<p>CodexとWorkの課金者向け使用制限リセット。実質利用可能量が最大50%増加
 
 OpenAIでCodexやChatGPTの開発に携わるTibo氏は8月31日(日本時間)、CodexおよびChatGPT Workの全有料ユーザーを対象に使用量制限のリセットを実施したと発表した。高速だがトークン消費量が増える「/fast」オプションの利用も促している。
@@ -2263,23 +2554,6 @@ Appleのポリッシングクロス が、 Amazon で2,980円から2,089円に�
 本製品の大きな売りの1つが、15.3型の有機ELディスプレイだ。解像度は2,560×1,600ドット、リフレッシュレートは165Hz、色域はDCI-P3 100%、輝度は最大500cd/平方mとなっている。大画面かつ高解像度で、描画速度が速く、色域も広い。クリエイティブワークにもゲーミング用途にも適したディスプレイといえる。
 
 有機ELディスプレイの不安材料としては焼き付きが挙げられるが、本製品には画面を保護し、寿命を延ばすための機能「OLED Car…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2136/766/PH01.jpg" alt="【やじうまミニレビュー】1.53kgでRTX 5070。「DAIV Z5」の持ち歩きはアリか？"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2136766.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2136/766/PH01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2136/766/PH01.jpg"/></item>
-<item><title>【Mac Info】Macで複数の生成AIを1画面に、無料の「Cherry Studio」を試す</title><link>https://pc.watch.impress.co.jp/docs/column/macinfo/2136771.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/column/macinfo/2136771.html</guid><pubDate>Sun, 30 Aug 2026 21:00:00 +0000</pubDate><description><![CDATA[<p>【Mac Info】Macで複数の生成AIを1画面に、無料の「Cherry Studio」を試す
-
-ChatGPTやClaude、Geminiなど、用途に応じて複数の生成AIを使い分ける機会が増えてきました。しかし、それぞれのWebサイトやアプリを行き来するのは少々面倒です。そこで利用したいのが、複数のクラウドAIからMac上で動くローカルLLMまで、1つの画面から扱える「Cherry Studio」です。ここではCherry Studioの導入方法と基本的な使い方を解説します。
-
-Macで複数の生成AIを1画面に、無料の「Cherry Studio」を試す
-
-ChatGPTやClaude、Geminiなど、用途に応じて複数の生成AIを使い分ける機会が増えてきました。しかし、それぞれのWebサイトやアプリを行き来するのは少々面倒です。そこで利用したいのが、複数のクラウドAIからMac上で動くローカルLLMまで、1つの画面から扱える「Cherry Studio」です。ここではCherry Studioの導入方法と基本的な使い方を解説します。
-
-Cherry Studioなら複数の生成AIを1つの画面で使い分けられる
-
-ChatGPTやClaude、Geminiには、それぞれ公式のWebサービスやアプリが用意されています。
-
-1つのサービスだけを使うのであればそれで困りませんが、「文章の作成はClaude、調べものはGemini」といったように複数のAIを使い分けるようになると、そのたびに画面を切り替える必要があります。
-
-そこで便利なのが、統合AIクライアントアプリの「Cherry Studio」です。
-
-Cherry Studioでは、OpenAIやAnthropic、GoogleなどのクラウドAIから、OllamaやLM Studioを介したローカルLLMまで、さまざまな…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2136/771/image00.png" alt="【Mac Info】Macで複数の生成AIを1画面に、無料の「Cherry Studio」を試す"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/column/macinfo/2136771.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2136/771/image00.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2136/771/image00.png"/></item>
 <item><title>【プレゼントコーナー】PC Watch創刊30周年特別プレゼント企画【GMKtec製Ryzen 5 7640HS搭載ミニPC「M6 Ultra」】 - PC Watch</title><link>https://pc.watch.impress.co.jp/docs/topic/present/2136628.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/topic/present/2136628.html</guid><pubDate>Sun, 30 Aug 2026 21:00:00 +0000</pubDate><description><![CDATA[<p>【プレゼントコーナー】PC Watch創刊30周年特別プレゼント企画【GMKtec製Ryzen 5 7640HS搭載ミニPC「M6 Ultra」】 - PC Watch
 
 おかげさまでPC Watchは創刊から30周年を迎えることができました。これもひとえに読者の皆様、ならびにメーカー各社様からのご支援の賜物です。
@@ -2297,6 +2571,23 @@ NucBox M6 Ultraは、ベアボーン、16GB RAM + 512GB SSD、32GB RAM + 1TB SSD
 応募は、 GMKtec JPの公式X(旧Twitter)アカウント をフォローの上、下記のフォームから申し込みを行なってください。
 
 応募方法 :上記の条件を満たした上で、下記リンクの応募フォームに必要事項を入力して送信してください 応募締切 : 2026年9月6日(日) 12:00まで</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2136/628/1.jpg" alt="【プレゼントコーナー】PC Watch創刊30周年特別プレゼント企画【GMKtec製Ryzen 5 7640HS搭載ミニPC「M6 Ultra」】 - PC Watch"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/topic/present/2136628.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2136/628/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2136/628/1.jpg"/></item>
+<item><title>【Mac Info】Macで複数の生成AIを1画面に、無料の「Cherry Studio」を試す</title><link>https://pc.watch.impress.co.jp/docs/column/macinfo/2136771.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/column/macinfo/2136771.html</guid><pubDate>Sun, 30 Aug 2026 21:00:00 +0000</pubDate><description><![CDATA[<p>【Mac Info】Macで複数の生成AIを1画面に、無料の「Cherry Studio」を試す
+
+ChatGPTやClaude、Geminiなど、用途に応じて複数の生成AIを使い分ける機会が増えてきました。しかし、それぞれのWebサイトやアプリを行き来するのは少々面倒です。そこで利用したいのが、複数のクラウドAIからMac上で動くローカルLLMまで、1つの画面から扱える「Cherry Studio」です。ここではCherry Studioの導入方法と基本的な使い方を解説します。
+
+Macで複数の生成AIを1画面に、無料の「Cherry Studio」を試す
+
+ChatGPTやClaude、Geminiなど、用途に応じて複数の生成AIを使い分ける機会が増えてきました。しかし、それぞれのWebサイトやアプリを行き来するのは少々面倒です。そこで利用したいのが、複数のクラウドAIからMac上で動くローカルLLMまで、1つの画面から扱える「Cherry Studio」です。ここではCherry Studioの導入方法と基本的な使い方を解説します。
+
+Cherry Studioなら複数の生成AIを1つの画面で使い分けられる
+
+ChatGPTやClaude、Geminiには、それぞれ公式のWebサービスやアプリが用意されています。
+
+1つのサービスだけを使うのであればそれで困りませんが、「文章の作成はClaude、調べものはGemini」といったように複数のAIを使い分けるようになると、そのたびに画面を切り替える必要があります。
+
+そこで便利なのが、統合AIクライアントアプリの「Cherry Studio」です。
+
+Cherry Studioでは、OpenAIやAnthropic、GoogleなどのクラウドAIから、OllamaやLM Studioを介したローカルLLMまで、さまざまな…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2136/771/image00.png" alt="【Mac Info】Macで複数の生成AIを1画面に、無料の「Cherry Studio」を試す"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/column/macinfo/2136771.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2136/771/image00.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2136/771/image00.png"/></item>
 <item><title>14インチM5 Pro MacBook Proが51万円→39万円の大幅値引き。限定7台だから欲しいなら急げ</title><link>https://gori.me/sale/peripheral-sale/169499</link><guid isPermaLink="true">https://gori.me/sale/peripheral-sale/169499</guid><pubDate>Sun, 30 Aug 2026 20:21:26 +0000</pubDate><description><![CDATA[<p>14インチM5 Pro MacBook Proが51万円→39万円の大幅値引き。限定7台だから欲しいなら急げ
 
 14インチMacBook Pro（M5 Proチップ、24GBメモリ、2TBストレージ）が24％オフの396,866円。通常519,799円から122,933円引きで、1％ポイント還元も付く。限定7台の数量限定セールだ。
@@ -4757,6 +5048,23 @@ Core i5-10500T(6コア/12スレッド)を搭載したHP製ミニPC「EliteDesk 8
 今回販売されているのは、「傷や使用感が見られる」(同店)というCランク中古品で、販売価格は38,500円。保証期間は12か月となっています。
 
 主な仕様は、メモリが8GB(空きスロット×1)、ストレージが256GB SSD、OSがWindows 11 Pro。インターフェイスには、DisplayPort×2やUSB Type-Cなどを備えています。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2135/901/a1.jpg" alt="Core i5-10500T/8GBメモリ/256GB SSD搭載のHP製ミニPCが38,500円、Qualitの中古Cランク品セール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2135901.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2135/901/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2135/901/a1.jpg"/></item>
+<item><title>【Hothotレビュー】大学生活の“最初の1台”にちょうどいい。14型ノート「THIRDWAVE MA4」を父親が推す理由</title><link>https://pc.watch.impress.co.jp/docs/column/hothot/2135936.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/column/hothot/2135936.html</guid><pubDate>Thu, 27 Aug 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>【Hothotレビュー】大学生活の“最初の1台”にちょうどいい。14型ノート「THIRDWAVE MA4」を父親が推す理由
+
+オンライン講義やリモートワークが当たり前になった現在、大学生や社会人にとってノートPCは必須といえるデバイスだ。しっかり必要なスペックを備えたいとは思いつつ、できれば価格は抑えたいというのが人情だろう。
+
+大学生活の“最初の1台”にちょうどいい。14型ノート「THIRDWAVE MA4」を父親が推す理由
+
+オンライン講義やリモートワークが当たり前になった現在、大学生や社会人にとってノートPCは必須といえるデバイスだ。しっかり必要なスペックを備えたいとは思いつつ、できれば価格は抑えたいというのが人情だろう。
+
+その期待に応えてくれるかもしれないノートPCが、サードウェーブの「THIRDWAVE Notebook MA4」シリーズだ。
+
+複数アプリの同時使用もこなせるのでオンライン講義の不安もなし
+
+子どもが大学に入るとき、親として悩まされるのがノートPCの購入だ。実際、筆者の子どもが通う大学でもノートPCの購入は必須とされている。推奨スペックが明示されており、OSはWindows、CPUはCore i5/Ryzen 5以上、メモリ16GB以上、SSD256GB以上、バッテリ駆動8時間以上、重量1.5kg以下、無線LANによってネットワーク接続できることとなっている。
+
+親としては、この条件を満たしながら、なるべく価格は抑えたいところ。かといって使い勝手やデザイン面で子どもに不満は感じてほしくないと思うのも親心。その条件を最大限満たしてくれるのが、サードウェーブの「THIRDWAVE Notebook MA4」シリーズだ。まずはラインナップを紹介しておこう。
+
+どのモデルも筆者が例として挙げた大学が求めるスペックをほぼ満たしている。今回はこの中からCPU…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2135/936/yobi01.jpg" alt="【Hothotレビュー】大学生活の“最初の1台”にちょうどいい。14型ノート「THIRDWAVE MA4」を父親が推す理由"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/column/hothot/2135936.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2135/936/yobi01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2135/936/yobi01.jpg"/></item>
 <item><title>13万円台からの14型ノート「THIRDWAVE MA4」。Core Ultra/Ryzen搭載</title><link>https://pc.watch.impress.co.jp/docs/news/2135991.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2135991.html</guid><pubDate>Thu, 27 Aug 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>13万円台からの14型ノート「THIRDWAVE MA4」。Core Ultra/Ryzen搭載
 
 3色選べる約1.3kgのモバイルノートが13万円台からという低価格で展開される。サードウェーブは8月27日、14型ノートPC「THIRDWAVE MA4」シリーズを発売した。2025年に登場した10万円前後の同F-14シリーズの後継的なモデルとなる。
@@ -4776,23 +5084,6 @@ Core Ultra 5 125U (12コア14スレッド、最大4.3GHz) バッテリ駆動時�
 Ryzen 5 7535HS (6コア12スレッド、最大4.55GHz) バッテリ駆動時間: 動画再生時6.1時間、アイドル時16.5時間
 
 また、本体色についてもチャコールブラック、ラピスブルー、ローズゴールドの3種類があり、CPUごとにそれぞれの色が用意されているため、合計で9種となる。直販価格は、Core Ultra 7 1…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2135/991/06.jpg" alt="13万円台からの14型ノート「THIRDWAVE MA4」。Core Ultra/Ryzen搭載"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2135991.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2135/991/06.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2135/991/06.jpg"/></item>
-<item><title>【Hothotレビュー】大学生活の“最初の1台”にちょうどいい。14型ノート「THIRDWAVE MA4」を父親が推す理由</title><link>https://pc.watch.impress.co.jp/docs/column/hothot/2135936.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/column/hothot/2135936.html</guid><pubDate>Thu, 27 Aug 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>【Hothotレビュー】大学生活の“最初の1台”にちょうどいい。14型ノート「THIRDWAVE MA4」を父親が推す理由
-
-オンライン講義やリモートワークが当たり前になった現在、大学生や社会人にとってノートPCは必須といえるデバイスだ。しっかり必要なスペックを備えたいとは思いつつ、できれば価格は抑えたいというのが人情だろう。
-
-大学生活の“最初の1台”にちょうどいい。14型ノート「THIRDWAVE MA4」を父親が推す理由
-
-オンライン講義やリモートワークが当たり前になった現在、大学生や社会人にとってノートPCは必須といえるデバイスだ。しっかり必要なスペックを備えたいとは思いつつ、できれば価格は抑えたいというのが人情だろう。
-
-その期待に応えてくれるかもしれないノートPCが、サードウェーブの「THIRDWAVE Notebook MA4」シリーズだ。
-
-複数アプリの同時使用もこなせるのでオンライン講義の不安もなし
-
-子どもが大学に入るとき、親として悩まされるのがノートPCの購入だ。実際、筆者の子どもが通う大学でもノートPCの購入は必須とされている。推奨スペックが明示されており、OSはWindows、CPUはCore i5/Ryzen 5以上、メモリ16GB以上、SSD256GB以上、バッテリ駆動8時間以上、重量1.5kg以下、無線LANによってネットワーク接続できることとなっている。
-
-親としては、この条件を満たしながら、なるべく価格は抑えたいところ。かといって使い勝手やデザイン面で子どもに不満は感じてほしくないと思うのも親心。その条件を最大限満たしてくれるのが、サードウェーブの「THIRDWAVE Notebook MA4」シリーズだ。まずはラインナップを紹介しておこう。
-
-どのモデルも筆者が例として挙げた大学が求めるスペックをほぼ満たしている。今回はこの中からCPU…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2135/936/yobi01.jpg" alt="【Hothotレビュー】大学生活の“最初の1台”にちょうどいい。14型ノート「THIRDWAVE MA4」を父親が推す理由"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/column/hothot/2135936.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2135/936/yobi01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2135/936/yobi01.jpg"/></item>
 <item><title>「水冷PC読本」の新刊 Vol.20が入荷、今回は2012年～2026年を振り返り</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2135891.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2135891.html</guid><pubDate>Thu, 27 Aug 2026 02:05:00 +0000</pubDate><description><![CDATA[<p>「水冷PC読本」の新刊 Vol.20が入荷、今回は2012年～2026年を振り返り
 
 PC用水冷パーツを解説する同人誌「水冷PC読本」の最新版（Vol.20）が、オリオスペックに入荷しています。オールフルカラー（32ページ）で、価格は1,320円。
@@ -5259,23 +5550,6 @@ Appleが2026年秋の スペシャルイベント を正式に発表 した。�
 今年のタグラインは、英語で 「Surprise and shine.」 。日本語版は 「おはよう世界。」 となっている。
 
 招待状のビジュアルは、App…</p><p><img src="https://gori.me/uploads/2026/08/Surprise-and-Shine-Good-Morning-World-Apple-Sep-2026-event-01-541x800.jpg" alt="新型iPhoneの発表イベント、9月9日開催。新CEOの初舞台、折りたたみの初披露に期待"></p>]]></description><source url="https://gori.me/apple/special-event/169376">gori.me</source><media:content url="https://gori.me/uploads/2026/08/Surprise-and-Shine-Good-Morning-World-Apple-Sep-2026-event-01-541x800.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/08/Surprise-and-Shine-Good-Morning-World-Apple-Sep-2026-event-01-541x800.jpg"/></item>
-<item><title>【Mac Info】無料でここまで！OCRもAIも使えるMacクリップボード管理「Clippy」</title><link>https://pc.watch.impress.co.jp/docs/column/macinfo/2135871.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/column/macinfo/2135871.html</guid><pubDate>Wed, 26 Aug 2026 21:00:00 +0000</pubDate><description><![CDATA[<p>【Mac Info】無料でここまで！OCRもAIも使えるMacクリップボード管理「Clippy」
-
-数あるMac向けクリップボードマネージャーの中でも、完成度の高さで頭1つ抜けているのが「Clippy」です。無料とは思えないほど多彩な機能を備えたアプリで、有料アプリに匹敵する使い勝手を実現しています。ここでは、Clippyの導入から基本的な使い方、便利な活用方法まで紹介します。
-
-無料でここまで！OCRもAIも使えるMacクリップボード管理「Clippy」
-
-数あるMac向けクリップボードマネージャーの中でも、完成度の高さで頭1つ抜けているのが「Clippy」です。無料とは思えないほど多彩な機能を備えたアプリで、有料アプリに匹敵する使い勝手を実現しています。ここでは、Clippyの導入から基本的な使い方、便利な活用方法まで紹介します。
-
-macOS Tahoe 26では、Spotlightからクリップボードの履歴を検索し、過去にコピーした内容を再利用できるようになりました。
-
-標準機能として搭載されたのは便利ですが、専用のクリップボードマネージャーと比べると、物足りなく感じる人もいるでしょう。
-
-そこでおすすめしたいのが、2025年11月にオープンソースソフトウェアとしてGitHubで公開された「Clippy」です。
-
-その最大の特徴は、無料でありながら非常に多機能なこと。クリップボードの履歴を管理するだけでなく、画像内のテキストを自動で読み取るOCR機能や、よく使う定型文を呼び出せるスニペット機能、AIを使った要約・翻訳機能など、現代のMacユーザが求める機能をふんだんに盛り込んでいます。
-
-インストールは、GitHubのページから最新のDMGファイルをダウンロードし、中にある「Clippy」を[アプリケーション]フォルダへドラッグ&amp;ドロップするだけです(対応OSはmac…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2135/871/image00.png" alt="【Mac Info】無料でここまで！OCRもAIも使えるMacクリップボード管理「Clippy」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/column/macinfo/2135871.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2135/871/image00.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2135/871/image00.png"/></item>
 <item><title>【プレゼントコーナー】PC Watch創刊30周年特別プレゼント企画【ASUS ROG生誕20周年記念マザー「ROG Crosshair 2006」】 - PC Watch</title><link>https://pc.watch.impress.co.jp/docs/topic/present/2135924.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/topic/present/2135924.html</guid><pubDate>Wed, 26 Aug 2026 21:00:00 +0000</pubDate><description><![CDATA[<p>【プレゼントコーナー】PC Watch創刊30周年特別プレゼント企画【ASUS ROG生誕20周年記念マザー「ROG Crosshair 2006」】 - PC Watch
 
 おかげさまでPC Watchは創刊から30周年を迎えることができました。これもひとえに読者の皆様、ならびにメーカー各社様からのご支援の賜物です。
@@ -5297,6 +5571,23 @@ ROG Crosshair 2006は、初代ROGマザーボードの誕生20周年を記念し
 応募は、 ASUS Japanの公式X(旧Twitter)アカウントをフォロー の上、下記のフォームから申し込みを行なってください。
 
 応募方法 :上記の条件を満たした上で、下記リンクの応募フォームに必要事項を入力して送信してください 応募締切 : 2026年9月2日(水) 12:00まで</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2135/924/1.jpg" alt="【プレゼントコーナー】PC Watch創刊30周年特別プレゼント企画【ASUS ROG生誕20周年記念マザー「ROG Crosshair 2006」】 - PC Watch"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/topic/present/2135924.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2135/924/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2135/924/1.jpg"/></item>
+<item><title>【Mac Info】無料でここまで！OCRもAIも使えるMacクリップボード管理「Clippy」</title><link>https://pc.watch.impress.co.jp/docs/column/macinfo/2135871.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/column/macinfo/2135871.html</guid><pubDate>Wed, 26 Aug 2026 21:00:00 +0000</pubDate><description><![CDATA[<p>【Mac Info】無料でここまで！OCRもAIも使えるMacクリップボード管理「Clippy」
+
+数あるMac向けクリップボードマネージャーの中でも、完成度の高さで頭1つ抜けているのが「Clippy」です。無料とは思えないほど多彩な機能を備えたアプリで、有料アプリに匹敵する使い勝手を実現しています。ここでは、Clippyの導入から基本的な使い方、便利な活用方法まで紹介します。
+
+無料でここまで！OCRもAIも使えるMacクリップボード管理「Clippy」
+
+数あるMac向けクリップボードマネージャーの中でも、完成度の高さで頭1つ抜けているのが「Clippy」です。無料とは思えないほど多彩な機能を備えたアプリで、有料アプリに匹敵する使い勝手を実現しています。ここでは、Clippyの導入から基本的な使い方、便利な活用方法まで紹介します。
+
+macOS Tahoe 26では、Spotlightからクリップボードの履歴を検索し、過去にコピーした内容を再利用できるようになりました。
+
+標準機能として搭載されたのは便利ですが、専用のクリップボードマネージャーと比べると、物足りなく感じる人もいるでしょう。
+
+そこでおすすめしたいのが、2025年11月にオープンソースソフトウェアとしてGitHubで公開された「Clippy」です。
+
+その最大の特徴は、無料でありながら非常に多機能なこと。クリップボードの履歴を管理するだけでなく、画像内のテキストを自動で読み取るOCR機能や、よく使う定型文を呼び出せるスニペット機能、AIを使った要約・翻訳機能など、現代のMacユーザが求める機能をふんだんに盛り込んでいます。
+
+インストールは、GitHubのページから最新のDMGファイルをダウンロードし、中にある「Clippy」を[アプリケーション]フォルダへドラッグ&amp;ドロップするだけです(対応OSはmac…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2135/871/image00.png" alt="【Mac Info】無料でここまで！OCRもAIも使えるMacクリップボード管理「Clippy」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/column/macinfo/2135871.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2135/871/image00.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2135/871/image00.png"/></item>
 <item><title>Apple新製品イベントは9月10日〜iPhone18 ProやUltra発表へ</title><link>https://iphone-mania.jp/apple-604948/</link><guid isPermaLink="true">https://iphone-mania.jp/apple-604948/</guid><pubDate>Wed, 26 Aug 2026 19:06:35 +0000</pubDate><description><![CDATA[<p>Apple新製品イベントは9月10日〜iPhone18 ProやUltra発表へ
 
 Appleは、現地時間2026年9月9日（水）午前10時から、新製品発表イベント「Surprise and shine.」を開催すると発表しました。
@@ -7119,21 +7410,6 @@ CPUは、2基のスーパーコア、4基の高性能コア、6基の高効率�
 機種変更では、ソフトバンク認定中古品のiPhone 14 128GBが一括3万4560円。Galaxy A25 5Gが9月1日午前9時59分まで一括1万9800円です。
 
 また、SIM単体契約でも特典を進呈。他社からの乗り換えでシンプル3 S、M、Lのいずれかとデータ増量オプションに加入すると、期間限定でPayPayポイントコード1万5000円相当を受け取れます。期間は8月25日午前10時から9月30日午後11時59分まで。こちらも他社からの乗り換えのみ。加えて、過去に対象のオンラインストアキャンペーンを適用された場合など対象外となる条件があります。</p><p><img src="https://smhn.info/wp-content/uploads/2026/08/20260826_000001.webp" alt="ワイモバイルでiPhone 16eやOPPO Reno15 AがMNP特価。"></p>]]></description><source url="https://smhn.info/202608-ymobile-sale-46">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/08/20260826_000001.webp" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/08/20260826_000001.webp"/></item>
-<item><title>「POWERED BY MSI」認証の小型ゲーミングPC「Thunder」を試す。10コアCPUとGeForce RTX 5060 Ti搭載で価格と性能のバランスが光る1台[Sponsored]</title><link>https://akiba-pc.watch.impress.co.jp/docs/topic/special/2133799.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/topic/special/2133799.html</guid><pubDate>Tue, 25 Aug 2026 15:00:00 +0000</pubDate><description><![CDATA[<p>「POWERED BY MSI」認証の小型ゲーミングPC「Thunder」を試す。10コアCPUとGeForce RTX 5060 Ti搭載で価格と性能のバランスが光る1台[Sponsored]
-
-PCパーツの価格上昇が続く中、ゲーミングPC選びでは「どこまで性能を求め、どこで価格との折り合いを付けるか」が以前にも増して重要になっている。そうした中で注目したいのが、ビックカメラでの取り扱いがスタートしたゲーミングBTO PCブランド「Thunder」の「TND-PBM-14I5-5060TI-003JP」だ。
-
-「POWERED BY MSI」認証の小型ゲーミングPC「Thunder」を試す。10コアCPUとGeForce RTX 5060 Ti搭載で価格と性能のバランスが光る1台
-
-DDR4採用の構成でコストを抑えつつ十分なパフォーマンスを確保 text by 芹澤 正芳
-
-PCパーツの価格上昇が続く中、ゲーミングPC選びでは「どこまで性能を求め、どこで価格との折り合いを付けるか」が以前にも増して重要になっている。そうした中で注目したいのが、ビックカメラでの取り扱いがスタートしたゲーミングBTO PCブランド「Thunder」の「TND-PBM-14I5-5060TI-003JP」だ。
-
-価格を抑えつつ、フルHDからWQHDゲーミングまで狙える性能を備え、主要パーツにMSI製品を採用した「POWERED BY MSI」認証モデルとして安心感が高いのもポイント。早速実ゲームでの性能評価や動作音、冷却性能を含めたレビューをお届けしよう。
-
-8GB版RTX 5060 TiとCore i5-14400Fという手堅い組み合わせ
-
-Thunderは、インターコネクトが展開するBTO PCブランドで、ビックカメラ各店(6月末の開始時点では池袋カメラ・パソコン館、有楽町店、AKIBAなど…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2133/799/top.jpg" alt="「POWERED BY MSI」認証の小型ゲーミングPC「Thunder」を試す。10コアCPUとGeForce RTX 5060 Ti搭載で価格と性能のバランスが光る1台[Sponsored]"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/topic/special/2133799.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2133/799/top.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2133/799/top.jpg"/></item>
 <item><title>NVIDIA、推論性能を2倍に高めた小型エッジAIボード「Jetson Orin Nano 2」</title><link>https://www.gdm.or.jp/pressrelease/2026/0826/649528</link><guid isPermaLink="true">https://www.gdm.or.jp/pressrelease/2026/0826/649528</guid><pubDate>Tue, 25 Aug 2026 15:00:00 +0000</pubDate><description><![CDATA[<p>NVIDIA、推論性能を2倍に高めた小型エッジAIボード「Jetson Orin Nano 2」
 
 NVIDIAは、前世代比で最大2倍の推論性能を実現した小型エッジAIボード「Jetson Orin Nano 2」を発表。78TOPSのAmpere GPUや8GB LPDDR5Xメモリを搭載し、2027年上半期に発売する。
@@ -7152,6 +7428,21 @@ NVIDIA（本社：アメリカ）は2026年8月25日（現地時間）、エン�
 
 文： 編集部 池西 樹 NVIDIA： https://www.nvidia.com/
 …</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/08/25/jetson-Orin-Nano-2_01.jpg" alt="NVIDIA、推論性能を2倍に高めた小型エッジAIボード「Jetson Orin Nano 2」"></p>]]></description><source url="https://www.gdm.or.jp/pressrelease/2026/0826/649528">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/08/25/jetson-Orin-Nano-2_01.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/08/25/jetson-Orin-Nano-2_01.jpg"/></item>
+<item><title>「POWERED BY MSI」認証の小型ゲーミングPC「Thunder」を試す。10コアCPUとGeForce RTX 5060 Ti搭載で価格と性能のバランスが光る1台[Sponsored]</title><link>https://akiba-pc.watch.impress.co.jp/docs/topic/special/2133799.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/topic/special/2133799.html</guid><pubDate>Tue, 25 Aug 2026 15:00:00 +0000</pubDate><description><![CDATA[<p>「POWERED BY MSI」認証の小型ゲーミングPC「Thunder」を試す。10コアCPUとGeForce RTX 5060 Ti搭載で価格と性能のバランスが光る1台[Sponsored]
+
+PCパーツの価格上昇が続く中、ゲーミングPC選びでは「どこまで性能を求め、どこで価格との折り合いを付けるか」が以前にも増して重要になっている。そうした中で注目したいのが、ビックカメラでの取り扱いがスタートしたゲーミングBTO PCブランド「Thunder」の「TND-PBM-14I5-5060TI-003JP」だ。
+
+「POWERED BY MSI」認証の小型ゲーミングPC「Thunder」を試す。10コアCPUとGeForce RTX 5060 Ti搭載で価格と性能のバランスが光る1台
+
+DDR4採用の構成でコストを抑えつつ十分なパフォーマンスを確保 text by 芹澤 正芳
+
+PCパーツの価格上昇が続く中、ゲーミングPC選びでは「どこまで性能を求め、どこで価格との折り合いを付けるか」が以前にも増して重要になっている。そうした中で注目したいのが、ビックカメラでの取り扱いがスタートしたゲーミングBTO PCブランド「Thunder」の「TND-PBM-14I5-5060TI-003JP」だ。
+
+価格を抑えつつ、フルHDからWQHDゲーミングまで狙える性能を備え、主要パーツにMSI製品を採用した「POWERED BY MSI」認証モデルとして安心感が高いのもポイント。早速実ゲームでの性能評価や動作音、冷却性能を含めたレビューをお届けしよう。
+
+8GB版RTX 5060 TiとCore i5-14400Fという手堅い組み合わせ
+
+Thunderは、インターコネクトが展開するBTO PCブランドで、ビックカメラ各店(6月末の開始時点では池袋カメラ・パソコン館、有楽町店、AKIBAなど…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2133/799/top.jpg" alt="「POWERED BY MSI」認証の小型ゲーミングPC「Thunder」を試す。10コアCPUとGeForce RTX 5060 Ti搭載で価格と性能のバランスが光る1台[Sponsored]"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/topic/special/2133799.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2133/799/top.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2133/799/top.jpg"/></item>
 <item><title>Hot Chips 2026で“Crescent Island”の詳細が紹介される</title><link>https://northwood.blog.fc2.com/blog-entry-13190.html</link><guid isPermaLink="true">https://northwood.blog.fc2.com/blog-entry-13190.html</guid><pubDate>Tue, 25 Aug 2026 14:47:26 +0000</pubDate><description><![CDATA[<p>Hot Chips 2026で“Crescent Island”の詳細が紹介される
 
 北森瓦版 - Northwood Blog (Author : 北森八雲. Since July 10, 2006.)
@@ -8417,257 +8708,4 @@ Intel Corporation（本社：アメリカ カリフォルニア州）は2026年8
 「Crescent Island」 は、「リアルタイムAI推論の経済性を根本から変革する」と謳う、低消費電力かつ導入が容易なデータセンター向けGPU。Xe3Pをベースとした32個のXeコアと256個のXMXエンジンによる、強力な演算能力を特徴とする。また、最大480GBの大容量LPDDR5Xメモリを備え、350Wの空冷グラフィックスカードとしてリリースされる予定。
 
 「Wildcat Lake」 と呼称されるIntel Core Series 3プロセッサは、コストパフォーマンス重視のノートPCやエッジ端末などに対し、最適な規模のAI機能を提供するとされるSoC。Intel 18Aプロセス…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/08/25/Diamond_Rapids_01.jpg" alt="Intel、次世代Xeon「Diamond Rapids」などエージェントAI向け新アーキテクチャを発表"></p>]]></description><source url="https://www.gdm.or.jp/pressrelease/2026/0825/649410">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/08/25/Diamond_Rapids_01.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/08/25/Diamond_Rapids_01.jpg"/></item>
-<item><title>マイナアプリ、本日提供開始。アプリ2つの使い分けが終了</title><link>https://gori.me/it/169300</link><guid isPermaLink="true">https://gori.me/it/169300</guid><pubDate>Tue, 25 Aug 2026 01:54:40 +0000</pubDate><description><![CDATA[<p>マイナアプリ、本日提供開始。アプリ2つの使い分けが終了
-
-デジタル庁が8月25日、マイナポータルアプリとデジタル認証アプリを統合した「マイナアプリ」の提供を開始した。これまで場面ごとに2つを使い分ける必要があった本人確認が1つで完結する。既存ユーザーはアップデートするだけで移行完了。アイコンは水色からピンクに変わった。
-
-マイナポータルアプリをアップデートするだけ、新規ダウンロードは不要
-
-デジタル庁が8月25日、マイナポータルアプリとデジタル認証アプリを統合した「マイナアプリ」の提供を開始
-
-既存ユーザーはアップデートするだけで移行完了、新しいアプリのダウンロードは不要。アイコンは水色からピンク系に変更
-
-iPhoneのマイナンバーカードでの認証・署名にも対応。事業者側はAPI互換性が維持され改修不要
-
-マイナンバーカードを使った本人確認が、アプリ1つで完結するようになった。デジタル庁は8月25日、 「マイナポータルアプリ」と「デジタル認証アプリ」の機能を統合した「マイナアプリ」の提供を開始 した。
-
-提供開始は予告どおり8月25日。App Storeでは既存の「マイナポータルアプリ」がそのまま名称変更と アップデート という形で切り替わっており、新しいアプリを探してダウンロードする必要はない。
-
-これまでマイナンバーカードを使う手続きでは、 場面によって「マイナポータルアプリ」と「デジタル認証アプリ」を使い分ける必要があった 。行政の申請はマイナポータルアプリ、民間サービスのログインや本人確認はデジタル認証アプリ、という具合だ。
-
-正直、この分かりにくさが一番の壁だったと思う。どちらを開けばいいのか分からず、両方インストールしたままホーム画面で迷った経験がある人も多いはずだ。
-
-マイナアプリへの統合で、この使い分けが不要になる 。1つのアプリでマイナンバーカードの本人確…</p><p><img src="https://gori.me/uploads/2026/01/New-Maina-App-coming-summer2026-800x800.jpeg" alt="マイナアプリ、本日提供開始。アプリ2つの使い分けが終了"></p>]]></description><source url="https://gori.me/it/169300">gori.me</source><media:content url="https://gori.me/uploads/2026/01/New-Maina-App-coming-summer2026-800x800.jpeg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/01/New-Maina-App-coming-summer2026-800x800.jpeg"/></item>
-<item><title>ASRock、デジタル表示とARGBに対応するAIO水冷「Rock」計8製品</title><link>https://www.gdm.or.jp/pressrelease/2026/0825/649412</link><guid isPermaLink="true">https://www.gdm.or.jp/pressrelease/2026/0825/649412</guid><pubDate>Tue, 25 Aug 2026 01:39:46 +0000</pubDate><description><![CDATA[<p>ASRock、デジタル表示とARGBに対応するAIO水冷「Rock」計8製品
-
-ASRock、CPU温度を表示できるDigitalモデルとARGBモデルを揃えたAIO水冷「Rock」シリーズ計8製品を発表。240mmと360mmの2サイズ、ブラックとホワイトの2色をラインナップする。
-
-ASRock、デジタル表示とARGBに対応するAIO水冷「Rock」計8製品
-
-ASRock Incorporation（本社：台湾）は2026年8月24日（現地時間）、エントリークラスのオールインワン型水冷ユニット 「Rock」シリーズ 計8製品を発表した。
-
-ラインナップは、CPU温度をリアルタイム表示できる1.05インチディスプレイ搭載の 「Digital」 と、ディスプレイ非搭載の 「ARGB」 の2タイプ。それぞれに360mmおよび240mmラジエーターモデルと、ブラック、ホワイトの2色が用意される。
-
-ポンプユニットには最大揚程1.57m、最大流量1.46L/minで、3相6スロット4極モーターを採用。高密度マイクロフィン構造の銅製ベースプレートに加え、クーラントを複数方向からCPUのホットスポットへ送り込むデュアルサイドインレット構造により、効率的な冷却を可能にした。
-
-また、冷却ファンには複数のファンを1本のケーブルで接続できる一体型フレームを採用。低負荷時にファンの回転を停止する「0dB Silent Cooling Technology」にも対応する。
-
-ポンプ回転数は1,200～3,200rpm（±10％）、ファン回転数は0～1,850rpm（±10％）。最大風量は52.4CFM、最大静圧は1.7mmH2O、最大ノイズレベルは30.7dBA。ウォーターブロックの外形寸法は幅68mm、奥行き68mm、高さ56.7mmで、チューブ長は400mm。
-
-対応ソケットはAMD Socket AM5 / AM4、Intel LGA1851 / LGA1700。製品保証は6年間。
-
-文： 編集部 池西 樹 ASRock Incorporation： https://asrock.…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/08/25/Rock_360_Digital_01.jpg" alt="ASRock、デジタル表示とARGBに対応するAIO水冷「Rock」計8製品"></p>]]></description><source url="https://www.gdm.or.jp/pressrelease/2026/0825/649412">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/08/25/Rock_360_Digital_01.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/08/25/Rock_360_Digital_01.jpg"/></item>
-<item><title>iOS 27やmacOS 27などのBeta 7が一斉配信。正式版まであと数週間</title><link>https://gori.me/ios/ios-news/169299</link><guid isPermaLink="true">https://gori.me/ios/ios-news/169299</guid><pubDate>Tue, 25 Aug 2026 01:30:47 +0000</pubDate><description><![CDATA[<p>iOS 27やmacOS 27などのBeta 7が一斉配信。正式版まであと数週間
-
-Appleが開発者向けにiOS 27、iPadOS 27、macOS 27 Golden Gate、watchOS 27、tvOS 27、visionOS 27のベータ7を一斉配信し、同じビルド番号のパブリックベータも公開された。パブリックベータとしては5回目。目立つ新機能はなく、数週間後の正式リリースに向けたバグ修正と安定性の改善が中心となっている。
-
-クイック iOS 27やmacOS 27などのBeta 7が一斉配信。正式版まであと数週間
-
-Public Betaも同じビルドで公開され、内容はバグ修正と安定性の改善が中心
-
-iOS 27、iPadOS 27、macOS 27 Golden Gate、watchOS 27、tvOS 27、visionOS 27のベータ7が同日配信
-
-パブリックベータも同じビルド番号で公開され、こちらは5回目の配信。HomePod 27も対象
-
-新機能の追加はなく、数週間後の正式リリースに向けたバグ修正と安定性の改善が中心
-
-Appleが iOS 27 と iPadOS 27 の開発者向けベータ7 を配信し、同日に macOS 27 Golden Gate、 watchOS 27 、tvOS 27、 visionOS 2 7のベータ7も揃って登場した。いずれも前回のベータ6から1週間後の配信で、 対応するパブリックベータ も同じビルド番号で公開されている。
-
-ビルド番号は iOS 27 ／ iPadOS 27 が24A5424a、 macOS 27 Golden Gateが26A5421a、tvOS 27が24J5358a、 visionOS 2 7が24 M5 359a、 watchOS 27 が24R5358a。パブリックベータとしては5回目の配信で、 HomePod 27も対象に含まれる。
-
-今回は目立つ新機能の追加はなく、数週間後に控える正式リリースへ向けたバグ修正と安定性の改善が中心とのこと。 iOS 27 の目玉はChatGPTのようなチャ…</p><p><img src="https://gori.me/uploads/2026/06/WWDC26-OS-Keynote-Presentation-Photos-738-800x534.jpg" alt="iOS 27やmacOS 27などのBeta 7が一斉配信。正式版まであと数週間"></p>]]></description><source url="https://gori.me/ios/ios-news/169299">gori.me</source><media:content url="https://gori.me/uploads/2026/06/WWDC26-OS-Keynote-Presentation-Photos-738-800x534.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/06/WWDC26-OS-Keynote-Presentation-Photos-738-800x534.jpg"/></item>
-<item><title>iPad整備済製品に17モデル追加、iPad mini 6が7万円台に。値上げしたから旧モデルがすごくお得に見える…</title><link>https://gori.me/sale/apple-refurbished/169298</link><guid isPermaLink="true">https://gori.me/sale/apple-refurbished/169298</guid><pubDate>Tue, 25 Aug 2026 01:15:21 +0000</pubDate><description><![CDATA[<p>iPad整備済製品に17モデル追加、iPad mini 6が7万円台に。値上げしたから旧モデルがすごくお得に見える…
-
-Apple公式のiPad整備済製品に17モデルが追加され、合計68モデルが選べる状態に。iPad mini 6が70,800円、iPad（A16）が62,800円から。11インチiPad Air（M2）は43,000円引きの33%オフ。1年保証付きで狙うべきモデルを価格表で整理した。
-
-iPad整備済製品に17モデル追加、iPad mini 6が7万円台に。値上げしたから旧モデルがすごくお得に見える…
-
-現在68モデルが購入可能。iPad（A16）は最安62,800円、11インチiPad Air（M2）は129,800円→86,800円の33%オフ
-
-2026年8月25日、iPad整備済製品に17モデルが新たに追加され、購入可能なモデルは合計68モデルになった
-
-目玉はiPad mini 6の70,800円（82,800円から14%OFF）とiPad（A16）Wi-Fi 128GBの62,800円（74,800円から16%OFF）
-
-割引率トップは11インチiPad Air（M2）で、128GBが86,800円・256GBが98,800円といずれも33%OFF
-
-Apple公式サイトの iPad 整備済製品に、大量の製品が追加された。合計17モデルが新たに登場し、現在68モデルが購入可能だ。
-
-本日の目玉は、 7万円台で買えるiPad mini 6 や最安6.2万円から購入できる iPad（A16) 。他にも M3 iPad Airの11インチ や 13インチモデル の在庫が復活しており、お買い得！型落ちでも、やりたいこと・理想の使い方次第では問題なし！この機会にチェックするべし！
-
-Apple整備済製品は、初期不良などで返品された製品をAppleが再整備…</p><p><img src="https://gori.me/uploads/2026/08/iPad-Refurbished-model-2026-08-25-800x629.jpg" alt="iPad整備済製品に17モデル追加、iPad mini 6が7万円台に。値上げしたから旧モデルがすごくお得に見える…"></p>]]></description><source url="https://gori.me/sale/apple-refurbished/169298">gori.me</source><media:content url="https://gori.me/uploads/2026/08/iPad-Refurbished-model-2026-08-25-800x629.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/08/iPad-Refurbished-model-2026-08-25-800x629.jpg"/></item>
-<item><title>“打鍵感・打鍵音”の鍵はスイッチにあらず。キーボードの素材と構造の基礎知識 これからキーボードを買うなら知っておきたい“今どきのキーボード”の選び方【第3回】</title><link>https://akiba-pc.watch.impress.co.jp/docs/sp/2134301.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/sp/2134301.html</guid><pubDate>Tue, 25 Aug 2026 01:00:00 +0000</pubDate><description><![CDATA[<p>“打鍵感・打鍵音”の鍵はスイッチにあらず。キーボードの素材と構造の基礎知識 これからキーボードを買うなら知っておきたい“今どきのキーボード”の選び方【第3回】
-
-“今どきのキーボード”の選び方を整理していく本企画。第2回目となる前回は、キースイッチの違いについて紹介しました。
-
-“打鍵感・打鍵音”の鍵はスイッチにあらず。キーボードの素材と構造の基礎知識
-
-これからキーボードを買うなら知っておきたい“今どきのキーボード”の選び方【第3回】
-
-“今どきのキーボード”の選び方を整理していく本企画。 第2回目となる前回 は、キースイッチの違いについて紹介しました。
-
-キーボードの打鍵感を左右する要素としては、キースイッチ自体の押し心地だけでなく、「キーが底を打った衝撃をキーボードが受け止める感覚」も重要な要素です。第3回となる今回は、本体構造やケースについてご紹介します。
-
-【第1回】キーボードの違いは⼤きさ︖⽇本語配列か英語配列で選ぶだけ︖まだまだある豊富なキーレイアウトたち
-
-【第2回】赤・茶・青の違いだけじゃない。多種多様なキーボードスイッチの世界
-
-カスタムキーボードにおける打鍵感は、底打ち時の指に返ってくる反発の質を指しており、“硬い”か“柔らかい”かで表現されるのが一般的です。
-
-打鍵音は大別すると2種で、ピッチが高く硬質な打鍵音は、英語圏では“Clack”と呼ばれる“カチカチ”という打鍵音、ピッチが低くソフトな打鍵音は、英語圏では“Thock”と呼ばれる“コトコト”という打鍵音を指します。
-
-打鍵感と打鍵音はある程度相関しており、基本的に硬い打ち心地はClackyな打鍵音、柔らかい打ち心地はThockyな打鍵音となります。
-
-カスタムキーボードでは、一時Thockyな打鍵音がトレンドとなっていましたが、現在は好みに応じてClackyな打鍵音に調整するという愛好家も増え…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2134/301/DSC08657.jpg" alt="“打鍵感・打鍵音”の鍵はスイッチにあらず。キーボードの素材と構造の基礎知識 これからキーボードを買うなら知っておきたい“今どきのキーボード”の選び方【第3回】"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/sp/2134301.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2134/301/DSC08657.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2134/301/DSC08657.jpg"/></item>
-<item><title>【本日みつけたお買い得品】約634gと超軽量な富士通モバイルノートが3万5千円オフ</title><link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2135218.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/todays_sales/2135218.html</guid><pubDate>Tue, 25 Aug 2026 00:48:24 +0000</pubDate><description><![CDATA[<p>【本日みつけたお買い得品】約634gと超軽量な富士通モバイルノートが3万5千円オフ
-
-Amazonにおいて、14型ノートPCの富士通(FCCL)「FMV Note U WU5-K3」が8月18日の価格から3万5,000円引きで、27万5,200円にて購入できる。
-
-Amazonにおいて、14型ノートPCの富士通(FCCL)「FMV Note U WU5-K3」が8月18日の価格から3万5,000円引きで、27万5,200円にて購入できる。
-
-FMV Note U WU5-K3は、14型として世界最軽量をうたう、約634gのモバイルノートPCだ。本体にはカーボン素材を使用し、軽さと堅牢性を両立したとする。主な仕様は、ディスプレイが14型液晶(1,920×1,200ドット)、CPUがCore Ultra 7 255U、メモリが32GB LPDDR5X、ストレージが512GB SSD、OSがWindows 11 Home。Microsoft Office Home &amp; Business 2024をバンドルする。
-
-インターフェイスは、USB 3.2 Gen 2x2 Type-C 2基(映像出力およびUSB PDに対応)、USB 3.2 Gen 1 2基、HDMI、Gigabit Ethernet、Wi-Fi 7、Bluetooth 5.4、microSDカードスロット、音声入出力など。
-
-富士通(FCCL) FMV Note U WU5-K3 (AZ_WU5K3_Z1052)
-
-HP「Pavilion Aero 13-bg」は、直近価格から4万8,000円引きにより、13万9,800円で購入可能。ディスプレイに13.3型液晶(1,920×1,200ドット)、CPUにRyzen 5 8640U、メモリに16GB LPDDR5X、ストレージに512GB SSD、OSにWindows 11 Homeを備える。Microsoft Office Home &amp; Business 2024付属。重さ約990gと軽量。
-
-HP Pavilion Aero 13-bg (A17X7PA-ABQ…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2135/218/01.jpg" alt="【本日みつけたお買い得品】約634gと超軽量な富士通モバイルノートが3万5千円オフ"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/todays_sales/2135218.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2135/218/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2135/218/01.jpg"/></item>
-<item><title>【本日みつけたお買い得品】32GBメモリ/1TB SSDのCore Ultra 7 356H搭載ミニPCが約1万円オフ</title><link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2135210.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/todays_sales/2135210.html</guid><pubDate>Tue, 25 Aug 2026 00:31:32 +0000</pubDate><description><![CDATA[<p>【本日みつけたお買い得品】32GBメモリ/1TB SSDのCore Ultra 7 356H搭載ミニPCが約1万円オフ
-
-Amazonにおいて、GEEKOMのミニPC「IT13」が直近価格から1万1円引きで、18万9,989円にて購入可能となっている。
-
-32GBメモリ/1TB SSDのCore Ultra 7 356H搭載ミニPCが約1万円オフ
-
-Amazonにおいて、GEEKOMのミニPC「IT13」が直近価格から1万1円引きで、18万9,989円にて購入可能となっている。
-
-IT13は、CPUにCore Ultra 7 356H、メモリに32GB DDR5、ストレージに1TB SSD、OSにWindows 11を搭載するミニPCだ。筐体には耐衝撃性能を向上するメタルフレームを装備。安定した無線通信を実現するという3DステレオWi-Fiアンテナを備える。空きのM.2 2230スロットが1基あり、SATA接続のSSDを増設可能。また、最大4台のモニターへの同時出力に対応する。
-
-インターフェイスとして、USB4 2基、USB 3.2 Gen 2 4基、HDMI 2.1 2基、2.5Gigabit Ethernet、Wi-Fi 7、Bluetooth 5.4、SDカードスロット、音声入出力などを装備する。
-
-GEEKOM「A8」は、8月18日の価格から2万5,000円引きにより、9万4,900円で購入できる。CPUにRyzen 7 8745HS、メモリに16GB DDR5、ストレージに1TB SSD、OSにWindows 11 Proを搭載する。
-
-GEEKOM「Air12」は、8月18日の価格から1万4,901円引きで、5万9,999円にて購入可能。CPUにPentium Gold 7505、メモリに16GB DDR4、ストレージに512GB SSD、OSにWindows 11 Proを備える。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2135/210/01.jpg" alt="【本日みつけたお買い得品】32GBメモリ/1TB SSDのCore Ultra 7 356H搭載ミニPCが約1万円オフ"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/todays_sales/2135210.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2135/210/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2135/210/01.jpg"/></item>
-<item><title>MelGeekの8Kポーリング対応ゲーミングマウス「HORUS」が登場、古代守護神をイメージ</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2133916.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2133916.html</guid><pubDate>Tue, 25 Aug 2026 00:05:00 +0000</pubDate><description><![CDATA[<p>MelGeekの8Kポーリング対応ゲーミングマウス「HORUS」が登場、古代守護神をイメージ
-
-MelGeekのゲーミングマウス「HORUS」が登場した。
-
-MelGeekの8Kポーリング対応ゲーミングマウス「HORUS」が登場、古代守護神をイメージ
-
-底面シェルにホルスとバステトの紋章をモチーフにした肉抜きデザインを採用
-
-HORUSは、有線/無線接続に対応した軽量ゲーミングマウス。両接続ともに8Kポーリングレートをサポートする。
-
-底面シェルにはホルスとバステトの紋章をモチーフにした肉抜きデザインを採用。精密さを象徴する「ホルスの目」と保護を象徴する「バステトの魂」という、古代の守護神2柱の精神を体現しているとする。
-
-光学センサーにはPixArt PAW3950を採用。最大30,000DPIの読み取り解像度と50Gの加速度、750IPSの速度に対応する。ボタンスイッチはTTC製光学スイッチで、ホイールエンコーダーはTTC Green Dragon。
-
-MCUにはNordic NRF54Lを採用するほか、独自の「NullSyncワイヤレステクノロジー」とスタック型垂直アンテナにより、低消費電力で低遅延かつ安定した無線接続をうたう。
-
-付属の8Kレシーバーは、ルーブル美術館のピラミッドに着想を得た半透明の幾何学デザインを採用。イルミネーション機能も備える。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2133/916/s1.jpg" alt="MelGeekの8Kポーリング対応ゲーミングマウス「HORUS」が登場、古代守護神をイメージ"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2133916.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2133/916/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2133/916/s1.jpg"/></item>
-<item><title>ThinkPad E14のRyzen 7モデル2種類が15万円前後で販売中</title><link>https://komameblog.jp/sale/20260822-thinkpad-e14/</link><guid isPermaLink="true">https://komameblog.jp/sale/20260822-thinkpad-e14/</guid><pubDate>Mon, 24 Aug 2026 23:29:09 +0000</pubDate><description><![CDATA[<p>ThinkPad E14のRyzen 7モデル2種類が15万円前後で販売中
-
-レノボ公式サイトにて、ThinkPad E14のRyzen 7モデル2種類が、15万円前後で販売されています。Ryzen 7＋16GBメモリーの組み合わせのThinkPadとしては、比較的リーズナブルです。Ryzen 7搭載ノートPCにはも...
-
-レノボ公式サイトにて、ThinkPad E14のRyzen 7モデル2種類が、15万円前後で販売されています。Ryzen 7＋16GBメモリーの組み合わせのThinkPadとしては、比較的リーズナブルです。
-
-Ryzen AI 7 345 / 16GB / 512GBで14万9930円のThinkPad E14 Gen 8
-
-Ryzen 5 220からアップグレードすると、Ryzen 7 250 / 16GB / 256GBで15万2900円のThinkPad E14 Gen 7
-
-Ryzen 7搭載ノートPCにはもっと安いものもあり、たとえば12～14万円のレンジで販売されいることもあります。しかしそのような機種では同じRyzen 7であっても、世代やセグメントの違いからCPU性能がやや低め。さらに筐体がエントリー向けで、安っぽさを感じることもあるでしょう。ThinkPad E14もThinkPadシリーズのなかではエントリー向けではありますが、使いやすさやメンテナンス性の高さでは、それら格安モデルを上回ります。ThinkPadだから選びたい、という人もいるのではないでしょうか。
-
-どちらも同じThinkPad E14ですが、Gen 7とGen 8では基本スペックがちょっと異なります。そこから向いている用途も、それぞれで微妙に変わってくるでしょう。ブラウザーやオフィスを使う作業、ビデオ会議が中心であればGen 8、いくつものソフトを立ち上げてガッツリ作業するならGen 7のほうが有利です。
-
-Gen 8のRyzen AI 7 345は6コア12スレッドで、L3キャッシュ8MB。Gen 7のRyzen 7 250は8コア16スレッドで、L3キャッシ…</p><p><img src="https://komameblog.jp/wp-content/uploads/2026/08/20260822-ThinkPad-E14.jpg" alt="ThinkPad E14のRyzen 7モデル2種類が15万円前後で販売中"></p>]]></description><source url="https://komameblog.jp/sale/20260822-thinkpad-e14/">こまめブログ</source><media:content url="https://komameblog.jp/wp-content/uploads/2026/08/20260822-ThinkPad-E14.jpg" medium="image"/><media:thumbnail url="https://komameblog.jp/wp-content/uploads/2026/08/20260822-ThinkPad-E14.jpg"/></item>
-<item><title>悪の皇帝から黄金を取り戻せ！前作を超える難易度のFM-7版『チャンピオンシップロードランナー』</title><link>https://akiba-pc.watch.impress.co.jp/docs/column/retrosoft/2130098.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/column/retrosoft/2130098.html</guid><pubDate>Mon, 24 Aug 2026 23:05:00 +0000</pubDate><description><![CDATA[<p>悪の皇帝から黄金を取り戻せ！前作を超える難易度のFM-7版『チャンピオンシップロードランナー』
-
-当時の懐かしい広告とゲーム画面で、国産PCの歴史とノスタルジーに浸れる連載コーナー。今回は、『ロードランナー』では飽き足りない人向けにリリースされたともいえる、高難易度ステージを収録した『チャンピオンシップロードランナー』を取り上げました。発売年はFM-7版が1985年で、他機種版は1985年から86年と幅があります。
-
-悪の皇帝から黄金を取り戻せ！前作を超える難易度のFM-7版『チャンピオンシップロードランナー』
-
-当時の懐かしい広告とゲーム画面で、国産PCの歴史とノスタルジーに浸れる連載コーナー。今回は、『ロードランナー』では飽き足りない人向けにリリースされたともいえる、高難易度ステージを収録した『チャンピオンシップロードランナー』を取り上げました。発売年はFM-7版が1985年で、他機種版は1985年から86年と幅があります。
-
-1983年にApple II向けとして登場したアクションゲーム『 ロードランナー 』は、その面白さからあっという間に大勢のプレイヤーを虜にして、多数の国産パソコンへと移植されます。しかも、『ロードランナー』にはジェネレータ機能がついていたこともあり、それを使用してユーザーが新たに作製したステージも続々と生み出されました。それらの中から難易度の高い迷路を厳選し、新たな作品として世に送り出されたのが、今回取り上げた『チャンピオンシップロードランナー』となります。
-
-当記事で使用しているのはFM-7版なので、発売元はX1版と同じソフトプロインターナショナルですが、PC-88版やPC-98版はシステムソフトから、SMC-777版とMSX版はソニーから、それぞれリリースされていました。登場した時期もそれぞれ異なっていて、FM-7版は広告を調べたところ198…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2130/098/0.jpg" alt="悪の皇帝から黄金を取り戻せ！前作を超える難易度のFM-7版『チャンピオンシップロードランナー』"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/column/retrosoft/2130098.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2130/098/0.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2130/098/0.jpg"/></item>
-<item><title>「カメラの前に来て」Appleホームハブ用エラーメッセージが判明。顔で使う人を見分けてプロフィール切り替えか</title><link>https://gori.me/apple/apple-news/169296</link><guid isPermaLink="true">https://gori.me/apple/apple-news/169296</guid><pubDate>Mon, 24 Aug 2026 22:55:47 +0000</pubDate><description><![CDATA[<p>「カメラの前に来て」Appleホームハブ用エラーメッセージが判明。顔で使う人を見分けてプロフィール切り替えか
-
-Appleが準備中の画面付きホームハブが、カメラやセンサーで目の前にいる人を判別し、プロフィールを自動で切り替えるようだ。macOS Tahoe 26.7のコードから見つかった文字列には、本人確認に使う「ambient sensing」への言及がある。壁掛け版とスピーカー台座付きの2モデル展開も裏付けられた。
-
-「カメラの前に来て」Appleホームハブ用エラーメッセージが判明。顔で使う人を見分けてプロフィール切り替えか
-
-コード内の5つの文字列から、顔をベースにした本人確認の仕組みが読み取れる
-
-macOS Tahoe 26.7のコードから、ホームハブが複数プロフィールに対応し「ambient sensing」で本人確認する記述が見つかった
-
-カメラと人感センサーで近くにいる人を判別し、その人向けの情報を自動で表示できるようになりそうだ
-
-コードには壁掛け版への言及もあり、スピーカー台座付きモデルとの2種類展開が裏付けられた
-
-Appleが準備中とされるホーム用の新デバイスに、 家族それぞれのプロフィールを自動で切り替える仕組み が用意されるようだ。カメラやセンサーで「 いま目の前にいるのが誰か 」を見分け、その人向けの情報を表示する。
-
-MacRumors が、 macOS Tahoe 26.7のコード内から見つかった文字列をもとに報じた。同メディアは、このデバイスが複数プロフィールに対応し、本人確認のための「ambient sensing（周囲の状況を感じ取る仕組み）」を備えると伝えている。
-
-つまり、ソファに座ったのが僕なら僕のカレンダーやメッセージが、家族なら家族の情報が出てくる。共有デバイスの一番の悩みが、そのまま解決されるかもしれないという話だ。わあ、…</p><p><img src="https://gori.me/uploads/2025/06/generated-image-fo-homepad-800x572.jpg" alt="「カメラの前に来て」Appleホームハブ用エラーメッセージが判明。顔で使う人を見分けてプロフィール切り替えか"></p>]]></description><source url="https://gori.me/apple/apple-news/169296">gori.me</source><media:content url="https://gori.me/uploads/2025/06/generated-image-fo-homepad-800x572.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2025/06/generated-image-fo-homepad-800x572.jpg"/></item>
-<item><title>【西川和久の不定期コラム】小さな巨人、再び。Ryzen AI 9 HX 470+64GBメモリ搭載のミニPC、GMKtec「EVO-X1 Pro」</title><link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2135206.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/column/nishikawa/2135206.html</guid><pubDate>Mon, 24 Aug 2026 22:43:57 +0000</pubDate><description><![CDATA[<p>【西川和久の不定期コラム】小さな巨人、再び。Ryzen AI 9 HX 470+64GBメモリ搭載のミニPC、GMKtec「EVO-X1 Pro」
-
-2025年3月にGMKtec「EVO-X1」をご紹介した。ミニPCの中でもサイズが小さく、その割に高性能。筆者お気に入りの逸品だった。その後継モデルが編集部からが送られてきたので試用レポートをお届けしたい。
-
-小さな巨人、再び。Ryzen AI 9 HX 470+64GBメモリ搭載のミニPC、GMKtec「EVO-X1 Pro」
-
-2025年3月にGMKtec「EVO-X1」をご紹介した。ミニPCの中でもサイズが小さく、その割に高性能。筆者お気に入りの逸品だった。その後継モデルが編集部からが送られてきたので試用レポートをお届けしたい。
-
-冒頭にも書いたが2025年3月にGMKtec「EVO-X1」をご紹介した。コンパクトな割にUSB4/OCuLink、M.2 SSD x2、そしてLPDDR5X-7500となかなかの性能。
-
-【西川和久の不定期コラム】小さな巨人？Ryzen AI 9 HX 370+高速メモリ搭載のミニPC「GMKtec EVO-X1」
-
-今回は、この後続モデルに相当する「EVO-X1 Pro」の登場となる。多くは上記の特徴そのまま、プロセッサをRyzen AI 9 HX 470に変更したモデルだ。主な仕様は以下の通り。
-
-プロセッサはRyzen AI 9 HX 470。12コア24スレッドで、/Zen 5 4コア+Zen 5c 8コアの構成。クロックはZen 5が最大5.2GHz、Zen 5cが最大3.3GHz。キャッシュはL2 12MB/L3 24MB。TSMC 4nmプロセスで、NPUはXDNA 2を内包し最大55TOPS、CPU+GPU+NPUのシステム全体では最大86TOPSを実現。前作HX 370(シ…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2135/206/H00.jpg" alt="【西川和久の不定期コラム】小さな巨人、再び。Ryzen AI 9 HX 470+64GBメモリ搭載のミニPC、GMKtec「EVO-X1 Pro」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/column/nishikawa/2135206.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2135/206/H00.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2135/206/H00.jpg"/></item>
-<item><title>Apple、Tim Cookの送別会を開催。CEO就任15周年の前日に約200人が集結</title><link>https://gori.me/apple/apple-news/169294</link><guid isPermaLink="true">https://gori.me/apple/apple-news/169294</guid><pubDate>Mon, 24 Aug 2026 22:28:18 +0000</pubDate><description><![CDATA[<p>Apple、Tim Cookの送別会を開催。CEO就任15周年の前日に約200人が集結
-
-Appleが9月1日にCEOを退任するティム・クックの送別会を、本社キャンパス内のカフェテリア「Caffé Macs」で開いた。開催日は8月23日で、CEO就任15周年のちょうど前日。約200人が集まり、お気に入りのバンドOneRepublicが登場。クックはAppleを去らず、取締役会の会長に就く。
-
-Apple、Tim Cookの送別会を開催。CEO就任15周年の前日に約200人が集結
-
-ジョブズの妻Laurene Powell Jobs氏も登壇、締めはOneRepublic
-
-Appleが8月23日、本社キャンパス内のカフェテリア「Caffé Macs」でティム・クックの送別会を開催。約200人が参加した
-
-登壇者はローレン・パウエル・ジョブズ、元COOのジェフ・ウィリアムズ、エディ・キュー、次期CEOのジョン・ターナス。OneRepublicが演奏した
-
-クックは9月1日にexecutive chairman（取締役会の会長）へ。ターナスにとっては9月のiPhone発表イベントが初の大舞台になる
-
-Appleが、9月1日にCEOを退任する Tim Cook氏 のために送別会を開いた。会場は本社キャンパス内のカフェテリア「Caffé Macs」で、約200人が集まったという。
-
-MacRumors が、The Informationの報道をもとに伝えた。送別会が開かれたのは8月23日。その翌日の8月24日は、 Cook氏がApple CEOに就任してからちょうど15年という節目の日 だった。
-
-ステージにはOneRepublicが登場した。Cook氏が長年公言してきたお気に入りのバンドで、2015年のiPhone発表イベントにも出演している。送別会の締めに彼らを呼ぶという演出は、…</p><p><img src="https://gori.me/uploads/2026/08/Sustainability-of-Apple-Park-Rainbow-Solar-Panels-Apple2030-37-800x534.jpg" alt="Apple、Tim Cookの送別会を開催。CEO就任15周年の前日に約200人が集結"></p>]]></description><source url="https://gori.me/apple/apple-news/169294">gori.me</source><media:content url="https://gori.me/uploads/2026/08/Sustainability-of-Apple-Park-Rainbow-Solar-Panels-Apple2030-37-800x534.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/08/Sustainability-of-Apple-Park-Rainbow-Solar-Panels-Apple2030-37-800x534.jpg"/></item>
-<item><title>Core i5-1135G7+16GBメモリを搭載「dynabook B55/HS」が59,980円、パソコン工房で中古品が販売中</title><link>https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2134806.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2134806.html</guid><pubDate>Mon, 24 Aug 2026 22:00:00 +0000</pubDate><description><![CDATA[<p>Core i5-1135G7+16GBメモリを搭載「dynabook B55/HS」が59,980円、パソコン工房で中古品が販売中
-
-Core i5-1135G7(4コア/8スレッド)を搭載した15.6型ノートPC「dynabook B55/HS」の中古品が、パソコン工房の通販サイトで販売中。販売されているのは3か月保証が付いた中古品で、価格は59,980円となっています。
-
-Core i5-1135G7+16GBメモリを搭載「dynabook B55/HS」が59,980円、パソコン工房で中古品が販売中
-
-Core i5-1135G7(4コア/8スレッド)を搭載した15.6型ノートPC「dynabook B55/HS」の中古品が、 パソコン工房の通販サイト で販売中。販売されているのは3か月保証が付いた中古品で、価格は59,980円となっています。
-
-主な仕様は、ディスプレイ解像度が1,366×768ドット、メモリが16GB、ストレージが512GB SSD、OSがWindows 11 Pro。このほか、Webカメラや無線LAN機能などを搭載しています。興味がある方はチェックしてみてください。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2134/806/a1.jpg" alt="Core i5-1135G7+16GBメモリを搭載「dynabook B55/HS」が59,980円、パソコン工房で中古品が販売中"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2134806.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2134/806/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2134/806/a1.jpg"/></item>
-<item><title>iOS27などのベータ7が一斉公開〜目玉のSiri AIのテストが進む</title><link>https://iphone-mania.jp/ios-604891/</link><guid isPermaLink="true">https://iphone-mania.jp/ios-604891/</guid><pubDate>Mon, 24 Aug 2026 21:33:16 +0000</pubDate><description><![CDATA[<p>iOS27などのベータ7が一斉公開〜目玉のSiri AIのテストが進む
-
-Appleが現地時間8月24日、iOS27をはじめとする各OSの開発者向けベータ7を、前回のベータ6から約1週間で一斉に公開しました。iOS27では目玉となる新しいアシスタントSiri AIのテストも進められています。iOS27の正式版は今秋に公開される予定ですが、Siri
-
-iOS27などのベータ7が一斉公開〜目玉のSiri AIのテストが進む
-
-Appleが現地時間8月24日、iOS27をはじめとする各OSの開発者向けベータ7を、前回のベータ6から約1週間で一斉に公開しました。 iOS27では目玉となる新しいアシスタントSiri AIのテスト も進められています。iOS27の正式版は今秋に公開される予定ですが、Siri AIについてAppleは年内に英語で提供すると案内しています。
-
-Appleが今回ベータ7を公開したのは、iPhone向けのiOS27を含む次の6つのOSです。
-
-Appleの開発者向けページでは、6つのOSすべてについて8月24日付でベータ7の公開が確認できます。対応するアカウントでベータアップデートを有効にしている場合、iPhoneやiPadでは「設定」アプリの「一般」から「ソフトウェアアップデート」を開くことで入手できます。
-
-Appleは7月にも 各OSのベータ4を一斉公開 しており、iOS27の開発者向けベータは今回で 7回目 となりました。iOS27の正式版は今秋に公開予定で、例年のスケジュールを踏まえると9月に登場する可能性が高いとみられます。
-
-iOS27の大きな新機能のひとつが、 次世代のApple Intelligenceを基盤にしたSiri AI です。従来より自然な会話ができるほか、メッセージやメール、写真などに含まれる個人の文脈を理解し、画面に表示されている内容の認識や複数のアプリをまたいだ操作にも対応します。
-
-iPhoneではDynamic IslandからSiri AIとの会話を始められるほか、過去のやり取りを確認できる専用のSiriアプリも追加…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/08/25/6e9e202a200f640e6385bc4ff5b52c94.jpg" alt="iOS27などのベータ7が一斉公開〜目玉のSiri AIのテストが進む"></p>]]></description><source url="https://iphone-mania.jp/ios-604891/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/08/25/6e9e202a200f640e6385bc4ff5b52c94.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/08/25/6e9e202a200f640e6385bc4ff5b52c94.jpg"/></item>
 </channel></rss>
