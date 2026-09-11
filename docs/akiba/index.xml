@@ -1,6 +1,249 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Fri, 11 Sep 2026 11:19:46 +0000</lastBuildDate>
+<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Fri, 11 Sep 2026 16:27:48 +0000</lastBuildDate>
+<item><title>Excelで貼り付けできない不具合。2026年9月8日のアップデートに起因</title><link>https://www.nichepcgamer.com/archives/post-132164.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/post-132164.html</guid><pubDate>Fri, 11 Sep 2026 06:07:36 +0000</pubDate><description><![CDATA[<p>Excelで貼り付けできない不具合。2026年9月8日のアップデートに起因
+
+Excelで貼り付けができない不具合が発生しています。 不具合概要 米国時間で2026年9月8日(日本時間で2026年9月9日)にリリースされたMicrosoft Officeのセキュリティ更新プロ...
+
+米国時間で2026年9月8日(日本時間で2026年9月9日)にリリースされたMicrosoft Officeのセキュリティ更新プログラム / アップデートをインストールすると、Excelにおいて、貼り付け(ペースト)が機能しなくなる不具合が発生しています。CTRL + Vのショートカットキーでも貼り付けができません。
+
+この不具合は、Excel 2016、Excel 2019、Excel 2021、Excel 2024で発生が確認されています。
+
+一時的な対処方法・回避策として、2026年9月8日にリリースされたMicrosoft Officeのセキュリティ更新プログラムをアンインストール、または2026年9月8日より前のバージョンへとロールバックすることで貼り付けが正常に動作するようになります。
+
+MSI版Excel 2016であればKB5002914をアンインストールしてください。クイック実行版(Click-to-Run / C2R)のExcelの場合は、『 クイック実行版の Office をロールバックする方法 』のページを参考に、2026年9月8日より前のバージョン(ビルド)にロールバックしてください。
+
+前のバージョン番号は Microsoftのページ (左メニューでお使いのOfficeを選択してください)をご確認ください。
+
+一例を挙げると、製品版Excel 2024で、2026年9月8日のビルド20326.20144がインストールされている場合、コマンドプロンプト(管理者として実行)で以下のコマンドを実行すれば、2026年9月1日のビルド20326.20132にロールバックされます。
+
+Microsoftは本不具合を認識しており、現在、調査中とのことです。
+
+筆者は自作PC歴…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2025/05/microsoft-issue-big-1200.jpg" alt="Excelで貼り付けできない不具合。2026年9月8日のアップデートに起因"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-132164.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2025/05/microsoft-issue-big-1200.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2025/05/microsoft-issue-big-1200.jpg"/></item>
+<item><title>ロープロ光学アナログスイッチ採用のゲーミングキーボード「Razer Huntsman V3 Pro Low-profile TKL 8KHz」</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2140017.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2140017.html</guid><pubDate>Fri, 11 Sep 2026 06:05:00 +0000</pubDate><description><![CDATA[<p>ロープロ光学アナログスイッチ採用のゲーミングキーボード「Razer Huntsman V3 Pro Low-profile TKL 8KHz」
+
+ラピッドトリガー対応のロープロファイルゲーミングキーボード「Huntsman V3 Pro Low-profile Tenkeyless 8KHz」がRazerから登場した。
+
+ロープロ光学アナログスイッチ採用のゲーミングキーボード「Razer Huntsman V3 Pro Low-profile TKL 8KHz」
+
+ラピッドトリガー対応のロープロファイルゲーミングキーボード「Huntsman V3 Pro Low-profile Tenkeyless 8KHz」がRazerから登場した。
+
+新開発の「Low-profile Analog Optical Switches」を採用
+
+Huntsman V3 Pro Low-profile Tenkeyless 8KHzは、ロープロファイル・アナログオプティカルスイッチ搭載としては世界初をうたうテンキーレスレイアウトのゲーミングキーボード。
+
+スイッチに新開発の「Low-profile Analog Optical Switches」を採用。アクチュエーションポイントの0.1～2.8mm調整に対応し、ラピッドトリガー機能も搭載。2.8mmのショートストローク設計と組み合わせ、指の移動量を抑えた素早い反応を実現するとしている。
+
+USBポーリングはTrue 8000 Hz HyperPollingに対応。平均0.39msの入力遅延で、競合製品を52%以上上回る優位性を発揮するという。
+
+潤滑処理を施したスイッチと厚みのある内部フォームによる吸音構造で、滑らかなタイピング感を実現しつつ、高いレスポンス性能との両立をうたう。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/017/s1.jpg" alt="ロープロ光学アナログスイッチ採用のゲーミングキーボード「Razer Huntsman V3 Pro Low-profile TKL 8KHz」"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2140017.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/017/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/017/s1.jpg"/></item>
+<item><title>������PC��GALLERIA�פ���������ॷ�祦2026��Ÿ��ǰ��ǥ뤬���䳫�ϡ����̸������Υ��ơ������٥�Ⱦ�������餫��</title><link>https://www.4gamer.net/games/029/G002975/20260911019/</link><guid isPermaLink="true">https://www.4gamer.net/games/029/G002975/20260911019/</guid><pubDate>Fri, 11 Sep 2026 05:30:34 +0000</pubDate><description><![CDATA[<p>������PC��GALLERIA�פ����������ॷ�祦2026��Ÿ��ǰ���ǥ뤬���䳫�ϡ����̸������Υ��ơ������٥��Ⱦ��������餫��
+
+2026年9月11日，サードウェーブは，ゲーマー向けPC「GALLERIA」の東京ゲームショウ2026出展記念モデルとなるデスクトップPC計3機種を発売した。また同時に，GALLERIAブースのイベ…
+
+ゲームPC「GALLERIA」の東京ゲームショウ2026出展記念モデルが販売開始。一般公開日のステージイベント情報も明らかに ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
+
+↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 夏は七不思議ならぬ“七不穏”で暑さを忘却の彼方へ――涼しくチルアウトできる終末，陰鬱，ディストピアな7つのゲーム ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ ひと夏の思い出に「桃鉄」100年プレイ。みんなで完走するた…</p><p><img src="https://www.4gamer.net/games/029/G002975/20260911019/SS/002.jpg" alt="������PC��GALLERIA�פ���������ॷ�祦2026��Ÿ��ǰ��ǥ뤬���䳫�ϡ����̸������Υ��ơ������٥�Ⱦ�������餫��"></p>]]></description><source url="https://www.4gamer.net/games/029/G002975/20260911019/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/029/G002975/20260911019/SS/002.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/029/G002975/20260911019/SS/002.jpg"/></item>
+<item><title>壁紙が真っ黒になるWindows 11の不具合を修正、パッチ提供開始</title><link>https://pc.watch.impress.co.jp/docs/news/2140215.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2140215.html</guid><pubDate>Fri, 11 Sep 2026 05:17:17 +0000</pubDate><description><![CDATA[<p>壁紙が真っ黒になるWindows 11の不具合を修正、パッチ提供開始
+
+Microsoftは9月8日、Windows Update後に一部のデバイスで発生していた、デスクトップの背景設定が消失してしまう不具合を修正した。
+
+壁紙が真っ黒になるWindows 11の不具合を修正、パッチ提供開始
+
+Microsoftは9月8日、Windows Update後に一部のデバイスで発生していた、デスクトップの背景設定が消失してしまう不具合を修正した。
+
+この不具合は、8月27日に公開されたプレビューパッチ「KB5120998」の適用後に一部のデバイスで発生していた。影響を受けるデバイスでは、デスクトップ設定のロードに失敗し、背景(壁紙)が真っ黒になってしまう。また、スライドショーやコントラストテーマといった設定も影響を受ける可能性がある。影響を受けるOSは、Windows 11バージョン25H2および24H2。
+
+同社では9月8日に、この不具合を修正するパッチ「KB5124008」の提供を開始しており、影響を受けているユーザーは本パッチの適用で対処が可能となっている。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2140/215/01.jpg" alt="壁紙が真っ黒になるWindows 11の不具合を修正、パッチ提供開始"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2140215.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2140/215/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2140/215/01.jpg"/></item>
+<item><title>新型ポンプ搭載の水冷クーラー「DE360MAX」がCPSから、ブラックとホワイトの2色</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2139574.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2139574.html</guid><pubDate>Fri, 11 Sep 2026 05:05:00 +0000</pubDate><description><![CDATA[<p>新型ポンプ搭載の水冷クーラー「DE360MAX」がCPSから、ブラックとホワイトの2色
+
+CPSブランドの簡易水冷CPUクーラー「DE360MAX」が発売された。
+
+新型ポンプ搭載の水冷クーラー「DE360MAX」がCPSから、ブラックとホワイトの2色
+
+CPSブランドの簡易水冷CPUクーラー「DE360MAX」が発売された。
+
+ラインアップは、本体色がブラックの「DE360MAX-BK」とホワイトの「DE360MAX-WH」の2モデルで、店頭価格は順に17,980円、18,980円。
+
+当初は7月10日（金）発売予定だったが、「製品に不具合があったため」（国内代理店サイズ）発売が延期されていた。
+
+フルセラミックベアリングを採用した次世代ポンプや高静圧ファンを搭載する簡易水冷クーラー
+
+これらは、ポンプやラジエーターが一体になったオールインワンタイプの水冷CPUクーラー。360mmサイズのラジエーターを採用している。
+
+フルセラミックベアリングを採用した次世代ポンプを備えているのが特長で、より強力なパワーと低動作音を実現し、優れた耐久性と冷却性能を発揮すると謳う。
+
+水冷ヘッドにはCNC加工が施されたアルミニウム合金製シェルとARGB対応フレームが採用されているほか、ファンフレームはネジ穴が見えないデザインとなっている。
+
+冷却ファンには、デュアルボールベアリングを採用した120mm PWMファンを3基搭載する。ファンの主な仕様は、回転数が500～2,200RPM±10%、最大風量が66CFM、最大静圧が4.04mmH2O、最大ノイズレベルが34.3dB(A)。ファンはラジエーターに装着済みで、マザーボードとはケーブル1本で接続できる。
+
+対応CPUソケットはIntel LGA 115X/1200/1700/1851、AMD Socket AM4/AM5。ラジエーターサイズは394×120×27mm。チューブ長は400mm。付属品はリテンションキット、グリス、ラジエーター取り付けネジ、図解マニュアル。保証期間は3年。
+
+[取材協力: ツクモパソコン本店 と TSUKU…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2139/574/a2_s.jpg" alt="新型ポンプ搭載の水冷クーラー「DE360MAX」がCPSから、ブラックとホワイトの2色"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2139574.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2139/574/a2_s.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2139/574/a2_s.jpg"/></item>
+<item><title>TCL、紙のように読める11型Androidタブレット「TAB A1 NXTPAPER」</title><link>https://pc.watch.impress.co.jp/docs/news/2140207.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2140207.html</guid><pubDate>Fri, 11 Sep 2026 04:59:01 +0000</pubDate><description><![CDATA[<p>TCL、紙のように読める11型Androidタブレット「TAB A1 NXTPAPER」
+
+紙のような見やすさをうたうTCLのNXTPAPERタブレットに、11型の新モデルが加わった。TCL JAPAN ELECTRONICSは9月11日、11型Androidタブレット「TCL TAB A1 NXTPAPER」と「TCL TAB A1」の2機種を発売した。Amazonでの価格は前者が4万6,800円、後者が3万7,800円。
+
+TCL、紙のように読める11型Androidタブレット「TAB A1 NXTPAPER」
+
+紙のような見やすさをうたうTCLのNXTPAPERタブレットに、11型の新モデルが加わった。TCL JAPAN ELECTRONICSは9月11日、11型Androidタブレット「TCL TAB A1 NXTPAPER」と「TCL TAB A1」の2機種を発売した。Amazonでの価格は前者が4万6,800円、後者が3万7,800円。
+
+TAB A1 NXTPAPERは、同社独自の「NXTPAPER」ディスプレイを採用した11型タブレット。NXTPAPERは、画面の反射や映り込みを抑える表示技術と、ハードウェアレベルでブルーライトを低減する設計を組み合わせたTCLのディスプレイ技術で、電子書籍やWeb記事、資料の閲覧など、画面を長時間見る用途を想定している。表面反射率を1.5%未満に抑えるARコーティングや、ぎらつきを抑えるAGエッチング加工を施したガラスを採用する。
+
+表示モードは、紙のような表示の「インクペーパーモード」、「カラーペーパーモード」と通常モードを切り替えられる「3-in-1 VersaView」を備え、端末全体をペーパーモードにしたまま、特定のアプリだけを通常モードで表示することもできる。また、別売りの(4,096段階の筆圧検知対応スタイラスペン「T-Pen 2」をサポートし、搭載アプリ「TCL Note」を使ったメモや資料への書き込みにも使える。
+
+一方のTAB A1は、スタンダードな液晶ディスプレイを採用したエンターテインメント向けの…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2140/207/1.jpg" alt="TCL、紙のように読める11型Androidタブレット「TAB A1 NXTPAPER」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2140207.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2140/207/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2140/207/1.jpg"/></item>
+<item><title>GALLERIA、TGS2026出展記念のRTX 5080搭載PC 3機種</title><link>https://pc.watch.impress.co.jp/docs/news/2140191.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2140191.html</guid><pubDate>Fri, 11 Sep 2026 04:45:05 +0000</pubDate><description><![CDATA[<p>GALLERIA、TGS2026出展記念のRTX 5080搭載PC 3機種
+
+サードウェーブはGALLERIAブランドから、東京ゲームショウ2026出展記念モデルとなるデスクトップPC 3機種を発売した。価格は54万9,980円から。
+
+GALLERIA、TGS2026出展記念のRTX 5080搭載PC 3機種
+
+サードウェーブはGALLERIAブランドから、東京ゲームショウ2026出展記念モデルとなるデスクトップPC 3機種を発売した。価格は54万9,980円から。
+
+いずれもハイエンドなCPUとGPUを採用した高性能PCで、ゲームだけでなくクリエイティブワークにも活用可能。Ryzen 7 9800X3D搭載モデルは、50円の追加でCPUをRyzen 7 9850X3Dにアップグレードできるキャンペーンの対象にもなっている。
+
+ミドルタワーケースの「GALLERIA XDR7A-R58-GD (WL) Ryzen 7 9800X3D搭載 TGS2026 出展記念モデル」の場合、CPUにRyzen 7 9800X3D、メモリに32GB DDR5、ストレージに2TB SSD、GPUにGeForce RTX 5080を搭載し、価格は55万9,980円。カラーはガンメタルとホワイトの2種類。
+
+ピラーレスケースの「GALLERIA FDR7A-R58-B (W) Ryzen 7 9800X3D搭載 TGS2026 出展記念モデル」の場合、CPUにRyzen 7 9800X3D、メモリに32GB DDR5、ストレージに2TB SSD、GPUにGeForce RTX 5080を搭載し、価格は55万9,980円。カラーはブラックとホワイトの2種類。
+
+クリエイティブ・AI向けの「GALLERIA XDC7A-R58-CB (CW) Intel Core Ultra 7 270K Plus搭載 TGS2026 出展記念モデル」の場合、CPUにCore Ultra 7 270K Plus、メモリに32GB DDR5、ストレージに2TB SSD、GPUにGeForce RTX 5080を…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2140/191/01.jpg" alt="GALLERIA、TGS2026出展記念のRTX 5080搭載PC 3機種"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2140191.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2140/191/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2140/191/01.jpg"/></item>
+<item><title>Razerのラピトリ対応キーボード「Huntsman V3 Pro TKL 8KHz」にSentinelsコラボモデル</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2140008.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2140008.html</guid><pubDate>Fri, 11 Sep 2026 04:05:00 +0000</pubDate><description><![CDATA[<p>Razerのラピトリ対応キーボード「Huntsman V3 Pro TKL 8KHz」にSentinelsコラボモデル
+
+プロゲーミングチーム「Sentinels」との特別コラボレーションデザインのテンキーレスキーボード「Razer Huntsman V3 Pro Tenkeyless 8KHz Sentinels Edition」が登場した。
+
+Razerのラピトリ対応キーボード「Huntsman V3 Pro TKL 8KHz」にSentinelsコラボモデル
+
+プロゲーミングチーム「Sentinels」との特別コラボレーションデザインのテンキーレスキーボード「Razer Huntsman V3 Pro Tenkeyless 8KHz Sentinels Edition」が登場した。
+
+Razer Analog Optical Switches Gen-2を搭載
+
+Razer Huntsman V3 Pro Tenkeyless 8KHz Sentinels Editionは、レッドのアルマイト加工を施したアルミ製トッププレートとブラックのダブルショットPBTキーキャップを採用したテンキーレスキーボード。
+
+Razerと、ロサンゼルスが拠点のeスポーツ組織であるSentinelsとの特別コラボレーションモデル。競技プレイのためのコンパクトなつくりで、また、ファンにも競技プレイヤーにも向けて設計したという。
+
+キースイッチとしてRazer Analog Optical Switches Gen-2を搭載。限りなくゼロに近いレイテンシーのTrue 8000 Hz HyperPolling、超高速の連続入力を実現するRapid Trigger Modeなど、デザイン以外の仕様は通常モデルと共通。
+
+またWebブラウザでアクセスするRazer Synapse Webに対応し、ソフトウェアのインストールなしでも設定変更が可能になっている。
+
+Huntsman V3 Pro TKL 8KHz Sentinels Edition Amazonで購入 楽天で購入</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/008/s1.jpg" alt="Razerのラピトリ対応キーボード「Huntsman V3 Pro TKL 8KHz」にSentinelsコラボモデル"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2140008.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/008/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/008/s1.jpg"/></item>
+<item><title>【独自調査結果】iPhone18 Proの購入検討者は60.3％！Duoは26.7％ 人気色も判明</title><link>https://iphone-mania.jp/iphone18-605648/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-605648/</guid><pubDate>Fri, 11 Sep 2026 04:04:27 +0000</pubDate><description><![CDATA[<p>【独自調査結果】iPhone18 Proの購入検討者は60.3％！Duoは26.7％ 人気色も判明
+
+iPhone Maniaでは、AppleによるiPhone18 Pro、iPhone18 Pro Max、そしてApple初の折りたたみiPhone「iPhone
+
+【独自調査結果】iPhone18 Proの購入検討者は60.3％！Duoは26.7％ 人気色も判明
+
+iPhone Maniaでは、AppleによるiPhone18 Pro、iPhone18 Pro Max、そしてApple初の折りたたみiPhone「iPhone Duo」の発表を受けて、購入意向や人気モデルを探る緊急読者アンケートを実施しました。発表直後の9月10日午前4時から翌11日午前10時までの約30時間で、126人の方から有効回答をいただきました。モデルごとの人気色や容量、購入の決め手、さらに発表前と発表後で「折りたたみiPhoneにいくらまで出せるか」がどう変わったのかまで、興味深い結果がまとまっています。
+
+iPhone18発表を受けて緊急アンケート！126人の生の声
+
+Appleは日本時間9月10日午前2時からの発表イベントで、iPhone18 Pro、iPhone18 Pro Max、iPhone Duo、Apple Watch Series 12／Ultra 4／SE 3、AirPods 5を発表しました。
+
+iPhone Maniaでは、これらの新製品への関心や人気モデルの傾向を探る読者アンケートをiMコミュニティで実施しました。アンケートは9月10日午前4時台に開始し、11日午前10時に締め切るまでの約30時間で、 有効回答126件 が集まりました。ご協力くださった皆様、ありがとうございます。
+
+今回は「買う予定のモデルを選ぶと、そのモデルのカラーと容量だけを尋ねる」形式にしたため、Pr…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/survey_result_5th.png" alt="【独自調査結果】iPhone18 Proの購入検討者は60.3％！Duoは26.7％ 人気色も判明"></p>]]></description><source url="https://iphone-mania.jp/iphone18-605648/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/survey_result_5th.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/survey_result_5th.png"/></item>
+<item><title>iPhone整備済製品に33モデル追加、iPhone 16eが94,800円・iPhone 15が99,800円から</title><link>https://gori.me/sale/apple-refurbished/170066</link><guid isPermaLink="true">https://gori.me/sale/apple-refurbished/170066</guid><pubDate>Fri, 11 Sep 2026 03:55:47 +0000</pubDate><description><![CDATA[<p>iPhone整備済製品に33モデル追加、iPhone 16eが94,800円・iPhone 15が99,800円から
+
+Apple公式サイトのiPhone整備済製品に33モデルが追加され、合計45モデルが購入可能になった。iPhone 16e 256GBは94,800円、iPhone 15 128GBは99,800円。全モデル15%オフで、最大37,000円の割引。1年間のハードウェア保証付き。
+
+iPhone整備済製品に33モデル追加、iPhone 16eが94,800円・iPhone 15が99,800円から
+
+合計45モデルが購入可能。全モデル15%オフ、最大37,000円引きのiPhone 15 Pro Max 1TBまでラインナップ。1年保証付きでAppleCare+にも加入できる
+
+2026年9月10日、iPhone整備済製品に33モデルが新たに追加され、購入可能なモデルは合計45種類に増加した
+
+最安はiPhone 16e 256GBの94,800円（通常111,800円から17,000円引き）、iPhone 15 128GBは99,800円で5色が復活
+
+整備済製品は新品同様の品質で1年間のハードウェア保証付き、AppleCare+にも加入でき、割引率は全モデル15%
+
+Apple公式サイトのiPhone整備済製品に、大量の製品が追加された。合計33モデルが新たに登場し、現在45モデルが購入可能だ。
+
+本日は iPhone 16e や iPhone 15 が大量復活！20万円以上する iPhone 18 Pro が登場する中、10万円以下で購入できる。「今は最新スペックよりも予算が大事」という人は、是非この機会にチェックしてもらいたい！
+
+Apple整備済製品は、初期不良などで返品された製品をAppleが再整備して販売するもの。新品同様の品質で、1年間のハードウェア保証付き。Apple Care+にも加入できる。通常価格と比べて最大15%オフで購入でき、新品が欲しいけど少しでも安く手に入れたい人にとっては見逃せない選択肢だ。
+
+iPhone 15 128…</p><p><img src="https://gori.me/uploads/2026/09/iPhone-Refurbished-model-2026-09-10-800x637.jpg" alt="iPhone整備済製品に33モデル追加、iPhone 16eが94,800円・iPhone 15が99,800円から"></p>]]></description><source url="https://gori.me/sale/apple-refurbished/170066">gori.me</source><media:content url="https://gori.me/uploads/2026/09/iPhone-Refurbished-model-2026-09-10-800x637.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/09/iPhone-Refurbished-model-2026-09-10-800x637.jpg"/></item>
+<item><title>9800X3D+RTX 5080のゲーミングPC、GIGABYTEが量販店で発売</title><link>https://pc.watch.impress.co.jp/docs/news/2140170.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2140170.html</guid><pubDate>Fri, 11 Sep 2026 03:47:36 +0000</pubDate><description><![CDATA[<p>9800X3D+RTX 5080のゲーミングPC、GIGABYTEが量販店で発売
+
+Ryzen 7 9800X3DとGeForce RTX 5080(16GB)を組み合わせたハイエンドなゲーミングデスクトップPCが家電量販店の店頭に並ぶ。GIGABYTEは、ゲーミングデスクトップPC「AORUS PRIME 5 AP551(AP5A7N8-5103)」を9月12日に発売する。価格はオープンプライスで、実売予想価格は67万円前後の見込み。
+
+9800X3D+RTX 5080のゲーミングPC、GIGABYTEが量販店で発売
+
+Ryzen 7 9800X3DとGeForce RTX 5080(16GB)を組み合わせたハイエンドなゲーミングデスクトップPCが家電量販店の店頭に並ぶ。GIGABYTEは、ゲーミングデスクトップPC「AORUS PRIME 5 AP551(AP5A7N8-5103)」を9月12日に発売する。価格はオープンプライスで、実売予想価格は67万円前後の見込み。
+
+AORUS PRIME 5 AP5A7N8-5103は、CPUにRyzen 7 9800X3D、ビデオカードにGeForce RTX 5080を搭載したゲーミングデスクトップPC。最新ゲームのプレイに加え、4K動画編集などのクリエイティブ用途も想定している。
+
+PCケースは、前面に3基、背面に1基の120mmファンを備え、80%メッシュ構造と側面のベントで排熱効率を高めた。CPUの冷却には240mmラジエータの簡易水冷クーラーを採用。ファンには航空技術を応用した翼端設計で風量と風圧を高めつつ、静音性にも配慮した独自の「Hawk Fan」を採用した。いずれもARGB LED付きで、付属ソフト「GIGABYTE Control Center」でライティングのカスタマイズが可能。
+
+主な仕様は、CPUがRyzen 7 9800X3D、メモリがDDR5-5600 32GB(16GB×2、最大256GB)、チップセットがAMD B850、ストレージが2TB NVMe SSD、ビデオカードがGeForce RT…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2140/170/1.jpg" alt="9800X3D+RTX 5080のゲーミングPC、GIGABYTEが量販店で発売"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2140170.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2140/170/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2140/170/1.jpg"/></item>
+<item><title>社内データをチャットで分析、ChatGPT Workに「Data agent」</title><link>https://pc.watch.impress.co.jp/docs/news/2136472.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2136472.html</guid><pubDate>Fri, 11 Sep 2026 03:40:53 +0000</pubDate><description><![CDATA[<p>社内データをチャットで分析、ChatGPT Workに「Data agent」
+
+SQLもBIツールの操作も要らない。社内データの分析は「聞くだけ」でいい。チャットを通じて社内データを分析できるChatGPT Workの新機能「Data agent」が公開された。OpenAIが9月10日に発表したもので、ChatGPT Workのプラグイン「Data」を有効化することで利用できる。
+
+社内データをチャットで分析、ChatGPT Workに「Data agent」
+
+SQLもBIツールの操作も要らない。社内データの分析は「聞くだけ」でいい。チャットを通じて社内データを分析できるChatGPT Workの新機能「Data agent」が公開された。OpenAIが9月10日に発表したもので、ChatGPT Workのプラグイン「Data」を有効化することで利用できる。
+
+Data agentは、ChatGPT Workとのチャットを通じて社内データの分析が行なえる機能。Amazon Redshift、Datadog、Google BigQueryなどのデータソースと接続できるだけでなく、GoogleドライブやSharePointのファイルやドキュメントも取り込める。
+
+ユーザーはチャットを通じて、AIでデータを分析できるほか、OmniやOracle BI、Power BIのダッシュボードを作成して結果を可視化できる。加えて、Slackやメールなどの連携ツールを活用し、分析結果を関係者に簡単に共有できる。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2136/472/02.jpg" alt="社内データをチャットで分析、ChatGPT Workに「Data agent」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2136472.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2136/472/02.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2136/472/02.jpg"/></item>
+<item><title>�����饤���󥹤���������������ɥ�����24�ܤ��Ͽ����Android��ȥ������ൡ��Pocket AIR Mini Arcade Edition�פ�ŷ����ȯ��</title><link>https://www.4gamer.net/games/557/G055725/20260911006/</link><guid isPermaLink="true">https://www.4gamer.net/games/557/G055725/20260911006/</guid><pubDate>Fri, 11 Sep 2026 03:19:32 +0000</pubDate><description><![CDATA[<p>�����饤���󥹤����������������ɥ�����24�ܤ���Ͽ����Android���ȥ������ൡ��Pocket AIR Mini Arcade Edition�פ�ŷ����ȯ��
+
+2026年9月11日，天空は，レトロゲーム向けの携帯型Androidゲーム機「Pocket AIR Mini」のバリエーションモデルとなる「Pocket AIR Mini Arcade Editio…
+
+公式ライセンスを受けたアーケードゲーム24本を収録したAndroidレトロゲーム機「Pocket AIR Mini Arcade Edition」を天空が発売 ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
+
+↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 夏は七不思議ならぬ“七不穏”で暑さを忘却の彼方へ――涼しくチルアウトできる終末，陰鬱，ディストピアな7つのゲーム ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイト…</p><p><img src="https://www.4gamer.net/games/557/G055725/20260911006/SS/002.jpg" alt="�����饤���󥹤���������������ɥ�����24�ܤ��Ͽ����Android��ȥ������ൡ��Pocket AIR Mini Arcade Edition�פ�ŷ����ȯ��"></p>]]></description><source url="https://www.4gamer.net/games/557/G055725/20260911006/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/557/G055725/20260911006/SS/002.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/557/G055725/20260911006/SS/002.jpg"/></item>
+<item><title>HaritoraXがスマホ不要に。Quest 3単体接続に対応のため</title><link>https://smhn.info/202609-shiftall-haritorax-quest3-standalone-bluetooth-support</link><guid isPermaLink="true">https://smhn.info/202609-shiftall-haritorax-quest3-standalone-bluetooth-support</guid><pubDate>Fri, 11 Sep 2026 03:11:46 +0000</pubDate><description><![CDATA[<p>HaritoraXがスマホ不要に。Quest 3単体接続に対応のため
+
+Shiftallは2026年9月1日、フルボディトラッキング機器「HaritoraX」シリーズをMeta Quest 3/3Sへ直接接続できる「Shiftall VR Manager」をMeta Horizonストアで公開しました。これにより、PCやスマートフォンを介さず、Que...
+
+HaritoraXがスマホ不要に。Quest 3単体接続に対応のため
+
+Shiftallは2026年9月1日、フルボディトラッキング機器「HaritoraX」シリーズをMeta Quest 3/3Sへ直接接続できる「Shiftall VR Manager」をMeta Horizonストアで公開しました。
+
+これにより、PCやスマートフォンを介さず、Quest単体版のVRChatで全身の動きをアバターへ反映できます。
+
+従来、HaritoraXをMeta Questのスタンドアロン環境で使うには、HaritoraXとスマートフォンを接続し、スマートフォン経由でQuestへデータを送る必要がありました。
+
+しかし今回のMeta Horizon版アプリでは、HaritoraXとQuest 3/3SをBluetoothで直接接続。装着する機器そのものは変わりませんが、プレイ前の無線接続構成を簡略化できるわけです。
+
+対応するのはHaritoraX 2 Pro、HaritoraX 2、HaritoraX ワイヤレス、HaritoraX 1.1、HaritoraX 1.1B、初代HaritoraXです。ただしQuest 3シリーズが接続できるセンサーは最大7個のため、HaritoraX 2 Proは足センサーを使わない構成に限られます。「HaritoraX 2 Add-on R」も利用できません。
+
+初代HaritoraX、HaritoraX 1.1、HaritoraX 1.1Bでは、あらかじめWindows用のHaritora Configuratorを使い、BLEモードへ切り替える必要があります。対応するヘッドセットはMe…</p><p><img src="https://smhn.info/wp-content/uploads/2026/09/6a9633efb8f91d80a6d8ca3e_haritoraxmeta_ja.png" alt="HaritoraXがスマホ不要に。Quest 3単体接続に対応のため"></p>]]></description><source url="https://smhn.info/202609-shiftall-haritorax-quest3-standalone-bluetooth-support">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/09/6a9633efb8f91d80a6d8ca3e_haritoraxmeta_ja.png" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/09/6a9633efb8f91d80a6d8ca3e_haritoraxmeta_ja.png"/></item>
+<item><title>【本日みつけたお買い得品】「翼を授かれる」レッドブル24本入りが1,027円引きでオトク</title><link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2140158.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/todays_sales/2140158.html</guid><pubDate>Fri, 11 Sep 2026 03:08:48 +0000</pubDate><description><![CDATA[<p>【本日みつけたお買い得品】「翼を授かれる」レッドブル24本入りが1,027円引きでオトク
+
+Amazonでは、9月20日まで飲料特別セールを開催中だ。セールにおいて、レッドブルのエナジードリンク「レッドブル エナジードリンク 250mlx24本」が9月15日まで利用可能なクーポン適用により、現在価格の1,027円引きとなる4,105円で販売されている。1本あたりの価格は約171円。
+
+「翼を授かれる」レッドブル24本入りが1,027円引きでオトク
+
+Amazonでは、9月20日まで飲料特別セールを開催中だ。セールにおいて、レッドブルのエナジードリンク「レッドブル エナジードリンク 250mlx24本」が9月15日まで利用可能なクーポン適用により、現在価格の1,027円引きとなる4,105円で販売されている。1本あたりの価格は約171円。
+
+レッドブル エナジードリンク 250mlx24本は、レッドブルのエナジードリンクの標準モデルが24本セットになったもの。カフェイン含有量は250mlあたり80mgで、砂糖類は100mlあたり11g含まれる。
+
+アサヒ飲料のエナジードリンク「モンスター エナジー 355ml×24本」が、10月5日まで利用できるクーポン適用で、直近価格の410円引きとなる4,100円で販売中。1本あたりの価格は約171円。
+
+モンスター エナジー 355ml×24本は、アメリカのエナジードリンク定番ブランド「モンスターエナジー」の標準モデルの24本セット。100ml中のカフェイン含有量は40mgで、日本向けには独自のエナジーブレンドを実現していると説明している。
+
+同じくアサヒ飲料のコーラ「green cola (グリーン コーラ) 500ml 24本」が、10月5日までのクーポン適用で、現在価格の463円引きの1,851円で販売中だ。1本あたりの価格は約77円。
+
+green cola (グリーン コーラ) 500ml 24本は、緑色のパッケージで発売されたゼロシュガー、ゼロカロリーの炭酸飲料の24本セット。同社では「NOシュガー、NOカロリー、NO罪…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2140/158/05.jpg" alt="【本日みつけたお買い得品】「翼を授かれる」レッドブル24本入りが1,027円引きでオトク"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/todays_sales/2140158.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2140/158/05.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2140/158/05.jpg"/></item>
 <item><title>Astra人気でOpenAIが悲鳴！月3万円のChatGPT Pro新規受付を一時停止</title><link>https://pc.watch.impress.co.jp/docs/news/2140146.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2140146.html</guid><pubDate>Fri, 11 Sep 2026 03:07:18 +0000</pubDate><description><![CDATA[<p>Astra人気でOpenAIが悲鳴！月3万円のChatGPT Pro新規受付を一時停止
 
 OpenAIは9月11日(現地時間)、20倍の容量が使える月額200ドル(3万円)の最上位プラン「ChatGPT Pro」の新規サブスクリプション受付を一時的に停止したと発表した。同社でCodexおよびChatGPTプロダクトを担当するTibo氏のX(旧Twitter)投稿により明らかとなったもので、新モデル「Astra」の需要急増に伴い、システムへの負担がかつてない規模に達していることが要因だ。
@@ -1218,6 +1461,23 @@ Appleは9月10日、「iPhone 18 Pro」「iPhone 18 Pro Max」「iPhone Duo」�
 Apple、iPhone 16/17/17e/Airを再値上げ。最大4万7,000円アップ
 
 「MagSafe バッテリー」関連アイテム Amazonで購入</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2139/893/01.jpg" alt="iPhone 18 Pro/Pro Maxは前モデルからどう変わった？スペックで比較"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/topic/feature/2139893.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2139/893/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2139/893/01.jpg"/></item>
+<item><title>既存iPhone、2度目の値上げ。iPhone 17は累計3万円高に</title><link>https://smhn.info/202609-apple-iphone-japan-price-increase</link><guid isPermaLink="true">https://smhn.info/202609-apple-iphone-japan-price-increase</guid><pubDate>Thu, 10 Sep 2026 08:13:56 +0000</pubDate><description><![CDATA[<p>既存iPhone、2度目の値上げ。iPhone 17は累計3万円高に
+
+Appleは、日本の公式オンラインストアで販売するiPhone 16、iPhone 17e、iPhone 17、iPhone Airを再び値上げしました。iPhone 17の256GBは12万9800円から14万2800円、15万9800円へ。iPhone Airの256GBも1...
+
+既存iPhone、2度目の値上げ。iPhone 17は累計3万円高に
+
+Appleは、日本の公式オンラインストアで販売するiPhone 16、iPhone 17e、iPhone 17、iPhone Airを再び値上げしました。
+
+iPhone 17の256GBは12万9800円から14万2800円、15万9800円へ。iPhone Airの256GBも15万9800円から17万7800円、18万9800円へと上がっています。
+
+ちなみにこれ、2026年7月18日に続く、今年2度目の値上げです。最小容量モデルの価格は、7月の値上げ前と比べてiPhone 16・17eが累計2万5000円、iPhone 17・Airが累計3万円上昇しています。価格はすべて税込みです。
+
+今回の改定だけを見ると、iPhone 17の256GBは14万2800円から15万9800円、512GBは17万7800円から19万4800円へ。iPhone 17eも、256GBは10万7800円から12万4800円、512GBは14万2800円から15万9800円となり、いずれも差額は1万7000円です。
+
+iPhone Airは256GBが18万9800円、512GBが22万4800円、1TBが29万4800円。旧価格との差は256GBと512GBが各1万2000円、1TBが4万7000円となります。
+
+特にiPhone 17eは、10万円を切る9万9800円だったものが、2度の値上げで約25％高い12万4800円に。同じ256GBの端末を買うだけで2万5000円余計に必要になるのですから、「手頃なiPhone」として見ていた人には、なかなか厳しい…</p><p><img src="https://smhn.info/wp-content/uploads/2026/07/s-IMG_20250922_140923.jpg" alt="既存iPhone、2度目の値上げ。iPhone 17は累計3万円高に"></p>]]></description><source url="https://smhn.info/202609-apple-iphone-japan-price-increase">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/07/s-IMG_20250922_140923.jpg" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/07/s-IMG_20250922_140923.jpg"/></item>
 <item><title>iOS27でAirDropが最大80%高速化！アプリ起動や通信切り替えもスムーズに</title><link>https://iphone-mania.jp/ios-605603/</link><guid isPermaLink="true">https://iphone-mania.jp/ios-605603/</guid><pubDate>Thu, 10 Sep 2026 08:13:56 +0000</pubDate><description><![CDATA[<p>iOS27でAirDropが最大80%高速化！アプリ起動や通信切り替えもスムーズに
 
 Appleは、日本時間9月10日の新製品発表イベントで、iOS27の動作速度に関する改善を紹介しました。AirDropの転送速度が最大80%向上するほか、アプリの起動や写真取り込み、Wi-Fiとモバイル通信の切り替えなども高速化されます。
@@ -1242,23 +1502,6 @@ Appleは iOS27 について、AirDrop以外にも アプリの起動が最大30%
 
 Appleは、iOS27のパフォーマンス向上について、最新のiPhoneだけを対象とした機能として説明していません。
 …</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/10/AppleEvent-Sep2026-AirDrop.jpg" alt="iOS27でAirDropが最大80%高速化！アプリ起動や通信切り替えもスムーズに"></p>]]></description><source url="https://iphone-mania.jp/ios-605603/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/10/AppleEvent-Sep2026-AirDrop.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/10/AppleEvent-Sep2026-AirDrop.jpg"/></item>
-<item><title>既存iPhone、2度目の値上げ。iPhone 17は累計3万円高に</title><link>https://smhn.info/202609-apple-iphone-japan-price-increase</link><guid isPermaLink="true">https://smhn.info/202609-apple-iphone-japan-price-increase</guid><pubDate>Thu, 10 Sep 2026 08:13:56 +0000</pubDate><description><![CDATA[<p>既存iPhone、2度目の値上げ。iPhone 17は累計3万円高に
-
-Appleは、日本の公式オンラインストアで販売するiPhone 16、iPhone 17e、iPhone 17、iPhone Airを再び値上げしました。iPhone 17の256GBは12万9800円から14万2800円、15万9800円へ。iPhone Airの256GBも1...
-
-既存iPhone、2度目の値上げ。iPhone 17は累計3万円高に
-
-Appleは、日本の公式オンラインストアで販売するiPhone 16、iPhone 17e、iPhone 17、iPhone Airを再び値上げしました。
-
-iPhone 17の256GBは12万9800円から14万2800円、15万9800円へ。iPhone Airの256GBも15万9800円から17万7800円、18万9800円へと上がっています。
-
-ちなみにこれ、2026年7月18日に続く、今年2度目の値上げです。最小容量モデルの価格は、7月の値上げ前と比べてiPhone 16・17eが累計2万5000円、iPhone 17・Airが累計3万円上昇しています。価格はすべて税込みです。
-
-今回の改定だけを見ると、iPhone 17の256GBは14万2800円から15万9800円、512GBは17万7800円から19万4800円へ。iPhone 17eも、256GBは10万7800円から12万4800円、512GBは14万2800円から15万9800円となり、いずれも差額は1万7000円です。
-
-iPhone Airは256GBが18万9800円、512GBが22万4800円、1TBが29万4800円。旧価格との差は256GBと512GBが各1万2000円、1TBが4万7000円となります。
-
-特にiPhone 17eは、10万円を切る9万9800円だったものが、2度の値上げで約25％高い12万4800円に。同じ256GBの端末を買うだけで2万5000円余計に必要になるのですから、「手頃なiPhone」として見ていた人には、なかなか厳しい…</p><p><img src="https://smhn.info/wp-content/uploads/2026/07/s-IMG_20250922_140923.jpg" alt="既存iPhone、2度目の値上げ。iPhone 17は累計3万円高に"></p>]]></description><source url="https://smhn.info/202609-apple-iphone-japan-price-increase">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/07/s-IMG_20250922_140923.jpg" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/07/s-IMG_20250922_140923.jpg"/></item>
 <item><title>iPhone18 Proは冷却の表面積が3倍〜性能が落ちにくくなる仕組み</title><link>https://iphone-mania.jp/iphone18-605597/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-605597/</guid><pubDate>Thu, 10 Sep 2026 08:10:00 +0000</pubDate><description><![CDATA[<p>iPhone18 Proは冷却の表面積が3倍〜性能が落ちにくくなる仕組み
 
 iPhone18 Proで、熱を逃がす部品の表面積が3倍になりました。Appleが強調しているのは「速くなった」ではなく、「速いままでいられる」ほうです。iPhone17 Proと比べて、最大40%高い性能が長く持続すると説明しています。
@@ -1468,25 +1711,6 @@ MAESTRO 500 WIRELESS IVORYは、外部の雑音を低減するANC機能を搭載
 本体サイズは187.8×197.6×79.3mm、重量は280g。対応OSはWindows 11。充電用USB Type-Cポートを備える。
 
 MAESTRO 500 W Ivory MAESTRO-500-W-IVORY</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2139/624/kk1.jpg" alt="MSIのANC対応ヘッドセット「MAESTRO 500 WIRELESS IVORY」が店頭入荷、有線/無線対応で価格は9,880円"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2139624.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2139/624/kk1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2139/624/kk1.jpg"/></item>
-<item><title>【Hothotレビュー】ディスプレイがくるりんぱ！新モデル「VAIO T」はかつてないタッチ操作&amp;AI向きな2in1になる</title><link>https://pc.watch.impress.co.jp/docs/column/hothot/2139700.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/column/hothot/2139700.html</guid><pubDate>Thu, 10 Sep 2026 04:00:00 +0000</pubDate><description><![CDATA[<p>【Hothotレビュー】ディスプレイがくるりんぱ！新モデル「VAIO T」はかつてないタッチ操作&amp;AI向きな2in1になる
-
-VAIOノートの新モデル「VAIO T」が9月10日に発表された。同社フラグシップの「VAIO SX14-R」をベースに、ディスプレイ部をフリップ可能にした2in1ノートだ。
-
-ディスプレイがくるりんぱ！新モデル「VAIO T」はかつてないタッチ操作&amp;AI向きな2in1になる
-
-VAIOノートの新モデル「VAIO T」が9月10日に発表された。同社フラグシップの「VAIO SX14-R」をベースに、ディスプレイ部をフリップ可能にした2in1ノートだ。
-
-しかし2in1だからといって、「ただのタブレットとしても使えるノートPC」で終わってはいない。独自のフリップ機構により、かつてないほどの「タッチ操作向き」かつ「AI向き」なデバイスになっているのだ。どんな使い方ができるのか、発売前に実機をお借りできたので紹介しよう。
-
-なお、VAIO Tは個人向けのモデル名で、法人向けはVAIO T work(ベースはVAIO Pro PK-R)となる。個人向けは9月18日より受注開始し、9月30日以降に順次配送される。個人向けカスタマイズモデルの直販価格は37万4,000円から。ノジマでは9月22日より店頭販売される。
-
-独自フリップ機構がタッチ操作、タブレットモードの使用機会を拡大
-
-ほかとはひと味違う2in1、ハードワーカーのヘルスケアもサポート
-
-「VAIO T」は、ベースとなっているモデルがSX14-Rということもあり、同社ノートPCラインナップの中では上位に位置付けられる。主な違いはディスプレイ・天板周りだ。
-
-天板の中央にまっすぐ1本の溝が見え、明らかに「何かある」ことを予感させるデザイン。しかしながら、VAIOノートらしいリフトアップヒンジは健在で、デ…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2139/700/001.jpg" alt="【Hothotレビュー】ディスプレイがくるりんぱ！新モデル「VAIO T」はかつてないタッチ操作&amp;AI向きな2in1になる"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/column/hothot/2139700.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2139/700/001.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2139/700/001.jpg"/></item>
 <item><title>VAIO Zの変形機構が復活。マグネットで変形する「VAIO T」</title><link>https://pc.watch.impress.co.jp/docs/news/2139720.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2139720.html</guid><pubDate>Thu, 10 Sep 2026 04:00:00 +0000</pubDate><description><![CDATA[<p>VAIO Zの変形機構が復活。マグネットで変形する「VAIO T」
 
 画面をくるりと返せばキーボードが隠れてタブレットに。10年前のVAIO Zの変形機構が、新シリーズ「VAIO T」で帰ってきた。VAIOは9月10日、13.3型2in1「VAIO T」を発表した。9月18日の10時より受注を開始し、9月22日に発売する。
@@ -1506,6 +1730,25 @@ PC Watchの読者の中には、この機構に見覚えがある人がいるか
 ただし、今回のVAIO Tはよりスムーズなタブレット化が可能となった。従来は画面を回転させてタブレット化させる際に「リリースラッチ」で画面の固定を解除するというワンクッションが必要だったが、VAIO Tではマグネットを使った新機構により、その必要がなくなっている。
 
 VAIO Tは、「 VAIO SX14-R…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2139/720/image.jpg" alt="VAIO Zの変形機構が復活。マグネットで変形する「VAIO T」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2139720.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2139/720/image.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2139/720/image.jpg"/></item>
+<item><title>【Hothotレビュー】ディスプレイがくるりんぱ！新モデル「VAIO T」はかつてないタッチ操作&amp;AI向きな2in1になる</title><link>https://pc.watch.impress.co.jp/docs/column/hothot/2139700.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/column/hothot/2139700.html</guid><pubDate>Thu, 10 Sep 2026 04:00:00 +0000</pubDate><description><![CDATA[<p>【Hothotレビュー】ディスプレイがくるりんぱ！新モデル「VAIO T」はかつてないタッチ操作&amp;AI向きな2in1になる
+
+VAIOノートの新モデル「VAIO T」が9月10日に発表された。同社フラグシップの「VAIO SX14-R」をベースに、ディスプレイ部をフリップ可能にした2in1ノートだ。
+
+ディスプレイがくるりんぱ！新モデル「VAIO T」はかつてないタッチ操作&amp;AI向きな2in1になる
+
+VAIOノートの新モデル「VAIO T」が9月10日に発表された。同社フラグシップの「VAIO SX14-R」をベースに、ディスプレイ部をフリップ可能にした2in1ノートだ。
+
+しかし2in1だからといって、「ただのタブレットとしても使えるノートPC」で終わってはいない。独自のフリップ機構により、かつてないほどの「タッチ操作向き」かつ「AI向き」なデバイスになっているのだ。どんな使い方ができるのか、発売前に実機をお借りできたので紹介しよう。
+
+なお、VAIO Tは個人向けのモデル名で、法人向けはVAIO T work(ベースはVAIO Pro PK-R)となる。個人向けは9月18日より受注開始し、9月30日以降に順次配送される。個人向けカスタマイズモデルの直販価格は37万4,000円から。ノジマでは9月22日より店頭販売される。
+
+独自フリップ機構がタッチ操作、タブレットモードの使用機会を拡大
+
+ほかとはひと味違う2in1、ハードワーカーのヘルスケアもサポート
+
+「VAIO T」は、ベースとなっているモデルがSX14-Rということもあり、同社ノートPCラインナップの中では上位に位置付けられる。主な違いはディスプレイ・天板周りだ。
+
+天板の中央にまっすぐ1本の溝が見え、明らかに「何かある」ことを予感させるデザイン。しかしながら、VAIOノートらしいリフトアップヒンジは健在で、デ…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2139/700/001.jpg" alt="【Hothotレビュー】ディスプレイがくるりんぱ！新モデル「VAIO T」はかつてないタッチ操作&amp;AI向きな2in1になる"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/column/hothot/2139700.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2139/700/001.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2139/700/001.jpg"/></item>
 <item><title>デュアルモニター対応で最大4台のPCを接続できる切替器、ラトックから</title><link>https://pc.watch.impress.co.jp/docs/news/2139806.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2139806.html</guid><pubDate>Thu, 10 Sep 2026 03:32:31 +0000</pubDate><description><![CDATA[<p>デュアルモニター対応で最大4台のPCを接続できる切替器、ラトックから
 
 ラトックシステムは、最大4台のPCと2台のモニターを接続できる切替器「RS-460UH2-4K」を9月下旬に発売する。価格は3万7,180円。
@@ -2430,27 +2673,6 @@ Apple Watch Series 12とUltra 4が正式発表。心拍センサーが「ウェ�
 Apple Watch Series 12と Apple Watch Ultra 4は、9月9日（現地時間）にApple Park内のSteve Jobs Theaterで開かれた特別イベント「 おはよう世界。 」で発表された。会場に登壇したAppleのワールドワイドApple Watchプロダクトマーケティング担当バイスプレジデント、カイアン・ドランス氏は、両モデルを「Appleがこれまでに作った中で最も先進的な、健康とフィットネスのためのパートナー」だと紹介した。
 
 新しいヘ…</p><p><img src="https://gori.me/uploads/2026/09/up-20260910-024149-2N5A9348-800x533.jpg" alt="Apple Watch Series 12とUltra 4が正式発表。心拍センサーが「ウェアラブル史上最高精度」に"></p>]]></description><source url="https://gori.me/apple-watch/169882">gori.me</source><media:content url="https://gori.me/uploads/2026/09/up-20260910-024149-2N5A9348-800x533.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/09/up-20260910-024149-2N5A9348-800x533.jpg"/></item>
-<item><title>AirPods 5発表、耳をふさがないのにANC50%強化で23,800円から。9月18日発売</title><link>https://gori.me/music-accessories/airpods/169855</link><guid isPermaLink="true">https://gori.me/music-accessories/airpods/169855</guid><pubDate>Wed, 09 Sep 2026 17:34:27 +0000</pubDate><description><![CDATA[<p>AirPods 5発表、耳をふさがないのにANC50%強化で23,800円から。9月18日発売
-
-Appleが新しいAirPods5を発表した。オープンイヤー型ながらAirPods4のANCモデル比で最大50%多く雑音を除去し、価格は23,800円から。9月18日発売で予約は本日開始。Apple Park現地から速報でお届けする。
-
-AirPods 5発表、耳をふさがないのにANC50%強化で23,800円から。9月18日発売
-
-ANC有効で最大5時間、ケース併用で22時間再生。上位モデルは軸スワイプで音量調整でき27,800円
-
-新しいマルチポート音響アーキテクチャと進化したコンピュテーショナルオーディオにより、AirPods4のANCモデル比で最大50%多く雑音を除去
-
-ANC有効時で最大5時間再生（AirPods4 ANCモデルより1時間長い）、充電ケース併用で最大22時間
-
-標準モデル23,800円、ワイヤレス充電ケース付き27,800円。日本を含む65以上の国と地域で本日予約開始、9月18日（金）発売
-
-9月9日、僕はクパティーノのApple Park内、スティーブ・ジョブズ・シアターの客席にいた。 スペシャルイベント 「 おはよう世界。 」で発表された新しい AirPods 5は、耳をふさがないオープンイヤー型でありながら、これまでで最も強力なアクティブノイズキャンセリング（ANC、周囲の騒音を打ち消す機能）を積んできた。
-
-価格は23,800円（税込）から。9月18日（金）に発売される。
-
-AirPods 4 のANCモデルと比べて、最大50パーセント多く外部の雑音を除去できるという。イヤホンで耳をふさぐわけではないのに、これだけ静かになるのかと、会場でスライドを見ながら素直に驚いた。
-
-新しいマルチポートの音響アーキテクチャと、進化したコンピュテーショナルオ…</p><p><img src="https://gori.me/uploads/2026/09/up-20260910-023358-2N5A9310-800x533.jpg" alt="AirPods 5発表、耳をふさがないのにANC50%強化で23,800円から。9月18日発売"></p>]]></description><source url="https://gori.me/music-accessories/airpods/169855">gori.me</source><media:content url="https://gori.me/uploads/2026/09/up-20260910-023358-2N5A9310-800x533.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/09/up-20260910-023358-2N5A9310-800x533.jpg"/></item>
 <item><title>AirPods5、前世代比50%多く雑音カットで23,800円から</title><link>https://gori.me/iphone/169855</link><guid isPermaLink="true">https://gori.me/iphone/169855</guid><pubDate>Wed, 09 Sep 2026 17:34:27 +0000</pubDate><description><![CDATA[<p>AirPods5、前世代比50%多く雑音カットで23,800円から
 
 Appleが発表したAirPods5は、耳をふさがないオープンイヤー型でありながらANC性能が前世代比最大50%向上。価格は23,800円から、上位モデルは軸で音量調整も可能。現地取材の視点も交えて詳しく解説する。
@@ -2474,6 +2696,27 @@ AirPods 4のANCモデルと比べて、最大50パーセント多く外部の雑
 新しいマルチポートの音響アーキテクチャと、進化したコンピュテーショナルオーディオ（音を計算処理して補正する技術）のアルゴリズムによって、雑音の除去性能が底上げされている。
 
 Appleはこれを「オープンイヤーデザインで業界最高クラスのANC」と位置づけている。密閉型の AirPods Pro…</p><p><img src="https://gori.me/uploads/2026/09/up-20260910-023358-2N5A9310-800x533.jpg" alt="AirPods5、前世代比50%多く雑音カットで23,800円から"></p>]]></description><source url="https://gori.me/iphone/169855">gori.me</source><media:content url="https://gori.me/uploads/2026/09/up-20260910-023358-2N5A9310-800x533.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/09/up-20260910-023358-2N5A9310-800x533.jpg"/></item>
+<item><title>AirPods 5発表、耳をふさがないのにANC50%強化で23,800円から。9月18日発売</title><link>https://gori.me/music-accessories/airpods/169855</link><guid isPermaLink="true">https://gori.me/music-accessories/airpods/169855</guid><pubDate>Wed, 09 Sep 2026 17:34:27 +0000</pubDate><description><![CDATA[<p>AirPods 5発表、耳をふさがないのにANC50%強化で23,800円から。9月18日発売
+
+Appleが新しいAirPods5を発表した。オープンイヤー型ながらAirPods4のANCモデル比で最大50%多く雑音を除去し、価格は23,800円から。9月18日発売で予約は本日開始。Apple Park現地から速報でお届けする。
+
+AirPods 5発表、耳をふさがないのにANC50%強化で23,800円から。9月18日発売
+
+ANC有効で最大5時間、ケース併用で22時間再生。上位モデルは軸スワイプで音量調整でき27,800円
+
+新しいマルチポート音響アーキテクチャと進化したコンピュテーショナルオーディオにより、AirPods4のANCモデル比で最大50%多く雑音を除去
+
+ANC有効時で最大5時間再生（AirPods4 ANCモデルより1時間長い）、充電ケース併用で最大22時間
+
+標準モデル23,800円、ワイヤレス充電ケース付き27,800円。日本を含む65以上の国と地域で本日予約開始、9月18日（金）発売
+
+9月9日、僕はクパティーノのApple Park内、スティーブ・ジョブズ・シアターの客席にいた。 スペシャルイベント 「 おはよう世界。 」で発表された新しい AirPods 5は、耳をふさがないオープンイヤー型でありながら、これまでで最も強力なアクティブノイズキャンセリング（ANC、周囲の騒音を打ち消す機能）を積んできた。
+
+価格は23,800円（税込）から。9月18日（金）に発売される。
+
+AirPods 4 のANCモデルと比べて、最大50パーセント多く外部の雑音を除去できるという。イヤホンで耳をふさぐわけではないのに、これだけ静かになるのかと、会場でスライドを見ながら素直に驚いた。
+
+新しいマルチポートの音響アーキテクチャと、進化したコンピュテーショナルオ…</p><p><img src="https://gori.me/uploads/2026/09/up-20260910-023358-2N5A9310-800x533.jpg" alt="AirPods 5発表、耳をふさがないのにANC50%強化で23,800円から。9月18日発売"></p>]]></description><source url="https://gori.me/music-accessories/airpods/169855">gori.me</source><media:content url="https://gori.me/uploads/2026/09/up-20260910-023358-2N5A9310-800x533.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/09/up-20260910-023358-2N5A9310-800x533.jpg"/></item>
 <item><title>新しいSiri、日本語対応は10月から。まずは英語ベータで9月スタート</title><link>https://gori.me/ios/ios-news/169836</link><guid isPermaLink="true">https://gori.me/ios/ios-news/169836</guid><pubDate>Wed, 09 Sep 2026 17:21:46 +0000</pubDate><description><![CDATA[<p>新しいSiri、日本語対応は10月から。まずは英語ベータで9月スタート
 
 Appleのスペシャルイベントで、新しいAI搭載Siriについての発表があった。まずは英語版がベータとして9月に提供開始され、日本語やフランス語、韓国語、ポルトガル語、スペイン語への対応は10月に追加される予定だ。日本での展開も間近に迫っている。
@@ -5001,19 +5244,6 @@ Appleから届いた秋のスペシャルイベントの招待状には、「お
 新着や注目の記事を見逃さないように。すべて無料・いつでも解除できます。
 
 Google優先ソースに登録する 🔔 新着を通知で受け取る 今後表示しない この記事をシェア アプリで送る リンクをコピー この記事、どうだった？ いくつでも押せます 4件のリアクション ｷﾀ━(ﾟ∀ﾟ)━! 4 +1 マジか！ 0 +1 うーん… 0 +1 役に立った！ 0 +1 ｻﾝｸｽ☆( ﾟДﾟ)b 0 +1 1 件のコメント 2 2026見送り君 : 今回発表の製品は狙っていないんですが・・・ 楽しみですね ワクワクします コメントを読む コメントを投稿する 特集 Surprise and shine</p><p><img src="https://gori.me/uploads/2026/08/Surprise-and-Shine-800x450.jpeg" alt="Apple秋イベント密着ログ｜記事にならない現地のぜんぶ"></p>]]></description><source url="https://gori.me/apple/special-event/169378">gori.me</source><media:content url="https://gori.me/uploads/2026/08/Surprise-and-Shine-800x450.jpeg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/08/Surprise-and-Shine-800x450.jpeg"/></item>
-<item><title>第8世代Core i5搭載の「ThinkPad X1 Carbon」が10%オフで37,620円、Qualitの中古Bランク品が期間限定セール</title><link>https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2138118.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2138118.html</guid><pubDate>Tue, 08 Sep 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>第8世代Core i5搭載の「ThinkPad X1 Carbon」が10%オフで37,620円、Qualitの中古Bランク品が期間限定セール
-
-Core i5-8350U(4コア/8スレッド)を搭載したLenovo製14型ノートPC「ThinkPad X1 Carbon」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で期間限定セール中。
-
-第8世代Core i5搭載の「ThinkPad X1 Carbon」が10%オフで37,620円、Qualitの中古Bランク品が期間限定セール
-
-Core i5-8350U(4コア/8スレッド)を搭載したLenovo製14型ノートPC「ThinkPad X1 Carbon」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で期間限定セール中 。
-
-今回販売されているのは、「気にならない程度の打痕や塗装剥がれなどがある」(同店)というBランク中古品で、販売価格は37,620円。保証期間は12か月で、「バッテリーテストを実施したところ、80%以上の結果を出したモデル」とのこと。
-
-主な仕様は、ディスプレイ解像度が1,920×1,080ドット、メモリが8GB(増設不可)、ストレージが128GB M.2 SATA SSD、OSがWindows 11 Pro。インターフェイスには、HDMIやUSB Thunderbolt 3(USB-C)などを備えるほか、Webカメラや無線LAN機能、指紋認証機能を搭載しています。
-
-セール期間は9月30日までとなっています。興味がある方はチェックしてみてください。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2138/118/a1.jpg" alt="第8世代Core i5搭載の「ThinkPad X1 Carbon」が10%オフで37,620円、Qualitの中古Bランク品が期間限定セール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2138118.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2138/118/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2138/118/a1.jpg"/></item>
 <item><title>【第3回アンケート結果】折りたたみiPhoneの名前 「Ultra」44％も3割は「別の名前」</title><link>https://iphone-mania.jp/iphone18-605395/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-605395/</guid><pubDate>Tue, 08 Sep 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>【第3回アンケート結果】折りたたみiPhoneの名前 「Ultra」44％も3割は「別の名前」
 
 iPhone Maniaの読者コミュニティ「iMコミュニティ」で、9月10日（日本時間）の発表イベントを前に2つのアンケートを実施しました。9月1日から9月7日までの期間で、48名の方に投票いただきました。
@@ -5037,6 +5267,19 @@ Ultraは何となく既存の延長感があるので、せめてFoldがいい�
 「iPhoneですらなくてもいい」。この感覚を、さらに踏み込んで書いてくださった方がいました。
 
 そもそもiPhoneシリーズではなく、「iFold」のような別の端末シリ…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/survey_thumb_result_foldname_v2.png" alt="【第3回アンケート結果】折りたたみiPhoneの名前 「Ultra」44％も3割は「別の名前」"></p>]]></description><source url="https://iphone-mania.jp/iphone18-605395/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/survey_thumb_result_foldname_v2.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/survey_thumb_result_foldname_v2.png"/></item>
+<item><title>第8世代Core i5搭載の「ThinkPad X1 Carbon」が10%オフで37,620円、Qualitの中古Bランク品が期間限定セール</title><link>https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2138118.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2138118.html</guid><pubDate>Tue, 08 Sep 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>第8世代Core i5搭載の「ThinkPad X1 Carbon」が10%オフで37,620円、Qualitの中古Bランク品が期間限定セール
+
+Core i5-8350U(4コア/8スレッド)を搭載したLenovo製14型ノートPC「ThinkPad X1 Carbon」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で期間限定セール中。
+
+第8世代Core i5搭載の「ThinkPad X1 Carbon」が10%オフで37,620円、Qualitの中古Bランク品が期間限定セール
+
+Core i5-8350U(4コア/8スレッド)を搭載したLenovo製14型ノートPC「ThinkPad X1 Carbon」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で期間限定セール中 。
+
+今回販売されているのは、「気にならない程度の打痕や塗装剥がれなどがある」(同店)というBランク中古品で、販売価格は37,620円。保証期間は12か月で、「バッテリーテストを実施したところ、80%以上の結果を出したモデル」とのこと。
+
+主な仕様は、ディスプレイ解像度が1,920×1,080ドット、メモリが8GB(増設不可)、ストレージが128GB M.2 SATA SSD、OSがWindows 11 Pro。インターフェイスには、HDMIやUSB Thunderbolt 3(USB-C)などを備えるほか、Webカメラや無線LAN機能、指紋認証機能を搭載しています。
+
+セール期間は9月30日までとなっています。興味がある方はチェックしてみてください。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2138/118/a1.jpg" alt="第8世代Core i5搭載の「ThinkPad X1 Carbon」が10%オフで37,620円、Qualitの中古Bランク品が期間限定セール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2138118.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2138/118/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2138/118/a1.jpg"/></item>
 <item><title>iPhone 18 Proは「ヒストグラム」「フォーカスピーキング」実装でカメラ機能劇的強化、やはり可変絞り搭載の可能性。iOS 27のコードから発見</title><link>https://smhn.info/202609-iphone-18-pro-camera-features-code-leak</link><guid isPermaLink="true">https://smhn.info/202609-iphone-18-pro-camera-features-code-leak</guid><pubDate>Tue, 08 Sep 2026 02:49:15 +0000</pubDate><description><![CDATA[<p>iPhone 18 Proは「ヒストグラム」「フォーカスピーキング」実装でカメラ機能劇的強化、やはり可変絞り搭載の可能性。iOS 27のコードから発見
 
 MacRumorsは、iOS 27ベータ版のコードから、標準カメラアプリに関する5つの未公開機能が見つかったと報じました。フォーラム投稿者pdfu氏の解析に基づく情報で、一部はiPhone 18 Proとともに登場する可能性があるとしています。1つ目は、撮影時の明るさを判断する波...
@@ -8407,269 +8650,4 @@ GeForce RTX 4000シリーズでDLSS 5を使いたいという方は、今しば�
 なお、GeForce RTX 3000シリーズおよびGeForce RTX 2000シリーズでのサポートについては今のところ言及はありません。
 
 筆者は自作PC歴20年以上の経験を持ち、Windows OSの細部に…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2026/09/nvidia-dlss5-top-b.jpg" alt="NVIDIA、DLSS 5のサポートをGeForce RTX 4000シリーズへも拡大予定。まずはGeForce RTX 5000シリーズに注力"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-132061.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2026/09/nvidia-dlss5-top-b.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2026/09/nvidia-dlss5-top-b.jpg"/></item>
-<item><title>MacBook ProとAirの中間モデル開発か〜折りたたみMacBookは中止へ</title><link>https://iphone-mania.jp/mac-605269/</link><guid isPermaLink="true">https://iphone-mania.jp/mac-605269/</guid><pubDate>Fri, 04 Sep 2026 09:51:21 +0000</pubDate><description><![CDATA[<p>MacBook ProとAirの中間モデル開発か〜折りたたみMacBookは中止へ
-
-折りたたみ有機EL（OLED）ディスプレイを搭載するMacBook（以下、折りたたみMacBook）と、別ラインとして計画されていた14.4インチ〜16.1インチのOLED搭載MacBookについて、Appleが開発を中止したと市場調査会社Omdiaが報告しています。
-
-MacBook ProとAirの中間モデル開発か〜折りたたみMacBookは中止へ
-
-折りたたみ有機EL（OLED）ディスプレイを搭載するMacBook（以下、 折りたたみMacBook ）と、別ラインとして計画されていた 14.4インチ〜16.1インチのOLED搭載MacBook について、Appleが 開発を中止 したと市場調査会社Omdiaが報告しています。
-
-一方、 新たに13.8インチOLEDディスプレイを搭載し、MacBook AirとMacBook Proの中間に位置付けられるMacBookを開発 している模様です。
-
-Omdiaによると、Appleは展開時に 16.1インチ〜18インチになる折りたたみMacBook と、 14.4インチ〜16.1インチのOLED搭載MacBook の製品化計画を 中止 したとのことです。
-
-ただし、並行して開発されている 14.3インチおよび16.3インチのOLED搭載MacBook Proは計画を継続 しており、2026年後半〜2027年初頭に登場する見込みです。
-
-折りたたみMacBookについては、これまで18インチ前後の大型ディスプレイを搭載するデバイスとして開発が進められていると噂されていました。
-
-Omdiaの最新ロードマップでは、展開時に16.1インチ〜18インチになる 折りたたみMacBookの製品計画自体が中止 されたとされています。
-
-これまでには20.…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/04/138-OLED-Macbook-Pro-AH.jpg" alt="MacBook ProとAirの中間モデル開発か〜折りたたみMacBookは中止へ"></p>]]></description><source url="https://iphone-mania.jp/mac-605269/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/04/138-OLED-Macbook-Pro-AH.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/04/138-OLED-Macbook-Pro-AH.jpg"/></item>
-<item><title>KDDI「auひかりプラス」発表。工事前は5G、開通後は最大10Gbps</title><link>https://smhn.info/202609-kddi-au-hikari-plus-launch</link><guid isPermaLink="true">https://smhn.info/202609-kddi-au-hikari-plus-launch</guid><pubDate>Fri, 04 Sep 2026 09:44:32 +0000</pubDate><description><![CDATA[<p>KDDI「auひかりプラス」発表。工事前は5G、開通後は最大10Gbps
-
-KDDIは、光回線とau 5G回線を組み合わせた固定インターネットサービス「auひかりプラス」を2026年9月17日から提供します。専用ルーターが届けば、光回線の開通工事を待たずにインターネットと電話を使い始められます。開通前はau 5G回線へ接続し、光回線の工事完了後は追加の手...
-
-KDDI「auひかりプラス」発表。工事前は5G、開通後は最大10Gbps
-
-KDDIは、光回線とau 5G回線を組み合わせた固定インターネットサービス「auひかりプラス」を2026年9月17日から提供します。 専用ルーターが届けば、光回線の開通工事を待たずにインターネットと電話を使い始められます 。
-
-開通前はau 5G回線へ接続し、光回線の工事完了後は追加の手続きや宅内機器の設定変更なしで光回線へ移行します。戸建てとマンションに対応し、地域や建物、設備状況に応じて全国で最大10Gbpsのサービスを提供します。
-
-専用のハイブリッドホームルーターはWi-Fi 7に対応。光回線、5G、Wi-Fi、電話の機能を1台にまとめています。6GHz帯の利用にはWi-Fiパック（月額770円）が必要です。
-
-光回線の障害時には、ルーター設定の変更やLANケーブルの取り外し、再起動によってau 5G回線へ切り替えられます。障害の自動検知は提供開始時点では未搭載で、KDDIは2026年度内のファームウェア更新を予定しています。
-
-対応プロバイダーは提供開始時点でBIGLOBE、So-net、@nifty。ホーム10ギガ、ホーム、マンション10ギガ、マンション、ワイヤレスの各サービスを用意。
-
-光回線の開通を待つ間の5G通信については、初月無料と最大3カ月の割引を合わせた「ひかり準備割」を用意します。Wi-Fiパックも利用開始月無料と…</p><p><img src="https://smhn.info/wp-content/uploads/2026/09/au-hikari.png" alt="KDDI「auひかりプラス」発表。工事前は5G、開通後は最大10Gbps"></p>]]></description><source url="https://smhn.info/202609-kddi-au-hikari-plus-launch">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/09/au-hikari.png" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/09/au-hikari.png"/></item>
-<item><title>レイテンシ0.48msのRazer製キーボードにSentinelsコラボ版</title><link>https://pc.watch.impress.co.jp/docs/news/2138439.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2138439.html</guid><pubDate>Fri, 04 Sep 2026 09:27:43 +0000</pubDate><description><![CDATA[<p>レイテンシ0.48msのRazer製キーボードにSentinelsコラボ版
-
-Razerは9月3日、eスポーツチームSentinelsとの特別コラボレーションモデルの第2弾として「Razer Huntsman V3 Pro Tenkeyless 8KHz Sentinels Edition」を発表した。直販価格は4万2,680円。
-
-レイテンシ0.48msのRazer製キーボードにSentinelsコラボ版
-
-Razerは9月3日、eスポーツチームSentinelsとの特別コラボレーションモデルの第2弾として「Razer Huntsman V3 Pro Tenkeyless 8KHz Sentinels Edition」を発表した。直販価格は4万2,680円。
-
-Razer Huntsman V3 Pro Tenkeyless 8KHz Sentinels Editionは、Razer第2世代アナログオプティカルスイッチやTrue 8,000Hz HyperPollingテクノロジを搭載し、0.48msという超低レイテンシを実現したゲーミングキーボード。
-
-Sentinelsのチームカラーでもあるレッドとブラックに基づいたデザインが施されており、レッドのアルマイト加工を施したアルミ製トッププレートと、ブラックのダブルショットPBTキーキャップを採用している。
-
-キースイッチの特徴としてアクチュエーションレンジを0.1～4.0mmで設定できるほか、超高速の連続入力が可能なRapid Triggerモードなどゲーマー向けの機能を備える。
-
-また、クリック可能なマルチファンクションデジタルダイヤルと専用コントロールボタンを搭載。メディア操作やマクロ実行、アクチュエーションハイトやRapid Trigger感度調整の操作を即時に行なうことができる。
-
-Razer Huntsman …</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2138/439/01.jpg" alt="レイテンシ0.48msのRazer製キーボードにSentinelsコラボ版"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2138439.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2138/439/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2138/439/01.jpg"/></item>
-<item><title>Acer、可変キーボード搭載の携帯ゲーミングPC「DualPlay Mini」披露</title><link>https://smhn.info/202609-acer-project-dualplay-mini-concept-unveiled</link><guid isPermaLink="true">https://smhn.info/202609-acer-project-dualplay-mini-concept-unveiled</guid><pubDate>Fri, 04 Sep 2026 09:17:35 +0000</pubDate><description><![CDATA[<p>Acer、可変キーボード搭載の携帯ゲーミングPC「DualPlay Mini」披露
-
-Acerは2026年9月2日、携帯ゲーミングPCのコンセプト機「Project DualPlay Mini」を披露しました。なんと8型画面を備え、携帯ゲーム機と小型ノートPCの2通りの形で使えます。最大の特徴は、画面を起こして回転させる「フリップ＆スイベル」機構。携帯ゲーム機の...
-
-Acer、可変キーボード搭載の携帯ゲーミングPC「DualPlay Mini」披露
-
-Acerは2026年9月2日、携帯ゲーミングPCのコンセプト機「Project DualPlay Mini」を披露しました。
-
-なんと 8型画面を備え、携帯ゲーム機と小型ノートPCの2通りの形 で使えます。
-
-最大の特徴は、画面を起こして回転させる「フリップ＆スイベル」機構。携帯ゲーム機の形から変形させると、画面の下に隠れていたバックライト付き物理キーボードが現れ、ノートPCのように使える構造になっています。
-
-携帯モードでは本体のゲーム操作部を使い、ノートPCモードではキーボードで操作できます。Acerは、プレイヤー視点で戦うFPSゲームで、内蔵キーボードとBluetoothマウスを組み合わせる使い方を紹介しています。
-
-キーボードはゲームだけでなく、メールの確認や文書作成にも活用できるとしています。
-
-プロセッサーはIntel製（型番未公表）。冷却には、Predator AeroBlade金属ファンと樹脂製ファンを1基ずつ搭載します。従来モデルより金属ファンの羽根をより薄くしているといいます。
-
-背面には、Acerの創業50周年にちなみ「Acer 50 since 1976」の文字をモールス符号であしらっています。
-
-現時点ではコンセプトの披露にとどまり、発売予定は決まっていません。</p><p><img src="https://smhn.info/wp-content/uploads/2026/09/PROJECT-DUALPLAY-MINI-Product-03.png" alt="Acer、可変キーボード搭載の携帯ゲーミングPC「DualPlay Mini」披露"></p>]]></description><source url="https://smhn.info/202609-acer-project-dualplay-mini-concept-unveiled">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/09/PROJECT-DUALPLAY-MINI-Product-03.png" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/09/PROJECT-DUALPLAY-MINI-Product-03.png"/></item>
-<item><title>【#eイヤ19周年】新品＆中古 アニバーサリーセールを開催いたします！【2026/9/4(金)20:00～9/8(火)11:00】</title><link>https://e-earphone.blog/?p=1552805</link><guid isPermaLink="true">https://e-earphone.blog/?p=1552805</guid><pubDate>Fri, 04 Sep 2026 09:11:47 +0000</pubDate><description><![CDATA[<p>【#eイヤ19周年】新品＆中古 アニバーサリーセールを開催いたします！【2026/9/4(金)20:00～9/8(火)11:00】
-
-e☆イヤホン19周年を記念して新品、中古商品がドドンとお買い得になるセールを開催 皆さまと歩み続けて、e☆イヤホンは19周年を迎えることができました！ これからも“いい音”と“いい出会い”をお届けして
-
-e☆イヤホン19周年を記念して新品、中古商品がドドンとお買い得になるセールを開催
-
-皆さまと歩み続けて、 e☆イヤホンは19周年を迎えることができました！
-
-これからも“いい音”と“いい出会い”をお届けしてまいります。
-
-19年目のアニバーサリーを記念して、今回は特別なセールをご用意いたしました！新品・中古がどちらもお得になる、感謝を込めたセールです。ぜひこの機会をお楽しみください！
-
-今回の新品＆中古 アニバーサリーセールでは、 週末に中古商品がお得になる「超中古の日SP」と新品商品を対象にしたオンラインストア限定「新品セール」を同時開催いたします！
-
-▽新品セール情報（オンラインストア限定） ・特価対象商品総点数は 約5,400点！ ・最大値引き率： 約61％！ ・最大なんと ￥17,000-OFF！！
-
-▽中古セール情報 ・特価対象商品は 約30,000点！ ・さらに、 ポイント5倍（※一部対象外） ・最大 \110,000-OFF！！
-
-オンラインストア限定！: 2026年9月4日(金)20:00～2026年9月8日(火)11:00
-
-中古セールは特定の製品ではなく、中古商品全体がお求めやすくなるセールなので、お目当ての商品が対象になるチャンスが高いですぞ！
-
-通常価格から5%引きでご購入いただけます。 憧れのハイエンド機種も、この機会なら手が届きやすい価格に。
-
-通常1%のポイント付与率が、なんと 5倍の5% に。次回のお…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/09/banner_260904_new-used-19anniversary-sale_1000570.webp" alt="【#eイヤ19周年】新品＆中古 アニバーサリーセールを開催いたします！【2026/9/4(金)20:00～9/8(火)11:00】"></p>]]></description><source url="https://e-earphone.blog/?p=1552805">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/09/banner_260904_new-used-19anniversary-sale_1000570.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/09/banner_260904_new-used-19anniversary-sale_1000570.webp"/></item>
-<item><title>639gの8型に凝縮、Arc G3 Extreme機「OneXFly APEX Air」発売</title><link>https://pc.watch.impress.co.jp/docs/news/2138419.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2138419.html</guid><pubDate>Fri, 04 Sep 2026 08:34:39 +0000</pubDate><description><![CDATA[<p>639gの8型に凝縮、Arc G3 Extreme機「OneXFly APEX Air」発売
-
-比較的受け入れやすい価格帯でゲーム性能のブレイクスルーをもたらしたArc G3 Extremeだが、ここに来て新たな選択肢が登場した。天空は、One-Netbook製の8型ポータブルゲーミングPC「OneXFly APEX Air」を9月11日に発売する。価格は29万8,000円だ。
-
-639gの8型に凝縮、Arc G3 Extreme機「OneXFly APEX Air」発売
-
-比較的受け入れやすい価格帯でゲーム性能のブレイクスルーをもたらしたArc G3 Extremeだが、ここに来て新たな選択肢が登場した。天空は、One-Netbook製の8型ポータブルゲーミングPC「OneXFly APEX Air」を9月11日に発売する。価格は29万8,000円だ。
-
-OneXFly APEX Airは、One-Netbookが6月に上位モデルの「OneXPlayer 3」とともに発表した、8型Arc G3 Extreme搭載のポータブルゲーミングPCだ。OneXPlayer 3と比較すると、コントローラが着脱式ではなく、ポゴピンで接続できるキーボードも付属しない。代わりに画面を8.8型から8型に小型化し、バッテリを着脱式とすることで、最軽量時で約639gを実現したのが大きな相違点だ。
-
-そのほかの仕様は、メモリは32GBのLPDDR5X、ストレージは1TBのM.2 2280 SSD、ディスプレイはWUXGA(1,920×1,200ドット)/120Hz表示対応の8型、OSはWindows 11 Home。
-
-インターフェイスはUSB4、USB 3.2 Type-C(Gen不明)、Mini SSDスロット、Wi-Fi 7、Bluetooth 5.4、microSDカードスロット、指紋セン…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2138/419/14.jpg" alt="639gの8型に凝縮、Arc G3 Extreme機「OneXFly APEX Air」発売"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2138419.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2138/419/14.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2138/419/14.jpg"/></item>
-<item><title>サイコムの小型ゲーミングPCが第2世代へ、「G-Master Velox Mini 2」発売</title><link>https://www.gdm.or.jp/pressrelease/2026/0904/650885</link><guid isPermaLink="true">https://www.gdm.or.jp/pressrelease/2026/0904/650885</guid><pubDate>Fri, 04 Sep 2026 08:26:15 +0000</pubDate><description><![CDATA[<p>サイコムの小型ゲーミングPCが第2世代へ、「G-Master Velox Mini 2」発売
-
-サイコム、容量21.3LのコンパクトゲーミングPC「G-Master Velox Mini 2」を発売。横置きと縦置きに対応し、Core UltraやRyzen 9000/5000シリーズを採用する3モデルをラインナップする。
-
-サイコムの小型ゲーミングPCが第2世代へ、「G-Master Velox Mini 2」発売
-
-縦置き対応の21.3L筐体を採用、Intel/AMDから選べる3モデル
-
-株式会社サイコム（本社：埼玉県八潮市）は2026年9月4日、ゲーミングPC「G-Master Velox」シリーズの新製品 「G-Master Velox Mini 2」 を発表、同日より販売を開始した。
-
-2025年3月に登場した「G-Master Velox Mini」を刷新した第2世代モデル。従来のMini-ITXからMicroATXへとプラットフォームを変更し、PCケースには容量21.3LのLian Li「B4-mATX Mesh」を採用。外形寸法は幅191mm、奥行き420mm、高さ288mmで、横置きと縦置きの両方に対応する。
-
-コンパクトながら最大358mm（4スロット）のグラフィックスカードや、240mmラジエーターを搭載する水冷クーラーに対応。天面には120mm ×15mmの薄型ファンを2基、背面には120mm静音ファンを搭載する。横置き時は背面から吸気して天面から排気する構成で、前面、底面、側面のメッシュ構造と組み合わせてエアフローを確保。縦置き時は冷気を底面側から取り込み、煙突効果を利用して排熱する設計としている。
-
-ラインナップは、Intel Core Ultraプロセッサー対応の 「G-Master Velox Mini 2 B860i」 、AMD Ryzen 9000シリーズ対応の 「G-Master Velox Mini 2 B850A」 、DDR4メモリを採用するRyzen 5000シリーズ対応の 「G-Master Velox Mini 2 B550…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/09/04/veloxmini2B_001.jpg" alt="サイコムの小型ゲーミングPCが第2世代へ、「G-Master Velox Mini 2」発売"></p>]]></description><source url="https://www.gdm.or.jp/pressrelease/2026/0904/650885">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/09/04/veloxmini2B_001.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/09/04/veloxmini2B_001.jpg"/></item>
-<item><title>Intel Arc G3 Extreme���ܤη��ӷ�������PC��OneXFly APEX Air�פ�9��11���˹���ȯ��</title><link>https://www.4gamer.net/games/550/G055070/20260904035/</link><guid isPermaLink="true">https://www.4gamer.net/games/550/G055070/20260904035/</guid><pubDate>Fri, 04 Sep 2026 08:24:26 +0000</pubDate><description><![CDATA[<p>Intel Arc G3 Extreme���ܤη��ӷ�������PC��OneXFly APEX Air�פ�9��11���˹���ȯ��
-
-2026年9月4日，天空は，ONE-NETBOOKの携帯型ゲームPC「OneXFly APEX Air」を9月11日に発売すると発表した。既存製品である「OneXFly APEX」のバリエーションモ…
-
-Intel Arc G3 Extreme搭載の携帯型ゲームPC「OneXFly APEX Air」が9月11日に国内発売 ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
-
-↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 夏は七不思議ならぬ“七不穏”で暑さを忘却の彼方へ――涼しくチルアウトできる終末，陰鬱，ディストピアな7つのゲーム ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ ひと夏の思い出に「桃鉄」100年プレイ。みんなで完走するための準備＆プレイガイド ↑アイコン/タ…</p><p><img src="https://www.4gamer.net/games/550/G055070/20260904035/SS/001.jpg" alt="Intel Arc G3 Extreme���ܤη��ӷ�������PC��OneXFly APEX Air�פ�9��11���˹���ȯ��"></p>]]></description><source url="https://www.4gamer.net/games/550/G055070/20260904035/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/550/G055070/20260904035/SS/001.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/550/G055070/20260904035/SS/001.jpg"/></item>
-<item><title>Core i5-10210U搭載の13.3インチ軽量ノートPCが29,800円、中古PCセール</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2138077.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2138077.html</guid><pubDate>Fri, 04 Sep 2026 08:05:00 +0000</pubDate><description><![CDATA[<p>Core i5-10210U搭載の13.3インチ軽量ノートPCが29,800円、中古PCセール
-
-Core i5-10210U（4コア/8スレッド）搭載の13.3インチノート「PC-VKT16GZG7」の中古品が、PCコンフル 秋葉原2号店でセール中。
-
-Core i5-10210U搭載の13.3インチ軽量ノートPCが29,800円、中古PCセール
-
-Core i5-10210U（4コア/8スレッド）搭載の13.3インチノート「PC-VKT16GZG7」の中古品が、 PCコンフル 秋葉原2号店 でセール中。
-
-主な仕様は、ディスプレイ解像度が1,920×1,080ドット、8GBメモリ（変更不可）、256GB SSD、OSがWindows 11 Proなど。このほか、Webカメラや無線LAN機能、microSDカードスロットを備えています。
-
-Microsoft Office Home 2024(最新 永続版)|オンラインコード
-
-Microsoft Office Home &amp; Business 2024(最新 永続版)|オンラインコード版</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2138/077/a1.jpg" alt="Core i5-10210U搭載の13.3インチ軽量ノートPCが29,800円、中古PCセール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2138077.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2138/077/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2138/077/a1.jpg"/></item>
-<item><title>MSI、ケーブルも白色に統一した144Hz対応27型ビジネスモニター</title><link>https://pc.watch.impress.co.jp/docs/news/2138413.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2138413.html</guid><pubDate>Fri, 04 Sep 2026 08:03:57 +0000</pubDate><description><![CDATA[<p>MSI、ケーブルも白色に統一した144Hz対応27型ビジネスモニター
-
-MSIは9月4日、ビジネス向けながら144Hzリフレッシュレート表示に対応した27型モニター「PRO MP273W E14AJP」を発売した。実売価格は2万5,100円前後。
-
-MSI、ケーブルも白色に統一した144Hz対応27型ビジネスモニター
-
-MSIは9月4日、ビジネス向けながら144Hzリフレッシュレート表示に対応した27型モニター「PRO MP273W E14AJP」を発売した。実売価格は2万5,100円前後。
-
-PRO MP273W E14AJPは、フルHD(1,920×1,080ドット)非光沢IPSパネルを搭載したビジネスモニター。ホワイトデザインの筐体を採用しており、ケーブルの色も白で統一されている。3W+3Wスピーカーや、台座部分にスマートフォンが設置できるスタンドを標準で装備しており、作業効率の向上に貢献するとしている。
-
-対応ミニPCと接続して設定すると、モニターの電源ボタンとPCの電源を連動できる「MSI Power Link」機能を搭載。目の疲労度合いを確認できるEye-Q Check、アンチフリッカー、ブルーライトカットといった目への負担を抑える機能も備える。
-
-主な仕様は、最大表示色数が約1,670万色、色域がsRGBカバー率90%、DCI-P3カバー率78%、MPRT応答速度が1ms、輝度が250cd/平方m、コントラスト比が1,500:1、視野角が上下/左右ともに178度。
-
-インターフェイスは、HDMI 2.0、DisplayPort 1.2a、ミニD-Sub15ピン、音声入出力を備える。
-
-本体サイズは約614×202×471mm、重量は約4.1kg。スタンドは-5～20度のチルトに対応する。3年間のメーカー保証が付属する。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2138/413/01.jpg" alt="MSI、ケーブルも白色に統一した144Hz対応27型ビジネスモニター"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2138413.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2138/413/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2138/413/01.jpg"/></item>
-<item><title>�ֵ����� Way of the Sword�פ���The Blood of Dawnwalker�פ��б�������AMD Software 26.9.1�ץ��꡼��</title><link>https://www.4gamer.net/games/022/G002212/20260904033/</link><guid isPermaLink="true">https://www.4gamer.net/games/022/G002212/20260904033/</guid><pubDate>Fri, 04 Sep 2026 07:05:35 +0000</pubDate><description><![CDATA[<p>�ֵ����� Way of the Sword�פ���The Blood of Dawnwalker�פ��б�������AMD Software 26.9.1�ץ��꡼��
-
-米国時間2026年9月3日，AMDは，「Radeon RX 5000」シリーズ以降のGPUと，RDNAアーキテクチャ以降のGPUを搭載するAPU向けドライバソフト「AMD Software Adre…
-
-「鬼武者 Way of the Sword」や「The Blood of Dawnwalker」に対応する「AMD Software 26.9.1」リリース ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
-
-↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 夏は七不思議ならぬ“七不穏”で暑さを忘却の彼方へ――涼しくチルアウトできる終末，陰鬱，ディストピアな7つのゲーム ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ ひと夏の思い出に「桃鉄」1…</p><p><img src="https://www.4gamer.net/games/022/G002212/20260904033/SS/001.jpg" alt="�ֵ����� Way of the Sword�פ���The Blood of Dawnwalker�פ��б�������AMD Software 26.9.1�ץ��꡼��"></p>]]></description><source url="https://www.4gamer.net/games/022/G002212/20260904033/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/022/G002212/20260904033/SS/001.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/022/G002212/20260904033/SS/001.jpg"/></item>
-<item><title>GeForce Game Readyドライバ 616.64 WHQL公開。新機能DLSS 5 3D-Guided Neural Renderingをサポート</title><link>https://www.nichepcgamer.com/archives/geforce-driver-616-64.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/geforce-driver-616-64.html</guid><pubDate>Fri, 04 Sep 2026 06:18:00 +0000</pubDate><description><![CDATA[<p>GeForce Game Readyドライバ 616.64 WHQL公開。新機能DLSS 5 3D-Guided Neural Renderingをサポート
-
-『NBA 2K27』『鬼武者 Way of the Sword』に最適化し、DLSS 5 3D-Guided Neural RenderingをサポートしたGeForce Game Readyドライ...
-
-『NBA 2K27』『鬼武者 Way of the Sword』に最適化し、DLSS 5 3D-Guided Neural RenderingをサポートしたGeForce Game Readyドライバ 616.64 WHQLが公開されました。
-
-GeForce Game Readyドライバ 616.64 WHQLには、以下の新機能が含まれています。
-
-DLSS 5 3D-Guided Neural Rendering 現時点ではGeForce RTX 5000シリーズのみがDLSS 5をサポートしています。今後のアップデートで GeForce RTX 4000シリーズもサポートが予定 されています
-
-GeForce Game Readyドライバ 616.64 WHQLには、以下のゲームタイトルのサポートの追加・最適化が含まれています。
-
-GeForce Game Readyドライバ 616.64 WHQL対応製品
-
-GeForce Game Readyドライバ 616.64 WHQLは、以下の製品をサポートします。
-
-GeForce Game Readyドライバ 616.64 WHQLで修正された不具合
-
-GeForce Game Readyドライバ 616.64 WHQLで修正された不具合はありません。
-
-GeForce Game Readyドライバ 616.64 WHQL ダウンロードリンク
-
-GeForce Game Readyドライバ 616.64 WHQL Windows10 / Windows11用 64bit
-
-616.64ドライバの不具合情報については後日別途記事にいたします。
-
-本ドライバの…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2025/12/nvidia-logo-1200.jpg" alt="GeForce Game Readyドライバ 616.64 WHQL公開。新機能DLSS 5 3D-Guided Neural Renderingをサポート"></p>]]></description><source url="https://www.nichepcgamer.com/archives/geforce-driver-616-64.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2025/12/nvidia-logo-1200.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2025/12/nvidia-logo-1200.jpg"/></item>
-<item><title>Razer×『鳴潮』ダーニャコラボデバイスが発売、計4製品</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2138102.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2138102.html</guid><pubDate>Fri, 04 Sep 2026 06:05:00 +0000</pubDate><description><![CDATA[<p>Razer×『鳴潮』ダーニャコラボデバイスが発売、計4製品
-
-RazerとKuro GamesのオープンワールドアクションRPG『鳴潮（Wuthering Waves）』のコラボレーションモデルの販売がスタートした。
-
-RazerとKuro GamesのオープンワールドアクションRPG『鳴潮（Wuthering Waves）』のコラボレーションモデルの販売がスタートした。
-
-ラインナップはチェア、キーボード、マウス、マウスパッドの4製品。
-
-なお、販売店の TSUKUMO eX. によると、初回特典ノベルティのうち、「Gigantus V2 XXL – 鳴潮（Wuthering Waves）Edition」購入特典のLarge Pin Setと「Iskur V2 X – 鳴潮（Wuthering Waves）Edition」購入特典のポスターの入荷が遅延しているとのこと。同店では「ノベルティは入荷次第、後日配送（日本国内のみ）」と案内している。
-
-Razer Iskur V2 X – 鳴潮（Wuthering Waves）Edition
-
-Iskur V2 X – 鳴潮（Wuthering Waves）Editionは、人間工学に基づいた設計のゲーミングチェア。店頭価格は69,960円。
-
-ゲーム内キャラクターの「ダーニャ」と、同キャラクターのモチーフをあしらったデザインとカラーリングが特徴。
-
-統合型ランバーサポートや圧力を分散する設計など、そのほかの主な仕様は既存の「Iskur V2 X」と共通。
-
-Razer BlackWidow V4 TKL HyperSpeed – 鳴潮（Wuthering Waves）Edition
-
-BlackWidow V4 TKL HyperSpeed – 鳴潮（Wuthering Waves）Editionは、テンキーレスレイアウトのワイヤレスゲーミングキーボード。店頭価格は35,979円。
-
-ゲーム内キャラクターの「ダーニャ」のモチーフをあしらったデザインとカラーリングが特徴。
-
-Razer HyperSpeed Wireless…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2138/102/s1.jpg" alt="Razer×『鳴潮』ダーニャコラボデバイスが発売、計4製品"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2138102.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2138/102/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2138/102/s1.jpg"/></item>
-<item><title>20万円切りのRTX 5050ゲーミングノート、GALLERIAから登場</title><link>https://pc.watch.impress.co.jp/docs/news/2138326.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2138326.html</guid><pubDate>Fri, 04 Sep 2026 05:51:46 +0000</pubDate><description><![CDATA[<p>20万円切りのRTX 5050ゲーミングノート、GALLERIAから登場
-
-サードウェーブはGALLERIAブランドから9月3日、GeForce RTX 5050 Laptop GPUを搭載した15.6型ゲーミングノート「NPC5L-R55-G5」を発売した。価格は19万9,980円。
-
-20万円切りのRTX 5050ゲーミングノート、GALLERIAから登場
-
-サードウェーブはGALLERIAブランドから9月3日、GeForce RTX 5050 Laptop GPUを搭載した15.6型ゲーミングノート「NPC5L-R55-G5」を発売した。価格は19万9,980円。
-
-NPC5L-R55-G5は、CPUにCore i5-14450HX、GPUにGeForce RTX 5050 Laptop GPUを搭載した15.6型ゲーミングノート。ディスプレイには144Hz表示に対応したフルHD(1,920×1,080ドット)液晶を搭載しており、滑らかな映像表示でゲームをプレイできる。HDMIやMini DisplayPort、USB Type-Cを利用することで、最大3台の外部モニターへ同時に映像出力が可能となっている。
-
-主な仕様として、メモリに16GB DDR5、ストレージに500GB SSD、OSにWindows 11 Homeなどを搭載する。
-
-インターフェイスは、USB 3.2 Gen 2 Type-C(DisplayPort Alt Mode + USB PD 100W対応)、USB 3.2 Gen 1 2基、USB 2.0、Gigabit Ethernet、Wi-Fi 6E、Bluetooth 5.4、HDMI 2.1、Mini DisplayPort 2.0、HD Webカメラ、音声入出力などを備える。
-
-本体サイズは約360×244×33mm、重量は約2.3kg。1年間のメーカー保証が付属する。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2138/326/01.jpg" alt="20万円切りのRTX 5050ゲーミングノート、GALLERIAから登場"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2138326.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2138/326/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2138/326/01.jpg"/></item>
-<item><title>DRAMを作らないキオクシアの株がなぜ上がる？AI時代にSSDが重宝される理由</title><link>https://pc.watch.impress.co.jp/docs/news/2138296.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2138296.html</guid><pubDate>Fri, 04 Sep 2026 05:35:37 +0000</pubDate><description><![CDATA[<p>DRAMを作らないキオクシアの株がなぜ上がる？AI時代にSSDが重宝される理由
-
-AI向け半導体といえば、話題の中心はGPUに載るHBMや、品薄が続くDRAMだ。NANDフラッシュはデータをしまっておく“倉庫”に過ぎず、AIブームとは縁が薄いように見える。ところが、DRAMを1つも作っていないキオクシアの株価は、2024年12月の上場以来急騰を続け、今年(2026年)6月には時価総額で一時トヨタ自動車を抜くまでになった。市場はNANDフラッシュに何を期待しているのか。
-
-DRAMを作らないキオクシアの株がなぜ上がる？AI時代にSSDが重宝される理由
-
-AI向け半導体といえば、話題の中心はGPUに載るHBMや、品薄が続くDRAMだ。NANDフラッシュはデータをしまっておく“倉庫”に過ぎず、AIブームとは縁が薄いように見える。ところが、DRAMを1つも作っていないキオクシアの株価は、2024年12月の上場以来急騰を続け、今年(2026年)6月には時価総額で 一時トヨタ自動車を抜く までになった。市場はNANDフラッシュに何を期待しているのか。
-
-その答えは、キオクシアが9月3日に都内で行なった説明会にあった。キオクシアは、8月4日から6日にかけて米国カリフォルニア州サンタクララで開催されたメモリ/ストレージ業界の大規模イベント「FMS: the Future of Memory and Storage」における発表内容と、AI時代のSSDの役割について報道関係者向けに説明。AIが必要とするメモリ容量にDRAMの供給が追いついていないが、そこをSSD、つまりNANDフラッシュが埋め始めたことが明らかとなった。
-
-FMS 2026では約100社がAIを主題に講演や展示を行なったが、キオクシアはメインスポンサーとして参加。基調講演でAI時代におけるSSDの役割を提示したほか、NVID…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2138/296/35.jpg" alt="DRAMを作らないキオクシアの株がなぜ上がる？AI時代にSSDが重宝される理由"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2138296.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2138/296/35.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2138/296/35.jpg"/></item>
 </channel></rss>
