@@ -1,6 +1,141 @@
 {
   "akiba": [
     {
+      "Title": "Apple「探す」アプリ対応の紛失防止トラッカーが600円、期間限定セール",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2140375.html",
+      "Published": "2026-09-11T23:05:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "Apple「探す」アプリ対応の紛失防止トラッカーが600円、期間限定セール\n\nApple「探す」アプリ対応のキーホルダー型紛失防止タグ「TRACK\u0026amp;FIND（HRN-617）」が、秋葉館で特価販売中。平野商会の製品で、店頭価格は600円。セール期間は9月13日（日）まで。\n\nApple「探す」アプリ対応の紛失防止トラッカーが600円、期間限定セール\n\nApple「探す」アプリ対応のキーホルダー型紛失防止タグ「TRACK\u0026FIND（HRN-617）」が、 秋葉館 で特価販売中。平野商会の製品で、店頭価格は600円。セール期間は9月13日（日）まで。\n\nこれは、iPhoneの『探す』アプリの地図上に位置を表示できる紛失防止タグ。\n\n5～10分ごとに位置を更新し、タグの位置が把握できるほか、特定の距離からタグが離れるとiPhoneに通知が表示される。UWBは非搭載。\n\n電源はCR2032 3Vリチウムコイン電池で、電池交換も可能。対応デバイスはiOS 14.5以上を搭載したiPhone/iPad。なお、Androidとの組み合わせには対応していない。\n\nサイズは約3.4×1.1×9.5cm（キーホルダー込み）。重量は約13g（テスト電池込み）。",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/375/a1.jpg"
+    },
+    {
+      "Title": "MS、共有フォルダが正常動作しない不具合を認める。KB5124008などに起因。Claude Coworkも正常動作しなくなる",
+      "Link": "https://www.nichepcgamer.com/archives/post-132183.html",
+      "Published": "2026-09-11T23:00:54Z",
+      "Source": "ニッチなPCゲーマーの環境構築Z",
+      "Category": "WindowsUpdate-2026-09",
+      "Summary": "MS、共有フォルダが正常動作しない不具合を認める。KB5124008などに起因。Claude Coworkも正常動作しなくなる\n\nMicrosoftは、仮想マシン(仮想PC)環境において共有フォルダが正常に動作しなくなる不具合を認めました。 不具合概要 日本時間で2026年9月9日にWindows11のWindows Upda...\n\nMicrosoftは、 仮想マシン(仮想PC)環境において共有フォルダが正常に動作しなくなる不具合を認めました。\n\n日本時間で2026年9月9日にWindows11のWindows Updateに配信されたセキュリティ更新プログラム(セキュリティパッチ)をインストール後、Host Compute System (HCS)で管理される仮想マシンを使用するアプリケーションにおいて、Plan9を使用してLinux仮想マシンとホストフォルダを共有する際に問題が発生する場合があります。\n\n影響を受ける仮想マシン自体は起動しますが、 Plan9を使用してWindowsホストから共有されたフォルダやその中身がゲスト環境に表示されなくなったりアクセスできなくなります。\n\n結果、共有フォルダに依存するアプリケーションやサンドボックスで、ドライブがマウントされていないといったエラーメッセージが表示される場合があります。 この不具合の影響を受けるアプリケーションとしてはClaude CoworkやWindows Subsystem for Linux (WSL)があります。\n\nClaude Coworkでは以下のようなエラーメッセージが表示されます。\n\nなお、Plan9を使用しないHyper-V仮想マシンはこの不具合の影響を受けません。\n\nこの不具合は以前からユーザーにより 報告 されていましたが、今回、Microsoftは既知の不具合として認めました。\n\nこの不…",
+      "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2025/10/windows-break-c-red.jpg"
+    },
+    {
+      "Title": "リモートデスクトップサービス(RDS)に不具合。応答しなくなるなど。Windows11やWindows Serverで発生。2026年9月のセキュリティ更新プログラムに起因",
+      "Link": "https://www.nichepcgamer.com/archives/post-132161.html",
+      "Published": "2026-09-11T22:40:14Z",
+      "Source": "ニッチなPCゲーマーの環境構築Z",
+      "Category": "WindowsUpdate-2026-09",
+      "Summary": "リモートデスクトップサービス(RDS)に不具合。応答しなくなるなど。Windows11やWindows Serverで発生。2026年9月のセキュリティ更新プログラムに起因\n\nMicrosoftは、リモートデスクトップサービスが正常に動作しない不具合が発生していることを発表しました。 不具合概要 Windows ServerやWindows11などにおいて、日本時間で20...\n\nMicrosoftは、 リモートデスクトップサービスが正常に動作しない不具合が発生していることを発表しました。\n\nWindows ServerやWindows11などにおいて、日本時間で2026年9月9日にリリースされたセキュリティ更新プログラムをインストール後、主に企業や組織でリモートデスクトップサービス(Remote Desktop Services / RDS)が不安定になるという不具合が発生する場合があります。\n\nRDSが不安定になって数分後にリモートデスクトッププロトコル(Remote Desktop Protocol / RDP)接続が失敗したり、ユーザーがログアウト後などにサインインができなくなったり、接続されないまま停止・応答しなくなる場合があります。また、この不具合に関連して、Microsoft管理コンソール(MMC)やファイルエクスプローラーなども応答しなくなる可能性があります。\n\nこの不具合が発生するOSおよび不具合を内包する更新プログラムは以下。\n\nWindows11 25H2 / Windows11 24H2 KB5124008 (2026年9月9日 セキュリティ更新プログラム)\n\nWindows11 26H1 KB5124012 (2026年9月9日 セキュリティ更新プログラム)\n\nWindows11 23H2 KB5122880 (2026年9月9日 セキュリティ更新…",
+      "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2024/10/windows11-issue-1200x675-dark.jpg"
+    },
+    {
+      "Title": "第5世代iPad mini セルラー版が11,000円！イオシスにジャンク品が大量入荷",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2140382.html",
+      "Published": "2026-09-11T22:30:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "第5世代iPad mini セルラー版が11,000円！イオシスにジャンク品が大量入荷\n\n2019年に発売されたAppleの7.9型タブレット「第5世代iPad mini Wi-Fi+Cellular」（MUX62J/A）のジャンク品が、イオシス アキバ路地裏ジャンク店に入荷。\n\n第5世代iPad mini セルラー版が11,000円！イオシスにジャンク品が大量入荷\n\n2019年に発売されたAppleの7.9型タブレット「第5世代iPad mini Wi-Fi+Cellular」（MUX62J/A）のジャンク品が、 イオシス アキバ路地裏ジャンク店 に入荷。\n\nストレージ容量は64GBで、価格は11,000円。在庫は200台で、購入は1人2点まで。ジャンク品のため、保証無し。\n\nLightningコネクタ採用モデルで、主な仕様はディスプレイ解像度 2,048×1,536ドット、CPU A12 Bionic、Touch ID搭載など。第1世代Apple Pencilに対応している。",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/382/a1_s.jpg"
+    },
+    {
+      "Title": "NECの教育向け2-in-1ノートPCが1万9800円 ※ただしだいぶ低スペック",
+      "Link": "https://komameblog.jp/sale/versaproe/",
+      "Published": "2026-09-11T22:25:22Z",
+      "Source": "こまめブログ",
+      "Category": "セール情報",
+      "Summary": "NECの教育向け2-in-1ノートPCが1万9800円 ※ただしだいぶ低スペック\n\nAmazonにて、NECの11.6インチ2-in-1ノートPC「VersaPro Eシリーズ タイプVR（YZ-VEE11R5GL5LM）」が1万9800円でタイムセール中です。2021年に発売された機種ですが、（おそらく）新品のノートPC...\n\nAmazonにて、NECの11.6インチ2-in-1ノートPC「VersaPro Eシリーズ タイプVR（YZ-VEE11R5GL5LM）」が1万9800円でタイムセール中です。2021年に発売された機種ですが、（おそらく）新品のノートPCとしては激安と言っていいでしょう。\n\nただし性能はごく控えめ。軽い作業ですらおぼつかない可能性があるので注意してください。ストレージ容量もわずかで、ファイルの保存用にも向いていません。PCにそこそこ詳しい人でも、割り切り利用には厳しいのではないかと思うほどです。\n\nしかし元々は教育機関向けだけあって、かなり頑丈に作られているようです。おそらくGIGAスクール向けに用意された機種なのでしょう。耐久基準についてはだいぶ配慮されているようで、本体が約1.32kgとサイズのわりに重いのも、頑丈に作られているからだとおもいます。\n\nさらに画面が回転する2-in-1タイプである点や、Windows 11 Proを搭載している点もポイント。スペックはだいぶ低いのですが、2万円切りの機種としては機能面はけっこう充実しています。\n\nとは言え、前述のとおりCPU性能や解像度的にはだいぶ厳しいものがありますし、普段使い用には厳しいと思います。自分で改造したり、別のOSを組みこんで活用できる人向けではないでしょうか。そういったジャンク的な遊びを楽しめる人なら、チェックしてみる価値はあるかもしれません。\n\nAmazon.co.jp: N…",
+      "ImageURL": "https://komameblog.jp/wp-content/uploads/2026/09/VersaProE.jpg"
+    },
+    {
+      "Title": "iPhone18 Proを最速予約するには？開始前に済ませたい準備をチェック！",
+      "Link": "https://iphone-mania.jp/iphone18-605736/",
+      "Published": "2026-09-11T22:00:00Z",
+      "Source": "iPhone Mania",
+      "Category": "予約",
+      "Summary": "iPhone18 Proを最速予約するには？開始前に済ませたい準備をチェック！\n\niPhone18 Pro/iPhone18 Pro\n\niPhone18 Proを最速予約するには？開始前に済ませたい準備をチェック！\n\niPhone18 Pro / iPhone18 Pro Max の 予約受付 は9月12日（土）午後9時に始まります。予約開始直後は注文が集中することが予想されますが、予約操作を素早く完結させるには、モデルやカラー、ストレージ容量、支払い方法まで事前に決めておくことが重要です。分割払いを利用する場合、「ペイディあと払いプランApple専用」では支払い方法まで予約開始前に準備できます。\n\niPhone18 Pro / iPhone18 Pro Max の予約受付が、9月12日（土）午後9時に開始されます。\n\n新型iPhoneの予約開始直後は注文が集中 するため、予約開始後の操作を少しでも減らせるよう、注文に必要な情報をあらかじめ決めておくことが重要です。\n\nいち早く予約を完了させるためには、予約受付の開始前に、購入するモデルやカラー、ストレージ容量、支払い方法など、 予約に必要な情報を確定しておきましょう 。\n\nこれらの情報を予約受付開始後に入力・選択して操作に時間がかかると、配送予定日が後ろ倒しになる可能性もあります。\n\n実は筆者も以前、準備万端のつもりで新型iPhoneの予約に臨んだものの、予約時に少し操作に手間取った結果、配送時期が遅れて悔しい思いをした経験があります。\n\niPhone18 Pro/iPhone18 Pro Maxの 予約受付開始後にすぐに注文を完了するために 、あらかじめ、以下を決めておきましょう。\n\niPhone18 ProとiPhone18 Pro Maxの選択\n\n下取りを利用するか（利用する場合は下取りデバイスの情報も準備）\n\nAp…",
+      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/09/11/Apple-iPhone18Pro.jpg"
+    },
+    {
+      "Title": "iPhone Duo、軽く折るとフリック入力キーボードが左右に分離する",
+      "Link": "https://gori.me/iphone/170076",
+      "Published": "2026-09-11T21:45:13Z",
+      "Source": "gori.me",
+      "Category": "取材",
+      "Summary": "iPhone Duo、軽く折るとフリック入力キーボードが左右に分離する\n\niPhone Duoを実機で試し、純正キーボードの日本語フリック入力で分かったことを紹介する。7.6インチの内側ディスプレイを完全に開くとキーボードは中央寄せで打ちにくいが、軽く折りたたむとQWERTYと同じようにキーボードが左右へ分かれ、両手の親指で快適に入力できた。\n\niPhone Duo、軽く折るとフリック入力キーボードが左右に分離する\n\n完全に開いた状態での日本語入力は難しく、折り曲げるのが現時点の答えだった\n\niPhone Duoを軽く折りたたむと、フリック入力用の日本語キーボードも左右に分離する仕組みが用意されている\n\n完全に開いた状態では左右に余白が多く、一番左の列を左にフリックする際に指を離すような操作が必要になる\n\n外側の5.4インチディスプレイでは片手用キーボードが使えるが、初代iPhone SEやiPhone 5相当のサイズで窮屈に感じる可能性がある\n\nApple初の折りたたみiPhone「iPhone Duo」を実機で触ってきた。真っ先に確かめたかったのは、スペック表には絶対に載らない部分だ。\n\n日本語のフリック入力は、実際どうなのか 。僕たちが1日に何百回も繰り返す動作こそ、折りたたみiPhoneの使い勝手を決めるはずだ。\n\n結論から言うと、外側のディスプレイは「慣れが必要」、内側の大きいディスプレイは「軽く折りたたむのが最適解」だった。限られた時間で純正キーボードだけを試した範囲の話だが、実機で確かめたことをそのまま紹介する。\n\niPhone Duoの外側ディスプレイは5.4インチで、閉じたまま通常のiPhoneとして使える。Appleによると、外側ディスプレイの画面領域は iPhone 18 Pro の90パーセント以上の広さだ。\n\nただし本体は横幅がある設計だ。そのため…",
+      "ImageURL": "https://gori.me/uploads/2026/09/iPhoneDuo-iPhone18Pro-Content-Capture-Hands-On-15-800x534.jpg"
+    },
+    {
+      "Title": "“推し”が浮かんで見える10.1型「箱庭サイネージ」がサンコーから、アクスタなども展示可能",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2140293.html",
+      "Published": "2026-09-11T21:05:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "“推し”が浮かんで見える10.1型「箱庭サイネージ」がサンコーから、アクスタなども展示可能\n\n透過型ディスプレイを搭載したショーケース型ディスプレイ「推しを祀る電脳聖域『箱庭サイネージ』」（TPDQ26AWH）が、サンコーから発売された。\n\n“推し”が浮かんで見える10.1型「箱庭サイネージ」がサンコーから、アクスタなども展示可能\n\n透過型ディスプレイを搭載したショーケース型ディスプレイ「推しを祀る電脳聖域『箱庭サイネージ』」（TPDQ26AWH）が、サンコーから発売された。\n\n白背景の画像や動画を表示すると背景部分が透過、立体感のある表示に\n\n本製品は、10.1型の透過型ディスプレイとショーケースを組み合わせた製品。白背景の画像や動画を表示すると背景部分が透過し、映像が庫内空間と重なることで、キャラクターなどが空間に浮かび上がっているような立体感のある表示を楽しめるという。\n\n表示モードは「写真」「動画」「音楽」「カレンダー」の4種類で、縦置きと横置きの両方に対応する。スピーカー内蔵で、映像と一緒に音声や音楽も再生できる。\n\nまた、ショーケース内にはアクリルスタンドやフィギュアを設置することも可能で、ディスプレイに表示した映像エフェクトと組み合わせて展示を楽しめるという。\n\nなお、LEDの発熱によりショーケース内の温度が上昇する場合があるため、電子機器や熱に弱い物の長時間収納は避けるよう案内されている。\n\nディスプレイ解像度は800×1,280ドット、輝度は約220cd/平方m、視野角は上下/左右178度。対応メディアはSDカード/USBメモリ（最大256GB）で、動画はAVI/MP4/MOV/FLV、画像はBMP/JPG/JPEG/GIF、音声はMP3/AAC/OGG/WAV/FLAC/M4Aなどに対応する。\n\n本体サイズは175×100×285mm、ショーケース内サイ…",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/293/kk1.jpg"
+    },
+    {
+      "Title": "iPhone AirがAmazonアウトレットで安い！ほぼ新品が発売時価格以下",
+      "Link": "https://iphone-mania.jp/sale-605738/",
+      "Published": "2026-09-11T20:45:50Z",
+      "Source": "iPhone Mania",
+      "Category": "価格",
+      "Summary": "iPhone AirがAmazonアウトレットで安い！ほぼ新品が発売時価格以下\n\nAmazonアウトレットで、複数のiPhone Airが販売中です。\n\niPhone AirがAmazonアウトレットで安い！ほぼ新品が発売時価格以下\n\nAmazonアウトレット で、 複数のiPhone Airが販売中 です。\n\n販売されているiPhone Airはいずれも 状態が「ほぼ新品」 で、2度の値上げが行われる以前の 発売当初の新品価格よりも安く販売 されています。\n\n2026年9月12日午前5時25分時点で、Amazonアウトレットで販売されているiPhone Airは次の通りです。\n\niPhone Air, 256GB, スカイブルーのみ、価格と状態が同じものとして合計2台販売されています。\n\niPhone Airの発売時価格と、その後2回行われた価格改定による販売価格の推移は次の通りです。\n\nAmazonアウトレットで販売されているものは中古品扱いですが、「ほぼ新品」の 256GBモデルは現在の新品価格より32,287円〜35,114円安く 購入できます。\n\n512GBモデルも現在の新品価格より40,913円安く 、発売当初の新品価格である194,800円と比べても10,913円安くなっています。\n\n256GBモデルも発売当初は159,800円でしたので、スペースブラックは2,287円、スカイブルーは5,114円安い価格です。\n\n2度の値上げによってiPhone Airは高くなりすぎたと感じている場合、状態が「ほぼ新品」のAmazonアウトレット品は検討する価値がありそうです。\n\nAmazonアウトレット では、返品された商品や倉庫内で梱包に傷がついた商品のうち、状態が良好なものなどを通常より安い価格で販売しています。\n\nAmazonは、アウトレット商品のコンディションを次の…",
+      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/09/12/iphone-air-finish-unselect-gallery-1-202509-e1789159515388.png"
+    },
+    {
+      "Title": "iPhone18 Proは見送るべき？2027年のiPhone20刷新の噂を整理",
+      "Link": "https://iphone-mania.jp/iphone18-605732/",
+      "Published": "2026-09-11T17:27:33Z",
+      "Source": "iPhone Mania",
+      "Category": "iPhone18 Pro",
+      "Summary": "iPhone18 Proは見送るべき？2027年のiPhone20刷新の噂を整理\n\niPhone18 Proを見送るかどうかは、手元のiPhoneに感じている不満の大きさで考えると整理しやすくなります。海外メディアは、iPhone20（仮称）がデザイン面でiPhone X以来の大刷新になると報じています。\n\niPhone18 Proは見送るべき？2027年のiPhone20刷新の噂を整理\n\niPhone18 Proを見送るかどうかは、 手元のiPhoneに感じている不満の大きさ で考えると整理しやすくなります。海外メディアは、iPhone20（仮称）が デザイン面でiPhone X以来の大刷新 になると報じています。\n\n処理速度やカメラに物足りなさがあれば18 Pro、不便が少なくデザインの新しさを求めるならiPhone20を待つのも選択肢です。本記事では噂の中身と注意点を整理し、見送るべき人と買うべき人の違いを解説します。\n\n以下はいずれも海外メディアが伝えた噂で、 Appleの公式発表ではありません 。\n\n初代iPhoneの発表（2007年）から20年となる、 2027年9月ごろの登場 が噂されています。名称は未定で、iPhone19を飛ばすならシリーズ全体がiPhone20になるとの指摘もあります。待つと決めた場合は、手元のiPhoneを2027年9月ごろまで快適に使えるか、先に確かめておくと安心です。\n\n本体の角と側面を曲面ガラスで覆い、画面周りのベゼルを細くする設計になるもようです。 筐体はiPhone Airと同じか近いガラスの組み立て技術 を使うとされ、計画縮小の可能性もあります。\n\nカメラや性能の情報は、まだ伝わっていません 。スペックを重視する人にとっては、待つかどうかを判断しにくい段階です。\n\n2017年のiPhone Xは、ホームボタンをなくして画面を…",
+      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/09/12/1d5521b4556003a4babeffb576d00a25.png"
+    },
+    {
+      "Title": "アーク、半期決算セール2026を開催。Ryzen CPUやGeForce RTX 5000シリーズ、ゲーミングPCなどがセール価格で登場",
+      "Link": "https://www.nichepcgamer.com/archives/post-132171.html",
+      "Published": "2026-09-11T16:35:56Z",
+      "Source": "ニッチなPCゲーマーの環境構築Z",
+      "Category": "ハードウェア全般",
+      "Summary": "アーク、半期決算セール2026を開催。Ryzen CPUやGeForce RTX 5000シリーズ、ゲーミングPCなどがセール価格で登場\n\nパソコンショップアークは、『アーク 半期決算セール 2026』を開催しました。 『アーク 半期決算セール 2026』では、Ryzen CPUやマザーボード、GeForce RTX 5000シリーズに...\n\nパソコンショップアークは、 『アーク 半期決算セール 2026』を開催しました。\n\n『アーク 半期決算セール 2026』では、Ryzen CPUやマザーボード、GeForce RTX 5000シリーズにRadeon RX 9000シリーズグラボ、液晶ペンタブレット(液タブ)など、各種PCパーツ・PC周辺機器がセール価格で販売されています。\n\nほかにも、アークオリジナルBTOブランド『arkhive』(アークハイブ)のゲーミングPCも割引価格で登場。\n\n『アーク 半期決算セール 2026』の開催期間は2026年10月1日(木)23:59まで。『アーク 半期決算セール 2026』ページへは以下のリンクよりどうぞ。\n\n筆者は自作PC歴20年以上の経験を持ち、Windows OSの細部にわたるカスタマイズや高度な設定、PCゲームの最適化、PCハードウェアとソフトウェアに関する専門知識をもとに、PC環境を快適にするための情報、不具合に遭わないようにするための情報、そして、ちょっとニッチよりなPCユーザー向け記事の執筆を2015年4月から11年にわたって行っています。\n\n長年の経験により得たノウハウを活かし、初心者から上級者まで幅広く対応できる情報を提供し、読者様のPCライフをより快適で充実したものにすることを目指しています。",
+      "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2026/09/arksaletop-rt.jpg"
+    },
+    {
+      "Title": "Intel Arcグラフィックスドライバ 32.0.101.8993 非WHQL公開",
+      "Link": "https://www.nichepcgamer.com/archives/intel-arc-graphics-driver-32-0-101-8993-non-whql.html",
+      "Published": "2026-09-11T16:33:56Z",
+      "Source": "ニッチなPCゲーマーの環境構築Z",
+      "Category": "ドライバ",
+      "Summary": "Intel Arcグラフィックスドライバ 32.0.101.8993 非WHQL公開\n\n『WARDOGS』をサポートしたIntel Arcグラフィックスドライバ 32.0.101.8993 非WHQLが公開されました。 新たにサポートされたゲームタイトル Intel Arcグラフィック...\n\n『WARDOGS』をサポートしたIntel Arcグラフィックスドライバ 32.0.101.8993 非WHQLが公開されました。\n\nIntel Arcグラフィックスドライバ 32.0.101.8993 非WHQLでは、新たに以下のゲームタイトルがサポートされています。\n\n▼Arc Bシリーズ / Arc Aシリーズ / Core Ultraシリーズ\n\nIntel Arc ＆ Iris Xe Graphics 32.0.101.8993 非WHQLドライバ対応製品\n\nIntel Arcグラフィックスドライバ 32.0.101.8993 非WHQLは、以下の製品をサポートします。\n\nCore Ultraシリーズ / Coreシリーズ(Core Series 3 Wildcat Lake)\n\nIntel Arc ＆ Iris Xe Graphics 32.0.101.8993 非WHQLドライバで修正された不具合\n\nIntel Arcグラフィックスドライバ 32.0.101.8993 非WHQLで修正された不具合はありません。\n\nIntel Arcグラフィックスドライバ 32.0.101.8993 非WHQLには、以下の既知の不具合があります。\n\n▼Intel Core Ultra Series 3 (Arc iGPU)\n\n『マフィア:オリジン ～裏切りの祖国』(DX12)において、ゲーム中にアプリケーション(ゲーム)がクラッシュする場合があります\n\n▼Intel Arc Bシリーズ製品…",
+      "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2025/01/intel-arc-logo-1200.jpg"
+    },
+    {
+      "Title": "MSIの15.6型ゲーミングノート「Katana 15 HX B14W」、GeForce RTX 5070搭載モデルがソフマップに入荷",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2140367.html",
+      "Published": "2026-09-11T15:20:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "MSIの15.6型ゲーミングノート「Katana 15 HX B14W」、GeForce RTX 5070搭載モデルがソフマップに入荷\n\nGeForce RTX 5070 Laptop GPU搭載の15.6インチゲーミングノートPC「Katana-15-HX-B14WGK-5070JP」がMSIから登場した。\n\nMSIの15.6型ゲーミングノート「Katana 15 HX B14W」、GeForce RTX 5070搭載モデルがソフマップに入荷\n\nGeForce RTX 5070 Laptop GPU搭載の15.6インチゲーミングノートPC「Katana-15-HX-B14WGK-5070JP」がMSIから登場した。\n\n店頭価格は419,800円。 ソフマップAKIBA パソコン・デジタル館 では実機展示が始まっている（同店は10%ポイントサービス対象）。\n\n15.6インチWQHD液晶パネルを搭載したゲーミングノートPC\n\nKatana-15-HX-B14WGK-5070JPは、CPUに16コア/24スレッドのCore i7-14650HX、GPUにGeForce RTX 5070 Laptop GPU（8GB GDDR7/TDP 115W）を採用したゲーミングノートPC。\n\n15.6インチWQHD（2,560×1,440ドット）の165Hz液晶パネルを搭載し、高性能と滑らかな映像を楽しめるとしている。\n\nその他の主な仕様は、16GB DDR5メモリ×2、1TB M.2 SSD、Windows 11 Home。\n\nインターフェイスはUSB 3.2 Gen2 Type-C、USB 3.2 Gen2 Type-A×3、Wi-Fi 6E、Bluetooth 5.4、HDMI、音声入出力。\n\nバッテリーは75Whrで、バッテリー駆動時間（JEITA 3.0 動画再生時）は6時間。本…",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/367/s1.jpg"
+    },
+    {
+      "Title": "TP-Linkの5GbE LANカード「TX301」が発売、価格は4,800円",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2140222.html",
+      "Published": "2026-09-11T15:15:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "TP-Linkの5GbE LANカード「TX301」が発売、価格は4,800円\n\n5GbEポート搭載のPCIe拡張カード「TX301」がTP-Linkから発売された。\n\nTP-Linkの5GbE LANカード「TX301」が発売、価格は4,800円\n\n5GbEポート搭載のPCIe拡張カード「TX301」がTP-Linkから発売された。\n\nAmazon.co.jp限定販売モデルで、価格は4,800円。\n\nTX301は、PCIe 3.1 x1接続のネットワークカード。一般的なGigabit Ethernet（1000BASE-T）よりも高速な5Gigabit Ethernet（5GBASE-T）に対応。より高速なダウンロードやNAS接続、スムーズなゲーム体験を実現するとしている。\n\n5GBASE-T/1000BASE-Tのほか、2.5GBASE-T/100BASE-TX/10BASE-Teでの接続にも対応。さまざまなネットワーク環境で利用できる。\n\nゲームやオンライン会議などアプリ別の通信優先度設定などが可能な「AIFlow」アプリによる制御にも対応する。\n\nサイズは120.8×78.5×21.5mm。ロープロファイルブラケットとかんたん設定ガイド、1.5mのCat6A LANケーブルも付属する。",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/222/s1.jpg"
+    },
+    {
+      "Title": "ASUSの安価な水冷CPUクーラーが2製品、360mmモデルは10,980円",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2140213.html",
+      "Published": "2026-09-11T15:10:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "ASUSの安価な水冷CPUクーラーが2製品、360mmモデルは10,980円\n\nASUSの簡易水冷CPUクーラーが2モデル登場した。\n\nASUSの安価な水冷CPUクーラーが2製品、360mmモデルは10,980円\n\nラインナップは240mmモデル「LC 240 ARGB」と360mmモデル「LC 360 ARGB」の2種類で、販売価格は順に9,980円、10,980円。\n\n付属ファンはデイジーチェーン接続デザイン、煩雑なケーブル接続の手間を大幅に軽減\n\nこれらは、ARGBファンを標準搭載した簡易水冷CPUクーラー。モデルの違いはラジエーターサイズ（240mmまたは360mm）で、水冷ブロックにもライトガイドを備え、ライティングを楽しめるデザインとなっている。\n\n流路を最適化した3,000rpmの高流量ポンプを採用し、冷却能力と静音性を高次元で両立。耐久性に優れた長寿命モーターで安定した性能を長期間提供できるとしている。\n\n付属ファンはデイジーチェーン接続デザインとなっており、1本に統合することで煩雑なケーブル接続の手間を大幅に軽減したとする。\n\n回転数は800～1,800rpm±10%で、風量が74.31CFM、静圧が2.2mmH2O、騒音値が33dB(A)。\n\n対応ソケットはIntel LGA1851/1700、AMD Socket AM5/AM4。\n\nASUS LC 360 ARGB Amazonで購入 楽天で購入\n\nASUS LC 240 ARGB Amazonで購入 楽天で購入",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/213/kk1_s.jpg"
+    },
+    {
       "Title": "「GeForce RTX 5060 8G VENTUS 2X OC V1」がMSIから、価格は88,800円",
       "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2140347.html",
       "Published": "2026-09-11T15:05:00Z",
@@ -4364,144 +4499,144 @@
       "Category": "",
       "Summary": "【9/5発売】aune audioから99ステップR2R電子ボリュームコントロールシステム搭載のA17が登場！\n\nハイエンド仕様のJRC MUSES72323ボリュームコントロールチップを搭載。\r\rこんにちは！e☆イヤホンのPRスタッフです！\r今回はaune audioからの新製品のご紹介です。\r \raune audio　A17\n\nハイエンド仕様のJRC MUSES72323ボリュームコントロールチップを搭載。\n\n▼aune audio A17 e☆イヤホン オンラインストア価格￥440,000- (税込)\n\nA17はワンボタン・パー・ファンクションのロジックを採用しています。\n\nスタンバイ、画面オフ、ミュート、入力切替、出力モード選択、電流モード切替、ゲイン調整など、すべての操作に即座にアクセスすることができます。\n\n付属のリモコンも同じ設計思想に基づいており、デスクトップ操作とリモート操作の両方において、一貫してスムーズな操作体験を提供します。\n\nA17は3種類のヘッドフォン出力を備えています。4ピンXLR、6.35mm、4.4mmの各端子により、幅広いヘッドフォンに対応します。\n\nまた、入力端子としてRCAおよびXLRを、プリアンプ出力としてRCAおよびXLRを搭載しています。\n\nこれにより、単独のヘッドフォンアンプとしての使用はもちろん、大規模なオーディオシステムにプリアンプとして組み込むことも可能で、多様なシーンや機器構成に柔軟に対応します。\n\nマルチ並列出力トランジスタとクラスA動作によって生じる余剰熱を効果的に管理するため、A17にはカスタム設計の超厚肉純アルミニウムシャーシと、多段階の内部ステップ式放熱構造を採用しています。\n\nこれにより、重要なコンポーネントから熱を効率的に逃しながら、シャーシ全体へ均一に分散させることができます。\n\nこの設計は全体的な動作…",
       "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/08/9aac8c06b664880ca885cbe304ae7ebd.webp"
-    },
-    {
-      "Title": "【9/5発売】ELOITからマイクロエンボス加工を施したイヤーピース VELVET NARROW BORE が登場！",
-      "Link": "https://e-earphone.blog/?p=1552740",
-      "Published": "2026-09-05T02:00:00Z",
-      "Source": "e☆イヤホン",
-      "Category": "",
-      "Summary": "【9/5発売】ELOITからマイクロエンボス加工を施したイヤーピース VELVET NARROW BORE が登場！\n\nマイクロエンボス加工の隙間が装着する時の圧力を緩やかに分散して快適な装着感を実現\r\rこんにちは！e☆イヤホンのPRスタッフです！\r今回はELOITからの新製品のご紹介です。\r \rELOIT VELVET NARROW B\n\nマイクロエンボス加工の隙間が装着する時の圧力を緩やかに分散して快適な装着感を実現\n\n▼ELOIT VELVET NARROW BORE FULL Package e☆イヤホン オンラインストア価格￥3,450- (税込)\n\n▼ELOIT VELVET NARROW BORE S/MS/M/ML/L e☆イヤホン オンラインストア価格￥1,790- (税込)\n\n表面に施したマイクロエンボス加工の隙間が装着時の圧力を緩やかに分散し、音楽鑑賞時も快適な装着感を実現。耳への圧迫感は使用とともに徐々に和らいでいきます。\n\n先端に向かって細くなるコーン形状のコアが音を効果的に集中・誘導し、クリアリティを最大化。ボトム構造によりイヤホンとの安定性も高め、ノズル径4〜6mmという幅広いイヤホンに対応します。\n\n重心を耳道の内側にシフトさせる「トップ重心構造」を採用。深く安定したフィット感を実現し、一般的なチップと比べて低域の再生能力も向上させます。\n\nなめらかなマット面を採用し、イヤーチップに付着した異物もチップを外して軽く吹き飛ばすだけで簡単に除去できます。\n\n高圧マットコーティングとマイクロエンボス加工により、一般的なシリコンチップと比べてより滑らかな質感を実現しました。\n\nこちらの製品は、e☆イヤホンの以下の店舗にてご試聴いただけます。\n\n展示機は9月5日より展示開始予定です。また、各店およびオンラインストアにて在庫をご用意しております。\n\n最後…",
-      "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/09/688421fe4e6b0e0ba5063327bed76f92.webp"
-    },
-    {
-      "Title": "「Adobe Creative Cloud PRO」12か月版が25%ポイント還元、フォトプランも対象！楽天スーパーSALE",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2138069.html",
-      "Published": "2026-09-05T01:30:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "「Adobe Creative Cloud PRO」12か月版が25%ポイント還元、フォトプランも対象！楽天スーパーSALE\n\n楽天市場では、9月4日（金）20:00～11日（金）1:59の期間限定で「楽天スーパーSALE」が開催中。\n\n「Adobe Creative Cloud PRO」12か月版が25%ポイント還元、フォトプランも対象！楽天スーパーSALE\n\n楽天市場では、9月4日（金）20:00～11日（金）1:59の期間限定で「楽天スーパーSALE」が開催中。\n\n楽天スーパーDEALSHOPでは、「Adobe Creative Cloud PRO」12か月版がポイント還元対象となっています。価格は102,960円で、25%ポイント還元対象。キャンペーン期間は11日（金）9:59まで。\n\nAdobe Creative Cloud PRO 12か月版\n\nそのほか、Adobe Creative Cloud フォトプラン 12か月版、Adobe Lightroom 12か月版もポイント還元対象となっています。\n\nAdobe Creative Cloud フォトプラン 1TBストレージ付き 12か月版\n\nAdobe Lightroom 1TBストレージ付き12か月版",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2138/069/s1.jpg"
-    },
-    {
-      "Title": "11インチM5 iPad ProのAppleCare+つきが31％オフ。約14万円も安い",
-      "Link": "https://gori.me/sale/peripheral-sale/169658",
-      "Published": "2026-09-05T01:13:50Z",
-      "Source": "gori.me",
-      "Category": "iPad Pro（M5）",
-      "Summary": "11インチM5 iPad ProのAppleCare+つきが31％オフ。約14万円も安い\n\nAmazonで11インチiPad Pro Wi-Fiモデル2TB（標準ガラス）とAppleCare+のセットが429,599円から295,440円の31％オフ。値引き額は138,248円で、Apple公式の本体単体価格404,800円を保証込みで下回る計算だ。\n\n11インチM5 iPad ProのAppleCare+つきが31％オフ。約14万円も安い\n\nApple公式の本体単体404,800円を、AppleCare+込みで大きく下回る\n\n11インチiPad Pro Wi-Fiモデル 2TB（標準ガラス）＋AppleCare+のセットが429,599円→295,440円の31％オフ。値引き額は138,248円\n\nApple公式ストアの11インチ・2TB・標準ガラスは404,800円からで、今回は2年ぶんの保証込みでそれを10万円以上下回る\n\n11インチの最大容量2TBを444gの本体で持ち出せる構成。撮影シーズンの外出用に向く\n\nAmazon で、現行 iPad Pro の11インチ最上位構成が大きく値下がりしている。 11インチiPad Pro Wi‑Fiモデル 2TB（標準ガラス搭載）- シルバー + AppleCare+ for 11インチiPad Pro（M5） が 31％オフ の295,440円だ。\n\nセット品の参考価格は429,599円。値引き額は138,248円で、 iPad （A16）が2台買えてしまう差額である。\n\n先日は13インチの最上位構成が 33％オフ になっていたが、今回は11インチ。持ち歩きを前提に iPad Pro を選ぶ人にとっては、こちらのほうが刺さるはずだ。\n\nこのセットの主役は、 11インチiPad Pro Wi‑Fiモデル 2TB（標準ガラス搭載…",
-      "ImageURL": "https://gori.me/uploads/2022/10/iPads-and-Macs-at-Apple-Ginza-Temp-Store-03-800x534.jpg"
-    },
-    {
-      "Title": "【取り扱い開始】CASIO「ear U」（集音器）がeイヤホンで取り扱いスタート！",
-      "Link": "https://e-earphone.blog/?p=1552163",
-      "Published": "2026-09-05T01:10:12Z",
-      "Source": "e☆イヤホン",
-      "Category": "",
-      "Summary": "【取り扱い開始】CASIO「ear U」（集音器）がeイヤホンで取り扱いスタート！\n\n \rどもども。\r \r遂にe☆イヤホンでも取り扱い開始になりました！\r \rCASIO（カシオ）のヒアリングアシストイヤホン「ear U（イアユー）」\r \r「最近、会話が少し聞き取りづら\n\nCASIO（カシオ）のヒアリングアシストイヤホン「ear U（イアユー）」\n\n「最近、会話が少し聞き取りづらい」「集音器が気になっている」という方はもちろん、ear Uが気になっていた方も、ぜひチェックしてみてください！\n\n「ear U」は、CASIOが開発したヒアリングアシストイヤホンです。\n\n加齢などによって「最近、会話が聞き取りづらくなってきた」「テレビの音量が以前より大きくなった」と感じる方の日常生活をサポートすることを目的としています。\n\n専用アプリを使って聞こえ方を自分に合わせて調整できるほか、Bluetoothにも対応しているため、スマートフォンと接続して音楽や通話を楽しむこともできます。\n\nまた、イヤホンを耳に装着すると自動で集音モードに切り替わるため、必要なときにすぐ使えるのも特徴です。\n\n▼casio ear U ヒアリングアシストイヤホン e☆イヤホン オンラインストア価格¥49,940 – (税込)\n\nカラーは「NAVY BLACK（ネイビーブラック）」「IVORY WHITE（アイボリーホワイト）」の2色展開\n\near Uは、耳の穴を塞がないオープンイヤー型を採用。自分の声のこもりや閉塞感を抑えながら、周囲の音の方向や距離感も感じやすい設計となっています。また、片耳約8gと軽量で、耳に装着しやすいカフ型のデザインも特徴です。\n\n専用アプリを使って左右それぞれの聞こえをチェックし、その結果に合わせて聞こえ方を自動調整できます。さらに、音量や音のバランスなどを自分の好みに合わせて細かく…",
-      "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/09/casio.png"
-    },
-    {
-      "Title": "PS2のゲーム開発用デバッグ機「DTL-H10000」が178,000円、PS1のゲーム開発用拡張ボードも店頭入荷",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2138494.html",
-      "Published": "2026-09-05T01:05:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "PS2のゲーム開発用デバッグ機「DTL-H10000」が178,000円、PS1のゲーム開発用拡張ボードも店頭入荷\n\nマニュアルも付属した「PlayStation 2 Debugging Station (DTL-H10000)」の通電確認済み中古品が、家電のケンちゃんに入荷。店頭価格は178,000円。\n\nPS2のゲーム開発用デバッグ機「DTL-H10000」が178,000円、PS1のゲーム開発用拡張ボードも店頭入荷\n\nマニュアルも付属した「PlayStation 2 Debugging Station (DTL-H10000)」の通電確認済み中古品が、 家電のケンちゃん に入荷。店頭価格は178,000円。\n\nPlayStation 2ゲームの開発・デバッグ向け機材で、市販品のPlayStation 2と異なり、天板ロゴには「TEST」の表記があり、ゲームソフトの動作テストなどに利用できる。\n\nこのほか、同店には初代PlayStation用のゲーム開発者向け拡張ボード3種も入荷している。\n\n製品はPlayStation開発用のISAバス接続基板「DTL-H2000」、同PCIバス接続基板「DTL-H2500」、グラフィックスアーティストボード「DTL-H201A」。\n\nPlayStation関連製品 Amazonで購入 楽天で購入",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2138/494/s1.jpg"
-    },
-    {
-      "Title": "DJI初のコンセプトストアが表参道にオープン。日本初の試み",
-      "Link": "https://gori.me/it/169654",
-      "Published": "2026-09-05T01:01:48Z",
-      "Source": "gori.me",
-      "Category": "quick",
-      "Summary": "DJI初のコンセプトストアが表参道にオープン。日本初の試み\n\nDJIが日本初のコンセプトストア「DJI Authorized Concept Store Tokyo Omotesando」を東京・表参道に今秋オープンする。ドローンやカメラ、ポータブル電源を体験でき、日本初となるHasselbladとの統合型ブランド体験スペースや屋内フライトエリアも設けられる予定だ。\n\nクイック DJI初のコンセプトストアが表参道にオープン。日本初の試み\n\nHasselbladとの統合型ストアで、屋内フライトエリアも用意される\n\nDJIが日本初のコンセプトストアを東京・表参道に今秋オープンすると発表\n\n日本初のDJI・Hasselblad統合型体験スペースと屋内フライトエリアを設置予定\n\nオープン記念で抽選16名にOsmo Pocket 4などが当たるキャンペーンを実施中\n\nDJIが日本初のコンセプトストア「 DJI Authorized Concept Store Tokyo Omotesando 」を 東京・表参道にオープン すると発表した。DJI JAPANが2026年9月4日に公式Xで告知したもので、オープンは今秋を予定している。\n\n日本初のDJIコンセプトストア、まもなくオープン！ オープンを記念して、スペシャルキャンペーンを開催します！\n\n抽選で合計16名様に豪華賞品をプレゼント： 🎁 Osmo Action 6 × 1名様 🧱 Osmo Action ブロックセット × 5名様 🎒 リバーシブル トートバッグ ×… pic.twitter.com/0nXfPHqbgn\n\n— OSMO JAPAN (@OSMO_JAPAN) September 4, 2026\n\nこのストアは、DJI JAPANが2026年7月18日の説明会で予告していた表参道の旗艦店。ハンドヘルド製品やカメラド…",
-      "ImageURL": "https://gori.me/uploads/2026/09/DJI-Store-in-Japan-640x800.jpeg"
-    },
-    {
-      "Title": "(お買い得中古品情報) 測量用？5.6型にキーボードを備えた「TOUGHBOOK CF-U1」が9,980円",
-      "Link": "https://www.gdm.or.jp/crew/2026/0905/650989",
-      "Published": "2026-09-05T01:00:19Z",
-      "Source": "エルミタージュ秋葉原",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "9月は防災月間！もしもの時に役立つ、日頃から備えたい防災グッズを集めてみました 停電や災害からPCと生活を守るグッズ9選 text by  石川 ひさよし",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2138516.html",
-      "Published": "2026-09-05T01:00:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "9月は防災月間！もしもの時に役立つ、日頃から備えたい防災グッズを集めてみました 停電や災害からPCと生活を守るグッズ9選 text by  石川 ひさよし\n\n少し過ぎてしまいましたが、9月1日は防災の日でした。そこで今回のテーマは防災グッズです。2026年の夏は、地震、豪雨による土砂災害・水害などのニュースが続いてしまいましたが、“次の災害”がいつ・どこで起きるかは分かりません。\n\n9月は防災月間！もしもの時に役立つ、日頃から備えたい防災グッズを集めてみました\n\n停電や災害からPCと生活を守るグッズ9選 text by 石川 ひさよし\n\n少し過ぎてしまいましたが、9月1日は防災の日でした。そこで今回のテーマは防災グッズです。2026年の夏は、地震、豪雨による土砂災害・水害などのニュースが続いてしまいましたが、“次の災害”がいつ・どこで起きるかは分かりません。\n\n災害の経験がある人も、幸運にもまだ避難などを経験したことがない人も、備えあれば憂いなし、です。今回は、PC/IT関連や電気を使うものを中心に、“防災”に関するアイテムを9製品ピックアップしてみました。\n\n今何が起きているのか、被害状況はどうなのかなど、次の行動のためにも情報収集が重要です。ネットワークの確保や、テレビ・ラジオ関連、そして被害状況の確認を安全に行えるカメラなどのグッズをまとめました。\n\nインスタントWi-Fi UD-VP6P-92WB Amazonで購入 楽天で購入\n\n大きな災害ではネットワークの混雑(輻輳)が生じることもあります。ご家族や周囲のグループで回線をシェアして緊急時のネットワーク通信を確保するのも、現代の災害対策としては有効でしょう。スマートフォンのテザリングが第一の方法ですが、予備の回線として、ポケット型Wi-Fi端末と、“いざというときに使う回線”を備えておくのはいかがでしょうか。インス…",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2138/516/top.jpg"
-    },
-    {
-      "Title": "Philips Hueの4万円ランプが良い。Apple Home対応の寝室照明",
-      "Link": "https://gori.me/gadget/169653",
-      "Published": "2026-09-05T00:57:59Z",
-      "Source": "gori.me",
-      "Category": "スマートホーム",
-      "Summary": "Philips Hueの4万円ランプが良い。Apple Home対応の寝室照明\n\nシグニファイジャパンが2026年8月6日に発売した「Philips Hue トワイライト ベッドサイドライト」のブラック。希望小売価格は39,980円。1,600万色以上の光と0.2％までの超低調光を備え、Hueブリッジ経由でApple HomeやSiriから操作できる寝室向けランプだ。\n\nPhilips Hueの4万円ランプが良い。Apple Home対応の寝室照明\n\nコルクの土台と0.2％の超低調光。Hueブリッジ経由でSiriからも操作できる\n\nPhilips Hue トワイライト ベッドサイドライトのブラックが39,980円（税込）で発売中。Amazon・楽天では2026年8月6日から販売開始\n\n光色は1,600万色以上、色温度2,000〜6,500K、明るさ1,380lm（4,000K時）。0.2％まで絞れるので常夜灯としても使える\n\nApple HomeやSiriから操作するにはHueブリッジが必要。ブリッジ所有者なら追加するだけで寝室の照明が自動化できる\n\nPhilips Hueから、 寝室向けのベッドサイドライト「 Philips Hue トワイライト ベッドサイドライト 」 が登場していた。シグニファイジャパンが2026年8月6日に発売したモデルで、希望小売価格は39,980円（税込）。ブラックとホワイトの2色展開だ。\n\n僕のところにも新製品の案内がメールで届いて、写真を見た瞬間に「おお、いいじゃんこれ」と声が出た。キノコのような丸い頭に、すっと伸びた縦長のボディ。ベッドサイドに置く機械ではなく、寝室に置くオブジェとして成立している佇まいだ。\n\nこの製品はメーカーとしては睡眠サポート照明として打ち出されている。ただ僕が惹かれたのは、その手前にあるデザインと、Apple Hom…",
-      "ImageURL": "https://gori.me/uploads/2026/09/Philips-Hue-Twilight-head-side-light-01-800x800.jpg"
-    },
-    {
-      "Title": "GeForce Hotfix ドライバ 616.86公開。画面がちらつく・真っ黒になるなどの不具合を修正",
-      "Link": "https://www.nichepcgamer.com/archives/post-132075.html",
-      "Published": "2026-09-05T00:33:51Z",
-      "Source": "ニッチなPCゲーマーの環境構築Z",
-      "Category": "ドライバ",
-      "Summary": "GeForce Hotfix ドライバ 616.86公開。画面がちらつく・真っ黒になるなどの不具合を修正\n\nGeForce Hotfix ドライバ 616.86が公開されました。 GeForce Hotfix ドライバ 616.86対応製品 GeForce Hotfixドライバ 616.86は、以下の製品...\n\nGeForce Hotfix ドライバ 616.86が公開されました。\n\nGeForce Hotfix ドライバ 616.86対応製品\n\nGeForce Hotfixドライバ 616.86は、以下の製品をサポートします。\n\nGeForce Hotfix ドライバ 616.86で修正された不具合\n\nGeForce Hotfixドライバ 616.86では、以下の不具合修正が施されています。\n\n特定のWebサイトを閲覧した際、ブラウザの表示がちらつく不具合を修正(※モニターがちらつく不具合)\n\n616.56以降、仮想ディスプレイ(Virtual displays)を作成できない不具合を修正\n\n616.56以降、Remote Desktop Protocol (RDP)セッションの画面が真っ黒になる不具合を修正\n\nGeForce Hotfixドライバ 616.86には以下の既知の不具合があります。\n\n『電源管理モード』の『パフォーマンス最大化を優先』が正常に適用されない場合があります\n\nGeForce Hotfixドライバ 616.86のインストールに際して、『クリーン インストールの実行』にチェックを入れて、さらにNVIDIAアプリ (NVIDIA App)をインストールしなかった場合、タスクバーのシステムトレイに『NVIDIA 設定』アイコンが表示されるものの、押しても何も起動しません。起動させるべきアプリ(NVIDIAアプリ、NVIDIAコントロールパネル)がないにもかかわらず、アイコンだけが表示されている状況です。右クリックメニューから『終了』させることはできるものの、PC再起動で再び表示されます。非表示にすることもできません\n\nAMD Athlon 64 X…",
-      "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2025/12/nvidia-logo-1200.jpg"
-    },
-    {
-      "Title": "「13.3インチMacBook Air 2020」が期間限定で45,800円、中古品が100台以上入荷！",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2138484.html",
-      "Published": "2026-09-05T00:05:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "「13.3インチMacBook Air 2020」が期間限定で45,800円、中古品が100台以上入荷！\n\n2020年発売の「MacBook Air」の中古品が、アメモバマーケット東京秋葉原店でセール中。セール期間は9月6日（日）まで。\n\n「13.3インチMacBook Air 2020」が期間限定で45,800円、中古品が100台以上入荷！\n\n2020年発売の「MacBook Air」の中古品が、 アメモバマーケット東京秋葉原店 でセール中。セール期間は9月6日（日）まで。\n\n今回入荷したのは3か月の保証が付いたBランク中古品で、価格は45,800円。カラーはスペースグレイ、シルバー、ゴールドの3色で、在庫は100台以上用意されているようです。\n\n主な仕様は、ディスプレイサイズが13.3インチ（解像度が2,560×1,600）、CPUがIntel Core i3プロセッサー、メモリが8GB、ストレージが256GB。キーボードは日本語配列で、社外品充電器が付属するようです。\n\n店頭のほか、同店の通販サイトでも販売されているので、興味がある方はチェックしてみてください。",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2138/484/a1.jpg"
-    },
-    {
-      "Title": "(アキバ取材班) プレステ2のデバッグ用開発機「DTL-H10000」が入荷。ほぼ使われていない極上品",
-      "Link": "https://www.gdm.or.jp/crew/2026/0905/650977",
-      "Published": "2026-09-04T23:45:33Z",
-      "Source": "エルミタージュ秋葉原",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "Appleが来週から2027年初頭までに投入すると予想される新製品、全14機種",
-      "Link": "https://gori.me/imac/169647",
-      "Published": "2026-09-04T23:23:17Z",
-      "Source": "gori.me",
-      "Category": "折りたたみスマホ",
-      "Summary": "Appleが来週から2027年初頭までに投入すると予想される新製品、全14機種\n\nBloombergのMark Gurman氏が、Appleが2026年9月9日のイベントから2027年初頭までに発表するとみられる製品を公開した。折りたたみのiPhone Ultra、Mac初のタッチ対応となるMacBook Ultra、新カテゴリのHome Hubなど14機種。時期別に整理した。\n\nAppleが来週から2027年初頭までに投入すると予想される新製品、全14機種\n\n折りたたみiPhone Ultra、タッチ対応MacBook、新カテゴリのHome Hubまで\n\nBloombergのMark Gurman氏が9月4日、Appleが来週から2027年初頭までに発表するとみられる14機種のリストを公開\n\n9月9日のイベントではiPhone 18 Pro、iPhone 18 Pro Max、折りたたみのiPhone Ultra、Apple Watch Series 12、Apple Watch Ultra 4の5機種が主役になりそう\n\nその後はiPad mini、AirPods 5、Beats 360、Apple TV、HomePod mini、Home Hub、MacBook Pro、iMac、MacBook Ultraが続く見立て\n\nAppleが来週から2027年初頭までに発表するとみられる新製品 が、 14機種にのぼる という情報が出てきた。折りたたみiPhone、タッチ対応の MacBook 、家庭用の新しいスマートディスプレイまで、ジャンルをまたいだ大型更新が一気に来る見立てだ。\n\nBloombergの Mark Gurman 氏が9月4日、来週から2027年初頭までにAppleが発表すると予想する製品を長いリストとして 公開 した。同記事はGurman氏の報道を軸に、ほかの…",
-      "ImageURL": "https://gori.me/uploads/2026/08/Apple-Prodcuts-Giant-Leak-from-macos26-03-800x498.jpg"
-    },
-    {
-      "Title": "GeForce Game Readyドライバ 616.64 不具合情報。モニターがちらつく不具合はいまだ直らず",
-      "Link": "https://www.nichepcgamer.com/archives/geforce-driver-issue-616-64.html",
-      "Published": "2026-09-04T23:10:03Z",
-      "Source": "ニッチなPCゲーマーの環境構築Z",
-      "Category": "ドライバ",
-      "Summary": "GeForce Game Readyドライバ 616.64 不具合情報。モニターがちらつく不具合はいまだ直らず\n\nGeForce Game Readyドライバ 616.64 WHQLの不具合情報です。NVIDIA公式の既知の不具合と、海外のGeForceフォーラムで目に付いたユーザー報告を意訳しています。ユーザ...\n\nGeForce Game Readyドライバ 616.64 WHQL の不具合情報です。NVIDIA公式の既知の不具合と、海外のGeForceフォーラムで目に付いたユーザー報告を意訳しています。ユーザー報告は全ての環境で発生するものとは限らず、環境依存の可能性もあります。同様の不具合にお悩みの方の参考になりましたら幸いです。\n\nNVIDIA公式: 既知の不具合 (リリースノート + フォーラム)\n\n『電源管理モード』の『パフォーマンス最大化を優先』が正常に適用されない場合があります\n\n特定のWebサイトを閲覧した際、ブラウザの表示がちらつく場合があります(※ 616.56 で報告されていたモニターがちらつく不具合です)\n\n610.47ドライバ以降のインストールに際して、『クリーン インストールの実行』にチェックを入れて、さらにNVIDIA App (NVIDIAアプリ)をインストールしなかった場合、タスクバーのシステムトレイに『NVIDIA 設定』アイコンが表示されるものの、押しても何も起動しません。起動させるべきアプリ(NVIDIA App、NVIDIAコントロールパネル)がないにもかかわらず、アイコンだけが表示されている状況です。右クリックメニューから『終了』させることはできるものの、PC再起動で再び表示されます。恒久的に非表示にすることはできません\n\nAMD Athlon 64 X2やIntel Core 2 Duo / Core 2 Quad以前のP…",
-      "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2025/12/nvidia-logo-issue-1200.jpg"
-    },
-    {
-      "Title": "M1チップ/16GBメモリ搭載の「MacBook Air」が49,800円など！秋葉館のジャンク品セール",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2138434.html",
-      "Published": "2026-09-04T23:05:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "M1チップ/16GBメモリ搭載の「MacBook Air」が49,800円など！秋葉館のジャンク品セール\n\nMac専門店秋葉館の店頭で、Apple製品のジャンク品セールが実施中。\n\nM1チップ/16GBメモリ搭載の「MacBook Air」が49,800円など！秋葉館のジャンク品セール\n\nMac専門店 秋葉館 の店頭で、Apple製品のジャンク品セールが実施中。\n\nラインアップと価格の一例を挙げると、M1チップ/16GBメモリ搭載の「MacBook Air」が49,800円、第8世代Core i5/16GBメモリ搭載の「MacBook Pro」が24,800円。\n\n「iPhone 11 128GB」が9,800円、「iPhone 12 128GB」が14,800円、「第3世代iPhone SE 64GB」が12,800円。\n\n「第1世代AirPods Pro（右イヤホン欠品）」が2,980円、「第2世代iPad Pro 12.9インチ 512GB」が9,800円など。\n\n各種在庫は1点限りで、保証がないジャンク品となっています。興味がある方は同店に足を運んでみてください。",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2138/434/a1.jpg"
     }
   ],
   "world": [
+    {
+      "Title": "Seeed Studio Partners with TinyGo to Design, Launch a Starter Kit Built Around the XIAO ESP32C3",
+      "Link": "https://www.hackster.io/news/seeed-studio-partners-with-tinygo-to-design-launch-a-starter-kit-built-around-the-xiao-esp32c3-ea816470e764",
+      "Published": "2026-09-11T10:50:50Z",
+      "Source": "Hackster.io",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "Intel Arc GPU Graphics Drivers 101.8993 Beta Released",
+      "Link": "https://www.techpowerup.com/352588/intel-arc-gpu-graphics-drivers-101-8993-beta-released",
+      "Published": "2026-09-11T10:49:18Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "Intel Arc GPU Graphics Drivers 101.8993 Beta Released\n\nIntel today released the latest version of its Arc GPU Graphics drivers. Version 101.8893 Beta comes game-ready for \"Wardogs,\" which released to early access on Thursday. The online multiplayer FPS resembles the \"King of the Hill\" mod of Arma 3. This release does not fix any game-specific or...\n\nIntel Arc GPU Graphics Drivers 101.8993 Beta Released\n\nMafia: The Old Country (DX12) may experience an application crash during gameplay.\n\nArena Breakout Infinite (DX12) may experience an application crash when the Terrain Surface Subdivision is On.\n\nPugetBench for Davinci Resolve Studio may experience an intermittent application crash while running the benchmark. Recommendation is to change the timeout slider to 1500 seconds or higher, to wait…",
+      "ImageURL": "https://www.techpowerup.com/img/rUVVQ5GVKhrw5vcp.jpg"
+    },
+    {
+      "Title": "Renesas Expands Its RZ/G System-on-Chip Family with HMI, IoT-Focused RZ/G3L and RZ/G3SE",
+      "Link": "https://www.hackster.io/news/renesas-expands-its-rz-g-system-on-chip-family-with-hmi-iot-focused-rz-g3l-and-rz-g3se-dd10966f92ec",
+      "Published": "2026-09-11T10:35:05Z",
+      "Source": "Hackster.io",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "Gemini in Google Sheets is making spreadsheets less painful on Android",
+      "Link": "https://www.androidauthority.com/gemini-in-google-sheets-on-android-3710291/",
+      "Published": "2026-09-11T10:34:55Z",
+      "Source": "Android Authority",
+      "Category": "Google Sheets",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "5 Android phones you should buy instead of the Google Pixel 11 Pro",
+      "Link": "https://www.androidauthority.com/google-pixel-11-pro-alternatives-3709234/",
+      "Published": "2026-09-11T10:30:23Z",
+      "Source": "Android Authority",
+      "Category": "Samsung Galaxy S26",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "Windows 11 can now reinstall itself from the cloud — Cloud Rebuild revives dead systems without secondary boot media, wipes broken installation and downloads a fresh copy of the OS",
+      "Link": "https://www.tomshardware.com/software/windows/windows-11-can-now-reinstall-itself-from-the-cloud-cloud-rebuild-revives-dead-systems-without-secondary-boot-media-wipes-broken-installation-and-downloads-a-fresh-copy-of-the-os",
+      "Published": "2026-09-11T10:30:00Z",
+      "Source": "Tom's Hardware",
+      "Category": "Operating Systems",
+      "Summary": "Windows 11 can now reinstall itself from the cloud — Cloud Rebuild revives dead systems without secondary boot media, wipes broken installation and downloads a fresh copy of the OS\n\nWindows recovery gets easier.\n\nWindows 11 can now reinstall itself from the cloud — Cloud Rebuild revives dead systems without secondary boot media, wipes broken installation and downloads a fresh copy of the OS\n\n(Image credit: Tom's Hardware) Copy link\n\n13 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter Microsoft has finally solved one of the biggest pain points of Windows with the rollout of Cloud Rebuild. The new recovery feature can reinstall Windows 11 even when an existing Windows installation is corrupt or refuses to boot. Available as a beta …",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/j5zs5ecSDHaXsQ5BGtwxvN-1920-80.jpg"
+    },
+    {
+      "Title": "Sharing a TV? YouTube now lets you lock down your account, here’s how",
+      "Link": "https://www.androidauthority.com/youtube-account-lock-smart-tv-rollout-3710248/",
+      "Published": "2026-09-11T10:28:04Z",
+      "Source": "Android Authority",
+      "Category": "YouTube",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "Morse Micro Launches New Dongles in a Bid to Bring Wi-Fi HaLow \"Onto Everyday Devices\"",
+      "Link": "https://www.hackster.io/news/morse-micro-launches-new-dongles-in-a-bid-to-bring-wi-fi-halow-onto-everyday-devices-471c836afd5b",
+      "Published": "2026-09-11T10:07:19Z",
+      "Source": "Hackster.io",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "The iPhone 18 Pro camera is already years behind 2026 Android phones",
+      "Link": "https://www.androidauthority.com/iphone-18-pro-camera-disapointment-3709681/",
+      "Published": "2026-09-11T10:00:17Z",
+      "Source": "Android Authority",
+      "Category": "Photography",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "Anthropic says Claude thwarted bioweapon research from state-sponsored actors — covert accounts used U.S. proxies to attempt to engineer deadlier viruses, tried to evade identification and regional blocks",
+      "Link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-thwarted-bioweapon-research-from-state-sponsored-actors-covert-accounts-used-u-s-proxies-to-attempt-to-engineer-deadlier-viruses-tried-to-evade-identification-and-regional-blocks",
+      "Published": "2026-09-11T10:00:00Z",
+      "Source": "Tom's Hardware",
+      "Category": "Tech Industry",
+      "Summary": "Anthropic says Claude thwarted bioweapon research from state-sponsored actors — covert accounts used U.S. proxies to attempt to engineer deadlier viruses, tried to evade identification and regional blocks\n\nPlague Inc. could eventually be more than just a game.\n\nAnthropic says Claude thwarted bioweapon research from state-sponsored actors — covert accounts used U.S. proxies to attempt to engineer deadlier viruses, tried to evade identification and regional blocks\n\nPlague Inc. could eventually be more than just a game.\n\n(Image credit: Getty Images) Copy link\n\n3 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter These days, AI companies directly or indirectly announcing how their respective wares are smarter than their competitors has…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/g4nXrCZY8SaCBTKgyPUXVW-2371-80.jpg"
+    },
+    {
+      "Title": "Alif Semi Lowers the Barrier to Entry for Ensemble, Balletto TinyML Projects with New $49 StartKits",
+      "Link": "https://www.hackster.io/news/alif-semi-lowers-the-barrier-to-entry-for-ensemble-balletto-tinyml-projects-with-new-49-startkits-8e12aee648c6",
+      "Published": "2026-09-11T09:50:16Z",
+      "Source": "Hackster.io",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "Galaxy Buds On leaked renders show Samsung’s foray into a new earbud category",
+      "Link": "https://www.androidauthority.com/samsung-galaxy-buds-on-render-leak-3710245/",
+      "Published": "2026-09-11T09:45:20Z",
+      "Source": "Android Authority",
+      "Category": "Samsung Galaxy Buds",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "Samsung’s Galaxy SmartTag 3 leaks in all its glory, with a Galaxy Watch-inspired design change",
+      "Link": "https://www.androidauthority.com/samsung-galaxy-smarttag-3-images-leak-3710201/",
+      "Published": "2026-09-11T09:42:28Z",
+      "Source": "Android Authority",
+      "Category": "Samsung",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "8 iPhone Duo features every Android foldable needs to copy in 2027",
+      "Link": "https://www.androidauthority.com/iphone-duo-features-android-foldables-need-copy-3709762/",
+      "Published": "2026-09-11T09:30:33Z",
+      "Source": "Android Authority",
+      "Category": "Foldable Phones",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "Google could give the Fitbit Charge a Wear OS-powered successor",
+      "Link": "https://www.androidauthority.com/google-wear-os-fitness-tracker-fcc-3710192/",
+      "Published": "2026-09-11T09:29:04Z",
+      "Source": "Android Authority",
+      "Category": "Google Wear OS",
+      "Summary": "",
+      "ImageURL": ""
+    },
     {
       "Title": "Russian plot to sabotage undersea cables with 'secret weapon' foiled by NATO — clandestine op uncovers training exercise simulating deployment against infrastructure in Norway",
       "Link": "https://www.tomshardware.com/tech-industry/russian-plot-to-sabotage-undersea-cables-with-secret-weapon-foiled-by-nato-clandestine-op-uncovers-training-exercise-simulating-deployment-against-infrastructure-in-norway",
@@ -5565,15 +5700,6 @@
       "ImageURL": ""
     },
     {
-      "Title": "Dell Pro 5 14 レビュー: 驚くほど妥協の少ないミッドレンジ",
-      "Link": "https://www.notebookcheck.net/Dell-Pro-5-14-review-Midrange-with-surprisingly-few-compromises.1392391.0.html",
-      "Published": "2026-09-09T19:42:00Z",
-      "Source": "Notebookcheck",
-      "Category": "reviews",
-      "Summary": "Dell Pro 5 14 レビュー: 驚くほど妥協の少ないミッドレンジ\n\n主流の Dell Pro 5 14 は、より高価な Dell Pro 7 14 よりも下に位置する可能性がありますが、共通点が非常に多いため、ほとんどのシナリオで両者のユーザー エクスペリエンスはほぼ同一です。 「下位」モデルには、後者にはないいくつかの機能も搭載されています。\n\n評決 - 特定の面では Dell Pro 7 14 よりも優れている\n\nDell Pro 7 14 よりも手頃な価格にもかかわらず、Dell Pro 5 14 は同様のシャーシ機能、同じ入力デバイス、バッテリー サイズ、Web カメラ、ディスプレイ オプションを備えており、ほぼ同じユーザー エクスペリエンスを実現します。実際、Dell Pro 5 14 には、RJ-45、オプションの LPCAMM2、Panther Lake X7 プロセッサーなど、Dell Pro 7 14 では利用できないいくつかの機能が搭載されており、後者は必要なユーザーにとってグラフィックス パフォーマンスを大幅に向上させます。\n\nただし、より安価なモデルである Dell Pro 5 14 は、より高価な兄弟モデルよりもわずかに厚くて重いため、追加の機能はサイズと重量を犠牲にします。軽量の Lenovo ThinkPad T14 などの競合製品は、同様の画面サイズとハードウェア オプションを備えており、より旅行に適しています。\n\n良い (84%) Dell Pro 5 14 P514260 Intel Core Ultra X7 368H Intel Arc B390 12 Xe3 Panther Lake iGPU Office - 09/09/2026 - v8 テスト デバイスはデル提供 ライセンス評価画像を PNG / SVG としてダウンロード その他の細かい点としては、右端に USB-C ポートがないため、システムの左端に沿った充電のみが制限されることが含まれます。さらに、高価な Dell Pro 7 14 で経験したこととは異なり…",
-      "ImageURL": "https://www.notebookcheck.net/fileadmin/Notebooks/Dell/Pro_5_14_P514260/dellpro514_feature_1.jpg"
-    },
-    {
       "Title": "Appleの長い間噂されていた折りたたみ式が2,000ドルのiPhone Duoで現実になる",
       "Link": "https://arstechnica.com/gadgets/2026/09/apples-long-rumored-foldable-becomes-reality-with-the-2000-iphone-duo/",
       "Published": "2026-09-09T19:42:00Z",
@@ -5581,6 +5707,15 @@
       "Category": "smartphones",
       "Summary": "Appleの長い間噂されていた折りたたみ式が2,000ドルのiPhone Duoで現実になる\n\nApple初の折りたたみ式製品が来月にはあなたのものになるかもしれません。\n\nテキスト設定 ストーリーテキスト サイズ 小 標準 大 幅 * 標準 ワイドリンク 標準 オレンジ * 購読者のみ 詳細はこちら ナビゲーションを最小限に抑える Apple は今日のハードウェア イベントを、古典的な「もう 1 つ」の発表で終了しました。一部のスマートフォンメーカーはこの10年間の大部分にわたって折りたたみ式スマートフォンを提供してきたが、Appleは長年の憶測を経て、今回iPhone Duoでこの争いに加わった。\n\nこのデバイスは間違いなくこれまでの iPhone の中で最も高性能であると同時に、最も高価でもあります。ただし、価格は 1,999 ドルからと、多くの人が予想していたほど高価ではありません。これは、Google や Samsung の折りたたみ式デバイスと同じ範囲にあります。\n\niPhone Duoは、数か月前には折り畳み式のデザインを全く新しいものに取り入れたもののように見えたでしょうが、SamsungはGalaxy Z Fold 8で話題を呼びました。その電話機と同様に、iPhone Duo のシャーシは幅が広く、短くなっています。 Appleはその発表の前に、正方形のアスペクト比で開く折りたたみ式デバイスを非難した。この形状は 2 つの縦向きのアプリを並べて表示するのに非常に適していますが、それ以外のほとんどすべての機能が苦手で、1 つのアプリをぎこちなく引き延ばしたり、ビデオに巨大な黒いバーが残ったりします。\n\nそのため、iPhone Duoは閉じたときにパスポートのような形状を採用しています。 Appleによれば、このデバイスは開いたときと閉じたときのアスペクト比が1:1.4になるという。 5.4 インチの外側のスクリーンは、ヒンジ側の角が尖っていて、反対側の角が丸いという、風変わりな非対称デザインになっています。 Apple は、これによって電話を「開くよう…",
       "ImageURL": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Apple-iPhone-Duo-display-sizes-260909-1152x648.jpg"
+    },
+    {
+      "Title": "Dell Pro 5 14 レビュー: 驚くほど妥協の少ないミッドレンジ",
+      "Link": "https://www.notebookcheck.net/Dell-Pro-5-14-review-Midrange-with-surprisingly-few-compromises.1392391.0.html",
+      "Published": "2026-09-09T19:42:00Z",
+      "Source": "Notebookcheck",
+      "Category": "reviews",
+      "Summary": "Dell Pro 5 14 レビュー: 驚くほど妥協の少ないミッドレンジ\n\n主流の Dell Pro 5 14 は、より高価な Dell Pro 7 14 よりも下に位置する可能性がありますが、共通点が非常に多いため、ほとんどのシナリオで両者のユーザー エクスペリエンスはほぼ同一です。 「下位」モデルには、後者にはないいくつかの機能も搭載されています。\n\n評決 - 特定の面では Dell Pro 7 14 よりも優れている\n\nDell Pro 7 14 よりも手頃な価格にもかかわらず、Dell Pro 5 14 は同様のシャーシ機能、同じ入力デバイス、バッテリー サイズ、Web カメラ、ディスプレイ オプションを備えており、ほぼ同じユーザー エクスペリエンスを実現します。実際、Dell Pro 5 14 には、RJ-45、オプションの LPCAMM2、Panther Lake X7 プロセッサーなど、Dell Pro 7 14 では利用できないいくつかの機能が搭載されており、後者は必要なユーザーにとってグラフィックス パフォーマンスを大幅に向上させます。\n\nただし、より安価なモデルである Dell Pro 5 14 は、より高価な兄弟モデルよりもわずかに厚くて重いため、追加の機能はサイズと重量を犠牲にします。軽量の Lenovo ThinkPad T14 などの競合製品は、同様の画面サイズとハードウェア オプションを備えており、より旅行に適しています。\n\n良い (84%) Dell Pro 5 14 P514260 Intel Core Ultra X7 368H Intel Arc B390 12 Xe3 Panther Lake iGPU Office - 09/09/2026 - v8 テスト デバイスはデル提供 ライセンス評価画像を PNG / SVG としてダウンロード その他の細かい点としては、右端に USB-C ポートがないため、システムの左端に沿った充電のみが制限されることが含まれます。さらに、高価な Dell Pro 7 14 で経験したこととは異なり…",
+      "ImageURL": "https://www.notebookcheck.net/fileadmin/Notebooks/Dell/Pro_5_14_P514260/dellpro514_feature_1.jpg"
     },
     {
       "Title": "Apple finally reveals foldable iPhone Duo with Z Fold 8-like form factor",
@@ -7689,21 +7824,21 @@
       "ImageURL": "https://cdn.mos.cms.futurecdn.net/HPXbDwcuT5atbASBqEfme5-1999-80.jpg"
     },
     {
-      "Title": "Samsung’s ultra-thin smartphone is a marketing gimmick—Galaxy Z Fold 8 Ultra Review",
-      "Link": "https://www.notebookcheck.net/The-thinnest-Samsung-smartphone-ever-takes-on-the-iPhone-Ultra-Galaxy-Z-Fold-8-Ultra-Review.1390192.0.html",
-      "Published": "2026-09-07T14:05:00Z",
-      "Source": "Notebookcheck",
-      "Category": "reviews",
-      "Summary": "Samsung’s ultra-thin smartphone is a marketing gimmick—Galaxy Z Fold 8 Ultra Review\n\nThe new Samsung Galaxy Z Fold8 Ultra is breaking records: At just 4.1 mm thick, it is the thinnest foldable flagship ever. Beneath the massive 8-inch display lie pure high-end specs, such as the Snapdragon 8 Elite processor, a 200-megapixel camera, and a long-lasting 5,000-mAh silicon battery. Our review will determine whether the Samsung phone is worth its price tag of over $2,000 and if it’s worth buying.\n\nVerdict on the Samsung Galaxy Z Fold8 Ultra\n\nWith the Galaxy Z Fold8 Ultra, Samsung is introducing the “Ultra” designation to its foldable lineup for the first time. From a technical standpoint, however, the leap from the Fold7 is much smaller than the new name suggests. We don’t see any significant im…",
-      "ImageURL": "https://www.notebookcheck.net/fileadmin/Notebooks/Samsung/Galaxy_Z_Fold8_Ultra/Samsung_Galxy_Fold_8_Ultra_Test_172.jpg"
-    },
-    {
       "Title": "Samsung’s Ultra-Thin Smartphone Is a Marketing Gimmick—Galaxy Z Fold 8 Ultra Review",
       "Link": "https://www.notebookcheck.net/The-Thinnest-Samsung-Smartphone-Ever-Takes-on-the-iPhone-Ultra-Galaxy-Z-Fold-8-Ultra-Review.1390192.0.html",
       "Published": "2026-09-07T14:05:00Z",
       "Source": "Notebookcheck",
       "Category": "reviews",
       "Summary": "Samsung’s Ultra-Thin Smartphone Is a Marketing Gimmick—Galaxy Z Fold 8 Ultra Review\n\nThe new Samsung Galaxy Z Fold8 Ultra is breaking records: At just 4.1 mm thick, it is the thinnest foldable flagship ever. Beneath the massive 8-inch display lie pure high-end specs, such as the Snapdragon 8 Elite processor, a 200-megapixel camera, and a long-lasting 5,000-mAh silicon battery. Our review will determine whether the Samsung phone is worth its price tag of over $2,000 and if it’s worth buying.\n\nVerdict on the Samsung Galaxy Z Fold8 Ultra\n\nWith the Galaxy Z Fold8 Ultra, Samsung is introducing the “Ultra” designation to its foldable lineup for the first time. From a technical standpoint, however, the leap from the Fold7 is much smaller than the new name suggests. We don’t see any significant im…",
+      "ImageURL": "https://www.notebookcheck.net/fileadmin/Notebooks/Samsung/Galaxy_Z_Fold8_Ultra/Samsung_Galxy_Fold_8_Ultra_Test_172.jpg"
+    },
+    {
+      "Title": "Samsung’s ultra-thin smartphone is a marketing gimmick—Galaxy Z Fold 8 Ultra Review",
+      "Link": "https://www.notebookcheck.net/The-thinnest-Samsung-smartphone-ever-takes-on-the-iPhone-Ultra-Galaxy-Z-Fold-8-Ultra-Review.1390192.0.html",
+      "Published": "2026-09-07T14:05:00Z",
+      "Source": "Notebookcheck",
+      "Category": "reviews",
+      "Summary": "Samsung’s ultra-thin smartphone is a marketing gimmick—Galaxy Z Fold 8 Ultra Review\n\nThe new Samsung Galaxy Z Fold8 Ultra is breaking records: At just 4.1 mm thick, it is the thinnest foldable flagship ever. Beneath the massive 8-inch display lie pure high-end specs, such as the Snapdragon 8 Elite processor, a 200-megapixel camera, and a long-lasting 5,000-mAh silicon battery. Our review will determine whether the Samsung phone is worth its price tag of over $2,000 and if it’s worth buying.\n\nVerdict on the Samsung Galaxy Z Fold8 Ultra\n\nWith the Galaxy Z Fold8 Ultra, Samsung is introducing the “Ultra” designation to its foldable lineup for the first time. From a technical standpoint, however, the leap from the Fold7 is much smaller than the new name suggests. We don’t see any significant im…",
       "ImageURL": "https://www.notebookcheck.net/fileadmin/Notebooks/Samsung/Galaxy_Z_Fold8_Ultra/Samsung_Galxy_Fold_8_Ultra_Test_172.jpg"
     },
     {
@@ -8319,8 +8454,8 @@
       "ImageURL": ""
     },
     {
-      "Title": "XIAO SAMD21 Plus and RP2350 Plus USB-C boards get additional GPIO pins, integrated Li-ion battery management",
-      "Link": "https://www.cnx-software.com/2026/09/07/xiao-samd21-plus-and-rp2350-plus-usb-c-boards-get-additional-gpio-pins-integrated-li-ion-battery-management/",
+      "Title": "XIAO SAMD21 Plus and RP2040 Plus USB-C boards get additional GPIO pins, integrated Li-ion battery management",
+      "Link": "https://www.cnx-software.com/2026/09/07/xiao-samd21-plus-and-rp2040-plus-usb-c-boards-get-additional-gpio-pins-integrated-li-ion-battery-management/",
       "Published": "2026-09-07T01:07:22Z",
       "Source": "CNX Software",
       "Category": "zephyr",
@@ -8328,8 +8463,8 @@
       "ImageURL": ""
     },
     {
-      "Title": "XIAO SAMD21 Plus and RP2040 Plus USB-C boards get additional GPIO pins, integrated Li-ion battery management",
-      "Link": "https://www.cnx-software.com/2026/09/07/xiao-samd21-plus-and-rp2040-plus-usb-c-boards-get-additional-gpio-pins-integrated-li-ion-battery-management/",
+      "Title": "XIAO SAMD21 Plus and RP2350 Plus USB-C boards get additional GPIO pins, integrated Li-ion battery management",
+      "Link": "https://www.cnx-software.com/2026/09/07/xiao-samd21-plus-and-rp2350-plus-usb-c-boards-get-additional-gpio-pins-integrated-li-ion-battery-management/",
       "Published": "2026-09-07T01:07:22Z",
       "Source": "CNX Software",
       "Category": "zephyr",
@@ -8866,141 +9001,6 @@
       "Category": "wordstar",
       "Summary": "WordStar は再び (そして再び) 生き続ける\n\nワードプロセッサとエディタは面白いものです。それが何を意味するにせよ、何が「最高」であるかは実際には重要ではありません。 1 つのプログラムについて指の記憶が構築されている場合は、それは完璧です。\n\nワードプロセッサとエディタは面白いものです。それが何を意味するにせよ、何が「最高」であるかは実際には重要ではありません。 1 つのプログラムについて覚えてしまっていると、変更するのは大変です。それが、私たちのほとんどがドヴォルザーク キーボードでの入力方法を学ばない理由であり、[ジョージ R. R. マーティン] が WordStar で文章を書いている理由です。一定の年齢層の多くの人は、WordStar について深い記憶を持っています。 [nampara-ai] のおかげで、最新のマシン上で、またはブラウザ上でさえも大きな問題なく実行できるようになりました。\n\n考え方はシンプルです。 MSDOS 用の WordStar のビンテージ コピーを DOSBox でラップし、Linux、Mac、または Windows 用の基本スクリプトとともにパッケージ化します。さらに、そのようなことに興味がある場合は、ブラウザ用の WebAssembly バージョンもあります。\n\nLinux では、wordstar.sh ファイルが現在のディレクトリを取得し、launch.sh に送信します。このスクリプトは、すべての準備が整っていることを確認し、テンプレートから DOSBox 構成ファイルを構築し、すべてを起動します。唯一の問題は、パス上にリンクが必要な場合にシンボリックリンクが正しく解決されないことです。幸いなことに、これは簡単に修正できます。\n\n#!/usr/bin/env bash # Linux で WordStar 4.0 を起動するには実行してください: ./wordstar.sh DIR=\"$(realpath \"$0\")\" DIR=\"$(dirname $DIR)\" cd \"$DIR\" DIR=\"$(pwd)\" #DI…",
       "ImageURL": "https://hackaday.com/wp-content/uploads/2026/09/ws.png"
-    },
-    {
-      "Title": "ACEMAGIC Kron Mini K5 Review – Part 2: A $400 Intel Core 3 304 Wildcat Lake mini PC tested with Windows 11 Pro",
-      "Link": "https://www.cnx-software.com/2026/09/06/acemagic-kron-mini-k5-review-part-2-a-400-intel-core-3-304-wildcat-lake-mini-pc-tested-with-windows-11-pro/",
-      "Published": "2026-09-06T07:34:36Z",
-      "Source": "CNX Software",
-      "Category": "youtube",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "このマウスの中にコンピューター全体が入っています",
-      "Link": "https://hackaday.com/2026/09/05/theres-whole-computer-inside-this-mouse/",
-      "Published": "2026-09-06T05:00:13Z",
-      "Source": "Hackaday",
-      "Category": "samsung dex",
-      "Summary": "このマウスの中にコンピューター全体が入っています\n\n[ガジェット業界] はこれを「マウスの中に PC が入ったもの」と宣伝していますが、それは「PC」の定義によって異なります。確かに、これはマウスの中にパーソナル コンピュータが入っていますが、何もありません…\n\n[ガジェット業界] はこれを「マウスの中に PC が入ったもの」と宣伝していますが、それは「PC」の定義によって異なります。確かに、これはマウスの中に組み込まれたパーソナル コンピュータですが、通常は周辺機器であるものに彼が押し込んだ小さな ARM ボードには IBM 互換性は何もありません。実際にはスマートフォンとして誕生しましたが、Pi のようなシングルボード コンピュータから始めた場合と比べて、この構築がさらに一歩進んだだけです。\n\n具体的には、Galaxy S21 5G から始めます。 Samsung で始めるということは、Linux 環境を上に重ねたり、オペレーティング システムを Postmarket OS のようなものに完全に置き換えたりするのではなく、標準の Android をそのままにして、Samsung の DeX デスクトップ モードを利用するだけで済むことを意味します。どちらも実行可能な選択肢です。\n\nバッテリーコンパートメントを取り外すと、携帯電話の本体がかつてはワイヤレスだったマウスに驚くほど簡単にフィットします。もちろん、それは素晴らしい熱環境ではありませんが、それが真鍮の目的です。これはヒートスプレッダーとして機能し、電話機が最初から備えていたのとほぼ同じ熱管理機能を備えているため、十分に機能するはずです。確かにビデオではそう見えます。サーマルスロットリングが懸念される場合は、マウスに取り付けるのは難しいかもしれませんが、液体冷却に勝るものはありません。",
-      "ImageURL": "https://hackaday.com/wp-content/uploads/2026/09/ARM-PC-mouse.jpg"
-    },
-    {
-      "Title": "この Raspberry Pi 5 電子インク プロジェクトは、庭の音を聞き、聞こえた鳥を描きます。",
-      "Link": "https://www.xda-developers.com/this-raspberry-pi-5-e-ink-project-listens-to-your-garden-and-draws-the-birds-it-hears/",
-      "Published": "2026-09-06T04:36:48Z",
-      "Source": "XDA",
-      "Category": "Raspberry Pi 5",
-      "Summary": "この Raspberry Pi 5 電子インク プロジェクトは、庭の音を聞き、聞こえた鳥を描きます。\n\n画面上の鳥の描画に AI は使用されていません。\n\nこの Raspberry Pi 5 電子インク プロジェクトは、庭の音を聞き、聞こえた鳥を描きます。\n\nクレジット: arnegiacomo By Simon Batt Published Sep 6, 2026, 12:36 AM EDT Simon はコンピュータ サイエンスの学士号を取得しており、2014 年からテクノロジーについて執筆しており、3.1 から Windows マシンを使用しています。インディーズ ゲーム スタジオで働き、コンピューターの問題全般に対応する家族の頼れる技術者として活動した後、彼は文章を書くことへの情熱に気づき、自分のスキルセットをテクノロジー全般について書くことに決めました。ライターとしてのキャリアを始めて以来、彼は WorldStart 、 Listverse 、 MakeTechEasier などのさまざまな出版物に執筆してきました。しかし、2019 年 2 月に MakeUseOf に居場所を見つけた後、最終的にはその姉妹サイトである XDA に移り、最新かつ最高の Windows、Linux、DIY 電子機器を提供することになりました。 XDA アカウントにサインインする\n\nこの受動的な鳥の鳴き声リスナーは、Raspberry Pi 5、USB マイク、および Inky e-ink ディスプレイを使用します。\n\n手作業で厳選された 1800 年代の自然史の切り抜きをアートに使用し、BirdNET-Go を使用してローカルで実行します。\n\n多くのハードウェアは必要ありません。独自に作成したい場合は、GitHub リポジトリを利用できます。\n\n最近では、鳥の鳴き声を識別するのは非常に簡単です。必要なのは携帯電話に鳥識別アプリがあれば、すぐに電話を識別できます。しかし、受動的に鳥の鳴き声を聞き、どの鳴き声が聞こえたかを美しいアートを使って表示するシステムができたらどうでしょうか?…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/09/bird-recognisation-rpi5-featured.jpg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
-      "Title": "あなたも、古い NES をリアルタイムでインターネット データを受信するフライト トラッカーに変えることができます。",
-      "Link": "https://www.xda-developers.com/you-too-can-turn-your-old-nes-into-a-flight-tracker-that-receives-internet-data-in-real-time/",
-      "Published": "2026-09-06T04:14:28Z",
-      "Source": "XDA",
-      "Category": "Nintendo",
-      "Summary": "あなたも、古い NES をリアルタイムでインターネット データを受信するフライト トラッカーに変えることができます。\n\n巧妙な調整を行ってライブデータを取得します。\n\nあなたも、古い NES をリアルタイムでインターネット データを受信するフライト トラッカーに変えることができます。\n\nクレジット: Levi's Digital Voyage By Simon Batt 公開 2026 年 9 月 6 日、午前 12:14 EDT Simon はコンピューター サイエンスの学士号を取得しており、2014 年からテクノロジーについて執筆しており、3.1 から Windows マシンを使用しています。インディーズ ゲーム スタジオで働き、コンピューターの問題全般に対応する家族の頼れる技術者として活動した後、彼は文章を書くことへの情熱に気づき、自分のスキルセットをテクノロジー全般について書くことに決めました。ライターとしてのキャリアを始めて以来、彼は WorldStart 、 Listverse 、 MakeTechEasier などのさまざまな出版物に執筆してきました。しかし、2019 年 2 月に MakeUseOf に居場所を見つけた後、最終的にはその姉妹サイトである XDA に移り、最新かつ最高の Windows、Linux、DIY 電子機器を提供することになりました。 XDA アカウントにサインインする\n\nこのプロジェクトは、NES をライブ フライト レーダーに変えます。ICAO を入力すると、近くの航空機の動きをテレビで観察できます。\n\nライブフライトデータを NES にストリーミングするには、PC サーバーと 5V FTDI USB シリアル ケーブルが必要です。\n\nGitHub の完全なビルド ガイド。は世界中で機能しており、あらゆる空港の ICAO を追跡し、アプローチを監視します。\n\nほこりをかぶっている NES を持っていて、テレビ画面でフライトを追跡する方法を探しているなら、私がそのプロジェクトを提案します。誰かが、Nintendo Entertai…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/09/nes-flight-radar-featured.jpg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
-      "Title": "PS5 emulator running GTA 5 shows GTA 6 might be possible on PC before official release",
-      "Link": "https://www.tweaktown.com/rss/click/news/113426/?c=news-mf",
-      "Published": "2026-09-06T03:53:11Z",
-      "Source": "TweakTown",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "Ugreen Gallery 3 フォトフレームが近日発売予定",
-      "Link": "https://goodereader.com/blog/technology/ugreen-gallery-3-photo-frame-is-coming-out-soon",
-      "Published": "2026-09-06T03:26:22Z",
-      "Source": "Good e-Reader",
-      "Category": "ugreen",
-      "Summary": "Ugreen Gallery 3 フォトフレームが近日発売予定\n\nUgreen は、AI を使用して写真を E-Ink 画面用にアップスケールする 13.3 インチの Gallery 3 デジタル フォト フレームをリリースします。\n\nUgreen Gallery は、IFA 2026 で初公開された、新しく発表された 13.3 インチのカラー E Ink デジタル フォト フレームです。これは、Ugreen が新たに発表したローカル AI スマート ホーム エコシステムである Ugreen HomeAgent の一部として設計されています。\n\nUgreen Gallery は、ネイティブ解像度 1600 x 1200 ピクセル (アスペクト比 4:3) の E Ink Spectra 6 フルカラー電子ペーパー ディスプレイを備えた 13.3 インチのデジタル フォト フレームです。電子ペーパー技術は画像を変更するときのみ電力を消費するため、フレームは優れたエネルギー効率を実現し、コードレス操作を可能にし、周囲光の下でのディスプレイの映り込みをゼロにします。\n\nローカル ストレージとして、最大 512 GB の容量をサポートする microSD カード スロットと、シームレスなデータ転送のための内蔵 Wi-Fi 接続が含まれています。際立った機能は、Ugreen HomeAgent ローカル AI スマート ホーム エコシステムへの統合です。このフレームは、パブリック クラウド ストレージに依存する代わりに、オンデバイス AI を使用してプライベート写真ライブラリを安全に分析するローカル ハブに接続し、毎日のハイライトや思い出に残る瞬間を自動的にキュレーションしてキャストします。もともと IFA 2026 でデビューしたこのフレームには、プロモーション予約注文価格が 299 米ドル、予想標準小売価格が 439 米ドルとなっています。\n\nMichael Kozlowski は Good e-Reader の編集長で、過去 15 年間オーディオブックと電子書籍リーダーにつ…",
-      "ImageURL": "https://media.goodereader.com/blog/uploads/images/2026/09/05232443/ugreen-gallery-color-e-paper-photo-frames-displaying-dog-and-family-photos.png"
-    },
-    {
-      "Title": "Onyx Boox Picco の価格は 100 ドルで、2026 年末までにリリースされます",
-      "Link": "https://goodereader.com/blog/onyx-boox/onyx-boox-picco-will-cost-100-and-release-by-end-of-2026",
-      "Published": "2026-09-06T03:17:47Z",
-      "Source": "Good e-Reader",
-      "Category": "onyx boox Picco",
-      "Summary": "Onyx Boox Picco の価格は 100 ドルで、2026 年末までにリリースされます\n\n次期 Onyx Boox Picco には Android は搭載されませんが、ページめくりボタンと物理的なフロント ライトが搭載されます。年末までに発売予定で価格は100ドル。\n\nOnyx Boox Picco はベルリンの IFA でデビューしました。ここで、今後のテクノロジー製品のほとんどが正式デビューし、多くの場合、年末または 2027 年初頭までに発売されます。Picco には、カンファレンスで同社と話をしたジャーナリストからの新しい詳細がいくつかあります。このデバイスは Android の代わりに Linux を実行し、今後数か月以内に発売されるときの価格は約 100 ドルになります。\n\nOnyx Boox Picco は、超小型のポケットサイズのマイクロ電子リーダーとして、デジタル読書の世界に新しいフォームファクターを導入します。小さな 3.97 インチのグレースケール E-Ink ディスプレイを搭載し、スマートフォンのような設置面積により、独特の携帯性を実現し、標準的な 6 インチの電子書籍リーダーでは収まらないポケットにも簡単に収まります。初期のハンズオン プレビューでは、そのミニマルな美しさ、フラット ベゼル デザイン、内蔵フロント ライトが賞賛されています。\n\nストレージはSDカードスロットに限定され、内部ストレージはないようだ。インターネットからダウンロードした電子書籍を保存する場所です。初期のレビュー担当者は、DRM 機能がないため、ロイヤリティフリーのコンテンツまたは海賊版コンテンツに依存する必要があると述べています。電子書籍のページをめくるには、画面の片側にある上下ボタンを使用します。また、オンまたはオフにするフロントライト ボタンもあります。\n\nイベントでのソフトウェアは限られていました。まだオーディオブック プレーヤーがなかったので、オーディオブック、ポッドキャスト、または音楽を聴く方法はありませんでした。これが最終リリースに含まれるかどう…",
-      "ImageURL": "https://media.goodereader.com/blog/uploads/images/2026/09/05231606/nzuce9QTKwaXczuR8Prvo6.jpg"
-    },
-    {
-      "Title": "AI は正しく動作する PCB を設計できるようになるでしょうか?",
-      "Link": "https://hackaday.com/2026/09/05/can-ai-now-design-pcbs-that-just-work/",
-      "Published": "2026-09-06T02:00:46Z",
-      "Source": "Hackaday",
-      "Category": "printed circuit boards",
-      "Summary": "AI は正しく動作する PCB を設計できるようになるでしょうか?\n\nGPT-6 Astra モデルの最近のリリースにより、OpenAI は、提供された回路図と出力から始めて、KiCad で完全な回路基板を設計できるという主張を明確に推し進めました。\n\nGPT-6 Astra モデルの最近のリリースで、OpenAI は、提供された回路図から開始して、理論的には製造に送ることができる完全に配線された PCB を出力して、KiCad で完全な回路基板を設計できるという主張を明確に推し進めました。もちろん、これは、ほとんどの自動ルーティング ツールのように、厳密に制御された条件下で機能する単なる気の利いたパーティー トリックなのか、それともそれ以上の意味があるのか​​という疑問が生じます。最近の [EEBench] ブログ投稿では、OpenAI の主張が検証されています。\n\n2024 年に遡り、回路図から始めて LLM が回路基板設計をどのように処理するかを検討しました。結論としては、すべて手作業でやった方がよいということでした。ここで進捗状況を追跡する [ EEBench ] は、これらのいわゆる AI エージェントが有用なハードウェア エンジニアリング作業を実行する際にどれだけ効果的であるかをテストする電気エンジニアリング エージェントのベンチマークです。彼らの方法論がすでに明らかにしているように、回路図から実装および配線された PCB を作成することは、多くのステップのうちの 1 ステップにすぎません。\n\nその結果、GPT-6 Astra はベンチマークで 69.3% (+/- 10%) のスコアを獲得し、より安価で高速であるにもかかわらず、Claude Opus 5 とほぼ同じ程度のスコアを獲得しました。 [EEBench] は、このような AI エージェントによる使用に重点を置いた、KiCad で PCB を作成するためのコードベースのシステムである Atopile の開発者によって実行されていることに注意してください。\n\nそれにもかかわらず、このブログ投稿は、ハー…",
-      "ImageURL": "https://hackaday.com/wp-content/uploads/2026/09/openai_gpt-6_astra_kicad_showcase.jpg"
-    },
-    {
-      "Title": "『Blood of Dawnwalker』は発売から数日で 100 万部を販売",
-      "Link": "https://www.techpowerup.com/352397/the-blood-of-dawnwalker-sells-1-million-copies-days-after-launch",
-      "Published": "2026-09-05T23:12:24Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "『Blood of Dawnwalker』は発売から数日で 100 万部を販売\n\nレベルウルブズのデビュー戦は確かに好調なスタートを切った。 9月3日のPC、PS5、Xbox Series X/Sでの発売からわずか2日後に、『Blood of Dawnwalker』が世界中で100万本以上売れたことをスタジオがソーシャルメディアで確認した。このゲームは、ほとんどのプレイヤーが...\n\n『Blood of Dawnwalker』は発売から数日で 100 万部を販売\n\n2026 年 8 月 28 日 Piston V タッチスクリーン Bazzite Mini PC がキックスターターでメーカー希望小売価格 799 ドルで発売 (7)\n\n2025 年 10 月 17 日 Microsoft が Windows 11 October Update で Localhost を破壊し、ユーザーは強制的に元に戻される (105)\n\n2026 年 4 月 13 日 Epic Games ストアの従業員: 無料ゲームのためだけに来て、その後 Steam に戻ってきた人々 (91)\n\n2026 年 5 月 27 日 リーカーが天文学的な蒸気機械の価格を示唆 (74)\n\n2026 年 5 月 18 日 インサイダーは、ソニーが PC ポートを廃止することを認めています: 「PC に登場するシングル プレイヤー ゲームは少なくなるでしょう。」 (135)\n\n2026 年 4 月 17 日 Pragmata のローンチ: 輝かしいレビューとチャートトップの売上を誇るが、プレイヤー数は平凡 (62)\n\n2026 年 8 月 3 日 Xbox Disc to Digital が Xbox One とシリーズ X 向けに今月登場 (74)\n\n2026 年 8 月 28 日 ウィッチャー 3: ワイルドハント リマスター版 PC の最小ハードウェア要件 (51)\n\n2026 年 7 月 27 日 Palworld 幹部がサポート終了計画についてゲーマーに安心を与える (10)\n\n2026 年 8 月 …",
-      "ImageURL": "https://www.techpowerup.com/img/c0Erk6tYMw8eJ7ne.jpg"
-    },
-    {
-      "Title": "Commodore 64 で Apple ][ ソフトウェアをサイレントに実行する",
-      "Link": "https://hackaday.com/2026/09/05/running-apple-software-on-a-commodore-64-silently/",
-      "Published": "2026-09-05T23:00:36Z",
-      "Source": "Hackaday",
-      "Category": "Spartan",
-      "Summary": "Commodore 64 で Apple ][ ソフトウェアをサイレントに実行する\n\n1984 年のコンピュータ ビジネスは、趣味レベルの企業、成長した少数の中小企業、そしてパーソナル コンピュータに注目し始めた多くの大企業が奇妙な組み合わせでした。たっぷり…\n\n1984 年のコンピュータ ビジネスは、趣味レベルの企業、成長した少数の中小企業、そしてパーソナル コンピュータに注目し始めた多くの大企業が奇妙な組み合わせでした。その後、多額の資金が集まり、奇妙な製品やさらに奇妙な広告が生まれました。 [Such Bad Tech Ads] は、私たちがほとんど聞いたことのない製品、Spartan の当時の非常に悪質な広告を明らかにします。 Spartan の仕事は、Apple ][ ソフトウェアを実行できるように Commodore 64 を変換することでした。この広告キャンペーンには、不可解なことに、パントマイムが含まれていました。私たちは考えます。あるいはピエロかもしれない。言いにくい。\n\n一見すると、スパルタンは悪いアイデアではないかもしれません。 1984 年には、Apple ソフトウェアがたくさんありました。まあ、とにかく、比較的。しかし、Commodore コンピュータの方がはるかに安かったのです。 Intel Inboard/386 などの他の変換キットは、後に市場である程度の成功を収めることができました。問題は、奇妙な広告以外に、タイミングの問題でした。\n\nこの製品が 1984 年に発売されていれば、その製品を開発したカナダの企業 Mimic にとってはより良い結果が得られたかもしれません。その代わり、実際のハードウェアが人の手に渡るまでに約 2 年かかりました。その頃までに、Commodore 64 用のソフトウェアは大量に存在していました。言うまでもなく、Mimic が Spartan を発表したときでさえ、Apple は Apple ][+ コンピューターを製造中止していました。\n\nCommodore 64 をキーボードとモニターに変える製品を宣伝する…",
-      "ImageURL": "https://hackaday.com/wp-content/uploads/2026/09/mimic.png"
-    },
-    {
-      "Title": "新しい DLSS 5 スワッパー ツールがゲームにニューラル レンダリングをもたらす NVIDIA はサポートされていない",
-      "Link": "https://www.techpowerup.com/352395/new-dlss-5-swapper-tool-brings-neural-rendering-to-games-nvidia-never-supported",
-      "Published": "2026-09-05T22:49:28Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "新しい DLSS 5 スワッパー ツールがゲームにニューラル レンダリングをもたらす NVIDIA はサポートされていない\n\n開発者 rakanki911 によって GitHub で公開された DLSS 5 Swapper と呼ばれる新しいツールは、正式にサポートされていないゲームを含む、DLSS 5 のニューラル レンダリングのゲームへのインストールを自動化します。ユーザーはゲームをアプリにドラッグ アンド ドロップしたり、インストールされているタイトルがないかドライブを自動的にスキャンさせたりすることができます。\n\n新しい DLSS 5 スワッパー ツールがゲームにニューラル レンダリングをもたらす NVIDIA はサポートされていない\n\n2026 年 3 月 30 日 NVIDIA が、RT パフォーマンスを大幅に向上させた Rubin ベースの GeForce RTX 60 シリーズをリリース (162)\n\n2026 年 1 月 16 日 NVIDIA が GeForce RTX 5070 Ti の生産を終了、RTX 5060 Ti 16 GB Next (210) と伝えられる\n\n2025 年 9 月 10 日 NVIDIA GeForce RTX 50 シリーズ SUPER GPU が CES 2026 に登場する可能性 (69)\n\n2025 年 9 月 18 日 NVIDIA がインテルを 50 億ドル相当で買収、RTX iGPU が x86 に登場、株価は 25% 上昇 (256)\n\n2026 年 7 月 10 日 NVIDIA が GeForce RTX 5090 SE グラフィックス カードを準備 (178)\n\n2026 年 4 月 13 日 Epic Games ストアの従業員: 無料ゲームのためだけに来て、その後 Steam に戻ってきた人々 (91)\n\n2025 年 12 月 31 日 AI 業界の需要のおかげで、2026 年に 5000 ドルの RTX 5090 GPU が登場するとリークが予測 (124)\n\n2026 年 3 月 16 日 …",
-      "ImageURL": "https://www.techpowerup.com/img/i82sw7EskBk1VuQS.jpg"
-    },
-    {
-      "Title": "Acer's tiny RTX Spark PC takes aim at Mac Studio with Blackwell and 128GB unified memory",
-      "Link": "https://www.tweaktown.com/rss/click/news/113423/?c=news-mf",
-      "Published": "2026-09-05T22:36:12Z",
-      "Source": "TweakTown",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "Discord hit with backlash after plans resurface for global age verification system",
-      "Link": "https://www.tweaktown.com/rss/click/news/113425/?c=news-mf",
-      "Published": "2026-09-05T22:36:12Z",
-      "Source": "TweakTown",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "ソニーのデジタルのみの将来は世界の62%に最も大きな打撃を与えるだろうが、誰もそれについて語っていない",
-      "Link": "https://www.xda-developers.com/sony-digital-only-future-locks-out-62-of-the-world-nobody-talks-about-it/",
-      "Published": "2026-09-05T22:00:15Z",
-      "Source": "XDA",
-      "Category": "PlayStation 5",
-      "Summary": "ソニーのデジタルのみの将来は世界の62%に最も大きな打撃を与えるだろうが、誰もそれについて語っていない\n\nソニーがディスクを廃止したときに、この子供たちが何を失うことになるのか私は知っています\n\nソニーのデジタルのみの将来は世界の62%に最も大きな打撃を与えるだろうが、誰もそれについて語っていない\n\n文：Samarveer Singh 公開 2026 年 9 月 5 日、午後 6 時 EDT ゲームは、Samarveer の最大の情熱であり、文学を卒業した彼は、ゲームのテーマ、メッセージ、影響を分析することに大きな喜びを感じています。 Samarveer はゲームを深く評価しており、このプラットフォームがすべてのメディアの中で最も没入型で影響力のあるプラットフォームであると考えています。彼はオンラインのゲーム コミュニティに積極的に参加しており、レイ トレーシングの細かい点についていつでも議論する用意ができており、感情的に影響を与えたゲームについて 8 ページの大学論文を書きたくてウズウズしていることもあります。 XDA アカウントにサインインする ソニーはつい最近 (そして物議を醸していますが)、物理ディスクの生産が 2028 年に終了し、同社の将来のコンソールはデジタル専用モデルに移行すると発表しました。この決定は不合理だが、現在 PlayStation Network アカウントが正式に利用できない国が 121 か国あり、これは世界の約 62% に相当するという事実によってさらに悪化している。\n\nこれは、特に PS6 が実際にディスクドライブなしで登場する場合には、ソニーが無視できるような小さな脚注ではありません。業界の変化のように聞こえるかもしれませんが、根本的な問題は信じられないほど個人的なものです。\n\nそれにもかかわらず、プレイステーションの将来をめぐる会話では、その穴の向こう側に住んでいる人々はどうなるのかということがほとんど問われていないようだ。それが私が最も懸念していることです。なぜなら、他の人が当然と思っているのと同じアクセス権を持たずに PlayS…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/playstation-5-console-with-physical-discs.jpg?w=1600\u0026h=900\u0026fit=crop"
-    },
-    {
-      "Title": "Whisper は 2 時間の会議を私のラップトップで 4 分で書き起こしましたが、その内容は一切部屋から出ませんでした。",
-      "Link": "https://www.xda-developers.com/whisper-transcribed-two-hour-meeting-laptop-four-minutes/",
-      "Published": "2026-09-05T21:30:15Z",
-      "Source": "XDA",
-      "Category": "OpenAI",
-      "Summary": "Whisper は 2 時間の会議を私のラップトップで 4 分で書き起こしましたが、その内容は一切部屋から出ませんでした。\n\nそして、転写は非常に良好でした。\n\nWhisper は 2 時間の会議を私のラップトップで 4 分で書き起こしましたが、その内容は一切部屋から出ませんでした。\n\nBy Anurag Singh 公開 2026 年 9 月 5 日、午後 5 時 30 分 EDT Anurag は、過去 5 年間、Windows、Android、Apple を中心にテクノロジーをカバーしてきた経験豊富なジャーナリスト兼著者です。彼は Android Police、Neowin、Dexerto、MakeTechEasier などのサイトに執筆しています。アヌラグは常にテクノロジーに興味があり、最新のガジェットを手に入れるのが大好きです。先延ばしにしていないときは、おそらく彼が映画館で最新映画を鑑賞したり、ベッドから Twitter をスクロールしたりしているのを見かけるでしょう。 XDA アカウントにサインインする AI 文字起こしツールを確実に使用して、有効な文字起こしを取得できる段階にようやく到達しましたが、その結果、ツールが多すぎるという結果になりました。非常に多くのデータが存在するため、データがどのように使用されるかわからないまま企業にデータを渡す可能性も高くなります。私は個人的に、Otter や Fireflies のような新興 AI スタートアップが私のデータを安全に保ってくれるとは信じていません。特に、これらの会議に私のデータだけでなく私のクライアントのデータも含まれる場合にはそうです。\n\n私はこれらのツールの使用をやめ、OpenAI の Whisper を使用して会議をローカルで文字に起こし始めました。これはデバイス上で文字起こしを処理するオープンソース ツールであり、MacBook などでスムーズに動作するほど軽量です。最近、2 時間の録音を行ったところ、4 分以内にきれいな文字起こしが生成されました。重要なのは、自己ホスト型ツールを使用することで利…",
-      "ImageURL": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/whisper-terminal.jpg?w=1600\u0026h=900\u0026fit=crop"
     }
   ]
 }

@@ -1,6 +1,301 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Fri, 11 Sep 2026 22:35:07 +0000</lastBuildDate>
+<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sat, 12 Sep 2026 01:06:25 +0000</lastBuildDate>
+<item><title>Apple「探す」アプリ対応の紛失防止トラッカーが600円、期間限定セール</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2140375.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2140375.html</guid><pubDate>Fri, 11 Sep 2026 23:05:00 +0000</pubDate><description><![CDATA[<p>Apple「探す」アプリ対応の紛失防止トラッカーが600円、期間限定セール
+
+Apple「探す」アプリ対応のキーホルダー型紛失防止タグ「TRACK&amp;amp;FIND（HRN-617）」が、秋葉館で特価販売中。平野商会の製品で、店頭価格は600円。セール期間は9月13日（日）まで。
+
+Apple「探す」アプリ対応の紛失防止トラッカーが600円、期間限定セール
+
+Apple「探す」アプリ対応のキーホルダー型紛失防止タグ「TRACK&amp;FIND（HRN-617）」が、 秋葉館 で特価販売中。平野商会の製品で、店頭価格は600円。セール期間は9月13日（日）まで。
+
+これは、iPhoneの『探す』アプリの地図上に位置を表示できる紛失防止タグ。
+
+5～10分ごとに位置を更新し、タグの位置が把握できるほか、特定の距離からタグが離れるとiPhoneに通知が表示される。UWBは非搭載。
+
+電源はCR2032 3Vリチウムコイン電池で、電池交換も可能。対応デバイスはiOS 14.5以上を搭載したiPhone/iPad。なお、Androidとの組み合わせには対応していない。
+
+サイズは約3.4×1.1×9.5cm（キーホルダー込み）。重量は約13g（テスト電池込み）。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/375/a1.jpg" alt="Apple「探す」アプリ対応の紛失防止トラッカーが600円、期間限定セール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2140375.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/375/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/375/a1.jpg"/></item>
+<item><title>MS、共有フォルダが正常動作しない不具合を認める。KB5124008などに起因。Claude Coworkも正常動作しなくなる</title><link>https://www.nichepcgamer.com/archives/post-132183.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/post-132183.html</guid><pubDate>Fri, 11 Sep 2026 23:00:54 +0000</pubDate><description><![CDATA[<p>MS、共有フォルダが正常動作しない不具合を認める。KB5124008などに起因。Claude Coworkも正常動作しなくなる
+
+Microsoftは、仮想マシン(仮想PC)環境において共有フォルダが正常に動作しなくなる不具合を認めました。 不具合概要 日本時間で2026年9月9日にWindows11のWindows Upda...
+
+Microsoftは、 仮想マシン(仮想PC)環境において共有フォルダが正常に動作しなくなる不具合を認めました。
+
+日本時間で2026年9月9日にWindows11のWindows Updateに配信されたセキュリティ更新プログラム(セキュリティパッチ)をインストール後、Host Compute System (HCS)で管理される仮想マシンを使用するアプリケーションにおいて、Plan9を使用してLinux仮想マシンとホストフォルダを共有する際に問題が発生する場合があります。
+
+影響を受ける仮想マシン自体は起動しますが、 Plan9を使用してWindowsホストから共有されたフォルダやその中身がゲスト環境に表示されなくなったりアクセスできなくなります。
+
+結果、共有フォルダに依存するアプリケーションやサンドボックスで、ドライブがマウントされていないといったエラーメッセージが表示される場合があります。 この不具合の影響を受けるアプリケーションとしてはClaude CoworkやWindows Subsystem for Linux (WSL)があります。
+
+Claude Coworkでは以下のようなエラーメッセージが表示されます。
+
+なお、Plan9を使用しないHyper-V仮想マシンはこの不具合の影響を受けません。
+
+この不具合は以前からユーザーにより 報告 されていましたが、今回、Microsoftは既知の不具合として認めました。
+
+この不…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2025/10/windows-break-c-red.jpg" alt="MS、共有フォルダが正常動作しない不具合を認める。KB5124008などに起因。Claude Coworkも正常動作しなくなる"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-132183.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2025/10/windows-break-c-red.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2025/10/windows-break-c-red.jpg"/></item>
+<item><title>リモートデスクトップサービス(RDS)に不具合。応答しなくなるなど。Windows11やWindows Serverで発生。2026年9月のセキュリティ更新プログラムに起因</title><link>https://www.nichepcgamer.com/archives/post-132161.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/post-132161.html</guid><pubDate>Fri, 11 Sep 2026 22:40:14 +0000</pubDate><description><![CDATA[<p>リモートデスクトップサービス(RDS)に不具合。応答しなくなるなど。Windows11やWindows Serverで発生。2026年9月のセキュリティ更新プログラムに起因
+
+Microsoftは、リモートデスクトップサービスが正常に動作しない不具合が発生していることを発表しました。 不具合概要 Windows ServerやWindows11などにおいて、日本時間で20...
+
+Microsoftは、 リモートデスクトップサービスが正常に動作しない不具合が発生していることを発表しました。
+
+Windows ServerやWindows11などにおいて、日本時間で2026年9月9日にリリースされたセキュリティ更新プログラムをインストール後、主に企業や組織でリモートデスクトップサービス(Remote Desktop Services / RDS)が不安定になるという不具合が発生する場合があります。
+
+RDSが不安定になって数分後にリモートデスクトッププロトコル(Remote Desktop Protocol / RDP)接続が失敗したり、ユーザーがログアウト後などにサインインができなくなったり、接続されないまま停止・応答しなくなる場合があります。また、この不具合に関連して、Microsoft管理コンソール(MMC)やファイルエクスプローラーなども応答しなくなる可能性があります。
+
+この不具合が発生するOSおよび不具合を内包する更新プログラムは以下。
+
+Windows11 25H2 / Windows11 24H2 KB5124008 (2026年9月9日 セキュリティ更新プログラム)
+
+Windows11 26H1 KB5124012 (2026年9月9日 セキュリティ更新プログラム)
+
+Windows11 23H2 KB5122880 (2026年9月9日 セキュリティ更新…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2024/10/windows11-issue-1200x675-dark.jpg" alt="リモートデスクトップサービス(RDS)に不具合。応答しなくなるなど。Windows11やWindows Serverで発生。2026年9月のセキュリティ更新プログラムに起因"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-132161.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2024/10/windows11-issue-1200x675-dark.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2024/10/windows11-issue-1200x675-dark.jpg"/></item>
+<item><title>第5世代iPad mini セルラー版が11,000円！イオシスにジャンク品が大量入荷</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2140382.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2140382.html</guid><pubDate>Fri, 11 Sep 2026 22:30:00 +0000</pubDate><description><![CDATA[<p>第5世代iPad mini セルラー版が11,000円！イオシスにジャンク品が大量入荷
+
+2019年に発売されたAppleの7.9型タブレット「第5世代iPad mini Wi-Fi+Cellular」（MUX62J/A）のジャンク品が、イオシス アキバ路地裏ジャンク店に入荷。
+
+第5世代iPad mini セルラー版が11,000円！イオシスにジャンク品が大量入荷
+
+2019年に発売されたAppleの7.9型タブレット「第5世代iPad mini Wi-Fi+Cellular」（MUX62J/A）のジャンク品が、 イオシス アキバ路地裏ジャンク店 に入荷。
+
+ストレージ容量は64GBで、価格は11,000円。在庫は200台で、購入は1人2点まで。ジャンク品のため、保証無し。
+
+Lightningコネクタ採用モデルで、主な仕様はディスプレイ解像度 2,048×1,536ドット、CPU A12 Bionic、Touch ID搭載など。第1世代Apple Pencilに対応している。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/382/a1_s.jpg" alt="第5世代iPad mini セルラー版が11,000円！イオシスにジャンク品が大量入荷"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2140382.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/382/a1_s.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/382/a1_s.jpg"/></item>
+<item><title>NECの教育向け2-in-1ノートPCが1万9800円 ※ただしだいぶ低スペック</title><link>https://komameblog.jp/sale/versaproe/</link><guid isPermaLink="true">https://komameblog.jp/sale/versaproe/</guid><pubDate>Fri, 11 Sep 2026 22:25:22 +0000</pubDate><description><![CDATA[<p>NECの教育向け2-in-1ノートPCが1万9800円 ※ただしだいぶ低スペック
+
+Amazonにて、NECの11.6インチ2-in-1ノートPC「VersaPro Eシリーズ タイプVR（YZ-VEE11R5GL5LM）」が1万9800円でタイムセール中です。2021年に発売された機種ですが、（おそらく）新品のノートPC...
+
+Amazonにて、NECの11.6インチ2-in-1ノートPC「VersaPro Eシリーズ タイプVR（YZ-VEE11R5GL5LM）」が1万9800円でタイムセール中です。2021年に発売された機種ですが、（おそらく）新品のノートPCとしては激安と言っていいでしょう。
+
+ただし性能はごく控えめ。軽い作業ですらおぼつかない可能性があるので注意してください。ストレージ容量もわずかで、ファイルの保存用にも向いていません。PCにそこそこ詳しい人でも、割り切り利用には厳しいのではないかと思うほどです。
+
+しかし元々は教育機関向けだけあって、かなり頑丈に作られているようです。おそらくGIGAスクール向けに用意された機種なのでしょう。耐久基準についてはだいぶ配慮されているようで、本体が約1.32kgとサイズのわりに重いのも、頑丈に作られているからだとおもいます。
+
+さらに画面が回転する2-in-1タイプである点や、Windows 11 Proを搭載している点もポイント。スペックはだいぶ低いのですが、2万円切りの機種としては機能面はけっこう充実しています。
+
+とは言え、前述のとおりCPU性能や解像度的にはだいぶ厳しいものがありますし、普段使い用には厳しいと思います。自分で改造したり、別のOSを組みこんで活用できる人向けではないでしょうか。そういったジャンク的な遊びを楽しめる人なら、チェックしてみる価値はあるかもしれません。
+
+Amazon.co.jp: N…</p><p><img src="https://komameblog.jp/wp-content/uploads/2026/09/VersaProE.jpg" alt="NECの教育向け2-in-1ノートPCが1万9800円 ※ただしだいぶ低スペック"></p>]]></description><source url="https://komameblog.jp/sale/versaproe/">こまめブログ</source><media:content url="https://komameblog.jp/wp-content/uploads/2026/09/VersaProE.jpg" medium="image"/><media:thumbnail url="https://komameblog.jp/wp-content/uploads/2026/09/VersaProE.jpg"/></item>
+<item><title>iPhone18 Proを最速予約するには？開始前に済ませたい準備をチェック！</title><link>https://iphone-mania.jp/iphone18-605736/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-605736/</guid><pubDate>Fri, 11 Sep 2026 22:00:00 +0000</pubDate><description><![CDATA[<p>iPhone18 Proを最速予約するには？開始前に済ませたい準備をチェック！
+
+iPhone18 Pro/iPhone18 Pro
+
+iPhone18 Proを最速予約するには？開始前に済ませたい準備をチェック！
+
+iPhone18 Pro / iPhone18 Pro Max の 予約受付 は9月12日（土）午後9時に始まります。予約開始直後は注文が集中することが予想されますが、予約操作を素早く完結させるには、モデルやカラー、ストレージ容量、支払い方法まで事前に決めておくことが重要です。分割払いを利用する場合、「ペイディあと払いプランApple専用」では支払い方法まで予約開始前に準備できます。
+
+iPhone18 Pro / iPhone18 Pro Max の予約受付が、9月12日（土）午後9時に開始されます。
+
+新型iPhoneの予約開始直後は注文が集中 するため、予約開始後の操作を少しでも減らせるよう、注文に必要な情報をあらかじめ決めておくことが重要です。
+
+いち早く予約を完了させるためには、予約受付の開始前に、購入するモデルやカラー、ストレージ容量、支払い方法など、 予約に必要な情報を確定しておきましょう 。
+
+これらの情報を予約受付開始後に入力・選択して操作に時間がかかると、配送予定日が後ろ倒しになる可能性もあります。
+
+実は筆者も以前、準備万端のつもりで新型iPhoneの予約に臨んだものの、予約時に少し操作に手間取った結果、配送時期が遅れて悔しい思いをした経験があります。
+
+iPhone18 Pro/iPhone18 Pro Maxの 予約受付開始後にすぐに注文を完了するために 、あらかじめ、以下を決めておきましょう。
+
+iPhone18 ProとiPhone18 Pro Maxの選択
+
+下取りを利用するか（利用する場合は下取りデバイスの情報も準備）
+
+Ap…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/11/Apple-iPhone18Pro.jpg" alt="iPhone18 Proを最速予約するには？開始前に済ませたい準備をチェック！"></p>]]></description><source url="https://iphone-mania.jp/iphone18-605736/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/11/Apple-iPhone18Pro.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/11/Apple-iPhone18Pro.jpg"/></item>
+<item><title>iPhone Duo、軽く折るとフリック入力キーボードが左右に分離する</title><link>https://gori.me/iphone/170076</link><guid isPermaLink="true">https://gori.me/iphone/170076</guid><pubDate>Fri, 11 Sep 2026 21:45:13 +0000</pubDate><description><![CDATA[<p>iPhone Duo、軽く折るとフリック入力キーボードが左右に分離する
+
+iPhone Duoを実機で試し、純正キーボードの日本語フリック入力で分かったことを紹介する。7.6インチの内側ディスプレイを完全に開くとキーボードは中央寄せで打ちにくいが、軽く折りたたむとQWERTYと同じようにキーボードが左右へ分かれ、両手の親指で快適に入力できた。
+
+iPhone Duo、軽く折るとフリック入力キーボードが左右に分離する
+
+完全に開いた状態での日本語入力は難しく、折り曲げるのが現時点の答えだった
+
+iPhone Duoを軽く折りたたむと、フリック入力用の日本語キーボードも左右に分離する仕組みが用意されている
+
+完全に開いた状態では左右に余白が多く、一番左の列を左にフリックする際に指を離すような操作が必要になる
+
+外側の5.4インチディスプレイでは片手用キーボードが使えるが、初代iPhone SEやiPhone 5相当のサイズで窮屈に感じる可能性がある
+
+Apple初の折りたたみiPhone「iPhone Duo」を実機で触ってきた。真っ先に確かめたかったのは、スペック表には絶対に載らない部分だ。
+
+日本語のフリック入力は、実際どうなのか 。僕たちが1日に何百回も繰り返す動作こそ、折りたたみiPhoneの使い勝手を決めるはずだ。
+
+結論から言うと、外側のディスプレイは「慣れが必要」、内側の大きいディスプレイは「軽く折りたたむのが最適解」だった。限られた時間で純正キーボードだけを試した範囲の話だが、実機で確かめたことをそのまま紹介する。
+
+iPhone Duoの外側ディスプレイは5.4インチで、閉じたまま通常のiPhoneとして使える。Appleによると、外側ディスプレイの画面領域は iPhone 18 Pro の90パーセント以上の広さだ。
+
+ただし本体は横幅がある設計だ。そのため…</p><p><img src="https://gori.me/uploads/2026/09/iPhoneDuo-iPhone18Pro-Content-Capture-Hands-On-15-800x534.jpg" alt="iPhone Duo、軽く折るとフリック入力キーボードが左右に分離する"></p>]]></description><source url="https://gori.me/iphone/170076">gori.me</source><media:content url="https://gori.me/uploads/2026/09/iPhoneDuo-iPhone18Pro-Content-Capture-Hands-On-15-800x534.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/09/iPhoneDuo-iPhone18Pro-Content-Capture-Hands-On-15-800x534.jpg"/></item>
+<item><title>“推し”が浮かんで見える10.1型「箱庭サイネージ」がサンコーから、アクスタなども展示可能</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2140293.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2140293.html</guid><pubDate>Fri, 11 Sep 2026 21:05:00 +0000</pubDate><description><![CDATA[<p>“推し”が浮かんで見える10.1型「箱庭サイネージ」がサンコーから、アクスタなども展示可能
+
+透過型ディスプレイを搭載したショーケース型ディスプレイ「推しを祀る電脳聖域『箱庭サイネージ』」（TPDQ26AWH）が、サンコーから発売された。
+
+“推し”が浮かんで見える10.1型「箱庭サイネージ」がサンコーから、アクスタなども展示可能
+
+透過型ディスプレイを搭載したショーケース型ディスプレイ「推しを祀る電脳聖域『箱庭サイネージ』」（TPDQ26AWH）が、サンコーから発売された。
+
+白背景の画像や動画を表示すると背景部分が透過、立体感のある表示に
+
+本製品は、10.1型の透過型ディスプレイとショーケースを組み合わせた製品。白背景の画像や動画を表示すると背景部分が透過し、映像が庫内空間と重なることで、キャラクターなどが空間に浮かび上がっているような立体感のある表示を楽しめるという。
+
+表示モードは「写真」「動画」「音楽」「カレンダー」の4種類で、縦置きと横置きの両方に対応する。スピーカー内蔵で、映像と一緒に音声や音楽も再生できる。
+
+また、ショーケース内にはアクリルスタンドやフィギュアを設置することも可能で、ディスプレイに表示した映像エフェクトと組み合わせて展示を楽しめるという。
+
+なお、LEDの発熱によりショーケース内の温度が上昇する場合があるため、電子機器や熱に弱い物の長時間収納は避けるよう案内されている。
+
+ディスプレイ解像度は800×1,280ドット、輝度は約220cd/平方m、視野角は上下/左右178度。対応メディアはSDカード/USBメモリ（最大256GB）で、動画はAVI/MP4/MOV/FLV、画像はBMP/JPG/JPEG/GIF、音声はMP3/AAC/OGG/WAV/FLAC/M4Aなどに対応する。
+
+本体サイズは175×100×285mm、ショーケース内サイ…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/293/kk1.jpg" alt="“推し”が浮かんで見える10.1型「箱庭サイネージ」がサンコーから、アクスタなども展示可能"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2140293.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/293/kk1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/293/kk1.jpg"/></item>
+<item><title>iPhone AirがAmazonアウトレットで安い！ほぼ新品が発売時価格以下</title><link>https://iphone-mania.jp/sale-605738/</link><guid isPermaLink="true">https://iphone-mania.jp/sale-605738/</guid><pubDate>Fri, 11 Sep 2026 20:45:50 +0000</pubDate><description><![CDATA[<p>iPhone AirがAmazonアウトレットで安い！ほぼ新品が発売時価格以下
+
+Amazonアウトレットで、複数のiPhone Airが販売中です。
+
+iPhone AirがAmazonアウトレットで安い！ほぼ新品が発売時価格以下
+
+Amazonアウトレット で、 複数のiPhone Airが販売中 です。
+
+販売されているiPhone Airはいずれも 状態が「ほぼ新品」 で、2度の値上げが行われる以前の 発売当初の新品価格よりも安く販売 されています。
+
+2026年9月12日午前5時25分時点で、Amazonアウトレットで販売されているiPhone Airは次の通りです。
+
+iPhone Air, 256GB, スカイブルーのみ、価格と状態が同じものとして合計2台販売されています。
+
+iPhone Airの発売時価格と、その後2回行われた価格改定による販売価格の推移は次の通りです。
+
+Amazonアウトレットで販売されているものは中古品扱いですが、「ほぼ新品」の 256GBモデルは現在の新品価格より32,287円〜35,114円安く 購入できます。
+
+512GBモデルも現在の新品価格より40,913円安く 、発売当初の新品価格である194,800円と比べても10,913円安くなっています。
+
+256GBモデルも発売当初は159,800円でしたので、スペースブラックは2,287円、スカイブルーは5,114円安い価格です。
+
+2度の値上げによってiPhone Airは高くなりすぎたと感じている場合、状態が「ほぼ新品」のAmazonアウトレット品は検討する価値がありそうです。
+
+Amazonアウトレット では、返品された商品や倉庫内で梱包に傷がついた商品のうち、状態が良好なものなどを通常より安い価格で販売しています。
+
+Amazonは、アウトレット商品のコンディションを次の…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/12/iphone-air-finish-unselect-gallery-1-202509-e1789159515388.png" alt="iPhone AirがAmazonアウトレットで安い！ほぼ新品が発売時価格以下"></p>]]></description><source url="https://iphone-mania.jp/sale-605738/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/12/iphone-air-finish-unselect-gallery-1-202509-e1789159515388.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/12/iphone-air-finish-unselect-gallery-1-202509-e1789159515388.png"/></item>
+<item><title>iPhone18 Proは見送るべき？2027年のiPhone20刷新の噂を整理</title><link>https://iphone-mania.jp/iphone18-605732/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-605732/</guid><pubDate>Fri, 11 Sep 2026 17:27:33 +0000</pubDate><description><![CDATA[<p>iPhone18 Proは見送るべき？2027年のiPhone20刷新の噂を整理
+
+iPhone18 Proを見送るかどうかは、手元のiPhoneに感じている不満の大きさで考えると整理しやすくなります。海外メディアは、iPhone20（仮称）がデザイン面でiPhone X以来の大刷新になると報じています。
+
+iPhone18 Proは見送るべき？2027年のiPhone20刷新の噂を整理
+
+iPhone18 Proを見送るかどうかは、 手元のiPhoneに感じている不満の大きさ で考えると整理しやすくなります。海外メディアは、iPhone20（仮称）が デザイン面でiPhone X以来の大刷新 になると報じています。
+
+処理速度やカメラに物足りなさがあれば18 Pro、不便が少なくデザインの新しさを求めるならiPhone20を待つのも選択肢です。本記事では噂の中身と注意点を整理し、見送るべき人と買うべき人の違いを解説します。
+
+以下はいずれも海外メディアが伝えた噂で、 Appleの公式発表ではありません 。
+
+初代iPhoneの発表（2007年）から20年となる、 2027年9月ごろの登場 が噂されています。名称は未定で、iPhone19を飛ばすならシリーズ全体がiPhone20になるとの指摘もあります。待つと決めた場合は、手元のiPhoneを2027年9月ごろまで快適に使えるか、先に確かめておくと安心です。
+
+本体の角と側面を曲面ガラスで覆い、画面周りのベゼルを細くする設計になるもようです。 筐体はiPhone Airと同じか近いガラスの組み立て技術 を使うとされ、計画縮小の可能性もあります。
+
+カメラや性能の情報は、まだ伝わっていません 。スペックを重視する人にとっては、待つかどうかを判断しにくい段階です。
+
+2017年のiPhone Xは、ホームボタンをなくして画面を…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/12/1d5521b4556003a4babeffb576d00a25.png" alt="iPhone18 Proは見送るべき？2027年のiPhone20刷新の噂を整理"></p>]]></description><source url="https://iphone-mania.jp/iphone18-605732/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/12/1d5521b4556003a4babeffb576d00a25.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/12/1d5521b4556003a4babeffb576d00a25.png"/></item>
+<item><title>アーク、半期決算セール2026を開催。Ryzen CPUやGeForce RTX 5000シリーズ、ゲーミングPCなどがセール価格で登場</title><link>https://www.nichepcgamer.com/archives/post-132171.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/post-132171.html</guid><pubDate>Fri, 11 Sep 2026 16:35:56 +0000</pubDate><description><![CDATA[<p>アーク、半期決算セール2026を開催。Ryzen CPUやGeForce RTX 5000シリーズ、ゲーミングPCなどがセール価格で登場
+
+パソコンショップアークは、『アーク 半期決算セール 2026』を開催しました。 『アーク 半期決算セール 2026』では、Ryzen CPUやマザーボード、GeForce RTX 5000シリーズに...
+
+パソコンショップアークは、 『アーク 半期決算セール 2026』を開催しました。
+
+『アーク 半期決算セール 2026』では、Ryzen CPUやマザーボード、GeForce RTX 5000シリーズにRadeon RX 9000シリーズグラボ、液晶ペンタブレット(液タブ)など、各種PCパーツ・PC周辺機器がセール価格で販売されています。
+
+ほかにも、アークオリジナルBTOブランド『arkhive』(アークハイブ)のゲーミングPCも割引価格で登場。
+
+『アーク 半期決算セール 2026』の開催期間は2026年10月1日(木)23:59まで。『アーク 半期決算セール 2026』ページへは以下のリンクよりどうぞ。
+
+筆者は自作PC歴20年以上の経験を持ち、Windows OSの細部にわたるカスタマイズや高度な設定、PCゲームの最適化、PCハードウェアとソフトウェアに関する専門知識をもとに、PC環境を快適にするための情報、不具合に遭わないようにするための情報、そして、ちょっとニッチよりなPCユーザー向け記事の執筆を2015年4月から11年にわたって行っています。
+
+長年の経験により得たノウハウを活かし、初心者から上級者まで幅広く対応できる情報を提供し、読者様のPCライフをより快適で充実したものにすることを目指しています。</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2026/09/arksaletop-rt.jpg" alt="アーク、半期決算セール2026を開催。Ryzen CPUやGeForce RTX 5000シリーズ、ゲーミングPCなどがセール価格で登場"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-132171.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2026/09/arksaletop-rt.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2026/09/arksaletop-rt.jpg"/></item>
+<item><title>Intel Arcグラフィックスドライバ 32.0.101.8993 非WHQL公開</title><link>https://www.nichepcgamer.com/archives/intel-arc-graphics-driver-32-0-101-8993-non-whql.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/intel-arc-graphics-driver-32-0-101-8993-non-whql.html</guid><pubDate>Fri, 11 Sep 2026 16:33:56 +0000</pubDate><description><![CDATA[<p>Intel Arcグラフィックスドライバ 32.0.101.8993 非WHQL公開
+
+『WARDOGS』をサポートしたIntel Arcグラフィックスドライバ 32.0.101.8993 非WHQLが公開されました。 新たにサポートされたゲームタイトル Intel Arcグラフィック...
+
+『WARDOGS』をサポートしたIntel Arcグラフィックスドライバ 32.0.101.8993 非WHQLが公開されました。
+
+Intel Arcグラフィックスドライバ 32.0.101.8993 非WHQLでは、新たに以下のゲームタイトルがサポートされています。
+
+▼Arc Bシリーズ / Arc Aシリーズ / Core Ultraシリーズ
+
+Intel Arc ＆ Iris Xe Graphics 32.0.101.8993 非WHQLドライバ対応製品
+
+Intel Arcグラフィックスドライバ 32.0.101.8993 非WHQLは、以下の製品をサポートします。
+
+Core Ultraシリーズ / Coreシリーズ(Core Series 3 Wildcat Lake)
+
+Intel Arc ＆ Iris Xe Graphics 32.0.101.8993 非WHQLドライバで修正された不具合
+
+Intel Arcグラフィックスドライバ 32.0.101.8993 非WHQLで修正された不具合はありません。
+
+Intel Arcグラフィックスドライバ 32.0.101.8993 非WHQLには、以下の既知の不具合があります。
+
+▼Intel Core Ultra Series 3 (Arc iGPU)
+
+『マフィア:オリジン ～裏切りの祖国』(DX12)において、ゲーム中にアプリケーション(ゲーム)がクラッシュする場合があります
+
+▼Intel Arc Bシリーズ製品…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2025/01/intel-arc-logo-1200.jpg" alt="Intel Arcグラフィックスドライバ 32.0.101.8993 非WHQL公開"></p>]]></description><source url="https://www.nichepcgamer.com/archives/intel-arc-graphics-driver-32-0-101-8993-non-whql.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2025/01/intel-arc-logo-1200.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2025/01/intel-arc-logo-1200.jpg"/></item>
+<item><title>MSIの15.6型ゲーミングノート「Katana 15 HX B14W」、GeForce RTX 5070搭載モデルがソフマップに入荷</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2140367.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2140367.html</guid><pubDate>Fri, 11 Sep 2026 15:20:00 +0000</pubDate><description><![CDATA[<p>MSIの15.6型ゲーミングノート「Katana 15 HX B14W」、GeForce RTX 5070搭載モデルがソフマップに入荷
+
+GeForce RTX 5070 Laptop GPU搭載の15.6インチゲーミングノートPC「Katana-15-HX-B14WGK-5070JP」がMSIから登場した。
+
+MSIの15.6型ゲーミングノート「Katana 15 HX B14W」、GeForce RTX 5070搭載モデルがソフマップに入荷
+
+GeForce RTX 5070 Laptop GPU搭載の15.6インチゲーミングノートPC「Katana-15-HX-B14WGK-5070JP」がMSIから登場した。
+
+店頭価格は419,800円。 ソフマップAKIBA パソコン・デジタル館 では実機展示が始まっている（同店は10%ポイントサービス対象）。
+
+15.6インチWQHD液晶パネルを搭載したゲーミングノートPC
+
+Katana-15-HX-B14WGK-5070JPは、CPUに16コア/24スレッドのCore i7-14650HX、GPUにGeForce RTX 5070 Laptop GPU（8GB GDDR7/TDP 115W）を採用したゲーミングノートPC。
+
+15.6インチWQHD（2,560×1,440ドット）の165Hz液晶パネルを搭載し、高性能と滑らかな映像を楽しめるとしている。
+
+その他の主な仕様は、16GB DDR5メモリ×2、1TB M.2 SSD、Windows 11 Home。
+
+インターフェイスはUSB 3.2 Gen2 Type-C、USB 3.2 Gen2 Type-A×3、Wi-Fi 6E、Bluetooth 5.4、HDMI、音声入出力。
+
+バッテリーは75Whrで、バッテリー駆動時間（JEITA 3.0 動画再生時）は6時間。本…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/367/s1.jpg" alt="MSIの15.6型ゲーミングノート「Katana 15 HX B14W」、GeForce RTX 5070搭載モデルがソフマップに入荷"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2140367.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/367/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/367/s1.jpg"/></item>
+<item><title>TP-Linkの5GbE LANカード「TX301」が発売、価格は4,800円</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2140222.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2140222.html</guid><pubDate>Fri, 11 Sep 2026 15:15:00 +0000</pubDate><description><![CDATA[<p>TP-Linkの5GbE LANカード「TX301」が発売、価格は4,800円
+
+5GbEポート搭載のPCIe拡張カード「TX301」がTP-Linkから発売された。
+
+TP-Linkの5GbE LANカード「TX301」が発売、価格は4,800円
+
+5GbEポート搭載のPCIe拡張カード「TX301」がTP-Linkから発売された。
+
+Amazon.co.jp限定販売モデルで、価格は4,800円。
+
+TX301は、PCIe 3.1 x1接続のネットワークカード。一般的なGigabit Ethernet（1000BASE-T）よりも高速な5Gigabit Ethernet（5GBASE-T）に対応。より高速なダウンロードやNAS接続、スムーズなゲーム体験を実現するとしている。
+
+5GBASE-T/1000BASE-Tのほか、2.5GBASE-T/100BASE-TX/10BASE-Teでの接続にも対応。さまざまなネットワーク環境で利用できる。
+
+ゲームやオンライン会議などアプリ別の通信優先度設定などが可能な「AIFlow」アプリによる制御にも対応する。
+
+サイズは120.8×78.5×21.5mm。ロープロファイルブラケットとかんたん設定ガイド、1.5mのCat6A LANケーブルも付属する。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/222/s1.jpg" alt="TP-Linkの5GbE LANカード「TX301」が発売、価格は4,800円"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2140222.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/222/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/222/s1.jpg"/></item>
+<item><title>ASUSの安価な水冷CPUクーラーが2製品、360mmモデルは10,980円</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2140213.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2140213.html</guid><pubDate>Fri, 11 Sep 2026 15:10:00 +0000</pubDate><description><![CDATA[<p>ASUSの安価な水冷CPUクーラーが2製品、360mmモデルは10,980円
+
+ASUSの簡易水冷CPUクーラーが2モデル登場した。
+
+ASUSの安価な水冷CPUクーラーが2製品、360mmモデルは10,980円
+
+ラインナップは240mmモデル「LC 240 ARGB」と360mmモデル「LC 360 ARGB」の2種類で、販売価格は順に9,980円、10,980円。
+
+付属ファンはデイジーチェーン接続デザイン、煩雑なケーブル接続の手間を大幅に軽減
+
+これらは、ARGBファンを標準搭載した簡易水冷CPUクーラー。モデルの違いはラジエーターサイズ（240mmまたは360mm）で、水冷ブロックにもライトガイドを備え、ライティングを楽しめるデザインとなっている。
+
+流路を最適化した3,000rpmの高流量ポンプを採用し、冷却能力と静音性を高次元で両立。耐久性に優れた長寿命モーターで安定した性能を長期間提供できるとしている。
+
+付属ファンはデイジーチェーン接続デザインとなっており、1本に統合することで煩雑なケーブル接続の手間を大幅に軽減したとする。
+
+回転数は800～1,800rpm±10%で、風量が74.31CFM、静圧が2.2mmH2O、騒音値が33dB(A)。
+
+対応ソケットはIntel LGA1851/1700、AMD Socket AM5/AM4。
+
+ASUS LC 360 ARGB Amazonで購入 楽天で購入
+
+ASUS LC 240 ARGB Amazonで購入 楽天で購入</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/213/kk1_s.jpg" alt="ASUSの安価な水冷CPUクーラーが2製品、360mmモデルは10,980円"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2140213.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/213/kk1_s.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/213/kk1_s.jpg"/></item>
 <item><title>「GeForce RTX 5060 8G VENTUS 2X OC V1」がMSIから、価格は88,800円</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2140347.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2140347.html</guid><pubDate>Fri, 11 Sep 2026 15:05:00 +0000</pubDate><description><![CDATA[<p>「GeForce RTX 5060 8G VENTUS 2X OC V1」がMSIから、価格は88,800円
 
 デュアルファンクーラーを搭載したGeForce RTX 5060ビデオカード「GeForce RTX 5060 8G VENTUS 2X OC V1」がMSIから発売された。
@@ -8475,253 +8770,4 @@ A17は3種類のヘッドフォン出力を備えています。4ピンXLR、6.3
 これにより、重要なコンポーネントから熱を効率的に逃しながら、シャーシ全体へ均一に分散させることができます。
 
 この設計は全体的な動作…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/08/9aac8c06b664880ca885cbe304ae7ebd.webp" alt="【9/5発売】aune audioから99ステップR2R電子ボリュームコントロールシステム搭載のA17が登場！"></p>]]></description><source url="https://e-earphone.blog/?p=1552539">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/08/9aac8c06b664880ca885cbe304ae7ebd.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/08/9aac8c06b664880ca885cbe304ae7ebd.webp"/></item>
-<item><title>【9/5発売】ELOITからマイクロエンボス加工を施したイヤーピース VELVET NARROW BORE が登場！</title><link>https://e-earphone.blog/?p=1552740</link><guid isPermaLink="true">https://e-earphone.blog/?p=1552740</guid><pubDate>Sat, 05 Sep 2026 02:00:00 +0000</pubDate><description><![CDATA[<p>【9/5発売】ELOITからマイクロエンボス加工を施したイヤーピース VELVET NARROW BORE が登場！
-
-マイクロエンボス加工の隙間が装着する時の圧力を緩やかに分散して快適な装着感を実現こんにちは！e☆イヤホンのPRスタッフです！今回はELOITからの新製品のご紹介です。 ELOIT VELVET NARROW B
-
-マイクロエンボス加工の隙間が装着する時の圧力を緩やかに分散して快適な装着感を実現
-
-▼ELOIT VELVET NARROW BORE FULL Package e☆イヤホン オンラインストア価格￥3,450- (税込)
-
-▼ELOIT VELVET NARROW BORE S/MS/M/ML/L e☆イヤホン オンラインストア価格￥1,790- (税込)
-
-表面に施したマイクロエンボス加工の隙間が装着時の圧力を緩やかに分散し、音楽鑑賞時も快適な装着感を実現。耳への圧迫感は使用とともに徐々に和らいでいきます。
-
-先端に向かって細くなるコーン形状のコアが音を効果的に集中・誘導し、クリアリティを最大化。ボトム構造によりイヤホンとの安定性も高め、ノズル径4〜6mmという幅広いイヤホンに対応します。
-
-重心を耳道の内側にシフトさせる「トップ重心構造」を採用。深く安定したフィット感を実現し、一般的なチップと比べて低域の再生能力も向上させます。
-
-なめらかなマット面を採用し、イヤーチップに付着した異物もチップを外して軽く吹き飛ばすだけで簡単に除去できます。
-
-高圧マットコーティングとマイクロエンボス加工により、一般的なシリコンチップと比べてより滑らかな質感を実現しました。
-
-こちらの製品は、e☆イヤホンの以下の店舗にてご試聴いただけます。
-
-展示機は9月5日より展示開始予定です。また、各店およびオンラインストアにて在庫をご用意しております。
-
-最後…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/09/688421fe4e6b0e0ba5063327bed76f92.webp" alt="【9/5発売】ELOITからマイクロエンボス加工を施したイヤーピース VELVET NARROW BORE が登場！"></p>]]></description><source url="https://e-earphone.blog/?p=1552740">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/09/688421fe4e6b0e0ba5063327bed76f92.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/09/688421fe4e6b0e0ba5063327bed76f92.webp"/></item>
-<item><title>「Adobe Creative Cloud PRO」12か月版が25%ポイント還元、フォトプランも対象！楽天スーパーSALE</title><link>https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2138069.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2138069.html</guid><pubDate>Sat, 05 Sep 2026 01:30:00 +0000</pubDate><description><![CDATA[<p>「Adobe Creative Cloud PRO」12か月版が25%ポイント還元、フォトプランも対象！楽天スーパーSALE
-
-楽天市場では、9月4日（金）20:00～11日（金）1:59の期間限定で「楽天スーパーSALE」が開催中。
-
-「Adobe Creative Cloud PRO」12か月版が25%ポイント還元、フォトプランも対象！楽天スーパーSALE
-
-楽天市場では、9月4日（金）20:00～11日（金）1:59の期間限定で「楽天スーパーSALE」が開催中。
-
-楽天スーパーDEALSHOPでは、「Adobe Creative Cloud PRO」12か月版がポイント還元対象となっています。価格は102,960円で、25%ポイント還元対象。キャンペーン期間は11日（金）9:59まで。
-
-Adobe Creative Cloud PRO 12か月版
-
-そのほか、Adobe Creative Cloud フォトプラン 12か月版、Adobe Lightroom 12か月版もポイント還元対象となっています。
-
-Adobe Creative Cloud フォトプラン 1TBストレージ付き 12か月版
-
-Adobe Lightroom 1TBストレージ付き12か月版</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2138/069/s1.jpg" alt="「Adobe Creative Cloud PRO」12か月版が25%ポイント還元、フォトプランも対象！楽天スーパーSALE"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2138069.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2138/069/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2138/069/s1.jpg"/></item>
-<item><title>11インチM5 iPad ProのAppleCare+つきが31％オフ。約14万円も安い</title><link>https://gori.me/sale/peripheral-sale/169658</link><guid isPermaLink="true">https://gori.me/sale/peripheral-sale/169658</guid><pubDate>Sat, 05 Sep 2026 01:13:50 +0000</pubDate><description><![CDATA[<p>11インチM5 iPad ProのAppleCare+つきが31％オフ。約14万円も安い
-
-Amazonで11インチiPad Pro Wi-Fiモデル2TB（標準ガラス）とAppleCare+のセットが429,599円から295,440円の31％オフ。値引き額は138,248円で、Apple公式の本体単体価格404,800円を保証込みで下回る計算だ。
-
-11インチM5 iPad ProのAppleCare+つきが31％オフ。約14万円も安い
-
-Apple公式の本体単体404,800円を、AppleCare+込みで大きく下回る
-
-11インチiPad Pro Wi-Fiモデル 2TB（標準ガラス）＋AppleCare+のセットが429,599円→295,440円の31％オフ。値引き額は138,248円
-
-Apple公式ストアの11インチ・2TB・標準ガラスは404,800円からで、今回は2年ぶんの保証込みでそれを10万円以上下回る
-
-11インチの最大容量2TBを444gの本体で持ち出せる構成。撮影シーズンの外出用に向く
-
-Amazon で、現行 iPad Pro の11インチ最上位構成が大きく値下がりしている。 11インチiPad Pro Wi‑Fiモデル 2TB（標準ガラス搭載）- シルバー + AppleCare+ for 11インチiPad Pro（M5） が 31％オフ の295,440円だ。
-
-セット品の参考価格は429,599円。値引き額は138,248円で、 iPad （A16）が2台買えてしまう差額である。
-
-先日は13インチの最上位構成が 33％オフ になっていたが、今回は11インチ。持ち歩きを前提に iPad Pro を選ぶ人にとっては、こちらのほうが刺さるはずだ。
-
-このセットの主役は、 11インチiPad Pro Wi‑Fiモデル 2TB（標準ガラス搭載…</p><p><img src="https://gori.me/uploads/2022/10/iPads-and-Macs-at-Apple-Ginza-Temp-Store-03-800x534.jpg" alt="11インチM5 iPad ProのAppleCare+つきが31％オフ。約14万円も安い"></p>]]></description><source url="https://gori.me/sale/peripheral-sale/169658">gori.me</source><media:content url="https://gori.me/uploads/2022/10/iPads-and-Macs-at-Apple-Ginza-Temp-Store-03-800x534.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2022/10/iPads-and-Macs-at-Apple-Ginza-Temp-Store-03-800x534.jpg"/></item>
-<item><title>【取り扱い開始】CASIO「ear U」（集音器）がeイヤホンで取り扱いスタート！</title><link>https://e-earphone.blog/?p=1552163</link><guid isPermaLink="true">https://e-earphone.blog/?p=1552163</guid><pubDate>Sat, 05 Sep 2026 01:10:12 +0000</pubDate><description><![CDATA[<p>【取り扱い開始】CASIO「ear U」（集音器）がeイヤホンで取り扱いスタート！
-
- どもども。 遂にe☆イヤホンでも取り扱い開始になりました！ CASIO（カシオ）のヒアリングアシストイヤホン「ear U（イアユー）」 「最近、会話が少し聞き取りづら
-
-CASIO（カシオ）のヒアリングアシストイヤホン「ear U（イアユー）」
-
-「最近、会話が少し聞き取りづらい」「集音器が気になっている」という方はもちろん、ear Uが気になっていた方も、ぜひチェックしてみてください！
-
-「ear U」は、CASIOが開発したヒアリングアシストイヤホンです。
-
-加齢などによって「最近、会話が聞き取りづらくなってきた」「テレビの音量が以前より大きくなった」と感じる方の日常生活をサポートすることを目的としています。
-
-専用アプリを使って聞こえ方を自分に合わせて調整できるほか、Bluetoothにも対応しているため、スマートフォンと接続して音楽や通話を楽しむこともできます。
-
-また、イヤホンを耳に装着すると自動で集音モードに切り替わるため、必要なときにすぐ使えるのも特徴です。
-
-▼casio ear U ヒアリングアシストイヤホン e☆イヤホン オンラインストア価格¥49,940 – (税込)
-
-カラーは「NAVY BLACK（ネイビーブラック）」「IVORY WHITE（アイボリーホワイト）」の2色展開
-
-ear Uは、耳の穴を塞がないオープンイヤー型を採用。自分の声のこもりや閉塞感を抑えながら、周囲の音の方向や距離感も感じやすい設計となっています。また、片耳約8gと軽量で、耳に装着しやすいカフ型のデザインも特徴です。
-
-専用アプリを使って左右それぞれの聞こえをチェックし、その結果に合わせて聞こえ方を自動調整できます。さらに、音量や音のバランスなどを自分の好みに合わせて細かく…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/09/casio.png" alt="【取り扱い開始】CASIO「ear U」（集音器）がeイヤホンで取り扱いスタート！"></p>]]></description><source url="https://e-earphone.blog/?p=1552163">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/09/casio.png" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/09/casio.png"/></item>
-<item><title>PS2のゲーム開発用デバッグ機「DTL-H10000」が178,000円、PS1のゲーム開発用拡張ボードも店頭入荷</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2138494.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2138494.html</guid><pubDate>Sat, 05 Sep 2026 01:05:00 +0000</pubDate><description><![CDATA[<p>PS2のゲーム開発用デバッグ機「DTL-H10000」が178,000円、PS1のゲーム開発用拡張ボードも店頭入荷
-
-マニュアルも付属した「PlayStation 2 Debugging Station (DTL-H10000)」の通電確認済み中古品が、家電のケンちゃんに入荷。店頭価格は178,000円。
-
-PS2のゲーム開発用デバッグ機「DTL-H10000」が178,000円、PS1のゲーム開発用拡張ボードも店頭入荷
-
-マニュアルも付属した「PlayStation 2 Debugging Station (DTL-H10000)」の通電確認済み中古品が、 家電のケンちゃん に入荷。店頭価格は178,000円。
-
-PlayStation 2ゲームの開発・デバッグ向け機材で、市販品のPlayStation 2と異なり、天板ロゴには「TEST」の表記があり、ゲームソフトの動作テストなどに利用できる。
-
-このほか、同店には初代PlayStation用のゲーム開発者向け拡張ボード3種も入荷している。
-
-製品はPlayStation開発用のISAバス接続基板「DTL-H2000」、同PCIバス接続基板「DTL-H2500」、グラフィックスアーティストボード「DTL-H201A」。
-
-PlayStation関連製品 Amazonで購入 楽天で購入</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2138/494/s1.jpg" alt="PS2のゲーム開発用デバッグ機「DTL-H10000」が178,000円、PS1のゲーム開発用拡張ボードも店頭入荷"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2138494.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2138/494/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2138/494/s1.jpg"/></item>
-<item><title>DJI初のコンセプトストアが表参道にオープン。日本初の試み</title><link>https://gori.me/it/169654</link><guid isPermaLink="true">https://gori.me/it/169654</guid><pubDate>Sat, 05 Sep 2026 01:01:48 +0000</pubDate><description><![CDATA[<p>DJI初のコンセプトストアが表参道にオープン。日本初の試み
-
-DJIが日本初のコンセプトストア「DJI Authorized Concept Store Tokyo Omotesando」を東京・表参道に今秋オープンする。ドローンやカメラ、ポータブル電源を体験でき、日本初となるHasselbladとの統合型ブランド体験スペースや屋内フライトエリアも設けられる予定だ。
-
-クイック DJI初のコンセプトストアが表参道にオープン。日本初の試み
-
-Hasselbladとの統合型ストアで、屋内フライトエリアも用意される
-
-DJIが日本初のコンセプトストアを東京・表参道に今秋オープンすると発表
-
-日本初のDJI・Hasselblad統合型体験スペースと屋内フライトエリアを設置予定
-
-オープン記念で抽選16名にOsmo Pocket 4などが当たるキャンペーンを実施中
-
-DJIが日本初のコンセプトストア「 DJI Authorized Concept Store Tokyo Omotesando 」を 東京・表参道にオープン すると発表した。DJI JAPANが2026年9月4日に公式Xで告知したもので、オープンは今秋を予定している。
-
-日本初のDJIコンセプトストア、まもなくオープン！ オープンを記念して、スペシャルキャンペーンを開催します！
-
-抽選で合計16名様に豪華賞品をプレゼント： 🎁 Osmo Action 6 × 1名様 🧱 Osmo Action ブロックセット × 5名様 🎒 リバーシブル トートバッグ ×… pic.twitter.com/0nXfPHqbgn
-
-— OSMO JAPAN (@OSMO_JAPAN) September 4, 2026
-
-このストアは、DJI JAPANが2026年7月18日の説明会で予告していた表参道の旗艦店。ハンドヘルド製品やカメラド…</p><p><img src="https://gori.me/uploads/2026/09/DJI-Store-in-Japan-640x800.jpeg" alt="DJI初のコンセプトストアが表参道にオープン。日本初の試み"></p>]]></description><source url="https://gori.me/it/169654">gori.me</source><media:content url="https://gori.me/uploads/2026/09/DJI-Store-in-Japan-640x800.jpeg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/09/DJI-Store-in-Japan-640x800.jpeg"/></item>
-<item><title>(お買い得中古品情報) 測量用？5.6型にキーボードを備えた「TOUGHBOOK CF-U1」が9,980円</title><link>https://www.gdm.or.jp/crew/2026/0905/650989</link><guid isPermaLink="true">https://www.gdm.or.jp/crew/2026/0905/650989</guid><pubDate>Sat, 05 Sep 2026 01:00:19 +0000</pubDate><description><![CDATA[<p>(お買い得中古品情報) 測量用？5.6型にキーボードを備えた「TOUGHBOOK CF-U1」が9,980円</p>]]></description><source url="https://www.gdm.or.jp/crew/2026/0905/650989">エルミタージュ秋葉原</source></item>
-<item><title>9月は防災月間！もしもの時に役立つ、日頃から備えたい防災グッズを集めてみました 停電や災害からPCと生活を守るグッズ9選 text by  石川 ひさよし</title><link>https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2138516.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2138516.html</guid><pubDate>Sat, 05 Sep 2026 01:00:00 +0000</pubDate><description><![CDATA[<p>9月は防災月間！もしもの時に役立つ、日頃から備えたい防災グッズを集めてみました 停電や災害からPCと生活を守るグッズ9選 text by  石川 ひさよし
-
-少し過ぎてしまいましたが、9月1日は防災の日でした。そこで今回のテーマは防災グッズです。2026年の夏は、地震、豪雨による土砂災害・水害などのニュースが続いてしまいましたが、“次の災害”がいつ・どこで起きるかは分かりません。
-
-9月は防災月間！もしもの時に役立つ、日頃から備えたい防災グッズを集めてみました
-
-停電や災害からPCと生活を守るグッズ9選 text by 石川 ひさよし
-
-少し過ぎてしまいましたが、9月1日は防災の日でした。そこで今回のテーマは防災グッズです。2026年の夏は、地震、豪雨による土砂災害・水害などのニュースが続いてしまいましたが、“次の災害”がいつ・どこで起きるかは分かりません。
-
-災害の経験がある人も、幸運にもまだ避難などを経験したことがない人も、備えあれば憂いなし、です。今回は、PC/IT関連や電気を使うものを中心に、“防災”に関するアイテムを9製品ピックアップしてみました。
-
-今何が起きているのか、被害状況はどうなのかなど、次の行動のためにも情報収集が重要です。ネットワークの確保や、テレビ・ラジオ関連、そして被害状況の確認を安全に行えるカメラなどのグッズをまとめました。
-
-インスタントWi-Fi UD-VP6P-92WB Amazonで購入 楽天で購入
-
-大きな災害ではネットワークの混雑(輻輳)が生じることもあります。ご家族や周囲のグループで回線をシェアして緊急時のネットワーク通信を確保するのも、現代の災害対策としては有効でしょう。スマートフォンのテザリングが第一の方法ですが、予備の回線として、ポケット型Wi-Fi端末と、“いざというときに使う回線”を備えておくのはいかがでしょうか。インス…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2138/516/top.jpg" alt="9月は防災月間！もしもの時に役立つ、日頃から備えたい防災グッズを集めてみました 停電や災害からPCと生活を守るグッズ9選 text by  石川 ひさよし"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2138516.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2138/516/top.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2138/516/top.jpg"/></item>
-<item><title>Philips Hueの4万円ランプが良い。Apple Home対応の寝室照明</title><link>https://gori.me/gadget/169653</link><guid isPermaLink="true">https://gori.me/gadget/169653</guid><pubDate>Sat, 05 Sep 2026 00:57:59 +0000</pubDate><description><![CDATA[<p>Philips Hueの4万円ランプが良い。Apple Home対応の寝室照明
-
-シグニファイジャパンが2026年8月6日に発売した「Philips Hue トワイライト ベッドサイドライト」のブラック。希望小売価格は39,980円。1,600万色以上の光と0.2％までの超低調光を備え、Hueブリッジ経由でApple HomeやSiriから操作できる寝室向けランプだ。
-
-Philips Hueの4万円ランプが良い。Apple Home対応の寝室照明
-
-コルクの土台と0.2％の超低調光。Hueブリッジ経由でSiriからも操作できる
-
-Philips Hue トワイライト ベッドサイドライトのブラックが39,980円（税込）で発売中。Amazon・楽天では2026年8月6日から販売開始
-
-光色は1,600万色以上、色温度2,000〜6,500K、明るさ1,380lm（4,000K時）。0.2％まで絞れるので常夜灯としても使える
-
-Apple HomeやSiriから操作するにはHueブリッジが必要。ブリッジ所有者なら追加するだけで寝室の照明が自動化できる
-
-Philips Hueから、 寝室向けのベッドサイドライト「 Philips Hue トワイライト ベッドサイドライト 」 が登場していた。シグニファイジャパンが2026年8月6日に発売したモデルで、希望小売価格は39,980円（税込）。ブラックとホワイトの2色展開だ。
-
-僕のところにも新製品の案内がメールで届いて、写真を見た瞬間に「おお、いいじゃんこれ」と声が出た。キノコのような丸い頭に、すっと伸びた縦長のボディ。ベッドサイドに置く機械ではなく、寝室に置くオブジェとして成立している佇まいだ。
-
-この製品はメーカーとしては睡眠サポート照明として打ち出されている。ただ僕が惹かれたのは、その手前にあるデザインと、Apple Hom…</p><p><img src="https://gori.me/uploads/2026/09/Philips-Hue-Twilight-head-side-light-01-800x800.jpg" alt="Philips Hueの4万円ランプが良い。Apple Home対応の寝室照明"></p>]]></description><source url="https://gori.me/gadget/169653">gori.me</source><media:content url="https://gori.me/uploads/2026/09/Philips-Hue-Twilight-head-side-light-01-800x800.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/09/Philips-Hue-Twilight-head-side-light-01-800x800.jpg"/></item>
-<item><title>GeForce Hotfix ドライバ 616.86公開。画面がちらつく・真っ黒になるなどの不具合を修正</title><link>https://www.nichepcgamer.com/archives/post-132075.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/post-132075.html</guid><pubDate>Sat, 05 Sep 2026 00:33:51 +0000</pubDate><description><![CDATA[<p>GeForce Hotfix ドライバ 616.86公開。画面がちらつく・真っ黒になるなどの不具合を修正
-
-GeForce Hotfix ドライバ 616.86が公開されました。 GeForce Hotfix ドライバ 616.86対応製品 GeForce Hotfixドライバ 616.86は、以下の製品...
-
-GeForce Hotfix ドライバ 616.86が公開されました。
-
-GeForce Hotfix ドライバ 616.86対応製品
-
-GeForce Hotfixドライバ 616.86は、以下の製品をサポートします。
-
-GeForce Hotfix ドライバ 616.86で修正された不具合
-
-GeForce Hotfixドライバ 616.86では、以下の不具合修正が施されています。
-
-特定のWebサイトを閲覧した際、ブラウザの表示がちらつく不具合を修正(※モニターがちらつく不具合)
-
-616.56以降、仮想ディスプレイ(Virtual displays)を作成できない不具合を修正
-
-616.56以降、Remote Desktop Protocol (RDP)セッションの画面が真っ黒になる不具合を修正
-
-GeForce Hotfixドライバ 616.86には以下の既知の不具合があります。
-
-『電源管理モード』の『パフォーマンス最大化を優先』が正常に適用されない場合があります
-
-GeForce Hotfixドライバ 616.86のインストールに際して、『クリーン インストールの実行』にチェックを入れて、さらにNVIDIAアプリ (NVIDIA App)をインストールしなかった場合、タスクバーのシステムトレイに『NVIDIA 設定』アイコンが表示されるものの、押しても何も起動しません。起動させるべきアプリ(NVIDIAアプリ、NVIDIAコントロールパネル)がないにもかかわらず、アイコンだけが表示されている状況です。右クリックメニューから『終了』させることはできるものの、PC再起動で再び表示されます。非表示にすることもできません
-
-AMD Athlon 64 X…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2025/12/nvidia-logo-1200.jpg" alt="GeForce Hotfix ドライバ 616.86公開。画面がちらつく・真っ黒になるなどの不具合を修正"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-132075.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2025/12/nvidia-logo-1200.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2025/12/nvidia-logo-1200.jpg"/></item>
-<item><title>「13.3インチMacBook Air 2020」が期間限定で45,800円、中古品が100台以上入荷！</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2138484.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2138484.html</guid><pubDate>Sat, 05 Sep 2026 00:05:00 +0000</pubDate><description><![CDATA[<p>「13.3インチMacBook Air 2020」が期間限定で45,800円、中古品が100台以上入荷！
-
-2020年発売の「MacBook Air」の中古品が、アメモバマーケット東京秋葉原店でセール中。セール期間は9月6日（日）まで。
-
-「13.3インチMacBook Air 2020」が期間限定で45,800円、中古品が100台以上入荷！
-
-2020年発売の「MacBook Air」の中古品が、 アメモバマーケット東京秋葉原店 でセール中。セール期間は9月6日（日）まで。
-
-今回入荷したのは3か月の保証が付いたBランク中古品で、価格は45,800円。カラーはスペースグレイ、シルバー、ゴールドの3色で、在庫は100台以上用意されているようです。
-
-主な仕様は、ディスプレイサイズが13.3インチ（解像度が2,560×1,600）、CPUがIntel Core i3プロセッサー、メモリが8GB、ストレージが256GB。キーボードは日本語配列で、社外品充電器が付属するようです。
-
-店頭のほか、同店の通販サイトでも販売されているので、興味がある方はチェックしてみてください。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2138/484/a1.jpg" alt="「13.3インチMacBook Air 2020」が期間限定で45,800円、中古品が100台以上入荷！"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2138484.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2138/484/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2138/484/a1.jpg"/></item>
-<item><title>(アキバ取材班) プレステ2のデバッグ用開発機「DTL-H10000」が入荷。ほぼ使われていない極上品</title><link>https://www.gdm.or.jp/crew/2026/0905/650977</link><guid isPermaLink="true">https://www.gdm.or.jp/crew/2026/0905/650977</guid><pubDate>Fri, 04 Sep 2026 23:45:33 +0000</pubDate><description><![CDATA[<p>(アキバ取材班) プレステ2のデバッグ用開発機「DTL-H10000」が入荷。ほぼ使われていない極上品</p>]]></description><source url="https://www.gdm.or.jp/crew/2026/0905/650977">エルミタージュ秋葉原</source></item>
-<item><title>Appleが来週から2027年初頭までに投入すると予想される新製品、全14機種</title><link>https://gori.me/imac/169647</link><guid isPermaLink="true">https://gori.me/imac/169647</guid><pubDate>Fri, 04 Sep 2026 23:23:17 +0000</pubDate><description><![CDATA[<p>Appleが来週から2027年初頭までに投入すると予想される新製品、全14機種
-
-BloombergのMark Gurman氏が、Appleが2026年9月9日のイベントから2027年初頭までに発表するとみられる製品を公開した。折りたたみのiPhone Ultra、Mac初のタッチ対応となるMacBook Ultra、新カテゴリのHome Hubなど14機種。時期別に整理した。
-
-Appleが来週から2027年初頭までに投入すると予想される新製品、全14機種
-
-折りたたみiPhone Ultra、タッチ対応MacBook、新カテゴリのHome Hubまで
-
-BloombergのMark Gurman氏が9月4日、Appleが来週から2027年初頭までに発表するとみられる14機種のリストを公開
-
-9月9日のイベントではiPhone 18 Pro、iPhone 18 Pro Max、折りたたみのiPhone Ultra、Apple Watch Series 12、Apple Watch Ultra 4の5機種が主役になりそう
-
-その後はiPad mini、AirPods 5、Beats 360、Apple TV、HomePod mini、Home Hub、MacBook Pro、iMac、MacBook Ultraが続く見立て
-
-Appleが来週から2027年初頭までに発表するとみられる新製品 が、 14機種にのぼる という情報が出てきた。折りたたみiPhone、タッチ対応の MacBook 、家庭用の新しいスマートディスプレイまで、ジャンルをまたいだ大型更新が一気に来る見立てだ。
-
-Bloombergの Mark Gurman 氏が9月4日、来週から2027年初頭までにAppleが発表すると予想する製品を長いリストとして 公開 した。同記事はGurman氏の報道を軸に、ほかの…</p><p><img src="https://gori.me/uploads/2026/08/Apple-Prodcuts-Giant-Leak-from-macos26-03-800x498.jpg" alt="Appleが来週から2027年初頭までに投入すると予想される新製品、全14機種"></p>]]></description><source url="https://gori.me/imac/169647">gori.me</source><media:content url="https://gori.me/uploads/2026/08/Apple-Prodcuts-Giant-Leak-from-macos26-03-800x498.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/08/Apple-Prodcuts-Giant-Leak-from-macos26-03-800x498.jpg"/></item>
-<item><title>GeForce Game Readyドライバ 616.64 不具合情報。モニターがちらつく不具合はいまだ直らず</title><link>https://www.nichepcgamer.com/archives/geforce-driver-issue-616-64.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/geforce-driver-issue-616-64.html</guid><pubDate>Fri, 04 Sep 2026 23:10:03 +0000</pubDate><description><![CDATA[<p>GeForce Game Readyドライバ 616.64 不具合情報。モニターがちらつく不具合はいまだ直らず
-
-GeForce Game Readyドライバ 616.64 WHQLの不具合情報です。NVIDIA公式の既知の不具合と、海外のGeForceフォーラムで目に付いたユーザー報告を意訳しています。ユーザ...
-
-GeForce Game Readyドライバ 616.64 WHQL の不具合情報です。NVIDIA公式の既知の不具合と、海外のGeForceフォーラムで目に付いたユーザー報告を意訳しています。ユーザー報告は全ての環境で発生するものとは限らず、環境依存の可能性もあります。同様の不具合にお悩みの方の参考になりましたら幸いです。
-
-NVIDIA公式: 既知の不具合 (リリースノート + フォーラム)
-
-『電源管理モード』の『パフォーマンス最大化を優先』が正常に適用されない場合があります
-
-特定のWebサイトを閲覧した際、ブラウザの表示がちらつく場合があります(※ 616.56 で報告されていたモニターがちらつく不具合です)
-
-610.47ドライバ以降のインストールに際して、『クリーン インストールの実行』にチェックを入れて、さらにNVIDIA App (NVIDIAアプリ)をインストールしなかった場合、タスクバーのシステムトレイに『NVIDIA 設定』アイコンが表示されるものの、押しても何も起動しません。起動させるべきアプリ(NVIDIA App、NVIDIAコントロールパネル)がないにもかかわらず、アイコンだけが表示されている状況です。右クリックメニューから『終了』させることはできるものの、PC再起動で再び表示されます。恒久的に非表示にすることはできません
-
-AMD Athlon 64 X2やIntel Core 2 Duo / Core 2 Quad以前のP…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2025/12/nvidia-logo-issue-1200.jpg" alt="GeForce Game Readyドライバ 616.64 不具合情報。モニターがちらつく不具合はいまだ直らず"></p>]]></description><source url="https://www.nichepcgamer.com/archives/geforce-driver-issue-616-64.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2025/12/nvidia-logo-issue-1200.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2025/12/nvidia-logo-issue-1200.jpg"/></item>
-<item><title>M1チップ/16GBメモリ搭載の「MacBook Air」が49,800円など！秋葉館のジャンク品セール</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2138434.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2138434.html</guid><pubDate>Fri, 04 Sep 2026 23:05:00 +0000</pubDate><description><![CDATA[<p>M1チップ/16GBメモリ搭載の「MacBook Air」が49,800円など！秋葉館のジャンク品セール
-
-Mac専門店秋葉館の店頭で、Apple製品のジャンク品セールが実施中。
-
-M1チップ/16GBメモリ搭載の「MacBook Air」が49,800円など！秋葉館のジャンク品セール
-
-Mac専門店 秋葉館 の店頭で、Apple製品のジャンク品セールが実施中。
-
-ラインアップと価格の一例を挙げると、M1チップ/16GBメモリ搭載の「MacBook Air」が49,800円、第8世代Core i5/16GBメモリ搭載の「MacBook Pro」が24,800円。
-
-「iPhone 11 128GB」が9,800円、「iPhone 12 128GB」が14,800円、「第3世代iPhone SE 64GB」が12,800円。
-
-「第1世代AirPods Pro（右イヤホン欠品）」が2,980円、「第2世代iPad Pro 12.9インチ 512GB」が9,800円など。
-
-各種在庫は1点限りで、保証がないジャンク品となっています。興味がある方は同店に足を運んでみてください。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2138/434/a1.jpg" alt="M1チップ/16GBメモリ搭載の「MacBook Air」が49,800円など！秋葉館のジャンク品セール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2138434.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2138/434/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2138/434/a1.jpg"/></item>
 </channel></rss>
