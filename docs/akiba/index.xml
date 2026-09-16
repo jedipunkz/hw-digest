@@ -1,6 +1,287 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Wed, 16 Sep 2026 20:07:15 +0000</lastBuildDate>
+<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Wed, 16 Sep 2026 22:55:51 +0000</lastBuildDate>
+<item><title>【レビュー】GB10搭載のデル小型AI機を社内のAI専任ではない技術スタッフが1カ月試用、向いたのは「放置して任せる」仕事</title><link>https://pc.watch.impress.co.jp/docs/topic/review/2138219.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/topic/review/2138219.html</guid><pubDate>Wed, 16 Sep 2026 21:10:00 +0000</pubDate><description><![CDATA[<p>【レビュー】GB10搭載のデル小型AI機を社内のAI専任ではない技術スタッフが1カ月試用、向いたのは「放置して任せる」仕事
+
+派手さのない小さな箱が、社内のサーバールームに1カ月ほど置かれていた。デル・テクノロジーズの「Dell Pro Max with GB10」。NVIDIAの小型AIスーパーコンピュータ「DGX Spark」と同じ「GB10」チップを積んだ、ローカルAI向けの小型ワークステーションだ。
+
+GB10搭載のデル小型AI機を社内のAI専任ではない技術スタッフが1カ月試用、向いたのは「放置して任せる」仕事
+
+派手さのない小さな箱が、社内のサーバールームに1カ月ほど置かれていた。デル・テクノロジーズの「Dell Pro Max with GB10」。NVIDIAの小型AIスーパーコンピュータ「DGX Spark」と同じ「GB10」チップを積んだ、ローカルAI向けの小型ワークステーションだ。
+
+借りた動機は、はっきり言えば「保険」だ。社内ではクラウドAIをAPIの従量課金とサブスクリプションの両方で使っており、費用は月を追うごとにかさんでいる。クラウドのAIがいつまで今の価格で使えるかは、誰にも分からない。
+
+一方で技術部門には、外部サービスに何があっても業務を止めない持続性が求められる。値上げされてから慌ててローカルAIへ移るのでは遅く、代替手段を先に確かめておきたい。そんな話が社内で持ち上がっていた。
+
+最初に立場を明かしておくと、筆者はPC Watch編集部の副編集長で、技術部門でもデータ分析の担当でもない。ただ、デル・テクノロジーズを訪問した際のメンバーの1人で、社内の技術部門とデジタルマーケティング部門が「試したい」と手を挙げた縁から、1カ月弱の借用が実現した。本稿はその試用を間近で見聞きした立場から書く、いわば社内取材記だ。
+
+だから本稿は、AIの専門…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2138/219/01.png" alt="【レビュー】GB10搭載のデル小型AI機を社内のAI専任ではない技術スタッフが1カ月試用、向いたのは「放置して任せる」仕事"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/topic/review/2138219.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2138/219/01.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2138/219/01.png"/></item>
+<item><title>【PC短評】小さな筐体に大きな安心。919gで23時間駆動の「レッツノートSC7」 ～読者プレゼント、やってます</title><link>https://pc.watch.impress.co.jp/docs/column/short-review/2141145.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/column/short-review/2141145.html</guid><pubDate>Wed, 16 Sep 2026 21:01:00 +0000</pubDate><description><![CDATA[<p>【PC短評】小さな筐体に大きな安心。919gで23時間駆動の「レッツノートSC7」 ～読者プレゼント、やってます
+
+パナソニックのノートPC「レッツノート」シリーズの中で、12.4型ディスプレイを採用し最も携帯性を追求した最新モデルが「レッツノートSC」だ。今回、レッツノートSCシリーズ最新の直販モデル「CF-SC7ARBCP」を試用する機会を得たので、ハード面を中心に見ていく。すでに発売中で、直販価格は29万8,100円から。
+
+小さな筐体に大きな安心。919gで23時間駆動の「レッツノートSC7」
+
+パナソニックのノートPC「レッツノート」シリーズの中で、12.4型ディスプレイを採用し最も携帯性を追求した最新モデルが「レッツノートSC」だ。今回、レッツノートSCシリーズ最新の直販モデル「CF-SC7ARBCP」を試用する機会を得たので、ハード面を中心に見ていく。すでに発売中で、直販価格は29万8,100円から。
+
+レッツノートSCシリーズは、従来のレッツノートSRシリーズの流れを汲む、2026年登場の最新モデルだ。SRシリーズ同様に、12.4型ディスプレイ採用の最も携帯性を追求したモデルだが、SRシリーズから多くの部分で強化を実現。一方で、本体デザインはレッツノートシリーズのコンセプトをしっかり受け継いでいる。
+
+シリーズ最大の特徴である天板の凹凸「ボンネット構造」。レッツノートSC7では、SRシリーズから採用された最新のボンネット構造を引き続き採用。内側に強度を高めるリブを追加するとともに、凹凸の立ち上がり部分を厚肉化することで、強度を犠牲にすることなく軽量化と天板デザインのシンプル化を実現。実際に天板を見ても、ボンネット構造の凹凸はほぼ目立たないレベルにまで抑えられており、見た目にもすっきりとした印象となっている。
+
+そのうえで、ほぼ垂直に切り落とされた側面、シリー…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2141/145/01.JPG" alt="【PC短評】小さな筐体に大きな安心。919gで23時間駆動の「レッツノートSC7」 ～読者プレゼント、やってます"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/column/short-review/2141145.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2141/145/01.JPG" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2141/145/01.JPG"/></item>
+<item><title>【プレゼントコーナー】PC Watch創刊30周年特別プレゼント企画【パナソニック製モバイルノート「レッツノートSC7」】 - PC Watch</title><link>https://pc.watch.impress.co.jp/docs/topic/present/2141159.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/topic/present/2141159.html</guid><pubDate>Wed, 16 Sep 2026 21:00:00 +0000</pubDate><description><![CDATA[<p>【プレゼントコーナー】PC Watch創刊30周年特別プレゼント企画【パナソニック製モバイルノート「レッツノートSC7」】 - PC Watch
+
+おかげさまでPC Watchは創刊から30周年を迎えることができました。これもひとえに読者の皆様、ならびにメーカー各社様からのご支援の賜物です。
+
+PC Watch創刊30周年特別プレゼント企画【パナソニック製モバイルノート「レッツノートSC7」】
+
+おかげさまでPC Watchは創刊から30周年を迎えることができました。これもひとえに読者の皆様、ならびにメーカー各社様からのご支援の賜物です。
+
+PC Watch創刊30周年を記念し、パナソニック コネクト様より12.4型のモバイルノート「レッツノートSC7」を1台ご提供いただきました。ふるってご応募ください。
+
+PC Watch様、創刊30周年、誠におめでとうございます。
+
+おかげさまで、レッツノート・タフブックも同じく30周年を迎えることになりました。長きにわたり歩みをともにできたことを、心よりうれしく思います。
+
+これまで支えてくださった読者ならびにユーザーの皆さまへ感謝を込めて、レッツノート「CF-SC7ARBCP」を1台プレゼントいたします。
+
+1996年の誕生以来、レッツノートは「頑丈」「軽量」「長時間駆動」を軸に進化を続け、オフィスや自宅、そして外出先まで、働く皆さまの多様なビジネスシーンに寄り添ってきました。
+
+今回ご用意したモデルは、日々の持ち歩きを快適にする約0.949kgの軽量ボディに、コンパクトで見やすい12.4型液晶、16GBメモリー、512GB SSDを搭載。資料作成やWeb閲覧、オンライン会議など、現代のビジネスワークをスムーズに。さらにはCopilot+ PC 対応で、AI機能を存分にご活用いただけます。
+
+ぜひこの機会にご応募いただき、30年の進…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2141/159/1.jpg" alt="【プレゼントコーナー】PC Watch創刊30周年特別プレゼント企画【パナソニック製モバイルノート「レッツノートSC7」】 - PC Watch"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/topic/present/2141159.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2141/159/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2141/159/1.jpg"/></item>
+<item><title>LLMの193倍速い“判断だけのAI”「Jev」、ChatGPTの共著研究者が開発</title><link>https://pc.watch.impress.co.jp/docs/news/2141599.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2141599.html</guid><pubDate>Wed, 16 Sep 2026 20:55:00 +0000</pubDate><description><![CDATA[<p>LLMの193倍速い“判断だけのAI”「Jev」、ChatGPTの共著研究者が開発
+
+ChatGPTの前身の論文に名を連ねた研究者が、今度は“文章を一切書けないAI”を発表した。TypeSafe AIは9月15日(現地時間)、初のAIモデル「Jev」を公開し、早期アクセスの受け付けを開始した。自社評価ではLLM(大規模言語モデル)より193.6倍高速・444.6倍低コストをうたい、デモではゲーム「DOOM」を自動プレイしてみせた。状況を説明するデータを送信すると、選択肢のどれかや数値といった決まった形式で判断を回答するAIだ。
+
+LLMの193倍速い“判断だけのAI”「Jev」、ChatGPTの共著研究者が開発
+
+ChatGPTの前身の論文に名を連ねた研究者が、今度は“文章を一切書けないAI”を発表した。TypeSafe AIは9月15日(現地時間)、初のAIモデル「Jev」を公開し、早期アクセスの受け付けを開始した。自社評価ではLLM(大規模言語モデル)より193.6倍高速・444.6倍低コストをうたい、デモではゲーム「DOOM」を自動プレイしてみせた。状況を説明するデータを送信すると、選択肢のどれかや数値といった決まった形式で判断を回答するAIだ。
+
+Jevは、TypeSafe AIが「System One Model」と呼ぶ新種のモデルで、人と対話せず、ソフトウェアの内部で判断だけを下す自動化専用のAIだ。質問を複数まとめて送信すると、文章ではなく、それぞれに「はい/いいえ」「選択肢のどれか」「数値」といった決まった形式で回答する。回答のたびに、どのくらい確信があるかも数値で提示する。
+
+料金は入力10億トークンあたり42ドル(約6,510円、1ドル=約155円換算)で、100万トークンあたり0.042ドル(約6.5円)。出力トークンは“安すぎて課金できない”として無…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2141/599/01.png" alt="LLMの193倍速い“判断だけのAI”「Jev」、ChatGPTの共著研究者が開発"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2141599.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2141/599/01.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2141/599/01.png"/></item>
+<item><title>iOS27.2でSiri AIが日本語対応？ベータ1で利用可能に</title><link>https://iphone-mania.jp/ios-606086/</link><guid isPermaLink="true">https://iphone-mania.jp/ios-606086/</guid><pubDate>Wed, 16 Sep 2026 18:56:01 +0000</pubDate><description><![CDATA[<p>iOS27.2でSiri AIが日本語対応？ベータ1で利用可能に
+
+各OSの27.2ベータ1が開発者向けにリリースされたばかりですが、パーソナライズされたSiriである「Siri AI」が日本語でも利用可能になっていることがわかりました。10月のiOS27.2正式版のリリースに伴い、Siri AIの日本語版が一般提供される可能性があります。
+
+iOS27.2でSiri AIが日本語対応？ベータ1で利用可能に
+
+各OSの27.2ベータ1が開発者向けにリリース されたばかりですが、パーソナライズされたSiriである「 Siri AI 」が 日本語でも利用可能になっている ことがわかりました。10月のiOS27.2正式版のリリースに伴い、Siri AIの日本語版が一般提供される可能性があります。
+
+MacRumorsが、 iOS27.2ベータ1でSiri AIの日本語対応が確認された と報じています。
+
+ただし、ベータ版の段階で機能が追加されたからといって、必ずしもそのまま正式版に含まれるとは限りません。
+
+実際、9月9日付けのiPhone18 Pro／Pro Maxのプレスリリースでは、Siri AIの日本語版は 10月に提供予定と案内 されていました。
+
+一方、Apple公式サイトの「Apple IntelligenceとSiri」のページでは現在、「 年内に 日本語でも利用できるようになります」と案内されています。
+
+このため、Siri AIの日本語版が実際にいつ一般提供されるのかについては、現時点ではまだ不明とみるのが妥当でしょう。
+
+Siri AIでは、従来のSiriから大幅に機能が拡張され、より自然な会話やユーザーの個人情報を踏まえた回答、アプリをまたいだ操作などが可能になります。
+
+Siri AIでは、音声だけでなくテキスト入力にも対応します。
+
+より自然な言葉で質…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/17/Screenshot-from-2026-09-16-20-53-59.png" alt="iOS27.2でSiri AIが日本語対応？ベータ1で利用可能に"></p>]]></description><source url="https://iphone-mania.jp/ios-606086/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/17/Screenshot-from-2026-09-16-20-53-59.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/17/Screenshot-from-2026-09-16-20-53-59.png"/></item>
+<item><title>iOS27.1を飛ばして27.2へ？Appleの異例アップデートを考察</title><link>https://iphone-mania.jp/ios-606084/</link><guid isPermaLink="true">https://iphone-mania.jp/ios-606084/</guid><pubDate>Wed, 16 Sep 2026 18:32:27 +0000</pubDate><description><![CDATA[<p>iOS27.1を飛ばして27.2へ？Appleの異例アップデートを考察
+
+iOS27.2、iPadOS27.2、macOS Golden Gate 27.2、watchOS27.2、tvOS27.2、visionOS27.2のベータ1が開発者向けにリリースされました。各OSの27.0正式版が公開されてから、わずか2日後のリリースです。
+
+iOS27.1を飛ばして27.2へ？Appleの異例アップデートを考察
+
+iOS27.2、iPadOS27.2、macOS Golden Gate 27.2、watchOS27.2、tvOS27.2、visionOS27.2のベータ1 が開発者向けにリリースされました。 各OSの27.0正式版 が公開されてから、わずか2日後のリリースです。
+
+当然のように「27.2」として公開された今回のベータ版ですが、ここで気になるのが 「27.1はいったいどこにいったのか？」 という点です。
+
+iOS27.2、iPadOS27.2、macOS Golden Gate 27.2、watchOS27.2、tvOS27.2、visionOS27.2のベータ1 が開発者向けに公開されました。
+
+現時点では、各OSの27.2で追加される新機能の全容は明らかになっていません。
+
+ただし、Appleが2026年中の提供を予定しているものの、27.0では利用できない機能はいくつか存在しており、その一部が27.2で追加される可能性があります。
+
+Apple Watch Series 12とApple Watch Ultra 4には、新たなApple Intelligence機能として「Live Rewind」と「Siri Recap」が追加される予定です。
+
+Digital Crownを2回押すことで、直前15秒間に話された内容を文字起こしして確認できる機能です。
+
+そ…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/17/iOS-27.2-Next-to-iPhone.jpg" alt="iOS27.1を飛ばして27.2へ？Appleの異例アップデートを考察"></p>]]></description><source url="https://iphone-mania.jp/ios-606084/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/17/iOS-27.2-Next-to-iPhone.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/17/iOS-27.2-Next-to-iPhone.jpg"/></item>
+<item><title>iPhone18 Proだけで著名写真家3人が撮影！可変絞りを活かした作品をApple公開</title><link>https://iphone-mania.jp/iphone18-606080/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-606080/</guid><pubDate>Wed, 16 Sep 2026 17:51:30 +0000</pubDate><description><![CDATA[<p>iPhone18 Proだけで著名写真家3人が撮影！可変絞りを活かした作品をApple公開
+
+Appleは、3人の著名な写真家がiPhone18 Proだけで撮影した作品を公開しました。iPhone初の可変絞りに対応した48MP Fusionメインカメラを備えるiPhone18 Proが、過酷な山岳撮影から人物撮影、大規模な群衆シーンまで、プロの写真表現をどこまで広げられるのかを示す内容となっています。
+
+iPhone18 Proだけで著名写真家3人が撮影！可変絞りを活かした作品をApple公開
+
+Apple は、3人の著名な写真家が iPhone18 Pro だけで撮影した作品を公開しました。iPhone初の可変絞りに対応した48MP Fusionメインカメラを備えるiPhone18 Proが、過酷な山岳撮影から人物撮影、大規模な群衆シーンまで、プロの写真表現をどこまで広げられるのかを示す内容となっています。
+
+iPhone18 ProとiPhone18 Pro Max の48MP Fusionメインカメラには、 iPhoneシリーズで初めて 可変絞り機能 を搭載 しており、低照度環境での撮影品質が向上し、より鮮明なディテールを捉えられます。
+
+さらに、 カスタムコントロール により、絞り値、シャッタースピード、ホワイトバランス、ヒストグラムを調整可能です。
+
+Appleは、3人のプロの写真家が、i Phone18 Proだけで撮影した作品 を公開しました。
+
+これらの作品をまとめた写真展 「What Holds Us」 が、9月18日から20日までニューヨークで開催し、その後はロンドンと上海でも開催予定です。
+
+「What Holds Us」は、日本語だと 「私たちをつなぎ、支えるもの」 といった意味です。写真展では、「触れること」「視線」「思いやり」「共有する体験」な…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/16/Apple-iPhone18Pro-WhatHoldsUs-1-3.jpg" alt="iPhone18 Proだけで著名写真家3人が撮影！可変絞りを活かした作品をApple公開"></p>]]></description><source url="https://iphone-mania.jp/iphone18-606080/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/16/Apple-iPhone18Pro-WhatHoldsUs-1-3.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/16/Apple-iPhone18Pro-WhatHoldsUs-1-3.jpg"/></item>
+<item><title>iOS27で天気アプリ刷新〜「降水量」と「風」の予報表示を追加</title><link>https://iphone-mania.jp/ios-606081/</link><guid isPermaLink="true">https://iphone-mania.jp/ios-606081/</guid><pubDate>Wed, 16 Sep 2026 17:40:00 +0000</pubDate><description><![CDATA[<p>iOS27で天気アプリ刷新〜「降水量」と「風」の予報表示を追加
+
+先日正式版が公開されたiOS27では、天気アプリのユーザーインターフェース（UI）が刷新され、新たに「降水量」と「風」の予報表示が追加されていることがわかりました。実際にどのような表示になっているのか、詳しく見ていきましょう。
+
+iOS27で天気アプリ刷新〜「降水量」と「風」の予報表示を追加
+
+先日正式版が公開されたiOS27 では、 天気アプリのユーザーインターフェース（UI）が刷新 され、新たに 「降水量」と「風」の予報表示が追加 されていることがわかりました。実際にどのような表示になっているのか、詳しく見ていきましょう。
+
+これまで天気の状況が中心だった 天気アプリ の予報表示に、新たに 「降水量」と「風」が追加 され、 全部で3種類から表示を切り替えられる ようになりました。
+
+降水量表示では、今後の時間帯ごとの降水確率に加え、10日間予報についても降水確率や降水量、雨が予想される時間帯などを確認できます。
+
+風表示では、時間ごとの突風の速度や、今後数日間に予想される風速の範囲が表示されます。
+
+これまでも降水量や風に関する詳しい情報は天気アプリ内で確認できましたが、iOS27では予報表示を切り替えるだけで、時間別予報と10日間予報をまとめて確認できるようになりました。
+
+雨が降りそうな時間帯や風が強まるタイミングを知りたいときに、より素早く必要な情報へアクセスできるようになったといえそうです。
+
+--PR-- [公式] - iPhoneの購入や予約はオンラインで確実に！
+
+iPhoneなどApple製品の疑問は iMコミュニティ で聞けます。詳しい読者が答えてくれます。</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/17/718264731_17948100186193171_7955964460722320629_n.jpg" alt="iOS27で天気アプリ刷新〜「降水量」と「風」の予報表示を追加"></p>]]></description><source url="https://iphone-mania.jp/ios-606081/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/17/718264731_17948100186193171_7955964460722320629_n.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/17/718264731_17948100186193171_7955964460722320629_n.jpg"/></item>
+<item><title>ドコモ、iPhone18 ProのAppleCare+取扱いを9月28日開始！発売直後は要注意</title><link>https://iphone-mania.jp/iphone18-606066/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-606066/</guid><pubDate>Wed, 16 Sep 2026 15:53:42 +0000</pubDate><description><![CDATA[<p>ドコモ、iPhone18 ProのAppleCare+取扱いを9月28日開始！発売直後は要注意
+
+NTTドコモは、iPhone18 ProとiPhone18 Pro
+
+ドコモ、iPhone18 ProのAppleCare+取扱いを9月28日開始！発売直後は要注意
+
+NTTドコモ は、 iPhone18 Pro と iPhone18 Pro Max 向け「 AppleCare+ 」の取り扱いを9月28日（月）に開始します。両モデルの発売は9月18日（金）で、ドコモで加入できるまで10日間の空白があります。発売直後から補償を付けたい場合は、Appleへの電話やiPhoneの「設定」などから手続きでき、9月28日まで待つ必要はありません。
+
+NTTドコモは9月16日、 iPhone18 Pro と iPhone18 Pro Max 向けの「 AppleCare+ 」の取り扱いを9月28日（月）から開始すると発表しました。
+
+NTTドコモでは、 iPhone18 ProとiPhone18 Pro Max の予約受付を9月12日（土）に開始しており、9月18日（金）に発売予定です。
+
+つまり、iPhone18 ProとiPhone18 Pro Maxの発売日からドコモでの取り扱い開始までは、 10日間の空白期間 があります。
+
+AppleCare+は、デバイスの購入時または購入後30日以内に加入できます。
+
+最新のiPhoneをAppleCare+で保護したい方は、9月28日を待たずにAppleCare+に加入することをお勧めします。
+
+そこで、NTTドコモでiPhone18 Pro/iPhone18 Pro Maxを発売日に購入する方には、AppleCare+に加入する以下の方法があります。
+
+NTTドコモは、9月28日までにAppleCare+に加入を希望する場合は、アクティベー…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/11/docomo-iPhone18Price.jpg" alt="ドコモ、iPhone18 ProのAppleCare+取扱いを9月28日開始！発売直後は要注意"></p>]]></description><source url="https://iphone-mania.jp/iphone18-606066/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/11/docomo-iPhone18Price.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/11/docomo-iPhone18Price.jpg"/></item>
+<item><title>iOS27に誕生日を祝う新演出〜相手に電話すると花火が表示</title><link>https://iphone-mania.jp/ios-606064/</link><guid isPermaLink="true">https://iphone-mania.jp/ios-606064/</guid><pubDate>Wed, 16 Sep 2026 15:45:54 +0000</pubDate><description><![CDATA[<p>iOS27に誕生日を祝う新演出〜相手に電話すると花火が表示
+
+iOS27の正式版がリリースされたばかりですが、新機能のひとつとして、誕生日の相手に電話をかけようとすると花火があがる演出が追加されていることが判明しました。これは、もともとApple Watchで自分の誕生日に表示されていた花火のアニメーションとほぼ同じとみられており、Apple
+
+iOS27の正式版 がリリースされたばかりですが、新機能のひとつとして、 誕生日の相手に電話をかけようとすると花火があがる演出 が追加されていることが判明しました。これは、もともとApple Watchで自分の誕生日に表示されていた花火のアニメーションとほぼ同じとみられており、Apple Watchユーザーには馴染みのある演出がiOSにもやってきた形です。
+
+XユーザーのTiino-X83氏が、iOS27で新たに追加された 花火のアニメーション を共有しています。このアニメーションは、 電話をかけようとする相手の誕生日にのみ表示 されるようです。
+
+Nouveautés iOS 27 ! 📱 Une animation s’affiche désormais lorsque vous appelez un contact le jour de son anniversaire ! 🎂 https://t.co/V1TxKkpk0A
+
+もちろん、電話をかける相手の誕生日が連絡先アプリに登録されていなければ、花火があがることはありません。
+
+この花火のアニメーションは、 Apple Watchで自分の誕生日に表示されるものとほぼ同じ とのことで、今回の新機能はApple Watchで使われていた演出をiPhoneにも拡張したものとみることができそうです。
+
+メッセージアプリでは以前から、特定のメッセージを送信すると、さまざまなエフェクト…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/17/68543-144428-000-lead-birthday-xl.jpg" alt="iOS27に誕生日を祝う新演出〜相手に電話すると花火が表示"></p>]]></description><source url="https://iphone-mania.jp/ios-606064/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/17/68543-144428-000-lead-birthday-xl.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/17/68543-144428-000-lead-birthday-xl.jpg"/></item>
+<item><title>iPhone Duoの2眼カメラで使える機能と使えない機能を確認</title><link>https://iphone-mania.jp/iphone18-606055/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-606055/</guid><pubDate>Wed, 16 Sep 2026 15:05:00 +0000</pubDate><description><![CDATA[<p>iPhone Duoの2眼カメラで使える機能と使えない機能を確認
+
+2026年10月に発売されるApple初の折りたたみiPhone「iPhone Duo」について、搭載されたカメラで利用できる機能と利用できない機能を、Appleが公開している仕様ページで確認し、iPhone18 Proシリーズと比較しました。
+
+iPhone Duoの2眼カメラで使える機能と使えない機能を確認
+
+2026年10月に発売されるApple初の折りたたみiPhone「 iPhone Duo 」について、 搭載されたカメラで利用できる機能と利用できない機能 を、Appleが公開している仕様ページで確認し、 iPhone18 Proシリーズと比較 しました。
+
+iPhone Duoは iPhone18 Proシリーズほど高度なカメラ機能を備えていない 一方、 2つのディスプレイを活用した独自機能が複数用意 されています。
+
+iPhone Duo の折りたたみ構造と2つのディスプレイを活用した主なカメラ機能は、次の通りです。
+
+スマート撮影は、集合写真を撮影する際に、全員がフレーム内に入り撮影準備が整ったことをオンデバイスAIが判断し、自動で撮影する機能です。
+
+iPhone Duoを半分折りたたんだ状態で自立させてメインカメラを被写体に向ければ、撮影者自身も集合写真に加わることができます。
+
+キッズキューでは、子どもの写真を撮影する際にアウターディスプレイへアニメーションを表示し、カメラの方向へ自然に視線を向けてもらうことができます。
+
+Appleの説明では、子どもの興味を引くための遊び心あるアニメーションが表示されます。
+
+Duo Previewでは、撮影される人がアウターディスプレイに表示されるライブプレビューを確認できます。
+
+撮影前に自分の表情やポーズ、フレーミングを確認できるため、撮影者だ…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/16/iphone-duo-camera.jpg" alt="iPhone Duoの2眼カメラで使える機能と使えない機能を確認"></p>]]></description><source url="https://iphone-mania.jp/iphone18-606055/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/16/iphone-duo-camera.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/16/iphone-duo-camera.jpg"/></item>
+<item><title>Xiaomi Pad 9/9 Pro、中国で予約開始。144Hz画面、ProはSnapdragon 8 Gen 5搭載</title><link>https://smhn.info/202609-xiaomi-pad-9-pro-china-preorders</link><guid isPermaLink="true">https://smhn.info/202609-xiaomi-pad-9-pro-china-preorders</guid><pubDate>Wed, 16 Sep 2026 13:04:39 +0000</pubDate><description><![CDATA[<p>Xiaomi Pad 9/9 Pro、中国で予約開始。144Hz画面、ProはSnapdragon 8 Gen 5搭載
+
+Xiaomiの新型タブレット「Xiaomi Pad 9」および「Xiaomi Pad 9 Pro」の予約受付が中国で始まりました。いずれも144Hz表示に対応したハイエンドタブレットです。Xiaomi Pad 9は11.2型の3.2K液晶（最大輝度800nit）を備え、SoCには...
+
+Xiaomi Pad 9/9 Pro、中国で予約開始。144Hz画面、ProはSnapdragon 8 Gen 5搭載
+
+Xiaomiの新型タブレット「Xiaomi Pad 9」および「Xiaomi Pad 9 Pro」の予約受付が中国で始まりました。いずれも144Hz表示に対応したハイエンドタブレットです。
+
+Xiaomi Pad 9は11.2型の3.2K液晶（最大輝度800nit）を備え、SoCにはSnapdragon 8s Gen 4を採用。
+
+上位のPad 9 Proは12.5型（最大輝度1000nit）へと大型化し、Snapdragon 8 Gen 5を搭載します。
+
+実行メモリはPad 9が最大12GB、Proが最大16GB。ストレージは両機種とも最大256GBで、最小構成は実行メモリ8GB/ストレージ128GBから用意されます。
+
+バッテリー容量と充電出力は、Pad 9が9720mAh・45W、Proが1万1000mAh・67W。Pad 9が厚さ5.75mm・重さ485g、大型のProでも厚さ5.8mm・重さ494gと、いずれも薄型軽量に抑えられています。
+
+OSにはHyperOS 4を搭載。「WPS for Pad」や「CapCut Pro」などに対応し、Xiaomiはビジネスやクリエイティブ用途での活用もアピール。
+
+予約は中国のJD.comで受け付け…</p><p><img src="https://smhn.info/wp-content/uploads/2026/09/d60d683cc9a124a2a38d458f04068fb4.webp" alt="Xiaomi Pad 9/9 Pro、中国で予約開始。144Hz画面、ProはSnapdragon 8 Gen 5搭載"></p>]]></description><source url="https://smhn.info/202609-xiaomi-pad-9-pro-china-preorders">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/09/d60d683cc9a124a2a38d458f04068fb4.webp" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/09/d60d683cc9a124a2a38d458f04068fb4.webp"/></item>
+<item><title>iOS26.7やmacOS 26.7など旧OS向けのセキュリティ更新が一斉に配信</title><link>https://iphone-mania.jp/ios-606052/</link><guid isPermaLink="true">https://iphone-mania.jp/ios-606052/</guid><pubDate>Wed, 16 Sep 2026 12:50:24 +0000</pubDate><description><![CDATA[<p>iOS26.7やmacOS 26.7など旧OS向けのセキュリティ更新が一斉に配信
+
+Appleは、iOS27やmacOS 27（Golden Gate）の正式リリースに合わせて、従来のOSを利用しているユーザー向けにセキュリティアップデートを一斉配信しました。
+
+iOS26.7やmacOS 26.7など旧OS向けのセキュリティ更新が一斉に配信
+
+Appleは、 iOS27 やmacOS 27（Golden Gate）の正式リリースに合わせて、従来のOSを利用しているユーザー向けにセキュリティアップデートを一斉配信しました。
+
+対象はiOS26.7、iPadOS26.7、macOS Tahoe 26.7、macOS Sequoia 15.8で、新機能の追加はなく80件以上の脆弱性修正が中心です。メジャーアップデートを見送る場合の判断材料もあわせて紹介します。
+
+今回リリースされた主な旧デバイス向けのバージョンとビルドナンバーは以下の通りです。
+
+今回のアップデートでは目立った新機能の追加はなく、セキュリティ脆弱性の修正および不具合の解消、システムの安定性向上が主な目的となっています。
+
+同日リリースされた「iOS27」では100件を超える脆弱性が修正されていますが、「iOS26.7」でもそのうち75件の共通修正を含む80件以上のセキュリティ対策が適用されています。悪意のあるコード実行につながるおそれのある カーネルレベルの脆弱性 なども含まれており、重要なアップデートです。
+
+macOS Sequoia / Tahoe向けにもセキュリティ修正
+
+Mac向けにも「 macOS Tahoe 26.7 」と「 macOS Sequoia 15.8 」がリリースされ、最新のmacOS Golden Gateと同等のセキュリティ修正が行われています。
+
+Appleは新しいメジャーOSの…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/16/iOS26.7-1.png" alt="iOS26.7やmacOS 26.7など旧OS向けのセキュリティ更新が一斉に配信"></p>]]></description><source url="https://iphone-mania.jp/ios-606052/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/16/iOS26.7-1.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/16/iOS26.7-1.png"/></item>
+<item><title>iPhoneのモバイルバッテリーは5,000mAhで足りる？3台を実測</title><link>https://iphone-mania.jp/goods-606047/</link><guid isPermaLink="true">https://iphone-mania.jp/goods-606047/</guid><pubDate>Wed, 16 Sep 2026 12:20:13 +0000</pubDate><description><![CDATA[<p>iPhoneのモバイルバッテリーは5,000mAhで足りる？3台を実測
+
+5,000mAh前後のモバイルバッテリー3台を、同じiPhone15 Proを使って実測しました。同じ容量帯でも充電速度や満充電できるかどうかに差が出る結果になっています。「5,000mAhあれば十分」と考えている人も、自分の使い方と照らし合わせて確認してみてください。
+
+iPhoneのモバイルバッテリーは5,000mAhで足りる？3台を実測
+
+5,000mAh前後のモバイルバッテリー3台を、同じiPhone15 Proを使って実測しました。同じ容量帯でも充電速度や満充電できるかどうかに差が出る結果になっています。「5,000mAhあれば十分」と考えている人も、自分の使い方と照らし合わせて確認してみてください。
+
+今回実測したのは SOLIDZ Power Bank Model FT ・ Anker 321 Power Bank（PowerCore 5K）・TNTOR WT-H500 の3台です。iPhone15 Proを使って充電速度を確認しました。
+
+※SOLIDZは別日・別条件での実測のため、3台を厳密に横並びで比較したものではありません。参考値として見てください。
+
+AnkerとTNTORはどちらもiPhone15 Proを100%まで充電でき、本体にも残量が残りました。一方、SOLIDZはiPhone15 Proを2%から充電し始め、98%に達した時点で本体のバッテリーが切れています。
+
+公称容量が同じ5,000mAh前後でも、今回の実測ではiPhoneを100%まで充電できるかどうかに差が出ました。 「5,000mAh＝iPhoneを1回フル充電できる」と考えていると、想定より少ない結果になることがあります。
+
+今回の実測では、80%到達までの時間に差が出ました。SOLIDZが53分、An…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/16/03728440ea1ebf223c1197d1319ad747.png" alt="iPhoneのモバイルバッテリーは5,000mAhで足りる？3台を実測"></p>]]></description><source url="https://iphone-mania.jp/goods-606047/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/16/03728440ea1ebf223c1197d1319ad747.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/16/03728440ea1ebf223c1197d1319ad747.png"/></item>
+<item><title>わが子の写真、もう少しだけこだわりたい人へ。iPhone 18 Pro、先行レビュー</title><link>https://gori.me/iphone/170298</link><guid isPermaLink="true">https://gori.me/iphone/170298</guid><pubDate>Wed, 16 Sep 2026 12:00:41 +0000</pubDate><description><![CDATA[<p>わが子の写真、もう少しだけこだわりたい人へ。iPhone 18 Pro、先行レビュー
+
+発売前のiPhone 18 Proを撮影中心に持ち歩いてきた。17 Proからの買い替えは正直すすめないが、絞ることを覚えるだけで並んだ子どもたち全員の顔にピントが合う。走り回る子には不向きという注意点も含めて、子育て中の親目線でカメラの使い分けを解説する。16 Proや15 Pro、14 Proから2年周期で乗り換える人にも最適な1台だ。
+
+わが子の写真、もう少しだけこだわりたい人へ。iPhone 18 Pro、先行レビュー
+
+ƒ/4まで絞れば、テーブルを囲んだ子どもたち全員の顔にピントが合う集合写真が撮れるようになった。ただし走り回る子には不向きで、開放との使い分けが必要
+
+17 Proは基本性能がすでに高く、強い動機がなければ18 Proへの買い替えは見送ってよいというのが僕の結論
+
+本体は重くなったが、電池持ちは去年のPro Max相当まで伸びた。子どもと出かける日ほど効いてくる変化だ
+
+今の時代、ほとんどの人にとっての「良いカメラ」は、スマートフォンのカメラだ。そしてAppleのラインナップの中でいちばん良いカメラを積んでいるのは、いつだってProモデルだった。
+
+その最新モデルである「 iPhone 18 Pro 」と「 iPhone 18 Pro Max 」を、発売に先駆けて一足先に使わせていただいている。そして今年もまた、Appleはカメラを大きく動かしてきた。
+
+iPhone 18 Pro Max （左）と iPhone 18 Pro （右）
+
+ただ、その「大きく」の中身が、事前に思っていたものとはずいぶん違った。
+
+僕はこの数日、18 Proを持って新宿御苑を歩き回り、花にレンズを向け、街でスタバのドリンクを撮り、ごはんを撮った。撮って、確かめて、また撮った。
+
+結論…</p><p><img src="https://gori.me/uploads/2026/09/iPhone18Pro-Review-Burgundy-camera-features-07-800x533.jpg" alt="わが子の写真、もう少しだけこだわりたい人へ。iPhone 18 Pro、先行レビュー"></p>]]></description><source url="https://gori.me/iphone/170298">gori.me</source><media:content url="https://gori.me/uploads/2026/09/iPhone18Pro-Review-Burgundy-camera-features-07-800x533.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/09/iPhone18Pro-Review-Burgundy-camera-features-07-800x533.jpg"/></item>
 <item><title>iPhone 18 Proレビュー：絞ってこそ本領発揮</title><link>https://gori.me/iphone/170257</link><guid isPermaLink="true">https://gori.me/iphone/170257</guid><pubDate>Wed, 16 Sep 2026 12:00:37 +0000</pubDate><description><![CDATA[<p>iPhone 18 Proレビュー：絞ってこそ本領発揮
 
 iPhone 18 Proのメインカメラに載った6枚羽根の可変絞りを実機で検証した。ƒ/1.48の開放より価値があるのは「絞れること」だ。ƒ/4まで絞ることで初めて撮れた写真、光芒の出方のクセ、ISOが暴れる条件、そして操作性に残った明確な課題までカメラ好き目線でまとめた。
@@ -39,7 +320,7 @@ iPhone17 Proで使用していた MagSafe対応iPhone17 Proテックウーブン
 こちらの写真はMagSafe対応テックウーブンケース外側の比較で、右側がiPhone18 Pro対応シャンブレーブルー、左側がiPhone17 Pro対応ブルーです。
 
 MagSafe対応テックウー…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/16/iPhone18-Pro-MagSafe-gen_9.jpg" alt="【レビュー】iPhone18 Proテックウーブンケースを17 Proに装着してみた"></p>]]></description><source url="https://iphone-mania.jp/iphone18-606035/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/16/iPhone18-Pro-MagSafe-gen_9.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/16/iPhone18-Pro-MagSafe-gen_9.jpg"/></item>
-<item><title>PC��XBOX�����ޥۤؤ���³�򥹥ࡼ�����ڤ��ؤ�����SteelSeries��������ѥåɡ�Aeon Pro�פ�9��25��ȯ��</title><link>https://www.4gamer.net/games/037/G003732/20260916040/</link><guid isPermaLink="true">https://www.4gamer.net/games/037/G003732/20260916040/</guid><pubDate>Wed, 16 Sep 2026 11:25:12 +0000</pubDate><description><![CDATA[<p>PC��XBOX�����ޥۤؤ���³�򥹥ࡼ�����ڤ��ؤ�������SteelSeries���������ѥåɡ�Aeon Pro�פ�9��25��ȯ��
+<item><title>PC��XBOX�����ޥۤؤ���³�򥹥ࡼ�����ڤ��ؤ�������SteelSeries���������ѥåɡ�Aeon Pro�פ�9��25��ȯ��</title><link>https://www.4gamer.net/games/037/G003732/20260916040/</link><guid isPermaLink="true">https://www.4gamer.net/games/037/G003732/20260916040/</guid><pubDate>Wed, 16 Sep 2026 11:25:12 +0000</pubDate><description><![CDATA[<p>PC��XBOX�����ޥۤؤ���³�򥹥ࡼ�����ڤ��ؤ�������SteelSeries���������ѥåɡ�Aeon Pro�פ�9��25��ȯ��
 
 2026年9月16日，「SteelSeries」は，PC，XBOX，モバイルデバイスなどに対応するワイヤレスゲームパッド「Aeon Pro」を発表した。複数の接続先をスムーズに切り替えられるほか，2…
 
@@ -53,7 +334,7 @@ PCとXBOX，スマホへの接続をスムーズに切り替えられるSteelSer
 
 ↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
 
-↓アイコン/タイトル↓ 夏は七不思議ならぬ“七不穏”で暑さを忘却の彼方へ――涼しく…</p><p><img src="https://www.4gamer.net/games/037/G003732/20260916040/SS/002.jpg" alt="PC��XBOX�����ޥۤؤ���³�򥹥ࡼ�����ڤ��ؤ�����SteelSeries��������ѥåɡ�Aeon Pro�פ�9��25��ȯ��"></p>]]></description><source url="https://www.4gamer.net/games/037/G003732/20260916040/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/037/G003732/20260916040/SS/002.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/037/G003732/20260916040/SS/002.jpg"/></item>
+↓アイコン/タイトル↓ 夏は七不思議ならぬ“七不穏”で暑さを忘却の彼方へ――涼しく…</p><p><img src="https://www.4gamer.net/games/037/G003732/20260916040/SS/002.jpg" alt="PC��XBOX�����ޥۤؤ���³�򥹥ࡼ�����ڤ��ؤ�������SteelSeries���������ѥåɡ�Aeon Pro�פ�9��25��ȯ��"></p>]]></description><source url="https://www.4gamer.net/games/037/G003732/20260916040/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/037/G003732/20260916040/SS/002.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/037/G003732/20260916040/SS/002.jpg"/></item>
 <item><title>【大阪・関西4コマ】胡桃ちの作品のKindle版が全巻1冊99円</title><link>https://komameblog.jp/sale/kindle-20260919-kurumi/</link><guid isPermaLink="true">https://komameblog.jp/sale/kindle-20260919-kurumi/</guid><pubDate>Wed, 16 Sep 2026 11:13:56 +0000</pubDate><description><![CDATA[<p>【大阪・関西4コマ】胡桃ちの作品のKindle版が全巻1冊99円
 
 AmazonのKindleストアにて、竹書房バンブーコミックスレーベルの胡桃ちの作品が全巻1冊99円で販売されています。セール期間は不明。著者の胡桃ちの先生は1980年代から活動する4コマ漫画家で、『なにわOL奮戦記』など大阪や関西を舞台に...
@@ -126,7 +407,7 @@ Amazonタイムセールにて、レノボの13インチハイエンドタブレ
 【Amazonタイムセール】Technicsの高音質ワイヤレスイヤホン「EAH-…
 
 【Amazonタイムセール】Raze…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/09/16/Idea_Tab_Pro_01.jpg" alt="【Amazonタイムセール】Snapdragon 8s Gen 4搭載の13インチタブレット「Lenovo Idea Tab Pro」が20％オフ"></p>]]></description><source url="https://www.gdm.or.jp/pressrelease/2026/0916/652644">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/09/16/Idea_Tab_Pro_01.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/09/16/Idea_Tab_Pro_01.jpg"/></item>
-<item><title>���Хե����ɥХå��ǥ�����ؤ������������PC�ѥإåɥ��åȡ�Kraken V4 X Sensa HD Haptics Edition�פ�Razer����</title><link>https://www.4gamer.net/games/023/G002318/20260916032/</link><guid isPermaLink="true">https://www.4gamer.net/games/023/G002318/20260916032/</guid><pubDate>Wed, 16 Sep 2026 10:00:32 +0000</pubDate><description><![CDATA[<p>���Хե����ɥХå��ǥ������ؤ���������������PC�ѥإåɥ��åȡ�Kraken V4 X Sensa HD Haptics Edition�פ�Razer����
+<item><title>���Хե����ɥХå��ǥ������ؤ���������������PC�ѥإåɥ��åȡ�Kraken V4 X Sensa HD Haptics Edition�פ�Razer����</title><link>https://www.4gamer.net/games/023/G002318/20260916032/</link><guid isPermaLink="true">https://www.4gamer.net/games/023/G002318/20260916032/</guid><pubDate>Wed, 16 Sep 2026 10:00:32 +0000</pubDate><description><![CDATA[<p>���Хե����ɥХå��ǥ������ؤ���������������PC�ѥإåɥ��åȡ�Kraken V4 X Sensa HD Haptics Edition�פ�Razer����
 
 2026年9月16日，Razerは，ゲームの状況に合わせて振動するハプティクス機能を内蔵したPC用有線ゲーミングヘッドセット「Kraken V4 X Sensa HD Haptics Edition…
 
@@ -140,7 +421,7 @@ Amazonタイムセールにて、レノボの13インチハイエンドタブレ
 
 ↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
 
-↓アイコン/タイトル↓ 夏は七…</p><p><img src="https://www.4gamer.net/games/023/G002318/20260916032/SS/003.jpg" alt="���Хե����ɥХå��ǥ�����ؤ������������PC�ѥإåɥ��åȡ�Kraken V4 X Sensa HD Haptics Edition�פ�Razer����"></p>]]></description><source url="https://www.4gamer.net/games/023/G002318/20260916032/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/023/G002318/20260916032/SS/003.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/023/G002318/20260916032/SS/003.jpg"/></item>
+↓アイコン/タイトル↓ 夏は七…</p><p><img src="https://www.4gamer.net/games/023/G002318/20260916032/SS/003.jpg" alt="���Хե����ɥХå��ǥ������ؤ���������������PC�ѥإåɥ��åȡ�Kraken V4 X Sensa HD Haptics Edition�פ�Razer����"></p>]]></description><source url="https://www.4gamer.net/games/023/G002318/20260916032/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/023/G002318/20260916032/SS/003.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/023/G002318/20260916032/SS/003.jpg"/></item>
 <item><title>【Amazonタイムセール】Razerのラピトリ対応キーボード「Huntsman V3 Pro Tenkeyless」が34％オフ</title><link>https://www.gdm.or.jp/pressrelease/2026/0916/652634</link><guid isPermaLink="true">https://www.gdm.or.jp/pressrelease/2026/0916/652634</guid><pubDate>Wed, 16 Sep 2026 09:51:31 +0000</pubDate><description><![CDATA[<p>【Amazonタイムセール】Razerのラピトリ対応キーボード「Huntsman V3 Pro Tenkeyless」が34％オフ
 
 Amazonタイムセールにて、Razerのゲーミングキーボード「Huntsman V3 Pro Tenkeyless JP (White Edition)」が特別価格で販売中。通常税込34,980円のところ、34％オフの税込23,164円（11,816円引き）のタイムセール特価になっている。
@@ -4821,27 +5102,6 @@ KDDIは2026年9月12日、「 iPhone 18 Pro Max 」「 iPhone 18 Pro 」のau On
 価格はすべて税込。 iPhone 18 Pro （256GB）の機種代金は268,800円、 iPhone 18 Pro Max （256GB）は295,900円 。auは他社と違い、MNP・新規・番号移行・機種変更のどのパターンでも機種代金そのものは同額で、差がつくのは返却時の実質負担額だ。
 
 そのなかで目を引く数字がある。 スマホトクするプログラム で iPhone 18 Proの256GB をMNP・新規・番号移行で買い、25カ月目に機種を回収してもらうと、 実質負担額は66,900円 …</p><p><img src="https://gori.me/uploads/2026/09/iPhoneDuo-iPhone18Pro-AppleWatch-Series12-Ultra4-AirPods5-SepEvent2026-Hands-On-66-1-800x534.jpg" alt="au、iPhone 18 Proの機種代金を発表。256GBモデル実質6.6万円で勝負"></p>]]></description><source url="https://gori.me/iphone/iphone-news/170106">gori.me</source><media:content url="https://gori.me/uploads/2026/09/iPhoneDuo-iPhone18Pro-AppleWatch-Series12-Ultra4-AirPods5-SepEvent2026-Hands-On-66-1-800x534.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/09/iPhoneDuo-iPhone18Pro-AppleWatch-Series12-Ultra4-AirPods5-SepEvent2026-Hands-On-66-1-800x534.jpg"/></item>
-<item><title>9月12日午後9時、iPhone18 Pro／Pro Maxの予約開始｜各社の受付方法と価格の発表状況</title><link>https://iphone-mania.jp/iphone18-605753/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-605753/</guid><pubDate>Sat, 12 Sep 2026 09:00:00 +0000</pubDate><description><![CDATA[<p>9月12日午後9時、iPhone18 Pro／Pro Maxの予約開始｜各社の受付方法と価格の発表状況
-
-iPhone18 Pro／Pro Maxの予約が今夜9月12日（土）午後9時に始まります。今夜の時間の流れ、ドコモ・au・ソフトバンク・楽天モバイル・Apple Storeの受付方法、価格の発表状況、開始前の最終チェックをまとめました。
-
-9月12日午後9時、iPhone18 Pro／Pro Maxの予約開始｜各社の受付方法と価格の発表状況
-
-iPhone18 ProとiPhone18 Pro Maxの予約受付が、 2026年9月12日（土）午後9時 に始まりました。Apple Store・ドコモ・au・ソフトバンク・楽天モバイルの5か所とも同じ時刻で、発売日は9月18日（金）です。販売価格は4社とも発表済みです（ドコモは9月11日、楽天モバイル・au・ソフトバンクは9月12日）。
-
-この記事は受付開始前の準備としてまとめたものです。開始までの流れ、各社の受付方法、価格の発表状況、最終チェックを残しています。
-
-※上記は広告（アフィリエイト）を含みます。価格・特典・条件は各公式サイトでご確認ください。
-
-午後8時30分 ：ドコモオンラインショップがメンテナンスに入る（午後9時まで）。ドコモで予約する方は、その前にdアカウントでログインを済ませておく
-
-午後9時 ：Apple Store・ドコモ・au・ソフトバンク・楽天モバイルが一斉に受付開始
-
-午後9時〜 ：Apple Storeの配送予定日は、人気の容量・色から順に後ろ倒しになる。編集部は昨年、開始1分後の注文で発売日に受け取れた
-
-店舗 ：午後9時が営業時間外の店舗は、翌9月13日（日）の開店時から受付
-
-4社ともオンラインショップと店舗で受け付けます。オンラインは午後9時ちょうどから申し込めるうえ、店舗より事務手…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/thumb_evening_v2.png" alt="9月12日午後9時、iPhone18 Pro／Pro Maxの予約開始｜各社の受付方法と価格の発表状況"></p>]]></description><source url="https://iphone-mania.jp/iphone18-605753/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/thumb_evening_v2.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/thumb_evening_v2.png"/></item>
 <item><title>iPhone（2028）でフルスクリーン実現か〜TSMCの1.4nm量産計画に進展</title><link>https://iphone-mania.jp/apple-605737/</link><guid isPermaLink="true">https://iphone-mania.jp/apple-605737/</guid><pubDate>Sat, 12 Sep 2026 09:00:00 +0000</pubDate><description><![CDATA[<p>iPhone（2028）でフルスクリーン実現か〜TSMCの1.4nm量産計画に進展
 
 TSMCが、A20 ProやM6を製造する最新の2nmプロセスの次となる1.4nmプロセスについて、2027年から試作を開始するとサプライチェーン関連情報として報じられています。
@@ -4867,6 +5127,27 @@ M6を先行させたのは、出荷数量の比較的少ないチップで製造
 2028年春に1.4nmプロセスの製造規模が拡大すれば、同年秋に発売される次世代iPhone向けA22 Proを大量生産するうえで好都合です。
 
 2028年モデルはiPhone20 ProもしくはiPhone21 Proシリーズになるとの予想があ…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/12/iphone-20-concept-0912.jpg" alt="iPhone（2028）でフルスクリーン実現か〜TSMCの1.4nm量産計画に進展"></p>]]></description><source url="https://iphone-mania.jp/apple-605737/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/12/iphone-20-concept-0912.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/12/iphone-20-concept-0912.jpg"/></item>
+<item><title>9月12日午後9時、iPhone18 Pro／Pro Maxの予約開始｜各社の受付方法と価格の発表状況</title><link>https://iphone-mania.jp/iphone18-605753/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-605753/</guid><pubDate>Sat, 12 Sep 2026 09:00:00 +0000</pubDate><description><![CDATA[<p>9月12日午後9時、iPhone18 Pro／Pro Maxの予約開始｜各社の受付方法と価格の発表状況
+
+iPhone18 Pro／Pro Maxの予約が今夜9月12日（土）午後9時に始まります。今夜の時間の流れ、ドコモ・au・ソフトバンク・楽天モバイル・Apple Storeの受付方法、価格の発表状況、開始前の最終チェックをまとめました。
+
+9月12日午後9時、iPhone18 Pro／Pro Maxの予約開始｜各社の受付方法と価格の発表状況
+
+iPhone18 ProとiPhone18 Pro Maxの予約受付が、 2026年9月12日（土）午後9時 に始まりました。Apple Store・ドコモ・au・ソフトバンク・楽天モバイルの5か所とも同じ時刻で、発売日は9月18日（金）です。販売価格は4社とも発表済みです（ドコモは9月11日、楽天モバイル・au・ソフトバンクは9月12日）。
+
+この記事は受付開始前の準備としてまとめたものです。開始までの流れ、各社の受付方法、価格の発表状況、最終チェックを残しています。
+
+※上記は広告（アフィリエイト）を含みます。価格・特典・条件は各公式サイトでご確認ください。
+
+午後8時30分 ：ドコモオンラインショップがメンテナンスに入る（午後9時まで）。ドコモで予約する方は、その前にdアカウントでログインを済ませておく
+
+午後9時 ：Apple Store・ドコモ・au・ソフトバンク・楽天モバイルが一斉に受付開始
+
+午後9時〜 ：Apple Storeの配送予定日は、人気の容量・色から順に後ろ倒しになる。編集部は昨年、開始1分後の注文で発売日に受け取れた
+
+店舗 ：午後9時が営業時間外の店舗は、翌9月13日（日）の開店時から受付
+
+4社ともオンラインショップと店舗で受け付けます。オンラインは午後9時ちょうどから申し込めるうえ、店舗より事務手…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/thumb_evening_v2.png" alt="9月12日午後9時、iPhone18 Pro／Pro Maxの予約開始｜各社の受付方法と価格の発表状況"></p>]]></description><source url="https://iphone-mania.jp/iphone18-605753/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/thumb_evening_v2.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/thumb_evening_v2.png"/></item>
 <item><title>iPhone18 ProとiPhone Duoの壁紙登場〜ダイナミック版も公開</title><link>https://iphone-mania.jp/iphone18-605784/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-605784/</guid><pubDate>Sat, 12 Sep 2026 08:23:33 +0000</pubDate><description><![CDATA[<p>iPhone18 ProとiPhone Duoの壁紙登場〜ダイナミック版も公開
 
 iPhone18 Proシリーズの本体カラーに合わせた4種類の壁紙と、iPhone Duo向けのライト版、ダーク版、ダイナミック壁紙を、Apple Wallpapers氏（＠applewpapers）が制作・公開しました。
@@ -8509,313 +8790,4 @@ Windows11やWindows10において、『ファイル履歴』が動作しない�
 本不具合にお困りの方は、当該セキュリティ更新プログラム(Windows11 25H2 / 24H2はKB5124008、Windows10はKB5122878)のアンインストールをお試しください。
 
 ただし、セキュリティ更新プログラムをアンインストールすると、脆弱性が未修正のままになることには注意が必要です。…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2025/03/windows11-bloom-logo-image-r2.jpg" alt="ファイル履歴が機能しない・動作しない不具合。KB5124008やKB5122878に起因。Windows11およびWindows10にて"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-132136.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2025/03/windows11-bloom-logo-image-r2.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2025/03/windows11-bloom-logo-image-r2.jpg"/></item>
-<item><title>ワコム、液タブを大幅値上げ。最大48,400円値上げ。『MovinkPad 11』『MovinkPad Pro 14』が対象</title><link>https://www.nichepcgamer.com/archives/post-132131.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/post-132131.html</guid><pubDate>Wed, 09 Sep 2026 23:17:52 +0000</pubDate><description><![CDATA[<p>ワコム、液タブを大幅値上げ。最大48,400円値上げ。『MovinkPad 11』『MovinkPad Pro 14』が対象
-
-株式会社ワコムは、価格改定(値上げ)を発表しました。 値上げ対象製品はAndroid OS搭載の液晶ペンタブレット(液タブ)、クリエイティブポータブルパッド『Wacom MovinkPad』シリーズ...
-
-値上げ対象製品はAndroid OS搭載の液晶ペンタブレット(液タブ)、クリエイティブポータブルパッド『Wacom MovinkPad』シリーズ。以下の2製品が値上げとなります。
-
-Wacom MovinkPad 11 現行価格: 税込69,080円 / 新価格: 税込87,780円
-
-Wacom MovinkPad Pro 14 現行価格: 税込144,980円 / 新価格: 税込193,380円
-
-Wacom MovinkPad 11は現行価格の69,080円から18,700円値上げして87,780円へ、Wacom MovinkPad Pro 14は現行価格の144,980円から48,400円値上げして193,380円となります。
-
-値上げの理由は、メモリ、ストレージ、半導体部品、バッテリー等の各種部材価格高騰等により、価格の意地が困難になったためとのこと。
-
-2026年9月10日現在、Amazonにて、 Wacom MovinkPad 11が税込69,080円 、 Wacom MovinkPad Pro 14が税込144,980円 でまだ購入できます。『Wacom MovinkPad』シリーズの購入を検討されている方は、早めに決断した方がよいでしょう。
-
-筆者は自作PC歴20年以上の経験を持ち、Windows OSの細部にわたるカスタマイズや高度な設定、PCゲームの最適化、PCハードウェアとソフトウェアに関する専門知識をもとに、PC環境を快適にするための情報、不具合に遭わないようにするための情報、そして、ちょっとニッチよりなPCユーザー向け記事の執筆を2015年4月から11年にわたって行っています。
-
-長年の経験により得たノウハウを活…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2026/09/wacom-movinkpad.jpg" alt="ワコム、液タブを大幅値上げ。最大48,400円値上げ。『MovinkPad 11』『MovinkPad Pro 14』が対象"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-132131.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2026/09/wacom-movinkpad.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2026/09/wacom-movinkpad.jpg"/></item>
-<item><title>「Ryzen 5 9600」が初の3万円割れとなるも、Ryzenの複数モデルが25～30％台の大幅上昇 [9月前半のCPU価格]</title><link>https://akiba-pc.watch.impress.co.jp/docs/price/monthly_repo/2139666.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/price/monthly_repo/2139666.html</guid><pubDate>Wed, 09 Sep 2026 23:05:00 +0000</pubDate><description><![CDATA[<p>「Ryzen 5 9600」が初の3万円割れとなるも、Ryzenの複数モデルが25～30％台の大幅上昇 [9月前半のCPU価格]
-
-サハロフ佐藤(佐藤 純一)とAKIBA PC Hotline!編集部が、秋葉原各ショップのHDD、SSD、メモリ、CPUの店頭価格を独自に調査し、価格動向をお伝えするコーナーです。PCパーツ購入時などに参考としてご活用下さい。
-
-「Ryzen 5 9600」が初の3万円割れとなるも、Ryzenの複数モデルが25～30％台の大幅上昇 [9月前半のCPU価格]
-
-サハロフ佐藤(佐藤 純一)とAKIBA PC Hotline!編集部が、秋葉原各ショップのHDD、SSD、メモリ、CPUの店頭価格を独自に調査し、価格動向をお伝えするコーナーです。PCパーツ購入時などに参考としてご活用下さい。
-
-なお、掲載価格は調査時のものであり、この価格で販売されることを保証するものではありませんので、その点はご了承ください。
-
-「Ryzen 5 9600」が初の3万円割れとなるも、Ryzenの複数モデルが25～30％台の大幅上昇
-
-「Ryzen 9 9900X3D」が12,610円安の88,990円、「Ryzen 5 9600」が5,000円安の29,980円、「Ryzen 5 8500G」が2,231円安の25,749円など下落。「Ryzen 5 9600」が3万円を切るのは今回が初めてだ。
-
-8月29日(土)の調査では、「Ryzen 7 8700G」が5,000円安の38,800円、「Ryzen 5 7500F」が2,808円安の25,272円に下落。「Ryzen 7 8700G」が4万円以下で販売されるのも4月11日(39,780円)以来となる。
-
-ところが、今回調査の9月5日時点ではRyzenが全体的に値上がり。「Ryzen 9 9950X3D」が27,320…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2139/666/2026-0905-132845a.jpg" alt="「Ryzen 5 9600」が初の3万円割れとなるも、Ryzenの複数モデルが25～30％台の大幅上昇 [9月前半のCPU価格]"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/price/monthly_repo/2139666.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2139/666/2026-0905-132845a.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2139/666/2026-0905-132845a.jpg"/></item>
-<item><title>PC版『CONTROL Resonant』の最終動作スペック公開。パストレーシング有効の4K＠60 fpsだとGeForce RTX 5080が必要</title><link>https://www.nichepcgamer.com/archives/post-132125.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/post-132125.html</guid><pubDate>Wed, 09 Sep 2026 22:55:28 +0000</pubDate><description><![CDATA[<p>PC版『CONTROL Resonant』の最終動作スペック公開。パストレーシング有効の4K＠60 fpsだとGeForce RTX 5080が必要
-
-Remedy Entertainmentは、PC版『CONTROL Resonant』の最終動作スペックを公開しました。 PC版『CONTROL Resonant』のシステム要件は以下。 ▼全システ...
-
-Remedy Entertainmentは、 PC版『CONTROL Resonant』の最終動作スペックを公開しました。
-
-PC版『CONTROL Resonant』のシステム要件は以下。
-
-OS: Windows10 / Windowsw11 64-bit
-
-GPU: NVIDIA GeForce GTX 1070 / AMD Radeon RX 5600 XT
-
-CPU: Intel Core i5-8500 / AMD Ryzen 5 3500
-
-GPU: NVIDIA GeForce RTX 3060 Ti / AMD Radeon RX 6700 XT / Intel Arc B580
-
-CPU: Intel Core i7-10700 / AMD Ryzen 7 3700X
-
-GPU: NVIDIA GeForce RTX 3080 / AMD Radeon RX 6800 XT
-
-▼RAY TRACING MINIMUM (レイトレーシング有効時の最低)
-
-GPU: NVIDIA GeForce RTX 2060 SUPER / AMD Radeon RX 6600 / Intel Arc A580
-
-CPU: Intel Core i7-8700K / AMD Ryzen 5 3600X
-
-▼RAY TRACING RECOMMENDED (レイトレーシング有効時の推奨)
-
-GPU: NVIDIA GeForce RTX 4070 Ti / AMD Radeon RX 9070
-
-▼PATH TRACING ENTHUSIAST (パストレーシング有効時のエンスージアスト)
-
-PC版『CONTROL…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2026/06/control-r.jpg" alt="PC版『CONTROL Resonant』の最終動作スペック公開。パストレーシング有効の4K＠60 fpsだとGeForce RTX 5080が必要"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-132125.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2026/06/control-r.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2026/06/control-r.jpg"/></item>
-<item><title>iOS27などのRCリリース！9月15日（火）の正式版公開へ最終段階</title><link>https://iphone-mania.jp/ios-605570/</link><guid isPermaLink="true">https://iphone-mania.jp/ios-605570/</guid><pubDate>Wed, 09 Sep 2026 22:33:39 +0000</pubDate><description><![CDATA[<p>iOS27などのRCリリース！9月15日（火）の正式版公開へ最終段階
-
-Appleは、iOS27など次世代OSのRC（リリースキャンディデート）を、開発者とパブリックベータテスト登録ユーザー向けにリリースしました。重大な問題が見つからなければ、日本時間9月15日（火）に正式版として一般ユーザーに公開される最終候補版です。
-
-iOS27などのRCリリース！9月15日（火）の正式版公開へ最終段階
-
-Appleは、 iOS27 など次世代OSの RC （リリースキャンディデート）を、開発者とパブリックベータテスト登録ユーザー向けにリリースしました。重大な問題が見つからなければ、日本時間9月15日（火）に正式版として一般ユーザーに公開される最終候補版です。
-
-Appleは、 iPhone18 Pro や iPhone Duo などを発表したイベントの直後に、 iOS27 など次世代OSのRC（リリースキャンディデート）を、開発者とパブリックベータテスト登録ユーザー向けにリリースしました。
-
-RCがリリースされたのは、iOS27のほか、iPadOS27、watchOS27、macOS 27 Golden Gate、visionOS27、tvOS27です。
-
-Appleは、 iOS27 など次世代OSの正式版を 日本時間9月15日（火）に公開 すると発表しています 。過去の配信タイミングから、9月15日（火）の午前2時頃から提供が始まると予想されます。
-
-iOS27の対応機種は、iOS26から変更がない ので、iOS26が動作するiPhoneならiOS27にアップデート可能です。
-
-対応機種なら、「設定」アプリのソフトウェアアップデートからインストールが可能です。
-
-ただし、メジャーアップデートは容量が大きく、ダウンロードとインストールには時間がかかります。
-
-筆者の環境でのダウンロー…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/09/iOS27-RCs.png" alt="iOS27などのRCリリース！9月15日（火）の正式版公開へ最終段階"></p>]]></description><source url="https://iphone-mania.jp/ios-605570/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/09/iOS27-RCs.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/09/iOS27-RCs.png"/></item>
-<item><title>メモリ全体は小幅な値上がり、最安値付近では品切れによる上昇も [9月前半のメモリ価格]</title><link>https://akiba-pc.watch.impress.co.jp/docs/price/monthly_repo/2139683.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/price/monthly_repo/2139683.html</guid><pubDate>Wed, 09 Sep 2026 22:05:00 +0000</pubDate><description><![CDATA[<p>メモリ全体は小幅な値上がり、最安値付近では品切れによる上昇も [9月前半のメモリ価格]
-
-サハロフ佐藤(佐藤 純一)とAKIBA PC Hotline!編集部が、秋葉原各ショップのHDD、SSD、メモリ、CPUの店頭価格を独自に調査し、価格動向をお伝えするコーナーです。PCパーツ購入時などに参考としてご活用下さい。
-
-メモリ全体は小幅な値上がり、最安値付近では品切れによる上昇も [9月前半のメモリ価格]
-
-サハロフ佐藤(佐藤 純一)とAKIBA PC Hotline!編集部が、秋葉原各ショップのHDD、SSD、メモリ、CPUの店頭価格を独自に調査し、価格動向をお伝えするコーナーです。PCパーツ購入時などに参考としてご活用下さい。
-
-なお、掲載価格は調査時のものであり、この価格で販売されることを保証するものではありませんので、その点はご了承ください。
-
-メモリ全体は小幅な値上がり、最安値付近では品切れによる上昇も
-
-DDR5 DIMMで中心的な「DDR5-5600」の最安値は、32GB×2枚組が前回と同じ89,980円(Kingston)だが、一部ショップで低価格品が品切れになり、平均価格が11.9％上昇。16GB×2枚組は55,980円(Kowin)で変わらず、平均でも動きがない。
-
-一方、48GB×2枚組は11,900円高の162,580円(SanMax)、24GB×2枚組は7,820円高の79,800円(Crucial)に上昇。前者は在庫ショップ数が減少し、品薄となっている。
-
-「DDR5-6000」の最安値は、32GB×2枚組が97,980円(CFD販売)、16GB×2枚組が1,500円高の61,480円(Crucial)で、それぞれ平均値は2.9％、3.4％上昇。8月29日(土)には、16GB×2枚組が3,000円安の56,980円(V-COLOR)で販売されていた…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2139/683/2026-0905-132655.jpg" alt="メモリ全体は小幅な値上がり、最安値付近では品切れによる上昇も [9月前半のメモリ価格]"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/price/monthly_repo/2139683.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2139/683/2026-0905-132655.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2139/683/2026-0905-132655.jpg"/></item>
-<item><title>【9/17発売】JBLから上位モデル譲りの新デザインと音響技術を採用したヘッドホン Quantum 120 が登場！</title><link>https://e-earphone.blog/?p=1552958</link><guid isPermaLink="true">https://e-earphone.blog/?p=1552958</guid><pubDate>Wed, 09 Sep 2026 22:00:33 +0000</pubDate><description><![CDATA[<p>【9/17発売】JBLから上位モデル譲りの新デザインと音響技術を採用したヘッドホン Quantum 120 が登場！
-
-～着脱式 6mm径単一指向性ブームマイクがクリアな音声コミュニケーションを実現～こんにちは！e☆イヤホンのPRスタッフです！今回はJBLからの新製品のご紹介です。 JBL Quantum 120▼JBL
-
-～着脱式 6mm径単一指向性ブームマイクがクリアな音声コミュニケーションを実現～
-
-▼JBL Quantum 120 e☆イヤホン オンラインストア価格￥5,940- (税込)
-
-大口径50mmドライバーが迫力ある低域と繊細な空間表現を実現
-
-着脱式6mm径単一指向性ブームマイクがクリアな音声コミュニケーションを実現
-
-最後までご覧いただきありがとうございます！ 以上PRスタッフがお送りしました！
-
-【随時更新】ポタフェス 2026 大阪 情報まとめ【10月3日(土)開催】
-
-ソニー完全新作「新世代モニターイヤホン IER-M500」開発者トークイベントレポート！【#ポタフェス 2026夏 秋葉原】
-
-e☆イヤホンの動画編集担当が選ぶ、動画編集「最強イヤホン」No.1はこれだ！
-
-【随時更新】ポタフェス 2026夏 秋葉原 情報まとめ【7月11日(土)・12日(日)開催】
-
-【#ポタフェス 2026夏 秋葉原】B1Fブースの注目製品をまとめました！【7月11日(土)・12日(日)開催】
-
-シュア掛けのメリットは？イヤホンの正しい付け方とは？イヤホンが外れる人必見！装着感UPのコツを解説！
-
-【初心者ガイド】イヤホンが耳に合わない！！どうしたらいいの？
-
-【今更聞けない】iPhoneでハイレゾを聴く方法【ハイレゾ入門】</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/09/45462e044d11a01b3d22aa2af7adae8d.webp" alt="【9/17発売】JBLから上位モデル譲りの新デザインと音響技術を採用したヘッドホン Quantum 120 が登場！"></p>]]></description><source url="https://e-earphone.blog/?p=1552958">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/09/45462e044d11a01b3d22aa2af7adae8d.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/09/45462e044d11a01b3d22aa2af7adae8d.webp"/></item>
-<item><title>ぜいたくな1台とはこのこと。ビジネスシーンでも使える20万円切りゲーミングノート [Sponsored]</title><link>https://pc.watch.impress.co.jp/docs/topic/special/2137625.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/topic/special/2137625.html</guid><pubDate>Wed, 09 Sep 2026 21:30:00 +0000</pubDate><description><![CDATA[<p>ぜいたくな1台とはこのこと。ビジネスシーンでも使える20万円切りゲーミングノート [Sponsored]
-
-2026年夏現在、筆者がメインで業務などに使用しているのは、2021年に買ったノートPCだ。あれから5年、今でも元気に動いてはいるが、性能面においてはやや不満が出てきている。特にAI処理が重かったり、静止画の編集時などの動作が重くなったりするなど、さすがに限界が近づいているのを感じている。そこで現在は次のメインのノートPCを模索している状況だ。
-
-ぜいたくな1台とはこのこと。ビジネスシーンでも使える20万円切りゲーミングノート
-
-2026年夏現在、筆者がメインで業務などに使用しているのは、2021年に買ったノートPCだ。あれから5年、今でも元気に動いてはいるが、性能面においてはやや不満が出てきている。特にAI処理が重かったり、静止画の編集時などの動作が重くなったりするなど、さすがに限界が近づいているのを感じている。そこで現在は次のメインのノートPCを模索している状況だ。
-
-高性能なノートPCが欲しい……。そこで、一般的なビジネスノートだけでなく、ゲーミングノートにも視野を広げると、かなり多くの候補が目に飛び込んできた。昔はゲーミングノートというと、LEDが派手で仕事には不向きでは、というイメージが強かった。というのも、喫茶店や外出先などに持ち運んで作業する場合などにはちょっと他人の視線が気になってしまうからだ。
-
-そんな中で、候補の1つとして気になったのがMSIのゲーミングノート「 Cyborg 15 C13W 」(型番: Cyborg-15-C13WEO-1192JP)だ。本製品は、MSIのゲーミングノートの中でも、スタイリッシュな雰囲気のデザインが特徴のモデルとなっている。このデザインなら外でも使いやすい。
-
-それでいてゲーミングノートとしてGPUもちゃんと搭載し…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2137/625/image01a.jpg" alt="ぜいたくな1台とはこのこと。ビジネスシーンでも使える20万円切りゲーミングノート [Sponsored]"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/topic/special/2137625.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2137/625/image01a.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2137/625/image01a.jpg"/></item>
-<item><title>新型iPhone Duo、日本版はミリ波非対応であることが判明。</title><link>https://smhn.info/202609-iphone-duo-japan-no-mmwave</link><guid isPermaLink="true">https://smhn.info/202609-iphone-duo-japan-no-mmwave</guid><pubDate>Wed, 09 Sep 2026 21:16:20 +0000</pubDate><description><![CDATA[<p>新型iPhone Duo、日本版はミリ波非対応であることが判明。
-
-Appleの新型スマートフォン「iPhone 18 Pro / Max」および折りたたみスマートフォン「iPhone Duo」は、米国向けに5Gミリ波に対応してることがわかりました。日本では電車内での通信品質を上げるためにミリ波対応のiPhoneの導入が今年は期待されると噂されて...
-
-新型iPhone Duo、日本版はミリ波非対応であることが判明。
-
-Appleの新型スマートフォン「iPhone 18 Pro / Max」および折りたたみスマートフォン「iPhone Duo」は、米国向けに5Gミリ波に対応してることがわかりました。
-
-日本では電車内での通信品質を上げるためにミリ波対応のiPhoneの導入が今年は期待されると噂されていましたが、残念ながら実現しなかったようです。
-
-日本向けモデルの「iPhone 18 Pro / Max / Duo」は、5Gミリ波に非対応であることが明らかとなりました。
-
-Apple日本公式サイトの仕様では、5Gは「sub-6」のみであることが確認できます。
-
-Duoを見ると、日本向けのモデル番号はA3719。対応する5Gの周波数帯にはn77、n78、n79などが並ぶ一方、ミリ波の記載はありません。
-
-米国公式サイトに掲載されているモデルA3447は、5Gがsub-6とミリ波の両対応。ミリ波の対応バンドとしてn258、n260、n261を明記しています。
-
-どちらも独自の「Apple C2モバイル通信モデム」を搭載しますが、アンテナ仕様が異なるというわけですね。
-
-なおミリ波対応が米国向けモデル限定で、他国に導入されていないのは以前から。今年も継続ということになります。</p><p><img src="https://smhn.info/wp-content/uploads/2026/09/capture_20260910_031546_034_A2C775.webp" alt="新型iPhone Duo、日本版はミリ波非対応であることが判明。"></p>]]></description><source url="https://smhn.info/202609-iphone-duo-japan-no-mmwave">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/09/capture_20260910_031546_034_A2C775.webp" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/09/capture_20260910_031546_034_A2C775.webp"/></item>
-<item><title>iPhone DuoやiPhone18 Pro向けアクセサリーが発表〜価格や発売日は</title><link>https://iphone-mania.jp/iphone18-605543/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-605543/</guid><pubDate>Wed, 09 Sep 2026 21:05:07 +0000</pubDate><description><![CDATA[<p>iPhone DuoやiPhone18 Pro向けアクセサリーが発表〜価格や発売日は
-
-Appleが2026年9月10日、iPhone DuoやiPhone18 Proシリーズを発表したことに伴い、それらに対応する純正アクセサリーの取り扱いを、Appleオンラインストアで開始しています。
-
-iPhone DuoやiPhone18 Pro向けアクセサリーが発表〜価格や発売日は
-
-Appleが2026年9月10日、iPhone DuoやiPhone18 Proシリーズを発表したことに伴い、それらに対応する純正アクセサリーの取り扱いを、Appleオンラインストアで開始しています。
-
-取り扱いが開始されたアクセサリーと、販売価格や発売日を確認しました。
-
-iPhone Duoに対応する純正アクセサリー は、次の通りです。
-
-スタンド付きiPhone Duo Folioフォリオには「ネイビーブルー」と「トープ」の2種類のカラーが用意されており、販売価格は 税込24,800円 です。
-
-iPhone Duoの発売日が10月 であることが理由か、スタンド付きiPhone Duo Folioフォリオの発売日は明らかになっていません。
-
-iPhone Duoケースには「ネイビーブルー」と「サンド」の2種類のカラーが用意されており、販売価格は 税込14,800円 です。
-
-iPhone18 ProおよびiPhone18 Pro Max に対応する純正アクセサリーは、次の通りです。
-
-MagSafe対応iPhone18 Pro/Pro Maxテックウーブンケース
-
-MagSafe対応iPhone18 ProテックウーブンケースおよびMagSafe対応iPhone18 Pro Maxテックウーブンケースの販売価格はいずれも、 税込10,800円 です。
-
-MagSafe対応iPhone18 Pro…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/10/iphone-duo-18-gen-acc.jpg" alt="iPhone DuoやiPhone18 Pro向けアクセサリーが発表〜価格や発売日は"></p>]]></description><source url="https://iphone-mania.jp/iphone18-605543/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/10/iphone-duo-18-gen-acc.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/10/iphone-duo-18-gen-acc.jpg"/></item>
-<item><title>【第5回アンケート】iPhone 18 Pro・Duo どのモデル・どの色を買いますか？</title><link>https://iphone-mania.jp/iphone18-605535/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-605535/</guid><pubDate>Wed, 09 Sep 2026 21:00:00 +0000</pubDate><description><![CDATA[<p>【第5回アンケート】iPhone 18 Pro・Duo どのモデル・どの色を買いますか？
-
-Appleの発表イベントが終わりました。iPhone 18 Pro、iPhone 18 Pro Max、そしてApple初の折りたたみiPhone「iPhone Duo」が発表されています。
-
-【第5回アンケート】iPhone 18 Pro・Duo どのモデル・どの色を買いますか？
-
-Appleの発表イベントが終わりました。 iPhone 18 Pro、iPhone 18 Pro Max、そしてApple初の折りたたみiPhone「iPhone Duo」 が発表されています。
-
-そこで iMコミュニティで、 発表直後の読者アンケート を始めました。どのモデルを買うのか、どの色を選ぶのか、容量はどうするのか。実際に手を伸ばそうとしている方のリアルな声を集めます。
-
-iPhone 18 Pro ：219,800円〜（256GB）／ブラック・シルバー・グレイシャー・バーガンディの4色
-
-iPhone 18 Pro Max ：239,800円〜（256GB）／同じく4色
-
-iPhone Duo ：364,800円〜（256GB）／ナイトスカイ・スターホワイトの2色
-
-予約開始日はモデルで異なります。 iPhone 18 Pro／Pro Max は9月12日（土）、iPhone Duo は10月16日（金） からです。
-
-なお、折りたたみiPhoneの名前について、 発表前に実施したアンケート では「Ultra」が44%で最多でしたが、実際は 「Duo」 でした。「別の名前になりそう」と答えた3割の方が正解だったことになります。
-
-選ぶだけなので、1分ほどで終わります。 買う予定のモデルを選ぶと、そのモデルのカラーと容量だけが表示されます。 複数のモデルを検討している方は、それぞれについてお答…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/survey_thumb_5th.png" alt="【第5回アンケート】iPhone 18 Pro・Duo どのモデル・どの色を買いますか？"></p>]]></description><source url="https://iphone-mania.jp/iphone18-605535/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/survey_thumb_5th.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/survey_thumb_5th.png"/></item>
-<item><title>iOS27などの次世代OS、9月15日（火）に正式版公開</title><link>https://iphone-mania.jp/ios-605547/</link><guid isPermaLink="true">https://iphone-mania.jp/ios-605547/</guid><pubDate>Wed, 09 Sep 2026 20:37:56 +0000</pubDate><description><![CDATA[<p>iOS27などの次世代OS、9月15日（火）に正式版公開
-
-Appleは、iOS27、iPadOS27、watchOS27、macOS 27 Golden Gate、visionOS27の正式版を日本時間9月15日（火）に公開すると発表しました。iOS27では動作速度が向上するほか、各OS間でLiquid Glassデザインの統一感が向上します。
-
-Appleは、 iOS27 、 iPadOS27 、 watchOS27 、 macOS 27 Golden Gate 、 visionOS27 の正式版を 日本時間9月15日（火）に公開 すると発表しました。iOS27では動作速度が向上するほか、各OS間でLiquid Glassデザインの統一感が向上します。
-
-Appleは、 iPhone18 Pro、iPhone18 Pro Max や初の折りたたみモデル iPhone Duo 、 Apple Watch Series 12とApple Watch Ultra 4 などの発表とあわせて、 次世代OS正式版の公開予定日 を発表しました。
-
-iOS27、iPadOS27、watchOS27、macOS 27 Golden Gate、visionOS27のいずれも、 日本時間9月15日（火）に一般ユーザー向けに公開 されます。
-
-従来の公開パターンから推測して、 9月15日（火）の午前2時頃から ソフトウェアアップデートで入手可能になると考えられます。
-
-9月18日（金）に発売されるiPhone18 Pro、iPhone18 Pro Max、Apple Watch Series 12、Apple Watch Ultra 4には、それぞれ最新のOSがプリインストールされた状態で出荷されます。
-
-iOS27、iPadOS27、watchOS27、macOS 27 Golden Gat…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/09/Apple-iOS27-0.png" alt="iOS27などの次世代OS、9月15日（火）に正式版公開"></p>]]></description><source url="https://iphone-mania.jp/ios-605547/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/09/Apple-iOS27-0.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/09/Apple-iOS27-0.png"/></item>
-<item><title>速報：新型iPhoneの日本価格一覧！Duoは36万4800円から</title><link>https://smhn.info/202609-iphone-duo-pro-japan-us-price-comparison</link><guid isPermaLink="true">https://smhn.info/202609-iphone-duo-pro-japan-us-price-comparison</guid><pubDate>Wed, 09 Sep 2026 20:08:08 +0000</pubDate><description><![CDATA[<p>速報：新型iPhoneの日本価格一覧！Duoは36万4800円から
-
-Duo 2TBは57万円。新しいiPhoneの日本価格が出ました。Apple直販では、iPhone Duoが36万4800円から、iPhone 18 Pro Maxが23万9800円から、iPhone 18 Proが21万9800円から。いずれも256GBモデルの税込価格です。折...
-
-速報：新型iPhoneの日本価格一覧！Duoは36万4800円から
-
-新しいiPhoneの日本価格が出ました。Apple直販では、iPhone Duoが36万4800円から、iPhone 18 Pro Maxが23万9800円から、iPhone 18 Proが21万9800円から。いずれも256GBモデルの税込価格です。
-
-折りたたみモデルのDuoは、同じ256GBのPro Maxより12万5000円高くなっています。
-
-容量別の日米価格は以下の通り。Apple直販の端末価格です。1米ドル＝153.63円の現為替レートでの計算もカッコ内に示しておきました。
-
-iPhone Duoも今のレートなら30万円なのに、36万円って言われるとちょっと買う気失せますよね。ドル円為替レート180円ぐらい？と思ってしまいます。
-
-ですがそこは税金が抜けてます。日本は消費税10%を含む総額表示、米国は消費税が地方管轄なので基本的に税別です。毎年ありがちな計算ミスですね。
-
-それでも、iPhone Duoの256GBモデルは、税抜き価格同士で比べると1ドル約166円に相当します。36万4800円を1.1で割って日本の消費税を除き、1999ドルで割った数字です。
-
-今回の円換算に使った1ドル153.63円よりも約8％円安側の水準なので、税金の違いを考慮しても割高感がありますね……。
-
-Pro Maxよりも大幅に高いiPhone Duoを選ぶに…</p><p><img src="https://smhn.info/wp-content/uploads/2026/09/capture_20260910_031632_049_E09B6E.webp" alt="速報：新型iPhoneの日本価格一覧！Duoは36万4800円から"></p>]]></description><source url="https://smhn.info/202609-iphone-duo-pro-japan-us-price-comparison">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/09/capture_20260910_031632_049_E09B6E.webp" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/09/capture_20260910_031632_049_E09B6E.webp"/></item>
-<item><title>Apple Watch Series 11やUltra 3などの整備済製品が値下げ</title><link>https://iphone-mania.jp/sale-605540/</link><guid isPermaLink="true">https://iphone-mania.jp/sale-605540/</guid><pubDate>Wed, 09 Sep 2026 20:05:08 +0000</pubDate><description><![CDATA[<p>Apple Watch Series 11やUltra 3などの整備済製品が値下げ
-
-Appleが2026年9月10日、Apple Watch Series 12とApple Watch Ultra 4を発表したことに伴い、Apple Watch整備済製品の販売価格を値下げしています。
-
-Apple Watch Series 11やUltra 3などの整備済製品が値下げ
-
-Appleが2026年9月10日、 Apple Watch Series 12とApple Watch Ultra 4を発表 したことに伴い、 Apple Watch整備済製品 の販売価格を値下げしています。
-
-Apple Watch Series 11やApple Watch Ultra 3などの整備済製品の新価格を確認しました。
-
-価格改定により値下げされた Apple Watch整備済製品 の新価格は、次の通りです。
-
-Apple品質認定のApple Watch 整備済製品 についてAppleは、下記のように説明しています。
-
-Apple Watch整備済製品は、すべてのモデルに1年間の保証が付いています。最短で翌日に無料でお届けし、返品も無料です
-
-ほかにも、以下のものが含まれます 完全な動作テストおよび徹底したクリーニング
-
-出荷時のオペレーティングシステム、またはより最新のオペレーティングシステム
-
-整備済製品はすべて、必要なアクセサリやケーブルとともに新品の箱に再梱包されます
-
-お客様のデバイスが出荷時のオペレーティングシステム（原文では、オペレーションシステム）を搭載した状態で出荷された場合も、最新バージョン（原文では、最新バーション）をApp Storeから無料でダウンロードできます
-
-数量限定につき、在庫状況は購入代金全額のお支払いが完了した時点で保証されます
-
-Source: App…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/10/Apple-Watch-Refurb-0910.png" alt="Apple Watch Series 11やUltra 3などの整備済製品が値下げ"></p>]]></description><source url="https://iphone-mania.jp/sale-605540/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/10/Apple-Watch-Refurb-0910.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/10/Apple-Watch-Refurb-0910.png"/></item>
-<item><title>Apple��Ʊ�ҽ���2���ޤꥹ�ޡ��ȥե�����iPhone Duo�פ�ȯɽ��10��23��ȯ����36��4800�ߤ���</title><link>https://www.4gamer.net/games/990/G999013/20260910007/</link><guid isPermaLink="true">https://www.4gamer.net/games/990/G999013/20260910007/</guid><pubDate>Wed, 09 Sep 2026 19:55:06 +0000</pubDate><description><![CDATA[<p>Apple��Ʊ�ҽ���2���ޤꥹ�ޡ��ȥե�����iPhone Duo�פ�ȯɽ��10��23��ȯ����36��4800�ߤ���
-
-米国時間2026年9月9日，Appleは，同社初の折りたたみ式スマートフォン「iPhone Duo」と，iPhone Proシリーズの最新モデル「iPhone 18 Pro」「iPhone 18 P…
-
-Appleが同社初の2つ折りスマートフォン「iPhone Duo」を発表。10月23日発売で36万4800円から ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
-
-↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 夏は七不思議ならぬ“七不穏”で暑さを忘却の彼方へ――涼しくチルアウトできる終末，陰鬱，ディストピアな7つのゲーム ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ ひと夏の思い出に「桃鉄」100年プレイ。みんなで完走するための準備＆プレイガイド ↑アイコン/タイトル↑…</p><p><img src="https://www.4gamer.net/games/990/G999013/20260910007/SS/002.jpg" alt="Apple��Ʊ�ҽ���2���ޤꥹ�ޡ��ȥե�����iPhone Duo�פ�ȯɽ��10��23��ȯ����36��4800�ߤ���"></p>]]></description><source url="https://www.4gamer.net/games/990/G999013/20260910007/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/990/G999013/20260910007/SS/002.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/990/G999013/20260910007/SS/002.jpg"/></item>
-<item><title>iPhone Air、17、17eや16を再び値上げ〜17 Proなど販売終了</title><link>https://iphone-mania.jp/iphone17-605536/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone17-605536/</guid><pubDate>Wed, 09 Sep 2026 19:37:31 +0000</pubDate><description><![CDATA[<p>iPhone Air、17、17eや16を再び値上げ〜17 Proなど販売終了
-
-Appleが2026年9月10日、iPhone Air、iPhone17、iPhone17e、iPhone16の販売価格を改定し、値上げしました。これらのモデルはiPhone18 Proシリーズ発表後も販売を継続しますが、iPhone17 ProシリーズとiPhone16 Plusの販売は終了しています。
-
-iPhone Air、17、17eや16を再び値上げ〜17 Proなど販売終了
-
-Appleが2026年9月10日、 iPhone Air、iPhone17、iPhone17e、iPhone16の販売価格を改定し、値上げ しました。これらのモデルはiPhone18 Proシリーズ発表後も販売を継続しますが、 iPhone17 ProシリーズとiPhone16 Plusの販売は終了 しています。
-
-Appleが 2026年7月18日に続き 、iPhoneの販売価格を再び値上げしました。 iPhone18 Proシリーズ 発表後も販売を継続するモデルと、新しい販売価格は次の通りです。
-
-今回の価格改定に伴い、2カ月前はiPhone17eの最安モデルを税込99,800円で購入できましたが、2度の値上げによる合計では税込25,000円も高くなりました。
-
---PR-- [公式] - iPhoneの購入や予約はオンラインで確実に！
-
-iPhoneなどApple製品の疑問は iMコミュニティ で聞けます。詳しい読者が答えてくれます。</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/10/iPhone-Air-17-16.jpg" alt="iPhone Air、17、17eや16を再び値上げ〜17 Proなど販売終了"></p>]]></description><source url="https://iphone-mania.jp/iphone17-605536/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/10/iPhone-Air-17-16.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/10/iPhone-Air-17-16.jpg"/></item>
 </channel></rss>
