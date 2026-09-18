@@ -1,6 +1,301 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Fri, 18 Sep 2026 11:13:05 +0000</lastBuildDate>
+<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Fri, 18 Sep 2026 14:59:29 +0000</lastBuildDate>
+<item><title>画面酔いをモニターで軽減!? TGS2026で見つけたアイオーの新機能</title><link>https://pc.watch.impress.co.jp/docs/news/event/2142122.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/event/2142122.html</guid><pubDate>Fri, 18 Sep 2026 03:38:13 +0000</pubDate><description><![CDATA[<p>画面酔いをモニターで軽減!? TGS2026で見つけたアイオーの新機能
+
+試遊の列の隣で、モニターやSSDの新製品が並ぶ。ゲームの祭典は、遊ぶための道具の見本市でもある。9月17日から9月21日にかけて、千葉・幕張メッセにて「東京ゲームショウ2026」が開催されている。出展している「アイオーデータ」「サンディスク」「アドビ」のブースの様子を紹介する。
+
+画面酔いをモニターで軽減!? TGS2026で見つけたアイオーの新機能
+
+試遊の列の隣で、モニターやSSDの新製品が並ぶ。ゲームの祭典は、遊ぶための道具の見本市でもある。9月17日から9月21日にかけて、千葉・幕張メッセにて「東京ゲームショウ2026」が開催されている。出展している「アイオーデータ」「サンディスク」「アドビ」のブースの様子を紹介する。
+
+アイオーデータのブース(08-C23)では、同社のゲーミングモニターブランド「GigaCrysta」の製品が大量に展示されている。まず、注目したいのは参考出品されている27型の「LCD-GDQ271ULAQ」。320HzのリフレッシュレートとMini LEDの美しさを両立させたWQHDモデルだ。発色がよく、画面がスムーズに動く点が特徴だ。
+
+解像度とリフレッシュレートをゲームに合わせて切り替えられるDFR機能を搭載した27型の「EX-GDU271JAD」にも注目したい。ソニックレーシングのタイムアタックも実施されているので、実際の効果も確認できる。タイムアタックの時間はブースで要確認。
+
+有機ELパネルを採用しながら280Hzのリフレッシュレートに対応した27型の「LCD-GDQ271UEL」も、その映像美や応答速度の速さなどを体験できる。有機ELパネルは焼き付きが心配だが、本製品は3年間の焼き付き保証が付いており、その点も安心だ。
+
+なお、一部のGigaCrysta製品に、ゲーム映像の手前(画面最前面)に固定されたフレームやクロスヘアなどの「動かないオブジェクト」をOSD表示することで画面酔いをやわらげる「酔い軽減アシスト」機能が追加されたことも告知されている。
+
+対象…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2142/122/05.jpg" alt="画面酔いをモニターで軽減!? TGS2026で見つけたアイオーの新機能"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/event/2142122.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2142/122/05.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2142/122/05.jpg"/></item>
+<item><title>Qwen3.8-27Bを9分の1に圧縮も性能98.2%維持の「Bonsai 2 27B」</title><link>https://pc.watch.impress.co.jp/docs/news/2142052.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2142052.html</guid><pubDate>Fri, 18 Sep 2026 03:04:15 +0000</pubDate><description><![CDATA[<p>Qwen3.8-27Bを9分の1に圧縮も性能98.2%維持の「Bonsai 2 27B」
+
+27B(270億)パラメータ級の性能を、わずか5.9GBのメモリに収めた驚異のモデルが登場した。PrismMLは9月17日(米国時間)、Qwen3.8-27Bをベースに3値量子化を施したマルチモーダルLLM「Ternary Bonsai 2 27B」を発表し、そのオープンウェイト(モデルの重み)をHugging Faceで公開した。ライセンスはApache License 2.0。
+
+Qwen3.8-27Bを9分の1に圧縮も性能98.2%維持の「Bonsai 2 27B」
+
+27B(270億)パラメータ級の性能を、わずか5.9GBのメモリに収めた驚異のモデルが登場した。PrismMLは9月17日(米国時間)、Qwen3.8-27Bをベースに3値量子化を施したマルチモーダルLLM「Ternary Bonsai 2 27B」を発表し、そのオープンウェイト(モデルの重み)をHugging Faceで公開した。ライセンスはApache License 2.0。
+
+Ternary Bonsai 2 27Bは、Qwen3.8-27Bをベースに3値量子化で圧縮したDense型のマルチモーダルモデル。重みを{-1, 0, +1}の3値で表現し、FP16のグループ単位スケーリングを組み合わせることで、実効ビット数を1ウェイトあたり1.76bitに抑えた。
+
+この低ビット表現は言語モデル全体に適用されている。総パラメータは27Bで、コンテキストウィンドウは262K(約26万)トークン、入力はテキストと画像に対応する。
+
+フル精度のQwen3.8-27Bと比較して9分の1程度のフットプリントながら、推論/数学/コーディング/指示追従/画像認識/ツール呼び出しを含むベンチマークスイートの総合スコアで83.9を達成し、フル精度モデルのスコア85.4の98.2%を維持したという。同社が7月に公開した前世代のTernary Bonsai 27Bでは性能維持率が95%だったが、今回は98%超となり、同社は実質的…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2142/052/1.jpg" alt="Qwen3.8-27Bを9分の1に圧縮も性能98.2%維持の「Bonsai 2 27B」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2142052.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2142/052/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2142/052/1.jpg"/></item>
+<item><title>TGS2026でNVIDIAの最新ゲーム技術が体験できる！PC6社のブースでDLSS 4.5対応タイトルのプレイアブルデモを実施</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2141984.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2141984.html</guid><pubDate>Fri, 18 Sep 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>TGS2026でNVIDIAの最新ゲーム技術が体験できる！PC6社のブースでDLSS 4.5対応タイトルのプレイアブルデモを実施
+
+9月17日（木）から21日（月）までの5日間、「東京ゲームショウ（TGS）2026」が幕張メッセで開催。一般公開日は3日目の19日（土）からとなる。
+
+TGS2026でNVIDIAの最新ゲーム技術が体験できる！PC6社のブースでDLSS 4.5対応タイトルのプレイアブルデモを実施
+
+9月17日（木）から21日（月）までの5日間、「東京ゲームショウ（TGS）2026」が幕張メッセで開催。一般公開日は3日目の19日（土）からとなる。
+
+本稿では、PC関連ブース6社で、NVIDIAの最新ゲーム技術を体験できるコーナーをご紹介する。AIによる超解像や6Xマルチフレーム生成などを備えたDLSS 4.5対応のゲームを実際の環境で体験できるほか、その他のNVIDIAの最新技術を体験できる構成も用意されている。
+
+マウスコンピューター G TUNE/NEXTGEAR： ホール8 08-N06
+
+マウスコンピューターは、ゲーミングPCブランドのG TUNE、NEXTGEARで出展。ブース内には多数のゲーミングPCが並べられており、一般日にはゲーミングPCを使ってさまざまなPCゲームを体験できるという。
+
+これに加えて、同社のWindowsタブレットPCでクラウドゲーミング「GeForce NOW」を動かす実機も用意されている。タブレットPC自体はCore i5-1335U搭載でそれほどパワフルではないが、「GeForce NOW」では快適にゲームをプレイできるというデモだ。
+
+取材時には、タブレットPCをドックに接続し、「GeForce NOW」の映像をモニターに出力して、『PRAGMATA』がプレイ可能になっていた。
+
+MSIブースでは、GeForce RTX 5090搭載デスクトップPCで、DLSS 4.5対応の『Forza Horizon 6』をプレイ可能。ウルトラワイドの曲面モニターで没入感のあるプレイを楽しめる。3面ガラスパネルの巨大なピラーレスケ…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2141/984/DSC08694.jpg" alt="TGS2026でNVIDIAの最新ゲーム技術が体験できる！PC6社のブースでDLSS 4.5対応タイトルのプレイアブルデモを実施"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2141984.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2141/984/DSC08694.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2141/984/DSC08694.jpg"/></item>
+<item><title>発売前のROG XBOX Ally X20が遊べる！TGS2026のROGブース</title><link>https://pc.watch.impress.co.jp/docs/news/event/2142091.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/event/2142091.html</guid><pubDate>Fri, 18 Sep 2026 02:39:05 +0000</pubDate><description><![CDATA[<p>発売前のROG XBOX Ally X20が遊べる！TGS2026のROGブース
+
+発売前のROG XBOX Ally X20が遊べ、MSI 40周年記念PCも間近に見られる。東京ゲームショウ2026はPC好きも見逃せない。
+
+発売前のROG XBOX Ally X20が遊べる！TGS2026のROGブース
+
+発売前のROG XBOX Ally X20が遊べ、MSI 40周年記念PCも間近に見られる。東京ゲームショウ2026はPC好きも見逃せない。
+
+9月17日から9月21日にかけて、千葉・幕張メッセにて「東京ゲームショウ2026」が開催されている。出展している「MSI」「ROG(ASUS)」「CORSAIR・Fanatec・Elgato」のブースの様子を紹介する。
+
+MSIのブース(08-N18)では、40周年を記念して制作された記念モデルなどが展示されている。ハードウェアモニター液晶パネル、液晶付き簡易水冷クーラー、光るファンなどが採用されており、ゴージャスな見た目の1台に仕上げられている。自作ユーザーは必見だ。
+
+採用されている主なパーツは、CPUがCore Ultra 7 270K Plus、マザーボードがMEG Z890 GODLIKE、ビデオカードがGeForce RTX 5090 32GB LIGHTNING Z。
+
+MSIのパーツを使って組み立てたショップコラボモデルでPCゲームをプレイできるコーナーも用意されており、レーシングゲームの体験コーナーもある。
+
+GeForce RTX 5090を搭載したゲーミングノート「Titan-18-HX-A2WJ-2600JP」も展示されている。主なスペックは、CPUがCore Ultra 9 290HX Plus、メモリが64GB、SSDが2TB。ディスプレイは4K対応の18型だ。
+
+第5世代のQD-OLEDパネルを採用した34型モニター「MPG 341CQR QD-OLED X36」などのモニターも展示されている。発色の良さはもちろんのこと、AIセンサーが装備されており、人がモニターを見ていないときは暗くするなど…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2142/091/07.jpg" alt="発売前のROG XBOX Ally X20が遊べる！TGS2026のROGブース"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/event/2142091.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2142/091/07.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2142/091/07.jpg"/></item>
+<item><title>Nothing Phone (3a) LiteがMNPで一括1万3900円。楽天モバイルが特価追加</title><link>https://smhn.info/202609-rakuten-phone-3a-lite-mnp-discount</link><guid isPermaLink="true">https://smhn.info/202609-rakuten-phone-3a-lite-mnp-discount</guid><pubDate>Fri, 18 Sep 2026 02:18:38 +0000</pubDate><description><![CDATA[<p>Nothing Phone (3a) LiteがMNPで一括1万3900円。楽天モバイルが特価追加
+
+楽天モバイルは9月18日9時、Nothingの「Phone (3a) Lite」をMNP一括1万3900円の特価対象に追加しました。通常価格3万5900円から2万2000円を直接値引きします。価格は税込みです。対象となるのは、他社からの乗り換え（MNP）で「Rakuten最強プラ...
+
+Nothing Phone (3a) LiteがMNPで一括1万3900円。楽天モバイルが特価追加
+
+楽天モバイル は9月18日9時、Nothingの「Phone (3a) Lite」をMNP一括1万3900円の特価対象に追加しました。
+
+通常価格3万5900円から2万2000円を直接値引きします。価格は税込みです。
+
+対象となるのは、他社からの乗り換え（MNP）で「Rakuten最強プラン」または「Rakuten最強U-NEXT」を申し込み、端末を同時に購入する場合です。一括払いと24回払いが対象で、端末を返却する必要はありません。
+
+Phone (3a) Liteは、背面の「Glyphライト」で通知を知らせるスマートフォンです。画面を伏せたままでも通知を確認できる仕掛けを備えます。専用の「Essential Key」で保存したコンテンツやアイデアを、AI機能「Essential Space」で整理・要約できる点も特徴です。
+
+SoCはDimensity 7300 Proで、実行メモリ8GB、ストレージ128GBを搭載します。約6.77型の有機ELディスプレイと5000mAhのバッテリーを備え、おサイフケータイにも対応。カラーはブラック、ホワイトに加え、楽天モバイル限定のレッドを展開します。
+
+特価の適用は、対象製品の中から1人1点まで。新規番号での契約や端末単体購入、データタイプは対象外です。他のキャンペーンとは併用不可。また、申し込み時点で2020年4月8日以降に楽天モバイルで3回線以上の解約歴がある場合は対象外。
+
+低価格帯の中では抜群に高いデザイン性なので、非常に魅力的な1台…</p><p><img src="https://smhn.info/wp-content/uploads/2026/01/P1237441-2.jpg" alt="Nothing Phone (3a) LiteがMNPで一括1万3900円。楽天モバイルが特価追加"></p>]]></description><source url="https://smhn.info/202609-rakuten-phone-3a-lite-mnp-discount">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/01/P1237441-2.jpg" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/01/P1237441-2.jpg"/></item>
+<item><title>回転式レンズを搭載した5,000円のアクションカムがあきばお～に入荷</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2142002.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2142002.html</guid><pubDate>Fri, 18 Sep 2026 02:05:00 +0000</pubDate><description><![CDATA[<p>回転式レンズを搭載した5,000円のアクションカムがあきばお～に入荷
+
+回転式レンズを備えた安価なアクションカメラ「LK-032（SZ-26CAM-Q7）」が、あきばお～弐號店で販売中。
+
+回転式レンズを搭載した5,000円のアクションカムがあきばお～に入荷
+
+回転式レンズを備えた安価なアクションカメラ「LK-032（SZ-26CAM-Q7）」が、 あきばお～弐號店 で販売中。
+
+LK-032は、180度/90度の回転機構を備えたカメラ部と、1.97インチカラーディスプレイを搭載したアクションカメラ。
+
+製品パッケージによると「1080p動画撮影対応」で、「手ブレにも強い」とのこと。
+
+本体サイズ134.31×42.4×31.58mm、重量約130gの小型軽量設計で、別売りのmicroSDカードにも対応する（64GBまで）。
+
+取扱説明書によると、ビデオ形式はAVI。バッテリー持続時間は約4.5時間で、充電時間は約3時間～3.5時間。充電コネクタはUSB Type-C。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2142/002/a1.jpg" alt="回転式レンズを搭載した5,000円のアクションカムがあきばお～に入荷"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2142002.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2142/002/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2142/002/a1.jpg"/></item>
+<item><title>【10/1発売】Boseから耳を塞がない、開放感のあるデザインのイヤホン Sport Open Earbuds/Ultra Open Earbuds (第2世代) が登場！</title><link>https://e-earphone.blog/?p=1553362</link><guid isPermaLink="true">https://e-earphone.blog/?p=1553362</guid><pubDate>Fri, 18 Sep 2026 02:00:56 +0000</pubDate><description><![CDATA[<p>【10/1発売】Boseから耳を塞がない、開放感のあるデザインのイヤホン Sport Open Earbuds/Ultra Open Earbuds (第2世代) が登場！
+
+IP54のスポーツで使いやすい防水防塵性能/前作から洗練されたデザイン高い信頼性こんにちは！e☆イヤホンのPRスタッフです！今回はBoseからの新製品のご紹介です。 Bose Sport Open Earbud
+
+IP54のスポーツで使いやすい防水防塵性能/前作から洗練されたデザイン高い信頼性
+
+▼Bose Sport Open Earbuds e☆イヤホン オンラインストア価格￥29,700- (税込)
+
+イヤーカフ型の安定したデザインが耳を優しく包み、激しいトレーニングやランニングの時でもしっかりフィット。柔らかいシリコン素材の仕上げとオープンイヤー設計により、快適な着け心地。周囲の音も自然に聞き取ることができます。
+
+どこでトレーニングしても、豊かでバランスの取れたサウンドを楽しめます。自動音量調節が、周囲の環境に合わせて音量を自然に調節します。
+
+OpenAudioテクノロジーとカフ型のオープンイヤーデザインにより、周囲の状況も意識しながら、プライベートなリスニング体験を満喫できます。
+
+IP54の防汗・防滴仕様のオープンイヤー型イヤホン。防塵仕様の収納ケースはポケットサイズ。持ち運びに便利です。ケースの蓋は半透明のテクスチャ仕上げ。汗をかいた手でも簡単に開けられます。
+
+最長7時間の連続再生に加え、ケース内でさらに22時間分を充電可能。簡単なトレーニングから長時間のワークアウトまで、サウンドの限界に挑みます。また、ワイヤレス充電で手軽に充電できます。
+
+SpeechClarityテクノロジーが、クリアで信頼性の高い通話を実現し、どんな環境でもスムーズに会話できます。
+
+Bose Sport Open Earbuds 主なスペック
+
+Bose Ultra Open Earbuds (第2世代)
+
+▼Bose Sport Open Earbuds e☆イヤホン オンラインストア価格…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/09/d6b9e4e2bd28888e981490f54ba5b6b9.webp" alt="【10/1発売】Boseから耳を塞がない、開放感のあるデザインのイヤホン Sport Open Earbuds/Ultra Open Earbuds (第2世代) が登場！"></p>]]></description><source url="https://e-earphone.blog/?p=1553362">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/09/d6b9e4e2bd28888e981490f54ba5b6b9.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/09/d6b9e4e2bd28888e981490f54ba5b6b9.webp"/></item>
+<item><title>【9/18発売】Tripowinから2種類のリケーブル Nimbus/Cygnus が登場！</title><link>https://e-earphone.blog/?p=1553195</link><guid isPermaLink="true">https://e-earphone.blog/?p=1553195</guid><pubDate>Fri, 18 Sep 2026 02:00:26 +0000</pubDate><description><![CDATA[<p>【9/18発売】Tripowinから2種類のリケーブル Nimbus/Cygnus が登場！
+
+0.78mm 2pin／リセスド2pinコネクターまたはqdcコネクターを選択！こんにちは！e☆イヤホンのPRスタッフです！今回はTripowinからの新製品のご紹介です。 Tripowin Nimbus
+
+0.78mm 2pin／リセスド2pinコネクターまたはqdcコネクターを選択！
+
+▼Tripowin Nimbus e☆イヤホン オンラインストア価格￥9,130- (税込)
+
+Nimbus は、単結晶銅と銀メッキ単結晶銅を組み合わせたハイブリッド導体ケーブルです。単結晶銅は、中域の厚みや自然な温かみ、低域の深みを支える導体素材として採用されています。銀メッキ単結晶銅は、高域の輪郭や微細なディテール表現を補い、過度な刺激感を抑えた自然な明瞭さを目指しています。
+
+導体構成は、単結晶銅線を複数グループ・複数バンドルで組み合わせ、さらに銀メッキ単結晶銅線を加えた構成です。異なる導体素材を組み合わせることで、単一素材では得にくい厚みとクリアさのバランスを追求しています。
+
+構造にはLitz Type 5を採用しています。複数の細い導体を束ねた多層構造により、日常使用時の曲げやねじれに対する耐久性を高めながら、安定した信号伝送を目指しています。AWG 19仕様、抵抗値0.38Ωの低抵抗設計により、IEMへ送られる信号のロスを抑え、スムーズな伝送を実現します。外装には、カスタム PVC ジャケットを採用しています。耐摩耗性、柔軟性、絡まりにくさに配慮した設計により、バッグやポケットに入れて持ち運ぶ日常使用でも扱いやすいケーブルに仕上げられています。
+
+耳掛け部分には、あらかじめ耳の形に沿うよう成形されたプリシェイプドイヤーフックを採用しています。装着時に耳の後ろへ自然にフィットし、通勤・通学や長時間のリスニング時にも安定した装着感を保ちます。また、ケーブルタッチノイズの低減にも配慮されています。
+
+イヤホン側コネクターは、0.78mm 2pin／リセスド2pinコネクタ…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/09/Tripowin-Nimbus_Cygnus.webp" alt="【9/18発売】Tripowinから2種類のリケーブル Nimbus/Cygnus が登場！"></p>]]></description><source url="https://e-earphone.blog/?p=1553195">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/09/Tripowin-Nimbus_Cygnus.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/09/Tripowin-Nimbus_Cygnus.webp"/></item>
+<item><title>【9/25発売】SHANLINGからハイエンドR2RポータブルCDプレーヤー EC ZeroT MAX とレトロなスタイルなプレイヤーQ2が登場！</title><link>https://e-earphone.blog/?p=1553498</link><guid isPermaLink="true">https://e-earphone.blog/?p=1553498</guid><pubDate>Fri, 18 Sep 2026 02:00:23 +0000</pubDate><description><![CDATA[<p>【9/25発売】SHANLINGからハイエンドR2RポータブルCDプレーヤー EC ZeroT MAX とレトロなスタイルなプレイヤーQ2が登場！
+
+ハイエンドに相応しい《MAX》モデル/スタイリッシュ＆コンパクトなプレイヤー登場こんにちは！e☆イヤホンのPRスタッフです！今回はSHANLINGからの新製品のご紹介です。 SHANLING EC ZeroT
+
+ハイエンドに相応しい《MAX》モデル/スタイリッシュ＆コンパクトなプレイヤー登場
+
+▼SHANLING EC ZeroT MAX e☆イヤホン オンラインストア価格￥113,850- (税込)
+
+アップグレードされたアンプ回路 ハイエンドに相応しい《MAX》モデル
+
+新たに開発された『EC Zero T MAX』は、高く評価されたEC Zero Tをベースに、さらに最適化したR2R DAC技術と、新たなヘッドホンアンプ回路を採用しました。
+
+これにより、バッテリー駆動時にも最大出力1,300mW＠32Ωを実現し、出力インピーダンスも大幅に低減しています。
+
+EC Zero Tの豊かで温かみのあるサウンドを継承しながら、駆動力を必要とするフルサイズヘッドホンからイヤホンまで、幅広い機器をポータブル環境で手軽に楽しめる、MAXの名に相応しいCDプレーヤーとして完成しました。
+
+さらに洗練されたR2R DACセクション サウンドパフォーマンスの向上
+
+「Kunlun（コンロン）」は、SHANLINGが自社開発した24bit R2R DACモジュールです。
+
+24bitアーキテクチャには、誤差0.1％の高精度抵抗を192個使用した抵抗ラダー回路を採用。
+
+一般的なΔΣ型DACアーキテクチャに比べ、より自然なアナログ変換を実現し、リアルな音楽表現をもたらします。
+
+さらに、SHANLINGのハイエンドSACDプレーヤー…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/09/SHANLING-EC-ZeroT-MAX-Q2.webp" alt="【9/25発売】SHANLINGからハイエンドR2RポータブルCDプレーヤー EC ZeroT MAX とレトロなスタイルなプレイヤーQ2が登場！"></p>]]></description><source url="https://e-earphone.blog/?p=1553498">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/09/SHANLING-EC-ZeroT-MAX-Q2.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/09/SHANLING-EC-ZeroT-MAX-Q2.webp"/></item>
+<item><title>【#ポタフェス 2026 大阪】SeeAudio Bravoもオーダーメイドイヤホン受注開始！</title><link>https://e-earphone.blog/?p=1553393</link><guid isPermaLink="true">https://e-earphone.blog/?p=1553393</guid><pubDate>Fri, 18 Sep 2026 02:00:16 +0000</pubDate><description><![CDATA[<p>【#ポタフェス 2026 大阪】SeeAudio Bravoもオーダーメイドイヤホン受注開始！
+
+話題の最新機種がオーダーできるですって～！！？  ども！e☆イヤホン大阪日本橋本店のかんちゃんです。Follow @eear_kanchan    &amp;nb
+
+ポタフェス 2026 大阪 に関する情報が続々と登場していますが、今回は「SeeAudioオーダーメイドイヤホン受注会」に関する嬉しいお知らせです🎶
+
+【9/10発売】See audioからBraveryから続く、新たな音への探求したイヤホン Bravo が登場！
+
+SeeAudio「Bravo」オーダーメイドイヤホン受注開始！
+
+他の対応機種やデザインオプションなど、「SeeAudioオーダーメイドイヤホン受注会」のイベント詳細については、下記のブログをご参照ください▼
+
+【#ポタフェス 2026 大阪】SeeAudioオーダーメイドイヤホン受注会vol.6
+
+※See audioのカスタムはイベント開催時限定の受注となります。
+
+つまり！ ポタフェス 2026 大阪 より 今までの対応機種に加えて、 今月発売されたばかりの 「Bravo」 もオーダーメイドで ご注文いただけます✨
+
+See audio Bravo カスタム 商品詳細はコチラ↓ See audio Bravo – e☆イヤホン
+
+オーダーは 10/3( 土 )、10/4( 日 ) の2日間のみですが、 既に e☆イヤホン全店 で ご試聴が可能 です◎
+
+大阪日本橋本店では他機種も集めたSeeAudioコーナーを展開中🐰
+
+e☆イヤホン大阪日本橋本店 オーダーメイドイヤホン担当 邦ロックとボカロが主食です！</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/09/3879b604d3b284fc65f97aab4c1c971b.webp" alt="【#ポタフェス 2026 大阪】SeeAudio Bravoもオーダーメイドイヤホン受注開始！"></p>]]></description><source url="https://e-earphone.blog/?p=1553393">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/09/3879b604d3b284fc65f97aab4c1c971b.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/09/3879b604d3b284fc65f97aab4c1c971b.webp"/></item>
+<item><title>【10/3のポタフェス2026 大阪会場限定発売！】AAWから内部配線を変更したオーダーメイドIEMの Z06S が登場！</title><link>https://e-earphone.blog/?p=1553205</link><guid isPermaLink="true">https://e-earphone.blog/?p=1553205</guid><pubDate>Fri, 18 Sep 2026 02:00:13 +0000</pubDate><description><![CDATA[<p>【10/3のポタフェス2026 大阪会場限定発売！】AAWから内部配線を変更したオーダーメイドIEMの Z06S が登場！
+
+Z06から内部配線を変更した、ポタフェス2026 大阪会場限定の特別仕様モデル！こんにちは！e☆イヤホンのPRスタッフです！今回はAAWからポタフェス2026 大阪会場限定モデルのオーダーメイドIEMのご紹介です！&amp;nbsp
+
+Z06から内部配線を変更した、ポタフェス2026 大阪会場限定の特別仕様モデル！
+
+今回は AAW から ポタフェス2026 大阪会場限定モデルのオーダーメイドIEM のご紹介です！
+
+▼AAW Z06S e☆イヤホン オンラインストア価格￥77,000- (税込)
+
+2026年10月3日のポタフェス2026 大阪 会場限定販売！
+
+違いとしては、内部配線にNull Audio製「Thera MKIII UP-OCC Cryo Silver」に採用されている、7N高純度UP-OCC単結晶銀を内部配線に用いることで、Z06の音響設計を活かしながら、サウンドに繊細な変化を加えています。
+
+キレのある高音と深みのある低音！ 激しいロックやアコギのアクセントに
+
+オススメジャンル：【EDM】【オルタナティブ・メタル】【HIPHOP】
+
+満足度 ■バスドラ度 ★★★★★★★★★☆（9/10点満点中） ■ベース度 ★★★★★★☆☆☆☆（6/10点満点中） ■ボーカル度 ★★★★★★★☆☆☆（7/10点満点中） ■スネア度 ★★★★★★★★☆☆（8/10点満点中） ■ハイハット度 ★★★★★★★★☆☆（8/10点満点中）
+
+鳴らしやすく音量が取りやすいため、 特別なアンプを用意しなくてもポータブル環境で手軽にポテンシャルを発揮してくれます。
+
+音のトーンとしては、スネアやハイハットの輪郭がパキッと際立つ明瞭さが印象的です。 低音域は…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/09/7ecc4bf6e0f208b9654594d83ba25079.webp" alt="【10/3のポタフェス2026 大阪会場限定発売！】AAWから内部配線を変更したオーダーメイドIEMの Z06S が登場！"></p>]]></description><source url="https://e-earphone.blog/?p=1553205">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/09/7ecc4bf6e0f208b9654594d83ba25079.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/09/7ecc4bf6e0f208b9654594d83ba25079.webp"/></item>
+<item><title>【#ポタフェス 2026 大阪】会場マップを公開！【10月3日(土)開催】</title><link>https://e-earphone.blog/?p=1553312</link><guid isPermaLink="true">https://e-earphone.blog/?p=1553312</guid><pubDate>Fri, 18 Sep 2026 01:59:44 +0000</pubDate><description><![CDATA[<p>【#ポタフェス 2026 大阪】会場マップを公開！【10月3日(土)開催】
+
+ポタフェス 2026 大阪 会場マップを公開国内外約130ブランドが集結！ e☆イヤホンが主催する、イヤホン・ヘッドホンを中心とした”ポータブルオーディオ”の試聴＆体験イベント「ポータブルオーディオフェスティバル」
+
+e☆イヤホンが主催する、イヤホン・ヘッドホンを中心とした ”ポータブルオーディオ” の試聴＆体験イベント 「ポータブルオーディオフェスティバル」 （通称： ポタフェス ）
+
+いよいよ10月3日(土)に開催が迫った 「ポタフェス 2026 大阪」 の会場マップを大公開します！
+
+会場となる「グランキューブ大阪 3F イベントホールABC」に約130ブランドが大集結！
+
+当日会場では、e☆イヤホン特設物販をはじめ、オーダーメイドイヤホン受付、買取など、e☆イヤホンの各種サービスもご利用いただけます。
+
+グランキューブ大阪でのポタフェス開催は、今回で2回目です。会場規模をさらに拡大し、ポタフェス大阪史上、最大規模での開催を目指します。
+
+●開催日程：2026年10月3日(土) 11:00～18:00（最終入場17:30）
+
+●所在地：〒530-0005 大阪府大阪市北区中之島5-3-51
+
+・大阪メトロ 阿波座駅（中央線1号出口・千日前線9号出口）徒歩15分
+
+・無料シャトルバス ※JR大阪駅からリーガロイヤルホテル様のシャトルバスをご利用いただけます。
+
+「ポタフェス 2026 大阪」についてはこちらもご覧ください
+
+【随時更新】ポタフェス 2026 大阪 情報まとめ【10月3日(土)開催】
+
+【#ポタフェス】2026年ポタフェス開催スケジュールを大公開！
+
+最後までご覧いただきありがとうございます。『e☆イヤホン』ポタフェス運営の バンブー がお送りしました！
+
+ポタフェス運営スタッフのバンブーです。e☆イヤホンに入る前からのオーディオ好き！
+
+入社後ずっと買取一筋からPR部を経て、現在はポタフェス運営責任者。オーディオのディープな魅力を大切にしつつも、さらにオーディオの間…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/09/de26c43beeaa6d153fcecf12d30eda05.webp" alt="【#ポタフェス 2026 大阪】会場マップを公開！【10月3日(土)開催】"></p>]]></description><source url="https://e-earphone.blog/?p=1553312">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/09/de26c43beeaa6d153fcecf12d30eda05.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/09/de26c43beeaa6d153fcecf12d30eda05.webp"/></item>
+<item><title>GALLERIAのFFコラボPCにThreadripper機も！TGS2026のPCブースが熱い</title><link>https://pc.watch.impress.co.jp/docs/news/event/2142048.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/event/2142048.html</guid><pubDate>Fri, 18 Sep 2026 01:40:06 +0000</pubDate><description><![CDATA[<p>GALLERIAのFFコラボPCにThreadripper機も！TGS2026のPCブースが熱い
+
+5日間もの長期開催となった東京ゲームショウ2026。ゲームの試遊だけでなく、PCメーカー各社が新製品をいち早く披露する場にもなっている。
+
+GALLERIAのFFコラボPCにThreadripper機も！TGS2026のPCブースが熱い
+
+5日間もの長期開催となった東京ゲームショウ2026。ゲームの試遊だけでなく、PCメーカー各社が新製品をいち早く披露する場にもなっている。
+
+9月17日から9月21日にかけて、千葉・幕張メッセにて「東京ゲームショウ2026」が開催されている。出展している「GALLERIA(サードウェーブ)」「AORUS(GIGABYTE)」「G TUNE・NEXTGEAR(マウスコンピューター)」「Legion(レノボ)」のブースの様子を紹介する。
+
+GALLERIA(サードウェーブ)のブース(02-C21)では、17日、取締役社長の永井正樹氏が登壇して、GALLERIAブランドの今後の展開を発表。さらに新製品の発表も行なわれた。
+
+永井氏は、今までユーザーの新たな可能性を生み出すきっかけを作るために、製品を提供するだけでなく、さまざまな取り組みを行なってきたことを説明した上で、今後、「ゲーム」、「クリエイティブ」、「AI」の3つの分野でさらなる取り組みを進めていくことを発表した。
+
+「ゲーム」においては、これまでも「VALORANT Challenge Japan 2026」「CAPCOM CUP12」などの大会協賛や「モンスターハンターフェス&#39;26」などのイベント協賛やゲーム分野で活躍する方々への支援を行なってきたが、今後もさまざまな場所で、ユーザーのゲーム体験を支える取り組みを行なっていくという。
+
+「クリエイティブ」分野においては、各コンテストを開催…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2142/048/06.jpg" alt="GALLERIAのFFコラボPCにThreadripper機も！TGS2026のPCブースが熱い"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/event/2142048.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2142/048/06.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2142/048/06.jpg"/></item>
+<item><title>【本日みつけたお買い得品】リポビタンDの10本セットが20%引き。タウリン1,000mg配合！</title><link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2142044.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/todays_sales/2142044.html</guid><pubDate>Fri, 18 Sep 2026 01:31:04 +0000</pubDate><description><![CDATA[<p>【本日みつけたお買い得品】リポビタンDの10本セットが20%引き。タウリン1,000mg配合！
+
+Amazonにおいて、大正製薬のドリンク剤がお買い得だ。タウリン1,000mgを配合する「リポビタンD」(100mL)は、6本セットが15%引きクーポンで156円引きの882円、10本セットが20%引きクーポンで290円引きの1,160円、30本セットが990円引きクーポンで3,368円、50本セットが1,904円引きクーポンで5,076円にて購入できる。
+
+リポビタンDの10本セットが20%引き。タウリン1,000mg配合！
+
+Amazonにおいて、大正製薬のドリンク剤がお買い得だ。タウリン1,000mgを配合する「リポビタンD」(100mL)は、6本セットが15%引きクーポンで156円引きの882円、10本セットが20%引きクーポンで290円引きの1,160円、30本セットが990円引きクーポンで3,368円、50本セットが1,904円引きクーポンで5,076円にて購入できる。
+
+ほか、大正製薬「リポビタンDスーパー」(100mL)×10本セットは、5%引きクーポンで96円引きの1,813円。「リポビタンファイン」(100mL)×30本セットは、5%引きクーポンで205円引きの3,886円。「リポビタンフィール」(100mL)×30本セットは、5%引きクーポンで205円引きの3,886円。
+
+大正製薬「リポビタンJELLY」(180g)×36個セットは、10%引きクーポンで700円引きの6,298円。「リポビタンJELLY VC」(150g)×36個セットは、10%引きクーポンで685円引きの6,159円。
+
+大正製薬「リポビタンキッズゼリー もも風味」(125g)×30個セットは、10%引きクーポンで476円引きの4,281円。「リポビタンキッズゼリー ミックスフルーツ風味」(125g)×30個セットは、10%引きクーポンで583円引きの5,247円。「リポビタンキッズゼリー ラムネ風味」(125g)×30個セットは、10%引きクーポンで594円引きの5,346円にて…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2142/044/01.jpg" alt="【本日みつけたお買い得品】リポビタンDの10本セットが20%引き。タウリン1,000mg配合！"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/todays_sales/2142044.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2142/044/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2142/044/01.jpg"/></item>
+<item><title>【本日みつけたお買い得品】RAID対応の5ベイ外付けHDDケースが9,309円引き</title><link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2142038.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/todays_sales/2142038.html</guid><pubDate>Fri, 18 Sep 2026 01:25:12 +0000</pubDate><description><![CDATA[<p>【本日みつけたお買い得品】RAID対応の5ベイ外付けHDDケースが9,309円引き
+
+Amazonにおいて、UGREENの外付けHDDケース「5 Bay USB C RAID Hard Drive Enclosure」が9月10日の価格から9,309円引きで、2万1,690円にて購入可能だ。
+
+Amazonにおいて、UGREENの外付けHDDケース「5 Bay USB C RAID Hard Drive Enclosure」が9月10日の価格から9,309円引きで、2万1,690円にて購入可能だ。
+
+本機は、計5基の2.5/3.5インチドライブベイを備える外付けHDDケースだ。接続はUSB 3.2 Gen 1。デュアルチップ構成を採用し、安定したデータ転送を行なえるとする。ストレージ容量は最大合計160TB(32TB×5)に対応。ドライブ構成は、PM、Span、Clone、RAID 0/1/3/5/10をサポートする。また、15分のアイドル状態で自動的に休止するスリープモード機能を備える。
+
+UGREEN 5 Bay USB C RAID Hard Drive Enclosure
+
+ORICO「MacVault 4Big」は、直近価格からの5,999円引きにより、1万8,999円で購入できる。USB 3.2 Gen 2接続の外付けHDDケース。4基の2.5/3.5インチドライブベイを搭載し、最大合計88TB(22TB×4)のストレージ容量をサポートする。
+
+ORICO「3.5 inch 8 Bay USB3.0 Hard Drive Enclosure」は、直近価格から5,820円引きで、2万2,879円にて購入可能。USB 3.2 Gen 1接続の外付けHDDケースだ。8基の2.5/3.5インチドライブベイを備え、最大合計128TB(16TB×8)のストレージ容量に対応する。
+
+ORICO 3.5 inch 8 Bay USB3.0 Hard Drive Enclosure</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2142/038/01.jpg" alt="【本日みつけたお買い得品】RAID対応の5ベイ外付けHDDケースが9,309円引き"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/todays_sales/2142038.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2142/038/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2142/038/01.jpg"/></item>
 <item><title>【本日みつけたお買い得品】屋外で使えるAnker製Bluetoothスピーカーが2千円引き</title><link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2142036.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/todays_sales/2142036.html</guid><pubDate>Fri, 18 Sep 2026 01:06:40 +0000</pubDate><description><![CDATA[<p>【本日みつけたお買い得品】屋外で使えるAnker製Bluetoothスピーカーが2千円引き
 
 Amazonにおいて、AnkerのBluetoothスピーカー「Soundcore 3」が直近価格から2,000円引きで、4,990円にて購入できる。
@@ -720,6 +1015,21 @@ Amazon.co.jp 50%ポイント還元 Kindle本9月Amazonマンガ週末祭 第3弾
 筆者は自作PC歴20年以上の経験を持ち、Windows OSの細部にわたるカスタマイズや高度な設定、PCゲームの最適化、PCハードウェアとソフトウェアに関する専門知識をもとに、PC環境を快適にするための情報、不具合に遭わないようにするための情報、そして、ちょっとニッチよりなPCユーザー向け記事の執筆を2015年4月から11年にわたって行っています。
 
 長年の経験により得たノウハウを活かし、初心者から上級者まで幅広く対応できる情報を提供し、読者様のPCライフをより快適で充実したものにすることを目指しています。</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2026/09/kindle-sale-202609-50-new-c.png" alt="50％ポイント還元！Kindle本9月Amazonマンガ週末祭 第3弾 開催中"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-132331.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2026/09/kindle-sale-202609-50-new-c.png" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2026/09/kindle-sale-202609-50-new-c.png"/></item>
+<item><title>�֥��쥤������������������ɥĥ��������ܳ����ʡ��˥��󥿥ӥ塼���������ΥΥ��ɤ򺣤ɤ��Ϥ����Τ�������ĩ������ȯ�ؤ�ʹ����TGS2026��</title><link>https://www.4gamer.net/games/014/G101452/20260915002/</link><guid isPermaLink="true">https://www.4gamer.net/games/014/G101452/20260915002/</guid><pubDate>Thu, 17 Sep 2026 15:00:00 +0000</pubDate><description><![CDATA[<p>�֥��쥤������������������ɥĥ��������ܳ����ʡ��˥��󥿥ӥ塼���������ΥΥ��ɤ򺣤ɤ��Ϥ����Τ�������ĩ������ȯ�ؤ�ʹ����TGS2026��
+
+TGS2026に日本ステージが試遊出展されている「クレイジータクシー：ワールドツアー」。ディレクターの百渓 曜氏と，シリーズの生みの親でありクリエイティブプロデューサーの菅野顕二氏に，新作誕生の経緯…
+
+「クレイジータクシー：ワールドツアー」日本凱旋（？）インタビュー。“当時のノリ”を今どう届けるのか，その挑戦を開発陣に聞く［TGS2026］ ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
+
+↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 夏は七…</p><p><img src="https://www.4gamer.net/games/014/G101452/20260915002/SS/001.jpg" alt="�֥��쥤������������������ɥĥ��������ܳ����ʡ��˥��󥿥ӥ塼���������ΥΥ��ɤ򺣤ɤ��Ϥ����Τ�������ĩ������ȯ�ؤ�ʹ����TGS2026��"></p>]]></description><source url="https://www.4gamer.net/games/014/G101452/20260915002/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/014/G101452/20260915002/SS/001.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/014/G101452/20260915002/SS/001.jpg"/></item>
 <item><title>Sudokooのサイドフロー型クーラー「SK700」が発売、カラーは2色</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2141837.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2141837.html</guid><pubDate>Thu, 17 Sep 2026 15:00:00 +0000</pubDate><description><![CDATA[<p>Sudokooのサイドフロー型クーラー「SK700」が発売、カラーは2色
 
 Sudokooのサイドフロー型CPUクーラー「SK700」シリーズが登場。ラインアップはブラックモデルの「SK700-BK」と、ホワイトモデルの「SK700-WH」2モデル。
@@ -741,21 +1051,6 @@ SK700は、6mm径のヒートパイプ7本を備えたサイドフロー型CPU�
 ファンの主な仕様は、回転数が500～2,200rpm±10%、風量が66.29CFM、静圧が3.74mmAq、ノイズレベルが32.5dB(A)以下。サイズは120×120×25mm。
 
 対応CPUソケットはAMD Socket AM5。別売マウンティングキット「SK700-MBK」を用いてIntel LGA115X/1200/1…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2141/837/a1.jpg" alt="Sudokooのサイドフロー型クーラー「SK700」が発売、カラーは2色"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2141837.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2141/837/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2141/837/a1.jpg"/></item>
-<item><title>�֥��쥤������������������ɥĥ��������ܳ����ʡ��˥��󥿥ӥ塼���������ΥΥ��ɤ򺣤ɤ��Ϥ����Τ�������ĩ������ȯ�ؤ�ʹ����TGS2026��</title><link>https://www.4gamer.net/games/014/G101452/20260915002/</link><guid isPermaLink="true">https://www.4gamer.net/games/014/G101452/20260915002/</guid><pubDate>Thu, 17 Sep 2026 15:00:00 +0000</pubDate><description><![CDATA[<p>�֥��쥤������������������ɥĥ��������ܳ����ʡ��˥��󥿥ӥ塼���������ΥΥ��ɤ򺣤ɤ��Ϥ����Τ�������ĩ������ȯ�ؤ�ʹ����TGS2026��
-
-TGS2026に日本ステージが試遊出展されている「クレイジータクシー：ワールドツアー」。ディレクターの百渓 曜氏と，シリーズの生みの親でありクリエイティブプロデューサーの菅野顕二氏に，新作誕生の経緯…
-
-「クレイジータクシー：ワールドツアー」日本凱旋（？）インタビュー。“当時のノリ”を今どう届けるのか，その挑戦を開発陣に聞く［TGS2026］ ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
-
-↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 夏は七…</p><p><img src="https://www.4gamer.net/games/014/G101452/20260915002/SS/001.jpg" alt="�֥��쥤������������������ɥĥ��������ܳ����ʡ��˥��󥿥ӥ塼���������ΥΥ��ɤ򺣤ɤ��Ϥ����Τ�������ĩ������ȯ�ؤ�ʹ����TGS2026��"></p>]]></description><source url="https://www.4gamer.net/games/014/G101452/20260915002/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/014/G101452/20260915002/SS/001.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/014/G101452/20260915002/SS/001.jpg"/></item>
 <item><title>積荷目録でASRockのZ990マザーボードの型番が確認される</title><link>https://northwood.blog.fc2.com/blog-entry-13206.html</link><guid isPermaLink="true">https://northwood.blog.fc2.com/blog-entry-13206.html</guid><pubDate>Thu, 17 Sep 2026 14:37:47 +0000</pubDate><description><![CDATA[<p>積荷目録でASRockのZ990マザーボードの型番が確認される
 
 北森瓦版 - Northwood Blog (Author : 北森八雲. Since July 10, 2006.)
@@ -1434,19 +1729,6 @@ ROG NUC 16 Edition 20は、容積約3Lの筐体にCore Ultra 9 290HX PlusとGeFo
 主な仕様は、CPUがCore Ultra 9 290HX Plus、チップセットがHM870、メモリが64GB DDR5-6400(32GB×2、CSO-DIMM)、GPUがGeForce RTX 5090 Laptop GPU、ストレージが2TB NVMe SSD、OSがWindows 11 Home。PCIe 4.0 x4対応のM.2 2280スロットが空きで用意されている。
 
 インターフェ…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2141/688/1.jpg" alt="120万円のROG 20周年記念ミニPC登場！RTX 5090 Laptop搭載"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2141688.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2141/688/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2141/688/1.jpg"/></item>
-<item><title>���ᥢ���������ֵ����� Way of the Sword�פ���Ŭư�Lenovo�ΥΡ���PC��Legion Pro 5 Gen 10�פ����⤷�������ޡ�����������PR��</title><link>https://www.4gamer.net/games/329/G032948/20260902011/</link><guid isPermaLink="true">https://www.4gamer.net/games/329/G032948/20260902011/</guid><pubDate>Thu, 17 Sep 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>���ᥢ���������ֵ����� Way of the Sword�פ���Ŭư�Lenovo�ΥΡ���PC��Legion Pro 5 Gen 10�פ����⤷�������ޡ�����������PR��
-
-物価高に悩まされることも多いゲーマーにおすすめしたい，コストパフォーマンスの高いゲーミングノートPCが，レノボの「Legion Pro 5 Gen 10」だ。どんな利点や魅力があるのか。新作剣戟アク…
-
-剣戟アクション「鬼武者 Way of the Sword」も快適動作。LenovoのノートPC「Legion Pro 5 Gen 10」は頼もしいゲーマーの相棒だ【PR】 ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
-
-↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↑アイコン/タイトル↑ ↓リード画像↓ ↑リー…</p><p><img src="https://www.4gamer.net/games/329/G032948/20260902011/SS/003.jpg" alt="���ᥢ���������ֵ����� Way of the Sword�פ���Ŭư�Lenovo�ΥΡ���PC��Legion Pro 5 Gen 10�פ����⤷�������ޡ�����������PR��"></p>]]></description><source url="https://www.4gamer.net/games/329/G032948/20260902011/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/329/G032948/20260902011/SS/003.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/329/G032948/20260902011/SS/003.jpg"/></item>
 <item><title>Core i5-1135G7搭載の「Surface Pro 7+」が10%オフで57,420円、Qualitの中古Cランク品が期間限定セール</title><link>https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2141556.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2141556.html</guid><pubDate>Thu, 17 Sep 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>Core i5-1135G7搭載の「Surface Pro 7+」が10%オフで57,420円、Qualitの中古Cランク品が期間限定セール
 
 Core i5-1135G7(4コア/8スレッド)を搭載したMicrosoft製12.3型タブレットPC「Surface Pro 7+」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で期間限定セール中。
@@ -1473,6 +1755,19 @@ TVアニメも好評を博した人気作「Aランクパーティを離脱し�
 ↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
 
 ↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑…</p><p><img src="https://www.4gamer.net/games/994/G099460/20260907022/SS/001.jpg" alt="6��������ĩ���ܳʥ��󥸥���RPG�߶����Ҥ����Ȥ�嫡���������A���󥯥ѡ��ƥ���Υæ�������ϡ��������Ҥ������µܿ������ܻؤ����׳�ȯ�ԥ��󥿥ӥ塼��PR��"></p>]]></description><source url="https://www.4gamer.net/games/994/G099460/20260907022/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/994/G099460/20260907022/SS/001.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/994/G099460/20260907022/SS/001.jpg"/></item>
+<item><title>���ᥢ���������ֵ����� Way of the Sword�פ���Ŭư�Lenovo�ΥΡ���PC��Legion Pro 5 Gen 10�פ����⤷�������ޡ�����������PR��</title><link>https://www.4gamer.net/games/329/G032948/20260902011/</link><guid isPermaLink="true">https://www.4gamer.net/games/329/G032948/20260902011/</guid><pubDate>Thu, 17 Sep 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>���ᥢ���������ֵ����� Way of the Sword�פ���Ŭư�Lenovo�ΥΡ���PC��Legion Pro 5 Gen 10�פ����⤷�������ޡ�����������PR��
+
+物価高に悩まされることも多いゲーマーにおすすめしたい，コストパフォーマンスの高いゲーミングノートPCが，レノボの「Legion Pro 5 Gen 10」だ。どんな利点や魅力があるのか。新作剣戟アク…
+
+剣戟アクション「鬼武者 Way of the Sword」も快適動作。LenovoのノートPC「Legion Pro 5 Gen 10」は頼もしいゲーマーの相棒だ【PR】 ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
+
+↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↑アイコン/タイトル↑ ↓リード画像↓ ↑リー…</p><p><img src="https://www.4gamer.net/games/329/G032948/20260902011/SS/003.jpg" alt="���ᥢ���������ֵ����� Way of the Sword�פ���Ŭư�Lenovo�ΥΡ���PC��Legion Pro 5 Gen 10�פ����⤷�������ޡ�����������PR��"></p>]]></description><source url="https://www.4gamer.net/games/329/G032948/20260902011/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/329/G032948/20260902011/SS/003.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/329/G032948/20260902011/SS/003.jpg"/></item>
 <item><title>横折りスマホが20万円切り！motorola razr fold、MNP一括19万9800円</title><link>https://smhn.info/202609-motorola-razr-fold-iijmio-mnp-sale</link><guid isPermaLink="true">https://smhn.info/202609-motorola-razr-fold-iijmio-mnp-sale</guid><pubDate>Thu, 17 Sep 2026 02:58:29 +0000</pubDate><description><![CDATA[<p>横折りスマホが20万円切り！motorola razr fold、MNP一括19万9800円
 
 IIJmioにおいて、横開きの折りたたみスマートフォン「motorola razr fold」が、他社からの乗り換え（MNP）限定で一括19万9800円（税込）で販売中です。終了予定は11月4日21時59分となっています。取り扱う国内向けモデルは実行メモリ12GB、ストレージ25...
@@ -4487,6 +4782,17 @@ Excelで貼り付けできない不具合が修正されたものの、 まだ�
 現状、まだ2026年9月8日より前のビルドに留まっておいた方がよさそうです。
 
 なお、2026年9月12日付けでリリースされたアップデートは、企業・組織向けのLTSC版 / ボリュームライセンス版のみとなっています。一般ユーザー向けの製品版は202…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2025/05/microsoft-issue-big-1200.jpg" alt="Excelで貼り付けできない不具合が修正されるも不完全の模様"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-132267.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2025/05/microsoft-issue-big-1200.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2025/05/microsoft-issue-big-1200.jpg"/></item>
+<item><title>【プロダクトレビュー・ショーケース】最新世代QLC SSD、Nextorage「Gシリーズ EEA」1TB版を試す――リードは7,000MB/s超、パフォーマンスや得手不得手をチェックする厳しい状況が続くストレージ市場、QLC SSDをどう活かす? text by 芹澤 正芳</title><link>https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2140857.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2140857.html</guid><pubDate>Tue, 15 Sep 2026 01:00:00 +0000</pubDate><description><![CDATA[<p>【プロダクトレビュー・ショーケース】最新世代QLC SSD、Nextorage「Gシリーズ EEA」1TB版を試す――リードは7,000MB/s超、パフォーマンスや得手不得手をチェックする厳しい状況が続くストレージ市場、QLC SSDをどう活かす? text by 芹澤 正芳
+
+SSDの高値傾向が続く昨今、容量単価を抑えやすいQLC NAND採用製品に改めて注目が集まっている。Nextorageが新たに発売した「Gシリーズ EEA」もそのひとつだ。大容量SLCキャッシュとQLC NANDで性能と容量のバランスを追求したという。今回は1TBモデルを使い、基本性能、ゲーム系ベンチマーク、連続書き込み時の速度と温度などをチェック。最新QLC SSDの実力を見てみよう。
+
+最新世代QLC SSD、Nextorage「Gシリーズ EEA」1TB版を試す――リードは7,000MB/s超、パフォーマンスや得手不得手をチェックする
+
+厳しい状況が続くストレージ市場、QLC SSDをどう活かす? text by 芹澤 正芳
+
+SSDの高値傾向が続く昨今、容量単価を抑えやすいQLC NAND採用製品に改めて注目が集まっている。Nextorageが新たに発売した「Gシリーズ EEA」もそのひとつだ。大容量SLCキャッシュとQLC NANDで性能と容量のバランスを追求したという。今回は1TBモデルを使い、基本性能、ゲーム系ベンチマーク、連続書き込み時の速度と温度などをチェック。最新QLC SSDの実力を見てみよう。
+
+ミドルレンジ帯でのピーク性能は、TLC NANDとQLC NANDの差はほとんどなくなってきている。ただ、「TLC NANDのSSDに比べて寿命が短いのが心配」、「SLCキャッシュが切れた後の書き込み速度が遅い」といったように、実際に構造上の不利もあるため(一部は誇張された表現ではあ…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/857/top.jpg" alt="【プロダクトレビュー・ショーケース】最新世代QLC SSD、Nextorage「Gシリーズ EEA」1TB版を試す――リードは7,000MB/s超、パフォーマンスや得手不得手をチェックする厳しい状況が続くストレージ市場、QLC SSDをどう活かす? text by 芹澤 正芳"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2140857.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/857/top.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/857/top.jpg"/></item>
 <item><title>18型240Hz×RTX 5080、これはもう持ち運べるハイエンドデスクトップPCだ [Sponsored]</title><link>https://pc.watch.impress.co.jp/docs/topic/pckoubou_review/2140639.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/topic/pckoubou_review/2140639.html</guid><pubDate>Tue, 15 Sep 2026 01:00:00 +0000</pubDate><description><![CDATA[<p>18型240Hz×RTX 5080、これはもう持ち運べるハイエンドデスクトップPCだ [Sponsored]
 
 パソコン工房の「LEVEL-18WG181-U7P-VKSX」は、18型240Hz駆動の大画面液晶パネルを備える大型ゲーミングノートPCで、GeForce RTX 5080 Laptop GPUを搭載するハイエンドモデルだ。
@@ -4508,17 +4814,6 @@ LEVEL-18WG181-U7P-VKSXは、パソコン工房が展開するゲーミングPC�
 ハイエンドモデルであるLEVEL-18WG181-U7P-VKSXは、Intelの20コアCPU「Core Ultra 7 270HX Plus」と、NVIDIAのハイエンドGPU「GeForce RTX 5080 Laptop GPU」を搭載。18型のディスプレイはWQXGA解像度(2,560×1,600ドット)で240Hz駆動とG-SYNCに対応する。
 
 18…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2140/639/a01.jpg" alt="18型240Hz×RTX 5080、これはもう持ち運べるハイエンドデスクトップPCだ [Sponsored]"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/topic/pckoubou_review/2140639.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2140/639/a01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2140/639/a01.jpg"/></item>
-<item><title>【プロダクトレビュー・ショーケース】最新世代QLC SSD、Nextorage「Gシリーズ EEA」1TB版を試す――リードは7,000MB/s超、パフォーマンスや得手不得手をチェックする厳しい状況が続くストレージ市場、QLC SSDをどう活かす? text by 芹澤 正芳</title><link>https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2140857.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2140857.html</guid><pubDate>Tue, 15 Sep 2026 01:00:00 +0000</pubDate><description><![CDATA[<p>【プロダクトレビュー・ショーケース】最新世代QLC SSD、Nextorage「Gシリーズ EEA」1TB版を試す――リードは7,000MB/s超、パフォーマンスや得手不得手をチェックする厳しい状況が続くストレージ市場、QLC SSDをどう活かす? text by 芹澤 正芳
-
-SSDの高値傾向が続く昨今、容量単価を抑えやすいQLC NAND採用製品に改めて注目が集まっている。Nextorageが新たに発売した「Gシリーズ EEA」もそのひとつだ。大容量SLCキャッシュとQLC NANDで性能と容量のバランスを追求したという。今回は1TBモデルを使い、基本性能、ゲーム系ベンチマーク、連続書き込み時の速度と温度などをチェック。最新QLC SSDの実力を見てみよう。
-
-最新世代QLC SSD、Nextorage「Gシリーズ EEA」1TB版を試す――リードは7,000MB/s超、パフォーマンスや得手不得手をチェックする
-
-厳しい状況が続くストレージ市場、QLC SSDをどう活かす? text by 芹澤 正芳
-
-SSDの高値傾向が続く昨今、容量単価を抑えやすいQLC NAND採用製品に改めて注目が集まっている。Nextorageが新たに発売した「Gシリーズ EEA」もそのひとつだ。大容量SLCキャッシュとQLC NANDで性能と容量のバランスを追求したという。今回は1TBモデルを使い、基本性能、ゲーム系ベンチマーク、連続書き込み時の速度と温度などをチェック。最新QLC SSDの実力を見てみよう。
-
-ミドルレンジ帯でのピーク性能は、TLC NANDとQLC NANDの差はほとんどなくなってきている。ただ、「TLC NANDのSSDに比べて寿命が短いのが心配」、「SLCキャッシュが切れた後の書き込み速度が遅い」といったように、実際に構造上の不利もあるため(一部は誇張された表現ではあ…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/857/top.jpg" alt="【プロダクトレビュー・ショーケース】最新世代QLC SSD、Nextorage「Gシリーズ EEA」1TB版を試す――リードは7,000MB/s超、パフォーマンスや得手不得手をチェックする厳しい状況が続くストレージ市場、QLC SSDをどう活かす? text by 芹澤 正芳"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2140857.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/857/top.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/857/top.jpg"/></item>
 <item><title>欠陥個体を組み直した「再生品 Xperia 1 VII」が出回っているとの怪情報</title><link>https://smhn.info/202609-xperia-1-vii-zackbuks-refurbished-warning</link><guid isPermaLink="true">https://smhn.info/202609-xperia-1-vii-zackbuks-refurbished-warning</guid><pubDate>Tue, 15 Sep 2026 00:19:38 +0000</pubDate><description><![CDATA[<p>欠陥個体を組み直した「再生品 Xperia 1 VII」が出回っているとの怪情報
 
 著名リーカーのZACKBUKS氏が9月11日、Xperia 1 VIIの購入を控えるようソニーファンに呼びかけました。過去に問題のあった端末を組み直した、再生品が出回っている可能性を同氏は指摘しています。過去の問題とは、2025年に同機種で基板の不具合による動作停止や回収があった...
@@ -7607,19 +7902,6 @@ Acerが16型ノートPC「Aspire G 3D 16」を発表しました。専用メガ�
 5MP WebカメラとIRカメラを備え、裸眼3D表示には2基の視線追跡カメラを使用します。2Wスピーカーを2基搭載し、Wi-Fi 7とBluetooth 5.4対応。USB4 Type-Cを2基搭載するほか、HDMI 2.1、SD 4.0カードリーダー、RJ-45端子なども備えます。
 
 バッテリー容量もたっぷり99.9Whですが、重量は1.8kgとかなり鈍重なのはネックです。</p><p><img src="https://smhn.info/wp-content/uploads/2026/09/44c23b6b15d70994d766716b66bcaf1c-e1788685382101.jpeg" alt="裸眼3Dに最大128GB実行メモリ対応、Acer Aspire G 3D 16発表"></p>]]></description><source url="https://smhn.info/202609-acer-aspire-g-3d-16-announced">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/09/44c23b6b15d70994d766716b66bcaf1c-e1788685382101.jpeg" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/09/44c23b6b15d70994d766716b66bcaf1c-e1788685382101.jpeg"/></item>
-<item><title>Core i5-9500搭載の「ProDesk 600 G5 SF」が10%オフで25,740円、Qualitの中古Cランク品の期間限定セール</title><link>https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2139705.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2139705.html</guid><pubDate>Sat, 12 Sep 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>Core i5-9500搭載の「ProDesk 600 G5 SF」が10%オフで25,740円、Qualitの中古Cランク品の期間限定セール
-
-Core i5-9500(6コア/6スレッド)を搭載したHP製デスクトップPC「ProDesk 600 G5 SF」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で期間限定セール中。
-
-Core i5-9500搭載の「ProDesk 600 G5 SF」が10%オフで25,740円、Qualitの中古Cランク品の期間限定セール
-
-Core i5-9500(6コア/6スレッド)を搭載したHP製デスクトップPC「ProDesk 600 G5 SF」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で期間限定セール中 。
-
-今回販売されているのは、「傷や使用感が見られる」(同店)というCランク中古品で、販売価格は25,740円。保証期間は12か月となっています。
-
-主な仕様は、メモリが8GB(空きスロット×3)、ストレージが500GB SATA HDD、OSがWindows 11 Pro。インターフェイスには、DisplayPort×2やVGA、USB 3.1 Type-Cなどを備えるほか、書き込み対応DVDドライブを搭載しています。
-
-セール期間は9月30日までとなっています。興味がある方はチェックしてみてください。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2139/705/a1.jpg" alt="Core i5-9500搭載の「ProDesk 600 G5 SF」が10%オフで25,740円、Qualitの中古Cランク品の期間限定セール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2139705.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2139/705/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2139/705/a1.jpg"/></item>
 <item><title>�Υ��󥿥ӥ塼�ϡ֥��ʥ������ǥ� �ӥ��󥺡פϡ��������Ż��ե������ڤ����뿷��󥷥塼��RPG�ˡ��ץ��ǥ塼���������롤����̥�ϤȤ�</title><link>https://www.4gamer.net/games/981/G098195/20260909042/</link><guid isPermaLink="true">https://www.4gamer.net/games/981/G098195/20260909042/</guid><pubDate>Sat, 12 Sep 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>�Υ��󥿥ӥ塼�ϡ֥��ʥ������ǥ� �ӥ��󥺡פϡ��������Ż��ե������ڤ����뿷��󥷥塼��RPG�ˡ��ץ��ǥ塼���������롤����̥�ϤȤ�
 
 「アナザーエデン 時空を超える猫」の第1部が，新作コンシューマRPGとして生まれ変わる。9月17日発売の「アナザーエデン ビギンズ」について，再構築の狙いや新規，古参ファン双方に向けた見どころを，プ…
@@ -7635,6 +7917,19 @@ Core i5-9500(6コア/6スレッド)を搭載したHP製デスクトップPC「Pr
 ↓アイコン/タイトル↓ 夏は七不思議ならぬ“七不穏”で暑さを忘却の彼方へ――涼しくチルアウトできる終末，陰鬱，ディストピアな7つのゲーム ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
 
 ↓アイコン/タイトル↓ ひと夏の思い出に「桃鉄」100年プレイ。みんな…</p><p><img src="https://www.4gamer.net/games/981/G098195/20260909042/SS/010.jpg" alt="�Υ��󥿥ӥ塼�ϡ֥��ʥ������ǥ� �ӥ��󥺡פϡ��������Ż��ե������ڤ����뿷��󥷥塼��RPG�ˡ��ץ��ǥ塼���������롤����̥�ϤȤ�"></p>]]></description><source url="https://www.4gamer.net/games/981/G098195/20260909042/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/981/G098195/20260909042/SS/010.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/981/G098195/20260909042/SS/010.jpg"/></item>
+<item><title>Core i5-9500搭載の「ProDesk 600 G5 SF」が10%オフで25,740円、Qualitの中古Cランク品の期間限定セール</title><link>https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2139705.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2139705.html</guid><pubDate>Sat, 12 Sep 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>Core i5-9500搭載の「ProDesk 600 G5 SF」が10%オフで25,740円、Qualitの中古Cランク品の期間限定セール
+
+Core i5-9500(6コア/6スレッド)を搭載したHP製デスクトップPC「ProDesk 600 G5 SF」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で期間限定セール中。
+
+Core i5-9500搭載の「ProDesk 600 G5 SF」が10%オフで25,740円、Qualitの中古Cランク品の期間限定セール
+
+Core i5-9500(6コア/6スレッド)を搭載したHP製デスクトップPC「ProDesk 600 G5 SF」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で期間限定セール中 。
+
+今回販売されているのは、「傷や使用感が見られる」(同店)というCランク中古品で、販売価格は25,740円。保証期間は12か月となっています。
+
+主な仕様は、メモリが8GB(空きスロット×3)、ストレージが500GB SATA HDD、OSがWindows 11 Pro。インターフェイスには、DisplayPort×2やVGA、USB 3.1 Type-Cなどを備えるほか、書き込み対応DVDドライブを搭載しています。
+
+セール期間は9月30日までとなっています。興味がある方はチェックしてみてください。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2139/705/a1.jpg" alt="Core i5-9500搭載の「ProDesk 600 G5 SF」が10%オフで25,740円、Qualitの中古Cランク品の期間限定セール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2139705.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2139/705/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2139/705/a1.jpg"/></item>
 <item><title>楽天モバイルでiPhone18 Pro／Pro Maxを予約する方法｜12日午後9時開始・発売日朝8時販売</title><link>https://iphone-mania.jp/iphone18-605746/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-605746/</guid><pubDate>Sat, 12 Sep 2026 02:44:03 +0000</pubDate><description><![CDATA[<p>楽天モバイルでiPhone18 Pro／Pro Maxを予約する方法｜12日午後9時開始・発売日朝8時販売
 
 楽天モバイルのiPhone18 Pro／Pro Maxは9月12日（土）午後9時に予約開始、発売日9月18日（金）は午前8時から販売。予約手順、本人確認（eKYC）、価格発表の見通しをまとめました。
@@ -7772,19 +8067,6 @@ MAXSUN（本社：中国・広東省広州市）は2026年9月11日（現地時�
 
 在庫は合計50台以上用意されているようです。店頭のほか、同店の通販サイトでも販売されているので、興味がある方は確認してみてください。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/373/a1.jpg" alt="片手で持ちやすい5Gスマホ「Xperia Ace III」の中古品が12,800円、ジャンク品が8,000円！秋葉原でセール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2140373.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/373/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/373/a1.jpg"/></item>
 <item><title>(お買い得品情報) チョイ訳ありだけど完全未使用な「Xperia 1 VII」が159,800円で大量販売中</title><link>https://www.gdm.or.jp/crew/2026/0912/652050</link><guid isPermaLink="true">https://www.gdm.or.jp/crew/2026/0912/652050</guid><pubDate>Sat, 12 Sep 2026 01:15:36 +0000</pubDate><description><![CDATA[<p>(お買い得品情報) チョイ訳ありだけど完全未使用な「Xperia 1 VII」が159,800円で大量販売中</p>]]></description><source url="https://www.gdm.or.jp/crew/2026/0912/652050">エルミタージュ秋葉原</source></item>
-<item><title>自作PC/デスクトップPCの拡張性をもっと活用できる!!使うと便利な“拡張カード”13選 Thunderboltからレガシーデバイス向けまで、今も選択肢はバラエティ豊か text by  石川 ひさよし</title><link>https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2140383.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2140383.html</guid><pubDate>Sat, 12 Sep 2026 01:00:00 +0000</pubDate><description><![CDATA[<p>自作PC/デスクトップPCの拡張性をもっと活用できる!!使うと便利な“拡張カード”13選 Thunderboltからレガシーデバイス向けまで、今も選択肢はバラエティ豊か text by  石川 ひさよし
-
-デスクトップPCの“拡張性の高さ”の理由のひとつとして挙げられる「PCI Express接続の拡張カード」。近年ではビデオカード以外で拡張カードを挿す機会はずいぶんと減ってしまったものの、マザーボードには今もビデオカード以外の拡張カードを組み込めるPCI Expressスロットが用意されています。
-
-自作PC/デスクトップPCの拡張性をもっと活用できる!!使うと便利な“拡張カード”13選
-
-Thunderboltからレガシーデバイス向けまで、今も選択肢はバラエティ豊か text by 石川 ひさよし
-
-デスクトップPCの“拡張性の高さ”の理由のひとつとして挙げられる「PCI Express接続の拡張カード」。近年ではビデオカード以外で拡張カードを挿す機会はずいぶんと減ってしまったものの、マザーボードには今もビデオカード以外の拡張カードを組み込めるPCI Expressスロットが用意されています。
-
-最近存在自体をちょっと忘れがちなPCI Express拡張カードですが、今はどのような製品があるのでしょうか? 気になったので一度まとめてみよう、というのが今回の趣旨です。今どきはUSBなどで手軽に増設できる機能がたくさんありますが、拡張カードでPC内に内蔵することでスッキリスマートにPCをパワーアップできる場合もあります。この機会にチェックしてみましょう。
-
-拡張と言っても、今どきはカードよりもUSBを使うことが多いかもしれません。USBポートを増やしたい、ちょい古PCで高速規格のUSBを使いたい、といったときに便利なのがUSB拡張カードです。最近では、Thunderbolt…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/383/top.jpg" alt="自作PC/デスクトップPCの拡張性をもっと活用できる!!使うと便利な“拡張カード”13選 Thunderboltからレガシーデバイス向けまで、今も選択肢はバラエティ豊か text by  石川 ひさよし"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2140383.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/383/top.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/383/top.jpg"/></item>
 <item><title>�Υ��󥿥ӥ塼�ϡ֥ޥӥΥ����Х����פϤ��ĤǤ��������ȶ��ʥե��󥿥���������devCAT����ɽ���ǥ��쥯������ʹ�������Х����ʤ��ǤϤΤ�������</title><link>https://www.4gamer.net/games/387/G038732/20260909052/</link><guid isPermaLink="true">https://www.4gamer.net/games/387/G038732/20260909052/</guid><pubDate>Sat, 12 Sep 2026 01:00:00 +0000</pubDate><description><![CDATA[<p>�Υ��󥿥ӥ塼�ϡ֥ޥӥΥ����Х����פϤ��ĤǤ��������ȶ��ʥե��󥿥���������devCAT����ɽ���ǥ��쥯������ʹ�������Х����ʤ��ǤϤΤ�������
 
 ネクソンは，オンラインRPG「マビノギモバイル」の2026年内の日本サービス開始を予定し，現在は事前登録を受け付けている。今回4Gamerでは，devCATの代表であるキム・ドンゴン氏と，開発ディレ…
@@ -7800,6 +8082,19 @@ Thunderboltからレガシーデバイス向けまで、今も選択肢はバラ
 ↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
 
 ↓アイコン/タイトル↓ 夏は七不思議ならぬ“七不穏”で暑さを忘却の彼方へ――涼しくチルアウトできる終末，陰鬱，ディストピアな7つのゲーム ↑アイコン/タイ…</p><p><img src="https://www.4gamer.net/games/387/G038732/20260909052/SS/001.jpg" alt="�Υ��󥿥ӥ塼�ϡ֥ޥӥΥ����Х����פϤ��ĤǤ��������ȶ��ʥե��󥿥���������devCAT����ɽ���ǥ��쥯������ʹ�������Х����ʤ��ǤϤΤ�������"></p>]]></description><source url="https://www.4gamer.net/games/387/G038732/20260909052/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/387/G038732/20260909052/SS/001.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/387/G038732/20260909052/SS/001.jpg"/></item>
+<item><title>自作PC/デスクトップPCの拡張性をもっと活用できる!!使うと便利な“拡張カード”13選 Thunderboltからレガシーデバイス向けまで、今も選択肢はバラエティ豊か text by  石川 ひさよし</title><link>https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2140383.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2140383.html</guid><pubDate>Sat, 12 Sep 2026 01:00:00 +0000</pubDate><description><![CDATA[<p>自作PC/デスクトップPCの拡張性をもっと活用できる!!使うと便利な“拡張カード”13選 Thunderboltからレガシーデバイス向けまで、今も選択肢はバラエティ豊か text by  石川 ひさよし
+
+デスクトップPCの“拡張性の高さ”の理由のひとつとして挙げられる「PCI Express接続の拡張カード」。近年ではビデオカード以外で拡張カードを挿す機会はずいぶんと減ってしまったものの、マザーボードには今もビデオカード以外の拡張カードを組み込めるPCI Expressスロットが用意されています。
+
+自作PC/デスクトップPCの拡張性をもっと活用できる!!使うと便利な“拡張カード”13選
+
+Thunderboltからレガシーデバイス向けまで、今も選択肢はバラエティ豊か text by 石川 ひさよし
+
+デスクトップPCの“拡張性の高さ”の理由のひとつとして挙げられる「PCI Express接続の拡張カード」。近年ではビデオカード以外で拡張カードを挿す機会はずいぶんと減ってしまったものの、マザーボードには今もビデオカード以外の拡張カードを組み込めるPCI Expressスロットが用意されています。
+
+最近存在自体をちょっと忘れがちなPCI Express拡張カードですが、今はどのような製品があるのでしょうか? 気になったので一度まとめてみよう、というのが今回の趣旨です。今どきはUSBなどで手軽に増設できる機能がたくさんありますが、拡張カードでPC内に内蔵することでスッキリスマートにPCをパワーアップできる場合もあります。この機会にチェックしてみましょう。
+
+拡張と言っても、今どきはカードよりもUSBを使うことが多いかもしれません。USBポートを増やしたい、ちょい古PCで高速規格のUSBを使いたい、といったときに便利なのがUSB拡張カードです。最近では、Thunderbolt…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/383/top.jpg" alt="自作PC/デスクトップPCの拡張性をもっと活用できる!!使うと便利な“拡張カード”13選 Thunderboltからレガシーデバイス向けまで、今も選択肢はバラエティ豊か text by  石川 ひさよし"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2140383.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/383/top.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/383/top.jpg"/></item>
 <item><title>(お買い得中古品情報) 第11世代Core i5＆メモリ16GBのフルHDコンバーチブルノートが30,000円ポッキリ</title><link>https://www.gdm.or.jp/crew/2026/0912/652041</link><guid isPermaLink="true">https://www.gdm.or.jp/crew/2026/0912/652041</guid><pubDate>Sat, 12 Sep 2026 00:56:00 +0000</pubDate><description><![CDATA[<p>(お買い得中古品情報) 第11世代Core i5＆メモリ16GBのフルHDコンバーチブルノートが30,000円ポッキリ</p>]]></description><source url="https://www.gdm.or.jp/crew/2026/0912/652041">エルミタージュ秋葉原</source></item>
 <item><title>「Pixel 8」と「Pixel 8a」が36,800円、秋葉原で中古品セール</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2140369.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2140369.html</guid><pubDate>Sat, 12 Sep 2026 00:30:00 +0000</pubDate><description><![CDATA[<p>「Pixel 8」と「Pixel 8a」が36,800円、秋葉原で中古品セール
 
@@ -8418,287 +8713,4 @@ AmazonのKindleストアにて、毎週恒例の「マンガ週末際」が9/11�
 一騎当千 24巻 ＜電子版限定特典付き＞ (ガムコミックス)
 
 お買い得パソコン評論家。毎日各メーカー・各ショップのWebページを500p以上チェックして、安くてお得なパソコンを探しています。元PC雑誌編集者で、PC系フリーライターでもあるオジサン。文章に関わる仕事を始めてから25年以上。最高195万PV/月</p><p><img src="https://komameblog.jp/wp-content/uploads/2026/09/Kindle-20260911-weekend.jpg" alt="【2000年代】ジャンプ / マガジン / サンデーの少年誌マンガが50%ポイント還元中"></p>]]></description><source url="https://komameblog.jp/sale/kindle-20260911-weekend/">こまめブログ</source><media:content url="https://komameblog.jp/wp-content/uploads/2026/09/Kindle-20260911-weekend.jpg" medium="image"/><media:thumbnail url="https://komameblog.jp/wp-content/uploads/2026/09/Kindle-20260911-weekend.jpg"/></item>
-<item><title>【まとめ】iPhone18 Proの改良点を確認！？17 Pro/16 Proと比較</title><link>https://iphone-mania.jp/iphone18-605683/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-605683/</guid><pubDate>Fri, 11 Sep 2026 10:50:33 +0000</pubDate><description><![CDATA[<p>【まとめ】iPhone18 Proの改良点を確認！？17 Pro/16 Proと比較
-
-Appleは2026年9月10日にAppleイベントを開催し、最新のストレート型iPhoneとなるiPhone18 Proシリーズを発表しました。同シリーズを、iPhone17 ProシリーズおよびiPhone16 Proシリーズと比較し、改良点を確認します。
-
-【まとめ】iPhone18 Proの改良点を確認！？17 Pro/16 Proと比較
-
-Appleは2026年9月10日にAppleイベントを開催し、最新のストレート型iPhoneとなる iPhone18 Pro シリーズを発表しました。同シリーズを、iPhone17 ProシリーズおよびiPhone16 Proシリーズと 比較 し、改良点を確認します。
-
-iPhone18 ProとiPhone18 Pro Max は筐体素材としてiPhone17 Proシリーズに続きアルミニウム合金を採用し、ユニボディデザインを継続しています。
-
-iPhone18 Proシリーズのディスプレイサイズと解像度は、iPhone17 Proシリーズと同じですが、 Dynamic Islandの開口部の横幅が縮 小しています。
-
-iPhone18 Proシリーズの本体サイズはiPhone17 Proシリーズと同じですが、重量は増加しています。
-
-iPhone18 Proは5グラム増の211グラム、iPhone18 Pro Maxは16グラム増の249グラムとなりました。
-
-iPhone18 Proシリーズは最新のA20 Proを搭載し、GPUコア数が6コアから7コアへ増加、Neural Engineもデュアル16コアへ強化されています。
-
-AppleによればA20 Proは、2つのスーパーコアと4つの高効率コアを搭載した6コアCPU、7コアGPUを採…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/11/iPhone16-Pro-17-Pro-18-Pro-comp.jpg" alt="【まとめ】iPhone18 Proの改良点を確認！？17 Pro/16 Proと比較"></p>]]></description><source url="https://iphone-mania.jp/iphone18-605683/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/11/iPhone16-Pro-17-Pro-18-Pro-comp.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/11/iPhone16-Pro-17-Pro-18-Pro-comp.jpg"/></item>
-<item><title>iPhone18 ProにApple製C2モデム〜Proシリーズで初、2025年10月の予想どおりに</title><link>https://iphone-mania.jp/iphone18-605652/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-605652/</guid><pubDate>Fri, 11 Sep 2026 10:00:00 +0000</pubDate><description><![CDATA[<p>iPhone18 ProにApple製C2モデム〜Proシリーズで初、2025年10月の予想どおりに
-
-iPhone18 Pro、iPhone18 Pro Max、iPhone Duoには、Appleが自社で設計した通信チップ「C2」が載ります。iPhone17
-
-iPhone18 ProにApple製C2モデム〜Proシリーズで初、2025年10月の予想どおりに
-
-iPhone18 Pro、iPhone18 Pro Max、iPhone Duoには、 Appleが自社で設計した通信チップ「C2」 が載ります。iPhone17 ProまでのProシリーズはQualcomm製でしたから、 ProシリーズにApple製の通信チップが入るのはこれが初めて です。当サイトが2025年10月から追ってきた「Qualcomm離れ」が、いちばん上のモデルまで届きました。
-
-Appleが公式に説明していることと、これまでの予想との答え合わせを整理します。
-
-Appleの最新C2モデムが、A20 Proチップと連係。AIを活用することで、モバイル通信の品質と信頼性を向上させます。一部の国や地域では、C1Xと比べてアップロードは最大50%高速に。しかもそれを、より少ないバッテリー消費で実現します。
-
-注目したいのは3点です。 A20 Proと連係して動く こと、 AIで通信品質を上げる こと、そして 比較対象がQualcommではなく自社のC1X であることです。
-
-「一部の国や地域では」という但し書きがあり、 日本が含まれるかはこの文面では分かりません。 アップロード50%高速は、すべての利用者に当てはまる数字ではない可能性があります。
-
-Appleの自社製通信チップは、2025年に初めて登場しました。
-
-iPhone17 ProシリーズはQualcomm製のままでした。つまりAppleは、…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/09/AppleEvent-iPhone18Pro-8.jpg" alt="iPhone18 ProにApple製C2モデム〜Proシリーズで初、2025年10月の予想どおりに"></p>]]></description><source url="https://iphone-mania.jp/iphone18-605652/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/09/AppleEvent-iPhone18Pro-8.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/09/AppleEvent-iPhone18Pro-8.jpg"/></item>
-<item><title>iPhone Duo、いきなり折りたたみスマホ市場の4分の1を獲得か</title><link>https://iphone-mania.jp/iphone18-605689/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-605689/</guid><pubDate>Fri, 11 Sep 2026 09:43:32 +0000</pubDate><description><![CDATA[<p>iPhone Duo、いきなり折りたたみスマホ市場の4分の1を獲得か
-
-2026年の世界折りたたみスマートフォン市場予測をTrendForceが発表しました。市場全体の出荷台数は横ばいですが、Appleが発表したばかりのiPhone Duoが約500万台を出荷し、24.8%のシェアを獲得すると予測しています。iPhone
-
-iPhone Duo、いきなり折りたたみスマホ市場の4分の1を獲得か
-
-2026年の世界 折りたたみスマートフォン 市場予測をTrendForceが発表しました。市場全体の出荷台数は横ばいですが、Appleが発表したばかりの iPhone Duo が約500万台を出荷し、24.8%のシェアを獲得すると予測しています。iPhone Duoは、折りたたみスマートフォン市場の競争軸を変える存在になりそうです。
-
-AppleによるiPhone Duoの発表 を受けて、2026年の世界折りたたみスマートフォン市場の出荷台数予測をTrendForceが公開しました。
-
-2026年の 折りたたみスマートフォン出荷台数は約2,020万台で、前年比0.5%増 と前年並みになるとTrendForceは見込んでいます。
-
-2027年には、出荷台数が約2,350万台と前年比16.3%の伸びを記録するというのがTrendForceの見立てです。
-
-2026年における iPhone Duoの出荷台数は約500万台で、いきなり24.8%と市場の4分の1のシェアを獲得 すると予測しています。
-
-Appleを除く Android陣営の出荷台数は約1,520万台で、前年比20%超の大幅な落ち込み が予測されています。この減少の背景には、部品コストの急激な上昇などがあります。
-
-つまり、 Android陣営の出荷台数減少を、iPhone Duoによる新規需要が相殺 することで、市場全体ではほ…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/11/Apple-iPhoneDuo-675.jpg" alt="iPhone Duo、いきなり折りたたみスマホ市場の4分の1を獲得か"></p>]]></description><source url="https://iphone-mania.jp/iphone18-605689/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/11/Apple-iPhoneDuo-675.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/11/Apple-iPhoneDuo-675.jpg"/></item>
-<item><title>iPhone18 Proのバッテリー駆動時間〜Pro Maxは45時間、17 Proからどれだけ伸びたか</title><link>https://iphone-mania.jp/iphone18-605650/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-605650/</guid><pubDate>Fri, 11 Sep 2026 08:30:00 +0000</pubDate><description><![CDATA[<p>iPhone18 Proのバッテリー駆動時間〜Pro Maxは45時間、17 Proからどれだけ伸びたか
-
-iPhone18 Pro Maxのバッテリーは、ビデオ再生で最大45時間持ちます。iPhone18 Proは最大36時間。Appleは「iPhone史上最長」と説明しており、iPhone17 Pro
-
-iPhone18 Proのバッテリー駆動時間〜Pro Maxは45時間、17 Proからどれだけ伸びたか
-
-iPhone18 Pro Maxのバッテリーは、 ビデオ再生で最大45時間 持ちます。iPhone18 Proは最大36時間。Appleは 「iPhone史上最長」 と説明しており、iPhone17 Pro Maxの39時間から 6時間、率にして15% 伸びました。容量（mAh）は例年どおり公表されていませんが、 発売前に見えていた数字と伸び率がぴったり重なります 。
-
-Appleの技術仕様に載っている3つの指標です。 「通常使用」の内訳はAppleも公表していません が、同じ物差しで測った前世代との比較はできます。
-
-iPhone17 Pro Maxのビデオ再生時間は39時間 で、当時も「歴代最長」でした。iPhone18 Pro Maxはそこから 6時間 伸びて45時間です。
-
-Appleは製品ページでも「iPhone17 Pro Maxより最大6時間長くビデオ再生ができる」と明記しています。 伸び率は15.4% です。
-
-1年で15%というのは、iPhoneの世代交代としては大きい部類です。何が効いたのかを、発売前に出ていた情報と突き合わせてみます。
-
-Appleはバッテリー容量（mAh）を公表しません。ただ、発売前に 中国の認証機関「3C」に登録された情報 と、 実物とされるバッテリーの画像 が出ており、当サイトでもお伝えしていました。
-
-容量の増加率と、…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/09/AppleEvent-iPhone18Pro-6.jpg" alt="iPhone18 Proのバッテリー駆動時間〜Pro Maxは45時間、17 Proからどれだけ伸びたか"></p>]]></description><source url="https://iphone-mania.jp/iphone18-605650/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/09/AppleEvent-iPhone18Pro-6.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/09/AppleEvent-iPhone18Pro-6.jpg"/></item>
-<item><title>NECの13.3インチノートPCが29,800円、Core i5-10210Uや8GBメモリ搭載モデルの中古セール</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2139968.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2139968.html</guid><pubDate>Fri, 11 Sep 2026 08:05:00 +0000</pubDate><description><![CDATA[<p>NECの13.3インチノートPCが29,800円、Core i5-10210Uや8GBメモリ搭載モデルの中古セール
-
-Core i5-10210U（4コア/8スレッド）搭載のNEC製13.3インチノート「PC-VKT16GZG7」の中古品が、PCコンフル 秋葉原本店でセール中。
-
-NECの13.3インチノートPCが29,800円、Core i5-10210Uや8GBメモリ搭載モデルの中古セール
-
-Core i5-10210U（4コア/8スレッド）搭載のNEC製13.3インチノート「PC-VKT16GZG7」の中古品が、 PCコンフル 秋葉原本店 でセール中。
-
-店頭価格は29,800円で、保証期間は30日となっています。
-
-主な仕様は、ディスプレイ解像度が1,920×1,080ドット、8GBメモリ（変更不可）、256GB SSD、OSがWindows 11 Proなど。このほかWebカメラや無線LAN機能、SIMスロット（保証対象外）などを備えています。
-
-Microsoft Office Home 2024(最新 永続版)|オンラインコード
-
-Microsoft Office Home &amp; Business 2024(最新 永続版)|オンラインコード版</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2139/968/a1.jpg" alt="NECの13.3インチノートPCが29,800円、Core i5-10210Uや8GBメモリ搭載モデルの中古セール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2139968.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2139/968/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2139/968/a1.jpg"/></item>
-<item><title>iPhone Duo、世界最安は米国！日本は何位？トルコでは2TBが100万円超</title><link>https://iphone-mania.jp/iphone18-605682/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-605682/</guid><pubDate>Fri, 11 Sep 2026 07:50:08 +0000</pubDate><description><![CDATA[<p>iPhone Duo、世界最安は米国！日本は何位？トルコでは2TBが100万円超
-
-iPhone Duo、iPhone18 Pro、iPhone18 Pro Maxについて、世界39の国・地域のApple
-
-iPhone Duo、世界最安は米国！日本は何位？トルコでは2TBが100万円超
-
-iPhone Duo 、 iPhone18 Pro 、 iPhone18 Pro Max について、世界39の国・地域のApple Storeでの 販売価格 を比較すると、国によって大きな価格差があることが分かります。最も安いのはいずれも米国で、 日本は比較的安いグループ に入っています。一方、トルコでは価格が大幅に高く、iPhone Duoの2TBモデルは100万円を超えています。
-
-Nukeni.comが公開した、世界39の国・地域のAppleオンラインストアにおける販売価格を円換算した比較ランキングで、 iPhone Duo （256GBモデル） の価格を比較してみます。価格は、Nukeni.comが2026年9月11日12時時点の為替レートで日本円に換算したものです。
-
-なお、アメリカやカナダは購入する地域によって適用される税率が異なるため、Nukeniでは最低税率地域と最高税率地域の価格がそれぞれ掲載されています。米国には売上税が0%の地域もあります。
-
-iPhone Duoの256GBモデルの価格が安いトップ10は以下のとおりです。
-
-Nukeniの価格ランキングで、 日本は7番目に安くiPhone Duo（256GBモデル）を購入できる 国・地域でした。
-
-日本の販売価格は、アメリカの最低税率地域より56,018円高く なっています。一方、アメリカの最高税率地域と比較すると、日本との差は20,509円です。
-
-日本の価格は、アメリカの最低税率地域よりも 約18%高く なって…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/11/AppleJp-iPhoneDuo.jpg" alt="iPhone Duo、世界最安は米国！日本は何位？トルコでは2TBが100万円超"></p>]]></description><source url="https://iphone-mania.jp/iphone18-605682/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/11/AppleJp-iPhoneDuo.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/11/AppleJp-iPhoneDuo.jpg"/></item>
-<item><title>A20 Proの噂はどこまで当たったか〜7コアGPU・メモリ帯域50%増・AI性能2倍</title><link>https://iphone-mania.jp/iphone18-605649/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-605649/</guid><pubDate>Fri, 11 Sep 2026 07:30:00 +0000</pubDate><description><![CDATA[<p>A20 Proの噂はどこまで当たったか〜7コアGPU・メモリ帯域50%増・AI性能2倍
-
-iPhone18 Proに載るA20 Proの中身が、Appleの公式ページで確定しました。6コアCPU、7コアGPU、デュアル16コアのNeural Engine、そして50%増えたメモリ帯域。iPhone Maniaは6月末から10本以上の記事でA20
-
-A20 Proの噂はどこまで当たったか〜7コアGPU・メモリ帯域50%増・AI性能2倍
-
-iPhone18 Proに載る A20 Pro の中身が、Appleの公式ページで確定しました。6コアCPU、7コアGPU、デュアル16コアのNeural Engine、そして 50%増えたメモリ帯域 。iPhone Maniaは6月末から10本以上の記事でA20 Proの噂を追ってきましたが、 何が当たり、何が確認できなかったのか を整理します。
-
-先に結論を言うと、 5つの予想が当たり、1つは公式に書かれていませんでした。
-
-Appleは「iPhone史上最もパワフルで電力効率に優れた設計のチップ」と説明しています。 単に速いだけでなく、AI処理と熱設計を軸に組み直された のが今回の特徴です。
-
-5勝1分け です。分けにしたのは2nmで、外れたのではなく Appleが公式ページで製造プロセスに触れていない ため、確認のしようがありません。
-
-7月5日の記事で、 メモリバス幅が64ビットから96ビットに広がり、帯域が102GB/sに達する という予想をお伝えしました。64ビットから96ビットは ちょうど1.5倍 です。
-
-Appleの公式ページには 「50%高いメモリ帯域幅」 とあります。1.5倍。 2か月前にX（旧Twitter）に投稿された数字が、そのまま当たりました。
-
-メモリ帯域は、チップとメモリの間で1秒に運べるデータの量です。A…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/09/AppleEvent-iPhone18Pro-2.jpg" alt="A20 Proの噂はどこまで当たったか〜7コアGPU・メモリ帯域50%増・AI性能2倍"></p>]]></description><source url="https://iphone-mania.jp/iphone18-605649/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/09/AppleEvent-iPhone18Pro-2.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/09/AppleEvent-iPhone18Pro-2.jpg"/></item>
-<item><title>【答え合わせ】iPhone18 Proシリーズの可変絞り〜当たった噂と外れた噂</title><link>https://iphone-mania.jp/iphone18-605684/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-605684/</guid><pubDate>Fri, 11 Sep 2026 07:14:45 +0000</pubDate><description><![CDATA[<p>【答え合わせ】iPhone18 Proシリーズの可変絞り〜当たった噂と外れた噂
-
-iPhone18 Proシリーズの可変絞りは、ProとPro Maxに搭載され、メインカメラでƒ/1.48・ƒ/1.8・ƒ/2.8・ƒ/4.0の4段階を選べます。直前まで有力とされたPro
-
-【答え合わせ】iPhone18 Proシリーズの可変絞り〜当たった噂と外れた噂
-
-iPhone18 Proシリーズの可変絞りは、 ProとPro Maxに搭載され 、メインカメラでƒ/1.48・ƒ/1.8・ƒ/2.8・ƒ/4.0の4段階を選べます。直前まで有力とされた Pro Maxだけ説は外れました 。的中した噂は部品や流出資料に基づく情報で、外れや反映されなかった項目には寸法の数値や開発途中の検討が目立ちます。7月から可変絞りの記事を担当してきた筆者が、1月以降に当サイトで報じた主な13本の記事の噂を、Appleの技術仕様と照合しました。
-
-開放値ƒ/1.48は iPhone17 Proのƒ/1.78 より小さく、多くの光を取り込めます。可変絞りを理由に、 大きく重いPro Maxをあえて選ぶ必要はありません 。4段階の絞りで撮れる写真の違いは、 9月10日 の記事で詳しく紹介しています。
-
-13本の記事から主な噂を9項目選び、技術仕様と照合した結果は、 的中2、外れ2、反映されず1、判定不能4 です。
-
-的中した2項目は、サプライヤーの発言や流出資料が出どころでした。外れた2項目の基になったのは、本体寸法の噂（8.8mm）と、資料に記載がない点や根拠を示していない報道（Pro Maxだけ）です。搭載の有無は複数の経路で答えがそろった反面、 搭載機種の範囲は情報源によって分かれています 。
-
-搭載機種は1月の時点で両説に分かれ、4月に両モデル説へ傾いた後、8月に再び割れました。
-
-4月16日 の記事で…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/11/aa1187d77adbd3d6e89ceeb2cbcc3f5b.jpg" alt="【答え合わせ】iPhone18 Proシリーズの可変絞り〜当たった噂と外れた噂"></p>]]></description><source url="https://iphone-mania.jp/iphone18-605684/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/11/aa1187d77adbd3d6e89ceeb2cbcc3f5b.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/11/aa1187d77adbd3d6e89ceeb2cbcc3f5b.jpg"/></item>
-<item><title>【中古週末特価】9月12日(土)～9月13日(日) 最大20万円引き！ポイント3倍！</title><link>https://e-earphone.blog/?p=1553091</link><guid isPermaLink="true">https://e-earphone.blog/?p=1553091</guid><pubDate>Fri, 11 Sep 2026 07:00:26 +0000</pubDate><description><![CDATA[<p>【中古週末特価】9月12日(土)～9月13日(日) 最大20万円引き！ポイント3倍！
-
-今週も中古商品の週末特価を開催いたします！お得な商品が目白押し！更にポイント3倍 イヤホン売るなら買うなら、e☆イヤホン！お得な中古週末特価情報をご案内します。今回も実店舗とオンラインストアの両方で、中古週末特価セ
-
-今週も中古商品の週末特価を開催いたします！お得な商品が目白押し！更にポイント3倍
-
-お得な中古週末特価情報をご案内します。今回も実店舗とオンラインストアの両方で、中古週末特価セールを開催いたします！
-
-店頭: 2026/9/12(土)～2026/9/13(日) 各店営業時間中
-
-オンラインストア: 2026/9/11(金)20:00～2026/9/14(月)11:00
-
-※上記リストの商品価格は、全て欠品・傷等のない状態での参照価格です。予めご了承ください。
-
-※ポイントの獲得にはe☆イヤホンの会員登録が必要です。 登録がお済みでない方は、この機会にぜひご登録ください！
-
-e☆イヤホンの中古・買取の情報を発信する、Xアカウントもやってます。お得なキャンペーン情報やフォロー&amp;リポストキャンペーンなども行ってるのでぜひフォローしてみてください！
-
-以上、お得なセール情報でした。e☆イヤホン リユース営業部のかわちゃんがお送りいたしました！
-
-e☆イヤホン リユース担当です。お買い得な中古商品の情報など沢山発信していければと思います。 ブラックメタル、シューゲイザー、ゲーム、戦車、飛行機が好き愛機:Bose QuietComfort Earbuds II</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/09/banner_260911_used-weekend-sale_1000570.webp" alt="【中古週末特価】9月12日(土)～9月13日(日) 最大20万円引き！ポイント3倍！"></p>]]></description><source url="https://e-earphone.blog/?p=1553091">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/09/banner_260911_used-weekend-sale_1000570.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/09/banner_260911_used-weekend-sale_1000570.webp"/></item>
-<item><title>【鬼買取】新型AirPods発表記念！AirPodsシリーズ高額買取キャンペーン！【2026年9月14日(月)～9月20日(日)】</title><link>https://e-earphone.blog/?p=1553024</link><guid isPermaLink="true">https://e-earphone.blog/?p=1553024</guid><pubDate>Fri, 11 Sep 2026 06:45:23 +0000</pubDate><description><![CDATA[<p>【鬼買取】新型AirPods発表記念！AirPodsシリーズ高額買取キャンペーン！【2026年9月14日(月)～9月20日(日)】
-
-鬼買取を開催します！期間限定で対象商品の買取金額が大幅アップのチャンスですぞ！！  イヤホン売るなら買うならe☆イヤホン！先日Appleから待望の新作ワイヤレスイヤホン「AirPods 5」が発表されました
-
-鬼買取を開催します！期間限定で対象商品の買取金額が大幅アップのチャンスですぞ！！
-
-先日Appleから待望の新作ワイヤレスイヤホン 「AirPods 5」 が発表されました！
-
-オープンイヤー型でありながら珍しくノイズキャンセリングを搭載したモデルで、軽やかな装着感とながら聴きのしやすさに加え、進化したノイキャン機能により騒がしい環境でも快適な使用感を両立しています。iPhoneと組み合わせれば、 まるで魔法のような使いやすさも魅力の一台 です。
-
-今回e☆イヤホンでは、そんなAirPods5の買い替えを応援する買取キャンペーンを開催いたします！
-
-開催期間：2026年9月14日(月)～2026年9月20日(日) ※宅配買取は9月20日到着分まで対象
-
-今回の対象機種は旧AirPodシリーズを中心としたラインナップで通常買取価格から大幅アップしております。この機会にぜひご利用くださいませ。
-
-秋葉原店 / 大阪日本橋本店 / 名古屋大須店 / 仙台駅前店 / 宅配買取 で開催！
-
-・他の買取金額UPキャンペーンとの併用はできません （※まとめ売りキャンペーンは併用可）
-
-・表記金額は上限価格です。商品の状態により金額は変動します。
-
-ご自宅で眠っているオーディオ機器をお持ちの方、または買い替えをご検討中の方へ
-
-専門店だからこそ出来るお得な買取サービスを活用して、賢くお得にステップアップしませんか？この機会に下取りをご検討い…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/09/e8bb675ec6bf519c6415d1abc859259a.webp" alt="【鬼買取】新型AirPods発表記念！AirPodsシリーズ高額買取キャンペーン！【2026年9月14日(月)～9月20日(日)】"></p>]]></description><source url="https://e-earphone.blog/?p=1553024">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/09/e8bb675ec6bf519c6415d1abc859259a.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/09/e8bb675ec6bf519c6415d1abc859259a.webp"/></item>
-<item><title>���˥åȥ����Υ����ߥ���PC��LEVEL���פ�10��ǯ���ޤ��롣��ǰ���ǥ���ȯ�����ݥ����ȴԸ�5�󥭥����ڡ����ʤɤ��»���</title><link>https://www.4gamer.net/games/050/G005068/20260911024/</link><guid isPermaLink="true">https://www.4gamer.net/games/050/G005068/20260911024/</guid><pubDate>Fri, 11 Sep 2026 06:18:43 +0000</pubDate><description><![CDATA[<p>���˥åȥ����Υ����ߥ���PC��LEVEL���פ�10��ǯ���ޤ��롣��ǰ���ǥ���ȯ�����ݥ����ȴԸ�5�󥭥����ڡ����ʤɤ��»���
-
-2026年9月11日，ユニットコムは，ゲーミングPCブランド「LEVEL∞」の設立10周年を記念した「LEVEL∞ 10th Anniversary Project」を開始すると発表した。10周年記…
-
-ユニットコムのゲーミングPC「LEVEL∞」が10周年を迎える。記念モデルの発売やポイント還元5％キャンペーンなどを実施中 ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
-
-↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 夏は七不思議ならぬ“七不穏”で暑さを忘却の彼方へ――涼しくチルアウトできる終末，陰鬱，ディストピアな7つのゲーム ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ ひと夏の思い出に「桃鉄」100年プレイ。みんなで完走するための…</p><p><img src="https://www.4gamer.net/games/050/G005068/20260911024/SS/002.jpg" alt="���˥åȥ����Υ����ߥ���PC��LEVEL���פ�10��ǯ���ޤ��롣��ǰ���ǥ���ȯ�����ݥ����ȴԸ�5�󥭥����ڡ����ʤɤ��»���"></p>]]></description><source url="https://www.4gamer.net/games/050/G005068/20260911024/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/050/G005068/20260911024/SS/002.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/050/G005068/20260911024/SS/002.jpg"/></item>
-<item><title>A20 Proのベンチマークスコアが確認〜CPUは約20%、GPUは約30%向上</title><link>https://iphone-mania.jp/iphone18-605671/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-605671/</guid><pubDate>Fri, 11 Sep 2026 06:16:51 +0000</pubDate><description><![CDATA[<p>A20 Proのベンチマークスコアが確認〜CPUは約20%、GPUは約30%向上
-
-A20 Proを搭載するiPhone18 ProシリーズのGeekbenchベンチマークスコアが確認されました。
-
-A20 Proのベンチマークスコアが確認〜CPUは約20%、GPUは約30%向上
-
-A20 Pro を搭載するiPhone18 Proシリーズの Geekbenchベンチマークスコア が確認されました。
-
-A19 Proと比べ、CPUベンチマークスコアは シングルコアとマルチコアのいずれも約20％ 、 GPU Metalスコアは30％以上向上 しています。
-
-確認された A20 Pro搭載モデル は「iPhone19,3」で、マザーボードの識別子は「V64AP」と記録されています。
-
-確認されたベンチマークスコアは次の通りで、Geekbench 7 CPUスコアだけではなくGeekbench 6 GPU Metalスコアでも大幅な性能向上が確認できます。
-
-GPU Metalベンチマークスコアは、確認されたGeekbench 6 Metalベンチマークスコア（Geekbench 6.7.0）です。
-
-このA20 Proのベンチマークスコアを、A19 Proを搭載するiPhone17 Pro Maxと比較しました。
-
-CPUベンチマークスコアでは、A20 Proは A19 Proと比べてシングルコアが18.7％、マルチコアは19.5％向上 しています。
-
-Apple Aシリーズはシングルコア性能が大きく伸びる一方、 マルチコア性能は比較的緩やかな伸び となる世代もありました。
-
-A20 Proでは マルチコアの向上率がシングルコアを大きく上回っており 、この点も注目されます。
-
-Geekbench 6 GPU Metalスコアでは、A20 Proは A19 Proと比べて36.5…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/11/A20-Pro-0911.png" alt="A20 Proのベンチマークスコアが確認〜CPUは約20%、GPUは約30%向上"></p>]]></description><source url="https://iphone-mania.jp/iphone18-605671/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/11/A20-Pro-0911.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/11/A20-Pro-0911.png"/></item>
-<item><title>Excelで貼り付けできない不具合。2026年9月8日のアップデートに起因</title><link>https://www.nichepcgamer.com/archives/post-132164.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/post-132164.html</guid><pubDate>Fri, 11 Sep 2026 06:07:36 +0000</pubDate><description><![CDATA[<p>Excelで貼り付けできない不具合。2026年9月8日のアップデートに起因
-
-Excelで貼り付けができない不具合が発生しています。 不具合概要 米国時間で2026年9月8日(日本時間で2026年9月9日)にリリースされたMicrosoft Officeのセキュリティ更新プロ...
-
-米国時間で2026年9月8日(日本時間で2026年9月9日)にリリースされたMicrosoft Officeのセキュリティ更新プログラム / アップデートをインストールすると、Excelにおいて、貼り付け(ペースト)が機能しなくなる不具合が発生しています。CTRL + Vのショートカットキーでも貼り付けができません。
-
-この不具合は、Excel 2016、Excel 2019、Excel 2021、Excel 2024で発生が確認されています。
-
-一時的な対処方法・回避策として、2026年9月8日にリリースされたMicrosoft Officeのセキュリティ更新プログラムをアンインストール、または2026年9月8日より前のバージョンへとロールバックすることで貼り付けが正常に動作するようになります。
-
-MSI版Excel 2016であればKB5002914をアンインストールしてください。クイック実行版(Click-to-Run / C2R)のExcelの場合は、『 クイック実行版の Office をロールバックする方法 』のページを参考に、2026年9月8日より前のバージョン(ビルド)にロールバックしてください。
-
-前のバージョン番号は Microsoftのページ (左メニューでお使いのOfficeを選択してください)をご確認ください。
-
-一例を挙げると、製品版Excel 2024で、2026年9月8日のビルド20326.20144がインストールされている場合、コマンドプロンプト(管理者として実行)で以下のコマンドを実行すれば、2026年9月1日のビルド20326.20132にロールバックされます。
-
-Microsoftは本不具合を認識しており、現在、調査中とのことです。
-
-筆者は自作PC歴…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2025/05/microsoft-issue-big-1200.jpg" alt="Excelで貼り付けできない不具合。2026年9月8日のアップデートに起因"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-132164.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2025/05/microsoft-issue-big-1200.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2025/05/microsoft-issue-big-1200.jpg"/></item>
-<item><title>Amazon Music Unlimited、30日無料キャンペーン中！</title><link>https://www.nichepcgamer.com/archives/amazon-music-unlimited-30days-free.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/amazon-music-unlimited-30days-free.html</guid><pubDate>Fri, 11 Sep 2026 06:06:25 +0000</pubDate><description><![CDATA[<p>Amazon Music Unlimited、30日無料キャンペーン中！
-
-Amazonにて、1億曲以上の定額制音楽ストリーミングサービス『Amazon Music Unlimited』の30日無料キャンペーンが行われています。通常、Amazon Music Unlimit...
-
-Amazonにて、1億曲以上の定額制音楽ストリーミングサービス『Amazon Music Unlimited』の 30日無料キャンペーン が行われています。通常、Amazon Music Unlimitedは月額1,180円(プライム会員は1,080円)ですが、この1か月分の1,080円が無料となっています。
-
-31日目以降は月額が発生しますが、前もってAmazon Music Unlimitedの サブスクリプションをキャンセル しておけば、 31日目目からの月額は発生しません。また、キャンセル後も、無料期間終了日までAmazon Music Unlimitedを利用可能です。
-
-この流れでキャンセル忘れの心配もなく30日間無料でAmazon Music Unlimitedをお楽しみいただけます。キャンペーンページへは以下のリンクよりどうぞ！
-
-Amazon.co.jp Amazon Music Unlimited 30日間無料で音楽聴き放題
-
-筆者は自作PC歴20年以上の経験を持ち、Windows OSの細部にわたるカスタマイズや高度な設定、PCゲームの最適化、PCハードウェアとソフトウェアに関する専門知識をもとに、PC環境を快適にするための情報、不具合に遭わないようにするための情報、そして、ちょっとニッチよりなPCユーザー向け記事の執筆を2015年4月から11年にわたって行っています。
-
-長年の経験により得たノウハウを活かし、初心者から上級者まで幅広く対応できる情報を提供し、読者様のPCラ…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2023/11/amazon-music-unlimited-30days-m.jpg" alt="Amazon Music Unlimited、30日無料キャンペーン中！"></p>]]></description><source url="https://www.nichepcgamer.com/archives/amazon-music-unlimited-30days-free.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2023/11/amazon-music-unlimited-30days-m.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2023/11/amazon-music-unlimited-30days-m.jpg"/></item>
-<item><title>ロープロ光学アナログスイッチ採用のゲーミングキーボード「Razer Huntsman V3 Pro Low-profile TKL 8KHz」</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2140017.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2140017.html</guid><pubDate>Fri, 11 Sep 2026 06:05:00 +0000</pubDate><description><![CDATA[<p>ロープロ光学アナログスイッチ採用のゲーミングキーボード「Razer Huntsman V3 Pro Low-profile TKL 8KHz」
-
-ラピッドトリガー対応のロープロファイルゲーミングキーボード「Huntsman V3 Pro Low-profile Tenkeyless 8KHz」がRazerから登場した。
-
-ロープロ光学アナログスイッチ採用のゲーミングキーボード「Razer Huntsman V3 Pro Low-profile TKL 8KHz」
-
-ラピッドトリガー対応のロープロファイルゲーミングキーボード「Huntsman V3 Pro Low-profile Tenkeyless 8KHz」がRazerから登場した。
-
-新開発の「Low-profile Analog Optical Switches」を採用
-
-Huntsman V3 Pro Low-profile Tenkeyless 8KHzは、ロープロファイル・アナログオプティカルスイッチ搭載としては世界初をうたうテンキーレスレイアウトのゲーミングキーボード。
-
-スイッチに新開発の「Low-profile Analog Optical Switches」を採用。アクチュエーションポイントの0.1～2.8mm調整に対応し、ラピッドトリガー機能も搭載。2.8mmのショートストローク設計と組み合わせ、指の移動量を抑えた素早い反応を実現するとしている。
-
-USBポーリングはTrue 8000 Hz HyperPollingに対応。平均0.39msの入力遅延で、競合製品を52%以上上回る優位性を発揮するという。
-
-潤滑処理を施したスイッチと厚みのある内部フォームによる吸音構造で、滑らかなタイピング感を実現しつつ、高いレスポンス性能との両立をうたう。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/017/s1.jpg" alt="ロープロ光学アナログスイッチ採用のゲーミングキーボード「Razer Huntsman V3 Pro Low-profile TKL 8KHz」"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2140017.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/017/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/017/s1.jpg"/></item>
 </channel></rss>
