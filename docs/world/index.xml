@@ -1,6 +1,195 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sun, 20 Sep 2026 06:15:08 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sun, 20 Sep 2026 11:27:52 +0000</lastBuildDate>
+<item><title>私は毎日 Google マップを使用していますが、これら 4 つの点では Apple マップの方が優れています</title><link>https://www.androidauthority.com/google-maps-vs-apple-maps-2026-3708131/</link><guid isPermaLink="true">https://www.androidauthority.com/google-maps-vs-apple-maps-2026-3708131/</guid><pubDate>Sun, 20 Sep 2026 09:00:45 +0000</pubDate><description><![CDATA[<p>私は毎日 Google マップを使用していますが、これら 4 つの点では Apple マップの方が優れています
+
+Google マップは優れていますが、Apple マップはこれら 4 つの点を驚くほど正確に理解しています。Google はこれらを真似すべきです。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+私は毎日 Google マップを使用していますが、これら 4 つの点では Apple マップの方が優れています
+
+0 • Dhruv Bhutani / Android Authority Android Authority を Google に追加: 優先ソース Google Discover 毎日の朝の通勤でも、長いドライブ旅行でも、私たちのほとんどは、気づかずに Google マップを見て驚くほどの時間を費やしています。通常の車載ナビゲーション以外にも、新しいコーヒーショップを探したり、新しい国の交通機関のスケジュールを確認したりするときに頼りにしています。それなのに、最近は思ったよりも頻繁に Apple マップを開いていることに気づきました。
+
+Apple は過去 10 年をかけて、マップを驚くほど高機能なナビゲーション アプリに再構築してきました。ローカル検索と入手可能な情報量の多さに関しては、Google は依然として Google マップに勝るものではないかもしれません。ただし、Apple のアプローチが単純に優れている分野がいくつかあります。私が Apple マップで気に入っている点、そして Google マップにも真似してほしい点を以下に挙げます。
+
+Google マップのどの機能をアップグレードする必要があると思いますか?
+
+よりクリーンで乱雑でないインターフェイス
+
+Dhruv Bhutani / Android Authority Apple Maps に切り替えると最初に気づくのは、そのマップがいかにすっきりしているかということです。細かいことを言っているかもしれ…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-Maps-vs-Google-Maps-scaled.jpg" alt="私は毎日 Google マップを使用していますが、これら 4 つの点では Apple マップの方が優れています"></p>]]></description><source url="https://www.androidauthority.com/google-maps-vs-apple-maps-2026-3708131/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-Maps-vs-Google-Maps-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/09/Apple-Maps-vs-Google-Maps-scaled.jpg"/></item>
+<item><title>GPU がなくても問題なし: GPU のないティーンエイジド サーバー上のフラッグシップ LLM</title><link>https://hackaday.com/2026/09/20/no-gpu-no-problem-flagship-llms-on-a-gpu-less-teenaged-server/</link><guid isPermaLink="true">https://hackaday.com/2026/09/20/no-gpu-no-problem-flagship-llms-on-a-gpu-less-teenaged-server/</guid><pubDate>Sun, 20 Sep 2026 08:00:12 +0000</pubDate><description><![CDATA[<p>GPU がなくても問題なし: GPU のないティーンエイジド サーバー上のフラッグシップ LLM
+
+LLM をローカルで実行する理由は、プライバシーへの懸念からテクノロジーをいじりたいだけまでたくさんありますが、大規模なモデルを実行したい場合は、標準的なロジックとして、次のものが必要です。
+
+LLM をローカルで実行する理由は、プライバシーへの懸念から単にテクノロジーをいじりたいなど、たくさんありますが、大規模なモデルを実行したい場合、大量の VRAM に多額の資金が必要になるというのが標準的なロジックです。 [MattMo] は最近のビデオ (当然ながら下に埋め込まれています) でそのことに疑問を投げかけていますが、その中で彼は GLM 5.3 Flash、Qwen 3.8 Flash、Qwen 3.8 27B をすべて 14 年前の GPU を持たないサーバー上で実行しています。
+
+その秘密は、そう呼んでよいのであれば、あまり高速に実行されていないことです。1 秒あたり 4 トークンが最大値程度でした。これら 4 つのトークンは、ビンテージの Dell PowerEdge R720 サーバーのツイン Xeon プロセッサから排出され、モデルは 348 GB の DDR3 システム メモリ内に存在します。これは最大のフラッグシップ モデルでも十分ですが、速度を見ればわかるように、2 つのプロセッサ間で使用できるスレッドが 20 個しかないことが少しボトルネックになっています。また、これらのプロセッサは古いものであるため、高速化に役立つ可能性のある特定の命令が欠如しています。それでも、[MattMo] 氏はビデオの中で、これは単なる踊っているクマではないと主張しています。4tps でのバッチ処理が理にかなっているワークロードがあり、すでにホームラボにこのクラスのサーバーを配置している人もいます。そのベン図の交点はおそらくかなり孤独ですが、それがあなたなら - ねえ! [MattMo] はうまくいくと言っているので、試してみてください。
+
+ハードウェアを購入する必要がある…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/09/LLM-dell-server-feat.jpg" alt="GPU がなくても問題なし: GPU のないティーンエイジド サーバー上のフラッグシップ LLM"></p>]]></description><source url="https://hackaday.com/2026/09/20/no-gpu-no-problem-flagship-llms-on-a-gpu-less-teenaged-server/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/09/LLM-dell-server-feat.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/09/LLM-dell-server-feat.jpg"/></item>
+<item><title>誰かが 60 年代のグルンディッヒ音楽祭ラジオを ESP32 でネットワーク スピーカーに変えました</title><link>https://www.xda-developers.com/someone-turned-a-60s-grundig-musikgert-radio-into-a-networked-speaker-with-an-esp32/</link><guid isPermaLink="true">https://www.xda-developers.com/someone-turned-a-60s-grundig-musikgert-radio-into-a-networked-speaker-with-an-esp32/</guid><pubDate>Sun, 20 Sep 2026 05:59:50 +0000</pubDate><description><![CDATA[<p>誰かが 60 年代のグルンディッヒ音楽祭ラジオを ESP32 でネットワーク スピーカーに変えました
+
+機能は異なりますが、スイッチとダイヤルはすべて引き続き機能します。
+
+誰かが 60 年代のグルンディッヒ音楽祭ラジオを ESP32 でネットワーク スピーカーに変えました
+
+クレジット: SramAtlov By Simon Batt 公開 2026 年 9 月 20 日、午前 1:59 EDT Simon はコンピューター サイエンスの学士号を取得しており、2014 年からテクノロジーについて執筆しており、3.1 から Windows マシンを使用しています。インディーズ ゲーム スタジオで働き、コンピューターの問題全般に対応する家族の頼れる技術者として活動した後、彼は文章を書くことへの情熱に気づき、自分のスキルセットをテクノロジー全般について書くことに決めました。ライターとしてのキャリアを始めて以来、彼は WorldStart 、 Listverse 、 MakeTechEasier などのさまざまな出版物に執筆してきました。しかし、2019 年 2 月に MakeUseOf に居場所を見つけた後、最終的にはその姉妹サイトである XDA に移り、最新かつ最高の Windows、Linux、DIY 電子機器を提供することになりました。 XDA アカウントにサインインする
+
+このプロジェクトは、1968 年製 Grundig RF116 に Louder-ESP32 と ESPHome を備えたネットワーク スピーカーとして新たな命を与えます。
+
+フロントスイッチはプレイリストを選択し、電源を供給します。 3 つのダイヤルでボリューム、EQ、トラックをコントロールします。
+
+WS2812B LED はオリジナルのバックライト付きランプを再現し、クラシックなハードウェアをクールに現代化したものです。
+
+通常、SBC とマイクロコントローラーは新しいものを作成するために使用されますが、古いハードウェアに新しい命を吹き込むために使用することもできます。この 1968 年製 …</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/09/esp32-grundig-featured.jpg?w=1600&amp;h=900&amp;fit=crop" alt="誰かが 60 年代のグルンディッヒ音楽祭ラジオを ESP32 でネットワーク スピーカーに変えました"></p>]]></description><source url="https://www.xda-developers.com/someone-turned-a-60s-grundig-musikgert-radio-into-a-networked-speaker-with-an-esp32/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/09/esp32-grundig-featured.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/09/esp32-grundig-featured.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>あなたも、予備の Raspberry Pi 5 を Proxmox 仮想化ホストに変えることができます</title><link>https://www.xda-developers.com/you-too-can-turn-your-spare-raspberry-pi-5-into-a-proxmox-virtualization-host/</link><guid isPermaLink="true">https://www.xda-developers.com/you-too-can-turn-your-spare-raspberry-pi-5-into-a-proxmox-virtualization-host/</guid><pubDate>Sun, 20 Sep 2026 05:22:38 +0000</pubDate><description><![CDATA[<p>あなたも、予備の Raspberry Pi 5 を Proxmox 仮想化ホストに変えることができます
+
+完璧ではありませんが、機能します。
+
+あなたも、予備の Raspberry Pi 5 を Proxmox 仮想化ホストに変えることができます
+
+Simon Batt 公開 2026 年 9 月 20 日、午前 1:22 EDT Simon はコンピューター サイエンスの学士号を取得しており、2014 年からテクノロジーについて執筆しており、3.1 から Windows マシンを使用しています。インディーズ ゲーム スタジオで働き、コンピューターの問題全般に対応する家族の頼れる技術者として活動した後、彼は文章を書くことへの情熱に気づき、自分のスキルセットをテクノロジー全般について書くことに決めました。ライターとしてのキャリアを始めて以来、彼は WorldStart 、 Listverse 、 MakeTechEasier などのさまざまな出版物に執筆してきました。しかし、2019 年 2 月に MakeUseOf に居場所を見つけた後、最終的にはその姉妹サイトである XDA に移り、最新かつ最高の Windows、Linux、DIY 電子機器を提供することになりました。 XDA アカウントにサインインする
+
+事前に構築されたフラッシュ可能なイメージを使用して、予備の Raspberry Pi 5 を Proxmox VE ARM64 ホストに変えます。
+
+Proxmox には Linux ブリッジが必要であり、完全なサーバーを置き換えるものではないため、イーサネット (Wi-Fi は不要) が必要です。
+
+Raspberry Pi Imager 経由で簡単にインストールできるオープンソース リポジトリがあり、Proxmox を直接起動できます。
+
+使用していないハードウェアを有効活用する新しい方法を見つけるのは常に良いことであり、Proxmox 仮想化ホストに変えることは間違いなくより便利な方法の 1 つです。 Raspberry Pi 5 を所有していて家賃が支払わ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/09/raspberry-pi-proxmox.jpg?w=1600&amp;h=900&amp;fit=crop" alt="あなたも、予備の Raspberry Pi 5 を Proxmox 仮想化ホストに変えることができます"></p>]]></description><source url="https://www.xda-developers.com/you-too-can-turn-your-spare-raspberry-pi-5-into-a-proxmox-virtualization-host/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/09/raspberry-pi-proxmox.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/09/raspberry-pi-proxmox.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>インソマウォータータイマーの分解と修理</title><link>https://hackaday.com/2026/09/19/teardown-and-repair-of-a-insoma-water-timer/</link><guid isPermaLink="true">https://hackaday.com/2026/09/19/teardown-and-repair-of-a-insoma-water-timer/</guid><pubDate>Sun, 20 Sep 2026 05:00:34 +0000</pubDate><description><![CDATA[<p>インソマウォータータイマーの分解と修理
+
+給水タイマーは、設定した時間に芝生に水を与えたり、菜園がゴミ箱になるのを防いだりできる気の利いた装置です。 [electronupdate] タイマーがそのいずれかの時点で水の出力を拒否したとき…
+
+給水タイマーは、設定した時間に芝生に水を与えたり、菜園がゴミ箱になるのを防いだりできる気の利いた装置です。 [electronupdate] タイマーが 3 つの出口のいずれからも水の出力を拒否したとき、彼は正しい行動をとりました。彼は怒ってその芝生の保証を確認する代わりに、それを引き裂いて修理しようとした。
+
+予想どおり、これらのデバイスの設計は非常に簡単です。 3 つのソレノイドがコンセントの開閉を制御します。制御ボードはユーザーの制御と表示も処理します。
+
+明らかな損傷の兆候はなく、PCB は湿気を防ぐはずの白い物質の中に入れられていました。バッテリーを使って簡単にチェックしたところ、3 つのソレノイドも正常に動作していることが判明したため、原因はおそらく (ポッティングされた) PCB のどこかにあると考えられます。
+
+これらのソレノイドの定格は 6VDC で、動作するまでに約 20 ミリ秒かかりますが、オシロスコープのキャプチャでは、ボードが約 2V しか出力していないことが明らかでした。これではソレノイドを駆動するには十分ではなかったので、コントローラー ボードで何が問題になったのかという疑問が生じ、楽しいエポキシ ポッティング コンパウンドの削り取りの準備が整いました。
+
+エルボー グリスを少しだけ剥がすと、制御 IC、ソレノイドを駆動する H ブリッジ、および大きな電解コンデンサを備えたパワー ブースト回路を含む残りの回路が明らかになりました。後者はその根元近くに少し怪しい液体があり、それが原因であることが判明しました。おそらくここで最も厄介なことは、この電解コンデンサがわずか 4 か月の使用で故障するという恐るべき性質を持っていたことですが、少なくともそれは十分に簡単に修正できました。
+
+もし私たちがそこにいたなら…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/09/water_timer_disassembled_electronupdate_youtube.jpg" alt="インソマウォータータイマーの分解と修理"></p>]]></description><source url="https://hackaday.com/2026/09/19/teardown-and-repair-of-a-insoma-water-timer/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/09/water_timer_disassembled_electronupdate_youtube.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/09/water_timer_disassembled_electronupdate_youtube.jpg"/></item>
+<item><title>CloudLibrary が Kobo 電子書籍リーダーに登場します</title><link>https://goodereader.com/blog/kobo-ereader-news/cloudlibrary-is-coming-to-kobo-e-readers</link><guid isPermaLink="true">https://goodereader.com/blog/kobo-ereader-news/cloudlibrary-is-coming-to-kobo-e-readers</guid><pubDate>Sun, 20 Sep 2026 04:00:30 +0000</pubDate><description><![CDATA[<p>CloudLibrary が Kobo 電子書籍リーダーに登場します
+
+楽天 Kobo は、Send to Kobo で CloudLibrary を使用するカナダと米国の一部の図書館に対して試用期間を実施しています。
+
+CloudLibrary は、Overdrive Libby と同様に、図書館が電子書籍やオーディオブックのコレクションを管理するために使用するプラットフォームです。 CloudLibrary と Kobo は統合に取り組んでいるようで、9 月には一部のライブラリで試用期間が設けられ、10 月には Kobo Clara Color、Kobo Clara BW、および Kobo Libra Color への広範な展開が行われます。
+
+CloudLibrary アプリまたは Web サイトで、タイトルの横にある [Send to Kobo] をクリックしてタイトルを借り、Kobo eReader に送信します。さまざまな図書館のオンライン カタログから CloudLibrary の書籍を借りることもできます。ただし、「Kobo に送信」ボタンは CloudLibrary アプリまたは Web サイトでのみ使用できるため、Kobo に何かを送信するにはそこにアクセスする必要があります。この試用版は、オーディオブックではなく電子書籍でのみ機能します。
+
+Kobo に Libby と同様の CloudLibrary システムが含まれるかどうかはまだわかりません。このシステムでは、電子書籍リーダー上で地元支店のオンライン カタログを閲覧し、設定メニューでカードを添付できます。 Kobo 電子書籍リーダーに複数の CloudLibrary アカウントを接続できる可能性はほとんどありません。
+
+ベータ版に関するヒントは次のとおりです
+
+借りた本は有効期限が過ぎるとkoboから削除されます。
+
+CloudLibrary アプリまたは Web サイトで書籍を更新した場合は、再度 kobo に送信する必要があります。
+
+kobo で本を読むだけでなく、CloudLibrar…</p><p><img src="https://media.goodereader.com/blog/uploads/images/2026/09/19235846/1787758299232_08-26-2026_09-31-3939.png" alt="CloudLibrary が Kobo 電子書籍リーダーに登場します"></p>]]></description><source url="https://goodereader.com/blog/kobo-ereader-news/cloudlibrary-is-coming-to-kobo-e-readers">Good e-Reader</source><media:content url="https://media.goodereader.com/blog/uploads/images/2026/09/19235846/1787758299232_08-26-2026_09-31-3939.png" medium="image"/><media:thumbnail url="https://media.goodereader.com/blog/uploads/images/2026/09/19235846/1787758299232_08-26-2026_09-31-3939.png"/></item>
+<item><title>GTA 6 map recreated in GTA 5 using assets from Rockstar&#39;s 2022 breach</title><link>https://www.tweaktown.com/rss/click/news/113642/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113642/?c=news-mf</guid><pubDate>Sun, 20 Sep 2026 03:43:13 +0000</pubDate><description><![CDATA[<p>GTA 6 map recreated in GTA 5 using assets from Rockstar&#39;s 2022 breach</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113642/?c=news-mf">TweakTown</source></item>
+<item><title>Tapmora E INK 冷蔵庫用マグネット レビュー</title><link>https://goodereader.com/blog/reviews/tapmora-e-ink-fridge-magnet-review</link><guid isPermaLink="true">https://goodereader.com/blog/reviews/tapmora-e-ink-fridge-magnet-review</guid><pubDate>Sun, 20 Sep 2026 03:36:38 +0000</pubDate><description><![CDATA[<p>Tapmora E INK 冷蔵庫用マグネット レビュー
+
+ペットのおどけたスナップショットでも、最近のドライブ旅行での息をのむような景色でも、朝を始めるための毎日のモチベーションを高める引用でも、Tapmora はあなたのスペースをあなただけのものにします。
+
+Tapmora は、世界初のバッテリー不要の E Ink フォト マグネットを開発したことで最もよく知られるエレクトロニクス ブランドです。このデバイスはコードレスのポケットサイズのデジタル フレームで、ユーザーは充電ケーブル、Wi-Fi、Bluetooth を使用せずに、スマートフォンの写真を紙のような磁気ディスプレイに即座に転送できます。小売価格は 45 ドルで、同社の Web サイトから注文できます。
+
+Tapmora E Ink フォト マグネットは、充電ケーブルを煩雑にせずにデジタル メモリを表示できる、メンテナンスの手間がかからない賢い方法を提供します。その際立った機能は NFC エナジーハーベスティングで、ユーザーは簡単なタップでスマートフォン アプリから写真を直接プッシュできます。査読者は、Spectra 6 フルカラー アレイを使用すると大きな効果が得られると指摘しています。鮮やかな風景や肌の色を濁った灰色に変えてしまう安価な 4 色ポータブル パネルとは異なり、Tapmora は色の正確さと豊かな色調を維持します。パッシブでマットな紙のようなディスプレイは、冷蔵庫や机にスムーズに溶け込み、ざらついた光る LCD スクリーンよりもはるかに有機的に感じられる、プレミアムな「印刷された」美学を提供します。
+
+ただし、この技術には、期待に応じて明らかなトレードオフが伴います。画面は携帯電話の NFC チップから得られる一時的なバーストに完全に依存しているため、画像の転送には数秒かかり、デバイスにはバックライトや手動更新用の内蔵ボタンがありません。これはポケットサイズの磁気スマート タイルへの業界の移行と一致していますが、応答性の高いガジェットではなく、厳密に静的なキャンバスとして動作します。結局のと…</p><p><img src="https://media.goodereader.com/blog/uploads/images/2026/09/19233406/1_f2d7aa70-6cb9-4f43-9db7-2b359cb946d0.webp" alt="Tapmora E INK 冷蔵庫用マグネット レビュー"></p>]]></description><source url="https://goodereader.com/blog/reviews/tapmora-e-ink-fridge-magnet-review">Good e-Reader</source><media:content url="https://media.goodereader.com/blog/uploads/images/2026/09/19233406/1_f2d7aa70-6cb9-4f43-9db7-2b359cb946d0.webp" medium="image"/><media:thumbnail url="https://media.goodereader.com/blog/uploads/images/2026/09/19233406/1_f2d7aa70-6cb9-4f43-9db7-2b359cb946d0.webp"/></item>
+<item><title>RP2350 でデバッグ モードをレーザーで開始する</title><link>https://hackaday.com/2026/09/19/laser-your-way-into-debug-mode-on-the-rp2350/</link><guid isPermaLink="true">https://hackaday.com/2026/09/19/laser-your-way-into-debug-mode-on-the-rp2350/</guid><pubDate>Sun, 20 Sep 2026 02:00:23 +0000</pubDate><description><![CDATA[<p>RP2350 でデバッグ モードをレーザーで開始する
+
+RP2350 は、あらゆる点を考慮しても、実際には非常に安全なチップです。セキュア ブート、セキュア実行と非セキュア実行を分割する ARMv8 の TrustZone があり、デバッグを永続的に無効にすることもできます。
+
+RP2350 は、あらゆる点を考慮しても、実際には非常に安全なチップです。セキュア ブート、セキュア実行と非セキュア実行を分割する ARMv8 の TrustZone があり、デバッグを永続的に無効にすることもできます。Pi Foundation にはグリッチ検出も含まれており、従来の「チップが従うまでザッピングする」手法がブロックされます。だからこそ、[レジャー・ドンジョン] セキュリティ チームは完全にボンドの悪役になりきって、みんなが大好きなフルーツ味のマイクロコントローラーをテーブルに縛りつけ、ゆっくりと近づいてくるレーザー光線を照射しました。
+
+さて、映画の決まり文句はさておき、レーザーは実際、電源を入れる前に非常に慎重にターゲットに焦点を合わせていました。そのターゲットは、2350 のデバッグ機能を有効にするレジスタでした。前記レジスタは、チップのカプセルを外し、光子放射電子顕微鏡でダイを検査することによって特定された。実際の攻撃は、裏面のキャップが外されたチップに対して実行され、シリコンウェーハを通して赤外線が照射されました。これらのビットを反転するためにレーザーでザッピングするレジスターに隣接するダイのどこを正確に把握するためには、おそらく少なからず試行錯誤があったでしょう。しかし、それは逆転し、デバッガの安全な実行ゾーンへのアクセスが復元されました。次に、チップをリセットした後、[レジャー] のチームは、2350 ハッキング チャレンジの一環として Pi 財団がメモリに隠した 128 ビットの秘密を読み取りました。
+
+ブラックハット (さらに言えばホワイトハット) がハードウェアに手を出したら、侵入するだろうということは長い間受け入れられてきました。ここでの単純なマイクロコント…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/09/backside_decap_RP2350.jpg" alt="RP2350 でデバッグ モードをレーザーで開始する"></p>]]></description><source url="https://hackaday.com/2026/09/19/laser-your-way-into-debug-mode-on-the-rp2350/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/09/backside_decap_RP2350.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/09/backside_decap_RP2350.jpg"/></item>
+<item><title>Steam Frame が初めて SteamOS アップデートを取得し、充電が大幅に高速化</title><link>https://www.techpowerup.com/352868/steam-frame-gets-first-steamos-update-with-substantially-faster-charging</link><guid isPermaLink="true">https://www.techpowerup.com/352868/steam-frame-gets-first-steamos-update-with-substantially-faster-charging</guid><pubDate>Sun, 20 Sep 2026 00:29:52 +0000</pubDate><description><![CDATA[<p>Steam Frame が初めて SteamOS アップデートを取得し、充電が大幅に高速化
+
+Valve は、9 月 14 日の発売以来、ヘッドセットの最初のシステム アップデートである Steam Frame 用の SteamOS 0.3.0 をリリースしました。変更ログには「ユニットがオフまたはスリープしている間の充電が大幅に高速化」と記載されており、これは初期のレビューで繰り返し上がった苦情に対処しています。 The Verge がテストしたのは...
+
+Steam Frame が初めて SteamOS アップデートを取得し、充電が大幅に高速化
+
+2026 年 4 月 13 日 Epic Games ストアの従業員: 無料ゲームのためだけに来て、その後 Steam に戻ってきた人々 (91)
+
+2025 年 9 月 30 日 Microsoft が Windows 11 25H2 をリリース…新機能はゼロ？ (122)
+
+2026 年 5 月 27 日 リーカーが天文学的な蒸気機械の価格を示唆 (74)
+
+2026 年 6 月 22 日 Valve が Steam Machine の価格をついに明らかにし、予約注文の受付を開始 (526)
+
+2026 年 4 月 2 日 Steam Deck 2 溝、既製 AMD シリコン用セミカスタム APU、Eyes 2028 発表 (45)
+
+2025 年 11 月 12 日 Valve が Steam Machine、Steam Frame、Steam コントローラーを発表 (204)
+
+2026 年 7 月 18 日 Valve は週に 12-15,000 台のスチームマシンを販売していると報告されています (125)
+
+2026 年 6 月 30 日 シングルチャネル RAM により Steam マシンが機能不全に陥る (109)
+
+2026 年 9 月 12 日 Steam フレームのファーストルックビデオが Linus Tech Tips によって誤って流出 (31)
+
+2025 年 11 月 28 日 バルブスチ…</p><p><img src="https://www.techpowerup.com/img/GhXXc07zww2IVdIc.jpg" alt="Steam Frame が初めて SteamOS アップデートを取得し、充電が大幅に高速化"></p>]]></description><source url="https://www.techpowerup.com/352868/steam-frame-gets-first-steamos-update-with-substantially-faster-charging">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/GhXXc07zww2IVdIc.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/GhXXc07zww2IVdIc.jpg"/></item>
+<item><title>High-end 8-channel oscilloscope features 12-core AMD EPYC CPU, 96GB RAM, 15.6-inch display, and more</title><link>https://www.cnx-software.com/2026/09/20/high-end-8-channel-oscilloscope-features-12-core-amd-epyc-cpu-96gb-ram-15-6-inch-display/</link><guid isPermaLink="true">https://www.cnx-software.com/2026/09/20/high-end-8-channel-oscilloscope-features-12-core-amd-epyc-cpu-96gb-ram-15-6-inch-display/</guid><pubDate>Sun, 20 Sep 2026 00:00:27 +0000</pubDate><description><![CDATA[<p>High-end 8-channel oscilloscope features 12-core AMD EPYC CPU, 96GB RAM, 15.6-inch display, and more</p>]]></description><source url="https://www.cnx-software.com/2026/09/20/high-end-8-channel-oscilloscope-features-12-core-amd-epyc-cpu-96gb-ram-15-6-inch-display/">CNX Software</source></item>
+<item><title>ハロウィーン文書は、マイクロソフトがどのようにして Linux を消滅させる計画を立てたかを明らかにしましたが、オープンソース コミュニティは Linux を武器に変えました</title><link>https://www.xda-developers.com/halloween-documents-microsoft-extinguish-linux/</link><guid isPermaLink="true">https://www.xda-developers.com/halloween-documents-microsoft-extinguish-linux/</guid><pubDate>Sun, 20 Sep 2026 00:00:16 +0000</pubDate><description><![CDATA[<p>ハロウィーン文書は、マイクロソフトがどのようにして Linux を消滅させる計画を立てたかを明らかにしましたが、オープンソース コミュニティは Linux を武器に変えました
+
+その漏洩により、オープンソース コミュニティは大リーグに対して重要な情報を得ることができました。
+
+ハロウィーン文書は、マイクロソフトがどのようにして Linux を消滅させる計画を立てたかを明らかにしましたが、オープンソース コミュニティは Linux を武器に変えました
+
+Simon Batt 著 公開 2026 年 9 月 19 日、午後 8 時 EDT Simon はコンピュータ サイエンスの学士号を取得しており、2014 年からテクノロジーについて執筆しており、3.1 から Windows マシンを使用しています。インディーズ ゲーム スタジオで働き、コンピューターの問題全般に対応する家族の頼れる技術者として活動した後、彼は文章を書くことへの情熱に気づき、自分のスキルセットをテクノロジー全般について書くことに決めました。ライターとしてのキャリアを始めて以来、彼は WorldStart 、 Listverse 、 MakeTechEasier などのさまざまな出版物に執筆してきました。しかし、2019 年 2 月に MakeUseOf に居場所を見つけた後、最終的にはその姉妹サイトである XDA に移り、最新かつ最高の Windows、Linux、DIY 電子機器を提供することになりました。 XDA アカウントにサインインする Linux は世界で最も人気のあるオープンソース オペレーティング システムですが、ここに至るまでの道のりには危険が伴いました。その人気の一部は、Linux の繁栄を可能にした 186 行の Unix コードをめぐって AT&amp;T がバークレーを訴えたことにあります。あの訴訟がなかったら、Linux はどうなっていたか誰にも分かりません。
+
+しかし、OS が進歩を遂げると、すぐに世界最大の OS 開発者である Microsoft の目に留まりました。その後に提出され…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/09/halloween-document-featured.jpg?w=1600&amp;h=900&amp;fit=crop" alt="ハロウィーン文書は、マイクロソフトがどのようにして Linux を消滅させる計画を立てたかを明らかにしましたが、オープンソース コミュニティは Linux を武器に変えました"></p>]]></description><source url="https://www.xda-developers.com/halloween-documents-microsoft-extinguish-linux/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/09/halloween-document-featured.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/09/halloween-document-featured.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>ドーンウォーカーの血の予算はわずか4,000万ドルだと伝えられている</title><link>https://www.techpowerup.com/352867/the-blood-of-dawnwalker-budget-is-reportedly-just-usd-40-million</link><guid isPermaLink="true">https://www.techpowerup.com/352867/the-blood-of-dawnwalker-budget-is-reportedly-just-usd-40-million</guid><pubDate>Sat, 19 Sep 2026 23:16:09 +0000</pubDate><description><![CDATA[<p>ドーンウォーカーの血の予算はわずか4,000万ドルだと伝えられている
+
+ブルームバーグの新しい報道によると、『ドーンウォーカーの血』の制作費は約4000万ドルだったという。レベル ウルブズのディレクターであるコンラート・トマシュキェヴィチ氏は、初年度の 2022 年に自己資金を投じてプロトタイプを構築し、同年末までに NetEase が参入しました。中国企業は株式の26%を取得しました...
+
+ドーンウォーカーの血の予算はわずか4,000万ドルだと伝えられている
+
+2026年9月7日 インテル、10月にCPU価格をさらに10%値上げ予定 (47)
+
+2026 年 8 月 27 日 『ウィッチャー 4』は発売の 2 年前にすべてのターゲット プラットフォームですでに動作 (20)
+
+2026 年 9 月 7 日 専用の DLSS 5 GPU を使用してマルチ GPU ゲームを復活させ、印象的な FPS ゲインを実現する MOD (85)
+
+2026 年 9 月 5 日 『The Blood of Dawnwalker』が発売から数日で 100 万部売れた (7)
+
+2026 年 9 月 11 日 小島氏の PlayStation 分割は、高価な制作費が予定より遅れたことが原因 (21)
+
+2026 年 9 月 18 日 中国の DRAM メーカー CXMT が NAND フラッシュ市場への参入を準備していると報じられている (9)
+
+2026 年 7 月 31 日 Xile Entertainment の「RPG Specialist」で新しい Fallout ゲームが初期開発中 (10)
+
+2026 年 9 月 8 日 ドーンウォーカーの血 2 はすでに開発中 (0)
+
+2026 年 8 月 11 日の調査で、ゲーム開発において AI は依然として物議を醸していることが判明 (1)
+
+2026 年 8 月 20 日 Logitech G Pro X3 Superstrike マウスのリークにより、新しい内部構造と交換可能なバッテリーがピン留めされる (22)
+
+ドーンウ…</p><p><img src="https://www.techpowerup.com/img/yQJbWKHbrfAM5jd1.jpg" alt="ドーンウォーカーの血の予算はわずか4,000万ドルだと伝えられている"></p>]]></description><source url="https://www.techpowerup.com/352867/the-blood-of-dawnwalker-budget-is-reportedly-just-usd-40-million">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/yQJbWKHbrfAM5jd1.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/yQJbWKHbrfAM5jd1.jpg"/></item>
+<item><title>ホットスポットがハンドヘルドに</title><link>https://hackaday.com/2026/09/19/a-hotspot-becomes-a-handheld/</link><guid isPermaLink="true">https://hackaday.com/2026/09/19/a-hotspot-becomes-a-handheld/</guid><pubDate>Sat, 19 Sep 2026 23:00:20 +0000</pubDate><description><![CDATA[<p>ホットスポットがハンドヘルドに
+
+シングルボード コンピュータが利用できることを考えると、Linux ハンドヘルド コンピュータは理論的には簡単で安価ですが、実際には予算が常に 3 桁に達します。そこには…
+
+シングルボード コンピュータが利用できることを考えると、Linux ハンドヘルド コンピュータは理論的には簡単で安価ですが、実際には予算が常に 3 桁に達します。 [bkovac] からは、それほど大金を掛けずに済む興味深い代替案があります。安価な 4G ワイヤレス ホットスポット、iPhone USB キーボード ケース アクセサリ、そして、安価なディスプレイで十分かもしれませんが、豪華な Adafruit Sharp メモリ ディスプレイを使用します。
+
+このホットスポットは、AliExpress から約 20 ドル/ユーロ/ポンドで入手でき、モデル番号は MF800 です。これは、Snapdragon 410 としても知られる Qualcomm MSM8916 を搭載しています。これは、過去 10 年間の初期の格安携帯電話に搭載されていたかもしれません。ただし重要なのは、これは主流の Linux でサポートされており、決して業界最速ではありませんが、貧しい人にとっては Raspberry Pi の代替品となり得るということです。小型の SPI ディスプレイが付属していますが、このプロジェクトではそれをはるかに大きな Sharp SPI メモリ ディスプレイに置き換えます。
+
+このビルドでは、いくつかのケースの改造とモデムの PCB の改造を経て、キーボードを適合させ、カスタムの電源ボードを作成します。これはディストリビューションをインストールする単純なケースではないため、おそらくソフトウェアのセットアップが最も興味深い部分です。その代わり、ディスプレイを動作させるにはかなりのハッキングが必要です。
+
+Linux ハンドヘルドは新しいものではありませんが、予想外の出発点を使用してこのプロジェクトを作成しているため、私たちはこのプロジェクトをとても気に入っていま…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/09/router-handheld-featured.jpg" alt="ホットスポットがハンドヘルドに"></p>]]></description><source url="https://hackaday.com/2026/09/19/a-hotspot-becomes-a-handheld/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/09/router-handheld-featured.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/09/router-handheld-featured.jpg"/></item>
+<item><title>ローカルモデルを端末に直接接続した後、エラーメッセージのスクリーンショットを撮るのをやめました</title><link>https://www.xda-developers.com/stopped-screenshotting-error-messages-local-model-directly-into-my-terminal/</link><guid isPermaLink="true">https://www.xda-developers.com/stopped-screenshotting-error-messages-local-model-directly-into-my-terminal/</guid><pubDate>Sat, 19 Sep 2026 23:00:16 +0000</pubDate><description><![CDATA[<p>ローカルモデルを端末に直接接続した後、エラーメッセージのスクリーンショットを撮るのをやめました
+
+必要がないのに、なぜターミナルから離れるのでしょうか?
+
+ローカルモデルを端末に直接接続した後、エラーメッセージのスクリーンショットを撮るのをやめました
+
+By Joe Rice-Jones Published Sep 19, 2026, 7:00 PM EDT Maker、meme-r、そして恥ずかしがり屋のオタクである Joe は、2018 年に KnowTechie でキャリアをスタートして以来、テクノロジーについて執筆してきました。彼は Apple からアプリ、クラウドファンディングまであらゆるものをカバーしており、複雑なトピックの本質に迫るのが大好きです。その間、彼は、2023 年の春に XDA に本拠地を置くまで、SlashGear や多数の法人顧客向けにも記事を書いていました。彼は、たとえ後で完全に元に戻らなかったとしても、すべてのおもちゃを分解して、どのように機能するかを確認する子供でした。これにより、複雑なシステムがどのように連携して機能するかを説明するための確かな背景が得られ、それ以来、物事を元に戻す段階でうまくなったと彼は約束します。 XDA アカウントにサインインする 何年もの間、私のトラブルシューティング ループは同じように見えました。コマンドが失敗したため、Win + Shift + S を押し、赤いテキストを切り取ってチャットボットに貼り付けました。それは機能しますが、私のエラー出力は他の人のサーバー、トークンなどに送信されてしまいます。ローカル LLM をサーバー ログに記録し、それらのログが何を示すかを確認した後、このことがさらに気になりました。
+
+私はすでにローカル AI セットアップを AMD の Lemonade に切り替え、Proxmox LXC の Strix Halo ボックスで実行しているため、修正はすぐに完了しました。 Microsoft も同じアイデアを販売しています。インテリジェント ターミナルはローカル LLM と通信…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/09/intelligent-terminal-on-laptop.jpg?w=1600&amp;h=900&amp;fit=crop" alt="ローカルモデルを端末に直接接続した後、エラーメッセージのスクリーンショットを撮るのをやめました"></p>]]></description><source url="https://www.xda-developers.com/stopped-screenshotting-error-messages-local-model-directly-into-my-terminal/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/09/intelligent-terminal-on-laptop.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/09/intelligent-terminal-on-laptop.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
 <item><title>Onyx Boox Note Air 6C Now Available on Amazon</title><link>https://goodereader.com/blog/onyx-boox/onyx-boox-note-air-6c-now-available-on-amazon</link><guid isPermaLink="true">https://goodereader.com/blog/onyx-boox/onyx-boox-note-air-6c-now-available-on-amazon</guid><pubDate>Sat, 19 Sep 2026 22:02:23 +0000</pubDate><description><![CDATA[<p>Onyx Boox Note Air 6C Now Available on Amazon
 
 The latest-generation Boox Note Air 6C is now available to order on Amazon.com in the United States and will start shipping on September 22nd.
@@ -2662,17 +2851,6 @@ Breakthrough will improve hardware preservation, repair, and emulation projects.
 (Image credit: DiscoStarslayer ) Copy link
 
 4 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter The ‘magic security chip’ inside the original PlayStation 2 has been successfully reverse-engineered and dumped. Canadian retro hardware and software enthusia…</p><p><img src="https://cdn.mos.cms.futurecdn.net/YT8szWTawNgyAr5wNtX4gh-1920-80.jpg" alt="Original Sony PlayStation 2 security chip ‘broken wide open’ after 26 years — chemical decapping and four years of reverse engineering unlocks MechaCon secrets"></p>]]></description><source url="https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/YT8szWTawNgyAr5wNtX4gh-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/YT8szWTawNgyAr5wNtX4gh-1920-80.jpg"/></item>
-<item><title>Devastated father says his 9-year-old son spent $118,000 on YouTube ad campaigns for his Minecraft channel using a company credit card — bill racked up in just three weeks was supposed to be one $20 promotion</title><link>https://www.tomshardware.com/video-games/devastated-father-says-his-9-year-old-son-spent-usd118-000-on-youtube-ad-campaigns-for-his-minecraft-channel-using-a-company-credit-card-bill-racked-up-in-just-three-weeks-was-supposed-to-be-one-usd20-promotion</link><guid isPermaLink="true">https://www.tomshardware.com/video-games/devastated-father-says-his-9-year-old-son-spent-usd118-000-on-youtube-ad-campaigns-for-his-minecraft-channel-using-a-company-credit-card-bill-racked-up-in-just-three-weeks-was-supposed-to-be-one-usd20-promotion</guid><pubDate>Wed, 16 Sep 2026 10:15:00 +0000</pubDate><description><![CDATA[<p>Devastated father says his 9-year-old son spent $118,000 on YouTube ad campaigns for his Minecraft channel using a company credit card — bill racked up in just three weeks was supposed to be one $20 promotion
-
-The button said approved every time as nobody had set a limit.
-
-Devastated father says his 9-year-old son spent $118,000 on YouTube ad campaigns for his Minecraft channel using a company credit card — bill racked up in just three weeks was supposed to be one $20 promotion
-
-The button said approved every time as nobody had set a limit.
-
-(Image credit: Mojang/Microsoft) Copy link
-
-29 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter A father says his 9-year-old son spent $118,000 on YouTube ad campaigns for his Minecraft and R…</p><p><img src="https://cdn.mos.cms.futurecdn.net/WqT4qfqpykFX5WJnw9SPtM-889-80.png" alt="Devastated father says his 9-year-old son spent $118,000 on YouTube ad campaigns for his Minecraft channel using a company credit card — bill racked up in just three weeks was supposed to be one $20 promotion"></p>]]></description><source url="https://www.tomshardware.com/video-games/devastated-father-says-his-9-year-old-son-spent-usd118-000-on-youtube-ad-campaigns-for-his-minecraft-channel-using-a-company-credit-card-bill-racked-up-in-just-three-weeks-was-supposed-to-be-one-usd20-promotion">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/WqT4qfqpykFX5WJnw9SPtM-889-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/WqT4qfqpykFX5WJnw9SPtM-889-80.png"/></item>
 <item><title>China&#39;s open-weight AI models are now just 4 months behind frontier US offerings, Mozilla report claims — models still lag in some benchmarks but are drastically cheaper to use</title><link>https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use</guid><pubDate>Wed, 16 Sep 2026 10:15:00 +0000</pubDate><description><![CDATA[<p>China&#39;s open-weight AI models are now just 4 months behind frontier US offerings, Mozilla report claims — models still lag in some benchmarks but are drastically cheaper to use
 
 Behind, but at a fraction of the price
@@ -2684,6 +2862,17 @@ Behind, but at a fraction of the price
 (Image credit: Getty / Bloomberg) Copy link
 
 0 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter Mozilla has published version 1.1 of its State of Open Source AI report on Sept. 15 using data current to Sept. 1, revealing that many of the best Chinese open-weight AI models are closing the gap with U.S. …</p><p><img src="https://cdn.mos.cms.futurecdn.net/QGnsfcy2NbHpJXXmvjHVJk-2000-80.jpg" alt="China&#39;s open-weight AI models are now just 4 months behind frontier US offerings, Mozilla report claims — models still lag in some benchmarks but are drastically cheaper to use"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/QGnsfcy2NbHpJXXmvjHVJk-2000-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/QGnsfcy2NbHpJXXmvjHVJk-2000-80.jpg"/></item>
+<item><title>Devastated father says his 9-year-old son spent $118,000 on YouTube ad campaigns for his Minecraft channel using a company credit card — bill racked up in just three weeks was supposed to be one $20 promotion</title><link>https://www.tomshardware.com/video-games/devastated-father-says-his-9-year-old-son-spent-usd118-000-on-youtube-ad-campaigns-for-his-minecraft-channel-using-a-company-credit-card-bill-racked-up-in-just-three-weeks-was-supposed-to-be-one-usd20-promotion</link><guid isPermaLink="true">https://www.tomshardware.com/video-games/devastated-father-says-his-9-year-old-son-spent-usd118-000-on-youtube-ad-campaigns-for-his-minecraft-channel-using-a-company-credit-card-bill-racked-up-in-just-three-weeks-was-supposed-to-be-one-usd20-promotion</guid><pubDate>Wed, 16 Sep 2026 10:15:00 +0000</pubDate><description><![CDATA[<p>Devastated father says his 9-year-old son spent $118,000 on YouTube ad campaigns for his Minecraft channel using a company credit card — bill racked up in just three weeks was supposed to be one $20 promotion
+
+The button said approved every time as nobody had set a limit.
+
+Devastated father says his 9-year-old son spent $118,000 on YouTube ad campaigns for his Minecraft channel using a company credit card — bill racked up in just three weeks was supposed to be one $20 promotion
+
+The button said approved every time as nobody had set a limit.
+
+(Image credit: Mojang/Microsoft) Copy link
+
+29 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter A father says his 9-year-old son spent $118,000 on YouTube ad campaigns for his Minecraft and R…</p><p><img src="https://cdn.mos.cms.futurecdn.net/WqT4qfqpykFX5WJnw9SPtM-889-80.png" alt="Devastated father says his 9-year-old son spent $118,000 on YouTube ad campaigns for his Minecraft channel using a company credit card — bill racked up in just three weeks was supposed to be one $20 promotion"></p>]]></description><source url="https://www.tomshardware.com/video-games/devastated-father-says-his-9-year-old-son-spent-usd118-000-on-youtube-ad-campaigns-for-his-minecraft-channel-using-a-company-credit-card-bill-racked-up-in-just-three-weeks-was-supposed-to-be-one-usd20-promotion">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/WqT4qfqpykFX5WJnw9SPtM-889-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/WqT4qfqpykFX5WJnw9SPtM-889-80.png"/></item>
 <item><title>Creality Unveils Its First &#34;KliTek&#34; Nozzle-Changing 3D Printer: the Four-Nozzle Creality K3</title><link>https://www.hackster.io/news/creality-unveils-its-first-klitek-nozzle-changing-3d-printer-the-four-nozzle-creality-k3-dc1c5189d560</link><guid isPermaLink="true">https://www.hackster.io/news/creality-unveils-its-first-klitek-nozzle-changing-3d-printer-the-four-nozzle-creality-k3-dc1c5189d560</guid><pubDate>Wed, 16 Sep 2026 10:01:27 +0000</pubDate><description><![CDATA[<p>Creality Unveils Its First &#34;KliTek&#34; Nozzle-Changing 3D Printer: the Four-Nozzle Creality K3</p>]]></description><source url="https://www.hackster.io/news/creality-unveils-its-first-klitek-nozzle-changing-3d-printer-the-four-nozzle-creality-k3-dc1c5189d560">Hackster.io</source></item>
 <item><title>Android Auto could give you a better look at your destination before you start your trip</title><link>https://www.androidauthority.com/android-auto-google-maps-photos-gemini-ai-summaries-apk-teardown-3711806/</link><guid isPermaLink="true">https://www.androidauthority.com/android-auto-google-maps-photos-gemini-ai-summaries-apk-teardown-3711806/</guid><pubDate>Wed, 16 Sep 2026 10:01:22 +0000</pubDate><description><![CDATA[<p>Android Auto could give you a better look at your destination before you start your trip</p>]]></description><source url="https://www.androidauthority.com/android-auto-google-maps-photos-gemini-ai-summaries-apk-teardown-3711806/">Android Authority</source></item>
 <item><title>PowerWash Simulator 2 DLC announced</title><link>https://www.kitguru.net/tech-news/mustafa-mahmoud/powerwash-simulator-2-x-barbie-officially-announced/</link><guid isPermaLink="true">https://www.kitguru.net/tech-news/mustafa-mahmoud/powerwash-simulator-2-x-barbie-officially-announced/</guid><pubDate>Wed, 16 Sep 2026 10:00:41 +0000</pubDate><description><![CDATA[<p>PowerWash Simulator 2 DLC announced
@@ -3968,57 +4157,4 @@ Including bioweapons, though Anthropic does not formally admit that.
 (Image credit: Getty / NurPhoto) Copy link
 
 0 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter Hit hard by sanctions and lacking resources, Russia is left to rely on foreign advanced technologies to compensate. Russia-linked agents appear to use Claude for a broad range of activities, from propaganda and e…</p><p><img src="https://cdn.mos.cms.futurecdn.net/L3LMrxAsdXV8GhdVLWYvdZ-2000-80.jpg" alt="Russian freelancers use Claude to program autonomous combat drone swarm — AI-enabled target selection and detonation without a human in the loop"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/artificial-intelligence/russian-freelancers-use-claude-to-program-autonomous-combat-drone-swarm-ai-enabled-target-selection-and-detonation-without-a-human-in-the-loop">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/L3LMrxAsdXV8GhdVLWYvdZ-2000-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/L3LMrxAsdXV8GhdVLWYvdZ-2000-80.jpg"/></item>
-<item><title>Diablo V has no towns, players share &#39;unique bond&#39; with Lord of Terror in new doomed world</title><link>https://www.tweaktown.com/rss/click/news/113516/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113516/?c=news-mf</guid><pubDate>Mon, 14 Sep 2026 10:42:12 +0000</pubDate><description><![CDATA[<p>Diablo V has no towns, players share &#39;unique bond&#39; with Lord of Terror in new doomed world</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113516/?c=news-mf">TweakTown</source></item>
-<item><title>Apple’s Handoff lets two iPhones share one number, but it won’t come cheap</title><link>https://www.androidauthority.com/iphone-handoff-t-mobile-3710866/</link><guid isPermaLink="true">https://www.androidauthority.com/iphone-handoff-t-mobile-3710866/</guid><pubDate>Mon, 14 Sep 2026 10:38:03 +0000</pubDate><description><![CDATA[<p>Apple’s Handoff lets two iPhones share one number, but it won’t come cheap</p>]]></description><source url="https://www.androidauthority.com/iphone-handoff-t-mobile-3710866/">Android Authority</source></item>
-<item><title>Maryland data center developers offer residents biggest-ever US community benefits package as big tech seeks to quell fears — $110 million deal includes $30 million elementary school, water reclamation system, and more</title><link>https://www.tomshardware.com/tech-industry/data-centers/maryland-data-center-developers-offer-residents-biggest-ever-us-community-benefits-package-as-big-tech-seeks-to-quell-fears-usd110-million-deal-includes-usd30-million-elementary-school-water-reclamation-system-and-more</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/data-centers/maryland-data-center-developers-offer-residents-biggest-ever-us-community-benefits-package-as-big-tech-seeks-to-quell-fears-usd110-million-deal-includes-usd30-million-elementary-school-water-reclamation-system-and-more</guid><pubDate>Mon, 14 Sep 2026 10:32:00 +0000</pubDate><description><![CDATA[<p>Maryland data center developers offer residents biggest-ever US community benefits package as big tech seeks to quell fears — $110 million deal includes $30 million elementary school, water reclamation system, and more
-
-A new report says it
-
-Maryland data center developers offer residents biggest-ever US community benefits package as big tech seeks to quell fears — $110 million deal includes $30 million elementary school, water reclamation system, and more
-
-A new report says it&#39;s a sign developers are getting more savvy when it comes to overcoming resident pushback
-
-(Image credit: Getty / Wisconsin Watch) Copy link
-
-5 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter Residents of Frederick County, Maryland, could be the beneficiar…</p><p><img src="https://cdn.mos.cms.futurecdn.net/cqnY8rTnqnhLpHddCA5qrn-2000-80.jpg" alt="Maryland data center developers offer residents biggest-ever US community benefits package as big tech seeks to quell fears — $110 million deal includes $30 million elementary school, water reclamation system, and more"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/data-centers/maryland-data-center-developers-offer-residents-biggest-ever-us-community-benefits-package-as-big-tech-seeks-to-quell-fears-usd110-million-deal-includes-usd30-million-elementary-school-water-reclamation-system-and-more">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/cqnY8rTnqnhLpHddCA5qrn-2000-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/cqnY8rTnqnhLpHddCA5qrn-2000-80.jpg"/></item>
-<item><title>Your Android phone has a secret update menu — here’s how to find and use it</title><link>https://www.androidauthority.com/android-system-services-secret-update-menu-how-use-3708756/</link><guid isPermaLink="true">https://www.androidauthority.com/android-system-services-secret-update-menu-how-use-3708756/</guid><pubDate>Mon, 14 Sep 2026 10:30:24 +0000</pubDate><description><![CDATA[<p>Your Android phone has a secret update menu — here’s how to find and use it</p>]]></description><source url="https://www.androidauthority.com/android-system-services-secret-update-menu-how-use-3708756/">Android Authority</source></item>
-<item><title>Modders halve FSR 4 render times on AMD’s PS5-derived BC-250 mining APU — portable FidelityFX DLL cuts 1440p upscaling time from 11.51 ms to 5.92 ms</title><link>https://www.tomshardware.com/pc-components/modders-halve-fsr-4-render-times-on-amds-ps5-derived-bc-250-mining-apu-portable-fidelityfx-dll-cuts-1440p-upscaling-time-from-11-51-ms-to-5-92-ms</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/modders-halve-fsr-4-render-times-on-amds-ps5-derived-bc-250-mining-apu-portable-fidelityfx-dll-cuts-1440p-upscaling-time-from-11-51-ms-to-5-92-ms</guid><pubDate>Mon, 14 Sep 2026 10:30:00 +0000</pubDate><description><![CDATA[<p>Modders halve FSR 4 render times on AMD’s PS5-derived BC-250 mining APU — portable FidelityFX DLL cuts 1440p upscaling time from 11.51 ms to 5.92 ms
-
-Byte-identical output at half the GPU cost
-
-Modders halve FSR 4 render times on AMD’s PS5-derived BC-250 mining APU — portable FidelityFX DLL cuts 1440p upscaling time from 11.51 ms to 5.92 ms
-
-Byte-identical output at half the GPU cost
-
-(Image credit: Tom&#39;s Hardware) Copy link
-
-0 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter Modders have slashed the cost of running FSR 4 on AMD’s RDNA 2-powered BC-250 by nearly half, with a new implementation cutting the upscaler’s processing time from 11.51 ms to 5.92 ms at 1440p. Detailed in a VideoCardz post , the latest work builds on the co…</p><p><img src="https://cdn.mos.cms.futurecdn.net/4nd24gYgXdAhsopXnQWWf-1999-80.jpg" alt="Modders halve FSR 4 render times on AMD’s PS5-derived BC-250 mining APU — portable FidelityFX DLL cuts 1440p upscaling time from 11.51 ms to 5.92 ms"></p>]]></description><source url="https://www.tomshardware.com/pc-components/modders-halve-fsr-4-render-times-on-amds-ps5-derived-bc-250-mining-apu-portable-fidelityfx-dll-cuts-1440p-upscaling-time-from-11-51-ms-to-5-92-ms">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/4nd24gYgXdAhsopXnQWWf-1999-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/4nd24gYgXdAhsopXnQWWf-1999-80.jpg"/></item>
-<item><title>Mecha Systems Delays the Comet Handheld Again, Opens New Pre-Orders with a January 2027 Target</title><link>https://www.hackster.io/news/mecha-systems-delays-the-comet-handheld-again-opens-new-pre-orders-with-a-january-2027-target-574a3684cccd</link><guid isPermaLink="true">https://www.hackster.io/news/mecha-systems-delays-the-comet-handheld-again-opens-new-pre-orders-with-a-january-2027-target-574a3684cccd</guid><pubDate>Mon, 14 Sep 2026 10:11:43 +0000</pubDate><description><![CDATA[<p>Mecha Systems Delays the Comet Handheld Again, Opens New Pre-Orders with a January 2027 Target</p>]]></description><source url="https://www.hackster.io/news/mecha-systems-delays-the-comet-handheld-again-opens-new-pre-orders-with-a-january-2027-target-574a3684cccd">Hackster.io</source></item>
-<item><title>Next year’s Motorola Signature could be the most important Android phone of 2027</title><link>https://www.androidauthority.com/new-motorola-signature-most-important-android-phone-2027-3710383/</link><guid isPermaLink="true">https://www.androidauthority.com/new-motorola-signature-most-important-android-phone-2027-3710383/</guid><pubDate>Mon, 14 Sep 2026 10:00:27 +0000</pubDate><description><![CDATA[<p>Next year’s Motorola Signature could be the most important Android phone of 2027</p>]]></description><source url="https://www.androidauthority.com/new-motorola-signature-most-important-android-phone-2027-3710383/">Android Authority</source></item>
-<item><title>Dumpster diver builds home lab Proxmox server from weekly landfill runs for SSDs, HDDs, GPUs, and even RAM — weekly e-waste raids net multi-drive Proxmox server and Asus ROG laptop</title><link>https://www.tomshardware.com/desktops/pc-building/dumpster-diver-builds-home-lab-proxmox-server-from-weekly-landfill-runs-for-ssds-hdds-gpus-and-even-ram-weekly-e-waste-raids-net-multi-drive-proxmox-server-and-asus-rog-laptop</link><guid isPermaLink="true">https://www.tomshardware.com/desktops/pc-building/dumpster-diver-builds-home-lab-proxmox-server-from-weekly-landfill-runs-for-ssds-hdds-gpus-and-even-ram-weekly-e-waste-raids-net-multi-drive-proxmox-server-and-asus-rog-laptop</guid><pubDate>Mon, 14 Sep 2026 10:00:00 +0000</pubDate><description><![CDATA[<p>Dumpster diver builds home lab Proxmox server from weekly landfill runs for SSDs, HDDs, GPUs, and even RAM — weekly e-waste raids net multi-drive Proxmox server and Asus ROG laptop
-
-
-
-Dumpster diver builds home lab Proxmox server from weekly landfill runs for SSDs, HDDs, GPUs, and even RAM — weekly e-waste raids net multi-drive Proxmox server and Asus ROG laptop
-
-&#39;It&#39;s wild what people throw away these days&#39; says successful tech scavenger.
-
-(Image credit: Tsuto on Reddit ) Copy link
-
-3 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter A tech enthusiast says that they managed to put together a home lab-worthy Proxmox server using PC parts scavenged from the nearby county landfill. Furthermore, Tsuto told fellow Redditors that they …</p><p><img src="https://cdn.mos.cms.futurecdn.net/ihsSqsHBGmoax6s82AtRz5-1920-80.jpg" alt="Dumpster diver builds home lab Proxmox server from weekly landfill runs for SSDs, HDDs, GPUs, and even RAM — weekly e-waste raids net multi-drive Proxmox server and Asus ROG laptop"></p>]]></description><source url="https://www.tomshardware.com/desktops/pc-building/dumpster-diver-builds-home-lab-proxmox-server-from-weekly-landfill-runs-for-ssds-hdds-gpus-and-even-ram-weekly-e-waste-raids-net-multi-drive-proxmox-server-and-asus-rog-laptop">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/ihsSqsHBGmoax6s82AtRz5-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/ihsSqsHBGmoax6s82AtRz5-1920-80.jpg"/></item>
-<item><title>Google Wallet could soon put up a fight against Apple Wallet on iPhones</title><link>https://www.androidauthority.com/google-wallet-iphone-apk-teardown-3710795/</link><guid isPermaLink="true">https://www.androidauthority.com/google-wallet-iphone-apk-teardown-3710795/</guid><pubDate>Mon, 14 Sep 2026 09:51:11 +0000</pubDate><description><![CDATA[<p>Google Wallet could soon put up a fight against Apple Wallet on iPhones</p>]]></description><source url="https://www.androidauthority.com/google-wallet-iphone-apk-teardown-3710795/">Android Authority</source></item>
-<item><title>3devo&#39;s Filament Maker X10 Can Turn Waste Materials Into 1kg Filament Spools Every 40 Minutes</title><link>https://www.hackster.io/news/3devo-s-filament-maker-x10-can-turn-waste-materials-into-1kg-filament-spools-every-40-minutes-7f3832bbd6a9</link><guid isPermaLink="true">https://www.hackster.io/news/3devo-s-filament-maker-x10-can-turn-waste-materials-into-1kg-filament-spools-every-40-minutes-7f3832bbd6a9</guid><pubDate>Mon, 14 Sep 2026 09:41:33 +0000</pubDate><description><![CDATA[<p>3devo&#39;s Filament Maker X10 Can Turn Waste Materials Into 1kg Filament Spools Every 40 Minutes</p>]]></description><source url="https://www.hackster.io/news/3devo-s-filament-maker-x10-can-turn-waste-materials-into-1kg-filament-spools-every-40-minutes-7f3832bbd6a9">Hackster.io</source></item>
-<item><title>Super Smash Bros Melee now has a PC port, and the Android port isn’t far behind</title><link>https://www.androidauthority.com/super-smash-bros-melee-pc-port-android-3710807/</link><guid isPermaLink="true">https://www.androidauthority.com/super-smash-bros-melee-pc-port-android-3710807/</guid><pubDate>Mon, 14 Sep 2026 09:34:44 +0000</pubDate><description><![CDATA[<p>Super Smash Bros Melee now has a PC port, and the Android port isn’t far behind</p>]]></description><source url="https://www.androidauthority.com/super-smash-bros-melee-pc-port-android-3710807/">Android Authority</source></item>
-<item><title>飯山、今月Titan Falcon OLEDを299ポンドに値下げ</title><link>https://www.kitguru.net/peripherals/monitors/matthew-wilson/iiyama-discounts-titan-falcon-oled-to-299-this-month/</link><guid isPermaLink="true">https://www.kitguru.net/peripherals/monitors/matthew-wilson/iiyama-discounts-titan-falcon-oled-to-299-this-month/</guid><pubDate>Mon, 14 Sep 2026 09:30:17 +0000</pubDate><description><![CDATA[<p>飯山、今月Titan Falcon OLEDを299ポンドに値下げ
-
-iiyama は、G‑Master ブランドの 10 周年を期間限定のプロモーションで記念し、英国のゲーマーに G‑Master GOB2701QSC‑B1 Titan Falcon OLED モニターをわずか 299 ポンドで手に入れる機会を提供します。
-
-飯山、今月Titan Falcon OLEDを299ポンドに値下げ
-
-Matthew Wilson 3 時間前 注目の技術ニュース , モニター
-
-iiyama は、G‑Master ブランドの 10 周年を期間限定のプロモーションで記念し、英国のゲーマーに G‑Master GOB2701QSC‑B1 Titan Falcon OLED モニターをわずか 299 ポンドで手に入れる機会を提供します。このオファーは現在、SCAN、Overclockers UK、CCL、および Laptops Direct を通じて実施されており、9 月 27 日まで、または在庫がある限り実施されます。 299 ポンドという価格は、1440p 280Hz タンデム WOLED パネルとしてはこれまでに見た中で最も強気な OLED 価格の 1 つであり、OLED へのアップグレードを検討している人にとっては傑出した取引となっています。 G‑Master Titan Falcon は、280Hz のリフレッシュ レートと 0.03ms の応答時間を備えた 2560×1440 META 3.0 タンデム OLED パネルを中心に構築されています。 OLED パネルとして、誰もが絶賛する深みのある黒と高いコントラスト比、そして競技ゲームに必要な優れた動きの鮮明さと低遅延の恩恵を受けることができます。最新のゲーム モニターと同様に、Adaptive Sync もサポートされているため、画面のティアリングを心配する必要はありません。このモニターについて詳しく知りたい場合は、現在レビューを作成中ですので、しばらくお待ちください。 KitGuru 氏: OLED は、特に 299…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/09/iiyama-titan-falcon-oled-732x330.jpg" alt="飯山、今月Titan Falcon OLEDを299ポンドに値下げ"></p>]]></description><source url="https://www.kitguru.net/peripherals/monitors/matthew-wilson/iiyama-discounts-titan-falcon-oled-to-299-this-month/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/09/iiyama-titan-falcon-oled-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/09/iiyama-titan-falcon-oled-732x330.jpg"/></item>
-<item><title>I’ve used Android for 15 years — but I’m ready to switch to the iPhone Duo</title><link>https://www.androidauthority.com/android-user-15-years-switching-iphone-duo-3710181/</link><guid isPermaLink="true">https://www.androidauthority.com/android-user-15-years-switching-iphone-duo-3710181/</guid><pubDate>Mon, 14 Sep 2026 09:30:07 +0000</pubDate><description><![CDATA[<p>I’ve used Android for 15 years — but I’m ready to switch to the iPhone Duo</p>]]></description><source url="https://www.androidauthority.com/android-user-15-years-switching-iphone-duo-3710181/">Android Authority</source></item>
-<item><title>James Lewis Lets You Get Artsy with Your Signal Generation, Right in Your Browser: Meet ArbDraw</title><link>https://www.hackster.io/news/james-lewis-lets-you-get-artsy-with-your-signal-generation-right-in-your-browser-meet-arbdraw-f1dc21226c02</link><guid isPermaLink="true">https://www.hackster.io/news/james-lewis-lets-you-get-artsy-with-your-signal-generation-right-in-your-browser-meet-arbdraw-f1dc21226c02</guid><pubDate>Mon, 14 Sep 2026 09:16:01 +0000</pubDate><description><![CDATA[<p>James Lewis Lets You Get Artsy with Your Signal Generation, Right in Your Browser: Meet ArbDraw</p>]]></description><source url="https://www.hackster.io/news/james-lewis-lets-you-get-artsy-with-your-signal-generation-right-in-your-browser-meet-arbdraw-f1dc21226c02">Hackster.io</source></item>
-<item><title>Morse Micro Wi-Fi HaLow USB adapters add 802.11ah connectivity to PCs and routers</title><link>https://www.cnx-software.com/2026/09/14/morse-micro-wi-fi-halow-usb-adapters-add-802-11ah-connectivity-to-pcs-and-routers/</link><guid isPermaLink="true">https://www.cnx-software.com/2026/09/14/morse-micro-wi-fi-halow-usb-adapters-add-802-11ah-connectivity-to-pcs-and-routers/</guid><pubDate>Mon, 14 Sep 2026 09:00:51 +0000</pubDate><description><![CDATA[<p>Morse Micro Wi-Fi HaLow USB adapters add 802.11ah connectivity to PCs and routers</p>]]></description><source url="https://www.cnx-software.com/2026/09/14/morse-micro-wi-fi-halow-usb-adapters-add-802-11ah-connectivity-to-pcs-and-routers/">CNX Software</source></item>
 </channel></rss>
