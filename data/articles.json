@@ -1,6 +1,96 @@
 {
   "akiba": [
     {
+      "Title": "Pixel 11 Pro XLの原神、ANGLE無効化でカクつき改善との検証",
+      "Link": "https://smhn.info/202609-pixel-11-pro-xl-genshin-angle-stutter",
+      "Published": "2026-09-22T14:25:18Z",
+      "Source": "すまほん!!",
+      "Category": "原神",
+      "Summary": "Pixel 11 Pro XLの原神、ANGLE無効化でカクつき改善との検証\n\nGoogleの高額な最新ハイエンドスマートフォンではリッチなタイトルが動作しないと話題になりましたが、微かな希望となる対策が登場しました。Pixel 11 Pro XLで「原神」の描画設定を変更したところ、細かな引っかかりを伴うマイクロスタッターが改善したとAndroid Aut...\n\nPixel 11 Pro XLの原神、ANGLE無効化でカクつき改善との検証\n\nGoogleの高額な最新ハイエンドスマートフォンではリッチなタイトルが動作しないと話題になりましたが、微かな希望となる対策が登場しました。\n\nPixel 11 Pro XLで「原神」の描画設定を変更したところ、細かな引っかかりを伴うマイクロスタッターが改善したとAndroid Authorityが伝えています。\n\n9月21日公開の検証によると、標準の「ANGLE」を使わずに「Native」へ切り替えたところ、大きなフレームタイムスパイクが減少したとのことです。\n\nフレームタイムは、画面の1コマを描くのにかかる時間を指します。同媒体の検証では、ANGLE使用時にこの時間が大きく乱れてカクつきが繰り返し発生していましたが、Native設定では最も長いフレームタイムも100ms未満に収まりました。\n\nANGLEは、OpenGL ESのAPI呼び出しをVulkanなど機器が対応する描画APIへ変換する互換レイヤーです。ゲームがOpenGL ES向けに描画を指示した場合でも、別のAPIを通じてGPUを動かせる仕組みで、複数の環境でOpenGL ESのコンテンツを動作させることが目的。\n\nAndroid Authorityの説明によると、検証したPixel 11 Pro XLではOpenGL ESが必要な場合にANGLEが標準で使われます。開発…",
+      "ImageURL": "https://smhn.info/wp-content/uploads/2026/09/IMG_9718.jpeg"
+    },
+    {
+      "Title": "GeForce Game Readyドライバ 617.14 WHQL公開。『CONTROL Resonant』『Gears of War: E-Day』『AION2』などに最適化",
+      "Link": "https://www.nichepcgamer.com/archives/geforce-driver-617-14.html",
+      "Published": "2026-09-22T14:22:06Z",
+      "Source": "ニッチなPCゲーマーの環境構築Z",
+      "Category": "ドライバ",
+      "Summary": "GeForce Game Readyドライバ 617.14 WHQL公開。『CONTROL Resonant』『Gears of War: E-Day』『AION2』などに最適化\n\n『CONTROL Resonant』『Gears of War: E-Day』『ウィッチャー3 ワイルドハント リマスター』『AION2』に最適化したGeForce Game Readyドライバ 6...\n\n『CONTROL Resonant』『Gears of War: E-Day』『ウィッチャー3 ワイルドハント リマスター』『AION2』に最適化したGeForce Game Readyドライバ 617.14 WHQLが公開されました。\n\nGeForce Game Readyドライバ 617.14 WHQLには、以下のゲームタイトルのサポートの追加・最適化が含まれています。\n\nウィッチャー3 ワイルドハント リマスター (The Witcher 3: Wild Hunt - Remastered)\n\nGeForce Game Readyドライバ 617.14 WHQL対応製品\n\nGeForce Game Readyドライバ 617.14 WHQLは、以下の製品をサポートします。\n\nGeForce Game Readyドライバ 617.14 WHQLで修正された不具合\n\nGeForce Game Readyドライバ 617.14 WHQLには、以下の不具合の修正が含まれています。\n\n616.56以降、『Judgement』『LOST JUDGMENT：裁かれざる記憶』『Virtua Fighter 5 R.E.V.O.』(バーチャファイター5 レヴォ)の起動に失敗する場合がある不具合を修正\n\nR615ドライバ(616.56以降)において、HDMI接続のSamsung Odyssey G95NC…",
+      "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2025/12/nvidia-logo-1200.jpg"
+    },
+    {
+      "Title": "Beats 360レビュー：ジム映えヘッドホン、初の”着替え対応”",
+      "Link": "https://gori.me/music-accessories/headphones/170539",
+      "Published": "2026-09-22T14:03:01Z",
+      "Source": "gori.me",
+      "Category": "レビュー",
+      "Summary": "Beats 360レビュー：ジム映えヘッドホン、初の”着替え対応”\n\nスポーツシューズの発想を取り入れた、Beats史上初のクッション交換式ヘッドホン「Beats 360」を使ってみた。なぜこの形にたどり着いたのか、実際に使うとどう違うのか、良かった点も気になった点も正直にレビューする。\n\nBeats 360レビュー：ジム映えヘッドホン、初の”着替え対応”\n\n2 g.O.R.i 2026年09月22日更新 g. フ 2件のコメント g.O.R.i参加中 最終更新 15分前 コメントを読む コメントを投稿する 忙しい人のための3行まとめ ▾ Beats 360は、フィット感・軽さ・汗への耐性を重視したスポーツシューズの発想から生まれたヘッドホン\n\nイヤー・ヘッドバンド両方のクッションを交換でき、最大256通りの組み合わせが選べる\n\nIPX4等級の耐汗耐水性能と専用の電源ボタンを備え、価格は59,800円\n\nBeatsが20周年を迎えた月に、まったく新しいヘッドフォンを出してきた。その名も Beats 360 。イヤークッションとヘッドバンドクッションを付け替えられる、Beats史上初めての仕組みを備えたオーバーイヤーヘッドフォンだ。\n\nなぜ Beats 360 は生まれたのか。Apple ハードウェアエンジニアリング担当バイスプレジデントの Matthew Costello（マシュー・コステロ） 氏によると、ここ数年、オーバーイヤーヘッドフォンをジムでのトレーニングやランニングなど、よりアクティブなシーンで使う人が増えているという。そこでBeatsとAppleのチームが参考にしたのが、ハイパフォーマンスなスポーツシューズだったそうだ。マシュー氏は「フィット感、軽さ、水や汗への耐性、簡単に洗えること、そして自分らしさを表現できること」を挙げ、この発想をヘッドフォンという形に落と…",
+      "ImageURL": "https://gori.me/uploads/2026/09/Beats-360-Review-GoriMe-01-800x562.jpg"
+    },
+    {
+      "Title": "【9/24 8時発売】Beatsから付け替えが可能なクッションを採⽤したヘッドホン Dr. Dre Beats 360 が登場！",
+      "Link": "https://e-earphone.blog/?p=1553587",
+      "Published": "2026-09-22T14:00:46Z",
+      "Source": "e☆イヤホン",
+      "Category": "",
+      "Summary": "【9/24 8時発売】Beatsから付け替えが可能なクッションを採⽤したヘッドホン Dr. Dre Beats 360 が登場！\n\nクッションキットもさまざまなカラーや素材で登場！スタイルと気分にあわせて選べます\r\rこんにちは！e☆イヤホンのPRスタッフです！\r今回はBeatsからの新製品のご紹介です。\r \rBeats by Dr. Dre Beat\n\nクッションキットもさまざまなカラーや素材で登場！スタイルと気分にあわせて選べます\n\n▼Beats by Dr. Dre Beats 360 e☆イヤホン オンラインストア価格￥59,800- (税込)\n\nBeats 360は、イヤークッションとヘッドバンドの両⽅で付け替えが可能なPerformance Knitクッションを採⽤。ワークアウト後は別のクッションに替えたり、スタイルにあわせてカラーを選べます。(1)\n\nBeats 360には同⾊のPerformance Knitクッションが付属。別売りのクッションキットもさまざまなカラーや素材で取りそろえています。\n\nアクティブノイズキャンセリング（ANC）の総合的な性能はBeats Studio Proと⽐べて最⼤1.75倍。周囲の環境や装着状態に合わせて不要な⾳を遮断、集中を⾼めます。(2)\n\n独⾃のアコースティックプラットフォームが、歪みを極限まで抑えて、パワフルな低⾳と⾳域全体にわたる緻密なサウンドを実現。没⼊感あふれるサウンドを届けます。パーソナライズされた空間オーディオとダイナミックヘッドトラッキング(3)で、包み込まれるような臨場感あふれるサウンドを。\n\nイヤークッションには⾳響設計されたメモリーフォームを採⽤。⽿に⼼地よくフィットし、最適な密閉性で豊かなサウンド。\n\nAIで学習を重ねた先進的なアルゴリズムと3つのマイクによるビームフォーミングシステムが、クリアな通…",
+      "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/09/Beats-by-Dr-Dre-Beats-360.webp"
+    },
+    {
+      "Title": "Durabook、3枚の14型ディスプレイを折りたためる約9.8kgの堅牢ワークステーション",
+      "Link": "https://www.gdm.or.jp/pressrelease/2026/0922/653371",
+      "Published": "2026-09-22T13:46:16Z",
+      "Source": "エルミタージュ秋葉原",
+      "Category": "",
+      "Summary": "Durabook、3枚の14型ディスプレイを折りたためる約9.8kgの堅牢ワークステーション\n\nDurabook、14型フルHD液晶を3枚搭載する堅牢モバイルワークステーション「Z14I-DX3」を発表。最大682TOPSのAI性能を備え、重量は約9.8kg。\n\nDurabook、3枚の14型ディスプレイを折りたためる約9.8kgの堅牢ワークステーション\n\nTwinhead International Corporation（本社：台湾）の堅牢モバイル端末ブランドDurabookは2026年9月22日（現地時間）、3枚のディスプレイを一体化したモバイルワークステーション 「Z14I-DX3」 を発表した。\n\n防衛・軍事、公共安全、緊急サービス、エネルギー、海洋、産業分野などでの利用を想定したエッジAIコンピューティングプラットフォーム。3枚の14型フルHD（1,920×1,080ドット）液晶を横一列に展開でき、地図や映像、テレメトリ、センサーデータなどを同時に表示できる。\n\n左右の拡張ディスプレイは本体から取り外すことなく内側へ折りたためる構造で、展開から撤収までを一体のシステムとして行える。それぞれの液晶は最大輝度1,200nitの「DynaVue」タッチパネルを採用。指、水滴、手袋、スタイラスに対応するタッチモードを備え、輝度とコントラストは画面ごとに個別調整できる。\n\nCPUにはIntel Core Ultra 5 125U/135UまたはCore Ultra 7 155U/165Uを採用し、メモリはDDR5-5600を最大64GB搭載可能。グラフィックスはIntel Graphicsのほか、NVIDIA RTX A500、RTX 3500 Ada、RTX 5000 Adaを選択できる。RTX 5000 Ada単体で最大682TOPSのAI処理性能を発揮し、画像認識や…",
+      "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/09/22/z14i_dx3_001.jpg"
+    },
+    {
+      "Title": "【レビュー】iPhone18 Pro用トリニティ保護ガラス〜ケースと好相性で指すべり改善",
+      "Link": "https://iphone-mania.jp/iphone18-606485/",
+      "Published": "2026-09-22T11:18:17Z",
+      "Source": "iPhone Mania",
+      "Category": "液晶保護シート",
+      "Summary": "【レビュー】iPhone18 Pro用トリニティ保護ガラス〜ケースと好相性で指すべり改善\n\n「MagSafe対応iPhone18 Proテックウーブンケース – シャンブレーブルー」を装着して使用している、グレイシャーのiPhone18 Proに、トリニティの「超堅狼ウルフガラス 画面保護強化ガラス」を貼り付けました。\n\n【レビュー】iPhone18 Pro用トリニティ保護ガラス〜ケースと好相性で指すべり改善\n\n「MagSafe対応iPhone18 Proテックウーブンケース – シャンブレーブルー」を装着して使用している、グレイシャーの iPhone18 Pro に、 トリニティの「超堅狼ウルフガラス 画面保護強化ガラス」 を貼り付けました。\n\n装着後は、ケースのフチとディスプレイ面との 段差が小さくなり 、 指が引っかかりにくくなりました 。何も貼っていない状態と比べて、筆者は 指すべりも良くなった と感じています。\n\n本記事では、メーカーからご提供いただいたレビュー用サンプルを使用しています。\n\nトリニティ製保護ガラスの特徴の1つが、貼り付けを補助する専用ツール「貼るピタ」です。iPhone18シリーズ向けでも、昨年のiPhone17シリーズ用と同じ「貼るピタNEO」が採用されています。\n\n貼るピタシリーズはこれまで次のように進化し、貼り付けやすさを向上させてきました。\n\n今回レビューするのは、トリニティの「《高透明》ケースとの相性抜群 超堅狼ウルフガラス 画面保護強化ガラス」です。iPhone17およびiPhone17 Pro用と互換性があり、iPhone18 Proにも適合すると案内されています。\n\nトリニティは、この保護ガラスについて次のような特徴を案内しています。\n\nトリニティによると、超堅狼ウルフガラスは3点曲げ試験で、比較対象となった ゴリラガラスを上回っ…",
+      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/09/22/th_iPhone18-Pro-Trinity-Glass_8.jpg"
+    },
+    {
+      "Title": "ChatGPTの使用量リセット、OpenAIのSottiaux氏が「火曜」と予告",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2142612.html",
+      "Published": "2026-09-22T09:50:21Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "ChatGPTの使用量リセット、OpenAIのSottiaux氏が「火曜」と予告\n\n「火曜日にリセットすると約束した。もうすぐ火曜日だ」。OpenAIでCodexとChatGPTを担当するThibault Sottiaux(ティボー・ソティオ)氏が9月22日(日本時間)、Xでこう投稿し、使用量リセットが近いことを予告した。この火曜日は米国時間で、投稿に時刻の明記はないが、日本時間の同日16時以降にリセットされると見られる。なお、記事執筆時点で、筆者の環境ではまだリセットされていない。\n\nChatGPTの使用量リセット、OpenAIのSottiaux氏が「火曜」と予告\n\n「火曜日にリセットすると約束した。もうすぐ火曜日だ」。OpenAIでCodexとChatGPTを担当するThibault Sottiaux(ティボー・ソティオ)氏が9月22日(日本時間)、Xでこう投稿し、使用量リセットが近いことを予告した。この火曜日は米国時間で、投稿に時刻の明記はないが、日本時間の同日16時以降にリセットされると見られる。なお、記事執筆時点で、筆者の環境ではまだリセットされていない。\n\n使用量リセットは、ユーザーごとのChatGPTやCodexの利用枠を回復させる措置である。OpenAIは8月以降、記念や埋め合わせの名目でこれを繰り返し実施してきた。9月12日にも、GPT-6 Astraの品質問題を修正したことに伴って実施している。\n\nLadies and gentlemen... start... your... ENGINES. We are almost Tuesday and I promised a reset for Tuesday. Among some other things. See you soon.",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2142/612/01.png"
+    },
+    {
+      "Title": "【Amazonタイムセール】UGREENの全8ポート10GbEハブが約1万円引き、税込29,849円",
+      "Link": "https://www.gdm.or.jp/pressrelease/2026/0922/653369",
+      "Published": "2026-09-22T09:38:28Z",
+      "Source": "エルミタージュ秋葉原",
+      "Category": "",
+      "Summary": "【Amazonタイムセール】UGREENの全8ポート10GbEハブが約1万円引き、税込29,849円\n\nUGREENの8ポート10GbEスイッチングハブ「CM996」がAmazonで25％オフ。10GBASE-T ×4とSFP+ ×4を搭載するアンマネージドモデルを、税込29,849円で購入できる。\n\n【Amazonタイムセール】UGREENの全8ポート10GbEハブが約1万円引き、税込29,849円\n\n10GBASE-T ×4とSFP+ ×4を搭載する「CM996」が25％オフ\n\nAmazon.co.jpにて、UGREENの8ポート10GbEスイッチングハブ 「CM996」 がタイムセール中。通常価格39,800円から25％オフとなる、税込29,849円で販売されている。\n\n10GbE対応RJ45ポート ×4とSFP+ポート ×4を搭載し、最大160Gbpsのスイッチング容量を実現。RJ45ポートは10Gbpsのほか、5Gbps、2.5Gbps、1Gbpsなどのマルチギガビット通信にも対応する。\n\n面倒な設定を必要としないアンマネージドタイプで、PCやNASを接続するだけで高速なネットワークを構築可能。RJ45とSFP+を使い分けられる全8ポート10GbE対応モデルが3万円を切るなら、自宅LANの本格的な高速化を考えている人にもオススメ。\n\n文： 編集部 松枝 清顕 株式会社ユーグリーン・ジャパン： https://ugreen.jp/\n\nDurabook、3枚の14型ディスプレイを折りたためる約9.8kgの堅牢ワーク…\n\n【Amazonタイムセール】Dellの4K/240Hz QD-OLED「AW27…\n\n最大16ベイ、Xeon Dと10GbE SFP+を搭載。TerraMasterの…\n\nGooglebook第1世代が一斉始動、899ドルから。IntelとSnapdr…",
+      "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/09/22/5aa3fd52671154a73c74bb6fb7721172.jpg"
+    },
+    {
+      "Title": "まんがタイムきらら系作品が全巻1冊199円でセール中",
+      "Link": "https://komameblog.jp/sale/kindle-20260922-kirara/",
+      "Published": "2026-09-22T09:35:27Z",
+      "Source": "こまめブログ",
+      "Category": "Kindle",
+      "Summary": "まんがタイムきらら系作品が全巻1冊199円でセール中\n\nAmazonのKindleストアにて「Kindle本199円セール」が開催中です。期間は9/24（木）まで。実用書からラノベまで、さまざまな作品が1冊199円で販売されています。なかでも注目したいのは、芳文社「まんがタイムきらら」系列の雑誌...\n\nAmazonのKindleストアにて「Kindle本199円セール」が開催中です。期間は9/24（木）まで。実用書からラノベまで、さまざまな作品が1冊199円で販売されています。\n\nなかでも注目したいのは、芳文社「まんがタイムきらら」系列の雑誌に掲載された、いわゆる「きらら系」作品。今回は対象作品のなかから、完結済みで全巻1冊199円で購入できる作品を集めました。\n\nお買い得パソコン評論家。毎日各メーカー・各ショップのWebページを500p以上チェックして、安くてお得なパソコンを探しています。元PC雑誌編集者で、PC系フリーライターでもあるオジサン。文章に関わる仕事を始めてから25年以上。最高195万PV/月",
+      "ImageURL": "https://komameblog.jp/wp-content/uploads/2026/09/Kindle-20260922-kirara.jpg"
+    },
+    {
+      "Title": "iPhone18 Proの在庫情報【9/22】〜公式と家電量販店SIMフリー最新状況",
+      "Link": "https://iphone-mania.jp/iphone18-606480/",
+      "Published": "2026-09-22T09:21:02Z",
+      "Source": "iPhone Mania",
+      "Category": "在庫",
+      "Summary": "iPhone18 Proの在庫情報【9/22】〜公式と家電量販店SIMフリー最新状況\n\niPhone18 Proシリーズの、2026年9月22日午後6時5分時点でのAppleオンラインストア、Amazon、ヨドバシ・ドット・コムとビックカメラ.comにおける最新の在庫情報をお伝えします。\n\niPhone18 Proの在庫情報【9/22】〜公式と家電量販店SIMフリー最新状況\n\niPhone18 Proシリーズ の、2026年9月22日午後6時5分時点での Appleオンラインストア、Amazon、ヨドバシ・ドット・コムとビックカメラ.comにおける最新の在庫情報 をお伝えします。\n\nこちらの記事 で報告した通り、 各キャリアにおける在庫状況は昨日と比べてわずかに変化 しているものの、Appleオンラインストアや家電量販店などの在庫状況は、 現時点では昨日と同じ です。\n\n昨年は iPhone Air の在庫が発売後 短期間で急速に増加 （在庫ありが増加）していましたが、 iPhone18 Proシリーズ ではそうした状況は確認できません。\n\nお届け予定日までの待ち日数が「5週〜6週」などに大幅に伸びてはいないものの、iPhone18 Proは「2週〜3週」、iPhone18 Pro Maxは「3週〜4週」で 安定しています 。\n\niPhone18 Proシリーズの初期受注状況について、 不調という見方 と好調という見方がありますが、どちらかと言えば好調寄りの、 「 生産台数が増えているので納期が長期化していない 」 との指摘が当たっている可能性を感じます。\n\niPhone18 Proシリーズの販売価格は大幅に値上がりしましたが、それに応じて 買取価格も上がっています 。\n\n新品価格と買取価格の差額は、 昨年 よりも若干拡大傾向 です。 新品価格の予算を準備できる ユーザーに…",
+      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/09/22/iphone18-pro-store-0922.jpg"
+    },
+    {
       "Title": "【Amazonタイムセール】Dellの4K/240Hz QD-OLED「AW2725Q」が約3万円引き",
       "Link": "https://www.gdm.or.jp/pressrelease/2026/0922/653368",
       "Published": "2026-09-22T09:12:44Z",
@@ -46,6 +136,15 @@
       "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2026/09/af-top-a.jpg"
     },
     {
+      "Title": "Amazon Music Unlimited、4か月分4,320円が無料！",
+      "Link": "https://www.nichepcgamer.com/archives/post-132442.html",
+      "Published": "2026-09-22T08:41:57Z",
+      "Source": "ニッチなPCゲーマーの環境構築Z",
+      "Category": "雑記",
+      "Summary": "Amazon Music Unlimited、4か月分4,320円が無料！\n\nAmazonにて、1億曲以上が聴ける定額制音楽ストリーミングサービス『Amazon Music Unlimited』の長期無料キャンペーンが開催されています。プライム会員だと4か月分(プライム月額1...\n\nAmazonにて、1億曲以上が聴ける定額制音楽ストリーミングサービス『Amazon Music Unlimited』の 長期無料キャンペーン が開催されています。 プライム会員だと4か月分(プライム月額1,080円x4＝4,320円)、一般会員だと3か月分(一般月額1,180円x3=3,540円)が無料となっています。\n\n無料キャンペーン終了以降は月額が発生しますが、前もってMusic Unlimitedの サブスクリプションをキャンセル しておけば、 月額は一切発生しません。また、キャンセル後も、無料期間終了日までMusic Unlimitedを利用可能です。\n\nこの機会に音楽聴き放題を楽しんでみてはいかがでしょうか。キャンペーン申込期限は 10月20日(火)PM23:59受付分まで のため、以下のリンクよりお早めに！\n\nAmazon.co.jp Amazon Music Unlimited 4か月無料で音楽聴き放題\n\n筆者は自作PC歴20年以上の経験を持ち、Windows OSの細部にわたるカスタマイズや高度な設定、PCゲームの最適化、PCハードウェアとソフトウェアに関する専門知識をもとに、PC環境を快適にするための情報、不具合に遭わないようにするための情報、そして、ちょっとニッチよりなPCユーザー向け記事の執筆を2015年4月から11年にわたって行っています。\n\n長年の経験により得たノウハウを活かし、初心者から上級者まで幅広く対応できる情報を提供し、読者様のPCライフをより快適で充実した…",
+      "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2026/09/amazon-music-unlimited-2026-9a.png"
+    },
+    {
       "Title": "2TB契約者にも「iCloud容量を増やして」。iOS 27の通知バグ、押しても消えない",
       "Link": "https://gori.me/ios/ios-news/170505",
       "Published": "2026-09-22T08:09:01Z",
@@ -55,22 +154,22 @@
       "ImageURL": "https://gori.me/uploads/2026/09/Apple-Account-Storage-bug-800x500.jpg"
     },
     {
-      "Title": "\ufffdֿ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdפ\ufffdƣ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdϺ\ufffd᤬\ufffd꤬\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdTHE FIRST ZOMBIE\ufffdפˤϡ\ufffd\ufffdޤ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdʤ\ufffd\ufffdȤ\ufffd\ufffdޤ\ufffd\ufffdޤʻųݤ\ufffd\ufffdɤ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd˳\ufffdȯ\ufffd\ufffd΢¦\ufffd\ufffdʹ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdTGS2026\ufffd\ufffd",
-      "Link": "https://www.4gamer.net/games/043/G104316/20260920036/",
-      "Published": "2026-09-22T08:00:00Z",
-      "Source": "4Gamer.net Hardware",
-      "Category": "HARDWARE",
-      "Summary": "�ֿ������פ�ƣ������Ϻ�᤬�꤬������THE FIRST ZOMBIE�פˤϡ��ޤ��������ʤ��Ȥ��ޤ��ޤʻųݤ��ɤ��������������˳�ȯ��΢¦��ʹ������TGS2026��\n\nTGS 2026のPhoenixxブースで，「THE FIRST ZOMBIE」Phoenixxの野崎雄大氏にインタビューを実施した。藤井健太郎氏がプロデュースする本作は，ゾンビになった主人公を操作…\n\n「水ダウ」の藤井健太郎氏が手がける「THE FIRST ZOMBIE」には，まだ明かせない“さまざまな仕掛け”が。制作チームに開発の裏側を聞いた［TGS2026］ ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ 東京ゲームショウに来たら“読みもの”を集めよう！ 雑誌にカタログ，新聞風。会場で見つけた＆もらった小冊子を紹介［TGS2026］ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n…",
-      "ImageURL": "https://www.4gamer.net/games/043/G104316/20260920036/SS/002.jpg"
-    },
-    {
-      "Title": "̾\ufffd\ufffdNEOGEO\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdޤǺƸ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdμ\ufffd\ufffdյ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdȤ\ufffd\ufffdơ\ufffd\ufffd\ufffd\ufffdٱ\ufffdHDMI\ufffdʤɸ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdε\ufffdǽ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdNEOGEO AES+\ufffdפΥץ쥼\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdݡ\ufffd\ufffdȡ\ufffdTGS2026\ufffd\ufffd",
+      "Title": "̾��NEOGEO�����������ޤǺƸ��������μ��յ������Ȥ��ơ����ٱ�HDMI�ʤɸ��������ε�ǽ����������NEOGEO AES+�פΥץ쥼�������ݡ��ȡ�TGS2026��",
       "Link": "https://www.4gamer.net/games/999/G999902/20260921067/",
       "Published": "2026-09-22T08:00:00Z",
       "Source": "4Gamer.net Hardware",
       "Category": "HARDWARE",
       "Summary": "̾��NEOGEO�����������ޤǺƸ��������μ��յ������Ȥ��ơ����ٱ�HDMI�ʤɸ��������ε�ǽ����������NEOGEO AES+�פΥץ쥼�������ݡ��ȡ�TGS2026��\n\n名機「NEOGEO」を現代によみがえらせる「NEOGEO AES+」が，「東京ゲームショウ2026」にプレイアブル出展された。会場では開発陣によるプレゼンも行われ，本機の特徴やNEOGEO復活へのこ…\n\n名機NEOGEOを処理落ちまで再現。過去の周辺機器も使えて，低遅延HDMIなど現代向けの機能も備える「NEOGEO AES+」のプレゼンをレポート［TGS2026］ ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ 東京ゲームショウに来たら“読みもの”を集めよう！ 雑誌にカタログ，新聞風。会場で見つけた＆もらった小冊子を紹介［TGS2026］ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像…",
       "ImageURL": "https://www.4gamer.net/games/999/G999902/20260921067/SS/005.jpg"
+    },
+    {
+      "Title": "�ֿ������פ�ƣ������Ϻ�᤬�꤬������THE FIRST ZOMBIE�פˤϡ��ޤ��������ʤ��Ȥ��ޤ��ޤʻųݤ��ɤ��������������˳�ȯ��΢¦��ʹ������TGS2026��",
+      "Link": "https://www.4gamer.net/games/043/G104316/20260920036/",
+      "Published": "2026-09-22T08:00:00Z",
+      "Source": "4Gamer.net Hardware",
+      "Category": "HARDWARE",
+      "Summary": "�ֿ������פ�ƣ������Ϻ�᤬�꤬������THE FIRST ZOMBIE�פˤϡ��ޤ��������ʤ��Ȥ��ޤ��ޤʻųݤ��ɤ��������������˳�ȯ��΢¦��ʹ������TGS2026��\n\nTGS 2026のPhoenixxブースで，「THE FIRST ZOMBIE」Phoenixxの野崎雄大氏にインタビューを実施した。藤井健太郎氏がプロデュースする本作は，ゾンビになった主人公を操作…\n\n「水ダウ」の藤井健太郎氏が手がける「THE FIRST ZOMBIE」には，まだ明かせない“さまざまな仕掛け”が。制作チームに開発の裏側を聞いた［TGS2026］ ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ 東京ゲームショウに来たら“読みもの”を集めよう！ 雑誌にカタログ，新聞風。会場で見つけた＆もらった小冊子を紹介［TGS2026］ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n…",
+      "ImageURL": "https://www.4gamer.net/games/043/G104316/20260920036/SS/002.jpg"
     },
     {
       "Title": "11インチiPad Pro、台数限定でかなり安い。AppleCare+込みで11万円引き",
@@ -730,15 +829,6 @@
       "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2026/07/msi-top.jpg"
     },
     {
-      "Title": "Core i5-10210Uを搭載したHP製15.6型ノートPCが10%オフで25,740円、Qualitの中古Cランク品セール",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2141897.html",
-      "Published": "2026-09-21T03:00:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "Core i5-10210Uを搭載したHP製15.6型ノートPCが10%オフで25,740円、Qualitの中古Cランク品セール\n\nCore i5-10210U(4コア/8スレッド)を搭載したHP製15.6型ノートPC「ProBook 450 G7」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で期間限定セール中。\n\nCore i5-10210Uを搭載したHP製15.6型ノートPCが10%オフで25,740円、Qualitの中古Cランク品セール\n\nCore i5-10210U(4コア/8スレッド)を搭載したHP製15.6型ノートPC「ProBook 450 G7」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で期間限定セール中 。\n\n今回販売されているのは、「傷や使用感が見られる」(同店)というCランク中古品で、販売価格は25,740円。保証期間は12か月で、「バッテリーテストを実施したところ、80%以上の結果を出したモデル」とのこと。\n\n主な仕様は、ディスプレイ解像度が1,366×768ドット、メモリが8GB(空きスロット×1)、ストレージが500GB SATA HDD、OSがWindows 11 Pro。インターフェイスには、HDMIやUSB 3.1 Type-C、SDカードスロットなどを備えるほか、Webカメラや無線LAN機能、指紋認証機能を搭載しています。\n\nセール期間は9月30日までとなっています。興味がある方はチェックしてみてください。",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2141/897/a1.jpg"
-    },
-    {
       "Title": "GIGABYTE�Υ����ߥ󥰥֥����ɡ�AORUS�ץ֡����ǡ��ǿ��ΥΡ���PC��ͭ��EL�ǥ����ץ쥤���Ȥäƥ��������θ���TGS2026�ϡ�PR��",
       "Link": "https://www.4gamer.net/games/259/G025981/20260919012/",
       "Published": "2026-09-21T03:00:00Z",
@@ -746,6 +836,15 @@
       "Category": "HARDWARE",
       "Summary": "GIGABYTE�Υ����ߥ󥰥֥����ɡ�AORUS�ץ֡����ǡ��ǿ��ΥΡ���PC��ͭ��EL�ǥ����ץ쥤���Ȥäƥ��������θ���TGS2026�ϡ�PR��\n\nゲーミングPCから各種PCパーツまで，多彩な製品を展開しているGIGABYTEが，TGS2026にゲーマー向け製品ブランド「AORUS」のブースを出展していた。AORUSブースから，見どころの多い最…\n\nGIGABYTEのゲーミングブランド「AORUS」ブースで，最新のノートPCや有機ELディスプレイを使ってゲームを体験［TGS2026］【PR】 ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ 東京ゲームショウに来たら“読みもの”を集めよう！ 雑誌にカタログ，新聞風。会場で見つけた＆もらった小冊子を紹介［TGS2026］ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 10年前の4Gamer人気記事を…",
       "ImageURL": "https://www.4gamer.net/games/259/G025981/20260919012/SS/037.jpg"
+    },
+    {
+      "Title": "Core i5-10210Uを搭載したHP製15.6型ノートPCが10%オフで25,740円、Qualitの中古Cランク品セール",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2141897.html",
+      "Published": "2026-09-21T03:00:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "Core i5-10210Uを搭載したHP製15.6型ノートPCが10%オフで25,740円、Qualitの中古Cランク品セール\n\nCore i5-10210U(4コア/8スレッド)を搭載したHP製15.6型ノートPC「ProBook 450 G7」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で期間限定セール中。\n\nCore i5-10210Uを搭載したHP製15.6型ノートPCが10%オフで25,740円、Qualitの中古Cランク品セール\n\nCore i5-10210U(4コア/8スレッド)を搭載したHP製15.6型ノートPC「ProBook 450 G7」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で期間限定セール中 。\n\n今回販売されているのは、「傷や使用感が見られる」(同店)というCランク中古品で、販売価格は25,740円。保証期間は12か月で、「バッテリーテストを実施したところ、80%以上の結果を出したモデル」とのこと。\n\n主な仕様は、ディスプレイ解像度が1,366×768ドット、メモリが8GB(空きスロット×1)、ストレージが500GB SATA HDD、OSがWindows 11 Pro。インターフェイスには、HDMIやUSB 3.1 Type-C、SDカードスロットなどを備えるほか、Webカメラや無線LAN機能、指紋認証機能を搭載しています。\n\nセール期間は9月30日までとなっています。興味がある方はチェックしてみてください。",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2141/897/a1.jpg"
     },
     {
       "Title": "�����Υ饤���󥹤������ʤ�27�ФΥܥ��ɤ�IO Interactive�Ϥɤ��������Τ�����007 �ե������ȡ��饤�ȡ׳�ȯ�ԥ��󥿥ӥ塼��TGS2026��",
@@ -1909,15 +2008,6 @@
       "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2142/057/a1.jpg"
     },
     {
-      "Title": "【TGS】Enterキーにピカチュウの後ろ姿！REALFORCE特別モデルが可愛すぎる ～ホロライブコラボ新2機種も発表でクリアファイル配布中[Sponsored]",
-      "Link": "https://pc.watch.impress.co.jp/docs/topic/special/2142097.html",
-      "Published": "2026-09-18T21:30:00Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "【TGS】Enterキーにピカチュウの後ろ姿！REALFORCE特別モデルが可愛すぎる ～ホロライブコラボ新2機種も発表でクリアファイル配布中[Sponsored]\n\n9月17日から21日まで幕張メッセで開催中の東京ゲームショウ2026にて、東プレのゲーミングキーボード「REALFORCE GX1 Plus Keyboard Pikachu Edition(ピカチュウエディション)」が発表された。\n\n【TGS】Enterキーにピカチュウの後ろ姿！REALFORCE特別モデルが可愛すぎる\n\n9月17日から21日まで幕張メッセで開催中の東京ゲームショウ2026にて、東プレのゲーミングキーボード「REALFORCE GX1 Plus Keyboard Pikachu Edition(ピカチュウエディション)」が発表された。\n\nゲームやアニメで人気の「ポケットモンスター」から、ポケモン「ピカチュウ」をモチーフにした製品。こちらの発表を記念したトークショウが17日に開催されたので、その模様をお伝えする。\n\nまたVTuberグループのホロライブのコラボモデルとして、博衣こより、音乃瀬奏の2機種も発表されたので、合わせてお伝えしたい。詳細は後述するが、同ブースでは、先着順で2人の描き下ろしの立ち絵が描かれたクリアファイルがプレゼントされる。\n\n「REALFORCE GX1 Plus Keyboard Pikachu Edition」\n\nREALFORCEブースでは17日にトークショウが開かれ、モデルの小國舞羽さんが登壇。小國さんは、小さい頃から兄妹でゲームをプレイしていたそうで、この日はクレーンゲームで取ったという「ポッチャマ」と「メタモン」のキーホルダーを首に下げて登場した。\n\nイベントの司会進行を務めた「REALFORCE」ユーザーのキャスター篠原光氏は、「REALFORCE GX1…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2142/097/01.jpg"
-    },
-    {
       "Title": "ベンキューのゲーミングモニターが東京ゲームショウで異彩を放つ理由 ～実売10万円前後の240Hz有機EL「EX271QMZ」の没入感に迫る[Sponsored]",
       "Link": "https://pc.watch.impress.co.jp/docs/topic/special/2142082.html",
       "Published": "2026-09-18T21:30:00Z",
@@ -1925,6 +2015,15 @@
       "Category": "",
       "Summary": "ベンキューのゲーミングモニターが東京ゲームショウで異彩を放つ理由 ～実売10万円前後の240Hz有機EL「EX271QMZ」の没入感に迫る[Sponsored]\n\n東京ゲームショウ2026で多数展示されているゲーミングモニターの中でもベンキュージャパンの製品そして展示が異彩を放っている。\n\nベンキューのゲーミングモニターが東京ゲームショウで異彩を放つ理由\n\n～実売10万円前後の240Hz有機EL「EX271QMZ」の没入感に迫る\n\n東京ゲームショウ2026で多数展示されているゲーミングモニターの中でもベンキュージャパンの製品そして展示が異彩を放っている。\n\n同社は「ENTER ANY WORLD」をコンセプトとしたMOBIUZブースを出展。同社はブースで、ゲームを「芸術作品」と捉え、3つの独自カラーモードや新機能「Game Art Color HDR」で、その映像美を引き出している。\n\nプロダクトマネージャーの高見祐介氏(以下、敬称略)に、ブースの狙いとイチ押しモデル「 EX271QMZ 」の魅力について聞いてみた。\n\nゲームを「芸術作品」と捉え、美術館風ブースで映像美を引き出す\n\n――ベンキューは今回のTGSの出展ブースで、来場者にどのようなメッセージを伝えたいと考えているのでしょうか？\n\n高見: 今回の我々のブースコンセプトは「ENTER ANY WORLD」です。「ANY WORLD」というのは、さまざまなゲームタイトルがある中で、「MOBIUZ」ブランドのディスプレイを通してその世界にエンターして、没入していくというテーマで、今回のブースを展開しています。\n\nブースのデザインは、美術館をイメージして作られています。というのも、ベンキューのMOBIUZは、どちらかというとFPSなどの競技性を重視したものよりも、RPGなどの映像美にこだわったゲームタイトル向けのモニター…",
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2142/082/ph01.jpg"
+    },
+    {
+      "Title": "【TGS】Enterキーにピカチュウの後ろ姿！REALFORCE特別モデルが可愛すぎる ～ホロライブコラボ新2機種も発表でクリアファイル配布中[Sponsored]",
+      "Link": "https://pc.watch.impress.co.jp/docs/topic/special/2142097.html",
+      "Published": "2026-09-18T21:30:00Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "【TGS】Enterキーにピカチュウの後ろ姿！REALFORCE特別モデルが可愛すぎる ～ホロライブコラボ新2機種も発表でクリアファイル配布中[Sponsored]\n\n9月17日から21日まで幕張メッセで開催中の東京ゲームショウ2026にて、東プレのゲーミングキーボード「REALFORCE GX1 Plus Keyboard Pikachu Edition(ピカチュウエディション)」が発表された。\n\n【TGS】Enterキーにピカチュウの後ろ姿！REALFORCE特別モデルが可愛すぎる\n\n9月17日から21日まで幕張メッセで開催中の東京ゲームショウ2026にて、東プレのゲーミングキーボード「REALFORCE GX1 Plus Keyboard Pikachu Edition(ピカチュウエディション)」が発表された。\n\nゲームやアニメで人気の「ポケットモンスター」から、ポケモン「ピカチュウ」をモチーフにした製品。こちらの発表を記念したトークショウが17日に開催されたので、その模様をお伝えする。\n\nまたVTuberグループのホロライブのコラボモデルとして、博衣こより、音乃瀬奏の2機種も発表されたので、合わせてお伝えしたい。詳細は後述するが、同ブースでは、先着順で2人の描き下ろしの立ち絵が描かれたクリアファイルがプレゼントされる。\n\n「REALFORCE GX1 Plus Keyboard Pikachu Edition」\n\nREALFORCEブースでは17日にトークショウが開かれ、モデルの小國舞羽さんが登壇。小國さんは、小さい頃から兄妹でゲームをプレイしていたそうで、この日はクレーンゲームで取ったという「ポッチャマ」と「メタモン」のキーホルダーを首に下げて登場した。\n\nイベントの司会進行を務めた「REALFORCE」ユーザーのキャスター篠原光氏は、「REALFORCE GX1…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2142/097/01.jpg"
     },
     {
       "Title": "【今すぐ読みたい！人気記事】約30年でGPUはどのぐらい速くなったの？歴史を振り返りつつぜ～んぶ計算してみた - PC Watch",
@@ -2035,15 +2134,6 @@
       "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2026/08/microsoft-defender-1200.jpg"
     },
     {
-      "Title": "A20 ProはA19 Proと同サイズ〜GPU増加分に2nm効果か",
-      "Link": "https://iphone-mania.jp/iphone18-606151/",
-      "Published": "2026-09-18T15:05:00Z",
-      "Source": "iPhone Mania",
-      "Category": "iPhone18 Pro",
-      "Summary": "A20 ProはA19 Proと同サイズ〜GPU増加分に2nm効果か\n\niPhone18 Proシリーズに搭載されているA20 Proのダイ写真を、Kurnal氏（＠Kurnalsalts）がX（旧Twitter）に投稿しました。\n\nA20 ProはA19 Proと同サイズ〜GPU増加分に2nm効果か\n\niPhone18 Proシリーズに搭載されているA20 Proのダイ写真を、Kurnal氏（＠Kurnalsalts）がX（旧Twitter）に投稿しました。\n\n同氏はA20 Proのダイ面積も報告しており、A17 Pro、A18 Pro、A19 Proと比較しました。\n\nA20 ProはTSMCの2nmプロセスへ微細化され、GPUコア数が増加したにもかかわらず、ダイ面積はA19 Proとほぼ同じです。\n\n報告されたA20 Proのダイサイズを、 A17 Pro 、 A18 Pro 、 A19 Pro と比較すると、次のようになります。\n\nA20 Proのダイ面積はA19 Proとほぼ同じ で、 差は約0.1％ にとどまります。一方、 A18 Proと比べると約10％ 、 A17 Proと比べると約13.3％小さく なっています。\n\nA17 ProはTSMCのN3B、A18 ProはN3E、A19 ProはN3Pで製造されており、同じ3nm世代でも製造プロセスの改良が重ねられてきました。\n\nその点で、 2nmプロセス「N2」に移行したA20 Pro ではA19 Proよりさらに ダイ面積が小さくなることも予想されましたが、実際にはほぼ同じ 大きさとなっています。\n\nただし、A19 ProのGPUコア数が6コアだったのに対し、 A20 Proは7コアへ増加 しています。\n\nTSMCの2nmプロセスはウェハ単価が高額と噂されていますが、Appleはダイ面積をさらに縮小するよりも…",
-      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/09/18/A20-Pro-die-shot_3.jpg"
-    },
-    {
       "Title": "Thermaltakeの曲面強化ガラス採用ケース「Arcus 190 TG ARGB」「Arcus 290 TG ARGB」が登場",
       "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2142007.html",
       "Published": "2026-09-18T15:05:00Z",
@@ -2051,6 +2141,15 @@
       "Category": "",
       "Summary": "Thermaltakeの曲面強化ガラス採用ケース「Arcus 190 TG ARGB」「Arcus 290 TG ARGB」が登場\n\n曲面強化ガラスパネルを採用したThermaltakeのピラーレスPCケース「Arcus 190 TG ARGB Black」と「Arcus 290 TG ARGB Black」が登場した。前者はmicroATX対応のミニタワー、後者はATX対応のミドルタワーモデル。\n\nThermaltakeの曲面強化ガラス採用ケース「Arcus 190 TG ARGB」「Arcus 290 TG ARGB」が登場\n\n曲面強化ガラスパネルを採用したThermaltakeのピラーレスPCケース「Arcus 190 TG ARGB Black」と「Arcus 290 TG ARGB Black」が登場した。前者はmicroATX対応のミニタワー、後者はATX対応のミドルタワーモデル。\n\nAmazon.co.jpの価格は順に16,142円、18,162円。\n\nインフィニティミラー内蔵ARGBファンを3基搭載したピラーレスPCケース\n\nこれらは、フロントから左サイドにかけて1枚の曲面強化ガラスパネルを搭載したピラーレスデザインのPCケース。\n\n両モデルともに、右側面に120mmアドレサブルRGBリバースファン×2、背面に120mmアドレサブルRGBファン×1を標準搭載。各ファンの軸部分とフレームサイドにインフィニティミラーを備え、電源カバー部のスリットにもアドレサブルRGB LEDを内蔵している。\n\n搭載可能なファン数は共通で、上面が120mm×3または140mm×2、右側面が120mm×2、背面が120/140mm×1、電源カバー部が120mm×3。水冷ラジエーターは、上面に120mm/140mm/240mm/280mm/360mmサイズを搭載でき、右側面はArcu…",
       "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2142/007/aaa.jpg"
+    },
+    {
+      "Title": "A20 ProはA19 Proと同サイズ〜GPU増加分に2nm効果か",
+      "Link": "https://iphone-mania.jp/iphone18-606151/",
+      "Published": "2026-09-18T15:05:00Z",
+      "Source": "iPhone Mania",
+      "Category": "iPhone18 Pro",
+      "Summary": "A20 ProはA19 Proと同サイズ〜GPU増加分に2nm効果か\n\niPhone18 Proシリーズに搭載されているA20 Proのダイ写真を、Kurnal氏（＠Kurnalsalts）がX（旧Twitter）に投稿しました。\n\nA20 ProはA19 Proと同サイズ〜GPU増加分に2nm効果か\n\niPhone18 Proシリーズに搭載されているA20 Proのダイ写真を、Kurnal氏（＠Kurnalsalts）がX（旧Twitter）に投稿しました。\n\n同氏はA20 Proのダイ面積も報告しており、A17 Pro、A18 Pro、A19 Proと比較しました。\n\nA20 ProはTSMCの2nmプロセスへ微細化され、GPUコア数が増加したにもかかわらず、ダイ面積はA19 Proとほぼ同じです。\n\n報告されたA20 Proのダイサイズを、 A17 Pro 、 A18 Pro 、 A19 Pro と比較すると、次のようになります。\n\nA20 Proのダイ面積はA19 Proとほぼ同じ で、 差は約0.1％ にとどまります。一方、 A18 Proと比べると約10％ 、 A17 Proと比べると約13.3％小さく なっています。\n\nA17 ProはTSMCのN3B、A18 ProはN3E、A19 ProはN3Pで製造されており、同じ3nm世代でも製造プロセスの改良が重ねられてきました。\n\nその点で、 2nmプロセス「N2」に移行したA20 Pro ではA19 Proよりさらに ダイ面積が小さくなることも予想されましたが、実際にはほぼ同じ 大きさとなっています。\n\nただし、A19 ProのGPUコア数が6コアだったのに対し、 A20 Proは7コアへ増加 しています。\n\nTSMCの2nmプロセスはウェハ単価が高額と噂されていますが、Appleはダイ面積をさらに縮小するよりも…",
+      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/09/18/A20-Pro-die-shot_3.jpg"
     },
     {
       "Title": "Intel Arcグラフィックスドライバ 32.0.101.9030 非WHQL公開",
@@ -2089,15 +2188,6 @@
       "ImageURL": "https://www.4gamer.net/games/968/G096894/20260918098/SS/011.jpg"
     },
     {
-      "Title": "�֥ɥ饴�󥺥ɥ��� 2�����������ꥺ���ץ��󥿥ӥ塼�����餫��ư���Switch2�Ǥ���̩���ֿ������줿��ʪ�פʤɡ����ˤʤ��Ȥ�����ʹ������TGS2026��",
-      "Link": "https://www.4gamer.net/games/015/G101559/20260918090/",
-      "Published": "2026-09-18T15:00:00Z",
-      "Source": "4Gamer.net Hardware",
-      "Category": "HARDWARE",
-      "Summary": "�֥ɥ饴�󥺥ɥ��� 2�����������ꥺ���ץ��󥿥ӥ塼�����餫��ư���Switch2�Ǥ���̩���ֿ������줿��ʪ�פʤɡ����ˤʤ��Ȥ�����ʹ������TGS2026��\n\n2026年9月21日まで開催中の「東京ゲームショウ2026」で「ドラゴンズドグマ 2：ダークアリズン」が出展されている。会場では大山直人Pと木下研人Dへのインタビューが行われ，Switch2版での動…\n\n「ドラゴンズドグマ 2：ダークアリズン」インタビュー。滑らかに動作するSwitch2版の秘密や「侵食された魔物」など，気になるところを聞いた［TGS2026］ ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイ…",
-      "ImageURL": "https://www.4gamer.net/games/015/G101559/20260918090/SS/004.jpg"
-    },
-    {
       "Title": "�֥��󥹥����ϥ󥿡��磻�륺�����������󥹡פǥ֡����ȥ֥쥤�������ܻؤ��֥����󥹤���ʬ�Ǻ����Ф��״��С������ƥƥ��򺣽Ф���ͳ��TGS2026��",
       "Link": "https://www.4gamer.net/games/013/G101399/20260918089/",
       "Published": "2026-09-18T15:00:00Z",
@@ -2105,6 +2195,15 @@
       "Category": "HARDWARE",
       "Summary": "�֥��󥹥����ϥ󥿡��磻�륺�����������󥹡פǥ֡����ȥ֥쥤�������ܻؤ��֥����󥹤���ʬ�Ǻ����Ф��״��С������ƥƥ��򺣽Ф���ͳ��TGS2026��\n\nTGS 2026の会場で，「モンスターハンターワイルズ：アセンダンス」開発者への合同インタビューを実施した。新要素「ブーストブレイサー」の設計思想や，テオ・テスカトルを今出す理由などを聞いた。\n\n「モンスターハンターワイルズ：アセンダンス」でブーストブレイサーが目指す「チャンスを自分で作り出す」感覚，そしてテオを今出す理由［TGS2026］ ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 夏は七不思議ならぬ…",
       "ImageURL": "https://www.4gamer.net/games/013/G101399/20260918089/SS/007.jpg"
+    },
+    {
+      "Title": "�֥ɥ饴�󥺥ɥ��� 2�����������ꥺ���ץ��󥿥ӥ塼�����餫��ư���Switch2�Ǥ���̩���ֿ������줿��ʪ�פʤɡ����ˤʤ��Ȥ�����ʹ������TGS2026��",
+      "Link": "https://www.4gamer.net/games/015/G101559/20260918090/",
+      "Published": "2026-09-18T15:00:00Z",
+      "Source": "4Gamer.net Hardware",
+      "Category": "HARDWARE",
+      "Summary": "�֥ɥ饴�󥺥ɥ��� 2�����������ꥺ���ץ��󥿥ӥ塼�����餫��ư���Switch2�Ǥ���̩���ֿ������줿��ʪ�פʤɡ����ˤʤ��Ȥ�����ʹ������TGS2026��\n\n2026年9月21日まで開催中の「東京ゲームショウ2026」で「ドラゴンズドグマ 2：ダークアリズン」が出展されている。会場では大山直人Pと木下研人Dへのインタビューが行われ，Switch2版での動…\n\n「ドラゴンズドグマ 2：ダークアリズン」インタビュー。滑らかに動作するSwitch2版の秘密や「侵食された魔物」など，気になるところを聞いた［TGS2026］ ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイ…",
+      "ImageURL": "https://www.4gamer.net/games/015/G101559/20260918090/SS/004.jpg"
     },
     {
       "Title": "MMO/FPS向けゲーミングキーパッド「Razer Tartarus V2 Pro」が登場、光学式アナログスイッチを搭載",
@@ -2926,15 +3025,6 @@
       "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2026/09/kindle-sale-202609-50-new-c.png"
     },
     {
-      "Title": "Sudokooのサイドフロー型クーラー「SK700」が発売、カラーは2色",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2141837.html",
-      "Published": "2026-09-17T15:00:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "Sudokooのサイドフロー型クーラー「SK700」が発売、カラーは2色\n\nSudokooのサイドフロー型CPUクーラー「SK700」シリーズが登場。ラインアップはブラックモデルの「SK700-BK」と、ホワイトモデルの「SK700-WH」2モデル。\n\nSudokooのサイドフロー型クーラー「SK700」が発売、カラーは2色\n\nSudokooのサイドフロー型CPUクーラー「SK700」シリーズが登場。ラインアップはブラックモデルの「SK700-BK」と、ホワイトモデルの「SK700-WH」2モデル。\n\n店頭価格は11,880円。販売店の ツクモパソコン本店 と TSUKUMO eX. には実機サンプルが用意されている。\n\nこのほか、SK700シリーズ向けのマウンティングブラケットキット「SK700-MBK」も入荷している。こちらの価格は1,080円。\n\n設置方向による影響を受けにくいヒートパイプ設計を採用したサイドフロー型CPUクーラー\n\nSK700は、6mm径のヒートパイプ7本を備えたサイドフロー型CPUクーラー。平置き、縦置き等、設置方向による影響を受けにくい「アンチグラビティ・ヒートパイプ」により常に最高の冷却パフォーマンスを発揮するという。\n\nヒートシンクには傾斜したオフセットデザインを採用し、メモリスロットとの干渉を抑える設計となっている。高さのあるヒートスプレッダを備えたメモリとの互換性や、RGBライティングの視認性向上も図っている。\n\nファンの主な仕様は、回転数が500～2,200rpm±10%、風量が66.29CFM、静圧が3.74mmAq、ノイズレベルが32.5dB(A)以下。サイズは120×120×25mm。\n\n対応CPUソケットはAMD Socket AM5。別売マウンティングキット「SK700-MBK」を用いてIntel LGA115X/1200/1…",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2141/837/a1.jpg"
-    },
-    {
       "Title": "�֥��쥤������������������ɥĥ��������ܳ����ʡ��˥��󥿥ӥ塼���������ΥΥ��ɤ򺣤ɤ��Ϥ����Τ�������ĩ������ȯ�ؤ�ʹ����TGS2026��",
       "Link": "https://www.4gamer.net/games/014/G101452/20260915002/",
       "Published": "2026-09-17T15:00:00Z",
@@ -2942,6 +3032,15 @@
       "Category": "HARDWARE",
       "Summary": "�֥��쥤������������������ɥĥ��������ܳ����ʡ��˥��󥿥ӥ塼���������ΥΥ��ɤ򺣤ɤ��Ϥ����Τ�������ĩ������ȯ�ؤ�ʹ����TGS2026��\n\nTGS2026に日本ステージが試遊出展されている「クレイジータクシー：ワールドツアー」。ディレクターの百渓 曜氏と，シリーズの生みの親でありクリエイティブプロデューサーの菅野顕二氏に，新作誕生の経緯…\n\n「クレイジータクシー：ワールドツアー」日本凱旋（？）インタビュー。“当時のノリ”を今どう届けるのか，その挑戦を開発陣に聞く［TGS2026］ ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 夏は七…",
       "ImageURL": "https://www.4gamer.net/games/014/G101452/20260915002/SS/001.jpg"
+    },
+    {
+      "Title": "Sudokooのサイドフロー型クーラー「SK700」が発売、カラーは2色",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2141837.html",
+      "Published": "2026-09-17T15:00:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "Sudokooのサイドフロー型クーラー「SK700」が発売、カラーは2色\n\nSudokooのサイドフロー型CPUクーラー「SK700」シリーズが登場。ラインアップはブラックモデルの「SK700-BK」と、ホワイトモデルの「SK700-WH」2モデル。\n\nSudokooのサイドフロー型クーラー「SK700」が発売、カラーは2色\n\nSudokooのサイドフロー型CPUクーラー「SK700」シリーズが登場。ラインアップはブラックモデルの「SK700-BK」と、ホワイトモデルの「SK700-WH」2モデル。\n\n店頭価格は11,880円。販売店の ツクモパソコン本店 と TSUKUMO eX. には実機サンプルが用意されている。\n\nこのほか、SK700シリーズ向けのマウンティングブラケットキット「SK700-MBK」も入荷している。こちらの価格は1,080円。\n\n設置方向による影響を受けにくいヒートパイプ設計を採用したサイドフロー型CPUクーラー\n\nSK700は、6mm径のヒートパイプ7本を備えたサイドフロー型CPUクーラー。平置き、縦置き等、設置方向による影響を受けにくい「アンチグラビティ・ヒートパイプ」により常に最高の冷却パフォーマンスを発揮するという。\n\nヒートシンクには傾斜したオフセットデザインを採用し、メモリスロットとの干渉を抑える設計となっている。高さのあるヒートスプレッダを備えたメモリとの互換性や、RGBライティングの視認性向上も図っている。\n\nファンの主な仕様は、回転数が500～2,200rpm±10%、風量が66.29CFM、静圧が3.74mmAq、ノイズレベルが32.5dB(A)以下。サイズは120×120×25mm。\n\n対応CPUソケットはAMD Socket AM5。別売マウンティングキット「SK700-MBK」を用いてIntel LGA115X/1200/1…",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2141/837/a1.jpg"
     },
     {
       "Title": "積荷目録でASRockのZ990マザーボードの型番が確認される",
@@ -3304,15 +3403,6 @@
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2141/688/1.jpg"
     },
     {
-      "Title": "6��������ĩ���ܳʥ��󥸥���RPG�߶����Ҥ����Ȥ�嫡���������A���󥯥ѡ��ƥ���Υæ�������ϡ��������Ҥ������µܿ������ܻؤ����׳�ȯ�ԥ��󥿥ӥ塼��PR��",
-      "Link": "https://www.4gamer.net/games/994/G099460/20260907022/",
-      "Published": "2026-09-17T03:00:00Z",
-      "Source": "4Gamer.net Hardware",
-      "Category": "HARDWARE",
-      "Summary": "6��������ĩ���ܳʥ��󥸥���RPG�߶����Ҥ����Ȥ�嫡���������A���󥯥ѡ��ƥ���Υæ�������ϡ��������Ҥ������µܿ������ܻؤ����׳�ȯ�ԥ��󥿥ӥ塼��PR��\n\nTVアニメも好評を博した人気作「Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。」のゲーム化が進行中だ。6人パーティで挑むダンジョン探索や，スロウモードを交えた戦略的なリアルタイムバ…\n\n6人編成で挑む本格ダンジョンRPG×教え子たちとの絆。ゲーム「Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。」開発者インタビュー【PR】 ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑…",
-      "ImageURL": "https://www.4gamer.net/games/994/G099460/20260907022/SS/001.jpg"
-    },
-    {
       "Title": "���ᥢ���������ֵ����� Way of the Sword�פ���Ŭư�Lenovo�ΥΡ���PC��Legion Pro 5 Gen 10�פ����⤷�������ޡ�����������PR��",
       "Link": "https://www.4gamer.net/games/329/G032948/20260902011/",
       "Published": "2026-09-17T03:00:00Z",
@@ -3329,6 +3419,15 @@
       "Category": "",
       "Summary": "Core i5-1135G7搭載の「Surface Pro 7+」が10%オフで57,420円、Qualitの中古Cランク品が期間限定セール\n\nCore i5-1135G7(4コア/8スレッド)を搭載したMicrosoft製12.3型タブレットPC「Surface Pro 7+」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で期間限定セール中。\n\nCore i5-1135G7搭載の「Surface Pro 7+」が10%オフで57,420円、Qualitの中古Cランク品が期間限定セール\n\nCore i5-1135G7(4コア/8スレッド)を搭載したMicrosoft製12.3型タブレットPC「Surface Pro 7+」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で期間限定セール中 。\n\n今回販売されているのは、「傷や使用感が見られる」(同店)というCランク中古品で、販売価格は57,420円。保証期間は12か月で、「バッテリーテストを実施したところ、80%以上の結果を出したモデル」とのこと。\n\n主な仕様は、ディスプレイ解像度が2,736×1,824ドット、メモリが8GB(増設不可)、ストレージが256GB SSD、OSがWindows 11 Pro。インターフェイスには、USB Type-CやmicroSDカードスロットなどを備えるほか、Webカメラや無線LAN機能などを搭載しています。\n\nセール期間は9月30日までとなっています。興味がある方はチェックしてみてください。",
       "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2141/556/a1.jpg"
+    },
+    {
+      "Title": "6��������ĩ���ܳʥ��󥸥���RPG�߶����Ҥ����Ȥ�嫡���������A���󥯥ѡ��ƥ���Υæ�������ϡ��������Ҥ������µܿ������ܻؤ����׳�ȯ�ԥ��󥿥ӥ塼��PR��",
+      "Link": "https://www.4gamer.net/games/994/G099460/20260907022/",
+      "Published": "2026-09-17T03:00:00Z",
+      "Source": "4Gamer.net Hardware",
+      "Category": "HARDWARE",
+      "Summary": "6��������ĩ���ܳʥ��󥸥���RPG�߶����Ҥ����Ȥ�嫡���������A���󥯥ѡ��ƥ���Υæ�������ϡ��������Ҥ������µܿ������ܻؤ����׳�ȯ�ԥ��󥿥ӥ塼��PR��\n\nTVアニメも好評を博した人気作「Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。」のゲーム化が進行中だ。6人パーティで挑むダンジョン探索や，スロウモードを交えた戦略的なリアルタイムバ…\n\n6人編成で挑む本格ダンジョンRPG×教え子たちとの絆。ゲーム「Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。」開発者インタビュー【PR】 ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑…",
+      "ImageURL": "https://www.4gamer.net/games/994/G099460/20260907022/SS/001.jpg"
     },
     {
       "Title": "横折りスマホが20万円切り！motorola razr fold、MNP一括19万9800円",
@@ -4400,108 +4499,144 @@
       "Category": "",
       "Summary": "【西川和久の不定期コラム】PC高いなら長く使え！バッテリもSSDも自分で換えられる「LAVIE N16」\n\nNEC PCは2026年8月25日、個人向けノートPCと一体型PC、2026年夏のラインナップを発表した。今回はその中から16型ノートPC「LAVIE N16」の中位モデルが編集部から送られてきたので試用レポートをお届けしたい。\n\nPC高いなら長く使え！バッテリもSSDも自分で換えられる「LAVIE N16」\n\nNEC PCは2026年8月25日、個人向けノートPCと一体型PC、2026年夏のラインナップを発表した。今回はその中から16型ノートPC「LAVIE N16」の中位モデルが編集部から送られてきたので試用レポートをお届けしたい。\n\nここのところPCレビュー系の記事では毎回のように円安とメモリ高騰のダブルパンチでメモリやSSD、GPUはもちろん、PC本体の価格が過激に値上がりしている話を書いている。執筆時点で下手すれば去年(2025年)同スペックのものに対してざっくり倍だ。\n\nPCが高いので、長く使えることを目指したノート「LAVIE N16」\n\n今回NEC PCが発表したモデルは、このことを踏まえ、購入後、長く使えるように、保守性を高め、バッテリやメモリ、SSDの交換/増設をしやすくしているのが特徴の1つとなっている。\n\n手元に届いたのは16型ノートPCの「N1665/MA」。Ryzen AI 5 430/16GB/256GB……と、このモデル中では中位に相当する。主な仕様は以下の通り。\n\nプロセッサはRyzen AI 5 430。4コア/8スレッド、最大4.5 GHz。キャッシュ 12MBで最大50TOPSのNPUを内包する。SKUがRyzen AI5なのでRyzen AIシリーズの中ではミドルレンジ相当だ。\n\nメモリはSO-DIMM 16GB×1。2スロッ…",
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2141/174/H00.jpg"
-    },
-    {
-      "Title": "【プレゼントコーナー】PC Watch創刊30周年特別プレゼント企画【インテル製デスクトップCPU「Core Ultra 7 270K Plus」】 - PC Watch",
-      "Link": "https://pc.watch.impress.co.jp/docs/topic/present/2141170.html",
-      "Published": "2026-09-15T21:00:00Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "【プレゼントコーナー】PC Watch創刊30周年特別プレゼント企画【インテル製デスクトップCPU「Core Ultra 7 270K Plus」】 - PC Watch\n\nおかげさまでPC Watchは創刊から30周年を迎えることができました。これもひとえに読者の皆様、ならびにメーカー各社様からのご支援の賜物です。\n\nPC Watch創刊30周年特別プレゼント企画【インテル製デスクトップCPU「Core Ultra 7 270K Plus」】\n\nおかげさまでPC Watchは創刊から30周年を迎えることができました。これもひとえに読者の皆様、ならびにメーカー各社様からのご支援の賜物です。\n\nPC Watch創刊30周年を記念し、インテル様よりデスクトップCPU「Core Ultra 7 270K Plus」を1台ご提供いただきました。ふるってご応募ください。\n\nIntel Core Ultra 7 270K Plusは、Intel Core Ultra 200Sシリーズをベースに性能と機能を強化したデスクトップ向けプロセッサーです。24コア(8Pコア+16Eコア)構成を採用し、ゲームプレイやコンテンツ制作などの高負荷ワークロードにおいて優れたパフォーマンスを提供します。\n\nまた、新たな最適化技術「Intel Binary Optimization Tool」やDDR5-7200メモリー対応により、システム全体の応答性と処理性能を向上。既存のLGA1851プラットフォームとの互換性を維持しながら、より高いパフォーマンスと価値を求めるユーザーのニーズに応える製品です。\n\n製品の詳細はこちらでご覧ください。 インテル® Core™ Ultra プロセッサー(シリーズ 2)\n\n応募は、 インテルの公式X(旧Twitter)アカウント をフォローの上、下記のフォームから申し込みを行…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2141/170/1.jpg"
-    },
-    {
-      "Title": "iOS27／iPadOS27のセキュリティ脆弱性の修正点まとめ",
-      "Link": "https://iphone-mania.jp/ios-606008/",
-      "Published": "2026-09-15T16:27:22Z",
-      "Source": "iPhone Mania",
-      "Category": "セキュリティ",
-      "Summary": "iOS27／iPadOS27のセキュリティ脆弱性の修正点まとめ\n\nAppleはiOS27およびiPadOS27の正式版をリリースしました。最新OSには新機能だけでなく、多くのセキュリティ上の脆弱性の修正も含まれています。Appleが公開したページをもとに、どのような脆弱性が修正されているのかをまとめます。\n\niOS27／iPadOS27のセキュリティ脆弱性の修正点まとめ\n\nAppleは iOS27 および iPadOS27 の 正式版をリリース しました。最新OSには新機能だけでなく、 多くのセキュリティ上の脆弱性の修正 も含まれています。Appleが公開したページをもとに、どのような脆弱性が修正されているのかをまとめます。\n\nAppleが9月14日付けで公開した「iOS27およびiPadOS27のセキュリティコンテンツについて」というページでは、 iOS27／iPadOS27で修正されたセキュリティ上の脆弱性の一覧 を確認できます。\n\n全体を集計すると、iOS27／iPadOS27では「Additional recognition」を除いて 122項目のセキュリティ修正 が掲載されています。\n\n内容を見ると、かなり大規模なセキュリティアップデートです。特に目立つのは、 アプリやシステムのクラッシュ、メモリ破損、個人情報への不正アクセス、カーネル関連の脆弱性 です。\n\nなお、以下の分類には重複があり、1つの修正項目が複数のカテゴリーに該当する場合があります。\n\n特に多いのが カーネル関連で17項目 です。カーネルメモリの破損や漏洩、root権限の取得、システムの異常終了など、比較的深刻な内容が含まれています。\n\nたとえば、悪意のあるアプリがroot権限を取得できる問題や、アプリからカーネルメモリを読み取れる問題などが修正されています。\n\nカーネルとは、iPhoneやiPad…",
-      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/09/16/phone1.png"
-    },
-    {
-      "Title": "Ryzen 5 5500FはRyzen 5 5500比で最大16％高いゲーミング性能を有する？",
-      "Link": "https://northwood.blog.fc2.com/blog-entry-13204.html",
-      "Published": "2026-09-15T16:03:28Z",
-      "Source": "北森瓦版",
-      "Category": "",
-      "Summary": "Ryzen 5 5500FはRyzen 5 5500比で最大16％高いゲーミング性能を有する？\n\n北森瓦版 - Northwood Blog (Author : 北森八雲. Since July 10, 2006.)\n\n北森瓦版 - Ryzen 5 5500FはRyzen 5 5500比で最大16％高いゲーミング性能を有する？ ブログ内検索\n\n○CPU アーク (ark) Tsukumo (Intel) Tsukumo (AMD) ソフマップ ○マザーボード アーク (ark) Tsukumo (Intel) Tsukumo (AMD) ソフマップ ○グラフィックカード アーク (ark) Tsukumo (NVIDIA) Tsukumo (AMD) ソフマップ ○メモリ アーク (ark) Tsukumo ソフマップ ○SSD アーク (ark) Tsukumo ソフマップ ○Amazon売れ筋ランキング CPU メモリ グラフィックカード マザーボード SSD 電源\n\nRyzen 5 5500FはRyzen 5 5500比で最大16％高いゲーミング性能を有する？\n\nRyzen 5 5500FはRyzen 5 5500比で最大16％高いゲーミング性能を有する？ (2026/09/16)\n\nRyzen 5 7500とRyzen 5 5500Fがローンチされる (2026/09/11)\n\nRyzen 5 7500 (non-F) が準備されているらしい (2026/09/06)\n\n| 北森瓦版 | Template by おすすめ無料ブログ(blog)比較\n\nRyzen 5 5500FはRyzen 5 5500比で最大16％高いゲーミング性能を有する？ (09/16)\n\n12 Xe graphics coreを搭載する“Nova Lake-S”はキャンセルされたらしい (09…",
-      "ImageURL": ""
-    },
-    {
-      "Title": "iPhone18 Pro予約注文の勢いは「まあまあ」〜著名アナリストがコメント",
-      "Link": "https://iphone-mania.jp/iphone18-606006/",
-      "Published": "2026-09-15T16:00:05Z",
-      "Source": "iPhone Mania",
-      "Category": "予約",
-      "Summary": "iPhone18 Pro予約注文の勢いは「まあまあ」〜著名アナリストがコメント\n\n先日のAppleイベントで発表されたiPhone18 Pro／Pro Maxシリーズの予約注文が開始されましたが、これまでAppleの動向について多くのコメントを残してきたGF Securitiesのジェフ・プー氏は、その勢いについて「まあまあ（Lukewarm）」と評価しています。\n\niPhone18 Pro予約注文の勢いは「まあまあ」〜著名アナリストがコメント\n\n先日のAppleイベントで発表された iPhone18 Pro／Pro Maxシリーズの予約注文が開始 されましたが、これまでAppleの動向について多くのコメントを残してきたGF Securitiesのジェフ・プー氏は、 その勢いについて「まあまあ（Lukewarm）」と評価 しています。\n\n一部のiPhone18 Pro Maxモデルを除いて待ち時間は短め\n\niPhone18 Pro Max については、米国では 256GB／512GBの全カラー と 1TBのバーガンディ が 3〜4週間待ち 、中国では グレイシャーの256GB／512GB が 2〜3週間待ち となっており、一部モデルでは比較的長い待ち時間が発生しています。これは、これらのモデルの需要が高いことを示していると考えられます。\n\niPhone18 Pro については、 ほぼすべての構成が9月18日の発売日に受け取れる状態 となっており、例外はバーガンディの256GBなど一部のみにとどまるとのことです。\n\nまた、iPhone18 Pro Maxでもシルバーの1TBや多くの2TBモデルは発売日に入手可能とのことで、これらのモデルについては需要がそれほど強くないようです。\n\nプー氏によるiPhone18 Pro／Pro Maxシリーズの初動の評価は、 「まあまあ（Luk…",
-      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/09/16/Apple-iPhone-18-Pro-color-lineup-260909_big.large_2x.jpg"
-    },
-    {
-      "Title": "新型MacBook Pro（OLED, タッチ対応）は10月発表か〜来春までの新製品",
-      "Link": "https://iphone-mania.jp/apple-606005/",
-      "Published": "2026-09-15T15:50:12Z",
-      "Source": "iPhone Mania",
-      "Category": "発売日",
-      "Summary": "新型MacBook Pro（OLED, タッチ対応）は10月発表か〜来春までの新製品\n\n有機EL（OLED）ディスプレイを搭載し、タッチ操作に対応する新型14インチおよび16インチMacBook Proが、「macOS 27.1 Golden Gate」を搭載して社内テスト中とBloombergのマーク・ガーマン記者が報じています。\n\n新型MacBook Pro（OLED, タッチ対応）は10月発表か〜来春までの新製品\n\n有機EL（OLED）ディスプレイを搭載し、タッチ操作に対応する新型14インチおよび16インチMacBook Pro が、 「macOS 27.1 Golden Gate」を搭載 して社内テスト中とBloombergのマーク・ガーマン記者が報じています。\n\nその他、2027年春にかけて発表される新製品と、その主な特徴もまとめて取り上げられています。\n\nOLEDを搭載しタッチ操作に対応する 新型14インチおよび16インチMacBook Pro の搭載チップは、予想通りM5 ProおよびM5 Maxになる見込みです。\n\n同モデルは現在、 「macOS 27.1 Golden Gate」を搭載 してApple社内でテストが行われています。\n\nガーマン記者はこれまで2026年末〜2027年初頭の発売を予想していましたが、今回の報道では2026年中に登場する製品として取り上げています。\n\n「macOS 27.1 Golden Gate」の 正式版は 10月下旬にiOS27.1と同時にリリースされる 見込みで、その直後に新型MacBook Proが発売される可能性があります。\n\nその他、2026年中の発表が期待される新製品は次の通りです。\n\n新型iPad mini（J510）：OLEDを搭載、2026年10月下旬発売見込み\n\nHomePod mini 2（B525）：S…",
-      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/08/29/OLED-MacBook-Pro-AH-0829.jpg"
-    },
-    {
-      "Title": "12基のXe3P iGPU搭載Nova LakeデスクトップCPUがキャンセル。Intel版デスクトップAPUはRazer Lakeで投入へ",
-      "Link": "https://www.nichepcgamer.com/archives/post-132272.html",
-      "Published": "2026-09-15T15:03:55Z",
-      "Source": "ニッチなPCゲーマーの環境構築Z",
-      "Category": "NovaLake",
-      "Summary": "12基のXe3P iGPU搭載Nova LakeデスクトップCPUがキャンセル。Intel版デスクトップAPUはRazer Lakeで投入へ\n\nIntel版デスクトップAPUとしての登場が期待されていた12基のXe3P iGPUを搭載したモデルですが、Nova LakeデスクトップCPU (Nova Lake-S)としての投入はキャンセルと...\n\nIntel版デスクトップAPUとしての登場が期待されていた12基のXe3P iGPUを搭載したモデルですが、 Nova LakeデスクトップCPU (Nova Lake-S)としての投入はキャンセルとなった模様です。\n\n遡ること 2026年4月 、ハードウェアリーカーのJaykihn氏により、12基のXe3P iGPUを搭載したNova LakeデスクトップCPUが「暫定的にある」との情報がリークされました。\n\nこのモデルについて、Jaykihn氏が新たな情報を共有しました。Jaykihn氏はX (旧Twitter)にて以下のように述べています。\n\nNova Lake-S 12XeモデルはRazer Lake-S 12Xeモデルへと変更となりました。\n\nJaykihn氏によると、12基のXe3P iGPU搭載モデルはNova LakeデスクトップCPUとしては登場せず、その次の世代のRazer LakeデスクトップCPUで登場するとのこと。\n\nこのCPUは、Xe3P世代のiGPUコアが12基も搭載されることから、AMDのデスクトップAPUに対抗できる性能になることが期待されていました。(参考までにArc B580のGPUコア数は、Xe2世代が20基です。iGPUでありながら12基はかなり多めです)\n\nしかし、残念ながらNova Lake世代では登場せず、Razer Lake世代まで待つ必要があるようです。Razer Lake世代…",
-      "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2025/09/nova-lake-image.jpg"
-    },
-    {
-      "Title": "�Υ��󥿥ӥ塼��6��ǯ�Ρֻ�Ԣ�� ��ƻ�פǡ��������κ��줬�Ѥ��뿷����������ζ��Ϣ���׳��롣���˶�����ʼ�ʡȹ�ʼ�ɤ⸽��",
-      "Link": "https://www.4gamer.net/games/489/G048903/20260904038/",
-      "Published": "2026-09-15T15:00:00Z",
-      "Source": "4Gamer.net Hardware",
-      "Category": "HARDWARE",
-      "Summary": "�Υ��󥿥ӥ塼��6��ǯ�Ρֻ�Ԣ�� ��ƻ�פǡ��������κ��줬�Ѥ��뿷����������ζ��Ϣ���׳��롣���˶�����ʼ�ʡȹ�ʼ�ɤ⸽��\n\nコーエーテクモゲームスのスマホゲーム「三國志 覇道」で，新シーズン「龍気連響」が2026年9月17日に開始される。今回も攻城戦改修や新兵科第2弾「工兵」などのアップデートについて，ディレクターの白波…\n\n［インタビュー］6周年の「三國志 覇道」で，攻城戦の根底が変わる新シーズン「龍気連響」開幕。盾に強い新兵科“工兵”も現る ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 夏は七不思議ならぬ“七不穏”で暑さを忘却の彼方へ――涼しくチルアウトできる終末，陰鬱，ディストピアな7つのゲーム ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ ひと夏の思い出に「桃鉄」100年プレイ。みんなで完走するための準備＆プレ…",
-      "ImageURL": "https://www.4gamer.net/games/489/G048903/20260904038/SS/002.jpg"
-    },
-    {
-      "Title": "Appleが下取り価格を一斉改定〜iPhone14 Pro Maxは3.1万円減",
-      "Link": "https://iphone-mania.jp/apple-605999/",
-      "Published": "2026-09-15T14:28:24Z",
-      "Source": "iPhone Mania",
-      "Category": "下取り",
-      "Summary": "Appleが下取り価格を一斉改定〜iPhone14 Pro Maxは3.1万円減\n\nAppleが、iPhoneやApple Watch、iPad、Macの下取り価格を改定しました。今回の見直しでは、iPhoneは値下げされたモデルが多い一方、Apple WatchやMacでは下取り価格が引き上げられたモデルが目立ちます。各製品カテゴリーごとに、改定前後の価格と変更幅をまとめます。\n\nAppleが下取り価格を一斉改定〜iPhone14 Pro Maxは3.1万円減\n\nAppleが、iPhoneやApple Watch、iPad、Macの 下取り価格を改定 しました。今回の見直しでは、iPhoneは値下げされたモデルが多い一方、Apple WatchやMacでは下取り価格が引き上げられたモデルが目立ちます。各製品カテゴリーごとに、改定前後の価格と変更幅をまとめます。\n\niPhone18 Pro シリーズの登場に伴い、Appleが iPhoneの下取り額を更新 しました。iPhone14 Pro Maxは最大105,000円から74,000円へ31,000円もの大幅減額となったほか、iPhone15 Plusも16,000円、iPhone13 Pro Maxも12,000円下落しています。その一方、iPhone12 miniは11,000円から16,000円へ5,000円増額されるなど、一部モデルでは下取り額が引き上げられました。\n\n新たに追加されたiPhone17シリーズの下取り上限額は、 iPhone17 Pro Maxが172,000円、iPhone17 Proが141,000円、iPhone AirとiPhone17が各101,000円 となっています。\n\n今回新たに下取り対象として加わったモデルは、以下の3機種です。\n\nApple Watchの下取り額 については、 既…",
-      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/09/15/iphones-value-tradein-202609.png"
-    },
-    {
-      "Title": "12 Xe graphics coreを搭載する“Nova Lake-S”はキャンセルされたらしい",
-      "Link": "https://northwood.blog.fc2.com/blog-entry-13203.html",
-      "Published": "2026-09-15T14:26:58Z",
-      "Source": "北森瓦版",
-      "Category": "",
-      "Summary": "12 Xe graphics coreを搭載する“Nova Lake-S”はキャンセルされたらしい\n\n北森瓦版 - Northwood Blog (Author : 北森八雲. Since July 10, 2006.)\n\n北森瓦版 - 12 Xe graphics coreを搭載する“Nova Lake-S”はキャンセルされたらしい ブログ内検索\n\n○CPU アーク (ark) Tsukumo (Intel) Tsukumo (AMD) ソフマップ ○マザーボード アーク (ark) Tsukumo (Intel) Tsukumo (AMD) ソフマップ ○グラフィックカード アーク (ark) Tsukumo (NVIDIA) Tsukumo (AMD) ソフマップ ○メモリ アーク (ark) Tsukumo ソフマップ ○SSD アーク (ark) Tsukumo ソフマップ ○Amazon売れ筋ランキング CPU メモリ グラフィックカード マザーボード SSD 電源\n\n12 Xe graphics coreを搭載する“Nova Lake-S”はキャンセルされたらしい\n\nNova Lake -S 12Xe has been changed to Razor Lake -S 12Xe\n\n12 Xe graphics coreを搭載する“Nova Lake-S”はキャンセルされたらしい (2026/09/15)\n\n12 Xe3P GPUを搭載する“Nova Lake”はDDR5-8000 CSO DIMMに対応 (2026/09/14)\n\n“Nova Lake-S”のスケジュール―大量生産開始は2026年第4四半期予定 (2026/09/06)\n\n| 北森瓦版 | Template by おすすめ無料ブログ(blog)比較\n\nRyzen 5 5500FはRyzen 5…",
-      "ImageURL": ""
-    },
-    {
-      "Title": "Apple、AirPodsにカスタムEQ追加〜対応する3モデルが明らかに",
-      "Link": "https://iphone-mania.jp/airpods-605998/",
-      "Published": "2026-09-15T14:00:23Z",
-      "Source": "iPhone Mania",
-      "Category": "新機能",
-      "Summary": "Apple、AirPodsにカスタムEQ追加〜対応する3モデルが明らかに\n\niOS27と同時にリリースされた最新のAirPodsファームウェアで、カスタムEQが特定のモデルで利用可能となっています。いったいどのモデルがこの新機能に対応しているのでしょうか。今回のアップデート内容とあわせて確認していきます。\n\nApple、AirPodsにカスタムEQ追加〜対応する3モデルが明らかに\n\niOS27 と同時にリリースされた 最新のAirPods ファームウェア で、 カスタムEQ が特定のモデルで利用可能となっています。いったいどのモデルがこの新機能に対応しているのでしょうか。今回のアップデート内容とあわせて確認していきます。\n\niOS27の正式版がリリースされたばかりですが、同時にAirPods Pro 2、AirPods Pro 3、AirPods 4、AirPods Max 2向けの最新ファームウェア「 9A350 」が公開されました。\n\nこのファームウェアにより、 AirPods Pro 2 、 AirPods Pro 3 、 AirPods 4 で カスタムEQが利用可能 となっています。\n\nカスタムEQとは、音の周波数帯ごとの強さを自分好みに調整できるイコライザー機能のことです。たとえば、低音を強くして迫力を出したり、中音域を持ち上げてボーカルを聞きやすくしたり、高音を抑えて刺さるような音を和らげたりできます。\n\nファームウェアアップデートは、AirPodsが充電中で、Wi-Fiに接続されたiPhone、iPad、またはMacのBluetooth通信範囲内にある間に、自動的に配信されます。\n\niPhone、iPad、またはMacを使って、AirPodsに最新バージョンが適用されているか確認することもできます。\n\niPhone、iPad、Macが最新バージョンのiOS、…",
-      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/09/14/f42eaa8069917b3b00529f547e8fb45a.png"
-    },
-    {
-      "Title": "ワイモバイル、OPPO A5 5Gが新規・MNPで一括1円。9月30日まで",
-      "Link": "https://smhn.info/202609-ymobile-oppo-a5-iphone-weekly-sale",
-      "Published": "2026-09-15T12:54:25Z",
-      "Source": "すまほん!!",
-      "Category": "Y!mobile",
-      "Summary": "ワイモバイル、OPPO A5 5Gが新規・MNPで一括1円。9月30日まで\n\nワイモバイルは9月15日午前10時、公式オンラインストアで開催中の「誕生感謝祭」において、週替わりセールの対象端末を更新しました。セール期間は9月30日午後11時59分まで。新規契約または他社からの乗り換え（MNP）で「シンプル3 M/L」を契約する場合、OPPO A5 5Gが一...\n\nワイモバイル、OPPO A5 5Gが新規・MNPで一括1円。9月30日まで\n\nワイモバイルは9月15日午前10時、 公式オンラインストア で開催中の「誕生感謝祭」において、週替わりセールの対象端末を更新しました。セール期間は9月30日午後11時59分まで。\n\n新規契約または他社からの乗り換え（MNP）で「シンプル3 M/L」を契約する場合、OPPO A5 5Gが一括1円となります。同じくMNPで、ソフトバンク認定中古品のiPhone 14（128GB）も一括2万3040円で販売されます。いずれもソフトバンクやLINEMOからの乗り換えは対象外で、端末単体購入の価格ではなく通信料金も別途かかります。\n\n機種変更向けには、OPPO Reno15 Aが一括4万3560円、ソフトバンク認定中古品のiPhone SE（第3世代・64GB）が一括1万9800円でラインナップされています。こちらは「シンプル3 S/M/L」の契約が条件。",
-      "ImageURL": "https://smhn.info/wp-content/uploads/2026/09/20260915_215353.webp"
     }
   ],
   "world": [
+    {
+      "Title": "Mechanic Master’s new AIO has interconnected radiators",
+      "Link": "https://www.kitguru.net/components/cooling/joao-silva/mechanic-masters-new-aio-has-interconnected-radiators/",
+      "Published": "2026-09-21T16:21:51Z",
+      "Source": "KitGuru",
+      "Category": "news",
+      "Summary": "Mechanic Master’s new AIO has interconnected radiators\n\nMechanic Master has announced the Klein series, a set of dual‑radiator AIO liquid CPU coolers using what the company calls “3D Structural Split Water Cooling”. Unlike traditional AIOs that rely on a single radiator, the K240+120, K360+120 and K360+360 models each use two radiators to increase total heat‑exchange area. Images shared by ITHome show a\n\nMechanic Master’s new AIO has interconnected radiators\n\nJoão Silva 23 hours ago Cooling\n\nMechanic Master has announced the Klein series, a set of dual‑radiator AIO liquid CPU coolers using what the company calls “3D Structural Split Water Cooling”. Unlike traditional AIOs that rely on a single radiator, the K240+120, K360+120 and K360+360 models each use two radiators to increase total hea…",
+      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/09/0e16ccb5-b138-465e-b04a-59b3d472e525-732x330.jpg"
+    },
+    {
+      "Title": "Bungie is returning to Destiny to reverse the content vault",
+      "Link": "https://www.kitguru.net/gaming/matthew-wilson/bungie-is-returning-to-destiny-to-reverse-the-content-vault/",
+      "Published": "2026-09-21T16:00:42Z",
+      "Source": "KitGuru",
+      "Category": "sony",
+      "Summary": "Bungie is returning to Destiny to reverse the content vault\n\nBungie has reversed course on its plans for Destiny, announcing that Destiny 2 will continue to receive updates and that previously removed content will return to the game. The studio had declared an end to Destiny 2’s live development earlier this year, but in a new update, Bungie says Destiny remains foundational to its future\n\nBungie is returning to Destiny to reverse the content vault\n\nMatthew Wilson 23 hours ago Featured Tech News , Software \u0026 Gaming\n\nBungie has reversed course on its plans for Destiny, announcing that Destiny 2 will continue to receive updates and that previously removed content will return to the game. The studio had declared an end to Destiny 2’s live development earlier this year, but in a new update, Bu…",
+      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2021/08/Destiny-2-732x330.jpg"
+    },
+    {
+      "Title": "Local opposition blocked $68 billion worth of data center projects in the second quarter of 2026",
+      "Link": "https://www.tomshardware.com/tech-industry/data-centers/local-opposition-blocked-usd68-billion-worth-of-data-center-projects-in-the-second-quarter-of-2026-data-center-investments-reportedly-still-on-track-to-hit-usd32-trillion-by-2050",
+      "Published": "2026-09-21T16:00:00Z",
+      "Source": "Tom's Hardware",
+      "Category": "Tech Industry",
+      "Summary": "Local opposition blocked $68 billion worth of data center projects in the second quarter of 2026\n\nTrump says opposing communities\n\nLocal opposition blocked 45 data center projects worth $68 billion in the second quarter of 2026 — data center investments reportedly still on track to hit $32 trillion by 2050\n\nTrump says opposing communities \"want to end up being backwards and poor.\"\n\n(Image credit: Getty Images ) Copy link\n\n23 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter Local opposition blocked or delayed $68 billion in data center projects between April and June this year, according to a September 21 Bloomberg report citing data from research group Data Center Watch. The report says 30 state houses have implemented rules on d…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/v4E3LjqELKvVQfSbGgM4bh-1920-80.png"
+    },
+    {
+      "Title": "Score the Samsung’s 25-inch Odyssey G4 for a cut-price $189.99",
+      "Link": "https://www.androidauthority.com/samsung-25-inch-odyssey-g4-gaming-monitor-deal-3713670/",
+      "Published": "2026-09-21T15:42:56Z",
+      "Source": "Android Authority",
+      "Category": "Samsung",
+      "Summary": "Score the Samsung’s 25-inch Odyssey G4 for a cut-price $189.99\n\nSave 32% on the Samsung Odyssey G4 gaming monitor. This 25-inch 300Hz IPS display just dropped to a new low.\n\nAffiliate links on Android Authority may earn us a commission. Learn more.\n\nScore the Samsung’s 25-inch Odyssey G4 for a cut-price $189.99\n\n0 • Amazon Add Android Authority on Google: Preferred Source Google Discover Amazon just cut the Samsung 25-inch Odyssey G4 gaming monitor to $189.99, down from its $279.99 RRP. That saves you $90, a 32% discount off the recommended retail price, and it is easily the lowest price we have ever seen for this model.\n\nThat kind of drop stands out even more because this price is also lower than the previous year-to-date low of $219.99. In other words, this is the best deal we have seen …",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/09/Samsung-25-inch-Odyssey-G4-G40H-Series-FHD-Gaming-Monitor-Press-Image.jpg"
+    },
+    {
+      "Title": "AMD beats Intel to the trillion-dollar club as stock price soars",
+      "Link": "https://www.tomshardware.com/tech-industry/amd-beats-intel-to-the-trillion-dollar-club-as-stock-price-soars-firm-joins-nvidia-broadcom-and-sk-hynix-for-companies-worth-over-usd1-trillion",
+      "Published": "2026-09-21T15:42:55Z",
+      "Source": "Tom's Hardware",
+      "Category": "Tech Industry",
+      "Summary": "AMD beats Intel to the trillion-dollar club as stock price soars\n\nNvidia first hit $1 trillion in 2023 and has gone onto become the most valuable company in the world.\n\nAMD beats Intel to the trillion-dollar club as stock price soars — firm joins Nvidia, Broadcom, and SK hynix for companies worth over $1 trillion\n\nNvidia first hit $1 trillion in 2023 and has gone onto become the most valuable company in the world.\n\n(Image credit: Getty Images) Copy link\n\n6 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter AMD's market cap has crossed the $1 trillion mark for the first time, following a rally in its share price over the last week. At market close on Friday, AMD's share price was around $557. On Monday morning, shares immediately ju…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/8WYKRa89vDWBz6UPYYNt7f-2560-80.jpg"
+    },
+    {
+      "Title": "Microsoft Patent Shows Ad Breaks During Loading Screens and After Boss Fights",
+      "Link": "https://www.techpowerup.com/352914/microsoft-patent-shows-ad-breaks-during-loading-screens-and-after-boss-fights",
+      "Published": "2026-09-21T15:41:32Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "Galaxy phones have an app delay problem, but Samsung is on the case",
+      "Link": "https://www.androidauthority.com/samsung-diy-home-app-delay-3713635/",
+      "Published": "2026-09-21T15:37:48Z",
+      "Source": "Android Authority",
+      "Category": "Samsung One UI",
+      "Summary": "Galaxy phones have an app delay problem, but Samsung is on the case\n\nSamsung has confirmed an issue with the DIY Home feature in Good Lock's Home Up module. The team is investigating the bug.\n\nAffiliate links on Android Authority may earn us a commission. Learn more.\n\nGalaxy phones have an app delay problem, but Samsung is on the case\n\n0 • Ryan Haines / Android Authority Add Android Authority on Google: Preferred Source Google Discover TL;DR Samsung is investigating an issue with DIY Home.\n\nNormal folders work as expected, but hidden folders are experiencing an app icon delay.\n\nUsers report that the bug appeared after updating to One UI 9.\n\nCustomization is one of the many reasons why Samsung fans love Galaxy phones. The Good Lock software suite opens up all kinds of possibilities to perso…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2025/05/Samsung-DIY-Home-close-up-on-overlapping-shapes.jpg"
+    },
+    {
+      "Title": "(PR) StarTech.com Launches Quad Monitor Thunderbolt 5 Dock for Multi-Display Workstations",
+      "Link": "https://www.techpowerup.com/352913/startech-com-launches-quad-monitor-thunderbolt-5-dock-for-multi-display-workstations",
+      "Published": "2026-09-21T15:35:03Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "(PR) StarTech.com Launches Quad Monitor Thunderbolt 5 Dock for Multi-Display Workstations\n\nStarTech.com has launched a new Universal Thunderbolt 5 Docking Station (206N-TB5USB4DOCK) built for power users who need more display space, more charging power, and fewer compromises at the desk. The dock supports up to four 4K 60 Hz monitors on Windows, giving IT teams a driverless way to...\n\nStarTech.com Launches Quad Monitor Thunderbolt 5 Dock for Multi-Display Workstations\n\nThunderbolt 5 performance with backward compatibility to support Thunderbolt 4 and USB4 devices\n\nDriverless setup for faster deployment and fewer support tickets\n\nQuad 4K at 60 Hz on Windows for high-density, high-productivity workstations\n\nDual 4K at 60 Hz on MacBooks for consistent multi-display performance on macOS\n\nBuilt…",
+      "ImageURL": "https://www.techpowerup.com/img/fU2jpOMexQg2LtI2.jpg"
+    },
+    {
+      "Title": "Acer launches its very first Googlebook next month",
+      "Link": "https://www.kitguru.net/lifestyle/mobile/laptops/matthew-wilson/acer-launches-its-very-first-googlebook-next-month/",
+      "Published": "2026-09-21T15:30:09Z",
+      "Source": "KitGuru",
+      "Category": "news",
+      "Summary": "Acer launches its very first Googlebook next month\n\nAcer has introduced the Googlebook 14, its first laptop built for Googlebook OS and Gemini AI. The device marks Acer’s entry into the new Googlebook category, pairing Intel Core Ultra processors with new OS features to enable cross-device features with Android smartphones and tablets. Googlebooks run Googlebook OS, a new system built around Gemini Intelligence\n\nAcer launches its very first Googlebook next month\n\nMatthew Wilson 23 hours ago Laptop / Mobile\n\nAcer has introduced the Googlebook 14, its first laptop built for Googlebook OS and Gemini AI. The device marks Acer’s entry into the new Googlebook category, pairing Intel Core Ultra processors with new OS features to enable cross-device features with Android smartphones and tablets. G…",
+      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/09/googlebook-14-732x330.png"
+    },
+    {
+      "Title": "AMD Joins Trillion-Dollar Club, Surpasses $600 Per Share",
+      "Link": "https://www.techpowerup.com/352910/amd-joins-trillion-dollar-club-surpasses-usd-600-per-share",
+      "Published": "2026-09-21T15:23:33Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "AMD Joins Trillion-Dollar Club, Surpasses $600 Per Share\n\nA new era for AMD has begun today as the company officially crossed one trillion US dollars in market capitalization. This achievement places AMD as the world's 16th most valuable company by market capitalization, climbing up the ranks. This means AMD is catching up to industry giants and has...\n\nAMD Joins Trillion-Dollar Club, Surpasses $600 Per Share\n\nMay 31st 2026 AMD Formally Announces Ryzen 7 5800X3D 10th Anniversary Edition and Ryzen 7 7700X3D (171)\n\nApr 16th 2026 AMD to Re-launch Ryzen 7 5800X3D as \"AM4 10th Anniversary Edition\" (198)\n\nSep 17th 2026 AMD Plans 10% Price Hike Across GPUs, Chipsets, and Possibly CPUs (92)\n\nJun 12th 2026 Pre-Orders for $4000 AMD Ryzen AI Halo Mini PC Dev Kits Go Live (47)\n\nFeb 19th 2026 AMD Ryzen…",
+      "ImageURL": "https://www.techpowerup.com/img/zMlTorevGdBjQ9m5.jpg"
+    },
+    {
+      "Title": "(PR) Googlebook Launches With Intel Core Ultra Series 3 Processors",
+      "Link": "https://www.techpowerup.com/352911/googlebook-launches-with-intel-core-ultra-series-3-processors",
+      "Published": "2026-09-21T15:23:18Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "(PR) Googlebook Launches With Intel Core Ultra Series 3 Processors\n\nIntel today announced the first Googlebook devices powered by Intel Core Ultra Series 3 processors (codenamed Panther Lake), bringing together Google's next-generation computing with the proven performance, best-in-class connectivity and efficiency of Intel's flagship client platform. Launching...\n\nGooglebook Launches With Intel Core Ultra Series 3 Processors\n\nDavid Feng, Intel Vice President, CCPG; General Manager, Client Business Group \"Googlebook represents the best of what a deep engineering partnership can achieve, bringing together the strengths of Intel, Google and our ecosystem partners Acer, ASUS and Lenovo to create something truly compelling for consumers. By combining Google's innovative experiences with Intel'…",
+      "ImageURL": "https://www.techpowerup.com/img/EjRqu38aMJkQ9NH1.jpg"
+    },
+    {
+      "Title": "Amazon slashes the Dangbei DBOX02 to $949 for a big-screen 4K projector deal",
+      "Link": "https://www.androidauthority.com/dangbei-dbox02-projector-deal-3713663/",
+      "Published": "2026-09-21T15:19:11Z",
+      "Source": "Android Authority",
+      "Category": "Projectors",
+      "Summary": "Amazon slashes the Dangbei DBOX02 to $949 for a big-screen 4K projector deal\n\nThis 21% off deal brings the Dangbei DBOX02 projector back to its all-time low, with 4K laser output and Netflix onboard.\n\nAffiliate links on Android Authority may earn us a commission. Learn more.\n\nAmazon slashes the Dangbei DBOX02 to $949 for a big-screen 4K projector deal\n\n0 • Kaitlyn Cimino / Android Authority Add Android Authority on Google: Preferred Source Google Discover The Dangbei DBOX02 is a 4K UHD laser projector built for big-screen movie nights without a lot of extra gear, and there’s a strong Amazon deal on it right now. It combines Google TV, officially licensed Netflix, and built-in Chromecast, so it’s made for streaming straight out of the box.\n\nDangbei packs in a lot of the features people usua…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2025/12/Dangbei-DBOX02-Pro-hero-scaled.jpg"
+    },
+    {
+      "Title": "Spotify is now gatekeeping new music to Premium subscribers, but the blame lies elsewhere (Updated)",
+      "Link": "https://www.androidauthority.com/spotify-three-day-album-delay-free-users-3713582/",
+      "Published": "2026-09-21T15:14:17Z",
+      "Source": "Android Authority",
+      "Category": "YouTube Music",
+      "Summary": "Spotify is now gatekeeping new music to Premium subscribers, but the blame lies elsewhere (Updated)\n\nStreaming apps like Spotify are testing a three-day release delay for free users as label agreements push to convert ad-supported accounts\n\nAffiliate links on Android Authority may earn us a commission. Learn more.\n\nSpotify is now gatekeeping new music to Premium subscribers, but the blame lies elsewhere (Updated)\n\n0 • Rita El Khoury / Android Authority Add Android Authority on Google: Preferred Source Google Discover TL;DR Spotify is testing a “Premium Early Access” window that delays brand-new album releases for non-paying accounts by three days in select regions.\n\nThe delay stems from label-level licensing requirements, led by Universal Music Group, which will also affect competing ad-su…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2025/12/spotify-android-app-home-screen-shortcuts-2.jpg"
+    },
+    {
+      "Title": "(PR) Snapdragon X Series Powers Googlebook: the First Laptops Designed for Gemini Intelligence",
+      "Link": "https://www.techpowerup.com/352909/snapdragon-x-series-powers-googlebook-the-first-laptops-designed-for-gemini-intelligence",
+      "Published": "2026-09-21T15:11:20Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "(PR) Snapdragon X Series Powers Googlebook: the First Laptops Designed for Gemini Intelligence\n\nQualcomm Technologies, Inc. today announced its collaboration with Google to bring the Snapdragon X Elite platform to the first Googlebook laptops. The collaboration builds on the leading performance, power efficiency and AI capabilities of Snapdragon X Elite paired with Googlebook, with built-in...\n\nSnapdragon X Series Powers Googlebook: the First Laptops Designed for Gemini Intelligence\n\nKedar Kondap, Senior Vice President and General Manager, Compute and Gaming, Qualcomm Technologies, Inc. \"The leading AI capabilities of Snapdragon X Elite have transformed personal computing and created new opportunities for more intelligent, personalized and productive experiences. Snapdragon X Elite deliver…",
+      "ImageURL": "https://www.techpowerup.com/img/vhj4cptnBXRHWthL.jpg"
+    },
+    {
+      "Title": "(PR) ASUS Announces the New ASUS Googlebook 14",
+      "Link": "https://www.techpowerup.com/352908/asus-announces-the-new-asus-googlebook-14",
+      "Published": "2026-09-21T15:10:11Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "(PR) ASUS Announces the New ASUS Googlebook 14\n\nASUS today announced ASUS Googlebook 14 (CX9406CAA), a 14-inch ultraportable laptop that's the first ever ASUS laptop designed for Gemini Intelligence. Built for users who want a more connected experience with their Android phone, ASUS Googlebook 14 combines effortless portability, strong...\n\nASUS Announces the New ASUS Googlebook 14\n\nJun 12th 2026 Pre-Orders for $4000 AMD Ryzen AI Halo Mini PC Dev Kits Go Live (47)\n\nJul 3rd 2026 Intel Readies Two 22-Core \"Nova Lake-S\" SKUs with 108 MB bLLC Cache for Gaming (279)\n\nJun 1st 2026 NVIDIA Announces RTX Spark, a Supercomputer-grade Processor for Windows PCs with Agentic User Interfaces (63)\n\nSep 21st 2026 Acer Debuts its First Googlebook - the Embodiment of Premium, Intelligence-Powered Hardware (1…",
+      "ImageURL": "https://www.techpowerup.com/img/gVzGLDKw13usqDxQ.jpg"
+    },
     {
       "Title": "(PR) HP Googlebook 14 は Google の最新コネクテッド プラットフォームにプレミアムなクラフトマンシップをもたらします",
       "Link": "https://www.techpowerup.com/352907/hp-googlebook-14-brings-premium-craftsmanship-to-googles-newest-connected-platform",
@@ -4710,8 +4845,8 @@
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/09/Googlebook-with-Play-Store-1.jpg"
     },
     {
-      "Title": "Apple M6 SoC Analysis - Apple's 2 nm chip crushes AMD, Intel \u0026amp; Qualcomm",
-      "Link": "https://www.notebookcheck.net/Apple-M6-SoC-Analysis-Apple-s-2-nm-chip-crushes-AMD-Intel-Qualcomm.1404057.0.html",
+      "Title": "Compact powerhouse with the 2 nm M6 SoC - Apple Mac mini 2026 Review",
+      "Link": "https://www.notebookcheck.net/Compact-powerhouse-with-the-2-nm-M6-SoC-Apple-Mac-mini-2026-Review.1401148.0.html",
       "Published": "2026-09-21T13:04:00Z",
       "Source": "Notebookcheck",
       "Category": "reviews",
@@ -4719,8 +4854,8 @@
       "ImageURL": ""
     },
     {
-      "Title": "Compact powerhouse with the 2 nm M6 SoC - Apple Mac mini 2026 Review",
-      "Link": "https://www.notebookcheck.net/Compact-powerhouse-with-the-2-nm-M6-SoC-Apple-Mac-mini-2026-Review.1401148.0.html",
+      "Title": "Apple M6 SoC Analysis - Apple's 2 nm chip crushes AMD, Intel \u0026amp; Qualcomm",
+      "Link": "https://www.notebookcheck.net/Apple-M6-SoC-Analysis-Apple-s-2-nm-chip-crushes-AMD-Intel-Qualcomm.1404057.0.html",
       "Published": "2026-09-21T13:04:00Z",
       "Source": "Notebookcheck",
       "Category": "reviews",
@@ -4791,13 +4926,13 @@
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/09/Lenovo-Googlebook-15-open-lid-scaled-e1789985627710.jpeg"
     },
     {
-      "Title": "PlayStation 3 emulation devs work around an Nvidia bug for up to 37% faster performance — open-source coders reach out to Nvidia to over uncovered bug",
-      "Link": "https://www.tomshardware.com/pc-components/gpu-drivers/playstation-3-emulation-devs-work-around-an-nvidia-bug-for-up-to-37-percent-faster-performance-open-source-coders-reach-out-to-nvidia-to-over-uncovered-bug",
+      "Title": "Apple Mac Studio (M5 Ultra) review: Local model citizen outpaces DGX Spark and Threadripper",
+      "Link": "https://www.tomshardware.com/desktops/mini-pcs/apple-mac-studio-m5-ultra-review",
       "Published": "2026-09-21T13:00:00Z",
       "Source": "Tom's Hardware",
-      "Category": "GPUs",
-      "Summary": "PlayStation 3 emulation devs work around an Nvidia bug for up to 37% faster performance — open-source coders reach out to Nvidia to over uncovered bug\n\nAMD users aren’t affected by the bug, so don’t need the workaround.\n\nPlayStation 3 emulation devs work around an Nvidia bug for up to 37% faster performance — open-source coders reach out to Nvidia to over uncovered bug\n\nAMD users aren’t affected by the bug, so don’t need the workaround.\n\n(Image credit: RPCS3 team on social media) Copy link\n\n0 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter The developers of the open-source PlayStation 3 emulator RPCS3 are celebrating finding a workaround for an Nvidia driver bug. The social media celebration stems from their testing showing that…",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/DTyif5tMyL37FaiLreQSkS-1920-80.jpg"
+      "Category": "Desktops",
+      "Summary": "Apple Mac Studio (M5 Ultra) review: Local model citizen outpaces DGX Spark and Threadripper\n\nTaking on the Mac Pro\n\nThe Mac Studio with M5 Ultra is a small powerhouse PC with strong performance, fast memory throughput, and the ability to run AI models locally (if that's your thing).\n\n+ M5 Ultra delivers powerful performance\n\n+ 1.2 TB/s memory throughput is excellent for local AI models\n\n- Pricey memory and SSD upgrades\n\n- Not upgradeable after purchase\n\nWhy you can trust Tom's Hardware Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test .\n\nEarlier this year, Apple discontinued the Mac Pro , leaving the Mac Studio as its top-end desktop. With the new M5 Ultra chip, Apple's relatively diminutive syst…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/AAnvQVv2RtEPAZM6bn2qLW-1999-80.jpg"
     },
     {
       "Title": "Hands-on with Googlebooks — Five models, the new Googlebook OS, and a Mac-style experience for Android users at premium prices",
@@ -4809,15 +4944,6 @@
       "ImageURL": "https://cdn.mos.cms.futurecdn.net/kRgHmuuVaoen2ysXRBj7G5-1999-80.jpg"
     },
     {
-      "Title": "Apple Mac mini (Late 2026) Review: Strong performance, but losing its grip on value",
-      "Link": "https://www.tomshardware.com/desktops/mini-pcs/apple-mac-mini-late-2026-review",
-      "Published": "2026-09-21T13:00:00Z",
-      "Source": "Tom's Hardware",
-      "Category": "Desktops",
-      "Summary": "Apple Mac mini (Late 2026) Review: Strong performance, but losing its grip on value\n\nThe Mac mini’s value proposition has evaporated.\n\nApple’s latest mini machine delivers the generational performance improvements we expect, dampened by the realities of AI price hikes.\n\n+ Strong single- and multi-threaded performance\n\n+ Storage performance improvements over previous M4 model\n\n- Recent price hikes erode the Mac mini’s value proposition\n\n- Memory and storage upgrades are now even pricier\n\nWhy you can trust Tom's Hardware Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test .\n\nIt’s been nearly two years since Apple updated the Mac mini. And for better or worse, things have changed a lot during that tim…",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/s2x95KEoYwKtcYp6nc4Tdd-2560-80.jpg"
-    },
-    {
       "Title": "MediaTek’s next-gen Dimensity CX C10 Max will power new Googlebook initiative alongside Intel and Qualcomm – 3nm SoC has similar specs to Kompanio Ultra in Chromebook Plus devices, despite claims of ‘elevating’ computing portfolio",
       "Link": "https://www.tomshardware.com/pc-components/cpus/mediateks-next-gen-dimensity-cx-c10-max-will-power-new-googlebook-initiative-3nm-soc-has-similar-specs-to-kompanio-ultra-in-chromebook-plus-devices-despite-claims-of-elevating-computing-portfolio",
       "Published": "2026-09-21T13:00:00Z",
@@ -4827,13 +4953,22 @@
       "ImageURL": "https://cdn.mos.cms.futurecdn.net/p4Bjoh5tfMNsK7J2zUNbt5-1933-80.png"
     },
     {
-      "Title": "Apple Mac Studio (M5 Ultra) review: Local model citizen outpaces DGX Spark and Threadripper",
-      "Link": "https://www.tomshardware.com/desktops/mini-pcs/apple-mac-studio-m5-ultra-review",
+      "Title": "PlayStation 3 emulation devs work around an Nvidia bug for up to 37% faster performance — open-source coders reach out to Nvidia to over uncovered bug",
+      "Link": "https://www.tomshardware.com/pc-components/gpu-drivers/playstation-3-emulation-devs-work-around-an-nvidia-bug-for-up-to-37-percent-faster-performance-open-source-coders-reach-out-to-nvidia-to-over-uncovered-bug",
+      "Published": "2026-09-21T13:00:00Z",
+      "Source": "Tom's Hardware",
+      "Category": "GPUs",
+      "Summary": "PlayStation 3 emulation devs work around an Nvidia bug for up to 37% faster performance — open-source coders reach out to Nvidia to over uncovered bug\n\nAMD users aren’t affected by the bug, so don’t need the workaround.\n\nPlayStation 3 emulation devs work around an Nvidia bug for up to 37% faster performance — open-source coders reach out to Nvidia to over uncovered bug\n\nAMD users aren’t affected by the bug, so don’t need the workaround.\n\n(Image credit: RPCS3 team on social media) Copy link\n\n0 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter The developers of the open-source PlayStation 3 emulator RPCS3 are celebrating finding a workaround for an Nvidia driver bug. The social media celebration stems from their testing showing that…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/DTyif5tMyL37FaiLreQSkS-1920-80.jpg"
+    },
+    {
+      "Title": "Apple Mac mini (Late 2026) Review: Strong performance, but losing its grip on value",
+      "Link": "https://www.tomshardware.com/desktops/mini-pcs/apple-mac-mini-late-2026-review",
       "Published": "2026-09-21T13:00:00Z",
       "Source": "Tom's Hardware",
       "Category": "Desktops",
-      "Summary": "Apple Mac Studio (M5 Ultra) review: Local model citizen outpaces DGX Spark and Threadripper\n\nTaking on the Mac Pro\n\nThe Mac Studio with M5 Ultra is a small powerhouse PC with strong performance, fast memory throughput, and the ability to run AI models locally (if that's your thing).\n\n+ M5 Ultra delivers powerful performance\n\n+ 1.2 TB/s memory throughput is excellent for local AI models\n\n- Pricey memory and SSD upgrades\n\n- Not upgradeable after purchase\n\nWhy you can trust Tom's Hardware Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test .\n\nEarlier this year, Apple discontinued the Mac Pro , leaving the Mac Studio as its top-end desktop. With the new M5 Ultra chip, Apple's relatively diminutive syst…",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/AAnvQVv2RtEPAZM6bn2qLW-1999-80.jpg"
+      "Summary": "Apple Mac mini (Late 2026) Review: Strong performance, but losing its grip on value\n\nThe Mac mini’s value proposition has evaporated.\n\nApple’s latest mini machine delivers the generational performance improvements we expect, dampened by the realities of AI price hikes.\n\n+ Strong single- and multi-threaded performance\n\n+ Storage performance improvements over previous M4 model\n\n- Recent price hikes erode the Mac mini’s value proposition\n\n- Memory and storage upgrades are now even pricier\n\nWhy you can trust Tom's Hardware Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test .\n\nIt’s been nearly two years since Apple updated the Mac mini. And for better or worse, things have changed a lot during that tim…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/s2x95KEoYwKtcYp6nc4Tdd-2560-80.jpg"
     },
     {
       "Title": "A 400mm camera add-on and 4K/240fps video make this Pro Max flagship a serious video camera",
@@ -8652,15 +8787,6 @@
       "ImageURL": "https://cdn.mos.cms.futurecdn.net/YT8szWTawNgyAr5wNtX4gh-1920-80.jpg"
     },
     {
-      "Title": "China's open-weight AI models are now just 4 months behind frontier US offerings, Mozilla report claims — models still lag in some benchmarks but are drastically cheaper to use",
-      "Link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use",
-      "Published": "2026-09-16T10:15:00Z",
-      "Source": "Tom's Hardware",
-      "Category": "Tech Industry",
-      "Summary": "China's open-weight AI models are now just 4 months behind frontier US offerings, Mozilla report claims — models still lag in some benchmarks but are drastically cheaper to use\n\nBehind, but at a fraction of the price\n\nChina's open-weight AI models are now just 4 months behind frontier US offerings, Mozilla report claims — models still lag in some benchmarks but are drastically cheaper to use\n\nBehind, but at a fraction of the price\n\n(Image credit: Getty / Bloomberg) Copy link\n\n0 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter Mozilla has published version 1.1 of its State of Open Source AI report on Sept. 15 using data current to Sept. 1, revealing that many of the best Chinese open-weight AI models are closing the gap with U.S. …",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/QGnsfcy2NbHpJXXmvjHVJk-2000-80.jpg"
-    },
-    {
       "Title": "Devastated father says his 9-year-old son spent $118,000 on YouTube ad campaigns for his Minecraft channel using a company credit card — bill racked up in just three weeks was supposed to be one $20 promotion",
       "Link": "https://www.tomshardware.com/video-games/devastated-father-says-his-9-year-old-son-spent-usd118-000-on-youtube-ad-campaigns-for-his-minecraft-channel-using-a-company-credit-card-bill-racked-up-in-just-three-weeks-was-supposed-to-be-one-usd20-promotion",
       "Published": "2026-09-16T10:15:00Z",
@@ -8668,6 +8794,15 @@
       "Category": "Video Games",
       "Summary": "Devastated father says his 9-year-old son spent $118,000 on YouTube ad campaigns for his Minecraft channel using a company credit card — bill racked up in just three weeks was supposed to be one $20 promotion\n\nThe button said approved every time as nobody had set a limit.\n\nDevastated father says his 9-year-old son spent $118,000 on YouTube ad campaigns for his Minecraft channel using a company credit card — bill racked up in just three weeks was supposed to be one $20 promotion\n\nThe button said approved every time as nobody had set a limit.\n\n(Image credit: Mojang/Microsoft) Copy link\n\n29 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter A father says his 9-year-old son spent $118,000 on YouTube ad campaigns for his Minecraft and R…",
       "ImageURL": "https://cdn.mos.cms.futurecdn.net/WqT4qfqpykFX5WJnw9SPtM-889-80.png"
+    },
+    {
+      "Title": "China's open-weight AI models are now just 4 months behind frontier US offerings, Mozilla report claims — models still lag in some benchmarks but are drastically cheaper to use",
+      "Link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use",
+      "Published": "2026-09-16T10:15:00Z",
+      "Source": "Tom's Hardware",
+      "Category": "Tech Industry",
+      "Summary": "China's open-weight AI models are now just 4 months behind frontier US offerings, Mozilla report claims — models still lag in some benchmarks but are drastically cheaper to use\n\nBehind, but at a fraction of the price\n\nChina's open-weight AI models are now just 4 months behind frontier US offerings, Mozilla report claims — models still lag in some benchmarks but are drastically cheaper to use\n\nBehind, but at a fraction of the price\n\n(Image credit: Getty / Bloomberg) Copy link\n\n0 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter Mozilla has published version 1.1 of its State of Open Source AI report on Sept. 15 using data current to Sept. 1, revealing that many of the best Chinese open-weight AI models are closing the gap with U.S. …",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/QGnsfcy2NbHpJXXmvjHVJk-2000-80.jpg"
     },
     {
       "Title": "Creality Unveils Its First \"KliTek\" Nozzle-Changing 3D Printer: the Four-Nozzle Creality K3",
@@ -8866,141 +9001,6 @@
       "Category": "Tab Mini C",
       "Summary": "Onyx Boox Note Mini C is now available for $549\n\nThe Note Mini C is a highly portable reMarkable alternative for those who want Google Play and the ability to install apps.\n\nThe BOOX Note Mini C is a newly announced compact, 8.52-inch color E Ink tablet. It launched alongside the larger Note Air6 C and the phone-sized Palma 3 and Picco. It is designed for professionals and students who need a portable, one-handed digital notebook for working on the go.\n\nThe BOOX Note Mini C features an 8.52-inch Kaleido 3 color E Ink display that delivers 4,096 vibrant colors with a crisp 300 ppi resolution for black-and-white text. This compact screen is covered by flat glass and includes a dual-tone front light for comfortable reading in any environment. Designed for effortless one-handed use and on-the-…",
       "ImageURL": "https://media.goodereader.com/blog/uploads/images/2026/09/16030648/00_banner_386fe564-91cb-4bc8-87a8-bd45cb005c9b.webp"
-    },
-    {
-      "Title": "Android Auto is finally letting you ditch that boring blue arrow straight from your dashboard",
-      "Link": "https://www.androidauthority.com/google-maps-android-auto-driving-avatar-rollout-3711764/",
-      "Published": "2026-09-16T07:00:59Z",
-      "Source": "Android Authority",
-      "Category": "Google Maps",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "OpenMANET – A higher-bandwidth Meshtastic alternative leveraging 802.11ah WiFi HaLow",
-      "Link": "https://www.cnx-software.com/2026/09/16/openmanet-a-higher-bandwidth-meshtastic-alternative-leveraging-802-11ah-wifi-halow/",
-      "Published": "2026-09-16T07:00:04Z",
-      "Source": "CNX Software",
-      "Category": "seeed studio",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "Onyx Boox Announces the Palma 3 e-reader",
-      "Link": "https://goodereader.com/blog/onyx-boox/onyx-boox-announces-the-palma-3-e-reader",
-      "Published": "2026-09-16T06:58:08Z",
-      "Source": "Good e-Reader",
-      "Category": "onyx boox palma 3",
-      "Summary": "Onyx Boox Announces the Palma 3 e-reader\n\nBOOX officially launched the BOOX Palma 3, its newly redesigned, pocketable e-reader. The device brings a highly anticipated premium hardware overhaul, modern software updates, and active stylus support.\n\nThe BOOX Palma 3 was officially unveiled on September 15, 2026. The pocket-sized, smartphone-format e-reader introduces key upgrades to the Palma lineup, including a premium material redesign, active stylus support, and a modernized operating system. The device is launched at a retail price of $339.99 USD from the BOOX store.\n\nThe BOOX Palma 3 features a premium redesign, stepping away from plastic for a durable anodized aluminum frame and a textured fiberglass backplate. It retains its pocket-friendly 6.13-inch monochrome E Ink Carta 1200 display…",
-      "ImageURL": "https://media.goodereader.com/blog/uploads/images/2026/09/16025647/palma3_1.webp"
-    },
-    {
-      "Title": "Onyx Boox Picco Now Available for $99",
-      "Link": "https://goodereader.com/blog/onyx-boox/onyx-boox-picco-now-available-for-99",
-      "Published": "2026-09-16T06:51:40Z",
-      "Source": "Good e-Reader",
-      "Category": "picco",
-      "Summary": "Onyx Boox Picco Now Available for $99\n\nThe Onyx Boox Picco is now available to order on the BOOX website for $99, a good deal for a bare-bones e-reader.\n\nOnyx Boox Picco is a new ultra-compact, pocket-sized 3.97-inch e-reader officially announced today and is available to order for $99.00. The device is positioned as a highly portable “companion device” for reading in spare moments rather than a primary e-reader; it competes directly with XTEINK.\n\nThe Picco features a 3.97″ Monochrome Screen with a resolution of 480 x 800 and 235 PPI. It has both warm and cool lighting that you can switch with a button. Under the hood is an unknown processor, with a 16 GB Card Included, which is expandable to 2 TB. All data and e-books are stored on the card. It does not include a USB-C cable for data tran…",
-      "ImageURL": "https://media.goodereader.com/blog/uploads/images/2026/09/16025037/Screenshot-2026-09-15-at-114915-PM-copy.png"
-    },
-    {
-      "Title": "Apple claims the iPhone 18 Pro camera is more secure than your Android",
-      "Link": "https://www.androidauthority.com/apple-reference-image-vs-android-c2pa-3711734/",
-      "Published": "2026-09-16T05:39:30Z",
-      "Source": "Android Authority",
-      "Category": "Google Pixel 11",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "A Super-Accurate Clock Using a Tiny Microcontroller",
-      "Link": "https://hackaday.com/2026/09/15/a-super-accurate-clock-using-a-tiny-microcontroller/",
-      "Published": "2026-09-16T05:00:10Z",
-      "Source": "Hackaday",
-      "Category": "radio clock",
-      "Summary": "A Super-Accurate Clock Using a Tiny Microcontroller\n\nDCF77 is a German VLF transmitting station that broadcasts a time signal across Europe on 77.5 kHz. Thus a common sight in a European home is a clock emblazoned with the words “Radio controll…\n\nDCF77 is a German VLF transmitting station that broadcasts a time signal across Europe on 77.5 kHz. Thus a common sight in a European home is a clock emblazoned with the words “Radio controlled”. With the timing broadcast in a simple and low speed digital format it doesn’t require the greatest of hardware to decode, and a small microcontroller can handle the task with ease. And there are few smaller than an ATtiny as used in [kwolf1909]’s decoder . It takes a DCF77 bitstream from a receiver, and shows the time on an I2C display.\n\nThe receiver isn’…",
-      "ImageURL": "https://hackaday.com/wp-content/uploads/2026/09/attiny814-featured.jpg"
-    },
-    {
-      "Title": "Sonnet Launches Thunderbolt 5 eGPU Box with 850 W PSU and Triple-Slot GPU Support",
-      "Link": "https://www.techpowerup.com/352743/sonnet-launches-thunderbolt-5-egpu-box-with-850-w-psu-and-triple-slot-gpu-support",
-      "Published": "2026-09-16T04:38:44Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "You can now have a conversation with your Gemini Notebook in nearly 100 languages",
-      "Link": "https://www.androidauthority.com/gemini-notebook-new-features-september-2026-3711726/",
-      "Published": "2026-09-16T04:12:46Z",
-      "Source": "Android Authority",
-      "Category": "NotebookLM",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "Mchose A7 V3-Series Gaming Mice Launch: PAW 3955 and Nordic 54L for $79",
-      "Link": "https://www.techpowerup.com/352742/mchose-a7-v3-series-gaming-mice-launch-paw-3955-and-nordic-54l-for-usd-79",
-      "Published": "2026-09-16T03:08:46Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "Google details September Wear OS update for Pixel Watch 2, Pixel Watch 3, and Pixel Watch 4",
-      "Link": "https://www.androidauthority.com/google-pixel-watch-september-wear-os-update-3711720/",
-      "Published": "2026-09-16T02:04:31Z",
-      "Source": "Android Authority",
-      "Category": "Google Pixel Watch 5",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "BOOX debuts three new E-Ink tablets, including a pair of stylus-equipped Note models",
-      "Link": "https://www.androidauthority.com/boox-note-air6-c-3711609/",
-      "Published": "2026-09-16T02:00:28Z",
-      "Source": "Android Authority",
-      "Category": "eReader",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "Amazon Big Deal Deals Starts October 6th",
-      "Link": "https://goodereader.com/blog/amazon-news/amazon-big-deal-deals-starts-october-6th",
-      "Published": "2026-09-16T00:34:14Z",
-      "Source": "Good e-Reader",
-      "Category": "prime day october",
-      "Summary": "Amazon Big Deal Deals Starts October 6th\n\nAmazon has announced some early deals for the Big Deals Page; the event will kick off on October 6th.\n\nAmazon’s Prime Big Deal Days 2026 is shaping up to be a highly strategic, 48-hour shopping event scheduled for Tuesday, October 6, through Wednesday, October 7, 2026. Functioning as the true kickoff to the Q4 holiday shopping momentum, early reviews from major consumer outlets note that while the summer Prime Day event remains larger, this October iteration serves as a powerful preview for Black Friday pricing, particularly on small appliances, robot vacuums, and Amazon hardware\n\nCurl up this fall with great reads—get three months free of Kindle Unlimited to dive into trending series like Dungeon Crawler Carl by Matt Dinniman and The Empyrean by R…",
-      "ImageURL": "https://media.goodereader.com/blog/uploads/images/2026/09/15203218/pbdd-2026-earlydeals-hero-v3-lm.jpg"
-    },
-    {
-      "Title": "CDPR Wants The Witcher 3 Remastered to Feel Like a Modern Release",
-      "Link": "https://www.techpowerup.com/352741/cdpr-wants-the-witcher-3-remastered-to-feel-like-a-modern-release",
-      "Published": "2026-09-16T00:14:23Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "XTEINK S4 is available now with USB-C and a front-light",
-      "Link": "https://goodereader.com/blog/electronic-readers/xteink-s4-is-available-now-with-usb-c-and-a-front-light",
-      "Published": "2026-09-16T00:03:45Z",
-      "Source": "Good e-Reader",
-      "Category": "XTEINK s4",
-      "Summary": "XTEINK S4 is available now with USB-C and a front-light\n\nThe XTEINK S4 is highly praised by reviewers as the ultimate pocket e-reader for its ultra-compact, MagSafe-compatible design, an open Android 11 OS that supports popular reading apps, and the much-needed addition of an adjustable front light.\n\nThe XTEINK S4 is an upcoming 4.3-inch pocket e-ink e-reader from Chinese tech startup Xteink. Serving as the highly anticipated successor to the ultra-thin XTEINK X4, the S4 shifts from a proprietary Linux-based OS to an open Android 11 platform. This change allows readers to natively sideload Android APKs like Kindle, Kobo, and KOReader.\n\nThe XTEINK S4 is a pocket-sized e-reader with a 4.3-inch E-ink touchscreen at 220 PPI, built into a compact frame that weighs just 95 grams and measures 6.9…",
-      "ImageURL": "https://media.goodereader.com/blog/uploads/images/2026/09/15200335/xteink-s4-is-coming-v0-bl9uwizfhywg1.webp"
-    },
-    {
-      "Title": "CVITEK CV1842H-P-based edge AI camera module offers night vision and AI-ISP support (Crowdfunding)",
-      "Link": "https://www.cnx-software.com/2026/09/16/cvitek-cv1842h-p-based-edge-ai-camera-module-offers-night-vision-and-ai-isp-support/",
-      "Published": "2026-09-16T00:00:55Z",
-      "Source": "CNX Software",
-      "Category": "tinyml",
-      "Summary": "",
-      "ImageURL": ""
     }
   ]
 }
