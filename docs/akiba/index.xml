@@ -1,6 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Tue, 22 Sep 2026 14:52:56 +0000</lastBuildDate>
+<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Tue, 22 Sep 2026 18:53:56 +0000</lastBuildDate>
+<item><title>【Windows11】 WindowsUpdate 2026年9月 不具合情報 - プレビューリリース KB5124010 ファイル履歴の不具合修正など</title><link>https://www.nichepcgamer.com/archives/windows11-windows-update-preview-2026-9-kb5124010.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/windows11-windows-update-preview-2026-9-kb5124010.html</guid><pubDate>Tue, 22 Sep 2026 18:00:32 +0000</pubDate><description><![CDATA[<p>【Windows11】 WindowsUpdate 2026年9月 不具合情報 - プレビューリリース KB5124010 ファイル履歴の不具合修正など
+
+日本時間で2026年9月23日にWindowsUpdateに配信されたWindows11 25H2およびWindows11 24H2用更新プログラムKB5124010の不具合情報です。 月例の翌々週...
+
+日本時間で2026年9月23日にWindowsUpdateに配信されたWindows11 25H2およびWindows11 24H2用更新プログラムKB5124010の不具合情報です。
+
+月例の翌々週以降に公開・配信される更新プログラムは『プレビューリリース』(または『プレビュー更新プログラム』)と呼ばれており、新たなセキュリティアップデートを含んでおらず、不具合の修正や機能の追加・改善のみの更新プログラムとなっています。特に問題がなければ次の月例に同梱されます。
+
+『プレビューリリース』は文字通りに早期公開のプレビュー版なため、すぐにでも適用したい不具合の修正がない場合や、実験台になりたくない場合はスルーを推奨いたします。
+
+以下、Windows11 25H2 / Windows11 24H2用KB5124010の不具合およびその回避策・解決策になります。
+
+Windows11 25H2 / Windows11 24H2用プレビューリリース: KB5124010
+
+KB5124010はWindows11 バージョン25H2およびWindows11 バージョン24H2用のプレビューリリースと呼ばれる累積更新プログラムです。この更新プログラムを適用することで、機能の追加・改善や不具合の修正などが施されます。ただし、あくまでもプレビュー版であることには注意が必要です。
+
+この更新プログラムに新たな脆弱性の修正は含まれてお…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2021/10/windows11-windowsupdate-exclamation.png" alt="【Windows11】 WindowsUpdate 2026年9月 不具合情報 - プレビューリリース KB5124010 ファイル履歴の不具合修正など"></p>]]></description><source url="https://www.nichepcgamer.com/archives/windows11-windows-update-preview-2026-9-kb5124010.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2021/10/windows11-windowsupdate-exclamation.png" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2021/10/windows11-windowsupdate-exclamation.png"/></item>
+<item><title>Claude Opus 5.5発表！性能はFable 5.1級、実行コスト4割減</title><link>https://smhn.info/202609-anthropic-claude-opus-5-5-launch-cost</link><guid isPermaLink="true">https://smhn.info/202609-anthropic-claude-opus-5-5-launch-cost</guid><pubDate>Tue, 22 Sep 2026 17:10:57 +0000</pubDate><description><![CDATA[<p>Claude Opus 5.5発表！性能はFable 5.1級、実行コスト4割減
+
+Anthropicは、新型AIモデル「Claude Opus 5.5」を発表しました。Claude 5.5シリーズの第1弾にあたり、多くの作業でClaude Fable 5.1と同水準の性能を確保しつつ、典型的な業務の実行コストをOpus 5より40％低く抑えたとしています。定額...
+
+Claude Opus 5.5発表！性能はFable 5.1級、実行コスト4割減
+
+Anthropicは、新型AIモデル「Claude Opus 5.5」を発表しました。Claude 5.5シリーズの第1弾にあたり、多くの作業でClaude Fable 5.1と同水準の性能を確保しつつ、典型的な業務の実行コストをOpus 5より40％低く抑えたとしています。
+
+定額プランにも変更が入りました。Pro、Max、Teamでは5時間あたりの利用上限が引き上げられたほか、サブスクリプション利用者には利用制限のリセット機能を提供。すぐに消費せずストックしておき、必要なタイミングで使えるようにしています。ChatGPT Codexの「リセットチケット」みたいで良さそうですね。
+
+回復するのはチケットに表示された5時間あたりの利用枠、または週間の利用枠です。上限に達する前でも使え、週間枠の通常のリセット曜日・時刻は変わりません。有効期限がある場合は設定画面に表示されるため、使う前に対象の枠と期限を確認しておきたいところです。
+
+使用するには、ブラウザかClaude Desktopで「Settings」の「Usage」を開き、「Resets」欄の「Reset for free」から実行します。スマホ版やターミナル・IDE内のClaude Codeには現時点でこのボタンがありませんが、利用枠はアカウント内で共通なので、リセッ…</p><p><img src="https://smhn.info/wp-content/uploads/2026/09/9102c852976a42c32b921e638571127d.webp" alt="Claude Opus 5.5発表！性能はFable 5.1級、実行コスト4割減"></p>]]></description><source url="https://smhn.info/202609-anthropic-claude-opus-5-5-launch-cost">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/09/9102c852976a42c32b921e638571127d.webp" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/09/9102c852976a42c32b921e638571127d.webp"/></item>
+<item><title>iOS27からiOS26へダウングレード不可に～今アップデートを迷う人が知るべきこと</title><link>https://iphone-mania.jp/ios-606515/</link><guid isPermaLink="true">https://iphone-mania.jp/ios-606515/</guid><pubDate>Tue, 22 Sep 2026 16:37:24 +0000</pubDate><description><![CDATA[<p>iOS27からiOS26へダウングレード不可に～今アップデートを迷う人が知るべきこと
+
+iOS26で最後まで署名が続いていたとみられるiOS26.6.2について、Appleが署名を停止しました。これにより、iOS27からiOS26へのダウングレードができなくなっています。iOS27と同時に配信されたiOS2 […]
+
+iOS27からiOS26へダウングレード不可に～今アップデートを迷う人が知るべきこと
+
+iOS26で最後まで署名が続いていたとみられるiOS26.6.2について、Appleが署名を停止しました。これにより、 iOS27からiOS26へのダウングレードができなくなっています 。iOS27と同時に配信されたiOS26.7も、戻り先にはなりません。本記事では、署名停止で何が起きるのかを分かりやすく整理し、iOS26を使い続けている人とiOS27へアップデート済みの人に向けて、それぞれ確認したいポイントを解説します。
+
+報道時点では、 Appleが提供する正規の方法でiOS27からiOS26へダウングレードする手段はありません 。海外メディアが現地時間9月21日に報じた内容で、iOS27の配信開始から約1週間が経過した時点の情報です。
+
+大型アップデートの直後は、動作の重さや一部アプリの不具合を理由に、前のバージョンへ戻したいと考える人もいます。今回の署名停止によって、そうした人は戻る道を失いました。
+
+一方、iOS27をまだインストールしていないiPhoneは、 引き続きiOS26のまま使えます 。影響が及ぶのは主にアップデート済みの人であり、様子見を続けている人が慌てて対応する必要はなさそうです。
+
+iOSの「署名」とは、 Appleがインストールを許可しているかどうかを確かめる仕組み を指します。インストール時にAppleのサーバーが確認を行い、確認を通過しない…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/23/d08e3012bf0d9c645a748e228e349d92.png" alt="iOS27からiOS26へダウングレード不可に～今アップデートを迷う人が知るべきこと"></p>]]></description><source url="https://iphone-mania.jp/ios-606515/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/23/d08e3012bf0d9c645a748e228e349d92.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/23/d08e3012bf0d9c645a748e228e349d92.png"/></item>
+<item><title>MediaTekがノートPC市場へ、Googlebook向け「Dimensity CX」第1弾は55TOPS</title><link>https://www.gdm.or.jp/pressrelease/2026/0923/653375</link><guid isPermaLink="true">https://www.gdm.or.jp/pressrelease/2026/0923/653375</guid><pubDate>Tue, 22 Sep 2026 15:00:44 +0000</pubDate><description><![CDATA[<p>MediaTekがノートPC市場へ、Googlebook向け「Dimensity CX」第1弾は55TOPS
+
+MediaTek、Googlebook向けSoCブランド「Dimensity CX」を始動。第1弾の「C10 Max」は第2世代3nmプロセスを採用し、8コアCPUや11コアGPU、最大55TOPSのNPUを統合する。
+
+MediaTekがノートPC市場へ、Googlebook向け「Dimensity CX」第1弾は55TOPS
+
+第2世代3nmプロセス採用のフラッグシップSoC「Dimensity CX C10 Max」
+
+MediaTek（本社：台湾・新竹市）は2026年9月21日（現地時間）、Googlebook向けSoC 「Dimensity CX C10 Max」 を発表した。ノートPC向けに展開する新ブランド 「Dimensity Compute Experiences（CX）」 の第1弾で、プレミアムクラスの薄型Googlebookへの搭載を想定する。
+
+TSMCの第2世代3nmプロセスで製造され、CPUには高性能コアのみで構成する「All Big Core」設計を採用。最大3.73GHz動作のArm Cortex-X925 ×1、Cortex-X4 ×3、Cortex-A720 ×4による8コア構成で、12MBのL3キャッシュと10MBのシステムレベルキャッシュを内蔵する。
+
+GPUは11コアの「Arm Immortalis-G925 MC11」を統合。4K/60fpsの10bit AV1、VP9、HEVC、AVCデコードなどに対応し、内蔵ディスプレイは最大4K/60Hz、外部出力では最大2画面の4K表示をサポートする。
+
+AI処理を担う第8世代NPU「MediaTek NPU 890」は、最大55TOPSの演算性能を実現。GooglebookのG…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/09/22/Dimensity_CX_C10_Max_003.jpg" alt="MediaTekがノートPC市場へ、Googlebook向け「Dimensity CX」第1弾は55TOPS"></p>]]></description><source url="https://www.gdm.or.jp/pressrelease/2026/0923/653375">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/09/22/Dimensity_CX_C10_Max_003.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/09/22/Dimensity_CX_C10_Max_003.jpg"/></item>
 <item><title>Pixel 11 Pro XLの原神、ANGLE無効化でカクつき改善との検証</title><link>https://smhn.info/202609-pixel-11-pro-xl-genshin-angle-stutter</link><guid isPermaLink="true">https://smhn.info/202609-pixel-11-pro-xl-genshin-angle-stutter</guid><pubDate>Tue, 22 Sep 2026 14:25:18 +0000</pubDate><description><![CDATA[<p>Pixel 11 Pro XLの原神、ANGLE無効化でカクつき改善との検証
 
 Googleの高額な最新ハイエンドスマートフォンではリッチなタイトルが動作しないと話題になりましたが、微かな希望となる対策が登場しました。Pixel 11 Pro XLで「原神」の描画設定を変更したところ、細かな引っかかりを伴うマイクロスタッターが改善したとAndroid Aut...
@@ -1643,6 +1703,19 @@ A520M-A PRO (AMD A520チップセットマザーボード) 約10元値上げ(約
 このうち『PRO B760M-B DDR4』『PRO H610M-S DDR4 II』は日本未発売となっており、日本で影響があるのは『A520M-A PRO』のみとなっています。
 
 また、値上げ幅はわずか約230円のため、小売価格への影響は小さなものにな…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2026/07/msi-top.jpg" alt="MSI、新たにいくつかのマザーボード卸価格を値上げとの情報。影響は小さめ"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-132305.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2026/07/msi-top.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2026/07/msi-top.jpg"/></item>
+<item><title>Core i5-10210Uを搭載したHP製15.6型ノートPCが10%オフで25,740円、Qualitの中古Cランク品セール</title><link>https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2141897.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2141897.html</guid><pubDate>Mon, 21 Sep 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>Core i5-10210Uを搭載したHP製15.6型ノートPCが10%オフで25,740円、Qualitの中古Cランク品セール
+
+Core i5-10210U(4コア/8スレッド)を搭載したHP製15.6型ノートPC「ProBook 450 G7」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で期間限定セール中。
+
+Core i5-10210Uを搭載したHP製15.6型ノートPCが10%オフで25,740円、Qualitの中古Cランク品セール
+
+Core i5-10210U(4コア/8スレッド)を搭載したHP製15.6型ノートPC「ProBook 450 G7」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で期間限定セール中 。
+
+今回販売されているのは、「傷や使用感が見られる」(同店)というCランク中古品で、販売価格は25,740円。保証期間は12か月で、「バッテリーテストを実施したところ、80%以上の結果を出したモデル」とのこと。
+
+主な仕様は、ディスプレイ解像度が1,366×768ドット、メモリが8GB(空きスロット×1)、ストレージが500GB SATA HDD、OSがWindows 11 Pro。インターフェイスには、HDMIやUSB 3.1 Type-C、SDカードスロットなどを備えるほか、Webカメラや無線LAN機能、指紋認証機能を搭載しています。
+
+セール期間は9月30日までとなっています。興味がある方はチェックしてみてください。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2141/897/a1.jpg" alt="Core i5-10210Uを搭載したHP製15.6型ノートPCが10%オフで25,740円、Qualitの中古Cランク品セール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2141897.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2141/897/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2141/897/a1.jpg"/></item>
 <item><title>GIGABYTE�Υ����ߥ󥰥֥����ɡ�AORUS�ץ֡����ǡ��ǿ��ΥΡ���PC��ͭ��EL�ǥ����ץ쥤���Ȥäƥ��������θ���TGS2026�ϡ�PR��</title><link>https://www.4gamer.net/games/259/G025981/20260919012/</link><guid isPermaLink="true">https://www.4gamer.net/games/259/G025981/20260919012/</guid><pubDate>Mon, 21 Sep 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>GIGABYTE�Υ����ߥ󥰥֥����ɡ�AORUS�ץ֡����ǡ��ǿ��ΥΡ���PC��ͭ��EL�ǥ����ץ쥤���Ȥäƥ��������θ���TGS2026�ϡ�PR��
 
 ゲーミングPCから各種PCパーツまで，多彩な製品を展開しているGIGABYTEが，TGS2026にゲーマー向け製品ブランド「AORUS」のブースを出展していた。AORUSブースから，見どころの多い最…
@@ -1658,19 +1731,6 @@ GIGABYTEのゲーミングブランド「AORUS」ブースで，最新のノー�
 ↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
 
 ↓アイコン/タイトル↓ 10年前の4Gamer人気記事を…</p><p><img src="https://www.4gamer.net/games/259/G025981/20260919012/SS/037.jpg" alt="GIGABYTE�Υ����ߥ󥰥֥����ɡ�AORUS�ץ֡����ǡ��ǿ��ΥΡ���PC��ͭ��EL�ǥ����ץ쥤���Ȥäƥ��������θ���TGS2026�ϡ�PR��"></p>]]></description><source url="https://www.4gamer.net/games/259/G025981/20260919012/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/259/G025981/20260919012/SS/037.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/259/G025981/20260919012/SS/037.jpg"/></item>
-<item><title>Core i5-10210Uを搭載したHP製15.6型ノートPCが10%オフで25,740円、Qualitの中古Cランク品セール</title><link>https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2141897.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2141897.html</guid><pubDate>Mon, 21 Sep 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>Core i5-10210Uを搭載したHP製15.6型ノートPCが10%オフで25,740円、Qualitの中古Cランク品セール
-
-Core i5-10210U(4コア/8スレッド)を搭載したHP製15.6型ノートPC「ProBook 450 G7」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で期間限定セール中。
-
-Core i5-10210Uを搭載したHP製15.6型ノートPCが10%オフで25,740円、Qualitの中古Cランク品セール
-
-Core i5-10210U(4コア/8スレッド)を搭載したHP製15.6型ノートPC「ProBook 450 G7」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で期間限定セール中 。
-
-今回販売されているのは、「傷や使用感が見られる」(同店)というCランク中古品で、販売価格は25,740円。保証期間は12か月で、「バッテリーテストを実施したところ、80%以上の結果を出したモデル」とのこと。
-
-主な仕様は、ディスプレイ解像度が1,366×768ドット、メモリが8GB(空きスロット×1)、ストレージが500GB SATA HDD、OSがWindows 11 Pro。インターフェイスには、HDMIやUSB 3.1 Type-C、SDカードスロットなどを備えるほか、Webカメラや無線LAN機能、指紋認証機能を搭載しています。
-
-セール期間は9月30日までとなっています。興味がある方はチェックしてみてください。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2141/897/a1.jpg" alt="Core i5-10210Uを搭載したHP製15.6型ノートPCが10%オフで25,740円、Qualitの中古Cランク品セール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2141897.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2141/897/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2141/897/a1.jpg"/></item>
 <item><title>�����Υ饤���󥹤������ʤ�27�ФΥܥ��ɤ�IO Interactive�Ϥɤ��������Τ�����007 �ե������ȡ��饤�ȡ׳�ȯ�ԥ��󥿥ӥ塼��TGS2026��</title><link>https://www.4gamer.net/games/916/G091663/20260921008/</link><guid isPermaLink="true">https://www.4gamer.net/games/916/G091663/20260921008/</guid><pubDate>Mon, 21 Sep 2026 02:53:40 +0000</pubDate><description><![CDATA[<p>�����Υ饤���󥹤������ʤ�27�ФΥܥ��ɤ�IO Interactive�Ϥɤ��������Τ�����007 �ե������ȡ��饤�ȡ׳�ȯ�ԥ��󥿥ӥ塼��TGS2026��
 
 「HITMAN」シリーズで知られるIO Interactiveが，ジェームズ・ボンドを題材に手がけた「007 ファースト・ライト」。描かれるのは，まだ殺しのライセンスを持たない27歳のボンドだ。東京…
@@ -4071,23 +4131,6 @@ Microsoftは2026年8月下旬にこの不具合を認め、 既知の不具合�
 Microsoftによるとこの不具合は、 2026年9月17日(米国時間)にリリースされた『マルウェア対策クライアントのバージョン: 4.18.26080.4』にて修正されたとのこと。
 
 Windows Updateを実行、または『Windows セキュリティ』 → 『ウイルスと脅威の防止』 → 『ウイルスと脅威の防止の更新』 → 『保護の更新』 → 『更新プログラムをチェック』すれば…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2026/08/microsoft-defender-1200.jpg" alt="MS、Microsoft Defenderの不具合を修正。誤って「ウイルス対策が無効になっています」と表示される問題が解決"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-132354.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2026/08/microsoft-defender-1200.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2026/08/microsoft-defender-1200.jpg"/></item>
-<item><title>Thermaltakeの曲面強化ガラス採用ケース「Arcus 190 TG ARGB」「Arcus 290 TG ARGB」が登場</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2142007.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2142007.html</guid><pubDate>Fri, 18 Sep 2026 15:05:00 +0000</pubDate><description><![CDATA[<p>Thermaltakeの曲面強化ガラス採用ケース「Arcus 190 TG ARGB」「Arcus 290 TG ARGB」が登場
-
-曲面強化ガラスパネルを採用したThermaltakeのピラーレスPCケース「Arcus 190 TG ARGB Black」と「Arcus 290 TG ARGB Black」が登場した。前者はmicroATX対応のミニタワー、後者はATX対応のミドルタワーモデル。
-
-Thermaltakeの曲面強化ガラス採用ケース「Arcus 190 TG ARGB」「Arcus 290 TG ARGB」が登場
-
-曲面強化ガラスパネルを採用したThermaltakeのピラーレスPCケース「Arcus 190 TG ARGB Black」と「Arcus 290 TG ARGB Black」が登場した。前者はmicroATX対応のミニタワー、後者はATX対応のミドルタワーモデル。
-
-Amazon.co.jpの価格は順に16,142円、18,162円。
-
-インフィニティミラー内蔵ARGBファンを3基搭載したピラーレスPCケース
-
-これらは、フロントから左サイドにかけて1枚の曲面強化ガラスパネルを搭載したピラーレスデザインのPCケース。
-
-両モデルともに、右側面に120mmアドレサブルRGBリバースファン×2、背面に120mmアドレサブルRGBファン×1を標準搭載。各ファンの軸部分とフレームサイドにインフィニティミラーを備え、電源カバー部のスリットにもアドレサブルRGB LEDを内蔵している。
-
-搭載可能なファン数は共通で、上面が120mm×3または140mm×2、右側面が120mm×2、背面が120/140mm×1、電源カバー部が120mm×3。水冷ラジエーターは、上面に120mm/140mm/240mm/280mm/360mmサイズを搭載でき、右側面はArcu…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2142/007/aaa.jpg" alt="Thermaltakeの曲面強化ガラス採用ケース「Arcus 190 TG ARGB」「Arcus 290 TG ARGB」が登場"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2142007.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2142/007/aaa.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2142/007/aaa.jpg"/></item>
 <item><title>A20 ProはA19 Proと同サイズ〜GPU増加分に2nm効果か</title><link>https://iphone-mania.jp/iphone18-606151/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-606151/</guid><pubDate>Fri, 18 Sep 2026 15:05:00 +0000</pubDate><description><![CDATA[<p>A20 ProはA19 Proと同サイズ〜GPU増加分に2nm効果か
 
 iPhone18 Proシリーズに搭載されているA20 Proのダイ写真を、Kurnal氏（＠Kurnalsalts）がX（旧Twitter）に投稿しました。
@@ -4111,6 +4154,23 @@ A17 ProはTSMCのN3B、A18 ProはN3E、A19 ProはN3Pで製造されており、�
 ただし、A19 ProのGPUコア数が6コアだったのに対し、 A20 Proは7コアへ増加 しています。
 
 TSMCの2nmプロセスはウェハ単価が高額と噂されていますが、Appleはダイ面積をさらに縮小するよりも…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/18/A20-Pro-die-shot_3.jpg" alt="A20 ProはA19 Proと同サイズ〜GPU増加分に2nm効果か"></p>]]></description><source url="https://iphone-mania.jp/iphone18-606151/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/18/A20-Pro-die-shot_3.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/18/A20-Pro-die-shot_3.jpg"/></item>
+<item><title>Thermaltakeの曲面強化ガラス採用ケース「Arcus 190 TG ARGB」「Arcus 290 TG ARGB」が登場</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2142007.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2142007.html</guid><pubDate>Fri, 18 Sep 2026 15:05:00 +0000</pubDate><description><![CDATA[<p>Thermaltakeの曲面強化ガラス採用ケース「Arcus 190 TG ARGB」「Arcus 290 TG ARGB」が登場
+
+曲面強化ガラスパネルを採用したThermaltakeのピラーレスPCケース「Arcus 190 TG ARGB Black」と「Arcus 290 TG ARGB Black」が登場した。前者はmicroATX対応のミニタワー、後者はATX対応のミドルタワーモデル。
+
+Thermaltakeの曲面強化ガラス採用ケース「Arcus 190 TG ARGB」「Arcus 290 TG ARGB」が登場
+
+曲面強化ガラスパネルを採用したThermaltakeのピラーレスPCケース「Arcus 190 TG ARGB Black」と「Arcus 290 TG ARGB Black」が登場した。前者はmicroATX対応のミニタワー、後者はATX対応のミドルタワーモデル。
+
+Amazon.co.jpの価格は順に16,142円、18,162円。
+
+インフィニティミラー内蔵ARGBファンを3基搭載したピラーレスPCケース
+
+これらは、フロントから左サイドにかけて1枚の曲面強化ガラスパネルを搭載したピラーレスデザインのPCケース。
+
+両モデルともに、右側面に120mmアドレサブルRGBリバースファン×2、背面に120mmアドレサブルRGBファン×1を標準搭載。各ファンの軸部分とフレームサイドにインフィニティミラーを備え、電源カバー部のスリットにもアドレサブルRGB LEDを内蔵している。
+
+搭載可能なファン数は共通で、上面が120mm×3または140mm×2、右側面が120mm×2、背面が120/140mm×1、電源カバー部が120mm×3。水冷ラジエーターは、上面に120mm/140mm/240mm/280mm/360mmサイズを搭載でき、右側面はArcu…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2142/007/aaa.jpg" alt="Thermaltakeの曲面強化ガラス採用ケース「Arcus 190 TG ARGB」「Arcus 290 TG ARGB」が登場"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2142007.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2142/007/aaa.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2142/007/aaa.jpg"/></item>
 <item><title>Intel Arcグラフィックスドライバ 32.0.101.9030 非WHQL公開</title><link>https://www.nichepcgamer.com/archives/intel-arc-graphics-driver-32-0-101-9030-whql.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/intel-arc-graphics-driver-32-0-101-9030-whql.html</guid><pubDate>Fri, 18 Sep 2026 15:03:05 +0000</pubDate><description><![CDATA[<p>Intel Arcグラフィックスドライバ 32.0.101.9030 非WHQL公開
 
 『EA SPORTS FC 27』『SILENT HILL: Townfall』『アニモ』をサポートしたIntel Arcグラフィックスドライバ 32.0.101.9030 非WHQLが公開されまし...
@@ -4162,21 +4222,6 @@ Amazon.co.jp Audibleプレミアムプラン 最初の4か月月額99円！(99�
 プロファイルはCherryプロファイル、スイッチ互換はCherry MX（互換スイッチ）、材質はABS。
 
 Copyright © 2018 Impress Corporation. All rights reserved.</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2142/401/a1.jpg" alt="パステルカラーのキーキャップセット「GMK Divinapapaya CYL BASE」"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2142401.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2142/401/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2142/401/a1.jpg"/></item>
-<item><title>�֥롼���ȥ��å��ޥ��Υ��֥����͸������餫�ˤʤä��֥��å��ޥ󡧥ǥ奢�� �����С��饤�ɡס��ۤʤ�ͷ�Ӥ��������ܻؤ�����ͳ����ȯ�ؤ�ʹ����TGS2026��</title><link>https://www.4gamer.net/games/968/G096894/20260918098/</link><guid isPermaLink="true">https://www.4gamer.net/games/968/G096894/20260918098/</guid><pubDate>Fri, 18 Sep 2026 15:00:00 +0000</pubDate><description><![CDATA[<p>�֥롼���ȥ��å��ޥ��Υ��֥����͸������餫�ˤʤä��֥��å��ޥ󡧥ǥ奢�� �����С��饤�ɡס��ۤʤ�ͷ�Ӥ��������ܻؤ�����ͳ����ȯ�ؤ�ʹ����TGS2026��
-
-東京ゲームショウ2026で日本初のプレイアブル出展となった「ロックマン：デュアル オーバーライド」。もう1人の主人公・ブルースの登場が発表されたばかりの本作について，そのゲーム性やデザインに込めたこ…
-
-ブルースとロックマンのダブル主人公が明らかになった「ロックマン：デュアル オーバーライド」。異なる遊びごたえを目指した理由を開発陣に聞く［TGS2026］ ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
-
-↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコ…</p><p><img src="https://www.4gamer.net/games/968/G096894/20260918098/SS/011.jpg" alt="�֥롼���ȥ��å��ޥ��Υ��֥����͸������餫�ˤʤä��֥��å��ޥ󡧥ǥ奢�� �����С��饤�ɡס��ۤʤ�ͷ�Ӥ��������ܻؤ�����ͳ����ȯ�ؤ�ʹ����TGS2026��"></p>]]></description><source url="https://www.4gamer.net/games/968/G096894/20260918098/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/968/G096894/20260918098/SS/011.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/968/G096894/20260918098/SS/011.jpg"/></item>
 <item><title>�֥��󥹥����ϥ󥿡��磻�륺�����������󥹡פǥ֡����ȥ֥쥤�������ܻؤ��֥����󥹤���ʬ�Ǻ����Ф��״��С������ƥƥ��򺣽Ф���ͳ��TGS2026��</title><link>https://www.4gamer.net/games/013/G101399/20260918089/</link><guid isPermaLink="true">https://www.4gamer.net/games/013/G101399/20260918089/</guid><pubDate>Fri, 18 Sep 2026 15:00:00 +0000</pubDate><description><![CDATA[<p>�֥��󥹥����ϥ󥿡��磻�륺�����������󥹡פǥ֡����ȥ֥쥤�������ܻؤ��֥����󥹤���ʬ�Ǻ����Ф��״��С������ƥƥ��򺣽Ф���ͳ��TGS2026��
 
 TGS 2026の会場で，「モンスターハンターワイルズ：アセンダンス」開発者への合同インタビューを実施した。新要素「ブーストブレイサー」の設計思想や，テオ・テスカトルを今出す理由などを聞いた。
@@ -4192,6 +4237,21 @@ TGS 2026の会場で，「モンスターハンターワイルズ：アセンダ
 ↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
 
 ↓アイコン/タイトル↓ 夏は七不思議ならぬ…</p><p><img src="https://www.4gamer.net/games/013/G101399/20260918089/SS/007.jpg" alt="�֥��󥹥����ϥ󥿡��磻�륺�����������󥹡פǥ֡����ȥ֥쥤�������ܻؤ��֥����󥹤���ʬ�Ǻ����Ф��״��С������ƥƥ��򺣽Ф���ͳ��TGS2026��"></p>]]></description><source url="https://www.4gamer.net/games/013/G101399/20260918089/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/013/G101399/20260918089/SS/007.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/013/G101399/20260918089/SS/007.jpg"/></item>
+<item><title>�֥롼���ȥ��å��ޥ��Υ��֥����͸������餫�ˤʤä��֥��å��ޥ󡧥ǥ奢�� �����С��饤�ɡס��ۤʤ�ͷ�Ӥ��������ܻؤ�����ͳ����ȯ�ؤ�ʹ����TGS2026��</title><link>https://www.4gamer.net/games/968/G096894/20260918098/</link><guid isPermaLink="true">https://www.4gamer.net/games/968/G096894/20260918098/</guid><pubDate>Fri, 18 Sep 2026 15:00:00 +0000</pubDate><description><![CDATA[<p>�֥롼���ȥ��å��ޥ��Υ��֥����͸������餫�ˤʤä��֥��å��ޥ󡧥ǥ奢�� �����С��饤�ɡס��ۤʤ�ͷ�Ӥ��������ܻؤ�����ͳ����ȯ�ؤ�ʹ����TGS2026��
+
+東京ゲームショウ2026で日本初のプレイアブル出展となった「ロックマン：デュアル オーバーライド」。もう1人の主人公・ブルースの登場が発表されたばかりの本作について，そのゲーム性やデザインに込めたこ…
+
+ブルースとロックマンのダブル主人公が明らかになった「ロックマン：デュアル オーバーライド」。異なる遊びごたえを目指した理由を開発陣に聞く［TGS2026］ ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
+
+↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコ…</p><p><img src="https://www.4gamer.net/games/968/G096894/20260918098/SS/011.jpg" alt="�֥롼���ȥ��å��ޥ��Υ��֥����͸������餫�ˤʤä��֥��å��ޥ󡧥ǥ奢�� �����С��饤�ɡס��ۤʤ�ͷ�Ӥ��������ܻؤ�����ͳ����ȯ�ؤ�ʹ����TGS2026��"></p>]]></description><source url="https://www.4gamer.net/games/968/G096894/20260918098/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/968/G096894/20260918098/SS/011.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/968/G096894/20260918098/SS/011.jpg"/></item>
 <item><title>�֥ɥ饴�󥺥ɥ��� 2�����������ꥺ���ץ��󥿥ӥ塼�����餫��ư���Switch2�Ǥ���̩���ֿ������줿��ʪ�פʤɡ����ˤʤ��Ȥ�����ʹ������TGS2026��</title><link>https://www.4gamer.net/games/015/G101559/20260918090/</link><guid isPermaLink="true">https://www.4gamer.net/games/015/G101559/20260918090/</guid><pubDate>Fri, 18 Sep 2026 15:00:00 +0000</pubDate><description><![CDATA[<p>�֥ɥ饴�󥺥ɥ��� 2�����������ꥺ���ץ��󥿥ӥ塼�����餫��ư���Switch2�Ǥ���̩���ֿ������줿��ʪ�פʤɡ����ˤʤ��Ȥ�����ʹ������TGS2026��
 
 2026年9月21日まで開催中の「東京ゲームショウ2026」で「ドラゴンズドグマ 2：ダークアリズン」が出展されている。会場では大山直人Pと木下研人Dへのインタビューが行われ，Switch2版での動…
@@ -6518,32 +6578,6 @@ ROG NUC 16 Edition 20は、容積約3Lの筐体にCore Ultra 9 290HX PlusとGeFo
 主な仕様は、CPUがCore Ultra 9 290HX Plus、チップセットがHM870、メモリが64GB DDR5-6400(32GB×2、CSO-DIMM)、GPUがGeForce RTX 5090 Laptop GPU、ストレージが2TB NVMe SSD、OSがWindows 11 Home。PCIe 4.0 x4対応のM.2 2280スロットが空きで用意されている。
 
 インターフェ…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2141/688/1.jpg" alt="120万円のROG 20周年記念ミニPC登場！RTX 5090 Laptop搭載"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2141688.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2141/688/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2141/688/1.jpg"/></item>
-<item><title>���ᥢ���������ֵ����� Way of the Sword�פ���Ŭư�Lenovo�ΥΡ���PC��Legion Pro 5 Gen 10�פ����⤷�������ޡ�����������PR��</title><link>https://www.4gamer.net/games/329/G032948/20260902011/</link><guid isPermaLink="true">https://www.4gamer.net/games/329/G032948/20260902011/</guid><pubDate>Thu, 17 Sep 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>���ᥢ���������ֵ����� Way of the Sword�פ���Ŭư�Lenovo�ΥΡ���PC��Legion Pro 5 Gen 10�פ����⤷�������ޡ�����������PR��
-
-物価高に悩まされることも多いゲーマーにおすすめしたい，コストパフォーマンスの高いゲーミングノートPCが，レノボの「Legion Pro 5 Gen 10」だ。どんな利点や魅力があるのか。新作剣戟アク…
-
-剣戟アクション「鬼武者 Way of the Sword」も快適動作。LenovoのノートPC「Legion Pro 5 Gen 10」は頼もしいゲーマーの相棒だ【PR】 ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
-
-↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↑アイコン/タイトル↑ ↓リード画像↓ ↑リー…</p><p><img src="https://www.4gamer.net/games/329/G032948/20260902011/SS/003.jpg" alt="���ᥢ���������ֵ����� Way of the Sword�פ���Ŭư�Lenovo�ΥΡ���PC��Legion Pro 5 Gen 10�פ����⤷�������ޡ�����������PR��"></p>]]></description><source url="https://www.4gamer.net/games/329/G032948/20260902011/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/329/G032948/20260902011/SS/003.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/329/G032948/20260902011/SS/003.jpg"/></item>
-<item><title>Core i5-1135G7搭載の「Surface Pro 7+」が10%オフで57,420円、Qualitの中古Cランク品が期間限定セール</title><link>https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2141556.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2141556.html</guid><pubDate>Thu, 17 Sep 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>Core i5-1135G7搭載の「Surface Pro 7+」が10%オフで57,420円、Qualitの中古Cランク品が期間限定セール
-
-Core i5-1135G7(4コア/8スレッド)を搭載したMicrosoft製12.3型タブレットPC「Surface Pro 7+」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で期間限定セール中。
-
-Core i5-1135G7搭載の「Surface Pro 7+」が10%オフで57,420円、Qualitの中古Cランク品が期間限定セール
-
-Core i5-1135G7(4コア/8スレッド)を搭載したMicrosoft製12.3型タブレットPC「Surface Pro 7+」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で期間限定セール中 。
-
-今回販売されているのは、「傷や使用感が見られる」(同店)というCランク中古品で、販売価格は57,420円。保証期間は12か月で、「バッテリーテストを実施したところ、80%以上の結果を出したモデル」とのこと。
-
-主な仕様は、ディスプレイ解像度が2,736×1,824ドット、メモリが8GB(増設不可)、ストレージが256GB SSD、OSがWindows 11 Pro。インターフェイスには、USB Type-CやmicroSDカードスロットなどを備えるほか、Webカメラや無線LAN機能などを搭載しています。
-
-セール期間は9月30日までとなっています。興味がある方はチェックしてみてください。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2141/556/a1.jpg" alt="Core i5-1135G7搭載の「Surface Pro 7+」が10%オフで57,420円、Qualitの中古Cランク品が期間限定セール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2141556.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2141/556/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2141/556/a1.jpg"/></item>
 <item><title>6��������ĩ���ܳʥ��󥸥���RPG�߶����Ҥ����Ȥ�嫡���������A���󥯥ѡ��ƥ���Υæ�������ϡ��������Ҥ������µܿ������ܻؤ����׳�ȯ�ԥ��󥿥ӥ塼��PR��</title><link>https://www.4gamer.net/games/994/G099460/20260907022/</link><guid isPermaLink="true">https://www.4gamer.net/games/994/G099460/20260907022/</guid><pubDate>Thu, 17 Sep 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>6��������ĩ���ܳʥ��󥸥���RPG�߶����Ҥ����Ȥ�嫡���������A���󥯥ѡ��ƥ���Υæ�������ϡ��������Ҥ������µܿ������ܻؤ����׳�ȯ�ԥ��󥿥ӥ塼��PR��
 
 TVアニメも好評を博した人気作「Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。」のゲーム化が進行中だ。6人パーティで挑むダンジョン探索や，スロウモードを交えた戦略的なリアルタイムバ…
@@ -6557,6 +6591,32 @@ TVアニメも好評を博した人気作「Aランクパーティを離脱し�
 ↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
 
 ↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑…</p><p><img src="https://www.4gamer.net/games/994/G099460/20260907022/SS/001.jpg" alt="6��������ĩ���ܳʥ��󥸥���RPG�߶����Ҥ����Ȥ�嫡���������A���󥯥ѡ��ƥ���Υæ�������ϡ��������Ҥ������µܿ������ܻؤ����׳�ȯ�ԥ��󥿥ӥ塼��PR��"></p>]]></description><source url="https://www.4gamer.net/games/994/G099460/20260907022/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/994/G099460/20260907022/SS/001.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/994/G099460/20260907022/SS/001.jpg"/></item>
+<item><title>Core i5-1135G7搭載の「Surface Pro 7+」が10%オフで57,420円、Qualitの中古Cランク品が期間限定セール</title><link>https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2141556.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2141556.html</guid><pubDate>Thu, 17 Sep 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>Core i5-1135G7搭載の「Surface Pro 7+」が10%オフで57,420円、Qualitの中古Cランク品が期間限定セール
+
+Core i5-1135G7(4コア/8スレッド)を搭載したMicrosoft製12.3型タブレットPC「Surface Pro 7+」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で期間限定セール中。
+
+Core i5-1135G7搭載の「Surface Pro 7+」が10%オフで57,420円、Qualitの中古Cランク品が期間限定セール
+
+Core i5-1135G7(4コア/8スレッド)を搭載したMicrosoft製12.3型タブレットPC「Surface Pro 7+」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で期間限定セール中 。
+
+今回販売されているのは、「傷や使用感が見られる」(同店)というCランク中古品で、販売価格は57,420円。保証期間は12か月で、「バッテリーテストを実施したところ、80%以上の結果を出したモデル」とのこと。
+
+主な仕様は、ディスプレイ解像度が2,736×1,824ドット、メモリが8GB(増設不可)、ストレージが256GB SSD、OSがWindows 11 Pro。インターフェイスには、USB Type-CやmicroSDカードスロットなどを備えるほか、Webカメラや無線LAN機能などを搭載しています。
+
+セール期間は9月30日までとなっています。興味がある方はチェックしてみてください。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2141/556/a1.jpg" alt="Core i5-1135G7搭載の「Surface Pro 7+」が10%オフで57,420円、Qualitの中古Cランク品が期間限定セール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2141556.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2141/556/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2141/556/a1.jpg"/></item>
+<item><title>���ᥢ���������ֵ����� Way of the Sword�פ���Ŭư�Lenovo�ΥΡ���PC��Legion Pro 5 Gen 10�פ����⤷�������ޡ�����������PR��</title><link>https://www.4gamer.net/games/329/G032948/20260902011/</link><guid isPermaLink="true">https://www.4gamer.net/games/329/G032948/20260902011/</guid><pubDate>Thu, 17 Sep 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>���ᥢ���������ֵ����� Way of the Sword�פ���Ŭư�Lenovo�ΥΡ���PC��Legion Pro 5 Gen 10�פ����⤷�������ޡ�����������PR��
+
+物価高に悩まされることも多いゲーマーにおすすめしたい，コストパフォーマンスの高いゲーミングノートPCが，レノボの「Legion Pro 5 Gen 10」だ。どんな利点や魅力があるのか。新作剣戟アク…
+
+剣戟アクション「鬼武者 Way of the Sword」も快適動作。LenovoのノートPC「Legion Pro 5 Gen 10」は頼もしいゲーマーの相棒だ【PR】 ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
+
+↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。DbD人気に着火，フロム宮崎英高氏のインタビューも ↑アイコン/タイトル↑ ↓リード画像↓ ↑リー…</p><p><img src="https://www.4gamer.net/games/329/G032948/20260902011/SS/003.jpg" alt="���ᥢ���������ֵ����� Way of the Sword�פ���Ŭư�Lenovo�ΥΡ���PC��Legion Pro 5 Gen 10�פ����⤷�������ޡ�����������PR��"></p>]]></description><source url="https://www.4gamer.net/games/329/G032948/20260902011/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/329/G032948/20260902011/SS/003.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/329/G032948/20260902011/SS/003.jpg"/></item>
 <item><title>横折りスマホが20万円切り！motorola razr fold、MNP一括19万9800円</title><link>https://smhn.info/202609-motorola-razr-fold-iijmio-mnp-sale</link><guid isPermaLink="true">https://smhn.info/202609-motorola-razr-fold-iijmio-mnp-sale</guid><pubDate>Thu, 17 Sep 2026 02:58:29 +0000</pubDate><description><![CDATA[<p>横折りスマホが20万円切り！motorola razr fold、MNP一括19万9800円
 
 IIJmioにおいて、横開きの折りたたみスマートフォン「motorola razr fold」が、他社からの乗り換え（MNP）限定で一括19万9800円（税込）で販売中です。終了予定は11月4日21時59分となっています。取り扱う国内向けモデルは実行メモリ12GB、ストレージ25...
@@ -8550,72 +8610,4 @@ SANDISK Optimus GX PRO 8100は、PCIe Gen5 x4接続（NVMe 2.0）に対応した
 各モデルともNANDフラッシュには第8世代のSANDISK BiCS TLC 3D CBA NANDを採用し、ヒートシンク搭載モデルは熱効率に優れたアルマイト処理済みのアルミニウム製ヒートシンクを備える。
 
 1TBモデルの主な仕様は、シーケンシャルリード速度が最大14,900MB/s、同ライトが最大11,000MB/s。ランダムリード速度は最大1.6M IOPS、同ライトは最大2.4M IOPS。総書き…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2141/187/a1.jpg" alt="最大リード14,900MB/sのPCIe 5.0 SSD「SANDISK Optimus GX PRO 8100」が17日発売"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2141187.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2141/187/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2141/187/a1.jpg"/></item>
-<item><title>AirPods 5レビュー：魔法のノイキャン</title><link>https://gori.me/music-accessories/airpods/170185</link><guid isPermaLink="true">https://gori.me/music-accessories/airpods/170185</guid><pubDate>Tue, 15 Sep 2026 21:45:06 +0000</pubDate><description><![CDATA[<p>AirPods 5レビュー：魔法のノイキャン
-
-AirPods 5を駅とカフェで実際に試した。オープンイヤー型なのに電車の走行音がすっと遠ざかり、AirPods 4とは低音もノイズキャンセリングもレベルが違う。AirPods Pro 3の遮音には届かないが、耳への負担が軽く、価格は2万円台。誰が買うべきか、実機で確かめた結論をまとめた。
-
-1 g.O.R.i 2026年09月16日更新 1件のコメント 最終更新 1時間前 コメントを読む コメントを投稿する 忙しい人のための3行まとめ ▾ AirPods 5はイヤーチップのないオープンイヤー型ながら、電車内の音をほとんど感じさせないレベルまで環境音を抑える
-
-AirPods Pro 3（42,800円）の遮音性には構造的に届かないが、AirPods 5は上位モデルでも27,800円と価格差が大きい
-
-バッテリーは通常モデルがAirPods 4と同じ最大4時間、上位モデルのみ最大5時間に伸びている
-
-パッと見た感じ、同じだ。「 AirPods 5 だよ 」と言って AirPods 4 を見せても、バレない。
-
-では AirPods 5 は、 AirPods 4 と”同じ”なのか。答えは大声で「 NO 」。見た目こそ同じだが、交互に聞き比べてもしっかりと違いが分かるほど、ノイズキャンセリング性能が向上しているのだ。
-
-AirPods 4 は、それまで上位モデル限定だったノイズキャンセリングを”非Pro”モデルにも広げ、イヤーチップのないオープンイヤー型のまま環境音を抑えるという離れ業をやってのけたモデルだった。そこからおよそ1年、後継となる AirPods 5 が登場した。
-
-結論から書いてしまうと、 AirPods Pro 3 を超えることはない 。それでも、 AirPods 4 からは確実に進化している。駅のホームで Air…</p><p><img src="https://gori.me/uploads/2026/09/AirPods-5-with-Wireless-Charging-Review-08-800x533.jpg" alt="AirPods 5レビュー：魔法のノイキャン"></p>]]></description><source url="https://gori.me/music-accessories/airpods/170185">gori.me</source><media:content url="https://gori.me/uploads/2026/09/AirPods-5-with-Wireless-Charging-Review-08-800x533.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/09/AirPods-5-with-Wireless-Charging-Review-08-800x533.jpg"/></item>
-<item><title>Radeon AI PRO R9700で作った自社AIを営業・在庫・調査で実用化する実践マニュアル [Sponsored]</title><link>https://pc.watch.impress.co.jp/docs/topic/special/2139310.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/topic/special/2139310.html</guid><pubDate>Tue, 15 Sep 2026 21:30:00 +0000</pubDate><description><![CDATA[<p>Radeon AI PRO R9700で作った自社AIを営業・在庫・調査で実用化する実践マニュアル [Sponsored]
-
-生成AIを業務に取り入れたい。しかし、顧客情報や契約書、社内の在庫データを外部サービスに送るわけにはいかない……。これは特に、専任のAI部門を持たない中小企業のIT担当者にとって頭の痛い問題だ。そこで以下の第1回の記事では「Radeon AI PRO R9700」を搭載した1台のPCにローカルLLM環境を構築した。 データを社外に出さず、モデルの利用に月額料金もかからない“自社専用AI”だ。
-
-Radeon AI PRO R9700で作った自社AIを営業・在庫・調査で実用化する実践マニュアル
-
-生成AIを業務に取り入れたい。しかし、顧客情報や契約書、社内の在庫データを外部サービスに送るわけにはいかない……。これは特に、専任のAI部門を持たない中小企業のIT担当者にとって頭の痛い問題だ。そこで以下の 第1回 の記事では「Radeon AI PRO R9700」を搭載した1台のPCにローカルLLM環境を構築した。 データを社外に出さず、モデルの利用に月額料金もかからない“自社専用AI”だ。
-
-月額料金はタダ！Radeon AI PROで作る超ハイコスパな自社ローカルLLMサーバー[Sponsored]
-
-ただし、環境を作っただけでは仕事は変わらない。重要なのは、その1台を現場でどう使うかだ。今回は中小企業のIT担当者がエンジニアの助言を受けながら、「営業」「在庫管理」「リサーチ」の3部門の課題を解決していく、という内容になっている。
-
-まずは、その土台となるローカルLLMの仕組みと、AMD環境を選ぶ理由を整理しよう。
-
-LLM(大規模言語モデル)は、人の指示を理解し、文章の作成や要約、翻訳、質問への回答などを行なう生成AIの中核だ。
-
-ChatGPTなど…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2139/310/image_01.jpg" alt="Radeon AI PRO R9700で作った自社AIを営業・在庫・調査で実用化する実践マニュアル [Sponsored]"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/topic/special/2139310.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2139/310/image_01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2139/310/image_01.jpg"/></item>
-<item><title>【やじうまミニレビュー】ダイソーのイス付きリュック、カッターが貫通する薄さでPCは要注意</title><link>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2141206.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2141206.html</guid><pubDate>Tue, 15 Sep 2026 21:16:00 +0000</pubDate><description><![CDATA[<p>【やじうまミニレビュー】ダイソーのイス付きリュック、カッターが貫通する薄さでPCは要注意
-
-ダイソーから、折りたたみチェアの機能を備えたリュック「折りたたみイス(リュック付仕様)」が登場した。価格は1,100円。普段は背負って持ち運び、休憩時には広げてチェアとして使える製品だ。長時間の行列時はもちろん、屋外のイベントやキャンプなどで、何かと便利に使える逸品だ。
-
-ダイソーのイス付きリュック、カッターが貫通する薄さでPCは要注意
-
-ダイソーから、折りたたみチェアの機能を備えたリュック「折りたたみイス(リュック付仕様)」が登場した。価格は1,100円。普段は背負って持ち運び、休憩時には広げてチェアとして使える製品だ。長時間の行列時はもちろん、屋外のイベントやキャンプなどで、何かと便利に使える逸品だ。
-
-同様の製品はアウトドアグッズとしてはおなじみだが、本製品は実売わずか1,100円という破格のプライスが特徴だ。もっともそれゆえ省略されている部分も多いのだが、ノートPCやタブレットなどの持ち歩きに使えるかは気になるところ。実機を購入したので詳しくチェックしていく。
-
-まず全体の構造から見ていこう。一般的にリュックとチェアが合体した製品には、リュック内にチェアを完全収納できる製品とそうでない製品があるが、本製品は後者で、チェア部分が露出したまま利用するタイプだ。チェアには背もたれはなく、またリュック部分はフラップ(かぶせ蓋)もないなど、構造はシンプルこの上ない。
-
-構造としては、横から見るとX字になった折りたたみのパイプチェアがあり、その座面の下にバッグ部分がぶら下がっている。このバッグ部分にはショルダーベルトが付いており、ここに腕を通すことで、背負って持ち歩けるという仕組みだ。バッグ部分は宙吊りになるため底面が地面に触れないのは、湿った場所などでは大きなメリットとなる。
-
-座面の…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2141/206/01.jpg" alt="【やじうまミニレビュー】ダイソーのイス付きリュック、カッターが貫通する薄さでPCは要注意"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2141206.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2141/206/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2141/206/01.jpg"/></item>
-<item><title>【西川和久の不定期コラム】PC高いなら長く使え！バッテリもSSDも自分で換えられる「LAVIE N16」</title><link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2141174.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/column/nishikawa/2141174.html</guid><pubDate>Tue, 15 Sep 2026 21:06:00 +0000</pubDate><description><![CDATA[<p>【西川和久の不定期コラム】PC高いなら長く使え！バッテリもSSDも自分で換えられる「LAVIE N16」
-
-NEC PCは2026年8月25日、個人向けノートPCと一体型PC、2026年夏のラインナップを発表した。今回はその中から16型ノートPC「LAVIE N16」の中位モデルが編集部から送られてきたので試用レポートをお届けしたい。
-
-PC高いなら長く使え！バッテリもSSDも自分で換えられる「LAVIE N16」
-
-NEC PCは2026年8月25日、個人向けノートPCと一体型PC、2026年夏のラインナップを発表した。今回はその中から16型ノートPC「LAVIE N16」の中位モデルが編集部から送られてきたので試用レポートをお届けしたい。
-
-ここのところPCレビュー系の記事では毎回のように円安とメモリ高騰のダブルパンチでメモリやSSD、GPUはもちろん、PC本体の価格が過激に値上がりしている話を書いている。執筆時点で下手すれば去年(2025年)同スペックのものに対してざっくり倍だ。
-
-PCが高いので、長く使えることを目指したノート「LAVIE N16」
-
-今回NEC PCが発表したモデルは、このことを踏まえ、購入後、長く使えるように、保守性を高め、バッテリやメモリ、SSDの交換/増設をしやすくしているのが特徴の1つとなっている。
-
-手元に届いたのは16型ノートPCの「N1665/MA」。Ryzen AI 5 430/16GB/256GB……と、このモデル中では中位に相当する。主な仕様は以下の通り。
-
-プロセッサはRyzen AI 5 430。4コア/8スレッド、最大4.5 GHz。キャッシュ 12MBで最大50TOPSのNPUを内包する。SKUがRyzen AI5なのでRyzen AIシリーズの中ではミドルレンジ相当だ。
-
-メモリはSO-DIMM 16GB×1。2スロッ…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2141/174/H00.jpg" alt="【西川和久の不定期コラム】PC高いなら長く使え！バッテリもSSDも自分で換えられる「LAVIE N16」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/column/nishikawa/2141174.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2141/174/H00.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2141/174/H00.jpg"/></item>
 </channel></rss>
