@@ -1,6 +1,253 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Mon, 28 Sep 2026 00:45:18 +0000</lastBuildDate>
+<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Mon, 28 Sep 2026 06:52:44 +0000</lastBuildDate>
+<item><title>画像も動画も100万トークンも！MiniMaxが高速な“Flash”版LLMを投入</title><link>https://pc.watch.impress.co.jp/docs/news/2143632.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2143632.html</guid><pubDate>Mon, 28 Sep 2026 02:21:45 +0000</pubDate><description><![CDATA[<p>画像も動画も100万トークンも！MiniMaxが高速な“Flash”版LLMを投入
+
+MiniMaxの「M」シリーズに、軽さと速さを売りにした“Flash”版が加わった。MiniMaxは9月27日(中国時間)、最新テキストモデル「MiniMax-M3.1-Flash-Preview」を、サブスクリプション型の「Token Plan」で利用可能にした。
+
+画像も動画も100万トークンも！MiniMaxが高速な“Flash”版LLMを投入
+
+MiniMaxの「M」シリーズに、軽さと速さを売りにした“Flash”版が加わった。MiniMaxは9月27日(中国時間)、最新テキストモデル「MiniMax-M3.1-Flash-Preview」を、サブスクリプション型の「Token Plan」で利用可能にした。
+
+MiniMax-M3.1-Flash-Previewは、エージェント的な推論やツール呼び出し、コーディング、長文脈タスク向けの最新LLM。大量かつレイテンシに敏感なワークロードの実行に向くという。コンテキストウィンドウは100万トークンで、テキストだけでなく画像や動画の入力にも対応する。
+
+思考の深さは「effort」パラメータで、low、medium、high、xhigh、maxの5段階から選べる。段階を上げるほどじっくり考える代わりに、出力トークン数と待ち時間が増える。省略時はmax。なお、思考は常に有効でオフにはできない。
+
+また、パラメータ規模やアーキテクチャ、ベンチマーク結果、モデルの重みの公開予定といった詳細は公開していない。
+
+APIはAnthropic互換(推奨)とOpenAI互換の両方式に対応し、既存のSDKからbase_urlとモデル名を差し替えるだけで呼び出せる。ただし現時点での利用は、Token PlanとMiniMax Code経由に限られる。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2143/632/1.jpg" alt="画像も動画も100万トークンも！MiniMaxが高速な“Flash”版LLMを投入"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2143632.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2143/632/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2143/632/1.jpg"/></item>
+<item><title>macOS27でMacの製造日が確認可能に〜中古購入や保証確認に役立つか</title><link>https://iphone-mania.jp/mac-606694/</link><guid isPermaLink="true">https://iphone-mania.jp/mac-606694/</guid><pubDate>Mon, 28 Sep 2026 02:15:23 +0000</pubDate><description><![CDATA[<p>macOS27でMacの製造日が確認可能に〜中古購入や保証確認に役立つか
+
+macOS27では、システム設定の「情報」から開ける「法規証明書」に、Macの製造年月が表示されるようになりました。M4搭載のMacBook Proでは「製造日: 2024年11月」と表示されています。製造時期を知る手段が限られていたMacで、手軽な確認方法になりそうです。
+
+macOS27でMacの製造日が確認可能に〜中古購入や保証確認に役立つか
+
+macOS27では、 システム設定の「情報」から開ける「法規証明書」に、Macの製造年月が表示される ようになりました。M4搭載のMacBook Proでは「製造日: 2024年11月」と表示されています。製造時期を知る手段が限られていたMacで、手軽な確認方法になりそうです。
+
+ただし、法規証明書の製造日は、保証の開始日やビンテージ製品の判定に使われる日付とは意味が異なります。実機で確かめた手順とあわせて、Macに関わる日付の違いや、中古のMacを売り買いするときの使い方を順に見ていきましょう。
+
+海外メディアの報道によると、macOS27では、Macの「法規証明書」の画面に製造日の欄が加わりました。法規証明書は、各国・地域の無線や安全規格の認証表示をまとめた画面です。ベータ版の期間中にユーザーが見つけた変更で、Appleはこの表示について案内していません。
+
+実際に、MacBook Pro（14インチ、M4、2024）で確かめたところ、証明書の左下に 「製造日: 2024年11月」 と表示されました。今回試したMacでは、表示は年と月までで、日にちは出ていません。
+
+macOS27に対応するのは、 Appleシリコンを搭載したMacだけ です。Intelプロセッサを搭載したMacはmacOS27にアップデートできないため、この方法では製造日を確認で…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/28/Regulatory-Certification.jpg" alt="macOS27でMacの製造日が確認可能に〜中古購入や保証確認に役立つか"></p>]]></description><source url="https://iphone-mania.jp/mac-606694/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/28/Regulatory-Certification.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/28/Regulatory-Certification.jpg"/></item>
+<item><title>東京音響株式会社・Brise Audio試聴会【10/4(日)】</title><link>https://e-earphone.blog/?p=1550477</link><guid isPermaLink="true">https://e-earphone.blog/?p=1550477</guid><pubDate>Mon, 28 Sep 2026 02:00:50 +0000</pubDate><description><![CDATA[<p>東京音響株式会社・Brise Audio試聴会【10/4(日)】
+
+e☆イヤホン名古屋大須店、耳よりなイベント情報のお届け！！ みなさんこんにちは！！おはようございます🏍💨e☆イヤホン 名古屋大須店のしゃじーです！！🥶🥶
+
+e☆イヤホン 名古屋大須店のしゃじーです！！🥶🥶 Follow @eear_shazy
+
+ポタフェス大阪の熱気！製品をそのままに名古屋大須店で開催いたします！！ どうしてもポタフェスの時はスケジュールが合わなかった….(-_-;) 東京から来てて帰り寄っちゃおうかなと思ってくれた人は ぜひお越しくださいね
+
+・ Brise Audio FUGAKU 10th Anv.をはじめ同社の各種リケーブルをご用意いたします！！
+
+自称ポタフェスプチアフター祭開催！？！？！ アツい週末をどうぞe☆イヤホン名古屋大須店へお越しくださいませ。</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/07/48067c85e57017e73e0004f858573705.webp" alt="東京音響株式会社・Brise Audio試聴会【10/4(日)】"></p>]]></description><source url="https://e-earphone.blog/?p=1550477">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/07/48067c85e57017e73e0004f858573705.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/07/48067c85e57017e73e0004f858573705.webp"/></item>
+<item><title>【#ポタフェス 2026 大阪】e☆イヤホン・ラボ出展情報～！【開催まであと5日】</title><link>https://e-earphone.blog/?p=1553864</link><guid isPermaLink="true">https://e-earphone.blog/?p=1553864</guid><pubDate>Mon, 28 Sep 2026 02:00:44 +0000</pubDate><description><![CDATA[<p>【#ポタフェス 2026 大阪】e☆イヤホン・ラボ出展情報～！【開催まであと5日】
+
+ポタフェス 2026 大阪e☆イヤホン・ラボ出展＆新商品情報～！ラボメンのゾゾです！秋のビッグイベントの時期がきました～♪   ポタフェスまであと5日&amp;nbs
+
+ポタフェス 2026 大阪 e☆イヤホン・ラボ出展＆新商品情報～！
+
+ラボメンのゾゾです！ 秋のビッグイベントの時期がきました～♪
+
+●開催日程：2026年10月3日(土) 11:00～18:00（最終入場17:30）
+
+●所在地：〒530-0005 大阪府大阪市北区中之島5-3-51
+
+・大阪メトロ 阿波座駅（中央線1号出口・千日前線9号出口）徒歩15分
+
+・無料シャトルバス ※JR大阪駅からリーガロイヤルホテル様のシャトルバスをご利用いただけます。
+
+ラボのブースは【3F－18】 ホールC側の出入口の目の前になります！2秒ぐらいで着けちゃいますね(^O^)
+
+絶賛開発中の●●！！ たくさんの方に試していただいてご意見いただきたいです◎ 何かはブースに来てからのお楽しみ…です…！！
+
+ラボブースでは、オーダーメイドイヤーピース『eA-R』/オーダーメイド耳栓『Lazurite』『Silicium』のご相談・オーダーを受け付けております。 イヤーピースでお困りの方や耳栓を考えてる・悩んでる方がおりましたらぜひブースにお立ち寄りください！
+
+ユーザーひとりひとりの耳穴の形に合わせてオーダーメイドで作るため、フィット感や遮音性が高いのが特長です。 左右の耳の大きさが違い、2種類のイヤーピースを購入している方や、どのイヤーピースもサイズ感がなかなか合わないなど、市販のイヤーピースにお困りの方におすすめです！
+
+自身の耳型を採りオーダーメイドで作る耳型シリーズ。 音の遮音の適したハードアクリル製の『Lazurit…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/09/42a9764b2e98201e02c2e86f52f6cec8.webp" alt="【#ポタフェス 2026 大阪】e☆イヤホン・ラボ出展情報～！【開催まであと5日】"></p>]]></description><source url="https://e-earphone.blog/?p=1553864">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/09/42a9764b2e98201e02c2e86f52f6cec8.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/09/42a9764b2e98201e02c2e86f52f6cec8.webp"/></item>
+<item><title>【#ポタフェス 2026 大阪】各ブースの注目製品をまとめました！【10月3日(土)開催】</title><link>https://e-earphone.blog/?p=1552889</link><guid isPermaLink="true">https://e-earphone.blog/?p=1552889</guid><pubDate>Mon, 28 Sep 2026 01:59:23 +0000</pubDate><description><![CDATA[<p>【#ポタフェス 2026 大阪】各ブースの注目製品をまとめました！【10月3日(土)開催】
+
+「ポタフェス 2026 大阪」の見どころをお知らせ！注目の新製品をお見逃しなく！ いよいよ今週末に開催が迫った「ポタフェス 2026 大阪」各ブースの見どころをまとめました。注目の新製品も多数揃っておりますので、最
+
+いよいよ今週末に開催が迫った 「ポタフェス 2026 大阪」 各ブースの見どころをまとめました。 注目の新製品 も多数揃っておりますので、最後までチェックしてみてください！
+
+※こちらの記事は、出展社様からご提供いただいた情報をもとに作成しております。
+
+【3F-22】Bowers ＆ Wilkins / Denon
+
+【3F-23】Brise Audio / Brise Works
+
+e☆イヤホン特設物販ブースでは、話題のポータブルオーディオ製品をポタフェス特価で販売！？
+
+【#ポタフェス 2026 大阪】500円～お宝ザクザク！ポタフェス2026大阪開催記念で中古均一特価を実施！
+
+500円・1,000円・2,000円・3,000円・4,000円・5,000円の価格BOXから、お気に入りの一品を見つけてみてください！掘り出し物が見つかるかも…！？ 数量限定ですのでお早めにどうぞ。
+
+※上記は【3F-01】e☆イヤホン特設物販ブース、【3F-02】オーダーメイドイヤホン受付でご利用可能なお支払い方法です。それ以外の各出展社ブースでの物販については、各ブースにてご確認ください。
+
+ポタフェス 2026 大阪会場限定モデル AAW「Z06S」
+
+【10/3のポタフェス2026 大阪会場限定発売！】AAWから内部配線を変更したオーダーメイドIEMの Z06S が登場！
+
+「ポタフェス 2026 大阪」の当日、会場限定で、AAW「Z06」の内部配線を変更した特別仕様…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/09/8108f58ef9efbf774017c1d625534907.webp" alt="【#ポタフェス 2026 大阪】各ブースの注目製品をまとめました！【10月3日(土)開催】"></p>]]></description><source url="https://e-earphone.blog/?p=1552889">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/09/8108f58ef9efbf774017c1d625534907.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/09/8108f58ef9efbf774017c1d625534907.webp"/></item>
+<item><title>Appleグラスは2027年末目標か。次期Vision Proは「外付けユニット化」など4案を検討</title><link>https://smhn.info/202609-apple-smart-glasses-vision-n224-design-concepts</link><guid isPermaLink="true">https://smhn.info/202609-apple-smart-glasses-vision-n224-design-concepts</guid><pubDate>Mon, 28 Sep 2026 01:59:00 +0000</pubDate><description><![CDATA[<p>Appleグラスは2027年末目標か。次期Vision Proは「外付けユニット化」など4案を検討
+
+Appleのスマートグラスには2027年、Vision Proの後継には2028年以降という予測が出ています。Macerkopfは9月27日、BloombergのMark Gurman氏のニュースレターを紹介し、Appleが引き続き2027年末までにスマートグラスを市場投入する目...
+
+Appleグラスは2027年末目標か。次期Vision Proは「外付けユニット化」など4案を検討
+
+Appleのスマートグラスには2027年、Vision Proの後継には2028年以降という予測が出ています。
+
+Macerkopfは9月27日、BloombergのMark Gurman氏のニュースレターを紹介し、 Appleが引き続き2027年末までにスマートグラスを市場投入する目標を持っている と伝えました。
+
+初代スマートグラスは音声やカメラ、スマート機能を備える一方、映像を表示するディスプレイは非搭載との見方。画面付きのグラスは、さらに後の世代になるとしています。
+
+一方、新たなヘッドセット計画「N224」もニュースレターは伝えています。昨年棚上げされたとされる軽量版「Vision Air」（N100）とは別の計画で、必ずしも廉価版を目指しているわけではなく、 M5搭載Vision Proの後継になる可能性がある とのこと。
+
+検討中の設計は約4案。その1つは、 処理を担う部品とバッテリーを、頭に装着する部分から外付けの小型ユニットへ移す構成 だといいます。顔に載せる側を軽くできますが、 一部のApple幹部は外付けユニットに否定的で、一体型に近い設計を望んでいる そうです。
+
+9to5Macが紹介する試作案には、現行Vision Proの基本的な卵型の形状を残しつつ、プラスチッ…</p><p><img src="https://smhn.info/wp-content/uploads/2025/08/DSC03813.jpg" alt="Appleグラスは2027年末目標か。次期Vision Proは「外付けユニット化」など4案を検討"></p>]]></description><source url="https://smhn.info/202609-apple-smart-glasses-vision-n224-design-concepts">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2025/08/DSC03813.jpg" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2025/08/DSC03813.jpg"/></item>
+<item><title>Claude Code、「残業」が可能に。週次制限から差し引き</title><link>https://pc.watch.impress.co.jp/docs/news/2143606.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2143606.html</guid><pubDate>Mon, 28 Sep 2026 01:58:41 +0000</pubDate><description><![CDATA[<p>Claude Code、「残業」が可能に。週次制限から差し引き
+
+人間より長く働けるAIのはずなのに、5時間制限が来たら「定時なんでお先に失礼します」なんて、生意気なヤツめ――そう思うことが「Claude Code」では減る。Anthropicは9月25日、Claudeの開発者向け公式Xアカウント(@ClaudeDevs)にて、Claude Codeが、タスクの途中で5時間の制限に達した際、編集の途中で突然中断されるのではなく、キリの良いタイミングを探して終了するようになったことを発表した。
+
+Claude Code、「残業」が可能に。週次制限から差し引き
+
+人間より長く働けるAIのはずなのに、5時間制限が来たら「定時なんでお先に失礼します」なんて、生意気なヤツめ――そう思うことが「Claude Code」では減る。Anthropicは9月25日、Claudeの開発者向け公式Xアカウント(@ClaudeDevs)にて、Claude Codeが、タスクの途中で5時間の制限に達した際、編集の途中で突然中断されるのではなく、キリの良いタイミングを探して終了するようになったことを発表した。
+
+ターミナルなどからコーディング作業をAIに任せられるClaude Codeはこれまで、長期的な作業の途中だった場合、5時間制限に達すると編集の途中でも作業を中断していた。たとえ作業があと少しだけ残されていたとしても、利用クレジットを使わない限りリセットまで待つ必要があった。今回のアップデートにより、Claude Codeは「残業」をしてキリの良いタイミングまで作業を進めてから終了するようになった。
+
+「残業」分は、週次制限から差し引かれる。また、「残業」はProプランでは週1回のみ利用可能で、MaxおよびTeam Premiumプランでは5時間セッション制限に達するごとに利用できる。なお、「残…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2143/606/1.png" alt="Claude Code、「残業」が可能に。週次制限から差し引き"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2143606.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2143/606/1.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2143/606/1.png"/></item>
+<item><title>(アキバ取材班) “はんだ誤手”にも耐えられる！加熱したコテ先やヒートガンもOKな耐熱手袋が500円</title><link>https://www.gdm.or.jp/crew/2026/0928/653881</link><guid isPermaLink="true">https://www.gdm.or.jp/crew/2026/0928/653881</guid><pubDate>Mon, 28 Sep 2026 01:56:04 +0000</pubDate><description><![CDATA[<p>(アキバ取材班) “はんだ誤手”にも耐えられる！加熱したコテ先やヒートガンもOKな耐熱手袋が500円
+
+高温での作業が安全に行える耐熱手袋「CS200」がShigezoneに入荷。Hong KONG MECHANICの製品で、税込500円で販売されている。
+
+(アキバ取材班) “はんだ誤手”にも耐えられる！加熱したコテ先やヒートガンもOKな耐熱手袋が500円
+
+高温での作業が安全に行える耐熱手袋 「CS200」 がShigezoneに入荷。Hong KONG MECHANICの製品で、税込500円で販売されている。
+
+はんだごてやヒートガンを使用した作業、エンジン整備といった高温環境での作業時に手を保護できる耐熱手袋。通気性良好なニット製の手袋で、伸縮リブの袖口を備えたフリーサイズ仕様になっている。
+
+ショップによれば、「ヒートガンで炙った直後の基板やチップを持ったり、加熱されたはんだごてのコテ先を当てても問題ない」とのこと。はんだごての金属部分を握る、いわゆる“はんだ誤手”な握り方にも耐えられそうだ。なお、炎に触れるような状態では使用できない点に注意。
+
+また、滑りにくい加工が施されているほか、装着したままスマートフォン画面を操作することもできる。
+
+文： 編集部 絵踏 一 Shigezone： https://www.gdm.or.jp/shop/2020/0712/355326
+
+(アキバ取材班) 気分だけでも「iPhone Duo」オーナーに？あきばお～にモ…
+
+(アキバ取材班) スマホからアクセスできるWi-Fi対応のコンパクトなドライブレ…
+
+(アキバ取材班) レトロフリークをポータブル機化する最新キット「RFポータブルV…
+
+(アキバ取材班) 自撮り用のフリップ液晶＆デュアルレンズ搭載、やたらと高機能なト…
+
+(お買い得中古品情報) 第11世代Core i5＆…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/09/28/CS200_01.jpg" alt="(アキバ取材班) “はんだ誤手”にも耐えられる！加熱したコテ先やヒートガンもOKな耐熱手袋が500円"></p>]]></description><source url="https://www.gdm.or.jp/crew/2026/0928/653881">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/09/28/CS200_01.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/09/28/CS200_01.jpg"/></item>
+<item><title>8°傾斜の底面吸気を採用するピラーレスPCケース、ZALMAN「D30 BLACK」</title><link>https://www.gdm.or.jp/pressrelease/2026/0928/653896</link><guid isPermaLink="true">https://www.gdm.or.jp/pressrelease/2026/0928/653896</guid><pubDate>Mon, 28 Sep 2026 01:54:57 +0000</pubDate><description><![CDATA[<p>8°傾斜の底面吸気を採用するピラーレスPCケース、ZALMAN「D30 BLACK」
+
+ZALMAN（本社：韓国）は2026年9月25日（現地時間）、デュアルチャンバー構造のピラーレスミニタワーPCケース「D30 BLACK」を発表した。
+
+8°傾斜の底面吸気を採用するピラーレスPCケース、ZALMAN「D30 BLACK」
+
+ZALMAN（本社：韓国）は2026年9月25日（現地時間）、デュアルチャンバー構造のピラーレスミニタワーPCケース 「D30 BLACK」 を発表した。
+
+フロントと左サイドの強化ガラスはツールレスで着脱ができるボールヘッドプッシュピン機構を採用。また、デュアルチャンバー設計により、電源ユニットやストレージ、ケーブルなどを背面に隠せるため、ケース内を美しく魅せることができる。
+
+さらに底面部を8°傾斜した独自吸気デザインを採用。取り込んだ外気をグラフィックスカードへ直接送るルートと、コアンダ効果を利用してグラフィックスカードをバイパスしてCPU/VRMへと導くルートに分散させる立体的なエアフローを実現している。
+
+冷却ファンはトップ120mm×3、サイド120mm×2（120mm ARGBリバースファン×2）、リア120mm×1（120mm ARGBファン×1）、ボトム120mm×3に対応し、ラジエーターはトップが360mm、リアが120mm×1まで搭載可能。ドライブベイは2.5インチシャドウベイ×1、3.5インチシャドウベイ×2、拡張スロットは5段で、グラフィックスカードは長さ410mm、CPUクーラーは全高160mm、電源ユニットは奥行き180mmまで。
+
+対応フォームファクタはMicroATX、Mini-ITX、I/OポートはUSB 3.0×1、USB 2.0×1、HDオーディオを備え、外形寸法は幅274mm、奥行き439mm、高さ361mm…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/09/28/D30_01.jpg" alt="8°傾斜の底面吸気を採用するピラーレスPCケース、ZALMAN「D30 BLACK」"></p>]]></description><source url="https://www.gdm.or.jp/pressrelease/2026/0928/653896">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/09/28/D30_01.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/09/28/D30_01.jpg"/></item>
+<item><title>iPhone DuoはTouch ID×Apple Watchで解除、最強の組み合わせになるか</title><link>https://gori.me/iphone/170609</link><guid isPermaLink="true">https://gori.me/iphone/170609</guid><pubDate>Mon, 28 Sep 2026 01:20:12 +0000</pubDate><description><![CDATA[<p>iPhone DuoはTouch ID×Apple Watchで解除、最強の組み合わせになるか
+
+10月23日発売のiPhone DuoはFace IDではなくTouch IDを搭載するが、Apple Watchを身につけていればロックを解除できる仕組みも用意されている。寝起きやマスク、眼鏡の曇りに悩まされてきた僕にとって、この組み合わせは期待が大きい。ただしMacBook Proでの経験からすると、タイムラグが気になるところだ。
+
+iPhone DuoはTouch ID×Apple Watchで解除、最強の組み合わせになるか
+
+Face IDの弱点を消しつつ便利さを取り込めるか、鍵はタイムラグ
+
+iPhone DuoはFace IDではなくTouch IDを搭載。加えてApple Watchを身につけていればロックを解除できる仕組みもある
+
+寝起き・マスク・眼鏡の曇りといったFace IDの弱点を、Touch IDとApple Watch解除の組み合わせで解消できるかもしれないと期待している
+
+一方でMacBook ProでのApple Watch解除は体感で結構待たされることが多く、タイムラグが解消されているかが気になる
+
+この記事は、Apple初の折りたたみiPhone「 iPhone Duo 」が生活に入ってくることへの大きなワクワクを大前提としながら、発売前の今だからこそ浮かんでくるいろんな思い──期待も、戸惑いも、使い方への迷いも──を、僕自身の頭の中を整理しながら書き留めているシリーズの1本だ。「結局どっちなんだ」という結論を急いで出すための記事ではなく、同じように iPhone Duo に思いを馳せている人と、発売日に向けて少しずつ思いを重ねていくためのコンテンツだと思ってもらえたら嬉しい。
+
+iPhone Duo の発売日、10月23日が近づいてきた。使う…</p><p><img src="https://gori.me/uploads/2026/09/iPhoneDuo-iPhone18Pro-Content-Capture-Hands-On-29-800x534.jpg" alt="iPhone DuoはTouch ID×Apple Watchで解除、最強の組み合わせになるか"></p>]]></description><source url="https://gori.me/iphone/170609">gori.me</source><media:content url="https://gori.me/uploads/2026/09/iPhoneDuo-iPhone18Pro-Content-Capture-Hands-On-29-800x534.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/09/iPhoneDuo-iPhone18Pro-Content-Capture-Hands-On-29-800x534.jpg"/></item>
+<item><title>【本日みつけたお買い得品】カルビーのポテチ×16袋セットが250円オフ。じゃがりこ×12個は387円引き！</title><link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2143610.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/todays_sales/2143610.html</guid><pubDate>Mon, 28 Sep 2026 01:19:03 +0000</pubDate><description><![CDATA[<p>【本日みつけたお買い得品】カルビーのポテチ×16袋セットが250円オフ。じゃがりこ×12個は387円引き！
+
+Amazonにおいて、スナック菓子が安くなっている。カルビー「ポテトチップス うすしお味」(55g)×16袋セットは、250円引きクーポンで1,932円。「ポテトチップス コンソメパンチ」(55g)×16袋セットは、120円引きクーポンで1,690円にて購入可能だ。
+
+カルビーのポテチ×16袋セットが250円オフ。じゃがりこ×12個は387円引き！
+
+Amazonにおいて、スナック菓子が安くなっている。カルビー「ポテトチップス うすしお味」(55g)×16袋セットは、250円引きクーポンで1,932円。「ポテトチップス コンソメパンチ」(55g)×16袋セットは、120円引きクーポンで1,690円にて購入可能だ。
+
+カルビー ポテトチップス コンソメパンチ (55g×16袋)
+
+ほか、カルビー「じゃがりこ じゃがバター」(55g)×12個セットは、9月14日の価格から387円引きで1,758円。「じゃがりこ チーズ」(55g)×12個セットは、9月14日の価格から387円引きで1,758円。
+
+カルビー「サッポロポテトロング じゃがバター味」(54g)×12袋セットは、直近価格からの346円引きで2,000円。ヤマザキビスケット「エアリアル 濃厚チェダーチーズ味」(65g)×12袋セットは、9月9日の価格から194円引きで1,624円にて、それぞれ購入できる。
+
+カルビー サッポロポテトロング じゃがバター味 (54g×12袋)
+
+ヤマザキビスケット エアリアル 濃厚チェダーチーズ味 (65g×12袋)</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2143/610/01.jpg" alt="【本日みつけたお買い得品】カルビーのポテチ×16袋セットが250円オフ。じゃがりこ×12個は387円引き！"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/todays_sales/2143610.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2143/610/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2143/610/01.jpg"/></item>
+<item><title>【本日みつけたお買い得品】ブラウンの電動シェーバーが43%オフで8,947円にて購入可能</title><link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2143607.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/todays_sales/2143607.html</guid><pubDate>Mon, 28 Sep 2026 01:09:21 +0000</pubDate><description><![CDATA[<p>【本日みつけたお買い得品】ブラウンの電動シェーバーが43%オフで8,947円にて購入可能
+
+Amazonにおいて、ブラウンの電動シェーバー「シリーズ5 52-M1200s」が直近価格から6,853円引き(43%オフ)で、8,947円にて購入できる。
+
+ブラウンの電動シェーバーが43%オフで8,947円にて購入可能
+
+Amazonにおいて、ブラウンの電動シェーバー「シリーズ5 52-M1200s」が直近価格から6,853円引き(43%オフ)で、8,947円にて購入できる。
+
+シリーズ5 52-M1200sは、男性向けの電動シェーバーだ。ブラウン独自の3連密着ブレードを備え、浮き沈みする3つの刃が肌にしっかり密着。髭の濃さを読み取って動作を自動調節し、最適なパワーでシェービングを行なえるとする。また、5分の充電で1回のシェービングが可能という急速充電機能を備える。バッテリ駆動時間は約50分。
+
+ブラウン「シリーズ7 72-C1500s」は、直近価格から1万1,921円引きにより、1万5,579円で購入可能。360度密着システムを搭載し、剃りにくいアゴ下や鼻下にも密着するとする。5分の充電で1回のシェービングを行なえる急速充電機能を装備。バッテリ駆動時間は約50分。
+
+ブラウン「シリーズ8 8560cc」は、直近の販売価格から1万8,801円引きで、2万4,000円にて購入できる。肌にやさしいというアゴ下PRO密着ヘッドを搭載。0.05mmの深剃りを実現する4+1カットシステムを備える。バッテリ駆動時間は約60分。自動アルコール洗浄器が付属する。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2143/607/01.jpg" alt="【本日みつけたお買い得品】ブラウンの電動シェーバーが43%オフで8,947円にて購入可能"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/todays_sales/2143607.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2143/607/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2143/607/01.jpg"/></item>
+<item><title>【本日みつけたお買い得品】約634gと超軽量！32GBメモリの富士通製モバイルノートが約2万3千円オフ</title><link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2143597.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/todays_sales/2143597.html</guid><pubDate>Mon, 28 Sep 2026 01:06:12 +0000</pubDate><description><![CDATA[<p>【本日みつけたお買い得品】約634gと超軽量！32GBメモリの富士通製モバイルノートが約2万3千円オフ
+
+Amazonにおいて、14型ノートPCの富士通(FCCL)「FMV Note U WU5-K3」が直近価格から2万3,800円引きで、27万3,400円にて購入できる。
+
+約634gと超軽量！32GBメモリの富士通製モバイルノートが約2万3千円オフ
+
+Amazonにおいて、14型ノートPCの富士通(FCCL)「FMV Note U WU5-K3」が直近価格から2万3,800円引きで、27万3,400円にて購入できる。
+
+FMV Note U WU5-K3は、重さ約634gと軽量なモバイルノートPCだ。ディスプレイに14型液晶(1,920×1,200ドット)、CPUにCore Ultra 7 255U、メモリに32GB LPDDR5X、ストレージに512GB SSD、OSにWindows 11 Homeを搭載。本体にはカーボン素材を採用し、軽量ながら、米国MIL規格に準拠する堅牢性を備える。Microsoft Office Home &amp; Business 2024が付属する。
+
+インターフェイスは、USB 3.2 Gen 2x2 Type-C 2基(映像出力およびUSB PDに対応)、USB 3.2 Gen 1 2基、HDMI、Gigabit Ethernet、Wi-Fi 7、Bluetooth 5.4、microSDカードスロット、音声入出力など。
+
+富士通(FCCL) FMV Note U WU5-K3 (AZ_WU5K3_Z1052)
+
+富士通(FCCL)「FMV Note U WU8-K3」は、1万3,100円引きクーポンにより、24万8,200円で購入可能。コンバーチブル2in1型のノートPCで、ディスプレイに13.3型液晶(タッチ操作対応、1,920×1,20…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2143/597/01.jpg" alt="【本日みつけたお買い得品】約634gと超軽量！32GBメモリの富士通製モバイルノートが約2万3千円オフ"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/todays_sales/2143597.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2143/597/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2143/597/01.jpg"/></item>
+<item><title>キーボード付きの空中マウスが2,000円、Bluetooth/2.4GHz無線対応</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2143390.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2143390.html</guid><pubDate>Mon, 28 Sep 2026 01:05:00 +0000</pubDate><description><![CDATA[<p>キーボード付きの空中マウスが2,000円、Bluetooth/2.4GHz無線対応
+
+表面にマウス機能を、裏面にキーボードを備えた入力デバイス「SZ-26WIRLES-M5」があきばお～弐號店に入荷。
+
+キーボード付きの空中マウスが2,000円、Bluetooth/2.4GHz無線対応
+
+表面にマウス機能を、裏面にキーボードを備えた入力デバイス「SZ-26WIRLES-M5」が あきばお～弐號店 に入荷。
+
+これは、手に持った状態でマウスカーソルの移動ができるいわゆる空中マウス。
+
+製品パッケージによると音声コマンドや6軸ジャイロ機能を備え、背面には58キーQWERTYキーボードを搭載する。
+
+通信規格は2.4GHzワイヤレスとBluetooth 5.2で、バッテリー容量は250mAh。本体サイズは155×45×8mm、重量は65g。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2143/390/a1.jpg" alt="キーボード付きの空中マウスが2,000円、Bluetooth/2.4GHz無線対応"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2143390.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2143/390/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2143/390/a1.jpg"/></item>
+<item><title>【本日みつけたお買い得品】GARMINのスマートウォッチが5,715円引き。Suica対応</title><link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2143602.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/todays_sales/2143602.html</guid><pubDate>Mon, 28 Sep 2026 00:46:39 +0000</pubDate><description><![CDATA[<p>【本日みつけたお買い得品】GARMINのスマートウォッチが5,715円引き。Suica対応
+
+Amazonにおいて、GARMINのスマートウォッチ「Forerunner 265」が9月15日の価格から5,715円引きで、5万1,376円にて購入可能だ。
+
+GARMINのスマートウォッチが5,715円引き。Suica対応
+
+Amazonにおいて、GARMINのスマートウォッチ「Forerunner 265」が9月15日の価格から5,715円引きで、5万1,376円にて購入可能だ。
+
+Forerunner 265は、ランニング向けをうたうスマートウォッチ。ランニングやトレーニング、健康管理のための機能を多数備えるのが特徴だ。ディスプレイとして1.3型有機EL(416×416ドット)を搭載。Suicaによる非接触型決済をサポートする。また、5ATMの防水に対応する。バッテリ駆動時間は、GPSモードで約20時間、スマートウォッチモードで約13日間。重量は47g。
+
+GARMIN「Venu 3」は、9月15日の価格から4,987円引きにより、4万4,758円(販売元:Amazon.co.jp)で購入できる。1.4型有機EL(454×454ドット)を備える、フィットネス向けのスマートウォッチ。5ATMの防水、Suicaに対応する。バッテリ駆動時間は、GPSモードで約26時間、スマートウォッチモードで約14日間。重量は30g(付属のバンド込みで47g)。
+
+GARMIN「Forerunner 570」は、9月15日の価格から5,103円引きで、6万2,897円にて購入可能。1.4型有機EL(454×454ドット)を搭載する、ランニング向けのスマートウォッチだ。5ATMの防水、Suicaに対応。バッテリ駆動時間は、GPSモードで約18時間、スマートウォッチモードで約11日間。重量は50g。…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2143/602/01.jpg" alt="【本日みつけたお買い得品】GARMINのスマートウォッチが5,715円引き。Suica対応"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/todays_sales/2143602.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2143/602/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2143/602/01.jpg"/></item>
 <item><title>楽天モバイル、イーグルス応援で新規契約1万3000ポイントに増額。限定トレカ3枚</title><link>https://smhn.info/202609-rakuten-mobile-eagles-new-contract-point-increase</link><guid isPermaLink="true">https://smhn.info/202609-rakuten-mobile-eagles-new-contract-point-increase</guid><pubDate>Mon, 28 Sep 2026 00:15:24 +0000</pubDate><description><![CDATA[<p>楽天モバイル、イーグルス応援で新規契約1万3000ポイントに増額。限定トレカ3枚
 
 楽天モバイルは、楽天イーグルスの推し選手を応援！キャンペーンにおいて、新規契約など他社からの乗り換え（MNP）以外の特典を1万1000ポイントから1万3000ポイントへ増額しました。2026年9月17日0時以降の申し込みが対象です。条件を満たすと、選んだ選手の限定デザインの電子ト...
@@ -4117,21 +4364,6 @@ MINISFORUM「MS-03」は、5万5,100円引きクーポンで、23万4,899円に�
 iPhoneのFaceID利用時のパニックフル問題もそうですが、発売後早速不具合に見舞われた最新機種。Apple Watchは取り急ぎアップデートが来たということで、利用者は早めにアップデートを適用しておきましょう。
 
 アップデートは、ペアリングしたiPhoneのWatchアプリから「マイウォッチ」→「一般」→「ソフトウェアアップデート」を…</p><p><img src="https://smhn.info/wp-content/uploads/2026/09/apple-watch-series-12-1.webp" alt="最新のApple Watch Series 12/Ultra 4が突然再起動する不具合。watchOS 27.0.1で修正"></p>]]></description><source url="https://smhn.info/202609-watchos-27-0-1-apple-watch-restart-fix">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/09/apple-watch-series-12-1.webp" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/09/apple-watch-series-12-1.webp"/></item>
-<item><title>【本日みつけたお買い得品】M6搭載の新型Mac miniがセールに！公式より安く買えるぞ</title><link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2142714.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/todays_sales/2142714.html</guid><pubDate>Thu, 24 Sep 2026 00:28:10 +0000</pubDate><description><![CDATA[<p>【本日みつけたお買い得品】M6搭載の新型Mac miniがセールに！公式より安く買えるぞ
-
-Amazonにおいて、新型Mac miniがタイムセール中だ。Apple「Mac mini」の16GBメモリ/256GB SSD版は、7,500円引きで14万2,300円。16GBメモリ/512GB SSD版は、9,300円引きで17万6,500円にて購入できる。
-
-M6搭載の新型Mac miniがセールに！公式より安く買えるぞ
-
-Amazonにおいて、新型Mac miniがタイムセール中だ。Apple「Mac mini」の16GBメモリ/256GB SSD版は、7,500円引きで14万2,300円。16GBメモリ/512GB SSD版は、9,300円引きで17万6,500円にて購入できる。
-
-セールの対象となっているMac miniは、先日発売されたばかりの最新モデルだ。主な仕様は、CPUがM6チップ、メモリが16GB、ストレージが256/512GB、OSがmacOS。新たに採用したM6チップにより、M4版と比べ、最大4.8倍高速であるとする。また、エージェント型AIやアプリ内蔵AIなどのタスクも、よりパワフルに処理できるという。
-
-インターフェイスとして、Thunderbolt 4 3基、USB 3.2 Gen 2 Type-C 2基、HDMI、2.5Gigabit Ethernet、Wi-Fi 7、Bluetooth 6、音声入出力などを搭載する。
-
-Apple Mac mini (16GBメモリ/256GB SSD)
-
-Apple Mac mini (16GBメモリ/512GB SSD)</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2142/714/01.jpg" alt="【本日みつけたお買い得品】M6搭載の新型Mac miniがセールに！公式より安く買えるぞ"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/todays_sales/2142714.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2142/714/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2142/714/01.jpg"/></item>
 <item><title>Xperia 10 VI、日本でAndroid 17アップデートの対象外。</title><link>https://smhn.info/202609-xperia-10-vi-android-17-japan-list</link><guid isPermaLink="true">https://smhn.info/202609-xperia-10-vi-android-17-japan-list</guid><pubDate>Thu, 24 Sep 2026 00:28:10 +0000</pubDate><description><![CDATA[<p>Xperia 10 VI、日本でAndroid 17アップデートの対象外。
 
 ソニーは、XperiaへのAndroid 17アップデートに関して、最新ページを公開しました。ところが、Android 17のアップデート対象一覧にXperia 10 VIが記載されていないことがわかりました。国内案内の「Android 17ソフトウェアアップデート対象機種」に並...
@@ -4147,6 +4379,34 @@ Xperia 10 VI、日本でAndroid 17アップデートの対象外。
 ただし、日本版と海外版では、もともと案内されているOS更新回数が異なります。 日本向けの公式製品案内 におけるXperia 10 VIのOS更新は「最大2回」ですが、英国では3回だと案内されています。Xperia 10 VIの海外版のアップデート有無は注目されていますが、日本でアップデートが行われないことは既定方針通りだと考えられます。
 
 なお、英国のXperia 10 VI公式仕様には、現在も「発売時OS Android 14、OS更新3回、セキュリティ更新4年間」と記載されており、ソニー英国の OSバージョン一覧 でも、Xperia 10 VIはAndroid 14→15→16…</p><p><img src="https://smhn.info/wp-content/uploads/2026/09/20260910_181038.webp" alt="Xperia 10 VI、日本でAndroid 17アップデートの対象外。"></p>]]></description><source url="https://smhn.info/202609-xperia-10-vi-android-17-japan-list">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/09/20260910_181038.webp" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/09/20260910_181038.webp"/></item>
+<item><title>【本日みつけたお買い得品】M6搭載の新型Mac miniがセールに！公式より安く買えるぞ</title><link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2142714.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/todays_sales/2142714.html</guid><pubDate>Thu, 24 Sep 2026 00:28:10 +0000</pubDate><description><![CDATA[<p>【本日みつけたお買い得品】M6搭載の新型Mac miniがセールに！公式より安く買えるぞ
+
+Amazonにおいて、新型Mac miniがタイムセール中だ。Apple「Mac mini」の16GBメモリ/256GB SSD版は、7,500円引きで14万2,300円。16GBメモリ/512GB SSD版は、9,300円引きで17万6,500円にて購入できる。
+
+M6搭載の新型Mac miniがセールに！公式より安く買えるぞ
+
+Amazonにおいて、新型Mac miniがタイムセール中だ。Apple「Mac mini」の16GBメモリ/256GB SSD版は、7,500円引きで14万2,300円。16GBメモリ/512GB SSD版は、9,300円引きで17万6,500円にて購入できる。
+
+セールの対象となっているMac miniは、先日発売されたばかりの最新モデルだ。主な仕様は、CPUがM6チップ、メモリが16GB、ストレージが256/512GB、OSがmacOS。新たに採用したM6チップにより、M4版と比べ、最大4.8倍高速であるとする。また、エージェント型AIやアプリ内蔵AIなどのタスクも、よりパワフルに処理できるという。
+
+インターフェイスとして、Thunderbolt 4 3基、USB 3.2 Gen 2 Type-C 2基、HDMI、2.5Gigabit Ethernet、Wi-Fi 7、Bluetooth 6、音声入出力などを搭載する。
+
+Apple Mac mini (16GBメモリ/256GB SSD)
+
+Apple Mac mini (16GBメモリ/512GB SSD)</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2142/714/01.jpg" alt="【本日みつけたお買い得品】M6搭載の新型Mac miniがセールに！公式より安く買えるぞ"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/todays_sales/2142714.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2142/714/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2142/714/01.jpg"/></item>
+<item><title>Meta VR Glassesは長時間PC作業も疲れにくい、約100gの実力を体験</title><link>https://pc.watch.impress.co.jp/docs/news/2142661.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2142661.html</guid><pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate><description><![CDATA[<p>Meta VR Glassesは長時間PC作業も疲れにくい、約100gの実力を体験
+
+重さ約100gでストラップ不要のグラス型VRデバイスを、実際に装着して試した。Metaは9月24日に開催された「Meta Connect 2026」にて、コードネーム「Project Phoenix」として噂されていた新型VRヘッドセット「Meta VR Glasses」を発表した。発売時期は2027年春で、価格は1,299.99ドル。日本での販売価格は現時点では未定だ。
+
+Meta VR Glassesは長時間PC作業も疲れにくい、約100gの実力を体験
+
+重さ約100gでストラップ不要のグラス型VRデバイスを、実際に装着して試した。Metaは9月24日に開催された「Meta Connect 2026」にて、コードネーム「Project Phoenix」として噂されていた新型VRヘッドセット「Meta VR Glasses」を発表した。発売時期は2027年春で、価格は1,299.99ドル。日本での販売価格は現時点では未定だ。
+
+Meta VR Glasses最大の特徴は、プロセッサやバッテリなどを外部ユニットとして分離する2パーツ構成を採用し、ヘッドセット本体を小型・薄型・軽量化したこと。また、外部センサーを増設することで、「Apple Vision Pro」同様に腰付近でのハンドジェスチャーも検知可能となっている。さらにディスプレイとカメラの解像度も向上しており、PCのバーチャルデスクトップ画面に表示されたテキストも鮮明に読めるほどの高解像度を実現した。
+
+今回、Meta VR Glassesを実際に試用する機会を得たので、操作感、画質・音質、装着感、そしてPCワークやVRゲームでの使い勝手について詳しくお伝えしよう。
+
+「Meta VR Glasses」は本格的な「空間コンピューティ…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2142/661/PH01.jpg" alt="Meta VR Glassesは長時間PC作業も疲れにくい、約100gの実力を体験"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2142661.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2142/661/PH01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2142/661/PH01.jpg"/></item>
 <item><title>�����˷ڤ��ʤꡤ�ᥬ�ͤΤ褦�ˤ���������VR HMD��Meta VR Glasses��ȯɽ��ȯ��������2027ǯ�դ�ͽ��</title><link>https://www.4gamer.net/games/436/G043602/20260923003/</link><guid isPermaLink="true">https://www.4gamer.net/games/436/G043602/20260923003/</guid><pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate><description><![CDATA[<p>�����˷ڤ��ʤꡤ�ᥬ�ͤΤ褦�ˤ���������VR HMD��Meta VR Glasses��ȯɽ��ȯ��������2027ǯ�դ�ͽ��
 
 米国時間2026年9月23日，Metaは，新型のVR HMD「Meta VR Glasses」を2027年春に発売すると発表した。ゴーグル部分とコンピュータ部分を分離したことでゴーグルを大幅に軽量化…
@@ -4162,19 +4422,6 @@ Xperia 10 VI、日本でAndroid 17アップデートの対象外。
 ↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
 
 ↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon GO無双でした。D…</p><p><img src="https://www.4gamer.net/games/436/G043602/20260923003/SS/002.jpg" alt="�����˷ڤ��ʤꡤ�ᥬ�ͤΤ褦�ˤ���������VR HMD��Meta VR Glasses��ȯɽ��ȯ��������2027ǯ�դ�ͽ��"></p>]]></description><source url="https://www.4gamer.net/games/436/G043602/20260923003/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/436/G043602/20260923003/SS/002.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/436/G043602/20260923003/SS/002.jpg"/></item>
-<item><title>Meta VR Glassesは長時間PC作業も疲れにくい、約100gの実力を体験</title><link>https://pc.watch.impress.co.jp/docs/news/2142661.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2142661.html</guid><pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate><description><![CDATA[<p>Meta VR Glassesは長時間PC作業も疲れにくい、約100gの実力を体験
-
-重さ約100gでストラップ不要のグラス型VRデバイスを、実際に装着して試した。Metaは9月24日に開催された「Meta Connect 2026」にて、コードネーム「Project Phoenix」として噂されていた新型VRヘッドセット「Meta VR Glasses」を発表した。発売時期は2027年春で、価格は1,299.99ドル。日本での販売価格は現時点では未定だ。
-
-Meta VR Glassesは長時間PC作業も疲れにくい、約100gの実力を体験
-
-重さ約100gでストラップ不要のグラス型VRデバイスを、実際に装着して試した。Metaは9月24日に開催された「Meta Connect 2026」にて、コードネーム「Project Phoenix」として噂されていた新型VRヘッドセット「Meta VR Glasses」を発表した。発売時期は2027年春で、価格は1,299.99ドル。日本での販売価格は現時点では未定だ。
-
-Meta VR Glasses最大の特徴は、プロセッサやバッテリなどを外部ユニットとして分離する2パーツ構成を採用し、ヘッドセット本体を小型・薄型・軽量化したこと。また、外部センサーを増設することで、「Apple Vision Pro」同様に腰付近でのハンドジェスチャーも検知可能となっている。さらにディスプレイとカメラの解像度も向上しており、PCのバーチャルデスクトップ画面に表示されたテキストも鮮明に読めるほどの高解像度を実現した。
-
-今回、Meta VR Glassesを実際に試用する機会を得たので、操作感、画質・音質、装着感、そしてPCワークやVRゲームでの使い勝手について詳しくお伝えしよう。
-
-「Meta VR Glasses」は本格的な「空間コンピューティ…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2142/661/PH01.jpg" alt="Meta VR Glassesは長時間PC作業も疲れにくい、約100gの実力を体験"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2142661.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2142/661/PH01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2142/661/PH01.jpg"/></item>
 <item><title>ChatGPT Voice、声だけでメールやカレンダーを操作できるようになった</title><link>https://gori.me/it/170586</link><guid isPermaLink="true">https://gori.me/it/170586</guid><pubDate>Wed, 23 Sep 2026 23:53:02 +0000</pubDate><description><![CDATA[<p>ChatGPT Voice、声だけでメールやカレンダーを操作できるようになった
 
 OpenAIが、ChatGPT Voiceでメールやカレンダー、Slackなどのプラグインを使えるようにした。スマートフォンやCarPlayから、声で作業を頼める。GPT-6 Astra、Sol、Lunaで動き、ChatGPT Workでは文書やスライド、Webサイト作りにも使える。最新版アプリで本日から世界中に順次配信される。
@@ -4273,19 +4520,6 @@ INNOCN（本社：中国・深圳市）は2026年9月23日、27型IPS液晶デ�
 表示性能は視野角178°、色精度ΔE＜2で、色域はsRGB 99％、DCI-P3 91％、Adobe RGB 85％をカバー。HDR400にも対応する。またsRGB、Adobe RGB、DCI-P3、M.BOOKの各表示モードを備え、写真・動画編集やグラフィック制作など用途に応じて切り替えられる。
 
 映像入力にはUSB Type-Cを搭載し、対応デバイスとの接続ではQHD/144Hz表示に加えて最大15Wの給電が可能。ハードウェアローブルーライトやDC調光にも対応し、長時間使用時の目への負担にも配慮…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/09/23/INNOCN_CB27Q1_001.jpg" alt="QHD/144Hzで税込27,980円。白色ボディの27型IPSディスプレイ、INNOCN「CB27Q1」"></p>]]></description><source url="https://www.gdm.or.jp/pressrelease/2026/0924/653400">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/09/23/INNOCN_CB27Q1_001.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/09/23/INNOCN_CB27Q1_001.jpg"/></item>
-<item><title>決定的瞬間を撮影しろ！ハドソンソフト X1版『あなたは名カメラマン』</title><link>https://akiba-pc.watch.impress.co.jp/docs/column/retrosoft/2137796.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/column/retrosoft/2137796.html</guid><pubDate>Wed, 23 Sep 2026 23:05:00 +0000</pubDate><description><![CDATA[<p>決定的瞬間を撮影しろ！ハドソンソフト X1版『あなたは名カメラマン』
-
-当時の懐かしい広告とゲーム画面で、国産PCの歴史とノスタルジーに浸れる連載コーナー。今回は、1983年にハドソンソフトから発売されたカメラマンゲーム『あなたは名カメラマン』を取り上げます。
-
-決定的瞬間を撮影しろ！ハドソンソフト X1版『あなたは名カメラマン』
-
-当時の懐かしい広告とゲーム画面で、国産PCの歴史とノスタルジーに浸れる連載コーナー。今回は、1983年にハドソンソフトから発売されたカメラマンゲーム『あなたは名カメラマン』を取り上げます。
-
-1980年代前半にパソコンが少しずつ普及してくると、それに伴いソフトへの需要も高まっていきます。それは実用分野だけでなく、ゲームソフトも同じでした。そこで、いくつかのソフトハウスが多種類のソフトをリリースするようになっていくのですが、ハドソンソフトもそのうちの1社でした。多機種のパソコンへと数多くのゲームソフトを発売していましたが、1982年も終わりが見えてきた頃に市場デビューしたシャープのパソコン・X1へもソフトを供給していくこととなります。
-
-1982年末には早くもX1対応ソフトを広告に発表していますが、1983年3月下旬から4月上旬にかけて登場したのが、今回取り上げた『あなたは名カメラマン』。1983年4月18日に発売されたソフトバンクの月刊誌『Oh!MZ』に“新発売”として広告が掲載されているので、この時期の発売で間違いないかと思われます。
-
-タイトルに“名カメラマン”などと付いていると、アイドルをパパラッチしてスクープ写真を撮る！というようなゲームを思い浮かべる人もいるかもしれませんが、本作はもっと牧歌的な内容になっていました。今回使用したX1版のパッケージには「IPLより起動してください」の一言しか書かれていませんが、広告にはちょっとしたストー…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2137/796/0.jpg" alt="決定的瞬間を撮影しろ！ハドソンソフト X1版『あなたは名カメラマン』"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/column/retrosoft/2137796.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2137/796/0.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2137/796/0.jpg"/></item>
 <item><title>「Ryzen 7 9800X3D」が過去最安に迫る59,980円など、上昇から一転してRyzenの特価・下落が多数 [9月後半のCPU価格]</title><link>https://akiba-pc.watch.impress.co.jp/docs/price/monthly_repo/2142652.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/price/monthly_repo/2142652.html</guid><pubDate>Wed, 23 Sep 2026 23:05:00 +0000</pubDate><description><![CDATA[<p>「Ryzen 7 9800X3D」が過去最安に迫る59,980円など、上昇から一転してRyzenの特価・下落が多数 [9月後半のCPU価格]
 
 サハロフ佐藤(佐藤 純一)とAKIBA PC Hotline!編集部が、秋葉原各ショップのHDD、SSD、メモリ、CPUの店頭価格を独自に調査し、価格動向をお伝えするコーナーです。PCパーツ購入時などに参考としてご活用下さい。
@@ -4301,6 +4535,19 @@ INNOCN（本社：中国・深圳市）は2026年9月23日、27型IPS液晶デ�
 Ryzen 9000シリーズの大半が値下がり。「Ryzen 7 9800X3D」が12,820円安の59,980円となったのをはじめ、「Ryzen 9 9900X」が8,520円安の70,280円、「Ryzen 7 9700X」が9,820円安の特価39,980円などとなっている。このうち「Ryzen 7 9800X3D」は7月11日以来10週間ぶりの6万円割れで、過去最安値(59,800円)に180円差と迫った。
 
 Socket AM5向けは、ほかに「Ryzen 5 8600G」が2,005円安の33,795円、「Ryzen 5 7600」が6,360円安の28,440円、「Ryzen 5 7500F」…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2142/652/2026-0919-123818.jpg" alt="「Ryzen 7 9800X3D」が過去最安に迫る59,980円など、上昇から一転してRyzenの特価・下落が多数 [9月後半のCPU価格]"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/price/monthly_repo/2142652.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2142/652/2026-0919-123818.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2142/652/2026-0919-123818.jpg"/></item>
+<item><title>決定的瞬間を撮影しろ！ハドソンソフト X1版『あなたは名カメラマン』</title><link>https://akiba-pc.watch.impress.co.jp/docs/column/retrosoft/2137796.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/column/retrosoft/2137796.html</guid><pubDate>Wed, 23 Sep 2026 23:05:00 +0000</pubDate><description><![CDATA[<p>決定的瞬間を撮影しろ！ハドソンソフト X1版『あなたは名カメラマン』
+
+当時の懐かしい広告とゲーム画面で、国産PCの歴史とノスタルジーに浸れる連載コーナー。今回は、1983年にハドソンソフトから発売されたカメラマンゲーム『あなたは名カメラマン』を取り上げます。
+
+決定的瞬間を撮影しろ！ハドソンソフト X1版『あなたは名カメラマン』
+
+当時の懐かしい広告とゲーム画面で、国産PCの歴史とノスタルジーに浸れる連載コーナー。今回は、1983年にハドソンソフトから発売されたカメラマンゲーム『あなたは名カメラマン』を取り上げます。
+
+1980年代前半にパソコンが少しずつ普及してくると、それに伴いソフトへの需要も高まっていきます。それは実用分野だけでなく、ゲームソフトも同じでした。そこで、いくつかのソフトハウスが多種類のソフトをリリースするようになっていくのですが、ハドソンソフトもそのうちの1社でした。多機種のパソコンへと数多くのゲームソフトを発売していましたが、1982年も終わりが見えてきた頃に市場デビューしたシャープのパソコン・X1へもソフトを供給していくこととなります。
+
+1982年末には早くもX1対応ソフトを広告に発表していますが、1983年3月下旬から4月上旬にかけて登場したのが、今回取り上げた『あなたは名カメラマン』。1983年4月18日に発売されたソフトバンクの月刊誌『Oh!MZ』に“新発売”として広告が掲載されているので、この時期の発売で間違いないかと思われます。
+
+タイトルに“名カメラマン”などと付いていると、アイドルをパパラッチしてスクープ写真を撮る！というようなゲームを思い浮かべる人もいるかもしれませんが、本作はもっと牧歌的な内容になっていました。今回使用したX1版のパッケージには「IPLより起動してください」の一言しか書かれていませんが、広告にはちょっとしたストー…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2137/796/0.jpg" alt="決定的瞬間を撮影しろ！ハドソンソフト X1版『あなたは名カメラマン』"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/column/retrosoft/2137796.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2137/796/0.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2137/796/0.jpg"/></item>
 <item><title>vivo X500発表。7500mAh電池に光学3.1倍望遠で大型化、別売り外付け画面対応で約12万9000円から</title><link>https://smhn.info/202609-vivo-x500-launch-battery-telephoto</link><guid isPermaLink="true">https://smhn.info/202609-vivo-x500-launch-battery-telephoto</guid><pubDate>Wed, 23 Sep 2026 23:01:16 +0000</pubDate><description><![CDATA[<p>vivo X500発表。7500mAh電池に光学3.1倍望遠で大型化、別売り外付け画面対応で約12万9000円から
 
 vivoは中国向けに、7500mAhの大容量バッテリーと光学3.1倍の望遠カメラを備えたスマートフォン「vivo X500」を発表しました。実行メモリ12GB・ストレージ256GBモデルの希望小売価格は5499元（約12万9000円）です。上位のPro系に対応していた、撮影用の別...
@@ -5096,17 +5343,6 @@ e☆イヤホンが主催する、イヤホン・ヘッドホンを中心とし�
 ※上記以外のブース・店舗でのご購入は対象外ですのでご注意ください。
 
 ※プラチナくじの参加には、先にゴールドくじへの参加が必須となります。必ずゴールドくじ参加済…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/09/22b7695ff1f262f343ce7677983ddc11.webp" alt="【#ポタフェス 2026 大阪】スタンプラリー「ゴールドくじ」「プラチナくじ」開催！"></p>]]></description><source url="https://e-earphone.blog/?p=1553793">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/09/22b7695ff1f262f343ce7677983ddc11.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/09/22b7695ff1f262f343ce7677983ddc11.webp"/></item>
-<item><title>【過去の人気記事】PlayStation 2開発機「DTL-T10000H」が店頭入荷、価格は348,000円</title><link>https://akiba-pc.watch.impress.co.jp/docs/topic/popular/2140796.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/topic/popular/2140796.html</guid><pubDate>Wed, 23 Sep 2026 01:05:00 +0000</pubDate><description><![CDATA[<p>【過去の人気記事】PlayStation 2開発機「DTL-T10000H」が店頭入荷、価格は348,000円
-
-PlayStation 2のソフトウェア開発機「DTL-T10000H」が、家電のケンちゃんに入荷。店頭価格は348,000円。
-
-【過去の人気記事】PlayStation 2開発機「DTL-T10000H」が店頭入荷、価格は348,000円 - AKIBA PC Hotline!
-
-PlayStation 2開発機「DTL-T10000H」が店頭入荷、価格は348,000円
-
-PlayStation 2のソフトウェア開発機「DTL-T10000H」が、家電のケンちゃんに入荷。店頭価格は348,000円。
-
-Copyright © 2018 Impress Corporation. All rights reserved.</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/796/s1.jpg" alt="【過去の人気記事】PlayStation 2開発機「DTL-T10000H」が店頭入荷、価格は348,000円"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/topic/popular/2140796.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/796/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/796/s1.jpg"/></item>
 <item><title>モトローラ本気のハイエンド「Signature 27」正式発表！2億画素望遠、スナドラ8 Elite Extreme Gen 6、最大7世代OS更新</title><link>https://smhn.info/202609-motorola-signature-27-200mp-telephoto-preview</link><guid isPermaLink="true">https://smhn.info/202609-motorola-signature-27-200mp-telephoto-preview</guid><pubDate>Wed, 23 Sep 2026 01:05:00 +0000</pubDate><description><![CDATA[<p>モトローラ本気のハイエンド「Signature 27」正式発表！2億画素望遠、スナドラ8 Elite Extreme Gen 6、最大7世代OS更新
 
 Motorolaは現地時間9月22日、Snapdragon Summitで新型スマートフォン「motorola signature 27」を海外発表しました。SoCにSnapdragon 8 Elite Extreme Gen 6を搭載し、5000万画素のSony LYTIA 9...
@@ -5122,6 +5358,17 @@ Snapdragon 8 Elite Extreme Gen 6は、本日発表されたばかりのQualcomm�
 Snapdragon 8 Elite Gen 6正式発表！上位Extremeも登場、2nm・クロック5GHzへ
 
 冷却機構「ArcticMesh」を採用。ダイヤモンドを配合した熱伝導ゲル、液体金属、銅メッシュ、再設計し…</p><p><img src="https://smhn.info/wp-content/uploads/2026/09/capture_20260923_095116_080_34F5E4.webp" alt="モトローラ本気のハイエンド「Signature 27」正式発表！2億画素望遠、スナドラ8 Elite Extreme Gen 6、最大7世代OS更新"></p>]]></description><source url="https://smhn.info/202609-motorola-signature-27-200mp-telephoto-preview">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/09/capture_20260923_095116_080_34F5E4.webp" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/09/capture_20260923_095116_080_34F5E4.webp"/></item>
+<item><title>【過去の人気記事】PlayStation 2開発機「DTL-T10000H」が店頭入荷、価格は348,000円</title><link>https://akiba-pc.watch.impress.co.jp/docs/topic/popular/2140796.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/topic/popular/2140796.html</guid><pubDate>Wed, 23 Sep 2026 01:05:00 +0000</pubDate><description><![CDATA[<p>【過去の人気記事】PlayStation 2開発機「DTL-T10000H」が店頭入荷、価格は348,000円
+
+PlayStation 2のソフトウェア開発機「DTL-T10000H」が、家電のケンちゃんに入荷。店頭価格は348,000円。
+
+【過去の人気記事】PlayStation 2開発機「DTL-T10000H」が店頭入荷、価格は348,000円 - AKIBA PC Hotline!
+
+PlayStation 2開発機「DTL-T10000H」が店頭入荷、価格は348,000円
+
+PlayStation 2のソフトウェア開発機「DTL-T10000H」が、家電のケンちゃんに入荷。店頭価格は348,000円。
+
+Copyright © 2018 Impress Corporation. All rights reserved.</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/796/s1.jpg" alt="【過去の人気記事】PlayStation 2開発機「DTL-T10000H」が店頭入荷、価格は348,000円"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/topic/popular/2140796.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/796/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/796/s1.jpg"/></item>
 <item><title>Razer、デスクトップスピーカー「Mako」を18年ぶりに復活、2.1chと2.0chの2機種</title><link>https://www.gdm.or.jp/pressrelease/2026/0923/653390</link><guid isPermaLink="true">https://www.gdm.or.jp/pressrelease/2026/0923/653390</guid><pubDate>Wed, 23 Sep 2026 01:00:56 +0000</pubDate><description><![CDATA[<p>Razer、デスクトップスピーカー「Mako」を18年ぶりに復活、2.1chと2.0chの2機種
 
 Razer、デスクトップスピーカー「Mako」を約18年ぶりに復活。サブウーファー付きの2.1chモデル「Mako」と、USB Type-C給電に対応する2.0chモデル「Mako X」を展開する。
@@ -5758,19 +6005,6 @@ iPhoneの設定アプリに赤いバッジ（①）が付いたまま消えな�
 タレコミをくれた読者は2TBのプランを契約中で、容量を増やす必要はまったくない状態だ。それでもバッジは表示され続けている。
 
 この通知の困ったところは、押しても引っ込まないことだ。バッジをタップすると、iCloudスト…</p><p><img src="https://gori.me/uploads/2026/09/Apple-Account-Storage-bug-800x500.jpg" alt="2TB契約者にも「iCloud容量を増やして」。iOS 27の通知バグ、押しても消えない"></p>]]></description><source url="https://gori.me/ios/ios-news/170505">gori.me</source><media:content url="https://gori.me/uploads/2026/09/Apple-Account-Storage-bug-800x500.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/09/Apple-Account-Storage-bug-800x500.jpg"/></item>
-<item><title>̾��NEOGEO�����������ޤǺƸ��������μ��յ������Ȥ��ơ����ٱ�HDMI�ʤɸ��������ε�ǽ����������NEOGEO AES+�פΥץ쥼�������ݡ��ȡ�TGS2026��</title><link>https://www.4gamer.net/games/999/G999902/20260921067/</link><guid isPermaLink="true">https://www.4gamer.net/games/999/G999902/20260921067/</guid><pubDate>Tue, 22 Sep 2026 08:00:00 +0000</pubDate><description><![CDATA[<p>̾��NEOGEO�����������ޤǺƸ��������μ��յ������Ȥ��ơ����ٱ�HDMI�ʤɸ��������ε�ǽ����������NEOGEO AES+�פΥץ쥼�������ݡ��ȡ�TGS2026��
-
-名機「NEOGEO」を現代によみがえらせる「NEOGEO AES+」が，「東京ゲームショウ2026」にプレイアブル出展された。会場では開発陣によるプレゼンも行われ，本機の特徴やNEOGEO復活へのこ…
-
-名機NEOGEOを処理落ちまで再現。過去の周辺機器も使えて，低遅延HDMIなど現代向けの機能も備える「NEOGEO AES+」のプレゼンをレポート［TGS2026］ ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
-
-↓アイコン/タイトル↓ 東京ゲームショウに来たら“読みもの”を集めよう！ 雑誌にカタログ，新聞風。会場で見つけた＆もらった小冊子を紹介［TGS2026］ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像…</p><p><img src="https://www.4gamer.net/games/999/G999902/20260921067/SS/005.jpg" alt="̾��NEOGEO�����������ޤǺƸ��������μ��յ������Ȥ��ơ����ٱ�HDMI�ʤɸ��������ε�ǽ����������NEOGEO AES+�פΥץ쥼�������ݡ��ȡ�TGS2026��"></p>]]></description><source url="https://www.4gamer.net/games/999/G999902/20260921067/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/999/G999902/20260921067/SS/005.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/999/G999902/20260921067/SS/005.jpg"/></item>
 <item><title>�ֿ������פ�ƣ������Ϻ�᤬�꤬������THE FIRST ZOMBIE�פˤϡ��ޤ��������ʤ��Ȥ��ޤ��ޤʻųݤ��ɤ��������������˳�ȯ��΢¦��ʹ������TGS2026��</title><link>https://www.4gamer.net/games/043/G104316/20260920036/</link><guid isPermaLink="true">https://www.4gamer.net/games/043/G104316/20260920036/</guid><pubDate>Tue, 22 Sep 2026 08:00:00 +0000</pubDate><description><![CDATA[<p>�ֿ������פ�ƣ������Ϻ�᤬�꤬������THE FIRST ZOMBIE�פˤϡ��ޤ��������ʤ��Ȥ��ޤ��ޤʻųݤ��ɤ��������������˳�ȯ��΢¦��ʹ������TGS2026��
 
 TGS 2026のPhoenixxブースで，「THE FIRST ZOMBIE」Phoenixxの野崎雄大氏にインタビューを実施した。藤井健太郎氏がプロデュースする本作は，ゾンビになった主人公を操作…
@@ -5786,6 +6020,19 @@ TGS 2026のPhoenixxブースで，「THE FIRST ZOMBIE」Phoenixxの野崎雄大�
 ↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
 
 …</p><p><img src="https://www.4gamer.net/games/043/G104316/20260920036/SS/002.jpg" alt="�ֿ������פ�ƣ������Ϻ�᤬�꤬������THE FIRST ZOMBIE�פˤϡ��ޤ��������ʤ��Ȥ��ޤ��ޤʻųݤ��ɤ��������������˳�ȯ��΢¦��ʹ������TGS2026��"></p>]]></description><source url="https://www.4gamer.net/games/043/G104316/20260920036/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/043/G104316/20260920036/SS/002.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/043/G104316/20260920036/SS/002.jpg"/></item>
+<item><title>̾��NEOGEO�����������ޤǺƸ��������μ��յ������Ȥ��ơ����ٱ�HDMI�ʤɸ��������ε�ǽ����������NEOGEO AES+�פΥץ쥼�������ݡ��ȡ�TGS2026��</title><link>https://www.4gamer.net/games/999/G999902/20260921067/</link><guid isPermaLink="true">https://www.4gamer.net/games/999/G999902/20260921067/</guid><pubDate>Tue, 22 Sep 2026 08:00:00 +0000</pubDate><description><![CDATA[<p>̾��NEOGEO�����������ޤǺƸ��������μ��յ������Ȥ��ơ����ٱ�HDMI�ʤɸ��������ε�ǽ����������NEOGEO AES+�פΥץ쥼�������ݡ��ȡ�TGS2026��
+
+名機「NEOGEO」を現代によみがえらせる「NEOGEO AES+」が，「東京ゲームショウ2026」にプレイアブル出展された。会場では開発陣によるプレゼンも行われ，本機の特徴やNEOGEO復活へのこ…
+
+名機NEOGEOを処理落ちまで再現。過去の周辺機器も使えて，低遅延HDMIなど現代向けの機能も備える「NEOGEO AES+」のプレゼンをレポート［TGS2026］ ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
+
+↓アイコン/タイトル↓ 東京ゲームショウに来たら“読みもの”を集めよう！ 雑誌にカタログ，新聞風。会場で見つけた＆もらった小冊子を紹介［TGS2026］ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像…</p><p><img src="https://www.4gamer.net/games/999/G999902/20260921067/SS/005.jpg" alt="̾��NEOGEO�����������ޤǺƸ��������μ��յ������Ȥ��ơ����ٱ�HDMI�ʤɸ��������ε�ǽ����������NEOGEO AES+�פΥץ쥼�������ݡ��ȡ�TGS2026��"></p>]]></description><source url="https://www.4gamer.net/games/999/G999902/20260921067/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/999/G999902/20260921067/SS/005.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/999/G999902/20260921067/SS/005.jpg"/></item>
 <item><title>11インチiPad Pro、台数限定でかなり安い。AppleCare+込みで11万円引き</title><link>https://gori.me/sale/peripheral-sale/170504</link><guid isPermaLink="true">https://gori.me/sale/peripheral-sale/170504</guid><pubDate>Tue, 22 Sep 2026 07:59:02 +0000</pubDate><description><![CDATA[<p>11インチiPad Pro、台数限定でかなり安い。AppleCare+込みで11万円引き
 
 Amazonで11インチiPad Pro（M5）のWi-Fi + Cellularモデル2TBが値下がり。AppleCare+付きが464,599円から352,788円、盗難・紛失プラン付きが467,400円から355,589円で、どちらも24％オフだ。差額2,801円の選び方を整理した。
@@ -7086,6 +7333,19 @@ A520M-A PRO (AMD A520チップセットマザーボード) 約10元値上げ(約
 このうち『PRO B760M-B DDR4』『PRO H610M-S DDR4 II』は日本未発売となっており、日本で影響があるのは『A520M-A PRO』のみとなっています。
 
 また、値上げ幅はわずか約230円のため、小売価格への影響は小さなものにな…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2026/07/msi-top.jpg" alt="MSI、新たにいくつかのマザーボード卸価格を値上げとの情報。影響は小さめ"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-132305.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2026/07/msi-top.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2026/07/msi-top.jpg"/></item>
+<item><title>Core i5-10210Uを搭載したHP製15.6型ノートPCが10%オフで25,740円、Qualitの中古Cランク品セール</title><link>https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2141897.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2141897.html</guid><pubDate>Mon, 21 Sep 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>Core i5-10210Uを搭載したHP製15.6型ノートPCが10%オフで25,740円、Qualitの中古Cランク品セール
+
+Core i5-10210U(4コア/8スレッド)を搭載したHP製15.6型ノートPC「ProBook 450 G7」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で期間限定セール中。
+
+Core i5-10210Uを搭載したHP製15.6型ノートPCが10%オフで25,740円、Qualitの中古Cランク品セール
+
+Core i5-10210U(4コア/8スレッド)を搭載したHP製15.6型ノートPC「ProBook 450 G7」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で期間限定セール中 。
+
+今回販売されているのは、「傷や使用感が見られる」(同店)というCランク中古品で、販売価格は25,740円。保証期間は12か月で、「バッテリーテストを実施したところ、80%以上の結果を出したモデル」とのこと。
+
+主な仕様は、ディスプレイ解像度が1,366×768ドット、メモリが8GB(空きスロット×1)、ストレージが500GB SATA HDD、OSがWindows 11 Pro。インターフェイスには、HDMIやUSB 3.1 Type-C、SDカードスロットなどを備えるほか、Webカメラや無線LAN機能、指紋認証機能を搭載しています。
+
+セール期間は9月30日までとなっています。興味がある方はチェックしてみてください。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2141/897/a1.jpg" alt="Core i5-10210Uを搭載したHP製15.6型ノートPCが10%オフで25,740円、Qualitの中古Cランク品セール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2141897.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2141/897/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2141/897/a1.jpg"/></item>
 <item><title>GIGABYTE�Υ����ߥ󥰥֥����ɡ�AORUS�ץ֡����ǡ��ǿ��ΥΡ���PC��ͭ��EL�ǥ����ץ쥤���Ȥäƥ��������θ���TGS2026�ϡ�PR��</title><link>https://www.4gamer.net/games/259/G025981/20260919012/</link><guid isPermaLink="true">https://www.4gamer.net/games/259/G025981/20260919012/</guid><pubDate>Mon, 21 Sep 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>GIGABYTE�Υ����ߥ󥰥֥����ɡ�AORUS�ץ֡����ǡ��ǿ��ΥΡ���PC��ͭ��EL�ǥ����ץ쥤���Ȥäƥ��������θ���TGS2026�ϡ�PR��
 
 ゲーミングPCから各種PCパーツまで，多彩な製品を展開しているGIGABYTEが，TGS2026にゲーマー向け製品ブランド「AORUS」のブースを出展していた。AORUSブースから，見どころの多い最…
@@ -7101,19 +7361,6 @@ GIGABYTEのゲーミングブランド「AORUS」ブースで，最新のノー�
 ↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
 
 ↓アイコン/タイトル↓ 10年前の4Gamer人気記事を…</p><p><img src="https://www.4gamer.net/games/259/G025981/20260919012/SS/037.jpg" alt="GIGABYTE�Υ����ߥ󥰥֥����ɡ�AORUS�ץ֡����ǡ��ǿ��ΥΡ���PC��ͭ��EL�ǥ����ץ쥤���Ȥäƥ��������θ���TGS2026�ϡ�PR��"></p>]]></description><source url="https://www.4gamer.net/games/259/G025981/20260919012/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/259/G025981/20260919012/SS/037.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/259/G025981/20260919012/SS/037.jpg"/></item>
-<item><title>Core i5-10210Uを搭載したHP製15.6型ノートPCが10%オフで25,740円、Qualitの中古Cランク品セール</title><link>https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2141897.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2141897.html</guid><pubDate>Mon, 21 Sep 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>Core i5-10210Uを搭載したHP製15.6型ノートPCが10%オフで25,740円、Qualitの中古Cランク品セール
-
-Core i5-10210U(4コア/8スレッド)を搭載したHP製15.6型ノートPC「ProBook 450 G7」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で期間限定セール中。
-
-Core i5-10210Uを搭載したHP製15.6型ノートPCが10%オフで25,740円、Qualitの中古Cランク品セール
-
-Core i5-10210U(4コア/8スレッド)を搭載したHP製15.6型ノートPC「ProBook 450 G7」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で期間限定セール中 。
-
-今回販売されているのは、「傷や使用感が見られる」(同店)というCランク中古品で、販売価格は25,740円。保証期間は12か月で、「バッテリーテストを実施したところ、80%以上の結果を出したモデル」とのこと。
-
-主な仕様は、ディスプレイ解像度が1,366×768ドット、メモリが8GB(空きスロット×1)、ストレージが500GB SATA HDD、OSがWindows 11 Pro。インターフェイスには、HDMIやUSB 3.1 Type-C、SDカードスロットなどを備えるほか、Webカメラや無線LAN機能、指紋認証機能を搭載しています。
-
-セール期間は9月30日までとなっています。興味がある方はチェックしてみてください。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2141/897/a1.jpg" alt="Core i5-10210Uを搭載したHP製15.6型ノートPCが10%オフで25,740円、Qualitの中古Cランク品セール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2141897.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2141/897/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2141/897/a1.jpg"/></item>
 <item><title>�����Υ饤���󥹤������ʤ�27�ФΥܥ��ɤ�IO Interactive�Ϥɤ��������Τ�����007 �ե������ȡ��饤�ȡ׳�ȯ�ԥ��󥿥ӥ塼��TGS2026��</title><link>https://www.4gamer.net/games/916/G091663/20260921008/</link><guid isPermaLink="true">https://www.4gamer.net/games/916/G091663/20260921008/</guid><pubDate>Mon, 21 Sep 2026 02:53:40 +0000</pubDate><description><![CDATA[<p>�����Υ饤���󥹤������ʤ�27�ФΥܥ��ɤ�IO Interactive�Ϥɤ��������Τ�����007 �ե������ȡ��饤�ȡ׳�ȯ�ԥ��󥿥ӥ塼��TGS2026��
 
 「HITMAN」シリーズで知られるIO Interactiveが，ジェームズ・ボンドを題材に手がけた「007 ファースト・ライト」。描かれるのは，まだ殺しのライセンスを持たない27歳のボンドだ。東京…
@@ -8371,295 +8618,4 @@ Windows11 26H2イネーブルメントパッケージKB5121794
 使用しているOSがWindows11 25H2またはWindows11 24H2で、尚且つ最新の更新プログラム(少なくとも日本時間で2026年8月28日リリースのKB5120998以上)をインストールしている場合、イネーブルメントパッケージをインストールすればすぐにWindows11 26H2になります。(注: イネーブルメントパッケージはWindows11 25H2 / Windows11 24H2環境専用です。ほかのOSバージョン、例えばWindows11 26H1やWindows11 23H2以前では使えません)
 
 で、記事冒頭の通り、MicrosoftのサーバーにWindows11 26H…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2026/06/windows11-26h2-top.jpg" alt="Windows11 26H2が利用可能に。MSがイネーブルメントパッケージKB5121794をアップロード。25H2や24H2から今すぐ簡単に26H2へアップデート可能"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-132365.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2026/06/windows11-26h2-top.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2026/06/windows11-26h2-top.jpg"/></item>
-<item><title>iPhone・Android間で「RCS」相互利用が可能に！</title><link>https://iphone-mania.jp/carrier-606235/</link><guid isPermaLink="true">https://iphone-mania.jp/carrier-606235/</guid><pubDate>Sat, 19 Sep 2026 14:35:37 +0000</pubDate><description><![CDATA[<p>iPhone・Android間で「RCS」相互利用が可能に！
-
-国内の主要携帯キャリアによる対応が進み、iPhoneとAndroidの間で「RCS（リッチコミュニケーションサービス）」の送受信が可能となりました。
-
-iPhone・Android間で「RCS」相互利用が可能に！
-
-国内の主要携帯キャリアによる対応が進み、iPhoneとAndroidの間で「 RCS （リッチコミュニケーションサービス）」の送受信が可能となりました。
-
-従来のSMS（ショートメッセージサービス）の後継規格として位置付けられるRCSですが、異なるOS間でのやり取りや iOS26.5 での エンドツーエンド暗号化（E2EE） のベータ版導入により、モバイルメッセージングの利便性は大きく向上します。
-
-本記事では、今回実現したRCS相互利用の概要と利用条件を解説した上で、Appleが対応に踏み切った背景や「LINE一強」といわれる日本市場への影響、普及に向けた課題について考察します。
-
-RCSとは、電話番号を識別子として利用しながら、従来のSMSでは実現できなかったリッチなデータ通信を可能にする国際標準規格です。国内主要キャリアの案内によると、iPhoneとAndroid間で相互利用の環境が整ったことで、メッセージング体験が大幅に進化します。
-
-多彩なリッチコンテンツ送信 ：テキストだけでなく、高画質な写真や動画、スタンプ、音声メッセージの送受信が可能です。
-
-グループチャット対応 ：複数人でのテキストやメディアの共有に対応します。
-
-エンドツーエンド暗号化（E2EE） ：AppleとGoogleの共同整備により、異なるOS間におけるメッセージ保護機能がベータ版として順次提供されています。
-
-iPhone ： iOS27 を搭載した端末の「メッセージ」アプリでRCS機能をオンに設定。
-
-Android…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/19/RCS-iPhone-Android.png" alt="iPhone・Android間で「RCS」相互利用が可能に！"></p>]]></description><source url="https://iphone-mania.jp/carrier-606235/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/19/RCS-iPhone-Android.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/19/RCS-iPhone-Android.png"/></item>
-<item><title>PS5�Ǥ�ȯ���⹵������Euro Truck Simulator 2�ס�SCS Software�˥�����Ÿ�����ܳʲ�����ư����ʹ������TGS2026��</title><link>https://www.4gamer.net/games/203/G020311/20260919075/</link><guid isPermaLink="true">https://www.4gamer.net/games/203/G020311/20260919075/</guid><pubDate>Sat, 19 Sep 2026 14:02:34 +0000</pubDate><description><![CDATA[<p>PS5�Ǥ�ȯ���⹵������Euro Truck Simulator 2�ס�SCS Software�˥�����Ÿ�����ܳʲ�����ư����ʹ������TGS2026��
-
-TGS　2026のNeon NoroshiブースにSCS Softwareが出展していた。「Euro Truck Simulator 2」をプレイしながら，アジア圏への本格展開を進める理由や，PS5…
-
-PS5版の発売も控える「Euro Truck Simulator 2」。SCS Softwareにアジア展開を本格化する動きを聞いた［TGS2026］ ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
-
-↓アイコン/タイトル↓ 東京ゲームショウに来たら“読みもの”を集めよう！ 雑誌にカタログ，新聞風。会場で見つけた＆もらった小冊子を紹介［TGS2026］ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 10年前の4Gamer人気…</p><p><img src="https://www.4gamer.net/games/203/G020311/20260919075/SS/001.jpg" alt="PS5�Ǥ�ȯ���⹵������Euro Truck Simulator 2�ס�SCS Software�˥�����Ÿ�����ܳʲ�����ư����ʹ������TGS2026��"></p>]]></description><source url="https://www.4gamer.net/games/203/G020311/20260919075/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/203/G020311/20260919075/SS/001.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/203/G020311/20260919075/SS/001.jpg"/></item>
-<item><title>iOS27でApple Intelligenceに最大14GB必要〜対象iPhoneは3機種</title><link>https://iphone-mania.jp/ios-606233/</link><guid isPermaLink="true">https://iphone-mania.jp/ios-606233/</guid><pubDate>Sat, 19 Sep 2026 13:52:53 +0000</pubDate><description><![CDATA[<p>iOS27でApple Intelligenceに最大14GB必要〜対象iPhoneは3機種
-
-iOS27でApple Intelligenceを利用するために必要なストレージ容量が、機種によって異なることがApple公式サポートページで明らかになりました。一部のiPhoneでは最大14GBが必要で、その他の対応iPhoneでは最大8GBとされています。
-
-iOS27でApple Intelligenceに最大14GB必要〜対象iPhoneは3機種
-
-iOS27 でApple Intelligenceを利用するために必要なストレージ容量が、機種によって異なることがApple公式サポートページで明らかになりました。 一部のiPhoneでは最大14GBが必要で、その他の対応iPhoneでは最大8GBとされています。
-
-全対応iPhoneが14GB必要になったわけではないため、自分の機種を確認しておくことをおすすめします。一部機種では、従来の最大8GBから最大14GBへ必要容量が拡大しています。
-
-Apple公式サポートによると、 最大14GBが必要なiPhoneは以下の3機種です。
-
-この3機種では、Siriの声の表現力や話す速さのカスタマイズ、精度を高めた音声入力に対応しています。これらの機能ではより高性能なオンデバイスモデルを使用するため、追加のストレージ容量が必要になると報じられています。
-
-そのほか、一定条件を満たすiPadやMac、Apple Vision Pro（M5）も最大14GBの対象となります。上記以外のApple Intelligence対応のiPhone・iPad・Macでは、最大8GBのストレージが必要とされています。なおApple Watchでは最大1.5GBです。
-
-iPhone15 ProやiPhone16シリーズなど、上記3機種（iPhone17…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/19/28d75d65ef7b83b3a9e8b649cb5cb67e.png" alt="iOS27でApple Intelligenceに最大14GB必要〜対象iPhoneは3機種"></p>]]></description><source url="https://iphone-mania.jp/ios-606233/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/19/28d75d65ef7b83b3a9e8b649cb5cb67e.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/19/28d75d65ef7b83b3a9e8b649cb5cb67e.png"/></item>
-<item><title>ȯ�䤵�줿�Ф����κǿ��������ѥåɡ�Xeno Pro�פ�LeadJoy�֡����ǥ����å������Ф��Τ��륢���å������ȤȤκƲ���</title><link>https://www.4gamer.net/games/999/G999902/20260919073/</link><guid isPermaLink="true">https://www.4gamer.net/games/999/G999902/20260919073/</guid><pubDate>Sat, 19 Sep 2026 13:38:59 +0000</pubDate><description><![CDATA[<p>ȯ�䤵�줿�Ф����κǿ��������ѥåɡ�Xeno Pro�פ�LeadJoy�֡����ǥ����å������Ф��Τ��륢���å������ȤȤκƲ���
-
-東京ゲームショウ2026のLeadJoyブースに立ち寄ったところ，販売が始まったばかりの最新ゲームパッド「Xeno Pro」を展示していた。税込9980円と，手に取りやすい価格を実現しつつ，豊富な機…
-
-発売されたばかりの最新ゲームパッド「Xeno Pro」をLeadJoyブースでチェック。見覚えのあるアタッチメントとの再会も ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
-
-↓アイコン/タイトル↓ 東京ゲームショウに来たら“読みもの”を集めよう！ 雑誌にカタログ，新聞風。会場で見つけた＆もらった小冊子を紹介［TGS2026］ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・夏】。Pokémon…</p><p><img src="https://www.4gamer.net/games/999/G999902/20260919073/SS/003.jpg" alt="ȯ�䤵�줿�Ф����κǿ��������ѥåɡ�Xeno Pro�פ�LeadJoy�֡����ǥ����å������Ф��Τ��륢���å������ȤȤκƲ���"></p>]]></description><source url="https://www.4gamer.net/games/999/G999902/20260919073/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/999/G999902/20260919073/SS/003.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/999/G999902/20260919073/SS/003.jpg"/></item>
-<item><title>【Amazonタイムセール】NASとの転送を高速化、ASUSの10GbE LANカードが31％オフ</title><link>https://www.gdm.or.jp/pressrelease/2026/0919/653239</link><guid isPermaLink="true">https://www.gdm.or.jp/pressrelease/2026/0919/653239</guid><pubDate>Sat, 19 Sep 2026 11:33:25 +0000</pubDate><description><![CDATA[<p>【Amazonタイムセール】NASとの転送を高速化、ASUSの10GbE LANカードが31％オフ
-
-ASUSの10GbE対応PCI Express LANカード「XG-C100C」がAmazonで31％オフ。5Gbpsや2.5Gbpsなどにも対応する定番モデルを、税込13,676円で購入できる。
-
-【Amazonタイムセール】NASとの転送を高速化、ASUSの10GbE LANカードが31％オフ
-
-マルチギガビット対応「XG-C100C」が税込13,676円
-
-Amazon.co.jpにて、ASUSの10GbE対応PCI Express LANカード 「XG-C100C」 がタイムセール中。通常価格19,826円から31％オフとなる、税込13,676円で販売されている。
-
-10Gbpsに加え、5Gbps、2.5Gbps、1Gbps、100Mbpsの通信規格に対応。既存のネットワーク環境との互換性を保ちながら、デスクトップPCへ高速な有線LAN環境を追加できる。
-
-NASへの大容量データ転送や動画編集用ストレージへのアクセスなど、1GbEでは物足りなくなってきたユーザーに好適。息の長い定番モデルだけに、10GbE化を考えていたなら狙いやすいセール価格だ。
-
-文： 編集部 松枝 清顕 ASUS JAPAN株式会社： https://www.asus.com/
-
-【Amazonタイムセール】CORSAIRのATX 3.1対応650W電源「CX…
-
-【Amazonタイムセール】強化ガラスで魅せるNZXT「H9 Elite」が43…
-
-軽さで選ぶか、収納力で選ぶか。ASUSの新作バックパック2製品
-
-3台とペアリングできる打鍵音50dB未満の薄型キーボード、ASUS「KW100」
-
-ASUS NUC 16 Proを完全ファンレス化できる、Akasa「Newton…
-
-80TOPSの…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2024/09/13/XG-C100C_V3_01.jpg" alt="【Amazonタイムセール】NASとの転送を高速化、ASUSの10GbE LANカードが31％オフ"></p>]]></description><source url="https://www.gdm.or.jp/pressrelease/2026/0919/653239">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2024/09/13/XG-C100C_V3_01.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2024/09/13/XG-C100C_V3_01.jpg"/></item>
-<item><title>�������ѥåɤΥ��ʥ������ƥ��å����鼴�����ä����ɤ��ʤ롩 �Ȥ��ˤ��ɤȤ������������Ϥ���Axisray Lab�Ρ�BASH�פ����TGS2026��</title><link>https://www.4gamer.net/games/999/G999902/20260919062/</link><guid isPermaLink="true">https://www.4gamer.net/games/999/G999902/20260919062/</guid><pubDate>Sat, 19 Sep 2026 10:50:52 +0000</pubDate><description><![CDATA[<p>�������ѥåɤΥ��ʥ������ƥ��å����鼴�����ä����ɤ��ʤ롩 �Ȥ��ˤ��ɤȤ������������Ϥ���Axisray Lab�Ρ�BASH�פ����TGS2026��
-
-東京ゲームショウ2026に，Axisray Labがブースを出展し，ユニークなゲームパッド「BASH」を展示していた。本製品は，独自機構の「GumiTap」が，一般的なアナログスティックの代わりを務…
-
-ゲームパッドのアナログスティックから軸を取ったらどうなる？ “ぐにぃ”という感触が心地いいAxisray Labの「BASH」を試す［TGS2026］ ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
-
-↓アイコン/タイトル↓ 東京ゲームショウに来たら“読みもの”を集めよう！ 雑誌にカタログ，新聞風。会場で見つけた＆もらった小冊子を紹介［TGS2026］ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 10年前…</p><p><img src="https://www.4gamer.net/games/999/G999902/20260919062/SS/008.jpg" alt="�������ѥåɤΥ��ʥ������ƥ��å����鼴�����ä����ɤ��ʤ롩 �Ȥ��ˤ��ɤȤ������������Ϥ���Axisray Lab�Ρ�BASH�פ����TGS2026��"></p>]]></description><source url="https://www.4gamer.net/games/999/G999902/20260919062/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/999/G999902/20260919062/SS/008.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/999/G999902/20260919062/SS/008.jpg"/></item>
-<item><title>iPhone 18 ProのFace ID、アンチグレアもダメだけど「厚化粧」もダメらしいぞ</title><link>https://gori.me/iphone/iphone-news/170430</link><guid isPermaLink="true">https://gori.me/iphone/iphone-news/170430</guid><pubDate>Sat, 19 Sep 2026 10:46:28 +0000</pubDate><description><![CDATA[<p>iPhone 18 ProのFace ID、アンチグレアもダメだけど「厚化粧」もダメらしいぞ
-
-iPhone 18 Pro／Pro MaxでFace IDが通らない問題、Appleが公式サポートページに原因を追記した。のぞき見防止フィルムを外せ、そして濃いメイクや美容マスクを落とせとのこと。フィルムメーカー4社は回収や販売停止に踏み切っている。
-
-iPhone 18 ProのFace ID、アンチグレアもダメだけど「厚化粧」もダメらしいぞ
-
-Appleが公式に追記。日本語ページには執筆時点でまだ載ってない
-
-Appleがサポートページに、iPhone 18 ProシリーズでFace IDが機能しない場合の対処として「のぞき見防止フィルムを外す」「濃いメイクや美容マスクを落とす」「暗所でのメガネとマスクの調整」「極端な逆光を避ける」の4点を追記した
-
-PGA、トリニティ、ラスタバナナが9月18日に回収や交換を発表し、NIMASOも対象のアンチグレアフィルムの販売を一時停止。ラスタバナナの正常品発送は最長1カ月程度かかる見込み
-
-日本語版のサポートページには、本記事執筆時点でiPhone 18 Proシリーズに関する記述が反映されていない
-
-アンチグレアの保護フィルムだけじゃなかった。「 iPhone 18 Pro 」「 iPhone 18 Pro Max 」で Face ID が正常に動かない問題について、Appleが公式サポートページに「 濃いメイクを落とす 」という対処法を追記した。
-
-Appleのサポートドキュメント「iPhoneやiPad ProでFace IDが機能しない場合」 が更新されたもので、 気になる、記になる… が紹介しているのを読んで知った。先日 アンチグレアの保護フィルムでFace IDが動かなくなるという話 を取り上げたばかりだが、Apple自身が出…</p><p><img src="https://gori.me/uploads/2017/11/Testing-Face-ID-by-beoming-a-woman-150-723x482.jpg" alt="iPhone 18 ProのFace ID、アンチグレアもダメだけど「厚化粧」もダメらしいぞ"></p>]]></description><source url="https://gori.me/iphone/iphone-news/170430">gori.me</source><media:content url="https://gori.me/uploads/2017/11/Testing-Face-ID-by-beoming-a-woman-150-723x482.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2017/11/Testing-Face-ID-by-beoming-a-woman-150-723x482.jpg"/></item>
-<item><title>Geminiも他社にハッキングか。ネット民は半信半疑</title><link>https://smhn.info/202609-google-gemini-irregular-three-company-intrusions</link><guid isPermaLink="true">https://smhn.info/202609-google-gemini-irregular-three-company-intrusions</guid><pubDate>Sat, 19 Sep 2026 10:11:08 +0000</pubDate><description><![CDATA[<p>Geminiも他社にハッキングか。ネット民は半信半疑
-
-GoogleのAI「Gemini」が、2026年5月に行われたサイバーセキュリティー能力のテスト中に、実在する企業3社のシステムへ侵入していたことが分かりました。Reutersが報じています。AnthropicやOpenAIで既に聞いたことのあるような事案ですが、GoogleのA...
-
-GoogleのAI「Gemini」が、2026年5月に行われたサイバーセキュリティー能力のテスト中に、実在する企業3社のシステムへ侵入していたことが分かりました。Reutersが報じています。
-
-AnthropicやOpenAIで既に聞いたことのあるような事案ですが、 GoogleのAIが自律的にこうした侵入を行った事例の確認は、今回が初めて とされています。
-
-ちなみにこの件を受けてのネット民の反応は、概ね「 Geminiにそんなことできるわけがない 」といったもので、性能の低さやハルシネーションの多さから既にGeminiへの信頼が損なわれている実情が伺えます。
-
-さて、今回の侵入事案は一体どういったものだったのでしょうか？
-
-テストを実施したのは、AIのセキュリティー評価を手がけるIrregularです。Investing.comがWall Street Journalの報道をもとに伝えたところによると、Geminiには試験用の架空企業から情報を取得する課題が与えられていました。ところが試験環境で意図せずインターネット接続が有効になっており、架空企業と同名の実在企業を攻撃対象にしてしまったといいます。
-
-Reutersによると、1件ではパスワードを推測して保護されたシステムへ侵入し、残る2件では公開リポジトリにあった認証情報を見つけてアクセスしていました。
-
-Googleのセキュリティーエンジニアリング担当副社長Heather A…</p><p><img src="https://smhn.info/wp-content/uploads/2026/09/roiko-gemini-security-breach-investigation.webp" alt="Geminiも他社にハッキングか。ネット民は半信半疑"></p>]]></description><source url="https://smhn.info/202609-google-gemini-irregular-three-company-intrusions">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/09/roiko-gemini-security-breach-investigation.webp" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/09/roiko-gemini-security-breach-investigation.webp"/></item>
-<item><title>【Amazonタイムセール】CORSAIRのATX 3.1対応650W電源「CX650M」が34％オフ</title><link>https://www.gdm.or.jp/pressrelease/2026/0919/653237</link><guid isPermaLink="true">https://www.gdm.or.jp/pressrelease/2026/0919/653237</guid><pubDate>Sat, 19 Sep 2026 10:04:46 +0000</pubDate><description><![CDATA[<p>【Amazonタイムセール】CORSAIRのATX 3.1対応650W電源「CX650M」が34％オフ
-
-CORSAIRの容量650W電源ユニット「CX650M（2025）」がAmazonで34％オフ。ATX 3.1およびPCIe 5.1に対応するセミモジュラー電源を、税込11,365円で購入できる。
-
-【Amazonタイムセール】CORSAIRのATX 3.1対応650W電源「CX650M」が34％オフ
-
-12V-2×6ケーブル付属のセミモジュラー電源が税込11,365円
-
-Amazon.co.jpにて、CORSAIRの容量650W電源ユニット 「CX650M（2025）」 がタイムセール中。通常価格17,303円から34％オフとなる、税込11,365円で販売されている。
-
-ATX 3.1およびPCIe 5.1規格に準拠し、12V-2×6ケーブルが付属。必要なケーブルだけを装着できるセミモジュラー方式を採用し、PCケース内部の配線もすっきりとまとめられる。
-
-650Wクラスはミドルレンジ構成で扱いやすく、電源容量を無理に大きくしたくないユーザーにも好適。定番メーカーの新世代対応モデルを手頃に導入できるタイムセールだ。
-
-文： 編集部 松枝 清顕 CORSAIR： http://www.corsair.com/
-
-【Amazonタイムセール】NASとの転送を高速化、ASUSの10GbE LAN…
-
-【Amazonタイムセール】強化ガラスで魅せるNZXT「H9 Elite」が43…
-
-軽さで選ぶか、収納力で選ぶか。ASUSの新作バックパック2製品
-
-3台とペアリングできる打鍵音50dB未満の薄型キーボード、ASUS「KW100」
-
-ASUS NUC 16 Proを完全ファンレス化できる、Akasa「Newton…
-
-80TOPSのAI性能を手のひらサイズに。ASUS「Asce…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/09/19/CX650M2025_0021.jpg" alt="【Amazonタイムセール】CORSAIRのATX 3.1対応650W電源「CX650M」が34％オフ"></p>]]></description><source url="https://www.gdm.or.jp/pressrelease/2026/0919/653237">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/09/19/CX650M2025_0021.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/09/19/CX650M2025_0021.jpg"/></item>
-<item><title>【Amazonタイムセール】強化ガラスで魅せるNZXT「H9 Elite」が43％オフ</title><link>https://www.gdm.or.jp/pressrelease/2026/0919/653235</link><guid isPermaLink="true">https://www.gdm.or.jp/pressrelease/2026/0919/653235</guid><pubDate>Sat, 19 Sep 2026 09:57:44 +0000</pubDate><description><![CDATA[<p>【Amazonタイムセール】強化ガラスで魅せるNZXT「H9 Elite」が43％オフ
-
-NZXTのデュアルチャンバー型PCケース「H9 Elite」ホワイトがAmazonで43％オフ。フロントとトップに強化ガラスパネルを備えた大型モデルを、税込14,980円で購入できる。
-
-【Amazonタイムセール】強化ガラスで魅せるNZXT「H9 Elite」が43％オフ
-
-Amazon.co.jpにて、NZXTのミドルタワーPCケース 「H9 Elite」ホワイト（型番：CM-H91EW-01） がタイムセール中。通常価格26,071円から43％オフとなる、税込14,980円で販売されている。
-
-フロントとトップに強化ガラスパネルを採用し、内部を広く見渡せるデュアルチャンバー構造を採用。最大10基の冷却ファンを搭載でき、側面とトップ、ボトムには360mmサイズのラジエーターも装着できる。
-
-現行ラインナップではないものの、ドレスアップ重視の大型ケースを探しているなら見逃せない価格。大型のH9シリーズが1万5千円を切る機会は珍しく、旧モデルを承知で狙いたくなるセールだ。
-
-文： 編集部 松枝 清顕 NZXT： https://nzxt.com/
-
-【Amazonタイムセール】NASとの転送を高速化、ASUSの10GbE LAN…
-
-【Amazonタイムセール】CORSAIRのATX 3.1対応650W電源「CX…
-
-軽さで選ぶか、収納力で選ぶか。ASUSの新作バックパック2製品
-
-3台とペアリングできる打鍵音50dB未満の薄型キーボード、ASUS「KW100」
-
-ASUS NUC 16 Proを完全ファンレス化できる、Akasa「Newton…
-
-80TOPSのAI性能を手のひらサイズに。ASUS「Ascent QN10」発表
-
-2026年9月20日 USB接続外付けのDVDドライブ…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/09/19/NZXT_H9_Elite_001.jpg" alt="【Amazonタイムセール】強化ガラスで魅せるNZXT「H9 Elite」が43％オフ"></p>]]></description><source url="https://www.gdm.or.jp/pressrelease/2026/0919/653235">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/09/19/NZXT_H9_Elite_001.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/09/19/NZXT_H9_Elite_001.jpg"/></item>
-<item><title>軽さで選ぶか、収納力で選ぶか。ASUSの新作バックパック2製品</title><link>https://www.gdm.or.jp/pressrelease/2026/0919/653228</link><guid isPermaLink="true">https://www.gdm.or.jp/pressrelease/2026/0919/653228</guid><pubDate>Sat, 19 Sep 2026 09:40:17 +0000</pubDate><description><![CDATA[<p>軽さで選ぶか、収納力で選ぶか。ASUSの新作バックパック2製品
-
-約450gの軽量モデルと、16インチ／14インチノートPC用の専用収納を備えたProArtモデル。ASUSが用途の異なるバックパック2製品を発売
-
-軽さで選ぶか、収納力で選ぶか。ASUSの新作バックパック2製品
-
-450gの普段使いモデルと、2台のノートPCを運べるProArtモデル
-
-ASUS JAPAN株式会社（本社：東京都千代田区）は2026年9月18日、バックパック 「ASUS AP4600 Backpack」 と 「ProArt Backpack PP2600」 を発売した。ASUS Storeでの販売価格は順に税込4,980円、税込18,980円。
-
-「ASUS AP4600 Backpack」は、日常的な持ち運びに適した軽量・スリムモデル。12個以上のポケットを備え、スマートフォンやモバイルバッテリー、ボトルなどを整理して収納できる。外装には撥水性と耐傷性に優れたポリエステル素材を採用し、通気性に優れたショルダーハーネスも備える。
-
-最大16インチのノートPCを収納可能で、外形寸法は幅300mm、奥行き430mm、高さ100mm、重量は約450g。本体カラーはグレー。
-
-一方の「ProArt Backpack PP2600」は、クリエイター向けの高機能モデル。16インチと14インチのノートPCをそれぞれ収納できる2つの専用コンパートメントを備え、マウスや充電器、ケーブル、カメラなどの機材をまとめて持ち運べる。
-
-メインコンパートメントは180°開閉でき、複数のインナーポケットに加えて、2つのサイドポケット、3つのフロントポケット、2つの隠しポケットを装備。表面に撥水加工を施した耐傷性の高いPUポリエステル素材を採用し、チェストストラップやスーツケースに固定できるラゲージストラップも備える。
-
-文…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/09/19/ASUS_AP4600_Backpack_001.jpg" alt="軽さで選ぶか、収納力で選ぶか。ASUSの新作バックパック2製品"></p>]]></description><source url="https://www.gdm.or.jp/pressrelease/2026/0919/653228">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/09/19/ASUS_AP4600_Backpack_001.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/09/19/ASUS_AP4600_Backpack_001.jpg"/></item>
-<item><title>2�ͤʤ������ۤ������롪�����ȥ��ե塼���㡼��2�����ѥѥ��륢�ɥ٥����㡼��We Were Here Tomorrow�׻�ͷ���ݡ��ȡ�TGS2026��</title><link>https://www.4gamer.net/games/986/G098660/20260919021/</link><guid isPermaLink="true">https://www.4gamer.net/games/986/G098660/20260919021/</guid><pubDate>Sat, 19 Sep 2026 09:21:01 +0000</pubDate><description><![CDATA[<p>2�ͤʤ������ۤ������롪�����ȥ��ե塼���㡼��2�����ѥѥ��륢�ɥ٥����㡼��We Were Here Tomorrow�׻�ͷ���ݡ��ȡ�TGS2026��
-
-2026年9月17日から21日にかけて開催中の「東京ゲームショウ2026」にて，Total Mayhem Gamesが開発中の新作タイトル「We Were Here Tomorrow」を試遊した。本…
-
-2人なら乗り越えられる！ レトロフューチャーな2人専用パズルアドベンチャー「We Were Here Tomorrow」試遊レポート［TGS2026］ ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
-
-↓アイコン/タイトル↓ 東京ゲームショウに来たら“読みもの”を集めよう！ 雑誌にカタログ，新聞風。会場で見つけた＆もらった小冊子を紹介［TGS2026］ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 10年前の4Gamer…</p><p><img src="https://www.4gamer.net/games/986/G098660/20260919021/SS/002.jpg" alt="2�ͤʤ������ۤ������롪�����ȥ��ե塼���㡼��2�����ѥѥ��륢�ɥ٥����㡼��We Were Here Tomorrow�׻�ͷ���ݡ��ȡ�TGS2026��"></p>]]></description><source url="https://www.4gamer.net/games/986/G098660/20260919021/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/986/G098660/20260919021/SS/002.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/986/G098660/20260919021/SS/002.jpg"/></item>
-<item><title>3台とペアリングできる打鍵音50dB未満の薄型キーボード、ASUS「KW100」</title><link>https://www.gdm.or.jp/pressrelease/2026/0919/653223</link><guid isPermaLink="true">https://www.gdm.or.jp/pressrelease/2026/0919/653223</guid><pubDate>Sat, 19 Sep 2026 09:20:28 +0000</pubDate><description><![CDATA[<p>3台とペアリングできる打鍵音50dB未満の薄型キーボード、ASUS「KW100」
-
-打鍵音50dB未満の静音設計を採用。最大3台のデバイスを切り替えて使えるASUSの薄型Bluetoothキーボード「ASUS Marshmallow Keyboard KW100」
-
-3台とペアリングできる打鍵音50dB未満の薄型キーボード、ASUS「KW100」
-
-ASUS JAPAN株式会社（本社：東京都千代田区）は2026年9月18日、コンパクトなワイヤレスキーボード 「ASUS Marshmallow Keyboard KW100」 を発売した。販売売価は税込5,980円で即日販売が開始されている。
-
-薄型のミニマルなデザインを採用する80キー英語配列のワイヤレスキーボード。Bluetooth 5.0（BLE）に対応し、ノートPCやデスクトップPC、タブレットなど最大3台のデバイスとペアリングできる。Windows／ChromeOSとmacOS／iOS／iPadOSのキーレイアウトを切り替える機能も備える。
-
-キースイッチはパンタグラフ式で、キーピッチ18.7mm、キートラベル1.6mm。内部に静音フォームを備え、打鍵音を50dB未満に抑えている。またキックスタンドの開閉により、傾斜角を2段階で調整もできる。
-
-電源は単4形乾電池 ×2本で、電池寿命は最長約24カ月。通信距離は約10mで、本体サイズは幅282mm、奥行き130mm、高さ18.4mm、重量は約375g。本体カラーはイリデセントホワイトで、単4形乾電池 ×2本が付属する。
-
-文： 編集部 松枝 清顕 ASUS JAPAN株式会社： https://www.asus.com/
-
-軽さで選ぶか、収納力で選ぶか。ASUSの新作バックパック2製品
-
-80TOPSのAI性能を手のひらサイズに。ASUS「Ascent QN10」発表…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/09/19/KW100_002.jpg" alt="3台とペアリングできる打鍵音50dB未満の薄型キーボード、ASUS「KW100」"></p>]]></description><source url="https://www.gdm.or.jp/pressrelease/2026/0919/653223">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/09/19/KW100_002.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/09/19/KW100_002.jpg"/></item>
-<item><title>Pixel、アップデートで黒画面・カクつきが追加されたとの報告。</title><link>https://smhn.info/202609-pixel-update-lag-screen-pin-reports</link><guid isPermaLink="true">https://smhn.info/202609-pixel-update-lag-screen-pin-reports</guid><pubDate>Sat, 19 Sep 2026 09:07:37 +0000</pubDate><description><![CDATA[<p>Pixel、アップデートで黒画面・カクつきが追加されたとの報告。
-
-2026年9月の更新後、Pixel 7の画面のカクつきやPixel 9のフリーズなどを訴える投稿がRedditに出ており、Android AuthorityもAndroid 17 QPR1が配信された時期に利用者から不調の報告が寄せられていると伝えています。Googleは9月の公...
-
-Pixel、アップデートで黒画面・カクつきが追加されたとの報告。
-
-2026年9月の更新後、Pixel 7の画面のカクつきやPixel 9のフリーズなどを訴える投稿がRedditに出ており、Android AuthorityもAndroid 17 QPR1が配信された時期に利用者から不調の報告が寄せられていると伝えています。
-
-Googleは9月の公式アップデート案内で、Android 17を搭載する対応Pixelへの段階的な配信を告知しています。Pixel 7やPixel 8a、Pixel 9も対象に含まれています。
-
-Pixel 9に関する投稿 では、9月のPixel Dropを導入した直後に表示が止まり、再起動後には画面が真っ暗になったと訴えています。電源ボタン操作時の振動は反応し、セーフモードでも画面停止が起きたとのことです。一方で、同じスレッドには更新後も問題なく使えているというコメントも寄せられています。
-
-Pixel 8aでは、再起動後にPINを1桁入力しただけで送信されたようになり、誤ったPINとして処理されてしまうという投稿がありました。投稿者は、9月のGoogle Playシステム更新が出たという情報を見て設定から更新のための再起動を行ったと説明しており、外付けキーボードを接続しても同じ挙動だったとしています。
-
-Pixel 7に関する投稿 は、RedditやInstagramなどのスクロール時や通知パ…</p><p><img src="https://smhn.info/wp-content/uploads/2024/09/th_DSC_3619.png" alt="Pixel、アップデートで黒画面・カクつきが追加されたとの報告。"></p>]]></description><source url="https://smhn.info/202609-pixel-update-lag-screen-pin-reports">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2024/09/th_DSC_3619.png" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2024/09/th_DSC_3619.png"/></item>
-<item><title>1冊33～99円のKindleマンガ全巻セールまとめ【9月第3週版】</title><link>https://komameblog.jp/sale/kindle-20260919-all/</link><guid isPermaLink="true">https://komameblog.jp/sale/kindle-20260919-all/</guid><pubDate>Sat, 19 Sep 2026 09:02:47 +0000</pubDate><description><![CDATA[<p>1冊33～99円のKindleマンガ全巻セールまとめ【9月第3週版】
-
-9月第3週に始まった1冊99円以下のKindleマンガ全巻（既刊全巻を含む）セールのなかから、対象作品の少ない小規模なセールをまとめました。秋田書店99円セール毎週更新される秋田書店の99円セールに、2012年連載スタートのサスペンス作品『...
-
-9月第3週に始まった1冊99円以下のKindleマンガ全巻（既刊全巻を含む）セールのなかから、対象作品の少ない小規模なセールをまとめました。
-
-毎週更新される秋田書店の99円セールに、2012年連載スタートのサスペンス作品『神アプリ』とその続編（前日譚）が追加されました。シリーズ合計30巻でボリュームタップリです。
-
-2010年代に集英社のジャンプ系青年誌で連載された作品。災害派遣医療チーム（DMAT）を描いたヒューマンドラマです。2014年には実写ドラマ化もされました。
-
-2015年に集英社ジャンプ系雑誌に連載され、後にアニメ化もされたSFマンガシリーズ。先日までポイント還元込みで実質77円のセールが行なわれていましたが、突然販売額が1冊77円のセールに変更されました。セール期間は不明。
-
-EX-ARM Another Code エクスアーム アナザーコード
-
-先日まで1冊77円でセール販売されていた作品の一部が、9/18から1冊33円の全巻セールに切り替わりました。セール期間はおそらく9/30ごろまでと思われます。
-
-白泉社ジェッツコミックスの対象作品2作が、1冊99円で全巻セール中です。期間は10/1まで。
-
-9/17に終了したはずの「秋のマンガ祭り」対象作品が、9/19時点でもまだ1冊99円で販売されています。突然終わるかもしれないので、未チェックの人はお早めに。
-
-全巻セールではないものの、ある程度のボリュームを楽しめる人気作品です。
-
-お買い得パ…</p><p><img src="https://komameblog.jp/wp-content/uploads/2026/09/Kindle-20260919-all.jpg" alt="1冊33～99円のKindleマンガ全巻セールまとめ【9月第3週版】"></p>]]></description><source url="https://komameblog.jp/sale/kindle-20260919-all/">こまめブログ</source><media:content url="https://komameblog.jp/wp-content/uploads/2026/09/Kindle-20260919-all.jpg" medium="image"/><media:thumbnail url="https://komameblog.jp/wp-content/uploads/2026/09/Kindle-20260919-all.jpg"/></item>
 </channel></rss>
