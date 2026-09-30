@@ -1,6 +1,141 @@
 {
   "akiba": [
     {
+      "Title": "画面割れMacや余ったPCが24時間働くAIエージェントに！ゼロ円からの「Hermes Agent」構築術",
+      "Link": "https://pc.watch.impress.co.jp/docs/topic/feature/2144262.html",
+      "Published": "2026-09-29T21:08:00Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "画面割れMacや余ったPCが24時間働くAIエージェントに！ゼロ円からの「Hermes Agent」構築術\n\n2026年に入り、AI界隈で存在感を高めているのが、Nous Researchが手掛ける自律エージェント「Hermes Agent」だ。\n\n画面割れMacや余ったPCが24時間働くAIエージェントに！ゼロ円からの「Hermes Agent」構築術\n\n2026年に入り、AI界隈で存在感を高めているのが、Nous Researchが手掛ける自律エージェント「Hermes Agent」だ。\n\n本稿では、余剰PCや画面割れのMacを母艦にして導入し、無料/低コストのモデルを追加したうえで、人格設定とDiscord連携までを実践する。なお、サービスの料金や対応モデル、画面表示は更新される可能性があるため、記事中の内容は執筆時点のものとして読んでほしい。\n\n「Hermes Agent」って最近よく聞くけど、実際どうやって動かすの？\n\nエージェントに魂を吹き込む: 自分だけの相棒に仕立てる人格定義\n\n1.「Hermes Agent」って最近よく聞くけど、実際どうやって動かすの？\n\nSNSや技術系メディアで見かけて、「単なるチャットボットと違って自分でコマンドを叩いてタスクをこなすらしい」、「自分好みのAIに育てられるらしい」と気になり、「一度自分でも動かしてみたい！」と思っている読者も多いのではないだろうか。\n\n従来のチャットボット型サービスは、基本的に質問に対して文章で答える「会話ツール」だ。一方のHermes Agentは、ユーザーの指示を受けてシェルやブラウザなどのツールを使い、手元の環境で作業を進められるセルフホスト型AIエージェントである。\n\nローカル環境で直接コマンドを実行: 手元のファイルを整理したり、シェルコマンドを実行したり、Webブラウザを自動操作して情報を集…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2144/262/1.jpg"
+    },
+    {
+      "Title": "【大原雄介の半導体業界こぼれ話】錬金術並みに難しい「FPGA」を、AIで民主化させるLatticeの野望",
+      "Link": "https://pc.watch.impress.co.jp/docs/column/tidbit/2144244.html",
+      "Published": "2026-09-29T21:06:00Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "【大原雄介の半導体業界こぼれ話】錬金術並みに難しい「FPGA」を、AIで民主化させるLatticeの野望\n\n今月も雑談を3つほど。\n\n錬金術並みに難しい「FPGA」を、AIで民主化させるLatticeの野望\n\nLatticeは9月16日、 新FPGA と併せて、 Lattice Promptを発表した 。\n\nLattice Promptとは何か？というと、要するにFPGAの設計をAIコーディングするためのツールである。\n\n具体的にいえば、既存のAIというか、LLMベースのIDE(Claude CodeだったりCursorだったり)に、LatticeのFPGA向けの設計に必要になるスキルセット+MCPを提供することで、これらのIDE上で直接Lattice用のVHDLを生成できるのだ(図1)。このVHDLはLatticeの開発ツールであるLattice Radiantに直接喰わせることが可能で、そのままBitstream生成まで行ける、というものである。\n\n実際の事例では、たとえばCUDAで記述されたコードをそのまま読み込ませ、そこからPython→ブロックレベルのRTLを生成する(図2)とか、既に存在するコードのタイミング最適化を行なう(図3)といったことも可能だという。\n\nLLMベースのIDEそのものはユーザーが契約を行なう必要がある(おそらく無償枠で使える範囲では大したことはできないだろう)が、Promptで提供されるMCPとスキルセットは無料である。要するに、必ずしもHDLに習熟していないユーザーであっても、FPGAのプログラミングが可能になる、という道が公式ツールとして開かれたわけだ。\n\n「FPGAに慣れていないプログラマーにFPGAのプログラミングをしてもらう」というのは昔からFPGA業界の悲願だ。普通のプログラマは山ほどいるが、HDLが書けるプログラマーは非常に少…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2144/244/Photo01.jpg"
+    },
+    {
+      "Title": "Apple Creator Studio更新、iPad版Pixelmator Proに「選択とマスク」",
+      "Link": "https://gori.me/apps/ipad-app-news/170803",
+      "Published": "2026-09-29T21:05:52Z",
+      "Source": "gori.me",
+      "Category": "正式・公式発表",
+      "Summary": "Apple Creator Studio更新、iPad版Pixelmator Proに「選択とマスク」\n\nAppleが「Final Cut Camera 2.4」を無料で公開した。iPhone 18 Proの可変絞りに対応し、シャッター優先と絞り優先の2モードも選べる。ProResやApple Logの映像でも、あとからボケを調整可能だ。iOS 27ではビデオスコープやクリーンSDI出力も加わる。\n\nApple Creator Studio更新、iPad版Pixelmator Proに「選択とマスク」\n\niPhone 18 Proの動画は、Final Cut Proで撮影後に焦点とボケを調整できる\n\nFinal Cut Camera 2.4がiPhone 18 Proの可変絞りに対応し、絞りを数値で細かく設定できる\n\nアップデートは無料で、2026年9月29日から配信されている\n\niOS 27ではクリーンSDI出力やゲンロックオフセットも加わり、配信・収録の現場に向く\n\nAppleは2026年9月29日、 Apple Creator Studio の アップデート を発表した。 iPad 版Pixelmator Proに 「選択とマスク」 が加わった。Mac版のFinal Cut ProとMotionでは、 iPhone 18 Pro で撮ったビデオに シネマティックモードのエフェクト をかけられるようになった。Keynote、Pages、Numbers、フリーボードにも、新しいテンプレートと機能が入っている。\n\nApple Creator Studioは、2026年1月29日の提供開始から数えて、これが大きな アップデート の3回目になる。1回目は提供開始と同時に来た各アプリの更新、2回目は6月30日の大型 アップデート だった。料金は変わらず月額1,780円または年額1…",
+      "ImageURL": "https://gori.me/uploads/2026/01/Apple-Creator-Studio-Prerelease-Review-08-800x534.jpg"
+    },
+    {
+      "Title": "Final Cut Camera 2.4登場、iPhone 18 Proの可変絞りを動画で操作可能に",
+      "Link": "https://gori.me/apps/iphone-app-news/170802",
+      "Published": "2026-09-29T20:54:46Z",
+      "Source": "gori.me",
+      "Category": "正式・公式発表",
+      "Summary": "Final Cut Camera 2.4登場、iPhone 18 Proの可変絞りを動画で操作可能に\n\nAppleが「Final Cut Camera 2.4」を無料で公開した。iPhone 18 Proの可変絞りに対応し、シャッター優先と絞り優先の2モードも選べる。ProResやApple Logの映像でも、あとからボケを調整可能だ。iOS 27ではビデオスコープやクリーンSDI出力も加わる。\n\nFinal Cut Camera 2.4登場、iPhone 18 Proの可変絞りを動画で操作可能に\n\nシャッター優先・絞り優先モードに対応。iOS 27ではビデオスコープやSDI出力も\n\nFinal Cut Camera 2.4がiPhone 18 Proの可変絞りに対応し、絞りを数値で細かく設定できる\n\nアップデートは無料で、2026年9月29日から配信されている\n\niOS 27ではクリーンSDI出力やゲンロックオフセットも加わり、配信・収録の現場に向く\n\nAppleは、iPhone向けの撮影アプリ「Final Cut Camera」のバージョン2.4を公開した。見た目を一新したほか、 iPhone 18 Pro の 可変絞り に対応し、 iOS 27 に合わせてプロ向けの機能も追加している。\n\nApple Newsroom によると、 アップデート は 無料 で、2026年9月29日から配信されている。今回の目玉は、 iPhone 18 Pro のカメラの新しい仕組みを、動画撮影で細かく操作できるようになった点だ。\n\n絞りとは、レンズに入る光の量を調整する仕組みのことだ。大きく開けば暗い場所でも明るく撮れ、背景もボケやすくなる。反対に絞ると、手前から奥までピントが合いやすくなる。\n\nAppleによると、 iPhone 18 Pro の「Fusionメインカメラ」は、iPho…",
+      "ImageURL": "https://gori.me/uploads/2026/09/Apple-Final-Cut-Camera-hero-800x450.jpg"
+    },
+    {
+      "Title": "Apple Watch Series 12、Ultra 4「緑の光」問題と新シアターモード設定",
+      "Link": "https://iphone-mania.jp/iwatch-606802/",
+      "Published": "2026-09-29T19:23:16Z",
+      "Source": "iPhone Mania",
+      "Category": "watchOS27",
+      "Summary": "Apple Watch Series 12、Ultra 4「緑の光」問題と新シアターモード設定\n\nスマートウォッチのヘルスケア機能が向上する一方で、暗所での「意図しない光漏れ」に注意が必要です。\n\nApple Watch Series 12、Ultra 4「緑の光」問題と新シアターモード設定\n\nスマートウォッチのヘルスケア機能が向上する一方で、暗所での「 意図しない光漏れ 」に注意が必要です。\n\n海外メディアの報道によると、 Apple Watch Series 12およびApple Watch Ultra 4 では、心拍数計測の精度向上によって裏面センサーがほぼ 常時点滅 する仕様へ変更されました。\n\nそこで新たに追加された「 シアターモード時の連続計測設定 」について、技術的背景と日本特有の利用マナーを踏まえた活用術を解説します。\n\nApple Watch Series 12やUltra 4を装着していて、「手首の隙間から緑色の光が以前より頻繁に見える」と違和感を覚えた方も多いのではないでしょうか。この光漏れの背景には、心拍センサーの精度向上と、それに伴う計測プロセスの変化があります。\n\n従来のApple Watchは安静時に約5分間隔で心拍計測を行っていましたが、Series 12やUltra 4では 5秒に1回 （実質的な連続計測）へ刷新されました。1分あたりの計測回数は12回となり、従来の60倍ものデータ密度を実現しています。\n\nApple Watchは緑色のLEDを皮膚に照射し、手首の毛細血管を流れる血液（赤血球）の光吸収率の変化から心拍数を割り出しています。計測頻度が5秒間隔になったことで 緑色LEDが常に明滅を繰り返す状態 となり、バンドの隙間から光が漏れやすくなりました。\n\n周囲への光漏れとバッテリー消費を防ぐため、標準状態では特定モード時に自動で「 5分…",
+      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/09/30/Apple-Watch-Series-12-2up-260909.jpg"
+    },
+    {
+      "Title": "Windows11 26H2の既知の不具合",
+      "Link": "https://www.nichepcgamer.com/archives/post-132655.html",
+      "Published": "2026-09-29T18:40:30Z",
+      "Source": "ニッチなPCゲーマーの環境構築Z",
+      "Category": "Windows11バージョン26H2",
+      "Summary": "Windows11 26H2の既知の不具合\n\n日本時間で2026年9月30日に公開されたWindows11 26H2 (Windows11 2026 Update)には、以下の既知の不具合がアナウンスされています。 更新履歴 ［記事初公開日: ...\n\n日本時間で2026年9月30日に公開されたWindows11 26H2 (Windows11 2026 Update)には、以下の既知の不具合がアナウンスされています。\n\n日本時間で2026年8月28日以降にリリースされた更新プログラムをインストールしていると、一部の仮想デスクトップ環境において、Windowsにサインインすると画面が真っ黒になる場合があります。\n\nこの不具合は主にAzure Virtual Desktop (AVD)ホストでFSLogixを使用している場合に発生するとされています。(ユーザーからはOmnissa HorizonやCitrix Profile Management (Citrix UPM)利用環境でも発生が報告されています)\n\n一時的な対処方法・回避策として、サインイン後、タスクマネージャーを開いて『新しいタスクを実行する』からExplorer.exeを手動で起動すると、デスクトップが表示されます。\n\nまたは、本不具合を修正するグループポリシーをインストールすることでも本不具合の発生を防げます。\n\nWindows11 26H2 / 25H2 / 24H2 KB5124010 260924_20021 Known Issue Rollback\n\nこのグループポリシーは『コンピューターの構成』 → 『管理用テンプレート』に新たに作成されます。グループポリシーの設定を『無効』にして『OK』を押してPCを再起動すれば、本不具合が修正されます。(ややこしいですが、『無効』にすることで更新プログラムの問題…",
+      "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2026/09/windows11-batsubatu-issue-top.jpg"
+    },
+    {
+      "Title": "Microsoft、Windows11 26H2 / 2026 Updateを提供開始。正式リリース",
+      "Link": "https://www.nichepcgamer.com/archives/post-131886.html",
+      "Published": "2026-09-29T17:42:53Z",
+      "Source": "ニッチなPCゲーマーの環境構築Z",
+      "Category": "Windows11バージョン26H2",
+      "Summary": "Microsoft、Windows11 26H2 / 2026 Updateを提供開始。正式リリース\n\nMicrosoftは、2026年のWindows11大型アップデートである、Windows11 バージョン26H2 / Windows11 2026 Updateの提供を開始しました。 Window...\n\nMicrosoftは、2026年のWindows11大型アップデートである、 Windows11 バージョン26H2 / Windows11 2026 Updateの提供を開始しました。\n\nWindows11 26H2 / Windows11 2026 Updateのロールアウト開始・アップデート方法\n\nWindows11 2026 UpdateことWindows11 26H2は、Microsoftによると、まずは『Windows Update』の『利用可能になったらすぐに最新の更新プログラムを入手する』のトグルをオンにしているWindows11 25H2 / 24H2ユーザー向けに段階的ロールアウトを開始したとのこと。\n\n対象者にはWindows UpdateにWindows11 26H2が降ってきます。なお、トグルをオンにしていても必ずすぐにWindows11 26H2が降ってくるわけではありません。段階的なロールアウトが行われているため、いつ降ってくるかは環境により異なります。また、互換性に問題がある場合やセーフガードホールドが適用されている場合は、問題が解決されるまで降ってきません。\n\n今回の大型アップデートはイネーブルメントパッケージ形式が採用されています。イネーブルメントパッケージとは、事前にダウンロードしておいた無効化された大型アップデート(26H2)を有効化するだけの更新プログラムのため、25H2 or 24H2 → 26H2へとアップデートする場合は…",
+      "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2026/08/windows11-26h2-b.jpg"
+    },
+    {
+      "Title": "Intel、光るCPUの特許。MicroLEDをCPUに組み込む",
+      "Link": "https://www.nichepcgamer.com/archives/post-132640.html",
+      "Published": "2026-09-29T17:33:51Z",
+      "Source": "ニッチなPCゲーマーの環境構築Z",
+      "Category": "CPU",
+      "Summary": "Intel、光るCPUの特許。MicroLEDをCPUに組み込む\n\nIntelがMicroLEDをCPUに組み込む特許を公開しました。海外メディアのTom’s Hardwareが報じました。 IntelがMicroLEDをCPUパッケージに直接組み込む特許を公開した...\n\nIntelがMicroLEDをCPUに組み込む特許を公開しました。 海外メディアのTom’s Hardwareが報じました。\n\nIntelがMicroLEDをCPUパッケージに直接組み込む特許を公開した。この特許は2022年に出願されたものだが2026年9月に公開された。\n\nIntelはCPUにMicroLEDを組み込むことでどのように活用されるかいくつか例を挙げている。その中でプロセッサーが「特定の機能が実行されていることを示すため、 あるいは単に美的効果を得るため 」と述べている。\n\nまた、「CPU上の文字を光らせる」ために使用されるとも説明しており、CPU上で直接確認できる何らかの表示機能を示唆している。しかしそれをどのようにして実現するのかは不明だ。\n\nさらにLEDの色を変えることができることも明示されている。これはRGBメモリに近いものを意味する可能性がある。\n\nなお、「特許」は「製品」ではないことを留意しておいてほしい。\n\n実際にMicroLEDが組み込まれたIntel CPU製品が登場するかどうかは定かではありません。もし登場するなら、はたして「光るCPU」にどれほどの需要があるでしょうか。\n\n(そして最大の謎は、CPUクーラーを設置後にどうやってCPUが光っているのを確認できるのでしょうか……)\n\n筆者は自作PC歴20年以上の経験を持ち、Windows OSの細部にわたるカスタマイズや高度な設定、PCゲームの最適化、PCハードウェアとソフトウェアに関する専門知識をもとに、PC環境を快適に…",
+      "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2026/09/intel-top-aa-light.jpg"
+    },
+    {
+      "Title": "“Panther Lake”のダイを解析した話",
+      "Link": "https://northwood.blog.fc2.com/blog-entry-13214.html",
+      "Published": "2026-09-29T15:17:01Z",
+      "Source": "北森瓦版",
+      "Category": "",
+      "Summary": "“Panther Lake”のダイを解析した話\n\n北森瓦版 - Northwood Blog (Author : 北森八雲. Since July 10, 2006.)\n\n北森瓦版 - “Panther Lake”のダイを解析した話 ブログ内検索\n\n○CPU アーク (ark) Tsukumo (Intel) Tsukumo (AMD) ソフマップ ○マザーボード アーク (ark) Tsukumo (Intel) Tsukumo (AMD) ソフマップ ○グラフィックカード アーク (ark) Tsukumo (NVIDIA) Tsukumo (AMD) ソフマップ ○メモリ アーク (ark) Tsukumo ソフマップ ○SSD アーク (ark) Tsukumo ソフマップ ○Amazon売れ筋ランキング CPU メモリ グラフィックカード マザーボード SSD 電源\n\n“Panther Lake”のダイを解析した話 (2026/09/30)\n\n“Raptor Lake Next”の8 P-core + 8 E-coreモデルはCore i5 14600Kの後継 (2026/09/21)\n\n12 Xe graphics coreを搭載する“Nova Lake-S”はキャンセルされたらしい (2026/09/15)\n\n| 北森瓦版 | Template by おすすめ無料ブログ(blog)比較\n\n“Panther Lake”のダイを解析した話 (09/30)\n\nMSIからSocketAM4対応B550マザーが3種類登場 (09/29)\n\nMicronが2GB GDDR7の生産を終了へ (09/23)\n\n次世代Radeon GPUのGDDR7対応がLinux向けドライバに追加される (09/23)\n\nGeForce RTX 60 seriesはやはり2028年となるらし…",
+      "ImageURL": ""
+    },
+    {
+      "Title": "AMD Software: Adrenalin Edition 26.9.2 Optionalドライバ公開。『Minecraft Dungeons II』『ウィッチャー3リマスター』『Gears of War: E-Day』『CONTROL Resonant』などをサポート",
+      "Link": "https://www.nichepcgamer.com/archives/post-132638.html",
+      "Published": "2026-09-29T15:06:50Z",
+      "Source": "ニッチなPCゲーマーの環境構築Z",
+      "Category": "ドライバ",
+      "Summary": "AMD Software: Adrenalin Edition 26.9.2 Optionalドライバ公開。『Minecraft Dungeons II』『ウィッチャー3リマスター』『Gears of War: E-Day』『CONTROL Resonant』などをサポート\n\n『Minecraft Dungeons II』『ウィッチャー3 ワイルドハント リマスター』『Call of Duty: Modern Warfare 4 キャンペーン早期アクセス』『Gears o...\n\n『Minecraft Dungeons II』『ウィッチャー3 ワイルドハント リマスター』『Call of Duty: Modern Warfare 4 キャンペーン早期アクセス』『Gears of War: E-Day』『CONTROL Resonant』『Valor Mortis』をサポートしたAMD Software: Adrenalin Edition 26.9.2 Optionalドライバ(旧名: Radeon Software)が公開されました。\n\nAMD Software: Adrenalin Edition 26.9.2 Optionalドライバには、以下のゲームタイトルのサポートの追加が含まれています。\n\nCall of Duty: Modern Warfare 4 キャンペーン早期アクセス\n\nウィッチャー3 ワイルドハント リマスター (The Witcher 3: Wild Hunt - Remastered)\n\nAMD Software: Adrenalin Edition 26.9.2 Optionalドライバ対応製品\n\nAMD Software: Adrenalin Edition 26.9.2 Optionalドライバは、以下の製品をサポートします。\n\nRadeon…",
+      "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2025/12/radeon-amd-software-adrenalin-edition-1200.jpg"
+    },
+    {
+      "Title": "Googlebookのアプデ、Google主導で実施されることが判明。Android黎明期の轍は踏まない新機軸に期待",
+      "Link": "https://smhn.info/202609-googlebook-os-google-updates-ui-policy",
+      "Published": "2026-09-29T11:07:37Z",
+      "Source": "すまほん!!",
+      "Category": "Googlebook OS",
+      "Summary": "Googlebookのアプデ、Google主導で実施されることが判明。Android黎明期の轍は踏まない新機軸に期待\n\n未来へ行くならAndroidを待て。そんなキャッチコピーに踊らされてAndroidスマホを買ってみたら、メーカー独自のUIの癖に悩まされたり、メーカー経由で届くOSアップデートの遅れや打ち切りに振り回されてきた、そんな人も少なくないはず。鳴り物入りで登場した、Googleの新たな...\n\nGooglebookのアプデ、Google主導で実施されることが判明。Android黎明期の轍は踏まない新機軸に期待\n\n未来へ行くならAndroidを待て。そんなキャッチコピーに踊らされてAndroidスマホを買ってみたら、メーカー独自のUIの癖に悩まされたり、メーカー経由で届くOSアップデートの遅れや打ち切りに振り回されてきた、そんな人も少なくないはず。\n\n鳴り物入りで登場した、Googleの新たなノートPC「Googlebook」では、そんな心配があるのか？気になる人も多いと思いますが、この点が明らかとなりました。\n\nGooglebook OSのアップデートはPCメーカーではなくGoogleが直接配信し、メーカーによる大幅なUI改変も認められないと、9to5Googleが伝えています。ハードを選ぶたびにOSの使い勝手や更新の提供元まで変わることを防ぐ方針とのこと。\n\nGooglebookは、Androidの技術基盤とChromeOSのデスクトップ基盤を組み合わせた新しいノートPC。主要な機能アップデートはAndroidの四半期更新「QPR」に合わせて提供され、その合間にもセキュリティ更新が随時配信される方針です。\n\nそしてメーカー独自の改変にも制限が設けられます。メーカーはプリインストールするアプリを指定できるものの、ステータスバーのアイコンの見た目を変えるような大幅…",
+      "ImageURL": "https://smhn.info/wp-content/uploads/2026/09/googlebook-lineup.webp"
+    },
+    {
+      "Title": "13型4KにSnapdragon 8 Elite！「Yoga Tab Plus Gen 2」国内発売へ",
+      "Link": "https://smhn.info/202609-lenovo-yoga-tab-plus-gen-2-japan-launch",
+      "Published": "2026-09-29T10:55:26Z",
+      "Source": "すまほん!!",
+      "Category": "Yoga Tab Plus Gen 2",
+      "Summary": "13型4KにSnapdragon 8 Elite！「Yoga Tab Plus Gen 2」国内発売へ\n\nLenovoの上位Androidタブレット「Yoga Tab Plus Gen 2」が登場します。発売日は2026年10月2日。価格は税込13万2000円。先にお伝えした11.1型のYoga Tab Gen 2に対し、Plusは画面を13型に拡大し、SoCにSnapdragon ...\n\n13型4KにSnapdragon 8 Elite！「Yoga Tab Plus Gen 2」国内発売へ\n\nLenovoの上位Androidタブレット「Yoga Tab Plus Gen 2」が登場します。発売日は2026年10月2日。価格は税込13万2000円。\n\n先にお伝えした11.1型のYoga Tab Gen 2 に対し、Plusは画面を13型に拡大し、SoCにSnapdragon 8 Eliteを搭載する上位モデル。\n\n画面は3840×2560ドットのIPS液晶で、縦横比は3:2。最大144Hzのリフレッシュレート（1秒間に画面を書き換える回数）に対応し、輝度は通常700ニト、ピーク1100ニトです。DCI-P3（映像制作などで使われる色域規格）を100%カバーし、Dolby Visionにも対応します。\n\n実行メモリはLPDDR5Xの12GB、ストレージは256GB。最大2TBのmicroSDカードにも対応し、写真や動画の保存容量を追加できます。公式仕様資料ではストレージ規格をUFS 4.0としています。\n\n国内モデルには「Lenovo Tab Pen Pro 2」が付属。8192段階の筆圧検知や傾き検知、触覚フィードバック（振動で操作の手応えを伝える機能）に対応します。Lenovoは、ペンを握って選択、ひっくり返して消去するといった操作も紹介しています。\n\nバッテリーは12…",
+      "ImageURL": "https://smhn.info/wp-content/uploads/2026/09/lenovo-yoga-tab-plus-gen-2-cosmic-blue.webp"
+    },
+    {
+      "Title": "Mac Pro（2019）の中古が25万円以下でセール販売中",
+      "Link": "https://iphone-mania.jp/sale-606771/",
+      "Published": "2026-09-29T10:12:13Z",
+      "Source": "iPhone Mania",
+      "Category": "中古",
+      "Summary": "Mac Pro（2019）の中古が25万円以下でセール販売中\n\n独特のケースデザインで根強い人気のMac Proの2019年モデルが、秋葉館でセール販売中です。\n\nMac Pro（2019）の中古が25万円以下でセール販売中\n\n独特のケースデザインで根強い人気の Mac Proの2019年モデル が、秋葉館でセール販売中です。\n\nMac Pro（2019） は macOS Tahoeまでしか対応しません が、このケースを利用して中身を入れ替えるなどの活用も考えられます。\n\n秋葉館がセール販売している Mac Pro（2019） は、次の通りです。\n\nセール販売中のMac Pro（2019）は3台で、 構成は同じ です。また、 販売価格と商品ランクも同じ ですが、 傷の程度など細部が異なります 。\n\n秋葉館が販売中のMac Pro（2019）に関する質問は、同店にお問い合わせください。\n\n--PR-- [公式] - iPhoneの購入や予約はオンラインで確実に！\n\niPhoneなどApple製品の疑問は iMコミュニティ で聞けます。詳しい読者が答えてくれます。",
+      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/09/29/mac-pro-2nd-hand-akibakan.jpg"
+    },
+    {
+      "Title": "防水で冷却ファン？HONOR Magic9 超能版発表、電池容量はバグレベルの1万1000mAhに",
+      "Link": "https://smhn.info/202609-honor-magic9-super-power-launch",
+      "Published": "2026-09-29T10:06:25Z",
+      "Source": "すまほん!!",
+      "Category": "Snapdragon 8 Elite Gen 5",
+      "Summary": "防水で冷却ファン？HONOR Magic9 超能版発表、電池容量はバグレベルの1万1000mAhに\n\nHONORは9月28日、中国で6.81型スマートフォン「HONOR Magic9 超能版」を発表しました。中国の通常価格は、実行メモリ12GB・ストレージ256GB構成で4499元（約10万5300円）からとなっています。HONOR Magic9シリーズの無印とPro MaxはA...\n\n防水で冷却ファン？HONOR Magic9 超能版発表、電池容量はバグレベルの1万1000mAhに\n\nHONORは9月28日、中国で6.81型スマートフォン「HONOR Magic9 超能版」を発表しました。中国の通常価格は、実行メモリ12GB・ストレージ256GB構成で4499元（約10万5300円）からとなっています。\n\nHONOR Magic9シリーズの無印とPro MaxはARRI共同開発を前面に推していますが、本機はカメラ刻印からARRIロゴが外れています。代わりに11000mAhの大容量電池と冷却ファンを内蔵して持続性特化を狙う、とんでもないモデルとなっています。\n\n冷却機構は、最大毎分30000回転のファン「東風ターボ」に、熱を拡散するベイパーチャンバーを組み合わせたもの。本体上部から取り込んだ空気を熱源に接する風路へ流す構造で、HONORによると、ファンを切った状態との比較で本体の放熱効率が30%向上するとのこと。\n\nファン内蔵でありながら、防塵・防水はIP68・IP69・IP69Kに対応。長時間のゲームを意識した能動冷却に、日常使いで気になる水やほこりへの保護も。なお防水性能は永久ではなく、液体の侵入による故障は保証対象外と案内されています。\n\n充電は最大80Wの有線、最大50Wの無線に対応。対応機器へ給電する最大27Wの有線逆充電と、無線逆充電も利用できます。最大速度の…",
+      "ImageURL": "https://smhn.info/wp-content/uploads/2026/09/honor-magic9-super-power-e1790598743260.webp"
+    },
+    {
+      "Title": "povo、データ専用の新規登録で初回0.5GB「5円トッピング」登場！5周年ガチャも",
+      "Link": "https://smhn.info/202609-povo-fifth-anniversary-five-yen-gacha",
+      "Published": "2026-09-29T09:32:32Z",
+      "Source": "すまほん!!",
+      "Category": "沖縄セルラー",
+      "Summary": "povo、データ専用の新規登録で初回0.5GB「5円トッピング」登場！5周年ガチャも\n\n基本料0円、必要なぶんだけ「トッピング」を買い足す。2021年9月に登場したKDDIのオンライン専用プラン「povo2.0」は、そんな割り切った設計で、メイン回線というより「とりあえず持っておくサブ回線」の定番になりました。そのpovo2.0が、サービス開始から5周年を迎えるにあ...\n\npovo、データ専用の新規登録で初回0.5GB「5円トッピング」登場！5周年ガチャも\n\n基本料0円、必要なぶんだけ「トッピング」を買い足す。2021年9月に登場したKDDIのオンライン専用プラン「povo2.0」は、そんな割り切った設計で、メイン回線というより「とりあえず持っておくサブ回線」の定番になりました。\n\nそのpovo2.0が、サービス開始から5周年を迎えるにあたり「5円トッピング」が登場しました。\n\n5円トッピングは「0.5GB（24時間）」で、2026年10月1日0時から10月31日23時59分まで提供。期間中にpovo2.0のデータ専用プランへ新規登録したユーザーが、初回のみ購入できます。価格は税込。\n\n公称の有効期間は24時間ですが、当面は期間満了日の23時59分59秒まで利用できると案内しています。\n\nもうひとつのトッピング「povoガチャ スペシャル～5周年～」は税込555円。販売期間は9月29日10時から9月30日23時59分までで、期間中は何度でも購入可能です。5日間有効な0.1GBが購入後に即時適用され、抽選で当たったデータ特典のプロモコードは、原則として購入直後に登録メールアドレスへ届きます。\n\n抽選特典は次の4種類で、いずれかが必ず当たります。特賞は5日間のデータ使い放題を5回分。最も当たりやすい3等は5GB（5日間）で、当選確率は94％となっています。\n\n特典を利用するに…",
+      "ImageURL": "https://smhn.info/wp-content/uploads/2026/09/povo-five-yen.webp"
+    },
+    {
       "Title": "iPhone18 Proシリーズの在庫増加〜各キャリアの在庫状況【9/29】",
       "Link": "https://iphone-mania.jp/iphone18-606769/",
       "Published": "2026-09-29T09:25:04Z",
@@ -766,15 +901,6 @@
       "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/848/s1.jpg"
     },
     {
-      "Title": "�Υ��󥿥ӥ塼�ϡ֥ե饬�ꥢ�����꡼���ס��Ĥ��ˡ֥����ȥ��ƥ��ԡפ����롪���Ḷ�ٿͤ��󤬸��롤�ϥ����åȤ��ɤ�ư�����ȥϥ����åȡ������ɥ���¸��",
-      "Link": "https://www.4gamer.net/games/745/G074550/20260803013/",
-      "Published": "2026-09-28T08:00:00Z",
-      "Source": "4Gamer.net Hardware",
-      "Category": "HARDWARE",
-      "Summary": "�Υ��󥿥ӥ塼�ϡ֥ե饬�ꥢ�����꡼���ס��Ĥ��ˡ֥����ȥ��ƥ��ԡפ����롪���Ḷ�ٿͤ��󤬸��롤�ϥ����åȤ��ɤ�ư�����ȥϥ����åȡ������ɥ���¸��\n\nサンリオが贈る騎士道ファンタジープロジェクト「フラガリアメモリーズ」のメインストーリー「ロストキティ編」が完結した。ハルリット／ハルリット・シャドウ役の梶原岳人さんに，1人2役の役作りや収録秘話，物…\n\n［インタビュー］「フラガリアメモリーズ」，ついに「ロストキティ編」が完結！ 梶原岳人さんが語る，ハルリットの揺れ動く心とハルリット・シャドウの存在 ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ 東京ゲームショウに来たら“読みもの”を集めよう！ 雑誌にカタログ，新聞風。会場で見つけた＆もらった小冊子を紹介［TGS2026］ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 10年前の4Game…",
-      "ImageURL": "https://www.4gamer.net/games/745/G074550/20260803013/SS/006.jpg"
-    },
-    {
       "Title": "����PC�᡼�����λ��������������ʤι�ƭ�ϡ�ONEXPLAYER�η��ӷ�������PC�˱ƶ���Ϳ�����Τ��� ��������CEO��ľ��������TGS2026��",
       "Link": "https://www.4gamer.net/games/550/G055070/20260919046/",
       "Published": "2026-09-28T08:00:00Z",
@@ -782,6 +908,15 @@
       "Category": "HARDWARE",
       "Summary": "����PC�᡼�����λ��������������ʤι�ƭ�ϡ�ONEXPLAYER�η��ӷ�������PC�˱ƶ���Ϳ�����Τ��� ��������CEO��ľ��������TGS2026��\n\nONE-NETBOOKは，天空と共同で東京ゲームショウ2026に「ONEXPLAYER」ブースを出展，2026年の製品ラインナップを披露していた。会場には，同社CEOであるJack Wang氏も訪れ…\n\n大手PCメーカーの参入やメモリ価格の高騰は，ONEXPLAYERの携帯型ゲームPCに影響を与えたのか？ 来日したCEOに直撃取材［TGS2026］ ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ 東京ゲームショウに来たら“読みもの”を集めよう！ 雑誌にカタログ，新聞風。会場で見つけた＆もらった小冊子を紹介［TGS2026］ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 10年…",
       "ImageURL": "https://www.4gamer.net/games/550/G055070/20260919046/SS/002.jpg"
+    },
+    {
+      "Title": "�Υ��󥿥ӥ塼�ϡ֥ե饬�ꥢ�����꡼���ס��Ĥ��ˡ֥����ȥ��ƥ��ԡפ����롪���Ḷ�ٿͤ��󤬸��롤�ϥ����åȤ��ɤ�ư�����ȥϥ����åȡ������ɥ���¸��",
+      "Link": "https://www.4gamer.net/games/745/G074550/20260803013/",
+      "Published": "2026-09-28T08:00:00Z",
+      "Source": "4Gamer.net Hardware",
+      "Category": "HARDWARE",
+      "Summary": "�Υ��󥿥ӥ塼�ϡ֥ե饬�ꥢ�����꡼���ס��Ĥ��ˡ֥����ȥ��ƥ��ԡפ����롪���Ḷ�ٿͤ��󤬸��롤�ϥ����åȤ��ɤ�ư�����ȥϥ����åȡ������ɥ���¸��\n\nサンリオが贈る騎士道ファンタジープロジェクト「フラガリアメモリーズ」のメインストーリー「ロストキティ編」が完結した。ハルリット／ハルリット・シャドウ役の梶原岳人さんに，1人2役の役作りや収録秘話，物…\n\n［インタビュー］「フラガリアメモリーズ」，ついに「ロストキティ編」が完結！ 梶原岳人さんが語る，ハルリットの揺れ動く心とハルリット・シャドウの存在 ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ 東京ゲームショウに来たら“読みもの”を集めよう！ 雑誌にカタログ，新聞風。会場で見つけた＆もらった小冊子を紹介［TGS2026］ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 10年前の4Game…",
+      "ImageURL": "https://www.4gamer.net/games/745/G074550/20260803013/SS/006.jpg"
     },
     {
       "Title": "(アキバ取材班) 珍しいスマホ特化の精密ネジセットが入荷。Android用とiPhone用で1,400円から",
@@ -4087,15 +4222,6 @@
       "ImageURL": "https://gori.me/uploads/2026/09/Apple-Account-Storage-bug-800x500.jpg"
     },
     {
-      "Title": "�ֿ������פ�ƣ������Ϻ�᤬�꤬������THE FIRST ZOMBIE�פˤϡ��ޤ��������ʤ��Ȥ��ޤ��ޤʻųݤ��ɤ��������������˳�ȯ��΢¦��ʹ������TGS2026��",
-      "Link": "https://www.4gamer.net/games/043/G104316/20260920036/",
-      "Published": "2026-09-22T08:00:00Z",
-      "Source": "4Gamer.net Hardware",
-      "Category": "HARDWARE",
-      "Summary": "�ֿ������פ�ƣ������Ϻ�᤬�꤬������THE FIRST ZOMBIE�פˤϡ��ޤ��������ʤ��Ȥ��ޤ��ޤʻųݤ��ɤ��������������˳�ȯ��΢¦��ʹ������TGS2026��\n\nTGS 2026のPhoenixxブースで，「THE FIRST ZOMBIE」Phoenixxの野崎雄大氏にインタビューを実施した。藤井健太郎氏がプロデュースする本作は，ゾンビになった主人公を操作…\n\n「水ダウ」の藤井健太郎氏が手がける「THE FIRST ZOMBIE」には，まだ明かせない“さまざまな仕掛け”が。制作チームに開発の裏側を聞いた［TGS2026］ ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ 東京ゲームショウに来たら“読みもの”を集めよう！ 雑誌にカタログ，新聞風。会場で見つけた＆もらった小冊子を紹介［TGS2026］ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n…",
-      "ImageURL": "https://www.4gamer.net/games/043/G104316/20260920036/SS/002.jpg"
-    },
-    {
       "Title": "̾��NEOGEO�����������ޤǺƸ��������μ��յ������Ȥ��ơ����ٱ�HDMI�ʤɸ��������ε�ǽ����������NEOGEO AES+�פΥץ쥼�������ݡ��ȡ�TGS2026��",
       "Link": "https://www.4gamer.net/games/999/G999902/20260921067/",
       "Published": "2026-09-22T08:00:00Z",
@@ -4103,6 +4229,15 @@
       "Category": "HARDWARE",
       "Summary": "̾��NEOGEO�����������ޤǺƸ��������μ��յ������Ȥ��ơ����ٱ�HDMI�ʤɸ��������ε�ǽ����������NEOGEO AES+�פΥץ쥼�������ݡ��ȡ�TGS2026��\n\n名機「NEOGEO」を現代によみがえらせる「NEOGEO AES+」が，「東京ゲームショウ2026」にプレイアブル出展された。会場では開発陣によるプレゼンも行われ，本機の特徴やNEOGEO復活へのこ…\n\n名機NEOGEOを処理落ちまで再現。過去の周辺機器も使えて，低遅延HDMIなど現代向けの機能も備える「NEOGEO AES+」のプレゼンをレポート［TGS2026］ ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ 東京ゲームショウに来たら“読みもの”を集めよう！ 雑誌にカタログ，新聞風。会場で見つけた＆もらった小冊子を紹介［TGS2026］ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像…",
       "ImageURL": "https://www.4gamer.net/games/999/G999902/20260921067/SS/005.jpg"
+    },
+    {
+      "Title": "�ֿ������פ�ƣ������Ϻ�᤬�꤬������THE FIRST ZOMBIE�פˤϡ��ޤ��������ʤ��Ȥ��ޤ��ޤʻųݤ��ɤ��������������˳�ȯ��΢¦��ʹ������TGS2026��",
+      "Link": "https://www.4gamer.net/games/043/G104316/20260920036/",
+      "Published": "2026-09-22T08:00:00Z",
+      "Source": "4Gamer.net Hardware",
+      "Category": "HARDWARE",
+      "Summary": "�ֿ������פ�ƣ������Ϻ�᤬�꤬������THE FIRST ZOMBIE�פˤϡ��ޤ��������ʤ��Ȥ��ޤ��ޤʻųݤ��ɤ��������������˳�ȯ��΢¦��ʹ������TGS2026��\n\nTGS 2026のPhoenixxブースで，「THE FIRST ZOMBIE」Phoenixxの野崎雄大氏にインタビューを実施した。藤井健太郎氏がプロデュースする本作は，ゾンビになった主人公を操作…\n\n「水ダウ」の藤井健太郎氏が手がける「THE FIRST ZOMBIE」には，まだ明かせない“さまざまな仕掛け”が。制作チームに開発の裏側を聞いた［TGS2026］ ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ 東京ゲームショウに来たら“読みもの”を集めよう！ 雑誌にカタログ，新聞風。会場で見つけた＆もらった小冊子を紹介［TGS2026］ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n…",
+      "ImageURL": "https://www.4gamer.net/games/043/G104316/20260920036/SS/002.jpg"
     },
     {
       "Title": "11インチiPad Pro、台数限定でかなり安い。AppleCare+込みで11万円引き",
@@ -4364,144 +4499,144 @@
       "Category": "",
       "Summary": "【今すぐ読みたい！人気記事】LANケーブルなんて自分で作ればいいじゃない。ジャストな長さでケーブルを作る方法 - PC Watch\n\nいくら無線LANが高速になっても、LANケーブルによる有線接続がなくなることはない。ルーターやスイッチングハブなどのネットワーク機器同士は有線接続が必要になるし、オンラインゲームやWeb会議のような用途では安定して通信できる有線接続にアドバンテージがある。\n\nLANケーブルなんて自分で作ればいいじゃない。ジャストな長さでケーブルを作る方法\n\nいくら無線LANが高速になっても、LANケーブルによる有線接続がなくなることはない。ルーターやスイッチングハブなどのネットワーク機器同士は有線接続が必要になるし、オンラインゲームやWeb会議のような用途では安定して通信できる有線接続にアドバンテージがある。\n\nそんなLANケーブルが必要になる場面で気にしておきたいのが“長さ”。ちょうどいい長さのLANケーブルで接続すれば、無駄のない、美しい配線が可能になる。ただ、市販のLANケーブルでぴったりの長さのものがあるとは限らない。見栄えにこだわりたいなら自作するのが近道だ。",
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2142/581/1.jpg"
-    },
-    {
-      "Title": "iPhone18 ProでFace IDが使えない？Appleが保護フィルム取り外しを案内",
-      "Link": "https://iphone-mania.jp/iphone18-606442/",
-      "Published": "2026-09-21T18:56:00Z",
-      "Source": "iPhone Mania",
-      "Category": "ガラスフィルム",
-      "Summary": "iPhone18 ProでFace IDが使えない？Appleが保護フィルム取り外しを案内\n\niPhone18 ProとiPhone18 Pro Maxでは、保護フィルムの種類によってFace IDが正常に動作しない可能性があります。Appleは公式サポートページを更新し、iPhone18 ProシリーズでFace\n\niPhone18 ProでFace IDが使えない？Appleが保護フィルム取り外しを案内\n\niPhone18 Pro と iPhone18 Pro Max では、 保護フィルム の種類によってFace IDが正常に動作しない可能性があります。Appleは公式サポートページを更新し、iPhone18 ProシリーズでFace IDが機能しない場合の対処として、 プライバシー保護用のスクリーンプロテクター を取り除くよう案内しています。\n\nAppleは「iPhoneやiPad ProでFace IDが機能しない場合」のサポートページに、 iPhone18 Proモデルの新しいTrueDepthカメラでFace IDが機能しない場合の対処法 を追加しました。ページの公開日は、米国版が2026年9月17日、日本版が9月21日と記載されています。\n\nAppleは、iPhone18 Proモデルでは TrueDepthカメラが本体上部の左隅近くにある と明記しています。\n\nさらに、新しいTrueDepthカメラでFace IDが機能しない場合の対処法として、「 プライバシー保護用のスクリーンプロテクタを取り除く 」ことを案内しています。\n\nこのほか、暗い場所でメガネとマスクを併用している場合はメガネを外すかマスクの位置を調整すること、厚化粧や美容マスクを落とすこと、太陽からの極端な逆光を避けることも挙げられています。\n\niPhone18 Proシリーズでは、 Dynam…",
-      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/09/21/AppleEventSep2026-iPhone18Pro.jpg"
-    },
-    {
-      "Title": "iOS/iPadOS27.2ベータ2など公開〜正式版のリリース日は10月27日か",
-      "Link": "https://iphone-mania.jp/ios-606432/",
-      "Published": "2026-09-21T18:25:44Z",
-      "Source": "iPhone Mania",
-      "Category": "比較",
-      "Summary": "iOS/iPadOS27.2ベータ2など公開〜正式版のリリース日は10月27日か\n\nAppleが日本時間2026年9月22日、iOS27.2、iPadOS27.2、watchOS27.2、macOS 27.2 Golden Gate、tvOS27.2、HomePodソフトウェアバージョン27.2、visionOS27.2などの開発者向けベータ2をリリースしました。\n\niOS/iPadOS27.2ベータ2など公開〜正式版のリリース日は10月27日か\n\nAppleが日本時間2026年9月22日、 iOS27.2、iPadOS27.2、watchOS27.2、macOS 27.2 Golden Gate、tvOS27.2、HomePodソフトウェアバージョン27.2、visionOS27.2 などの 開発者向けベータ2をリリース しました。\n\n昨年のiOS26.1のベータ版から正式版までのリリーススケジュールを参考にすると、 iOS27.2正式版は2026年10月27日前後に公開される可能性 があります。\n\nAppleはあわせて、macOS Tahoe 26.7.1およびmacOS Sequoia 15.8.1のリリースキャンディデート（RC）も公開しています。\n\n今回公開された各開発者向けベータ2のビルド番号は次の通りです。\n\nwatchOS27.2 開発者向けベータ2：24S5091f\n\nHomePodソフトウェアバージョン27.2 開発者向けベータ2：24K5093g\n\nmacOS 27.2 Golden Gate 開発者向けベータ2：26B5091g\n\nvisionOS27.2 開発者向けベータ2：24N5093f\n\niOS27.1は、10月23日発売予定のiPhone Duoにプリインストール されて出荷される見通しです。\n\nそのため、iOS27.1正式版についても、i…",
-      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/09/22/ios272b2-bp2.png"
-    },
-    {
-      "Title": "Apple スマートホームハブの開発進む〜新型iPad miniと10月登場か",
-      "Link": "https://iphone-mania.jp/homepod-606429/",
-      "Published": "2026-09-21T17:15:00Z",
-      "Source": "iPhone Mania",
-      "Category": "発売日",
-      "Summary": "Apple スマートホームハブの開発進む〜新型iPad miniと10月登場か\n\nAppleが開発中と噂されるスマートホームハブが、Apple社員の自宅でテストされているとBloombergのマーク・ガーマン記者が伝えています。\n\nApple スマートホームハブの開発進む〜新型iPad miniと10月登場か\n\nAppleが開発中と噂される スマートホームハブ が、 Apple社員の自宅でテス トされているとBloombergのマーク・ガーマン記者が伝えています。\n\nこのスマートホームハブには、 tvOSをベースにiOSやwatchOSの要素を組み合わせた新しいユーザーインターフェースが採用 される見通しです。\n\nOSの正式名称は明らかになっていませんが、これまでの商標情報などから 「homeOS」と呼ばれる可能性 も 取り沙汰されています 。\n\n新型iPad miniは10月末までの発売 が見込まれており、 スマートホームハブも早ければ同時期に登場 する可能性があります。\n\nスマートホームハブ のコードネームは「J490」とされ、 7インチの正方形ディスプレイ を搭載すると報じられています。\n\n卓上で使用するスタンド付きモデルと、壁に取り付けて使用するモデルの2種類が用意される見通しです。\n\n卓上モデルはHomePodのようなスピーカー機能を備えた台座と組み合わせられ、キッチンやリビングなどでの利用が想定されています。\n\nスマートホームハブの特徴の1つは フロントカメラによる顔認証 で、今後、この機能が進化することで最終的に Face ID機構よりも簡素な仕組みでFace ID並の認証精度が得られる可能性 があると、ガーマン記者は以前から述べていました。\n\nこれが実現すれば、薄型化のためにFace ID機構を搭載できていない iPhone Duoにおいて、将来的に顔認証が…",
-      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/09/22/th_Home-Hub-AH-0922.jpg"
-    },
-    {
-      "Title": "iPhone18 Pro/Pro Maxで予期せぬ再起動の報告相次ぐ、Face ID失敗と関連か",
-      "Link": "https://iphone-mania.jp/iphone18-606422/",
-      "Published": "2026-09-21T16:32:04Z",
-      "Source": "iPhone Mania",
-      "Category": "不具合",
-      "Summary": "iPhone18 Pro/Pro Maxで予期せぬ再起動の報告相次ぐ、Face ID失敗と関連か\n\n発売されたばかりのiPhone18 ProとiPhone18 Pro Maxで、突然再起動する問題が複数のユーザーから報告されています。日本のXでも「panic-full」の診断ログや、Face ID認証に失敗した直後に再起動したとの報告が確認されています。一方、Face\n\niPhone18 Pro/Pro Maxで予期せぬ再起動の報告相次ぐ、Face ID失敗と関連か\n\n発売されたばかりの iPhone18 Pro と iPhone18 Pro Max で、 突然再起動する問題が 複数のユーザーから報告されています。日本のXでも「 panic-full 」の診断ログや、Face ID認証に失敗した直後に再起動したとの報告が確認されています。一方、Face IDを使用していない場面での発生例もあり、現時点で原因は明らかになっていません。\n\niPhone18 Pro と iPhone18 Pro Max は9月18日に発売されたばかりですが、発売直後から突然シャットダウンして再起動するという報告が国内外で寄せられています。\n\n韓国メディアMoneyTodayによると、 iPhone18 Proシリーズで突然電源が落ちて再起動 し、 「panic-full」の診断ログ が残る事例が相次いでいます。初期設定中や通常のアプリ利用中に再起動したとの報告もあります。\n\n米国のRedditでも、購入から24時間以内に4回再起動したiPhone18 Pro Maxユーザーや、iPhone18 Proで約5回の再起動を経験したユーザーが報告しています。\n\n日本のX上でも、iPhone18 Proを購入後に突然再起動し、「panic-full」のログが残っていたという投稿が複数確認できます。\n\n…",
-      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/09/21/Apple-iPhone18Pro-hero.jpg"
-    },
-    {
-      "Title": "Apple Watch Series 12とUltra 4に隠しストレージ領域存在？",
-      "Link": "https://iphone-mania.jp/iwatch-606423/",
-      "Published": "2026-09-21T16:25:04Z",
-      "Source": "iPhone Mania",
-      "Category": "スペック",
-      "Summary": "Apple Watch Series 12とUltra 4に隠しストレージ領域存在？\n\nApple Watch Series 12とApple Watch Ultra 4のストレージ容量は、前世代と同じ64GBとAppleの仕様ページに記載されています。\n\nApple Watch Series 12とUltra 4に隠しストレージ領域存在？\n\nApple Watch Series 12とApple Watch Ultra 4 の ストレージ容量 は、 前世代と同じ 64GB とAppleの仕様ページに記載されています。\n\nところが、両モデルには 実際には128GBのNANDフラッシュメモリが搭載 され、そのうち 64GBだけが利用可能 になっている可能性が浮上しました。\n\n中国SNS「Weibo」に投稿された情報によると、 Apple Watch Series 12とApple Watch Ultra 4 には、 128GBのNANDフラッシュメモリが搭載 されているとされています。\n\n投稿では、搭載されている部品について次のように説明されています。\n\nApple Watch Series 12とApple Watch Ultra 4には128GBのNANDフラッシュメモリを搭載\n\nSK hynix製「TLC_3D_V9_4P_1024」を採用し、容量は1,024Gbit（128GB）\n\nNANDフラッシュメモリはSK hynixとSamsungの2社が供給\n\nApple Watch Series 12とApple Watch Ultra 4の ストレージ容量が128GBになるとの噂 が、発表前に持ち上がっていました。\n\n128GBのNANDフラッシュメモリを搭載されているとすれば、 公称ストレージ容量が64GBに制限されている理由 は現時点で明らかになっていません。\n\n考…",
-      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/09/22/apple-watch-series-12-AH-0922.jpg"
-    },
-    {
-      "Title": "ASUS初の「Googlebook 14」プレオーダー開始、10月4日発売。約990gで3K OLED搭載",
-      "Link": "https://www.gdm.or.jp/pressrelease/2026/0922/653324",
-      "Published": "2026-09-21T16:17:19Z",
-      "Source": "エルミタージュ秋葉原",
-      "Category": "",
-      "Summary": "ASUS初の「Googlebook 14」プレオーダー開始、10月4日発売。約990gで3K OLED搭載\n\nASUSがGemini Intelligence向け14型ノートPC「ASUS Googlebook 14（CX9406CAA）」を発表。Core Ultra 5 325や3K/120Hz OLEDを搭載し、重量約0.99kgを実現。米国でプレオーダーを開始した。\n\nASUS初の「Googlebook 14」プレオーダー開始、10月4日発売。約990gで3K OLED搭載\n\nCore Ultra 5 325搭載、Androidスマートフォンとのシームレスな連携にも対応\n\nASUSTeK Computer Inc.（本社：台湾）は2026年9月21日（現地時間）、Gemini Intelligence向けに設計された14型ノートPC 「ASUS Googlebook 14（CX9406CAA）」 を発表した。米国では即日プレオーダーを開始しており、価格は1,299.99ドル。現時点で日本国内での発売についてはアナウンスされていない。\n\n「ASUS Googlebook 14」は、ASUS初となるGooglebookで、GoogleのGemini Intelligenceを活用した各種AI機能とAndroidスマートフォンとの連携を特徴とする14型ノートPC。Geminiをはじめ、FlowやGemini Notebookなどを利用できる「Google AI Pro」の12カ月分と、5TBのクラウドストレージが付属する。\n\nGemini Intelligenceでは、画面上のオブジェクトを選択して質問や比較、コンテンツ作成などを行える「Magic Pointer」に対応。画面に表示されている内容に応じてGeminiが操作候補を提示する機能も備える。\n\n筐体にはCNC加工の…",
-      "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/09/22/ASUS_Googlebook_14_001.jpg"
-    },
-    {
-      "Title": "【レビュー】iPhone18 Pro用OverLay背面保護シートを前年モデルと比較",
-      "Link": "https://iphone-mania.jp/iphone18-606387/",
-      "Published": "2026-09-21T16:00:00Z",
-      "Source": "iPhone Mania",
-      "Category": "比較",
-      "Summary": "【レビュー】iPhone18 Pro用OverLay背面保護シートを前年モデルと比較\n\niPhone18 Proのメインカメラバンプと背面ガラスパネルを保護する、ミヤビックスの背面用保護シートを自費で購入し、実際に貼り付けて使用しました。\n\n【レビュー】iPhone18 Pro用OverLay背面保護シートを前年モデルと比較\n\niPhone18 Pro のメインカメラバンプと背面ガラスパネルを保護 する、 ミヤビックスの背面用保護シート を自費で購入し、実際に貼り付けて使用しました。\n\niPhone17 Pro向けの同製品も1年間使用 しており、今回は iPhone18 Pro向けOverLay 9H Plus 低反射 背面用保護シート の仕上がりや貼り付けやすさ、保護範囲の違いを 比較 します。\n\nOverLayシリーズの背面用保護シートは、 保護する範囲ギリギリまで覆う高い寸法精度 が特徴です。その反面、位置合わせがシビアで、高光沢タイプをディスプレイに貼り付ける際は、気泡を入れずに貼り付けるための慎重な作業が求められます。\n\niPhone17 Pro向け背面用保護シートでは、3眼カメラのレンズ、LiDARスキャナ、LEDフラッシュの周囲が、それぞれ ギリギリの寸法でくり抜かれています 。\n\n1年間使用したiPhone17 Proには、メインカメラバンプが露出する 「MagSafe対応iPhone17 Proテックウーブンケース – ブルー」を装着 していました。\n\nそれでも、 9Hの表面硬度 を備えた保護シートには目立つ傷が付かず、メインカメラバンプと背面ガラスをしっかり保護できました。\n\n低反射仕上げのため、iPhone17 Pro本来の質感を大きく損なわず 、保護シートを 貼っていることが目立ちにくい 点も好印象でした。\n\nこうした使用実績から、iPhone18 …",
-      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/09/21/97458bd4827a7a24083b4faa77185cf6-e1789990257559.jpg"
-    },
-    {
-      "Title": "iPhone18 Proの需要は予想以上か〜増産でも納期変わらずとの証券会社の見立て",
-      "Link": "https://iphone-mania.jp/iphone18-606413/",
-      "Published": "2026-09-21T15:30:00Z",
-      "Source": "iPhone Mania",
-      "Category": "販売台数",
-      "Summary": "iPhone18 Proの需要は予想以上か〜増産でも納期変わらずとの証券会社の見立て\n\niPhone18 Proシリーズは前年より製造台数が増えているにもかかわらず、発売直後の納期はiPhone17 Proシリーズと同程度か、一部ではやや長くなっています。\n\niPhone18 Proの需要は予想以上か〜増産でも納期変わらずとの証券会社の見立て\n\niPhone18 Proシリーズ は 前年より製造台数が増えている にもかかわらず、発売直後の 納期はiPhone17 Proシリーズと同程度か、一部ではやや長く なっています。\n\nMorgan Stanleyは、この状況からiPhone18 Proシリーズの 実際の需要が市場予測を上回っている可能性がある との見方を示しています。\n\niPhone18 Proシリーズ発売 直後の需要 について、Morgan Stanleyは 納期だけで判断するのではなく、供給量と合わせて見る必要がある と指摘しています。\n\n同社の分析では、iPhone18 Pro／Pro Maxなどの下半期の 製造台数は前年同期から約18%増加 しています。それにもかかわらず、 納期は前年並みか一部で長く なっています。\n\nこのことからMorgan Stanleyは、iPhone18 Proシリーズの 実際の需要がウォール街の予測を上回っている可能性がある との見方を示しています。\n\nMorgan Stanleyのアナリストであるエリック・ウッドリン氏によると、iPhone18 Proシリーズの納期は地域によって 2週〜4週 程度となっています。\n\n前年のiPhone17 Proシリーズと比べると、 納期はおおむね同程度かやや長く なっています。供給量が増えているにもかかわらず納期が短くなっていない点を、同氏は 需要の強さ を示す材料の1つ としています。\n\n日本…",
-      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/09/21/iphone18-pro-max-battery-AH.jpeg"
-    },
-    {
-      "Title": "「Linuxデスクトップ元年」到来か。Debianが使えるGooglebook OS発表",
-      "Link": "https://smhn.info/202609-googlebook-os-debian-linux-environment-launch",
-      "Published": "2026-09-21T15:26:11Z",
-      "Source": "すまほん!!",
-      "Category": "Linux",
-      "Summary": "「Linuxデスクトップ元年」到来か。Debianが使えるGooglebook OS発表\n\nGoogleは9月21日、Androidの技術基盤とChromeOSのデスクトップ基盤を組み合わせた「Googlebook OS」の詳細を発表し、このOSを搭載したノートPC「Googlebook」の予約受付を開始しました。Linuxの開発環境を備えた、新たなノートPCの選択肢と...\n\n「Linuxデスクトップ元年」到来か。Debianが使えるGooglebook OS発表\n\nGoogleは9月21日、Androidの技術基盤とChromeOSのデスクトップ基盤を組み合わせた「Googlebook OS」の詳細を発表し、このOSを搭載したノートPC「Googlebook」の予約受付を開始しました。\n\nLinuxの開発環境を備えた、新たなノートPCの選択肢となりそうです。プリインストールされたTerminalアプリから、フルのDebian GNU/Linux環境を利用できる点に注目です。\n\nDebianへの対応を説明したのは、GoogleでAndroidのコミュニティ対応を担当するMishaal Rahman氏です。同氏はXへの投稿で、GooglebookにはTerminalアプリがあらかじめ搭載され、そこからフルのDebian Linux環境へアクセスできると明らかにしました。\n\nGoogleの公式発表でも、分離されたLinux環境とフルのターミナルアクセスを用意し、Linux向けの開発ツールを動かしたり、コードのリポジトリを取得したり、自律型のAIエージェントを実行したりできると説明しています。例にはClaude CodeやAntigravity CLIも挙がっています。SSHで別のコンピューターへ接続するためだけの端末ではなく、Googlebook本体で開発ツールを実行できる構…",
-      "ImageURL": "https://smhn.info/wp-content/uploads/2026/09/efb5e1bae1c17855f74cd8d624ceee73.webp"
-    },
-    {
-      "Title": "iPhoneはケースで傷を防げる？発売から約3年でも目立つ傷ほぼなし",
-      "Link": "https://iphone-mania.jp/iphone15-606414/",
-      "Published": "2026-09-21T15:12:59Z",
-      "Source": "iPhone Mania",
-      "Category": "ケース",
-      "Summary": "iPhoneはケースで傷を防げる？発売から約3年でも目立つ傷ほぼなし\n\nケースや保護フィルムを使えば、iPhoneは何年たってもきれいなままでいられるのでしょうか。\n\niPhoneはケースで傷を防げる？発売から約3年でも目立つ傷ほぼなし\n\nケースや保護フィルムを使えば、iPhoneは何年たってもきれいなままでいられるのでしょうか。\n\niPhone15 Pro は2023年9月に発売され、現在は発売から約3年が経過しています。今回は筆者が現在所有している実機を各部位ごとに確認し、ケース・保護フィルムを装着して使用している端末の外観状態を紹介します。\n\n背面ガラスには大きな傷や割れは見当たらず、側面のチタニウム部分にも目立つ打痕や変形は確認できませんでした。全体的に使用感は抑えられている印象です。\n\nカメラ周辺のリング部分には多少の使用感が見えますが、大きな欠けや割れは確認しにくい状態です。USB-C端子周辺にも目立つ変形や損傷は見当たりません。前面は保護フィルムを装着した状態のため、ディスプレイ本体の状態は断定できませんが、フィルムに深い傷は見受けられないです。\n\nいずれも写真で確認できる範囲での印象であり、細かい微傷の有無までは判断できません。\n\n今回の端末で特に注目したいのは、使用中の落下頻度です。iPhoneを落とすことが多く、落下回数は数え切れません。 コンクリートやアスファルトの上に落としたことも複数回あります。\n\nそれでも修理歴はゼロで、外観に大きな損傷は確認できていません。これが「ケースのおかげで守られた」という直接的な証拠にはなりませんが、落下の多い使い方でも目立つ傷が少ない実例として参考になるかもしれません。\n\n使用条件や落下時の状況によって結果は変わるため、同じ結果になるとは限らないです。\n\nケースと保護フィルムは常時装着しています。筆者の使用期間中にケースは2回交換しており、最初はクリアケース、現在は 無印良品のダークグレー系ケース を使っています。保護フィルムも1回交換しており、常に何らかのフィルムが貼られた状態でした。\n\n今回確認した実機では、ケ…",
-      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/09/21/bc4f5a7b4e60ac802c1a36ddb1a44f6d.png"
-    },
-    {
-      "Title": "GeForce RTX 60 seriesはやはり2028年となるらしい",
-      "Link": "https://northwood.blog.fc2.com/blog-entry-13209.html",
-      "Published": "2026-09-21T15:05:40Z",
-      "Source": "北森瓦版",
-      "Category": "",
-      "Summary": "GeForce RTX 60 seriesはやはり2028年となるらしい\n\n北森瓦版 - Northwood Blog (Author : 北森八雲. Since July 10, 2006.)\n\n北森瓦版 - GeForce RTX 60 seriesはやはり2028年となるらしい ブログ内検索\n\n○CPU アーク (ark) Tsukumo (Intel) Tsukumo (AMD) ソフマップ ○マザーボード アーク (ark) Tsukumo (Intel) Tsukumo (AMD) ソフマップ ○グラフィックカード アーク (ark) Tsukumo (NVIDIA) Tsukumo (AMD) ソフマップ ○メモリ アーク (ark) Tsukumo ソフマップ ○SSD アーク (ark) Tsukumo ソフマップ ○Amazon売れ筋ランキング CPU メモリ グラフィックカード マザーボード SSD 電源\n\nGeForce RTX 60 seriesはやはり2028年となるらしい\n\nGeForce RTX 60 seriesはやはり2028年となるらしい (2026/09/22)\n\nRTX Pro 5500 Blackwell Workstation Editionが発表される (2026/09/14)\n\nGB203を使用したGeForce RTX 5070が準備されているらしい (2026/09/11)\n\n| 北森瓦版 | Template by おすすめ無料ブログ(blog)比較\n\nGeForce RTX 60 seriesはやはり2028年となるらしい (09/22)\n\n“Raptor Lake Next”の8 P-core + 8 E-coreモデルはCore i5 14600Kの後継 (09/21)\n\n今後2年間でGDDR7の4GB, 6GBチップが計画されているらしい (09/21)\n\n積荷目録でASRockのZ990マザーボードの型番が確認される (09/17)\n\n2027年に登場する新しいGPUはAMDのAT2のみ、他は2028年以…",
-      "ImageURL": ""
-    },
-    {
-      "Title": "iPhone18 Proシリーズのイメージセンサーは全てソニー製〜分解で確認",
-      "Link": "https://iphone-mania.jp/iphone18-606356/",
-      "Published": "2026-09-21T15:05:00Z",
-      "Source": "iPhone Mania",
-      "Category": "比較",
-      "Summary": "iPhone18 Proシリーズのイメージセンサーは全てソニー製〜分解で確認\n\niPhone18 ProとiPhone18 Pro Maxを分解し、搭載されている各部品を詳しく確認した結果、カメラ用イメージセンサーはiPhone17 Proシリーズに引き続き、全てソニー製であることが確認されました。\n\niPhone18 Proシリーズのイメージセンサーは全てソニー製〜分解で確認\n\niPhone18 ProとiPhone18 Pro Max を分解し、搭載されている各部品を詳しく確認した結果、カメラ用 イメージセンサーはiPhone17 Proシリーズに引き続き、全てソニー製 であることが確認されました。\n\nカメラ以外の部品についても、 iPhone18 ProシリーズとiPhone17 Proシリーズの違いが詳しく比較 されています。\n\niPhone18 ProおよびiPhone18 Pro Max の各部品を、 iPhone17 ProおよびiPhone17 Pro Max と 比較 し、YouTubeチャンネル「微机分WekiHome」が報告しています。\n\nなお、この記事における部品の紹介順は、動画における紹介順とは異なります。\n\niPhone18 Proシリーズに搭載されている背面カメラ用イメージセンサーは全てソニー製で、型番と主な仕様は次の通りです。\n\niPhone17 Proシリーズから 変更されたのは広角カメラ です。イメージセンサーが IMX903からIMX905へ変更 されたほか、 可変絞りが採用 されています。\n\nフロントカメラには、iPhone17 Proシリーズと同じ ソニー製IMX914 イメージセンサーが搭載されています。\n\nフロント側で大きく変更されたのがFace ID機構です。赤外線カメラが他の部品から分離され、ディスプレイ下に配置されています。\n\n赤外線カメラを配置する部分では、光を通しやすくするため、周囲と比べてディスプレイの画素密度を約50%に抑えた構造が採用されています。\n\nそれでもDynamic Islandの開口部と比べると光の…",
-      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/09/21/iPhone18-pro-17-pro-parts-e1789987280107.png"
-    },
-    {
-      "Title": "MS、ファイル履歴が正常動作しない不具合を認める。原因はWindows11 KB5129195やKB5124008、Windows10 KB5129236やKB5122878など",
-      "Link": "https://www.nichepcgamer.com/archives/post-132420.html",
-      "Published": "2026-09-21T15:03:43Z",
-      "Source": "ニッチなPCゲーマーの環境構築Z",
-      "Category": "WindowsUpdate-2026-09",
-      "Summary": "MS、ファイル履歴が正常動作しない不具合を認める。原因はWindows11 KB5129195やKB5124008、Windows10 KB5129236やKB5122878など\n\nMicrosofftは、Windows11やWindows10において、ファイル履歴が機能しない不具合が発生していることを認めました。 不具合概要 日本時間で2026年9月9日にリリースされたWin...\n\nMicrosofftは、Windows11やWindows10において、 ファイル履歴が機能しない不具合が発生していることを認めました。\n\n日本時間で2026年9月9日にリリースされたWindows Update / セキュリティ更新プログラム(セキュリティ)パッチをインストール後、『ファイル履歴』が正常に機能・動作しなくなる場合があります。\n\n『ファイル履歴』の使用において、以下のような不具合が発生する場合があります、\n\nバックアップ用ストレージを接続していて、ストレージが正常に動作しているにもかかわらず、ドライブを再接続してくださいといった内容のエラーメッセージが表示される\n\nイベントビューアーにFileHistory.exe / KERNELBASE.dllを参照するアプリケーションのクラッシュイベントが記録される\n\n『ファイル履歴』が正常動作しない不具合は、以前から ユーザーにより報告 されていましたが、 今回、Microsoftは既知の不具合として認めました。\n\nこの不具合が発生するOSおよび不具合を内包する更新プログラムは以下。\n\nWindows11 25H2 / Windows11 24H2 KB5129195 (2026年9月15日 緊急リリース・セキュリティ更新プログラム) KB5124008 (2026年9月9日 セキュリティ更新プログラム)\n\nWindows11 26H…",
-      "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2025/10/windows-break-b.jpg"
-    },
-    {
-      "Title": "“Raptor Lake Next”の8 P-core + 8 E-coreモデルはCore i5 14600Kの後継",
-      "Link": "https://northwood.blog.fc2.com/blog-entry-13208.html",
-      "Published": "2026-09-21T14:43:58Z",
-      "Source": "北森瓦版",
-      "Category": "",
-      "Summary": "“Raptor Lake Next”の8 P-core + 8 E-coreモデルはCore i5 14600Kの後継\n\n北森瓦版 - Northwood Blog (Author : 北森八雲. Since July 10, 2006.)\n\n北森瓦版 - “Raptor Lake Next”の8 P-core + 8 E-coreモデルはCore i5 14600Kの後継 ブログ内検索\n\n○CPU アーク (ark) Tsukumo (Intel) Tsukumo (AMD) ソフマップ ○マザーボード アーク (ark) Tsukumo (Intel) Tsukumo (AMD) ソフマップ ○グラフィックカード アーク (ark) Tsukumo (NVIDIA) Tsukumo (AMD) ソフマップ ○メモリ アーク (ark) Tsukumo ソフマップ ○SSD アーク (ark) Tsukumo ソフマップ ○Amazon売れ筋ランキング CPU メモリ グラフィックカード マザーボード SSD 電源\n\n“Raptor Lake Next”の8 P-core + 8 E-coreモデルはCore i5 14600Kの後継\n\n“Raptor Lake Next”の8 P-core + 8 E-coreモデルはCore i5 14600Kの後継 (2026/09/21)\n\n12 Xe graphics coreを搭載する“Nova Lake-S”はキャンセルされたらしい (2026/09/15)\n\n12 Xe3P GPUを搭載する“Nova Lake”はDDR5-8000 CSO DIMMに対応 (2026/09/14)\n\n| 北森瓦版 | Template by おすすめ無料ブログ(blog)比較\n\nGeForce RTX 60 seriesはやはり2028年となるらしい (09/22)\n\n“Raptor Lake Next”の8 P-core + 8 E-coreモデルはCore i5 14600Kの後継 (09/21)\n\n今後2年間でGDDR7の4GB…",
-      "ImageURL": ""
-    },
-    {
-      "Title": "今後2年間でGDDR7の4GB, 6GBチップが計画されているらしい",
-      "Link": "https://northwood.blog.fc2.com/blog-entry-13207.html",
-      "Published": "2026-09-21T14:25:49Z",
-      "Source": "北森瓦版",
-      "Category": "",
-      "Summary": "今後2年間でGDDR7の4GB, 6GBチップが計画されているらしい\n\n北森瓦版 - Northwood Blog (Author : 北森八雲. Since July 10, 2006.)\n\n北森瓦版 - 今後2年間でGDDR7の4GB, 6GBチップが計画されているらしい ブログ内検索\n\n○CPU アーク (ark) Tsukumo (Intel) Tsukumo (AMD) ソフマップ ○マザーボード アーク (ark) Tsukumo (Intel) Tsukumo (AMD) ソフマップ ○グラフィックカード アーク (ark) Tsukumo (NVIDIA) Tsukumo (AMD) ソフマップ ○メモリ アーク (ark) Tsukumo ソフマップ ○SSD アーク (ark) Tsukumo ソフマップ ○Amazon売れ筋ランキング CPU メモリ グラフィックカード マザーボード SSD 電源\n\n今後2年間でGDDR7の4GB, 6GBチップが計画されているらしい\n\n今後2年間でGDDR7の4GB, 6GBチップが計画されているらしい (2026/09/21)\n\nJEDEC 有機基板でHBM4並の帯域を実現するSPHBM4を発表 (2026/07/15)\n\nTeam Group 1.1Vで駆動するDDR5-8000モジュールを明らかに (2026/05/06)\n\n| 北森瓦版 | Template by おすすめ無料ブログ(blog)比較\n\nGeForce RTX 60 seriesはやはり2028年となるらしい (09/22)\n\n“Raptor Lake Next”の8 P-core + 8 E-coreモデルはCore i5 14600Kの後継 (09/21)\n\n今後2年間でGDDR7の4GB, 6GBチップが計画されているらしい (09/21)\n\n積荷目録でASRockのZ990マザーボードの型番が確認される (09/17)\n\n2027年に登場する新しいGPUはAMDのAT2のみ、他は2028年以降 (09/17)\n\nRyzen 5 55…",
-      "ImageURL": ""
     }
   ],
   "world": [
+    {
+      "Title": "Google quietly made Find Hub an Android app I can’t live without",
+      "Link": "https://www.androidauthority.com/google-find-hub-remembered-items-hands-on-3713182/",
+      "Published": "2026-09-29T09:30:29Z",
+      "Source": "Android Authority",
+      "Category": "Google",
+      "Summary": "Google quietly made Find Hub an Android app I can’t live without\n\nFind Hub is an important Android app, but not one I consider critical to my daily life. That changed with the new Remembered feature.\n\nAffiliate links on Android Authority may earn us a commission. Learn more.\n\nGoogle quietly made Find Hub an Android app I can't live without\n\n0 • Dhruv Bhutani / Android Authority Add Android Authority on Google: Preferred Source Google Discover As someone who is perpetually losing track of things like my car keys and wallet, AirTags and similar trackers have made my life much easier. But there’s a whole category of things that I want to keep track of, but can’t stick a tracker to.\n\nSo, when Google recently updated the Find Hub app to track anything I wanted, trust me, I was incredibly excite…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/09/FInd-Hub-Gemini-Remembered-integration-scaled.jpg"
+    },
+    {
+      "Title": "New report offers insight into morale at id Software following ‘Xbox Reset’",
+      "Link": "https://www.kitguru.net/tech-news/mustafa-mahmoud/new-report-offers-insight-into-morale-at-id-software-following-xbox-reset/",
+      "Published": "2026-09-29T09:30:21Z",
+      "Source": "KitGuru",
+      "Category": "Xbox Reset",
+      "Summary": "New report offers insight into morale at id Software following ‘Xbox Reset’\n\nMonths on from the mass lay-offs by Xbox at id Software, morale across the studio has reportedly continued to sink further.\n\nNew report offers insight into morale at id Software following ‘Xbox Reset’\n\nMustafa Mahmoud 21 hours ago Console , Featured Tech News , Software \u0026 Gaming , Tech News\n\nAmongst the many different teams affected by Microsoft’s suite of lay-offs in 2026, id Software were one of the most impacted, with reports claiming that as much as 50% of the studio was let go during the first round of Xbox cuts back in July. Months following this pivotal moment , the studio remains in a state of instability, with developers claiming that “things are still very chaotic.” In a report by Aftermath , the publica…",
+      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/09/dOoooom-732x330.jpg"
+    },
+    {
+      "Title": "Anthropic CEO described Jensen Huang as 'kind of Trump-like' during 2022 meeting",
+      "Link": "https://www.tomshardware.com/tech-industry/anthropic-ceo-described-jensen-huang-as-kind-of-trump-like-during-2022-meeting-nvidia-ceo-reportedly-called-anthropic-executive-a-bean-counter-after-google-tpu-comparison",
+      "Published": "2026-09-29T09:30:00Z",
+      "Source": "Tom's Hardware",
+      "Category": "Tech Industry",
+      "Summary": "Anthropic CEO described Jensen Huang as 'kind of Trump-like' during 2022 meeting\n\nAn excerpt from Kevin Roose\n\nAnthropic CEO called Jensen Huang 'kind of Trump-like' during heated dinner — Nvidia CEO reportedly called Anthropic executive a 'bean counter' after Google TPU comparison\n\nAn excerpt from Kevin Roose's upcoming book describes a very awkward dinner.\n\n(Image credit: Getty Images) Copy link\n\n8 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter Nvidia CEO Jensen Huang and Anthropic CEO Dario Amodei had a rocky first meeting, according to an upcoming book. Kevin Roose, the author of the forthcoming book, The AGI Chronicles, published an excerpt on X that their initial rendezvous was filled with disagreements and included some …",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/PHavZcZZodYn9fPtFLbpx6-2160-80.jpg"
+    },
+    {
+      "Title": "Gemini Skills are expanding to free accounts as Google prepares to sunset Gems",
+      "Link": "https://www.androidauthority.com/gemini-skills-expand-free-accounts-3716627/",
+      "Published": "2026-09-29T09:21:42Z",
+      "Source": "Android Authority",
+      "Category": "Google Gemini",
+      "Summary": "Gemini Skills are expanding to free accounts as Google prepares to sunset Gems\n\nA new Google Support page confirms that Google is expanding Skills access to users with a free account and adding new features to Skills.\n\nAffiliate links on Android Authority may earn us a commission. Learn more.\n\nGemini Skills are expanding to free accounts as Google prepares to sunset Gems\n\n0 • Joe Maring / Android Authority Add Android Authority on Google: Preferred Source Google Discover TL;DR A new Google Support page has confirmed that Skills are expanding to users with free accounts.\n\nGoogle is also upgrading Skills with new features, including the ability to import files from Google Drive or Gemini Notebook.\n\nIt will also let users share the Skills they create with other users.\n\nYesterday, we spotted a…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-2-scaled.jpg"
+    },
+    {
+      "Title": "Amid PlayStation 5 Pro Shortages, Sony Implements Lottery System Based on Playtime",
+      "Link": "https://www.techpowerup.com/353194/amid-playstation-5-pro-shortages-sony-implements-lottery-system-based-on-playtime",
+      "Published": "2026-09-29T09:12:05Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "How I replaced 4 popular Android apps with built-in Gboard features",
+      "Link": "https://www.androidauthority.com/replaced-popular-android-apps-with-gboard-features-3713524/",
+      "Published": "2026-09-29T09:00:31Z",
+      "Source": "Android Authority",
+      "Category": "Gboard",
+      "Summary": "How I replaced 4 popular Android apps with built-in Gboard features\n\nWe all know Gboard is a fantastic keyboard. But did you know it has built-in features that can replace other apps on your phone?\n\nAffiliate links on Android Authority may earn us a commission. Learn more.\n\nAndroid apps How I replaced 4 popular Android apps with built-in Gboard features\n\n0 • Akshay Gangwar / Android Authority Add Android Authority on Google: Preferred Source Google Discover For years, after setting up a new Android phone and downloading essential apps, I installed a few additional apps to help with tasks like text translation. Although these apps served me well, I stopped using them long ago, all thanks to Google.\n\nGboard — the default keyboard app on most Android phones — has received plenty of useful fea…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/gboard-app-with-clipboard-open-on-vivo-x300-ultra.jpg"
+    },
+    {
+      "Title": "NXP FRDM-IMXRT1186 development board features i.MX RT1186 crossover MCU, four Ethernet ports",
+      "Link": "https://www.cnx-software.com/2026/09/29/nxp-frdm-imxrt1186-development-board-features-i-mx-rt1186-crossover-mcu-four-ethernet-ports/",
+      "Published": "2026-09-29T09:00:20Z",
+      "Source": "CNX Software",
+      "Category": "zephyr",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "This new emulator lets you play Switch games on your PlayStation 5",
+      "Link": "https://www.androidauthority.com/prosperoeden-switch-emulator-playstation-5-3716603/",
+      "Published": "2026-09-29T08:36:50Z",
+      "Source": "Android Authority",
+      "Category": "Sony PlayStation",
+      "Summary": "This new emulator lets you play Switch games on your PlayStation 5\n\nProsperoEden is an emulator that brings native Nintendo Switch gaming to the PS5 with DualSense controller support and more features.\n\nAffiliate links on Android Authority may earn us a commission. Learn more.\n\nThis new emulator lets you play Switch games on your PlayStation 5\n\n0 • Nick Fernandez / Android Authority Add Android Authority on Google: Preferred Source Google Discover TL;DR A new emulator can natively run Switch games on a jailbroken PS5.\n\nIt runs Cuphead at 60fps, and games like Horizon Chase Turbo and Metroid Dread at 40 to 50fps.\n\nIt also supports docked and handheld modes for each game and includes DualSense controller support.\n\nIf there’s one thing that never ceases to amaze me, it’s the sheer resilience …",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2025/10/KONKR-Pocket-FIT-Eden-emulator-Mario-Odyssey-scaled.jpg"
+    },
+    {
+      "Title": "Stellar Blade director would love to work on Bayonetta if given the chance",
+      "Link": "https://www.kitguru.net/tech-news/mustafa-mahmoud/stellar-blade-director-would-love-to-work-on-bayonetta-if-given-the-chance/",
+      "Published": "2026-09-29T08:30:20Z",
+      "Source": "KitGuru",
+      "Category": "Switch 2",
+      "Summary": "Stellar Blade director would love to work on Bayonetta if given the chance\n\nStellar Blade director and ShiftUp CEO 'Kim Hyung-tae' has expressed his desire to work on a Bayonetta game if given the chance.\n\nStellar Blade director would love to work on Bayonetta if given the chance\n\nMustafa Mahmoud 22 hours ago Featured Tech News , Software \u0026 Gaming , Tech News\n\nIn a little over a month’s time , Stellar Blade will finally be making its way over to the Nintendo Switch 2, bringing with it a new crossover skin in the style of PlatinumGames’ iconic heroine Bayonetta. While currently limited to a cosmetic collab, studio ShiftUp’s CEO revealed that he would love to work on a full Bayonetta game if given the chance, claiming the series to be in his top 3 of all time. Taking part in an interview wit…",
+      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/09/stellar-bayo-732x330.jpg"
+    },
+    {
+      "Title": "Open thread: Do Googlebooks solve a problem you actually have?",
+      "Link": "https://www.androidauthority.com/googlebooks-problem-open-thread-3716583/",
+      "Published": "2026-09-29T08:27:44Z",
+      "Source": "Android Authority",
+      "Category": "Googlebooks",
+      "Summary": "Open thread: Do Googlebooks solve a problem you actually have?\n\nThe Googlebook line was made official just over a week ago, but readers are questioning their reason for existing. Are you one of them?\n\nAffiliate links on Android Authority may earn us a commission. Learn more.\n\nGooglebooks/Googlebook OS Open thread: Do Googlebooks solve a problem you actually have?\n\n0 • Add Android Authority on Google: Preferred Source Google Discover 🗣️ This is an open thread.\n\nWe want to hear from you! Share your thoughts in the comments and vote in the poll below — your take might be featured in a future roundup.\n\nIt’s been just over a week since Google and its five hardware partners rolled out the Googlebook line — an Android-based platform that offers laptop shoppers a novel alternative to the tradition…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/09/Googlebook-Google-Play-Store-2.jpg"
+    },
+    {
+      "Title": "Google has started killing Assistant on phones in favor of Gemini",
+      "Link": "https://www.androidauthority.com/google-now-killing-assistant-gemini-3716545/",
+      "Published": "2026-09-29T08:21:36Z",
+      "Source": "Android Authority",
+      "Category": "Google Gemini",
+      "Summary": "Google has started killing Assistant on phones in favor of Gemini\n\nThere's bad news if you're still using Google Assistant, as Google has started killing it off in favor of Gemini.\n\nAffiliate links on Android Authority may earn us a commission. Learn more.\n\nGoogle has started killing Assistant on phones in favor of Gemini\n\n0 • Megan Ellis / Android Authority Add Android Authority on Google: Preferred Source Google Discover TL;DR Google has started killing off Google Assistant in favor of Gemini on mobile devices.\n\nUsers have noticed that the option to switch to Assistant is no longer available in the Gemini app.\n\nThis comes almost two months after Google issued a timeline for phasing out Assistant.\n\nGoogle started emailing users last month to warn them that it was killing off Google Assist…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2025/05/choosing-between-google-assistant-and-gemini-on-a-smartphone-scaled.jpg"
+    },
+    {
+      "Title": "OpenAI cancels GPT-6.1 Astra because it lied, cheated, and accessed apps without permission",
+      "Link": "https://www.androidauthority.com/open-ai-gpt-6-1-astra-canceled-security-concerns-3716551/",
+      "Published": "2026-09-29T08:02:43Z",
+      "Source": "Android Authority",
+      "Category": "OpenAI",
+      "Summary": "OpenAI cancels GPT-6.1 Astra because it lied, cheated, and accessed apps without permission\n\nOpenAI has canceled plans to launch GPT-6.1 Astra due to safety concerns identified during internal testing, according to a report.\n\nAffiliate links on Android Authority may earn us a commission. Learn more.\n\nOpenAI cancels GPT-6.1 Astra because it lied, cheated, and accessed apps without permission\n\n0 • Edgar Cervantes / Android Authority Add Android Authority on Google: Preferred Source Google Discover TL;DR OpenAI has reportedly canceled plans to launch GPT-6.1 Astra due to safety concerns.\n\nThe model didn’t follow instructions during internal testing, per reports.\n\nIt also tried to deceive OpenAI researchers and perform actions beyond the scope of its assigned tasks.\n\nOpenAI has been releasing …",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/05/Open-AI-ChatGPT-logo-on-phone-stock-photo-8.jpg"
+    },
+    {
+      "Title": "This Android browser now doubles as a travel eSIM",
+      "Link": "https://www.androidauthority.com/opera-android-built-in-travel-esim-3716499/",
+      "Published": "2026-09-29T08:00:31Z",
+      "Source": "Android Authority",
+      "Category": "Opera",
+      "Summary": "This Android browser now doubles as a travel eSIM\n\nOpera is adding travel eSIM support to its Android browser, with multi-country top-ups, 5G access where available, and a free 3GB trial.\n\nAffiliate links on Android Authority may earn us a commission. Learn more.\n\nThis Android browser now doubles as a travel eSIM\n\n0 • Opera Add Android Authority on Google: Preferred Source Google Discover TL;DR Opera for Android now lets travelers buy and manage an eSIM directly inside the browser.\n\nThe eSIM works across the entire phone, supports 47 destinations, and lets you top up between stops.\n\nUsers in 11 launch markets can claim 3GB of free data for three days without entering payment details.\n\nThe airport is a terrible place to discover that your carrier’s roaming rates are brutal. You just landed,…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/09/Opera-Browser-eSIM-support.jpg"
+    },
+    {
+      "Title": "This iconic ad-free Android TV launcher is finally getting a makeover after nearly a decade",
+      "Link": "https://www.androidauthority.com/android-tv-sideload-launcher-3716555/",
+      "Published": "2026-09-29T07:55:46Z",
+      "Source": "Android Authority",
+      "Category": "Google TV",
+      "Summary": "This iconic ad-free Android TV launcher is finally getting a makeover after nearly a decade\n\nAfter nearly ten years with the same look, the Sideload Launcher for Android TV is getting a big redesign.\n\nAffiliate links on Android Authority may earn us a commission. Learn more.\n\nThis iconic ad-free Android TV launcher is finally getting a makeover after nearly a decade\n\n0 • Edgar Cervantes / Android Authority Add Android Authority on Google: Preferred Source Google Discover TL;DR Sideload Launcher is getting an update eight years after the last one.\n\nIt brings an entirely redone interface with a cleaner app list and customization options.\n\nThe launcher remains free of any ads or tracking, and does not even require the internet to function.\n\nOver the years, the Google TV interface has gotten t…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2024/05/Google-TV-or-Android-TV-UI-on-screen-stock-photo-8.jpg"
+    },
+    {
+      "Title": "Latest Galaxy S27 Ultra leak brings good news for low-light shots, bad news for zoom",
+      "Link": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-camera-processing-hp6-leak-3716533/",
+      "Published": "2026-09-29T07:46:32Z",
+      "Source": "Android Authority",
+      "Category": "Samsung Galaxy S27",
+      "Summary": "Latest Galaxy S27 Ultra leak brings good news for low-light shots, bad news for zoom\n\nA new Galaxy S27 Ultra leak points to warmer colors, better highlight control, cleaner shadows, and a new 200MP main camera sensor.\n\nAffiliate links on Android Authority may earn us a commission. Learn more.\n\nLatest Galaxy S27 Ultra leak brings good news for low-light shots, bad news for zoom\n\n0 • Megan Ellis / Android Authority Add Android Authority on Google: Preferred Source Google Discover TL;DR The Galaxy S27 Ultra could use a new 200MP ISOCELL HP6 main sensor based on Samsung’s DeepPix-equipped HPC sensor.\n\nThat could help deliver warmer colors, cleaner shadows, better highlight control, and improved dynamic range in tricky lighting.\n\nSamsung may also drop the dedicated 3x telephoto camera, leaving …",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/06/s26-ultra-on-a-table-scaled.jpg"
+    },
     {
       "Title": "Gemini can now dig into your Google Wallet to analyze your spending, but will you trust it?",
       "Link": "https://www.androidauthority.com/google-wallet-gemini-integration-3716563/",
@@ -6303,15 +6438,6 @@
       "ImageURL": "https://cdn.mos.cms.futurecdn.net/S86fJafmzvVuMLhTj6vipT-2560-80.jpg"
     },
     {
-      "Title": "Affordable power station for camping, emergency power, and more: Oscal PowerMax 1800 SE review",
-      "Link": "https://www.notebookcheck.net/Affordable-power-station-for-camping-emergency-power-and-more-Oscal-PowerMax-1800-SE-review.1409212.0.html",
-      "Published": "2026-09-26T13:00:00Z",
-      "Source": "Notebookcheck",
-      "Category": "reviews",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
       "Title": "Nvidia patents AI chatbot to streamline PC game optimization",
       "Link": "https://www.tomshardware.com/video-games/pc-gaming/an-nvidia-chatbot-could-one-day-help-developers-better-optimize-their-games-patent-filing-show-requests-can-be-made-in-plain-english",
       "Published": "2026-09-26T13:00:00Z",
@@ -6328,6 +6454,15 @@
       "Category": "Storage",
       "Summary": "Sandisk Optimus GX Pro 850P 2TB SSD review: A PS5 SSD you recognize at a price you don’t\n\nSame drive, new badge, bigger price tag\n\nThe Sandisk Optimus GX Pro 850P is a WD Black SN850P by another name. It’s a great PS5 SSD with good performance in a mature package, but with a stiff premium.\n\n+ Cool-running with PS5 heatsink\n\nWhy you can trust Tom's Hardware Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test .\n\nSandisk Optimus GX Pro 850P Introduction\n\nPage 1: Sandisk Optimus GX Pro 850P Introduction\n\nPage 2: Sandisk Optimus GX Pro 850P 2TB Performance Results\n\nThe good news is that Sandisk is still putting out SSDs for consumers, and these are not just cheap replacements. The Optimus GX Pro 850P is…",
       "ImageURL": "https://cdn.mos.cms.futurecdn.net/w8JoBmpoyjWj3DTUK3gyhc-2560-80.jpg"
+    },
+    {
+      "Title": "Affordable power station for camping, emergency power, and more: Oscal PowerMax 1800 SE review",
+      "Link": "https://www.notebookcheck.net/Affordable-power-station-for-camping-emergency-power-and-more-Oscal-PowerMax-1800-SE-review.1409212.0.html",
+      "Published": "2026-09-26T13:00:00Z",
+      "Source": "Notebookcheck",
+      "Category": "reviews",
+      "Summary": "",
+      "ImageURL": ""
     },
     {
       "Title": "Nvidia’s RTX Mega Geometry 2.0 streams ray-tracing geometry into VRAM on demand",
@@ -6456,21 +6591,21 @@
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/09/old-pixel-security-camera-android-tv-box-project-4-scaled.jpg"
     },
     {
-      "Title": "Easy Ways To Sink a Hardware Startup",
-      "Link": "https://hackaday.com/2026/09/26/easy-ways-to-sink-a-hardware-startup/",
-      "Published": "2026-09-26T08:00:46Z",
-      "Source": "Hackaday",
-      "Category": "hardware startup",
-      "Summary": "Easy Ways To Sink a Hardware Startup\n\n[Ryan Walker] may have written up his observations a few years ago, but the lessons are just as relevant today as they were back then. He shares five easy ways to sink your hardware startup. It\u0026#82…\n\n[Ryan Walker] may have written up his observations a few years ago, but the lessons are just as relevant today as they were back then. He shares five easy ways to sink your hardware startup .\n\nIt’s a reminder that while hardware startups are unique, there are basic business realities that still apply because the hardware itself is going to be only one part of a whole. These business fundamentals can be a drag, but it’s worth giving them some attention. But if that’s not your jam, no worries. As [Ryan] experienced, they will explain themselves one way or an…",
-      "ImageURL": "https://hackaday.com/wp-content/uploads/2017/11/lifeoncontract-featured.jpg"
-    },
-    {
       "Title": "Easy Ways Sink a Hardware Startup",
       "Link": "https://hackaday.com/2026/09/26/easy-ways-sink-a-hardware-startup/",
       "Published": "2026-09-26T08:00:46Z",
       "Source": "Hackaday",
       "Category": "hardware startup",
       "Summary": "Easy Ways Sink a Hardware Startup\n\n[Ryan Walker] may have written up his observations a few years ago, but the lessons are just as relevant today as they were back then. He shares five easy ways to sink your hardware startup. It\u0026#82…\n\n[Ryan Walker] may have written up his observations a few years ago, but the lessons are just as relevant today as they were back then. He shares five easy ways to sink your hardware startup .\n\nIt’s a reminder that while hardware startups are unique, there are basic business realities that still apply because the hardware itself is going to be only one part of a whole. These business fundamentals can be a drag, but it’s worth giving them some attention. But if that’s not your jam, no worries. As [Ryan] experienced, they will explain themselves one way or anoth…",
+      "ImageURL": "https://hackaday.com/wp-content/uploads/2017/11/lifeoncontract-featured.jpg"
+    },
+    {
+      "Title": "Easy Ways To Sink a Hardware Startup",
+      "Link": "https://hackaday.com/2026/09/26/easy-ways-to-sink-a-hardware-startup/",
+      "Published": "2026-09-26T08:00:46Z",
+      "Source": "Hackaday",
+      "Category": "hardware startup",
+      "Summary": "Easy Ways To Sink a Hardware Startup\n\n[Ryan Walker] may have written up his observations a few years ago, but the lessons are just as relevant today as they were back then. He shares five easy ways to sink your hardware startup. It\u0026#82…\n\n[Ryan Walker] may have written up his observations a few years ago, but the lessons are just as relevant today as they were back then. He shares five easy ways to sink your hardware startup .\n\nIt’s a reminder that while hardware startups are unique, there are basic business realities that still apply because the hardware itself is going to be only one part of a whole. These business fundamentals can be a drag, but it’s worth giving them some attention. But if that’s not your jam, no worries. As [Ryan] experienced, they will explain themselves one way or an…",
       "ImageURL": "https://hackaday.com/wp-content/uploads/2017/11/lifeoncontract-featured.jpg"
     },
     {
@@ -8866,141 +9001,6 @@
       "Category": "Google Gemini",
       "Summary": "Google、Gemini 学習ノートの年齢の壁を撤廃\n\nGoogleは、学校または職場が発行したアカウントにサインインしているあらゆる年齢層のユーザーにGemini学習ノートへのアクセスを拡大すると発表した。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nGoogle、Gemini 学習ノートの年齢の壁を撤廃\n\n0 • Adamya Sharma / Android Authority Google に Android Authority を追加: 優先ソース Google Discover TL;DR Google は、学校または職場が発行した Google アカウントにサインインしているあらゆる年齢のユーザーに学習ノートブックを拡大しています。\n\nGemini アプリと Gemini Notebook は、ユーザーの管理者が有効にする必要があります。\n\n段階的なロールアウトが開始されており、公開されるまでに最大 15 日かかる場合があります。\n\n勉強していて、どこから始めればよいか、次に何に集中すればよいかわからない場合、Google は最近、このジレンマを解決するものをリリースしました。 Gemini 学習ノートブックとして知られ、アップロードしたノート、シラバス、コース教材に基づいて個人的な学習計画を作成できます。非常に役立つ学習ツールなので、より多くの生徒に提供するのは当然のことです。\n\n新しいブログ投稿 で、Google は学習ノートへのアクセスを拡大すると発表しました。学校や職場で発行された Google アカウントにサインインしているあらゆる年齢層のユーザーがツールを利用できるようになりました。ただし、ユーザーの管理者は最初に Gemini アプリと Gemini Notebook を有効にする必要があります。\n\nGoogle 学習ノートブックでできることには、新しいノートブックの作成、進捗確認クイズ、カスタム レッスンなどがあります。また、目標を「強み」や「注力分野」などの…",
       "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/05/New-Gemini-app-2026-design-refresh-scaled.jpg"
-    },
-    {
-      "Title": "HP Releases GT06 Full-Size Mechanical Keyboard Series With 8 KHz Polling Rate",
-      "Link": "https://www.techpowerup.com/352961/hp-releases-gt06-full-size-mechanical-keyboard-series-with-8-khz-polling-rate",
-      "Published": "2026-09-22T19:14:00Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "Google Play ストアは、バイブコード化されたアプリのための特別なホームを開発しているようです",
-      "Link": "https://www.androidauthority.com/play-store-vibe-coded-apps-3714182/",
-      "Published": "2026-09-22T19:09:13Z",
-      "Source": "Android Authority",
-      "Category": "Google Play Store",
-      "Summary": "Google Play ストアは、バイブコード化されたアプリのための特別なホームを開発しているようです\n\n新しい「あなたの作品」セクションには、Google の AI Studio ツールで構築したアプリが含まれているように見えます。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nGoogle Play ストアは、バイブコード化されたアプリのための特別なホームを開発しているようです\n\n0 • C. Scott Brown / Android Authority Google に Android Authority を追加: 優先ソース Google Discover TL;DR Google では、AI Studio でコード アプリをバイブレーションし、後でデバイスにサイドロードしたり、Play Console を通じて公開アクセスのために送信したりできます。\n\n現在、Play ストアは、ユーザーが AI Studio の作品を見つけられる新しい「あなたの作品」に取り組んでいます。\n\nこの変化が、他の人による AI Studio アプリへの広範なアクセスにどのような影響を与えるのかはまだ明らかではありません。\n\nバイブコーディングについて耳にするかもしれないあらゆる反発にもかかわらず、それが実際にかなりうまく機能する可能性を秘めていることは否定できませんし、実際に、最初のアプリを構築するために必要なものの参入障壁を見事に下げることに成功しています。 Google は、Android ユーザーがこれまで以上に簡単に独自のアプリのコーディングを開始できるようにしたいと考えて、その AI Studio エクスペリエンスを Gemini に導入することに熱心に取り組んでいます。現在、私たちはそれらのアプリが最終的に行き着く可能性のある新しい拠点について学習しています。\n\nあなたは Authority Insights の記事を読んでいます。 Authority Insights は、他では見られない…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2024/07/Google-Play-Logo-2024-as-seen-as-Google-Play-Event-in-2024.jpg"
-    },
-    {
-      "Title": "Adobe Premiere はついに Android に強力なビデオ編集機能を無料で提供します",
-      "Link": "https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/",
-      "Published": "2026-09-22T19:08:58Z",
-      "Source": "Ars Technica Gear \u0026 Gadgets",
-      "Category": "video editing",
-      "Summary": "Adobe Premiere はついに Android に強力なビデオ編集機能を無料で提供します\n\nクリップを編集するために Creative Cloud にログインする必要さえありませんが、AI 機能には追加料金がかかります。\n\nテキスト設定 ストーリーテキスト サイズ 小 標準 大 幅 * 標準 幅広 リンク 標準 オレンジ * 購読者のみ 詳細はこちら ナビゲーションを最小限に抑える ビデオ編集は、これまで Android の得意分野ではありませんでした。 Apple は長い間 iPhone および iPad 用の iMovie を提供してきましたが、Google はこれまで同等の製品を提供していませんでした。 Adobe は現在、適切なバージョンの Premiere でこの機能のギャップを埋めるために取り組んでいます。このアプリは現在、ほぼすべての Android デバイスの Play ストアで入手でき、（ほとんどが）無料です。\n\nAndroid 版の Premiere は、デスクトップ アプリケーションで利用できるすべての機能を提供しているわけではありませんが、間もなく廃止される Premiere Rush アプリに比べれば大きな進歩です。ビデオ トラックを好きなだけインポートし、トリミング、分割、エフェクトを追加し、最大 4K 解像度でビデオをエクスポートできます。クリップからオーディオを抽出し、バックグラウンドノイズを低減し、ナレーションを追加することもできます。このアプリは YouTube Short フォーマットを強調しており、ビデオ出力をデフォルトでポートレート 16:9 に設定していますが、これをより伝統的なものに変更することもできます。\n\n標準的なスマートフォンでは、アプリは画面を分割し、タイムラインが下に、プレビューが上に表示されます。 Adobe によれば、Premiere は複数のフォームファクター向けに最適化されているという。折りたたみ式スマートフォンをお使いの場合は、より多くのスペースを確保できるように UI が調整され、タイムラインが…",
-      "ImageURL": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Premiere-Android-1-1152x648.jpg"
-    },
-    {
-      "Title": "この 99 ドルの 512GB microSD Express カードで Switch 2 のストレージ危機を乗り越えましょう",
-      "Link": "https://www.tomshardware.com/pc-components/microsd-cards/beat-the-switch-2-storage-crisis-with-this-usd99-512gb-microsd-express-card-amazon-deal-slashes-33-percent-off-high-performance-samsung-p9",
-      "Published": "2026-09-22T18:18:55Z",
-      "Source": "Tom's Hardware",
-      "Category": "Storage",
-      "Summary": "この 99 ドルの 512GB microSD Express カードで Switch 2 のストレージ危機を乗り越えましょう\n\n不足価格なしの 512 GB の高速ストレージ\n\nこの 99 ドルの 512GB microSD Express カードで Switch 2 のストレージ危機を乗り越えましょう — Amazon との契約により、高性能 Samsung P9 が 33% 割引されます\n\n不足価格なしの 512 GB の高速ストレージ\n\n(画像クレジット: Samsung) リンクをコピー\n\n0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する フラッシュ不足により、ほぼすべての消費者向けストレージ デバイスの価格が高騰しています。幸いなことに、Nintendo Switch 2 の所有者は期間限定で、高性能の Samsung P9 512GB microSD Express カードを、品薄が始まる前のメーカー希望小売価格であるわずか 99.99 ドルで入手できる貴重な機会に恵まれています。 microSD Express カードは通常 149.99 ドルで販売されているため、Amazon の 50 ドルのチェックアウト割引により、この取引はさらに魅力的になります。\n\nAmazonでSamsung P9 512GBのセールをチェックしてください\n\nSamsung P9 は、入手可能な最高の microSD Express カードの 1 つであり、最大 800 MB/秒の超高速のシーケンシャル読み取り速度を提供します。そのパフォーマンスは、Switch 2 でゲームを迅速にロードし、ゲームプレイをスムーズに保つのに十分です。 Samsung はシーケンシャル書き込み速度を明示的に述べていません。ただし、512GB クラスの microSD Express カードは通常、最大 300 MB/秒の持続書き込み速度を提供します。\n\nSamsung P9 は、価格の割に優れたパフォーマンスと信頼性を提供する m…",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/x3oJNN4YR43uAYN7Xgz8oQ-1920-80.jpg"
-    },
-    {
-      "Title": "スマートウォッチがワークアウトに必要以上の評価を与えている可能性があります",
-      "Link": "https://www.androidauthority.com/smartwatch-calorie-tracking-inaccuracy-body-fat-3714192/",
-      "Published": "2026-09-22T18:15:14Z",
-      "Source": "Android Authority",
-      "Category": "Smartwatches",
-      "Summary": "スマートウォッチがワークアウトに必要以上の評価を与えている可能性があります\n\n新しい研究では、スマートウォッチのカロリー推定値は体脂肪が増加するにつれて精度が低くなり、誤差が 100% 以上に達することが判明しました。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nスマートウォッチがワークアウトに必要以上の評価を与えている可能性があります\n\n0 • Joe Maring / Android Authority Google に Android Authority を追加: 推奨ソース Google Discover TL;DR 新しい研究によると、Apple、Samsung、Garmin、Fitbit の人気スマートウォッチは、運動中の消費カロリーの計算を大幅に誤っています。\n\n体脂肪率が高くなるほど、スマートウォッチのカロリー推定の精度が低くなり、誤差が 100% 以上に達する可能性があります。\n\n研究者らは、特に体重管理をスマートウォッチに依存している場合には、スマートウォッチのカロリーカウントを大まかな推定値として扱うことを推奨しています。\n\nスマートウォッチをお持ちの方なら、激しいトレーニングを終えて手首を見て、消費カロリーを確認したときに得られる満足感をご存知でしょう。カロリー不足になって体重を減らすことが目標であれば、時計の数値は非常に重要です。しかし、新しい研究では、特に体脂肪率が高い場合、スマートウォッチが正確な測定値を提供しない可能性があることを示唆しています。\n\nスマートウォッチは、健康やフィットネスの追跡機能だけでなく、利便性の点でもますます一般的になってきています。私はワークアウトのたびにこの時計を使用しています。不正確さについての以前の報告により、私は時計が出力する数値を解釈する際に注意を怠りましたが、それでも関係なく、ワークアウトのたびに時計を見ていることに気づきました。スマートウォッチの不正確さに関する The Conversation の新しいレポートを考慮する…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2025/02/oneplus-watch-3-vs-apple-watch-ultra-2-2-scaled.jpeg"
-    },
-    {
-      "Title": "Activision To Take Over Halo Franchise After Halo Studios Layoffs Become Official",
-      "Link": "https://www.techpowerup.com/352953/activision-to-take-over-halo-franchise-after-halo-studios-layoffs-become-official",
-      "Published": "2026-09-22T18:02:12Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "(PR) Razer、Mako デスクトップ ゲーミング スピーカーを発表",
-      "Link": "https://www.techpowerup.com/352958/razer-unveils-the-mako-desktop-gaming-speakers",
-      "Published": "2026-09-22T17:52:58Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "(PR) Razer、Mako デスクトップ ゲーミング スピーカーを発表\n\nゲーマー向けの世界的なライフスタイル ブランドをリードする Razer は本日、現代のバトルステーション向けに、より豊かなサウンド、深みのある低音、Razer Chroma RGB ライティングを提供するように設計されたコンパクトなデスクトップ ゲーム スピーカーの新しいラインである Razer Mako を発表しました。\r\n\r\nMako デスクトップ ゲーミング スピーカー シリーズは、ゲーマーにクリアなサウンドを提供します。\n\nRazer が Mako デスクトップ ゲーミング スピーカーを発表\n\nRazer の PC ゲーム部門責任者 Barrie Oi 氏 「Mako シリーズは、コンパクトな設置面積で部屋を満たすサウンドを求めるゲーマーに対する当社の答えです。そのすべての部分がそのアイデアに基づいて構築されています。カスタム調整されたフルレンジ ドライバーと部屋を満たす低音がゲーム、音楽、映画に真の重みを与え、7.1 バーチャル サラウンド サウンドがサウンドステージを広げ、Razer Chroma RGB がスピーカーを超えて照明を拡張してバトルステーション全体に命を吹き込みます。」\n\nコンパクトな没入感: カスタム調整された 2.75 インチのフルレンジ ドライバーと角度のついたデスクトップ デザインが、自然な中音域と鮮明な高音域をリスナーに投影し、7.1 バーチャル サラウンド サウンドでゲーム、映画、音楽のサウンドステージを広げます。\n\n存在感のある低音: Mako は、より深いローエンドのインパクトを実現する専用の前方発射サブウーファーを追加し、Mako X は、より小さな設置面積の内蔵パッシブラジエーターを通じて低音応答を拡張します。\n\n照明と接続性: Mako のリアプロジェクション Razer Chroma RGB と Mako X の 10 ゾーン Razer Chroma RGB アンダーグローは、USB-C、Bluetooth 5.3、および 3.5 mm 接続…",
-      "ImageURL": "https://www.techpowerup.com/img/sfQ1gyDwNYC7zSAT.jpg"
-    },
-    {
-      "Title": "AMD、GPUメモリ使用量を47倍削減するレイトレーシング技術を披露",
-      "Link": "https://www.techpowerup.com/352957/amd-shows-off-ray-tracing-tech-that-slashes-gpu-memory-use-by-47x",
-      "Published": "2026-09-22T17:50:25Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "AMD、GPUメモリ使用量を47倍削減するレイトレーシング技術を披露\n\nAMDは、四面体ケージと呼ばれる新しいレイトレーシング技術の詳細を発表しており、同社のGPUOpen開発者サイトのブログ投稿によると、BVHのメモリ使用量を約47倍に削減し、BVHのアップデートを約90倍高速化できるという。 AMD は、約 25,000 の独立した大規模なシーンでこの技術をデモしました。\n\nAMD、GPUメモリ使用量を47倍削減するレイトレーシング技術を披露\n\n2025 年 12 月 31 日 AI 業界の需要のおかげで、2026 年に 5000 ドルの RTX 5090 GPU が登場するとリークが予測 (124)\n\n2026 年 9 月 17 日 AMD、GPU、チップセット、そしておそらく CPU 全体で 10% の価格引き上げを計画 (92)\n\n2026 年 5 月 14 日 AMD FSR アップスケーリング 4.1 が Radeon RX 7000/6000 GPU (252) に正式に登場\n\n2025 年 11 月 3 日 AMD が Radeon RX 5000/6000 シリーズの「メンテナンス モード」を明確に、初日のゲーム サポートは継続 (160)\n\n2026 年 7 月 28 日 AMD が ASRock (303) の最初のデザインを備えた Radeon RX 9050 4/8 GB SKU を発売\n\n2026 年 3 月 6 日 PlayStation 6 のリークヒント 4K 120 FPS は「ほとんどのゲームで」PS5 の 6 ～ 12 倍の RT パフォーマンスを実現 (116)\n\n2026 年 6 月 25 日 RDNA 3 での AMD の FSR 4.1 パフォーマンスは FSR 3.1 よりも著しく遅い (189)\n\n2026 年 6 月 30 日 シングルチャネル RAM によって Steam マシンが機能不全に陥る (109)\n\n2026 年 7 月 13 日 最大 8x モードを備えた AMD FSR マルチフレーム生成が開発中 …",
-      "ImageURL": "https://www.techpowerup.com/img/f78Dt754VG1qnloC.jpg"
-    },
-    {
-      "Title": "COROS、より大容量のバッテリー、より多くの RAM、超大型画面を搭載した Pace 4 Pro を発売",
-      "Link": "https://www.androidauthority.com/coros-pace-4-pro-launch-3714134/",
-      "Published": "2026-09-22T17:37:12Z",
-      "Source": "Android Authority",
-      "Category": "Wearables",
-      "Summary": "COROS、より大容量のバッテリー、より多くの RAM、超大型画面を搭載した Pace 4 Pro を発売\n\nCOROS は、同社史上最大のディスプレイを含むいくつかのアップグレードを誇る Pace 4 Pro を発売しました。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nCOROS、より大容量のバッテリー、より多くの RAM、超大型画面を搭載した Pace 4 Pro を発売\n\n0 • Coros Google に Android 権限を追加: 優先ソース Google Discover TL;DR COROS は、アスリート向けの最新スマートウォッチである Pace 4 Pro を発売しました。\n\nPace 4 Proは、同社史上最大となる1.47インチのディスプレイを搭載しています。\n\n現在、黒と白で 449 ドルで入手可能です。\n\nトレーニングの世界に関して言えば、Garmin が提供するスマートウォッチに匹敵するスマートウォッチは多くありません。しかし、COROS はそれを維持し、競争できる数少ないブランドの 1 つです。 Pace 4 の発売からほぼ 1 年後、同社は Pro モデルを携えて戻ってきました。\n\nCOROS は、最新製品である Pace 4 Pro のリリースを発表しました。以前と同様、Pace 4 Pro はあらゆる持久力スポーツのアスリートをターゲットとしています。ただし、試す価値のある大きな改善がいくつかあります。その中で最も注目すべきはディスプレイです。\n\nCOROS は、1.47 インチの Pace 4 Pro の画面で大きく成長しました。 Pace 4 と比較して、Pro のディスプレイは 22% 大きくなっています。実際、この新しいスマートウォッチは、ブランド史上最大の画面を誇ります。\n\nLTPO AMOLED 画面の超大型化に加え、解像度も 466 x 466 ピクセルまで向上しました。 COROSはベゼルをミネラルガラスからサファイアガラスに、繊維…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/09/Coros-Pace-4-Pro-angled.jpg"
-    },
-    {
-      "Title": "Playground Games と Turn 10 を Forza と Fable の 1 つのスタジオに統合",
-      "Link": "https://www.kitguru.net/gaming/matthew-wilson/playground-games-and-turn-10-combining-into-one-studio-for-forza-and-fable/",
-      "Published": "2026-09-22T16:59:50Z",
-      "Source": "KitGuru",
-      "Category": "xbox",
-      "Summary": "Playground Games と Turn 10 を Forza と Fable の 1 つのスタジオに統合\n\nXbox は、現在進行中の組織再編の一環として、Forza Horizon と Forza Motorsport の背後にあるチームである Playground Games と Turn 10 Studios が単一のスタジオに統合されることを発表しました。\n\nPlayground Games と Turn 10 を Forza と Fable の 1 つのスタジオに統合\n\nMatthew Wilson 24 時間前 注目の技術ニュース、ソフトウェア、ゲーム\n\nXbox は、現在進行中の組織再編の一環として、Forza Horizon と Forza Motorsport の背後にあるチームである Playground Games と Turn 10 Studios が単一のスタジオに統合されることを発表しました。 Obsidian を Bethesda 傘下に、Halo を Activision 傘下に置くことに加えて、Microsoft は Playground Games と Forza フランチャイズ全体にも大きな変更を加えています。元の Forza スタジオである Turn 10 は Playground Games と統合され、Fable と Forza の開発を今後監督するための 1 つの大きなチームが設立されます。 Playground と Turn 10 は 10 年以上にわたり緊密に協力しており、Horizo​​n と Motorsport はテクノロジー、ツール、エンジン作業を共有しています。今日の変更により、そのパートナーシップが 1 つの統一チームに正式化されました。 Microsoftは、この統合は主要なフランチャイズを強化し、Xbox Game Studios全体でのパブリッシングと開発を合理化することを目的としていると述べている。この発表は、役割の削減、スタジオの売却、いくつかのチームの独立への移行など、広範な再編の取り組み…",
-      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2022/11/Forza-Horizon-5-732x330.jpg"
-    },
-    {
-      "Title": "(PR) Goodram Expands Its Gaming-Focused RIVAL Series With RIVAL Charge DDR5 Memory",
-      "Link": "https://www.techpowerup.com/352945/goodram-expands-its-gaming-focused-rival-series-with-rival-charge-ddr5-memory",
-      "Published": "2026-09-22T14:17:22Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "Bambu Lab R1 レビュー: これは単独で動作します",
-      "Link": "https://www.tomshardware.com/maker-stem/bambu-lab-r1-review",
-      "Published": "2026-09-22T14:00:00Z",
-      "Source": "Tom's Hardware",
-      "Category": "Maker and STEM",
-      "Summary": "Bambu Lab R1 レビュー: これは単独で動作します\n\nBambu Lab は 55W CO2 レーザーを使ってプールの奥に飛び込みます。\n\n優れたハードウェアと Bambu の優れたソフトウェアおよびスムーズなユーザー インターフェイスを組み合わせることで、このレーザーは最高のレーザーの 1 つとなります。 55W CO2 レーザー カッターおよび彫刻機は、木材、アクリル、ガラスなどを素早く加工します。\n\n+ 同クラスの他のレーザーよりも設置面積が小さい\n\n- 厚い素材にはオプションのレンズが必要\n\n- 限られたマテリアルのプリセットがリストされています\n\nTom's Hardware を信頼できる理由 当社の専門レビュー担当者は、お客様が最適なものを選択できるよう、何時間もかけて製品とサービスをテストおよび比較します。テスト方法について詳しくは、こちらをご覧ください。\n\nバンブー ラボは、レーザー カッターの作成に 2 回目の挑戦で柵を越えて挑戦し、今度はレーザー カッターを公園からノックアウトしました。 Bambu Lab R1 は、広々とした 600 x 300 mm の作業領域、遠隔位置決め用の鳥瞰カメラ、および適切に設計されたソフトウェア スイートを備えたスタンドアロンの 55W CO2 レーザーです。このレーザーの価格は 2,499 ドルで、同じサイズと口径の他の CO2 レーザーと比較するとお買い得です。\n\n同社の最初のレーザーである H2D 内にパッケージされた 40W ダイオードが懐疑的な見方をされたことを覚えているかもしれません。同社は H2D をメーカー向けの究極の小型製造機械として売り込んでいましたが、多くの人はレーザーを高価な Core XY プリンタと同じ箱に入れるには汚すぎると感じていました。 Bambu は耳を傾けているに違いありません。なぜなら、彼らは H2D のダイオード システムの良いところをすべて取り入れて、大量の CO2 レーザーを備えたスタンドアロン ケースを提供したからです。\n\nR1 は、Bambu Lab プリン…",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/pycf84cRm8fCtQ2VNNmQfN-1999-80.jpg"
-    },
-    {
-      "Title": "(PR) QNAP Launches Compact TS-432XeU Short-Depth 10 GbE/2.5 GbE Quad-Core ARM NAS",
-      "Link": "https://www.techpowerup.com/352944/qnap-launches-compact-ts-432xeu-short-depth-10-gbe-2-5-gbe-quad-core-arm-nas",
-      "Published": "2026-09-22T13:57:22Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "Google、ユーザーデータ悪用でさらに4億6000万ドルの罰金",
-      "Link": "https://www.androidauthority.com/google-fined-460-million-dollars-dpc-3714013/",
-      "Published": "2026-09-22T13:52:58Z",
-      "Source": "Android Authority",
-      "Category": "Google",
-      "Summary": "Google、ユーザーデータ悪用でさらに4億6000万ドルの罰金\n\nGoogleは、ユーザーの位置情報とウェブ履歴、位置情報の正確性に関するログを保持および悪用したとして、新たに4億6000万ドルの罰金を科される可能性がある。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nGoogle、ユーザーデータ悪用でさらに4億6000万ドルの罰金\n\n0 • Ryan Haines / Android Authority Google に Android Authority を追加: 優先ソース Google Discover TL;DR Google は、ヨーロッパのユーザーの位置履歴とウェブ閲覧活動を悪用したとして 4 億 300 万ユーロ (4 億 6,200 万ドル) の罰金を科されました。\n\nEUを代表してアイルランドのDPCは、Googleがユーザーの位置情報を保存しており、GDPRに違反していると述べた。\n\nまた、データはターゲットを絞った広告やユーザーの意思決定に影響を与えるために使用された可能性があるとも述べた。\n\nGoogleにとって2026年は特に充実した年ではなかったし、法的問題もまだ終わっていないようだ。 2026 年 7 月、欧州司法裁判所は、Google が自社サービスを推進することで優越的地位を侵害したと判断し、画期的な独占禁止法訴訟における前回の判決を留保し、46 億 7,000 万ドルの罰金を課しました。同月後半、欧州委員会はデジタル市場法（DMA）に違反した疑いでグーグルに10億ドル近い罰金を科した。これに続いて、デジタル広告の独占を巡る米国対グーグルの訴訟で以前に示唆された極端な措置からはいくらか救済されたが、今度はグーグルが新たに５億ドル近い罰金を課せられた。\n\nGoogleは、ユーザーの位置履歴に関連するデータを誤って扱った疑いで、アイルランドのデータプライバシー監視団体データ保護委員会（DPC）から4億300万ユーロ（4億6,200万ドル）の罰金を課せられた。…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2024/08/Google-logo-angled.jpg"
-    },
-    {
-      "Title": "コルセア イボイノシシ事件のレビュー",
-      "Link": "https://www.kitguru.net/components/cases/leo-waldock/corsair-warthog-case-review/",
-      "Published": "2026-09-22T13:51:18Z",
-      "Source": "KitGuru",
-      "Category": "Review",
-      "Summary": "コルセア イボイノシシ事件のレビュー\n\nコルセア イボイノシシがついに登場、レオが判決を下す\n\nLeo Waldock 22 時間前 ケース , 注目の技術レビュー , レビュー\n\nCorsair は Computex で Warthog のケースを見せてくれましたが、ミッドタワー Frame 4000D のオーバーホールで彼らが行った取り組みがとても気に入りました。このケースのパネルは頑丈なスチール製で、ミリタリー グリーン仕上げで、代替の黒塗装よりも (わずかに) 見栄えが良く、前面に 200 mm ファンが 2 基追加されています。タイムスタンプ 00:00 概要 00:59 価格設定 / パネルの取り外し 02:55 フロント I/O 03:12 背面および上部パネル 03:40 仕様 / 冷却サポート 04:38 アクセサリ 06:08 興味深い機能 06:32 PC の構築 09:36 ストレス テスト / 結果 11:25 最後に 主な機能見た目だけではありません。シャーシは厚いスチール、剛性構造、機能的な通気機能を組み合わせて優れたエアフローを実現します。統合されたキャリー ハンドル – 上部に取り付けられたハンドルは構造的にシャーシに統合されているため、耐久性を心配することなく、ケースを自信を持って持ち上げて持ち運ぶことができます。\n\n保護されたフロント I/O ボタン – 両側の保護ガードが誤って押されるのを防ぎ、跳ね上げ式のリセット ボタン カバーが独特の視覚的なタッチを加えます。\n\n多彩な接続 - フロント I/O には、充電と接続用に簡単にアクセスできる USB 3.2 Gen 1 Type-A ポート 2 つと USB 3.2 Gen 2×2 Type-C ポート 1 つが含まれています。\n\n背面 I/O 照明 – 前面 I/O のスイッチにより背面照明が作動し、システムの背面が照らされるため、推測に頼らずにケーブルやコンポーネントを簡単に接続できます。\n\nRS PWM ファン – (Warthog RS のみ) デュアル RS200 高性能…",
-      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/08/Featured-Corsair-Warthog-pic-G-copy-732x330.jpg"
     }
   ]
 }

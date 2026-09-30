@@ -1,6 +1,279 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Wed, 30 Sep 2026 00:26:40 +0000</lastBuildDate>
+<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Wed, 30 Sep 2026 06:42:21 +0000</lastBuildDate>
+<item><title>画面割れMacや余ったPCが24時間働くAIエージェントに！ゼロ円からの「Hermes Agent」構築術</title><link>https://pc.watch.impress.co.jp/docs/topic/feature/2144262.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/topic/feature/2144262.html</guid><pubDate>Tue, 29 Sep 2026 21:08:00 +0000</pubDate><description><![CDATA[<p>画面割れMacや余ったPCが24時間働くAIエージェントに！ゼロ円からの「Hermes Agent」構築術
+
+2026年に入り、AI界隈で存在感を高めているのが、Nous Researchが手掛ける自律エージェント「Hermes Agent」だ。
+
+画面割れMacや余ったPCが24時間働くAIエージェントに！ゼロ円からの「Hermes Agent」構築術
+
+2026年に入り、AI界隈で存在感を高めているのが、Nous Researchが手掛ける自律エージェント「Hermes Agent」だ。
+
+本稿では、余剰PCや画面割れのMacを母艦にして導入し、無料/低コストのモデルを追加したうえで、人格設定とDiscord連携までを実践する。なお、サービスの料金や対応モデル、画面表示は更新される可能性があるため、記事中の内容は執筆時点のものとして読んでほしい。
+
+「Hermes Agent」って最近よく聞くけど、実際どうやって動かすの？
+
+エージェントに魂を吹き込む: 自分だけの相棒に仕立てる人格定義
+
+1.「Hermes Agent」って最近よく聞くけど、実際どうやって動かすの？
+
+SNSや技術系メディアで見かけて、「単なるチャットボットと違って自分でコマンドを叩いてタスクをこなすらしい」、「自分好みのAIに育てられるらしい」と気になり、「一度自分でも動かしてみたい！」と思っている読者も多いのではないだろうか。
+
+従来のチャットボット型サービスは、基本的に質問に対して文章で答える「会話ツール」だ。一方のHermes Agentは、ユーザーの指示を受けてシェルやブラウザなどのツールを使い、手元の環境で作業を進められるセルフホスト型AIエージェントである。
+
+ローカル環境で直接コマンドを実行: 手元のファイルを整理したり、シェルコマンドを実行したり、Webブラウザを自動操作して情報を集…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2144/262/1.jpg" alt="画面割れMacや余ったPCが24時間働くAIエージェントに！ゼロ円からの「Hermes Agent」構築術"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/topic/feature/2144262.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2144/262/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2144/262/1.jpg"/></item>
+<item><title>【大原雄介の半導体業界こぼれ話】錬金術並みに難しい「FPGA」を、AIで民主化させるLatticeの野望</title><link>https://pc.watch.impress.co.jp/docs/column/tidbit/2144244.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/column/tidbit/2144244.html</guid><pubDate>Tue, 29 Sep 2026 21:06:00 +0000</pubDate><description><![CDATA[<p>【大原雄介の半導体業界こぼれ話】錬金術並みに難しい「FPGA」を、AIで民主化させるLatticeの野望
+
+今月も雑談を3つほど。
+
+錬金術並みに難しい「FPGA」を、AIで民主化させるLatticeの野望
+
+Latticeは9月16日、 新FPGA と併せて、 Lattice Promptを発表した 。
+
+Lattice Promptとは何か？というと、要するにFPGAの設計をAIコーディングするためのツールである。
+
+具体的にいえば、既存のAIというか、LLMベースのIDE(Claude CodeだったりCursorだったり)に、LatticeのFPGA向けの設計に必要になるスキルセット+MCPを提供することで、これらのIDE上で直接Lattice用のVHDLを生成できるのだ(図1)。このVHDLはLatticeの開発ツールであるLattice Radiantに直接喰わせることが可能で、そのままBitstream生成まで行ける、というものである。
+
+実際の事例では、たとえばCUDAで記述されたコードをそのまま読み込ませ、そこからPython→ブロックレベルのRTLを生成する(図2)とか、既に存在するコードのタイミング最適化を行なう(図3)といったことも可能だという。
+
+LLMベースのIDEそのものはユーザーが契約を行なう必要がある(おそらく無償枠で使える範囲では大したことはできないだろう)が、Promptで提供されるMCPとスキルセットは無料である。要するに、必ずしもHDLに習熟していないユーザーであっても、FPGAのプログラミングが可能になる、という道が公式ツールとして開かれたわけだ。
+
+「FPGAに慣れていないプログラマーにFPGAのプログラミングをしてもらう」というのは昔からFPGA業界の悲願だ。普通のプログラマは山ほどいるが、HDLが書けるプログラマーは非常に少…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2144/244/Photo01.jpg" alt="【大原雄介の半導体業界こぼれ話】錬金術並みに難しい「FPGA」を、AIで民主化させるLatticeの野望"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/column/tidbit/2144244.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2144/244/Photo01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2144/244/Photo01.jpg"/></item>
+<item><title>Apple Creator Studio更新、iPad版Pixelmator Proに「選択とマスク」</title><link>https://gori.me/apps/ipad-app-news/170803</link><guid isPermaLink="true">https://gori.me/apps/ipad-app-news/170803</guid><pubDate>Tue, 29 Sep 2026 21:05:52 +0000</pubDate><description><![CDATA[<p>Apple Creator Studio更新、iPad版Pixelmator Proに「選択とマスク」
+
+Appleが「Final Cut Camera 2.4」を無料で公開した。iPhone 18 Proの可変絞りに対応し、シャッター優先と絞り優先の2モードも選べる。ProResやApple Logの映像でも、あとからボケを調整可能だ。iOS 27ではビデオスコープやクリーンSDI出力も加わる。
+
+Apple Creator Studio更新、iPad版Pixelmator Proに「選択とマスク」
+
+iPhone 18 Proの動画は、Final Cut Proで撮影後に焦点とボケを調整できる
+
+Final Cut Camera 2.4がiPhone 18 Proの可変絞りに対応し、絞りを数値で細かく設定できる
+
+アップデートは無料で、2026年9月29日から配信されている
+
+iOS 27ではクリーンSDI出力やゲンロックオフセットも加わり、配信・収録の現場に向く
+
+Appleは2026年9月29日、 Apple Creator Studio の アップデート を発表した。 iPad 版Pixelmator Proに 「選択とマスク」 が加わった。Mac版のFinal Cut ProとMotionでは、 iPhone 18 Pro で撮ったビデオに シネマティックモードのエフェクト をかけられるようになった。Keynote、Pages、Numbers、フリーボードにも、新しいテンプレートと機能が入っている。
+
+Apple Creator Studioは、2026年1月29日の提供開始から数えて、これが大きな アップデート の3回目になる。1回目は提供開始と同時に来た各アプリの更新、2回目は6月30日の大型 アップデート だった。料金は変わらず月額1,780円または年額1…</p><p><img src="https://gori.me/uploads/2026/01/Apple-Creator-Studio-Prerelease-Review-08-800x534.jpg" alt="Apple Creator Studio更新、iPad版Pixelmator Proに「選択とマスク」"></p>]]></description><source url="https://gori.me/apps/ipad-app-news/170803">gori.me</source><media:content url="https://gori.me/uploads/2026/01/Apple-Creator-Studio-Prerelease-Review-08-800x534.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/01/Apple-Creator-Studio-Prerelease-Review-08-800x534.jpg"/></item>
+<item><title>Final Cut Camera 2.4登場、iPhone 18 Proの可変絞りを動画で操作可能に</title><link>https://gori.me/apps/iphone-app-news/170802</link><guid isPermaLink="true">https://gori.me/apps/iphone-app-news/170802</guid><pubDate>Tue, 29 Sep 2026 20:54:46 +0000</pubDate><description><![CDATA[<p>Final Cut Camera 2.4登場、iPhone 18 Proの可変絞りを動画で操作可能に
+
+Appleが「Final Cut Camera 2.4」を無料で公開した。iPhone 18 Proの可変絞りに対応し、シャッター優先と絞り優先の2モードも選べる。ProResやApple Logの映像でも、あとからボケを調整可能だ。iOS 27ではビデオスコープやクリーンSDI出力も加わる。
+
+Final Cut Camera 2.4登場、iPhone 18 Proの可変絞りを動画で操作可能に
+
+シャッター優先・絞り優先モードに対応。iOS 27ではビデオスコープやSDI出力も
+
+Final Cut Camera 2.4がiPhone 18 Proの可変絞りに対応し、絞りを数値で細かく設定できる
+
+アップデートは無料で、2026年9月29日から配信されている
+
+iOS 27ではクリーンSDI出力やゲンロックオフセットも加わり、配信・収録の現場に向く
+
+Appleは、iPhone向けの撮影アプリ「Final Cut Camera」のバージョン2.4を公開した。見た目を一新したほか、 iPhone 18 Pro の 可変絞り に対応し、 iOS 27 に合わせてプロ向けの機能も追加している。
+
+Apple Newsroom によると、 アップデート は 無料 で、2026年9月29日から配信されている。今回の目玉は、 iPhone 18 Pro のカメラの新しい仕組みを、動画撮影で細かく操作できるようになった点だ。
+
+絞りとは、レンズに入る光の量を調整する仕組みのことだ。大きく開けば暗い場所でも明るく撮れ、背景もボケやすくなる。反対に絞ると、手前から奥までピントが合いやすくなる。
+
+Appleによると、 iPhone 18 Pro の「Fusionメインカメラ」は、iPho…</p><p><img src="https://gori.me/uploads/2026/09/Apple-Final-Cut-Camera-hero-800x450.jpg" alt="Final Cut Camera 2.4登場、iPhone 18 Proの可変絞りを動画で操作可能に"></p>]]></description><source url="https://gori.me/apps/iphone-app-news/170802">gori.me</source><media:content url="https://gori.me/uploads/2026/09/Apple-Final-Cut-Camera-hero-800x450.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/09/Apple-Final-Cut-Camera-hero-800x450.jpg"/></item>
+<item><title>Apple Watch Series 12、Ultra 4「緑の光」問題と新シアターモード設定</title><link>https://iphone-mania.jp/iwatch-606802/</link><guid isPermaLink="true">https://iphone-mania.jp/iwatch-606802/</guid><pubDate>Tue, 29 Sep 2026 19:23:16 +0000</pubDate><description><![CDATA[<p>Apple Watch Series 12、Ultra 4「緑の光」問題と新シアターモード設定
+
+スマートウォッチのヘルスケア機能が向上する一方で、暗所での「意図しない光漏れ」に注意が必要です。
+
+Apple Watch Series 12、Ultra 4「緑の光」問題と新シアターモード設定
+
+スマートウォッチのヘルスケア機能が向上する一方で、暗所での「 意図しない光漏れ 」に注意が必要です。
+
+海外メディアの報道によると、 Apple Watch Series 12およびApple Watch Ultra 4 では、心拍数計測の精度向上によって裏面センサーがほぼ 常時点滅 する仕様へ変更されました。
+
+そこで新たに追加された「 シアターモード時の連続計測設定 」について、技術的背景と日本特有の利用マナーを踏まえた活用術を解説します。
+
+Apple Watch Series 12やUltra 4を装着していて、「手首の隙間から緑色の光が以前より頻繁に見える」と違和感を覚えた方も多いのではないでしょうか。この光漏れの背景には、心拍センサーの精度向上と、それに伴う計測プロセスの変化があります。
+
+従来のApple Watchは安静時に約5分間隔で心拍計測を行っていましたが、Series 12やUltra 4では 5秒に1回 （実質的な連続計測）へ刷新されました。1分あたりの計測回数は12回となり、従来の60倍ものデータ密度を実現しています。
+
+Apple Watchは緑色のLEDを皮膚に照射し、手首の毛細血管を流れる血液（赤血球）の光吸収率の変化から心拍数を割り出しています。計測頻度が5秒間隔になったことで 緑色LEDが常に明滅を繰り返す状態 となり、バンドの隙間から光が漏れやすくなりました。
+
+周囲への光漏れとバッテリー消費を防ぐため、標準状態では特定モード時に自動で「 5分…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/30/Apple-Watch-Series-12-2up-260909.jpg" alt="Apple Watch Series 12、Ultra 4「緑の光」問題と新シアターモード設定"></p>]]></description><source url="https://iphone-mania.jp/iwatch-606802/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/30/Apple-Watch-Series-12-2up-260909.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/30/Apple-Watch-Series-12-2up-260909.jpg"/></item>
+<item><title>Windows11 26H2の既知の不具合</title><link>https://www.nichepcgamer.com/archives/post-132655.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/post-132655.html</guid><pubDate>Tue, 29 Sep 2026 18:40:30 +0000</pubDate><description><![CDATA[<p>Windows11 26H2の既知の不具合
+
+日本時間で2026年9月30日に公開されたWindows11 26H2 (Windows11 2026 Update)には、以下の既知の不具合がアナウンスされています。 更新履歴 ［記事初公開日: ...
+
+日本時間で2026年9月30日に公開されたWindows11 26H2 (Windows11 2026 Update)には、以下の既知の不具合がアナウンスされています。
+
+日本時間で2026年8月28日以降にリリースされた更新プログラムをインストールしていると、一部の仮想デスクトップ環境において、Windowsにサインインすると画面が真っ黒になる場合があります。
+
+この不具合は主にAzure Virtual Desktop (AVD)ホストでFSLogixを使用している場合に発生するとされています。(ユーザーからはOmnissa HorizonやCitrix Profile Management (Citrix UPM)利用環境でも発生が報告されています)
+
+一時的な対処方法・回避策として、サインイン後、タスクマネージャーを開いて『新しいタスクを実行する』からExplorer.exeを手動で起動すると、デスクトップが表示されます。
+
+または、本不具合を修正するグループポリシーをインストールすることでも本不具合の発生を防げます。
+
+Windows11 26H2 / 25H2 / 24H2 KB5124010 260924_20021 Known Issue Rollback
+
+このグループポリシーは『コンピューターの構成』 → 『管理用テンプレート』に新たに作成されます。グループポリシーの設定を『無効』にして『OK』を押してPCを再起動すれば、本不具合が修正されます。(ややこしいですが、『無効』にすることで更新プログラムの問題…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2026/09/windows11-batsubatu-issue-top.jpg" alt="Windows11 26H2の既知の不具合"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-132655.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2026/09/windows11-batsubatu-issue-top.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2026/09/windows11-batsubatu-issue-top.jpg"/></item>
+<item><title>Microsoft、Windows11 26H2 / 2026 Updateを提供開始。正式リリース</title><link>https://www.nichepcgamer.com/archives/post-131886.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/post-131886.html</guid><pubDate>Tue, 29 Sep 2026 17:42:53 +0000</pubDate><description><![CDATA[<p>Microsoft、Windows11 26H2 / 2026 Updateを提供開始。正式リリース
+
+Microsoftは、2026年のWindows11大型アップデートである、Windows11 バージョン26H2 / Windows11 2026 Updateの提供を開始しました。 Window...
+
+Microsoftは、2026年のWindows11大型アップデートである、 Windows11 バージョン26H2 / Windows11 2026 Updateの提供を開始しました。
+
+Windows11 26H2 / Windows11 2026 Updateのロールアウト開始・アップデート方法
+
+Windows11 2026 UpdateことWindows11 26H2は、Microsoftによると、まずは『Windows Update』の『利用可能になったらすぐに最新の更新プログラムを入手する』のトグルをオンにしているWindows11 25H2 / 24H2ユーザー向けに段階的ロールアウトを開始したとのこと。
+
+対象者にはWindows UpdateにWindows11 26H2が降ってきます。なお、トグルをオンにしていても必ずすぐにWindows11 26H2が降ってくるわけではありません。段階的なロールアウトが行われているため、いつ降ってくるかは環境により異なります。また、互換性に問題がある場合やセーフガードホールドが適用されている場合は、問題が解決されるまで降ってきません。
+
+今回の大型アップデートはイネーブルメントパッケージ形式が採用されています。イネーブルメントパッケージとは、事前にダウンロードしておいた無効化された大型アップデート(26H2)を有効化するだけの更新プログラムのため、25H2 or 24H2 → 26H2へとアップデートする場合は…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2026/08/windows11-26h2-b.jpg" alt="Microsoft、Windows11 26H2 / 2026 Updateを提供開始。正式リリース"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-131886.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2026/08/windows11-26h2-b.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2026/08/windows11-26h2-b.jpg"/></item>
+<item><title>Intel、光るCPUの特許。MicroLEDをCPUに組み込む</title><link>https://www.nichepcgamer.com/archives/post-132640.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/post-132640.html</guid><pubDate>Tue, 29 Sep 2026 17:33:51 +0000</pubDate><description><![CDATA[<p>Intel、光るCPUの特許。MicroLEDをCPUに組み込む
+
+IntelがMicroLEDをCPUに組み込む特許を公開しました。海外メディアのTom’s Hardwareが報じました。 IntelがMicroLEDをCPUパッケージに直接組み込む特許を公開した...
+
+IntelがMicroLEDをCPUに組み込む特許を公開しました。 海外メディアのTom’s Hardwareが報じました。
+
+IntelがMicroLEDをCPUパッケージに直接組み込む特許を公開した。この特許は2022年に出願されたものだが2026年9月に公開された。
+
+IntelはCPUにMicroLEDを組み込むことでどのように活用されるかいくつか例を挙げている。その中でプロセッサーが「特定の機能が実行されていることを示すため、 あるいは単に美的効果を得るため 」と述べている。
+
+また、「CPU上の文字を光らせる」ために使用されるとも説明しており、CPU上で直接確認できる何らかの表示機能を示唆している。しかしそれをどのようにして実現するのかは不明だ。
+
+さらにLEDの色を変えることができることも明示されている。これはRGBメモリに近いものを意味する可能性がある。
+
+なお、「特許」は「製品」ではないことを留意しておいてほしい。
+
+実際にMicroLEDが組み込まれたIntel CPU製品が登場するかどうかは定かではありません。もし登場するなら、はたして「光るCPU」にどれほどの需要があるでしょうか。
+
+(そして最大の謎は、CPUクーラーを設置後にどうやってCPUが光っているのを確認できるのでしょうか……)
+
+筆者は自作PC歴20年以上の経験を持ち、Windows OSの細部にわたるカスタマイズや高度な設定、PCゲームの最適化、PCハードウェアとソフトウェアに関する専門知識をもとに、PC環境を快適に…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2026/09/intel-top-aa-light.jpg" alt="Intel、光るCPUの特許。MicroLEDをCPUに組み込む"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-132640.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2026/09/intel-top-aa-light.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2026/09/intel-top-aa-light.jpg"/></item>
+<item><title>“Panther Lake”のダイを解析した話</title><link>https://northwood.blog.fc2.com/blog-entry-13214.html</link><guid isPermaLink="true">https://northwood.blog.fc2.com/blog-entry-13214.html</guid><pubDate>Tue, 29 Sep 2026 15:17:01 +0000</pubDate><description><![CDATA[<p>“Panther Lake”のダイを解析した話
+
+北森瓦版 - Northwood Blog (Author : 北森八雲. Since July 10, 2006.)
+
+北森瓦版 - “Panther Lake”のダイを解析した話 ブログ内検索
+
+○CPU アーク (ark) Tsukumo (Intel) Tsukumo (AMD) ソフマップ ○マザーボード アーク (ark) Tsukumo (Intel) Tsukumo (AMD) ソフマップ ○グラフィックカード アーク (ark) Tsukumo (NVIDIA) Tsukumo (AMD) ソフマップ ○メモリ アーク (ark) Tsukumo ソフマップ ○SSD アーク (ark) Tsukumo ソフマップ ○Amazon売れ筋ランキング CPU メモリ グラフィックカード マザーボード SSD 電源
+
+“Panther Lake”のダイを解析した話 (2026/09/30)
+
+“Raptor Lake Next”の8 P-core + 8 E-coreモデルはCore i5 14600Kの後継 (2026/09/21)
+
+12 Xe graphics coreを搭載する“Nova Lake-S”はキャンセルされたらしい (2026/09/15)
+
+| 北森瓦版 | Template by おすすめ無料ブログ(blog)比較
+
+“Panther Lake”のダイを解析した話 (09/30)
+
+MSIからSocketAM4対応B550マザーが3種類登場 (09/29)
+
+Micronが2GB GDDR7の生産を終了へ (09/23)
+
+次世代Radeon GPUのGDDR7対応がLinux向けドライバに追加される (09/23)
+
+GeForce RTX 60 seriesはやはり2028年となるらし…</p>]]></description><source url="https://northwood.blog.fc2.com/blog-entry-13214.html">北森瓦版</source></item>
+<item><title>AMD Software: Adrenalin Edition 26.9.2 Optionalドライバ公開。『Minecraft Dungeons II』『ウィッチャー3リマスター』『Gears of War: E-Day』『CONTROL Resonant』などをサポート</title><link>https://www.nichepcgamer.com/archives/post-132638.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/post-132638.html</guid><pubDate>Tue, 29 Sep 2026 15:06:50 +0000</pubDate><description><![CDATA[<p>AMD Software: Adrenalin Edition 26.9.2 Optionalドライバ公開。『Minecraft Dungeons II』『ウィッチャー3リマスター』『Gears of War: E-Day』『CONTROL Resonant』などをサポート
+
+『Minecraft Dungeons II』『ウィッチャー3 ワイルドハント リマスター』『Call of Duty: Modern Warfare 4 キャンペーン早期アクセス』『Gears o...
+
+『Minecraft Dungeons II』『ウィッチャー3 ワイルドハント リマスター』『Call of Duty: Modern Warfare 4 キャンペーン早期アクセス』『Gears of War: E-Day』『CONTROL Resonant』『Valor Mortis』をサポートしたAMD Software: Adrenalin Edition 26.9.2 Optionalドライバ(旧名: Radeon Software)が公開されました。
+
+AMD Software: Adrenalin Edition 26.9.2 Optionalドライバには、以下のゲームタイトルのサポートの追加が含まれています。
+
+Call of Duty: Modern Warfare 4 キャンペーン早期アクセス
+
+ウィッチャー3 ワイルドハント リマスター (The Witcher 3: Wild Hunt - Remastered)
+
+AMD Software: Adrenalin Edition 26.9.2 Optionalドライバ対応製品
+
+AMD Software: Adrenalin Edition 26.9.2 Optionalドライバは、以下の製品をサポートします。
+
+Radeon…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2025/12/radeon-amd-software-adrenalin-edition-1200.jpg" alt="AMD Software: Adrenalin Edition 26.9.2 Optionalドライバ公開。『Minecraft Dungeons II』『ウィッチャー3リマスター』『Gears of War: E-Day』『CONTROL Resonant』などをサポート"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-132638.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2025/12/radeon-amd-software-adrenalin-edition-1200.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2025/12/radeon-amd-software-adrenalin-edition-1200.jpg"/></item>
+<item><title>Googlebookのアプデ、Google主導で実施されることが判明。Android黎明期の轍は踏まない新機軸に期待</title><link>https://smhn.info/202609-googlebook-os-google-updates-ui-policy</link><guid isPermaLink="true">https://smhn.info/202609-googlebook-os-google-updates-ui-policy</guid><pubDate>Tue, 29 Sep 2026 11:07:37 +0000</pubDate><description><![CDATA[<p>Googlebookのアプデ、Google主導で実施されることが判明。Android黎明期の轍は踏まない新機軸に期待
+
+未来へ行くならAndroidを待て。そんなキャッチコピーに踊らされてAndroidスマホを買ってみたら、メーカー独自のUIの癖に悩まされたり、メーカー経由で届くOSアップデートの遅れや打ち切りに振り回されてきた、そんな人も少なくないはず。鳴り物入りで登場した、Googleの新たな...
+
+Googlebookのアプデ、Google主導で実施されることが判明。Android黎明期の轍は踏まない新機軸に期待
+
+未来へ行くならAndroidを待て。そんなキャッチコピーに踊らされてAndroidスマホを買ってみたら、メーカー独自のUIの癖に悩まされたり、メーカー経由で届くOSアップデートの遅れや打ち切りに振り回されてきた、そんな人も少なくないはず。
+
+鳴り物入りで登場した、Googleの新たなノートPC「Googlebook」では、そんな心配があるのか？気になる人も多いと思いますが、この点が明らかとなりました。
+
+Googlebook OSのアップデートはPCメーカーではなくGoogleが直接配信し、メーカーによる大幅なUI改変も認められないと、9to5Googleが伝えています。ハードを選ぶたびにOSの使い勝手や更新の提供元まで変わることを防ぐ方針とのこと。
+
+Googlebookは、Androidの技術基盤とChromeOSのデスクトップ基盤を組み合わせた新しいノートPC。主要な機能アップデートはAndroidの四半期更新「QPR」に合わせて提供され、その合間にもセキュリティ更新が随時配信される方針です。
+
+そしてメーカー独自の改変にも制限が設けられます。メーカーはプリインストールするアプリを指定できるものの、ステータスバーのアイコンの見た目を変えるような大幅…</p><p><img src="https://smhn.info/wp-content/uploads/2026/09/googlebook-lineup.webp" alt="Googlebookのアプデ、Google主導で実施されることが判明。Android黎明期の轍は踏まない新機軸に期待"></p>]]></description><source url="https://smhn.info/202609-googlebook-os-google-updates-ui-policy">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/09/googlebook-lineup.webp" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/09/googlebook-lineup.webp"/></item>
+<item><title>13型4KにSnapdragon 8 Elite！「Yoga Tab Plus Gen 2」国内発売へ</title><link>https://smhn.info/202609-lenovo-yoga-tab-plus-gen-2-japan-launch</link><guid isPermaLink="true">https://smhn.info/202609-lenovo-yoga-tab-plus-gen-2-japan-launch</guid><pubDate>Tue, 29 Sep 2026 10:55:26 +0000</pubDate><description><![CDATA[<p>13型4KにSnapdragon 8 Elite！「Yoga Tab Plus Gen 2」国内発売へ
+
+Lenovoの上位Androidタブレット「Yoga Tab Plus Gen 2」が登場します。発売日は2026年10月2日。価格は税込13万2000円。先にお伝えした11.1型のYoga Tab Gen 2に対し、Plusは画面を13型に拡大し、SoCにSnapdragon ...
+
+13型4KにSnapdragon 8 Elite！「Yoga Tab Plus Gen 2」国内発売へ
+
+Lenovoの上位Androidタブレット「Yoga Tab Plus Gen 2」が登場します。発売日は2026年10月2日。価格は税込13万2000円。
+
+先にお伝えした11.1型のYoga Tab Gen 2 に対し、Plusは画面を13型に拡大し、SoCにSnapdragon 8 Eliteを搭載する上位モデル。
+
+画面は3840×2560ドットのIPS液晶で、縦横比は3:2。最大144Hzのリフレッシュレート（1秒間に画面を書き換える回数）に対応し、輝度は通常700ニト、ピーク1100ニトです。DCI-P3（映像制作などで使われる色域規格）を100%カバーし、Dolby Visionにも対応します。
+
+実行メモリはLPDDR5Xの12GB、ストレージは256GB。最大2TBのmicroSDカードにも対応し、写真や動画の保存容量を追加できます。公式仕様資料ではストレージ規格をUFS 4.0としています。
+
+国内モデルには「Lenovo Tab Pen Pro 2」が付属。8192段階の筆圧検知や傾き検知、触覚フィードバック（振動で操作の手応えを伝える機能）に対応します。Lenovoは、ペンを握って選択、ひっくり返して消去するといった操作も紹介しています。
+
+バッテリーは12…</p><p><img src="https://smhn.info/wp-content/uploads/2026/09/lenovo-yoga-tab-plus-gen-2-cosmic-blue.webp" alt="13型4KにSnapdragon 8 Elite！「Yoga Tab Plus Gen 2」国内発売へ"></p>]]></description><source url="https://smhn.info/202609-lenovo-yoga-tab-plus-gen-2-japan-launch">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/09/lenovo-yoga-tab-plus-gen-2-cosmic-blue.webp" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/09/lenovo-yoga-tab-plus-gen-2-cosmic-blue.webp"/></item>
+<item><title>Mac Pro（2019）の中古が25万円以下でセール販売中</title><link>https://iphone-mania.jp/sale-606771/</link><guid isPermaLink="true">https://iphone-mania.jp/sale-606771/</guid><pubDate>Tue, 29 Sep 2026 10:12:13 +0000</pubDate><description><![CDATA[<p>Mac Pro（2019）の中古が25万円以下でセール販売中
+
+独特のケースデザインで根強い人気のMac Proの2019年モデルが、秋葉館でセール販売中です。
+
+Mac Pro（2019）の中古が25万円以下でセール販売中
+
+独特のケースデザインで根強い人気の Mac Proの2019年モデル が、秋葉館でセール販売中です。
+
+Mac Pro（2019） は macOS Tahoeまでしか対応しません が、このケースを利用して中身を入れ替えるなどの活用も考えられます。
+
+秋葉館がセール販売している Mac Pro（2019） は、次の通りです。
+
+セール販売中のMac Pro（2019）は3台で、 構成は同じ です。また、 販売価格と商品ランクも同じ ですが、 傷の程度など細部が異なります 。
+
+秋葉館が販売中のMac Pro（2019）に関する質問は、同店にお問い合わせください。
+
+--PR-- [公式] - iPhoneの購入や予約はオンラインで確実に！
+
+iPhoneなどApple製品の疑問は iMコミュニティ で聞けます。詳しい読者が答えてくれます。</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/29/mac-pro-2nd-hand-akibakan.jpg" alt="Mac Pro（2019）の中古が25万円以下でセール販売中"></p>]]></description><source url="https://iphone-mania.jp/sale-606771/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/29/mac-pro-2nd-hand-akibakan.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/29/mac-pro-2nd-hand-akibakan.jpg"/></item>
+<item><title>防水で冷却ファン？HONOR Magic9 超能版発表、電池容量はバグレベルの1万1000mAhに</title><link>https://smhn.info/202609-honor-magic9-super-power-launch</link><guid isPermaLink="true">https://smhn.info/202609-honor-magic9-super-power-launch</guid><pubDate>Tue, 29 Sep 2026 10:06:25 +0000</pubDate><description><![CDATA[<p>防水で冷却ファン？HONOR Magic9 超能版発表、電池容量はバグレベルの1万1000mAhに
+
+HONORは9月28日、中国で6.81型スマートフォン「HONOR Magic9 超能版」を発表しました。中国の通常価格は、実行メモリ12GB・ストレージ256GB構成で4499元（約10万5300円）からとなっています。HONOR Magic9シリーズの無印とPro MaxはA...
+
+防水で冷却ファン？HONOR Magic9 超能版発表、電池容量はバグレベルの1万1000mAhに
+
+HONORは9月28日、中国で6.81型スマートフォン「HONOR Magic9 超能版」を発表しました。中国の通常価格は、実行メモリ12GB・ストレージ256GB構成で4499元（約10万5300円）からとなっています。
+
+HONOR Magic9シリーズの無印とPro MaxはARRI共同開発を前面に推していますが、本機はカメラ刻印からARRIロゴが外れています。代わりに11000mAhの大容量電池と冷却ファンを内蔵して持続性特化を狙う、とんでもないモデルとなっています。
+
+冷却機構は、最大毎分30000回転のファン「東風ターボ」に、熱を拡散するベイパーチャンバーを組み合わせたもの。本体上部から取り込んだ空気を熱源に接する風路へ流す構造で、HONORによると、ファンを切った状態との比較で本体の放熱効率が30%向上するとのこと。
+
+ファン内蔵でありながら、防塵・防水はIP68・IP69・IP69Kに対応。長時間のゲームを意識した能動冷却に、日常使いで気になる水やほこりへの保護も。なお防水性能は永久ではなく、液体の侵入による故障は保証対象外と案内されています。
+
+充電は最大80Wの有線、最大50Wの無線に対応。対応機器へ給電する最大27Wの有線逆充電と、無線逆充電も利用できます。最大速度の…</p><p><img src="https://smhn.info/wp-content/uploads/2026/09/honor-magic9-super-power-e1790598743260.webp" alt="防水で冷却ファン？HONOR Magic9 超能版発表、電池容量はバグレベルの1万1000mAhに"></p>]]></description><source url="https://smhn.info/202609-honor-magic9-super-power-launch">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/09/honor-magic9-super-power-e1790598743260.webp" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/09/honor-magic9-super-power-e1790598743260.webp"/></item>
+<item><title>povo、データ専用の新規登録で初回0.5GB「5円トッピング」登場！5周年ガチャも</title><link>https://smhn.info/202609-povo-fifth-anniversary-five-yen-gacha</link><guid isPermaLink="true">https://smhn.info/202609-povo-fifth-anniversary-five-yen-gacha</guid><pubDate>Tue, 29 Sep 2026 09:32:32 +0000</pubDate><description><![CDATA[<p>povo、データ専用の新規登録で初回0.5GB「5円トッピング」登場！5周年ガチャも
+
+基本料0円、必要なぶんだけ「トッピング」を買い足す。2021年9月に登場したKDDIのオンライン専用プラン「povo2.0」は、そんな割り切った設計で、メイン回線というより「とりあえず持っておくサブ回線」の定番になりました。そのpovo2.0が、サービス開始から5周年を迎えるにあ...
+
+povo、データ専用の新規登録で初回0.5GB「5円トッピング」登場！5周年ガチャも
+
+基本料0円、必要なぶんだけ「トッピング」を買い足す。2021年9月に登場したKDDIのオンライン専用プラン「povo2.0」は、そんな割り切った設計で、メイン回線というより「とりあえず持っておくサブ回線」の定番になりました。
+
+そのpovo2.0が、サービス開始から5周年を迎えるにあたり「5円トッピング」が登場しました。
+
+5円トッピングは「0.5GB（24時間）」で、2026年10月1日0時から10月31日23時59分まで提供。期間中にpovo2.0のデータ専用プランへ新規登録したユーザーが、初回のみ購入できます。価格は税込。
+
+公称の有効期間は24時間ですが、当面は期間満了日の23時59分59秒まで利用できると案内しています。
+
+もうひとつのトッピング「povoガチャ スペシャル～5周年～」は税込555円。販売期間は9月29日10時から9月30日23時59分までで、期間中は何度でも購入可能です。5日間有効な0.1GBが購入後に即時適用され、抽選で当たったデータ特典のプロモコードは、原則として購入直後に登録メールアドレスへ届きます。
+
+抽選特典は次の4種類で、いずれかが必ず当たります。特賞は5日間のデータ使い放題を5回分。最も当たりやすい3等は5GB（5日間）で、当選確率は94％となっています。
+
+特典を利用するに…</p><p><img src="https://smhn.info/wp-content/uploads/2026/09/povo-five-yen.webp" alt="povo、データ専用の新規登録で初回0.5GB「5円トッピング」登場！5周年ガチャも"></p>]]></description><source url="https://smhn.info/202609-povo-fifth-anniversary-five-yen-gacha">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/09/povo-five-yen.webp" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/09/povo-five-yen.webp"/></item>
 <item><title>iPhone18 Proシリーズの在庫増加〜各キャリアの在庫状況【9/29】</title><link>https://iphone-mania.jp/iphone18-606769/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-606769/</guid><pubDate>Tue, 29 Sep 2026 09:25:04 +0000</pubDate><description><![CDATA[<p>iPhone18 Proシリーズの在庫増加〜各キャリアの在庫状況【9/29】
 
 iPhone18 Proシリーズの、au・NTTドコモ・ソフトバンク・楽天モバイルにおける2026年9月29日午後8時15分時点の在庫状況をお伝えします。1週間前と比較し、au、NTTドコモ、ソフトバンクにおいて、「在庫あり」が増加しています。
@@ -1433,21 +1706,6 @@ Amazonタイムセールにて、ロジクールGのゲーミングキーボー�
 アイネックスのデスク用有孔ボード「PEG-SET01」が発売された。
 
 Copyright © 2018 Impress Corporation. All rights reserved.</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/848/s1.jpg" alt="【過去の人気記事】机に取り付けて収納を増やせるスチール製の有孔ボードがアイネックスから"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/topic/popular/2140848.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/848/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2140/848/s1.jpg"/></item>
-<item><title>�Υ��󥿥ӥ塼�ϡ֥ե饬�ꥢ�����꡼���ס��Ĥ��ˡ֥����ȥ��ƥ��ԡפ����롪���Ḷ�ٿͤ��󤬸��롤�ϥ����åȤ��ɤ�ư�����ȥϥ����åȡ������ɥ���¸��</title><link>https://www.4gamer.net/games/745/G074550/20260803013/</link><guid isPermaLink="true">https://www.4gamer.net/games/745/G074550/20260803013/</guid><pubDate>Mon, 28 Sep 2026 08:00:00 +0000</pubDate><description><![CDATA[<p>�Υ��󥿥ӥ塼�ϡ֥ե饬�ꥢ�����꡼���ס��Ĥ��ˡ֥����ȥ��ƥ��ԡפ����롪���Ḷ�ٿͤ��󤬸��롤�ϥ����åȤ��ɤ�ư�����ȥϥ����åȡ������ɥ���¸��
-
-サンリオが贈る騎士道ファンタジープロジェクト「フラガリアメモリーズ」のメインストーリー「ロストキティ編」が完結した。ハルリット／ハルリット・シャドウ役の梶原岳人さんに，1人2役の役作りや収録秘話，物…
-
-［インタビュー］「フラガリアメモリーズ」，ついに「ロストキティ編」が完結！ 梶原岳人さんが語る，ハルリットの揺れ動く心とハルリット・シャドウの存在 ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
-
-↓アイコン/タイトル↓ 東京ゲームショウに来たら“読みもの”を集めよう！ 雑誌にカタログ，新聞風。会場で見つけた＆もらった小冊子を紹介［TGS2026］ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 10年前の4Game…</p><p><img src="https://www.4gamer.net/games/745/G074550/20260803013/SS/006.jpg" alt="�Υ��󥿥ӥ塼�ϡ֥ե饬�ꥢ�����꡼���ס��Ĥ��ˡ֥����ȥ��ƥ��ԡפ����롪���Ḷ�ٿͤ��󤬸��롤�ϥ����åȤ��ɤ�ư�����ȥϥ����åȡ������ɥ���¸��"></p>]]></description><source url="https://www.4gamer.net/games/745/G074550/20260803013/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/745/G074550/20260803013/SS/006.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/745/G074550/20260803013/SS/006.jpg"/></item>
 <item><title>����PC�᡼�����λ��������������ʤι�ƭ�ϡ�ONEXPLAYER�η��ӷ�������PC�˱ƶ���Ϳ�����Τ��� ��������CEO��ľ��������TGS2026��</title><link>https://www.4gamer.net/games/550/G055070/20260919046/</link><guid isPermaLink="true">https://www.4gamer.net/games/550/G055070/20260919046/</guid><pubDate>Mon, 28 Sep 2026 08:00:00 +0000</pubDate><description><![CDATA[<p>����PC�᡼�����λ��������������ʤι�ƭ�ϡ�ONEXPLAYER�η��ӷ�������PC�˱ƶ���Ϳ�����Τ��� ��������CEO��ľ��������TGS2026��
 
 ONE-NETBOOKは，天空と共同で東京ゲームショウ2026に「ONEXPLAYER」ブースを出展，2026年の製品ラインナップを披露していた。会場には，同社CEOであるJack Wang氏も訪れ…
@@ -1463,6 +1721,21 @@ ONE-NETBOOKは，天空と共同で東京ゲームショウ2026に「ONEXPLAYER�
 ↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
 
 ↓アイコン/タイトル↓ 10年…</p><p><img src="https://www.4gamer.net/games/550/G055070/20260919046/SS/002.jpg" alt="����PC�᡼�����λ��������������ʤι�ƭ�ϡ�ONEXPLAYER�η��ӷ�������PC�˱ƶ���Ϳ�����Τ��� ��������CEO��ľ��������TGS2026��"></p>]]></description><source url="https://www.4gamer.net/games/550/G055070/20260919046/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/550/G055070/20260919046/SS/002.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/550/G055070/20260919046/SS/002.jpg"/></item>
+<item><title>�Υ��󥿥ӥ塼�ϡ֥ե饬�ꥢ�����꡼���ס��Ĥ��ˡ֥����ȥ��ƥ��ԡפ����롪���Ḷ�ٿͤ��󤬸��롤�ϥ����åȤ��ɤ�ư�����ȥϥ����åȡ������ɥ���¸��</title><link>https://www.4gamer.net/games/745/G074550/20260803013/</link><guid isPermaLink="true">https://www.4gamer.net/games/745/G074550/20260803013/</guid><pubDate>Mon, 28 Sep 2026 08:00:00 +0000</pubDate><description><![CDATA[<p>�Υ��󥿥ӥ塼�ϡ֥ե饬�ꥢ�����꡼���ס��Ĥ��ˡ֥����ȥ��ƥ��ԡפ����롪���Ḷ�ٿͤ��󤬸��롤�ϥ����åȤ��ɤ�ư�����ȥϥ����åȡ������ɥ���¸��
+
+サンリオが贈る騎士道ファンタジープロジェクト「フラガリアメモリーズ」のメインストーリー「ロストキティ編」が完結した。ハルリット／ハルリット・シャドウ役の梶原岳人さんに，1人2役の役作りや収録秘話，物…
+
+［インタビュー］「フラガリアメモリーズ」，ついに「ロストキティ編」が完結！ 梶原岳人さんが語る，ハルリットの揺れ動く心とハルリット・シャドウの存在 ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
+
+↓アイコン/タイトル↓ 東京ゲームショウに来たら“読みもの”を集めよう！ 雑誌にカタログ，新聞風。会場で見つけた＆もらった小冊子を紹介［TGS2026］ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 10年前の4Game…</p><p><img src="https://www.4gamer.net/games/745/G074550/20260803013/SS/006.jpg" alt="�Υ��󥿥ӥ塼�ϡ֥ե饬�ꥢ�����꡼���ס��Ĥ��ˡ֥����ȥ��ƥ��ԡפ����롪���Ḷ�ٿͤ��󤬸��롤�ϥ����åȤ��ɤ�ư�����ȥϥ����åȡ������ɥ���¸��"></p>]]></description><source url="https://www.4gamer.net/games/745/G074550/20260803013/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/745/G074550/20260803013/SS/006.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/745/G074550/20260803013/SS/006.jpg"/></item>
 <item><title>(アキバ取材班) 珍しいスマホ特化の精密ネジセットが入荷。Android用とiPhone用で1,400円から</title><link>https://www.gdm.or.jp/crew/2026/0928/653961</link><guid isPermaLink="true">https://www.gdm.or.jp/crew/2026/0928/653961</guid><pubDate>Mon, 28 Sep 2026 07:06:27 +0000</pubDate><description><![CDATA[<p>(アキバ取材班) 珍しいスマホ特化の精密ネジセットが入荷。Android用とiPhone用で1,400円から
 
 スマートフォンに使用するネジのみで構成された精密ネジセットがShigezoneに入荷。Hong KONG MECHANICの製品で、Android用の「ADS-2」が税込1,400円、iPhone用の「iPS-12」が税込1,500円で販売されている。
@@ -7775,6 +8048,19 @@ iPhoneの設定アプリに赤いバッジ（①）が付いたまま消えな�
 タレコミをくれた読者は2TBのプランを契約中で、容量を増やす必要はまったくない状態だ。それでもバッジは表示され続けている。
 
 この通知の困ったところは、押しても引っ込まないことだ。バッジをタップすると、iCloudスト…</p><p><img src="https://gori.me/uploads/2026/09/Apple-Account-Storage-bug-800x500.jpg" alt="2TB契約者にも「iCloud容量を増やして」。iOS 27の通知バグ、押しても消えない"></p>]]></description><source url="https://gori.me/ios/ios-news/170505">gori.me</source><media:content url="https://gori.me/uploads/2026/09/Apple-Account-Storage-bug-800x500.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/09/Apple-Account-Storage-bug-800x500.jpg"/></item>
+<item><title>̾��NEOGEO�����������ޤǺƸ��������μ��յ������Ȥ��ơ����ٱ�HDMI�ʤɸ��������ε�ǽ����������NEOGEO AES+�פΥץ쥼�������ݡ��ȡ�TGS2026��</title><link>https://www.4gamer.net/games/999/G999902/20260921067/</link><guid isPermaLink="true">https://www.4gamer.net/games/999/G999902/20260921067/</guid><pubDate>Tue, 22 Sep 2026 08:00:00 +0000</pubDate><description><![CDATA[<p>̾��NEOGEO�����������ޤǺƸ��������μ��յ������Ȥ��ơ����ٱ�HDMI�ʤɸ��������ε�ǽ����������NEOGEO AES+�פΥץ쥼�������ݡ��ȡ�TGS2026��
+
+名機「NEOGEO」を現代によみがえらせる「NEOGEO AES+」が，「東京ゲームショウ2026」にプレイアブル出展された。会場では開発陣によるプレゼンも行われ，本機の特徴やNEOGEO復活へのこ…
+
+名機NEOGEOを処理落ちまで再現。過去の周辺機器も使えて，低遅延HDMIなど現代向けの機能も備える「NEOGEO AES+」のプレゼンをレポート［TGS2026］ ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
+
+↓アイコン/タイトル↓ 東京ゲームショウに来たら“読みもの”を集めよう！ 雑誌にカタログ，新聞風。会場で見つけた＆もらった小冊子を紹介［TGS2026］ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像…</p><p><img src="https://www.4gamer.net/games/999/G999902/20260921067/SS/005.jpg" alt="̾��NEOGEO�����������ޤǺƸ��������μ��յ������Ȥ��ơ����ٱ�HDMI�ʤɸ��������ε�ǽ����������NEOGEO AES+�פΥץ쥼�������ݡ��ȡ�TGS2026��"></p>]]></description><source url="https://www.4gamer.net/games/999/G999902/20260921067/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/999/G999902/20260921067/SS/005.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/999/G999902/20260921067/SS/005.jpg"/></item>
 <item><title>�ֿ������פ�ƣ������Ϻ�᤬�꤬������THE FIRST ZOMBIE�פˤϡ��ޤ��������ʤ��Ȥ��ޤ��ޤʻųݤ��ɤ��������������˳�ȯ��΢¦��ʹ������TGS2026��</title><link>https://www.4gamer.net/games/043/G104316/20260920036/</link><guid isPermaLink="true">https://www.4gamer.net/games/043/G104316/20260920036/</guid><pubDate>Tue, 22 Sep 2026 08:00:00 +0000</pubDate><description><![CDATA[<p>�ֿ������פ�ƣ������Ϻ�᤬�꤬������THE FIRST ZOMBIE�פˤϡ��ޤ��������ʤ��Ȥ��ޤ��ޤʻųݤ��ɤ��������������˳�ȯ��΢¦��ʹ������TGS2026��
 
 TGS 2026のPhoenixxブースで，「THE FIRST ZOMBIE」Phoenixxの野崎雄大氏にインタビューを実施した。藤井健太郎氏がプロデュースする本作は，ゾンビになった主人公を操作…
@@ -7790,19 +8076,6 @@ TGS 2026のPhoenixxブースで，「THE FIRST ZOMBIE」Phoenixxの野崎雄大�
 ↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
 
 …</p><p><img src="https://www.4gamer.net/games/043/G104316/20260920036/SS/002.jpg" alt="�ֿ������פ�ƣ������Ϻ�᤬�꤬������THE FIRST ZOMBIE�פˤϡ��ޤ��������ʤ��Ȥ��ޤ��ޤʻųݤ��ɤ��������������˳�ȯ��΢¦��ʹ������TGS2026��"></p>]]></description><source url="https://www.4gamer.net/games/043/G104316/20260920036/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/043/G104316/20260920036/SS/002.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/043/G104316/20260920036/SS/002.jpg"/></item>
-<item><title>̾��NEOGEO�����������ޤǺƸ��������μ��յ������Ȥ��ơ����ٱ�HDMI�ʤɸ��������ε�ǽ����������NEOGEO AES+�פΥץ쥼�������ݡ��ȡ�TGS2026��</title><link>https://www.4gamer.net/games/999/G999902/20260921067/</link><guid isPermaLink="true">https://www.4gamer.net/games/999/G999902/20260921067/</guid><pubDate>Tue, 22 Sep 2026 08:00:00 +0000</pubDate><description><![CDATA[<p>̾��NEOGEO�����������ޤǺƸ��������μ��յ������Ȥ��ơ����ٱ�HDMI�ʤɸ��������ε�ǽ����������NEOGEO AES+�פΥץ쥼�������ݡ��ȡ�TGS2026��
-
-名機「NEOGEO」を現代によみがえらせる「NEOGEO AES+」が，「東京ゲームショウ2026」にプレイアブル出展された。会場では開発陣によるプレゼンも行われ，本機の特徴やNEOGEO復活へのこ…
-
-名機NEOGEOを処理落ちまで再現。過去の周辺機器も使えて，低遅延HDMIなど現代向けの機能も備える「NEOGEO AES+」のプレゼンをレポート［TGS2026］ ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
-
-↓アイコン/タイトル↓ 東京ゲームショウに来たら“読みもの”を集めよう！ 雑誌にカタログ，新聞風。会場で見つけた＆もらった小冊子を紹介［TGS2026］ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，「RDR2」「HADES」などのゲームを交えて考える ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像…</p><p><img src="https://www.4gamer.net/games/999/G999902/20260921067/SS/005.jpg" alt="̾��NEOGEO�����������ޤǺƸ��������μ��յ������Ȥ��ơ����ٱ�HDMI�ʤɸ��������ε�ǽ����������NEOGEO AES+�פΥץ쥼�������ݡ��ȡ�TGS2026��"></p>]]></description><source url="https://www.4gamer.net/games/999/G999902/20260921067/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/999/G999902/20260921067/SS/005.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/999/G999902/20260921067/SS/005.jpg"/></item>
 <item><title>11インチiPad Pro、台数限定でかなり安い。AppleCare+込みで11万円引き</title><link>https://gori.me/sale/peripheral-sale/170504</link><guid isPermaLink="true">https://gori.me/sale/peripheral-sale/170504</guid><pubDate>Tue, 22 Sep 2026 07:59:02 +0000</pubDate><description><![CDATA[<p>11インチiPad Pro、台数限定でかなり安い。AppleCare+込みで11万円引き
 
 Amazonで11インチiPad Pro（M5）のWi-Fi + Cellularモデル2TBが値下がり。AppleCare+付きが464,599円から352,788円、盗難・紛失プラン付きが467,400円から355,589円で、どちらも24％オフだ。差額2,801円の選び方を整理した。
@@ -8234,331 +8507,4 @@ LANケーブルなんて自分で作ればいいじゃない。ジャストな�
 いくら無線LANが高速になっても、LANケーブルによる有線接続がなくなることはない。ルーターやスイッチングハブなどのネットワーク機器同士は有線接続が必要になるし、オンラインゲームやWeb会議のような用途では安定して通信できる有線接続にアドバンテージがある。
 
 そんなLANケーブルが必要になる場面で気にしておきたいのが“長さ”。ちょうどいい長さのLANケーブルで接続すれば、無駄のない、美しい配線が可能になる。ただ、市販のLANケーブルでぴったりの長さのものがあるとは限らない。見栄えにこだわりたいなら自作するのが近道だ。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2142/581/1.jpg" alt="【今すぐ読みたい！人気記事】LANケーブルなんて自分で作ればいいじゃない。ジャストな長さでケーブルを作る方法 - PC Watch"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/topic/readitnow/2142581.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2142/581/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2142/581/1.jpg"/></item>
-<item><title>iPhone18 ProでFace IDが使えない？Appleが保護フィルム取り外しを案内</title><link>https://iphone-mania.jp/iphone18-606442/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-606442/</guid><pubDate>Mon, 21 Sep 2026 18:56:00 +0000</pubDate><description><![CDATA[<p>iPhone18 ProでFace IDが使えない？Appleが保護フィルム取り外しを案内
-
-iPhone18 ProとiPhone18 Pro Maxでは、保護フィルムの種類によってFace IDが正常に動作しない可能性があります。Appleは公式サポートページを更新し、iPhone18 ProシリーズでFace
-
-iPhone18 ProでFace IDが使えない？Appleが保護フィルム取り外しを案内
-
-iPhone18 Pro と iPhone18 Pro Max では、 保護フィルム の種類によってFace IDが正常に動作しない可能性があります。Appleは公式サポートページを更新し、iPhone18 ProシリーズでFace IDが機能しない場合の対処として、 プライバシー保護用のスクリーンプロテクター を取り除くよう案内しています。
-
-Appleは「iPhoneやiPad ProでFace IDが機能しない場合」のサポートページに、 iPhone18 Proモデルの新しいTrueDepthカメラでFace IDが機能しない場合の対処法 を追加しました。ページの公開日は、米国版が2026年9月17日、日本版が9月21日と記載されています。
-
-Appleは、iPhone18 Proモデルでは TrueDepthカメラが本体上部の左隅近くにある と明記しています。
-
-さらに、新しいTrueDepthカメラでFace IDが機能しない場合の対処法として、「 プライバシー保護用のスクリーンプロテクタを取り除く 」ことを案内しています。
-
-このほか、暗い場所でメガネとマスクを併用している場合はメガネを外すかマスクの位置を調整すること、厚化粧や美容マスクを落とすこと、太陽からの極端な逆光を避けることも挙げられています。
-
-iPhone18 Proシリーズでは、 Dynam…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/21/AppleEventSep2026-iPhone18Pro.jpg" alt="iPhone18 ProでFace IDが使えない？Appleが保護フィルム取り外しを案内"></p>]]></description><source url="https://iphone-mania.jp/iphone18-606442/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/21/AppleEventSep2026-iPhone18Pro.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/21/AppleEventSep2026-iPhone18Pro.jpg"/></item>
-<item><title>iOS/iPadOS27.2ベータ2など公開〜正式版のリリース日は10月27日か</title><link>https://iphone-mania.jp/ios-606432/</link><guid isPermaLink="true">https://iphone-mania.jp/ios-606432/</guid><pubDate>Mon, 21 Sep 2026 18:25:44 +0000</pubDate><description><![CDATA[<p>iOS/iPadOS27.2ベータ2など公開〜正式版のリリース日は10月27日か
-
-Appleが日本時間2026年9月22日、iOS27.2、iPadOS27.2、watchOS27.2、macOS 27.2 Golden Gate、tvOS27.2、HomePodソフトウェアバージョン27.2、visionOS27.2などの開発者向けベータ2をリリースしました。
-
-iOS/iPadOS27.2ベータ2など公開〜正式版のリリース日は10月27日か
-
-Appleが日本時間2026年9月22日、 iOS27.2、iPadOS27.2、watchOS27.2、macOS 27.2 Golden Gate、tvOS27.2、HomePodソフトウェアバージョン27.2、visionOS27.2 などの 開発者向けベータ2をリリース しました。
-
-昨年のiOS26.1のベータ版から正式版までのリリーススケジュールを参考にすると、 iOS27.2正式版は2026年10月27日前後に公開される可能性 があります。
-
-Appleはあわせて、macOS Tahoe 26.7.1およびmacOS Sequoia 15.8.1のリリースキャンディデート（RC）も公開しています。
-
-今回公開された各開発者向けベータ2のビルド番号は次の通りです。
-
-watchOS27.2 開発者向けベータ2：24S5091f
-
-HomePodソフトウェアバージョン27.2 開発者向けベータ2：24K5093g
-
-macOS 27.2 Golden Gate 開発者向けベータ2：26B5091g
-
-visionOS27.2 開発者向けベータ2：24N5093f
-
-iOS27.1は、10月23日発売予定のiPhone Duoにプリインストール されて出荷される見通しです。
-
-そのため、iOS27.1正式版についても、i…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/22/ios272b2-bp2.png" alt="iOS/iPadOS27.2ベータ2など公開〜正式版のリリース日は10月27日か"></p>]]></description><source url="https://iphone-mania.jp/ios-606432/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/22/ios272b2-bp2.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/22/ios272b2-bp2.png"/></item>
-<item><title>Apple スマートホームハブの開発進む〜新型iPad miniと10月登場か</title><link>https://iphone-mania.jp/homepod-606429/</link><guid isPermaLink="true">https://iphone-mania.jp/homepod-606429/</guid><pubDate>Mon, 21 Sep 2026 17:15:00 +0000</pubDate><description><![CDATA[<p>Apple スマートホームハブの開発進む〜新型iPad miniと10月登場か
-
-Appleが開発中と噂されるスマートホームハブが、Apple社員の自宅でテストされているとBloombergのマーク・ガーマン記者が伝えています。
-
-Apple スマートホームハブの開発進む〜新型iPad miniと10月登場か
-
-Appleが開発中と噂される スマートホームハブ が、 Apple社員の自宅でテス トされているとBloombergのマーク・ガーマン記者が伝えています。
-
-このスマートホームハブには、 tvOSをベースにiOSやwatchOSの要素を組み合わせた新しいユーザーインターフェースが採用 される見通しです。
-
-OSの正式名称は明らかになっていませんが、これまでの商標情報などから 「homeOS」と呼ばれる可能性 も 取り沙汰されています 。
-
-新型iPad miniは10月末までの発売 が見込まれており、 スマートホームハブも早ければ同時期に登場 する可能性があります。
-
-スマートホームハブ のコードネームは「J490」とされ、 7インチの正方形ディスプレイ を搭載すると報じられています。
-
-卓上で使用するスタンド付きモデルと、壁に取り付けて使用するモデルの2種類が用意される見通しです。
-
-卓上モデルはHomePodのようなスピーカー機能を備えた台座と組み合わせられ、キッチンやリビングなどでの利用が想定されています。
-
-スマートホームハブの特徴の1つは フロントカメラによる顔認証 で、今後、この機能が進化することで最終的に Face ID機構よりも簡素な仕組みでFace ID並の認証精度が得られる可能性 があると、ガーマン記者は以前から述べていました。
-
-これが実現すれば、薄型化のためにFace ID機構を搭載できていない iPhone Duoにおいて、将来的に顔認証が…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/22/th_Home-Hub-AH-0922.jpg" alt="Apple スマートホームハブの開発進む〜新型iPad miniと10月登場か"></p>]]></description><source url="https://iphone-mania.jp/homepod-606429/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/22/th_Home-Hub-AH-0922.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/22/th_Home-Hub-AH-0922.jpg"/></item>
-<item><title>iPhone18 Pro/Pro Maxで予期せぬ再起動の報告相次ぐ、Face ID失敗と関連か</title><link>https://iphone-mania.jp/iphone18-606422/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-606422/</guid><pubDate>Mon, 21 Sep 2026 16:32:04 +0000</pubDate><description><![CDATA[<p>iPhone18 Pro/Pro Maxで予期せぬ再起動の報告相次ぐ、Face ID失敗と関連か
-
-発売されたばかりのiPhone18 ProとiPhone18 Pro Maxで、突然再起動する問題が複数のユーザーから報告されています。日本のXでも「panic-full」の診断ログや、Face ID認証に失敗した直後に再起動したとの報告が確認されています。一方、Face
-
-iPhone18 Pro/Pro Maxで予期せぬ再起動の報告相次ぐ、Face ID失敗と関連か
-
-発売されたばかりの iPhone18 Pro と iPhone18 Pro Max で、 突然再起動する問題が 複数のユーザーから報告されています。日本のXでも「 panic-full 」の診断ログや、Face ID認証に失敗した直後に再起動したとの報告が確認されています。一方、Face IDを使用していない場面での発生例もあり、現時点で原因は明らかになっていません。
-
-iPhone18 Pro と iPhone18 Pro Max は9月18日に発売されたばかりですが、発売直後から突然シャットダウンして再起動するという報告が国内外で寄せられています。
-
-韓国メディアMoneyTodayによると、 iPhone18 Proシリーズで突然電源が落ちて再起動 し、 「panic-full」の診断ログ が残る事例が相次いでいます。初期設定中や通常のアプリ利用中に再起動したとの報告もあります。
-
-米国のRedditでも、購入から24時間以内に4回再起動したiPhone18 Pro Maxユーザーや、iPhone18 Proで約5回の再起動を経験したユーザーが報告しています。
-
-日本のX上でも、iPhone18 Proを購入後に突然再起動し、「panic-full」のログが残っていたという投稿が複数確認できます。
-
-…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/21/Apple-iPhone18Pro-hero.jpg" alt="iPhone18 Pro/Pro Maxで予期せぬ再起動の報告相次ぐ、Face ID失敗と関連か"></p>]]></description><source url="https://iphone-mania.jp/iphone18-606422/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/21/Apple-iPhone18Pro-hero.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/21/Apple-iPhone18Pro-hero.jpg"/></item>
-<item><title>Apple Watch Series 12とUltra 4に隠しストレージ領域存在？</title><link>https://iphone-mania.jp/iwatch-606423/</link><guid isPermaLink="true">https://iphone-mania.jp/iwatch-606423/</guid><pubDate>Mon, 21 Sep 2026 16:25:04 +0000</pubDate><description><![CDATA[<p>Apple Watch Series 12とUltra 4に隠しストレージ領域存在？
-
-Apple Watch Series 12とApple Watch Ultra 4のストレージ容量は、前世代と同じ64GBとAppleの仕様ページに記載されています。
-
-Apple Watch Series 12とUltra 4に隠しストレージ領域存在？
-
-Apple Watch Series 12とApple Watch Ultra 4 の ストレージ容量 は、 前世代と同じ 64GB とAppleの仕様ページに記載されています。
-
-ところが、両モデルには 実際には128GBのNANDフラッシュメモリが搭載 され、そのうち 64GBだけが利用可能 になっている可能性が浮上しました。
-
-中国SNS「Weibo」に投稿された情報によると、 Apple Watch Series 12とApple Watch Ultra 4 には、 128GBのNANDフラッシュメモリが搭載 されているとされています。
-
-投稿では、搭載されている部品について次のように説明されています。
-
-Apple Watch Series 12とApple Watch Ultra 4には128GBのNANDフラッシュメモリを搭載
-
-SK hynix製「TLC_3D_V9_4P_1024」を採用し、容量は1,024Gbit（128GB）
-
-NANDフラッシュメモリはSK hynixとSamsungの2社が供給
-
-Apple Watch Series 12とApple Watch Ultra 4の ストレージ容量が128GBになるとの噂 が、発表前に持ち上がっていました。
-
-128GBのNANDフラッシュメモリを搭載されているとすれば、 公称ストレージ容量が64GBに制限されている理由 は現時点で明らかになっていません。
-
-考…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/22/apple-watch-series-12-AH-0922.jpg" alt="Apple Watch Series 12とUltra 4に隠しストレージ領域存在？"></p>]]></description><source url="https://iphone-mania.jp/iwatch-606423/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/22/apple-watch-series-12-AH-0922.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/22/apple-watch-series-12-AH-0922.jpg"/></item>
-<item><title>ASUS初の「Googlebook 14」プレオーダー開始、10月4日発売。約990gで3K OLED搭載</title><link>https://www.gdm.or.jp/pressrelease/2026/0922/653324</link><guid isPermaLink="true">https://www.gdm.or.jp/pressrelease/2026/0922/653324</guid><pubDate>Mon, 21 Sep 2026 16:17:19 +0000</pubDate><description><![CDATA[<p>ASUS初の「Googlebook 14」プレオーダー開始、10月4日発売。約990gで3K OLED搭載
-
-ASUSがGemini Intelligence向け14型ノートPC「ASUS Googlebook 14（CX9406CAA）」を発表。Core Ultra 5 325や3K/120Hz OLEDを搭載し、重量約0.99kgを実現。米国でプレオーダーを開始した。
-
-ASUS初の「Googlebook 14」プレオーダー開始、10月4日発売。約990gで3K OLED搭載
-
-Core Ultra 5 325搭載、Androidスマートフォンとのシームレスな連携にも対応
-
-ASUSTeK Computer Inc.（本社：台湾）は2026年9月21日（現地時間）、Gemini Intelligence向けに設計された14型ノートPC 「ASUS Googlebook 14（CX9406CAA）」 を発表した。米国では即日プレオーダーを開始しており、価格は1,299.99ドル。現時点で日本国内での発売についてはアナウンスされていない。
-
-「ASUS Googlebook 14」は、ASUS初となるGooglebookで、GoogleのGemini Intelligenceを活用した各種AI機能とAndroidスマートフォンとの連携を特徴とする14型ノートPC。Geminiをはじめ、FlowやGemini Notebookなどを利用できる「Google AI Pro」の12カ月分と、5TBのクラウドストレージが付属する。
-
-Gemini Intelligenceでは、画面上のオブジェクトを選択して質問や比較、コンテンツ作成などを行える「Magic Pointer」に対応。画面に表示されている内容に応じてGeminiが操作候補を提示する機能も備える。
-
-筐体にはCNC加工の…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/09/22/ASUS_Googlebook_14_001.jpg" alt="ASUS初の「Googlebook 14」プレオーダー開始、10月4日発売。約990gで3K OLED搭載"></p>]]></description><source url="https://www.gdm.or.jp/pressrelease/2026/0922/653324">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/09/22/ASUS_Googlebook_14_001.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/09/22/ASUS_Googlebook_14_001.jpg"/></item>
-<item><title>【レビュー】iPhone18 Pro用OverLay背面保護シートを前年モデルと比較</title><link>https://iphone-mania.jp/iphone18-606387/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-606387/</guid><pubDate>Mon, 21 Sep 2026 16:00:00 +0000</pubDate><description><![CDATA[<p>【レビュー】iPhone18 Pro用OverLay背面保護シートを前年モデルと比較
-
-iPhone18 Proのメインカメラバンプと背面ガラスパネルを保護する、ミヤビックスの背面用保護シートを自費で購入し、実際に貼り付けて使用しました。
-
-【レビュー】iPhone18 Pro用OverLay背面保護シートを前年モデルと比較
-
-iPhone18 Pro のメインカメラバンプと背面ガラスパネルを保護 する、 ミヤビックスの背面用保護シート を自費で購入し、実際に貼り付けて使用しました。
-
-iPhone17 Pro向けの同製品も1年間使用 しており、今回は iPhone18 Pro向けOverLay 9H Plus 低反射 背面用保護シート の仕上がりや貼り付けやすさ、保護範囲の違いを 比較 します。
-
-OverLayシリーズの背面用保護シートは、 保護する範囲ギリギリまで覆う高い寸法精度 が特徴です。その反面、位置合わせがシビアで、高光沢タイプをディスプレイに貼り付ける際は、気泡を入れずに貼り付けるための慎重な作業が求められます。
-
-iPhone17 Pro向け背面用保護シートでは、3眼カメラのレンズ、LiDARスキャナ、LEDフラッシュの周囲が、それぞれ ギリギリの寸法でくり抜かれています 。
-
-1年間使用したiPhone17 Proには、メインカメラバンプが露出する 「MagSafe対応iPhone17 Proテックウーブンケース – ブルー」を装着 していました。
-
-それでも、 9Hの表面硬度 を備えた保護シートには目立つ傷が付かず、メインカメラバンプと背面ガラスをしっかり保護できました。
-
-低反射仕上げのため、iPhone17 Pro本来の質感を大きく損なわず 、保護シートを 貼っていることが目立ちにくい 点も好印象でした。
-
-こうした使用実績から、iPhone18 …</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/21/97458bd4827a7a24083b4faa77185cf6-e1789990257559.jpg" alt="【レビュー】iPhone18 Pro用OverLay背面保護シートを前年モデルと比較"></p>]]></description><source url="https://iphone-mania.jp/iphone18-606387/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/21/97458bd4827a7a24083b4faa77185cf6-e1789990257559.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/21/97458bd4827a7a24083b4faa77185cf6-e1789990257559.jpg"/></item>
-<item><title>iPhone18 Proの需要は予想以上か〜増産でも納期変わらずとの証券会社の見立て</title><link>https://iphone-mania.jp/iphone18-606413/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-606413/</guid><pubDate>Mon, 21 Sep 2026 15:30:00 +0000</pubDate><description><![CDATA[<p>iPhone18 Proの需要は予想以上か〜増産でも納期変わらずとの証券会社の見立て
-
-iPhone18 Proシリーズは前年より製造台数が増えているにもかかわらず、発売直後の納期はiPhone17 Proシリーズと同程度か、一部ではやや長くなっています。
-
-iPhone18 Proの需要は予想以上か〜増産でも納期変わらずとの証券会社の見立て
-
-iPhone18 Proシリーズ は 前年より製造台数が増えている にもかかわらず、発売直後の 納期はiPhone17 Proシリーズと同程度か、一部ではやや長く なっています。
-
-Morgan Stanleyは、この状況からiPhone18 Proシリーズの 実際の需要が市場予測を上回っている可能性がある との見方を示しています。
-
-iPhone18 Proシリーズ発売 直後の需要 について、Morgan Stanleyは 納期だけで判断するのではなく、供給量と合わせて見る必要がある と指摘しています。
-
-同社の分析では、iPhone18 Pro／Pro Maxなどの下半期の 製造台数は前年同期から約18%増加 しています。それにもかかわらず、 納期は前年並みか一部で長く なっています。
-
-このことからMorgan Stanleyは、iPhone18 Proシリーズの 実際の需要がウォール街の予測を上回っている可能性がある との見方を示しています。
-
-Morgan Stanleyのアナリストであるエリック・ウッドリン氏によると、iPhone18 Proシリーズの納期は地域によって 2週〜4週 程度となっています。
-
-前年のiPhone17 Proシリーズと比べると、 納期はおおむね同程度かやや長く なっています。供給量が増えているにもかかわらず納期が短くなっていない点を、同氏は 需要の強さ を示す材料の1つ としています。
-
-日本…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/21/iphone18-pro-max-battery-AH.jpeg" alt="iPhone18 Proの需要は予想以上か〜増産でも納期変わらずとの証券会社の見立て"></p>]]></description><source url="https://iphone-mania.jp/iphone18-606413/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/21/iphone18-pro-max-battery-AH.jpeg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/21/iphone18-pro-max-battery-AH.jpeg"/></item>
-<item><title>「Linuxデスクトップ元年」到来か。Debianが使えるGooglebook OS発表</title><link>https://smhn.info/202609-googlebook-os-debian-linux-environment-launch</link><guid isPermaLink="true">https://smhn.info/202609-googlebook-os-debian-linux-environment-launch</guid><pubDate>Mon, 21 Sep 2026 15:26:11 +0000</pubDate><description><![CDATA[<p>「Linuxデスクトップ元年」到来か。Debianが使えるGooglebook OS発表
-
-Googleは9月21日、Androidの技術基盤とChromeOSのデスクトップ基盤を組み合わせた「Googlebook OS」の詳細を発表し、このOSを搭載したノートPC「Googlebook」の予約受付を開始しました。Linuxの開発環境を備えた、新たなノートPCの選択肢と...
-
-「Linuxデスクトップ元年」到来か。Debianが使えるGooglebook OS発表
-
-Googleは9月21日、Androidの技術基盤とChromeOSのデスクトップ基盤を組み合わせた「Googlebook OS」の詳細を発表し、このOSを搭載したノートPC「Googlebook」の予約受付を開始しました。
-
-Linuxの開発環境を備えた、新たなノートPCの選択肢となりそうです。プリインストールされたTerminalアプリから、フルのDebian GNU/Linux環境を利用できる点に注目です。
-
-Debianへの対応を説明したのは、GoogleでAndroidのコミュニティ対応を担当するMishaal Rahman氏です。同氏はXへの投稿で、GooglebookにはTerminalアプリがあらかじめ搭載され、そこからフルのDebian Linux環境へアクセスできると明らかにしました。
-
-Googleの公式発表でも、分離されたLinux環境とフルのターミナルアクセスを用意し、Linux向けの開発ツールを動かしたり、コードのリポジトリを取得したり、自律型のAIエージェントを実行したりできると説明しています。例にはClaude CodeやAntigravity CLIも挙がっています。SSHで別のコンピューターへ接続するためだけの端末ではなく、Googlebook本体で開発ツールを実行できる構…</p><p><img src="https://smhn.info/wp-content/uploads/2026/09/efb5e1bae1c17855f74cd8d624ceee73.webp" alt="「Linuxデスクトップ元年」到来か。Debianが使えるGooglebook OS発表"></p>]]></description><source url="https://smhn.info/202609-googlebook-os-debian-linux-environment-launch">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/09/efb5e1bae1c17855f74cd8d624ceee73.webp" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/09/efb5e1bae1c17855f74cd8d624ceee73.webp"/></item>
-<item><title>iPhoneはケースで傷を防げる？発売から約3年でも目立つ傷ほぼなし</title><link>https://iphone-mania.jp/iphone15-606414/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone15-606414/</guid><pubDate>Mon, 21 Sep 2026 15:12:59 +0000</pubDate><description><![CDATA[<p>iPhoneはケースで傷を防げる？発売から約3年でも目立つ傷ほぼなし
-
-ケースや保護フィルムを使えば、iPhoneは何年たってもきれいなままでいられるのでしょうか。
-
-iPhoneはケースで傷を防げる？発売から約3年でも目立つ傷ほぼなし
-
-ケースや保護フィルムを使えば、iPhoneは何年たってもきれいなままでいられるのでしょうか。
-
-iPhone15 Pro は2023年9月に発売され、現在は発売から約3年が経過しています。今回は筆者が現在所有している実機を各部位ごとに確認し、ケース・保護フィルムを装着して使用している端末の外観状態を紹介します。
-
-背面ガラスには大きな傷や割れは見当たらず、側面のチタニウム部分にも目立つ打痕や変形は確認できませんでした。全体的に使用感は抑えられている印象です。
-
-カメラ周辺のリング部分には多少の使用感が見えますが、大きな欠けや割れは確認しにくい状態です。USB-C端子周辺にも目立つ変形や損傷は見当たりません。前面は保護フィルムを装着した状態のため、ディスプレイ本体の状態は断定できませんが、フィルムに深い傷は見受けられないです。
-
-いずれも写真で確認できる範囲での印象であり、細かい微傷の有無までは判断できません。
-
-今回の端末で特に注目したいのは、使用中の落下頻度です。iPhoneを落とすことが多く、落下回数は数え切れません。 コンクリートやアスファルトの上に落としたことも複数回あります。
-
-それでも修理歴はゼロで、外観に大きな損傷は確認できていません。これが「ケースのおかげで守られた」という直接的な証拠にはなりませんが、落下の多い使い方でも目立つ傷が少ない実例として参考になるかもしれません。
-
-使用条件や落下時の状況によって結果は変わるため、同じ結果になるとは限らないです。
-
-ケースと保護フィルムは常時装着しています。筆者の使用期間中にケースは2回交換しており、最初はクリアケース、現在は 無印良品のダークグレー系ケース を使っています。保護フィルムも1回交換しており、常に何らかのフィルムが貼られた状態でした。
-
-今回確認した実機では、ケ…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/21/bc4f5a7b4e60ac802c1a36ddb1a44f6d.png" alt="iPhoneはケースで傷を防げる？発売から約3年でも目立つ傷ほぼなし"></p>]]></description><source url="https://iphone-mania.jp/iphone15-606414/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/21/bc4f5a7b4e60ac802c1a36ddb1a44f6d.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/21/bc4f5a7b4e60ac802c1a36ddb1a44f6d.png"/></item>
-<item><title>GeForce RTX 60 seriesはやはり2028年となるらしい</title><link>https://northwood.blog.fc2.com/blog-entry-13209.html</link><guid isPermaLink="true">https://northwood.blog.fc2.com/blog-entry-13209.html</guid><pubDate>Mon, 21 Sep 2026 15:05:40 +0000</pubDate><description><![CDATA[<p>GeForce RTX 60 seriesはやはり2028年となるらしい
-
-北森瓦版 - Northwood Blog (Author : 北森八雲. Since July 10, 2006.)
-
-北森瓦版 - GeForce RTX 60 seriesはやはり2028年となるらしい ブログ内検索
-
-○CPU アーク (ark) Tsukumo (Intel) Tsukumo (AMD) ソフマップ ○マザーボード アーク (ark) Tsukumo (Intel) Tsukumo (AMD) ソフマップ ○グラフィックカード アーク (ark) Tsukumo (NVIDIA) Tsukumo (AMD) ソフマップ ○メモリ アーク (ark) Tsukumo ソフマップ ○SSD アーク (ark) Tsukumo ソフマップ ○Amazon売れ筋ランキング CPU メモリ グラフィックカード マザーボード SSD 電源
-
-GeForce RTX 60 seriesはやはり2028年となるらしい
-
-GeForce RTX 60 seriesはやはり2028年となるらしい (2026/09/22)
-
-RTX Pro 5500 Blackwell Workstation Editionが発表される (2026/09/14)
-
-GB203を使用したGeForce RTX 5070が準備されているらしい (2026/09/11)
-
-| 北森瓦版 | Template by おすすめ無料ブログ(blog)比較
-
-GeForce RTX 60 seriesはやはり2028年となるらしい (09/22)
-
-“Raptor Lake Next”の8 P-core + 8 E-coreモデルはCore i5 14600Kの後継 (09/21)
-
-今後2年間でGDDR7の4GB, 6GBチップが計画されているらしい (09/21)
-
-積荷目録でASRockのZ990マザーボードの型番が確認される (09/17)
-
-2027年に登場する新しいGPUはAMDのAT2のみ、他は2028年以…</p>]]></description><source url="https://northwood.blog.fc2.com/blog-entry-13209.html">北森瓦版</source></item>
-<item><title>iPhone18 Proシリーズのイメージセンサーは全てソニー製〜分解で確認</title><link>https://iphone-mania.jp/iphone18-606356/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-606356/</guid><pubDate>Mon, 21 Sep 2026 15:05:00 +0000</pubDate><description><![CDATA[<p>iPhone18 Proシリーズのイメージセンサーは全てソニー製〜分解で確認
-
-iPhone18 ProとiPhone18 Pro Maxを分解し、搭載されている各部品を詳しく確認した結果、カメラ用イメージセンサーはiPhone17 Proシリーズに引き続き、全てソニー製であることが確認されました。
-
-iPhone18 Proシリーズのイメージセンサーは全てソニー製〜分解で確認
-
-iPhone18 ProとiPhone18 Pro Max を分解し、搭載されている各部品を詳しく確認した結果、カメラ用 イメージセンサーはiPhone17 Proシリーズに引き続き、全てソニー製 であることが確認されました。
-
-カメラ以外の部品についても、 iPhone18 ProシリーズとiPhone17 Proシリーズの違いが詳しく比較 されています。
-
-iPhone18 ProおよびiPhone18 Pro Max の各部品を、 iPhone17 ProおよびiPhone17 Pro Max と 比較 し、YouTubeチャンネル「微机分WekiHome」が報告しています。
-
-なお、この記事における部品の紹介順は、動画における紹介順とは異なります。
-
-iPhone18 Proシリーズに搭載されている背面カメラ用イメージセンサーは全てソニー製で、型番と主な仕様は次の通りです。
-
-iPhone17 Proシリーズから 変更されたのは広角カメラ です。イメージセンサーが IMX903からIMX905へ変更 されたほか、 可変絞りが採用 されています。
-
-フロントカメラには、iPhone17 Proシリーズと同じ ソニー製IMX914 イメージセンサーが搭載されています。
-
-フロント側で大きく変更されたのがFace ID機構です。赤外線カメラが他の部品から分離され、ディスプレイ下に配置されています。
-
-赤外線カメラを配置する部分では、光を通しやすくするため、周囲と比べてディスプレイの画素密度を約50%に抑えた構造が採用されています。
-
-それでもDynamic Islandの開口部と比べると光の…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/21/iPhone18-pro-17-pro-parts-e1789987280107.png" alt="iPhone18 Proシリーズのイメージセンサーは全てソニー製〜分解で確認"></p>]]></description><source url="https://iphone-mania.jp/iphone18-606356/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/21/iPhone18-pro-17-pro-parts-e1789987280107.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/21/iPhone18-pro-17-pro-parts-e1789987280107.png"/></item>
-<item><title>MS、ファイル履歴が正常動作しない不具合を認める。原因はWindows11 KB5129195やKB5124008、Windows10 KB5129236やKB5122878など</title><link>https://www.nichepcgamer.com/archives/post-132420.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/post-132420.html</guid><pubDate>Mon, 21 Sep 2026 15:03:43 +0000</pubDate><description><![CDATA[<p>MS、ファイル履歴が正常動作しない不具合を認める。原因はWindows11 KB5129195やKB5124008、Windows10 KB5129236やKB5122878など
-
-Microsofftは、Windows11やWindows10において、ファイル履歴が機能しない不具合が発生していることを認めました。 不具合概要 日本時間で2026年9月9日にリリースされたWin...
-
-Microsofftは、Windows11やWindows10において、 ファイル履歴が機能しない不具合が発生していることを認めました。
-
-日本時間で2026年9月9日にリリースされたWindows Update / セキュリティ更新プログラム(セキュリティ)パッチをインストール後、『ファイル履歴』が正常に機能・動作しなくなる場合があります。
-
-『ファイル履歴』の使用において、以下のような不具合が発生する場合があります、
-
-バックアップ用ストレージを接続していて、ストレージが正常に動作しているにもかかわらず、ドライブを再接続してくださいといった内容のエラーメッセージが表示される
-
-イベントビューアーにFileHistory.exe / KERNELBASE.dllを参照するアプリケーションのクラッシュイベントが記録される
-
-『ファイル履歴』が正常動作しない不具合は、以前から ユーザーにより報告 されていましたが、 今回、Microsoftは既知の不具合として認めました。
-
-この不具合が発生するOSおよび不具合を内包する更新プログラムは以下。
-
-Windows11 25H2 / Windows11 24H2 KB5129195 (2026年9月15日 緊急リリース・セキュリティ更新プログラム) KB5124008 (2026年9月9日 セキュリティ更新プログラム)
-
-Windows11 26H…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2025/10/windows-break-b.jpg" alt="MS、ファイル履歴が正常動作しない不具合を認める。原因はWindows11 KB5129195やKB5124008、Windows10 KB5129236やKB5122878など"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-132420.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2025/10/windows-break-b.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2025/10/windows-break-b.jpg"/></item>
-<item><title>“Raptor Lake Next”の8 P-core + 8 E-coreモデルはCore i5 14600Kの後継</title><link>https://northwood.blog.fc2.com/blog-entry-13208.html</link><guid isPermaLink="true">https://northwood.blog.fc2.com/blog-entry-13208.html</guid><pubDate>Mon, 21 Sep 2026 14:43:58 +0000</pubDate><description><![CDATA[<p>“Raptor Lake Next”の8 P-core + 8 E-coreモデルはCore i5 14600Kの後継
-
-北森瓦版 - Northwood Blog (Author : 北森八雲. Since July 10, 2006.)
-
-北森瓦版 - “Raptor Lake Next”の8 P-core + 8 E-coreモデルはCore i5 14600Kの後継 ブログ内検索
-
-○CPU アーク (ark) Tsukumo (Intel) Tsukumo (AMD) ソフマップ ○マザーボード アーク (ark) Tsukumo (Intel) Tsukumo (AMD) ソフマップ ○グラフィックカード アーク (ark) Tsukumo (NVIDIA) Tsukumo (AMD) ソフマップ ○メモリ アーク (ark) Tsukumo ソフマップ ○SSD アーク (ark) Tsukumo ソフマップ ○Amazon売れ筋ランキング CPU メモリ グラフィックカード マザーボード SSD 電源
-
-“Raptor Lake Next”の8 P-core + 8 E-coreモデルはCore i5 14600Kの後継
-
-“Raptor Lake Next”の8 P-core + 8 E-coreモデルはCore i5 14600Kの後継 (2026/09/21)
-
-12 Xe graphics coreを搭載する“Nova Lake-S”はキャンセルされたらしい (2026/09/15)
-
-12 Xe3P GPUを搭載する“Nova Lake”はDDR5-8000 CSO DIMMに対応 (2026/09/14)
-
-| 北森瓦版 | Template by おすすめ無料ブログ(blog)比較
-
-GeForce RTX 60 seriesはやはり2028年となるらしい (09/22)
-
-“Raptor Lake Next”の8 P-core + 8 E-coreモデルはCore i5 14600Kの後継 (09/21)
-
-今後2年間でGDDR7の4GB…</p>]]></description><source url="https://northwood.blog.fc2.com/blog-entry-13208.html">北森瓦版</source></item>
-<item><title>今後2年間でGDDR7の4GB, 6GBチップが計画されているらしい</title><link>https://northwood.blog.fc2.com/blog-entry-13207.html</link><guid isPermaLink="true">https://northwood.blog.fc2.com/blog-entry-13207.html</guid><pubDate>Mon, 21 Sep 2026 14:25:49 +0000</pubDate><description><![CDATA[<p>今後2年間でGDDR7の4GB, 6GBチップが計画されているらしい
-
-北森瓦版 - Northwood Blog (Author : 北森八雲. Since July 10, 2006.)
-
-北森瓦版 - 今後2年間でGDDR7の4GB, 6GBチップが計画されているらしい ブログ内検索
-
-○CPU アーク (ark) Tsukumo (Intel) Tsukumo (AMD) ソフマップ ○マザーボード アーク (ark) Tsukumo (Intel) Tsukumo (AMD) ソフマップ ○グラフィックカード アーク (ark) Tsukumo (NVIDIA) Tsukumo (AMD) ソフマップ ○メモリ アーク (ark) Tsukumo ソフマップ ○SSD アーク (ark) Tsukumo ソフマップ ○Amazon売れ筋ランキング CPU メモリ グラフィックカード マザーボード SSD 電源
-
-今後2年間でGDDR7の4GB, 6GBチップが計画されているらしい
-
-今後2年間でGDDR7の4GB, 6GBチップが計画されているらしい (2026/09/21)
-
-JEDEC 有機基板でHBM4並の帯域を実現するSPHBM4を発表 (2026/07/15)
-
-Team Group 1.1Vで駆動するDDR5-8000モジュールを明らかに (2026/05/06)
-
-| 北森瓦版 | Template by おすすめ無料ブログ(blog)比較
-
-GeForce RTX 60 seriesはやはり2028年となるらしい (09/22)
-
-“Raptor Lake Next”の8 P-core + 8 E-coreモデルはCore i5 14600Kの後継 (09/21)
-
-今後2年間でGDDR7の4GB, 6GBチップが計画されているらしい (09/21)
-
-積荷目録でASRockのZ990マザーボードの型番が確認される (09/17)
-
-2027年に登場する新しいGPUはAMDのAT2のみ、他は2028年以降 (09/17)
-
-Ryzen 5 55…</p>]]></description><source url="https://northwood.blog.fc2.com/blog-entry-13207.html">北森瓦版</source></item>
 </channel></rss>
