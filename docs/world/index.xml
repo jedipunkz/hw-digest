@@ -1,6 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Fri, 02 Oct 2026 08:34:23 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Fri, 02 Oct 2026 15:48:13 +0000</lastBuildDate>
+<item><title>Touring the F5 BIG-IP Next for Kubernetes Lab to Make AI Clusters More Efficient</title><link>https://www.servethehome.com/touring-the-f5-big-ip-next-for-kubernetes-lab-to-make-ai-clusters-more-efficient-nvidia-dpu/</link><guid isPermaLink="true">https://www.servethehome.com/touring-the-f5-big-ip-next-for-kubernetes-lab-to-make-ai-clusters-more-efficient-nvidia-dpu/</guid><pubDate>Thu, 01 Oct 2026 18:14:30 +0000</pubDate><description><![CDATA[<p>Touring the F5 BIG-IP Next for Kubernetes Lab to Make AI Clusters More Efficient
+
+We checked out the F5 lab getting over 3x the performance from the same GPU cluster using F5 BIG-IP NEXT for Kubernetes
+
+Continuing our lab tour series, we toured a lab with the F5 BIG-IP application delivery and security stack running on NVIDIA BlueField DPUs. It can also run on host CPUs, but then it consumes those valuable cores. F5 BNK, short for BIG-IP Next for Kubernetes, sits between clients and GPU infrastructure to handle LLM routing, token governance, and L4 to L7 security at the network edge. We also got to see it running and its impact on performance, which I think is important. If you can find ways to increase GPU performance in a meaningful way, that means you can get more performance from the s…</p><p><img src="https://www.servethehome.com/wp-content/uploads/2026/10/F5-BNK-Lab-Supermicro-NVIDIA-H100-and-BlueField-3-DPU-Cluster-1.jpg" alt="Touring the F5 BIG-IP Next for Kubernetes Lab to Make AI Clusters More Efficient"></p>]]></description><source url="https://www.servethehome.com/touring-the-f5-big-ip-next-for-kubernetes-lab-to-make-ai-clusters-more-efficient-nvidia-dpu/">ServeTheHome</source><media:content url="https://www.servethehome.com/wp-content/uploads/2026/10/F5-BNK-Lab-Supermicro-NVIDIA-H100-and-BlueField-3-DPU-Cluster-1.jpg" medium="image"/><media:thumbnail url="https://www.servethehome.com/wp-content/uploads/2026/10/F5-BNK-Lab-Supermicro-NVIDIA-H100-and-BlueField-3-DPU-Cluster-1.jpg"/></item>
+<item><title>NVIDIA releases new security driver for GTX 750 through GTX 10-series GPUs</title><link>https://www.tweaktown.com/rss/click/news/113845/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113845/?c=news-mf</guid><pubDate>Thu, 01 Oct 2026 18:07:10 +0000</pubDate><description><![CDATA[<p>NVIDIA releases new security driver for GTX 750 through GTX 10-series GPUs</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113845/?c=news-mf">TweakTown</source></item>
+<item><title>Base PS5s get AI upscaling with new QSSR tech</title><link>https://www.tweaktown.com/rss/click/news/113852/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113852/?c=news-mf</guid><pubDate>Thu, 01 Oct 2026 17:55:08 +0000</pubDate><description><![CDATA[<p>Base PS5s get AI upscaling with new QSSR tech</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113852/?c=news-mf">TweakTown</source></item>
+<item><title>Memory executives expect RAM shortage to continue through 2028</title><link>https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/</link><guid isPermaLink="true">https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/</guid><pubDate>Thu, 01 Oct 2026 17:49:56 +0000</pubDate><description><![CDATA[<p>Memory executives expect RAM shortage to continue through 2028
+
+Prices for memory sold for 2027 &#34;are much higher than 2026 prices.&#34;
+
+Text settings Story text Size Small Standard Large Width * Standard Wide Links Standard Orange * Subscribers only Learn more Minimize to nav Micron and Samsung executives this week said the memory shortage will continue for at least the next couple of years.
+
+Micron CEO Sanjay Mehrotra expects demand for the firm’s memory to exceed its available supply over that period, he told investors last night.
+
+Micron no longer sells consumer RAM, and Mehrotra’s statements refer to Micron’s business-to-business sales of high-bandwidth memory (HBM) for AI and DRAM for servers. However, his comments also have implications for consumer devices. Manufacturing capacity is pr…</p><p><img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1723107474-1024x648.jpg" alt="Memory executives expect RAM shortage to continue through 2028"></p>]]></description><source url="https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/">Ars Technica Gear &amp; Gadgets</source><media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1723107474-1024x648.jpg" medium="image"/><media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1723107474-1024x648.jpg"/></item>
+<item><title>An Arduino® UNO™ Q lets this vintage terminal answer questions without internet access</title><link>https://blog.arduino.cc/2026/10/01/an-arduino-uno-q-lets-this-vintage-terminal-answer-questions-without-internet-access/</link><guid isPermaLink="true">https://blog.arduino.cc/2026/10/01/an-arduino-uno-q-lets-this-vintage-terminal-answer-questions-without-internet-access/</guid><pubDate>Thu, 01 Oct 2026 16:49:56 +0000</pubDate><description><![CDATA[<p>An Arduino® UNO™ Q lets this vintage terminal answer questions without internet access
+
+We’re living in 2026 and everyone knows that they can ask a large language model (LLM) a question and get an answer. But most people assume that requires an internet connection, because those LLMs live in massive data centers. The truth is that LLMs can run on local hardware, answering questions without any internet at […]
+
+An Arduino® UNO™ Q lets this vintage terminal answer questions without internet access | Arduino Blog Blog Home &gt;
+
+This mouse droid knows how to party
+
+An Arduino® UNO™ Q lets this vintage terminal answer questions without internet access
+
+We’re living in 2026 and everyone knows that they can ask a large language model (LLM) a question and get an answer. But most people assume that r…</p><p><img src="https://blog.arduino.cc/wp-content/uploads/2026/10/a11568f3-28db-43dd-9caa-5f3d9f826cd5.jpg" alt="An Arduino® UNO™ Q lets this vintage terminal answer questions without internet access"></p>]]></description><source url="https://blog.arduino.cc/2026/10/01/an-arduino-uno-q-lets-this-vintage-terminal-answer-questions-without-internet-access/">Arduino Blog</source><media:content url="https://blog.arduino.cc/wp-content/uploads/2026/10/a11568f3-28db-43dd-9caa-5f3d9f826cd5.jpg" medium="image"/><media:thumbnail url="https://blog.arduino.cc/wp-content/uploads/2026/10/a11568f3-28db-43dd-9caa-5f3d9f826cd5.jpg"/></item>
+<item><title>(PR) Razer Unveils the Huntsman V3 Pro Mini 8 KHz Analog Optical Keyboard</title><link>https://www.techpowerup.com/353309/razer-unveils-the-huntsman-v3-pro-mini-8-khz-analog-optical-keyboard</link><guid isPermaLink="true">https://www.techpowerup.com/353309/razer-unveils-the-huntsman-v3-pro-mini-8-khz-analog-optical-keyboard</guid><pubDate>Thu, 01 Oct 2026 16:43:41 +0000</pubDate><description><![CDATA[<p>(PR) Razer Unveils the Huntsman V3 Pro Mini 8 KHz Analog Optical Keyboard
+
+Razer, the leading global lifestyle brand for gamers, today announced the Razer Huntsman V3 Pro Mini 8KHz, the latest addition to the Huntsman V3 Pro lineup, and the most advanced analog optical keyboard in a 60% form factor.
+
+Building on the Razer Analog Optical Switches Gen-2, Rapid Trigger,...
+
+Razer Unveils the Huntsman V3 Pro Mini 8 KHz Analog Optical Keyboard
+
+Jeffrey Chau, Global Esports Director at Razer &#34;The Huntsman V3 Pro Mini has always given players the performance they trust. With the 8KHz model, we build on that with the full Advanced Input Control suite and true 8000 Hz HyperPolling, giving the world&#39;s best the edge they need in the 60% form factor - because in esports, milliseconds decide who wins…</p><p><img src="https://www.techpowerup.com/img/yOUxdykAG5HOLnFK.jpg" alt="(PR) Razer Unveils the Huntsman V3 Pro Mini 8 KHz Analog Optical Keyboard"></p>]]></description><source url="https://www.techpowerup.com/353309/razer-unveils-the-huntsman-v3-pro-mini-8-khz-analog-optical-keyboard">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/yOUxdykAG5HOLnFK.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/yOUxdykAG5HOLnFK.jpg"/></item>
+<item><title>Google’s new Android sideloading rules are coming — and here are all the ways to bypass them</title><link>https://www.androidauthority.com/how-to-bypass-android-developer-verification-sideloading-rules-3718002/</link><guid isPermaLink="true">https://www.androidauthority.com/how-to-bypass-android-developer-verification-sideloading-rules-3718002/</guid><pubDate>Thu, 01 Oct 2026 16:42:47 +0000</pubDate><description><![CDATA[<p>Google’s new Android sideloading rules are coming — and here are all the ways to bypass them
+
+Google’s developer verification rules are now live, but users can bypass new APK sideloading blocks using ADB, Shizuku, and Advanced Flow.
+
+Affiliate links on Android Authority may earn us a commission. Learn more.
+
+Google’s new Android sideloading rules are coming — and here are all the ways to bypass them
+
+0 • Megan Ellis / Android Authority Add Android Authority on Google: Preferred Source Google Discover TL;DR Certified Android devices running Google Play Services in Brazil, Indonesia, Singapore, and Thailand now actively block apps from unverified developers, with a global rollout set for 2027.
+
+Users can bypass restrictions via Google’s multi-step “Advanced Flow” (which requires toggling Dev…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/03/install-app-popup-when-sideloading-an-app-scaled.jpg" alt="Google’s new Android sideloading rules are coming — and here are all the ways to bypass them"></p>]]></description><source url="https://www.androidauthority.com/how-to-bypass-android-developer-verification-sideloading-rules-3718002/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/03/install-app-popup-when-sideloading-an-app-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/03/install-app-popup-when-sideloading-an-app-scaled.jpg"/></item>
+<item><title>The Venus Flytrap-Inspired Soft Robot That Doesn&#39;t Need Wires</title><link>https://www.hackster.io/news/the-venus-flytrap-inspired-soft-robot-that-doesn-t-need-wires-6118dd21ae0b</link><guid isPermaLink="true">https://www.hackster.io/news/the-venus-flytrap-inspired-soft-robot-that-doesn-t-need-wires-6118dd21ae0b</guid><pubDate>Thu, 01 Oct 2026 16:40:35 +0000</pubDate><description><![CDATA[<p>The Venus Flytrap-Inspired Soft Robot That Doesn&#39;t Need Wires</p>]]></description><source url="https://www.hackster.io/news/the-venus-flytrap-inspired-soft-robot-that-doesn-t-need-wires-6118dd21ae0b">Hackster.io</source></item>
+<item><title>Shure MV6 Gen 2 launches with new Auto Level and Real‑time Denoiser controls</title><link>https://www.kitguru.net/peripherals/joao-silva/shure-mv6-gen-2-launches-with-new-auto-level-and-real%e2%80%91time-denoiser-controls/</link><guid isPermaLink="true">https://www.kitguru.net/peripherals/joao-silva/shure-mv6-gen-2-launches-with-new-auto-level-and-real%e2%80%91time-denoiser-controls/</guid><pubDate>Thu, 01 Oct 2026 16:29:12 +0000</pubDate><description><![CDATA[<p>Shure MV6 Gen 2 launches with new Auto Level and Real‑time Denoiser controls
+
+Shure is updating its entry‑level streaming microphone with the MV6 Gen 2, adding two meaningful upgrades, including adjustable Auto Level Mode and an adjustable Real‑time Denoiser. These new controls give users finer command over volume consistency and background‑noise filtering, addressing two of the biggest limitations of the original MV6.
+
+Shure MV6 Gen 2 launches with new Auto Level and Real‑time Denoiser controls
+
+João Silva 23 hours ago Peripheral
+
+Shure is updating its entry‑level streaming microphone with the MV6 Gen 2, adding two meaningful upgrades, including adjustable Auto Level Mode and an adjustable Real‑time Denoiser. These new controls give users finer command over volume consistency and backgrou…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/10/MV6_Gen2_White_PC_Controller_Close_on_product_-732x330.jpg" alt="Shure MV6 Gen 2 launches with new Auto Level and Real‑time Denoiser controls"></p>]]></description><source url="https://www.kitguru.net/peripherals/joao-silva/shure-mv6-gen-2-launches-with-new-auto-level-and-real%e2%80%91time-denoiser-controls/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/10/MV6_Gen2_White_PC_Controller_Close_on_product_-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/10/MV6_Gen2_White_PC_Controller_Close_on_product_-732x330.jpg"/></item>
+<item><title>Poco F9 Ultra Review: Exceptional battery life meets powerful sound</title><link>https://www.notebookcheck.net/Poco-F9-Ultra-Review-The-battery-giant-with-high-end-ambitions.1413644.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/Poco-F9-Ultra-Review-The-battery-giant-with-high-end-ambitions.1413644.0.html</guid><pubDate>Thu, 01 Oct 2026 16:23:00 +0000</pubDate><description><![CDATA[<p>Poco F9 Ultra Review: Exceptional battery life meets powerful sound</p>]]></description><source url="https://www.notebookcheck.net/Poco-F9-Ultra-Review-The-battery-giant-with-high-end-ambitions.1413644.0.html">Notebookcheck</source></item>
+<item><title>All-time low deal: Logitech G515 Lightspeed TKL plunges 50% to $79.99</title><link>https://www.androidauthority.com/logitech-g515-lightspeed-tkl-keyboard-3718104/</link><guid isPermaLink="true">https://www.androidauthority.com/logitech-g515-lightspeed-tkl-keyboard-3718104/</guid><pubDate>Thu, 01 Oct 2026 16:14:10 +0000</pubDate><description><![CDATA[<p>All-time low deal: Logitech G515 Lightspeed TKL plunges 50% to $79.99
+
+Logitech’s G515 Lightspeed TKL drops to a record-low $79.99 at Amazon, packing tri-mode wireless and tactile GL Brown switches.
+
+Affiliate links on Android Authority may earn us a commission. Learn more.
+
+All-time low deal: Logitech G515 Lightspeed TKL plunges 50% to $79.99
+
+0 • Amazon Add Android Authority on Google: Preferred Source Google Discover The Logitech G515 Lightspeed TKL Wireless Gaming Keyboard is built for people who want a gaming keyboard that also looks at home on a work desk, and right now, there’s a very good deal on it at Amazon. This low-profile tenkeyless board keeps things compact while still packing in the wireless features and responsive switches Logitech is known for.
+
+The G515 Lightspeed TKL us…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/10/Logitech-G515-Lightspeed-TKL-Wireless-Gaming-Keyboard-Tactile-Press-Image.jpg" alt="All-time low deal: Logitech G515 Lightspeed TKL plunges 50% to $79.99"></p>]]></description><source url="https://www.androidauthority.com/logitech-g515-lightspeed-tkl-keyboard-3718104/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/10/Logitech-G515-Lightspeed-TKL-Wireless-Gaming-Keyboard-Tactile-Press-Image.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/10/Logitech-G515-Lightspeed-TKL-Wireless-Gaming-Keyboard-Tactile-Press-Image.jpg"/></item>
+<item><title>Amazon unveils this year’s colorful Kindle upgrades</title><link>https://www.androidauthority.com/2026-kindle-3718066/</link><guid isPermaLink="true">https://www.androidauthority.com/2026-kindle-3718066/</guid><pubDate>Thu, 01 Oct 2026 16:13:32 +0000</pubDate><description><![CDATA[<p>Amazon unveils this year’s colorful Kindle upgrades
+
+Amazon&#39;s got new Kindle, Kindle Paperwhite, and Kindle Colorsoft models, alongside Kids editions and the Kindle Click remote.
+
+Affiliate links on Android Authority may earn us a commission. Learn more.
+
+Amazon unveils this year&#39;s colorful Kindle upgrades
+
+0 • Amazon Add Android Authority on Google: Preferred Source Google Discover TL;DR Amazon is showing off its latest upgrades to the Kindle, Kindle Colorsoft, and Kindle Paperwhite.
+
+This year’s base Kindle is smaller, lighter, and faster than before, with an edge-to-edge colorful design.
+
+New accessories include the Kindle Click page-turning Bluetooth remote.
+
+Amazon may have introduced shoppers to the idea of e-readers for the first time with its Kindle series, but by 2026 it’s hardly …</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/10/kindle-remote-click.jpg" alt="Amazon unveils this year’s colorful Kindle upgrades"></p>]]></description><source url="https://www.androidauthority.com/2026-kindle-3718066/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/10/kindle-remote-click.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/10/kindle-remote-click.jpg"/></item>
+<item><title>Kindle Colorsoft Kids deal knocks the 16GB color e-reader down to $209.99</title><link>https://www.androidauthority.com/kindle-colorsoft-kids-deal-3718098/</link><guid isPermaLink="true">https://www.androidauthority.com/kindle-colorsoft-kids-deal-3718098/</guid><pubDate>Thu, 01 Oct 2026 16:05:12 +0000</pubDate><description><![CDATA[<p>Kindle Colorsoft Kids deal knocks the 16GB color e-reader down to $209.99
+
+Save $90 on the Kindle Colorsoft Kids and get a color E Ink display, 16GB storage, and up to 12 weeks of battery life.
+
+Affiliate links on Android Authority may earn us a commission. Learn more.
+
+Kindle Colorsoft Kids deal knocks the 16GB color e-reader down to $209.99
+
+0 • Amazon Add Android Authority on Google: Preferred Source Google Discover Amazon has cut $90 off the Kindle Colorsoft Kids, bringing the 2024 model down to $209.99 from its $299.99 retail price. That’s a 30% discount relative to the RRP, and it’s the lowest price we’ve seen for this reader since Prime Day.
+
+This deal stands out because the Kindle Colorsoft Kids features a color E-Ink touchscreen, which makes comics, illustrated books, and colorful…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/10/Kindle-Colorsoft-Kids-Press-Image.jpg" alt="Kindle Colorsoft Kids deal knocks the 16GB color e-reader down to $209.99"></p>]]></description><source url="https://www.androidauthority.com/kindle-colorsoft-kids-deal-3718098/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/10/Kindle-Colorsoft-Kids-Press-Image.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/10/Kindle-Colorsoft-Kids-Press-Image.jpg"/></item>
+<item><title>Ubisoft forms Massive Entertainment to focus on Splinter Cell, Ghost Recon and more</title><link>https://www.kitguru.net/gaming/matthew-wilson/ubisoft-forms-massive-entertainment-to-focus-on-splinter-cell-ghost-recon-and-more/</link><guid isPermaLink="true">https://www.kitguru.net/gaming/matthew-wilson/ubisoft-forms-massive-entertainment-to-focus-on-splinter-cell-ghost-recon-and-more/</guid><pubDate>Thu, 01 Oct 2026 16:00:31 +0000</pubDate><description><![CDATA[<p>Ubisoft forms Massive Entertainment to focus on Splinter Cell, Ghost Recon and more
+
+Yesterday’s job listings made it clear that Ubisoft is still filling key leadership roles for the Splinter Cell Remake, suggesting the project is nowhere near full production. Today, Ubisoft has announced another internal shake‑up, with Splinter Cell now being folded under Massive Entertainment. Ubisoft has renamed its Creative House 2 division to Massive Entertainment, a
+
+Ubisoft forms Massive Entertainment to focus on Splinter Cell, Ghost Recon and more
+
+Matthew Wilson 24 hours ago Featured Tech News , Software &amp; Gaming
+
+Yesterday’s job listings made it clear that Ubisoft is still filling key leadership roles for the Splinter Cell Remake, suggesting the project is nowhere near full production. Today, Ubi…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2017/06/SplinterCell1-660x330.jpg" alt="Ubisoft forms Massive Entertainment to focus on Splinter Cell, Ghost Recon and more"></p>]]></description><source url="https://www.kitguru.net/gaming/matthew-wilson/ubisoft-forms-massive-entertainment-to-focus-on-splinter-cell-ghost-recon-and-more/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2017/06/SplinterCell1-660x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2017/06/SplinterCell1-660x330.jpg"/></item>
+<item><title>Amazing deal with a clever case? - CMF Clip Pro review</title><link>https://www.notebookcheck.net/Amazing-deal-with-a-clever-case-CMF-Clip-Pro-review.1413629.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/Amazing-deal-with-a-clever-case-CMF-Clip-Pro-review.1413629.0.html</guid><pubDate>Thu, 01 Oct 2026 16:00:00 +0000</pubDate><description><![CDATA[<p>Amazing deal with a clever case? - CMF Clip Pro review</p>]]></description><source url="https://www.notebookcheck.net/Amazing-deal-with-a-clever-case-CMF-Clip-Pro-review.1413629.0.html">Notebookcheck</source></item>
 <item><title>iGarden K70 は、葉の季節を通してプールの形を保ちます。今なら 550 ドル割引です</title><link>https://www.androidauthority.com/igarden-pool-cleaner-k70-3717200/</link><guid isPermaLink="true">https://www.androidauthority.com/igarden-pool-cleaner-k70-3717200/</guid><pubDate>Thu, 01 Oct 2026 11:27:52 +0000</pubDate><description><![CDATA[<p>iGarden K70 は、葉の季節を通してプールの形を保ちます。今なら 550 ドル割引です
 
 自動プールクリーナーをお探しの場合は、Prime Big Deals Day で iGarden プールクリーナー K70 を大幅に割引してご購入いただけます。
@@ -2361,13 +2466,6 @@ Aug 30th 2026 PS5 Pro Stock Vanishes After GTA 6 Reveal, Prices Hit $1,300 (24)
 May 18th 2026 Insider Confirms Sony Ditching PC Ports: &#34;You&#39;ll Be Seeing Fewer Single Player Games Arrive on PC.&#34; (135)
 
 Apr 28th 2026 Linux now Officially Available for PlaySt…</p><p><img src="https://www.techpowerup.com/img/AymCBHTYVOWrGNv2.jpg" alt="PS5 Emulator SharpEmu Reaches Gameplay In 17 Games, 8 Run at 60 FPS"></p>]]></description><source url="https://www.techpowerup.com/353152/ps5-emulator-sharpemu-reaches-gameplay-in-17-games-8-run-at-60-fps">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/AymCBHTYVOWrGNv2.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/AymCBHTYVOWrGNv2.jpg"/></item>
-<item><title>Using the SNES Super FX Chip to Run Super Mario 64</title><link>https://hackaday.com/2026/09/28/using-the-snes-super-fx-chip-to-run-super-mario-64/</link><guid isPermaLink="true">https://hackaday.com/2026/09/28/using-the-snes-super-fx-chip-to-run-super-mario-64/</guid><pubDate>Mon, 28 Sep 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>Using the SNES Super FX Chip to Run Super Mario 64
-
-Although the Nintendo 64 was the first to bring real 3D graphics to the table in 1996, the Super Nintendo had an ace up its sleeve in the form of the Super FX chip. One major advantage of using car…
-
-Although the Nintendo 64 was the first to bring real 3D graphics to the table in 1996, the Super Nintendo had an ace up its sleeve in the form of the Super FX chip. One major advantage of using cartridge-based games is that you have the option to add wild features such as a 3D graphics chip to your SNES, something that got used to make games like Star Fox, and as [Tobi] demonstrates in a recent video , can also totally run Super Mario 64 if you squint a lot.
-
-While there’s a rumor that Nintendo was looking to release a ‘Super Mario FX’ game f…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/09/super_mario_64_snes_super_fx_game_of_tobi_youtube.jpg" alt="Using the SNES Super FX Chip to Run Super Mario 64"></p>]]></description><source url="https://hackaday.com/2026/09/28/using-the-snes-super-fx-chip-to-run-super-mario-64/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/09/super_mario_64_snes_super_fx_game_of_tobi_youtube.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/09/super_mario_64_snes_super_fx_game_of_tobi_youtube.jpg"/></item>
 <item><title>Teenager hacks open Microsoft database with 17 trillion total rows and 25,000 user accounts</title><link>https://www.tomshardware.com/tech-industry/cyber-security/teenager-hacks-open-microsoft-database-with-17-trillion-total-rows-and-25-000-user-accounts-custom-ai-bot-and-lack-of-jwt-token-validation-yields-a-fruitful-trove-earns-usd5-000-bug-bounty</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/cyber-security/teenager-hacks-open-microsoft-database-with-17-trillion-total-rows-and-25-000-user-accounts-custom-ai-bot-and-lack-of-jwt-token-validation-yields-a-fruitful-trove-earns-usd5-000-bug-bounty</guid><pubDate>Mon, 28 Sep 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>Teenager hacks open Microsoft database with 17 trillion total rows and 25,000 user accounts
 
 I guess that purely technically, the JWT token authorization was there.
@@ -2379,6 +2477,13 @@ I guess that purely technically, the JWT token authorization was there.
 (Image credit: Getty Images) Copy link
 
 7 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter What do you get when you cross a bored teenager with free time and excellent computer skills? A hack of a Microsoft database with trillions of records on hand and 25,000 records of employee data, of course. Future lege…</p><p><img src="https://cdn.mos.cms.futurecdn.net/Jz3s87CzobimC9szxWZth-2309-80.jpg" alt="Teenager hacks open Microsoft database with 17 trillion total rows and 25,000 user accounts"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/cyber-security/teenager-hacks-open-microsoft-database-with-17-trillion-total-rows-and-25-000-user-accounts-custom-ai-bot-and-lack-of-jwt-token-validation-yields-a-fruitful-trove-earns-usd5-000-bug-bounty">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/Jz3s87CzobimC9szxWZth-2309-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/Jz3s87CzobimC9szxWZth-2309-80.jpg"/></item>
+<item><title>Using the SNES Super FX Chip to Run Super Mario 64</title><link>https://hackaday.com/2026/09/28/using-the-snes-super-fx-chip-to-run-super-mario-64/</link><guid isPermaLink="true">https://hackaday.com/2026/09/28/using-the-snes-super-fx-chip-to-run-super-mario-64/</guid><pubDate>Mon, 28 Sep 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>Using the SNES Super FX Chip to Run Super Mario 64
+
+Although the Nintendo 64 was the first to bring real 3D graphics to the table in 1996, the Super Nintendo had an ace up its sleeve in the form of the Super FX chip. One major advantage of using car…
+
+Although the Nintendo 64 was the first to bring real 3D graphics to the table in 1996, the Super Nintendo had an ace up its sleeve in the form of the Super FX chip. One major advantage of using cartridge-based games is that you have the option to add wild features such as a 3D graphics chip to your SNES, something that got used to make games like Star Fox, and as [Tobi] demonstrates in a recent video , can also totally run Super Mario 64 if you squint a lot.
+
+While there’s a rumor that Nintendo was looking to release a ‘Super Mario FX’ game f…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/09/super_mario_64_snes_super_fx_game_of_tobi_youtube.jpg" alt="Using the SNES Super FX Chip to Run Super Mario 64"></p>]]></description><source url="https://hackaday.com/2026/09/28/using-the-snes-super-fx-chip-to-run-super-mario-64/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/09/super_mario_64_snes_super_fx_game_of_tobi_youtube.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/09/super_mario_64_snes_super_fx_game_of_tobi_youtube.jpg"/></item>
 <item><title>Google has just teased Android 18, and here’s when we’ll learn more</title><link>https://www.androidauthority.com/android-dev-summit-2026-3716040/</link><guid isPermaLink="true">https://www.androidauthority.com/android-dev-summit-2026-3716040/</guid><pubDate>Mon, 28 Sep 2026 10:53:56 +0000</pubDate><description><![CDATA[<p>Google has just teased Android 18, and here’s when we’ll learn more
 
 Google has dropped its first Android 18 tease, hinting at new powerful graphics features ahead of Android Dev Summit 2026.
@@ -3501,7 +3606,6 @@ Page 1: Sandisk Optimus GX Pro 850P Introduction
 Page 2: Sandisk Optimus GX Pro 850P 2TB Performance Results
 
 The good news is that Sandisk is still putting out SSDs for consumers, and these are not just cheap replacements. The Optimus GX Pro 850P is…</p><p><img src="https://cdn.mos.cms.futurecdn.net/w8JoBmpoyjWj3DTUK3gyhc-2560-80.jpg" alt="Sandisk Optimus GX Pro 850P 2TB SSD review: A PS5 SSD you recognize at a price you don’t"></p>]]></description><source url="https://www.tomshardware.com/pc-components/ssds/sandisk-optimus-gx-pro-850p-2tb-ssd-review">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/w8JoBmpoyjWj3DTUK3gyhc-2560-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/w8JoBmpoyjWj3DTUK3gyhc-2560-80.jpg"/></item>
-<item><title>Affordable power station for camping, emergency power, and more: Oscal PowerMax 1800 SE review</title><link>https://www.notebookcheck.net/Affordable-power-station-for-camping-emergency-power-and-more-Oscal-PowerMax-1800-SE-review.1409212.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/Affordable-power-station-for-camping-emergency-power-and-more-Oscal-PowerMax-1800-SE-review.1409212.0.html</guid><pubDate>Sat, 26 Sep 2026 13:00:00 +0000</pubDate><description><![CDATA[<p>Affordable power station for camping, emergency power, and more: Oscal PowerMax 1800 SE review</p>]]></description><source url="https://www.notebookcheck.net/Affordable-power-station-for-camping-emergency-power-and-more-Oscal-PowerMax-1800-SE-review.1409212.0.html">Notebookcheck</source></item>
 <item><title>Nvidia patents AI chatbot to streamline PC game optimization</title><link>https://www.tomshardware.com/video-games/pc-gaming/an-nvidia-chatbot-could-one-day-help-developers-better-optimize-their-games-patent-filing-show-requests-can-be-made-in-plain-english</link><guid isPermaLink="true">https://www.tomshardware.com/video-games/pc-gaming/an-nvidia-chatbot-could-one-day-help-developers-better-optimize-their-games-patent-filing-show-requests-can-be-made-in-plain-english</guid><pubDate>Sat, 26 Sep 2026 13:00:00 +0000</pubDate><description><![CDATA[<p>Nvidia patents AI chatbot to streamline PC game optimization
 
 Games could be quicker to make and run better when they go on sale.
@@ -3514,6 +3618,7 @@ Games could be quicker to make and run better when they go on sale.
 
 1 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter A newly published patent shows that Nvidia has been working on an AI chatbot that could make it quicker and easier for developers to optimize their PC games. The chatbot would be capable of receiving a plain English request for help before running diagnostics based on the specific issue at hand.
 …</p><p><img src="https://cdn.mos.cms.futurecdn.net/mSegjyKT4pHoDKsKQkQa9j-2000-80.jpg" alt="Nvidia patents AI chatbot to streamline PC game optimization"></p>]]></description><source url="https://www.tomshardware.com/video-games/pc-gaming/an-nvidia-chatbot-could-one-day-help-developers-better-optimize-their-games-patent-filing-show-requests-can-be-made-in-plain-english">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/mSegjyKT4pHoDKsKQkQa9j-2000-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/mSegjyKT4pHoDKsKQkQa9j-2000-80.jpg"/></item>
+<item><title>Affordable power station for camping, emergency power, and more: Oscal PowerMax 1800 SE review</title><link>https://www.notebookcheck.net/Affordable-power-station-for-camping-emergency-power-and-more-Oscal-PowerMax-1800-SE-review.1409212.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/Affordable-power-station-for-camping-emergency-power-and-more-Oscal-PowerMax-1800-SE-review.1409212.0.html</guid><pubDate>Sat, 26 Sep 2026 13:00:00 +0000</pubDate><description><![CDATA[<p>Affordable power station for camping, emergency power, and more: Oscal PowerMax 1800 SE review</p>]]></description><source url="https://www.notebookcheck.net/Affordable-power-station-for-camping-emergency-power-and-more-Oscal-PowerMax-1800-SE-review.1409212.0.html">Notebookcheck</source></item>
 <item><title>Nvidia’s RTX Mega Geometry 2.0 streams ray-tracing geometry into VRAM on demand</title><link>https://www.tomshardware.com/pc-components/gpus/nvidias-rtx-mega-geometry-2-0-streams-ray-tracing-geometry-into-vram-on-demand-nanite-inspired-design-drops-detail-instead-of-dropping-out</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/gpus/nvidias-rtx-mega-geometry-2-0-streams-ray-tracing-geometry-into-vram-on-demand-nanite-inspired-design-drops-detail-instead-of-dropping-out</guid><pubDate>Sat, 26 Sep 2026 12:30:00 +0000</pubDate><description><![CDATA[<p>Nvidia’s RTX Mega Geometry 2.0 streams ray-tracing geometry into VRAM on demand
 
 Nvidia
@@ -3660,13 +3765,6 @@ I turned my old Pixel into a TV box and security camera — and only one was wor
 0 • Add Android Authority on Google: Preferred Source Google Discover My Google Pixel 3 XL’s hardware has aged pretty well. To this day, it can still handle messaging, web browsing, and most of my other basic tasks — just at a noticeably lower speed.
 
 That’s why I wanted to push it beyond what it was designed to do, making it useful in a different way. I know smartphones work best as smartphones, yet giving my e…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/09/old-pixel-security-camera-android-tv-box-project-4-scaled.jpg" alt="I turned my old Pixel into a TV box and security camera — and only one was worth it"></p>]]></description><source url="https://www.androidauthority.com/turned-old-pixel-into-tv-box-security-camera-worth-it-3714104/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/09/old-pixel-security-camera-android-tv-box-project-4-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/09/old-pixel-security-camera-android-tv-box-project-4-scaled.jpg"/></item>
-<item><title>Easy Ways Sink a Hardware Startup</title><link>https://hackaday.com/2026/09/26/easy-ways-sink-a-hardware-startup/</link><guid isPermaLink="true">https://hackaday.com/2026/09/26/easy-ways-sink-a-hardware-startup/</guid><pubDate>Sat, 26 Sep 2026 08:00:46 +0000</pubDate><description><![CDATA[<p>Easy Ways Sink a Hardware Startup
-
-[Ryan Walker] may have written up his observations a few years ago, but the lessons are just as relevant today as they were back then. He shares five easy ways to sink your hardware startup. It&amp;#82…
-
-[Ryan Walker] may have written up his observations a few years ago, but the lessons are just as relevant today as they were back then. He shares five easy ways to sink your hardware startup .
-
-It’s a reminder that while hardware startups are unique, there are basic business realities that still apply because the hardware itself is going to be only one part of a whole. These business fundamentals can be a drag, but it’s worth giving them some attention. But if that’s not your jam, no worries. As [Ryan] experienced, they will explain themselves one way or anoth…</p><p><img src="https://hackaday.com/wp-content/uploads/2017/11/lifeoncontract-featured.jpg" alt="Easy Ways Sink a Hardware Startup"></p>]]></description><source url="https://hackaday.com/2026/09/26/easy-ways-sink-a-hardware-startup/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2017/11/lifeoncontract-featured.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2017/11/lifeoncontract-featured.jpg"/></item>
 <item><title>Easy Ways To Sink a Hardware Startup</title><link>https://hackaday.com/2026/09/26/easy-ways-to-sink-a-hardware-startup/</link><guid isPermaLink="true">https://hackaday.com/2026/09/26/easy-ways-to-sink-a-hardware-startup/</guid><pubDate>Sat, 26 Sep 2026 08:00:46 +0000</pubDate><description><![CDATA[<p>Easy Ways To Sink a Hardware Startup
 
 [Ryan Walker] may have written up his observations a few years ago, but the lessons are just as relevant today as they were back then. He shares five easy ways to sink your hardware startup. It&amp;#82…
@@ -3674,6 +3772,13 @@ It’s a reminder that while hardware startups are unique, there are basic busin
 [Ryan Walker] may have written up his observations a few years ago, but the lessons are just as relevant today as they were back then. He shares five easy ways to sink your hardware startup .
 
 It’s a reminder that while hardware startups are unique, there are basic business realities that still apply because the hardware itself is going to be only one part of a whole. These business fundamentals can be a drag, but it’s worth giving them some attention. But if that’s not your jam, no worries. As [Ryan] experienced, they will explain themselves one way or an…</p><p><img src="https://hackaday.com/wp-content/uploads/2017/11/lifeoncontract-featured.jpg" alt="Easy Ways To Sink a Hardware Startup"></p>]]></description><source url="https://hackaday.com/2026/09/26/easy-ways-to-sink-a-hardware-startup/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2017/11/lifeoncontract-featured.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2017/11/lifeoncontract-featured.jpg"/></item>
+<item><title>Easy Ways Sink a Hardware Startup</title><link>https://hackaday.com/2026/09/26/easy-ways-sink-a-hardware-startup/</link><guid isPermaLink="true">https://hackaday.com/2026/09/26/easy-ways-sink-a-hardware-startup/</guid><pubDate>Sat, 26 Sep 2026 08:00:46 +0000</pubDate><description><![CDATA[<p>Easy Ways Sink a Hardware Startup
+
+[Ryan Walker] may have written up his observations a few years ago, but the lessons are just as relevant today as they were back then. He shares five easy ways to sink your hardware startup. It&amp;#82…
+
+[Ryan Walker] may have written up his observations a few years ago, but the lessons are just as relevant today as they were back then. He shares five easy ways to sink your hardware startup .
+
+It’s a reminder that while hardware startups are unique, there are basic business realities that still apply because the hardware itself is going to be only one part of a whole. These business fundamentals can be a drag, but it’s worth giving them some attention. But if that’s not your jam, no worries. As [Ryan] experienced, they will explain themselves one way or anoth…</p><p><img src="https://hackaday.com/wp-content/uploads/2017/11/lifeoncontract-featured.jpg" alt="Easy Ways Sink a Hardware Startup"></p>]]></description><source url="https://hackaday.com/2026/09/26/easy-ways-sink-a-hardware-startup/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2017/11/lifeoncontract-featured.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2017/11/lifeoncontract-featured.jpg"/></item>
 <item><title>Xteink X4 Classic is on sale for 15% off on Amazon</title><link>https://goodereader.com/blog/electronic-readers/xteink-x4-classic-is-on-sale-for-15-off-on-amazon</link><guid isPermaLink="true">https://goodereader.com/blog/electronic-readers/xteink-x4-classic-is-on-sale-for-15-off-on-amazon</guid><pubDate>Sat, 26 Sep 2026 07:48:06 +0000</pubDate><description><![CDATA[<p>Xteink X4 Classic is on sale for 15% off on Amazon
 
 The Xteink X4 Classic has been discounted by 15% on Amazon for the foreseeable future.
@@ -4682,165 +4787,4 @@ Feb 21st 2026 AMD Seemingly Stops Driver Updates for Ryzen Z1 Extreme Processor 
 Sep 14th 2026 Apple to Launch Gaming Controllers Developed Under &#34;Beats&#34; Brand (11)
 
 Sep 1st 2026 Sony Legally Argues That Digital Game Owners…</p><p><img src="https://www.techpowerup.com/img/GIizRmcdUyBroV92.jpg" alt="Apple and Qualcomm Renew Partnership for 5G Modem Supply"></p>]]></description><source url="https://www.techpowerup.com/353052/apple-and-qualcomm-renew-partnership-for-5g-modem-supply">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/GIizRmcdUyBroV92.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/GIizRmcdUyBroV92.jpg"/></item>
-<item><title>(PR) Forced Physics DCT and Noctua Announce Research Partnership on Micro-channel Array Cooling</title><link>https://www.techpowerup.com/353051/forced-physics-dct-and-noctua-announce-research-partnership-on-micro-channel-array-cooling</link><guid isPermaLink="true">https://www.techpowerup.com/353051/forced-physics-dct-and-noctua-announce-research-partnership-on-micro-channel-array-cooling</guid><pubDate>Thu, 24 Sep 2026 15:05:07 +0000</pubDate><description><![CDATA[<p>(PR) Forced Physics DCT and Noctua Announce Research Partnership on Micro-channel Array Cooling
-
-Noctua, the Austrian manufacturer of premium quality quiet cooling components, and Forced Physics DCT today announced a joint research partnership to explore how Forced Physics&#39; patented JouleForce micro-channel array technology can be brought to desktop PCs and workstations. The collaboration is...
-
-Forced Physics DCT and Noctua Announce Research Partnership on Micro-channel Array Cooling
-
-Aug 18th 2026 Noctua Remains Focused on Performance, No Plans for RGB or Screens in Coolers (29)
-
-Jun 2nd 2026 Noctua Shows Off NT-CP1 Carbon Nanotube Thermal Pad Developed by Carbice, Prototype SFF AM5 Cooler (13)
-
-Aug 10th 2026 Noctua Reveals Inaccuracies in PC Case Cooler Height Specifications (13)
-
-May 1…</p><p><img src="https://www.techpowerup.com/img/ucxM9tkjD3AW3gVU.jpg" alt="(PR) Forced Physics DCT and Noctua Announce Research Partnership on Micro-channel Array Cooling"></p>]]></description><source url="https://www.techpowerup.com/353051/forced-physics-dct-and-noctua-announce-research-partnership-on-micro-channel-array-cooling">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/ucxM9tkjD3AW3gVU.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/ucxM9tkjD3AW3gVU.jpg"/></item>
-<item><title>Capcom is bringing Ace Attorney to VR</title><link>https://www.kitguru.net/gaming/matthew-wilson/capcom-is-bringing-ace-attorney-to-vr/</link><guid isPermaLink="true">https://www.kitguru.net/gaming/matthew-wilson/capcom-is-bringing-ace-attorney-to-vr/</guid><pubDate>Thu, 24 Sep 2026 15:00:24 +0000</pubDate><description><![CDATA[<p>Capcom is bringing Ace Attorney to VR
-
-Over the past few years, Capcom has been busy bringing all of the Ace Attorney games to modern consoles and PC, while also finally bringing some previously Japan-only games to the rest of the world. Now, Capcom is doing something a little different - a VR remake. Phoenix Wright Ace Attorney: Dual Destinies first came
-
-Capcom is bringing Ace Attorney to VR
-
-Matthew Wilson 23 hours ago Software &amp; Gaming , Virtual Reality
-
-Over the past few years, Capcom has been busy bringing all of the Ace Attorney games to modern consoles and PC, while also finally bringing some previously Japan-only games to the rest of the world. Now, Capcom is doing something a little different – a VR remake. Phoenix Wright Ace Attorney: Dual Destinies first came out back in 2013. …</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/09/ace-attorney-vr-732x330.png" alt="Capcom is bringing Ace Attorney to VR"></p>]]></description><source url="https://www.kitguru.net/gaming/matthew-wilson/capcom-is-bringing-ace-attorney-to-vr/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/09/ace-attorney-vr-732x330.png" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/09/ace-attorney-vr-732x330.png"/></item>
-<item><title>This Hisense ultra-short-throw 4K projector just hit its lowest price ever on Amazon</title><link>https://www.androidauthority.com/hisense-pl2-ust-laser-projector-deal-3715149/</link><guid isPermaLink="true">https://www.androidauthority.com/hisense-pl2-ust-laser-projector-deal-3715149/</guid><pubDate>Thu, 24 Sep 2026 14:41:32 +0000</pubDate><description><![CDATA[<p>This Hisense ultra-short-throw 4K projector just hit its lowest price ever on Amazon
-
-Hisense PL2 drops to a record-low $1,499 on Amazon, bringing 4K ultra-short-throw laser projection to more living rooms.
-
-Affiliate links on Android Authority may earn us a commission. Learn more.
-
-This Hisense ultra-short-throw 4K projector just hit its lowest price ever on Amazon
-
-0 • Amazon Add Android Authority on Google: Preferred Source Google Discover The Hisense PL2 is built for big-screen movie nights without needing a huge room. This ultra-short-throw home theater laser projector can sit very close to the wall and still throw an image from about 80 to 150 inches, and there’s a strong Amazon deal on it right now, too.
-
-Hisense positions the PL2 as an affordable entry point to premium laser home t…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/09/Hisense-PL2-Ultra-Short-Throw-Home-Theater-Laser-Projector-Press-Image.jpg" alt="This Hisense ultra-short-throw 4K projector just hit its lowest price ever on Amazon"></p>]]></description><source url="https://www.androidauthority.com/hisense-pl2-ust-laser-projector-deal-3715149/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/09/Hisense-PL2-Ultra-Short-Throw-Home-Theater-Laser-Projector-Press-Image.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/09/Hisense-PL2-Ultra-Short-Throw-Home-Theater-Laser-Projector-Press-Image.jpg"/></item>
-<item><title>Japanese used bookstores see 5x sales surge as books are being bought by the ton, one 50-ton order sent to the US for AI scanning and destruction</title><link>https://www.tomshardware.com/tech-industry/artificial-intelligence/japanese-used-bookstores-see-5x-sales-surge-as-books-are-being-bought-by-the-ton-one-50-ton-order-sent-to-the-us-for-ai-scanning-and-destruction-multitude-of-suspicious-bulk-buys-thought-to-end-up-in-foreign-ai-scan-and-shred-facilities</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/artificial-intelligence/japanese-used-bookstores-see-5x-sales-surge-as-books-are-being-bought-by-the-ton-one-50-ton-order-sent-to-the-us-for-ai-scanning-and-destruction-multitude-of-suspicious-bulk-buys-thought-to-end-up-in-foreign-ai-scan-and-shred-facilities</guid><pubDate>Thu, 24 Sep 2026 14:35:12 +0000</pubDate><description><![CDATA[<p>Japanese used bookstores see 5x sales surge as books are being bought by the ton, one 50-ton order sent to the US for AI scanning and destruction
-
-Short-term boom could lead to a longer-term drought and removal of important works from circulation.
-
-Japanese used bookstores see 5x sales surge as books are being bought by the ton, one 50-ton order sent to the US for AI scanning and destruction — multitude of suspicious bulk buys thought to end up in foreign AI scan and shred facilities
-
-Short-term boom could lead to a longer-term drought and removal of important works from circulation.
-
-(Image credit: Getty Images) Copy link
-
-10 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter Bookstores in Japan are enjoying a boom in sales right …</p><p><img src="https://cdn.mos.cms.futurecdn.net/sGEL4U7jbBtayo2bSS8YQd-1920-80.jpg" alt="Japanese used bookstores see 5x sales surge as books are being bought by the ton, one 50-ton order sent to the US for AI scanning and destruction"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/artificial-intelligence/japanese-used-bookstores-see-5x-sales-surge-as-books-are-being-bought-by-the-ton-one-50-ton-order-sent-to-the-us-for-ai-scanning-and-destruction-multitude-of-suspicious-bulk-buys-thought-to-end-up-in-foreign-ai-scan-and-shred-facilities">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/sGEL4U7jbBtayo2bSS8YQd-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/sGEL4U7jbBtayo2bSS8YQd-1920-80.jpg"/></item>
-<item><title>Samsung’s clip-on Galaxy Buds On renders surface in major new leak</title><link>https://www.androidauthority.com/samsung-galaxy-buds-on-new-renders-3715114/</link><guid isPermaLink="true">https://www.androidauthority.com/samsung-galaxy-buds-on-new-renders-3715114/</guid><pubDate>Thu, 24 Sep 2026 14:18:06 +0000</pubDate><description><![CDATA[<p>Samsung’s clip-on Galaxy Buds On renders surface in major new leak
-
-The unannounced Galaxy Buds On has leaked once again, this time revealing to new images that give use our best look yet.
-
-Affiliate links on Android Authority may earn us a commission. Learn more.
-
-Samsung&#39;s clip-on Galaxy Buds On renders surface in major new leak
-
-0 • Paul Jones / Android Authority Add Android Authority on Google: Preferred Source Google Discover TL;DR A leak has provided new images of Samsung’s upcoming clip-on earbuds.
-
-The leak further supports claims that the name won’t be Galaxy Buds Able, but rather Galaxy Buds On.
-
-Since April, we’ve known that Samsung has been working on a new audio product. Strings of code that Android Authority discovered in the Galaxy Buds app referred to the device as the “Gal…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/02/Galaxy-Buds-4-Pro.-White-on-the-corner-of-a-table.jpg" alt="Samsung’s clip-on Galaxy Buds On renders surface in major new leak"></p>]]></description><source url="https://www.androidauthority.com/samsung-galaxy-buds-on-new-renders-3715114/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/02/Galaxy-Buds-4-Pro.-White-on-the-corner-of-a-table.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/02/Galaxy-Buds-4-Pro.-White-on-the-corner-of-a-table.jpg"/></item>
-<item><title>Privacy Display on the Galaxy S27 Ultra could pick up this handy new trick</title><link>https://www.androidauthority.com/samsung-galaxy-s27-ultra-split-screen-privacy-display-3715094/</link><guid isPermaLink="true">https://www.androidauthority.com/samsung-galaxy-s27-ultra-split-screen-privacy-display-3715094/</guid><pubDate>Thu, 24 Sep 2026 14:08:43 +0000</pubDate><description><![CDATA[<p>Privacy Display on the Galaxy S27 Ultra could pick up this handy new trick
-
-According to a prominent source of leaks, the upcoming Galaxy S27 Ultra could borrow a key Privacy Display feature from this flagship.
-
-Affiliate links on Android Authority may earn us a commission. Learn more.
-
-Privacy Display on the Galaxy S27 Ultra could pick up this handy new trick
-
-0 • Stephen Radochia / Android Authority Add Android Authority on Google: Preferred Source Google Discover TL;DR Prominent leaker Ice Universe claims the Galaxy S27 Ultra will introduce a split-screen Privacy Display feature, as seen on the Xiaomi 18 Pro series.
-
-This feature can cleverly dim just one app window in split-screen view, even when it’s resized.
-
-While Xiaomi appears to have more features tied to this privacy feature, th…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-Privacy-Display-settings-scaled.jpg" alt="Privacy Display on the Galaxy S27 Ultra could pick up this handy new trick"></p>]]></description><source url="https://www.androidauthority.com/samsung-galaxy-s27-ultra-split-screen-privacy-display-3715094/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-Privacy-Display-settings-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-Privacy-Display-settings-scaled.jpg"/></item>
-<item><title>DirectHop Shows Tiny Robots Can Make Big Jumps</title><link>https://www.hackster.io/news/directhop-shows-tiny-robots-can-make-big-jumps-fb434ec1d68d</link><guid isPermaLink="true">https://www.hackster.io/news/directhop-shows-tiny-robots-can-make-big-jumps-fb434ec1d68d</guid><pubDate>Thu, 24 Sep 2026 14:05:20 +0000</pubDate><description><![CDATA[<p>DirectHop Shows Tiny Robots Can Make Big Jumps</p>]]></description><source url="https://www.hackster.io/news/directhop-shows-tiny-robots-can-make-big-jumps-fb434ec1d68d">Hackster.io</source></item>
-<item><title>Quake Champions update removes all microtransactions and F2P elements</title><link>https://www.kitguru.net/gaming/matthew-wilson/quake-champions-update-removes-all-microtransactions-and-f2p-elements/</link><guid isPermaLink="true">https://www.kitguru.net/gaming/matthew-wilson/quake-champions-update-removes-all-microtransactions-and-f2p-elements/</guid><pubDate>Thu, 24 Sep 2026 14:00:50 +0000</pubDate><description><![CDATA[<p>Quake Champions update removes all microtransactions and F2P elements
-
-Quake Champions first launched way back in 2017, before going free-to-play in 2018. Now, eight years on, Quake Champions is no longer a free-to-play game.
-
-Quake Champions update removes all microtransactions and F2P elements
-
-Matthew Wilson 24 hours ago Featured Tech News , Software &amp; Gaming
-
-Quake Champions first launched way back in 2017, before going free-to-play in 2018. Now, eight years on, Quake Champions is no longer a free-to-play game. A recent update to Quake Champions has removed its free-to-play status. Moving forward, new players who have never added the game to their account will need to pay £8.99 first. That means anyone who has already played the game on PC or console won&#39;t have to now suddenly pay to c…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2016/06/quakechampions-660x330.jpg" alt="Quake Champions update removes all microtransactions and F2P elements"></p>]]></description><source url="https://www.kitguru.net/gaming/matthew-wilson/quake-champions-update-removes-all-microtransactions-and-f2p-elements/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2016/06/quakechampions-660x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2016/06/quakechampions-660x330.jpg"/></item>
-<item><title>Logitech refreshes legendary Blue Yeti microphone with 3D voice tracking and AI denoising</title><link>https://www.tomshardware.com/peripherals/microphones/logitech-refreshes-legendary-blue-yeti-microphone-with-3d-voice-tracking-and-ai-denoising-usd160-blue-yeti-2-sequel-features-real-time-auto-gain-and-color-mascot-screen</link><guid isPermaLink="true">https://www.tomshardware.com/peripherals/microphones/logitech-refreshes-legendary-blue-yeti-microphone-with-3d-voice-tracking-and-ai-denoising-usd160-blue-yeti-2-sequel-features-real-time-auto-gain-and-color-mascot-screen</guid><pubDate>Thu, 24 Sep 2026 14:00:00 +0000</pubDate><description><![CDATA[<p>Logitech refreshes legendary Blue Yeti microphone with 3D voice tracking and AI denoising
-
-A modern successor to the Blue Yeti.
-
-Logitech refreshes legendary Blue Yeti microphone with 3D voice tracking and AI denoising — $160 Blue Yeti 2 sequel features real-time auto gain and color mascot screen
-
-A modern successor to the Blue Yeti.
-
-(Image credit: Logitech) Copy link
-
-2 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter The Blue Yeti launched back in 2009 and went on to become one of the most popular USB microphones for creators, podcasters, and streamers. Now, eight years after acquiring Blue Microphones, Logitech is finally launching its successor. The new Yeti 2 arrives as a more modern version with a cleaner design and featur…</p><p><img src="https://cdn.mos.cms.futurecdn.net/rzUXEmUpCTLBZQSwXwkxAA-1920-80.jpg" alt="Logitech refreshes legendary Blue Yeti microphone with 3D voice tracking and AI denoising"></p>]]></description><source url="https://www.tomshardware.com/peripherals/microphones/logitech-refreshes-legendary-blue-yeti-microphone-with-3d-voice-tracking-and-ai-denoising-usd160-blue-yeti-2-sequel-features-real-time-auto-gain-and-color-mascot-screen">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/rzUXEmUpCTLBZQSwXwkxAA-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/rzUXEmUpCTLBZQSwXwkxAA-1920-80.jpg"/></item>
-<item><title>Meta Is Reportedly Testing a Human Concierge for Its Muse AI Agent</title><link>https://www.techpowerup.com/353049/meta-is-reportedly-testing-a-human-concierge-for-its-muse-ai-agent</link><guid isPermaLink="true">https://www.techpowerup.com/353049/meta-is-reportedly-testing-a-human-concierge-for-its-muse-ai-agent</guid><pubDate>Thu, 24 Sep 2026 13:52:07 +0000</pubDate><description><![CDATA[<p>Meta Is Reportedly Testing a Human Concierge for Its Muse AI Agent
-
-Reuters reports that Meta has been testing a &#34;human concierge&#34; for Muse, its new personal AI agent, where human contractors handle some of the phone calls Muse places for users. The report is based on internal company posts seen by Reuters. Muse launched on September 8, and its calling feature...
-
-Meta Is Reportedly Testing a Human Concierge for Its Muse AI Agent
-
-Sep 13th 2026 AI Firms Are Reportedly Buying NVIDIA RTX 5090 GPUs in Bulk for Server Use (110)
-
-Jul 27th 2026 NVIDIA RTX Spark Laptop Found on Roadside Gets Reviewed Before Official Launch (22)
-
-Jun 25th 2026 AMD&#39;s FSR 4.1 Performance on RDNA 3 Notably Slower than FSR 3.1 (189)
-
-Feb 6th 2026 NVIDIA to Use SK hynix and Samsung HBM4 for &#34;Vera Rubin&#34; Without Micron …</p><p><img src="https://www.techpowerup.com/img/aWqdKtVgCgRj13hs.jpg" alt="Meta Is Reportedly Testing a Human Concierge for Its Muse AI Agent"></p>]]></description><source url="https://www.techpowerup.com/353049/meta-is-reportedly-testing-a-human-concierge-for-its-muse-ai-agent">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/aWqdKtVgCgRj13hs.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/aWqdKtVgCgRj13hs.jpg"/></item>
-<item><title>Save big on this vivid 27-inch OLED monitor with fast 240Hz refresh rate</title><link>https://www.tomshardware.com/pc-components/save-a-solid-usd150-on-this-vivid-27-inch-msi-oled-monitor-with-fast-240hz-refresh-rate-now-usd359-this-mag-qd-oled-model-is-close-to-its-lowest-price-ever-on-newegg</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/save-a-solid-usd150-on-this-vivid-27-inch-msi-oled-monitor-with-fast-240hz-refresh-rate-now-usd359-this-mag-qd-oled-model-is-close-to-its-lowest-price-ever-on-newegg</guid><pubDate>Thu, 24 Sep 2026 10:20:00 +0000</pubDate><description><![CDATA[<p>Save big on this vivid 27-inch OLED monitor with fast 240Hz refresh rate
-
-Grab this awesome MSI 1440p 240Hz QD-OLED gaming monitor for under $360 before it
-
-Save a solid $150 on this vivid 27-inch MSI OLED monitor with fast 240Hz refresh rate — now $359, this MAG QD-OLED model is close to its lowest price ever on Newegg
-
-Grab this awesome MSI 1440p 240Hz QD-OLED gaming monitor for under $360 before it&#39;s gone
-
-(Image credit: Future) Copy link
-
-1 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter If you’re one of the many consumers who are still struggling to find ways to spend your hard-earned money in the PC space, we found a deal that has nothing to do with ridiculously priced components like RAM, video cards, and storage, but sti…</p><p><img src="https://cdn.mos.cms.futurecdn.net/NkBXTS9oXqjQdcsmDCwoG6-1728-80.png" alt="Save big on this vivid 27-inch OLED monitor with fast 240Hz refresh rate"></p>]]></description><source url="https://www.tomshardware.com/pc-components/save-a-solid-usd150-on-this-vivid-27-inch-msi-oled-monitor-with-fast-240hz-refresh-rate-now-usd359-this-mag-qd-oled-model-is-close-to-its-lowest-price-ever-on-newegg">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/NkBXTS9oXqjQdcsmDCwoG6-1728-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/NkBXTS9oXqjQdcsmDCwoG6-1728-80.png"/></item>
-<item><title>Spotify just gave Meta Muse the keys to your music</title><link>https://www.androidauthority.com/spotify-meta-muse-integration-3714958/</link><guid isPermaLink="true">https://www.androidauthority.com/spotify-meta-muse-integration-3714958/</guid><pubDate>Thu, 24 Sep 2026 10:17:56 +0000</pubDate><description><![CDATA[<p>Spotify just gave Meta Muse the keys to your music
-
-Spotify now connects with Meta Muse, letting the AI agent play music, create playlists, save tracks, and schedule listening around your day.
-
-Affiliate links on Android Authority may earn us a commission. Learn more.
-
-Spotify just gave Meta Muse the keys to your music
-
-0 • Andy Walker / Android Authority Add Android Authority on Google: Preferred Source Google Discover TL;DR Spotify now works with Meta Muse, letting users control playback, find content, save tracks, and build playlists through conversation.
-
-Muse can also use context from calendars and schedules to automatically start the right music or podcast at the right time.
-
-Spotify is the first major music-streaming service to join Muse, which already connects with a growing list o…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/02/spotify-android-app-swipe-to-add-to-queue-gesture-1.jpg" alt="Spotify just gave Meta Muse the keys to your music"></p>]]></description><source url="https://www.androidauthority.com/spotify-meta-muse-integration-3714958/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/02/spotify-android-app-swipe-to-add-to-queue-gesture-1.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/02/spotify-android-app-swipe-to-add-to-queue-gesture-1.jpg"/></item>
-<item><title>Your Android phone may no longer stop you from walking into a pole</title><link>https://www.androidauthority.com/google-digital-wellbeing-heads-up-deprecation-apk-teardown-3714971/</link><guid isPermaLink="true">https://www.androidauthority.com/google-digital-wellbeing-heads-up-deprecation-apk-teardown-3714971/</guid><pubDate>Thu, 24 Sep 2026 10:11:38 +0000</pubDate><description><![CDATA[<p>Your Android phone may no longer stop you from walking into a pole
-
-Google is preparing to remove the Heads Up pedestrian safety feature from Digital Wellbeing, according to code found in a recent beta.
-
-Affiliate links on Android Authority may earn us a commission. Learn more.
-
-Your Android phone may no longer stop you from walking into a pole
-
-0 • Roydon Cerejo / Android Authority Add Android Authority on Google: Preferred Source Google Discover TL;DR Google is preparing to deprecate the “Heads Up” pedestrian safety feature in Digital Wellbeing.
-
-Code strings in the latest Digital Wellbeing beta app reveal an impending in-app alert warning users that walking detection will be removed soon.
-
-Launched in 2021, Heads Up is an opt-in feature that uses motion sensors and location data to warn…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/Digital-Wellbeing-Heads-Up-Pixel-10-Pro-XL.jpg" alt="Your Android phone may no longer stop you from walking into a pole"></p>]]></description><source url="https://www.androidauthority.com/google-digital-wellbeing-heads-up-deprecation-apk-teardown-3714971/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/Digital-Wellbeing-Heads-Up-Pixel-10-Pro-XL.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/Digital-Wellbeing-Heads-Up-Pixel-10-Pro-XL.jpg"/></item>
-<item><title>5 reasons I’m ready to ditch my Pixel 11 Pro for the Motorola Signature 27</title><link>https://www.androidauthority.com/motorola-signature-27-better-than-pixel-11-pro-3714602/</link><guid isPermaLink="true">https://www.androidauthority.com/motorola-signature-27-better-than-pixel-11-pro-3714602/</guid><pubDate>Thu, 24 Sep 2026 10:00:59 +0000</pubDate><description><![CDATA[<p>5 reasons I’m ready to ditch my Pixel 11 Pro for the Motorola Signature 27
-
-The Motorola Signature 27 is official. It&#39;s coming to the US later this year, and it&#39;s making me second-guess my Pixel 11 Pro.
-
-Affiliate links on Android Authority may earn us a commission. Learn more.
-
-5 reasons I&#39;m ready to ditch my Pixel 11 Pro for the Motorola Signature 27
-
-0 • Motorola Add Android Authority on Google: Preferred Source Google Discover I’ve been absolutely smitten with the Pixel 11 Pro . Google’s 2026 flagship has been my daily driver for over a month now, and pretty much everything is clicking for me — be it the cameras, design, software, and even performance.
-
-I could see myself using the Pixel 11 Pro for a while to come, but suddenly, I’m questioning if that’ll actually happen. And it’s all …</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/09/motorola-signature-27-render-hero-scaled.jpg" alt="5 reasons I’m ready to ditch my Pixel 11 Pro for the Motorola Signature 27"></p>]]></description><source url="https://www.androidauthority.com/motorola-signature-27-better-than-pixel-11-pro-3714602/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/09/motorola-signature-27-render-hero-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/09/motorola-signature-27-render-hero-scaled.jpg"/></item>
-<item><title>The Pixel 11 is a bigger upgrade than I expected, but it still left me wanting more</title><link>https://www.androidauthority.com/google-pixel-11-review-3709371/</link><guid isPermaLink="true">https://www.androidauthority.com/google-pixel-11-review-3709371/</guid><pubDate>Thu, 24 Sep 2026 10:00:03 +0000</pubDate><description><![CDATA[<p>The Pixel 11 is a bigger upgrade than I expected, but it still left me wanting more
-
-Google&#39;s Pixel 11 is full of upgrades, including a fresh design, a new main camera, and faster charging. It still leaves me wanting more.
-
-Affiliate links on Android Authority may earn us a commission. Learn more.
-
-Android phones Brady Snyder / Android Authority The Pixel 11 is a bigger upgrade than I expected, but it still left me wanting more
-
-The Pixel 11 delivers Android 17 at its best while offering double the base storage of its predecessor. The Google Tensor G6 lags behind the competition, but the camera system produces incredible photos for the price, highlighted by a larger 48MP primary shooter. The Pixel 11 is the best value model in the entire series, but with a higher price than ever and some f…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-10-scaled.jpg" alt="The Pixel 11 is a bigger upgrade than I expected, but it still left me wanting more"></p>]]></description><source url="https://www.androidauthority.com/google-pixel-11-review-3709371/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-10-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-10-scaled.jpg"/></item>
 </channel></rss>
