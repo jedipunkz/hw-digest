@@ -1,6 +1,211 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sun, 04 Oct 2026 02:38:26 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sun, 04 Oct 2026 09:46:25 +0000</lastBuildDate>
+<item><title>GTA 6 leak claims explode as multiple &#39;CyberLeek full build&#39; downloads appear online</title><link>https://www.tweaktown.com/rss/click/news/113880/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113880/?c=news-mf</guid><pubDate>Sat, 03 Oct 2026 17:38:09 +0000</pubDate><description><![CDATA[<p>GTA 6 leak claims explode as multiple &#39;CyberLeek full build&#39; downloads appear online</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113880/?c=news-mf">TweakTown</source></item>
+<item><title>Marvel&#39;s Wolverine が PS5 エミュレータ KytyPS5 で 20 FPS を達成、最初の起動からわずか数日</title><link>https://www.techpowerup.com/353364/marvels-wolverine-hits-20-fps-on-ps5-emulator-kytyps5-just-days-after-first-boot</link><guid isPermaLink="true">https://www.techpowerup.com/353364/marvels-wolverine-hits-20-fps-on-ps5-emulator-kytyps5-just-days-after-first-boot</guid><pubDate>Sat, 03 Oct 2026 17:33:16 +0000</pubDate><description><![CDATA[<p>Marvel&#39;s Wolverine が PS5 エミュレータ KytyPS5 で 20 FPS を達成、最初の起動からわずか数日
+
+Marvel&#39;s Wolverine は、最初にメイン メニューを約 2 FPS で起動してからわずか数日後に、KytyPS5 エミュレータ上で現在 20 FPS に達しています。 X ユーザーの @MizoChris は、ローガンがほぼ同じフレーム レートで動き回る 10 秒のクリップを共有しました。その数値は、YouTuber による Unreal Gaming PC による長いテストと一致しています...
+
+Marvel&#39;s Wolverine が PS5 エミュレータ KytyPS5 で 20 FPS を達成、最初の起動からわずか数日
+
+2026 年 8 月 30 日 GTA 6 の公開後に PS5 Pro の在庫がなくなり、価格は 1,300 ドルに達しました (24)
+
+2026 年 4 月 28 日 Linux が PlayStation 5 で正式に利用可能になりました (22)
+
+2026 年 5 月 18 日 インサイダーは、ソニーが PC ポートを廃止することを認めています: 「PC に登場するシングル プレーヤー ゲームは少なくなるでしょう。」 (135)
+
+2026 年 9 月 6 日 PS5 バージョンの GTA 5 が PC 上で KytyPS5 エミュレーター経由で最大 60 FPS でプレイ可能 (25)
+
+2026 年 9 月 28 日 PS5 エミュレータ SharpEmu が 17 ゲームでゲームプレイに到達、そのうち 8 は 60 FPS で実行 (19)
+
+2026 年 3 月 6 日 PlayStation 6 のリークヒント 4K 120 FPS は「ほとんどのゲームで」PS5 の 6 ～ 12 倍の RT パフォーマンスを実現 (116)
+
+2026 年 9 月 15 日 「Slop Kiddies」が重要なエクスプロイトで利益を得たため、PS5 Linux 開発がプロジェクトを中止 (2…</p><p><img src="https://www.techpowerup.com/img/nWrS3S7BUdJmbBrz.jpg" alt="Marvel&#39;s Wolverine が PS5 エミュレータ KytyPS5 で 20 FPS を達成、最初の起動からわずか数日"></p>]]></description><source url="https://www.techpowerup.com/353364/marvels-wolverine-hits-20-fps-on-ps5-emulator-kytyps5-just-days-after-first-boot">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/nWrS3S7BUdJmbBrz.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/nWrS3S7BUdJmbBrz.jpg"/></item>
+<item><title>ESP32、それ自体が SDR</title><link>https://hackaday.com/2026/10/03/the-esp32-an-sdr-in-itself/</link><guid isPermaLink="true">https://hackaday.com/2026/10/03/the-esp32-an-sdr-in-itself/</guid><pubDate>Sat, 03 Oct 2026 17:00:31 +0000</pubDate><description><![CDATA[<p>ESP32、それ自体が SDR
+
+おそらくすべてのソフトウェア無線 (SDR) 受信機の中で最も有名なのは、文書化されていない機能が見つかったデジタル TV 受信機である RTL-SDR です。おそらく他の無線対応チップも…
+
+おそらくすべてのソフトウェア無線 (SDR) 受信機の中で最も有名なのは、文書化されていない機能が見つかったデジタル TV 受信機である RTL-SDR です。おそらく、他の無線対応チップにも同様の文書化されていない機能があるのではないでしょうか? ESP32 ファミリの一部のメンバーの場合はそうなるようです。これは、Espargos と h0m3us3r という名前の Reddit ユーザーによって 2 か所で独立して発見されました。
+
+何が起こっているかというと、文書化されていないモードでは WiFi モデムの前に I/Q ストリームがタップされ、これが外部コンピューター上の SDR ソフトウェアによって読み取られて処理される可能性があります。文書化されていないモードは、初期の Tensilica ハードウェア以降の ESP32 チップで見られるため、低電力 Bluetooth のみのチップや無線を搭載していない P4 は動作しません。残念ながら、これは受信側でのみ可能であり、問​​題のマイクロコントローラーに応じて 2.4 GHz 帯域と 5 GHz 帯域の両方がサポートされています。
+
+これは RTL-SDR で得られた汎用 SDR とは言えませんが、それでも活用できる用途はたくさんあります。誰かが同じチップ上に SDR のソフトウェア側を実装できるかどうかに興味がありますが、それは彼らの能力を超えているのではないかと推測しています。いずれにせよ、私たちはコミュニティがこの新しく発見された知識を使って何をするのかを楽しみにしています。</p><p><img src="https://hackaday.com/wp-content/uploads/2021/07/esp32-linux-featured.jpg" alt="ESP32、それ自体が SDR"></p>]]></description><source url="https://hackaday.com/2026/10/03/the-esp32-an-sdr-in-itself/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2021/07/esp32-linux-featured.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2021/07/esp32-linux-featured.jpg"/></item>
+<item><title>7 年前の Nvidia Shield TV Pro、AI メモリ不足により衝撃的な 50% 値上げ</title><link>https://www.tomshardware.com/service-providers/streaming/7-year-old-nvidia-shield-tv-pro-gets-shocking-50-percent-price-hike-driven-by-ai-memory-shortage-chipmaker-axes-entry-level-shield-tv-as-component-prices-soar</link><guid isPermaLink="true">https://www.tomshardware.com/service-providers/streaming/7-year-old-nvidia-shield-tv-pro-gets-shocking-50-percent-price-hike-driven-by-ai-memory-shortage-chipmaker-axes-entry-level-shield-tv-as-component-prices-soar</guid><pubDate>Sat, 03 Oct 2026 16:59:51 +0000</pubDate><description><![CDATA[<p>7 年前の Nvidia Shield TV Pro、AI メモリ不足により衝撃的な 50% 値上げ
+
+古いハードウェア、新しい価格。
+
+7 年前の Nvidia Shield TV Pro、AI メモリ不足により衝撃的な 50% 値上げ — 部品価格の高騰を受け、チップメーカーはエントリーレベルの Shield TV に軸足を置く
+
+(画像クレジット: Nvidia) リンクをコピー
+
+2 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する Nvidia は、Shield TV Pro の価格を当初の発売価格 199.99 ドルから 299.99 ドルに値上げしました。これにより、長期にわたって稼働している Android TV ストリーミング デバイスは、ハードウェアの大幅な更新がないにもかかわらず、100 ドル高価になります。新しい価格は Nvidia の Web サイトに掲載されており、同社はこの値上げの原因を AI によるコンポーネントコストの上昇のせいだとしている。
+
+AI データセンターが世界のメモリとストレージの供給を飲み込んでいる
+
+サムスン、AI データセンター向けの 3 つの次世代メモリ技術を発表
+
+DRAM の未来: DDR5 から将来の IC まで
+
+DRAM価格操作訴訟の歴史の裏側
+
+Nvidia の広報担当者は Ars Technica に対し、「10 月 2 日より、SHIELD Pro の価格は 299 ドルになります。メモリを含むコンポーネントのコストは業界全体で大幅に上昇しています。」と語った。 Shield TV Pro の価格引き上げは、標準の Nvidia Shield TV の廃止に伴い行われます。 Nvidiaはベースモデルの生産を中止し、同社が提供するShieldブランドのストリーミングデバイスはShield TV Proのみとなったと伝えられている。
+
+Shield TV Pro は 7 年前のものですが、基本的な TV ストリーミング ボックス以上の役割を果…</p><p><img src="https://cdn.mos.cms.futurecdn.net/o6Rt8XTz7gaqvL46TZcxzg-1820-80.jpg" alt="7 年前の Nvidia Shield TV Pro、AI メモリ不足により衝撃的な 50% 値上げ"></p>]]></description><source url="https://www.tomshardware.com/service-providers/streaming/7-year-old-nvidia-shield-tv-pro-gets-shocking-50-percent-price-hike-driven-by-ai-memory-shortage-chipmaker-axes-entry-level-shield-tv-as-component-prices-soar">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/o6Rt8XTz7gaqvL46TZcxzg-1820-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/o6Rt8XTz7gaqvL46TZcxzg-1820-80.jpg"/></item>
+<item><title>PCB プロトタイピング: EasyEDA と JLCPCB を使用した設計から PCBA まで</title><link>https://www.techpowerup.com/353085/pcb-prototyping-from-design-to-pcba-with-easyeda-and-jlcpcb</link><guid isPermaLink="true">https://www.techpowerup.com/353085/pcb-prototyping-from-design-to-pcba-with-easyeda-and-jlcpcb</guid><pubDate>Sat, 03 Oct 2026 14:55:54 +0000</pubDate><description><![CDATA[<p>PCB プロトタイピング: EasyEDA と JLCPCB を使用した設計から PCBA まで
+
+EasyEDA と JLCPCB が PCB 設計、コンポーネント調達、DFM、製造、および PCBA を接続してハードウェア プロトタイピングを簡素化する方法を学びます。現代の電子製品では、より小型、高密度、より複雑な PCB がますます求められています。高速インターフェース、多層基板、HDI 構造、リジッドフレックス設計など...
+
+2026 年 10 月 3 日土曜日 PCB プロトタイピング: EasyEDA と JLCPCB を使用した設計から PCBA まで
+
+Intel Arc および iGPU 101.9034 ベータ版
+
+05:37 by Drtprt A-Class の安定した FPS ゲーム ( 50 )
+
+05:34 by er557 Windows 11 の一般的なディスカッション ( 7564 )
+
+05:24 by Drtprt AIDA 64 のキャッシュとメモリのベンチマークをここで共有してください ( 3220 )
+
+05:02 by RetroGabe あなたは、システムに関する心配な問題を事前に予見していますか? ( 9 )
+
+04:18 by kondamin AIの減速を求める大手テクノロジー企業 ( 65 )
+
+04:14 by Kwadratowicz 何をプレイしていますか? ( 26007 )
+
+03:16 by Ruru すべてのファイナルファンタジー ディスカッション スレッド ( 101 )
+
+03:09 by Blazko79 最後にゲームを購入しましたか? ( 1351 )
+
+02:11 by Frick i3-2120 はまだ機能します。 ( 27 )
+
+22:41 by lexluthermiester Microsoft は Windows 11 の改良を約束しました。それを感じていますか? ( 215 )
+
+2026 年 10 月 1 日 Gears of War: E-Day パフォーマンス ベンチマ…</p><p><img src="https://www.techpowerup.com/img/pqGbG22bYjSICXIC.jpg" alt="PCB プロトタイピング: EasyEDA と JLCPCB を使用した設計から PCBA まで"></p>]]></description><source url="https://www.techpowerup.com/353085/pcb-prototyping-from-design-to-pcba-with-easyeda-and-jlcpcb">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/pqGbG22bYjSICXIC.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/pqGbG22bYjSICXIC.jpg"/></item>
+<item><title>イーロン・マスク氏、Terafabチップ製造協力に関するTSMCとの協議を認める</title><link>https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-confirms-discussions-with-tsmc-about-terafab-chipmaking-collaboration-intel-is-the-only-other-named-partner-terafab-to-exclusively-supply-tesla-spacex-and-xai</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-confirms-discussions-with-tsmc-about-terafab-chipmaking-collaboration-intel-is-the-only-other-named-partner-terafab-to-exclusively-supply-tesla-spacex-and-xai</guid><pubDate>Sat, 03 Oct 2026 14:50:50 +0000</pubDate><description><![CDATA[<p>イーロン・マスク氏、Terafabチップ製造協力に関するTSMCとの協議を認める
+
+マスク氏は会談を認めたが、TSMCは沈黙を保っている。
+
+イーロン・マスク氏、Terafabのチップ製造協力についてTSMCとの協議を認めた - インテルはTerafab以外にTesla、SpaceX、xAIに独占的に供給する唯一の指定パートナーである
+
+マスク氏は会談を認めたが、TSMCは沈黙を保っている。
+
+(画像クレジット: Tesla / SpaceX) リンクをコピー
+
+0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 金曜日のティム・カルパンのカルピウム・ニュースレターによると、TSMCとイーロン・マスク氏のTerafab半導体生産イニシアチブは、TSMCがイーロン・マスク氏のテスラ、スペースX、xAI企業に独占的にサービスを提供する施設を建設・運営する協力の可能性について話し合っているとのこと。イーロン・マスク氏は土曜日の早い時間に議論を認めたが、詳しくは述べなかった。
+
+「議論だけだが、何かが生まれるかもしれない」とマスク氏はXの投稿に書いているが、TSMCは今のところ口を閉ざしている。
+
+カルパン氏が最も可能性が高いと考える取り決めでは、TSMCが新しい半導体生産施設を所有して運営する一方、SpaceX/Terafabがそのベンチャー企業に投資したり、保証された量のチップを購入することを約束したり、あるいは両方のアプローチを組み合わせたりする可能性がある。ただし、正確な所有構造についてはまだ議論中です。もう一つの選択肢は、スペースXが過半数の所有権を持ってベンチャーの経営権を握ることだ。 TSMCは投資額を減らすことになるが、それでも「運用上の専門知識」とプロセス技術を提供するだろう。おそらく、Culpium からの興味深い背景の詳細​​は、テキサスにファブ複合施設を建設するという TSMC の噂される意図が、Terafab をサポートするファウンドリの取り組みと結びついているということです。
+
+提案され…</p><p><img src="https://cdn.mos.cms.futurecdn.net/PoCxHQ8gKEscb2NWQov7wZ-1920-80.png" alt="イーロン・マスク氏、Terafabチップ製造協力に関するTSMCとの協議を認める"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-confirms-discussions-with-tsmc-about-terafab-chipmaking-collaboration-intel-is-the-only-other-named-partner-terafab-to-exclusively-supply-tesla-spacex-and-xai">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/PoCxHQ8gKEscb2NWQov7wZ-1920-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/PoCxHQ8gKEscb2NWQov7wZ-1920-80.png"/></item>
+<item><title>Amazon の Big Deals Day に先立ち、Newegg の Fantastech Sale でテクノロジー関連のセールを見つけましょう — 早期購入者は、ハードウェアの価格が下がった場合に自動的に返金されます</title><link>https://www.tomshardware.com/gift-guides-seasonal-sales/find-tech-deals-in-neweggs-fantastech-sale-ii-ahead-of-october-5-price-protection-guarantee-lets-you-start-shopping-now</link><guid isPermaLink="true">https://www.tomshardware.com/gift-guides-seasonal-sales/find-tech-deals-in-neweggs-fantastech-sale-ii-ahead-of-october-5-price-protection-guarantee-lets-you-start-shopping-now</guid><pubDate>Sat, 03 Oct 2026 14:40:00 +0000</pubDate><description><![CDATA[<p>Amazon の Big Deals Day に先立ち、Newegg の Fantastech Sale でテクノロジー関連のセールを見つけましょう — 早期購入者は、ハードウェアの価格が下がった場合に自動的に返金されます
+
+他社に先駆けて、今すぐお得な情報を探し始めましょう
+
+Amazon の Big Deals Day に先立ち、Newegg の Fantastech Sale でテクノロジー関連のセールを見つけましょう — 早期購入者は、ハードウェアの価格が下がった場合に自動的に返金されます
+
+他社に先駆けて、今すぐお得な情報を探し始めましょう
+
+(画像クレジット: Future) リンクをコピー
+
+0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する Amazon の Prime Big Deals Day と連動して、Newegg はファンタステック セール II イベントの復活に伴う独自の大セール イベントも発表しました。 Fantastech セールは 10 月 5 日に始まり、10 月 11 日まで続きます。 Newegg は、Fantastech Price Protection という名前にふさわしい人気の価格保護保証を復活させました。これにより、今から Fantastech セール II の公式開始日である 2026 年 10 月 5 日までお買い物いただけます。価格保護保証は 9 月 28 日から 10 月 4 日まで実施されるため、今すぐ閲覧して買い物をすることができます。Fantastech セール II の開催期間中に価格が下がった場合、価格の差額は 10 月 21 日から自動的に返金されます。
+
+PC ハードウェア コンポーネントから組み立て済みのゲーム用 PC、ラップトップ、モニターなど、あらゆるものがセール対象となるため、セール中には必ず注目すべき商品が見つかるはずです。
+
+私たちは、これまで Newegg の 10 月セールで利用可能な多くの早期オファーに目を向け、最もコ…</p><p><img src="https://cdn.mos.cms.futurecdn.net/TKyVrg6ASnJ833mU8chNNe-1920-80.jpg" alt="Amazon の Big Deals Day に先立ち、Newegg の Fantastech Sale でテクノロジー関連のセールを見つけましょう — 早期購入者は、ハードウェアの価格が下がった場合に自動的に返金されます"></p>]]></description><source url="https://www.tomshardware.com/gift-guides-seasonal-sales/find-tech-deals-in-neweggs-fantastech-sale-ii-ahead-of-october-5-price-protection-guarantee-lets-you-start-shopping-now">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/TKyVrg6ASnJ833mU8chNNe-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/TKyVrg6ASnJ833mU8chNNe-1920-80.jpg"/></item>
+<item><title>NVIDIA DGX Spark 64GB の発売と 128GB GB10 の大幅な値上げ</title><link>https://www.servethehome.com/nvidia-dgx-spark-64gb-launched-and-big-128gb-gb10-price-increases/</link><guid isPermaLink="true">https://www.servethehome.com/nvidia-dgx-spark-64gb-launched-and-big-128gb-gb10-price-increases/</guid><pubDate>Sat, 03 Oct 2026 14:12:17 +0000</pubDate><description><![CDATA[<p>NVIDIA DGX Spark 64GB の発売と 128GB GB10 の大幅な値上げ
+
+NVIDIA DGX Spark 64GB は、メモリ価格の影響で 128GB モデルが 6950 ドルに跳ね上がる中、4999 ドルの価格で発売されます
+
+NVIDIA がラインナップに 2 つの変更を加えたため、NVIDIA GB10 エコシステムは衝撃を受けています。まず、NVIDIA DGX Spark 128GB ファミリの価格が上昇しています。このモデルは、さまざまな OEM がさまざまな金額を請求しながら、6,950 ドル程度の価格帯にまで上昇しているようです。これが多くの企業の価格を市場から外していることをおそらく認識していると思われますが、NVIDIA は 64GB モデルを 4,999 ドルで提供するソリューションを提供しています。
+
+NVIDIA DGX Spark 64GB の発売と 128GB GB10 の大幅な値上げ
+
+まず、NVIDIA は、新しい DGX Spark 64GB が Acer、ASUS、Dell、Gigabyte、HP、および MSI から 10 月 23 日金曜日に 4,999 ドルから発売されると述べています。その日が来たら、パートナーの 4999 ドルという価格が 1 TB または 4 TB のどちらになるのかを確認することに興味があります。 NVIDIA は、64GB バージョンでも 128GB モデルで見られた NVIDIA ConnectX-7 200GbE ネットワークを保持していることをすぐに指摘しましたが、NVIDIA DGX Spark 128GB/4TB が約 1 年前に 3999 ドルで発売されたため、その価格は多くの人にとって衝撃的です。そのモデルの新価格は6950ドルです。
+
+NVIDIA によれば、約 8000 ドルで 2 つの新しい 64GB モデルを 128GB で簡単にクラスタリングでき、これをソフトウェアで簡単に実現できるとのことです。
+
+今年初め、ノードをそれぞれ約 3000 ドルで購入してい…</p><p><img src="https://www.servethehome.com/wp-content/uploads/2026/04/NVIDIA-GB10-8-Way-Cluster-Thumbnail-3.jpg" alt="NVIDIA DGX Spark 64GB の発売と 128GB GB10 の大幅な値上げ"></p>]]></description><source url="https://www.servethehome.com/nvidia-dgx-spark-64gb-launched-and-big-128gb-gb10-price-increases/">ServeTheHome</source><media:content url="https://www.servethehome.com/wp-content/uploads/2026/04/NVIDIA-GB10-8-Way-Cluster-Thumbnail-3.jpg" medium="image"/><media:thumbnail url="https://www.servethehome.com/wp-content/uploads/2026/04/NVIDIA-GB10-8-Way-Cluster-Thumbnail-3.jpg"/></item>
+<item><title>中古の CPU を購入すると、ユーザーはアンチチート エンジンによる既存の禁止にさらされる可能性があり、購入前に違反を確認する方法はありません。</title><link>https://www.tomshardware.com/video-games/pc-gaming/buying-used-cpus-can-expose-users-to-existing-bans-from-anti-cheat-engines-some-anti-cheat-engines-enforce-permanent-bans-while-others-have-an-expiration-date</link><guid isPermaLink="true">https://www.tomshardware.com/video-games/pc-gaming/buying-used-cpus-can-expose-users-to-existing-bans-from-anti-cheat-engines-some-anti-cheat-engines-enforce-permanent-bans-while-others-have-an-expiration-date</guid><pubDate>Sat, 03 Oct 2026 14:09:00 +0000</pubDate><description><![CDATA[<p>中古の CPU を購入すると、ユーザーはアンチチート エンジンによる既存の禁止にさらされる可能性があり、購入前に違反を確認する方法はありません。
+
+お金を節約するとハードウェアの禁止が伴う可能性があることを誰が予想したでしょうか。
+
+中古の CPU を購入すると、ユーザーはアンチチート エンジンからの既存の禁止にさらされる可能性があり、購入前に違反を確認する方法はありません。一部のアンチチート エンジンは永久的な禁止を強制しますが、その他のエンジンには有効期限があります
+
+お金を節約するとハードウェアの禁止が伴う可能性があることを誰が予想したでしょうか。
+
+(画像クレジット: Shutterstock) リンクをコピー
+
+3 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する ドイツのゲーマーが中古の AMD Ryzen 7 5800X3D を購入し、Valorant の禁止処分を受けました。 u/After-Cartoonist-196 は r/PCBauder サブレディット [機械翻訳] で問題を共有しました。彼らがコンピュータを実行しているとき、プロセッサは完全に正常に動作していましたが、ゲームを起動するとすぐに追い出されてしまいました。 Riot にサポートを求めたところ、2026 年 9 月 21 日に購入した CPU が、以前のユーザーが Valorant で不正行為を行っていたため、2026 年 8 月 12 日に Vanguard によってブラックリストに登録されていたことが判明しました。ただし、CPU には禁止措置が適用されていますが、ライアット ゲームズによると、禁止期間は 4 か月です。対照的に、他のアンチチート エンジンは、同様のハードウェア ID システムを使用して永久禁止を強制します。
+
+r/PCBaumeister/comments/1wqomor/gebrauchte_cpu_erlaubt_kein_valorant からの pcbaumeister
+
+残念ながら、Riot …</p><p><img src="https://cdn.mos.cms.futurecdn.net/cShj4QFjByrxQNScUGKzq3-1920-80.jpg" alt="中古の CPU を購入すると、ユーザーはアンチチート エンジンによる既存の禁止にさらされる可能性があり、購入前に違反を確認する方法はありません。"></p>]]></description><source url="https://www.tomshardware.com/video-games/pc-gaming/buying-used-cpus-can-expose-users-to-existing-bans-from-anti-cheat-engines-some-anti-cheat-engines-enforce-permanent-bans-while-others-have-an-expiration-date">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/cShj4QFjByrxQNScUGKzq3-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/cShj4QFjByrxQNScUGKzq3-1920-80.jpg"/></item>
+<item><title>非効率性と盗難により電力の半分以上が失われる送電網を修復する</title><link>https://hackaday.com/2026/10/03/fixing-a-power-grid-that-loses-over-half-its-power-to-inefficiency-and-theft/</link><guid isPermaLink="true">https://hackaday.com/2026/10/03/fixing-a-power-grid-that-loses-over-half-its-power-to-inefficiency-and-theft/</guid><pubDate>Sat, 03 Oct 2026 14:00:11 +0000</pubDate><description><![CDATA[<p>非効率性と盗難により電力の半分以上が失われる送電網を修復する
+
+[Mini Shaji Thomas] は、IEEE Spectrum に、人口 2,000 万人を超える都市の配電システムがどのようにして失敗から一流に成長したかを詳述した非常に興味深い記事を掲載しています。電子で…
+
+[Mini Shaji Thomas] は、IEEE Spectrum に、人口 2,000 万人を超える都市の配電システムがどのようにして失敗から一流のシステムになったかを詳述した非常に興味深い記事を掲載しています。 2000 年代初頭、デリーで発電された電力の半分以上が、あらゆる種類の非効率性と盗難により失われました。損失は​​技術的なものと管理上のものであり、横行する盗難は「権力者と無力者の両方」によって永続化されました。ネタバレ注意: それは大変な仕事です。
+
+この損失レベルは驚異的であり、1 つや 2 つではなく、多くの問題によって引き起こされています。問題の多くは互いに複雑になる傾向がありました。たとえば、効果的な送電網は有効電力と無効電力のバランスに依存していますが、それが適切に管理されていない場合、非効率により損失や停止が発生し、システムが需要に追いつくことができないため、さらに多くの損失や停止が発生する傾向があります。数千万人の住民の規模では、そのような損失は決して些細なものではありません。
+
+特効薬の解決策はありませんでした。配電の近代化と安定化には、技術リソース、最新の設備、政治的意志、専門家の計画、最後までやり遂げる意欲、権限が必要でした。
+
+出発点は厳しいものでした。常に過負荷状態で障害が発生したネットワーク、不十分または存在しない制御と保護手段、不正確な記録と非効率な管理、障害や非効率、盗難を感知する実際の手段がなく、執行力が弱いか存在しない、そして訓練を受けていない労働力です。それでも、それは可能であり、実際にそうなったのです。まだまだ改善の余地はありますが、システムの刷新は最終的には成功しました。
+
+個別に考えると、解決策の中には非常にシンプルなものもありま…</p><p><img src="https://hackaday.com/wp-content/uploads/2017/01/grid.jpg" alt="非効率性と盗難により電力の半分以上が失われる送電網を修復する"></p>]]></description><source url="https://hackaday.com/2026/10/03/fixing-a-power-grid-that-loses-over-half-its-power-to-inefficiency-and-theft/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2017/01/grid.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2017/01/grid.jpg"/></item>
+<item><title>今週のトムズ ハードウェア プレミアム: 2026 年 10 月 3 日</title><link>https://www.tomshardware.com/tech-industry/artificial-intelligence/this-week-on-toms-hardware-premium-october-3-2026-ai-chip-design-week-openai-interview-and-ai-agent-safety</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/artificial-intelligence/this-week-on-toms-hardware-premium-october-3-2026-ai-chip-design-week-openai-interview-and-ai-agent-safety</guid><pubDate>Sat, 03 Oct 2026 14:00:00 +0000</pubDate><description><![CDATA[<p>今週のトムズ ハードウェア プレミアム: 2026 年 10 月 3 日
+
+それ
+
+今週の Tom&#39;s Hardware Premium: 2026 年 10 月 3 日 — AI チップ設計週間、OpenAI インタビュー、AI エージェントの安全性
+
+取材が充実した一週間でした。
+
+(画像クレジット: Synopsys / Tom&#39;s Hardware) リンクをコピー
+
+1 会話に参加してください フォローしてください Google ニュースレターの優先ソースとして追加してください ニュースレターを購読してください Tom&#39;s Hardware Premium では、テーマを絞った AI Chip Design Week を中心とした多数のストーリーを公開してきました。ここでは、人工知能がチップ製造の世界をどのように再形成しているかについて詳しく知ることができます。一連のストーリーの各記事は期間限定で無料でアクセスできます。週末の無料期間を 10 月 5 日月曜日まで延長しますので、お見逃しなく。
+
+今週の見出しは、OpenAI ハードウェア副社長のリチャード・ホー氏とのインタビューで、同社が今年初めに Hot Chips 2026 で発表した Broadcom と共同開発した推論 ASIC である Jalapeño についてすべてを語ります。このインタビューでは、同社が設計プロセス内で AI をどのように使用し、効率性で Nvidia を上回ったのか、また OpenAI モデルの実行のみに最適化されているなどの一般的な誤解を解き明かしています。この長い文章は、ホーとのセッションの編集されていない完全な記録ですので、お見逃しなく。
+
+OpenAI ハラペーニョ設計インタビューの記録 — ハードウェア副社長リチャード・ホー氏が、AI 支援設計が推論 ASIC の未来をどのように形作る可能性があるかを説明
+
+しかし、AI は、それが動作するシリコン自体の設計にどれだけ近づいているでしょうか?私たちは、このテーマに関する徹底的な入門書のペアで、業界を形作るコンセプト、製…</p><p><img src="https://cdn.mos.cms.futurecdn.net/xYwy6BphRNaiV52nCF7ghn-1920-80.jpg" alt="今週のトムズ ハードウェア プレミアム: 2026 年 10 月 3 日"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/artificial-intelligence/this-week-on-toms-hardware-premium-october-3-2026-ai-chip-design-week-openai-interview-and-ai-agent-safety">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/xYwy6BphRNaiV52nCF7ghn-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/xYwy6BphRNaiV52nCF7ghn-1920-80.jpg"/></item>
+<item><title>AOC pushes gaming monitors past 1,000Hz with new AGON PRO display created for serious gamers</title><link>https://www.tweaktown.com/rss/click/news/113877/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113877/?c=news-mf</guid><pubDate>Sat, 03 Oct 2026 13:49:14 +0000</pubDate><description><![CDATA[<p>AOC pushes gaming monitors past 1,000Hz with new AGON PRO display created for serious gamers</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113877/?c=news-mf">TweakTown</source></item>
+<item><title>PC ハードウェアのコストが高騰しているにもかかわらず、Steam は 2026 年 9 月に過去最高の 17 億ドルを達成</title><link>https://www.tomshardware.com/video-games/pc-gaming/steam-revenue-hit-usd1-7-billion-in-september-2026-pc-gaming-spending-grows-despite-skyrocketing-hardware-costs</link><guid isPermaLink="true">https://www.tomshardware.com/video-games/pc-gaming/steam-revenue-hit-usd1-7-billion-in-september-2026-pc-gaming-spending-grows-despite-skyrocketing-hardware-costs</guid><pubDate>Sat, 03 Oct 2026 13:35:00 +0000</pubDate><description><![CDATA[<p>PC ハードウェアのコストが高騰しているにもかかわらず、Steam は 2026 年 9 月に過去最高の 17 億ドルを達成
+
+PC ゲームは引き続き好調です。
+
+PC ハードウェアのコストが高騰しているにもかかわらず、Steam は 2026 年 9 月に過去最高の 17 億ドルを達成 — プラットフォームは 2026 年に 21,000 の新作リリースに近づき、年間 200 億ドルを超える勢いです
+
+(画像クレジット: Future) リンクをコピー
+
+4 会話に参加してください フォローしてください Google ニュースレターの優先ソースとして追加してください ニュースレターを購読してください Steam が 2026 年 9 月に記録的な 17 億ドルの収益を上げたと推定されているため、ハードウェア コストの上昇にも関わらず PC ゲームは引き続き上昇傾向にあります。 Alinea Analytics によると、Steam は 2025 年 9 月に設定された前回の記録と比較して 13% 増加し、史上最高の 9 月を記録しました。 また、第 3 四半期は過去最高を記録し、推定 55 億ドルの収益を上げました収益は前年同期比 12% 増加しました。これにより、2026 年最初の 9 か月間における Steam の推定収益は 165 億ドルとなり、2025 年の同時期は 145 億ドルとなりました。
+
+Nvidia Enterprise GPU および CPU ロードマップ
+
+AMD のエンタープライズ GPU および CPU ロードマップ
+
+インテルのロードマップを検討 — 14A、ノヴァ レイク、ダイアモンド ラピッズ、AI アクセラレータの推進
+
+Co-Packaged Optics (CPO) ファウンドリロードマップ
+
+先月 Steam で収益上位 500 ゲームのうち、2026 年にリリースされた新規 IP が収益の 20.5% を生み出し、リメイクとリマスターによる 3.8% を含む確立された IP が 79.5% を占めました。同月は、いくつかのメ…</p><p><img src="https://cdn.mos.cms.futurecdn.net/UrZpYibo9huHdvNjjgUMjF-1920-80.png" alt="PC ハードウェアのコストが高騰しているにもかかわらず、Steam は 2026 年 9 月に過去最高の 17 億ドルを達成"></p>]]></description><source url="https://www.tomshardware.com/video-games/pc-gaming/steam-revenue-hit-usd1-7-billion-in-september-2026-pc-gaming-spending-grows-despite-skyrocketing-hardware-costs">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/UrZpYibo9huHdvNjjgUMjF-1920-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/UrZpYibo9huHdvNjjgUMjF-1920-80.png"/></item>
+<item><title>California sends cease-and-desist over human-versus-Terminator cage fight</title><link>https://www.tweaktown.com/rss/click/news/113875/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113875/?c=news-mf</guid><pubDate>Sat, 03 Oct 2026 13:24:08 +0000</pubDate><description><![CDATA[<p>California sends cease-and-desist over human-versus-Terminator cage fight</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113875/?c=news-mf">TweakTown</source></item>
+<item><title>キャッシュされたプロンプトが爆発的に増加するため、AI エージェントは人間の 5 倍多くのトークンを使用し、10 倍に向かう</title><link>https://www.tomshardware.com/tech-industry/artificial-intelligence/futurum-ceo-says-agents-use-ai-5x-more-than-humans-number-will-eventually-hit-10x-but-agents-are-mostly-rereading-what-theyve-already-seen</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/artificial-intelligence/futurum-ceo-says-agents-use-ai-5x-more-than-humans-number-will-eventually-hit-10x-but-agents-are-mostly-rereading-what-theyve-already-seen</guid><pubDate>Sat, 03 Oct 2026 13:10:00 +0000</pubDate><description><![CDATA[<p>キャッシュされたプロンプトが爆発的に増加するため、AI エージェントは人間の 5 倍多くのトークンを使用し、10 倍に向かう
+
+OpenRouter のエージェント数は 7.3 兆トークンであるのに対し、人間の場合は 1.4 兆です。
+
+キャッシュされたプロンプトが爆発的に増え、AI エージェントは人間の 5 倍多くのトークンを使用し、10 倍に向かう - エージェントはほとんどがすでに見たものを再読しており、KV キャッシュ需要の急増により、すでに悪化している RAM 不足が脅かされている
+
+OpenRouter のエージェント数は 7.3 兆トークンであるのに対し、人間の場合は 1.4 兆です。
+
+(画像クレジット: OpenRouter) リンクをコピー
+
+0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する Futurum Group CEO のダニエル ニューマン氏は、X の投稿で、「現在、AI は人間が使用するよりも 5 倍多く使用されています。その数は 10 倍に加速し、その後さらに高くなるでしょう。」と述べています。彼のデータである OpenRouter 数値の Andreessen Horowitz (a16z) グラフは、エージェントの使用量が初めて人間を超えてから 6 か月後の 8 月時点で、エージェントのトークン数が 7.3 兆であるのに対し、人間のトークン数は 1.4 兆であることを示しています。しかし、エージェントはほとんどがすでに見たものを再読している。エージェントトークンの 85% 以上はキャッシュされたプロンプトから来ている、と a16z は OpenRouter を引用して書いた。
+
+現在、AIによる利用は人間による利用の5倍となっている。この数字は 10 倍に加速し、さらに高くなります。ROI を決定する際、私たちは人間による導入について話し続けていますが、使用率と規模はそれよりも指数関数的に大きくなります。 2026 年 9 月 30 日
+
+OpenRouter は、「…</p><p><img src="https://cdn.mos.cms.futurecdn.net/hNQivoNg7PnAeRNSivatuR-2560-80.png" alt="キャッシュされたプロンプトが爆発的に増加するため、AI エージェントは人間の 5 倍多くのトークンを使用し、10 倍に向かう"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/artificial-intelligence/futurum-ceo-says-agents-use-ai-5x-more-than-humans-number-will-eventually-hit-10x-but-agents-are-mostly-rereading-what-theyve-already-seen">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/hNQivoNg7PnAeRNSivatuR-2560-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/hNQivoNg7PnAeRNSivatuR-2560-80.png"/></item>
 <item><title>Scare up big savings in Bambu Lab&#39;s Halloween sale right now, with up to 30% off</title><link>https://www.tomshardware.com/3d-printing/scare-up-big-savings-in-bambu-labs-halloween-sale-right-now-with-up-to-30-percent-off-grab-usd250-off-the-dual-extruder-h2d-plus-bulk-spool-discounts-and-pumpkin-themed-bundles</link><guid isPermaLink="true">https://www.tomshardware.com/3d-printing/scare-up-big-savings-in-bambu-labs-halloween-sale-right-now-with-up-to-30-percent-off-grab-usd250-off-the-dual-extruder-h2d-plus-bulk-spool-discounts-and-pumpkin-themed-bundles</guid><pubDate>Sat, 03 Oct 2026 12:50:00 +0000</pubDate><description><![CDATA[<p>Scare up big savings in Bambu Lab&#39;s Halloween sale right now, with up to 30% off
 
 Grab a dangerously good discount on these top 3D printers
@@ -3502,13 +3707,6 @@ Aug 30th 2026 PS5 Pro Stock Vanishes After GTA 6 Reveal, Prices Hit $1,300 (24)
 May 18th 2026 Insider Confirms Sony Ditching PC Ports: &#34;You&#39;ll Be Seeing Fewer Single Player Games Arrive on PC.&#34; (135)
 
 Apr 28th 2026 Linux now Officially Available for PlaySt…</p><p><img src="https://www.techpowerup.com/img/AymCBHTYVOWrGNv2.jpg" alt="PS5 Emulator SharpEmu Reaches Gameplay In 17 Games, 8 Run at 60 FPS"></p>]]></description><source url="https://www.techpowerup.com/353152/ps5-emulator-sharpemu-reaches-gameplay-in-17-games-8-run-at-60-fps">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/AymCBHTYVOWrGNv2.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/AymCBHTYVOWrGNv2.jpg"/></item>
-<item><title>Using the SNES Super FX Chip to Run Super Mario 64</title><link>https://hackaday.com/2026/09/28/using-the-snes-super-fx-chip-to-run-super-mario-64/</link><guid isPermaLink="true">https://hackaday.com/2026/09/28/using-the-snes-super-fx-chip-to-run-super-mario-64/</guid><pubDate>Mon, 28 Sep 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>Using the SNES Super FX Chip to Run Super Mario 64
-
-Although the Nintendo 64 was the first to bring real 3D graphics to the table in 1996, the Super Nintendo had an ace up its sleeve in the form of the Super FX chip. One major advantage of using car…
-
-Although the Nintendo 64 was the first to bring real 3D graphics to the table in 1996, the Super Nintendo had an ace up its sleeve in the form of the Super FX chip. One major advantage of using cartridge-based games is that you have the option to add wild features such as a 3D graphics chip to your SNES, something that got used to make games like Star Fox, and as [Tobi] demonstrates in a recent video , can also totally run Super Mario 64 if you squint a lot.
-
-While there’s a rumor that Nintendo was looking to release a ‘Super Mario FX’ game f…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/09/super_mario_64_snes_super_fx_game_of_tobi_youtube.jpg" alt="Using the SNES Super FX Chip to Run Super Mario 64"></p>]]></description><source url="https://hackaday.com/2026/09/28/using-the-snes-super-fx-chip-to-run-super-mario-64/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/09/super_mario_64_snes_super_fx_game_of_tobi_youtube.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/09/super_mario_64_snes_super_fx_game_of_tobi_youtube.jpg"/></item>
 <item><title>Teenager hacks open Microsoft database with 17 trillion total rows and 25,000 user accounts</title><link>https://www.tomshardware.com/tech-industry/cyber-security/teenager-hacks-open-microsoft-database-with-17-trillion-total-rows-and-25-000-user-accounts-custom-ai-bot-and-lack-of-jwt-token-validation-yields-a-fruitful-trove-earns-usd5-000-bug-bounty</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/cyber-security/teenager-hacks-open-microsoft-database-with-17-trillion-total-rows-and-25-000-user-accounts-custom-ai-bot-and-lack-of-jwt-token-validation-yields-a-fruitful-trove-earns-usd5-000-bug-bounty</guid><pubDate>Mon, 28 Sep 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>Teenager hacks open Microsoft database with 17 trillion total rows and 25,000 user accounts
 
 I guess that purely technically, the JWT token authorization was there.
@@ -3520,6 +3718,13 @@ I guess that purely technically, the JWT token authorization was there.
 (Image credit: Getty Images) Copy link
 
 7 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter What do you get when you cross a bored teenager with free time and excellent computer skills? A hack of a Microsoft database with trillions of records on hand and 25,000 records of employee data, of course. Future lege…</p><p><img src="https://cdn.mos.cms.futurecdn.net/Jz3s87CzobimC9szxWZth-2309-80.jpg" alt="Teenager hacks open Microsoft database with 17 trillion total rows and 25,000 user accounts"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/cyber-security/teenager-hacks-open-microsoft-database-with-17-trillion-total-rows-and-25-000-user-accounts-custom-ai-bot-and-lack-of-jwt-token-validation-yields-a-fruitful-trove-earns-usd5-000-bug-bounty">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/Jz3s87CzobimC9szxWZth-2309-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/Jz3s87CzobimC9szxWZth-2309-80.jpg"/></item>
+<item><title>Using the SNES Super FX Chip to Run Super Mario 64</title><link>https://hackaday.com/2026/09/28/using-the-snes-super-fx-chip-to-run-super-mario-64/</link><guid isPermaLink="true">https://hackaday.com/2026/09/28/using-the-snes-super-fx-chip-to-run-super-mario-64/</guid><pubDate>Mon, 28 Sep 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>Using the SNES Super FX Chip to Run Super Mario 64
+
+Although the Nintendo 64 was the first to bring real 3D graphics to the table in 1996, the Super Nintendo had an ace up its sleeve in the form of the Super FX chip. One major advantage of using car…
+
+Although the Nintendo 64 was the first to bring real 3D graphics to the table in 1996, the Super Nintendo had an ace up its sleeve in the form of the Super FX chip. One major advantage of using cartridge-based games is that you have the option to add wild features such as a 3D graphics chip to your SNES, something that got used to make games like Star Fox, and as [Tobi] demonstrates in a recent video , can also totally run Super Mario 64 if you squint a lot.
+
+While there’s a rumor that Nintendo was looking to release a ‘Super Mario FX’ game f…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/09/super_mario_64_snes_super_fx_game_of_tobi_youtube.jpg" alt="Using the SNES Super FX Chip to Run Super Mario 64"></p>]]></description><source url="https://hackaday.com/2026/09/28/using-the-snes-super-fx-chip-to-run-super-mario-64/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/09/super_mario_64_snes_super_fx_game_of_tobi_youtube.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/09/super_mario_64_snes_super_fx_game_of_tobi_youtube.jpg"/></item>
 <item><title>Google has just teased Android 18, and here’s when we’ll learn more</title><link>https://www.androidauthority.com/android-dev-summit-2026-3716040/</link><guid isPermaLink="true">https://www.androidauthority.com/android-dev-summit-2026-3716040/</guid><pubDate>Mon, 28 Sep 2026 10:53:56 +0000</pubDate><description><![CDATA[<p>Google has just teased Android 18, and here’s when we’ll learn more
 
 Google has dropped its first Android 18 tease, hinting at new powerful graphics features ahead of Android Dev Summit 2026.
@@ -4625,160 +4830,4 @@ Open-source AnyPS5 dumps emulation to run PlayStation 5 console games natively o
 (Image credit: Shutterstock) Copy link
 
 0 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter PlayStation 5 emulation has witnessed massive growth ever since Sony confirmed its plans to end PC ports for its first-party, narrative-driven single-player games. The latest name joining the list is the open source project AnyPS5 , which is claimed to run PS5 games natively on PC without requiring any emulation. The official GitHub page describes it as a tool fo…</p><p><img src="https://cdn.mos.cms.futurecdn.net/S86fJafmzvVuMLhTj6vipT-2560-80.jpg" alt="Open-source AnyPS5 dumps emulation to run PlayStation 5 console games natively on PC"></p>]]></description><source url="https://www.tomshardware.com/video-games/playstation/open-source-anyps5-dumps-emulation-to-run-playstation-5-console-games-natively-on-pc-amd-zen-2-architecture-enables-proton-like-binary-translation-for-windows-and-linux">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/S86fJafmzvVuMLhTj6vipT-2560-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/S86fJafmzvVuMLhTj6vipT-2560-80.jpg"/></item>
-<item><title>Affordable power station for camping, emergency power, and more: Oscal PowerMax 1800 SE review</title><link>https://www.notebookcheck.net/Affordable-power-station-for-camping-emergency-power-and-more-Oscal-PowerMax-1800-SE-review.1409212.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/Affordable-power-station-for-camping-emergency-power-and-more-Oscal-PowerMax-1800-SE-review.1409212.0.html</guid><pubDate>Sat, 26 Sep 2026 13:00:00 +0000</pubDate><description><![CDATA[<p>Affordable power station for camping, emergency power, and more: Oscal PowerMax 1800 SE review</p>]]></description><source url="https://www.notebookcheck.net/Affordable-power-station-for-camping-emergency-power-and-more-Oscal-PowerMax-1800-SE-review.1409212.0.html">Notebookcheck</source></item>
-<item><title>Sandisk Optimus GX Pro 850P 2TB SSD review: A PS5 SSD you recognize at a price you don’t</title><link>https://www.tomshardware.com/pc-components/ssds/sandisk-optimus-gx-pro-850p-2tb-ssd-review</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/ssds/sandisk-optimus-gx-pro-850p-2tb-ssd-review</guid><pubDate>Sat, 26 Sep 2026 13:00:00 +0000</pubDate><description><![CDATA[<p>Sandisk Optimus GX Pro 850P 2TB SSD review: A PS5 SSD you recognize at a price you don’t
-
-Same drive, new badge, bigger price tag
-
-The Sandisk Optimus GX Pro 850P is a WD Black SN850P by another name. It’s a great PS5 SSD with good performance in a mature package, but with a stiff premium.
-
-+ Cool-running with PS5 heatsink
-
-Why you can trust Tom&#39;s Hardware Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test .
-
-Sandisk Optimus GX Pro 850P Introduction
-
-Page 1: Sandisk Optimus GX Pro 850P Introduction
-
-Page 2: Sandisk Optimus GX Pro 850P 2TB Performance Results
-
-The good news is that Sandisk is still putting out SSDs for consumers, and these are not just cheap replacements. The Optimus GX Pro 850P is…</p><p><img src="https://cdn.mos.cms.futurecdn.net/w8JoBmpoyjWj3DTUK3gyhc-2560-80.jpg" alt="Sandisk Optimus GX Pro 850P 2TB SSD review: A PS5 SSD you recognize at a price you don’t"></p>]]></description><source url="https://www.tomshardware.com/pc-components/ssds/sandisk-optimus-gx-pro-850p-2tb-ssd-review">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/w8JoBmpoyjWj3DTUK3gyhc-2560-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/w8JoBmpoyjWj3DTUK3gyhc-2560-80.jpg"/></item>
-<item><title>Nvidia patents AI chatbot to streamline PC game optimization</title><link>https://www.tomshardware.com/video-games/pc-gaming/an-nvidia-chatbot-could-one-day-help-developers-better-optimize-their-games-patent-filing-show-requests-can-be-made-in-plain-english</link><guid isPermaLink="true">https://www.tomshardware.com/video-games/pc-gaming/an-nvidia-chatbot-could-one-day-help-developers-better-optimize-their-games-patent-filing-show-requests-can-be-made-in-plain-english</guid><pubDate>Sat, 26 Sep 2026 13:00:00 +0000</pubDate><description><![CDATA[<p>Nvidia patents AI chatbot to streamline PC game optimization
-
-Games could be quicker to make and run better when they go on sale.
-
-Nvidia patents AI chatbot to streamline PC game optimization — could one day help developers better optimize their games with requests made in plain English
-
-Games could be quicker to make and run better when they go on sale.
-
-(Image credit: Getty) Copy link
-
-1 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter A newly published patent shows that Nvidia has been working on an AI chatbot that could make it quicker and easier for developers to optimize their PC games. The chatbot would be capable of receiving a plain English request for help before running diagnostics based on the specific issue at hand.
-…</p><p><img src="https://cdn.mos.cms.futurecdn.net/mSegjyKT4pHoDKsKQkQa9j-2000-80.jpg" alt="Nvidia patents AI chatbot to streamline PC game optimization"></p>]]></description><source url="https://www.tomshardware.com/video-games/pc-gaming/an-nvidia-chatbot-could-one-day-help-developers-better-optimize-their-games-patent-filing-show-requests-can-be-made-in-plain-english">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/mSegjyKT4pHoDKsKQkQa9j-2000-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/mSegjyKT4pHoDKsKQkQa9j-2000-80.jpg"/></item>
-<item><title>Nvidia’s RTX Mega Geometry 2.0 streams ray-tracing geometry into VRAM on demand</title><link>https://www.tomshardware.com/pc-components/gpus/nvidias-rtx-mega-geometry-2-0-streams-ray-tracing-geometry-into-vram-on-demand-nanite-inspired-design-drops-detail-instead-of-dropping-out</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/gpus/nvidias-rtx-mega-geometry-2-0-streams-ray-tracing-geometry-into-vram-on-demand-nanite-inspired-design-drops-detail-instead-of-dropping-out</guid><pubDate>Sat, 26 Sep 2026 12:30:00 +0000</pubDate><description><![CDATA[<p>Nvidia’s RTX Mega Geometry 2.0 streams ray-tracing geometry into VRAM on demand
-
-Nvidia
-
-Nvidia’s RTX Mega Geometry 2.0 streams ray-tracing geometry into VRAM on demand — Nanite-inspired design drops detail instead of dropping out
-
-Nvidia&#39;s new ray-tracing sample handles a 1.6-billion-triangle scene with just 2GB of VRAM dedicated to geometry.
-
-(Image credit: Nvidia) Copy link
-
-1 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter Nvidia has updated its RTX Mega Geometry SDK to 2.0, adding streaming support for “continuous level-of-detail clusters” to handle high-density meshes, according to the developer blog post . Nvidia says it works even for scenes too big for the VRAM budget. The technology is in addition to its RTX Kit, arriv…</p><p><img src="https://cdn.mos.cms.futurecdn.net/f5mw94jS8GbvM99nu2SUWa-2560-80.png" alt="Nvidia’s RTX Mega Geometry 2.0 streams ray-tracing geometry into VRAM on demand"></p>]]></description><source url="https://www.tomshardware.com/pc-components/gpus/nvidias-rtx-mega-geometry-2-0-streams-ray-tracing-geometry-into-vram-on-demand-nanite-inspired-design-drops-detail-instead-of-dropping-out">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/f5mw94jS8GbvM99nu2SUWa-2560-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/f5mw94jS8GbvM99nu2SUWa-2560-80.png"/></item>
-<item><title>PNY Reportedly Denies Melted RTX 5090 Warranty Claim, Says Native PSU Cables Not Covered</title><link>https://www.techpowerup.com/353113/pny-reportedly-denies-melted-rtx-5090-warranty-claim-says-native-psu-cables-not-covered</link><guid isPermaLink="true">https://www.techpowerup.com/353113/pny-reportedly-denies-melted-rtx-5090-warranty-claim-says-native-psu-cables-not-covered</guid><pubDate>Sat, 26 Sep 2026 12:12:12 +0000</pubDate><description><![CDATA[<p>PNY Reportedly Denies Melted RTX 5090 Warranty Claim, Says Native PSU Cables Not Covered
-
-PNY has allegedly denied a warranty claim on a burned-out GeForce RTX 5090 and closed the customer&#39;s ticket after he asked which part of the warranty it was citing. Redditor u/Melodic_Initial_1767 says his card died last month after both ends of its 12V-2x6 cable melted, on the GPU side and the...
-
-PNY Reportedly Denies Melted RTX 5090 Warranty Claim, Says Native PSU Cables Not Covered
-
-Mar 30th 2026 NVIDIA Readies Rubin-based GeForce RTX 60-series with Massive RT Performance Gains (162)
-
-Jul 10th 2026 NVIDIA Readies GeForce RTX 5090 SE Graphics Card (178)
-
-Sep 2nd 2026 Hardware Unboxed Falls Victim to Melted RTX 5090 Power Connector as Cable Reaches 175°C (93)
-
-Dec 31st 2025 Leaks Predict $5000 RTX 5…</p><p><img src="https://www.techpowerup.com/img/7UFBDeKHXRiCma8h.jpg" alt="PNY Reportedly Denies Melted RTX 5090 Warranty Claim, Says Native PSU Cables Not Covered"></p>]]></description><source url="https://www.techpowerup.com/353113/pny-reportedly-denies-melted-rtx-5090-warranty-claim-says-native-psu-cables-not-covered">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/7UFBDeKHXRiCma8h.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/7UFBDeKHXRiCma8h.jpg"/></item>
-<item><title>Novel attack slashes computing power needed to crack textbook RSA cryptography</title><link>https://www.tomshardware.com/tech-industry/cyber-security/novel-attack-on-rsa-cryptography-might-bring-computation-requirements-for-cracking-down-to-manageable-levels</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/cyber-security/novel-attack-on-rsa-cryptography-might-bring-computation-requirements-for-cracking-down-to-manageable-levels</guid><pubDate>Sat, 26 Sep 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>Novel attack slashes computing power needed to crack textbook RSA cryptography
-
-Not very practical yet, but could serve as the basis for future improvements.
-
-Novel attack slashes computing power needed to crack textbook RSA cryptography — attacks within state-actor reach, could target Apple and Cloudflare privacy services
-
-Not very practical yet, but could serve as the basis for future improvements.
-
-Factoring attacks against the RSA algorithm were generally considered infeasible, but that may change at some point if the findings in a paper from UC San Diego (California) and Inria Nancy (France) prove correct after peer review. (Image credit: Getty Images) Copy link
-
-0 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter Factoring a…</p><p><img src="https://cdn.mos.cms.futurecdn.net/WjhboXMQFhrhWUebgWihfP-1920-80.jpg" alt="Novel attack slashes computing power needed to crack textbook RSA cryptography"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/cyber-security/novel-attack-on-rsa-cryptography-might-bring-computation-requirements-for-cracking-down-to-manageable-levels">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/WjhboXMQFhrhWUebgWihfP-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/WjhboXMQFhrhWUebgWihfP-1920-80.jpg"/></item>
-<item><title>PNY allegedly refuses to cover melted RTX 5090 powered by native power supply cable</title><link>https://www.tomshardware.com/pc-components/gpus/pny-allegedly-refuses-to-cover-melted-rtx-5090-powered-by-native-power-supply-cable-company-closes-users-ticket-when-questioned-on-policy</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/gpus/pny-allegedly-refuses-to-cover-melted-rtx-5090-powered-by-native-power-supply-cable-company-closes-users-ticket-when-questioned-on-policy</guid><pubDate>Sat, 26 Sep 2026 11:30:00 +0000</pubDate><description><![CDATA[<p>PNY allegedly refuses to cover melted RTX 5090 powered by native power supply cable
-
-Powering up causes a meltdown.
-
-PNY allegedly refuses to cover melted RTX 5090 powered by native power supply cable — company closes user&#39;s ticket when questioned on policy
-
-Powering up causes a meltdown.
-
-(Image credit: /u/Melodic_Initial_1767 on Reddit) Copy link
-
-6 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter When you buy a product, there is a reasonable expectation of warranty service. When you spend multiple thousands of dollars on a computer graphics card (a product category that has only recently entered the multi-thousand-dollar range), there is a reasonable expectation of exceptional service. What if, instead, you got absolutely no s…</p><p><img src="https://cdn.mos.cms.futurecdn.net/D5MzbvWLsfcMUe2FerXaWc-1920-80.jpg" alt="PNY allegedly refuses to cover melted RTX 5090 powered by native power supply cable"></p>]]></description><source url="https://www.tomshardware.com/pc-components/gpus/pny-allegedly-refuses-to-cover-melted-rtx-5090-powered-by-native-power-supply-cable-company-closes-users-ticket-when-questioned-on-policy">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/D5MzbvWLsfcMUe2FerXaWc-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/D5MzbvWLsfcMUe2FerXaWc-1920-80.jpg"/></item>
-<item><title>You Can Make a Microprocessor That’s All Your Own</title><link>https://hackaday.com/2026/09/26/you-can-make-a-microprocessor-thats-all-your-own/</link><guid isPermaLink="true">https://hackaday.com/2026/09/26/you-can-make-a-microprocessor-thats-all-your-own/</guid><pubDate>Sat, 26 Sep 2026 11:00:53 +0000</pubDate><description><![CDATA[<p>You Can Make a Microprocessor That’s All Your Own
-
-For a while now we’ve followed the slow progression of affordable integrated circuit fabrication, and through the likes of Tiny Tapeout we’ve seen impressive strides made. But they&amp;#821…
-
-For a while now we’ve followed the slow progression of affordable integrated circuit fabrication, and through the likes of Tiny Tapeout we’ve seen impressive strides made. But they’re not the only player in the space, and [Breaking Taps] has a video showing their microprocessor built using wafer.space.
-
-The microprocessor itself is a little unusual, being a transport triggered architecture design with two busses. The whole thing might better be described as a system-on-chip than a microprocessor, as like a microcontroller it contains both memory and perip…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/09/processor-fab-featured.jpg" alt="You Can Make a Microprocessor That’s All Your Own"></p>]]></description><source url="https://hackaday.com/2026/09/26/you-can-make-a-microprocessor-thats-all-your-own/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/09/processor-fab-featured.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/09/processor-fab-featured.jpg"/></item>
-<item><title>9 excellent iOS apps I wish would come to Android (but probably never will)</title><link>https://www.androidauthority.com/ios-apps-i-want-on-android-2026-3713705/</link><guid isPermaLink="true">https://www.androidauthority.com/ios-apps-i-want-on-android-2026-3713705/</guid><pubDate>Sat, 26 Sep 2026 11:00:45 +0000</pubDate><description><![CDATA[<p>9 excellent iOS apps I wish would come to Android (but probably never will)
-
-Even in 2026, there are still some apps that are exclusive to the iPhone. These 9, in particular, would be incredible to have on Android.
-
-Affiliate links on Android Authority may earn us a commission. Learn more.
-
-9 excellent iOS apps I wish would come to Android (but probably never will)
-
-0 • Ryan Haines / Android Authority Add Android Authority on Google: Preferred Source Google Discover There was a time when the best apps and games were mostly exclusive to the iPhone and iPad family, but that has been less true over the last few years. Nowadays, many of the most popular games and apps end up on Android, even if they often appear much later than on iOS. Unfortunately, many apps have held off on adding Android s…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2025/10/iPhone-17-Pro-vs-Pixel-10-Pro-XL-cameras-1.jpg" alt="9 excellent iOS apps I wish would come to Android (but probably never will)"></p>]]></description><source url="https://www.androidauthority.com/ios-apps-i-want-on-android-2026-3713705/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2025/10/iPhone-17-Pro-vs-Pixel-10-Pro-XL-cameras-1.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2025/10/iPhone-17-Pro-vs-Pixel-10-Pro-XL-cameras-1.jpg"/></item>
-<item><title>Enthusiast cooled iPhone 18 Pro with cold can of La Croix sparkling water; benchmarks show 25% higher sustained performance</title><link>https://www.tomshardware.com/pc-components/liquid-cooling/enthusiast-cooled-iphone-18-pro-with-cold-can-of-la-croix-sparkling-water-benchmarks-show-25-percent-higher-sustained-performance-liquid-cooling-surprisingly-reduced-thermal-throttling</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/liquid-cooling/enthusiast-cooled-iphone-18-pro-with-cold-can-of-la-croix-sparkling-water-benchmarks-show-25-percent-higher-sustained-performance-liquid-cooling-surprisingly-reduced-thermal-throttling</guid><pubDate>Sat, 26 Sep 2026 11:00:00 +0000</pubDate><description><![CDATA[<p>Enthusiast cooled iPhone 18 Pro with cold can of La Croix sparkling water; benchmarks show 25% higher sustained performance
-
-Would a can of cold Red Bull offer even more performance?
-
-Enthusiast cooled iPhone 18 Pro with cold can of La Croix sparkling water; benchmarks show 25% higher sustained performance — &#39;liquid cooling&#39; surprisingly reduced thermal throttling
-
-Would a can of cold Red Bull offer even more performance?
-
-(Image credit: Matt Birchler ) Copy link
-
-6 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter Tech enthusiast and developer Matt Birchler has tested an Apple iPhone 18 Pro with a can of La Croix used as a cooling device to address persistent thermal throttling that he noticed during his other tests with the phon…</p><p><img src="https://cdn.mos.cms.futurecdn.net/NovMGthx7NqEKqURa29ArU-1920-80.png" alt="Enthusiast cooled iPhone 18 Pro with cold can of La Croix sparkling water; benchmarks show 25% higher sustained performance"></p>]]></description><source url="https://www.tomshardware.com/pc-components/liquid-cooling/enthusiast-cooled-iphone-18-pro-with-cold-can-of-la-croix-sparkling-water-benchmarks-show-25-percent-higher-sustained-performance-liquid-cooling-surprisingly-reduced-thermal-throttling">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/NovMGthx7NqEKqURa29ArU-1920-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/NovMGthx7NqEKqURa29ArU-1920-80.png"/></item>
-<item><title>The Motorola Signature 27 has one huge advantage over other Samsung rivals</title><link>https://www.androidauthority.com/motorola-signature-27-advantage-over-other-samsung-rivals-3714695/</link><guid isPermaLink="true">https://www.androidauthority.com/motorola-signature-27-advantage-over-other-samsung-rivals-3714695/</guid><pubDate>Sat, 26 Sep 2026 10:30:40 +0000</pubDate><description><![CDATA[<p>The Motorola Signature 27 has one huge advantage over other Samsung rivals
-
-If we&#39;re going to get a serious challenge to Samsung in the US, it has to come from Motorola, and the Signature 27 is a solid start.
-
-Affiliate links on Android Authority may earn us a commission. Learn more.
-
-The Motorola Signature 27 has one huge advantage over other Samsung rivals
-
-0 • Motorola Add Android Authority on Google: Preferred Source Google Discover I couldn’t contain my excitement when I heard that Motorola plans to bring its Signature 27 phone to the US. For the last few years, Motorola has teased a return with a traditional slab flagship, but each time it turned out to be an overseas release. Thankfully, Motorola seems serious this time, and the phone is shaping up to be a true flagship.
-
-It’ll run …</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/09/motorola-signature-27-both-colors-hero-scaled.jpg" alt="The Motorola Signature 27 has one huge advantage over other Samsung rivals"></p>]]></description><source url="https://www.androidauthority.com/motorola-signature-27-advantage-over-other-samsung-rivals-3714695/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/09/motorola-signature-27-both-colors-hero-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/09/motorola-signature-27-both-colors-hero-scaled.jpg"/></item>
-<item><title>Federal bill would force VPN providers, ISPs, and DNS services to block foreign piracy sites</title><link>https://www.tomshardware.com/software/vpn/federal-bill-would-force-vpn-providers-isps-and-dns-services-to-block-foreign-piracy-sites-yet-fuzzy-location-rules-could-trigger-heavy-handed-bans</link><guid isPermaLink="true">https://www.tomshardware.com/software/vpn/federal-bill-would-force-vpn-providers-isps-and-dns-services-to-block-foreign-piracy-sites-yet-fuzzy-location-rules-could-trigger-heavy-handed-bans</guid><pubDate>Sat, 26 Sep 2026 10:30:00 +0000</pubDate><description><![CDATA[<p>Federal bill would force VPN providers, ISPs, and DNS services to block foreign piracy sites
-
-Determining a user
-
-Federal bill would force VPN providers, ISPs, and DNS services to block foreign piracy sites — yet fuzzy location rules could trigger heavy-handed bans
-
-Determining a user&#39;s location can be an exercise in quantum mechanics when VPNs are involved.
-
-(Image credit: Getty Images) Copy link
-
-3 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter A week and change ago, the U.S. Congress saw yet another anti-piracy bill introduced, H.R. 10364 , or by its full name, the American Copyright Protection Act of 2026 (ACPA). It would require internet service providers, DNS resolving services, and virtual private networks, or VPNs, to b…</p><p><img src="https://cdn.mos.cms.futurecdn.net/ZVVUo4RCLgjR5t8FXoXdx4-2560-80.jpg" alt="Federal bill would force VPN providers, ISPs, and DNS services to block foreign piracy sites"></p>]]></description><source url="https://www.tomshardware.com/software/vpn/federal-bill-would-force-vpn-providers-isps-and-dns-services-to-block-foreign-piracy-sites-yet-fuzzy-location-rules-could-trigger-heavy-handed-bans">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/ZVVUo4RCLgjR5t8FXoXdx4-2560-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/ZVVUo4RCLgjR5t8FXoXdx4-2560-80.jpg"/></item>
-<item><title>The Galaxy Z Fold 8 is exactly what I’ve wanted in a foldable, but I’m more excited for the Z Fold 9</title><link>https://www.androidauthority.com/samsung-galaxy-z-fold-8-review-3708629/</link><guid isPermaLink="true">https://www.androidauthority.com/samsung-galaxy-z-fold-8-review-3708629/</guid><pubDate>Sat, 26 Sep 2026 10:15:20 +0000</pubDate><description><![CDATA[<p>The Galaxy Z Fold 8 is exactly what I’ve wanted in a foldable, but I’m more excited for the Z Fold 9
-
-Samsung recently launched its first wide-style fold, but is that cool inner screen worth the other compromises? This is our Galaxy Z Fold 8 review.
-
-Affiliate links on Android Authority may earn us a commission. Learn more.
-
-Hadlee Simons / Android Authority The Galaxy Z Fold 8 is exactly what I&#39;ve wanted in a foldable, but I&#39;m more excited for the Z Fold 9
-
-The Galaxy Z Fold 8 is a compelling first entry from Samsung into the wide-style foldable category, and it really feels like what large Folds should&#39;ve been all along. There are just a few compromises that keep this from being a truly complete flagship phone substitute for most people, but for everyone else, this is an excellent, smart…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/09/Samsung-Galaxy-Z-Fold-8-in-hand-showing-folding-screen-scaled-1.jpg" alt="The Galaxy Z Fold 8 is exactly what I’ve wanted in a foldable, but I’m more excited for the Z Fold 9"></p>]]></description><source url="https://www.androidauthority.com/samsung-galaxy-z-fold-8-review-3708629/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/09/Samsung-Galaxy-Z-Fold-8-in-hand-showing-folding-screen-scaled-1.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/09/Samsung-Galaxy-Z-Fold-8-in-hand-showing-folding-screen-scaled-1.jpg"/></item>
-<item><title>My favorite Pixel 11 Pro feature is something no other Android phone can match</title><link>https://www.androidauthority.com/pixel-11-pro-favorite-feature-face-unlock-why-3713749/</link><guid isPermaLink="true">https://www.androidauthority.com/pixel-11-pro-favorite-feature-face-unlock-why-3713749/</guid><pubDate>Sat, 26 Sep 2026 10:00:42 +0000</pubDate><description><![CDATA[<p>My favorite Pixel 11 Pro feature is something no other Android phone can match
-
-It&#39;s been about 3 years since Google revamped Face Unlock on Pixel phones, and the Pixel 11 Pro reminded me just how magical it is.
-
-Affiliate links on Android Authority may earn us a commission. Learn more.
-
-My favorite Pixel 11 Pro feature is something no other Android phone can match
-
-0 • Joe Maring / Android Authority Add Android Authority on Google: Preferred Source Google Discover I’m a big fan of the Pixel 11 Pro. I’ve been using Google’s flagship Android phone for over a month now, and there’s so much about it that I love — be it the excellent cameras, gorgeous design, or clean software.
-
-I talked about a lot of these things in my Pixel 11 Pro review , but there’s one feature I didn’t mention: Face Unlo…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-review-hero-photo-3-scaled.jpg" alt="My favorite Pixel 11 Pro feature is something no other Android phone can match"></p>]]></description><source url="https://www.androidauthority.com/pixel-11-pro-favorite-feature-face-unlock-why-3713749/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-review-hero-photo-3-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-review-hero-photo-3-scaled.jpg"/></item>
-<item><title>ChatGPT-6 Astra cracks 85-year-old 1941 Enigma-coded message in two days</title><link>https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-6-astra-cracks-1941-enigma-coded-message-in-two-days-autonomous-ai-coded-its-own-simulator-to-crack-code-that-was-unsolved-since-it-was-shared-online-back-in-2005</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-6-astra-cracks-1941-enigma-coded-message-in-two-days-autonomous-ai-coded-its-own-simulator-to-crack-code-that-was-unsolved-since-it-was-shared-online-back-in-2005</guid><pubDate>Sat, 26 Sep 2026 10:00:00 +0000</pubDate><description><![CDATA[<p>ChatGPT-6 Astra cracks 85-year-old 1941 Enigma-coded message in two days
-
-Before it started cracking, the LLM developed Python and C++ software for an Enigma simulator and Enigma Bombe.
-
-ChatGPT-6 Astra cracks 85-year-old 1941 Enigma-coded message in two days — autonomous AI coded its own simulator to crack code that was unsolved since it was shared online back in 2005
-
-Before it started cracking, the LLM developed Python and C++ software for an Enigma simulator and Enigma Bombe.
-
-(Image credit: Getty Images) Copy link
-
-0 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter A German Army Enigma transmission from 85 years ago, known as the MVUEH message, has been cracked by GTP-Astra in two days, reports the Crypto Cella . MVUEH was s…</p><p><img src="https://cdn.mos.cms.futurecdn.net/Gpd4WXYpC44LG25KjWMRMN-1920-80.jpg" alt="ChatGPT-6 Astra cracks 85-year-old 1941 Enigma-coded message in two days"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-6-astra-cracks-1941-enigma-coded-message-in-two-days-autonomous-ai-coded-its-own-simulator-to-crack-code-that-was-unsolved-since-it-was-shared-online-back-in-2005">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/Gpd4WXYpC44LG25KjWMRMN-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/Gpd4WXYpC44LG25KjWMRMN-1920-80.jpg"/></item>
 </channel></rss>
