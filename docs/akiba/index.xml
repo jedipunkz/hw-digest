@@ -1,6 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sun, 11 Oct 2026 23:42:19 +0000</lastBuildDate>
+<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Mon, 12 Oct 2026 05:55:57 +0000</lastBuildDate>
+<item><title>Alexa Tablet 8 / 11 / 12 Proの詳細スペックを比較</title><link>https://komameblog.jp/news/20261012-alexatablet/</link><guid isPermaLink="true">https://komameblog.jp/news/20261012-alexatablet/</guid><pubDate>Mon, 12 Oct 2026 05:52:57 +0000</pubDate><description><![CDATA[<p>Alexa Tablet 8 / 11 / 12 Proの詳細スペックを比較
+
+Amazonは2026年10月8日（米国時間）、タブレットの新シリーズ『Alexa Tablet』を発表しました。ラインナップは12インチの『Alexa Tablet 12 Pro』、11インチの『Alexa Tablet 11』、8.7イ...
+
+Amazonは2026年10月8日（米国時間）、タブレットの新シリーズ『Alexa Tablet』を発表しました。ラインナップは12インチの『Alexa Tablet 12 Pro』、11インチの『Alexa Tablet 11』、8.7インチの『Alexa Tablet 8』の3機種です。発売日は北米地域で10月14日、欧州の一部で10月19日。日本での発売は発表されていません。
+
+これまでのFireタブレットとは違い、OSはFire OSではなくAndroid OSを採用しています。アプリストアはGoogle Playストアにも対応。さらに生成AI版アシスタント「Alexa+」も標準搭載です。
+
+主要なスペックはすでに各メディアで報じられていますが、Amazonの開発者向けサイトで公開されている詳細仕様には、報道では触れられていない細かな違いがいくつもありました。そこでこの記事では、開発者向けの情報から各モデルの違いについて、ザックリと考察します。
+
+それぞれの機種の違いは、以下の表のとおりです。開発者向けの情報を参考にしているため、販売ページやプレスリリースには書かれていないこともまとめています。
+
+Alexa Tabletのデバイス仕様 概要 | Amazon Fireデバイスの仕様
+
+SoCはどちらもMediaTek MT8189で、CPUはCortex-A78×2＋Cortex-A55×6、GPUもMali-G57 MC2と共通です。違い…</p><p><img src="https://komameblog.jp/wp-content/uploads/2026/10/20261012-AlexaTablet02.jpg" alt="Alexa Tablet 8 / 11 / 12 Proの詳細スペックを比較"></p>]]></description><source url="https://komameblog.jp/news/20261012-alexatablet/">こまめブログ</source><media:content url="https://komameblog.jp/wp-content/uploads/2026/10/20261012-AlexaTablet02.jpg" medium="image"/><media:thumbnail url="https://komameblog.jp/wp-content/uploads/2026/10/20261012-AlexaTablet02.jpg"/></item>
+<item><title>グラボを超冷やすPCケース内ポジションが見つかる。配置変更だけで温度が19℃も低下</title><link>https://www.nichepcgamer.com/archives/post-132972.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/post-132972.html</guid><pubDate>Mon, 12 Oct 2026 04:01:33 +0000</pubDate><description><![CDATA[<p>グラボを超冷やすPCケース内ポジションが見つかる。配置変更だけで温度が19℃も低下
+
+グラボをめちゃくちゃ冷やすPCケース内ポジションが見つかりました。 グラボを超冷やすポジション まずは普通のグラボ配置をご覧ください。 デフォルトの状態 ごくごく一般的な縦置きPCケースで、グラボ(...
+
+グラボをめちゃくちゃ冷やすPCケース内ポジションが見つかりました。
+
+ごくごく一般的な縦置きPCケースで、グラボ(GeForce RTX 3080)はマザーボードの1スロット目に水平に配置されています。
+
+簡易水冷CPUクーラーのラジエーターのファンは排気、右側のPCケースファンは吸気、ファンはすべて固定回転数に設定。この状態で3DMark Time Spyと7-Zipベンチマークで10分間の負荷をかけたところ、各温度はCPUが65.2℃、GPUコアが70.9℃、GPUホットスポットが87.1℃、VRAMが95.4℃、マザーボードVRMが62.0℃になりました。
+
+YouTubeチャンネルの TrashBench はグラボの配置を変えるだけで、温度を下げることができないか、さまざまな配置を試しました。
+
+ライザーケーブルを使用して、グラボを吸気ファンの前に縦置きで置くことです。
+
+この状態にして負荷をかけたところ、グラボやCPUは以下の温度になりました。
+
+CPU温度は65.2℃から66.3℃になり、1.1℃上昇しました。しかし、 グラボ温度はGPUが54.2℃で16.7℃低下、ホットスポットが67.8℃で19.3℃も低下しました。
+
+そのほかのコンポーネントも同様に、VRAMが81.4℃で14℃低下、マザーボードVRMが54.2℃で7.8℃も低下しました。
+
+一般的ではない(どちらかというと変態的な)グラボの配置ですが、吸気ファンの前に縦置き配置するだけでこれほどまでの温度低下がある…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2026/10/gpu-top-a.jpg" alt="グラボを超冷やすPCケース内ポジションが見つかる。配置変更だけで温度が19℃も低下"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-132972.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2026/10/gpu-top-a.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2026/10/gpu-top-a.jpg"/></item>
+<item><title>Core i5-8500TやWindows 11 Pro搭載の「EliteDesk 800 G4 DM」が22,000円、Qualitの中古Cランク品セール</title><link>https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2146934.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2146934.html</guid><pubDate>Mon, 12 Oct 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>Core i5-8500TやWindows 11 Pro搭載の「EliteDesk 800 G4 DM」が22,000円、Qualitの中古Cランク品セール
+
+Core i5-8500T(6コア/6スレッド)を搭載したHP製ミニPC「EliteDesk 800 G4 DM」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で特価販売中。
+
+Core i5-8500TやWindows 11 Pro搭載の「EliteDesk 800 G4 DM」が22,000円、Qualitの中古Cランク品セール
+
+Core i5-8500T(6コア/6スレッド)を搭載したHP製ミニPC「EliteDesk 800 G4 DM」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で特価販売中 。
+
+今回販売されているのは、「傷や使用感が見られる」(同店)というCランク中古品で、販売価格は22,000円。保証期間は12か月となっています。
+
+主な仕様は、メモリが8GB(空きスロット×1)、ストレージが500GB SATA HDD、OSがWindows 11 Pro。インターフェイスには、DisplayPort×2やVGA、USB Type-Cなどを備えています。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2146/934/a1.jpg" alt="Core i5-8500TやWindows 11 Pro搭載の「EliteDesk 800 G4 DM」が22,000円、Qualitの中古Cランク品セール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2146934.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2146/934/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2146/934/a1.jpg"/></item>
+<item><title>待機電力0.005W未満、ベルキンが75W GaN充電器を発売</title><link>https://www.gdm.or.jp/pressrelease/2026/1012/655829</link><guid isPermaLink="true">https://www.gdm.or.jp/pressrelease/2026/1012/655829</guid><pubDate>Mon, 12 Oct 2026 01:30:21 +0000</pubDate><description><![CDATA[<p>待機電力0.005W未満、ベルキンが75W GaN充電器を発売
+
+Belkinは、待機電力を0.005W未満に抑えるZSP技術を搭載した75W GaN充電器「UltraCharge 75W GaN 充電器 ZSP」を発売した。USB PD 3.2とAVSに対応し、独自の放熱設計を採用。価格は税込3,490円。
+
+待機電力0.005W未満、ベルキンが75W GaN充電器を発売
+
+USB PD 3.2とAVSに対応、独自のZSP技術で待機電力を約95％削減
+
+ベルキン株式会社（本社：東京都中央区）は2026年10月9日、最大75W出力に対応するUSB-C充電器 「UltraCharge 75W GaN 充電器 ZSP」（型番：WCA017） を発売した。
+
+独自のZSP（Zero Standby Power）スマートチップとGaN（窒化ガリウム）技術を組み合わせたUSB-C充電器。接続機器を取り外すと自動的にスリープモードへ移行し、待機電力を0.005W未満に抑えることで、一般的な充電器と比較して年間の待機消費電力量を約95％削減できるという。
+
+充電規格はUSB PD 3.2に対応。AVS（Adjustable Voltage Supply）によって接続機器の電力要求に応じた電圧調整が可能で、スマートフォンやタブレットのほか、MacBookなどのノートPCにも最大75Wで給電できる。
+
+また、2層基板構造と高熱伝導性の銅製ヒートシンクを組み合わせた「Duo-Flow デュアルフロー放熱設計」を採用。内部の熱を効率よく分散させることで、高出力時の温度上昇を抑制し、安定した充電性能を維持する。
+
+安全面では、過電流保護や短絡保護、リアルタイムの温度監視による過熱時の自動停止機能を搭載。87項目の安全試験に加え、標高5,000mでの高地安全試験もクリアしている。なお、本体には75％…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/10/11/WCA017_001.jpg" alt="待機電力0.005W未満、ベルキンが75W GaN充電器を発売"></p>]]></description><source url="https://www.gdm.or.jp/pressrelease/2026/1012/655829">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/10/11/WCA017_001.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/10/11/WCA017_001.jpg"/></item>
+<item><title>iPhone Duoの展示は本気、在庫は厳しめ。体験→購入はワンテンポ遅れるかも</title><link>https://gori.me/apple/apple-news/171160</link><guid isPermaLink="true">https://gori.me/apple/apple-news/171160</guid><pubDate>Sun, 11 Oct 2026 23:55:23 +0000</pubDate><description><![CDATA[<p>iPhone Duoの展示は本気、在庫は厳しめ。体験→購入はワンテンポ遅れるかも
+
+Apple Fifth Avenueに150台以上、Apple Park Visitor Centerにおよそ100台。Appleは初の折りたたみiPhoneとなるiPhone Duoのデモ機を大量に用意する。ただ約2カ月前には生産が追いつかず、11月後半の発売も考えていたという。発売後もしばらく品薄が続くとみられる。
+
+iPhone Duoの展示は本気、在庫は厳しめ。体験→購入はワンテンポ遅れるかも
+
+約2カ月前は11月後半の発売も考えていた。なんとか10月発売に間に合わせた
+
+デモ機はApple Fifth Avenueに150台以上、Apple Park Visitor Centerにおよそ100台
+
+約2カ月前、Appleは生産が追いつかず販売開始が11月後半になるかもしれないと考えていた
+
+10月に発売できるだけの在庫は確保できたが、しばらく品薄が続くとみられる
+
+Apple初の折りたたみiPhone「 iPhone Duo 」の発売に合わせて、Appleが 米国のApple Storeで大がかりな展示を準備 している。デモ機を大量に並べて体験の場を広げる一方で、発売直後の在庫は少なめになりそうだ。
+
+BloombergのMark Gurman氏 によると、ニューヨークの旗艦店「Apple Fifth Avenue」には 150台以上 のデモ機が置かれる予定だ。 iPhone Duo は日本では10月16日21時に予約が始まり、10月23日に発売される。
+
+Apple Storeでの価格は、256GBモデルが 364,800円 からだ。スマホとしてはかなり高いだけに、買う前に実物を触りたい人は多いはずである。
+
+Gurman氏の情報では、デモ機の数は店によってかなり違う。Apple…</p><p><img src="https://gori.me/uploads/2026/10/iPhoneDuo-iPhone18Pro-AppleWatch-Series12-Ultra4-AirPods5-SepEvent2026-Hands-On-34.jpg" alt="iPhone Duoの展示は本気、在庫は厳しめ。体験→購入はワンテンポ遅れるかも"></p>]]></description><source url="https://gori.me/apple/apple-news/171160">gori.me</source><media:content url="https://gori.me/uploads/2026/10/iPhoneDuo-iPhone18Pro-AppleWatch-Series12-Ultra4-AirPods5-SepEvent2026-Hands-On-34.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/10/iPhoneDuo-iPhone18Pro-AppleWatch-Series12-Ultra4-AirPods5-SepEvent2026-Hands-On-34.jpg"/></item>
 <item><title>M7 MacBook Pro、来春には新デザイン採用か。エントリーモデルもタッチ対応＆有機ELに</title><link>https://gori.me/macbookpro/171158</link><guid isPermaLink="true">https://gori.me/macbookpro/171158</guid><pubDate>Sun, 11 Oct 2026 23:35:27 +0000</pubDate><description><![CDATA[<p>M7 MacBook Pro、来春には新デザイン採用か。エントリーモデルもタッチ対応＆有機ELに
 
 新型MacBook Proの新デザインが、2027年春にはM7搭載の14インチエントリーモデルにも広がりそうだ。BloombergのMark Gurman氏によると、上位モデルとの差は約6カ月。10月下旬の発表会ではM6搭載の現行デザイン機も出るとされ、今買うか春まで待つかの判断材料になる。
@@ -3874,21 +3959,6 @@ AmazonのKindleストアにて、「がきデカ」などの作品でおなじ�
 こちらはなんのキャンペーンか不明ですが、毎年1回定期的に行なわれているキャンペーンです。期間は不明。
 
 全8巻のうち、2巻だけ400円で販売されています。山上たつひこ作品と同じく、もしかするとあとで0円に切り替わるのかもしれません（切り替わらない可能性もありま…</p><p><img src="https://komameblog.jp/wp-content/uploads/2026/10/Kindle-20261007-yamagami.jpg" alt="山上たつひこ＆江口寿史作品のKindle版が0円"></p>]]></description><source url="https://komameblog.jp/sale/kindle-20261007-yamagami/">こまめブログ</source><media:content url="https://komameblog.jp/wp-content/uploads/2026/10/Kindle-20261007-yamagami.jpg" medium="image"/><media:thumbnail url="https://komameblog.jp/wp-content/uploads/2026/10/Kindle-20261007-yamagami.jpg"/></item>
-<item><title>【独自調査結果】iOS 27の使い心地に不満ゼロ Siri AIは52.9％が「すぐ使いたい」</title><link>https://iphone-mania.jp/ios-607114/</link><guid isPermaLink="true">https://iphone-mania.jp/ios-607114/</guid><pubDate>Wed, 07 Oct 2026 09:00:00 +0000</pubDate><description><![CDATA[<p>【独自調査結果】iOS 27の使い心地に不満ゼロ Siri AIは52.9％が「すぐ使いたい」
-
-iPhone Maniaでは、9月15日（火）に公開されたiOS 27について、アップデートした方の使い心地や良くなったところ・気になったところ、そして年内に日本語への対応が予定されているSiri
-
-【独自調査結果】iOS 27の使い心地に不満ゼロ Siri AIは52.9％が「すぐ使いたい」
-
-iPhone Maniaでは、9月15日（火）に公開されたiOS 27について、アップデートした方の使い心地や良くなったところ・気になったところ、そして年内に日本語への対応が予定されているSiri AIへの期待を探る読者アンケートを実施しました。9月30日から10月5日までの期間に、16人の方から回答をいただきました。回答数が少ないため、参考値としてご覧ください。
-
-アンケートは iMコミュニティで実施し、最初の設問で「アップデートした」「新しいiPhoneに最初から入っていた」と答えた方にだけ、使い心地などを尋ねる形式にしました。ご協力くださった皆様、ありがとうございます。
-
-「iOS 27、アップデートしましたか？」という質問では、「アップデートした」が81.3%、「新しいiPhoneに最初から入っていた」が6.3%で、あわせて87.5%がすでにiOS 27を使っていました。「まだアップデートしていない」は12.5%でした。
-
-まだの方のうち理由に答えた1人は、「元のバージョンに戻せないので慎重になっている」を選んでいます。iOS 27にアップデートすると、iOS 26には戻せません（ iOS27からiOS26へダウングレード不可に～今アップデートを迷う人が知るべきこと ）。
-
-iOS 27を使っている方に使い心地を聞いたところ、「とても良い」が21.4%、「まあまあ良い」が35.…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/10/survey_result_7th.png" alt="【独自調査結果】iOS 27の使い心地に不満ゼロ Siri AIは52.9％が「すぐ使いたい」"></p>]]></description><source url="https://iphone-mania.jp/ios-607114/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/10/survey_result_7th.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/10/survey_result_7th.png"/></item>
 <item><title>���ܤΤ褦�ʼ����������ζ���ι�����֥����ե����̤϶����Ԥ��׻�ͷ���ݡ��ȡ��������ɤ��к��ͷ⤬Ǯ�����������ѥ���������ADV��OIGS2026��</title><link>https://www.4gamer.net/games/048/G104834/20261007018/</link><guid isPermaLink="true">https://www.4gamer.net/games/048/G104834/20261007018/</guid><pubDate>Wed, 07 Oct 2026 09:00:00 +0000</pubDate><description><![CDATA[<p>���ܤΤ褦�ʼ����������ζ���ι�����֥����ե����̤϶����Ԥ��׻�ͷ���ݡ��ȡ��������ɤ��к��ͷ⤬Ǯ�����������ѥ���������ADV��OIGS2026��
 
 10月3日と4日に開催された「OSAKA INDIE GAMES SUMMIT 2026」にて，水鏡スタジオが制作する「セラフィーヌは空を行く」のデモ版が出展されていた。手描きイラストが織りなす美し…
@@ -3904,6 +3974,21 @@ iOS 27を使っている方に使い心地を聞いたところ、「とても�
 ↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
 
 ↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に…</p><p><img src="https://www.4gamer.net/games/048/G104834/20261007018/SS/004.jpg" alt="���ܤΤ褦�ʼ����������ζ���ι�����֥����ե����̤϶����Ԥ��׻�ͷ���ݡ��ȡ��������ɤ��к��ͷ⤬Ǯ�����������ѥ���������ADV��OIGS2026��"></p>]]></description><source url="https://www.4gamer.net/games/048/G104834/20261007018/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/048/G104834/20261007018/SS/004.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/048/G104834/20261007018/SS/004.jpg"/></item>
+<item><title>【独自調査結果】iOS 27の使い心地に不満ゼロ Siri AIは52.9％が「すぐ使いたい」</title><link>https://iphone-mania.jp/ios-607114/</link><guid isPermaLink="true">https://iphone-mania.jp/ios-607114/</guid><pubDate>Wed, 07 Oct 2026 09:00:00 +0000</pubDate><description><![CDATA[<p>【独自調査結果】iOS 27の使い心地に不満ゼロ Siri AIは52.9％が「すぐ使いたい」
+
+iPhone Maniaでは、9月15日（火）に公開されたiOS 27について、アップデートした方の使い心地や良くなったところ・気になったところ、そして年内に日本語への対応が予定されているSiri
+
+【独自調査結果】iOS 27の使い心地に不満ゼロ Siri AIは52.9％が「すぐ使いたい」
+
+iPhone Maniaでは、9月15日（火）に公開されたiOS 27について、アップデートした方の使い心地や良くなったところ・気になったところ、そして年内に日本語への対応が予定されているSiri AIへの期待を探る読者アンケートを実施しました。9月30日から10月5日までの期間に、16人の方から回答をいただきました。回答数が少ないため、参考値としてご覧ください。
+
+アンケートは iMコミュニティで実施し、最初の設問で「アップデートした」「新しいiPhoneに最初から入っていた」と答えた方にだけ、使い心地などを尋ねる形式にしました。ご協力くださった皆様、ありがとうございます。
+
+「iOS 27、アップデートしましたか？」という質問では、「アップデートした」が81.3%、「新しいiPhoneに最初から入っていた」が6.3%で、あわせて87.5%がすでにiOS 27を使っていました。「まだアップデートしていない」は12.5%でした。
+
+まだの方のうち理由に答えた1人は、「元のバージョンに戻せないので慎重になっている」を選んでいます。iOS 27にアップデートすると、iOS 26には戻せません（ iOS27からiOS26へダウングレード不可に～今アップデートを迷う人が知るべきこと ）。
+
+iOS 27を使っている方に使い心地を聞いたところ、「とても良い」が21.4%、「まあまあ良い」が35.…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/10/survey_result_7th.png" alt="【独自調査結果】iOS 27の使い心地に不満ゼロ Siri AIは52.9％が「すぐ使いたい」"></p>]]></description><source url="https://iphone-mania.jp/ios-607114/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/10/survey_result_7th.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/10/survey_result_7th.png"/></item>
 <item><title>発売から5年お疲れ様。Pixel 6と6 Pro、ついにアップデート終了の見込み</title><link>https://smhn.info/202610-google-pixel-6-pro-final-update-end-of-life</link><guid isPermaLink="true">https://smhn.info/202610-google-pixel-6-pro-final-update-end-of-life</guid><pubDate>Wed, 07 Oct 2026 08:39:55 +0000</pubDate><description><![CDATA[<p>発売から5年お疲れ様。Pixel 6と6 Pro、ついにアップデート終了の見込み
 
 長期間利用するスマートフォンで鍵を握るのが、メーカーによるアップデートの提供期間。気前のいいアップデート公約こそされるものの、「実際にアップデートされるの？」と心配しているひともいるはず。そこで参考になるのが今回のニュース。Google初のスマートフォン向け独自SoC「Googl...
@@ -4041,6 +4126,19 @@ View 590 TG ARGBシリーズは、フロントから左サイドにかけて1枚
 冷却ファンは、右側面に120mmアドレサブルRGBリバースファン×3、リアに120mmアドレサブルRGBファン×2を標準搭載。いずれもインフィニティミラーを内蔵している。
 
 搭載可能なファンは、上面が120mm×3または140mm×2、右側面と底面が120mm×3、背面が120mm×2で、最大11基の120mmファ…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2145/422/a1.jpg" alt="Thermaltakeの曲面強化ガラス/デュアルチャンバーケース「View 590 TG ARGB」がTSUKUMOで展示スタート"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2145422.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2145/422/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2145/422/a1.jpg"/></item>
+<item><title>台形表面処理の高速ガラスマウスパッド「Tekkusai Apex」が展示スタート</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2144861.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2144861.html</guid><pubDate>Wed, 07 Oct 2026 04:30:00 +0000</pubDate><description><![CDATA[<p>台形表面処理の高速ガラスマウスパッド「Tekkusai Apex」が展示スタート
+
+Tekkusaiブランドのガラス製ゲーミングマウスパッド「Apex」の先行展示が、ふもショールーム秋葉原でスタート。
+
+台形表面処理の高速ガラスマウスパッド「Tekkusai Apex」が展示スタート
+
+Tekkusaiブランドのガラス製ゲーミングマウスパッド「Apex」の先行展示が、 ふもショールーム秋葉原 でスタート。
+
+Apexは、500×450×1.5mmサイズのガラス製マウスパッド。
+
+頂点が平らに切り出された台形の表面に2段階のエッチング処理を施しており、二層コーティングとの組み合わせで滑らかかつ高速な操作性をうたう。
+
+パッケージにはUWS Magic Ice Plusドットソール20個も付属する。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2144/861/s1.jpg" alt="台形表面処理の高速ガラスマウスパッド「Tekkusai Apex」が展示スタート"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2144861.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2144/861/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2144/861/s1.jpg"/></item>
 <item><title>�����ƥ�����ˡ��50��ǯ��ǰ���ǥ��Υǥ����ȥå�PC���ޥ��������ԥ塼������ȯɽ�����̻��ͤ�PC��������LED�Ǻ̤��줿����</title><link>https://www.4gamer.net/games/026/G002654/20261007006/</link><guid isPermaLink="true">https://www.4gamer.net/games/026/G002654/20261007006/</guid><pubDate>Wed, 07 Oct 2026 04:30:00 +0000</pubDate><description><![CDATA[<p>�����ƥ�����ˡ��50��ǯ��ǰ���ǥ��Υǥ����ȥå�PC���ޥ��������ԥ塼������ȯɽ�����̻��ͤ�PC��������LED�Ǻ̤��줿����
 
 2026年10月7日，マウスコンピューターは，Intelの日本法人であるインテル株式会社の創立50周年を記念したデスクトップPC「G TUNE FZ-I7G80」を発表した。PCケースに独自のラッピ…
@@ -4056,19 +4154,6 @@ View 590 TG ARGBシリーズは、フロントから左サイドにかけて1枚
 ↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
 
 ↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか…</p><p><img src="https://www.4gamer.net/games/026/G002654/20261007006/SS/002.jpg" alt="�����ƥ�����ˡ��50��ǯ��ǰ���ǥ��Υǥ����ȥå�PC���ޥ��������ԥ塼������ȯɽ�����̻��ͤ�PC��������LED�Ǻ̤��줿����"></p>]]></description><source url="https://www.4gamer.net/games/026/G002654/20261007006/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/026/G002654/20261007006/SS/002.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/026/G002654/20261007006/SS/002.jpg"/></item>
-<item><title>台形表面処理の高速ガラスマウスパッド「Tekkusai Apex」が展示スタート</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2144861.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2144861.html</guid><pubDate>Wed, 07 Oct 2026 04:30:00 +0000</pubDate><description><![CDATA[<p>台形表面処理の高速ガラスマウスパッド「Tekkusai Apex」が展示スタート
-
-Tekkusaiブランドのガラス製ゲーミングマウスパッド「Apex」の先行展示が、ふもショールーム秋葉原でスタート。
-
-台形表面処理の高速ガラスマウスパッド「Tekkusai Apex」が展示スタート
-
-Tekkusaiブランドのガラス製ゲーミングマウスパッド「Apex」の先行展示が、 ふもショールーム秋葉原 でスタート。
-
-Apexは、500×450×1.5mmサイズのガラス製マウスパッド。
-
-頂点が平らに切り出された台形の表面に2段階のエッチング処理を施しており、二層コーティングとの組み合わせで滑らかかつ高速な操作性をうたう。
-
-パッケージにはUWS Magic Ice Plusドットソール20個も付属する。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2144/861/s1.jpg" alt="台形表面処理の高速ガラスマウスパッド「Tekkusai Apex」が展示スタート"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2144861.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2144/861/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2144/861/s1.jpg"/></item>
 <item><title>PixelのGemini、アシスタント強制移行後に不具合多発。</title><link>https://smhn.info/202610-pixel-october-update-gemini-hey-google-issues</link><guid isPermaLink="true">https://smhn.info/202610-pixel-october-update-gemini-hey-google-issues</guid><pubDate>Wed, 07 Oct 2026 04:22:05 +0000</pubDate><description><![CDATA[<p>PixelのGemini、アシスタント強制移行後に不具合多発。
 
 Pixelには毎月、セキュリティ修正と不具合修正をまとめたアップデートが届きます。10月分の配信が10月6日に始まりました。ただ、Pixel利用者が集まるRedditのコミュニティ「r/GooglePixel」では、アップデートそのものよりも、GoogleアシスタントからGemi...
@@ -5419,19 +5504,6 @@ Viper V3 Pro Faker Editionは、レイザーのゲーミングマウス「Viper 
 Razer Viper V3 Pro Faker Edition
 
 ロジクールの10月15日発売の最新ゲーミングマウス「Logicool G PRO X3 SUPERSTRIKE LIGHTSPEED」(G-PPD-X3-STRK-MBd)が、10月23日まで利用可能なクーポン適用で…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2145/895/03.jpg" alt="【本日みつけたお買い得品】FakerコラボのRazerゲーミングマウスが約1万円引きでAmazonセール中"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/todays_sales/2145895.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2145/895/03.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2145/895/03.jpg"/></item>
-<item><title>「なぜつながらないか」を画面で表示。Anker初のディスプレイ搭載ドック</title><link>https://pc.watch.impress.co.jp/docs/news/2145862.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2145862.html</guid><pubDate>Tue, 06 Oct 2026 02:00:00 +0000</pubDate><description><![CDATA[<p>「なぜつながらないか」を画面で表示。Anker初のディスプレイ搭載ドック
-
-「このUSB認識されてない気がするんだけどなんで？」そんなときにきっと役立つ――Ankerは10月6日、本体にディスプレイを搭載し、接続状況が一目で分かるUSB Type-C接続のドッキングステーション「Anker Nano USB-C ハブ(10-in-1, 240Hz, Display)」を発売した。価格は1万6,990円。
-
-「なぜつながらないか」を画面で表示。Anker初のディスプレイ搭載ドック
-
-「このUSB認識されてない気がするんだけどなんで？」そんなときにきっと役立つ――Ankerは10月6日、本体にディスプレイを搭載し、接続状況が一目で分かるUSB Type-C接続のドッキングステーション「Anker Nano USB-C ハブ(10-in-1, 240Hz, Display)」を発売した。価格は1万6,990円。
-
-同社初となるディスプレイ搭載USB Type-Cドッキングステーションで、5月に開催された「Anker Power Conference 2026」で展示されていた。本体前面のディスプレイに各ポートの電力出力状況やデータ転送速度、本体の温度などをリアルタイムに表示できるのが最大の特徴で、接続不良などをメッセージで即座に判断できる。
-
-本体ディスプレイだけでなく、専用アプリや、本体をPCに接続するとアクセスできる専用のWebブラウザ用サイトからも、各ポートの接続状況の確認や詳細設定のカスタマイズが行なえる。また、集中モード(ポモドーロタイマー機能)も備える。
-
-ポートの大半を背面側に集約し、ケーブルを背面および下方向に逃がせるデザインも特徴。ディスプレイに角度を付けて固定し、机にも吸着できるマグネット式のベースが付属する。本体上部のボタンの1回タップで起動/画面オン、2回…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2145/862/1.jpg" alt="「なぜつながらないか」を画面で表示。Anker初のディスプレイ搭載ドック"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2145862.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2145/862/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2145/862/1.jpg"/></item>
 <item><title>Anker初の画面付きUSB-Cハブ登場。電力や転送速度が丸見え、240Hz出力にも対応</title><link>https://smhn.info/202610-anker-nano-usb-c-hub-display-240hz-launch</link><guid isPermaLink="true">https://smhn.info/202610-anker-nano-usb-c-hub-display-240hz-launch</guid><pubDate>Tue, 06 Oct 2026 02:00:00 +0000</pubDate><description><![CDATA[<p>Anker初の画面付きUSB-Cハブ登場。電力や転送速度が丸見え、240Hz出力にも対応
 
 アンカー・ジャパンは10月6日、ディスプレイを搭載したUSB-Cハブ「Anker Nano USB-C ハブ（10-in-1, 240Hz, Display）」を発売しました。通常価格は税込1万6990円。画面を備えたUSB-CハブはAnker初だとしています。本体前面のディスプ...
@@ -5466,6 +5538,19 @@ Anker初の画面付きUSB-Cハブ登場。電力や転送速度が丸見え、2
 このほか、ハブの接続を検知するとアクセスできるWebアプリから各ポートの出力/転送状況のリアルタイム確認やタイマー設定、画面出力などのカスタマイズなどが可能。
 
 上記以外の搭載インターフェースは、USB Type-Cポート（最大100W入力/最大80W出力）×1、USB Type-Cポート（10Gbps）×1…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2145/426/a1.jpg" alt="モニタリングディスプレイ搭載のUSB Type-C多機能ドックがAnkerから、USBや有線LANなど計10ポート"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2145426.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2145/426/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2145/426/a1.jpg"/></item>
+<item><title>「なぜつながらないか」を画面で表示。Anker初のディスプレイ搭載ドック</title><link>https://pc.watch.impress.co.jp/docs/news/2145862.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2145862.html</guid><pubDate>Tue, 06 Oct 2026 02:00:00 +0000</pubDate><description><![CDATA[<p>「なぜつながらないか」を画面で表示。Anker初のディスプレイ搭載ドック
+
+「このUSB認識されてない気がするんだけどなんで？」そんなときにきっと役立つ――Ankerは10月6日、本体にディスプレイを搭載し、接続状況が一目で分かるUSB Type-C接続のドッキングステーション「Anker Nano USB-C ハブ(10-in-1, 240Hz, Display)」を発売した。価格は1万6,990円。
+
+「なぜつながらないか」を画面で表示。Anker初のディスプレイ搭載ドック
+
+「このUSB認識されてない気がするんだけどなんで？」そんなときにきっと役立つ――Ankerは10月6日、本体にディスプレイを搭載し、接続状況が一目で分かるUSB Type-C接続のドッキングステーション「Anker Nano USB-C ハブ(10-in-1, 240Hz, Display)」を発売した。価格は1万6,990円。
+
+同社初となるディスプレイ搭載USB Type-Cドッキングステーションで、5月に開催された「Anker Power Conference 2026」で展示されていた。本体前面のディスプレイに各ポートの電力出力状況やデータ転送速度、本体の温度などをリアルタイムに表示できるのが最大の特徴で、接続不良などをメッセージで即座に判断できる。
+
+本体ディスプレイだけでなく、専用アプリや、本体をPCに接続するとアクセスできる専用のWebブラウザ用サイトからも、各ポートの接続状況の確認や詳細設定のカスタマイズが行なえる。また、集中モード(ポモドーロタイマー機能)も備える。
+
+ポートの大半を背面側に集約し、ケーブルを背面および下方向に逃がせるデザインも特徴。ディスプレイに角度を付けて固定し、机にも吸着できるマグネット式のベースが付属する。本体上部のボタンの1回タップで起動/画面オン、2回…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2145/862/1.jpg" alt="「なぜつながらないか」を画面で表示。Anker初のディスプレイ搭載ドック"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2145862.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2145/862/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2145/862/1.jpg"/></item>
 <item><title>愛用中のブラウン電動歯ブラシがほぼ半額。家族と実家にも買った1本</title><link>https://gori.me/sale/peripheral-sale/170980</link><guid isPermaLink="true">https://gori.me/sale/peripheral-sale/170980</guid><pubDate>Tue, 06 Oct 2026 01:49:06 +0000</pubDate><description><![CDATA[<p>愛用中のブラウン電動歯ブラシがほぼ半額。家族と実家にも買った1本
 
 ブラウンの電動歯ブラシ「オーラルB iO9」がAmazonで48％オフになり、66,980円が34,800円になった。2022年11月から使い続ける僕が、小さなヘッドの磨きやすさ、7つのモード、力加減を3色で示すセンサー、時間が分かるディスプレイの良さを紹介する。家族や実家にもすすめた1本だ。
@@ -6948,21 +7033,6 @@ CCコネクト には「Xperia 1 IV（SO-51C）」の中古Cランク品が入�
 じゃんぱら秋葉原5号店 では「Xperia 1 VII」の中古Aランク品が販売中。価格は149,480円となっています。
 
 ※掲載品の価格、在庫状況は調査時のものであり、販売価格の変更や販売終了となっている場合がありますのであらかじめご了承ください。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2145/432/a1.jpg" alt="「Xperia 10 VI」が37,800円、「Xperia 1 IV」が34,800円など！秋葉原でXperiaシリーズの中古品がお買い得"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2145432.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2145/432/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2145/432/a1.jpg"/></item>
-<item><title>80ǯ���ؤζ�����ʸ��Ū�������Ϥ��礦���ޥ������ϼ�ADV�ֱ����Υ��ե��פ��ץ쥤���ʤ����ޥ������ϼ����������Τ���ȯ�Ԥ�ʹ������OIGS2026��</title><link>https://www.4gamer.net/games/964/G096416/20261004010/</link><guid isPermaLink="true">https://www.4gamer.net/games/964/G096416/20261004010/</guid><pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate><description><![CDATA[<p>80ǯ���ؤζ�����ʸ��Ū�������Ϥ��礦���ޥ������ϼ�ADV�ֱ����Υ��ե��פ��ץ쥤���ʤ����ޥ������ϼ����������Τ���ȯ�Ԥ�ʹ������OIGS2026��
-
-10月3日と4日に大阪で開催された「OSAKA INDIE GAMES SUMMIT 2026」にて，Neji. Gamesの新作コマンド入力式ADV「駅前のカフカ」が試遊出展された。80年代PCゲ…
-
-80年代への郷愁と文学的世界が溶け合うコマンド入力式ADV「駅前のカフカ」をプレイ。なぜコマンド入力式を選んだのか開発者に聞いた［OIGS2026］ ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
-
-↓アイコン/タイトル↓ 作品のアニマはどこに宿るのか。「リベンジオブザセブン」と「サガフロ2 リマスター」，ふたつの“伝承”のかたち ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 東京ゲームショウに来たら“読みもの”を集めよう！ 雑誌にカタログ，新聞風。会場で見つけた＆もらった小冊子を紹介［TGS2026］ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 映画「オデュッセイア」を一…</p><p><img src="https://www.4gamer.net/games/964/G096416/20261004010/SS/016.jpg" alt="80ǯ���ؤζ�����ʸ��Ū�������Ϥ��礦���ޥ������ϼ�ADV�ֱ����Υ��ե��פ��ץ쥤���ʤ����ޥ������ϼ����������Τ���ȯ�Ԥ�ʹ������OIGS2026��"></p>]]></description><source url="https://www.4gamer.net/games/964/G096416/20261004010/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/964/G096416/20261004010/SS/016.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/964/G096416/20261004010/SS/016.jpg"/></item>
 <item><title>�����ե��٥å��פǱ�ñ�����������������沈������WORJONG�ס����פ����ζɤػĤ��ȼ��롼���䡤�����Ȥΰ㤤�ˤĤ���ʹ������OIGS2026��</title><link>https://www.4gamer.net/games/047/G104761/20261004011/</link><guid isPermaLink="true">https://www.4gamer.net/games/047/G104761/20261004011/</guid><pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate><description><![CDATA[<p>�����ե��٥å��פǱ�ñ�����������������沈������WORJONG�ס����פ����ζɤػĤ��ȼ��롼���䡤�����Ȥΰ㤤�ˤĤ���ʹ������OIGS2026��
 
 アルファベット牌で3文字の英単語を4つ作り，アガリを目指す。OIGS2026で試遊した「WORJONG」は，そんな麻雀風対戦ゲームだ。誰かがアガっても，ほかの人の手牌はそのまま残るのが大きな特徴とな…
@@ -6978,6 +7048,21 @@ CCコネクト には「Xperia 1 IV（SO-51C）」の中古Cランク品が入�
 ↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
 
 ↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難…</p><p><img src="https://www.4gamer.net/games/047/G104761/20261004011/SS/009.jpg" alt="�����ե��٥å��פǱ�ñ�����������������沈������WORJONG�ס����פ����ζɤػĤ��ȼ��롼���䡤�����Ȥΰ㤤�ˤĤ���ʹ������OIGS2026��"></p>]]></description><source url="https://www.4gamer.net/games/047/G104761/20261004011/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/047/G104761/20261004011/SS/009.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/047/G104761/20261004011/SS/009.jpg"/></item>
+<item><title>80ǯ���ؤζ�����ʸ��Ū�������Ϥ��礦���ޥ������ϼ�ADV�ֱ����Υ��ե��פ��ץ쥤���ʤ����ޥ������ϼ����������Τ���ȯ�Ԥ�ʹ������OIGS2026��</title><link>https://www.4gamer.net/games/964/G096416/20261004010/</link><guid isPermaLink="true">https://www.4gamer.net/games/964/G096416/20261004010/</guid><pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate><description><![CDATA[<p>80ǯ���ؤζ�����ʸ��Ū�������Ϥ��礦���ޥ������ϼ�ADV�ֱ����Υ��ե��פ��ץ쥤���ʤ����ޥ������ϼ����������Τ���ȯ�Ԥ�ʹ������OIGS2026��
+
+10月3日と4日に大阪で開催された「OSAKA INDIE GAMES SUMMIT 2026」にて，Neji. Gamesの新作コマンド入力式ADV「駅前のカフカ」が試遊出展された。80年代PCゲ…
+
+80年代への郷愁と文学的世界が溶け合うコマンド入力式ADV「駅前のカフカ」をプレイ。なぜコマンド入力式を選んだのか開発者に聞いた［OIGS2026］ ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
+
+↓アイコン/タイトル↓ 作品のアニマはどこに宿るのか。「リベンジオブザセブン」と「サガフロ2 リマスター」，ふたつの“伝承”のかたち ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 東京ゲームショウに来たら“読みもの”を集めよう！ 雑誌にカタログ，新聞風。会場で見つけた＆もらった小冊子を紹介［TGS2026］ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 映画「オデュッセイア」を一…</p><p><img src="https://www.4gamer.net/games/964/G096416/20261004010/SS/016.jpg" alt="80ǯ���ؤζ�����ʸ��Ū�������Ϥ��礦���ޥ������ϼ�ADV�ֱ����Υ��ե��פ��ץ쥤���ʤ����ޥ������ϼ����������Τ���ȯ�Ԥ�ʹ������OIGS2026��"></p>]]></description><source url="https://www.4gamer.net/games/964/G096416/20261004010/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/964/G096416/20261004010/SS/016.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/964/G096416/20261004010/SS/016.jpg"/></item>
 <item><title>「デザインのApple」に磨き。新CEOが自ら統括、週に何度もスタジオへ</title><link>https://gori.me/apple/apple-news/170923</link><guid isPermaLink="true">https://gori.me/apple/apple-news/170923</guid><pubDate>Sun, 04 Oct 2026 23:11:44 +0000</pubDate><description><![CDATA[<p>「デザインのApple」に磨き。新CEOが自ら統括、週に何度もスタジオへ
 
 Appleの新CEO・John Ternus氏が、製品の見た目とソフトの画面設計の両方を自ら統括していると報じられた。週に何度もデザインスタジオに通い、1日に複数回訪れる日もあるという。Jony Ive氏が2019年に去って以来、ハードとソフトのデザインを1人で見るトップは不在だった。その座をCEO本人が担う形だ。
@@ -7048,15 +7133,6 @@ iPhone 18 Proは「近年で最も問題の多い発売」？ 通信不能、異
 米国のAT&amp;T回線では、iPhone 18 Pro Maxが通信できなくなる不具合が発生しています。Appleは10月2日に問題を認め、iOS 27.0.1やキャリア設定の更新による予防策を示す一方、すでに発症した端末は本体交換が必要と案内（ 既報 ）。Face IDの認証失敗後にフリーズして再起動する不具合についても、ソフトウェア更新で修正済みです（ 既報 ）。
 
 上部スピーカーから「パチッ」…</p><p><img src="https://smhn.info/wp-content/uploads/2026/10/q72bjmf78bqh1.webp" alt="iPhone 18 Proは「近年で最も問題の多い発売」？ 通信不能、異音、カメラ周りの変色まで報告が相次ぐ"></p>]]></description><source url="https://smhn.info/202610-iphone-18-pro-launch-problems-reports-roundup">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/10/q72bjmf78bqh1.webp" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/10/q72bjmf78bqh1.webp"/></item>
-<item><title>Core i5-1135G7+16GBメモリ搭載「ProBook 450 G8」が54,980円、パソコン工房で中古品が販売中</title><link>https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2145438.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2145438.html</guid><pubDate>Sun, 04 Oct 2026 22:00:00 +0000</pubDate><description><![CDATA[<p>Core i5-1135G7+16GBメモリ搭載「ProBook 450 G8」が54,980円、パソコン工房で中古品が販売中
-
-Core i5-1135G7(4コア/8スレッド)を搭載した15.6型ノートPC「ProBook 450 G8」の中古品が、パソコン工房の通販サイトで販売中。販売されているのは3か月保証が付いた中古品で、価格は54,980円となっています。
-
-Core i5-1135G7+16GBメモリ搭載「ProBook 450 G8」が54,980円、パソコン工房で中古品が販売中
-
-Core i5-1135G7(4コア/8スレッド)を搭載した15.6型ノートPC「ProBook 450 G8」の中古品が、 パソコン工房の通販サイト で販売中。販売されているのは3か月保証が付いた中古品で、価格は54,980円となっています。
-
-主な仕様は、ディスプレイ解像度が1,920×1,080ドット、メモリが16GB、ストレージが256GB SSD、OSがWindows 11 Pro(MAR)。このほか、Webカメラや無線LAN機能などを搭載しています。興味がある方はチェックしてみてください。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2145/438/a1.jpg" alt="Core i5-1135G7+16GBメモリ搭載「ProBook 450 G8」が54,980円、パソコン工房で中古品が販売中"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2145438.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2145/438/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2145/438/a1.jpg"/></item>
 <item><title>��ε�䥨���ꥢ�����Ԥ����������������档PvE���塼�ƥ��󥰡�Turok: Origins�פγ�ȯ�ؤˡ��Ķ��ǥ���������Ʈ�����ƥ��ˤĤ���ʹ����</title><link>https://www.4gamer.net/games/865/G086591/20260921049/</link><guid isPermaLink="true">https://www.4gamer.net/games/865/G086591/20260921049/</guid><pubDate>Sun, 04 Oct 2026 22:00:00 +0000</pubDate><description><![CDATA[<p>��ε�䥨���ꥢ�����Ԥ����������������档PvE���塼�ƥ��󥰡�Turok: Origins�פγ�ȯ�ؤˡ��Ķ��ǥ���������Ʈ�����ƥ��ˤĤ���ʹ����
 
 恐竜やエイリアンの脅威に立ち向かうシューティングゲーム「Turok: Origins」。本稿では，TGS 2026に合わせて実施した開発者インタビューの模様をお伝えしよう。シリーズの多彩な要素を受け…
@@ -7072,6 +7148,15 @@ Core i5-1135G7(4コア/8スレッド)を搭載した15.6型ノートPC「ProBook
 ↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
 
 ↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰…</p><p><img src="https://www.4gamer.net/games/865/G086591/20260921049/SS/004.jpg" alt="��ε�䥨���ꥢ�����Ԥ����������������档PvE���塼�ƥ��󥰡�Turok: Origins�פγ�ȯ�ؤˡ��Ķ��ǥ���������Ʈ�����ƥ��ˤĤ���ʹ����"></p>]]></description><source url="https://www.4gamer.net/games/865/G086591/20260921049/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/865/G086591/20260921049/SS/004.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/865/G086591/20260921049/SS/004.jpg"/></item>
+<item><title>Core i5-1135G7+16GBメモリ搭載「ProBook 450 G8」が54,980円、パソコン工房で中古品が販売中</title><link>https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2145438.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2145438.html</guid><pubDate>Sun, 04 Oct 2026 22:00:00 +0000</pubDate><description><![CDATA[<p>Core i5-1135G7+16GBメモリ搭載「ProBook 450 G8」が54,980円、パソコン工房で中古品が販売中
+
+Core i5-1135G7(4コア/8スレッド)を搭載した15.6型ノートPC「ProBook 450 G8」の中古品が、パソコン工房の通販サイトで販売中。販売されているのは3か月保証が付いた中古品で、価格は54,980円となっています。
+
+Core i5-1135G7+16GBメモリ搭載「ProBook 450 G8」が54,980円、パソコン工房で中古品が販売中
+
+Core i5-1135G7(4コア/8スレッド)を搭載した15.6型ノートPC「ProBook 450 G8」の中古品が、 パソコン工房の通販サイト で販売中。販売されているのは3か月保証が付いた中古品で、価格は54,980円となっています。
+
+主な仕様は、ディスプレイ解像度が1,920×1,080ドット、メモリが16GB、ストレージが256GB SSD、OSがWindows 11 Pro(MAR)。このほか、Webカメラや無線LAN機能などを搭載しています。興味がある方はチェックしてみてください。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2145/438/a1.jpg" alt="Core i5-1135G7+16GBメモリ搭載「ProBook 450 G8」が54,980円、パソコン工房で中古品が販売中"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2145438.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2145/438/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2145/438/a1.jpg"/></item>
 <item><title>新型MacBook Proは「かなり軽い」らしいぞ。タッチ対応・有機ELで11月発表予想</title><link>https://gori.me/macbookpro/170909</link><guid isPermaLink="true">https://gori.me/macbookpro/170909</guid><pubDate>Sun, 04 Oct 2026 21:35:48 +0000</pubDate><description><![CDATA[<p>新型MacBook Proは「かなり軽い」らしいぞ。タッチ対応・有機ELで11月発表予想
 
 BloombergのGurman氏によると、有機ELと画面タッチに初めて対応する新型MacBook Proが来月までに登場しそうだ。中身を設計し直して部品を小さくし、配置も見直したことで、今のモデルより「かなり軽く」なるという。今の16インチMacBook Proは最大約2.18kgあり、15インチMacBook Air（約1.5kg）との差は700g近い。
@@ -8525,73 +8610,4 @@ Mapツールは、写真・カメラ・アバター・ファイル・ドライ�
 ちなみに、 Google アプリのベータ版（バージョン17.63）では、スキルを呼び出す記号が「/」から「@」に変わり始めている。スキルとは、Gemsに代わる新しい機能で、 Google が今週の水曜日に発表したばかり。「@」はこれまで連携アプリ（もうすぐ「Connectors」に名前が変わる予定）で使われていた記号で、この変更はまだ一部にしか届いていない。
 
 地図の操作の流れや「@」に変わったときの画面は、 9to5G…</p><p><img src="https://gori.me/uploads/2026/10/gemini-app-map-tool-800x693.jpg" alt="GeminiアプリにMapツールが登場。地図で場所を選んで質問できる"></p>]]></description><source url="https://gori.me/google/google-news/170876">gori.me</source><media:content url="https://gori.me/uploads/2026/10/gemini-app-map-tool-800x693.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/10/gemini-app-map-tool-800x693.jpg"/></item>
-<item><title>12万回の折り曲げに耐える1本3役の超タフケーブル、オウルテックから</title><link>https://pc.watch.impress.co.jp/docs/news/2145390.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2145390.html</guid><pubDate>Fri, 02 Oct 2026 21:14:00 +0000</pubDate><description><![CDATA[<p>12万回の折り曲げに耐える1本3役の超タフケーブル、オウルテックから
-
-オウルテックは10月2日、約12万回の折り曲げ試験をクリアしたとする3in1ケーブル「OWL-CBA6ABMシリーズ」を発売した。直販価格は3,180円。
-
-12万回の折り曲げに耐える1本3役の超タフケーブル、オウルテックから
-
-オウルテックは10月2日、約12万回の折り曲げ試験をクリアしたとする3in1ケーブル「OWL-CBA6ABMシリーズ」を発売した。直販価格は3,180円。
-
-OWL-CBA6ABMシリーズは、同社が展開する超タフケーブルの第5世代となる製品。防弾チョッキにも用いられるアラミド繊維を採用しており、やわらかさと断線に対する強さを両立しているとうたう。
-
-本体のMicro USB端子に付属の変換アダプタを装着することで、USB Type-CやLightning端子としても利用可能で、さまざまな機器の充電やデータ転送ができる。また、LightningはMFi認証を取得しており、iOSのアップデート後も継続して使用できる。
-
-主な仕様として、ケーブル長は1.5m、コネクタ形状はUSB 2.0 Type-A(オス)-Micro USB(オス)、充電出力は最大2.4A。カラーバリエーションはブラックとホワイト。
-
-付属品としてシリコンケーブルバンド、USB Type-C変換アダプタ、Lightning変換アダプタ。保証期間は3年間。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2145/390/01.jpg" alt="12万回の折り曲げに耐える1本3役の超タフケーブル、オウルテックから"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2145390.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2145/390/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2145/390/01.jpg"/></item>
-<item><title>【今すぐ読みたい！人気記事】お荷物になってしまった240GB等の小SSDたち。実は“記憶域スペース”で大容量化可能。余ったSSDの有効活用方法とは - PC Watch</title><link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2145395.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/topic/readitnow/2145395.html</guid><pubDate>Fri, 02 Oct 2026 21:11:00 +0000</pubDate><description><![CDATA[<p>【今すぐ読みたい！人気記事】お荷物になってしまった240GB等の小SSDたち。実は“記憶域スペース”で大容量化可能。余ったSSDの有効活用方法とは - PC Watch
-
-昔からSSDを使っている人なら、240GBクラスの小容量モデルを複数持て余していたりするかもしれない。USB接続の外付けケースと組み合わせて、ちょっとしたデータ保存用に使うのもよいが、ゲームのインストール目的だと容量不足感は否めない。
-
-お荷物になってしまった240GB等の小SSDたち。実は“記憶域スペース”で大容量化可能。余ったSSDの有効活用方法とは
-
-昔からSSDを使っている人なら、240GBクラスの小容量モデルを複数持て余していたりするかもしれない。USB接続の外付けケースと組み合わせて、ちょっとしたデータ保存用に使うのもよいが、ゲームのインストール目的だと容量不足感は否めない。
-
-たとえば、2024年2月上旬現在でStarfieldのインストール容量は「124GB」、Call of Duty: Modern Warfare 3は「188GB」だ。この2本だけで、240GBクラスのSSDには収まらない。複数のゲームをインストールしたいなら、最低でも500GB以上の容量は欲しいところだ。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2145/395/1.jpg" alt="【今すぐ読みたい！人気記事】お荷物になってしまった240GB等の小SSDたち。実は“記憶域スペース”で大容量化可能。余ったSSDの有効活用方法とは - PC Watch"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/topic/readitnow/2145395.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2145/395/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2145/395/1.jpg"/></item>
-<item><title>【今すぐ読みたい！人気記事】ガスと電動式のエアダスター対決。どちらが便利でコスパが高い？エアコンプレッサーも加えて戦わせてみた - PC Watch</title><link>https://pc.watch.impress.co.jp/docs/topic/readitnow/2145394.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/topic/readitnow/2145394.html</guid><pubDate>Fri, 02 Oct 2026 21:03:00 +0000</pubDate><description><![CDATA[<p>【今すぐ読みたい！人気記事】ガスと電動式のエアダスター対決。どちらが便利でコスパが高い？エアコンプレッサーも加えて戦わせてみた - PC Watch
-
-毎年夏と年末になると気になるPCのホコリ。特に夏は「ホコリ」⇒「熱暴走」⇒「ブルースクリーン」のトラウマがよみがえり、恐怖心に駆り立てられCPUとGPUのヒートシンクや冷却ファン、電源ユニット内に溜まったホコリを、徹底的に掃除！掃除！掃除！
-
-ガスと電動式のエアダスター対決。どちらが便利でコスパが高い？エアコンプレッサーも加えて戦わせてみた
-
-毎年夏と年末になると気になるPCのホコリ。特に夏は「ホコリ」⇒「熱暴走」⇒「ブルースクリーン」のトラウマがよみがえり、恐怖心に駆り立てられCPUとGPUのヒートシンクや冷却ファン、電源ユニット内に溜まったホコリを、徹底的に掃除！掃除！掃除！
-
-そんな時に必須のアイテムが、スプレー缶で高圧空気が噴き出す「エアダスター」だ。でも10秒も噴射してると冷たくなって虫の吐息。一方、Amazonを見てみると工場にあるようなエアコンプレッサーも売っている。これなら爆風が出そうだけど、お値段10万円かよ！ほかにも充電式の電動エアダスターといった製品もあるけど、なんか風弱そう……。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2145/394/1.jpg" alt="【今すぐ読みたい！人気記事】ガスと電動式のエアダスター対決。どちらが便利でコスパが高い？エアコンプレッサーも加えて戦わせてみた - PC Watch"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/topic/readitnow/2145394.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2145/394/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2145/394/1.jpg"/></item>
-<item><title>AIエージェント時代に備え、macOSのフルディスクアクセスが厳格化。閲覧履歴まで読める権限に新たな制御</title><link>https://gori.me/macosx/macosx-news/170874</link><guid isPermaLink="true">https://gori.me/macosx/macosx-news/170874</guid><pubDate>Fri, 02 Oct 2026 20:35:56 +0000</pubDate><description><![CDATA[<p>AIエージェント時代に備え、macOSのフルディスクアクセスが厳格化。閲覧履歴まで読める権限に新たな制御
-
-AppleがmacOSの「フルディスクアクセス」に追加の制御を導入すると2026年10月2日に発表した。メールやメッセージ、閲覧履歴までアプリに読ませられる強い権限を、明確な操作を経ないと許可できない仕組みにする。背景にはAIエージェントの台頭がある。今すぐできる設定の見直し方も紹介する。
-
-AIエージェント時代に備え、macOSのフルディスクアクセスが厳格化。閲覧履歴まで読める権限に新たな制御
-
-Appleが10月2日に発表。メールやメッセージまで丸ごと読める権限は、明確な操作での許可が必須に
-
-AppleがAIエージェントのリスク拡大を理由に、macOSの「フルディスクアクセス」へ追加の制御を導入
-
-2026年10月2日に開発者向けに告知。実装時期や対象のmacOSは未公表
-
-AIアプリやAIエージェントをMacで使うユーザーに関わる変更
-
-Appleは2026年10月2日、Macの「 フルディスクアクセス 」について、今後は新しい制御を追加すると開発者向けに発表した。ユーザーが本当にこの強い権限をアプリに渡したいときだけ、 はっきりした操作を経て許可する 仕組みに変えるという。
-
-理由としてAppleが挙げたのは、AIエージェントの広がりだ。AIエージェントとは、ユーザーの代わりにアプリの操作やファイルの読み書きを自分で進めるAIのことである。AppleはAIエージェントの能力と自律性が高まるほど、この権限が抱えるリスクも大きくなると説明している。
-
-フルディスクアクセスとは、macOSの「プライバシーとセキュリティ」設定にある権限で、許可したアプリにMac内のほぼすべてのデータを読ませるものだ。ふだんmacOSは、写真や連絡先などを使うたびに個別の許可を求めて…</p><p><img src="https://gori.me/uploads/2026/10/macos-27-golden-gate-macbookpro-800x428.jpeg" alt="AIエージェント時代に備え、macOSのフルディスクアクセスが厳格化。閲覧履歴まで読める権限に新たな制御"></p>]]></description><source url="https://gori.me/macosx/macosx-news/170874">gori.me</source><media:content url="https://gori.me/uploads/2026/10/macos-27-golden-gate-macbookpro-800x428.jpeg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/10/macos-27-golden-gate-macbookpro-800x428.jpeg"/></item>
-<item><title>中古のRyzen 7 5800X3Dが原因でVALORANTからBAN。前の所有者がチーターだったため。これが本当なら中古で買うの怖すぎるんだが……</title><link>https://www.nichepcgamer.com/archives/post-132766.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/post-132766.html</guid><pubDate>Fri, 02 Oct 2026 17:57:45 +0000</pubDate><description><![CDATA[<p>中古のRyzen 7 5800X3Dが原因でVALORANTからBAN。前の所有者がチーターだったため。これが本当なら中古で買うの怖すぎるんだが……
-
-中古のRyzen 7 5800X3Dが原因でVALORANTからBANされたという報告が出ています。海外メディアのWCCF TECHが報じました。 あるPCゲーマーが中古のRyzen 7 5800X...
-
-中古のRyzen 7 5800X3Dが原因でVALORANTからBANされたという報告が出ています。 海外メディアのWCCF TECHが報じました。
-
-あるPCゲーマーが中古のRyzen 7 5800X3Dを購入したところ、前の所有者がVARORANTでチート行為を行っていたため、Riot GamesのVanguardアンチチートシステムにより、そのCPUがブラックリストに登録されていたことが判明した。
-
-購入者によると、CPU自体は正常に動作していたものの、VAROLANTを起動したところ、起動直後にゲームが強制終了したという。Riot Gamesのサポートに問い合わせたところ、前所有者によるチート行為に対するハードウェアBANの一環として、CPUのIDまたはシリアル番号がブラックリスト登録されていた。
-
-このCPUへと換装したことで、購入者のほかのPCパーツ(マザーボードやストレージ)までもがVanguardのブラックリストに登録されてしまったいう。
-
-VanguardがどのようにしてこのRyzen 7 5800X3Dを識別したのかは不明だ。今回のケースは中古PC市場に潜む思いがけないデメリットを浮き彫りにしている。
-
-CPUの識別はTPM 2.0 (fTPM)を利用している感じでしょうか。これが本当ならなんとも恐ろしい話ですね。購入者の After-Cartoonist-196氏 はRiot GamesにBANを解除してほしいと頼みましたが、拒否されたとのことです。また、After-Cartoonist-196氏以外にも 同じようなことを経験したという報告 も出ています。
-
-After-Cartoonist-1…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2026/10/valorant-ban-top.jpg" alt="中古のRyzen 7 5800X3Dが原因でVALORANTからBAN。前の所有者がチーターだったため。これが本当なら中古で買うの怖すぎるんだが……"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-132766.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2026/10/valorant-ban-top.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2026/10/valorant-ban-top.jpg"/></item>
 </channel></rss>
