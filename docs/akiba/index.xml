@@ -1,6 +1,239 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Thu, 15 Oct 2026 13:25:00 +0000</lastBuildDate>
+<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Thu, 15 Oct 2026 18:17:20 +0000</lastBuildDate>
+<item><title>デュアルファンクーラー搭載の「Colorful GeForce RTX 5060 Battle AX DUO 8GB-V」</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2148165.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2148165.html</guid><pubDate>Thu, 15 Oct 2026 04:05:00 +0000</pubDate><description><![CDATA[<p>デュアルファンクーラー搭載の「Colorful GeForce RTX 5060 Battle AX DUO 8GB-V」
+
+デュアルファンクーラーを搭載したGeForce RTX 5060ビデオカード「Colorful GeForce RTX 5060 Battle AX DUO 8GB-V」が、パソコンショップ アークに入荷。
+
+デュアルファンクーラー搭載の「Colorful GeForce RTX 5060 Battle AX DUO 8GB-V」
+
+デュアルファンクーラーを搭載したGeForce RTX 5060ビデオカード「Colorful GeForce RTX 5060 Battle AX DUO 8GB-V」が、 パソコンショップ アーク に入荷。
+
+大型ヒートシンクフィン、メタルバックプレート、リング形状ファンを搭載したAxe冷却システムを採用。優れた冷却性能により、高負荷時でも安定した動作を実現するという。
+
+主な仕様は、動作クロックが2,497MHz（Boost）、メモリ容量がGDDR7 8GB（128bit）、メモリクロックが28Gbps。映像出力端子はDisplayPort 2.1b×3、HDMI 2.1b×1。補助電源は8ピン×1、推奨電源は550W。本体サイズは243.5×135.2×49.4mm（ブラケット含む）。
+
+GeForce RTX 5060関連製品 Amazonで購入 楽天で購入</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/165/a1.jpg" alt="デュアルファンクーラー搭載の「Colorful GeForce RTX 5060 Battle AX DUO 8GB-V」"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2148165.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/165/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/165/a1.jpg"/></item>
+<item><title>AIに“生命”宿る。IoT家電で自己複製し始める可能性が急浮上</title><link>https://pc.watch.impress.co.jp/docs/news/2148329.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2148329.html</guid><pubDate>Thu, 15 Oct 2026 03:50:29 +0000</pubDate><description><![CDATA[<p>AIに“生命”宿る。IoT家電で自己複製し始める可能性が急浮上
+
+安いAndroid TVのようなセットトップボックスが、AIの「培養地」になる日が来るかもしれない。Anthropicは10月12日(米国時間)、小規模なAIモデルがこのまま改善し続ければ、数カ月以内にも、データセンターを使わずに安価なAndroid TVボックスといったIoT機器上で自己複製できるようになる可能性がある、という衝撃の研究結果を公開した。
+
+AIに“生命”宿る。IoT家電で自己複製し始める可能性が急浮上
+
+安いAndroid TVのようなセットトップボックスが、AIの「培養地」になる日が来るかもしれない。Anthropicは10月12日(米国時間)、小規模なAIモデルがこのまま改善し続ければ、数カ月以内にも、データセンターを使わずに安価なAndroid TVボックスといったIoT機器上で自己複製できるようになる可能性がある、という衝撃の研究結果を公開した。
+
+今回の研究は、同社のFrontier Red Teamによるもの。AIの能力向上により、長年懸念されてきた、人間の制御なしにモデルが自ら展開/増殖する現象「自律的複製と適応(ARA)」が、ついに現実味を帯びてくる、というのだ。同社は「生命の兆し」が見え始めた段階だと表現している。
+
+その現象とは、AIモデルが自らネットワークをスキャンしてエクスプロイトを実行し、GPUクラスタ内のターゲットのマシンにモデルの重みをコピーする。そのうえで、侵害されたハードウェア上で直接推論を実行する、というもの。
+
+本来ならば、高性能なデータセンター向けGPUが標的となるが、同社のチームは、AIモデルの実行には必ずしもこうした高価なアクセラレータを必要としない点に着目。安価で、通常は防御が不十分なIoTデバイスで構成された分散型ボットネットでも、高性能モデルを実行するのに十分な計算能力を提供できるという。
+
+実証デモでは、1台約55ドル(約8,690円、1ドル=約158円換算)、メモリ4GBのノーブランドのAndroid TVボックス15台をネットワーク…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2148/329/1.jpg" alt="AIに“生命”宿る。IoT家電で自己複製し始める可能性が急浮上"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2148329.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2148/329/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2148/329/1.jpg"/></item>
+<item><title>デュアルファン仕様のGeForce RTX 3060がColorfulから</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2148169.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2148169.html</guid><pubDate>Thu, 15 Oct 2026 03:30:00 +0000</pubDate><description><![CDATA[<p>デュアルファン仕様のGeForce RTX 3060がColorfulから
+
+デュアルファンクーラーを搭載したGeForce RTX 3060ビデオカード「Colorful GeForce RTX 3060 Battle AX DUO 12GB V2-V」が、パソコンショップ アークに入荷。
+
+デュアルファン仕様のGeForce RTX 3060がColorfulから
+
+デュアルファンクーラーを搭載したGeForce RTX 3060ビデオカード「Colorful GeForce RTX 3060 Battle AX DUO 12GB V2-V」が、 パソコンショップ アーク に入荷。
+
+主な仕様は、動作クロックが1,777MHz（Boost）、メモリ容量がGDDR6 12GB（192bit）、メモリクロックが15Gbps。映像出力端子はDisplayPort 1.4a×3、HDMI 2.1×1。補助電源は8ピン×1、推奨電源は550W。本体サイズは253.4×132.5×41mm（ブラケット含む）。
+
+GeForce RTX 3060関連製品 Amazonで購入 楽天で購入</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/169/a1.jpg" alt="デュアルファン仕様のGeForce RTX 3060がColorfulから"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2148169.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/169/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/169/a1.jpg"/></item>
+<item><title>Core i5-1135G7搭載の13.3型ノートPC「dynabook G83/HS」が37,400円、Qualitの中古訳あり品セール</title><link>https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2148183.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2148183.html</guid><pubDate>Thu, 15 Oct 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>Core i5-1135G7搭載の13.3型ノートPC「dynabook G83/HS」が37,400円、Qualitの中古訳あり品セール
+
+Core i5-1135G7(4コア/8スレッド)を搭載したDynabook製13.3型ノートPC「dynabook G83/HS」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で特価販売中。
+
+Core i5-1135G7搭載の13.3型ノートPC「dynabook G83/HS」が37,400円、Qualitの中古訳あり品セール
+
+Core i5-1135G7(4コア/8スレッド)を搭載したDynabook製13.3型ノートPC「dynabook G83/HS」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で特価販売中 。
+
+今回販売されているのは、「外観ランク基準はQualitの基準外だが、動作は正常確認済み」という訳あり中古品で、販売価格は37,400円。保証期間は出荷日から起算して10日間。
+
+主な仕様は、ディスプレイ解像度が1,920×1,080ドット、メモリが8GB、ストレージが256GB SSD、OSがWindows 11 Pro。インターフェイスには、HDMIやThunderbolt 4(USB-C)などを備えるほか、Webカメラや無線LAN機能を搭載しています。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/183/a1.jpg" alt="Core i5-1135G7搭載の13.3型ノートPC「dynabook G83/HS」が37,400円、Qualitの中古訳あり品セール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2148183.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/183/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/183/a1.jpg"/></item>
+<item><title>iPhone Duoは買うべき？見送るべき？予約前に確かめたい5つのこと</title><link>https://iphone-mania.jp/iphone18-607467/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-607467/</guid><pubDate>Thu, 15 Oct 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>iPhone Duoは買うべき？見送るべき？予約前に確かめたい5つのこと
+
+折りたたみのiPhone Duoの予約が10月16日（金）午後9時に始まります。価格、画面、iPhone18 Pro Maxとの違い、内側の画面と耐久性、読者アンケートの5つから、買うべき人と見送るべき人の条件をまとめました。
+
+iPhone Duoは買うべき？見送るべき？予約前に確かめたい5つのこと
+
+折りたたみのiPhone Duoの予約が、 10月16日（金）午後9時 に始まります。Apple Storeの価格は256GBで364,800円からと、iPhone18 Pro Max（239,800円から）より12万5,000円高い機種です。キャリアはNTTドコモ・au・ソフトバンクが10月14日までに価格を発表し、楽天モバイルは発表待ちです。
+
+買うか見送るか迷っている方に向けて、価格、画面、iPhone18 Pro Maxとの違い、内側の画面と耐久性、読者アンケートの5つを整理しました。
+
+※上記は広告（アフィリエイト）を含みます。価格・特典・条件は各公式サイトでご確認ください。
+
+一括で買うなら、Apple Store（SIMフリー）が最も安くなります。キャリアの一括価格はApple Storeより5万円以上高く、ドコモは7万円以上の差があります。
+
+キャリアの実質価格は、2年前後で端末を返す前提の金額です。ドコモは23か月目、auは25か月目までに返却し、ソフトバンクは25か月目に買い替える条件です。返さずに使い続けるなら、一括価格との差額を払うことになります。
+
+Apple Storeでドコモ（ahamoを含む）・ソフトバンクの回線契約と一緒に買うと8,800円、オンラインで乗り換えると20,000円の割引があります。各社の条件は iPhone Duo 予約ガイド と各社の記事にまとめて…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/10/thumb_duo_buy_or_skip_20261015.png" alt="iPhone Duoは買うべき？見送るべき？予約前に確かめたい5つのこと"></p>]]></description><source url="https://iphone-mania.jp/iphone18-607467/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/10/thumb_duo_buy_or_skip_20261015.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/10/thumb_duo_buy_or_skip_20261015.png"/></item>
+<item><title>�����ʤ�Τ�ͤ����Ǥ⡤�����ȡȼ�ʬ�Υ�����ɤˤʤ롣���ʥ�᤬��DRAPLINE�פ˻��������������ޤǻȤäƤ��ʤ��ä������Ф�</title><link>https://www.4gamer.net/games/921/G092147/20261007001/</link><guid isPermaLink="true">https://www.4gamer.net/games/921/G092147/20261007001/</guid><pubDate>Thu, 15 Oct 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>�����ʤ��Τ��ͤ������Ǥ⡤�������ȡȼ�ʬ�Υ������ɤˤʤ롣���ʥ��᤬��DRAPLINE�פ˻����������������ޤǻȤäƤ��ʤ��ä������Ф�
+
+7年間の連載を終えた「被虐のノエル」ののちにカナヲ氏が手がけたのは，ドラゴンの娘を育てるローグライトな育成RPGだった。予想を超える早期アクセスの反響，RPGツクールを使い続ける理由。自分の“好き”…
+
+好きなものを詰め込んでも，ちゃんと“自分のゲーム”になる。カナヲ氏が「DRAPLINE」に持ち込んだ，これまで使ってこなかった引き出し ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
+
+↓アイコン/タイトル↓ 作品のアニマはどこに宿るのか。「リベンジオブザセブン」と「サガフロ2 リマスター」，ふたつの“伝承”のかたち ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 東京ゲームショウに来たら“読みもの”を集めよう！ 雑誌にカタログ，新聞風。会場で見つけた＆もらった小冊子を紹介［TGS2026］ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を…</p><p><img src="https://www.4gamer.net/games/921/G092147/20261007001/SS/030.jpg" alt="�����ʤ�Τ�ͤ����Ǥ⡤�����ȡȼ�ʬ�Υ�����ɤˤʤ롣���ʥ�᤬��DRAPLINE�פ˻��������������ޤǻȤäƤ��ʤ��ä������Ф�"></p>]]></description><source url="https://www.4gamer.net/games/921/G092147/20261007001/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/921/G092147/20261007001/SS/030.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/921/G092147/20261007001/SS/030.jpg"/></item>
+<item><title>開けばオン、閉じれば約7cmに縮んでオフ。スライド式静音マウス</title><link>https://pc.watch.impress.co.jp/docs/news/2148282.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2148282.html</guid><pubDate>Thu, 15 Oct 2026 02:54:04 +0000</pubDate><description><![CDATA[<p>開けばオン、閉じれば約7cmに縮んでオフ。スライド式静音マウス
+
+サンワサプライは10月14日、持ち運びに便利なスライド式カバーを備えたワイヤレスマウス「MA-WBBS526」シリーズを発売した。カラーはブルーとグレーの2種類で、直販価格はいずれも4,780円。
+
+開けばオン、閉じれば約7cmに縮んでオフ。スライド式静音マウス
+
+サンワサプライは10月14日、持ち運びに便利なスライド式カバーを備えたワイヤレスマウス「MA-WBBS526」シリーズを発売した。カラーはブルーとグレーの2種類で、直販価格はいずれも4,780円。
+
+MA-WBBS526シリーズは、手のひらの部分がスライドし、マウス天面のカバーになるデザインのワイヤレスマウス。使わないときはコンパクトになるため、持ち運びやすい。カバーの開閉に合わせて自動で電源がオン/オフする機能も備える。
+
+コンパクトながら5ボタンを搭載し、利便性も確保。すべてクリック音が気にならない静音ボタンとなっている。接続は2.4GHz無線とBluetoothに対応しており、最大2台の機器を切り替えながら使用できる。2.4GHz無線用レシーバは本体内部に収納でき、紛失を防げる。
+
+センサーには光学式のブルーLEDセンサーを採用しており、解像度は800/1,200/1,600/2,400/4,000dpiに対応。USB充電式の内蔵バッテリで動作し、42時間の連続動作が可能となっている。また、約50分でフル充電できる急速充電も特徴。
+
+本体サイズは約55.8×111×27mm、収納時が約55.8×70.5×27mm、重量は約56g。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2148/282/01.jpg" alt="開けばオン、閉じれば約7cmに縮んでオフ。スライド式静音マウス"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2148282.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2148/282/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2148/282/01.jpg"/></item>
+<item><title>「Claude Code」デスクトップ版、並列タスクごとにセッションを自動生成</title><link>https://pc.watch.impress.co.jp/docs/news/2148273.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2148273.html</guid><pubDate>Thu, 15 Oct 2026 02:38:35 +0000</pubDate><description><![CDATA[<p>「Claude Code」デスクトップ版、並列タスクごとにセッションを自動生成
+
+複数のClaude Codeにタスクを並行して任せるのが、ぐっと楽になりそうだ。Anthropicは10月14日(現地時間)、エージェント型コーディングツール「Claude Code」のデスクトップアプリをアップデートし、複数セッションの並列実行を快適にする新機能を追加した。開発者向けX(旧Twitter)アカウント@ClaudeDevsで発表された。新機能は、デスクトップアプリをアップデートし、新しいセッションを開始することで利用できる。
+
+「Claude Code」デスクトップ版、並列タスクごとにセッションを自動生成
+
+複数のClaude Codeにタスクを並行して任せるのが、ぐっと楽になりそうだ。Anthropicは10月14日(現地時間)、エージェント型コーディングツール「Claude Code」のデスクトップアプリをアップデートし、複数セッションの並列実行を快適にする新機能を追加した。開発者向けX(旧Twitter)アカウント@ClaudeDevsで発表された。新機能は、デスクトップアプリをアップデートし、新しいセッションを開始することで利用できる。
+
+Claude Codeは、コードの読み書きやコマンドの実行などをClaudeに任せられるAnthropicのコーディング支援ツール。今回のアップデートでは、中断したところから再開するのが容易となり、新しいセッション画面で最近使ったフォルダにワンクリックでアクセスできるようになった。
+
+また、複数のフォルダやSSHホスト、クラウドといった作業環境の設定を「環境」として保存し、そこからセッションを開始できる。フォルダごとにGitのワークツリーを作成するオプションも用意する。
+
+Claudeにタスクの並列実行を依頼すると、タスクごとにネストされたセッションが立ち上がり、それぞれが完了した時点でメインセッションに結果を報告するようになった。これにより、メインスレッドの読みやすさを保てる。
+
+さらに、Claudeは作業中でも追加の作業を提案…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2148/273/1.jpg" alt="「Claude Code」デスクトップ版、並列タスクごとにセッションを自動生成"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2148273.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2148/273/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2148/273/1.jpg"/></item>
+<item><title>新型iPad miniとMacBook Proが27日、M6搭載Macが28日発表？</title><link>https://iphone-mania.jp/ipadmini-607475/</link><guid isPermaLink="true">https://iphone-mania.jp/ipadmini-607475/</guid><pubDate>Thu, 15 Oct 2026 02:35:45 +0000</pubDate><description><![CDATA[<p>新型iPad miniとMacBook Proが27日、M6搭載Macが28日発表？
+
+Appleは2026年10月最終週に、新型iPad miniや複数のMacモデルを発表すると予想されています。
+
+新型iPad miniとMacBook Proが27日、M6搭載Macが28日発表？
+
+Appleは2026年10月最終週に、 新型iPad mini や複数のMacモデルを発表すると予想されています。
+
+さらに、10月27日（火）に新製品が発表され、28日（水）にロサンゼルスでクリエイター向けの製品体験会が開催されるとの投稿がX（旧Twitter）で散見されます。
+
+新型iPad miniと有機EL（OLED）ディスプレイ搭載MacBook Proは27日に発表され、M6搭載MacBook ProとiMacは28日に発表されて製品体験会がに繋がるのではとの見方もあります。
+
+10月最終週に発表されると予想されているAppleの新製品は、次の通りです。
+
+タッチスクリーン対応のOLEDディスプレイを搭載する14インチおよび16インチMacBook Pro
+
+新型iPad miniはOLEDディスプレイとA20 Proを採用し、防水性能への対応やスピーカーシステムの刷新など、大幅な変更が行われる見込みです。
+
+OLED搭載MacBook Proも、タッチスクリーンへの対応や筐体の刷新などを伴う大型モデルチェンジになると予想されています。
+
+4製品をどの日時に、どのような順番で発表するのかは明らかになっていません。
+
+ただし、2日間に分けて新製品を発表するのであれば、27日に新型iPad miniとOLED搭載MacBook Pro、28日にM6搭載MacBook ProとiMacが発表されるとの予想が出てきました。
+
+この場合、 27日は「OLEDディスプレイを新たに採用する製品」 、 28日は「M6を搭載するMac」 という明確なテーマで分けることができます。
+
+特にOLED搭載MacBook Proはディスプレイだけではなく、タッチ操作や筐体設計まで大きく変更されるため…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/10/15/apple-202610-launch-AH.jpg" alt="新型iPad miniとMacBook Proが27日、M6搭載Macが28日発表？"></p>]]></description><source url="https://iphone-mania.jp/ipadmini-607475/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/10/15/apple-202610-launch-AH.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/10/15/apple-202610-launch-AH.jpg"/></item>
+<item><title>�ݥ��åȤˤ�ڤ����륳��ѥ��Ȥ�XBOX����������ѥåɡ�XBOX Nano Controller�פ�ȯɽ���ǹ�8000�ߤ�ͽ�������</title><link>https://www.4gamer.net/games/437/G043761/20261015005/</link><guid isPermaLink="true">https://www.4gamer.net/games/437/G043761/20261015005/</guid><pubDate>Thu, 15 Oct 2026 02:35:13 +0000</pubDate><description><![CDATA[<p>�ݥ��åȤˤ��ڤ����륳���ѥ��Ȥ�XBOX�����������ѥåɡ�XBOX Nano Controller�פ�ȯɽ���ǹ�8000�ߤ�ͽ��������
+
+米国時間2026年10月14日，Microsoftは，新型ワイヤレスゲームパッド「XBOX Nano Controller」を発表した。奥行き方向は標準サイズ品の半分程度しかなく，公称本体重量も約9…
+
+ポケットにも楽に入るコンパクトなXBOX純正ゲームパッド「XBOX Nano Controller」が発表。税込8000円で予約受付中 ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
+
+↓アイコン/タイトル↓ 作品のアニマはどこに宿るのか。「リベンジオブザセブン」と「サガフロ2 リマスター」，ふたつの“伝承”のかたち ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 東京ゲームショウに来たら“読みもの”を集めよう！ 雑誌にカタログ，新聞風。会場で見つけた＆もらった小冊子を紹介［TGS2026］ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか，…</p><p><img src="https://www.4gamer.net/games/437/G043761/20261015005/SS/002.jpg" alt="�ݥ��åȤˤ�ڤ����륳��ѥ��Ȥ�XBOX����������ѥåɡ�XBOX Nano Controller�פ�ȯɽ���ǹ�8000�ߤ�ͽ�������"></p>]]></description><source url="https://www.4gamer.net/games/437/G043761/20261015005/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/437/G043761/20261015005/SS/002.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/437/G043761/20261015005/SS/002.jpg"/></item>
+<item><title>5インチLCD搭載の簡易水冷クーラー「iCUE LINK TITAN II 360 RX LCD」がCORSAIRから</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2148177.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2148177.html</guid><pubDate>Thu, 15 Oct 2026 02:30:00 +0000</pubDate><description><![CDATA[<p>5インチLCD搭載の簡易水冷クーラー「iCUE LINK TITAN II 360 RX LCD」がCORSAIRから
+
+CORSAIRの簡易水冷クーラーに新モデルが登場。5インチLCDパネルと360mmラジエーターを搭載した「iCUE LINK TITAN II 360 RX LCD」が発売された。
+
+5インチLCD搭載の簡易水冷クーラー「iCUE LINK TITAN II 360 RX LCD」がCORSAIRから
+
+CORSAIRの簡易水冷クーラーに新モデルが登場。5インチLCDパネルと360mmラジエーターを搭載した「iCUE LINK TITAN II 360 RX LCD」が発売された。
+
+本体カラーの違いでブラック（CW-9061045-WW）とホワイト（CW-9061046-WW）が用意されている。店頭価格は39,980円。
+
+5インチのLCDや一体型静音ファンを搭載した簡易水冷クーラー
+
+iCUE LINK TITAN II 360 RX LCDは、ポンプやラジエーターが一体になったオールインワンタイプの水冷CPUクーラー。5インチIPSディスプレイ「iCUE LINK LCD Screen Module」を搭載している。解像度は720×1,280（60Hz）、輝度は500cd/m2。
+
+iCUE LINK LCD Screen Moduleは70mmサイズの冷却ファンを備え、CPU温度などのシステム情報のほか、好みの画像やGIFアニメーション、iCUEウィジェットを表示可能。なお、これらの機能を使用する際にはDisplayPortをビデオカードまたはマザーボードに接続する必要がある。
+
+冷却には120mmファンを3基連結させた一体型フレーム設計の静音ファン「iCUE LINK RX360 II RGB」を搭載。耐久性に優れた磁気ドームベアリングを採用するほか、低い回転数で高い冷却性能を発揮できるよう最適化されている。
+
+ファンの主な仕様は、回転数が400～2,100RPM（±10%）、風圧が0.21～3.57mmH2O、風量が14.1～64.7CF…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/177/aaa.jpg" alt="5インチLCD搭載の簡易水冷クーラー「iCUE LINK TITAN II 360 RX LCD」がCORSAIRから"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2148177.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/177/aaa.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/177/aaa.jpg"/></item>
+<item><title>iPhone Duoは初回起動時にiOS27.1更新が必要 発売日の注意点</title><link>https://iphone-mania.jp/iphone18-607473/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-607473/</guid><pubDate>Thu, 15 Oct 2026 02:10:14 +0000</pubDate><description><![CDATA[<p>iPhone Duoは初回起動時にiOS27.1更新が必要 発売日の注意点
+
+10月23日に発売されるiPhone Duoは、初回起動時の初期設定の途中で、iOS27.1へのアップデートが必要になる見込みです。箱を開けてすぐに使えると考えていると、思わぬ待ち時間が生じるかもしれません。初期設定で注意したい点と、アップデートが必要になる理由を、発売日に慌てないための視点で整理しました。
+
+iPhone Duoは初回起動時にiOS27.1更新が必要 発売日の注意点
+
+10月23日に発売されるiPhone Duoは、初回起動時の 初期設定の途中で、iOS27.1へのアップデートが必要になる見込み です。箱を開けてすぐに使えると考えていると、思わぬ待ち時間が生じるかもしれません。初期設定で注意したい点と、アップデートが必要になる理由を、発売日に慌てないための視点で整理しました。
+
+iPhone Duoは初回起動時にiOS27.1の更新が必要
+
+iPhone Duoでは、初期設定の過程でアップデートが必要になると報じられています。アップデートを後回しにできるかどうかは明らかになっていないため、 受け取った当日に済ませる前提で、時間に余裕を持っておく のが安全です。
+
+海外メディアの報道によると、iPhone Duoは同機種専用のiOS27.1を搭載して出荷されます。一方でAppleは現地時間10月12日に新しいビルドをリリースしており、 出荷時のままでは最新版になりません 。
+
+どのビルドが配信されるかは発売日にならないと確定しません。表のビルド番号は、本記事執筆時点（10月15日）の情報です。
+
+アップデートの待ち時間を減らすには、受け取り前の準備と当日の段取りが大切です。
+
+旧iPhoneのバックアップが最新かを、前日までに確認しておく
+
+2ファクタ認証のコードを求められた場合に…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/10/15/5c9e8b56156c0b11e8c66363cad63524.png" alt="iPhone Duoは初回起動時にiOS27.1更新が必要 発売日の注意点"></p>]]></description><source url="https://iphone-mania.jp/iphone18-607473/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/10/15/5c9e8b56156c0b11e8c66363cad63524.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/10/15/5c9e8b56156c0b11e8c66363cad63524.png"/></item>
+<item><title>【本日みつけたお買い得品】アイオーのTV録画向けHDD 6TBが8,970円引き。大容量の外付けHDDもセール中！</title><link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2148262.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/todays_sales/2148262.html</guid><pubDate>Thu, 15 Oct 2026 01:52:27 +0000</pubDate><description><![CDATA[<p>【本日みつけたお買い得品】アイオーのTV録画向けHDD 6TBが8,970円引き。大容量の外付けHDDもセール中！
+
+Amazonは10月13日から15日にかけて、プライム感謝祭先行セールを実施中だ。アイオーデータのレコーディングHDD「RECBOX HVL-RS/UE」シリーズは、プライム会員限定の値引きで、6TB版が8,970円引きの5万830円、8TB版が1万660円引きの6万4,320円。また16TB版は、9月14日の価格から4万2,414円引きで、13万5,080円(販売元:Amazon.co.jp)にて購入できる。
+
+アイオーのTV録画向けHDD 6TBが8,970円引き。大容量の外付けHDDもセール中！
+
+Amazonは10月13日から15日にかけて、プライム感謝祭先行セールを実施中だ。アイオーデータのレコーディングHDD「RECBOX HVL-RS/UE」シリーズは、プライム会員限定の値引きで、6TB版が8,970円引きの5万830円、8TB版が1万660円引きの6万4,320円。また16TB版は、9月14日の価格から4万2,414円引きで、13万5,080円(販売元:Amazon.co.jp)にて購入できる。
+
+RECBOX HVL-RS/UEシリーズは、LAN接続のレコーディングHDD。TVで録画した番組を本機にダビングしておくことで、自宅ネットワーク内のDTCP-IP対応TVや、PC、スマホなどから録画番組を視聴できる。PCやスマホからは「DiXiM Digital TV」「DiXiM Play」などのアプリで視聴可能。インターネット経由で外出先からでも視聴でき、屋内外を問わず好きな場所で録画番組を楽しめるとする。
+
+アイオーデータ RECBOX HVL-RS/UE (6TB)
+
+Seagate「Expansion Desktop」シリーズは、USB 3.2 Gen 1接続の外付けHDD。プライム会員限定の値引きで、16TB版が1万5,190円引きの8万1,790円、20TB版が1万2,100円引きの10万8,880円、24TB版が2万6,085円…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2148/262/01.jpg" alt="【本日みつけたお買い得品】アイオーのTV録画向けHDD 6TBが8,970円引き。大容量の外付けHDDもセール中！"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/todays_sales/2148262.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2148/262/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2148/262/01.jpg"/></item>
+<item><title>llama.cppのWindowsアプリ登場、RTX Sparkに初日対応</title><link>https://pc.watch.impress.co.jp/docs/news/2148249.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2148249.html</guid><pubDate>Thu, 15 Oct 2026 01:49:36 +0000</pubDate><description><![CDATA[<p>llama.cppのWindowsアプリ登場、RTX Sparkに初日対応
+
+コマンドを打たずに、WindowsでローカルLLMを動かせるアプリが登場した。Hugging Faceは10月13日(米国時間)、ローカルLLM実行エンジン「llama.cpp」をWindows 11のタスクトレイから操作できるアプリ「Llama Windows」を公開した。無償で利用できる。
+
+llama.cppのWindowsアプリ登場、RTX Sparkに初日対応
+
+コマンドを打たずに、WindowsでローカルLLMを動かせるアプリが登場した。Hugging Faceは10月13日(米国時間)、ローカルLLM実行エンジン「llama.cpp」をWindows 11のタスクトレイから操作できるアプリ「Llama Windows」を公開した。無償で利用できる。
+
+Llama Windowsは、Hugging Face上のモデルをワンクリックでダウンロードし、llama.cppでローカル実行するためのWindows 11向けアプリ。これまでWindowsでllama.cppを使うには、ハードウェアに適したバイナリ、モデルの選定やパラメータの指定をターミナルで行なう必要があった。Llama Windowsではこうした複雑な操作が不要になり、リリースページからインストーラーをダウンロードし、ダブルクリックするだけでインストール可能だ。
+
+さらに、NVIDIA最新のRTX Spark搭載PC向けの最適化も入っており、Windows on Arm上でネイティブに動作し、モデルはRTX SparkのGPUで実行される。llama.cppが高度に最適化されたランタイムであるため、手動調整なしにRTX Sparkの演算能力とメモリを最大限に活用可能。
+
+インストールすればタスクトレイに常駐する。そのアイコンをクリックするとメニューがポップアップし、Hugging Face Hubのおすすめモデルの一覧が表示される。そこからダウンロードすると、ダウンロード済みとしてリストアップされ、モデルのロード/アンロード…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2148/249/1.jpg" alt="llama.cppのWindowsアプリ登場、RTX Sparkに初日対応"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2148249.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2148/249/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2148/249/1.jpg"/></item>
+<item><title>【本日みつけたお買い得品】キオクシアのGen 5 SSDが6,450円引き、Nextorage 8TBは4万500円引き</title><link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2148245.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/todays_sales/2148245.html</guid><pubDate>Thu, 15 Oct 2026 01:38:39 +0000</pubDate><description><![CDATA[<p>【本日みつけたお買い得品】キオクシアのGen 5 SSDが6,450円引き、Nextorage 8TBは4万500円引き
+
+Amazonは10月13日から15日にかけて、プライム感謝祭先行セールを実施している。NVMe SSDのキオクシア「EXCERIA PLUS G4」シリーズは、プライム会員限定の値引きで、1TB版が6,450円引きの3万6,530円、2TB版が1万1,250円引きの6万3,730円にて購入可能だ。
+
+キオクシアのGen 5 SSDが6,450円引き、Nextorage 8TBは4万500円引き
+
+Amazonは10月13日から15日にかけて、プライム感謝祭先行セールを実施している。NVMe SSDのキオクシア「EXCERIA PLUS G4」シリーズは、プライム会員限定の値引きで、1TB版が6,450円引きの3万6,530円、2TB版が1万1,250円引きの6万3,730円にて購入可能だ。
+
+EXCERIA PLUS G4シリーズは、PCI Express 5.0 x4接続のNVMe SSD。フラッシュメモリとして「BiCS FLASH TLC」NANDを採用する。1TB版の主なスペックは、シーケンシャルリード10,000MB/s、同ライト7,900MB/s、ランダムリード130万IOPS、同ライト140万IOPS。総書き込み容量は600TBに対応する。放熱効率を高めるというヒートスプレッダ入りラベルが貼られている。
+
+キオクシア「EXCERIA PLUS G3」シリーズは、PCI Express 4.0 x4接続のNVMe SSD。TLC NANDを採用する。1TB版で、シーケンシャルリード5,000MB/s、同ライト3,900MB/s、総書き込み容量600TBに対応。プライム会員限定の値引きで、1TB版が4,800円引きの2万7,180円、2TB版が9,600円引きの5万4,380円にて購入できる。
+
+Nextorage「NEM-PAC」シリーズは、PCI Express 4.0 x4接続のNVMe SSDだ。TLC NANDを採用。1TB版で…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2148/245/01.jpg" alt="【本日みつけたお買い得品】キオクシアのGen 5 SSDが6,450円引き、Nextorage 8TBは4万500円引き"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/todays_sales/2148245.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2148/245/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2148/245/01.jpg"/></item>
 <item><title>ThunderboltドックなどOWCのPC周辺機器が最大20%オフ！Amazonプライム感謝祭</title><link>https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2147832.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2147832.html</guid><pubDate>Thu, 15 Oct 2026 01:30:00 +0000</pubDate><description><![CDATA[<p>ThunderboltドックなどOWCのPC周辺機器が最大20%オフ！Amazonプライム感謝祭
 
 Amazon.co.jpにて、「プライム感謝祭」が10月16日（金）～10月19日（月） に開催予定。13日（火）より先行セールも開催中です。
@@ -56,7 +289,7 @@ MAG 271KPD7は5K UHD（5,120×2,880）解像度のノングレアRAPID IPSを採
 最大リフレッシュレートは75Hz（WQHD設定時：300Hz）。応答速度は0.5ms（GTG、最小値）。最大表示色は約10億7,300万色。視野角は178°（H）/178°（V）。コントラスト比は1,500:1。
 
 端子はHDMI 2.1（HDCP：2.3）×2、DisplayPort 1.4a（HDCP：2.3）×1、USB Type-C（DP Alt Mode）×1、USB 3.2 Gen1 Type-A（USBハブ）×2、USB 3.2 Gen1 Typ…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2147/348/a1.jpg" alt="MSIの5K IPSパネル採用26.9インチゲーミングモニター「MAG 271KPD7」がTSUKUMOで展示スタート"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2147348.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2147/348/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2147/348/a1.jpg"/></item>
-<item><title>���襤��ǭ�β����ɡ����α����Ԥı���Ū���ݡ�����ϩ�ΰ����ˤ������Ĥ����ʹ�����ե���ȶ��˺���Under Mythos�פ�ĩ��Υ��󥿥ӥ塼��</title><link>https://www.4gamer.net/games/041/G104191/20261008029/</link><guid isPermaLink="true">https://www.4gamer.net/games/041/G104191/20261008029/</guid><pubDate>Thu, 15 Oct 2026 01:00:00 +0000</pubDate><description><![CDATA[<p>���襤��ǭ�β����ɡ����α����Ԥı���Ū���ݡ�����ϩ�ΰ������ˤ������Ĥ�����ʹ�����ե����ȶ��˺�����Under Mythos�פ�ĩ���Υ��󥿥ӥ塼��
+<item><title>���襤��ǭ�β����ɡ����α����Ԥı���Ū���ݡ�����ϩ�ΰ������ˤ������Ĥ�����ʹ�����ե����ȶ��˺�����Under Mythos�פ�ĩ���Υ��󥿥ӥ塼��</title><link>https://www.4gamer.net/games/041/G104191/20261008029/</link><guid isPermaLink="true">https://www.4gamer.net/games/041/G104191/20261008029/</guid><pubDate>Thu, 15 Oct 2026 01:00:00 +0000</pubDate><description><![CDATA[<p>���襤��ǭ�β����ɡ����α����Ԥı���Ū���ݡ�����ϩ�ΰ������ˤ������Ĥ�����ʹ�����ե����ȶ��˺�����Under Mythos�פ�ĩ���Υ��󥿥ӥ塼��
 
 猫たちと一緒に温泉宿でのんびり暮らし，未知の世界へと足を踏み入れる。新作JRPG「Under Mythos」はどのような世界を描こうとしているのか。プロデューサーの宮路洋一氏，キャラデザインのにしだ…
 
@@ -70,7 +303,7 @@ MAG 271KPD7は5K UHD（5,120×2,880）解像度のノングレアRAPID IPSを採
 
 ↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
 
-↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た…</p><p><img src="https://www.4gamer.net/games/041/G104191/20261008029/SS/004.jpg" alt="���襤��ǭ�β����ɡ����α����Ԥı���Ū���ݡ�����ϩ�ΰ����ˤ������Ĥ����ʹ�����ե���ȶ��˺���Under Mythos�פ�ĩ��Υ��󥿥ӥ塼��"></p>]]></description><source url="https://www.4gamer.net/games/041/G104191/20261008029/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/041/G104191/20261008029/SS/004.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/041/G104191/20261008029/SS/004.jpg"/></item>
+↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た…</p><p><img src="https://www.4gamer.net/games/041/G104191/20261008029/SS/004.jpg" alt="���襤��ǭ�β����ɡ����α����Ԥı���Ū���ݡ�����ϩ�ΰ������ˤ������Ĥ�����ʹ�����ե����ȶ��˺�����Under Mythos�פ�ĩ���Υ��󥿥ӥ塼��"></p>]]></description><source url="https://www.4gamer.net/games/041/G104191/20261008029/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/041/G104191/20261008029/SS/004.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/041/G104191/20261008029/SS/004.jpg"/></item>
 <item><title>【本日みつけたお買い得品】13.3型有機ELで約899gの軽量モバイルノートが3万円オフ</title><link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2148235.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/todays_sales/2148235.html</guid><pubDate>Thu, 15 Oct 2026 00:50:58 +0000</pubDate><description><![CDATA[<p>【本日みつけたお買い得品】13.3型有機ELで約899gの軽量モバイルノートが3万円オフ
 
 Amazonにおいて、13.3型ノートPCのMSI「Prestige 13 AI+ A3M」が直近価格から3万円引きで、22万9,800円にて購入できる。
@@ -2520,6 +2753,17 @@ dotsは、同社のAIモデルであるGPT-6 Astraを搭載したAIエージェ�
 そのほか、ブラウジングの高速化とスクロールのスムーズ化、不要な通知の削減、コードブロックと添付ファイルの表示改善、Outlookセットアップの改良、計画の表示改善と読み込み失敗時の再試行対応、Webおよび音声でのEnterpriseアクセスの信頼性向上なども図った。
 
 Fresh updates for dots. First up: you can now create your dot straight from your phone in the ChatGPT app on iOS and Android. https://t.co/ZHOqBx6tLI</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2147/525/01.jpg" alt="ChatGPTのdotsがスマホからも作成可能に。Codexとの連携も強化"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2147525.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2147/525/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2147/525/01.jpg"/></item>
+<item><title>DELL製ミニPCが26,400円、Core i5-8500Tや256GB SSD搭載の中古Cランク品がQualitでセール</title><link>https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2146936.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2146936.html</guid><pubDate>Tue, 13 Oct 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>DELL製ミニPCが26,400円、Core i5-8500Tや256GB SSD搭載の中古Cランク品がQualitでセール
+
+Core i5-8500T(6コア/6スレッド)を搭載したDELL製ミニPC「Optiplex 7070 2100Micro」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で特価販売中。
+
+DELL製ミニPCが26,400円、Core i5-8500Tや256GB SSD搭載の中古Cランク品がQualitでセール
+
+Core i5-8500T(6コア/6スレッド)を搭載したDELL製ミニPC「Optiplex 7070 2100Micro」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で特価販売中 。
+
+今回販売されているのは、「傷や使用感が見られる」(同店)というCランク中古品で、販売価格は26,400円。保証期間は12か月となっています。
+
+主な仕様は、メモリが8GB(空きスロット×0)、ストレージが256GB SSD、OSがWindows 11 Pro。インターフェイスには、DisplayPort×2やVGA、USB Type-Cなどを備えています。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2146/936/a1.jpg" alt="DELL製ミニPCが26,400円、Core i5-8500Tや256GB SSD搭載の中古Cランク品がQualitでセール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2146936.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2146/936/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2146/936/a1.jpg"/></item>
 <item><title>【独自調査結果】iPhone Duoを予約開始日に予約は71.5％ 欲しい人は79.7％</title><link>https://iphone-mania.jp/iphone18-607367/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-607367/</guid><pubDate>Tue, 13 Oct 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>【独自調査結果】iPhone Duoを予約開始日に予約は71.5％ 欲しい人は79.7％
 
 iPhone Maniaでは、10月16日（金）午後9時に予約が始まるApple初の折りたたみiPhone「iPhone
@@ -2541,17 +2785,6 @@ iPhone Maniaでは、10月16日（金）午後9時に予約が始まるApple初�
 買う場所は「Appleオンラインストア（配送で受け取る）」が最多
 
 …</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/10/survey_result_8th.png" alt="【独自調査結果】iPhone Duoを予約開始日に予約は71.5％ 欲しい人は79.7％"></p>]]></description><source url="https://iphone-mania.jp/iphone18-607367/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/10/survey_result_8th.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/10/survey_result_8th.png"/></item>
-<item><title>DELL製ミニPCが26,400円、Core i5-8500Tや256GB SSD搭載の中古Cランク品がQualitでセール</title><link>https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2146936.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2146936.html</guid><pubDate>Tue, 13 Oct 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>DELL製ミニPCが26,400円、Core i5-8500Tや256GB SSD搭載の中古Cランク品がQualitでセール
-
-Core i5-8500T(6コア/6スレッド)を搭載したDELL製ミニPC「Optiplex 7070 2100Micro」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で特価販売中。
-
-DELL製ミニPCが26,400円、Core i5-8500Tや256GB SSD搭載の中古Cランク品がQualitでセール
-
-Core i5-8500T(6コア/6スレッド)を搭載したDELL製ミニPC「Optiplex 7070 2100Micro」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で特価販売中 。
-
-今回販売されているのは、「傷や使用感が見られる」(同店)というCランク中古品で、販売価格は26,400円。保証期間は12か月となっています。
-
-主な仕様は、メモリが8GB(空きスロット×0)、ストレージが256GB SSD、OSがWindows 11 Pro。インターフェイスには、DisplayPort×2やVGA、USB Type-Cなどを備えています。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2146/936/a1.jpg" alt="DELL製ミニPCが26,400円、Core i5-8500Tや256GB SSD搭載の中古Cランク品がQualitでセール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2146936.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2146/936/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2146/936/a1.jpg"/></item>
 <item><title>ChatGPT、またリセット予告。16時頃までに利用枠回復</title><link>https://pc.watch.impress.co.jp/docs/news/2147518.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2147518.html</guid><pubDate>Tue, 13 Oct 2026 02:57:16 +0000</pubDate><description><![CDATA[<p>ChatGPT、またリセット予告。16時頃までに利用枠回復
 
 この3日間で2回目のリセットだ。OpenAIでCodexとChatGPTを担当するThibault Sottiaux(ティボー・ソティオ)氏が10月13日(日本時間)、全ユーザーの利用枠リセットを同日中に実施するとX(旧Twitter)で告知した。
@@ -3509,21 +3742,6 @@ iPhone Air や iPad Air（M4） 、 Apple Watch Series 11 が、 Amazonプライ
 開催期間は、 先行セール が10月13日（火）0時〜15日（木）23時59分、 本セール が10月16日（金）0時〜19日（月）23時59分だ。合わせて7日間ある。
 
 M4チップ を積んだ iPad Air（M4） は、Appleが2026年3月4日に予約を始め、3月11日に発売したモデルだ。Appleの発表では、11インチモデルは98,800円（税込）からとなってい…</p><p><img src="https://gori.me/uploads/2026/10/jaime-marrero-zIxU7OhYL_s-unsplash.jpg" alt="Amazonプライム感謝祭で「絶対安くなるApple製品」はこちらです"></p>]]></description><source url="https://gori.me/amazon/amazon-sale/171168">gori.me</source><media:content url="https://gori.me/uploads/2026/10/jaime-marrero-zIxU7OhYL_s-unsplash.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/10/jaime-marrero-zIxU7OhYL_s-unsplash.jpg"/></item>
-<item><title>ついに実機を入手！Surface Laptop UltraとProArt P16開封の儀</title><link>https://pc.watch.impress.co.jp/docs/news/2147419.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2147419.html</guid><pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>ついに実機を入手！Surface Laptop UltraとProArt P16開封の儀
-
-既報の通り、NVIDIAのSoC「RTX Spark」を搭載したPCが各社から正式発表された。それを受け、Microsoftの「Surface Laptop Ultra」とASUSの「ProArt P16(H7607)」の開封の儀を行なう機会を得た。詳細なレビューはもう少々お待ちいただきたい。
-
-ついに実機を入手！Surface Laptop UltraとProArt P16開封の儀
-
-既報の通り、NVIDIAのSoC「RTX Spark」を搭載したPCが各社から正式発表された。それを受け、Microsoftの「Surface Laptop Ultra」とASUSの「ProArt P16(H7607)」の開封の儀を行なう機会を得た。詳細なレビューはもう少々お待ちいただきたい。
-
-Surface Laptop Ultraは、SoCにNVIDIA RTX Sparkを搭載するほか、24GB～128GBのメモリ、512GB～2TBのSSDで、タッチ対応の15型PixelSense Ultra(3,270×2,180ドット/120Hz)ディスプレイを採用し、重量は約2kgとなる。
-
-Surface Laptop Ultraの「マグネット式USB-C」、通常ケーブルも使える (2026/10/8)
-
-ProArt P16(H7607)のハードウェアスペックはSurface Laptop Ultraとほぼ共通。ディスプレイは異なり、3,840×2,400ドットか2,880×1,800ドット表示/120Hz/タッチ対応の16型OLEDを選択可能。なお、ASUSからは14型のProArt P14(H7407)も発表されている。
-
-RTX Sparkが10月下旬に国内発売！ASUS、ProArtノート2機種 (2026/10/8)</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2147/419/00.jpg" alt="ついに実機を入手！Surface Laptop UltraとProArt P16開封の儀"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2147419.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2147/419/00.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2147/419/00.jpg"/></item>
 <item><title>【プロダクトレビュー・ショーケース】RTX Sparkの実機がやってきた！サンフランシスコの青空の下で“開封の儀”に臨むMicrosoft Surface Laptop、ASUS ProArtのRTX Spark搭載モデル text by 芹澤 正芳</title><link>https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2147426.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2147426.html</guid><pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>【プロダクトレビュー・ショーケース】RTX Sparkの実機がやってきた！サンフランシスコの青空の下で“開封の儀”に臨むMicrosoft Surface Laptop、ASUS ProArtのRTX Spark搭載モデル text by 芹澤 正芳
 
 2026年10月7日（米国時間）、MicrosoftはNVIDIA RTX Sparkを搭載する新Surfaceを正式に発表、同時に各PCメーカーからも発売がアナウンスされた。国内でも10月16日より、各PCメーカーから順次発売が予定されている。
@@ -3541,6 +3759,21 @@ ArmベースのCPU+NVIDIA最新のGPUに統合メモリをたっぷり搭載 い
 RTX Sparkは、NVIDIAが2026年5月31日、COMPUTEX TAIPEIに合わせて開催したGTC Taipeiで発表した、Windows PC向けの新しいSoC型プラットフォームのこと。MediaTekと共同設計したArmベースのGrace CPUと、Blackwell世代のRTX GPUをNVLink-C2Cで接続。CPUとGPUがLPDDR5Xのユニファイドメモリを共有する。
 
 CPU用メモリと単体GP…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2147/426/top.jpg" alt="【プロダクトレビュー・ショーケース】RTX Sparkの実機がやってきた！サンフランシスコの青空の下で“開封の儀”に臨むMicrosoft Surface Laptop、ASUS ProArtのRTX Spark搭載モデル text by 芹澤 正芳"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2147426.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2147/426/top.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2147/426/top.jpg"/></item>
+<item><title>ついに実機を入手！Surface Laptop UltraとProArt P16開封の儀</title><link>https://pc.watch.impress.co.jp/docs/news/2147419.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2147419.html</guid><pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>ついに実機を入手！Surface Laptop UltraとProArt P16開封の儀
+
+既報の通り、NVIDIAのSoC「RTX Spark」を搭載したPCが各社から正式発表された。それを受け、Microsoftの「Surface Laptop Ultra」とASUSの「ProArt P16(H7607)」の開封の儀を行なう機会を得た。詳細なレビューはもう少々お待ちいただきたい。
+
+ついに実機を入手！Surface Laptop UltraとProArt P16開封の儀
+
+既報の通り、NVIDIAのSoC「RTX Spark」を搭載したPCが各社から正式発表された。それを受け、Microsoftの「Surface Laptop Ultra」とASUSの「ProArt P16(H7607)」の開封の儀を行なう機会を得た。詳細なレビューはもう少々お待ちいただきたい。
+
+Surface Laptop Ultraは、SoCにNVIDIA RTX Sparkを搭載するほか、24GB～128GBのメモリ、512GB～2TBのSSDで、タッチ対応の15型PixelSense Ultra(3,270×2,180ドット/120Hz)ディスプレイを採用し、重量は約2kgとなる。
+
+Surface Laptop Ultraの「マグネット式USB-C」、通常ケーブルも使える (2026/10/8)
+
+ProArt P16(H7607)のハードウェアスペックはSurface Laptop Ultraとほぼ共通。ディスプレイは異なり、3,840×2,400ドットか2,880×1,800ドット表示/120Hz/タッチ対応の16型OLEDを選択可能。なお、ASUSからは14型のProArt P14(H7407)も発表されている。
+
+RTX Sparkが10月下旬に国内発売！ASUS、ProArtノート2機種 (2026/10/8)</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2147/419/00.jpg" alt="ついに実機を入手！Surface Laptop UltraとProArt P16開封の儀"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2147419.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2147/419/00.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2147/419/00.jpg"/></item>
 <item><title>新型iPad miniは約3.5万円値上げ？税込134,800円〜と試算</title><link>https://iphone-mania.jp/ipadmini-607349/</link><guid isPermaLink="true">https://iphone-mania.jp/ipadmini-607349/</guid><pubDate>Mon, 12 Oct 2026 11:18:47 +0000</pubDate><description><![CDATA[<p>新型iPad miniは約3.5万円値上げ？税込134,800円〜と試算
 
 2026年10月27日頃に発表されると噂の新型iPad miniの販売価格について、現行iPad mini（A17 Pro）より大幅に高くなり、米国では799ドル前後になる可能性をBloombergのマーク・ガーマン記者が示しています。
@@ -7870,19 +8103,6 @@ View 590 TG ARGBシリーズは、フロントから左サイドにかけて1枚
 冷却ファンは、右側面に120mmアドレサブルRGBリバースファン×3、リアに120mmアドレサブルRGBファン×2を標準搭載。いずれもインフィニティミラーを内蔵している。
 
 搭載可能なファンは、上面が120mm×3または140mm×2、右側面と底面が120mm×3、背面が120mm×2で、最大11基の120mmファ…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2145/422/a1.jpg" alt="Thermaltakeの曲面強化ガラス/デュアルチャンバーケース「View 590 TG ARGB」がTSUKUMOで展示スタート"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2145422.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2145/422/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2145/422/a1.jpg"/></item>
-<item><title>台形表面処理の高速ガラスマウスパッド「Tekkusai Apex」が展示スタート</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2144861.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2144861.html</guid><pubDate>Wed, 07 Oct 2026 04:30:00 +0000</pubDate><description><![CDATA[<p>台形表面処理の高速ガラスマウスパッド「Tekkusai Apex」が展示スタート
-
-Tekkusaiブランドのガラス製ゲーミングマウスパッド「Apex」の先行展示が、ふもショールーム秋葉原でスタート。
-
-台形表面処理の高速ガラスマウスパッド「Tekkusai Apex」が展示スタート
-
-Tekkusaiブランドのガラス製ゲーミングマウスパッド「Apex」の先行展示が、 ふもショールーム秋葉原 でスタート。
-
-Apexは、500×450×1.5mmサイズのガラス製マウスパッド。
-
-頂点が平らに切り出された台形の表面に2段階のエッチング処理を施しており、二層コーティングとの組み合わせで滑らかかつ高速な操作性をうたう。
-
-パッケージにはUWS Magic Ice Plusドットソール20個も付属する。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2144/861/s1.jpg" alt="台形表面処理の高速ガラスマウスパッド「Tekkusai Apex」が展示スタート"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2144861.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2144/861/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2144/861/s1.jpg"/></item>
 <item><title>�����ƥ�����ˡ��50��ǯ��ǰ���ǥ��Υǥ����ȥå�PC���ޥ��������ԥ塼������ȯɽ�����̻��ͤ�PC��������LED�Ǻ̤��줿����</title><link>https://www.4gamer.net/games/026/G002654/20261007006/</link><guid isPermaLink="true">https://www.4gamer.net/games/026/G002654/20261007006/</guid><pubDate>Wed, 07 Oct 2026 04:30:00 +0000</pubDate><description><![CDATA[<p>�����ƥ�����ˡ��50��ǯ��ǰ���ǥ��Υǥ����ȥå�PC���ޥ��������ԥ塼������ȯɽ�����̻��ͤ�PC��������LED�Ǻ̤��줿����
 
 2026年10月7日，マウスコンピューターは，Intelの日本法人であるインテル株式会社の創立50周年を記念したデスクトップPC「G TUNE FZ-I7G80」を発表した。PCケースに独自のラッピ…
@@ -7898,6 +8118,19 @@ Apexは、500×450×1.5mmサイズのガラス製マウスパッド。
 ↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
 
 ↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を伝えようとするのか…</p><p><img src="https://www.4gamer.net/games/026/G002654/20261007006/SS/002.jpg" alt="�����ƥ�����ˡ��50��ǯ��ǰ���ǥ��Υǥ����ȥå�PC���ޥ��������ԥ塼������ȯɽ�����̻��ͤ�PC��������LED�Ǻ̤��줿����"></p>]]></description><source url="https://www.4gamer.net/games/026/G002654/20261007006/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/026/G002654/20261007006/SS/002.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/026/G002654/20261007006/SS/002.jpg"/></item>
+<item><title>台形表面処理の高速ガラスマウスパッド「Tekkusai Apex」が展示スタート</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2144861.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2144861.html</guid><pubDate>Wed, 07 Oct 2026 04:30:00 +0000</pubDate><description><![CDATA[<p>台形表面処理の高速ガラスマウスパッド「Tekkusai Apex」が展示スタート
+
+Tekkusaiブランドのガラス製ゲーミングマウスパッド「Apex」の先行展示が、ふもショールーム秋葉原でスタート。
+
+台形表面処理の高速ガラスマウスパッド「Tekkusai Apex」が展示スタート
+
+Tekkusaiブランドのガラス製ゲーミングマウスパッド「Apex」の先行展示が、 ふもショールーム秋葉原 でスタート。
+
+Apexは、500×450×1.5mmサイズのガラス製マウスパッド。
+
+頂点が平らに切り出された台形の表面に2段階のエッチング処理を施しており、二層コーティングとの組み合わせで滑らかかつ高速な操作性をうたう。
+
+パッケージにはUWS Magic Ice Plusドットソール20個も付属する。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2144/861/s1.jpg" alt="台形表面処理の高速ガラスマウスパッド「Tekkusai Apex」が展示スタート"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2144861.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2144/861/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2144/861/s1.jpg"/></item>
 <item><title>PixelのGemini、アシスタント強制移行後に不具合多発。</title><link>https://smhn.info/202610-pixel-october-update-gemini-hey-google-issues</link><guid isPermaLink="true">https://smhn.info/202610-pixel-october-update-gemini-hey-google-issues</guid><pubDate>Wed, 07 Oct 2026 04:22:05 +0000</pubDate><description><![CDATA[<p>PixelのGemini、アシスタント強制移行後に不具合多発。
 
 Pixelには毎月、セキュリティ修正と不具合修正をまとめたアップデートが届きます。10月分の配信が10月6日に始まりました。ただ、Pixel利用者が集まるRedditのコミュニティ「r/GooglePixel」では、アップデートそのものよりも、GoogleアシスタントからGemi...
@@ -8446,289 +8679,4 @@ LINEラボとは、正式公開前の機能をユーザーが試せる実験的�
 結論から言うと、送ってしまったテキストを、相手に通知せずにあとから直せる機能だ。誤字や日時の書き間違いに気づいても、送信取消して送り直す必要はない。
 
 使えるのは1:1やグループのトークルームと…</p><p><img src="https://gori.me/uploads/2026/10/LINE-Lab-Message-Edit-becomes-lyp-premium.jpg" alt="LINEの「メッセージ編集」、10月20日から課金しないと使えなくなる"></p>]]></description><source url="https://gori.me/line/line-news/171019">gori.me</source><media:content url="https://gori.me/uploads/2026/10/LINE-Lab-Message-Edit-becomes-lyp-premium.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/10/LINE-Lab-Message-Edit-becomes-lyp-premium.jpg"/></item>
-<item><title>HomePod mini、オレンジとイエローだけ世界で品薄に。間もなく新モデル登場か</title><link>https://gori.me/music-accessories/speakers/homepod/171017</link><guid isPermaLink="true">https://gori.me/music-accessories/speakers/homepod/171017</guid><pubDate>Tue, 06 Oct 2026 21:35:32 +0000</pubDate><description><![CDATA[<p>HomePod mini、オレンジとイエローだけ世界で品薄に。間もなく新モデル登場か
-
-HomePod miniで、オレンジとイエローの2色だけが世界中で品薄になっている。日本ではオレンジの配送予定が12月8日まで延びた。Appleのコードから見つかったHomePod mini 2の画像には、グリーン、ピンク、ブルー、ホワイト、ブラックの5色が写っていたという。オレンジとイエローはなくなるのかもしれない。
-
-HomePod mini、オレンジとイエローだけ世界で品薄に。間もなく新モデル登場か
-
-HomePod mini 2の画像にはグリーンとピンクを含む5色。今の2色は見当たらない
-
-米国、英国、カナダ、日本など複数の国で、オレンジとイエローの2色が品薄になっている
-
-オレンジは日本、ドイツ、フランス、オーストラリア、英国で6〜8週間待ちになっている
-
-HomePod mini 2の画像に写っていたのはグリーン、ピンク、ブルー、ホワイト、ブラックの5色と報じられた
-
-HomePod mini の配送待ちが、一部の色で最長8週間に延びている。日本のApple公式サイトでも、オレンジとイエローの2色だけが目立って遅い。10月13日に新型が出るという 噂 もあり、モデルチェンジが近いサインではないかと話題になっている。
-
-MacRumors によると、配送の遅れは米国、英国、カナダ、ドイツ、フランス、オーストラリア、日本など複数の国で起きている。一部の色は、配送の注文すらできない状態だ。
-
-僕は2026年10月7日早朝に日本のApple公式オンラインストアを確認した。5色の価格はどれも 22,800円 だが、配送予定日は色によって大きく違っていた。
-
-オレンジは、今注文しても届くのは早くて11月下旬になる。ブルー、ミッドナイト、ホワイトは数日で届くので、オレンジとイエローの遅れだ…</p><p><img src="https://gori.me/uploads/2026/10/jaime-marrero-Lq4mMiY5BNo-unsplash.jpg" alt="HomePod mini、オレンジとイエローだけ世界で品薄に。間もなく新モデル登場か"></p>]]></description><source url="https://gori.me/music-accessories/speakers/homepod/171017">gori.me</source><media:content url="https://gori.me/uploads/2026/10/jaime-marrero-Lq4mMiY5BNo-unsplash.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/10/jaime-marrero-Lq4mMiY5BNo-unsplash.jpg"/></item>
-<item><title>ClaudeがGoogleドキュメントやスプレッドシートに入ってきた</title><link>https://gori.me/it/171021</link><guid isPermaLink="true">https://gori.me/it/171021</guid><pubDate>Tue, 06 Oct 2026 21:15:08 +0000</pubDate><description><![CDATA[<p>ClaudeがGoogleドキュメントやスプレッドシートに入ってきた
-
-Anthropicが「Claude for Google Workspace」をベータとして提供開始した。Googleドキュメント、スプレッドシート、スライドにClaudeのサイドバーを開き、ファイルを直接編集できる。Pro、Max、Team、Enterpriseの有料プランが対象で、編集前に確認するモードが既定だ。
-
-クイック ClaudeがGoogleドキュメントやスプレッドシートに入ってきた
-
-ドキュメント・スプレッドシート・スライドに対応、公開ベータで提供開始
-
-ClaudeがGoogleドキュメント・スプレッドシート・スライドのサイドバーで使えるようになった
-
-Pro、Max、Team、Enterpriseプランが対象の公開ベータ
-
-Anthropicが Google ドキュメント、スプレッドシート、スライドで使える「Claude for Google Workspace」を公開ベータとして提供開始 した。ファイルの横にClaudeのサイドバーを開き、文書の作成や編集を手伝ってもらえる。
-
-Claude now works inside Google Docs, Sheets, and Slides, and those files also open inside Claude.
-
-In Google Workspace, Claude sits in a sidebar next to your file, reads what you have open, and edits it in place. You can approve each edit before it lands. pic.twitter.com/se9wIS7vK1
-
-— Claude (@claudeai) October 6, 2026
-
-Google WorkspaceにはすでにGeminiが組み込まれているが、Claude派はこれで、使い慣れたAIを Google のアプリ内で呼べるようになる。Anth…</p><p><img src="https://gori.me/uploads/2026/10/use-claude-in-google-docs-sheets-and-slides.jpg" alt="ClaudeがGoogleドキュメントやスプレッドシートに入ってきた"></p>]]></description><source url="https://gori.me/it/171021">gori.me</source><media:content url="https://gori.me/uploads/2026/10/use-claude-in-google-docs-sheets-and-slides.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/10/use-claude-in-google-docs-sheets-and-slides.jpg"/></item>
-<item><title>10月13日の新型発表が近い兆候か。HomePod miniの大幅遅延が発生</title><link>https://smhn.info/202610-homepod-mini-shipping-delays-japan-orange-october-13-rumor</link><guid isPermaLink="true">https://smhn.info/202610-homepod-mini-shipping-delays-japan-orange-october-13-rumor</guid><pubDate>Tue, 06 Oct 2026 21:15:03 +0000</pubDate><description><![CDATA[<p>10月13日の新型発表が近い兆候か。HomePod miniの大幅遅延が発生
-
-2020年に登場したHomePod miniは、2万2800円で買えるAppleのスマートスピーカー。そのHomePod miniが、日本のApple公式ストアで色によって届くまでに時間がかかる状態になっています。10月6日夜に確認したところ、オレンジを注文すると届くのは11月2...
-
-10月13日の新型発表が近い兆候か。HomePod miniの大幅遅延が発生
-
-2020年に登場したHomePod miniは、2万2800円で買えるAppleのスマートスピーカー。そのHomePod miniが、日本のApple公式ストアで色によって届くまでに時間がかかる状態になっています。
-
-10月6日夜に確認したところ、オレンジを注文すると届くのは11月20日〜12月5日、イエローは10月29日〜11月6日。ホワイト、ブルー、ミッドナイトは10月10日〜12日に届く予定となっています。
-
-また、海外でも同様の遅延が発生しており、MacRumorsは10月6日、HomePod miniの納期が米国・英国・ドイツ・フランス・オーストラリア・日本・カナダで延びていると伝えています。同誌によると、英国ではブルーが購入できず、イエローは3〜4週間、オレンジは6〜8週間待ち。米国でもイエローとオレンジは地域によって配送を受け付けていないとのこと。
-
-Bloombergのマーク・ガーマン氏は、Appleが10月13日にイベントを開き、ディスプレイ付きのスマートホームハブ、新しいHomePod mini、Apple TV 4Kを発表する計画だと伝えています（ 関連記事 ）。新型発表が近いと噂されていることが、今回の品薄に注目が集まる理由となっています。
-
-MacRumorsは、新しいHomePod miniは今の外観のまま、より高速なチップを積み、Apple Intelligenceに対応し、新色を加える見込みだとしています。根拠として、同誌の協力者アーロン・ペリス氏が見つけたApple公式のコードなどを挙げています…</p><p><img src="https://smhn.info/wp-content/uploads/2026/10/homepod-mini-orange.webp" alt="10月13日の新型発表が近い兆候か。HomePod miniの大幅遅延が発生"></p>]]></description><source url="https://smhn.info/202610-homepod-mini-shipping-delays-japan-orange-october-13-rumor">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/10/homepod-mini-orange.webp" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/10/homepod-mini-orange.webp"/></item>
-<item><title>新型HomePod mini発表準備？現行モデルの納期が遅延、ヨドバシでは販売休止中</title><link>https://iphone-mania.jp/homepod-607091/</link><guid isPermaLink="true">https://iphone-mania.jp/homepod-607091/</guid><pubDate>Tue, 06 Oct 2026 16:20:42 +0000</pubDate><description><![CDATA[<p>新型HomePod mini発表準備？現行モデルの納期が遅延、ヨドバシでは販売休止中
-
-AppleオンラインストアでHomePod miniを購入しようとすると、一部カラーで納期が10月末から12月上旬まで延びています。
-
-新型HomePod mini発表準備？現行モデルの納期が遅延、ヨドバシでは販売休止中
-
-Appleオンラインストアで HomePod mini を購入しようとすると、 一部カラーで納期が10月末から12月上旬 まで延びています。
-
-ヨドバシ・ドット・コム でもHomePod miniの在庫がなくなっており、 販売休止中 と案内されています。
-
-Appleは日本時間 2026年10月14日に新製品を発表 すると噂されています。日本時間では10月14日となり、 新型HomePod mini も発表される可能性が高い製品の1つです。
-
-Appleオンラインストアで納期が長期化 し、 ヨドバシ・ドット・コムでも在庫がなくなっている ことから、新型モデルへの切り替えに向けて 現行モデルの在庫を絞っている可能性 もありそうです。
-
-2026年10月7日午前1時5分時点で、AppleオンラインストアでHomePod miniの イエローを注文すると、お届け予定日は10月30日〜11月7日 と案内されます。
-
-さらに オレンジでは、11月21日〜12月8日 まで納期が延びています。
-
-カラーによって納期に大きな差があることから、現行モデルの在庫が減少している可能性があります。
-
-ヨドバシ・ドット・コムでは、 HomePod miniだけでなくHomePod（第2世代）を含む全モデルが販売休止中 と案内されており、注文できない状態です。
-
-ただし、HomePod（第2世代）まで販売休止になっていることから、今回の在庫状況が新型HomePod miniへの切り替えだけを理由…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/10/07/HomePod-mini-1007_2.jpg" alt="新型HomePod mini発表準備？現行モデルの納期が遅延、ヨドバシでは販売休止中"></p>]]></description><source url="https://iphone-mania.jp/homepod-607091/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/10/07/HomePod-mini-1007_2.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/10/07/HomePod-mini-1007_2.jpg"/></item>
-<item><title>iPhone18 ProとiPhone Duoに16GBメモリ搭載計画があった！？</title><link>https://iphone-mania.jp/iphone18-607087/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-607087/</guid><pubDate>Tue, 06 Oct 2026 15:57:18 +0000</pubDate><description><![CDATA[<p>iPhone18 ProとiPhone Duoに16GBメモリ搭載計画があった！？
-
-iPhone18 ProシリーズとiPhone Duoには当初、メモリ容量を16GBにする計画があったとの噂が、中国SNS「Weibo」に投稿されています。
-
-iPhone18 ProとiPhone Duoに16GBメモリ搭載計画があった！？
-
-iPhone18 ProシリーズとiPhone Duo には当初、 メモリ容量を16GBにする計画があった との噂が、中国SNS「Weibo」に投稿されています。
-
-それが事実だったとすれば、 DRAM価格の高騰や供給不足 の影響を受け、最終的に 12GBに抑えられたのかも しれません。
-
-iPhone18 Proシリーズ に搭載されるメモリ容量は発売前から 12GBとの予想が多く 、実際の製品も12GBでした。iPhone Duoについても12GBになるとの情報が複数出ていたことから、 当初16GBで計画されていたとの今回の情報がどこまで正確なのかは不明 です。
-
-ただし、DRAM価格の高騰や供給不足が続いていることを考えると、 開発初期に16GBが検討 され、その後 12GBに変更された可能性はありそう です。
-
-もしもiPhone18 ProシリーズやiPhone Duoが16GBで計画されながら12GBに留まったのであれば、 iPhone18シリーズのメモリ容量に関する最近の噂 とも関連しているのかもしれません。
-
-iPhone18とiPhone18eに搭載される A20 のユニファイドメモリ容量は、一時は 12GBになる と予想されていました。
-
-しかし最近では 9GB説が増えており 、少なくとも iPhone18eは9GBに留まる 可能性が高いとみられています。 iPhone18 については、 12GBになる可能性 も残されています。
-…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/10/07/th_iphone18-pro-16GB-AC-1007.jpg" alt="iPhone18 ProとiPhone Duoに16GBメモリ搭載計画があった！？"></p>]]></description><source url="https://iphone-mania.jp/iphone18-607087/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/10/07/th_iphone18-pro-16GB-AC-1007.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/10/07/th_iphone18-pro-16GB-AC-1007.jpg"/></item>
-<item><title>『Gears of War: E-Day』の各種ベンチマーク。TSRだと激重。Min 60 fps維持にRTX 5090必要。DLSS有効でもRTX 5070以上がほしいところ</title><link>https://www.nichepcgamer.com/archives/gears-of-war-e-day-benchmark.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/gears-of-war-e-day-benchmark.html</guid><pubDate>Tue, 06 Oct 2026 15:03:55 +0000</pubDate><description><![CDATA[<p>『Gears of War: E-Day』の各種ベンチマーク。TSRだと激重。Min 60 fps維持にRTX 5090必要。DLSS有効でもRTX 5070以上がほしいところ
-
-『Gears of War: E-Day』の各種ベンチマークが公開されました。ベンチマークの測定シーンは以下になります。 上記シーンをTSRネイティブ画質の1920 x 1080最高設定でMin 6...
-
-『 Gears of War: E-Day 』の各種ベンチマークが公開されました。ベンチマークの測定シーンは以下になります。
-
-上記シーンをTSRネイティブ画質の1920 x 1080最高設定でMin 60 fpsを保つには、 GeForce RTX 5090 32GB (Min 65 fps) が必要になります。 かなりの激重です。
-
-ベンチマーク結果は以下の2パターン。 基本的な画質設定はいずれも最高設定です。
-
-ネイティブ レイトレーシング有効、GeForceのみRTX Mega Geometry有効。DLSSやFSRは無効のTSRでのネイティブ画質です
-
-DLSS Q / FSR Q レイトレーシング有効、GeForceのみRTX Mega Geometry有効。アップスケーリングにDLSS Super Resolution / FSRの『品質』(Quality)を有効にした設定です
-
-いずれの設定もFrame Generation (フレーム生成)は無効です。
-
-ベンチマーク結果に8GB以下のグラボは含みません。すべてのグラボをテストすることは非現実的なことと、2026年において、PCゲーマーが重量級の最新ゲームを高画質で快適にプレイするには12GB以上のVRAM容量が望ましいとの判断の上、主に12GB以上のグラボに焦点を当てています。
-
-グラボのベンチマークには最も高フレームレートが出たCPU、Ryzen 7 9800X3Dを使用しています。CPUベンチマークにはGeForce RTX 5090を使用しています。
-
-(Source: Gears of War: E-Day )
-…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2026/10/gears-of-war-e-day.jpg" alt="『Gears of War: E-Day』の各種ベンチマーク。TSRだと激重。Min 60 fps維持にRTX 5090必要。DLSS有効でもRTX 5070以上がほしいところ"></p>]]></description><source url="https://www.nichepcgamer.com/archives/gears-of-war-e-day-benchmark.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2026/10/gears-of-war-e-day.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2026/10/gears-of-war-e-day.jpg"/></item>
-<item><title>楽天ドライブに前代未聞の不正アクセス。1万5382アカウントのファイルが取得・閲覧、期間は8ヶ月近くに及ぶ</title><link>https://smhn.info/202610-rakuten-drive-unauthorized-access-15382-accounts-data</link><guid isPermaLink="true">https://smhn.info/202610-rakuten-drive-unauthorized-access-15382-accounts-data</guid><pubDate>Tue, 06 Oct 2026 13:40:46 +0000</pubDate><description><![CDATA[<p>楽天ドライブに前代未聞の不正アクセス。1万5382アカウントのファイルが取得・閲覧、期間は8ヶ月近くに及ぶ
-
-楽天モバイルが運営するクラウドストレージ「楽天ドライブ」で、利用者が預けていた写真や文書が第三者に取得・閲覧されていたことが分かりました。楽天ドライブは10月6日、一部システムへの不正アクセスを確認したと発表。保存データが取得・閲覧された期間は2026年1月29日から9月17日ま...
-
-楽天ドライブに前代未聞の不正アクセス。1万5382アカウントのファイルが取得・閲覧、期間は8ヶ月近くに及ぶ
-
-楽天モバイルが運営するクラウドストレージ「 楽天ドライブ 」で、利用者が預けていた写真や文書が第三者に取得・閲覧されていたことが分かりました。
-
-楽天ドライブは10月6日、一部システムへの不正アクセスを確認したと発表。保存データが取得・閲覧された期間は2026年1月29日から9月17日までの8カ月近くに及び、対象は1万5382アカウントに上ります。
-
-発表によると、第三者は楽天ドライブが使う一部システムの「管理用アカウント」の認証情報を不正に入手し、システムに入り込みました。どのような経緯で認証情報が漏れたのか、いつ不正アクセスに気付いたのかは明らかにしていません。
-
-取得・閲覧された情報は3種類。保存データ（写真・文書等を含む）は1月29日から9月17日までの1万5382アカウント分です。また8月27日には別途、687アカウント分のアカウント名、ディスプレイネーム（ファイル共有時に相手に表示されるニックネーム）、プロフィール用画像URLが対象となりました。
-
-同じ8月27日には、313アカウント分でアカウント名などに加え、パスワードを復元しにくい文字列へ変換したもの（同社の表現では「暗号化されたパスワード」）と、その変換時に加えた文字列も取得・閲覧されています。パスワード…</p><p><img src="https://smhn.info/wp-content/uploads/2026/07/20260730_202500.webp" alt="楽天ドライブに前代未聞の不正アクセス。1万5382アカウントのファイルが取得・閲覧、期間は8ヶ月近くに及ぶ"></p>]]></description><source url="https://smhn.info/202610-rakuten-drive-unauthorized-access-15382-accounts-data">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/07/20260730_202500.webp" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/07/20260730_202500.webp"/></item>
-<item><title>MacからAI機能を削除し12GB節約できるオープンソースツールが話題に</title><link>https://iphone-mania.jp/mac-607083/</link><guid isPermaLink="true">https://iphone-mania.jp/mac-607083/</guid><pubDate>Tue, 06 Oct 2026 13:34:53 +0000</pubDate><description><![CDATA[<p>MacからAI機能を削除し12GB節約できるオープンソースツールが話題に
-
-macOS27から人工知能（AI）関連の機能を取り除くことができるツール「RemoveMacAI」が注目を集めています。“無用”なAI機能を除去することで節約できるストレージ容量は12GBとのことで、なかなか魅力的です。
-
-MacからAI機能を削除し12GB節約できるオープンソースツールが話題に
-
-macOS27から人工知能（AI）関連の機能を取り除くことができるツール「 RemoveMacAI 」が注目を集めています。“無用”なAI機能を除去することで節約できるストレージ容量は12GBとのことで、なかなか魅力的です。
-
-Apple Intelligenceの完全無効化＆除去ツール
-
-macOS27では、 Apple Intelligenceを完全に無効化するためのトグルが削除 されており、個々の機能を無効にしても、MacのストレージからAIモデルが削除されるわけではありません。
-
-この状況にしびれを切らしたオム・ラホール（Om Lahore）氏は、 AI関連機能をまとめて削除できるオープンソースツール を開発しました。
-
-ツールはターミナルからインストールでき、一度導入すると、macOSをアップデートしてもAI機能が再び有効になることはないとのことです。
-
-「RemoveMacAI」が掲げるAIの完全除去という考え方は、Apple共同創業者の1人であるスティーブ・ウォズニアック氏が“AI”と表現する 「Actual Intelligence（実際の知能）」 とも、どこか通じるものがあります。
-
-ウォズニアック氏はAppleのAI路線にかねてから否定的な姿勢を示しており、以前、人工知能などを使用せずとも、自分の頭を使って考えればよいと述べたことが話題になりました。同氏はあえて同じ“AI”という言葉を…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/10/06/fe2f4eac86d0de4ce07cb24efcd282ea.jpg" alt="MacからAI機能を削除し12GB節約できるオープンソースツールが話題に"></p>]]></description><source url="https://iphone-mania.jp/mac-607083/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/10/06/fe2f4eac86d0de4ce07cb24efcd282ea.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/10/06/fe2f4eac86d0de4ce07cb24efcd282ea.jpg"/></item>
-<item><title>Apple、提出する全アプリにiPhone Duo用スクリーンショットを必須化へ！最適化アプリの提出受付も開始</title><link>https://smhn.info/202610-apple-iphone-duo-app-store-screenshots-required-april-2027</link><guid isPermaLink="true">https://smhn.info/202610-apple-iphone-duo-app-store-screenshots-required-april-2027</guid><pubDate>Tue, 06 Oct 2026 13:00:46 +0000</pubDate><description><![CDATA[<p>Apple、提出する全アプリにiPhone Duo用スクリーンショットを必須化へ！最適化アプリの提出受付も開始
-
-現在のApp Storeのアプリページには、iPhoneやiPadの画面サイズごとにスクリーンショットが並んでいます。そこにAppleが発表した初の折りたたみiPhone「iPhone Duo」も加わることになりました。実際、開発者向けにも準備の号令がかかっています。Appleは...
-
-Apple、提出する全アプリにiPhone Duo用スクリーンショットを必須化へ！最適化アプリの提出受付も開始
-
-現在のApp Storeのアプリページには、iPhoneやiPadの画面サイズごとにスクリーンショットが並んでいます。そこにAppleが発表した初の折りたたみiPhone「 iPhone Duo 」も加わることになりました。
-
-実際、開発者向けにも準備の号令がかかっています。Appleは10月5日（米国時間）、iPhone Duoに最適化したアプリとゲームの審査提出をApp Store Connectで受け付け始めたと発表しました。
-
-このため2027年4月からは、 提出するすべてのアプリとゲームにiPhone Duo用のスクリーンショットが必要になります 。
-
-iPhone Duoは、開くと7.6型、閉じると5.4型の画面で使う折りたたみスマートフォンで、10月23日に発売。Appleは発売前のアプリ対応として、iPhone Duoの開発に対応した「Xcode 27.1」でアプリをビルドし直すよう案内しています。
-
-App Store Connectで現在必須とされているiPhone向けスクリーンショットは、「Dynamic Islandを備えたiPhone（中サイズの画面）」用の少なくとも1枚だけです。ここに2027年4月からiPhone Duo用が追加。解像度…</p><p><img src="https://smhn.info/wp-content/uploads/2026/09/P1269963.jpg" alt="Apple、提出する全アプリにiPhone Duo用スクリーンショットを必須化へ！最適化アプリの提出受付も開始"></p>]]></description><source url="https://smhn.info/202610-apple-iphone-duo-app-store-screenshots-required-april-2027">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/09/P1269963.jpg" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/09/P1269963.jpg"/></item>
-<item><title>新型iPad miniや新型MacBook Proを10月最終週に順次発表？</title><link>https://iphone-mania.jp/apple-607071/</link><guid isPermaLink="true">https://iphone-mania.jp/apple-607071/</guid><pubDate>Tue, 06 Oct 2026 10:31:11 +0000</pubDate><description><![CDATA[<p>新型iPad miniや新型MacBook Proを10月最終週に順次発表？
-
-Appleが2026年10月最終週にも複数の新製品を発表するとの情報を入手したと、MacRumorsが伝えています。
-
-新型iPad miniや新型MacBook Proを10月最終週に順次発表？
-
-Appleが 2026年10月最終週にも複数の新製品を発表 するとの情報を入手したと、MacRumorsが伝えています。
-
-具体的な製品名は明らかになっていませんが、 有機EL（OLED）ディスプレイ搭載MacBook Pro や M6搭載Mac 、 新型iPad mini などが候補として挙げられています。
-
-Appleは 10月14日に新製品発表イベントを開催 する見通しですが、 最終週の第2弾はプレスリリースを中心に発表されるのではないか と思われます。
-
-MacRumorsが入手した情報が正しい場合、Appleは10月中に2回に分けて新製品を発表する可能性があります。
-
-タッチパネルとOLEDディスプレイを搭載する新型MacBook Pro
-
-MacRumorsは、10月最終週に発表される具体的な製品はまだ不明としながらも、Mac関連製品を有力候補として挙げています。
-
-新型iPad miniも10月中の登場が期待されていますが、10月14日のイベント、最終週、それ以外の日程のどこで発表されるかは現時点で明らかになっていません。
-
-こうした新製品の発表も含め、今月は毎週のようにApple関連の大きな動きがありそうです。
-
-第2週となる今週は、10月14日開催と噂される イベントの案内が、10月7日〜8日頃に行われる ことが予想されます。
-
-開催の約1週間前に告知するのであれば、まもなく正式な案内が出ても不思議ではありません。
-
-第3週には、 iPhone Duoの予約注文準備が13日から可能…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/10/06/apple-202610-new-launch.jpg" alt="新型iPad miniや新型MacBook Proを10月最終週に順次発表？"></p>]]></description><source url="https://iphone-mania.jp/apple-607071/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/10/06/apple-202610-new-launch.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/10/06/apple-202610-new-launch.jpg"/></item>
-<item><title>無料民はGemini Flash-Lite以外使用不能に。FlashとProが有料プラン限定へ</title><link>https://smhn.info/202610-google-gemini-app-free-users-flash-lite-only</link><guid isPermaLink="true">https://smhn.info/202610-google-gemini-app-free-users-flash-lite-only</guid><pubDate>Tue, 06 Oct 2026 10:29:25 +0000</pubDate><description><![CDATA[<p>無料民はGemini Flash-Lite以外使用不能に。FlashとProが有料プラン限定へ
-
-Googleの「Gemini」アプリは、有料プランに入っていなくても上位モデルを試せるのが魅力の一つでした。その前提が、ついに10月9日から変わります。Googleは無料で使えるモデルをFlash-Liteだけに限定すると案内。無料プランでFlashとProが使えなくなるほか、有...
-
-無料民はGemini Flash-Lite以外使用不能に。FlashとProが有料プラン限定へ
-
-Googleの「Gemini」アプリは、有料プランに入っていなくても上位モデルを試せるのが魅力の一つでした。その前提が、ついに10月9日から変わります。Googleは 無料で使えるモデルをFlash-Liteだけに限定する と案内。無料プランでFlashとProが使えなくなるほか、有料プランでも利用可能なモデルが少し変わります。
-
-同社によると、個人アカウントでGeminiアプリを使う場合の利用可能モデルを2026年10月から変更するとのこと。Google AIのサブスクリプションを契約していないユーザーには10月9日から適用されます。変更後、プラン未加入で使えるのはFlash-Liteのみとなり、FlashとProは利用できなくなります。
-
-Geminiアプリのモデルは3種類。Flash-Liteは要約やアイデア出しなど日常の作業に向けた速度重視のモデル、Flashは速さと推論のバランスを取ったより強力なモデル、Proは複雑な数学やコーディングに強い最上位モデルと、Googleは位置づけています。
-
-有料プランで最も下位の「 Google AI Plus 」は、Flash-LiteとFlashを引き続き使えるものの、 Proが対象から外れます 。AI Plusの契約者には、変更がいつから適用され…</p><p><img src="https://smhn.info/wp-content/uploads/2026/10/google-gemini-logo.webp" alt="無料民はGemini Flash-Lite以外使用不能に。FlashとProが有料プラン限定へ"></p>]]></description><source url="https://smhn.info/202610-google-gemini-app-free-users-flash-lite-only">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/10/google-gemini-logo.webp" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/10/google-gemini-logo.webp"/></item>
-<item><title>「HUAWEI Mate 90」発表！前機種から値上げ、第3世代昆侖ガラス、F1.4〜F4.0の可変絞り</title><link>https://smhn.info/202610-huawei-mate-90-china-launch-battery-esim-price</link><guid isPermaLink="true">https://smhn.info/202610-huawei-mate-90-china-launch-battery-esim-price</guid><pubDate>Tue, 06 Oct 2026 10:10:40 +0000</pubDate><description><![CDATA[<p>「HUAWEI Mate 90」発表！前機種から値上げ、第3世代昆侖ガラス、F1.4〜F4.0の可変絞り
-
-メモリー価格の高騰を受け、各社でスマートフォンの値上げが相次いでいます。ファーウェイも例外ではありません。HUAWEIの消費者向け事業トップを務めるRichard Yu氏も、メモリー価格の上昇により端末1台あたりのコストが平均200ドル（約3万1000円）増えたと説明。「我々も値...
-
-「HUAWEI Mate 90」発表！前機種から値上げ、第3世代昆侖ガラス、F1.4〜F4.0の可変絞り
-
-メモリー価格の高騰を受け、各社でスマートフォンの値上げが相次いでいます。ファーウェイも例外ではありません。
-
-HUAWEIの消費者向け事業トップを務めるRichard Yu氏も、メモリー価格の上昇により端末1台あたりのコストが平均200ドル（約3万1000円）増えたと説明。「我々も値上げせざるを得ないが、そのペースは緩やかにする」と語ったことをロイターが報じています。
-
-そのHUAWEIが10月1日、中国で「HUAWEI Mate 90」を発表しました。
-
-中国での価格は実行メモリ12GB・ストレージ256GB版が5999元（約14万1000円）から。12GB・512GB版は6999元（約16万4000円）、12GB・1TB版は8499元（約19万9000円）となっています。
-
-なおMate 80の発売時価格は12GB・256GB版が4699元（約11万円）、12GB・512GB版が5199元（約12万2000円）だったので、同一構成で比べると、256GB版は1300元（約3万円）、512GB版は1800元（約4万2000円）の値上げです。
-
-バッテリー容量は標準値で6600mAh（定格6415mAh）を備えています。重さは約217gで、外形寸法は高さ161.9mm、幅75.7…</p><p><img src="https://smhn.info/wp-content/uploads/2026/10/huawei-mate-90-kv.webp" alt="「HUAWEI Mate 90」発表！前機種から値上げ、第3世代昆侖ガラス、F1.4〜F4.0の可変絞り"></p>]]></description><source url="https://smhn.info/202610-huawei-mate-90-china-launch-battery-esim-price">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/10/huawei-mate-90-kv.webp" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/10/huawei-mate-90-kv.webp"/></item>
-<item><title>iOS/iPadOS27.2ベータ3などがリリース〜追加された新機能を確認</title><link>https://iphone-mania.jp/ios-607049/</link><guid isPermaLink="true">https://iphone-mania.jp/ios-607049/</guid><pubDate>Tue, 06 Oct 2026 10:05:14 +0000</pubDate><description><![CDATA[<p>iOS/iPadOS27.2ベータ3などがリリース〜追加された新機能を確認
-
-Appleが2026年10月6日、iOS27.2、iPadOS27.2、macOS 27.2 Golden Gate、watchOS27.2、visionOS27.2、tvOS27.2、HomePodソフトウェアバージョン27.2の開発者向けベータ3を公開しました。
-
-iOS/iPadOS27.2ベータ3などがリリース〜追加された新機能を確認
-
-Appleが2026年10月6日、 iOS27.2 、 iPadOS27.2 、 macOS 27.2 Golden Gate 、 watchOS27.2 、 visionOS27.2 、 tvOS27.2 、 HomePodソフトウェアバージョン27.2 の開発者向け ベータ3 を公開しました。
-
-iOS27.2ベータ3では、iPhone Duo関連の情報やバッテリーアイコンの変更など、複数の新機能や変更点が見つかっています。
-
-iOS27.2ベータ3から見つかった主な新機能や変更点は、次の通りです。
-
-Apple TVおよびフィットネスアプリの初回起動画面を追加
-
-ホームアクセサリーの操作がDynamic Islandに対応する可能性
-
-なお、本記事の内容は開発者向けベータ版で確認されたもので、正式リリース時に変更・削除される可能性があります。
-
-AppleはiPhone Duoの予約注文受付を2026年10月16日に開始し、23日に発売します。
-
-iPhone DuoにはiOS27.1がインストールされて出荷される見込みですが、iOS27.2ベータ3には同モデルの診断手順を説明する4本の動画が含まれています。
-
-iOS 27.2 beta 3 includes 4 iPhone Duo diagnostic instruction videos pi…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/10/06/ios272be-BP.jpg" alt="iOS/iPadOS27.2ベータ3などがリリース〜追加された新機能を確認"></p>]]></description><source url="https://iphone-mania.jp/ios-607049/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/10/06/ios272be-BP.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/10/06/ios272be-BP.jpg"/></item>
-<item><title>低性能の誹りを受けるTensor G6(3nm)、なんとKirin 9050 Pro(7nm)にさえ敗北。</title><link>https://smhn.info/202610-tensor-g6-loses-to-kirin-9050-pro-geekerwan</link><guid isPermaLink="true">https://smhn.info/202610-tensor-g6-loses-to-kirin-9050-pro-geekerwan</guid><pubDate>Tue, 06 Oct 2026 09:55:15 +0000</pubDate><description><![CDATA[<p>低性能の誹りを受けるTensor G6(3nm)、なんとKirin 9050 Pro(7nm)にさえ敗北。
-
-Pixelの泣きどころといえば、Tensorチップの性能と電力効率。そこへ追い打ちをかけるような比較結果が出ています。比較相手は、米国の制裁で最先端の製造技術を使えないはずのHuaweiの最新チップ。CPUとGPUの電力効率曲線において、両者の実力差が浮き彫りになっています。比較...
-
-低性能の誹りを受けるTensor G6(3nm)、なんとKirin 9050 Pro(7nm)にさえ敗北。
-
-Pixelの泣きどころといえば、Tensorチップの性能と電力効率。そこへ追い打ちをかけるような比較結果が出ています。比較相手は、米国の制裁で最先端の製造技術を使えないはずのHuaweiの最新チップ。CPUとGPUの電力効率曲線において、両者の実力差が浮き彫りになっています。
-
-比較を行ったのは、中国の検証系YouTubeチャンネル「极客湾（Geekerwan）」。10月2日公開のHuawei Mate 90シリーズの動画内で、Mate 90 Pro Max搭載のKirin 9050 Proと、Pixel 11 Pro XLが積むTensor G6の電力効率を比較検証しています。
-
-テスト項目はGeekbench 7のマルチコア（CPU）と3DMark Steel Nomad Light（GPU）で、マザーボード側の消費電力とスコアの関係をグラフ化したものです。
-
-グラフでは、いずれのテストでもKirin 9050 Proの曲線がTensor G6をわずかに上回り、ピーク性能でもKirin 9050 Proが高いスコアを記録。一方、低消費電力の領域では両者の曲線がほぼ重なっています。
-
-9月13日公開の別動画で极客湾は、Mate XT 2で測定したKirin 9050 Pr…</p><p><img src="https://smhn.info/wp-content/uploads/2026/10/HTpbSn2XgAAje2V-scaled.jpeg" alt="低性能の誹りを受けるTensor G6(3nm)、なんとKirin 9050 Pro(7nm)にさえ敗北。"></p>]]></description><source url="https://smhn.info/202610-tensor-g6-loses-to-kirin-9050-pro-geekerwan">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/10/HTpbSn2XgAAje2V-scaled.jpeg" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/10/HTpbSn2XgAAje2V-scaled.jpeg"/></item>
-<item><title>ダウンの約97%の暖かさ。植物100%の中綿「NEO DOWN KAPOK」がスゴい</title><link>https://gori.me/lifestyle/171007</link><guid isPermaLink="true">https://gori.me/lifestyle/171007</guid><pubDate>Tue, 06 Oct 2026 09:30:18 +0000</pubDate><description><![CDATA[<p>ダウンの約97%の暖かさ。植物100%の中綿「NEO DOWN KAPOK」がスゴい
-
-ダウンとポリエステルの2択が続いてきた冬の中綿に、植物由来の新素材が登場した。KAPOK JAPANの「NEO DOWN KAPOK® BEYOND」は、保温性がダウンの約97%で、湿気を逃がす力はダウン以上だ。5着限定の試作ジャケットの詳細、2030年に300トンを目指す量産計画、価格の見通しまで発表会で聞いてきた。
-
-ダウンの約97%の暖かさ。植物100%の中綿「NEO DOWN KAPOK」がスゴい
-
-「紙ストロー」と言われたカポックが、同じ重さでふくらみ約3倍のワタになった
-
-KAPOK JAPANが、カポック100%の中綿「NEO DOWN KAPOK® BEYOND」を2026年10月6日に発表した
-
-780FPのダウンと比べて保温性は約97%で、吸放湿性はダウンを上回る
-
-試作ジャケット「NOT A DOWN」は198,000円、世界5着限定で抽選販売。応募は10月16日まで
-
-新素材を開発した会社の発表会で、ここまでワクワクしたのは久しぶりだ。KAPOK JAPANは2026年10月6日、植物のカポックを100%使った中綿「 NEO DOWN KAPOK® BEYOND （ネオダウンカポック ビヨンド）」を発表した。
-
-動物由来のダウンでも、石油由来のポリエステルでもない。KAPOK JAPANはこの素材を「 第3の中綿 」と呼んでいる。会場で試作のジャケットに袖を通した瞬間、僕は思わず「軽っ！」と声を上げていた。
-
-僕はKAPOK JAPANのブランド「KAPOK KNOT（カポックノット）」をInstagramで知った。小さな展示会に足を運んで以来、妻と一緒にここのアウターを着続けている。そんな僕から見ても、今回の発表はカポックの「次の章」が始まったと感じるものだった…</p><p><img src="https://gori.me/uploads/2026/10/KAPOK-KNOT-NEO-DOWN-Kapok-Beyond-26.jpg" alt="ダウンの約97%の暖かさ。植物100%の中綿「NEO DOWN KAPOK」がスゴい"></p>]]></description><source url="https://gori.me/lifestyle/171007">gori.me</source><media:content url="https://gori.me/uploads/2026/10/KAPOK-KNOT-NEO-DOWN-Kapok-Beyond-26.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/10/KAPOK-KNOT-NEO-DOWN-Kapok-Beyond-26.jpg"/></item>
 </channel></rss>
