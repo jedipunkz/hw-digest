@@ -1,6 +1,169 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Fri, 16 Oct 2026 19:57:32 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Fri, 16 Oct 2026 22:50:47 +0000</lastBuildDate>
+<item><title>Sonoff スマート スイッチで DOOM (のようなもの) を実行する</title><link>https://hackaday.com/2026/10/16/running-doom-sort-of-on-a-sonoff-smart-switch/</link><guid isPermaLink="true">https://hackaday.com/2026/10/16/running-doom-sort-of-on-a-sonoff-smart-switch/</guid><pubDate>Fri, 16 Oct 2026 08:00:46 +0000</pubDate><description><![CDATA[<p>Sonoff スマート スイッチで DOOM (のようなもの) を実行する
+
+このコミュニティでは、DOOM はどんなものでも実行できるとよく言われますが、時間が経つにつれて、それはますます正確になってきています。私たちは今、すべての「n…」を達成する段階にいます。
+
+このコミュニティでは、DOOM はどんなものでも実行できるとよく言われますが、時間が経つにつれて、それはますます正確になってきています。現在、すべての「通常の」デバイスに 1993 年の象徴的なシューティングゲームの何らかのバージョンが搭載されているように見える段階に来ています。そのため、今では、より奇妙なターゲットに取り組み始める以外に何も残されていません。
+
+完璧な例として、[piuppi] は最近、Sonoff Basic R2 スマート スイッチで DOOM (または少なくともそれに似たもの) を実行するための取り組みを共有するために手紙を書きました。以下のビデオで見ているゲームは実際には DOOM ではないため、そのようなことを言っています。実際、これは完全なゲームですらない。これは本質的には、ゲームから取得したグラフィック データをレンダリングできる技術デモですが、それは単純化されたマップの範囲内でのみです。それでも、ランプをオン/オフするように設計されたものとしては悪くありません。
+
+GitHub リポジトリには、独自の Sonoff デバイスでリッピング アンド ティアを行う場合に役立つ優れたドキュメントが含まれています。ご想像のとおり、このプロセスは少し複雑で、スクリプトに必要なデータを抽出するための DOOM の独自のコピーを提供する必要があります。セットアップ後は、ローカル ネットワーク上の任意のブラウザからスイッチを押して、一部のインプでの最新のホーム オートメーションの状態に対する不満を解消できます。最も良い点は、ゲームがスイッチにインストールされて実行された後でも、デバイスは依然として実際にスイッチとして動作することです。
+
+でも心配しないでください。万が一、ハッキングして D…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/10/sonoffdoom_feat.png" alt="Sonoff スマート スイッチで DOOM (のようなもの) を実行する"></p>]]></description><source url="https://hackaday.com/2026/10/16/running-doom-sort-of-on-a-sonoff-smart-switch/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/10/sonoffdoom_feat.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/10/sonoffdoom_feat.png"/></item>
+<item><title>電子書籍リーダー企業は Android 16 の採用に遅れている</title><link>https://goodereader.com/blog/electronic-readers/e-reader-companies-are-slow-to-adopt-android-16</link><guid isPermaLink="true">https://goodereader.com/blog/electronic-readers/e-reader-companies-are-slow-to-adopt-android-16</guid><pubDate>Fri, 16 Oct 2026 07:59:19 +0000</pubDate><description><![CDATA[<p>電子書籍リーダー企業は Android 16 の採用に遅れている
+
+Google Android 16 は、電子書籍リーダーや電子ノートブックで徐々に採用され始めている OS の最新バージョンです。 2027 年にはさらに多様なものが見られるでしょうか?
+
+Google Android を実行する電子書籍リーダーはたくさんありますが、最新バージョンの Android を実行する電子書籍リーダーはほとんどありません。 Android 16 は徐々に採用されている最新バージョンで、Viwoods AiPaper、BOOX Palma 3、Note Air6 C、Boox Note Mini C のみがそれを実行します。 Bigme HiBreak Dual 2 / Dual 3 や Hisense A10 シリーズなど、いくつかの E-ink スマートフォンも Android 16 を実行します。
+
+Android 16 は、最新のベース オペレーティング システムを最新の E-Ink デバイスに導入し、アプリの互換性の向上、統合された人工知能、ハードウェア パフォーマンスの向上に重点を置いています。古い、ロックダウンされた、または時代遅れの Android ベースの電子書籍リーダーとは異なり、Android 16 デバイスは最新のサードパーティ アプリとの幅広い互換性を提供し、Kindle、kobo、Google Play ブックス、生産性向上アプリやニュース アプリをシームレスにインストールできます。 Viwoods および BOOX モデルには、ChatGPT、Gemini、DeepSeek などのネイティブまたはバンドルされた AI ツールがシステムに組み込まれているか、ページ上のテキスト要約、翻訳、文書分析のためのサイドキー ショートカットが組み込まれて出荷されます。
+
+2027 年に Android 16 を搭載したさまざまな電子書籍リーダーが登場し、Google Play ストアに完全にアクセスできるようになるかどうかはまだわかりません。 Viwoods、Bi…</p><p><img src="https://media.goodereader.com/blog/uploads/images/2026/10/16035814/viwoods-aipaper-reader_2.webp" alt="電子書籍リーダー企業は Android 16 の採用に遅れている"></p>]]></description><source url="https://goodereader.com/blog/electronic-readers/e-reader-companies-are-slow-to-adopt-android-16">Good e-Reader</source><media:content url="https://media.goodereader.com/blog/uploads/images/2026/10/16035814/viwoods-aipaper-reader_2.webp" medium="image"/><media:thumbnail url="https://media.goodereader.com/blog/uploads/images/2026/10/16035814/viwoods-aipaper-reader_2.webp"/></item>
+<item><title>Early RTX Spark reviews show impressive AI performance while gaming falls a little short</title><link>https://www.tweaktown.com/rss/click/news/114109/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/114109/?c=news-mf</guid><pubDate>Fri, 16 Oct 2026 07:58:13 +0000</pubDate><description><![CDATA[<p>Early RTX Spark reviews show impressive AI performance while gaming falls a little short</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/114109/?c=news-mf">TweakTown</source></item>
+<item><title>ASUS launches ROG XBOX Ally X20 with all-new Nebula HDR OLED display for $1,299</title><link>https://www.tweaktown.com/rss/click/news/114108/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/114108/?c=news-mf</guid><pubDate>Fri, 16 Oct 2026 07:29:15 +0000</pubDate><description><![CDATA[<p>ASUS launches ROG XBOX Ally X20 with all-new Nebula HDR OLED display for $1,299</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/114108/?c=news-mf">TweakTown</source></item>
+<item><title>Your Android phone is moving deeper into Windows 11</title><link>https://www.androidauthority.com/windows-11-phone-integration-messaging-controls-3724205/</link><guid isPermaLink="true">https://www.androidauthority.com/windows-11-phone-integration-messaging-controls-3724205/</guid><pubDate>Fri, 16 Oct 2026 07:06:54 +0000</pubDate><description><![CDATA[<p>Your Android phone is moving deeper into Windows 11</p>]]></description><source url="https://www.androidauthority.com/windows-11-phone-integration-messaging-controls-3724205/">Android Authority</source></item>
+<item><title>Google Wallet may be getting ready for 2 major new features</title><link>https://www.androidauthority.com/google-wallet-agents-auto-add-passes-from-partners-3724191/</link><guid isPermaLink="true">https://www.androidauthority.com/google-wallet-agents-auto-add-passes-from-partners-3724191/</guid><pubDate>Fri, 16 Oct 2026 07:00:14 +0000</pubDate><description><![CDATA[<p>Google Wallet may be getting ready for 2 major new features</p>]]></description><source url="https://www.androidauthority.com/google-wallet-agents-auto-add-passes-from-partners-3724191/">Android Authority</source></item>
+<item><title>Google’s next Gemini trick could change how you use Android XR glasses</title><link>https://www.androidauthority.com/hey-gemini-camera-activation-android-xr-3724200/</link><guid isPermaLink="true">https://www.androidauthority.com/hey-gemini-camera-activation-android-xr-3724200/</guid><pubDate>Fri, 16 Oct 2026 06:54:54 +0000</pubDate><description><![CDATA[<p>Google’s next Gemini trick could change how you use Android XR glasses</p>]]></description><source url="https://www.androidauthority.com/hey-gemini-camera-activation-android-xr-3724200/">Android Authority</source></item>
+<item><title>次世代のハードウェア創設者を育成する</title><link>https://www.raspberrypi.com/news/building-the-next-generation-of-hardware-founders/</link><guid isPermaLink="true">https://www.raspberrypi.com/news/building-the-next-generation-of-hardware-founders/</guid><pubDate>Fri, 16 Oct 2026 06:35:31 +0000</pubDate><description><![CDATA[<p>次世代のハードウェア創設者を育成する
+
+未来を定義するテクノロジー企業となることを期待されている企業を育成する、ユニークな Founders, Inc. のキャンパスを見て回ってください。
+
+さまざまなメーカー イベントを巡る夏のツアーでは、私たちはサンフランシスコに行きました。そこで私たちは、未来を定義する企業となることを期待されている企業を育成するユニークなキャンパスを訪れるよう招待されました。その多くが Rasberry Pi ハードウェアを使用してアイデアを軌道に乗せています。創設者兼 CEO の Furqan Rydhan 氏と COO の Mike Shin 氏に、Founders, Inc. がハードウェア分野で何を行っているのか、そしてなぜ Raspberry Pi が非常に適しているのかを説明してもらいました。
+
+次世代の象徴的な企業は、単独でソフトウェアを製造するわけではありません。 AI、ロボット工学、自律システム、高度な製造、最先端のハードウェアを組み合わせます。 Founders, Inc. の使命はこれを裏付けています。つまり、非常に野心的な技術的な創業者に、初日から構築するために必要なスペース、コミュニティ、および最初のチェックを提供するということです。
+
+サンフランシスコのフォート メイソンにある 42,000 平方フィートのキャンパスは、ロボット操作やドローンから AI インフラストラクチャ、開発者ツール、防衛技術、消費者向けハードウェアに至るまで、あらゆる分野に取り組む創設者たちで賑わっています。 Founders, Inc. は、自分たちを従来のアクセラレーターとは考えていません。その代わりに、創業者たちが互いに学び、プロトタイプを共有し、開発し、世界最高の技術ビルダーと一緒に迅速に反復する場所を構築しました。
+
+Raspberry Pi が Founders, Inc. のキャンパス周辺でよく見かけるようになった理由の 1 つは、Raspberry Pi がアイデアと実用的なプロトタイプの間の障壁を下げることが判明したためです。ロ…</p><p><img src="https://www.raspberrypi.com/app/uploads/2026/10/unnamed-1-1024x690.webp" alt="次世代のハードウェア創設者を育成する"></p>]]></description><source url="https://www.raspberrypi.com/news/building-the-next-generation-of-hardware-founders/">Raspberry Pi News</source><media:content url="https://www.raspberrypi.com/app/uploads/2026/10/unnamed-1-1024x690.webp" medium="image"/><media:thumbnail url="https://www.raspberrypi.com/app/uploads/2026/10/unnamed-1-1024x690.webp"/></item>
+<item><title>Sony just proved that ‘three OS updates’ doesn’t really mean anything</title><link>https://www.androidauthority.com/sony-cancels-android-17-xperia-10-vi-3724103/</link><guid isPermaLink="true">https://www.androidauthority.com/sony-cancels-android-17-xperia-10-vi-3724103/</guid><pubDate>Fri, 16 Oct 2026 05:59:00 +0000</pubDate><description><![CDATA[<p>Sony just proved that ‘three OS updates’ doesn’t really mean anything</p>]]></description><source url="https://www.androidauthority.com/sony-cancels-android-17-xperia-10-vi-3724103/">Android Authority</source></item>
+<item><title>『コール オブ デューティ モダン・ウォーフェア 4』は、新たなサブフランチャイズを伴う「壮大な完結編」となる</title><link>https://www.techpowerup.com/353778/call-of-duty-modern-warfare-4-will-be-an-epic-conclusion-with-a-new-sub-franchise-to-follow</link><guid isPermaLink="true">https://www.techpowerup.com/353778/call-of-duty-modern-warfare-4-will-be-an-epic-conclusion-with-a-new-sub-franchise-to-follow</guid><pubDate>Fri, 16 Oct 2026 04:59:54 +0000</pubDate><description><![CDATA[<p>『コール オブ デューティ モダン・ウォーフェア 4』は、新たなサブフランチャイズを伴う「壮大な完結編」となる
+
+Steam のレビュー評価によると、『コール オブ デューティ ブラックオプス 7』は、2025 年 11 月の発売以来、良く言えば賛否両論あり、悪く言えば視聴者に「ほぼ否定的な」印象を残しました。しかし、Activision は Black Ops 7 のリリースから教訓を得ているようです...
+
+『コール オブ デューティ モダン・ウォーフェア 4』は、新たなサブフランチャイズを伴う「壮大な完結編」となる
+
+2026 年 4 月 13 日 Epic Games ストアの従業員: 無料ゲームのためだけに来て、その後 Steam に戻ってきた人々 (91)
+
+2026 年 7 月 27 日 Palworld 幹部がサポート終了計画についてゲーマーに安心感を与える (10)
+
+2026 年 6 月 30 日 シングルチャネル RAM により Steam マシンが機能不全に陥る (110)
+
+2026 年 4 月 28 日 Denuvo、デイゼロ DRM ハイパーバイザー クラックに対応: 「すでにセキュリティ バージョンの更新に取り組んでいます」 (62)
+
+2026 年 4 月 17 日 Pragmata のローンチ: 輝かしいレビューとチャートトップの売上を誇るが、プレイヤー数は平凡 (62)
+
+2026 年 6 月 17 日 スチーム マシンのパフォーマンス ベンチマークのリーク信号が発売に近づく (41)
+
+2026 年 10 月 11 日 Activision DMCA が Vibe コード化された Call of Duty ブラウザ ポート (25) を削除
+
+2026 年 9 月 26 日 Halo スタジオの次の Halo ゲームは「何年も先」だった (25)
+
+2026 年 10 月 12 日 PS5 脱獄アプリ「Overdrive」が無料ゲームと DLC を提供しているとされる (14)
+
+2026年8月29日 コナミ社長が悪魔城ドラキュラ…</p><p><img src="https://www.techpowerup.com/img/D5cbKFBzuRKSYLmN.jpg" alt="『コール オブ デューティ モダン・ウォーフェア 4』は、新たなサブフランチャイズを伴う「壮大な完結編」となる"></p>]]></description><source url="https://www.techpowerup.com/353778/call-of-duty-modern-warfare-4-will-be-an-epic-conclusion-with-a-new-sub-franchise-to-follow">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/D5cbKFBzuRKSYLmN.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/D5cbKFBzuRKSYLmN.jpg"/></item>
+<item><title>これは OCP 2026 での AMD Helios HPE Juniper QFX5252 スイッチ トレイです</title><link>https://www.servethehome.com/this-is-the-amd-helios-hpe-juniper-qfx5252-switch-tray-at-ocp-2026/</link><guid isPermaLink="true">https://www.servethehome.com/this-is-the-amd-helios-hpe-juniper-qfx5252-switch-tray-at-ocp-2026/</guid><pubDate>Fri, 16 Oct 2026 04:49:49 +0000</pubDate><description><![CDATA[<p>これは OCP 2026 での AMD Helios HPE Juniper QFX5252 スイッチ トレイです
+
+OCP 2026 では、AMD Helios AI ラック スイッチ トレイ、HPE Juniper QFX5252 を目にしました。これはとてもクールに見えます
+
+OCP 2026 では、本当に素晴らしいものを目にしました。 HPE ブースのそばを歩いていると、AMD Helios トレイが展示フロアに設置され、開いているのが見えました。それは私の足を止めたので、人々はそれを見たいと思ったと思いました。
+
+これは OCP 2026 での AMD Helios HPE Juniper QFX5252 スイッチ トレイです
+
+巨大なスイッチを開けると、多くの内部 PCB が目に入ることがよくあります。これは、横に並んだスイッチと大量の銅を備えた倍幅のトレイであるため、まったく異なります。
+
+フロントラッチに巨大な HPE QFX5252 ラベルが表示されています。背面には非常に多くの接続があり、バック パネルが長くブラインド メイトする必要があるため、このようなスイッチ トレイを Helios ラックに挿入するために必要な挿入力はかなり大きくなります。その結果、これらのレバーは非常に長くなります。
+
+これは 1OU トレイに 2 つの大きなスイッチ チップがあるため、水冷する必要があります。内部の液体冷却マニホールドが液体をさまざまなブロックに分配しているのがわかります。
+
+内部には 2 つのスイッチ チップがあり、Broadcom Tomahawk 6 102.6T スイッチです。最初は、なぜこれらが Broadcom Tomahawk Ultra チップではないのか疑問に思うかもしれません。スケールアップ アーキテクチャにはそれが理にかなっているかもしれません。現行世代の Tomahawk Ultra は 112G PAM4 SerDes スイッチ (つまり、PAM4-112G の 512 レーン) です。これは、224G PAM4 SerDes を使…</p><p><img src="https://www.servethehome.com/wp-content/uploads/2026/10/AMD-Helios-HPE-Juniper-QFX5252-OCP-2026-2.jpg" alt="これは OCP 2026 での AMD Helios HPE Juniper QFX5252 スイッチ トレイです"></p>]]></description><source url="https://www.servethehome.com/this-is-the-amd-helios-hpe-juniper-qfx5252-switch-tray-at-ocp-2026/">ServeTheHome</source><media:content url="https://www.servethehome.com/wp-content/uploads/2026/10/AMD-Helios-HPE-Juniper-QFX5252-OCP-2026-2.jpg" medium="image"/><media:thumbnail url="https://www.servethehome.com/wp-content/uploads/2026/10/AMD-Helios-HPE-Juniper-QFX5252-OCP-2026-2.jpg"/></item>
+<item><title>Razer、ピクセルアートポケモンとのコラボレーション周辺機器を中国で発売</title><link>https://www.techpowerup.com/353777/razer-launches-pixel-art-pokemon-collaboration-peripherals-in-china</link><guid isPermaLink="true">https://www.techpowerup.com/353777/razer-launches-pixel-art-pokemon-collaboration-peripherals-in-china</guid><pubDate>Fri, 16 Oct 2026 04:18:16 +0000</pubDate><description><![CDATA[<p>Razer、ピクセルアートポケモンとのコラボレーション周辺機器を中国で発売
+
+Razer はポケモンをテーマにしたゲーム周辺機器に精通しており、最近ではピカチュウとイーブイのコレクションをリリースし、続いてリザードン、ルカリオ、シルベオン エディションの BlackShark V3 HyperSpeed ヘッドセットをリリースしました。その最新のコラボレーションであるピクセルアートポケモンコレクションは、どうやら...
+
+Razer、ピクセルアートポケモンとのコラボレーション周辺機器を中国で発売
+
+Weibo のポケモン (機械翻訳) ピクセル アートが戻ってきて、冒険が始まります!ポケモン | Razer Pokémon 30th Anniversary Special Edition ピクセル アート テーマ コラボレーション周辺機器のコンプリート セットが近日発売されます。生き生きとした愛らしいポケモンのピクセルアートと、これらの周辺機器の洗練されたミニマルなデザインが組み合わされて、毎日の見た目に楽しさと個性を加えます。デスクトップからポケモンと一緒に旅を始めましょう！ 10月15日より予約受付開始！自分だけの「ポケモンコレクション」を集めて、自分だけのデスクトップを作りましょう！
+
+2026 年 10 月 13 日 リーカーヒント 限定版カーボンファイバー Razer Viper および DeathAdder V4 Pro ゲーミング マウス (0)
+
+2026年8月29日 コナミ社長が悪魔城ドラキュラのリブートを確認 (13)
+
+2026 年 8 月 26 日 Xbox Disc-to-Digital の発売でオールデジタル Helix コンソールが確認 (10)
+
+2026 年 10 月 13 日 Razer が 3 つの新しいゲーミング ヘッドセットでポケモン コレクションを拡張 (0)
+
+2026 年 9 月 11 日 Cooler Master GPU Shield アダプターが米国で正式に発売 (75)
+
+2026 年 8 月 22 日 RAWM …</p><p><img src="https://www.techpowerup.com/img/IHTruoepNNoFmFU4.jpg" alt="Razer、ピクセルアートポケモンとのコラボレーション周辺機器を中国で発売"></p>]]></description><source url="https://www.techpowerup.com/353777/razer-launches-pixel-art-pokemon-collaboration-peripherals-in-china">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/IHTruoepNNoFmFU4.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/IHTruoepNNoFmFU4.jpg"/></item>
+<item><title>Mac 用 Lofree Flow 2 84 キーボード レビュー: サーファー スイッチを備えたアルミニウム シャーシの薄型メカニカル キーボード</title><link>https://www.igorslab.de/en/lofree-flow-2-84-review-low-profile-mechanical-keyboard-aluminum-case-cloud-switches/</link><guid isPermaLink="true">https://www.igorslab.de/en/lofree-flow-2-84-review-low-profile-mechanical-keyboard-aluminum-case-cloud-switches/</guid><pubDate>Fri, 16 Oct 2026 03:30:24 +0000</pubDate><description><![CDATA[<p>Mac 用 Lofree Flow 2 84 キーボード レビュー: サーファー スイッチを備えたアルミニウム シャーシの薄型メカニカル キーボード
+
+私たちのレビューでは、Lofree Flow 2 84 は、そのプレミアムなビルド品質、快適なタイピング体験、優れたサウンドに感銘を受けています。
+
+Lofree Flow 2 84 for Mac は、コンパクトなレイアウトにメカニカル薄型スイッチとアルミニウムケースを組み合わせています。レビューの中で、筆者は特にタイピングの感触、音、作りの良さに感銘を受けました。著者自身の測定によると、エンドツーエンドの平均遅延は USB-C 経由で 14.3 ミリ秒、2.4 GHz レシーバー経由で 19.2 ミリ秒であることが示されています。これらの値は、キーボードの入力遅延だけでなく、測定パス全体を表します。
+
+テストしたモデルは、英語 ANSI QWERTY レイアウトとリニア Surfer スイッチを備えたスカイ ブルー バージョンです。
+
+接続オプションには、Bluetooth 5.3、2.4 GHz ワイヤレス、USB-C が含まれます。
+
+キー マッピングとマクロは VIA 経由でカスタマイズできます。スイッチははんだ付けせずに交換できますが、互換性のある Cloud シリーズ モデルに限ります。
+
+この記事ではメーカー価格が 159 ドルと記載されています。
+
+次のレイテンシの値は、NVIDIA LDAT 2.26 を使用した著者自身の測定によるものです。エンドツーエンドの数値には、キーボードだけでなく、光学式スクリーン出力やその他のシステム コンポーネントも含まれます。
+
+ブラウザベースの igorsLAB キーボード テストでは、キーボードは 97.9 ポイントの総合スコアを達成しました。キー カバレッジとロールオーバーはそれぞれ 100% と評価されました。同時に認識されるキーの最大数は 6KRO でした。コードスプレッドは 52.2 ミリ秒でした。この値は、キーの組み合わせを検出するときのタイミング分布を表…</p><p><img src="https://www.igorslab.de/wp-content/uploads/2026/10/Screenshot-2026-10-10-114419.jpg" alt="Mac 用 Lofree Flow 2 84 キーボード レビュー: サーファー スイッチを備えたアルミニウム シャーシの薄型メカニカル キーボード"></p>]]></description><source url="https://www.igorslab.de/en/lofree-flow-2-84-review-low-profile-mechanical-keyboard-aluminum-case-cloud-switches/">igor&#39;sLAB</source><media:content url="https://www.igorslab.de/wp-content/uploads/2026/10/Screenshot-2026-10-10-114419.jpg" medium="image"/><media:thumbnail url="https://www.igorslab.de/wp-content/uploads/2026/10/Screenshot-2026-10-10-114419.jpg"/></item>
+<item><title>中国で中止された「アサシン クリード デスティニー」ゲームのスクリーンショットが明らかに</title><link>https://www.techpowerup.com/353774/screenshots-reveal-cancelled-assassins-creed-destiny-game-set-in-china</link><guid isPermaLink="true">https://www.techpowerup.com/353774/screenshots-reveal-cancelled-assassins-creed-destiny-game-set-in-china</guid><pubDate>Fri, 16 Oct 2026 03:23:28 +0000</pubDate><description><![CDATA[<p>中国で中止された「アサシン クリード デスティニー」ゲームのスクリーンショットが明らかに
+
+ユービーアイソフトが最近の組織再編で取りやめた無数のプロジェクトの1つで、その結果数百人が解雇され、他のゲームの範囲が縮小されたが、どうやら『アサシン クリード デスティニー』と呼ばれる『アサシン クリード』プロジェクトだったらしく、このシリーズは紀元前205年に中国を訪問するはずだった...
+
+中国で中止された「アサシン クリード デスティニー」ゲームのスクリーンショットが明らかに
+
+2026 年 3 月 6 日 PlayStation 6 のリークヒント 4K 120 FPS は「ほとんどのゲームで」PS5 の 6 ～ 12 倍の RT パフォーマンスを実現 (116)
+
+2026 年 7 月 27 日 Palworld 幹部がサポート終了計画についてゲーマーに安心感を与える (10)
+
+2026 年 9 月 7 日 予想されるコンソール不足に対応して、ロックスターは PC 版「GTA 6」の発売を延期する可能性がある (27)
+
+2026 年 4 月 17 日 Pragmata のローンチ: 輝かしいレビューとチャートトップの売上を誇るが、プレイヤー数は平凡 (62)
+
+2026 年 8 月 19 日 No Man&#39;s Sky と Palworld ティーズコラボレーション (1)
+
+2026 年 7 月 15 日 Assassin&#39;s Creed Hexe リーク: 価格、発売日、DLC の詳細が明らかに (5)
+
+2026 年 4 月 27 日 ブラック フラッグに続くアサシン クリード 1 リメイクが再同期 (20)
+
+2026 年 5 月 18 日 アサシン クリード ヘクス、2027 年発売を目標に (6)
+
+2025 年 12 月 17 日 Half-Life 3 は 2026 年初頭に Steam Machine と並行して発売される可能性があります (78)
+
+2026 年 7 月 9 日『アサシン クリード ブラック フラッグ』が再同期して発売、賛否両論：…</p><p><img src="https://www.techpowerup.com/img/7h8eoJjU227mlHjP.jpg" alt="中国で中止された「アサシン クリード デスティニー」ゲームのスクリーンショットが明らかに"></p>]]></description><source url="https://www.techpowerup.com/353774/screenshots-reveal-cancelled-assassins-creed-destiny-game-set-in-china">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/7h8eoJjU227mlHjP.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/7h8eoJjU227mlHjP.jpg"/></item>
+<item><title>クアルコム、Armのライセンス違反を法的に証明、2ドル獲得</title><link>https://www.techpowerup.com/353776/qualcomm-legally-proves-arm-breached-its-license-wins-usd-2</link><guid isPermaLink="true">https://www.techpowerup.com/353776/qualcomm-legally-proves-arm-breached-its-license-wins-usd-2</guid><pubDate>Fri, 16 Oct 2026 00:34:03 +0000</pubDate><description><![CDATA[<p>クアルコム、Armのライセンス違反を法的に証明、2ドル獲得
+
+デラウェア州の陪審は、Armがクアルコムとのアーキテクチャライセンス契約（ALA）に違反したと認定したが、その裁定は極めて小規模なものだ。ロイターの報道によると、クアルコムは、勝訴した2つの請求に対してそれぞれ1ドルずつ、計2ドルの名目損害賠償しか受け取っていないという。陪審は、Arm がソフトウェア パッチを差し控えることに同意しました...
+
+クアルコム、Armのライセンス違反を法的に証明、2ドル獲得
+
+2026年9月7日 インテル、10月にCPU価格をさらに10%値上げ予定 (47)
+
+2026 年 9 月 26 日 裁判所、Switch 著作権侵害に関して Reddit モデレーターに任天堂に 450 万ドルの支払いを命じる (81)
+
+2026 年 9 月 1 日 ソニー、デジタル ゲームの所有権は妥当ではないと法的に主張 (151)
+
+2026 年 10 月 6 日 クアルコム、ファーウェイの LogicFolding、5G、およびその他のテクノロジーのライセンスを取得 (0)
+
+2026 年 9 月 3 日 AMD Ryzen 7 7800X3D が再び膨らみ、燃えます、今回は ASUS Crosshair X670E Hero (160)
+
+2026 年 9 月 24 日 クアルコム、Snapdragon X2 のサポートを Linux (10) に拡張
+
+2026 年 9 月 27 日 ソニーが PlayStation コントローラー用のタップツーペイ技術を特許取得 (19)
+
+2026 年 9 月 2 日 AMD RDNA 5 GPU IP が 2 nm ノードの Samsung SoC 内に搭載される可能性 (10)
+
+2026 年 9 月 3 日 モッダーはオリジナルの Nintendo Switch で GTA 5 をネイティブに実行できるようにします (9)
+
+2026 年 9 月 22 日 クアルコム、Snapdragon 8 Elite Extreme Gen 6 および Sn…</p><p><img src="https://www.techpowerup.com/img/0G4Xv7uEHd02ZOlt.jpg" alt="クアルコム、Armのライセンス違反を法的に証明、2ドル獲得"></p>]]></description><source url="https://www.techpowerup.com/353776/qualcomm-legally-proves-arm-breached-its-license-wins-usd-2">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/0G4Xv7uEHd02ZOlt.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/0G4Xv7uEHd02ZOlt.jpg"/></item>
 <item><title>A stunning OLED screen - Asus ROG Xbox Ally X20 Gaming Handheld Review</title><link>https://www.notebookcheck.net/A-stunning-OLED-screen-Asus-ROG-Xbox-Ally-X20-Gaming-Handheld-Review.1425337.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/A-stunning-OLED-screen-Asus-ROG-Xbox-Ally-X20-Gaming-Handheld-Review.1425337.0.html</guid><pubDate>Fri, 16 Oct 2026 00:17:00 +0000</pubDate><description><![CDATA[<p>A stunning OLED screen - Asus ROG Xbox Ally X20 Gaming Handheld Review</p>]]></description><source url="https://www.notebookcheck.net/A-stunning-OLED-screen-Asus-ROG-Xbox-Ally-X20-Gaming-Handheld-Review.1425337.0.html">Notebookcheck</source></item>
 <item><title>GTA 6 Qualifies for The Game Awards 2026 by a Single Day</title><link>https://www.techpowerup.com/353775/gta-6-qualifies-for-the-game-awards-2026-by-a-single-day</link><guid isPermaLink="true">https://www.techpowerup.com/353775/gta-6-qualifies-for-the-game-awards-2026-by-a-single-day</guid><pubDate>Fri, 16 Oct 2026 00:02:17 +0000</pubDate><description><![CDATA[<p>GTA 6 Qualifies for The Game Awards 2026 by a Single Day</p>]]></description><source url="https://www.techpowerup.com/353775/gta-6-qualifies-for-the-game-awards-2026-by-a-single-day">TechPowerUp</source></item>
 <item><title>E INK Kaleido 4 について知っておくべきことすべて</title><link>https://goodereader.com/blog/electronic-readers/everything-you-need-to-know-about-e-ink-kaleido-4</link><guid isPermaLink="true">https://goodereader.com/blog/electronic-readers/everything-you-need-to-know-about-e-ink-kaleido-4</guid><pubDate>Thu, 15 Oct 2026 23:57:17 +0000</pubDate><description><![CDATA[<p>E INK Kaleido 4 について知っておくべきことすべて
@@ -3012,6 +3175,7 @@ Ukrainian drones strike largest data center in Russia, multiple parts of 1.4 mil
 
 1 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter Hot on the heels of a Ukrainian drone strike on a Russian Yandex data center in Sasovo that caused a major outage, a Yandex facility in Kaluga has been struck in a similar fashion. The huge data center was so badly damaged that Russian state media admitted that multipl…</p><p><img src="https://cdn.mos.cms.futurecdn.net/W4bNjvtdxZJqKsG4ybdwT7-1920-80.jpg" alt="Ukrainian drones strike largest data center in Russia, multiple parts of 1.4 million square foot campus knocked offline"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/data-centers/second-russian-data-center-targeted-by-ukrainian-drones-in-just-two-days-as-yandex-reels-from-another-service-outage-russian-state-media-admits-that-multiple-modules-completely-taken-out">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/W4bNjvtdxZJqKsG4ybdwT7-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/W4bNjvtdxZJqKsG4ybdwT7-1920-80.jpg"/></item>
 <item><title>Siri AI beats Gemini at the thing that matters most</title><link>https://www.androidauthority.com/siri-ai-better-than-gemini-3717976/</link><guid isPermaLink="true">https://www.androidauthority.com/siri-ai-better-than-gemini-3717976/</guid><pubDate>Sat, 10 Oct 2026 10:00:09 +0000</pubDate><description><![CDATA[<p>Siri AI beats Gemini at the thing that matters most</p>]]></description><source url="https://www.androidauthority.com/siri-ai-better-than-gemini-3717976/">Android Authority</source></item>
+<item><title>Acemate S10 tennis robot hands-on: Fun tennis drills and rallies with all-court mobility</title><link>https://www.notebookcheck.net/Acemate-S10-tennis-robot-hands-on-Fun-tennis-drills-and-rallies-with-all-court-mobility.1400243.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/Acemate-S10-tennis-robot-hands-on-Fun-tennis-drills-and-rallies-with-all-court-mobility.1400243.0.html</guid><pubDate>Sat, 10 Oct 2026 10:00:00 +0000</pubDate><description><![CDATA[<p>Acemate S10 tennis robot hands-on: Fun tennis drills and rallies with all-court mobility</p>]]></description><source url="https://www.notebookcheck.net/Acemate-S10-tennis-robot-hands-on-Fun-tennis-drills-and-rallies-with-all-court-mobility.1400243.0.html">Notebookcheck</source></item>
 <item><title>World’s first 3D-printed remote control aircraft with a jet turbine takes flight, aims for Mach 0.8 to beat world record for fastest model aircraft</title><link>https://www.tomshardware.com/3d-printing/worlds-first-3d-printed-remote-control-aircraft-with-a-jet-turbine-takes-flight-aims-for-mach-0-8-to-beat-world-record-for-fastest-model-aircraft-mostly-printed-using-standard-petg-materials</link><guid isPermaLink="true">https://www.tomshardware.com/3d-printing/worlds-first-3d-printed-remote-control-aircraft-with-a-jet-turbine-takes-flight-aims-for-mach-0-8-to-beat-world-record-for-fastest-model-aircraft-mostly-printed-using-standard-petg-materials</guid><pubDate>Sat, 10 Oct 2026 10:00:00 +0000</pubDate><description><![CDATA[<p>World’s first 3D-printed remote control aircraft with a jet turbine takes flight, aims for Mach 0.8 to beat world record for fastest model aircraft
 
 PETG keeps proving its worth with this extreme project.
@@ -3023,7 +3187,6 @@ PETG keeps proving its worth with this extreme project.
 (Image credit: The Mach Initiative / YouTube) Copy link
 
 0 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter The Kingchaser, a 3D-printed jet-powered remote-controlled aircraft made out of PETG , PPS-CF, carbon-fiber rods, and aluminum, aims to take the world speed record after it…</p><p><img src="https://cdn.mos.cms.futurecdn.net/XUZw7v4CN5TtbSu6u8baNH-1445-80.png" alt="World’s first 3D-printed remote control aircraft with a jet turbine takes flight, aims for Mach 0.8 to beat world record for fastest model aircraft"></p>]]></description><source url="https://www.tomshardware.com/3d-printing/worlds-first-3d-printed-remote-control-aircraft-with-a-jet-turbine-takes-flight-aims-for-mach-0-8-to-beat-world-record-for-fastest-model-aircraft-mostly-printed-using-standard-petg-materials">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/XUZw7v4CN5TtbSu6u8baNH-1445-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/XUZw7v4CN5TtbSu6u8baNH-1445-80.png"/></item>
-<item><title>Acemate S10 tennis robot hands-on: Fun tennis drills and rallies with all-court mobility</title><link>https://www.notebookcheck.net/Acemate-S10-tennis-robot-hands-on-Fun-tennis-drills-and-rallies-with-all-court-mobility.1400243.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/Acemate-S10-tennis-robot-hands-on-Fun-tennis-drills-and-rallies-with-all-court-mobility.1400243.0.html</guid><pubDate>Sat, 10 Oct 2026 10:00:00 +0000</pubDate><description><![CDATA[<p>Acemate S10 tennis robot hands-on: Fun tennis drills and rallies with all-court mobility</p>]]></description><source url="https://www.notebookcheck.net/Acemate-S10-tennis-robot-hands-on-Fun-tennis-drills-and-rallies-with-all-court-mobility.1400243.0.html">Notebookcheck</source></item>
 <item><title>Anbernic&#39;s new RG DDS is a dual-screen handheld with pixel-perfect Nintendo 3DS upscaling</title><link>https://www.tweaktown.com/rss/click/news/114011/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/114011/?c=news-mf</guid><pubDate>Sat, 10 Oct 2026 09:36:13 +0000</pubDate><description><![CDATA[<p>Anbernic&#39;s new RG DDS is a dual-screen handheld with pixel-perfect Nintendo 3DS upscaling</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/114011/?c=news-mf">TweakTown</source></item>
 <item><title>I spent the weekend switching 2FA services, and I wouldn’t wish it on my worst enemy</title><link>https://www.androidauthority.com/switching-2fa-service-authy-vs-ente-3719540/</link><guid isPermaLink="true">https://www.androidauthority.com/switching-2fa-service-authy-vs-ente-3719540/</guid><pubDate>Sat, 10 Oct 2026 09:30:58 +0000</pubDate><description><![CDATA[<p>I spent the weekend switching 2FA services, and I wouldn’t wish it on my worst enemy</p>]]></description><source url="https://www.androidauthority.com/switching-2fa-service-authy-vs-ente-3719540/">Android Authority</source></item>
 <item><title>Zero-stress travel: The app stack that keeps my trips frictionless</title><link>https://www.androidauthority.com/travel-apps-i-recommend-3716879/</link><guid isPermaLink="true">https://www.androidauthority.com/travel-apps-i-recommend-3716879/</guid><pubDate>Sat, 10 Oct 2026 09:00:33 +0000</pubDate><description><![CDATA[<p>Zero-stress travel: The app stack that keeps my trips frictionless</p>]]></description><source url="https://www.androidauthority.com/travel-apps-i-recommend-3716879/">Android Authority</source></item>
@@ -3691,136 +3854,4 @@ Amazon は、強力なハードウェア、Alexa+ インテリジェンス、お
 Amazon アプリストアに限定されたカスタムのフォーク バージョンの Android (Fire OS) を使用していた古い Fire タブレットとは異なり、これらの新しいモデルは、標準の Google サービスとアプリを備えたフル バージョンの Android を実行します。
 
 Amazon Alexa Tablet 12 Pro は、当社がこれまでに開発した中で最も先進的なタブレットです。一枚のアルミニウムからプレス加工され、厚さはわずか 6.5 mm、超軽量で、完璧なバランスを実現するように設計されています。 12 インチ、280 PPI ディスプレイ…</p><p><img src="https://media.goodereader.com/blog/uploads/images/2026/10/08200404/amazonalexatablet-hero-amazonnews-ck10726.gif" alt="Amazon、新型Alexaタブレットを発売"></p>]]></description><source url="https://goodereader.com/blog/tablet-slates/amazon-releases-new-alexa-tablets">Good e-Reader</source><media:content url="https://media.goodereader.com/blog/uploads/images/2026/10/08200404/amazonalexatablet-hero-amazonnews-ck10726.gif" medium="image"/><media:thumbnail url="https://media.goodereader.com/blog/uploads/images/2026/10/08200404/amazonalexatablet-hero-amazonnews-ck10726.gif"/></item>
-<item><title>Amazon 秋のプライムデー セール: KAMRUI Mini PC が $360.99 から、最大 35% 割引</title><link>https://www.techpowerup.com/353332/amazon-fall-prime-day-deal-kamrui-mini-pcs-from-usd-360-99-save-up-to-35</link><guid isPermaLink="true">https://www.techpowerup.com/353332/amazon-fall-prime-day-deal-kamrui-mini-pcs-from-usd-360-99-save-up-to-35</guid><pubDate>Thu, 08 Oct 2026 23:35:08 +0000</pubDate><description><![CDATA[<p>Amazon 秋のプライムデー セール: KAMRUI Mini PC が $360.99 から、最大 35% 割引
-
-Amazon 秋のプライムデーが到来し、KAMRUI は、クーポンを適用すると最大 35% 割引となる本格的なミニ PC セールを提供します。 14 コア Intel HX チップを搭載した Hyper H2、1 TB のストレージを搭載した E3B、Intel AI Boost NPU を搭載した Pinova P2 の 3 つのモデルが販売されています。
-
-2026 年 10 月 8 日木曜日 Amazon 秋のプライムデー セール: KAMRUI Mini PC が $360.99 から、最大 35% 割引
-
-Intel Arc および iGPU 101.9034 ベータ版
-
-13:44 by フォアワゴン 何してるの？ ( 26048 )
-
-13:40 by フォアワゴン i3-2120はまだ有能です。 ( 82 )
-
-13:16 by _roman_ ランダム再起動 ( 34 )
-
-12:56 by Dragam1337 OLED と IPS ブラックの比較 ( 98 )
-
-12:42 by nomdeplume コンピューターに問題があります。 ( 9 )
-
-12:00 by jspinks231 新しい使用済みビルド ( 22 )
-
-11:34 by Tesselator TMOG - ここにベンチマーク結果を投稿してください ( 13 )
-
-11:32 by _roman_ 無料ゲーム スレッド ( 5348 )
-
-11:30 by SmoookinJoe TPU の WCG/BOINC チーム ( 34802 )
-
-11:20 by ガソリン ssd pci e 3 vs 4 vs 5 1440p fps 比較 ( 4 )
-
-2026 年 10 月 8 日 Thermaltake Dockpower FI 1000W レビュー
-
-2026 年 10 月 1 日 Gears of War: E-Day パフォーマンス ベンチマーク レビ…</p><p><img src="https://www.techpowerup.com/img/NNQ3wrBetsLe4fdQ.jpg" alt="Amazon 秋のプライムデー セール: KAMRUI Mini PC が $360.99 から、最大 35% 割引"></p>]]></description><source url="https://www.techpowerup.com/353332/amazon-fall-prime-day-deal-kamrui-mini-pcs-from-usd-360-99-save-up-to-35">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/NNQ3wrBetsLe4fdQ.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/NNQ3wrBetsLe4fdQ.jpg"/></item>
-<item><title>AppleのタッチスクリーンMacBook Proと新型OLED iPad Miniが10月下旬に発売</title><link>https://www.techpowerup.com/353532/apples-touchscreen-macbook-pro-and-new-oled-ipad-mini-launching-in-late-october</link><guid isPermaLink="true">https://www.techpowerup.com/353532/apples-touchscreen-macbook-pro-and-new-oled-ipad-mini-launching-in-late-october</guid><pubDate>Thu, 08 Oct 2026 22:48:25 +0000</pubDate><description><![CDATA[<p>AppleのタッチスクリーンMacBook Proと新型OLED iPad Miniが10月下旬に発売
-
-以前、Apple がタッチスクリーン OLED パネルを搭載した新しい MacBook Pro を発売する計画であるとの噂があり、表向きは現行世代の MacBook Pro を上回る上位モデルとして発売されました。さて、ブルームバーグの報道によると、タッチスクリーンのMacBook Proも同時に発売されるという。
-
-AppleのタッチスクリーンMacBook Proと新型OLED iPad Miniが10月下旬に発売
-
-2026 年 8 月 28 日 Piston V タッチスクリーン Bazzite Mini PC がキックスターターでメーカー希望小売価格 799 ドルで発売 (7)
-
-2026 年 7 月 13 日 Apple M7 Ultra チップは最大 1.5 TB のユニファイド メモリを搭載予定 (9)
-
-2026 年 9 月 29 日 Apple CEO のジョン・ターナス氏は、より迅速な製品発売とよりスリムな企業を計画していると伝えられている (12)
-
-2026 年 6 月 26 日 Apple、M6 Pro と M6 Max をスキップし、M7 シリーズに移行 (13)
-
-2026 年 8 月 31 日 MacBook Neo が驚くべき速度で SSD サイクルを使い切る (55)
-
-2026 年 4 月 21 日 時代の終わり: macOS 27 は Intel ベースの Mac のサポートを終了 (52)
-
-2026 年 4 月 9 日 Apple MacBook が macOS の「時限爆弾」バグにより 49.7 日後にネットワーク接続を失う (28)
-
-2026年3月8日 Apple、OLEDタッチスクリーンとダイナミックアイランドを搭載した新しいMacBook Ultraを準備 (16)
-
-2026 年 7 月 28 日 Apple Upgrade が米国でデビュー (37)
-
-2026 年 7 月 22 日 Apple、Mac の…</p><p><img src="https://www.techpowerup.com/img/BqMSLZ5COb30xpP9.jpg" alt="AppleのタッチスクリーンMacBook Proと新型OLED iPad Miniが10月下旬に発売"></p>]]></description><source url="https://www.techpowerup.com/353532/apples-touchscreen-macbook-pro-and-new-oled-ipad-mini-launching-in-late-october">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/BqMSLZ5COb30xpP9.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/BqMSLZ5COb30xpP9.jpg"/></item>
-<item><title>A live-action Cyberpunk 2077 movie is officially in development at Paramount</title><link>https://www.tweaktown.com/rss/click/news/113994/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113994/?c=news-mf</guid><pubDate>Thu, 08 Oct 2026 22:40:02 +0000</pubDate><description><![CDATA[<p>A live-action Cyberpunk 2077 movie is officially in development at Paramount</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113994/?c=news-mf">TweakTown</source></item>
-<item><title>P.T. now runs natively on PC thanks to a fan port</title><link>https://www.tweaktown.com/rss/click/news/113984/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113984/?c=news-mf</guid><pubDate>Thu, 08 Oct 2026 22:25:10 +0000</pubDate><description><![CDATA[<p>P.T. now runs natively on PC thanks to a fan port</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113984/?c=news-mf">TweakTown</source></item>
-<item><title>Atari&#39;s 800XL 8-bit computer from 1983 makes a comeback, up for pre-order for $219</title><link>https://www.tweaktown.com/rss/click/news/113992/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113992/?c=news-mf</guid><pubDate>Thu, 08 Oct 2026 22:05:08 +0000</pubDate><description><![CDATA[<p>Atari&#39;s 800XL 8-bit computer from 1983 makes a comeback, up for pre-order for $219</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113992/?c=news-mf">TweakTown</source></item>
-<item><title>You can now play Skate 3, Black Ops, and 20+ classic games in your web browser</title><link>https://www.tweaktown.com/rss/click/news/113993/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113993/?c=news-mf</guid><pubDate>Thu, 08 Oct 2026 21:34:11 +0000</pubDate><description><![CDATA[<p>You can now play Skate 3, Black Ops, and 20+ classic games in your web browser</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113993/?c=news-mf">TweakTown</source></item>
-<item><title>Samsung’s first over-ear headphones in more than a decade might finally have a name</title><link>https://www.androidauthority.com/samsung-galaxy-studio-over-ear-headphones-name-leak-3721023/</link><guid isPermaLink="true">https://www.androidauthority.com/samsung-galaxy-studio-over-ear-headphones-name-leak-3721023/</guid><pubDate>Thu, 08 Oct 2026 21:28:37 +0000</pubDate><description><![CDATA[<p>Samsung’s first over-ear headphones in more than a decade might finally have a name</p>]]></description><source url="https://www.androidauthority.com/samsung-galaxy-studio-over-ear-headphones-name-leak-3721023/">Android Authority</source></item>
-<item><title>『ウィッチャー3 ワイルドハント リマスター』はプレイヤーのフィードバックを受けて大幅な改善を実施</title><link>https://www.techpowerup.com/353529/the-witcher-3-wild-hunt-remastered-gets-substantial-improvements-following-player-feedback</link><guid isPermaLink="true">https://www.techpowerup.com/353529/the-witcher-3-wild-hunt-remastered-gets-substantial-improvements-following-player-feedback</guid><pubDate>Thu, 08 Oct 2026 21:19:07 +0000</pubDate><description><![CDATA[<p>『ウィッチャー3 ワイルドハント リマスター』はプレイヤーのフィードバックを受けて大幅な改善を実施
-
-ウィッチャー 3: ワイルドハント リマスター版は 9 月 29 日に発売され、伝説的な RPG のゲームプレイとグラフィックスに多くの改善が加えられ、同時プレイヤー数がこれまでで最高に達しました。しかし、リマスターの全体的な出来栄えは広く賞賛されているにもかかわらず、...
-
-『ウィッチャー3 ワイルドハント リマスター』はプレイヤーのフィードバックを受けて大幅な改善を実施
-
-道の一歩一歩がウィッチャーにとって成長の機会となる。 「The Witcher 3: Wild Hunt — Remastered with Patch 5.01」がどのように改善されたかをご覧ください。PC (Steam、GOG、Epic Games Store、Battle.net、Xbox Play Anywhere)、PlayStation 5、Xbox Series X|S で発売中: ゲームプレイ 「ブレード オイルを自動的に適用する」機能が、現在のゲーム セッション中に有効になっている場合にのみ機能する問題を修正しました。
-
-特定の状況下で、プレイヤーが制御するボートが制御不能に動き始め、地形の衝突を無視する可能性がある問題を修正しました。
-
-ラダーのインタラクションアニメーションが改善されました。
-
-アードのフィニッシャーの後にゲラルトが死んだ敵と衝突する問題を修正しました。
-
-クエンを複数回キャストした場合にヴェセミルが同じセリフを繰り返し言ってしまう問題を修正しました。
-
-回避の反応が意図せず遅延する可能性がある問題を修正しました。
-
-オプションが無効になっている場合でも爆弾を投げることができる問題を修正しました。
-
-Synergyスキルによって付与されるボーナスが誤った値を表示する問題を修正しました。
-
-Exploding Shieldスキルにダメージ反射を追加しました。
-
-スプリントと回避を同時に行うと、Geralt のスタミナが完全に消耗してしまう問題を修正しました。
-…</p><p><img src="https://www.techpowerup.com/img/FmQPlu9G8zhKokDb.jpg" alt="『ウィッチャー3 ワイルドハント リマスター』はプレイヤーのフィードバックを受けて大幅な改善を実施"></p>]]></description><source url="https://www.techpowerup.com/353529/the-witcher-3-wild-hunt-remastered-gets-substantial-improvements-following-player-feedback">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/FmQPlu9G8zhKokDb.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/FmQPlu9G8zhKokDb.jpg"/></item>
-<item><title>Apple could swiftly follow its smart home event with new iPads and MacBooks</title><link>https://www.androidauthority.com/apple-october-ipad-macbook-3721018/</link><guid isPermaLink="true">https://www.androidauthority.com/apple-october-ipad-macbook-3721018/</guid><pubDate>Thu, 08 Oct 2026 21:16:50 +0000</pubDate><description><![CDATA[<p>Apple could swiftly follow its smart home event with new iPads and MacBooks</p>]]></description><source url="https://www.androidauthority.com/apple-october-ipad-macbook-3721018/">Android Authority</source></item>
-<item><title>Survey suggests a small Android Auto design change is proving surprisingly divisive</title><link>https://www.androidauthority.com/android-auto-wavy-progress-bar-poll-results-3720992/</link><guid isPermaLink="true">https://www.androidauthority.com/android-auto-wavy-progress-bar-poll-results-3720992/</guid><pubDate>Thu, 08 Oct 2026 20:54:22 +0000</pubDate><description><![CDATA[<p>Survey suggests a small Android Auto design change is proving surprisingly divisive</p>]]></description><source url="https://www.androidauthority.com/android-auto-wavy-progress-bar-poll-results-3720992/">Android Authority</source></item>
-<item><title>ゲームハードウェア支出は2026年に11%減少するが、ゲーム支出はより健全であるため、Nintendo Switch 2が売上を独占</title><link>https://www.techpowerup.com/353517/nintendo-switch-2-dominates-sales-as-gaming-hardware-spend-drops-11-in-2026-but-game-spending-is-healthier</link><guid isPermaLink="true">https://www.techpowerup.com/353517/nintendo-switch-2-dominates-sales-as-gaming-hardware-spend-drops-11-in-2026-but-game-spending-is-healthier</guid><pubDate>Thu, 08 Oct 2026 17:40:40 +0000</pubDate><description><![CDATA[<p>ゲームハードウェア支出は2026年に11%減少するが、ゲーム支出はより健全であるため、Nintendo Switch 2が売上を独占
-
-Circana の Mat Piscatella 氏は最近、分析会社の 2026 年のゲーム売上データを発表しました。このデータは、ビデオ ゲームとゲーム ハードウェアの両方の価格が上昇しているにもかかわらず、米国市場の総支出が全体的に減少し、ゲームとコンソールの売上が減少していることを効果的に示しています。より正確に言うと、ビデオゲーム全体...
-
-ゲームハードウェア支出は2026年に11%減少するが、ゲーム支出はより健全であるため、Nintendo Switch 2が売上を独占
-
-2026 年 8 月 30 日 GTA 6 の公開後に PS5 Pro の在庫がなくなり、価格は 1,300 ドルに達しました (24)
-
-2026 年 4 月 28 日 Linux が PlayStation 5 で正式に利用可能になりました (22)
-
-2026 年 5 月 18 日 インサイダーは、ソニーが PC ポートを廃止することを認めています: 「PC に登場するシングル プレーヤー ゲームは少なくなるでしょう。」 (135)
-
-2025 年 12 月 31 日 AI 業界の需要のおかげで、2026 年に 5000 ドルの RTX 5090 GPU が登場するとリークが予測 (124)
-
-2026 年 9 月 30 日 新しい脱獄により、ほぼすべての PlayStation 5 モデルのロックが解除されます (10)
-
-2026 年 5 月 27 日 リーカーが天文学的な蒸気機械の価格を示唆 (74)
-
-2026 年 8 月 3 日 Xbox Disc to Digital が Xbox One とシリーズ X 向けに今月登場 (74)
-
-2026 年 4 月 17 日 Pragmata のローンチ: 輝かしいレビューとチャートトップの売上を誇るが、プレイヤー数は平凡 (62)
-
-2026 年 8 月 28 日 ウィッチャー 3: ワイルドハン…</p><p><img src="https://www.techpowerup.com/img/m6BemYFPlgShYl1Y.jpg" alt="ゲームハードウェア支出は2026年に11%減少するが、ゲーム支出はより健全であるため、Nintendo Switch 2が売上を独占"></p>]]></description><source url="https://www.techpowerup.com/353517/nintendo-switch-2-dominates-sales-as-gaming-hardware-spend-drops-11-in-2026-but-game-spending-is-healthier">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/m6BemYFPlgShYl1Y.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/m6BemYFPlgShYl1Y.jpg"/></item>
-<item><title>Ultima creator to take franchise back from EA in 2027 without paying thanks to US copyright law</title><link>https://www.tweaktown.com/rss/click/news/113988/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/113988/?c=news-mf</guid><pubDate>Thu, 08 Oct 2026 17:29:10 +0000</pubDate><description><![CDATA[<p>Ultima creator to take franchise back from EA in 2027 without paying thanks to US copyright law</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/113988/?c=news-mf">TweakTown</source></item>
-<item><title>米国、マイクロソフトとアドビのH-1B労働者へのグリーンカードパスを一時停止</title><link>https://www.tomshardware.com/tech-industry/policy/u-s-suspends-green-card-path-for-h-1b-workers-at-microsoft-and-adobe-labor-certification-program-blocked-due-to-alleged-fraud</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/policy/u-s-suspends-green-card-path-for-h-1b-workers-at-microsoft-and-adobe-labor-certification-program-blocked-due-to-alleged-fraud</guid><pubDate>Thu, 08 Oct 2026 17:26:07 +0000</pubDate><description><![CDATA[<p>米国、マイクロソフトとアドビのH-1B労働者へのグリーンカードパスを一時停止
-
-Cognizant、Infosys、Tata などもリストされています。
-
-米国、マイクロソフトとアドビのH-1B労働者へのグリーンカード取得を一時停止 ― 詐欺容疑で労働証明プログラムが阻止
-
-Cognizant、Infosys、Tata などもリストされています。
-
-(画像クレジット: Getty Images) リンクをコピー
-
-24 会話に参加してください フォローしてください Google ニュースレターの優先ソースとして追加してください ニュースレターを購読してください 木曜日の発表の中で、JD ヴァンス副社長は、有名なハイテク企業である Microsoft と Adobe が現在 PERM プログラムからブロックされていると述べました。これは、企業の H-1B 労働者が最終的にグリーンカードステータスに進化する可能性のある道の 1 つです。この動きは詐欺と虐待の疑いがきっかけとなった。 ITアウトソーシング会社のコグニザント、インフォシス、タタ・コンサルタンシー、ウィプロ、HCL、キャップジェミニも業務停止処分を受けた。
-
-関係企業はまだコメントを出していない。
-
-政府は企業に対する新規または保留中の永久労働認定申請を処理するつもりはない。バンス氏は記者会見で、特にマイクロソフト社について「残念ながら、米国でこれほどこのシステムを悪用した企業はない」と厳しい言葉を並べた。同氏はさらに、「計算してみると、マイクロソフトは解雇した労働者1人につき、その労働者を1.5人の外国人年季奉公人に置き換えたことになる」と付け加えた。
-
-Vance 氏によると、Microsoft は 6,000 人の従業員を解雇すると同時に、6,300 件の H-1B 承認と 3,000 件近いグリーンカードの恩恵を受けました。同副社長によると、同社は3,682件のPERM申請を提出しており、そのうち1,000件は一時解雇された従業員と重複していると思われるポジションに対するものであったという。キース・ソンダ…</p><p><img src="https://cdn.mos.cms.futurecdn.net/ron38t6vtSr88EVmhYSpcV-2048-80.png" alt="米国、マイクロソフトとアドビのH-1B労働者へのグリーンカードパスを一時停止"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/policy/u-s-suspends-green-card-path-for-h-1b-workers-at-microsoft-and-adobe-labor-certification-program-blocked-due-to-alleged-fraud">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/ron38t6vtSr88EVmhYSpcV-2048-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/ron38t6vtSr88EVmhYSpcV-2048-80.png"/></item>
-<item><title>Samsung Galaxy S27 leak suggests good news for pricing, but don’t get too optimistic</title><link>https://www.androidauthority.com/galaxy-s27-pricing-targets-and-display-details-3720884/</link><guid isPermaLink="true">https://www.androidauthority.com/galaxy-s27-pricing-targets-and-display-details-3720884/</guid><pubDate>Thu, 08 Oct 2026 17:20:52 +0000</pubDate><description><![CDATA[<p>Samsung Galaxy S27 leak suggests good news for pricing, but don’t get too optimistic</p>]]></description><source url="https://www.androidauthority.com/galaxy-s27-pricing-targets-and-display-details-3720884/">Android Authority</source></item>
-<item><title>Amazon Announces New &#34;Alexa Tablets&#34; with Google Play — Calling Time on the Amazon Appstore</title><link>https://www.hackster.io/news/amazon-announces-new-alexa-tablets-with-google-play-calling-time-on-the-amazon-appstore-d3249e5ffde2</link><guid isPermaLink="true">https://www.hackster.io/news/amazon-announces-new-alexa-tablets-with-google-play-calling-time-on-the-amazon-appstore-d3249e5ffde2</guid><pubDate>Thu, 08 Oct 2026 17:18:19 +0000</pubDate><description><![CDATA[<p>Amazon Announces New &#34;Alexa Tablets&#34; with Google Play — Calling Time on the Amazon Appstore</p>]]></description><source url="https://www.hackster.io/news/amazon-announces-new-alexa-tablets-with-google-play-calling-time-on-the-amazon-appstore-d3249e5ffde2">Hackster.io</source></item>
 </channel></rss>
