@@ -1,6 +1,275 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sat, 17 Oct 2026 15:33:17 +0000</lastBuildDate>
+<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sat, 17 Oct 2026 18:30:08 +0000</lastBuildDate>
+<item><title>iPhone Duoは見切り発車？まとまった供給は11月以降とガーマン氏</title><link>https://iphone-mania.jp/iphone18-607568/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-607568/</guid><pubDate>Sat, 17 Oct 2026 16:46:00 +0000</pubDate><description><![CDATA[<p>iPhone Duoは見切り発車？まとまった供給は11月以降とガーマン氏
+
+AppleのiPhone Duoについて、米国のAppleオンラインストアは予約開始の30分後に配送予定日を2027年1月25日と表示しました。Apple関連の報道で知られる記者のマーク・ガーマン氏は、まとまった供給は早くても11月以降になるとみています。iPhone
+
+iPhone Duoは見切り発車？まとまった供給は11月以降とガーマン氏
+
+AppleのiPhone Duoについて、米国のAppleオンラインストアは予約開始の30分後に配送予定日を2027年1月25日と表示しました。Apple関連の報道で知られる記者のマーク・ガーマン氏は、まとまった供給は早くても11月以降になるとみています。iPhone Duoがいつ届くのか、なぜ品薄なのか、今から買う人はどう動くべきかを、日付と日数から整理します。
+
+予約開始30分後の時点で、 米国の配送予定日は1月25日でした 。10月23日の発売日から数えて94日後にあたり、表示が変わらなければ年内の受け取りは難しくなります。予約開始とほぼ同時に注文した人と30分遅れた人とで、 受け取りに3カ月以上の差がついた形です 。
+
+予約は現地時間（太平洋時間）10月16日午前5時に始まりました。日本時間では同日午後9時で、午後9時30分頃までに3カ月以上先の配送予定日が並んだことになります。
+
+予約開始から30分以上たって注文した人は、10月16日から数えて101日待つ計算です。 カラーや容量による差がなく 、 全構成が同じ日付になった 点も見逃せません。特定の組み合わせに人気が偏ったのではなく、 全体的に供給が需要に追いついていない様子がうかがえます 。
+
+ガーマン氏の投稿や各種報道を踏まえると、品薄の背景にはAppleの判断と生産の難しさという2つの要因が重…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/10/18/a26826b24c3981c9cd4eed074945b138.png" alt="iPhone Duoは見切り発車？まとまった供給は11月以降とガーマン氏"></p>]]></description><source url="https://iphone-mania.jp/iphone18-607568/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/10/18/a26826b24c3981c9cd4eed074945b138.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/10/18/a26826b24c3981c9cd4eed074945b138.png"/></item>
+<item><title>「まだ他のユーザーがこのPCを使っています」と表示される不具合。KB5127648インストール後、一部PCで発生</title><link>https://www.nichepcgamer.com/archives/post-133212.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/post-133212.html</guid><pubDate>Sat, 17 Oct 2026 16:00:46 +0000</pubDate><description><![CDATA[<p>「まだ他のユーザーがこのPCを使っています」と表示される不具合。KB5127648インストール後、一部PCで発生
+
+KB5127648インストール後、シャットダウンや再起動時に「まだ他のユーザーがこのPCを使っています」というメッセージが表示されるようになったとの不具合報告が出ています。 不具合概要 日本時間で日...
+
+KB5127648インストール後、シャットダウンや再起動時に「まだ他のユーザーがこのPCを使っています」というメッセージが表示されるようになったとの不具合報告が出ています。
+
+日本時間で日本時間で2026年10月14日にリリースされたWindows11 26H2 / Windows11 25H2 / Windows11 24H2用セキュリティ更新プログラム(セキュリティパッチ)KB5127648をインストールした一部のPC環境において、PCのシャットダウンや再起動を行った際、以下のようなメッセージが表示されるようになったとの不具合報告が出ています。
+
+「まだ他のユーザーがこの PC を使っています」と表示される
+
+まだ他のユーザーがこの PC を使っています。このままシャットダウンすると、そのユーザーの作業内容が保存されない可能性があります。
+
+まだ他のユーザーがこの PC を使っています。このまま再起動すると、そのユーザーの作業内容が保存されない可能性があります。
+
+実際にはほかにユーザーがいないにもかかわらず上記のようなメッセージがシャットダウン・再起動時に表示されると報告されています。
+
+なお、この現象はすべての環境で発生するものではありません。また、どういった条件で表示されるのかも判明していません。(少なくとも筆者環境では表示されませんでした)
+
+この現象が発生したユーザーによると、KB5127648をアンインストールすることで上記のようなメッセージは表示されなくなったと報告しています。
+
+ただ、KB5127648はセキュリティ更新プログラムのため、アンインストールすると脆弱性が未修正のままになることには注意が必要です。
+
+現状では一時的な対処…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2024/10/windows11-issue-1200x675-dark.jpg" alt="「まだ他のユーザーがこのPCを使っています」と表示される不具合。KB5127648インストール後、一部PCで発生"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-133212.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2024/10/windows11-issue-1200x675-dark.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2024/10/windows11-issue-1200x675-dark.jpg"/></item>
+<item><title>NVIDIA、GeForce RTX 5090製造終了(EOL)の話を否定。今後も出荷を継続</title><link>https://www.nichepcgamer.com/archives/post-133236.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/post-133236.html</guid><pubDate>Sat, 17 Oct 2026 15:03:05 +0000</pubDate><description><![CDATA[<p>NVIDIA、GeForce RTX 5090製造終了(EOL)の話を否定。今後も出荷を継続
+
+NVIDIAは、GeForce RTX 5090が製造終了(EOL)になったという話を否定しました。台湾メディアの4Gamersが報じました。 台湾で行われた『RTX Spark Launch Pa...
+
+NVIDIAは、 GeForce RTX 5090が製造終了(EOL)になったという話を否定しました。 台湾メディアの4Gamersが報じました。
+
+台湾で行われた『RTX Spark Launch Party: Taipei』の終了後の取材で、NVIDIA SVPであるJeff Fisher氏は、 GeForce RTX 5090は製造終了になっておらず、引き続き出荷されることを明言した。
+
+GeForceがなければ、NVIDIAは今の地位を築くことはできなかったでしょう。同時に、CUDAがなければ現在のAI市場も存在しなかったでしょう。
+
+サプライチェーンにはたしかにある程度の制約がありますが、私たちは製品を市場に届けるために全力を尽くしています。
+
+GeForce RTX 5090は製造中止にはなっておらず、私たちは今後も出荷を継続します。 これはとても重要なことです。
+
+つい数日前、ハードウェアリーカーの MEGAsizeGPU氏、hongxing2020氏 、 高手一号氏 らが揃って、GeForce RTX 5090は製造終了になったとの情報をリークしました。
+
+しかし、 NVIDIA SVPのJeff Fisher氏はこれを否定し、引き続きGeForce RTX 5090は出荷されると述べました。
+
+ただ、国内外問わず、GeForce RTX 5090グラボ製品は多くのショップで品切れになっています。売っていたとしても税込120万円台と、半端ない値上がりを見せています。(参考までに、GeForce RTX 5090の国内希望小売価格は税込393,800円から)
+
+GeForce RTX 5090 グラボ単品で税込120万円
+
+このことから、尋常じゃないほどに供…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2025/01/5090-b-top2.jpg" alt="NVIDIA、GeForce RTX 5090製造終了(EOL)の話を否定。今後も出荷を継続"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-133236.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2025/01/5090-b-top2.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2025/01/5090-b-top2.jpg"/></item>
+<item><title>Intel、Razer Lake-AXの発売時期を発表</title><link>https://www.nichepcgamer.com/archives/post-133229.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/post-133229.html</guid><pubDate>Sat, 17 Oct 2026 13:53:01 +0000</pubDate><description><![CDATA[<p>Intel、Razer Lake-AXの発売時期を発表
+
+IntelがRazer Lake-AXの発売時期を明らかにしました。海外メディアのTHE ELECが報じました。 2026年10月16日に韓国ソウルで開催された『ヒューマノイドを動かす半導体』をテー...
+
+IntelがRazer Lake-AXの発売時期を明らかにしました。 海外メディアのTHE ELECが報じました。
+
+2026年10月16日に韓国ソウルで開催された『ヒューマノイドを動かす半導体』をテーマにしたカンファレンスにおいて、Intelは以下のように述べた。
+
+現在、Panther Lakeをベースにしたロボティクス開発ツールは、理論上180TOPSを提供しています。2027年初めには次世代のNova Lakeを提供します。2028年にはRazer Lake-AXにより、700TOPSレベルの性能を提供する予定です。
+
+韓国国内企業は、自律走行搬送ロボット(Autonomous Mobile Robot / AMR)を2027年に、ヒューマノイドの大部分を2028年に量産することを計画しています。
+
+700TOPSとは、1秒間に700兆回の演算を処理できる性能だ。
+
+かねてよりRazer Lake-AXの存在は リーク されていましたが、Intelによると2028年に発売を予定しているとのこと。
+
+Razer Lake-AXはXe3P iGPUを最大32基も搭載するといわれています。参考までに、dGPU (グラボ)のArc B580はXe2世代のGPUコアが20基です。
+
+Razer Lake-AXはArc B580よりも1.5倍以上のコア数で、さらにはXe3P世代ということから、iGPUでありながらも高いグラフィック性能・ゲーム性能が期待されています。
+
+2028年の発売とのことで、まだ1年以上も先の話ではありますが、登場を楽しみに待ちたいところです。
+
+筆者は自作PC歴20年以上の経験を持ち、Windows OSの細部にわたるカスタマイズや高度な設定、PCゲームの最適化、PCハードウェアとソフトウ…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2026/01/intel-process-top-b.jpg" alt="Intel、Razer Lake-AXの発売時期を発表"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-133229.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2026/01/intel-process-top-b.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2026/01/intel-process-top-b.jpg"/></item>
+<item><title>コード系でOpus 5超え「DeepSeek-V4.1-Flash-1017」無償公開</title><link>https://pc.watch.impress.co.jp/docs/news/2149045.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2149045.html</guid><pubDate>Sat, 17 Oct 2026 13:29:20 +0000</pubDate><description><![CDATA[<p>コード系でOpus 5超え「DeepSeek-V4.1-Flash-1017」無償公開
+
+前バージョンの登場からわずか37日、DeepSeekの“Flash”がまた強くなった。DeepSeekは10月17日(日本時間)、AIモデル「DeepSeek-V4.1-Flash-1017」を発表した。同日のうちに、オープンウェイト(モデルの重み)はMITライセンスのもとHugging Faceで無償公開され、商用利用も認められる。総パラメータ数552B(5,520億)ながら、コード修正ベンチマーク「DeepSWE v1.1」は77.0で、Anthropicの最上位級「Claude Opus 5」の74.0を上回る。
+
+コード系でOpus 5超え「DeepSeek-V4.1-Flash-1017」無償公開
+
+前バージョンの登場からわずか37日、DeepSeekの“Flash”がまた強くなった。DeepSeekは10月17日(日本時間)、AIモデル「DeepSeek-V4.1-Flash-1017」を発表した。同日のうちに、オープンウェイト(モデルの重み)はMITライセンスのもとHugging Faceで無償公開され、商用利用も認められる。総パラメータ数552B(5,520億)ながら、コード修正ベンチマーク「DeepSWE v1.1」は77.0で、Anthropicの最上位級「Claude Opus 5」の74.0を上回る。
+
+DeepSeek-V4.1-Flash-1017は、9月公開の「DeepSeek-V4.1-Flash」を改良したマイナーアップデート版で、テキストと画像を入力できる生成AIモデルだ。コンテキスト長(一度に扱える文章量)は100万トークンで、最大出力は25万6,000トークン以上の確保が推奨される。推論・コーディング・エージェント(AIが自律的に作業を進める用途)・画像理解の各ベンチマークを底上げしつつ、タスクの実行時間と出力の長さを前版より削減した。
+
+基本構成は前バージョンと共通で、DeepSeek-V4.1-Flash-1017の総パラメータ数は552…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2149/045/01.png" alt="コード系でOpus 5超え「DeepSeek-V4.1-Flash-1017」無償公開"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2149045.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2149/045/01.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2149/045/01.png"/></item>
+<item><title>Nothing Headphone (1) Pro レビュー。デザインも操作も秀逸</title><link>https://smhn.info/202610-202610-nothing-headphone-1-pro-review</link><guid isPermaLink="true">https://smhn.info/202610-202610-nothing-headphone-1-pro-review</guid><pubDate>Sat, 17 Oct 2026 13:06:44 +0000</pubDate><description><![CDATA[<p>Nothing Headphone (1) Pro レビュー。デザインも操作も秀逸
+
+Nothingが発表した最新ヘッドフォン「Nothing Headphone (1) Pro」をNothingからお借りしたのでレビューします。レビューの動画版はこちら。価格は税込6万4800円。カラーはブラックとホワイトの2色で、お借りしたのはブラックです。まずデザインが秀逸。...
+
+Nothing Headphone (1) Pro レビュー。デザインも操作も秀逸
+
+Nothingが 発表 した最新ヘッドフォン「 Nothing Headphone (1) Pro 」をNothingからお借りしたのでレビューします。レビューの動画版は こちら 。
+
+価格は税込6万4800円。カラーはブラックとホワイトの2色で、お借りしたのはブラックです。
+
+まずデザインが秀逸。とても良いです。これまでのNothing製品で一番好きかもしれません。前のHeadphone (1)のときから、透明感のある見た目と金属の質感、それにカセットテープを思わせるデザインでしたが、Proではイヤーカップの透明な部分がアクリル系の素材から強化ガラスになって、表面もフラットになりました。アームもスチールからチタンに変わっています。見た目の方向性はそのままに、より未来的で、完成度が上がった印象です。
+
+ガラスの奥には3つのドライバーの構造がうっすらと透けて見え、Nothingらしい「中身を見せる」デザイン。アームのチタン合金も、Headphone (1)のアームより45%軽くなったそうです。アクリルとスチールだった前作から、ガラスとチタンに変わったことで、素材の質感がぐっと上がりました。
+
+今回お借りしたのはブラック。アルミのフレーム、強化ガラス、その奥に見える内部の構造が重なって、黒一色でものっぺりせず、落ち着いた中に…</p><p><img src="https://smhn.info/wp-content/uploads/2026/10/headphone-1-pro-review-eyecatch.webp" alt="Nothing Headphone (1) Pro レビュー。デザインも操作も秀逸"></p>]]></description><source url="https://smhn.info/202610-202610-nothing-headphone-1-pro-review">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/10/headphone-1-pro-review-eyecatch.webp" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/10/headphone-1-pro-review-eyecatch.webp"/></item>
+<item><title>【プライム感謝祭】USB Type-Cで直接充電できる単4形電池4本セットが20％オフ</title><link>https://www.gdm.or.jp/pressrelease/2026/1017/656739</link><guid isPermaLink="true">https://www.gdm.or.jp/pressrelease/2026/1017/656739</guid><pubDate>Sat, 17 Oct 2026 11:14:19 +0000</pubDate><description><![CDATA[<p>【プライム感謝祭】USB Type-Cで直接充電できる単4形電池4本セットが20％オフ
+
+Amazonプライム感謝祭でORICOのUSB Type-C充電対応単4形リチウムイオン充電池4本セットが20％オフの税込1,984円。1.5V出力、500mWhの容量を備え、約1,500回の繰り返し使用に対応。充電ケーブルと収納ケースが付属する。
+
+【プライム感謝祭】USB Type-Cで直接充電できる単4形電池4本セットが20％オフ
+
+約1,500回の繰り返し使用に対応。充電ケーブルや収納ケースも付属
+
+Amazon.co.jpの「プライム感謝祭」において、ORICO Technologies Co.,Ltd（本社：中国）のUSB Type-C充電対応単4形リチウムイオン充電池4本セット 「ORICO-EG」 が20％オフの税込1,984円で販売されている。参考価格は税込2,480円で、496円引き。
+
+電池本体にUSB Type-C充電ポートを搭載した単4形リチウムイオン充電池。専用の充電器を使用せず、付属のUSBケーブルを接続するだけで充電できる。公称電圧は1.5V、電力量は500mWhで、約1,500回の繰り返し使用に対応する。
+
+充電時間は約2時間で、過充電や過放電、過電流、短絡などに対応する保護ICを内蔵。付属するUSB Type-A－USB Type-C分岐ケーブルを使用すれば、4本をまとめて充電できる。
+
+また、持ち運びや保管に便利な専用収納ケースも付属。ワイヤレスマウスやリモコン、各種電子機器など、単4形乾電池を使用する機器の電源として利用できる。ただし、機器によっては使用できない場合がある。
+
+文： 編集部 松枝 清顕 ORICO Technologies Co.,Ltd： https://www.orico.com.cn/
+
+【プライム感謝祭】充電不要で使えるサンワの電動エアダスターが19％オフ
+
+【プライム感謝祭】FeliCa対応の「Galaxy A57 5G」が13％オフの…
+
+【プライム感謝祭】4K/160HzとフルHD/320Hzを切替。GIGABY…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/10/17/ORICO-EG_001.jpg" alt="【プライム感謝祭】USB Type-Cで直接充電できる単4形電池4本セットが20％オフ"></p>]]></description><source url="https://www.gdm.or.jp/pressrelease/2026/1017/656739">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/10/17/ORICO-EG_001.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/10/17/ORICO-EG_001.jpg"/></item>
+<item><title>電話できないAndroid端末「Ledger Atom」発表。暗号資産のLedgerがセキュリティ特化、約13万4000円で予約開始</title><link>https://smhn.info/202610-ledger-atom-security-android-device</link><guid isPermaLink="true">https://smhn.info/202610-ledger-atom-security-android-device</guid><pubDate>Sat, 17 Oct 2026 10:54:55 +0000</pubDate><description><![CDATA[<p>電話できないAndroid端末「Ledger Atom」発表。暗号資産のLedgerがセキュリティ特化、約13万4000円で予約開始
+
+Ledger Atom。画像：Ledger暗号資産のハードウェアウォレットで知られる仏Ledgerは10月15日、パリで開いたイベント「Ledger Op3n 2026」で、Androidアプリが動くセキュリティ・プライバシー特化の新端末「Ledger Atom」を発表しました。...
+
+電話できないAndroid端末「Ledger Atom」発表。暗号資産のLedgerがセキュリティ特化、約13万4000円で予約開始
+
+暗号資産のハードウェアウォレットで知られる仏Ledgerは10月15日、パリで開いたイベント「Ledger Op3n 2026」で、Androidアプリが動くセキュリティ・プライバシー特化の新端末「Ledger Atom」を発表しました。
+
+見た目はスマートフォンそのものですが、同社は「スマートフォンではない」と説明しています。
+
+Relive the moment @_pgauthier, Chairman &amp; CEO, revealed Ledger Atom™ at Ledger Op3n in Paris: the device built to protect everything you value. Our first device with your everyday apps and 5G connectivity built in, switching to Secure Mode whenever you interact with your pic.x.com/9haToA9iBT
+
+— Ledger (@Ledger) October 15, 2026
+
+Ledger Atomはデータ通信専用端末。4G/5Gにはつながるものの、VoLTEなど携帯電話網による音声通話やSMSには非対応です。
+
+緊急通報（112や911など）もできないと同社は明記しています。データ通信を使ったアプリでの音声・ビデ…</p><p><img src="https://smhn.info/wp-content/uploads/2026/10/ledger-atom-secure-mode.webp" alt="電話できないAndroid端末「Ledger Atom」発表。暗号資産のLedgerがセキュリティ特化、約13万4000円で予約開始"></p>]]></description><source url="https://smhn.info/202610-ledger-atom-security-android-device">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/10/ledger-atom-secure-mode.webp" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/10/ledger-atom-secure-mode.webp"/></item>
+<item><title>ワイモバイルで「ハロウィンセール」。OPPO A5 5Gが新規・MNPで一括1円、nubia Flip 2は機種変更でも一括9800円</title><link>https://smhn.info/202610-ymobile-halloween-sale-oppo-a5-nubia-flip-2</link><guid isPermaLink="true">https://smhn.info/202610-ymobile-halloween-sale-oppo-a5-nubia-flip-2</guid><pubDate>Sat, 17 Oct 2026 10:31:56 +0000</pubDate><description><![CDATA[<p>ワイモバイルで「ハロウィンセール」。OPPO A5 5Gが新規・MNPで一括1円、nubia Flip 2は機種変更でも一括9800円
+
+ワイモバイルオンラインストアで10月16日、「ハロウィンセール」が始まりました。11月2日14時59分までの期間中、新規契約・MNP・番号移行の契約事務手数料3850円が無料になるほか、端末の値引きやSIM単体契約のPayPayポイント増額も実施されます。あわせて同日から、既存ユ...
+
+ワイモバイルで「ハロウィンセール」。OPPO A5 5Gが新規・MNPで一括1円、nubia Flip 2は機種変更でも一括9800円
+
+ワイモバイルオンラインストア で10月16日、「ハロウィンセール」が始まりました。11月2日14時59分までの期間中、新規契約・MNP・番号移行の契約事務手数料3850円が無料になるほか、端末の値引きやSIM単体契約のPayPayポイント増額も実施されます。
+
+あわせて同日から、既存ユーザーの機種変更向けキャンペーンもスタート。
+
+セール対象の端末と一括価格は次の通り。MNPの価格は、いずれもソフトバンク・LINEMOからののりかえには適用されません。
+
+ソフトバンク認定中古品のiPhoneは、ソフトバンクで販売したiPhoneを専門業者が初期化・クリーニングしたもので、新品ではありません。 10月6日時点 では、同じ新規契約・MNP（シンプル3 M/L）でiPhone 15が4万2040円、iPhone SE（第3世代）が3860円でした。
+
+データ増量オプション（月550円）に加入してSIM単体で契約する場合のPayPayポイント特典は、他社からのりかえでシンプル3 Sを選ぶと、通常の5000円相当から1万5000円相当に増額。シンプル3 M/Lも1万5000円相当です。ソフトバンク・LINEMOなどからの番号移行は対象外。
+
+新しい番号での契約はシンプル3 M/Lが対象で、通常5000円相当、使う人が5〜18歳なら1万円相当となります。
+
+事務手数料の無料化は、オンラインストアでシンプル3 S/M/Lを新規契…</p><p><img src="https://smhn.info/wp-content/uploads/2026/10/ymobile-halloween-sale-2026.webp" alt="ワイモバイルで「ハロウィンセール」。OPPO A5 5Gが新規・MNPで一括1円、nubia Flip 2は機種変更でも一括9800円"></p>]]></description><source url="https://smhn.info/202610-ymobile-halloween-sale-oppo-a5-nubia-flip-2">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/10/ymobile-halloween-sale-2026.webp" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/10/ymobile-halloween-sale-2026.webp"/></item>
+<item><title>ドコモの緊急地震速報不配、原因は「形式が異なるデータ」を認識できなかったため。</title><link>https://smhn.info/202610-docomo-eew-area-mail-cause-data-format</link><guid isPermaLink="true">https://smhn.info/202610-docomo-eew-area-mail-cause-data-format</guid><pubDate>Sat, 17 Oct 2026 09:53:20 +0000</pubDate><description><![CDATA[<p>ドコモの緊急地震速報不配、原因は「形式が異なるデータ」を認識できなかったため。
+
+NTTドコモは10月17日、前日16日昼の緊急地震速報で緊急速報「エリアメール」が配信されなかった問題について、原因を更新して発表しました。16日の時点では「当社システム不具合」としていた原因について、気象庁から「従来と一部、形式が異なるデータ」を受信し、ドコモ側のシステムで正し...
+
+ドコモの緊急地震速報不配、原因は「形式が異なるデータ」を認識できなかったため。
+
+NTTドコモは10月17日、前日16日昼の緊急地震速報で緊急速報「エリアメール」が配信されなかった 問題 について、原因を更新して発表しました。
+
+16日の時点では「当社システム不具合」としていた原因について、気象庁から「従来と一部、形式が異なるデータ」を受信し、ドコモ側のシステムで正しい情報と認識できなかったためと説明しています。
+
+ドコモによると、従来どおりの形式のデータを受信すればエリアメールは正常に配信されることを確認済み。現在は今回受信した形式でも配信できるよう対応を進めており、17日中の対応完了を見込みます。
+
+本来の配信対象地域は、北海道、東北、北陸、関東、甲信、東海、伊豆諸島。
+
+どの部分の形式が従来と違っていたのかは、ドコモも気象庁も明らかにしていません。
+
+SNSでは、気象庁の電文XMLの画面で、震源の地名を短く表す「ReduceName」（短縮用震央地名）の「千島列島」の後ろに改行が入っているように見えるとの指摘が出ています。
+
+これもしかしてこれ？ pic.x.com/fFmOCKN45N
+
+— look Sky (@looksky495) October 16, 2026
+
+今回の緊急地震速報そのものも、地震の規模を大きく見誤ったものでした。12時38分ごろにカムチャツカ半島付近で発生したマグニチュード6.9（速報値）の地震に対し、気象庁は震源を千島列島、マグニチュードを9.9と推定し、北海道から中部地方に警報を出しています。
+
+気象庁は16日の第2報で、日本から非常に遠い地震に国内用のマグニチュー…</p><p><img src="https://smhn.info/wp-content/uploads/2022/03/ntt-docomo.jpg" alt="ドコモの緊急地震速報不配、原因は「形式が異なるデータ」を認識できなかったため。"></p>]]></description><source url="https://smhn.info/202610-docomo-eew-area-mail-cause-data-format">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2022/03/ntt-docomo.jpg" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2022/03/ntt-docomo.jpg"/></item>
+<item><title>Nova Lakeのネーミングはすべて4桁のCore Ultra 4000番台へ。3桁のCore Ultra 400は無し。デスクトップもモバイルも</title><link>https://www.nichepcgamer.com/archives/post-133217.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/post-133217.html</guid><pubDate>Sat, 17 Oct 2026 09:51:54 +0000</pubDate><description><![CDATA[<p>Nova Lakeのネーミングはすべて4桁のCore Ultra 4000番台へ。3桁のCore Ultra 400は無し。デスクトップもモバイルも
+
+Intelの次世代CPU、Nova Lakeは、デスクトップ向けもノートPC・モバイル向けもすべて4桁ネーミング(Core Ultra 4000)となる模様です。 2026年10月上旬、ハードウェア...
+
+Intelの次世代CPU、Nova Lakeは、デスクトップ向けもノートPC・モバイル向けもすべて4桁ネーミング(Core Ultra 4000)となる模様です。
+
+2026年10月上旬 、ハードウェアリーカーのJaykihn氏は、ノートPC・モバイル向けNova LakeのHシリーズと無印モデルに関しては4桁ではなく3桁ネーミング(Core Ultra 400)になると述べていました。
+
+しかし、2026年10月17日、Jaykihn氏はこれを撤回し、以下のように述べています。
+
+Jaykihn : 以前、Hシリーズや無印のNova LakeモバイルCPUのネーミングは3桁数字になると言いましたが、撤回します。これらも4桁の命名規則を採用しています。
+
+質問 : つまり、すべてCore Ultra 4000になるということですか？
+
+Jaykihn : はい。Nova Lakeはそうなります。
+
+Jaykihn氏によると、Nova Lakeはすべて4桁ネーミング、つまり、Core Ultra 4000シリーズになるとのこと。3桁のCore Ultra 400シリーズの存在は撤回されました。Nova Lakeにおいては、4000番台と400番台が入り混じるような事態はない模様です。
+
+各セグメントごとのNova Lakeのネーミングは以下のようになることが見込まれます。
+
+Nova Lake-S (デスクトップCPU) Core Ultra 4000 / Core Ultra 4000 BFC (bLLCモデル) (Core Ultra 9 4970K BFCやCore Ultra 9 4950KなどSKU名がすでに…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2025/01/intel-nova-lake.jpg" alt="Nova Lakeのネーミングはすべて4桁のCore Ultra 4000番台へ。3桁のCore Ultra 400は無し。デスクトップもモバイルも"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-133217.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2025/01/intel-nova-lake.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2025/01/intel-nova-lake.jpg"/></item>
+<item><title>【プライム感謝祭】充電不要で使えるサンワの電動エアダスターが19％オフ</title><link>https://www.gdm.or.jp/pressrelease/2026/1017/656738</link><guid isPermaLink="true">https://www.gdm.or.jp/pressrelease/2026/1017/656738</guid><pubDate>Sat, 17 Oct 2026 08:53:09 +0000</pubDate><description><![CDATA[<p>【プライム感謝祭】充電不要で使えるサンワの電動エアダスターが19％オフ
+
+Amazonプライム感謝祭でサンワサプライのAC電源式電動エアダスター「200-CD079」が19％オフの税込6,480円。充電不要で連続使用でき、PC内部やキーボードの清掃に対応。3種類の交換ノズルが付属する。
+
+【プライム感謝祭】充電不要で使えるサンワの電動エアダスターが19％オフ
+
+PC内部やキーボードのホコリを強力噴射で除去。用途に応じて使い分けられる3種類のノズルが付属
+
+Amazon.co.jpの「プライム感謝祭」において、サンワサプライのAC電源式電動エアダスター 「200-CD079」 が19％オフの税込6,480円で販売されている。参考価格は税込7,980円で、1,500円引き。
+
+AC100V電源で動作する電動エアダスター。充電やバッテリー残量を気にせず使用でき、デスクトップPC内部やキーボード、OA機器などに付着したホコリを強力な風で吹き飛ばせる。
+
+風量は用途に応じて調整でき、付属する3種類のノズルを交換することで、狭い隙間や広い範囲の清掃に対応。また、ブラシ付きノズルを利用すれば、キーボードのキー周辺などに付着したホコリも効率よく除去できる。
+
+電源ケーブルは長さ約3mで、コンセントから離れた場所でも使用可能。繰り返し使用できるため、使い捨てのエアダスター缶を購入する必要がなく、定期的なPCメンテナンスにも適している。
+
+文： 編集部 松枝 清顕 サンワサプライ株式会社： https://www.sanwa.co.jp/
+
+【プライム感謝祭】USB Type-Cで直接充電できる単4形電池4本セットが20…
+
+【プライム感謝祭】FeliCa対応の「Galaxy A57 5G」が13％オフの…
+
+【プライム感謝祭】4K/160HzとフルHD/320Hzを切替。GIGABYTE…
+
+【プライム感謝祭】ゲームもデータも2TBに。Acer「Predator GM6」…
+
+【プライム感謝祭】次のGPU換装に備える1,000W。CORSAIR「RM100…
+
+【プライム感謝祭】読込10…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2023/02/14/200_cd079_1024x768b.jpg" alt="【プライム感謝祭】充電不要で使えるサンワの電動エアダスターが19％オフ"></p>]]></description><source url="https://www.gdm.or.jp/pressrelease/2026/1017/656738">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2023/02/14/200_cd079_1024x768b.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2023/02/14/200_cd079_1024x768b.jpg"/></item>
+<item><title>【プライム感謝祭】FeliCa対応の「Galaxy A57 5G」が13％オフの税込69,309円</title><link>https://www.gdm.or.jp/pressrelease/2026/1017/656737</link><guid isPermaLink="true">https://www.gdm.or.jp/pressrelease/2026/1017/656737</guid><pubDate>Sat, 17 Oct 2026 08:39:59 +0000</pubDate><description><![CDATA[<p>【プライム感謝祭】FeliCa対応の「Galaxy A57 5G」が13％オフの税込69,309円
+
+Amazonプライム感謝祭でSamsungのSIMフリースマートフォン「Galaxy A57 5G」（128GB）が13％オフの税込69,309円。6.7インチ有機ELディスプレイ、5,000mAhバッテリー、FeliCa、防水・防塵に対応する国内正規品。
+
+【プライム感謝祭】FeliCa対応の「Galaxy A57 5G」が13％オフの税込69,309円
+
+6.7インチディスプレイや5,000mAhバッテリーを搭載したSIMフリーモデル
+
+Amazon.co.jpの「プライム感謝祭」において、SamsungのSIMフリースマートフォン 「Galaxy A57 5G」（128GB） が13％オフの税込69,309円で販売されている。参考価格は税込79,800円で、10,491円の値引きとなる。セール対象はオーサムネイビーなどのカラーバリエーション。
+
+約6.7インチのフルHD+ディスプレイを搭載した5G対応スマートフォン。国内正規品のSIMフリーモデルで、おサイフケータイ（FeliCa）やIP68等級の防水・防塵性能に対応する。
+
+また、Galaxy AIによる各種AI機能を利用できるほか、Samsungのファイル共有機能「Quick Share」にも対応。5,000mAhの大容量バッテリーを内蔵し、本体重量は約179gに抑えられている。
+
+文： 編集部 松枝 清顕 Samsung Electronics Co., Ltd,： https://www.samsung.com/
+
+【プライム感謝祭】USB Type-Cで直接充電できる単4形電池4本セットが20…
+
+【プライム感謝祭】充電不要で使えるサンワの電動エアダスターが19％オフ
+
+【プライム感謝祭】4K/160HzとフルHD/320Hzを切替。GIGABYTE…
+
+【プライム感謝祭】ゲームもデータも2TBに。Acer「Predator GM6」…
+
+【プライム感謝祭】次のGPU換装に備える1,000W。CORSAI…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/03/26/Galaxy_A57_5G_01.jpg" alt="【プライム感謝祭】FeliCa対応の「Galaxy A57 5G」が13％オフの税込69,309円"></p>]]></description><source url="https://www.gdm.or.jp/pressrelease/2026/1017/656737">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/03/26/Galaxy_A57_5G_01.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/03/26/Galaxy_A57_5G_01.jpg"/></item>
 <item><title>【プライム感謝祭】4K/160HzとフルHD/320Hzを切替。GIGABYTEの27型モニターが30％オフ</title><link>https://www.gdm.or.jp/pressrelease/2026/1017/656733</link><guid isPermaLink="true">https://www.gdm.or.jp/pressrelease/2026/1017/656733</guid><pubDate>Sat, 17 Oct 2026 08:30:55 +0000</pubDate><description><![CDATA[<p>【プライム感謝祭】4K/160HzとフルHD/320Hzを切替。GIGABYTEの27型モニターが30％オフ
 
 Amazonプライム感謝祭でGIGABYTEの27インチ4Kゲーミングモニター「M27UP」が30％オフの税込48,580円。4K/160HzとフルHD/320Hzを切り替えられるデュアルモードを搭載し、DisplayHDR 400やKVM機能にも対応する。
@@ -817,6 +1086,21 @@ au ：au Online Shop（au ID）。入荷すると「本申し込み」の案内�
 ソフトバンク ：ソフトバンクオンラインショップ（My SoftBank）。在庫が確保されると「本申し込み」のメールが届く。 手順と本申し込みの流れ
 
 楽天モバイ…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/10/thumb_duo_day_open_20261002.png" alt="iPhone Duoの予約受付が開始！Apple Storeと各キャリアの窓口・価格を比較"></p>]]></description><source url="https://iphone-mania.jp/iphone18-606882/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/10/thumb_duo_day_open_20261002.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/10/thumb_duo_day_open_20261002.png"/></item>
+<item><title>【笠原一輝のユビキタス情報局】フロンティアモデルAIを出先でも！NVIDIA RTX Spark搭載Surface実機レビュー</title><link>https://pc.watch.impress.co.jp/docs/column/ubiq/2148969.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/column/ubiq/2148969.html</guid><pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>【笠原一輝のユビキタス情報局】フロンティアモデルAIを出先でも！NVIDIA RTX Spark搭載Surface実機レビュー
+
+Microsoftの「Surface」ブランドにおいて、フラグシップ向け製品は、かつてはSurface Book、Surface Laptop Studioなどがあった。しかし、ここ数年はそうした製品の後継は出てこず、クリエイターやハイエンドユーザー向けの製品が不在な状況だった。
+
+フロンティアモデルAIを出先でも！NVIDIA RTX Spark搭載Surface実機レビュー
+
+Microsoftの「Surface」ブランドにおいて、フラグシップ向け製品は、かつてはSurface Book、Surface Laptop Studioなどがあった。しかし、ここ数年はそうした製品の後継は出てこず、クリエイターやハイエンドユーザー向けの製品が不在な状況だった。
+
+そんな中投入された「Surface Laptop Ultra」は、フラグシップセグメントに向けた製品となる。SoCにはNVIDIA RTX Spark N1Xを採用している。Surface Laptop Ultraの日本向けバージョンの最上位モデル(EP2-58062)を入手したので、実機レビューをお届けする。
+
+NVIDIA RTX Spark N1Xを搭載したSurface Laptop Ultra
+
+Surface Laptop Ultraが発売になった。予約開始時点で109万4,280円の最上位モデルが売り切れになるなど、高い注目を集めている。
+
+NVIDIA RTX Spark N1Xは、CPUとGPUを1パッケージに統合。GPUはメインメモリの一部をVRAMとして利用できるため、単体GPUに比べて多くのVRAMを利用できる。例えば、128GBモデルなら、32GBをCPUに、残りの…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2148/969/001.jpg" alt="【笠原一輝のユビキタス情報局】フロンティアモデルAIを出先でも！NVIDIA RTX Spark搭載Surface実機レビュー"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/column/ubiq/2148969.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2148/969/001.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2148/969/001.jpg"/></item>
 <item><title>【Hothotレビュー】128GBの統合メモリで大型ローカルAIを動かす。RTX Spark搭載「ProArt P14」</title><link>https://pc.watch.impress.co.jp/docs/column/hothot/2148879.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/column/hothot/2148879.html</guid><pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>【Hothotレビュー】128GBの統合メモリで大型ローカルAIを動かす。RTX Spark搭載「ProArt P14」
 
 2026年6月のCOMPUTEX 2026に合わせて発表され、話題を呼んだNVIDIAの新プラットフォーム「RTX Spark」。それを採用した14型ノートPC「ASUS ProArt P14」が、いよいよ10月23日から順次販売を開始する。
@@ -849,21 +1133,6 @@ Windows PC向けNVIDIA製SoC「RTX Spark」の正体が明らかに。Microsoft�
 ↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
 
 ↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。…</p><p><img src="https://www.4gamer.net/games/050/G105051/20261015021/SS/003.jpg" alt="Windows PC����NVIDIA��SoC��RTX Spark�פ����Τ����餫�ˡ�Microsoft�ȶ�Ʊ�ǥ������ؤ��б����ʤ���"></p>]]></description><source url="https://www.4gamer.net/games/050/G105051/20261015021/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/050/G105051/20261015021/SS/003.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/050/G105051/20261015021/SS/003.jpg"/></item>
-<item><title>【笠原一輝のユビキタス情報局】フロンティアモデルAIを出先でも！NVIDIA RTX Spark搭載Surface実機レビュー</title><link>https://pc.watch.impress.co.jp/docs/column/ubiq/2148969.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/column/ubiq/2148969.html</guid><pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>【笠原一輝のユビキタス情報局】フロンティアモデルAIを出先でも！NVIDIA RTX Spark搭載Surface実機レビュー
-
-Microsoftの「Surface」ブランドにおいて、フラグシップ向け製品は、かつてはSurface Book、Surface Laptop Studioなどがあった。しかし、ここ数年はそうした製品の後継は出てこず、クリエイターやハイエンドユーザー向けの製品が不在な状況だった。
-
-フロンティアモデルAIを出先でも！NVIDIA RTX Spark搭載Surface実機レビュー
-
-Microsoftの「Surface」ブランドにおいて、フラグシップ向け製品は、かつてはSurface Book、Surface Laptop Studioなどがあった。しかし、ここ数年はそうした製品の後継は出てこず、クリエイターやハイエンドユーザー向けの製品が不在な状況だった。
-
-そんな中投入された「Surface Laptop Ultra」は、フラグシップセグメントに向けた製品となる。SoCにはNVIDIA RTX Spark N1Xを採用している。Surface Laptop Ultraの日本向けバージョンの最上位モデル(EP2-58062)を入手したので、実機レビューをお届けする。
-
-NVIDIA RTX Spark N1Xを搭載したSurface Laptop Ultra
-
-Surface Laptop Ultraが発売になった。予約開始時点で109万4,280円の最上位モデルが売り切れになるなど、高い注目を集めている。
-
-NVIDIA RTX Spark N1Xは、CPUとGPUを1パッケージに統合。GPUはメインメモリの一部をVRAMとして利用できるため、単体GPUに比べて多くのVRAMを利用できる。例えば、128GBモデルなら、32GBをCPUに、残りの…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2148/969/001.jpg" alt="【笠原一輝のユビキタス情報局】フロンティアモデルAIを出先でも！NVIDIA RTX Spark搭載Surface実機レビュー"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/column/ubiq/2148969.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2148/969/001.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2148/969/001.jpg"/></item>
 <item><title>【プロダクトレビュー・ショーケース】64GBメモリで27BのAIも画像生成も。RTX Spark搭載のASUS「ProArt P16(H7607)」の実用性を試すエージェントPC時代の先駆けとなるArm+Blackwellの最新SoC搭載機 text by 芹澤 正芳</title><link>https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2148963.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2148963.html</guid><pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>【プロダクトレビュー・ショーケース】64GBメモリで27BのAIも画像生成も。RTX Spark搭載のASUS「ProArt P16(H7607)」の実用性を試すエージェントPC時代の先駆けとなるArm+Blackwellの最新SoC搭載機 text by 芹澤 正芳
 
 普段のWindows作業をこなしながら、必要なときには大きなAIモデルも手元で動かす。NVIDIAの新プラットフォーム「RTX Spark」が目指す使い方を、ASUSの16型ノートPC「ProArt P16(H7607)」で試してみた。今回の構成は20コアCPUと6,144基のCUDAコアを備えるRTX Spark N1Xに、64GBのユニファイドメモリを組み合わせたものだ。
@@ -1143,6 +1412,21 @@ Apple公式はアップデート前の事前準備として以下を案内して
 Wi-Fi接続： アップデートにはWi-Fiへの接続が必要です。
 
 更新候補がある場合は、バックアップ・Wi-Fi接続・電源へ…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/10/16/00e1246bcee67074cb70823af627ebf0.png" alt="iPhone自動更新オンでも旧OSだった！更新状況の確認方法"></p>]]></description><source url="https://iphone-mania.jp/ios-607520/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/10/16/00e1246bcee67074cb70823af627ebf0.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/10/16/00e1246bcee67074cb70823af627ebf0.png"/></item>
+<item><title>��CygamesEdge�ץǥӥ塼���������ι��ס�������Ⱦ���ǥ����ǥ��󥰤򸫤ơ���������1�ĥ��ꥢ�����Ȥ�����­�����Υ��󥿥ӥ塼��</title><link>https://www.4gamer.net/games/039/G103924/20261007007/</link><guid isPermaLink="true">https://www.4gamer.net/games/039/G103924/20261007007/</guid><pubDate>Fri, 16 Oct 2026 08:15:00 +0000</pubDate><description><![CDATA[<p>��CygamesEdge�ץǥӥ塼���������ι��ס�������Ⱦ���ǥ����ǥ��󥰤򸫤ơ���������1�ĥ��ꥢ�����Ȥ�����­�����Υ��󥿥ӥ塼��
+
+CygamesEdgeの第1弾「崩落の国」とはどんな作品か。社内コンテストに出された15分のプロトタイプが3時間の作品になった経緯や，あえて慣性を強くした狙いをプロデューサーの濱田修一郎氏に聞いた。
+
+「CygamesEdge」デビュー作「崩落の国」。週末の半日でエンディングを見て，ゲームを1つクリアするという充足感を［インタビュー］ ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
+
+↓アイコン/タイトル↓ 「テイルズ オブ エターニア」のここを知ってほしい！ 当時やり込んだファンが語る，リマスター版をもっと楽しむために押さえておきたいポイント ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 作品のアニマはどこに宿るのか。「リベンジオブザセブン」と「サガフロ2 リマスター」，ふたつの“伝承”のかたち ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 東京ゲームショウに来たら“読みもの”を集めよう！ 雑誌にカタログ，新聞風。会場で見つけた＆もらった小冊子を紹介［TGS2026］ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファ…</p><p><img src="https://www.4gamer.net/games/039/G103924/20261007007/SS/028.jpg" alt="��CygamesEdge�ץǥӥ塼���������ι��ס�������Ⱦ���ǥ����ǥ��󥰤򸫤ơ���������1�ĥ��ꥢ�����Ȥ�����­�����Υ��󥿥ӥ塼��"></p>]]></description><source url="https://www.4gamer.net/games/039/G103924/20261007007/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/039/G103924/20261007007/SS/028.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/039/G103924/20261007007/SS/028.jpg"/></item>
 <item><title>有機EL画面付きモデルなどTRYXのCPUクーラーが最大29%オフ！Amazonプライム感謝祭</title><link>https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2148864.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2148864.html</guid><pubDate>Fri, 16 Oct 2026 08:15:00 +0000</pubDate><description><![CDATA[<p>有機EL画面付きモデルなどTRYXのCPUクーラーが最大29%オフ！Amazonプライム感謝祭
 
 Amazon.co.jpにて、「プライム感謝祭」が10月16日（金）～10月19日（月）に開催。
@@ -1160,21 +1444,6 @@ PANORAMA SE L-P360L-AM3M-G0Wは、L字型AMOLEDディスプレイや120mm ARGB�
 PANORAMA WB L-P0CL-DS0M-G0Wは、6.67インチ曲面L字型AMOLEDや静音ポンプを採用した本格水冷CPUクーラー用ウォーターブロック。セール価格は33,741円。
 
 TURRIS H-T620N-DM2M-G0Wは、5インチLCDディスプレイやデュアルファンを搭載し、最大280W TDPに対応したサイドフロー型空冷CPUクーラー。セール価格は16,980円。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/864/s1.jpg" alt="有機EL画面付きモデルなどTRYXのCPUクーラーが最大29%オフ！Amazonプライム感謝祭"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2148864.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/864/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/864/s1.jpg"/></item>
-<item><title>��CygamesEdge�ץǥӥ塼���������ι��ס�������Ⱦ���ǥ����ǥ��󥰤򸫤ơ���������1�ĥ��ꥢ�����Ȥ�����­�����Υ��󥿥ӥ塼��</title><link>https://www.4gamer.net/games/039/G103924/20261007007/</link><guid isPermaLink="true">https://www.4gamer.net/games/039/G103924/20261007007/</guid><pubDate>Fri, 16 Oct 2026 08:15:00 +0000</pubDate><description><![CDATA[<p>��CygamesEdge�ץǥӥ塼���������ι��ס�������Ⱦ���ǥ����ǥ��󥰤򸫤ơ���������1�ĥ��ꥢ�����Ȥ�����­�����Υ��󥿥ӥ塼��
-
-CygamesEdgeの第1弾「崩落の国」とはどんな作品か。社内コンテストに出された15分のプロトタイプが3時間の作品になった経緯や，あえて慣性を強くした狙いをプロデューサーの濱田修一郎氏に聞いた。
-
-「CygamesEdge」デビュー作「崩落の国」。週末の半日でエンディングを見て，ゲームを1つクリアするという充足感を［インタビュー］ ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
-
-↓アイコン/タイトル↓ 「テイルズ オブ エターニア」のここを知ってほしい！ 当時やり込んだファンが語る，リマスター版をもっと楽しむために押さえておきたいポイント ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 作品のアニマはどこに宿るのか。「リベンジオブザセブン」と「サガフロ2 リマスター」，ふたつの“伝承”のかたち ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 東京ゲームショウに来たら“読みもの”を集めよう！ 雑誌にカタログ，新聞風。会場で見つけた＆もらった小冊子を紹介［TGS2026］ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファ…</p><p><img src="https://www.4gamer.net/games/039/G103924/20261007007/SS/028.jpg" alt="��CygamesEdge�ץǥӥ塼���������ι��ס�������Ⱦ���ǥ����ǥ��󥰤򸫤ơ���������1�ĥ��ꥢ�����Ȥ�����­�����Υ��󥿥ӥ塼��"></p>]]></description><source url="https://www.4gamer.net/games/039/G103924/20261007007/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/039/G103924/20261007007/SS/028.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/039/G103924/20261007007/SS/028.jpg"/></item>
 <item><title>「箱を開けたらAIエージェント」の時代に！PCを変えるNVIDIA RTX Sparkをライブで実機解説【10月16日(金)21時配信】</title><link>https://pc.watch.impress.co.jp/docs/news/2148874.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2148874.html</guid><pubDate>Fri, 16 Oct 2026 08:06:29 +0000</pubDate><description><![CDATA[<p>「箱を開けたらAIエージェント」の時代に！PCを変えるNVIDIA RTX Sparkをライブで実機解説【10月16日(金)21時配信】
 
 NVIDIAが投入した高性能SoC「RTX Spark N1X」を搭載したWindows機がついに発売されます。N1XはAI処理向けに設計された仕様で、高性能GPUを統合し、メモリは最大128GB搭載可能。同時にWindows 11もAI向けに大幅なアップデートを果たし、エージェントAIが一気に身近になりました。
@@ -2409,6 +2678,15 @@ Xboxのワイヤレスコントローラーは、Xbox本体だけでなくPCや�
 Microsoftは、低年齢のプレイヤーや手の小さい人、外出先でのプレイに向くとしており、リビングでの最大4人のローカル協力プレイの例として『Minecraft Dungeons II』を挙げています。
 
 発売されるのは日本や米国、英国など36の…</p><p><img src="https://smhn.info/wp-content/uploads/2026/10/capture_20261015_214119_222_61C407.webp" alt="ポケットに入る史上最小のXBOX Nano コントローラー登場！価格8000円"></p>]]></description><source url="https://smhn.info/202610-microsoft-xbox-nano-controller-announced-japan">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/10/capture_20261015_214119_222_61C407.webp" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/10/capture_20261015_214119_222_61C407.webp"/></item>
+<item><title>【笠原一輝のユビキタス情報局】買ったらすぐローカルエージェント型AIが始められるRTX Spark N1Xのすべて</title><link>https://pc.watch.impress.co.jp/docs/column/ubiq/2148478.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/column/ubiq/2148478.html</guid><pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>【笠原一輝のユビキタス情報局】買ったらすぐローカルエージェント型AIが始められるRTX Spark N1Xのすべて
+
+NVIDIAは10月15日(現地時間)、「RTX Spark N1X」の詳細を明らかにした。TSMC 3nmで製造されるCPUダイとGPUダイの2チップで構成されるチップレット構造。CPUダイはMediaTekがカスタム設計したもので、10コアのCortex-X925と10コアのCortex-A725から構成された20コアCPUを搭載する。32MB(16MB×2)のL3キャッシュと256bit/16チャンネルのメモリコントローラを備えており、LPDDR5X-9400を利用すると300GB/sの帯域幅を実現する。GPUダイは48SM/6,144CUDAコアの構成で、24MBのL2キャッシュと、CPUに接続するためのNVLink C2Cを備えている。
+
+買ったらすぐローカルエージェント型AIが始められるRTX Spark N1Xのすべて
+
+NVIDIAは10月15日(現地時間)、「RTX Spark N1X」の詳細を明らかにした。TSMC 3nmで製造されるCPUダイとGPUダイの2チップで構成されるチップレット構造。CPUダイはMediaTekがカスタム設計したもので、10コアのCortex-X925と10コアのCortex-A725から構成された20コアCPUを搭載する。32MB(16MB×2)のL3キャッシュと256bit/16チャンネルのメモリコントローラを備えており、LPDDR5X-9400を利用すると300GB/sの帯域幅を実現する。GPUダイは48SM/6,144CUDAコアの構成で、24MBのL2キャッシュと、CPUに接続するためのNVLink C2Cを備えている。
+
+CPUとGPUの2つのチップを合わせたcTDP(Configurable TD…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2148/478/001.jpg" alt="【笠原一輝のユビキタス情報局】買ったらすぐローカルエージェント型AIが始められるRTX Spark N1Xのすべて"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/column/ubiq/2148478.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2148/478/001.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2148/478/001.jpg"/></item>
 <item><title>100万円でも即売り切れ。NVIDIA「RTX Spark」に触れて分かった、可能性と難しさ</title><link>https://pc.watch.impress.co.jp/docs/news/2148163.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2148163.html</guid><pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>100万円でも即売り切れ。NVIDIA「RTX Spark」に触れて分かった、可能性と難しさ
 
 「RTX Sparkは、エージェントAI時代に求められるPCの姿を先取りしたもの」。これは、RTX Sparkの技術説明会に参加して筆者がユーザー視点で感じたことだ。しかし同時に、まったく新しい価値観、まったく新しい使い方を提案する製品であるがゆえに、記者視点では、この製品の姿を伝えるのが難しいとも感じた。
@@ -2426,15 +2704,6 @@ NVIDIAがサンフランシスコで10月8日(現地時間)に開催した技術
 NVIDIAは、その前日に正式発表されたMicrosoftの「Surface Laptop Ultra」を始めとしたPCに、SoCとしてRTX Spark(コードネームN1X)を提供している。NVIDIAがWindows向けSoCを開発するのは13年ぶりだ。ただ、新しいチップを作っただけでWindows PCの新しい始まりを宣言するのは、やや誇大表現に見えるかもしれない。
 
 だが、RTX Sparkの真の姿は単なるSoC…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2148/163/01.jpg" alt="100万円でも即売り切れ。NVIDIA「RTX Spark」に触れて分かった、可能性と難しさ"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2148163.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2148/163/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2148/163/01.jpg"/></item>
-<item><title>【笠原一輝のユビキタス情報局】買ったらすぐローカルエージェント型AIが始められるRTX Spark N1Xのすべて</title><link>https://pc.watch.impress.co.jp/docs/column/ubiq/2148478.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/column/ubiq/2148478.html</guid><pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>【笠原一輝のユビキタス情報局】買ったらすぐローカルエージェント型AIが始められるRTX Spark N1Xのすべて
-
-NVIDIAは10月15日(現地時間)、「RTX Spark N1X」の詳細を明らかにした。TSMC 3nmで製造されるCPUダイとGPUダイの2チップで構成されるチップレット構造。CPUダイはMediaTekがカスタム設計したもので、10コアのCortex-X925と10コアのCortex-A725から構成された20コアCPUを搭載する。32MB(16MB×2)のL3キャッシュと256bit/16チャンネルのメモリコントローラを備えており、LPDDR5X-9400を利用すると300GB/sの帯域幅を実現する。GPUダイは48SM/6,144CUDAコアの構成で、24MBのL2キャッシュと、CPUに接続するためのNVLink C2Cを備えている。
-
-買ったらすぐローカルエージェント型AIが始められるRTX Spark N1Xのすべて
-
-NVIDIAは10月15日(現地時間)、「RTX Spark N1X」の詳細を明らかにした。TSMC 3nmで製造されるCPUダイとGPUダイの2チップで構成されるチップレット構造。CPUダイはMediaTekがカスタム設計したもので、10コアのCortex-X925と10コアのCortex-A725から構成された20コアCPUを搭載する。32MB(16MB×2)のL3キャッシュと256bit/16チャンネルのメモリコントローラを備えており、LPDDR5X-9400を利用すると300GB/sの帯域幅を実現する。GPUダイは48SM/6,144CUDAコアの構成で、24MBのL2キャッシュと、CPUに接続するためのNVLink C2Cを備えている。
-
-CPUとGPUの2つのチップを合わせたcTDP(Configurable TD…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2148/478/001.jpg" alt="【笠原一輝のユビキタス情報局】買ったらすぐローカルエージェント型AIが始められるRTX Spark N1Xのすべて"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/column/ubiq/2148478.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2148/478/001.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2148/478/001.jpg"/></item>
 <item><title>【プロダクトレビュー・ショーケース】【特別編】RTX Sparkは「AIもゲームも1台で」を狙う新世代Windows SoC。NVIDIAが示したエージェントPCの全貌RTX Spark Editor&#39;s Day &amp; RTX Spark搭載機の最新情報をレポート text by 芹澤 正芳</title><link>https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2148561.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2148561.html</guid><pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>【プロダクトレビュー・ショーケース】【特別編】RTX Sparkは「AIもゲームも1台で」を狙う新世代Windows SoC。NVIDIAが示したエージェントPCの全貌RTX Spark Editor&#39;s Day &amp; RTX Spark搭載機の最新情報をレポート text by 芹澤 正芳
 
 NVIDIAはアメリカのサンフランシスコでプレス向けイベント「RTX Spark Editor&#39;s Day」を開催し、Windows PC向けの新プラットフォーム「NVIDIA RTX Spark」の詳細を公開した。RTX Sparkは、Blackwell世代のRTX GPUとArmベースのGrace CPU、最大128GBのユニファイドメモリを1つのパッケージに統合したSoCだ。
@@ -2893,6 +3162,17 @@ AIに“生命”宿る。IoT家電で自己複製し始める可能性が急浮
 主な仕様は、動作クロックが1,777MHz（Boost）、メモリ容量がGDDR6 12GB（192bit）、メモリクロックが15Gbps。映像出力端子はDisplayPort 1.4a×3、HDMI 2.1×1。補助電源は8ピン×1、推奨電源は550W。本体サイズは253.4×132.5×41mm（ブラケット含む）。
 
 GeForce RTX 3060関連製品 Amazonで購入 楽天で購入</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/169/a1.jpg" alt="デュアルファン仕様のGeForce RTX 3060がColorfulから"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2148169.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/169/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/169/a1.jpg"/></item>
+<item><title>Core i5-1135G7搭載の13.3型ノートPC「dynabook G83/HS」が37,400円、Qualitの中古訳あり品セール</title><link>https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2148183.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2148183.html</guid><pubDate>Thu, 15 Oct 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>Core i5-1135G7搭載の13.3型ノートPC「dynabook G83/HS」が37,400円、Qualitの中古訳あり品セール
+
+Core i5-1135G7(4コア/8スレッド)を搭載したDynabook製13.3型ノートPC「dynabook G83/HS」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で特価販売中。
+
+Core i5-1135G7搭載の13.3型ノートPC「dynabook G83/HS」が37,400円、Qualitの中古訳あり品セール
+
+Core i5-1135G7(4コア/8スレッド)を搭載したDynabook製13.3型ノートPC「dynabook G83/HS」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で特価販売中 。
+
+今回販売されているのは、「外観ランク基準はQualitの基準外だが、動作は正常確認済み」という訳あり中古品で、販売価格は37,400円。保証期間は出荷日から起算して10日間。
+
+主な仕様は、ディスプレイ解像度が1,920×1,080ドット、メモリが8GB、ストレージが256GB SSD、OSがWindows 11 Pro。インターフェイスには、HDMIやThunderbolt 4(USB-C)などを備えるほか、Webカメラや無線LAN機能を搭載しています。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/183/a1.jpg" alt="Core i5-1135G7搭載の13.3型ノートPC「dynabook G83/HS」が37,400円、Qualitの中古訳あり品セール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2148183.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/183/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/183/a1.jpg"/></item>
 <item><title>�����ʤ��Τ��ͤ������Ǥ⡤�������ȡȼ�ʬ�Υ������ɤˤʤ롣���ʥ��᤬��DRAPLINE�פ˻����������������ޤǻȤäƤ��ʤ��ä������Ф�</title><link>https://www.4gamer.net/games/921/G092147/20261007001/</link><guid isPermaLink="true">https://www.4gamer.net/games/921/G092147/20261007001/</guid><pubDate>Thu, 15 Oct 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>�����ʤ��Τ��ͤ������Ǥ⡤�������ȡȼ�ʬ�Υ������ɤˤʤ롣���ʥ��᤬��DRAPLINE�פ˻����������������ޤǻȤäƤ��ʤ��ä������Ф�
 
 7年間の連載を終えた「被虐のノエル」ののちにカナヲ氏が手がけたのは，ドラゴンの娘を育てるローグライトな育成RPGだった。予想を超える早期アクセスの反響，RPGツクールを使い続ける理由。自分の“好き”…
@@ -2925,17 +3205,6 @@ iPhone Duoは買うべき？見送るべき？予約前に確かめたい5つの
 キャリアの実質価格は、2年前後で端末を返す前提の金額です。ドコモは23か月目、auは25か月目までに返却し、ソフトバンクは25か月目に買い替える条件です。返さずに使い続けるなら、一括価格との差額を払うことになります。
 
 Apple Storeでドコモ（ahamoを含む）・ソフトバンクの回線契約と一緒に買うと8,800円、オンラインで乗り換えると20,000円の割引があります。各社の条件は iPhone Duo 予約ガイド と各社の記事にまとめて…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/10/thumb_duo_buy_or_skip_20261015.png" alt="iPhone Duoは買うべき？見送るべき？予約前に確かめたい5つのこと"></p>]]></description><source url="https://iphone-mania.jp/iphone18-607467/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/10/thumb_duo_buy_or_skip_20261015.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/10/thumb_duo_buy_or_skip_20261015.png"/></item>
-<item><title>Core i5-1135G7搭載の13.3型ノートPC「dynabook G83/HS」が37,400円、Qualitの中古訳あり品セール</title><link>https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2148183.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2148183.html</guid><pubDate>Thu, 15 Oct 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>Core i5-1135G7搭載の13.3型ノートPC「dynabook G83/HS」が37,400円、Qualitの中古訳あり品セール
-
-Core i5-1135G7(4コア/8スレッド)を搭載したDynabook製13.3型ノートPC「dynabook G83/HS」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で特価販売中。
-
-Core i5-1135G7搭載の13.3型ノートPC「dynabook G83/HS」が37,400円、Qualitの中古訳あり品セール
-
-Core i5-1135G7(4コア/8スレッド)を搭載したDynabook製13.3型ノートPC「dynabook G83/HS」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で特価販売中 。
-
-今回販売されているのは、「外観ランク基準はQualitの基準外だが、動作は正常確認済み」という訳あり中古品で、販売価格は37,400円。保証期間は出荷日から起算して10日間。
-
-主な仕様は、ディスプレイ解像度が1,920×1,080ドット、メモリが8GB、ストレージが256GB SSD、OSがWindows 11 Pro。インターフェイスには、HDMIやThunderbolt 4(USB-C)などを備えるほか、Webカメラや無線LAN機能を搭載しています。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/183/a1.jpg" alt="Core i5-1135G7搭載の13.3型ノートPC「dynabook G83/HS」が37,400円、Qualitの中古訳あり品セール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2148183.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/183/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/183/a1.jpg"/></item>
 <item><title>開けばオン、閉じれば約7cmに縮んでオフ。スライド式静音マウス</title><link>https://pc.watch.impress.co.jp/docs/news/2148282.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2148282.html</guid><pubDate>Thu, 15 Oct 2026 02:54:04 +0000</pubDate><description><![CDATA[<p>開けばオン、閉じれば約7cmに縮んでオフ。スライド式静音マウス
 
 サンワサプライは10月14日、持ち運びに便利なスライド式カバーを備えたワイヤレスマウス「MA-WBBS526」シリーズを発売した。カラーはブルーとグレーの2種類で、直販価格はいずれも4,780円。
@@ -3407,6 +3676,15 @@ AirPods 5を動画撮影用のワイヤレスマイクとして使ってみた
 AirPods 5は、標準モデルが2万3,800円、ワイヤレス充電ケース付きモデルが2万7,800円。従来のAirPods 4はANCの有無でモデルが分けられていたが、AirPods 5では両モデルともANCに対応している。
 
 音質やANC性能は共通だが、ワイヤレス充電ケース付きモデルのみ、イヤフォンの軸を上下にスワイプすることによる音量調節機能に対応。また、ANC有効時の連続再生時間も標準モデルの最大4時間に対し、…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2147/393/PH01.jpg" alt="【やじうまミニレビュー】AirPods 5のノイキャン、耳をふさがずエアコン音がほぼ消失。これは新基準になる"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2147393.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2147/393/PH01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2147/393/PH01.jpg"/></item>
+<item><title>ガチくんに! 第434回切り抜き「もはや珍回答にすら届かない……波乱続きの学力テスト(後編)」</title><link>https://pc.watch.impress.co.jp/docs/news/2148210.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2148210.html</guid><pubDate>Wed, 14 Oct 2026 21:00:00 +0000</pubDate><description><![CDATA[<p>ガチくんに! 第434回切り抜き「もはや珍回答にすら届かない……波乱続きの学力テスト(後編)」
+
+※毎週木曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイター6攻略企画「ガチくんに!」をTwitchとYouTubeで配信しています。レギュラー出演者はぷげら、奥村茉実。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードした切り抜きとアーカイブの動画を掲載しています。
+
+ガチくんに! 第434回切り抜き「もはや珍回答にすら届かない……波乱続きの学力テスト(後編)」
+
+※毎週木曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイター6攻略企画「ガチくんに!」を Twitch と YouTube で配信しています。レギュラー出演者はぷげら、奥村茉実。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードした切り抜きとアーカイブの動画を掲載しています。
+
+9月24日に配信を行なった、ガチくん、さはらさん、りゅうきちさんの三英傑による学力テストの模様から、後半戦の模様を切り抜き動画でお届けします。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2148/210/01.jpg" alt="ガチくんに! 第434回切り抜き「もはや珍回答にすら届かない……波乱続きの学力テスト(後編)」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2148210.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2148/210/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2148/210/01.jpg"/></item>
 <item><title>【Mac Info】Safariの機能拡張が文章で作れる！macOS 27の新機能</title><link>https://pc.watch.impress.co.jp/docs/column/macinfo/2148205.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/column/macinfo/2148205.html</guid><pubDate>Wed, 14 Oct 2026 21:00:00 +0000</pubDate><description><![CDATA[<p>【Mac Info】Safariの機能拡張が文章で作れる！macOS 27の新機能
 
 macOS 27 Golden GateのSafariには、Apple Intelligenceを活用してカスタム機能拡張を作成できる「機能拡張を説明」が追加されました。作りたい機能を自然な言葉で入力するだけで、SafariがApp Storeから同様の機能拡張を探し、見つからなければ目的に合ったものを作成できます。この記事では、カスタム機能拡張の作成方法から、作成後の編集・管理方法、利用する際の注意点まで詳しく解説します。
@@ -3422,15 +3700,6 @@ Webページの表示をカスタマイズしたり、特定の操作を自動�
 これまで機能拡張はApp Storeからインストールするのが一般的でしたが、macOS 27 Golden Gate(以下、macOS 27)では、提案されたカテゴリから選択したり、自然な言葉で説明したりするだけで作成できるようになりました。
 
 たとえば、「このページ用に3分間の集中モードタイマーを作成する」「機能拡張をクリックしたときに、同じU…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2148/205/image05.png" alt="【Mac Info】Safariの機能拡張が文章で作れる！macOS 27の新機能"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/column/macinfo/2148205.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2148/205/image05.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2148/205/image05.png"/></item>
-<item><title>ガチくんに! 第434回切り抜き「もはや珍回答にすら届かない……波乱続きの学力テスト(後編)」</title><link>https://pc.watch.impress.co.jp/docs/news/2148210.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2148210.html</guid><pubDate>Wed, 14 Oct 2026 21:00:00 +0000</pubDate><description><![CDATA[<p>ガチくんに! 第434回切り抜き「もはや珍回答にすら届かない……波乱続きの学力テスト(後編)」
-
-※毎週木曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイター6攻略企画「ガチくんに!」をTwitchとYouTubeで配信しています。レギュラー出演者はぷげら、奥村茉実。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードした切り抜きとアーカイブの動画を掲載しています。
-
-ガチくんに! 第434回切り抜き「もはや珍回答にすら届かない……波乱続きの学力テスト(後編)」
-
-※毎週木曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイター6攻略企画「ガチくんに!」を Twitch と YouTube で配信しています。レギュラー出演者はぷげら、奥村茉実。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードした切り抜きとアーカイブの動画を掲載しています。
-
-9月24日に配信を行なった、ガチくん、さはらさん、りゅうきちさんの三英傑による学力テストの模様から、後半戦の模様を切り抜き動画でお届けします。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2148/210/01.jpg" alt="ガチくんに! 第434回切り抜き「もはや珍回答にすら届かない……波乱続きの学力テスト(後編)」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2148210.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2148/210/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2148/210/01.jpg"/></item>
 <item><title>ネットワーク・インターネットに接続できない不具合。Wi-Fi、有線LANの認証が機能しなくなる。KB5127648インストール後に発生 ［Update 1］</title><link>https://www.nichepcgamer.com/archives/post-133101.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/post-133101.html</guid><pubDate>Wed, 14 Oct 2026 17:00:23 +0000</pubDate><description><![CDATA[<p>ネットワーク・インターネットに接続できない不具合。Wi-Fi、有線LANの認証が機能しなくなる。KB5127648インストール後に発生 ［Update 1］
 
 Windows11環境において、ネットワーク・インターネットに接続できなくなったとの不具合報告が出ています。 更新履歴 ［記事初公開日: 2026/10/15］ ① 記事下部に『追加情報』の項目を加...
@@ -5606,17 +5875,6 @@ dotsは、同社のAIモデルであるGPT-6 Astraを搭載したAIエージェ�
 そのほか、ブラウジングの高速化とスクロールのスムーズ化、不要な通知の削減、コードブロックと添付ファイルの表示改善、Outlookセットアップの改良、計画の表示改善と読み込み失敗時の再試行対応、Webおよび音声でのEnterpriseアクセスの信頼性向上なども図った。
 
 Fresh updates for dots. First up: you can now create your dot straight from your phone in the ChatGPT app on iOS and Android. https://t.co/ZHOqBx6tLI</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2147/525/01.jpg" alt="ChatGPTのdotsがスマホからも作成可能に。Codexとの連携も強化"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2147525.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2147/525/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2147/525/01.jpg"/></item>
-<item><title>DELL製ミニPCが26,400円、Core i5-8500Tや256GB SSD搭載の中古Cランク品がQualitでセール</title><link>https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2146936.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2146936.html</guid><pubDate>Tue, 13 Oct 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>DELL製ミニPCが26,400円、Core i5-8500Tや256GB SSD搭載の中古Cランク品がQualitでセール
-
-Core i5-8500T(6コア/6スレッド)を搭載したDELL製ミニPC「Optiplex 7070 2100Micro」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で特価販売中。
-
-DELL製ミニPCが26,400円、Core i5-8500Tや256GB SSD搭載の中古Cランク品がQualitでセール
-
-Core i5-8500T(6コア/6スレッド)を搭載したDELL製ミニPC「Optiplex 7070 2100Micro」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で特価販売中 。
-
-今回販売されているのは、「傷や使用感が見られる」(同店)というCランク中古品で、販売価格は26,400円。保証期間は12か月となっています。
-
-主な仕様は、メモリが8GB(空きスロット×0)、ストレージが256GB SSD、OSがWindows 11 Pro。インターフェイスには、DisplayPort×2やVGA、USB Type-Cなどを備えています。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2146/936/a1.jpg" alt="DELL製ミニPCが26,400円、Core i5-8500Tや256GB SSD搭載の中古Cランク品がQualitでセール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2146936.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2146/936/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2146/936/a1.jpg"/></item>
 <item><title>【独自調査結果】iPhone Duoを予約開始日に予約は71.5％ 欲しい人は79.7％</title><link>https://iphone-mania.jp/iphone18-607367/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-607367/</guid><pubDate>Tue, 13 Oct 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>【独自調査結果】iPhone Duoを予約開始日に予約は71.5％ 欲しい人は79.7％
 
 iPhone Maniaでは、10月16日（金）午後9時に予約が始まるApple初の折りたたみiPhone「iPhone
@@ -5638,6 +5896,17 @@ iPhone Maniaでは、10月16日（金）午後9時に予約が始まるApple初�
 買う場所は「Appleオンラインストア（配送で受け取る）」が最多
 
 …</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/10/survey_result_8th.png" alt="【独自調査結果】iPhone Duoを予約開始日に予約は71.5％ 欲しい人は79.7％"></p>]]></description><source url="https://iphone-mania.jp/iphone18-607367/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/10/survey_result_8th.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/10/survey_result_8th.png"/></item>
+<item><title>DELL製ミニPCが26,400円、Core i5-8500Tや256GB SSD搭載の中古Cランク品がQualitでセール</title><link>https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2146936.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2146936.html</guid><pubDate>Tue, 13 Oct 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>DELL製ミニPCが26,400円、Core i5-8500Tや256GB SSD搭載の中古Cランク品がQualitでセール
+
+Core i5-8500T(6コア/6スレッド)を搭載したDELL製ミニPC「Optiplex 7070 2100Micro」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で特価販売中。
+
+DELL製ミニPCが26,400円、Core i5-8500Tや256GB SSD搭載の中古Cランク品がQualitでセール
+
+Core i5-8500T(6コア/6スレッド)を搭載したDELL製ミニPC「Optiplex 7070 2100Micro」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で特価販売中 。
+
+今回販売されているのは、「傷や使用感が見られる」(同店)というCランク中古品で、販売価格は26,400円。保証期間は12か月となっています。
+
+主な仕様は、メモリが8GB(空きスロット×0)、ストレージが256GB SSD、OSがWindows 11 Pro。インターフェイスには、DisplayPort×2やVGA、USB Type-Cなどを備えています。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2146/936/a1.jpg" alt="DELL製ミニPCが26,400円、Core i5-8500Tや256GB SSD搭載の中古Cランク品がQualitでセール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2146936.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2146/936/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2146/936/a1.jpg"/></item>
 <item><title>ChatGPT、またリセット予告。16時頃までに利用枠回復</title><link>https://pc.watch.impress.co.jp/docs/news/2147518.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2147518.html</guid><pubDate>Tue, 13 Oct 2026 02:57:16 +0000</pubDate><description><![CDATA[<p>ChatGPT、またリセット予告。16時頃までに利用枠回復
 
 この3日間で2回目のリセットだ。OpenAIでCodexとChatGPTを担当するThibault Sottiaux(ティボー・ソティオ)氏が10月13日(日本時間)、全ユーザーの利用枠リセットを同日中に実施するとX(旧Twitter)で告知した。
@@ -6495,6 +6764,19 @@ Amazon の プライム会員 向けビッグセール「 プライム感謝祭 
 セール参加にあたり、 プライム会員 の登録は必須として、 ポイントアップキャンペーン＆大抽選会 へのエントリーも必須。 その他お得な期間限定キャンペーン もチェックしておこう。
 
 本記事では、 セール会場で Amazon が推している注目アイテム 、購入前に やるべき事前準備 などをまとめた。ビッグセールを最大限活用するために、参考にしてもら…</p><p><img src="https://gori.me/uploads/2026/06/Amazon-PrimeDay-2026-official-release-02.jpg" alt="Amazonプライム感謝祭2026、先行セール開始。対象は昨年の倍、今年は買い時多数"></p>]]></description><source url="https://gori.me/amazon/amazon-sale/171169">gori.me</source><media:content url="https://gori.me/uploads/2026/06/Amazon-PrimeDay-2026-official-release-02.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/06/Amazon-PrimeDay-2026-official-release-02.jpg"/></item>
+<item><title>【プロダクトレビュー・ショーケース】128GBメモリを搭載するMSIの小型AIマシン「EdgeXpert」を試す――今こそ知っておきたい「DGX Spark」とはGeForce RTX 5090搭載PCとの違いをローカルAIやエージェント用途から考える text by 芹澤 正芳</title><link>https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2147403.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2147403.html</guid><pubDate>Mon, 12 Oct 2026 15:00:00 +0000</pubDate><description><![CDATA[<p>【プロダクトレビュー・ショーケース】128GBメモリを搭載するMSIの小型AIマシン「EdgeXpert」を試す――今こそ知っておきたい「DGX Spark」とはGeForce RTX 5090搭載PCとの違いをローカルAIやエージェント用途から考える text by 芹澤 正芳
+
+ChatGPTをはじめとするクラウド型の生成AIは、PCやスマートフォンから手軽に利用できる。その一方で、仕事の資料をどこまで送ってよいのか、月額料金や利用上限をどう考えるのか、という悩みもある。AIに大量の文書を読ませたり、納得できるまで何度も処理をやり直したりするようになると、この2つは無視しにくい。
+
+128GBメモリを搭載するMSIの小型AIマシン「EdgeXpert」を試す――今こそ知っておきたい「DGX Spark」とは
+
+GeForce RTX 5090搭載PCとの違いをローカルAIやエージェント用途から考える text by 芹澤 正芳
+
+ChatGPTをはじめとするクラウド型の生成AIは、PCやスマートフォンから手軽に利用できる。その一方で、仕事の資料をどこまで送ってよいのか、月額料金や利用上限をどう考えるのか、という悩みもある。AIに大量の文書を読ませたり、納得できるまで何度も処理をやり直したりするようになると、この2つは無視しにくい。
+
+そこで注目されているのが、AIモデルを手元のマシンで動かす「ローカルAI」で、これを運用する環境として強力な候補に挙がるのが、NVIDIA「DGX Spark」だ。
+
+AI処理というと、とにかくハイエンドGPUを搭載したPCが必須と考えるところだが、DGX Sparkは一般的なハイエンドPCとは設計思想が異なる。GeForce RTX 5090のようにVRAMへ収まる処理をとにかく高速に実行するというものではなく、大容量の128GB統合メモ…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2147/403/top.jpg" alt="【プロダクトレビュー・ショーケース】128GBメモリを搭載するMSIの小型AIマシン「EdgeXpert」を試す――今こそ知っておきたい「DGX Spark」とはGeForce RTX 5090搭載PCとの違いをローカルAIやエージェント用途から考える text by 芹澤 正芳"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2147403.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2147/403/top.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2147/403/top.jpg"/></item>
 <item><title>金属シェル採用の軽量ゲーミングマウス「Huan M」がWLMOUSEから</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2146575.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2146575.html</guid><pubDate>Mon, 12 Oct 2026 15:00:00 +0000</pubDate><description><![CDATA[<p>金属シェル採用の軽量ゲーミングマウス「Huan M」がWLMOUSEから
 
 金属シェルを採用した軽量設計のゲーミングマウス「Huan M（幻M）」がWLMOUSEから登場した。
@@ -6516,19 +6798,6 @@ Huan Mは、高剛性と軽さを両立した設計を実現したという有�
 MCUもNordic 54H20へ刷新され、有線/無線接続ともに8Kポーリングに対応する。メインボタンスイッチはオムロン製光学スイッチで、ホイールエンコーダーはTTC防塵シルバー。
 
 画面付き8Kドングルが付属しており、DPIやポーリングレートなど各種情報を表示したり、好みの画像の表示も可能。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2146/575/s1.jpg" alt="金属シェル採用の軽量ゲーミングマウス「Huan M」がWLMOUSEから"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2146575.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2146/575/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2146/575/s1.jpg"/></item>
-<item><title>【プロダクトレビュー・ショーケース】128GBメモリを搭載するMSIの小型AIマシン「EdgeXpert」を試す――今こそ知っておきたい「DGX Spark」とはGeForce RTX 5090搭載PCとの違いをローカルAIやエージェント用途から考える text by 芹澤 正芳</title><link>https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2147403.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2147403.html</guid><pubDate>Mon, 12 Oct 2026 15:00:00 +0000</pubDate><description><![CDATA[<p>【プロダクトレビュー・ショーケース】128GBメモリを搭載するMSIの小型AIマシン「EdgeXpert」を試す――今こそ知っておきたい「DGX Spark」とはGeForce RTX 5090搭載PCとの違いをローカルAIやエージェント用途から考える text by 芹澤 正芳
-
-ChatGPTをはじめとするクラウド型の生成AIは、PCやスマートフォンから手軽に利用できる。その一方で、仕事の資料をどこまで送ってよいのか、月額料金や利用上限をどう考えるのか、という悩みもある。AIに大量の文書を読ませたり、納得できるまで何度も処理をやり直したりするようになると、この2つは無視しにくい。
-
-128GBメモリを搭載するMSIの小型AIマシン「EdgeXpert」を試す――今こそ知っておきたい「DGX Spark」とは
-
-GeForce RTX 5090搭載PCとの違いをローカルAIやエージェント用途から考える text by 芹澤 正芳
-
-ChatGPTをはじめとするクラウド型の生成AIは、PCやスマートフォンから手軽に利用できる。その一方で、仕事の資料をどこまで送ってよいのか、月額料金や利用上限をどう考えるのか、という悩みもある。AIに大量の文書を読ませたり、納得できるまで何度も処理をやり直したりするようになると、この2つは無視しにくい。
-
-そこで注目されているのが、AIモデルを手元のマシンで動かす「ローカルAI」で、これを運用する環境として強力な候補に挙がるのが、NVIDIA「DGX Spark」だ。
-
-AI処理というと、とにかくハイエンドGPUを搭載したPCが必須と考えるところだが、DGX Sparkは一般的なハイエンドPCとは設計思想が異なる。GeForce RTX 5090のようにVRAMへ収まる処理をとにかく高速に実行するというものではなく、大容量の128GB統合メモ…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2147/403/top.jpg" alt="【プロダクトレビュー・ショーケース】128GBメモリを搭載するMSIの小型AIマシン「EdgeXpert」を試す――今こそ知っておきたい「DGX Spark」とはGeForce RTX 5090搭載PCとの違いをローカルAIやエージェント用途から考える text by 芹澤 正芳"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2147403.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2147/403/top.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2147/403/top.jpg"/></item>
 <item><title>Kindle本の14周年記念セール、3万点以上が最大70%オフ。Pythonや生成AIの解説書も1000円前後から</title><link>https://smhn.info/202610-kindle-14th-anniversary-sale-2026</link><guid isPermaLink="true">https://smhn.info/202610-kindle-14th-anniversary-sale-2026</guid><pubDate>Mon, 12 Oct 2026 14:22:26 +0000</pubDate><description><![CDATA[<p>Kindle本の14周年記念セール、3万点以上が最大70%オフ。Pythonや生成AIの解説書も1000円前後から
 
 Amazonは、日本のKindleストアが14周年を迎えることを記念した「Kindle本 14周年記念セール」を開催しています。3万点以上のKindle本が最大70%オフとなり、期間は10月22日まで。小説や実用書、マンガなど幅広いジャンルが対象で、コンピュータ・IT関連の解説書...
@@ -6595,6 +6864,21 @@ iPhone Air や iPad Air（M4） 、 Apple Watch Series 11 が、 Amazonプライ
 開催期間は、 先行セール が10月13日（火）0時〜15日（木）23時59分、 本セール が10月16日（金）0時〜19日（月）23時59分だ。合わせて7日間ある。
 
 M4チップ を積んだ iPad Air（M4） は、Appleが2026年3月4日に予約を始め、3月11日に発売したモデルだ。Appleの発表では、11インチモデルは98,800円（税込）からとなってい…</p><p><img src="https://gori.me/uploads/2026/10/jaime-marrero-zIxU7OhYL_s-unsplash.jpg" alt="Amazonプライム感謝祭で「絶対安くなるApple製品」はこちらです"></p>]]></description><source url="https://gori.me/amazon/amazon-sale/171168">gori.me</source><media:content url="https://gori.me/uploads/2026/10/jaime-marrero-zIxU7OhYL_s-unsplash.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/10/jaime-marrero-zIxU7OhYL_s-unsplash.jpg"/></item>
+<item><title>ついに実機を入手！Surface Laptop UltraとProArt P16開封の儀</title><link>https://pc.watch.impress.co.jp/docs/news/2147419.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2147419.html</guid><pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>ついに実機を入手！Surface Laptop UltraとProArt P16開封の儀
+
+既報の通り、NVIDIAのSoC「RTX Spark」を搭載したPCが各社から正式発表された。それを受け、Microsoftの「Surface Laptop Ultra」とASUSの「ProArt P16(H7607)」の開封の儀を行なう機会を得た。詳細なレビューはもう少々お待ちいただきたい。
+
+ついに実機を入手！Surface Laptop UltraとProArt P16開封の儀
+
+既報の通り、NVIDIAのSoC「RTX Spark」を搭載したPCが各社から正式発表された。それを受け、Microsoftの「Surface Laptop Ultra」とASUSの「ProArt P16(H7607)」の開封の儀を行なう機会を得た。詳細なレビューはもう少々お待ちいただきたい。
+
+Surface Laptop Ultraは、SoCにNVIDIA RTX Sparkを搭載するほか、24GB～128GBのメモリ、512GB～2TBのSSDで、タッチ対応の15型PixelSense Ultra(3,270×2,180ドット/120Hz)ディスプレイを採用し、重量は約2kgとなる。
+
+Surface Laptop Ultraの「マグネット式USB-C」、通常ケーブルも使える (2026/10/8)
+
+ProArt P16(H7607)のハードウェアスペックはSurface Laptop Ultraとほぼ共通。ディスプレイは異なり、3,840×2,400ドットか2,880×1,800ドット表示/120Hz/タッチ対応の16型OLEDを選択可能。なお、ASUSからは14型のProArt P14(H7407)も発表されている。
+
+RTX Sparkが10月下旬に国内発売！ASUS、ProArtノート2機種 (2026/10/8)</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2147/419/00.jpg" alt="ついに実機を入手！Surface Laptop UltraとProArt P16開封の儀"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2147419.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2147/419/00.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2147/419/00.jpg"/></item>
 <item><title>【プロダクトレビュー・ショーケース】RTX Sparkの実機がやってきた！サンフランシスコの青空の下で“開封の儀”に臨むMicrosoft Surface Laptop、ASUS ProArtのRTX Spark搭載モデル text by 芹澤 正芳</title><link>https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2147426.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2147426.html</guid><pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>【プロダクトレビュー・ショーケース】RTX Sparkの実機がやってきた！サンフランシスコの青空の下で“開封の儀”に臨むMicrosoft Surface Laptop、ASUS ProArtのRTX Spark搭載モデル text by 芹澤 正芳
 
 2026年10月7日（米国時間）、MicrosoftはNVIDIA RTX Sparkを搭載する新Surfaceを正式に発表、同時に各PCメーカーからも発売がアナウンスされた。国内でも10月16日より、各PCメーカーから順次発売が予定されている。
@@ -6612,21 +6896,6 @@ ArmベースのCPU+NVIDIA最新のGPUに統合メモリをたっぷり搭載 い
 RTX Sparkは、NVIDIAが2026年5月31日、COMPUTEX TAIPEIに合わせて開催したGTC Taipeiで発表した、Windows PC向けの新しいSoC型プラットフォームのこと。MediaTekと共同設計したArmベースのGrace CPUと、Blackwell世代のRTX GPUをNVLink-C2Cで接続。CPUとGPUがLPDDR5Xのユニファイドメモリを共有する。
 
 CPU用メモリと単体GP…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2147/426/top.jpg" alt="【プロダクトレビュー・ショーケース】RTX Sparkの実機がやってきた！サンフランシスコの青空の下で“開封の儀”に臨むMicrosoft Surface Laptop、ASUS ProArtのRTX Spark搭載モデル text by 芹澤 正芳"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2147426.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2147/426/top.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2147/426/top.jpg"/></item>
-<item><title>ついに実機を入手！Surface Laptop UltraとProArt P16開封の儀</title><link>https://pc.watch.impress.co.jp/docs/news/2147419.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2147419.html</guid><pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>ついに実機を入手！Surface Laptop UltraとProArt P16開封の儀
-
-既報の通り、NVIDIAのSoC「RTX Spark」を搭載したPCが各社から正式発表された。それを受け、Microsoftの「Surface Laptop Ultra」とASUSの「ProArt P16(H7607)」の開封の儀を行なう機会を得た。詳細なレビューはもう少々お待ちいただきたい。
-
-ついに実機を入手！Surface Laptop UltraとProArt P16開封の儀
-
-既報の通り、NVIDIAのSoC「RTX Spark」を搭載したPCが各社から正式発表された。それを受け、Microsoftの「Surface Laptop Ultra」とASUSの「ProArt P16(H7607)」の開封の儀を行なう機会を得た。詳細なレビューはもう少々お待ちいただきたい。
-
-Surface Laptop Ultraは、SoCにNVIDIA RTX Sparkを搭載するほか、24GB～128GBのメモリ、512GB～2TBのSSDで、タッチ対応の15型PixelSense Ultra(3,270×2,180ドット/120Hz)ディスプレイを採用し、重量は約2kgとなる。
-
-Surface Laptop Ultraの「マグネット式USB-C」、通常ケーブルも使える (2026/10/8)
-
-ProArt P16(H7607)のハードウェアスペックはSurface Laptop Ultraとほぼ共通。ディスプレイは異なり、3,840×2,400ドットか2,880×1,800ドット表示/120Hz/タッチ対応の16型OLEDを選択可能。なお、ASUSからは14型のProArt P14(H7407)も発表されている。
-
-RTX Sparkが10月下旬に国内発売！ASUS、ProArtノート2機種 (2026/10/8)</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2147/419/00.jpg" alt="ついに実機を入手！Surface Laptop UltraとProArt P16開封の儀"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2147419.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2147/419/00.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2147/419/00.jpg"/></item>
 <item><title>新型iPad miniは約3.5万円値上げ？税込134,800円〜と試算</title><link>https://iphone-mania.jp/ipadmini-607349/</link><guid isPermaLink="true">https://iphone-mania.jp/ipadmini-607349/</guid><pubDate>Mon, 12 Oct 2026 11:18:47 +0000</pubDate><description><![CDATA[<p>新型iPad miniは約3.5万円値上げ？税込134,800円〜と試算
 
 2026年10月27日頃に発表されると噂の新型iPad miniの販売価格について、現行iPad mini（A17 Pro）より大幅に高くなり、米国では799ドル前後になる可能性をBloombergのマーク・ガーマン記者が示しています。
@@ -8535,189 +8804,4 @@ OneXPlayer X2 Airは、コントローラーやキーボードを着脱できる
 サイズは252×163×14mm（本体のみ）、本体重量は約837g。
 
 ONEXPLAY…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2147/197/s1.jpg" alt="Core Ultra 7 258V搭載になった10.95インチ3in1ポータブルゲーミングPC「OneXPlayer X2 Air」"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2147197.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2147/197/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2147/197/s1.jpg"/></item>
-<item><title>高速版「Qwen-Image-2.1-Turbo」重み公開、画像生成8ステップで完了</title><link>https://pc.watch.impress.co.jp/docs/news/2147316.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2147316.html</guid><pubDate>Fri, 09 Oct 2026 14:59:00 +0000</pubDate><description><![CDATA[<p>高速版「Qwen-Image-2.1-Turbo」重み公開、画像生成8ステップで完了
-
-画像の生成と編集を、わずか8ステップでこなすAIの高速版が無料でダウンロードできるようになった。AlibabaのAI開発チームQwenは10月9日(日本時間)、画像生成AI「Qwen-Image-2.1-Turbo」をオープンウェイト(モデルの重み)として公開した。配布先はHugging FaceとModelScopeだ。ただし、モデルを無償で利用できるのは研究・評価目的に限られ、商用利用には別途契約が必要。
-
-高速版「Qwen-Image-2.1-Turbo」重み公開、画像生成8ステップで完了
-
-画像の生成と編集を、わずか8ステップでこなすAIの高速版が無料でダウンロードできるようになった。AlibabaのAI開発チームQwenは10月9日(日本時間)、画像生成AI「Qwen-Image-2.1-Turbo」をオープンウェイト(モデルの重み)として公開した。配布先はHugging FaceとModelScopeだ。ただし、モデルを無償で利用できるのは研究・評価目的に限られ、商用利用には別途契約が必要。
-
-Qwen-Image-2.1-Turboは、9月20日に公開された画像生成AI「Qwen-Image-2.1」を高速化した派生モデルだ。文章からの画像生成と、入力した画像の編集を1つで扱う設計は元のQwen-Image-2.1と共通で、画像生成を担う部分のパラメータ数も同じ7B(70億)。
-
-ノイズを段階的に取り除いて画像を仕上げる「デノイジング」の工程を8ステップに抑えた。元モデルのサンプルコードが40ステップを前提とするのに対し、5分の1の工程で、文章から2K解像度の画像を生成する品質は保っているという。生成サイズは正方形で2,048×2,048ピクセル、横長では最大2,752×1,536ピクセルまで指定でき、こちらも元モデルと共通だ。
-
-編集は、「アクセサリを追加」や「場面を変更」といった自然言語の指示で続けられる。画像生成AIをPythonから動かす定番ライブラリ「Diff…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2147/316/01.png" alt="高速版「Qwen-Image-2.1-Turbo」重み公開、画像生成8ステップで完了"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2147316.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2147/316/01.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2147/316/01.png"/></item>
-<item><title>iPhone15と16シリーズの6モデル販売中〜iPhone整備済製品【10/9】</title><link>https://iphone-mania.jp/sale-607230/</link><guid isPermaLink="true">https://iphone-mania.jp/sale-607230/</guid><pubDate>Fri, 09 Oct 2026 14:30:41 +0000</pubDate><description><![CDATA[<p>iPhone15と16シリーズの6モデル販売中〜iPhone整備済製品【10/9】
-
-Appleオンラインストアの認定整備済製品として販売されている、iPhone整備済製品の在庫が増加しました。現在、iPhone15、iPhone15 Plus、iPhone15 Pro、iPhone15 Pro Max、iPhone16、iPhone16 Plusの6モデルが販売中です。
-
-iPhone15と16シリーズの6モデル販売中〜iPhone整備済製品【10/9】
-
-Appleオンラインストアの認定整備済製品として販売されている、 iPhone整備済製品 の在庫が増加しました。現在、 iPhone15 、 iPhone15 Plus 、 iPhone15 Pro 、 iPhone15 Pro Max 、 iPhone16 、 iPhone16 Plus の6モデルが販売中です。
-
-2026年10月9日午後11時25分時点での、 iPhone整備済製品 の在庫状況と販売価格は下記の通りです。
-
-Apple品質認定のiPhone 整備済製品 についてAppleは、下記のように説明しています。
-
-iPhone整備済製品は、すべてのモデルに新しいバッテリーと外装が使用され、1年間の保証も付いています。最短で翌日に無料でお届けし、返品も無料です
-
-ほかにも、以下のものが含まれます 完全な動作テスト、Apple純正パーツの交換（必要な場合）、徹底したクリーニング
-
-出荷時のオペレーティングシステム、またはより最新のオペレーティングシステム
-
-整備済製品はすべて、必要なアクセサリやケーブルとともに新品の箱に再梱包されます
-
-お客様のデバイスが出荷時のオペレーティングシステムを搭載した状態で出荷された場合も、最新バージョンをApp Storeから無料でダウンロードできます
-
-数量限定につき、在庫状況は購入代金全額のお支払いが完了した時点で保証されます
-
---PR-- [公式] - iPhoneの購入や予約はオンラインで確実に！
-
-iPhoneなどApple製品の疑問は iMコミュニティ で聞け…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/10/09/iphone-refurb-1009.jpg" alt="iPhone15と16シリーズの6モデル販売中〜iPhone整備済製品【10/9】"></p>]]></description><source url="https://iphone-mania.jp/sale-607230/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/10/09/iphone-refurb-1009.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/10/09/iphone-refurb-1009.jpg"/></item>
-<item><title>相次ぐサイバー攻撃被害。国家サイバー統括室が事業者に対策徹底を要請</title><link>https://pc.watch.impress.co.jp/docs/news/2147200.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2147200.html</guid><pubDate>Fri, 09 Oct 2026 11:10:57 +0000</pubDate><description><![CDATA[<p>相次ぐサイバー攻撃被害。国家サイバー統括室が事業者に対策徹底を要請</p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2147200.html">PC Watch</source></item>
-<item><title>iPhone18 Proの部品発注を最大20%削減〜値上げが需要に影響か</title><link>https://iphone-mania.jp/iphone18-607221/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-607221/</guid><pubDate>Fri, 09 Oct 2026 11:07:45 +0000</pubDate><description><![CDATA[<p>iPhone18 Proの部品発注を最大20%削減〜値上げが需要に影響か
-
-iPhone18 Proシリーズの需要が当初想定を下回っていることから、Appleが一部サプライヤーに対し、2026年10月分の部品発注数を当初計画より削減したとNikkei Asiaが報じています。
-
-iPhone18 Proの部品発注を最大20%削減〜値上げが需要に影響か
-
-iPhone18 Proシリーズの需要が当初想定を下回っている ことから、Appleが一部サプライヤーに対し、2026年10月分の 部品発注数を当初計画より削減 したとNikkei Asiaが報じています。
-
-背景には、DRAMやNANDフラッシュメモリの価格高騰に伴うiPhone18 Proシリーズの 値上げが影響している とみられています。
-
-サプライヤーからの情報によると、Appleは iPhone18 Proシリーズ 向け部品の10月分の発注数を、 当初計画から少なくとも15%削減 したとのことです。
-
-サプライヤーによっては、iPhone18 ProとiPhone18 Pro Max向けの発注数が15%〜20%減少したとされています。
-
-発注数を見直す動きは9月上旬から始まっていたとの情報もあり、発売後の販売状況だけではなく、予約注文段階を含む需要予測を反映しているようです。
-
-需要が当初予想を下回った理由として指摘されているのが、DRAMやNANDフラッシュメモリの価格高騰に伴う 販売価格の上昇 です。
-
-iPhone18 ProシリーズはA20 Pro、可変絞りカメラ、放熱機構の強化など内部では大きく進化していますが、外観はiPhone17 Proシリーズのデザインを継承しています。
-
-そのため、店頭やWebサイトで比較した際に 分かりやすい変化よりも価格上昇のほうが強く意識 され、買い替えを見送ったユーザーが一定数いたことも考えられます。
-
-特に数年間同じiPhoneを使うユーザーが増えているのであれば、性能向上だけでは買い替え理由になりにくく、 価格上昇を上回る明確なメリット が求められますが、 現状は…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/10/09/iphone18-pro-20-AH-1009.jpg" alt="iPhone18 Proの部品発注を最大20%削減〜値上げが需要に影響か"></p>]]></description><source url="https://iphone-mania.jp/iphone18-607221/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/10/09/iphone18-pro-20-AH-1009.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/10/09/iphone18-pro-20-AH-1009.jpg"/></item>
-<item><title>Windows App、リモートPC接続が正式提供に。職場アカウント不要</title><link>https://pc.watch.impress.co.jp/docs/news/2147045.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2147045.html</guid><pubDate>Fri, 09 Oct 2026 10:53:42 +0000</pubDate><description><![CDATA[<p>Windows App、リモートPC接続が正式提供に。職場アカウント不要</p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2147045.html">PC Watch</source></item>
-<item><title>Appleが共同開発したLG製ホームアクセサリーにペアリングを容易にする工夫</title><link>https://iphone-mania.jp/homepod-607216/</link><guid isPermaLink="true">https://iphone-mania.jp/homepod-607216/</guid><pubDate>Fri, 09 Oct 2026 09:52:17 +0000</pubDate><description><![CDATA[<p>Appleが共同開発したLG製ホームアクセサリーにペアリングを容易にする工夫
-
-AppleとLGが共同開発するスマートホームアクセサリーのイメージ画像を投稿したリーカーが、今度はセットアップ方法を動画で解説しています。
-
-Appleが共同開発したLG製ホームアクセサリーにペアリングを容易にする工夫
-
-AppleとLGが共同開発する スマートホームアクセサリー のイメージ画像を投稿したリーカーが、今度は セットアップ方法 を動画で解説しています。
-
-X（旧Twitter）に投稿された情報が正しければ、LG製ホームアクセサリーでは、 iPhoneをかざすだけで初期設定の一部を済ませられる 仕組みが用意されるようです。
-
-pdfu氏（＠itspdfu）は、HomeKit向けの 「電源なしでタップしてセットアップ」機能が利用可能 になるとし、次のような仕組みを説明しています。
-
-LG製ホームアクセサリー では、iPhoneをかざすことでHomeKitのペアリング情報やネットワーク認証情報を NFC経由でセキュアエレメントに書き込める とされています。
-
-その後アクセサリーの電源を入れると、あらかじめ受け取った情報を使ってWi-FiまたはThreadネットワークへ参加し、Matterを通じたセットアップが進む仕組みです。
-
-NFC通信ではiPhone側から近距離で電力を供給できるため、 アクセサリー本体の電源をまだ入れていない状態でも初期情報を受け取れる ことが、この仕組みのポイントになりそうです。
-
-pdfu氏によると、Appleが用意する「HomeKit-over-NFC」は、Matterで用意されているNFCコミッショニングとは別の仕組みとして扱われています。
-
-LG製スマートロックやスマートサーモスタットに搭載されるNXP製セキュアエレメントでは、Matter向けのNFC機能をHomeKit向けに置き換えた構成になっているとのことです。
-
-そのため、 iPhoneをかざして電源投入前に設定できる 機能は、 Appleホームを利用するユーザー向けの独自機能 になる見込みです…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/10/09/smart-acc-pdfu-1009.jpg" alt="Appleが共同開発したLG製ホームアクセサリーにペアリングを容易にする工夫"></p>]]></description><source url="https://iphone-mania.jp/homepod-607216/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/10/09/smart-acc-pdfu-1009.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/10/09/smart-acc-pdfu-1009.jpg"/></item>
-<item><title>iPhone整備済製品に32モデル追加。iPhone 15シリーズが大量復活、10万円切りで買える</title><link>https://gori.me/sale/apple-refurbished/171110</link><guid isPermaLink="true">https://gori.me/sale/apple-refurbished/171110</guid><pubDate>Fri, 09 Oct 2026 09:47:48 +0000</pubDate><description><![CDATA[<p>iPhone整備済製品に32モデル追加。iPhone 15シリーズが大量復活、10万円切りで買える
-
-Apple公式のiPhone整備済製品に32モデルが追加され、購入可能なのは計60モデルに。iPhone 15シリーズが大量復活し、128GBは99,800円から。iPhone 16eは一瞬で売り切れたが、iPhone 16と16 Plusの在庫はまだ余裕あり。最大15%オフで1年保証付きだ。
-
-iPhone整備済製品に32モデル追加。iPhone 15シリーズが大量復活、10万円切りで買える
-
-iPhone 15 128GBが99,800円。iPhone 16eは即完売、iPhone 16と16 Plusはまだ在庫あり
-
-Apple公式のiPhone整備済製品に32モデルが追加され、購入できるのは合計60モデル
-
-iPhone 15 128GBは全5色が99,800円で、通常価格より18,000円安い
-
-iPhone 16eはすぐ完売したが、iPhone 16とiPhone 16 Plusは15万円以下で在庫に余裕がある
-
-Apple公式サイトのiPhone整備済製品に、大量の製品が追加された。合計32モデルが新たに登場し、現在60モデルが購入可能だ。
-
-本日は、 iPhone 15 シリーズが大量復活。一時期 iPhone 16eの在庫 も潤沢だったが、一瞬にして売り切れてしまったようだ。 iPhone 16 や iPhone 16 Plusの在庫 は余裕があり、15万円以下で購入できる。興味ある人はお早めに！
-
-Apple整備済製品は、初期不良などで返品された製品をAppleが再整備して販売するもの。新品同様の品質で、1年間のハードウェア保証付き。Apple Care+にも加入できる。通常価格と比べて最大15%オフで購入でき、新品が欲しいけど少しでも安く手に入れたい人にとっては見逃せない選択肢だ。
-
-iPhone 16 128GB – ピンク（SIMフリー） （114,800円）
-
-iPhone 15 Pro 128GB – ブルーチタニウム（SIMフリー） （1…</p><p><img src="https://gori.me/uploads/2026/10/iPhone-Refurbished-model-2026-10-09.jpg" alt="iPhone整備済製品に32モデル追加。iPhone 15シリーズが大量復活、10万円切りで買える"></p>]]></description><source url="https://gori.me/sale/apple-refurbished/171110">gori.me</source><media:content url="https://gori.me/uploads/2026/10/iPhone-Refurbished-model-2026-10-09.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/10/iPhone-Refurbished-model-2026-10-09.jpg"/></item>
-<item><title>【笠原一輝のユビキタス情報局】打倒MacBook Pro？Surface Laptop Ultraが目指すモノ作りしやすいマシン</title><link>https://pc.watch.impress.co.jp/docs/column/ubiq/2147205.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/column/ubiq/2147205.html</guid><pubDate>Fri, 09 Oct 2026 09:32:17 +0000</pubDate><description><![CDATA[<p>【笠原一輝のユビキタス情報局】打倒MacBook Pro？Surface Laptop Ultraが目指すモノ作りしやすいマシン</p>]]></description><source url="https://pc.watch.impress.co.jp/docs/column/ubiq/2147205.html">PC Watch</source></item>
-<item><title>iPad miniやPencilの在庫復活〜iPad整備済製品【10/9】</title><link>https://iphone-mania.jp/sale-607212/</link><guid isPermaLink="true">https://iphone-mania.jp/sale-607212/</guid><pubDate>Fri, 09 Oct 2026 09:23:40 +0000</pubDate><description><![CDATA[<p>iPad miniやPencilの在庫復活〜iPad整備済製品【10/9】
-
-Appleオンラインストアで販売されているiPad整備済製品の在庫が本日、大幅に増加しました。昨日までは在庫切れだったiPad mini（A17 Pro）やApple Pencil、iPad（A16）などの在庫が復活しています。
-
-iPad miniやPencilの在庫復活〜iPad整備済製品【10/9】
-
-Appleオンラインストアで販売されている iPad整備済製品 の在庫が本日、大幅に増加しました。昨日までは在庫切れだった iPad mini（A17 Pro） や Apple Pencil 、 iPad（A16） などの 在庫が復活 しています。
-
-iPad整備済製品は他にも、13インチiPad Air、12.9インチiPad Pro、11インチおよび13インチiPad Proが販売中です。
-
-2026年10月9日午後6時15分時点で販売されている、iPad整備済製品は次の通りです。
-
-iPad整備済製品についてAppleは、下記のように説明しています。
-
-iPad整備済製品は、すべてのモデルに新しいバッテリーと外装が使用され、1年間の保証も付いています。最短で翌日に無料でお届けし、返品も無料です
-
-ほかにも、以下のものが含まれます 完全な動作テスト、Apple純正パーツの交換（必要な場合）、徹底したクリーニング
-
-出荷時のオペレーティングシステム、またはより最新のオペレーティングシステム
-
-整備済製品はすべて、必要なアクセサリやケーブルとともに新品の箱に再梱包されます
-
-お客様のデバイスが出荷時のオペレーティングシステム（原文では、オペレーションシステム）を搭載した状態で出荷された場合も、最新バージョン（原文では、最新バーション）をApp Storeから無料でダウンロードできます
-
-数量限定につき、在庫状況は購入代金全額のお支払いが完了した時点で保証されます
-
---PR-- [公式] - iPhoneの購入や予約はオンラインで確実に！
-
-iPhoneなどApple製品の疑問は iMコミ…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/10/09/ipad-refurb-1009.jpg" alt="iPad miniやPencilの在庫復活〜iPad整備済製品【10/9】"></p>]]></description><source url="https://iphone-mania.jp/sale-607212/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/10/09/ipad-refurb-1009.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/10/09/ipad-refurb-1009.jpg"/></item>
-<item><title>Apple Watch Series 11が久しぶりに入荷〜整備済製品【10/9】</title><link>https://iphone-mania.jp/sale-607207/</link><guid isPermaLink="true">https://iphone-mania.jp/sale-607207/</guid><pubDate>Fri, 09 Oct 2026 09:08:58 +0000</pubDate><description><![CDATA[<p>Apple Watch Series 11が久しぶりに入荷〜整備済製品【10/9】
-
-Apple Watch整備済製品の在庫として、品切れが続いていたApple Watch Series 11が入荷しています。また、Apple Watch Ultra 2とApple Watch Ultra 3の整備済製品は継続して販売中です。
-
-Apple Watch Series 11が久しぶりに入荷〜整備済製品【10/9】
-
-Apple Watch整備済製品 の在庫として、品切れが続いていた Apple Watch Series 11が入荷 しています。また、 Apple Watch Ultra 2とApple Watch Ultra 3 の整備済製品は継続して販売中です。
-
-2026年10月9日午後6時5分時点での、 Apple Watch整備済製品 の在庫と価格は、次の通りです。
-
-なお、 Apple Watch Series 12とApple Watch Ultra 4が発表 されたことに伴い、 Apple Watch整備済製品 の販売価格は9月10日に値下げされています。
-
-Apple品質認定のApple Watch 整備済製品 についてAppleは、下記のように説明しています。
-
-Apple Watch整備済製品は、すべてのモデルに1年間の保証が付いています。最短で翌日に無料でお届けし、返品も無料です
-
-ほかにも、以下のものが含まれます 完全な動作テストおよび徹底したクリーニング
-
-出荷時のオペレーティングシステム、またはより最新のオペレーティングシステム
-
-整備済製品はすべて、必要なアクセサリやケーブルとともに新品の箱に再梱包されます
-
-お客様のデバイスが出荷時のオペレーティングシステム（原文では、オペレーションシステム）を搭載した状態で出荷された場合も、最新バージョン（原文では、最新バーション）をApp Storeから無料でダウンロードできます
-
-数量限定につき、在庫状況は購入代金全額のお支払いが完了した時点で保証されます
-
-Source: Apple Watch整備…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/10/09/apple-watch-refurb-1009.jpg" alt="Apple Watch Series 11が久しぶりに入荷〜整備済製品【10/9】"></p>]]></description><source url="https://iphone-mania.jp/sale-607207/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/10/09/apple-watch-refurb-1009.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/10/09/apple-watch-refurb-1009.jpg"/></item>
-<item><title>カタログのバッテリ時間はなぜ実際と違う？JEITAが解説ガイド公開</title><link>https://pc.watch.impress.co.jp/docs/news/2147237.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2147237.html</guid><pubDate>Fri, 09 Oct 2026 09:06:33 +0000</pubDate><description><![CDATA[<p>カタログのバッテリ時間はなぜ実際と違う？JEITAが解説ガイド公開</p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2147237.html">PC Watch</source></item>
-<item><title>ガチくんに! 第433回切り抜き「ガチくんにマーベル闘魂で対戦させてみた結果…」</title><link>https://pc.watch.impress.co.jp/docs/news/2147241.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2147241.html</guid><pubDate>Fri, 09 Oct 2026 09:00:00 +0000</pubDate><description><![CDATA[<p>ガチくんに! 第433回切り抜き「ガチくんにマーベル闘魂で対戦させてみた結果…」</p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2147241.html">PC Watch</source></item>
-<item><title>Amazonマンガ週末セールで新旧の人気マンガKindle版が50%ポイント還元【10/12まで】</title><link>https://komameblog.jp/sale/kindle-20261009-weekend/</link><guid isPermaLink="true">https://komameblog.jp/sale/kindle-20261009-weekend/</guid><pubDate>Fri, 09 Oct 2026 08:31:34 +0000</pubDate><description><![CDATA[<p>Amazonマンガ週末セールで新旧の人気マンガKindle版が50%ポイント還元【10/12まで】
-
-毎週恒例のAmazonマンガ週末セールで、対象作品が50%ポイント還元中です。期間は10/12（月）まで。今回のテーマは「日常・グルメマンガ特集」ですがそれに加え、懐かしの名作やオジサン向け作品など、そのほかの注目作品もまとめました。※もら...
-
-毎週恒例のAmazonマンガ週末セールで、対象作品が50%ポイント還元中です。期間は10/12（月）まで。今回のテーマは「日常・グルメマンガ特集」ですがそれに加え、懐かしの名作やオジサン向け作品など、そのほかの注目作品もまとめました。
-
-Amazonのセールと同時開催されている「ニコニコカドカワ祭り2026 第4弾」で対象作品が最大50%オフでセール中です。ここではその対象作品のなかから、さらにポイントももらえるお得なタイトルをピックアップしています。※一部ポイント還元非対象の巻もあります
-
-50%ポイント還元対象作品のうち、1970～2000年代に連載がスタートした作品です。
-
-比較的新しい作品から、オジサンが主人公、またはオジサンに刺さるテーマの作品をピックアップしました。
-
-50%ポイント還元中のグルメマンガです。グルメの描写はありますが、内容的にはヒューマンドラマの作品が中心。
-
-お買い得パソコン評論家。毎日各メーカー・各ショップのWebページを500p以上チェックして、安くてお得なパソコンを探しています。元PC雑誌編集者で、PC系フリーライターでもあるオジサン。文章に関わる仕事を始めてから25年以上。最高195万PV/月</p><p><img src="https://komameblog.jp/wp-content/uploads/2026/10/Kindle-20261009-weekend.jpg" alt="Amazonマンガ週末セールで新旧の人気マンガKindle版が50%ポイント還元【10/12まで】"></p>]]></description><source url="https://komameblog.jp/sale/kindle-20261009-weekend/">こまめブログ</source><media:content url="https://komameblog.jp/wp-content/uploads/2026/10/Kindle-20261009-weekend.jpg" medium="image"/><media:thumbnail url="https://komameblog.jp/wp-content/uploads/2026/10/Kindle-20261009-weekend.jpg"/></item>
 </channel></rss>
