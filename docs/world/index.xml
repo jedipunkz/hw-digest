@@ -1,6 +1,196 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sun, 18 Oct 2026 17:22:10 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sun, 18 Oct 2026 20:41:21 +0000</lastBuildDate>
+<item><title>3D ビューを備えた顕微鏡の構築</title><link>https://hackaday.com/2026/10/18/building-a-microscope-with-a-3d-view/</link><guid isPermaLink="true">https://hackaday.com/2026/10/18/building-a-microscope-with-a-3d-view/</guid><pubDate>Sun, 18 Oct 2026 17:00:41 +0000</pubDate><description><![CDATA[<p>3D ビューを備えた顕微鏡の構築
+
+電子部品がますます小型化するにつれ、顕微鏡はあらゆる微細な作業にますます不可欠なツールとなっています。ただし、電子機器、特にはんだ接合部を検査する場合、[Corebb] は次のような問題を抱えています。
+
+電子部品がますます小型化するにつれ、顕微鏡はあらゆる微細な作業にますます不可欠なツールとなっています。しかし、電子機器、特にはんだ接合部を検査する場合、[Corebb] は上から見ると視野が制限されすぎることに気づき、回転側から見ることができる独自の顕微鏡を作りました。
+
+顕微鏡自体は、市販の C マウント顕微鏡レンズ アセンブリと USB カメラで構成されています。レンズの倍率は最大 200 倍まで変更可能で、電子工作には十分です。焦点を移動できる調整可能なスタンドに取り付けられています。これは、照明用の LED リングと 2 つの偏光フィルター (1 つはレンズに取り付けられ、もう 1 つは照明リングに取り付けられます) と組み合わされています。相互に 90 度に調整すると、反射面からのぎらつきがなくなります。
+
+被写体を横から見るために、[Corebb] はスナップオン アダプターを作成しました。これは、一対のミラーを使用して物体の側面からビューをキャプチャし、これをメインの顕微鏡レンズを通して方向付けます。追加の凹レンズが光路の長さの増加を補い、ボールベアリングによりアダプター全体が顕微鏡の周りを回転し、あらゆる角度から被写体を捉えることができます。 [Corebb] はアダプターを 3D プリントしようとしましたが、曲げるとジッターが大きくなりすぎることがわかりました。機械加工されたアルミニウム部品はより頑丈であることに加えて、より薄いサポートを可能にすることで影を減らしました。アダプターは小さな磁石で顕微鏡に取り付けられ、光路の位置を常に一定に保ちます。
+
+横から見たはんだ付け顕微鏡を見たのはこれが初めてではありませんが、これははるかに手頃な価格に見えます。顕微鏡で偏光光源を試してみたい場合は、以前に説明しました。</p><p><img src="https://hackaday.com/wp-content/uploads/2026/10/rotary_microscope.png" alt="3D ビューを備えた顕微鏡の構築"></p>]]></description><source url="https://hackaday.com/2026/10/18/building-a-microscope-with-a-3d-view/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/10/rotary_microscope.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/10/rotary_microscope.png"/></item>
+<item><title>昼食ごとに電子レンジが Zigbee センサーをオフラインにしてしまいましたが、チャンネルを 1 回変えるだけで直りました</title><link>https://www.xda-developers.com/microwave-zigbee-channel-change/</link><guid isPermaLink="true">https://www.xda-developers.com/microwave-zigbee-channel-change/</guid><pubDate>Sun, 18 Oct 2026 17:00:18 +0000</pubDate><description><![CDATA[<p>昼食ごとに電子レンジが Zigbee センサーをオフラインにしてしまいましたが、チャンネルを 1 回変えるだけで直りました
+
+私のルーターが最初に責任を負いましたが、無実でした。
+
+昼食ごとに電子レンジが Zigbee センサーをオフラインにしてしまいましたが、チャンネルを 1 回変えるだけで直りました
+
+By Shivansh Raj Srivastava 公開 2026 年 10 月 18 日、午後 1:00 EDT シヴァンシュは、テクノロジー関連出版物の熱心な読者としてテクノロジーの旅を開始し、それが彼にシリーコーンでビデオ メディアでのキャリアを開始するきっかけを与えました。彼は、複数のテクノロジー YouTube チャンネルと Instagram アカウントにわたるコンテンツを主導し、Vivo の市場投入 (GTM) 戦略を策定し、デジタル成長に関するコンサルティングを行ってきました。書かれたメディアでの彼のルーツを一周して、彼は今、深く掘り下げたテクノロジージャーナリズムを提供しています。シヴァンシュは専門的な仕事以外では、映画を見たり、自転車に乗ったり、クリケットをしたりすることが大好きです。 XDA アカウントにサインインします。ほぼ毎日、平日の 12:40 から 1:15 の間のどこかで、ホーム アシスタントで Zigbee センサーが約 3 分間沈黙しました。キッチンのモーションライトは私を無視し、バルコニーのドアセンサーは開口部を見逃し、カウンタープラグは私のタップにエラーで応答しました。
+
+Zigbee と Wi-Fi が同じ 2.4GHz 空間を共有しているため、最初に私のルーターが原因でした。無実だった。原因は電子レンジで昼食を温め直したことで、その修正は Zigbee ネットワークをチャンネル 20 からチャンネル 15 に移動することでした。
+
+オーブンも壊れていませんでした。本当の罠は、そもそも私のネットワークがどのようにしてチャンネル 20 に到達したかであり、ハブからキッチンが見える人は誰でもチャンネル 20 に陥る可能性があると…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/router-side-4-ratio-3.jpg?w=1600&amp;h=900&amp;fit=crop" alt="昼食ごとに電子レンジが Zigbee センサーをオフラインにしてしまいましたが、チャンネルを 1 回変えるだけで直りました"></p>]]></description><source url="https://www.xda-developers.com/microwave-zigbee-channel-change/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/router-side-4-ratio-3.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/router-side-4-ratio-3.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>AI で構築されたオープンソースの Adob​​e スイートは、本物を置き換える準備がほぼ整いました</title><link>https://www.xda-developers.com/an-open-source-adobe-suite-built-with-ai-is-almost-ready-to-replace-the-real-thing/</link><guid isPermaLink="true">https://www.xda-developers.com/an-open-source-adobe-suite-built-with-ai-is-almost-ready-to-replace-the-real-thing/</guid><pubDate>Sun, 18 Oct 2026 16:30:19 +0000</pubDate><description><![CDATA[<p>AI で構築されたオープンソースの Adobe スイートは、本物を置き換える準備がほぼ整いました
+
+アートクラフトは私に大きな影響を与えました
+
+AI で構築されたオープンソースの Adobe スイートは、本物を置き換える準備がほぼ整いました
+
+By Ty Sherback 公開 2026 年 10 月 18 日、午後 12 時 30 分 EDT 彼の PC とそのコンポーネントに対する愛情は、ファミリー コンピューターのパフォーマンスをすべて絞り出そうとすることから生まれました。 10 歳のときに自分のビルドをいじっていたことが、友人や家族のために PC を作ることに変わり、最終的にキャリア パスとして形になる情熱を育みました。 Ty は、身近な人々への技術サポートの最初の電話であることに加えて、クラウド コンピューティングとネットワーキングに重点を置いているコンピューター サイエンスの学生でもあります。彼はセミプロの Counter-Strike にも 8 年間出場しており、周辺機器に関するあらゆることに精通しています。 XDA アカウントにサインインする Adob​​e スイートで長年働いてきた私は、ほぼ常に代替案を探していますが、それはファーストパーティ アプリ自体の品質とは何の関係もありません。これらは作業には優れており、私が慣れ親しんだプロフェッショナルなワークフローを提供しますが、ソフトウェアに月ごとにお金を払うのは私にとってはまったく納得のいくものではありませんでした。私は、見つけた代替案では満足できないため、サブスクリプションをキャンセルしたり更新したりを繰り返してきましたが、そのサイクルは幸いにも終わりを迎えたようです。
+
+開発者のブランドン・トーマスが ArtCraft の「クラフト アプリ」をリリースしたとき、すぐに私の注意を引きました。これは、Adobe の主力プログラムをモデルとした 7 つのオープンソース アプリのセットであり、Claude Opus 5.5 を使用して Rust で構築されています。 UI は素晴らしい画像で、機能はほぼ同…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/img_7865.jpg?w=1600&amp;h=900&amp;fit=crop" alt="AI で構築されたオープンソースの Adob​​e スイートは、本物を置き換える準備がほぼ整いました"></p>]]></description><source url="https://www.xda-developers.com/an-open-source-adobe-suite-built-with-ai-is-almost-ready-to-replace-the-real-thing/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/img_7865.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/img_7865.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>『Zelda: Tears of the Kingdom』が Apple の M4 チップでネイティブに動作するようになったことで、初めて Mac が最初にゲームを手に入れる</title><link>https://www.xda-developers.com/mac-gets-game-first-zelda-tears-of-the-kingdom-runs-natively-apple-m4-chip-nintendo/</link><guid isPermaLink="true">https://www.xda-developers.com/mac-gets-game-first-zelda-tears-of-the-kingdom-runs-natively-apple-m4-chip-nintendo/</guid><pubDate>Sun, 18 Oct 2026 16:07:41 +0000</pubDate><description><![CDATA[<p>『Zelda: Tears of the Kingdom』が Apple の M4 チップでネイティブに動作するようになったことで、初めて Mac が最初にゲームを手に入れる
+
+任天堂はおそらくこの非常に非公式な移植に満足していないでしょう。
+
+『Zelda: Tears of the Kingdom』が Apple の M4 チップでネイティブに動作するようになったことで、初めて Mac が最初にゲームを手に入れる
+
+クレジット: Nintendo By Patrick O&#39;Rourke 公開日 2026 年 10 月 18 日、午後 12:07 EDT Patrick O&#39;Rourke は、XDA のニュース編集者であり、エンターテインメント セグメントのリーダーです。以前は、Pocket-lint の編集長、カナダのテクノロジー出版物 MobileSyrup の編集長を務め、キャリアの初期には Financial Post および Postmedia でテクノロジー編集者として働いていました。彼はトロントに拠点を置いています。過去 15 年間にわたり、彼は何千もの記事を書いてきました。パトリック氏はまた、何十人ものテクノロジー業界の幹部にインタビューし、GDC、E3、Gamescom、WWDC、Apple の基調講演、Samsung Unpacked イベントなどを取材しました。パトリックはトロント・メトロポリタン大学でジャーナリズムの学士号を取得しています。 XDA アカウントにサインインする
+
+誰かが Zelda: Tears of the Kingdom を M4 Mac 上でネイティブに実行できるようにし、瞬時の読み込みと 90fps のサポートを実現しました。
+
+ポートは必要に応じてスイッチ コードを書き換え、NVN グラフィックスを Metal 4 にマッピングし、ホスト経由でシステム サービスに応答します。
+
+これは非常に非公式なオープンソース ポートです。独自のゲーム ダンプを提供する必要があります。
+
+興味深い展開として、誰かが Nintendo…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/10/zelda-tears-of-the-kingdom-screenshot.jpg?w=1600&amp;h=900&amp;fit=crop" alt="『Zelda: Tears of the Kingdom』が Apple の M4 チップでネイティブに動作するようになったことで、初めて Mac が最初にゲームを手に入れる"></p>]]></description><source url="https://www.xda-developers.com/mac-gets-game-first-zelda-tears-of-the-kingdom-runs-natively-apple-m4-chip-nintendo/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/10/zelda-tears-of-the-kingdom-screenshot.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/10/zelda-tears-of-the-kingdom-screenshot.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
+<item><title>Modder は、完全な Nvidia DLSS 5 スイートを 3 世代の AMD ゲーム GPU に提供します</title><link>https://www.tomshardware.com/pc-components/gpus/amd-cards-now-run-all-dlss-features-thanks-to-one-developers-project-plans-to-match-native-nvidia-gpu-performance</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/gpus/amd-cards-now-run-all-dlss-features-thanks-to-one-developers-project-plans-to-match-native-nvidia-gpu-performance</guid><pubDate>Sun, 18 Oct 2026 16:03:01 +0000</pubDate><description><![CDATA[<p>Modder は、完全な Nvidia DLSS 5 スイートを 3 世代の AMD ゲーム GPU に提供します
+
+Radeon ユーザーはついに、より多くの DLSS 機能を楽しめるようになりました。
+
+Modder は、完全な Nvidia DLSS 5 スイートを 3 世代の AMD ゲーム GPU に導入 — ネイティブ Nvidia GPU のパフォーマンスに匹敵する計画
+
+Radeon ユーザーはついに、より多くの DLSS 機能を楽しめるようになりました。
+
+(画像クレジット: Future) リンクをコピー
+
+0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する Daniel Blanco による AMD の DLSS-NR プロジェクトは、2026 年 9 月 3 日に初めてリリースされ、DLSS 5 ニューラル レンダリングを Radeon GPU にもたらしました。ただし、最新の 0.8.0 アップデートでは、DLSS SR、フレーム生成、レイ再生成、最新の DLSS NR モデルを特徴とするすべての主要な DLSS 機能が利用可能になり、さらにパフォーマンスが向上します。
+
+AMD には、FSR アップスケーリング、フレーム生成、レイ再生成、アンチラグなど、ほとんどの DLSS 機能と同等の機能がありますが、Nvidia の製品と比較すると、ほとんどのゲームで一般的にサポートされていません。たとえプレーヤーが AMD と同等の機能を使用できたとしても、ニューラル レンダリングは AMD がまだ同等の機能を持っていない機能の 1 つです。そのため、AMD で DLSS-NR のような MOD が作成されました。
+
+Daniel Blanco 氏は、最初のリリースで NR とのギャップを埋めたいと考えていましたが、最新のアップデートでは、DLSS レイ再構築、超解像度 4.5、フレーム生成、およびサポートされていないゲームで使用するモッダーについて最近取り上げた最新の 310.9.16 …</p><p><img src="https://cdn.mos.cms.futurecdn.net/BeW2F22fUfKmgBpAPSsk2m-2560-80.jpg" alt="Modder は、完全な Nvidia DLSS 5 スイートを 3 世代の AMD ゲーム GPU に提供します"></p>]]></description><source url="https://www.tomshardware.com/pc-components/gpus/amd-cards-now-run-all-dlss-features-thanks-to-one-developers-project-plans-to-match-native-nvidia-gpu-performance">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/BeW2F22fUfKmgBpAPSsk2m-2560-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/BeW2F22fUfKmgBpAPSsk2m-2560-80.jpg"/></item>
+<item><title>Anycubic の受賞歴のある 3D プリンターが史上最低価格を実現</title><link>https://www.tomshardware.com/3d-printing/anycubics-award-winning-3d-printer-hits-all-time-low-pricing-kobra-x-is-an-excellent-entry-level-four-color-printer-thats-now-just-usd299-99-for-amazon-prime-members</link><guid isPermaLink="true">https://www.tomshardware.com/3d-printing/anycubics-award-winning-3d-printer-hits-all-time-low-pricing-kobra-x-is-an-excellent-entry-level-four-color-printer-thats-now-just-usd299-99-for-amazon-prime-members</guid><pubDate>Sun, 18 Oct 2026 15:24:22 +0000</pubDate><description><![CDATA[<p>Anycubic の受賞歴のある 3D プリンターが史上最低価格を実現
+
+この革新的なベッドスリンガーは、2 月のレビューで 4.5/5 のスコアを獲得しており、通常は 359.99 ドルです。
+
+Anycubic の受賞歴のある 3D プリンタが史上最低価格を実現 — Kobra X は優れたエントリーレベルの 4 色プリンタで、現在 Amazon Prime 会員向けにはわずか 299.99 ドルです
+
+この革新的なベッドスリンガーは、2 月のレビューで 4.5/5 のスコアを獲得しており、通常は 359.99 ドルです。
+
+(画像クレジット: Amazon の Anycubic ) リンクをコピー
+
+0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する Anycubic の Kobra X マルチカラー 3D プリンターは、小売販売開始以来、これまでで最低価格となっています。 Amazon の Anycubic ストアにアクセスするプライム会員は、この評価の高いデバイスを期間限定でわずか 299.99 ドルで購入できるようになりました。 Kobra X はメーカー希望小売価格から 17% または 60 ドルオフなので、今年初めにレビュー担当者によってエントリーレベルの 4 色プリンタ カテゴリの候補として高く評価されているため、お買い得です。誰もが欲しがる Tom&#39;s Hardware Editor&#39;s Choice 賞も受賞しました。
+
+Amazon で Anycubic Kobra X 3D プリンターのセールをチェックしてください
+
+一見すると Bambu Lab A1 クローンのように見えるかもしれませんが、ツールヘッドに直接組み込まれたマルチマテリアル システムである ACE Gen 2 を私たちは Kobra X を賞賛しました。これは、色の変更が多い印刷では大幅な時間の節約になります。計算すると、776 色交換の 4 色印刷では、印刷速度が同等であるにもかかわらず、Kobra X はライバ…</p><p><img src="https://cdn.mos.cms.futurecdn.net/jVeTJB6TnraD8bHDxyieDM-1920-80.jpg" alt="Anycubic の受賞歴のある 3D プリンターが史上最低価格を実現"></p>]]></description><source url="https://www.tomshardware.com/3d-printing/anycubics-award-winning-3d-printer-hits-all-time-low-pricing-kobra-x-is-an-excellent-entry-level-four-color-printer-thats-now-just-usd299-99-for-amazon-prime-members">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/jVeTJB6TnraD8bHDxyieDM-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/jVeTJB6TnraD8bHDxyieDM-1920-80.jpg"/></item>
+<item><title>F-22ラプターのパイロットが模擬戦闘で「僚機」戦闘機ドローンの指揮を成功裏に実証</title><link>https://www.tomshardware.com/tech-industry/drones/f-22-raptor-pilot-successfully-demonstrates-command-of-wingman-fighter-drone-in-simulated-combat-anduril-yfq-44a-fury-test-advances-usafs-program-to-integrate-uncrewed-aircraft-into-fighter-squadrons</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/drones/f-22-raptor-pilot-successfully-demonstrates-command-of-wingman-fighter-drone-in-simulated-combat-anduril-yfq-44a-fury-test-advances-usafs-program-to-integrate-uncrewed-aircraft-into-fighter-squadrons</guid><pubDate>Sun, 18 Oct 2026 15:02:19 +0000</pubDate><description><![CDATA[<p>F-22ラプターのパイロットが模擬戦闘で「僚機」戦闘機ドローンの指揮を成功裏に実証
+
+空戦の未来へまた一歩。
+
+F-22ラプターのパイロットが模擬戦闘で「僚機」戦闘機ドローンの指揮を成功裏に実証 - アンドゥリルYFQ-44Aフューリー試験により、無人航空機を戦闘機飛行隊に統合するアメリカ空軍のプログラムが前進
+
+空戦の未来へまた一歩。
+
+(画像クレジット: Getty Images ) リンクをコピー
+
+4 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 米空軍は、模擬戦闘中に F-22 ラプターのパイロットがアンドゥリル YFQ-44A フューリー無人機を指揮する空挺試験に成功しました。ディフェンス・ウォッチによると、戦闘機パイロットは自律型僚機に戦術的コマンドを与え、その後、それを解釈して一連のタスクと飛行操縦を行い、望ましい結果を達成したという。
+
+この試験の成功は、無人機を戦闘機飛行隊に統合することを目指すアメリカ空軍の共同戦闘機（CCA）の一環である。ただし、これらの無人航空機は戦闘機パイロットの戦術コマンドに応答し、自律的に運用できなければなりません。なぜなら、戦闘機パイロットはすでに、自機の操縦、センサーデータの管理、脅威の評価、武器の放出の決定などの多大な作業負荷を抱えているため、手動でドローンを飛行させることを要求するのはほぼ不可能だからだ。コマンドの統合により、F-22 ラプターのパイロットはフューリー無人機に、敵戦闘機の撃破などの主要任務に集中しながら、敵の防空監視や交戦などの特定の戦術タスクを割り当てることができることを意味します。
+
+ただし、これはアメリカ空軍が前線飛行隊に戦闘機と並んでドローンを配備し始めることができるという意味ではない。コマンドの統合が成功することは、プログラムが動作状態に達する前に通過する必要があるいくつかのハードルの最初の部分にすぎません。プログラムは、ドローンの戦術的自律性、安全な飛行制御、武器の認可の限界を決定する必要がありますが、これらはすべて個別の…</p><p><img src="https://cdn.mos.cms.futurecdn.net/L7BkiwxuV26xQsmk9K7L5C-1920-80.jpg" alt="F-22ラプターのパイロットが模擬戦闘で「僚機」戦闘機ドローンの指揮を成功裏に実証"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/drones/f-22-raptor-pilot-successfully-demonstrates-command-of-wingman-fighter-drone-in-simulated-combat-anduril-yfq-44a-fury-test-advances-usafs-program-to-integrate-uncrewed-aircraft-into-fighter-squadrons">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/L7BkiwxuV26xQsmk9K7L5C-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/L7BkiwxuV26xQsmk9K7L5C-1920-80.jpg"/></item>
+<item><title>12年間維持されていたCinebenchの世界記録が破られる</title><link>https://www.tomshardware.com/pc-components/overclocking/cinebench-world-record-that-stood-for-12-years-gets-toppled-oc-expert-scores-10-8cb-in-cinebench-r11-5-using-an-intel-core-i5-4670k-at-6-3-ghz</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/overclocking/cinebench-world-record-that-stood-for-12-years-gets-toppled-oc-expert-scores-10-8cb-in-cinebench-r11-5-using-an-intel-core-i5-4670k-at-6-3-ghz</guid><pubDate>Sun, 18 Oct 2026 14:02:53 +0000</pubDate><description><![CDATA[<p>12年間維持されていたCinebenchの世界記録が破られる
+
+オーバークロック愛好家は、2026 年になっても Haswell CPU と DDR3 を楽しんでいます。
+
+12 年間続いた Cinebench の世界記録が覆される — OC エキスパートは、6.3 GHz の Intel Core i5 4670K を使用した Cinebench R11.5 で 10.8cb をスコア
+
+オーバークロック愛好家は、2026 年になっても Haswell CPU と DDR3 を楽しんでいます。
+
+(画像クレジット: HWBot の Luumi ) リンクをコピー
+
+1 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 楽しんだり、オーバークロックの世界記録を破ったりするのに、最新かつ最高の PC ハードウェアは必要ありません。 OC の専門家である Luumi は、古い Intel Core i5 4670K、適度な量の DDR3、および (必然的に) フラスコ 1 ～ 2 個の LN2 を使用して、HWBot の新しい世界記録を達成することで、これを非常に有能に実証しました。オーバークロッカー Luumi は最近、4 コア Intel Core i5 4670K Cinebench R11.5 の記録保持者を 12 年ぶりに叩きのめし、10.8 cb のマルチコア スコアを達成しました。
+
+HWBot が冠するシステムは、Haswell 時代の Intel シリコン、正確には Core i5 4670K を中心に構築されています。これは、ロックされていない 4C/4T CPU で、標準ベース/ブースト 3.4 / 3.8 GHz、84W TDP、6MB キャッシュおよび HD 4600 グラフィックスを備え、Intel の 22nm プロセスで構築されています。この時代に 4C/8T を入手するには、i7 チップを購入する必要がありました。
+
+Luumi のシステムは、XPG の 4GB DDR3 RAM…</p><p><img src="https://cdn.mos.cms.futurecdn.net/5yLHMN7tWJcvq9LXXpfN5m-1920-80.jpg" alt="12年間維持されていたCinebenchの世界記録が破られる"></p>]]></description><source url="https://www.tomshardware.com/pc-components/overclocking/cinebench-world-record-that-stood-for-12-years-gets-toppled-oc-expert-scores-10-8cb-in-cinebench-r11-5-using-an-intel-core-i5-4670k-at-6-3-ghz">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/5yLHMN7tWJcvq9LXXpfN5m-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/5yLHMN7tWJcvq9LXXpfN5m-1920-80.jpg"/></item>
+<item><title>プラズマドーナツ</title><link>https://hackaday.com/2026/10/18/a-plasma-donut/</link><guid isPermaLink="true">https://hackaday.com/2026/10/18/a-plasma-donut/</guid><pubDate>Sun, 18 Oct 2026 14:00:33 +0000</pubDate><description><![CDATA[<p>プラズマドーナツ
+
+私たちは、[The Action Lab] には常に実践的な何かがあることを知っています。今回のビデオでは、トロイダルプラズマのデモとそれが核融合とどのように関係するかを示しています。プラズマは高温なので、物理学を使うと…
+
+私たちは、[The Action Lab] には常に実践的な何かがあることを知っています。今回のビデオでは、トロイダルプラズマのデモとそれが核融合とどのように関係するかを示しています。プラズマは高温であり、物理的な電極を使用してプラズマを励起すると、この高温により電極が破壊される傾向があります。しかし、電気と磁気の関係のおかげで、物理的な電極の代わりに交流磁場を使ってプラズマを生成することができます。
+
+実際の実用的な装置は、コイルとキセノンガスで満たされた低圧グローブを備えた 10 MHz の電源です。見た目はかなりクールです。もちろん、この小さな卓上のデモは、核融合反応を引き起こすほど強力ではありません。しかし、それをスケールアップして、水素の使用などのいくつかの変更を加えると、トカマク型原子炉が得られます。
+
+もちろん、問題は、現在の原子炉が運転するには、生成するエネルギーよりも多くのエネルギーを必要とすることだ。しかし、私たちは核融合がすぐそこまで来ているという話を聞き続けています。いつか、それが真実になる日が来るかもしれない。
+
+もちろん、独自の融合装置を構築することもできます。正味の電力を生成することを期待しないでください。</p><p><img src="https://hackaday.com/wp-content/uploads/2026/10/plasma.png" alt="プラズマドーナツ"></p>]]></description><source url="https://hackaday.com/2026/10/18/a-plasma-donut/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/10/plasma.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/10/plasma.png"/></item>
+<item><title>Asus ROG Strix XG27AQGNV 27 インチ G-Sync Pulsar ゲーミング モニター レビュー: 前例のない制御で超スムーズ</title><link>https://www.tomshardware.com/monitors/gaming-monitors/asus-rog-strix-xg27aqgnv-27-inch-g-sync-pulsar-gaming-monitor-review</link><guid isPermaLink="true">https://www.tomshardware.com/monitors/gaming-monitors/asus-rog-strix-xg27aqgnv-27-inch-g-sync-pulsar-gaming-monitor-review</guid><pubDate>Sun, 18 Oct 2026 13:25:00 +0000</pubDate><description><![CDATA[<p>Asus ROG Strix XG27AQGNV 27 インチ G-Sync Pulsar ゲーミング モニター レビュー: 前例のない制御で超スムーズ
+
+ASUS は、ROG Strix XG27AQGNV で G-Sync Pulsar を実現します。
+
+G-Sync Pulsar は、OLED レベルの滑らかさ、応答性、ゲーム感覚を LCD モニターに提供します。Asus ROG Strix XG27AQNGV はその好例です。比類のない調整機能により、カジュアルからプロまでのゲーマーを満足させます。
+
++ G-Sync Pulsar は OLED レベルの滑らかさと応答性を実現します
+
++ ガンマと輝度の細かく正確な制御
+
+- 他のスピーディなモニターに比べて色域が狭い
+
+- 動的調光がないため、HDR コントラストが SDR と同じになります
+
+Tom&#39;s Hardware を信頼できる理由 当社の専門レビュー担当者は、お客様が最適なものを選択できるよう、何時間もかけて製品とサービスをテストおよび比較します。テスト方法について詳しくは、こちらをご覧ください。
+
+ページ 1: 機能と仕様
+
+ページ 2: 応答、入力遅延、視野角、均一性
+
+ページ 3: 明るさとコントラスト
+
+ページ 4: グレースケール、ガンマ、カラー
+
+ゲーム モニターの進化において、G-Sync と FreeSync (別名、Adaptive-Sync または VRR) の出現ほど重要なものはありません。ビデオ カードの出力とモニターのリフレッシュ レートをリアルタイムで同期することにより、フレームのティアリングやスタッタリングがすべて排除されます。しかし、この技術では解決できないことが 1 つあります。それはモーション ブラーです。
+
+LCD パネルは、次のフレームが到着するまで各フレームを継続的に表示します。これにより、フレーム レートが非常に高くない限り、必然的にぼやけが生じます。 LCD モーション解像度が本当に完璧であると呼ぶには、少なくとも 500Hz が必要です。これにどう対抗…</p><p><img src="https://cdn.mos.cms.futurecdn.net/vPg2gdJvpXV3XvcUGrTzW6-1280-80.jpg" alt="Asus ROG Strix XG27AQGNV 27 インチ G-Sync Pulsar ゲーミング モニター レビュー: 前例のない制御で超スムーズ"></p>]]></description><source url="https://www.tomshardware.com/monitors/gaming-monitors/asus-rog-strix-xg27aqgnv-27-inch-g-sync-pulsar-gaming-monitor-review">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/vPg2gdJvpXV3XvcUGrTzW6-1280-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/vPg2gdJvpXV3XvcUGrTzW6-1280-80.jpg"/></item>
+<item><title>47万ドル相当のNVIDIA RTX 5090の積荷がブラジルの空港で行方不明</title><link>https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-shipment-worth-usd470-000-goes-missing-in-brazilian-airport-two-pallets-disappear-distributor-seeks-explanations-but-met-with-zero-answers</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-shipment-worth-usd470-000-goes-missing-in-brazilian-airport-two-pallets-disappear-distributor-seeks-explanations-but-met-with-zero-answers</guid><pubDate>Sun, 18 Oct 2026 13:24:23 +0000</pubDate><description><![CDATA[<p>47万ドル相当のNVIDIA RTX 5090の積荷がブラジルの空港で行方不明
+
+この行方不明の出荷も、おそらくかなり長い間最後の出荷になる可能性があります。
+
+47万ドル相当のNVIDIA RTX 5090の出荷品がブラジルの空港で行方不明 — パレット2枚が消失、販売代理店は説明を求めたが返答はゼロ
+
+この行方不明の出荷も、おそらくかなり長い間最後の出荷になる可能性があります。
+
+(画像クレジット: u/Zestyclose-Salad-290) リンクをコピー
+
+13 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する ブラジルのエレクトロニクスおよび IT 販売代理店である Oderço は、約 47 万ドルまたは 2,500,000 レアル相当の RTX 5090 GPU の欠品に関する回答が見つからなかったため、Instagram に投稿しました。インスタグラムの投稿（機械翻訳）によると、同社は38年の歴史の中でこのような経験に直面したことは一度もなかったという。サンパウロのグアルーリョス国際空港には Zotac RTX 5090 GPU の 2 パレットが到着する予定だったが、到着したはずだったが、その後行方不明になった。同社は荷物の到着日や追跡番号などの詳細は明らかにしていないが、荷物の問い合わせに関して正式な返答はなかったと主張している。このため、同社はソーシャルメディアプラットフォームで回答を求めた。
+
+Oderço (@odercodistribuidora) がシェアした投稿
+
+RTX 5090 は現在世界中で品薄状態となっており、最上位カードは 9 月中旬にオンライン小売店から姿を消します。 Nvidia は、より高価なプロフェッショナル向け AI カードに注力するために GPU の生産を中止したという噂がありますが、そうでないと主張しています。それでも、フラッグシップ GPU が Micro Center のオンライン小売ストアで「取り扱いなし」とマークされていることは助けにはならず…</p><p><img src="https://cdn.mos.cms.futurecdn.net/g6GuNaVQYV63v7z4CrSphL-2000-80.jpg" alt="47万ドル相当のNVIDIA RTX 5090の積荷がブラジルの空港で行方不明"></p>]]></description><source url="https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-shipment-worth-usd470-000-goes-missing-in-brazilian-airport-two-pallets-disappear-distributor-seeks-explanations-but-met-with-zero-answers">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/g6GuNaVQYV63v7z4CrSphL-2000-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/g6GuNaVQYV63v7z4CrSphL-2000-80.jpg"/></item>
+<item><title>Whatever you do, don’t buy a Fitbit Edge on day one</title><link>https://www.androidauthority.com/dont-buy-fitbit-edge-day-one-3723619/</link><guid isPermaLink="true">https://www.androidauthority.com/dont-buy-fitbit-edge-day-one-3723619/</guid><pubDate>Sun, 18 Oct 2026 13:00:29 +0000</pubDate><description><![CDATA[<p>Whatever you do, don’t buy a Fitbit Edge on day one</p>]]></description><source url="https://www.androidauthority.com/dont-buy-fitbit-edge-day-one-3723619/">Android Authority</source></item>
+<item><title>Web ベースのチップ製造エンジニアリング ゲームが台湾で大流行</title><link>https://www.tomshardware.com/video-games/pc-gaming/chip-fab-engineering-game-goes-viral-in-taiwan-realistic-and-stressful-simulation-is-basically-a-horror-game-say-some-players</link><guid isPermaLink="true">https://www.tomshardware.com/video-games/pc-gaming/chip-fab-engineering-game-goes-viral-in-taiwan-realistic-and-stressful-simulation-is-basically-a-horror-game-say-some-players</guid><pubDate>Sun, 18 Oct 2026 12:50:33 +0000</pubDate><description><![CDATA[<p>Web ベースのチップ製造エンジニアリング ゲームが台湾で大流行
+
+Fab24hr: 半導体ウェーハ工場労働者の 1 日は、12 章のストーリー モードを備えたインストール不要の 3D Web ゲームです。
+
+無料の Web ベースのチップ製造エンジニアリング ゲームが台湾で人気に - ゲームは現実的でストレスのかかるシミュレーションであり、一部のプレイヤーは「基本的にはホラー ゲームだ」と言う
+
+Fab24hr: 半導体ウェーハ工場労働者の 1 日は、12 章のストーリー モードを備えたインストール不要の 3D Web ゲームです。
+
+(画像クレジット: Fab24hr ) リンクをコピー
+
+0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する あなたが生きる新しい 3D Web ゲーム「半導体ウェーハ工場労働者の 1 日」が、開発地の台湾で話題になりました。中国語、英語、日本語で利用できる Fab24hr は、ブロック状のアイソメトリック 3D 工場でいくつかの半導体エンジニアの役割の 1 つを演じる作業シミュレーターです。グラフィックスはベーシックに見えるかもしれないが、台湾の TVBS ニュースによれば、このゲームは非常にリアルなので製造工場の労働者の共感を呼ぶが、必ずしも良い意味ではない。このゲームを「ホラー ゲーム」や「刑務所」に喩える人もいる [機械翻訳]。
+
+(画像クレジット: Fab24hr ) (画像クレジット: Fab24hr ) (画像クレジット: Fab24hr ) (画像クレジット: Fab24hr ) (画像クレジット: Fab24hr ) 画像 1/5 オリジナル表示
+
+Fab24hr サイトにアクセスすると、ゲーム UI がすぐに読み込まれ、キャラクター名と「クロックイン」を入力するよう求められます。その後、2 つのゲーム モードが表示されます。 「チップの生涯」と呼ばれるメイン ストーリーをプレイすることができます。このストーリーでは、キャラクターが 12 の章を通じて、研…</p><p><img src="https://cdn.mos.cms.futurecdn.net/emSPKHqypgWdvGHE8rXasc-1920-80.jpg" alt="Web ベースのチップ製造エンジニアリング ゲームが台湾で大流行"></p>]]></description><source url="https://www.tomshardware.com/video-games/pc-gaming/chip-fab-engineering-game-goes-viral-in-taiwan-realistic-and-stressful-simulation-is-basically-a-horror-game-say-some-players">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/emSPKHqypgWdvGHE8rXasc-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/emSPKHqypgWdvGHE8rXasc-1920-80.jpg"/></item>
+<item><title>サポートされていないゲーム上で動作する公式 DLSS 5 は、リークされたバージョンよりも最大 90% 優れたパフォーマンスを実現</title><link>https://www.tomshardware.com/pc-components/gpus/modders-used-the-official-dlss-5-release-on-unsupported-games-and-are-seeing-up-to-90-percent-better-performance-than-the-leaked-dlss-5-nvidia-says-new-nr-model-uses-20-percent-less-vram-and-processes-neural-workloads-up-to-2x-faster</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/gpus/modders-used-the-official-dlss-5-release-on-unsupported-games-and-are-seeing-up-to-90-percent-better-performance-than-the-leaked-dlss-5-nvidia-says-new-nr-model-uses-20-percent-less-vram-and-processes-neural-workloads-up-to-2x-faster</guid><pubDate>Sun, 18 Oct 2026 12:45:00 +0000</pubDate><description><![CDATA[<p>サポートされていないゲーム上で動作する公式 DLSS 5 は、リークされたバージョンよりも最大 90% 優れたパフォーマンスを実現
+
+エヌビディア
+
+サポートされていないゲームで動作する公式 DLSS 5 は、リークされたバージョンよりも最大 90% 優れたパフォーマンスを提供します — Nvidia によると、新しい NR モデルは VRAM の使用量が 20% 削減され、ニューラル ワークロードの処理速度が最大 2 倍になります
+
+Nvidia の新しいニューラル レンダリング モデルは、小型ですが優れています。
+
+(画像クレジット: Nvidia) リンクをコピー
+
+1 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する NBA 2K27 の DLSS 5 の新しいバージョンがリリースされたばかりですが、改造者はすでにそれを抽出し、サポートされていないゲームで実行しています。モッダーは古いニューラル レンダリング (NR) モデルと新しいニューラル レンダリング (NR) モデルのパフォーマンスを比較しており、前のモデルよりも最大 40% 高速であることがわかりました。
+
+多くの人がまだリークされた最初のリリースのビルドを実験中ですが、Renan Maniero はすでに新しい 310.9.16.0 DLSS NR ビルドを抽出しており、他のモッダーがサポートされていないゲームでそれを使用してパフォーマンスを比較できるようにしています。 Gaming Optimized on X では、新しい NR モデルと古いモデルを比較し、DLSS 5 をネイティブで実行している ウィッチャー 3 で最大 90% という大幅な改善が見られました。
+
+ゲームのイメージを変更するために完全な NR モデルを実行すると、LLM が大量の RAM を必要とするのと同様に、リソースが大量に消費されます。 DLSS NR も同様です。パフォーマンスを向上させるために、Nvidia は AI モデルを 24% 小型化し、4K での…</p><p><img src="https://cdn.mos.cms.futurecdn.net/D2wF99DV4KRfYPYVeR3eWb-1280-80.jpg" alt="サポートされていないゲーム上で動作する公式 DLSS 5 は、リークされたバージョンよりも最大 90% 優れたパフォーマンスを実現"></p>]]></description><source url="https://www.tomshardware.com/pc-components/gpus/modders-used-the-official-dlss-5-release-on-unsupported-games-and-are-seeing-up-to-90-percent-better-performance-than-the-leaked-dlss-5-nvidia-says-new-nr-model-uses-20-percent-less-vram-and-processes-neural-workloads-up-to-2x-faster">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/D2wF99DV4KRfYPYVeR3eWb-1280-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/D2wF99DV4KRfYPYVeR3eWb-1280-80.jpg"/></item>
 <item><title>MIT エンジニアがゲームと VR 用のソフト 3D 形状センシング スキンを構築</title><link>https://www.tomshardware.com/virtual-reality/mit-engineers-build-soft-3d-shape-sensing-skin-for-gaming-and-vr-tracks-3d-movement-and-touch-with-sub-half-centimeter-error</link><guid isPermaLink="true">https://www.tomshardware.com/virtual-reality/mit-engineers-build-soft-3d-shape-sensing-skin-for-gaming-and-vr-tracks-3d-movement-and-touch-with-sub-half-centimeter-error</guid><pubDate>Sun, 18 Oct 2026 12:25:00 +0000</pubDate><description><![CDATA[<p>MIT エンジニアがゲームと VR 用のソフト 3D 形状センシング スキンを構築
 
 数本の繊維をカットしてもまだ機能しますが、衣服にはより多くの、より薄い繊維が必要になります。
@@ -16,6 +206,7 @@ MIT エンジニアがゲームと VR 用のソフト 3D 形状センシング �
 このニュースは、最近『Advanced Intelligent Systems』に掲載された論文「光導波路アレイを介した完全にソフトで多機能な形状センシングに向けて」に続くものです。それは、形状を識別するためにアレイがレイアウトされており、導波路が両方向、つまり「双方向」の曲げに応答することを詳述しています。ファイバー応答を組み合わせることで、必要なセンシング要素が少なくなり、損傷に対する回復力も向上します。繊維は圧力に反応するため、理学療法のデモにおける前腕の圧迫などの外力を感知できます。
 
 通常、光を閉じ込めるクラッド内の透明なコアであるプレーンファイバーは…</p><p><img src="https://cdn.mos.cms.futurecdn.net/AoiE9uB5AeDWhPjLmoTh43-2560-80.jpg" alt="MIT エンジニアがゲームと VR 用のソフト 3D 形状センシング スキンを構築"></p>]]></description><source url="https://www.tomshardware.com/virtual-reality/mit-engineers-build-soft-3d-shape-sensing-skin-for-gaming-and-vr-tracks-3d-movement-and-touch-with-sub-half-centimeter-error">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/AoiE9uB5AeDWhPjLmoTh43-2560-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/AoiE9uB5AeDWhPjLmoTh43-2560-80.jpg"/></item>
+<item><title>Arduino&#39;s $34 USB Camera Simplifies Computer Vision</title><link>https://www.hackster.io/news/arduino-s-34-usb-camera-simplifies-computer-vision-788263fad793</link><guid isPermaLink="true">https://www.hackster.io/news/arduino-s-34-usb-camera-simplifies-computer-vision-788263fad793</guid><pubDate>Sun, 18 Oct 2026 12:24:54 +0000</pubDate><description><![CDATA[<p>Arduino&#39;s $34 USB Camera Simplifies Computer Vision</p>]]></description><source url="https://www.hackster.io/news/arduino-s-34-usb-camera-simplifies-computer-vision-788263fad793">Hackster.io</source></item>
 <item><title>主要なドメインに対するタイポスクワッティング攻撃は依然として存在します</title><link>https://www.tomshardware.com/tech-industry/cyber-security/typo-squatting-attacks-with-major-domains-are-still-viable-corner-cases-with-cyrillic-characters-still-evade-the-best-checks</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/cyber-security/typo-squatting-attacks-with-major-domains-are-still-viable-corner-cases-with-cyrillic-characters-still-evade-the-best-checks</guid><pubDate>Sun, 18 Oct 2026 12:05:00 +0000</pubDate><description><![CDATA[<p>主要なドメインに対するタイポスクワッティング攻撃は依然として存在します
 
 注意深く観察していますか？
@@ -1285,7 +1476,6 @@ Microsoft は、Surface Laptop Ultra で新しい Nvidia RTX Spark プラット�
 Surface Laptop Ultra は、パーソナル コンピューティングにおいて奇妙な時期に登場しました。最近の業界の統計によると、2026 年の第 3 四半期には PC の総出荷台数が前年同期比で 20% 減少しました。これは消費者の購入だけではなく、全体的に当てはまります。消費者価格の高騰をもたらした RAM の黙示録と、企業の資金に執着する業界との間には、PC 愛好家を興奮させる新しいハードウェアはあまりありませんでした。
 
 RTX チップを搭載したラップトップをデビューさせたのは Micr…</p><p><img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/MS_Surface_Laptop_Ultra_Feature-1152x648.jpg" alt="Surface Laptop Ultra は Microsoft の約束のほとんどを実現します"></p>]]></description><source url="https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/">Ars Technica Gear &amp; Gadgets</source><media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/MS_Surface_Laptop_Ultra_Feature-1152x648.jpg" medium="image"/><media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/MS_Surface_Laptop_Ultra_Feature-1152x648.jpg"/></item>
-<item><title>Asus ProArt P16 RTX Spark Laptop Review - The future of multimedia laptops?</title><link>https://www.notebookcheck.net/Asus-ProArt-P16-RTX-Spark-Laptop-Review-The-future-of-multimedia-laptops.1422366.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/Asus-ProArt-P16-RTX-Spark-Laptop-Review-The-future-of-multimedia-laptops.1422366.0.html</guid><pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>Asus ProArt P16 RTX Spark Laptop Review - The future of multimedia laptops?</p>]]></description><source url="https://www.notebookcheck.net/Asus-ProArt-P16-RTX-Spark-Laptop-Review-The-future-of-multimedia-laptops.1422366.0.html">Notebookcheck</source></item>
 <item><title>Microsoft Surface Laptop Ultra レビュー: 真っ直ぐな美しい Windows PC の RTX Spark</title><link>https://www.tomshardware.com/tablets/microsoft-surface/microsoft-surface-laptop-ultra-rtx-spark-review</link><guid isPermaLink="true">https://www.tomshardware.com/tablets/microsoft-surface/microsoft-surface-laptop-ultra-rtx-spark-review</guid><pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>Microsoft Surface Laptop Ultra レビュー: 真っ直ぐな美しい Windows PC の RTX Spark
 
 AI モデルには便利ですが、Windows 11 のさらなる機能が活用されるのを待っています。
@@ -1311,6 +1501,7 @@ Tom&#39;s Hardware を信頼できる理由 当社の専門レビュー担当者
 Surface Laptop Ultra は、Surface がこれまでに製造した中で最も美しいラップトップです。画面が綺麗ですね。ポートの選択が強力で、金属製のシャーシは高級感があります。重いですが、それは AI モデルを実行するように設計された SoC を冷却する代償です。
 
 これは、Qualcomm チップを使用していない最初の Windows on Arm ラップトップの 1 つでもあります。ここでは Microsoft と…</p><p><img src="https://cdn.mos.cms.futurecdn.net/2euXU5qSKhStmYNM3oz75j-2520-80.jpg" alt="Microsoft Surface Laptop Ultra レビュー: 真っ直ぐな美しい Windows PC の RTX Spark"></p>]]></description><source url="https://www.tomshardware.com/tablets/microsoft-surface/microsoft-surface-laptop-ultra-rtx-spark-review">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/2euXU5qSKhStmYNM3oz75j-2520-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/2euXU5qSKhStmYNM3oz75j-2520-80.jpg"/></item>
+<item><title>Asus ProArt P16 RTX Spark Laptop Review - The future of multimedia laptops?</title><link>https://www.notebookcheck.net/Asus-ProArt-P16-RTX-Spark-Laptop-Review-The-future-of-multimedia-laptops.1422366.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/Asus-ProArt-P16-RTX-Spark-Laptop-Review-The-future-of-multimedia-laptops.1422366.0.html</guid><pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>Asus ProArt P16 RTX Spark Laptop Review - The future of multimedia laptops?</p>]]></description><source url="https://www.notebookcheck.net/Asus-ProArt-P16-RTX-Spark-Laptop-Review-The-future-of-multimedia-laptops.1422366.0.html">Notebookcheck</source></item>
 <item><title>台湾は米国のチップ製造サプライチェーンを支援するため、テキサス州に工業団地を建設するために40億ドルを調達</title><link>https://www.tomshardware.com/tech-industry/semiconductors/taiwan-raising-usd4-billion-to-build-industrial-park-in-texas-to-support-us-chipmaking-supply-chain-project-to-support-countless-small-manufacturers-crucial-to-tsmc-foxconn-supply-chain</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/semiconductors/taiwan-raising-usd4-billion-to-build-industrial-park-in-texas-to-support-us-chipmaking-supply-chain-project-to-support-countless-small-manufacturers-crucial-to-tsmc-foxconn-supply-chain</guid><pubDate>Fri, 16 Oct 2026 11:57:18 +0000</pubDate><description><![CDATA[<p>台湾は米国のチップ製造サプライチェーンを支援するため、テキサス州に工業団地を建設するために40億ドルを調達
 
 これはTSMCを助けるだろう
@@ -3825,139 +4016,4 @@ Modder が Apple Silicon Mac 上で Googlebook OS を起動
 <item><title>Battlefield 2 is getting an unofficial open-source revival with working multiplayer</title><link>https://www.tweaktown.com/rss/click/news/114023/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/114023/?c=news-mf</guid><pubDate>Mon, 12 Oct 2026 00:04:03 +0000</pubDate><description><![CDATA[<p>Battlefield 2 is getting an unofficial open-source revival with working multiplayer</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/114023/?c=news-mf">TweakTown</source></item>
 <item><title>Activision takes down AI-made Black Ops 2 browser ports</title><link>https://www.tweaktown.com/rss/click/news/114029/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/114029/?c=news-mf</guid><pubDate>Sun, 11 Oct 2026 23:32:11 +0000</pubDate><description><![CDATA[<p>Activision takes down AI-made Black Ops 2 browser ports</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/114029/?c=news-mf">TweakTown</source></item>
 <item><title>Microsoft warns outdated Windows PCs could lose access to Windows Update in 2027</title><link>https://www.tweaktown.com/rss/click/news/114028/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/114028/?c=news-mf</guid><pubDate>Sun, 11 Oct 2026 23:03:11 +0000</pubDate><description><![CDATA[<p>Microsoft warns outdated Windows PCs could lose access to Windows Update in 2027</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/114028/?c=news-mf">TweakTown</source></item>
-<item><title>ハッカデイ リンク: 2026 年 10 月 11 日</title><link>https://hackaday.com/2026/10/11/hackaday-links-october-11-2026/</link><guid isPermaLink="true">https://hackaday.com/2026/10/11/hackaday-links-october-11-2026/</guid><pubDate>Sun, 11 Oct 2026 23:00:39 +0000</pubDate><description><![CDATA[<p>ハッカデイ リンク: 2026 年 10 月 11 日
-
-おそらく言うまでもないことですが、4 人の人間を月を間近に観察させると、地球に閉じ込められている私たちが気づかなかったものが見えることになるでしょう。私たちにとって幸運なことに、彼らも…
-
-おそらく言うまでもないことですが、4 人の人間を月を間近に観察させると、地球に閉じ込められている私たちが気づかなかったものが見えることになるでしょう。私たちにとって幸運なことに、彼らは完璧なメモを取り、たくさんのカメラを持ってきてくれました。NASA はそのカメラを Artemis II: Sights &amp; Sounds of Science としてクラスの他の生徒と共有しました。
-
-そうですね、厳密にはこれは「アルテミス II 月科学予備報告書」と呼ばれていますが、宇宙機関がそれに少しセンスを加えて、調査結果を一般向けにフォーマット化したことに私たちは感謝しています。おそらく、この報告書で詳述されている最も重要な観察は、月面の衝突閃光である。ご記憶のとおり、オリオン宇宙船の軌道により、乗組員はミッションの 6 日目にユニークな日食を経験し、暗い月を前例のないほど間近で見ることができました。この間、彼らは肉眼で閃光を見ることができ、その後NASAはそれが信じられないほどの速度で月面に衝突した小さな岩の破片（おそらく幅数インチ以下）であることを確認した。
-
-アルテミス II ミッションは歴史に残るミッションであり、私たちのほとんどにとって、生涯で最も重要な宇宙ミッションでした。しかし、宇宙へのアクセスがより安価になり、より日常的なものになるにつれて、軌道上のすべての活動がそれほど重要になるわけではないのは当然です。たとえば、グラスゴー大学と日本の九州大学の学生は現在、宇宙で初めてウイスキーを蒸留するという計画されたミッションで協力しています。
-
-2028年に打ち上げられる予定のCubeSatは10mlの液体を搭載し、宇宙船が地球の周りを移動する際に経験する頻繁な変化が成熟過程にどのような影響を与えるかに特に関心を持って、軌道上で…</p><p><img src="https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg" alt="ハッカデイ リンク: 2026 年 10 月 11 日"></p>]]></description><source url="https://hackaday.com/2026/10/11/hackaday-links-october-11-2026/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg"/></item>
-<item><title>Googlebook OS is already running on Apple Silicon Macs thanks to a new open-source project</title><link>https://www.tweaktown.com/rss/click/news/114030/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/114030/?c=news-mf</guid><pubDate>Sun, 11 Oct 2026 22:26:15 +0000</pubDate><description><![CDATA[<p>Googlebook OS is already running on Apple Silicon Macs thanks to a new open-source project</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/114030/?c=news-mf">TweakTown</source></item>
-<item><title>CXMT plans to launch 4F&amp;sup2; DDR5 server memory by year-end, potentially beating Samsung by two years</title><link>https://www.tweaktown.com/rss/click/news/114025/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/114025/?c=news-mf</guid><pubDate>Sun, 11 Oct 2026 21:50:07 +0000</pubDate><description><![CDATA[<p>CXMT plans to launch 4F&amp;sup2; DDR5 server memory by year-end, potentially beating Samsung by two years</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/114025/?c=news-mf">TweakTown</source></item>
-<item><title>羊蹄の幽霊がPS5エミュレータSharpEmuでゲームプレイに到達、パフォーマンスにはまだ改善の余地あり</title><link>https://www.techpowerup.com/353608/ghost-of-yotei-reaches-gameplay-on-ps5-emulator-sharpemu-performance-still-needs-work</link><guid isPermaLink="true">https://www.techpowerup.com/353608/ghost-of-yotei-reaches-gameplay-on-ps5-emulator-sharpemu-performance-still-needs-work</guid><pubDate>Sun, 11 Oct 2026 20:52:47 +0000</pubDate><description><![CDATA[<p>羊蹄の幽霊がPS5エミュレータSharpEmuでゲームプレイに到達、パフォーマンスにはまだ改善の余地あり
-
-Ghost of Yorei は、PC のメニューを乗り越えられる最新の PlayStation 5 専用ゲームになりました。開発者のFoued (@foufouadi_) は、プレイ可能なリストのほとんどが小規模なインディーズや実験的な PS5 エミュレータである SharpEmu の修正ビルドで実行されている Sucker Punch の 2025 年サムライ ゲーム X の映像を共有しました。
-
-羊蹄の幽霊がPS5エミュレータSharpEmuでゲームプレイに到達、パフォーマンスにはまだ改善の余地あり
-
-2026 年 9 月 30 日 新しい脱獄により、ほぼすべての PlayStation 5 モデルのロックが解除されます (10)
-
-2026 年 8 月 30 日 GTA 6 の公開後に PS5 Pro の在庫がなくなり、価格は 1,300 ドルに達しました (24)
-
-2026 年 5 月 18 日 インサイダーは、ソニーが PC ポートを廃止することを認めています: 「PC に登場するシングル プレーヤー ゲームは少なくなるでしょう。」 (135)
-
-2026 年 4 月 28 日 Linux が PlayStation 5 で正式に利用可能になりました (22)
-
-2026 年 9 月 25 日 AnyPS5 プロジェクトはエミュレーションを完全にスキップし、PlayStation 5 ゲームを PC に直接移植することを目指す (18)
-
-2026 年 9 月 6 日 PS5 バージョンの GTA 5 が PC 上で KytyPS5 エミュレーター経由で最大 60 FPS でプレイ可能 (25)
-
-2026 年 10 月 3 日 Marvel&#39;s Wolverine が PS5 エミュレータ KytyPS5 で最初の起動から数日後に 20 FPS を達成 (19)
-
-2026 年 3 月 6 日 PlayStation 6 のリークヒント 4K 12…</p><p><img src="https://www.techpowerup.com/img/zHWFRCnrWUFEzlQR.jpg" alt="羊蹄の幽霊がPS5エミュレータSharpEmuでゲームプレイに到達、パフォーマンスにはまだ改善の余地あり"></p>]]></description><source url="https://www.techpowerup.com/353608/ghost-of-yotei-reaches-gameplay-on-ps5-emulator-sharpemu-performance-still-needs-work">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/zHWFRCnrWUFEzlQR.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/zHWFRCnrWUFEzlQR.jpg"/></item>
-<item><title>2026 年に Amazon Kids 電子書籍リーダーを購入しますか?</title><link>https://goodereader.com/blog/kindle/would-you-buy-amazon-kids-e-readers-in-2026</link><guid isPermaLink="true">https://goodereader.com/blog/kindle/would-you-buy-amazon-kids-e-readers-in-2026</guid><pubDate>Sun, 11 Oct 2026 20:26:28 +0000</pubDate><description><![CDATA[<p>2026 年に Amazon Kids 電子書籍リーダーを購入しますか?
-
-以前に Amazon Kids 電子書籍リーダーを購入したことがありますか、または最新の第 13 世代デバイスを購入する予定はありますか?
-
-Amazon Kindle Kids は、デジタルの邪魔をせずに読書を奨励できるように、子供向けに特別に作られた電子書籍リーダーのシリーズです。デバイス自体は、標準的な大人用 Kindle とまったく同じプレミアムで目が疲れない電子インク ハードウェアを使用していますが、専用の保護者向けソフトウェアが付属した子供向けのバンドルとしてパッケージ化されています。
-
-すべてのデバイスには、アーティストがデザインした耐久性のある保護カバーと Amazon Kids+ への 1 年間のサブスクリプションが含まれており、お子様は年齢に応じた数千冊の書籍、シリーズ、オーディオブックに無制限にアクセスできます。 Amazon Parent Dashboard モバイル アプリを通じて、保護者は読書の進捗状況を監視し、毎日の教育目標を設定し、就寝時間を設定し、自分のライブラリのどの本を子供と共有できるかを承認することができます。このソフトウェアには、Word Wise (難しい単語の上に短くて簡単な定義を自動的に表示します) や、子供たちが読みながら学習できるようにする自動語彙ビルダーなどの機能が含まれています。
-
-Amazon は電子書籍リーダーのラインナップ全体を刷新し、3 つの新しい Kindle Kids モデルを導入しました。この新世代のすべてのデバイスは、端から端までフラッシュ ディスプレイと、より薄く軽量なハードウェアを備えています。キッズラインの決定的な利点は依然としてバンドル価格です。各電子書籍リーダーには、アーティストがデザインした保護ケース、広告なしのエクスペリエンス、2 年間の安心交換保証、および年齢に応じた数千冊の書籍やオーディオブックへのアクセスを許可する 12 か月の Amazon Kids+ が含まれています。
-
-Amazon Kids Ki…</p><p><img src="https://media.goodereader.com/blog/uploads/images/2026/10/11162424/15688fae-0635-45b4-b6c7-ee21b222bbed.jpg" alt="2026 年に Amazon Kids 電子書籍リーダーを購入しますか?"></p>]]></description><source url="https://goodereader.com/blog/kindle/would-you-buy-amazon-kids-e-readers-in-2026">Good e-Reader</source><media:content url="https://media.goodereader.com/blog/uploads/images/2026/10/11162424/15688fae-0635-45b4-b6c7-ee21b222bbed.jpg" medium="image"/><media:thumbnail url="https://media.goodereader.com/blog/uploads/images/2026/10/11162424/15688fae-0635-45b4-b6c7-ee21b222bbed.jpg"/></item>
-<item><title>The Camera That Doesn’t Take Photos — It Finds Them</title><link>https://www.hackster.io/news/the-camera-that-doesn-t-take-photos-it-finds-them-9cb92f7468ee</link><guid isPermaLink="true">https://www.hackster.io/news/the-camera-that-doesn-t-take-photos-it-finds-them-9cb92f7468ee</guid><pubDate>Sun, 11 Oct 2026 20:19:55 +0000</pubDate><description><![CDATA[<p>The Camera That Doesn’t Take Photos — It Finds Them</p>]]></description><source url="https://www.hackster.io/news/the-camera-that-doesn-t-take-photos-it-finds-them-9cb92f7468ee">Hackster.io</source></item>
-<item><title>リテルヒューズ、EZ80 の生産終了を発表</title><link>https://hackaday.com/2026/10/11/littelfuse-announces-retirement-of-the-ez80/</link><guid isPermaLink="true">https://hackaday.com/2026/10/11/littelfuse-announces-retirement-of-the-ez80/</guid><pubDate>Sun, 11 Oct 2026 20:00:21 +0000</pubDate><description><![CDATA[<p>リテルヒューズ、EZ80 の生産終了を発表
-
-Zilog Z80 プロセッサの終焉は長い間予測されてきましたが、ついにその瞬間が来たようです。 Zilog の名前の所有者 – リテルヒューズ – は最近、…
-
-Zilog Z80 プロセッサの終焉は長い間予測されてきましたが、ついにその瞬間が来たようです。 Zilog の名前の所有者であるリテルヒューズは、最近 PCN ZAC26-0074 を発行し、現在所有している eZ80 およびその他すべてのマイクロコントローラー シリーズの最終注文を受け付けることを顧客に通知しました。
-
-マウザーでは、eZ80 部品もすべて「生産終了」とマークされています。これは、オリジナルの Z80 とその周辺機器が製造中止されてから数年後に発売され、現在まで eZ80 が代替品として残っています。
-
-潜在的な販売者は今日注文する必要があり、注文は 2026 年 12 月 21 日まで受け付けられ、リテルヒューズが MCU の製造を縮小するため、最終納品は 2027 年中に行われます。これは、少なくとも商用顧客にとって、eZ80 などをまだ使用しているサーキットにとって、これがほぼ終わりであることを意味します。
-
-私たちの多くは Z80 に愛着を持っており、それが Z80 が存続できる可能性にもつながりました。これには、Z80 と互換性のある多くのオープンソース コアと、TinyTapeout プロジェクトから提供された実際のシリコンの両方が含まれます。
-
-ヒントをくださった[Techokami]さんに感謝します。</p><p><img src="https://hackaday.com/wp-content/uploads/2019/10/Zilog_Z80-featured.jpg" alt="リテルヒューズ、EZ80 の生産終了を発表"></p>]]></description><source url="https://hackaday.com/2026/10/11/littelfuse-announces-retirement-of-the-ez80/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2019/10/Zilog_Z80-featured.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2019/10/Zilog_Z80-featured.jpg"/></item>
-<item><title>Steam の同時接続プレイヤー数が 4,350 万人を突破、過去最高を更新</title><link>https://www.techpowerup.com/353605/steam-tops-43-5-million-concurrent-players-new-all-time-high</link><guid isPermaLink="true">https://www.techpowerup.com/353605/steam-tops-43-5-million-concurrent-players-new-all-time-high</guid><pubDate>Sun, 11 Oct 2026 19:58:36 +0000</pubDate><description><![CDATA[<p>Steam の同時接続プレイヤー数が 4,350 万人を突破、過去最高を更新
-
-日曜日は自由時間として指定されており、Steam の同時接続プレイヤー数が 4,350 万人に達し、史上最高を記録したと伝えられており、ゲーマーたちは今日それを確認しています。 10 月 11 日日曜日、協定世界時ちょうど 14:00 に、4,350 万人のゲーマーがオンラインでチャット、プレイ、お気に入りのデジタル ゲームに参加しました。
-
-Steam の同時接続プレイヤー数が 4,350 万人を突破、過去最高を更新
-
-2026 年 4 月 13 日 Epic Games ストアの従業員: 無料ゲームのためだけに来て、その後 Steam に戻ってきた人々 (91)
-
-2026 年 5 月 27 日 リーカーが天文学的な蒸気機械の価格を示唆 (74)
-
-2026 年 6 月 22 日 Valve が Steam Machine の価格をついに明らかにし、予約注文の受付を開始 (526)
-
-2026 年 7 月 18 日 Valve は週に 12-15,000 台のスチームマシンを販売していると報告されています (125)
-
-2026 年 4 月 2 日 Steam Deck 2 溝、既製 AMD シリコン用セミカスタム APU、Eyes 2028 発表 (45)
-
-2025 年 11 月 28 日 バルブスチームマシンのコストが予想よりも低くなる可能性 (118)
-
-2025 年 11 月 17 日 Valve は、Steam Machine が現在のゲーミング PC の 70% を上回るパフォーマンスを発揮すると主張 (133)
-
-2026 年 8 月 28 日 ウィッチャー 3: ワイルドハント リマスター版 PC の最小ハードウェア要件 (52)
-
-2026 年 6 月 30 日 シングルチャネル RAM により Steam マシンが機能不全に陥る (110)
-
-2026 年 9 月 12 日 Steam フレームのファーストルックビデオが Linus Tech Tips によって誤っ…</p><p><img src="https://www.techpowerup.com/img/TVUedwLboXAuaQPN.jpg" alt="Steam の同時接続プレイヤー数が 4,350 万人を突破、過去最高を更新"></p>]]></description><source url="https://www.techpowerup.com/353605/steam-tops-43-5-million-concurrent-players-new-all-time-high">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/TVUedwLboXAuaQPN.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/TVUedwLboXAuaQPN.jpg"/></item>
-<item><title>Microsoft、パッチを当てていないPCでは来年Windows Updateが機能しなくなると警告</title><link>https://www.techpowerup.com/353604/microsoft-warns-windows-update-will-stop-working-on-unpatched-pcs-next-year</link><guid isPermaLink="true">https://www.techpowerup.com/353604/microsoft-warns-windows-update-will-stop-working-on-unpatched-pcs-next-year</guid><pubDate>Sun, 11 Oct 2026 19:31:27 +0000</pubDate><description><![CDATA[<p>Microsoft、パッチを当てていないPCでは来年Windows Updateが機能しなくなると警告
-
-Microsoft は、Windows PC が正規の Windows Update サーバーと通信していることを確認するために使用する証明書を置き換えており、切り替えを逃したマシンはアップデートの受信を停止します。同社は 10 月 8 日にローテーションを発表し、現在の証明書は 5 月 17 日と 6 月に期限切れになります。
-
-Microsoft、パッチを当てていないPCでは来年Windows Updateが機能しなくなると警告
-
-2025 年 10 月 21 日 Windows 11 25H2 October Update のバグにより回復環境が使用不能になる (170)
-
-2026 年 9 月 6 日 Microsoft、AI が Windows 11 用のネイティブ WinUI 3 アプリを 30 分以内に構築できるようになりました (18)
-
-2025 年 10 月 17 日 Microsoft が Windows 11 October Update で Localhost を破壊し、ユーザーは強制的に元に戻される (105)
-
-2026 年 10 月 5 日 Windows 11 26H2 アップデートにより RAM 消費量が削減 (68)
-
-2025 年 12 月 14 日 Microsoft Copilot AI が LG TV に搭載、削除できない (144)
-
-2026 年 5 月 27 日 Microsoft は Windows 11 パフォーマンス向上アップデート (81) を展開しています
-
-2026 年 9 月 30 日 Microsoft が Windows 11 26H2 アップデートを開始 (71)
-
-2026 年 8 月 5 日 Microsoft は Windows 11 の 32 GB RAM 推奨をひっそりと削除 (56)
-
-2026 年 5 月 1 日 Microsoft は、Windows 11 の「心配しない」アップ…</p><p><img src="https://www.techpowerup.com/img/69jJWZp0EuZUfJYo.jpg" alt="Microsoft、パッチを当てていないPCでは来年Windows Updateが機能しなくなると警告"></p>]]></description><source url="https://www.techpowerup.com/353604/microsoft-warns-windows-update-will-stop-working-on-unpatched-pcs-next-year">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/69jJWZp0EuZUfJYo.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/69jJWZp0EuZUfJYo.jpg"/></item>
-<item><title>AI at the Speed of Light</title><link>https://www.hackster.io/news/ai-at-the-speed-of-light-6863cafa0436</link><guid isPermaLink="true">https://www.hackster.io/news/ai-at-the-speed-of-light-6863cafa0436</guid><pubDate>Sun, 11 Oct 2026 19:05:46 +0000</pubDate><description><![CDATA[<p>AI at the Speed of Light</p>]]></description><source url="https://www.hackster.io/news/ai-at-the-speed-of-light-6863cafa0436">Hackster.io</source></item>
-<item><title>GTA 6 leaker Cyberleek threatens to leak full playable build if Take-Two doesn&#39;t bring back physical discs</title><link>https://www.tweaktown.com/rss/click/news/114026/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/114026/?c=news-mf</guid><pubDate>Sun, 11 Oct 2026 18:57:14 +0000</pubDate><description><![CDATA[<p>GTA 6 leaker Cyberleek threatens to leak full playable build if Take-Two doesn&#39;t bring back physical discs</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/114026/?c=news-mf">TweakTown</source></item>
-<item><title>Review: 4-hour Musk documentary feels like two different films</title><link>https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/</link><guid isPermaLink="true">https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/</guid><pubDate>Sun, 11 Oct 2026 18:10:54 +0000</pubDate><description><![CDATA[<p>Review: 4-hour Musk documentary feels like two different films
-
-Alex Gibney&#39;s provocative film is compelling but overlong, and there&#39;s not much new here for Ars readers.
-
-Text settings Story text Size Small Standard Large Width * Standard Wide Links Standard Orange * Subscribers only Learn more Minimize to nav Elon Musk is a very familiar figure to Ars readers, given his massive influence (for better and worse) on the technology sector over the last 20 years. Oscar-winning director Alex Gibney’s latest biographical documentary—simply titled Musk —covers a lot of well-known ground and challenges the carefully crafted public image of Musk as a visionary tech titan.
-
-Gibney’s documentary presents Musk as more of a Gilded Age confidence man, rejiggered for the 21st century: an investor cosplay…</p><p><img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/musk3-1152x648-1791058712.jpg" alt="Review: 4-hour Musk documentary feels like two different films"></p>]]></description><source url="https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/">Ars Technica Gear &amp; Gadgets</source><media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/musk3-1152x648-1791058712.jpg" medium="image"/><media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/musk3-1152x648-1791058712.jpg"/></item>
-<item><title>Silent Hill is back for good as Konami plots &#39;second and third waves&#39; of new games</title><link>https://www.tweaktown.com/rss/click/news/114022/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/114022/?c=news-mf</guid><pubDate>Sun, 11 Oct 2026 17:59:06 +0000</pubDate><description><![CDATA[<p>Silent Hill is back for good as Konami plots &#39;second and third waves&#39; of new games</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/114022/?c=news-mf">TweakTown</source></item>
-<item><title>Thorium Clocks Start Ticking with Lasers</title><link>https://hackaday.com/2026/10/11/thorium-clocks-start-ticking-with-lasers/</link><guid isPermaLink="true">https://hackaday.com/2026/10/11/thorium-clocks-start-ticking-with-lasers/</guid><pubDate>Sun, 11 Oct 2026 17:00:52 +0000</pubDate><description><![CDATA[<p>Thorium Clocks Start Ticking with Lasers
-
-Atomic clocks are super accurate. But, unsurprisingly, some atomic clocks are better than others, depending on your definition of better. Researchers at Vienna University claim to have a superior t…
-
-Atomic clocks are super accurate. But, unsurprisingly, some atomic clocks are better than others, depending on your definition of better. Researchers at Vienna University claim to have a superior thorium-based atomic clock . It isn’t necessarily more accurate than other atomic clocks, but it is self-regulating.
-
-Apparently, prior atomic clocks need help to stay stable. But scientists have thought that thorium, with its very narrow gap between two states, would make an excellent clock with the help of a laser. However, the laser has to have precise prop…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/10/clock.png" alt="Thorium Clocks Start Ticking with Lasers"></p>]]></description><source url="https://hackaday.com/2026/10/11/thorium-clocks-start-ticking-with-lasers/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/10/clock.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/10/clock.png"/></item>
-<item><title>Console market craters as Xbox sales crash 33% to the lowest since launch 25 years ago, PS5 sales drop 25%</title><link>https://www.tomshardware.com/video-games/console-gaming/console-market-craters-as-xbox-sales-crash-33-percent-to-the-lowest-since-launch-25-years-ago-ps5-sales-drop-25-percent-steep-price-hikes-push-series-x-to-usd800-and-ps5-pro-to-usd900</link><guid isPermaLink="true">https://www.tomshardware.com/video-games/console-gaming/console-market-craters-as-xbox-sales-crash-33-percent-to-the-lowest-since-launch-25-years-ago-ps5-sales-drop-25-percent-steep-price-hikes-push-series-x-to-usd800-and-ps5-pro-to-usd900</guid><pubDate>Sun, 11 Oct 2026 16:30:00 +0000</pubDate><description><![CDATA[<p>Console market craters as Xbox sales crash 33% to the lowest since launch 25 years ago, PS5 sales drop 25%
-
-Are consoles too expensive right now?
-
-Console market craters as Xbox sales crash 33% to the lowest since launch 25 years ago, PS5 sales drop 25% — steep price hikes push Series X to $800 and PS5 Pro to $900
-
-Are consoles too expensive right now?
-
-(Image credit: Getty Images/Future Publishing ) Copy link
-
-9 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter Video game console sales in the U.S. have cratered, with both the PS5 and Xbox seeing a massive drop in YTD sales through the end of August compared with last year. Mat Piscatella, the video game industry advisor at research firm Circana, shared the numbers on his Bluesky …</p><p><img src="https://cdn.mos.cms.futurecdn.net/aG7yU8AZk2PDc4L8cPh9wY-1920-80.jpg" alt="Console market craters as Xbox sales crash 33% to the lowest since launch 25 years ago, PS5 sales drop 25%"></p>]]></description><source url="https://www.tomshardware.com/video-games/console-gaming/console-market-craters-as-xbox-sales-crash-33-percent-to-the-lowest-since-launch-25-years-ago-ps5-sales-drop-25-percent-steep-price-hikes-push-series-x-to-usd800-and-ps5-pro-to-usd900">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/aG7yU8AZk2PDc4L8cPh9wY-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/aG7yU8AZk2PDc4L8cPh9wY-1920-80.jpg"/></item>
 </channel></rss>
