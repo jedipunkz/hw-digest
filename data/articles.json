@@ -1,6 +1,96 @@
 {
   "akiba": [
     {
+      "Title": "KB5127648インストール後、BitLocker回復画面が表示される不具合。一部PC環境で発生",
+      "Link": "https://www.nichepcgamer.com/archives/post-133209.html",
+      "Published": "2026-10-18T17:00:40Z",
+      "Source": "ニッチなPCゲーマーの環境構築Z",
+      "Category": "WindowsUpdate-2026-10",
+      "Summary": "KB5127648インストール後、BitLocker回復画面が表示される不具合。一部PC環境で発生\n\n一部PC環境において、KB5127648インストール後、BitLocker回復画面が表示されるとの不具合報告が出ています。 不具合概要 日本時間で2026年10月14日にリリースされたWindows...\n\n一部PC環境において、 KB5127648インストール後、BitLocker回復画面が表示されるとの不具合報告が出ています。\n\n日本時間で2026年10月14日にリリースされたWindows11 26H2 / Windows11 25H2 / Windows11 24H2用セキュリティ更新プログラム(セキュリティパッチ)KB5127648をインストールした一部のPC環境において、再起動後、BitLocker回復画面が表示されてBitLocker回復キーの入力を求められるとの不具合報告が出ています。\n\nなお、この現象はすべての環境で発生するものではありません。BitLocker回復画面が表示される具体的な条件は判明していません。\n\nBitLocker回復キーを入力してください。基本、これで問題は解決します。\n\nもし、BitLocker回復キーがわからない場合、Microsoftアカウントを利用されている場合は『 Microsoft account | BitLocker 回復キー 』ページをご覧ください。\n\nWindows11 , WindowsUpdate-2026-10\n\n筆者は自作PC歴20年以上の経験を持ち、Windows OSの細部にわたるカスタマイズや高度な設定、PCゲームの最適化、PCハードウェアとソフトウェアに関する専門知識をもとに、PC環境を快適にするための情報、不具合に遭わないようにするための情報、そして、ちょっとニッチよりなPCユーザー向け記事の執筆を2015年4月から11年にわたって行っています。\n\n長年の経験により得たノウハウを活かし、初心者から上級者まで幅広く対応できる情報を提供し、読者様のPCライフをより快適で充実したものにすることを目指…",
+      "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2026/03/windows11-logo-ba-1200.jpg"
+    },
+    {
+      "Title": "ASUS初のIntel Arcカード、32GB搭載「UGen Arc Pro B70」を公開",
+      "Link": "https://www.gdm.or.jp/pressrelease/2026/1019/656860",
+      "Published": "2026-10-18T16:46:42Z",
+      "Source": "エルミタージュ秋葉原",
+      "Category": "",
+      "Summary": "ASUS初のIntel Arcカード、32GB搭載「UGen Arc Pro B70」を公開\n\nASUSが、同社初のIntel Arcグラフィックスカード「UGen Intel Arc Pro B70 32GB GDDR6」を公開。ECC対応GDDR6 32GBと2スロット厚のブロワークーラーを採用する。\n\nASUS初のIntel Arcカード、32GB搭載「UGen Arc Pro B70」を公開\n\nASUSTeK Computer Inc.（本社：台湾）は2026年10月17日（現地時間）、同社初のIntel Arcグラフィックスカード 「UGen Intel Arc Pro B70 32GB GDDR6」 の製品情報を公開した。価格および発売時期、販売地域は明らかにされていない。\n\nローカルAI推論やクリエイティブワークを想定したプロフェッショナル向けグラフィックスカード。ASUSは2021年にIntel Iris XeベースのディスクリートGPU「DG1-4G」を投入しているが、Intel Arcブランドを採用する製品は今回が初めて。\n\nGPUアーキテクチャはIntel Xe2で、32基のXeコアを搭載。最大動作クロックは2,800MHzで、演算性能はFP32が22.94TFLOPS、INT8が最大367TOPSとされている。\n\nビデオメモリはECC対応のGDDR6 32GB。メモリインターフェイスは256bit、メモリスピードは19Gbps、メモリ帯域幅は608GB/s。Ollamaやllama.cpp、vLLM、PyTorch、OpenVINOなどのAI関連ソフトウェアをサポートする。\n\nまた、冷却機構には、隣接する拡張カードへ排熱しにくいブロワーファンを採用。カード厚を2スロットに抑えており、最大4基を搭載することで合計128GBのグラフィックスメモリを利用するマルチGPU構成にも対応できる。\n\nインターフェイスはPCI Express 5.0（x16）。映像出力端子はDisplayPort 2.1（UHBR13.5）×3、HDMI 2.1b ×1で、最大…",
+      "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/10/19/UGen_Arc_Pro_B70_001.jpg"
+    },
+    {
+      "Title": "ジャンクワールド、ハロウィンセールを開催。中古ノートPCや小型デスクトップPCが格安",
+      "Link": "https://www.nichepcgamer.com/archives/post-133188.html",
+      "Published": "2026-10-18T16:00:14Z",
+      "Source": "ニッチなPCゲーマーの環境構築Z",
+      "Category": "ハードウェア全般",
+      "Summary": "ジャンクワールド、ハロウィンセールを開催。中古ノートPCや小型デスクトップPCが格安\n\n格安中古パソコン専門店ジャンクワールドは、ハロウィンセールを開催しました。 ハロウィンセールでは中古のiPhone 12 miniや、軽いワークロードなどに好適な中古ノートPC・小型デスクトップPC...\n\n格安中古パソコン専門店ジャンクワールドは、 ハロウィンセールを開催しました。\n\nハロウィンセールでは中古のiPhone 12 miniや、軽いワークロードなどに好適な中古ノートPC・小型デスクトップPCなどが格安にて販売されています。\n\nいくつか例を挙げますと、Core i5-8250U10110U / メモリ8GB / SSD 240GB / Windows11 Homeの富士通 LIFEBOOK SH75/B3中古ノートPCが税込22,800円、Core i5-10210U / メモリ16GB / SSD 480GB / Windows11 Homeの富士通 LIFEBOOK A5510中古ノートPCが税込34,800円にて登場。\n\nジャンクワールドは、サブPC用途や、ハイスペックを求めていない人、とにかく安く正規にWindows11を使いたい人にはうってつけのショップです。安価なPCを探している方は、セールページを覗いてみてはいかがでしょうか。\n\n格安中古パソコン専門店ジャンクワールド ジャンクワールド ハロウィンセール\n\n筆者は自作PC歴20年以上の経験を持ち、Windows OSの細部にわたるカスタマイズや高度な設定、PCゲームの最適化、PCハードウェアとソフトウェアに関する専門知識をもとに、PC環境を快適にするための情報、不具合に遭わないようにするための情報、そして、ちょっとニッチよりなPCユーザー向け記事の執筆を2015年4月から11年にわたって行っています。\n\n長年の経験により得たノウハウを活かし、初心者から上級者まで幅広く対応できる情報を提供し、読者様のPCライフをより快適で充実したものにすることを目指しています。",
+      "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2026/10/jw-halloween-sale2026.jpg"
+    },
+    {
+      "Title": "iPhone Duo、発売日当日の予約なし購入は困難か〜Appleが従業員に指示",
+      "Link": "https://iphone-mania.jp/iphone18-607610/",
+      "Published": "2026-10-18T15:17:47Z",
+      "Source": "iPhone Mania",
+      "Category": "Apple Store",
+      "Summary": "iPhone Duo、発売日当日の予約なし購入は困難か〜Appleが従業員に指示\n\niPhone Duoの発売日は10月23日ですが、予約なしで発売日当日にApple Storeで購入するのは極めて難しい見通しです。Appleは一部の店舗従業員に対して、予約していない顧客には発売日当日の購入が難しいことを伝え、来店を思いとどまるよう促すことを指示したと報じられています。\n\niPhone Duo、発売日当日の予約なし購入は困難か〜Appleが従業員に指示\n\niPhone Duo の発売日は10月23日ですが、 予約なしで発売日当日にApple Storeで購入するのは極めて難しい 見通しです。Appleは一部の店舗従業員に対して、予約していない顧客には発売日当日の購入が難しいことを伝え、来店を思いとどまるよう促すことを指示したと報じられています。\n\niPhone Duoはかなりの人気を集めており、予約注文をしても実際に製品を手にできるのは来年になるという人も出てきているようです。\n\nこうした状況から、10月23日の発売日当日に予約なしで購入するのは難しいと予想されますが、それでも店頭での購入を期待してApple Storeを訪れる顧客が出てくることは考えられます。\n\nMacRumorsによると、Appleは 一部のApple Storeの従業員に対し、予約なしで来店しても購入できない見通しであることを顧客に伝え、発売日当日の来店を控えるよう促すことを指示した とのことです。\n\nなお、Appleのオンラインストアでは、10月24日に店舗受け取りの在庫状況を再確認するよう案内されています。ただし、翌日になれば購入できるという保証はありません。\n\n米国ではすでに、 オークションサイトeBayでiPhone Duoの予約済み端末が定価の約1.7倍で落札される事例 も報告されており、発売直後の品薄を背景に価格が高騰しているようです。\n\n--PR-- [公式] - iPhoneの購入や予約はオンラインで確実に！\n\niPhoneなどApple製品の疑問は iMコミュニティ で聞けます。…",
+      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/10/19/R119.jpeg"
+    },
+    {
+      "Title": "Mac Studio向け3UラックマウントケースがSonnetから、Thunderbolt 5対応のPCIeカード拡張モジュール搭載",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2149023.html",
+      "Published": "2026-10-18T15:05:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "Mac Studio向け3UラックマウントケースがSonnetから、Thunderbolt 5対応のPCIeカード拡張モジュール搭載\n\nMac Studioを搭載できる3Uラックマウントケース「xMac Studio/Echo III T5 Enclosure System（XMAC-STD-III-T5）」が秋葉館に入荷。\n\nMac Studio向け3UラックマウントケースがSonnetから、Thunderbolt 5対応のPCIeカード拡張モジュール搭載\n\nMac Studioを搭載できる3Uラックマウントケース「xMac Studio/Echo III T5 Enclosure System（XMAC-STD-III-T5）」が 秋葉館 に入荷。\n\n3スロットPCIeカード拡張モジュールがセットになっており、店頭価格は358,000円。\n\nMac Studioをラックに固定するための3Uラックマウント、3スロット仕様のPCIeカード拡張モジュール付き\n\nxMac Studio/Echo III T5 Enclosure Systemは、3Uラックマウント仕様の筐体にMac Studioと、最大3枚のPCIeカードを収納できるスチール製のラックマウントケース。\n\nThunderbolt 5接続に対応したPCIeカード拡張モジュールを搭載しており、フルハイト、フルレングスサイズまでの拡張カード（PCIe 4.0/3.1/2.0/1.1）に対応。PCIe x16スロットを1つ、x8スロットを2つ備えた3スロット仕様となっている。\n\nさらに拡張モジュールは400Wの内蔵電源（75W補助電源コネクター付き）やNoctuaの静音ファンを備えており、ビデオキャプチャやストリーミング用カード、オーディオDSPカード、10Gb/25Gb Ethernetアダプター、SSDストレージカード、その他プロ向け特殊PCIeカードを接続することができる。\n\nこのほか、4ポートのUSB Type-Aハブを備え、Mac Studioの下にUSB SSDドライブ用のスペースが設けられている。SSD…",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2149/023/a1.jpg"
+    },
+    {
+      "Title": "『スター・ウォーズ：ギャラクティック・レーサー』の各種ベンチマーク",
+      "Link": "https://www.nichepcgamer.com/archives/post-133084.html",
+      "Published": "2026-10-18T15:03:08Z",
+      "Source": "ニッチなPCゲーマーの環境構築Z",
+      "Category": "ゲームパフォーマンス",
+      "Summary": "『スター・ウォーズ：ギャラクティック・レーサー』の各種ベンチマーク\n\n『スター・ウォーズ：ギャラクティック・レーサー』(STAR WARS: Galactic Racer)の各種ベンチマークが公開されました。ベンチマークの測定シーンは以下になります。 上記シーンをTA...\n\n『 スター・ウォーズ：ギャラクティック・レーサー 』(STAR WARS: Galactic Racer)の各種ベンチマークが公開されました。ベンチマークの測定シーンは以下になります。\n\n上記シーンをTAAUネイティブ画質の1920 x 1080最高設定でMin 60 fpsを保つには、 GeForce RTX 5060 Ti 16GB (Min 63 fps) / Radeon RX 6800 XT 16GB (Min 60 fps) 以上で可能となっています。\n\nDLSS Super Resolution (アップスケーリング)、DLSS Frame Generation (フレーム生成) / Multi Frame Generation (マルチフレーム生成)は無効のTAAUでのネイティブ画質設定です。\n\nベンチマーク結果に8GB以下のグラボは含みません。すべてのグラボをテストすることは非現実的なことと、2026年において、PCゲーマーが重量級の最新ゲームを高画質で快適にプレイするには12GB以上のVRAM容量が望ましいとの判断の上、主に12GB以上のグラボに焦点を当てています。\n\nグラボのベンチマークには最も高フレームレートが出たCPU、Ryzen 7 9800X3Dを使用しています。CPUベンチマークにはGeForce RTX 5090を使用しています。\n\n(Source: STAR WARS: Galactic Racer )\n\n『スター・ウォーズ：ギャラクティック・レーサー』は、1080p最高設定でのMin 60 fpsターゲットだと、現行製品ではGeForce RTX 5060 Ti 16GB以上で快適にプレイができます。GeForce RTX 5070 Ti以上があれば、1440…",
+      "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2026/10/star-wars-galactic-racer.jpg"
+    },
+    {
+      "Title": "HomeView 360は2027年以降登場？9インチ画面と回転アーム搭載",
+      "Link": "https://iphone-mania.jp/homepod-607608/",
+      "Published": "2026-10-18T15:00:46Z",
+      "Source": "iPhone Mania",
+      "Category": "新機能",
+      "Summary": "HomeView 360は2027年以降登場？9インチ画面と回転アーム搭載\n\nHomeViewの上位モデルは2027年〜2028年にかけて発売される見通しで、ディスプレイサイズを約9インチに拡大し、360度回転するロボットアームを備えるとBloombergのマーク・ガーマン記者が伝えています。\n\nHomeView 360は2027年以降登場？9インチ画面と回転アーム搭載\n\nHomeViewの上位モデルは2027年〜2028年にかけて発売 される見通しで、 ディスプレイサイズを約9インチに拡大 し、 360度回転するロボットアームを備える とBloombergのマーク・ガーマン記者が伝えています。\n\n現行HomeViewの据え置き型では、ディスプレイの向きをユーザー自身が調整する必要がありますが、 上位モデルでは話者の方向へ自動的に画面を向ける仕組みが採用 される可能性があります。\n\n先日発表されたHomeView の据え置き型も、ベース部とディスプレイをアームで接続する構造を採用しています。ただし、使い勝手の面では改善の余地があるとガーマン記者は指摘しています。\n\n現行モデルでは、 Siriへ音声で指示する際にディスプレイを自分の方向へ向けるか、正面に立って操作する必要 があります。\n\nHomeViewの周囲に複数の登録ユーザーがいる場合でも、ディスプレイ正面にいるユーザーを中心に認識するため、 誰に応答しているのか分かりにくくなる場面 もありそうです。\n\nこの課題への対策として開発されているのが、 以前から噂されている上位モデル です。\n\nコードネームは「J595」 とされ、 外観はHomeViewに似ている ものの、 約9インチのディスプレイと 360度回転可能なロボットアームを備える 点が大きく異なるとされています。\n\nディスプレイの向きを自動的に変えられるため、 ユーザーが端末の正面へ移動しなくても、話しかけた人の方向へ画面を向けられるようになる と考えられます。\n\nロボットアームを搭載する最大の利点は、単に画面角度を自由に変えられることではなく、 Siriやカ…",
+      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/10/18/homeview-AC-1018.jpg"
+    },
+    {
+      "Title": "真贋判定やOSクローン、SSDの性能調整など機能を全確認、「Samsung Magician」完全ガイド[Sponsored]",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/topic/special/2143066.html",
+      "Published": "2026-10-18T15:00:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "真贋判定やOSクローン、SSDの性能調整など機能を全確認、「Samsung Magician」完全ガイド[Sponsored]\n\nSamsung Magicianソフトウェア(以下Magician)は、Samsungがコンシューマ向けに販売しているフラッシュメモリ製品共通のユーティリティソフトだ。2025年秋にはメジャーアップデート版となる「Magician 9.0」がリリースされた。\n\n真贋判定やOSクローン、SSDの性能調整など機能を全確認、「Samsung Magician」完全ガイド\n\n完全消去やセキュリティ機能も備えた高機能ユーティリティ text by 坂本はじめ\n\nSamsung Magicianソフトウェア(以下Magician)は、Samsungがコンシューマ向けに販売しているフラッシュメモリ製品共通のユーティリティソフトだ。2025年秋にはメジャーアップデート版となる「Magician 9.0」がリリースされた。\n\n無償で公開されているMagicianは、ストレージデバイスの健康状態の確認やベンチマークテストによる性能計測、製品の真贋判定、OSクローン機能など、様々な機能を備えている。今回は改めてMagicianが備える機能について確認してみよう。\n\nテストに使用しているバージョンは記事執筆時点で最新だった9.0.1。現在アップデートバージョンとして9.0.2が用意されているが、USB4対応の外付けSSD「P9/P7」サポートのための差分のみが違いとなっている。機能などに変わりはないので、ほぼ同等のものとしてみてもらいたい。\n\nなお、機能紹介に関しては、Magicianの項目順に合わせて作成した。搭載機能はジャンルごとに別れており、ステータス表示などを行うメイン画面の「Home Dashboard」のほか、「Diagnostic \u0026 Informatio…",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2143/066/x01.jpg"
+    },
+    {
+      "Title": "カラー電子ペーパーのモバイルモニター「Bigme B13 Pro」予約開始。最大60FPSに倍増",
+      "Link": "https://smhn.info/202610-bigme-b13-pro-color-epaper-monitor-preorder",
+      "Published": "2026-10-18T14:44:13Z",
+      "Source": "すまほん!!",
+      "Category": "電子ペーパー",
+      "Summary": "カラー電子ペーパーのモバイルモニター「Bigme B13 Pro」予約開始。最大60FPSに倍増\n\n電子ペーパー端末を手がけるBigmeは、13.3型のカラー電子ペーパーを採用したモバイルモニター「B13 Pro」の予約受付を公式ストアで開始しました。通常価格は749ドル（約11万8000円）。前モデル「B13」から、画面の書き換え速度を毎秒30コマから最大60コマへ倍増。US...\n\nカラー電子ペーパーのモバイルモニター「Bigme B13 Pro」予約開始。最大60FPSに倍増\n\n電子ペーパー端末を手がけるBigmeは、13.3型のカラー電子ペーパーを採用したモバイルモニター「B13 Pro」の予約受付を公式ストアで開始しました。通常価格は749ドル（約11万8000円）。\n\n前モデル「B13」から、画面の書き換え速度を毎秒30コマから最大60コマへ倍増。USB-Cケーブル1本で映像出力と給電をまかなえるようにし、消費電力も36Wから15Wへと引き下げたとしています。\n\nディスプレイはE Inkのカラー電子ペーパー「Kaleido 3」で、解像度は3200×2400、画面比率は4:3。精細さは白黒表示で300ppi、カラー表示で150ppi。明るさを調整できるフロントライトに加え、電子ペーパー特有の残像を自動で消す機能も備えます。\n\n端子はUSB-Cが2ポートとMini HDMIが1ポート。映像出力に対応したフル機能のUSB-Cポートを持つノートPCなどとケーブル1本でつながるほか、ワイヤレスでの画面投影にも対応します。対応OSはWindows、Mac、Android、iOSで、デュアルスピーカーも内蔵。マグネット式のスタンドはダンパー付きで、好みの角度に立てられます。\n\n最薄部の厚さは5.6mm、重さは約660g。公式ストアでは13〜17インチのノートPCに対応するとしており、ノートPCの横に並べて2画面で使う利用例を示しています。保証期間は1年。\n\n電子ペーパーのモニターといえば、目の疲れにくさと引き換えに、スクロールのカクつきに耐えるのがお約束でした。それが6…",
+      "ImageURL": "https://smhn.info/wp-content/uploads/2026/10/bigme-b13-pro-01.webp"
+    },
+    {
+      "Title": "【レビュー】iPhone Duoより先に届いた純正フォリオ、24,800円の実物を検証",
+      "Link": "https://iphone-mania.jp/iphone18-607603/",
+      "Published": "2026-10-18T14:13:00Z",
+      "Source": "iPhone Mania",
+      "Category": "レビュー",
+      "Summary": "【レビュー】iPhone Duoより先に届いた純正フォリオ、24,800円の実物を検証\n\n10月23日発売のiPhone Duoを予約したものの、筆者の手元に届くのは11月10日〜17日の予定です。ほぼ同時に注文したApple純正の「スタンド付きiPhone Duo\n\n【レビュー】iPhone Duoより先に届いた純正フォリオ、24,800円の実物を検証\n\n10月23日発売の iPhone Duo を予約したものの、筆者の手元に届くのは11月10日〜17日の予定です。ほぼ同時に注文したApple純正の「 スタンド付きiPhone Duo フォリオ 」（24,800円）がひと足早く10月18日に到着しました。テックウーブン素材の質感に加え、折りたたみ動作に対応する独特の構造、キックスタンドの仕組み、ストラップの取り付け可否を確認します。手持ちのMagSafeアクセサリーとの組み合わせも試しました。\n\nAppleは iPhone Duo 用の純正ケースとして、テックウーブン素材の「 スタンド付きiPhone Duo フォリオ 」（24,800円）と、 ポリカーボネート製の「 iPhone Duoケース 」（14,800円） を販売しています（価格はいずれも税込）。\n\n筆者は10月16日の予約開始から約2分でiPhone Duoの注文を完了しましたが、配送予定日は11月10日〜17日になってしまいました。\n\n予約開始後の配送予定日の変化は、 iPhone Maniaの独自記事で詳しく紹介しています 。\n\n一方、同時に注文した 「スタンド付きiPhone Duo フォリオ」（ネイビーブルー） は、10月18日の午前中に到着しました。\n\nパッケージは製品画像と製品名を配置したシンプルなデザインです。裏面にはスタンド使用時の画像が印刷されており、貼付されたラベルによると、今回届いた製品…",
+      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/10/18/Apple-iPhoneDuo-Folio-Review1-0.jpg"
+    },
+    {
       "Title": "iOS27.2はいつ配信？Siri AI日本語対応など新機能と対応機種",
       "Link": "https://iphone-mania.jp/ios-607605/",
       "Published": "2026-10-18T13:58:25Z",
@@ -406,15 +496,6 @@
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2149/005/01.jpg"
     },
     {
-      "Title": "デスクトップ派や自作PCファンも“後付け”でPCの防犯能力を強化――PC用セキュリティ製品をピックアップ 生体認証や認証キーから物理ロックまで16製品 text by 石川 ひさよし",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2148983.html",
-      "Published": "2026-10-17T01:00:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "デスクトップ派や自作PCファンも“後付け”でPCの防犯能力を強化――PC用セキュリティ製品をピックアップ 生体認証や認証キーから物理ロックまで16製品 text by 石川 ひさよし\n\n最近、情報漏洩や不正アクセスのニュースが増えています。大きなニュースになるのは主にサーバー側での話ですが、クライアント側、つまりお手元のPCのセキュリティ強化、不正アクセス対策も怠ってはいけません。今回はPCのセキュリティを強化する周辺機器、アクセサリーを集めてみました。\n\nデスクトップ派や自作PCファンも“後付け”でPCの防犯能力を強化――PC用セキュリティ製品をピックアップ\n\n生体認証や認証キーから物理ロックまで16製品 text by 石川 ひさよし\n\n最近、情報漏洩や不正アクセスのニュースが増えています。大きなニュースになるのは主にサーバー側での話ですが、クライアント側、つまりお手元のPCのセキュリティ強化、不正アクセス対策も怠ってはいけません。今回はPCのセキュリティを強化する周辺機器、アクセサリーを集めてみました。\n\nセキュリティ製品なので、「信頼できるメーカーの製品を選ぶ」というのはまず当然です。ただし、今後は発売元、出荷元といった「販売ルート」にも目を向ける必要があるかもしれません。仮想通貨ウォレットに盗聴回路が仕込まれたといったニュースもありました。本物を分解して内部にチップを仕込み、見た目ではまったく見分けがつかないといった話もあります。セキュリティ商品はコスパよりも信頼重視で選びましょう。\n\nビジネスノートPCではおなじみの指紋認証。Windowsログイン時のWindows Helloや、Webサイトへのログイン時などで利用できます。小型で邪魔になりにくく、この種の生体認証の中では比較的低価格です。USB端子と一体のドングルタイプや、延長ケーブル付きの卓上タイプがありま…",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/983/top.jpg"
-    },
-    {
       "Title": "LINEMO、ベストプランVが新規・プラン変更で2カ月間「40GB・基本料0円」に！",
       "Link": "https://smhn.info/202610-linemo-best-plan-v-40gb-free-two-months-campaign",
       "Published": "2026-10-17T01:00:00Z",
@@ -422,6 +503,15 @@
       "Category": "ソフトバンク",
       "Summary": "LINEMO、ベストプランVが新規・プラン変更で2カ月間「40GB・基本料0円」に！\n\nソフトバンクのLINEMOは10月17日、「LINEMO5周年大週穫祭」の10月第3弾として、「LINEMOベストプランV」を2カ月間、月40GBまで基本料0円で使える施策を始めました。申し込み期間は10月23日（金）まで。施策は2本のキャンペーンで成り立っています。「LINEM...\n\nLINEMO、ベストプランVが新規・プラン変更で2カ月間「40GB・基本料0円」に！\n\nソフトバンクのLINEMOは10月17日、「LINEMO5周年大週穫祭」の10月第3弾として、「LINEMOベストプランV」を2カ月間、月40GBまで基本料0円で使える施策を始めました。申し込み期間は10月23日（金）まで。\n\n施策は2本のキャンペーンで成り立っています。「LINEMOベストプランV基本料2カ月0円キャンペーン」では、ベストプランVの月額基本料2970円（税込）を2カ月間割り引き。30GBの容量を基本料無料で使えます。\n\nあわせて実施する「2カ月間データ10GB増量キャンペーン」では、1GB 550円（税込）のデータ追加購入が、1カ月あたり10回分まで2カ月間無料に。30GBに10GBを足し、2カ月間は月40GBを0円で使える計算です。\n\n基本料0円の対象はベストプランVのみ。期間中に新しく契約する人と、LINEMOの「スマホプラン」「ミニプラン」「LINEMOベストプラン」からベストプランVへ変更する人が対象です。\n\n割引期間は、新規契約が開通した月の翌月から2カ月間、プラン変更はベストプランVの適用開始月から2カ月間となります。開通期限は申込月の翌月末まで。新規契約の場合、4カ月目以降は30GBで月2970円に戻ります。\n\nデータ10GB増量は、新規契約であればLINEMOベストプラン（3GBまで月990円、10GBまで月2090円）も対象。既存利用者は、スマホプランやミニプランからベストプランまたはベストプランVへ変更する場合に対象となります。\n\nいずれも割引期間中にデータ追加購入を行うと、…",
       "ImageURL": "https://smhn.info/wp-content/uploads/2026/10/linemo-best-plan-v-40gb-campaign.webp"
+    },
+    {
+      "Title": "デスクトップ派や自作PCファンも“後付け”でPCの防犯能力を強化――PC用セキュリティ製品をピックアップ 生体認証や認証キーから物理ロックまで16製品 text by 石川 ひさよし",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2148983.html",
+      "Published": "2026-10-17T01:00:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "デスクトップ派や自作PCファンも“後付け”でPCの防犯能力を強化――PC用セキュリティ製品をピックアップ 生体認証や認証キーから物理ロックまで16製品 text by 石川 ひさよし\n\n最近、情報漏洩や不正アクセスのニュースが増えています。大きなニュースになるのは主にサーバー側での話ですが、クライアント側、つまりお手元のPCのセキュリティ強化、不正アクセス対策も怠ってはいけません。今回はPCのセキュリティを強化する周辺機器、アクセサリーを集めてみました。\n\nデスクトップ派や自作PCファンも“後付け”でPCの防犯能力を強化――PC用セキュリティ製品をピックアップ\n\n生体認証や認証キーから物理ロックまで16製品 text by 石川 ひさよし\n\n最近、情報漏洩や不正アクセスのニュースが増えています。大きなニュースになるのは主にサーバー側での話ですが、クライアント側、つまりお手元のPCのセキュリティ強化、不正アクセス対策も怠ってはいけません。今回はPCのセキュリティを強化する周辺機器、アクセサリーを集めてみました。\n\nセキュリティ製品なので、「信頼できるメーカーの製品を選ぶ」というのはまず当然です。ただし、今後は発売元、出荷元といった「販売ルート」にも目を向ける必要があるかもしれません。仮想通貨ウォレットに盗聴回路が仕込まれたといったニュースもありました。本物を分解して内部にチップを仕込み、見た目ではまったく見分けがつかないといった話もあります。セキュリティ商品はコスパよりも信頼重視で選びましょう。\n\nビジネスノートPCではおなじみの指紋認証。Windowsログイン時のWindows Helloや、Webサイトへのログイン時などで利用できます。小型で邪魔になりにくく、この種の生体認証の中では比較的低価格です。USB端子と一体のドングルタイプや、延長ケーブル付きの卓上タイプがありま…",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/983/top.jpg"
     },
     {
       "Title": "【本日みつけたお買い得品】Ryzen PRO搭載ミニPCが約2万1千円オフ。32GBメモリに1TB SSD！",
@@ -721,13 +811,13 @@
       "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/10/thumb_duo_day_open_20261002.png"
     },
     {
-      "Title": "【笠原一輝のユビキタス情報局】フロンティアモデルAIを出先でも！NVIDIA RTX Spark搭載Surface実機レビュー",
-      "Link": "https://pc.watch.impress.co.jp/docs/column/ubiq/2148969.html",
+      "Title": "Windows PC����NVIDIA��SoC��RTX Spark�פ����Τ����餫�ˡ�Microsoft�ȶ�Ʊ�ǥ������ؤ��б����ʤ���",
+      "Link": "https://www.4gamer.net/games/050/G105051/20261015021/",
       "Published": "2026-10-16T12:00:00Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "【笠原一輝のユビキタス情報局】フロンティアモデルAIを出先でも！NVIDIA RTX Spark搭載Surface実機レビュー\n\nMicrosoftの「Surface」ブランドにおいて、フラグシップ向け製品は、かつてはSurface Book、Surface Laptop Studioなどがあった。しかし、ここ数年はそうした製品の後継は出てこず、クリエイターやハイエンドユーザー向けの製品が不在な状況だった。\n\nフロンティアモデルAIを出先でも！NVIDIA RTX Spark搭載Surface実機レビュー\n\nMicrosoftの「Surface」ブランドにおいて、フラグシップ向け製品は、かつてはSurface Book、Surface Laptop Studioなどがあった。しかし、ここ数年はそうした製品の後継は出てこず、クリエイターやハイエンドユーザー向けの製品が不在な状況だった。\n\nそんな中投入された「Surface Laptop Ultra」は、フラグシップセグメントに向けた製品となる。SoCにはNVIDIA RTX Spark N1Xを採用している。Surface Laptop Ultraの日本向けバージョンの最上位モデル(EP2-58062)を入手したので、実機レビューをお届けする。\n\nNVIDIA RTX Spark N1Xを搭載したSurface Laptop Ultra\n\nSurface Laptop Ultraが発売になった。予約開始時点で109万4,280円の最上位モデルが売り切れになるなど、高い注目を集めている。\n\nNVIDIA RTX Spark N1Xは、CPUとGPUを1パッケージに統合。GPUはメインメモリの一部をVRAMとして利用できるため、単体GPUに比べて多くのVRAMを利用できる。例えば、128GBモデルなら、32GBをCPUに、残りの…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2148/969/001.jpg"
+      "Source": "4Gamer.net Hardware",
+      "Category": "HARDWARE",
+      "Summary": "Windows PC����NVIDIA��SoC��RTX Spark�פ����Τ����餫�ˡ�Microsoft�ȶ�Ʊ�ǥ������ؤ��б����ʤ���\n\n去る北米時間2026年10月7日，NVIDIA製のSoC「NVIDIA RTX Spark」搭載PCが，MicrosoftやASUSTeK Computer，MSIなどから発表となった。その翌日にN…\n\nWindows PC向けNVIDIA製SoC「RTX Spark」の正体が明らかに。Microsoftと共同でゲームへの対応も進める ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ 「テイルズ オブ エターニア」のここを知ってほしい！ 当時やり込んだファンが語る，リマスター版をもっと楽しむために押さえておきたいポイント ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 作品のアニマはどこに宿るのか。「リベンジオブザセブン」と「サガフロ2 リマスター」，ふたつの“伝承”のかたち ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 東京ゲームショウに来たら“読みもの”を集めよう！ 雑誌にカタログ，新聞風。会場で見つけた＆もらった小冊子を紹介［TGS2026］ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。…",
+      "ImageURL": "https://www.4gamer.net/games/050/G105051/20261015021/SS/003.jpg"
     },
     {
       "Title": "【プロダクトレビュー・ショーケース】64GBメモリで27BのAIも画像生成も。RTX Spark搭載のASUS「ProArt P16(H7607)」の実用性を試すエージェントPC時代の先駆けとなるArm+Blackwellの最新SoC搭載機 text by 芹澤 正芳",
@@ -748,13 +838,13 @@
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2148/879/001.jpg"
     },
     {
-      "Title": "Windows PC����NVIDIA��SoC��RTX Spark�פ����Τ����餫�ˡ�Microsoft�ȶ�Ʊ�ǥ������ؤ��б����ʤ���",
-      "Link": "https://www.4gamer.net/games/050/G105051/20261015021/",
+      "Title": "【笠原一輝のユビキタス情報局】フロンティアモデルAIを出先でも！NVIDIA RTX Spark搭載Surface実機レビュー",
+      "Link": "https://pc.watch.impress.co.jp/docs/column/ubiq/2148969.html",
       "Published": "2026-10-16T12:00:00Z",
-      "Source": "4Gamer.net Hardware",
-      "Category": "HARDWARE",
-      "Summary": "Windows PC����NVIDIA��SoC��RTX Spark�פ����Τ����餫�ˡ�Microsoft�ȶ�Ʊ�ǥ������ؤ��б����ʤ���\n\n去る北米時間2026年10月7日，NVIDIA製のSoC「NVIDIA RTX Spark」搭載PCが，MicrosoftやASUSTeK Computer，MSIなどから発表となった。その翌日にN…\n\nWindows PC向けNVIDIA製SoC「RTX Spark」の正体が明らかに。Microsoftと共同でゲームへの対応も進める ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ 「テイルズ オブ エターニア」のここを知ってほしい！ 当時やり込んだファンが語る，リマスター版をもっと楽しむために押さえておきたいポイント ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 作品のアニマはどこに宿るのか。「リベンジオブザセブン」と「サガフロ2 リマスター」，ふたつの“伝承”のかたち ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 東京ゲームショウに来たら“読みもの”を集めよう！ 雑誌にカタログ，新聞風。会場で見つけた＆もらった小冊子を紹介［TGS2026］ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。…",
-      "ImageURL": "https://www.4gamer.net/games/050/G105051/20261015021/SS/003.jpg"
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "【笠原一輝のユビキタス情報局】フロンティアモデルAIを出先でも！NVIDIA RTX Spark搭載Surface実機レビュー\n\nMicrosoftの「Surface」ブランドにおいて、フラグシップ向け製品は、かつてはSurface Book、Surface Laptop Studioなどがあった。しかし、ここ数年はそうした製品の後継は出てこず、クリエイターやハイエンドユーザー向けの製品が不在な状況だった。\n\nフロンティアモデルAIを出先でも！NVIDIA RTX Spark搭載Surface実機レビュー\n\nMicrosoftの「Surface」ブランドにおいて、フラグシップ向け製品は、かつてはSurface Book、Surface Laptop Studioなどがあった。しかし、ここ数年はそうした製品の後継は出てこず、クリエイターやハイエンドユーザー向けの製品が不在な状況だった。\n\nそんな中投入された「Surface Laptop Ultra」は、フラグシップセグメントに向けた製品となる。SoCにはNVIDIA RTX Spark N1Xを採用している。Surface Laptop Ultraの日本向けバージョンの最上位モデル(EP2-58062)を入手したので、実機レビューをお届けする。\n\nNVIDIA RTX Spark N1Xを搭載したSurface Laptop Ultra\n\nSurface Laptop Ultraが発売になった。予約開始時点で109万4,280円の最上位モデルが売り切れになるなど、高い注目を集めている。\n\nNVIDIA RTX Spark N1Xは、CPUとGPUを1パッケージに統合。GPUはメインメモリの一部をVRAMとして利用できるため、単体GPUに比べて多くのVRAMを利用できる。例えば、128GBモデルなら、32GBをCPUに、残りの…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2148/969/001.jpg"
     },
     {
       "Title": "ドコモ、緊急地震速報のエリアメールが届かず謝罪。原因はシステム不具合、解消まで配信されない場合も",
@@ -1531,15 +1621,6 @@
       "ImageURL": "https://smhn.info/wp-content/uploads/2026/10/capture_20261015_214119_222_61C407.webp"
     },
     {
-      "Title": "【笠原一輝のユビキタス情報局】買ったらすぐローカルエージェント型AIが始められるRTX Spark N1Xのすべて",
-      "Link": "https://pc.watch.impress.co.jp/docs/column/ubiq/2148478.html",
-      "Published": "2026-10-15T12:00:00Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "【笠原一輝のユビキタス情報局】買ったらすぐローカルエージェント型AIが始められるRTX Spark N1Xのすべて\n\nNVIDIAは10月15日(現地時間)、「RTX Spark N1X」の詳細を明らかにした。TSMC 3nmで製造されるCPUダイとGPUダイの2チップで構成されるチップレット構造。CPUダイはMediaTekがカスタム設計したもので、10コアのCortex-X925と10コアのCortex-A725から構成された20コアCPUを搭載する。32MB(16MB×2)のL3キャッシュと256bit/16チャンネルのメモリコントローラを備えており、LPDDR5X-9400を利用すると300GB/sの帯域幅を実現する。GPUダイは48SM/6,144CUDAコアの構成で、24MBのL2キャッシュと、CPUに接続するためのNVLink C2Cを備えている。\n\n買ったらすぐローカルエージェント型AIが始められるRTX Spark N1Xのすべて\n\nNVIDIAは10月15日(現地時間)、「RTX Spark N1X」の詳細を明らかにした。TSMC 3nmで製造されるCPUダイとGPUダイの2チップで構成されるチップレット構造。CPUダイはMediaTekがカスタム設計したもので、10コアのCortex-X925と10コアのCortex-A725から構成された20コアCPUを搭載する。32MB(16MB×2)のL3キャッシュと256bit/16チャンネルのメモリコントローラを備えており、LPDDR5X-9400を利用すると300GB/sの帯域幅を実現する。GPUダイは48SM/6,144CUDAコアの構成で、24MBのL2キャッシュと、CPUに接続するためのNVLink C2Cを備えている。\n\nCPUとGPUの2つのチップを合わせたcTDP(Configurable TD…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2148/478/001.jpg"
-    },
-    {
       "Title": "100万円でも即売り切れ。NVIDIA「RTX Spark」に触れて分かった、可能性と難しさ",
       "Link": "https://pc.watch.impress.co.jp/docs/news/2148163.html",
       "Published": "2026-10-15T12:00:00Z",
@@ -1556,6 +1637,15 @@
       "Category": "",
       "Summary": "【プロダクトレビュー・ショーケース】【特別編】RTX Sparkは「AIもゲームも1台で」を狙う新世代Windows SoC。NVIDIAが示したエージェントPCの全貌RTX Spark Editor's Day \u0026 RTX Spark搭載機の最新情報をレポート text by 芹澤 正芳\n\nNVIDIAはアメリカのサンフランシスコでプレス向けイベント「RTX Spark Editor's Day」を開催し、Windows PC向けの新プラットフォーム「NVIDIA RTX Spark」の詳細を公開した。RTX Sparkは、Blackwell世代のRTX GPUとArmベースのGrace CPU、最大128GBのユニファイドメモリを1つのパッケージに統合したSoCだ。\n\n【特別編】RTX Sparkは「AIもゲームも1台で」を狙う新世代Windows SoC。NVIDIAが示したエージェントPCの全貌\n\nRTX Spark Editor's Day \u0026 RTX Spark搭載機の最新情報をレポート text by 芹澤 正芳\n\nNVIDIAはアメリカのサンフランシスコでプレス向けイベント「RTX Spark Editor's Day」を開催し、Windows PC向けの新プラットフォーム「NVIDIA RTX Spark」の詳細を公開した。RTX Sparkは、Blackwell世代のRTX GPUとArmベースのGrace CPU、最大128GBのユニファイドメモリを1つのパッケージに統合したSoCだ。\n\nNVIDIAは2026年5月のGTC Taipeiで概要を発表していたが、今回は内部構造やWindows側の最適化、ローカルAIエージェント、クリエイティブ、ゲームへの対応が、より具体的に説明された。\n\nイベントでは講演だけでなく、RTX Spark搭載PCを使ったハ…",
       "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/561/top.jpg"
+    },
+    {
+      "Title": "【笠原一輝のユビキタス情報局】買ったらすぐローカルエージェント型AIが始められるRTX Spark N1Xのすべて",
+      "Link": "https://pc.watch.impress.co.jp/docs/column/ubiq/2148478.html",
+      "Published": "2026-10-15T12:00:00Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "【笠原一輝のユビキタス情報局】買ったらすぐローカルエージェント型AIが始められるRTX Spark N1Xのすべて\n\nNVIDIAは10月15日(現地時間)、「RTX Spark N1X」の詳細を明らかにした。TSMC 3nmで製造されるCPUダイとGPUダイの2チップで構成されるチップレット構造。CPUダイはMediaTekがカスタム設計したもので、10コアのCortex-X925と10コアのCortex-A725から構成された20コアCPUを搭載する。32MB(16MB×2)のL3キャッシュと256bit/16チャンネルのメモリコントローラを備えており、LPDDR5X-9400を利用すると300GB/sの帯域幅を実現する。GPUダイは48SM/6,144CUDAコアの構成で、24MBのL2キャッシュと、CPUに接続するためのNVLink C2Cを備えている。\n\n買ったらすぐローカルエージェント型AIが始められるRTX Spark N1Xのすべて\n\nNVIDIAは10月15日(現地時間)、「RTX Spark N1X」の詳細を明らかにした。TSMC 3nmで製造されるCPUダイとGPUダイの2チップで構成されるチップレット構造。CPUダイはMediaTekがカスタム設計したもので、10コアのCortex-X925と10コアのCortex-A725から構成された20コアCPUを搭載する。32MB(16MB×2)のL3キャッシュと256bit/16チャンネルのメモリコントローラを備えており、LPDDR5X-9400を利用すると300GB/sの帯域幅を実現する。GPUダイは48SM/6,144CUDAコアの構成で、24MBのL2キャッシュと、CPUに接続するためのNVLink C2Cを備えている。\n\nCPUとGPUの2つのチップを合わせたcTDP(Configurable TD…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2148/478/001.jpg"
     },
     {
       "Title": "�Υ��󥿥ӥ塼�Ϥ��褤�����������ӥ����ޤ�����AION2�פϡ��ɤ����ܻؤ��Τ���NC�γ�ȯ�ؤˡ��ݶ��亣���α������ˤ�ʹ���Ƥߤ�",
@@ -1783,15 +1873,6 @@
       "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/169/a1.jpg"
     },
     {
-      "Title": "Core i5-1135G7搭載の13.3型ノートPC「dynabook G83/HS」が37,400円、Qualitの中古訳あり品セール",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2148183.html",
-      "Published": "2026-10-15T03:00:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "Core i5-1135G7搭載の13.3型ノートPC「dynabook G83/HS」が37,400円、Qualitの中古訳あり品セール\n\nCore i5-1135G7(4コア/8スレッド)を搭載したDynabook製13.3型ノートPC「dynabook G83/HS」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で特価販売中。\n\nCore i5-1135G7搭載の13.3型ノートPC「dynabook G83/HS」が37,400円、Qualitの中古訳あり品セール\n\nCore i5-1135G7(4コア/8スレッド)を搭載したDynabook製13.3型ノートPC「dynabook G83/HS」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で特価販売中 。\n\n今回販売されているのは、「外観ランク基準はQualitの基準外だが、動作は正常確認済み」という訳あり中古品で、販売価格は37,400円。保証期間は出荷日から起算して10日間。\n\n主な仕様は、ディスプレイ解像度が1,920×1,080ドット、メモリが8GB、ストレージが256GB SSD、OSがWindows 11 Pro。インターフェイスには、HDMIやThunderbolt 4(USB-C)などを備えるほか、Webカメラや無線LAN機能を搭載しています。",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/183/a1.jpg"
-    },
-    {
       "Title": "iPhone Duoは買うべき？見送るべき？予約前に確かめたい5つのこと",
       "Link": "https://iphone-mania.jp/iphone18-607467/",
       "Published": "2026-10-15T03:00:00Z",
@@ -1799,6 +1880,15 @@
       "Category": "iPhone18 Pro Max",
       "Summary": "iPhone Duoは買うべき？見送るべき？予約前に確かめたい5つのこと\n\n折りたたみのiPhone Duoの予約が10月16日（金）午後9時に始まります。価格、画面、iPhone18 Pro Maxとの違い、内側の画面と耐久性、読者アンケートの5つから、買うべき人と見送るべき人の条件をまとめました。\n\niPhone Duoは買うべき？見送るべき？予約前に確かめたい5つのこと\n\n折りたたみのiPhone Duoの予約が、 10月16日（金）午後9時 に始まります。Apple Storeの価格は256GBで364,800円からと、iPhone18 Pro Max（239,800円から）より12万5,000円高い機種です。キャリアはNTTドコモ・au・ソフトバンクが10月14日までに価格を発表し、楽天モバイルは発表待ちです。\n\n買うか見送るか迷っている方に向けて、価格、画面、iPhone18 Pro Maxとの違い、内側の画面と耐久性、読者アンケートの5つを整理しました。\n\n※上記は広告（アフィリエイト）を含みます。価格・特典・条件は各公式サイトでご確認ください。\n\n一括で買うなら、Apple Store（SIMフリー）が最も安くなります。キャリアの一括価格はApple Storeより5万円以上高く、ドコモは7万円以上の差があります。\n\nキャリアの実質価格は、2年前後で端末を返す前提の金額です。ドコモは23か月目、auは25か月目までに返却し、ソフトバンクは25か月目に買い替える条件です。返さずに使い続けるなら、一括価格との差額を払うことになります。\n\nApple Storeでドコモ（ahamoを含む）・ソフトバンクの回線契約と一緒に買うと8,800円、オンラインで乗り換えると20,000円の割引があります。各社の条件は iPhone Duo 予約ガイド と各社の記事にまとめて…",
       "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/10/thumb_duo_buy_or_skip_20261015.png"
+    },
+    {
+      "Title": "Core i5-1135G7搭載の13.3型ノートPC「dynabook G83/HS」が37,400円、Qualitの中古訳あり品セール",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2148183.html",
+      "Published": "2026-10-15T03:00:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "Core i5-1135G7搭載の13.3型ノートPC「dynabook G83/HS」が37,400円、Qualitの中古訳あり品セール\n\nCore i5-1135G7(4コア/8スレッド)を搭載したDynabook製13.3型ノートPC「dynabook G83/HS」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で特価販売中。\n\nCore i5-1135G7搭載の13.3型ノートPC「dynabook G83/HS」が37,400円、Qualitの中古訳あり品セール\n\nCore i5-1135G7(4コア/8スレッド)を搭載したDynabook製13.3型ノートPC「dynabook G83/HS」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で特価販売中 。\n\n今回販売されているのは、「外観ランク基準はQualitの基準外だが、動作は正常確認済み」という訳あり中古品で、販売価格は37,400円。保証期間は出荷日から起算して10日間。\n\n主な仕様は、ディスプレイ解像度が1,920×1,080ドット、メモリが8GB、ストレージが256GB SSD、OSがWindows 11 Pro。インターフェイスには、HDMIやThunderbolt 4(USB-C)などを備えるほか、Webカメラや無線LAN機能を搭載しています。",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/183/a1.jpg"
     },
     {
       "Title": "�����ʤ��Τ��ͤ������Ǥ⡤�������ȡȼ�ʬ�Υ������ɤˤʤ롣���ʥ��᤬��DRAPLINE�פ˻����������������ޤǻȤäƤ��ʤ��ä������Ф�",
@@ -2044,15 +2134,6 @@
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2147/393/PH01.jpg"
     },
     {
-      "Title": "ガチくんに! 第434回切り抜き「もはや珍回答にすら届かない……波乱続きの学力テスト(後編)」",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/2148210.html",
-      "Published": "2026-10-14T21:00:00Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "ガチくんに! 第434回切り抜き「もはや珍回答にすら届かない……波乱続きの学力テスト(後編)」\n\n※毎週木曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイター6攻略企画「ガチくんに!」をTwitchとYouTubeで配信しています。レギュラー出演者はぷげら、奥村茉実。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードした切り抜きとアーカイブの動画を掲載しています。\n\nガチくんに! 第434回切り抜き「もはや珍回答にすら届かない……波乱続きの学力テスト(後編)」\n\n※毎週木曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイター6攻略企画「ガチくんに!」を Twitch と YouTube で配信しています。レギュラー出演者はぷげら、奥村茉実。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードした切り抜きとアーカイブの動画を掲載しています。\n\n9月24日に配信を行なった、ガチくん、さはらさん、りゅうきちさんの三英傑による学力テストの模様から、後半戦の模様を切り抜き動画でお届けします。",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2148/210/01.jpg"
-    },
-    {
       "Title": "【Mac Info】Safariの機能拡張が文章で作れる！macOS 27の新機能",
       "Link": "https://pc.watch.impress.co.jp/docs/column/macinfo/2148205.html",
       "Published": "2026-10-14T21:00:00Z",
@@ -2060,6 +2141,15 @@
       "Category": "",
       "Summary": "【Mac Info】Safariの機能拡張が文章で作れる！macOS 27の新機能\n\nmacOS 27 Golden GateのSafariには、Apple Intelligenceを活用してカスタム機能拡張を作成できる「機能拡張を説明」が追加されました。作りたい機能を自然な言葉で入力するだけで、SafariがApp Storeから同様の機能拡張を探し、見つからなければ目的に合ったものを作成できます。この記事では、カスタム機能拡張の作成方法から、作成後の編集・管理方法、利用する際の注意点まで詳しく解説します。\n\nSafariの機能拡張が文章で作れる！macOS 27の新機能\n\nmacOS 27 Golden GateのSafariには、Apple Intelligenceを活用してカスタム機能拡張を作成できる「機能拡張を説明」が追加されました。作りたい機能を自然な言葉で入力するだけで、SafariがApp Storeから同様の機能拡張を探し、見つからなければ目的に合ったものを作成できます。この記事では、カスタム機能拡張の作成方法から、作成後の編集・管理方法、利用する際の注意点まで詳しく解説します。\n\nSafariの機能拡張は、Safariに標準では備わっていない機能を追加して、Webブラウジングをより便利にするための仕組みです。\n\nWebページの表示をカスタマイズしたり、特定の操作を自動化したりと、さまざまな用途に活用できます。\n\nこれまで機能拡張はApp Storeからインストールするのが一般的でしたが、macOS 27 Golden Gate(以下、macOS 27)では、提案されたカテゴリから選択したり、自然な言葉で説明したりするだけで作成できるようになりました。\n\nたとえば、「このページ用に3分間の集中モードタイマーを作成する」「機能拡張をクリックしたときに、同じU…",
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2148/205/image05.png"
+    },
+    {
+      "Title": "ガチくんに! 第434回切り抜き「もはや珍回答にすら届かない……波乱続きの学力テスト(後編)」",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2148210.html",
+      "Published": "2026-10-14T21:00:00Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "ガチくんに! 第434回切り抜き「もはや珍回答にすら届かない……波乱続きの学力テスト(後編)」\n\n※毎週木曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイター6攻略企画「ガチくんに!」をTwitchとYouTubeで配信しています。レギュラー出演者はぷげら、奥村茉実。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードした切り抜きとアーカイブの動画を掲載しています。\n\nガチくんに! 第434回切り抜き「もはや珍回答にすら届かない……波乱続きの学力テスト(後編)」\n\n※毎週木曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイター6攻略企画「ガチくんに!」を Twitch と YouTube で配信しています。レギュラー出演者はぷげら、奥村茉実。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードした切り抜きとアーカイブの動画を掲載しています。\n\n9月24日に配信を行なった、ガチくん、さはらさん、りゅうきちさんの三英傑による学力テストの模様から、後半戦の模様を切り抜き動画でお届けします。",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2148/210/01.jpg"
     },
     {
       "Title": "ネットワーク・インターネットに接続できない不具合。Wi-Fi、有線LANの認証が機能しなくなる。KB5127648インストール後に発生 ［Update 1］",
@@ -3160,15 +3250,6 @@
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2147/525/01.jpg"
     },
     {
-      "Title": "DELL製ミニPCが26,400円、Core i5-8500Tや256GB SSD搭載の中古Cランク品がQualitでセール",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2146936.html",
-      "Published": "2026-10-13T03:00:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "DELL製ミニPCが26,400円、Core i5-8500Tや256GB SSD搭載の中古Cランク品がQualitでセール\n\nCore i5-8500T(6コア/6スレッド)を搭載したDELL製ミニPC「Optiplex 7070 2100Micro」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で特価販売中。\n\nDELL製ミニPCが26,400円、Core i5-8500Tや256GB SSD搭載の中古Cランク品がQualitでセール\n\nCore i5-8500T(6コア/6スレッド)を搭載したDELL製ミニPC「Optiplex 7070 2100Micro」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で特価販売中 。\n\n今回販売されているのは、「傷や使用感が見られる」(同店)というCランク中古品で、販売価格は26,400円。保証期間は12か月となっています。\n\n主な仕様は、メモリが8GB(空きスロット×0)、ストレージが256GB SSD、OSがWindows 11 Pro。インターフェイスには、DisplayPort×2やVGA、USB Type-Cなどを備えています。",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2146/936/a1.jpg"
-    },
-    {
       "Title": "【独自調査結果】iPhone Duoを予約開始日に予約は71.5％ 欲しい人は79.7％",
       "Link": "https://iphone-mania.jp/iphone18-607367/",
       "Published": "2026-10-13T03:00:00Z",
@@ -3176,6 +3257,15 @@
       "Category": "調査統計",
       "Summary": "【独自調査結果】iPhone Duoを予約開始日に予約は71.5％ 欲しい人は79.7％\n\niPhone Maniaでは、10月16日（金）午後9時に予約が始まるApple初の折りたたみiPhone「iPhone\n\n【独自調査結果】iPhone Duoを予約開始日に予約は71.5％ 欲しい人は79.7％\n\niPhone Maniaでは、10月16日（金）午後9時に予約が始まるApple初の折りたたみiPhone「iPhone Duo」について、予約するかどうか、選ぶカラーと容量、買う場所や支払い方法、そして買わない方の理由を探る読者アンケートを実施しました。10月7日から12日までの期間に、158人の方から回答をいただきました。予約開始を前に、ご購入の参考にしてください。\n\nアンケートは iMコミュニティで実施し、最初の設問で買うつもりがあると答えた方にだけ、カラー・容量・買う場所・支払い方法を尋ねる形式にしました。ご協力くださった皆様、ありがとうございます。\n\n予約開始日に予約するのは71.5%、欲しい人はあわせて79.7%\n\n「iPhone Duo、予約しますか？」という質問では、「10月16日（金）の予約開始日に予約する」が71.5%、「発売後に実物を見てから決める」が3.2%、「欲しいが、値下がりや割引を待つ」が5.1%でした。「買う予定はない」は20.3%です。\n\n買うつもりがある方（125人）に選ぶカラーを聞いたところ、ナイトスカイが49.6%、スターホワイトが50.4%でした。発表直後の 第5回アンケート では、ナイトスカイ53.8%、スターホワイト46.2%でした。\n\n容量は、256GB（364,800円）が34.4%、512GB（399,800円）が54.4%、1TB（469,800円）が8.0%、2TB（574,800円）が3.2%でした。第5回では512GBが44.0%、256GBが40.0%で、iPhone 18 Pro／Pro Maxより大きい容量を選ぶ方が多い傾向でした。\n\n買う場所は「Appleオンラインストア（配送で受け取る）」が最多\n\n…",
       "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/10/survey_result_8th.png"
+    },
+    {
+      "Title": "DELL製ミニPCが26,400円、Core i5-8500Tや256GB SSD搭載の中古Cランク品がQualitでセール",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2146936.html",
+      "Published": "2026-10-13T03:00:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "DELL製ミニPCが26,400円、Core i5-8500Tや256GB SSD搭載の中古Cランク品がQualitでセール\n\nCore i5-8500T(6コア/6スレッド)を搭載したDELL製ミニPC「Optiplex 7070 2100Micro」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で特価販売中。\n\nDELL製ミニPCが26,400円、Core i5-8500Tや256GB SSD搭載の中古Cランク品がQualitでセール\n\nCore i5-8500T(6コア/6スレッド)を搭載したDELL製ミニPC「Optiplex 7070 2100Micro」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で特価販売中 。\n\n今回販売されているのは、「傷や使用感が見られる」(同店)というCランク中古品で、販売価格は26,400円。保証期間は12か月となっています。\n\n主な仕様は、メモリが8GB(空きスロット×0)、ストレージが256GB SSD、OSがWindows 11 Pro。インターフェイスには、DisplayPort×2やVGA、USB Type-Cなどを備えています。",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2146/936/a1.jpg"
     },
     {
       "Title": "ChatGPT、またリセット予告。16時頃までに利用枠回復",
@@ -4409,99 +4499,144 @@
       "Category": "",
       "Summary": "「iPhone 15」が69,980円、「iPhone 16 Pro Max」が149,980円など！訳あり展示品セール\n\nApple製スマートフォン「iPhone」シリーズの展示品セールが、じゃんぱら秋葉原5号店やじゃんぱらD-Style秋葉原店など、じゃんぱらの一部店舗で実施中です。\n\n「iPhone 15」が69,980円、「iPhone 16 Pro Max」が149,980円など！訳あり展示品セール\n\nApple製スマートフォン「iPhone」シリーズの展示品セールが、 じゃんぱら秋葉原5号店 や じゃんぱらD-Style秋葉原店 など、じゃんぱらの一部店舗で実施中です。\n\n同店によると今回のセール品は、「ソフトバンク版のSIMフリー展示機モデル」で、「じゃんぱらでは同商品の買取は行っていない」としています。\n\nラインアップと価格を挙げると、「iPhone 13 128GB」が34,980円、「iPhone 14 128GB」が49,980円、「iPhone 15 128GB」が69,980円。\n\n「iPhone 16e 128GB」が79,980円、「iPhone 16 Pro 256GB」が134,980円、「iPhone 16 Pro Max 256GB」が149,980円となっています。\n\nなお、各種1人2点までの購入制限が設けられています。在庫は多めに用意されているようなので、興味がある方はチェックしてみて下さい。",
       "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2147/308/aaa.jpg"
-    },
-    {
-      "Title": "身長200cmでもジャストフィット。細身の高身長ゲーマーに捧げる限定チェア",
-      "Link": "https://www.gdm.or.jp/pressrelease/2026/1010/655780",
-      "Published": "2026-10-10T01:10:02Z",
-      "Source": "エルミタージュ秋葉原",
-      "Category": "",
-      "Summary": "身長200cmでもジャストフィット。細身の高身長ゲーマーに捧げる限定チェア\n\nBauhutteから、高身長で細身～標準体型のユーザー向けゲーミングチェア「G-551HT」が125台限定で発売。最大身長200cmに対応し、座面高52cm、4Dアームレストを採用。参考価格は税込44,800円。\n\n身長200cmでもジャストフィット。細身の高身長ゲーマーに捧げる限定チェア\n\n座面高52cm、4Dアームレストを採用したBauhutte「G-551HT」\n\nビーズ株式会社（本社：大阪府東大阪市）は2026年10月8日、ゲーミング家具ブランド「Bauhutte（バウヒュッテ）」より、高身長で細身～標準体型のユーザーに向けたゲーミングチェア 「G-551HT（High-Tall Edition）」 を発表した。125台限定で販売され、参考価格は税込44,800円。\n\n既存モデル「G-551」のスマートなシート形状をベースに、座面の高さを拡張した特別仕様モデル。高身長向けチェアにありがちな横幅の広さを抑え、身体を包み込むホールド感を維持しながら、最大身長200cmまで対応する。\n\n座面には昇降幅120mmのロングストロークシリンダーを採用し、座面高を400～520mmの範囲で調整可能。また従来の3Dアームレストから、上下、前後、左右、角度の調整に対応する4Dアームレストへ変更され、細身のユーザーでも自然な位置に肘掛けを配置できる。\n\n背もたれは最大135°の11段階リクライニングに対応。座面はあぐらをかける広さを確保しており、張地にはファブリック素材を採用する。カラーは限定仕様のブラック×ダークグレー。本体サイズは幅680mm、奥行き650～1,100mm、高さ965～1,330mmで、耐荷重は100kg。\n\n文： 編集部 松枝 清顕 Bauhutte（ビーズ株式会社）： https://www.bauhutte.jp/\n\nQPAD、ガスケットマウント採用キーボード「Loop TKL Model 3」な…\n\n素材を3種類から選べる北欧デザインのゲーミングチェア、Fractal Desi…",
-      "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/10/10/G-551HT_001.jpg"
-    },
-    {
-      "Title": "玄関鍵や家電をオートメーション化、進化を遂げるスマートホーム製品 スマートホームの基本機能23製品をピックアップ text by 石川 ひさよし",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2147306.html",
-      "Published": "2026-10-10T01:00:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "玄関鍵や家電をオートメーション化、進化を遂げるスマートホーム製品 スマートホームの基本機能23製品をピックアップ text by 石川 ひさよし\n\n自宅をスマートホーム化しませんか?　たとえば、朝になるとスマートカーテンが自動的に開き、仕事のために自宅を出ると、一定の距離でスマートロックが玄関の鍵を施錠し、同時にスマートリモコンが照明や空調をOFFにする、といった具合です。\n\n玄関鍵や家電をオートメーション化、進化を遂げるスマートホーム製品\n\nスマートホームの基本機能23製品をピックアップ text by 石川 ひさよし\n\n自宅をスマートホーム化しませんか? たとえば、朝になるとスマートカーテンが自動的に開き、仕事のために自宅を出ると、一定の距離でスマートロックが玄関の鍵を施錠し、同時にスマートリモコンが照明や空調をOFFにする、といった具合です。\n\n近年は、顔認証や温度センサーなど、トリガーとなるオプションデバイスも毎年新たなものが登場し、利便性は常に向上し、できることも増えています。すでに構築済みの方も、しばらく更新していなかったという方もぜひ今また注目してみてください。\n\nスマートホーム製品は多くのメーカーからリリースされていますが、本稿では5メーカーに絞り、各社ごとにまとめて紹介します。まずはじめに、今回ピックアップした主な製品・機能をまとめておきます。\n\nNature(ネイチャー)は、国内スマートリモコンの先駆者と言えるでしょう。国内メーカーだけあって、スマートリモコン「Nature Remo」シリーズは、家電各社のリモコン対応(プリセット)が豊富で、セットアップもラクな印象です。最近はスマートロックの旧Qrio Lockを引き継ぐ「Nature Lock」もラインナップに加わりました。また、ロビットのスマートカーテン「mornin' plus」、キャンディハウス…",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2147/306/top.jpg"
-    },
-    {
-      "Title": "Core i5-1235Uや16GBメモリ搭載の13.3型「VAIO」が45,000円、中古品がML COMPUTERSでセール",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2147239.html",
-      "Published": "2026-10-10T00:00:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "Core i5-1235Uや16GBメモリ搭載の13.3型「VAIO」が45,000円、中古品がML COMPUTERSでセール\n\n10コア(Pコア2、Eコア8)/12スレッドのCore i5-1235Uを搭載した13.3インチノートPC「VAIO Pro PK（VJPK22）」の中古品が、ML COMPUTERSの通販サイトで販売中。\n\nCore i5-1235Uや16GBメモリ搭載の13.3型「VAIO」が45,000円、中古品がML COMPUTERSでセール\n\n10コア(Pコア2、Eコア8)/12スレッドのCore i5-1235Uを搭載した13.3インチノートPC「VAIO Pro PK（VJPK22）」の中古品が、 ML COMPUTERSの通販サイト で販売中。\n\n主な仕様は、ディスプレイ解像度は1,920×1,200px（タッチ対応）、メモリが16GB、ストレージが256GB SSD、OSがWindows 11 Pro。このほか、Webカメラや無線LAN機能などを備えています。\n\n付属品はACアダプタは保証対象外で、「他メーカーの同等品、互換品となる場合もございます」（販売ページ）とのこと。",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2147/239/a1.jpg"
-    },
-    {
-      "Title": "Intel Raptor Lake Nextの発売時期が判明。GigabyteがLGA1700用の”新CPU”対応BIOSを公開",
-      "Link": "https://www.nichepcgamer.com/archives/post-132929.html",
-      "Published": "2026-10-09T23:38:46Z",
-      "Source": "ニッチなPCゲーマーの環境構築Z",
-      "Category": "RaptorLakeNext",
-      "Summary": "Intel Raptor Lake Nextの発売時期が判明。GigabyteがLGA1700用の”新CPU”対応BIOSを公開\n\nRaptor Lake Nextの発売時期が判明しました。 Gigabyteはプレスリリースにて以下のように述べています。 Intel B760およびH610チップセットを採用したGigabyteマ...\n\nGigabyteはプレスリリースにて以下のように述べています。\n\nIntel B760およびH610チップセットを採用したGigabyteマザーボードの全ラインナップにおいて、 今後発売予定のソケットLGA1700用プロセッサー に対応するBIOSアップデートの提供をお知らせいたします。\n\n2027年初頭に発売が見込まれているこの新しいプロセッサー は、既存のプラットフォームに新たなパフォーマンスをもたらします。Gigabyteマザーボードユーザーの方は、発売初日からすぐにお使いいただけます。\n\n最新BIOSは、 Gigabyte公式サイト からダウンロードいただけます。\n\nGigabyteによると、2027年初頭にLGA1700用の新たなCPUが発売されるとのこと。LGA1700用の新CPUというと、現状、かねてよりその存在が リーク されていたRaptor Lake Nextしかありません。\n\nGigabyteが公開したBIOSアップデートは、DDR5メモリ版マザーボードだけでなくDDR4メモリ版マザーボードも含まれており、これはRaptor Lake Nextが既存のRaptor Lake / Raptor Lake Refreshと同様に、DDR5メモリとDDR4メモリの両方に対応していることを示しています。\n\n昨今、DDR5メモリの高騰を背景に、比較的安価なDDR4メモリの需要が高まっています。その需要に応えるべく、IntelはDDR4メモリ / LGA1700プラットフォームの継続に取り組んでいる模様です。\n\nRaptor Lake NextはデスクトップCPUだけでなくノートPC・モバイル向けもあるとされています。そのネー…",
-      "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2025/08/intel-core-desktop-processor-1200.jpg"
-    },
-    {
-      "Title": "読み放題サービスKindle Unlimited 3か月分2,940円無料キャンペーン中！",
-      "Link": "https://www.nichepcgamer.com/archives/post-132951.html",
-      "Published": "2026-10-09T23:37:41Z",
-      "Source": "ニッチなPCゲーマーの環境構築Z",
-      "Category": "雑記",
-      "Summary": "読み放題サービスKindle Unlimited 3か月分2,940円無料キャンペーン中！\n\nAmazonにて、電子書籍読み放題サービス『Kindle Unlimited』の3か月分2,940円無料キャンペーンが行われています。通常は月額980円のため、非常にお得なキャンペーンとなっています...\n\nAmazonにて、電子書籍読み放題サービス『Kindle Unlimited』の 3か月分2,940円無料キャンペーン が行われています。通常は月額980円のため、非常にお得なキャンペーンとなっています。\n\n4か月目からは通常の月額が発生しますが、 こちら の『メンバーシップをキャンセル』ページから『メンバーシップを終了』すれば、 4か月目からの月額は発生しません。また、メンバーシップ終了後も、無料期間終了日までKindle Unlimitedをお楽しみいただけます。\n\nキャンペーンは 10月19日(月)23:59受付分まで のため、以下のリンクよりお早めに！ 未ログイン状態だとキャンペーンページは表示されませんので、その場合はログインしてみてください。\n\nAmazon.co.jp Kindle Unlimited 3か月無料キャンペーン\n\n筆者は自作PC歴20年以上の経験を持ち、Windows OSの細部にわたるカスタマイズや高度な設定、PCゲームの最適化、PCハードウェアとソフトウェアに関する専門知識をもとに、PC環境を快適にするための情報、不具合に遭わないようにするための情報、そして、ちょっとニッチよりなPCユーザー向け記事の執筆を2015年4月から11年にわたって行っています。\n\n長年の経験により得たノウハウを活かし、初心者から上級者まで幅広く対応できる情報を提供し、読者様のPCライフをより快適で充実したものにすることを目指しています。",
-      "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2026/10/kindle-unlimited-d-2026-10a.png"
-    },
-    {
-      "Title": "BiwinのM.2 SSD「Black Opal NV3500」が店頭入荷、512GBと1TBの2モデル",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2147211.html",
-      "Published": "2026-10-09T23:30:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "BiwinのM.2 SSD「Black Opal NV3500」が店頭入荷、512GBと1TBの2モデル\n\nBiwinのPCIe 3.0 x4接続M.2 SSD「Black Opal NV3500」シリーズが、一部ショップに入荷。\n\nBiwinのM.2 SSD「Black Opal NV3500」が店頭入荷、512GBと1TBの2モデル\n\nBiwinのPCIe 3.0 x4接続M.2 SSD「Black Opal NV3500」シリーズが、一部ショップに入荷。\n\n店頭価格は512GB「BNV3500512G-RGX」が13,450円、1TB「BNV350001TB-RGX」が23,780円。\n\nBlack Opal NV3500シリーズは、PCIe 3.0 x4接続のM.2 2280 SSD。超薄型グラフェン放熱シートを搭載し、高速性能を安定して維持できるとする。\n\nシーケンシャルリードはいずれも3,500MB/s、同ライトは512GBが2500MB/s、1TBが3,000MB/s。ランダムリードは512GBが30万IOPS、1TBが35万IOPS、同ライトはいずれも28万IOPS。\n\n総書き込み耐性は512GBが300TBW、1TBが600TBW。",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2147/211/s1.jpg"
-    },
-    {
-      "Title": "(お買い得中古品情報) 完全未チェックの玄人向けジャンクDDR5・DDR4メモリが大量入荷、800円から",
-      "Link": "https://www.gdm.or.jp/crew/2026/1010/655770",
-      "Published": "2026-10-09T23:25:17Z",
-      "Source": "エルミタージュ秋葉原",
-      "Category": "",
-      "Summary": "(お買い得中古品情報) 完全未チェックの玄人向けジャンクDDR5・DDR4メモリが大量入荷、800円から\n\nAKIBAJUNKSで販売されている、DDR5・DDR4メモリのジャンク品。デスクトップPC用に加えてノートPCのSO-DIMMを含め、合計150枚ほどが入荷している。ブランドはCrucialやCORSAIR、SanMax、バッファローなど様々で、在庫はDDR4メモリが多めのようだ。\n\n(お買い得中古品情報) 完全未チェックの玄人向けジャンクDDR5・DDR4メモリが大量入荷、800円から\n\n各種メーカー「DDR5・DDR4メモリ」（ジャンク品）税込800円から\n\nAKIBAJUNKSで販売されている、DDR5・DDR4メモリのジャンク品。デスクトップPC用に加えてノートPCのSO-DIMMを含め、合計150枚ほどが入荷している。ブランドはCrucialやCORSAIR、SanMax、バッファローなど様々で、在庫はDDR4メモリが多めのようだ。\n\n価格はDDR5・DDR4関係なく容量別になっており、8GBが1枚800円、16GBが1枚1,600円、32GBが1枚3,200円。ただし完全未チェックとあって、ショップ側でも「ゼッタイに動かない」「質問禁止」「沢山買わないで」とやたらに警告している玄人向けのアイテムになっている。\n\n文： 編集部 絵踏 一 AKIBAJUNKS： https://www.gdm.or.jp/shop/akibajunks\n\n(お買い得中古品情報) Ryzen 5 PRO＆メモリ32GBの「ThinkPa…\n\n(お買い得中古品情報) 第12世代Core i5＆メモリ16GB＆タッチ液晶搭載…\n\n(お買い得中古品情報) Core i9＆RTX 3070搭載のミニタワー「Pre…\n\n(アキバ取材班) BIWIN、専用ファンクーラー付属DDR5メモリ「Origin…\n\n(お買い得中古品情報) Cランクなのにピカピカな「iPhone 14」が大量入荷…\n\n(お買い得中古品情報) チョイキズがある以外は状態良好な「moto g13」のD…\n\n2026…",
-      "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/10/10/261010chuuko_02_01.jpg"
-    },
-    {
-      "Title": "BiwinのPCIe 4.0 x4対応SSD「M350」が店頭入荷、500GB/1TB/2TBの3モデル",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2147216.html",
-      "Published": "2026-10-09T23:05:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "BiwinのPCIe 4.0 x4対応SSD「M350」が店頭入荷、500GB/1TB/2TBの3モデル\n\nBiwinのM.2 SSD「M350」シリーズが、一部ショップに入荷。\n\nBiwinのPCIe 4.0 x4対応SSD「M350」が店頭入荷、500GB/1TB/2TBの3モデル\n\nBiwinのM.2 SSD「M350」シリーズが、一部ショップに入荷。\n\n店頭価格は500GBが17,750円、1TBが29,700円、2TBが55,700円。\n\nM350シリーズは、PCIe 4.0 x4接続のM.2 2280 SSD。0.5mm厚のグラフェン放熱シートを搭載し高負荷な処理時でも安定した動作を実現したとする。\n\nシーケンシャルリードは500GBが5,000MB/s、1TBと2TBが5,200MB/s、同ライトは500GBが2,000MB/s、1TBと2TBが4,800MB/s。ランダムリードは500GB/2TBが40万IOPS、1TBが50万IOPS、同ライトは500GBが50万IOPS、1TBと2TBが60万IOPS。\n\n総書き込み耐性は500GBが200TBW、1TBが400TBW、2TBが800TBW。",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2147/216/s1.jpg"
-    },
-    {
-      "Title": "バッテリを外したら、代わりにファンが付いた。GPD WIN Max 3の“着脱式”はただのギミックじゃありません",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/2147299.html",
-      "Published": "2026-10-09T23:00:00Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "バッテリを外したら、代わりにファンが付いた。GPD WIN Max 3の“着脱式”はただのギミックじゃありません\n\nノートPCを選ぶとき、私たちはいつも何かを諦めてきました。軽さを取ればパワーが足りず、パワーを取れば重くてバッテリが持たない。どちらを優先するかは買う時に一度決めたら、そのマシンを手放すまで変えられない。それが当たり前だと思っていないでしょうか。\n\nバッテリを外したら、代わりにファンが付いた。GPD WIN Max 3の“着脱式”はただのギミックじゃありません\n\nノートPCを選ぶとき、私たちはいつも何かを諦めてきました。軽さを取ればパワーが足りず、パワーを取れば重くてバッテリが持たない。どちらを優先するかは買う時に一度決めたら、そのマシンを手放すまで変えられない。それが当たり前だと思っていないでしょうか。\n\nですが、実際の毎日はそう単純ではありません。ソファでゆったりゲームをしたい日もあれば、出先で仕事をこなす日もあり、重い処理を延々と回し続けたい日もあります。必要な“形”は日によって違うのに、手元のPCの形はひとつだけ。そのズレを、私たちは「まあ、こんなものか」と飲み込んできました。\n\nGPD WIN Max 3は、そこに一石を投じる1台です。バッテリも冷却ファンも、本体から付け外しできるモジュールにしてしまいました。これまで「買う前」に決めていたPCの性格を、「その日の朝」に決められるようにする。小さな筐体ながら、PCの選び方そのものを問い直す提案だと言えます。\n\nしかも中身はRyzen AI Max+ 395クラスで、メモリは最大128GB。ローカルLLMまで手元で動かせてしまうとなると、「ゲーム機」「ノートPC」「AIマシン」というジャンル分けにも、もはやあまり意味がないのかもしれません。\n\nもちろん、この発想が本当に実用になるのかは別の話です。モジュールを付け替えることで何が変わり、何は変わらなかったのか。意外な結果も含めて、動画で確かめてみてください。\n\nPC Watch、AKIBA PC Hotline!が共同でお届けするPCハードウェアと関…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2147/299/20261009_WinMax3.png"
-    },
-    {
-      "Title": "iPhone Duo、みんなはどう使いたい？僕がやりたい20のこと",
-      "Link": "https://gori.me/iphone/171117",
-      "Published": "2026-10-09T22:45:16Z",
-      "Source": "gori.me",
-      "Category": "iPhone Duo",
-      "Summary": "iPhone Duo、みんなはどう使いたい？僕がやりたい20のこと\n\n折りたたみスマホといえば、動画と漫画が定番だ。では、iPhone Duoで何をする？僕は漫画をAIの解説付きで読みたいし、取材では文字起こしを表示しながらメモを取りたい。ディズニーで「それどこ？」とならないマップ活用も試したい。発売前に書き出した20のやりたいことを紹介していく。\n\niPhone Duo、みんなはどう使いたい？僕がやりたい20のこと\n\n漫画はAIの解説付きで読みたい。長く折りたたみを使ってきた人の知恵も借りたい\n\n『NARUTO -ナルト-』や『ジョジョ』は後半で話を見失いがち。片方の画面でAIに解説してもらいながら読みたい\n\nディズニーで「ポップコーン買ってきて」と頼まれても迷わないように、施設のマップを大画面で見たい\n\nApple Pencil（USB-C）に対応したら、お絵かきが好きな娘たちの落書きをデータで残したい\n\n2026年10月16日に予約が始まり、23日に発売される iPhone Duo 。僕はこの折りたたみiPhoneを、これから1年間 メインのiPhone としてゴリゴリ使うつもりだ。これまで外側の画面や電池持ち、重さなど、心配な点もいくつか書いてきた。それでも楽しみな気持ちのほうがずっと大きい。\n\nでは、なぜそこまで使いたいのか。発売前に「手に入れたらやってみたいこと」をざっと20個書き出してみた。 YouTubeでは35分ほどかけて語った ので、この記事で整理しておく。読むのが面倒だという人は動画をチェックしてもらいたい！（ チャンネル登録 もよろしくお願いします！）\n\n発売前に書き出したリストの1つ目は、ちょっと意外かもしれないが Touch ID でSuicaを使うこと だった。この理由は後でじっくり書く。まずは大画面の話から始めたい。\n\niPhone Duo …",
-      "ImageURL": "https://gori.me/uploads/2026/10/20Things-I-want-to-do-with-iPhoneDuo.jpeg"
     }
   ],
   "world": [
+    {
+      "Title": "MIT エンジニアがゲームと VR 用のソフト 3D 形状センシング スキンを構築",
+      "Link": "https://www.tomshardware.com/virtual-reality/mit-engineers-build-soft-3d-shape-sensing-skin-for-gaming-and-vr-tracks-3d-movement-and-touch-with-sub-half-centimeter-error",
+      "Published": "2026-10-18T12:25:00Z",
+      "Source": "Tom's Hardware",
+      "Category": "Virtual Reality",
+      "Summary": "MIT エンジニアがゲームと VR 用のソフト 3D 形状センシング スキンを構築\n\n数本の繊維をカットしてもまだ機能しますが、衣服にはより多くの、より薄い繊維が必要になります。\n\nMIT エンジニアがゲームと VR 用のソフト 3D 形状センシング スキンを構築 - 3D の動きとタッチを 0.5 センチメートル未満の誤差で追跡\n\n数本の繊維をカットしてもまだ機能しますが、衣服にはより多くの、より薄い繊維が必要になります。\n\n(画像クレジット: MIT、研究者提供、MIT ニュース編集) リンクをコピー\n\n0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する MIT のエンジニアは、ゲーム、仮想現実、および理学療法アプリケーションの制御に役立つ可能性のある、自己追跡動作を備えたソフトでウェアラブルな形状検知シートを開発したと MIT ニュースが報じています。この技術は、光ファイバーを利用してシート自体の 3D 形状を追跡するもので、実験室テストでは誤差が 0.5 センチメートル未満に抑えられています。チームの MIT 機械工学大学院生である Qifan Yu 氏は、剛性センサーの設計を約 1 ～ 2 cm とし、その結果は「少なくとも既存の技術と同等」であると述べました。シートは損傷しても機能しますが、繊維は衣類に理想的なものよりも厚いままです。\n\nこのニュースは、最近『Advanced Intelligent Systems』に掲載された論文「光導波路アレイを介した完全にソフトで多機能な形状センシングに向けて」に続くものです。それは、形状を識別するためにアレイがレイアウトされており、導波路が両方向、つまり「双方向」の曲げに応答することを詳述しています。ファイバー応答を組み合わせることで、必要なセンシング要素が少なくなり、損傷に対する回復力も向上します。繊維は圧力に反応するため、理学療法のデモにおける前腕の圧迫などの外力を感知できます。\n\n通常、光を閉じ込めるクラッド内の透明なコアであるプレーンファイバーは…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/AoiE9uB5AeDWhPjLmoTh43-2560-80.jpg"
+    },
+    {
+      "Title": "主要なドメインに対するタイポスクワッティング攻撃は依然として存在します",
+      "Link": "https://www.tomshardware.com/tech-industry/cyber-security/typo-squatting-attacks-with-major-domains-are-still-viable-corner-cases-with-cyrillic-characters-still-evade-the-best-checks",
+      "Published": "2026-10-18T12:05:00Z",
+      "Source": "Tom's Hardware",
+      "Category": "Tech Industry",
+      "Summary": "主要なドメインに対するタイポスクワッティング攻撃は依然として存在します\n\n注意深く観察していますか？\n\n主要なドメインに対するタイポスクワッティング攻撃は依然として存在しており、キリル文字を使用した特殊なケースは依然として最善のチェックを回避しています。\n\n(画像クレジット: Getty Images) リンクをコピー\n\n0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する IETF がドメイン名に Unicode 文字を許可することを決定したとき、多くの技術者は、この動きは賞賛に値するものであると考えましたが、同時に危険も伴うと考えました。何百もの固有の文字が、複数のアルファベット間で類似または同一に見える可能性があるためです。これは、タイポスクワッティング攻撃に使用される可能性があります。この攻撃では、悪意のある攻撃者が、実際の URL と同一に見える、意図的にスペルを間違えた Web アドレスを使用して機能する Web サイトを作成し、ユーザーがアドレスを誤って入力したときに生成された検索結果により、そのサイトにアクセスした無防備な訪問者に対して攻撃を開始します。 Chromium ブラウザには、正規のドメインを装った不正なドメインを検出して防止するための最も高度なルールセットがあります。しかし、Have I Been Squatted (HIBS) のブログ投稿で詳細に説明されているように、最良のコードでも奇妙な特殊なケースがあります。\n\n研究者らは、実際には本物の「apple.com」と同一ではない「арреraise.com」を例として、特定のキリル文字の使用を取り巻く特殊な状況のおかげで、文字の特定の組み合わせが複数層の保護を回避できることを示しています。このアルファベットには多くのラテン文字の類似文字があります。たとえば、а → a、е → e、о → o、р → p、с → c などです。違いが分からない場合はご容赦ください。\n\n標準的なラテン語のホモグリフの真ん中にその 1 つのホモグリフ…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/SQzRnE4jQMZ8s6EjxkPFB6-2560-80.jpg"
+    },
+    {
+      "Title": "This Firefox feature made me ditch sticky notes for everyday research",
+      "Link": "https://www.androidauthority.com/firefox-feature-ditch-sticky-notes-3720865/",
+      "Published": "2026-10-18T12:00:01Z",
+      "Source": "Android Authority",
+      "Category": "Mozilla Firefox",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "300以上の地元データセンターの禁止で遅延したのは米国のプロジェクトわずか3件だけ",
+      "Link": "https://www.tomshardware.com/tech-industry/data-centers/300-plus-local-data-center-bans-have-only-delayed-just-three-us-projects-bans-much-more-bark-than-bite-only-2-3-gigawatts-of-data-centers-are-held-up-versus-38-gigawatts-expected-online-in-2027",
+      "Published": "2026-10-18T11:45:00Z",
+      "Source": "Tom's Hardware",
+      "Category": "Tech Industry",
+      "Summary": "300以上の地元データセンターの禁止で遅延したのは米国のプロジェクトわずか3件だけ\n\nプロジェクトごとの監査では、ほとんどの一時停止措置が現場、許可、スケジュールを遵守していないことが判明します。\n\n300以上の地元データセンターの禁止で遅延したのは米国のプロジェクト3件だけ - 禁止は「噛むよりも吠える方がはるかに大きい」、2027年にオンラインで38ギガワットが予想されるのに対し、保留されているデータセンターは2.3ギガワットのみ\n\nプロジェクトごとの監査では、ほとんどの一時停止措置が現場、許可、スケジュールを遵守していないことが判明します。\n\n(画像提供: Google) リンクをコピー\n\n1 会話に参加してください フォローしてください Google ニュースレターの推奨ソースとして追加してください ニュースレターを購読してください 300 以上の地元のデータセンター建設の一時停止は、計画された増強に大きな影響を与えておらず、一時停止地域にある 21 ギガワット (GW) のデータセンターのうち、約 2.3 の約 2.3 プロジェクトだけが遅延の可能性があり、合計 38 GW が来年稼働すると予測されている、とセミアナリシスが X で共有しました。モラトリアムの監査では、サイト、許可、スケジュールを無視する傾向があることが示されています。\n\nモラトリアムは米国のデータセンターの増強を止めているわけではない。エコノミスト誌に引用されているように、当社のアナリスト @mayabarkin は、モラトリアム地域 (テキサス州の TCEQ 一時停止を除く) の最大 21 GW のうち、遅延する可能性があるのは約 2.3 GW だけであると発見しました。詳細については、SemiAnalysis ニュースレターで彼女のレポートをお読みください👇️ https://t.co/N59qQFhDbJ https://t.co/MeHyR8hznU 2026 年 10 月 17 日\n\nこの報告書の核心は、誰もが一時停止が米国の増強を打ち砕いていると考えている一方で、その予測は「過去…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/LRwmwu7XEdDMQkb8uQgofm-2560-80.jpg"
+    },
+    {
+      "Title": "Anthropic が提案した AI 安全法案は、50 人の死亡または 10 億ドルの損害賠償が危険にさらされている場合にのみ発動される",
+      "Link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+      "Published": "2026-10-18T11:25:00Z",
+      "Source": "Tom's Hardware",
+      "Category": "Tech Industry",
+      "Summary": "Anthropic が提案した AI 安全法案は、50 人の死亡または 10 億ドルの損害賠償が危険にさらされている場合にのみ発動される\n\nAI モデルの制御不能を防ぐにはこれで十分でしょうか?\n\nAnthropic が提案した AI 安全法案は、50 人の死亡または 10 億ドルの損害賠償が発生する場合にのみ発動される - この提案により、事実上商務省が AI モデルを阻止できる唯一の機関となる\n\nAI モデルの制御不能を防ぐにはこれで十分でしょうか?\n\n(画像クレジット: Getty Images ) リンクをコピー\n\n3 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する Anthropic は、10 億ドルの損害を引き起こすか、50 人以上を死傷させるリスクがある場合に限り、政府が AI モデルのリリースを阻止できるようにする AI 安全法案を求めて密かにロビー活動を行っています。 Politico によると、商務省に登録された独立した第三者が研究所とその AI モデルを定期的に評価する予定だという。また、研究室は評価者に報酬を支払う可能性があるが、その支払いが評価者の独立性に影響を与えない場合に限られると述べた。\n\n「この法案は、アンスロピックの高度な AI フレームワークで概要が説明されている提案を表しており、私たちは 6 月以来、連邦および州の議員とともにこのフレームワークを提唱してきました」とアンスロピックの広報担当者は同出版物に語った。 「これらは議会が行動すべきだとわれわれが考える賢明な政策だ。」\n\nこの法案では、リスクは、生物兵器の作成や放出、AIを活用したサイバー攻撃、またはAIを利用したサイバー攻撃、またはAIラボがAIモデルやエージェントの制御を失った可能性から生じるものとしている。これらの出来事のいずれかが起こりそうな可能性がある場合、評価者は72時間以内に同省に報告する必要があり、その後、同省はすべての証拠をコロンビア特別区地方裁判所の連邦裁判官の前に提出し、連邦判事がモデルリリ…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/SVPa8KkaDwkeyAtLnMhyKW-1920-80.png"
+    },
+    {
+      "Title": "The Pixel 11 Pro’s 120x zoom is ridiculous, but is it actually useful?",
+      "Link": "https://www.androidauthority.com/the-pixel-11-pros-120x-zoom-3721738/",
+      "Published": "2026-10-18T11:00:46Z",
+      "Source": "Android Authority",
+      "Category": "Photography",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "進化するRC回路",
+      "Link": "https://hackaday.com/2026/10/18/evolving-rc-circuits/",
+      "Published": "2026-10-18T11:00:33Z",
+      "Source": "Hackaday",
+      "Category": "mutation",
+      "Summary": "進化するRC回路\n\n私たちは進化するアルゴリズムや AI モデルに囲まれており、私たちもそれらに合わせて進化しなければならないと感じています。もちろん、世界自体は常に進化しているので、フィルタリングを実装する必要があるときは…\n\n私たちは進化するアルゴリズムや AI モデルに囲まれており、私たちもそれらに合わせて進化しなければならないと感じています。もちろん、世界自体は常に進化しており、現在の環境に基づいてフィルタ回路を実装する必要がある場合、それほど長くは続かない可能性があります。 [Saikarthik Ramakrishnan] は、この現象が単純な RC 回路に簡単に適用できることに気づきました。それならば、変化する世界自体に RC 回路を適応させてみてはどうでしょうか?これはまさに Darwin ボードが意図していることです。どのような環境や信号に対しても、進化するシンプルな RC 回路のように機能します。\n\nRC 回路は通常、回路の世界では比較的単純であると考えられています。ただし、現実の世界は必ずしもそれほど単純ではありません。 [Saikarthik Ramakrishnan] によって実装されたこの単純な進化アルゴリズムは、他の進化モデルで使用されている同様の原理を謙虚な RC 回路に適用しようとしています。 ESP32 に基づいた Darwin Board は、2040 通りのゲノムの組み合わせを示す非常に単純なモデルです。はい、考えられる各 RC 回路は独自のゲノムであり、現在の要件に基づいてある回路から別の回路への単純な進化が可能です。\n\nここでプロジェクトの GitHub リポジトリをチェックして、変更回路自体を試してみることをぜひ検討してください。このプロジェクトは、通常は非常に単純なものを複雑にする可能性がありますが、時には単純さの中に美しさもあります。それでは、スマート ホーム機能に滑稽なほど単純な回路を使用してみてはいかがでしょうか?",
+      "ImageURL": "https://hackaday.com/wp-content/uploads/2026/10/Screenshot-2026-10-16-212723.png"
+    },
+    {
+      "Title": "研究者は、Wi-Fi信号を使用して隠された拳銃を検出するようにAIを訓練します",
+      "Link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-train-ai-to-detect-concealed-handguns-using-wi-fi-signals-open-source-wifirenet-achieves-precision-detection-on-older-802-11a-standard-by-analyzing-how-weapons-distort-wireless-signals",
+      "Published": "2026-10-18T11:00:00Z",
+      "Source": "Tom's Hardware",
+      "Category": "Tech Industry",
+      "Summary": "研究者は、Wi-Fi信号を使用して隠された拳銃を検出するようにAIを訓練します\n\n実験用試作機では兵器の位置を特定できない\n\n研究者は、Wi-Fi 信号を使用して隠された拳銃を検出するように AI を訓練します — オープンソース WiFireNet は、武器が無線信号をどのように歪めるかを分析することにより、古い 802.11a 標準での正確な検出を実現しています\n\n実験用プロトタイプはキャリア上の武器の位置を正確に特定できません\n\n(画像クレジット: ScienceDaily.com) リンクをコピー\n\n3 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する スウェーデン国防研究庁 (FOI) の AI 研究者のグループは、Wi-Fi 信号を使用して隠された拳銃を識別できる AI システムを開発し、可視カメラや煩わしい金属探知機に代わる非侵入的な代替手段を提供しました。 10 月 13 日に arXiv Wi-Fi に掲載された論文で詳しく説明されていますが、WiFireNet と呼ばれるこのシステムは、物体が周囲の Wi-Fi 信号をどのように歪めるかからチャネル状態情報を分析します。システム全体は、Wi-Fi トランスミッター、Wi-Fi レシーバー、WiFireNet AI で構成されています。\n\n通常の Wi-Fi 信号は、経路上にある物体に遭遇すると、その形状、方向、材質に基づいて、その物体に特有の方法で侵入して反射します。このデータ、つまりチャネル状態情報を分析することで、物体を高精度に識別することができます。セキュリティ研究者は以前、通常の Wi-Fi ルーターが 99.5% の精度で人を識別できる技術を公開しました。\n\nWiFireNet システムを構築するために、研究者らはまず、RGB 映像と、電話から拳銃までのさまざまな物体を持って歩き回る人々の反射 Wi-Fi 信号を同時に記録することで、WiFire データセットと呼ばれるデータセットを作成しました。次に研究者らは、ビデオ クリップを…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/kfvNwDT4D6jpoBvqVwPdcE-1920-80.webp"
+    },
+    {
+      "Title": "今週のゲーム (第 43 週)",
+      "Link": "https://www.techpowerup.com/353842/this-week-in-gaming-week-43",
+      "Published": "2026-10-18T10:37:51Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "今週のゲーム (第 43 週)\n\nゲームの新しい週へようこそ。今週の AAA リリースには、金曜日のリリースに伴う怪しい匂いが漂っていますが、高度なアクセスのフィードバックに基づいて、シリーズのファンは楽しい時間を過ごすことができそうです。今週の通常リリースについては、いくつかのリリースから始まります。\n\n2026 年 4 月 13 日 Epic Games ストアの従業員: 無料ゲームのためだけに来て、その後 Steam に戻ってきた人々 (91)\n\n2026 年 3 月 6 日 PlayStation 6 のリークヒント 4K 120 FPS は「ほとんどのゲームで」PS5 の 6 ～ 12 倍の RT パフォーマンスを実現 (116)\n\n2026 年 7 月 27 日 Palworld 幹部がサポート終了計画についてゲーマーに安心を与える (10)\n\n2026 年 9 月 7 日 予想されるコンソール不足に対応して、ロックスターは PC 版「GTA 6」の発売を延期する可能性がある (27)\n\n2026 年 9 月 5 日 新しい DLSS 5 スワッパー ツールがゲームにニューラル レンダリングをもたらす NVIDIA はサポートされていない (16)\n\n2026 年 8 月 30 日 今週のゲーム (第 36 週) (12)\n\n2026 年 4 月 28 日 Denuvo、デイゼロ DRM ハイパーバイザー クラックに対応: 「すでにセキュリティ バージョンの更新に取り組んでいます」 (62)\n\n2026 年 8 月 17 日 今週のゲーム (第 34 週) (18)\n\n2026 年 9 月 25 日 AnyPS5 プロジェクトはエミュレーションを完全にスキップし、PlayStation 5 ゲームを PC に直接移植することを目指す (18)\n\n2026 年 10 月 12 日 PS5 脱獄アプリ「Overdrive」が無料ゲームと DLC を提供しているとされる (14)\n\n今週のゲーム (第 43 週) への 7 件のコメント",
+      "ImageURL": "https://www.techpowerup.com/img/yLDr6tQRbi2ZBFLV.jpg"
+    },
+    {
+      "Title": "I’ve been a smart home user for 10 years, and the Apple HomeView looks like a game-changer",
+      "Link": "https://www.androidauthority.com/apple-homeview-smart-home-3723150/",
+      "Published": "2026-10-18T10:30:59Z",
+      "Source": "Android Authority",
+      "Category": "Apple HomeView",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "DJI初のバッテリー交換ドックはドローンを45秒以内に充電して空中に戻すことができる",
+      "Link": "https://www.tomshardware.com/tech-industry/drones/djis-first-battery-swapping-dock-gets-drones-recharged-and-back-in-the-air-in-under-45-seconds-but-dock-4-has-no-fcc-clearance-for-u-s-sale",
+      "Published": "2026-10-18T10:30:00Z",
+      "Source": "Tom's Hardware",
+      "Category": "Tech Industry",
+      "Summary": "DJI初のバッテリー交換ドックはドローンを45秒以内に充電して空中に戻すことができる\n\n30 分も充電する必要がなく、安全と救助に最適です。\n\nDJI初のバッテリー交換ドックはドローンを45秒以内に充電して飛行に戻すことができるが、「ドック4」には米国での販売に向けたFCCの認可が得られていない\n\n30 分も充電する必要がなく、安全と救助に最適です。\n\n0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 同社のプレスリリースによると、DJI は今週、自動で 25 秒で交換できるバッテリー交換ドローン ドック、Dock 4 を納入しました。このドックは通常の充電プロセス（通常は約 30 分かかる）をバイパスしており、DJI は着陸から離陸までの所要時間は 45 秒未満であると約束しています。ドローン・イン・ア・ボックスのソリューションは、業界ではないものの同社初のこのタイプのもので、緊急対応などの用途を対象としているが、FCCの認可は得られておらず、米国での販売もされていない。\n\n同社は安全性の観点を強調し、Dock 4 を「ドック・アズ・ア・ファーストレスポンダー (DFR)」ソリューションとして売り込んでいます。製品ページでは「Always There, Always Ready」と呼ばれています。バッテリーの交換には 30 分もかかりません。ドローンは着陸後 45 秒以内に空中に戻ります。このドックはまた、400 サイクルで 260 Wh と定格される 2 つの 925 g バッテリー パックを一度に充電します。それぞれのバッテリー パックが 15% から 95% になるまでに 27 分かかると推定されています。\n\nこれらのパックはバックアップ電源としても機能し、それぞれ定格約 4.5 時間の連続使用が可能です。さらに、少なくとも 2 つのパックがロードされていると、グリッド電力が失われた場合でもドックは交換を続行できますが、バックアップ電力はパックを充電しません。この構成により、ドローンは理想的とは言…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/7UPUu58BKnXpWmHdJqSowb-2400-80.jpg"
+    },
+    {
+      "Title": "Motorola’s forgotten foldable is the one I’d actually buy",
+      "Link": "https://www.androidauthority.com/motorola-forgotten-foldable-buy-3722300/",
+      "Published": "2026-10-18T10:00:11Z",
+      "Source": "Android Authority",
+      "Category": "Motorola Razr",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "MapQuest の新しい監視レイヤーで明らかになった群れのカメラの位置",
+      "Link": "https://www.tomshardware.com/software/maps/flock-camera-locations-revealed-on-mapquests-new-surveillance-layer-users-can-now-see-placement-and-direction-of-known-license-plate-readers-from-multiple-companies",
+      "Published": "2026-10-18T10:00:00Z",
+      "Source": "Tom's Hardware",
+      "Category": "Applications",
+      "Summary": "MapQuest の新しい監視レイヤーで明らかになった群れのカメラの位置\n\nアプリをダウンロードする時間です。\n\nMapQuest の新しい監視レイヤーで群れのカメラの位置が明らかに - ユーザーは複数の企業の既知のナンバー プレート リーダーの配置と方向を確認できるようになりました\n\n(画像クレジット: Getty Images ) リンクをコピー\n\n3 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する Google マップよりも前から長い間オンライン マッピングおよびナビゲーション サービスを提供してきた MapQuest が、新しい監視レイヤーを追加するアプリのアップデートをリリースしました。同社はBlueskyで、既知のナンバープレートリーダーの位置を地図上にプロットしており、Flock社のデバイスだけでなく、Motorola Solutions (Vigilant)、Genetec、Axis Communications、Axon、Leonardo (ELSAG)、Neology、Rekor、PlateSmart、Ubicquia、Verkada、その他のブランドのデバイスもカバーしていると述べた。\n\n道路には目がある！ 👁️ マップ オプションで監視レイヤーをオンにすると、Flock Safety、Motorola Solutions (Vigilant)、Genetec、Axis Communications、Axon、Leonardo (ELSAG)、Neology、Rekor、PlateSmart、Ubicquia、Verkada、その他の屋外監視カメラの既知のナンバー プレート リーダーが表示されます。\n\nアプリ開発者がこのすべてのデータをどのようにして見つけたのかは不明ですが、これは、あるセキュリティ研究者が Flock 独自のデータを使用して構築した Flock 監視マップに似ています。各カメラの位置を示すだけでなく、カメラが向いている方向も示すため、自動ナンバー プレート認識 (AL…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/8Ht5WmB2A95EErFNdy8QmN-1920-80.png"
+    },
+    {
+      "Title": "5 Android phones you should buy instead of the Samsung Galaxy A16",
+      "Link": "https://www.androidauthority.com/samsung-galaxy-a16-alternatives-3721499/",
+      "Published": "2026-10-18T09:30:37Z",
+      "Source": "Android Authority",
+      "Category": "Samsung Galaxy",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "Pixel 11 Pro XL vs. Galaxy S27 Ultra: Why you shouldn’t buy Google’s flagship right now",
+      "Link": "https://www.androidauthority.com/pixel-11-pro-xl-vs-galaxy-s27-ultra-should-you-buy-wait-3722140/",
+      "Published": "2026-10-18T09:00:23Z",
+      "Source": "Android Authority",
+      "Category": "Samsung Galaxy S27",
+      "Summary": "",
+      "ImageURL": ""
+    },
     {
       "Title": "Wi-FiアダプターをSDRに変える",
       "Link": "https://hackaday.com/2026/10/18/turning-a-wi-fi-adapter-into-an-sdr/",
@@ -5556,15 +5691,6 @@
       "ImageURL": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/MS_Surface_Laptop_Ultra_Feature-1152x648.jpg"
     },
     {
-      "Title": "Microsoft Surface Laptop Ultra レビュー: 真っ直ぐな美しい Windows PC の RTX Spark",
-      "Link": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-surface-laptop-ultra-rtx-spark-review",
-      "Published": "2026-10-16T12:00:00Z",
-      "Source": "Tom's Hardware",
-      "Category": "Tablets",
-      "Summary": "Microsoft Surface Laptop Ultra レビュー: 真っ直ぐな美しい Windows PC の RTX Spark\n\nAI モデルには便利ですが、Windows 11 のさらなる機能が活用されるのを待っています。\n\nSurface Laptop Ultra は、Microsoft がこれまでに製造した中で最も美しいラップトップであり、RTX Spark は AI モデルに強力です。しかし、AI モデルを実行しない場合、通常の Windows ユーザーが利用するのに目新しいものは何もなく、このシステムは非常に高価です。\n\n+ 磁気接続ポートは楽しくて便利です\n\n+ AI モデルが好きな場合、RTX Spark は強力です\n\n+ 非常に明るいミニ LED スクリーン\n\n+ 修理用のラベルが見事に貼られています\n\n- バッテリー寿命が改善される可能性がある\n\n- Windows は RTX Spark が提供するものを活用していません\n\nTom's Hardware を信頼できる理由 当社の専門レビュー担当者は、お客様が最適なものを選択できるよう、何時間もかけて製品とサービスをテストおよび比較します。テスト方法について詳しくは、こちらをご覧ください。\n\nパフォーマンスを重視した Surface が登場してから数年が経ちました。 Nvidia のモバイル SoC への参入により、Microsoft は、RTX Spark を中心に設計されたウルトラプレミアム PC を開発したいくつかのハードウェア パートナーの 1 つです。\n\nSurface Laptop Ultra は、Surface がこれまでに製造した中で最も美しいラップトップです。画面が綺麗ですね。ポートの選択が強力で、金属製のシャーシは高級感があります。重いですが、それは AI モデルを実行するように設計された SoC を冷却する代償です。\n\nこれは、Qualcomm チップを使用していない最初の Windows on Arm ラップトップの 1 つでもあります。ここでは Microsoft と…",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/2euXU5qSKhStmYNM3oz75j-2520-80.jpg"
-    },
-    {
       "Title": "Asus ProArt P16 RTX Spark Laptop Review - The future of multimedia laptops?",
       "Link": "https://www.notebookcheck.net/Asus-ProArt-P16-RTX-Spark-Laptop-Review-The-future-of-multimedia-laptops.1422366.0.html",
       "Published": "2026-10-16T12:00:00Z",
@@ -5572,6 +5698,15 @@
       "Category": "reviews",
       "Summary": "",
       "ImageURL": ""
+    },
+    {
+      "Title": "Microsoft Surface Laptop Ultra レビュー: 真っ直ぐな美しい Windows PC の RTX Spark",
+      "Link": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-surface-laptop-ultra-rtx-spark-review",
+      "Published": "2026-10-16T12:00:00Z",
+      "Source": "Tom's Hardware",
+      "Category": "Tablets",
+      "Summary": "Microsoft Surface Laptop Ultra レビュー: 真っ直ぐな美しい Windows PC の RTX Spark\n\nAI モデルには便利ですが、Windows 11 のさらなる機能が活用されるのを待っています。\n\nSurface Laptop Ultra は、Microsoft がこれまでに製造した中で最も美しいラップトップであり、RTX Spark は AI モデルに強力です。しかし、AI モデルを実行しない場合、通常の Windows ユーザーが利用するのに目新しいものは何もなく、このシステムは非常に高価です。\n\n+ 磁気接続ポートは楽しくて便利です\n\n+ AI モデルが好きな場合、RTX Spark は強力です\n\n+ 非常に明るいミニ LED スクリーン\n\n+ 修理用のラベルが見事に貼られています\n\n- バッテリー寿命が改善される可能性がある\n\n- Windows は RTX Spark が提供するものを活用していません\n\nTom's Hardware を信頼できる理由 当社の専門レビュー担当者は、お客様が最適なものを選択できるよう、何時間もかけて製品とサービスをテストおよび比較します。テスト方法について詳しくは、こちらをご覧ください。\n\nパフォーマンスを重視した Surface が登場してから数年が経ちました。 Nvidia のモバイル SoC への参入により、Microsoft は、RTX Spark を中心に設計されたウルトラプレミアム PC を開発したいくつかのハードウェア パートナーの 1 つです。\n\nSurface Laptop Ultra は、Surface がこれまでに製造した中で最も美しいラップトップです。画面が綺麗ですね。ポートの選択が強力で、金属製のシャーシは高級感があります。重いですが、それは AI モデルを実行するように設計された SoC を冷却する代償です。\n\nこれは、Qualcomm チップを使用していない最初の Windows on Arm ラップトップの 1 つでもあります。ここでは Microsoft と…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/2euXU5qSKhStmYNM3oz75j-2520-80.jpg"
     },
     {
       "Title": "台湾は米国のチップ製造サプライチェーンを支援するため、テキサス州に工業団地を建設するために40億ドルを調達",
@@ -8355,15 +8490,6 @@
       "ImageURL": "https://cdn.mos.cms.futurecdn.net/KwFreiH9LLPrsYZGRWvHU4-802-80.png"
     },
     {
-      "Title": "アマゾンには100万人以上のロボット労働者がいる。人間の従業員は次に何をするのでしょうか?",
-      "Link": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
-      "Published": "2026-10-12T12:43:10Z",
-      "Source": "Ars Technica Gear \u0026 Gadgets",
-      "Category": "robots",
-      "Summary": "アマゾンには100万人以上のロボット労働者がいる。人間の従業員は次に何をするのでしょうか?\n\n雇用主として第 2 位の企業は、規模拡大のためにロボット労働者に大きな賭けをしている。\n\nテキスト設定 ストーリーテキスト サイズ 小 標準 大 幅 * 標準 幅広 リンク 標準 オレンジ * 購読者のみ 詳細はこちら ナビゲーションを最小化 Amazon ほど多くのロボットを運用している組織は世界中にありません。同社はすでに 100 万台以上のロボットを倉庫で 24 時間体制で稼働させ、毎日数千万件の同日または 1 日の荷物配達を行っています。アマゾンは、より有能なロボット労働者を大量生産するために新しい工場を設立し、今後数年間でそのロボット群を大幅に拡大する構えです。\n\n2025 年の年次報告書によると、Amazon は非常に多くのロボットを導入しているにもかかわらず、フルタイムおよびパートタイムの労働者を 150 万人以上抱え、世界で 2 番目に大きな企業雇用主でもあります。アマゾン幹部らは、ロボット群の拡大により、肉体的疲労や怪我の最大のリスクを伴う配送センターの最も過酷な業務を引き受けることで、人間の従業員の負担が軽減されたと述べている。しかし、労働擁護団体や独立研究者らは、AIによる倉庫自動化がロボットと一緒に働く人間にとって良いことばかりではないことを示唆する証拠を指摘している。\n\n「過去100年間、私たちが目にしてきた自動化のほとんどは、通常、労働者から離れた場所で行われていました。リスクの高いタスクを労働者から奪い、物理的に近くない方法でそれを行っているのです」と、ジョージ・メイソン大学経営学教授のブライアン・グリーンウッド氏はアルスに語った。 「協働ロボットの台頭は、2 つの理由からその力関係を大きく変えています。1 つは、協働ロボットが物理的に近いこと、2 つはロボットが作業のペースを決定する能力を持っていることです。」\n\n多くの点で、ロボット工学と AI は、電子商取引フルフィルメント センター内で既に行われている容赦ないペースの作業に非常に適しています…",
-      "ImageURL": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/amazon-robotics-mobile-robot-2560x1440.jpg"
-    },
-    {
       "Title": "PlugMate and PlugClaw Review – Thumb-sized Android-based private computers with optional Ubuntu/OpenClaw support",
       "Link": "https://www.cnx-software.com/2026/10/12/plugmate-and-plugclaw-review-thumb-sized-android-based-private-computers-with-optional-ubuntu-openclaw-support/",
       "Published": "2026-10-12T12:43:10Z",
@@ -8371,6 +8497,15 @@
       "Category": "ubuntu",
       "Summary": "",
       "ImageURL": ""
+    },
+    {
+      "Title": "アマゾンには100万人以上のロボット労働者がいる。人間の従業員は次に何をするのでしょうか?",
+      "Link": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+      "Published": "2026-10-12T12:43:10Z",
+      "Source": "Ars Technica Gear \u0026 Gadgets",
+      "Category": "robots",
+      "Summary": "アマゾンには100万人以上のロボット労働者がいる。人間の従業員は次に何をするのでしょうか?\n\n雇用主として第 2 位の企業は、規模拡大のためにロボット労働者に大きな賭けをしている。\n\nテキスト設定 ストーリーテキスト サイズ 小 標準 大 幅 * 標準 幅広 リンク 標準 オレンジ * 購読者のみ 詳細はこちら ナビゲーションを最小化 Amazon ほど多くのロボットを運用している組織は世界中にありません。同社はすでに 100 万台以上のロボットを倉庫で 24 時間体制で稼働させ、毎日数千万件の同日または 1 日の荷物配達を行っています。アマゾンは、より有能なロボット労働者を大量生産するために新しい工場を設立し、今後数年間でそのロボット群を大幅に拡大する構えです。\n\n2025 年の年次報告書によると、Amazon は非常に多くのロボットを導入しているにもかかわらず、フルタイムおよびパートタイムの労働者を 150 万人以上抱え、世界で 2 番目に大きな企業雇用主でもあります。アマゾン幹部らは、ロボット群の拡大により、肉体的疲労や怪我の最大のリスクを伴う配送センターの最も過酷な業務を引き受けることで、人間の従業員の負担が軽減されたと述べている。しかし、労働擁護団体や独立研究者らは、AIによる倉庫自動化がロボットと一緒に働く人間にとって良いことばかりではないことを示唆する証拠を指摘している。\n\n「過去100年間、私たちが目にしてきた自動化のほとんどは、通常、労働者から離れた場所で行われていました。リスクの高いタスクを労働者から奪い、物理的に近くない方法でそれを行っているのです」と、ジョージ・メイソン大学経営学教授のブライアン・グリーンウッド氏はアルスに語った。 「協働ロボットの台頭は、2 つの理由からその力関係を大きく変えています。1 つは、協働ロボットが物理的に近いこと、2 つはロボットが作業のペースを決定する能力を持っていることです。」\n\n多くの点で、ロボット工学と AI は、電子商取引フルフィルメント センター内で既に行われている容赦ないペースの作業に非常に適しています…",
+      "ImageURL": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/amazon-robotics-mobile-robot-2560x1440.jpg"
     },
     {
       "Title": "Steam が同時ユーザー記録を再び破る",
@@ -8866,141 +9001,6 @@
       "Category": "Video Games",
       "Summary": "Console market craters as Xbox sales crash 33% to the lowest since launch 25 years ago, PS5 sales drop 25%\n\nAre consoles too expensive right now?\n\nConsole market craters as Xbox sales crash 33% to the lowest since launch 25 years ago, PS5 sales drop 25% — steep price hikes push Series X to $800 and PS5 Pro to $900\n\nAre consoles too expensive right now?\n\n(Image credit: Getty Images/Future Publishing ) Copy link\n\n9 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter Video game console sales in the U.S. have cratered, with both the PS5 and Xbox seeing a massive drop in YTD sales through the end of August compared with last year. Mat Piscatella, the video game industry advisor at research firm Circana, shared the numbers on his Bluesky …",
       "ImageURL": "https://cdn.mos.cms.futurecdn.net/aG7yU8AZk2PDc4L8cPh9wY-1920-80.jpg"
-    },
-    {
-      "Title": "Cyberleek threatens full GTA 6 build leak unless Take-Two apologizes and his $30 million crypto memecoin goal is met",
-      "Link": "https://www.tomshardware.com/software/linux/cyberleek-threatens-full-gta-6-build-leak-unless-take-two-apologizes-and-his-usd30-million-crypto-memecoin-goal-is-met-leaker-demands-physical-release-while-pumping-solana-memecoin-to-usd30m",
-      "Published": "2026-10-11T16:10:00Z",
-      "Source": "Tom's Hardware",
-      "Category": "Video Games",
-      "Summary": "Cyberleek threatens full GTA 6 build leak unless Take-Two apologizes and his $30 million crypto memecoin goal is met\n\nThe leak group\n\nCyberleek threatens full GTA 6 build leak unless Take-Two apologizes and his $30 million crypto memecoin goal is met — leaker demands physical release while pumping Solana memecoin to $30M\n\nThe leak group's ultimatum is a bare-faced attempt to push the value of its associated memecoin.\n\n(Image credit: Take-Two Interactive) Copy link\n\n1 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter Cyberleek , the infamous group that's been drip-feeding the gaming community with improperly tone-mapped leaks of GTA 6 from what appears to be a real final build of the game, has just put down an ultimatum for Take-Tw…",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/YQgLdFCXwmxBB42mgiAYb5-1920-80.jpg"
-    },
-    {
-      "Title": "Activision DMCA Takes Down Vibe-Coded Call of Duty Browser Ports",
-      "Link": "https://www.techpowerup.com/353601/activision-dmca-takes-down-vibe-coded-call-of-duty-browser-ports",
-      "Published": "2026-10-11T15:48:38Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "Activision DMCA Takes Down Vibe-Coded Call of Duty Browser Ports\n\nActivision has reportedly issued a DMCA takedown against a set of unofficial Call of Duty browser ports made by developer Luckey Faraday. Faraday announced it on X, saying the publisher went after him \"for porting CoD games to the browser,\" that every related post was removed, and that every game...\n\nActivision DMCA Takes Down Vibe-Coded Call of Duty Browser Ports\n\nSep 6th 2026 Microsoft Now Lets AI Build Native WinUI 3 Apps for Windows 11 in Under 30 Minutes (18)\n\nSep 5th 2026 New DLSS 5 Swapper Tool Brings Neural Rendering to Games NVIDIA Never Supported (15)\n\nSep 27th 2026 Modder Squeezes 74% More Performance Out of DLSS 5 on AMD Radeon in One Day (161)\n\nOct 4th 2026 AI-Built Fallout: New York Game Goes Offline After Beth…",
-      "ImageURL": "https://www.techpowerup.com/img/ZQpqLdfpKgTo6VCg.jpg"
-    },
-    {
-      "Title": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles",
-      "Link": "https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns",
-      "Published": "2026-10-11T15:11:18Z",
-      "Source": "Tom's Hardware",
-      "Category": "Tech Industry",
-      "Summary": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles\n\nOfficers reportedly say anti-surveillance control policies may lead to details of active investigations reaching criminals.\n\nCanadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns\n\nOfficers reportedly say anti-surveillance control policies may lead to details of active investigations reaching criminals.\n\n(Image credit: Getty Images) Copy link\n\n19 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter A YouTuber has received an unexpected visit from the police over an automatic license plate recognition (ALPR) camera he built to specifically track po…",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/WJrY9d2HjL3PDjrJgd8Hg3-1920-80.jpg"
-    },
-    {
-      "Title": "IDC report shows worldwide PC shipments dropped 20.1% in Q3 2026",
-      "Link": "https://www.kitguru.net/desktop-pc/joao-silva/idc-report-shows-worldwide-pc-shipments-dropped-20-1-in-q3-2026/",
-      "Published": "2026-10-11T15:00:21Z",
-      "Source": "KitGuru",
-      "Category": "pc shipments",
-      "Summary": "IDC report shows worldwide PC shipments dropped 20.1% in Q3 2026\n\nWorldwide PC shipments fell 20.1% year over year in Q3 2026 to 62.7 million units, according to preliminary data from IDC. This marks the second consecutive quarterly decline, down from 78.5 million units in the same period last year and 9.1% lower than Q2. IDC attributes the drop to inventory front-loading in H1 2026, when\n\nIDC report shows worldwide PC shipments dropped 20.1% in Q3 2026\n\nWorldwide PC shipments fell 20.1% year over year in Q3 2026 to 62.7 million units, according to preliminary data from IDC. This marks the second consecutive quarterly decline, down from 78.5 million units in the same period last year and 9.1% lower than Q2. IDC attributes the drop to inventory front-loading in H1 2026, when vendors stocked…",
-      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2025/11/MSI-Project-Zero-PC-1-630x330.png"
-    },
-    {
-      "Title": "Modder discovers that putting a GPU in the 'wrong place' can deliver a 19 degree cooler hotspot",
-      "Link": "https://www.tomshardware.com/pc-components/gpus/modder-discovers-that-putting-a-gpu-in-the-wrong-place-can-deliver-a-19-degree-cooler-hotspot-breaking-convention-can-produce-great-results-despite-decades-of-pc-diy-evolution",
-      "Published": "2026-10-11T14:23:20Z",
-      "Source": "Tom's Hardware",
-      "Category": "PC Components",
-      "Summary": "Modder discovers that putting a GPU in the 'wrong place' can deliver a 19 degree cooler hotspot\n\nThe absolute best GPU result wasn\n\nModder discovers that putting a GPU in the 'wrong place' can deliver a 19 degree cooler hotspot — breaking convention can produce great results despite decades of PC DIY evolution\n\nThe absolute best GPU result wasn't good for CPU temperatures, so the tech tinkerer also shared the best overall configuration, optimized for both CPU and GPU.\n\n(Image credit: TrashBench ) Copy link\n\n7 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter It might be reasonable to assume that desktop PCs are built in a certain way due to decades of evolution and optimization. However, we're getting used to TrashBench challengin…",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/wJDbFvnkLTtTzjKhAnum3Q-1920-80.jpg"
-    },
-    {
-      "Title": "Inside a Mystery 1980s Filter IC Featuring Switched Capacitors",
-      "Link": "https://hackaday.com/2026/10/11/inside-a-mystery-1980s-filter-ic-featuring-switched-capacitors/",
-      "Published": "2026-10-11T14:00:45Z",
-      "Source": "Hackaday",
-      "Category": "ken shirriff",
-      "Summary": "Inside a Mystery 1980s Filter IC Featuring Switched Capacitors\n\nRecently [Ken Shirriff] got handed a mystery IC by [CuriousMarc] who had found said IC in a box of various old chips. Labelled only with a date code of the 47th week of 1985 and a mysterious F1-10-…\n\nRecently [Ken Shirriff] got handed a mystery IC by [CuriousMarc] who had found said IC in a box of various old chips. Labelled only with a date code of the 47th week of 1985 and a mysterious F1-10-5 alongside a logo that didn’t lead to any hits in the typical IC databases, it was up to [Ken] to figure out what lurks inside this CDIP chip.\n\nAs it turns out, it’s actually a pretty interesting IC with an easy to identify die once the ceramic package had been cracked open with a surgical hammer-and-chisel strike.\n\nWith the die under a…",
-      "ImageURL": "https://hackaday.com/wp-content/uploads/2026/10/harris_ml10_die-labeled_ken_shirriff.jpg"
-    },
-    {
-      "Title": "Nvidia rumoured to replace RTX 5080 with new 24GB model",
-      "Link": "https://www.kitguru.net/components/graphic-cards/joao-silva/nvidia-rumoured-to-replace-rtx-5080-with-new-24gb-model/",
-      "Published": "2026-10-11T14:00:19Z",
-      "Source": "KitGuru",
-      "Category": "RTX 5080 24GB",
-      "Summary": "Nvidia rumoured to replace RTX 5080 with new 24GB model\n\nNvidia is reportedly ceasing production of the GeForce RTX 5090 to redirect its flagship GB202 silicon exclusively to its professional RTX Pro lineup. New reports claim the company plans to focus its GPU supply on AI demand while introducing a 24GB RTX 5080 for high-end gamers. MEGAsizeGPU (via Wccftech) reports indicate that the flagship GB202\n\nNvidia rumoured to replace RTX 5080 with new 24GB model\n\nJoão Silva 16 hours ago Featured Tech News , Graphics\n\nNvidia is reportedly ceasing production of the GeForce RTX 5090 to redirect its flagship GB202 silicon exclusively to its professional RTX Pro lineup. New reports claim the company plans to focus its GPU supply on AI demand while introducing a 24GB RTX 5080 for high-end gamers. MEGA…",
-      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2025/01/geforce-rtx-5090-learn-more-og-1200x630-1-732x330.jpg"
-    },
-    {
-      "Title": "Russia's Yandex bot traffic nearly eliminated overnight after Ukraine drone strikes cripple multiple of 'Russia's Google' data centers",
-      "Link": "https://www.tomshardware.com/tech-industry/data-centers/russian-disinformation-bot-traffic-nearly-eliminated-overnight-after-ukraine-drone-strikes-cripple-multiple-of-russias-google-data-centers-ukraine-intensifies-bombing-of-yandex-data-centers-in-response-to-moscows-strikes-on-kyiv-data-centers",
-      "Published": "2026-10-11T13:15:09Z",
-      "Source": "Tom's Hardware",
-      "Category": "Tech Industry",
-      "Summary": "Russia's Yandex bot traffic nearly eliminated overnight after Ukraine drone strikes cripple multiple of 'Russia's Google' data centers\n\nThe world is getting a break from Russian bots thanks to Kyiv.\n\nRussia's Yandex bot traffic nearly eliminated overnight after Ukraine drone strikes cripple multiple of 'Russia's Google' data centers — Ukraine intensifies bombing of Yandex data centers in response to Moscow’s strikes on Kyiv data centers\n\nThe world is getting a break from Russian bots thanks to Kyiv.\n\n(Image credit: Getty Images ) Copy link\n\n6 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter Russian bot traffic has dropped dramatically in the past few days after Ukraine knocked out Yandex’s biggest data centers, with a third attac…",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/wmDc2qYAL4pCfWnSCMvJnd-1920-80.jpg"
-    },
-    {
-      "Title": "Sandisk NAS 800 1.92TB SSD Review: Endurance at a premium",
-      "Link": "https://www.tomshardware.com/pc-components/ssds/sandisk-nas-800-1-92tb-ssd-review",
-      "Published": "2026-10-11T13:05:59Z",
-      "Source": "Tom's Hardware",
-      "Category": "Storage",
-      "Summary": "Sandisk NAS 800 1.92TB SSD Review: Endurance at a premium\n\nA fast, durable, and expensive NAS workhorse\n\nThe Sandisk NAS 800 is the premier NVMe SSD for NAS, with high endurance, high sustained write performance, and excellent 4KB random latencies, only held back by its price.\n\n+ Exceptional sustained write performance\n\n+ Excellent 4KB random QD1 latencies\n\n- Below-average power efficiency\n\nWhy you can trust Tom's Hardware Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test .\n\nPage 1: Sandisk NAS 800 Introduction\n\nPage 2: Sandisk NAS 800 1.92TB Performance Results\n\nSandisk is back with another welcome SSD, the NAS 800. As the name implies, this drive is designed for NAS appliances, but could also b…",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/6SgLeeuy6ZMEuRhaZRfH7T-2560-80.jpg"
-    },
-    {
-      "Title": "Gigabyte unveils GO27Q32 Penta Tandem OLED monitor",
-      "Link": "https://www.kitguru.net/peripherals/monitors/joao-silva/gigabyte-unveils-go27q32-penta-tandem-oled-monitor/",
-      "Published": "2026-10-11T13:00:18Z",
-      "Source": "KitGuru",
-      "Category": "QHD",
-      "Summary": "Gigabyte unveils GO27Q32 Penta Tandem OLED monitor\n\nGigabyte has announced the GO27Q32, a 27-inch QHD gaming monitor featuring a 320Hz QD-OLED panel. Making the jump to Penta Tandem OLED, the display incorporates five light-emitting layers to boost brightness and longevity while delivering a 0.03ms G2G response time. The GO27Q32 (via DisplaySpecifications) uses an ObsidianShield film to deepen perceived blacks and improve scratch\n\nGigabyte unveils GO27Q32 Penta Tandem OLED monitor\n\nJoão Silva 17 hours ago Monitors\n\nGigabyte has announced the GO27Q32, a 27-inch QHD gaming monitor featuring a 320Hz QD-OLED panel. Making the jump to Penta Tandem OLED, the display incorporates five light-emitting layers to boost brightness and longevity while delivering a 0.03ms G2G response time. The GO27Q32 …",
-      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/10/scenario-732x330.jpg"
-    },
-    {
-      "Title": "KINGPIN Says a Connector Dispute With NVIDIA Derailed EVGA's Last Flagship Card",
-      "Link": "https://www.techpowerup.com/353600/kingpin-says-a-connector-dispute-with-nvidia-derailed-evgas-last-flagship-card",
-      "Published": "2026-10-11T12:52:57Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "KINGPIN Says a Connector Dispute With NVIDIA Derailed EVGA's Last Flagship Card\n\nVince \"KINGPIN\" Lucido has blamed NVIDIA for the troubled launch of the EVGA GeForce RTX 3090 Ti KINGPIN, the last graphics card to carry his name. In the first video on his new Overclocking Kingpin YouTube channel, the overclocker said he wanted the card to have two 12VHPWR power connectors,...\n\nKINGPIN Says a Connector Dispute With NVIDIA Derailed EVGA's Last Flagship Card\n\nMar 30th 2026 NVIDIA Readies Rubin-based GeForce RTX 60-series with Massive RT Performance Gains (162)\n\nJan 16th 2026 NVIDIA Reportedly Ends GeForce RTX 5070 Ti Production, RTX 5060 Ti 16 GB Next (210)\n\nDec 31st 2025 Leaks Predict $5000 RTX 5090 GPUs in 2026 Thanks to AI Industry Demand (124)\n\nSep 2nd 2026 Hardware Unboxed Falls Victim to…",
-      "ImageURL": "https://www.techpowerup.com/img/jOJTJS1W47Fa1gDm.jpg"
-    },
-    {
-      "Title": "Developer turns classic Windows Minesweeper into hand-holding 'big-budget, Triple-A’ parody",
-      "Link": "https://www.tomshardware.com/video-games/developer-turns-classic-windows-minesweeper-into-hand-holding-big-budget-triple-a-parody-browser-reboot-mocks-modern-gaming-with-chatty-npcs-internal-monologues-and-promised-loot-boxes",
-      "Published": "2026-10-11T12:50:00Z",
-      "Source": "Tom's Hardware",
-      "Category": "Video Games",
-      "Summary": "Developer turns classic Windows Minesweeper into hand-holding 'big-budget, Triple-A’ parody\n\nYou also get auto health regen, so clicking on mines won’t kill you.\n\nDeveloper turns classic Windows Minesweeper into hand-holding 'big-budget, Triple-A’ parody — browser reboot mocks modern gaming with chatty NPCs, internal monologues, and promised loot boxes\n\nYou also get auto health regen, so clicking on mines won’t kill you.\n\n(Image credit: Mike Lacher) Copy link\n\n1 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter A creative director just created a AAA version of the classic Minesweeper game that used to come with Windows. Mike Lacher shared his creation on LinkedIn , which he called a “big-budget, triple-A” reboot, with “loot boxes …",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/QGEKkkJ4JiR3tGfV5xaVG9-1920-80.png"
-    },
-    {
-      "Title": "Programmer ports Super Mario 64 to Microsoft’s Zune HD media player",
-      "Link": "https://www.tomshardware.com/video-games/retro-gaming/programmer-ports-super-mario-64-to-microsofts-zune-hd-media-player-the-2009-ipod-rival-runs-the-game-natively-on-its-nvidia-tegra-chip-with-touchscreen-controls-and-saves",
-      "Published": "2026-10-11T12:30:00Z",
-      "Source": "Tom's Hardware",
-      "Category": "Video Games",
-      "Summary": "Programmer ports Super Mario 64 to Microsoft’s Zune HD media player\n\nIt plays mostly at full speed if you bring the ROM.\n\nProgrammer ports Super Mario 64 to Microsoft’s Zune HD media player — the 2009 iPod rival runs the game natively on its Nvidia Tegra chip, with touchscreen controls and saves\n\nIt plays mostly at full speed if you bring the ROM.\n\n(Image credit: rsheldiii/GitHub) Copy link\n\n1 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter The Nintendo 64 game Super Mario 64 has come to the Microsoft Zune HD, Hackaday reports, through a project that runs natively on the device’s hardware through the unofficial OpenZDK kit, per the repo’s README. A touchscreen controller overlay is drawn over the game’s video, and the game “play…",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/Fc5e3hgKxF7RAEEoVG3mfL-1280-80.jpg"
-    },
-    {
-      "Title": "Two Steam games generated $560,000 across 135,000 sales, but the co-creator only took home $15,000 annually",
-      "Link": "https://www.tomshardware.com/video-games/pc-gaming/two-steam-games-generated-usd560-000-across-135-000-sales-but-the-co-creator-only-took-home-usd15-000-annually-high-chinese-refund-rates-steams-30-percent-fee-and-publisher-cuts-eat-most-of-the-profit-leaving-the-co-creator-driving-a-2012-mazda",
-      "Published": "2026-10-11T12:10:00Z",
-      "Source": "Tom's Hardware",
-      "Category": "Video Games",
-      "Summary": "Two Steam games generated $560,000 across 135,000 sales, but the co-creator only took home $15,000 annually\n\nJust like that raccoon washing his cotton candy and watching it melt.\n\nTwo Steam games generated $560,000 across 135,000 sales in five years, but the co-creator only took home $15,000 annually, leaving him driving a 2012 Mazda — high Chinese refund rates, Steam's 30% fee, and publisher cuts eat most of the profit\n\nJust like that raccoon washing his cotton candy and watching it melt.\n\n(Image credit: Northend Studios) Copy link\n\n7 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter When it comes to the gaming industry, the billions bandied about regarding AAA titles often lead many to think that if your game scores a hit, you'r…",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/p2ZGsXXLDDgS5XTvdtvkag-1920-80.png"
-    },
-    {
-      "Title": "Singularity Computers launches Portal ITX wall-mount water-cooling case",
-      "Link": "https://www.kitguru.net/components/cases/joao-silva/singularity-computers-launches-portal-itx-wall-mount-water-cooling-case/",
-      "Published": "2026-10-11T12:00:17Z",
-      "Source": "KitGuru",
-      "Category": "Singularity Computers",
-      "Summary": "Singularity Computers launches Portal ITX wall-mount water-cooling case\n\nSingularity Computers has introduced the Portal ITX wall mount water-cooling case, an open-frame chassis built for custom liquid-cooled setups. Available to order, this Mini-ITX chassis combines an integrated distribution plate, reservoir, and D5 pump top with support for dual 240mm or 280mm radiators. Built around an integrated distribution plate, the Portal ITX (via Vortez) features\n\nSingularity Computers launches Portal ITX wall-mount water-cooling case\n\nSingularity Computers has introduced the Portal ITX wall mount water-cooling case, an open-frame chassis built for custom liquid-cooled setups. Available to order, this Mini-ITX chassis combines an integrated distribution plate, reservoir, and D5 pump top with supp…",
-      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/10/Portal-ITX-Wall-Mount-Water-cooling-Case-PowerBoard-T-1-732x330.jpg"
     }
   ]
 }
