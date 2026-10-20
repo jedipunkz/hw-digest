@@ -1,6 +1,132 @@
 {
   "akiba": [
     {
+      "Title": "超低遅延なRyzen向けDDR5-6000メモリ「Trident Z5 Royal NeoX」がG.SKILLから、EXPO ULL対応",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2149030.html",
+      "Published": "2026-10-20T02:30:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "超低遅延なRyzen向けDDR5-6000メモリ「Trident Z5 Royal NeoX」がG.SKILLから、EXPO ULL対応\n\nG.SKILLのAMD Ryzen向け低遅延オーバークロックDDR5メモリキット「Trident Z5 Royal NeoX」が、OVERCLOCK WORKSに入荷。\n\n超低遅延なRyzen向けDDR5-6000メモリ「Trident Z5 Royal NeoX」がG.SKILLから、EXPO ULL対応\n\nG.SKILLのAMD Ryzen向け低遅延オーバークロックDDR5メモリキット「Trident Z5 Royal NeoX」が、 OVERCLOCK WORKS に入荷。\n\nいずれもDDR5-6000動作の16GBモジュール×2枚組で、販売価格は「F5-6000A3636F16GX2-TR5NXS」が114,300円、「F5-6000A3038F16GX2-TR5NXS」が139,100円。\n\n従来のEXPOプロファイルメモリよりもさらに低遅延なアクセスを実現\n\nこれらは「EXPO ULL（Ultra Low Latency）」プロファイル対応のAMD Ryzen向けメモリキット。従来のEXPOプロファイルメモリよりもさらに低遅延なアクセスを実現しており、tRAS値が従来のEXPOメモリの半分以下となっているほか、サブタイミングを含めた最適化が施されているという。\n\nなお、EXPO ULLでの動作にはマザーボード側の対応（UEFI）が必要。\n\nEXPO ULL設定/動作電圧は、F5-6000A3636F16GX2-TR5NXSがCL36-36-36-76/1.35V、F5-6000A3038F16GX2-TR5NXSがCL30-38-38-32/1.35V。",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2149/030/a1.jpg"
+    },
+    {
+      "Title": "32GBでQwen3.8-Flash-Nextが動く！Strata 0.2.0ベータ",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2149485.html",
+      "Published": "2026-10-20T02:17:01Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "32GBでQwen3.8-Flash-Nextが動く！Strata 0.2.0ベータ\n\n賢いローカルLLM「Qwen3.8-Flash-Next」を動かすハードルが、また一段と下がった。Qwen3.8-Flash-Nextの動作に特化したソフトウェア「Strata 0.2.0-beta」が10月19日に無償で公開され、メインメモリとVRAMの合計が32GBあれば動作するようになった。\n\n32GBでQwen3.8-Flash-Nextが動く！Strata 0.2.0ベータ\n\n賢いローカルLLM「Qwen3.8-Flash-Next」を動かすハードルが、また一段と下がった。Qwen3.8-Flash-Nextの動作に特化したソフトウェア「Strata 0.2.0-beta」が10月19日に無償で公開され、メインメモリとVRAMの合計が32GBあれば動作するようになった。\n\nStrataは、PCのメインメモリやVRAM、SSDを駆使し、ゲーミングPCでQwen3.8-Flash-Nextを比較的実用的な速度で動作させることを目的としたソフトウェア。インストール時にPCのスペックに見合ったモデル(精度とトレードオフ)を推奨してダウンロードするため、手軽に利用できるのが特徴だ。\n\nそのStrataは、これまではメインメモリ32GB(VRAM 12GB以上のビデオカードが前提)で動くとしていたものの、それはエキスパートを半分に削ったコーディング特化モデル(Coder)だった。しかし今回、agentionai氏による低ビット量子化モデル「Qwen3.8-Flash-Next-Gyro-GGUF」(Gyro)を選択可能とし、コーディング用途に限定せず利用できるようになった。\n\nGyroは、ルーティングされるエキスパートを、独自のローターコード(Agention Precision Rotor、APR)で回転させた基底で保存しているのが特徴で、これによりメモリを削減する。今回、メモリ32GB環境で選択されるのはGyro-Sこと「Qwen3.8-Flash-Next-Gyro-S-TQ1_…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2149/485/1.jpg"
+    },
+    {
+      "Title": "【本日みつけたお買い得品】ソニーのINZONEゲーミングマウスが4千円オトク！",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2149505.html",
+      "Published": "2026-10-20T02:09:04Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "【本日みつけたお買い得品】ソニーのINZONEゲーミングマウスが4千円オトク！\n\nAmazonにて、ソニーのゲーミングブランド「INZONE」のワイヤレスゲーミングマウス「INZONE Mouse-A :MSE-G500」が、直近価格の4,000円引きとなる1万5,000円で販売されている。\n\nAmazonにて、ソニーのゲーミングブランド「INZONE」のワイヤレスゲーミングマウス「INZONE Mouse-A :MSE-G500」が、直近価格の4,000円引きとなる1万5,000円で販売されている。\n\nINZONE Mouse-A :MSE-G500は、eスポーツチーム「Fnatic」と共同開発したワイヤレスゲーミングマウス。重量は48.4gで、持ちやすさや安定感、エイムのしやすさを徹底的に追求したという形状が特徴。最大30,000DPI、最大加速70G、750IPSのINZONE独自の高精度センサー「3950IZ」を搭載し、ポーリングレートは8,000Hz。無線機能は付属のUSBドングル接続で、USB Type-A/Type-Cの有線接続もサポート。バッテリ駆動時間は平均約90時間。\n\nアニメ「新世紀エヴァンゲリオン」とコラボしたレイザーのゲーミングマウス「Viper V3 Pro EVANGELION(EVA-02)」が、直近価格から1,478円引きとなる2万4,437円で販売中だ。\n\nViper V3 Pro EVANGELION(EVA-02)は、レイザーのゲーミングマウス「Viper V3 Pro」をベースにアニメに登場する「エヴァンゲリオン2号機」の赤色カラーやデザインなどをあしらったものとなる。\n\nワイヤレスマウスとしての性能はViper V3 Proと同等で、同社独自の無線技術「HyperSpeed Wireless」に対応し、ポーリングレートは8,000Hz。最大解像度は35,000DPIで、「第3世代 Razer オプティカルマウススイッチ」を搭載し、二重クリックの問題を排除するほか、耐クリック回数は9,000万回。本体重量は54gで、バッテリ駆動…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2149/505/03.jpg"
+    },
+    {
+      "Title": "【本日みつけたお買い得品】Amazonでデルの省スペースデスクトップが3万7千円引き",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2149490.html",
+      "Published": "2026-10-20T01:57:33Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "【本日みつけたお買い得品】Amazonでデルの省スペースデスクトップが3万7千円引き\n\nAmazonにおいて、デルの省スペースデスクトップPC「Dell Slim ECS1250」(SAD50-GHM3A)が直近価格の3万7,000円引きとなる16万9,980円で販売されている。\n\nAmazonにおいて、デルの省スペースデスクトップPC「Dell Slim ECS1250」(SAD50-GHM3A)が直近価格の3万7,000円引きとなる16万9,980円で販売されている。\n\nDell Slim ECS1250(SAD50-GHM3A)は、スリムサイズのケースを採用した省スペースのデスクトップPC。CPUはCore Ultra 5 225を搭載し、メモリは16GB DDR5-5600で最大64GBまで換装も行なえる。ストレージはPCIe接続の512GB M.2 SSDで、OSはWindows 11 Home、Microsoft 365 Personal(24カ月版)も付属する。\n\nインターフェイスはUSB 3.2 Gen 1 Type-C、USB 3.2 Gen 1 3基、USB 2.0 4基、HDMI 2.1、DisplayPort 1.4、Gigabit Ethernet、Wi-Fi 6、Bluetooth 5.4、3.5mmヘッドセット出力、SDカードスロットなどを備え、キーボードやマウス、USB接続の外付けDVDドライブなどが付属する。\n\nDell Slim ECS1250(SAD50-GHM3A)\n\nASUSのミニタワー型デスクトップPC「ASUS V500 Mini Tower V501MV」(V501MV-07240H321TBO)が直近価格の1万5,000円引きとなる18万4,800円で販売されている。\n\nASUS V500 Mini Tower V501MV(V501MV-07240H321TBO)は、家具から着想を得た木目調の模様が特徴のミニタワー型デスクトップ。CPUはCore 7 240Hを搭載し、メモリは32GB DDR5-5200で空きスロット…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2149/490/01.jpg"
+    },
+    {
+      "Title": "【本日みつけたお買い得品】AmazonセールでRyzen 5搭載ミニPCが約2万円オトク！",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2149497.html",
+      "Published": "2026-10-20T01:52:41Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "【本日みつけたお買い得品】AmazonセールでRyzen 5搭載ミニPCが約2万円オトク！\n\nAmazonにおいて、GEEKOMのミニPC「A7」が、直近価格から2万1円引きとなる8万9,899円で販売されている。\n\nAmazonセールでRyzen 5搭載ミニPCが約2万円オトク！\n\nAmazonにおいて、GEEKOMのミニPC「A7」が、直近価格から2万1円引きとなる8万9,899円で販売されている。\n\nGEEKOM A7は、CPUにRyzen 5 7545Uを搭載するミニPCで、OSはWindows 11 Pro。メモリは16GB DDR5 SO-DIMMで最大256GBまで換装が可能。ストレージはPCIe 4.0接続の500GB M.2 SSDで、最大2TBまで換装が行なえる。\n\nインターフェイスはUSB4、USB 3.2 Gen 2 Type-C、USB 3.2 Gen 2 3基、USB 2.0、HDMI 2.0 2基、2.5Gigabit Ethernet、Wi-Fi 6E、Bluetooth 5.4、SDカードスロット、音声入出力、専用電源入力などを備える。\n\n同様に、GEEKOMのミニPC「A9 Max」が、直近価格より1万2,495円安い23万7,405円で購入できる。\n\nGEEKOM A9 Maxは、CPUにRyzen AI 9 HX 470を搭載するミニPCで、OSはWindows 11 Pro。メモリは32GB DDR5 SO-DIMMで最大256GBまで換装が可能。ストレージはPCIe 4.0接続の2TB SSDで、1基の空きスロットも備え、各最大8TBまで増設や換装が可能。\n\nインターフェイスはUSB PD/DP出力対応のUSB4 Type-C、DP出力対応のUSB4、USB 3.2 Gen 2 5基、USB 2.0、HDMI 2.1 2基、2.5Gigabit Ethernet 2基、Wi-Fi 7、Bluetooth 5.4、SDカードスロット、音声入出力、専用電源入力などを備える。\n\nほかにも、GEEKOMのミニPC「A5」が、直近価格よ…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2149/497/02.jpg"
+    },
+    {
+      "Title": "「Androidのマイナンバーカード」提供開始、顔認証で本人確認や年齢確認にも",
+      "Link": "https://gori.me/android/android-news/171360",
+      "Published": "2026-10-20T01:37:46Z",
+      "Source": "gori.me",
+      "Category": "正式・公式発表",
+      "Summary": "「Androidのマイナンバーカード」提供開始、顔認証で本人確認や年齢確認にも\n\nデジタル庁は2026年10月20日、Google ウォレットにマイナンバーカードを追加できる「Androidのマイナンバーカード」の提供を始めた。新たに属性証明機能が加わり、顔や指紋の認証だけで本人確認や年齢確認、住所確認ができる。マイナポータルへのログインにも対応し、最新のマイナアプリから追加できる。\n\n「Androidのマイナンバーカード」提供開始、顔認証で本人確認や年齢確認にも\n\nGoogle ウォレットに追加でき、新たに属性証明機能が加わった。最新マイナアプリから追加できる\n\n「Androidのマイナンバーカード」は、Google ウォレットに追加でき、新たに属性証明機能が加わった\n\n2026年10月20日に提供が始まり、最新のマイナアプリから追加できる\n\nマイナポータルへのログインのほか、対面での本人確認や年齢確認、住所確認にも使える\n\nデジタル庁は、Android端末の Google ウォレットにマイナンバーカードを追加できる「 Androidのマイナンバーカード 」の提供を2026年10月20日に始めた。最新のマイナアプリを使えば、手持ちのAndroid端末に追加できる。\n\n追加したあとは、実物のカードを取り出したり、スマホにかざしたりする必要がない。顔や指紋の認証だけで、マイナポータルへのログインや各種行政サービスを利用できる。\n\nAndroid端末では、これまでも「 電子証明書機能 」が使えた。電子証明書機能とは、オンラインで「本人であること」を証明する仕組みのことだ。マイナポータルへのログインや、オンラインでの行政手続きに使われてきた。\n\n今回の「Androidのマイナンバーカード」では、新たに「 属性証明機能 」が加わった。属性証明機能とは、氏名・年齢・住所といった本人の情報を、対面の場で証明できる機能のことだ。\n\nつまり、役所や窓口のようにリアルな場面でも、スマホがマイナンバーカードの代わりになる。デジタル庁は、官民の対面サービスで本人確認、年齢確認、住所確認などに…",
+      "ImageURL": "https://gori.me/uploads/2026/10/20261020_mynumbercard-android_news_01.jpeg"
+    },
+    {
+      "Title": "Ryzen AI 9 HX 370/32GBメモリ/1TB SSD搭載のミニPC「ER937-AI」が登場",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2149032.html",
+      "Published": "2026-10-20T01:30:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "Ryzen AI 9 HX 370/32GBメモリ/1TB SSD搭載のミニPC「ER937-AI」が登場\n\nRyzen AI 9 HX 370、32GBのメモリを搭載したミニPC「ER937-AI-32/1T-W11Pro(HX 370)」がリンクスインターナショナルから発売された。\n\nRyzen AI 9 HX 370/32GBメモリ/1TB SSD搭載のミニPC「ER937-AI」が登場\n\nRyzen AI 9 HX 370、32GBのメモリを搭載したミニPC「ER937-AI-32/1T-W11Pro(HX 370)」がリンクスインターナショナルから発売された。\n\n2.5G LANを2基搭載するほか、最大4画面出力に対応したミニPC\n\nこれは、12コア24スレッドのRyzen AI 9 HX 370や32GBメモリ（DDR5-5600MHz、16GB×2）を搭載したミニPC。内蔵ストレージ容量は1TB。OSはWindows 11 Pro。\n\n最大50 TOPS（総合80 TOPS）のNPU性能や、統合GPU「Radeon 890M」を備えたミニPCで、ゲームはもちろん動画編集や3Dモデル表示においても高い性能を発揮し、最大8Kの高解像度出力や高いフレームレートを実現するという。また、HDMI 2.1、DisplayPort 2.0、2つのUSB4端子を装備し、最大4画面表示に対応する。\n\n電源ボタン部分に指紋認証センサーを搭載。冷却には銅製ヒートシンクとデュアルファンが採用されている。\n\nインターフェースはHDMI 2.1×1、DisplayPort 2.0×1、USB4×2、USB 3.2 Gen2 (Type-A)×2、USB 3.2(Type-A)×1、2.5G LAN×2、オーディオ端子など。Wi-Fi 7、Bluetooth 5.4対応の無線LAN機能も備える。\n\nこのほか、メモリ（標準時は空きスロット無し、2スロット最大48GB×2枚）と、PCIe 4.0 ×4 NVMe接続対応のストレージ（空きスロット×1基/2スロット最大8TB×2）を拡張・増設…",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2149/032/a1.jpg"
+    },
+    {
+      "Title": "ASUSの9.2インチLCD搭載大型ケース「ROG Cronox ARGB」がTSUKUMOで展示スタート",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2149024.html",
+      "Published": "2026-10-20T01:05:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "ASUSの9.2インチLCD搭載大型ケース「ROG Cronox ARGB」がTSUKUMOで展示スタート\n\nASUS ROGブランドのフルタワーPCケース「ROG Cronox ARGB」の実機展示が、TSUKUMOで始まっている。TSUKUMO eX.ではブラックモデル、ツクモパソコン本店ではホワイトモデルが展示されている。\n\nASUSの9.2インチLCD搭載大型ケース「ROG Cronox ARGB」がTSUKUMOで展示スタート\n\nASUS ROGブランドのフルタワーPCケース「ROG Cronox ARGB」の実機展示が、TSUKUMOで始まっている。 TSUKUMO eX. ではブラックモデル、 ツクモパソコン本店 ではホワイトモデルが展示されている。\n\n最大14基の120mmファンと最大2基の360mmラジエーターを搭載できる拡張性に優れたPCケース\n\nROG Cronox ARGBは、本体サイズが248.3×618.7×583.9mmのPCケース。対応マザーボードはE-ATX（12×10.9インチ）/ATX/microATX/Mini-ITXで、同社の背面コネクタマザーボードBTFシリーズもサポートする。\n\nフロントから左サイドにかけて1枚の曲面強化ガラスパネルを備えたピラーレスデザインを採用。120mmファンを最大14基、360mmラジエーターを最大2基、長さ400mmまでのビデオカードを搭載できる拡張性を有している。\n\n電源カバー部には9.2インチサイズのLCDを搭載しており、CPUやビデオカード、メモリの使用率などシステム情報をリアルタイムに表示することができる。また、カスタマイズ可能なレイアウトと9種類のROGテーマに対応しており、表示するシステム情報や背景を自由に設定可能。\n\nさらに、通知モードでは、カスタムメッセージ、スケジュールされたリマインダー、祝日などを視覚と音声で通知することができる。PCの電源がオフの状態でも時刻と日付を常に表示可能で、独立した常時表示クロックも搭載している。\n\nこのほか、サイドにROG Eurux GR120 AR…",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2149/024/a1.jpg"
+    },
+    {
+      "Title": "XREAL\ufffd\ufffdMMORPG\ufffd\ufffdAION2\ufffdפ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdܥ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdڡ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd»ܡ\ufffdX\ufffd\ufffd\ufffd\ufffd\ufffdƥ\ufffd\ufffdݥ\ufffd\ufffdȤǥӥǥ\ufffd\ufffd\ufffd\ufffd饹\ufffd\ufffdROG XREAL R1\ufffdפ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd1̾\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
+      "Link": "https://www.4gamer.net/games/740/G074096/20261019004/",
+      "Published": "2026-10-20T01:00:00Z",
+      "Source": "4Gamer.net Hardware",
+      "Category": "HARDWARE",
+      "Summary": "XREAL��MMORPG��AION2�פ������ܥ������ڡ������»ܡ�X�����ƥ��ݥ��Ȥǥӥǥ����饹��ROG XREAL R1�פ�������1̾��������\n\n2026年10月20日，XREALは，NCのMMORPG「AION2」とのコラボレーションとして，ASUSTeK Computerのビデオグラス「ROG XREAL R1」が抽選で当たるプレゼントキ…\n\nXREALとMMORPG「AION2」がコラボキャンペーンを実施。Xの投稿リポストでビデオグラス「ROG XREAL R1」が抽選で1名に当たる ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ 「テイルズ オブ エターニア」のここを知ってほしい！ 当時やり込んだファンが語る，リマスター版をもっと楽しむために押さえておきたいポイント ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 作品のアニマはどこに宿るのか。「リベンジオブザセブン」と「サガフロ2 リマスター」，ふたつの“伝承”のかたち ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困…",
+      "ImageURL": "https://www.4gamer.net/games/740/G074096/20261019004/SS/003.jpg"
+    },
+    {
+      "Title": "ソフトバンクに不正アクセス試行検知。「My SoftBank」などWeb版を停止",
+      "Link": "https://smhn.info/202610-softbank-my-softbank-web-suspended-unauthorized-access",
+      "Published": "2026-10-20T00:19:12Z",
+      "Source": "すまほん!!",
+      "Category": "不正アクセス",
+      "Summary": "ソフトバンクに不正アクセス試行検知。「My SoftBank」などWeb版を停止\n\nソフトバンクの「My SoftBank」「My Y!mobile」「My Menu」が、ウェブでは10月17日午前8時から使えなくなっています。同社は19日、My SoftBankの一部のシステムに対して、第三者による不正アクセスの試みがあったと発表しました。ウェブサイトの停止は...\n\nソフトバンクに不正アクセス試行検知。「My SoftBank」などWeb版を停止\n\nソフトバンクの「My SoftBank」「My Y!mobile」「My Menu」が、ウェブでは10月17日午前8時から使えなくなっています。同社は19日、My SoftBankの一部のシステムに対して、第三者による不正アクセスの試みがあったと発表しました。\n\nウェブサイトの停止は、お客さま情報の安全措置の一環とのこと。3サービスとも、アプリ版は引き続き利用できます。\n\nソフトバンクの発表 によると、不正アクセスの試みは17日に発生。同社の監視システムが、My SoftBankの一部の関連システムで異常な動きを自動で検知しました。その後すぐに、関連システムの一部停止や、外部からの疑わしい通信経路の遮断といった措置を取ったといいます。\n\n現在は、さらなるセキュリティー強化のためにウェブサイトを止めて、メンテナンス作業を進めているとのこと。再開の時期は決まっておらず、準備が整い次第知らせるとしています。\n\n発表は、顧客情報が外部に漏れたかどうかや、パスワードの変更など利用者に求める対応には触れていません。\n\n一方、 My SoftBankのメンテナンス情報のページ は、20日0時の時点でも「サービス向上のため、システムメンテナンスを実施します」という案内文のまま、17日午前8時から終了日時未定で「My SoftBank全サービス」が使えない旨を掲載。\n\n19日に掲載された サポート情報のお知らせ では、停止の理由を不正アクセスの試みを検知したためと説明しています。\n\nMy SoftBankは2014年にも、外部で盗まれたと…",
+      "ImageURL": "https://smhn.info/wp-content/uploads/2023/08/s-softbank-logo.jpg"
+    },
+    {
+      "Title": "格子配列のキーボード自作キット「New On the 15 \u0026 ドック」が入荷、一体型と分割型の2種類",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2149036.html",
+      "Published": "2026-10-20T00:05:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "格子配列のキーボード自作キット「New On the 15 \u0026 ドック」が入荷、一体型と分割型の2種類\n\n最大60キーの有線/無線接続対応キーボード自作キット「New On the 15 \u0026 ドック」の取り扱いが遊舎工房で始まっている。\n\n格子配列のキーボード自作キット「New On the 15 \u0026 ドック」が入荷、一体型と分割型の2種類\n\n最大60キーの有線/無線接続対応キーボード自作キット「New On the 15 \u0026 ドック」の取り扱いが 遊舎工房 で始まっている。\n\nラインアップは4行/15列の一体型モデルと、4行/7列と4行/8列に分かれた分割型モデルの2種類。\n\nいずれもはんだ付け作業が必要なキットで、価格は順に7,810円、10,780円。\n\nNew On the 15 \u0026 ドックは、キーが格子状に並ぶオーソリニア（直交配列）を採用したキーボード自作キット。有線と無線接続に対応しており、PCのほかiPad、Androidなどでも使用できるという。\n\nアルファベットや数字、コントロール、シフトキーなどを好きな場所に配置することができるほか、サイドボタンが2つ（分割型は合計4つ）搭載されており、これらのキーにも自由に機能を設定することが可能だ。キーボードの設定はGoogle ChromeからDYA Studioにアクセスして行う（設定にはWindowsまたはmacOS搭載PCが必要）。\n\nこのほか、キースイッチはソケット式で組み立て後に交換でき、一部のキーは横に長い2Uキーを選んで組み立てることが可能。キットには置くだけで給電が始まる充電用ドックが付属している。\n\n本体サイズ（幅×奥行き×キースイッチのステム上端までの高さ）は、一体型が313mm×104mm×25mm、分割型が161mm(左)/180mm(右)×104mm×25mm。\n\nキットの内容は基板（メインボード、USB基板、フレキシブル基板）、アクリルプレート、3Dプリンター製部品、ネジ、スペーサー、ナット、電池端子、スライドスイッチ、サイドボタン、ゴム足、ポゴピン、ピンヘッダー、MXスイッチソケ…",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2149/036/a1.jpg"
+    },
+    {
+      "Title": "米国、DeepSeekを行政システムから締め出し。端末だけじゃない",
+      "Link": "https://gori.me/it/171326",
+      "Published": "2026-10-19T23:29:44Z",
+      "Source": "gori.me",
+      "Category": "quick",
+      "Summary": "米国、DeepSeekを行政システムから締め出し。端末だけじゃない\n\n米国土安全保障省（DHS）が、DeepSeek製品とDeepSeekを使ったサードパーティーサービスを連邦の文民機関のITシステムから排除するよう命じた。調達も禁止された。DHSは機密データが中国に渡る恐れを理由に挙げている。中国製AIの締め出しは、政府端末から行政システム全体へ広がった。日本の対応はどうなるのか。\n\nクイック 米国、DeepSeekを行政システムから締め出し。端末だけじゃない\n\n米国土安全保障省（DHS） が、 DeepSeek製品と、DeepSeekのAIモデルを使ったサードパーティーサービスを連邦の文民機関のITシステムから排除 するよう命じた。 Reuters によると、10月19日（現地時間）に公開された通知で、文民機関がこれらを新たに調達することも禁止された。\n\nDHSは、 DeepSeekのモデルには「複数の脅威経路」があると指摘 している。 政府職員や委託業者が使うと機密データが中国に渡る恐れ があり、モデル自体にマルウェアや脆弱性が含まれている可能性もあるという。同じ日には、DHSが2026年7月に出していたメモも公開された。DeepSeek関連のリスクに備え、政府サイトに出入りする通信を監視するよう各機関に求める内容だ。\n\nこれまでも 米商務省や海軍は政府端末でのDeepSeek利用を禁じ ており、ニューヨーク州・テネシー州・バージニア州などの州も同じ措置を取ってきた。今回の命令は、 DeepSeekを組み込んだ外部サービスまで対象 に含めている。中国製AIの締め出しが、政府端末から行政システム全体へ広がったことになる。\n\nトランプ政権は中国テック企業への規制を相次いで強めていて、FCC（米連邦通信委員会）は10月29日、中国の試験機関による電子機器の検査を禁じる案を採決する予定だ。詳しい経緯はReutersの記事で確認できる。米国がここまで踏み込むなか、日本の行政機関はDeepSeekとどう向き合うのだろうか。\n\n→ U.S. bans Chinese AI De…",
+      "ImageURL": "https://gori.me/uploads/2026/10/solen-feyissa-MHgLD0-9VvM-unsplash.jpg"
+    },
+    {
+      "Title": "次のClaude、こちらの『意図』を読んでくれるらしい",
+      "Link": "https://gori.me/it/171323",
+      "Published": "2026-10-19T23:27:14Z",
+      "Source": "gori.me",
+      "Category": "quick",
+      "Summary": "次のClaude、こちらの『意図』を読んでくれるらしい\n\nThe Informationによると、Anthropicは少ない指示からユーザーの意図を推し量る新モデルを開発中だ。Googleは先週登場したGemini 4 Argonの改良版「Gemini 4 Carbon」、OpenAIはGPT-6.1 Solより安くて高性能なTerra系の新モデルを準備しているという。新しいSiriの基盤であるGeminiの次の一手にも注目が集まる。\n\nクイック 次のClaude、こちらの『意図』を読んでくれるらしい\n\nAnthropicは意図の理解、OpenAIは価格GoogleはGemini 4 Carbon、OpenAIはTerra系の新モデルを準備中意識したモデルだという。\n\nAnthropicは、少ない指示からユーザーの意図を読み取る新モデルを開発中と報じられている\n\nGoogleはGemini 4 Argonの改良版「Gemini 4 Carbon」を準備中で、視覚系タスクに強いという\n\nOpenAIはGPT-6.1 Solより安くて高性能なTerra系の新モデルを、数週間以内に出す可能性がある\n\nAnthropic、 Google 、OpenAIの3社がそろって新しいAIモデルを準備している 、と The Information が報じた。推論力、得意分野の性能、価格をめぐる競争が激しくなっていることが背景にあるという。\n\nAnthropicの新モデルは、 推論力と直感が強化 されたと報じられている。 少ない指示からでもユーザーが本当にやりたいことを推し量れる そうだ。実際に試した人物は、個々のソフトウェアのバグの裏にある大きな問題を見つけて、より広い範囲の修正を提案できたと証言している。\n\nGoogle が開発しているのは「Gemini 4 Carbon」。先週登場した「Gemini 4 Argon」の改良版とされ、開発者の間では動画の分析やウェブサイトのテストといった視覚系のタスクに強いと評価されているという。新しい Siri はGeminiを基盤にしているので、Ge…",
+      "ImageURL": "https://gori.me/uploads/2026/10/TheInformation-Anthropic-readies-model-that-reads-users-intentions-better.jpg"
+    },
+    {
+      "Title": "誰もが石油王になれる？ブレーンメディア(ラオックス)の『大石油王』",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/column/retrosoft/2138055.html",
+      "Published": "2026-10-19T23:05:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "誰もが石油王になれる？ブレーンメディア(ラオックス)の『大石油王』\n\n当時の懐かしい広告とゲーム画面で、国産PCの歴史とノスタルジーに浸れる連載コーナー。今回取り上げるのは、1983年9月にブレーンメディアから発売されたシミュレーションゲーム『大石油王』となります。\n\n誰もが石油王になれる？ブレーンメディア(ラオックス)の『大石油王』\n\n当時の懐かしい広告とゲーム画面で、国産PCの歴史とノスタルジーに浸れる連載コーナー。今回取り上げるのは、1983年9月にブレーンメディアから発売されたシミュレーションゲーム『大石油王』となります。\n\n1980年代前半は、さまざまなメーカーが各種ブランドを立ち上げてパソコンソフトをリリースしていました。例えば、ストラットフォードコンピューターセンターがマジカルズゥというブランドから『 ザ・スクリーマー 』などを、タカラ(当時)がフェニックスブランドから『 チョロQ 』などが、すぐに出てくるかもしれません。\n\nそんな時代に、家電量販店販売メーカーで有名だったラオックス株式会社(当時)がブランド・ブレーンメディアを立ち上げて、1983年8月に新作ソフト発売を予告します。そして翌月にリリースされたのが『GALACTRON』と『THE FAR WAY』と、今回取り上げた『大石油王』となります。『大石油王』は、最初に発売がアナウンスされていたのはPC-8801版ですが、リリース日にはPC-8801版、FM-7版、PASOPIA7版が同時に登場した模様です。プロローグがマニュアルに記載されているので、それを紹介しましょう。なお、マニュアル中に書かれている金額ですが、これは1983年時点でのドル円換算レート(1ドルが約240円)で計算した額となっています。\n\n1989年、私の家に一通の手紙が舞い込んだ。発信人は、アラブの一画にある小さな王国からだった。\n\n…",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2138/055/0.jpg"
+    },
+    {
       "Title": "iOS 27.2やmacOS Golden Gate 27.2のRC版が配信開始。Siri AIの日本語対応、まもなく",
       "Link": "https://gori.me/ios/ios-news/171321",
       "Published": "2026-10-19T22:50:18Z",
@@ -107,6 +233,15 @@
       "Category": "予約",
       "Summary": "Apple、日本でiPhone Duoの予約なし購入は不可と公式サイトに明記\n\n一部のApple Storeの従業員に対して、Appleが10月23日のiPhone Duo発売日に予約なしで来店する顧客への注意喚起を指示したとの報道がありました。そんな中、Appleは日本の公式サイトに、iPhone DuoとiPhone18 Pro Maxを予約なしで店頭購入することはできないと明記しました。\n\nApple、日本でiPhone Duoの予約なし購入は不可と公式サイトに明記\n\n一部のApple Storeの従業員に対して、Appleが 10月23日のiPhone Duo発売日に予約なしで来店する顧客への注意喚起を指示したとの報道 がありました。そんな中、Appleは日本の公式サイトに、 iPhone Duo とiPhone18 Pro Maxを予約なしで店頭購入することはできない と明記しました。\n\nAppleは、日本の公式サイトのiPhoneページ最上部に、次のメッセージを掲載しました。\n\nしばらくの期間、お近くのApple Storeでは、最新のiPhone DuoとiPhone 18 Pro Maxを予約せずに購入することはできません。\n\nなお、韓国のApple公式サイトにも同様の案内が掲載されていることが確認できました。\n\n先日、一部のApple Store従業員に対して、10月23日のiPhone Duo発売日に予約なしで購入しようとする顧客に注意を促すよう、Appleが指示したと報じられていました。\n\n今回、日本のApple公式サイトに掲載された案内は、この報道内容とも一致しています。\n\nなぜ日本と韓国でこの案内が掲載されているのかは明らかになっていません。また、予約なしでの購入がいつから可能になるのかも不明です。\n\n少なくとも日本では、発売日に予約なしでAppl…",
       "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/10/20/Screenshot-from-2026-10-19-20-36-22-1.png"
+    },
+    {
+      "Title": "GeForce RTX 5000シリーズ卸価格、さらに上昇",
+      "Link": "https://www.nichepcgamer.com/archives/post-133262.html",
+      "Published": "2026-10-19T15:03:14Z",
+      "Source": "ニッチなPCゲーマーの環境構築Z",
+      "Category": "Blackwell",
+      "Summary": "GeForce RTX 5000シリーズ卸価格、さらに上昇\n\nGeForce RTX 5000シリーズの卸価格ですが、さらなる上昇を見せています。 中国サプライチェーンの情報筋によると、今週、2026年10月19日(月)の卸価格は2026年10月8日(木)と比...\n\nGeForce RTX 5000シリーズの卸価格ですが、 さらなる上昇を見せています。\n\n中国サプライチェーンの情報筋によると、今週、2026年10月19日(月)の卸価格は 2026年10月8日(木) と比較して以下のような値動きをしているとのこと。(1元＝23円換算)\n\n▼代理店から小売店への卸価格: 2026年10月19日(月)時点、10月8日(木)との比較\n\nGeForce RTX 5070: 約50元値上げ( 約1,150円 ) (卸価格: 6,900～7,300元)\n\nGeForce RTX 5060 Ti 16GB: 約200元値上げ( 約4,600円 ) (卸価格: 5,500～5,800元)\n\nGeForce RTX 5060 Ti 8GB: 約200元値上げ( 約4,600円 ) (卸価格: 3,650～3,850元)\n\nGeForce RTX 5060: 約150元値上げ( 約3,450円 ) (卸価格: 3,150～3,300元)\n\nGeForce RTX 5060からGeForce RTX 5070までの4モデル、すべての卸価格が値上げされており、値上げ幅は最大約4,600円の上昇となっています。\n\n値上げの要因のひとつとして、需要が供給を上回る「供給不足」が背景にあるとされています。\n\n今のところ、供給不足が改善される見通しは立っていません。また、2026年10月は、2026年9月比で数十％、供給量が少なくなることが見込まれています。\n\n筆者は自作PC歴20年以上の経験を持ち、Windows OSの細部にわたるカスタマイズや高度な設定、PCゲームの最適化、PCハードウェアとソフトウェアに関する専門知識をもとに、PC環境を快適にするための情報、不具合に遭わないようにするための情報、…",
+      "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2025/12/geforce-rtx-5000-red-bb.jpg"
     },
     {
       "Title": "DOOGEE、横に広いスマホ「Note60 W」を披露。宣伝画像はHuawei「Pura X View」そっくり",
@@ -1297,15 +1432,6 @@
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2149/005/01.jpg"
     },
     {
-      "Title": "LINEMO、ベストプランVが新規・プラン変更で2カ月間「40GB・基本料0円」に！",
-      "Link": "https://smhn.info/202610-linemo-best-plan-v-40gb-free-two-months-campaign",
-      "Published": "2026-10-17T01:00:00Z",
-      "Source": "すまほん!!",
-      "Category": "ソフトバンク",
-      "Summary": "LINEMO、ベストプランVが新規・プラン変更で2カ月間「40GB・基本料0円」に！\n\nソフトバンクのLINEMOは10月17日、「LINEMO5周年大週穫祭」の10月第3弾として、「LINEMOベストプランV」を2カ月間、月40GBまで基本料0円で使える施策を始めました。申し込み期間は10月23日（金）まで。施策は2本のキャンペーンで成り立っています。「LINEM...\n\nLINEMO、ベストプランVが新規・プラン変更で2カ月間「40GB・基本料0円」に！\n\nソフトバンクのLINEMOは10月17日、「LINEMO5周年大週穫祭」の10月第3弾として、「LINEMOベストプランV」を2カ月間、月40GBまで基本料0円で使える施策を始めました。申し込み期間は10月23日（金）まで。\n\n施策は2本のキャンペーンで成り立っています。「LINEMOベストプランV基本料2カ月0円キャンペーン」では、ベストプランVの月額基本料2970円（税込）を2カ月間割り引き。30GBの容量を基本料無料で使えます。\n\nあわせて実施する「2カ月間データ10GB増量キャンペーン」では、1GB 550円（税込）のデータ追加購入が、1カ月あたり10回分まで2カ月間無料に。30GBに10GBを足し、2カ月間は月40GBを0円で使える計算です。\n\n基本料0円の対象はベストプランVのみ。期間中に新しく契約する人と、LINEMOの「スマホプラン」「ミニプラン」「LINEMOベストプラン」からベストプランVへ変更する人が対象です。\n\n割引期間は、新規契約が開通した月の翌月から2カ月間、プラン変更はベストプランVの適用開始月から2カ月間となります。開通期限は申込月の翌月末まで。新規契約の場合、4カ月目以降は30GBで月2970円に戻ります。\n\nデータ10GB増量は、新規契約であればLINEMOベストプラン（3GBまで月990円、10GBまで月2090円）も対象。既存利用者は、スマホプランやミニプランからベストプランまたはベストプランVへ変更する場合に対象となります。\n\nいずれも割引期間中にデータ追加購入を行うと、…",
-      "ImageURL": "https://smhn.info/wp-content/uploads/2026/10/linemo-best-plan-v-40gb-campaign.webp"
-    },
-    {
       "Title": "デスクトップ派や自作PCファンも“後付け”でPCの防犯能力を強化――PC用セキュリティ製品をピックアップ 生体認証や認証キーから物理ロックまで16製品 text by 石川 ひさよし",
       "Link": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2148983.html",
       "Published": "2026-10-17T01:00:00Z",
@@ -1313,6 +1439,15 @@
       "Category": "",
       "Summary": "デスクトップ派や自作PCファンも“後付け”でPCの防犯能力を強化――PC用セキュリティ製品をピックアップ 生体認証や認証キーから物理ロックまで16製品 text by 石川 ひさよし\n\n最近、情報漏洩や不正アクセスのニュースが増えています。大きなニュースになるのは主にサーバー側での話ですが、クライアント側、つまりお手元のPCのセキュリティ強化、不正アクセス対策も怠ってはいけません。今回はPCのセキュリティを強化する周辺機器、アクセサリーを集めてみました。\n\nデスクトップ派や自作PCファンも“後付け”でPCの防犯能力を強化――PC用セキュリティ製品をピックアップ\n\n生体認証や認証キーから物理ロックまで16製品 text by 石川 ひさよし\n\n最近、情報漏洩や不正アクセスのニュースが増えています。大きなニュースになるのは主にサーバー側での話ですが、クライアント側、つまりお手元のPCのセキュリティ強化、不正アクセス対策も怠ってはいけません。今回はPCのセキュリティを強化する周辺機器、アクセサリーを集めてみました。\n\nセキュリティ製品なので、「信頼できるメーカーの製品を選ぶ」というのはまず当然です。ただし、今後は発売元、出荷元といった「販売ルート」にも目を向ける必要があるかもしれません。仮想通貨ウォレットに盗聴回路が仕込まれたといったニュースもありました。本物を分解して内部にチップを仕込み、見た目ではまったく見分けがつかないといった話もあります。セキュリティ商品はコスパよりも信頼重視で選びましょう。\n\nビジネスノートPCではおなじみの指紋認証。Windowsログイン時のWindows Helloや、Webサイトへのログイン時などで利用できます。小型で邪魔になりにくく、この種の生体認証の中では比較的低価格です。USB端子と一体のドングルタイプや、延長ケーブル付きの卓上タイプがありま…",
       "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/983/top.jpg"
+    },
+    {
+      "Title": "LINEMO、ベストプランVが新規・プラン変更で2カ月間「40GB・基本料0円」に！",
+      "Link": "https://smhn.info/202610-linemo-best-plan-v-40gb-free-two-months-campaign",
+      "Published": "2026-10-17T01:00:00Z",
+      "Source": "すまほん!!",
+      "Category": "ソフトバンク",
+      "Summary": "LINEMO、ベストプランVが新規・プラン変更で2カ月間「40GB・基本料0円」に！\n\nソフトバンクのLINEMOは10月17日、「LINEMO5周年大週穫祭」の10月第3弾として、「LINEMOベストプランV」を2カ月間、月40GBまで基本料0円で使える施策を始めました。申し込み期間は10月23日（金）まで。施策は2本のキャンペーンで成り立っています。「LINEM...\n\nLINEMO、ベストプランVが新規・プラン変更で2カ月間「40GB・基本料0円」に！\n\nソフトバンクのLINEMOは10月17日、「LINEMO5周年大週穫祭」の10月第3弾として、「LINEMOベストプランV」を2カ月間、月40GBまで基本料0円で使える施策を始めました。申し込み期間は10月23日（金）まで。\n\n施策は2本のキャンペーンで成り立っています。「LINEMOベストプランV基本料2カ月0円キャンペーン」では、ベストプランVの月額基本料2970円（税込）を2カ月間割り引き。30GBの容量を基本料無料で使えます。\n\nあわせて実施する「2カ月間データ10GB増量キャンペーン」では、1GB 550円（税込）のデータ追加購入が、1カ月あたり10回分まで2カ月間無料に。30GBに10GBを足し、2カ月間は月40GBを0円で使える計算です。\n\n基本料0円の対象はベストプランVのみ。期間中に新しく契約する人と、LINEMOの「スマホプラン」「ミニプラン」「LINEMOベストプラン」からベストプランVへ変更する人が対象です。\n\n割引期間は、新規契約が開通した月の翌月から2カ月間、プラン変更はベストプランVの適用開始月から2カ月間となります。開通期限は申込月の翌月末まで。新規契約の場合、4カ月目以降は30GBで月2970円に戻ります。\n\nデータ10GB増量は、新規契約であればLINEMOベストプラン（3GBまで月990円、10GBまで月2090円）も対象。既存利用者は、スマホプランやミニプランからベストプランまたはベストプランVへ変更する場合に対象となります。\n\nいずれも割引期間中にデータ追加購入を行うと、…",
+      "ImageURL": "https://smhn.info/wp-content/uploads/2026/10/linemo-best-plan-v-40gb-campaign.webp"
     },
     {
       "Title": "【本日みつけたお買い得品】Ryzen PRO搭載ミニPCが約2万1千円オフ。32GBメモリに1TB SSD！",
@@ -1612,13 +1747,13 @@
       "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/10/thumb_duo_day_open_20261002.png"
     },
     {
-      "Title": "【プロダクトレビュー・ショーケース】64GBメモリで27BのAIも画像生成も。RTX Spark搭載のASUS「ProArt P16(H7607)」の実用性を試すエージェントPC時代の先駆けとなるArm+Blackwellの最新SoC搭載機 text by 芹澤 正芳",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2148963.html",
+      "Title": "【Hothotレビュー】128GBの統合メモリで大型ローカルAIを動かす。RTX Spark搭載「ProArt P14」",
+      "Link": "https://pc.watch.impress.co.jp/docs/column/hothot/2148879.html",
       "Published": "2026-10-16T12:00:00Z",
-      "Source": "AKIBA PC Hotline!",
+      "Source": "PC Watch",
       "Category": "",
-      "Summary": "【プロダクトレビュー・ショーケース】64GBメモリで27BのAIも画像生成も。RTX Spark搭載のASUS「ProArt P16(H7607)」の実用性を試すエージェントPC時代の先駆けとなるArm+Blackwellの最新SoC搭載機 text by 芹澤 正芳\n\n普段のWindows作業をこなしながら、必要なときには大きなAIモデルも手元で動かす。NVIDIAの新プラットフォーム「RTX Spark」が目指す使い方を、ASUSの16型ノートPC「ProArt P16(H7607)」で試してみた。今回の構成は20コアCPUと6,144基のCUDAコアを備えるRTX Spark N1Xに、64GBのユニファイドメモリを組み合わせたものだ。\n\n64GBメモリで27BのAIも画像生成も。RTX Spark搭載のASUS「ProArt P16(H7607)」の実用性を試す\n\nエージェントPC時代の先駆けとなるArm+Blackwellの最新SoC搭載機 text by 芹澤 正芳\n\n普段のWindows作業をこなしながら、必要なときには大きなAIモデルも手元で動かす。NVIDIAの新プラットフォーム「RTX Spark」が目指す使い方を、ASUSの16型ノートPC「ProArt P16(H7607)」で試してみた。今回の構成は20コアCPUと6,144基のCUDAコアを備えるRTX Spark N1Xに、64GBのユニファイドメモリを組み合わせたものだ。\n\nプラットフォームの仕組みやEditor's Dayでの発表内容は こちらの記事 で紹介した。今回はノートPCとしての使い勝手に軸を置き、Officeでの仕事、27BのローカルLLM、画像生成、ゲームを確認する。\n\n16型の薄型ボディに、CPUとRTX GPU、64GBメモリをまとめる\n\nまずは今回使った本機の構成を整理して…",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/963/top.jpg"
+      "Summary": "【Hothotレビュー】128GBの統合メモリで大型ローカルAIを動かす。RTX Spark搭載「ProArt P14」\n\n2026年6月のCOMPUTEX 2026に合わせて発表され、話題を呼んだNVIDIAの新プラットフォーム「RTX Spark」。それを採用した14型ノートPC「ASUS ProArt P14」が、いよいよ10月23日から順次販売を開始する。\n\n128GBの統合メモリで大型ローカルAIを動かす。RTX Spark搭載「ProArt P14」\n\n2026年6月のCOMPUTEX 2026に合わせて発表され、話題を呼んだNVIDIAの新プラットフォーム「RTX Spark」。それを採用した14型ノートPC「ASUS ProArt P14」が、いよいよ10月23日から順次販売を開始する。\n\n上位モデルはメモリ128GBという大容量で、価格も119万8,000円という超ハイエンドクラスの1台。クリエイター向けである「ProArt」シリーズとしてどんなノートPCになっているのか、チェックしてみよう。\n\nなお、予約受付は10月14日より開始済み。128GBモデルは23日、48GBモデル(94万9,800円)は11月中旬以降に発売する。\n\nRTX Sparkは、AI処理を主眼に置いた、主にモバイルやポータブルなWindows PC向けに規定されたNVIDIAの新しいコンピューティングプラットフォーム。ArmベースのCPUであるNVIDIA RTX Spark N1Xに、内蔵GPUとしてNVIDIA Blackwell RTXが組み合わされている。\n\nSnapdragonに続くWindows on Armの新しいファミリーとして追加されたことになり、RTX Spark採用PCがメーカー各社から今後続々登場予定だ。\n\nその1つである14型ノートのASUS ProArt …",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2148/879/001.jpg"
     },
     {
       "Title": "【笠原一輝のユビキタス情報局】フロンティアモデルAIを出先でも！NVIDIA RTX Spark搭載Surface実機レビュー",
@@ -1639,13 +1774,13 @@
       "ImageURL": "https://www.4gamer.net/games/050/G105051/20261015021/SS/003.jpg"
     },
     {
-      "Title": "【Hothotレビュー】128GBの統合メモリで大型ローカルAIを動かす。RTX Spark搭載「ProArt P14」",
-      "Link": "https://pc.watch.impress.co.jp/docs/column/hothot/2148879.html",
+      "Title": "【プロダクトレビュー・ショーケース】64GBメモリで27BのAIも画像生成も。RTX Spark搭載のASUS「ProArt P16(H7607)」の実用性を試すエージェントPC時代の先駆けとなるArm+Blackwellの最新SoC搭載機 text by 芹澤 正芳",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2148963.html",
       "Published": "2026-10-16T12:00:00Z",
-      "Source": "PC Watch",
+      "Source": "AKIBA PC Hotline!",
       "Category": "",
-      "Summary": "【Hothotレビュー】128GBの統合メモリで大型ローカルAIを動かす。RTX Spark搭載「ProArt P14」\n\n2026年6月のCOMPUTEX 2026に合わせて発表され、話題を呼んだNVIDIAの新プラットフォーム「RTX Spark」。それを採用した14型ノートPC「ASUS ProArt P14」が、いよいよ10月23日から順次販売を開始する。\n\n128GBの統合メモリで大型ローカルAIを動かす。RTX Spark搭載「ProArt P14」\n\n2026年6月のCOMPUTEX 2026に合わせて発表され、話題を呼んだNVIDIAの新プラットフォーム「RTX Spark」。それを採用した14型ノートPC「ASUS ProArt P14」が、いよいよ10月23日から順次販売を開始する。\n\n上位モデルはメモリ128GBという大容量で、価格も119万8,000円という超ハイエンドクラスの1台。クリエイター向けである「ProArt」シリーズとしてどんなノートPCになっているのか、チェックしてみよう。\n\nなお、予約受付は10月14日より開始済み。128GBモデルは23日、48GBモデル(94万9,800円)は11月中旬以降に発売する。\n\nRTX Sparkは、AI処理を主眼に置いた、主にモバイルやポータブルなWindows PC向けに規定されたNVIDIAの新しいコンピューティングプラットフォーム。ArmベースのCPUであるNVIDIA RTX Spark N1Xに、内蔵GPUとしてNVIDIA Blackwell RTXが組み合わされている。\n\nSnapdragonに続くWindows on Armの新しいファミリーとして追加されたことになり、RTX Spark採用PCがメーカー各社から今後続々登場予定だ。\n\nその1つである14型ノートのASUS ProArt …",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2148/879/001.jpg"
+      "Summary": "【プロダクトレビュー・ショーケース】64GBメモリで27BのAIも画像生成も。RTX Spark搭載のASUS「ProArt P16(H7607)」の実用性を試すエージェントPC時代の先駆けとなるArm+Blackwellの最新SoC搭載機 text by 芹澤 正芳\n\n普段のWindows作業をこなしながら、必要なときには大きなAIモデルも手元で動かす。NVIDIAの新プラットフォーム「RTX Spark」が目指す使い方を、ASUSの16型ノートPC「ProArt P16(H7607)」で試してみた。今回の構成は20コアCPUと6,144基のCUDAコアを備えるRTX Spark N1Xに、64GBのユニファイドメモリを組み合わせたものだ。\n\n64GBメモリで27BのAIも画像生成も。RTX Spark搭載のASUS「ProArt P16(H7607)」の実用性を試す\n\nエージェントPC時代の先駆けとなるArm+Blackwellの最新SoC搭載機 text by 芹澤 正芳\n\n普段のWindows作業をこなしながら、必要なときには大きなAIモデルも手元で動かす。NVIDIAの新プラットフォーム「RTX Spark」が目指す使い方を、ASUSの16型ノートPC「ProArt P16(H7607)」で試してみた。今回の構成は20コアCPUと6,144基のCUDAコアを備えるRTX Spark N1Xに、64GBのユニファイドメモリを組み合わせたものだ。\n\nプラットフォームの仕組みやEditor's Dayでの発表内容は こちらの記事 で紹介した。今回はノートPCとしての使い勝手に軸を置き、Officeでの仕事、27BのローカルLLM、画像生成、ゲームを確認する。\n\n16型の薄型ボディに、CPUとRTX GPU、64GBメモリをまとめる\n\nまずは今回使った本機の構成を整理して…",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/963/top.jpg"
     },
     {
       "Title": "ドコモ、緊急地震速報のエリアメールが届かず謝罪。原因はシステム不具合、解消まで配信されない場合も",
@@ -2422,15 +2557,6 @@
       "ImageURL": "https://smhn.info/wp-content/uploads/2026/10/capture_20261015_214119_222_61C407.webp"
     },
     {
-      "Title": "100万円でも即売り切れ。NVIDIA「RTX Spark」に触れて分かった、可能性と難しさ",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/2148163.html",
-      "Published": "2026-10-15T12:00:00Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "100万円でも即売り切れ。NVIDIA「RTX Spark」に触れて分かった、可能性と難しさ\n\n「RTX Sparkは、エージェントAI時代に求められるPCの姿を先取りしたもの」。これは、RTX Sparkの技術説明会に参加して筆者がユーザー視点で感じたことだ。しかし同時に、まったく新しい価値観、まったく新しい使い方を提案する製品であるがゆえに、記者視点では、この製品の姿を伝えるのが難しいとも感じた。\n\n100万円でも即売り切れ。NVIDIA「RTX Spark」に触れて分かった、可能性と難しさ\n\n「RTX Sparkは、エージェントAI時代に求められるPCの姿を先取りしたもの」。これは、RTX Sparkの技術説明会に参加して筆者がユーザー視点で感じたことだ。しかし同時に、まったく新しい価値観、まったく新しい使い方を提案する製品であるがゆえに、記者視点では、この製品の姿を伝えるのが難しいとも感じた。\n\nそんな記者泣かせの製品とも言えるRTX Sparkの実体についてまとめたい。\n\nRTX SparkはエージェントAI時代のための新しいエコシステム\n\nNVIDIAがサンフランシスコで10月8日(現地時間)に開催した技術説明会「NVIDIA RTX Spark Editor's Day」の冒頭で宣言されたのは、「Windows PCの新しい始まり」だった。\n\nNVIDIAは、その前日に正式発表されたMicrosoftの「Surface Laptop Ultra」を始めとしたPCに、SoCとしてRTX Spark(コードネームN1X)を提供している。NVIDIAがWindows向けSoCを開発するのは13年ぶりだ。ただ、新しいチップを作っただけでWindows PCの新しい始まりを宣言するのは、やや誇大表現に見えるかもしれない。\n\nだが、RTX Sparkの真の姿は単なるSoC…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2148/163/01.jpg"
-    },
-    {
       "Title": "【プロダクトレビュー・ショーケース】【特別編】RTX Sparkは「AIもゲームも1台で」を狙う新世代Windows SoC。NVIDIAが示したエージェントPCの全貌RTX Spark Editor's Day \u0026 RTX Spark搭載機の最新情報をレポート text by 芹澤 正芳",
       "Link": "https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2148561.html",
       "Published": "2026-10-15T12:00:00Z",
@@ -2438,6 +2564,15 @@
       "Category": "",
       "Summary": "【プロダクトレビュー・ショーケース】【特別編】RTX Sparkは「AIもゲームも1台で」を狙う新世代Windows SoC。NVIDIAが示したエージェントPCの全貌RTX Spark Editor's Day \u0026 RTX Spark搭載機の最新情報をレポート text by 芹澤 正芳\n\nNVIDIAはアメリカのサンフランシスコでプレス向けイベント「RTX Spark Editor's Day」を開催し、Windows PC向けの新プラットフォーム「NVIDIA RTX Spark」の詳細を公開した。RTX Sparkは、Blackwell世代のRTX GPUとArmベースのGrace CPU、最大128GBのユニファイドメモリを1つのパッケージに統合したSoCだ。\n\n【特別編】RTX Sparkは「AIもゲームも1台で」を狙う新世代Windows SoC。NVIDIAが示したエージェントPCの全貌\n\nRTX Spark Editor's Day \u0026 RTX Spark搭載機の最新情報をレポート text by 芹澤 正芳\n\nNVIDIAはアメリカのサンフランシスコでプレス向けイベント「RTX Spark Editor's Day」を開催し、Windows PC向けの新プラットフォーム「NVIDIA RTX Spark」の詳細を公開した。RTX Sparkは、Blackwell世代のRTX GPUとArmベースのGrace CPU、最大128GBのユニファイドメモリを1つのパッケージに統合したSoCだ。\n\nNVIDIAは2026年5月のGTC Taipeiで概要を発表していたが、今回は内部構造やWindows側の最適化、ローカルAIエージェント、クリエイティブ、ゲームへの対応が、より具体的に説明された。\n\nイベントでは講演だけでなく、RTX Spark搭載PCを使ったハ…",
       "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/561/top.jpg"
+    },
+    {
+      "Title": "100万円でも即売り切れ。NVIDIA「RTX Spark」に触れて分かった、可能性と難しさ",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2148163.html",
+      "Published": "2026-10-15T12:00:00Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "100万円でも即売り切れ。NVIDIA「RTX Spark」に触れて分かった、可能性と難しさ\n\n「RTX Sparkは、エージェントAI時代に求められるPCの姿を先取りしたもの」。これは、RTX Sparkの技術説明会に参加して筆者がユーザー視点で感じたことだ。しかし同時に、まったく新しい価値観、まったく新しい使い方を提案する製品であるがゆえに、記者視点では、この製品の姿を伝えるのが難しいとも感じた。\n\n100万円でも即売り切れ。NVIDIA「RTX Spark」に触れて分かった、可能性と難しさ\n\n「RTX Sparkは、エージェントAI時代に求められるPCの姿を先取りしたもの」。これは、RTX Sparkの技術説明会に参加して筆者がユーザー視点で感じたことだ。しかし同時に、まったく新しい価値観、まったく新しい使い方を提案する製品であるがゆえに、記者視点では、この製品の姿を伝えるのが難しいとも感じた。\n\nそんな記者泣かせの製品とも言えるRTX Sparkの実体についてまとめたい。\n\nRTX SparkはエージェントAI時代のための新しいエコシステム\n\nNVIDIAがサンフランシスコで10月8日(現地時間)に開催した技術説明会「NVIDIA RTX Spark Editor's Day」の冒頭で宣言されたのは、「Windows PCの新しい始まり」だった。\n\nNVIDIAは、その前日に正式発表されたMicrosoftの「Surface Laptop Ultra」を始めとしたPCに、SoCとしてRTX Spark(コードネームN1X)を提供している。NVIDIAがWindows向けSoCを開発するのは13年ぶりだ。ただ、新しいチップを作っただけでWindows PCの新しい始まりを宣言するのは、やや誇大表現に見えるかもしれない。\n\nだが、RTX Sparkの真の姿は単なるSoC…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2148/163/01.jpg"
     },
     {
       "Title": "【笠原一輝のユビキタス情報局】買ったらすぐローカルエージェント型AIが始められるRTX Spark N1Xのすべて",
@@ -2683,15 +2818,6 @@
       "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/183/a1.jpg"
     },
     {
-      "Title": "iPhone Duoは買うべき？見送るべき？予約前に確かめたい5つのこと",
-      "Link": "https://iphone-mania.jp/iphone18-607467/",
-      "Published": "2026-10-15T03:00:00Z",
-      "Source": "iPhone Mania",
-      "Category": "iPhone18 Pro Max",
-      "Summary": "iPhone Duoは買うべき？見送るべき？予約前に確かめたい5つのこと\n\n折りたたみのiPhone Duoの予約が10月16日（金）午後9時に始まります。価格、画面、iPhone18 Pro Maxとの違い、内側の画面と耐久性、読者アンケートの5つから、買うべき人と見送るべき人の条件をまとめました。\n\niPhone Duoは買うべき？見送るべき？予約前に確かめたい5つのこと\n\n折りたたみのiPhone Duoの予約が、 10月16日（金）午後9時 に始まります。Apple Storeの価格は256GBで364,800円からと、iPhone18 Pro Max（239,800円から）より12万5,000円高い機種です。キャリアはNTTドコモ・au・ソフトバンクが10月14日までに価格を発表し、楽天モバイルは発表待ちです。\n\n買うか見送るか迷っている方に向けて、価格、画面、iPhone18 Pro Maxとの違い、内側の画面と耐久性、読者アンケートの5つを整理しました。\n\n※上記は広告（アフィリエイト）を含みます。価格・特典・条件は各公式サイトでご確認ください。\n\n一括で買うなら、Apple Store（SIMフリー）が最も安くなります。キャリアの一括価格はApple Storeより5万円以上高く、ドコモは7万円以上の差があります。\n\nキャリアの実質価格は、2年前後で端末を返す前提の金額です。ドコモは23か月目、auは25か月目までに返却し、ソフトバンクは25か月目に買い替える条件です。返さずに使い続けるなら、一括価格との差額を払うことになります。\n\nApple Storeでドコモ（ahamoを含む）・ソフトバンクの回線契約と一緒に買うと8,800円、オンラインで乗り換えると20,000円の割引があります。各社の条件は iPhone Duo 予約ガイド と各社の記事にまとめて…",
-      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/10/thumb_duo_buy_or_skip_20261015.png"
-    },
-    {
       "Title": "�����ʤ��Τ��ͤ������Ǥ⡤�������ȡȼ�ʬ�Υ������ɤˤʤ롣���ʥ��᤬��DRAPLINE�פ˻����������������ޤǻȤäƤ��ʤ��ä������Ф�",
       "Link": "https://www.4gamer.net/games/921/G092147/20261007001/",
       "Published": "2026-10-15T03:00:00Z",
@@ -2699,6 +2825,15 @@
       "Category": "HARDWARE",
       "Summary": "�����ʤ��Τ��ͤ������Ǥ⡤�������ȡȼ�ʬ�Υ������ɤˤʤ롣���ʥ��᤬��DRAPLINE�פ˻����������������ޤǻȤäƤ��ʤ��ä������Ф�\n\n7年間の連載を終えた「被虐のノエル」ののちにカナヲ氏が手がけたのは，ドラゴンの娘を育てるローグライトな育成RPGだった。予想を超える早期アクセスの反響，RPGツクールを使い続ける理由。自分の“好き”…\n\n好きなものを詰め込んでも，ちゃんと“自分のゲーム”になる。カナヲ氏が「DRAPLINE」に持ち込んだ，これまで使ってこなかった引き出し ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ 作品のアニマはどこに宿るのか。「リベンジオブザセブン」と「サガフロ2 リマスター」，ふたつの“伝承”のかたち ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 東京ゲームショウに来たら“読みもの”を集めよう！ 雑誌にカタログ，新聞風。会場で見つけた＆もらった小冊子を紹介［TGS2026］ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を…",
       "ImageURL": "https://www.4gamer.net/games/921/G092147/20261007001/SS/030.jpg"
+    },
+    {
+      "Title": "iPhone Duoは買うべき？見送るべき？予約前に確かめたい5つのこと",
+      "Link": "https://iphone-mania.jp/iphone18-607467/",
+      "Published": "2026-10-15T03:00:00Z",
+      "Source": "iPhone Mania",
+      "Category": "iPhone18 Pro Max",
+      "Summary": "iPhone Duoは買うべき？見送るべき？予約前に確かめたい5つのこと\n\n折りたたみのiPhone Duoの予約が10月16日（金）午後9時に始まります。価格、画面、iPhone18 Pro Maxとの違い、内側の画面と耐久性、読者アンケートの5つから、買うべき人と見送るべき人の条件をまとめました。\n\niPhone Duoは買うべき？見送るべき？予約前に確かめたい5つのこと\n\n折りたたみのiPhone Duoの予約が、 10月16日（金）午後9時 に始まります。Apple Storeの価格は256GBで364,800円からと、iPhone18 Pro Max（239,800円から）より12万5,000円高い機種です。キャリアはNTTドコモ・au・ソフトバンクが10月14日までに価格を発表し、楽天モバイルは発表待ちです。\n\n買うか見送るか迷っている方に向けて、価格、画面、iPhone18 Pro Maxとの違い、内側の画面と耐久性、読者アンケートの5つを整理しました。\n\n※上記は広告（アフィリエイト）を含みます。価格・特典・条件は各公式サイトでご確認ください。\n\n一括で買うなら、Apple Store（SIMフリー）が最も安くなります。キャリアの一括価格はApple Storeより5万円以上高く、ドコモは7万円以上の差があります。\n\nキャリアの実質価格は、2年前後で端末を返す前提の金額です。ドコモは23か月目、auは25か月目までに返却し、ソフトバンクは25か月目に買い替える条件です。返さずに使い続けるなら、一括価格との差額を払うことになります。\n\nApple Storeでドコモ（ahamoを含む）・ソフトバンクの回線契約と一緒に買うと8,800円、オンラインで乗り換えると20,000円の割引があります。各社の条件は iPhone Duo 予約ガイド と各社の記事にまとめて…",
+      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/10/thumb_duo_buy_or_skip_20261015.png"
     },
     {
       "Title": "開けばオン、閉じれば約7cmに縮んでオフ。スライド式静音マウス",
@@ -4364,144 +4499,144 @@
       "Category": "",
       "Summary": "【やじうまミニレビュー】防災に“握れる”ポタ電、コンセント付きでリン酸鉄が魅力のモバイルバッテリ\n\n2026年は災害に対する備えの大切さを改めて感じさせる1年になっています。地震、浸水などで深刻なダメージを受けた地域もあれば、間接的に停電というかたちで影響を受けたところもあるでしょう。\n\n防災に“握れる”ポタ電、コンセント付きでリン酸鉄が魅力のモバイルバッテリ\n\n2026年は災害に対する備えの大切さを改めて感じさせる1年になっています。地震、浸水などで深刻なダメージを受けた地域もあれば、間接的に停電というかたちで影響を受けたところもあるでしょう。\n\nそうした災害、停電への有効な対策の1つとして考えられるのが、大容量のポータブル電源を常備すること。しかし、10万円単位の出費になること、設置スペースが必要なこと、持ち運びに向いているとはいえないこと、などの前提条件や制約もあります。\n\n緊急時には自宅から安全な場所へ避難することも考えられ、そういったケースではより小型で携帯しやすい方が便利です。また、できればポタ電並みにいろいろな電化製品も使えるのが理想。\n\nまさにそんな用途で活躍してくれそうなモバイルバッテリ「BTL-RDC46」がサンワサプライから発売されたので、試してみました。直販サイトでの価格は3万2,880円(2026年10月時点)です。\n\nBTL-RDC46は、リン酸鉄リチウムイオン電池を採用したモバイルバッテリです。一般的に繰り返し充電時の耐久性(寿命)に優れ、通常のリチウムイオン電池などと比べて発火などの危険性が少ないのが特徴です。\n\nメーカー自身がモバイルバッテリと呼んでいることもあり、片手で楽に持てるボディサイズと重量(実測943g)。パッと見は小型Bluetoothスピーカーのような風体ですが、500mLのペットボトルよりひとまわり大きいくらいで、大人ならち…",
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2147/376/001.jpg"
-    },
-    {
-      "Title": "下位MacBook Proも2027年春に新デザインか〜M7搭載と報道",
-      "Link": "https://iphone-mania.jp/mac-607369/",
-      "Published": "2026-10-12T16:52:54Z",
-      "Source": "iPhone Mania",
-      "Category": "M7",
-      "Summary": "下位MacBook Proも2027年春に新デザインか〜M7搭載と報道\n\nM7チップを搭載するMacBook Proのエントリーモデルが、早ければ2027年前半に上位モデルと同じ新デザインへ移行すると海外メディアが報じました。上位モデルとの登場時期の差は、約半年に縮まる見込みです。\n\n下位MacBook Proも2027年春に新デザインか〜M7搭載と報道\n\nM7チップを搭載するMacBook Proのエントリーモデルが、早ければ2027年前半に上位モデルと同じ新デザインへ移行すると海外メディアが報じました。上位モデルとの登場時期の差は、約半年に縮まる見込みです。 過去には数年待たされたことを考えると大きな変化で、新デザインを手頃に買うなら2027年春まで待つのが有力です。すぐに必要な人には、今秋登場予定のモデルも選択肢になります。\n\n海外メディアの報道によると、Appleはコード名「K104」と呼ばれる14インチのエントリーモデルを開発しています。新デザインでは やや薄い筐体と タッチ対応の有機EL（OLED）ディスプレイ を採用し、Dynamic Islandを搭載する可能性もあるといいます。\n\nエントリーモデルの仕様が上位モデルと同等になれば、「新しいデザインが欲しいなら上位モデル」という構図は崩れ、 必要な性能だけで選びやすくなります 。「早ければ前半」という表現からは春〜初夏の登場が有力とみられますが、遅れる余地も残ります。\n\n上位モデルで先行した変更がエントリーモデルに届くまでの期間を過去の例と比べると、今回の短さが際立ちます。\n\n2016年のTouch Barは約3年、2021年の14インチデザインは約2年かかりました。今回は報道どおりなら約半年で、期間は 過去の4分の1〜6分の1程度 に縮まる計算です。 仮に初夏にずれ込んで8カ月前後になっても、短縮幅の大きさ…",
-      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/10/13/d01a5475c1117e8e1d2dc502bbc75586.png"
-    },
-    {
-      "Title": "VITUREのXRグラス「Beast」が初のセール。プライム感謝祭の先行セールから7万4500円に",
-      "Link": "https://smhn.info/202610-viture-beast-autumn-sale-prime-big-deal-days-2026",
-      "Published": "2026-10-12T16:11:50Z",
-      "Source": "すまほん!!",
-      "Category": "セール",
-      "Summary": "VITUREのXRグラス「Beast」が初のセール。プライム感謝祭の先行セールから7万4500円に\n\nXRグラスを手がけるVITUREは、10月13日0時から19日23時59分まで「VITURE 秋の大感謝祭セール」を開催します。Amazonの「プライム感謝祭」先行セール（13〜15日）と本番（16〜19日）に合わせたもので、2025年11月に発表されたフラッグシップのXRグラス...\n\nVITUREのXRグラス「Beast」が初のセール。プライム感謝祭の先行セールから7万4500円に\n\nXRグラスを手がけるVITUREは、10月13日0時から19日23時59分まで「VITURE 秋の大感謝祭セール」を開催します。\n\nAmazonの「プライム感謝祭」先行セール（13〜15日）と本番（16〜19日）に合わせたもので、2025年11月に発表されたフラッグシップのXRグラス「Beast」が初めてセール対象に入りました。\n\n「 VITURE Beast 」は、通常8万2880円のところ8380円引きとなる7万4500円。4m先に174インチ相当の画面を映し出し、視野角は58度、最大輝度は1250ニト、重さは88g。画面を空間に固定する3DoFを本体に内蔵しています。視度調整機能は備えておらず、度付きレンズフレームに対応。\n\n「 VITURE Luma Ultra 」は通常8万9880円が7万3880円（約18%オフ）、「 VITURE Luma 」は通常6万4880円が5万880円（約22%オフ）。Luma Ultraは152インチ相当、最大1500ニトで、MacやWindowsのアプリ「SpaceWalker」またはPro ネックバンド経由での6DoFに対応します。Lumaは146インチ相当、最大1000ニトで、-6.00Dまでの視度調整に対応。どちらも、7月のプライムデーに合わ…",
-      "ImageURL": "https://smhn.info/wp-content/uploads/2026/10/viture-beast-autumn-sale-2026.webp"
-    },
-    {
-      "Title": "PCパーツ・周辺機器が特価で多数登場！GeForce RTX 5000シリーズグラボやマザーボード、ゲーミング関連など。Amazonプライム感謝祭先行セールにて",
-      "Link": "https://www.nichepcgamer.com/archives/amazon-prime-appreciation-pc-sale-2026a.html",
-      "Published": "2026-10-12T15:54:33Z",
-      "Source": "ニッチなPCゲーマーの環境構築Z",
-      "Category": "ハードウェア全般",
-      "Summary": "PCパーツ・周辺機器が特価で多数登場！GeForce RTX 5000シリーズグラボやマザーボード、ゲーミング関連など。Amazonプライム感謝祭先行セールにて\n\nAmazonプライム感謝祭先行セールにて、GeForce RTX 5000シリーズグラボやマザーボード、ゲーミングキーボードにゲーミングマウス、ゲーミングモニターに電源など、各種PCパーツ・周辺機器...\n\nAmazonプライム感謝祭先行セールにて、GeForce RTX 5000シリーズグラボやマザーボード、ゲーミングキーボードにゲーミングマウス、ゲーミングモニターに電源など、 各種PCパーツ・周辺機器・ゲーミング製品が特価で多数登場しています。\n\nPC関連製品をお求めの方はこの機会にAmazonの パソコン・周辺機器ページ チェックされてみてはいかがでしょうか！ セール対象製品は、カテゴリーを選択して、左メニューにある、\n\n『プライム感謝祭』を選択してみてください。(スマホからはカテゴリーを選択してちょっと下にある『絞り込み』 → 『お買い得品＆割引』) するとセール対象商品が表示されます。\n\nプライム感謝祭先行セールは10月15日(木)23時59分まで。セールページへは下記のリンクよりどうぞ。品切れになったら購入できなくなるかもしれませんのでチェックはお早めに！\n\n筆者は自作PC歴20年以上の経験を持ち、Windows OSの細部にわたるカスタマイズや高度な設定、PCゲームの最適化、PCハードウェアとソフトウェアに関する専門知識をもとに、PC環境を快適にするための情報、不具合に遭わないようにするための情報、そして、ちょっとニッチよりなPCユーザー向け記事の執筆を2015年4月から11年にわたって行っています。\n\n長年の経験により得たノウハウを活かし、初心者から上級者まで幅広く対応できる情報を提供し、読者様の…",
-      "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2026/10/amazon-pc-sale-2026-10a.png"
-    },
-    {
-      "Title": "CIO、プライム感謝祭の先行セールから充電器やモバイルバッテリーを値下げ。半固体のQi2.2対応モデルも対象",
-      "Link": "https://smhn.info/202610-cio-amazon-prime-big-deal-days-2026",
-      "Published": "2026-10-12T15:51:39Z",
-      "Source": "すまほん!!",
-      "Category": "充電器",
-      "Summary": "CIO、プライム感謝祭の先行セールから充電器やモバイルバッテリーを値下げ。半固体のQi2.2対応モデルも対象\n\n充電器やモバイルバッテリーを手がけるCIOは、Amazonの「プライム感謝祭」で同社製品を値下げします。10月13日0時からの先行セールと、10月16日から19日23時59分までの本番のどちらでもセール実施。充電器「NovaPort」シリーズでは、約74gでUSB-Cを1ポート備...\n\nCIO、プライム感謝祭の先行セールから充電器やモバイルバッテリーを値下げ。半固体のQi2.2対応モデルも対象\n\n充電器やモバイルバッテリーを手がけるCIOは、Amazonの「プライム感謝祭」で同社製品を値下げします。10月13日0時からの先行セールと、10月16日から19日23時59分までの本番のどちらでもセール実施。\n\n充電器「NovaPort」シリーズでは、約74gでUSB-Cを1ポート備えた「 NovaPort SOLOⅡ 65W 」が3580円（18%オフ）、最大100W出力の「 NovaPort SOLOⅡ 100W 」が4780円（20%オフ）。USB-Cを3ポート備えた「 NovaPort TRIOⅡ 」は最大41%オフの3980円、USB-C×3とUSB-A×1で単ポート最大100W出力の「 NovaPort QUADⅡ 100W 」は6980円（30%オフ）です。\n\nモバイルバッテリー「SMARTCOBY」シリーズは、燃えにくさをうたう半固体系セルを採用したモデルが多く並びます。Qi2.2による最大25Wのワイヤレス充電に対応した5000mAhの「 SMARTCOBY SLIMⅡ Wireless2.2 SS5K 」が5980円（18%オフ）、同じく最大25Wのワイヤレス充電に加え、USB-Cケーブルとリングスタンドを内蔵した10000mAhの「 SMARTCO…",
-      "ImageURL": "https://smhn.info/wp-content/uploads/2026/10/cio-prime-sale-2026.webp"
-    },
-    {
-      "Title": "【プライム感謝祭】読込7,300MB/sのキオクシア製2TB SSDが9,750円引き",
-      "Link": "https://www.gdm.or.jp/pressrelease/2026/1013/655893",
-      "Published": "2026-10-12T15:38:23Z",
-      "Source": "エルミタージュ秋葉原",
-      "Category": "",
-      "Summary": "【プライム感謝祭】読込7,300MB/sのキオクシア製2TB SSDが9,750円引き\n\nAmazonプライム感謝祭先行セールで、キオクシアの2TB SSD「EXCERIA BASIC SSD-CK2.0N4B/R」が15％引きの税込55,230円。PCIe Gen4 ×4接続で最大読込7,300MB/secに対応する。\n\n【プライム感謝祭】読込7,300MB/sのキオクシア製2TB SSDが9,750円引き\n\n「EXCERIA BASIC」の2TBモデルが税込55,230円\n\nただいま開催中の「Amazonプライム感謝祭先行セール」にて、キオクシアの2TB SSD 「EXCERIA BASIC SSD-CK2.0N4B/R」 が、通常価格税込64,980円から15％引きの税込55,230円で販売されている。\n\nPCI Express 4.0 ×4接続に対応するM.2 2280サイズのNVMe SSD。キオクシアの3次元フラッシュメモリ「BiCS FLASH」のQLCを採用し、最大シーケンシャル読込速度7,300MB/s、書込速度6,800MB/sを実現する。\n\n総書込容量は600TBWで、専用ソフトウェア「SSD Utility」による状態監視やメンテナンスにも対応。デスクトップPCやノートPCのストレージ換装・増設に向けた、容量2TBのモデルだ。\n\n文： 編集部 松枝 清顕 キオクシア株式会社： https://www.kioxia.com/\n\n【プライム感謝祭】Fire TVの4Kモデル2製品が半額、税込3,980円から\n\n【プライム感謝祭】読書のお供に。Kindle Paperwhiteが5,000円…\n\n【プライム感謝祭】AMD「Ryzen 7 9800X3D」が税込58,800円で…\n\n【プライム感謝祭】4年保証版「Ryzen 5 5600」が2万円切りの税込1…",
-      "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/10/13/SSD-CK2.0N4B_R_001.jpg"
-    },
-    {
-      "Title": "【プライム感謝祭】24TBの大容量HDD、Seagate「BarraCuda」が15,000円引き",
-      "Link": "https://www.gdm.or.jp/pressrelease/2026/1013/655891",
-      "Published": "2026-10-12T15:32:36Z",
-      "Source": "エルミタージュ秋葉原",
-      "Category": "",
-      "Summary": "【プライム感謝祭】24TBの大容量HDD、Seagate「BarraCuda」が15,000円引き\n\nAmazonプライム感謝祭先行セールで、Seagateの24TB HDD「BarraCuda ST24000DM001/EC」が15％引きの税込84,980円。CMR方式、7,200rpm、512MBキャッシュを採用する。\n\n【プライム感謝祭】24TBの大容量HDD、Seagate「BarraCuda」が15,000円引き\n\nCMR方式・7,200rpmの24TBモデルが税込84,980円\n\nただいま開催中の「Amazonプライム感謝祭先行セール」にて、Seagateの24TB HDD 「BarraCuda ST24000DM001/EC」 が、通常価格税込99,980円から15％引きの税込84,980円で販売されている。\n\nデスクトップPC向けの3.5インチ内蔵HDDで、記録方式はCMRを採用。インターフェイスはSATA 6Gbps、回転数は7,200rpm、キャッシュ容量は512MBを備える。\n\n1台で24TBの容量を確保でき、写真や動画など大容量データの保存先に適したモデル。今回の価格は1TBあたり約3,541円で、ドライブベイの数を抑えながらストレージ容量を増やしたい場合にも注目だ。\n\n文： 編集部 松枝 清顕 Seagate Technology： http://www.seagate.com/\n\n【プライム感謝祭】Fire TVの4Kモデル2製品が半額、税込3,980円から\n\n【プライム感謝祭】読書のお供に。Kindle Paperwhiteが5,000円…\n\n【プライム感謝祭】AMD「Ryzen 7 9800X3D」が税込58,800円で…\n\n【プライム感謝祭】4年保証版「Ryzen 5 5600」が2万円切りの税込19,…\n\n【プライム感謝祭】MSIのRTX…",
-      "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/10/13/ST24000DM001_001.jpg"
-    },
-    {
-      "Title": "GeForce RTX 5080 24GBモデルの発売時期がリーク",
-      "Link": "https://www.nichepcgamer.com/archives/post-133001.html",
-      "Published": "2026-10-12T15:30:14Z",
-      "Source": "ニッチなPCゲーマーの環境構築Z",
-      "Category": "GeForce",
-      "Summary": "GeForce RTX 5080 24GBモデルの発売時期がリーク\n\nGeForce RTX 5080 24GBモデルの発売時期がリークされました。台湾メディアのBenchLifeが報じました。 NVIDIAはGeFoce RTX 5080 16GBの後継モデルとして...\n\nGeForce RTX 5080 24GBモデルの発売時期がリークされました。 台湾メディアのBenchLifeが報じました。\n\nNVIDIAはGeFoce RTX 5080 16GBの後継モデルとして、 2027年第1四半期にGeForce RTX 5080 24GBグラフィックカードを投入する。\n\nしかしながら、現時点でAICパートナー(グラボメーカー)各社は、GeForce RTX 5080 24GBに関する開発資料を受け取っていない。開発資料は近日中に提供されると口頭で伝えられているに留まる。\n\n先日 、GeForce RTX 5090が製造終了(EOL)となり、代わりにGeForce RTX 5080 24GBが準備されているとの情報が出てきました。\n\nそのGeForce RTX 5080 24GBですが、BenchLifeによると、2027年第1四半期(1～3月)に発売されるとのこと。早くて3か月後の2027年1月、遅くて5か月先の2027年3月となる模様です。\n\n価格に関する情報はまだありませんが、VRAM容量が1.5倍になっていることから、少なくとも既存のGeForce RTX 5080 16GBモデルよりも高価になることが見込まれます。\n\n筆者は自作PC歴20年以上の経験を持ち、Windows OSの細部にわたるカスタマイズや高度な設定、PCゲームの最適化、PCハードウェアとソフトウェアに関する専門知識をもとに、PC環境を快適にするための情報、不具合に遭わないようにするための情報、そ…",
-      "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2025/03/nvidia-geforce-rtx-5000-series-top-g.jpg"
-    },
-    {
-      "Title": "【プライム感謝祭】キオクシアの960GB SATA SSDが税込18,680円に",
-      "Link": "https://www.gdm.or.jp/pressrelease/2026/1013/655889",
-      "Published": "2026-10-12T15:26:39Z",
-      "Source": "エルミタージュ秋葉原",
-      "Category": "",
-      "Summary": "【プライム感謝祭】キオクシアの960GB SATA SSDが税込18,680円に\n\nAmazonプライム感謝祭先行セールで、キオクシアの960GB SATA SSD「EXCERIA SSD-CK960S/R」が15％引きの税込18,680円。最大読込555MB/sec、書込540MB/secに対応する。\n\n【プライム感謝祭】キオクシアの960GB SATA SSDが税込18,680円に\n\nただいま開催中の「Amazonプライム感謝祭先行セール」にて、キオクシアの960GB SSD 「EXCERIA SSD-CK960S/R」 が、通常価格税込21,980円から15％引きの税込18,680円で販売されている。\n\nキオクシアの3次元フラッシュメモリ「BiCS FLASH」を採用した、2.5インチSATA SSD。インターフェイスはSATA 6Gbpsで、最大シーケンシャル読込速度555MB/s、書込速度540MB/sに対応する。\n\nSATA接続のHDDからの換装や、既存SSDの容量アップに適したモデル。専用の「SSD Utility」では、ドライブの状態監視やメンテナンスなどを行える。\n\n文： 編集部 松枝 清顕 キオクシア株式会社： https://www.kioxia.com/\n\n【プライム感謝祭】Fire TVの4Kモデル2製品が半額、税込3,980円から\n\n【プライム感謝祭】読書のお供に。Kindle Paperwhiteが5,000円…\n\n【プライム感謝祭】AMD「Ryzen 7 9800X3D」が税込58,800円で…\n\n【プライム感謝祭】4年保証版「Ryzen 5 5600」が2万円切りの税込19,…\n\n【プライム感謝祭】MSIのRTX 5080「GAMING TRIO OC」が34…\n\n【プライム感謝祭】NZXTの白い「H7 Flow」が税込13,867円、ファ…",
-      "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/10/13/EXCERIA_SSD-CK960S_R_001.jpg"
-    },
-    {
-      "Title": "Dropbox/1Passwordや翻訳機ポケトークS2などソースネクスト製品が最大85%オフ！Amazonプライム感謝祭",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2147269.html",
-      "Published": "2026-10-12T15:20:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "Dropbox/1Passwordや翻訳機ポケトークS2などソースネクスト製品が最大85%オフ！Amazonプライム感謝祭\n\nAmazon.co.jpにて、「プライム感謝祭」が10月16日（金）～10月19日（月） に開催予定。13日（火）より先行セールが開催中です。\n\nDropbox/1Passwordや翻訳機ポケトークS2などソースネクスト製品が最大85%オフ！Amazonプライム感謝祭\n\nAmazon.co.jpにて、「プライム感謝祭」が10月16日（金）～10月19日（月） に開催予定。13日（火）より先行セールが開催中です。\n\n期間中、ソースネクスト取り扱い製品がセール対象となっています。\n\nDropbox Plus 3年版は、2TBの大容量や自動バックアップ・同期機能、紛失・盗難時の遠隔削除機能を備えている点が特徴のクラウドストレージサービスの3年ライセンス。セール価格は32,500円。\n\n1Password 3年版 ファミリー(5人用)は、1つのマスターパスワードでのデータ管理やパスワードジェネレーター機能を備えた5人用パスワード管理サービスの3年ライセンス。セール価格は20,800円。\n\nソースネクスト 1Password 3年版 ファミリー(5人用)\n\nソースネクスト ZERO スーパーセキュリティは、更新料不要で端末の寿命まで保護できる点や高い防御力と軽快な動作を備えている点が特徴のセキュリティソフト。セール価格は3,180円から。\n\nAcronis Cyber Protect Home Office アドバンス 3台用 1年版は、セキュリティ機能の搭載やソースネクスト限定の250GBクラウドストレージを備えている点が特徴のバックアップソフト。セール価格は1,850円。\n\nソースネクスト Acronis Cyber Protect Home Office…",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2147/269/s1.jpg"
-    },
-    {
-      "Title": "プライム感謝祭の先行セール開始。Fire TV Stick 4K Selectが半額の3980円に",
-      "Link": "https://smhn.info/202610-amazon-prime-appreciation-early-sale-starts",
-      "Published": "2026-10-12T15:16:30Z",
-      "Source": "すまほん!!",
-      "Category": "プライム感謝祭",
-      "Summary": "プライム感謝祭の先行セール開始。Fire TV Stick 4K Selectが半額の3980円に\n\nAmazonのプライム会員限定セール「プライム感謝祭」の先行セールが、10月13日（火）0時に始まりました。期間は10月15日（木）23時59分までの3日間。10月16日（金）0時から19日（月）23時59分までの本番と合わせ、計7日間のセールとなります。ストリーミング端末では、...\n\nプライム感謝祭の先行セール開始。Fire TV Stick 4K Selectが半額の3980円に\n\nAmazonのプライム会員限定セール「プライム感謝祭」の先行セールが、10月13日（火）0時に始まりました。期間は10月15日（木）23時59分までの3日間。10月16日（金）0時から19日（月）23時59分までの本番と合わせ、計7日間のセールとなります。\n\nストリーミング端末では、「 Fire TV Stick 4K Select 」が50%オフの3980円。「 Fire TV Stick 4K Plus 」は30%オフの6980円、シリーズ最上位の「 Fire TV Stick 4K Max 」は27%オフの8980円となっています。\n\nスマートスピーカーとスマートディスプレイでは、「 Echo Dot（第5世代） 」が40%オフの4480円、画面付きの目覚まし時計「 Echo Spot（2024年発売） 」が39%オフの6980円。5.5型画面とカメラを備えた「 Echo Show 5（第3世代） 」は54%オフの5980円です。\n\n電子書籍リーダーのKindleは、6型の「 Kindle（16GB、広告なし） 」が15%オフの1万6980円、7型の「 Kindle Paperwhite（16GB、広告なし） 」が18%オフの2万2980円。カラー表示に対応した「 Kindle Co…",
-      "ImageURL": "https://smhn.info/wp-content/uploads/2026/09/prime-appreciation-sale.webp"
-    },
-    {
-      "Title": "高速無線LANルーターやnasneなどバッファロー製品が最大33%オフ！Amazonプライム感謝祭",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2147275.html",
-      "Published": "2026-10-12T15:15:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "高速無線LANルーターやnasneなどバッファロー製品が最大33%オフ！Amazonプライム感謝祭\n\nAmazon.co.jpにて、「プライム感謝祭」が10月16日（金）～10月19日（月） に開催予定。13日（火）より先行セールが開催中です。\n\n高速無線LANルーターやnasneなどバッファロー製品が最大33%オフ！Amazonプライム感謝祭\n\nAmazon.co.jpにて、「プライム感謝祭」が10月16日（金）～10月19日（月） に開催予定。13日（火）より先行セールが開催中です。\n\nWXR18000BE10Pは、10Gbps対応ポートや独自設計の外付けアンテナを備えたWi-Fi 7ルーター。セール価格は58,630円。\n\nWSR6500BE6Pは、2.5Gbps対応INTERNETポートを備えたWi-Fi 7ルーター。セール価格は22,500円。\n\nSSD-SDH1.0U3BA/Nは、リード最大1050MB/sのでMIL規格準拠の耐衝撃設計を備えた1TBポータブルSSD。セール価格は39,010円。\n\nBMPBSA10000BKXは、最大30WのPD給電に対応した10,000mAhの半固体モバイルバッテリー。セール価格は4,990円。\n\nBSACPD24005C4BKは、合計最大240Wの出力や4つのUSB Type-Cポート、電力自動分配機能を備えた卓上USB急速充電器。セール価格は12,980円。\n\nBSBT54D205BKは、Bluetooth 5.4への対応や挿すだけで使えるコンパクト設計のUSB Bluetoothアダプタ。セール価格は920円。\n\nnasne NS-N100は、「torne」アプリ対応で、ネットワーク経由でのテレビ録画・視聴機能を備えた2TB HDDレコーダー。セール価格は37,180円。",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2147/275/s1.jpg"
-    },
-    {
-      "Title": "Apple製品がプライム感謝祭で「ちゃんと、安い」。iPhone Air 1TBは38％オフ",
-      "Link": "https://gori.me/sale/peripheral-sale/171170",
-      "Published": "2026-10-12T15:14:00Z",
-      "Source": "gori.me",
-      "Category": "iPhone Air",
-      "Summary": "Apple製品がプライム感謝祭で「ちゃんと、安い」。iPhone Air 1TBは38％オフ\n\nAmazonプライム感謝祭のApple製品セール価格が判明。iPhone Air 1TBは38％オフの183,500円で、512GBとの差は11,900円。iPad Air（M4）は116,800円、Watch Series 11は60,900円から。純正クリアケースは67％オフ。買うべきモデルと注意点をまとめた。\n\nApple製品がプライム感謝祭で「ちゃんと、安い」。iPhone Air 1TBは38％オフ\n\n1TBと512GBの差は1万1,900円。今年最安ではないモデルもあるので注意\n\niPhone Air 1TBが38％オフの183,500円。512GBとの差はわずか11,900円\n\niPad Air（M4）は116,800円から、Apple Watch Series 11は60,900円から\n\n純正クリアケースは67％オフの2,900円。Apple製品はポイントアップ対象外\n\nAmazonプライム感謝祭 が始まり、Apple製品のセール価格が出そろった。目玉は iPhone Air 1TB で、294,800円から 183,500円（ 38％オフ ） まで下がった。 256GB も149,800円と、15万円を切っている。\n\niPad Air（M4） は128GBが116,800円、 Apple Watch Series 11 は42mmが60,900円、 AirPods Pro 3 は36,800円だ。この記事では、セール前に立てた僕の見立てと実際の値下げ幅を比べながら、どれが「買い」かを整理した。\n\n開催期間は、 先行セール が10月13日（火）0時〜15日（木）23時59分、 本セール が10月16日（金）0時〜19日（月）23時59分だ。先行セールの価格は本セー…",
-      "ImageURL": "https://gori.me/uploads/2025/09/iPhone17-17Pro-Air-Hands-On-Review-90.jpg"
-    },
-    {
-      "Title": "モバイルバッテリーやAIボイスレコーダーなどAnker製品が最大53%オフ！Amazonプライム感謝祭",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2147287.html",
-      "Published": "2026-10-12T15:10:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "モバイルバッテリーやAIボイスレコーダーなどAnker製品が最大53%オフ！Amazonプライム感謝祭\n\nAmazon.co.jpにて、「プライム感謝祭」が10月16日（金）～10月19日（月） に開催予定。13日（火）より先行セールが開催中です。\n\nモバイルバッテリーやAIボイスレコーダーなどAnker製品が最大53%オフ！Amazonプライム感謝祭\n\nAmazon.co.jpにて、「プライム感謝祭」が10月16日（金）～10月19日（月） に開催予定。13日（火）より先行セールが開催中です。\n\nAnker Nano Power Bank (10000mAh, 45W, 巻取り式 USB-Cケーブル)は、最大45W出力対応の巻取り式USB-Cケーブルやディスプレイ機能を備えた10,000mAhモバイルバッテリー。セール価格は5,190円。\n\nAnker Nano Power Bank (10000mAh, 45W, 巻取り式 USB-Cケーブル)\n\nAnker Nano Power Bank (MagGo, Plus)は、高い安全性を誇るネオリチウムイオンバッテリーを採用し、Qi2対応のマグネット式ワイヤレス充電に対応した厚さ約15mmの10,000mAhモバイルバッテリー。セール価格は9,590円。\n\nAnker Nano Power Bank (MagGo, Plus)\n\nAnker Charger (100W, 3 Ports) with USB-C \u0026 USB-Cケーブルは、最大100W出力対応で、タッチ操作対応モニターや折りたたみ式プラグを備えたUSB急速充電器。セール価格は5,990円。\n\nAnker Charger (100W, 3 Ports) with USB-C \u0026 USB-Cケーブル\n\nAnker Soundcore P42iは、ウルトラノイズキャン…",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2147/287/s1.jpg"
-    },
-    {
-      "Title": "「HomeView」が明日夜発表見込み〜発売日や仕様、本体カラーが判明！？",
-      "Link": "https://iphone-mania.jp/apple-607357/",
-      "Published": "2026-10-12T15:05:00Z",
-      "Source": "iPhone Mania",
-      "Category": "発売日",
-      "Summary": "「HomeView」が明日夜発表見込み〜発売日や仕様、本体カラーが判明！？\n\nAppleが2026年10月13日にニューヨークで開催する「Welcome home.」で発表する見込みのスマートホームハブについて、製品名は「HomeView」になるとの予想を、Bloombergのマーク・ガーマン記者がニュースレター「Power On」で、発売予想日、および主な仕様とともに伝えています。\n\n「HomeView」が明日夜発表見込み〜発売日や仕様、本体カラーが判明！？\n\nAppleが2026年10月13日にニューヨークで開催する 「 Welcome home. 」 で発表する見込みの スマートホームハブ について、製品名は「 HomeView 」になるとの予想を、Bloombergのマーク・ガーマン記者がニュースレター「Power On」で、 発売予想日 、および 主な仕様 とともに伝えています。\n\nこれまで、製品名はHomePadになるのではないかと噂されてきたスマートホームハブについて、発表直前に「HomeView」との予想が登場しました。直前という時期および予想的中率が高いガーマン記者の情報であることから、信憑性は高いと考えられます。\n\n「HomeView」の主な仕様は次の通りで、スマートホームハブとして伝えられてきたものと基本的に同じです。\n\nHomeViewには、 据え置き型と壁掛け型 の2つのバージョンがラインアップ\n\n据え置き型は、ディスプレイ部に加え金属製のスピーカーとマイクを搭載するベースを備える\n\n壁掛け型もディスプレイの下部で接続するベース部を備え、ベース部を壁面に固定する\n\n据え置き型 のベース部は、スペースグレイ、シルバー、スターライト、ピンクの 4色展開\n\n壁掛け型 のベース部は、スペースグレイとシルバーの 2色だけ\n\nHomeViewと同時に、新型Ho…",
-      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/10/12/HomeView-AH-1012.jpg"
-    },
-    {
-      "Title": "ASUSマザーボード卸価格、2026年10月の値上げ幅が判明",
-      "Link": "https://www.nichepcgamer.com/archives/post-132991.html",
-      "Published": "2026-10-12T15:03:51Z",
-      "Source": "ニッチなPCゲーマーの環境構築Z",
-      "Category": "マザーボード",
-      "Summary": "ASUSマザーボード卸価格、2026年10月の値上げ幅が判明\n\nASUS製マザーボードの2026年10月の卸価格値上げ幅が判明しました。 以前よりASUSが2026年10月にマザーボードの卸価格を値上げするとの情報が出ていましたが、中国サプライチェーンの情報筋に...\n\nASUS製マザーボードの2026年10月の卸価格値上げ幅が判明しました。\n\n以前 よりASUSが2026年10月にマザーボードの卸価格を値上げするとの情報が出ていましたが、中国サプライチェーンの情報筋によると、以下のように値上げされたとのこと。\n\n▼ASUS マザーボード 代理店向け卸価格値上げ幅 (1元＝23円換算)\n\nAMD X870E / X870チップセットマザーボード 一部モデルが約50～150元値上げ(約1,150～3,450円)\n\nAMD B850E / B850チップセットマザーボード 一部モデルが約30元値上げ(約690円)\n\nAMD B650E / B650チップセットマザーボード 据え置き\n\nAMD B550チップセットマザーボード 全モデルが約30元値上げ(約690円)\n\nAMD A520チップセットマザーボード 全モデルが約5元値上げ(約115円)\n\nIntel Z890 / Z790チップセットマザーボード 一部モデルが約30～100元値上げ(約690～2,300円)\n\nIntel B860チップセットマザーボード 主要モデルが約30元値上げ(約690円)\n\nIntel B760チップセットマザーボード TUF等の一部モデルが約30元値上げ(約690円)\n\nIntel Hシリーズチップセットマザーボード H610は据え置き。H510やH410などは約5元値上げ(約115円)\n\n2026年10月は、2026年9月比で最大約3,450円ほど値上げとされたとのことです。\n\nAMD X8…",
-      "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2026/08/asus-mb-top-a.jpg"
     }
   ],
   "world": [
+    {
+      "Title": "『コール オブ デューティ モダン・ウォーフェア 4』はここ数年で最高のキャンペーンになるかもしれない",
+      "Link": "https://www.kitguru.net/gaming/matthew-wilson/call-of-duty-modern-warfare-4-might-have-the-best-campaign-in-years/",
+      "Published": "2026-10-19T15:39:47Z",
+      "Source": "KitGuru",
+      "Category": "news",
+      "Summary": "『コール オブ デューティ モダン・ウォーフェア 4』はここ数年で最高のキャンペーンになるかもしれない\n\nCall of Duty のキャンペーンは長い間満場一致で賞賛されていませんでしたが、Modern Warfare 4 はその傾向を打破しています。このゲームは 10 月 23 日まで正式にリリースされませんでしたが、早期アクセス プレイヤーからはすでに数千件のレビューが Steam に殺到しており、その反響は異常に大きく、レビューの 93% がキャンペーンを推奨しています。\n\n『コール オブ デューティ モダン・ウォーフェア 4』はここ数年で最高のキャンペーンになるかもしれない\n\nMatthew Wilson 18 時間前 注目の技術ニュース , ソフトウェア \u0026 ゲーム\n\nCall of Duty のキャンペーンは長い間満場一致で賞賛されていませんでしたが、Modern Warfare 4 はその傾向を打破しています。このゲームは 10 月 23 日まで正式にリリースされませんでしたが、早期アクセス プレイヤーからはすでに数千件のレビューが Steam に殺到しており、その反響は異常に大きく、レビューの 93% がキャンペーンを推奨しています。予約注文の顧客は 10 月 16 日にシングルプレイヤー ストーリーにアクセスできるようになり、今週後半に対戦マルチプレイヤーのロックが解除されるまでキャンペーンを完了するまで 1 週間の猶予が与えられました。通常、これらの早期アクセス期間中に Steam のレビューは表示されませんが、Modern Warfare 4 にはすでにかなりのフィードバックが蓄積されており、その多くは異常に肯定的なものです。プレイヤーたちはビジュアルを賞賛していますが、それよりも重要なのは、多くの人がこれがここ数年で最高の Call of Duty キャンペーンだと言っていることです。キャンペーンとマルチプレイヤーは別個のモードですが、移動やゲームの武器ラインナップなどのコア システムは両方に共通しています。これらの要素は初期のインプレッション…",
+      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/09/COD4-732x330.jpg"
+    },
+    {
+      "Title": "中国のハッカーが AI エージェントを使用して 100 以上の企業 Web サイトに侵入",
+      "Link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/a-chinese-hacker-used-ai-agents-to-break-into-more-than-100-company-websites-deere-and-sharkninja-among-websites-hit-by-open-source-ai-powered-problem-solving-platform-demo",
+      "Published": "2026-10-19T15:36:50Z",
+      "Source": "Tom's Hardware",
+      "Category": "Tech Industry",
+      "Summary": "中国のハッカーが AI エージェントを使用して 100 以上の企業 Web サイトに侵入\n\nAI ボットにそれを実行させることができるのに、なぜ自分で Web サイトに侵入する必要があるでしょうか?\n\n中国のハッカーが AI エージェントを使用して 100 以上の企業 Web サイトに侵入 - オープンソースの AI を活用した問題解決プラットフォームのデモで攻撃された Web サイトの中に Deere と SharkNinja が含まれる\n\nAI ボットにそれを実行させることができるのに、なぜ自分で Web サイトに侵入する必要があるでしょうか?\n\n(画像クレジット: Getty) リンクをコピー\n\n3 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 中国語を話すハッカーが、人工知能 (AI) エージェントを使用して調査し、非常に有名な企業に属する 100 以上の Web サイトに不正アクセスするのが観察されました。農業機械メーカーの Deere から、人気のキッチン家電を開発する SharkNinja に至るまで、エージェントは、ハッカーの間で人気があるオープンソースの AI を活用した問題解決プラットフォームである Carin の公開されたインスタンスを利用することができたとロイターのレポートが説明しています。\n\nこれは、ハッカーが無防備な企業やサービスに対する攻撃を強化するために AI エージェントに目を向けた最新の例にすぎません。サイバーセキュリティ会社 NorForge の主任脅威研究者である Snorre Fagerland 氏は、不注意で公開された Carin インスタンスを観察していたときに、ハッカーのおかしな行為に気づきました。\n\nファーガーランド氏は複数のハッカーの業務を観察することができたが、中国語を話すハッカーが最も多作だったと報告書は述べている。標的となったのは、米国、カナダ、オーストラリア、および日本の電子商取引サイトに拠点を置く企業です。注目すべきは、このハッカーがAIエージ…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/A7Q3HWnLkUvNjuKTfUNdPA-2000-80.jpg"
+    },
+    {
+      "Title": "(PR) Attack Shark が R5 Turbo フラッグシップ カーボンファイバー ゲーミング マウスを発売",
+      "Link": "https://www.techpowerup.com/353878/attack-shark-launches-r5-turbo-flagship-carbon-fiber-gaming-mouse",
+      "Published": "2026-10-19T15:33:57Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "(PR) Attack Shark が R5 Turbo フラッグシップ カーボンファイバー ゲーミング マウスを発売\n\n高性能ゲーム周辺機器ブランド ATTACK SHARK は本日、R5 TURBO の今後のリリースを発表しました。この次世代フラッグシップ ワイヤレス ゲーミング マウスは、アップグレードされたハードウェア、デュアル 8K 接続、精密制御用に最適化された設計、および新しい Dune などの R5 ULTRA の成功を基盤としています。\n\nAttack Shark が R5 Turbo フラッグシップ カーボンファイバー ゲーミング マウスを発売\n\nATTACK SHARK の CEO 兼共同創設者である Gavin Cheng 氏は、「R5 ULTRA に対する市場の強い反応を受けて、私たちはさらに優れた精度とスピードを提供するためにさらに努力しました。R5 TURBO は、競争力のあるプレーヤーに最高のパフォーマンスを発揮するために必要なエッジを提供するという私たちの継続的な取り組みを表しています。」\n\n2026 年 8 月 22 日 RAWM が Leviathan V4 GT を発表: 100 ドル未満の磁気スイッチ ゲーミング マウス (2)\n\n2026 年 9 月 10 日 ウォールハックが高額な値札が付いた M-001 マグネシウム ゲーミング マウスを正式に明らかに (14)\n\n2026 年 7 月 13 日 ロジクール、第 2 世代 Superstrike 2 ゲーミング マウスを 9 月の発売に向けて準備中 (12)\n\n2026 年 10 月 8 日 Keychron が G6 HE ワイヤレス ゲーミング マウスを $89.99 の予約注文で正式に発売 (2)\n\n2026 年 5 月 4 日 マウス ブランド、ロジクール HITS に対抗する磁気マウス スイッチをラインナップ (13)\n\n2026 年 8 月 25 日 ASUS が Gamescom 2026 で ROG Gladius IV Ace ワイヤレス ゲーミング マウ…",
+      "ImageURL": "https://www.techpowerup.com/img/9rcvBzEf9Ogv477E.jpg"
+    },
+    {
+      "Title": "Apple インテリジェンスを示すワンストップ ツール",
+      "Link": "https://hackaday.com/2026/10/19/one-stop-tool-shows-apple-intelligence-the-door/",
+      "Published": "2026-10-19T15:30:11Z",
+      "Source": "Hackaday",
+      "Category": "macOS",
+      "Summary": "Apple インテリジェンスを示すワンストップ ツール\n\nMac に AI 機能を搭載したくないですか? 12 か所ほどの異なる場所で設定を探し出すという不完全な作業を望まない限り、運は厳しいでしょう。それでも、マルチギガバイトモデルは残ります…\n\nMac に AI 機能を搭載したくないですか? 12 か所ほどの異なる場所で設定を探し出すという不完全な作業を望まない限り、運は厳しいでしょう。それでも、数ギガバイトのモデルはディスク上に残ります。この現状に満足できず、[omlahore] は、Apple Intelligence に扉を示し、途中でディスク領域を再利用するワンストップショップのデブローターである RemoveMacAI を作成しました。\n\nRemoveMacAI を使用すると、個々の AI 機能をオフにし、その背後にあるモデルを削除し、閉じられたローカル ポートへの試行をリダイレクトすることで MacOS がモデルを再度ダウンロードするのをブロックできる単一の場所が得られます。\n\nこのツールの素晴らしい点は、各設定やプリセットが何を変更するのかが非常に透明であり、無効にすることで正確に何にアクセスできなくなるのかを明確に伝えることです。全部なくなってしまいたいですか？簡単。 1 つまたは 2 つの機能を使用しますが、残りは不要ですか?問題ない。すべての変更は、ツールが何かを変更する前に前もって表示され、すべての変更は元に戻すことができます。\n\nこのツールはほんの数週間前にリリースされたばかりですが、人気があると言っても過言ではありません。 Windows 11 には「AI 機能の削除」ツールもあり、機能を維持するには継続的な更新が必要です。将来の MacOS アップデートも同様に RemoveMacAI に干渉するのでしょうか?おそらくそうでしょうが、明らかなことが 1 つあります。このようなツールは、少なからぬ数のユーザーの共感を呼んでいるということです。",
+      "ImageURL": "https://hackaday.com/wp-content/uploads/2024/06/LargeLanguageModel.jpg"
+    },
+    {
+      "Title": "Samsung has good and bad news about One UI 9’s disappearing status bar icons",
+      "Link": "https://www.androidauthority.com/samsung-one-ui-9-quickstar-status-bar-icons-bug-3725088/",
+      "Published": "2026-10-19T15:27:27Z",
+      "Source": "Android Authority",
+      "Category": "Samsung One UI",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "Bose’s 2026 Lifestyle Ultra Soundbar is $254 off on Amazon",
+      "Link": "https://www.androidauthority.com/bose-new-lifestyle-ultra-soundbar-deal-3725118/",
+      "Published": "2026-10-19T15:24:46Z",
+      "Source": "Android Authority",
+      "Category": "Bose",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "(PR) HeroQuest: デジタル エディションが 2027 年に Steam 経由で PC に登場、クローズド ベータがまもなく開始",
+      "Link": "https://www.techpowerup.com/353877/heroquest-digital-edition-lands-on-pc-via-steam-in-2027-closed-beta-starts-soon",
+      "Published": "2026-10-19T15:23:22Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "(PR) HeroQuest: デジタル エディションが 2027 年に Steam 経由で PC に登場、クローズド ベータがまもなく開始\n\nNomad Games と Balor Games は、ダンジョン探索アドベンチャー ジャンルの定義に貢献した象徴的なテーブルトップ クラシックである HeroQuest の公式ライセンスを取得したバージョンである HeroQuest: Digital Edition を発表できることを嬉しく思います。 The MIX Fall Showcase で発表された HeroQuest: Digital Edition は、アクションをもたらします...\n\nHeroQuest: Digital Edition が 2027 年に Steam 経由で PC に登場、クローズドベータがまもなく開始\n\n2026 年 4 月 13 日 Epic Games ストアの従業員: 無料ゲームのためだけに来て、その後 Steam に戻ってきた人々 (91)\n\n2026 年 7 月 27 日 Palworld 幹部がサポート終了計画についてゲーマーに安心を与える (10)\n\n2026 年 5 月 26 日 NVIDIA GeForce グラフィックス ドライバー 610.47 WHQL がコントロール パネルのサポートを終了 (145)\n\n2026 年 6 月 30 日 シングルチャネル RAM により Steam マシンが機能不全に陥る (110)\n\n2026 年 8 月 3 日 AMD「Zen 6」は 1% の低音とゲーム内のスタッタリングを改善 (73)\n\n2026 年 9 月 30 日 Halo: Combat Evolved が分割画面協力プレイを備えた無料のブラウザ ポートを取得 (5)\n\n2026 年 8 月 28 日 ウィッチャー 3: ワイルドハント リマスター版 PC の最小ハードウェア要件 (52)\n\n2026 年 9 月 25 日 AnyPS5 プロジェクトはエミュレーションを完全にスキップし、PlayStation 5 ゲーム…",
+      "ImageURL": "https://www.techpowerup.com/img/hclWhC9Pf1zQCdpL.jpg"
+    },
+    {
+      "Title": "Pixel 10 Pro XL deal knocks $350 off Google’s big flagship",
+      "Link": "https://www.androidauthority.com/pixel-10-pro-xl-deal-amazon-3725112/",
+      "Published": "2026-10-19T15:04:19Z",
+      "Source": "Android Authority",
+      "Category": "Google Pixel 10",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "Not ready to hit the hay? Your Pixel Watch could get smarter about bedtime",
+      "Link": "https://www.androidauthority.com/pixel-watch-bedtime-snooze-3725055/",
+      "Published": "2026-10-19T14:35:07Z",
+      "Source": "Android Authority",
+      "Category": "Google Pixel Watch",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "(PR) TP-Link と Key Tronic、ルーター アセンブリを米国に導入する意向表明書に署名",
+      "Link": "https://www.techpowerup.com/353876/tp-link-and-key-tronic-sign-letter-of-intent-to-bring-router-assembly-to-the-united-states",
+      "Published": "2026-10-19T14:30:19Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "(PR) TP-Link と Key Tronic、ルーター アセンブリを米国に導入する意向表明書に署名\n\nネットワーキングおよびスマート ホーム ソリューションの世界的リーダーである TP-Link Systems Inc. は本日、米国に本拠を置く大手エレクトロニクス メーカーである Key Tronic Corp. と次世代製品アセンブリを米国に導入するための意向表明書 (LOI) を締結したと発表しました。 LOI は...\n\nTP-Link と Key Tronic、ルーター アセンブリを米国に導入する意向表明書に署名\n\n2026 年 9 月 30 日 TP-Link が初の Wi-Fi 8 ルーター Archer 8 Ultra の予約注文を開始 (6)\n\n2026 年 8 月 25 日 ASUS、初の Wi-Fi 8 ゲーミングルーター ROG Rapture GT-BN98 を発表 (42)\n\n2026 年 9 月 4 日 ASUS、10 月の全世界リリースに先駆けてカナダでの Wi-Fi 8 ルーターの発売を発表 (14)\n\n2026 年 10 月 13 日 TCL が Network X 2026 で 5G AI CPE X5 を展示 (0)\n\n2026 年 10 月 14 日 中国への ASML 出荷が 2026 年第 3 四半期のシステム売上高の 23% に急増 (3)\n\n2026 年 10 月 6 日 ASUS Republic of Gamers が ROG Rapture GT-BN98 ルーターを出荷 (8)\n\n2026 年 10 月 6 日 MediaTek が Network X 2026 で Filogic 8800 によるグローバル Wi-Fi 8 のリーダーシップを紹介 (12)\n\n2026 年 9 月 1 日 TP-Link が IFA 2026 で世界初の完全な Wi-Fi 8 ラインナップを発表 (7)\n\n2026 年 9 月 25 日 GL.iNet、Mango 2 (GL-MG1300) デュアルバンド ミニ トラベル…",
+      "ImageURL": "https://www.techpowerup.com/img/pJw93uMGy79i9FuX.jpg"
+    },
+    {
+      "Title": "キャンセルされたゲーム「アサシン クリード デスティニー」がリーク",
+      "Link": "https://www.kitguru.net/gaming/matthew-wilson/cancelled-game-assassins-creed-destiny-leaks/",
+      "Published": "2026-10-19T14:30:02Z",
+      "Source": "KitGuru",
+      "Category": "ubisoft",
+      "Summary": "キャンセルされたゲーム「アサシン クリード デスティニー」がリーク\n\nユービーアイソフトは、モバイル専用のジェイドを通じて『アサシン クリード』を中国に戻す準備を進めているが、この地域向けに第 2 のプロジェクトを計画していたことが判明した。新しいレポートによると、Ubisoft と Tencent はコンソールと PC 向けの『Assassin’s Creed』完全版の開発に密かに取り組んでいましたが、プロジェクトは最終的に終了しました。\n\nキャンセルされたゲーム「アサシン クリード デスティニー」がリーク\n\nMatthew Wilson 20 時間前 注目のテクノロジー ニュース , ソフトウェア \u0026 ゲーム\n\nユービーアイソフトは、モバイル専用のジェイドを通じて『アサシン クリード』を中国に戻す準備を進めているが、この地域向けに第 2 のプロジェクトを計画していたことが判明した。新しいレポートによると、ユービーアイソフトとテンセントはコンソールとPC向けのアサシン クリード完全版の開発に密かに取り組んでいましたが、プロジェクトは開発の早い段階でキャンセルされました。このレポートは MP1st からのもので、アサシン クリード デスティニーというタイトルのこれまで知られていなかったゲームの詳細とプロトタイプの映像が明らかになりました。このプロジェクトは、テンセントの子会社である TiMi Studio Group が主導し、Jade とも関わっています。 『Destiny』は『Jade』のタイムラインから数年後の秦王朝時代に設定されていたが、制作が適切に開始される前に廃棄されたようだ。素材の大部分は、2025 年 2 月のプロトタイプに由来しています。流出した映像には、歴史上の人物項羽とその軍隊によって包囲された神聖な宮殿に潜入する女性暗殺者を中心に構築されたミッションが示されている。項羽とのボスとの遭遇に関する初期の作業も見られます。他のクリップでは、ステルスキル、パルクール テイクダウン、信念の飛躍など、おなじみのシリーズの定番に焦点を当てています。 『アサシン…",
+      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/10/AC-Destiny-732x330.jpeg"
+    },
+    {
+      "Title": "Samsung may be giving its next rugged phone an unusual feature",
+      "Link": "https://www.androidauthority.com/samsung-galaxy-xcover-scan-rfid-reader-leak-3725030/",
+      "Published": "2026-10-19T14:25:54Z",
+      "Source": "Android Authority",
+      "Category": "Samsung",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "Your Pixel phone could soon turn any photo into an animated wallpaper",
+      "Link": "https://www.androidauthority.com/google-pixel-animated-ai-wallpaper-apk-teardown-3724969/",
+      "Published": "2026-10-19T14:14:24Z",
+      "Source": "Android Authority",
+      "Category": "Wallpapers",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "ラズベリーパイピコのハロウィン",
+      "Link": "https://www.raspberrypi.com/news/a-raspberry-pi-pico-halloween/",
+      "Published": "2026-10-19T14:10:57Z",
+      "Source": "Raspberry Pi News",
+      "Category": "Halloween",
+      "Summary": "ラズベリーパイピコのハロウィン\n\n恐怖と喜びをもたらす、石化する Raspberry Pi Pico プロジェクト。\n\n愚かな定命の者よ、今年も Raspberry Pi 公式マガジンの呪われたハックにようこそ。これらの残忍なビルドは背筋に悪寒をもたらし、アンデッドの腐敗したパーティーさえも「活気づける」でしょう。\n\n今年は、汚いお祭りの暗躍者として、小さな Raspberry Pi Pico に焦点を当てます。ただし、その小ささに騙されないでください。また、恐ろしいゲストを怖がらせる超自然的な幽霊を生み出すこともできます。さあ、プログラミングの魔法を練習し始めましょう – 魔女の時間が待っています…\n\nこの時期、地元のスーパーマーケットや金物店では、ハロウィーンのタット、失礼ですが、恐ろしいテロアイテムをたくさん見つけるでしょう。それらの中には、非常にクール (そして非常に手頃な価格) のものもありますが、何かを少し追加して使用することもできます。\n\nサーボ、センサー、HaaS (Halloween-as-a-Service、ナッチ) を使用したプロジェクトはたくさんありますが、これらの悪魔の発見を飾り付ける最も簡単な方法は、Pimoroni の友人から照明をアップグレードすることです。\n\nRaspberry Pi Pico よりもわずかに大きいボタン付き LED ストリップで、これらのプログラム可能なライトは装飾の中に簡単に差し込み、緑、オレンジ、紫でプログラムしてハロウィーンの雰囲気を醸し出すことができます。 Pico は自分で用意する必要がありますが、プログラミングは非常に簡単です。\n\nこの照明キットには、少なくともプログラム可能な LED のストリップとプラズマ 2350 W (基本的に LED を制御するように設計されたカスタム Raspberry Pi Pico 2 W) が含まれており、ハロウィーンの小道具のカスタム照明スキームを作成するのに最適です。ピモロニは、それ自体で簡単なハロウィーンの装飾として、ライトを入れるためのドクロボトルが付属するバージョ…",
+      "ImageURL": "https://www.raspberrypi.com/app/uploads/2026/10/pumpkin1-1024x437.png"
+    },
+    {
+      "Title": "Build Your Own LoRaWAN Gateway with LoraReach",
+      "Link": "https://www.hackster.io/news/build-your-own-lorawan-gateway-with-lorareach-f2caaf58728d",
+      "Published": "2026-10-19T14:10:25Z",
+      "Source": "Hackster.io",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
+    },
     {
       "Title": "PS6 RAM and SSD costs reportedly nearing $700",
       "Link": "https://www.kitguru.net/gaming/matthew-wilson/ps6-ram-and-ssd-costs-reportedly-nearing-700/",
@@ -6708,15 +6843,6 @@
       "ImageURL": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/MS_Surface_Laptop_Ultra_Feature-1152x648.jpg"
     },
     {
-      "Title": "Asus ProArt P16 RTX Spark Laptop Review - The future of multimedia laptops?",
-      "Link": "https://www.notebookcheck.net/Asus-ProArt-P16-RTX-Spark-Laptop-Review-The-future-of-multimedia-laptops.1422366.0.html",
-      "Published": "2026-10-16T12:00:00Z",
-      "Source": "Notebookcheck",
-      "Category": "reviews",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
       "Title": "Microsoft Surface Laptop Ultra レビュー: 真っ直ぐな美しい Windows PC の RTX Spark",
       "Link": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-surface-laptop-ultra-rtx-spark-review",
       "Published": "2026-10-16T12:00:00Z",
@@ -6724,6 +6850,15 @@
       "Category": "Tablets",
       "Summary": "Microsoft Surface Laptop Ultra レビュー: 真っ直ぐな美しい Windows PC の RTX Spark\n\nAI モデルには便利ですが、Windows 11 のさらなる機能が活用されるのを待っています。\n\nSurface Laptop Ultra は、Microsoft がこれまでに製造した中で最も美しいラップトップであり、RTX Spark は AI モデルに強力です。しかし、AI モデルを実行しない場合、通常の Windows ユーザーが利用するのに目新しいものは何もなく、このシステムは非常に高価です。\n\n+ 磁気接続ポートは楽しくて便利です\n\n+ AI モデルが好きな場合、RTX Spark は強力です\n\n+ 非常に明るいミニ LED スクリーン\n\n+ 修理用のラベルが見事に貼られています\n\n- バッテリー寿命が改善される可能性がある\n\n- Windows は RTX Spark が提供するものを活用していません\n\nTom's Hardware を信頼できる理由 当社の専門レビュー担当者は、お客様が最適なものを選択できるよう、何時間もかけて製品とサービスをテストおよび比較します。テスト方法について詳しくは、こちらをご覧ください。\n\nパフォーマンスを重視した Surface が登場してから数年が経ちました。 Nvidia のモバイル SoC への参入により、Microsoft は、RTX Spark を中心に設計されたウルトラプレミアム PC を開発したいくつかのハードウェア パートナーの 1 つです。\n\nSurface Laptop Ultra は、Surface がこれまでに製造した中で最も美しいラップトップです。画面が綺麗ですね。ポートの選択が強力で、金属製のシャーシは高級感があります。重いですが、それは AI モデルを実行するように設計された SoC を冷却する代償です。\n\nこれは、Qualcomm チップを使用していない最初の Windows on Arm ラップトップの 1 つでもあります。ここでは Microsoft と…",
       "ImageURL": "https://cdn.mos.cms.futurecdn.net/2euXU5qSKhStmYNM3oz75j-2520-80.jpg"
+    },
+    {
+      "Title": "Asus ProArt P16 RTX Spark Laptop Review - The future of multimedia laptops?",
+      "Link": "https://www.notebookcheck.net/Asus-ProArt-P16-RTX-Spark-Laptop-Review-The-future-of-multimedia-laptops.1422366.0.html",
+      "Published": "2026-10-16T12:00:00Z",
+      "Source": "Notebookcheck",
+      "Category": "reviews",
+      "Summary": "",
+      "ImageURL": ""
     },
     {
       "Title": "台湾は米国のチップ製造サプライチェーンを支援するため、テキサス州に工業団地を建設するために40億ドルを調達",
@@ -8866,141 +9001,6 @@
       "Category": "smart home",
       "Summary": "Apple初のスマートディスプレイは7インチのHomeViewで299ドル\n\nカメラで最大 6 人のユーザーを認識できます。\n\nテキスト設定 ストーリーテキスト サイズ 小 標準 大 幅 * 標準 ワイドリンク 標準 オレンジ * 購読者のみ 詳細はこちら ナビゲーションを最小限にする Apple は本日、HomeView スマート ホーム ハブの予約注文を開始しました。\n\nHomeView は 7 インチのスマート ディスプレイとスピーカーで、最大 6 人の家族が Apple のデバイス、アプリ、および現在ベータ版の Siri 生成 AI チャットボットのエコシステムにアクセスして制御するための中央アクセス ポイントになることを目指しています。\n\nユーザーは HomeView に話しかけて、たとえば Siri にスマート ブラインドを閉めたり、スマート ロックをアクティブにしたりするなど、スマート ホーム デバイスを制御できます。 HomeView では、最大 9 つのビデオ フィードのライブストリームを同時に表示することもできます。\n\n「サポートされているiCloud+サブスクリプションにより、HomeViewは互換性のあるカメラと連携して、人、馴染みのある顔、ペット、荷物、車両のインテリジェントなエンドツーエンド暗号化認識を実現し、誰かが玄関に到着した瞬間に世帯に通知します。HomeKitセキュアビデオ映像のビデオ説明により、HomeViewはユーザーがビデオクリップを見なくても、ビデオクリップで何が起こったのかをすぐに理解できるようにします」とAppleの発表では述べられている。\n\nAmazon Echo Show などのデバイスと競合する HomeView は、内蔵カメラを使用して誰が使用しているかを識別し、そのプロフィールを表示します。これにより、ユーザーは好みのアプリやウィジェットでカスタマイズできます。ユーザーは、HomeView プロファイルを Apple Intelligence をサポートする iPhone または iPad に接続し、ハブを使用し…",
       "ImageURL": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-lifestyle-living-room-261013-1152x648.jpg"
-    },
-    {
-      "Title": "Apple targets Google Nest in major smart home expansion",
-      "Link": "https://www.androidauthority.com/apple-launches-new-smart-home-collection-3722645/",
-      "Published": "2026-10-13T15:23:54Z",
-      "Source": "Android Authority",
-      "Category": "Smart Home",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "(PR) Corsair、新しい Elgato ワイヤレス マイクで急成長するモバイル レコーディング市場に参入",
-      "Link": "https://www.techpowerup.com/353675/corsair-enters-fast-growing-mobile-recording-market-with-new-elgato-wireless-microphone",
-      "Published": "2026-10-13T15:20:49Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "(PR) Corsair、新しい Elgato ワイヤレス マイクで急成長するモバイル レコーディング市場に参入\n\nCorsair ブランドの Elgato は本日、同社初のワイヤレス マイクである Wave Go を発表しました。これにより、Wave オーディオ ラインナップがデスクトップを超えて、1 つのポータブル システムにクリップオン マイクとハンドヘルド インタビュー マイクを備えた急速に成長しているモバイル レコーディング セグメントにまで拡張されました。世界的な発売により、Elgato は...\n\nCorsair、新しい Elgato ワイヤレス マイクで急成長するモバイル レコーディング市場に参入\n\nElgato の上級副社長兼ゼネラル マネージャー、ジュリアン フェスト氏 「現在、これまで以上に多くのコンテンツが、数年前には存在しなかった場所や方法で携帯電話で撮影されています。」「Wave Go はその世界のために作られました。1 つのマイクですべてを処理し、常に素晴らしいサウンドを提供します。」\n\n人気の Elgato エコシステムと統合: Wave Link と Stream Deck の統合により、モバイル レコーディングとデスクトップ プロダクションが接続されます。\n\n2 つの録音モード: 付属のスマート ハンドルを使用して、磁気クリップオン マイクからハンドヘルド インタビュー マイクに数秒で切り替えます。\n\n軽量設計: コインサイズの送信機の重さはわずか 7 グラムで、磁石で衣服に取り付けられます。\n\n自動オーディオ処理: EQ Shift は各モードのサウンド プロファイルを選択します。オートゲイン、リミッター、ローカットフィルターは、音声レベルと低周波のランブルを管理するのに役立ちます。\n\n合計最大 48 時間の稼働時間: 送信機は 1 回の充電で最大 8 時間使用でき、スマート ハンドルは最大 5 回のフル充電を保存します。 10 分の充電で約 1 時間使用できます。\n\nシンプルな電話録音: USB-C レシーバー経由で接続し、パスス…",
-      "ImageURL": "https://www.techpowerup.com/img/UPWUXEZcfJZQ6Gnj.jpg"
-    },
-    {
-      "Title": "(PR) 世界の 300mm ファブ装置支出は増強が加速し、2029 年には 2,270 億ドルに達する見込み",
-      "Link": "https://www.techpowerup.com/353674/global-300mm-fab-equipment-spending-to-reach-usd-227-billion-in-2029-as-buildout-accelerates",
-      "Published": "2026-10-13T15:13:45Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "(PR) 世界の 300mm ファブ装置支出は増強が加速し、2029 年には 2,270 億ドルに達する見込み\n\nSEMIは本日、最新の300mmファブ見通しで、世界の300mmフロントエンドファブ装置への支出は2026年に前年比31%増の1,490億ドルに達すると予測していると報告した。投資は2029年まで2桁の伸びを続け、2,270億ドルに達すると予想されている。より強力な投資...\n\n世界の300mmファブ設備支出は増強が加速し、2029年には2,270億ドルに達する見通し\n\nSEMI社長兼最高経営責任者（CEO）のアジット・マノーチャ氏は「半導体需要は世界の業界全体でますます物理的な製造の拡大に反映されている」「最新の見通しでは、設備投資の強化と稼働に向けた工場の実質的なパイプラインの両方が示されている。この拡大は、AI、高性能コンピューティング、幅広い次世代半導体アプリケーションをサポートするために必要な製造基盤を提供することになるだろう。」と述べた。\n\n2026 年 10 月 10 日 NVIDIA が RTX 5090 を終了、ワークステーション GPU 用に GB202 シリコンを確保 (184)\n\n2026 年 9 月 28 日 Panther Lake の分解調査では、Intel 18A が TSMC N3E 付近にあり、より新しい TSMC ノードがまだ先行していることが示されました (23)\n\n2026 年 9 月 14 日 世界の半導体売上高が 31% 急増し、2026 年第 2 四半期に 4,250 億ドルを記録 (0)\n\n2026 年 10 月 5 日 Rapidus が半導体の開発と量産のためのグローバル フレームワーク「Rapidus CORE」を発表 (10)\n\n2026 年 9 月 30 日 『ウィッチャー』のヘンリー・カヴィル氏、今年 11 月に Googlebook でビデオゲームを開発 (13)\n\n2026 年 10 月 8 日 AMD CEO が HBM のためにサムスンを訪問、サムスンは見返りにファウンドリの注文を望んでい…",
-      "ImageURL": "https://www.techpowerup.com/img/6ixoyDsHsV1HCv6T.jpg"
-    },
-    {
-      "Title": "Epic Games reportedly delays Disney shooter title so it can pivot to AI coding",
-      "Link": "https://www.tomshardware.com/video-games/pc-gaming/epic-games-reportedly-delays-disney-shooter-title-so-it-can-pivot-to-ai-coding-staff-allegedly-told-no-more-handwritten-code-with-art-generated-with-full-ai-workflows",
-      "Published": "2026-10-13T11:22:26Z",
-      "Source": "Tom's Hardware",
-      "Category": "Video Games",
-      "Summary": "Epic Games reportedly delays Disney shooter title so it can pivot to AI coding\n\nWill this speed up development times long-term?\n\nEpic Games reportedly delays Disney shooter title so it can pivot to AI coding — staff allegedly told 'no more handwritten code' with art 'generated with full AI workflows'\n\nWill this speed up development times long-term?\n\n(Image credit: Epic Games) Copy link\n\n5 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter Epic Games has reportedly delayed a shooter based on Disney’s Marvel and Star Wars franchises, with its developers told to use more AI. According to Bloomberg , the yet-to-be-named game was supposed to be released in March of 2027, but its launch date has been pushed back to an unspecified date. A…",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/hqZprYFGquysurMYwZSP5E-1920-80.jpg"
-    },
-    {
-      "Title": "Save $1440 when you go for this 4K gaming rig with a massive 64GB of DDR5 RAM and a 4TB SSD",
-      "Link": "https://www.tomshardware.com/monitors/gaming-monitors/save-usd1440-when-you-go-for-this-4k-gaming-rig-with-a-massive-64gb-of-ddr5-ram-and-a-4tb-ssd-cyberpowerpc-gamer-supreme-also-includes-an-rtx-5070-ti-and-ryzen-9-9950x-cpu",
-      "Published": "2026-10-13T11:18:35Z",
-      "Source": "Tom's Hardware",
-      "Category": "Monitors",
-      "Summary": "Save $1440 when you go for this 4K gaming rig with a massive 64GB of DDR5 RAM and a 4TB SSD\n\nPacked with RAM\n\nSave $1440 when you go for this 4K gaming rig with a massive 64GB of DDR5 RAM and a 4TB SSD — CyberPowerPC Gamer Supreme also includes an RTX 5070 Ti and Ryzen 9 9950X CPU\n\n(Image credit: Future) Copy link\n\n0 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter Buying some RAM or storage right now means burning a massive hole in your wallet; individual component prices have reached and surpassed all-time highs, with the best ways of grabbing either of these components at a more reasonable price limited to combo deals or prebuilt gaming PCs. That's where today's deal strikes. You can pick up a gaming PC at Walmart with a large…",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/eB9Gmgyg6D2wwLkB9UPWma-1920-80.jpg"
-    },
-    {
-      "Title": "AMD Showcases Its Next-Gen EPYC \"Verano\" CPU, Up to 192 Cores and LPDDR5X Memory",
-      "Link": "https://www.techpowerup.com/353662/amd-showcases-its-next-gen-epyc-verano-cpu-up-to-192-cores-and-lpddr5x-memory",
-      "Published": "2026-10-13T11:13:31Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "AMD Showcases Its Next-Gen EPYC \"Verano\" CPU, Up to 192 Cores and LPDDR5X Memory\n\nAMD showed off its next-generation EPYC \"Verano\" server CPUs during CEO Dr. Lisa Su opening keynote at the 2026 OCP Global Summit. The new CPU is the first EPYC processor to support LPDDR5X memory via SOCAMM2 modules. Now AMD is mirroring rival NVIDIA's Vera CPU that already uses SOCAMM2 modules....\n\nAMD Showcases Its Next-Gen EPYC \"Verano\" CPU, Up to 192 Cores and LPDDR5X Memory\n\nSep 17th 2026 AMD Plans 10% Price Hike Across GPUs, Chipsets, and Possibly CPUs (92)\n\nMay 31st 2026 AMD Formally Announces Ryzen 7 5800X3D 10th Anniversary Edition and Ryzen 7 7700X3D (171)\n\nApr 16th 2026 AMD to Re-launch Ryzen 7 5800X3D as \"AM4 10th Anniversary Edition\" (198)\n\nFeb 19th 2026 AMD Ryzen 10000 \"Olympic Ridge\" to Debut …",
-      "ImageURL": "https://www.techpowerup.com/img/6LY1CUApXyhBQL0n.jpg"
-    },
-    {
-      "Title": "Intel Refers to its 3D V-Cache Analog as \"BFC\"",
-      "Link": "https://www.techpowerup.com/353663/intel-refers-to-its-3d-v-cache-analog-as-bfc",
-      "Published": "2026-10-13T11:12:11Z",
-      "Source": "TechPowerUp",
-      "Category": "",
-      "Summary": "Intel Refers to its 3D V-Cache Analog as \"BFC\"\n\nIntel is introducing its analog to AMD's 3D V-Cache technology with its upcoming Core Ultra Series 4 \"Nova Lake\" desktop processors. We've known for over a year now, that the company is introducing SKUs with enlarged last-level caches. Technical docs leaks have until now referred to this...\n\nIntel Refers to its 3D V-Cache Analog as \"BFC\"\n\nJul 3rd 2026 Intel Readies Two 22-Core \"Nova Lake-S\" SKUs with 108 MB bLLC Cache for Gaming (279)\n\nJan 23rd 2026 Intel Core Ultra Series 4 \"Nova Lake\" Processors Launch in Late-2026 (62)\n\nOct 1st 2026 Intel Core Ultra 4000 \"Nova Lake-S\" Lineup Leaks With 28-Core 4970K BFC (103)\n\nJun 26th 2026 Intel \"Nova Lake-S\" 52-Core OC SKU to Draw 474 W in PL2 Mode (292)\n\nSep 7th 2026 Intel Set to Raise CPU Prices by Ano…",
-      "ImageURL": "https://www.techpowerup.com/img/NxaJ16EmoN23gSbO.jpg"
-    },
-    {
-      "Title": "V-Control's V-SoM Delivers Easy Prototyping for Power Electronics — Along with a Path to Production",
-      "Link": "https://www.hackster.io/news/v-control-s-v-som-delivers-easy-prototyping-for-power-electronics-along-with-a-path-to-production-26070cb28410",
-      "Published": "2026-10-13T11:01:13Z",
-      "Source": "Hackster.io",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "CXMT president says company’s first 4F² DRAM will be a server DDR5 RDIMM due by year-end",
-      "Link": "https://www.tomshardware.com/pc-components/dram/cxmt-president-says-companys-first-4f2-dram-will-be-a-server-ddr5-rdimm-due-by-year-end-vertical-transistors-cut-each-memory-cells-footprint-by-a-third-on-paper-but-no-speeds-or-capacities-yet",
-      "Published": "2026-10-13T11:00:00Z",
-      "Source": "Tom's Hardware",
-      "Category": "RAM",
-      "Summary": "CXMT president says company’s first 4F² DRAM will be a server DDR5 RDIMM due by year-end\n\nCXMT expects to sell a memory cell that Samsung and SK hynix have only shown in research papers so far.\n\nCXMT president says company’s first 4F² DRAM will be a server DDR5 RDIMM due by year-end — vertical transistors cut each memory cell’s footprint by a third on paper, but no speeds or capacities yet\n\nCXMT expects to sell a memory cell that Samsung and SK hynix have only shown in research papers so far.\n\n(Image credit: CXMT) Copy link\n\n1 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter CXMT expects to launch its first 4F² product, a server DDR5 RDIMM, by the end of the year, company president Cao Kanyu said in remarks reported by Yicai . Th…",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/mmbCfdW6LwANCbRCbop4hU-2225-80.jpg"
-    },
-    {
-      "Title": "Android 17 is coming to OnePlus and realme phones: Here is when your device gets Color OS 17",
-      "Link": "https://www.androidauthority.com/coloros-17-oneplus-realme-rollout-schedule-3722527/",
-      "Published": "2026-10-13T10:55:15Z",
-      "Source": "Android Authority",
-      "Category": "Realme",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "Massive Samsung Android XR glasses leak shows off all variants and specs",
-      "Link": "https://www.androidauthority.com/samsung-android-xr-smart-glasses-specs-colors-leak-3722498/",
-      "Published": "2026-10-13T10:35:48Z",
-      "Source": "Android Authority",
-      "Category": "Smart Glasses",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "Microchip MTCH3380P and MTCH3240P capacitive touch controllers support up to 64 buttons with parallel sensing",
-      "Link": "https://www.cnx-software.com/2026/10/13/microchip-mtch3380p-and-mtch3240p-capacitive-touch-controllers-support-up-to-64-buttons-with-parallel-sensing/",
-      "Published": "2026-10-13T10:33:57Z",
-      "Source": "CNX Software",
-      "Category": "multitouch",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "Survey shows Google’s recent Gemini downgrade isn’t going down well",
-      "Link": "https://www.androidauthority.com/google-gemini-downgrade-poll-results-3722506/",
-      "Published": "2026-10-13T10:32:20Z",
-      "Source": "Android Authority",
-      "Category": "Survey Results",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "Thinking of upgrading your Charge 6? The $179 Fitbit Edge has a major dealbreaker",
-      "Link": "https://www.androidauthority.com/fitbit-edge-vs-charge-6-3721779/",
-      "Published": "2026-10-13T10:30:21Z",
-      "Source": "Android Authority",
-      "Category": "Wearables",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "Jak and Daxter film gets first update in years",
-      "Link": "https://www.kitguru.net/gaming/mustafa-mahmoud/jak-and-daxter-film-gets-first-update-in-years/",
-      "Published": "2026-10-13T10:30:14Z",
-      "Source": "KitGuru",
-      "Category": "sony",
-      "Summary": "Jak and Daxter film gets first update in years\n\nAlmost 5 years on from its initial announcement, it appears as though the Jak and Daxter film is still on its way.\n\nJak and Daxter film gets first update in years\n\nMustafa Mahmoud 24 hours ago Featured Tech News , Lifestyle , Software \u0026 Gaming\n\nSince as far back as 2022 , we first started hearing about the potential for a Jak and Daxter film, with Ruben Fleischer – the director of Sony’s Uncharted movie – revealing at the time that he was in talks with Sony to head such a project. While nothing official has been confirmed in the years since , insiders have now claimed that the film is still going ahead, with Fleischer remaining committed to the project. Taking to Twitter , known film leaker DanielRPK offered a surprising-yet-welcome update re…",
-      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/10/daxter-732x330.jpg"
     }
   ]
 }
