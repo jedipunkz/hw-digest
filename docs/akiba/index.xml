@@ -1,6 +1,285 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Thu, 22 Oct 2026 13:46:58 +0000</lastBuildDate>
+<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Thu, 22 Oct 2026 18:31:50 +0000</lastBuildDate>
+<item><title>PHPとNode.jsが同じ日に緊急パッチ、どちらもリモートコード実行の恐れ</title><link>https://pc.watch.impress.co.jp/docs/news/2150351.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2150351.html</guid><pubDate>Thu, 22 Oct 2026 06:04:12 +0000</pubDate><description><![CDATA[<p>PHPとNode.jsが同じ日に緊急パッチ、どちらもリモートコード実行の恐れ
+
+さまざまなアプリケーションやWebサービスなどで広く使われているプログラミング言語やツールでの脆弱性報告が続いている。オープンソースのプログラミング言語「PHP」では10月21日、リモートコード実行につながる脆弱性があったとして情報とパッチを公開。JavaScript実行環境の「Node.js」でも同日、リモートコード実行につながるものを含む複数の脆弱性情報を公開し、パッチの提供を開始した。
+
+PHPとNode.jsが同じ日に緊急パッチ、どちらもリモートコード実行の恐れ
+
+さまざまなアプリケーションやWebサービスなどで広く使われているプログラミング言語やツールでの脆弱性報告が続いている。オープンソースのプログラミング言語「PHP」では10月21日、リモートコード実行につながる脆弱性があったとして情報とパッチを公開。JavaScript実行環境の「Node.js」でも同日、リモートコード実行につながるものを含む複数の脆弱性情報を公開し、パッチの提供を開始した。
+
+The PHP Foundationでは、メモリ不足(OOM、Out-of-Memory)のエラー処理に起因する「CVE-2026-109618」と、リクエストの処理に関する「CVE-2026-109619」の2件の脆弱性情報を公開。これらを悪用することで、認証されていない攻撃者がPHPの稼働するサーバー上で任意のコードを実行できてしまう(通称PHP2Shell)。CVSS v4.0のスコアはいずれも9.2。
+
+パッチはすでにリリースされており、PHP 8.5.12、8.4.27、8.3.36、8.2.35へアップデートすることで修正を適用可能。LinuxディストリビューションおよびLTSベンダーにも事前にパッチを提供済みで、ベンダーからの更新を適用してほしいとしている。
+
+なお、PHP 5.4系からPHP 8.1系については、PHP Projectからのアップデートの提供が終了している。深刻な脆弱性であるため、PHP 7.4系、8…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2150/351/01.jpg" alt="PHPとNode.jsが同じ日に緊急パッチ、どちらもリモートコード実行の恐れ"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2150351.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2150/351/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2150/351/01.jpg"/></item>
+<item><title>EIZO、消費電力9Wで120Hz対応のに23.8型液晶「FlexScan EV2401S」</title><link>https://pc.watch.impress.co.jp/docs/news/2150364.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2150364.html</guid><pubDate>Thu, 22 Oct 2026 06:03:50 +0000</pubDate><description><![CDATA[<p>EIZO、消費電力9Wで120Hz対応のに23.8型液晶「FlexScan EV2401S」
+
+EIZOは、23.8型フルHD液晶モニター「FlexScan EV2401S」を2027年1月15日に発売する。価格はオープンプライスで、直販価格は6万3,800円。
+
+EIZO、消費電力9Wで120Hz対応のに23.8型液晶「FlexScan EV2401S」
+
+EIZOは、23.8型フルHD液晶モニター「FlexScan EV2401S」を2027年1月15日に発売する。価格はオープンプライスで、直販価格は6万3,800円。
+
+FlexScan EV2401Sは、120Hz表示に対応するIPSパネルを採用した省電力モデル。標準消費電力9Wを実現しながら、画面のスクロールやウィンドウの移動を滑らかに表示する。7年間の標準保証にも対応する。
+
+主な表示仕様は、解像度が1,920×1,080ドット、リフレッシュレートが120Hz(可変リフレッシュレート対応)、輝度が350cd/平方m、コントラスト比が1,500:1。
+
+インターフェイスは、USB Type-C、DisplayPort、HDMIを備えるほか、USBハブ用のType-Aを4基搭載する。
+
+本体サイズは537.8×253.1mm(幅×奥行き)で、重量は未発表。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2150/364/001.jpg" alt="EIZO、消費電力9Wで120Hz対応のに23.8型液晶「FlexScan EV2401S」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2150364.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2150/364/001.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2150/364/001.jpg"/></item>
+<item><title>180度開く15.6型と16型ノート「Aspire Lite」、14万円台から</title><link>https://pc.watch.impress.co.jp/docs/news/2150358.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2150358.html</guid><pubDate>Thu, 22 Oct 2026 05:53:40 +0000</pubDate><description><![CDATA[<p>180度開く15.6型と16型ノート「Aspire Lite」、14万円台から
+
+日本エイサーは10月22日、ノートPC「Aspire Lite」シリーズの新モデルとして、15.6型の「Aspire Lite 15」および16型の「Aspire Lite 16」の2モデル4機種を発売した。
+
+180度開く15.6型と16型ノート「Aspire Lite」、14万円台から
+
+日本エイサーは10月22日、ノートPC「Aspire Lite」シリーズの新モデルとして、15.6型の「Aspire Lite 15」および16型の「Aspire Lite 16」の2モデル4機種を発売した。
+
+Aspire Liteシリーズは、Web閲覧や資料作成、オンライン学習など日常的な用途を想定したスタンダードノートPC。ヒンジは180度まで開くため、対面で画面を共有するといった使い方もできる。また、Aspire Lite 16は、CPUにNPU「インテル AI Boost」を内蔵したCore Ultraを採用。NPUのAI処理性能は最大11TOPSとなっている。
+
+Aspire Lite 15の「AL15-53P-N56Y」はCPUにCore 5 120Uを搭載し、直販価格は14万9,800円。「AL15-53P-N76Y」はCPUにCore 7 150Uを搭載し、直販価格は16万9,800円。
+
+それ以外の仕様は共通で、メモリがDDR4-3200 16GB(8GB×2)、ストレージが512GB NVMe SSD、ディスプレイがフルHD(1,920×1,080ドット)表示対応の15.6型非光沢IPS液晶、OSがWindows 11 Home。
+
+インターフェイスは、USB 3.2 Gen 1 Type-C 2基(うち1基はDisplayPort Alt Mode対応、2基ともUSB PD対応)、USB 3.2 Gen 1 3基、HDMI出力、Wi-Fi 6、Bluetooth 5.2、フルHD対応Webカメラ、microSDカードスロット、音声入出力などを搭載する。
+
+バッテリはリチウムイオ…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2150/358/1.jpg" alt="180度開く15.6型と16型ノート「Aspire Lite」、14万円台から"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2150358.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2150/358/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2150/358/1.jpg"/></item>
+<item><title>Pulsarのガラスマウスパッド「Superglide3 Type S」に尊みを感じて桜井さんコラボモデル</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2150044.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2150044.html</guid><pubDate>Thu, 22 Oct 2026 05:05:00 +0000</pubDate><description><![CDATA[<p>Pulsarのガラスマウスパッド「Superglide3 Type S」に尊みを感じて桜井さんコラボモデル
+
+Pulsar Gaming Gearsのガラス製ゲーミングマウスパッド「Superglide3 Glass Mousepad - Type S」に、コスプレイヤー/VTuberコラボモデルが登場、23日（金）から店頭販売が始まる。
+
+Pulsarのガラスマウスパッド「Superglide3 Type S」に尊みを感じて桜井さんコラボモデル
+
+Pulsar Gaming Gearsのガラス製ゲーミングマウスパッド「Superglide3 Glass Mousepad - Type S」に、コスプレイヤー/VTuberコラボモデルが登場、23日（金）から店頭販売が始まる。
+
+今回入荷したのは「Toutomi wo kanjite Sakurai」のMサイズモデル（型番 SGPMTWKJSKR3S）で、店頭価格は8,470円。
+
+Superglide3は、アルミノシリケートガラスを採用したPulsar製ゲーミングマウスパッド。
+
+今回のコラボレーションモデルではコスプレイヤー/VTuberの尊みを感じて桜井さんのイラストをプリントしたデザインが特徴。
+
+デザイン以外の仕様は通常モデルと共通で、今回のType Sは高速でなめらかかつ一貫性のある滑りで、スピードタイプの滑走面をうたう。
+
+サイズは330×260×2.5mm（ガラス面1.5mm + シリコンラバー 1mm）。
+
+[取材協力: ツクモパソコン本店 と パソコンショップ アーク ]</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2150/044/s1.jpg" alt="Pulsarのガラスマウスパッド「Superglide3 Type S」に尊みを感じて桜井さんコラボモデル"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2150044.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2150/044/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2150/044/s1.jpg"/></item>
+<item><title>深刻度9.2のPHP脆弱性「PHP2Shell」、OpenAIが影響確認ツール公開</title><link>https://pc.watch.impress.co.jp/docs/news/2150338.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2150338.html</guid><pubDate>Thu, 22 Oct 2026 04:59:59 +0000</pubDate><description><![CDATA[<p>深刻度9.2のPHP脆弱性「PHP2Shell」、OpenAIが影響確認ツール公開
+
+Webサイトの多くを支えるPHPで、認証なしにサーバー上でコードを実行される恐れのある脆弱性「PHP2Shell」が見つかり、PHPプロジェクトが予定を前倒しして修正版をリリースした。OpenAIは10月21日、Webサイトがこの脆弱性の影響を受けるかどうかを確認できるツール「PHP Version Checker」を、Apache License 2.0のもとGitHubで公開した。
+
+深刻度9.2のPHP脆弱性「PHP2Shell」、OpenAIが影響確認ツール公開
+
+Webサイトの多くを支えるPHPで、認証なしにサーバー上でコードを実行される恐れのある脆弱性「PHP2Shell」が見つかり、PHPプロジェクトが予定を前倒しして修正版をリリースした。OpenAIは10月21日、Webサイトがこの脆弱性の影響を受けるかどうかを確認できるツール「PHP Version Checker」を、Apache License 2.0のもとGitHubで公開した。
+
+PHP2Shell(共通脆弱性識別子: CVE-2026-109618/CVE-2026-109619)は10月21日に公表されたもので、修正版より前のPHP 5.4以降を実行するWebサーバーが影響を受ける。この脆弱性は、米Wizの研究チームであるWiz Researchが、「Gemini 4 Argon」や「GPT-5.6 Sol」などを活用した調査で発見した。リモートコード実行を可能にするもので、CVSS 4.0において深刻度は9.2と評価された。影響範囲は広く、多くのサービスが一時停止する事態となっている。
+
+OpenAIが公開したPHP Version Checkerは、Node.jsだけで動作する。URLを指定するとHTTPレスポンスヘッダーからPHPのバージョンを読み取り、修正版より前のバージョンかどうかを判定する。ローカル環境のPHPを調べることもできるほか、Codex向けのスキルとしても提供される。
+
+ただし、同ツ…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2150/338/1.jpg" alt="深刻度9.2のPHP脆弱性「PHP2Shell」、OpenAIが影響確認ツール公開"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2150338.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2150/338/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2150/338/1.jpg"/></item>
+<item><title>iPhone Duoが出荷完了！発売日の10月23日に到着予定</title><link>https://iphone-mania.jp/iphone18-607704/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-607704/</guid><pubDate>Thu, 22 Oct 2026 04:56:32 +0000</pubDate><description><![CDATA[<p>iPhone Duoが出荷完了！発売日の10月23日に到着予定
+
+筆者が注文したiPhone Duoが「出荷完了」になりました。予定通り、発売日の2026年10月23日に配送される見込みです。
+
+iPhone Duoが出荷完了！発売日の10月23日に到着予定
+
+筆者が注文した iPhone Duoが「出荷完了」 になりました。予定通り、 発売日の2026年10月23日に配送 される見込みです。
+
+購入したのはiPhone Duoのスターホワイト、512GBモデルです。 10月21日午前0時30分頃に「配送準備中」 となっていましたが、 発売日前日の22日に出荷完了 となりました。
+
+このiPhone Duoは、 「【独自データ】iPhone Duoの予約は何日待つ？」記事 でお伝えした通り、10月16日の予約注文開始直後にApple Storeアプリから注文したものです。
+
+今回も発送元は、iPhoneの配送では馴染み深いADSCロジセンターで、配送はヤマト運輸が担当します。Appleからの出荷完了メールには、送り状番号も記載されています。
+
+出荷完了報告のメールから数分後に、請求金額のお知らせメールも受信しています。
+
+「iPhone Duoの発売日配送分が『配送準備中』に〜海外では開封動画も」記事 でも報告した通り、予約注文は次のような経緯で完了しました。
+
+予約注文当日は、事前に 予約注文の準備を完了 した状態で待機していました。
+
+iPhone18 ProのApple Storeアプリを使用し、 注文画面が表示されたのは午後9時0分43秒頃 、注文完了画面が表示されたのは午後9時0分45秒頃でした。
+
+予約注文の準備を済ませていたことで、本体カラーやストレージ容量、支払い方法などを改めて選択する必要がなく、注文開始後すぐに完了まで進むことができました。
+
+10月16日午後9時0分47秒には、Appleから「ご注文内容をご確認ください」メールを受信しました。予約開始から47秒後、注文完了画面が表示されてから約2秒後のことです。
+
+その後、「ご注文ありがとうございま…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/10/22/iphone-duo-delivery-date_1.jpg" alt="iPhone Duoが出荷完了！発売日の10月23日に到着予定"></p>]]></description><source url="https://iphone-mania.jp/iphone18-607704/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/10/22/iphone-duo-delivery-date_1.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/10/22/iphone-duo-delivery-date_1.jpg"/></item>
+<item><title>「動作ヨシ」。バイブコーディング勢に刺さる稼働状況が見えるミニPC</title><link>https://pc.watch.impress.co.jp/docs/news/2150330.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2150330.html</guid><pubDate>Thu, 22 Oct 2026 04:35:25 +0000</pubDate><description><![CDATA[<p>「動作ヨシ」。バイブコーディング勢に刺さる稼働状況が見えるミニPC
+
+既にAIエージェントをミニPCで回しているユーザーに注目の1台が現れた。リンクスインターナショナルは、千葉・幕張メッセで10月23日まで開催中のJapan IT Weekに出展し、同社が取り扱っている複数社のミニPCを展示している。
+
+「動作ヨシ」。バイブコーディング勢に刺さる稼働状況が見えるミニPC
+
+既にAIエージェントをミニPCで回しているユーザーに注目の1台が現れた。リンクスインターナショナルは、千葉・幕張メッセで10月23日まで開催中のJapan IT Weekに出展し、同社が取り扱っている複数社のミニPCを展示している。
+
+小型ディスプレイ搭載でAIエージェントの稼働監視に便利なEU738-AI ULTRA
+
+その中でひときわ目立つのが、MINIXの「EU738-AI ULTRA」だ。この機種がユニークなのは、本体上部に小型のディスプレイを備えており、CPU/GPU/NPUの使用率や、ファンの回転速度などを即座に確認できる点である。
+
+一般的なデスクトップ用途では、このパネルの出番はほとんどない。ソフトウェア上から確認すれば良いからだ。一方、ミニPC上でAIを使ってバイブコーディングし、ソフトウェアを開発しているユーザーなら、すぐにこの有用性に気づくだろう。たとえ最先端のAIモデルを使っていても、コマンド処理が失敗したまままったく進行していないのに気づかず、数時間無駄にすることがまれにあるからだ。
+
+その時間の無駄を解消するために、わざわざモニターを接続し、タスクマネージャーを立ち上げてまで動作を監視するユーザーもいるが、正直なところ非効率的だ。このような常時表示のステータスパネルがあれば、別途モニターを接続する必要もないわけだ。
+
+このほかEU738-AI ULTRAは、CPUにCore Ultra X7 358H、メモリに64GB LPDDR5X-8533、ストレージ用にPCIe 5.0 x4対応M.2 2280スロット、OSにWindows 11 Proなどを搭載する。
+
+インターフ…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2150/330/4.jpg" alt="「動作ヨシ」。バイブコーディング勢に刺さる稼働状況が見えるミニPC"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2150330.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2150/330/4.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2150/330/4.jpg"/></item>
+<item><title>爆安セール、おかえり！M4 iMacの24GB/512GBが25％オフ、AppleCare+つき</title><link>https://gori.me/sale/peripheral-sale/171647</link><guid isPermaLink="true">https://gori.me/sale/peripheral-sale/171647</guid><pubDate>Thu, 22 Oct 2026 04:12:32 +0000</pubDate><description><![CDATA[<p>爆安セール、おかえり！M4 iMacの24GB/512GBが25％オフ、AppleCare+つき
+
+M4搭載iMacの24GBメモリ・512GB SSDモデル（グリーン）が、3年延長AppleCare+付きで25％オフになっている。セット品の参考価格391,600円が295,120円になり、96,480円安い。プライム感謝祭は終わったが、値下げは続いている。M6発表前の狙い目だ。
+
+爆安セール、おかえり！M4 iMacの24GB/512GBが25％オフ、AppleCare+つき
+
+在庫切れだった24GBモデルが再び狙い目に。AIやタブを多用する人にも向く
+
+AppleCare+付きのM4 iMac（24GB／512GB、グリーン）が25％オフの295,120円に
+
+参考価格391,600円から96,480円安い。プライム感謝祭の後も値下げが続いている
+
+24GBメモリなので、AIやタブを多用する人にも向く。M6は10月27日ごろの発表と噂される
+
+M4 搭載の iMac（24GBメモリ、512GB SSD、グリーン）＋3年延長AppleCare+ が、 Amazon で 25％オフ になっている。セット品の参考価格391,600円が295,120円になり、96,480円安い。
+
+プライム感謝祭 は10月19日に終わったが、その後もこの値下げが続いている。セール期間は明記されていないので、気になる人はこの機会を逃さないようにしたい。
+
+今回のグリーンは、これまで紹介してきた M4 iMac の中でも上位の構成だ。 メモリ が24GB、ストレージが512GBあり、3年分の保証も付いている。
+
+ゴリミーが10月10日に紹介した24GB メモリ のシルバーは、その後在庫切れになった。24GBを狙っていて買い逃した人にとっては、うれしい再チャンスになる。
+
+メモリ とは、アプリを動かすときに使う「作業机」のようなもので、広いほど多くのアプリを同時に開いても動作が重くなりにくい。16GBのモデルでは物足りないかもしれない、と書いてきた人にも、24GBならすすめやすい。
+
+ブラウザの…</p><p><img src="https://gori.me/uploads/2026/10/mesh-VCmHaNtJwxI-unsplash.jpg" alt="爆安セール、おかえり！M4 iMacの24GB/512GBが25％オフ、AppleCare+つき"></p>]]></description><source url="https://gori.me/sale/peripheral-sale/171647">gori.me</source><media:content url="https://gori.me/uploads/2026/10/mesh-VCmHaNtJwxI-unsplash.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/10/mesh-VCmHaNtJwxI-unsplash.jpg"/></item>
+<item><title>iPhone Duo、3万2640回折り曲げてもヒンジが健在であることが判明。</title><link>https://smhn.info/202610-iphone-duo-hinge-32640-folds-robot-test</link><guid isPermaLink="true">https://smhn.info/202610-iphone-duo-hinge-32640-folds-robot-test</guid><pubDate>Thu, 22 Oct 2026 04:05:00 +0000</pubDate><description><![CDATA[<p>iPhone Duo、3万2640回折り曲げてもヒンジが健在であることが判明。
+
+折りたたみスマホを選ぶ上で、ヒンジの耐久性は長く使えるかを左右する重要な要素です。Samsung DisplayはGalaxy Z Fold7の画面パネルについて50万回の折り曲げ試験合格を発表している一方、Appleは初の折りたたみ機「iPhone Duo」の開閉回数の目安を公...
+
+iPhone Duo、3万2640回折り曲げてもヒンジが健在であることが判明。
+
+折りたたみスマホを選ぶ上で、ヒンジの耐久性は長く使えるかを左右する重要な要素です。Samsung DisplayはGalaxy Z Fold7の画面パネルについて50万回の折り曲げ試験合格を発表している一方、Appleは初の折りたたみ機「iPhone Duo」の開閉回数の目安を公表していません。
+
+そうしたなか、米国のテック記者Joanna Stern氏が、自作の折り曲げ機でiPhone Duoを4晩かけて3万2640回開閉させるテストを実施しました。
+
+テストの結果、ヒンジの感触は初日とほぼ変わらず、計測ではむしろ少し硬くなっていたとのこと。10月23日（金）の発売を前に、Appleが明かしていない耐久性の手がかりを示す検証結果となっています。
+
+Stern氏はThe Wall Street Journalで12年間コラムや動画を担当した後、独立メディア「New Things」を立ち上げた記者。10月21日に公開したiPhone Duoのレビュー動画とニュースレターで、今回の検証結果を報告しました。
+
+試験に使ったのは「Hingey」と名付けた自作の折り曲げ機です。ハードウェアデザイナーのAron Cohen氏が、サーボモーターと3Dプリント部品を組み合わせて製作しました。
+
+テストでは、ケースを装着したiPhone DuoをHingeyにセット。1分間に17回のペースで毎晩8時間動かし続け、1晩で8160回、4晩で計3万2640回の開閉を行いました。
+
+Meet Hingey, our custom-built iPho…</p><p><img src="https://smhn.info/wp-content/uploads/2026/10/capture_20261022_104840_608_A47315.webp" alt="iPhone Duo、3万2640回折り曲げてもヒンジが健在であることが判明。"></p>]]></description><source url="https://smhn.info/202610-iphone-duo-hinge-32640-folds-robot-test">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/10/capture_20261022_104840_608_A47315.webp" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/10/capture_20261022_104840_608_A47315.webp"/></item>
+<item><title>世界最軽量634gの14型「FMV Note U」、全機種Copilot+ PCに</title><link>https://pc.watch.impress.co.jp/docs/news/2149953.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2149953.html</guid><pubDate>Thu, 22 Oct 2026 04:00:00 +0000</pubDate><description><![CDATA[<p>世界最軽量634gの14型「FMV Note U」、全機種Copilot+ PCに
+
+富士通のノートPC秋冬モデルが、今年(2026年)もやってきた。14型でありながら重量わずか634gのモバイルノート「FMV Note U」を始め、スタイリッシュな「FMV Note C」など、多彩なラインナップを揃える。価格はすべてオープンプライス。
+
+世界最軽量634gの14型「FMV Note U」、全機種Copilot+ PCに
+
+富士通のノートPC秋冬モデルが、今年(2026年)もやってきた。14型でありながら重量わずか634gのモバイルノート「FMV Note U」を始め、スタイリッシュな「FMV Note C」など、多彩なラインナップを揃える。価格はすべてオープンプライス。
+
+秋冬モデルでは、11.6型の「FMV Note Q」を除いてすべてAI PCへと進化。うち4機種がCopilot+ PCに準拠した。添付の独自アプリケーション「Reclip」は、PC内の写真/動画検索処理用にNPUを利用し、システム負荷を低減しつつ処理を高速化。また、「Quick Capture」もNPUを利用したOCR技術で取り込んだ資料から文字情報を抽出し、AIを用いたコンテンツ解析により、キーワードを含む画像を素早く検索できる。
+
+FMV Note Uは、最軽量時約634gと14型で世界最軽量をうたうモバイルノート。発売は11月13日。
+
+軽量性の特徴を維持しながら、CPUとして新たにCore Ultraシリーズ3が搭載可能となり、省電力パネルの採用や部材の見直しなどにより、前機種と比較してバッテリ駆動時間が延長した。
+
+また、今回から全モデルがCopilot+ PCに対応し、CPUはIntel、AMD、Qualcommの3社から選べるようになった。MIL規格(MIL-STD-810H)準拠の試験…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2149/953/1.png" alt="世界最軽量634gの14型「FMV Note U」、全機種Copilot+ PCに"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2149953.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2149/953/1.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2149/953/1.png"/></item>
+<item><title>FMVの世界最軽量ノート「Note U」シリーズにバッテリー交換可能な新モデル、『ゴジラ-0.0』コラボや「Note M」も</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2149450.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2149450.html</guid><pubDate>Thu, 22 Oct 2026 04:00:00 +0000</pubDate><description><![CDATA[<p>FMVの世界最軽量ノート「Note U」シリーズにバッテリー交換可能な新モデル、『ゴジラ-0.0』コラボや「Note M」も
+
+富士通クライアントコンピューティング（FCCL）のPCブランド「FMV」より、モバイルノートPC「Note Uシリーズ」「Note Mシリーズ」の新モデルが登場。
+
+FMVの世界最軽量ノート「Note U」シリーズにバッテリー交換可能な新モデル、『ゴジラ-0.0』コラボや「Note M」も
+
+富士通クライアントコンピューティング（FCCL）のPCブランド「FMV」より、モバイルノートPC「Note Uシリーズ」「Note Mシリーズ」の新モデルが登場。
+
+Note Uシリーズは、軽量設計が特徴の14インチモバイルノートPC。
+
+店頭販売モデルはCore Ultra 7 355搭載の「UX-L3」、Ryzen AI 7 445搭載の「U77-L3」、Ryzen AI 5 430搭載の「U59-L3」、Ryzen AI 5 430搭載の「U55-L3」、Snapdragon X X1-26-100搭載の「UQ-L3」の5機種で、想定販売価格は税別26万円強から。
+
+本体カラーはピクトブラック、シルバーホワイト（U77/U59/U55のみ）。
+
+100以上の軽量化施策を重ね、2026年冬モデルでも約634g（UX-L3）の本体重量を維持。14インチワイド液晶ノートとして世界最軽量をうたう。
+
+Uシリーズでは軽さが評価されている一方で、ユーザーからの不満点としてバッテリー駆動時間が挙げられたという。
+
+それらの声を背景に、最軽量モデルのUX-L3では、新プロセッサーや省電力液晶パネルの導入などにより、バッテリー駆動時間（JEITA 3.0/動画再生時）を2025年冬モデルの7時間から7.5時間に改善。前機種比で107%の駆動時間向上を実現しているとする。
+
+さらに「U59-L3」では、一部のFMV Storeカスタムメイド2in1モデルで用意されていた、ユーザーがバッテリー交換可能な設計を採用。工具不要でバッテリーを交換でき、メーカー修理に預けてPCが…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2149/450/DSR00005.jpg" alt="FMVの世界最軽量ノート「Note U」シリーズにバッテリー交換可能な新モデル、『ゴジラ-0.0』コラボや「Note M」も"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2149450.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2149/450/DSR00005.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2149/450/DSR00005.jpg"/></item>
+<item><title>富士通、光学ドライブ搭載の16型Copilot+ PC「FMV Note A」やタッチ対応13.3型液晶の新「FMV Note C」</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2149452.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2149452.html</guid><pubDate>Thu, 22 Oct 2026 04:00:00 +0000</pubDate><description><![CDATA[<p>富士通、光学ドライブ搭載の16型Copilot+ PC「FMV Note A」やタッチ対応13.3型液晶の新「FMV Note C」
+
+富士通クライアントコンピューティング（FCCL）のPCブランド「FMV」より、16インチノートPC「Note Aシリーズ」と、13.3インチモバイルノートPC「Note Cシリーズ」の新モデルが登場。
+
+富士通、光学ドライブ搭載の16型Copilot+ PC「FMV Note A」やタッチ対応13.3型液晶の新「FMV Note C」
+
+富士通クライアントコンピューティング（FCCL）のPCブランド「FMV」より、16インチノートPC「Note Aシリーズ」と、13.3インチモバイルノートPC「Note Cシリーズ」の新モデルが登場。
+
+店頭販売モデルの発売はNote Aシリーズが10月23日（金）、Note Cシリーズが11月13日（金）以降の予定。
+
+Note Aシリーズは、16インチ液晶搭載のノートPC。店頭販売モデルは「A55-L3」と「A77-L3」「A79-L3」の3機種で、想定販売価格は税別26万円強から。
+
+カラーはブライトブラック/シルキーホワイト/メタリックブルー（A55-L3のみ）。
+
+液晶パネルには16:10比率の16インチパネルを搭載。スペースの限られた日本の住環境に合わせ、15.6インチ液晶（16:9比率）パネルを搭載した2021年モデルから筐体サイズは大型化させずに、表示領域を拡大している。
+
+CPUにはRyzen AI 7 445またはRyzen AI 5 430を搭載し、Copilot+ PCに対応。旧モデルと同様に光学ディスクドライブ搭載モデルもラインナップする。
+
+なお店頭モデルの標準搭載ドライブはDVDドライブとなっており、BDドライブ搭載モデルについてはFMV Storeカスタムメイドモデルとして提供される。
+
+ユーザーに熱風が届かず、排熱音も聞こえにくいという後方排気の筐体設計も特徴。
+
+Note Cシリーズは、13.3インチ液晶パネル搭載のモバイルノート。想定販売価格は税別28万円弱。
+
+機…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2149/452/DSR09989.jpg" alt="富士通、光学ドライブ搭載の16型Copilot+ PC「FMV Note A」やタッチ対応13.3型液晶の新「FMV Note C」"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2149452.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2149/452/DSR09989.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2149/452/DSR09989.jpg"/></item>
+<item><title>FMV初の周辺機器ブランド「FMV Accessory」が登場、磁気キーボード/エルゴマウス/支柱固定モニターの3製品 “省スペースでも使いやすい”がコンセプト</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2149445.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2149445.html</guid><pubDate>Thu, 22 Oct 2026 04:00:00 +0000</pubDate><description><![CDATA[<p>FMV初の周辺機器ブランド「FMV Accessory」が登場、磁気キーボード/エルゴマウス/支柱固定モニターの3製品 “省スペースでも使いやすい”がコンセプト
+
+富士通クライアントコンピューティング（FCCL）から、同社初となる周辺機器ブランド「FMV Accessory」が発足。
+
+FMV初の周辺機器ブランド「FMV Accessory」が登場、磁気キーボード/エルゴマウス/支柱固定モニターの3製品
+
+富士通クライアントコンピューティング（FCCL）から、同社初となる周辺機器ブランド「FMV Accessory」が発足。
+
+ラインナップはワイヤレス対応のキーボード「FMV Keyboard X」、同マウス「FMV Mouse X」、23.8インチ液晶モニター「FMV Display V」の3製品。
+
+同社PCと同様にPCのある生活を快適にするという一貫した思想のもと「限られたスペースを、最高のワークスペースに」をコンセプトに、日本での暮らしを考えた製品設計をうたう。
+
+「FMV Keyboard X」と「FMV Mouse X」については、直販ストア「FMV Store」および家電量販店にて、11月6日（金）までの期間限定で10%オフとなるキャンペーンも実施されている。
+
+FMV Keyboard X（以下Keyboard X）は、ワイヤレス接続に対応したポータブルキーボード。想定販売価格は33,000円で、11月6日までのキャンペーン価格は29,700円。
+
+国内向けのクラウドファンディングも実施されていた製品で、省スペースを追求したというコンパクト設計と、ミニマルなデザインが特徴。
+
+配列は、同社ノートPC「FMV Note U」から踏襲したオリジナルの日本語キー配列を採用。
+
+カーソルキーの搭載やシリンドリカル形状を採用するほか、キーキャップには加水分解耐性のある…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2149/445/DSR00048.jpg" alt="FMV初の周辺機器ブランド「FMV Accessory」が登場、磁気キーボード/エルゴマウス/支柱固定モニターの3製品 “省スペースでも使いやすい”がコンセプト"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2149445.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2149/445/DSR00048.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2149/445/DSR00048.jpg"/></item>
+<item><title>FMVからこだわりキーボード/マウス登場！壁際に設置できるモニターも</title><link>https://pc.watch.impress.co.jp/docs/news/2149955.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2149955.html</guid><pubDate>Thu, 22 Oct 2026 04:00:00 +0000</pubDate><description><![CDATA[<p>FMVからこだわりキーボード/マウス登場！壁際に設置できるモニターも
+
+PCメーカーならではのこだわりが詰まった周辺機器が登場した。富士通クライアントコンピューティング(FCCL)は10月22日、PC周辺機器の新ブランド「FMV Accessory」を立ち上げると発表。キーボード「FMV Keyboard X」、マウス「FMV Mouse X」、23.8型液晶モニター「FMV Display V」を10月下旬に発売する。価格はいずれもオープンプライス。
+
+FMVからこだわりキーボード/マウス登場！壁際に設置できるモニターも
+
+PCメーカーならではのこだわりが詰まった周辺機器が登場した。富士通クライアントコンピューティング(FCCL)は10月22日、PC周辺機器の新ブランド「FMV Accessory」を立ち上げると発表。キーボード「FMV Keyboard X」、マウス「FMV Mouse X」、23.8型液晶モニター「FMV Display V」を10月下旬に発売する。価格はいずれもオープンプライス。
+
+「FMV Keyboard X01MB」は、「FMV Note U」内蔵キーボードを踏襲した日本語配列を採用する84キーのキーボード。税別実売予想価格は3万円弱の見込み。
+
+独自にカスタマイズした静音磁気スイッチを採用し、基板をクッション素材で挟み込むガスケットマウント構造と組み合わせて打鍵音を抑えた。物理的な接点がないため摩耗が少なく、1億回以上の打鍵に耐えるという。
+
+アクチュエーションポイントは、FMVキーボードマイスター監修のプリセット3種類から選べ、ラピッドトリガーにも対応する。表面には長期間使ってもベタつきにくい良触感塗装を施した。
+
+無線接続は独自のレシーバー「FMV Link Receiver」を使う。レシーバー側にペアリングボタンを装備し、ソフトウェアなしで最大4台のデバイスと接続可能。さらに、FMV Linkによる連携機能を備え、1つのデバイスを最大4つのレシーバーに接続できる。たとえばマウス側でレシーバー1から2に接続先を切り替えると、キーボード…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2149/955/2.jpg" alt="FMVからこだわりキーボード/マウス登場！壁際に設置できるモニターも"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2149955.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2149/955/2.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2149/955/2.jpg"/></item>
+<item><title>Windows 11のフォトアプリが刷新。ギャラリーを一新、編集/閲覧の高速化も</title><link>https://pc.watch.impress.co.jp/docs/news/2150278.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2150278.html</guid><pubDate>Thu, 22 Oct 2026 03:59:21 +0000</pubDate><description><![CDATA[<p>Windows 11のフォトアプリが刷新。ギャラリーを一新、編集/閲覧の高速化も
+
+iCloudの写真もPC内やOneDriveの写真とまとめて管理でき、アプリ自体も高速化され使い勝手が向上する。Microsoftは10月15日、Windows 11の「フォト」アプリを大幅刷新すると発表した。同日よりWindows Insider向けに順次展開されている。
+
+Windows 11のフォトアプリが刷新。ギャラリーを一新、編集/閲覧の高速化も
+
+iCloudの写真もPC内やOneDriveの写真とまとめて管理でき、アプリ自体も高速化され使い勝手が向上する。Microsoftは10月15日、Windows 11の「フォト」アプリを大幅刷新すると発表した。同日よりWindows Insider向けに順次展開されている。
+
+新たなフォトアプリでは、PCやクラウドなどさまざまな場所に保存された写真や動画を集約する「ギャラリー」機能を一新。OneDriveだけでなく、iCloud for WindowsアプリをインストールすることでiCloudのコンテンツも取り込み可能で、横断的に検索や整理を行なえる。
+
+また、OneDriveのAndroid/iOS向けアプリでカメラバックアップをオンにすれば、スマートフォン上の写真や動画がOneDrive上に自動的にバックアップされ、Windowsのフォトアプリから閲覧できるようになる。加えて、OneDrive上の写真をテーマに沿って思い出としてまとめる「モーメント」機能も備えている。
+
+ギャラリー内の検索機能も強化しており、自然言語での写真検索をサポート。ファイル名や正確な日付などが分からなくても、「ビーチの夕日」といった自然な言葉で写真を探せる。保存場所や写っている人物で写真を絞り込めるフィルタ、写真をまとめておくアルバムといった機能も用意している。
+
+写真を編集するエディタは、WinUI 3ベースのネイティブな機能としてゼロから再構築。起動速度を25%高速化したほか、ナビゲーションのスムーズ化も図った。ギャラリー内だけでなくPC上のあらゆる…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2150/278/01.jpg" alt="Windows 11のフォトアプリが刷新。ギャラリーを一新、編集/閲覧の高速化も"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2150278.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2150/278/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2150/278/01.jpg"/></item>
 <item><title>iPhone Duoが来週Apple Pencil対応へ〜iOS27.2 RCで確認</title><link>https://iphone-mania.jp/iphone18-607702/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-607702/</guid><pubDate>Thu, 22 Oct 2026 03:45:20 +0000</pubDate><description><![CDATA[<p>iPhone Duoが来週Apple Pencil対応へ〜iOS27.2 RCで確認
 
 Appleが「年内」と案内していたiPhone DuoのApple Pencil対応について、来週にも正式版が公開される見込みのiOS27.2で実現する可能性が高まりました。
@@ -570,27 +849,6 @@ MasterFrame 400 Mesh Gold Limited Editionは、microATX/Mini-ITXマザーボー�
 縦置きにも横置きにもシームレスに適応し、横置きは上下反転させることが可能。ただし、コンポーネントのレイアウトなどによって、縦置きにするために追加のアダプタなどが必要な場合がある。
 
 搭載可能な…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2150/055/a1.jpg" alt="全世界999台限定のPCケース「MasterFrame 400 Mesh Gold Limited Edition」がオリオスペックで展示中 全世界1,999台限定の水冷クーラーも登場"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2150055.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2150/055/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2150/055/a1.jpg"/></item>
-<item><title>ClaudeのMaxプランなしでできた！ローカルAIとの分担でアプリ開発 ～ミニPC「ACEMAGIC F2A」で試すハイブリッドAI[Sponsored]</title><link>https://pc.watch.impress.co.jp/docs/topic/special/2147630.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/topic/special/2147630.html</guid><pubDate>Wed, 21 Oct 2026 21:30:00 +0000</pubDate><description><![CDATA[<p>ClaudeのMaxプランなしでできた！ローカルAIとの分担でアプリ開発 ～ミニPC「ACEMAGIC F2A」で試すハイブリッドAI[Sponsored]
-
-AIを業務や趣味に生かしたいと思っても、クラウドサービスを使うとサブスク料金がかさんでしまう。代わりにローカルAIを試そうにも、GPUだけでなくメモリ・ストレージ価格の上昇もあってハードルが高い。
-
-ClaudeのMaxプランなしでできた！ローカルAIとの分担でアプリ開発
-
-～ミニPC「ACEMAGIC F2A」で試すハイブリッドAI
-
-AIを業務や趣味に生かしたいと思っても、クラウドサービスを使うとサブスク料金がかさんでしまう。代わりにローカルAIを試そうにも、GPUだけでなくメモリ・ストレージ価格の上昇もあってハードルが高い。
-
-なんとか最小限の出費でAIをフル活用できないだろうか……と悩んでいるあなたにおすすめしたいのが、ミニPC「 ACEMAGIC F2A 」。AMD Ryzen AI 9 HX 470を搭載し、強力なGPU/NPUを内蔵しながら、手のひらサイズのスタイリッシュなボディを持つ1台だ。
-
-サブスク料金を抑えながらローカルAIも活用できるし、話題の3Dゲームを快適に動かせる実力もある。 仕事に、遊びに、コストパフォーマンス高く活躍するこのPCのおいしい使い方をお伝えしよう。
-
-手のひらサイズにRyzen AI 9 HX 470、55TOPSのNPUを搭載
-
-クラウドとローカルを組み合わせ、賢くリーズナブルに使い倒したい
-
-ACEMAGIC F2Aは、幅と奥行きが128mm、高さが37mmの、手に収まるサイズのミニPC。重量は実測約578gで、電源はACアダプタではあるもののこちらもコンパクトだ。設置の自由度が高いうえに、いざというときには持ち運びもしやすい。
-
-プロセッサ違いで大きく2モデルに分か…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2147/630/image_02.jpg" alt="ClaudeのMaxプランなしでできた！ローカルAIとの分担でアプリ開発 ～ミニPC「ACEMAGIC F2A」で試すハイブリッドAI[Sponsored]"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/topic/special/2147630.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2147/630/image_02.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2147/630/image_02.jpg"/></item>
 <item><title>4万8,000円引きのYogaノートも！レノボ公式ストアでセール開催中 [Sponsored]</title><link>https://pc.watch.impress.co.jp/docs/topic/special/2149966.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/topic/special/2149966.html</guid><pubDate>Wed, 21 Oct 2026 21:30:00 +0000</pubDate><description><![CDATA[<p>4万8,000円引きのYogaノートも！レノボ公式ストアでセール開催中 [Sponsored]
 
 レノボ・ジャパンは公式ストアにおいて、「ハロウィンフェスティバル」を開催している。YogaシリーズのノートPCが大幅値引きとなるなど、多くの製品が特別価格で販売中だ。期間は10月29日まで。
@@ -612,6 +870,27 @@ Yoga 7a 2-in-1 Gen 11は、コンバーチブル2in1型のノートPCだ。主�
 Yoga Slim 7i Ultra Gen 11 Aura Edition
 
 14型ノートPCの「 Yoga Slim …</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2149/966/02.jpg" alt="4万8,000円引きのYogaノートも！レノボ公式ストアでセール開催中 [Sponsored]"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/topic/special/2149966.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2149/966/02.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2149/966/02.jpg"/></item>
+<item><title>ClaudeのMaxプランなしでできた！ローカルAIとの分担でアプリ開発 ～ミニPC「ACEMAGIC F2A」で試すハイブリッドAI[Sponsored]</title><link>https://pc.watch.impress.co.jp/docs/topic/special/2147630.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/topic/special/2147630.html</guid><pubDate>Wed, 21 Oct 2026 21:30:00 +0000</pubDate><description><![CDATA[<p>ClaudeのMaxプランなしでできた！ローカルAIとの分担でアプリ開発 ～ミニPC「ACEMAGIC F2A」で試すハイブリッドAI[Sponsored]
+
+AIを業務や趣味に生かしたいと思っても、クラウドサービスを使うとサブスク料金がかさんでしまう。代わりにローカルAIを試そうにも、GPUだけでなくメモリ・ストレージ価格の上昇もあってハードルが高い。
+
+ClaudeのMaxプランなしでできた！ローカルAIとの分担でアプリ開発
+
+～ミニPC「ACEMAGIC F2A」で試すハイブリッドAI
+
+AIを業務や趣味に生かしたいと思っても、クラウドサービスを使うとサブスク料金がかさんでしまう。代わりにローカルAIを試そうにも、GPUだけでなくメモリ・ストレージ価格の上昇もあってハードルが高い。
+
+なんとか最小限の出費でAIをフル活用できないだろうか……と悩んでいるあなたにおすすめしたいのが、ミニPC「 ACEMAGIC F2A 」。AMD Ryzen AI 9 HX 470を搭載し、強力なGPU/NPUを内蔵しながら、手のひらサイズのスタイリッシュなボディを持つ1台だ。
+
+サブスク料金を抑えながらローカルAIも活用できるし、話題の3Dゲームを快適に動かせる実力もある。 仕事に、遊びに、コストパフォーマンス高く活躍するこのPCのおいしい使い方をお伝えしよう。
+
+手のひらサイズにRyzen AI 9 HX 470、55TOPSのNPUを搭載
+
+クラウドとローカルを組み合わせ、賢くリーズナブルに使い倒したい
+
+ACEMAGIC F2Aは、幅と奥行きが128mm、高さが37mmの、手に収まるサイズのミニPC。重量は実測約578gで、電源はACアダプタではあるもののこちらもコンパクトだ。設置の自由度が高いうえに、いざというときには持ち運びもしやすい。
+
+プロセッサ違いで大きく2モデルに分か…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2147/630/image_02.jpg" alt="ClaudeのMaxプランなしでできた！ローカルAIとの分担でアプリ開発 ～ミニPC「ACEMAGIC F2A」で試すハイブリッドAI[Sponsored]"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/topic/special/2147630.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2147/630/image_02.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2147/630/image_02.jpg"/></item>
 <item><title>本来116桁の秘密鍵がたった3桁 インド認証局の一部中間CA証明書にミス</title><link>https://pc.watch.impress.co.jp/docs/news/2150099.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2150099.html</guid><pubDate>Wed, 21 Oct 2026 21:28:00 +0000</pubDate><description><![CDATA[<p>本来116桁の秘密鍵がたった3桁 インド認証局の一部中間CA証明書にミス
 
 インドの認証局であるeMudhraが発行した中間CA証明書の一部で、秘密鍵が異常に小さな値となってしまい、簡単に公開鍵から秘密鍵を割り出せる状態となっていたことが分かった。セキュリティ研究者のWayne氏が10月17日、Root Program Teamsに報告したことから明らかとなった。
@@ -788,6 +1067,29 @@ LINEや届かないキーなど慣れない点は残るが、アプリの対応�
 これは単なる新モデルの追加ではない。スマートフォン市場を牽引してきたAppleが、いつしか「バータイプ」と呼ばれるようになったまっすぐなスマートフォンから一歩踏み出し、折りたためる（人によっては「折り開ける」と呼ぶ）、まったく新しい形のiPhoneを世に送り出したのだ。iPhoneの歴史の中でも、大きな意味を持つ出来事だと思う。
 
 もちろん、 iPhone D…</p><p><img src="https://gori.me/uploads/2026/10/Using-the-iPhone-Duo-as-my-main-phone-review-gorime-05.jpg" alt="iPhone Duoレビュー：未来の幕開け、両手で開け"></p>]]></description><source url="https://gori.me/iphone/171436">gori.me</source><media:content url="https://gori.me/uploads/2026/10/Using-the-iPhone-Duo-as-my-main-phone-review-gorime-05.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/10/Using-the-iPhone-Duo-as-my-main-phone-review-gorime-05.jpg"/></item>
+<item><title>iPhone Duoのカメラはイマイチ？「撮りやすさ」は18 Proより上かも</title><link>https://gori.me/iphone/171503</link><guid isPermaLink="true">https://gori.me/iphone/171503</guid><pubDate>Wed, 21 Oct 2026 12:00:47 +0000</pubDate><description><![CDATA[<p>iPhone Duoのカメラはイマイチ？「撮りやすさ」は18 Proより上かも
+
+発表会の日、僕が持ち出したのはiPhone DuoではなくiPhone 18 Proだった。望遠も可変絞りもないからだ。それなのに、ふだんの1枚を撮りやすいと感じたのはDuoのほう。理由は1倍のままぐっと寄れること。夜景でがっかりした話と、撮るのはPro、見せるのはDuoという落ち着き先もまとめた。
+
+iPhone Duoのカメラはイマイチ？「撮りやすさ」は18 Proより上かも
+
+1倍のまま寄ってもピントが合う。18 Proなら2倍に切り替える距離でも撮れた
+
+発表会など撮ること自体が目的の日は、望遠と可変絞りのあるiPhone 18 Proを選んだ
+
+日常のスナップでは、1倍のまま寄ってもピントが合うiPhone Duoのほうが撮りやすかった
+
+夜景はがっかり。Proで撮ってAirDropし、Duoの大きな画面で見せる形に落ち着いた
+
+子どもの習い事の発表会の日、 僕が持ち出したのは iPhone Duo ではなく、 iPhone 18 Pro だった 。メインで使うと決めた端末を、いちばん大事な撮影の日に置いていったことになる。
+
+それなのに、 ふだんの何気ない1枚を「撮りやすい」と感じていたのは、 iPhone Duo のほうだった 。この記事は、その少しねじれたカメラの話だ。
+
+発売前、僕は カメラ用のサブ機との付き合い方 を考えていた。当時は「2台持ちで一番の懸念は、サブ機で撮った写真をどうやって iPhone Duo 側に同期するかだ」と書いている。
+
+発表会でProを選んだ理由は、望遠レンズがある安心感と画質だ。 iPhone 17 Pro の望遠はすごく綺麗で、18 Proも同じだった。
+
+離れた場所にいる子どもを、大きく綺麗に残したい。そういう「カメラとして使う必要がある場…</p><p><img src="https://gori.me/uploads/2026/10/iPhone-Duo-Review-do-you-need-it-111.jpg" alt="iPhone Duoのカメラはイマイチ？「撮りやすさ」は18 Proより上かも"></p>]]></description><source url="https://gori.me/iphone/171503">gori.me</source><media:content url="https://gori.me/uploads/2026/10/iPhone-Duo-Review-do-you-need-it-111.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/10/iPhone-Duo-Review-do-you-need-it-111.jpg"/></item>
 <item><title>iPhone Duoで撮った写真の作例集。スナップ、寄り、超広角、自撮り、夜景</title><link>https://gori.me/iphone/171564</link><guid isPermaLink="true">https://gori.me/iphone/171564</guid><pubDate>Wed, 21 Oct 2026 12:00:47 +0000</pubDate><description><![CDATA[<p>iPhone Duoで撮った写真の作例集。スナップ、寄り、超広角、自撮り、夜景
 
 iPhone Duoのカメラで撮った写真を、日常のスナップ、寄って撮った写真、超広角、2倍、旅先の風景、メインカメラでの自撮り、スマート撮影、夜景のシーン別にまとめた。望遠レンズのないカメラで実際にどんな写真が撮れるのかを、作例で確かめてほしい。作例は順次追加する。
@@ -817,29 +1119,6 @@ iPhone Duo のカメラで、実際にどんな写真が撮れるのか。言葉
 旅の途中では、ドクターイエローも撮れた。撮ったのは動画で、すごくかっこよかった。
 
 iPhone Duo なら、背面のメインカメラで自撮りができる。外側の画面に自分を映しながら撮れるので、超広角で景色ごと入れた自撮りも撮れる。撮り方は 自撮りの記事 で紹介している…</p><p><img src="https://gori.me/uploads/2026/10/iPhone-Duo-Review-do-you-need-it-110-1.jpg" alt="iPhone Duoで撮った写真の作例集。スナップ、寄り、超広角、自撮り、夜景"></p>]]></description><source url="https://gori.me/iphone/171564">gori.me</source><media:content url="https://gori.me/uploads/2026/10/iPhone-Duo-Review-do-you-need-it-110-1.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/10/iPhone-Duo-Review-do-you-need-it-110-1.jpg"/></item>
-<item><title>iPhone Duoのカメラはイマイチ？「撮りやすさ」は18 Proより上かも</title><link>https://gori.me/iphone/171503</link><guid isPermaLink="true">https://gori.me/iphone/171503</guid><pubDate>Wed, 21 Oct 2026 12:00:47 +0000</pubDate><description><![CDATA[<p>iPhone Duoのカメラはイマイチ？「撮りやすさ」は18 Proより上かも
-
-発表会の日、僕が持ち出したのはiPhone DuoではなくiPhone 18 Proだった。望遠も可変絞りもないからだ。それなのに、ふだんの1枚を撮りやすいと感じたのはDuoのほう。理由は1倍のままぐっと寄れること。夜景でがっかりした話と、撮るのはPro、見せるのはDuoという落ち着き先もまとめた。
-
-iPhone Duoのカメラはイマイチ？「撮りやすさ」は18 Proより上かも
-
-1倍のまま寄ってもピントが合う。18 Proなら2倍に切り替える距離でも撮れた
-
-発表会など撮ること自体が目的の日は、望遠と可変絞りのあるiPhone 18 Proを選んだ
-
-日常のスナップでは、1倍のまま寄ってもピントが合うiPhone Duoのほうが撮りやすかった
-
-夜景はがっかり。Proで撮ってAirDropし、Duoの大きな画面で見せる形に落ち着いた
-
-子どもの習い事の発表会の日、 僕が持ち出したのは iPhone Duo ではなく、 iPhone 18 Pro だった 。メインで使うと決めた端末を、いちばん大事な撮影の日に置いていったことになる。
-
-それなのに、 ふだんの何気ない1枚を「撮りやすい」と感じていたのは、 iPhone Duo のほうだった 。この記事は、その少しねじれたカメラの話だ。
-
-発売前、僕は カメラ用のサブ機との付き合い方 を考えていた。当時は「2台持ちで一番の懸念は、サブ機で撮った写真をどうやって iPhone Duo 側に同期するかだ」と書いている。
-
-発表会でProを選んだ理由は、望遠レンズがある安心感と画質だ。 iPhone 17 Pro の望遠はすごく綺麗で、18 Proも同じだった。
-
-離れた場所にいる子どもを、大きく綺麗に残したい。そういう「カメラとして使う必要がある場…</p><p><img src="https://gori.me/uploads/2026/10/iPhone-Duo-Review-do-you-need-it-111.jpg" alt="iPhone Duoのカメラはイマイチ？「撮りやすさ」は18 Proより上かも"></p>]]></description><source url="https://gori.me/iphone/171503">gori.me</source><media:content url="https://gori.me/uploads/2026/10/iPhone-Duo-Review-do-you-need-it-111.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/10/iPhone-Duo-Review-do-you-need-it-111.jpg"/></item>
 <item><title>iPhone DuoのTouch ID、単体は期待以下。Apple Watchと組むと最強</title><link>https://gori.me/iphone/171572</link><guid isPermaLink="true">https://gori.me/iphone/171572</guid><pubDate>Wed, 21 Oct 2026 12:00:46 +0000</pubDate><description><![CDATA[<p>iPhone DuoのTouch ID、単体は期待以下。Apple Watchと組むと最強
 
 Touch IDの復活を楽しみにしていたのに、iPhone Duoを使い始めた初日の感想は「思ったより不便」だった。Face IDの便利さを思い知った僕の評価をひっくり返したのは、一瞬で開くApple Watchでのロック解除と、寝起きの顔でもバッチリ通る指紋認証。発売前の期待と不安を、実際に使って答え合わせした。
@@ -1426,21 +1705,6 @@ HAMAKEN WORKSの65W出力USB充電器が2製品、Type-Cケーブル付きで2,5
 65W対応USB Type-Cケーブル（1m）が付属するほか、過電圧保護/過電流保護/短絡保護の安全設計も特徴。
 
 本体サイズは共通で50×50×30mm。重量はUSB Type-C×2ポートモデルが約103g、USB Type-C×2ポート+USB Type-A×1ポートモデルが約104g。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/197/s1.jpg" alt="HAMAKEN WORKSの65W出力USB充電器が2製品、Type-Cケーブル付きで2,500円から"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2148197.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/197/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/197/s1.jpg"/></item>
-<item><title>HUAWEI、2台のスマホとペアリングできるスマートウォッチ</title><link>https://pc.watch.impress.co.jp/docs/news/2149762.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2149762.html</guid><pubDate>Wed, 21 Oct 2026 06:00:00 +0000</pubDate><description><![CDATA[<p>HUAWEI、2台のスマホとペアリングできるスマートウォッチ
-
-ファーウェイ・ジャパンは10月21日、「HUAWEI WATCH GT 7 Pro」、「HUAWEI WATCH GT 7」、「HUAWEI WATCH 6」、「HONMA×HUAWEI WATCH GT 6 Pro NEW」の4製品を発表した。価格はいずれもオープンプライス。実売予想価格および発売日は以下の通り。
-
-HUAWEI、2台のスマホとペアリングできるスマートウォッチ
-
-ファーウェイ・ジャパンは10月21日、「HUAWEI WATCH GT 7 Pro」、「HUAWEI WATCH GT 7」、「HUAWEI WATCH 6」、「HONMA×HUAWEI WATCH GT 6 Pro NEW」の4製品を発表した。価格はいずれもオープンプライス。実売予想価格および発売日は以下の通り。
-
-HUAWEI WATCH GT 7シリーズは、100種類以上のワークアウトモードを備え、通常使用で最大21日間のバッテリ駆動をうたうスポーツ向けのスマートウォッチ。上位のHUAWEI WATCH GT 7 Proは、チタン合金ケースとサファイアガラスに加え、GTシリーズとして初めてセラミック製のベゼルを採用した。
-
-新モデルではスキー機能が強化された。業界初をうたう屋内スキー/屋内スノーボードを含む5つのモードを用意。世界3,000以上のスキーリゾートのマップにも対応し、コース難易度を手元で確認できる。ターン回数やターン頻度、G(重力加速度)などを記録できる。
-
-サイクリング向けには、ルートの標高情報をもとにした登坂計画機能と、インポートしたルートの90度以下のカーブに時速35km以上で近づくと通知する急カーブアラートを搭載した。運動データをAIで分析してアドバイスを提示する「AIワークアウト分析」にも対応する。
-
-HUAWEI WATCH GT 7 Proは、ゴルフ機能を強化しており、3点間距離測定と高低差表示、ショット飛距離の自動記録、グリーンの自動回転などを備える。また、心電図測定に対応するのもProのみとなる…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2149/762/1.png" alt="HUAWEI、2台のスマホとペアリングできるスマートウォッチ"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2149762.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2149/762/1.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2149/762/1.png"/></item>
 <item><title>�����������μ꿨���򺸱�����0.1�äȡ����ȥ����ɥ����˥��ȡܡɤ����ˤ������Ρ���Chronoscript: The Endless End�ץץ쥤���ݡ����󥿥ӥ塼</title><link>https://www.4gamer.net/games/948/G094806/20261014026/</link><guid isPermaLink="true">https://www.4gamer.net/games/948/G094806/20261014026/</guid><pubDate>Wed, 21 Oct 2026 06:00:00 +0000</pubDate><description><![CDATA[<p>�����������μ꿨���򺸱�����0.1�äȡ����ȥ����ɥ����˥��ȡܡɤ����ˤ������Ρ���Chronoscript: The Endless End�ץץ쥤���ݡ����󥿥ӥ塼
 
 「RPGタイム！」のデスクワークスが手掛ける探索型アクション「Chronoscript: The Endless End」の新ステージ「大航海時代」を先行プレイ。独特の仕掛けや手応えのある探索に触れ…
@@ -1456,6 +1720,21 @@ HUAWEI WATCH GT 7 Proは、ゴルフ機能を強化しており、3点間距離�
 ↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
 
 ↓アイコン/タイト…</p><p><img src="https://www.4gamer.net/games/948/G094806/20261014026/SS/010.jpg" alt="�����������μ꿨���򺸱�����0.1�äȡ����ȥ����ɥ����˥��ȡܡɤ����ˤ������Ρ���Chronoscript: The Endless End�ץץ쥤���ݡ����󥿥ӥ塼"></p>]]></description><source url="https://www.4gamer.net/games/948/G094806/20261014026/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/948/G094806/20261014026/SS/010.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/948/G094806/20261014026/SS/010.jpg"/></item>
+<item><title>HUAWEI、2台のスマホとペアリングできるスマートウォッチ</title><link>https://pc.watch.impress.co.jp/docs/news/2149762.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2149762.html</guid><pubDate>Wed, 21 Oct 2026 06:00:00 +0000</pubDate><description><![CDATA[<p>HUAWEI、2台のスマホとペアリングできるスマートウォッチ
+
+ファーウェイ・ジャパンは10月21日、「HUAWEI WATCH GT 7 Pro」、「HUAWEI WATCH GT 7」、「HUAWEI WATCH 6」、「HONMA×HUAWEI WATCH GT 6 Pro NEW」の4製品を発表した。価格はいずれもオープンプライス。実売予想価格および発売日は以下の通り。
+
+HUAWEI、2台のスマホとペアリングできるスマートウォッチ
+
+ファーウェイ・ジャパンは10月21日、「HUAWEI WATCH GT 7 Pro」、「HUAWEI WATCH GT 7」、「HUAWEI WATCH 6」、「HONMA×HUAWEI WATCH GT 6 Pro NEW」の4製品を発表した。価格はいずれもオープンプライス。実売予想価格および発売日は以下の通り。
+
+HUAWEI WATCH GT 7シリーズは、100種類以上のワークアウトモードを備え、通常使用で最大21日間のバッテリ駆動をうたうスポーツ向けのスマートウォッチ。上位のHUAWEI WATCH GT 7 Proは、チタン合金ケースとサファイアガラスに加え、GTシリーズとして初めてセラミック製のベゼルを採用した。
+
+新モデルではスキー機能が強化された。業界初をうたう屋内スキー/屋内スノーボードを含む5つのモードを用意。世界3,000以上のスキーリゾートのマップにも対応し、コース難易度を手元で確認できる。ターン回数やターン頻度、G(重力加速度)などを記録できる。
+
+サイクリング向けには、ルートの標高情報をもとにした登坂計画機能と、インポートしたルートの90度以下のカーブに時速35km以上で近づくと通知する急カーブアラートを搭載した。運動データをAIで分析してアドバイスを提示する「AIワークアウト分析」にも対応する。
+
+HUAWEI WATCH GT 7 Proは、ゴルフ機能を強化しており、3点間距離測定と高低差表示、ショット飛距離の自動記録、グリーンの自動回転などを備える。また、心電図測定に対応するのもProのみとなる…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2149/762/1.png" alt="HUAWEI、2台のスマホとペアリングできるスマートウォッチ"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2149762.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2149/762/1.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2149/762/1.png"/></item>
 <item><title>Razerのヘッドホンスタンド「Base Station V3 Chroma」がTSUKUMOで展示スタート</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2149695.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2149695.html</guid><pubDate>Wed, 21 Oct 2026 05:30:00 +0000</pubDate><description><![CDATA[<p>Razerのヘッドホンスタンド「Base Station V3 Chroma」がTSUKUMOで展示スタート
 
 RazerのUSBハブ付きヘッドホンスタンド「Base Station V3 Chroma」の実機展示がTSUKUMO eX.で始まっている。
@@ -5968,6 +6247,19 @@ mouse B5-A7A01SRは、15.3型液晶(最大120Hz駆動、2,560×1,600ドット)�
 マウスコンピューター mouse B5-A7A01SR (B5A7A01SR3SIW1106AZ)
 
 Acer「Swift Go 14 AI」は、プライム会員限定の5万9,897円引きにより、19万9,800円で購入可能。ディスプレイに14型有機EL(1,920×1,200ドット)、CPUにCore Ultra 7 258V、メモリに32GB LPDDR5X、ストレージに1TB S…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2149/005/01.jpg" alt="【本日みつけたお買い得品】120Hz/2,560×1,600ドットのRyzen AI搭載ノートが約3万9千円オフ"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/todays_sales/2149005.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2149/005/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2149/005/01.jpg"/></item>
+<item><title>デスクトップ派や自作PCファンも“後付け”でPCの防犯能力を強化――PC用セキュリティ製品をピックアップ 生体認証や認証キーから物理ロックまで16製品 text by 石川 ひさよし</title><link>https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2148983.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2148983.html</guid><pubDate>Sat, 17 Oct 2026 01:00:00 +0000</pubDate><description><![CDATA[<p>デスクトップ派や自作PCファンも“後付け”でPCの防犯能力を強化――PC用セキュリティ製品をピックアップ 生体認証や認証キーから物理ロックまで16製品 text by 石川 ひさよし
+
+最近、情報漏洩や不正アクセスのニュースが増えています。大きなニュースになるのは主にサーバー側での話ですが、クライアント側、つまりお手元のPCのセキュリティ強化、不正アクセス対策も怠ってはいけません。今回はPCのセキュリティを強化する周辺機器、アクセサリーを集めてみました。
+
+デスクトップ派や自作PCファンも“後付け”でPCの防犯能力を強化――PC用セキュリティ製品をピックアップ
+
+生体認証や認証キーから物理ロックまで16製品 text by 石川 ひさよし
+
+最近、情報漏洩や不正アクセスのニュースが増えています。大きなニュースになるのは主にサーバー側での話ですが、クライアント側、つまりお手元のPCのセキュリティ強化、不正アクセス対策も怠ってはいけません。今回はPCのセキュリティを強化する周辺機器、アクセサリーを集めてみました。
+
+セキュリティ製品なので、「信頼できるメーカーの製品を選ぶ」というのはまず当然です。ただし、今後は発売元、出荷元といった「販売ルート」にも目を向ける必要があるかもしれません。仮想通貨ウォレットに盗聴回路が仕込まれたといったニュースもありました。本物を分解して内部にチップを仕込み、見た目ではまったく見分けがつかないといった話もあります。セキュリティ商品はコスパよりも信頼重視で選びましょう。
+
+ビジネスノートPCではおなじみの指紋認証。Windowsログイン時のWindows Helloや、Webサイトへのログイン時などで利用できます。小型で邪魔になりにくく、この種の生体認証の中では比較的低価格です。USB端子と一体のドングルタイプや、延長ケーブル付きの卓上タイプがありま…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/983/top.jpg" alt="デスクトップ派や自作PCファンも“後付け”でPCの防犯能力を強化――PC用セキュリティ製品をピックアップ 生体認証や認証キーから物理ロックまで16製品 text by 石川 ひさよし"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2148983.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/983/top.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/983/top.jpg"/></item>
 <item><title>LINEMO、ベストプランVが新規・プラン変更で2カ月間「40GB・基本料0円」に！</title><link>https://smhn.info/202610-linemo-best-plan-v-40gb-free-two-months-campaign</link><guid isPermaLink="true">https://smhn.info/202610-linemo-best-plan-v-40gb-free-two-months-campaign</guid><pubDate>Sat, 17 Oct 2026 01:00:00 +0000</pubDate><description><![CDATA[<p>LINEMO、ベストプランVが新規・プラン変更で2カ月間「40GB・基本料0円」に！
 
 ソフトバンクのLINEMOは10月17日、「LINEMO5周年大週穫祭」の10月第3弾として、「LINEMOベストプランV」を2カ月間、月40GBまで基本料0円で使える施策を始めました。申し込み期間は10月23日（金）まで。施策は2本のキャンペーンで成り立っています。「LINEM...
@@ -5987,19 +6279,6 @@ LINEMO、ベストプランVが新規・プラン変更で2カ月間「40GB・�
 データ10GB増量は、新規契約であればLINEMOベストプラン（3GBまで月990円、10GBまで月2090円）も対象。既存利用者は、スマホプランやミニプランからベストプランまたはベストプランVへ変更する場合に対象となります。
 
 いずれも割引期間中にデータ追加購入を行うと、…</p><p><img src="https://smhn.info/wp-content/uploads/2026/10/linemo-best-plan-v-40gb-campaign.webp" alt="LINEMO、ベストプランVが新規・プラン変更で2カ月間「40GB・基本料0円」に！"></p>]]></description><source url="https://smhn.info/202610-linemo-best-plan-v-40gb-free-two-months-campaign">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/10/linemo-best-plan-v-40gb-campaign.webp" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/10/linemo-best-plan-v-40gb-campaign.webp"/></item>
-<item><title>デスクトップ派や自作PCファンも“後付け”でPCの防犯能力を強化――PC用セキュリティ製品をピックアップ 生体認証や認証キーから物理ロックまで16製品 text by 石川 ひさよし</title><link>https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2148983.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2148983.html</guid><pubDate>Sat, 17 Oct 2026 01:00:00 +0000</pubDate><description><![CDATA[<p>デスクトップ派や自作PCファンも“後付け”でPCの防犯能力を強化――PC用セキュリティ製品をピックアップ 生体認証や認証キーから物理ロックまで16製品 text by 石川 ひさよし
-
-最近、情報漏洩や不正アクセスのニュースが増えています。大きなニュースになるのは主にサーバー側での話ですが、クライアント側、つまりお手元のPCのセキュリティ強化、不正アクセス対策も怠ってはいけません。今回はPCのセキュリティを強化する周辺機器、アクセサリーを集めてみました。
-
-デスクトップ派や自作PCファンも“後付け”でPCの防犯能力を強化――PC用セキュリティ製品をピックアップ
-
-生体認証や認証キーから物理ロックまで16製品 text by 石川 ひさよし
-
-最近、情報漏洩や不正アクセスのニュースが増えています。大きなニュースになるのは主にサーバー側での話ですが、クライアント側、つまりお手元のPCのセキュリティ強化、不正アクセス対策も怠ってはいけません。今回はPCのセキュリティを強化する周辺機器、アクセサリーを集めてみました。
-
-セキュリティ製品なので、「信頼できるメーカーの製品を選ぶ」というのはまず当然です。ただし、今後は発売元、出荷元といった「販売ルート」にも目を向ける必要があるかもしれません。仮想通貨ウォレットに盗聴回路が仕込まれたといったニュースもありました。本物を分解して内部にチップを仕込み、見た目ではまったく見分けがつかないといった話もあります。セキュリティ商品はコスパよりも信頼重視で選びましょう。
-
-ビジネスノートPCではおなじみの指紋認証。Windowsログイン時のWindows Helloや、Webサイトへのログイン時などで利用できます。小型で邪魔になりにくく、この種の生体認証の中では比較的低価格です。USB端子と一体のドングルタイプや、延長ケーブル付きの卓上タイプがありま…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/983/top.jpg" alt="デスクトップ派や自作PCファンも“後付け”でPCの防犯能力を強化――PC用セキュリティ製品をピックアップ 生体認証や認証キーから物理ロックまで16製品 text by 石川 ひさよし"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2148983.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/983/top.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/983/top.jpg"/></item>
 <item><title>【本日みつけたお買い得品】Ryzen PRO搭載ミニPCが約2万1千円オフ。32GBメモリに1TB SSD！</title><link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2149004.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/todays_sales/2149004.html</guid><pubDate>Sat, 17 Oct 2026 00:37:23 +0000</pubDate><description><![CDATA[<p>【本日みつけたお買い得品】Ryzen PRO搭載ミニPCが約2万1千円オフ。32GBメモリに1TB SSD！
 
 Amazonは10月16日から19日にかけて、プライム感謝祭を実施している。GMKtecのミニPC「M7 Ultra」は、プライム会員限定の2万1,489円引きで、9万9,749円にて購入可能だ。
@@ -6543,21 +6822,36 @@ au ：au Online Shop（au ID）。入荷すると「本申し込み」の案内�
 ソフトバンク ：ソフトバンクオンラインショップ（My SoftBank）。在庫が確保されると「本申し込み」のメールが届く。 手順と本申し込みの流れ
 
 楽天モバイ…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/10/thumb_duo_day_open_20261002.png" alt="iPhone Duoの予約受付が開始！Apple Storeと各キャリアの窓口・価格を比較"></p>]]></description><source url="https://iphone-mania.jp/iphone18-606882/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/10/thumb_duo_day_open_20261002.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/10/thumb_duo_day_open_20261002.png"/></item>
-<item><title>Windows PC����NVIDIA��SoC��RTX Spark�פ����Τ����餫�ˡ�Microsoft�ȶ�Ʊ�ǥ������ؤ��б����ʤ���</title><link>https://www.4gamer.net/games/050/G105051/20261015021/</link><guid isPermaLink="true">https://www.4gamer.net/games/050/G105051/20261015021/</guid><pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>Windows PC����NVIDIA��SoC��RTX Spark�פ����Τ����餫�ˡ�Microsoft�ȶ�Ʊ�ǥ������ؤ��б����ʤ���
+<item><title>【プロダクトレビュー・ショーケース】64GBメモリで27BのAIも画像生成も。RTX Spark搭載のASUS「ProArt P16(H7607)」の実用性を試すエージェントPC時代の先駆けとなるArm+Blackwellの最新SoC搭載機 text by 芹澤 正芳</title><link>https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2148963.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2148963.html</guid><pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>【プロダクトレビュー・ショーケース】64GBメモリで27BのAIも画像生成も。RTX Spark搭載のASUS「ProArt P16(H7607)」の実用性を試すエージェントPC時代の先駆けとなるArm+Blackwellの最新SoC搭載機 text by 芹澤 正芳
 
-去る北米時間2026年10月7日，NVIDIA製のSoC「NVIDIA RTX Spark」搭載PCが，MicrosoftやASUSTeK Computer，MSIなどから発表となった。その翌日にN…
+普段のWindows作業をこなしながら、必要なときには大きなAIモデルも手元で動かす。NVIDIAの新プラットフォーム「RTX Spark」が目指す使い方を、ASUSの16型ノートPC「ProArt P16(H7607)」で試してみた。今回の構成は20コアCPUと6,144基のCUDAコアを備えるRTX Spark N1Xに、64GBのユニファイドメモリを組み合わせたものだ。
 
-Windows PC向けNVIDIA製SoC「RTX Spark」の正体が明らかに。Microsoftと共同でゲームへの対応も進める ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
+64GBメモリで27BのAIも画像生成も。RTX Spark搭載のASUS「ProArt P16(H7607)」の実用性を試す
 
-↓アイコン/タイトル↓ 「テイルズ オブ エターニア」のここを知ってほしい！ 当時やり込んだファンが語る，リマスター版をもっと楽しむために押さえておきたいポイント ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+エージェントPC時代の先駆けとなるArm+Blackwellの最新SoC搭載機 text by 芹澤 正芳
 
-↓アイコン/タイトル↓ 作品のアニマはどこに宿るのか。「リベンジオブザセブン」と「サガフロ2 リマスター」，ふたつの“伝承”のかたち ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+普段のWindows作業をこなしながら、必要なときには大きなAIモデルも手元で動かす。NVIDIAの新プラットフォーム「RTX Spark」が目指す使い方を、ASUSの16型ノートPC「ProArt P16(H7607)」で試してみた。今回の構成は20コアCPUと6,144基のCUDAコアを備えるRTX Spark N1Xに、64GBのユニファイドメモリを組み合わせたものだ。
 
-↓アイコン/タイトル↓ 東京ゲームショウに来たら“読みもの”を集めよう！ 雑誌にカタログ，新聞風。会場で見つけた＆もらった小冊子を紹介［TGS2026］ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+プラットフォームの仕組みやEditor&#39;s Dayでの発表内容は こちらの記事 で紹介した。今回はノートPCとしての使い勝手に軸を置き、Officeでの仕事、27BのローカルLLM、画像生成、ゲームを確認する。
 
-↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+16型の薄型ボディに、CPUとRTX GPU、64GBメモリをまとめる
 
-↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。…</p><p><img src="https://www.4gamer.net/games/050/G105051/20261015021/SS/003.jpg" alt="Windows PC����NVIDIA��SoC��RTX Spark�פ����Τ����餫�ˡ�Microsoft�ȶ�Ʊ�ǥ������ؤ��б����ʤ���"></p>]]></description><source url="https://www.4gamer.net/games/050/G105051/20261015021/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/050/G105051/20261015021/SS/003.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/050/G105051/20261015021/SS/003.jpg"/></item>
+まずは今回使った本機の構成を整理して…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/963/top.jpg" alt="【プロダクトレビュー・ショーケース】64GBメモリで27BのAIも画像生成も。RTX Spark搭載のASUS「ProArt P16(H7607)」の実用性を試すエージェントPC時代の先駆けとなるArm+Blackwellの最新SoC搭載機 text by 芹澤 正芳"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2148963.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/963/top.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/963/top.jpg"/></item>
+<item><title>【笠原一輝のユビキタス情報局】フロンティアモデルAIを出先でも！NVIDIA RTX Spark搭載Surface実機レビュー</title><link>https://pc.watch.impress.co.jp/docs/column/ubiq/2148969.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/column/ubiq/2148969.html</guid><pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>【笠原一輝のユビキタス情報局】フロンティアモデルAIを出先でも！NVIDIA RTX Spark搭載Surface実機レビュー
+
+Microsoftの「Surface」ブランドにおいて、フラグシップ向け製品は、かつてはSurface Book、Surface Laptop Studioなどがあった。しかし、ここ数年はそうした製品の後継は出てこず、クリエイターやハイエンドユーザー向けの製品が不在な状況だった。
+
+フロンティアモデルAIを出先でも！NVIDIA RTX Spark搭載Surface実機レビュー
+
+Microsoftの「Surface」ブランドにおいて、フラグシップ向け製品は、かつてはSurface Book、Surface Laptop Studioなどがあった。しかし、ここ数年はそうした製品の後継は出てこず、クリエイターやハイエンドユーザー向けの製品が不在な状況だった。
+
+そんな中投入された「Surface Laptop Ultra」は、フラグシップセグメントに向けた製品となる。SoCにはNVIDIA RTX Spark N1Xを採用している。Surface Laptop Ultraの日本向けバージョンの最上位モデル(EP2-58062)を入手したので、実機レビューをお届けする。
+
+NVIDIA RTX Spark N1Xを搭載したSurface Laptop Ultra
+
+Surface Laptop Ultraが発売になった。予約開始時点で109万4,280円の最上位モデルが売り切れになるなど、高い注目を集めている。
+
+NVIDIA RTX Spark N1Xは、CPUとGPUを1パッケージに統合。GPUはメインメモリの一部をVRAMとして利用できるため、単体GPUに比べて多くのVRAMを利用できる。例えば、128GBモデルなら、32GBをCPUに、残りの…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2148/969/001.jpg" alt="【笠原一輝のユビキタス情報局】フロンティアモデルAIを出先でも！NVIDIA RTX Spark搭載Surface実機レビュー"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/column/ubiq/2148969.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2148/969/001.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2148/969/001.jpg"/></item>
 <item><title>【Hothotレビュー】128GBの統合メモリで大型ローカルAIを動かす。RTX Spark搭載「ProArt P14」</title><link>https://pc.watch.impress.co.jp/docs/column/hothot/2148879.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/column/hothot/2148879.html</guid><pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>【Hothotレビュー】128GBの統合メモリで大型ローカルAIを動かす。RTX Spark搭載「ProArt P14」
 
 2026年6月のCOMPUTEX 2026に合わせて発表され、話題を呼んだNVIDIAの新プラットフォーム「RTX Spark」。それを採用した14型ノートPC「ASUS ProArt P14」が、いよいよ10月23日から順次販売を開始する。
@@ -6575,36 +6869,21 @@ RTX Sparkは、AI処理を主眼に置いた、主にモバイルやポータブ
 Snapdragonに続くWindows on Armの新しいファミリーとして追加されたことになり、RTX Spark採用PCがメーカー各社から今後続々登場予定だ。
 
 その1つである14型ノートのASUS ProArt …</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2148/879/001.jpg" alt="【Hothotレビュー】128GBの統合メモリで大型ローカルAIを動かす。RTX Spark搭載「ProArt P14」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/column/hothot/2148879.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2148/879/001.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2148/879/001.jpg"/></item>
-<item><title>【笠原一輝のユビキタス情報局】フロンティアモデルAIを出先でも！NVIDIA RTX Spark搭載Surface実機レビュー</title><link>https://pc.watch.impress.co.jp/docs/column/ubiq/2148969.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/column/ubiq/2148969.html</guid><pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>【笠原一輝のユビキタス情報局】フロンティアモデルAIを出先でも！NVIDIA RTX Spark搭載Surface実機レビュー
+<item><title>Windows PC����NVIDIA��SoC��RTX Spark�פ����Τ����餫�ˡ�Microsoft�ȶ�Ʊ�ǥ������ؤ��б����ʤ���</title><link>https://www.4gamer.net/games/050/G105051/20261015021/</link><guid isPermaLink="true">https://www.4gamer.net/games/050/G105051/20261015021/</guid><pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>Windows PC����NVIDIA��SoC��RTX Spark�פ����Τ����餫�ˡ�Microsoft�ȶ�Ʊ�ǥ������ؤ��б����ʤ���
 
-Microsoftの「Surface」ブランドにおいて、フラグシップ向け製品は、かつてはSurface Book、Surface Laptop Studioなどがあった。しかし、ここ数年はそうした製品の後継は出てこず、クリエイターやハイエンドユーザー向けの製品が不在な状況だった。
+去る北米時間2026年10月7日，NVIDIA製のSoC「NVIDIA RTX Spark」搭載PCが，MicrosoftやASUSTeK Computer，MSIなどから発表となった。その翌日にN…
 
-フロンティアモデルAIを出先でも！NVIDIA RTX Spark搭載Surface実機レビュー
+Windows PC向けNVIDIA製SoC「RTX Spark」の正体が明らかに。Microsoftと共同でゲームへの対応も進める ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
 
-Microsoftの「Surface」ブランドにおいて、フラグシップ向け製品は、かつてはSurface Book、Surface Laptop Studioなどがあった。しかし、ここ数年はそうした製品の後継は出てこず、クリエイターやハイエンドユーザー向けの製品が不在な状況だった。
+↓アイコン/タイトル↓ 「テイルズ オブ エターニア」のここを知ってほしい！ 当時やり込んだファンが語る，リマスター版をもっと楽しむために押さえておきたいポイント ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
 
-そんな中投入された「Surface Laptop Ultra」は、フラグシップセグメントに向けた製品となる。SoCにはNVIDIA RTX Spark N1Xを採用している。Surface Laptop Ultraの日本向けバージョンの最上位モデル(EP2-58062)を入手したので、実機レビューをお届けする。
+↓アイコン/タイトル↓ 作品のアニマはどこに宿るのか。「リベンジオブザセブン」と「サガフロ2 リマスター」，ふたつの“伝承”のかたち ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
 
-NVIDIA RTX Spark N1Xを搭載したSurface Laptop Ultra
+↓アイコン/タイトル↓ 東京ゲームショウに来たら“読みもの”を集めよう！ 雑誌にカタログ，新聞風。会場で見つけた＆もらった小冊子を紹介［TGS2026］ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
 
-Surface Laptop Ultraが発売になった。予約開始時点で109万4,280円の最上位モデルが売り切れになるなど、高い注目を集めている。
+↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
 
-NVIDIA RTX Spark N1Xは、CPUとGPUを1パッケージに統合。GPUはメインメモリの一部をVRAMとして利用できるため、単体GPUに比べて多くのVRAMを利用できる。例えば、128GBモデルなら、32GBをCPUに、残りの…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2148/969/001.jpg" alt="【笠原一輝のユビキタス情報局】フロンティアモデルAIを出先でも！NVIDIA RTX Spark搭載Surface実機レビュー"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/column/ubiq/2148969.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2148/969/001.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2148/969/001.jpg"/></item>
-<item><title>【プロダクトレビュー・ショーケース】64GBメモリで27BのAIも画像生成も。RTX Spark搭載のASUS「ProArt P16(H7607)」の実用性を試すエージェントPC時代の先駆けとなるArm+Blackwellの最新SoC搭載機 text by 芹澤 正芳</title><link>https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2148963.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2148963.html</guid><pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>【プロダクトレビュー・ショーケース】64GBメモリで27BのAIも画像生成も。RTX Spark搭載のASUS「ProArt P16(H7607)」の実用性を試すエージェントPC時代の先駆けとなるArm+Blackwellの最新SoC搭載機 text by 芹澤 正芳
-
-普段のWindows作業をこなしながら、必要なときには大きなAIモデルも手元で動かす。NVIDIAの新プラットフォーム「RTX Spark」が目指す使い方を、ASUSの16型ノートPC「ProArt P16(H7607)」で試してみた。今回の構成は20コアCPUと6,144基のCUDAコアを備えるRTX Spark N1Xに、64GBのユニファイドメモリを組み合わせたものだ。
-
-64GBメモリで27BのAIも画像生成も。RTX Spark搭載のASUS「ProArt P16(H7607)」の実用性を試す
-
-エージェントPC時代の先駆けとなるArm+Blackwellの最新SoC搭載機 text by 芹澤 正芳
-
-普段のWindows作業をこなしながら、必要なときには大きなAIモデルも手元で動かす。NVIDIAの新プラットフォーム「RTX Spark」が目指す使い方を、ASUSの16型ノートPC「ProArt P16(H7607)」で試してみた。今回の構成は20コアCPUと6,144基のCUDAコアを備えるRTX Spark N1Xに、64GBのユニファイドメモリを組み合わせたものだ。
-
-プラットフォームの仕組みやEditor&#39;s Dayでの発表内容は こちらの記事 で紹介した。今回はノートPCとしての使い勝手に軸を置き、Officeでの仕事、27BのローカルLLM、画像生成、ゲームを確認する。
-
-16型の薄型ボディに、CPUとRTX GPU、64GBメモリをまとめる
-
-まずは今回使った本機の構成を整理して…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/963/top.jpg" alt="【プロダクトレビュー・ショーケース】64GBメモリで27BのAIも画像生成も。RTX Spark搭載のASUS「ProArt P16(H7607)」の実用性を試すエージェントPC時代の先駆けとなるArm+Blackwellの最新SoC搭載機 text by 芹澤 正芳"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2148963.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/963/top.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/963/top.jpg"/></item>
+↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。…</p><p><img src="https://www.4gamer.net/games/050/G105051/20261015021/SS/003.jpg" alt="Windows PC����NVIDIA��SoC��RTX Spark�פ����Τ����餫�ˡ�Microsoft�ȶ�Ʊ�ǥ������ؤ��б����ʤ���"></p>]]></description><source url="https://www.4gamer.net/games/050/G105051/20261015021/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/050/G105051/20261015021/SS/003.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/050/G105051/20261015021/SS/003.jpg"/></item>
 <item><title>ドコモ、緊急地震速報のエリアメールが届かず謝罪。原因はシステム不具合、解消まで配信されない場合も</title><link>https://smhn.info/202610-docomo-eew-area-mail-not-delivered-system-failure</link><guid isPermaLink="true">https://smhn.info/202610-docomo-eew-area-mail-not-delivered-system-failure</guid><pubDate>Fri, 16 Oct 2026 11:54:38 +0000</pubDate><description><![CDATA[<p>ドコモ、緊急地震速報のエリアメールが届かず謝罪。原因はシステム不具合、解消まで配信されない場合も
 
 NTTドコモは10月16日、同日12時40分ごろに気象庁が発表した緊急地震速報について、ドコモの利用者に緊急速報「エリアメール」が配信されなかったと発表し、謝罪しました。原因は同社のシステム不具合。ドコモは原因を特定して不具合の解消を急いでいるものの、解消するまではエリアメールが...
@@ -8135,6 +8414,15 @@ Xboxのワイヤレスコントローラーは、Xbox本体だけでなくPCや�
 Microsoftは、低年齢のプレイヤーや手の小さい人、外出先でのプレイに向くとしており、リビングでの最大4人のローカル協力プレイの例として『Minecraft Dungeons II』を挙げています。
 
 発売されるのは日本や米国、英国など36の…</p><p><img src="https://smhn.info/wp-content/uploads/2026/10/capture_20261015_214119_222_61C407.webp" alt="ポケットに入る史上最小のXBOX Nano コントローラー登場！価格8000円"></p>]]></description><source url="https://smhn.info/202610-microsoft-xbox-nano-controller-announced-japan">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/10/capture_20261015_214119_222_61C407.webp" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/10/capture_20261015_214119_222_61C407.webp"/></item>
+<item><title>【笠原一輝のユビキタス情報局】買ったらすぐローカルエージェント型AIが始められるRTX Spark N1Xのすべて</title><link>https://pc.watch.impress.co.jp/docs/column/ubiq/2148478.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/column/ubiq/2148478.html</guid><pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>【笠原一輝のユビキタス情報局】買ったらすぐローカルエージェント型AIが始められるRTX Spark N1Xのすべて
+
+NVIDIAは10月15日(現地時間)、「RTX Spark N1X」の詳細を明らかにした。TSMC 3nmで製造されるCPUダイとGPUダイの2チップで構成されるチップレット構造。CPUダイはMediaTekがカスタム設計したもので、10コアのCortex-X925と10コアのCortex-A725から構成された20コアCPUを搭載する。32MB(16MB×2)のL3キャッシュと256bit/16チャンネルのメモリコントローラを備えており、LPDDR5X-9400を利用すると300GB/sの帯域幅を実現する。GPUダイは48SM/6,144CUDAコアの構成で、24MBのL2キャッシュと、CPUに接続するためのNVLink C2Cを備えている。
+
+買ったらすぐローカルエージェント型AIが始められるRTX Spark N1Xのすべて
+
+NVIDIAは10月15日(現地時間)、「RTX Spark N1X」の詳細を明らかにした。TSMC 3nmで製造されるCPUダイとGPUダイの2チップで構成されるチップレット構造。CPUダイはMediaTekがカスタム設計したもので、10コアのCortex-X925と10コアのCortex-A725から構成された20コアCPUを搭載する。32MB(16MB×2)のL3キャッシュと256bit/16チャンネルのメモリコントローラを備えており、LPDDR5X-9400を利用すると300GB/sの帯域幅を実現する。GPUダイは48SM/6,144CUDAコアの構成で、24MBのL2キャッシュと、CPUに接続するためのNVLink C2Cを備えている。
+
+CPUとGPUの2つのチップを合わせたcTDP(Configurable TD…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2148/478/001.jpg" alt="【笠原一輝のユビキタス情報局】買ったらすぐローカルエージェント型AIが始められるRTX Spark N1Xのすべて"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/column/ubiq/2148478.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2148/478/001.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2148/478/001.jpg"/></item>
 <item><title>【プロダクトレビュー・ショーケース】【特別編】RTX Sparkは「AIもゲームも1台で」を狙う新世代Windows SoC。NVIDIAが示したエージェントPCの全貌RTX Spark Editor&#39;s Day &amp; RTX Spark搭載機の最新情報をレポート text by 芹澤 正芳</title><link>https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2148561.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2148561.html</guid><pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>【プロダクトレビュー・ショーケース】【特別編】RTX Sparkは「AIもゲームも1台で」を狙う新世代Windows SoC。NVIDIAが示したエージェントPCの全貌RTX Spark Editor&#39;s Day &amp; RTX Spark搭載機の最新情報をレポート text by 芹澤 正芳
 
 NVIDIAはアメリカのサンフランシスコでプレス向けイベント「RTX Spark Editor&#39;s Day」を開催し、Windows PC向けの新プラットフォーム「NVIDIA RTX Spark」の詳細を公開した。RTX Sparkは、Blackwell世代のRTX GPUとArmベースのGrace CPU、最大128GBのユニファイドメモリを1つのパッケージに統合したSoCだ。
@@ -8148,15 +8436,6 @@ NVIDIAはアメリカのサンフランシスコでプレス向けイベント�
 NVIDIAは2026年5月のGTC Taipeiで概要を発表していたが、今回は内部構造やWindows側の最適化、ローカルAIエージェント、クリエイティブ、ゲームへの対応が、より具体的に説明された。
 
 イベントでは講演だけでなく、RTX Spark搭載PCを使ったハ…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/561/top.jpg" alt="【プロダクトレビュー・ショーケース】【特別編】RTX Sparkは「AIもゲームも1台で」を狙う新世代Windows SoC。NVIDIAが示したエージェントPCの全貌RTX Spark Editor&#39;s Day &amp; RTX Spark搭載機の最新情報をレポート text by 芹澤 正芳"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2148561.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/561/top.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/561/top.jpg"/></item>
-<item><title>【笠原一輝のユビキタス情報局】買ったらすぐローカルエージェント型AIが始められるRTX Spark N1Xのすべて</title><link>https://pc.watch.impress.co.jp/docs/column/ubiq/2148478.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/column/ubiq/2148478.html</guid><pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>【笠原一輝のユビキタス情報局】買ったらすぐローカルエージェント型AIが始められるRTX Spark N1Xのすべて
-
-NVIDIAは10月15日(現地時間)、「RTX Spark N1X」の詳細を明らかにした。TSMC 3nmで製造されるCPUダイとGPUダイの2チップで構成されるチップレット構造。CPUダイはMediaTekがカスタム設計したもので、10コアのCortex-X925と10コアのCortex-A725から構成された20コアCPUを搭載する。32MB(16MB×2)のL3キャッシュと256bit/16チャンネルのメモリコントローラを備えており、LPDDR5X-9400を利用すると300GB/sの帯域幅を実現する。GPUダイは48SM/6,144CUDAコアの構成で、24MBのL2キャッシュと、CPUに接続するためのNVLink C2Cを備えている。
-
-買ったらすぐローカルエージェント型AIが始められるRTX Spark N1Xのすべて
-
-NVIDIAは10月15日(現地時間)、「RTX Spark N1X」の詳細を明らかにした。TSMC 3nmで製造されるCPUダイとGPUダイの2チップで構成されるチップレット構造。CPUダイはMediaTekがカスタム設計したもので、10コアのCortex-X925と10コアのCortex-A725から構成された20コアCPUを搭載する。32MB(16MB×2)のL3キャッシュと256bit/16チャンネルのメモリコントローラを備えており、LPDDR5X-9400を利用すると300GB/sの帯域幅を実現する。GPUダイは48SM/6,144CUDAコアの構成で、24MBのL2キャッシュと、CPUに接続するためのNVLink C2Cを備えている。
-
-CPUとGPUの2つのチップを合わせたcTDP(Configurable TD…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2148/478/001.jpg" alt="【笠原一輝のユビキタス情報局】買ったらすぐローカルエージェント型AIが始められるRTX Spark N1Xのすべて"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/column/ubiq/2148478.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2148/478/001.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2148/478/001.jpg"/></item>
 <item><title>100万円でも即売り切れ。NVIDIA「RTX Spark」に触れて分かった、可能性と難しさ</title><link>https://pc.watch.impress.co.jp/docs/news/2148163.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2148163.html</guid><pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate><description><![CDATA[<p>100万円でも即売り切れ。NVIDIA「RTX Spark」に触れて分かった、可能性と難しさ
 
 「RTX Sparkは、エージェントAI時代に求められるPCの姿を先取りしたもの」。これは、RTX Sparkの技術説明会に参加して筆者がユーザー視点で感じたことだ。しかし同時に、まったく新しい価値観、まったく新しい使い方を提案する製品であるがゆえに、記者視点では、この製品の姿を伝えるのが難しいとも感じた。
@@ -8630,21 +8909,6 @@ Core i5-1135G7(4コア/8スレッド)を搭載したDynabook製13.3型ノートP
 今回販売されているのは、「外観ランク基準はQualitの基準外だが、動作は正常確認済み」という訳あり中古品で、販売価格は37,400円。保証期間は出荷日から起算して10日間。
 
 主な仕様は、ディスプレイ解像度が1,920×1,080ドット、メモリが8GB、ストレージが256GB SSD、OSがWindows 11 Pro。インターフェイスには、HDMIやThunderbolt 4(USB-C)などを備えるほか、Webカメラや無線LAN機能を搭載しています。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/183/a1.jpg" alt="Core i5-1135G7搭載の13.3型ノートPC「dynabook G83/HS」が37,400円、Qualitの中古訳あり品セール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2148183.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/183/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/183/a1.jpg"/></item>
-<item><title>�����ʤ��Τ��ͤ������Ǥ⡤�������ȡȼ�ʬ�Υ������ɤˤʤ롣���ʥ��᤬��DRAPLINE�פ˻����������������ޤǻȤäƤ��ʤ��ä������Ф�</title><link>https://www.4gamer.net/games/921/G092147/20261007001/</link><guid isPermaLink="true">https://www.4gamer.net/games/921/G092147/20261007001/</guid><pubDate>Thu, 15 Oct 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>�����ʤ��Τ��ͤ������Ǥ⡤�������ȡȼ�ʬ�Υ������ɤˤʤ롣���ʥ��᤬��DRAPLINE�פ˻����������������ޤǻȤäƤ��ʤ��ä������Ф�
-
-7年間の連載を終えた「被虐のノエル」ののちにカナヲ氏が手がけたのは，ドラゴンの娘を育てるローグライトな育成RPGだった。予想を超える早期アクセスの反響，RPGツクールを使い続ける理由。自分の“好き”…
-
-好きなものを詰め込んでも，ちゃんと“自分のゲーム”になる。カナヲ氏が「DRAPLINE」に持ち込んだ，これまで使ってこなかった引き出し ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
-
-↓アイコン/タイトル↓ 作品のアニマはどこに宿るのか。「リベンジオブザセブン」と「サガフロ2 リマスター」，ふたつの“伝承”のかたち ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 東京ゲームショウに来たら“読みもの”を集めよう！ 雑誌にカタログ，新聞風。会場で見つけた＆もらった小冊子を紹介［TGS2026］ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を…</p><p><img src="https://www.4gamer.net/games/921/G092147/20261007001/SS/030.jpg" alt="�����ʤ��Τ��ͤ������Ǥ⡤�������ȡȼ�ʬ�Υ������ɤˤʤ롣���ʥ��᤬��DRAPLINE�פ˻����������������ޤǻȤäƤ��ʤ��ä������Ф�"></p>]]></description><source url="https://www.4gamer.net/games/921/G092147/20261007001/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/921/G092147/20261007001/SS/030.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/921/G092147/20261007001/SS/030.jpg"/></item>
 <item><title>iPhone Duoは買うべき？見送るべき？予約前に確かめたい5つのこと</title><link>https://iphone-mania.jp/iphone18-607467/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-607467/</guid><pubDate>Thu, 15 Oct 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>iPhone Duoは買うべき？見送るべき？予約前に確かめたい5つのこと
 
 折りたたみのiPhone Duoの予約が10月16日（金）午後9時に始まります。価格、画面、iPhone18 Pro Maxとの違い、内側の画面と耐久性、読者アンケートの5つから、買うべき人と見送るべき人の条件をまとめました。
@@ -8662,6 +8926,21 @@ iPhone Duoは買うべき？見送るべき？予約前に確かめたい5つの
 キャリアの実質価格は、2年前後で端末を返す前提の金額です。ドコモは23か月目、auは25か月目までに返却し、ソフトバンクは25か月目に買い替える条件です。返さずに使い続けるなら、一括価格との差額を払うことになります。
 
 Apple Storeでドコモ（ahamoを含む）・ソフトバンクの回線契約と一緒に買うと8,800円、オンラインで乗り換えると20,000円の割引があります。各社の条件は iPhone Duo 予約ガイド と各社の記事にまとめて…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/10/thumb_duo_buy_or_skip_20261015.png" alt="iPhone Duoは買うべき？見送るべき？予約前に確かめたい5つのこと"></p>]]></description><source url="https://iphone-mania.jp/iphone18-607467/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/10/thumb_duo_buy_or_skip_20261015.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/10/thumb_duo_buy_or_skip_20261015.png"/></item>
+<item><title>�����ʤ��Τ��ͤ������Ǥ⡤�������ȡȼ�ʬ�Υ������ɤˤʤ롣���ʥ��᤬��DRAPLINE�פ˻����������������ޤǻȤäƤ��ʤ��ä������Ф�</title><link>https://www.4gamer.net/games/921/G092147/20261007001/</link><guid isPermaLink="true">https://www.4gamer.net/games/921/G092147/20261007001/</guid><pubDate>Thu, 15 Oct 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>�����ʤ��Τ��ͤ������Ǥ⡤�������ȡȼ�ʬ�Υ������ɤˤʤ롣���ʥ��᤬��DRAPLINE�פ˻����������������ޤǻȤäƤ��ʤ��ä������Ф�
+
+7年間の連載を終えた「被虐のノエル」ののちにカナヲ氏が手がけたのは，ドラゴンの娘を育てるローグライトな育成RPGだった。予想を超える早期アクセスの反響，RPGツクールを使い続ける理由。自分の“好き”…
+
+好きなものを詰め込んでも，ちゃんと“自分のゲーム”になる。カナヲ氏が「DRAPLINE」に持ち込んだ，これまで使ってこなかった引き出し ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
+
+↓アイコン/タイトル↓ 作品のアニマはどこに宿るのか。「リベンジオブザセブン」と「サガフロ2 リマスター」，ふたつの“伝承”のかたち ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 東京ゲームショウに来たら“読みもの”を集めよう！ 雑誌にカタログ，新聞風。会場で見つけた＆もらった小冊子を紹介［TGS2026］ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た！ “困難な帰路の物語”は何を…</p><p><img src="https://www.4gamer.net/games/921/G092147/20261007001/SS/030.jpg" alt="�����ʤ��Τ��ͤ������Ǥ⡤�������ȡȼ�ʬ�Υ������ɤˤʤ롣���ʥ��᤬��DRAPLINE�פ˻����������������ޤǻȤäƤ��ʤ��ä������Ф�"></p>]]></description><source url="https://www.4gamer.net/games/921/G092147/20261007001/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/921/G092147/20261007001/SS/030.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/921/G092147/20261007001/SS/030.jpg"/></item>
 <item><title>開けばオン、閉じれば約7cmに縮んでオフ。スライド式静音マウス</title><link>https://pc.watch.impress.co.jp/docs/news/2148282.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2148282.html</guid><pubDate>Thu, 15 Oct 2026 02:54:04 +0000</pubDate><description><![CDATA[<p>開けばオン、閉じれば約7cmに縮んでオフ。スライド式静音マウス
 
 サンワサプライは10月14日、持ち運びに便利なスライド式カバーを備えたワイヤレスマウス「MA-WBBS526」シリーズを発売した。カラーはブルーとグレーの2種類で、直販価格はいずれも4,780円。
@@ -8753,261 +9032,4 @@ iCUE LINK LCD Screen Moduleは70mmサイズの冷却ファンを備え、CPU温�
 冷却には120mmファンを3基連結させた一体型フレーム設計の静音ファン「iCUE LINK RX360 II RGB」を搭載。耐久性に優れた磁気ドームベアリングを採用するほか、低い回転数で高い冷却性能を発揮できるよう最適化されている。
 
 ファンの主な仕様は、回転数が400～2,100RPM（±10%）、風圧が0.21～3.57mmH2O、風量が14.1～64.7CF…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/177/aaa.jpg" alt="5インチLCD搭載の簡易水冷クーラー「iCUE LINK TITAN II 360 RX LCD」がCORSAIRから"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2148177.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/177/aaa.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/177/aaa.jpg"/></item>
-<item><title>iPhone Duoは初回起動時にiOS27.1更新が必要 発売日の注意点</title><link>https://iphone-mania.jp/iphone18-607473/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-607473/</guid><pubDate>Thu, 15 Oct 2026 02:10:14 +0000</pubDate><description><![CDATA[<p>iPhone Duoは初回起動時にiOS27.1更新が必要 発売日の注意点
-
-10月23日に発売されるiPhone Duoは、初回起動時の初期設定の途中で、iOS27.1へのアップデートが必要になる見込みです。箱を開けてすぐに使えると考えていると、思わぬ待ち時間が生じるかもしれません。初期設定で注意したい点と、アップデートが必要になる理由を、発売日に慌てないための視点で整理しました。
-
-iPhone Duoは初回起動時にiOS27.1更新が必要 発売日の注意点
-
-10月23日に発売されるiPhone Duoは、初回起動時の 初期設定の途中で、iOS27.1へのアップデートが必要になる見込み です。箱を開けてすぐに使えると考えていると、思わぬ待ち時間が生じるかもしれません。初期設定で注意したい点と、アップデートが必要になる理由を、発売日に慌てないための視点で整理しました。
-
-iPhone Duoは初回起動時にiOS27.1の更新が必要
-
-iPhone Duoでは、初期設定の過程でアップデートが必要になると報じられています。アップデートを後回しにできるかどうかは明らかになっていないため、 受け取った当日に済ませる前提で、時間に余裕を持っておく のが安全です。
-
-海外メディアの報道によると、iPhone Duoは同機種専用のiOS27.1を搭載して出荷されます。一方でAppleは現地時間10月12日に新しいビルドをリリースしており、 出荷時のままでは最新版になりません 。
-
-どのビルドが配信されるかは発売日にならないと確定しません。表のビルド番号は、本記事執筆時点（10月15日）の情報です。
-
-アップデートの待ち時間を減らすには、受け取り前の準備と当日の段取りが大切です。
-
-旧iPhoneのバックアップが最新かを、前日までに確認しておく
-
-2ファクタ認証のコードを求められた場合に…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/10/15/5c9e8b56156c0b11e8c66363cad63524.png" alt="iPhone Duoは初回起動時にiOS27.1更新が必要 発売日の注意点"></p>]]></description><source url="https://iphone-mania.jp/iphone18-607473/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/10/15/5c9e8b56156c0b11e8c66363cad63524.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/10/15/5c9e8b56156c0b11e8c66363cad63524.png"/></item>
-<item><title>【本日みつけたお買い得品】アイオーのTV録画向けHDD 6TBが8,970円引き。大容量の外付けHDDもセール中！</title><link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2148262.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/todays_sales/2148262.html</guid><pubDate>Thu, 15 Oct 2026 01:52:27 +0000</pubDate><description><![CDATA[<p>【本日みつけたお買い得品】アイオーのTV録画向けHDD 6TBが8,970円引き。大容量の外付けHDDもセール中！
-
-Amazonは10月13日から15日にかけて、プライム感謝祭先行セールを実施中だ。アイオーデータのレコーディングHDD「RECBOX HVL-RS/UE」シリーズは、プライム会員限定の値引きで、6TB版が8,970円引きの5万830円、8TB版が1万660円引きの6万4,320円。また16TB版は、9月14日の価格から4万2,414円引きで、13万5,080円(販売元:Amazon.co.jp)にて購入できる。
-
-アイオーのTV録画向けHDD 6TBが8,970円引き。大容量の外付けHDDもセール中！
-
-Amazonは10月13日から15日にかけて、プライム感謝祭先行セールを実施中だ。アイオーデータのレコーディングHDD「RECBOX HVL-RS/UE」シリーズは、プライム会員限定の値引きで、6TB版が8,970円引きの5万830円、8TB版が1万660円引きの6万4,320円。また16TB版は、9月14日の価格から4万2,414円引きで、13万5,080円(販売元:Amazon.co.jp)にて購入できる。
-
-RECBOX HVL-RS/UEシリーズは、LAN接続のレコーディングHDD。TVで録画した番組を本機にダビングしておくことで、自宅ネットワーク内のDTCP-IP対応TVや、PC、スマホなどから録画番組を視聴できる。PCやスマホからは「DiXiM Digital TV」「DiXiM Play」などのアプリで視聴可能。インターネット経由で外出先からでも視聴でき、屋内外を問わず好きな場所で録画番組を楽しめるとする。
-
-アイオーデータ RECBOX HVL-RS/UE (6TB)
-
-Seagate「Expansion Desktop」シリーズは、USB 3.2 Gen 1接続の外付けHDD。プライム会員限定の値引きで、16TB版が1万5,190円引きの8万1,790円、20TB版が1万2,100円引きの10万8,880円、24TB版が2万6,085円…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2148/262/01.jpg" alt="【本日みつけたお買い得品】アイオーのTV録画向けHDD 6TBが8,970円引き。大容量の外付けHDDもセール中！"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/todays_sales/2148262.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2148/262/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2148/262/01.jpg"/></item>
-<item><title>llama.cppのWindowsアプリ登場、RTX Sparkに初日対応</title><link>https://pc.watch.impress.co.jp/docs/news/2148249.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2148249.html</guid><pubDate>Thu, 15 Oct 2026 01:49:36 +0000</pubDate><description><![CDATA[<p>llama.cppのWindowsアプリ登場、RTX Sparkに初日対応
-
-コマンドを打たずに、WindowsでローカルLLMを動かせるアプリが登場した。Hugging Faceは10月13日(米国時間)、ローカルLLM実行エンジン「llama.cpp」をWindows 11のタスクトレイから操作できるアプリ「Llama Windows」を公開した。無償で利用できる。
-
-llama.cppのWindowsアプリ登場、RTX Sparkに初日対応
-
-コマンドを打たずに、WindowsでローカルLLMを動かせるアプリが登場した。Hugging Faceは10月13日(米国時間)、ローカルLLM実行エンジン「llama.cpp」をWindows 11のタスクトレイから操作できるアプリ「Llama Windows」を公開した。無償で利用できる。
-
-Llama Windowsは、Hugging Face上のモデルをワンクリックでダウンロードし、llama.cppでローカル実行するためのWindows 11向けアプリ。これまでWindowsでllama.cppを使うには、ハードウェアに適したバイナリ、モデルの選定やパラメータの指定をターミナルで行なう必要があった。Llama Windowsではこうした複雑な操作が不要になり、リリースページからインストーラーをダウンロードし、ダブルクリックするだけでインストール可能だ。
-
-さらに、NVIDIA最新のRTX Spark搭載PC向けの最適化も入っており、Windows on Arm上でネイティブに動作し、モデルはRTX SparkのGPUで実行される。llama.cppが高度に最適化されたランタイムであるため、手動調整なしにRTX Sparkの演算能力とメモリを最大限に活用可能。
-
-インストールすればタスクトレイに常駐する。そのアイコンをクリックするとメニューがポップアップし、Hugging Face Hubのおすすめモデルの一覧が表示される。そこからダウンロードすると、ダウンロード済みとしてリストアップされ、モデルのロード/アンロード…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2148/249/1.jpg" alt="llama.cppのWindowsアプリ登場、RTX Sparkに初日対応"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2148249.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2148/249/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2148/249/1.jpg"/></item>
-<item><title>【本日みつけたお買い得品】キオクシアのGen 5 SSDが6,450円引き、Nextorage 8TBは4万500円引き</title><link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2148245.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/todays_sales/2148245.html</guid><pubDate>Thu, 15 Oct 2026 01:38:39 +0000</pubDate><description><![CDATA[<p>【本日みつけたお買い得品】キオクシアのGen 5 SSDが6,450円引き、Nextorage 8TBは4万500円引き
-
-Amazonは10月13日から15日にかけて、プライム感謝祭先行セールを実施している。NVMe SSDのキオクシア「EXCERIA PLUS G4」シリーズは、プライム会員限定の値引きで、1TB版が6,450円引きの3万6,530円、2TB版が1万1,250円引きの6万3,730円にて購入可能だ。
-
-キオクシアのGen 5 SSDが6,450円引き、Nextorage 8TBは4万500円引き
-
-Amazonは10月13日から15日にかけて、プライム感謝祭先行セールを実施している。NVMe SSDのキオクシア「EXCERIA PLUS G4」シリーズは、プライム会員限定の値引きで、1TB版が6,450円引きの3万6,530円、2TB版が1万1,250円引きの6万3,730円にて購入可能だ。
-
-EXCERIA PLUS G4シリーズは、PCI Express 5.0 x4接続のNVMe SSD。フラッシュメモリとして「BiCS FLASH TLC」NANDを採用する。1TB版の主なスペックは、シーケンシャルリード10,000MB/s、同ライト7,900MB/s、ランダムリード130万IOPS、同ライト140万IOPS。総書き込み容量は600TBに対応する。放熱効率を高めるというヒートスプレッダ入りラベルが貼られている。
-
-キオクシア「EXCERIA PLUS G3」シリーズは、PCI Express 4.0 x4接続のNVMe SSD。TLC NANDを採用する。1TB版で、シーケンシャルリード5,000MB/s、同ライト3,900MB/s、総書き込み容量600TBに対応。プライム会員限定の値引きで、1TB版が4,800円引きの2万7,180円、2TB版が9,600円引きの5万4,380円にて購入できる。
-
-Nextorage「NEM-PAC」シリーズは、PCI Express 4.0 x4接続のNVMe SSDだ。TLC NANDを採用。1TB版で…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2148/245/01.jpg" alt="【本日みつけたお買い得品】キオクシアのGen 5 SSDが6,450円引き、Nextorage 8TBは4万500円引き"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/todays_sales/2148245.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2148/245/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2148/245/01.jpg"/></item>
-<item><title>ThunderboltドックなどOWCのPC周辺機器が最大20%オフ！Amazonプライム感謝祭</title><link>https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2147832.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2147832.html</guid><pubDate>Thu, 15 Oct 2026 01:30:00 +0000</pubDate><description><![CDATA[<p>ThunderboltドックなどOWCのPC周辺機器が最大20%オフ！Amazonプライム感謝祭
-
-Amazon.co.jpにて、「プライム感謝祭」が10月16日（金）～10月19日（月） に開催予定。13日（火）より先行セールも開催中です。
-
-ThunderboltドックなどOWCのPC周辺機器が最大20%オフ！Amazonプライム感謝祭
-
-Amazon.co.jpにて、「プライム感謝祭」が10月16日（金）～10月19日（月） に開催予定。13日（火）より先行セールも開催中です。
-
-Express 1M2 80Gは、最大実効転送速度6,000MB/s以上をうたうUSB4/Thunderbolt接続の外付けSSDケース。セール価格は31,420円。
-
-Thunderbolt Dockは、Thunderbolt 4×4を含む11ポートを備え、96W給電や最大8Kディスプレイ出力、独立型デイジーチェーンに対応したドッキングステーション。セール価格は35,050円。
-
-USB-C Travel Dock Eは、最大100Wパススルー給電や4K画面出力、USB 3.2 Type-A×2、GbE、SDカードスロットなどを備えたポータブルUSB-Cドッキングステーション。セール価格は8,680円。
-
-Thunderbolt 4 10G Ethernet Adapterは、最大900MB/s以上の転送速度や10G/5G/2.5G/1G/100Mオートネゴシエーション、Wake-on-LAN、AVBに対応したThunderbolt 4 10G イーサネットアダプター。セール価格は28,690円。
-
-Thunderbolt 4 10G Ethernet Adapter
-
-Thunderbolt Go Dockは、電源内蔵で最大90Wの給電やThunderbolt Share、最大8K画面出力、2.5GbE、SDカードスロットなどを備えた11ポートThunderbolt 4ドッキングステーション。セール価格は35,050円。
-
-USB4 Express 4M2は、NVMe M.2 SSD…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2147/832/s1.jpg" alt="ThunderboltドックなどOWCのPC周辺機器が最大20%オフ！Amazonプライム感謝祭"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2147832.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2147/832/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2147/832/s1.jpg"/></item>
-<item><title>【本日みつけたお買い得品】7万円の大幅値引き！GeForce RTX 5060搭載ゲーミングノートが超お買い得</title><link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2148240.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/todays_sales/2148240.html</guid><pubDate>Thu, 15 Oct 2026 01:06:11 +0000</pubDate><description><![CDATA[<p>【本日みつけたお買い得品】7万円の大幅値引き！GeForce RTX 5060搭載ゲーミングノートが超お買い得
-
-Amazonは10月13日から15日にかけて、プライム感謝祭先行セールを実施中だ。14型ゲーミングノートPCのASUS「TUF Gaming A14 FA401UM」は、プライム会員限定の7万円引きで、34万9,800円にて購入できる。
-
-7万円の大幅値引き！GeForce RTX 5060搭載ゲーミングノートが超お買い得
-
-Amazonは10月13日から15日にかけて、プライム感謝祭先行セールを実施中だ。14型ゲーミングノートPCのASUS「TUF Gaming A14 FA401UM」は、プライム会員限定の7万円引きで、34万9,800円にて購入できる。
-
-TUF Gaming A14 FA401UMは、TUF Gamingシリーズ中、最もコンパクトというゲーミングノートPCだ。ディスプレイに14型液晶(最大165Hz駆動、2,560×1,600ドット)、CPUにRyzen 7 260、GPUにGeForce RTX 5060 Laptop GPU、メモリに32GB LPDDR5X、ストレージに1TB SSD、OSにWindows 11 Homeを搭載。89枚の薄型フィンを備える空冷ファンを2基内蔵し、ノイズを抑えながら高い冷却性能を発揮するとする。
-
-インターフェイスは、USB4、USB 3.2 Gen 2 Type-C(映像出力に対応)、USB 3.2 Gen 2 2基、HDMI、Wi-Fi 6E、Bluetooth 5.4、microSDカードスロット、音声入出力などを備える。
-
-ASUS TUF Gaming A14 (FA401UM-R7R5060)
-
-ASUS「TUF Gaming A14 FA401UH」は、プライム会員限定の7万1,420円引きにより、29万3,800円で購入できる。ディスプレイに14型液晶(最大165Hz駆動、2,560×1,600ドット)、CPUにRyzen 7 260、GPUにGeForce RTX 5050 Lap…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2148/240/01.jpg" alt="【本日みつけたお買い得品】7万円の大幅値引き！GeForce RTX 5060搭載ゲーミングノートが超お買い得"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/todays_sales/2148240.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2148/240/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2148/240/01.jpg"/></item>
-<item><title>MSIの5K IPSパネル採用26.9インチゲーミングモニター「MAG 271KPD7」がTSUKUMOで展示スタート</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2147348.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2147348.html</guid><pubDate>Thu, 15 Oct 2026 01:05:00 +0000</pubDate><description><![CDATA[<p>MSIの5K IPSパネル採用26.9インチゲーミングモニター「MAG 271KPD7」がTSUKUMOで展示スタート
-
-解像度とリフレッシュレートを切り替える「デュアルモード」を搭載したMSIの26.9インチ5Kモニター「MAG 271KPD7」が、TSUKUMO eX.とツクモパソコン本店IIで展示中。
-
-MSIの5K IPSパネル採用26.9インチゲーミングモニター「MAG 271KPD7」がTSUKUMOで展示スタート
-
-解像度とリフレッシュレートを切り替える「デュアルモード」を搭載したMSIの26.9インチ5Kモニター「MAG 271KPD7」が、 TSUKUMO eX. と ツクモパソコン本店II で展示中。
-
-5K UHD（75Hz）とWQHD（300Hz）で切り替えが可能なデュアルモード搭載のゲーミングモニター
-
-MAG 271KPD7は5K UHD（5,120×2,880）解像度のノングレアRAPID IPSを採用した26.9インチゲーミング液晶モニター。
-
-デュアルモードを搭載し、5K UHD（75Hz）とWQHD（300Hz）の切り替えが可能。超高精細な映像を求めるRPGや、スピードを求めるFPSなど、異なるジャンルのゲームにも1台で対応するとしている。
-
-また、24.5インチモードを搭載し、競技性の高いゲームにおいて瞬時に画面全体を把握したい場合に最適としている。他の特長はDisplayHDR 400への対応、1組のキーボード・マウスで2台のPCを切り替えて操作できるKVMスイッチなど。
-
-最大リフレッシュレートは75Hz（WQHD設定時：300Hz）。応答速度は0.5ms（GTG、最小値）。最大表示色は約10億7,300万色。視野角は178°（H）/178°（V）。コントラスト比は1,500:1。
-
-端子はHDMI 2.1（HDCP：2.3）×2、DisplayPort 1.4a（HDCP：2.3）×1、USB Type-C（DP Alt Mode）×1、USB 3.2 Gen1 Type-A（USBハブ）×2、USB 3.2 Gen1 Typ…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2147/348/a1.jpg" alt="MSIの5K IPSパネル採用26.9インチゲーミングモニター「MAG 271KPD7」がTSUKUMOで展示スタート"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2147348.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2147/348/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2147/348/a1.jpg"/></item>
-<item><title>���襤��ǭ�β����ɡ����α����Ԥı���Ū���ݡ�����ϩ�ΰ������ˤ������Ĥ�����ʹ�����ե����ȶ��˺�����Under Mythos�פ�ĩ���Υ��󥿥ӥ塼��</title><link>https://www.4gamer.net/games/041/G104191/20261008029/</link><guid isPermaLink="true">https://www.4gamer.net/games/041/G104191/20261008029/</guid><pubDate>Thu, 15 Oct 2026 01:00:00 +0000</pubDate><description><![CDATA[<p>���襤��ǭ�β����ɡ����α����Ԥı���Ū���ݡ�����ϩ�ΰ������ˤ������Ĥ�����ʹ�����ե����ȶ��˺�����Under Mythos�פ�ĩ���Υ��󥿥ӥ塼��
-
-猫たちと一緒に温泉宿でのんびり暮らし，未知の世界へと足を踏み入れる。新作JRPG「Under Mythos」はどのような世界を描こうとしているのか。プロデューサーの宮路洋一氏，キャラデザインのにしだ…
-
-かわいい猫の温泉宿。その奥に待つ宇宙的恐怖？ 宮路洋一氏＆にしだあつこ氏に聞く，ファンと共に作る「Under Mythos」の挑戦［インタビュー］ ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
-
-↓アイコン/タイトル↓ 作品のアニマはどこに宿るのか。「リベンジオブザセブン」と「サガフロ2 リマスター」，ふたつの“伝承”のかたち ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 東京ゲームショウに来たら“読みもの”を集めよう！ 雑誌にカタログ，新聞風。会場で見つけた＆もらった小冊子を紹介［TGS2026］ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら，最強にかわいい子が爆誕した話。ぬいぐるみの刺繍屋さん「Nui＆Me」を利用してみた ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 映画「オデュッセイア」を一足先に観た…</p><p><img src="https://www.4gamer.net/games/041/G104191/20261008029/SS/004.jpg" alt="���襤��ǭ�β����ɡ����α����Ԥı���Ū���ݡ�����ϩ�ΰ������ˤ������Ĥ�����ʹ�����ե����ȶ��˺�����Under Mythos�פ�ĩ���Υ��󥿥ӥ塼��"></p>]]></description><source url="https://www.4gamer.net/games/041/G104191/20261008029/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/041/G104191/20261008029/SS/004.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/041/G104191/20261008029/SS/004.jpg"/></item>
-<item><title>【本日みつけたお買い得品】13.3型有機ELで約899gの軽量モバイルノートが3万円オフ</title><link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2148235.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/todays_sales/2148235.html</guid><pubDate>Thu, 15 Oct 2026 00:50:58 +0000</pubDate><description><![CDATA[<p>【本日みつけたお買い得品】13.3型有機ELで約899gの軽量モバイルノートが3万円オフ
-
-Amazonにおいて、13.3型ノートPCのMSI「Prestige 13 AI+ A3M」が直近価格から3万円引きで、22万9,800円にて購入できる。
-
-13.3型有機ELで約899gの軽量モバイルノートが3万円オフ
-
-Amazonにおいて、13.3型ノートPCのMSI「Prestige 13 AI+ A3M」が直近価格から3万円引きで、22万9,800円にて購入できる。
-
-Prestige 13 AI+ A3Mは、重さ約899gのモバイルノートPCだ。筐体にはマグネシウム合金を採用し、軽量さと強靭さを両立。継ぎ目のない優雅なフォルムを実現したとする。主な仕様は、ディスプレイが13.3型有機EL(2,880×1,800ドット)、CPUがCore Ultra 7 355、メモリが32GB LPDDR5X、ストレージが1TB SSD、OSがWindows 11 Home。指紋認証/顔認証ログインに対応する。
-
-インターフェイスとして、Thunderbolt 4 2基、USB 3.2 Gen 1 2基、HDMI、Wi-Fi 7、Bluetooth 6.0、microSDカードスロット、音声入出力などを搭載する。
-
-MSI Prestige 13 AI+ A3M (Prestige-13-AI+A3MG-2631JP)
-
-ASUS「Vivobook 14 M1407KA」は、プライム会員限定の5万5,000円引きにより、11万4,800円で購入可能だ。ディスプレイに14型液晶(1,920×1,200ドット)、CPUにRyzen AI 5 330、メモリに16GB DDR5、ストレージに512GB SSD、OSにWindows 11 Homeを備える。
-
-ASUS Vivobook 14 (M1407KA-AI5165BUAM)
-
-ASUS「Vivobook 15 X1504MA」は、プライム会員限定の4万7,189円引きで、12万9,800円にて購入できる。ディスプレイに15.6型液…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2148/235/01.jpg" alt="【本日みつけたお買い得品】13.3型有機ELで約899gの軽量モバイルノートが3万円オフ"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/todays_sales/2148235.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2148/235/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2148/235/01.jpg"/></item>
-<item><title>【本日みつけたお買い得品】9万円台！32GBメモリ/1TB SSDのRyzen 7搭載ミニPCが約2万6千円オフで</title><link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2148228.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/todays_sales/2148228.html</guid><pubDate>Thu, 15 Oct 2026 00:31:35 +0000</pubDate><description><![CDATA[<p>【本日みつけたお買い得品】9万円台！32GBメモリ/1TB SSDのRyzen 7搭載ミニPCが約2万6千円オフで
-
-Amazonは10月13日から15日にかけて、プライム感謝祭先行セールを実施中だ。GMKtecのミニPC「K16」は、プライム会員限定の2万6,706円引きで、9万9,999円にて購入可能だ。
-
-9万円台！32GBメモリ/1TB SSDのRyzen 7搭載ミニPCが約2万6千円オフで
-
-Amazonは10月13日から15日にかけて、プライム感謝祭先行セールを実施中だ。GMKtecのミニPC「K16」は、プライム会員限定の2万6,706円引きで、9万9,999円にて購入可能だ。
-
-K16は、CPUにRyzen 7 7735HS、メモリに32GB LPDDR5、ストレージに1TB SSD、OSにWindows 11 Proを搭載するミニPC。CPUクーラーとシステムファンによるデュアルファン冷却システムを採用。USB4/OCuLink接続の外付けGPUに対応し、グラフィックス機能を強化できる。また、PCI Express 4.0 x4接続のM.2 2280スロットが2基あり、最大合計16TB(8TB×2)のNVMe SSDを搭載可能だ。
-
-インターフェイスは、USB4、USB 3.2 Gen 2 3基、USB 2.0、HDMI 2.0、DisplayPort 1.4、OCuLink、2.5Gigabit Ethernet 2基、Wi-Fi 6E、Bluetooth 5.2、音声入出力などを装備する。
-
-GMKtec「M5 Ultra」は、プライム会員限定の2万3,819円引きにより、6万9,919円で購入できる。CPUにRyzen 7 7730U、メモリに16GB DDR4、ストレージに1TB SSDを備える。OSは不明。
-
-GMKtec「G3 Ultra」は、プライム会員限定の7,800円引きで、4万3,199円にて購入可能だ。CPUにPentium Gold 7505、メモリに16GB LPDDR4、ストレージに256GB SSD、OSにWindows …</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2148/228/01.jpg" alt="【本日みつけたお買い得品】9万円台！32GBメモリ/1TB SSDのRyzen 7搭載ミニPCが約2万6千円オフで"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/todays_sales/2148228.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2148/228/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2148/228/01.jpg"/></item>
-<item><title>見守りカメラやWi-Fi 7ルーターなどTP-Link製品が最大45%オフ！Amazonプライム感謝祭</title><link>https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2147804.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2147804.html</guid><pubDate>Thu, 15 Oct 2026 00:30:00 +0000</pubDate><description><![CDATA[<p>見守りカメラやWi-Fi 7ルーターなどTP-Link製品が最大45%オフ！Amazonプライム感謝祭
-
-Amazon.co.jpにて、「プライム感謝祭」が10月16日（金）～10月19日（月） に開催予定。13日（火）より先行セールも開催中です。
-
-見守りカメラやWi-Fi 7ルーターなどTP-Link製品が最大45%オフ！Amazonプライム感謝祭
-
-Amazon.co.jpにて、「プライム感謝祭」が10月16日（金）～10月19日（月） に開催予定。13日（火）より先行セールも開催中です。
-
-Archer BE450は、5,764+1,376MbpsのWi-Fi 7接続や10G/2.5Gポートを備えた、EasyMesh対応のWi-Fiルーター。セール価格は18,530円。
-
-Archer BE19000は、最大19Gbpsのトライバンド通信対応で10G WAN/LAN各1基、2.5G LAN×1基、1G LAN×4基を搭載したWi-Fi 7ルーター。セール価格は48,600円。
-
-Deco BE22(2-pack)は、最大2882Mbps(5GHz)+688Mbps(2.4GHz)のWi-Fi 7通信やHomeShieldセキュリティに対応したメッシュWi-Fiシステム。セール価格は23,660円。
-
-Tapo C460 KITは、4K解像度でソーラーパネル充電が可能で、IP66防水防塵に対応したフルワイヤレス見守りカメラ。セール価格は13,980円。
-
-Tapo C630 KITは、3K 500万画素の画質や360°パン/チルトが可能で、ソーラーパネル充電に対応した屋外用完全ワイヤレス防犯カメラ。セール価格は13,440円。
-
-TC50 KITは、800ルーメンのセンサーライトやソーラー給電機能を備えた、2K 300万画素の画質で360°パンチルト対応の屋外用防犯カメラ。セール価格は13,980円。
-
-TC93D KITは、2K 300万画素デュアルレンズで360°パンチルト、ソーラー給電が可能な屋外用防犯カメラ。セール価格は20,640円。
-
-TC47は、2K…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2147/804/s1.jpg" alt="見守りカメラやWi-Fi 7ルーターなどTP-Link製品が最大45%オフ！Amazonプライム感謝祭"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2147804.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2147/804/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2147/804/s1.jpg"/></item>
-<item><title>iPhone Air 2の発売日は2027年春か 現行Airは買うべき？</title><link>https://iphone-mania.jp/ipadair-607470/</link><guid isPermaLink="true">https://iphone-mania.jp/ipadair-607470/</guid><pubDate>Thu, 15 Oct 2026 00:27:41 +0000</pubDate><description><![CDATA[<p>iPhone Air 2の発売日は2027年春か 現行Airは買うべき？
-
-海外メディアは、iPhone Air 2の発売日を2027年春と報じています。結論として、急ぎでなければ正式発表まで待つのがおすすめで、薄さを最優先する人や、すぐに機種変更が必要な人には現行のiPhone
-
-iPhone Air 2の発売日は2027年春か 現行Airは買うべき？
-
-海外メディアは、iPhone Air 2の発売日を2027年春と報じています。結論として、急ぎでなければ正式発表まで待つのがおすすめで、薄さを最優先する人や、すぐに機種変更が必要な人には現行のiPhone Airも有力な選択肢になります。複数の海外メディアの報道をもとに、スペックの進化点と、買うべき人・待つべき人の条件を整理します。
-
-iPhone Air 2は、 2027年春に標準モデルのiPhone18と同時に発売される見込み です。当初の予想は2026年9月でしたが、海外メディアは2025年11月に初代の販売が想定を下回ったとして無期限延期を報じ、のちに開発継続へと内容を修正しました。
-
-秋のProモデルと時期をずらすことで、AirはProシリーズとは別枠の、標準モデル寄りの選択肢へと位置づけが変わるかもしれません。日本では春が新生活や新学期の時期にあたり、買い替えを検討しやすいタイミングともいえます。ただし、バッテリー容量はサプライチェーンからの流出情報にとどまり、発売時期の報道とは 確度が異なる点に注意が必要 です。
-
-報道によると、iPhone Air 2の主な進化点は 超広角カメラの追加、A20 Proチップ、バッテリー増量、ベイパーチャンバー冷却の4つ です。並べてみると、撮影の幅と電池持ち、発熱という、薄型ボディで犠牲になりやすい要素に改良が集中しています。薄さを保ったまま初代の妥協点を埋める内容で、シ…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/10/15/e19909d96655da504db62b3ba3ee9d05.png" alt="iPhone Air 2の発売日は2027年春か 現行Airは買うべき？"></p>]]></description><source url="https://iphone-mania.jp/ipadair-607470/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/10/15/e19909d96655da504db62b3ba3ee9d05.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/10/15/e19909d96655da504db62b3ba3ee9d05.png"/></item>
-<item><title>MX Masterシリーズが安いぞ。最新「4」も良いけど「3S」も名機！メカニカルキーボードは38％オフ</title><link>https://gori.me/sale/peripheral-sale/171248</link><guid isPermaLink="true">https://gori.me/sale/peripheral-sale/171248</guid><pubDate>Thu, 15 Oct 2026 00:20:14 +0000</pubDate><description><![CDATA[<p>MX Masterシリーズが安いぞ。最新「4」も良いけど「3S」も名機！メカニカルキーボードは38％オフ
-
-ロジクールのMXシリーズがAmazonでセール中だ。MX Mechanical Mini for Macは21,120円から13,100円の38％オフ、MX Master 3Sは12,970円、MX ERGO Sは27％オフ。毎日使う編集長が、MX Master 4との違いやおすすめポイントを実体験ベースで解説する。
-
-MX Masterシリーズが安いぞ。最新「4」も良いけど「3S」も名機！メカニカルキーボードは38％オフ
-
-トラックボールのMX ERGO Sは27％オフ、MX Master 4も16,900円に
-
-薄型メカニカルキーボードのMX Mechanical Miniが38％オフの13,100円
-
-MX Master 3Sは12,970円。MX Master 4愛用者の僕でも3Sで十分だと思う
-
-トラックボールのMX ERGO Sは27％オフの12,980円、MX Master 4も16,900円に
-
-ロジクールの人気シリーズ「MX」のマウスとキーボードが、 Amazon でまとめて値下がりしている。いちばん安くなっているのは薄型メカニカルキーボードの MX MECHANICAL MINI for Mac だ。通常価格21,120円のところ13,100円で、 38％オフ になっている。
-
-僕が今まさに使っている MX MASTER 4 は16,900円、前のモデルの MX MASTER 3S は12,970円まで下がった。トラックボールの MX ERGO S も 27％オフ だ。
-
-秋は在宅ワークのデスクを見直したり、出張用の道具をそろえたりするのにちょうどいい。今回は毎日使っている僕の目線で、どれを選ぶべきかを整理する。
-
-ロジクールの MX MECHAN…</p><p><img src="https://gori.me/uploads/2022/06/MX-MASTER-3S-Review-03.jpg" alt="MX Masterシリーズが安いぞ。最新「4」も良いけど「3S」も名機！メカニカルキーボードは38％オフ"></p>]]></description><source url="https://gori.me/sale/peripheral-sale/171248">gori.me</source><media:content url="https://gori.me/uploads/2022/06/MX-MASTER-3S-Review-03.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2022/06/MX-MASTER-3S-Review-03.jpg"/></item>
-<item><title>NVIDIA製スパコン「DGX Station V100」のリフレッシュサービスがEK Japanから登場</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2148124.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2148124.html</guid><pubDate>Thu, 15 Oct 2026 00:05:00 +0000</pubDate><description><![CDATA[<p>NVIDIA製スパコン「DGX Station V100」のリフレッシュサービスがEK Japanから登場
-
-NVIDIA「DGX Station V100」のリフレッシュサービスをEK Japanが開始。オリオスペックでサービスの申し込みが始まっている。
-
-NVIDIA製スパコン「DGX Station V100」のリフレッシュサービスがEK Japanから登場
-
-NVIDIA「DGX Station V100」のリフレッシュサービスをEK Japanが開始。 オリオスペック でサービスの申し込みが始まっている。
-
-サービスは見積もり対応で、価格目安は「10～30万円ほど」（ オリオスペック ）とのこと。
-
-DGX Station V100は、NVIDIA V100×4を内蔵した2017年発売のNVIDIA製コンピューターシステム。
-
-同システムは冷却システムが水冷仕様で、冷却パーツの多くはEKWBの冷却システムが採用されている。サービスでは部品交換や内部洗浄、高性能クーラントの充填といったリフレッシュメンテナンスを施すことで、最高水準の冷却性能を取り戻せるとしている。
-
-なお、本体内蔵のCPUと電源の簡易水冷は他社製だが、交換対応は可能だという。
-
-DGX Station V100はすでに公式サポート・延長保守が終了しているが、高コストと長時間の納期がかかる新モデルへの更新に比べて、リフレッシュサービスを利用することで既存システムの資産価値を最大化できるとしている。
-
-DGX Station関連製品 Amazonで購入 楽天で購入</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/124/s1.jpg" alt="NVIDIA製スパコン「DGX Station V100」のリフレッシュサービスがEK Japanから登場"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2148124.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/124/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2148/124/s1.jpg"/></item>
-<item><title>シャオミのハイエンドが2万円引き特価！Xiaomi 17 Ultraが19万9800円→17万9800円に、17T Proも値下げ</title><link>https://smhn.info/202610-xiaomi-17-ultra-17t-pro-prime-sale-2026</link><guid isPermaLink="true">https://smhn.info/202610-xiaomi-17-ultra-17t-pro-prime-sale-2026</guid><pubDate>Wed, 14 Oct 2026 23:31:12 +0000</pubDate><description><![CDATA[<p>シャオミのハイエンドが2万円引き特価！Xiaomi 17 Ultraが19万9800円→17万9800円に、17T Proも値下げ
-
-Amazonで開催中の「プライム感謝祭」で、シャオミのハイエンドスマートフォンがセール対象になっています。「Xiaomi 17 Ultra」が16GB＋512GBモデルが19万9800円に対し、プライム会員限定2万円引きで17万9800円で販売されています。ブラック、ホワイト、ス...
-
-シャオミのハイエンドが2万円引き特価！Xiaomi 17 Ultraが19万9800円→17万9800円に、17T Proも値下げ
-
-Amazonで開催中の「プライム感謝祭」で、シャオミのハイエンドスマートフォンがセール対象になっています。
-
-「 Xiaomi 17 Ultra 」が16GB＋512GBモデルが19万9800円に対し、プライム会員限定2万円引きで 17万9800円 で販売されています。ブラック、ホワイト、スターリットグリーンの3色とも同価格です。
-
-Xiaomi 17 Ultraは、Snapdragon 8 Elite Gen 5と6.9型の有機ELディスプレイを搭載。ライカレンズを採用したカメラは、1インチセンサーの5000万画素メインカメラと75〜100mmの2億画素望遠カメラを備えます。バッテリーは6000mAhで、90Wの有線充電に対応。
-
-なお、16GB＋1TBモデルは確認時点で21万9800円のままで、値下げされていません。
-
-あわせて「 Xiaomi 17T Pro 」もプライム会員向けに値下げされています。12GB＋256GBモデルは、13万9800円から2万円引きの 11万9800円 。12GB＋512GBモデルは参考価格15万9800円のところ、ブラックとディープバイオレットが13万9800円、ディープブルーは13万2809円となっています。
-
-17T Proは、MediaTek Dimensity 9500と6.83インチ・144Hz表示のディスプレイを搭載。115mm相当の超望遠を含むライカカメラ、7000mAhバ…</p><p><img src="https://smhn.info/wp-content/uploads/2026/03/picDSC_4075.jpg" alt="シャオミのハイエンドが2万円引き特価！Xiaomi 17 Ultraが19万9800円→17万9800円に、17T Proも値下げ"></p>]]></description><source url="https://smhn.info/202610-xiaomi-17-ultra-17t-pro-prime-sale-2026">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/03/picDSC_4075.jpg" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/03/picDSC_4075.jpg"/></item>
 </channel></rss>
