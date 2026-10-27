@@ -1,6 +1,277 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Tue, 27 Oct 2026 05:02:32 +0000</lastBuildDate>
+<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Tue, 27 Oct 2026 10:32:30 +0000</lastBuildDate>
+<item><title>偽アプリにトークンを渡す脆弱性、Android版Microsoft Authenticatorに</title><link>https://pc.watch.impress.co.jp/docs/news/2151376.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2151376.html</guid><pubDate>Tue, 27 Oct 2026 02:43:24 +0000</pubDate><description><![CDATA[<p>偽アプリにトークンを渡す脆弱性、Android版Microsoft Authenticatorに
+
+不正なアプリが職場のアカウントのメールやファイルにアクセスできてしまう。Android版の「Microsoft Authenticator」にそんな脆弱性があった。Microsoftは9月8日(米国時間)にこの脆弱性(CVE-2026-80097)を公開し、バージョン6.2606.4246以降で修正している。今回、セキュリティ企業のEnclaveが10月23日(現地時間)にその詳細を公開した。深刻度を示すCVSSスコアは10点満点中8.6と高い。
+
+偽アプリにトークンを渡す脆弱性、Android版Microsoft Authenticatorに
+
+不正なアプリが職場のアカウントのメールやファイルにアクセスできてしまう。Android版の「Microsoft Authenticator」にそんな脆弱性があった。Microsoftは9月8日(米国時間)にこの脆弱性(CVE-2026-80097)を公開し、バージョン6.2606.4246以降で修正している。今回、セキュリティ企業のEnclaveが10月23日(現地時間)にその詳細を公開した。深刻度を示すCVSSスコアは10点満点中8.6と高い。
+
+Microsoft Authenticatorは、多要素認証のコード生成やサインインの承認に使うアプリ。Android上では、TeamsなどのMicrosoft製アプリがそれぞれサインインする代わりに、Authenticatorがまとめてサインインして、その結果をトークンとして各アプリに渡す“ブローカー”の役割をも果たす。
+
+トークンは「本人確認が済んでいる」ことの証明で、アプリはこれをMicrosoftのサーバーに示すだけで、パスワード入力や多要素認証をすることなく、メールやファイルを読み書きできる。つまり、トークンが手に入ればパスワードを知らずとも、多要素認証をせずとも、他人になりすましてアカウントを利用できるのだ。
+
+そして今回の脆弱性の原因は、Authenticatorがトー…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2151/376/1.jpg" alt="偽アプリにトークンを渡す脆弱性、Android版Microsoft Authenticatorに"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2151376.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2151/376/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2151/376/1.jpg"/></item>
+<item><title>旧版の半額でPC操作は最上位並み、OpenAI「GPT-6.1 Terra」</title><link>https://pc.watch.impress.co.jp/docs/news/2151399.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2151399.html</guid><pubDate>Tue, 27 Oct 2026 02:41:40 +0000</pubDate><description><![CDATA[<p>旧版の半額でPC操作は最上位並み、OpenAI「GPT-6.1 Terra」
+
+OpenAIは10月26日(米国時間)、新モデル「GPT-6.1 Terra」を発表し、ChatGPTの「ChatGPT Work」と「Codex」で提供を開始した。対象はPlus、Pro、Enterprise、Eduの各プランのユーザー。APIでも利用でき、標準のAPI価格は従来の「GPT-5.6 Terra」の半分に引き下げられ、100万トークンあたりの価格は入力が1ドル(約158円)、キャッシュ入力が0.05ドル(約8円)、出力が5ドル(約790円)。
+
+旧版の半額でPC操作は最上位並み、OpenAI「GPT-6.1 Terra」
+
+OpenAIは10月26日(米国時間)、新モデル「GPT-6.1 Terra」を発表し、ChatGPTの「ChatGPT Work」と「Codex」で提供を開始した。対象はPlus、Pro、Enterprise、Eduの各プランのユーザー。APIでも利用でき、標準のAPI価格は従来の「GPT-5.6 Terra」の半分に引き下げられ、100万トークンあたりの価格は入力が1ドル(約158円)、キャッシュ入力が0.05ドル(約8円)、出力が5ドル(約790円)。
+
+GPT-6.1 Terraは、詳細な視覚推論と正確なコンピュータ操作(Computer Use)、より明快で自然な文章作成を、高速かつ効率的に実行できるとするAIモデル。提案書の作成や技術図面の読み取り、フォームへの入力、動画編集といった、日常業務で発生するタスクを得意としている。
+
+API価格は、GPT-5.6 Terraおよび「GPT-6.1 Sol」と比べて50%安く、受け取った請求書を読み取って会計ソフトに入力するといった、大量の定型作業の自動化に向くとしている。ChatGPT WorkとCodexでも、同じ利用枠で処理できるタスク数がGPT-5.6 Terraより多く、GPT-6.1 Solや「GPT-6 Astra」と比べると大幅に増えるという。
+
+コンピュータ操作の能力はGPT-6 A…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2151/399/1.jpg" alt="旧版の半額でPC操作は最上位並み、OpenAI「GPT-6.1 Terra」"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2151399.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2151/399/1.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2151/399/1.jpg"/></item>
+<item><title>生成AI利用者の2人に1人「AIに聞かないと考えられない」20代は6割超</title><link>https://gori.me/it/171795</link><guid isPermaLink="true">https://gori.me/it/171795</guid><pubDate>Tue, 27 Oct 2026 02:30:22 +0000</pubDate><description><![CDATA[<p>生成AI利用者の2人に1人「AIに聞かないと考えられない」20代は6割超
+
+Goodnotesが実施した「AI時代の思考力／創造力実態調査」によると、生成AI利用者の2人に1人、20代では6割超が「AIに聞かないと考え始められない」と回答した。独創的なアイデアに実際にたどり着いた場面で最も使われていたのは手書きで、手書きを先に使う人は生成AI先行の人より約2.4倍その割合が高かった。
+
+生成AI利用者の2人に1人「AIに聞かないと考えられない」20代は6割超
+
+独創的なアイデアは手書きが先の人が2.4倍多いとGoodnotesが調査
+
+Goodnotesの調査で、生成AI利用者の2人に1人、20代では6割超が「AIに聞かないと考え始められない」と回答した
+
+独創的なアイデアに実際にたどり着いた場面で最も使われていた手段は「手書き」で、生成AIは2位にとどまった
+
+生成AIと手書きを両方使う人のうち、手書きを先に使った人は、AIを先に使った人より独創的なアイデアに「よくたどり着く」割合が約2.4倍高かった
+
+デジタルノートアプリ「Goodnotes」を展開するGoodnotes Limitedは、日常業務で企画立案やアイデア出しを週1日以上行う全国のビジネスパーソン1,000人を対象に、「 AI時代の思考力／創造力実態調査 」を実施し、結果を発表した。
+
+調査で浮かび上がったのは、生成AIを仕事で使う人の 2人に1人 が「 AIに聞かないと、自分では考え始められなくなった 」と感じているという実態だ。とくに20代ではその割合が 6割を超え 、全世代で最も高かった。
+
+一方で、独創的なアイデアが生まれた場面で実際に最も多く使われていた手段は、意外にも「 手書き 」だった。しかも「まず手書きで書き、その後にAIを使う」人は、独創的なアイデアに「よくたどり着く」割合が、逆の順番（ま…</p><p><img src="https://gori.me/uploads/2026/10/Goodnotes-AI-research-01.jpg" alt="生成AI利用者の2人に1人「AIに聞かないと考えられない」20代は6割超"></p>]]></description><source url="https://gori.me/it/171795">gori.me</source><media:content url="https://gori.me/uploads/2026/10/Goodnotes-AI-research-01.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/10/Goodnotes-AI-research-01.jpg"/></item>
+<item><title>ガラス窓やアルミ製カバーを備えた水冷ブロック「Thermal Grizzly DeltaMate CPU Block - MPII Intel LGA 1851」</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2150928.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2150928.html</guid><pubDate>Tue, 27 Oct 2026 02:30:00 +0000</pubDate><description><![CDATA[<p>ガラス窓やアルミ製カバーを備えた水冷ブロック「Thermal Grizzly DeltaMate CPU Block - MPII Intel LGA 1851」
+
+高性能0.2mmマイクロフィンを採用した水冷ブロック「Thermal Grizzly DeltaMate CPU Block - MPII Intel LGA 1851（TG-DM-CPU-002）」がオリオスペックに入荷した。店頭価格は82,280円。
+
+ガラス窓やアルミ製カバーを備えた水冷ブロック「Thermal Grizzly DeltaMate CPU Block - MPII Intel LGA 1851」
+
+高性能0.2mmマイクロフィンを採用した水冷ブロック「Thermal Grizzly DeltaMate CPU Block - MPII Intel LGA 1851（TG-DM-CPU-002）」が オリオスペック に入荷した。店頭価格は82,280円。
+
+陽極酸化アルミニウム製カバーやホウケイ酸ガラス製のウィンドウ、ニッケルメッキ銅製コールドプレート、真鍮製の接続口などで構成された本格水冷パーツ。
+
+使用されているシーリングOリングは高品質のEPDMゴム製で、冷却液、熱、経年劣化に対する耐性を備えている。バックプレートは、黒色陽極酸化加工が施された削り出しアルミニウム製。
+
+上記のほかARGB対応のLEDも搭載する。対応CPUソケットはIntel LGA 1851。フィッティング径はG1/4。
+
+Thermal Grizzly関連製品 Amazonで購入 楽天で購入</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2150/928/a1.jpg" alt="ガラス窓やアルミ製カバーを備えた水冷ブロック「Thermal Grizzly DeltaMate CPU Block - MPII Intel LGA 1851」"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2150928.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2150/928/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2150/928/a1.jpg"/></item>
+<item><title>iPhone Duoの画面割れ問題。ヒンジ部品の供給元が株価暴落、「当社部品の欠陥ではない」と声明</title><link>https://smhn.info/202610-iphone-duo-hinge-supplier-finemtec-denies-defect</link><guid isPermaLink="true">https://smhn.info/202610-iphone-duo-hinge-supplier-finemtec-denies-defect</guid><pubDate>Tue, 27 Oct 2026 01:56:05 +0000</pubDate><description><![CDATA[<p>iPhone Duoの画面割れ問題。ヒンジ部品の供給元が株価暴落、「当社部品の欠陥ではない」と声明
+
+Apple初の折りたたみスマートフォン「iPhone Duo」をめぐり、発売直後から内側の画面がヒンジに沿って割れたという報告が相次いでいます。米iFixitも、分解調査のなかでヒンジ中央の支えを原因の候補に挙げました。こうしたなか、ヒンジ部品の供給元として取り沙汰された韓国の部...
+
+iPhone Duoの画面割れ問題。ヒンジ部品の供給元が株価暴落、「当社部品の欠陥ではない」と声明
+
+Apple初の折りたたみスマートフォン「iPhone Duo」をめぐり、発売直後から 内側の画面がヒンジに沿って割れたという報告 が相次いでいます。米iFixitも、分解調査のなかで ヒンジ中央の支えを原因の候補に挙げました 。
+
+こうしたなか、ヒンジ部品の供給元として取り沙汰された韓国の部品メーカーが、自社部品の欠陥ではないとする声明を発表しました。
+
+韓国のFine M-Tec（파인엠텍、ファインエムテック）は10月26日、自社サイトに「顧客企業の新製品の品質問題に関する当社の公式見解」を掲載。「 最近一部の製品で発生したとされる品質問題は、当社が供給する部品の品質欠陥に起因するものではない 」と明言しました。
+
+なお声明はAppleやiPhone Duoの名前を直接言明せず、「一部の折りたたみスマートフォンで提起されている品質問題」と表現するにとどまります。
+
+韓国のNewsWorksによると、証券業界では同社が第3四半期から、折りたたみスマホのヒンジ部品であるバックプレートをiPhone Duo向けに供給したとの見方が出ていました。しかし、Fine M-TecとAppleの双方が、供給の事実を公式には認めていません。
+
+同社は声明のなかで、折りたたみスマホが多くの主要部品と精密な機構設計で成り立つ製品であると説明しています。
+
+そのうえで「 完成品で起きる個別の現象を特定の部品の欠陥と直接結びつけるには、客観的で技術的な検証が先に必要 」と指摘。今回の品質問題を自社部品と結びつ…</p><p><img src="https://smhn.info/wp-content/uploads/2026/10/capture_20261027_105254_317_39055F.webp" alt="iPhone Duoの画面割れ問題。ヒンジ部品の供給元が株価暴落、「当社部品の欠陥ではない」と声明"></p>]]></description><source url="https://smhn.info/202610-iphone-duo-hinge-supplier-finemtec-denies-defect">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/10/capture_20261027_105254_317_39055F.webp" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/10/capture_20261027_105254_317_39055F.webp"/></item>
+<item><title>iOS/iPadOS27.2がリリース〜リリースノートを確認</title><link>https://iphone-mania.jp/ios-608002/</link><guid isPermaLink="true">https://iphone-mania.jp/ios-608002/</guid><pubDate>Tue, 27 Oct 2026 01:13:18 +0000</pubDate><description><![CDATA[<p>iOS/iPadOS27.2がリリース〜リリースノートを確認
+
+Appleが2026年10月27日、iOS27.2とiPadOS27.2をリリースしました。リリースノートを確認します。
+
+iOS/iPadOS27.2がリリース〜リリースノートを確認
+
+Appleが2026年10月27日、 iOS27.2 と iPadOS27.2 をリリースしました。リリースノートを確認します。
+
+Appleはまた、 watchOS27.2やmacOS Golden Gate 27.2などもリリース しています。
+
+Siri Al （iPhone16以降のすべての機種、iPhone15 Pro、iPhone15 Pro Max）
+
+SiriAlは、より高機能で自然な会話ができるSiriです。フランス語、日本語、韓国語、ポルトガル語、およびスペイン語に対応し、より多くの言語のユーザに順次提供されます。Siri AlはEUと中国本土では使用できません
+
+SiriAlは、個人の状況やニーズを理解する機能、アプリでアクションを実行する機能、画面上の内容を認識する機能、広範な世界の知識にアクセスする機能などを活用し、必要なものを見つけたり、より多くのことをこなしたりできるよう手助けします
+
+専用のSiriアプリでは、以前の会話を簡単に見返したり、新しい会話を始めたりでき、さらにiCloudを使って、Apple製品間で会話を非公開で同期できます
+
+“カメラ”のSiriモードでは、ビジュアルインテリジェンスをカメラアプリに統合し、目の前にあるものについて質問したり、それに関連するアクションを実行したりできます。例えば、割り勘を計算したり、料理の栄養情報を調べたりできます
+
+“Siriで作文”を使うと、文字を入力できるほぼすべての場所で、下書きをゼロから生成したり、あなたが書いたものを編集したり、フィードバ…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/10/27/IMG_1859.jpeg" alt="iOS/iPadOS27.2がリリース〜リリースノートを確認"></p>]]></description><source url="https://iphone-mania.jp/ios-608002/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/10/27/IMG_1859.jpeg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/10/27/IMG_1859.jpeg"/></item>
+<item><title>高品質金属ケース採用のラピトリ対応キーボード「VELOTA FUZZY60/63 V2」が登場</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2150739.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2150739.html</guid><pubDate>Tue, 27 Oct 2026 01:05:00 +0000</pubDate><description><![CDATA[<p>高品質金属ケース採用のラピトリ対応キーボード「VELOTA FUZZY60/63 V2」が登場
+
+高品質な金属ケースを採用したラピッドトリガー対応ゲーミングキーボード「FUZZY V2」が、ATK傘下のVELOTAブランドから登場した。
+
+高品質金属ケース採用のラピトリ対応キーボード「VELOTA FUZZY60/63 V2」が登場
+
+高品質な金属ケースを採用したラピッドトリガー対応ゲーミングキーボード「FUZZY V2」が、ATK傘下のVELOTAブランドから登場した。
+
+60%レイアウトの「FUZZY60 V2」、カーソルキーを備えた63%レイアウトの「FUZZY63 V2」の2モデルで、カラーはIce Blue、Black Iceの2色。店頭価格は39,800円。
+
+ソフマップAKIBA パソコン・デジタル館 ではサンプル展示が行われている。
+
+VELOTA FUZZY V2シリーズは、磁気スイッチ搭載でラピッドトリガー機能に対応したゲーミングキーボード。
+
+フェザーテクスチャを施したアルマイト加工金属筐体を採用し、光の当たり方によって表情を変える立体的な質感と上質な手触りを両立した外観をうたう。
+
+底面にはTROPIX 3Dレリーフによるデザインを採用。30時間以上にわたる加工工程で自然が生み出すダイナミックな造形を立体的なレリーフとして表現しているとする。
+
+ケースは着脱が簡単なクイックリリース構造で、内部にはシリコン製ガスケットマウント構造と5層構成の吸音素材を配置する。
+
+PCBには、600MHzのメインコアに240MHz×2を備えたマルチコアアーキテクチャを採用。
+
+センサーによるデータサンプリング、MCUによるデータ処理、USBポーリングによるPCとの通信をそれぞれ独立した経路に分離し、3基のMCUによって協調制御する「Tri-Core Frame-Sync」システムで、押下時0.22ms、リリース時0.28msの低遅延入力を実現したとする。
+
+また独自のリアルタイム演算を行う「MagNeural」磁気演算テクノロジーで、温度変化なども考慮した安定動作…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2150/739/s1.jpg" alt="高品質金属ケース採用のラピトリ対応キーボード「VELOTA FUZZY60/63 V2」が登場"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2150739.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2150/739/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2150/739/s1.jpg"/></item>
+<item><title>Ryzen 5 7640HS搭載のミニPC「GMKtec NucBox M6 Ultra」に16GBメモリ/512GB SSDモデル</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2150910.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2150910.html</guid><pubDate>Tue, 27 Oct 2026 00:05:00 +0000</pubDate><description><![CDATA[<p>Ryzen 5 7640HS搭載のミニPC「GMKtec NucBox M6 Ultra」に16GBメモリ/512GB SSDモデル
+
+GMKtecのRyzen 5 7640HS搭載ミニPC「GMKtec NucBox M6 Ultra」に新モデルが登場、16GBメモリ/512GB SSDを搭載した「GMK-M6 ULTRA-16/512-W11Pro(7640HS)」が発売された。
+
+Ryzen 5 7640HS搭載のミニPC「GMKtec NucBox M6 Ultra」に16GBメモリ/512GB SSDモデル
+
+GMKtecのRyzen 5 7640HS搭載ミニPC「GMKtec NucBox M6 Ultra」に新モデルが登場、16GBメモリ/512GB SSDを搭載した「GMK-M6 ULTRA-16/512-W11Pro(7640HS)」が発売された。
+
+最大3画面同時出力に対応したRyzen 5 7640HS搭載のミニPC
+
+GMKtec NucBox M6 Ultraは、ノートPC向けプロセッサのAMD Ryzen 5 7640HS、16GBメモリ（8GB×2）、512GB SSDを搭載したPC。OSはWindows 11 Pro。本体のサイズはD128.8×W128×H47.8mm、重量は約502g。
+
+メモリスロットはDDR5 SO-DIMM×2（最大128GB）で、2つとも使用済みのため増量時は交換が必要。SSDスロットはM.2 2280 NVMe（PCIe 4.0）×2（最大8TB）。なお、初期搭載SSDはPCIe 3.0対応。
+
+前面ポートはUSB 3.2 Gen2 Type-A×2、USB4×1、3.5mmオーディオ×1。背面ポートはUSB 2.0×1、USB 3.2 Gen2 Type-A×1、HDMI 2.0×1、DisplayPort 1.4×1、2.5G LAN×2。Wi-Fi 6E、Bluetooth 5.2も搭載する。
+
+付属品はACアダプター、ACケーブル、HDMIケーブル、VESAマウント、ネジセット。
+
+GMK-M6 UL…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2150/910/a1.jpg" alt="Ryzen 5 7640HS搭載のミニPC「GMKtec NucBox M6 Ultra」に16GBメモリ/512GB SSDモデル"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2150910.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2150/910/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2150/910/a1.jpg"/></item>
+<item><title>【第10回アンケート】iPhone Duo もう手元にある？ 使ってみた感想を教えてください</title><link>https://iphone-mania.jp/iphone18-607381/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-607381/</guid><pubDate>Tue, 27 Oct 2026 00:00:46 +0000</pubDate><description><![CDATA[<p>【第10回アンケート】iPhone Duo もう手元にある？ 使ってみた感想を教えてください
+
+Apple初の折りたたみiPhone「iPhone Duo」が10月23日（金）に発売されました。閉じれば通常のiPhone、開けば大きな画面として使える折りたたみ型で、価格は256GBの364,800円から2TBの574,800円まで。実際に手にした方は、どんな使い心地を感じているでしょうか。
+
+【第10回アンケート】iPhone Duo もう手元にある？ 使ってみた感想を教えてください
+
+Apple初の折りたたみiPhone「iPhone Duo」が10月23日（金）に発売されました。閉じれば通常のiPhone、開けば大きな画面として使える折りたたみ型で、価格は256GBの364,800円から2TBの574,800円まで。実際に手にした方は、どんな使い心地を感じているでしょうか。
+
+そこで iMコミュニティで、 第10回の読者アンケート「iPhone Duo、もう手元にありますか？」 を始めました。使い始めた方には カラー・容量・満足度・良かったところ・気になったところ を伺います。
+
+予約開始の直前に実施した 第8回アンケート（158人が回答） では、71.5%が「予約開始日に予約する」と答えました。カラーはスターホワイトとナイトスカイがほぼ半々、容量は512GBが54.4%で最も多くなっています。実際に買った方の選択と使ってみた感想を、発売後のいま改めて伺います。
+
+また全員に、 折りたたみiPhoneにいくらまでなら出せるか も聞いています。発表前（第4回）と発表直後（第5回）にも同じ質問をしており、発売後の答えと並べてご報告します。
+
+iPhone Duoがもう手元にあるか （使っている／まだ届いていない／まだ注文していない／買わない）
+
+最初の設問に答えると、あなたに関係のある設問だけが表示されます。選ぶだけなので 1分ほど で終わります。
+
+【第10回アンケート】iPhone Duo、もう手元にありますか？ 使ってみた感想を教えてください｜iMコミュニティ
+
+…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/10/thumb_10th.png" alt="【第10回アンケート】iPhone Duo もう手元にある？ 使ってみた感想を教えてください"></p>]]></description><source url="https://iphone-mania.jp/iphone18-607381/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/10/thumb_10th.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/10/thumb_10th.png"/></item>
+<item><title>iPad miniかiPhone Duoか、あなたはどっちを選ぶ？重さ1g差・価格差24万円</title><link>https://gori.me/iphone/171789</link><guid isPermaLink="true">https://gori.me/iphone/171789</guid><pubDate>Mon, 26 Oct 2026 23:45:30 +0000</pubDate><description><![CDATA[<p>iPad miniかiPhone Duoか、あなたはどっちを選ぶ？重さ1g差・価格差24万円
+
+11月6日発売の新しいiPad miniと、10月23日発売のiPhone Duo。重さは255gと254gで1g差、チップはどちらもA20 Proだが、価格差は245,000円ある。画面の広さ、ProMotion、IP67とIP68の違い、ヒンジの耐久性まで、現時点で分かっていることを整理した。
+
+iPad miniかiPhone Duoか、あなたはどっちを選ぶ？重さ1g差・価格差24万円
+
+画面の広さはmini、なめらかさはDuo。防水は等級で意外な結果に
+
+iPad miniは119,800円（税込）から、iPhone Duoは364,800円（税込）から。重さは255gと254gで1g差なのに、価格差は245,000円ある
+
+画面は対角でiPad miniが0.9インチ広く最小輝度1ニトまで落とせる一方、ProMotion（最大120Hz）と常時表示、ピーク輝度3,000ニト・430ppi、48MPの3眼カメラはiPhone Duoだけ
+
+チップは同じA20 Proだが、iPad miniのCPUは容量によって5コアと6コアに分かれると報じられている。耐水はIP68のDuoが等級では上で、動く部分がないminiは壊れる箇所が少ない
+
+11月6日に発売される新しい iPad mini と、10月23日に発売された iPhone Duo 。重さの差は1gしかなく、載っているチップはどちらも A20 Pro だ。
+
+価格は、 iPad mini が119,800円（税込）から、 iPhone Duo が364,800円（税込）から。 その差は245,000円 ある。同じ「手のひらで大きな画面」を狙った2台なのに、性格はまるで違う。
+
+今の時点で分かっていることを並べて、どちらが…</p><p><img src="https://gori.me/uploads/2026/10/1793057478955-iphone-duo-vs-ipad-mini-comparison.jpg" alt="iPad miniかiPhone Duoか、あなたはどっちを選ぶ？重さ1g差・価格差24万円"></p>]]></description><source url="https://gori.me/iphone/171789">gori.me</source><media:content url="https://gori.me/uploads/2026/10/1793057478955-iphone-duo-vs-ipad-mini-comparison.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/10/1793057478955-iphone-duo-vs-ipad-mini-comparison.jpg"/></item>
+<item><title>お手頃価格だったパナソニックのMSX2+「FS-A1FX」</title><link>https://akiba-pc.watch.impress.co.jp/docs/column/retrohard/2145784.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/column/retrohard/2145784.html</guid><pubDate>Mon, 26 Oct 2026 23:05:00 +0000</pubDate><description><![CDATA[<p>お手頃価格だったパナソニックのMSX2+「FS-A1FX」
+
+想い出に残る懐かしのマイコン・パソコンを写真とともに振り返る本コーナー。今回は、パナソニックが1988年10月21日に発売したMSX2+規格のパソコン、FS-A1FXを取り上げます。
+
+想い出に残る懐かしのマイコン・パソコンを写真とともに振り返る本コーナー。今回は、パナソニックが1988年10月21日に発売したMSX2+規格のパソコン、FS-A1FXを取り上げます。
+
+1983年7月に発表されたMSX(1)規格はその後、1985年3月に登場したMSX2によって最大画面解像度が512×424(インタレース使用時)、最大表示色数が256色になるなど、表現力が一気に豊かになっていきます。そして1988年9月、さらなるMSX2+規格が発表されると、見た目の美しさなどでそれまで以上のパワーアップを実現することとなりました。
+
+MSX2では64キロバイト以上とされていたビデオRAMの容量が、MSX2+規格では128キロバイトと定められたほか、MSX2ではハードウェア縦スクロールのみだったものも、MSX2+では水平方向のハードウェアスクロールが可能となっています。最大表示色数についても、MSX2では256色だったところMSX2+では大幅に増えて、一気に19,268色となりました。これは、画面表示を受け持つVDP(ビデオ・ディスプレイ・プロセッサ)が、それまでのV9938に代わって新しく開発されたV9958となったことなどから実現したものです。
+
+それだけでなく、MSX2まではオプション扱いだった漢字ROMに関しても、MSX2+規格ではJIS第1水準漢字ROMが標準搭載となりました。このおかげで、BASICでも漢字表示が可能になっただけでなく、プログラム中に漢字を混ぜて使うことができるようになっています。一部機種を除けば、BAS…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2145/784/0.jpg" alt="お手頃価格だったパナソニックのMSX2+「FS-A1FX」"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/column/retrohard/2145784.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2145/784/0.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2145/784/0.jpg"/></item>
+<item><title>新型iPad miniの進化ポイント7選。512GBだけCPUが6コア</title><link>https://gori.me/ipad/ipadmini/171786</link><guid isPermaLink="true">https://gori.me/ipad/ipadmini/171786</guid><pubDate>Mon, 26 Oct 2026 22:53:27 +0000</pubDate><description><![CDATA[<p>新型iPad miniの進化ポイント7選。512GBだけCPUが6コア
+
+新しいiPad miniは厚さ5.4mm、重さ255g、8.5インチの有機ELディスプレイへ。IP67等級の耐水・防塵、画面が鳴るAcoustic Display、2ナノメートルのA20 Pro、Wi-Fi 7まで一気に変わった。進化ポイント7つと据え置きの3点を整理した。発売は11月6日、119,800円から。
+
+新型iPad miniの進化ポイント7選。512GBだけCPUが6コア
+
+ディスプレイから音が鳴る「Acoustic Display」が楽しみ過ぎる
+
+厚さ5.4mm・重さ255g・8.5インチ有機ELに刷新。前世代から38g軽く、0.9mm薄くなった
+
+iPad mini初のIP67等級に対応。画面そのものが鳴るAcoustic Displayの密閉構造も、その基準を満たすのに役立っている
+
+A20 Proは容量で中身が違い、6コアCPUとデュアル16コアNeural Engineは512GBのみ。60HzとTouch IDは据え置き
+
+新しい iPad mini は、 厚さ5.4mm、重さ255g、8.5インチの有機ELディスプレイ という3つの数字だけで、前のモデルから別物になった。おまけに、IP67等級の耐水・防塵にも対応している。
+
+Appleは 10月26日のプレスリリース で、これを「 iPad mini 史上最大の アップデート 」と呼んでいる。画面もチップも本体も音も通信も変わったので、正直どこから見ればいいのか迷う。
+
+そこで、忙しい人向けに 押さえておけば十分な進化ポイントを7つ に絞った。予約は10月29日（木）午前2時10分から、発売は11月6日（金）。価格はWi-Fiモデルが119,800円（税込）から、Wi-Fi + Cellularモデルが144,800円（…</p><p><img src="https://gori.me/uploads/2026/10/Apple-iPad-mini-hero-261026.jpg" alt="新型iPad miniの進化ポイント7選。512GBだけCPUが6コア"></p>]]></description><source url="https://gori.me/ipad/ipadmini/171786">gori.me</source><media:content url="https://gori.me/uploads/2026/10/Apple-iPad-mini-hero-261026.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/10/Apple-iPad-mini-hero-261026.jpg"/></item>
+<item><title>iPhone Duoの画面割れ、Appleが公式に認めて交換対応へ</title><link>https://gori.me/iphone/iphone-news/171779</link><guid isPermaLink="true">https://gori.me/iphone/iphone-news/171779</guid><pubDate>Mon, 26 Oct 2026 22:25:56 +0000</pubDate><description><![CDATA[<p>iPhone Duoの画面割れ、Appleが公式に認めて交換対応へ
+
+Appleが、折りたたみiPhone「iPhone Duo」の内側ディスプレイがヒンジに沿って割れる報告について公式に認めた。対象は一部の端末のみで、該当する場合はAppleCareへの連絡を案内している。日本ではAppleCare+加入なら修理費が12,900円まで下がる。原因や恒久的な対策は明らかにされていない。
+
+iPhone Duoの画面割れ、Appleが公式に認めて交換対応へ
+
+ヒンジに沿って割れる例が相次ぎ、原因や恒久対策は未公表のまま
+
+Appleが、iPhone Duoの内側ディスプレイがヒンジに沿って割れる報告について公式に認め、対象は一部の端末のみとした
+
+該当する場合はAppleCareへの連絡で交換対応となり、日本ではAppleCare+加入時の修理費は12,900円
+
+原因やAI生成画像の混在など不確定要素も多く、恒久的な対策はまだ示されていない
+
+Appleが、折りたたみiPhone「 iPhone Duo 」の内側ディスプレイがヒンジに沿って割れるという報告について、公式の見解を示した。対象はごく一部の端末に限られるとした上で、該当する場合は AppleCare に連絡して交換を受けるよう案内している。
+
+MacRumors によると、Appleは10月26日（現地時間）にこの声明を寄せた。
+
+「 iPhone Duo に対する初期ユーザーからの反応は非常に好評です。デベロッパーからも、このユニークな形状を活かそうと急速にアプリを更新する、わくわくするような動きが見られています。私たちは、一部の iPhone Duo の端末において、内側のディスプレイに影響する問題が発生していることを認識しています。 iPhone Duo のディスプレイに問題が見られる場合は、 AppleC…</p><p><img src="https://gori.me/uploads/2026/10/Crackgate-for-iPhoneDuo.jpg" alt="iPhone Duoの画面割れ、Appleが公式に認めて交換対応へ"></p>]]></description><source url="https://gori.me/iphone/iphone-news/171779">gori.me</source><media:content url="https://gori.me/uploads/2026/10/Crackgate-for-iPhoneDuo.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/10/Crackgate-for-iPhoneDuo.jpg"/></item>
+<item><title>iPadOS 27.2配信開始。Siri AIがついに日本語対応</title><link>https://gori.me/ipados/ipados-news/171776</link><guid isPermaLink="true">https://gori.me/ipados/ipados-news/171776</guid><pubDate>Mon, 26 Oct 2026 22:15:44 +0000</pubDate><description><![CDATA[<p>iPadOS 27.2配信開始。Siri AIがついに日本語対応
+
+Appleが日本時間10月27日未明、iPadOS 27.2の配信を開始した。目玉は新しいSiri「Siri AI」の日本語対応で、フランス語や韓国語なども同時に追加された。使えるのはM1以降のiPadとiPad mini（A17 Pro）で、ベータ版のためEUと中国本土は対象外。共有アルバムの改善も入っている。
+
+iPadOS 27.2配信開始。Siri AIがついに日本語対応
+
+対象はM1以降のiPadとiPad mini（A17 Pro）。EUと中国本土は使えない
+
+Appleが日本時間10月27日未明にiPadOS 27.2を配信開始。Siri AIが日本語、フランス語、韓国語、ポルトガル語、スペイン語に対応した
+
+Siri AIが使えるのはA17 Proを搭載したiPad miniとM1以降のiPadのみ。ベータ版で、EUと中国本土では利用できない
+
+iPadでは画面上端から下スワイプしてSpotlightから質問でき、Apple Pencilで聞きたい部分をハイライトできる
+
+iPad でも、新しい Siri がついに日本語で動くようになった。Appleが日本時間10月27日未明、 iPad 向けの最新 アップデート 「 iPadOS 27 .2」の配信を開始した。
+
+Appleのニュースルーム によると、この27.2世代の アップデート で、 Siri AI が日本語、フランス語、韓国語、ポルトガル語、スペイン語に対応した。 Siri AI とは、 Apple Intelligence を土台につくり直された新しい Siri である。
+
+会話の流れを覚えたまま質問を重ねられ、画面に映っているものを見て答えたり、アプリをまたいで操作を代行したりする。9月の iPadOS 27 では画面の言語を英…</p><p><img src="https://gori.me/uploads/2026/10/ios27_2-official-release-3.jpg" alt="iPadOS 27.2配信開始。Siri AIがついに日本語対応"></p>]]></description><source url="https://gori.me/ipados/ipados-news/171776">gori.me</source><media:content url="https://gori.me/uploads/2026/10/ios27_2-official-release-3.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/10/ios27_2-official-release-3.jpg"/></item>
+<item><title>watchOS 27.2配布開始。Siri AIがついに日本語対応</title><link>https://gori.me/watchos/watchos-news/171778</link><guid isPermaLink="true">https://gori.me/watchos/watchos-news/171778</guid><pubDate>Mon, 26 Oct 2026 22:05:20 +0000</pubDate><description><![CDATA[<p>watchOS 27.2配布開始。Siri AIがついに日本語対応
+
+Appleが日本時間10月27日未明、Apple Watch向けの「watchOS 27.2」の配布を開始した。生まれ変わったSiriこと「Siri AI」が日本語に対応し、前の会話を覚える機能とApple Watchでの応答の高速化も入る。対応はSeries 9以降、Ultra 2以降、SE 3。
+
+watchOS 27.2配布開始。Siri AIがついに日本語対応
+
+前の会話を覚える機能とApple Watchでの応答の高速化も同時に
+
+watchOS 27.2が配布開始。Siri AIが日本語、フランス語、韓国語、ポルトガル語、スペイン語に対応した
+
+前の会話を覚えて呼び出せる機能、参照できる個人情報の拡大、Apple Watchでの応答の高速化も含まれる
+
+対応はApple Watch Series 9以降・Ultra 2以降・SE 3で、ペアのiPhoneはApple Intelligence対応モデルが必要
+
+Apple Watch向けの新しいソフトウェア「 watchOS 27 .2」の配布が始まり、生まれ変わった Siri である 「 Siri AI 」が日本語で使えるようになった 。Appleは 公式ニュースルーム で、27.2のソフトウェア アップデート にあわせ、日本語に加えてフランス語、韓国語、ポルトガル語、スペイン語でも Siri AI の提供を始めたと発表した。
+
+対象は watchOS 27 .2だけではない。 iOS 27 .2、 iPadOS 27 .2、 macOS Golden Gate 27 .2、 visionOS 2 7.2も同じタイミングで公開され、日本時間10月27日の未明から順に届いている。
+
+Siri AI とは、 Apple Intelligence …</p><p><img src="https://gori.me/uploads/2026/10/ios27_2-official-release-1.jpg" alt="watchOS 27.2配布開始。Siri AIがついに日本語対応"></p>]]></description><source url="https://gori.me/watchos/watchos-news/171778">gori.me</source><media:content url="https://gori.me/uploads/2026/10/ios27_2-official-release-1.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/10/ios27_2-official-release-1.jpg"/></item>
 <item><title>NPUでDOOMが動く様子を動画で見せます！ バイブコーディングが「無理」をひっくり返した話</title><link>https://pc.watch.impress.co.jp/docs/news/2151321.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2151321.html</guid><pubDate>Mon, 26 Oct 2026 22:00:00 +0000</pubDate><description><![CDATA[<p>NPUでDOOMが動く様子を動画で見せます！ バイブコーディングが「無理」をひっくり返した話
 
 イマドキのPCに載っているNPU、この1週間で何秒働いたか答えられますか？　タスクマネージャーを開けば、今日もグラフはほぼ0%のままのはず。
@@ -16,16 +287,7 @@ NPUでDOOMが動く様子を動画で見せます！ バイブコーディング
 このNPU版DOOMの勇姿と製作記、そしてこれができて何の意味があるのか？を、動画で解説します。
 
 PC Watch、AKIBA PC Hotline!が共同でお届けするPCハードウェアと関連情報の専門YouTubeチャンネルです。完成品PC、自作PC、パーツ、周辺機器などを専門媒体ならではの視点で掘り下げます。コンテンツは今後も続々と追加予定。 チャンネル登録 をお願いします！</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2151/321/20261020_DOOM.png" alt="NPUでDOOMが動く様子を動画で見せます！ バイブコーディングが「無理」をひっくり返した話"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2151321.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2151/321/20261020_DOOM.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2151/321/20261020_DOOM.png"/></item>
-<item><title>Core i5-8500やDVDマルチドライブを搭載したデスクトップPCが29,980円、パソコン工房で中古品が販売中</title><link>https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2150926.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2150926.html</guid><pubDate>Mon, 26 Oct 2026 22:00:00 +0000</pubDate><description><![CDATA[<p>Core i5-8500やDVDマルチドライブを搭載したデスクトップPCが29,980円、パソコン工房で中古品が販売中
-
-Core i5-8500(6コア/6スレッド)を搭載したデスクトップPC「ESPRIMO D588/T」の中古品が、パソコン工房の通販サイトで販売中。販売されているのは3か月保証が付いた中古品で、価格は29,980円となっています。
-
-Core i5-8500やDVDマルチドライブを搭載したデスクトップPCが29,980円、パソコン工房で中古品が販売中
-
-Core i5-8500(6コア/6スレッド)を搭載したデスクトップPC「ESPRIMO D588/T」の中古品が、 パソコン工房の通販サイト で販売中。販売されているのは3か月保証が付いた中古品で、価格は29,980円となっています。
-
-主な仕様は、メモリが8GB、ストレージが256GB SSD、OSがWindows 11 Pro。このほか、DVDマルチドライブなどを搭載しています。興味がある方はチェックしてみてください。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2150/926/a1.jpg" alt="Core i5-8500やDVDマルチドライブを搭載したデスクトップPCが29,980円、パソコン工房で中古品が販売中"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2150926.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2150/926/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2150/926/a1.jpg"/></item>
-<item><title>TGS 2026 ����ѥ˥���������ץ쥤�䡼�̿�����ZIP�ե�����ʤ��ˤ��Ϥ���10ǯ��1�٤�˭��ʤߤ��ߤ������˷äޤ줿258�硪</title><link>https://www.4gamer.net/games/991/G999110/20261026020/</link><guid isPermaLink="true">https://www.4gamer.net/games/991/G999110/20261026020/</guid><pubDate>Mon, 26 Oct 2026 22:00:00 +0000</pubDate><description><![CDATA[<p>TGS 2026 �����ѥ˥����������ץ쥤�䡼�̿�����ZIP�ե������ʤ��ˤ����Ϥ���10ǯ��1�٤�˭���ʤߤ��ߤ������˷äޤ줿258�硪
+<item><title>TGS 2026 �����ѥ˥����������ץ쥤�䡼�̿�����ZIP�ե������ʤ��ˤ����Ϥ���10ǯ��1�٤�˭���ʤߤ��ߤ������˷äޤ줿258�硪</title><link>https://www.4gamer.net/games/991/G999110/20261026020/</link><guid isPermaLink="true">https://www.4gamer.net/games/991/G999110/20261026020/</guid><pubDate>Mon, 26 Oct 2026 22:00:00 +0000</pubDate><description><![CDATA[<p>TGS 2026 �����ѥ˥����������ץ쥤�䡼�̿�����ZIP�ե������ʤ��ˤ����Ϥ���10ǯ��1�٤�˭���ʤߤ��ߤ������˷äޤ줿258�硪
 
 東京ゲームショウ2026を彩ってくれた，コンパニオンさんやコスプレイヤーさんの写真集をお届けします。10年に1度の豊潤なみずみずしさに恵まれた258枚を一挙掲載。かつての恒例の「ZIPでくれ」はなし…
 
@@ -39,7 +301,16 @@ TGS 2026 コンパニオン＆コスプレイヤー写真集（ZIPファイル�
 
 ↓アイコン/タイトル↓ 作品のアニマはどこに宿るのか。「リベンジオブザセブン」と「サガフロ2 リマスター」，ふたつの“伝承”のかたち ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
 
-↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら…</p><p><img src="https://www.4gamer.net/games/991/G999110/20261026020/SS/001.jpg" alt="TGS 2026 ����ѥ˥���������ץ쥤�䡼�̿�����ZIP�ե�����ʤ��ˤ��Ϥ���10ǯ��1�٤�˭��ʤߤ��ߤ������˷äޤ줿258�硪"></p>]]></description><source url="https://www.4gamer.net/games/991/G999110/20261026020/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/991/G999110/20261026020/SS/001.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/991/G999110/20261026020/SS/001.jpg"/></item>
+↓アイコン/タイトル↓ ぬいの刺繍を“プロ任せ”にしてみたら…</p><p><img src="https://www.4gamer.net/games/991/G999110/20261026020/SS/001.jpg" alt="TGS 2026 �����ѥ˥����������ץ쥤�䡼�̿�����ZIP�ե������ʤ��ˤ����Ϥ���10ǯ��1�٤�˭���ʤߤ��ߤ������˷äޤ줿258�硪"></p>]]></description><source url="https://www.4gamer.net/games/991/G999110/20261026020/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/991/G999110/20261026020/SS/001.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/991/G999110/20261026020/SS/001.jpg"/></item>
+<item><title>Core i5-8500やDVDマルチドライブを搭載したデスクトップPCが29,980円、パソコン工房で中古品が販売中</title><link>https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2150926.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2150926.html</guid><pubDate>Mon, 26 Oct 2026 22:00:00 +0000</pubDate><description><![CDATA[<p>Core i5-8500やDVDマルチドライブを搭載したデスクトップPCが29,980円、パソコン工房で中古品が販売中
+
+Core i5-8500(6コア/6スレッド)を搭載したデスクトップPC「ESPRIMO D588/T」の中古品が、パソコン工房の通販サイトで販売中。販売されているのは3か月保証が付いた中古品で、価格は29,980円となっています。
+
+Core i5-8500やDVDマルチドライブを搭載したデスクトップPCが29,980円、パソコン工房で中古品が販売中
+
+Core i5-8500(6コア/6スレッド)を搭載したデスクトップPC「ESPRIMO D588/T」の中古品が、 パソコン工房の通販サイト で販売中。販売されているのは3か月保証が付いた中古品で、価格は29,980円となっています。
+
+主な仕様は、メモリが8GB、ストレージが256GB SSD、OSがWindows 11 Pro。このほか、DVDマルチドライブなどを搭載しています。興味がある方はチェックしてみてください。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2150/926/a1.jpg" alt="Core i5-8500やDVDマルチドライブを搭載したデスクトップPCが29,980円、パソコン工房で中古品が販売中"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2150926.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2150/926/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2150/926/a1.jpg"/></item>
 <item><title>macOS 27.2が配信開始。Siri AIが日本語に対応</title><link>https://gori.me/macosx/macosx-news/171777</link><guid isPermaLink="true">https://gori.me/macosx/macosx-news/171777</guid><pubDate>Mon, 26 Oct 2026 21:55:42 +0000</pubDate><description><![CDATA[<p>macOS 27.2が配信開始。Siri AIが日本語に対応
 
 Appleが、Mac向け最新OS「macOS Golden Gate 27.2」の配信を開始した。新しいSiri AIが日本語、フランス語、韓国語、ポルトガル語、スペイン語に対応した。キーボードで音量や輝度を変えたときの表示が段階のあるバーに刷新され、Apple Musicのアイコンも白黒に変わった。
@@ -5396,42 +5667,6 @@ Stern氏はThe Wall Street Journalで12年間コラムや動画を担当した�
 テストでは、ケースを装着したiPhone DuoをHingeyにセット。1分間に17回のペースで毎晩8時間動かし続け、1晩で8160回、4晩で計3万2640回の開閉を行いました。
 
 Meet Hingey, our custom-built iPho…</p><p><img src="https://smhn.info/wp-content/uploads/2026/10/capture_20261022_104840_608_A47315.webp" alt="iPhone Duo、3万2640回折り曲げてもヒンジが健在であることが判明。"></p>]]></description><source url="https://smhn.info/202610-iphone-duo-hinge-32640-folds-robot-test">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/10/capture_20261022_104840_608_A47315.webp" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/10/capture_20261022_104840_608_A47315.webp"/></item>
-<item><title>FMVの世界最軽量ノート「Note U」シリーズにバッテリー交換可能な新モデル、『ゴジラ-0.0』コラボや「Note M」も</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2149450.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2149450.html</guid><pubDate>Thu, 22 Oct 2026 04:00:00 +0000</pubDate><description><![CDATA[<p>FMVの世界最軽量ノート「Note U」シリーズにバッテリー交換可能な新モデル、『ゴジラ-0.0』コラボや「Note M」も
-
-富士通クライアントコンピューティング（FCCL）のPCブランド「FMV」より、モバイルノートPC「Note Uシリーズ」「Note Mシリーズ」の新モデルが登場。
-
-FMVの世界最軽量ノート「Note U」シリーズにバッテリー交換可能な新モデル、『ゴジラ-0.0』コラボや「Note M」も
-
-富士通クライアントコンピューティング（FCCL）のPCブランド「FMV」より、モバイルノートPC「Note Uシリーズ」「Note Mシリーズ」の新モデルが登場。
-
-Note Uシリーズは、軽量設計が特徴の14インチモバイルノートPC。
-
-店頭販売モデルはCore Ultra 7 355搭載の「UX-L3」、Ryzen AI 7 445搭載の「U77-L3」、Ryzen AI 5 430搭載の「U59-L3」、Ryzen AI 5 430搭載の「U55-L3」、Snapdragon X X1-26-100搭載の「UQ-L3」の5機種で、想定販売価格は税別26万円強から。
-
-本体カラーはピクトブラック、シルバーホワイト（U77/U59/U55のみ）。
-
-100以上の軽量化施策を重ね、2026年冬モデルでも約634g（UX-L3）の本体重量を維持。14インチワイド液晶ノートとして世界最軽量をうたう。
-
-Uシリーズでは軽さが評価されている一方で、ユーザーからの不満点としてバッテリー駆動時間が挙げられたという。
-
-それらの声を背景に、最軽量モデルのUX-L3では、新プロセッサーや省電力液晶パネルの導入などにより、バッテリー駆動時間（JEITA 3.0/動画再生時）を2025年冬モデルの7時間から7.5時間に改善。前機種比で107%の駆動時間向上を実現しているとする。
-
-さらに「U59-L3」では、一部のFMV Storeカスタムメイド2in1モデルで用意されていた、ユーザーがバッテリー交換可能な設計を採用。工具不要でバッテリーを交換でき、メーカー修理に預けてPCが…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2149/450/DSR00005.jpg" alt="FMVの世界最軽量ノート「Note U」シリーズにバッテリー交換可能な新モデル、『ゴジラ-0.0』コラボや「Note M」も"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2149450.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2149/450/DSR00005.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2149/450/DSR00005.jpg"/></item>
-<item><title>FMVからこだわりキーボード/マウス登場！壁際に設置できるモニターも</title><link>https://pc.watch.impress.co.jp/docs/news/2149955.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2149955.html</guid><pubDate>Thu, 22 Oct 2026 04:00:00 +0000</pubDate><description><![CDATA[<p>FMVからこだわりキーボード/マウス登場！壁際に設置できるモニターも
-
-PCメーカーならではのこだわりが詰まった周辺機器が登場した。富士通クライアントコンピューティング(FCCL)は10月22日、PC周辺機器の新ブランド「FMV Accessory」を立ち上げると発表。キーボード「FMV Keyboard X」、マウス「FMV Mouse X」、23.8型液晶モニター「FMV Display V」を10月下旬に発売する。価格はいずれもオープンプライス。
-
-FMVからこだわりキーボード/マウス登場！壁際に設置できるモニターも
-
-PCメーカーならではのこだわりが詰まった周辺機器が登場した。富士通クライアントコンピューティング(FCCL)は10月22日、PC周辺機器の新ブランド「FMV Accessory」を立ち上げると発表。キーボード「FMV Keyboard X」、マウス「FMV Mouse X」、23.8型液晶モニター「FMV Display V」を10月下旬に発売する。価格はいずれもオープンプライス。
-
-「FMV Keyboard X01MB」は、「FMV Note U」内蔵キーボードを踏襲した日本語配列を採用する84キーのキーボード。税別実売予想価格は3万円弱の見込み。
-
-独自にカスタマイズした静音磁気スイッチを採用し、基板をクッション素材で挟み込むガスケットマウント構造と組み合わせて打鍵音を抑えた。物理的な接点がないため摩耗が少なく、1億回以上の打鍵に耐えるという。
-
-アクチュエーションポイントは、FMVキーボードマイスター監修のプリセット3種類から選べ、ラピッドトリガーにも対応する。表面には長期間使ってもベタつきにくい良触感塗装を施した。
-
-無線接続は独自のレシーバー「FMV Link Receiver」を使う。レシーバー側にペアリングボタンを装備し、ソフトウェアなしで最大4台のデバイスと接続可能。さらに、FMV Linkによる連携機能を備え、1つのデバイスを最大4つのレシーバーに接続できる。たとえばマウス側でレシーバー1から2に接続先を切り替えると、キーボード…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2149/955/2.jpg" alt="FMVからこだわりキーボード/マウス登場！壁際に設置できるモニターも"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2149955.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2149/955/2.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2149/955/2.jpg"/></item>
 <item><title>富士通、光学ドライブ搭載の16型Copilot+ PC「FMV Note A」やタッチ対応13.3型液晶の新「FMV Note C」</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2149452.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2149452.html</guid><pubDate>Thu, 22 Oct 2026 04:00:00 +0000</pubDate><description><![CDATA[<p>富士通、光学ドライブ搭載の16型Copilot+ PC「FMV Note A」やタッチ対応13.3型液晶の新「FMV Note C」
 
 富士通クライアントコンピューティング（FCCL）のPCブランド「FMV」より、16インチノートPC「Note Aシリーズ」と、13.3インチモバイルノートPC「Note Cシリーズ」の新モデルが登場。
@@ -5457,6 +5692,21 @@ CPUにはRyzen AI 7 445またはRyzen AI 5 430を搭載し、Copilot+ PCに対�
 Note Cシリーズは、13.3インチ液晶パネル搭載のモバイルノート。想定販売価格は税別28万円弱。
 
 機…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2149/452/DSR09989.jpg" alt="富士通、光学ドライブ搭載の16型Copilot+ PC「FMV Note A」やタッチ対応13.3型液晶の新「FMV Note C」"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2149452.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2149/452/DSR09989.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2149/452/DSR09989.jpg"/></item>
+<item><title>FMVからこだわりキーボード/マウス登場！壁際に設置できるモニターも</title><link>https://pc.watch.impress.co.jp/docs/news/2149955.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2149955.html</guid><pubDate>Thu, 22 Oct 2026 04:00:00 +0000</pubDate><description><![CDATA[<p>FMVからこだわりキーボード/マウス登場！壁際に設置できるモニターも
+
+PCメーカーならではのこだわりが詰まった周辺機器が登場した。富士通クライアントコンピューティング(FCCL)は10月22日、PC周辺機器の新ブランド「FMV Accessory」を立ち上げると発表。キーボード「FMV Keyboard X」、マウス「FMV Mouse X」、23.8型液晶モニター「FMV Display V」を10月下旬に発売する。価格はいずれもオープンプライス。
+
+FMVからこだわりキーボード/マウス登場！壁際に設置できるモニターも
+
+PCメーカーならではのこだわりが詰まった周辺機器が登場した。富士通クライアントコンピューティング(FCCL)は10月22日、PC周辺機器の新ブランド「FMV Accessory」を立ち上げると発表。キーボード「FMV Keyboard X」、マウス「FMV Mouse X」、23.8型液晶モニター「FMV Display V」を10月下旬に発売する。価格はいずれもオープンプライス。
+
+「FMV Keyboard X01MB」は、「FMV Note U」内蔵キーボードを踏襲した日本語配列を採用する84キーのキーボード。税別実売予想価格は3万円弱の見込み。
+
+独自にカスタマイズした静音磁気スイッチを採用し、基板をクッション素材で挟み込むガスケットマウント構造と組み合わせて打鍵音を抑えた。物理的な接点がないため摩耗が少なく、1億回以上の打鍵に耐えるという。
+
+アクチュエーションポイントは、FMVキーボードマイスター監修のプリセット3種類から選べ、ラピッドトリガーにも対応する。表面には長期間使ってもベタつきにくい良触感塗装を施した。
+
+無線接続は独自のレシーバー「FMV Link Receiver」を使う。レシーバー側にペアリングボタンを装備し、ソフトウェアなしで最大4台のデバイスと接続可能。さらに、FMV Linkによる連携機能を備え、1つのデバイスを最大4つのレシーバーに接続できる。たとえばマウス側でレシーバー1から2に接続先を切り替えると、キーボード…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2149/955/2.jpg" alt="FMVからこだわりキーボード/マウス登場！壁際に設置できるモニターも"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2149955.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2149/955/2.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2149/955/2.jpg"/></item>
 <item><title>世界最軽量634gの14型「FMV Note U」、全機種Copilot+ PCに</title><link>https://pc.watch.impress.co.jp/docs/news/2149953.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2149953.html</guid><pubDate>Thu, 22 Oct 2026 04:00:00 +0000</pubDate><description><![CDATA[<p>世界最軽量634gの14型「FMV Note U」、全機種Copilot+ PCに
 
 富士通のノートPC秋冬モデルが、今年(2026年)もやってきた。14型でありながら重量わずか634gのモバイルノート「FMV Note U」を始め、スタイリッシュな「FMV Note C」など、多彩なラインナップを揃える。価格はすべてオープンプライス。
@@ -5472,6 +5722,27 @@ FMV Note Uは、最軽量時約634gと14型で世界最軽量をうたうモバ�
 軽量性の特徴を維持しながら、CPUとして新たにCore Ultraシリーズ3が搭載可能となり、省電力パネルの採用や部材の見直しなどにより、前機種と比較してバッテリ駆動時間が延長した。
 
 また、今回から全モデルがCopilot+ PCに対応し、CPUはIntel、AMD、Qualcommの3社から選べるようになった。MIL規格(MIL-STD-810H)準拠の試験…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2149/953/1.png" alt="世界最軽量634gの14型「FMV Note U」、全機種Copilot+ PCに"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2149953.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2149/953/1.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2149/953/1.png"/></item>
+<item><title>FMVの世界最軽量ノート「Note U」シリーズにバッテリー交換可能な新モデル、『ゴジラ-0.0』コラボや「Note M」も</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2149450.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2149450.html</guid><pubDate>Thu, 22 Oct 2026 04:00:00 +0000</pubDate><description><![CDATA[<p>FMVの世界最軽量ノート「Note U」シリーズにバッテリー交換可能な新モデル、『ゴジラ-0.0』コラボや「Note M」も
+
+富士通クライアントコンピューティング（FCCL）のPCブランド「FMV」より、モバイルノートPC「Note Uシリーズ」「Note Mシリーズ」の新モデルが登場。
+
+FMVの世界最軽量ノート「Note U」シリーズにバッテリー交換可能な新モデル、『ゴジラ-0.0』コラボや「Note M」も
+
+富士通クライアントコンピューティング（FCCL）のPCブランド「FMV」より、モバイルノートPC「Note Uシリーズ」「Note Mシリーズ」の新モデルが登場。
+
+Note Uシリーズは、軽量設計が特徴の14インチモバイルノートPC。
+
+店頭販売モデルはCore Ultra 7 355搭載の「UX-L3」、Ryzen AI 7 445搭載の「U77-L3」、Ryzen AI 5 430搭載の「U59-L3」、Ryzen AI 5 430搭載の「U55-L3」、Snapdragon X X1-26-100搭載の「UQ-L3」の5機種で、想定販売価格は税別26万円強から。
+
+本体カラーはピクトブラック、シルバーホワイト（U77/U59/U55のみ）。
+
+100以上の軽量化施策を重ね、2026年冬モデルでも約634g（UX-L3）の本体重量を維持。14インチワイド液晶ノートとして世界最軽量をうたう。
+
+Uシリーズでは軽さが評価されている一方で、ユーザーからの不満点としてバッテリー駆動時間が挙げられたという。
+
+それらの声を背景に、最軽量モデルのUX-L3では、新プロセッサーや省電力液晶パネルの導入などにより、バッテリー駆動時間（JEITA 3.0/動画再生時）を2025年冬モデルの7時間から7.5時間に改善。前機種比で107%の駆動時間向上を実現しているとする。
+
+さらに「U59-L3」では、一部のFMV Storeカスタムメイド2in1モデルで用意されていた、ユーザーがバッテリー交換可能な設計を採用。工具不要でバッテリーを交換でき、メーカー修理に預けてPCが…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2149/450/DSR00005.jpg" alt="FMVの世界最軽量ノート「Note U」シリーズにバッテリー交換可能な新モデル、『ゴジラ-0.0』コラボや「Note M」も"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2149450.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2149/450/DSR00005.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2149/450/DSR00005.jpg"/></item>
 <item><title>FMV初の周辺機器ブランド「FMV Accessory」が登場、磁気キーボード/エルゴマウス/支柱固定モニターの3製品 “省スペースでも使いやすい”がコンセプト</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2149445.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2149445.html</guid><pubDate>Thu, 22 Oct 2026 04:00:00 +0000</pubDate><description><![CDATA[<p>FMV初の周辺機器ブランド「FMV Accessory」が登場、磁気キーボード/エルゴマウス/支柱固定モニターの3製品 “省スペースでも使いやすい”がコンセプト
 
 富士通クライアントコンピューティング（FCCL）から、同社初となる周辺機器ブランド「FMV Accessory」が発足。
@@ -8990,285 +9261,4 @@ Source: MacRumors (1) , (2) , (3)
 --PR-- [公式] - iPhoneの購入や予約はオンラインで確実に！
 
 iPhoneなどApple製品の疑問は iMコミュニティ で聞けます。詳しい読者が答えてくれます。</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/09/17/iOS-27.2-Next-to-iPhone.jpg" alt="Apple、iOS27.2など6つのOSのRCを公開！正式版は10月末か"></p>]]></description><source url="https://iphone-mania.jp/ios-607647/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/09/17/iOS-27.2-Next-to-iPhone.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/09/17/iOS-27.2-Next-to-iPhone.jpg"/></item>
-<item><title>Apple、日本でiPhone Duoの予約なし購入は不可と公式サイトに明記</title><link>https://iphone-mania.jp/iphone18-607642/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-607642/</guid><pubDate>Mon, 19 Oct 2026 18:53:15 +0000</pubDate><description><![CDATA[<p>Apple、日本でiPhone Duoの予約なし購入は不可と公式サイトに明記
-
-一部のApple Storeの従業員に対して、Appleが10月23日のiPhone Duo発売日に予約なしで来店する顧客への注意喚起を指示したとの報道がありました。そんな中、Appleは日本の公式サイトに、iPhone DuoとiPhone18 Pro Maxを予約なしで店頭購入することはできないと明記しました。
-
-Apple、日本でiPhone Duoの予約なし購入は不可と公式サイトに明記
-
-一部のApple Storeの従業員に対して、Appleが 10月23日のiPhone Duo発売日に予約なしで来店する顧客への注意喚起を指示したとの報道 がありました。そんな中、Appleは日本の公式サイトに、 iPhone Duo とiPhone18 Pro Maxを予約なしで店頭購入することはできない と明記しました。
-
-Appleは、日本の公式サイトのiPhoneページ最上部に、次のメッセージを掲載しました。
-
-しばらくの期間、お近くのApple Storeでは、最新のiPhone DuoとiPhone 18 Pro Maxを予約せずに購入することはできません。
-
-なお、韓国のApple公式サイトにも同様の案内が掲載されていることが確認できました。
-
-先日、一部のApple Store従業員に対して、10月23日のiPhone Duo発売日に予約なしで購入しようとする顧客に注意を促すよう、Appleが指示したと報じられていました。
-
-今回、日本のApple公式サイトに掲載された案内は、この報道内容とも一致しています。
-
-なぜ日本と韓国でこの案内が掲載されているのかは明らかになっていません。また、予約なしでの購入がいつから可能になるのかも不明です。
-
-少なくとも日本では、発売日に予約なしでAppl…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/10/20/Screenshot-from-2026-10-19-20-36-22-1.png" alt="Apple、日本でiPhone Duoの予約なし購入は不可と公式サイトに明記"></p>]]></description><source url="https://iphone-mania.jp/iphone18-607642/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/10/20/Screenshot-from-2026-10-19-20-36-22-1.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/10/20/Screenshot-from-2026-10-19-20-36-22-1.png"/></item>
-<item><title>GeForce RTX 5000シリーズ卸価格、さらに上昇</title><link>https://www.nichepcgamer.com/archives/post-133262.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/post-133262.html</guid><pubDate>Mon, 19 Oct 2026 15:03:14 +0000</pubDate><description><![CDATA[<p>GeForce RTX 5000シリーズ卸価格、さらに上昇
-
-GeForce RTX 5000シリーズの卸価格ですが、さらなる上昇を見せています。 中国サプライチェーンの情報筋によると、今週、2026年10月19日(月)の卸価格は2026年10月8日(木)と比...
-
-GeForce RTX 5000シリーズの卸価格ですが、 さらなる上昇を見せています。
-
-中国サプライチェーンの情報筋によると、今週、2026年10月19日(月)の卸価格は 2026年10月8日(木) と比較して以下のような値動きをしているとのこと。(1元＝23円換算)
-
-▼代理店から小売店への卸価格: 2026年10月19日(月)時点、10月8日(木)との比較
-
-GeForce RTX 5070: 約50元値上げ( 約1,150円 ) (卸価格: 6,900～7,300元)
-
-GeForce RTX 5060 Ti 16GB: 約200元値上げ( 約4,600円 ) (卸価格: 5,500～5,800元)
-
-GeForce RTX 5060 Ti 8GB: 約200元値上げ( 約4,600円 ) (卸価格: 3,650～3,850元)
-
-GeForce RTX 5060: 約150元値上げ( 約3,450円 ) (卸価格: 3,150～3,300元)
-
-GeForce RTX 5060からGeForce RTX 5070までの4モデル、すべての卸価格が値上げされており、値上げ幅は最大約4,600円の上昇となっています。
-
-値上げの要因のひとつとして、需要が供給を上回る「供給不足」が背景にあるとされています。
-
-今のところ、供給不足が改善される見通しは立っていません。また、2026年10月は、2026年9月比で数十％、供給量が少なくなることが見込まれています。
-
-筆者は自作PC歴20年以上の経験を持ち、Windows OSの細部にわたるカスタマイズや高度な設定、PCゲームの最適化、PCハードウェアとソフトウェアに関する専門知識をもとに、PC環境を快適にするための情報、不具合に遭わないようにするための情報、…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2025/12/geforce-rtx-5000-red-bb.jpg" alt="GeForce RTX 5000シリーズ卸価格、さらに上昇"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-133262.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2025/12/geforce-rtx-5000-red-bb.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2025/12/geforce-rtx-5000-red-bb.jpg"/></item>
-<item><title>DOOGEE、横に広いスマホ「Note60 W」を披露。宣伝画像はHuawei「Pura X View」そっくり</title><link>https://smhn.info/202610-doogee-note60-w-wide-screen-pura-x-view-lookalike</link><guid isPermaLink="true">https://smhn.info/202610-doogee-note60-w-wide-screen-pura-x-view-lookalike</guid><pubDate>Mon, 19 Oct 2026 14:22:31 +0000</pubDate><description><![CDATA[<p>DOOGEE、横に広いスマホ「Note60 W」を披露。宣伝画像はHuawei「Pura X View」そっくり
-
-縦に細長い画面が当たり前のスマートフォンで、Huaweiは9月、横に広い板型の「Pura X View」を中国で発売しました。アスペクト比16:9.5という変わった画面で注目を集めたこの形に、Android陣営からも後を追う機種が登場しています。中国のスマホメーカーDOOGEE（...
-
-DOOGEE、横に広いスマホ「Note60 W」を披露。宣伝画像はHuawei「Pura X View」そっくり
-
-縦に細長い画面が当たり前のスマートフォンで、Huaweiは9月、横に広い板型の「Pura X View」を中国で発売しました。アスペクト比16:9.5という変わった画面で注目を集めたこの形に、Android陣営からも後を追う機種が登場しています。
-
-中国のスマホメーカーDOOGEE（道格）は、中国・広州で開催中の第140回広州交易会（Canton Fair）で、横長画面のスマートフォン「 Note60 W 」シリーズを初披露しました。
-
-同社初の「ワイド画面」スマホで、展示場所は20.2号館のG59〜G64ブース。6.38インチ・90Hz駆動の横長画面を採用し、本体の厚さは約8.4mm、電池容量は6500mAhで、Android 17を搭載して出荷されます。
-
-DOOGEEが公開した宣伝画像について、NotebookcheckはHuaweiがPura X Viewの宣伝に使った画像をほぼそのまま再現していると伝えています。どちらも赤い本体を両手で持ち、左に背面、右に正面を見せる構図です。壁紙までそっくりですね。
-
-本家となるPura X Viewは、6.39インチ・2232×1320ドットの有機EL（120Hz）を備え、厚さ6.68mm、重さ約201g、電池容量…</p><p><img src="https://smhn.info/wp-content/uploads/2026/10/doogee-note60-w-poster.webp" alt="DOOGEE、横に広いスマホ「Note60 W」を披露。宣伝画像はHuawei「Pura X View」そっくり"></p>]]></description><source url="https://smhn.info/202610-doogee-note60-w-wide-screen-pura-x-view-lookalike">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/10/doogee-note60-w-poster.webp" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/10/doogee-note60-w-poster.webp"/></item>
-<item><title>噂：Galaxy Z Slideが登場する？</title><link>https://smhn.info/202610-samsung-galaxy-z-2027-six-foldables-fold9-pro-slide</link><guid isPermaLink="true">https://smhn.info/202610-samsung-galaxy-z-2027-six-foldables-fold9-pro-slide</guid><pubDate>Mon, 19 Oct 2026 13:56:20 +0000</pubDate><description><![CDATA[<p>噂：Galaxy Z Slideが登場する？
-
-Samsungは今年7月、縦長の本型を受け継ぐ「Galaxy Z Fold8 Ultra」と、開くと4:3の横長画面になるワイド型の「Galaxy Z Fold8」、縦折りの「Galaxy Z Flip8」を発表しました。昨年12月に韓国で発売した三つ折りの「Galaxy Z T...
-
-Samsungは今年7月、縦長の本型を受け継ぐ「Galaxy Z Fold8 Ultra」と、開くと4:3の横長画面になるワイド型の「 Galaxy Z Fold8 」、縦折りの「Galaxy Z Flip8」を発表しました。
-
-昨年12月に韓国で発売した三つ折りの「Galaxy Z TriFold」を含めると、折りたたみはすでに4つの形に広がっています。
-
-この顔ぶれが、2027年にはさらに増えるかもしれません。リーカーのTheGalox氏が10月14日、2027年のGalaxy Zシリーズとして6機種の名前をXに投稿しました。
-
-Galaxy Z Slide Galaxy Z TriFold2 Galaxy Z Fold9 Ultra Galaxy Z Fold9 Pro Galaxy Z Fold9 Galaxy Z Flip9 The 2027 Galaxy Z lineup will be the biggest foldable lineup ever, with battery, thickness &amp; weight improvements across the board. Z TriFold2 will kick things off pic.x.com/VM1N3IIIkT
-
-— Anthony (@TheGalox_) October 14, 2026
-
-挙げられたのは、Galaxy Z Slide、Galaxy Z …</p><p><img src="https://smhn.info/wp-content/uploads/2026/08/galaxy-z-fold8-ultra-fold8-flip8.jpg" alt="噂：Galaxy Z Slideが登場する？"></p>]]></description><source url="https://smhn.info/202610-samsung-galaxy-z-2027-six-foldables-fold9-pro-slide">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/08/galaxy-z-fold8-ultra-fold8-flip8.jpg" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/08/galaxy-z-fold8-ultra-fold8-flip8.jpg"/></item>
-<item><title>あの覆面AIの正体は「MiniMax M3.1 Flash」10月23日にオープンウェイト公開</title><link>https://pc.watch.impress.co.jp/docs/news/2149440.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2149440.html</guid><pubDate>Mon, 19 Oct 2026 12:59:42 +0000</pubDate><description><![CDATA[<p>あの覆面AIの正体は「MiniMax M3.1 Flash」10月23日にオープンウェイト公開
-
-世界のリーダーボードで注目を集めた覆面AIモデル「Space Bunny」の正体が明かされた。MiniMaxは10月19日(日本時間)、コーディング向けLLM「MiniMax M3.1 Flash」を発表した。Space Bunnyは、このMiniMax M3.1 Flashの先行版だったという。オープンウェイト(モデルの重み)の公開は10月23日と予告されたが、ローカルでの実行を判断する材料になるパラメータ数とライセンスはまだ示されていない。
-
-あの覆面AIの正体は「MiniMax M3.1 Flash」10月23日にオープンウェイト公開
-
-世界のリーダーボードで注目を集めた覆面AIモデル「Space Bunny」の正体が明かされた。MiniMaxは10月19日(日本時間)、コーディング向けLLM「MiniMax M3.1 Flash」を発表した。Space Bunnyは、このMiniMax M3.1 Flashの先行版だったという。オープンウェイト(モデルの重み)の公開は10月23日と予告されたが、ローカルでの実行を判断する材料になるパラメータ数とライセンスはまだ示されていない。
-
-MiniMax M3.1 Flashは、コーディングと、AIが自律的に作業を進めるエージェント用途に向けたLLMだ。同社の動画生成AI「MiniMax H3」とは別系統で、画像や動画を作るモデルではなく、文章やコードを出力する。テキスト以外の入力も扱えるマルチモーダル型で、コンテキストウィンドウ(一度に扱える入力量)は100万トークン。どこまで深く考えてから回答するかを段階的に調整できる。
-
-同社によれば、先行版のSpace Bunnyは正体を伏せたまま累計200兆トークン超を処理し、世界のリー…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2149/440/01.png" alt="あの覆面AIの正体は「MiniMax M3.1 Flash」10月23日にオープンウェイト公開"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2149440.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2149/440/01.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2149/440/01.png"/></item>
-<item><title>“Nova Lake”は全てがCore Ultra 4000 seriesとなる</title><link>https://northwood.blog.fc2.com/blog-entry-13230.html</link><guid isPermaLink="true">https://northwood.blog.fc2.com/blog-entry-13230.html</guid><pubDate>Mon, 19 Oct 2026 12:00:46 +0000</pubDate><description><![CDATA[<p>“Nova Lake”は全てがCore Ultra 4000 seriesとなる
-
-北森瓦版 - Northwood Blog (Author : 北森八雲. Since July 10, 2006.)
-
-北森瓦版 - “Nova Lake”は全てがCore Ultra 4000 seriesとなる ブログ内検索
-
-○CPU アーク (ark) Tsukumo (Intel) Tsukumo (AMD) ソフマップ ○マザーボード アーク (ark) Tsukumo (Intel) Tsukumo (AMD) ソフマップ ○グラフィックカード アーク (ark) Tsukumo (NVIDIA) Tsukumo (AMD) ソフマップ ○メモリ アーク (ark) Tsukumo ソフマップ ○SSD アーク (ark) Tsukumo ソフマップ ○Amazon売れ筋ランキング CPU メモリ グラフィックカード マザーボード SSD 電源
-
-“Nova Lake”は全てがCore Ultra 4000 seriesとなる
-
-Retracting this. Sorry all! H and suffix-less Nova Lake Mobile also utilize this four-number naming scheme.
-
-“Nova Lake-E”をベースとするXeon E seriesはHybrid構成をとらない (2026/10/19)
-
-“Nova Lake”は全てがCore Ultra 4000 seriesとなる (2026/10/19)
-
-GigabyteがZ790, B760, H610マザーで“Raptor Lake Next”をサポートへ (2026/10/16)
-
-| 北森瓦版 | Template by おすすめ無料ブログ(blog…</p>]]></description><source url="https://northwood.blog.fc2.com/blog-entry-13230.html">北森瓦版</source></item>
-<item><title>Apple Watchの通知が来ない？故障を疑う前に確認する6項目</title><link>https://iphone-mania.jp/iwatch-607637/</link><guid isPermaLink="true">https://iphone-mania.jp/iwatch-607637/</guid><pubDate>Mon, 19 Oct 2026 11:58:00 +0000</pubDate><description><![CDATA[<p>Apple Watchの通知が来ない？故障を疑う前に確認する6項目
-
-Apple Watchをつけているのに通知が来ない、逆にiPhoneには来ない、と感じたことはないでしょうか。
-
-Apple Watchの通知が来ない？故障を疑う前に確認する6項目
-
-Apple Watchをつけているのに通知が来ない、逆にiPhoneには来ない、と感じたことはないでしょうか。
-
-Apple Watch SE（第2世代） を約4年使い続けていますが、今回あらためて通知を試したところ受け取れず、短時間の確認だけでは原因を特定できませんでした。故障を疑う前に、まずApple公式の仕組みと確認すべきポイントを整理します。
-
-Apple公式によると、 通知はApple WatchかiPhoneのどちらか一方に届き、両方同時には届かないようです 。これは仕様であり、設定ミスや故障とは限りません。どちらに届くかは、iPhoneの状態によって決まります。
-
-iPhoneのロックが解除されている場合：Apple WatchではなくiPhoneに通知が届きます
-
-iPhoneがロックされているかスリープ状態の場合：Apple Watchがロックされていない限り、Apple Watchに通知が届きます
-
-iPhoneを手に持って画面を見ているときに「Apple Watchに通知が来ない」と感じるのは、仕様通りの動作です。 「両方に届くはず」と思い込んでいると、正常な動作を不具合と誤解しやすいため注意が必要です。
-
-仕様を理解したうえで、それでも届かない場合に見るべき項目を整理します。
-
-iPhoneとApple Watchの接続状態： Apple WatchとiPhoneの接続が切れていると、通知はApple WatchではなくiPhoneに届きます。Apple Watchのコントロールセンターを開いて接続状…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/10/19/7f7953617ec31c0105cf41a61820c35b.png" alt="Apple Watchの通知が来ない？故障を疑う前に確認する6項目"></p>]]></description><source url="https://iphone-mania.jp/iwatch-607637/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/10/19/7f7953617ec31c0105cf41a61820c35b.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/10/19/7f7953617ec31c0105cf41a61820c35b.png"/></item>
-<item><title>【Amazonタイムセール】80PLUS GOLD認証のフルモジュラー電源、NZXT「C850」が22％オフ</title><link>https://www.gdm.or.jp/pressrelease/2026/1019/656983</link><guid isPermaLink="true">https://www.gdm.or.jp/pressrelease/2026/1019/656983</guid><pubDate>Mon, 19 Oct 2026 10:21:22 +0000</pubDate><description><![CDATA[<p>【Amazonタイムセール】80PLUS GOLD認証のフルモジュラー電源、NZXT「C850」が22％オフ
-
-Amazonタイムセールにて、80PLUS GOLD認証を取得した電源ユニット「C850」（型番：PA-8G1BB-JP/2022年モデル）が特別価格で販売中。通常税込11,500円のところ、22％オフの税込8,980円のタイムセール特価になっている。
-
-【Amazonタイムセール】80PLUS GOLD認証のフルモジュラー電源、NZXT「C850」が22％オフ
-
-セミファンレスをON/OFF可能な135mm FDBファンを搭載
-
-Amazonタイムセールにて、80PLUS GOLD認証を取得した電源ユニット 「C850」 （型番：PA-8G1BB-JP/2022年モデル）が特別価格で販売中。通常税込11,500円のところ、22％オフの税込8,980円のタイムセール特価になっている。
-
-容量850Wの80PLUS GOLD認証電源ユニットで、ケーブル仕様は着脱可能なフルモジュラータイプ。静音性に優れた135mm径のFDBファンを搭載しており、ON/OFF可能なセミファンレス機能のZero RPMファンモードに対応している。
-
-文： 編集部 絵踏 一 NZXT： https://nzxt.com/
-
-3連ファンで厚さ43mm、AX GAMING「GeForce RTX 5060 …
-
-デスク下や壁面に設置できる省スペースな19インチHUB収納キャビネット計6サイズ…
-
-AVerMedia、Switch 2対応の新パッケージ版マルチドック「ELITE…
-
-Switch 2でも使える4K/60Hz対応Type-C to HDMIミラーリ…
-
-素手の感覚はそのままに手の甲を温める「ゲーミング手甲ヒーター」がサンコーから
-
-2026年10月20日 (今週のコレオシ) だいぶ…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/10/19/C850_2022_01.jpg" alt="【Amazonタイムセール】80PLUS GOLD認証のフルモジュラー電源、NZXT「C850」が22％オフ"></p>]]></description><source url="https://www.gdm.or.jp/pressrelease/2026/1019/656983">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/10/19/C850_2022_01.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/10/19/C850_2022_01.jpg"/></item>
-<item><title>デスク下や壁面に設置できる省スペースな19インチHUB収納キャビネット計6サイズ発売</title><link>https://www.gdm.or.jp/pressrelease/2026/1019/656984</link><guid isPermaLink="true">https://www.gdm.or.jp/pressrelease/2026/1019/656984</guid><pubDate>Mon, 19 Oct 2026 10:14:07 +0000</pubDate><description><![CDATA[<p>デスク下や壁面に設置できる省スペースな19インチHUB収納キャビネット計6サイズ発売
-
-サンワサプライ株式会社（本社：岡山市北区）は2026年10月19日、スイッチングハブなどのネットワーク機器をデスク下や壁面に省スペースで収納できる19インチキャビネット「CP-HB」シリーズを発表した。
-
-デスク下や壁面に設置できる省スペースな19インチHUB収納キャビネット計6サイズ発売
-
-サンワサプライ株式会社（本社：岡山市北区）は2026年10月19日、スイッチングハブなどのネットワーク機器をデスク下や壁面に省スペースで収納できる19インチキャビネット 「CP-HB」シリーズ を発表した。
-
-設置環境や収納機器に合わせて選べるよう、幅は420mm、500mm、650mm、奥行きは150mm、200mmの組み合わせによる全6サイズをラインナップ。市場想定売価は税込75,900円～税込93,280円で、即日販売が開始されている。
-
-業界標準のEIA規格に基づいたモデルで、配線作業やメンテナンスがスムーズに行えるよう前面・側面パネルと支柱は取り外しが可能。本体を上下入れ替えることで扉の右開き・左開きを変更できるほか、セキュリティ対策用の鍵と床置き時の転倒を防ぐフラットバーが付属する。
-
-前面はアクリル窓を採用し、扉を開けずに内部機器の動作状況を確認できるほか、多くの通気用スリットを備えることで収納機器の放熱性を向上。また、上面には別売りの放熱ファン（高速タイプ「CP-FANS-T」/静音タイプ「CP-SFANS-T」）を取り付けることも可能だ。
-
-外形寸法は「CP-HB422ULGY」（2U）が幅420mm、奥行き150mm、高さ600mm、「CP-HB423ULGY」（3U）が幅420mm、奥行き200mm、高さ600mm、「CP-HB502ULGY」（2U）が幅500mm、奥行き15…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/10/19/CP-HB_01.jpg" alt="デスク下や壁面に設置できる省スペースな19インチHUB収納キャビネット計6サイズ発売"></p>]]></description><source url="https://www.gdm.or.jp/pressrelease/2026/1019/656984">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/10/19/CP-HB_01.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/10/19/CP-HB_01.jpg"/></item>
-<item><title>Androidのマイナンバーカード対応機種一覧公開〜2026年10月20日開始</title><link>https://iphone-mania.jp/android-607627/</link><guid isPermaLink="true">https://iphone-mania.jp/android-607627/</guid><pubDate>Mon, 19 Oct 2026 09:53:22 +0000</pubDate><description><![CDATA[<p>Androidのマイナンバーカード対応機種一覧公開〜2026年10月20日開始
-
-2026年10月20日から提供が始まる「Androidのマイナンバーカード」に対応するAndroidスマートフォンの機種一覧が公開されました。
-
-Androidのマイナンバーカード対応機種一覧公開〜2026年10月20日開始
-
-2026年10月20日から提供が始まる 「Androidのマイナンバーカード」に対応するAndroidスマートフォンの機種一覧が公開 されました。
-
-Androidでは これまでも電子証明書機能を利用できました が、10月20日から 新たにGoogle ウォレットへマイナンバーカードを追加できる ようになり、 本人確認や年齢確認、住民確認などに使える「属性証明機能」が追加 されます。
-
-これにより、対応するサービスでは実物のマイナンバーカードを提示せず、Androidスマートフォンだけで本人確認を行える場面が広がります。
-
-「Androidのマイナンバーカード」に対応するAndroid端末は、次の通りです。
-
-下記リストで機種名の後ろに「（★）」が付いているモデルは、従来の電子証明書機能に加え、10月20日から提供される属性証明機能にも対応します。
-
-「（★）」が付いていないモデルは、電子証明書機能のみ利用できます。
-
-・AQUOS R5G SH-51A ・AQUOS sense4 SH-41A ・AQUOS sense5G SH-53A ・AQUOS R6 SH-51B ・AQUOS sense6 SH-54B ・AQUOS wish2 SH-51C ・AQUOS R7 SH-52C ・AQUOS sense7 SH-53C ・AQUOS R8 pro SH-51D ・AQUOS R8 SH-52D ・AQUOS wish3 SH-53D ・AQUOS sense8 …</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/10/19/android-mynumber.jpg" alt="Androidのマイナンバーカード対応機種一覧公開〜2026年10月20日開始"></p>]]></description><source url="https://iphone-mania.jp/android-607627/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/10/19/android-mynumber.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/10/19/android-mynumber.jpg"/></item>
-<item><title>AVerMedia、Switch 2対応の新パッケージ版マルチドック「ELITE GO GC313Pro」など2種</title><link>https://www.gdm.or.jp/pressrelease/2026/1019/656976</link><guid isPermaLink="true">https://www.gdm.or.jp/pressrelease/2026/1019/656976</guid><pubDate>Mon, 19 Oct 2026 09:32:02 +0000</pubDate><description><![CDATA[<p>AVerMedia、Switch 2対応の新パッケージ版マルチドック「ELITE GO GC313Pro」など2種
-
-アバーメディア・テクノロジーズ株式会社（本社：東京都千代田区）は2026年10月19日、コンパクトドック「ELITE GO GC313Pro」「CORE GO GC313」の新パッケージ版を発表した。10月22日（木）より販売が開始され、市場想定売価は税込17,980円税込12,980円。
-
-AVerMedia、Switch 2対応の新パッケージ版マルチドック「ELITE GO GC313Pro」など2種
-
-Switch 2対応のファームウェアへあらかじめアップデート済み
-
-アバーメディア・テクノロジーズ株式会社（本社：東京都千代田区）は2026年10月19日、コンパクトドック 「ELITE GO GC313Pro」「CORE GO GC313」 の新パッケージ版を発表した。10月22日（木）より販売が開始され、市場想定売価は税込17,980円と税込12,980円。
-
-新パッケージ版では、持ち運びに便利な収納ポーチが新たに同梱されるほか、「ELITE GO GC313Pro」には同社のキャラクター「ELENA」のバッジが付属。さらに出荷時よりNintendo Switch 2に対応しており、ファームウェアをアップデートする必要がない。
-
-「ELITE GO GC313Pro」 は、最大100WのUSB PD充電、HDMI映像出力、USBハブに加えて、最大1080p/60fpsの映像キャプチャー機能を搭載した4-in-1コンパクトドック。専用の配信アプリ「Live Streamer」も用意されており、iOSデバイスやAndroidデバイスでも配信ができる。
-
-インターフェイスはHDMI 1.4×1、USB 3.2 Gen 1 Type-C×2、USB 2.0×…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/10/19/GC313Pro_01.jpg" alt="AVerMedia、Switch 2対応の新パッケージ版マルチドック「ELITE GO GC313Pro」など2種"></p>]]></description><source url="https://www.gdm.or.jp/pressrelease/2026/1019/656976">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/10/19/GC313Pro_01.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/10/19/GC313Pro_01.jpg"/></item>
-<item><title>Switch 2でも使える4K/60Hz対応Type-C to HDMIミラーリングケーブル</title><link>https://www.gdm.or.jp/pressrelease/2026/1019/656963</link><guid isPermaLink="true">https://www.gdm.or.jp/pressrelease/2026/1019/656963</guid><pubDate>Mon, 19 Oct 2026 09:26:01 +0000</pubDate><description><![CDATA[<p>Switch 2でも使える4K/60Hz対応Type-C to HDMIミラーリングケーブル
-
-株式会社磁気研究所（本社：東京都千代田区）は2026年10月19日、HIDISCブランドより充電しながら4K/60Hz映像を出力できる「Type-C HDMI ミラーリングケーブル」（型番：HD-TCHD2MPDBK）を発表した。すでに販売が開始され、直販価格は税込1,980円。
-
-Switch 2でも使える4K/60Hz対応Type-C to HDMIミラーリングケーブル
-
-給電用USB Type-Cポートを備え、最大85Wの急速充電も可能
-
-株式会社磁気研究所（本社：東京都千代田区）は2026年10月19日、HIDISCブランドより充電しながら4K/60Hz映像を出力できる 「Type-C HDMI ミラーリングケーブル」 （型番：HD-TCHD2MPDBK）を発表した。すでに販売が開始され、直販価格は税込1,980円。
-
-Nintendo Switch 2 / Switchでも使えるType-C to HDMIミラーリングケーブル。純正ドックを持ち運ぶことなく、友人宅や旅行のテレビに接続するだけば大画面でゲームを楽しめるようになる。
-
-また、給電用のUSB Type-Cポートを備え、別売のPD対応充電器を接続すれば最大85Wの急速充電が可能。長時間の動画視聴やゲームプレイが可能になるほか、ノートPCと組み合わせればオンライン会議でもバッテリー切れの心配がない。
-
-出力解像度は最大4K（3,840×2,160ドット）/60Hzをサポートし、専用ドライバーのインストールは不要。ケーブル長は2m、重量は約80g。
-
-文： 編集部 池西 樹 株式会社磁気研究所： https://www.mag-labo.com/
-
-磁気研究所、PD60W対応の巻き取り式USB Type-Cケーブル…</p><p><img src="https://www.gdm.or.jp/wp-content/uploads/2026/10/19/HD-TCHD2MPDBK_01.jpg" alt="Switch 2でも使える4K/60Hz対応Type-C to HDMIミラーリングケーブル"></p>]]></description><source url="https://www.gdm.or.jp/pressrelease/2026/1019/656963">エルミタージュ秋葉原</source><media:content url="https://www.gdm.or.jp/wp-content/uploads/2026/10/19/HD-TCHD2MPDBK_01.jpg" medium="image"/><media:thumbnail url="https://www.gdm.or.jp/wp-content/uploads/2026/10/19/HD-TCHD2MPDBK_01.jpg"/></item>
-<item><title>【iOS27】接続アシストでバッテリー消費が加速？VPNアプリにも影響か</title><link>https://iphone-mania.jp/ios-607624/</link><guid isPermaLink="true">https://iphone-mania.jp/ios-607624/</guid><pubDate>Mon, 19 Oct 2026 09:03:52 +0000</pubDate><description><![CDATA[<p>【iOS27】接続アシストでバッテリー消費が加速？VPNアプリにも影響か
-
-iOS27で登場した「接続アシスト」は、従来の「Wi-Fiアシスト」を強化しシームレスな通信を実現する新機能です。しかし、有効化によってバッテリー消費が著しく加速したり、VPNやセキュリティアプリの保護機能に影響を与えたりするケースが報告されています。
-
-【iOS27】接続アシストでバッテリー消費が加速？VPNアプリにも影響か
-
-iOS27 で登場した「 接続アシスト 」は、従来の「Wi-Fiアシスト」を強化しシームレスな通信を実現する新機能です。しかし、有効化によってバッテリー消費が著しく加速したり、VPNやセキュリティアプリの保護機能に影響を与えたりするケースが報告されています。
-
-iOS27で導入された「接続アシスト」は、従来の「Wi-Fiアシスト」を刷新したネットワーク制御機能です。
-
-従来のWi-Fiアシストは、Wi-Fiの電波強度や応答速度が低下した際、モバイルデータ通信へ切り替える仕組みでした。
-
-しかし、iOS27の接続アシストでは、通信品質を維持するためにWi-Fiとモバイルデータ通信の両方のネットワークセッションを同時にアクティブ化して維持・アクセスする動作を行っているとみられています。
-
-パケットの欠損や遅延を防止してシームレスな通信を実現する一方で、ベースバンドチップ（モデム）とWi-Fiモジュールの双方でデータの送受信を高頻度に行うため、内部処理や電力消費が増加し、 バッテリー消費を早める原因になっている と考えられます。
-
-Redditに投稿されたユーザーの報告によると、 iPhone15 Pro Max （最大容量89％）を iOS27 へアップデートしたあと、画面点灯時間（SOT）が 3時間〜4時間 程度まで悪化し、「接続アシスト」を無効化したところ、画面点灯時間が …</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/10/19/d519b0c13d8d605a0b1a84ccb34f9dfa.png" alt="【iOS27】接続アシストでバッテリー消費が加速？VPNアプリにも影響か"></p>]]></description><source url="https://iphone-mania.jp/ios-607624/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/10/19/d519b0c13d8d605a0b1a84ccb34f9dfa.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/10/19/d519b0c13d8d605a0b1a84ccb34f9dfa.png"/></item>
-<item><title>Kindleマンガ1冊26円からの全巻セールまとめ【10/19版】</title><link>https://komameblog.jp/sale/kindle-20261019-matome/</link><guid isPermaLink="true">https://komameblog.jp/sale/kindle-20261019-matome/</guid><pubDate>Mon, 19 Oct 2026 08:59:17 +0000</pubDate><description><![CDATA[<p>Kindleマンガ1冊26円からの全巻セールまとめ【10/19版】
-
-全巻・既刊全巻1冊99円以下で買えるKindleマンガのセール情報をまとめました。※途中までセールの作品も、番外編として扱っています怨み屋本舗シリーズ26円「怨み屋本舗」シリーズの26周年＆シリーズ通巻100巻を記念して、各シリーズが1冊2...
-
-全巻・既刊全巻1冊99円以下で買えるKindleマンガのセール情報をまとめました。
-
-「怨み屋本舗」シリーズの26周年＆シリーズ通巻100巻を記念して、各シリーズが1冊26円または1冊100円でセール中です。期間は11/1（日）まで。序盤は1冊26円ですが、第4部「怨み屋本舗 REVENGE」の途中から、1冊100円に切り替わります。
-
-10/19追記：38～39%オフクーポンが公開されたので、クーポン適用後の価格に修正しました
-
-最新刊直前まで1冊100円ですが、最新刊のみ792円の作品です。
-
-第1～7部および外伝怨み屋本舗 STREAM）の各シリーズを、すべてひとつにまとめたもの。値段はほんの少しだけ、こちらのほうがお得。
-
-2005年から週刊ヤングサンデーで連載がスタートし、いまなお連載中の長寿作品が、最新巻を含めてセール中です。セール期間は不明。
-
-ゴマブックスの定例セールで、往年の名作が1冊33円でセール中です。序盤だけ0円で買えるものもあり、平均価格で見ると1冊30円を割る作品もたくさんあります。期間は11/8まで。
-
-2027年1月に創刊されるTOブックスの新レーベル「LEVINコミックス&amp;ノベルス」のプレ創刊キャンペーンで、対象作品が1冊99円でセール中です。期間は10/31まで。ここでは100冊以上ある対象作のなかから、全巻1冊99円で買える作品だけをピックアップしました。
-
-忌み子と呼ばれた召喚士@COMIC (LEVINコミックス)
-
-…</p><p><img src="https://komameblog.jp/wp-content/uploads/2026/10/Kindle-20261019-matome.jpg" alt="Kindleマンガ1冊26円からの全巻セールまとめ【10/19版】"></p>]]></description><source url="https://komameblog.jp/sale/kindle-20261019-matome/">こまめブログ</source><media:content url="https://komameblog.jp/wp-content/uploads/2026/10/Kindle-20261019-matome.jpg" medium="image"/><media:thumbnail url="https://komameblog.jp/wp-content/uploads/2026/10/Kindle-20261019-matome.jpg"/></item>
-<item><title>【最終日】予算別に見る、みんなが本気で迷ったプライム感謝祭2026の商品ランキング</title><link>https://gori.me/amazon/amazon-sale/171301</link><guid isPermaLink="true">https://gori.me/amazon/amazon-sale/171301</guid><pubDate>Mon, 19 Oct 2026 08:50:50 +0000</pubDate><description><![CDATA[<p>【最終日】予算別に見る、みんなが本気で迷ったプライム感謝祭2026の商品ランキング
-
-Amazonプライム感謝祭2026の最終日に、みんなが本気で迷った商品を、予算別にランキング。5万円以上はiPad AirとiPhone Air、1万〜5万円と1万円以下の1位はどちらもiPhone Duoのケースだった。ガジェット以外で意外に注目を集めた商品もあわせて紹介する。
-
-【最終日】予算別に見る、みんなが本気で迷ったプライム感謝祭2026の商品ランキング
-
-5万円以上はiPad AirとiPhone Air。1万円台と1万円以下の1位は、どちらもiPhone Duoのケース
-
-みんなが本気で迷った商品を、5万円以上・1万〜5万円・1万円以下の予算別にランキング
-
-5万円以上はiPad Air（M4）が1位。注目は128GBに集中した
-
-1万〜5万円と1万円以下の1位は、どちらもiPhone Duo用ケース。発売前の準備需要が目立った
-
-Amazon の「 プライム感謝祭 」は、今日10月19日（月）23時59分で終わる。最終日に向けて、みんなが本気で迷った商品をランキングにした。13日の先行セールから昨日18日までのデータを元にしている。
-
-ただ、ふつうに並べると上位はApple製品ばかりになってしまう。そこで今回は、 予算別 に分けてみた。5万円以上の本命から、1万円以下の「ついで買い」まで、予算に合わせて最後のチェックに使ってほしい。
-
-ちなみに、期間中の注目度で断トツの1位だったのは、13インチ iPad Pro（M5） 2TBの破格セールだった。ただ、このセールはすでに終わっている。 人気のお買い得品から先になくなっていく ので、迷っている商品があるなら今日のうちに決めたい。
-
-価格は記事を書いた時点のもので、変わることがある。買う前に、商品ページで最新の価格を確かめてほ…</p><p><img src="https://gori.me/uploads/2026/07/WhatEveryOneBought-AmazonPrimeDay2026.jpg" alt="【最終日】予算別に見る、みんなが本気で迷ったプライム感謝祭2026の商品ランキング"></p>]]></description><source url="https://gori.me/amazon/amazon-sale/171301">gori.me</source><media:content url="https://gori.me/uploads/2026/07/WhatEveryOneBought-AmazonPrimeDay2026.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/07/WhatEveryOneBought-AmazonPrimeDay2026.jpg"/></item>
 </channel></rss>
