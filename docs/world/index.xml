@@ -1,6 +1,179 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Tue, 27 Oct 2026 16:37:01 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Tue, 27 Oct 2026 21:18:15 +0000</lastBuildDate>
+<item><title>Windows 11 で今も動作する最古の Windows アプリ</title><link>https://hackaday.com/2026/10/26/the-oldest-windows-app-to-still-run-on-windows-11/</link><guid isPermaLink="true">https://hackaday.com/2026/10/26/the-oldest-windows-app-to-still-run-on-windows-11/</guid><pubDate>Tue, 27 Oct 2026 05:00:21 +0000</pubDate><description><![CDATA[<p>Windows 11 で今も動作する最古の Windows アプリ
+
+オープンソースの世界では、ソフトウェアが特定のディストリビューションのソースからコンパイルされることに慣れているため、古いリリースがまだ使用されている場合もありますが、それはそのまま実行されます。
+
+オープンソースの世界では、ソフトウェアが特定のディストリビューションのソースからコンパイルされることに慣れているため、場合によっては古いリリースがまだ使用されている可能性がありますが、それは最新のディストリビューション バージョンで実行されるだけです。しかし Windows の世界では、ソフトウェアにソースが付属していることは稀なので、Windows バージョンに適切な API がある場合にのみ実行されるバイナリが残されます。 Windows の最新バージョンは少し前に 16 ビットのサポートを終了したため、現在でも実行できる最も初期の Windows GUI アプリケーションには明確な日付が設定されている必要があります。 [エンリス]は調査することにした。
+
+WIndows 11 でサポートされている最も古い API が 32 ビット バージョンであることを考慮すると、探索の結果、最初の Windows NT リリースおよび Windows 11 の祖先、または WIndows 3.1 の Win32s 拡張機能のいずれかが見つかりました。したがって、Freecell の 1993 Win32S バージョンは問題なく動作しますが、これで問題は終わりです。 Windows NT 3.1 のプレリリース ビルドのどこかに必須バイナリが含まれているはずですが、問題があります。初期の Windows NT 3.1 API は、それ以降の API と互換性がありませんでした。これにより、多くのクラッシュするバイナリが発生し、1992 年 11 月バージョンの CD プレーヤー アプリが完成しました。このバージョンは、たまたままだ存在していた DLL を呼び出したため実行されました。 CD ドライブをエミュレートす…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/10/oldest-winapp-featured.jpg" alt="Windows 11 で今も動作する最古の Windows アプリ"></p>]]></description><source url="https://hackaday.com/2026/10/26/the-oldest-windows-app-to-still-run-on-windows-11/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/10/oldest-winapp-featured.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/10/oldest-winapp-featured.jpg"/></item>
+<item><title>HP OmniBook X 14 ラップトップ レビュー: 無視できない OLED を搭載した Panther Lake の毎日の主力製品</title><link>https://www.notebookcheck.net/HP-OmniBook-X-14-Review-This-Panther-Lake-productivity-powerhouse-lasts-17-hours-but-HP-wants-1-900.1393734.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/HP-OmniBook-X-14-Review-This-Panther-Lake-productivity-powerhouse-lasts-17-hours-but-HP-wants-1-900.1393734.0.html</guid><pubDate>Tue, 27 Oct 2026 05:00:00 +0000</pubDate><description><![CDATA[<p>HP OmniBook X 14 ラップトップ レビュー: 無視できない OLED を搭載した Panther Lake の毎日の主力製品
+
+Notebookcheck は、Intel Panther Lake-H Core Ultra 7 356H を搭載した HP OmniBook X 14 をレビューし、日常の生産性のニーズにどの程度適合するかを確認します。
+
+評決: 生産性の向上には高額な代償が伴う
+
+HP OmniBook X 14 は、あまり手間をかけずに一日を過ごせる信頼性の高いマシンを探している人にとって、有力な選択肢です。デザインは注目を集めるものではありませんが、見た目は十分に落ち着いていて、持ち運びが簡単です。
+
+パフォーマンスに関しては、OmniBook X 14 に不満の余地はあまりありません。Core Ultra 7 356H は期待通りのパフォーマンスを発揮し、冷却システムにより温度を抑えながら適切な持続的なパフォーマンスを実現します。
+
+良好 (85%) HP OmniBook X 14-ka Intel Core Ultra 7 356H Intel Graphics 4 Xe3 Panther Lake iGPU マルチメディア - 2026 年 10 月 19 日 - v8 テスト デバイスは HP India の厚意により提供 ライセンスされた評価画像を PNG / SVG としてダウンロード OmniBook X 14 の最大の驚きは、その 1,900 ドルまたは ₹1,89,999 の提示価格です。これは、提供されている構成では少し急なようです。それが最近の新しい常態なのかもしれません。
+
+Ryzen AI 9 HX 375 を搭載した HP 独自の OmniBook Ultra 14 などの代替製品は、現時点で数年前のものかもしれませんが、IPS パネルに満足しているのであれば、はるかに安価でより優れた CPU と GPU のパフォーマンスを提供します。
+
+HP OmniBook X 14-ka0099nr は現在、24 G…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/HP/OmniBook_X_14-ka/hp_omnibook_x_14_1_header.jpg" alt="HP OmniBook X 14 ラップトップ レビュー: 無視できない OLED を搭載した Panther Lake の毎日の主力製品"></p>]]></description><source url="https://www.notebookcheck.net/HP-OmniBook-X-14-Review-This-Panther-Lake-productivity-powerhouse-lasts-17-hours-but-HP-wants-1-900.1393734.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/HP/OmniBook_X_14-ka/hp_omnibook_x_14_1_header.jpg" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/HP/OmniBook_X_14-ka/hp_omnibook_x_14_1_header.jpg"/></item>
+<item><title>Corsair RM1200e 1200 Watt (2026) レビュー: 新しいテクノロジー、静かな動作、および純正グラフィックス カード保護としての PinProtect</title><link>https://www.igorslab.de/en/corsair-rm1200e-1200-watt-2026-review-new-label-new-oem-pinprotect-gpu-protection/</link><guid isPermaLink="true">https://www.igorslab.de/en/corsair-rm1200e-1200-watt-2026-review-new-label-new-oem-pinprotect-gpu-protection/</guid><pubDate>Tue, 27 Oct 2026 04:30:33 +0000</pubDate><description><![CDATA[<p>Corsair RM1200e 1200 Watt (2026) レビュー: 新しいテクノロジー、静かな動作、および純正グラフィックス カード保護としての PinProtect
+
+第 2 世代 Corsair RM1200e は、前世代よりも効率が高く、静かです。 PinProtect は保護を強化しますが、フィルタリングのパフォーマンスは低下します。
+
+第 2 世代 Corsair RM1200e は、異なる OEM と個別に監視される 12V-2x6 コネクタを備えた改良された 1200 W プラットフォームです。 Cybenetics データは、高い平均効率と低い平均ノイズを示していますが、オリジナル バージョンよりもいくつかのマイナー レールでリップルが高いことも示しています。結果は 2026 年の改訂に適用されます。古い RM1200e バージョンに簡単に移行することはできません。
+
+2026 バージョンでは、Channel Well Technology (CWT) のプラットフォームが使用されています。記事によると、2023 年バージョンと 2025 年初めに認定されたバージョンは HEC によって作成されました。
+
+230 V のテスト シリーズについて、Cybenetics は平均効率 91.606 パーセント、平均ノイズ 21.99 dB(A) を報告しています。これらの平均は多数の負荷点をカバーしており、単一の特定の負荷での動作を説明するものではありません。
+
+PinProtect は、12V-2x6 コネクタの 6 つの電力伝送接点を個別に監視します。 Cybenetics レポートには、コンタクトごとに 12 A のテストに合格したと記載されています。
+
+この記事では、このユニットを、高電力消費と単一の高性能グラフィックス カードを備えたシステム向けの有能な電源として位置づけています。電力要件が大幅に低いコンピュータの場合、定格出力だけでは安定性やフレーム レートの点で利点がありません。
+
+最大レール出力を任意に加算することはできません。総出力…</p><p><img src="https://www.igorslab.de/wp-content/uploads/2026/10/Box-Top.jpg" alt="Corsair RM1200e 1200 Watt (2026) レビュー: 新しいテクノロジー、静かな動作、および純正グラフィックス カード保護としての PinProtect"></p>]]></description><source url="https://www.igorslab.de/en/corsair-rm1200e-1200-watt-2026-review-new-label-new-oem-pinprotect-gpu-protection/">igor&#39;sLAB</source><media:content url="https://www.igorslab.de/wp-content/uploads/2026/10/Box-Top.jpg" medium="image"/><media:thumbnail url="https://www.igorslab.de/wp-content/uploads/2026/10/Box-Top.jpg"/></item>
+<item><title>Windows 11 Gets New Command Palette Features and Mouse Button Lock in PowerToys 0.102</title><link>https://www.techpowerup.com/354164/windows-11-gets-new-command-palette-features-and-mouse-button-lock-in-powertoys-0-102</link><guid isPermaLink="true">https://www.techpowerup.com/354164/windows-11-gets-new-command-palette-features-and-mouse-button-lock-in-powertoys-0-102</guid><pubDate>Tue, 27 Oct 2026 03:18:28 +0000</pubDate><description><![CDATA[<p>Windows 11 Gets New Command Palette Features and Mouse Button Lock in PowerToys 0.102</p>]]></description><source url="https://www.techpowerup.com/354164/windows-11-gets-new-command-palette-features-and-mouse-button-lock-in-powertoys-0-102">TechPowerUp</source></item>
+<item><title>伝説のパワートランジスタを讃えて</title><link>https://hackaday.com/2026/10/26/in-praise-of-a-legendary-power-transistor/</link><guid isPermaLink="true">https://hackaday.com/2026/10/26/in-praise-of-a-legendary-power-transistor/</guid><pubDate>Tue, 27 Oct 2026 02:00:15 +0000</pubDate><description><![CDATA[<p>伝説のパワートランジスタを讃えて
+
+電子的な不死性を実現するデバイスがいくつかあり、あなたもそのうちのいくつかを使用したことがあるでしょう。もちろん 555 タイマー、または 741 オペアンプです。 [ElectronicsNotes] が登場しました…
+
+電子的な不死性を実現するデバイスがいくつかあり、あなたもそのうちのいくつかを使用したことがあるでしょう。もちろん 555 タイマー、または 741 オペアンプです。 [ElectronicsNotes] には、これまでの文章を読んだときには思いつかなかったかもしれないもう 1 つの候補があります。それはトランジスタです。 2N3055 は NPN パワー トランジスタ、いや、NPN パワー トランジスタであり、過去 60 年以上にわたって驚くべき一連のデバイスに採用されてきました。
+
+このようなユビキタスなデバイスの場合、新しいことはそれほど多くないと思われるかもしれませんが、このビデオはその点について役に立ちます。ここで、そしておそらくあなたにとって、3055 は常にエピタキシャル デバイスであり、その特徴はおそらくよくご存知でしょうが、元々は別のものでした。 1960 年代初頭の発売時にはホームタキシャル製造プロセスが使用されましたが、1970 年代半ばには、同じ機能を備えたエピタキシャル プロセスを使用したバージョンに置き換えられました。その結果、Ft が高くなったため、不要な発振を止めるためにデバイスを使用する回路を変更する必要がありました。
+
+これが書かれているところには、かなり古いオフィスのオーディオアンプ、ベンチ電源、そしておそらく他の場所にもいくつかの 2N3055 があります。多くの点で置き換えられ、TO3 訴訟は時代遅れに感じられますが、おそらく完全に消えることはありません。一方、決して消えることのなかったもう 1 つの象徴的な 1960 年代のデバイスについて読みたい場合は、こちらをご覧ください。
+
+ヘッダー: 非常に初期の例です。 Eule4404、CC BY-SA 4.0</p><p><img src="https://hackaday.com/wp-content/uploads/2026/10/2n3055-featured.jpg" alt="伝説のパワートランジスタを讃えて"></p>]]></description><source url="https://hackaday.com/2026/10/26/in-praise-of-a-legendary-power-transistor/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/10/2n3055-featured.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/10/2n3055-featured.jpg"/></item>
+<item><title>CD Projekt Red Thanks BioWare on The Witcher&#39;s 19th Anniversary</title><link>https://www.techpowerup.com/354162/cd-projekt-red-thanks-bioware-on-the-witchers-19th-anniversary</link><guid isPermaLink="true">https://www.techpowerup.com/354162/cd-projekt-red-thanks-bioware-on-the-witchers-19th-anniversary</guid><pubDate>Tue, 27 Oct 2026 00:45:00 +0000</pubDate><description><![CDATA[<p>CD Projekt Red Thanks BioWare on The Witcher&#39;s 19th Anniversary</p>]]></description><source url="https://www.techpowerup.com/354162/cd-projekt-red-thanks-bioware-on-the-witchers-19th-anniversary">TechPowerUp</source></item>
+<item><title>Anthropic Filesがナスダックに上場、上半期の収益は163億ドルであることが明らかに</title><link>https://www.techpowerup.com/354157/anthropic-files-to-go-public-on-nasdaq-reveals-usd-16-3-billion-in-first-half-revenue</link><guid isPermaLink="true">https://www.techpowerup.com/354157/anthropic-files-to-go-public-on-nasdaq-reveals-usd-16-3-billion-in-first-half-revenue</guid><pubDate>Tue, 27 Oct 2026 00:03:00 +0000</pubDate><description><![CDATA[<p>Anthropic Filesがナスダックに上場、上半期の収益は163億ドルであることが明らかに
+
+アンスロピックはIPOを公的に申請し、ティッカー「ANT」でナスダックに上場する計画で10月26日にSECにS-1を提出した。申請書では今のところ価格帯と株数は空白のままだが、ウォール・ストリート・ジャーナルは、この募集により1回で1000億ドル以上を調達できる可能性があると報じている。
+
+Anthropic Filesがナスダックに上場、上半期の収益は163億ドルであることが明らかに
+
+2026年10月1日 マイクロンCEO、2027年と2028年のメモリ供給は2026年よりもかなり逼迫すると語る (67)
+
+2026 年 10 月 17 日 PS6 の RAM とストレージだけでソニーのコストは 680 ドル以上だとリーカーが主張 (46)
+
+2026 年 6 月 12 日、4000 ドルの AMD Ryzen AI Halo Mini PC 開発キットの予約注文が開始 (47)
+
+2026 年 3 月 26 日 AMD が 192 MB L3 キャッシュを搭載した Ryzen 9 9950X3D2 デュアル エディション デスクトップ プロセッサを発表 (149)
+
+2026 年 9 月 13 日 AI 企業がサーバー用に NVIDIA RTX 5090 GPU を大量購入しているとの報道 (112)
+
+2026 年 2 月 17 日 ブラインド テストにより、ゲーマーはネイティブ解像度レンダリングや AMD FSR 4 よりも NVIDIA DLSS 4.5 を好むことが判明 (173)
+
+2026 年 6 月 25 日 RDNA 3 での AMD の FSR 4.1 パフォーマンスは FSR 3.1 よりも著しく遅い (189)
+
+2026 年 10 月 25 日 NVIDIA は、GPU あたり年間 2,000 ドルのソフトウェア収益を目にしました (28)
+
+2026 年 9 月 11 日 価格が上昇し続けるにもかかわらず、ゲーマーは 2026 年第 2 四…</p><p><img src="https://www.techpowerup.com/img/3WgkoiBk2uxFLVdA.jpg" alt="Anthropic Filesがナスダックに上場、上半期の収益は163億ドルであることが明らかに"></p>]]></description><source url="https://www.techpowerup.com/354157/anthropic-files-to-go-public-on-nasdaq-reveals-usd-16-3-billion-in-first-half-revenue">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/3WgkoiBk2uxFLVdA.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/3WgkoiBk2uxFLVdA.jpg"/></item>
+<item><title>Rockchip RK3576-powered SMARC 2.2 system-on-module and development board target Edge AI applications</title><link>https://www.cnx-software.com/2026/10/27/rockchip-rk3576-powered-smarc-2-2-system-on-module-and-development-board-target-edge-ai-applications/</link><guid isPermaLink="true">https://www.cnx-software.com/2026/10/27/rockchip-rk3576-powered-smarc-2-2-system-on-module-and-development-board-target-edge-ai-applications/</guid><pubDate>Tue, 27 Oct 2026 00:00:25 +0000</pubDate><description><![CDATA[<p>Rockchip RK3576-powered SMARC 2.2 system-on-module and development board target Edge AI applications</p>]]></description><source url="https://www.cnx-software.com/2026/10/27/rockchip-rk3576-powered-smarc-2-2-system-on-module-and-development-board-target-edge-ai-applications/">CNX Software</source></item>
+<item><title>PS5 Linux プロジェクトが PS5 Pro およびファームウェア バージョン 13.60 までをサポート</title><link>https://www.techpowerup.com/354159/ps5-linux-project-gets-support-for-ps5-pro-and-up-to-firmware-version-13-60</link><guid isPermaLink="true">https://www.techpowerup.com/354159/ps5-linux-project-gets-support-for-ps5-pro-and-up-to-firmware-version-13-60</guid><pubDate>Mon, 26 Oct 2026 23:19:46 +0000</pubDate><description><![CDATA[<p>PS5 Linux プロジェクトが PS5 Pro およびファームウェア バージョン 13.60 までをサポート
+
+PS5 Linux プロジェクトの立ち上げと、その後の開発主任の PlayStation 改造シーンからの撤退後も、このプロジェクトは引き続き寄付を受け続けているように見えます。 PS5-linux-loader プロジェクトの最近の更新により、PlayStation 5 で Linux を実行するためのサポートが追加されました。
+
+PS5 Linux プロジェクトが PS5 Pro およびファームウェア バージョン 13.60 までをサポート
+
+2026 年 8 月 29 日 Piston V タッチスクリーン Bazzite Mini PC がキックスターターでメーカー希望小売価格 799 ドルで発売 (7)
+
+2026 年 8 月 30 日 GTA 6 の公開後に PS5 Pro の在庫がなくなり、価格は 1,300 ドルに達しました (24)
+
+2026 年 9 月 30 日 新しい脱獄により、ほぼすべての PlayStation 5 モデルのロックが解除されます (10)
+
+2026 年 4 月 28 日 Linux が PlayStation 5 で正式に利用可能になりました (22)
+
+2026 年 5 月 18 日 インサイダーは、ソニーが PC ポートを廃止することを認めています: 「PC に登場するシングル プレイヤー ゲームは少なくなるでしょう。」 (135)
+
+2026 年 10 月 17 日 PS6 の RAM とストレージだけでソニーのコストは 680 ドル以上だとリーカーが主張 (46)
+
+2025 年 12 月 14 日 Microsoft Copilot AI が LG TV に搭載、削除できない (144)
+
+2026 年 6 月 12 日、4000 ドルの AMD Ryzen AI Halo Mini PC 開発キットの予約注文が開始 (47)
+
+2026 年 9 月 15 日 「Slop Kiddies」が重要なエク…</p><p><img src="https://www.techpowerup.com/img/b9pIBIUi2mpqG25A.jpg" alt="PS5 Linux プロジェクトが PS5 Pro およびファームウェア バージョン 13.60 までをサポート"></p>]]></description><source url="https://www.techpowerup.com/354159/ps5-linux-project-gets-support-for-ps5-pro-and-up-to-firmware-version-13-60">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/b9pIBIUi2mpqG25A.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/b9pIBIUi2mpqG25A.jpg"/></item>
+<item><title>Internet-Adverse Dad Gets Bespoke Flight Tracker</title><link>https://www.hackster.io/news/internet-adverse-dad-gets-bespoke-flight-tracker-40c0d7b1c696</link><guid isPermaLink="true">https://www.hackster.io/news/internet-adverse-dad-gets-bespoke-flight-tracker-40c0d7b1c696</guid><pubDate>Mon, 26 Oct 2026 23:01:26 +0000</pubDate><description><![CDATA[<p>Internet-Adverse Dad Gets Bespoke Flight Tracker</p>]]></description><source url="https://www.hackster.io/news/internet-adverse-dad-gets-bespoke-flight-tracker-40c0d7b1c696">Hackster.io</source></item>
+<item><title>Linux カーネル 7.4 HID サポートには Nintendo Switch 2 コントローラーと Pulsar ゲーミング マウスが含まれます</title><link>https://www.techpowerup.com/354158/linux-kernel-7-4-hid-support-includes-nintendo-switch-2-controllers-and-pulsar-gaming-mice</link><guid isPermaLink="true">https://www.techpowerup.com/354158/linux-kernel-7-4-hid-support-includes-nintendo-switch-2-controllers-and-pulsar-gaming-mice</guid><pubDate>Mon, 26 Oct 2026 22:46:27 +0000</pubDate><description><![CDATA[<p>Linux カーネル 7.4 HID サポートには Nintendo Switch 2 コントローラーと Pulsar ゲーミング マウスが含まれます
+
+Valve は、Steam Deck とともに Arch ベースの SteamOS を発表して以来、Linux ゲーム シーンに大きく貢献してきました。Linux ゲーム エコシステムに対する同社の最新の貢献は、ハードウェア サポートに携わる開発者である Vicki Pfau による一連のパッチによって実現されました。
+
+Linux カーネル 7.4 HID サポートには Nintendo Switch 2 コントローラーと Pulsar ゲーミング マウスが含まれます
+
+2026 年 4 月 13 日 Epic Games ストアの従業員: 無料ゲームのためだけに来て、その後 Steam に戻ってきた人々 (91)
+
+2025 年 12 月 31 日 AI 業界の需要のおかげで、2026 年に 5000 ドルの RTX 5090 GPU が登場するとリークが予測 (124)
+
+2026 年 4 月 28 日 Linux が PlayStation 5 で正式に利用可能になりました (22)
+
+2026 年 5 月 27 日 リーカーが天文学的な蒸気機械の価格を示唆 (74)
+
+2026 年 9 月 2 日 箱から出していないハードウェアが、ケーブルが 175°C に達して溶けた RTX 5090 電源コネクタの被害に遭う (93)
+
+2025 年 11 月 3 日 AMD が Radeon RX 5000/6000 シリーズの「メンテナンス モード」を明確に、初日のゲーム サポートは継続 (160)
+
+2026 年 6 月 12 日、4000 ドルの AMD Ryzen AI Halo Mini PC 開発キットの予約注文が開始 (47)
+
+2026 年 2 月 21 日 AMD が Ryzen Z1 Extreme プロセッサのドライバー更新を停止したようです (119)
+
+2026 年 8 月 28 日 ウィッチ…</p><p><img src="https://www.techpowerup.com/img/QvFmFlpoBTJZQWnH.jpg" alt="Linux カーネル 7.4 HID サポートには Nintendo Switch 2 コントローラーと Pulsar ゲーミング マウスが含まれます"></p>]]></description><source url="https://www.techpowerup.com/354158/linux-kernel-7-4-hid-support-includes-nintendo-switch-2-controllers-and-pulsar-gaming-mice">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/QvFmFlpoBTJZQWnH.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/QvFmFlpoBTJZQWnH.jpg"/></item>
+<item><title>マイクロソフト、従業員の4分の1の買収を提案</title><link>https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/</link><guid isPermaLink="true">https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/</guid><pubDate>Mon, 26 Oct 2026 22:36:06 +0000</pubDate><description><![CDATA[<p>マイクロソフト、従業員の4分の1の買収を提案
+
+米国、カナダ、インド、英国の従業員は、本日 MS を退職するオファーを受け取る可能性があります。
+
+テキスト設定 ストーリー テキスト サイズ 小 標準 大 幅 * 標準 幅広 リンク 標準 オレンジ * 購読者のみ 詳細はこちら ナビゲーションを最小化 月曜日、Microsoft は社内の一部の部門の適格な従業員に自主的な買収を提供すると発表しました。 CNBC は、買収の対象となるのは約 60,000 人の従業員、または世界の従業員の約 4 分の 1 であると報じています。同社はこの提案を、すでにマイクロソフト社外への転職を検討している可能性のある従業員にとっての機会であると説明している。 Microsoftは買収パッケージの直接的な理由については明らかにしていないが、同社が過去数年間、AIインフラストラクチャとデータセンターの構築への投資の中でコスト管理に費やしてきたことを受けてのことだ。
+
+Microsoft は、自主退職オファー (VEO) を、米国、インド、カナダ、および英国の条件を満たす従業員に拡大します。レベル 70 以下の Microsoft 従業員は、買収プログラムの対象となります。同社の従業員ランキングは内部的なものですが、給与とキャリアのデータベース Levels.fyi によると、レベル 65 ～ 67 が主任職に相当し、68 ～ 70 がパートナー/優秀なレベルに相当します。最高人事責任者のエイミー・コールマン氏によると、適格な組織は「各ビジネスの優先順位、顧客のコミットメント、従業員のニーズに基づいて」選ばれたという。
+
+この取り組みは、マイクロソフトが 2026 年に自主的に人員削減を実施するのは 2 回目です。同社は 4 月に、米国の従業員 8,750 人に対して初の希望退職パッケージを提供しました。 7月、Xbox部門はゲーム部門全体の約20％に相当する3,200人の従業員を解雇した。 CNBC が報じたように、コールマン氏によると、対象となる従業員の約 30 パーセントが退職提案を受け…</p><p><img src="https://cdn.arstechnica.net/wp-content/uploads/2021/02/microsoft-1152x648.jpg" alt="マイクロソフト、従業員の4分の1の買収を提案"></p>]]></description><source url="https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/">Ars Technica Gear &amp; Gadgets</source><media:content url="https://cdn.arstechnica.net/wp-content/uploads/2021/02/microsoft-1152x648.jpg" medium="image"/><media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2021/02/microsoft-1152x648.jpg"/></item>
+<item><title>アーク レイダース開発者、分裂テスト後も永続 PvE モードで意見を分かれる</title><link>https://www.techpowerup.com/354155/arc-raiders-developer-still-split-on-permanent-pve-mode-after-divisive-test</link><guid isPermaLink="true">https://www.techpowerup.com/354155/arc-raiders-developer-still-split-on-permanent-pve-mode-after-divisive-test</guid><pubDate>Mon, 26 Oct 2026 22:08:02 +0000</pubDate><description><![CDATA[<p>アーク レイダース開発者、分裂テスト後も永続 PvE モードで意見を分かれる
+
+Embark は最近、Arc Raiders の新しい PvE モードの短期テストを終了しました。これは、6 か月間の最高プレイヤー数から部分的に遅れていた可能性があり、ゲーム スタジオは現在、PvE モード テストから収集したデータを反映し始めています。 MP1st との最近のインタビューで、Embark の Alexandar Grøndal 氏は...
+
+アーク レイダース開発者、分裂テスト後も永続 PvE モードで意見を分かれる
+
+MP1st 経由の Aleksander Grøndal PvE マッチメイキングの切り替えテストが終了したので、それが何を意味するのかを詳しく調べています。もちろん、歴史的な理由からこのようなモードをゲームに導入することには少し懐疑的でしたが、今後どうしたいのかを話し合う必要があります。ゲームには本質的に魅力があり、特定のタイプのプレイヤーはストレスなくゲームをプレイしたいと考えていると思います。おそらくこれは、ゲームがより多くのプレイヤー タイプをサポートできる可能性があることを示しており、それをサポートする方法を理解する必要があります。もちろん、課題は、ゲーム自体の前提を損なうことなくそれをどのように行うかです。コンテンツの議論に入る前に、ここで何が必要なのかを理解する必要があります。これは、より激しい PvPvE ラウンドの合間にプレイできる、リラックスしたサイド モードでしょうか? AI を相手に自分のスキルを試すチャレンジ モードですか?それとも、PvE のみで完全な体験ができるのでしょうか?これらは、今後の進め方を決定する前に掘り下げる必要がある質問の一部です。すべてのオプションは、今後のゲーム アップデートの構築方法に異なる影響を及ぼします。
+
+2026 年 7 月 27 日 Palworld 幹部がサポート終了計画についてゲーマーに安心を与える (10)
+
+2026 年 10 月 3 日 Jagex が Unreal Engine に組み…</p><p><img src="https://www.techpowerup.com/img/oJ9Rz2mjvkSwU5ad.jpg" alt="アーク レイダース開発者、分裂テスト後も永続 PvE モードで意見を分かれる"></p>]]></description><source url="https://www.techpowerup.com/354155/arc-raiders-developer-still-split-on-permanent-pve-mode-after-divisive-test">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/oJ9Rz2mjvkSwU5ad.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/oJ9Rz2mjvkSwU5ad.jpg"/></item>
+<item><title>GPT-6.1 Terra は、AI のコストに見合った OpenAI の最高の製品であることを強く主張します</title><link>https://www.androidauthority.com/gpt-6-1-terra-3728234/</link><guid isPermaLink="true">https://www.androidauthority.com/gpt-6-1-terra-3728234/</guid><pubDate>Mon, 26 Oct 2026 21:25:03 +0000</pubDate><description><![CDATA[<p>GPT-6.1 Terra は、AI のコストに見合った OpenAI の最高の製品であることを強く主張します
+
+GPT-6.1 Sol と GPT-6 Astra の両方に匹敵するパフォーマンスを備えた Terra の実行コストはほんの数分の一です。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+AI GPT-6.1 Terra は、AI のコストに見合った OpenAI の最高の製品であることを強く主張します
+
+• Edgar Cervantes / Android Authority Google に Android Authority を追加: 優先ソース Google Discover TL;DR OpenAI は、コストとパフォーマンスのバランスに優れた最新モデル GPT-6.1 Terra を導入します。
+
+Astra は依然として OpenAI のパフォーマンスの王者ですが、Terra はわずか数分の一のコストで、それほど劣らない出力品質を提供できます。
+
+GPT-6.1 Sol と同様のパフォーマンスにもかかわらず、Terra は約半分の価格で動作します。
+
+AI 全般に関して進歩のスピードは非常に速いため、「より大きく、より良く」ということが目標であるとはほとんど感じられません。その代わりに、私たちは複数の分野にわたる開発を追跡していることに気づきました。そこでは、ほんの数分のコストで別のモデルのパフォーマンスに匹敵する、効率の面での利益を見つけることも同様に印象深いことがあります。同社は GPT-6.1 Terra を共有しているため、これはまさに私たちが今日 OpenAI から見ている勢いのようなものです。
+
+GPT-6.1 Sol に対応してから 1 か月が経ちますが、今日、OpenAI は 6.1 のしきい値を超える次のモデルである GPT-6.1 Terra を発表します。これは、この夏に発売された GPT-5.6 Terra に続くもので、パフォーマンスと効率の…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/05/Open-AI-ChatGPT-logo-on-phone-stock-photo-7.jpg" alt="GPT-6.1 Terra は、AI のコストに見合った OpenAI の最高の製品であることを強く主張します"></p>]]></description><source url="https://www.androidauthority.com/gpt-6-1-terra-3728234/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/05/Open-AI-ChatGPT-logo-on-phone-stock-photo-7.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/05/Open-AI-ChatGPT-logo-on-phone-stock-photo-7.jpg"/></item>
+<item><title>(PR) Apple、まったく新しいiPad miniを発表</title><link>https://www.techpowerup.com/354156/apple-unveils-the-all-new-ipad-mini</link><guid isPermaLink="true">https://www.techpowerup.com/354156/apple-unveils-the-all-new-ipad-mini</guid><pubDate>Mon, 26 Oct 2026 21:19:02 +0000</pubDate><description><![CDATA[<p>(PR) Apple、まったく新しいiPad miniを発表
+
+Apple は本日、まったく新しい iPad mini を発表しました。これは、さらに薄くて軽いデザインの見事な OLED ディスプレイ、A20 Pro による大幅な性能の飛躍、そして防水性と防塵性を備えています。より大きな 8.5 インチ OLED ディスプレイは、ナノテクスチャ オプションでも利用可能で、より高いコントラストと...
+
+Apple、まったく新しいiPad miniを発表
+
+Appleハードウェアエンジニアリング担当バイスプレジデントのデイブ・パクラ氏「iPad miniは、その素晴らしい携帯性、パフォーマンス、ディスプレイにより、クリエイターや中小企業経営者から医師、フィールドサービスワーカー、ゲーマーまで幅広いユーザーに愛されています。驚くほど薄くて軽いデザイン、見事な新しいOLEDディスプレイ、信じられないほど強力なA20 Pro、そして防水性と防塵性を備えた新しいiPad miniは、手のひらで完全なiPadエクスペリエンスを楽しむことを好むユーザーにとって大きな進歩です。」
+
+お客様は、A20 Pro を搭載した iPad mini を 10 月 28 日水曜日から、米国を含む 36 の国と地域の apple.com および Apple Store アプリで予約注文することができます。顧客への到着が開始され、11 月 6 日金曜日から Apple Store の店舗および Apple 正規販売店に並びます。
+
+iPad miniは、128 GB、256 GB、512 GBの構成でミッドナイトとスターライトで利用可能になります。
+
+iPad mini の料金は、Wi-Fi モデルが 12 か月で月額 699 ドル (米国) または 58.25 ドル (米国)、Wi-Fi + Cellular モデルが 12 か月で月額 849 ドル (米国) または 70.75 ドル (米国) からです。
+
+iPad mini の Apple Upgrade リース価格は、Wi-Fi モデルの 3…</p><p><img src="https://www.techpowerup.com/img/N9T46G0XDeZWxX51.jpg" alt="(PR) Apple、まったく新しいiPad miniを発表"></p>]]></description><source url="https://www.techpowerup.com/354156/apple-unveils-the-all-new-ipad-mini">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/N9T46G0XDeZWxX51.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/N9T46G0XDeZWxX51.jpg"/></item>
 <item><title>調査によると、ほとんどの読者は Android を支持しているが、かなりの数の読者が iOS に興味を持っている</title><link>https://www.androidauthority.com/switch-android-to-ios-poll-results-3728191/</link><guid isPermaLink="true">https://www.androidauthority.com/switch-android-to-ios-poll-results-3728191/</guid><pubDate>Mon, 26 Oct 2026 18:18:42 +0000</pubDate><description><![CDATA[<p>調査によると、ほとんどの読者は Android を支持しているが、かなりの数の読者が iOS に興味を持っている
 
 Android から iOS に切り替えますか? 50% 以上がロイヤルティを維持していますが、最近の Pixel の一貫性やその他の問題により、iOS を考慮した割合は 30% 近くになっています。
@@ -4625,6 +4798,15 @@ TrendForce の最新の AI サーバー業界調査によると、AI サーバ�
 
 2026 年 3 月 6 日 PlayStation 6 のリークヒント 4K 120 FPS は「ほとんどのゲ…</p><p><img src="https://www.techpowerup.com/img/jkeu28QPf9BwJIg1.jpg" alt="(PR) サーバーCPUの出荷台数は2027年に前年比40％以上の成長が見込まれ、Armベースの製品が引き続き市場シェアを獲得"></p>]]></description><source url="https://www.techpowerup.com/354008/server-cpu-shipments-projected-to-grow-over-40-yoy-in-2027-with-arm-based-products-continuing-to-gain-market-share">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/jkeu28QPf9BwJIg1.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/jkeu28QPf9BwJIg1.jpg"/></item>
 <item><title>Google’s refurbished Pixel 9 might be the smartest phone purchase of 2026</title><link>https://www.androidauthority.com/refurbished-pixel-9-best-android-deal-2026-3723630/</link><guid isPermaLink="true">https://www.androidauthority.com/refurbished-pixel-9-best-android-deal-2026-3723630/</guid><pubDate>Thu, 22 Oct 2026 09:30:58 +0000</pubDate><description><![CDATA[<p>Google’s refurbished Pixel 9 might be the smartest phone purchase of 2026</p>]]></description><source url="https://www.androidauthority.com/refurbished-pixel-9-best-android-deal-2026-3723630/">Android Authority</source></item>
+<item><title>一人称視点のソウルライク「Valor Mortis」は、わずか 1 週間ですでに利益を上げています</title><link>https://www.kitguru.net/gaming/mustafa-mahmoud/first-person-soulslike-valor-mortis-is-already-profitable-after-just-one-week/</link><guid isPermaLink="true">https://www.kitguru.net/gaming/mustafa-mahmoud/first-person-soulslike-valor-mortis-is-already-profitable-after-just-one-week/</guid><pubDate>Thu, 22 Oct 2026 09:30:00 +0000</pubDate><description><![CDATA[<p>一人称視点のソウルライク「Valor Mortis」は、わずか 1 週間ですでに利益を上げています
+
+GhostrunnerスタジオOne More Levelの一人称視点のSoulslike「Valor Mortis」は、わずか1週間で公式にブレイクイーブンになりました。
+
+一人称視点のソウルライク「Valor Mortis」は、わずか 1 週間ですでに利益を上げています
+
+Mustafa Mahmoud 22 時間前 注目のテクノロジー ニュース、ソフトウェア、ゲーム
+
+ほとんどの AAA 企業は、任意の数の何百万本が売れるまでゲームが成功したとは考えませんが、インディー スタジオは、はるかに控えめな目標を念頭に置いていることがよくあります。 Ghostrunner シリーズの背後にあるスタジオである One More Level も同様のようで、同社が新しくリリースした一人称視点の Soulslike Valor Mortis が発売初週で利益を上げたことを明らかにしました。ワン・モア・レベルのチームはTwitterで発表し、発売から1週間以内に一人称ソウルライク・ヴァラー・モーティスがすでにほぼ利益を上げていることを確認し、「@ValorMortisがわずか7日で公式に損益分岐点に達したことを発表できることを非常に誇りに思います！この信じられないほどのマイルストーンはあなたなしでは不可能でした。皇帝の呼びかけに応え、私たちのビジョンを信じてくれてありがとう！」と書いている。これまでのチームの最も野心的なゲームを代表する、Valor Mortis の急速な成功は見ていて心強いものです。ゲーム自体に関しては、主な問題の多くはバグとバランスの問題の組み合わせから生じており、この 2 つは時間の経過とともに修正されることが望まれますが、おおむね好意的に受け止められています。 『Ghostrunner』シリーズは、One More Level が魅力的でリプレイ可能なエクスペリエンスをデザインする方法を知っていることを証明したため、同社の最大のタイトルでありながら批判的成…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/10/mortis-732x330.jpg" alt="一人称視点のソウルライク「Valor Mortis」は、わずか 1 週間ですでに利益を上げています"></p>]]></description><source url="https://www.kitguru.net/gaming/mustafa-mahmoud/first-person-soulslike-valor-mortis-is-already-profitable-after-just-one-week/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/10/mortis-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/10/mortis-732x330.jpg"/></item>
 <item><title>日本のホテルの部屋の冷蔵庫の裏に隠されたPCから48万通のフィッシングメールが送信される</title><link>https://www.tomshardware.com/tech-industry/cyber-security/480-000-phishing-emails-sent-from-a-pc-hidden-behind-a-fridge-in-a-japanese-hotel-room-chinese-couple-arrested-over-fraud-operation-leaching-hotel-wi-fi</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/cyber-security/480-000-phishing-emails-sent-from-a-pc-hidden-behind-a-fridge-in-a-japanese-hotel-room-chinese-couple-arrested-over-fraud-operation-leaching-hotel-wi-fi</guid><pubDate>Thu, 22 Oct 2026 09:30:00 +0000</pubDate><description><![CDATA[<p>日本のホテルの部屋の冷蔵庫の裏に隠されたPCから48万通のフィッシングメールが送信される
 
 警察は神戸のホテルで見つかったコンピューターを置き、盗んだクレジットカードを使って買い物をしたとして中国人夫婦を逮捕した。
@@ -4638,15 +4820,6 @@ TrendForce の最新の AI サーバー業界調査によると、AI サーバ�
 2 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 日本のホテルの部屋の冷蔵庫の裏に隠されていたコンピュータが発見され、約 480,000 件のフィッシングメールを送信する原因となっていたと Hackread が報告しています。このコンピュータは地元に住む中国人夫婦によって設置されたもので、この夫婦は現在、フィッシング PC を隠していたことと、盗まれたクレジット カードの詳細を使用して行われた大量の買い物の両方で逮捕されています。イェ・ジアフェンさん（39歳）と妻のシェン・チーさん（39歳）は現在、詐欺的業務妨害や不法侵入、コンピューター詐欺など複数の容疑で起訴されている。
 
 この詐欺は、2025 年 5 月 15 日に葉がコンピューターをホテルの Wi-Fi に接続し、冷蔵庫の後ろに隠したときに始まりました。そこに留まり、約 480,000 件の電子メールを送信しました。発見された時点では、このマシンには約 240 万件の電子メール アドレスがあり、おそらくフィッシングされるのを待っていたと思われます。この電子メールはクレジット カード会社からのものであると主張し、クレジット カード情報を取得するために何も知らない受信者を偽の Web サイトに送信しました。このコンピューターはリモートで管理されており、対面でのメン…</p><p><img src="https://cdn.mos.cms.futurecdn.net/yDNeCSq2B7Gw4rG8r5e4E7-2000-80.jpg" alt="日本のホテルの部屋の冷蔵庫の裏に隠されたPCから48万通のフィッシングメールが送信される"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/cyber-security/480-000-phishing-emails-sent-from-a-pc-hidden-behind-a-fridge-in-a-japanese-hotel-room-chinese-couple-arrested-over-fraud-operation-leaching-hotel-wi-fi">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/yDNeCSq2B7Gw4rG8r5e4E7-2000-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/yDNeCSq2B7Gw4rG8r5e4E7-2000-80.jpg"/></item>
-<item><title>一人称視点のソウルライク「Valor Mortis」は、わずか 1 週間ですでに利益を上げています</title><link>https://www.kitguru.net/gaming/mustafa-mahmoud/first-person-soulslike-valor-mortis-is-already-profitable-after-just-one-week/</link><guid isPermaLink="true">https://www.kitguru.net/gaming/mustafa-mahmoud/first-person-soulslike-valor-mortis-is-already-profitable-after-just-one-week/</guid><pubDate>Thu, 22 Oct 2026 09:30:00 +0000</pubDate><description><![CDATA[<p>一人称視点のソウルライク「Valor Mortis」は、わずか 1 週間ですでに利益を上げています
-
-GhostrunnerスタジオOne More Levelの一人称視点のSoulslike「Valor Mortis」は、わずか1週間で公式にブレイクイーブンになりました。
-
-一人称視点のソウルライク「Valor Mortis」は、わずか 1 週間ですでに利益を上げています
-
-Mustafa Mahmoud 22 時間前 注目のテクノロジー ニュース、ソフトウェア、ゲーム
-
-ほとんどの AAA 企業は、任意の数の何百万本が売れるまでゲームが成功したとは考えませんが、インディー スタジオは、はるかに控えめな目標を念頭に置いていることがよくあります。 Ghostrunner シリーズの背後にあるスタジオである One More Level も同様のようで、同社が新しくリリースした一人称視点の Soulslike Valor Mortis が発売初週で利益を上げたことを明らかにしました。ワン・モア・レベルのチームはTwitterで発表し、発売から1週間以内に一人称ソウルライク・ヴァラー・モーティスがすでにほぼ利益を上げていることを確認し、「@ValorMortisがわずか7日で公式に損益分岐点に達したことを発表できることを非常に誇りに思います！この信じられないほどのマイルストーンはあなたなしでは不可能でした。皇帝の呼びかけに応え、私たちのビジョンを信じてくれてありがとう！」と書いている。これまでのチームの最も野心的なゲームを代表する、Valor Mortis の急速な成功は見ていて心強いものです。ゲーム自体に関しては、主な問題の多くはバグとバランスの問題の組み合わせから生じており、この 2 つは時間の経過とともに修正されることが望まれますが、おおむね好意的に受け止められています。 『Ghostrunner』シリーズは、One More Level が魅力的でリプレイ可能なエクスペリエンスをデザインする方法を知っていることを証明したため、同社の最大のタイトルでありながら批判的成…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/10/mortis-732x330.jpg" alt="一人称視点のソウルライク「Valor Mortis」は、わずか 1 週間ですでに利益を上げています"></p>]]></description><source url="https://www.kitguru.net/gaming/mustafa-mahmoud/first-person-soulslike-valor-mortis-is-already-profitable-after-just-one-week/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/10/mortis-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/10/mortis-732x330.jpg"/></item>
 <item><title>(PR) Cherry Launches MX ILLUMA and MX EMERALD REEF Mechanic Keyboard Switches</title><link>https://www.techpowerup.com/354012/cherry-launches-mx-illuma-and-mx-emerald-reef-mechanic-keyboard-switches</link><guid isPermaLink="true">https://www.techpowerup.com/354012/cherry-launches-mx-illuma-and-mx-emerald-reef-mechanic-keyboard-switches</guid><pubDate>Thu, 22 Oct 2026 09:26:18 +0000</pubDate><description><![CDATA[<p>(PR) Cherry Launches MX ILLUMA and MX EMERALD REEF Mechanic Keyboard Switches</p>]]></description><source url="https://www.techpowerup.com/354012/cherry-launches-mx-illuma-and-mx-emerald-reef-mechanic-keyboard-switches">TechPowerUp</source></item>
 <item><title>Ryzen 5800X3D Revival was Lisa Su&#39;s Initiative, and Other Interesting Details in AMD Interview with MyNavi Tech+</title><link>https://www.techpowerup.com/354011/ryzen-5800x3d-revival-was-lisa-sus-initiative-and-other-interesting-details-in-amd-interview-with-mynavi-tech</link><guid isPermaLink="true">https://www.techpowerup.com/354011/ryzen-5800x3d-revival-was-lisa-sus-initiative-and-other-interesting-details-in-amd-interview-with-mynavi-tech</guid><pubDate>Thu, 22 Oct 2026 09:19:47 +0000</pubDate><description><![CDATA[<p>Ryzen 5800X3D Revival was Lisa Su&#39;s Initiative, and Other Interesting Details in AMD Interview with MyNavi Tech+</p>]]></description><source url="https://www.techpowerup.com/354011/ryzen-5800x3d-revival-was-lisa-sus-initiative-and-other-interesting-details-in-amd-interview-with-mynavi-tech">TechPowerUp</source></item>
 <item><title>Survey shows Google shutting down Assistant for Gemini could be one of its bigger blunders</title><link>https://www.androidauthority.com/gemini-vs-google-assistant-complaints-poll-results-3726537/</link><guid isPermaLink="true">https://www.androidauthority.com/gemini-vs-google-assistant-complaints-poll-results-3726537/</guid><pubDate>Thu, 22 Oct 2026 09:15:17 +0000</pubDate><description><![CDATA[<p>Survey shows Google shutting down Assistant for Gemini could be one of its bigger blunders</p>]]></description><source url="https://www.androidauthority.com/gemini-vs-google-assistant-complaints-poll-results-3726537/">Android Authority</source></item>
@@ -5188,147 +5361,4 @@ Xbox Game Pass の「アラカルト」システムでプレイヤーが機能�
 <item><title>Android 17 QPR3 Beta 2 opens the floodgate on fixes</title><link>https://www.androidauthority.com/android-17-qpr3-beta-2-3725811/</link><guid isPermaLink="true">https://www.androidauthority.com/android-17-qpr3-beta-2-3725811/</guid><pubDate>Tue, 20 Oct 2026 21:08:10 +0000</pubDate><description><![CDATA[<p>Android 17 QPR3 Beta 2 opens the floodgate on fixes</p>]]></description><source url="https://www.androidauthority.com/android-17-qpr3-beta-2-3725811/">Android Authority</source></item>
 <item><title>Google Wallet’s receipt scanning has already won over most of you</title><link>https://www.androidauthority.com/google-wallet-receipt-scanning-poll-results-3725681/</link><guid isPermaLink="true">https://www.androidauthority.com/google-wallet-receipt-scanning-poll-results-3725681/</guid><pubDate>Tue, 20 Oct 2026 20:53:22 +0000</pubDate><description><![CDATA[<p>Google Wallet’s receipt scanning has already won over most of you</p>]]></description><source url="https://www.androidauthority.com/google-wallet-receipt-scanning-poll-results-3725681/">Android Authority</source></item>
 <item><title>Google’s latest health upgrade is sleeping on Fitbit support (Updated: Official response)</title><link>https://www.androidauthority.com/fitbit-edge-air-sleep-breathing-quality-not-supported-3725744/</link><guid isPermaLink="true">https://www.androidauthority.com/fitbit-edge-air-sleep-breathing-quality-not-supported-3725744/</guid><pubDate>Tue, 20 Oct 2026 20:35:35 +0000</pubDate><description><![CDATA[<p>Google’s latest health upgrade is sleeping on Fitbit support (Updated: Official response)</p>]]></description><source url="https://www.androidauthority.com/fitbit-edge-air-sleep-breathing-quality-not-supported-3725744/">Android Authority</source></item>
-<item><title>ChatGPT’s latest feature will keep your chats shielded from prying eyes</title><link>https://www.androidauthority.com/chatgpt-rolls-out-locked-chats-3725766/</link><guid isPermaLink="true">https://www.androidauthority.com/chatgpt-rolls-out-locked-chats-3725766/</guid><pubDate>Tue, 20 Oct 2026 20:29:27 +0000</pubDate><description><![CDATA[<p>ChatGPT’s latest feature will keep your chats shielded from prying eyes</p>]]></description><source url="https://www.androidauthority.com/chatgpt-rolls-out-locked-chats-3725766/">Android Authority</source></item>
-<item><title>ストリーミングの断片化に取り組むJustWatch、独自のストリーミングサービスを開始</title><link>https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/</link><guid isPermaLink="true">https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/</guid><pubDate>Tue, 20 Oct 2026 20:20:12 +0000</pubDate><description><![CDATA[<p>ストリーミングの断片化に取り組むJustWatch、独自のストリーミングサービスを開始
-
-生涯広告なしのサブスクリプションをご利用いただけます。
-
-テキスト設定 ストーリーテキスト サイズ 小 標準 大 幅 * 標準 ワイドリンク 標準 オレンジ * 購読者のみ 詳細はこちら ナビゲーションを最小化 2015 年の開始以来、JustWatch は、ストリーミングしたい映画を見つける場所に関するガイドを提供することで、人々が増え続けるストリーミング サービスをナビゲートするのを支援してきました。現在、JustWatch は独自のストリーミング サービスを持っており、人々に購読してもらいたいと考えています。
-
-本日開始された JustWatch TV では、Green Room (2015)、Locke (2013)、Sing Sing (2023) など、他のストリーミング サービスでは無料で視聴できないいくつかの映画を広告付きで無料で視聴できます。その他の無料映画には、フィドリン (2018 年)、13 日の金曜日 (1980 年)、ホテル ムンバイ (2018 年) などがあります。アカウントを作成せずに、JustWatch TV で無料で視聴できる映画を再生できました。
-
-JustWatch TV にはレンタルできる映画もあります。
-
-このストリーミング サービスでは、JustWatch のライブラリを広告付きで視聴したくない人向けにサブスクリプションも販売しています。現在、月額 4 ドル、または生涯サブスクリプションの場合は 50 ドルです。後者は「限られた」期間のみ利用可能であると同社の広報担当者はArs Technicaに語った。担当者は、JustWatch が生涯サブスクリプションをどのくらいの期間販売するかについては確認できませんでした。
-
-よく読んでみると、JustWatch TV のライブラリは限られており、やや時代遅れのようです。それは必ずしも悪い考えではありません。 Roku が所有するストリーミング サービスである Howdy は、広告なしで月額…</p><p><img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Global_banner_preview-2560x1440.png" alt="ストリーミングの断片化に取り組むJustWatch、独自のストリーミングサービスを開始"></p>]]></description><source url="https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/">Ars Technica Gear &amp; Gadgets</source><media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Global_banner_preview-2560x1440.png" medium="image"/><media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Global_banner_preview-2560x1440.png"/></item>
-<item><title>Your Android Auto experience is getting a personal touch from Gemini</title><link>https://www.androidauthority.com/gemini-personal-intelligence-on-android-auto-3725650/</link><guid isPermaLink="true">https://www.androidauthority.com/gemini-personal-intelligence-on-android-auto-3725650/</guid><pubDate>Tue, 20 Oct 2026 20:00:24 +0000</pubDate><description><![CDATA[<p>Your Android Auto experience is getting a personal touch from Gemini</p>]]></description><source url="https://www.androidauthority.com/gemini-personal-intelligence-on-android-auto-3725650/">Android Authority</source></item>
-<item><title>OpenBSD 8.0 はセキュリティ レコードがそのままの状態で登場します</title><link>https://arstechnica.com/gadgets/2026/10/openbsd-8-0-lands-with-intel-arc-graphics-support/</link><guid isPermaLink="true">https://arstechnica.com/gadgets/2026/10/openbsd-8-0-lands-with-intel-arc-graphics-support/</guid><pubDate>Tue, 20 Oct 2026 19:57:18 +0000</pubDate><description><![CDATA[<p>OpenBSD 8.0 はセキュリティ レコードがそのままの状態で登場します
-
-OpenBSD 8.0 は、Intel Arc サポート、ARM64 ハイバネーション、および 64 vCPU ゲストを備えて登場します...
-
-テキスト設定 ストーリーテキスト サイズ 小 標準 大 幅 * 標準 ワイドリンク 標準 オレンジ * 購読者のみ 詳細はこちら ナビゲーションを最小化 OpenBSD 8.0 はここにあり、プロジェクトの 61 番目のリリースをマークし、1996 年に遡って半年ごとのリリースのスケジュールを継続しています。 NetBSD のフォークとして 30 年以上前に始まったものは、現在開発が行われている最もセキュリティを意識したオペレーティング システムの 1 つに成長しました。 OpenBSD 創設者 Theo de Raadt は、プロジェクトの発表メーリング リストへの投稿の中で、最新バージョンに含まれる多数の改善点を強調し、このプロジェクトは「デフォルト インストールにリモート ホールが 2 つだけしかなく、30 年以上にわたる OpenBSD の記録を誇りに思っている」と書いています。
-
-最新の OpenBSD バージョンでは、全面的に新機能と改善が加えられています。これらの変更、特に新しい Intel Arc サポートと拡張された仮想アドレス空間により、最新のグラフィックス カードとの互換性が向上し、システムが 4GB を超える VRAM をマッピングできるようになります。リリースニュースレターに記載されている主なアップデートの一部は次のとおりです。
-
-Intel Arc A シリーズ (DG2/Alchemist) グラフィックス カードのサポートが追加されました。
-
-AMD64 上の 512GB カーネル仮想アドレス空間 (4GB から最大)、4GB を超える VRAM マッピングが可能。
-
-ARM64 システムの休止状態サポートが追加されました。
-
-新しい RPKI からルーターへのデーモン: rtrd(8) 。
-
-「V」ベクトル拡張のカ…</p><p><img src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/OpenBSD80Fish-e1792523267196.png" alt="OpenBSD 8.0 はセキュリティ レコードがそのままの状態で登場します"></p>]]></description><source url="https://arstechnica.com/gadgets/2026/10/openbsd-8-0-lands-with-intel-arc-graphics-support/">Ars Technica Gear &amp; Gadgets</source><media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/OpenBSD80Fish-e1792523267196.png" medium="image"/><media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/OpenBSD80Fish-e1792523267196.png"/></item>
-<item><title>T-Mobile retains 5G crown as AT&amp;T falls massively behind Verizon in standalone access</title><link>https://www.androidauthority.com/5g-coverage-tmobile-att-verizon-3725626/</link><guid isPermaLink="true">https://www.androidauthority.com/5g-coverage-tmobile-att-verizon-3725626/</guid><pubDate>Tue, 20 Oct 2026 19:47:04 +0000</pubDate><description><![CDATA[<p>T-Mobile retains 5G crown as AT&amp;T falls massively behind Verizon in standalone access</p>]]></description><source url="https://www.androidauthority.com/5g-coverage-tmobile-att-verizon-3725626/">Android Authority</source></item>
-<item><title>Helldivers 2 のアンチチート変更により MOD は破壊されるが、Steam デッキの互換性は維持される</title><link>https://www.techpowerup.com/353927/helldivers-2-anti-cheat-change-breaks-mods-but-keeps-steam-deck-compatibility</link><guid isPermaLink="true">https://www.techpowerup.com/353927/helldivers-2-anti-cheat-change-breaks-mods-but-keeps-steam-deck-compatibility</guid><pubDate>Tue, 20 Oct 2026 19:46:52 +0000</pubDate><description><![CDATA[<p>Helldivers 2 のアンチチート変更により MOD は破壊されるが、Steam デッキの互換性は維持される
-
-Helldivers 2 の開発者である Arrowhead は、ゲームのアンチチート システムに対する大幅な変更、つまり GameGuard から Easy Anti-Cheat への移行を発表しました。この変更は 10 月 20 日に行われ、Arrowhead 氏は最近の Steam の投稿で、次のように説明しました。
-
-Helldivers 2 のアンチチート変更により MOD は破壊されるが、Steam デッキの互換性は維持される
-
-最近出回っているチート MOD を取り締まるために、追加のセキュリティ対策を実装します。
-
-本日 10 月 20 日より、GameGuard から Easy Anti-Cheat に移行し、追加のセキュリティ ツールを導入してその有効性を高め、ゲームの完全性保護を強化します。
-
-2026 年 4 月 13 日 Epic Games ストアの従業員: 無料ゲームのためだけに来て、その後 Steam に戻ってきた人々 (91)
-
-2026 年 5 月 28 日 リーカーが天文学的な蒸気機械の価格を示唆 (74)
-
-2026 年 6 月 22 日 Valve が Steam Machine の価格をついに明らかにし、予約注文の受付を開始 (526)
-
-2026 年 7 月 18 日 Valve は週に 12-15,000 台のスチームマシンを販売していると報告されています (125)
-
-2026 年 4 月 2 日 Steam Deck 2 溝、既製 AMD シリコン用セミカスタム APU、Eyes 2028 発表 (45)
-
-2025 年 11 月 28 日 バルブスチームマシンのコストが予想よりも低くなる可能性 (118)
-
-2025 年 11 月 12 日 Valve が Steam Machine、Steam Frame、Steam コントローラーを発表 (204)
-
-2025 年 11 月 17 日 Valve …</p><p><img src="https://www.techpowerup.com/img/d8kOOitax3cNm3MX.jpg" alt="Helldivers 2 のアンチチート変更により MOD は破壊されるが、Steam デッキの互換性は維持される"></p>]]></description><source url="https://www.techpowerup.com/353927/helldivers-2-anti-cheat-change-breaks-mods-but-keeps-steam-deck-compatibility">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/d8kOOitax3cNm3MX.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/d8kOOitax3cNm3MX.jpg"/></item>
-<item><title>Xbox Helixコンソールは1,200ドルから1,800ドルで2028年のホリデーシーズンに向けて発売されると報じられている</title><link>https://www.techpowerup.com/353935/xbox-helix-console-reportedly-headed-for-holiday-2028-at-usd-1-200-to-usd-1-800</link><guid isPermaLink="true">https://www.techpowerup.com/353935/xbox-helix-console-reportedly-headed-for-holiday-2028-at-usd-1-200-to-usd-1-800</guid><pubDate>Tue, 20 Oct 2026 19:39:58 +0000</pubDate><description><![CDATA[<p>Xbox Helixコンソールは1,200ドルから1,800ドルで2028年のホリデーシーズンに向けて発売されると報じられている
-
-マイクロソフトの次世代Xboxコンソールの価格は、誰もが予想していたよりもはるかに高くなる可能性があります。 Xbox CEO のアシャ・シャルマ氏の新しいフォーチュンプロフィールによると、Microsoft が補助金を出すことを決定しない限り、Project Helix コンソールの消費者価格は社内で 1,200 ドルから 1,800 ドルになると予測されています。参考までに現在の...
-
-Xbox Helixコンソールは1,200ドルから1,800ドルで2028年のホリデーシーズンに向けて発売されると報じられている
-
-2026 年 8 月 29 日 Piston V タッチスクリーン Bazzite Mini PC がキックスターターでメーカー希望小売価格 799 ドルで発売 (7)
-
-2026年10月1日 マイクロンCEO、2027年と2028年のメモリ供給は2026年よりもかなり逼迫すると語る (67)
-
-2026 年 9 月 6 日 Microsoft、AI が Windows 11 用のネイティブ WinUI 3 アプリを 30 分以内に構築できるようになりました (18)
-
-2026 年 4 月 29 日 Linux が PlayStation 5 で正式に利用可能になりました (22)
-
-2026 年 5 月 19 日 インサイダーは、ソニーが PC ポートを廃止することを認めています: 「PC に登場するシングル プレーヤー ゲームは少なくなるでしょう。」 (135)
-
-2026 年 10 月 5 日 Windows 11 26H2 アップデートにより RAM 消費量が削減 (76)
-
-2026 年 5 月 28 日 リーカーが天文学的な蒸気機械の価格を示唆 (74)
-
-2025 年 12 月 14 日 Microsoft Copilot AI が LG TV に搭載、削除できない (144)
-
-2026 年 10 月 7…</p><p><img src="https://www.techpowerup.com/img/UyZltFjvI0q6nAiU.jpg" alt="Xbox Helixコンソールは1,200ドルから1,800ドルで2028年のホリデーシーズンに向けて発売されると報じられている"></p>]]></description><source url="https://www.techpowerup.com/353935/xbox-helix-console-reportedly-headed-for-holiday-2028-at-usd-1-200-to-usd-1-800">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/UyZltFjvI0q6nAiU.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/UyZltFjvI0q6nAiU.jpg"/></item>
-<item><title>『GTA 6』デジタル予約注文数が645万件に上昇、プレイステーションが74％のシェアを獲得</title><link>https://www.techpowerup.com/353934/gta-6-digital-pre-orders-climb-to-6-45-million-playstation-holds-74-share</link><guid isPermaLink="true">https://www.techpowerup.com/353934/gta-6-digital-pre-orders-climb-to-6-45-million-playstation-holds-74-share</guid><pubDate>Tue, 20 Oct 2026 19:13:14 +0000</pubDate><description><![CDATA[<p>『GTA 6』デジタル予約注文数が645万件に上昇、プレイステーションが74％のシェアを獲得
-
-Sensor Tower の販売トラッカーの最新の毎週の更新によると、『GTA 6』は現在世界中で推定 645 万件のデジタル予約注文を集めており、返品を差し引いた金額は約 6 億 3,000 万ドルに相当します。 PlayStation が全体の 74%、つまり約 480 万本と 4 億 6,800 万ドルを占めているのに対し、Xbox...
-
-『GTA 6』デジタル予約注文数が645万件に上昇、プレイステーションが74％のシェアを獲得
-
-2026 年 8 月 30 日 GTA 6 の公開後に PS5 Pro の在庫がなくなり、価格は 1,300 ドルに達しました (24)
-
-2026 年 5 月 19 日 インサイダーは、ソニーが PC ポートを廃止することを認めています: 「PC に登場するシングル プレーヤー ゲームは少なくなるでしょう。」 (135)
-
-2026 年 9 月 8 日 予想されるコンソール不足に対応して、ロックスターは PC 版「GTA 6」の発売を延期する可能性がある (27)
-
-2026 年 10 月 18 日 PS6 の RAM とストレージだけでソニーのコストは 680 ドル以上だとリーカーが主張 (44)
-
-2026 年 9 月 24 日、ロックスターは GTA 6 バイスシティ コレクション ボックスを $399.99 で発表、ゲームは含まれません (40)
-
-2026 年 8 月 3 日 Xbox Disc to Digital が Xbox One とシリーズ X 向けに今月登場 (74)
-
-2026 年 8 月 28 日 GTA 6 は 30 FPS で動作することを確認、ロックスターは 60 FPS モードについて不明 (110)
-
-2026 年 10 月 1 日 Halo: Combat Evolved が分割画面協力プレイを備えた無料のブラウザ ポートを取得 (5)
-
-2026 年 8 月 31 日 PS5 が Xbox を圧倒…</p><p><img src="https://www.techpowerup.com/img/XCcQ8Q7DB7qC3Ztf.jpg" alt="『GTA 6』デジタル予約注文数が645万件に上昇、プレイステーションが74％のシェアを獲得"></p>]]></description><source url="https://www.techpowerup.com/353934/gta-6-digital-pre-orders-climb-to-6-45-million-playstation-holds-74-share">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/XCcQ8Q7DB7qC3Ztf.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/XCcQ8Q7DB7qC3Ztf.jpg"/></item>
-<item><title>Samsung goes global with Fold 5 and Flip 5 stable One UI 9 rollout</title><link>https://www.androidauthority.com/galaxy-z-fold-5-flip-5-one-ui-9-global-rollout-3725729/</link><guid isPermaLink="true">https://www.androidauthority.com/galaxy-z-fold-5-flip-5-one-ui-9-global-rollout-3725729/</guid><pubDate>Tue, 20 Oct 2026 19:12:21 +0000</pubDate><description><![CDATA[<p>Samsung goes global with Fold 5 and Flip 5 stable One UI 9 rollout</p>]]></description><source url="https://www.androidauthority.com/galaxy-z-fold-5-flip-5-one-ui-9-global-rollout-3725729/">Android Authority</source></item>
-<item><title>Xbox、非アクティブな所有者にゲーム機をベストバイに売却するよう要請</title><link>https://www.techpowerup.com/353930/xbox-is-asking-inactive-owners-to-sell-their-consoles-to-best-buy</link><guid isPermaLink="true">https://www.techpowerup.com/353930/xbox-is-asking-inactive-owners-to-sell-their-consoles-to-best-buy</guid><pubDate>Tue, 20 Oct 2026 18:40:30 +0000</pubDate><description><![CDATA[<p>Xbox、非アクティブな所有者にゲーム機をベストバイに売却するよう要請
-
-Microsoftは、しばらくゲーム機に触れていないXbox Series X|S所有者に電子メールを送り、そのゲーム機をBest Buyで下取りに出すよう促していると伝えられている。このメールは、X 上で Nintendodeal によって最初に共有されたもので、「しばらくの間、コンソールでプレイしていませんか?」という文で始まります。他の場所に引っ越したオーナーに伝えます...
-
-Xbox、非アクティブな所有者にゲーム機をベストバイに売却するよう要請
-
-2026 年 8 月 30 日 GTA 6 の公開後に PS5 Pro の在庫がなくなり、価格は 1,300 ドルに達しました (24)
-
-2026 年 5 月 19 日 インサイダーは、ソニーが PC ポートを廃止することを認めています: 「PC に登場するシングル プレーヤー ゲームは少なくなるでしょう。」 (135)
-
-2026 年 5 月 28 日 リーカーが天文学的な蒸気機械の価格を示唆 (74)
-
-2026 年 8 月 3 日 Xbox Disc to Digital が Xbox One とシリーズ X 向けに今月登場 (74)
-
-2026 年 10 月 1 日 Halo: Combat Evolved が分割画面協力プレイを備えた無料のブラウザ ポートを取得 (5)
-
-2026 年 9 月 8 日 予想されるコンソール不足に対応して、ロックスターは PC 版「GTA 6」の発売を延期する可能性がある (27)
-
-2026 年 10 月 10 日 コンソールの平均価格が過去最高値に達し、Xbox と PlayStation 米国の売上が減少 (10)
-
-2026年9月8日 インテル、10月にCPU価格をさらに10%値上げ予定 (47)
-
-2026 年 7 月 24 日 Halo: キャンペーンが進化—有料プレイヤーが Microsoft アカウントのリンクと格闘し、ローンチ前にクラック (63)
-
-2026 年 9 月 20 日 …</p><p><img src="https://www.techpowerup.com/img/cSET0lDOHeLz6gZa.jpg" alt="Xbox、非アクティブな所有者にゲーム機をベストバイに売却するよう要請"></p>]]></description><source url="https://www.techpowerup.com/353930/xbox-is-asking-inactive-owners-to-sell-their-consoles-to-best-buy">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/cSET0lDOHeLz6gZa.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/cSET0lDOHeLz6gZa.jpg"/></item>
-<item><title>Get ready for 2027 early with reMarkable’s new calendar release</title><link>https://www.androidauthority.com/remarkable-calendar-2027-3725561/</link><guid isPermaLink="true">https://www.androidauthority.com/remarkable-calendar-2027-3725561/</guid><pubDate>Tue, 20 Oct 2026 15:26:03 +0000</pubDate><description><![CDATA[<p>Get ready for 2027 early with reMarkable’s new calendar release</p>]]></description><source url="https://www.androidauthority.com/remarkable-calendar-2027-3725561/">Android Authority</source></item>
-<item><title>This popular mini 45W power bank is down to $32.99 on Amazon</title><link>https://www.androidauthority.com/lisen-45w-mini-power-bank-deal-3725591/</link><guid isPermaLink="true">https://www.androidauthority.com/lisen-45w-mini-power-bank-deal-3725591/</guid><pubDate>Tue, 20 Oct 2026 15:20:58 +0000</pubDate><description><![CDATA[<p>This popular mini 45W power bank is down to $32.99 on Amazon</p>]]></description><source url="https://www.androidauthority.com/lisen-45w-mini-power-bank-deal-3725591/">Android Authority</source></item>
-<item><title>Turn Anything Into a Tamagotchi</title><link>https://www.hackster.io/news/turn-anything-into-a-tamagotchi-63fc01b77c48</link><guid isPermaLink="true">https://www.hackster.io/news/turn-anything-into-a-tamagotchi-63fc01b77c48</guid><pubDate>Tue, 20 Oct 2026 15:17:22 +0000</pubDate><description><![CDATA[<p>Turn Anything Into a Tamagotchi</p>]]></description><source url="https://www.hackster.io/news/turn-anything-into-a-tamagotchi-63fc01b77c48">Hackster.io</source></item>
-<item><title>TCL TAB 10 Gen 4 returns to its lowest price since launch at just $150</title><link>https://www.androidauthority.com/tcl-tab-10-gen-4-tablet-deal-amazon-3725586/</link><guid isPermaLink="true">https://www.androidauthority.com/tcl-tab-10-gen-4-tablet-deal-amazon-3725586/</guid><pubDate>Tue, 20 Oct 2026 15:02:18 +0000</pubDate><description><![CDATA[<p>TCL TAB 10 Gen 4 returns to its lowest price since launch at just $150</p>]]></description><source url="https://www.androidauthority.com/tcl-tab-10-gen-4-tablet-deal-amazon-3725586/">Android Authority</source></item>
-<item><title>『サイバーパンク 2077』に新たなコンテンツアップデートが登場</title><link>https://www.kitguru.net/gaming/matthew-wilson/cyberpunk-2077-is-getting-another-content-update/</link><guid isPermaLink="true">https://www.kitguru.net/gaming/matthew-wilson/cyberpunk-2077-is-getting-another-content-update/</guid><pubDate>Tue, 20 Oct 2026 15:00:14 +0000</pubDate><description><![CDATA[<p>『サイバーパンク 2077』に新たなコンテンツアップデートが登場
-
-『サイバーパンク エッジランナー 2』は Netflix で世界中に正式にストリーミングされています。最初のシーズンが公開されたとき、CD Projekt Red はサイバーパンク 2077 用の特別なパッチを用意し、アニメのコンテンツをゲームに導入しました。現在、スタジオはシーズン2でも同じことを行う計画を発表しました。CD Projekt Redは新しいパッチを公開します
-
-『サイバーパンク 2077』に新たなコンテンツアップデートが登場
-
-Matthew Wilson 23 時間前 注目の技術ニュース , ソフトウェア &amp; ゲーム
-
-『サイバーパンク エッジランナー 2』は Netflix で世界中に正式にストリーミングされています。最初のシーズンが公開されたとき、CD Projekt Red はサイバーパンク 2077 用の特別なパッチを用意し、アニメのコンテンツをゲームに導入しました。現在、スタジオはシーズン 2 でも同様の計画を発表しています。CD Projekt Red は来週、サイバーパンク 2077 の新しいパッチを公開する予定です。新しいアップデートは来週の開発者ストリームが終わるまで利用可能になりませんが、一部のYouTuberはすでに新しいパッチに含まれる内容に関する情報にアクセスしており、その一部は早期にリークされました。ある YouTuber によると、サイバーパンク 2077 パッチ 2.5 には、ピストルの二刀流を可能にする新しい戦闘特典が含まれており、まったく新しいプレイスタイルが可能になるそうです。それに加えて、「クランプダウン」と呼ばれる新しいギグがあり、サイバーパンク エッジランナー 2 で行われるイベントに関するいくつかの追加ストーリーが共有されます。新しいパッチには、プレイヤーがナイトシティ中を探索する新しいミステリー サイドクエストも含まれるようです。また、新しい曲、新しい服装、新しいヘアスタイルを含む新しいラジオ ステーション、さらにはプラットフォームのサ…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2025/02/Cyberpunk-2077-Night-City-Crowd-Density-Crowd-Reactions-732x330.jpg" alt="『サイバーパンク 2077』に新たなコンテンツアップデートが登場"></p>]]></description><source url="https://www.kitguru.net/gaming/matthew-wilson/cyberpunk-2077-is-getting-another-content-update/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2025/02/Cyberpunk-2077-Night-City-Crowd-Density-Crowd-Reactions-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2025/02/Cyberpunk-2077-Night-City-Crowd-Density-Crowd-Reactions-732x330.jpg"/></item>
 </channel></rss>
