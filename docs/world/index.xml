@@ -1,6 +1,233 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Thu, 29 Oct 2026 19:41:25 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Thu, 29 Oct 2026 23:56:25 +0000</lastBuildDate>
+<item><title>インテル、18A ノード上に構築された「Moon Lake」および「Wildcat Lake Refresh」を準備</title><link>https://www.techpowerup.com/354255/intel-readies-moon-lake-and-wildcat-lake-refresh-built-on-18a-node</link><guid isPermaLink="true">https://www.techpowerup.com/354255/intel-readies-moon-lake-and-wildcat-lake-refresh-built-on-18a-node</guid><pubDate>Thu, 29 Oct 2026 08:32:20 +0000</pubDate><description><![CDATA[<p>インテル、18A ノード上に構築された「Moon Lake」および「Wildcat Lake Refresh」を準備
+
+Intel は、超低消費電力コンピューティングに焦点を当てた 2 つの新しいプロセッサ SKU を準備していると伝えられています。 1 つ目は「Moon Lake」と呼ばれ、純粋な低電力効率 (LPE) コア SoC として設計されています。 「Moon Lake」世代は、P コアを搭載せず、Intel 18A ダイに最大 4 つの「Darkmont」LPE コアを搭載しています。違うのは...
+
+インテル、18A ノード上に構築された「Moon Lake」および「Wildcat Lake Refresh」を準備
+
+2026 年 7 月 3 日 インテル、ゲーム向けに 108 MB bLLC キャッシュを備えた 2 つの 22 コア「Nova Lake-S」SKU を準備 (279)
+
+2026年9月7日 インテル、10月にCPU価格をさらに10%値上げ予定 (47)
+
+2026 年 1 月 23 日 インテル Core Ultra シリーズ 4 「Nova Lake」プロセッサーが 2026 年後半に発売 (62)
+
+2026 年 10 月 1 日 28 コア 4970K BFC を搭載した Intel Core Ultra 4000「Nova Lake-S」ラインナップがリーク (103)
+
+2026 年 6 月 26 日 Intel「Nova Lake-S」52 コア OC SKU が PL2 モードで 474 W を消費 (292)
+
+2026 年 8 月 29 日 インテル、内部ツールを通じて LGA1954 が「Nova Lake-S」プロセッサーのソケットであることを確認 (83)
+
+2026 年 4 月 13 日 Intel Core Ultra「Nova Lake-S」デスクトップ コア構成 Surface (129)
+
+2026 年 10 月 13 日 インテルは 3D V キャッシュ アナログを「BFC」と呼びます (62)
+
+2…</p><p><img src="https://www.techpowerup.com/img/uKvJCSSoON69LcQT.jpg" alt="インテル、18A ノード上に構築された「Moon Lake」および「Wildcat Lake Refresh」を準備"></p>]]></description><source url="https://www.techpowerup.com/354255/intel-readies-moon-lake-and-wildcat-lake-refresh-built-on-18a-node">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/uKvJCSSoON69LcQT.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/uKvJCSSoON69LcQT.jpg"/></item>
+<item><title>Google スプレッドシートの Gemini は、より速く、よりスマートになり、信頼しやすくなっています</title><link>https://www.androidauthority.com/google-sheets-gemini-update-3729506/</link><guid isPermaLink="true">https://www.androidauthority.com/google-sheets-gemini-update-3729506/</guid><pubDate>Thu, 29 Oct 2026 08:24:59 +0000</pubDate><description><![CDATA[<p>Google スプレッドシートの Gemini は、より速く、よりスマートになり、信頼しやすくなっています
+
+Google スプレッドシートは Gemini でさらにスマートになり、AI 生成データの出典引用を追加し、処理を高速化しています。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+Google スプレッドシートの Gemini は、より速く、よりスマートになり、信頼しやすくなっています
+
+• Edgar Cervantes / Android Authority Google に Android Authority を追加: 優先ソース Google Discover TL;DR Google スプレッドシートでは、AI が生成したセルに Web ソースが直接表示されるようになり、Gemini の情報を検証しやすくなりました。
+
+Gemini はリクエストごとに最大 3,000 セルを処理できるようになり、Google は特定のタスクについて手動入力よりも最大 55 倍高速なパフォーマンスを主張しています。
+
+Google スプレッドシートには、コンパクトなピボット テーブルと Excel の互換性の向上もあり、両方の機能をすべてのユーザーが利用できます。
+
+Google スプレッドシートはすでに大量のデータをうまく処理していますが、そこに Gemini を追加すると、さらに面白くなります。面倒な作業をすべて自分で行うことなく、情報を整理したり、何百ものエントリを分類したり、スプレッドシート全体に記入したりすることを依頼できます。しかし、問題は、ジェミニの情報が実際に正しいかどうかを知ることです。結局のところ、時間を節約できるはずの事実確認にこれ以上の時間を費やしたい人はいないでしょう。
+
+ありがたいことに、Google はその問題に取り組んでいます。 Gemini in Sheets の最新アップデートにより、AI が生成した情報の背後にある Web ソースを個々のセルで直接確認でき…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2022/02/Google-Sheets-next-to-calculator-stock-photo-3.jpg" alt="Google スプレッドシートの Gemini は、より速く、よりスマートになり、信頼しやすくなっています"></p>]]></description><source url="https://www.androidauthority.com/google-sheets-gemini-update-3729506/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2022/02/Google-Sheets-next-to-calculator-stock-photo-3.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2022/02/Google-Sheets-next-to-calculator-stock-photo-3.jpg"/></item>
+<item><title>Gemini の新しい「没入型探索」により、ジェミニがインタラクティブな百科事典に変わります</title><link>https://www.androidauthority.com/gemini-immersive-explorations-library-3729494/</link><guid isPermaLink="true">https://www.androidauthority.com/gemini-immersive-explorations-library-3729494/</guid><pubDate>Thu, 29 Oct 2026 08:06:03 +0000</pubDate><description><![CDATA[<p>Gemini の新しい「没入型探索」により、ジェミニがインタラクティブな百科事典に変わります
+
+Google は、Gemini に新しい「没入型探索」機能を追加し、選択したトピックについてレイヤーごとの探索を提供します。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+Gemini の新しい「没入型探索」により、ジェミニがインタラクティブな百科事典に変わります
+
+• Joe Maring / Android Authority Google に Android Authority を追加: 優先ソース Google Discover TL;DR Google は、Gemini に新しい「没入型探索」機能を追加しました。
+
+現在、さまざまなカテゴリにわたる 20 のトピックが選択されています。
+
+没入型探索は、モバイルと Web 上のすべてのユーザーが利用できます。
+
+Google は、Gemini を学生や生涯学習者にとってさらに便利なものにしていきます。 Gemini はすでにほとんどの質問に対して詳細な説明を提供することにかなり優れていましたが、Google は現在、人々が尋ねる最も興味深いトピックのいくつかについて、より没入できるものにしています。
+
+Gemini には新しい「没入型探索」ライブラリが組み込まれたと Google が新しいブログ投稿で発表しました。これは、フラッシュカードやクイズなどを作成するためのオプションとともに、Gemini 学生ハブ内に表示されます。
+
+没入型探検ライブラリには現在、文明、エネルギー、工学、医学、地質学、海洋、宇宙飛行などのカテゴリにわたる 20 のトピックが含まれています。興味をそそられるトピックを選択して、深く掘り下げることができます。没入型探索に関する Google の公式ビデオをご覧ください。
+
+没入型の探索は、ライブラリで利用できる 20 のトピックに制限されています。選択したトピックに関してカスタムの没入型探索を作成することはできません。…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg" alt="Gemini の新しい「没入型探索」により、ジェミニがインタラクティブな百科事典に変わります"></p>]]></description><source url="https://www.androidauthority.com/gemini-immersive-explorations-library-3729494/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg"/></item>
+<item><title>魔法で開く磁気ロック</title><link>https://hackaday.com/2026/10/29/magnetic-lock-opens-by-magic/</link><guid isPermaLink="true">https://hackaday.com/2026/10/29/magnetic-lock-opens-by-magic/</guid><pubDate>Thu, 29 Oct 2026 08:00:39 +0000</pubDate><description><![CDATA[<p>魔法で開く磁気ロック
+
+IEEE Spectrum で、[Stephen Cass] はおそらく数世紀前には魔法のように思えたであろうプロジェクトを行っています。磁気装置を使用してロック ボルトを保持するボックスを想像してください。
+
+IEEE Spectrum で、[Stephen Cass] はおそらく数世紀前には魔法のように思えたであろうプロジェクトを行っています。磁気装置を使用してロック ボルトを保持し、ロック ボルトを外すには磁石が必要なボックスを想像してください。唯一の問題は、強力な磁石で箱が開いてしまう可能性があることです。 [スティーブン] は代わりに、[ピーター ヤンセン] が開発した 64 個のホール効果センサーのアレイを使用して、特定の磁気ジェスチャを探しました。
+
+内部には、8×8 グリッドのセンサーを読み取ることができる Teensy が入っています。磁気スタイラスを使用すると、ロック解除パターンを描くことができます。このシステムを使用すると、必要なジェスチャーをトレーニングできます。いくつか問題があります。センサーがカバーする範囲は狭いため、ジェスチャを確実に生成するのは困難です。箱に明らかなマークを付けるのは無駄なので、[スティーブン] は箱にケルトの結び目のパターンを付け、その一部を参考として使用しています。
+
+もう 1 つの問題は、電池が切れるとボックスが永久にロックされてしまうことです。少なくとも、機械的な力を加えて箱を壊すまでは。ワイヤレス充電もオプションですが、外部バッテリーを接続できる小さなジャックが好ましいかもしれません。
+
+これはセンサーの賢い使い方です。ただし、バッテリーを必要としない機械的ソリューションの方が良かったかもしれません。あるいは、通常開いているリード スイッチと通常閉じているリード スイッチをいくつか使用して、一種の磁気コンビネーション ロックを作成することもできます。それでもバッテリーは必要ですが、スイッチを接続するまで電流は流れません。もちろん、どちらの方法にも欠点があります。ほとんどのことと同じように、…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/10/hall.png" alt="魔法で開く磁気ロック"></p>]]></description><source url="https://hackaday.com/2026/10/29/magnetic-lock-opens-by-magic/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/10/hall.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/10/hall.png"/></item>
+<item><title>RCS に対する次の大きな脅威は別のメッセージング アプリではありません</title><link>https://www.androidauthority.com/rcs-ai-messaging-gsma-warning-3729457/</link><guid isPermaLink="true">https://www.androidauthority.com/rcs-ai-messaging-gsma-warning-3729457/</guid><pubDate>Thu, 29 Oct 2026 07:27:12 +0000</pubDate><description><![CDATA[<p>RCS に対する次の大きな脅威は別のメッセージング アプリではありません
+
+RCS は急速に成長しているが、GSMA は、AI 主導のメッセージング時代で競争するには、6 ～ 12 か月以内にさらに賢くなる必要があると述べています。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+RCS に対する次の大きな脅威は別のメッセージング アプリではありません
+
+• Aamir Siddiqui / Android Authority Google に Android Authority を追加: 優先ソース Google Discover TL;DR GSMA は、RCS が AI を活用した会話への移行を主導するのか、それとも競合プラットフォームに追随するのかが今後 6 ～ 12 か月で決まる可能性があると警告しています。
+
+毎日何十億もの RCS メッセージがあるにもかかわらず、商用導入は比較的小規模であり、このテクノロジーは依然として通知に主に焦点を当てています。
+
+GSMA は新しい会話機能を開発中ですが、具体的な機能やリリースのスケジュールは発表していません。
+
+6か月から12か月。これは、RCS がメッセージングの次の時代で本格的なプレーヤーとしての地位を確立する必要があると GSMA が考えている期間であり、そうしないと、AI を活用した会話や競合プラットフォームが AI なしでその未来を定義するのを目の当たりにする危険があると考えられています。
+
+これは、特に RCS の導入が加速する中、メッセージング標準を担当する組織からの異例の緊急警告です。しかし、懸念は人々がメッセージを送り続けるかどうかではない。 AI アシスタントが情報に基づいて行動できるようになっている世界で、これらのメッセージが単に情報を配信する以上のことができるかどうかが重要です。
+
+最新のレポート で、GSMA Intelligence は、RCS は一方向の通知を超えて、有意義な双方向の会話に進化する必要があると主…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2025/03/Google-Messages-upcoming-Redesign_2-scaled.jpg" alt="RCS に対する次の大きな脅威は別のメッセージング アプリではありません"></p>]]></description><source url="https://www.androidauthority.com/rcs-ai-messaging-gsma-warning-3729457/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2025/03/Google-Messages-upcoming-Redesign_2-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2025/03/Google-Messages-upcoming-Redesign_2-scaled.jpg"/></item>
+<item><title>Google AI モードでは、好むと好まざるにかかわらず、より多くの広告が表示されます</title><link>https://www.androidauthority.com/google-ai-mode-ads-expansion-3729474/</link><guid isPermaLink="true">https://www.androidauthority.com/google-ai-mode-ads-expansion-3729474/</guid><pubDate>Thu, 29 Oct 2026 07:04:27 +0000</pubDate><description><![CDATA[<p>Google AI モードでは、好むと好まざるにかかわらず、より多くの広告が表示されます
+
+Google は AI モードの広告をさらに 10 か国に拡大し、米国でのフォローアップ検索にスポンサー付きの結果を導入します。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+Google AI モードでは、好むと好まざるにかかわらず、より多くの広告が表示されます
+
+• Joe Maring / Android Authority Google に Android Authority を追加: 優先ソース Google Discover TL;DR Google は AI モードの広告をインド、オーストラリア、カナダを含むさらに 10 か国に拡大しており、今年後半にはさらに多くの市場が登場します。
+
+スポンサー付きリスティングはAIが生成した結果とともに表示され、Googleは広告と通常のレコメンデーションを区別するための明確なラベルを約束している。
+
+Google は米国でもマルチターン広告を導入しており、AI モードでのフォローアップの質問中にスポンサー付きの結果が表示されるようになります。
+
+Google の AI モードは、Web 検索を容易にすることを目的としています。質問すると、さまざまな Web サイトから情報が取得され、タブを 12 個も開かなくても詳細な回答が得られます。しかし、日常の検索で AI モードを利用する人が増えるにつれ、Google は彼らに広告を表示する新しい方法も見つけています。米国外で AI モードで広告なしのエクスペリエンスを楽しんでいるなら、それは変わりつつあります。
+
+Googleは、AIモードの広告がインド、オーストラリア、カナダ、ケニア、マレーシア、ニュージーランド、ナイジェリア、パキスタン、フィリピン、シンガポールを含むさらに10か国に拡大されると発表した。同社はまた、2026年第4四半期後半にはブラジル、メキシコ、英国にも導入する予定だ。
+
+さて、これら…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2025/05/google-ai-mode-vs-google-search-hero-photo-5-scaled.jpg" alt="Google AI モードでは、好むと好まざるにかかわらず、より多くの広告が表示されます"></p>]]></description><source url="https://www.androidauthority.com/google-ai-mode-ads-expansion-3729474/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2025/05/google-ai-mode-vs-google-search-hero-photo-5-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2025/05/google-ai-mode-vs-google-search-hero-photo-5-scaled.jpg"/></item>
+<item><title>Samsung Wallet の新しいキャッシュバック特典は、夕食の支払いや友人との精算に役立ちます</title><link>https://www.androidauthority.com/samsung-wallet-perks-cash-back-rakuten-3729462/</link><guid isPermaLink="true">https://www.androidauthority.com/samsung-wallet-perks-cash-back-rakuten-3729462/</guid><pubDate>Thu, 29 Oct 2026 06:51:45 +0000</pubDate><description><![CDATA[<p>Samsung Wallet の新しいキャッシュバック特典は、夕食の支払いや友人との精算に役立ちます
+
+Samsung は、ユーザーがキャッシュバックを獲得して Samsung キャッシュ カードに追加できる新しい「Samsung Wallet Perks」特典プログラムを開始しました。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+Samsung Wallet の新しいキャッシュバック特典は、夕食の支払いや友人との精算に役立ちます
+
+• Joe Hindy / Android Authority Google に Android Authority を追加: 優先ソース Google Discover TL;DR Samsung は、Rakuten と提携して新しい「Samsung Wallet Perks」機能の展開を開始しました。
+
+これにより、ユーザーは何千もの米国ブランドから買い物をするときにキャッシュバックを獲得し、サムスン キャッシュ カードにキャッシュバックを追加できるようになります。
+
+ユーザーは稼いだキャッシュバックを買い物の際の支払いに使ったり、友人に送金したりすることもできます。
+
+よく買い物をする人は、おそらく複数のポイント カード、支払いアプリ、専用のポイント管理プログラムを使いこなすことに慣れているでしょう。まあ、すぐにこれらすべてを行う必要はないかもしれません。 Samsung は、Samsung Wallet アプリに、あなたの生活をずっと楽にしてくれる新機能を追加しています。
+
+サムスンは本日、楽天と提携した「Samsung Wallet Perks」を発表した。この機能により、ユーザーは何千もの米国ブランドからキャッシュバック特典を獲得でき、キャッシュバックは Wallet アプリの Samsung キャッシュ カードに直接追加されます。 Samsung ユーザーにキャッシュバック特典を提供しているブランドには、LEGO、Sephora、Expedia、P…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2022/10/Samsung-Wallet-1.jpg" alt="Samsung Wallet の新しいキャッシュバック特典は、夕食の支払いや友人との精算に役立ちます"></p>]]></description><source url="https://www.androidauthority.com/samsung-wallet-perks-cash-back-rakuten-3729462/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2022/10/Samsung-Wallet-1.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2022/10/Samsung-Wallet-1.jpg"/></item>
+<item><title>Google メッセージのチャットが ChatGPT にアップグレードされます</title><link>https://www.androidauthority.com/chatgpt-dots-on-google-messages-3729446/</link><guid isPermaLink="true">https://www.androidauthority.com/chatgpt-dots-on-google-messages-3729446/</guid><pubDate>Thu, 29 Oct 2026 05:59:53 +0000</pubDate><description><![CDATA[<p>Google メッセージのチャットが ChatGPT にアップグレードされます
+
+OpenAI では、プロアクティブな更新とシームレスな会話により、RCS 経由で ChatGPT Dot にテキスト メッセージを送信できるようになりました。これがどのように機能し、誰が使用できるかは次のとおりです。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+Google メッセージのチャットが ChatGPT にアップグレードされます
+
+• OpenAI Google に Android 権限を追加: 優先ソース Google Discover TL;DR OpenAI により、Android の Google メッセージまたは iPhone の iMessage を通じて ChatGPT Dot に直接テキスト メッセージを送信できるようになりました。
+
+Your Dot は、以前の会話のコンテキストを保持しながら、更新情報、写真、音声メモを積極的に送信できます。
+
+この機能は、米国の ChatGPT Pro 加入者向けにプレビューとして公開されています。
+
+購入しようとしている製品を監視するよう ChatGPT に依頼すると、価格が下がったときにメッセージが送信されるとします。あるいは、今後の旅行の計画に役立てるように依頼したことがあるかもしれません。重要な更新があるとメッセージが表示されます。これが OpenAI が ChatGPT にもたらす利便性であり、それを使用するためにアプリを開く必要さえありません。
+
+先月、OpenAI は、バックグラウンドで実行され、重要な詳細を記憶し、進行中のタスクを常に把握できるように支援するパーソナル AI エージェントである Dots を導入しました。 ChatGPT、Slack、または Microsoft Teams を通じて Dot と対話できますが、携帯電話のメッセージング アプリというオプションが 1 つありませんでした。
+
+ChatGPT さて、それがつ…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/09/ChatGPT-Dots.jpg" alt="Google メッセージのチャットが ChatGPT にアップグレードされます"></p>]]></description><source url="https://www.androidauthority.com/chatgpt-dots-on-google-messages-3729446/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/09/ChatGPT-Dots.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/09/ChatGPT-Dots.jpg"/></item>
+<item><title>Fractal Design Refine 2 Review – Ergonomic Refinement or a Consistent Evolution?</title><link>https://www.igorslab.de/en/fractal-design-refine-2-review-ergonomic-refinement-evolution/</link><guid isPermaLink="true">https://www.igorslab.de/en/fractal-design-refine-2-review-ergonomic-refinement-evolution/</guid><pubDate>Thu, 29 Oct 2026 04:30:17 +0000</pubDate><description><![CDATA[<p>Fractal Design Refine 2 Review – Ergonomic Refinement or a Consistent Evolution?</p>]]></description><source url="https://www.igorslab.de/en/fractal-design-refine-2-review-ergonomic-refinement-evolution/">igor&#39;sLAB</source></item>
+<item><title>サムスン、携帯電話事業が再び赤字に転落、ギャラクシーS27計画をからかう</title><link>https://www.androidauthority.com/samsung-galaxy-s27-plans-q3-2026-earnings-call-3729435/</link><guid isPermaLink="true">https://www.androidauthority.com/samsung-galaxy-s27-plans-q3-2026-earnings-call-3729435/</guid><pubDate>Thu, 29 Oct 2026 03:55:56 +0000</pubDate><description><![CDATA[<p>サムスン、携帯電話事業が再び赤字に転落、ギャラクシーS27計画をからかう
+
+サムスンは、2027年には携帯電話の出荷台数が減ると予想しているが、次期ギャラクシーSシリーズ、折りたたみ式、新しいフォームファクターについては大きな計画を持っている。
+
+Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
+
+サムスン、携帯電話事業が再び赤字に転落、ギャラクシーS27計画をからかう
+
+• Paul Jones / Android Authority Google に Android Authority を追加: 優先ソース Google Discover TL;DR サムスンは、メモリとコンポーネントのコスト上昇により価格が上昇するため、2027 年には特にミッドレンジおよびエントリーレベルのセグメントでスマートフォンの出荷台数が減少すると予想しています。
+
+同社は第4四半期の「インテリジェントアイウェア」に期待しており、2027年に向けてGlass、TriFold、その他の新しいフォームファクターを研究中です。
+
+サムスンはまた、より特徴的な Galaxy S シリーズ、バッテリー寿命とパフォーマンスの向上、折りたたみ式デバイスの改良、新しい Galaxy AI エクスペリエンスを優先しています。
+
+サムスンは過去四半期の財務結果を報告し、モバイル事業と将来の計画を垣間見ることができました。この見通しは、同社のモバイル部門が2四半期連続で営業損失を計上したことを受けて発表された。しかし、それにもかかわらず、サムスンは次期Galaxyフラッグシップ製品の準備と、新しいデバイスのフォームファクターの探索に忙しい。
+
+同社は決算発表の中で、メモリと原材料のコスト上昇により価格が上昇するため、2027年にはスマートフォンの出荷台数が減少すると予想していると警告した。
+
+同時にサムスンは、次期ギャラクシーSシリーズ、改良された折りたたみ式製品、そして今年第4四半期に登場するインテリジェントアイウェアなど、消費者の関心を引…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-S26FE-all-3-colors.jpg" alt="サムスン、携帯電話事業が再び赤字に転落、ギャラクシーS27計画をからかう"></p>]]></description><source url="https://www.androidauthority.com/samsung-galaxy-s27-plans-q3-2026-earnings-call-3729435/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-S26FE-all-3-colors.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-S26FE-all-3-colors.jpg"/></item>
+<item><title>Mausstudio が 3D プリント用のカスタム ゲーミング マウス デザイナーとして発表</title><link>https://www.techpowerup.com/354246/mausstudio-announced-as-custom-gaming-mouse-designer-for-3d-printing</link><guid isPermaLink="true">https://www.techpowerup.com/354246/mausstudio-announced-as-custom-gaming-mouse-designer-for-3d-printing</guid><pubDate>Thu, 29 Oct 2026 03:33:04 +0000</pubDate><description><![CDATA[<p>Mausstudio が 3D プリント用のカスタム ゲーミング マウス デザイナーとして発表
+
+Keychron のようなブランドがマウス シェルの無料 3D モデルのカタログを公開したり、Openmouse のようなプロジェクトがブランドに依存しないオープンソースのマウスのカスタマイズと再マッピングを提供したりするなど、最近マウス改造シーンは連勝を続けているように見えます。最新の目を引く...
+
+Mausstudio が 3D プリント用のカスタム ゲーミング マウス デザイナーとして発表
+
+2025 年 12 月 31 日 AI 業界の需要のおかげで、2026 年に 5000 ドルの RTX 5090 GPU が登場するとリークが予測 (124)
+
+2026 年 10 月 12 日 PS5 脱獄アプリ「Overdrive」が無料ゲームと DLC を提供しているとされる (14)
+
+2026 年 8 月 30 日 NVIDIA が最新のドライバー アップデートで RTX 5000 電力制限制御 OC をシャットダウン (53)
+
+2026 年 8 月 4 日 OpenMouse: オープンソースのマウス コントロール パネルが Logitech HITS サポートを開始すると発表 (19)
+
+2026 年 8 月 22 日 RAWM が Leviathan V4 GT を発表: 100 ドル未満の磁気スイッチ ゲーミング マウス (2)
+
+2026 年 10 月 29 日 Pulsar が真に調整可能なセンサー位置を備えたデュアルセンサー ゲーミング マウスを発表 (0)
+
+2026 年 7 月 27 日 Keychron G6 HE プレビュー: 交換可能なバッテリーとオープンソース ファームウェアを備えた 46 g ワイヤレス ゲーミング マウス (9)
+
+2026 年 10 月 26 日 Linux カーネル 7.4 HID サポートには、Nintendo Switch 2 コントローラーとパルサー ゲーミング マウスが含まれます (1)
+
+2026 年 7 …</p><p><img src="https://www.techpowerup.com/img/uzY1PeOzgteEgwKd.jpg" alt="Mausstudio が 3D プリント用のカスタム ゲーミング マウス デザイナーとして発表"></p>]]></description><source url="https://www.techpowerup.com/354246/mausstudio-announced-as-custom-gaming-mouse-designer-for-3d-printing">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/uzY1PeOzgteEgwKd.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/uzY1PeOzgteEgwKd.jpg"/></item>
+<item><title>The Maker’s Toolbox: Elegoo M1 Ultra 3D Scanner Review</title><link>https://www.hackster.io/news/the-maker-s-toolbox-elegoo-m1-ultra-3d-scanner-review-872649a32e31</link><guid isPermaLink="true">https://www.hackster.io/news/the-maker-s-toolbox-elegoo-m1-ultra-3d-scanner-review-872649a32e31</guid><pubDate>Thu, 29 Oct 2026 02:42:52 +0000</pubDate><description><![CDATA[<p>The Maker’s Toolbox: Elegoo M1 Ultra 3D Scanner Review</p>]]></description><source url="https://www.hackster.io/news/the-maker-s-toolbox-elegoo-m1-ultra-3d-scanner-review-872649a32e31">Hackster.io</source></item>
+<item><title>すでにタブレットを所有している場合、Kindle を購入する必要がありますか?熱心な電子書籍リーダーのためのガイド</title><link>https://goodereader.com/blog/electronic-readers/should-you-buy-a-kindle-if-you-already-own-a-tablet-a-guide-for-avid-e-readers</link><guid isPermaLink="true">https://goodereader.com/blog/electronic-readers/should-you-buy-a-kindle-if-you-already-own-a-tablet-a-guide-for-avid-e-readers</guid><pubDate>Thu, 29 Oct 2026 02:25:18 +0000</pubDate><description><![CDATA[<p>すでにタブレットを所有している場合、Kindle を購入する必要がありますか?熱心な電子書籍リーダーのためのガイド
+
+すでにタブレットを所有している場合、Kindle を購入する必要はないと思われるかもしれません。結局のところ、タブレットでは、別のデバイスを必要とせずに、電子ブックを表示したり、デジタル ライブラリを開いたり、記事を読んだりすることができます。ただし、熱心な読者は、専用の電子書籍リーダーには、多目的タブレットでは完全には再現できない利点があることに気づくかもしれません。決定は頻度によって決まります
+
+すでにタブレットを所有している場合、Kindle を購入する必要はないと思われるかもしれません。結局のところ、タブレットでは、別のデバイスを必要とせずに、電子ブックを表示したり、デジタル ライブラリを開いたり、記事を読んだりすることができます。ただし、熱心な読者は、専用の電子書籍リーダーには、多目的タブレットでは完全には再現できない利点があることに気づくかもしれません。
+
+決定は、読書の頻度、画面での読書の快適さ、書籍専用のデバイスが必要かどうかによって決まります。小説、ノンフィクション、または長文の記事を何時間も読んでいる人にとって、Kindle は既存のタブレットの代替品ではなく、価値のある追加製品になる可能性があります。
+
+人々がさまざまなデジタル活動に応じてさまざまなデバイスを選択するのと同じように、読者も書籍には Kindle を好み、ブラウジング、生産性、エンターテイメントにはタブレットを好む可能性があります。たとえば、GameZone の Jiliph などのデジタル プラットフォームを時々探索する人は、Kindle を使用しながら、より集中した読書ルーチンを維持するために、タブレットにエンターテイメント アプリケーションを維持することを好むかもしれません。
+
+すでにタブレットを持っているのに、なぜ Kindle を購入するのでしょうか?
+
+Kindle を検討する最大の理由は、Kindle が読書を中心に設計されていることです。タブレットには…</p><p><img src="https://media.goodereader.com/blog/uploads/images/2026/10/04045324/P1380575.JPG" alt="すでにタブレットを所有している場合、Kindle を購入する必要がありますか?熱心な電子書籍リーダーのためのガイド"></p>]]></description><source url="https://goodereader.com/blog/electronic-readers/should-you-buy-a-kindle-if-you-already-own-a-tablet-a-guide-for-avid-e-readers">Good e-Reader</source><media:content url="https://media.goodereader.com/blog/uploads/images/2026/10/04045324/P1380575.JPG" medium="image"/><media:thumbnail url="https://media.goodereader.com/blog/uploads/images/2026/10/04045324/P1380575.JPG"/></item>
+<item><title>マスエフェクトのファングループがタイムズスクエアの広告を購入し、EAをターゲットに看板をクラウドファンディング</title><link>https://www.techpowerup.com/354247/mass-effect-fan-group-buys-times-square-ad-crowdfunds-billboards-aimed-at-ea</link><guid isPermaLink="true">https://www.techpowerup.com/354247/mass-effect-fan-group-buys-times-square-ad-crowdfunds-billboards-aimed-at-ea</guid><pubDate>Thu, 29 Oct 2026 00:09:19 +0000</pubDate><description><![CDATA[<p>マスエフェクトのファングループがタイムズスクエアの広告を購入し、EAをターゲットに看板をクラウドファンディング
+
+#SaveMassEffect キャンペーンを支援するファン グループがキャンペーンをオフラインにしました。アリエル・ペーナ・アギラールによって設立されたファンコミュニティであるウィー・アー・マス・エフェクトは、イラストレーターでユーチューバーのカラ・エリザベスと協力して、10月26日にニューヨークのタイムズスクエアの看板の枠を購入した。広告には「キーラ・シヤ...」と書かれていた。
+
+マスエフェクトのファングループがタイムズスクエアの広告を購入し、EAをターゲットに看板をクラウドファンディング
+
+2026 年 3 月 19 日 NVIDIA DLSS 5、反発が高まる中 YouTube で 84% が嫌悪感を抱く (132)
+
+2026 年 10 月 22 日 資金難の EA がコストを回収するためにマスエフェクトやその他の IP を売却する可能性 (53)
+
+2026 年 10 月 25 日 BioWare のシャットダウンを受けて約 180,000 人のファンが #SaveMassEffect 請願書に署名 (24)
+
+2026 年 10 月 21 日 EA の人員削減を受けて伝説的なゲーム スタジオ BioWare が閉鎖 (101)
+
+2026 年 10 月 27 日 RecompLauncher が 200 近くのファンメイドのコンソール ポートを 1 台の PC カタログに収集 (1)
+
+2026 年 10 月 24 日 BioWare シャットダウン後にキャンセルされたマスエフェクトの詳細が明らかに (29)
+
+2026 年 10 月 22 日、リークされたトレーラーは、EA が閉鎖する前に BioWare が作成していたマス エフェクト ゲームを示しています (9)
+
+2026 年 10 月 21 日 EA、400 人削減: マスエフェクト、ザ・シムズ、スケートに影響 (14)
+
+2026 年 10 月 26 日 CD Projekt Re…</p><p><img src="https://www.techpowerup.com/img/autkRsqErN2V5Cr3.jpg" alt="マスエフェクトのファングループがタイムズスクエアの広告を購入し、EAをターゲットに看板をクラウドファンディング"></p>]]></description><source url="https://www.techpowerup.com/354247/mass-effect-fan-group-buys-times-square-ad-crowdfunds-billboards-aimed-at-ea">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/autkRsqErN2V5Cr3.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/autkRsqErN2V5Cr3.jpg"/></item>
+<item><title>BeagleConnect QuadESC 4-channel BLDC motor controller uses TI’s AM13E23019-based Torque module</title><link>https://www.cnx-software.com/2026/10/29/beagleconnect-quadesc-4-channel-bldc-motor-controller-ti-am13e23019-based-torque-module/</link><guid isPermaLink="true">https://www.cnx-software.com/2026/10/29/beagleconnect-quadesc-4-channel-bldc-motor-controller-ti-am13e23019-based-torque-module/</guid><pubDate>Thu, 29 Oct 2026 00:00:24 +0000</pubDate><description><![CDATA[<p>BeagleConnect QuadESC 4-channel BLDC motor controller uses TI’s AM13E23019-based Torque module</p>]]></description><source url="https://www.cnx-software.com/2026/10/29/beagleconnect-quadesc-4-channel-bldc-motor-controller-ti-am13e23019-based-torque-module/">CNX Software</source></item>
 <item><title>GOG が DRM フリーの Control Resonant を発売</title><link>https://www.techpowerup.com/354243/gog-launches-drm-free-control-resonant</link><guid isPermaLink="true">https://www.techpowerup.com/354243/gog-launches-drm-free-control-resonant</guid><pubDate>Wed, 28 Oct 2026 22:38:20 +0000</pubDate><description><![CDATA[<p>GOG が DRM フリーの Control Resonant を発売
 
 CD Projekt Red が最近このプラットフォームの元の共同創設者に売却した、以前は Good old Games だった GOG は、DRM フリーのゲーム パブリッシングに対する信念を貫き、その最新リリースである Control Resonant は DRM なしで、GOG が提供する典型的なダウンロード可能なゲーム ファイルとともにプラットフォームに登場しました。
@@ -2991,6 +3218,21 @@ Android アプリ Google なしの Chrome: これらは 9 つの最高の Chromi
 Chrome は Android のデフォルトのブラウザであるため、あらゆる種類の Google の導入と制限が伴います。同社はデスクトップ上の広告ブロック拡張機能と戦ってきたが、どういうわけか公式モバイルビルドからは拡張機能のサポートを除外し続けている。 Google アカウントにログインしなければならないというしつこいメッセージや、広告収入で有名な会社がウェブ上での移動を担当しているというさまざまな通知が表示されます。
 
 ありがたいことに、開発者は Chrome の心臓部、特に Chromium を利用して、Google なしで Google Chrome の利点を強調することができます。これらの Chromi…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/08/solipsism-browser-android-app-side-rail-1.jpg" alt="Google のない Chrome: これらは 9 つの最高の Chromium ブラウザです"></p>]]></description><source url="https://www.androidauthority.com/google-chrome-alternatives-android-based-on-chromium-3726016/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/08/solipsism-browser-android-app-side-rail-1.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/08/solipsism-browser-android-app-side-rail-1.jpg"/></item>
+<item><title>Microsoft Officeを捨ててオープンソースの代替品Collaboraを導入するというデンマークの計画は6か月足らずで決裂</title><link>https://www.tomshardware.com/software/microsoft-office/denmarks-bid-to-ditch-microsoft-office-for-open-source-alternative-collabora-collapses-in-under-six-months-employees-cite-issues-with-style-formatting-and-tracking-changes</link><guid isPermaLink="true">https://www.tomshardware.com/software/microsoft-office/denmarks-bid-to-ditch-microsoft-office-for-open-source-alternative-collabora-collapses-in-under-six-months-employees-cite-issues-with-style-formatting-and-tracking-changes</guid><pubDate>Mon, 26 Oct 2026 09:30:00 +0000</pubDate><description><![CDATA[<p>Microsoft Officeを捨ててオープンソースの代替品Collaboraを導入するというデンマークの計画は6か月足らずで決裂
+
+今回はMicrosoftが勝ったようです。
+
+Microsoft Officeを捨ててオープンソースの代替品Collaboraを導入するというデンマーク政府の計画は6カ月も経たずに決裂 — 従業員らはスタイル、書式設定、変更の追跡に問題があると指摘
+
+今回はMicrosoftが勝ったようです。
+
+(画像クレジット: Ed Hardie/Unsplash ) リンクをコピー
+
+13 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する デンマークのデジタル化省は、その後他の省庁と統合され、現在は研究・教育・デジタル化省と呼ばれていますが、Microsoft Office をオープンソースの代替製品に置き換える実験を終了したと伝えられています。デンマークの出版物 Computerworld [機械翻訳] によると、パイロット プロジェクトは 2025 年に開始され、38 人の従業員が参加し、全員が Word、PowerPoint、Excel の代わりに英国のオープンソース Collabora オフィス スイートを使い始めることになりました。
+
+この実験は、米国のテクノロジーへの依存を軽減したいと考えていた当時のデジタル化大臣キャロライン・ステージによって始められました。米国製ソフトウェアからの脱却を進めているのはデンマークだけではなく、フランスとオランダもMicrosoft Windowsの代替に向けた取り組みを進めている。しかし、実験は開始から半年も経たないうちに失敗に終わったようだ。伝えられるところによると、この制度はデンマーク政府が2026年2月の早期選挙を呼びかけるまでに終了しており、一部の従業員はスタイル、段落の書式、白紙ページの問題、変更の追跡の難しさについて不満を述べていた。
+
+しかし、実験が終了したと伝えられてから数か月が経過しているにもかかわらず、コペンハーゲン・ビ…</p><p><img src="https://cdn.mos.cms.futurecdn.net/NAbz7BCDUARTjEEB4XNUvS-1920-80.png" alt="Microsoft Officeを捨ててオープンソースの代替品Collaboraを導入するというデンマークの計画は6か月足らずで決裂"></p>]]></description><source url="https://www.tomshardware.com/software/microsoft-office/denmarks-bid-to-ditch-microsoft-office-for-open-source-alternative-collabora-collapses-in-under-six-months-employees-cite-issues-with-style-formatting-and-tracking-changes">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/NAbz7BCDUARTjEEB4XNUvS-1920-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/NAbz7BCDUARTjEEB4XNUvS-1920-80.png"/></item>
 <item><title>Android のサイドローディング エクスペリエンスはますます厳しくなっていますが、この 1 つの基本的なことはまだ実行できません</title><link>https://www.androidauthority.com/android-sideloading-crackdown-lack-basic-feature-3726602/</link><guid isPermaLink="true">https://www.androidauthority.com/android-sideloading-crackdown-lack-basic-feature-3726602/</guid><pubDate>Mon, 26 Oct 2026 09:30:00 +0000</pubDate><description><![CDATA[<p>Android のサイドローディング エクスペリエンスはますます厳しくなっていますが、この 1 つの基本的なことはまだ実行できません
 
 Android はサイドローディングを有効にするためのより厳格な方法を採用していますが、私は Google がこの基本的なサイドローディングの制限を最初に修正してほしいと心から願っています。
@@ -3008,21 +3250,6 @@ Android でのネイティブ APK バンドルのサポートを確認します�
 Android は昨日 APK バンドルをサポートする必要がありました
 
 Hadlee Simons / Android Authority Android アプリは通常、単一の Zip 形式のファイルで構成される APK 形式を使用します。これらのインストールは非常に簡単です。サイドローディングを有効にし、関連する APK をタップして、インストール プロセスに従います。ただし、近年では、複数のファイルで構成される APK Bundle または App Bundle 形式 (.…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2025/11/Sideloading-an-Android-app-hero-image-scaled.jpg" alt="Android のサイドローディング エクスペリエンスはますます厳しくなっていますが、この 1 つの基本的なことはまだ実行できません"></p>]]></description><source url="https://www.androidauthority.com/android-sideloading-crackdown-lack-basic-feature-3726602/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2025/11/Sideloading-an-Android-app-hero-image-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2025/11/Sideloading-an-Android-app-hero-image-scaled.jpg"/></item>
-<item><title>Microsoft Officeを捨ててオープンソースの代替品Collaboraを導入するというデンマークの計画は6か月足らずで決裂</title><link>https://www.tomshardware.com/software/microsoft-office/denmarks-bid-to-ditch-microsoft-office-for-open-source-alternative-collabora-collapses-in-under-six-months-employees-cite-issues-with-style-formatting-and-tracking-changes</link><guid isPermaLink="true">https://www.tomshardware.com/software/microsoft-office/denmarks-bid-to-ditch-microsoft-office-for-open-source-alternative-collabora-collapses-in-under-six-months-employees-cite-issues-with-style-formatting-and-tracking-changes</guid><pubDate>Mon, 26 Oct 2026 09:30:00 +0000</pubDate><description><![CDATA[<p>Microsoft Officeを捨ててオープンソースの代替品Collaboraを導入するというデンマークの計画は6か月足らずで決裂
-
-今回はMicrosoftが勝ったようです。
-
-Microsoft Officeを捨ててオープンソースの代替品Collaboraを導入するというデンマーク政府の計画は6カ月も経たずに決裂 — 従業員らはスタイル、書式設定、変更の追跡に問題があると指摘
-
-今回はMicrosoftが勝ったようです。
-
-(画像クレジット: Ed Hardie/Unsplash ) リンクをコピー
-
-13 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する デンマークのデジタル化省は、その後他の省庁と統合され、現在は研究・教育・デジタル化省と呼ばれていますが、Microsoft Office をオープンソースの代替製品に置き換える実験を終了したと伝えられています。デンマークの出版物 Computerworld [機械翻訳] によると、パイロット プロジェクトは 2025 年に開始され、38 人の従業員が参加し、全員が Word、PowerPoint、Excel の代わりに英国のオープンソース Collabora オフィス スイートを使い始めることになりました。
-
-この実験は、米国のテクノロジーへの依存を軽減したいと考えていた当時のデジタル化大臣キャロライン・ステージによって始められました。米国製ソフトウェアからの脱却を進めているのはデンマークだけではなく、フランスとオランダもMicrosoft Windowsの代替に向けた取り組みを進めている。しかし、実験は開始から半年も経たないうちに失敗に終わったようだ。伝えられるところによると、この制度はデンマーク政府が2026年2月の早期選挙を呼びかけるまでに終了しており、一部の従業員はスタイル、段落の書式、白紙ページの問題、変更の追跡の難しさについて不満を述べていた。
-
-しかし、実験が終了したと伝えられてから数か月が経過しているにもかかわらず、コペンハーゲン・ビ…</p><p><img src="https://cdn.mos.cms.futurecdn.net/NAbz7BCDUARTjEEB4XNUvS-1920-80.png" alt="Microsoft Officeを捨ててオープンソースの代替品Collaboraを導入するというデンマークの計画は6か月足らずで決裂"></p>]]></description><source url="https://www.tomshardware.com/software/microsoft-office/denmarks-bid-to-ditch-microsoft-office-for-open-source-alternative-collabora-collapses-in-under-six-months-employees-cite-issues-with-style-formatting-and-tracking-changes">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/NAbz7BCDUARTjEEB4XNUvS-1920-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/NAbz7BCDUARTjEEB4XNUvS-1920-80.png"/></item>
 <item><title>Intel APX サポートが「Nova Lake」の発売に先駆けて Windows 11 に導入</title><link>https://www.techpowerup.com/354134/intel-apx-support-lands-in-windows-11-ahead-of-nova-lake-launch</link><guid isPermaLink="true">https://www.techpowerup.com/354134/intel-apx-support-lands-in-windows-11-ahead-of-nova-lake-launch</guid><pubDate>Mon, 26 Oct 2026 09:28:46 +0000</pubDate><description><![CDATA[<p>Intel APX サポートが「Nova Lake」の発売に先駆けて Windows 11 に導入
 
 Intel の Advanced Performance Extensions (APX) は、Windows 11 PC で正式にサポートされています。ただし、現時点では APX を利用できるコンシューマ PC はありません。インテルの APX は、2027 年初めに「Nova Lake」プロセッサーでデビューする予定ですが、新しいプロセッサーを確実に提供するためにソフトウェア開発が続けられています。
@@ -5583,23 +5810,6 @@ Corsair が CDPR と提携し、サイバーパンク周辺機器コレクショ
 João Silva 22 時間前 注目の技術ニュース , ヘッドフォン , キーボード , マウス
 
 Corsair は、CD Projekt Red と協力して制作された 2 つの公式ライセンス付き限定版ゲーム周辺機器コレクションを発表しました。このリリースでは、Netflix のスタジオ トリガーと CD Projekt Red アニメ シリーズを記念して作成されたまったく新しい Corsair x Cyber​​punk: Edgerunners 2 Collection と並んで、昨年の Arasaka ラインナップを白と赤のカラーウェイで復活させた Corsair x Cyber​​punk 2077: Arasaka White Collection が紹介されます。アラサカ ホワイト コレクションは、昨年 12 月に発売された 5 周年記念ハードウェアのブラックをアップデートします。架空の巨大企業の研究所を中心としたスタイルの更新されたラインナップには、Arasaka ブランドの K65 Plus ワイヤレス キーボードと M75 ワイヤレス マウス、マンティス ブレードの回路図がプリントされた MM300 2XL マウスパッドが含まれます。 Corsair は今年、セットを完成させるために適合する HS80 ワイヤレス ヘッドセットを追加することで製品範囲を拡大しました。一方、Edgerunners 2 コレクションは、キャラクター Roman Carax と彼の録音機器からインスピレーションを得ています。 Corsair 氏は、このハードウェアは彼のキャラクター パレットから直接抽出された鮮やかな色を特…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/10/CORSAIR_Cyberpunk_Arasaka_Edgerunner2_Hero-732x330.jpg" alt="Corsair が CDPR と提携し、サイバーパンク周辺機器コレクションを提供"></p>]]></description><source url="https://www.kitguru.net/peripherals/keyboards/joao-silva/corsair-partners-with-cdpr-for-cyberpunk-peripheral-collection/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/10/CORSAIR_Cyberpunk_Arasaka_Edgerunner2_Hero-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/10/CORSAIR_Cyberpunk_Arasaka_Edgerunner2_Hero-732x330.jpg"/></item>
-<item><title>Bambu Lab が謎の H3C ツールチェンジャー 3D プリンターを公開</title><link>https://www.tomshardware.com/3d-printing/bambu-lab-teases-its-mysterious-h3c-tool-changer-3d-printer-features-nine-tools-and-a-drop-down-rack-slated-for-november-3-launch</link><guid isPermaLink="true">https://www.tomshardware.com/3d-printing/bambu-lab-teases-its-mysterious-h3c-tool-changer-3d-printer-features-nine-tools-and-a-drop-down-rack-slated-for-november-3-launch</guid><pubDate>Fri, 23 Oct 2026 13:00:00 +0000</pubDate><description><![CDATA[<p>Bambu Lab が謎の H3C ツールチェンジャー 3D プリンターを公開
-
-この謎のマシンについて言えることは次のとおりです。
-
-Bambu Lab、謎の H3C ツールチェンジャー 3D プリンターを公開 - 9 つのツールとドロップダウン ラックを備え、11 月 3 日に発売予定
-
-この謎のマシンについて言えることは次のとおりです。
-
-(画像クレジット: Bambu Lab) リンクをコピー
-
-0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する Bambu Lab の待望のツール チェンジャーは 11 月 3 日に発売されます。 H3C と呼ばれるこの 3D プリンタには、チャンバーの前面に取り付けられた Vortex のようなラックに保持された 9 つのツールがあります。ツールチェンジャーは、Bambu Lab の現在の AMS システムよりも速く、より少ない無駄で色を切り替えることができるため、未来の波です。
-
-残念ながら、新しい 3D プリンターに関する情報のほとんどは秘密に包まれていますが、すでに公に知られている詳細もたくさんあります。 Bambu Lab は、以下のビデオで見ることができるこの最新のエンジニアリングの偉業を非常に誇りに思っています。私もかなり感銘を受けていることを認めます。
-
-H3C について確認できることは次のとおりです。H3C は、H2S、H2D、および H2C を含む主力プリンタの H シリーズのメンバーです。ご想像のとおり、これはその名の由来である H2C に最もよく似ています。これは、使用しないツールを保持する電動ボルテックス ラックを備えた 7 つのツールを備えた誘導加熱「ノズル スワッパー」です。 H2C は Bambu Lab マシンの中で最も大型のマシンの 1 つで、ビルド ボリュームは 330 x 320 x 325 mm です。
-
-11 秒間のティーザービデオでは、満足のいく金属音とともに工具ラックが落下する様子が示されています。ご想像のとおり、ビル…</p><p><img src="https://cdn.mos.cms.futurecdn.net/HjoG8FYWEqeh9XcgvRjnY6-1156-80.png" alt="Bambu Lab が謎の H3C ツールチェンジャー 3D プリンターを公開"></p>]]></description><source url="https://www.tomshardware.com/3d-printing/bambu-lab-teases-its-mysterious-h3c-tool-changer-3d-printer-features-nine-tools-and-a-drop-down-rack-slated-for-november-3-launch">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/HjoG8FYWEqeh9XcgvRjnY6-1156-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/HjoG8FYWEqeh9XcgvRjnY6-1156-80.png"/></item>
 <item><title>Ubiquitiの99ドルのVape Detectorは実際にはかなり優れています</title><link>https://www.jeffgeerling.com/blog/2026/ubiquiti-vape-detector-teardown/</link><guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/ubiquiti-vape-detector-teardown/</guid><pubDate>Fri, 23 Oct 2026 13:00:00 +0000</pubDate><description><![CDATA[<p>Ubiquitiの99ドルのVape Detectorは実際にはかなり優れています
 
 高濃度の CO2 が注意力や認知能力に与える影響、特に 2000ppm をはるかに超えるレベルでの影響について学んで以来、私は
@@ -5623,6 +5833,23 @@ Ubiquitiの99ドルのVape Detectorは実際にはかなり優れています
 上のビデオのある時点で、私は「呼吸テスト」を行いました。 10 ～ 15 秒間センサーに直接息を吹き込み、センサーの読み取り値を観察しました。
 
 真の CO2 モニターの場合、CO2 レベルは非常に急速に上昇しますが、他のほとんどの測定値 (湿度を除く) は同じままであり、対応するス…</p>]]></description><source url="https://www.jeffgeerling.com/blog/2026/ubiquiti-vape-detector-teardown/">Jeff Geerling</source></item>
+<item><title>Bambu Lab が謎の H3C ツールチェンジャー 3D プリンターを公開</title><link>https://www.tomshardware.com/3d-printing/bambu-lab-teases-its-mysterious-h3c-tool-changer-3d-printer-features-nine-tools-and-a-drop-down-rack-slated-for-november-3-launch</link><guid isPermaLink="true">https://www.tomshardware.com/3d-printing/bambu-lab-teases-its-mysterious-h3c-tool-changer-3d-printer-features-nine-tools-and-a-drop-down-rack-slated-for-november-3-launch</guid><pubDate>Fri, 23 Oct 2026 13:00:00 +0000</pubDate><description><![CDATA[<p>Bambu Lab が謎の H3C ツールチェンジャー 3D プリンターを公開
+
+この謎のマシンについて言えることは次のとおりです。
+
+Bambu Lab、謎の H3C ツールチェンジャー 3D プリンターを公開 - 9 つのツールとドロップダウン ラックを備え、11 月 3 日に発売予定
+
+この謎のマシンについて言えることは次のとおりです。
+
+(画像クレジット: Bambu Lab) リンクをコピー
+
+0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する Bambu Lab の待望のツール チェンジャーは 11 月 3 日に発売されます。 H3C と呼ばれるこの 3D プリンタには、チャンバーの前面に取り付けられた Vortex のようなラックに保持された 9 つのツールがあります。ツールチェンジャーは、Bambu Lab の現在の AMS システムよりも速く、より少ない無駄で色を切り替えることができるため、未来の波です。
+
+残念ながら、新しい 3D プリンターに関する情報のほとんどは秘密に包まれていますが、すでに公に知られている詳細もたくさんあります。 Bambu Lab は、以下のビデオで見ることができるこの最新のエンジニアリングの偉業を非常に誇りに思っています。私もかなり感銘を受けていることを認めます。
+
+H3C について確認できることは次のとおりです。H3C は、H2S、H2D、および H2C を含む主力プリンタの H シリーズのメンバーです。ご想像のとおり、これはその名の由来である H2C に最もよく似ています。これは、使用しないツールを保持する電動ボルテックス ラックを備えた 7 つのツールを備えた誘導加熱「ノズル スワッパー」です。 H2C は Bambu Lab マシンの中で最も大型のマシンの 1 つで、ビルド ボリュームは 330 x 320 x 325 mm です。
+
+11 秒間のティーザービデオでは、満足のいく金属音とともに工具ラックが落下する様子が示されています。ご想像のとおり、ビル…</p><p><img src="https://cdn.mos.cms.futurecdn.net/HjoG8FYWEqeh9XcgvRjnY6-1156-80.png" alt="Bambu Lab が謎の H3C ツールチェンジャー 3D プリンターを公開"></p>]]></description><source url="https://www.tomshardware.com/3d-printing/bambu-lab-teases-its-mysterious-h3c-tool-changer-3d-printer-features-nine-tools-and-a-drop-down-rack-slated-for-november-3-launch">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/HjoG8FYWEqeh9XcgvRjnY6-1156-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/HjoG8FYWEqeh9XcgvRjnY6-1156-80.png"/></item>
 <item><title>誰かが Android を実行している Amazon Echo Show に Apple CarPlay を設置し、実際に動作しました</title><link>https://www.androidauthority.com/amazon-echo-show-5-apple-carplay-lineageos-3727158/</link><guid isPermaLink="true">https://www.androidauthority.com/amazon-echo-show-5-apple-carplay-lineageos-3727158/</guid><pubDate>Fri, 23 Oct 2026 12:53:32 +0000</pubDate><description><![CDATA[<p>誰かが Android を実行している Amazon Echo Show に Apple CarPlay を設置し、実際に動作しました
 
 アレクサのことは忘れてください。第一世代の Amazon Echo Show 5 はワイヤレス Apple CarPlay を実行できるようになりましたが、いくつかの癖があります。
@@ -6399,127 +6626,4 @@ RTX 5090のパレット2個がサンパウロ空港から消失、カード1枚�
 <item><title>Anker Nano 13-in-1 USB-C dock gets a 20% Amazon price drop</title><link>https://www.androidauthority.com/anker-nano-13-in-1-usb-c-dock-deal-3726766/</link><guid isPermaLink="true">https://www.androidauthority.com/anker-nano-13-in-1-usb-c-dock-deal-3726766/</guid><pubDate>Thu, 22 Oct 2026 14:37:01 +0000</pubDate><description><![CDATA[<p>Anker Nano 13-in-1 USB-C dock gets a 20% Amazon price drop</p>]]></description><source url="https://www.androidauthority.com/anker-nano-13-in-1-usb-c-dock-deal-3726766/">Android Authority</source></item>
 <item><title>Google Search just lost a handy research feature, but Gemini still has it</title><link>https://www.androidauthority.com/google-search-ai-mode-export-to-docs-removed-3726681/</link><guid isPermaLink="true">https://www.androidauthority.com/google-search-ai-mode-export-to-docs-removed-3726681/</guid><pubDate>Thu, 22 Oct 2026 14:20:31 +0000</pubDate><description><![CDATA[<p>Google Search just lost a handy research feature, but Gemini still has it</p>]]></description><source url="https://www.androidauthority.com/google-search-ai-mode-export-to-docs-removed-3726681/">Android Authority</source></item>
 <item><title>This Virtual Microphone Follows Your Fingertips</title><link>https://www.hackster.io/news/this-virtual-microphone-follows-your-fingertips-8a30ae05cbca</link><guid isPermaLink="true">https://www.hackster.io/news/this-virtual-microphone-follows-your-fingertips-8a30ae05cbca</guid><pubDate>Thu, 22 Oct 2026 14:18:34 +0000</pubDate><description><![CDATA[<p>This Virtual Microphone Follows Your Fingertips</p>]]></description><source url="https://www.hackster.io/news/this-virtual-microphone-follows-your-fingertips-8a30ae05cbca">Hackster.io</source></item>
-<item><title>ソニージャパン、最後のスタンドアロン4K Blu-rayプレーヤーを「生産終了」に</title><link>https://www.tomshardware.com/tech-industry/sony-japan-marks-last-standalone-4k-blu-ray-player-as-discontinued-playstation-5-now-the-only-blu-ray-player-left-in-sonys-lineup</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/sony-japan-marks-last-standalone-4k-blu-ray-player-as-discontinued-playstation-5-now-the-only-blu-ray-player-left-in-sonys-lineup</guid><pubDate>Thu, 22 Oct 2026 14:04:08 +0000</pubDate><description><![CDATA[<p>ソニージャパン、最後のスタンドアロン4K Blu-rayプレーヤーを「生産終了」に
-
-物理ディスクの生産を終了するというソニーの計画は、将来の PlayStation 6 には Blu-ray プレーヤーが搭載されないことも意味するのでしょうか?
-
-ソニージャパン、最後のスタンドアロン4K Blu-rayプレーヤーを「生産終了」にマーク — PlayStation 5は現在、ソニーのラインナップに残っている唯一のBlu-rayプレーヤーとなっている
-
-物理ディスクの生産を終了するというソニーの計画は、将来の PlayStation 6 には Blu-ray プレーヤーが搭載されないことも意味するのでしょうか?
-
-(画像クレジット: Getty Images ) リンクをコピー
-
-23 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する Blu-ray は市場で 20 年を経て衰退しつつあり、ソニー日本はついに最後の専用 Blu-ray プレーヤーを生産終了します。 FlatpanelsHD によると、ソニージャパンはついに UBP-X700/K プレーヤーを「生産終了」とマークしました。これは、国内の顧客が同社から新しいスタンドアロン Blu-ray プレーヤーを購入できなくなったことを意味します。ソニーは今年 2 月にプレーヤーの出荷を停止しており、残りの Blu-ray プレーヤーの販売を既存の在庫にのみ依存していることを示唆しているため、これは驚くべきことではありません。
-
-PlayStation 5 は、Blu-ray ディスクを再生できる唯一のソニー製デバイスですが、同社はまた、2028 年 1 月までに物理ゲームディスクの生産を終了すると発表しました。このため、次期 PlayStation 6 には光学ドライブが搭載されなくなるのではないかと懸念する人もいます。この動きは、2024年にBlu-rayプレーヤーの生産を終了したLGの足跡に続くものである。日本のエレコムとバッファローも今年PC用Blu-…</p><p><img src="https://cdn.mos.cms.futurecdn.net/5DBb3EC4wHqhYfPaC3rczS-1920-80.png" alt="ソニージャパン、最後のスタンドアロン4K Blu-rayプレーヤーを「生産終了」に"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/sony-japan-marks-last-standalone-4k-blu-ray-player-as-discontinued-playstation-5-now-the-only-blu-ray-player-left-in-sonys-lineup">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/5DBb3EC4wHqhYfPaC3rczS-1920-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/5DBb3EC4wHqhYfPaC3rczS-1920-80.png"/></item>
-<item><title>(PR) Innodisk Launches All-in-One GMSL2 Camera Starter Kit to Accelerate Edge AI Vision Deployment</title><link>https://www.techpowerup.com/354025/innodisk-launches-all-in-one-gmsl2-camera-starter-kit-to-accelerate-edge-ai-vision-deployment</link><guid isPermaLink="true">https://www.techpowerup.com/354025/innodisk-launches-all-in-one-gmsl2-camera-starter-kit-to-accelerate-edge-ai-vision-deployment</guid><pubDate>Thu, 22 Oct 2026 14:03:28 +0000</pubDate><description><![CDATA[<p>(PR) Innodisk Launches All-in-One GMSL2 Camera Starter Kit to Accelerate Edge AI Vision Deployment</p>]]></description><source url="https://www.techpowerup.com/354025/innodisk-launches-all-in-one-gmsl2-camera-starter-kit-to-accelerate-edge-ai-vision-deployment">TechPowerUp</source></item>
-<item><title>Thanks, Apple: Variable aperture and curved displays could be coming back to Android</title><link>https://www.androidauthority.com/android-apple-variable-aperture-200mp-camera-3726620/</link><guid isPermaLink="true">https://www.androidauthority.com/android-apple-variable-aperture-200mp-camera-3726620/</guid><pubDate>Thu, 22 Oct 2026 14:00:55 +0000</pubDate><description><![CDATA[<p>Thanks, Apple: Variable aperture and curved displays could be coming back to Android</p>]]></description><source url="https://www.androidauthority.com/android-apple-variable-aperture-200mp-camera-3726620/">Android Authority</source></item>
-<item><title>『Beyond Good and Evil 2』は「ソロファースト」ゲームとしてリブートされました</title><link>https://www.kitguru.net/gaming/matthew-wilson/beyond-good-and-evil-2-was-rebooted-to-be-a-solo-first-game/</link><guid isPermaLink="true">https://www.kitguru.net/gaming/matthew-wilson/beyond-good-and-evil-2-was-rebooted-to-be-a-solo-first-game/</guid><pubDate>Thu, 22 Oct 2026 14:00:25 +0000</pubDate><description><![CDATA[<p>『Beyond Good and Evil 2』は「ソロファースト」ゲームとしてリブートされました
-
-『Beyond Good and Evil 2』は、2017 年に再公開されて以来、プリプロダクション状態が続いています。なぜゲームにこれほど時間がかかるのか、誰もが疑問に思っていましたが、新しいレポートで状況が明らかになりました。結局のところ、ゲームは複数回再起動されており、以前のバージョンはマルチプレイヤーファーストをターゲットとしていました。
-
-『Beyond Good and Evil 2』は「ソロファースト」ゲームとしてリブートされました
-
-Matthew Wilson 23 時間前 ソフトウェアとゲーム
-
-『Beyond Good and Evil 2』は、2017 年に再公開されて以来、プリプロダクション状態が続いています。なぜゲームにこれほど時間がかかるのか、誰もが疑問に思っていましたが、新しいレポートで状況が明らかになりました。結局のところ、ゲームは複数回再起動されており、以前のバージョンはマルチプレイヤーファーストのアプローチをターゲットとしていました。ゲームの最新バージョンは、代わりに「ソロファースト」アドベンチャーになりました。 Origami はゲームの開発に近い複数の情報源を引用しています。報告書によると、2019年から2022年にかけて『Beyond Good and Evil 2』のアイデアは、大規模なライブサービスタイトルと同様に、友人グループがデジタルで集まるための「サードプレイス」となることを目標に、本作を「高度なマルチプレイヤー」ゲームにすることであったという。それ以来、ライブ サービス ゲームに対する世間の感情は変化し、そのようなゲームの作成に伴う経済的現実が業界全体の開発者に問題を引き起こしています。 『フォートナイト』が成長の壁にぶつかったため、エピック ゲームズは数千人の開発者を解雇しなければならなかった。 Bungie もスタジオの半分を処分しなければならず、財政難のため Destiny を完全に諦めかけた。ライブサービ…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2017/06/beyond-good-and-evil-2.png" alt="『Beyond Good and Evil 2』は「ソロファースト」ゲームとしてリブートされました"></p>]]></description><source url="https://www.kitguru.net/gaming/matthew-wilson/beyond-good-and-evil-2-was-rebooted-to-be-a-solo-first-game/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2017/06/beyond-good-and-evil-2.png" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2017/06/beyond-good-and-evil-2.png"/></item>
-<item><title>Durability tests reveal how the iPhone Duo handles thousands of continuous folds</title><link>https://www.androidauthority.com/apple-iphone-duo-foldable-display-crease-durability-tests-3726691/</link><guid isPermaLink="true">https://www.androidauthority.com/apple-iphone-duo-foldable-display-crease-durability-tests-3726691/</guid><pubDate>Thu, 22 Oct 2026 13:59:27 +0000</pubDate><description><![CDATA[<p>Durability tests reveal how the iPhone Duo handles thousands of continuous folds</p>]]></description><source url="https://www.androidauthority.com/apple-iphone-duo-foldable-display-crease-durability-tests-3726691/">Android Authority</source></item>
-<item><title>(PR) EIZO Releases FlexScan EV2401S Energy-Efficient 23.8-inch Monitor</title><link>https://www.techpowerup.com/354024/eizo-releases-flexscan-ev2401s-energy-efficient-23-8-inch-monitor</link><guid isPermaLink="true">https://www.techpowerup.com/354024/eizo-releases-flexscan-ev2401s-energy-efficient-23-8-inch-monitor</guid><pubDate>Thu, 22 Oct 2026 13:50:47 +0000</pubDate><description><![CDATA[<p>(PR) EIZO Releases FlexScan EV2401S Energy-Efficient 23.8-inch Monitor</p>]]></description><source url="https://www.techpowerup.com/354024/eizo-releases-flexscan-ev2401s-energy-efficient-23-8-inch-monitor">TechPowerUp</source></item>
-<item><title>最も強力なオフィスクラスの ThinkPad ノートパソコン: Lenovo ThinkPad T14 Gen 7 ハイエンド レビュー</title><link>https://www.notebookcheck.net/The-most-powerful-office-class-ThinkPad-laptop-Lenovo-ThinkPad-T14-Gen-7-high-end-review.1400748.0.html</link><guid isPermaLink="true">https://www.notebookcheck.net/The-most-powerful-office-class-ThinkPad-laptop-Lenovo-ThinkPad-T14-Gen-7-high-end-review.1400748.0.html</guid><pubDate>Thu, 22 Oct 2026 13:49:00 +0000</pubDate><description><![CDATA[<p>最も強力なオフィスクラスの ThinkPad ノートパソコン: Lenovo ThinkPad T14 Gen 7 ハイエンド レビュー
-
-Notebookcheck が Lenovo ThinkPad T14 Gen 7 Intel をレビューしています。 T14 Gen 7 のこの新しいバージョンには、強力な H クラス Core Ultra 7 プロセッサーと高品質の OLED スクリーンが含まれています。
-
-評決: いくつかの奇妙な決定を伴う強力なアップグレード
-
-Lenovo の主流ビジネス ラップトップ シリーズである Lenovo ThinkPad T14 Gen 7 の 2 番目のバージョンには、レビューした最初のモデルの長所がほぼすべて備わっています。もちろん、より強力なプロセッサーとよりプレミアムな画面を備えたこのモデルは、パフォーマンスと画面品質の点で最初のバージョンを簡単に上回ります。明らかに、より高いパフォーマンスやより優れた画面が必要な場合は、これが最適なバージョンです。
-
-ライセンスされた評価画像を SVG / PNG としてダウンロードします。非常に良い (89%) ThinkPad T14 Gen 7 21WN00H4GE Intel Core Ultra 7 366H Intel Graphics 4 Xe3 Panther Lake iGPU Office - 2026 年 10 月 22 日 - v8 テスト デバイスは Lenovo Deutschland の提供です。 ライセンスされた評価画像を PNG / SVG としてダウンロードします。 奇妙なことに、この構成ではいくつかの奇妙なこともありますキーボードのバックライト機能の省略など。そして、なぜ Lenovo がより大きな 75 Wh バッテリーをもっと使用しないのか、私たちはいまだに不思議に思っています。それを入手するには、ThinkPad T14 Gen 7 をそのバッテリーでカスタマイズするしかないようです。 Lenovo は、このラップトップの最高のバージョンを入…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/Lenovo/ThinkPad_T14_Gen_7_OLED/Lenovo_ThinkPad_T14G7oled_teaser.JPG" alt="最も強力なオフィスクラスの ThinkPad ノートパソコン: Lenovo ThinkPad T14 Gen 7 ハイエンド レビュー"></p>]]></description><source url="https://www.notebookcheck.net/The-most-powerful-office-class-ThinkPad-laptop-Lenovo-ThinkPad-T14-Gen-7-high-end-review.1400748.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/Lenovo/ThinkPad_T14_Gen_7_OLED/Lenovo_ThinkPad_T14G7oled_teaser.JPG" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/Lenovo/ThinkPad_T14_Gen_7_OLED/Lenovo_ThinkPad_T14G7oled_teaser.JPG"/></item>
-<item><title>TSMCは中国製希土類磁石を含まないチップ製造装置を探している</title><link>https://www.tomshardware.com/tech-industry/semiconductors/tsmc-is-seeking-chipmaking-equipment-that-doesnt-contain-chinese-rare-earth-magnets-asks-suppliers-to-provide-alternative-motors-as-export-controls-threaten-fab-operations</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/semiconductors/tsmc-is-seeking-chipmaking-equipment-that-doesnt-contain-chinese-rare-earth-magnets-asks-suppliers-to-provide-alternative-motors-as-export-controls-threaten-fab-operations</guid><pubDate>Thu, 22 Oct 2026 13:45:00 +0000</pubDate><description><![CDATA[<p>TSMCは中国製希土類磁石を含まないチップ製造装置を探している
-
-完成した永久磁石の95％を中国が占める
-
-TSMCは中国製希土類磁石を含まないチップ製造装置を探している - 輸出規制が工場運営を脅かすため、サプライヤーに代替モーターの提供を要請
-
-完成した永久磁石の95％を中国が占める
-
-(画像クレジット: Getty / Anabelle Chih) リンクをコピーする
-
-0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 世界最大の受託チップ製造会社である TSMC は、中国主導の材料への依存を減らし、同国の輸出規制による工場操業の混乱を回避するために、レアアースコンポーネントを使用しない代替機械を模索しています。ロイター通信が関係者の話として10月22日に報じたところによると、台湾の同社は機器サプライヤーに対し、レアアース材料を必要としないモーターを搭載したファクトリーオートメーション機器を提供できないか検討し始めたという。
-
-TSMC のファブ拡張ロードマップの分析 — マルチファブ N2 ランプ、CoWoS、SoIC、ボトルネックの解消
-
-TSMC、Intel、Samsung の最先端のファウンドリ ロードマップ
-
-ASMLのチップ製造リソグラフィーツールのロードマップを調査
-
-中国のチップ製造ツールのロードマップを調査
-
-TSMC は、AI ブームを促進する非常に強力な Nvidia チップを供給しています。また、Apple、Broadcom、Qualcomm、その他多数のテクノロジー企業や自動車企業向けのチップも製造しています。同社は、高度に自動化された巨大な半導体製造プラントを運営しています。これらの工場では、ネオジム、ジスプロシウム、テルビウムなどの希土類元素から作られた強力な永久磁石を備えた電気モーターを使用する産業機械が使用されています。
-
-米国地質調査所（USGS）によると、世界のレアアース採掘の約70％を中国が占めている。国際エネルギー機関（IEA）によると、TSMCの機械に使用…</p><p><img src="https://cdn.mos.cms.futurecdn.net/rLSDQBJP332sXe5tzBDnRb-2000-80.jpg" alt="TSMCは中国製希土類磁石を含まないチップ製造装置を探している"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/semiconductors/tsmc-is-seeking-chipmaking-equipment-that-doesnt-contain-chinese-rare-earth-magnets-asks-suppliers-to-provide-alternative-motors-as-export-controls-threaten-fab-operations">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/rLSDQBJP332sXe5tzBDnRb-2000-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/rLSDQBJP332sXe5tzBDnRb-2000-80.jpg"/></item>
-<item><title>(PR) Bose Corporation Acquires Skullcandy, Expanding Its Consumer Audio Portfolio</title><link>https://www.techpowerup.com/354023/bose-corporation-acquires-skullcandy-expanding-its-consumer-audio-portfolio</link><guid isPermaLink="true">https://www.techpowerup.com/354023/bose-corporation-acquires-skullcandy-expanding-its-consumer-audio-portfolio</guid><pubDate>Thu, 22 Oct 2026 13:40:21 +0000</pubDate><description><![CDATA[<p>(PR) Bose Corporation Acquires Skullcandy, Expanding Its Consumer Audio Portfolio</p>]]></description><source url="https://www.techpowerup.com/354023/bose-corporation-acquires-skullcandy-expanding-its-consumer-audio-portfolio">TechPowerUp</source></item>
-<item><title>簡単な変更 1 つで、RTX Spark を搭載した Microsoft の Surface Laptop Ultra がより優れたゲーム システムになります</title><link>https://www.tomshardware.com/video-games/pc-gaming/one-easy-change-makes-microsofts-surface-laptop-ultra-with-rtx-spark-a-better-gaming-system-custom-resolutions-make-dlss-easier-on-the-device</link><guid isPermaLink="true">https://www.tomshardware.com/video-games/pc-gaming/one-easy-change-makes-microsofts-surface-laptop-ultra-with-rtx-spark-a-better-gaming-system-custom-resolutions-make-dlss-easier-on-the-device</guid><pubDate>Thu, 22 Oct 2026 13:30:00 +0000</pubDate><description><![CDATA[<p>簡単な変更 1 つで、RTX Spark を搭載した Microsoft の Surface Laptop Ultra がより優れたゲーム システムになります
-
-DLSS を容易にするためにカスタム 3:2 解像度を定義します
-
-簡単な変更 1 つで、RTX Spark を搭載した Microsoft の Surface Laptop Ultra がより優れたゲーム システムになります - カスタム解像度により、デバイス上での DLSS が容易になります
-
-DLSS を容易にするためにカスタム 3:2 解像度を定義します
-
-(画像クレジット: Future) リンクをコピーする
-
-フォローしてください Google ニュースレターの優先ソースとして追加してください ニュースレターを購読してください Nvidia の RTX Spark プラットフォームは、ローカル AI 推論とコンテンツ作成を最優先にしていますが、Microsoft の Surface Laptop Ultra も実際にはゲームを望んでいます。通気孔付きキーボードは設計により、負荷がかかっても重要な WASD キーを冷たく保ちます。滑らかな 120Hz 画面は HDR ゲームで 2000 nit もの明るさを得ることができ、内蔵スピーカーは私がこれまでラップトップで聞いた中で最高かもしれません。
-
-問題が 1 つだけあります。3270x2180 の画面では、多くの DLSS アップスケーリングが必要になります。 DLSS が実行する計算は無料ではなく、出力解像度が高くなるほど負荷が増加します。これは、16:9 4K ディスプレイよりもピクセル数がわずか 14% 少ない Surface Laptop Ultra の高密度パネルに特に関係します。
-
-Surface のアスペクト比が 3:2 という珍しい (少なくとも平均的なゲーム用ラップトップと比較して) ことは、多くのゲームでコンテンツを画面いっぱいに拡大するのが簡単ではないことも意味します。 16:9 および 16:10 のコンテンツは垂直方向に引き伸…</p><p><img src="https://cdn.mos.cms.futurecdn.net/eMMU7gFueqxEHqrwcwj44W-1920-80.jpg" alt="簡単な変更 1 つで、RTX Spark を搭載した Microsoft の Surface Laptop Ultra がより優れたゲーム システムになります"></p>]]></description><source url="https://www.tomshardware.com/video-games/pc-gaming/one-easy-change-makes-microsofts-surface-laptop-ultra-with-rtx-spark-a-better-gaming-system-custom-resolutions-make-dlss-easier-on-the-device">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/eMMU7gFueqxEHqrwcwj44W-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/eMMU7gFueqxEHqrwcwj44W-1920-80.jpg"/></item>
-<item><title>I’ve never owned smart glasses, but Samsung’s Android XR glasses may change that</title><link>https://www.androidauthority.com/samsung-xr-glasses-hype-3721541/</link><guid isPermaLink="true">https://www.androidauthority.com/samsung-xr-glasses-hype-3721541/</guid><pubDate>Thu, 22 Oct 2026 10:30:34 +0000</pubDate><description><![CDATA[<p>I’ve never owned smart glasses, but Samsung’s Android XR glasses may change that</p>]]></description><source url="https://www.androidauthority.com/samsung-xr-glasses-hype-3721541/">Android Authority</source></item>
-<item><title>COD Zombies にインスパイアされた「Sker Ritual」が Epic Games ストアで無料</title><link>https://www.kitguru.net/desktop-pc/mustafa-mahmoud/cod-zombies-inspired-sker-ritual-is-free-on-the-epic-games-store/</link><guid isPermaLink="true">https://www.kitguru.net/desktop-pc/mustafa-mahmoud/cod-zombies-inspired-sker-ritual-is-free-on-the-epic-games-store/</guid><pubDate>Thu, 22 Oct 2026 10:30:06 +0000</pubDate><description><![CDATA[<p>COD Zombies にインスパイアされた「Sker Ritual」が Epic Games ストアで無料
-
-過小評価されているラウンドベースの協力サバイバル FPS「Sker Ritual」は、Epic Games ストアで来週無料で獲得できます。
-
-COD Zombies にインスパイアされた「Sker Ritual」が Epic Games ストアで無料
-
-Mustafa Mahmoud 21 時間前 注目の技術ニュース , PC , ソフトウェア &amp; ゲーム
-
-Epic が生成 AI バブルへのさらなる参入に力を注いでいるように見えるのと同じように、幸いにも Fortnite メーカーは依然として素晴らしいゲームを毎週無料で提供することに力を入れています。 Epic Games Store では、ひどく過小評価されている COD Zombies からインスピレーションを得たラウンドベースの協力サバイバル FPS 「Sker Ritual」を本日からライブラリに追加できるようになりました。本日から 10 月 29 日まで、Epic Games アカウントをお持ちのすべての方がライブラリに追加できます: ホーム – ユニークなホラー アドベンチャー
-
-今週のヘッドライナーは、Wales Interactive のラウンドベースの協力サバイバル FPS、Sker Ritual です。比較的ゲームプレイの軽い一人称サバイバル ホラー「Maid of Sker」のスピンオフとして機能する Sker Ritual は、Treyarch の Call of Duty Zombies モードに大きく影響を受けた、魅力的でリプレイ可能なゲームプレイ ループを提供することに重点を置いています。非直線的でパズルベースの物語的なストーリーテリングから、その要点まで。進行;特典;パンチとパワーアップを詰め込んだ Sker Ritual は、「ゾンビ」を無心に殺したい人だけでなく、その世界と伝承をより深く掘り下げたい人にとっても手に入れる価値があります。 「Home – A Unique…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/10/skerr-732x330.jpg" alt="COD Zombies にインスパイアされた「Sker Ritual」が Epic Games ストアで無料"></p>]]></description><source url="https://www.kitguru.net/desktop-pc/mustafa-mahmoud/cod-zombies-inspired-sker-ritual-is-free-on-the-epic-games-store/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/10/skerr-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/10/skerr-732x330.jpg"/></item>
-<item><title>OpenAIは、ChatGPT SolがWebサイトの70%に影響を与える可能性のある重大なPHP欠陥の発見に役立ったと述べている</title><link>https://www.tomshardware.com/tech-industry/cyber-security/openai-says-gpt-5-6-sol-helped-uncover-critical-php-flaws-that-could-affect-70-percent-of-websites-ai-assisted-researchers-turned-two-year-old-bug-that-stumped-human-developers-into-working-exploits-in-two-weeks</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/cyber-security/openai-says-gpt-5-6-sol-helped-uncover-critical-php-flaws-that-could-affect-70-percent-of-websites-ai-assisted-researchers-turned-two-year-old-bug-that-stumped-human-developers-into-working-exploits-in-two-weeks</guid><pubDate>Thu, 22 Oct 2026 10:30:00 +0000</pubDate><description><![CDATA[<p>OpenAIは、ChatGPT SolがWebサイトの70%に影響を与える可能性のある重大なPHP欠陥の発見に役立ったと述べている
-
-OpenAIは、攻撃者がAIを悪用し始める前に、防御側は積極的に防御を強化する必要があると述べている
-
-OpenAI は、ChatGPT Sol が Web サイトの 70% に影響を与える可能性のある PHP の重大な欠陥の発見に役立ったと述べています。AI の支援を受けた研究者が、人間の開発者を悩ませていた 2 年前のバグを 2 週間で実用的なエクスプロイトに変えました
-
-OpenAIは、攻撃者がAIの極端な能力を悪用し始める前に、防御者は積極的に防御を強化する必要があると述べている。
-
-(画像クレジット: Getty Images ) リンクをコピー
-
-0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する OpenAI は 10 月 21 日のプレス リリースで、サイバーセキュリティ イニシアティブ「Patch the Planet」に取り組んでいる研究者らが AI モデル GPT-5.6 Sol を使用して PHP (インターネットの推定 70% で稼働しているオープンソース プログラミング言語) の重大なセキュリティ脆弱性を発見したと発表しました。発見後、同社は研究者、PHP保守担当者、セキュリティプロバイダー、政府サイバーセキュリティ機関の連合を調整し、2カ月かけて問題を修正したと述べた。同社は、スケジュールが長くなったのはタスクの複雑さによるもので、PHP エンジンに大幅な変更が必要だったと考えています。
-
-AI データセンターが世界のメモリとストレージの供給を飲み込んでいる
-
-データセンターの CPU の需要が急増し、AI エージェントがその役割を担う
-
-NexperiaとDRAM危機が悪化する中、チップ不足が自動車業界を襲う
-
-カスタム AI ASIC の現状
-
-PHP Foundation は、脆弱性を修正するためにパッチを適用したバージョン PHP 8.2…</p><p><img src="https://cdn.mos.cms.futurecdn.net/bqKbbbB3ZdRgDH7Pz95FKT-1920-80.jpg" alt="OpenAIは、ChatGPT SolがWebサイトの70%に影響を与える可能性のある重大なPHP欠陥の発見に役立ったと述べている"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/cyber-security/openai-says-gpt-5-6-sol-helped-uncover-critical-php-flaws-that-could-affect-70-percent-of-websites-ai-assisted-researchers-turned-two-year-old-bug-that-stumped-human-developers-into-working-exploits-in-two-weeks">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/bqKbbbB3ZdRgDH7Pz95FKT-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/bqKbbbB3ZdRgDH7Pz95FKT-1920-80.jpg"/></item>
-<item><title>フォーミュラ V ライン エア パワー G10 レビュー: 回転ファン?!</title><link>https://www.kitguru.net/components/cases/leo-waldock/formula-v-line-air-power-g10-review-pivoting-fans/</link><guid isPermaLink="true">https://www.kitguru.net/components/cases/leo-waldock/formula-v-line-air-power-g10-review-pivoting-fans/</guid><pubDate>Thu, 22 Oct 2026 10:06:36 +0000</pubDate><description><![CDATA[<p>フォーミュラ V ライン エア パワー G10 レビュー: 回転ファン?!
-
-この事件には熱狂的なファンがいます - それは天才ですか、それとも奇策ですか?
-
-フォーミュラ V ライン エア パワー G10 レビュー: 回転ファン?!
-
-Leo Waldock 21 時間前 ケース , 注目の技術レビュー , レビュー
-
-Formula V Line は、今年の Computex で Air Power G10 ケースを展示しました。このケースは、従来の方法でわずかに上、わずかに下、または水平に向けて個別に回転できる 3 つの 120 mm ファンを備えたフロント パネルという斬新な特徴を備えています。このレビューでは、冷却に対するこの珍しいアプローチを検証し、それがどの程度優れたパフォーマンスを発揮するかを正確に確認します。タイムスタンプ 00:00 イントロ 00:59 ケースの初見 02:46 内部シャーシ 04:15 PSU の位置の交換 06:43 PC の構築 07:52 ファンの煙の視覚化 08:30 熱および音響テスト 11:40 最後に 主な機能 Smart Airflow。精密冷却: 角度調整可能なファンシュラウドは 2 段階のエアフロー方向調整をサポートしており、ユーザーは 0° ～ 10° の間で上向きまたは下向きの角度を設定できます。スムーズな調整感覚と正確な位置停止により、制御されたエアフローとより洗練されたユーザーエクスペリエンスを実現します。
-
-3D プリントによる DIY の楽しみ: ファン グリル パネル用の 3D デザイン ファイルを提供しており、ユーザーはその寸法を独自の創造的なアイデアの基礎として使用できます。あなたの個人的なスタイルを反映したユニークなパネルをデザイン、印刷、作成します。
-
-高級メタリックな職人技: Air Power G10 は、ローズゴールドとメタリックシルバーのメタリック塗装パネルのオプションを提供し、洗練された高品質な仕上げとより独特な視覚的魅力で全体のデザインを強化します。
-
-モジュール式レイアウト。…</p><p><img src="https://www.kitguru.net/wp-content/uploads/2026/10/Featured-Air-Power-G10-pic-H-732x330.jpg" alt="フォーミュラ V ライン エア パワー G10 レビュー: 回転ファン?!"></p>]]></description><source url="https://www.kitguru.net/components/cases/leo-waldock/formula-v-line-air-power-g10-review-pivoting-fans/">KitGuru</source><media:content url="https://www.kitguru.net/wp-content/uploads/2026/10/Featured-Air-Power-G10-pic-H-732x330.jpg" medium="image"/><media:thumbnail url="https://www.kitguru.net/wp-content/uploads/2026/10/Featured-Air-Power-G10-pic-H-732x330.jpg"/></item>
-<item><title>I vibe-coded a Pebble Time 2 app, and I learned some tough lessons</title><link>https://www.androidauthority.com/i-vibe-coded-pebble-time-2-app-learned-lessons-3724028/</link><guid isPermaLink="true">https://www.androidauthority.com/i-vibe-coded-pebble-time-2-app-learned-lessons-3724028/</guid><pubDate>Thu, 22 Oct 2026 10:00:33 +0000</pubDate><description><![CDATA[<p>I vibe-coded a Pebble Time 2 app, and I learned some tough lessons</p>]]></description><source url="https://www.androidauthority.com/i-vibe-coded-pebble-time-2-app-learned-lessons-3724028/">Android Authority</source></item>
 </channel></rss>
