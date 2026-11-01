@@ -1,6 +1,163 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sun, 01 Nov 2026 13:21:41 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sun, 01 Nov 2026 18:55:44 +0000</lastBuildDate>
+<item><title>Amazon Echo Dotをroot化する</title><link>https://hackaday.com/2026/10/31/rooting-an-amazon-echo-dot/</link><guid isPermaLink="true">https://hackaday.com/2026/10/31/rooting-an-amazon-echo-dot/</guid><pubDate>Sat, 31 Oct 2026 23:00:00 +0000</pubDate><description><![CDATA[<p>Amazon Echo Dotをroot化する
+
+Amazon Echo Dot は、Amazon のいわゆる「スマート スピーカー」製品の 1 つであり、Alexa を活用した大規模なエコシステムと連携しており、非常にミニマルなデバイスとして設計されています。
+
+Amazon Echo Dot は、Amazon のいわゆる「スマート スピーカー」製品の 1 つで、Alexa を活用した大規模なエコシステムと連携しており、この音声アシスタントへのアクセスと、自宅への Amazon AWS クラウドへのアクセスを可能にする非常にミニマルなデバイスになるように設計されています。後半の部分が気に入らない場合は、[Andy] が最近 2018 Echo Dot 3 で行ったように、デバイスを root 化することでいつでも Amazon のクラウドからデバイスの束縛を解除することができます。
+
+ビデオに加えて、デバイスを root 化するために必要な手順が説明されているブログ投稿もあります。これは、[Julian Imhof] によって作成されたクロード バイブコーディング プロジェクトを使用して、デバイスをホーム アシスタント音声衛星に変えるために使用されます。 [Andy] が指摘しているように、このコードは機能するようですが、完全に監査されていないため、YMMV です。デバイスのサポートも、プロジェクト ページにリストされている特定の Echo Dot および Echo Show デバイスのみに限定されています。
+
+最初のステップは、デバイス内のボードに USB アクセスを取得することです。問題の Dot のような USB レス デバイスの場合、デバイスを開いて、PCB 上で利用可能なテスト パッドに USB コネクタをはんだ付けする必要があります。他の Echo デバイスの場合は、既存の USB ポートをそのまま使用できるため、この最初のステップが少し簡単になります。
+
+これらのデバイスは Fire OS を実行しているため、基本的には Android です。これは、ブ…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/10/echo_dot_home_assistant_mod_andys_tech_lab_youtube.jpg" alt="Amazon Echo Dotをroot化する"></p>]]></description><source url="https://hackaday.com/2026/10/31/rooting-an-amazon-echo-dot/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/10/echo_dot_home_assistant_mod_andys_tech_lab_youtube.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/10/echo_dot_home_assistant_mod_andys_tech_lab_youtube.jpg"/></item>
+<item><title>GIGABYTE AORUS and Capcom Team Up for Resident Evil-Themed PC Giveaway</title><link>https://www.techpowerup.com/354163/gigabyte-aorus-and-capcom-team-up-for-resident-evil-themed-pc-giveaway</link><guid isPermaLink="true">https://www.techpowerup.com/354163/gigabyte-aorus-and-capcom-team-up-for-resident-evil-themed-pc-giveaway</guid><pubDate>Sat, 31 Oct 2026 22:44:32 +0000</pubDate><description><![CDATA[<p>GIGABYTE AORUS and Capcom Team Up for Resident Evil-Themed PC Giveaway</p>]]></description><source url="https://www.techpowerup.com/354163/gigabyte-aorus-and-capcom-team-up-for-resident-evil-themed-pc-giveaway">TechPowerUp</source></item>
+<item><title>Scyrox Launches Translucent V12 Series Lightweight Gaming Mice in Large and Medium Variants</title><link>https://www.techpowerup.com/354370/scyrox-launches-translucent-v12-series-lightweight-gaming-mice-in-large-and-medium-variants</link><guid isPermaLink="true">https://www.techpowerup.com/354370/scyrox-launches-translucent-v12-series-lightweight-gaming-mice-in-large-and-medium-variants</guid><pubDate>Sat, 31 Oct 2026 22:17:37 +0000</pubDate><description><![CDATA[<p>Scyrox Launches Translucent V12 Series Lightweight Gaming Mice in Large and Medium Variants</p>]]></description><source url="https://www.techpowerup.com/354370/scyrox-launches-translucent-v12-series-lightweight-gaming-mice-in-large-and-medium-variants">TechPowerUp</source></item>
+<item><title>Forza Motorsport Head Resigns Following Turn 10 and Playground Games Merger</title><link>https://www.techpowerup.com/354369/forza-motorsport-head-resigns-following-turn-10-and-playground-games-merger</link><guid isPermaLink="true">https://www.techpowerup.com/354369/forza-motorsport-head-resigns-following-turn-10-and-playground-games-merger</guid><pubDate>Sat, 31 Oct 2026 21:42:29 +0000</pubDate><description><![CDATA[<p>Forza Motorsport Head Resigns Following Turn 10 and Playground Games Merger</p>]]></description><source url="https://www.techpowerup.com/354369/forza-motorsport-head-resigns-following-turn-10-and-playground-games-merger">TechPowerUp</source></item>
+<item><title>EA reportedly canceled Mass Effect and shut down BioWare to prioritize a new Star Wars: Battlefront</title><link>https://www.tweaktown.com/rss/click/news/114428/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/114428/?c=news-mf</guid><pubDate>Sat, 31 Oct 2026 21:40:16 +0000</pubDate><description><![CDATA[<p>EA reportedly canceled Mass Effect and shut down BioWare to prioritize a new Star Wars: Battlefront</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/114428/?c=news-mf">TweakTown</source></item>
+<item><title>Windows 11 Pro のライフタイム ライセンスは 11 月 1 日までわずか 10 ドルです</title><link>https://www.techpowerup.com/354241/windows-11-pro-lifetime-license-is-just-usd-10-through-nov-1</link><guid isPermaLink="true">https://www.techpowerup.com/354241/windows-11-pro-lifetime-license-is-just-usd-10-through-nov-1</guid><pubDate>Sat, 31 Oct 2026 21:29:37 +0000</pubDate><description><![CDATA[<p>Windows 11 Pro のライフタイム ライセンスは 11 月 1 日までわずか 10 ドルです
+
+Microsoft Windows 11 Pro は 11 月 1 日まで 9.97 ドル (希望小売価格 199 ドル) で購入でき、189.03 ドルの節約になります。購入すると、1 台の PC に対して永久ライセンスが提供され、サブスクリプション料金や定期料金は発生しません。ライセンスは譲渡できません。
+
+Windows 11 Home ではなく Pro を選択する主な理由は、追加機能です。
+
+2026 年 10 月 31 日土曜日、Windows 11 Pro ライフタイム ライセンスは 11 月 1 日までわずか 10 ドルです
+
+AMD Radeon 26.10.2 WHQL オプション
+
+インテル Arc および iGPU 101.9150 WHQL
+
+11:48 by r00tcz 他に最適化されたバッテリー充電を使用している人はいますか? ( 35 )
+
+11:00 by NorthByte 高振動ドライブを NAS から取り外しますか? ( 40 )
+
+10:52 by フリーエージェント Ryzen オーナーズ ゼン ガーデン ( 8518 )
+
+10:46 bymassaker Planet は、Windows 98 上の Intel X25-E を搭載した SATA ドライブ 1.4 GBps を記録しました。および 4KB 読み取りブロック サイズで + 300 MBps ( 15 )
+
+10:31 by cox 最も遅い SSD はどれですか? HDD ではなく、ソリッドステート ドライブのみ ( 70 )
+
+10:29 by vigger ID の次は何ですか? ( 0 )
+
+10:28 by shuffy_losys Android ウイルス ( 1 )
+
+10:21 by VuurVOS Dell 7740 ワークステーション用 AMD Radeon Pro WX 7130 VBIOS リクエスト (モバイル) ( 3 )
+
+…</p><p><img src="https://www.techpowerup.com/img/lzqXZ5HCx5H5QI3A.jpg" alt="Windows 11 Pro のライフタイム ライセンスは 11 月 1 日までわずか 10 ドルです"></p>]]></description><source url="https://www.techpowerup.com/354241/windows-11-pro-lifetime-license-is-just-usd-10-through-nov-1">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/lzqXZ5HCx5H5QI3A.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/lzqXZ5HCx5H5QI3A.jpg"/></item>
+<item><title>Linux Mint が休止状態の再実装と新しいシステム アプリを発表</title><link>https://www.techpowerup.com/354366/linux-mint-announces-hibernation-re-implementation-and-new-system-apps</link><guid isPermaLink="true">https://www.techpowerup.com/354366/linux-mint-announces-hibernation-re-implementation-and-new-system-apps</guid><pubDate>Sat, 31 Oct 2026 21:16:45 +0000</pubDate><description><![CDATA[<p>Linux Mint が休止状態の再実装と新しいシステム アプリを発表
+
+Linux Mint は、最も広く推奨されている Linux ディストリビューションの 1 つであり、なじみのあるレイアウトが特徴で非常に初心者に優しいため、特に Windows から Linux への移行を検討している人に最適です。ただし、依然として Ubuntu に基づいているため、次のような Ubuntu の上流の決定の多くの影響を受けます。
+
+Linux Mint が休止状態の再実装と新しいシステム アプリを発表
+
+2026 年 4 月 28 日 Linux が PlayStation 5 で正式に利用可能になりました (22)
+
+2026 年 5 月 18 日 インサイダーは、ソニーが PC ポートを廃止することを認めています: 「PC に登場するシングル プレイヤー ゲームは少なくなるでしょう。」 (135)
+
+2026 年 7 月 31 日 Microsoft、Windows 11 のメモリ効率の向上を約束 (235)
+
+2026 年 8 月 26 日 AMD が「Olympic Ridge」デスクトップ「Zen 6」と AM5 の互換性を確認 (78)
+
+2026 年 10 月 28 日 CachyOS がロックダウン付きの EAC Linux V2 互換カーネルを発表 (21)
+
+2025 年 12 月 8 日 Valve が Steam Machine でのオープンソース HDMI 2.1 サポートのブロックを解除しようとしている (37)
+
+2026 年 10 月 25 日 NVIDIA は、GPU あたり年間 2,000 ドルのソフトウェア収益を目にしました (Huang 氏) (28)
+
+2026 年 10 月 20 日 Linux Foundation が「受信プルリクエストの 25% が AI スロップとみなされる」ことを発見 (8)
+
+2026 年 5 月 14 日 KDE Plasma 6.7 ベータ版で HTPC 用の Plasma Bigscreen モードが…</p><p><img src="https://www.techpowerup.com/img/5juywUa4QzCbnt59.jpg" alt="Linux Mint が休止状態の再実装と新しいシステム アプリを発表"></p>]]></description><source url="https://www.techpowerup.com/354366/linux-mint-announces-hibernation-re-implementation-and-new-system-apps">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/5juywUa4QzCbnt59.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/5juywUa4QzCbnt59.jpg"/></item>
+<item><title>OLED market shipments projected to grow by over 40% year over year in 2027</title><link>https://www.tweaktown.com/rss/click/news/114417/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/114417/?c=news-mf</guid><pubDate>Sat, 31 Oct 2026 20:50:10 +0000</pubDate><description><![CDATA[<p>OLED market shipments projected to grow by over 40% year over year in 2027</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/114417/?c=news-mf">TweakTown</source></item>
+<item><title>Arkadeは「ユニバーサルゲーム互換性」を備えた399ドルのゲーミングガンとして詳細に発表</title><link>https://www.techpowerup.com/354364/arkade-detailed-as-usd-399-gaming-gun-with-universal-game-compatibility</link><guid isPermaLink="true">https://www.techpowerup.com/354364/arkade-detailed-as-usd-399-gaming-gun-with-universal-game-compatibility</guid><pubDate>Sat, 31 Oct 2026 20:44:51 +0000</pubDate><description><![CDATA[<p>Arkadeは「ユニバーサルゲーム互換性」を備えた399ドルのゲーミングガンとして詳細に発表
+
+ゲーミング マウスは、感度、応答性、機能の向上を絶え間なく追求し続けていますが、少なくとも「パフォーマンス...
+
+Arkadeは「ユニバーサルゲーム互換性」を備えた399ドルのゲーミングガンとして詳細に発表
+
+Arkade は、Call of Duty、Valorant、CS2、Apex Legends、Overwatch 2 などを含む 200 以上のテスト済み FPS ゲームで動作します。一人称視点のシューティング ゲームであれば、サポートされる可能性があります。
+
+私たちは、特許取得済みの技術を使用して、現実世界の動きとゲーム内のビューを一致させる追跡システムを開発しました。これで一人称問題は解決します。ポイントすると、ゲームは予想どおりに反応します。ゲーム コントローラー、ジョイスティック、さらにはマウスよりもシンプルで直感的です。
+
+2026 年 9 月 6 日 DLSS 5 テストは RTX 5090 コネクタが溶けて終了、電力が 600 W を超える (342)
+
+2026 年 7 月 17 日 Behemoth V2 はマキシマリストの 135% メカニカル ゲーミング キーボード (27)
+
+2026 年 7 月 30 日 NVIDIA RTX 50 シリーズ GPU は 2026 年にさらに 20 ～ 30% の価格上昇の可能性 (183)
+
+2026 年 10 月 3 日 Marvel&#39;s Wolverine が PS5 エミュレータ KytyPS5 で最初の起動から数日後に 20 FPS を達成 (19)
+
+2026年8月29日 コナミ社長が悪魔城ドラキュラのリブートを確認 (13)
+
+2026 年 10 月 17 日 Call of Duty: Modern Warfare 4 が 90% の肯定的なレビューで温かい歓迎を受ける (18)
+
+2026 年 10 月 31 日 OpenAI CEO、家庭用 PC は世界の限られた DRAM 供給を無駄…</p><p><img src="https://www.techpowerup.com/img/Jz4Lct6sARtA78eH.jpg" alt="Arkadeは「ユニバーサルゲーム互換性」を備えた399ドルのゲーミングガンとして詳細に発表"></p>]]></description><source url="https://www.techpowerup.com/354364/arkade-detailed-as-usd-399-gaming-gun-with-universal-game-compatibility">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/Jz4Lct6sARtA78eH.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/Jz4Lct6sARtA78eH.jpg"/></item>
+<item><title>MS Office 2024 Professional Plus には 6 つのアプリが含まれており、1 回限り $49.97</title><link>https://www.techpowerup.com/354242/ms-office-2024-professional-plus-includes-6-apps-for-a-one-time-usd-49-97</link><guid isPermaLink="true">https://www.techpowerup.com/354242/ms-office-2024-professional-plus-includes-6-apps-for-a-one-time-usd-49-97</guid><pubDate>Sat, 31 Oct 2026 20:12:14 +0000</pubDate><description><![CDATA[<p>MS Office 2024 Professional Plus には 6 つのアプリが含まれており、1 回限り $49.97
+
+Microsoft Office 2024 Professional Plus for Windows は、11 月 1 日まで 49.97 ドル (メーカー希望小売価格 249.99 ドル) でセール中です。このオファーでは、価格が 200 ドル値下げされ、継続的なサブスクリプション料金なしで 1 台の Windows PC に永久ライセンスが提供されます。
+
+このスイートには、Word、Excel、PowerPoint、Outlook、OneNote などが含まれています。
+
+2026 年 10 月 31 日土曜日 MS Office 2024 Professional Plus には 6 つのアプリが含まれており、1 回限り $49.97
+
+AMD Radeon 26.10.2 WHQL オプション
+
+インテル Arc および iGPU 101.9150 WHQL
+
+11:48 by r00tcz 他に最適化されたバッテリー充電を使用している人はいますか? ( 35 )
+
+11:00 by NorthByte 高振動ドライブを NAS から取り外しますか? ( 40 )
+
+10:52 by フリーエージェント Ryzen オーナーズ ゼン ガーデン ( 8518 )
+
+10:46 bymassaker Planet は、Windows 98 上の Intel X25-E を搭載した SATA ドライブ 1.4 GBps を記録しました。および 4KB 読み取りブロック サイズで + 300 MBps ( 15 )
+
+10:31 by cox 最も遅い SSD はどれですか? HDD ではなく、ソリッドステート ドライブのみ ( 70 )
+
+10:29 by vigger ID の次は何ですか? ( 0 )
+
+10:28 by shuffy_losys Android ウイルス ( 1 )
+
+10:21 by VuurVOS Dell…</p><p><img src="https://www.techpowerup.com/img/um2R1cmqW5VA8a3F.jpg" alt="MS Office 2024 Professional Plus には 6 つのアプリが含まれており、1 回限り $49.97"></p>]]></description><source url="https://www.techpowerup.com/354242/ms-office-2024-professional-plus-includes-6-apps-for-a-one-time-usd-49-97">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/um2R1cmqW5VA8a3F.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/um2R1cmqW5VA8a3F.jpg"/></item>
+<item><title>Anthropic is going after the rise of vibe-coded game ports with new Claude Code restrictions</title><link>https://www.tweaktown.com/rss/click/news/114429/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/114429/?c=news-mf</guid><pubDate>Sat, 31 Oct 2026 19:40:13 +0000</pubDate><description><![CDATA[<p>Anthropic is going after the rise of vibe-coded game ports with new Claude Code restrictions</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/114429/?c=news-mf">TweakTown</source></item>
+<item><title>Intel Core Ultra X7 358H と Linux がプリインストールされた Tuxedo Nano Pro Gen15 ミニ PC が発売</title><link>https://www.techpowerup.com/354362/tuxedo-nano-pro-gen15-mini-pc-launches-with-intel-core-ultra-x7-358h-and-linux-preinstalled</link><guid isPermaLink="true">https://www.techpowerup.com/354362/tuxedo-nano-pro-gen15-mini-pc-launches-with-intel-core-ultra-x7-358h-and-linux-preinstalled</guid><pubDate>Sat, 31 Oct 2026 19:39:37 +0000</pubDate><description><![CDATA[<p>Intel Core Ultra X7 358H と Linux がプリインストールされた Tuxedo Nano Pro Gen15 ミニ PC が発売
+
+Tuxedo Computers は、Intel の Panther Lake Core Ultra X7 358H CPU とその有能な Arc B390 iGPU を搭載した新しいミニ PC、Nano Pro Gen15 を発表しました。ミニ PC は、「ローカルで安全で主権のある」LLM を実行したい開発者やホーム ラボ愛好家をターゲットとしたワークステーションですが、Tuxedo も...
+
+Intel Core Ultra X7 358H と Linux がプリインストールされた Tuxedo Nano Pro Gen15 ミニ PC が発売
+
+2026 年 8 月 28 日 Piston V タッチスクリーン Bazzite Mini PC がキックスターターでメーカー希望小売価格 799 ドルで発売 (7)
+
+2026 年 6 月 12 日、4000 ドルの AMD Ryzen AI Halo Mini PC 開発キットの予約注文が開始 (47)
+
+2026 年 7 月 3 日 インテル、ゲーム向けに 108 MB bLLC キャッシュを備えた 2 つの 22 コア「Nova Lake-S」SKU を準備 (279)
+
+2026 年 8 月 24 日 Minisforum が Intel Arc B390 iGPU と 32 GB RAM を搭載した 1,800 ドルの M2 Pro Mini PC を発売 (10)
+
+2026 年 10 月 1 日 28 コア 4970K BFC を搭載した Intel Core Ultra 4000「Nova Lake-S」ラインナップがリーク (103)
+
+2026 年 1 月 23 日 インテル Core Ultra シリーズ 4 「Nova Lake」プロセッサーが 2026 年後半に発売 (62)
+
+2026 年 1 月 10 日 Intel Core U…</p><p><img src="https://www.techpowerup.com/img/BDPkLSoELJeQsvCY.jpg" alt="Intel Core Ultra X7 358H と Linux がプリインストールされた Tuxedo Nano Pro Gen15 ミニ PC が発売"></p>]]></description><source url="https://www.techpowerup.com/354362/tuxedo-nano-pro-gen15-mini-pc-launches-with-intel-core-ultra-x7-358h-and-linux-preinstalled">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/BDPkLSoELJeQsvCY.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/BDPkLSoELJeQsvCY.jpg"/></item>
+<item><title>BIOSTAR unveils fanless Wildcat Lake mini-PC that can operate at temperatures as low as -20&amp;deg;C</title><link>https://www.tweaktown.com/rss/click/news/114430/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/114430/?c=news-mf</guid><pubDate>Sat, 31 Oct 2026 19:30:07 +0000</pubDate><description><![CDATA[<p>BIOSTAR unveils fanless Wildcat Lake mini-PC that can operate at temperatures as low as -20&amp;deg;C</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/114430/?c=news-mf">TweakTown</source></item>
+<item><title>受賞歴のある Bambu Lab P1S 3D プリンターと AMS を 70 ドル割引で購入しましょう</title><link>https://www.tomshardware.com/pc-components/grab-the-award-winning-bambu-lab-p1s-3d-printer-with-ams-for-usd70-off-save-usd70-on-one-of-the-best-3d-printers-for-beginners</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/grab-the-award-winning-bambu-lab-p1s-3d-printer-with-ams-for-usd70-off-save-usd70-on-one-of-the-best-3d-printers-for-beginners</guid><pubDate>Sat, 31 Oct 2026 19:19:50 +0000</pubDate><description><![CDATA[<p>受賞歴のある Bambu Lab P1S 3D プリンターと AMS を 70 ドル割引で購入しましょう
+
+P1S と AMS を 500 ドル未満で入手できます。
+
+受賞歴のある Bambu Lab P1S 3D プリンタと AMS を 70 ドル割引で購入しましょう — 初心者向けの最高の 3D プリンタの 1 つを 70 ドル節約できます
+
+P1S と AMS を 500 ドル未満で入手できます。
+
+(画像クレジット: Future) リンクをコピー
+
+0 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 3D プリントへの参入を検討している場合は、今が思い切って取り組む良い機会かもしれません。 Editor&#39;s Choice Award を受賞した Bambu Lab P1S は、AMS カラー印刷モジュールとバンドルされており、現在販売中で、Best Buy でわずか 479.99 ドルで入手できます。これは定価の 549.99 ドルから 70 ドル割引であり、すぐに多色印刷をサポートする有能な 3D プリンタを入手したい初心者にとって、これは堅実な取引になります。
+
+Best Buy のセールをチェックしてください
+
+Bambu Lab P1S は高速 3D プリンタですが、バンドルされている自動マテリアル システム (AMS) により、マルチマテリアルおよびマルチカラー プリントが可能になり、さらに一歩前進します。自動ベッドレベリング、スライサー ソフトウェア内のさまざまなプリセット、最大 20,000 mm/s² の加速度を備えた驚異的な印刷速度など、いくつかの便利な機能が備わっています。また、256 x 256 x 256 mm という十分なビルドボリュームも提供します。 Bambu Lab によると、プラグアンドプレイのセットアップは、箱から取り出して構成し、わずか 15 分で最初の印刷の準備が整います。
+
+Bambu Lab P1S は密閉型 3D プリンタで、高温フィラメント印刷に最適…</p><p><img src="https://cdn.mos.cms.futurecdn.net/Bp6R74i9bMpwWMUnXYizEX-1920-80.jpg" alt="受賞歴のある Bambu Lab P1S 3D プリンターと AMS を 70 ドル割引で購入しましょう"></p>]]></description><source url="https://www.tomshardware.com/pc-components/grab-the-award-winning-bambu-lab-p1s-3d-printer-with-ams-for-usd70-off-save-usd70-on-one-of-the-best-3d-printers-for-beginners">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/Bp6R74i9bMpwWMUnXYizEX-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/Bp6R74i9bMpwWMUnXYizEX-1920-80.jpg"/></item>
+<item><title>Fan proposes over 5 million euros to revive Ubisoft&#39;s canceled The Prince of Persia: The Sands of Time Remake</title><link>https://www.tweaktown.com/rss/click/news/114426/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/114426/?c=news-mf</guid><pubDate>Sat, 31 Oct 2026 19:05:02 +0000</pubDate><description><![CDATA[<p>Fan proposes over 5 million euros to revive Ubisoft&#39;s canceled The Prince of Persia: The Sands of Time Remake</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/114426/?c=news-mf">TweakTown</source></item>
 <item><title>AMD Radeon RX 9070 GRE は 3.9 GHz OC に達しますが、カスタム DirectX 9 ワークロードの場合に限ります</title><link>https://www.techpowerup.com/354353/amd-radeon-rx-9070-gre-hits-3-9-ghz-oc-but-only-with-a-custom-directx-9-workload</link><guid isPermaLink="true">https://www.techpowerup.com/354353/amd-radeon-rx-9070-gre-hits-3-9-ghz-oc-but-only-with-a-custom-directx-9-workload</guid><pubDate>Sat, 31 Oct 2026 15:55:47 +0000</pubDate><description><![CDATA[<p>AMD Radeon RX 9070 GRE は 3.9 GHz OC に達しますが、カスタム DirectX 9 ワークロードの場合に限ります
 
 AMD の Radeon RX 9070 GRE グラフィックス カードは、当初は中国の顧客向けに設計され、その後より多くの市場で販売されましたが、正式に 3.9 GHz の周波数に達しました。 TechPowerUp フォーラムのユーザー「ShrimpBrime」は、「R-Team OC」および「GPU Frequency Generator」と呼ばれる Radeon GPU 用のカスタム ツールを作成しました。を使用して...
@@ -6628,189 +6785,4 @@ Google で XDA を追加 優先ソースとして追加 Google でフォロー D
 ただし、SSD の状態と温度だけを知る必要がある場合は、サードパーティのツールをインストールする必要はありません。 NAND フラッシュの書き込みサイクルが有限であるため、SSD の寿命には限界があるため、ほとんどの人はドライブの残りの寿命を知るだけで済みます。それには、Windows の内蔵ストレージ設定で十分です。
 
 Windows には SSD に関する監視情報が組み込まれて…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/ultrawide-monitor-windows-11-storage-settings-crystaldiskinfo.png?w=1600&amp;h=900&amp;fit=crop" alt="Windows がすでに多くのことを通知しているため、SSD の状態をチェックするために CrystalDiskInfo は必要ありません"></p>]]></description><source url="https://www.xda-developers.com/you-dont-need-crystaldiskinfo-windows-tells-you-a-lot/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/ultrawide-monitor-windows-11-storage-settings-crystaldiskinfo.png?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/ultrawide-monitor-windows-11-storage-settings-crystaldiskinfo.png?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>スラープトップはよだれを垂らす価値があり、実用的です</title><link>https://hackaday.com/2026/10/24/the-slurptop-is-both-drool-worthy-and-practical/</link><guid isPermaLink="true">https://hackaday.com/2026/10/24/the-slurptop-is-both-drool-worthy-and-practical/</guid><pubDate>Sat, 24 Oct 2026 23:00:51 +0000</pubDate><description><![CDATA[<p>スラープトップはよだれを垂らす価値があり、実用的です
-
-サイバーデッキには 2 種類あります。1 つはひばりで作成し、純粋に「クールのルール」に基づいて動作するタイプ、もう 1 つは実用的な作業を行うように設計されたタイプです。 [Slurpburgers]のThe Slurptopは、…
-
-サイバーデッキには 2 種類あります。1 つはひばりで作成し、純粋に「クールのルール」に基づいて動作するタイプ、もう 1 つは実用的な作業を行うように設計されたタイプです。 [Slurpburgers] の Slurptop は明らかに 2 番目のカテゴリーに分類されますが、それはクールさに欠けているという意味ではありません。電動工具のバッテリーよりも優れたものは何でしょうか?
-
-最後の機能により、これらのページで最も紹介されているものよりもニューロマンサーのサイバーデッキの定義に近づくかもしれません。まだ大脳皮質に組み込むことはできませんが、元のコンセプトの「必要に応じて既製のコンポーネントを組み立てる」という雰囲気はあります。これは、これを実行する電力を大量に消費する x86 ベースの GMKtec MiniPC を動作し続けるために、十分なバッテリー電力が必要であることも意味します。
-
-バッテリーの残量が少なくなった場合 (約 4 時間程度後に低下します)、交換は簡単ですが、ホットスワップはできません。幸いなことに、[Slurpburgers] は壁電流に切り替えるための無停電電源装置用のモジュールを入手したので、必要なときにいつでもこのデバイスを接続できるようになりました。悲しいことに、充電はデバイスではなく工場出荷時の充電器で行う必要がありますが、その交換はデバイスの「過去の未来」サイバーパンクのフレアを本当に増大させると私たちは考えています。
-
-過去のことを言えば、なぜラップトップにメカニカル キーボードとトラックボールを搭載するのをやめたのでしょうか?この製品の入力は素晴らしく、古い HP Pavilion の悲しくてふにゃふにゃした薄型キーをタイプしている筆者の手は…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/10/slruptop-feat.jpg" alt="スラープトップはよだれを垂らす価値があり、実用的です"></p>]]></description><source url="https://hackaday.com/2026/10/24/the-slurptop-is-both-drool-worthy-and-practical/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/10/slruptop-feat.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/10/slruptop-feat.jpg"/></item>
-<item><title>私は意図的に 4 つの異なるブラウザを使用しています。これが私にとって最高のプライバシー習慣です。</title><link>https://www.xda-developers.com/use-four-different-browsers-on-purpose-best-privacy-habit-i-have/</link><guid isPermaLink="true">https://www.xda-developers.com/use-four-different-browsers-on-purpose-best-privacy-habit-i-have/</guid><pubDate>Sat, 24 Oct 2026 23:00:20 +0000</pubDate><description><![CDATA[<p>私は意図的に 4 つの異なるブラウザを使用しています。これが私にとって最高のプライバシー習慣です。
-
-4 つあることができるのに、なぜ 1 つに満足するのでしょうか?
-
-私は意図的に 4 つの異なるブラウザを使用しています。これが私にとって最高のプライバシー習慣です。
-
-XDA を Google に追加 優先ソースとして追加 Google でフォロー Discover 投稿者: Mahnoor Faisal 公開日 2026 年 10 月 24 日、午後 7:00 EDT Mahnoor Faisal は、XDA 、 SlashGear 、 MakeUseOf 、 Laptop Mag 、 Android Police で署名付きで AI と生産性ツールをカバーするテクノロジー ジャーナリストです。彼女は 16 歳の頃からプロとして執筆活動を行っており、それ以来何百もの記事を執筆してきました。これには、NotebookLM などの AI ツールから AI 分野全体の最新ニュースまでの詳細なカバレッジが含まれます。彼女のテクノロジーに対する情熱は、8 歳の誕生日に最初の iPod Touch (第 4 世代) を受け取ったときに始まり、それ以来テクノロジーの世界に深く関わってきました。現在、コンピューター サイエンスの学位取得を目指しているマフノール氏は、AI が私たちの働き方や学習方法をどのように再構築しているのかを取材する際に、ジャーナリストの目と技術的基礎の両方をもたらしています。 XDA アカウントにサインインする ChatGPT 対クロード対ジェミニ対パープレクシティの議論が起こるずっと前、そして人々が Spotify 対 Apple Music について議論し始める前でさえ、技術愛好家の間で意見が分かれる別の議論がありました。
-
-ブラウザ戦争は何十年も続いていますが、私が学んだことが 1 つあるとすれば、人々は自分が選んだブラウザに非常に情熱を注ぐことができるということです。信じてください、私の記事のいくつかで、あるブラウザを捨てて別のブラウザを使用するという…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/zen-browser-on-macbook.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="私は意図的に 4 つの異なるブラウザを使用しています。これが私にとって最高のプライバシー習慣です。"></p>]]></description><source url="https://www.xda-developers.com/use-four-different-browsers-on-purpose-best-privacy-habit-i-have/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/zen-browser-on-macbook.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/zen-browser-on-macbook.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>家族の誰かが何かを視聴できるようになる前に、私が無効にしている 5 つのテレビ機能</title><link>https://www.xda-developers.com/tv-features-i-disable-before-anyone-is-allowed-to-watch/</link><guid isPermaLink="true">https://www.xda-developers.com/tv-features-i-disable-before-anyone-is-allowed-to-watch/</guid><pubDate>Sat, 24 Oct 2026 22:00:20 +0000</pubDate><description><![CDATA[<p>家族の誰かが何かを視聴できるようになる前に、私が無効にしている 5 つのテレビ機能
-
-新品のテレビは、準備が整うまで準備が整いません
-
-家族の誰かが何かを視聴できるようになる前に、私が無効にしている 5 つのテレビ機能
-
-XDA を Google に追加する 優先ソースとして追加 Google でフォローする Discover 投稿者 Tanveer Singh 公開 2026 年 10 月 24 日、午後 6 時 EDT 7 年間の勤務を経て、Tanveer は執筆とテクノロジーへの愛が抑えられないことに気づきました。マーケティングの MBA を取得し、PC 構築ビジネスのオーナーである彼は、PC ハードウェア、テクノロジ、および Windows について執筆しています。 Web でアイデアを探していないときは、PC を構築したり、アニメを見たり、RTX 3080 でスマッシュ カートをプレイしたりしています (ため息)。 XDA アカウントにサインインする テレビは、エンターテイメント ハブの中心的な部分であるため、どの家庭でも最も重要なデバイスの 1 つです。満足のいくホームシアター体験をするには、高品質のパネルとサウンドシステムが不可欠ですが、テレビのデフォルト設定を使用すると、体験が簡単に台無しになる可能性があります。新しいテレビを最大限に楽しむ前に、平均的な消費者がそのテレビでどの設定を無効にすべきかをどのように知る必要があるのか​​、いまだに私は頭が混乱します。
-
-自分や家族のために新しいテレビをセットアップするときは、必ずいくつかの設定をオフにするようにしています。必要なアプリをダウンロードしたり、アカウントにサインインしたりする前であっても、これらの機能が元の場所に送り返されていることを確認します。現代のテレビの大部分にはこれらの機能は搭載されていないため、まだ無効にしていない場合は無効にする必要があります。
-
-スムーズモーションを最初に行う必要があります
-
-偽の高 FPS コンテンツを見たくない人はいません
-
-テレビで最も嘲笑されている設定は、このリ…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/smart-tv-soundbar-harry-potter-series.png?w=1600&amp;h=900&amp;fit=crop" alt="家族の誰かが何かを視聴できるようになる前に、私が無効にしている 5 つのテレビ機能"></p>]]></description><source url="https://www.xda-developers.com/tv-features-i-disable-before-anyone-is-allowed-to-watch/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/smart-tv-soundbar-harry-potter-series.png?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/smart-tv-soundbar-harry-potter-series.png?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>クロードの推論でトレーニングされた 9B モデルを 8GB GPU で実行したところ、クロードにお金を払うことを再考させられました</title><link>https://www.xda-developers.com/ran-9b-model-trained-on-claude-reasoning-on-8gb-gpu/</link><guid isPermaLink="true">https://www.xda-developers.com/ran-9b-model-trained-on-claude-reasoning-on-8gb-gpu/</guid><pubDate>Sat, 24 Oct 2026 21:30:20 +0000</pubDate><description><![CDATA[<p>クロードの推論でトレーニングされた 9B モデルを 8GB GPU で実行したところ、クロードにお金を払うことを再考させられました
-
-予想以上に大きな仕事を得た無料モデル
-
-クロードの推論でトレーニングされた 9B モデルを 8GB GPU で実行したところ、クロードにお金を払うことを再考させられました
-
-Google で XDA を追加 優先ソースとして追加 Google でフォロー Discover 投稿者 Nolen Jonker 公開 2026 年 10 月 24 日、午後 5 時 30 分 EDT Nolen は 2019 年に執筆活動を開始し、3 年間 MakeUseOf のクリエイティブ セクションの編集に専念しました。彼らの専門知識はテクノロジーと創造性の交差点にあり、写真、ビデオ編集、グラフィック デザインなどの分野をカバーしています。仕事以外では、ノーレンが良い本を読んだり、自分の物語を書いたり、ビデオ ゲームをしたりしているのをよく見かけます。 XDA アカウントにサインインする Claude Pro は、ほとんどの場合、その価値を証明します。 Anthropic のモデルは API を通じてほぼどこからでもアクセスできますが、私のワークフロー、特にプロジェクトとアーティファクト、そして最近では Claude Docs において、Claude ワークスペースがほぼ必要になりました。しかし、数週間にわたるチャットをスクロールして遡ってみると、セッション自体は非常に基本的なもので、ほとんどが私が物事を理解できるようにすることを中心に展開していることがわかりました。つまり、最終的にはデスクトップ アプリの機能に対して料金を支払うことになりますが、これらは AnythingLLM や PewDiePie の Odysseus などのローカル ツールで置き換えることができます。
-
-最近、タイトルにクロードの名前が入った 9B モデルが Hugging Face に登場しました…みたいな。 Anthropic の最も強力なモデルから学習したと主張しており、8G…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/qwythos-9b-in-lm-studio-on-desktop-pc.jpeg?w=1600&amp;h=900&amp;fit=crop" alt="クロードの推論でトレーニングされた 9B モデルを 8GB GPU で実行したところ、クロードにお金を払うことを再考させられました"></p>]]></description><source url="https://www.xda-developers.com/ran-9b-model-trained-on-claude-reasoning-on-8gb-gpu/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/qwythos-9b-in-lm-studio-on-desktop-pc.jpeg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/qwythos-9b-in-lm-studio-on-desktop-pc.jpeg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>Xbox&#39;s first-ever chief operating officer leaves as Microsoft gears up for next-gen Project Helix</title><link>https://www.tweaktown.com/rss/click/news/114266/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/114266/?c=news-mf</guid><pubDate>Sat, 24 Oct 2026 21:14:13 +0000</pubDate><description><![CDATA[<p>Xbox&#39;s first-ever chief operating officer leaves as Microsoft gears up for next-gen Project Helix</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/114266/?c=news-mf">TweakTown</source></item>
-<item><title>Uncloud は、すでに作成した Compose ファイルを使用するので、作業を自宅のサーバー全体に分散できます。</title><link>https://www.xda-developers.com/uncloud-uses-compose-files-spread-work-across-home-servers/</link><guid isPermaLink="true">https://www.xda-developers.com/uncloud-uses-compose-files-spread-work-across-home-servers/</guid><pubDate>Sat, 24 Oct 2026 21:00:21 +0000</pubDate><description><![CDATA[<p>Uncloud は、すでに作成した Compose ファイルを使用するので、作業を自宅のサーバー全体に分散できます。
-
-サーバーが増えても雑用が増えるわけではありません。
-
-Uncloud は、すでに作成した Compose ファイルを使用するので、作業を自宅のサーバー全体に分散できます。
-
-XDA を Google に追加 優先ソースとして追加 Google でフォロー Discover By Anurag Singh Published 2026 年 10 月 24 日、午後 5:00 EDT Anurag は経験豊富なジャーナリスト兼著者で、過去 5 年間、Windows、Android、Apple を中心にテクノロジーを取材してきました。彼は Android Police、Neowin、Dexerto、MakeTechEasier などのサイトに執筆しています。アヌラグは常にテクノロジーに興味があり、最新のガジェットを手に入れるのが大好きです。先延ばしにしていないときは、おそらく彼が映画館で最新映画を鑑賞したり、ベッドから Twitter をスクロールしたりしているのを見かけるでしょう。 XDA アカウントにサインインする ホーム サーバーをもう 1 つ追加すると、アプリケーション用のスペースが増えることになります。どういうわけか、これは、Kubernetes を学習し、すべてが他のすべてとどのように通信するかを理解するために週末を費やすことへの招待状にもなります。私はすでに動作する Compose ファイルを持っていますが、いくつかのマシンを別のジョブに変えることに特に興味はありません。
-
-Uncloud はここで説得力のある売り込みを行っています。すでに使用している Compose ファイルを使用して、サーバー全体にサービスを展開し、途中でプライベート ネットワークと HTTPS を処理できるようにします。これは、Kubernetes、Swarm、Nomad、Kamal に代わるオープンソースの代替手段であり、すでに自宅で Docker を実行している人には…</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/unlcloud-hero.jpg?w=1600&amp;h=900&amp;fit=crop" alt="Uncloud は、すでに作成した Compose ファイルを使用するので、作業を自宅のサーバー全体に分散できます。"></p>]]></description><source url="https://www.xda-developers.com/uncloud-uses-compose-files-spread-work-across-home-servers/">XDA</source><media:content url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/unlcloud-hero.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/><media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/unlcloud-hero.jpg?w=1600&amp;h=900&amp;fit=crop"/></item>
-<item><title>Modders port FSR 4.1.2 Lite to Intel Arc&#39;s XMX AI-cores matching XeSS upscaling performance</title><link>https://www.tweaktown.com/rss/click/news/114275/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/114275/?c=news-mf</guid><pubDate>Sat, 24 Oct 2026 20:15:02 +0000</pubDate><description><![CDATA[<p>Modders port FSR 4.1.2 Lite to Intel Arc&#39;s XMX AI-cores matching XeSS upscaling performance</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/114275/?c=news-mf">TweakTown</source></item>
-<item><title>2026 年のレトロコンピューティング チャレンジ: シリアル データのためなら何でもする</title><link>https://hackaday.com/2026/10/24/2026-retrocomputing-challenge-i-would-do-anything-for-serial-data/</link><guid isPermaLink="true">https://hackaday.com/2026/10/24/2026-retrocomputing-challenge-i-would-do-anything-for-serial-data/</guid><pubDate>Sat, 24 Oct 2026 20:00:14 +0000</pubDate><description><![CDATA[<p>2026 年のレトロコンピューティング チャレンジ: シリアル データのためなら何でもする
-
-今日、私たちは高速ネットワークを当然のことと考えていますが、古いコンピューターを最新のマシンと通信させるのは難しい場合があります。この問題を解決するために、[jaime] はミートローフを思いつきました。
-
-今日、私たちは高速ネットワークを当然のことと考えていますが、古いコンピューターを最新のマシンと通信させるのは難しい場合があります。この問題を解決するために、[jaime] は場所や記憶媒体に関係なく Commodore にファイルを提供できる Meatloaf を思いつきました。
-
-Meatloaf は、中核となる ESP32 デバイスであり、IEC シリアル ポートを介して複数の Commodore コンピュータのいずれかに接続されます。現代世界とレトロな世界の間のギャップを埋めるために、多くの同様のシステムが存在しますが、このシステムは、ファイルがどこに保存されているかに関係なく、ファイルをポイントする専用のサービスに接続します。ローカル ストレージがいくつかありますが、アクティブな URL からファイルを取得することもでき、Meatloaf はファイルを取得し、シリアル リンク経由で Commodore に送信します。
-
-これをユニークなものにしているのは、ユーザーが特定の方法で Meatloaf を設定する必要がなく、URL がユーザーに知られている限り、すべてが Commodore から行われることです。システムは、アーカイブ ファイル タイプのようなネストされたファイルを解析し、時代が正しいフロッピー ドライブ上にある場合と同じように、それらをコンピュータに送信することもできます。このシリアル データ インターフェイスの詳細に興味がある人のために、GitHub プロジェクト ページもあります。</p><p><img src="https://hackaday.com/wp-content/uploads/2026/10/meatloaf_feat.jpg" alt="2026 年のレトロコンピューティング チャレンジ: シリアル データのためなら何でもする"></p>]]></description><source url="https://hackaday.com/2026/10/24/2026-retrocomputing-challenge-i-would-do-anything-for-serial-data/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/10/meatloaf_feat.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/10/meatloaf_feat.jpg"/></item>
-<item><title>Xbox、リセット途中で初代最高執行責任者を失う</title><link>https://www.techpowerup.com/354105/xbox-loses-its-first-chief-operating-officer-mid-reset</link><guid isPermaLink="true">https://www.techpowerup.com/354105/xbox-loses-its-first-chief-operating-officer-mid-reset</guid><pubDate>Sat, 24 Oct 2026 19:48:48 +0000</pubDate><description><![CDATA[<p>Xbox、リセット途中で初代最高執行責任者を失う
-
-Xboxの初代最高執行責任者（COO）であるヘレン・チャン氏は、就任からわずか3カ月でマイクロソフトを退社した。このニュースは、The Vergeが入手したMicrosoft Gaming CEOのAsha Sharma氏による短い社内メモから出たもので、そこにはChiang氏が会社を辞めることと、彼女に感謝の意を表しているだけだった。
-
-Xbox、リセット途中で初代最高執行責任者を失う
-
-2026 年 8 月 3 日 Xbox Disc to Digital が Xbox One とシリーズ X 向けに今月登場 (74)
-
-2026 年 7 月 24 日 Halo: キャンペーンが進化—有料プレイヤーが Microsoft アカウントのリンクと格闘し、ローンチ前にクラック (63)
-
-2026 年 9 月 30 日 Halo: Combat Evolved が分割画面協力プレイを備えた無料のブラウザ ポートを取得 (5)
-
-2026 年 9 月 22 日 Microsoft が次世代 Xbox コンソールの物理ディスクについて内部関係者を調査 (19)
-
-2026 年 6 月 12 日 Xbox ゲーム CSO がゲーム内の広告を「手頃な価格の代替品」として売り込む (55)
-
-2026 年 9 月 20 日 Xbox Series X が実験的な PS5 エミュレータ ポートを取得、Quake II はすでに実行中 (5)
-
-2026 年 9 月 7 日 Xbox Game Pass はダイナミックプライシングをテストしているようです (10)
-
-2026 年 9 月 29 日 Xbox Disc-To-Digital が正式にテストを終了 (12)
-
-2026 年 9 月 21 日 Microsoft の特許は、ロード画面中およびボス戦後の広告中断を示しています (34)
-
-2026 年 10 月 20 日 Xbox Helix コンソールは 2028 年のホリデーシーズンに 1,200 ドルから 1,800 ド…</p><p><img src="https://www.techpowerup.com/img/vqpsPKgkomTCEbdU.jpg" alt="Xbox、リセット途中で初代最高執行責任者を失う"></p>]]></description><source url="https://www.techpowerup.com/354105/xbox-loses-its-first-chief-operating-officer-mid-reset">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/vqpsPKgkomTCEbdU.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/vqpsPKgkomTCEbdU.jpg"/></item>
-<item><title>ジェイルブレイクされた PS5 コンソールで Windows Steam ゲームをローカルで実行できるようになりました</title><link>https://www.techpowerup.com/354104/jailbroken-ps5-consoles-can-now-run-windows-steam-games-locally</link><guid isPermaLink="true">https://www.techpowerup.com/354104/jailbroken-ps5-consoles-can-now-run-windows-steam-games-locally</guid><pubDate>Sat, 24 Oct 2026 19:18:18 +0000</pubDate><description><![CDATA[<p>ジェイルブレイクされた PS5 コンソールで Windows Steam ゲームをローカルで実行できるようになりました
-
-PS5 の脱獄シーンはほぼ毎週のように進歩を続けています。ジェイルブレイクされた PS5 では、PC ストリーミングを使用せずに、Steam ライブラリから Windows ゲームをダウンロードしてコンソール上でローカルに実行できるようになりました。その背後にあるツールは、開発者 leolabato のアルファ ランチャーである Playden for PS5 です。
-
-ジェイルブレイクされた PS5 コンソールで Windows Steam ゲームをローカルで実行できるようになりました
-
-2026 年 8 月 29 日 Piston V タッチスクリーン Bazzite Mini PC がキックスターターでメーカー希望小売価格 799 ドルで発売 (7)
-
-2026 年 4 月 13 日 Epic Games ストアの従業員: 無料ゲームのためだけに来て、その後 Steam に戻ってきた人々 (91)
-
-2026 年 4 月 28 日 Linux が PlayStation 5 で正式に利用可能になりました (22)
-
-2026 年 5 月 18 日 インサイダーは、ソニーが PC ポートを廃止することを認めています: 「PC に登場するシングル プレーヤー ゲームは少なくなるでしょう。」 (135)
-
-2026 年 9 月 30 日 新しい脱獄により、ほぼすべての PlayStation 5 モデルのロックが解除されます (10)
-
-2026 年 8 月 30 日 GTA 6 の公開後に PS5 Pro の在庫がなくなり、価格は 1,300 ドルに達しました (24)
-
-2026 年 5 月 27 日 リーカーが天文学的な蒸気機械の価格を示唆 (74)
-
-2025 年 12 月 14 日 Microsoft Copilot AI が LG TV に搭載、削除できない (144)
-
-2026 年 9 月 25 日 AnyPS5 プロジェクトはエミュ…</p><p><img src="https://www.techpowerup.com/img/cgjGU1VF6PKkh552.jpg" alt="ジェイルブレイクされた PS5 コンソールで Windows Steam ゲームをローカルで実行できるようになりました"></p>]]></description><source url="https://www.techpowerup.com/354104/jailbroken-ps5-consoles-can-now-run-windows-steam-games-locally">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/cgjGU1VF6PKkh552.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/cgjGU1VF6PKkh552.jpg"/></item>
-<item><title>New details on cancelled Mass Effect game revealed by franchise ambassador</title><link>https://www.tweaktown.com/rss/click/news/114277/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/114277/?c=news-mf</guid><pubDate>Sat, 24 Oct 2026 19:02:12 +0000</pubDate><description><![CDATA[<p>New details on cancelled Mass Effect game revealed by franchise ambassador</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/114277/?c=news-mf">TweakTown</source></item>
-<item><title>ADT R27A-BK3 U.2 - PCIe アダプターのレビュー</title><link>https://www.servethehome.com/adt-r27a-bk3-u-2-to-pcie-slot-review/</link><guid isPermaLink="true">https://www.servethehome.com/adt-r27a-bk3-u-2-to-pcie-slot-review/</guid><pubDate>Sat, 24 Oct 2026 18:55:55 +0000</pubDate><description><![CDATA[<p>ADT R27A-BK3 U.2 - PCIe アダプターのレビュー
-
-安価な ADT R27A-BK3 カードをテストして、U.2 SSD - PCIe カード スロット アダプターが何を提供するのか、また冷却がどのように機能するのかを確認します。
-
-ADT R27A-BK3 は、標準の PCIe スロットしかないシステムに U.2 NVMe SSD を追加するための安価な方法です。私たちはこのアダプター ファミリの EDSFF バージョンをテストしてきましたが、異なるコネクタとドライブ フォーム ファクターを使用しているため、U.2 バリアントがどのように動作するかを確認したいと考えていました。
-
-私たちが購入したものは、Amazon (アフィリエイトリンク) または AliExpress (アフィリエイトリンク) で見つけることができます。以前レビューした EDSFF バージョンを含め、さまざまなバージョンがあるため、正しいモデルを購入していることを確認してください。
-
-ADT R27A-BK3 U.2 - PCIe アダプターのレビュー
-
-金属シェルは全長の U.2 ドライブ、ブロワー ファン、アダプター PCB を囲む必要があるため、かなり大きくなります。
-
-上部には金属製のカバーだけがあります。シェルは構造的なサポートを提供し、ドライブ全体に空気の流れを導くのに役立ちます。
-
-I/O プレートは主にカードを所定の位置に保持し、空気の流れのための通気口を提供します。
-
-ユニットの背面にはネジと、標準の 4 ピン PWM コネクタを備えたファン ケーブルがあります。
-
-下端には PCIe Gen5 x4 ゴールドフィンガー コネクタが搭載されています。 ADT はこのアダプターの Gen4 バージョンも販売しているため、注文する前に必要な世代を確認してください。
-
-カバーを取り外すにはいくつかのネジが必要です。そうすれば、中に何が入っているかを見ることができます。
-
-まず、4 ピン PWM ブロワー ファンがあります。このボードには、SFF-8639 コネクタを…</p><p><img src="https://www.servethehome.com/wp-content/uploads/2026/10/ADT-R27A-BK3-U2-Top-1.jpg" alt="ADT R27A-BK3 U.2 - PCIe アダプターのレビュー"></p>]]></description><source url="https://www.servethehome.com/adt-r27a-bk3-u-2-to-pcie-slot-review/">ServeTheHome</source><media:content url="https://www.servethehome.com/wp-content/uploads/2026/10/ADT-R27A-BK3-U2-Top-1.jpg" medium="image"/><media:thumbnail url="https://www.servethehome.com/wp-content/uploads/2026/10/ADT-R27A-BK3-U2-Top-1.jpg"/></item>
-<item><title>AMD EPYC 9996 Geekbench リストで Zen 6 シングルコアの利点が一目瞭然</title><link>https://www.techpowerup.com/354103/amd-epyc-9996-geekbench-listing-offers-first-look-at-zen-6-single-core-gains</link><guid isPermaLink="true">https://www.techpowerup.com/354103/amd-epyc-9996-geekbench-listing-offers-first-look-at-zen-6-single-core-gains</guid><pubDate>Sat, 24 Oct 2026 18:42:05 +0000</pubDate><description><![CDATA[<p>AMD EPYC 9996 Geekbench リストで Zen 6 シングルコアの利点が一目瞭然
-
-AMD の Zen 6 は、Zen 5 とのクロックごとの大まかな比較を初めて行ったところですが、初期の数値は良好なようです。リーカー HXL は、AMD が 7 月に発売したフラッグシップ「Venice」チップである 256 コア EPYC 9996 の Geekbench 7.1.0 リストを発見し、Dell PowerEdge R9815 のシングルコアで 2,847 ポイントを獲得しました...
-
-AMD EPYC 9996 Geekbench リストで Zen 6 シングルコアの利点が一目瞭然
-
-2026 年 8 月 28 日 Piston V タッチスクリーン Bazzite Mini PC がキックスターターでメーカー希望小売価格 799 ドルで発売 (7)
-
-2026 年 9 月 17 日 AMD、GPU、チップセット、そしておそらく CPU 全体で 10% の価格引き上げを計画 (92)
-
-2026 年 5 月 31 日 AMD が Ryzen 7 5800X3D 10th Anniversary Edition と Ryzen 7 7700X3D を正式発表 (171)
-
-2025 年 12 月 31 日 AI 業界の需要のおかげで、2026 年に 5000 ドルの RTX 5090 GPU が登場するとリークが予測 (124)
-
-2026 年 4 月 16 日 AMD、Ryzen 7 5800X3D を「AM4 10th Anniversary Edition」として再発売 (198)
-
-2026 年 5 月 27 日 リーカーが天文学的な蒸気機械の価格を示唆 (74)
-
-2026 年 6 月 16 日 AMD Ryzen 10000 シリーズ「Olympic Ridge」は統合グラフィックスを NPU と交換できる可能性 (135)
-
-2026 年 2 月 19 日 AMD Ryzen 10000「Olympic Ridge」が 6/8/10/1…</p><p><img src="https://www.techpowerup.com/img/pnTW2gN5iL2kvByS.jpg" alt="AMD EPYC 9996 Geekbench リストで Zen 6 シングルコアの利点が一目瞭然"></p>]]></description><source url="https://www.techpowerup.com/354103/amd-epyc-9996-geekbench-listing-offers-first-look-at-zen-6-single-core-gains">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/pnTW2gN5iL2kvByS.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/pnTW2gN5iL2kvByS.jpg"/></item>
-<item><title>Amazon&#39;s Fire HD 10 tablet has been marked down to a throwaway $72 for a limited time</title><link>https://www.tweaktown.com/rss/click/news/114271/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/114271/?c=news-mf</guid><pubDate>Sat, 24 Oct 2026 17:50:09 +0000</pubDate><description><![CDATA[<p>Amazon&#39;s Fire HD 10 tablet has been marked down to a throwaway $72 for a limited time</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/114271/?c=news-mf">TweakTown</source></item>
-<item><title>この 39.99 ドルの AI ツールは、ストーリーのアイデアを印刷可能なイラスト本に変えます</title><link>https://www.techpowerup.com/353931/this-usd-39-99-ai-tool-turns-your-story-ideas-into-print-ready-illustrated-books</link><guid isPermaLink="true">https://www.techpowerup.com/353931/this-usd-39-99-ai-tool-turns-your-story-ideas-into-print-ready-illustrated-books</guid><pubDate>Sat, 24 Oct 2026 17:35:45 +0000</pubDate><description><![CDATA[<p>この 39.99 ドルの AI ツールは、ストーリーのアイデアを印刷可能なイラスト本に変えます
-
-AI 画像ジェネレーターはキャラクターを 1 回描画できますが、そのキャラクターの外観を 12 ページ全体にわたって一貫性を保つには、通常、画像を繰り返し再生成する必要があります。これらの画像をレイアウトされた本に変換するには、それに加えて別のプログラムが必要です。 IllustratorMagic はストーリー、イラスト、ページを生成します...
-
-2026 年 10 月 24 日土曜日、この 39.99 ドルの AI ツールは、ストーリーのアイデアを印刷可能なイラスト付きの本に変えます
-
-インテル Arc および iGPU 101.9150 WHQL
-
-23:03 by AusWolf AIバブル崩壊が進行中？ ( 69 )
-
-22:58 by AusWolf 9800X3D の温度が突然上昇 ( 15 )
-
-22:56 by Ruru Game Soundtracks You Love ( 1277 )
-
-22:55 by shuffy_losys SSD: Q1T1 R4K では 100 ～ 700 倍高速、ラージ シーケンシャルでは 2 ～ 50 倍高速: ( 4 )
-
-20:11 by Dorek ゲームだけでなく一般用途やビデオ用の新しいモニターを選ぶのを手伝ってください ( 19 )
-
-19:58 by Dr. Dro ガチャ ゲーム - ディスカッション、プル、アップデートなど ( 1135 )
-
-18:24 by freeagent コンピューターに使用しているスピーカーは何ですか ( 316 )
-
-17:00 by Wirko 技術問題 - TPU メインサイト &amp; フォーラム (2026) ( 398 )
-
-16:41 by Apocalypsee Serious Sam ファンは知ってうれしいでしょう... ( 7 )
-
-16:34 by erocker RTX 4090 不足電圧 - アフターバーナー曲線が 2580 MHz ではなく 2520 …</p><p><img src="https://www.techpowerup.com/img/5VFDr21mU89xNZn0.jpg" alt="この 39.99 ドルの AI ツールは、ストーリーのアイデアを印刷可能なイラスト本に変えます"></p>]]></description><source url="https://www.techpowerup.com/353931/this-usd-39-99-ai-tool-turns-your-story-ideas-into-print-ready-illustrated-books">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/5VFDr21mU89xNZn0.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/5VFDr21mU89xNZn0.jpg"/></item>
 </channel></rss>
