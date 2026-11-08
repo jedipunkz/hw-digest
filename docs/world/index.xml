@@ -1,6 +1,165 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sun, 08 Nov 2026 02:29:22 +0000</lastBuildDate>
+<title>世界のハードウェア情報</title><description>PC自作・コンポーネント・モバイルの海外ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sun, 08 Nov 2026 10:20:32 +0000</lastBuildDate>
+<item><title>ESP32 上の適切な Linux</title><link>https://hackaday.com/2026/11/07/proper-linux-on-an-esp32/</link><guid isPermaLink="true">https://hackaday.com/2026/11/07/proper-linux-on-an-esp32/</guid><pubDate>Sat, 07 Nov 2026 21:00:19 +0000</pubDate><description><![CDATA[<p>ESP32 上の適切な Linux
+
+ESP32 シリーズのマイクロコントローラーは、これらのページで多くの機能を備えており、非常に強力なプロセッサーと、ほとんどの場合ワイヤレス接続を提供します。最近困惑しているメンバーの 1 人が…
+
+ESP32 シリーズのマイクロコントローラーは、これらのページで多くの機能を備えており、非常に強力なプロセッサーと、ほとんどの場合ワイヤレス接続を提供します。困惑するほど大規模なファミリーの最近のメンバーの 1 つは ESP32-S31 です。これは WiFi 6 を備えたデュアルコア RISC-V ユニットです。それだけでは十分に興味がなければ、Linux を実行しているというニュースもあります。 -nommu Linux ではなく、メモリ管理ユニットを備えているフルファット バージョンです。
+
+最高のエクスペリエンスを想像する前に、利用可能なリソースがコンピューティング能力に関してはあまり役に立たないことを思い出してください。ただし、Espressif GitHub リポジトリがあり、6.x カーネルのポートで動作するため、それを使用して何かできるはずです。 AliExpress をざっと見てみると、さまざまな価格の開発ボードが見つかるので、実験のコストはそれほど高くないはずです。
+
+マイクロコントローラーとフルファット SoC の道が交差し始めるこの瞬間は、かなり長い間予想されており、ついにそれが到来するのを見るのは興奮しています。これと競合する同様のチップがさらに登場し、さらにパワーアップすることが期待されます。一方、S31 の発売に関する記事を参照してください。</p><p><img src="https://hackaday.com/wp-content/uploads/2026/04/esp32_s31_espressif.jpg" alt="ESP32 上の適切な Linux"></p>]]></description><source url="https://hackaday.com/2026/11/07/proper-linux-on-an-esp32/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/04/esp32_s31_espressif.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/04/esp32_s31_espressif.jpg"/></item>
+<item><title>NVIDIA、GeForce 8800 GTX の 20 周年を記念して、無料のパス トレース Steam デモを実施</title><link>https://www.techpowerup.com/354571/nvidia-marks-20-years-of-the-geforce-8800-gtx-with-a-free-path-traced-steam-demo</link><guid isPermaLink="true">https://www.techpowerup.com/354571/nvidia-marks-20-years-of-the-geforce-8800-gtx-with-a-free-path-traced-steam-demo</guid><pubDate>Sat, 07 Nov 2026 20:27:59 +0000</pubDate><description><![CDATA[<p>NVIDIA、GeForce 8800 GTX の 20 周年を記念して、無料のパス トレース Steam デモを実施
+
+NVIDIA は、2006 年 11 月 8 日に店頭に並んだ GeForce 8800 GTX の 20 周年を記念し、Steam で無料の技術デモを実施しています。 GeForce 8800 GTX - 20 Years of a Legend と呼ばれるこの製品は、NVIDIA のサポートを受けて、Through The Ages の開発者である Unreal Engine アーティストの Dylan Browne によって作成されました。
+
+NVIDIA、GeForce 8800 GTX の 20 周年を記念して、無料のパス トレース Steam デモを実施
+
+2026 年 3 月 30 日 NVIDIA が、RT パフォーマンスを大幅に向上させた Rubin ベースの GeForce RTX 60 シリーズをリリース (162)
+
+2026 年 10 月 25 日 GeForce のロック解除: 改造者が RTX 20、RTX 30、および RTX 40 のコンピューティング パフォーマンスを最大 2 倍に向上 (59)
+
+2026 年 1 月 16 日 NVIDIA が GeForce RTX 5070 Ti の生産を終了、RTX 5060 Ti 16 GB Next (210) と伝えられる
+
+2026 年 11 月 3 日 NVIDIA GeForce RTX 50 シリーズ、今週最大 500 ドルの値上げが予定 (82)
+
+2026 年 10 月 10 日 NVIDIA が RTX 5090 を終了、ワークステーション GPU 用に GB202 シリコンを確保 (228)
+
+2026 年 7 月 10 日 NVIDIA が GeForce RTX 5090 SE グラフィックス カードを準備 (180)
+
+2026 年 4 月 13 日 Epic Games ストアの従業員: 無料ゲームのためだけに来て、その後 Steam に戻って…</p><p><img src="https://www.techpowerup.com/img/t4ndXjSETeXoM862.jpg" alt="NVIDIA、GeForce 8800 GTX の 20 周年を記念して、無料のパス トレース Steam デモを実施"></p>]]></description><source url="https://www.techpowerup.com/354571/nvidia-marks-20-years-of-the-geforce-8800-gtx-with-a-free-path-traced-steam-demo">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/t4ndXjSETeXoM862.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/t4ndXjSETeXoM862.jpg"/></item>
+<item><title>ゼルダ：時のオカリナリメイクが脱獄したPS5とiPhone 17 Pro Maxで起動するようになりました</title><link>https://www.techpowerup.com/354569/zelda-ocarina-of-time-remake-now-boots-on-jailbroken-ps5-and-iphone-17-pro-max</link><guid isPermaLink="true">https://www.techpowerup.com/354569/zelda-ocarina-of-time-remake-now-boots-on-jailbroken-ps5-and-iphone-17-pro-max</guid><pubDate>Sat, 07 Nov 2026 19:55:41 +0000</pubDate><description><![CDATA[<p>ゼルダ：時のオカリナリメイクが脱獄したPS5とiPhone 17 Pro Maxで起動するようになりました
+
+任天堂の『ゼルダ: 時のオカリナ』リメイク版は 11 月 5 日に Switch 2 で発売され、すでにジェイルブレイクされた PlayStation 5 と iPhone で動作しています。 PS5 では、Vampinity が、Eden をベースにした Switch エミュレーターの PS5 移植版である EglantinePS5 の結果を GitHub リポジトリに投稿しました。ファームウェア 12.40 では、...
+
+ゼルダ：時のオカリナリメイクが脱獄したPS5とiPhone 17 Pro Maxで起動するようになりました
+
+2026 年 4 月 28 日 Linux が PlayStation 5 で正式に利用可能になりました (23)
+
+2026 年 9 月 30 日 新しい脱獄により、ほぼすべての PlayStation 5 モデルのロックが解除されます (10)
+
+2026 年 8 月 30 日 GTA 6 の公開後に PS5 Pro の在庫がなくなり、価格は 1,300 ドルに達しました (24)
+
+2026 年 5 月 18 日 インサイダーは、ソニーが PC ポートを廃止することを認めています: 「PC に登場するシングル プレイヤー ゲームは少なくなるでしょう。」 (135)
+
+2026 年 10 月 27 日 RecompLauncher が 200 近くのファンメイドのコンソール ポートを 1 台の PC カタログに収集 (1)
+
+2026 年 10 月 17 日 PS6 の RAM とストレージだけでソニーのコストは 680 ドル以上だとリーカーが主張 (46)
+
+2026 年 11 月 2 日 RPCS3 エミュレーターは進歩しています: 「ロード可能」カテゴリーは完全にクリアされました (11)
+
+2026 年 11 月 5 日 ゼルダ: 時のオカリナのリメイクが発売日に Switch 2 エミュレータを介して PC で実行 …</p><p><img src="https://www.techpowerup.com/img/Wao4B6qpZKrgYKr2.jpg" alt="ゼルダ：時のオカリナリメイクが脱獄したPS5とiPhone 17 Pro Maxで起動するようになりました"></p>]]></description><source url="https://www.techpowerup.com/354569/zelda-ocarina-of-time-remake-now-boots-on-jailbroken-ps5-and-iphone-17-pro-max">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/Wao4B6qpZKrgYKr2.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/Wao4B6qpZKrgYKr2.jpg"/></item>
+<item><title>This ASUS CX14 Chromebook won&#39;t win the benchmark wars, but for $179 ($200 off) at Best Buy, you wouldn&#39;t expect it to</title><link>https://www.tweaktown.com/rss/click/news/114539/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/114539/?c=news-mf</guid><pubDate>Sat, 07 Nov 2026 19:31:03 +0000</pubDate><description><![CDATA[<p>This ASUS CX14 Chromebook won&#39;t win the benchmark wars, but for $179 ($200 off) at Best Buy, you wouldn&#39;t expect it to</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/114539/?c=news-mf">TweakTown</source></item>
+<item><title>手作りの誘導はんだごてを作る</title><link>https://hackaday.com/2026/11/07/building-a-homemade-induction-soldering-iron/</link><guid isPermaLink="true">https://hackaday.com/2026/11/07/building-a-homemade-induction-soldering-iron/</guid><pubDate>Sat, 07 Nov 2026 19:30:38 +0000</pubDate><description><![CDATA[<p>手作りの誘導はんだごてを作る
+
+本質的に電気を熱に変換する能力が優れているわけではないにもかかわらず、誘導加熱はんだごては、同じ電力定格の従来のはんだごてよりも大幅に優れていることがよくあります。彼らは…
+
+本質的に電気を熱に変換する能力が優れているわけではないにもかかわらず、誘導加熱はんだごては、同じ電力定格の従来のはんだごてよりも大幅に優れていることがよくあります。彼らは、ヒーターカートリッジからの熱をさらに奥に伝導するのではなく、内部の誘導コイルでアイロンの先端を直接加熱することによってこれを管理しています。この設計により、誘導アイロンは非常に応答性が高く、安定しており、残念ながら高価になります。しかし、[Frank Zhao] は、自分で 2 つの誘導はんだごてを設計し、製造することに成功しました。
+
+ある意味、誘導加熱はんだごてのハンドピースは抵抗ごてよりも単純です。誘導電源のはんだごてには、温度センサーや電子温度制御機能がありません。代わりに、チップの温度はカートリッジの材質のキュリー点によって設定されます。カートリッジがこの温度に達すると、加熱効率が急激に低下します。この自己規制は、プロジェクトの複雑さのほとんどが、誘導コイルに RF 信号を供給する電源に含まれていることを意味します。
+
+ここで、[フランク] は以前に 2 つのプロジェクトに取り組んでおり、それぞれに 1 つのデザインを基づいていました。 1 つ目は [SergeyMax] の作品で、彼は Metcal のはんだごてをリバースエンジニアリングし、それをベースにして独自の誘導ごてを製作しました。ただし、これはロシア国外では入手困難なコンポーネントに依存していたため、[フランク] はアメリカで入手可能なパーツを使用するように更新しました。 13.56 MHz の周波数と F 型コネクタを使用しているため、Hakko や Metcal などの多くの市販メーカーのハンドピース アセンブリと互換性があります。携帯性を高めるため、XT30 コネクタまたは USB-PD 経由で電源を供給でき、コンパクト…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/11/induction_soldering_iron.png" alt="手作りの誘導はんだごてを作る"></p>]]></description><source url="https://hackaday.com/2026/11/07/building-a-homemade-induction-soldering-iron/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/11/induction_soldering_iron.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/11/induction_soldering_iron.png"/></item>
+<item><title>アサシン クリードのコードネーム「マース」がシリーズを古代ローマに連れて行くと伝えられている</title><link>https://www.techpowerup.com/354568/assassins-creed-codename-mars-reportedly-takes-the-series-to-ancient-rome</link><guid isPermaLink="true">https://www.techpowerup.com/354568/assassins-creed-codename-mars-reportedly-takes-the-series-to-ancient-rome</guid><pubDate>Sat, 07 Nov 2026 19:21:01 +0000</pubDate><description><![CDATA[<p>アサシン クリードのコードネーム「マース」がシリーズを古代ローマに連れて行くと伝えられている
+
+伝えられるところによると、ユービーアイソフトはさらに 2 本の未発表のアサシン クリード ゲームを開発中で、そのうちの 1 つはシリーズを古代ローマに戻します。 Ubisoft のリークで実績のあるフランスのコンテンツ クリエイター j0nathan 氏は、11 月 6 日のビデオで、Rome プロジェクトのコードネームは「Mars」であり、その 2 つ...
+
+アサシン クリードのコードネーム「マース」がシリーズを古代ローマに連れて行くと伝えられている
+
+2025 年 12 月 31 日 AI 業界の需要のおかげで、2026 年に 5000 ドルの RTX 5090 GPU が登場するとリークが予測 (128)
+
+2026 年 3 月 6 日 PlayStation 6 のリークヒント 4K 120 FPS は「ほとんどのゲームで」PS5 の 6 ～ 12 倍の RT パフォーマンスを実現 (116)
+
+2026 年 10 月 29 日 ブラック フラッグが再同期された後、ユービーアイソフトは他の『アサシン クリード』リメイク作品の開発を進めていない (2)
+
+2026 年 3 月 21 日 Microsoft、「Microslop」批判に応えて Windows 11 の多数の変更を約束 (208)
+
+2026 年 7 月 15 日 Assassin&#39;s Creed Hexe リーク: 価格、発売日、DLC の詳細が明らかに (5)
+
+2026 年 10 月 15 日 中国でキャンセルされた「アサシン クリード デスティニー」ゲームがスクリーンショットで明らかに (10)
+
+2026 年 10 月 11 日 KINGPIN は、NVIDIA とのコネクタ紛争が EVGA の最後のフラッグシップ カードを狂わせたと語る (59)
+
+2026 年 6 月 10 日 ユービーアイソフト、複数のスタジオで数百人のスタッフを解雇 (57)
+
+2026 年 10 月 12 日 NVID…</p><p><img src="https://www.techpowerup.com/img/2ObP73nPUNKRYGKn.jpg" alt="アサシン クリードのコードネーム「マース」がシリーズを古代ローマに連れて行くと伝えられている"></p>]]></description><source url="https://www.techpowerup.com/354568/assassins-creed-codename-mars-reportedly-takes-the-series-to-ancient-rome">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/2ObP73nPUNKRYGKn.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/2ObP73nPUNKRYGKn.jpg"/></item>
+<item><title>カスタム ホグワーツ レガシー RTX 5090 ファウンダーズ エディションが 11 月 12 日まで入手可能</title><link>https://www.techpowerup.com/354567/custom-hogwarts-legacy-rtx-5090-founders-edition-up-for-grabs-until-november-12</link><guid isPermaLink="true">https://www.techpowerup.com/354567/custom-hogwarts-legacy-rtx-5090-founders-edition-up-for-grabs-until-november-12</guid><pubDate>Sat, 07 Nov 2026 18:55:11 +0000</pubDate><description><![CDATA[<p>カスタム ホグワーツ レガシー RTX 5090 ファウンダーズ エディションが 11 月 12 日まで入手可能
+
+NVIDIA は、11 月 5 日にゲームに DLSS 5 が登場することを記念して、カスタム ホグワーツ レガシー ラップ付きの GeForce RTX 5090 Founders Edition をプレゼントします。参加するには、ユーザーは、X、Instagram、Facebook、または TikTok 上の NVIDIA GeForce アカウントのいずれかで公式プレゼント投稿を見つけて、コメントする必要があります...
+
+カスタム ホグワーツ レガシー RTX 5090 ファウンダーズ エディションが 11 月 12 日まで入手可能
+
+2026 年 10 月 10 日 NVIDIA が RTX 5090 を終了、ワークステーション GPU 用に GB202 シリコンを確保 (228)
+
+2026 年 3 月 30 日 NVIDIA が、RT パフォーマンスを大幅に向上させた Rubin ベースの GeForce RTX 60 シリーズをリリース (162)
+
+2026 年 11 月 3 日 NVIDIA GeForce RTX 50 シリーズ、今週最大 500 ドルの値上げが予定 (82)
+
+2026年10月1日 マイクロンCEO、2027年と2028年のメモリ供給は2026年よりもかなり逼迫すると語る (67)
+
+2026 年 10 月 25 日 GeForce のロック解除: 改造者が RTX 20、RTX 30、および RTX 40 のコンピューティング パフォーマンスを最大 2 倍に向上 (59)
+
+2026 年 1 月 16 日 NVIDIA が GeForce RTX 5070 Ti の生産を終了、RTX 5060 Ti 16 GB Next (210) と伝えられる
+
+2026 年 7 月 10 日 NVIDIA が GeForce RTX 5090 SE グラフィックス カードを準備 (180)
+
+2025 年 12 月 31 日 …</p><p><img src="https://www.techpowerup.com/img/DoAydH2fxHES8KuO.jpg" alt="カスタム ホグワーツ レガシー RTX 5090 ファウンダーズ エディションが 11 月 12 日まで入手可能"></p>]]></description><source url="https://www.techpowerup.com/354567/custom-hogwarts-legacy-rtx-5090-founders-edition-up-for-grabs-until-november-12">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/DoAydH2fxHES8KuO.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/DoAydH2fxHES8KuO.jpg"/></item>
+<item><title>Waveshare が ESP32-S31-Zero を発売</title><link>https://www.hackster.io/news/waveshare-launches-the-esp32-s31-zero-fcceffc58d65</link><guid isPermaLink="true">https://www.hackster.io/news/waveshare-launches-the-esp32-s31-zero-fcceffc58d65</guid><pubDate>Sat, 07 Nov 2026 18:30:20 +0000</pubDate><description><![CDATA[<p>Waveshare が ESP32-S31-Zero を発売
+
+Waveshare の小型 ESP32-S31-Zero には、320 MHz デュアルコア RISC-V プロセッサ、Wi-Fi 6、Bluetooth 5.4、および最大 32 MB の PSRAM が搭載されています。
+
+メーカーが機能を追加するにつれて開発ボードのサイズが大きくなる傾向がありますが、Waveshare は新しい ESP32-S31-Zero で小さな設置面積に多くの機能を詰め込んでいます。わずか 28 × 18 mm のこの小さなボードには、強力なプロセッサ、複数のワイヤレス接続オプション、最大 32 MB の PSRAM が搭載されています。それでも、ほぼすべての組み込みプロジェクトに適合するのに十分な大きさです。
+
+このボードは、最大 320 MHz で動作するデュアルコア 32 ビット RISC-V プロセッサを含む、Espressif の新しい ESP32-S31 マイクロコントローラを中心に構築されています。また、バッテリーを消耗させることなく、要求の低いタスクを処理するための専用の低電力 RISC-V コアもあります。このチップには 512 KB の SRAM、さらに 32 KB の低電力 SRAM、および 320 KB の ROM が含まれています。
+
+構成に応じて、ボードには 16 MB または 32 MB の PSRAM が搭載されており、16 MB または 32 MB の SPI フラッシュ ストレージと組み合わせられます。これは、このような小型デバイスとしてはかなり大量のメモリであり、グラフィカル インターフェイス、データ処理、および一般的なマイクロコントローラーが提供できるよりも多くのリソースを必要とするその他のアプリケーションを含むプロジェクトに適しています。
+
+ワイヤレス接続もこのボードの強みです。 ESP32-S31-Zero は、2.4 GHz Wi-Fi 6、Bluetooth 5.4 Low Energy、Bluetooth Classic、および…</p><p><img src="https://hackster.imgix.net/uploads/attachments/2018301/_UA9GgH2kiD.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" alt="Waveshare が ESP32-S31-Zero を発売"></p>]]></description><source url="https://www.hackster.io/news/waveshare-launches-the-esp32-s31-zero-fcceffc58d65">Hackster.io</source><media:content url="https://hackster.imgix.net/uploads/attachments/2018301/_UA9GgH2kiD.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min" medium="image"/><media:thumbnail url="https://hackster.imgix.net/uploads/attachments/2018301/_UA9GgH2kiD.blob?auto=compress%2Cformat&amp;w=600&amp;h=450&amp;fit=min"/></item>
+<item><title>Intel Razor Lake-S は、LGA-1954 で 2028 年にリリース予定と伝えられている</title><link>https://www.techpowerup.com/354565/intel-razor-lake-s-reportedly-due-in-2028-on-lga-1954</link><guid isPermaLink="true">https://www.techpowerup.com/354565/intel-razor-lake-s-reportedly-due-in-2028-on-lga-1954</guid><pubDate>Sat, 07 Nov 2026 18:23:26 +0000</pubDate><description><![CDATA[<p>Intel Razor Lake-S は、LGA-1954 で 2028 年にリリース予定と伝えられている
+
+Intelの著名リーカーJaykihn氏によると、Nova Lake-Sの次の世代であるIntelのRazor Lakeデスクトッププロセッサは現在2028年に発売される予定だという。 X で Razor Lake-S が 2027 年に計画されているかどうか尋ねられたとき、Jaykihn 氏は「現時点では計画されていない」と答え、その後、Razor Lake は 2028 年であると述べました...
+
+Intel Razor Lake-S は、LGA-1954 で 2028 年にリリース予定と伝えられている
+
+2026 年 9 月 17 日 AMD、GPU、チップセット、そしておそらく CPU 全体で 10% の価格引き上げを計画 (92)
+
+2026 年 10 月 10 日 NVIDIA が RTX 5090 を終了、ワークステーション GPU 用に GB202 シリコンを確保 (228)
+
+2026 年 7 月 3 日 インテル、ゲーム向けに 108 MB bLLC キャッシュを備えた 2 つの 22 コア「Nova Lake-S」SKU を準備 (279)
+
+2026 年 10 月 1 日 28 コア 4970K BFC を搭載した Intel Core Ultra 4000「Nova Lake-S」ラインナップがリーク (103)
+
+2026 年 1 月 23 日 インテル Core Ultra シリーズ 4 「Nova Lake」プロセッサーが 2026 年後半に発売 (62)
+
+2026年9月7日 インテル、10月にCPU価格をさらに10%値上げ予定 (47)
+
+2026 年 11 月 5 日 CPUID が Intel Razor Lake 向け CPU-Z を準備、2 世代が終了 (0)
+
+2026 年 6 月 26 日 Intel「Nova Lake-S」52 コア OC SKU が PL2 モードで 474 W を消費 (292)
+
+202…</p><p><img src="https://www.techpowerup.com/img/BHJaAEL6y5SfbUL9.jpg" alt="Intel Razor Lake-S は、LGA-1954 で 2028 年にリリース予定と伝えられている"></p>]]></description><source url="https://www.techpowerup.com/354565/intel-razor-lake-s-reportedly-due-in-2028-on-lga-1954">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/BHJaAEL6y5SfbUL9.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/BHJaAEL6y5SfbUL9.jpg"/></item>
+<item><title>スーパーコン 2026: ストリーミング ライブ</title><link>https://hackaday.com/2026/11/07/supercon-2026-streaming-live/</link><guid isPermaLink="true">https://hackaday.com/2026/11/07/supercon-2026-streaming-live/</guid><pubDate>Sat, 07 Nov 2026 18:00:38 +0000</pubDate><description><![CDATA[<p>スーパーコン 2026: ストリーミング ライブ
+
+2026 年スーパーコンにパサデナで開催される皆さんにぜひご参加いただきたいと思っていますが、次善の策は、インターネットの魔法を使ってリモートでお祭りに参加することです。メインステージのトークは…
+
+パサデナのスーパーコン 2026 に皆さんにもぜひご参加いただきたいと思っていますが、次善の策は、インターネットの魔法を使ってリモートでお祭りに参加することです。メイン ステージのトーク (ラマー) は YouTube チャンネルにライブ配信されますが、セカンド ステージ (ホッパー) で行われるトークは録画され、その後投稿されます。
+
+そこにいるほどの没入感はありませんが、世界中のお気に入りの人々と仮想的に肩を並べたい場合は、公式 Hackaday Discord サーバーの #supercon-chat チャンネルに参加することもできます。</p><p><img src="https://hackaday.com/wp-content/uploads/2025/10/2025_hackaday_supercon_banner_thumbnail.png" alt="スーパーコン 2026: ストリーミング ライブ"></p>]]></description><source url="https://hackaday.com/2026/11/07/supercon-2026-streaming-live/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2025/10/2025_hackaday_supercon_banner_thumbnail.png" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2025/10/2025_hackaday_supercon_banner_thumbnail.png"/></item>
+<item><title>Among Us chat leads FBI to Utah teen allegedly held captive for 521 days in Oregon</title><link>https://www.tweaktown.com/rss/click/news/114536/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/114536/?c=news-mf</guid><pubDate>Sat, 07 Nov 2026 17:40:13 +0000</pubDate><description><![CDATA[<p>Among Us chat leads FBI to Utah teen allegedly held captive for 521 days in Oregon</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/114536/?c=news-mf">TweakTown</source></item>
+<item><title>The Ryzen 7 5800X3D drops to just $279, its lowest price since AMD re-launched the chip</title><link>https://www.tweaktown.com/rss/click/news/114532/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/114532/?c=news-mf</guid><pubDate>Sat, 07 Nov 2026 17:15:07 +0000</pubDate><description><![CDATA[<p>The Ryzen 7 5800X3D drops to just $279, its lowest price since AMD re-launched the chip</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/114532/?c=news-mf">TweakTown</source></item>
+<item><title>This G.Skill 2 x 16GB DDR4-3200 kit for $209 spares your wallet from the worst of the RAMpocalypse</title><link>https://www.tweaktown.com/rss/click/news/114518/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/114518/?c=news-mf</guid><pubDate>Sat, 07 Nov 2026 16:57:16 +0000</pubDate><description><![CDATA[<p>This G.Skill 2 x 16GB DDR4-3200 kit for $209 spares your wallet from the worst of the RAMpocalypse</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/114518/?c=news-mf">TweakTown</source></item>
+<item><title>Zelda: Ocarina of Time remake runs natively on Mac at 60 FPS, days after its Switch 2 launch</title><link>https://www.tweaktown.com/rss/click/news/114534/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/114534/?c=news-mf</guid><pubDate>Sat, 07 Nov 2026 16:45:03 +0000</pubDate><description><![CDATA[<p>Zelda: Ocarina of Time remake runs natively on Mac at 60 FPS, days after its Switch 2 launch</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/114534/?c=news-mf">TweakTown</source></item>
+<item><title>ポラロイド 630 SL ライトミキサー インスタント カメラの修理</title><link>https://hackaday.com/2026/11/07/repairing-a-polaroid-630-sl-lightmixer-instant-camera/</link><guid isPermaLink="true">https://hackaday.com/2026/11/07/repairing-a-polaroid-630-sl-lightmixer-instant-camera/</guid><pubDate>Sat, 07 Nov 2026 16:30:03 +0000</pubDate><description><![CDATA[<p>ポラロイド 630 SL ライトミキサー インスタント カメラの修理
+
+デジタル カメラが登場する前は、フィルムを 1 本も現像せずに数枚の写真を撮りたい場合は、何らかのインスタント カメラを使用していました。ポラロイド 630 SL ライト…
+
+デジタル カメラが登場する前は、フィルムを 1 本も現像せずに数枚の写真を撮りたい場合は、何らかのインスタント カメラを使用していました。 [Odd Tinkering] が最近のビデオで紹介している Polaroid 630 SL Lightmixer は、80 年代後半から 90 年代前半のインスタント カメラの好例です。大衆向けの製品なので、少し壊れたものを 10 ドルで購入し、興味深い修理と修復のプロジェクトになると考えました。
+
+筐体や機構に依然として金属などが多用されていた1970年代のインスタントカメラとは異なり、この600シリーズのカメラはほぼオールプラスチック製だ。 1986 年から 1992 年にかけて実質的に同一の Lightmixer 630 と同様に製造されたこの製品は、明らかに簡単に組み立てられるように設計されており、プラスチックのクリップで全体が固定されています。
+
+壊れた状態で販売されていたこのマシンの症状は、主にトリガー ボタンの問題と、自動的にショットを撃つことに関するものでした。フラッシュが機能しないこの問題は、単に一部のコネクタの腐食が原因であることが判明しましたが、これらの部品に到達するだけでも、プラスチックを壊さないように何時間もイライラしてこじ開ける必要がありました。こうした暴力のどこかで、フラッシュ用の内部スイッチ（曲がった銅片で構成されている）も壊れてしまいました。
+
+壊れたストリップをパッチしてろう付けして元に戻し、腐食を取り除き、外殻の塗装を修正したことで、1990 年頃とほぼ同じように機能し、見た目も変わりません。レトロノスタルジーの要素が人々をこれらのマシンに引き戻し続けているようで、新しいモデルがさまざまな装いで生産され続けているため、現在でも 600 シリーズのフィ…</p><p><img src="https://hackaday.com/wp-content/uploads/2026/11/polaroid_630_sl_instant_camera_odd_tinkering_youtube.jpg" alt="ポラロイド 630 SL ライトミキサー インスタント カメラの修理"></p>]]></description><source url="https://hackaday.com/2026/11/07/repairing-a-polaroid-630-sl-lightmixer-instant-camera/">Hackaday</source><media:content url="https://hackaday.com/wp-content/uploads/2026/11/polaroid_630_sl_instant_camera_odd_tinkering_youtube.jpg" medium="image"/><media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/11/polaroid_630_sl_instant_camera_odd_tinkering_youtube.jpg"/></item>
 <item><title>WoW Forever makes history with record concurrent players at launch</title><link>https://www.tweaktown.com/rss/click/news/114537/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/114537/?c=news-mf</guid><pubDate>Sat, 07 Nov 2026 16:10:11 +0000</pubDate><description><![CDATA[<p>WoW Forever makes history with record concurrent players at launch</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/114537/?c=news-mf">TweakTown</source></item>
 <item><title>ASRock Rack DMRD16-2L+ Spotted with 16 DDR5 Slots for Diamond Rapids</title><link>https://www.servethehome.com/asrock-rack-dmrd16-2l-plus-diamond-rapids-ocp-summit-2026/</link><guid isPermaLink="true">https://www.servethehome.com/asrock-rack-dmrd16-2l-plus-diamond-rapids-ocp-summit-2026/</guid><pubDate>Sat, 07 Nov 2026 16:00:55 +0000</pubDate><description><![CDATA[<p>ASRock Rack DMRD16-2L+ Spotted with 16 DDR5 Slots for Diamond Rapids
 
@@ -114,17 +273,6 @@ Does TSMC need DRAM to capitalize on DRAM?
 (Image credit: TSMC) Copy link
 
 0 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter A recent report from The Information suggested that TSMC is exploring 3D DRAM production at Nvidia&#39;s request as surging demand for AI hardware strains global DRAM supplies and drives up prices. If the proposal were to come to fruition, it could mean a new, albeit prone to cyclical risks, business for TSMC and could dramatically expand its role in the AI supply chain. For its part, TSMC states that it is…</p><p><img src="https://cdn.mos.cms.futurecdn.net/inWCPzXNVFbyYDRmxtthn3-970-80.jpg" alt="TSMC denies exploring 3D DRAM at Nvidia&#39;s request"></p>]]></description><source url="https://www.tomshardware.com/pc-components/dram/tsmc-denies-exploring-3d-dram-at-nvidias-request-advanced-memory-tech-is-still-years-from-market-viability">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/inWCPzXNVFbyYDRmxtthn3-970-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/inWCPzXNVFbyYDRmxtthn3-970-80.jpg"/></item>
-<item><title>Enthusiast abandons self-hosted Microsoft Exchange after 27 years, moving mailboxes to Microsoft 365</title><link>https://www.tomshardware.com/software/enthusiast-abandons-self-hosted-microsoft-exchange-after-27-years-moving-mailboxes-to-microsoft-365-replaces-final-on-premises-relay-with-postfix-starttls-and-lets-encrypt-certificates</link><guid isPermaLink="true">https://www.tomshardware.com/software/enthusiast-abandons-self-hosted-microsoft-exchange-after-27-years-moving-mailboxes-to-microsoft-365-replaces-final-on-premises-relay-with-postfix-starttls-and-lets-encrypt-certificates</guid><pubDate>Sat, 07 Nov 2026 12:30:00 +0000</pubDate><description><![CDATA[<p>Enthusiast abandons self-hosted Microsoft Exchange after 27 years, moving mailboxes to Microsoft 365
-
-Postfix replaces 27-year-old Microsoft Exchange server after mailbox migration to Microsoft 365
-
-Enthusiast abandons self-hosted Microsoft Exchange after 27 years, moving mailboxes to Microsoft 365 — replaces final on-premises relay with Postfix, STARTTLS, and Let&#39;s Encrypt certificates
-
-Postfix replaces 27-year-old Microsoft Exchange server after mailbox migration to Microsoft 365
-
-(Image credit: Getty Images) Copy link
-
-1 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter Running your own email server is one thing. Keeping it alive for nearly three decades is quite another. One homelab enthusiast has finally decided to call time …</p><p><img src="https://cdn.mos.cms.futurecdn.net/GpApBtoCh4tb9AUh89kM3m-2328-80.jpg" alt="Enthusiast abandons self-hosted Microsoft Exchange after 27 years, moving mailboxes to Microsoft 365"></p>]]></description><source url="https://www.tomshardware.com/software/enthusiast-abandons-self-hosted-microsoft-exchange-after-27-years-moving-mailboxes-to-microsoft-365-replaces-final-on-premises-relay-with-postfix-starttls-and-lets-encrypt-certificates">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/GpApBtoCh4tb9AUh89kM3m-2328-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/GpApBtoCh4tb9AUh89kM3m-2328-80.jpg"/></item>
 <item><title>New Bluetooth High Data Throughput may finally satisfy audiophiles</title><link>https://www.tomshardware.com/peripherals/wearable-tech/new-bluetooth-high-data-throughput-may-finally-satisfy-audiophiles-bluetooth-hdt-offers-a-maximum-bandwidth-of-7-5mbps-allowing-true-lossless-transmission</link><guid isPermaLink="true">https://www.tomshardware.com/peripherals/wearable-tech/new-bluetooth-high-data-throughput-may-finally-satisfy-audiophiles-bluetooth-hdt-offers-a-maximum-bandwidth-of-7-5mbps-allowing-true-lossless-transmission</guid><pubDate>Sat, 07 Nov 2026 12:30:00 +0000</pubDate><description><![CDATA[<p>New Bluetooth High Data Throughput may finally satisfy audiophiles
 
 Audiophiles have always criticised Bluetooth, but HDT might finally be the convenient wireless experience they
@@ -136,6 +284,17 @@ Audiophiles have always criticised Bluetooth, but HDT might finally be the conve
 (Image credit: Future) Copy link
 
 1 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter The Bluetooth Special Interest Group (SIG) just announced the new Bluetooth High Data Throughput (HDT) feature on November 4, allowing a maximum bandwidth of 7.5 Mbps, almost 4x that of the pr…</p><p><img src="https://cdn.mos.cms.futurecdn.net/bDBxtWJrUWLt7v5TDf9eb4-2560-80.jpg" alt="New Bluetooth High Data Throughput may finally satisfy audiophiles"></p>]]></description><source url="https://www.tomshardware.com/peripherals/wearable-tech/new-bluetooth-high-data-throughput-may-finally-satisfy-audiophiles-bluetooth-hdt-offers-a-maximum-bandwidth-of-7-5mbps-allowing-true-lossless-transmission">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/bDBxtWJrUWLt7v5TDf9eb4-2560-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/bDBxtWJrUWLt7v5TDf9eb4-2560-80.jpg"/></item>
+<item><title>Enthusiast abandons self-hosted Microsoft Exchange after 27 years, moving mailboxes to Microsoft 365</title><link>https://www.tomshardware.com/software/enthusiast-abandons-self-hosted-microsoft-exchange-after-27-years-moving-mailboxes-to-microsoft-365-replaces-final-on-premises-relay-with-postfix-starttls-and-lets-encrypt-certificates</link><guid isPermaLink="true">https://www.tomshardware.com/software/enthusiast-abandons-self-hosted-microsoft-exchange-after-27-years-moving-mailboxes-to-microsoft-365-replaces-final-on-premises-relay-with-postfix-starttls-and-lets-encrypt-certificates</guid><pubDate>Sat, 07 Nov 2026 12:30:00 +0000</pubDate><description><![CDATA[<p>Enthusiast abandons self-hosted Microsoft Exchange after 27 years, moving mailboxes to Microsoft 365
+
+Postfix replaces 27-year-old Microsoft Exchange server after mailbox migration to Microsoft 365
+
+Enthusiast abandons self-hosted Microsoft Exchange after 27 years, moving mailboxes to Microsoft 365 — replaces final on-premises relay with Postfix, STARTTLS, and Let&#39;s Encrypt certificates
+
+Postfix replaces 27-year-old Microsoft Exchange server after mailbox migration to Microsoft 365
+
+(Image credit: Getty Images) Copy link
+
+1 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter Running your own email server is one thing. Keeping it alive for nearly three decades is quite another. One homelab enthusiast has finally decided to call time …</p><p><img src="https://cdn.mos.cms.futurecdn.net/GpApBtoCh4tb9AUh89kM3m-2328-80.jpg" alt="Enthusiast abandons self-hosted Microsoft Exchange after 27 years, moving mailboxes to Microsoft 365"></p>]]></description><source url="https://www.tomshardware.com/software/enthusiast-abandons-self-hosted-microsoft-exchange-after-27-years-moving-mailboxes-to-microsoft-365-replaces-final-on-premises-relay-with-postfix-starttls-and-lets-encrypt-certificates">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/GpApBtoCh4tb9AUh89kM3m-2328-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/GpApBtoCh4tb9AUh89kM3m-2328-80.jpg"/></item>
 <item><title>The Hidden Microcontroller Inside a LoRa chip</title><link>https://hackaday.com/2026/11/07/the-hidden-microcontroller-inside-a-lora-chip/</link><guid isPermaLink="true">https://hackaday.com/2026/11/07/the-hidden-microcontroller-inside-a-lora-chip/</guid><pubDate>Sat, 07 Nov 2026 12:00:34 +0000</pubDate><description><![CDATA[<p>The Hidden Microcontroller Inside a LoRa chip
 
 If you’ve ever done anything with LoRa, the chances are you’ve used a LoRa chip or module as a peripheral for a microcontroller, and left it at that. But that’s not always the cas…
@@ -3461,7 +3620,6 @@ Michael Kozlowski は Good e-Reader の編集長で、過去 15 年間オーデ�
 
 良い (85%) Lenovo Googlebook 15 Intel Core Ultra 5 325 Intel Graphics 4 Xe3 Panther Lake iGPU Office - 2026 年 11 月 2 日 - v8 Lenovo Deutschland の提供によるテスト デバイス ライセンスされた評価画像を PNG / SVG としてダウンロード M.2-2242 SSD を交換でき、サウンド システムは非常に優れています。正確な色と HDR サポートを備えた優れた OLED スクリーンも利用できますが、Googleboo…</p><p><img src="https://www.notebookcheck.net/fileadmin/Notebooks/Lenovo/Googlebook_15/lenovo_googlebook_15_case_04.JPG" alt="Lenovo Googlebook 15 レビュー - かなり圧倒される"></p>]]></description><source url="https://www.notebookcheck.net/Lenovo-Googlebook-15-Review-Pretty-underwhelming.1437361.0.html">Notebookcheck</source><media:content url="https://www.notebookcheck.net/fileadmin/Notebooks/Lenovo/Googlebook_15/lenovo_googlebook_15_case_04.JPG" medium="image"/><media:thumbnail url="https://www.notebookcheck.net/fileadmin/Notebooks/Lenovo/Googlebook_15/lenovo_googlebook_15_case_04.JPG"/></item>
 <item><title>Brainchip AKD1500 Raspberry Pi 5 Dev Kit enables users to quickly experiment with event-based neuromorphic AI</title><link>https://www.cnx-software.com/2026/11/02/brainchip-akd1500-raspberry-pi-5-dev-kit-enables-users-to-quickly-experiment-with-event-based-neuromorphic-ai/</link><guid isPermaLink="true">https://www.cnx-software.com/2026/11/02/brainchip-akd1500-raspberry-pi-5-dev-kit-enables-users-to-quickly-experiment-with-event-based-neuromorphic-ai/</guid><pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate><description><![CDATA[<p>Brainchip AKD1500 Raspberry Pi 5 Dev Kit enables users to quickly experiment with event-based neuromorphic AI</p>]]></description><source url="https://www.cnx-software.com/2026/11/02/brainchip-akd1500-raspberry-pi-5-dev-kit-enables-users-to-quickly-experiment-with-event-based-neuromorphic-ai/">CNX Software</source></item>
-<item><title>This DIY Lockpicker Has AI on Its Side</title><link>https://www.hackster.io/news/this-diy-lockpicker-has-ai-on-its-side-7264ccf5dccf</link><guid isPermaLink="true">https://www.hackster.io/news/this-diy-lockpicker-has-ai-on-its-side-7264ccf5dccf</guid><pubDate>Sun, 01 Nov 2026 21:00:00 +0000</pubDate><description><![CDATA[<p>This DIY Lockpicker Has AI on Its Side</p>]]></description><source url="https://www.hackster.io/news/this-diy-lockpicker-has-ai-on-its-side-7264ccf5dccf">Hackster.io</source></item>
 <item><title>新しい AI 駆動の Windows マルウェアは、盗んだデータをクロードにフィードして被害者の資産を価値でランク付けし、その後自分自身を削除します</title><link>https://www.tomshardware.com/tech-industry/cyber-security/new-ai-driven-windows-malware-feeds-stolen-data-to-claude-to-rank-victims-assets-by-value-then-deletes-itself-payload-builds-custom-target-assessment-can-switch-models-if-one-refuses-or-skip-the-ai-step-entirely</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/cyber-security/new-ai-driven-windows-malware-feeds-stolen-data-to-claude-to-rank-victims-assets-by-value-then-deletes-itself-payload-builds-custom-target-assessment-can-switch-models-if-one-refuses-or-skip-the-ai-step-entirely</guid><pubDate>Sun, 01 Nov 2026 21:00:00 +0000</pubDate><description><![CDATA[<p>新しい AI 駆動の Windows マルウェアは、盗んだデータをクロードにフィードして被害者の資産を価値でランク付けし、その後自分自身を削除します
 
 盗まれた Gmail の領収書と食品配達の注文は、AI リクエストに入力され、各被害者の「ターゲット評価」が行われます。
@@ -3475,6 +3633,7 @@ Michael Kozlowski は Good e-Reader の編集長で、過去 15 年間オーデ�
 5 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する VOLTA-AUTODOXER と名乗る自己削除型 Windows インフォスティーラーは、被害者の PC から盗めるものすべてを盗み、デフォルトで Anthropic の Claude である AI モデルに収集物をターゲットの評価に変えるよう依頼すると、Cisco の Talos 研究組織が報告しています。このマルウェアは、個人に関する構造化された「証拠の束」を構築し、その労力に見合ったものを確認するために、換金できる金額でランク付けされた貴重品のリストをモデルに要求します。 VOLTA は、「法医学情報分析者」として行動し、「率直で、具体的で、正確」であることを求められ、拒否したり、拒否したりした場合にはモデルを切り替えることができます。
 
 VOLTA は、ブラウザのパスワード、Cookie、保存されているペイメント カード、Thunderbird と Outlook の電子メール プロファイル、Roblox アカウント、Microsoft OAuth トークン、スクリーンショット、さらには SSH やクラウド プロバイダーの構成フ…</p><p><img src="https://cdn.mos.cms.futurecdn.net/SwXoTJq5pcxA7urt6ryrQZ-1744-80.jpg" alt="新しい AI 駆動の Windows マルウェアは、盗んだデータをクロードにフィードして被害者の資産を価値でランク付けし、その後自分自身を削除します"></p>]]></description><source url="https://www.tomshardware.com/tech-industry/cyber-security/new-ai-driven-windows-malware-feeds-stolen-data-to-claude-to-rank-victims-assets-by-value-then-deletes-itself-payload-builds-custom-target-assessment-can-switch-models-if-one-refuses-or-skip-the-ai-step-entirely">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/SwXoTJq5pcxA7urt6ryrQZ-1744-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/SwXoTJq5pcxA7urt6ryrQZ-1744-80.jpg"/></item>
+<item><title>This DIY Lockpicker Has AI on Its Side</title><link>https://www.hackster.io/news/this-diy-lockpicker-has-ai-on-its-side-7264ccf5dccf</link><guid isPermaLink="true">https://www.hackster.io/news/this-diy-lockpicker-has-ai-on-its-side-7264ccf5dccf</guid><pubDate>Sun, 01 Nov 2026 21:00:00 +0000</pubDate><description><![CDATA[<p>This DIY Lockpicker Has AI on Its Side</p>]]></description><source url="https://www.hackster.io/news/this-diy-lockpicker-has-ai-on-its-side-7264ccf5dccf">Hackster.io</source></item>
 <item><title>サムスン、OpenAIのサム・アルトマン氏によるAIセミナーを主催、供給契約は発表されていない</title><link>https://www.techpowerup.com/354387/samsung-hosts-openais-sam-altman-for-ai-seminar-no-supply-deal-announced</link><guid isPermaLink="true">https://www.techpowerup.com/354387/samsung-hosts-openais-sam-altman-for-ai-seminar-no-supply-deal-announced</guid><pubDate>Sun, 01 Nov 2026 19:41:04 +0000</pubDate><description><![CDATA[<p>サムスン、OpenAIのサム・アルトマン氏によるAIセミナーを主催、供給契約は発表されていない
 
 家庭用 PC の DRAM がデータセンターでより有効活用されると主張した 2 日後、10 月 31 日土曜日、OpenAI CEO のサム アルトマン氏はサムスンの社長約 50 名と会談しました。このグループはチップ ビジネスをはるかに超えて、サムスンの財務部門とバイオテクノロジー部門のリーダーが参加しました...
@@ -4475,6 +4634,25 @@ Sam Altman、OpenAI CEO 多くの人がローカル推論を望んでいます�
 2026 年 9 月 6 日 Microsoft、AI が Windows 11 用のネイティブ WinUI 3 アプリを 30 分以内に構築できるようになりました (18)
 
 2026 年 1 月 16 日 NVIDIA が …</p><p><img src="https://www.techpowerup.com/img/BDfGjf9GLj1Ag7oF.jpg" alt="OpenAI CEO、家庭用 PC は世界の限られた DRAM 供給を無駄にしていると主張"></p>]]></description><source url="https://www.techpowerup.com/354346/openai-ceo-argues-home-pcs-waste-the-worlds-limited-dram-supply">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/BDfGjf9GLj1Ag7oF.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/BDfGjf9GLj1Ag7oF.jpg"/></item>
+<item><title>ASRock B860 Challenger Wifi マザーボード レビュー: 欠点もある、手頃な価格のエントリーレベル ATX</title><link>https://www.tomshardware.com/pc-components/motherboards/asrock-b860-challenger-wifi-motherboard-review</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/motherboards/asrock-b860-challenger-wifi-motherboard-review</guid><pubDate>Sat, 31 Oct 2026 14:00:00 +0000</pubDate><description><![CDATA[<p>ASRock B860 Challenger Wifi マザーボード レビュー: 欠点もある、手頃な価格のエントリーレベル ATX
+
+このチャレンジャーは予算内で検討する価値がありますが、これほど安くするには限界があります。
+
+ASRock B860 Challenger Wifi は、149 ドルの手頃な価格のマザーボードで、Intel Core Ultra 270K Plus を問題なく処理できますが、USB は 5 Gbps に制限されており、電力供給は弱く、BIOS は時代遅れです。
+
++ OpenClaw AI ソフトウェアが付属
+
+Tom&#39;s Hardware を信頼できる理由 当社の専門レビュー担当者は、お客様が最適なものを選択できるよう、何時間もかけて製品とサービスをテストおよび比較します。テスト方法について詳しくは、こちらをご覧ください。
+
+ASRock B860 チャレンジャー Wifi の機能と仕様
+
+ページ 1: ASRock B860 Challenger Wifi の機能と仕様
+
+ページ 2: ファームウェア、ソフトウェア、およびテスト システム
+
+ページ 3: ベンチマーク結果と最終分析
+
+主流の B860 チップセットをベースにした ASRock B860 Challenger Wifi は、Intel のマザーボード ラインナップの中でも低価格に位置し、価格は 149.99 ドルと手頃です。 Intel の Core Ultra および Core Ultra シリーズ 2 (Arrow Lake および Arrow Lake リフレッシュ) プロセッサを完全にサポートするフルサイズのマザーボードが手に入ります。それでも、この価格帯ではスペックや機能のある程度の犠牲は避けられません。オールブラックの B860 チャレンジャー (白バージョンもあります) には、すべての基本機能が含まれています。 8 つの背面 USB ポート、3 つの M.2 ソケット (1 つは PCIe 5.0)、4 つの SATA ポート、2.5 GbE、Wi-Fi …</p><p><img src="https://cdn.mos.cms.futurecdn.net/43oKFeBWfyK9Abz4tXDYmN-1920-80.jpg" alt="ASRock B860 Challenger Wifi マザーボード レビュー: 欠点もある、手頃な価格のエントリーレベル ATX"></p>]]></description><source url="https://www.tomshardware.com/pc-components/motherboards/asrock-b860-challenger-wifi-motherboard-review">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/43oKFeBWfyK9Abz4tXDYmN-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/43oKFeBWfyK9Abz4tXDYmN-1920-80.jpg"/></item>
 <item><title>このハロウィーンの週末に新しい 3D プリンターを 199 ドルという低価格で手に入れましょう</title><link>https://www.tomshardware.com/3d-printing/grab-a-new-3d-printer-this-halloween-weekend-with-prices-as-low-as-usd199-big-discounts-from-elegoo-creality-prusa-and-more-with-filament-and-resin-printers-and-consumables-on-sale</link><guid isPermaLink="true">https://www.tomshardware.com/3d-printing/grab-a-new-3d-printer-this-halloween-weekend-with-prices-as-low-as-usd199-big-discounts-from-elegoo-creality-prusa-and-more-with-filament-and-resin-printers-and-consumables-on-sale</guid><pubDate>Sat, 31 Oct 2026 14:00:00 +0000</pubDate><description><![CDATA[<p>このハロウィーンの週末に新しい 3D プリンターを 199 ドルという低価格で手に入れましょう
 
 これらの 3D プリンター セールのいずれかで趣味のセットアップをアップグレードしてください
@@ -4498,25 +4676,6 @@ Sam Altman、OpenAI CEO 多くの人がローカル推論を望んでいます�
 ● Prusa の 3D プリンターのセールをチェックする
 
 現在販売されている最大かつ最高のモデルをご覧ください。 Elegoo、Creality、Anycubic、Bambu Lab、Prusa のモデルが販売され…</p><p><img src="https://cdn.mos.cms.futurecdn.net/7Wgw6aVWKwYgYCZwpuwgSX-1920-80.png" alt="このハロウィーンの週末に新しい 3D プリンターを 199 ドルという低価格で手に入れましょう"></p>]]></description><source url="https://www.tomshardware.com/3d-printing/grab-a-new-3d-printer-this-halloween-weekend-with-prices-as-low-as-usd199-big-discounts-from-elegoo-creality-prusa-and-more-with-filament-and-resin-printers-and-consumables-on-sale">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/7Wgw6aVWKwYgYCZwpuwgSX-1920-80.png" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/7Wgw6aVWKwYgYCZwpuwgSX-1920-80.png"/></item>
-<item><title>ASRock B860 Challenger Wifi マザーボード レビュー: 欠点もある、手頃な価格のエントリーレベル ATX</title><link>https://www.tomshardware.com/pc-components/motherboards/asrock-b860-challenger-wifi-motherboard-review</link><guid isPermaLink="true">https://www.tomshardware.com/pc-components/motherboards/asrock-b860-challenger-wifi-motherboard-review</guid><pubDate>Sat, 31 Oct 2026 14:00:00 +0000</pubDate><description><![CDATA[<p>ASRock B860 Challenger Wifi マザーボード レビュー: 欠点もある、手頃な価格のエントリーレベル ATX
-
-このチャレンジャーは予算内で検討する価値がありますが、これほど安くするには限界があります。
-
-ASRock B860 Challenger Wifi は、149 ドルの手頃な価格のマザーボードで、Intel Core Ultra 270K Plus を問題なく処理できますが、USB は 5 Gbps に制限されており、電力供給は弱く、BIOS は時代遅れです。
-
-+ OpenClaw AI ソフトウェアが付属
-
-Tom&#39;s Hardware を信頼できる理由 当社の専門レビュー担当者は、お客様が最適なものを選択できるよう、何時間もかけて製品とサービスをテストおよび比較します。テスト方法について詳しくは、こちらをご覧ください。
-
-ASRock B860 チャレンジャー Wifi の機能と仕様
-
-ページ 1: ASRock B860 Challenger Wifi の機能と仕様
-
-ページ 2: ファームウェア、ソフトウェア、およびテスト システム
-
-ページ 3: ベンチマーク結果と最終分析
-
-主流の B860 チップセットをベースにした ASRock B860 Challenger Wifi は、Intel のマザーボード ラインナップの中でも低価格に位置し、価格は 149.99 ドルと手頃です。 Intel の Core Ultra および Core Ultra シリーズ 2 (Arrow Lake および Arrow Lake リフレッシュ) プロセッサを完全にサポートするフルサイズのマザーボードが手に入ります。それでも、この価格帯ではスペックや機能のある程度の犠牲は避けられません。オールブラックの B860 チャレンジャー (白バージョンもあります) には、すべての基本機能が含まれています。 8 つの背面 USB ポート、3 つの M.2 ソケット (1 つは PCIe 5.0)、4 つの SATA ポート、2.5 GbE、Wi-Fi …</p><p><img src="https://cdn.mos.cms.futurecdn.net/43oKFeBWfyK9Abz4tXDYmN-1920-80.jpg" alt="ASRock B860 Challenger Wifi マザーボード レビュー: 欠点もある、手頃な価格のエントリーレベル ATX"></p>]]></description><source url="https://www.tomshardware.com/pc-components/motherboards/asrock-b860-challenger-wifi-motherboard-review">Tom&#39;s Hardware</source><media:content url="https://cdn.mos.cms.futurecdn.net/43oKFeBWfyK9Abz4tXDYmN-1920-80.jpg" medium="image"/><media:thumbnail url="https://cdn.mos.cms.futurecdn.net/43oKFeBWfyK9Abz4tXDYmN-1920-80.jpg"/></item>
 <item><title>A Secret Magnetic Gesture Is the Key to This Hidden Lock</title><link>https://www.hackster.io/news/a-secret-magnetic-gesture-is-the-key-to-this-hidden-lock-86cae62394b2</link><guid isPermaLink="true">https://www.hackster.io/news/a-secret-magnetic-gesture-is-the-key-to-this-hidden-lock-86cae62394b2</guid><pubDate>Sat, 31 Oct 2026 13:57:23 +0000</pubDate><description><![CDATA[<p>A Secret Magnetic Gesture Is the Key to This Hidden Lock</p>]]></description><source url="https://www.hackster.io/news/a-secret-magnetic-gesture-is-the-key-to-this-hidden-lock-86cae62394b2">Hackster.io</source></item>
 <item><title>AI推論ワークロードのためにアイドル状態のMacをレンタルできる会社がトークンコストの急落を警告</title><link>https://www.tomshardware.com/tech-industry/artificial-intelligence/firm-that-lets-you-rent-out-your-idle-mac-for-ai-inference-workloads-warns-of-plummeting-token-costs-darkbloom-network-sees-earnings-drop-to-usd1-23-a-day-as-anthropic-tokens-fall-77-percent</link><guid isPermaLink="true">https://www.tomshardware.com/tech-industry/artificial-intelligence/firm-that-lets-you-rent-out-your-idle-mac-for-ai-inference-workloads-warns-of-plummeting-token-costs-darkbloom-network-sees-earnings-drop-to-usd1-23-a-day-as-anthropic-tokens-fall-77-percent</guid><pubDate>Sat, 31 Oct 2026 13:49:09 +0000</pubDate><description><![CDATA[<p>AI推論ワークロードのためにアイドル状態のMacをレンタルできる会社がトークンコストの急落を警告
 
@@ -5882,219 +6041,4 @@ Strava はフィットネス追跡データを Google Gemini に提供し、加�
 新しい統合により、ユーザーは Strava アカウントを Gemini に直接接続し、アクティビティ履歴、トレーニングの進捗状況、さまざまなスポーツのパフォーマンスについて質問できるようになります。この動きは、Strava と Anthropic の Claude との最近の統合に続くものです。
 
 接続すると、Gemini はアクティビティの傾向を分析して、ランナーが同じ心拍数で速くなっているのか、筋力トレーニングがランニング パフォーマンス…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-logo-on-smartphone-stock-photo-2.jpg" alt="Gemini の最新の統合により、一度に 1 回の実行で速度が上がっているかどうかがわかります"></p>]]></description><source url="https://www.androidauthority.com/google-gemini-strava-integration-3729811/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-logo-on-smartphone-stock-photo-2.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-logo-on-smartphone-stock-photo-2.jpg"/></item>
-<item><title>ATK、手頃な価格の RS8 Air HE および Neo Mechanical アルミニウム ゲーミング キーボードを発表</title><link>https://www.techpowerup.com/354303/atk-reveals-affordable-rs8-air-he-and-neo-mechanical-aluminium-gaming-keyboards</link><guid isPermaLink="true">https://www.techpowerup.com/354303/atk-reveals-affordable-rs8-air-he-and-neo-mechanical-aluminium-gaming-keyboards</guid><pubDate>Fri, 30 Oct 2026 04:07:26 +0000</pubDate><description><![CDATA[<p>ATK、手頃な価格の RS8 Air HE および Neo Mechanical アルミニウム ゲーミング キーボードを発表
-
-いくつかの手頃な価格の高性能ゲーム周辺機器を提供するブランドである ATK は、メカニカル フレーバーとホール効果フレーバーの両方の新しい RS8 シリーズ ゲーミング キーボードを発表しました。 RS8 Air は 99.98 ドルのホール効果キーボードで、割引価格で 74.89 ドルに値下げされます。
-
-ATK、手頃な価格の RS8 Air HE および Neo Mechanical アルミニウム ゲーミング キーボードを発表
-
-2026 年 8 月 28 日 Piston V タッチスクリーン Bazzite Mini PC がキックスターターでメーカー希望小売価格 799 ドルで発売 (7)
-
-2026 年 9 月 6 日 DLSS 5 テストは RTX 5090 コネクタが溶けて終了、電力が 600 W を超える (342)
-
-2026 年 10 月 27 日 RecompLauncher が 200 近くのファンメイドのコンソール ポートを 1 台の PC カタログに収集 (1)
-
-2026 年 7 月 17 日 Behemoth V2 はマキシマリストの 135% メカニカル ゲーミング キーボード (27)
-
-2026 年 4 月 17 日 Pragmata のローンチ: 輝かしいレビューとチャートトップの売上を誇るが、プレイヤー数は平凡 (62)
-
-2026 年 9 月 30 日 Microsoft が Windows 11 26H2 アップデートを開始 (71)
-
-2026 年 7 月 30 日 NVIDIA RTX 50 シリーズ GPU は 2026 年にさらに 20 ～ 30% の価格上昇の可能性 (183)
-
-2026 年 10 月 13 日 Epomaker がアルミニウムケースと VIA サポートを備えた Galaxy75 ワイヤレス メカニカル キーボードを発表 (3)
-
-2026 年 8 月 26 日 Xbo…</p><p><img src="https://www.techpowerup.com/img/LebE9ABE0Z6nYaZ5.jpg" alt="ATK、手頃な価格の RS8 Air HE および Neo Mechanical アルミニウム ゲーミング キーボードを発表"></p>]]></description><source url="https://www.techpowerup.com/354303/atk-reveals-affordable-rs8-air-he-and-neo-mechanical-aluminium-gaming-keyboards">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/LebE9ABE0Z6nYaZ5.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/LebE9ABE0Z6nYaZ5.jpg"/></item>
-<item><title>Redditはログアウトした状態で閲覧できるようになるが、ユーザーはそれを利用できない</title><link>https://www.androidauthority.com/reddit-logged-out-browsing-restrictions-3729803/</link><guid isPermaLink="true">https://www.androidauthority.com/reddit-logged-out-browsing-restrictions-3729803/</guid><pubDate>Fri, 30 Oct 2026 03:38:38 +0000</pubDate><description><![CDATA[<p>Redditはログアウトした状態で閲覧できるようになるが、ユーザーはそれを利用できない
-
-Redditはアカウントなしでの閲覧を制限する予定で、毎日の視聴者の60％近くに影響を及ぼす可能性がある。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Redditはログアウトした状態で閲覧できるようになっているが、ユーザーはそれを利用していない
-
-4 • Edgar Cervantes / Android Authority Google に Android Authority を追加: 優先ソース Google Discover TL;DR Reddit は主にログイン エクスペリエンスに移行する予定で、アカウントなしでプラットフォームを閲覧する方法が制限される可能性があります。
-
-Reddit の毎日のアクティブなユニークのほぼ 59% が 2026 年第 3 四半期にログアウトされました。これは、この変更が視聴者の大部分に影響を与える可能性があることを意味します。
-
-Redditは米国外の一部の市場で変更のテストを開始する予定だが、ユーザーはすでにこの考えに反発している。
-
-Reddit は見た目も雰囲気も大きく変わろうとしています。いいえ、私はプラットフォームが昨日発表した新しい For You フィードと Following フィードについてだけ話しているのではありません。 Reddit は、さらに大きなこと、つまり何百万人ものプラットフォームへのアクセス方法を根本的に変える可能性のあることを計画しています。
-
-本日初め、Reddit CEO の Steve Huffman 氏は、このプラットフォームは主にログイン体験に移行しており、ユーザーはその開発に（非常に）不満を抱いていると発表しました。
-
-2005 年に開始されたこのプラットフォームでは、常にユーザーがログインせずにそのコンテンツを閲覧できるようにしてきました。 もちろん、単に訪問しただけの人は、ログインしたユーザーが得た恩恵を実際…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2022/03/Reddit-stock-photo-3.jpg" alt="Redditはログアウトした状態で閲覧できるようになるが、ユーザーはそれを利用できない"></p>]]></description><source url="https://www.androidauthority.com/reddit-logged-out-browsing-restrictions-3729803/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2022/03/Reddit-stock-photo-3.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2022/03/Reddit-stock-photo-3.jpg"/></item>
-<item><title>OpenMouse が Logitech、Razer、Wooting、SteelSeries キーボードのオープンソース カスタマイズを開始</title><link>https://www.techpowerup.com/354300/openmouse-launches-open-source-customization-for-logitech-razer-wooting-and-steelseries-keyboards</link><guid isPermaLink="true">https://www.techpowerup.com/354300/openmouse-launches-open-source-customization-for-logitech-razer-wooting-and-steelseries-keyboards</guid><pubDate>Fri, 30 Oct 2026 03:28:59 +0000</pubDate><description><![CDATA[<p>OpenMouse が Logitech、Razer、Wooting、SteelSeries キーボードのオープンソース カスタマイズを開始
-
-少し前に、オープンソースのコミュニティ主導の代替マウス構成スイートである OpenMouse の開発者は、スイートが現在サポートしている無数のゲーミング マウス モデルと並行してキーボードのカスタマイズのサポートに取り組んでいることを明らかにしました。最近の発表によると...
-
-OpenMouse が Logitech、Razer、Wooting、SteelSeries キーボードのオープンソース カスタマイズを開始
-
-2026 年 4 月 28 日 Linux が PlayStation 5 で正式に利用可能になりました (22)
-
-2025 年 11 月 3 日 AMD が Radeon RX 5000/6000 シリーズの「メンテナンス モード」を明確に、初日のゲーム サポートは継続 (160)
-
-2026 年 8 月 4 日 OpenMouse: オープンソースのマウス コントロール パネルが Logitech HITS サポートを開始すると発表 (19)
-
-2026 年 10 月 27 日 RecompLauncher が 200 近くのファンメイドのコンソール ポートを 1 台の PC カタログに収集 (1)
-
-2026 年 8 月 19 日 OpenMouse が Wooting 60HE+ サポートを備えたオープンソースのキーボード構成をプレビュー (9)
-
-2026 年 7 月 17 日 Behemoth V2 はマキシマリストの 135% メカニカル ゲーミング キーボード (27)
-
-2026 年 10 月 12 日 PS5 脱獄アプリ「Overdrive」が無料ゲームと DLC を提供しているとされる (14)
-
-2026 年 7 月 13 日 ロジクール、第 2 世代 Superstrike 2 ゲーミング マウスを 9 月の発売に向けて準備中 (12)
-
-2026 年 8 月 12 日 Keychro…</p><p><img src="https://www.techpowerup.com/img/UtL3SliCt3C3HtkF.jpg" alt="OpenMouse が Logitech、Razer、Wooting、SteelSeries キーボードのオープンソース カスタマイズを開始"></p>]]></description><source url="https://www.techpowerup.com/354300/openmouse-launches-open-source-customization-for-logitech-razer-wooting-and-steelseries-keyboards">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/UtL3SliCt3C3HtkF.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/UtL3SliCt3C3HtkF.jpg"/></item>
-<item><title>Android 11 が依然として携帯電話の 10% に搭載されているため、Android 17 はほとんど影響を及ぼしていません</title><link>https://www.androidauthority.com/android-distribution-numbers-october-2026-3729798/</link><guid isPermaLink="true">https://www.androidauthority.com/android-distribution-numbers-october-2026-3729798/</guid><pubDate>Fri, 30 Oct 2026 02:50:31 +0000</pubDate><description><![CDATA[<p>Android 11 が依然として携帯電話の 10% に搭載されているため、Android 17 はほとんど影響を及ぼしていません
-
-Android 17 は、2026 年 6 月に利用可能になったにもかかわらず、普及率はわずか 1% に達しており、Android 8.1 でさえより大きなシェアを持っています。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Android 11 が依然として携帯電話の 10% に搭載されているため、Android 17 はほとんど影響を及ぼしていません
-
-7 • Joe Maring / Android Authority Google に Android Authority を追加: 優先ソース Google Discover TL;DR Android 16 は現在、最も広く使用されている Android バージョンであり、アクティブなデバイスの 25.4% を占め、2025 年 12 月の 7.5% から増加しています。
-
-Android 17 は、2026 年 6 月に利用可能になったにもかかわらず、普及率はわずか 1% に達しており、Android 8.1 でさえより大きなシェアを持っています。
-
-Android の断片化は依然として問題であり、アクティブなデバイスの 43.6% が依然として Android 13 以前を実行しています。
-
-Android 16 は、ついに Google のモバイル オペレーティング システムで最も広く使用されるバージョンになりましたが、最新の Android 配布数の数字は、ユーザーに新しいソフトウェアを導入することが依然として課題であることを示唆しています。
-
-Android 17 は 6 月のリリース以来、より多くのデバイスに配信されていますが、最新のソフトウェアがアクティブなデバイスに占める割合はわずか 1% です。この数字は、驚くほど多くの Android ユーザーが数年前のバージョンをまだ実行していること…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-7-scaled.jpg" alt="Android 11 が依然として携帯電話の 10% に搭載されているため、Android 17 はほとんど影響を及ぼしていません"></p>]]></description><source url="https://www.androidauthority.com/android-distribution-numbers-october-2026-3729798/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-7-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-7-scaled.jpg"/></item>
-<item><title>Google が認めた：Pixel Watch の極端なバッテリー消耗の問題は修正中です</title><link>https://www.androidauthority.com/pixel-watch-battery-fix-3729791/</link><guid isPermaLink="true">https://www.androidauthority.com/pixel-watch-battery-fix-3729791/</guid><pubDate>Fri, 30 Oct 2026 00:43:56 +0000</pubDate><description><![CDATA[<p>Google が認めた：Pixel Watch の極端なバッテリー消耗の問題は修正中です
-
-Pixel Watch のバッテリー寿命が突然短くなりましたか? Googleは現在修正に取り組んでいると述べている。
-
-Android Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。
-
-Google が認めた：Pixel Watch の極端なバッテリー消耗の問題は修正中です
-
-• Kaitlyn Cimino / Android Authority Google に Android Authority を追加: 優先ソース Google Discover TL;DR Pixel Watch の所有者は、バッテリー寿命が突然低下したことに不満を抱いています。
-
-複数の世代の時計が影響を受けており、これはハードウェアの障害ではなくソフトウェアの問題であるように見えます。
-
-Google は現在、問題を特定したことを確認し、修正プログラムを開発中です。
-
-スマートウォッチは優れていますが、バッテリー寿命は引き続き問題です。確かに、さまざまなことができますが、使用するときに充電が残っていなければ、その可能性が何の役に立つでしょうか?時計が正常に動作しているときでも、状況はかなり危険な場合がありますが、今週、Pixel Watch モデルに影響を及ぼしていると思われる新たな問題について知りました。これは、バッテリー寿命が通常の 1 ～ 2 時間からわずか 12 時間まで低下するというものです。ありがたいことに、修正はすでに進行中です。
-
-Pixel Watch 2 から現行世代に至るまでの所有者からの複数の報告はすべて、時計がアイドル状態にあるにもかかわらずバッテリー寿命が低下しているという同様の話を共有していました。常時表示を無効にしても、大きな影響はないようです。
-
-デバイスを完全にリセットした後に状況が改善したと書いている人もいますが、それは普遍的な解決策であるようには見えず、間違いなく私たちが好む解決策ではありません。良いニ…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2024/06/Pixel-Watch-2-zero-battery-scaled.jpg" alt="Google が認めた：Pixel Watch の極端なバッテリー消耗の問題は修正中です"></p>]]></description><source url="https://www.androidauthority.com/pixel-watch-battery-fix-3729791/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2024/06/Pixel-Watch-2-zero-battery-scaled.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2024/06/Pixel-Watch-2-zero-battery-scaled.jpg"/></item>
-<item><title>フロム・ソフトウェア、最終バランス調整のため『Duskbloods』を2027年に延期</title><link>https://www.techpowerup.com/354299/fromsoftware-delays-the-duskbloods-to-2027-for-final-balancing</link><guid isPermaLink="true">https://www.techpowerup.com/354299/fromsoftware-delays-the-duskbloods-to-2027-for-final-balancing</guid><pubDate>Fri, 30 Oct 2026 00:19:38 +0000</pubDate><description><![CDATA[<p>フロム・ソフトウェア、最終バランス調整のため『Duskbloods』を2027年に延期
-
-フロム・ソフトウェアは、Nintendo Switch 2 専用に作られたマルチプレイヤー アクション ゲーム『The Duskbloods』を 2026 年終了と正式に延期しました。ゲームの公式 X アカウントへの投稿で、スタジオは開発が「最終調整段階」にあり、発売期間が 2027 年に移行すると述べました。
-
-フロム・ソフトウェア、最終バランス調整のため『Duskbloods』を2027年に延期
-
-2026年10月1日 マイクロンCEO、2027年と2028年のメモリ供給は2026年よりもかなり逼迫すると語る (67)
-
-2026 年 5 月 18 日 インサイダーは、ソニーが PC ポートを廃止することを認めています: 「PC に登場するシングル プレーヤー ゲームは少なくなるでしょう。」 (135)
-
-2026 年 9 月 26 日 裁判所、Switch 著作権侵害に関して Reddit モデレーターに任天堂に 450 万ドルの支払いを命じる (81)
-
-2026 年 8 月 28 日 ウィッチャー 3: ワイルドハント リマスター版 PC の最小ハードウェア要件 (52)
-
-2026 年 9 月 15 日 「Slop Kiddies」が重要なエクスプロイトで利益を得たため、PS5 Linux 開発がプロジェクトを中止 (25)
-
-2026 年 9 月 10 日 GTA 5 のスイッチポートを開発した Modder が Android に導入 (8)
-
-2026 年 10 月 28 日 最初の脱獄から数日後、Nintendo Switch 2 専用ソフトがすでに iPhone と PC で起動 (22)
-
-2026 年 9 月 8 日 Valheim 1.0 が 5 年間の早期アクセスを経てリリース (11)
-
-2026 年 10 月 22 日 Nintendo Switch 2 が OpenAI Codex の支援により初のソフトウェアのみの脱獄を実現 (3)
-
-2026…</p><p><img src="https://www.techpowerup.com/img/GuadAGwHUoseWC2D.jpg" alt="フロム・ソフトウェア、最終バランス調整のため『Duskbloods』を2027年に延期"></p>]]></description><source url="https://www.techpowerup.com/354299/fromsoftware-delays-the-duskbloods-to-2027-for-final-balancing">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/GuadAGwHUoseWC2D.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/GuadAGwHUoseWC2D.jpg"/></item>
-<item><title>$26 Banana Pi BPI-RT2 WiFi 6 router board features Realtek RTL8198D dual-core MIPS SoC</title><link>https://www.cnx-software.com/2026/10/30/26-banana-pi-bpi-rt2-wifi-6-router-board-features-realtek-rtl8198d-dual-core-mips-soc/</link><guid isPermaLink="true">https://www.cnx-software.com/2026/10/30/26-banana-pi-bpi-rt2-wifi-6-router-board-features-realtek-rtl8198d-dual-core-mips-soc/</guid><pubDate>Fri, 30 Oct 2026 00:00:14 +0000</pubDate><description><![CDATA[<p>$26 Banana Pi BPI-RT2 WiFi 6 router board features Realtek RTL8198D dual-core MIPS SoC</p>]]></description><source url="https://www.cnx-software.com/2026/10/30/26-banana-pi-bpi-rt2-wifi-6-router-board-features-realtek-rtl8198d-dual-core-mips-soc/">CNX Software</source></item>
-<item><title>バグによる遅延の後、Fedora 45 の正式な発売日が決定</title><link>https://www.techpowerup.com/354296/fedora-45-gets-official-launch-date-after-bugs-caused-delays</link><guid isPermaLink="true">https://www.techpowerup.com/354296/fedora-45-gets-official-launch-date-after-bugs-caused-delays</guid><pubDate>Thu, 29 Oct 2026 23:36:41 +0000</pubDate><description><![CDATA[<p>バグによる遅延の後、Fedora 45 の正式な発売日が決定
-
-Fedora Linux 45はしばらく開発が続けられており、配布は2度遅れており、最新の遅れはブロッカーのバグによるもので、つい先週にも開発チームが中止の決定を下した。さて、最近の開発者会議の後、Fedora 45 は正式に...
-
-バグによる遅延の後、Fedora 45 の正式な発売日が決定
-
-2026 年 8 月 28 日 Piston V タッチスクリーン Bazzite Mini PC がキックスターターでメーカー希望小売価格 799 ドルで発売 (7)
-
-2026 年 4 月 28 日 Linux が PlayStation 5 で正式に利用可能になりました (22)
-
-2026 年 10 月 27 日 RecompLauncher が 200 近くのファンメイドのコンソール ポートを 1 台の PC カタログに収集 (1)
-
-2026 年 5 月 14 日 KDE Plasma 6.7 ベータ版で HTPC 用の Plasma Bigscreen モードが導入 (8)
-
-2026 年 4 月 27 日 Fedora Linux 44 アップデートが 4 月 21 日に延期される (6)
-
-2026 年 5 月 15 日 Discord が大幅に改善された Linux サポートと公式 Fedora および Arch パッケージを取得 (46)
-
-2026 年 10 月 28 日 CachyOS がロックダウン付きの EAC Linux V2 互換カーネルを発表 (21)
-
-2026 年 10 月 29 日 PS5 は非公式 Bazzite Linux インストーラーで Steam マシンになります (7)
-
-2026 年 10 月 14 日 KDE Plasma 6.8 が正式にリリースされ、UI とパフォーマンスが調整されます (4)
-
-2026 年 9 月 10 日 GTA 5 のスイッチポートを開発した Modder が Android に導入 (8)
-
-バグによる遅れの後、Fedora …</p><p><img src="https://www.techpowerup.com/img/LM0IcMNfOWxnX8oi.jpg" alt="バグによる遅延の後、Fedora 45 の正式な発売日が決定"></p>]]></description><source url="https://www.techpowerup.com/354296/fedora-45-gets-official-launch-date-after-bugs-caused-delays">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/LM0IcMNfOWxnX8oi.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/LM0IcMNfOWxnX8oi.jpg"/></item>
-<item><title>This Machine Automatically Winds Coils for Flip-Dot Electromagnets</title><link>https://www.hackster.io/news/this-machine-automatically-winds-coils-for-flip-dot-electromagnets-b00a9e676af2</link><guid isPermaLink="true">https://www.hackster.io/news/this-machine-automatically-winds-coils-for-flip-dot-electromagnets-b00a9e676af2</guid><pubDate>Thu, 29 Oct 2026 23:32:45 +0000</pubDate><description><![CDATA[<p>This Machine Automatically Winds Coils for Flip-Dot Electromagnets</p>]]></description><source url="https://www.hackster.io/news/this-machine-automatically-winds-coils-for-flip-dot-electromagnets-b00a9e676af2">Hackster.io</source></item>
-<item><title>Bungie、Destiny 1再リリースのティーザーで「Destiny Classic」の噂に火をつける</title><link>https://www.techpowerup.com/354294/bungie-ignites-rumors-of-destiny-classic-with-destiny-1-re-release-teaser</link><guid isPermaLink="true">https://www.techpowerup.com/354294/bungie-ignites-rumors-of-destiny-classic-with-destiny-1-re-release-teaser</guid><pubDate>Thu, 29 Oct 2026 23:06:57 +0000</pubDate><description><![CDATA[<p>Bungie、Destiny 1再リリースのティーザーで「Destiny Classic」の噂に火をつける
-
-Destiny 2 とその背後にいるチームの多くの開発サポートを犠牲にしたとみられる Marathon の残念なローンチを受けて、Bungie は以前のスタジオで約束していた「Destiny を当初の約束に戻す」という計画に次の動きのヒントを公式に落としました...
-
-Bungie、Destiny 1再リリースのティーザーで「Destiny Classic」の噂に火をつける
-
-Destiny &#39;Legacy&#39; [2 月の新しいプログレスバーにご期待ください] 私たちの壮大な旅は 10 年以上前に始まり、今日プレイするすべての場所でその経験全体が提供される必要があります。来年初めにまた皆様にご連絡させていただきますので、さらなる情報をお待ちください。
-
-何から始めましょうか? 「Bungie の次章」に関するコミュニケーションでは、特にキャンペーン、目的地、レイドについて言及しました。テーブルの上には他に何がありますか?ジョシュ: すべてのプレイヤーが利用できるボールト解除のための最初のパスは、キャンペーンの計画を再び完全なものにすることに重点を置いています。特に、Vault 拡張からのキャンペーン、ストライク、レイドのアクティビティ コンテンツをターゲットにしています。 Menagerie は私たちの心の中で特別な場所を占めています (そして、コミュニティからの復活を求める長年の要望を見てきました)。そのため、このパスの一部にも含まれます: Red War、Forsaken、Curse of Osiris、Warmind キャンペーン
-
-上記のリリースによるストライキ
-
-上記のリリースの Raid および Raid Lairs
-
-再賞品のある動物園アクティビティ
-
-フリーローミング先 (公共イベント、ロストセクター、エスカレーションプロトコルなど)
-
-サンダイアル (シーズン 9) からザ コイル (シーズン 23) までの季節ごとのアクティビティ
-
-Raid …</p><p><img src="https://www.techpowerup.com/img/qAxWaJpIDJUEbQKg.jpg" alt="Bungie、Destiny 1再リリースのティーザーで「Destiny Classic」の噂に火をつける"></p>]]></description><source url="https://www.techpowerup.com/354294/bungie-ignites-rumors-of-destiny-classic-with-destiny-1-re-release-teaser">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/qAxWaJpIDJUEbQKg.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/qAxWaJpIDJUEbQKg.jpg"/></item>
-<item><title>(PR) Intel Reports Third-Quarter 2026 Financial Results</title><link>https://www.techpowerup.com/354291/intel-reports-third-quarter-2026-financial-results</link><guid isPermaLink="true">https://www.techpowerup.com/354291/intel-reports-third-quarter-2026-financial-results</guid><pubDate>Thu, 29 Oct 2026 20:09:42 +0000</pubDate><description><![CDATA[<p>(PR) Intel Reports Third-Quarter 2026 Financial Results</p>]]></description><source url="https://www.techpowerup.com/354291/intel-reports-third-quarter-2026-financial-results">TechPowerUp</source></item>
-<item><title>Google’s got some big updates landing for pretty much everything in your smart home</title><link>https://www.androidauthority.com/google-smart-home-hardware-updates-3729736/</link><guid isPermaLink="true">https://www.androidauthority.com/google-smart-home-hardware-updates-3729736/</guid><pubDate>Thu, 29 Oct 2026 20:07:38 +0000</pubDate><description><![CDATA[<p>Google’s got some big updates landing for pretty much everything in your smart home
-
-Google pushes big set of smart home updates to fix flaky speakers, cameras, network issues, and a whole lot more.
-
-Affiliate links on Android Authority may earn us a commission. Learn more.
-
-Google&#39;s got some big updates landing for pretty much everything in your smart home
-
-2 • Stephen Schenck / Android Authority Add Android Authority on Google: Preferred Source Google Discover TL;DR Google’s sharing its latest suite of smart home improvements, and they include a ton of updates for the company’s hardware.
-
-New software releases target everything from Nest Wifi routers to Chromecast streamers.
-
-The majority of the updates are looking to address specific bugs.
-
-Google Home can’t seem to go more than a coupl…</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2025/09/google_home_nest_camera_2.jpg" alt="Google’s got some big updates landing for pretty much everything in your smart home"></p>]]></description><source url="https://www.androidauthority.com/google-smart-home-hardware-updates-3729736/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2025/09/google_home_nest_camera_2.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2025/09/google_home_nest_camera_2.jpg"/></item>
-<item><title>BioWare co-founder says EA&#39;s Saudi buyout was &#39;the final nail in the coffin&#39; for the studio</title><link>https://www.tweaktown.com/rss/click/news/114395/?c=news-mf</link><guid isPermaLink="true">https://www.tweaktown.com/rss/click/news/114395/?c=news-mf</guid><pubDate>Thu, 29 Oct 2026 20:00:13 +0000</pubDate><description><![CDATA[<p>BioWare co-founder says EA&#39;s Saudi buyout was &#39;the final nail in the coffin&#39; for the studio</p>]]></description><source url="https://www.tweaktown.com/rss/click/news/114395/?c=news-mf">TweakTown</source></item>
-<item><title>Motherboard and GPU Prices Could Rise Further as PCB Shortages Extend to 2030</title><link>https://www.techpowerup.com/354289/motherboard-and-gpu-prices-could-rise-further-as-pcb-shortages-extend-to-2030</link><guid isPermaLink="true">https://www.techpowerup.com/354289/motherboard-and-gpu-prices-could-rise-further-as-pcb-shortages-extend-to-2030</guid><pubDate>Thu, 29 Oct 2026 19:59:06 +0000</pubDate><description><![CDATA[<p>Motherboard and GPU Prices Could Rise Further as PCB Shortages Extend to 2030
-
-Printed circuit boards (PCBs) are the foundation of every PC component, as they mount everything and connect the entire system using electrical components, wiring, and more. However, we are about to enter another phase of consumer electronics price hikes, as these PCBs are now experiencing severe...
-
-Motherboard and GPU Prices Could Rise Further as PCB Shortages Extend to 2030
-
-American PC Maker for Nikkei Asia Even though PC shipments could decline again next year, we are still struggling to secure enough PCB supplies to meet our needs.
-
-Jan 16th 2026 NVIDIA Reportedly Ends GeForce RTX 5070 Ti Production, RTX 5060 Ti 16 GB Next (210)
-
-Oct 25th 2026 GeForce Unlocked: Modders Boost RTX 20, RTX 30, and RTX 40 Comp…</p><p><img src="https://www.techpowerup.com/img/IdNPNdjG4FTcQYVU.jpg" alt="Motherboard and GPU Prices Could Rise Further as PCB Shortages Extend to 2030"></p>]]></description><source url="https://www.techpowerup.com/354289/motherboard-and-gpu-prices-could-rise-further-as-pcb-shortages-extend-to-2030">TechPowerUp</source><media:content url="https://www.techpowerup.com/img/IdNPNdjG4FTcQYVU.jpg" medium="image"/><media:thumbnail url="https://www.techpowerup.com/img/IdNPNdjG4FTcQYVU.jpg"/></item>
-<item><title>Moto Buds 2 Plus deal brings Bose-tuned buds under $100</title><link>https://www.androidauthority.com/moto-buds-2-plus-deal-3729769/</link><guid isPermaLink="true">https://www.androidauthority.com/moto-buds-2-plus-deal-3729769/</guid><pubDate>Thu, 29 Oct 2026 19:51:30 +0000</pubDate><description><![CDATA[<p>Moto Buds 2 Plus deal brings Bose-tuned buds under $100
-
-Save $50 on the Moto Buds 2 Plus and get Motorola’s premium 2026 earbuds with hybrid drivers, Audio Share, and ANC.
-
-Affiliate links on Android Authority may earn us a commission. Learn more.
-
-Moto Buds 2 Plus deal brings Bose-tuned buds under $100
-
-• C. Scott Brown / Android Authority Add Android Authority on Google: Preferred Source Google Discover Amazon has cut the Moto Buds 2 Plus to $99, $50 off the $149.99 retail price. That’s a 34% discount relative to the RRP, and it makes Motorola’s newer premium earbuds a lot more tempting right now.
-
-The Moto Buds 2 Plus sit above the standard Moto Buds 2 in Motorola’s lineup, so this deal gets you the more feature-packed option for under $100. Motorola positions them as its premium 2026 …</p><p><img src="https://www.androidauthority.com/wp-content/uploads/2026/04/Motorola-Moto-Buds-2-Plus-Earbuds-Outside-of-Case.jpg" alt="Moto Buds 2 Plus deal brings Bose-tuned buds under $100"></p>]]></description><source url="https://www.androidauthority.com/moto-buds-2-plus-deal-3729769/">Android Authority</source><media:content url="https://www.androidauthority.com/wp-content/uploads/2026/04/Motorola-Moto-Buds-2-Plus-Earbuds-Outside-of-Case.jpg" medium="image"/><media:thumbnail url="https://www.androidauthority.com/wp-content/uploads/2026/04/Motorola-Moto-Buds-2-Plus-Earbuds-Outside-of-Case.jpg"/></item>
 </channel></rss>
