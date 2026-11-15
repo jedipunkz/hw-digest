@@ -1,6 +1,171 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
-<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sat, 14 Nov 2026 21:28:40 +0000</lastBuildDate>
+<title>日本のハードウェア情報</title><description>日本のPC自作、モバイル、周辺機器ニュース（直近3時間）</description><link>./</link><lastBuildDate>Sun, 15 Nov 2026 01:54:14 +0000</lastBuildDate>
+<item><title>iPhone20 Proの4辺曲面ガラスパネルのもの？曲率や開口部がわかる動画が投稿</title><link>https://iphone-mania.jp/apple-608698/</link><guid isPermaLink="true">https://iphone-mania.jp/apple-608698/</guid><pubDate>Sun, 15 Nov 2026 00:51:10 +0000</pubDate><description><![CDATA[<p>iPhone20 Proの4辺曲面ガラスパネルのもの？曲率や開口部がわかる動画が投稿
+
+2027年秋に発売されると噂のiPhone発売20周年モデル「iPhone20 Pro」（仮称）向けとされる、4辺が曲面になったガラスを撮影した動画がXに投稿され、話題となっています。
+
+iPhone20 Proの4辺曲面ガラスパネルのもの？曲率や開口部がわかる動画が投稿
+
+2027年秋に発売されると噂のiPhone発売20周年モデル「 iPhone20 Pro 」（仮称）向けとされる、 4辺が曲面になったガラス を撮影した動画がXに投稿され、話題となっています。
+
+動画には、ガラスの上下左右の曲がり具合や、Face ID機構とフロントカメラ用と思われる開口部が映っています。
+
+これまでの噂と一致する部分がある一方、気になる点もあるため、動画の内容を比較してみました。
+
+iPhone20 Proは、ディスプレイの上下左右4辺が曲がり、ディスプレイが本体の側面まで回り込むように見えるデザインになると予想されています。
+
+今回の動画を投稿したのは、リーカーのIce Universe氏（＠UniverseIce）です。同氏は現地時間11月14日、iPhone20 Pro向けとして承認された3D曲面ガラスのサンプルと称する動画を公開しました。
+
+動画に映るガラスは4辺が湾曲しており、これまでの噂に合致しています。ただし、映っているのは完成したiPhoneではなく、カバーガラスとされる部品です。本当にApple向けのサンプルなのか、量産モデルと同じ仕様なのかは確認できません。
+
+投稿されたガラスには、Face ID機構やフロントカメラ用と思われる、長円形と円形のマーキングが確認できます。
+
+これらが実際の開口部を示しているとすれば、iPhone20 ProでもDynamic Islandに相当する部分が残される可能性があります。
+
+Weiboのリーカー、Digital Chat Station氏も11月初旬、iPhone20 Proシリーズは完全な穴なしディスプレイにはならず、Dynamic …</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/11/15/iPhone20-Pro-glass-IU.jpg" alt="iPhone20 Proの4辺曲面ガラスパネルのもの？曲率や開口部がわかる動画が投稿"></p>]]></description><source url="https://iphone-mania.jp/apple-608698/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/11/15/iPhone20-Pro-glass-IU.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/11/15/iPhone20-Pro-glass-IU.jpg"/></item>
+<item><title>Macは「誰が家族か」を推測していた。macOS 13以降の常駐プログラムが人間関係をグラフ化、研究者が解析</title><link>https://smhn.info/202611-macos-knowledge-graph-family-classifier-research</link><guid isPermaLink="true">https://smhn.info/202611-macos-knowledge-graph-family-classifier-research</guid><pubDate>Sat, 14 Nov 2026 23:53:24 +0000</pubDate><description><![CDATA[<p>Macは「誰が家族か」を推測していた。macOS 13以降の常駐プログラムが人間関係をグラフ化、研究者が解析
+
+誰が家族で、誰と親しく、いつ誰と連絡を取っているのか。Macの中では、利用者の人間関係を推測してグラフにまとめる常駐プログラムが動いているようです。セキュリティ研究者によると、macOS 13以降のMacは、そうした情報を端末内のデータベースに蓄えてきました。セキュリティ研究グル...
+
+Macは「誰が家族か」を推測していた。macOS 13以降の常駐プログラムが人間関係をグラフ化、研究者が解析
+
+誰が家族で、誰と親しく、いつ誰と連絡を取っているのか 。Macの中では、利用者の人間関係を推測してグラフにまとめる 常駐プログラム が動いているようです。セキュリティ研究者によると、macOS 13以降のMacは、そうした情報を端末内のデータベースに蓄えてきました。
+
+セキュリティ研究グループのEighth Rankに所属するDario Pasquini氏とMichał Bazyli氏は10月28日、macOS 26.6.2の内部処理を解析した結果を公開しました。
+
+中心となるのは「knowledgeconstructiond」と「intelligenceplatformd」という2つのデーモン（常駐プログラム）。
+
+macOSでの仕組みについて、「端末上のコンテンツを分析し、端末と利用者を表すナレッジグラフの構築を助ける」とAppleは書いている程度にとどまります。
+
+そして、もう一方のintelligenceplatformdのmanページには、OSのほかの部品がこのグラフに問い合わせて、より豊かな体験を提供できるとあります。
+
+両氏によると、データは利用者のライブラリ内にある「IntelligencePlatform」フォルダーへ、51個のSQLiteデータベース…</p><p><img src="https://smhn.info/wp-content/uploads/2026/11/iknow-landing-graph.webp" alt="Macは「誰が家族か」を推測していた。macOS 13以降の常駐プログラムが人間関係をグラフ化、研究者が解析"></p>]]></description><source url="https://smhn.info/202611-macos-knowledge-graph-family-classifier-research">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/11/iknow-landing-graph.webp" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/11/iknow-landing-graph.webp"/></item>
+<item><title>新MacBook Pro、16インチに傾いたが14インチを選ぶ3つの理由</title><link>https://gori.me/macbookpro/172477</link><guid isPermaLink="true">https://gori.me/macbookpro/172477</guid><pubDate>Sat, 14 Nov 2026 23:40:45 +0000</pubDate><description><![CDATA[<p>新MacBook Pro、16インチに傾いたが14インチを選ぶ3つの理由
+
+14インチのMacBook Proは1.38kgで、13インチMacBook Air（M5・1.23kg）との差は約150gしかない。16インチは320g軽くなり持った瞬間に差が分かるが、次の買い替えでも14インチを選ぶと思う。携帯性、作業スペース、充電のハードルという3つの理由と、16インチが有利な点をまとめた。
+
+新MacBook Pro、16インチに傾いたが14インチを選ぶ3つの理由
+
+16インチは320g減で持った瞬間に分かるが、携帯性と充電のしやすさで14インチに
+
+通知を受け取る ゴリミーをGoogleで お気に入りに追加する 忙しい人のための3行まとめ ▾ 14インチのMacBook Proは1.38kgで、13インチMacBook Air（M5）の1.23kgとの差は約150g。15インチのMacBook Air（1.51kg）より軽い
+
+従来2.14〜2.15kgから320g減った16インチは持ち上げた瞬間に軽さが分かるが、携帯性・作業スペース・充電のハードルを考えると次も14インチを選ぶ
+
+16インチが有利なのは冷却とスピーカー。バッテリーの公表値の差は最大22時間と24時間で2時間
+
+14インチの MacBook Pro が1.38kg、16インチが1.82kg 。新しい MacBook Pro が薄く軽くなったことで、14インチと16インチのどちらを選ぶかという判断の前提が変わった。
+
+13インチの MacBook Air（M5） は1.23kgなので、14インチの MacBook Pro との差は 約150g しかない。15インチの MacBook Air （1.51kg）より、14インチの MacBook Pro のほうが軽い。
+
+15インチ MacBook Air と”…</p><p><img src="https://gori.me/uploads/2026/11/1793949551920-Hands-on-with-iPad-mini-A20-Pro-and-MacBook-Pro-PROLED-Display-16.jpg" alt="新MacBook Pro、16インチに傾いたが14インチを選ぶ3つの理由"></p>]]></description><source url="https://gori.me/macbookpro/172477">gori.me</source><media:content url="https://gori.me/uploads/2026/11/1793949551920-Hands-on-with-iPad-mini-A20-Pro-and-MacBook-Pro-PROLED-Display-16.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/11/1793949551920-Hands-on-with-iPad-mini-A20-Pro-and-MacBook-Pro-PROLED-Display-16.jpg"/></item>
+<item><title>「いくら軍艦」や「うに軍艦」デザインの可愛らしいワイヤレスイヤホンが1,100円</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2156479.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2156479.html</guid><pubDate>Sat, 14 Nov 2026 23:05:00 +0000</pubDate><description><![CDATA[<p>「いくら軍艦」や「うに軍艦」デザインの可愛らしいワイヤレスイヤホンが1,100円
+
+食べ物をモチーフにしたケースデザインのワイヤレスイヤホン「Pro 4」の新モデルがあきばお～八號店に入荷。
+
+「いくら軍艦」や「うに軍艦」デザインの可愛らしいワイヤレスイヤホンが1,100円
+
+食べ物をモチーフにしたケースデザインのワイヤレスイヤホン「Pro 4」の新モデルが あきばお～八號店 に入荷。
+
+今回入荷したのは「いくら軍艦」「うに軍艦」の2種類。吉田産業株式会社のプライズ向け商品で、店頭価格は各1,100円。
+
+バッテリー容量/充電時間はイヤホンが25mAh/約1時間、ケースが180mAh/約2時間で、充電は付属のLightningケーブルで行う。Bluetoothバージョンは5.3。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2156/479/a1.jpg" alt="「いくら軍艦」や「うに軍艦」デザインの可愛らしいワイヤレスイヤホンが1,100円"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2156479.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2156/479/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2156/479/a1.jpg"/></item>
+<item><title>MacでXbox 360ゲームが動く無料アプリ「macXenos」公開</title><link>https://gori.me/mac/mac-news/172473</link><guid isPermaLink="true">https://gori.me/mac/mac-news/172473</guid><pubDate>Sat, 14 Nov 2026 22:45:55 +0000</pubDate><description><![CDATA[<p>MacでXbox 360ゲームが動く無料アプリ「macXenos」公開
+
+Xbox 360のゲームをMacで動かす無料の互換ソフト「macXenos」が正式版1.0として公開された。Metalで描き直したエンジンにより、『Red Dead Redemption』のメモリ使用量は971MBから約120MBまで削減し、60fpsの安定動作も実現した。対応ゲームの一覧はGitHubで確認できる。
+
+MacでXbox 360ゲームが動く無料アプリ「macXenos」公開
+
+Apple公証済み、正式版1.0でメモリ使用量971MB→約120MBに削減
+
+通知を受け取る ゴリミーをGoogleで お気に入りに追加する 忙しい人のための3行まとめ ▾ Xbox 360のゲームをMacで動かす無料ソフト「macXenos」が正式版1.0として公開された。
+
+Metalで描き直したエンジンにより、『Red Dead Redemption』のメモリ使用量が971MBから約120MBに削減された。
+
+macOS 15以降のApple SiliconとRadeon RX 580級のIntel Macに対応し、GitHubで対応ゲームの一覧を確認できる。
+
+Xbox 360のゲームをMacで動かす無料のまねソフト「 macXenos 」が、正式版の 1.0 として公開された。
+
+Xenia Canaryという既存のまねソフトをMac向けに移植したオープンソースのアプリで、Metal（Appleのグラフィックス技術）で描き直すことでApple SiliconのMacでもネイティブに動く。macOS 15 Sequoia以降なら無料でダウンロードでき、Apple Developer IDによる署名と公証も済んでいる。
+
+公開は2026年11月12日。開発者は個人で、「研究目的であり、自分が所有するXbo…</p><p><img src="https://gori.me/uploads/2026/11/1794693032505-MaxXenos_com.jpg" alt="MacでXbox 360ゲームが動く無料アプリ「macXenos」公開"></p>]]></description><source url="https://gori.me/mac/mac-news/172473">gori.me</source><media:content url="https://gori.me/uploads/2026/11/1794693032505-MaxXenos_com.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/11/1794693032505-MaxXenos_com.jpg"/></item>
+<item><title>いつでも好きなキースイッチを持ち歩ける「キーボードキーホルダー」に1キーモデル</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2156478.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2156478.html</guid><pubDate>Sat, 14 Nov 2026 22:05:00 +0000</pubDate><description><![CDATA[<p>いつでも好きなキースイッチを持ち歩ける「キーボードキーホルダー」に1キーモデル
+
+好きなキースイッチを持ち歩ける「キーボードキーホルダー」の1キーモデルが、遊舎工房に入荷。価格は330円。
+
+いつでも好きなキースイッチを持ち歩ける「キーボードキーホルダー」に1キーモデル - AKIBA PC Hotline!
+
+いつでも好きなキースイッチを持ち歩ける「キーボードキーホルダー」に1キーモデル
+
+好きなキースイッチを持ち歩ける「キーボードキーホルダー」の1キーモデルが、 遊舎工房 に入荷。価格は330円。
+
+好みのキースイッチとキーキャップを取り付けられるキーホルダー。
+
+手持ち無沙汰なときやリフレッシュしたいときに遊べるフィジェットトイとして人気のアイテム。スイッチとキーキャップは別途用意が必要。
+
+Copyright © 2018 Impress Corporation. All rights reserved.</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2156/478/a1.jpg" alt="いつでも好きなキースイッチを持ち歩ける「キーボードキーホルダー」に1キーモデル"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2156478.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2156/478/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2156/478/a1.jpg"/></item>
+<item><title>Galaxyの折りたたみスマホ、米Apple下取りに初追加。狙いはDuo乗り換えか</title><link>https://gori.me/iphone/iphone-news/172470</link><guid isPermaLink="true">https://gori.me/iphone/iphone-news/172470</guid><pubDate>Sat, 14 Nov 2026 21:55:05 +0000</pubDate><description><![CDATA[<p>Galaxyの折りたたみスマホ、米Apple下取りに初追加。狙いはDuo乗り換えか
+
+Appleは2026年11月12日、米国のApple Trade InにGalaxyの折りたたみ6機種を追加した。最大額はFold7の410ドルだ。iPhone 17・Airの下取り額は615ドルへ増額、Pro系は減額となった。日本の下取りページにはAndroidの具体的な金額表示はない。
+
+Galaxyの折りたたみスマホ、米Apple下取りに初追加。狙いはDuo乗り換えか
+
+通知を受け取る ゴリミーをGoogleで お気に入りに追加する 忙しい人のための3行まとめ ▾ Appleは2026年11月12日、米国のApple Trade InにGalaxy Z Fold7・Fold6・Fold5とFlip7・Flip6・Flip5の計6機種を追加した
+
+下取り最大額はGalaxy Z Fold7の410ドル。iPhone 17・iPhone Airは615ドルへ30ドル増額された一方、iPhone 17 Pro・Pro Maxは減額された
+
+この改定は米国のApple Trade In限定で、日本の下取りページにはAndroid端末への具体的な金額表示はない
+
+Appleは2026年11月12日、米国のApple Trade In（下取りプログラム）で、 Samsung の折りたたみスマートフォンを史上初めて下取り対象に加えた。対象はGalaxy Z Fold7・Fold6・Fold5とGalaxy Z Flip7・Flip6・Flip5の6機種で、最大額はFold7の410ドルだ。 MacRumors と 9to5Mac が同日に伝えた。
+
+同じタイミングでiPhoneの下取り額も見直され、 iPhone Air ・ iPhone 17 はともに30ドル増の最大615ドルになった一方、 iPhone 17 Pro ・Pro Maxは減額されている。今回の変更は米国のApple Trade Inだけの話で、日本の下取りページには同様の金額一覧は見当たらない。
+
+Samsung は10月、…</p><p><img src="https://gori.me/uploads/2025/07/Samsung-Galaxy-Z-Fold7-Hands-on-01.jpg" alt="Galaxyの折りたたみスマホ、米Apple下取りに初追加。狙いはDuo乗り換えか"></p>]]></description><source url="https://gori.me/iphone/iphone-news/172470">gori.me</source><media:content url="https://gori.me/uploads/2025/07/Samsung-Galaxy-Z-Fold7-Hands-on-01.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2025/07/Samsung-Galaxy-Z-Fold7-Hands-on-01.jpg"/></item>
+<item><title>Apple Music Classical、年間最優秀アルバムにイム・ユンチャン選出</title><link>https://gori.me/apple/apple-news/172467</link><guid isPermaLink="true">https://gori.me/apple/apple-news/172467</guid><pubDate>Sat, 14 Nov 2026 21:30:00 +0000</pubDate><description><![CDATA[<p>Apple Music Classical、年間最優秀アルバムにイム・ユンチャン選出
+
+Apple Music Classicalが、イム・ユンチャンの『バッハ：ゴルトベルク変奏曲 – カーネギーホール・ライブ』を「クラシカル・アルバム・オブ・ザ・イヤー2026」に選出。クラシカルトップ100で16週連続1位、39週連続トップ10を記録した1枚だ。受賞記念のデラックス版も配信中。
+
+Apple Music Classical、年間最優秀アルバムにイム・ユンチャン選出
+
+通知を受け取る ゴリミーをGoogleで お気に入りに追加する 忙しい人のための3行まとめ ▾ Apple Music Classicalがイム・ユンチャンの『バッハ：ゴルトベルク変奏曲 – カーネギーホール・ライブ』を「クラシカル・アルバム・オブ・ザ・イヤー2026」に選出
+
+クラシカルトップ100で16週連続1位、39週連続トップ10を記録
+
+受賞記念のスペシャルデラックスエディションを配信、Apple Music登録者は追加費用なしで聴ける
+
+Apple Music Classicalは、イム・ユンチャン（Yunchan Lim）の『バッハ：ゴルトベルク変奏曲 – カーネギーホール・ライブ』を「クラシカル・アルバム・オブ・ザ・イヤー 2026」に選出した。2026年にリリースされた全アルバムの中から、 Apple Music Classicalの専門エディトリアルチームが選んだ1枚だという。
+
+このアルバムは、2026年の Apple Music Classicalグローバルチャート「クラシカルトップ100」で通算 16週にわたり1位 を獲得し、現在までに39週連続でトップ10入りを続けている。批評家からの評価とリスナーからの支持の両方を集めた録音だとしている。
+
+イム・ユンチャンが Apple Mus…</p><p><img src="https://gori.me/uploads/2026/11/1794688742351-Apple-Music-Classical-Album-of-the-Year-01.jpg" alt="Apple Music Classical、年間最優秀アルバムにイム・ユンチャン選出"></p>]]></description><source url="https://gori.me/apple/apple-news/172467">gori.me</source><media:content url="https://gori.me/uploads/2026/11/1794688742351-Apple-Music-Classical-Album-of-the-Year-01.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/11/1794688742351-Apple-Music-Classical-Album-of-the-Year-01.jpg"/></item>
+<item><title>Appleクリスマスギフト2026デザインのオリジナル壁紙が制作公開〜全18種類</title><link>https://iphone-mania.jp/funny-608667/</link><guid isPermaLink="true">https://iphone-mania.jp/funny-608667/</guid><pubDate>Sat, 14 Nov 2026 15:05:00 +0000</pubDate><description><![CDATA[<p>Appleクリスマスギフト2026デザインのオリジナル壁紙が制作公開〜全18種類
+
+Apple Storeのクリスマスギフト2026案内ページのデザインをモチーフにしたオリジナル壁紙が制作公開されています。ldt氏（＠madeby_ldt）がX（旧Twitter）で案内しているオリジナル壁紙は、合計18種類です。
+
+Appleクリスマスギフト2026デザインのオリジナル壁紙が制作公開〜全18種類
+
+Apple Storeのクリスマスギフト2026案内ページのデザインをモチーフにした オリジナル壁紙 が制作公開されています。ldt氏（＠madeby_ldt）がX（旧Twitter）で案内している オリジナル壁紙は、合計18種類 です。
+
+ldt氏が制作した「Apple Storeのクリスマスギフト2026案内ページ」デザインのオリジナル壁紙は、同氏の投稿のリンク先であるGoogle Driveからダウンロード可能です。
+
+壁紙のデザインは解像度が異なる2つの区分があり、ファイル名として「Display」シリーズと「MacBook」シリーズに分類されています。
+
+「Display」シリーズの解像度は、7,213×4,057ピクセルです。
+
+「MacBook」シリーズの解像度は、6,220×4,021ピクセルです。
+
+両シリーズとも、ベージュ、ブルー、グリーン、オレンジ、ピンク、バイオレット基調の壁紙と、これらを組み合わせたマルチ1、マルチ2、マルチ3の9種類の構成となっています。
+
+本ページに掲載している壁紙は確認用のサイズ縮小版です。オリジナル壁紙は、ldt氏（＠madeby_ldt）の投稿に記載されているGoogle Driveを参照下さい。
+
+Download them from Google Drive: https://t.co/6W7YUjr5XF
+
+Source: ldt（＠madeby_ldt）/X , Apple
+
+--PR-- [公式] - iPhoneの購入や予約はオンラインで確実に！
+
+iPhoneなどApple製品の疑問は iMコミュニティ で聞け…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/11/14/Apple-holiday-2026-ldt-WP.jpg" alt="Appleクリスマスギフト2026デザインのオリジナル壁紙が制作公開〜全18種類"></p>]]></description><source url="https://iphone-mania.jp/funny-608667/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/11/14/Apple-holiday-2026-ldt-WP.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/11/14/Apple-holiday-2026-ldt-WP.jpg"/></item>
 <item><title>ドコモのOCNマイページ、メンテナンス終了を無告知で1週間延長。値上げ前、MNP予約番号も申し込めず</title><link>https://smhn.info/202611-ocn-mypage-maintenance-extended-mnp</link><guid isPermaLink="true">https://smhn.info/202611-ocn-mypage-maintenance-extended-mnp</guid><pubDate>Sat, 14 Nov 2026 13:58:45 +0000</pubDate><description><![CDATA[<p>ドコモのOCNマイページ、メンテナンス終了を無告知で1週間延長。値上げ前、MNP予約番号も申し込めず
 
 NTTドコモが提供する「OCN マイページ」は11月9日から、使えない状態が続いています。OCNの工事情報によると、メンテナンスの期間は11月20日18時00分頃まで。期間中はマイページのすべての機能が停止しています。このメンテナンスは当初、11月13日18時00分までの予定でし...
@@ -344,23 +509,6 @@ CCコネクト には「Galaxy Z Fold5 SC-55D」の中古Cランク品とジャ�
 ゲオモバイル 365 Plus1 アキバ店 では「Galaxy S24 Ultra SC-52E」の中古品が販売中。価格は88,000円となっています。
 
 ※掲載品の価格、在庫状況は調査時のものであり、販売価格の変更や販売終了となっている場合がありますのであらかじめご了承ください。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2156/460/a1.jpg" alt="「Galaxy Z Flip6」が47,800円、「Galaxy S24 Ultra」が88,000円など！秋葉原でGalaxyシリーズの中古品がお買い得"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2156460.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2156/460/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2156/460/a1.jpg"/></item>
-<item><title>【11/17発売】11/17から世界初・専用OSを搭載したデスクトップDAC/アンプ MUSE 300 が登場！</title><link>https://e-earphone.blog/?p=1557100</link><guid isPermaLink="true">https://e-earphone.blog/?p=1557100</guid><pubDate>Sat, 14 Nov 2026 02:00:00 +0000</pubDate><description><![CDATA[<p>【11/17発売】11/17から世界初・専用OSを搭載したデスクトップDAC/アンプ MUSE 300 が登場！
-
-独自開発した専用OSを搭載した、世界初のデスクトップDAC/ヘッドホンアンプ！！ こんにちは！e☆イヤホンのPRスタッフです！ 今回はMUSE HiFiからの新製品のご紹介です。 MUSE HiFi MUSE 300 2 […]
-
-【11/17発売】11/17から世界初・専用OSを搭載したデスクトップDAC/アンプ MUSE 300 が登場！
-
-独自開発した専用OSを搭載した、世界初のデスクトップDAC/ヘッドホンアンプ！！
-
-MUSE 300の最大の特徴は、Muse HiFiが3年の歳月をかけて独自開発したオーディオ専用OS「MUSE OS」です。Androidのような重量級のプラットフォームではなく、強力な32ビットMCUコントローラーを核とし、200以上のトップレベルMCUインターフェースを備えたMUSE OSは、純粋にオーディオのために最適化されており、軽快かつクリーンな動作を実現します。
-
-ハードウェアレベルの音色モード：Balanced・Tube・ACG
-
-MUSE 300は、ロスレスアナログ回路切替により実装された3種類のサウンドモードをゼロレイテンシーで即時切替可能です。「Balanced（バランス）」モードは、タイトな低音とクリアな楽器描写によるナチュラルサウンド。「Tube（チューブ）」モードは、豊かな中低域と密度の高いボーカルを持つ真空管的サウンドで、POPなどボーカル重視のジャンルに最適。「ACG」モードは、アニメ・ゲームファン向けにチューニングされた躍動感あふれるサウンドを提供します。
-
-ユーザーは「Cyberpunk（サイバーパンク）」「Minimalist（ミニマリスト）」「ACG」の3つのUIテーマから自由に選択でき、お気に入りの壁紙をスクリーンセーバーとしてアップロードすることも可能です。触感フィードバック付きの多機能コントロールノブ1つで、すべての設定をスムーズに操作できます。
-
-電源・音量・入力・モード切替をすべて1つ…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/11/MUSE-HiFi-MUSE-300.webp" alt="【11/17発売】11/17から世界初・専用OSを搭載したデスクトップDAC/アンプ MUSE 300 が登場！"></p>]]></description><source url="https://e-earphone.blog/?p=1557100">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/11/MUSE-HiFi-MUSE-300.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/11/MUSE-HiFi-MUSE-300.webp"/></item>
 <item><title>【11/14発売】ddHiFiから4.4mmバランス端子の直挿しプラグをL字にするアダプタ DJ44L が登場！</title><link>https://e-earphone.blog/?p=1557191</link><guid isPermaLink="true">https://e-earphone.blog/?p=1557191</guid><pubDate>Sat, 14 Nov 2026 02:00:00 +0000</pubDate><description><![CDATA[<p>【11/14発売】ddHiFiから4.4mmバランス端子の直挿しプラグをL字にするアダプタ DJ44L が登場！
 
 DJ44Lを間に挟むだけでプラグの向きをL字に変え、取り回しをすっきりさせられる こんにちは！e☆イヤホンのPRスタッフです！ 今回はddHiFiからの新製品のご紹介です。 ddHiFi DJ44L 2026年11月14 […]
@@ -388,6 +536,23 @@ Questyle新型ポータブルDAC/AMP「MEX」発売決定！ミミゴトにて11
 【中古セール】驚きの値引き率！月替わりの店頭限定特価開催！【2026/11/1(日)～11/30(月)】 2026年10月31日
 
 【…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/11/ddHiFi-DJ44L.webp" alt="【11/14発売】ddHiFiから4.4mmバランス端子の直挿しプラグをL字にするアダプタ DJ44L が登場！"></p>]]></description><source url="https://e-earphone.blog/?p=1557191">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/11/ddHiFi-DJ44L.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/11/ddHiFi-DJ44L.webp"/></item>
+<item><title>【11/17発売】11/17から世界初・専用OSを搭載したデスクトップDAC/アンプ MUSE 300 が登場！</title><link>https://e-earphone.blog/?p=1557100</link><guid isPermaLink="true">https://e-earphone.blog/?p=1557100</guid><pubDate>Sat, 14 Nov 2026 02:00:00 +0000</pubDate><description><![CDATA[<p>【11/17発売】11/17から世界初・専用OSを搭載したデスクトップDAC/アンプ MUSE 300 が登場！
+
+独自開発した専用OSを搭載した、世界初のデスクトップDAC/ヘッドホンアンプ！！ こんにちは！e☆イヤホンのPRスタッフです！ 今回はMUSE HiFiからの新製品のご紹介です。 MUSE HiFi MUSE 300 2 […]
+
+【11/17発売】11/17から世界初・専用OSを搭載したデスクトップDAC/アンプ MUSE 300 が登場！
+
+独自開発した専用OSを搭載した、世界初のデスクトップDAC/ヘッドホンアンプ！！
+
+MUSE 300の最大の特徴は、Muse HiFiが3年の歳月をかけて独自開発したオーディオ専用OS「MUSE OS」です。Androidのような重量級のプラットフォームではなく、強力な32ビットMCUコントローラーを核とし、200以上のトップレベルMCUインターフェースを備えたMUSE OSは、純粋にオーディオのために最適化されており、軽快かつクリーンな動作を実現します。
+
+ハードウェアレベルの音色モード：Balanced・Tube・ACG
+
+MUSE 300は、ロスレスアナログ回路切替により実装された3種類のサウンドモードをゼロレイテンシーで即時切替可能です。「Balanced（バランス）」モードは、タイトな低音とクリアな楽器描写によるナチュラルサウンド。「Tube（チューブ）」モードは、豊かな中低域と密度の高いボーカルを持つ真空管的サウンドで、POPなどボーカル重視のジャンルに最適。「ACG」モードは、アニメ・ゲームファン向けにチューニングされた躍動感あふれるサウンドを提供します。
+
+ユーザーは「Cyberpunk（サイバーパンク）」「Minimalist（ミニマリスト）」「ACG」の3つのUIテーマから自由に選択でき、お気に入りの壁紙をスクリーンセーバーとしてアップロードすることも可能です。触感フィードバック付きの多機能コントロールノブ1つで、すべての設定をスムーズに操作できます。
+
+電源・音量・入力・モード切替をすべて1つ…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/11/MUSE-HiFi-MUSE-300.webp" alt="【11/17発売】11/17から世界初・専用OSを搭載したデスクトップDAC/アンプ MUSE 300 が登場！"></p>]]></description><source url="https://e-earphone.blog/?p=1557100">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/11/MUSE-HiFi-MUSE-300.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/11/MUSE-HiFi-MUSE-300.webp"/></item>
 <item><title>iPhone18と18eが2027年春発売との予想に自信〜シェア1位に貢献？</title><link>https://iphone-mania.jp/iphone18-608654/</link><guid isPermaLink="true">https://iphone-mania.jp/iphone18-608654/</guid><pubDate>Sat, 14 Nov 2026 01:31:28 +0000</pubDate><description><![CDATA[<p>iPhone18と18eが2027年春発売との予想に自信〜シェア1位に貢献？
 
 iPhone18とiPhone18eが2027年春に発売されるとの予想について、Bloombergのマーク・ガーマン記者が改めて自信を示しています。
@@ -1165,6 +1330,33 @@ NVIDIAにとって最大の経営リスクだったフアン氏へのハプニ�
 筆者はテック系記者であって、芸能や政治の記者でもないため、フアン氏辞任の裏で何があったのかは、公式発表されている内容以上のことは知らない。公式発表の内容に関しては以下の記事にまとめられているので、そちらをご参照いただきたい。もし筆者の個人的な感想を教えてほしいと問われれば「残念」、ただ一言それに尽きる。
 
 日頃からPC Watch…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2156/149/001.jpg" alt="【笠原一輝のユビキタス情報局】フアン氏辞任のNVIDIA、33年の成功を支えたCUDAと次のリーダーの条件"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/column/ubiq/2156149.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2156/149/001.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2156/149/001.jpg"/></item>
+<item><title>【#eイヤ名古屋大須店 】2026年11月のインプレッション採取会は11月28日(土)に開催！</title><link>https://e-earphone.blog/?p=1556982</link><guid isPermaLink="true">https://e-earphone.blog/?p=1556982</guid><pubDate>Fri, 13 Nov 2026 02:00:00 +0000</pubDate><description><![CDATA[<p>【#eイヤ名古屋大須店 】2026年11月のインプレッション採取会は11月28日(土)に開催！
+
+  こんにちは、名古屋大須店のもりぞーです。   11月に入って一気に気温が下がってきましたが、今回は今月のe☆イヤホン名古屋大須店のインプレッション採取会のお知らせですよ～！   2026 […]
+
+【#eイヤ名古屋大須店 】2026年11月のインプレッション採取会は11月28日(土)に開催！
+
+11月に入って一気に気温が下がってきましたが、今回は今月のe☆イヤホン名古屋大須店のインプレッション採取会のお知らせですよ～！
+
+2026年11月のインプレッション（耳型）採取会は、28日の土曜日に開催いたします！
+
+・2026年11 月28 日(土曜日 ) 14:00～17:00
+
+※qdcのカスタムIEM製品を製作される場合は\6,050-(税込み)
+
+qdcのカスタムIEM製品 を製作される場合は、 耳型採取時にバイトブロックを使用するため、 インプレッションの採取料金が \￥5,500- に加え、バイトブロック使用料金として￥550-が必要となり ます。（￥550-は現金でご用意をお願いいたします）
+
+qdc製品を製作予定のお客様につきましては予めご了承くださいませ。
+
+https://www.e-earphone.jp/pages/shop_osu
+
+【予約方法】 WEBページからの予約のみの受付とさせていただきます。 お手数をおかけしますが、下記リンク先の内容をご確認ください。
+
+インプレッションの採取は1枠20分です。 予約時に空いている枠からお好きな時間をお選びいただけます。
+
+↓ こちらからご希望の時間を選択いただき、お支払いをお願いします ↓
+
+・予約枠は 先着順 となります。 ご予約をいただいていない場合は、予約状況によってはご来店後すぐに採取のご案内ができない…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/11/e3ba2d36261e395eb5a9e26dddaac9a0.webp" alt="【#eイヤ名古屋大須店 】2026年11月のインプレッション採取会は11月28日(土)に開催！"></p>]]></description><source url="https://e-earphone.blog/?p=1556982">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/11/e3ba2d36261e395eb5a9e26dddaac9a0.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/11/e3ba2d36261e395eb5a9e26dddaac9a0.webp"/></item>
 <item><title>標準バッテリで22時間駆動の10.1型タフブック「FZ-G3」</title><link>https://pc.watch.impress.co.jp/docs/news/2155824.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2155824.html</guid><pubDate>Fri, 13 Nov 2026 02:00:00 +0000</pubDate><description><![CDATA[<p>標準バッテリで22時間駆動の10.1型タフブック「FZ-G3」
 
 パナソニック コネクトは、10.1型の堅牢タブレットPC「タフブック FZ-G3」を2027年1月から順次発売する。ラインナップは標準モデル「FZ-G3AY10XAJ」、軽量モデル「FZ-G3AY20XAJ」、ワイヤレスWAN(LTE)モデル「FZ-G3AY10BAJ」、ワイヤレスWAN(5G&lt;E)モデル「FZ-G3AY10FAJ」の4モデル。価格はすべてオープンプライス。
@@ -1193,33 +1385,6 @@ Noble Audio FoKus Artemis Arctic Silver
 『FoKus Artemis』は、「ワイヤレスヘッドホンであっても、リスニング体験を妥協する必要はない」というシンプルな考えに基づいて開発されました。革新的な3ドライバー・トライブリッド構造を基盤とし、ダイナミックドライバー、プラナーマグネティック（平面磁界）ドライバー、BAドライバーを組み合わせることで、ハイエンド・パーソナルオーディオに期待されるスケール感、ディテール、スピード、そしてインパクトを、ワイヤレスリスニングならではの自由さと利便性とともに実現しています。その結果、力強い低音、明瞭なボーカル、正確な音像定位、そして豊かなディテールを備えた、広々とした没入感のあるサウンドが生まれます。
 
 FoKus Artemis は、単一のダイナミックドライバーに依存している…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/11/Noble-Audio-FoKus-Artemis-Arctic-Silver.webp" alt="【11/21発売】Noble AudioからDD＋BA＋PDトライブリッド3ドライバー構成を採用したフラッグシップ・ワイヤレスヘッドホン FoKus Artemis Arctic Silver が登場！"></p>]]></description><source url="https://e-earphone.blog/?p=1557039">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/11/Noble-Audio-FoKus-Artemis-Arctic-Silver.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/11/Noble-Audio-FoKus-Artemis-Arctic-Silver.webp"/></item>
-<item><title>【#eイヤ名古屋大須店 】2026年11月のインプレッション採取会は11月28日(土)に開催！</title><link>https://e-earphone.blog/?p=1556982</link><guid isPermaLink="true">https://e-earphone.blog/?p=1556982</guid><pubDate>Fri, 13 Nov 2026 02:00:00 +0000</pubDate><description><![CDATA[<p>【#eイヤ名古屋大須店 】2026年11月のインプレッション採取会は11月28日(土)に開催！
-
-  こんにちは、名古屋大須店のもりぞーです。   11月に入って一気に気温が下がってきましたが、今回は今月のe☆イヤホン名古屋大須店のインプレッション採取会のお知らせですよ～！   2026 […]
-
-【#eイヤ名古屋大須店 】2026年11月のインプレッション採取会は11月28日(土)に開催！
-
-11月に入って一気に気温が下がってきましたが、今回は今月のe☆イヤホン名古屋大須店のインプレッション採取会のお知らせですよ～！
-
-2026年11月のインプレッション（耳型）採取会は、28日の土曜日に開催いたします！
-
-・2026年11 月28 日(土曜日 ) 14:00～17:00
-
-※qdcのカスタムIEM製品を製作される場合は\6,050-(税込み)
-
-qdcのカスタムIEM製品 を製作される場合は、 耳型採取時にバイトブロックを使用するため、 インプレッションの採取料金が \￥5,500- に加え、バイトブロック使用料金として￥550-が必要となり ます。（￥550-は現金でご用意をお願いいたします）
-
-qdc製品を製作予定のお客様につきましては予めご了承くださいませ。
-
-https://www.e-earphone.jp/pages/shop_osu
-
-【予約方法】 WEBページからの予約のみの受付とさせていただきます。 お手数をおかけしますが、下記リンク先の内容をご確認ください。
-
-インプレッションの採取は1枠20分です。 予約時に空いている枠からお好きな時間をお選びいただけます。
-
-↓ こちらからご希望の時間を選択いただき、お支払いをお願いします ↓
-
-・予約枠は 先着順 となります。 ご予約をいただいていない場合は、予約状況によってはご来店後すぐに採取のご案内ができない…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/11/e3ba2d36261e395eb5a9e26dddaac9a0.webp" alt="【#eイヤ名古屋大須店 】2026年11月のインプレッション採取会は11月28日(土)に開催！"></p>]]></description><source url="https://e-earphone.blog/?p=1556982">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/11/e3ba2d36261e395eb5a9e26dddaac9a0.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/11/e3ba2d36261e395eb5a9e26dddaac9a0.webp"/></item>
 <item><title>【11/19 9:00発売】Victorから4種類の有線イヤホン FX29/FR29/F18/FR18 が登場！</title><link>https://e-earphone.blog/?p=1557064</link><guid isPermaLink="true">https://e-earphone.blog/?p=1557064</guid><pubDate>Fri, 13 Nov 2026 02:00:00 +0000</pubDate><description><![CDATA[<p>【11/19 9:00発売】Victorから4種類の有線イヤホン FX29/FR29/F18/FR18 が登場！
 
 選べる4色のカラーバリエーションと好きな形、マイク付きが選べる有線イヤホンが登場 こんにちは！e☆イヤホンのPRスタッフです！ 今回はVictorからの新製品のご紹介です。 Victor HA-FX29 2026年11日 […]
@@ -1271,19 +1436,6 @@ Appleとポケモンが30周年記念コラボ。「カジッチュ」のApple G
 Appleとポケモン が、 ポケモンの誕生30周年を記念したコラボレーション を日本で実施する。りんごぐらしポケモン「カジッチュ」を描いた Apple Gift Card Pokémon Special Edition を、2026年11月16日（月）から11月30日（月）まで、直営店のApple Store全11店舗で販売する。
 
 金額は1,000円から2…</p><p><img src="https://gori.me/uploads/2026/11/1794525363503-Pokemon-30th-anniversary-collab-18.jpg" alt="Appleとポケモンが30周年記念コラボ。「カジッチュ」のApple Gift Cardを11月16日発売"></p>]]></description><source url="https://gori.me/apple/apple-news/172417">gori.me</source><media:content url="https://gori.me/uploads/2026/11/1794525363503-Pokemon-30th-anniversary-collab-18.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/11/1794525363503-Pokemon-30th-anniversary-collab-18.jpg"/></item>
-<item><title>【プロダクトレビュー・ショーケース】QD-OLEDが6万円台に！ 27型WQHD&amp;240HzのASRock「PGO27QSA」は、画質も速さも欲しい人の本命か27型WQHDに24.5型相当の表示も可能。国内向けのゼロブライトドット保証と3年保証も用意 text by 芹澤 正芳</title><link>https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2156067.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2156067.html</guid><pubDate>Fri, 13 Nov 2026 01:00:00 +0000</pubDate><description><![CDATA[<p>【プロダクトレビュー・ショーケース】QD-OLEDが6万円台に！ 27型WQHD&amp;240HzのASRock「PGO27QSA」は、画質も速さも欲しい人の本命か27型WQHDに24.5型相当の表示も可能。国内向けのゼロブライトドット保証と3年保証も用意 text by 芹澤 正芳
-
-PCゲームの映像を楽しむなら、モニターの画質にもこだわりたい。そこで候補になるのが、深い黒と鮮やかな色を得意とするQD-OLEDだ。ASRockの「PGO27QSA」は、そのQD-OLEDを27型WQHDの画面に採用し、240Hzの高速表示にも対応。6万円台という価格で、画質と速さの両方を求める人にとって気になる選択肢となっている。
-
-QD-OLEDが6万円台に！ 27型WQHD&amp;240HzのASRock「PGO27QSA」は、画質も速さも欲しい人の本命か
-
-27型WQHDに24.5型相当の表示も可能。国内向けのゼロブライトドット保証と3年保証も用意 text by 芹澤 正芳
-
-PCゲームの映像を楽しむなら、モニターの画質にもこだわりたい。そこで候補になるのが、深い黒と鮮やかな色を得意とするQD-OLEDだ。ASRockの「PGO27QSA」は、そのQD-OLEDを27型WQHDの画面に採用し、240Hzの高速表示にも対応。6万円台という価格で、画質と速さの両方を求める人にとって気になる選択肢となっている。
-
-24.5型相当への表示サイズ切り換えや、暗部を見やすくするダークブーストなど、ゲームに合わせて使い分けられる機能も搭載する。国内向けにはゼロブライトドット保証と3年の製品保証も用意。さっそく、その特徴を紹介しよう。
-
-PGO27QSAは、ASRockのゲーミングブランド「Phantom Gaming」の製品。27型の平面パネルに、2,560×1,440ドットのWQHD解像度を組み合わせる。…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2156/067/top.jpg" alt="【プロダクトレビュー・ショーケース】QD-OLEDが6万円台に！ 27型WQHD&amp;240HzのASRock「PGO27QSA」は、画質も速さも欲しい人の本命か27型WQHDに24.5型相当の表示も可能。国内向けのゼロブライトドット保証と3年保証も用意 text by 芹澤 正芳"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2156067.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2156/067/top.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2156/067/top.jpg"/></item>
 <item><title>【11/20発売】FIIOから7ドライバー・トライブリッドIEM「FX25 Brown」AKM「AK4493S」をデュアル搭載したCDプレイヤー「DM15」HiFiシステムのための電源「DARKSIDE MINI」 が登場！</title><link>https://e-earphone.blog/?p=1557078</link><guid isPermaLink="true">https://e-earphone.blog/?p=1557078</guid><pubDate>Fri, 13 Nov 2026 01:00:00 +0000</pubDate><description><![CDATA[<p>【11/20発売】FIIOから7ドライバー・トライブリッドIEM「FX25 Brown」AKM「AK4493S」をデュアル搭載したCDプレイヤー「DM15」HiFiシステムのための電源「DARKSIDE MINI」 が登場！
 
 液体窒素冷凍処理ケーブルのイヤホン/多機能CDプレーヤー/ここから始める電源強化 こんにちは！e☆イヤホンのPRスタッフです！ 今回はFIIOからの新製品のご紹介です。  FIIO FX25 Brown 202 […]
@@ -1299,6 +1451,19 @@ FX25は片側あたり、ダイナミックドライバー1基、バランスド
 Sonion製 静電型ドライバー×4基が描く、空気感のある高域
 
 フラッグシップイヤホン「FX17」で優れた性能を発揮したSo…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/11/FIIO-FX25-BrownDM15DARKSIDE-MINI.webp" alt="【11/20発売】FIIOから7ドライバー・トライブリッドIEM「FX25 Brown」AKM「AK4493S」をデュアル搭載したCDプレイヤー「DM15」HiFiシステムのための電源「DARKSIDE MINI」 が登場！"></p>]]></description><source url="https://e-earphone.blog/?p=1557078">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/11/FIIO-FX25-BrownDM15DARKSIDE-MINI.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/11/FIIO-FX25-BrownDM15DARKSIDE-MINI.webp"/></item>
+<item><title>【プロダクトレビュー・ショーケース】QD-OLEDが6万円台に！ 27型WQHD&amp;240HzのASRock「PGO27QSA」は、画質も速さも欲しい人の本命か27型WQHDに24.5型相当の表示も可能。国内向けのゼロブライトドット保証と3年保証も用意 text by 芹澤 正芳</title><link>https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2156067.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2156067.html</guid><pubDate>Fri, 13 Nov 2026 01:00:00 +0000</pubDate><description><![CDATA[<p>【プロダクトレビュー・ショーケース】QD-OLEDが6万円台に！ 27型WQHD&amp;240HzのASRock「PGO27QSA」は、画質も速さも欲しい人の本命か27型WQHDに24.5型相当の表示も可能。国内向けのゼロブライトドット保証と3年保証も用意 text by 芹澤 正芳
+
+PCゲームの映像を楽しむなら、モニターの画質にもこだわりたい。そこで候補になるのが、深い黒と鮮やかな色を得意とするQD-OLEDだ。ASRockの「PGO27QSA」は、そのQD-OLEDを27型WQHDの画面に採用し、240Hzの高速表示にも対応。6万円台という価格で、画質と速さの両方を求める人にとって気になる選択肢となっている。
+
+QD-OLEDが6万円台に！ 27型WQHD&amp;240HzのASRock「PGO27QSA」は、画質も速さも欲しい人の本命か
+
+27型WQHDに24.5型相当の表示も可能。国内向けのゼロブライトドット保証と3年保証も用意 text by 芹澤 正芳
+
+PCゲームの映像を楽しむなら、モニターの画質にもこだわりたい。そこで候補になるのが、深い黒と鮮やかな色を得意とするQD-OLEDだ。ASRockの「PGO27QSA」は、そのQD-OLEDを27型WQHDの画面に採用し、240Hzの高速表示にも対応。6万円台という価格で、画質と速さの両方を求める人にとって気になる選択肢となっている。
+
+24.5型相当への表示サイズ切り換えや、暗部を見やすくするダークブーストなど、ゲームに合わせて使い分けられる機能も搭載する。国内向けにはゼロブライトドット保証と3年の製品保証も用意。さっそく、その特徴を紹介しよう。
+
+PGO27QSAは、ASRockのゲーミングブランド「Phantom Gaming」の製品。27型の平面パネルに、2,560×1,440ドットのWQHD解像度を組み合わせる。…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2156/067/top.jpg" alt="【プロダクトレビュー・ショーケース】QD-OLEDが6万円台に！ 27型WQHD&amp;240HzのASRock「PGO27QSA」は、画質も速さも欲しい人の本命か27型WQHDに24.5型相当の表示も可能。国内向けのゼロブライトドット保証と3年保証も用意 text by 芹澤 正芳"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2156067.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2156/067/top.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2156/067/top.jpg"/></item>
 <item><title>Gemini 4 Hydrogen、無料ユーザーも利用可能に</title><link>https://gori.me/google/google-news/172408</link><guid isPermaLink="true">https://gori.me/google/google-news/172408</guid><pubDate>Thu, 12 Nov 2026 23:31:03 +0000</pubDate><description><![CDATA[<p>Gemini 4 Hydrogen、無料ユーザーも利用可能に
 
 Googleは2026年11月12日（米国時間）、新しいAIモデル「Gemini 4 Hydrogen」を発表した。Flashブランドを廃止し新世代の名称に統一、コーディングやエージェント作業向けの普及版という位置づけだ。無料ユーザーも使えるが、モデル選択では名指しできずGoogleが自動で割り当てる。
@@ -1778,6 +1943,21 @@ Source: moondr1（＠moondr1） via iDownload Blog
 --PR-- [公式] - iPhoneの購入や予約はオンラインで確実に！
 
 iPhoneなどApple製品の疑問は iMコミュニティ で聞けます。詳しい読者が答えてくれます。</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/11/12/iPad-mini-MOD-wp_17.jpg" alt="iPad mini（A20 Pro）デザインのiPhone向け壁紙16種類が制作公開"></p>]]></description><source url="https://iphone-mania.jp/funny-608584/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/11/12/iPad-mini-MOD-wp_17.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/11/12/iPad-mini-MOD-wp_17.jpg"/></item>
+<item><title>【11/20発売】finalから横向きでも気になりにくい装着感のイヤホン ZE500 NYUMIN が登場！</title><link>https://e-earphone.blog/?p=1556913</link><guid isPermaLink="true">https://e-earphone.blog/?p=1556913</guid><pubDate>Thu, 12 Nov 2026 09:00:00 +0000</pubDate><description><![CDATA[<p>【11/20発売】finalから横向きでも気になりにくい装着感のイヤホン ZE500 NYUMIN が登場！
+
+入眠前のリラックスタイムに、スマホ時間を心地よく整える『夜のためのイヤホン』登場 こんにちは！e☆イヤホンのPRスタッフです！ 今回はfinalからの新製品のご紹介です。 final ZE500 NYUMIN 2026年 […]
+
+【11/20発売】finalから横向きでも気になりにくい装着感のイヤホン ZE500 NYUMIN が登場！
+
+入眠前のリラックスタイムに、スマホ時間を心地よく整える『夜のためのイヤホン』登場
+
+片側約3g（※3）の超極小設計。横向きでも気になりにくい装着感
+
+自社従来モデル「COTSUBU for ASMR」からさらに体積を約35%削減（※4）し、自社従来モデルで最小のサイズを実現しました。挿入が浅い設計により、横向きで耳が枕に当たっても異物感を抑えます。 ※3 final仕様書記載値です。 ※4 final従来モデル「COTSUBU for ASMR」との体積比較値。両モデルの仕様書記載値に基づきます。
+
+専用アプリでボリュームステップを最適化することで、スマートフォン標準の音量段階よりも細かい音量調整が可能です（※5）。「音量2では大きく、1では聞こえない」夜のスマホ利用で起こりがちな、音量1段階の差のジレンマに、アプリ機能で応えます。 ※5 final従来モデルおよびスマートフォン標準の音量段階との比較です。他社製品との比較ではありません。
+
+一般的なイヤホンの音質は、音楽鑑賞を前提に作られています。ZE500 NYUMINは、極小音量帯での『人の声』の聴き取りに合わせて、音質そのものを再設計しました。音量を絞っても声や低音の質感が痩せにくく、入眠前のリラックスタイムにPodcastやラジオ、配信者のトークなどを心地よく聴き続け…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/11/final-ZE500-NYUMIN.webp" alt="【11/20発売】finalから横向きでも気になりにくい装着感のイヤホン ZE500 NYUMIN が登場！"></p>]]></description><source url="https://e-earphone.blog/?p=1556913">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/11/final-ZE500-NYUMIN.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/11/final-ZE500-NYUMIN.webp"/></item>
 <item><title>話題のBoseから出たノイズキャンセリング付き有線イヤホン「Noise Cancelling Wired Earbuds」を「QuietComfort 20」と比べてみた</title><link>https://e-earphone.blog/?p=1555978</link><guid isPermaLink="true">https://e-earphone.blog/?p=1555978</guid><pubDate>Thu, 12 Nov 2026 09:00:00 +0000</pubDate><description><![CDATA[<p>話題のBoseから出たノイズキャンセリング付き有線イヤホン「Noise Cancelling Wired Earbuds」を「QuietComfort 20」と比べてみた
 
 SNSでも話題になったBoseの新作ノイズキャンセリング付き有線イヤホンレビュー 私が導き出した結論 結局結論が皆さん知りたいですよね？なので私が導き出した結論から述べます。このイヤホンは 個人的にFPSにオススメです&amp; […]
@@ -1797,21 +1977,6 @@ SNSでも話題になったBoseの新作ノイズキャンセリング付き有�
 比較をしたいと思った私は中古のQC20を買ってしまいました！ ということで、今回はBose新旧ノイズキャンセリング付き有線イヤホン比較をやっていきます！ ※今回比較として使用する製品は「Bose QUIETCOMFORT20i」と言ってiOS版の製品です。「Bose QUIETCOMFORT20」との違いはリモコンの差のみとなっており、性能に差はありません。わかりやすいように「QC20」と省略して記載いたします。
 
 主に文字コンテンツ担当してる「やまゆー」です。好みの音はボ…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/11/94ddf24578b2a64e45b33373ac086574.webp" alt="話題のBoseから出たノイズキャンセリング付き有線イヤホン「Noise Cancelling Wired Earbuds」を「QuietComfort 20」と比べてみた"></p>]]></description><source url="https://e-earphone.blog/?p=1555978">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/11/94ddf24578b2a64e45b33373ac086574.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/11/94ddf24578b2a64e45b33373ac086574.webp"/></item>
-<item><title>【11/20発売】finalから横向きでも気になりにくい装着感のイヤホン ZE500 NYUMIN が登場！</title><link>https://e-earphone.blog/?p=1556913</link><guid isPermaLink="true">https://e-earphone.blog/?p=1556913</guid><pubDate>Thu, 12 Nov 2026 09:00:00 +0000</pubDate><description><![CDATA[<p>【11/20発売】finalから横向きでも気になりにくい装着感のイヤホン ZE500 NYUMIN が登場！
-
-入眠前のリラックスタイムに、スマホ時間を心地よく整える『夜のためのイヤホン』登場 こんにちは！e☆イヤホンのPRスタッフです！ 今回はfinalからの新製品のご紹介です。 final ZE500 NYUMIN 2026年 […]
-
-【11/20発売】finalから横向きでも気になりにくい装着感のイヤホン ZE500 NYUMIN が登場！
-
-入眠前のリラックスタイムに、スマホ時間を心地よく整える『夜のためのイヤホン』登場
-
-片側約3g（※3）の超極小設計。横向きでも気になりにくい装着感
-
-自社従来モデル「COTSUBU for ASMR」からさらに体積を約35%削減（※4）し、自社従来モデルで最小のサイズを実現しました。挿入が浅い設計により、横向きで耳が枕に当たっても異物感を抑えます。 ※3 final仕様書記載値です。 ※4 final従来モデル「COTSUBU for ASMR」との体積比較値。両モデルの仕様書記載値に基づきます。
-
-専用アプリでボリュームステップを最適化することで、スマートフォン標準の音量段階よりも細かい音量調整が可能です（※5）。「音量2では大きく、1では聞こえない」夜のスマホ利用で起こりがちな、音量1段階の差のジレンマに、アプリ機能で応えます。 ※5 final従来モデルおよびスマートフォン標準の音量段階との比較です。他社製品との比較ではありません。
-
-一般的なイヤホンの音質は、音楽鑑賞を前提に作られています。ZE500 NYUMINは、極小音量帯での『人の声』の聴き取りに合わせて、音質そのものを再設計しました。音量を絞っても声や低音の質感が痩せにくく、入眠前のリラックスタイムにPodcastやラジオ、配信者のトークなどを心地よく聴き続け…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/11/final-ZE500-NYUMIN.webp" alt="【11/20発売】finalから横向きでも気になりにくい装着感のイヤホン ZE500 NYUMIN が登場！"></p>]]></description><source url="https://e-earphone.blog/?p=1556913">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/11/final-ZE500-NYUMIN.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/11/final-ZE500-NYUMIN.webp"/></item>
 <item><title>�����������å����Ѥ��ǹ�1��980�ߤξ������ǥ��ʤɡ�VGN�������ޡ����������ܡ��ɤ�11��18���˹���ȯ��</title><link>https://www.4gamer.net/games/999/G999902/20261112030/</link><guid isPermaLink="true">https://www.4gamer.net/games/999/G999902/20261112030/</guid><pubDate>Thu, 12 Nov 2026 08:34:31 +0000</pubDate><description><![CDATA[<p>�����������å����Ѥ��ǹ�1��980�ߤξ������ǥ��ʤɡ�VGN�������ޡ����������ܡ��ɤ�11��18���˹���ȯ��
 
 2026年11月12日，ゲートは，中国発の周辺機器ブランド「VGN」のゲーマー向けキーボード計3製品を11月18日に国内発売すると発表した。とりわけ注目したいのが，磁気式スイッチをした小型モデルの「…
@@ -2744,6 +2909,23 @@ Amazonでは11月4日から12日までスマイルSaleを開催している。�
 伊藤園の容量200ml紙パック入りトマトジュース「伊藤園 充実野菜 理想のトマト 30日分BOX (紙パック) 200ml×30本」が、直近価格の592円引きとなる2,680円で販売されている。紙パック1本あたりの価格は約89円。
 
 伊藤園 充実野菜 理想のトマト 30日分BOX (紙パック) 200ml×30本は、ポルトガル、またはスペ…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2155/471/05.jpg" alt="【本日みつけたお買い得品】カゴメの720mlラベルレスペットボトルトマトジュースが約700円引き！スマイルSale"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/todays_sales/2155471.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2155/471/05.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2155/471/05.jpg"/></item>
+<item><title>Ducky×hololive ENコラボの「FUWAMOCO」マウスパッド</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2155327.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2155327.html</guid><pubDate>Wed, 11 Nov 2026 03:30:00 +0000</pubDate><description><![CDATA[<p>Ducky×hololive ENコラボの「FUWAMOCO」マウスパッド
+
+「Ducky x hololive EN Fuwamoco Limited Edition Mousepad」のサンプル展示が、ふもショールーム秋葉原でスタート。
+
+Ducky×hololive ENコラボの「FUWAMOCO」マウスパッド
+
+「Ducky x hololive EN Fuwamoco Limited Edition Mousepad」のサンプル展示が、 ふもショールーム秋葉原 でスタート。
+
+「しばらく完売していたが再入荷に合わせて展示も開始した」（同店）というアイテムで、EC価格は6,980円。
+
+Ducky x hololive EN Fuwamoco Limited Edition Mousepadは、Duckyと「hololive English」とのコラボマウスパッド。同事務所所属の双子VTuber「FUWAMOCO」をあしらったデザインが特徴。
+
+やさしいピンク×ブルーの配色に、日本人イラストレーター・みたらしねこ先生によるイラストを採用する。
+
+裏面にはラバーの滑り止めを備える。サイズは800×350×3mm。
+
+Ducky x hololive En Fuwamoco Limited Edition Mousepad</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2155/327/s1.jpg" alt="Ducky×hololive ENコラボの「FUWAMOCO」マウスパッド"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2155327.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2155/327/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2155/327/s1.jpg"/></item>
 <item><title>強力マグネット内蔵のMagSafe対応iPhoneケース「AULUMU A18」が入荷、計6モデル</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2155274.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2155274.html</guid><pubDate>Wed, 11 Nov 2026 03:30:00 +0000</pubDate><description><![CDATA[<p>強力マグネット内蔵のMagSafe対応iPhoneケース「AULUMU A18」が入荷、計6モデル
 
 MagSafe対応のiPhoneケースに新モデルが登場。「AULUMU A18 アウトドア」（以下A18 アウトドアと表記）と「AULUMU A18 フロスト」（以下A18 フロストと表記）が秋葉館に入荷している。
@@ -2763,23 +2945,6 @@ iPhone 18 Pro Max/17 Pro Max向けとiPhone 18 Pro/17 Pro向けが用意され�
 A18 アウトドアでは、アウトドアシーンでも安心して使えるとうたわれており、米軍規格「MIL-STD-810G 516.6」に準拠した耐衝撃性能を備え、四隅には強化コーナー構造を採用する。
 
 柔軟なTPU素材を用いた一体成型の高耐久ボディを採用。内側にはハニカム状の放熱構造を取り入れ、端末にこもる熱を効率よく逃がすことができるという。また、カメラ周辺フレームはカメラよりやや高く設計されており、平…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2155/274/a1.jpg" alt="強力マグネット内蔵のMagSafe対応iPhoneケース「AULUMU A18」が入荷、計6モデル"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2155274.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2155/274/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2155/274/a1.jpg"/></item>
-<item><title>Ducky×hololive ENコラボの「FUWAMOCO」マウスパッド</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2155327.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2155327.html</guid><pubDate>Wed, 11 Nov 2026 03:30:00 +0000</pubDate><description><![CDATA[<p>Ducky×hololive ENコラボの「FUWAMOCO」マウスパッド
-
-「Ducky x hololive EN Fuwamoco Limited Edition Mousepad」のサンプル展示が、ふもショールーム秋葉原でスタート。
-
-Ducky×hololive ENコラボの「FUWAMOCO」マウスパッド
-
-「Ducky x hololive EN Fuwamoco Limited Edition Mousepad」のサンプル展示が、 ふもショールーム秋葉原 でスタート。
-
-「しばらく完売していたが再入荷に合わせて展示も開始した」（同店）というアイテムで、EC価格は6,980円。
-
-Ducky x hololive EN Fuwamoco Limited Edition Mousepadは、Duckyと「hololive English」とのコラボマウスパッド。同事務所所属の双子VTuber「FUWAMOCO」をあしらったデザインが特徴。
-
-やさしいピンク×ブルーの配色に、日本人イラストレーター・みたらしねこ先生によるイラストを採用する。
-
-裏面にはラバーの滑り止めを備える。サイズは800×350×3mm。
-
-Ducky x hololive En Fuwamoco Limited Edition Mousepad</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2155/327/s1.jpg" alt="Ducky×hololive ENコラボの「FUWAMOCO」マウスパッド"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2155327.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2155/327/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2155/327/s1.jpg"/></item>
 <item><title>“AIっぽさ”を抑えた1,600万画素出力、画像生成AI「MiniMax-H3-Image」が重みを公開</title><link>https://pc.watch.impress.co.jp/docs/news/2155445.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2155445.html</guid><pubDate>Wed, 11 Nov 2026 03:24:39 +0000</pubDate><description><![CDATA[<p>“AIっぽさ”を抑えた1,600万画素出力、画像生成AI「MiniMax-H3-Image」が重みを公開
 
 1,600万画素クラスの画像を、アップスケーラーを通さずに直接生成できる画像生成AIが登場した。MiniMaxは11月11日、画像生成/編集モデル「MiniMax-H3-Image」をオープンウェイト(モデルの重み)として公開した。Hugging Faceからダウンロードでき、ライセンスは独自の「MiniMax-H3-Image Community License Agreement」。
@@ -2853,21 +3018,6 @@ Ducky x hololive En Fuwamoco Limited Edition Keycap set</p><p><img src="https://
 Qwen4-Maxは、Qwenが「Qwen4 is coming」と予告した次世代モデル群の最上位にあたるAIモデルである。知識を深め、現実の物事への理解を高めたうえで、コーディングとエージェント(AIが自律的に作業を進める用途)の能力を強化したとうたう。複雑なコーディングや知識労働、Webの画面(フロントエンド)開発といった実務のタスクを想定して開発されたという。プレビュー版はQwen Studioのほか、契約体系が別の「Token Plan」「QwenWork」「Qoder」でも先行利用できる。
 
 Qwen Studioには、無料プランのほか「Lite」や「Plus」、「Pro」の3つの有料プランがある。料金は順に月額690円、2,890円、1万6,800円で、プランによってモデルやエージェント機能の利用枠が変わる。PlusとProは、ターミナル用のコーディング…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2155/430/01.png" alt="「Qwen4」早くも登場、最上位「Qwen4-Max」を無料でも試せる"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2155430.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2155/430/01.png" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2155/430/01.png"/></item>
-<item><title>【11/18発売】Lark Studioからエントリーモデルのイヤホン LS Light VI / LS Light IV が登場！</title><link>https://e-earphone.blog/?p=1556823</link><guid isPermaLink="true">https://e-earphone.blog/?p=1556823</guid><pubDate>Wed, 11 Nov 2026 02:00:00 +0000</pubDate><description><![CDATA[<p>【11/18発売】Lark Studioからエントリーモデルのイヤホン LS Light VI / LS Light IV が登場！
-
-BAの自然でバランスの取れたモニターサウンド/素早いレスポンスと、豊かな音楽表現 こんにちは！e☆イヤホンのPRスタッフです！ 今回はLark Studioからの新製品のご紹介です。 Lark Studio　LS Lig […]
-
-【11/18発売】Lark Studioからエントリーモデルのイヤホン LS Light VI / LS Light IV が登場！
-
-BAの自然でバランスの取れたモニターサウンド/素早いレスポンスと、豊かな音楽表現
-
-Lark Studio LS Light IV (Universal Fit)
-
-LS Light IV(Universal Fit)は、音源本来のバランスを活かすことを重視した、フラット傾向のチューニングを採用しています。特定の帯域を強調しすぎず、ボーカルや楽器の表現を自然に再現。音の位置関係や楽曲全体のまとまりも捉えやすく、長時間のモニタリングにも適した、素直で聴きやすいサウンドに仕上げています。 ライブモニターから普段の音楽鑑賞まで幅広く対応し、ジャンルを問わず楽しみやすいのも特長。初めてモニターイヤホンを選ぶ方にも選びやすい、バランスの取れたサウンドを実現します。
-
-4基のBAドライバーと4wayで仕上げる、バランス重視のモニターサウンド
-
-LS Light IV(Universal Fit)は、片側4基のBAドライバーを搭載し、低域・中域・高域・超高域をそれぞれ1基ずつで再生します。4wayクロスオーバーによって各ドライバーに適した帯域を振り分け、それぞれの特性を活かしながら、各帯域のつながりを整えています。 4基のBAドライバーをシンプルに組み合わせ、4wayクロスオーバーで各帯域をコ…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/11/Lark-Studio-LS-Light-VI-LS-Light-IV.webp" alt="【11/18発売】Lark Studioからエントリーモデルのイヤホン LS Light VI / LS Light IV が登場！"></p>]]></description><source url="https://e-earphone.blog/?p=1556823">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/11/Lark-Studio-LS-Light-VI-LS-Light-IV.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/11/Lark-Studio-LS-Light-VI-LS-Light-IV.webp"/></item>
 <item><title>Ryzen搭載で約981gの12.2型軽量・堅牢モバイルノート</title><link>https://pc.watch.impress.co.jp/docs/news/2155391.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2155391.html</guid><pubDate>Wed, 11 Nov 2026 02:00:00 +0000</pubDate><description><![CDATA[<p>Ryzen搭載で約981gの12.2型軽量・堅牢モバイルノート
 
 マウスコンピューターは、12.2型モバイルノート「mouse X2」シリーズから、Ryzen 5 216搭載モデルを発売した。コスモブルー、フロストゴールド、パールホワイトの3色を用意し、価格は19万9,800円。
@@ -2896,6 +3046,36 @@ GRAPHT THE SPECIAL – EARPHONES PERSONA 30th Anniversary Edition (1.2m)
 『ペルソナ』シリーズ30周年を記念したコラボレーションイヤホンです。GRAPHTイヤホン『THE STANDARD』をベースに、『ペルソナ』シリーズの音楽やゲーム体験をより深く楽しむための専用チューニングを施しました。 イヤホン本体及びハウジングには、本コラボ限定のオリジナルデザインを採用。アルミニウムハウジングのフロント・サイド両面に「PERSONA30th」ロゴを切削加工で表現し、30周年を記念した特別デザインに仕上げました。
 
 本モデルのために開発した複数のチューニングから、アトラスサウンドチームが実際に試聴・厳選したサウンドを採用しました。『ペルソナ』シリーズを彩る…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/11/1d9e766d03f82c2ad541a3900e693b11.webp" alt="【12/10発売】GRAPHTから『ペルソナ』シリーズを楽しむために設計した30周年記念コラボイヤホン THE SPECIAL – EARPHONES PERSONA 30th Anniversary Edition (1.2m) が登場！"></p>]]></description><source url="https://e-earphone.blog/?p=1556905">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/11/1d9e766d03f82c2ad541a3900e693b11.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/11/1d9e766d03f82c2ad541a3900e693b11.webp"/></item>
+<item><title>【11/13発売】Skullcandyから「Crusher® Bass」を搭載したヘッドホン CRUSHER 1080 ANC WIRELESSとCRUSHER 720 WIRELESS が登場！</title><link>https://e-earphone.blog/?p=1556811</link><guid isPermaLink="true">https://e-earphone.blog/?p=1556811</guid><pubDate>Wed, 11 Nov 2026 02:00:00 +0000</pubDate><description><![CDATA[<p>【11/13発売】Skullcandyから「Crusher® Bass」を搭載したヘッドホン CRUSHER 1080 ANC WIRELESSとCRUSHER 720 WIRELESS が登場！
+
+Skullcandy独自の特許技術「Crusher® Bass」でパワフル重低音 こんにちは！e☆イヤホンのPRスタッフです！ 今回はSkullcandyからの新製品のご紹介です。 Skullcandy CRUSHER […]
+
+【11/13発売】Skullcandyから「Crusher® Bass」を搭載したヘッドホン CRUSHER 1080 ANC WIRELESSとCRUSHER 720 WIRELESS が登場！
+
+Skullcandy独自の特許技術「Crusher® Bass」でパワフル重低音
+
+Skullcandy CRUSHER 1080 ANC WIRELESS
+
+振動する重低音を生み出すCrusher Bassテクノロジー 耳で聴くだけではない。体で感じる重低音。
+
+Crusher®は、Skullcandy独自の特許技術による、強さを自由に調整できる重低音テクノロジーです。低音に合わせてヘッドホンが振動し、まるでサブウーファーを搭載したかのような迫力と圧倒的な没入感で、音を耳で聴くだけではなく、体で感じる新しいリスニング体験を提供します。
+
+Crusher 1080 ANCは、Sound by Boseテクノロジーを搭載。Bose WaveFormテクノロジーをベースに、Bose QuietControlアダプティブノイズキャンセリング、TrueSpatial、SoundDesignチューニング、WaveForm Audio Engine、SpeechClarityなどの先進オーディオテクノロジーを採用しています。 さらに、BoseがチューニングしたEQモー…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/11/Skullcandy-CRUSHER-720-CRUSHER-1080-ANC.webp" alt="【11/13発売】Skullcandyから「Crusher® Bass」を搭載したヘッドホン CRUSHER 1080 ANC WIRELESSとCRUSHER 720 WIRELESS が登場！"></p>]]></description><source url="https://e-earphone.blog/?p=1556811">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/11/Skullcandy-CRUSHER-720-CRUSHER-1080-ANC.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/11/Skullcandy-CRUSHER-720-CRUSHER-1080-ANC.webp"/></item>
+<item><title>【11/18発売】Lark Studioからエントリーモデルのイヤホン LS Light VI / LS Light IV が登場！</title><link>https://e-earphone.blog/?p=1556823</link><guid isPermaLink="true">https://e-earphone.blog/?p=1556823</guid><pubDate>Wed, 11 Nov 2026 02:00:00 +0000</pubDate><description><![CDATA[<p>【11/18発売】Lark Studioからエントリーモデルのイヤホン LS Light VI / LS Light IV が登場！
+
+BAの自然でバランスの取れたモニターサウンド/素早いレスポンスと、豊かな音楽表現 こんにちは！e☆イヤホンのPRスタッフです！ 今回はLark Studioからの新製品のご紹介です。 Lark Studio　LS Lig […]
+
+【11/18発売】Lark Studioからエントリーモデルのイヤホン LS Light VI / LS Light IV が登場！
+
+BAの自然でバランスの取れたモニターサウンド/素早いレスポンスと、豊かな音楽表現
+
+Lark Studio LS Light IV (Universal Fit)
+
+LS Light IV(Universal Fit)は、音源本来のバランスを活かすことを重視した、フラット傾向のチューニングを採用しています。特定の帯域を強調しすぎず、ボーカルや楽器の表現を自然に再現。音の位置関係や楽曲全体のまとまりも捉えやすく、長時間のモニタリングにも適した、素直で聴きやすいサウンドに仕上げています。 ライブモニターから普段の音楽鑑賞まで幅広く対応し、ジャンルを問わず楽しみやすいのも特長。初めてモニターイヤホンを選ぶ方にも選びやすい、バランスの取れたサウンドを実現します。
+
+4基のBAドライバーと4wayで仕上げる、バランス重視のモニターサウンド
+
+LS Light IV(Universal Fit)は、片側4基のBAドライバーを搭載し、低域・中域・高域・超高域をそれぞれ1基ずつで再生します。4wayクロスオーバーによって各ドライバーに適した帯域を振り分け、それぞれの特性を活かしながら、各帯域のつながりを整えています。 4基のBAドライバーをシンプルに組み合わせ、4wayクロスオーバーで各帯域をコ…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/11/Lark-Studio-LS-Light-VI-LS-Light-IV.webp" alt="【11/18発売】Lark Studioからエントリーモデルのイヤホン LS Light VI / LS Light IV が登場！"></p>]]></description><source url="https://e-earphone.blog/?p=1556823">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/11/Lark-Studio-LS-Light-VI-LS-Light-IV.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/11/Lark-Studio-LS-Light-VI-LS-Light-IV.webp"/></item>
 <item><title>【11/19 9:00発売】Victorから音響技術を応用し、快適な聞き取りをサポートしてくれる EH-W3 が登場！</title><link>https://e-earphone.blog/?p=1556837</link><guid isPermaLink="true">https://e-earphone.blog/?p=1556837</guid><pubDate>Wed, 11 Nov 2026 02:00:00 +0000</pubDate><description><![CDATA[<p>【11/19 9:00発売】Victorから音響技術を応用し、快適な聞き取りをサポートしてくれる EH-W3 が登場！
 
 左右どちらの耳でも使える片耳タイプ、約5gの軽量設計、長時間でも快適な装着感！！ こんにちは！e☆イヤホンのPRスタッフです！ 今回はVictorからの新製品のご紹介です。 Victor EH-W3 2026年11月19 […]
@@ -2913,21 +3093,6 @@ GRAPHT THE SPECIAL – EARPHONES PERSONA 30th Anniversary Edition (1.2m)
 【11/18発売】Lark Studioからエントリーモデルのイヤホン LS Light VI / LS Light IV が登場！
 
 【12/10発売】GRAPHTから『ペルソナ』シリーズを楽しむために設計した30周年記念コ…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/11/Victor-EH-W3.webp" alt="【11/19 9:00発売】Victorから音響技術を応用し、快適な聞き取りをサポートしてくれる EH-W3 が登場！"></p>]]></description><source url="https://e-earphone.blog/?p=1556837">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/11/Victor-EH-W3.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/11/Victor-EH-W3.webp"/></item>
-<item><title>【11/13発売】Skullcandyから「Crusher® Bass」を搭載したヘッドホン CRUSHER 1080 ANC WIRELESSとCRUSHER 720 WIRELESS が登場！</title><link>https://e-earphone.blog/?p=1556811</link><guid isPermaLink="true">https://e-earphone.blog/?p=1556811</guid><pubDate>Wed, 11 Nov 2026 02:00:00 +0000</pubDate><description><![CDATA[<p>【11/13発売】Skullcandyから「Crusher® Bass」を搭載したヘッドホン CRUSHER 1080 ANC WIRELESSとCRUSHER 720 WIRELESS が登場！
-
-Skullcandy独自の特許技術「Crusher® Bass」でパワフル重低音 こんにちは！e☆イヤホンのPRスタッフです！ 今回はSkullcandyからの新製品のご紹介です。 Skullcandy CRUSHER […]
-
-【11/13発売】Skullcandyから「Crusher® Bass」を搭載したヘッドホン CRUSHER 1080 ANC WIRELESSとCRUSHER 720 WIRELESS が登場！
-
-Skullcandy独自の特許技術「Crusher® Bass」でパワフル重低音
-
-Skullcandy CRUSHER 1080 ANC WIRELESS
-
-振動する重低音を生み出すCrusher Bassテクノロジー 耳で聴くだけではない。体で感じる重低音。
-
-Crusher®は、Skullcandy独自の特許技術による、強さを自由に調整できる重低音テクノロジーです。低音に合わせてヘッドホンが振動し、まるでサブウーファーを搭載したかのような迫力と圧倒的な没入感で、音を耳で聴くだけではなく、体で感じる新しいリスニング体験を提供します。
-
-Crusher 1080 ANCは、Sound by Boseテクノロジーを搭載。Bose WaveFormテクノロジーをベースに、Bose QuietControlアダプティブノイズキャンセリング、TrueSpatial、SoundDesignチューニング、WaveForm Audio Engine、SpeechClarityなどの先進オーディオテクノロジーを採用しています。 さらに、BoseがチューニングしたEQモー…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/11/Skullcandy-CRUSHER-720-CRUSHER-1080-ANC.webp" alt="【11/13発売】Skullcandyから「Crusher® Bass」を搭載したヘッドホン CRUSHER 1080 ANC WIRELESSとCRUSHER 720 WIRELESS が登場！"></p>]]></description><source url="https://e-earphone.blog/?p=1556811">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/11/Skullcandy-CRUSHER-720-CRUSHER-1080-ANC.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/11/Skullcandy-CRUSHER-720-CRUSHER-1080-ANC.webp"/></item>
 <item><title>「できるWindows 11 2027年 改訂6版 Copilot対応」が3日間限定で全文無料公開</title><link>https://pc.watch.impress.co.jp/docs/news/2155365.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2155365.html</guid><pubDate>Wed, 11 Nov 2026 01:56:23 +0000</pubDate><description><![CDATA[<p>「できるWindows 11 2027年 改訂6版 Copilot対応」が3日間限定で全文無料公開
 
 インプレスは、AI活用にも対応したWindows 11の解説書「できるWindows 11 2027年 改訂6版 Copilot対応」を11月26日に発売する。価格は紙版/電子版ともに1,100円。また、11月11日から13日までの3日間限定で先行全文無料公開のキャンペーンを行なう。
@@ -3694,25 +3859,6 @@ SteelSeries Alias Proキットは、ストリーミング配信やゲーム実�
 HyperXのコンデンサマイク「QuadCast2」が、直近価格から2,320円引きとなる2万480円で販売中だ。
 
 HyperX QuadCast2は、USB接続で利用できるコンデンサマイクで、周波数特性は20H…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2155/079/04.jpg" alt="【本日みつけたお買い得品】約2万円引き！SteelSeriesのUSB対応ミキサーとXLRマイクセットがスマイルSaleで販売中"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/todays_sales/2155079.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2155/079/04.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2155/079/04.jpg"/></item>
-<item><title>ヒップホップ講座、最終回は千葉雄喜。LAスタジオで即興ラップに挑戦</title><link>https://gori.me/apple/apple-news/172252</link><guid isPermaLink="true">https://gori.me/apple/apple-news/172252</guid><pubDate>Tue, 10 Nov 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>ヒップホップ講座、最終回は千葉雄喜。LAスタジオで即興ラップに挑戦
-
-Apple Musicのラジオ番組『DJ CHARI &amp; DJ TATSUKIのヒップホップ講座』が11月10日、全6回の最終回を配信した。収録地は米ロサンゼルスのApple Musicスタジオ。ゲストの千葉雄喜さんが、初めて耳にするビートに乗せてその場でラップを仕上げるフリースタイルパフォーマンスを披露している。
-
-ヒップホップ講座、最終回は千葉雄喜。LAスタジオで即興ラップに挑戦
-
-ホストはDJ CHARI &amp; DJ TATSUKI、全6回の締めくくりは米ロサンゼルス収録
-
-通知を受け取る ゴリミーをGoogleで お気に入りに追加する 忙しい人のための3行まとめ ▾ Apple Musicのラジオ番組『DJ CHARI &amp; DJ TATSUKIのヒップホップ講座』が、全6回の最終回エピソード6を配信した
-
-収録地は米ロサンゼルスのApple Musicスタジオ、ゲストは千葉雄喜さん
-
-初めて耳にするビートに乗せてその場でラップを仕上げるフリースタイルパフォーマンスを披露している
-
-Apple Music が11月10日、ラジオ番組『 DJ CHARI &amp; DJ TATSUKIのヒップホップ講座 』の最終回となるエピソード6を配信した。全6回シリーズの締めくくりとなる今回は、普段収録している東京のスタジオを離れ、米ロサンゼルスの Apple Music スタジオで収録している。
-
-ゲストに迎えたのは、現在ロサンゼルスを拠点に活動する千葉雄喜さん。番組の目玉は、ホストの2人が用意した「本人が初めて耳にするビート」に乗せて、千葉雄喜さんがその場でラップを仕上げるフリースタイルパフォーマンスだ。 Apple Music によると、 この模様は本番組でしか聴けない という。
-
-番組は 特集ページ から聴ける。…</p><p><img src="https://gori.me/uploads/2026/11/1794278509666-IS-MS-WW-261020-Radio_Host_CHARI-TATSUKI_Visiting_Artist_Yuki_Chiba_Los_Angeles_Interview_Osborn-000334_retouched.jpg" alt="ヒップホップ講座、最終回は千葉雄喜。LAスタジオで即興ラップに挑戦"></p>]]></description><source url="https://gori.me/apple/apple-news/172252">gori.me</source><media:content url="https://gori.me/uploads/2026/11/1794278509666-IS-MS-WW-261020-Radio_Host_CHARI-TATSUKI_Visiting_Artist_Yuki_Chiba_Los_Angeles_Interview_Osborn-000334_retouched.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/11/1794278509666-IS-MS-WW-261020-Radio_Host_CHARI-TATSUKI_Visiting_Artist_Yuki_Chiba_Los_Angeles_Interview_Osborn-000334_retouched.jpg"/></item>
 <item><title>第9世代Core i5や書き込み対応のDVDドライブを搭載した「ProDesk 600 G5 SF」が26,400円、Qualitの中古Cランク品セール</title><link>https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2154029.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2154029.html</guid><pubDate>Tue, 10 Nov 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>第9世代Core i5や書き込み対応のDVDドライブを搭載した「ProDesk 600 G5 SF」が26,400円、Qualitの中古Cランク品セール
 
 Core i5-9500(6コア/6スレッド)を搭載したHP製デスクトップPC「ProDesk 600 G5 SF」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で期間限定セール中。
@@ -3739,6 +3885,25 @@ iPhone Maniaでは、ブラックフライデーや年末年始のセールを�
 「年末まで（ブラックフライデーや年末年始のセール）に、Apple製品を買う予定はありますか？」という質問（回答43人）では、「セールの内容を見て決める」が46.5%、「買う予定がある」が32.6%、「買う予定はない」が20.9%でした。
 
 「狙っているものは？」という質問（複数回答・回答29人）では、「iPad」が44.8%、「Apple純正のアクセサリー（充電器・ケーブル・ケースなど）」が27.6%、「iPhone」が24.1%、「Apple Watch」が24.1%、「他社製のアクセサリー（充電器・ケース・フィルムなど）」が24.1%、「A…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/11/survey_result_11th.png" alt="【独自調査結果】年末に買いたいApple製品は？ 読者の狙い目"></p>]]></description><source url="https://iphone-mania.jp/apple-608527/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/11/survey_result_11th.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/11/survey_result_11th.png"/></item>
+<item><title>ヒップホップ講座、最終回は千葉雄喜。LAスタジオで即興ラップに挑戦</title><link>https://gori.me/apple/apple-news/172252</link><guid isPermaLink="true">https://gori.me/apple/apple-news/172252</guid><pubDate>Tue, 10 Nov 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>ヒップホップ講座、最終回は千葉雄喜。LAスタジオで即興ラップに挑戦
+
+Apple Musicのラジオ番組『DJ CHARI &amp; DJ TATSUKIのヒップホップ講座』が11月10日、全6回の最終回を配信した。収録地は米ロサンゼルスのApple Musicスタジオ。ゲストの千葉雄喜さんが、初めて耳にするビートに乗せてその場でラップを仕上げるフリースタイルパフォーマンスを披露している。
+
+ヒップホップ講座、最終回は千葉雄喜。LAスタジオで即興ラップに挑戦
+
+ホストはDJ CHARI &amp; DJ TATSUKI、全6回の締めくくりは米ロサンゼルス収録
+
+通知を受け取る ゴリミーをGoogleで お気に入りに追加する 忙しい人のための3行まとめ ▾ Apple Musicのラジオ番組『DJ CHARI &amp; DJ TATSUKIのヒップホップ講座』が、全6回の最終回エピソード6を配信した
+
+収録地は米ロサンゼルスのApple Musicスタジオ、ゲストは千葉雄喜さん
+
+初めて耳にするビートに乗せてその場でラップを仕上げるフリースタイルパフォーマンスを披露している
+
+Apple Music が11月10日、ラジオ番組『 DJ CHARI &amp; DJ TATSUKIのヒップホップ講座 』の最終回となるエピソード6を配信した。全6回シリーズの締めくくりとなる今回は、普段収録している東京のスタジオを離れ、米ロサンゼルスの Apple Music スタジオで収録している。
+
+ゲストに迎えたのは、現在ロサンゼルスを拠点に活動する千葉雄喜さん。番組の目玉は、ホストの2人が用意した「本人が初めて耳にするビート」に乗せて、千葉雄喜さんがその場でラップを仕上げるフリースタイルパフォーマンスだ。 Apple Music によると、 この模様は本番組でしか聴けない という。
+
+番組は 特集ページ から聴ける。…</p><p><img src="https://gori.me/uploads/2026/11/1794278509666-IS-MS-WW-261020-Radio_Host_CHARI-TATSUKI_Visiting_Artist_Yuki_Chiba_Los_Angeles_Interview_Osborn-000334_retouched.jpg" alt="ヒップホップ講座、最終回は千葉雄喜。LAスタジオで即興ラップに挑戦"></p>]]></description><source url="https://gori.me/apple/apple-news/172252">gori.me</source><media:content url="https://gori.me/uploads/2026/11/1794278509666-IS-MS-WW-261020-Radio_Host_CHARI-TATSUKI_Visiting_Artist_Yuki_Chiba_Los_Angeles_Interview_Osborn-000334_retouched.jpg" medium="image"/><media:thumbnail url="https://gori.me/uploads/2026/11/1794278509666-IS-MS-WW-261020-Radio_Host_CHARI-TATSUKI_Visiting_Artist_Yuki_Chiba_Los_Angeles_Interview_Osborn-000334_retouched.jpg"/></item>
 <item><title>MX MASTER 4数量限定デザインモデル「スペシャルエディション」2万1890円で11/24発売</title><link>https://komameblog.jp/news/mx-master4-se/</link><guid isPermaLink="true">https://komameblog.jp/news/mx-master4-se/</guid><pubDate>Tue, 10 Nov 2026 02:58:25 +0000</pubDate><description><![CDATA[<p>MX MASTER 4数量限定デザインモデル「スペシャルエディション」2万1890円で11/24発売
 
 ロジクールは11月9日、同社ワイヤレスマウスのフラグシップモデル「MX MASTER 4」の数量限定スペシャルエディションとして、『MX MASTER 4 Creator Edition』（型番：MX2400SER）と『MX MASTER ...
@@ -5033,21 +5198,6 @@ FCNT「arrows We3」は、直近価格から7,820円引きにより、4万8,980�
 対応マザーボードはmicroATX、Mini-ITXで、背面コネクターマザーボードにも対応する。ドライブベイは3.5インチ×1、2.5インチ×2で、拡張スロット数は5。
 
 上記以外の搭載可能なPCパーツのサイズは、拡張カードが長さ410mmまで、CPUクーラーが高さ164mmまで…</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2154/584/a1.jpg" alt="曲面ガラスパネルやデュアルチャンバー構造採用のPCケース「CG330U 3F」がDeepCoolから"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2154584.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2154/584/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2154/584/a1.jpg"/></item>
-<item><title>�֥ץ��ץ��ͥåȡפϸ�ή�������Ǥ⡤�����Ǥ��ڤ����륹�����饤�ե����ࡣNPC�Ȥδط����䥹�ȡ��꡼�ˤ����ܡΥ��󥿥ӥ塼��</title><link>https://www.4gamer.net/games/948/G094822/20261104039/</link><guid isPermaLink="true">https://www.4gamer.net/games/948/G094822/20261104039/</guid><pubDate>Mon, 09 Nov 2026 01:00:00 +0000</pubDate><description><![CDATA[<p>�֥ץ��ץ��ͥåȡפϸ�ή�������Ǥ⡤�����Ǥ��ڤ����륹�����饤�ե����ࡣNPC�Ȥδط����䥹�ȡ��꡼�ˤ����ܡΥ��󥿥ӥ塼��
-
-HoYoverseは2026年11月3日〜5日，韓国・ソウルでメディア向けツアーを開催した。12月4日に正式サービスを開始する「プチプラネット」の試遊に合わせ，開発者への合同インタビューを実施。交流…
-
-「プチプラネット」は交流が苦手でも，好きでも楽しめるスローライフゲーム。NPCとの関係性やストーリーにも注目［インタビュー］ ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
-
-↓アイコン/タイトル↓ 「グランド・セフト・オートVI」をプレイする前に知っておきたい「GTA」ユニバースの話 ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ TGS 2026 コンパニオン＆コスプレイヤー写真集（ZIPファイルなし）をお届け。10年に1度の豊潤なみずみずしさに恵まれた258枚！ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 次に遊びたいゲームがここにあるかも！ 約70本の体験版を遊んで厳選した「SteamNEXTフェス 10月エディション」注目作品まとめ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 「テイルズ オブ エターニア」のここを知ってほしい！ 当時やり込んだファンが語る，リマスター版をもっと楽しむために押さえておきたいポイント ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
-
-↓アイコン/タイトル↓ 作品のアニマはどこに宿るのか。「リベンジオブザセブン」と「サガフロ2 リマスター」，ふたつ…</p><p><img src="https://www.4gamer.net/games/948/G094822/20261104039/SS/007.jpg" alt="�֥ץ��ץ��ͥåȡפϸ�ή�������Ǥ⡤�����Ǥ��ڤ����륹�����饤�ե����ࡣNPC�Ȥδط����䥹�ȡ��꡼�ˤ����ܡΥ��󥿥ӥ塼��"></p>]]></description><source url="https://www.4gamer.net/games/948/G094822/20261104039/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/948/G094822/20261104039/SS/007.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/948/G094822/20261104039/SS/007.jpg"/></item>
 <item><title>多面ハーフミラーは魔法のよう。周りの明るさで見た目が変わるゲーミングPC ～パソコン工房「LEVEL∞ R-Class RGB Build ピラーレスモデル」[Sponsored]</title><link>https://pc.watch.impress.co.jp/docs/topic/special/2150897.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/topic/special/2150897.html</guid><pubDate>Mon, 09 Nov 2026 01:00:00 +0000</pubDate><description><![CDATA[<p>多面ハーフミラーは魔法のよう。周りの明るさで見た目が変わるゲーミングPC ～パソコン工房「LEVEL∞ R-Class RGB Build ピラーレスモデル」[Sponsored]
 
 パソコン工房の「LEVEL∞ R-Class RGB Build ピラーレスモデル」は、6面のハーフミラーガラスを採用した、ユニークなビジュアルが特徴のミドルタワー型ゲーミングPCだ。
@@ -5069,6 +5219,21 @@ LEVEL-RW85-R97X-TKX [RGB Build]の冷却性能をテスト
 ハーフミラーガラスのユニークなビジュアルと優れたゲーミング性能が魅力のタワー型ゲーミングPC
 
 LEVEL-RW85-R97X-TKX [RGB Build]は、ハーフミラーガラスの採用を特徴とするタワー型ゲーミングPC「LEVEL∞ R-Class RGB Build ピラーレスモデル」のハイパフォーマン…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2150/897/a01.jpg" alt="多面ハーフミラーは魔法のよう。周りの明るさで見た目が変わるゲーミングPC ～パソコン工房「LEVEL∞ R-Class RGB Build ピラーレスモデル」[Sponsored]"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/topic/special/2150897.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2150/897/a01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2150/897/a01.jpg"/></item>
+<item><title>�֥ץ��ץ��ͥåȡפϸ�ή�������Ǥ⡤�����Ǥ��ڤ����륹�����饤�ե����ࡣNPC�Ȥδط����䥹�ȡ��꡼�ˤ����ܡΥ��󥿥ӥ塼��</title><link>https://www.4gamer.net/games/948/G094822/20261104039/</link><guid isPermaLink="true">https://www.4gamer.net/games/948/G094822/20261104039/</guid><pubDate>Mon, 09 Nov 2026 01:00:00 +0000</pubDate><description><![CDATA[<p>�֥ץ��ץ��ͥåȡפϸ�ή�������Ǥ⡤�����Ǥ��ڤ����륹�����饤�ե����ࡣNPC�Ȥδط����䥹�ȡ��꡼�ˤ����ܡΥ��󥿥ӥ塼��
+
+HoYoverseは2026年11月3日〜5日，韓国・ソウルでメディア向けツアーを開催した。12月4日に正式サービスを開始する「プチプラネット」の試遊に合わせ，開発者への合同インタビューを実施。交流…
+
+「プチプラネット」は交流が苦手でも，好きでも楽しめるスローライフゲーム。NPCとの関係性やストーリーにも注目［インタビュー］ ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS
+
+↓アイコン/タイトル↓ 「グランド・セフト・オートVI」をプレイする前に知っておきたい「GTA」ユニバースの話 ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ TGS 2026 コンパニオン＆コスプレイヤー写真集（ZIPファイルなし）をお届け。10年に1度の豊潤なみずみずしさに恵まれた258枚！ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 次に遊びたいゲームがここにあるかも！ 約70本の体験版を遊んで厳選した「SteamNEXTフェス 10月エディション」注目作品まとめ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 「テイルズ オブ エターニア」のここを知ってほしい！ 当時やり込んだファンが語る，リマスター版をもっと楽しむために押さえておきたいポイント ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
+
+↓アイコン/タイトル↓ 作品のアニマはどこに宿るのか。「リベンジオブザセブン」と「サガフロ2 リマスター」，ふたつ…</p><p><img src="https://www.4gamer.net/games/948/G094822/20261104039/SS/007.jpg" alt="�֥ץ��ץ��ͥåȡפϸ�ή�������Ǥ⡤�����Ǥ��ڤ����륹�����饤�ե����ࡣNPC�Ȥδط����䥹�ȡ��꡼�ˤ����ܡΥ��󥿥ӥ塼��"></p>]]></description><source url="https://www.4gamer.net/games/948/G094822/20261104039/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/948/G094822/20261104039/SS/007.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/948/G094822/20261104039/SS/007.jpg"/></item>
 <item><title>【本日みつけたお買い得品】32GBメモリのRyzen AI 7 445搭載ノートが3万円オフ</title><link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2154656.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/todays_sales/2154656.html</guid><pubDate>Mon, 09 Nov 2026 00:48:19 +0000</pubDate><description><![CDATA[<p>【本日みつけたお買い得品】32GBメモリのRyzen AI 7 445搭載ノートが3万円オフ
 
 Amazonにおいて、16型ノートPCのHP「OmniBook 5 16-bp」が直近価格から3万円引きで、25万4,800円にて購入可能となっている。
@@ -5439,6 +5604,23 @@ GeForce RTX 5090 Founders Edition ホグワーツ・レガシー カスタムラ
 応募要項 によると、応募受付期限は日本時間で2026年11月13日PM16:59まで。日本からの応募も対象とされています。当選者にはNVIDIAからプライベートメッセージ / ダイレクトメッセージ(DM)が届きます。また、 こちらのページ で当選者名が発表されます。
 
 筆者は自作PC歴20年以上の経験を持ち、Windows OSの細部にわ…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2026/11/5090hog-top.jpg" alt="NVIDIA、GeForce RTX 5090プレゼントキャンペーン。『ホグワーツ・レガシー』のDLSS 5対応を記念して"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-133821.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2026/11/5090hog-top.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2026/11/5090hog-top.jpg"/></item>
+<item><title>JOLEDの資産活用？TCL CSOTが第8.6世代OLEDをインクジェット方式で量産へ</title><link>https://iphone-mania.jp/apple-608479/</link><guid isPermaLink="true">https://iphone-mania.jp/apple-608479/</guid><pubDate>Sun, 08 Nov 2026 15:05:00 +0000</pubDate><description><![CDATA[<p>JOLEDの資産活用？TCL CSOTが第8.6世代OLEDをインクジェット方式で量産へ
+
+中国の大手ディスプレイサプライヤーであるTCL CSOT（TCL China Star Optoelectronics Technology：TCL華星光電技術有限公司）が、インクジェット印刷方式による第8.6世代有機EL（OLED）ディスプレイの量産開始に向け、設備投資を進めていると海外メディアが報じています。
+
+JOLEDの資産活用？TCL CSOTが第8.6世代OLEDをインクジェット方式で量産へ
+
+中国の大手ディスプレイサプライヤーである TCL CSOT （TCL China Star Optoelectronics Technology：TCL華星光電技術有限公司）が、 インクジェット印刷方式による第8.6世代有機EL（OLED）ディスプレイ の量産開始に向け、設備投資を進めていると海外メディアが報じています。
+
+同社のインクジェット印刷方式OLEDには、 JOLEDとの共同開発で蓄積した技術やノウハウも活用 されていると考えられます。
+
+また、TCLグループの TCL Electronicsはソニーとテレビ事業などを手がける合弁会社の設立 を決めており、過半数の株式を保有する予定です。
+
+TCL CSOT が整備を進める 第8.6世代インクジェット印刷方式OLED 製造ライン「t8プロジェクト」では、 JOLEDとの共同開発を通じて蓄積された技術やノウハウ が活用されている可能性があります。
+
+TCL CSOTは2020年にJOLEDと資本業務提携を結び、大型OLEDの共同開発を進めてきました。
+
+OLEDの製造で主流となっている、精密金属マスク（FMM：Fine Metal Mask）を用いた真空蒸着方式は、スマートフォンなどの中小型ディスプレイに適しているとされてい…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/11/08/macbook-pro-display-AC.jpg" alt="JOLEDの資産活用？TCL CSOTが第8.6世代OLEDをインクジェット方式で量産へ"></p>]]></description><source url="https://iphone-mania.jp/apple-608479/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/11/08/macbook-pro-display-AC.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/11/08/macbook-pro-display-AC.jpg"/></item>
 <item><title>Colorfulの「GeForce RTX 5070 Ti Battle AX SFF 16GB-V」が登場、トリプルファンクーラー搭載</title><link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2154532.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2154532.html</guid><pubDate>Sun, 08 Nov 2026 15:05:00 +0000</pubDate><description><![CDATA[<p>Colorfulの「GeForce RTX 5070 Ti Battle AX SFF 16GB-V」が登場、トリプルファンクーラー搭載
 
 Colorfulブランドのビデオカード「GeForce RTX 5070 Ti Battle AX SFF 16GB-V」が発売された。
@@ -5458,23 +5640,6 @@ Colorfulブランドのビデオカード「GeForce RTX 5070 Ti Battle AX SFF 16
 [取材協力: ツクモパソコン本店 と TSUKUMO eX. と パソコンショップ アーク ]
 
 GeForce RTX 5070 Ti関連製品 Amazonで購入 楽天で購入</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2154/532/s1.jpg" alt="Colorfulの「GeForce RTX 5070 Ti Battle AX SFF 16GB-V」が登場、トリプルファンクーラー搭載"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/news/news/2154532.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2154/532/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2154/532/s1.jpg"/></item>
-<item><title>JOLEDの資産活用？TCL CSOTが第8.6世代OLEDをインクジェット方式で量産へ</title><link>https://iphone-mania.jp/apple-608479/</link><guid isPermaLink="true">https://iphone-mania.jp/apple-608479/</guid><pubDate>Sun, 08 Nov 2026 15:05:00 +0000</pubDate><description><![CDATA[<p>JOLEDの資産活用？TCL CSOTが第8.6世代OLEDをインクジェット方式で量産へ
-
-中国の大手ディスプレイサプライヤーであるTCL CSOT（TCL China Star Optoelectronics Technology：TCL華星光電技術有限公司）が、インクジェット印刷方式による第8.6世代有機EL（OLED）ディスプレイの量産開始に向け、設備投資を進めていると海外メディアが報じています。
-
-JOLEDの資産活用？TCL CSOTが第8.6世代OLEDをインクジェット方式で量産へ
-
-中国の大手ディスプレイサプライヤーである TCL CSOT （TCL China Star Optoelectronics Technology：TCL華星光電技術有限公司）が、 インクジェット印刷方式による第8.6世代有機EL（OLED）ディスプレイ の量産開始に向け、設備投資を進めていると海外メディアが報じています。
-
-同社のインクジェット印刷方式OLEDには、 JOLEDとの共同開発で蓄積した技術やノウハウも活用 されていると考えられます。
-
-また、TCLグループの TCL Electronicsはソニーとテレビ事業などを手がける合弁会社の設立 を決めており、過半数の株式を保有する予定です。
-
-TCL CSOT が整備を進める 第8.6世代インクジェット印刷方式OLED 製造ライン「t8プロジェクト」では、 JOLEDとの共同開発を通じて蓄積された技術やノウハウ が活用されている可能性があります。
-
-TCL CSOTは2020年にJOLEDと資本業務提携を結び、大型OLEDの共同開発を進めてきました。
-
-OLEDの製造で主流となっている、精密金属マスク（FMM：Fine Metal Mask）を用いた真空蒸着方式は、スマートフォンなどの中小型ディスプレイに適しているとされてい…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/11/08/macbook-pro-display-AC.jpg" alt="JOLEDの資産活用？TCL CSOTが第8.6世代OLEDをインクジェット方式で量産へ"></p>]]></description><source url="https://iphone-mania.jp/apple-608479/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/11/08/macbook-pro-display-AC.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/11/08/macbook-pro-display-AC.jpg"/></item>
 <item><title>最大50％オフ！Kindle本 マンガ＆ラノベフェア第1弾 開催中</title><link>https://www.nichepcgamer.com/archives/post-133794.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/post-133794.html</guid><pubDate>Sun, 08 Nov 2026 15:03:36 +0000</pubDate><description><![CDATA[<p>最大50％オフ！Kindle本 マンガ＆ラノベフェア第1弾 開催中
 
 Amazon Kindleストアにて、Kindle本が最大50％オフの『Kindle本 マンガ＆ラノベフェア第1弾』が開催されています。 Kindle本はKindleデバイスだけでなく、無料の専用ア...
@@ -6506,17 +6671,6 @@ Predator Helios Neo 16S AIは、GeForce RTX 5070 Laptop GPUを備えるゲーミ
 Acer Predator Helios Neo 16S AI (PHN16S-71-F73Z57)
 
 Acer「Nitro V 16」(ANV16-I31-N73Y56)は、直近価格から7万164円引きにより、31万9,636円で購入可能…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2154/556/01.jpg" alt="【本日みつけたお買い得品】何と約9万2千円引き！RTX 5070搭載ゲーミングノートが超お買い得に"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/todays_sales/2154556.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2154/556/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2154/556/01.jpg"/></item>
-<item><title>Core i5-9500Tや8GBメモリを搭載したDELL製ミニPCが22,000円、Qualitの中古訳あり品セール</title><link>https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2154018.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2154018.html</guid><pubDate>Sat, 07 Nov 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>Core i5-9500Tや8GBメモリを搭載したDELL製ミニPCが22,000円、Qualitの中古訳あり品セール
-
-Core i5-9500T(6コア/6スレッド)を搭載したDELL製ミニPC「Optiplex 7070 MicroXCTO」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で特価販売中。
-
-Core i5-9500Tや8GBメモリを搭載したDELL製ミニPCが22,000円、Qualitの中古訳あり品セール
-
-Core i5-9500T(6コア/6スレッド)を搭載したDELL製ミニPC「Optiplex 7070 MicroXCTO」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で特価販売中 。
-
-今回販売されているのは、「外観ランク基準はQualitの基準外だが、動作は正常確認済み」という訳あり中古品で、販売価格は22,000円。保証期間は出荷日から起算して10日間となっています。
-
-主な仕様は、メモリが8GB、ストレージが256GB SSD M.2 PCIe、OSがWindows 11 Pro。インターフェイスには、DisplayPort×2やUSB 3.2 Type-Cなどを備えています。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2154/018/a1.jpg" alt="Core i5-9500Tや8GBメモリを搭載したDELL製ミニPCが22,000円、Qualitの中古訳あり品セール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2154018.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2154/018/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2154/018/a1.jpg"/></item>
 <item><title>������TPS�֥��������פϡ�ͣ��̵���ɡ����ǿ�����Gears of War: E-Day�פ�̣�臘���С����塼�����ο��񡤡֥Х���4�פ����֥��ץ��פ�³������</title><link>https://www.4gamer.net/games/968/G096869/20261030036/</link><guid isPermaLink="true">https://www.4gamer.net/games/968/G096869/20261030036/</guid><pubDate>Sat, 07 Nov 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>������TPS�֥��������פϡ�ͣ��̵���ɡ����ǿ�����Gears of War: E-Day�פ�̣�臘���С����塼�����ο��񡤡֥Х���4�פ����֥��ץ��פ�³������
 
 「ギアーズ」は名前だけ知っている，という人も多いかもしれない。初代発売から20年，その撃ち合いは今も刺激的だ。シリーズの始まりを描く最新作「Gears of War: E-Day」を入り口に，独特の…
@@ -6532,6 +6686,17 @@ Core i5-9500T(6コア/6スレッド)を搭載したDELL製ミニPC「Optiplex 70
 ↓アイコン/タイトル↓ 次に遊びたいゲームがここにあるかも！ 約70本の体験版を遊んで厳選した「SteamNEXTフェス 10月エディション」注目作品まとめ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑
 
 ↓アイコン/タイトル↓ 「テイルズ オブ エターニア」のここを知ってほしい！ 当時やり込んだファンが語る，リマスター版をもっと楽しむために押さえて…</p><p><img src="https://www.4gamer.net/games/968/G096869/20261030036/SS/006.jpg" alt="������TPS�֥��������פϡ�ͣ��̵���ɡ����ǿ�����Gears of War: E-Day�פ�̣�臘���С����塼�����ο��񡤡֥Х���4�פ����֥��ץ��פ�³������"></p>]]></description><source url="https://www.4gamer.net/games/968/G096869/20261030036/">4Gamer.net Hardware</source><media:content url="https://www.4gamer.net/games/968/G096869/20261030036/SS/006.jpg" medium="image"/><media:thumbnail url="https://www.4gamer.net/games/968/G096869/20261030036/SS/006.jpg"/></item>
+<item><title>Core i5-9500Tや8GBメモリを搭載したDELL製ミニPCが22,000円、Qualitの中古訳あり品セール</title><link>https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2154018.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2154018.html</guid><pubDate>Sat, 07 Nov 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>Core i5-9500Tや8GBメモリを搭載したDELL製ミニPCが22,000円、Qualitの中古訳あり品セール
+
+Core i5-9500T(6コア/6スレッド)を搭載したDELL製ミニPC「Optiplex 7070 MicroXCTO」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で特価販売中。
+
+Core i5-9500Tや8GBメモリを搭載したDELL製ミニPCが22,000円、Qualitの中古訳あり品セール
+
+Core i5-9500T(6コア/6スレッド)を搭載したDELL製ミニPC「Optiplex 7070 MicroXCTO」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で特価販売中 。
+
+今回販売されているのは、「外観ランク基準はQualitの基準外だが、動作は正常確認済み」という訳あり中古品で、販売価格は22,000円。保証期間は出荷日から起算して10日間となっています。
+
+主な仕様は、メモリが8GB、ストレージが256GB SSD M.2 PCIe、OSがWindows 11 Pro。インターフェイスには、DisplayPort×2やUSB 3.2 Type-Cなどを備えています。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2154/018/a1.jpg" alt="Core i5-9500Tや8GBメモリを搭載したDELL製ミニPCが22,000円、Qualitの中古訳あり品セール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2154018.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2154/018/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2154/018/a1.jpg"/></item>
 <item><title>折りたたみ画面スマホやGalaxy TabなどSamsungデバイスが最大20%オフ！楽天お買い物マラソン</title><link>https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2154496.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2154496.html</guid><pubDate>Sat, 07 Nov 2026 02:30:00 +0000</pubDate><description><![CDATA[<p>折りたたみ画面スマホやGalaxy TabなどSamsungデバイスが最大20%オフ！楽天お買い物マラソン
 
 楽天市場では、11月11日（水）1:59までの期間限定で「お買い物マラソン&amp;amp;ジャンル祭り」が開催中。
@@ -7565,6 +7730,23 @@ Xiaomi Mini LED ゲーミングモニター G Pro 27iは、解像度2,560×1,440
 同様に、Xiaomiの34型ウルトラワイドゲーミングモニター「Xiaomi G34WQi」が、直近価格より4,638円安い3万6,980円で購入が可能だ。
 
 Xiaomi G34WQiは、34型/3,440×1,440ドット、1,500Rの湾曲型VAパネルを採用するウルトラワイドゲーミングモニターで、リフレッシュレートは最大180Hz。ゲーム中の画面のズレ(テアリ…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2154/219/04.jpg" alt="【本日みつけたお買い得品】約1万6千円引き！Xiaomiの27型ゲーミングモニターがAmazonスマイルSaleでオトク"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/todays_sales/2154219.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2154/219/04.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2154/219/04.jpg"/></item>
+<item><title>【11月下旬発売】Beat Audioからエントリークラス アップグレードケーブル第2弾・日本限定200本 Cryo Frost が登場！</title><link>https://e-earphone.blog/?p=1556518</link><guid isPermaLink="true">https://e-earphone.blog/?p=1556518</guid><pubDate>Fri, 06 Nov 2026 02:00:00 +0000</pubDate><description><![CDATA[<p>【11月下旬発売】Beat Audioからエントリークラス アップグレードケーブル第2弾・日本限定200本 Cryo Frost が登場！
+
+前作も数日で売り切れたエントリークラス アップグレードケーブル第2弾がついに登場 こんにちは！e☆イヤホンのPRスタッフです！ 今回はBeat Audioからの新製品のご紹介です。 Beat Audio Cryo Fro […]
+
+【11月下旬発売】Beat Audioからエントリークラス アップグレードケーブル第2弾・日本限定200本 Cryo Frost が登場！
+
+前作も数日で売り切れたエントリークラス アップグレードケーブル第2弾がついに登場
+
+Beat Audioのエントリークラス アップグレードケーブル第2弾・日本限定200本
+
+ハイエンドリケーブルブランドとして数々の製品を展開してきたBeat Audioが、 新たな価格帯へ挑戦する限定モデルです。Beat Audio は 2010 年の創業以来、 「最愛のイヤホンの魅力を最大限に引き出すイヤホンケーブル」 を追求し、製品の設計・開発を続けてきました。
+
+製品はすべて一貫したハンドメイド製造により、 高い品質と信頼性を実現しています。また、 Beat Audioは、 「Purity is not everything, Music is everything.（純度がすべてではない。 音楽がすべて。）」という理念のもと、
+
+導体の純度だけではなく、 “音楽体験そのもの” を重視したケーブル開発を行っています。自社ラボに併設された試聴スタジオで徹底した音楽評価を重ねながら、 「すべては音楽のために」 という思想を追求し続けています。
+
+Cryo Frost は、 独自のアニーリング（焼鈍）処理と最新のチューニング技術を採用。21＋28の49芯構成による高純度銅導体に、 鏡面…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/11/Beat-Audio-Cryo-Frost.webp" alt="【11月下旬発売】Beat Audioからエントリークラス アップグレードケーブル第2弾・日本限定200本 Cryo Frost が登場！"></p>]]></description><source url="https://e-earphone.blog/?p=1556518">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/11/Beat-Audio-Cryo-Frost.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/11/Beat-Audio-Cryo-Frost.webp"/></item>
 <item><title>【イーイヤの日2026】11.18秒で止めろ！タイムストップチャレンジ</title><link>https://e-earphone.blog/?p=1556612</link><guid isPermaLink="true">https://e-earphone.blog/?p=1556612</guid><pubDate>Fri, 06 Nov 2026 02:00:00 +0000</pubDate><description><![CDATA[<p>【イーイヤの日2026】11.18秒で止めろ！タイムストップチャレンジ
 
 11月18日はいいイヤホン・ヘッドホンの日！そして…イーイヤの日！店頭イベントのご紹介です！ あ、どうも。奈良県民ゆーきゃんです。 11月18日はいいイヤホン・ヘッドホンの日。そして…「イーイヤの日」ということで、少し早 […]
@@ -7584,6 +7766,40 @@ Xiaomi G34WQiは、34型/3,440×1,440ドット、1,500Rの湾曲型VAパネル�
 週末特価、メーカーセール品・予約製品(新製品/取寄せ)は対象外
 
 以上！イベント情報でした！ サイコロではなく今…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/11/4281e7c772c1fd8e3e27b3c49abb3f09.webp" alt="【イーイヤの日2026】11.18秒で止めろ！タイムストップチャレンジ"></p>]]></description><source url="https://e-earphone.blog/?p=1556612">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/11/4281e7c772c1fd8e3e27b3c49abb3f09.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/11/4281e7c772c1fd8e3e27b3c49abb3f09.webp"/></item>
+<item><title>【11/18発売】ケーブル留め『くるくる』にイーイヤの日カラーが登場！</title><link>https://e-earphone.blog/?p=1556633</link><guid isPermaLink="true">https://e-earphone.blog/?p=1556633</guid><pubDate>Fri, 06 Nov 2026 02:00:00 +0000</pubDate><description><![CDATA[<p>【11/18発売】ケーブル留め『くるくる』にイーイヤの日カラーが登場！
+
+まとめたケーブルにくるくるっとしていくだけ♪ ケーブル留め『くるくる』にイーイヤの日カラー登場！ こんにちはラボスタッフのゾゾです！ 今回はe☆イヤホン・ラボ発の人気商品『くるくる』についてお知らせがございます！ ケーブ […]
+
+【11/18発売】ケーブル留め『くるくる』にイーイヤの日カラーが登場！
+
+まとめたケーブルにくるくるっとしていくだけ♪ ケーブル留め『くるくる』にイーイヤの日カラー登場！
+
+こんにちはラボスタッフのゾゾです！ 今回はe☆イヤホン・ラボ発の人気商品『くるくる』についてお知らせがございます！
+
+硬質アクリル製のケーブル留めです！ ケーブルを輪っか状にまとめ、くるくるの端を引っ掛けて巻くだけで簡単に留められます。 かわいく、おしゃれにデザイン性を重視したアイテムで、使うだけで素敵な写真が撮れる実用性も兼ね備えています♪ 本商品はアクリル板の製造やアクセサリー販売を手掛ける「東京アクリル」との共同開発品で、オリジナルのアクリル板を使用した一点物！
+
+いいイヤホン・ヘッドホンの日、イーイヤの日(11月18日)に発売のNEWカラー！ 今回のカラーは深みのある青なので海を意識して「ラグーンブルー」とネーミングしました。 透明度の高いブルーカラーと不透明のホワイトカラーのマーブルカラーになり、ブルーは緑味の強いシアンカラーに近いカラーになります。
+
+下の画像は歴代青系カラーのくるくるたち。 ラグーンブルーは右端です、深み青最高！
+
+S：内径約1.2cm前後 通常のイヤホンケーブルに適したサイズです。太めの8芯や16芯はＭサイズをおすすめします。 M：内径約1.6cm前後 USBケーブルやヘッドホンケーブルにおすすめです。
+
+くるくるのカラーはなくなり次第どんどん新カラーが追加されていきます…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/11/e793660c5cae3ace3ac2b6094b276ec4.webp" alt="【11/18発売】ケーブル留め『くるくる』にイーイヤの日カラーが登場！"></p>]]></description><source url="https://e-earphone.blog/?p=1556633">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/11/e793660c5cae3ace3ac2b6094b276ec4.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/11/e793660c5cae3ace3ac2b6094b276ec4.webp"/></item>
+<item><title>【11/13発売】日本初上陸！OASEARからイヤホン、ケーブル、イヤーピース計11製品が登場！</title><link>https://e-earphone.blog/?p=1556398</link><guid isPermaLink="true">https://e-earphone.blog/?p=1556398</guid><pubDate>Fri, 06 Nov 2026 02:00:00 +0000</pubDate><description><![CDATA[<p>【11/13発売】日本初上陸！OASEARからイヤホン、ケーブル、イヤーピース計11製品が登場！
+
+これはかなり見た目も音も最高な製品でこれから人気になりそうな予感がしております！ こんにちは！e☆イヤホンのPRスタッフです！ 今回は日本初上陸のOASEARからの新製品のご紹介です。 OASEAR HEXE（ヘクセ） […]
+
+【11/13発売】日本初上陸！OASEARからイヤホン、ケーブル、イヤーピース計11製品が登場！
+
+これはかなり見た目も音も最高な製品でこれから人気になりそうな予感がしております！
+
+OASEARの「Witch」シリーズは、登場以来6年にわたりユーザーと歩んできたエントリーモデルです。 この間、プロフェッショナルユーザー向けに設計したアップグレードモデル「Witch Pro」、そして利便性を高めたUSB-C DACケーブルを採用した「Witch Pro Pink DSP」などの製品を展開してきました。 ユーザーの皆さまから継続的に寄せられた評価と支持を受け、私たちはWitchシリーズの系譜を継承することを決めました。
+
+このWitchシリーズを継承する新世代モデル「HEXE」は、「Witch」本来のサウンドコンセプトを継承しつつ、アップグレードされたドライバー技術、洗練されたクラフトマンシップ、そして全体的なデザインとアコースティックチューニングのさらなる改良を取り入れています。
+
+HEXEは、Witchシリーズの鮮やかで自然なサウンドの個性を継承しながら、音響性能、クラフトマンシップ、ユーザー体験を全面的にアップグレードしています。 正確なモニタリングを求めるオーディオプロフェッショナルにも、没入感のあるリスニング体験を追求する音楽愛好家にも、HEXEは洗練された多用途性の高いパフォーマンスを提供します。
+
+Plough Series 第3の星、A…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/11/OASEAR.webp" alt="【11/13発売】日本初上陸！OASEARからイヤホン、ケーブル、イヤーピース計11製品が登場！"></p>]]></description><source url="https://e-earphone.blog/?p=1556398">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/11/OASEAR.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/11/OASEAR.webp"/></item>
 <item><title>【11/19 9:00発売】Victorから小さく、軽く、落ちにくい、装着感も快適な完全ワイヤレスイヤホン HA-A30T3 が登場！</title><link>https://e-earphone.blog/?p=1556610</link><guid isPermaLink="true">https://e-earphone.blog/?p=1556610</guid><pubDate>Fri, 06 Nov 2026 02:00:00 +0000</pubDate><description><![CDATA[<p>【11/19 9:00発売】Victorから小さく、軽く、落ちにくい、装着感も快適な完全ワイヤレスイヤホン HA-A30T3 が登場！
 
 小さく軽く落ちにくい装着感も快適な完全ワイヤレスイヤホンがVictorから登場！ こんにちは！e☆イヤホンのPRスタッフです！ 今回はVictorからの新製品のご紹介です。 Victor HA-A30T3 2026年10 […]
@@ -7611,38 +7827,6 @@ PC とスマートフォンなど、2台の機器を同時接続できるマル�
 展示機は11月6日より展示開始予定です。各店およびオンラインストアにて在庫をご用意しております。 ※展示開始時期は予定です。詳しくはオンラインストアの店舗別在庫状況または、各店舗に問い合わせをお願いいたします。
 
 【11月下旬発売】Beat Audioからエントリークラス アップグレードケーブル第2弾・日本限定200本 Cr…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/11/Victor-HA-A30T3.webp" alt="【11/19 9:00発売】Victorから小さく、軽く、落ちにくい、装着感も快適な完全ワイヤレスイヤホン HA-A30T3 が登場！"></p>]]></description><source url="https://e-earphone.blog/?p=1556610">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/11/Victor-HA-A30T3.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/11/Victor-HA-A30T3.webp"/></item>
-<item><title>【11月下旬発売】Beat Audioからエントリークラス アップグレードケーブル第2弾・日本限定200本 Cryo Frost が登場！</title><link>https://e-earphone.blog/?p=1556518</link><guid isPermaLink="true">https://e-earphone.blog/?p=1556518</guid><pubDate>Fri, 06 Nov 2026 02:00:00 +0000</pubDate><description><![CDATA[<p>【11月下旬発売】Beat Audioからエントリークラス アップグレードケーブル第2弾・日本限定200本 Cryo Frost が登場！
-
-前作も数日で売り切れたエントリークラス アップグレードケーブル第2弾がついに登場 こんにちは！e☆イヤホンのPRスタッフです！ 今回はBeat Audioからの新製品のご紹介です。 Beat Audio Cryo Fro […]
-
-【11月下旬発売】Beat Audioからエントリークラス アップグレードケーブル第2弾・日本限定200本 Cryo Frost が登場！
-
-前作も数日で売り切れたエントリークラス アップグレードケーブル第2弾がついに登場
-
-Beat Audioのエントリークラス アップグレードケーブル第2弾・日本限定200本
-
-ハイエンドリケーブルブランドとして数々の製品を展開してきたBeat Audioが、 新たな価格帯へ挑戦する限定モデルです。Beat Audio は 2010 年の創業以来、 「最愛のイヤホンの魅力を最大限に引き出すイヤホンケーブル」 を追求し、製品の設計・開発を続けてきました。
-
-製品はすべて一貫したハンドメイド製造により、 高い品質と信頼性を実現しています。また、 Beat Audioは、 「Purity is not everything, Music is everything.（純度がすべてではない。 音楽がすべて。）」という理念のもと、
-
-導体の純度だけではなく、 “音楽体験そのもの” を重視したケーブル開発を行っています。自社ラボに併設された試聴スタジオで徹底した音楽評価を重ねながら、 「すべては音楽のために」 という思想を追求し続けています。
-
-Cryo Frost は、 独自のアニーリング（焼鈍）処理と最新のチューニング技術を採用。21＋28の49芯構成による高純度銅導体に、 鏡面…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/11/Beat-Audio-Cryo-Frost.webp" alt="【11月下旬発売】Beat Audioからエントリークラス アップグレードケーブル第2弾・日本限定200本 Cryo Frost が登場！"></p>]]></description><source url="https://e-earphone.blog/?p=1556518">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/11/Beat-Audio-Cryo-Frost.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/11/Beat-Audio-Cryo-Frost.webp"/></item>
-<item><title>【11/13発売】日本初上陸！OASEARからイヤホン、ケーブル、イヤーピース計11製品が登場！</title><link>https://e-earphone.blog/?p=1556398</link><guid isPermaLink="true">https://e-earphone.blog/?p=1556398</guid><pubDate>Fri, 06 Nov 2026 02:00:00 +0000</pubDate><description><![CDATA[<p>【11/13発売】日本初上陸！OASEARからイヤホン、ケーブル、イヤーピース計11製品が登場！
-
-これはかなり見た目も音も最高な製品でこれから人気になりそうな予感がしております！ こんにちは！e☆イヤホンのPRスタッフです！ 今回は日本初上陸のOASEARからの新製品のご紹介です。 OASEAR HEXE（ヘクセ） […]
-
-【11/13発売】日本初上陸！OASEARからイヤホン、ケーブル、イヤーピース計11製品が登場！
-
-これはかなり見た目も音も最高な製品でこれから人気になりそうな予感がしております！
-
-OASEARの「Witch」シリーズは、登場以来6年にわたりユーザーと歩んできたエントリーモデルです。 この間、プロフェッショナルユーザー向けに設計したアップグレードモデル「Witch Pro」、そして利便性を高めたUSB-C DACケーブルを採用した「Witch Pro Pink DSP」などの製品を展開してきました。 ユーザーの皆さまから継続的に寄せられた評価と支持を受け、私たちはWitchシリーズの系譜を継承することを決めました。
-
-このWitchシリーズを継承する新世代モデル「HEXE」は、「Witch」本来のサウンドコンセプトを継承しつつ、アップグレードされたドライバー技術、洗練されたクラフトマンシップ、そして全体的なデザインとアコースティックチューニングのさらなる改良を取り入れています。
-
-HEXEは、Witchシリーズの鮮やかで自然なサウンドの個性を継承しながら、音響性能、クラフトマンシップ、ユーザー体験を全面的にアップグレードしています。 正確なモニタリングを求めるオーディオプロフェッショナルにも、没入感のあるリスニング体験を追求する音楽愛好家にも、HEXEは洗練された多用途性の高いパフォーマンスを提供します。
-
-Plough Series 第3の星、A…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/11/OASEAR.webp" alt="【11/13発売】日本初上陸！OASEARからイヤホン、ケーブル、イヤーピース計11製品が登場！"></p>]]></description><source url="https://e-earphone.blog/?p=1556398">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/11/OASEAR.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/11/OASEAR.webp"/></item>
 <item><title>イーイヤの日プレゼンツ！語って#思い出オーディオ</title><link>https://e-earphone.blog/?p=1556289</link><guid isPermaLink="true">https://e-earphone.blog/?p=1556289</guid><pubDate>Fri, 06 Nov 2026 02:00:00 +0000</pubDate><description><![CDATA[<p>イーイヤの日プレゼンツ！語って#思い出オーディオ
 
 11月18日はいいイヤホン・ヘッドホンの日！そして…イーイヤの日！特別なイベントをご用意いたしました！ あ、どうも。奈良県民ゆーきゃんです。 11月18日はいいイヤホン・ヘッドホンの日。そして…「イーイヤの日」ということ […]
@@ -7664,25 +7848,6 @@ Plough Series 第3の星、A…</p><p><img src="https://e-earphone.blog/wp-conte
 指定期間内にご返信いただけない場合や、会員情報の確認ができない場合は、当選を無効とさせていただく場合がございます
 
 非公開アカウント…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/11/bc220cc111b7caef0856f0551f9da362.webp" alt="イーイヤの日プレゼンツ！語って#思い出オーディオ"></p>]]></description><source url="https://e-earphone.blog/?p=1556289">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/11/bc220cc111b7caef0856f0551f9da362.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/11/bc220cc111b7caef0856f0551f9da362.webp"/></item>
-<item><title>【11/18発売】ケーブル留め『くるくる』にイーイヤの日カラーが登場！</title><link>https://e-earphone.blog/?p=1556633</link><guid isPermaLink="true">https://e-earphone.blog/?p=1556633</guid><pubDate>Fri, 06 Nov 2026 02:00:00 +0000</pubDate><description><![CDATA[<p>【11/18発売】ケーブル留め『くるくる』にイーイヤの日カラーが登場！
-
-まとめたケーブルにくるくるっとしていくだけ♪ ケーブル留め『くるくる』にイーイヤの日カラー登場！ こんにちはラボスタッフのゾゾです！ 今回はe☆イヤホン・ラボ発の人気商品『くるくる』についてお知らせがございます！ ケーブ […]
-
-【11/18発売】ケーブル留め『くるくる』にイーイヤの日カラーが登場！
-
-まとめたケーブルにくるくるっとしていくだけ♪ ケーブル留め『くるくる』にイーイヤの日カラー登場！
-
-こんにちはラボスタッフのゾゾです！ 今回はe☆イヤホン・ラボ発の人気商品『くるくる』についてお知らせがございます！
-
-硬質アクリル製のケーブル留めです！ ケーブルを輪っか状にまとめ、くるくるの端を引っ掛けて巻くだけで簡単に留められます。 かわいく、おしゃれにデザイン性を重視したアイテムで、使うだけで素敵な写真が撮れる実用性も兼ね備えています♪ 本商品はアクリル板の製造やアクセサリー販売を手掛ける「東京アクリル」との共同開発品で、オリジナルのアクリル板を使用した一点物！
-
-いいイヤホン・ヘッドホンの日、イーイヤの日(11月18日)に発売のNEWカラー！ 今回のカラーは深みのある青なので海を意識して「ラグーンブルー」とネーミングしました。 透明度の高いブルーカラーと不透明のホワイトカラーのマーブルカラーになり、ブルーは緑味の強いシアンカラーに近いカラーになります。
-
-下の画像は歴代青系カラーのくるくるたち。 ラグーンブルーは右端です、深み青最高！
-
-S：内径約1.2cm前後 通常のイヤホンケーブルに適したサイズです。太めの8芯や16芯はＭサイズをおすすめします。 M：内径約1.6cm前後 USBケーブルやヘッドホンケーブルにおすすめです。
-
-くるくるのカラーはなくなり次第どんどん新カラーが追加されていきます…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/11/e793660c5cae3ace3ac2b6094b276ec4.webp" alt="【11/18発売】ケーブル留め『くるくる』にイーイヤの日カラーが登場！"></p>]]></description><source url="https://e-earphone.blog/?p=1556633">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/11/e793660c5cae3ace3ac2b6094b276ec4.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/11/e793660c5cae3ace3ac2b6094b276ec4.webp"/></item>
 <item><title>【本日みつけたお買い得品】ロジクールのフラグシップマウス「MX MASTER4」が約2千円引き！</title><link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2154203.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/todays_sales/2154203.html</guid><pubDate>Fri, 06 Nov 2026 01:39:32 +0000</pubDate><description><![CDATA[<p>【本日みつけたお買い得品】ロジクールのフラグシップマウス「MX MASTER4」が約2千円引き！
 
 Amazonでは11月4日から12日までスマイルSaleを開催中。セールにて、ロジクール製の最新ハイエンドマウス「MX MASTER4」(MX2400GRd)が、直近価格の1,990円引きとなる1万7,910円で販売されている。
@@ -7722,25 +7887,6 @@ HDTの最大ビットレートは7.5Mbpsで、Bluetooth LE 2M PHYの約4倍に�
 投稿によると、SoCはSnapdragon 7s Gen 2へ刷新され、画面もFHD+・120Hz表示へと格上げされる見込みです。
 
 HMD Fusion (EU Version Upgraded) – IPS LCD 6.56″ FHD+, 120Hz – 108MP OIS + 2MP | 50MP – Snapdragon 7s Gen 2 – 8/256GB, 12/256GB – Up to 24GB* w Virtual RAM – 4yrs updates warranty – 5000mAh, 33W pic.x.c…</p><p><img src="https://smhn.info/wp-content/uploads/2026/10/hmd-fusion-official.webp" alt="モジュラースマホHMD Fusion、中身を強化して出直しか。Snapdragon 7s Gen 2と120Hz画面の欧州版がリーク"></p>]]></description><source url="https://smhn.info/202611-hmd-fusion-eu-upgrade-snapdragon-7s-gen-2-leak">すまほん!!</source><media:content url="https://smhn.info/wp-content/uploads/2026/10/hmd-fusion-official.webp" medium="image"/><media:thumbnail url="https://smhn.info/wp-content/uploads/2026/10/hmd-fusion-official.webp"/></item>
-<item><title>【11/19発売】Panasonicから和の美学を纏ったオーバーヘッドホン RB-HJ800 が登場！</title><link>https://e-earphone.blog/?p=1556562</link><guid isPermaLink="true">https://e-earphone.blog/?p=1556562</guid><pubDate>Fri, 06 Nov 2026 01:00:00 +0000</pubDate><description><![CDATA[<p>【11/19発売】Panasonicから和の美学を纏ったオーバーヘッドホン RB-HJ800 が登場！
-
-日本の伝統色をモチーフにしたカラーリングで上質な個性を演出していてオシャレにも！ こんにちは！e☆イヤホンのPRスタッフです！ 今回はPanasonicからの新製品のご紹介です。 Panasonic RB-HJ800 2 […]
-
-【11/19発売】Panasonicから和の美学を纏ったオーバーヘッドホン RB-HJ800 が登場！
-
-日本の伝統色をモチーフにしたカラーリングで上質な個性を演出していてオシャレにも！
-
-・ ANC ON時は72時間、ANC OFF時は100時間連続再生可能 ・充電の手間を減らし、バッテリーへの負荷を抑えて長く愛用できる設計 ・外音取り込み機能、ANC機能搭載で周囲の状況に合わせて音楽が楽しめる
-
-・日本の伝統色をモチーフにしたカラーリングで、上質な個性を演出 ・丸味を帯びたデザインで、日本の美学を宿したシンプルな美しさを表現 ・一点支持アーム折りたたみ機構で、携帯性とデザイン性を両立 ・やさしくフィットするやわもちなパッドで、快適な装着感を実現
-
-・40mm大口径ドライバーが、豊かで臨場感あふれるサウンドを実現 ・低音強調が可能な「バスエンハンサー」搭載。音の楽しみ方が広がる ・空間性とボーカル表現にこだわり、透き通るようなクリアサウンドを実現 ・ENC機能搭載で、騒がしい環境でもクリアな音声で通話できる
-
-こちらの製品は、e☆イヤホンの以下の店舗にてご試聴いただけます。
-
-展示機は11月6日より展示開始予定です。各店およびオンラインストアにて在庫をご用意しております。 ※展示開始時期は予定です。詳しくはオンラインストアの店舗別在庫状況または、各店舗に問い合わせをお願いいたします。
-
-【11/6発売】Luxsinから新世代インテリジェント…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/11/Panasonic-RB-HJ800.webp" alt="【11/19発売】Panasonicから和の美学を纏ったオーバーヘッドホン RB-HJ800 が登場！"></p>]]></description><source url="https://e-earphone.blog/?p=1556562">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/11/Panasonic-RB-HJ800.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/11/Panasonic-RB-HJ800.webp"/></item>
 <item><title>【11/6発売】Luxsinから新世代インテリジェント据え置き一体型DAC/AMP X8/X9 が登場！</title><link>https://e-earphone.blog/?p=1556454</link><guid isPermaLink="true">https://e-earphone.blog/?p=1556454</guid><pubDate>Fri, 06 Nov 2026 01:00:00 +0000</pubDate><description><![CDATA[<p>【11/6発売】Luxsinから新世代インテリジェント据え置き一体型DAC/AMP X8/X9 が登場！
 
 据置型DAC／ヘッドホンアンプ／プリアンプ一体型モデルがLuxsinから新登場！ こんにちは！e☆イヤホンのPRスタッフです！ 今回はLuxsinからの新製品のご紹介です。 Luxsin X8 2026年11月6日発売！ […]
@@ -7777,6 +7923,25 @@ Snowsky BEAT BOXは、CDプレーヤー、ステレオスピーカー、Bluetoot
 CD-DAディスクをワンタッチでロスレスのWAVファイルへリッピングし、接続したUSBストレージ（USB Type-C接続）へ直接保存できます。パソコンは不要です。
 
 ※USBストレージはFAT32フォーマット、32GB以下のUSB Type-Cドライブを推奨します。 ※リッピング時は電源ケーブル接続が必須です…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/11/1c8d163faea3de19b7c73d8ba1fc1849.webp" alt="【11/13発売】FIIOからCDプレイヤーや持ち運びバックなど4種類の製品が登場！"></p>]]></description><source url="https://e-earphone.blog/?p=1556569">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/11/1c8d163faea3de19b7c73d8ba1fc1849.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/11/1c8d163faea3de19b7c73d8ba1fc1849.webp"/></item>
+<item><title>【11/19発売】Panasonicから和の美学を纏ったオーバーヘッドホン RB-HJ800 が登場！</title><link>https://e-earphone.blog/?p=1556562</link><guid isPermaLink="true">https://e-earphone.blog/?p=1556562</guid><pubDate>Fri, 06 Nov 2026 01:00:00 +0000</pubDate><description><![CDATA[<p>【11/19発売】Panasonicから和の美学を纏ったオーバーヘッドホン RB-HJ800 が登場！
+
+日本の伝統色をモチーフにしたカラーリングで上質な個性を演出していてオシャレにも！ こんにちは！e☆イヤホンのPRスタッフです！ 今回はPanasonicからの新製品のご紹介です。 Panasonic RB-HJ800 2 […]
+
+【11/19発売】Panasonicから和の美学を纏ったオーバーヘッドホン RB-HJ800 が登場！
+
+日本の伝統色をモチーフにしたカラーリングで上質な個性を演出していてオシャレにも！
+
+・ ANC ON時は72時間、ANC OFF時は100時間連続再生可能 ・充電の手間を減らし、バッテリーへの負荷を抑えて長く愛用できる設計 ・外音取り込み機能、ANC機能搭載で周囲の状況に合わせて音楽が楽しめる
+
+・日本の伝統色をモチーフにしたカラーリングで、上質な個性を演出 ・丸味を帯びたデザインで、日本の美学を宿したシンプルな美しさを表現 ・一点支持アーム折りたたみ機構で、携帯性とデザイン性を両立 ・やさしくフィットするやわもちなパッドで、快適な装着感を実現
+
+・40mm大口径ドライバーが、豊かで臨場感あふれるサウンドを実現 ・低音強調が可能な「バスエンハンサー」搭載。音の楽しみ方が広がる ・空間性とボーカル表現にこだわり、透き通るようなクリアサウンドを実現 ・ENC機能搭載で、騒がしい環境でもクリアな音声で通話できる
+
+こちらの製品は、e☆イヤホンの以下の店舗にてご試聴いただけます。
+
+展示機は11月6日より展示開始予定です。各店およびオンラインストアにて在庫をご用意しております。 ※展示開始時期は予定です。詳しくはオンラインストアの店舗別在庫状況または、各店舗に問い合わせをお願いいたします。
+
+【11/6発売】Luxsinから新世代インテリジェント…</p><p><img src="https://e-earphone.blog/wp-content/uploads/2026/11/Panasonic-RB-HJ800.webp" alt="【11/19発売】Panasonicから和の美学を纏ったオーバーヘッドホン RB-HJ800 が登場！"></p>]]></description><source url="https://e-earphone.blog/?p=1556562">e☆イヤホン</source><media:content url="https://e-earphone.blog/wp-content/uploads/2026/11/Panasonic-RB-HJ800.webp" medium="image"/><media:thumbnail url="https://e-earphone.blog/wp-content/uploads/2026/11/Panasonic-RB-HJ800.webp"/></item>
 <item><title>【本日みつけたお買い得品】「HHKB Professional HYBRID Type-S」キーボードが3,000円オトク！</title><link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2154182.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/todays_sales/2154182.html</guid><pubDate>Fri, 06 Nov 2026 00:52:46 +0000</pubDate><description><![CDATA[<p>【本日みつけたお買い得品】「HHKB Professional HYBRID Type-S」キーボードが3,000円オトク！
 
 Amazonでは、11月4日から12日までスマイルSaleを開催している。セールにおいて、PFUが手掛けるHappy Hacking Keyboard(HHKB)シリーズの「HHKB Professional HYBRID Type-S」が、直近価格の3,000円引きとなる3万3,850円で販売中だ。日本語配列/墨以外にも、英語配列や本体カラー雪、無刻印モデルなど、全10種類の組み合わせがセール対象となっている。
@@ -8474,159 +8639,4 @@ Retention Messagingは、利用者が解約手続きを始めたときに、開�
 サブスクを解約するときは、料金以外に利用頻度の低下やサービスへの不満など、明確な理由があることも多いでしょう。割引が提示されても、安くなることだけで継続を決めず、本当に必要なサービスかを見直したいところです。
 
 割引が提示されたら、 割引中の料金、割引や無料期間が続く長さ、終了後の通常料金 を見比べて、使い続けるサービスかを判断しましょう。割引…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/11/05/a4fcdd827df2a02a49f9c2c870635583.png" alt="App Storeでサブスク解約時に割引？Appleが新機能を提供"></p>]]></description><source url="https://iphone-mania.jp/app-608340/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/11/05/a4fcdd827df2a02a49f9c2c870635583.png" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/11/05/a4fcdd827df2a02a49f9c2c870635583.png"/></item>
-<item><title>ソニーMDR-3Rの実機画像が流出か〜USB-C接続で約1万円？</title><link>https://iphone-mania.jp/goods-608335/</link><guid isPermaLink="true">https://iphone-mania.jp/goods-608335/</guid><pubDate>Thu, 05 Nov 2026 03:30:00 +0000</pubDate><description><![CDATA[<p>ソニーMDR-3Rの実機画像が流出か〜USB-C接続で約1万円？
-
-ソニーが2026年11月6日に発表するとみられる新型ヘッドホン「MDR-3R」の実機写真とされる画像を、The Walkman Blogが掲載しました。
-
-ソニーMDR-3Rの実機画像が流出か〜USB-C接続で約1万円？
-
-ソニー が 2026年11月6日に発表 するとみられる新型ヘッドホン「 MDR-3R 」の実機写真とされる画像を、The Walkman Blogが掲載しました。
-
-予想されていた通り、初代ウォークマン「TPS-L2」と同時期に登場したヘッドホン「MDR-3」や、ウォークマンII「WM-2」に付属した「MDR-4L1S」を彷彿とさせる デザインとカラーリング になっています。
-
-The Walkman Blogによれば、 MDR-3Rの接続端子 は従来の3.5mmステレオミニプラグではなく、 USB-C になる見込みです。
-
-販売価格は55ユーロ〜60ユーロ程度と噂されており、2026年11月5日時点の為替レートをもとに日本円に換算すると、 約9,800円〜10,700円 になります。
-
-なお、これは単純に為替換算した金額であり、日本での販売価格を示すものではありません。
-
-ティーザー動画に使われていたブルーとオレンジの配色は、MDR-3Rに2色のイヤーパッドが付属することを示唆していたようです。
-
-ブルーのイヤーパッドを装着すればMDR-3、オレンジを装着すればMDR-4L1Sを彷彿 とさせる外観になりそうです。
-
-ソニーは日本時間11月6日午前9時に新製品を発表する予定で、製品の正式名称や仕様、国内販売価格が明らかになると期待されます。
-
---PR-- [公式] - iPhoneの購入や予約はオンラインで確実に！
-
-iPhoneなどApple製品の疑問は iMコミュニティ で聞けます。詳しい読者が答えてくれます。</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/11/05/MDR-3R-leak_4.jpg" alt="ソニーMDR-3Rの実機画像が流出か〜USB-C接続で約1万円？"></p>]]></description><source url="https://iphone-mania.jp/goods-608335/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/11/05/MDR-3R-leak_4.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/11/05/MDR-3R-leak_4.jpg"/></item>
-<item><title>Nextorageの512GB microSD Expressカードが20,620円など！AmazonスマイルSale</title><link>https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2153711.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2153711.html</guid><pubDate>Thu, 05 Nov 2026 03:30:00 +0000</pubDate><description><![CDATA[<p>Nextorageの512GB microSD Expressカードが20,620円など！AmazonスマイルSale
-
-Amazon.co.jpにて、「スマイルSale」が11月4日（水）～12日（木）23:59の期間で開催。
-
-Nextorageの512GB microSD Expressカードが20,620円など！AmazonスマイルSale
-
-Amazon.co.jpにて、「スマイルSale」が11月4日（水）～12日（木）23:59の期間で開催。
-
-期間中、Nextorageのストレージ製品がセール対象となっています。
-
-Gシリーズ EXは、 Nintendo Switch2動作確認済みのmicroSD Expressカード。512GBのセール価格は20,620円。このほか、1TBモデルもセール中。
-
-NEM-PAC/NEM-PADシリーズは、PS5対応をうたうヒートシンク搭載PCIe 4.0接続M.2 SSD。セール価格は35,980円から。
-
-GシリーズEEAは、最大転送速度7,000MB/sを謳うPCIe 4.0接続M.2 SSD。セール価格は30,580円から。
-
-NX-PFS1SEは、ステータス表示画面などデータ管理機能を搭載したポータブルSSD。1TBのセール価格は33,830円。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2153/711/s1.jpg" alt="Nextorageの512GB microSD Expressカードが20,620円など！AmazonスマイルSale"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2153711.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2153/711/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2153/711/s1.jpg"/></item>
-<item><title>MacBook Neo 2に高まる期待〜2027年の出荷計画は倍増か</title><link>https://iphone-mania.jp/mac-608333/</link><guid isPermaLink="true">https://iphone-mania.jp/mac-608333/</guid><pubDate>Thu, 05 Nov 2026 03:15:00 +0000</pubDate><description><![CDATA[<p>MacBook Neo 2に高まる期待〜2027年の出荷計画は倍増か
-
-サプライチェーン関係者からの情報として、Appleが2027年にMacBook Neoシリーズを1,600万台出荷する計画だと報じられています。
-
-MacBook Neo 2に高まる期待〜2027年の出荷計画は倍増か
-
-サプライチェーン関係者からの情報として、Appleが 2027年にMacBook Neoシリーズを1,600万台出荷 する計画だと報じられています。
-
-この台数は、 2026年の予測値である約800万台の2倍 に達します。後継モデルである MacBook Neo 2の性能向上と人気の持続 に加え、Appleが 部品の確保にも自信 を持っていることを示しているのかもしれません。
-
-MacBook Neo 2 は2027年春頃に発表されると噂されています。実現した場合、2027年の約4分の1は 初代MacBook Neo が、残りの約4分の3はMacBook Neo 2が主力になる可能性があります。
-
-MacBook Neoシリーズで 1,600万台の出荷を実現するには、後継モデルであるMacBook Neo 2に大幅な販売増を期待 していると考えるのが妥当でしょう。
-
-ただし、初代MacBook Neoは2026年3月に発売されたため、2026年と2027年では販売期間が異なります。それでも、期間の違いだけでは説明できない大幅な出荷増が見込まれています。
-
-MacBook Neo 2にはA19 Proが搭載 され、ユニファイドメモリも 現行モデルの8GB から 12GBに増加 すると噂されています。
-
-12GBメモリの搭載が実現すれば、複数のアプリを同時に利用する際の余裕が増すほか、Apple Intelligenceや今後のSiriの新機能にも対応しやすくなると期待されます。
-
-AppleがMacBook Neo 2の大幅な出荷増を計画しているとすれば、初代MacBook Neoで問題となった 搭載チップの供給不足 についても、何らかの対策を検討 していると考えられます。
-
-MacB…</p><p><img src="https://iphone-mania.jp/wp-content/uploads/2026/11/05/MacBook-Neo-2-AC-1105.jpg" alt="MacBook Neo 2に高まる期待〜2027年の出荷計画は倍増か"></p>]]></description><source url="https://iphone-mania.jp/mac-608333/">iPhone Mania</source><media:content url="https://iphone-mania.jp/wp-content/uploads/2026/11/05/MacBook-Neo-2-AC-1105.jpg" medium="image"/><media:thumbnail url="https://iphone-mania.jp/wp-content/uploads/2026/11/05/MacBook-Neo-2-AC-1105.jpg"/></item>
-<item><title>Core i7-9700Tや16GBメモリ搭載のHP製ミニPCが39,600円、Qualitの中古Cランク品セール</title><link>https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2153679.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2153679.html</guid><pubDate>Thu, 05 Nov 2026 03:00:00 +0000</pubDate><description><![CDATA[<p>Core i7-9700Tや16GBメモリ搭載のHP製ミニPCが39,600円、Qualitの中古Cランク品セール
-
-Core i7-9700T(8コア/8スレッド)を搭載したHP製ミニPC「EliteDesk 800 G5 DM」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で特価販売中。
-
-Core i7-9700Tや16GBメモリ搭載のHP製ミニPCが39,600円、Qualitの中古Cランク品セール
-
-Core i7-9700T(8コア/8スレッド)を搭載したHP製ミニPC「EliteDesk 800 G5 DM」の中古品が、横河レンタ・リースが運営する 通販サイト「Qualit」で特価販売中 。
-
-今回販売されているのは、「傷や使用感が見られる」(同店)というCランク中古品で、販売価格は39,600円。保証期間は12か月となっています。
-
-主な仕様は、メモリが16GB、ストレージが256GB SSD、OSがWindows 11 Pro。インターフェイスには、DisplayPort×2やVGA、USB Type-Cなどを備えています。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2153/679/a1.jpg" alt="Core i7-9700Tや16GBメモリ搭載のHP製ミニPCが39,600円、Qualitの中古Cランク品セール"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2153679.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2153/679/a1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2153/679/a1.jpg"/></item>
-<item><title>最大風速55m/sでゴミも水滴も吹き飛ばす充電式ジェットブロワー</title><link>https://pc.watch.impress.co.jp/docs/news/2153808.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2153808.html</guid><pubDate>Thu, 05 Nov 2026 02:56:22 +0000</pubDate><description><![CDATA[<p>最大風速55m/sでゴミも水滴も吹き飛ばす充電式ジェットブロワー
-
-キーボードのホコリから洗車後の水滴、庭の落ち葉までを1台で吹き飛ばせるブロワーが登場した。サンワサプライは11月4日、直販サイト「サンワダイレクト」で充電式ジェットブロワー「200-CDADE008」を発売した。直販価格は1万9,800円。
-
-最大風速55m/sでゴミも水滴も吹き飛ばす充電式ジェットブロワー
-
-キーボードのホコリから洗車後の水滴、庭の落ち葉までを1台で吹き飛ばせるブロワーが登場した。サンワサプライは11月4日、直販サイト「サンワダイレクト」で充電式ジェットブロワー「200-CDADE008」を発売した。直販価格は1万9,800円。
-
-200-CDADE008は、最大風速55m/sの送風で水滴やホコリ、落ち葉を吹き飛ばすコードレスのブロワー。ブラシレスモーターを採用し、送風口の直径は65mm。風量はダイヤルで10段階に調整でき、ターボボタンを長押しすると最大風速の送風に切り替わる。液晶画面には風量を表示し、ターボモードの継続時間を示すインジケーターも備える。
-
-ノズルは、風を集中させる「ブーストノズル」、手の届きにくい場所に風を送る「延長ノズル」、広い範囲に風を送る「拡散ノズル」の3種類が付属する。このほか、LEDライト、電源を入れたまま約2分間放置すると音で知らせる警告アラーム、静電気を逃がすESD静電気保護設計を備える。
-
-充電はUSB Type-Cで行ない、USB PD 30W(15V/2A出力)の場合の充電時間は約4時間。バッテリ容量は4,000mAhで、使用時間は最弱時で最大約80分、ターボ使用時で約6分。本体サイズは86×282×134mm、重量は約940g。</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2153/808/2.jpg" alt="最大風速55m/sでゴミも水滴も吹き飛ばす充電式ジェットブロワー"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2153808.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2153/808/2.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2153/808/2.jpg"/></item>
-<item><title>【本日みつけたお買い得品】WDの外付けHDD 8TBが3,306円引き。20TBは9,270円オフに！</title><link>https://pc.watch.impress.co.jp/docs/news/todays_sales/2153828.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/todays_sales/2153828.html</guid><pubDate>Thu, 05 Nov 2026 02:36:59 +0000</pubDate><description><![CDATA[<p>【本日みつけたお買い得品】WDの外付けHDD 8TBが3,306円引き。20TBは9,270円オフに！
-
-Amazonは11月4日から12日にかけて、スマイルSaleを実施している。外付けHDDのWestern Digital「WD Elements Desktop」シリーズは、直近価格からの値引きで、8TB版が3,306円引きの5万2,250円、14TB版が7,430円引きの8万5,370円、16TB版が7,990円引きの9万1,810円、20TB版が9,270円引きの10万6,530円、26TB版が1万5,040円引きの17万2,960円にて購入可能だ。
-
-WDの外付けHDD 8TBが3,306円引き。20TBは9,270円オフに！
-
-Amazonは11月4日から12日にかけて、スマイルSaleを実施している。外付けHDDのWestern Digital「WD Elements Desktop」シリーズは、直近価格からの値引きで、8TB版が3,306円引きの5万2,250円、14TB版が7,430円引きの8万5,370円、16TB版が7,990円引きの9万1,810円、20TB版が9,270円引きの10万6,530円、26TB版が1万5,040円引きの17万2,960円にて購入可能だ。
-
-WD Elements Desktopシリーズは、シンプルかつコンパクトなデザインが特徴の外付けHDDだ。接続はUSB 3.2 Gen 1。NTFS形式でフォーマット済みであり、USBポートに接続するだけで、すぐにWindows PCで使用できるとする。ファイルのバックアップ/復元や、ドライブのクローン作成などを行なえる「Acronis True Image for Western Digital」が用意されている。
-
-Western Digital WD Elements Desktop (8TB)
-
-Western Digital WD Elements Desktop (20TB)
-
-Seagate「Expansion デスクトップ」シリーズは、USB 3.2 Gen 1接続…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2153/828/01.jpg" alt="【本日みつけたお買い得品】WDの外付けHDD 8TBが3,306円引き。20TBは9,270円オフに！"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/todays_sales/2153828.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2153/828/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2153/828/01.jpg"/></item>
-<item><title>Windows11のペイントにリモートコード実行の脆弱性CVE-2026-83844。アップデートを</title><link>https://www.nichepcgamer.com/archives/post-133732.html</link><guid isPermaLink="true">https://www.nichepcgamer.com/archives/post-133732.html</guid><pubDate>Thu, 05 Nov 2026 02:36:12 +0000</pubDate><description><![CDATA[<p>Windows11のペイントにリモートコード実行の脆弱性CVE-2026-83844。アップデートを
-
-Microsoftは、Windows11のペイントアプリにリモートコード実行(Remote Code Execution / RCE)の脆弱性があることを明らかにしました。 ペイントの脆弱性のCVE...
-
-Microsoftは、 Windows11のペイントアプリにリモートコード実行(Remote Code Execution / RCE)の脆弱性があることを明らかにしました。
-
-ペイントの脆弱性のCVE IDは『CVE-2026-83844』。 この脆弱性を悪用されると、ネットワーク経由でリモートでコードを実行される恐れがあります。また、特別な権限は必要ないとされています。
-
-この脆弱性は2026年10月13日付け(米国時間)で 公開 されました。Microsoftによると、ペイントバージョン11.2609.401.0にて脆弱性を修正済みとされています。
-
-しかしながら、 一部のユーザー は2026年11月時点でもいまだに古いバージョン11.2605.81.0のままで、環境によってはこれより新しいバージョンへとアップデートされないと述べています。
-
-筆者環境で確認したところ、ペイントのバージョンは脆弱性のある11.2605.81.0でした。
-
-Microsoft Storeを起動して、『ダウンロード』 → 『更新プログラムの確認』で手動アップデートを行ったところ、脆弱性が修正されたペイントバージョン11.2609.401.0へとアップデートされました。
-
-ペイント バージョン11.2609.401.0 脆弱性修正済み
-
-少なくとも筆者環境においては、新しいバージョンへとアップデートされないということはなく、手動アップデートで11.2609.401.0が降ってきました。(ただ、Microsoft Storeの設定は自動更新を有効にしていましたが、11.2609.401.0へと自動更新されていませんでした)
-
-脆弱性が修正されているかどうかは、ペイントを起動して、右上…</p><p><img src="https://www.nichepcgamer.com/wp-content/uploads/2025/10/windows-break-c-red.jpg" alt="Windows11のペイントにリモートコード実行の脆弱性CVE-2026-83844。アップデートを"></p>]]></description><source url="https://www.nichepcgamer.com/archives/post-133732.html">ニッチなPCゲーマーの環境構築Z</source><media:content url="https://www.nichepcgamer.com/wp-content/uploads/2025/10/windows-break-c-red.jpg" medium="image"/><media:thumbnail url="https://www.nichepcgamer.com/wp-content/uploads/2025/10/windows-break-c-red.jpg"/></item>
-<item><title>Fire TV Stick 4K Selectが5,980円などFire TVシリーズがお得！AmazonスマイルSale</title><link>https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2153574.html</link><guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2153574.html</guid><pubDate>Thu, 05 Nov 2026 02:30:00 +0000</pubDate><description><![CDATA[<p>Fire TV Stick 4K Selectが5,980円などFire TVシリーズがお得！AmazonスマイルSale
-
-Amazon.co.jpにて、「スマイルSale」が11月4日（水）～12日（木）23:59の期間で開催。
-
-Fire TV Stick 4K Selectが5,980円などFire TVシリーズがお得！AmazonスマイルSale
-
-Amazon.co.jpにて、「スマイルSale」が11月4日（水）～12日（木）23:59の期間で開催。
-
-Fire TV Stick 4K Selectは、4K Ultra HDやHDR10+、Wi-Fi 5、Xboxクラウドゲームなどに対応したストリーミングメディアプレイヤー。セール価格は5,980円。
-
-Fire TV Stick 4K Plusは、4K Ultra HD、Dolby Vision、HDR10+、Dolby Atmos、Wi-Fi 6、Xboxクラウドゲーム、NVIDIA Geforce NOWなどに対応したストリーミングメディアプレイヤー。セール価格は6,980円。
-
-Fire TV Stick 4K Max(第2世代)は、2.0GHzクアッドコアプロセッサやWi-Fi 6E、4K Ultra HD、Dolby Vision、HDR10+、Dolby Atmos、アンビエントディスプレイ機能を備えたストリーミングメディアプレイヤー。セール価格は10,980円。
-
-Fire TV Cube(第3世代)は、ハンズフリー音声操作やHDMI入力ポート、Wi-Fi 6+有線LAN、4K Ultra HD、Dolby Vision、HDR10+、Dolby Atmos、内蔵スピーカーを備えたストリーミングメディアプレイヤー。セール価格は20,980円。</p><p><img src="https://akiba-pc.watch.impress.co.jp/img/ah/list/2153/574/s1.jpg" alt="Fire TV Stick 4K Selectが5,980円などFire TVシリーズがお得！AmazonスマイルSale"></p>]]></description><source url="https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2153574.html">AKIBA PC Hotline!</source><media:content url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2153/574/s1.jpg" medium="image"/><media:thumbnail url="https://akiba-pc.watch.impress.co.jp/img/ah/list/2153/574/s1.jpg"/></item>
-<item><title>Razer、マグネシウム合金ボディ採用で1,337台限定のコントローラ</title><link>https://pc.watch.impress.co.jp/docs/news/2153803.html</link><guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2153803.html</guid><pubDate>Thu, 05 Nov 2026 02:12:41 +0000</pubDate><description><![CDATA[<p>Razer、マグネシウム合金ボディ採用で1,337台限定のコントローラ
-
-Razerは、マグネシウム合金製ボディを使用した世界1,337台限定のゲームコントローラ「Razer Raiju V3 Pro Signature Edition」を11月10日より順次発売する。直販サイトのみでの取り扱いとなり、販売開始時刻や購入方法については、Razerの公式SNSで11月6日にアナウンスするとしている。
-
-Razer、マグネシウム合金ボディ採用で1,337台限定のコントローラ
-
-Razerは、マグネシウム合金製ボディを使用した世界1,337台限定のゲームコントローラ「Razer Raiju V3 Pro Signature Edition」を11月10日より順次発売する。直販サイトのみでの取り扱いとなり、販売開始時刻や購入方法については、Razerの公式SNSで11月6日にアナウンスするとしている。
-
-Razer Raiju V3 Pro Signature Editionは、PlayStation 5公式ライセンスを取得したフラグシップコントローラ。マグネシウム合金製のエクソスケルトンボディやレーザー刻印を施したガラス製タッチパッド、テクスチャード加工のTPU製グリップなど、強度や耐久性、仕上がりにこだわった素材を各所に使用した。
-
-アクションボタン、方向キー、各種サブ入力ボタンはマットブラックで統一。いずれも印字が色褪せにくいダブルショットPBT成形を採用した。左右のスティックには非接触型TMRサムスティックセンサーを搭載し、高精度での操作を実現。さまざまな操作を割り当てられる4つの背面ボタンも備える。
-
-PCへの最適化も図られており、独自技術であるRazer HyperPolling Wirelessによって最大2,000Hzのポーリングレートに対応。ユーティリティのRazer SynapseやモバイルアプリのRazer PSを通じて、ボタンの割り当て変更やスティック感度の調整といったカスタマイズも行なえる。
-
-そのほか、レザー調キャリングケース、交換用のサムスティック…</p><p><img src="https://pc.watch.impress.co.jp/img/pcw/list/2153/803/01.jpg" alt="Razer、マグネシウム合金ボディ採用で1,337台限定のコントローラ"></p>]]></description><source url="https://pc.watch.impress.co.jp/docs/news/2153803.html">PC Watch</source><media:content url="https://pc.watch.impress.co.jp/img/pcw/list/2153/803/01.jpg" medium="image"/><media:thumbnail url="https://pc.watch.impress.co.jp/img/pcw/list/2153/803/01.jpg"/></item>
 </channel></rss>
