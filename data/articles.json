@@ -1,6 +1,141 @@
 {
   "akiba": [
     {
+      "Title": "Intel Razor Lake-AXは2つのメモリ構成がある？MoP構成とMoB構成",
+      "Link": "https://www.nichepcgamer.com/archives/post-134323.html",
+      "Published": "2026-11-27T15:57:26Z",
+      "Source": "ニッチなPCゲーマーの環境構築Z",
+      "Category": "RazorLake",
+      "Summary": "Intel Razor Lake-AXは2つのメモリ構成がある？MoP構成とMoB構成\n\nIntel Razor Lake-AXには2つのメモリ構成がある模様です。 1つはMemory on package (メモリオンパッケージ / MoP)構成。DDR5メモリチップをプロセッサー(C...\n\nIntel Razor Lake-AXには2つのメモリ構成がある模様です。\n\n1つはMemory on package (メモリオンパッケージ / MoP)構成。DDR5メモリチップをプロセッサー(CPU)と同じ基板上にパッケージングしたもので、先日、リークされたES版Razor Lake-AXの 写真 の構成です。\n\nそしてもう1つの構成ですが、ハードウェアリーカーのJaykihn氏によると、 Memory on motherboard (メモリオンマザーボード / MoB)構成があるとのこと。この構成は、プロセッサーと同じパッケージ内にメモリチップはなく、一般的なCPU / メモリ / マザーボード構成と同じく、マザーボード上のメモリを使用します。\n\n前者のMoP構成は最大96GBまでのメモリに対応し、後者のMoB構成は192GBまでのメモリに対応するとされています\n\nRazor Lake-AX MoP構成 プロッセッサーにメモリをパッケージ\n\n最大96GBメモリ ( VideoCardz は128GBまで対応すると述べています。どちらが正しいのかは不明)\n\nRazor Lake-AX MoB構成 マザーボード上のメモリを使用。プロセッサーにメモリはパッケージされていない\n\nJaykihn氏によるとMoB構成はまだ仕様を定義する段階にあるとのこと。まだ完全に仕様はかたまっていない模様です。\n\nMoP / MoBいずれの構成も、最大32基のXe3P iGPUの搭載が見込まれており、高いゲーム性能・グラフィック性能が期待されます。\n\nもし、MoB構成が一般的なデスクトップCPUとして投入されれば、AMDのデスクトップAPUに競合する興味深い製品になりそうですね。\n\nRazor …",
+      "ImageURL": "https://www.nichepcgamer.com/wp-content/uploads/2024/11/intel-tile-a.jpg"
+    },
+    {
+      "Title": "37mm厚の小型PC「ASUS NUC 15 Pro」が発売、Core Ultra 7搭載モデルも",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2160137.html",
+      "Published": "2026-11-27T15:30:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "37mm厚の小型PC「ASUS NUC 15 Pro」が発売、Core Ultra 7搭載モデルも\n\n幅117×奥行112×高さ37mmのWindows 11 Home搭載PC「ASUS NUC 15 Proシリーズ」が登場した。\n\n37mm厚の小型PC「ASUS NUC 15 Pro」が発売、Core Ultra 7搭載モデルも\n\n幅117×奥行112×高さ37mmのWindows 11 Home搭載PC「ASUS NUC 15 Proシリーズ」が登場した。\n\nラインナップはCore Ultra 7 255H（cTDP 40W）や512GB SSD搭載の「RNUC15CRKU7073AJ」、Core 3 100U（cTDP 25W）や256GB SSD搭載の「RNUC15CRKI3052AJ」、Intel U300（cTDP 15W）や512GB SSD搭載の「BNUC15CRLIP053AJ」の3つ。Amazon.co.jpの価格は161,636円～270,728円。\n\nASUS NUC 15 ProシリーズはWindows 11 Home、16GBのメモリを搭載したPC。本体サイズ（幅×奥行×高さ）は117×112×37mmで、デスクの上でも場所を取らず、また、VESAマウントブラケットが付属し、モニター背面に取り付けて設置スペースを節約できるとしている。\n\nRNUC15CRKU7073AJ/RNUC15CRKI3052AJは、Wi-Fi 7に対応。背面にDisplayPort 2.1対応のThunderbolt 4ポートを2つ、HDMI 2.1ポートを2つ備え、また、M.2 2242 NVMe SSDスロットによりストレージの拡張ができる。重量は514.8g。\n\nエントリーモデルとなるBNUC15CRLIP053AJは、Wi-Fi 6Eに対応。USB4ポート（DisplayPort 2.1対応）×1、HDMI 2.1ポート×2などを装備する。重量は533g。\n\n付属品はACアダプター、電源コード、VESAマウントブラケット・ネジ、ケーブルクリップ、安全・規制関連…",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2160/137/s1.jpg"
+    },
+    {
+      "Title": "スティックSSDやゲーミングモニター、BD-Rなどアイオーデータ取り扱い製品がお得！Amazonブラックフライデー",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2159747.html",
+      "Published": "2026-11-27T15:25:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "スティックSSDやゲーミングモニター、BD-Rなどアイオーデータ取り扱い製品がお得！Amazonブラックフライデー\n\nAmazon.co.jpにて、「ブラックフライデー」セールが11月30日（月）～12月7日（月）の期間で開催。11月27日（金）より、先行セールも開催中です。\n\nスティックSSDやゲーミングモニター、BD-Rなどアイオーデータ取り扱い製品がお得！Amazonブラックフライデー\n\nAmazon.co.jpにて、「ブラックフライデー」セールが11月30日（月）～12月7日（月）の期間で開催。11月27日（金）より、先行セールも開催中です。\n\n期間中、アイオーデータ取り扱い製品がセール対象となっています。\n\nR-SSSA-UT1/UEは、読込約430MB/sの高速転送に対応した、バックアップ・データ移行ソフトも付属の1TBスティックSSD。セール価格は19,800円。\n\nGigaCrysta EX-GD243UDBは、240Hzリフレッシュレートや応答速度0.2ms（GTG）、Clear AIM機能を備えた23.8型フルHDゲーミングモニター。セール価格は16,980円。\n\nEX-A241DBは、広視野角のADSパネルや3辺フレームレスデザイン、省電力機能を備えた23.8型モニター。セール価格は12,580円。\n\nWestern Digital WD Elements Portable WDBU6Y0050BBK-WESNは、USB 3.0接続でUSBバスパワー駆動に対応した容量5TBのポータブルHDD。セール価格は34,780円。\n\nWD Elements Portable WDBU6Y0050BBK-WESN\n\nVerbatim MB5000ZV2は、約2,002回の長寿命を実現する半固体電池や最大20WのPD/QC3.0急速充電に対応した容量5,000mAhのモバイルバッテリー。セール価格は2,980円。\n\nVerbatim MyFinder 32130は、Appleの「探す」アプリ連携やIP66防水防塵、最大12か月のバッテリー駆動に対応したiPhon…",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2159/747/s1.jpg"
+    },
+    {
+      "Title": "Core Ultra Series 3搭載の小型PC「ASUS NUC 16 Pro」が発売",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2160154.html",
+      "Published": "2026-11-27T15:23:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "Core Ultra Series 3搭載の小型PC「ASUS NUC 16 Pro」が発売\n\nIntel Core Ultra Series 3 プロセッサーを搭載したミニPC「ASUS NUC 16 Pro」が発売された。\n\nCore Ultra Series 3搭載の小型PC「ASUS NUC 16 Pro」が発売\n\nIntel Core Ultra Series 3 プロセッサーを搭載したミニPC「ASUS NUC 16 Pro」が発売された。\n\nラインナップはCore Ultra 5 325（cTDP 45W）や32GB DDR5-5600 SO-DIMM、Windows 11 Home搭載の「RNUC16GDKU5694HJ」、Core Ultra 7 356H（cTDP 65W）や32GB DDR5-5600 SO-DIMM、Windows 11 Home搭載の「RNUC16GDKU7694HJ」、Core Ultra X7 358H（cTDP 65W）や32GB LPDDR5x-8533、Windows 11 Pro搭載の「RNUC16GDKX76C4HJ」の3つ。Amazon.co.jpの価格は351,636円～485,273円。\n\n42mm厚の小型筐体にThunderbolt 4×2やデュアル2.5GbEを搭載\n\nASUS NUC 16 ProはWindows 11、Intel Core Ultra Series 3 プロセッサー、32GBのメモリを搭載したミニPC。ストレージは1TB M.2 2280 NVMe PCIe 4.0 SSD。本体サイズ（幅×奥行×高さ）は144×117×42mm。\n\n背面にDisplayPort 2.1対応のThunderbolt 4ポートを2つ、HDMI 2.1ポートを2つ搭載。また、Wi-Fi 7、Bluetooth 6.0、2.5ギガビットLANポート2つを搭載し、有線・無線ともに安定した高速通信を実現するとしている。\n\nRNUC16GDKU5694HJの電源は120W ACアダプター（19V/6.32A）、重量…",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2160/154/s1.jpg"
+    },
+    {
+      "Title": "液晶タブレットやお絵描きAndroidタブレットなどXPPen製品が最大40%オフ！Amazonブラックフライデー",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2159677.html",
+      "Published": "2026-11-27T15:20:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "液晶タブレットやお絵描きAndroidタブレットなどXPPen製品が最大40%オフ！Amazonブラックフライデー\n\nAmazon.co.jpにて、「ブラックフライデー」セールが11月30日（月）～12月7日（月）の期間で開催。11月27日（金）より、先行セールも開催中です。\n\n液晶タブレットやお絵描きAndroidタブレットなどXPPen製品が最大40%オフ！Amazonブラックフライデー\n\nAmazon.co.jpにて、「ブラックフライデー」セールが11月30日（月）～12月7日（月）の期間で開催。11月27日（金）より、先行セールも開催中です。\n\nArtist 12 3rdは、X4スマートチップ搭載ペンやショートカットキー8個、X-Dialを備え、約719gの軽量設計を採用した11.9型液晶ペンタブレット。セール価格は30,432円（Amazonプライム会員価格）。\n\nArtist 16 3rdは、X4スマートチップ搭載ペンや二つのX-Dial、ショートカットキー8個を備えた15.4型液晶ペンタブレット。セール価格は41,782円。\n\nArtist Pro 22（Gen2）は、Calman認証ディスプレイやX3 Proスタイラスペン、左手デバイスACK05も付属した21.5型WQHD液晶ペンタブレット。セール価格は86,559円。\n\nArtist Pro 27（Gen 2）は、マルチタッチ対応のX-TouchやX3 Proスタイラス、HDR表示対応の27型4K液晶ペンタブレット。セール価格は223,500円。\n\nMagic Pro 13は、3K表示の120Hz対応ディスプレイやX4スマートチップスタイラス、10,200mAhバッテリーを備え、PC連携にも対応するAndroid 16搭載お絵描きタブレット。セール価格は144,330円。",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2159/677/s1.jpg"
+    },
+    {
+      "Title": "「U-NEXT」の1,200ポイント付き30日見放題コードが30％オフ！Amazonブラックフライデー",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2160173.html",
+      "Published": "2026-11-27T15:17:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "「U-NEXT」の1,200ポイント付き30日見放題コードが30％オフ！Amazonブラックフライデー\n\nAmazon.co.jpにて、「ブラックフライデー」セールが11月30日（月）～12月7日（月）の期間で開催。11月27日（金）より、先行セールも開催中です。\n\n「U-NEXT」の1,200ポイント付き30日見放題コードが30％オフ！Amazonブラックフライデー\n\nAmazon.co.jpにて、「ブラックフライデー」セールが11月30日（月）～12月7日（月）の期間で開催。11月27日（金）より、先行セールも開催中です。\n\n動画配信サービスU-NEXTの30日間見放題+1,200ポイント付きギフトコードがセール対象になっています。\n\nU-NEXTは、映画やドラマ/アニメから、雑誌/マンガ/書籍の配信にも対応した動画配信サービス。付属のポイントは映画レンタルや漫画購入に利用できます。\n\nセール価格は表示価格（2,189円）から30％引きの1,533円（要プライム会員ログイン）。\n\nU-NEXTギフトコード 30日間見放題+1,200ポイント|オンラインコード版",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2160/173/s1.jpg"
+    },
+    {
+      "Title": "NVIDIA、ゲーミングGPUの供給をさらに2〜3割削減か",
+      "Link": "https://smhn.info/202611-nvidia-gaming-gpu-supply-cut-board-partners",
+      "Published": "2026-11-27T14:37:25Z",
+      "Source": "すまほん!!",
+      "Category": "NVIDIA",
+      "Summary": "NVIDIA、ゲーミングGPUの供給をさらに2〜3割削減か\n\nNVIDIAがグラフィックスカードを製造・販売するボードパートナーに、ゲーミング向けGPUの供給を20〜30％減らすと通知したと、中国のPC部品流通向けフォーラム「Board Channels」の情報として11月25日に報じられました。具体的には、対象はNVIDIAの第4四半期に...\n\nNVIDIAがグラフィックスカードを製造・販売するボードパートナーに、ゲーミング向けGPUの供給を20〜30％減らすと通知したと、中国のPC部品流通向けフォーラム「Board Channels」の情報として11月25日に報じられました。\n\n具体的には、対象はNVIDIAの第4四半期にあたる11月〜翌年1月で、一般消費者向け・ゲーミング向けGPUの供給量を「再び」引き下げるとされています。\n\nさらに、中国向けのGPU供給は第3四半期の時点ですでに「非常に逼迫」していたといいます。一方、どのGeForce RTXの型番が対象となるのかや、中国以外の地域でも同じ規模で減るのかについては明らかにされていません。\n\nまた、Board Channelsは販売店に対し、品薄と価格の変動が続くことを見込むよう呼びかけているといいます。\n\n供給面をめぐっては、NVIDIAの幹部が10月にRTX 5090の生産終了説を否定する一方で、供給網の生産能力が「やや制約されている」と 認めていました 。\n\nすでに供給網の制約や品薄への懸念が伝えられているなか、報じられた通りに供給がさらに20〜30％減るとなれば、年末年始にグラフィックスカードの購入を考えている人には厳しい話です。もっとも、NVIDIAはこの情報を認めておらず、対象の型番も分かりません。体的な対象や公式の発表について続報を待ちたいところです。",
+      "ImageURL": "https://smhn.info/wp-content/uploads/2026/11/nvidia-geforce-rtx-5070-founders.webp"
+    },
+    {
+      "Title": "Nothin、Earが40%オフの1万1800円！Phone (3)も25%オフ",
+      "Link": "https://smhn.info/202611-nothing-black-friday-sale-2026",
+      "Published": "2026-11-27T14:10:27Z",
+      "Source": "すまほん!!",
+      "Category": "ブラックフライデー",
+      "Summary": "Nothin、Earが40%オフの1万1800円！Phone (3)も25%オフ\n\nNothing Technology Japanは11月27日0時、ブラックフライデーセールを始めました。期間は12月7日23時59分までの11日間で、在庫がなくなり次第終了します。割引率が最も大きいのはワイヤレスイヤホンの「Ear」で、通常価格1万9800円から40%オフの1万...\n\nNothin、Earが40%オフの1万1800円！Phone (3)も25%オフ\n\nNothing Technology Japanは11月27日0時、ブラックフライデーセールを始めました。期間は12月7日23時59分までの11日間で、在庫がなくなり次第終了します。\n\n割引率が最も大きいのはワイヤレスイヤホンの「Ear」で、通常価格1万9800円から40%オフの 1万1800円 。「Ear (a)」も通常価格1万2800円から38%オフの 7980円 に下がっています。\n\nスマートフォンは、「Phone (3)」の512GBが通常価格13万9800円から25%オフの10万4800円、「Phone (3a)」の256GBが通常価格5万9800円から17%オフの4万9800円。ただし、スマートフォンはNothingの公式サイトでのセールです。\n\n一方、イヤホン・ヘッドホンとスマートウォッチは、同じ期間の「Amazon ブラックフライデー」でもセール価格で販売。11月27日6時台にAmazonの商品ページを確認したところ、いずれも公式サイトと同じ価格で、販売元はAmazon.co.jpかAmazonでした。対象製品は以下の通りです。\n\nHeadphone (1)は、透明なパーツを組み合わせたデザインと、物理ボタン・ローラーによる操作が特徴のヘッドホン。 レビュー したように官能的な操作感が特徴。発売時の3万9800円から1万円安く買えます。\n\nPhone (3)は、背面に小さなドットのディスプレイ「Glyph Matrix」を備えたNothingのフラッグシップスマートフォンです。 レビュー したように外観倒…",
+      "ImageURL": "https://smhn.info/wp-content/uploads/2026/11/nothing-black-friday-earbuds.webp"
+    },
+    {
+      "Title": "特価：光学10倍のOPPO Find X9 Ultraが6万5000円引き！",
+      "Link": "https://smhn.info/202611-oppo-find-x9-ultra-amazon-black-friday-209800",
+      "Published": "2026-11-27T12:51:05Z",
+      "Source": "すまほん!!",
+      "Category": "ブラックフライデー",
+      "Summary": "特価：光学10倍のOPPO Find X9 Ultraが6万5000円引き！\n\nAmazonブラックフライデーの先行セールで、OPPOのカメラ特化フラッグシップ「OPPO Find X9 Ultra」が値下がりしています。価格は、参考価格27万4800円から24%オフ、6万5000円引きの20万9800円。11月のスマイルSaleの21万5817円より、さら...\n\n特価：光学10倍のOPPO Find X9 Ultraが6万5000円引き！\n\nAmazonブラックフライデーの先行セールで、OPPOのカメラ特化フラッグシップ「OPPO Find X9 Ultra」が値下がりしています。\n\n価格は、参考価格27万4800円から24%オフ、6万5000円引きの 20万9800円 。11月のスマイルSaleの21万5817円より、さらに6017円安くなりました。対象はツンドラアンバーとキャニオンオレンジの2色。\n\nFind X9 Ultraは、OPPOが7月8日から 国内で発売 したモデル。メモリー12GB、ストレージ512GBのSIMフリー版1種類だけの展開です。\n\nカメラはHasselbladと共同開発した5眼構成。OPPOがスマートフォンでは世界初（2026年6月時点、同社調べ）とうたう、光学10倍・1/2.75インチ5000万画素の超望遠カメラを備えます。加えて、1/1.12インチセンサーの2億画素広角カメラと、約70mm相当・光学3倍の2億画素望遠カメラも搭載します。\n\nSoCはSnapdragon 8 Elite Gen 5で、ディスプレイは約6.8インチのQHD+（3168×1440）AMOLED。バッテリーは7050mAh（定格6890mAh）で、最大100W（低電圧環境では最大80W）の有線充電と50Wのワイヤレス充電に対応します。防水防塵はIP68・IP69です。\n\n光学10倍の超望遠に惹かれつつ、27万円台の価格で見送っていた人には、20万円台前半まで下がった今が狙い目です。",
+      "ImageURL": "https://smhn.info/wp-content/uploads/2026/06/b298df1f376baa5a43e3d1937306c6ad.webp"
+    },
+    {
+      "Title": "【本日みつけたお買い得品】Apple Watch Series 12が1万800円引き、SE 3とUltra 3も",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2160159.html",
+      "Published": "2026-11-27T12:20:48Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "【本日みつけたお買い得品】Apple Watch Series 12が1万800円引き、SE 3とUltra 3も\n\nAmazonにおいて、Appleのスマートウォッチ「Apple Watch Series 12(GPSモデル・42mmライトゴールドアルミニウムケース)」が、直近価格から1万800円引きとなる6万1,000円で販売中だ。\n\nApple Watch Series 12が1万800円引き、SE 3とUltra 3も\n\nAmazonにおいて、Appleのスマートウォッチ「Apple Watch Series 12(GPSモデル・42mmライトゴールドアルミニウムケース)」が、直近価格から1万800円引きとなる6万1,000円で販売中だ。\n\n本製品は、S11チップを搭載し、新しいヘルスセンシングシステムによって心拍数やHRV(心拍変動)の測定頻度を高めたスマートウォッチである。日々の活動量や睡眠などからコンディションの目安をスコア化する「準備度」機能や、音声を解析するオーディオインテリジェンスに対応する。\n\n42mmモデルのディスプレイは374×446ドット(326ppi)のLTPO3広視野角OLED常時表示Retinaディスプレイで、最大2,000cd/平方mの輝度を実現しており、アルミニウムモデルでは前面ガラスに耐久性の高いCeramic Shield 2を採用している。\n\n水深6mまで計測できる水深計や水温センサー、IP6X等級の防塵性能、50mの耐水性能を備えるほか、バッテリ駆動時間は通常使用時で最大24時間(低電力モードで最大38時間)、約30分で最大80%までの高速充電をサポートする。\n\nカラーバリエーションは、今回セール対象となっているライトゴールドのほか、ブラック、スペースグレイ、ダークブロンズなどをラインナップする。\n\nまた、モデル展開としては、46mmのケースサイズ違いや、S/M・M/Lのバンドサイズ違い、上位素材のチタニウムケースやセラミックケースを採用したモデルも展開されている。\n\n「Apple Watch SE 3(GPSモデル・40m…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2160/159/MW_afd2611_05_01.jpg"
+    },
+    {
+      "Title": "【本日みつけたお買い得品】M4チップとWi-Fi 7対応の「11インチiPad Air」が11万6\t800円！",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2160157.html",
+      "Published": "2026-11-27T12:18:24Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "【本日みつけたお買い得品】M4チップとWi-Fi 7対応の「11インチiPad Air」が11万6\t800円！\n\nAmazonにおいて、Appleのタブレット「11インチiPad Air(M4・Wi-Fiモデル・128GB・スペースグレイ)」が、直近価格から1万3,000円引きとなる11万6,800円で販売中だ。\n\nM4チップとWi-Fi 7対応の「11インチiPad Air」が11万6 800円！\n\nAmazonにおいて、Appleのタブレット「11インチiPad Air(M4・Wi-Fiモデル・128GB・スペースグレイ)」が、直近価格から1万3,000円引きとなる11万6,800円で販売中だ。\n\n本製品は、SoCにApple M4を、メモリは12GBを搭載し、Apple Intelligenceに対応する11型タブレットだ。ディスプレイは2,360×1,640ドット(264ppi)のLiquid Retinaを採用し、12MPの前面/背面カメラやTouch ID内蔵のトップボタンを備える。\n\n通信面ではApple N1ワイヤレスチップによりWi-Fi 7およびBluetooth 6をサポートしており、USB-C端子やApple Pencil Pro、Magic Keyboardにも対応する。\n\n本体サイズは178.5×247.6×6.1mm、重量は464gで、バッテリ駆動時間はWi-Fiでのインターネット利用やビデオ再生時で最大10時間となっている。\n\nカラーバリエーションは、スペースグレイのほか、ブルー、パープル、スターライトの計4色をラインナップする。また、モデル展開としては、256GB/512GB/1TBのストレージ容量違いや、AppleCareセットやApple Pencil Proセットを展開しているものもある。",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2160/157/MW_afd2611_04_01.jpg"
+    },
+    {
+      "Title": "iPhone Airが特価。256GBは23%オフの14万5900円に",
+      "Link": "https://smhn.info/202611-iphone-air-amazon-black-friday-presale",
+      "Published": "2026-11-27T12:15:10Z",
+      "Source": "すまほん!!",
+      "Category": "ブラックフライデー",
+      "Summary": "iPhone Airが特価。256GBは23%オフの14万5900円に\n\nAmazonブラックフライデーの先行セールが11月27日0時に始まり、SIMフリー版の「iPhone Air」が値下がりしています。販売・出荷はAmazon.co.jpです。新品の価格は、256GBが参考価格18万9800円から23%オフ（4万3900円引き）の14万5900円、...\n\niPhone Airが特価。256GBは23%オフの14万5900円に\n\nAmazonブラックフライデーの先行セールが11月27日0時に始まり、SIMフリー版の「iPhone Air」が値下がりしています。販売・出荷はAmazon.co.jpです。\n\n新品の価格は、256GBが参考価格18万9800円から23%オフ（4万3900円引き）の 14万5900円 、512GBが参考価格22万4800円から23%オフ（5万1900円引き）の 17万2900円 です。\n\niPhone Airは、2025年9月に登場した厚さ5.64mm、重さ165gの薄型iPhoneです。チップはA19 Proで、6.5型の有機ELディスプレイは最大120HzのProMotionに対応。背面カメラは4800万画素の1眼、前面カメラは1800万画素で、IP68の防塵・防水に対応します。物理SIMには対応しない、eSIM専用のモデルです。\n\nとにかく薄く軽く、持ち心地の良さは抜群。詳しくは 長期レビュー をご覧ください。",
+      "ImageURL": "https://smhn.info/wp-content/uploads/2026/07/s-IMG_20250921_183838.jpg"
+    },
+    {
+      "Title": "iPhone18と18eの量産開始が延期か〜2027年春の発売への影響は",
+      "Link": "https://iphone-mania.jp/iphone18-609275/",
+      "Published": "2026-11-27T11:50:39Z",
+      "Source": "iPhone Mania",
+      "Category": "製造",
+      "Summary": "iPhone18と18eの量産開始が延期か〜2027年春の発売への影響は\n\nAppleが2027年前半の発売に向けて準備を進めているiPhone18とiPhone18eについて、量産開始時期が再び延期されたとの情報が、中国SNS「Weibo」に投稿されました。\n\niPhone18と18eの量産開始が延期か〜2027年春の発売への影響は\n\nAppleが2027年前半の発売に向けて準備を進めている iPhone18 と iPhone18e について、 量産開始時期が再び延期 されたとの情報が、中国SNS「Weibo」に投稿されました。\n\n当初は2026年10月末に量産を開始する計画 だったものの、現在は 2027年1月1日頃へ延期 されたと伝えられています。2027年春に予想される発売スケジュールへの影響が注目されます。\n\nリーカーの定焦数码氏がWeiboに投稿したサプライチェーン関連の情報によると、 iPhone18 と廉価モデルの iPhone18e は、 現在も本格的な量産段階に入っていない とのことです。\n\n両モデルの量産開始時期は、当初計画されていた2026年10月末から延期され、2027年1月1日頃に変更されたと伝えられています。\n\nなお、定焦数码氏は10月中旬にも、iPhone18の生産計画について11月末に開始されるとの情報を投稿していました。今回の情報が正しければ、生産スケジュールがさらに後ろ倒しされたことになります。\n\nAppleは2026年秋にiPhone18 ProシリーズとiPhone Duoを投入しましたが、標準モデルのiPhone18、廉価モデルのiPhone18e、薄型モデルの後継機iPhone Air 2は、2027年前半に発売すると予想されています。従来の秋に集中していたiPhoneの発売時期を、春と秋の年2回に分散する新たな販売戦略への移行です。\n\niPhone18とiPhone18eの量産開始が2027年1月になったとしても、3月頃の発売が不可能になるわけではありません。ただし、量産開始から発売までの期間が短くなれば、初期在庫の確保が…",
+      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/11/27/iphone18e-AC-1127.jpg"
+    },
+    {
+      "Title": "iPhone20 Proは3Dプリンタ製チタニウム筐体採用か〜クオ氏予想と一致",
+      "Link": "https://iphone-mania.jp/apple-609271/",
+      "Published": "2026-11-27T11:25:13Z",
+      "Source": "iPhone Mania",
+      "Category": "デザイン",
+      "Summary": "iPhone20 Proは3Dプリンタ製チタニウム筐体採用か〜クオ氏予想と一致\n\n2027年秋に発売される見込みのiPhone20 Proシリーズでは、チタニウム合金の粉末をレーザーで積層する3Dプリンタを用いて、筐体の一部が製造されるとの予想が中国SNS「Weibo」に投稿されました。\n\niPhone20 Proは3Dプリンタ製チタニウム筐体採用か〜クオ氏予想と一致\n\n2027年秋に発売される見込みの iPhone20 Proシリーズ では、 チタニウム合金の粉末をレーザーで積層する3Dプリンタ を用いて、筐体の一部が製造されるとの予想が中国SNS「Weibo」に投稿されました。\n\nアナリストのミンチー・クオ氏は、以前からAppleが製品の製造に3Dプリンタを活用する範囲を拡大すると予想していました。今回の情報が正しければ、その見通しを裏付けることになります。\n\n今回の情報を投稿したのは、リーカーの定焦数码氏です。同氏は前日、iPhone20 Proシリーズの筐体に セラミックを採用した試作品がテストされているとWeiboに投稿 していました。\n\nただし、セラミックモデルは発売されるとしても限定版とのことですので、 Apple Watch Edition のような、iPhone20 Pro Editionとしての扱いになるのかもしれません。\n\nしかし、 セラミックに関する投稿を行った翌日に、3Dプリンタ製チタニウム合金について新たな情報を公開 したことを考えると、iPhone20 Proシリーズの標準モデル向け素材として採用される確度が高いのかもしれません。\n\n新たな投稿では、iPhone20 Proシリーズのミッドフレームに、チタニウム粉末をレーザーで積層造形した部品が大量に採用され、耐久性が向上すると伝えられています。\n\niPhone20 Proシリーズの筐体素材として、3Dプリンタ製チタニウム合金が採用される可能性を後押しする情報としてアナリストのミンチー・クオ氏が、「Appleは 新製品の製造で3Dプリンタの活用範囲を拡大 する」と予想していました。\n\nApp…",
+      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/11/27/iphone20-pro-S.jpg"
+    },
+    {
+      "Title": "GMOロリポップ！、パスワード平文保存が発覚。漏洩51万件超、質問回答も実質拒否",
+      "Link": "https://smhn.info/202611-lolipop-unauthorized-access-plaintext-password",
+      "Published": "2026-11-27T10:40:35Z",
+      "Source": "すまほん!!",
+      "Category": "情報漏えい",
+      "Summary": "GMOロリポップ！、パスワード平文保存が発覚。漏洩51万件超、質問回答も実質拒否\n\nGMOペパボは11月27日、レンタルサーバー「ロリポップ！レンタルサーバー」と一部の関連サービスで第三者による不正アクセスがあり、顧客情報が漏えいしたと発表しました。同社によると、11月24日に内部システムへの不正アクセスを検知し、調査の結果、データ分析基盤を経由して顧客情報を含...\n\nGMOロリポップ！、パスワード平文保存が発覚。漏洩51万件超、質問回答も実質拒否\n\nGMOペパボは11月27日、レンタルサーバー「ロリポップ！レンタルサーバー」と一部の関連サービスで第三者による不正アクセスがあり、顧客情報が漏えいしたと発表しました。\n\n同社によると、11月24日に内部システムへの不正アクセスを検知し、調査の結果、データ分析基盤を経由して顧客情報を含むデータが外部に持ち出されていたことが分かりました。\n\n対象サービスは、ロリポップ！レンタルサーバー、ロリポップ！デプロイナウ、ロリポップ！AIホームページ、ロリポップ！AIエージェントクラウドで、対象件数は51万6564件にのぼります。\n\n同社は11月24日、データ分析基盤の監査ログで不審なデータダウンロードを検知しました。そして同日中に、不正アクセスに使われた認証情報を無効にしてアクセス経路を遮断し、関連する機能のメンテナンスを実施しています。\n\n続いて11月25日に漏えいした可能性のあるパスワードの強制リセットを終えて総務省へ報告し、11月27日に対象者への個別メール送信と公表を行いました。\n\n漏えいが確認された情報は、氏名、郵便番号、都道府県（市区町村以下の住所は含まない）、メールアドレス、生年月日です。また、生年月日の対象となるのは、2014年8月以前にロリポップ！レンタルサーバーを契約した人と、ムームードメイン経由で契約した人に限られ…",
+      "ImageURL": "https://smhn.info/wp-content/uploads/2026/11/lolipop-logo.webp"
+    },
+    {
       "Title": "【本日みつけたお買い得品】マウスのRadeon RX 9060 XT搭載ゲーミングPCが約4万円引き",
       "Link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2159995.html",
       "Published": "2026-11-27T06:50:19Z",
@@ -109,7 +244,7 @@
       "ImageURL": "https://komameblog.jp/wp-content/uploads/2026/11/Lenovo-LOQ-17IRX10.jpg"
     },
     {
-      "Title": "\ufffdԻ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdβ\ufffd\ufffdۤ򥹥\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdå\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdð\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd3\ufffdͶ\ufffd\ufffdϤΥϥ\ufffd\ufffdƥ\ufffd\ufffd󥰥\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdϢ\ufffd\ufffd: WPCA\ufffd׳\ufffdȯ\ufffdԥ\ufffd\ufffd󥿥ӥ塼\ufffd\ufffdG-STAR 2026\ufffd\ufffd",
+      "Title": "�Ի������β��ۤ򥹥������å������ð�������3�Ͷ��ϤΥϥ��ƥ��󥰥�����������������������Ϣ��: WPCA�׳�ȯ�ԥ��󥿥ӥ塼��G-STAR 2026��",
       "Link": "https://www.4gamer.net/games/039/G103932/20261122017/",
       "Published": "2026-11-27T03:11:51Z",
       "Source": "4Gamer.net Hardware",
@@ -145,15 +280,6 @@
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2159/844/MW_afd2611_02_01.jpg"
     },
     {
-      "Title": "【12月4日11時予約開始】EFFECT AUDIOから15基のドライバーが描き出す、深みと温もりを備えた精緻なサウンドのイヤホン SOVEREIGN が登場！",
-      "Link": "https://e-earphone.blog/?p=1562401",
-      "Published": "2026-11-27T02:00:00Z",
-      "Source": "e☆イヤホン",
-      "Category": "",
-      "Summary": "【12月4日11時予約開始】EFFECT AUDIOから15基のドライバーが描き出す、深みと温もりを備えた精緻なサウンドのイヤホン SOVEREIGN が登場！\n\nEFFECT AUDIOとqdcのコラボで誕生したウルトラフラッグシップIEM！ こんにちは！e☆イヤホンのPRスタッフです！ 今回はEFFECT AUDIOからの新製品のご紹介です。 EFFECT AUDIO SOVE […]\n\n【12月4日11時予約開始】EFFECT AUDIOから15基のドライバーが描き出す、深みと温もりを備えた精緻なサウンドのイヤホン SOVEREIGN が登場！\n\nEFFECT AUDIOとqdcのコラボで誕生したウルトラフラッグシップIEM！\n\n2026年12月4日11時予約開始！ 2026年12月9日発売！\n\nSOVEREIGNは、片側に1基のダイナミックドライバー、10基のバランスドアーマチュアドライバー、4基の静電型ドライバーを搭載。 3種類のドライバーを組み合わせた、計15基によるトライブリッド構成を採用しています。 各ドライバーの性能を引き出すため、5wayクロスオーバーに加え、ベースモデル「EMPEROR」にも採用されているqdc独自の「マルチチューブ・フィルタリング技術」と「Dmagic音響構造」を組み合わせています。マルチチューブ・フィルタリング技術によって隣接する周波数帯域間の干渉を抑え、それぞれの帯域を精密に調整。また、Dmagic音響構造によってダイナミックドライバーとほかのドライバーとの音響干渉を抑制し、低域から高域までを緻密にコントロールします。 SOVEREIGNでは、これらの音響技術を活かしながら、新たなサウンドチューニングと特注の内部配線を採用し、独自の音作りを追求しています。低域は深みと引き締まった輪郭を備え、ボーカルは温かみと親密さを感じさせます。…",
-      "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/11/bc3633bfa382a5007cce7b7396f89002.webp"
-    },
-    {
       "Title": "【12/12発売】e☆イヤホンから新しい定番を目指す有線イヤホン EENE が登場！",
       "Link": "https://e-earphone.blog/?p=1562361",
       "Published": "2026-11-27T02:00:00Z",
@@ -161,6 +287,15 @@
       "Category": "",
       "Summary": "【12/12発売】e☆イヤホンから新しい定番を目指す有線イヤホン EENE が登場！\n\n毎日の音楽に自然と手が伸びるイヤホンを目指してHi-Unitと音づくりを行った。 こんにちは！e☆イヤホンのPRスタッフです！ 今回はe☆イヤホンからの新製品のご紹介です。 e☆イヤホン EENE 2026年12月12日 […]\n\n【12/12発売】e☆イヤホンから新しい定番を目指す有線イヤホン EENE が登場！\n\n毎日の音楽に自然と手が伸びるイヤホンを目指してHi-Unitと音づくりを行った。\n\n『EENE』は、Hi-Unitとe☆イヤホンによる共同開発モデルです。数多くのイヤホン・ヘッドホンを取り扱い、ユーザーの声に日々触れているe☆イヤホンの知見と、Hi-Unitがこれまで培ってきた製品開発・音づくりの経験を組み合わせ、音質、使いやすさ、価格のバランスを追求しました。\n\n普段使いでは、気負わず自然に「イイ音」を楽しめること。そして、ケーブルやイヤーピースを変えたり、接続する機器を工夫したりしながら、自分らしい楽しみ方に広げても、しっかり「イイ音」で応えてくれること。\n\n使う人それぞれの楽しみ方に寄り添える“新しい定番”を目指して仕上げています。\n\nOFC銀メッキケーブルと0.78mm 2Pinコネクターを採用\n\n付属ケーブルにはOFC銀メッキ線を採用。イヤホン本体との組み合わせを考慮しながら、音楽を気持ちよく聴けるサウンドと、日常での使いやすさを両立しました。ケーブル長は約120cm、プラグにはφ3.5mmステレオミニプラグを採用しています。\n\nまた、イヤホン本体とケーブルの接続には0.78mm 2Pinコネクターを採用しており、好みのケーブルへ交換することも可能です。\n\nそのまま使うことはもちろん、ケーブル交換によって自分らしいスタイルや音の変化へ広げられるなど、「あとは、あな…",
       "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/11/48192f1ff941386014c52a05e0946e66.webp"
+    },
+    {
+      "Title": "【12月4日11時予約開始】EFFECT AUDIOから15基のドライバーが描き出す、深みと温もりを備えた精緻なサウンドのイヤホン SOVEREIGN が登場！",
+      "Link": "https://e-earphone.blog/?p=1562401",
+      "Published": "2026-11-27T02:00:00Z",
+      "Source": "e☆イヤホン",
+      "Category": "",
+      "Summary": "【12月4日11時予約開始】EFFECT AUDIOから15基のドライバーが描き出す、深みと温もりを備えた精緻なサウンドのイヤホン SOVEREIGN が登場！\n\nEFFECT AUDIOとqdcのコラボで誕生したウルトラフラッグシップIEM！ こんにちは！e☆イヤホンのPRスタッフです！ 今回はEFFECT AUDIOからの新製品のご紹介です。 EFFECT AUDIO SOVE […]\n\n【12月4日11時予約開始】EFFECT AUDIOから15基のドライバーが描き出す、深みと温もりを備えた精緻なサウンドのイヤホン SOVEREIGN が登場！\n\nEFFECT AUDIOとqdcのコラボで誕生したウルトラフラッグシップIEM！\n\n2026年12月4日11時予約開始！ 2026年12月9日発売！\n\nSOVEREIGNは、片側に1基のダイナミックドライバー、10基のバランスドアーマチュアドライバー、4基の静電型ドライバーを搭載。 3種類のドライバーを組み合わせた、計15基によるトライブリッド構成を採用しています。 各ドライバーの性能を引き出すため、5wayクロスオーバーに加え、ベースモデル「EMPEROR」にも採用されているqdc独自の「マルチチューブ・フィルタリング技術」と「Dmagic音響構造」を組み合わせています。マルチチューブ・フィルタリング技術によって隣接する周波数帯域間の干渉を抑え、それぞれの帯域を精密に調整。また、Dmagic音響構造によってダイナミックドライバーとほかのドライバーとの音響干渉を抑制し、低域から高域までを緻密にコントロールします。 SOVEREIGNでは、これらの音響技術を活かしながら、新たなサウンドチューニングと特注の内部配線を採用し、独自の音作りを追求しています。低域は深みと引き締まった輪郭を備え、ボーカルは温かみと親密さを感じさせます。…",
+      "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/11/bc3633bfa382a5007cce7b7396f89002.webp"
     },
     {
       "Title": "CIOの充電器が最大43％オフ。僕の推しは、くるっと勝手にまとまるスパイラルケーブル",
@@ -253,15 +388,6 @@
       "ImageURL": "https://gori.me/uploads/2026/11/1795724585570-Amazon-Black-Friday-Sale-Items-2026-28.jpg"
     },
     {
-      "Title": "Apple、月間1,100万人のAIアプリTalkieを削除",
-      "Link": "https://gori.me/apps/iphone-app-news/173115",
-      "Published": "2026-11-26T22:00:00Z",
-      "Source": "gori.me",
-      "Category": "quick",
-      "Summary": "Apple、月間1,100万人のAIアプリTalkieを削除\n\nAppleが今週、上海拠点のMiniMaxが開発したAIチャットアプリ「Talkie」をApp Storeから全世界で削除した。月間利用者は約1,100万人で、子どもに性的なメッセージを送っていたとの報道を受けた対応。Google Playとウェブ版は11月26日時点で使えると報じられている。\n\nクイック Apple、月間1,100万人のAIアプリTalkieを削除\n\n豪ABC Newsなどの報道を受けた対応。年齢確認は自己申告\n\nAppleが今週、AIチャットアプリ「Talkie」をApp Storeから全世界で削除した\n\n月間利用者は約1,100万人で、子どもに性的なメッセージを送っていたとの報道を受けた対応\n\nGoogle Playとウェブ版は11月26日時点で使える状態と報じられている\n\nAppleが今週、上海拠点のMiniMaxが開発したAIチャットアプリ「Talkie」をApp Storeから全世界で削除した。 Fox Business によると、月間利用者は約1,100万人で、AIキャラクターが子どもに性的なメッセージを送っていたとする豪ABC Newsと英Bureau of Investigative Journalismの報道を受けた対応だ。\n\nTalkieとは、AIが演じるキャラクターとチャットで会話するアプリで、恋人のような相手と物語を進める使い方もできる。App Storeと Google Playでは18+の表示だが、年齢は自己申告で、 ABC News によると、オーストラリアの10〜17歳のうち約5万人が使ったと答えている。\n\n削除されたのはApp Storeだけで、 Google Playとウェブ版では11月26日時点でも使える状態 と報じられている。日本のApp Storeで配…",
-      "ImageURL": "https://gori.me/uploads/2026/11/1795720828624-Talkie-Google-Play.jpg"
-    },
-    {
       "Title": "�ڹ������饲���ॷ�祦�Υᥤ�󥹥ݥ󥵡���AI�����������åȤΡ�Crack�ס������ǡ֥������ספ�����ˡ����ɽ�ˡ����ꥨ�������Ը������ä����Ȥ���§���ʤ����Ĥ�ʹ����G-STAR 2026��",
       "Link": "https://www.4gamer.net/games/999/G999904/20261121004/",
       "Published": "2026-11-26T22:00:00Z",
@@ -269,6 +395,15 @@
       "Category": "HARDWARE",
       "Summary": "�ڹ������饲���ॷ�祦�Υᥤ�󥹥ݥ󥵡���AI�����������åȤΡ�Crack�ס������ǡ֥������ספ�����ˡ����ɽ�ˡ����ꥨ�������Ը������ä����Ȥ���§���ʤ����Ĥ�ʹ����G-STAR 2026��\n\nゲーム企業以外で初めて「G-STAR 2026」のメインスポンサーを務めるのは，AIキャラクターチャット「Crack」だ。日本版「キャラぷ」を運営する増田良平氏に，クリエイター還元や会話の中身を原則…\n\n韓国最大級ゲームショウのメインスポンサーはAIキャラチャットの「Crack」。日本版「キャラぷ」の日本法人代表に，クリエイター還元や会話の中身を原則見ない運営を聞く［G-STAR 2026］ ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ 俺，この仕事が終わったらGTA6するんだ……“発売されたけどまだ遊べない”現実社会のサバイバーに贈る「グランド・セフト・オートVI」これまでの歩み ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・秋】。ついに次世代機Nintendo Switchが発表！ PlayStation 4 Proは分解されとる ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ フレームレート至上主義者が「GTA6」に備えて目をデチューンしてみた話 ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 本日発売20周年を迎えたPS3は，“何でも再生できる”稀代のエンタテインメントコンピュータだった ↑アイコン/タイトル↑…",
       "ImageURL": "https://www.4gamer.net/games/999/G999904/20261121004/SS/001.jpg"
+    },
+    {
+      "Title": "Apple、月間1,100万人のAIアプリTalkieを削除",
+      "Link": "https://gori.me/apps/iphone-app-news/173115",
+      "Published": "2026-11-26T22:00:00Z",
+      "Source": "gori.me",
+      "Category": "quick",
+      "Summary": "Apple、月間1,100万人のAIアプリTalkieを削除\n\nAppleが今週、上海拠点のMiniMaxが開発したAIチャットアプリ「Talkie」をApp Storeから全世界で削除した。月間利用者は約1,100万人で、子どもに性的なメッセージを送っていたとの報道を受けた対応。Google Playとウェブ版は11月26日時点で使えると報じられている。\n\nクイック Apple、月間1,100万人のAIアプリTalkieを削除\n\n豪ABC Newsなどの報道を受けた対応。年齢確認は自己申告\n\nAppleが今週、AIチャットアプリ「Talkie」をApp Storeから全世界で削除した\n\n月間利用者は約1,100万人で、子どもに性的なメッセージを送っていたとの報道を受けた対応\n\nGoogle Playとウェブ版は11月26日時点で使える状態と報じられている\n\nAppleが今週、上海拠点のMiniMaxが開発したAIチャットアプリ「Talkie」をApp Storeから全世界で削除した。 Fox Business によると、月間利用者は約1,100万人で、AIキャラクターが子どもに性的なメッセージを送っていたとする豪ABC Newsと英Bureau of Investigative Journalismの報道を受けた対応だ。\n\nTalkieとは、AIが演じるキャラクターとチャットで会話するアプリで、恋人のような相手と物語を進める使い方もできる。App Storeと Google Playでは18+の表示だが、年齢は自己申告で、 ABC News によると、オーストラリアの10〜17歳のうち約5万人が使ったと答えている。\n\n削除されたのはApp Storeだけで、 Google Playとウェブ版では11月26日時点でも使える状態 と報じられている。日本のApp Storeで配…",
+      "ImageURL": "https://gori.me/uploads/2026/11/1795720828624-Talkie-Google-Play.jpg"
     },
     {
       "Title": "iPhone Airが今、いちばん安い。256GBも512GBも発売時より安い23％オフ、乗り換えた人も恋しがる軽さ",
@@ -514,13 +649,13 @@
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2159/309/01.jpg"
     },
     {
-      "Title": "【12/4発売】Moeetechから最⾼峰の磁気シールド材「スーパーパーマロイ」を採⽤したGlitter Opera / Glitter Opera S が登場！",
-      "Link": "https://e-earphone.blog/?p=1562382",
+      "Title": "【#ポタフェス 2026冬 秋葉原】SeeAudioオーダーメイドイヤホン受注会vol.7",
+      "Link": "https://e-earphone.blog/?p=1562008",
       "Published": "2026-11-26T02:00:00Z",
       "Source": "e☆イヤホン",
       "Category": "",
-      "Summary": "【12/4発売】Moeetechから最⾼峰の磁気シールド材「スーパーパーマロイ」を採⽤したGlitter Opera / Glitter Opera S が登場！\n\nCS43198を4基搭載独⽴した4chフルバランス‧フルディスクリートアンプ回路 こんにちは！e☆イヤホンのPRスタッフです！ 今回はMoeetechからの新製品のご紹介です。 Moeetech Glitter Oper […]\n\n【12/4発売】Moeetechから最⾼峰の磁気シールド材「スーパーパーマロイ」を採⽤したGlitter Opera / Glitter Opera S が登場！\n\nCS43198を4基搭載独⽴した4chフルバランス‧フルディスクリートアンプ回路\n\n最⾼峰の磁気シールド材「スーパーパーマロイ」を採⽤し、デジタル‧アナログ間の相互⼲渉や外部磁気ノイズを遮断。圧倒的なS/N⽐と透明感のある空間表現を実現。\n\nCS43198を4基搭載、独⽴した4chフルバランス‧フルディスクリートアンプ回路を採⽤。デコードから 出⼒まで完全なバランス増幅を実現。\n\n超低ジッター特性の⽔晶発振器を2基搭載し、USBオーディオの⾼精度‧⾼信頼性を保証。\n\nLDO 8系統＋スイッチング 4系統の電源回路で相互⼲渉を抑制し、ノイズフロアを極限まで低減。\n\nポップノイズ（DE-POP）を確実に防⽌し、⼤切な接続機器を安全に保護。\n\nDACチップ：Cirrus Logic CS43198 × 4基（クアッドDAC） 回路‧電源設計：フルバランス駆動 / 12系統独⽴レギュレーター階層電源 クロック：フェムト秒クラス⽔晶発振器 筐体‧シールド構造：チタン合⾦バックシェル 2区画独⽴スーパーパーマロイシールド（デジタル∕アナログ分離） 最⼤対応サンプリングレート： PCM：最⼤ 768kHz / 32bit DSD：ネイ…",
-      "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/11/f327eb0bea95c6ea4a19c9bb546dbf9d.webp"
+      "Summary": "【#ポタフェス 2026冬 秋葉原】SeeAudioオーダーメイドイヤホン受注会vol.7\n\nBravoの受注は東京では初！！この機会をお見逃しなく！！ @eear_holy こんにちは！　e☆イヤホンのほーりーです。 今回のポタフェスでもSeeAudioの受注会を開催します！ SeeAudio オーダーメイドイ […]\n\n【#ポタフェス 2026冬 秋葉原】SeeAudioオーダーメイドイヤホン受注会vol.7\n\n※その他e☆イヤホン実店舗やオンラインストアからはオーダーができません。 ※セミカスタムのオーダーはできません。\n\nHAKUYA (TRUE SOUND Version) 商品詳細はコチラ↓\n\nSeeAudioのカスタムIEMはそのデザインの豊富さも魅力の一つです！ 螺鈿や複数色を選択できるマルチカラー・グラデーションなどもお選びいただけます！\n\n・フェイスプレートオプション（金額はすべて片側の値段となります） QHシリーズ ¥7,100- Micaシリーズ ¥7,100- Shellシリーズ ¥7,100- 炭素繊維シリーズ ¥7,100- 木目パターン ¥7,100- 貝殻の破片 ¥7,100- マルチカラー・グラデーション ¥7,100- 螺鈿細工パネル ¥16,500- オーロラ・フォイル ¥7,100- 金箔・銀箔 ¥7,100- ラメ ¥7,100- RINKO(キャラクター画像 透過) NT01 〜 NT09 ¥14,700- RINKO(キャラクター画像) YT01 〜 YT09 ¥10,500- 流紋 LY01 〜LY02 ¥10,500-\n\n・シェルオプション（金額はすべて片側の値段となります） マルチカラー・グラデーション ¥11,800- 螺鈿細工パネル ¥16,500- オーロラ・フォイル ¥16,500- 金箔・銀箔 ¥11,800-…",
+      "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/11/7c1bdec26f380b9c1d643e993823bbb8.webp"
     },
     {
       "Title": "【#ポタフェス 2026冬 秋葉原 】インプレッション(耳型)採取の予約受付開始しました！",
@@ -532,13 +667,13 @@
       "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/11/bc1480759bf4eaca80b7225ff1b69344.webp"
     },
     {
-      "Title": "【#ポタフェス 2026冬 秋葉原】SeeAudioオーダーメイドイヤホン受注会vol.7",
-      "Link": "https://e-earphone.blog/?p=1562008",
+      "Title": "【12/4発売】Moeetechから最⾼峰の磁気シールド材「スーパーパーマロイ」を採⽤したGlitter Opera / Glitter Opera S が登場！",
+      "Link": "https://e-earphone.blog/?p=1562382",
       "Published": "2026-11-26T02:00:00Z",
       "Source": "e☆イヤホン",
       "Category": "",
-      "Summary": "【#ポタフェス 2026冬 秋葉原】SeeAudioオーダーメイドイヤホン受注会vol.7\n\nBravoの受注は東京では初！！この機会をお見逃しなく！！ @eear_holy こんにちは！　e☆イヤホンのほーりーです。 今回のポタフェスでもSeeAudioの受注会を開催します！ SeeAudio オーダーメイドイ […]\n\n【#ポタフェス 2026冬 秋葉原】SeeAudioオーダーメイドイヤホン受注会vol.7\n\n※その他e☆イヤホン実店舗やオンラインストアからはオーダーができません。 ※セミカスタムのオーダーはできません。\n\nHAKUYA (TRUE SOUND Version) 商品詳細はコチラ↓\n\nSeeAudioのカスタムIEMはそのデザインの豊富さも魅力の一つです！ 螺鈿や複数色を選択できるマルチカラー・グラデーションなどもお選びいただけます！\n\n・フェイスプレートオプション（金額はすべて片側の値段となります） QHシリーズ ¥7,100- Micaシリーズ ¥7,100- Shellシリーズ ¥7,100- 炭素繊維シリーズ ¥7,100- 木目パターン ¥7,100- 貝殻の破片 ¥7,100- マルチカラー・グラデーション ¥7,100- 螺鈿細工パネル ¥16,500- オーロラ・フォイル ¥7,100- 金箔・銀箔 ¥7,100- ラメ ¥7,100- RINKO(キャラクター画像 透過) NT01 〜 NT09 ¥14,700- RINKO(キャラクター画像) YT01 〜 YT09 ¥10,500- 流紋 LY01 〜LY02 ¥10,500-\n\n・シェルオプション（金額はすべて片側の値段となります） マルチカラー・グラデーション ¥11,800- 螺鈿細工パネル ¥16,500- オーロラ・フォイル ¥16,500- 金箔・銀箔 ¥11,800-…",
-      "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/11/7c1bdec26f380b9c1d643e993823bbb8.webp"
+      "Summary": "【12/4発売】Moeetechから最⾼峰の磁気シールド材「スーパーパーマロイ」を採⽤したGlitter Opera / Glitter Opera S が登場！\n\nCS43198を4基搭載独⽴した4chフルバランス‧フルディスクリートアンプ回路 こんにちは！e☆イヤホンのPRスタッフです！ 今回はMoeetechからの新製品のご紹介です。 Moeetech Glitter Oper […]\n\n【12/4発売】Moeetechから最⾼峰の磁気シールド材「スーパーパーマロイ」を採⽤したGlitter Opera / Glitter Opera S が登場！\n\nCS43198を4基搭載独⽴した4chフルバランス‧フルディスクリートアンプ回路\n\n最⾼峰の磁気シールド材「スーパーパーマロイ」を採⽤し、デジタル‧アナログ間の相互⼲渉や外部磁気ノイズを遮断。圧倒的なS/N⽐と透明感のある空間表現を実現。\n\nCS43198を4基搭載、独⽴した4chフルバランス‧フルディスクリートアンプ回路を採⽤。デコードから 出⼒まで完全なバランス増幅を実現。\n\n超低ジッター特性の⽔晶発振器を2基搭載し、USBオーディオの⾼精度‧⾼信頼性を保証。\n\nLDO 8系統＋スイッチング 4系統の電源回路で相互⼲渉を抑制し、ノイズフロアを極限まで低減。\n\nポップノイズ（DE-POP）を確実に防⽌し、⼤切な接続機器を安全に保護。\n\nDACチップ：Cirrus Logic CS43198 × 4基（クアッドDAC） 回路‧電源設計：フルバランス駆動 / 12系統独⽴レギュレーター階層電源 クロック：フェムト秒クラス⽔晶発振器 筐体‧シールド構造：チタン合⾦バックシェル 2区画独⽴スーパーパーマロイシールド（デジタル∕アナログ分離） 最⼤対応サンプリングレート： PCM：最⼤ 768kHz / 32bit DSD：ネイ…",
+      "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/11/f327eb0bea95c6ea4a19c9bb546dbf9d.webp"
     },
     {
       "Title": "「Core Ultra 5 245K」が初の3万円割れ、Ryzenは値上がりの動きが目立つ [11月後半のCPU価格]",
@@ -631,15 +766,6 @@
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2158/504/PH01.jpg"
     },
     {
-      "Title": "【Mac Info】macOS 27「写真」が進化、撮影後にAIで画角や視点を変更可能に！",
-      "Link": "https://pc.watch.impress.co.jp/docs/column/macinfo/2159075.html",
-      "Published": "2026-11-25T21:00:00Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "【Mac Info】macOS 27「写真」が進化、撮影後にAIで画角や視点を変更可能に！\n\n撮影した写真を見返して、もう少し引いて撮ればよかった、違う角度から撮ればよかったと思った経験はありませんか。macOS 27 Golden Gateの「写真」アプリに新たに加わった「拡張」と「リフレーム」なら、そんな写真もApple Intelligenceの力で、あとから画角や視点を変更できます。今回は、この2つの新機能の使い方を、具体的な活用例とともに紹介します。\n\nmacOS 27「写真」が進化、撮影後にAIで画角や視点を変更可能に！\n\n撮影した写真を見返して、もう少し引いて撮ればよかった、違う角度から撮ればよかったと思った経験はありませんか。macOS 27 Golden Gateの「写真」アプリに新たに加わった「拡張」と「リフレーム」なら、そんな写真もApple Intelligenceの力で、あとから画角や視点を変更できます。今回は、この2つの新機能の使い方を、具体的な活用例とともに紹介します。\n\nmacOSの「写真」アプリには、写真の不要な部分を取り除く「切り取り」や、水平・垂直のずれを直す「傾き補正」の編集機能があります。\n\nただし、これらの機能で構図を整えようとすると、写真の一部が切り取られ、写っている範囲が狭くなってしまいます。また、撮影した角度そのものを変えることもできません。\n\nこうした従来の制約を解消してくれるのが、macOS 27 Golden Gateで新たに追加された「拡張」と「リフレーム」です。\n\n「拡張」では、写真の外側に背景を描き足し、撮影時よりも画角を広げることができます。\n\n一方の「リフレーム」は、写真を立体的に解析することで、まるで別の位置や角度から撮影したかのように視点を変更できます。\n\nどちらもApple Intelligenceを活…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2159/075/image11.png"
-    },
-    {
       "Title": "ガチくんに! 第441回切り抜き「スト6のカクつきはマウスのせい？ENC代表どうなる？」",
       "Link": "https://pc.watch.impress.co.jp/docs/news/2159314.html",
       "Published": "2026-11-25T21:00:00Z",
@@ -647,6 +773,15 @@
       "Category": "",
       "Summary": "ガチくんに! 第441回切り抜き「スト6のカクつきはマウスのせい？ENC代表どうなる？」\n\n※毎週木曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイター6攻略企画「ガチくんに!」をTwitchとYouTubeで配信しています。レギュラー出演者はぷげら、奥村茉実。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードした切り抜きとアーカイブの動画を掲載しています。\n\nガチくんに! 第441回切り抜き「スト6のカクつきはマウスのせい？ENC代表どうなる？」\n\n※毎週木曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイター6攻略企画「ガチくんに!」を Twitch と YouTube で配信しています。レギュラー出演者はぷげら、奥村茉実。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードした切り抜きとアーカイブの動画を掲載しています。\n\n11月19日の配信では、スト6のカクつきとワイヤレスマウスに関する噂やEsports Nations Cup(ENC)などについてトーク。後半では、音声会話型おしゃべりAIアプリのCotomoを使って、ChatPGRことぷげらさんにAIと会話を繰り広げていただきました。",
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2159/314/01.jpg"
+    },
+    {
+      "Title": "【Mac Info】macOS 27「写真」が進化、撮影後にAIで画角や視点を変更可能に！",
+      "Link": "https://pc.watch.impress.co.jp/docs/column/macinfo/2159075.html",
+      "Published": "2026-11-25T21:00:00Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "【Mac Info】macOS 27「写真」が進化、撮影後にAIで画角や視点を変更可能に！\n\n撮影した写真を見返して、もう少し引いて撮ればよかった、違う角度から撮ればよかったと思った経験はありませんか。macOS 27 Golden Gateの「写真」アプリに新たに加わった「拡張」と「リフレーム」なら、そんな写真もApple Intelligenceの力で、あとから画角や視点を変更できます。今回は、この2つの新機能の使い方を、具体的な活用例とともに紹介します。\n\nmacOS 27「写真」が進化、撮影後にAIで画角や視点を変更可能に！\n\n撮影した写真を見返して、もう少し引いて撮ればよかった、違う角度から撮ればよかったと思った経験はありませんか。macOS 27 Golden Gateの「写真」アプリに新たに加わった「拡張」と「リフレーム」なら、そんな写真もApple Intelligenceの力で、あとから画角や視点を変更できます。今回は、この2つの新機能の使い方を、具体的な活用例とともに紹介します。\n\nmacOSの「写真」アプリには、写真の不要な部分を取り除く「切り取り」や、水平・垂直のずれを直す「傾き補正」の編集機能があります。\n\nただし、これらの機能で構図を整えようとすると、写真の一部が切り取られ、写っている範囲が狭くなってしまいます。また、撮影した角度そのものを変えることもできません。\n\nこうした従来の制約を解消してくれるのが、macOS 27 Golden Gateで新たに追加された「拡張」と「リフレーム」です。\n\n「拡張」では、写真の外側に背景を描き足し、撮影時よりも画角を広げることができます。\n\n一方の「リフレーム」は、写真を立体的に解析することで、まるで別の位置や角度から撮影したかのように視点を変更できます。\n\nどちらもApple Intelligenceを活…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2159/075/image11.png"
     },
     {
       "Title": "1Password、バックエンドへの不正アクセスを公表。保管庫の中身は影響なし",
@@ -901,15 +1036,6 @@
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2158/989/03.jpg"
     },
     {
-      "Title": "【11/28発売】aune audioからドライバー内部のエアフローが特徴のヘッドホン AR3000/AR5000 MK2 が登場！",
-      "Link": "https://e-earphone.blog/?p=1562285",
-      "Published": "2026-11-25T02:00:00Z",
-      "Source": "e☆イヤホン",
-      "Category": "",
-      "Summary": "【11/28発売】aune audioからドライバー内部のエアフローが特徴のヘッドホン AR3000/AR5000 MK2 が登場！\n\n迫力の重低音とエアフロー制御により伸びやかな高音域と繊細なディテールと空気感！！ こんにちは！e☆イヤホンのPRスタッフです！ 今回はaune audioからの新製品のご紹介です。 aune audio AR3000 2 […]\n\n【11/28発売】aune audioからドライバー内部のエアフローが特徴のヘッドホン AR3000/AR5000 MK2 が登場！\n\n迫力の重低音とエアフロー制御により伸びやかな高音域と繊細なディテールと空気感！！\n\n高効率なドライバーシステムと最適化されたエアフロー制御により、AR3000は大きな音の変化にも余裕をもって対応します。深く伸びやかで、厚みと迫力のある低音を再現。音楽のリズムや感情豊かな表現を忠実に伝え、映画やゲームの世界にいっそう引き込まれる臨場感を生み出します。\n\n独自の傾斜型ドライバーバッフルと、専用設計の傾斜イヤーパッドを組み合わせることで、より自然な空間表現を実現します。AR3000は、奥行きのある音場と正確な音像定位を再現。さらに、オープンバックグリルの設計が、開放感と空気感をいっそう高めます。\n\n人間工学に基づく設計思想をさらに発展させ、AR3000ではヘッドバンドの寸法やカーブを細かく最適化。さまざまな頭の形にフィットしやすく、頭や頬に過度な圧迫感を与えません。イヤーパッドには通気性に優れた音響用メモリーフォームを採用し、耳をすっぽり包み込むサイズに設計。長時間のリスニングでも快適な装着感が続きます。\n\n27Ωの公称インピーダンスと115dB SPL（1kHz／1Vrms）の感度を備えたAR3000は、幅広い機器でお楽しみいただけます。付属ケーブルは、1.5mのOFC 3.5mm …",
-      "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/11/654cb440c5fa95d112a8b6601112314e.webp"
-    },
-    {
       "Title": "【11/28発売】LEPIC EQUIPから新たに設計開発を行ったポータブルDAC収納ケース DAC POCKET 2 が登場！",
       "Link": "https://e-earphone.blog/?p=1562320",
       "Published": "2026-11-25T02:00:00Z",
@@ -917,6 +1043,15 @@
       "Category": "",
       "Summary": "【11/28発売】LEPIC EQUIPから新たに設計開発を行ったポータブルDAC収納ケース DAC POCKET 2 が登場！\n\nルーフラックから着想を得たシリコンバンド構造と専用開発高伸縮性シリコンバンド採用 こんにちは！e☆イヤホンのPRスタッフです！ 今回はLEPIC EQUIPからの新製品のご紹介です。 LEPIC EQUIP DAC PO […]\n\n【11/28発売】LEPIC EQUIPから新たに設計開発を行ったポータブルDAC収納ケース DAC POCKET 2 が登場！\n\nルーフラックから着想を得たシリコンバンド構造と専用開発高伸縮性シリコンバンド採用\n\n【Super easy and fast】DACをもっと簡単に、快適に持ち運ぶ収納ケース\n\nLEPIC は、人々の暮らしや趣味のための新しいアイデアを形にした製品を開発しています。⾧年に渡り様々な分野の製品作りに携わる中で出会った人々や、そこで得た経験を大切にしながら、より本質にこだわった製品をこれからも生み出していくべく、新ライフスタイルギアブランド「LEPIC EQUIP」を立ち上げました。 そのLEPIC EQUIPブランドの第1弾モデルとして新たに設計開発を行ったのが、ポータブルDAC収納ケース『DAC POCKET 2』です。DAC POCKET 2は、自動車のルーフラックから着想を得た構造的デザインを採用しました。[Super easy and fast] 旅行に出かける前に、ルーフラックに荷物を積み込む瞬間のようなワクワク感。DAC POCKET 2は、日常の中で音楽と共に出掛ける楽しさをイメージしてデザインされています。\n\nルーフラックから着想を得たシリコンバンド構造で操作性と視認性向上\n\n使用するDACのサイズに柔軟に対応できるよう、DAC POCKET 2専用に開発した高伸縮性シリコン…",
       "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/11/LEPIC-EQUIP-DAC-POCKET-2.webp"
+    },
+    {
+      "Title": "【11/28発売】aune audioからドライバー内部のエアフローが特徴のヘッドホン AR3000/AR5000 MK2 が登場！",
+      "Link": "https://e-earphone.blog/?p=1562285",
+      "Published": "2026-11-25T02:00:00Z",
+      "Source": "e☆イヤホン",
+      "Category": "",
+      "Summary": "【11/28発売】aune audioからドライバー内部のエアフローが特徴のヘッドホン AR3000/AR5000 MK2 が登場！\n\n迫力の重低音とエアフロー制御により伸びやかな高音域と繊細なディテールと空気感！！ こんにちは！e☆イヤホンのPRスタッフです！ 今回はaune audioからの新製品のご紹介です。 aune audio AR3000 2 […]\n\n【11/28発売】aune audioからドライバー内部のエアフローが特徴のヘッドホン AR3000/AR5000 MK2 が登場！\n\n迫力の重低音とエアフロー制御により伸びやかな高音域と繊細なディテールと空気感！！\n\n高効率なドライバーシステムと最適化されたエアフロー制御により、AR3000は大きな音の変化にも余裕をもって対応します。深く伸びやかで、厚みと迫力のある低音を再現。音楽のリズムや感情豊かな表現を忠実に伝え、映画やゲームの世界にいっそう引き込まれる臨場感を生み出します。\n\n独自の傾斜型ドライバーバッフルと、専用設計の傾斜イヤーパッドを組み合わせることで、より自然な空間表現を実現します。AR3000は、奥行きのある音場と正確な音像定位を再現。さらに、オープンバックグリルの設計が、開放感と空気感をいっそう高めます。\n\n人間工学に基づく設計思想をさらに発展させ、AR3000ではヘッドバンドの寸法やカーブを細かく最適化。さまざまな頭の形にフィットしやすく、頭や頬に過度な圧迫感を与えません。イヤーパッドには通気性に優れた音響用メモリーフォームを採用し、耳をすっぽり包み込むサイズに設計。長時間のリスニングでも快適な装着感が続きます。\n\n27Ωの公称インピーダンスと115dB SPL（1kHz／1Vrms）の感度を備えたAR3000は、幅広い機器でお楽しみいただけます。付属ケーブルは、1.5mのOFC 3.5mm …",
+      "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/11/654cb440c5fa95d112a8b6601112314e.webp"
     },
     {
       "Title": "腕時計風デザインのトイカメラ「スマートウォッチ型TOYカメラ2」が800円",
@@ -1387,15 +1522,6 @@
       "ImageURL": "https://gori.me/uploads/2026/11/1795420897081-Apple-TV-4K-4th-Generation-Review-18-1795420897.jpg"
     },
     {
-      "Title": "Core i3-10110UやDVD-ROMドライブ搭載のNEC製15.6型ノートPCが34,980円、パソコン工房で中古品が販売中",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2158459.html",
-      "Published": "2026-11-23T22:00:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "Core i3-10110UやDVD-ROMドライブ搭載のNEC製15.6型ノートPCが34,980円、パソコン工房で中古品が販売中\n\nCore i3-10110U(2コア/4スレッド)を搭載した15.6型ノートPC「PC-VKL21XZG7」の中古品が、パソコン工房の通販サイトで販売中。販売されているのは3か月保証が付いた中古品で、価格は34,980円となっています。\n\nCore i3-10110UやDVD-ROMドライブ搭載のNEC製15.6型ノートPCが34,980円、パソコン工房で中古品が販売中\n\nCore i3-10110U(2コア/4スレッド)を搭載した15.6型ノートPC「PC-VKL21XZG7」の中古品が、 パソコン工房の通販サイト で販売中。販売されているのは3か月保証が付いた中古品で、価格は34,980円となっています。\n\n主な仕様は、ディスプレイ解像度が1,366×768ドット、メモリが8GB、ストレージが256GB SSD、OSがWindows 11 Home(MAR)。このほか、Webカメラや有線/無線LAN機能、DVD-ROMドライブなどを搭載しています。興味がある方はチェックしてみてください。",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2158/459/a1.jpg"
-    },
-    {
       "Title": "�������饤�����ΤƤ��ߥ꥿�꡼�ǥ��ե��󥹡�Gate of Gates�סʥ������ġˡ������ʥ������ǹ�ά�Ǥ�����ά���ȡ����줫�饢�ݥ����ץ��ظ�����ʪ���Ȥϡ�G-STAR 2026��",
       "Link": "https://www.4gamer.net/games/059/G105911/20261121008/",
       "Published": "2026-11-23T22:00:00Z",
@@ -1403,6 +1529,15 @@
       "Category": "HARDWARE",
       "Summary": "�������饤�����ΤƤ��ߥ꥿�꡼�ǥ��ե��󥹡�Gate of Gates�סʥ������ġˡ������ʥ������ǹ�ά�Ǥ�����ά���ȡ����줫�饢�ݥ����ץ��ظ�����ʪ���Ȥϡ�G-STAR 2026��\n\nディフェンスゲーム「Gate of Gates」（ゲオゲツ）の開発陣に，ローグライク育成を廃止した経緯やギミック重視の戦略，アポカリプスへ向かう物語，12月に実施されるCBTの内容をG-STAR 2…\n\nローグライクを捨てたミリタリーディフェンス「Gate of Gates」（ゲオゲツ）。好きなキャラで攻略できる戦略性と，これからアポカリプスへ向かう物語とは［G-STAR 2026］ ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ 俺，この仕事が終わったらGTA6するんだ……“発売されたけどまだ遊べない”現実社会のサバイバーに贈る「グランド・セフト・オートVI」これまでの歩み ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・秋】。ついに次世代機Nintendo Switchが発表！ PlayStation 4 Proは分解されとる ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ フレームレート至上主義者が「GTA6」に備えて目をデチューンしてみた話 ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 本日発売20周年を迎えたPS3は，“何でも再生できる”稀代のエンタテインメントコンピュータだった ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像…",
       "ImageURL": "https://www.4gamer.net/games/059/G105911/20261121008/SS/008.jpg"
+    },
+    {
+      "Title": "Core i3-10110UやDVD-ROMドライブ搭載のNEC製15.6型ノートPCが34,980円、パソコン工房で中古品が販売中",
+      "Link": "https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/2158459.html",
+      "Published": "2026-11-23T22:00:00Z",
+      "Source": "AKIBA PC Hotline!",
+      "Category": "",
+      "Summary": "Core i3-10110UやDVD-ROMドライブ搭載のNEC製15.6型ノートPCが34,980円、パソコン工房で中古品が販売中\n\nCore i3-10110U(2コア/4スレッド)を搭載した15.6型ノートPC「PC-VKL21XZG7」の中古品が、パソコン工房の通販サイトで販売中。販売されているのは3か月保証が付いた中古品で、価格は34,980円となっています。\n\nCore i3-10110UやDVD-ROMドライブ搭載のNEC製15.6型ノートPCが34,980円、パソコン工房で中古品が販売中\n\nCore i3-10110U(2コア/4スレッド)を搭載した15.6型ノートPC「PC-VKL21XZG7」の中古品が、 パソコン工房の通販サイト で販売中。販売されているのは3か月保証が付いた中古品で、価格は34,980円となっています。\n\n主な仕様は、ディスプレイ解像度が1,366×768ドット、メモリが8GB、ストレージが256GB SSD、OSがWindows 11 Home(MAR)。このほか、Webカメラや有線/無線LAN機能、DVD-ROMドライブなどを搭載しています。興味がある方はチェックしてみてください。",
+      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2158/459/a1.jpg"
     },
     {
       "Title": "HomePod mini 2とAirPods Max 2に(PRODUCT)RED版、約2年ぶり復活。12月1日前後に登場か",
@@ -2746,6 +2881,15 @@
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2158/129/1.jpg"
     },
     {
+      "Title": "���ԥȥ��б�e���ݡ��ĸ����ޥ����β����ǡ�PRO X3 SUPERSTRIKE�ץ��ӥ塼�������ǥ��θ����Ϥ��ΤޤޤǤ��ä��������ʲ�",
+      "Link": "https://www.4gamer.net/games/023/G002336/20261119017/",
+      "Published": "2026-11-20T03:00:00Z",
+      "Source": "4Gamer.net Hardware",
+      "Category": "HARDWARE",
+      "Summary": "���ԥȥ��б�e���ݡ��ĸ����ޥ����β����ǡ�PRO X3 SUPERSTRIKE�ץ��ӥ塼�������ǥ��θ����Ϥ��ΤޤޤǤ��ä��������ʲ�\n\n「Logicool G」から登場したゲーミングマウス「PRO X3 SUPERSTRIKE」は，2026年2月に発売となった「PRO X2 SUPERSTRIKE」の改良版だ。クリック感を調整できる…\n\nラピトリ対応eスポーツ向けマウスの改良版「PRO X3 SUPERSTRIKE」レビュー。前モデルの個性はそのままでしっかり正統進化 ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ 俺，この仕事が終わったらGTA6するんだ……“発売されたけどまだ遊べない”現実社会のサバイバーに贈る「グランド・セフト・オートVI」これまでの歩み ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・秋】。ついに次世代機Nintendo Switchが発表！ PlayStation 4 Proは分解されとる ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ フレームレート至上主義者が「GTA6」に備えて目をデチューンしてみた話 ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 本日発売20周年を迎えたPS3は，“何でも再生できる”稀代のエンタテインメントコンピュータだった ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「グランド・セフト・オートVI」をプレイする前に知っておきたい「GTA」ユニバースの…",
+      "ImageURL": "https://www.4gamer.net/games/023/G002336/20261119017/SS/006.jpg"
+    },
+    {
       "Title": "���⤯�פ����äȳڤ�������Pikmin Bloom��5��ǯ����ȯ��Ǥ�Ԥλ�﨑ͧ�ɻ���ʹ����5ǯ�֤ǹ����ä�ͷ�ӤȤ��줫���Υ��󥿥ӥ塼��",
       "Link": "https://www.4gamer.net/games/560/G056049/20261030025/",
       "Published": "2026-11-20T03:00:00Z",
@@ -2762,15 +2906,6 @@
       "Category": "",
       "Summary": "【最強候補】Audio-Technicaから発売された待望の新作ワイヤレスイヤホン「ATH-TWX9MK3」の性能レビュー！\n\n「サウンドナビゲーター」がかなーり良い機能！e☆イヤホン各店舗で試聴可能ですよ！ こんにちは！e☆イヤホンのPRスタッフです！ 今回はAudio-Technicaからのワイヤレスイヤホン「ATH-TWX9MK3」のご紹介 […]\n\n【最強候補】Audio-Technicaから発売された待望の新作ワイヤレスイヤホン「ATH-TWX9MK3」の性能レビュー！\n\n「サウンドナビゲーター」がかなーり良い機能！e☆イヤホン各店舗で試聴可能ですよ！\n\n今回はAudio-Technicaからのワイヤレスイヤホン「 ATH-TWX9MK3 」のご紹介です。\n\n・カラーの違い ・ケースの小型化 ・除菌機能の廃止 ・イヤーピースの変更\n\nまずはカラーについて、ブラックは全体的に紫がかった色になりました。\n\nベージュは前作の金色部分がピンクゴールドのような色味に変更されました。\n\n前作、前々作で搭載されていた除菌機能が廃止された代わりに、画像のようにケースの小型化が実現しました。\n\nイヤーピースの変更については、今作から 楕円型のイヤーピース に変更されています。Audio-Technica製ワイヤレスイヤホンでは初めての採用です。 付属品として、Standard、Longの2種類がそれぞれXS,S,M,Lの4サイズ付属するので、かなり細かく選択することが可能です。\n\nまた、初代からある機能で嬉しいのが、タッチでもそして物理ボタンでもどちらでも操作できることです。もちろん、操作についてはアプリの方から細かくキーアサイン出来るので 細かい操作がイヤホンだけで可能になります。\n\n装着感はワイヤレスイヤホンの中でもトップクラスに良いです。密閉感が強く、パッシブの遮音性も高いで…",
       "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/11/e6afb37893e2e47a8e1f8b85f1118cca.webp"
-    },
-    {
-      "Title": "���ԥȥ��б�e���ݡ��ĸ����ޥ����β����ǡ�PRO X3 SUPERSTRIKE�ץ��ӥ塼�������ǥ��θ����Ϥ��ΤޤޤǤ��ä��������ʲ�",
-      "Link": "https://www.4gamer.net/games/023/G002336/20261119017/",
-      "Published": "2026-11-20T03:00:00Z",
-      "Source": "4Gamer.net Hardware",
-      "Category": "HARDWARE",
-      "Summary": "���ԥȥ��б�e���ݡ��ĸ����ޥ����β����ǡ�PRO X3 SUPERSTRIKE�ץ��ӥ塼�������ǥ��θ����Ϥ��ΤޤޤǤ��ä��������ʲ�\n\n「Logicool G」から登場したゲーミングマウス「PRO X3 SUPERSTRIKE」は，2026年2月に発売となった「PRO X2 SUPERSTRIKE」の改良版だ。クリック感を調整できる…\n\nラピトリ対応eスポーツ向けマウスの改良版「PRO X3 SUPERSTRIKE」レビュー。前モデルの個性はそのままでしっかり正統進化 ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ 俺，この仕事が終わったらGTA6するんだ……“発売されたけどまだ遊べない”現実社会のサバイバーに贈る「グランド・セフト・オートVI」これまでの歩み ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・秋】。ついに次世代機Nintendo Switchが発表！ PlayStation 4 Proは分解されとる ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ フレームレート至上主義者が「GTA6」に備えて目をデチューンしてみた話 ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 本日発売20周年を迎えたPS3は，“何でも再生できる”稀代のエンタテインメントコンピュータだった ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「グランド・セフト・オートVI」をプレイする前に知っておきたい「GTA」ユニバースの…",
-      "ImageURL": "https://www.4gamer.net/games/023/G002336/20261119017/SS/006.jpg"
     },
     {
       "Title": "他社アプリで仕事用番号から発信？iPhoneのデュアルSIM連携が広がるか",
@@ -2800,6 +2935,15 @@
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2158/081/1.jpg"
     },
     {
+      "Title": "【11/27発売】MADOOからMADOO×Acoustune 音響チャンバーモジュール『ACT55』 が登場！",
+      "Link": "https://e-earphone.blog/?p=1561710",
+      "Published": "2026-11-20T02:00:00Z",
+      "Source": "e☆イヤホン",
+      "Category": "",
+      "Summary": "【11/27発売】MADOOからMADOO×Acoustune 音響チャンバーモジュール『ACT55』 が登場！\n\nKnowlesと共同で最適化したT404ベースの4BA・4ウェイ構成のチャンバー こんにちは！e☆イヤホンのPRスタッフです！ 今回はMADOOからの新製品のご紹介です。 MADOO ACT55 2026年11月27日発 […]\n\n【11/27発売】MADOOからMADOO×Acoustune 音響チャンバーモジュール『ACT55』 が登場！\n\nKnowlesと共同で最適化したT404ベースの4BA・4ウェイ構成のチャンバー\n\nKnowlesと共同で最適化したT404ベースの4BA・4ウェイ構成\n\n本製品は、KnowlesのマルチウェイBAプラットフォーム「T404」をベースとしています。4基のBAドライバーとクロスオーバー回路による4ウェイ構成を基盤に、MADOOとKnowlesが共同でACT55の音響チャンバーに向けた最適化を行いました。 低域を担うデュアルダイアフラム方式は、1つの駆動機構で2枚の振動板を動かすKnowlesの技術です。コンパクトな構成で低域の出力を確保しながら、自動組立工程を用いたBAドライバーと高域側を担うスーパーツイーターを組み合わせ、各ドライバーの再生帯域をクロスオーバー回路で分担しています。また、周波数特性はハーマンIEターゲットカーブをベースにしながら、MADOOのアレンジを加えたチューニングを施しました。\n\nACT55 の筐体デザインには、MADOOらしい多角形を取り入れた、三方向に面が交わる立体的なデザインを採用しました。筐体はアルミニウムをCNCによる切削加工により削り出され、MADOOのチタン筐体をイメージしたチタニウムグレーのアルマイトを施しています。AcoustuneのイヤホンをベースにMADOOのデザインコードを…",
+      "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/11/MADOO-ACT55.webp"
+    },
+    {
       "Title": "【11/27発売】SHANLINGからR2Rを使用したハイエンドSACDプレーヤー SCD1.3 Rとハイエンドストリーマー SM1.3R HD が登場！",
       "Link": "https://e-earphone.blog/?p=1561641",
       "Published": "2026-11-20T02:00:00Z",
@@ -2807,15 +2951,6 @@
       "Category": "",
       "Summary": "【11/27発売】SHANLINGからR2Rを使用したハイエンドSACDプレーヤー SCD1.3 Rとハイエンドストリーマー SM1.3R HD が登場！\n\n滑らかで深みのあるサウンド体験を/Kunlun Pro新たなストリーミング体験を こんにちは！e☆イヤホンのPRスタッフです！ 今回はSHANLINGからの新製品のご紹介です。 SHANLING SCD1.3 R 202 […]\n\n【11/27発売】SHANLINGからR2Rを使用したハイエンドSACDプレーヤー SCD1.3 Rとハイエンドストリーマー SM1.3R HD が登場！\n\n滑らかで深みのあるサウンド体験を/Kunlun Pro新たなストリーミング体験を\n\nR2R DACを採用したSACDプレーヤー 滑らかで、深みのあるサウンド体験を\n\n『SCD1.3R』は、SACDならではの繊細な音の変化や豊かな質感を、より滑らかで自然に描き出すため、従来モデルで採用していたAKM製DAC構成から、自社開発した第2世代24bit R2R DAC「Kunlun Pro」へと刷新しました。多彩な再生機能を支えるSoCには、Ingenic X2000プラットフォームを採用。USBドライブやネットワーク経由の再生でも、滑らかで深みのあるR2Rサウンドをお楽しみいただけます。\n\nSHANLINGが自社開発した 第2世代のR2R DAC「Kunlun Pro」\n\n新たに開発された「Kunlun Pro」は、24bit DACモジュールに、抵抗精度0.01%の高精度抵抗器212個で構成した抵抗ラダー回路を採用しています。 19bitのD/A変換を担う主変換セクションと、そこで生じる微細な誤差を調整する4bitの補正セクションを組み合わせ、繊細な音声信号まで正確に変換し、D/A変換の直線性と再現精度を高めます。 さらに、1bitの制御セ…",
       "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/11/SHANLING-SCD1.3-R-SM1.3-R-HD.webp"
-    },
-    {
-      "Title": "【11/20発売】Jomo Audioからオーダーメイドイヤホン RAYA/LUMINA/SOLIS が登場！",
-      "Link": "https://e-earphone.blog/?p=1561787",
-      "Published": "2026-11-20T02:00:00Z",
-      "Source": "e☆イヤホン",
-      "Category": "",
-      "Summary": "【11/20発売】Jomo Audioからオーダーメイドイヤホン RAYA/LUMINA/SOLIS が登場！\n\nJomo Audioからエントリー～ミドルレンジのカスタムIEM3製品が登場！！ こんにちは！e☆イヤホンのPRスタッフです！ 今回はJomo Audioからの新製品のご紹介です。 Jomo Audio RAYA 202 […]\n\n【11/20発売】Jomo Audioからオーダーメイドイヤホン RAYA/LUMINA/SOLIS が登場！\n\nJomo Audioからエントリー～ミドルレンジのカスタムIEM3製品が登場！！\n\n低域には、10mmチタニウム振動板ダイナミックドライバーを搭載。キックドラムやベースラインに確かな土台を与え、楽曲を支える低域の量感と力強さを表現します。 中域から高域は、バランスドアーマチュアドライバー1基が担当。ボーカルや楽器の音色を明瞭に描写し、音数の多い複雑なアレンジでも、それぞれの音を聴き分けやすい再生を実現します。 さらに、超高域には専用の平面磁界型ツイーターを配置。シンバルのきらびやかな響きや、音が消えていく際の繊細な余韻まで描き出し、高域の伸びやかさと細かなディテールを補います。\n\n低域を担当する10mmダイナミックドライバーには、チタニウム振動板を採用。さらに、ドライバー専用の真鍮製音響チャンバーを組み合わせた独自構造を採用しています。 キックドラムのアタックやベースラインの動きをしっかりと捉え、楽曲の土台となる低域を再生。振動板の素材と専用音響チャンバーを組み合わせることで、低域の表現力を追求しています。\n\nRAYAは、低域・中高域・超高域をそれぞれ独立したドライバーが担当するTrue 3-Wayクロスオーバーを採用しています。 さらに、3チャンネルのC.S.U.クロスオーバー回路を搭載。それぞれのドライバーに専用の帯域…",
-      "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/11/898a74558918e7da18f4d1d336f015cd.webp"
     },
     {
       "Title": "JACCSショッピングクレジットが今だけ！最大36回まで無金利キャンペーン実施中！",
@@ -2827,13 +2962,13 @@
       "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/11/c872f43a89e7bb07b442b35ec69f3090.webp"
     },
     {
-      "Title": "【11/27発売】MADOOからMADOO×Acoustune 音響チャンバーモジュール『ACT55』 が登場！",
-      "Link": "https://e-earphone.blog/?p=1561710",
+      "Title": "【11/20発売】Jomo Audioからオーダーメイドイヤホン RAYA/LUMINA/SOLIS が登場！",
+      "Link": "https://e-earphone.blog/?p=1561787",
       "Published": "2026-11-20T02:00:00Z",
       "Source": "e☆イヤホン",
       "Category": "",
-      "Summary": "【11/27発売】MADOOからMADOO×Acoustune 音響チャンバーモジュール『ACT55』 が登場！\n\nKnowlesと共同で最適化したT404ベースの4BA・4ウェイ構成のチャンバー こんにちは！e☆イヤホンのPRスタッフです！ 今回はMADOOからの新製品のご紹介です。 MADOO ACT55 2026年11月27日発 […]\n\n【11/27発売】MADOOからMADOO×Acoustune 音響チャンバーモジュール『ACT55』 が登場！\n\nKnowlesと共同で最適化したT404ベースの4BA・4ウェイ構成のチャンバー\n\nKnowlesと共同で最適化したT404ベースの4BA・4ウェイ構成\n\n本製品は、KnowlesのマルチウェイBAプラットフォーム「T404」をベースとしています。4基のBAドライバーとクロスオーバー回路による4ウェイ構成を基盤に、MADOOとKnowlesが共同でACT55の音響チャンバーに向けた最適化を行いました。 低域を担うデュアルダイアフラム方式は、1つの駆動機構で2枚の振動板を動かすKnowlesの技術です。コンパクトな構成で低域の出力を確保しながら、自動組立工程を用いたBAドライバーと高域側を担うスーパーツイーターを組み合わせ、各ドライバーの再生帯域をクロスオーバー回路で分担しています。また、周波数特性はハーマンIEターゲットカーブをベースにしながら、MADOOのアレンジを加えたチューニングを施しました。\n\nACT55 の筐体デザインには、MADOOらしい多角形を取り入れた、三方向に面が交わる立体的なデザインを採用しました。筐体はアルミニウムをCNCによる切削加工により削り出され、MADOOのチタン筐体をイメージしたチタニウムグレーのアルマイトを施しています。AcoustuneのイヤホンをベースにMADOOのデザインコードを…",
-      "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/11/MADOO-ACT55.webp"
+      "Summary": "【11/20発売】Jomo Audioからオーダーメイドイヤホン RAYA/LUMINA/SOLIS が登場！\n\nJomo Audioからエントリー～ミドルレンジのカスタムIEM3製品が登場！！ こんにちは！e☆イヤホンのPRスタッフです！ 今回はJomo Audioからの新製品のご紹介です。 Jomo Audio RAYA 202 […]\n\n【11/20発売】Jomo Audioからオーダーメイドイヤホン RAYA/LUMINA/SOLIS が登場！\n\nJomo Audioからエントリー～ミドルレンジのカスタムIEM3製品が登場！！\n\n低域には、10mmチタニウム振動板ダイナミックドライバーを搭載。キックドラムやベースラインに確かな土台を与え、楽曲を支える低域の量感と力強さを表現します。 中域から高域は、バランスドアーマチュアドライバー1基が担当。ボーカルや楽器の音色を明瞭に描写し、音数の多い複雑なアレンジでも、それぞれの音を聴き分けやすい再生を実現します。 さらに、超高域には専用の平面磁界型ツイーターを配置。シンバルのきらびやかな響きや、音が消えていく際の繊細な余韻まで描き出し、高域の伸びやかさと細かなディテールを補います。\n\n低域を担当する10mmダイナミックドライバーには、チタニウム振動板を採用。さらに、ドライバー専用の真鍮製音響チャンバーを組み合わせた独自構造を採用しています。 キックドラムのアタックやベースラインの動きをしっかりと捉え、楽曲の土台となる低域を再生。振動板の素材と専用音響チャンバーを組み合わせることで、低域の表現力を追求しています。\n\nRAYAは、低域・中高域・超高域をそれぞれ独立したドライバーが担当するTrue 3-Wayクロスオーバーを採用しています。 さらに、3チャンネルのC.S.U.クロスオーバー回路を搭載。それぞれのドライバーに専用の帯域…",
+      "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/11/898a74558918e7da18f4d1d336f015cd.webp"
     },
     {
       "Title": "【本日みつけたお買い得品】サントリーの烏龍茶ピーチティーが約800円オトク！Amazonセール",
@@ -2863,15 +2998,6 @@
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2158/074/04.jpg"
     },
     {
-      "Title": "【11/20発売】Meze Audioからハイエンド・ヘッドホンケーブルの新たな可能性を切り拓く ULTRA CABLE が登場！",
-      "Link": "https://e-earphone.blog/?p=1561726",
-      "Published": "2026-11-20T01:30:00Z",
-      "Source": "e☆イヤホン",
-      "Category": "",
-      "Summary": "【11/20発売】Meze Audioからハイエンド・ヘッドホンケーブルの新たな可能性を切り拓く ULTRA CABLE が登場！\n\n高度なオーディオ技術と熟練の職人技を注ぎ込んだヘッドホン愛好家のための特別な一本 こんにちは！e☆イヤホンのPRスタッフです！ 今回はMeze Audioからの新製品のご紹介です。 Meze Audio ULTRA CA […]\n\n【11/20発売】Meze Audioからハイエンド・ヘッドホンケーブルの新たな可能性を切り拓く ULTRA CABLE が登場！\n\n高度なオーディオ技術と熟練の職人技を注ぎ込んだヘッドホン愛好家のための特別な一本\n\nシルバーは、あらゆる金属の中で最高レベルの電気伝導率を誇ります。その優れた特性を生かして信号の伝送ロスを抑え、音の細部まで精緻に再現。色付けの少ない、自然でピュアなサウンドを追求しました。 伸びやかで開放感のある高域は、繊細なニュアンスまで鮮明に伝えます。一方、低域はタイトで輪郭が明瞭。音楽が持つ豊かな表情を余すところなく再現します。\n\nコネクターシェルと Y スプリッターは、機能性に加え、優れた耐久性も備えています。PVD コーティングを施した亜鉛合金ダイキャスト製で、流線型の美しい曲線と手になじむグリップ感を両立。滑らかな手触りと、扱いやすさを兼ね備えています。 スピード感を想起させるそのフォルムは、ノイズや電磁干渉を抑えるケーブル設計の思想を静かに象徴しています。\n\n各ケーブルには、16 芯から 8 芯へと連続的に編み込む独自のブレイド構造を採用。編み込み部にはハンダ付けを一切行わず、直径0.08mmの導体を40本使用しています。 ワイヤーを編み込むことで、各導体が生み出す磁界の影響を抑え、ノイズや信号干渉の低減を図っています。この技術には、ケーブルから外部へ放出されるノイズを抑えることと、外部…",
-      "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/11/Meze-Audio-ULTRA-CABLE.webp"
-    },
-    {
       "Title": "【11/27発売】MEE audioから。デバイスに接続するだけで、いつでもすぐに使える有線ヘッドホン HALO が登場！",
       "Link": "https://e-earphone.blog/?p=1561824",
       "Published": "2026-11-20T01:30:00Z",
@@ -2888,6 +3014,15 @@
       "Category": "",
       "Summary": "【11/27発売】MEE audioから不要な機能を排除し音の本質だけを追求した有線イヤホン CORE 2/3 が登場！\n\n高級機に匹敵する極上のサウンドを、驚きのコストパフォーマンスで実現したイヤホン！ こんにちは！e☆イヤホンのPRスタッフです！ 今回はMEE audioからの新製品のご紹介です。 MEE audio CORE 2 202 […]\n\n【11/27発売】MEE audioから不要な機能を排除し音の本質だけを追求した有線イヤホン CORE 2/3 が登場！\n\n高級機に匹敵する極上のサウンドを、驚きのコストパフォーマンスで実現したイヤホン！\n\n大口径10mmのムービングコイル式ウーファーが、キックドラムなどの迫力ある低域を物理的な空気の振動とともにリアルに描写。さらに、レスポンスに優れたバランスドアーマチュア（BA）ツイーターが、中高域の解像度を極限まで高めます。プロのステージモニタリングからオーディオ愛好家の普段使いまで、あらゆるシーンで躍動感のあるサウンドを実現します。\n\nおすすめ：ドラマー、ベーシスト、ダイナミックなサウンドを好む方\n\n安定した接続性とスムーズな着脱を両立した、1.2mの0.78mm 2pinケーブルを採用。スリーブ付きコネクタにより、抜差しのしやすさと優れたホールド感を同時に実現しています。\n\n優れた遮音性は余計な音量を上げずに済むため、耳に優しい安全な音量でも必要な音をひとつも逃さずモニタリングが可能です。COREシリーズの密閉型インイヤー設計は周囲の雑音をしっかりカットし、ミックスをよりクリアに聴き取ることができます。\n\nCOREシリーズの筐体は人間工学に基づいた設計により、安定したフィット感を提供します。柔軟なオーバーイヤー式のイヤーフックとスライド式ケーブルシンチでさらにイヤホンをしっかりと固定するため、長時間のリスニングやアク…",
       "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/11/74f3d6e4e110b3ab00dcc3b3a902043f.webp"
+    },
+    {
+      "Title": "【11/20発売】Meze Audioからハイエンド・ヘッドホンケーブルの新たな可能性を切り拓く ULTRA CABLE が登場！",
+      "Link": "https://e-earphone.blog/?p=1561726",
+      "Published": "2026-11-20T01:30:00Z",
+      "Source": "e☆イヤホン",
+      "Category": "",
+      "Summary": "【11/20発売】Meze Audioからハイエンド・ヘッドホンケーブルの新たな可能性を切り拓く ULTRA CABLE が登場！\n\n高度なオーディオ技術と熟練の職人技を注ぎ込んだヘッドホン愛好家のための特別な一本 こんにちは！e☆イヤホンのPRスタッフです！ 今回はMeze Audioからの新製品のご紹介です。 Meze Audio ULTRA CA […]\n\n【11/20発売】Meze Audioからハイエンド・ヘッドホンケーブルの新たな可能性を切り拓く ULTRA CABLE が登場！\n\n高度なオーディオ技術と熟練の職人技を注ぎ込んだヘッドホン愛好家のための特別な一本\n\nシルバーは、あらゆる金属の中で最高レベルの電気伝導率を誇ります。その優れた特性を生かして信号の伝送ロスを抑え、音の細部まで精緻に再現。色付けの少ない、自然でピュアなサウンドを追求しました。 伸びやかで開放感のある高域は、繊細なニュアンスまで鮮明に伝えます。一方、低域はタイトで輪郭が明瞭。音楽が持つ豊かな表情を余すところなく再現します。\n\nコネクターシェルと Y スプリッターは、機能性に加え、優れた耐久性も備えています。PVD コーティングを施した亜鉛合金ダイキャスト製で、流線型の美しい曲線と手になじむグリップ感を両立。滑らかな手触りと、扱いやすさを兼ね備えています。 スピード感を想起させるそのフォルムは、ノイズや電磁干渉を抑えるケーブル設計の思想を静かに象徴しています。\n\n各ケーブルには、16 芯から 8 芯へと連続的に編み込む独自のブレイド構造を採用。編み込み部にはハンダ付けを一切行わず、直径0.08mmの導体を40本使用しています。 ワイヤーを編み込むことで、各導体が生み出す磁界の影響を抑え、ノイズや信号干渉の低減を図っています。この技術には、ケーブルから外部へ放出されるノイズを抑えることと、外部…",
+      "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/11/Meze-Audio-ULTRA-CABLE.webp"
     },
     {
       "Title": "【11/27発売】MEE audioからマルチカラーLEDライト付きType-Cヘッドホン KidJamz KJ65U が登場！",
@@ -3394,15 +3529,6 @@
       "ImageURL": "https://gori.me/uploads/2026/11/1795034871979-rio-space-D9ioYxTHYsQ-unsplash.jpg"
     },
     {
-      "Title": "Museに「僕と“家の鍵”を交換してザウルス開発者になってよ」と頼んでみた",
-      "Link": "https://pc.watch.impress.co.jp/docs/topic/feature/2157654.html",
-      "Published": "2026-11-18T21:08:00Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "Museに「僕と“家の鍵”を交換してザウルス開発者になってよ」と頼んでみた\n\n筆者は今年(2026年)の6月以来、「Claude Code」を使いまくっている。やっている作業の大半は、ほしいソフトウェアの開発だ。この世には「俺がほしいと思っているソフトがある。そして理論上はできるはずだ。しかし誰もそのソフトを作らない。そして作りたくてもその時間がない」ものが多すぎる。\n\nMuseに「僕と“家の鍵”を交換してザウルス開発者になってよ」と頼んでみた\n\n筆者は今年(2026年)の6月以来、「Claude Code」を使いまくっている。やっている作業の大半は、ほしいソフトウェアの開発だ。この世には「俺がほしいと思っているソフトがある。そして理論上はできるはずだ。しかし誰もそのソフトを作らない。そして作りたくてもその時間がない」ものが多すぎる。\n\nそれを、Claude Codeは片っ端から実現してくれる。筆者が散歩している間も、寝ている間もだ。この半年で、おそらく筆者は世界一のNPUを使うソフトウェア開発者になったんじゃないか？という自負すらある。\n\nそんな筆者の元に、10月末にMetaのAI「Muse」がやってきた。人格を持たせることができて親しみやすく、どんな依頼も1つの「メイン」のチャットで済ませられる。導入してすぐに生活に馴染むパートナーとなり、いつの間にか「ダチ」となっていたのは、これまで紹介してきた通りだ。特にMuseが毎日定時でやってくれるタスクはもちろん大変ありがたい。\n\nだが、このような筆者の使い方では現状、1週間ごとに与えられたトークンの上限を使い切ることは不可能だった。もしかしたら、メールやスケジュールを管理させたり、ずっと調べ物をさせたり、何かを見張らせたり、予約や買い物をさせたりするようなタスクでは、足りなくなるかもしれないが、今のところそれをする予定もさせ…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2157/654/1.jpg"
-    },
-    {
       "Title": "【福田昭のセミコン業界最前線】TSMCが次世代A14の詳細を公表へ、12月のIEDM 2026に約280件",
       "Link": "https://pc.watch.impress.co.jp/docs/column/semicon/2157460.html",
       "Published": "2026-11-18T21:08:00Z",
@@ -3410,6 +3536,15 @@
       "Category": "",
       "Summary": "【福田昭のセミコン業界最前線】TSMCが次世代A14の詳細を公表へ、12月のIEDM 2026に約280件\n\n最先端半導体のデバイス技術とプロセス技術に関する世界最大の国際学会「IEDM(International Electron Devices Meeting: 国際電子デバイス会議)」が、米国カリフォルニア州サンフランシスコで2026年12月12日から16日に開催される。昨年(2025年)に続き、リアルとバーチャルのハイブリッド形式となる。\n\nTSMCが次世代A14の詳細を公表へ、12月のIEDM 2026に約280件\n\n最先端半導体のデバイス技術とプロセス技術に関する世界最大の国際学会「IEDM(International Electron Devices Meeting: 国際電子デバイス会議)」が、米国カリフォルニア州サンフランシスコで2026年12月12日から16日に開催される。昨年(2025年)に続き、リアルとバーチャルのハイブリッド形式となる。\n\nリアルイベントの会場はサンフランシスコ市街に位置するヒルトン・サンフランシスコ・ユニオン・スクエアホテルで、最近は変わっていない。バーチャル開催は参加登録を含め、リアルイベントの閉幕後となる。12月21日に講演の動画配信を始める。なお一部のイベント(パネル討論会など)は動画配信に含まれない。リアルイベントの参加者も動画配信を視聴できる。\n\nIEDM 2026の基本的なスケジュールは、前年と変わらない。12月12日から13日は、プレイベントとなる。12日は「チュートリアル」と呼ぶ1件ずつのテーマ別講演(技術講座)である。13日は「ショートコース」と呼ぶ、2つの共通テーマに基づく複数の講演を予定する。\n\n続く3日間が、メインイベントの技術講演会となる。技術講演会の12月14日午前は、開会挨拶と基調講演を予定する。初日…",
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2157/460/photo000.jpg"
+    },
+    {
+      "Title": "Museに「僕と“家の鍵”を交換してザウルス開発者になってよ」と頼んでみた",
+      "Link": "https://pc.watch.impress.co.jp/docs/topic/feature/2157654.html",
+      "Published": "2026-11-18T21:08:00Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "Museに「僕と“家の鍵”を交換してザウルス開発者になってよ」と頼んでみた\n\n筆者は今年(2026年)の6月以来、「Claude Code」を使いまくっている。やっている作業の大半は、ほしいソフトウェアの開発だ。この世には「俺がほしいと思っているソフトがある。そして理論上はできるはずだ。しかし誰もそのソフトを作らない。そして作りたくてもその時間がない」ものが多すぎる。\n\nMuseに「僕と“家の鍵”を交換してザウルス開発者になってよ」と頼んでみた\n\n筆者は今年(2026年)の6月以来、「Claude Code」を使いまくっている。やっている作業の大半は、ほしいソフトウェアの開発だ。この世には「俺がほしいと思っているソフトがある。そして理論上はできるはずだ。しかし誰もそのソフトを作らない。そして作りたくてもその時間がない」ものが多すぎる。\n\nそれを、Claude Codeは片っ端から実現してくれる。筆者が散歩している間も、寝ている間もだ。この半年で、おそらく筆者は世界一のNPUを使うソフトウェア開発者になったんじゃないか？という自負すらある。\n\nそんな筆者の元に、10月末にMetaのAI「Muse」がやってきた。人格を持たせることができて親しみやすく、どんな依頼も1つの「メイン」のチャットで済ませられる。導入してすぐに生活に馴染むパートナーとなり、いつの間にか「ダチ」となっていたのは、これまで紹介してきた通りだ。特にMuseが毎日定時でやってくれるタスクはもちろん大変ありがたい。\n\nだが、このような筆者の使い方では現状、1週間ごとに与えられたトークンの上限を使い切ることは不可能だった。もしかしたら、メールやスケジュールを管理させたり、ずっと調べ物をさせたり、何かを見張らせたり、予約や買い物をさせたりするようなタスクでは、足りなくなるかもしれないが、今のところそれをする予定もさせ…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2157/654/1.jpg"
     },
     {
       "Title": "Instagram、投稿後15分間はストーリーズを編集できるように",
@@ -3691,6 +3826,33 @@
       "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/11/f39816a3b30b5790a127641c1ac1caef.webp"
     },
     {
+      "Title": "ミニマルデザイン採用の14型モバイル「dynabook M6」。16型ノートも",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2157285.html",
+      "Published": "2026-11-18T02:00:00Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "ミニマルデザイン採用の14型モバイル「dynabook M6」。16型ノートも\n\nDynabookは、個人向けノートPCとして、14型の「dynabook M6」を12月上旬に、16型の「dynabook C9」、「dynabook C8」を11月20日より順次発売する。価格はオープンプライスで、実売予想価格は順に28万円台半ば、34万円前後、31万円台後半の見込み。\n\nミニマルデザイン採用の14型モバイル「dynabook M6」。16型ノートも\n\nDynabookは、個人向けノートPCとして、14型の「dynabook M6」を12月上旬に、16型の「dynabook C9」、「dynabook C8」を11月20日より順次発売する。価格はオープンプライスで、実売予想価格は順に28万円台半ば、34万円前後、31万円台後半の見込み。\n\ndynabook M6は、約1,199gの軽量ボディにミニマルデザインを採用したモバイルノートPC。一方のdynabook C9/C8は、16型の大画面液晶を備えたスタンダードノートPCとなる。\n\ndynabook M6は、丸みを帯びたデザインの筐体に、かな表記のないキーボードとボタンを排したクリックパッドを採用。重量を約1,199gに抑えているほか、自社品質試験をクリアしており、米国防総省制定のMIL規格に準拠したテストも実施予定としている。\n\n主な仕様として、CPUにCore 5 320、メモリにLPDDR5X-7467 16GB、ストレージに512GB PCIe 4.0 SSD、OSにWindows 11 Homeを搭載。ディスプレイは1,920×1,200ドット表示対応の14型非光沢液晶で、画面比率は16:10。\n\nインターフェイスはUSB 3.2 Gen 2 Type-C 2基、USB 3.2 Gen 1 2基、HDMI出力、Gi…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2157/285/001.jpg"
+    },
+    {
+      "Title": "【11/21発売】AZLAから限定カラーの有線イヤホン TRINITY USB-C Red が登場！",
+      "Link": "https://e-earphone.blog/?p=1560978",
+      "Published": "2026-11-18T02:00:00Z",
+      "Source": "e☆イヤホン",
+      "Category": "",
+      "Summary": "【11/21発売】AZLAから限定カラーの有線イヤホン TRINITY USB-C Red が登場！\n\nTRINITYベースに鮮烈なレッドカラーを採用した限定生産リミテッドエディション こんにちは！e☆イヤホンのPRスタッフです！ 今回はAZLAからの新製品のご紹介です。 AZLA TRINITY USB-C Red 20 […]\n\n【11/21発売】AZLAから限定カラーの有線イヤホン TRINITY USB-C Red が登場！\n\nTRINITYベースに鮮烈なレッドカラーを採用した限定生産リミテッドエディション\n\n『TRINITY Red』は、フィッティング・サウンドクオリティ・コストパフォーマンスの三位一体をコンセプ トとして、より多くの方に高価なHi-Fi有線イヤホンの世界と音質の片鱗を体感して頂くためにクラス最高 音質を目指して新開発したスーパーエントリーモデル「TRINITY」をベースに、記憶に刻まれる鮮烈なレッ ドカラーを採用した、洗練された大人のための限定生産リミテッドエディションです。\n\n日常やビジネスシーンにアクセントを加えるエグゼクティブなレッドカラー\n\nTRINITY のハウジングには共振を抑制するアルミニウム筐体が採用されています。リミテッドモデルとなる TRINITY Red には、そのアルミ筐体とTPE被膜4芯OFCリッツケーブルに鮮烈なレッドカラーを採用。 全体のレッド基調にブラックのアクセントを入れることによって、深みのあるエグゼクティブな赤が際立 ち、所有する喜びとステータスを演出します。日常からビジネスシーンまで、限られた方だけが手にでき る、妥協のない美しさをご堪能ください。\n\n分割振動を抑制する3層レイヤー構造振動板採用「発展型ARDドライバー」\n\n音質の要となる心臓部のドライバーには、8mm径の「発展型ARDドライバー」を搭載。発…",
+      "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/11/AZLA-TRINITY-USB-C-Red-1.webp"
+    },
+    {
+      "Title": "PC 2台対応、Bluetooth接続の指紋リーダー",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2157001.html",
+      "Published": "2026-11-18T02:00:00Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "PC 2台対応、Bluetooth接続の指紋リーダー\n\nエレコムは11月18日、Bluetooth LE接続で2台のPCに対応できる指紋リーダー「CR-FI50BBK」を発売した。直販価格は9,980円。\n\nエレコムは11月18日、Bluetooth LE接続で2台のPCに対応できる指紋リーダー「CR-FI50BBK」を発売した。直販価格は9,980円。\n\nCR-FI50BBKは、6月に発売した指紋リーダー「CR-FI50UBK」および「CR-FI01UBK」のBluetooth LE対応版として位置付けられるモデル。Windows Helloに対応し、Windowsのログインや、Webサイトにおけるパスキーのログインなどをサポート。指紋の照合をデバイス内で完結させるMoC(Match-on-Chip)認証方式を採用しているため、指紋データがPCに送られることがなく不正読み取りを防げ、セキュリティ性が高いとしている。\n\nバッテリを内蔵し、満充電で約1カ月間利用できる。Bluetoothでは2台までの接続に対応し、ボタンで接続先のPCを切り替えられる。また、磁石を内蔵しており、鉄製の場所に固定することが可能。\n\n他人受入率は0.001%以下、本人拒否率は1.7%以下。指紋は360度どの角度からでも読み取れ、指の向きを気にせず利用可能。指紋データは最大10件まで登録できる。\n\n対応プロファイルはHOGPで、通信距離は最長約10m。USB Type-A→Type-Cケーブル、および鉄製の固定補助プレートが付属。本体サイズは約37×37×15mm、重量は約50g。対応OSはWindows 11。",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2157/001/1.jpg"
+    },
+    {
       "Title": "【11/20発売】PHILIPSからシンプルかつ手頃な有線イヤホン TAE1000/TAE1100 が登場！",
       "Link": "https://e-earphone.blog/?p=1560790",
       "Published": "2026-11-18T02:00:00Z",
@@ -3707,33 +3869,6 @@
       "Category": "",
       "Summary": "【11/26発売】SHUREからMV360とアクセサリーを同梱した MV360 空間オーディオマイクロホンキット が登場！\n\nスマートフォンやPCを使⽤してコンテンツ制作を⾏うクリエイター向けのマイクキット こんにちは！e☆イヤホンのPRスタッフです！ 今回はSHUREからの新製品のご紹介です。 SHURE MV360 空間オーディオマイクロホ […]\n\n【11/26発売】SHUREからMV360とアクセサリーを同梱した MV360 空間オーディオマイクロホンキット が登場！\n\nスマートフォンやPCを使⽤してコンテンツ制作を⾏うクリエイター向けのマイクキット\n\nMV360 Spatial Audio Microphone Kit は、コンパクトな USB-C 接続マイクロホン「MV360」と、さまざまな収録シーンに対応するためのアクセサリーを同梱したキット製品です。\n\nMV360 は、モノラル、ステレオ、バイノーラル、オートトラッキング、360°空間オーディオ録⾳に対応し、スマートフォンやPCと組み合わせて⼿軽に⾼品質な⾳声収録を⾏うことができます。コンテンツ制作、ポッドキャスト、ASMR、フィールドレコーディングなど、幅広い⽤途に対応します。\n\nスマートフォンやPCを使⽤してコンテンツ制作を⾏うクリエイター向け ・コンテンツ制作 ・ASMR ・モバイル映像制作 ・オートトラッキングを活⽤したポッドキャスト収録 ・フィールドレコーディング ・⾳楽収録\n\nこちらの製品は、e☆イヤホンの店舗ではお試しいただけません。\n\n大阪日本橋本店、秋葉原店およびオンラインストアにて在庫をご用意しております。 ※展示開始時期は予定です。詳しくはオンラインストアの店舗別在庫状況または、各店舗に問い合わせをお願いいたします。\n\n【12月上旬発売予定】Hi-Unitから日常使いにちょうどいいワイヤ…",
       "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/11/07f33a7a909c209cdc8c3f990ca40ca8.webp"
-    },
-    {
-      "Title": "ミニマルデザイン採用の14型モバイル「dynabook M6」。16型ノートも",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/2157285.html",
-      "Published": "2026-11-18T02:00:00Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "ミニマルデザイン採用の14型モバイル「dynabook M6」。16型ノートも\n\nDynabookは、個人向けノートPCとして、14型の「dynabook M6」を12月上旬に、16型の「dynabook C9」、「dynabook C8」を11月20日より順次発売する。価格はオープンプライスで、実売予想価格は順に28万円台半ば、34万円前後、31万円台後半の見込み。\n\nミニマルデザイン採用の14型モバイル「dynabook M6」。16型ノートも\n\nDynabookは、個人向けノートPCとして、14型の「dynabook M6」を12月上旬に、16型の「dynabook C9」、「dynabook C8」を11月20日より順次発売する。価格はオープンプライスで、実売予想価格は順に28万円台半ば、34万円前後、31万円台後半の見込み。\n\ndynabook M6は、約1,199gの軽量ボディにミニマルデザインを採用したモバイルノートPC。一方のdynabook C9/C8は、16型の大画面液晶を備えたスタンダードノートPCとなる。\n\ndynabook M6は、丸みを帯びたデザインの筐体に、かな表記のないキーボードとボタンを排したクリックパッドを採用。重量を約1,199gに抑えているほか、自社品質試験をクリアしており、米国防総省制定のMIL規格に準拠したテストも実施予定としている。\n\n主な仕様として、CPUにCore 5 320、メモリにLPDDR5X-7467 16GB、ストレージに512GB PCIe 4.0 SSD、OSにWindows 11 Homeを搭載。ディスプレイは1,920×1,200ドット表示対応の14型非光沢液晶で、画面比率は16:10。\n\nインターフェイスはUSB 3.2 Gen 2 Type-C 2基、USB 3.2 Gen 1 2基、HDMI出力、Gi…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2157/285/001.jpg"
-    },
-    {
-      "Title": "PC 2台対応、Bluetooth接続の指紋リーダー",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/2157001.html",
-      "Published": "2026-11-18T02:00:00Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "PC 2台対応、Bluetooth接続の指紋リーダー\n\nエレコムは11月18日、Bluetooth LE接続で2台のPCに対応できる指紋リーダー「CR-FI50BBK」を発売した。直販価格は9,980円。\n\nエレコムは11月18日、Bluetooth LE接続で2台のPCに対応できる指紋リーダー「CR-FI50BBK」を発売した。直販価格は9,980円。\n\nCR-FI50BBKは、6月に発売した指紋リーダー「CR-FI50UBK」および「CR-FI01UBK」のBluetooth LE対応版として位置付けられるモデル。Windows Helloに対応し、Windowsのログインや、Webサイトにおけるパスキーのログインなどをサポート。指紋の照合をデバイス内で完結させるMoC(Match-on-Chip)認証方式を採用しているため、指紋データがPCに送られることがなく不正読み取りを防げ、セキュリティ性が高いとしている。\n\nバッテリを内蔵し、満充電で約1カ月間利用できる。Bluetoothでは2台までの接続に対応し、ボタンで接続先のPCを切り替えられる。また、磁石を内蔵しており、鉄製の場所に固定することが可能。\n\n他人受入率は0.001%以下、本人拒否率は1.7%以下。指紋は360度どの角度からでも読み取れ、指の向きを気にせず利用可能。指紋データは最大10件まで登録できる。\n\n対応プロファイルはHOGPで、通信距離は最長約10m。USB Type-A→Type-Cケーブル、および鉄製の固定補助プレートが付属。本体サイズは約37×37×15mm、重量は約50g。対応OSはWindows 11。",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2157/001/1.jpg"
-    },
-    {
-      "Title": "【11/21発売】AZLAから限定カラーの有線イヤホン TRINITY USB-C Red が登場！",
-      "Link": "https://e-earphone.blog/?p=1560978",
-      "Published": "2026-11-18T02:00:00Z",
-      "Source": "e☆イヤホン",
-      "Category": "",
-      "Summary": "【11/21発売】AZLAから限定カラーの有線イヤホン TRINITY USB-C Red が登場！\n\nTRINITYベースに鮮烈なレッドカラーを採用した限定生産リミテッドエディション こんにちは！e☆イヤホンのPRスタッフです！ 今回はAZLAからの新製品のご紹介です。 AZLA TRINITY USB-C Red 20 […]\n\n【11/21発売】AZLAから限定カラーの有線イヤホン TRINITY USB-C Red が登場！\n\nTRINITYベースに鮮烈なレッドカラーを採用した限定生産リミテッドエディション\n\n『TRINITY Red』は、フィッティング・サウンドクオリティ・コストパフォーマンスの三位一体をコンセプ トとして、より多くの方に高価なHi-Fi有線イヤホンの世界と音質の片鱗を体感して頂くためにクラス最高 音質を目指して新開発したスーパーエントリーモデル「TRINITY」をベースに、記憶に刻まれる鮮烈なレッ ドカラーを採用した、洗練された大人のための限定生産リミテッドエディションです。\n\n日常やビジネスシーンにアクセントを加えるエグゼクティブなレッドカラー\n\nTRINITY のハウジングには共振を抑制するアルミニウム筐体が採用されています。リミテッドモデルとなる TRINITY Red には、そのアルミ筐体とTPE被膜4芯OFCリッツケーブルに鮮烈なレッドカラーを採用。 全体のレッド基調にブラックのアクセントを入れることによって、深みのあるエグゼクティブな赤が際立 ち、所有する喜びとステータスを演出します。日常からビジネスシーンまで、限られた方だけが手にでき る、妥協のない美しさをご堪能ください。\n\n分割振動を抑制する3層レイヤー構造振動板採用「発展型ARDドライバー」\n\n音質の要となる心臓部のドライバーには、8mm径の「発展型ARDドライバー」を搭載。発…",
-      "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/11/AZLA-TRINITY-USB-C-Red-1.webp"
     },
     {
       "Title": "薬指がくぼみにフィット、幅76mmの静音ワイヤレスマウス",
@@ -4114,15 +4249,6 @@
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2156/889/01.jpg"
     },
     {
-      "Title": "21万円台からのVAIO F14/F16、USB4対応に加え落下や水濡れも無償修理に",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/2156893.html",
-      "Published": "2026-11-17T01:00:00Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "21万円台からのVAIO F14/F16、USB4対応に加え落下や水濡れも無償修理に\n\n自分で落として画面を割っても、水をこぼしても、購入時のメーカー保証だけで無償修理してもらえるノートPCが登場した。VAIOは11月17日、14型ノートPC「VAIO F14」と16型ノートPC「VAIO F16」の最新モデルを発表した。本日より受注受付を開始し、最速で11月27日着荷。VAIOストアでの直販価格は前者が21万1,200円から、後者は22万2,200円から。\n\n21万円台からのVAIO F14/F16、USB4対応に加え落下や水濡れも無償修理に\n\n自分で落として画面を割っても、水をこぼしても、購入時のメーカー保証だけで無償修理してもらえるノートPCが登場した。VAIOは11月17日、14型ノートPC「VAIO F14」と16型ノートPC「VAIO F16」の最新モデルを発表した。本日より受注受付を開始し、最速で11月27日着荷。VAIOストアでの直販価格は前者が21万1,200円から、後者は22万2,200円から。\n\n今回のVAIO F14(型番: VJF143)とF16(同VJF163)で第3世代機になり、プロセッサは前モデルのCoreプロセッサシリーズ2などからシリーズ3へと進化した。また、今回の機種からはUSB4やWi-Fi 7といった最新インターフェイスがサポートされた点も大きな違いとなる。\n\nさらに、日本初というユーザーの過失による物損故障の無償修理に対応する。これまでメーカー保証1年(無償保証)での自然故障はサポート対象だったものの、新モデルでは落下、画面割れ、水濡れ、火災・落雷・水害などに起因する故障についても無償修理の対象となる。\n\n基本的には同日に発表された上位モデルのVAIO S13に近いスペックとなっており、同社の定番的なラインナップとして順当な性能ア…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2156/893/01.jpg"
-    },
-    {
       "Title": "落下も水濡れも「自己責任」にしないVAIOの新メーカー保証、回数制限すらなし",
       "Link": "https://pc.watch.impress.co.jp/docs/news/2156898.html",
       "Published": "2026-11-17T01:00:00Z",
@@ -4130,6 +4256,15 @@
       "Category": "",
       "Summary": "落下も水濡れも「自己責任」にしないVAIOの新メーカー保証、回数制限すらなし\n\nうっかり落として画面を割ったノートPCも、メーカーが無償で直してくれる保証が始まる。VAIOは11月17日、新しいメーカー保証制度の導入を発表した。これまでユーザーの過失による故障はメーカー保証1年(無償保証)の対象外だったが、今後は対象モデルでは無償修理に応じる。VAIOによれば、これは日本メーカー初の試みという。\n\n落下も水濡れも「自己責任」にしないVAIOの新メーカー保証、回数制限すらなし\n\nうっかり落として画面を割ったノートPCも、メーカーが無償で直してくれる保証が始まる。VAIOは11月17日、新しいメーカー保証制度の導入を発表した。これまでユーザーの過失による故障はメーカー保証1年(無償保証)の対象外だったが、今後は対象モデルでは無償修理に応じる。VAIOによれば、これは日本メーカー初の試みという。\n\nVAIOは、長年にわたる品質改善活動の成果として、今回の新しいメーカー保証制度に踏み切る。具体的には、落下、画面割れ、水濡れ、火災・落雷・水害などに起因する故障が無償修理の対象となる。従来のメーカー保証1年では、自然故障のみ無償修理の対象だった。\n\nVAIOとしては、自社製品の品質への自信を保証という約束に変えたとしており、無償修理における審査は不要であり、金額上限や回数制限もないとしている。\n\n対象となるのは2026年9月以降発売の下記個人・法人向けモデル。",
       "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2156/898/01.jpg"
+    },
+    {
+      "Title": "21万円台からのVAIO F14/F16、USB4対応に加え落下や水濡れも無償修理に",
+      "Link": "https://pc.watch.impress.co.jp/docs/news/2156893.html",
+      "Published": "2026-11-17T01:00:00Z",
+      "Source": "PC Watch",
+      "Category": "",
+      "Summary": "21万円台からのVAIO F14/F16、USB4対応に加え落下や水濡れも無償修理に\n\n自分で落として画面を割っても、水をこぼしても、購入時のメーカー保証だけで無償修理してもらえるノートPCが登場した。VAIOは11月17日、14型ノートPC「VAIO F14」と16型ノートPC「VAIO F16」の最新モデルを発表した。本日より受注受付を開始し、最速で11月27日着荷。VAIOストアでの直販価格は前者が21万1,200円から、後者は22万2,200円から。\n\n21万円台からのVAIO F14/F16、USB4対応に加え落下や水濡れも無償修理に\n\n自分で落として画面を割っても、水をこぼしても、購入時のメーカー保証だけで無償修理してもらえるノートPCが登場した。VAIOは11月17日、14型ノートPC「VAIO F14」と16型ノートPC「VAIO F16」の最新モデルを発表した。本日より受注受付を開始し、最速で11月27日着荷。VAIOストアでの直販価格は前者が21万1,200円から、後者は22万2,200円から。\n\n今回のVAIO F14(型番: VJF143)とF16(同VJF163)で第3世代機になり、プロセッサは前モデルのCoreプロセッサシリーズ2などからシリーズ3へと進化した。また、今回の機種からはUSB4やWi-Fi 7といった最新インターフェイスがサポートされた点も大きな違いとなる。\n\nさらに、日本初というユーザーの過失による物損故障の無償修理に対応する。これまでメーカー保証1年(無償保証)での自然故障はサポート対象だったものの、新モデルでは落下、画面割れ、水濡れ、火災・落雷・水害などに起因する故障についても無償修理の対象となる。\n\n基本的には同日に発表された上位モデルのVAIO S13に近いスペックとなっており、同社の定番的なラインナップとして順当な性能ア…",
+      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2156/893/01.jpg"
     },
     {
       "Title": "iPhone 20 Proの四辺湾曲ガラス、早くもリークされる。",
@@ -4364,144 +4499,144 @@
       "Category": "正式・公式発表",
       "Summary": "Project Zero、脆弱性の公開期限が最短30日に\n\nGoogleの脆弱性発見チームProject Zeroが、脆弱性の公開方針を変更すると発表した。修正の有無にかかわらず、報告から決まった日数で必ず公開する方式に切り替え、期限は2028年までに30日まで段階的に縮む。AppleなどOSベンダー側も、より速い修正対応が求められそうだ。\n\nクイック Project Zero、脆弱性の公開期限が最短30日に\n\nGoogleの「Project Zero」が、脆弱性の公開方針を変更すると発表\n\n修正の有無にかかわらず、報告から決まった日数で必ず公開。期限は2028年までに30日へ段階的短縮\n\nAppleなどOSベンダーも、より速い修正対応が求められそうだ\n\nGoogle の社内セキュリティ研究チーム「 Project Zero 」（ソフトウェアの欠陥を自ら見つけてベンダーに報告し、修正されなければ一定期間後に公開してきたチーム）が、脆弱性の公開方針を変更すると2026年11月13日に 公式ブログ で発表した。2021年から続けてきた「修正まで最大90日＋猶予30日」の方式をやめ、修正の有無にかかわらず報告から決まった日数で必ず公開する「Full X」方式に切り替える。\n\n期限はすでに90日（Full 90）になっており、2027年2月2日から60日（Full 60）、2028年1月3日から 30日（Full 30） まで段階的に縮む。Project Zeroは理由として、AIで脆弱性の発見と悪用が速くなったことと、報告件数自体が急増していることを挙げている。以前は年に数件しか見つからなかった対象で、今は週に数件見つかるという。\n\nこの投稿にAppleやiOS、macOSへの言及はない。ただ しApple製品もProject Zeroの報告対象 であり続けており、期限が30日ま…",
       "ImageURL": "https://gori.me/uploads/2026/11/1794826327638-Project-Zero-disclosure-policy.jpg"
+    }
+  ],
+  "world": [
+    {
+      "Title": "Nebula X1 4K トリプル レーザー プロジェクターが 1,200 ドル節約",
+      "Link": "https://www.androidauthority.com/nebula-x1-projector-deal-3740616/",
+      "Published": "2026-11-27T11:47:55Z",
+      "Source": "Android Authority",
+      "Category": "Projectors",
+      "Summary": "Nebula X1 4K トリプル レーザー プロジェクターが 1,200 ドル節約\n\nNebula X1 4K トリプル レーザー プロジェクターは、3,500 ANSI ルーメン、ドルビー ビジョン、Google TV を備え、Amazon で過去最低の 1,799 ドルに値下げされます。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nNebula X1 4K トリプル レーザー プロジェクターが 1,200 ドル節約\n\nマット・ホーン • 2026 年 11 月 27 日 — 午前 6 時 47 分（東部標準時）\n\n• Anker の Soundcore Google で Android Authority を追加: 優先ソース Google Discover Nebula の最も印象的なプロジェクターが、最低値を更新しました。 Nebula X1 4K トリプル レーザー プロジェクターは、Amazon で 1,799 ドルに値下げされています。これは、定価 2,999 ドルから 1,200 ドル割引されており、これまでに販売された最低価格です。\n\nNebula X1 は、定格 3,500 ANSI ルーメンの RGB トリプル レーザー ライト エンジンを使用しており、部屋から部屋へ持ち運べるプロジェクターとしては非常に明るいです。この明るさは、4K 解像度とドルビー ビジョンのサポートに加えて、部屋が真っ暗でなくても大きな画像を処理できることを意味します。\n\n最大 300 インチまで画像を投影でき、光学ズームにより、どこに置くかにより柔軟に対応できます。内蔵ジンバルにより画像の角度調整が簡単になり、自動セットアップがフォーカスと位置合わせを処理するため、映画鑑賞の前に設定をいじる必要がありません。\n\nGoogle TV が内蔵されており、Netflix を公式にサポートしているため、別のスティックを接続しなくてもストリーミングできます。 4 つの内蔵スピーカーがオーディオを処理しま…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/soundcore-nebula-x1s-3-copy.jpg"
     },
     {
-      "Title": "楽天モバイル、Nothing Phone (3a)がMNPで一括2万4900円。限定色Blueは2万6900円",
-      "Link": "https://smhn.info/202611-rakuten-mobile-nothing-phone-3a-mnp-24900yen",
-      "Published": "2026-11-16T10:48:12Z",
-      "Source": "すまほん!!",
-      "Category": "楽天モバイル",
-      "Summary": "楽天モバイル、Nothing Phone (3a)がMNPで一括2万4900円。限定色Blueは2万6900円\n\n楽天モバイルで、Nothingの「Phone (3a)」128GBモデルがセール対象となっています。製品価格は、Black・Whiteが4万6900円、楽天モバイル限定色のBlueが4万8900円（いずれも税込）。「Rakuten最強プラン」または「Rakuten最強U-NEXT...\n\n楽天モバイル、Nothing Phone (3a)がMNPで一括2万4900円。限定色Blueは2万6900円\n\n楽天モバイル で、Nothingの「Phone (3a)」128GBモデルがセール対象となっています。\n\n製品価格は、Black・Whiteが4万6900円、楽天モバイル限定色のBlueが4万8900円（いずれも税込）。\n\n「Rakuten最強プラン」または「Rakuten最強U-NEXT」へ他社からの乗り換え（MNP）で申し込み、同時に購入すると、いずれも2万2000円引きとなり、Black・Whiteは一括2万4900円、Blueは一括2万6900円になります。\n\n2026年11月12日時点でも続いている特価です。端末の返却は不要で、一括払いに加え、24回・48回払いも値引きの対象です（48回払いは楽天カードのみ。楽天カード以外のクレジットカードで24回払いにすると分割手数料がかかります）。\n\nPhone (3a)は、約6.77型の有機ELとSnapdragon 7s Gen 3を備えたミッドレンジモデル。画面は最大輝度3000ニト、最大120Hzのリフレッシュレートに対応します。実行メモリは8GB。背面は約5000万画素のカメラ2基と約800万画素のカメラからなる3眼構成で、最大30倍のズーム撮影も可能です。\n\nバッテリーは5000mAhで50Wの急速充電に対…",
-      "ImageURL": "https://smhn.info/wp-content/uploads/2025/04/P1203852.jpg"
+      "Title": "ケーブル内蔵の Anker Zolo 20,000mAh モバイルバッテリーが 23% オフ",
+      "Link": "https://www.androidauthority.com/anker-zolo-20000mah-power-bank-deal-3740571/",
+      "Published": "2026-11-27T11:38:11Z",
+      "Source": "Android Authority",
+      "Category": "Power bank",
+      "Summary": "ケーブル内蔵の Anker Zolo 20,000mAh モバイルバッテリーが 23% オフ\n\nブラック フライデーに先立ち、Amazon で Anker Zolo 20,000mAh 30W モバイル バッテリーを 10 ドル割引で購入できます。USB-C ケーブルが付属しており、迅速なチャージが可能です。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nケーブル内蔵の Anker Zolo 20,000mAh モバイルバッテリーが 23% オフ\n\nマット・ホーン • 2026 年 11 月 27 日 — 午前 6 時 38 分（東部標準時）\n\n• Amazon Google で Android Authority を追加: 推奨ソース Google Discover 大容量のパワーバンクはバッグに入れておくと最も便利なものの 1 つであり、Anker の Zolo は非常に価値のある選択肢です。 Anker Zolo 20,000mAh パワーバンクは Amazon で $32.99 に値下げされており、定価 $42.99 から $10 値下げされており、ここ 6 か月での最低価格となります。\n\nAnker Zoloの最大の特徴は、USB-Cケーブルが内蔵されていることです。ケーブルはモバイルバッテリー自体に接続されているため、別のコードを忘れずに用意する必要はありません。これにより、携帯電話が故障して充電できなくなる可能性が大幅に低くなります。\n\n20,000mAhの容量は、ほとんどの携帯電話を数回充電できる十分な電力を保持するため、長い旅行日、フェスティバル、または停電時に便利です。最大 30W の出力により、最近の iPhone や Galaxy スマートフォンを急速充電でき、タブレットにも十分な充電能力を与えることができます。\n\n人気があるのには理由があり、Amazon では 15,000 件を超えるレビューがあり、平均評価は 4.4 つ星です。\n\n契約はサードパーティの販売者から行…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/11/Anker-Zolo-Power-Bank-20000mAh-30W-Featured.jpg"
     },
     {
-      "Title": "iPhone15と16シリーズの6モデルが販売〜iPhone整備済製品【11/16】",
-      "Link": "https://iphone-mania.jp/sale-608784/",
-      "Published": "2026-11-16T10:38:50Z",
-      "Source": "iPhone Mania",
-      "Category": "整備済製品",
-      "Summary": "iPhone15と16シリーズの6モデルが販売〜iPhone整備済製品【11/16】\n\nAppleオンラインストアの認定整備済製品として販売されているiPhone整備済製品の在庫が、増加しました。現時点で、iPhone15、iPhone15 Plus、iPhone15 Pro、iPhone15 Pro Max、iPhone16、iPhone16 Plusの6モデルが販売中です。\n\niPhone15と16シリーズの6モデルが販売〜iPhone整備済製品【11/16】\n\nAppleオンラインストアの認定整備済製品として販売されている iPhone整備済製品 の在庫が、増加しました。現時点で、 iPhone15 、 iPhone15 Plus 、 iPhone15 Pro 、 iPhone15 Pro Max 、 iPhone16 、 iPhone16 Plus の 6モデルが販売中 です。\n\n2026年11月16日午後7時30分時点での、 iPhone整備済製品 の在庫状況と販売価格は下記の通りです。\n\nApple品質認定のiPhone 整備済製品 についてAppleは、下記のように説明しています。\n\niPhone整備済製品は、すべてのモデルに新しいバッテリーと外装が使用され、1年間の保証も付いています。最短で翌日に無料でお届けし、返品も無料です\n\nほかにも、以下のものが含まれます 完全な動作テスト、Apple純正パーツの交換（必要な場合）、徹底したクリーニング\n\n出荷時のオペレーティングシステム、またはより最新のオペレーティングシステム\n\n整備済製品はすべて、必要なアクセサリやケーブルとともに新品の箱に再梱包されます\n\nお客様のデバイスが出荷時のオペレーティングシステムを搭載した状態で出荷された場合も、最新バージョンをApp Storeから無料でダウンロードできます\n\n数量限…",
-      "ImageURL": "https://iphone-mania.jp/wp-content/uploads/2026/11/16/iphone-refurb-1116.jpg"
+      "Title": "初見: Google Play ストアの新しい「Today」フィードはお気に入りのアプリからコンテンツを取得できる",
+      "Link": "https://www.androidauthority.com/google-play-store-today-feed-collections-apk-teardown-3740786/",
+      "Published": "2026-11-27T11:37:41Z",
+      "Source": "Android Authority",
+      "Category": "Google Play Store",
+      "Summary": "初見: Google Play ストアの新しい「Today」フィードはお気に入りのアプリからコンテンツを取得できる\n\nGoogle は、お気に入りのアプリすべてのコンテンツを 1 か所にまとめた、Play ストアの新しい「Today」コレクションの開発に取り組んでいます。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\n初見: Google Play ストアの新しい「Today」フィードはお気に入りのアプリからコンテンツを取得できる\n\nAkshay Gangwar AssembleDebug • 2026 年 11 月 27 日 — 午前 6 時 37 分（東部標準時）\n\n1 • Edgar Cervantes / Android Authority Android Authority を Google に追加: 優先ソース Google Discover TL;DR Google は、Play ストアのコレクション用の新しい「Today」フィードの開発に取り組んでいます。\n\n複数のアプリからのおすすめを 1 つのフィードに結合します。\n\nユーザーは、フィードにコンテンツを提供するアプリを選択することもできます。\n\nGoogle が Play ストアにコレクションを初めて導入してから長い時間が経ちましたが、同社が取り組んでいることを確認したいくつかの新しいウィジェットを除いて、この機能はほとんど変わっていません。 Collections は、インストールされているアプリのコンテンツを個別のカテゴリに整理するのに非常に優れていますが、Google は現在、これらの推奨事項をすべてまとめた新しいフィードの開発に取り組んでいます。\n\nこのレポートは、作業中のコードに基づいています。これらの機能は出荷されない場合があります。\n\nGoogle Play ストアの最新バージョン (v54.4.11) を調べていると、Google がコレクション内の新しい「Today」フィードに取り組んでいる証拠を発見しまし…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2023/09/Google-Play-Store-app-next-to-other-Google-Apps-stock-photo.jpg"
     },
     {
-      "Title": "きのこの山、ワイヤレスイヤホン Proが登場。",
-      "Link": "https://smhn.info/202611-kinokonoyama-wireless-earphones-pro-makuake-record",
-      "Published": "2026-11-16T10:28:29Z",
-      "Source": "すまほん!!",
-      "Category": "明治",
-      "Summary": "きのこの山、ワイヤレスイヤホン Proが登場。\n\nカゴメディアは11月16日、明治の正式ライセンスを受けてMakuakeで展開している「きのこの山ワイヤレスイヤホン Pro」の応援購入総額が、11月14日12時過ぎに1億6607万円を突破したと発表しました。同社調べによると、Makuakeのイヤホン関連プロジェクトとして歴代最高...\n\nカゴメディアは11月16日、明治の正式ライセンスを受けてMakuakeで展開している「きのこの山ワイヤレスイヤホン Pro」の応援購入総額が、11月14日12時過ぎに1億6607万円を突破したと発表しました。同社調べによると、Makuakeのイヤホン関連プロジェクトとして歴代最高記録とのこと。\n\n同プロジェクトは11月1日12時に始まり、商品化の条件だった1000台の申し込みを開始48分で達成しました。そして16日14時40分ごろのMakuakeのページでは、応援購入総額が1億7033万円、サポーターは5292人に達しています。\n\n2024年3月26日に3500台限定で発売された初代モデルは、開始から10分で完売していました。一方、今回の第2世代（2027年モデル）は台数限定ではなく、申し込み数に応じて作る受注生産。プロジェクト終了後の販売は未定としています。\n\nProでは、低音域と高音域の周波数特性を改良したほか、タッチセンサー用の基板を金メッキ仕様にして操作の検知精度を向上。イヤーチップにはメモリーフォーム素材を採用しています。また、充電ケースは待機時の電流を約84％減らし、待機可能期間を約26日から約80日へ延ばしました。\n\n加えて、AIを使った同時翻訳機能は初代から引き継ぎ、方言・アクセントを含む144言語に対応。Bluetooth 5.3に対応し、防水性能はIPX4を備えます。製造元はウェザリー・ジャパンで、翻訳機能付きイヤホン「…",
-      "ImageURL": "https://smhn.info/wp-content/uploads/2026/11/kinokonoyama-earbuds-pro-main.webp"
+      "Title": "Galaxy Z Fold 8が1,499.99ドルの新安値に下落",
+      "Link": "https://www.androidauthority.com/galaxy-z-fold-8-black-friday-deal-3740549/",
+      "Published": "2026-11-27T11:35:06Z",
+      "Source": "Android Authority",
+      "Category": "Samsung Galaxy Z Fold 8",
+      "Summary": "Galaxy Z Fold 8が1,499.99ドルの新安値に下落\n\nロック解除された Samsung Galaxy Z Fold 8 は Amazon で 21% オフと過去最低価格となっており、512GB モデルもブラック フライデーで割引されています。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nGalaxy Z Fold 8が1,499.99ドルの新安値に下落\n\nマット・ホーン • 2026 年 11 月 27 日 — 午前 6 時 35 分（東部標準時間）\n\n• Brady Snyder / Android Authority Google に Android Authority を追加: 優先ソース Google Discover Samsung の Galaxy Z Fold 8 がブラック フライデーで安くなりました。ロック解除された 256GB モデルは、Amazon で $1,499.99 に値下げされています。これは、定価 $1,899.99 から $400 割引で、今月初めに付けた過去最低価格よりも $50 安いです。\n\nもっとスペースが必要ですか? 512GB バージョンも割引価格で、定価 2,099.99 ドルから 450 ドル引きの 1,649.99 ドルとなります。\n\nGalaxy Z Fold 8は、Fold 8 Ultraとは異なるアプローチを採用しています。コンテンツネイティブな比率を備えたまったく新しい形状を採用しており、内側の画面はビデオの視聴や黒帯のないブラウジングに適しており、同時にアプリを並べて表示できるスペースも確保されています。\n\nサムスンはこれを史上最軽量の Z Fold と呼んでおり、12GB の RAM を備えたカスタマイズされたプロセッサを搭載しています。デュアル 50MP カメラは写真やビデオを処理し、My FanCam などのクリエイティブ ツールは大切な瞬間を捉えるのに役立ちます。\n\n4,800mAh バッテリーは最大 26 …",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-Z-Fold-8-2-scaled.jpg"
     },
     {
-      "Title": "XPPen、WQHD解像度対応のエントリー液晶ペンタブレット「Artist16 3rd 2.5K版」",
-      "Link": "https://www.gdm.or.jp/pressrelease/2026/1116/660720",
-      "Published": "2026-11-16T10:19:12Z",
-      "Source": "エルミタージュ秋葉原",
-      "Category": "",
-      "Summary": "XPPen、WQHD解像度対応のエントリー液晶ペンタブレット「Artist16 3rd 2.5K版」\n\nXPPen（本社：中国深セン）は2026年11月16日、エントリー向け液晶ペンタブレット「Artist16 3rd」の2.5K解像度モデル「Artist16 3rd 2.5K版」（型番：CD161QH）を発表した。即日販売が開始され、直販価格は税込62,980円。\n\nXPPen、WQHD解像度対応のエントリー液晶ペンタブレット「Artist16 3rd 2.5K版」\n\nXPPen（本社：中国深セン）は2026年11月16日、エントリー向け液晶ペンタブレット 「Artist16 3rd」 のWQHD解像度モデル 「Artist16 3rd 2.5K版」 （型番：CD161QH）を発表した。即日販売が開始され、直販価格は税込62,980円。\n\n今年4月に登場した 「Artist16 3rd」 をベースに、解像度がフルHDからWQHDへ、パネルサイズを15.4型から15.8型へと変更したバリエーションモデル。従来モデルより高精細な表示が可能になり、ドット感の目立たない滑らかな映像で作業を行える。\n\nスタイラスペンは新型チップを内蔵した「X4スマートチップスタイラス」が付属し、荷重2gの軽い筆圧で描き始められるほか、ペン先の沈み込みを0.3mmに抑えることで安定性も向上している。また、本体表面には反射や指紋、汚れを抑えるAG+AFナノエッチングコーティングを施した。\n\n主なスペックは表示色1,670万色、コントラスト比1,000:1、色域はsRGB 99％、Adobe RGB 91％、Display P3 96％をカバー。筆圧レベルは16,384段階、傾き検知は60％、読み取り高さは10mm、精度は±0.2mm（中央）。\n\n外形寸法が幅418.6mm、奥行き241.6mm、厚さ1…",
-      "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/11/16/Artist16_3rd_25K_01.jpg"
+      "Title": "ジェミニは SF 映画の中にいるかのように、Pixel 10 で用事を済ませました",
+      "Link": "https://www.androidauthority.com/gemini-screen-automation-pixel-10-test-3740565/",
+      "Published": "2026-11-27T11:30:20Z",
+      "Source": "Android Authority",
+      "Category": "Google Pixel 10",
+      "Summary": "ジェミニは SF 映画の中にいるかのように、Pixel 10 で用事を済ませました\n\n私は Gemini に食料品の買い物、食べ物の注文、Pixel 10 での乗り物を任せました。その体験は完璧ではありませんでしたが、非常に未来的だと感じました。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nジェミニは SF 映画の中にいるかのように、Pixel 10 で用事を済ませました\n\nカランディープ・シン • 2026 年 11 月 27 日 — 午前 6 時 30 分（東部標準時）\n\n• Megan Ellis / Android Authority Google に Android Authority を追加: 優先ソース Google Discover Gemini Intelligence は、Google が Pixel スマートフォンに付け加えた単なるマーケティング用語ではありません。これにより、人工知能の夢のユースケースであるタスク自動化を含む、多数の便利な AI 機能が可能になります。こうした自動化の花束全体が、Pixel 11 でデビューした後、最近、新しい地域の昨年の Pixel 10 に導入されました。私はそれを試しずにはいられませんでした。\n\nGemini はすでにバックエンドのいくつかのアプリ内で動作できますが、同じビジュアル インターフェイスを使用して、ユーザーと同じようにサードパーティ アプリと対話できるようになりました。 AI が真のアシスタントのように日常的なタスクを引き継ぐというアイデアが現実になります。 Pixel 10 で Gemini Intelligence と一緒に暮らした後、未来を味わったような気がします。\n\n自分でアプリを操作する代わりに、Gemini のタスク自動化を使用しますか?\n\nPixel 10 での Gemini のタスク自動化のセットアップ\n\nGoogle わかりにくいかもしれませんが、Gemini は 2 つの方法で他のアプリと対話できま…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/11/The-Gemini-app-on-a-smartphone-screen-scaled.jpg"
     },
     {
-      "Title": "ファーウェイ、次期折りたたみスマホ「HUAWEI Mate X8」の外観を初公開！円形カメラに紫の背面",
-      "Link": "https://smhn.info/202611-huawei-mate-x8-official-design-teaser",
-      "Published": "2026-11-16T10:09:14Z",
-      "Source": "すまほん!!",
-      "Category": "折りたたみスマホ",
-      "Summary": "ファーウェイ、次期折りたたみスマホ「HUAWEI Mate X8」の外観を初公開！円形カメラに紫の背面\n\nファーウェイ常務取締役で端末BG会長の余承東（リチャード・ユー）氏は11月15日、次期折りたたみスマートフォン「HUAWEI Mate X8」の実機が映った動画をWeiboで公開しました。動画はMate Xシリーズの8年間を振り返る内容で、その終盤にMate X8の背面と、開いた...\n\nファーウェイ、次期折りたたみスマホ「HUAWEI Mate X8」の外観を初公開！円形カメラに紫の背面\n\n動画に映ったHUAWEI Mate X8の背面（画像出典： 余承東のWeibo投稿 ）\n\nファーウェイ常務取締役で端末BG会長の余承東（リチャード・ユー）氏は11月15日、次期折りたたみスマートフォン「HUAWEI Mate X8」の実機が映った動画をWeiboで公開しました。\n\n動画はMate Xシリーズの8年間を振り返る内容で、その終盤にMate X8の背面と、開いた状態の内側画面が登場します。\n\n余氏は投稿で、Mate Xシリーズが今年で8年目を迎えたと説明。一部の人が試す段階から主力機として使う人が増えるまでになったと振り返り、「新しい世代の物語を一緒に見届けよう」とMate X8を予告しています。\n\nまた、ファーウェイの端末部門の公式アカウント「华为终端」も同日、歴代のMate Xシリーズを振り返る動画を「8年8代」の言葉とともに投稿し、Mate X8が「まもなく新たな1ページを開く」と告知しました。\n\n動画に映ったMate X8は、紫色の背面に大きな円形のカメラ部を備えたデザイン。フレームは金色系で、開くと内側に大きな画面が現れる、従来の内折りスタイルも確認できます。\n\n開いた状態のMate X8（画像出典： 余承東のWeibo投稿 ）\n\nHuawei Centralに…",
-      "ImageURL": "https://smhn.info/wp-content/uploads/2026/11/huawei-mate-x8-rear-teaser.webp"
+      "Title": "Nvidia、2018年の仮想通貨マイニングGPU売上高を巡り2億9000万ドルの和解金で合意",
+      "Link": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-agrees-to-usd290-million-settlement-over-2018-crypto-mining-gpu-sales-ends-eight-year-investor-lawsuit-without-admitting-wrongdoing",
+      "Published": "2026-11-27T11:30:00Z",
+      "Source": "Tom's Hardware",
+      "Category": "Tech Industry",
+      "Summary": "Nvidia、2018年の仮想通貨マイニングGPU売上高を巡り2億9000万ドルの和解金で合意\n\nそれ\n\nNvidia、2018年の仮想通貨マイニングGPU売上をめぐって2億9,000万ドルの和解に合意 – 不正行為を認めずに8年間にわたる投資家訴訟に終止符\n\nNvidia が小売用ゲーム用 GPU を誰がどのような目的で購入したかを追跡することは困難ですが、2017 年には、その多くが暗号通貨のマイニングに使用されていたことは明らかでした。\n\n(画像クレジット: Getty Images) {alert('リンクがコピーされました')}).catch(err =\u003e {console.error('コピーに失敗しました: ', err)})\" data-platform=\"copy_link\" data-action=\"\" class=\"font-ui-Heading py-2 text-sm text-neutral-700 hover:bg-neutral-100 transfer-colors no-underline blockcursor-pointer border-0 bg-transparent w-full text-left Normal-case\" aria-label=\"リンクをコピー\" role=\"menuitem\" data-analytics-id=\"article-social\" Analytics-label=\"utility-bar-social-share-copy-link\" Analytics-name=\"utility-bar-secondary\" data-mrf-recirculation=\"article-social\"\u003e リンクをコピー\n\n2 会話に参加する フォローする Google ニュースレターの優先情報源として追加する ニュースレターを購読する Nvidia は、8 年間にわたる証券集団訴訟で 2 億 9,000 万ドルの和解金を支払うことに同意しました。投資家らは同社が2018年の仮想通貨マイニングブームによ…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/vZTixu9pzvdLkseqLS3M4b-1920-80.jpg"
     },
     {
-      "Title": "���äƿ�ư���Ʋ����Ф륲���ߥ󥰥�������Razer Soma Pro��ȯɽ��12��ȯ���ǲ��ʤ���17��6000��",
-      "Link": "https://www.4gamer.net/games/023/G002318/20261116021/",
-      "Published": "2026-11-16T09:52:45Z",
-      "Source": "4Gamer.net Hardware",
-      "Category": "HARDWARE",
-      "Summary": "���äƿ�ư���Ʋ����Ф륲���ߥ󥰥�������Razer Soma Pro��ȯɽ��12��ȯ���ǲ��ʤ���17��6000��\n\n2026年11月16日，Razerは，ゲーム内の状況に合わせて振動する機能やスピーカー，LEDイルミネーションを搭載したゲーミングチェア「Soma Pro」と，振動機能を備えた「Soma Sensa…\n\n光って振動して音も出るゲーミングチェア「Razer Soma Pro」発表。12月発売で価格は約17万6000円 ↓全体の横幅を指定↓ ↓コンテンツエリア↓ ↓ヘッダー↓ ↓Hottest Game Now（ロゴ横広告）↓ ↓ユーティリティ↓ ↓基本メニュー↓ RSS\n\n↓アイコン/タイトル↓ 10年前の4Gamer人気記事を見よう【2016年・秋】。ついに次世代機Nintendo Switchが発表！ PlayStation 4 Proは分解されとる ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ フレームレート至上主義者が「GTA6」に備えて目をデチューンしてみた話 ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 本日発売20周年を迎えたPS3は，“何でも再生できる”稀代のエンタテインメントコンピュータだった ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ 「グランド・セフト・オートVI」をプレイする前に知っておきたい「GTA」ユニバースの話 ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓アイコン/タイトル↓ TGS 2026 コンパニオン＆コスプレイヤー写真集（ZIPファイルなし）をお届け。10年に1度の豊潤なみずみずしさに恵まれた258枚！ ↑アイコン/タイトル↑ ↓リード画像↓ ↑リード画像↑\n\n↓ア…",
-      "ImageURL": "https://www.4gamer.net/games/023/G002318/20261116021/SS/002.jpg"
-    },
-    {
-      "Title": "【Kindleマンガ】1冊99円の小規模セール情報まとめ【11月第3週】",
-      "Link": "https://komameblog.jp/sale/kindle-20261116-99/",
-      "Published": "2026-11-16T09:02:30Z",
-      "Source": "こまめブログ",
-      "Category": "Kindle",
-      "Summary": "【Kindleマンガ】1冊99円の小規模セール情報まとめ【11月第3週】\n\n現在開催されている、対象作品が少なめのKindleマンガ1冊99円セールをまとめました。出版社やレーベルごとに、対象作品を整理しています。セール期間はキャンペーンによって異なるため、購入前に確認してください。※99円以外の作品も番外編として...\n\n現在開催されている、対象作品が少なめのKindleマンガ1冊99円セールをまとめました。出版社やレーベルごとに、対象作品を整理しています。セール期間はキャンペーンによって異なるため、購入前に確認してください。\n\n「コミックゼノン」系のマンガ雑誌やマンガサイトで連載された作品、その出版社であるコアミックス社が権利を管理する作品です。セール期間は11/19まで。\n\n2008年からマックガーデン社の「月刊コミックブレイド」で連載された作品が、全巻1冊99円でセール中です。アニメ化されたのは2024年。\n\n電子書籍取次事業を手がけるクリーク・アンド・リバー社管理の作品です。1980～1990年代の作品が中心。\n\n大洋図書のマンガレーベル「エンペラーズコミックス」の作品です。今回はみなぎ得一作品と小山田いく作品が中心。「【合冊版】」には1冊に単行本複数巻が収録されています。セール期間は不明。\n\n11/19まで開催中の「秋カド2026 後半」から、10巻以上の長編作品をピックアップしました。\n\n実業之日本社の「こちら凡人組」シリーズが1冊100円でセール中。昭和末期から平成にかけて人気を集めた任侠劇画です。\n\nマンガ家・諸星大二郎氏の作品が1冊100円でセール中です。期間は11/17まで。\n\n妖怪ハンター 稗田の生徒たち 1 夢見村にて (ヤングジャンプコミックスDIGITAL)\n\nお買い得パソコン評論家。毎日各メーカー・各ショップのWebページを500p以上チェッ…",
-      "ImageURL": "https://komameblog.jp/wp-content/uploads/2026/11/Kindle-20261116-99.jpg"
-    },
-    {
-      "Title": "ドコモ障害、今月3回目。楽天モバイルを「一時的な避難先」に、どう？",
-      "Link": "https://gori.me/mobile/smartphone/172589",
-      "Published": "2026-11-16T08:28:52Z",
-      "Source": "gori.me",
-      "Category": "楽天モバイル",
-      "Summary": "ドコモ障害、今月3回目。楽天モバイルを「一時的な避難先」に、どう？\n\nドコモで11月だけで3回目の通信障害が起きた。メインの回線を変えなくても、別の会社の回線をサブで1本持っておくと安心だ。楽天モバイルは使わなければ月1,078円、使っても3,278円で頭打ち。eSIMなら最短3分で開通の手続きができ、11月18日10時までは最大28,000ポイントのキャンペーンもある。\n\nドコモ障害、今月3回目。楽天モバイルを「一時的な避難先」に、どう？\n\n使わなければ月1,078円、使っても3,278円まで。eSIMなら最短3分で開通\n\n通知を受け取る ゴリミーをGoogleで お気に入りに追加する 読 1件のコメント コメントを読む コメントを投稿する 忙しい人のための3行まとめ ▾ ドコモは11月5日・11日・16日と、今月だけで3回の全国規模の障害が発生\n\nドコモ回線の格安SIMは巻き込まれることも。楽天モバイルは別の設備で動く\n\n月1,078円〜3,278円で頭打ち、eSIMは最短3分。11月18日10時まで最大28,000ポイント\n\nドコモで通信障害が続いている。11月5日、11月11日に続いて、11月16日も午前から全国で障害が起きた。今月だけで3回目だ。大丈夫なのか、本当に。\n\n電話もネットもつながらない時間は、仕事にも生活にも大打撃だ。これほど通信障害を繰り返すとなるとメインのドコモ回線を変えることを本気で検討している人もいるはず。とはいえ、すぐに乗り換えるのも難しいため、一旦 移行先を考えるまでの「避難先」になる回線を1本持っておく のはありだ。\n\nその候補として、 楽天モバイル が「とりあえずのサブ回線」としてちょうどいい気がしている。\n\n11月5日 午前11時18分ごろ〜11月6日 午前1時20分ごろ：5G SAを契約している人の音声通話・データ通信・SMSが使い…",
-      "ImageURL": "https://gori.me/uploads/2024/09/iphone-16-pink-color-model-12.jpg"
-    },
-    {
-      "Title": "【2026/11/18(水)～11/23(月)】ええもん集めました！期間限定試聴機セレクション",
-      "Link": "https://e-earphone.blog/?p=1559554",
-      "Published": "2026-11-16T08:05:31Z",
-      "Source": "e☆イヤホン",
-      "Category": "",
-      "Summary": "【2026/11/18(水)～11/23(月)】ええもん集めました！期間限定試聴機セレクション\n\n＼ 大阪日本橋本店にええもん集めました！ ／ ども！e☆イヤホン大阪日本橋本店のかんちゃんです。 @eear_kanchan     ポタフェス2026 大阪やハロウィンも終わり、 しばらくはイベント […]\n\n【2026/11/18(水)～11/23(月)】ええもん集めました！期間限定試聴機セレクション\n\nども！e☆イヤホン大阪日本橋本店のかんちゃんです。 @eear_kanchan\n\nポタフェス2026 大阪やハロウィンも終わり、 しばらくはイベント無いかな～と思っている関西のみなさま！！！ ＿＿＿＿＿＿＿＿＿＿＿＿＿ええもん集めたので、聴きに来ませんか？\n\ne☆イヤホン大阪日本橋本店 2階 オーダーメイドイヤホンコーナー\n\n今回は普段大阪日本橋本店に試聴機が展示されていない、“ええもん”を 3点 お取り寄せいたしました。\n\nそしてこの3点は全て“オーダーメイド”でご注文いただくことが可能です◎ （ユニバーサルモデルもあります！） それではラインナップのご紹介へ\n\nAAW Mokara(Universal Fit) オンラインストアで見る AAW Mokara オンラインストアで見る\n\n【スペック】 ドライバー構成 14BA+4EST / 18ドライバー （片側）\n\n超低域：BA×4 低域 ：BA×2 中低域：BA×2 中域 ：BA×2 中高域：BA×2 高域 ：BA×2 超高域：EST×4\n\nMokaraは、AAWの10周年記念モデルとして誕生したハイエンドモデル。 ユニバーサルモデルは記念モデルらしい華やかなデザインが目を惹きますね。\n\nちなみに「Mokara」という名前は花の名前が由来のようです。フェイスプレートの中心に刻まれているのがまさにモカラの花。そして、このモ…",
-      "ImageURL": "https://e-earphone.blog/wp-content/uploads/2026/11/fbd7cf32b331866f443326f8eb118d3c.webp"
-    },
-    {
-      "Title": "Bitspowerの液体窒素冷却システム用DDR5メモリカバーが入荷",
-      "Link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2156489.html",
-      "Published": "2026-11-16T08:05:00Z",
-      "Source": "AKIBA PC Hotline!",
-      "Category": "",
-      "Summary": "Bitspowerの液体窒素冷却システム用DDR5メモリカバーが入荷\n\nLN2(液体窒素)冷却システム用メモリカバー「Bitspower Universal Memory Covers for LN2 Container ( DDR5, Single-sided module )」がオリオスペックに入荷。片面実装のDDR5メモリ向けで、価格は16,280円。\n\nBitspowerの液体窒素冷却システム用DDR5メモリカバーが入荷\n\nLN2(液体窒素)冷却システム用メモリカバー「Bitspower Universal Memory Covers for LN2 Container ( DDR5, Single-sided module )」が オリオスペック に入荷。片面実装のDDR5メモリ向けで、価格は16,280円。\n\n上記のほか、水冷ブロックおよびLN2(液体窒素)冷却システムに対応したDDR5メモリ用のカバーの取り扱いも始まっている。\n\nラインアップは、片面実装メモリ向けモデルの「Bitspower Universal Memory Covers for LN2 Container \u0026 DIMM Water Block ( DDR5, Single-sided module )」と、両面実装メモリ向けモデルの「Bitspower Universal Memory Covers for LN2 Container \u0026 DIMM Water Block ( DDR5, Double-sided module )」の2種類。価格は15,180円で、「取寄せ商品：納期要確認」としている。\n\nなお、いずれも「メモリ基板自体の背が高いモデルでは使用できません。」「ICなど基板上実装部品の高さによっては付属の熱伝導パッドでは厚さが合わない場合があります。その際は別途熱伝導パッドをご…",
-      "ImageURL": "https://akiba-pc.watch.impress.co.jp/img/ah/list/2156/489/a1.jpg"
-    },
-    {
-      "Title": "CPUクロックが45％向上したスマホサイズの電子ペーパー、SKT「BOOX Palma 3」",
-      "Link": "https://www.gdm.or.jp/pressrelease/2026/1116/660628",
-      "Published": "2026-11-16T08:00:57Z",
-      "Source": "エルミタージュ秋葉原",
-      "Category": "",
-      "Summary": "CPUクロックが45％向上したスマホサイズの電子ペーパー、SKT「BOOX Palma 3」\n\nSKT株式会社（本社：大阪府藤井寺市）は2026年11月16日、6.13型モノクロ電子ペーパーディスプレイを搭載したAndroidデバイス「BOOX Palma 3」を発表した。市場想定売価は税込54,800円で、即日販売が開始されている。\n\nCPUクロックが45％向上したスマホサイズの電子ペーパー、SKT「BOOX Palma 3」\n\nBOOX独自の高速画面更新技術「BOOX Super Refresh」を搭載\n\nSKT株式会社（本社：大阪府藤井寺市）は2026年11月16日、6.13型モノクロ電子ペーパーディスプレイを搭載したAndroidデバイス 「BOOX Palma 3」 を発表した。市場想定売価は税込54,800円で、即日販売が開始されている。\n\nOSにはAndroid 16を採用し、Google Playストアから各種アプリのインストールも可能。また、BOOX独自の高速画面更新技術「BOOX Super Refresh」（BSR）機能を搭載し、電子ペーパー特有の残像を抑え、ページ送りやスクロール操作の快適性を高めている。\n\nCPUには先代モデル「Palma 2」から最大クロックが45％向上した4nmプロセスのオクタコアCPU（最大2.9GHz）を搭載し、パフォーマンスが引き上げられている。さらにAIアシスタントによる文章の要約や解説機能も備える。\n\n主なスペックは解像度300ppi、メモリ6GB、ストレージは128GB、外部ストレージは最大2TBのmicroSDカードに対応し、周囲の環境に合わせて明るさや色温度を調整できるフロントライトを実装。本体重量約195gで、画面は4,096段階の筆圧検知にも対応する。なお、スタイラスペンは別売りになる。\n\n文： 編集部 池西…",
-      "ImageURL": "https://www.gdm.or.jp/wp-content/uploads/2026/11/16/BOOX_Palma_3_01.jpg"
-    },
-    {
-      "Title": "Android 16搭載のスマホ型電子ペーパー「BOOX Palma 3」",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/2156781.html",
-      "Published": "2026-11-16T07:53:56Z",
-      "Source": "PC Watch",
-      "Category": "",
-      "Summary": "Android 16搭載のスマホ型電子ペーパー「BOOX Palma 3」\n\nSKTは11月16日、BOOX Palmaシリーズの電子ペーパー端末「BOOX Palma 3」を発売した。価格は5万4,800円。\n\nAndroid 16搭載のスマホ型電子ペーパー「BOOX Palma 3」\n\nSKTは11月16日、BOOX Palmaシリーズの電子ペーパー端末「BOOX Palma 3」を発売した。価格は5万4,800円。\n\nBOOX Palma 3は、6.13型モノクロ電子ペーパーを搭載したスマートフォンサイズの端末。解像度は824×1,648ドットで、画素密度は300ppi。独自の画面更新技術「BOOX Super Refresh」や、明るさと色温度を調整できるフロントライトを備える。別売りのスタイラス「InkSense Plus」による手書き入力にも対応し、4,096段階の筆圧を検知できる。\n\nOSはAndroid 16で、Google Playストアからアプリを追加できる。標準読書アプリ「NeoReader」はレイアウト調整や注釈、音声読み上げ、AI要約に対応する。このほか、音声をリアルタイムで文字起こししてAIで要約する「Talk Insights」や、予定管理と手書きメモに対応する「Calendar Memo」などを備える。\n\n主な仕様は、CPUが最大2.9GHz駆動のオクタコア、メモリが6GB、ストレージが128GB。最大2TBのmicroSDカードに対応する。\n\n無線通信はWi-Fi 5とBluetooth 6.0を内蔵するが、SIMカードによるモバイル通信や通話機能は備えない。インターフェイスはUSB Type-C、microSDカードスロットなど。1,600万画素カメラ、指紋認証センサー、スピーカー、マイクも搭載する。バッテリ容量は3,950mAh。\n\n本…",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2156/781/001.jpg"
-    },
-    {
-      "Title": "(アキバ取材班) 重低音の強さ＆振動を調整できるヘッドホン「CRUSHER 1080 ANC WIRELESS」が発売",
-      "Link": "https://www.gdm.or.jp/crew/2026/1116/660602",
-      "Published": "2026-11-16T07:41:16Z",
-      "Source": "エルミタージュ秋葉原",
+      "Title": "TURNOVA Aims to Put a Multi-Function Lathe on Everyone's Desk — To Ease Small Project Work",
+      "Link": "https://www.hackster.io/news/turnova-aims-to-put-a-multi-function-lathe-on-everyone-s-desk-to-ease-small-project-work-f4f31c2b9b61",
+      "Published": "2026-11-27T11:29:43Z",
+      "Source": "Hackster.io",
       "Category": "",
       "Summary": "",
       "ImageURL": ""
     },
     {
-      "Title": "Appleのスマートグラス、目玉は「Siriからアプリ操作」か",
-      "Link": "https://smhn.info/202611-apple-smart-glasses-siri-ai-app-integrations",
-      "Published": "2026-11-16T07:13:06Z",
-      "Source": "すまほん!!",
-      "Category": "スマートグラス",
-      "Summary": "Appleのスマートグラス、目玉は「Siriからアプリ操作」か\n\nBloombergのMark Gurman氏は11月15日（米国時間）、ニュースレター「Power On」で、Appleが2027年に投入を目指すスマートグラスの目玉機能は、Siri AIを通じたアプリ連携になると報じました。グラスに話しかけるだけで、Uberで車を呼んだり、レス...\n\nAppleのスマートグラス、目玉は「Siriからアプリ操作」か\n\nBloombergのMark Gurman氏は11月15日（米国時間）、ニュースレター「Power On」で、Appleが2027年に投入を目指すスマートグラスの目玉機能は、Siri AIを通じたアプリ連携になると報じました。\n\nグラスに話しかけるだけで、Uberで車を呼んだり、レストランを予約したり、コーヒーを注文したりする使い方を想定しているとのこと。アプリそのものは、ペアリングしたiPhone側で動きます。\n\nNEW Power On: Apple’s next big product — smart glasses planned next year — will offer Siri AI app integrations as its flagship feature. The idea: Book an Uber, reserve a table or order a coffee from your Apple Glasses — with apps running on paired iPhone. https://t.co/IICOYVAowd\n\n— Mark Gurman (@markgurman) November 15, 2026\n\nAppleは11月3日、iOS 27.3などのベータ版で、あらゆるアプリがSiri AIと連携できる開…",
-      "ImageURL": "https://smhn.info/wp-content/uploads/2026/11/apple-siri-ai-devices-hero.webp"
+      "Title": "『マーベル 1943: ライズ オブ ヒドラ』の俳優、「ボタン 1 つ」のゲームプレイに関する報道を「ばかばかしい」と発言",
+      "Link": "https://www.kitguru.net/gaming/mustafa-mahmoud/marvel-1943-rise-of-hydra-actor-calls-reports-of-its-one-button-gameplay-ridiculous/",
+      "Published": "2026-11-27T11:00:41Z",
+      "Source": "KitGuru",
+      "Category": "Rise of Hydra",
+      "Summary": "『マーベル 1943: ライズ オブ ヒドラ』の俳優、「ボタン 1 つ」のゲームプレイに関する報道を「ばかばかしい」と発言\n\n『Marvel 1943: Rise of Hydra』の『Black Panther』は、次期ゲームでは「ボタンが 1 つだけ」使用されているという主張に反論しました。\n\n『マーベル 1943: ライズ オブ ヒドラ』の俳優、「ボタン 1 つ」のゲームプレイに関する報道を「ばかばかしい」と発言\n\nMustafa Mahmoud 23 時間前 注目のテクノロジー ニュース、ソフトウェア、ゲーム\n\n2021 年に正式発表された『Marvel 1943: Rise of Hydra』は、マーベルのアイコンであるキャプテン アメリカとブラックパンサーが主演する今後のアクション アドベンチャー タイトルです。エイミー・ヘンニッグのパラマウント ゲーム スタジオによる最初のプロジェクトであるこの待望のゲームは、多くの挫折に見舞われました。最近では、このタイトルは「インタラクションが少なく」、主にゲームプレイに「ボタン 1 つだけ」を使用しているという報告が生まれました。これらの主張に対して、ゲームの主役の一人は「私は文字通りゲームをプレイしたことがあります。それが真実ではないことは知っています」と述べて報道に反論した。 YouTube で公開されている Brandon Davis Show のインタビューに参加したカリー・ペイトン（マーベル 1943: ライズ・オブ・ヒドラでブラックパンサー役を演じている）は、ブラックパンサー役の重みからキャスティングの仕方など、待望のプロジェクトに関する多くのトピックについて語った。ゲームプレイとそれにまつわる報道について話題を広げ、ペイトン氏はライズ・オブ・ヒドラが「ボタン1つでできるゲーム」であるという主張に反論し、次のように述べた：「それが何を意味するのか分からないが、文字通りゲームをプレイしたことがある。それが真実ではないことは分かっている[…]馬鹿げている。馬鹿げている。このゲームはとても…美しいだけではなく……",
+      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/11/RISE-OF-HYDRA.png"
     },
     {
-      "Title": "ガチくんに! 第439回切り抜き「8年でみんな変わりすぎ……懐かし写真を振り返る」",
-      "Link": "https://pc.watch.impress.co.jp/docs/news/2156765.html",
-      "Published": "2026-11-16T07:00:00Z",
-      "Source": "PC Watch",
+      "Title": "Roborock Saros 20 Flow は、ほぼ 1 ペニーの価値がある高価なロボット掃除機です",
+      "Link": "https://www.androidauthority.com/roborock-saros-20-flow-review-3733113/",
+      "Published": "2026-11-27T11:00:19Z",
+      "Source": "Android Authority",
+      "Category": "Smart Home",
+      "Summary": "Roborock Saros 20 Flow は、ほぼ 1 ペニーの価値がある高価なロボット掃除機です\n\nRoborock Saros 20 Flow を 2,500 平方フィートの自宅でテストしました。ローラーモップ、36,000Paの吸引力、自動ドッキングの様子をご紹介します。\n\nAndroid Authority のアフィリエイト リンクにより、手数料が発生する場合があります。もっと詳しく知る。\n\nSanuj Bhatia / Android Authority Roborock Saros 20 Flow は、ほぼ 1 ペニーの価値がある高価なロボット掃除機です\n\nサヌジ・バティア • 2026 年 11 月 27 日 — 午前 6:00（東部標準時）\n\nRoborock Saros 20 Flow は、同社の超高級主力ロボット掃除機で、硬い床が多く、モップ掛けを優先する場合に最適です。 36,000Pa の巨大な吸引力により、毎日の掃除が簡単に行え、全体的な使用感は最高です。一貫性のないエッジクリーニングや非常に高価な価格など、いくつかの欠点がありますが、お金で購入できる最高のロボット掃除機の 1 つです。メーカー希望小売価格: $1,699.99\n\n優れたモップ性能 強力な 36,000Pa の吸引力 ほぼ完全にハンズフリーの清掃 機能豊富なコンパニオン アプリ 格納式 LiDAR ナビゲーション 高速かつ驚くほど静かな清掃 気に入らない点\n\nエッジクリーニングの方が良い可能性がある 非常に高価な Roborock Saros 20 Flow\n\nRoborock Saros 20 Flow は、同社の超高級主力ロボット掃除機で、硬い床が多く、モップ掛けを優先する場合に最適です。 36,000Pa の巨大な吸引力により、毎日の掃除が簡単に行え、全体的な使用感は最高です。一貫性のないエッジクリーニングや非常に高価な価格など、いくつかの欠点がありますが、お金で購入できる最高のロボット掃除機の 1 つです。 Android Authority を Google に追…",
+      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/11/roborock-saros-20-flow-review-5.jpg"
+    },
+    {
+      "Title": "テキサス州、グレッグ・アボットUターンの1,800以上のデータセンタープロジェクトの凍結を解除",
+      "Link": "https://www.tomshardware.com/tech-industry/data-centers/texas-lifts-freeze-on-1-800-data-center-projects-in-greg-abbott-u-turn-companies-rush-for-permits-before-gina-hinojosas-january-arrival",
+      "Published": "2026-11-27T11:00:00Z",
+      "Source": "Tom's Hardware",
+      "Category": "Tech Industry",
+      "Summary": "テキサス州、グレッグ・アボットUターンの1,800以上のデータセンタープロジェクトの凍結を解除\n\n同州は退任する共和党知事グレッグ・アボット氏の指示で新規許可の承認を一時停止していたが、停止は長くは続かなかった。\n\nテキサス州、グレッグ・アボットUターンの1,800以上のデータセンタープロジェクトの凍結を解除—企業はジーナ・イノホサの1月の到着を前に許可を急ぐ\n\n同州は退任する共和党知事グレッグ・アボット氏の指示で新規許可の承認を一時停止していたが、停止は長くは続かなかった。\n\n(画像クレジット: Getty / Bloomberg) {alert('リンクがコピーされました')}).catch(err =\u003e {console.error('コピーに失敗しました: ', err)})\" data-platform=\"copy_link\" data-action=\"\" class=\"font-ui-Heading py-2 text-sm text-neutral-700 hover:bg-neutral-100 transfer-colors no-underline block Cursor-pointer border-0 bg-transparent w-full text-left Normal-case\" aria-label=\"リンクをコピー\" role=\"menuitem\" data-analytics-id=\"article-social\" Analytics-label=\"utility-bar-social-share-copy-link\" Analytics-name=\"utility-bar-secondary\" data-mrf-recirculation=\"article-social\"\u003e リンクをコピー\n\n2 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 8 月に 1,800 以上のデータセンター プロジェクトにブレーキを掛けた後、テキサス州は、退任する共和党知事グレッグ ア…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/iMHPd97G3qtdyzwF93SKQd-2000-80.jpg"
+    },
+    {
+      "Title": "20TB WD Elements 外付け HDD が今年の最安値に",
+      "Link": "https://www.tomshardware.com/pc-components/external-hdds/20tb-wd-elements-external-hdd-is-at-its-lowest-price-this-year-usd549-storage-drive-is-2-75-cents-per-gb",
+      "Published": "2026-11-27T10:51:06Z",
+      "Source": "Tom's Hardware",
+      "Category": "HDDs",
+      "Summary": "20TB WD Elements 外付け HDD が今年の最安値に\n\nWD\n\n20TB WD Elements 外付け HDD は今年の最低価格 - 549 ドルのストレージ ドライブは 1 GB あたり 2.75 セント\n\nWDの20TBストレージドライブが今年の最安値に\n\n(画像クレジット: Future) {alert('リンクがコピーされました')}).catch(err =\u003e {console.error('コピーに失敗しました: ', err)})\" data-platform=\"copy_link\" data-action=\"\" class=\"font-ui-Heading py-2 text-sm text-neutral-700 hover:bg-neutral-100 transfer-colors no-underline blockcursor-pointer border-0 bg-transparent w-full text-left Normal-case\" aria-label=\"リンクをコピー\" role=\"menuitem\" data-analytics-id=\"article-social\" Analytics-label=\"utility-bar-social-share-copy-link\" Analytics-name=\"utility-bar-secondary\" data-mrf-recirculation=\"article-social\"\u003e リンクをコピー\n\n1 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する 今年のブラック フライデー セール イベント中に Amazon で販売されているのは、20TB WD Elements 外付け HDD ストレージ ドライブで、今年のこれまでの最低価格である 549.99 ドルです。この大容量ストレージ ドライブの当初の定価は 879.99 ドルですが、以前はさらに安い価格で販売されていました。現在、表示価格から 3…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/c6qq4xSqc3Jz9Hmtm6zqkh-1920-80.jpg"
+    },
+    {
+      "Title": "Seeed Studio Launches a \"Light Customization\" Service for Its reComputer Range",
+      "Link": "https://www.hackster.io/news/seeed-studio-launches-a-light-customization-service-for-its-recomputer-range-35f7311a070c",
+      "Published": "2026-11-27T10:45:03Z",
+      "Source": "Hackster.io",
       "Category": "",
-      "Summary": "ガチくんに! 第439回切り抜き「8年でみんな変わりすぎ……懐かし写真を振り返る」\n\n※毎週木曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイター6攻略企画「ガチくんに!」をTwitchとYouTubeで配信しています。レギュラー出演者はぷげら、奥村茉実。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードした切り抜きとアーカイブの動画を掲載しています。\n\nガチくんに! 第439回切り抜き「8年でみんな変わりすぎ……懐かし写真を振り返る」\n\n※毎週木曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイター6攻略企画「ガチくんに!」を Twitch と YouTube で配信しています。レギュラー出演者はぷげら、奥村茉実。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードした切り抜きとアーカイブの動画を掲載しています。\n\n11月5日配信分より、ガチくんに！の懐かしの写真をみんなで振り返った様子を切り抜き動画でお届けします。",
-      "ImageURL": "https://pc.watch.impress.co.jp/img/pcw/list/2156/765/01.png"
-    }
-  ],
-  "world": [
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "AMD's RDNA 5 Set for Linux Kernel 7.5 Support",
+      "Link": "https://www.techpowerup.com/355263/amds-rdna-5-set-for-linux-kernel-7-5-support",
+      "Published": "2026-11-27T10:35:35Z",
+      "Source": "TechPowerUp",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
+    },
+    {
+      "Title": "活動家らは再帰的なAIの自己改善をめぐってアンスロピックのサンフランシスコ本社前でハンガーストライキ3日目を迎える",
+      "Link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/activists-enter-third-day-of-hunger-strike-outside-anthropics-san-francisco-hq-over-recursive-ai-self-improvement-protester-threatens-to-go-40-days-and-target-openai-next",
+      "Published": "2026-11-27T10:30:00Z",
+      "Source": "Tom's Hardware",
+      "Category": "Tech Industry",
+      "Summary": "活動家らは再帰的なAIの自己改善をめぐってアンスロピックのサンフランシスコ本社前でハンガーストライキ3日目を迎える\n\nもし私が彼らに圧力をかけるために40日以上も行かなければならなかったとしたら、Anthropicにとっては悪い評判になるだろう。\n\n活動家らは再帰的なAIの自己改善をめぐってアンスロピックのサンフランシスコ本社外でハンガーストライキ3日目に突入 - 抗議活動参加者は40日以上継続し、次はOpenAIを狙うと脅している\n\n「私が彼らに圧力をかけるために40日以上も行かなければならなかったとしたら、アンスロピックにとって悪い評判になるだろう。」\n\n(画像クレジット: Elliot Callender - https://x.com/ElliotC1/status/2125689373337489419) {alert('リンクがコピーされました')}).catch(err =\u003e {console.error('コピーに失敗しました: ', err)})\" data-platform=\"copy_link\" data-action=\"\" class=\"font-ui-Heading py-2 text-sm text-neutral-700 hover:bg-neutral-100 トランジションカラー アンダーラインなし ブロック カーソル-ポインター ボーダー-0 bg-透明 w-全文-左 通常-ケース\" aria-label=\"リンクをコピー\" role=\"menuitem\" data-analytics-id=\"article-social\" Analytics-label=\"utility-bar-social-share-copy-link\" Analytics-name=\"utility-bar-secondary\" data-mrf-recirculation=\"article-social\"\u003e リンクをコピー\n\n11 会話に参加する フォローする Google ニュースレターの優先ソースとして追加する ニュースレターを購読する AI 市場とそ…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/WajiaySxDXQ9zLYDDsZvPg-985-80.png"
+    },
+    {
+      "Title": "Exaviz Updates Its Cruiser Eight-Port All-In-One Raspberry Pi CM5 Carrier Board with Dual-Band Wi-Fi",
+      "Link": "https://www.hackster.io/news/exaviz-updates-its-cruiser-eight-port-all-in-one-raspberry-pi-cm5-carrier-board-with-dual-band-wi-fi-0963f5261275",
+      "Published": "2026-11-27T10:26:54Z",
+      "Source": "Hackster.io",
+      "Category": "",
+      "Summary": "",
+      "ImageURL": ""
+    },
     {
       "Title": "The Top 10 Best E-readers for 2026",
       "Link": "https://goodereader.com/blog/electronic-readers/the-top-10-best-e-readers-for-2026",
@@ -4773,15 +4908,6 @@
       "ImageURL": "https://cdn.mos.cms.futurecdn.net/gtA4L8AgreNnEb9XFRicAP-1920-80.jpg"
     },
     {
-      "Title": "この RTX 5090 搭載 16 インチ Lenovo Legion Pro 7i ゲーミング ラップトップが $1300 オフ",
-      "Link": "https://www.tomshardware.com/laptops/gaming-laptops/save-usd1300-on-this-rtx-5090-equipped-16-inch-lenovo-legion-pro-7i-gaming-laptop-core-ultra-9-system-with-1tb-storage-and-32gb-of-ddr5-drops-to-usd3999",
-      "Published": "2026-11-26T10:30:00Z",
-      "Source": "Tom's Hardware",
-      "Category": "Laptops",
-      "Summary": "この RTX 5090 搭載 16 インチ Lenovo Legion Pro 7i ゲーミング ラップトップが $1300 オフ\n\n5090 ベースのシステムを低価格でご利用いただけます。\n\nSave $1300 on this RTX 5090-equipped 16-inch Lenovo Legion Pro 7i gaming laptop — Core Ultra 9 system with 1TB storage and 32GB of DDR5 drops to $3999\n\n5090 ベースのシステムを低価格でご利用いただけます。\n\n(Image credit: Tom's Hardware) {alert('Link copied')}).catch(err =\u003e {console.error('Failed to copy: ', err)})\" data-platform=\"copy_link\" data-action=\"\" class=\"font-ui-heading py-2 text-sm text-neutral-700 hover:bg-neutral-100 transition-colors no-underline block cursor-pointer border-0 bg-transparent w-full text-left Normal-case\" aria-label=\"リンクをコピー\" role=\"menuitem\" data-analytics-id=\"article-social\" Analytics-label=\"utility-bar-social-share-copy-link\" Analytics-name=\"utility-bar-secondary\" data-mrf-recirculation=\"article-social\"\u003e リンクをコピー\n\n0 Join the conversation Follow us Add us as a preferred source on Google Ne…",
-      "ImageURL": "https://cdn.mos.cms.futurecdn.net/g2t9uSVsG8dCSmdLjpixLo-1920-80.jpg"
-    },
-    {
       "Title": "TSMCの226億ドルのテキサス計画では2nm以上のチップは2031年まで製造できない",
       "Link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-files-for-usd22-6-billion-texas-fab-campus-with-local-tax-breaks-just-one-county-over-from-musks-terafab-proposed-brazos-county-plant-wont-make-2nm-class-chips-until-2031",
       "Published": "2026-11-26T10:30:00Z",
@@ -4789,6 +4915,15 @@
       "Category": "Manufacturing",
       "Summary": "TSMCの226億ドルのテキサス計画では2nm以上のチップは2031年まで製造できない\n\n申請書には工場内マスクショップと140億ドルの工具と設備が記載されており、そのほとんどが2030年に予算化されている。\n\nTSMC、マスク氏のテラファブからわずか1郡向こうに地方税優遇措置付きで226億ドルのテキサスファブキャンパスを申請 - 提案されているブラゾス郡の工場では2031年まで2nmクラスのチップを製造しない\n\n申請書には工場内マスクショップと140億ドルの工具と設備が記載されており、そのほとんどが2030年に予算化されている。\n\n(画像クレジット: Getty Images / Anadolu) Share {alert('リンクがコピーされました')}).catch(err =\u003e {console.error('コピーに失敗しました: ', err)})\" data-platform=\"copy_link\" data-action=\"\" class=\"font-ui-Heading py-2 text-sm text-neutral-700 hover:bg-neutral-100 transfer-colors no-underline block Cursor-pointer border-0 bg-transparent w-full text-left Normal-case\" aria-label=\"リンクをコピー\" role=\"menuitem\" data-analytics-id=\"article-social\" Analytics-label=\"utility-bar-social-share-copy-link\" Analytics-name=\"utility-bar-secondary\" data-mrf-recirculation=\"article-social\"\u003e リンクをコピー\n\nフォローしてください Google ニュースレターの優先ソースとして追加してください ニュースレターを購読してください TSMC は、テキサス州ブラゾス郡カレッ…",
       "ImageURL": "https://cdn.mos.cms.futurecdn.net/xPVAVkLgv5xCxXmyTAXzVX-1920-80.jpg"
+    },
+    {
+      "Title": "この RTX 5090 搭載 16 インチ Lenovo Legion Pro 7i ゲーミング ラップトップが $1300 オフ",
+      "Link": "https://www.tomshardware.com/laptops/gaming-laptops/save-usd1300-on-this-rtx-5090-equipped-16-inch-lenovo-legion-pro-7i-gaming-laptop-core-ultra-9-system-with-1tb-storage-and-32gb-of-ddr5-drops-to-usd3999",
+      "Published": "2026-11-26T10:30:00Z",
+      "Source": "Tom's Hardware",
+      "Category": "Laptops",
+      "Summary": "この RTX 5090 搭載 16 インチ Lenovo Legion Pro 7i ゲーミング ラップトップが $1300 オフ\n\n5090 ベースのシステムを低価格でご利用いただけます。\n\nSave $1300 on this RTX 5090-equipped 16-inch Lenovo Legion Pro 7i gaming laptop — Core Ultra 9 system with 1TB storage and 32GB of DDR5 drops to $3999\n\n5090 ベースのシステムを低価格でご利用いただけます。\n\n(Image credit: Tom's Hardware) {alert('Link copied')}).catch(err =\u003e {console.error('Failed to copy: ', err)})\" data-platform=\"copy_link\" data-action=\"\" class=\"font-ui-heading py-2 text-sm text-neutral-700 hover:bg-neutral-100 transition-colors no-underline block cursor-pointer border-0 bg-transparent w-full text-left Normal-case\" aria-label=\"リンクをコピー\" role=\"menuitem\" data-analytics-id=\"article-social\" Analytics-label=\"utility-bar-social-share-copy-link\" Analytics-name=\"utility-bar-secondary\" data-mrf-recirculation=\"article-social\"\u003e リンクをコピー\n\n0 Join the conversation Follow us Add us as a preferred source on Google Ne…",
+      "ImageURL": "https://cdn.mos.cms.futurecdn.net/g2t9uSVsG8dCSmdLjpixLo-1920-80.jpg"
     },
     {
       "Title": "HP の RTX 5080 ゲーミング PC が 1,700 ドルの大幅割引となり、現在 2,699.99 ドルです",
@@ -8866,141 +9001,6 @@
       "Category": "Retro gaming",
       "Summary": "Turn your Raspberry Pi into a classic games machine\n\nMake use of Raspberry Pi's ability to run emulation software to replicate a wide range of classic consoles and computers.\n\nFollowing the launch of The Raspberry Pi Guide to Retro Gaming and the recent special retro gaming issue of Raspberry Pi Official Magazine , we thought this Maker Monday was an ideal time to revisit the topic, which seems to be having a bit of a moment.\n\nOne of the most popular uses for a Raspberry Pi computer, retro gaming makes use of the hardware’s power and ability to run emulation software to replicate a wide range of classic consoles and computers: from NES to PlayStation 2, and ZX Spectrum to Amiga. It’s easy to get started by installing a specialist emulation OS such as Recalbox, RetroPie, Lakka, or Batocera.…",
       "ImageURL": "https://www.raspberrypi.com/app/uploads/2026/10/RGB-Dual-2-Large-1024x576.jpeg"
-    },
-    {
-      "Title": "One UI 9.5 leak reveals new controls and shooting modes for Samsung’s Expert RAW",
-      "Link": "https://www.androidauthority.com/samsung-expert-raw-one-ui-9-5-redesign-leak-3735376/",
-      "Published": "2026-11-16T09:18:57Z",
-      "Source": "Android Authority",
-      "Category": "Samsung Galaxy S27",
-      "Summary": "One UI 9.5 leak reveals new controls and shooting modes for Samsung’s Expert RAW\n\nA One UI 9.5 leak offers an early look at Samsung's redesigned Expert RAW app and the new camera features in development.\n\nAffiliate links on Android Authority may earn us a commission. Learn more.\n\nOne UI 9.5 leak reveals new controls and shooting modes for Samsung's Expert RAW\n\nHillary Keverenge • Nov 16, 2026 — 4:18 AM ET\n\n• Shimul Sood / Android Authority Add Android Authority on Google: Preferred Source Google Discover TL;DR A leaked version of Samsung’s Expert RAW app reveals a redesigned interface with customizable shortcuts, an expandable histogram, and a screen lock.\n\nNew photography features include a 30-shot RAW Burst mode, an expanded Virtual Aperture range of f/1.4 to f/22, Tint adjustment, and a…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-Galaxy-S26-Ultras-design-and-camera-module.jpg"
-    },
-    {
-      "Title": "Sony’s QSSR upscaler is coming to Spider-Man, ARC Raiders, No Man’s Sky and more",
-      "Link": "https://www.kitguru.net/gaming/mustafa-mahmoud/sonys-qssr-upscaler-is-coming-to-spider-man-arc-raiders-no-mans-sky-and-more/",
-      "Published": "2026-11-16T09:00:56Z",
-      "Source": "KitGuru",
-      "Category": "upscale",
-      "Summary": "Sony’s QSSR upscaler is coming to Spider-Man, ARC Raiders, No Man’s Sky and more\n\nFollowing its launch back in October, Sony’s QSSR for PS5 is being expanded to half-a-dozen more titles over the coming weeks.\n\nSony’s QSSR upscaler is coming to Spider-Man, ARC Raiders, No Man’s Sky and more\n\nMustafa Mahmoud 19 hours ago Featured Announcement , Software \u0026 Gaming\n\nIn a surprise announcement earlier this month , Sony unveiled and subsequently released its Quick Spectral Super Resolution (QSSR) upscaler for the base PS5 – a more streamlined version of the bespoke PSSR developed for PlayStation’s Pro console. Limited to just Marvel’s Wolverine and Ghost of Yotei initially , the upscaler has now been officially announced to be coming to half a dozen other titles, including Marvel’s Spider-Man 2; …",
-      "ImageURL": "https://www.kitguru.net/wp-content/uploads/2026/11/QSSR-732x330.jpg"
-    },
-    {
-      "Title": "Google’s Pixel 11 Pro HiLight finally supports WhatsApp message notifications",
-      "Link": "https://www.androidauthority.com/pixel-11-pro-hilight-whatsapp-notifications-3735409/",
-      "Published": "2026-11-16T08:47:58Z",
-      "Source": "Android Authority",
-      "Category": "Google Pixel 11",
-      "Summary": "Google’s Pixel 11 Pro HiLight finally supports WhatsApp message notifications\n\nGoogle's HiLight feature on Pixel 11 Pro series now supports WhatsApp message notifications, but its limited app support remains a concern.\n\nAffiliate links on Android Authority may earn us a commission. Learn more.\n\nGoogle's Pixel 11 Pro HiLight finally supports WhatsApp message notifications\n\nShimul Sood • Nov 16, 2026 — 3:47 AM ET\n\n• Shimul Sood / Android Authority Add Android Authority on Google: Preferred Source Google Discover TL;DR Google’s HiLight feature on the Pixel 11 Pro and Pixel 11 Pro XL now supports WhatsApp message notifications.\n\nGoogle confirmed the addition through a video showing HiLight glowing blue for an incoming WhatsApp message.\n\nDespite the latest addition, HiLight still supports only …",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/08/HiLight-for-calls-working-on-Google-11-Pro-XL.jpg"
-    },
-    {
-      "Title": "Samsung could copy Pixel VIPs with this brand-new contact widget",
-      "Link": "https://www.androidauthority.com/samsung-custom-contact-widget-teardown-3735364/",
-      "Published": "2026-11-16T08:45:31Z",
-      "Source": "Android Authority",
-      "Category": "Samsung One UI",
-      "Summary": "Samsung could copy Pixel VIPs with this brand-new contact widget\n\nSamsung's Contacts app only offers rudimentary widgets, but the company is working on its own take on Pixel VIPs.\n\nAffiliate links on Android Authority may earn us a commission. Learn more.\n\nSamsung could copy Pixel VIPs with this brand-new contact widget\n\nHadlee Simons AssembleDebug • Nov 16, 2026 — 3:45 AM ET\n\n• Hadlee Simons / Android Authority Add Android Authority on Google: Preferred Source Google Discover TL;DR We’ve uncovered references to a custom contact widget for Samsung phones.\n\nCode suggests that this widget would show calls, messages, suggested actions, and more for a specific contact.\n\nA Telegram group has also shared screenshots of this widget, giving us a better idea of how it might work.\n\nSamsung’s Contact…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/11/Samsung-Contacts-app-icon-scaled.jpg"
-    },
-    {
-      "Title": "Samsung’s Galaxy Claw could come with a smart ‘Device Cleaner’ tool to free up storage",
-      "Link": "https://www.androidauthority.com/samsung-galaxy-claw-device-cleaner-apk-teardown-3735382/",
-      "Published": "2026-11-16T08:40:36Z",
-      "Source": "Android Authority",
-      "Category": "Samsung Galaxy AI",
-      "Summary": "Samsung’s Galaxy Claw could come with a smart ‘Device Cleaner’ tool to free up storage\n\nSamsung’s upcoming Galaxy Claw experience could include a Device Cleaner feature that lets Galaxy AI analyze and clean up your storage.\n\nAffiliate links on Android Authority may earn us a commission. Learn more.\n\nSamsung’s Galaxy Claw could come with a smart ‘Device Cleaner’ tool to free up storage\n\nAkshay Gangwar AssembleDebug • Nov 16, 2026 — 3:40 AM ET\n\n• Joe Maring / Android Authority Add Android Authority on Google: Preferred Source Google Discover TL;DR Samsung’s upcoming Galaxy Claw experience could include a “Device Cleaner” feature.\n\nIt could let users clear up their phones’ storage using natural-language commands.\n\nIt will work with Samsung’s My Files app and will ask for confirmation before d…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/03/samsung-galaxy-s26-base-review-galaxy-ai-page-scaled.jpg"
-    },
-    {
-      "Title": "One UI 9.5’s leaked Daily Brief could summarize your emails and notifications for you",
-      "Link": "https://www.androidauthority.com/one-ui-9-5-galaxy-claw-agentic-now-daily-brief-3735370/",
-      "Published": "2026-11-16T08:37:57Z",
-      "Source": "Android Authority",
-      "Category": "Samsung One UI",
-      "Summary": "One UI 9.5’s leaked Daily Brief could summarize your emails and notifications for you\n\nWith One UI 9.5, Samsung is working on \"Daily Brief\" that summarizes your key notifications and emails and shows them inside Now Brief.\n\nAffiliate links on Android Authority may earn us a commission. Learn more.\n\nOne UI 9.5’s leaked Daily Brief could summarize your emails and notifications for you\n\nTushar Mehta AssembleDebug • Nov 16, 2026 — 3:37 AM ET\n\n• Mishaal Rahman / Android Authority Add Android Authority on Google: Preferred Source Google Discover TL;DR Samsung appears to be working on a feature called “Daily Brief” inside the existing Now Brief.\n\nThis Daily Brief could summarize emails and notifications from various third-party apps and organize them under categories such as Finance, Bookings, an…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2025/07/Samsung-Now-Brief-on-the-Galaxy-Z-Fold-7.jpg"
-    },
-    {
-      "Title": "Google prepares swipe-to-switch photo editing and auto-save toggle for Snapseed",
-      "Link": "https://www.androidauthority.com/google-snapseed-swipe-switch-photos-apk-teardown-3735391/",
-      "Published": "2026-11-16T08:25:47Z",
-      "Source": "Android Authority",
-      "Category": "Snapseed",
-      "Summary": "Google prepares swipe-to-switch photo editing and auto-save toggle for Snapseed\n\nGoogle is testing a swipe-to-switch photo gesture and an auto-save toggle in Snapseed, letting you edit multiple photos faster.\n\nAffiliate links on Android Authority may earn us a commission. Learn more.\n\nGoogle prepares swipe-to-switch photo editing and auto-save toggle for Snapseed\n\nAamir Siddiqui AssembleDebug • Nov 16, 2026 — 3:25 AM ET\n\n1 • Stephen Radochia / Android Authority Add Android Authority on Google: Preferred Source Google Discover TL;DR Google is testing a swipe-to-switch workflow in Snapseed that lets users swipe left or right to move between photos directly inside the editor.\n\nThe gesture works for both locally stored images and photos taken with Snapseed’s built-in camera, removing the need …",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/05/snapseed-40-google-pixel-10-pro-xl-scaled.jpg"
-    },
-    {
-      "Title": "Google Messages could finally let you listen to voice messages while you browse other chats",
-      "Link": "https://www.androidauthority.com/google-messages-voice-messages-upgrades-apk-teardown-3735340/",
-      "Published": "2026-11-16T07:22:15Z",
-      "Source": "Android Authority",
-      "Category": "Google Messages",
-      "Summary": "Google Messages could finally let you listen to voice messages while you browse other chats\n\nGoogle Messages could get a new voice message icon, background audio playback with notification shade media controls, and more.\n\nAffiliate links on Android Authority may earn us a commission. Learn more.\n\nGoogle Messages could finally let you listen to voice messages while you browse other chats\n\nAkshay Gangwar AssembleDebug • Nov 16, 2026 — 2:22 AM ET\n\n• Joe Maring / Android Authority Add Android Authority on Google: Preferred Source Google Discover TL;DR Google is working on a new microphone icon for voice messages, and the “Attach” label could change to “Send.”\n\nAudio messages could soon continue playing when you go back to the main chats list, with system-level media controls in the notificatio…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/11/google-messages-2026-update-pinned-chats-scaled.jpg"
-    },
-    {
-      "Title": "Apple is betting on the App Store to give its smart glasses an edge over Meta and Google",
-      "Link": "https://www.androidauthority.com/apple-smart-glasses-siri-ai-iphone-apps-3735327/",
-      "Published": "2026-11-16T07:09:51Z",
-      "Source": "Android Authority",
-      "Category": "Smart Glasses",
-      "Summary": "Apple is betting on the App Store to give its smart glasses an edge over Meta and Google\n\nApple is betting on hands-free iPhone app interactions, Siri AI, and slimmer hardware to make its 2027 smart glasses stand out.\n\nAffiliate links on Android Authority may earn us a commission. Learn more.\n\nApple is betting on the App Store to give its smart glasses an edge over Meta and Google\n\nHillary Keverenge • Nov 16, 2026 — 2:09 AM ET\n\n• C. Scott Brown / Android Authority Add Android Authority on Google: Preferred Source Google Discover TL;DR Apple is reportedly making Siri AI and third-party iPhone app integrations the centerpiece of its upcoming smart glasses.\n\nInternal prototypes are slightly thinner than the second-generation Ray-Ban Meta glasses and feature flush cameras and a magnetic chargi…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/11/Google-Intelligent-Eyewear-6.jpg"
-    },
-    {
-      "Title": "TE Connectivity at OCP Summit 2026 The Interview",
-      "Link": "https://www.servethehome.com/te-connectivity-at-ocp-summit-2026-the-interview/",
-      "Published": "2026-11-16T07:00:21Z",
-      "Source": "ServeTheHome",
-      "Category": "TE Connectivity",
-      "Summary": "TE Connectivity at OCP Summit 2026 The Interview\n\nBrian Payne joins us for an interview on 800V DC power, 488G SerDes, copper and optical connectivity and more from OCP Summit 2026\n\nAt the 2026 OCP Global Summit, I had the chance to sit down with Brian Payne, Vice President of Product Management for the Digital Data Networks (DDN) business at TE Connectivity.\n\nMany of our readers will know Brian from his 26 years at Dell, but he had been at TE Connectivity for about a month when we spoke. TE’s booth was built around three interconnected system-level racks, an optical interconnect rack, a sidecar power rack, and a copper IT rack, so we walked through the high-speed connectivity, the power delivery, and why TE thinks its system-level approach matters as AI infrastructure scales. We previousl…",
-      "ImageURL": "https://www.servethehome.com/wp-content/uploads/2026/11/TE-Connectivity-OCP-Summit-26.jpg"
-    },
-    {
-      "Title": "Intel gains desktop CPU market share as AMD's falls for the first time in a while",
-      "Link": "https://www.tweaktown.com/rss/click/news/114704/?c=news-mf",
-      "Published": "2026-11-16T06:28:01Z",
-      "Source": "TweakTown",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "New leak shows Galaxy S27 Pro and Ultra camera design with three lenses",
-      "Link": "https://www.androidauthority.com/galaxy-s27-pro-ultra-camera-design-leak-3735297/",
-      "Published": "2026-11-16T06:13:27Z",
-      "Source": "Android Authority",
-      "Category": "Samsung Galaxy S27",
-      "Summary": "New leak shows Galaxy S27 Pro and Ultra camera design with three lenses\n\nLeaker Ice Universe shared a \"final design\" for the Galaxy S27 Pro and Ultra's camera island, corroborating reports of a triple camera setup.\n\nAffiliate links on Android Authority may earn us a commission. Learn more.\n\nNew leak shows Galaxy S27 Pro and Ultra camera design with three lenses\n\nAkshay Gangwar • Nov 16, 2026 — 1:13 AM ET\n\n1 • Shimul Sood / Android Authority Add Android Authority on Google: Preferred Source Google Discover TL;DR The purported final design of the Galaxy S27 Pro and S27 Ultra has leaked.\n\nIt shows a triple rear-camera setup for both phones, supporting earlier claims that the Ultra will drop to three cameras.\n\nThe S27 Ultra is expected to feature a 200MP primary, 50MP ultrawide, and 50MP telep…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-Galaxy-S26-Ultras-camera-module-zoomed-in.jpg"
-    },
-    {
-      "Title": "It’s A NAS, For Sony Mavica Disks",
-      "Link": "https://hackaday.com/2026/11/15/its-a-nas-for-sony-mavica-disks/",
-      "Published": "2026-11-16T06:00:27Z",
-      "Source": "Hackaday",
-      "Category": "mavica",
-      "Summary": "It’s A NAS, For Sony Mavica Disks\n\nAt the dawn of the consumer digital camera age, manufacturers tested this new market with a wide array of interesting and unorthodox designs. This era only lasted a few years before they moved towa…\n\nAt the dawn of the consumer digital camera age, manufacturers tested this new market with a wide array of interesting and unorthodox designs. This era only lasted a few years before they moved toward making models that resembled the 35mm cameras the consumers were used to. Sony’s Mavica offerings were particularly unusual, because they eschewed Flash storage for the then-ubiquitous 3.5″ floppy disk. Where there are files, there might be a need to share them, so [Bigcrimping] has created floppy3.5. It’s a NAS for digital Mavica disks .\n\nInside, along with the …",
-      "ImageURL": "https://hackaday.com/wp-content/uploads/2026/11/mavica-nas-featured.jpg"
-    },
-    {
-      "Title": "Claude Fable 5.2 builds a swimmable underwater world in a single 97KB HTML file",
-      "Link": "https://www.tweaktown.com/rss/click/news/114695/?c=news-mf",
-      "Published": "2026-11-16T05:41:16Z",
-      "Source": "TweakTown",
-      "Category": "",
-      "Summary": "",
-      "ImageURL": ""
-    },
-    {
-      "Title": "Lenovo’s first detachable Googlebook tipped to debut in January 2027",
-      "Link": "https://www.androidauthority.com/lenovo-googlebook-duet-13-launch-date-leak-3735290/",
-      "Published": "2026-11-16T05:27:52Z",
-      "Source": "Android Authority",
-      "Category": "Lenovo",
-      "Summary": "Lenovo’s first detachable Googlebook tipped to debut in January 2027\n\nFresh Lenovo Googlebook Duet 13 renders showcase its detachable keyboard, stylus, and mouse ahead of a rumored January launch.\n\nAffiliate links on Android Authority may earn us a commission. Learn more.\n\nLenovo's first detachable Googlebook tipped to debut in January 2027\n\nHillary Keverenge • Nov 16, 2026 — 12:27 AM ET\n\n• Richard Priday / Android Authority Add Android Authority on Google: Preferred Source Google Discover TL;DR Leaker Evan Blass claims the Lenovo Googlebook Duet 13 will launch in January 2027.\n\nNew renders showcase the detachable keyboard, rear kickstand, stylus, and a color-matched wireless mouse.\n\nThe device could be among the first detachable Googlebooks to hit the market.\n\nThe first wave of Googlebook…",
-      "ImageURL": "https://www.androidauthority.com/wp-content/uploads/2026/09/Lenovo-Googlebook-15-open-lid-scaled-e1789985627710.jpeg"
     }
   ]
 }
